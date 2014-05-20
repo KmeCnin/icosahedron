@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8" />
+        <title>{% block title %}Icosahedron{% endblock %}</title>
+        {% stylesheets 
+		  '@IcoAppBundle/Resources/public/css/bootstrap.min.css'
+	   filter='cssrewrite' %}
+	   <link rel="stylesheet" href="{{ asset_url }}" />
+	   {% endstylesheets %}
+        <link rel="icon" type="image/x-icon" href="{{ asset('favicon.ico') }}" />
+    </head>
+    <body>
+	   <h1>Icosahedron</h1>
+        {% block content %}{% endblock %}
+        {% javascripts 
+		  '@IcoAppBundle/Resources/public/js/jquery.js' 
+		  '@IcoAppBundle/Resources/public/js/bootstrap.min.js' 
+	   %}
+	   <script type="text/javascript" src="{{ asset_url }}"></script>
+	   {% endjavascripts %}
+    </body>
+</html>
