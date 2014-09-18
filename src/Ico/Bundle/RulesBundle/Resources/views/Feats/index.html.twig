@@ -1,0 +1,16 @@
+{% extends "IcoRulesBundle::layout.html.twig" %}
+
+{% block content %}
+    <table class="table table-striped table-hover">
+	   <tr>
+		  <th>Don</th>
+		  <th>Description</th>
+	   </tr>
+	   {% for feat in list %}
+	   <tr>
+		  <th>{{ feat.name }}</th>
+		  <th>{{ feat.description }}</th>
+	   </tr>
+	   {% endfor %}
+    </table>
+{% endblock %}

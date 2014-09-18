@@ -1,0 +1,141 @@
+{% block form_widget %}
+{% spaceless %}
+    {% if compound %}
+        {{ block('form_widget_compound') }}
+    {% else %}
+        {{ block('form_widget_simple') }}
+    {% endif %}
+{% endspaceless %}
+{% endblock form_widget %}
+
+{% block form_label %}
+{% spaceless %}
+    {% if not compound %}
+        {% set label_attr = label_attr|merge({'for': id}) %}
+    {% endif %}
+    {% if required %}
+        {% set label_attr = label_attr|merge({'class': (label_attr.class|default('') ~ ' required')|trim}) %}
+    {% endif %}
+    {% if label is empty %}
+        {% set label = name|humanize %}
+    {% endif %}
+    <label class="control-label"{% for attrname, attrvalue in label_attr %} {{ attrname }}="{{ attrvalue }}"{% endfor %}>{{ label|trans({}, translation_domain) }}</label>
+{% endspaceless %}
+{% endblock form_label %}
+
+{% block form_errors %}
+{% spaceless %}
+    {% if errors|length > 0 %}
+        {% for error in errors %}
+            <div class="text-danger"> {{
+                error.messagePluralization is null
+                    ? error.messageTemplate|trans(error.messageParameters, 'validators')
+                    : error.messageTemplate|transchoice(error.messagePluralization, error.messageParameters, 'validators')
+            }}</div>
+        {% endfor %}
+    {% endif %}
+{% endspaceless %}
+{% endblock form_errors %}
+
+{% block form_start %}
+{% spaceless %}
+    {% set method = method|upper %}
+    {% if method in ["GET", "POST"] %}
+        {% set form_method = method %}
+    {% else %}
+        {% set form_method = "POST" %}
+    {% endif %}
+    <form class="row" name="{{ form.vars.name }}" method="{{ form_method|lower }}" action="{{ action }}"{% for attrname, attrvalue in attr %} {{ attrname }}="{{ attrvalue }}"{% endfor %}{% if multipart %} enctype="multipart/form-data"{% endif %}>
+    {% if form_method != method %}
+        <input type="hidden" name="_method" value="{{ method }}" />
+    {% endif %}
+{% endspaceless %}
+{% endblock form_start %}
+
+{% block form_row %}
+{% spaceless %}
+    <div class="form_row form-group {% if not form.vars.valid %}has-error{% endif %}">
+        {{ form_label(form) }}
+        {{ form_errors(form) }}
+        {{ form_widget(form) }}
+    </div>
+{% endspaceless %}
+{% endblock form_row %}
+
+{% block form_widget_simple %}
+{% spaceless %}
+    {% set type = type|default('text') %}
+    <input type="{{ type }}" {{ block('widget_attributes') }} {% if value is not empty %}value="{{ value }}" {% endif %} class="form-control" />
+{% endspaceless %}
+{% endblock form_widget_simple %}
+    
+{% block textarea_widget %}
+{% spaceless %}
+    <textarea {{ block('widget_attributes') }} class="form-control" rows="3">{{ value }}</textarea>
+{% endspaceless %}
+{% endblock textarea_widget %}
+    
+{% block choice_widget_collapsed %}
+{% spaceless %}
+    {% if required and empty_value is none and not empty_value_in_choices and not multiple %}
+        {% set required = false %}
+    {% endif %}
+    <select class="form-control" {{ block('widget_attributes') }}{% if multiple %} multiple="multiple"{% endif %}>
+        {% if empty_value is not none %}
+            <option value=""{% if required and value is empty %} selected="selected"{% endif %}>{{ empty_value|trans({}, translation_domain) }}</option>
+        {% endif %}
+        {% if preferred_choices|length > 0 %}
+            {% set options = preferred_choices %}
+            {{ block('choice_widget_options') }}
+            {% if choices|length > 0 and separator is not none %}
+                <option disabled="disabled">{{ separator }}</option>
+            {% endif %}
+        {% endif %}
+        {% set options = choices %}
+        {{ block('choice_widget_options') }}
+    </select>
+{% endspaceless %}
+{% endblock choice_widget_collapsed %}
+    
+{% block checkbox_widget %}
+{% spaceless %}
+    <input class="form-control" type="checkbox" {{ block('widget_attributes') }}{% if value is defined %} value="{{ value }}"{% endif %}{% if checked %} checked="checked"{% endif %} />
+{% endspaceless %}
+{% endblock checkbox_widget %}
+    
+{% block button_widget %}
+{% spaceless %}
+    {% if label is empty %}
+        {% set label = name|humanize %}
+    {% endif %}
+    <button class="btn {% if type == 'submit' %}btn-primary{% else %} btn-default{% endif %}" type="{{ type|default('button') }}" {{ block('button_attributes') }}>{% if type == 'submit' %}<span class="glyphicon glyphicon-ok"></span> {% endif %}{{ label|trans({}, translation_domain) }}</button>
+{% endspaceless %}
+{% endblock button_widget %}
+
+{% block time_widget %}
+    {% if widget == 'single_text' %}
+        {{ block('form_widget_simple') }}
+    {% else %}
+        {% set vars = widget == 'text' ? { 'attr': { 'size': 1 }} : {} %}
+        {{ form_widget(form.hour, vars) }}<span class="input-group-addon inner-addon">h</span>{{ form_widget(form.minute, vars) }}<span class="input-group-addon {% if with_seconds %}inner-addon{% endif %}">m</span>{% if with_seconds %}{{ form_widget(form.second, vars) }}<span class="input-group-addon">s</span>{% endif %}
+    {% endif %}
+{% endblock time_widget %}
+
+{# DATEPICKER #}
+
+{% block datepicker_widget %}
+    <input placeholder="Date" class="form-control datepicker" type="text" {% if value is not empty %}value="{{ value }}" {% endif %} {{ block('widget_attributes') }}/>
+{% endblock %}
+
+{# DATETIMEPICKER #}
+
+{% block datetimepicker_widget %}
+    {{ form_errors(form.date) }}
+    {{ form_errors(form.time) }}
+    <div class="input-group datetimepicker">
+        <span class="input-group-addon">Le</span>
+        {{ form_widget(form.date) }}
+        <span class="input-group-addon inner-addon">à</span>
+        {{ form_widget(form.time) }}
+    </div>
+{% endblock %}

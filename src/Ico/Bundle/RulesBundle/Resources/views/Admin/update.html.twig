@@ -1,0 +1,11 @@
+{% extends "IcoRulesBundle::layout.html.twig" %}
+{% form_theme form 'IcoAppBundle:Form:fields.html.twig' %}
+
+{% block content %}
+    {{ form_start(form) }}
+	   {% for item in form %}
+		  {{ form_row(item) }}
+	   {% endfor%}
+	   <button type="submit" class="btn btn-primary"><span class="fa fa-refresh"></span>Synchroniser</button>
+    {{ form_end(form) }}
+{% endblock %}

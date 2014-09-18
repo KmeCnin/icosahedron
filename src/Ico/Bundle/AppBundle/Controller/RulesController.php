@@ -6,17 +6,18 @@ use Symfony\Bundle\FrameworkBundle\Controller\Controller;
 use Sensio\Bundle\FrameworkExtraBundle\Configuration\Route;
 use Sensio\Bundle\FrameworkExtraBundle\Configuration\Template;
 
-class AppController extends Controller
+class RulesController extends Controller
 {
     /**
-     * @Route("/", name="ico")
+     * @Route("/", name="ico_rules")
      * @Template()
      */
     public function indexAction()
     {
-        return $this->render('IcoAppBundle::index.html.twig', array(
+        return $this->render('IcoAppBundle::rules.html.twig', array(
 		  'breadcrumb' => array(
-			 'Accueil' => 'ico'
+			 'Accueil' => 'ico',
+			 'Règles' => 'ico_rules'
 		  ),
 		  'title' => 'Accueil',
 		  'subtitle' => 'Bienvenue'

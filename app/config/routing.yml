@@ -1,3 +1,8 @@
+ico_rules:
+    resource: "@IcoRulesBundle/Controller/"
+    type:     annotation
+    prefix:   /
+
 ico_app:
     resource: "@IcoAppBundle/Controller/"
     type:     annotation

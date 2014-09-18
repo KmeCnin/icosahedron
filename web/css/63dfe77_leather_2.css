@@ -1,0 +1,13 @@
+.jumbotron {
+    box-shadow: inset 0 -2px 0 rgba(0,0,0,0.05);
+}
+.alert {
+    line-height: 20px;
+}
+.alert .fa {
+    font-size: 20px;
+    margin-right: 10px;
+}
+.jumbotron  {
+    background: url('../../Resources/public/images/dark_leather.png');
+}
