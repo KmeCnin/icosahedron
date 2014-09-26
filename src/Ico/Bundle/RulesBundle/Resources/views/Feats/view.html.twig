@@ -1,0 +1,24 @@
+{% extends "IcoRulesBundle::layout.html.twig" %}
+
+{% block content %}
+    <div class="panel panel-default">
+	   <div class="panel-heading">Catégories</div>
+	   <div class="panel-body justify">
+	   {% for feattype in feat.feattypes %}
+		  {% if loop.index != 1 %}, {% endif %}<a class="preview" href="{{ path('ico_rules_feattypes_view', {'id': feattype.id}) }}">{{ feattype.name }}</a></span>
+	   {% endfor %}
+	   </div>
+    </div>
+    <div class="panel panel-default">
+	   <div class="panel-heading">Conditions</div>
+	   <div class="panel-body justify">
+	   {% for featprerequisite in feat.featprerequisites %}
+		  {% if loop.index != 1 %}, {% endif %}{% if featprerequisite.link != '' %}<a class="preview" href="{{ featprerequisite.link }}">{{ featprerequisite.name }}</a>{% else %}{{ featprerequisite.name }}{% endif %}
+	   {% endfor %}
+	   </div>
+    </div>
+    <div class="panel panel-default">
+	   <div class="panel-heading">Avantage</div>
+	   <div class="panel-body justify">{{ feat.benefit }}</div>
+    </div>
+{% endblock %}

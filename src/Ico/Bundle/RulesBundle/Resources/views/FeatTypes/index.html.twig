@@ -1,0 +1,16 @@
+{% extends "IcoRulesBundle::layout.html.twig" %}
+
+{% block content %}
+<table class="table table-striped table-hover">
+    <tr>
+	   <th>Catégorie</th>
+	   <th>Description</th>
+    </tr>
+	   {% for feattype in list %}
+    <tr class="link" onclick="window.location.href=Routing.generate('ico_rules_feattypes_view', {id: {{ feattype.id }}});">
+	   <td>{{ feattype.name }}</td>
+	   <td>{{ feattype.description }}</td>
+    </tr>
+	   {% endfor %}
+</table>
+{% endblock %}

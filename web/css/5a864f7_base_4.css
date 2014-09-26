@@ -1,0 +1,15 @@
+body {
+    font-size: 16px;
+}
+.breadcrumb {
+    margin: 0;
+}
+.fa {
+    margin-right: 7px;
+}
+.link {
+    cursor: pointer;
+}
+.justify {
+    text-align: justify;
+}

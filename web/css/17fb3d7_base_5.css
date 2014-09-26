@@ -67,13 +67,3 @@ a, a:hover, a:active, a:visited, .text-primary {
     padding: 0;
     position: relative;
 }
-.search-choice {
-    background-color: #42A500;
-    display: inline;
-    padding: .2em .6em .3em;
-    color: #fff;
-    text-align: center;
-    white-space: nowrap;
-    vertical-align: baseline;
-    border-radius: .25em;
-}

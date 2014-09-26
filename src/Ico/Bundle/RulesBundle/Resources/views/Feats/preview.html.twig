@@ -1,0 +1,15 @@
+<h4 class="text-nowrap">{{ feat.name }} <small>[Don]</small></h4>
+<hr />
+<small>
+    <span class="text-muted">Catégories : </span>
+    {% for feattype in feat.feattypes %}
+{#		  <img class="icon" src="{{ asset('fantasy-icons/feattype-'~feattype.nameId~'.png') }}" />#}
+	   <span class="text-primary text-nowrap">{{ feattype.name }}</span>
+    {% endfor %}
+    <br />
+    <span class="text-muted">Conditions : </span>
+    {% for featprerequisite in feat.featprerequisites %}{% if loop.index != 1 %}, {% endif %}<span class="text-primary text-nowrap">{{ featprerequisite.name }}</span>{% endfor %}
+</small>
+<div class="well well-sm">
+    {{ feat.description }}
+</div>

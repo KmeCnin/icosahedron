@@ -11,6 +11,7 @@
         "symfony/symfony": "~2.4",
         "doctrine/orm": "~2.2,>=2.2.3",
         "doctrine/doctrine-bundle": "~1.2",
+	   "doctrine/doctrine-fixtures-bundle": "dev-master",
         "twig/extensions": "~1.0",
         "symfony/assetic-bundle": "~2.3",
         "symfony/swiftmailer-bundle": "~2.3",
@@ -20,6 +21,8 @@
         "sensio/generator-bundle": "~2.3",
         "incenteev/composer-parameter-handler": "~2.0",
 	   "friendsofsymfony/user-bundle": "2.0.*@dev",
+        "friendsofsymfony/jsrouting-bundle": "@stable",
+        "knplabs/knp-paginator-bundle": "~2.4",
 	   "symfony/dom-crawler": "~2.0",
 	   "symfony/css-selector": "~2.0"
     },

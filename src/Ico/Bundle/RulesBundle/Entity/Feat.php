@@ -24,6 +24,13 @@ class Feat
     /**
      * @var string
      *
+     * @ORM\Column(name="nameId", type="string", length=255)
+     */
+    private $nameId;
+
+    /**
+     * @var string
+     *
      * @ORM\Column(name="name", type="string", length=255)
      */
     private $name;
@@ -48,7 +55,24 @@ class Feat
      * @ORM\Column(name="benefit", type="text")
      */
     private $benefit;
-
+    
+    /**
+     * @ORM\ManyToMany(targetEntity="FeatType", cascade={"remove", "persist"})
+     */
+    protected $featTypes;
+    
+    /**
+     * @ORM\OneToMany(targetEntity="FeatPrerequisite", mappedBy="feat", cascade={"persist"})
+     */
+    protected $featPrerequisites;
+    
+    /**
+     * Constructor
+     */
+    public function __construct()
+    {
+        $this->featTypes = new \Doctrine\Common\Collections\ArrayCollection();
+    }
 
     /**
      * Get id
@@ -150,5 +174,94 @@ class Feat
     public function getBenefit()
     {
         return $this->benefit;
+    }
+
+    /**
+     * Add featTypes
+     *
+     * @param \Ico\Bundle\RulesBundle\Entity\FeatType $featTypes
+     * @return Feat
+     */
+    public function addFeatType(\Ico\Bundle\RulesBundle\Entity\FeatType $featTypes)
+    {
+        $this->featTypes[] = $featTypes;
+
+        return $this;
+    }
+
+    /**
+     * Remove featTypes
+     *
+     * @param \Ico\Bundle\RulesBundle\Entity\FeatType $featTypes
+     */
+    public function removeFeatType(\Ico\Bundle\RulesBundle\Entity\FeatType $featTypes)
+    {
+        $this->featTypes->removeElement($featTypes);
+    }
+
+    /**
+     * Get featTypes
+     *
+     * @return \Doctrine\Common\Collections\Collection 
+     */
+    public function getFeatTypes()
+    {
+        return $this->featTypes;
+    }
+
+    /**
+     * Set nameId
+     *
+     * @param string $nameId
+     * @return Feat
+     */
+    public function setNameId($nameId)
+    {
+        $this->nameId = $nameId;
+
+        return $this;
+    }
+
+    /**
+     * Get nameId
+     *
+     * @return string 
+     */
+    public function getNameId()
+    {
+        return $this->nameId;
+    }
+
+    /**
+     * Add featPrerequisites
+     *
+     * @param \Ico\Bundle\RulesBundle\Entity\FeatPrerequisite $featPrerequisites
+     * @return Feat
+     */
+    public function addFeatPrerequisite(\Ico\Bundle\RulesBundle\Entity\FeatPrerequisite $featPrerequisites)
+    {
+        $this->featPrerequisites[] = $featPrerequisites;
+
+        return $this;
+    }
+
+    /**
+     * Remove featPrerequisites
+     *
+     * @param \Ico\Bundle\RulesBundle\Entity\FeatPrerequisite $featPrerequisites
+     */
+    public function removeFeatPrerequisite(\Ico\Bundle\RulesBundle\Entity\FeatPrerequisite $featPrerequisites)
+    {
+        $this->featPrerequisites->removeElement($featPrerequisites);
+    }
+
+    /**
+     * Get featPrerequisites
+     *
+     * @return \Doctrine\Common\Collections\Collection 
+     */
+    public function getFeatPrerequisites()
+    {
+        return $this->featPrerequisites;
     }
 }
