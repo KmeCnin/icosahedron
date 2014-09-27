@@ -51,14 +51,6 @@ a, a:hover, a:active, a:visited, .text-primary {
     text-decoration: none !important;
 }
 .chosen-container-multi .chosen-choices {
-    /*background-color: #ffffff;*/
-/*    border: 1px solid #cccccc;
-    border-top-right-radius: 4px;
-    border-top-left-radius: 4px;
-    border-bottom-right-radius: 4px;
-    border-bottom-left-radius: 4px;*/
-/*    -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075);
-    box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075);*/
     cursor: text;
     height: auto !important;
     height: 1%;
@@ -76,4 +68,45 @@ a, a:hover, a:active, a:visited, .text-primary {
     white-space: nowrap;
     vertical-align: baseline;
     border-radius: .25em;
+}
+.select-multiple-wrapper select:first-child {
+    float: right;
+    width: auto;
+    height: 27px;
+    padding: 5px 10px;
+    font-size: 12px;
+    line-height: 1.5;
+    border-bottom-right-radius: 0 !important;
+    border-bottom-left-radius: 0 !important;
+    position: relative;
+    right: -1px;
+}
+.select-multiple-wrapper select[multiple] + .chosen-container .chosen-choices {
+    border-top-right-radius: 0 !important;
+}
+.well form {
+    margin: 0;
+}
+legend button {
+    float: right;
+    position: relative;
+    top: -7px;
+}
+.btn-primary,
+.btn-primary:hover,
+.btn-primary:focus,
+.btn-primary:active,
+.btn-primary.active,
+.open .dropdown-toggle.btn-primary {
+    background-color: #42A500;
+    border-color: #3B9400;
+}
+.pagination>.active>a, 
+.pagination>.active>span, 
+.pagination>.active>a:hover, 
+.pagination>.active>span:hover, 
+.pagination>.active>a:focus, 
+.pagination>.active>span:focus {
+    background-color: #42A500;
+    border-color: #3B9400;
 }

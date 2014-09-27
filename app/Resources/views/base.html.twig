@@ -37,7 +37,7 @@
 				    </ul>
 				</li>
 			 </ul>
-			 
+
 			 {% if is_granted('ROLE_ADMIN') %}
 			 <ul class="nav navbar-nav">
 				<li class="dropdown">
@@ -63,30 +63,18 @@
 				{% endif %}
 			 </ul>
 
-			 </div>
 		  </div>
 	   </div>
 	   <div class="container">
 {% block body %}
 		  <div class="row">
-		  {% if error is defined %}
-			 <div id="alert-wrapper" class="col-lg-12">
-		  {% if error is defined and error %}
-				<div class="alert alert-dismissable alert-danger">
-				    <button type="button" class="close" data-dismiss="alert">×</button>
-				    <span class="fa fa-times-circle"></span> {{ error }}
-				</div>
-		  {% endif %}
-			 </div>
-		  {% endif %}
-			 
 		  {% block breadcrumb %}
 			 <ul class="breadcrumb">
 			 {% for label, route in breadcrumb %}
 				{% if route == '' or loop.index == breadcrumb|length %}
-		  <li>{{ label }}</li>
+				<li>{{ label }}</li>
 				{% else %}
-		  <li><a href="{{ path(route) }}">{{ label }}</a></li>
+				<li><a href="{{ path(route) }}">{{ label }}</a></li>
 				{% endif %}
 			 {% endfor %}
 			 </ul>
@@ -96,14 +84,28 @@
 				<h1>{{ title }} <small>{{ subtitle }}</small></h1>
 			 </div>
 		  {% endblock %}
-		  
-		  <div class="col-lg-12">
-		  {% block content %}{% endblock %}
 		  </div>
+
+		  {% for flashMessage in app.session.flashbag.get('success') %}
+			 {% include 'success.html.twig' with {'message': flashMessage} %}
+		  {% endfor %}
+		  {% for flashMessage in app.session.flashbag.get('error') %}
+			 {% include 'error.html.twig' with {'message': flashMessage} %}
+		  {% endfor %}
+		  {% for flashMessage in app.session.flashbag.get('warning') %}
+			 {% include 'warning.html.twig' with {'message': flashMessage} %}
+		  {% endfor %}
+		  {% for flashMessage in app.session.flashbag.get('info') %}
+			 {% include 'info.html.twig' with {'message': flashMessage} %}
+		  {% endfor %}
 			 
-		  <script>
-			 var assets = "{{ asset('') }}";
-		  </script>
+			 <div class="col-lg-12">
+		  {% block content %}{% endblock %}
+			 </div>
+
+			 <script>
+				var assets = "{{ asset('') }}";
+			 </script>
 		  {% javascripts 
 			 '@IcoAppBundle/Resources/public/js/jquery.js' 
 			 '@IcoAppBundle/Resources/public/js/jquery-ui.min.js' 
@@ -115,8 +117,7 @@
 			 <script src="{{ asset('bundles/fosjsrouting/js/router.js') }}"></script>
 			 <script src="{{ path('fos_js_routing_js', {"callback": "fos.Router.setData"}) }}"></script>
 		  {% endjavascripts %}
-			 
-		  </div>
+
 {% endblock %}
 	   </div>
     </body>

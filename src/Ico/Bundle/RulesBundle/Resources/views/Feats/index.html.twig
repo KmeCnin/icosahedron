@@ -1,36 +1,31 @@
 {% extends "IcoRulesBundle::layout.html.twig" %}
+{% form_theme filter 'IcoAppBundle:Form:fields.html.twig' %}
 
 {% block content %}
 <div class="well bs-component">
-    <form class="form content" role="form">
+    {{ form_start(filter) }}
 	   <fieldset class="row">
-		  <legend class="col-xs-12">Recherche</legend>
-		  <div class="form-group col-xs-2">
-			 <label class="control-label" for="name">Don</label>
-			 <input class="form-control" id="name" type="text" placeholder="Chercher par mot-clé" autocomplete="off" />
+		  <legend class="col-xs-12">Recherche <small class="text-muted">(Total de {{ pagination.getTotalItemCount }} don{% if pagination.getTotalItemCount > 1 %}s{% endif %} trouvé{% if pagination.getTotalItemCount > 1 %}s{% endif %})</small> <button type="submit" class="btn btn-default btn-sm"><span class="fa fa-refresh"></span>Filtrer</button></legend>
+		  <div class="col-xs-2">
+			 {{ form_row(filter.name) }}
 		  </div>
-		  <div class="form-group col-xs-4">
-			 <label class="control-label" for="types">Catégories</label>
-			 <select class="form-control" id="types" type="select" multiple data-placeholder="Choisissez plusieurs">
-				{% for type in feattypes %}
-				<option value="{{ type.id }}">{{ type.name }}</option>
-				{% endfor %}
-			 </select>
+		  <div class="col-xs-4 select-multiple-wrapper">
+			 {{ form_widget(filter.featTypesType) }}
+			 {{ form_row(filter.featTypes) }}
 		  </div>
-		  <div class="form-group col-xs-4">
+		  <div class="col-xs-4">
 			 <label class="control-label" for="prerequisistes">Prérequis</label>
-			 <select class="form-control" id="prerequisistes" type="select" multiple data-placeholder="Choisissez plusieurs">
+			 {#<select class="form-control" id="prerequisistes" type="select" multiple data-placeholder="Choisissez plusieurs">
 				{% for prerequisite in featprerequisites %}
 				<option value="{{ prerequisite.id }}">{{ prerequisite.name }}</option>
 				{% endfor %}
-			 </select>
+			 </select>#}
 		  </div>
-		  <div class="form-group col-xs-2">
-			 <label class="control-label" for="description">Description</label>
-			 <input class="form-control" id="description" type="text" placeholder="Chercher par mot-clé" autocomplete="off" />
+		  <div class="col-xs-2">
+			 {{ form_row(filter.description) }}
 		  </div>
 	   </fieldset>
-    </form>
+    {{ form_end(filter) }}
 </div>
 <table class="table table-striped table-hover">
     <tr>
