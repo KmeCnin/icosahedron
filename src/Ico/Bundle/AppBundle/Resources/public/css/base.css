@@ -78,8 +78,6 @@ a, a:hover, a:active, a:visited, .text-primary {
     line-height: 1.5;
     border-bottom-right-radius: 0 !important;
     border-bottom-left-radius: 0 !important;
-    position: relative;
-    right: -1px;
 }
 .select-multiple-wrapper select[multiple] + .chosen-container .chosen-choices {
     border-top-right-radius: 0 !important;

@@ -48,6 +48,15 @@ class FeatType
      * @ORM\Column(name="detail", type="text", nullable=true)
      */
     private $detail; 
+    
+    /**
+     * @var ArrayCollection FeatType $feats
+     * Inverse Side
+     *
+     * @ORM\ManyToMany(targetEntity="Feat", mappedBy="featTypes", cascade={"persist", "merge", "remove"})
+     * @ORM\JoinColumn(onDelete="CASCADE")
+     */
+    private $feats;
 
     /**
      * @var string
@@ -179,5 +188,45 @@ class FeatType
     public function getDetail()
     {
         return $this->detail;
+    }
+    /**
+     * Constructor
+     */
+    public function __construct()
+    {
+        $this->feats = new \Doctrine\Common\Collections\ArrayCollection();
+    }
+
+    /**
+     * Add feats
+     *
+     * @param \Ico\Bundle\RulesBundle\Entity\Feat $feats
+     * @return FeatType
+     */
+    public function addFeat(\Ico\Bundle\RulesBundle\Entity\Feat $feats)
+    {
+        $this->feats[] = $feats;
+
+        return $this;
+    }
+
+    /**
+     * Remove feats
+     *
+     * @param \Ico\Bundle\RulesBundle\Entity\Feat $feats
+     */
+    public function removeFeat(\Ico\Bundle\RulesBundle\Entity\Feat $feats)
+    {
+        $this->feats->removeElement($feats);
+    }
+
+    /**
+     * Get feats
+     *
+     * @return \Doctrine\Common\Collections\Collection 
+     */
+    public function getFeats()
+    {
+        return $this->feats;
     }
 }

@@ -7,10 +7,10 @@ use Sensio\Bundle\FrameworkExtraBundle\Configuration\Route;
 use Sensio\Bundle\FrameworkExtraBundle\Configuration\Template;
 use Symfony\Component\HttpFoundation\Request;
 
-class FeatsController extends Controller
+class SpellsController extends Controller
 {
     /**
-     * @Route("/rules/feats", name="ico_rules_feats")
+     * @Route("/rules/spells", name="ico_rules_spells")
      * @Template()
      */
     public function indexAction(Request $request)

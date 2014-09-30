@@ -57,7 +57,11 @@ class Feat
     private $benefit;
     
     /**
-     * @ORM\ManyToMany(targetEntity="FeatType", cascade={"remove", "persist"})
+     * @var ArrayCollection FeatType $featTypes
+     * Owning Side
+     *
+     * @ORM\ManyToMany(targetEntity="FeatType", inversedBy="feats", cascade={"persist", "merge", "remove"})
+     * @ORM\JoinTable(joinColumns={@ORM\JoinColumn(onDelete="CASCADE")}, inverseJoinColumns={@ORM\JoinColumn(onDelete="CASCADE")})
      */
     protected $featTypes;
     
