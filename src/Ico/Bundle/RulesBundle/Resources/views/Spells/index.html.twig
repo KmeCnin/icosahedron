@@ -5,22 +5,9 @@
 <div class="well bs-component">
     {{ form_start(filter) }}
 	   <fieldset class="row">
-		  <legend class="col-xs-12">Recherche <small class="text-muted">(Total de {{ pagination.getTotalItemCount }} don{% if pagination.getTotalItemCount > 1 %}s{% endif %} trouvé{% if pagination.getTotalItemCount > 1 %}s{% endif %})</small> <button type="submit" class="btn btn-default btn-sm"><span class="fa fa-refresh"></span>Filtrer</button></legend>
+		  <legend class="col-xs-12">Recherche <small class="text-muted">(Total de {{ pagination.getTotalItemCount }} sort{% if pagination.getTotalItemCount > 1 %}s{% endif %} trouvé{% if pagination.getTotalItemCount > 1 %}s{% endif %})</small> <button type="submit" class="btn btn-default btn-sm"><span class="fa fa-refresh"></span>Filtrer</button></legend>
 		  <div class="col-xs-2">
 			 {{ form_row(filter.name) }}
-		  </div>
-		  <div class="col-xs-4 select-multiple-wrapper">
-			 {{ form_widget(filter.featTypesType) }}
-			 {{ form_row(filter.featTypes) }}
-		  </div>
-		  <div class="col-xs-4">
-			 <label class="control-label" for="prerequisistes">Prérequis</label>
-			 <br />Coming soon...
-			 {#<select class="form-control" id="prerequisistes" type="select" multiple data-placeholder="Choisissez plusieurs">
-				{% for prerequisite in featprerequisites %}
-				<option value="{{ prerequisite.id }}">{{ prerequisite.name }}</option>
-				{% endfor %}
-			 </select>#}
 		  </div>
 		  <div class="col-xs-2">
 			 {{ form_row(filter.description) }}
@@ -31,33 +18,25 @@
 <table class="table table-striped table-hover">
     <tr>
 	   <th{% if pagination.isSorted('feat.Name') %} class="sorted"{% endif %}>{{ knp_pagination_sortable(pagination, 'Don', 'feat.name') }}</th>
-	   <th>Catégories</th>
-	   <th>Prérequis</th>
 	   <th>Description</th>
     </tr>
-	   {% for feat in pagination %}
+	   {% for spell in pagination %}
     <tr>
-	   <td class="link" data-toggle="modal" data-target="#modal_feat_{{ feat.id }}"><a>{{ feat.name }}</a></td>
-	   <td>
-		  {% for feattype in feat.feattypes %}{% if loop.index != 1 %}, {% endif %}{% if feattype.description is not empty %}<a class="preview text-nowrap" href="{{ path('ico_rules_feattypes_view', {'id': feattype.id}) }}">{{ feattype.name }}</a>{% else %}{{ feattype.name }}{% endif %}{% endfor %}
-	   </td>
-	   <td>
-		  {% for featprerequisite in feat.featprerequisites %}{% if loop.index != 1 %}, {% endif %}{% if featprerequisite.link != '' %}<a class="preview text-nowrap" href="{{ featprerequisite.link }}">{{ featprerequisite.name }}</a>{% else %}<span class="text-nowrap">{{ featprerequisite.name }}</span>{% endif %}{% endfor %}
-	   </td>
-	   <td>{{ feat.description }}</td>
+	   <td class="link" data-toggle="modal" data-target="#modal_spell_{{ spell.id }}"><a>{{ spell.name }}</a></td>
+	   <td>{{ spell.description }}</td>
     </tr>
 	   {% endfor %}
 	   {# Modales #}
-	   {% for feat in pagination %}
-    <div class="modal fade" id="modal_feat_{{ feat.id }}" tabindex="-1" role="dialog" aria-labelledby="modal_feat_{{ feat.id }}" aria-hidden="true">
+	   {% for spell in pagination %}
+    <div class="modal fade" id="modal_spell_{{ spell.id }}" tabindex="-1" role="dialog" aria-labelledby="modal_spell_{{ spell.id }}" aria-hidden="true">
 	   <div class="modal-dialog modal-lg">
 		  <div class="modal-content">
 			 <div class="modal-header">
 				<button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Fermer</span></button>
-				<h4 class="modal-title" id="myModalLabel">{{ feat.name }} <small>[Don]</small></h4>
+				<h4 class="modal-title" id="myModalLabel">{{ spell.name }} <small>[Sort]</small></h4>
 			 </div>
 			 <div class="modal-body">
-				{% include 'IcoRulesBundle:Feats:display.html.twig' with {'feat': feat} only %}
+				{% include 'IcoRulesBundle:Spells:display.html.twig' with {'spell': spell} only %}
 			 </div>
 			 <div class="modal-footer">
 				<button type="button" class="btn btn-default" data-dismiss="modal">Fermer</button>
