@@ -24,8 +24,9 @@ class AdminController extends Controller
     {	
 	   // On vide les tables
 	   $tablesToTruncate = array(
-//		  'IcoRulesBundle:Feat', 'IcoRulesBundle:FeatType', 'feat_feattype', 'IcoRulesBundle:FeatPrerequisite', 
-		  'IcoRulesBundle:SpellSchool', 'IcoRulesBundle:SpellComponent', 'IcoRulesBundle:SpellList', 'IcoRulesBundle:SpellList'
+		  'IcoRulesBundle:FeatType', 'IcoRulesBundle:FeatPrerequisite', 'IcoRulesBundle:SpellSchool',
+//		  'IcoRulesBundle:Feat', 'feat_feattype', 
+		  'IcoRulesBundle:Spell', 'IcoRulesBundle:SpellComponent', 'IcoRulesBundle:SpellList',
 	   );
 	   foreach ($tablesToTruncate as $className) {
 		  $this->truncateTable($className);
@@ -87,10 +88,10 @@ class AdminController extends Controller
 	   return str_replace($accentuated, $normalized, $string);
     }
     
-    private function getFeatTypeFromName($name) {
+    private function getEntityFromNameId($entity, $nameId) {
 	   return $this->getDoctrine()
-		  ->getRepository('IcoRulesBundle:FeatType')
-		  ->findOneByNameId($name);
+		  ->getRepository('IcoRulesBundle:'.$entity)
+		  ->findOneByNameId($nameId);
     }
     
     private function updateFeatPrerequisites() {
@@ -150,7 +151,7 @@ class AdminController extends Controller
 		  $feat->setWiki($node->filter('reference')->eq(0)->attr('href'));
 		  $feat->setDescription($node->filter('description')->text());
 		  $feat_types = $node->filter('type')->each(function (Crawler $type) {
-			 return $this->getFeatTypeFromName($type->text());
+			 return $this->getEntityFromNameId('FeatType', $type->text());
 		  });
 		  $metadatas = $node->filter('prerequisite')->each(function (Crawler $prerequisite) {
 			 $metadata = array();
@@ -222,8 +223,12 @@ class AdminController extends Controller
 		  } else {
 			 $spell->setDescription('');
 		  }
-//		  $spell_components = $node->filter('type')->each(function (Crawler $type) {
-//			 return $this->getFeatTypeFromName($type->text());
+		  if ($node->filter('target')->count() > 0) {
+			 $spell->setTarget($node->filter('target')->text());
+		  }
+		  $spell->setSpellSchool($this->getEntityFromNameId('SpellSchool', $node->attr('school')));
+//		  $spell_schools = $node->filter('type')->each(function (Crawler $type) {
+//			 return $this->getSpellSchoolFromName($type->text());
 //		  });
 //		  $metadatas = $node->filter('prerequisite')->each(function (Crawler $prerequisite) {
 //			 $metadata = array();
@@ -258,8 +263,8 @@ class AdminController extends Controller
 //			 return $metadata;
 //		  });
 //		  $this->metadatas[] = $metadatas;
-//		  foreach ($feat_types as $feat_type) {
-//			 $feat->addFeatType($feat_type);
+//		  foreach ($spell_schools as $spell_school) {
+//			 $spell->addSpellSchool($spell_school);
 //		  }
 //		  if ($node->filter('benefit')->count() > 0) {
 //			 $feat->setBenefit($node->filter('benefit')->text());

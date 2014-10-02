@@ -1,0 +1,5 @@
+{% extends "IcoRulesBundle::layout.html.twig" %}
+
+{% block content %}
+    {% include 'IcoRulesBundle:Feats:display.html.twig' with {'feat': feat} only %}
+{% endblock %}

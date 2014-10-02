@@ -80,7 +80,7 @@
     {% if required and empty_value is none and not empty_value_in_choices and not multiple %}
         {% set required = false %}
     {% endif %}
-    <select class="form-control" {{ block('widget_attributes') }}{% if multiple %} multiple="multiple" data-placeholder="Choisissez plusieurs"{% endif %}>
+    <select class="form-control" {{ block('widget_attributes') }}{% if multiple %} multiple="multiple" data-placeholder="Choisissez un ou plusieurs"{% endif %}>
         {% if empty_value is not none %}
             <option value=""{% if required and value is empty %} selected="selected"{% endif %}>{{ empty_value|trans({}, translation_domain) }}</option>
         {% endif %}

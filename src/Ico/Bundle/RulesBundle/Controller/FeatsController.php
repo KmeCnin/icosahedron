@@ -14,13 +14,9 @@ class FeatsController extends Controller
      * @Template()
      */
     public function indexAction(Request $request)
-    {	   	   
-//	   $featprerequisites = $this->getDoctrine()
-//		  ->getRepository('IcoRulesBundle:FeatPrerequisite')
-//		  ->findAll();
-	   
+    {	   	   	   
 	   $filter = $this->createFormBuilder()
-			 ->add('name', 'text', array('label' => 'Don', 'required' => false, 'attr' => array('placeholder' => 'Mots-clés')))
+			 ->add('keywords', 'text', array('label' => 'Mots-clés', 'required' => false, 'attr' => array('placeholder' => 'Entrez un ou plusieurs')))
 			 ->add('featTypes', 'entity', array(
 				'class' => 'IcoRulesBundle:FeatType',
 				'property' => 'name',
@@ -38,7 +34,6 @@ class FeatsController extends Controller
 				'empty_value' => false,
 				'required' => false
 			 ))
-			 ->add('description', 'text', array('label' => 'Description', 'required' => false, 'attr' => array('placeholder' => 'Mots-clés')))
 			 ->getForm();
 	   $filter->handleRequest($request);
 	   
@@ -78,19 +73,16 @@ class FeatsController extends Controller
 			 $queryBuilder->andWhere(implode(' AND ', $where));
 			 
 		  }
-		  if (!empty($data['name'])) {
-			 $keywords = explode(' ', $data['name']);
+		  if (!empty($data['keywords'])) {
+			 $keywords = explode(' ', $data['keywords']);
+			 $where = array();
 			 foreach ($keywords as $key => $keyword) {
-				$queryBuilder->orWhere('feat.name LIKE :name'.$key);
+				$where[] = '(feat.name LIKE :name'.$key.' OR feat.description LIKE :description'.$key.' OR feat.benefit LIKE :benefit'.$key.')';
 				$parameters['name'.$key] = '%'.$keyword.'%';
-			 }
-		  }
-		  if (!empty($data['description'])) {
-			 $keywords = explode(' ', $data['description']);
-			 foreach ($keywords as $key => $keyword) {
-				$queryBuilder->orWhere('feat.description LIKE :description'.$key);
 				$parameters['description'.$key] = '%'.$keyword.'%';
+				$parameters['benefit'.$key] = '%'.$keyword.'%';
 			 }
+			 $queryBuilder->andWhere(implode(' OR ', $where));
 		  }
 	   }	   
 	   

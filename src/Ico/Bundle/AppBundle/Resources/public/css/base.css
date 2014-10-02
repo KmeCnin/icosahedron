@@ -108,3 +108,11 @@ legend button {
     background-color: #42A500;
     border-color: #3B9400;
 }
+select:focus {
+    border-bottom-right-radius: 0;
+    border-bottom-left-radius: 0;
+}
+mark {
+    background-color: rgba(66, 165, 0, 0.14);
+    color: inherit;
+}

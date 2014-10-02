@@ -3,32 +3,28 @@
 
 {% block content %}
 <div class="well bs-component">
+    {% set keywords = filter.keywords.vars.value|split(' ') %}
+    <script>
+	   var keywords_contexts = [0, 3]; // Index des colonnes où chercher les mots-clés à surligner
+	   var keywords = new Array();
+    {% for keyword in keywords %}
+	   keywords.push("{{ keyword }}");
+    {% endfor %}
+    </script>
     {{ form_start(filter) }}
 	   <fieldset class="row">
 		  <legend class="col-xs-12">Recherche <small class="text-muted">(Total de {{ pagination.getTotalItemCount }} don{% if pagination.getTotalItemCount > 1 %}s{% endif %} trouvé{% if pagination.getTotalItemCount > 1 %}s{% endif %})</small> <button type="submit" class="btn btn-default btn-sm"><span class="fa fa-refresh"></span>Filtrer</button></legend>
-		  <div class="col-xs-2">
-			 {{ form_row(filter.name) }}
+		  <div class="col-xs-4">
+			 {{ form_row(filter.keywords) }}
 		  </div>
 		  <div class="col-xs-4 select-multiple-wrapper">
 			 {{ form_widget(filter.featTypesType) }}
 			 {{ form_row(filter.featTypes) }}
 		  </div>
-		  <div class="col-xs-4">
-			 <label class="control-label" for="prerequisistes">Prérequis</label>
-			 <br />Coming soon...
-			 {#<select class="form-control" id="prerequisistes" type="select" multiple data-placeholder="Choisissez plusieurs">
-				{% for prerequisite in featprerequisites %}
-				<option value="{{ prerequisite.id }}">{{ prerequisite.name }}</option>
-				{% endfor %}
-			 </select>#}
-		  </div>
-		  <div class="col-xs-2">
-			 {{ form_row(filter.description) }}
-		  </div>
 	   </fieldset>
     {{ form_end(filter) }}
 </div>
-<table class="table table-striped table-hover">
+<table class="table table-striped table-hover table-results">
     <tr>
 	   <th{% if pagination.isSorted('feat.Name') %} class="sorted"{% endif %}>{{ knp_pagination_sortable(pagination, 'Don', 'feat.name') }}</th>
 	   <th>Catégories</th>
@@ -49,7 +45,7 @@
 	   {% endfor %}
 	   {# Modales #}
 	   {% for feat in pagination %}
-    <div class="modal fade" id="modal_feat_{{ feat.id }}" tabindex="-1" role="dialog" aria-labelledby="modal_feat_{{ feat.id }}" aria-hidden="true">
+    <div class="modal fade modal-results" id="modal_feat_{{ feat.id }}" tabindex="-1" role="dialog" aria-labelledby="modal_feat_{{ feat.id }}" aria-hidden="true">
 	   <div class="modal-dialog modal-lg">
 		  <div class="modal-content">
 			 <div class="modal-header">

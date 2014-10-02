@@ -1,5 +1,26 @@
 $(document).ready(function() {
     
+    // Surligne les mots clés de la recherche
+    if (keywords !== 'undefined') {
+	   $('.table.table-results tbody > tr, .modal.modal-results .modal-content').each(function(j, tr) {
+		  $(tr).find('td, .panel, h4').each(function(index, td) {
+			 if (
+				($(td).is('td') && $.inArray(index, keywords_contexts) !== -1) || 
+				($(td).is('.panel') && $.inArray(index, keywords_contexts) !== -1) ||
+				$(td).is('h4')
+			 ) {
+				console.log($(td));
+				$.each(keywords, function(i, keyword) {
+				    var context = $(td).html();
+				    var regex = new RegExp(keyword, "gi");
+				    var output = context.replace(regex, '<mark>'+keyword+'</mark>');
+				    $(td).html(output);
+				});
+			 }
+		  });
+	   });
+    }
+    
     // Initialisation des tooltips
     $('[data-toggle="tooltip"]').tooltip({placement: 'top'});  
     

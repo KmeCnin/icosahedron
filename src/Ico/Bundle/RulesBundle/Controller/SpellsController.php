@@ -17,14 +17,13 @@ class SpellsController extends Controller
     {	   	   	   
 	   $filter = $this->createFormBuilder()
 			 ->add('name', 'text', array('label' => 'Sort', 'required' => false, 'attr' => array('placeholder' => 'Mots-clés')))
-//			 ->add('featTypes', 'entity', array(
-//				'class' => 'IcoRulesBundle:FeatType',
-//				'property' => 'name',
-//				'label' => 'Catégories', 
-//				'required' => false,
-//				'expanded'  => false,
-//				'multiple'  => true
-//			 ))
+			 ->add('spellSchool', 'entity', array(
+				'class' => 'IcoRulesBundle:SpellSchool',
+				'property' => 'name',
+				'label' => 'École', 
+				'required' => false,
+				'expanded'  => false
+			 ))
 //			 ->add('featTypesType', 'choice', array(
 //				'choices' => array(
 //				    'or' => 'Contien au moins une',
@@ -45,6 +44,7 @@ class SpellsController extends Controller
 	   
 	   if ($filter->isValid()) {
 		  $data = $filter->getData();
+		  $queryBuilder->leftJoin('spell.spellSchool', 'spellSchool');
 //		  if ($data['featTypesType'] == 'or') {
 //			 
 //			 $queryBuilder->leftJoin('feat.featTypes', 'type');
@@ -81,13 +81,17 @@ class SpellsController extends Controller
 				$parameters['name'.$key] = '%'.$keyword.'%';
 			 }
 		  }
-//		  if (!empty($data['description'])) {
-//			 $keywords = explode(' ', $data['description']);
-//			 foreach ($keywords as $key => $keyword) {
-//				$queryBuilder->orWhere('feat.description LIKE :description'.$key);
-//				$parameters['description'.$key] = '%'.$keyword.'%';
-//			 }
-//		  }
+		  if (!empty($data['description'])) {
+			 $keywords = explode(' ', $data['description']);
+			 foreach ($keywords as $key => $keyword) {
+				$queryBuilder->orWhere('feat.description LIKE :description'.$key);
+				$parameters['description'.$key] = '%'.$keyword.'%';
+			 }
+		  }
+		  if (!empty($data['spellSchool'])) {
+			 $queryBuilder->andWhere('spellSchool.id = :spellSchool');
+			 $parameters['spellSchool'] = $data['spellSchool']->getId();
+		  }
 	   }	   
 	   
 	   $queryBuilder->setParameters($parameters);
