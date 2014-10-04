@@ -3,14 +3,18 @@
 
 {% block content %}
 <div class="well bs-component">
-    {% set keywords = filter.keywords.vars.value|split(' ') %}
-    <script>
-	   var keywords_contexts = [0, 3]; // Index des colonnes où chercher les mots-clés à surligner
-	   var keywords = new Array();
-    {% for keyword in keywords %}
-	   keywords.push("{{ keyword }}");
-    {% endfor %}
-    </script>
+    
+    {% if filter.keywords.vars.value is not empty %}
+	   {% set keywords = filter.keywords.vars.value|split(' ') %}
+	   <script>
+		  var keywords_contexts = [0, 3]; // Index des colonnes où chercher les mots-clés à surligner
+		  var keywords = new Array();
+	   {% for keyword in keywords %}
+		  keywords.push("{{ keyword }}");
+	   {% endfor %}
+	   </script>
+    {% endif %}
+	   
     {{ form_start(filter) }}
 	   <fieldset class="row">
 		  <legend class="col-xs-12">Recherche <small class="text-muted">(Total de {{ pagination.getTotalItemCount }} don{% if pagination.getTotalItemCount > 1 %}s{% endif %} trouvé{% if pagination.getTotalItemCount > 1 %}s{% endif %})</small> <button type="submit" class="btn btn-default btn-sm"><span class="fa fa-refresh"></span>Filtrer</button></legend>

@@ -1,7 +1,7 @@
 $(document).ready(function() {
     
     // Surligne les mots clés de la recherche
-    if (keywords !== 'undefined') {
+    if (typeof keywords !== 'undefined') {
 	   $('.table.table-results tbody > tr, .modal.modal-results .modal-content').each(function(j, tr) {
 		  $(tr).find('td, .panel, h4').each(function(index, td) {
 			 if (

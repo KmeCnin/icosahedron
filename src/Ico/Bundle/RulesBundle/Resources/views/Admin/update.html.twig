@@ -1,6 +1,7 @@
 {% extends "IcoRulesBundle::layout.html.twig" %}
 
 {% block content %}
+    <h1 id="h1"></h1>
     <ul class="list-group">
     {% for msg, log in logs %}
 	   <li class="list-group-item">{{ msg }}<span class="badge">{{ log|length }}</span></li>

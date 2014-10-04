@@ -7,52 +7,94 @@ use Sensio\Bundle\FrameworkExtraBundle\Configuration\Route;
 use Sensio\Bundle\FrameworkExtraBundle\Configuration\Template;
 use Symfony\Component\HttpFoundation\Request;
 use Symfony\Component\DomCrawler\Crawler;
+use Symfony\Component\HttpFoundation\StreamedResponse;
+
 use Ico\Bundle\RulesBundle\Entity\Feat;
 use Ico\Bundle\RulesBundle\Entity\FeatPrerequisite;
 use Ico\Bundle\RulesBundle\Entity\Spell;
+use Ico\Bundle\RulesBundle\Helper\FlushHelper;
 
 class AdminController extends Controller
 {
     private $metadatas;
+    private $helper;
     private $current_feat;
     
+    /**
+     * @Route("/admin/rules", name="ico_admin_rules")
+     * @Template()
+     */
+    public function indexAction(Request $request)
+    {
+	   $form = $this->createFormBuilder()
+			 ->add('feats', 'checkbox', array('label' => 'Dons', 'required' => false))
+			 ->add('spells', 'checkbox', array('label' => 'Sorts', 'required' => false))
+			 ->getForm();
+	   $form->handleRequest($request);
+	   
+	   return $this->render('IcoRulesBundle:Admin:index.html.twig', array(
+		  'breadcrumb' => array(
+			 'Accueil' => 'ico', 
+			 'Règles' => 'ico_rules'
+		  ),
+		  'title' => 'Administration',
+		  'subtitle' => 'Synchroniser les données',
+		  'form' => $form->createView()
+	   ));
+    }
+   
     /**
      * @Route("/admin/rules_update", name="ico_admin_rules_update")
      * @Template()
      */
-    public function rulesUpdateAction(Request $request)
-    {	
-	   // On vide les tables
-	   $tablesToTruncate = array(
-		  'IcoRulesBundle:FeatType', 'IcoRulesBundle:FeatPrerequisite', 'IcoRulesBundle:SpellSchool',
-//		  'IcoRulesBundle:Feat', 'feat_feattype', 
-		  'IcoRulesBundle:Spell', 'IcoRulesBundle:SpellComponent', 'IcoRulesBundle:SpellList',
-	   );
-	   foreach ($tablesToTruncate as $className) {
-		  $this->truncateTable($className);
-	   }
-	   
-	   // On charge les fixtures
-	   $kernel = $this->get('kernel');
-	   $application = new \Symfony\Bundle\FrameworkBundle\Console\Application($kernel);
-	   $application->setAutoExit(false);
-	   $options = array('command' => 'doctrine:fixtures:load',"--append" => true);
-	   $application->run(new \Symfony\Component\Console\Input\ArrayInput($options));
-	   
-	   // On récupère les nouvelles infos
-	   $logs = array();
-//	   $logs['Dons synchronisés'] = $this->updateFeats();
-	   $logs['Sorts synchronisés'] = $this->updateSpells();
-	   
-	   $this->get('session')->getFlashBag()->add('success', 'La base de données de règles a été synchronisée.');
-        return $this->render('IcoRulesBundle:Admin:update.html.twig', array(
-		  'breadcrumb' => array(
-			 'Accueil' => 'ico'
-		  ),
-		  'title' => 'Synchronisation terminée',
-		  'subtitle' => 'Compte rendu',
-		  'logs' => $logs
-	   ));
+    public function rulesUpdateAction()
+    {	 	   
+	   $this->helper = new FlushHelper();
+	   $this->get('session')->getFlashBag()->add('success', 'La base de données a été synchronisée.');
+
+        return new StreamedResponse(function() {
+		  
+            $top = $this->renderView('IcoRulesBundle:StreamDemo:top.html.twig');
+            $this->helper->out($top);
+		  
+		  $this->helper->consoleUpdate('Suppression des anciennes données...');		  
+		  // On vide les tables
+		  $tablesToTruncate = array(
+			 'IcoRulesBundle:FeatType', 'IcoRulesBundle:FeatPrerequisite', 'IcoRulesBundle:SpellSchool',
+			 'IcoRulesBundle:Feat', 'feat_feattype', 
+			 'IcoRulesBundle:Spell', 'IcoRulesBundle:SpellComponent', 'IcoRulesBundle:SpellList',
+		  );
+		  foreach ($tablesToTruncate as $className) {
+			 $this->truncateTable($className);
+			 $this->helper->consoleUpdate('	'.$className.' supprimé');
+		  }
+		  $this->helper->consoleUpdate('Anciennes données supprimées.');	
+		  $this->helper->consoleUpdate('');	
+
+		  $this->helper->consoleUpdate('Chargement des fixtures...');		
+		  // On charge les fixtures
+		  $kernel = $this->get('kernel');
+		  $application = new \Symfony\Bundle\FrameworkBundle\Console\Application($kernel);
+		  $application->setAutoExit(false);
+		  $options = array('command' => 'doctrine:fixtures:load',"--append" => true);
+		  $application->run(new \Symfony\Component\Console\Input\ArrayInput($options));
+		  $this->helper->consoleUpdate('Fixtures chargées.');	
+		  $this->helper->consoleUpdate('');	
+
+		  // On récupère les nouvelles infos
+		  $logs = array();
+		  $this->helper->consoleUpdate('Récupération des nouvelles données :');
+		  $this->helper->consoleUpdate('	Chargement des dons...');	
+		  $logs['Dons synchronisés'] = $this->updateFeats();
+		  $this->helper->consoleUpdate('	'.count($logs['Dons synchronisés']).' dons récupérés.');		
+		  $this->helper->consoleUpdate('	Chargement des sorts...');	
+//		  $logs['Sorts synchronisés'] = $this->updateSpells();
+		  $this->helper->consoleUpdate('	Sorts récupérés.');
+		  $this->helper->consoleUpdate('Les données sont à jour.');
+
+            echo $this->renderView('IcoRulesBundle:StreamDemo:bottom.html.twig');
+
+        });
     }
     
     private function truncateTable($className) {
@@ -99,6 +141,7 @@ class AdminController extends Controller
 	   // Mise à jour des liens entre les dons
 	   foreach ($this->metadatas as $metadatas) {
 		  foreach ($metadatas as $metadata) {
+	   
 			 $feat_repository = $this->getDoctrine()->getRepository('IcoRulesBundle:Feat');
 			 if ($metadata['type'] == 'other') {
 				$link = '';
@@ -182,7 +225,7 @@ class AdminController extends Controller
 				$metadata['value'] = $prerequisite->attr('value');
 			 } elseif ($prerequisite->attr('type') == 'feat') {
 				$metadata['value'] = $prerequisite->attr('value');
-			 }
+			 }	
 			 return $metadata;
 		  });
 		  $this->metadatas[] = $metadatas;
@@ -195,12 +238,16 @@ class AdminController extends Controller
 			 $feat->setBenefit($feat->getDescription());
 		  }
 		  $em->persist($feat);
+		  $this->helper->consoleUpdate('		'.$feat->getName());
 		  return $feat->getName();
 	   });
 	   $em->flush();
 	   
+	   $this->helper->consoleUpdate('	Création des liens...');	
 	   // Mise à jour des liens sur les dons
 	   $this->updateFeatPrerequisites();
+	   $this->helper->consoleUpdate('	Liens mis à jour.');
+	   $this->helper->consoleClose($this->get('router')->generate('ico'));
 	   
 	   return $logs;
     }
