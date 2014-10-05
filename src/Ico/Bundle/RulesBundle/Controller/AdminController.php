@@ -27,10 +27,14 @@ class AdminController extends Controller
     public function indexAction(Request $request)
     {
 	   $form = $this->createFormBuilder()
-			 ->add('feats', 'checkbox', array('label' => 'Dons', 'required' => false))
-			 ->add('spells', 'checkbox', array('label' => 'Sorts', 'required' => false))
+			 ->add('feats', 'checkbox', array('label' => 'Dons', 'required' => false, 'attr' => array('checked' => 'checked')))
+			 ->add('spells', 'checkbox', array('label' => 'Sorts', 'required' => false, 'attr' => array('checked' => 'checked')))
 			 ->getForm();
 	   $form->handleRequest($request);
+	   
+	   if ($form->isValid()) {
+		  return $this->forward('IcoRulesBundle:Admin:rulesUpdate', array('data' => $form->getData()));
+	   }
 	   
 	   return $this->render('IcoRulesBundle:Admin:index.html.twig', array(
 		  'breadcrumb' => array(
@@ -47,23 +51,30 @@ class AdminController extends Controller
      * @Route("/admin/rules_update", name="ico_admin_rules_update")
      * @Template()
      */
-    public function rulesUpdateAction()
+    public function rulesUpdateAction($data)
     {	 	   
 	   $this->helper = new FlushHelper();
 	   $this->get('session')->getFlashBag()->add('success', 'La base de données a été synchronisée.');
 
-        return new StreamedResponse(function() {
+        return new StreamedResponse(function() use($data) {
 		  
             $top = $this->renderView('IcoRulesBundle:StreamDemo:top.html.twig');
             $this->helper->out($top);
 		  
 		  $this->helper->consoleUpdate('Suppression des anciennes données...');		  
 		  // On vide les tables
-		  $tablesToTruncate = array(
-			 'IcoRulesBundle:FeatType', 'IcoRulesBundle:FeatPrerequisite', 'IcoRulesBundle:SpellSchool',
-			 'IcoRulesBundle:Feat', 'feat_feattype', 
-			 'IcoRulesBundle:Spell', 'IcoRulesBundle:SpellComponent', 'IcoRulesBundle:SpellList',
-		  );
+		  // Tables à vider toujours (car elles sont rechargées par les fixtures)
+		  $tablesToTruncate = array('IcoRulesBundle:FeatType', 'IcoRulesBundle:SpellSchool', 'IcoRulesBundle:SpellComponent', 'IcoRulesBundle:SpellList');
+		  // Tables à vider seulement si on synchronise les dons
+		  if ($data['feats']) {
+			 $tablesToTruncate[] = 'IcoRulesBundle:Feat';
+			 $tablesToTruncate[] = 'feat_feattype';
+			 $tablesToTruncate[] = 'IcoRulesBundle:FeatPrerequisite';
+		  }
+		  // Tables à vider seulement si on synchronise les sorts
+		  if ($data['spells']) {
+			 $tablesToTruncate[] = 'IcoRulesBundle:Spell';
+		  }
 		  foreach ($tablesToTruncate as $className) {
 			 $this->truncateTable($className);
 			 $this->helper->consoleUpdate('	'.$className.' supprimé');
@@ -84,13 +95,18 @@ class AdminController extends Controller
 		  // On récupère les nouvelles infos
 		  $logs = array();
 		  $this->helper->consoleUpdate('Récupération des nouvelles données :');
-		  $this->helper->consoleUpdate('	Chargement des dons...');	
-		  $logs['Dons synchronisés'] = $this->updateFeats();
-		  $this->helper->consoleUpdate('	'.count($logs['Dons synchronisés']).' dons récupérés.');		
-		  $this->helper->consoleUpdate('	Chargement des sorts...');	
-//		  $logs['Sorts synchronisés'] = $this->updateSpells();
-		  $this->helper->consoleUpdate('	Sorts récupérés.');
+		  if ($data['feats']) {
+			 $this->helper->consoleUpdate('	Chargement des dons...');	
+			 $logs['Dons synchronisés'] = $this->updateFeats();
+			 $this->helper->consoleUpdate('	'.count($logs['Dons synchronisés']).' dons récupérés.');	
+		  }
+		  if ($data['spells']) {
+			 $this->helper->consoleUpdate('	Chargement des sorts...');	
+			 $logs['Sorts synchronisés'] = $this->updateSpells();
+			 $this->helper->consoleUpdate('	'.count($logs['Sorts synchronisés']).' sorts récupérés.');
+		  }
 		  $this->helper->consoleUpdate('Les données sont à jour.');
+		  $this->helper->consoleClose($this->get('router')->generate('ico'));
 
             echo $this->renderView('IcoRulesBundle:StreamDemo:bottom.html.twig');
 
@@ -247,7 +263,6 @@ class AdminController extends Controller
 	   // Mise à jour des liens sur les dons
 	   $this->updateFeatPrerequisites();
 	   $this->helper->consoleUpdate('	Liens mis à jour.');
-	   $this->helper->consoleClose($this->get('router')->generate('ico'));
 	   
 	   return $logs;
     }
@@ -319,6 +334,7 @@ class AdminController extends Controller
 //			 $feat->setBenefit($feat->getDescription());
 //		  }
 		  $em->persist($spell);
+		  $this->helper->consoleUpdate('		'.$spell->getName());
 		  return $spell->getName();
 	   });
 	   $em->flush();

@@ -17,14 +17,6 @@ class FeatsController extends Controller
     {	   	   	   
 	   $filter = $this->createFormBuilder()
 			 ->add('keywords', 'text', array('label' => 'Mots-clés', 'required' => false, 'attr' => array('placeholder' => 'Entrez un ou plusieurs')))
-			 ->add('featTypes', 'entity', array(
-				'class' => 'IcoRulesBundle:FeatType',
-				'property' => 'name',
-				'label' => 'Catégories', 
-				'required' => false,
-				'expanded'  => false,
-				'multiple'  => true
-			 ))
 			 ->add('featTypesType', 'choice', array(
 				'choices' => array(
 				    'or' => 'Contien au moins une',

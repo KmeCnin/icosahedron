@@ -30,8 +30,8 @@ class FlushHelper {
     }
 
     public function consoleUpdate($output) {
-        $this->output .= '<span class="line">'.$output.'</span><br />';
-        return $this->outPlaceholder($this->output, 'output');
+        $output = '<span class="line">'.$output.'</span><br />';
+        return $this->outPlaceholder($output, 'output');
     }
     
     public function consoleClear() {
@@ -41,7 +41,9 @@ class FlushHelper {
     public function outPlaceholder($output, $id) {
         $out = '<script type="text/javascript">';
 		  $out .= 'var output = document.getElementById("'.$id.'");';
-		  $out .= 'output.innerHTML = "'.addslashes($output.'<span id="cursor"></span>').'";';
+		  $out .= 'var cursor = document.getElementById("cursor");';
+		  $out .= 'if (cursor !== null && cursor.parentNode) { cursor.parentNode.removeChild(cursor); }';
+		  $out .= 'output.innerHTML = output.innerHTML + "'.addslashes($output.'<span id="cursor"></span>').'";';
 		  $out .= 'document.getElementById("bottom").scrollIntoView();';
         $out .= '</script>';
         return $this->out($out);

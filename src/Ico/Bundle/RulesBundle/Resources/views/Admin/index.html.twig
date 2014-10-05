@@ -1,6 +1,16 @@
 {% extends "IcoRulesBundle::layout.html.twig" %}
-{% form_theme form 'IcoAppBundle:Form:fields.html.twig' %}
+{#{% form_theme form 'IcoAppBundle:Form:fields.html.twig' %}#}
 
 {% block content %}
-    {{ form(form) }}
+    {{ form_start(form) }}
+	   <ul>
+		  <li>
+		  {{ form_widget(form.feats) }} <label for="form_feats">Synchroniser les dons</label>
+		  </li>
+		  <li>
+	   {{ form_widget(form.spells) }} <label for="form_spells">Synchroniser les sorts</label>
+		  </li>
+	   </ul>
+	   <button type="submit" class="btn btn-primary">Lancer la synchronisation</button>
+    {{ form_end(form) }}
 {% endblock %}
