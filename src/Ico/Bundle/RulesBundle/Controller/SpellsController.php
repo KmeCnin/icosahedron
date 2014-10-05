@@ -39,12 +39,12 @@ class SpellsController extends Controller
 	   
 	   $queryBuilder = $this->getDoctrine()
 			 ->getRepository('IcoRulesBundle:Spell')
-			 ->createQueryBuilder('spell');
+			 ->createQueryBuilder('spell')
+			 ->leftJoin('spell.spellSchool', 'spellSchool');
 	   $parameters = array();
 	   
 	   if ($filter->isValid()) {
 		  $data = $filter->getData();
-		  $queryBuilder->leftJoin('spell.spellSchool', 'spellSchool');
 //		  if ($data['featTypesType'] == 'or') {
 //			 
 //			 $queryBuilder->leftJoin('feat.featTypes', 'type');
@@ -94,6 +94,7 @@ class SpellsController extends Controller
 		  }
 	   }	   
 	   
+	   $queryBuilder->orderBy('spell.name', 'ASC');
 	   $queryBuilder->setParameters($parameters);
 	   
 	   $pagination = $this->get('knp_paginator')->paginate(

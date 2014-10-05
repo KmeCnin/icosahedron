@@ -20,8 +20,8 @@
 </div>
 <table class="table table-striped table-hover">
     <tr>
-	   <th>{{ knp_pagination_sortable(pagination, 'Sort', 'spell.name') }}</th>
-	   <th>{{ knp_pagination_sortable(pagination, 'École', 'spell.spellSchool.name') }}</th>
+	   <th{% if pagination.isSorted('spell.Name') %} class="sorted"{% endif %}>{{ knp_pagination_sortable(pagination, 'Sort', 'spell.name') }}</th>
+	   <th>{{ knp_pagination_sortable(pagination, 'École', 'spellSchool.name') }}</th>
 	   <th>Description</th>
     </tr>
 	   {% for spell in pagination %}
