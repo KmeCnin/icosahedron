@@ -74,6 +74,7 @@ class AdminController extends Controller
 		  // Tables à vider seulement si on synchronise les sorts
 		  if ($data['spells']) {
 			 $tablesToTruncate[] = 'IcoRulesBundle:Spell';
+			 $tablesToTruncate[] = 'spell_spellcomponent';
 		  }
 		  foreach ($tablesToTruncate as $className) {
 			 $this->truncateTable($className);
@@ -289,6 +290,17 @@ class AdminController extends Controller
 		  }
 		  if ($node->filter('target')->count() > 0) {
 			 $spell->setTarget($node->filter('target')->text());
+		  }
+		  if ($node->filter('components')->count() > 0) {
+			 $components = $node->filter('components')->attr('kinds');
+			 foreach (explode(' ', $components) as $component) {
+				if ($component == 'M/DF') {
+				    $spell->addSpellComponent($this->getEntityFromNameId('SpellComponent', 'M'));
+				    $spell->addSpellComponent($this->getEntityFromNameId('SpellComponent', 'DF'));
+				} else {
+				    $spell->addSpellComponent($this->getEntityFromNameId('SpellComponent', $component));
+				}
+			 }
 		  }
 		  $spell->setSpellSchool($this->getEntityFromNameId('SpellSchool', $node->attr('school')));
 //		  $spell_schools = $node->filter('type')->each(function (Crawler $type) {

@@ -34,6 +34,13 @@ class SpellComponent
      * @ORM\Column(name="name", type="string", length=255)
      */
     private $name;
+    
+    /**
+     * @var string
+     *
+     * @ORM\Column(name="short", type="string", length=255)
+     */
+    private $short;
 
     /**
      * @var string
@@ -120,5 +127,28 @@ class SpellComponent
     public function getDescription()
     {
         return $this->description;
+    }
+
+    /**
+     * Set short
+     *
+     * @param string $short
+     * @return SpellComponent
+     */
+    public function setShort($short)
+    {
+        $this->short = $short;
+
+        return $this;
+    }
+
+    /**
+     * Get short
+     *
+     * @return string 
+     */
+    public function getShort()
+    {
+        return $this->short;
     }
 }
