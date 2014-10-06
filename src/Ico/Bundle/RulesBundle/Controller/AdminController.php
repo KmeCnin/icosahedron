@@ -282,8 +282,10 @@ class AdminController extends Controller
 		  $spell->setWiki($node->filter('reference')->eq(0)->attr('href'));
 		  if ($node->filter('summary')->count() > 0) {
 			 $spell->setDescription($node->filter('summary')->text());
+			 $spell->setDetail($node->filter('summary')->text());
 		  } else {
 			 $spell->setDescription('');
+			 $spell->setDetail('');
 		  }
 		  if ($node->filter('target')->count() > 0) {
 			 $spell->setTarget($node->filter('target')->text());

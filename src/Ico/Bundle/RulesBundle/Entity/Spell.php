@@ -52,6 +52,13 @@ class Spell
     /**
      * @var string
      *
+     * @ORM\Column(name="detail", type="text")
+     */
+    private $detail;
+
+    /**
+     * @var string
+     *
      * @ORM\Column(name="target", type="text", nullable=true)
      */
     private $target;
@@ -291,5 +298,28 @@ class Spell
     public function getSpellComponents()
     {
         return $this->spellComponents;
+    }
+
+    /**
+     * Set detail
+     *
+     * @param string $detail
+     * @return Spell
+     */
+    public function setDetail($detail)
+    {
+        $this->detail = $detail;
+
+        return $this;
+    }
+
+    /**
+     * Get detail
+     *
+     * @return string 
+     */
+    public function getDetail()
+    {
+        return $this->detail;
     }
 }
