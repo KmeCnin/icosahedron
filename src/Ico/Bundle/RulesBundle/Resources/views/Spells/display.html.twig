@@ -1,4 +1,10 @@
 <div class="panel panel-default">
+    <div class="panel-heading">École de magie</div>
+    <div class="panel-body justify">
+	   <a class="preview" href="{{ path('ico_rules_spellschools_view', {'id': spell.spellSchool.id}) }}">{{ spell.spellSchool.name }}</a></span>
+    </div>
+</div>
+<div class="panel panel-default">
     <div class="panel-heading">Description</div>
     <div class="panel-body justify">{{ spell.description }}</div>
 </div>

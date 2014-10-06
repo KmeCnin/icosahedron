@@ -16,7 +16,7 @@ class SpellsController extends Controller
     public function indexAction(Request $request)
     {	   	   	   
 	   $filter = $this->createFormBuilder()
-			 ->add('name', 'text', array('label' => 'Sort', 'required' => false, 'attr' => array('placeholder' => 'Mots-clés')))
+			 ->add('keywords', 'text', array('label' => 'Mots-clés', 'required' => false, 'attr' => array('placeholder' => 'Entrez un ou plusieurs')))
 			 ->add('spellSchool', 'entity', array(
 				'class' => 'IcoRulesBundle:SpellSchool',
 				'property' => 'name',
@@ -33,7 +33,7 @@ class SpellsController extends Controller
 //				'empty_value' => false,
 //				'required' => false
 //			 ))
-			 ->add('description', 'text', array('label' => 'Description', 'required' => false, 'attr' => array('placeholder' => 'Mots-clés')))
+//			 ->add('description', 'text', array('label' => 'Description', 'required' => false, 'attr' => array('placeholder' => 'Mots-clés')))
 			 ->getForm();
 	   $filter->handleRequest($request);
 	   
@@ -74,23 +74,19 @@ class SpellsController extends Controller
 //			 $queryBuilder->andWhere(implode(' AND ', $where));
 //			 
 //		  }
-		  if (!empty($data['name'])) {
-			 $keywords = explode(' ', $data['name']);
-			 foreach ($keywords as $key => $keyword) {
-				$queryBuilder->orWhere('spell.name LIKE :name'.$key);
-				$parameters['name'.$key] = '%'.$keyword.'%';
-			 }
-		  }
-		  if (!empty($data['description'])) {
-			 $keywords = explode(' ', $data['description']);
-			 foreach ($keywords as $key => $keyword) {
-				$queryBuilder->orWhere('feat.description LIKE :description'.$key);
-				$parameters['description'.$key] = '%'.$keyword.'%';
-			 }
-		  }
 		  if (!empty($data['spellSchool'])) {
 			 $queryBuilder->andWhere('spellSchool.id = :spellSchool');
 			 $parameters['spellSchool'] = $data['spellSchool']->getId();
+		  }		  
+		  if (!empty($data['keywords'])) {
+			 $keywords = explode(' ', $data['keywords']);
+			 $where = array();
+			 foreach ($keywords as $key => $keyword) {
+				$where[] = '(spell.name LIKE :name'.$key.' OR spell.description LIKE :description'.$key.')';
+				$parameters['name'.$key] = '%'.$keyword.'%';
+				$parameters['description'.$key] = '%'.$keyword.'%';
+			 }
+			 $queryBuilder->andWhere(implode(' OR ', $where));
 		  }
 	   }	   
 	   

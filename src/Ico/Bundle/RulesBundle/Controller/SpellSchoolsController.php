@@ -52,7 +52,7 @@ class SpellSchoolsController extends Controller
 		  ),
 		  'title' => 'École de magie',
 		  'subtitle' => $spell_school->getName(),
-		  'feattype' => $spell_school
+		  'spellschool' => $spell_school
 	   ));
     }
     

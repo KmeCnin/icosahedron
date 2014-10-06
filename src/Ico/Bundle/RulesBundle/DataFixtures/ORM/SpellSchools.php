@@ -132,6 +132,12 @@ Toute créature remarquera le capteur si elle réussit un test de Perception (DD
 <br />
 Les feuilles de plomb et autres protections magiques bloquent les sorts de scrutation mais le lanceur de sort sait que son sort est bloqué."
 		  ),
+		  array(
+			 'nameId' => 'universal',
+			 'name' => 'Universel',
+			 'description' => "",
+			 'detail' => ""
+		  )
 	   );
 
 	   foreach ($schools as $data) {
