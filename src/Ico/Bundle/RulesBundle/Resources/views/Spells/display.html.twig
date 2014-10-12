@@ -16,6 +16,15 @@
 	   {% endif %}
 	   <br />
 	   <label>Composantes : </label> {% for component in spell.spellComponents %}{% if loop.index != 1 %}, {% endif %}<a class="text-nowrap preview" href="{{ path('ico_rules_spellcomponents_view', {'id': component.id}) }}">{{ component.name }}</a>{% endfor %} {% if spell.materialComponent != '' %} ({{ spell.materialComponent }}){% endif %}<br />
+	   {% if spell.rangeSpecial is not null or spell.range is not null %}
+		  <label>Portée : </label> 
+		  {% if spell.rangeSpecial is not null %}
+			 {{ spell.rangeSpecial }}
+		  {% else %}
+			 <a class="preview" href="{{ path('ico_rules_battleranges_view', {'id': spell.range.id}) }}">{{ spell.range.name }}</a>
+		  {% endif %}
+		  <br />
+	   {% endif %}
 	   <label>Cible : </label> {{ spell.target }}<br />
     </div>
 </div>

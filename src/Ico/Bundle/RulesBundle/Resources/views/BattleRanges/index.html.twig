@@ -1,0 +1,16 @@
+{% extends "IcoRulesBundle::layout.html.twig" %}
+
+{% block content %}
+<table class="table table-striped table-hover">
+    <tr>
+	   <th>Type de portée</th>
+	   <th>Description</th>
+    </tr>
+	   {% for range in list %}
+    <tr class="link" onclick="window.location.href=Routing.generate('ico_rules_battleranges_view', {id: {{ range.id }}});">
+	   <td>{{ range.name|capitalize }}</td>
+	   <td>{{ range.description }}</td>
+    </tr>
+	   {% endfor %}
+</table>
+{% endblock %}

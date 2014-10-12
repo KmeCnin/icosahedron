@@ -45,7 +45,7 @@
 			 {% endif %}
 		  </td>
 		  <td>
-			 {% for list in spell.spellListsLevels %}{% if loop.index != 1 %}, {% endif %}<span class="text-nowrap">{{ list.spellList.name }} {{ list.level }}</span>{% endfor %}
+			 {% for list in spell.spellListsLevels %}{% if loop.index != 1 %}, {% endif %}<span class="text-nowrap">{{ list.spellList.short }} {{ list.level }}</span>{% endfor %}
 		  </td>
 		  <td>{{ spell.description }}</td>
 	   </tr>
