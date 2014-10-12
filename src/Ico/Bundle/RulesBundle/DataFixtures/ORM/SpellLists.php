@@ -14,55 +14,68 @@ class SpellLists implements FixtureInterface, OrderedFixtureInterface {
 	   $lists = array(
 		  array(
 			 'nameId' => 'bard',
-			 'name' => 'Barde'
+			 'name' => 'Barde',
+			 'short' => 'Bard'
 		  ),
 		  array(
 			 'nameId' => 'sorcerer-wizard',
-			 'name' => 'Ensorceleur/Magicien'
+			 'name' => 'Ensorceleur/Magicien',
+			 'short' => 'Ens/Mag'
 		  ),
 		  array(
 			 'nameId' => 'ranger',
-			 'name' => 'Rôdeur'
+			 'name' => 'Rôdeur',
+			 'short' => 'Rôd'
 		  ),
 		  array(
 			 'nameId' => 'cleric',
-			 'name' => 'Prêtre'
+			 'name' => 'Prêtre',
+			 'short' => 'Prê'
 		  ),
 		  array(
 			 'nameId' => 'oracle',
-			 'name' => 'Oracle'
+			 'name' => 'Oracle',
+			 'short' => 'Ora'
 		  ),
 		  array(
 			 'nameId' => 'summoner',
-			 'name' => 'Conjurateur'
+			 'name' => 'Conjurateur',
+			 'short' => 'Conj'
 		  ),
 		  array(
 			 'nameId' => 'witch',
-			 'name' => 'Sorcière'
+			 'name' => 'Sorcière',
+			 'short' => 'Sor'
 		  ),
 		  array(
 			 'nameId' => 'druid',
-			 'name' => 'Druide'
+			 'name' => 'Druide',
+			 'short' => 'Dru'
 		  ),
 		  array(
 			 'nameId' => 'alchemist',
-			 'name' => 'Alchimiste'
+			 'name' => 'Alchimiste',
+			 'short' => 'Alc'
 		  ),
 		  array(
 			 'nameId' => 'paladin',
-			 'name' => 'Paladin'
+			 'name' => 'Paladin',
+			 'short' => 'Pal'
 		  ),
 		  array(
 			 'nameId' => 'antipaladin',
-			 'name' => 'Antipaladin'
+			 'name' => 'Antipaladin',
+			 'short' => 'Antipal'
 		  ),
 		  array(
 			 'nameId' => 'inquisitor',
-			 'name' => 'Inquisiteur'
+			 'name' => 'Inquisiteur',
+			 'short' => 'Inq'
 		  ),
 		  array(
 			 'nameId' => 'magus',
-			 'name' => 'Magus'
+			 'name' => 'Magus',
+			 'short' => 'Mgs'
 		  ),
 	   );
 
@@ -70,6 +83,7 @@ class SpellLists implements FixtureInterface, OrderedFixtureInterface {
 		  $list = new SpellList();
 		  $list->setNameId($data['nameId']);
 		  $list->setName($data['name']);
+		  $list->setShort($data['short']);
 		  $manager->persist($list);
 	   }
 	   $manager->flush();

@@ -117,3 +117,6 @@ mark {
     background-color: rgba(66, 165, 0, 0.14);
     color: inherit;
 }
+.panel label {
+    font-weight: bold;
+}

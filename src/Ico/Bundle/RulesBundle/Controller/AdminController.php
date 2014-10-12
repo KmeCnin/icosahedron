@@ -12,18 +12,20 @@ use Symfony\Component\HttpFoundation\StreamedResponse;
 use Ico\Bundle\RulesBundle\Entity\Feat;
 use Ico\Bundle\RulesBundle\Entity\FeatPrerequisite;
 use Ico\Bundle\RulesBundle\Entity\Spell;
+use Ico\Bundle\RulesBundle\Entity\SpellListLevel;
 use Ico\Bundle\RulesBundle\Helper\FlushHelper;
 
 class AdminController extends Controller
 {
-    private $metadatas;
-    private $helper;
-    private $current_feat;
+    protected $metadatas;
+    protected $helper;
+    protected $current_feat;
+    protected $maxEntitiesStacked = 500; // Number of entities to persist before to flush them
     
     /**
      * @Route("/admin/rules", name="ico_admin_rules")
      * @Template()
-     */
+     */ 
     public function indexAction(Request $request)
     {
 	   $form = $this->createFormBuilder()
@@ -74,7 +76,9 @@ class AdminController extends Controller
 		  // Tables à vider seulement si on synchronise les sorts
 		  if ($data['spells']) {
 			 $tablesToTruncate[] = 'IcoRulesBundle:Spell';
+			 $tablesToTruncate[] = 'IcoRulesBundle:SpellListLevel';
 			 $tablesToTruncate[] = 'spell_spellcomponent';
+			 $tablesToTruncate[] = 'spell_spelllistlevel';
 		  }
 		  foreach ($tablesToTruncate as $className) {
 			 $this->truncateTable($className);
@@ -255,6 +259,9 @@ class AdminController extends Controller
 			 $feat->setBenefit($feat->getDescription());
 		  }
 		  $em->persist($feat);
+		  if (count($em->getUnitOfWork()->getScheduledEntityInsertions()) > $this->maxEntitiesStacked) {
+			 $em->flush();
+		  }
 		  $this->helper->consoleUpdate('		'.$feat->getName());
 		  return $feat->getName();
 	   });
@@ -303,51 +310,19 @@ class AdminController extends Controller
 			 }
 		  }
 		  $spell->setSpellSchool($this->getEntityFromNameId('SpellSchool', $node->attr('school')));
-//		  $spell_schools = $node->filter('type')->each(function (Crawler $type) {
-//			 return $this->getSpellSchoolFromName($type->text());
-//		  });
-//		  $metadatas = $node->filter('prerequisite')->each(function (Crawler $prerequisite) {
-//			 $metadata = array();
-//			 $metadata['html'] = $prerequisite->text();
-//			 $metadata['feat'] = $this->current_feat;
-//			 $metadata['type'] = $prerequisite->attr('type');
-//			 if ($prerequisite->attr('type') == 'other') {
-//				if ($prerequisite->attr('otherType') > 0 && $prerequisite->attr('otherType') == 'ExoticWeaponProficiency') {
-//				    $metadata['otherType'] = $prerequisite->attr('otherType');
-//				    $metadata['value'] = $prerequisite->attr('value');
-//				}
-//			 } elseif ($prerequisite->attr('type') == 'bba') {
-//				$metadata['number'] = $prerequisite->attr('number');
-//			 } elseif ($prerequisite->attr('type') == 'attribute') {
-//				$metadata['value'] = $prerequisite->attr('value');
-//				$metadata['number'] = $prerequisite->attr('number');
-//			 } elseif ($prerequisite->attr('type') == 'race') {
-//				$metadata['value'] = $prerequisite->attr('value');
-//			 } elseif ($prerequisite->attr('type') == 'classLevel') {
-//				$metadata['value'] = $prerequisite->attr('value');
-//				$metadata['number'] = $prerequisite->attr('number');
-//			 } elseif ($prerequisite->attr('type') == 'ClassPower') {
-//				$metadata['value'] = $prerequisite->attr('value');
-//			 } elseif ($prerequisite->attr('type') == 'skillRank') {
-//				$metadata['value'] = $prerequisite->attr('value');
-//				$metadata['number'] = $prerequisite->attr('number');
-//			 } elseif ($prerequisite->attr('type') == 'spellCast') {
-//				$metadata['value'] = $prerequisite->attr('value');
-//			 } elseif ($prerequisite->attr('type') == 'feat') {
-//				$metadata['value'] = $prerequisite->attr('value');
-//			 }
-//			 return $metadata;
-//		  });
-//		  $this->metadatas[] = $metadatas;
-//		  foreach ($spell_schools as $spell_school) {
-//			 $spell->addSpellSchool($spell_school);
-//		  }
-//		  if ($node->filter('benefit')->count() > 0) {
-//			 $feat->setBenefit($node->filter('benefit')->text());
-//		  } else {
-//			 $feat->setBenefit($feat->getDescription());
-//		  }
+		  $spelllistlevels = $node->filter('level')->each(function (Crawler $data) {
+			 $spelllistlevel = new SpellListLevel();
+			 $spelllistlevel->setSpellList($this->getEntityFromNameId('SpellList', $data->attr('list')));
+			 $spelllistlevel->setLevel($data->attr('level'));
+			 return $spelllistlevel;
+		  });
+		  foreach ($spelllistlevels as $spelllistlevel) {
+			 $spell->addSpellListsLevel($spelllistlevel);
+		  }
 		  $em->persist($spell);
+		  if (count($em->getUnitOfWork()->getScheduledEntityInsertions()) > $this->maxEntitiesStacked) {
+			 $em->flush();
+		  }
 		  $this->helper->consoleUpdate('		'.$spell->getName());
 		  return $spell->getName();
 	   });

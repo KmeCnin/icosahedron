@@ -1,7 +1,22 @@
 <div class="panel panel-default">
-    <div class="panel-heading">École de magie</div>
+    <div class="panel-heading">Informations</div>
     <div class="panel-body justify">
-	   <a class="preview" href="{{ path('ico_rules_spellschools_view', {'id': spell.spellSchool.id}) }}">{{ spell.spellSchool.name }}</a></span>
+	   <label>École : </label> <a class="preview" href="{{ path('ico_rules_spellschools_view', {'id': spell.spellSchool.id}) }}">{{ spell.spellSchool.name }}</a> | 
+	   <label>Niveau : </label> {% for list in spell.spellListsLevels %}{% if loop.index != 1 %}, {% endif %}<span class="text-nowrap">{{ list.spellList.name }} {{ list.level }}</span>{% endfor %}<br />
+	   <label>Temps d'incantation : </label> 
+	   {% if spell.castingTimeSpecial is not null %}
+		  {{ spell.castingTimeSpecial }}
+	   {% else %}
+		  {{ spell.castingTime.value }}
+		  {% if spell.castingTime.unit.description != '' %}
+			 <a class="preview" href="{{ path('ico_rules_battleunits_view', {'id': spell.castingTime.unit.id}) }}">{{ spell.castingTime.unit.name }}</a>
+		  {% else %}
+			 {{ spell.castingTime.unit.name }}
+		  {% endif %}
+	   {% endif %}
+	   <br />
+	   <label>Composantes : </label> {% for component in spell.spellComponents %}{% if loop.index != 1 %}, {% endif %}<a class="text-nowrap preview" href="{{ path('ico_rules_spellcomponents_view', {'id': component.id}) }}">{{ component.name }}</a>{% endfor %} {% if spell.materialComponent != '' %} ({{ spell.materialComponent }}){% endif %}<br />
+	   <label>Cible : </label> {{ spell.target }}<br />
     </div>
 </div>
 <div class="panel panel-default">

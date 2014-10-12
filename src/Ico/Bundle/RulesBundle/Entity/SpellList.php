@@ -34,6 +34,13 @@ class SpellList
      * @ORM\Column(name="name", type="string", length=255)
      */
     private $name;
+
+    /**
+     * @var string
+     *
+     * @ORM\Column(name="short", type="string", length=255)
+     */
+    private $short;
     
     /**
      * @ORM\OneToMany(targetEntity="SpellListLevel", mappedBy="spellList", cascade={"persist", "remove"})
@@ -134,5 +141,28 @@ class SpellList
     public function getSpellListsLevels()
     {
         return $this->spellListsLevels;
+    }
+
+    /**
+     * Set short
+     *
+     * @param string $short
+     * @return SpellList
+     */
+    public function setShort($short)
+    {
+        $this->short = $short;
+
+        return $this;
+    }
+
+    /**
+     * Get short
+     *
+     * @return string 
+     */
+    public function getShort()
+    {
+        return $this->short;
     }
 }

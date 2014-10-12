@@ -26,6 +26,7 @@ class AppKernel extends Kernel
             new Ico\Bundle\AppBundle\IcoAppBundle(),
             new Ico\Bundle\HelperBundle\IcoHelperBundle(),
             new Ico\Bundle\RulesBundle\IcoRulesBundle(),
+            new Ico\Bundle\ParserBundle\IcoParserBundle(),
         );
 
         if (in_array($this->getEnvironment(), array('dev', 'test'))) {

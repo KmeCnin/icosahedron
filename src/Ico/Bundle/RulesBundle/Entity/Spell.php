@@ -79,6 +79,37 @@ class Spell
     protected $spellComponents;
     
     /**
+     * @var string
+     *
+     * @ORM\Column(name="materialComponent", type="text", nullable=true)
+     */
+    protected $materialComponent;
+    
+    /**
+	* @ORM\OneToOne(targetEntity="BattleTime", cascade={"persist", "remove"})
+	*/
+    protected $castingTime;
+    
+    /**
+	* @var string
+     * 
+     * @ORM\Column(name="castingTimeSpecial", type="text", nullable=true)
+	*/
+    protected $castingTimeSpecial;
+    
+    /**
+	* @ORM\ManyToOne(targetEntity="BattleRange", cascade={"persist", "remove"})
+	*/
+    protected $range;
+    
+    /**
+	* @var string
+     * 
+     * @ORM\Column(name="rangeSpecial", type="text", nullable=true)
+	*/
+    protected $rangeSpecial;
+    
+    /**
      * Constructor
      */
     public function __construct()
@@ -321,5 +352,120 @@ class Spell
     public function getDetail()
     {
         return $this->detail;
+    }
+
+    /**
+     * Set materialComponent
+     *
+     * @param string $materialComponent
+     * @return Spell
+     */
+    public function setMaterialComponent($materialComponent)
+    {
+        $this->materialComponent = $materialComponent;
+
+        return $this;
+    }
+
+    /**
+     * Get materialComponent
+     *
+     * @return string 
+     */
+    public function getMaterialComponent()
+    {
+        return $this->materialComponent;
+    }
+
+    /**
+     * Set castingTimeSpecial
+     *
+     * @param string $castingTimeSpecial
+     * @return Spell
+     */
+    public function setCastingTimeSpecial($castingTimeSpecial)
+    {
+        $this->castingTimeSpecial = $castingTimeSpecial;
+
+        return $this;
+    }
+
+    /**
+     * Get castingTimeSpecial
+     *
+     * @return string 
+     */
+    public function getCastingTimeSpecial()
+    {
+        return $this->castingTimeSpecial;
+    }
+
+    /**
+     * Set castingTime
+     *
+     * @param \Ico\Bundle\RulesBundle\Entity\BattleTime $castingTime
+     * @return Spell
+     */
+    public function setCastingTime(\Ico\Bundle\RulesBundle\Entity\BattleTime $castingTime = null)
+    {
+        $this->castingTime = $castingTime;
+
+        return $this;
+    }
+
+    /**
+     * Get castingTime
+     *
+     * @return \Ico\Bundle\RulesBundle\Entity\BattleTime 
+     */
+    public function getCastingTime()
+    {
+        return $this->castingTime;
+    }
+
+    /**
+     * Set rangeSpecial
+     *
+     * @param string $rangeSpecial
+     * @return Spell
+     */
+    public function setRangeSpecial($rangeSpecial)
+    {
+        $this->rangeSpecial = $rangeSpecial;
+
+        return $this;
+    }
+
+    /**
+     * Get rangeSpecial
+     *
+     * @return string 
+     */
+    public function getRangeSpecial()
+    {
+        return $this->rangeSpecial;
+    }
+
+    /**
+     * Set range
+     *
+     * @param \Ico\Bundle\RulesBundle\Entity\BattleRange $range
+     * @return Spell
+     */
+    public function setRange(\Ico\Bundle\RulesBundle\Entity\BattleRange $range = null)
+    {
+        $this->range = $range;
+
+        return $this;
+    }
+
+    /**
+     * Get range
+     *
+     * @return \Ico\Bundle\RulesBundle\Entity\BattleRange 
+     */
+    public function getRange()
+    {
+        return $this->range;
     }
 }

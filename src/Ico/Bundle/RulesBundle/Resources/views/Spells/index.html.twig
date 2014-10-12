@@ -31,6 +31,7 @@
     <tr>
 	   <th{% if pagination.isSorted('spell.Name') %} class="sorted"{% endif %}>{{ knp_pagination_sortable(pagination, 'Sort', 'spell.name') }}</th>
 	   <th>{{ knp_pagination_sortable(pagination, 'École', 'spellSchool.name') }}</th>
+	   <th>Niveau</th>
 	   <th>Description</th>
     </tr>
 	   {% for spell in pagination %}
@@ -42,6 +43,9 @@
 			 {% else %}
 			 -
 			 {% endif %}
+		  </td>
+		  <td>
+			 {% for list in spell.spellListsLevels %}{% if loop.index != 1 %}, {% endif %}<span class="text-nowrap">{{ list.spellList.name }} {{ list.level }}</span>{% endfor %}
 		  </td>
 		  <td>{{ spell.description }}</td>
 	   </tr>

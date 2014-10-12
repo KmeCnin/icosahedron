@@ -1,0 +1,16 @@
+{% extends "IcoRulesBundle::layout.html.twig" %}
+
+{% block content %}
+<table class="table table-striped table-hover">
+    <tr>
+	   <th>Type d'action</th>
+	   <th>Description</th>
+    </tr>
+	   {% for action in list if action.description != '' %}
+    <tr class="link" onclick="window.location.href=Routing.generate('ico_rules_battleunits_view', {id: {{ action.id }}});">
+	   <td>{{ action.name|capitalize }}</td>
+	   <td>{{ action.description }}</td>
+    </tr>
+	   {% endfor %}
+</table>
+{% endblock %}

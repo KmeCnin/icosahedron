@@ -1,3 +1,8 @@
+ico_parser:
+    resource: "@IcoParserBundle/Controller/"
+    type:     annotation
+    prefix:   /
+
 ico_rules:
     resource: "@IcoRulesBundle/Controller/"
     type:     annotation
