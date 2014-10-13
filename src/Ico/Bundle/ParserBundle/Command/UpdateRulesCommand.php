@@ -227,7 +227,7 @@ EOT
 		  }
 		  if ($node->filter('range')->count() > 0) {
 			 if ($node->filter('range')->attr('unit') == 'squares') { // nombre de cases
-				$spell->setCastingTimeSpecial($node->filter('castingTime')->text().' m ('.($node->filter('castingTime')->text()/1.5).' c)');
+				$spell->setRangeSpecial((int) $node->filter('range')->text()*0.5.' m ('.($node->filter('range')->text()).' c)');
 			 } else {
 				$spell->setRange($this->getEntityFromNameId('BattleRange', $node->filter('range')->attr('unit')));
 			 }
@@ -253,6 +253,9 @@ EOT
 		  foreach ($spelllistlevels as $spelllistlevel) {
 			 $spell->addSpellListsLevel($spelllistlevel);
 		  }
+//		  if ($node->filter('savingThrow')->count() > 0) {
+//			 $spell->setMaterialComponent($node->filter('savingThrow')->text());
+//		  }
 		  $em->persist($spell);
 		  if (count($em->getUnitOfWork()->getScheduledEntityInsertions()) > $this->maxEntitiesStacked) {
 			 $em->flush();
