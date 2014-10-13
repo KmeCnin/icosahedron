@@ -227,7 +227,7 @@ EOT
 		  }
 		  if ($node->filter('range')->count() > 0) {
 			 if ($node->filter('range')->attr('unit') == 'squares') { // nombre de cases
-				$spell->setRangeSpecial((int) $node->filter('range')->text()*0.5.' m ('.($node->filter('range')->text()).' c)');
+				$spell->setRangeSpecial((int) $node->filter('range')->text()*1.5.' m ('.($node->filter('range')->text()).' c)');
 			 } else {
 				$spell->setRange($this->getEntityFromNameId('BattleRange', $node->filter('range')->attr('unit')));
 			 }
