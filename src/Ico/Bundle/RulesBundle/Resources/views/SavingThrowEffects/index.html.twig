@@ -1,0 +1,16 @@
+{% extends "IcoRulesBundle::layout.html.twig" %}
+
+{% block content %}
+<table class="table table-striped table-hover">
+    <tr>
+	   <th>Effet de sauvegarde</th>
+	   <th>Description</th>
+    </tr>
+	   {% for savingthroweffect in list %}
+    <tr class="link" onclick="window.location.href=Routing.generate('ico_rules_savingthroweffects_view', {id: {{ savingthroweffect.id }}});">
+	   <td>{{ savingthroweffect.name }}</td>
+	   <td>{{ savingthroweffect.description }}</td>
+    </tr>
+	   {% endfor %}
+</table>
+{% endblock %}

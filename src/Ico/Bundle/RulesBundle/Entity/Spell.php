@@ -110,6 +110,23 @@ class Spell
     protected $rangeSpecial;
     
     /**
+	* @ORM\ManyToOne(targetEntity="SavingThrow", cascade={"persist", "remove"})
+	*/
+    protected $savingThrow;
+    
+    /**
+	* @var string
+     * 
+     * @ORM\Column(name="savingThrowSpecial", type="text", nullable=true)
+	*/
+    protected $savingThrowSpecial;
+    
+    /**
+	* @ORM\ManyToOne(targetEntity="SavingThrowEffect", cascade={"persist", "remove"})
+	*/
+    protected $savingThrowEffect;
+    
+    /**
      * Constructor
      */
     public function __construct()
@@ -467,5 +484,74 @@ class Spell
     public function getRange()
     {
         return $this->range;
+    }
+
+    /**
+     * Set savingThrow
+     *
+     * @param \Ico\Bundle\RulesBundle\Entity\SavingThrow $savingThrow
+     * @return Spell
+     */
+    public function setSavingThrow(\Ico\Bundle\RulesBundle\Entity\SavingThrow $savingThrow = null)
+    {
+        $this->savingThrow = $savingThrow;
+
+        return $this;
+    }
+
+    /**
+     * Get savingThrow
+     *
+     * @return \Ico\Bundle\RulesBundle\Entity\SavingThrow 
+     */
+    public function getSavingThrow()
+    {
+        return $this->savingThrow;
+    }
+
+    /**
+     * Set savingThrowEffect
+     *
+     * @param \Ico\Bundle\RulesBundle\Entity\SavingThrowEffect $savingThrowEffect
+     * @return Spell
+     */
+    public function setSavingThrowEffect(\Ico\Bundle\RulesBundle\Entity\SavingThrowEffect $savingThrowEffect = null)
+    {
+        $this->savingThrowEffect = $savingThrowEffect;
+
+        return $this;
+    }
+
+    /**
+     * Get savingThrowEffect
+     *
+     * @return \Ico\Bundle\RulesBundle\Entity\SavingThrowEffect 
+     */
+    public function getSavingThrowEffect()
+    {
+        return $this->savingThrowEffect;
+    }
+
+    /**
+     * Set savingThrowSpecial
+     *
+     * @param string $savingThrowSpecial
+     * @return Spell
+     */
+    public function setSavingThrowSpecial($savingThrowSpecial)
+    {
+        $this->savingThrowSpecial = $savingThrowSpecial;
+
+        return $this;
+    }
+
+    /**
+     * Get savingThrowSpecial
+     *
+     * @return string 
+     */
+    public function getSavingThrowSpecial()
+    {
+        return $this->savingThrowSpecial;
     }
 }

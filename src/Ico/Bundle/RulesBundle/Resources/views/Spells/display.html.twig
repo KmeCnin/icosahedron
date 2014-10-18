@@ -26,6 +26,20 @@
 		  <br />
 	   {% endif %}
 	   <label>Cible : </label> {{ spell.target }}<br />
+	   <label>Jet de sauvegarde : </label> 
+	   {% if spell.savingThrow is not null %}
+		  <a class="preview" href="{{ path('ico_rules_savingthrows_view', {'id': spell.savingThrow.id}) }}">{{ spell.savingThrow.name }}</a>, 
+		  {% if spell.savingThrowEffect is not null %}
+			 <a class="preview" href="{{ path('ico_rules_savingthroweffects_view', {'id': spell.savingThrowEffect.id}) }}">{{ spell.savingThrowEffect.name|lower }}</a>
+		  {% else %}
+			 aucun
+		  {% endif %}
+	   {% elseif spell.savingThrowSpecial == '' %}
+		  aucun
+	   {% else %}
+		  {{ spell.savingThrowSpecial|raw }}
+	   {% endif %}
+	   <br />
     </div>
 </div>
 <div class="panel panel-default">
