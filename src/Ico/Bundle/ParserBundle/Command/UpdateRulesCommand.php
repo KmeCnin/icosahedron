@@ -193,13 +193,12 @@ EOT
 		  $this->current_spell = $node->attr('id');
 		  $spell->setNameId($node->attr('id'));
 		  $spell->setName($node->filter('name')->text());
-		  $spell->setWiki($node->filter('reference')->eq(0)->attr('href'));
+		  $wikiUrl = str_replace(' ', '%20', $node->filter('reference')->eq(0)->attr('href'));
+		  $spell->setWiki($wikiUrl);
 		  if ($node->filter('summary')->count() > 0) {
 			 $spell->setDescription($node->filter('summary')->text());
-			 $spell->setDetail($node->filter('summary')->text());
 		  } else {
 			 $spell->setDescription('');
-			 $spell->setDetail('');
 		  }
 		  if ($node->filter('target')->count() > 0) {
 			 $spell->setTarget($node->filter('target')->text());
@@ -251,12 +250,17 @@ EOT
 			 $spell->addSpellListsLevel($spelllistlevel);
 		  }
 		  if ($node->filter('savingThrow')->count() > 0) {
+			 
+			 // Création du lien vers l'effet (inoffensif)
 			 $inoffensif = $this->getEntityFromNameId('SavingThrowEffect', 'inoffensif');
-			 $url = $this->root . $this->getContainer()->get('router')->generate('ico_rules_savingthroweffects_view', array('id' => $inoffensif->getId()));
+			 $url = $this->root.$this->getContainer()->get('router')->generate('ico_rules_savingthroweffects_view', array('id' => $inoffensif->getId()));
 			 $saving_throw_special = preg_replace('/inoffensif/i', '<a class="preview" href="' . $url . '">inoffensif</a>', $node->filter('savingThrow')->text());
+			 
+			 // Création du lien vers l'effet (objet)
 			 $objet = $this->getEntityFromNameId('SavingThrowEffect', 'objet');
-			 $url = $this->root . $this->getContainer()->get('router')->generate('ico_rules_savingthroweffects_view', array('id' => $objet->getId()));
+			 $url = $this->root.$this->getContainer()->get('router')->generate('ico_rules_savingthroweffects_view', array('id' => $objet->getId()));
 			 $saving_throw_special = preg_replace('/objet/i', '<a class="preview" href="' . $url . '">objet</a>', $saving_throw_special);
+			 
 			 $spell->setSavingThrowSpecial($saving_throw_special);
 			 if ($node->filter('savingThrow')->attr('target') != 'none') {
 				$spell->setSavingThrow($this->getEntityFromNameId('SavingThrow', $node->filter('savingThrow')->attr('target')));
@@ -265,6 +269,18 @@ EOT
 				}
 			 }
 		  }
+		  // Récupération des infos détaillées sur la page du wiki
+		  $wikiCrawler = new Crawler;
+		  $wikiCrawler->addHTMLContent(file_get_contents($wikiUrl), 'UTF-8');
+		  $wikiContent = $wikiCrawler->filter('#PageContentDiv');
+		  $htmlDescrition = '';
+		  foreach ($wikiContent as $domElement) {
+			 $htmlDescrition .= $domElement->ownerDocument->saveHTML($domElement);
+		  }
+		  $fragments = explode('<br><br>', $htmlDescrition, 2);
+		  $rawDescription = $fragments[1];
+		  $spell->setDescription($this->replaceWithMyLinks($rawDescription));
+		  
 		  $em->persist($spell);
 		  // On flush si jamais le buffer est trop rempli pour éviter un dÃ©pacement de mÃ©moire
 		  if (count($em->getUnitOfWork()->getScheduledEntityInsertions()) > $this->maxEntitiesStacked) {
@@ -395,6 +411,10 @@ EOT
 
     protected function getDoctrine() {
 	   return $this->getContainer()->get('doctrine');
+    }
+    
+    protected function replaceWithMyLinks($text) {
+	   echo $text; die;
     }
 
 }

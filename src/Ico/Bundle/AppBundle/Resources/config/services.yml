@@ -1,0 +1,6 @@
+services:
+     ico.app.extension:
+        class: Ico\Bundle\AppBundle\Twig\Extension
+        arguments: ["@service_container"] 
+        tags:
+            - { name: twig.extension }

@@ -37,7 +37,7 @@
 	   {% elseif spell.savingThrowSpecial == '' %}
 		  aucun
 	   {% else %}
-		  {{ spell.savingThrowSpecial|raw }}
+		  {{ spell.savingThrowSpecial|environment|raw }}
 	   {% endif %}
 	   <br />
     </div>
