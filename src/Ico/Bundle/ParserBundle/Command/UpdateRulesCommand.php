@@ -8,6 +8,7 @@ use Symfony\Component\Console\Input\InputInterface;
 use Symfony\Component\Console\Input\InputOption;
 use Symfony\Component\Console\Output\OutputInterface;
 use Symfony\Component\DomCrawler\Crawler;
+use Symfony\Component\HttpFoundation\Request;
 use Ico\Bundle\RulesBundle\Entity\Feat;
 use Ico\Bundle\RulesBundle\Entity\FeatPrerequisite;
 use Ico\Bundle\RulesBundle\Entity\Spell;
@@ -23,6 +24,7 @@ class UpdateRulesCommand extends ContainerAwareCommand {
     protected $metadatas;
     protected $currentFeat;
     protected $maxEntitiesStacked = 100; // Number of entities to persist before to flush them
+    protected $root = '{{ROOT}}';
 
     protected function configure() {
 	   $this
@@ -249,12 +251,11 @@ EOT
 			 $spell->addSpellListsLevel($spelllistlevel);
 		  }
 		  if ($node->filter('savingThrow')->count() > 0) {
-			 $root = $this->getContainer()->get('kernel')->getRootDir() . '/../web' . $this->getContainer()->get('request')->getBasePath();
 			 $inoffensif = $this->getEntityFromNameId('SavingThrowEffect', 'inoffensif');
-			 $url = $root . $this->getContainer()->get('router')->generate('ico_rules_savingthroweffects_view', array('id' => $inoffensif->getId()));
+			 $url = $this->root . $this->getContainer()->get('router')->generate('ico_rules_savingthroweffects_view', array('id' => $inoffensif->getId()));
 			 $saving_throw_special = preg_replace('/inoffensif/i', '<a class="preview" href="' . $url . '">inoffensif</a>', $node->filter('savingThrow')->text());
 			 $objet = $this->getEntityFromNameId('SavingThrowEffect', 'objet');
-			 $url = $root . $this->getContainer()->get('router')->generate('ico_rules_savingthroweffects_view', array('id' => $objet->getId()));
+			 $url = $this->root . $this->getContainer()->get('router')->generate('ico_rules_savingthroweffects_view', array('id' => $objet->getId()));
 			 $saving_throw_special = preg_replace('/objet/i', '<a class="preview" href="' . $url . '">objet</a>', $saving_throw_special);
 			 $spell->setSavingThrowSpecial($saving_throw_special);
 			 if ($node->filter('savingThrow')->attr('target') != 'none') {
