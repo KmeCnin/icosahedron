@@ -1,0 +1,141 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Stymphalide</title>
+  <categories><category>Pathfinder-RPG.Bestiaire 3</category><category>Pathfinder-RPG.Monstre</category><category>Pathfinder-RPG.Règles officielles</category></categories>
+  <lastModified>2013-10-14 19:19:55Z</lastModified>
+  <version>15</version>
+  <inLinks><link>Pathfinder-RPG.Glossaire des monstres</link><link>Pathfinder-RPG.Liste de monstres par FP</link><link>Pathfinder-RPG.Liste de monstres par milieu naturel</link><link>Pathfinder-RPG.Liste de monstres par type</link><link>Pathfinder-RPG.Monstres</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.type Créature magique</link><link>Pathfinder-RPG.vision nocturne</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.guérison accélérée</link><link>Pathfinder-RPG.Feu</link><link>Pathfinder-RPG.Saignement</link><link>Pathfinder-RPG.Attaque en vol</link><link>Pathfinder-RPG.Don pour les critiques</link><link>Pathfinder-RPG.Réflexes surhumains</link><link>Pathfinder-RPG.Science de linitiative</link><link>Pathfinder-RPG.Talent</link><link>Pathfinder-RPG.Vol</link><link>Pathfinder-RPG.Action simple</link><link>Pathfinder-RPG.Aveuglé</link><link>Pathfinder-RPG.Vigueur</link><link>Pathfinder-RPG.DD</link><link>Pathfinder-RPG.Regard (capacité)</link><link>Pathfinder-RPG.jet de sauvegarde</link><link>Pathfinder-RPG.Constitution</link><link>Pathfinder-RPG.facteur de portée</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Stymphalide&lt;div style=&quot;float:right;&quot;&gt;FP 8&lt;/div&gt;&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Bestiaire 3 p.248&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 4 800 
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Cr&#233;ature-Magique.html&quot; title=&quot;Cr&#233;ature magique&quot;&gt;Cr&#233;ature magique&lt;/a&gt; de taille G, N
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +6 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Nocturne-(Capacit&#233;).html&quot; title=&quot;vision nocturne&quot;&gt;vision nocturne&lt;/a&gt; ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt;  +12
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 22, contact 11, pris au d&#233;pourvu 20 (Dex +2, naturelle +11, taille -1)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 94 (9d10+45) ; &lt;a class=&quot;pagelink&quot; href=&quot;Gu&#233;rison-Acc&#233;l&#233;r&#233;e-(Capacit&#233;).html&quot; title=&quot;gu&#233;rison acc&#233;l&#233;r&#233;e&quot;&gt;gu&#233;rison acc&#233;l&#233;r&#233;e&lt;/a&gt; 2
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +10, &lt;b&gt;Vig&lt;/b&gt; +11, &lt;b&gt;Vol&lt;/b&gt; +5
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;RD&lt;/b&gt; 10/magique et adamantium ; &lt;b&gt;Immunit&#233;s&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Armes-Magiques.html#Feu&quot; title=&quot;Feu&quot;&gt;feu&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Faiblesse&lt;/b&gt; vuln&#233;rabilit&#233; au son
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 6 m (4 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), vol 36 m (24 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) (m&#233;diocre)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; morsure, +14 (1d8+6 plus &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables.html#Saignement&quot; title=&quot;Saignement&quot;&gt;saignement&lt;/a&gt;) et 2 serres, +14 (1d6+6) et 2 ailes, +9 (1d6+3 plus &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables.html#Saignement&quot; title=&quot;Saignement&quot;&gt;saignement&lt;/a&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;&#192; distance&lt;/b&gt; 2 plumes tranchantes, +10 (1d6+6 plus &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables.html#Saignement&quot; title=&quot;Saignement&quot;&gt;saignement&lt;/a&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Espace occup&#233;&lt;/b&gt; 3 m (2 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) ; Allonge 1,5 m (1 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaques sp&#233;ciales&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables.html#Saignement&quot; title=&quot;Saignement&quot;&gt;saignement&lt;/a&gt; (1d6), &#233;blouissement, plumes tranchantes
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 22, &lt;b&gt;Dex&lt;/b&gt; 15, &lt;b&gt;Con&lt;/b&gt; 20, &lt;b&gt;Int&lt;/b&gt; 2, &lt;b&gt;Sag&lt;/b&gt; 15, &lt;b&gt;Cha&lt;/b&gt; 17
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +9 ; &lt;b&gt;BMO&lt;/b&gt; +16 ; &lt;b&gt;DMD&lt;/b&gt; 28
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Attaque-En-Vol.html&quot; title=&quot;Attaque en vol&quot;&gt;Attaque en vol&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Don-Pour-Les-Critiques.html&quot; title=&quot;Don pour les critiques&quot;&gt;Don pour les critiques&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;R&#233;flexes-Surhumains.html&quot; title=&quot;R&#233;flexes surhumains&quot;&gt;R&#233;flexes surhumains&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Science-De-Linitiative.html&quot; title=&quot;Science de l&amp;#39;initiative&quot;&gt;Science de l’initiative&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Talent.html&quot; title=&quot;Talent&quot;&gt;Talent&lt;/a&gt; (Perception)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +12, &lt;a class=&quot;pagelink&quot; href=&quot;Vol.html&quot; title=&quot;Vol&quot;&gt;vol&lt;/a&gt; +4
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; collines ou plaines chaudes
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation sociale&lt;/b&gt; solitaire, couple ou vol&#233;e (3-9)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; fortuit
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Capacit&#233;s sp&#233;ciales&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;&#201;blouissement (Sur).&lt;/b&gt; Par une &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions.html#SIMPLE&quot; title=&quot;Action simple&quot;&gt;action simple&lt;/a&gt;, dans toute zone de luminosit&#233; normale ou plus vive, le stymphalide peut &#233;bouriffer ses plumes m&#233;talliques de mani&#232;re &#224; &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables.html#Aveugl&#233;&quot; title=&quot;Aveugl&#233;&quot;&gt;aveugler&lt;/a&gt; toutes les cr&#233;atures alentour. Toutes les cr&#233;atures situ&#233;es dans un rayon de 9 m&#232;tres doivent r&#233;ussir un jet de &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;Vigueur&quot;&gt;Vigueur&lt;/a&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DEGREDEDIFFICULTE&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; 19 ou &#234;tre aveugl&#233;es pendant 1d6 minutes. Les cr&#233;atures peuvent se d&#233;fendre contre cet effet comme qu’elles le feraient face &#224; une &lt;a class=&quot;pagelink&quot; href=&quot;Regard-(Capacit&#233;).html&quot; title=&quot;Regard (Sur)&quot;&gt;attaque de regard&lt;/a&gt;. Il s’agit d’un effet visuel. Le &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DEGREDEDIFFICULTE&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; du &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;jet de sauvegarde&quot;&gt;jet de sauvegarde&lt;/a&gt; est bas&#233; sur la &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#CONSTITUTION&quot; title=&quot;La Constitution&quot;&gt;Constitution&lt;/a&gt;.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Plumes tranchantes (Ext).&lt;/b&gt; Les plumes m&#233;talliques du stymphalide sont aussi tranchantes que des rasoirs. En plus de pouvoir infliger des d&#233;g&#226;ts tranchants avec ses ailes lors d’une attaque de corps &#224; corps, le stymphalide peut battre des ailes pour projeter deux grandes plumes ac&#233;r&#233;es sur une seule cible. Ces plumes tranchantes infligent 2d6 points de d&#233;g&#226;ts et provoquent un &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables.html#Saignement&quot; title=&quot;Saignement&quot;&gt;saignement&lt;/a&gt;, avec un &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques-Des-Armes.html#FACTEURDEPORTEE&quot; title=&quot;facteur de port&#233;e&quot;&gt;facteur de port&#233;e&lt;/a&gt; de 15 m&#232;tres. Le stymphalide peut utiliser cette attaque un nombre de fois par jour &#233;gal &#224; son modificateur de &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#CONSTITUTION&quot; title=&quot;La Constitution&quot;&gt;Constitution&lt;/a&gt; (5 fois par jour pour la plupart des stymphalides).
+&lt;/div&gt;&lt;br /&gt;&lt;/div&gt;
+&lt;/td&gt;&lt;td&gt;&lt;div&gt;&lt;i&gt;Cet oiseau imposant, semblable &#224; un ibis, semble sculpt&#233; dans l’argent et le cuivre mais se d&#233;place avec la souplesse d’une cr&#233;ature vivante.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Oiseaux de proies mangeurs d’hommes, ces cr&#233;atures rares que l’on appelle les stymphalides hantent les plaines et les littoraux, d&#233;chiquetant les animaux &#224; sang chaud et les voyageurs imprudents au moyen de leurs plumes en acier, tranchantes comme les lames, et de leur bec en forme de dague. De loin, on confond facilement les stymphalides avec des grues, des ibis ou autres oiseaux &#224; long cou. Mais en pleine lumi&#232;re, leurs ailes &#233;tincelantes et la brume de sang de leurs pr&#233;c&#233;dents repas emp&#234;chent de se m&#233;prendre sur leur nature. &lt;br /&gt;&lt;br /&gt;Lorsqu’elles ne se reposent pas, des vol&#233;es de ces cr&#233;atures volent haut dans le ciel sur les courants chauds, s’appuyant sur leur vue per&#231;ante pour rep&#233;rer les proies ad&#233;quates de loin. Du fait de leurs app&#233;tits voraces, les vols de stymphalides doivent s’approprier de vastes territoires pour pouvoir se nourrir correctement.&lt;br /&gt;&lt;br /&gt;Heureusement pour les habitants des terres civilis&#233;es, les stymphalides empi&#232;tent rarement sur les zones tr&#232;s fr&#233;quent&#233;es par les humano&#239;des et autres cr&#233;atures suffisamment intelligentes pour abattre ne serait-ce qu’un seul de ces oiseaux aux ailes m&#233;talliques. Mais les stymphalides se reproduisent &#224; une vitesse incroyable et la surpopulation
+et l’&#233;puisement du gibier forcent r&#233;guli&#232;rement des groupes dangereusement nombreux &#224; se rassembler pour trouver de
+nouvelles terres avec de nouvelles proies &#224; d&#233;vorer.&lt;br /&gt;&lt;br /&gt;Fait assez singulier, les plumes et le bec des stymphalides sont faits d’un mat&#233;riau proche de l’acier, similaire &#224; la peau m&#233;tallique de la gorgone. Il existe de plus petites esp&#232;ces de stymphalides, incluant une esp&#232;ce dont les membres
+ont tendance &#224; se regrouper en nu&#233;es, mais la cr&#233;ature imposante pr&#233;sent&#233;e ici est de loin la plus courante. Ce type
+de stymphalides mesure 3,90 m&#232;tres pour une envergure de 7,50 m&#232;tres et p&#232;se 125 kilos.&lt;br /&gt;&lt;br /&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Stymphalide|FP 8}
+{s:pucem|Créature magique|Plaines|Tropical}
+{s:BDTexte|''Source : Bestiaire 3 p.248''}
+{s:BDTexte|'''PX''' 4 800 }
+{s:BDTexte|[[type Créature magique|Créature magique]] de taille G, N}
+{s:BDTexte|'''Init''' +6 ; '''Sens''' [[vision nocturne]] ; [[Perception]]  +12}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 22, contact 11, pris au dépourvu 20 (Dex +2, naturelle +11, taille -1)}
+{s:BDTexte|'''pv''' 94 (9d10+45) ; [[guérison accélérée]] 2}
+{s:BDTexte|'''Réf''' +10, '''Vig''' +11, '''Vol''' +5}
+{s:BDTexte|'''RD''' 10/magique et adamantium ; '''Immunités''' [[feu]]}
+{s:BDTexte|'''Faiblesse''' vulnérabilité au son}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 6 m (4 {s:c}), vol 36 m (24 {s:c}) (médiocre)}
+{s:BDTexte|'''Corps à corps''' morsure, +14 (1d8+6 plus [[saignement]]) et 2 serres, +14 (1d6+6) et 2 ailes, +9 (1d6+3 plus [[saignement]])}
+{s:BDTexte|'''À distance''' 2 plumes tranchantes, +10 (1d6+6 plus [[saignement]])}
+{s:BDTexte|'''Espace occupé''' 3 m (2 {s:c}) ; Allonge 1,5 m (1 {s:c})}
+{s:BDTexte|'''Attaques spéciales''' [[saignement]] (1d6), éblouissement, plumes tranchantes}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 22, '''Dex''' 15, '''Con''' 20, '''Int''' 2, '''Sag''' 15, '''Cha''' 17}
+{s:BDTexte|'''BBA''' +9 ; '''BMO''' +16 ; '''DMD''' 28}
+{s:BDTexte|'''Dons''' [[Attaque en vol]], [[Don pour les critiques]], [[Réflexes surhumains]], [[Science de linitiative|Science de l’initiative]], [[Talent]] (Perception)}
+{s:BDTexte|'''Compétences''' [[Perception]] +12, [[vol]] +4}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' collines ou plaines chaudes}
+{s:BDTexte|'''Organisation sociale''' solitaire, couple ou volée (3-9)}
+{s:BDTexte|'''Trésor''' fortuit}
+{s:BDSousTitre|Capacités spéciales}
+{s:BDTexte|'''Éblouissement (Sur).''' Par une [[action simple]], dans toute zone de luminosité normale ou plus vive, le stymphalide peut ébouriffer ses plumes métalliques de manière à [[aveuglé|aveugler]] toutes les créatures alentour. Toutes les créatures situées dans un rayon de 9 mètres doivent réussir un jet de [[Vigueur]] [[DD]] 19 ou être aveuglées pendant 1d6 minutes. Les créatures peuvent se défendre contre cet effet comme qu’elles le feraient face à une [[regard (capacité)|attaque de regard]]. Il s’agit d’un effet visuel. Le [[DD]] du [[jet de sauvegarde]] est basé sur la [[Constitution]].}
+{s:BDTexte|'''Plumes tranchantes (Ext).''' Les plumes métalliques du stymphalide sont aussi tranchantes que des rasoirs. En plus de pouvoir infliger des dégâts tranchants avec ses ailes lors d’une attaque de corps à corps, le stymphalide peut battre des ailes pour projeter deux grandes plumes acérées sur une seule cible. Ces plumes tranchantes infligent 2d6 points de dégâts et provoquent un [[saignement]], avec un [[facteur de portée]] de 15 mètres. Le stymphalide peut utiliser cette attaque un nombre de fois par jour égal à son modificateur de [[Constitution]] (5 fois par jour pour la plupart des stymphalides).}
+
+</div>
+</td><td><div>''Cet oiseau imposant, semblable à un ibis, semble sculpté dans l’argent et le cuivre mais se déplace avec la souplesse d’une créature vivante.''
+
+Oiseaux de proies mangeurs d’hommes, ces créatures rares que l’on appelle les stymphalides hantent les plaines et les littoraux, déchiquetant les animaux à sang chaud et les voyageurs imprudents au moyen de leurs plumes en acier, tranchantes comme les lames, et de leur bec en forme de dague. De loin, on confond facilement les stymphalides avec des grues, des ibis ou autres oiseaux à long cou. Mais en pleine lumière, leurs ailes étincelantes et la brume de sang de leurs précédents repas empêchent de se méprendre sur leur nature. 
+
+Lorsqu’elles ne se reposent pas, des volées de ces créatures volent haut dans le ciel sur les courants chauds, s’appuyant sur leur vue perçante pour repérer les proies adéquates de loin. Du fait de leurs appétits voraces, les vols de stymphalides doivent s’approprier de vastes territoires pour pouvoir se nourrir correctement.
+
+Heureusement pour les habitants des terres civilisées, les stymphalides empiètent rarement sur les zones très fréquentées par les humanoïdes et autres créatures suffisamment intelligentes pour abattre ne serait-ce qu’un seul de ces oiseaux aux ailes métalliques. Mais les stymphalides se reproduisent à une vitesse incroyable et la surpopulation
+et l’épuisement du gibier forcent régulièrement des groupes dangereusement nombreux à se rassembler pour trouver de
+nouvelles terres avec de nouvelles proies à dévorer.
+
+Fait assez singulier, les plumes et le bec des stymphalides sont faits d’un matériau proche de l’acier, similaire à la peau métallique de la gorgone. Il existe de plus petites espèces de stymphalides, incluant une espèce dont les membres
+ont tendance à se regrouper en nuées, mais la créature imposante présentée ici est de loin la plus courante. Ce type
+de stymphalides mesure 3,90 mètres pour une envergure de 7,50 mètres et pèse 125 kilos.
+
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Stymphalide</fullName>
+</wikiPage>

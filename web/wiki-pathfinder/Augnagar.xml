@@ -1,0 +1,171 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Augnagar</title>
+  <categories><category>Pathfinder-RPG.Bestiaire 2</category></categories>
+  <lastModified>2013-02-02 13:31:51Z</lastModified>
+  <version>9</version>
+  <inLinks><link>Pathfinder-RPG.Glossaire des monstres</link><link>Pathfinder-RPG.Lier un extérieur</link><link>Pathfinder-RPG.Liste de monstres par FP</link><link>Pathfinder-RPG.Liste de monstres par milieu naturel</link><link>Pathfinder-RPG.Liste de monstres par type</link><link>Pathfinder-RPG.Monstres</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.type Extérieur</link><link>Pathfinder-RPG.sous-type Chaos</link><link>Pathfinder-RPG.sous-type Mal</link><link>Pathfinder-RPG.sous-type extraplanaire</link><link>Pathfinder-RPG.sous-type qlippoth</link><link>Pathfinder-RPG.odorat</link><link>Pathfinder-RPG.vision aveugle</link><link>Pathfinder-RPG.vision dans le noir</link><link>Pathfinder-RPG.Vision lucide</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Saignement</link><link>Pathfinder-RPG.Porte dimensionnelle</link><link>Pathfinder-RPG.Protection contre la Loi</link><link>Pathfinder-RPG.Vagues dépuisement</link><link>Pathfinder-RPG.Attaque en puissance</link><link>Pathfinder-RPG.Attaque en vol</link><link>Pathfinder-RPG.Frappe décisive</link><link>Pathfinder-RPG.Réflexes surhumains</link><link>Pathfinder-RPG.Science de la frappe décisive</link><link>Pathfinder-RPG.Science de linitiative</link><link>Pathfinder-RPG.Vol stationnaire</link><link>Pathfinder-RPG.Discrétion</link><link>Pathfinder-RPG.Escalade</link><link>Pathfinder-RPG.Vol</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire 2&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Augnagar&lt;div style=&quot;float:right;&quot;&gt;FP 14&lt;/div&gt;&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Bestiaire 2&lt;/i&gt; p.229
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 38.400
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Ext&#233;rieur.html&quot; title=&quot;Ext&#233;rieur&quot;&gt;Ext&#233;rieur&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Chaos.html&quot; title=&quot;Chaos (sous-type)&quot;&gt;Chaos&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Mal.html&quot; title=&quot;Mal (sous-type)&quot;&gt;Mal&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Extraplanaire.html&quot; title=&quot;Extraplanaire (sous-type)&quot;&gt;extraplanaire&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Qlippoth.html&quot; title=&quot;Qlippoth (sous-type)&quot;&gt;qlippoth&lt;/a&gt;) de taille TG, CM
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +3 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Odorat-(Capacit&#233;).html&quot; title=&quot;odorat&quot;&gt;odorat&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Aveugle-(Capacit&#233;).html&quot; title=&quot;vision aveugle&quot;&gt;vision aveugle&lt;/a&gt; 9 m ( 6cases), &lt;a class=&quot;pagelink&quot; href=&quot;Capacit&#233;s-Sp&#233;ciales.html#VISIONDANSLENOIR&quot; title=&quot;vision dans le noir&quot;&gt;vision dans le noir&lt;/a&gt; 18 m (12 cases), &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Lucide.html&quot; title=&quot;Vision lucide&quot;&gt;vision lucide&lt;/a&gt; ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +22
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 29, contact 7, pris au d&#233;pourvu 29 (Dex -1, naturelle +22, taille -2)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 203 (14d10+126)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +10, &lt;b&gt;Vig&lt;/b&gt; +18, &lt;b&gt;Vol&lt;/b&gt; +9
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Immunit&#233;s&lt;/b&gt; effets mentaux, froid, poison ; &lt;b&gt;RD&lt;/b&gt; 10/Loi ; &lt;b&gt;R&#233;sistances&lt;/b&gt; acide 10, &#233;lectricit&#233; 10, feu 10
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 15 m (10 cases), escalade 15 m (10 cases), vol 15 m (moyenne - 10 cases)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; &lt;i&gt;morsure&lt;/i&gt;, +23 (2d6+11 plus 1d8 de &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables.html#Saignement&quot; title=&quot;Saignement&quot;&gt;saignement&lt;/a&gt; et mal&#233;diction de la putr&#233;faction) et &lt;i&gt;3 griffes&lt;/i&gt;, +23 (1d8+11 plus 1d8 de &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables.html#Saignement&quot; title=&quot;Saignement&quot;&gt;saignement&lt;/a&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Espace&lt;/b&gt; 4,50 m (3 cases) ; &lt;b&gt;Allonge&lt;/b&gt; 4,50 m (3 cases) (9 m pour les griffes (6 cases))
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaques sp&#233;ciales&lt;/b&gt; apparence horrible (DD 21)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Pouvoirs magiques&lt;/b&gt; (NLS 14), concentration +18
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+Constant — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Vision-Lucide.html&quot; title=&quot;Vision lucide&quot;&gt;vision lucide&lt;/a&gt;&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+3/jour — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Porte-Dimensionnelle.html&quot; title=&quot;Porte dimensionnelle&quot;&gt;porte dimensionnelle&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Protection-Contre-La-Loi.html&quot; title=&quot;Protection contre la Loi&quot;&gt;protection contre la Loi&lt;/a&gt;&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+1/jour — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Vagues-D&#233;puisement.html&quot; title=&quot;Vagues d&amp;#39;&#233;puisement&quot;&gt;vagues d’&#233;puisement&lt;/a&gt;&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 32, &lt;b&gt;Dex&lt;/b&gt; 9, &lt;b&gt;Con&lt;/b&gt; 28, &lt;b&gt;Int&lt;/b&gt; 5, &lt;b&gt;Sag&lt;/b&gt; 20, &lt;b&gt;Cha&lt;/b&gt; 19
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +14, &lt;b&gt;BMO&lt;/b&gt; +27, &lt;b&gt;DMD&lt;/b&gt; 36 (44 contre croc-en-jambe)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Attaque-En-Puissance.html&quot; title=&quot;Attaque en puissance&quot;&gt;Attaque en puissance&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Attaque-En-Vol.html&quot; title=&quot;Attaque en vol&quot;&gt;Attaque en vol&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Frappe-D&#233;cisive.html&quot; title=&quot;Frappe d&#233;cisive&quot;&gt;Frappe d&#233;cisive&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;R&#233;flexes-Surhumains.html&quot; title=&quot;R&#233;flexes surhumains&quot;&gt;R&#233;flexes surhumains&lt;/a&gt;,  &lt;a class=&quot;pagelink&quot; href=&quot;Science-De-La-Frappe-D&#233;cisive.html&quot; title=&quot;Science de la frappe d&#233;cisive&quot;&gt;Science de la frappe d&#233;cisive&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Science-De-Linitiative.html&quot; title=&quot;Science de l&amp;#39;initiative&quot;&gt;Science de l’initiative&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Vol-Stationnaire.html&quot; title=&quot;Vol stationnaire&quot;&gt;Vol stationnaire&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; +24, &lt;a class=&quot;pagelink&quot; href=&quot;Escalade.html&quot; title=&quot;Escalade&quot;&gt;Escalade&lt;/a&gt; +19, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +22, &lt;a class=&quot;pagelink&quot; href=&quot;Vol.html&quot; title=&quot;Vol&quot;&gt;Vol&lt;/a&gt; +12 ; &lt;b&gt;Modificateurs raciaux&lt;/b&gt; +16 &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Langues&lt;/b&gt; abyssal ; t&#233;l&#233;pathie 30 m
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; tous (Abysses)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation sociale&lt;/b&gt; solitaire
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; standard
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Pouvoirs sp&#233;ciaux&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Mal&#233;diction de la putr&#233;faction (Sur).&lt;/b&gt; Morsure — blessure ; JdS Vigueur DD26 ; fr&#233;quence 1/jour ; effet diminution permanente 1d6 Con et puanteur constante. Les cr&#233;atures affect&#233;es par la mal&#233;diction de la putr&#233;faction qu’inflige la morsure d’un augnagar se couvrent de hideuses plaies infect&#233;es d’o&#249; &#233;mane une horrible puanteur. Cela fonctionne comme la capacit&#233; de puanteur (voir les r&#232;gles universelles pour les monstres &#224; la page 306) si ce n’est que seules les cr&#233;atures immunis&#233;es contre le poison ne sont pas affect&#233;es. La victime de cette mal&#233;diction ne peut pas effectuer de jet de sauvegarde pour ne pas &#234;tre &#233;cœur&#233;e (&#233;tat pr&#233;judiciable &#171; fi&#233;vreux &#187;) par l’odeur, mais les autres cr&#233;atures peuvent tenter un jet de Vigueur de DD 26 pour &#233;chapper &#224; cet effet. Ceux qui ratent ce jet de sauvegardent restent fi&#233;vreux tant qu’ils restent &#224; 9 m&#232;tres ou moins de la victime de la mal&#233;diction. L’horrible puanteur impose &#233;galement un malus de –8 aux tests de Discr&#233;tion de la victime maudite. Le DD du jet de sauvegarde d&#233;pend de la Constitution.
+&lt;b&gt;Apparence horrible (Sur).&lt;/b&gt; Les cr&#233;atures qui succombent &#224; l’apparence horrible d’un augnagar deviennent temporairement d&#233;mentes &#224; cause de la terreur. Cela se traduit par un affaiblissement temporaire de 2 points de Charisme qui, en plus, rend la victime confuse pendant 1d3 rounds.
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;td&gt;&lt;div&gt;&lt;i&gt;Cette esp&#232;ce d’araign&#233;e g&#233;ante poss&#232;de trois queues crochues et huit pattes reli&#233;es par des membranes.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Les gigantesques augnagars ne poss&#232;dent pas un esprit tr&#232;s
+vif. En tant qu’Ext&#233;rieurs, ils n’ont pas besoin de se nourrir pour
+survivre, mais cela ne les emp&#234;che pas d’&#234;tre voraces et de se
+repa&#238;tre de tous ceux qu’ils peuvent vaincre. Ils aiment le
+go&#251;t de la chair faisand&#233;e (sp&#233;cialement le go&#251;t de la chair de
+d&#233;mon faisand&#233;e) : leur horrible morsure leur permet donc
+d’assaisonner leurs repas &#224; leur convenance. Mais le festin de
+pr&#233;dilection des augnagars tient plut&#244;t du cannibalisme. Pour
+eux, la chair des membres de leur propre esp&#232;ce est un met des
+plus d&#233;licieux. Quand un augnagar s’est suffisamment nourri de
+la chair de ses pairs, son corps devient extr&#234;mement boursoufl&#233;,
+&#224; un point tel qu’il ne peut plus voler. &#192; ce moment-l&#224;, il utilise
+ses queues crochues pour &#233;ventrer son propre corps avec une
+terrible fr&#233;n&#233;sie auto-destructrice. Un thulgant sort alors de
+cette temp&#234;te de bouts de gras et de visc&#232;res d&#233;chiquet&#233;es, une
+cr&#233;ature &#224; la forme semblable &#224; celle d’un augnagar, mais plus
+intelligente et encore plus dangereuse.
+Un augnagar poss&#232;de un envergure de 9 m&#232;tres et p&#232;se
+3 000 kg.
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire 2"><tr><td>
+<div class="BD">
+{s:BDTitre|Augnagar|FP 14}
+{s:pucem|Extérieur|Souterrain|Extraplanaire}
+{s:BDTexte|''Source : Bestiaire 2'' p.229}
+{s:BDTexte|'''PX''' 38.400}
+{s:BDTexte|[[type Extérieur|Extérieur]] ([[sous-type Chaos|Chaos]], [[sous-type Mal|Mal]], [[sous-type extraplanaire|extraplanaire]], [[sous-type qlippoth|qlippoth]]) de taille TG, CM}
+{s:BDTexte|'''Init''' +3 ; '''Sens''' [[odorat]], [[vision aveugle]] 9 m ( 6cases), [[vision dans le noir]] 18 m (12 cases), [[vision lucide]] ; [[Perception]] +22}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 29, contact 7, pris au dépourvu 29 (Dex -1, naturelle +22, taille -2)}
+{s:BDTexte|'''pv''' 203 (14d10+126)}
+{s:BDTexte|'''Réf''' +10, '''Vig''' +18, '''Vol''' +9}
+{s:BDTexte|'''Immunités''' effets mentaux, froid, poison ; '''RD''' 10/Loi ; '''Résistances''' acide 10, électricité 10, feu 10}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 15 m (10 cases), escalade 15 m (10 cases), vol 15 m (moyenne - 10 cases)}
+{s:BDTexte|'''Corps à corps''' ''morsure'', +23 (2d6+11 plus 1d8 de [[saignement]] et malédiction de la putréfaction) et ''3 griffes'', +23 (1d8+11 plus 1d8 de [[saignement]])}
+{s:BDTexte|'''Espace''' 4,50 m (3 cases) ; '''Allonge''' 4,50 m (3 cases) (9 m pour les griffes (6 cases))}
+{s:BDTexte|'''Attaques spéciales''' apparence horrible (DD 21)}
+{s:BDTexte|'''Pouvoirs magiques''' (NLS 14), concentration +18}
+{s:BDSorts|Constant — ''[[vision lucide]]''}
+{s:BDSorts|3/jour — ''[[porte dimensionnelle]]'', ''[[protection contre la Loi]]''}
+{s:BDSorts|1/jour — ''[[vagues dépuisement|vagues d’épuisement]]''}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 32, '''Dex''' 9, '''Con''' 28, '''Int''' 5, '''Sag''' 20, '''Cha''' 19}
+{s:BDTexte|'''BBA''' +14, '''BMO''' +27, '''DMD''' 36 (44 contre croc-en-jambe)}
+{s:BDTexte|'''Dons''' [[Attaque en puissance]], [[Attaque en vol]], [[Frappe décisive]], [[Réflexes surhumains]],  [[Science de la frappe décisive]], [[Science de linitiative|Science de l’initiative]], [[Vol stationnaire]]}
+{s:BDTexte|'''Compétences''' [[Discrétion]] +24, [[Escalade]] +19, [[Perception]] +22, [[Vol]] +12 ; '''Modificateurs raciaux''' +16 [[Discrétion]]}
+{s:BDTexte|'''Langues''' abyssal ; télépathie 30 m}
+{s:BDTexte|'''Environnement''' tous (Abysses)}
+{s:BDTexte|'''Organisation sociale''' solitaire}
+{s:BDTexte|'''Trésor''' standard}
+{s:BDSousTitre|Pouvoirs spéciaux}
+{s:BDTexte|'''Malédiction de la putréfaction (Sur).''' Morsure — blessure ; JdS Vigueur DD26 ; fréquence 1/jour ; effet diminution permanente 1d6 Con et puanteur constante. Les créatures affectées par la malédiction de la putréfaction qu’inflige la morsure d’un augnagar se couvrent de hideuses plaies infectées d’où émane une horrible puanteur. Cela fonctionne comme la capacité de puanteur (voir les règles universelles pour les monstres à la page 306) si ce n’est que seules les créatures immunisées contre le poison ne sont pas affectées. La victime de cette malédiction ne peut pas effectuer de jet de sauvegarde pour ne pas être écœurée (état préjudiciable « fiévreux ») par l’odeur, mais les autres créatures peuvent tenter un jet de Vigueur de DD 26 pour échapper à cet effet. Ceux qui ratent ce jet de sauvegardent restent fiévreux tant qu’ils restent à 9 mètres ou moins de la victime de la malédiction. L’horrible puanteur impose également un malus de –8 aux tests de Discrétion de la victime maudite. Le DD du jet de sauvegarde dépend de la Constitution.
+'''Apparence horrible (Sur).''' Les créatures qui succombent à l’apparence horrible d’un augnagar deviennent temporairement démentes à cause de la terreur. Cela se traduit par un affaiblissement temporaire de 2 points de Charisme qui, en plus, rend la victime confuse pendant 1d3 rounds.}
+</div>
+</td><td><div>''Cette espèce d’araignée géante possède trois queues crochues et huit pattes reliées par des membranes.''
+
+Les gigantesques augnagars ne possèdent pas un esprit très
+vif. En tant qu’Extérieurs, ils n’ont pas besoin de se nourrir pour
+survivre, mais cela ne les empêche pas d’être voraces et de se
+repaître de tous ceux qu’ils peuvent vaincre. Ils aiment le
+goût de la chair faisandée (spécialement le goût de la chair de
+démon faisandée) : leur horrible morsure leur permet donc
+d’assaisonner leurs repas à leur convenance. Mais le festin de
+prédilection des augnagars tient plutôt du cannibalisme. Pour
+eux, la chair des membres de leur propre espèce est un met des
+plus délicieux. Quand un augnagar s’est suffisamment nourri de
+la chair de ses pairs, son corps devient extrêmement boursouflé,
+à un point tel qu’il ne peut plus voler. À ce moment-là, il utilise
+ses queues crochues pour éventrer son propre corps avec une
+terrible frénésie auto-destructrice. Un thulgant sort alors de
+cette tempête de bouts de gras et de viscères déchiquetées, une
+créature à la forme semblable à celle d’un augnagar, mais plus
+intelligente et encore plus dangereuse.
+Un augnagar possède un envergure de 9 mètres et pèse
+3 000 kg.
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.augnagar</fullName>
+</wikiPage>

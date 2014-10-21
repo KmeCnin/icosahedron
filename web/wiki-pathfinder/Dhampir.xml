@@ -1,0 +1,145 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Dhampir</title>
+  <categories><category>Pathfinder-RPG.Bestiaire 2</category><category>Pathfinder-RPG.Monstre</category><category>Pathfinder-RPG.Règles officielles</category></categories>
+  <lastModified>2013-02-06 21:35:09Z</lastModified>
+  <version>3</version>
+  <inLinks><link>Pathfinder-RPG.Buveur de sang</link><link>Pathfinder-RPG.Canalisation de vie</link><link>Pathfinder-RPG.Charmeur-né</link><link>Pathfinder-RPG.Cruoromancien (magicien)</link><link>Pathfinder-RPG.équipements raciaux</link><link>Pathfinder-RPG.Festin sanglant</link><link>Pathfinder-RPG.Glossaire des monstres</link><link>Pathfinder-RPG.Gouts variés</link><link>Pathfinder-RPG.Liste de monstres par FP</link><link>Pathfinder-RPG.Liste de monstres par milieu naturel</link><link>Pathfinder-RPG.Liste de monstres par type</link><link>Pathfinder-RPG.Monstres</link><link>Pathfinder-RPG.Parricide (inquisiteur)</link><link>Pathfinder-RPG.Protection contre la mort-vivance</link><link>Pathfinder-RPG.Rayon aveuglant</link><link>Pathfinder-RPG.Récupération de sang</link><link>Pathfinder-RPG.Temp-manuel-des-races</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Guerrier</link><link>Pathfinder-RPG.type Humanoïde</link><link>Pathfinder-RPG.vision dans le noir</link><link>Pathfinder-RPG.vision nocturne</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Affinité avec lénergie négative (capacité)</link><link>Pathfinder-RPG.Sensibilité à la lumière (capacité)</link><link>Pathfinder-RPG.Détection des morts-vivants</link><link>Pathfinder-RPG.Attaque en finesse</link><link>Pathfinder-RPG.Robustesse</link><link>Pathfinder-RPG.Bluff</link><link>Pathfinder-RPG.Équitation</link><link>Pathfinder-RPG.Intimidation</link><link>Pathfinder-RPG.Survie</link><link>Pathfinder-RPG.Vampire</link><link>Pathfinder-RPG.niveau négatif</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Dhampir&lt;div style=&quot;float:right;&quot;&gt;FP 1/2&lt;/div&gt;&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Bestiaire 2, p. 94&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 200
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+Dhampir &lt;a class=&quot;pagelink&quot; href=&quot;Guerrier.html&quot; title=&quot;Le guerrier&quot;&gt;guerrier&lt;/a&gt; 1
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Humano&#239;de.html&quot; title=&quot;Humano&#239;de&quot;&gt;Humano&#239;de&lt;/a&gt; (dhampir) de taille M, CM
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +3 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Capacit&#233;s-Sp&#233;ciales.html#VISIONDANSLENOIR&quot; title=&quot;vision dans le noir&quot;&gt;vision dans le noir&lt;/a&gt; 18 m (12 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Nocturne-(Capacit&#233;).html&quot; title=&quot;vision nocturne&quot;&gt;vision nocturne&lt;/a&gt; ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +1
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 17, contact 13, pris au d&#233;pourvu 14 (armure +4, Dex +3)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 13 (1d10+3)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +3, &lt;b&gt;Vig&lt;/b&gt; +2, &lt;b&gt;Vol&lt;/b&gt; -1 ; +2 contre les maladies et les effets mentaux
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Capacit&#233;s d&#233;fensives&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Affinit&#233;-Avec-L&#233;nergie-N&#233;gative-(Capacit&#233;).html&quot; title=&quot;Affinit&#233; avec l&#233;nergie n&#233;gative (Ext)&quot;&gt;affinit&#233; avec l’&#233;nergie n&#233;gative&lt;/a&gt;, r&#233;sistance &#224; l’absorption d’&#233;nergie
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Vuln&#233;rabilit&#233;s&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Sensibilit&#233;-&#192;-La-Lumi&#232;re-(Capacit&#233;).html&quot; title=&quot;Sensibilit&#233; &#224; la lumi&#232;re (Ext)&quot;&gt;sensible &#224; la lumi&#232;re&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 9 m (6 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; rapi&#232;re, +4 (1d6+1/18–20)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Pouvoirs magiques&lt;/b&gt; (NLS 1)
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+3/jour — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;D&#233;tection-Des-Morts-Vivants.html&quot; title=&quot;D&#233;tection des morts-vivants&quot;&gt;d&#233;tection des morts-vivants&lt;/a&gt;&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 13, &lt;b&gt;Dex&lt;/b&gt; 17, &lt;b&gt;Con&lt;/b&gt; 10, &lt;b&gt;Int&lt;/b&gt; 10, &lt;b&gt;Sag&lt;/b&gt; 8, &lt;b&gt;Cha&lt;/b&gt; 16
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +1, &lt;b&gt;BMO&lt;/b&gt; +2, &lt;b&gt;DMD&lt;/b&gt; 15
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Attaque-En-Finesse.html&quot; title=&quot;Attaque en finesse&quot;&gt;Attaque en finesse&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Robustesse.html&quot; title=&quot;Robustesse&quot;&gt;Robustesse&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Bluff.html&quot; title=&quot;Bluff&quot;&gt;Bluff&lt;/a&gt; +5, &lt;a class=&quot;pagelink&quot; href=&quot;&#201;quitation.html&quot; title=&quot;&#201;quitation&quot;&gt;&#201;quitation&lt;/a&gt; +7, &lt;a class=&quot;pagelink&quot; href=&quot;Intimidation.html&quot; title=&quot;Intimidation&quot;&gt;Intimidation&lt;/a&gt; +7, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +1, &lt;a class=&quot;pagelink&quot; href=&quot;Survie.html&quot; title=&quot;Survie&quot;&gt;Survie&lt;/a&gt; +3 ; &lt;b&gt;Modificateurs raciaux&lt;/b&gt; +2 en &lt;a class=&quot;pagelink&quot; href=&quot;Bluff.html&quot; title=&quot;Bluff&quot;&gt;Bluff&lt;/a&gt;, +2 en &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Langues&lt;/b&gt; commun
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; terre ferme
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation sociale&lt;/b&gt; solitaire, couple ou court (3–8 et 1 &lt;a class=&quot;pagelink&quot; href=&quot;Vampire.html&quot; title=&quot;Vampire&quot;&gt;vampire&lt;/a&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; &#233;quipement de PNJ (chemise de maille, rapi&#232;re, autres tr&#233;sors)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Pouvoirs sp&#233;ciaux&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;sistance &#224; l’absorption d’&#233;nergie (Ext).&lt;/b&gt; Un dhampir est immunis&#233; contre les effets n&#233;gatifs des attaques qui absorbent de l’&#233;nergie. Cependant, il peut quand m&#234;me &#234;tre tu&#233; s’il accumule un nombre de &lt;a class=&quot;pagelink&quot; href=&quot;Absorption-D&#233;nergie-(Capacit&#233;).html&quot; title=&quot;niveau n&#233;gatif&quot;&gt;niveaux n&#233;gatifs&lt;/a&gt; sup&#233;rieur au nombre de DV qu’il poss&#232;de. Apr&#232;s 24 heures, tous les niveaux n&#233;gatifs qu’un dhampir a accumul&#233; sont automatiquement supprim&#233; sans qu’il ait &#224; effectuer de jet de sauvegarde.
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;td&gt;&lt;div&gt;
+&lt;i&gt;Cet homme qui se d&#233;place sans un bruit est dot&#233; d’une gr&#226;ce surnaturelle. Son regard est aussi per&#231;ant que la lame effil&#233;e qu’il manie avec aisance.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Les dhampirs sont des &#234;tres maudits depuis la naissance, le produit d’unions contre-nature et heureusement rares entre des &lt;a class=&quot;pagelink&quot; href=&quot;Vampire.html&quot; title=&quot;Vampire&quot;&gt;vampires&lt;/a&gt; et des humains. Contrairement &#224; leurs parents morts-vivants, ils n’ont pas besoin de consommer du sang pour survivre. Cependant, ils sont tout de m&#234;me hant&#233;s tout au long de leur vie par un d&#233;sir de sang que rien ne peut v&#233;ritablement combler. Ceux qui ne sont pas tu&#233;s d&#232;s leur plus jeune &#226;ge doivent endurer une vie de terreur et de m&#233;fiance, car leur beaut&#233; surnaturelle et leurs r&#233;flexes incroyables les d&#233;signent comme des enfants de la nuit, tout comme leur sensibilit&#233; &#224; la lumi&#232;re. Malgr&#233; leurs liens avec la mort-vivance, les dhampirs vieillissent (au m&#234;me rythme que les elfes) et peuvent mourir de vieillesse.&lt;br /&gt;&lt;br /&gt;
+&lt;h3 class=&quot;separator&quot;&gt;Les dhampirs en tant que PJ&lt;a class=&quot;headeranchor&quot; id=&quot;Les_dhampirs_en_tant_que_PJ_0&quot; href=&quot;#Les_dhampirs_en_tant_que_PJ_0&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;
+Les dhampirs sont d&#233;finis par leurs niveaux de classe et ne poss&#232;dent pas de DV racial. Tous les dhampirs partagent les traits raciaux suivants :
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Dex +2, Cha +2, Con –2.&lt;/b&gt; Les dhampirs sont rapides et s&#233;duisants mais plus proches de la mort que la majorit&#233; des mortels.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Sens.&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Nocturne-(Capacit&#233;).html&quot; title=&quot;vision nocturne&quot;&gt;Vision nocturne&lt;/a&gt; et &lt;a class=&quot;pagelink&quot; href=&quot;Capacit&#233;s-Sp&#233;ciales.html#VISIONDANSLENOIR&quot; title=&quot;vision dans le noir&quot;&gt;vision dans le noir&lt;/a&gt; &#224; 18 m&#232;tres (12 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;).&lt;/li&gt;&lt;li&gt;&lt;b&gt;Manipulateurs.&lt;/b&gt; Bonus racial de +2 aux tests de &lt;a class=&quot;pagelink&quot; href=&quot;Bluff.html&quot; title=&quot;Bluff&quot;&gt;Bluff&lt;/a&gt; et de &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt;.&lt;/li&gt;&lt;li&gt;&lt;b&gt;R&#233;sistances des morts-vivants.&lt;/b&gt; Les dhampirs gagnent un bonus racial de +2 aux jets de sauvegarde contre la maladie et les effets mentaux.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Sensible &#224; la lumi&#232;re, affinit&#233; avec l’&#233;nergie n&#233;gative.&lt;/b&gt; Voir les r&#232;gles universelles pour les monstres.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Pouvoirs magiques.&lt;/b&gt; Un dhampir peut utiliser &lt;a class=&quot;pagelink&quot; href=&quot;D&#233;tection-Des-Morts-Vivants.html&quot; title=&quot;D&#233;tection des morts-vivants&quot;&gt;d&#233;tection des morts-vivants&lt;/a&gt; trois fois par jour en tant que pouvoir magique avec un NLS &#233;gal au niveau de classe du dhampir.&lt;/li&gt;&lt;li&gt;&lt;b&gt;R&#233;sistance &#224; l’absorption d’&#233;nergie (Ext).&lt;/b&gt; Voir ci-contre.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Langues.&lt;/b&gt; Les dhampirs entrent en jeu en parlant le commun. Ceux qui poss&#232;dent une Intelligence &#233;lev&#233;e peuvent choisir n’importe quelles langues comme langues suppl&#233;mentaires (&#224; l’exception du druidique et des&lt;br /&gt;autres langages secrets).&lt;br /&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;br /&gt;&lt;/li&gt;&lt;/ul&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Dhampir|FP 1/2}
+{s:pucem|Humanoïde|Ruines-donjons|tempéré}
+{s:BDTexte|''Source : Bestiaire 2, p. 94''}
+{s:BDTexte|'''PX''' 200}
+{s:BDTexte|Dhampir [[guerrier]] 1}
+{s:BDTexte|[[type Humanoïde|Humanoïde]] (dhampir) de taille M, CM}
+{s:BDTexte|'''Init''' +3 ; '''Sens''' [[vision dans le noir]] 18 m (12 {s:c}), [[vision nocturne]] ; [[Perception]] +1}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 17, contact 13, pris au dépourvu 14 (armure +4, Dex +3)}
+{s:BDTexte|'''pv''' 13 (1d10+3)}
+{s:BDTexte|'''Réf''' +3, '''Vig''' +2, '''Vol''' -1 ; +2 contre les maladies et les effets mentaux}
+{s:BDTexte|'''Capacités défensives''' [[affinité avec lénergie négative (capacité)|affinité avec l’énergie négative]], résistance à l’absorption d’énergie}
+{s:BDTexte|'''Vulnérabilités''' [[sensibilité à la lumière (capacité)|sensible à la lumière]]}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 9 m (6 {s:c})}
+{s:BDTexte|'''Corps à corps''' rapière, +4 (1d6+1/18–20)}
+{s:BDTexte|'''Pouvoirs magiques''' (NLS 1)}
+{s:BDSorts|3/jour — ''[[détection des morts-vivants]]''}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 13, '''Dex''' 17, '''Con''' 10, '''Int''' 10, '''Sag''' 8, '''Cha''' 16}
+{s:BDTexte|'''BBA''' +1, '''BMO''' +2, '''DMD''' 15}
+{s:BDTexte|'''Dons''' [[Attaque en finesse]], [[Robustesse]]}
+{s:BDTexte|'''Compétences''' [[Bluff]] +5, [[Équitation]] +7, [[Intimidation]] +7, [[Perception]] +1, [[Survie]] +3 ; '''Modificateurs raciaux''' +2 en [[Bluff]], +2 en [[Perception]]}
+{s:BDTexte|'''Langues''' commun}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' terre ferme}
+{s:BDTexte|'''Organisation sociale''' solitaire, couple ou court (3–8 et 1 [[vampire]])}
+{s:BDTexte|'''Trésor''' équipement de PNJ (chemise de maille, rapière, autres trésors)}
+{s:BDSousTitre|Pouvoirs spéciaux}
+{s:BDTexte|'''Résistance à l’absorption d’énergie (Ext).''' Un dhampir est immunisé contre les effets négatifs des attaques qui absorbent de l’énergie. Cependant, il peut quand même être tué s’il accumule un nombre de [[niveau négatif|niveaux négatifs]] supérieur au nombre de DV qu’il possède. Après 24 heures, tous les niveaux négatifs qu’un dhampir a accumulé sont automatiquement supprimé sans qu’il ait à effectuer de jet de sauvegarde.}
+</div>
+</td><td><div>
+''Cet homme qui se déplace sans un bruit est doté d’une grâce surnaturelle. Son regard est aussi perçant que la lame effilée qu’il manie avec aisance.''
+
+Les dhampirs sont des êtres maudits depuis la naissance, le produit d’unions contre-nature et heureusement rares entre des [[vampire|vampires]] et des humains. Contrairement à leurs parents morts-vivants, ils n’ont pas besoin de consommer du sang pour survivre. Cependant, ils sont tout de même hantés tout au long de leur vie par un désir de sang que rien ne peut véritablement combler. Ceux qui ne sont pas tués dès leur plus jeune âge doivent endurer une vie de terreur et de méfiance, car leur beauté surnaturelle et leurs réflexes incroyables les désignent comme des enfants de la nuit, tout comme leur sensibilité à la lumière. Malgré leurs liens avec la mort-vivance, les dhampirs vieillissent (au même rythme que les elfes) et peuvent mourir de vieillesse.
+
+
+====Les dhampirs en tant que PJ====
+
+Les dhampirs sont définis par leurs niveaux de classe et ne possèdent pas de DV racial. Tous les dhampirs partagent les traits raciaux suivants :
+* '''Dex +2, Cha +2, Con –2.''' Les dhampirs sont rapides et séduisants mais plus proches de la mort que la majorité des mortels.
+* '''Sens.''' [[Vision nocturne]] et [[vision dans le noir]] à 18 mètres (12 {s:c}).
+* '''Manipulateurs.''' Bonus racial de +2 aux tests de [[Bluff]] et de [[Perception]].
+* '''Résistances des morts-vivants.''' Les dhampirs gagnent un bonus racial de +2 aux jets de sauvegarde contre la maladie et les effets mentaux.
+* '''Sensible à la lumière, affinité avec l’énergie négative.''' Voir les règles universelles pour les monstres.
+* '''Pouvoirs magiques.''' Un dhampir peut utiliser [[détection des morts-vivants]] trois fois par jour en tant que pouvoir magique avec un NLS égal au niveau de classe du dhampir.
+* '''Résistance à l’absorption d’énergie (Ext).''' Voir ci-contre.
+* '''Langues.''' Les dhampirs entrent en jeu en parlant le commun. Ceux qui possèdent une Intelligence élevée peuvent choisir n’importe quelles langues comme langues supplémentaires (à l’exception du druidique et des
+autres langages secrets).
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Dhampir</fullName>
+</wikiPage>

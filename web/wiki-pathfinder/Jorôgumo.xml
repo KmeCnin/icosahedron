@@ -1,0 +1,225 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Jorôgumo</title>
+  <categories><category>Pathfinder-RPG.Bestiaire 3</category><category>Pathfinder-RPG.Monstre</category><category>Pathfinder-RPG.Règles officielles</category></categories>
+  <lastModified>2014-01-20 21:46:53Z</lastModified>
+  <version>6</version>
+  <inLinks><link>Pathfinder-RPG.Glossaire des monstres</link><link>Pathfinder-RPG.Liste de monstres par FP</link><link>Pathfinder-RPG.Liste de monstres par milieu naturel</link><link>Pathfinder-RPG.Liste de monstres par type</link><link>Pathfinder-RPG.Monstres</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.type Humanoïde monstrueux</link><link>Pathfinder-RPG.sous-type métamorphe</link><link>Pathfinder-RPG.vision dans le noir</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.RD</link><link>Pathfinder-RPG.attaque sournoise</link><link>Pathfinder-RPG.Toile</link><link>Pathfinder-RPG.DD</link><link>Pathfinder-RPG.Charme-personne</link><link>Pathfinder-RPG.Détection de pensées</link><link>Pathfinder-RPG.malédiction</link><link>Pathfinder-RPG.Suggestion</link><link>Pathfinder-RPG.Convocation dalliés naturels V</link><link>Pathfinder-RPG.Araignée ogre</link><link>Pathfinder-RPG.Veuve noire géante</link><link>Pathfinder-RPG.Araignée géante</link><link>Pathfinder-RPG.Immobilisation de monstre</link><link>Pathfinder-RPG.Attaque éclair</link><link>Pathfinder-RPG.Attaque en puissance</link><link>Pathfinder-RPG.Esquive</link><link>Pathfinder-RPG.Science de la volonté de fer</link><link>Pathfinder-RPG.Science du critique</link><link>Pathfinder-RPG.Souplesse du serpent</link><link>Pathfinder-RPG.Volonté de fer</link><link>Pathfinder-RPG.Acrobaties</link><link>Pathfinder-RPG.Bluff</link><link>Pathfinder-RPG.Escalade</link><link>Pathfinder-RPG.Diplomatie</link><link>Pathfinder-RPG.Représentation</link><link>Pathfinder-RPG.Psychologie</link><link>Pathfinder-RPG.Discrétion</link><link>Pathfinder-RPG.Natation</link><link>Pathfinder-RPG.Changement de forme (capacité)</link><link>Pathfinder-RPG.Forme de vermine I</link><link>Pathfinder-RPG.empathie sauvage</link><link>Pathfinder-RPG.Intelligence</link><link>Pathfinder-RPG.Action rapide</link><link>Pathfinder-RPG.Action libre</link><link>Pathfinder-RPG.Parade de projectiles</link><link>Pathfinder-RPG.Vigueur</link><link>Pathfinder-RPG.round</link><link>Pathfinder-RPG.affaiblissement temporaire</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt; Jor&#244;gumo&lt;div style=&quot;float:right;&quot;&gt;FP 12&lt;/div&gt;&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Bestiaire 3&lt;/i&gt; p.153
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 19 200
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Humano&#239;de-Monstrueux.html&quot; title=&quot;Humano&#239;de monstrueux&quot;&gt;Humano&#239;de monstrueux&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-M&#233;tamorphe.html&quot; title=&quot;M&#233;tamorphe (sous-type)&quot;&gt;m&#233;tamorphe&lt;/a&gt;) de taille M, NM
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +4 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Capacit&#233;s-Sp&#233;ciales.html#VISIONDANSLENOIR&quot; title=&quot;vision dans le noir&quot;&gt;vision dans le noir&lt;/a&gt; 18 m (12 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +18
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 27, contact 15, pris au d&#233;pourvu 22 (Dex +4, esquive +1, naturelle +12)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 161 (14d10+84)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +13, &lt;b&gt;Vig&lt;/b&gt; +10, &lt;b&gt;Vol&lt;/b&gt; +14
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;&lt;a class=&quot;pagelink&quot; href=&quot;R&#233;duction-De-D&#233;g&#226;ts-(Capacit&#233;).html&quot; title=&quot;RD&quot;&gt;RD&lt;/a&gt;&lt;/b&gt; 10/fer froid et magie ; &lt;b&gt;Immunit&#233;&lt;/b&gt; poison
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 9 m ( 6 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; morsure, +20 (1d4+6/19-20 plus poison) et 2 griffes, +20 (1d6+6)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaques sp&#233;ciales&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Roublard.html#ATTAQUESOURNOISE&quot; title=&quot;attaque sournoise&quot;&gt;attaque sournoise&lt;/a&gt; +3d6, &lt;a class=&quot;pagelink&quot; href=&quot;Toile-(Capacit&#233;).html&quot; title=&quot;Toile&quot;&gt;toile&lt;/a&gt; (&#224; distance +18,
+&lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DEGREDEDIFFICULTE&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; 23], 14 pv)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Pouvoirs magiques&lt;/b&gt; (NLS 12 ; concentration +19)
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+&#192; volont&#233; — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Charme-Personne.html&quot; title=&quot;Charme-personne&quot;&gt;charme-personne&lt;/a&gt;&lt;/i&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DEGREDEDIFFICULTE&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; 18), &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;D&#233;tection-De-Pens&#233;es.html&quot; title=&quot;D&#233;tection de pens&#233;es&quot;&gt;d&#233;tection de pens&#233;es&lt;/a&gt;&lt;/i&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DEGREDEDIFFICULTE&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; 19)
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+3/jour — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Mal&#233;dictions.html&quot; title=&quot;mal&#233;diction&quot;&gt;mal&#233;diction&lt;/a&gt;&lt;/i&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DEGREDEDIFFICULTE&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; 21), &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Suggestion.html&quot; title=&quot;Suggestion&quot;&gt;suggestion&lt;/a&gt;&lt;/i&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DEGREDEDIFFICULTE&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; 19)
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+1/jour — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Convocation-Dalli&#233;s-Naturels-V.html&quot; title=&quot;Convocation d&amp;#39;alli&#233;s naturels V&quot;&gt;convocation d’alli&#233;s naturels V&lt;/a&gt;&lt;/i&gt; (1 &lt;a class=&quot;pagelink&quot; href=&quot;Araign&#233;e-Ogre.html&quot; title=&quot;Araign&#233;e ogre&quot;&gt;araign&#233;e ogre&lt;/a&gt;
+ ou 1d3 &lt;a class=&quot;pagelink&quot; href=&quot;Veuve-Noire-G&#233;ante.html&quot; title=&quot;Veuve noire g&#233;ante&quot;&gt;veuves noires g&#233;antes&lt;/a&gt; ou 1d4+1 &lt;a class=&quot;pagelink&quot; href=&quot;Araign&#233;e-G&#233;ante.html&quot; title=&quot;Araign&#233;e g&#233;ante&quot;&gt;araign&#233;es g&#233;antes&lt;/a&gt;),
+ &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Immobilisation-De-Monstre.html&quot; title=&quot;Immobilisation de monstre&quot;&gt;immobilisation de monstre&lt;/a&gt;&lt;/i&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DEGREDEDIFFICULTE&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; 22)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 22, &lt;b&gt;Dex&lt;/b&gt; 19, &lt;b&gt;Con&lt;/b&gt; 22, &lt;b&gt;Int&lt;/b&gt; 15, &lt;b&gt;Sag&lt;/b&gt; 17, &lt;b&gt;Cha&lt;/b&gt; 24
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +14, &lt;b&gt;BMO&lt;/b&gt; +20, &lt;b&gt;DMD&lt;/b&gt; 35
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Attaque-&#201;clair.html&quot; title=&quot;Attaque &#233;clair&quot;&gt;Attaque &#233;clair&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Attaque-En-Puissance.html&quot; title=&quot;Attaque en puissance&quot;&gt;Attaque en puissance&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Esquive.html&quot; title=&quot;Esquive&quot;&gt;Esquive&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Science-De-La-Volont&#233;-De-Fer.html&quot; title=&quot;Science de la volont&#233; de fer&quot;&gt;Science de la volont&#233; de fer&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Science-Du-Critique.html&quot; title=&quot;Science du critique&quot;&gt;Science du critique&lt;/a&gt; (morsure), &lt;a class=&quot;pagelink&quot; href=&quot;Souplesse-Du-Serpent.html&quot; title=&quot;Souplesse du serpent&quot;&gt;Souplesse du serpent&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Volont&#233;-De-Fer.html&quot; title=&quot;Volont&#233; de fer&quot;&gt;Volont&#233; de fer&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Acrobaties.html&quot; title=&quot;Acrobaties&quot;&gt;Acrobaties&lt;/a&gt; +14, &lt;a class=&quot;pagelink&quot; href=&quot;Bluff.html&quot; title=&quot;Bluff&quot;&gt;Bluff&lt;/a&gt; +19,
+ &lt;a class=&quot;pagelink&quot; href=&quot;Escalade.html&quot; title=&quot;Escalade&quot;&gt;Escalade&lt;/a&gt; +29 (+37 avec les pattes d’araign&#233;e), &lt;a class=&quot;pagelink&quot; href=&quot;Diplomatie.html&quot; title=&quot;Diplomatie&quot;&gt;Diplomatie&lt;/a&gt; +18, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +18, 
+&lt;a class=&quot;pagelink&quot; href=&quot;Repr&#233;sentation.html&quot; title=&quot;Repr&#233;sentation&quot;&gt;Repr&#233;sentation&lt;/a&gt; (instruments &#224; cordes) +10, &lt;a class=&quot;pagelink&quot; href=&quot;Psychologie.html&quot; title=&quot;Psychologie&quot;&gt;Psychologie&lt;/a&gt; +15,
+ &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; +19, &lt;a class=&quot;pagelink&quot; href=&quot;Natation.html&quot; title=&quot;Natation&quot;&gt;Natation&lt;/a&gt; +14
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Modificateur racial&lt;/b&gt; +8 en &lt;a class=&quot;pagelink&quot; href=&quot;Escalade.html&quot; title=&quot;Escalade&quot;&gt;Escalade&lt;/a&gt; avec les pattes d’araign&#233;e
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Langue&lt;/b&gt; aklo, commun, sylvestre
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Particularit&#233;s&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Changement-De-Forme-(Capacit&#233;).html&quot; title=&quot;Changement de forme (Sur)&quot;&gt;changement de forme&lt;/a&gt; (araign&#233;e g&#233;ante ; &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Forme-De-Vermine-I.html&quot; title=&quot;Forme de vermine I&quot;&gt;forme de vermine I&lt;/a&gt;&lt;/i&gt;), empathie avec les araign&#233;es +21, m&#233;tamorphose rapide
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; vall&#233;es montagneuses temp&#233;r&#233;es
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation sociale&lt;/b&gt; solitaire ou culte (2-6 plus 2-8 araign&#233;es de diff&#233;rentes tailles)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; standard 
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Pouvoirs sp&#233;ciaux&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Empathie avec les araign&#233;es (Ext).&lt;/b&gt; Cette capacit&#233; fonctionne
+comme la capacit&#233; d’&lt;a class=&quot;pagelink&quot; href=&quot;Druide.html#EMPATHIESAUVAGE&quot; title=&quot;empathie sauvage&quot;&gt;empathie sauvage&lt;/a&gt; du druide, &#224; la
+seule diff&#233;rence qu’elle ne s’applique qu’aux araign&#233;es.
+La jor&#244;gumo re&#231;oit, pour ce test, un bonus racial &#233;gal
+&#224; ses d&#233;s de vie (en principe +14). Les araign&#233;es sont
+normalement d&#233;pourvues d’&lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#INTELLIGENCE&quot; title=&quot;L&amp;#39;Intelligence&quot;&gt;intelligence&lt;/a&gt;, mais cette
+communication empathique leur implante une &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#INTELLIGENCE&quot; title=&quot;L&amp;#39;Intelligence&quot;&gt;intelligence&lt;/a&gt;
+minimum, ce qui permet &#224; la jor&#244;gumo de les dresser et de
+les utiliser comme gardiennes (m&#234;me si cela ne leur apporte ni
+comp&#233;tences, ni dons).
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;M&#233;tamorphose rapide (Ext).&lt;/b&gt; La jor&#244;gumo peut prendre une forme
+humaine ou une forme arachnide par une &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions.html#RAPIDE&quot; title=&quot;Action rapide&quot;&gt;action rapide&lt;/a&gt;.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Pattes d’araign&#233;es (Ext).&lt;/b&gt; Les pattes d’araign&#233;es de la jor&#244;gumo
+peuvent sortir ou se r&#233;tracter par une &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions.html#LIBRE&quot; title=&quot;Action libre&quot;&gt;action libre&lt;/a&gt;. Lorsque la
+jor&#244;gumo d&#233;ploie ses pattes d’araign&#233;es, elle re&#231;oit un bonus
+de circonstances de +8 aux tests d’&lt;a class=&quot;pagelink&quot; href=&quot;Escalade.html&quot; title=&quot;Escalade&quot;&gt;Escalade&lt;/a&gt; ainsi que le don
+suppl&#233;mentaire &lt;a class=&quot;pagelink&quot; href=&quot;Parade-De-Projectiles.html&quot; title=&quot;Parade de projectiles&quot;&gt;Parade de projectiles&lt;/a&gt;.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Poison (Ext).&lt;/b&gt; Morsure — blessure ; &lt;i&gt;JdS&lt;/i&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;Vigueur&quot;&gt;Vigueur&lt;/a&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DEGREDEDIFFICULTE&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; 23 ; &lt;i&gt;fr&#233;quence&lt;/i&gt; 1/
+ &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#ROUND&quot; title=&quot;round&quot;&gt;round&lt;/a&gt; pendant 6 &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#ROUND&quot; title=&quot;round&quot;&gt;round&lt;/a&gt;s ; effet &lt;a class=&quot;pagelink&quot; href=&quot;Affaiblissement-Temporaire-(Capacit&#233;).html&quot; title=&quot;affaiblissement temporaire&quot;&gt;affaiblissement temporaire&lt;/a&gt; de 1d6
+Sag ; gu&#233;rison 3 r&#233;ussites cons&#233;cutives.
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;td&gt;&lt;div&gt;&lt;i&gt;Huit grandes pattes d’araign&#233;e toutes gr&#234;les, couvertes de touffes de poils noirs
+&#233;pais, sortent du dos de cette femme aux cheveux noirs, par ailleurs tr&#232;s jolie.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Les jor&#244;gumos sont de s&#233;duisantes comploteuses qui
+se cachent dans les vall&#233;es montagneuses isol&#233;es o&#249; elles
+attirent les voyageurs, tout particuli&#232;rement les hommes,
+et les conduisent &#224; leur perte. Exclusivement femelles, les
+jor&#244;gumos doivent s’accoupler avec des humano&#239;des pour
+produire des oeufs fertiles. Apr&#232;s l’accouplement, la jor&#244;gumo
+paralyse son partenaire en lui injectant un poison qui le
+plonge dans le coma. Elle pond un seul oeuf dans le corps du
+g&#233;niteur puis l’enveloppe dans un cocon et cache sa victime.
+Elle rend des visites ponctuelles &#224; la victime afin de le r&#233;empoisonner
+et de s’assurer que son coma dure les 2d4 jours
+n&#233;cessaires &#224; la jeune jor&#244;gumo pour &#233;clore et se nourrir. Les
+jor&#244;gumos sont de farouches ennemies des tengus qu’elles
+attaquent &#224; vue : elles ne prennent jamais de tengus comme
+&#171; partenaire &#187;.
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre| Jorôgumo|FP 12}
+{s:pucem|Humanoïde monstrueux|Montagnes|Tempéré}
+{s:BDTexte|''Source : Bestiaire 3'' p.153}
+{s:BDTexte|'''PX''' 19 200}
+{s:BDTexte|[[type Humanoïde monstrueux|Humanoïde monstrueux]] ([[sous-type métamorphe|métamorphe]]) de taille M, NM}
+{s:BDTexte|'''Init''' +4 ; '''Sens''' [[vision dans le noir]] 18 m (12 {s:c}) ; [[Perception]] +18}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 27, contact 15, pris au dépourvu 22 (Dex +4, esquive +1, naturelle +12)}
+{s:BDTexte|'''pv''' 161 (14d10+84)}
+{s:BDTexte|'''Réf''' +13, '''Vig''' +10, '''Vol''' +14}
+{s:BDTexte|'''[[RD]]''' 10/fer froid et magie ; '''Immunité''' poison}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 9 m ( 6 {s:c})}
+{s:BDTexte|'''Corps à corps''' morsure, +20 (1d4+6/19-20 plus poison) et 2 griffes, +20 (1d6+6)}
+{s:BDTexte|'''Attaques spéciales''' [[attaque sournoise]] +3d6, [[toile]] (à distance +18,
+[[DD]] 23], 14 pv)}
+{s:BDTexte|'''Pouvoirs magiques''' (NLS 12 ; concentration +19)}
+{s:BDSorts|À volonté — ''[[charme-personne]]'' ([[DD]] 18), ''[[détection de pensées]]'' ([[DD]] 19)}
+{s:BDSorts|3/jour — ''[[malédiction]]'' ([[DD]] 21), ''[[suggestion]]'' ([[DD]] 19)}
+{s:BDSorts|1/jour — ''[[convocation dalliés naturels V|convocation d’alliés naturels V]]'' (1 [[araignée ogre]]
+ ou 1d3 [[veuve noire géante|veuves noires géantes]] ou 1d4+1 [[araignée géante|araignées géantes]]),
+ ''[[immobilisation de monstre]]'' ([[DD]] 22)}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 22, '''Dex''' 19, '''Con''' 22, '''Int''' 15, '''Sag''' 17, '''Cha''' 24}
+{s:BDTexte|'''BBA''' +14, '''BMO''' +20, '''DMD''' 35}
+{s:BDTexte|'''Dons''' [[Attaque éclair]], [[Attaque en puissance]], [[Esquive]], [[Science de la volonté de fer]], [[Science du critique]] (morsure), [[Souplesse du serpent]], [[Volonté de fer]]}
+{s:BDTexte|'''Compétences''' [[Acrobaties]] +14, [[Bluff]] +19,
+ [[Escalade]] +29 (+37 avec les pattes d’araignée), [[Diplomatie]] +18, [[Perception]] +18, 
+[[Représentation]] (instruments à cordes) +10, [[Psychologie]] +15,
+ [[Discrétion]] +19, [[Natation]] +14}
+{s:BDTexte|'''Modificateur racial''' +8 en [[Escalade]] avec les pattes d’araignée}
+{s:BDTexte|'''Langue''' aklo, commun, sylvestre}
+{s:BDTexte|'''Particularités''' [[changement de forme (capacité)|changement de forme]] (araignée géante ; ''[[forme de vermine I]]''), empathie avec les araignées +21, métamorphose rapide}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' vallées montagneuses tempérées}
+{s:BDTexte|'''Organisation sociale''' solitaire ou culte (2-6 plus 2-8 araignées de différentes tailles)}
+{s:BDTexte|'''Trésor''' standard }
+{s:BDSousTitre|Pouvoirs spéciaux}
+{s:BDTexte|'''Empathie avec les araignées (Ext).''' Cette capacité fonctionne
+comme la capacité d’[[empathie sauvage]] du druide, à la
+seule différence qu’elle ne s’applique qu’aux araignées.
+La jorôgumo reçoit, pour ce test, un bonus racial égal
+à ses dés de vie (en principe +14). Les araignées sont
+normalement dépourvues d’[[intelligence]], mais cette
+communication empathique leur implante une [[intelligence]]
+minimum, ce qui permet à la jorôgumo de les dresser et de
+les utiliser comme gardiennes (même si cela ne leur apporte ni
+compétences, ni dons).}
+{s:BDTexte|'''Métamorphose rapide (Ext).''' La jorôgumo peut prendre une forme
+humaine ou une forme arachnide par une [[action rapide]].}
+{s:BDTexte|'''Pattes d’araignées (Ext).''' Les pattes d’araignées de la jorôgumo
+peuvent sortir ou se rétracter par une [[action libre]]. Lorsque la
+jorôgumo déploie ses pattes d’araignées, elle reçoit un bonus
+de circonstances de +8 aux tests d’[[Escalade]] ainsi que le don
+supplémentaire [[Parade de projectiles]].}
+{s:BDTexte|'''Poison (Ext).''' Morsure — blessure ; ''JdS'' [[Vigueur]] [[DD]] 23 ; ''fréquence'' 1/
+ [[round]] pendant 6 [[round]]s ; effet [[affaiblissement temporaire]] de 1d6
+Sag ; guérison 3 réussites consécutives.}
+</div>
+</td><td><div>''Huit grandes pattes d’araignée toutes grêles, couvertes de touffes de poils noirs
+épais, sortent du dos de cette femme aux cheveux noirs, par ailleurs très jolie.''
+
+Les jorôgumos sont de séduisantes comploteuses qui
+se cachent dans les vallées montagneuses isolées où elles
+attirent les voyageurs, tout particulièrement les hommes,
+et les conduisent à leur perte. Exclusivement femelles, les
+jorôgumos doivent s’accoupler avec des humanoïdes pour
+produire des oeufs fertiles. Après l’accouplement, la jorôgumo
+paralyse son partenaire en lui injectant un poison qui le
+plonge dans le coma. Elle pond un seul oeuf dans le corps du
+géniteur puis l’enveloppe dans un cocon et cache sa victime.
+Elle rend des visites ponctuelles à la victime afin de le réempoisonner
+et de s’assurer que son coma dure les 2d4 jours
+nécessaires à la jeune jorôgumo pour éclore et se nourrir. Les
+jorôgumos sont de farouches ennemies des tengus qu’elles
+attaquent à vue : elles ne prennent jamais de tengus comme
+« partenaire ».
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Jorôgumo</fullName>
+</wikiPage>

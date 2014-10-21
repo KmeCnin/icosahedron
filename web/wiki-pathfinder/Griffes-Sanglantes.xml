@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Griffes sanglantes</title>
+  <categories><category>Pathfinder-RPG.Advanced Player Guide</category><category>Pathfinder-RPG.Règles officielles</category><category>Pathfinder-RPG.Sort</category><category>Pathfinder-RPG.Sort druide 4</category><category>Pathfinder-RPG.Sort rôdeur 3</category></categories>
+  <lastModified>2012-11-04 00:16:49Z</lastModified>
+  <version>1</version>
+  <inLinks><link>Pathfinder-RPG.Glossaire des sorts</link><link>Pathfinder-RPG.Gourdin bestial</link><link>Pathfinder-RPG.Liste des sorts (suite)</link><link>Pathfinder-RPG.Liste des sorts de druides</link><link>Pathfinder-RPG.Liste des sorts de rôdeurs</link><link>Pathfinder-RPG.TMP sorts APG</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Nécromancie</link><link>Pathfinder-RPG.Druide</link><link>Pathfinder-RPG.Rôdeur</link><link>Pathfinder-RPG.Action simple</link><link>Pathfinder-RPG.composantes</link><link>Pathfinder-RPG.Présentation des sorts</link><link>Pathfinder-RPG.niveau</link><link>Pathfinder-RPG.Vigueur</link><link>Pathfinder-RPG.Saignement</link><link>Pathfinder-RPG.attaque naturelle</link><link>Pathfinder-RPG.NLS</link></outLinks>
+  <body><![CDATA[
+&lt;b&gt;&#201;cole&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#NECROMANCIE&quot; title=&quot;N&#233;cromancie&quot;&gt;N&#233;cromancie&lt;/a&gt;&#160;; &lt;b&gt;Niveau&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Druide.html&quot; title=&quot;Le druide&quot;&gt;druide&lt;/a&gt; 4, &lt;a class=&quot;pagelink&quot; href=&quot;R&#244;deur.html&quot; title=&quot;Le r&#244;deur&quot;&gt;r&#244;deur&lt;/a&gt; 3&lt;br/&gt;
+&lt;b&gt;Temps d&#39;incantation&lt;/b&gt; 1 &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions.html#SIMPLE&quot; title=&quot;Action simple&quot;&gt;action simple&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Composantes&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#COMPOSANTES&quot; title=&quot;composantes&quot;&gt;V, G, FD&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Port&#233;e&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#PORTEE&quot; title=&quot;Pr&#233;sentation des sorts&quot;&gt;contact&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Cible&lt;/b&gt; cr&#233;ature vivante touch&#233;e&lt;br/&gt;
+&lt;b&gt;Dur&#233;e&lt;/b&gt; 1 minute/&lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#NIVEAU&quot; title=&quot;niveau&quot;&gt;niveau&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Jet de sauvegarde&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;Vigueur&quot;&gt;Vigueur&lt;/a&gt; pour &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#JETSDESAUVEGARDE&quot; title=&quot;Pr&#233;sentation des sorts&quot;&gt;annuler&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#JETSDESAUVEGARDE&quot; title=&quot;Pr&#233;sentation des sorts&quot;&gt;inoffensif&lt;/a&gt;)&#160;; &lt;b&gt;R&#233;sistance &#224; la magie&lt;/b&gt; oui (&lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#JETSDESAUVEGARDE&quot; title=&quot;Pr&#233;sentation des sorts&quot;&gt;inoffensif&lt;/a&gt;)&lt;br /&gt;&lt;br /&gt;Le personnage donne &#224; une cr&#233;ature le pouvoir d&#39;infliger des d&#233;g&#226;ts de &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables.html#Saignement&quot; title=&quot;Saignement&quot;&gt;saignement&lt;/a&gt; quand elle effectue une &lt;a class=&quot;pagelink&quot; href=&quot;Actions-Simples.html#ATTAQUENATURELLE&quot; title=&quot;attaque naturelle&quot;&gt;attaque naturelle&lt;/a&gt; tant que cette derni&#232;re provoque des d&#233;g&#226;ts perforants ou tranchants. Les d&#233;g&#226;ts de &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables.html#Saignement&quot; title=&quot;Saignement&quot;&gt;saignement&lt;/a&gt; de chaque attaque sont &#233;gaux &#224; la moiti&#233; du &lt;a class=&quot;pagelink&quot; href=&quot;Lancer-Des-Sorts.html#NLS&quot; title=&quot;NLS&quot;&gt;niveau de lanceur de sorts&lt;/a&gt; (limit&#233; &#224; la valeur maximale de d&#233;g&#226;ts caus&#233;s par la cr&#233;ature lors de l&#39;attaque). Les d&#233;g&#226;ts de &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables.html#Saignement&quot; title=&quot;Saignement&quot;&gt;saignement&lt;/a&gt; ne se cumulent pas, quand deux attaques ou plus infligent ce type de d&#233;g&#226;ts, prenez la meilleure valeur.&lt;br /&gt;&lt;br /&gt;]]></body>
+  <raw><![CDATA[{s:APG}
+'''École''' [[Nécromancie]] ; '''Niveau''' [[druide]] 4, [[rôdeur]] 3<br/>
+'''Temps d'incantation''' 1 [[action simple]]<br/>
+'''Composantes''' [[Composantes|V, G, FD]]<br/>
+'''Portée''' [[Présentation des sorts#PORTEE|contact]]<br/>
+'''Cible''' créature vivante touchée<br/>
+'''Durée''' 1 minute/[[niveau]]<br/>
+'''Jet de sauvegarde''' [[Vigueur]] pour [[Présentation des sorts#JETSDESAUVEGARDE|annuler]] ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]]) ; '''Résistance à la magie''' oui ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]])
+
+Le personnage donne à une créature le pouvoir d'infliger des dégâts de [[saignement]] quand elle effectue une [[attaque naturelle]] tant que cette dernière provoque des dégâts perforants ou tranchants. Les dégâts de [[saignement]] de chaque attaque sont égaux à la moitié du [[NLS|niveau de lanceur de sorts]] (limité à la valeur maximale de dégâts causés par la créature lors de l'attaque). Les dégâts de [[saignement]] ne se cumulent pas, quand deux attaques ou plus infligent ce type de dégâts, prenez la meilleure valeur.
+
+]]></raw>
+  <fullName>Pathfinder-RPG.Griffes sanglantes</fullName>
+</wikiPage>

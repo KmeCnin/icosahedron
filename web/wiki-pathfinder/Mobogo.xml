@@ -1,0 +1,153 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Mobogo</title>
+  <categories></categories>
+  <lastModified>2013-09-26 16:44:13Z</lastModified>
+  <version>21</version>
+  <inLinks><link>Pathfinder-RPG.Glossaire des monstres</link><link>Pathfinder-RPG.Liste de monstres par FP</link><link>Pathfinder-RPG.Liste de monstres par type</link><link>Pathfinder-RPG.Monstres</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.type Créature magique</link><link>Pathfinder-RPG.sous-type aquatique</link><link>Pathfinder-RPG.vision dans le noir</link><link>Pathfinder-RPG.vision nocturne</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Régénération</link><link>Pathfinder-RPG.Étreinte</link><link>Pathfinder-RPG.Attirer</link><link>Pathfinder-RPG.écrasement</link><link>Pathfinder-RPG.Engloutissement</link><link>Pathfinder-RPG.Communication avec les animaux</link><link>Pathfinder-RPG.passage sans trace</link><link>Pathfinder-RPG.Cacophonie</link><link>Pathfinder-RPG.Charme-animal</link><link>Pathfinder-RPG.Création deau</link><link>Pathfinder-RPG.Bourrasque</link><link>Pathfinder-RPG.Contrôle de leau</link><link>Pathfinder-RPG.Croissance végétale</link><link>Pathfinder-RPG.Extinction des feux</link><link>Pathfinder-RPG.Nappe de brouillard</link><link>Pathfinder-RPG.Ramollissement de la terre et de la pierre</link><link>Pathfinder-RPG.lutte</link><link>Pathfinder-RPG.croc-en-jambe</link><link>Pathfinder-RPG.Attaque en puissance</link><link>Pathfinder-RPG.Attaques réflexes</link><link>Pathfinder-RPG.Coup fabuleux</link><link>Pathfinder-RPG.Enchaînement</link><link>Pathfinder-RPG.Science de la bousculade</link><link>Pathfinder-RPG.Science du renversement</link><link>Pathfinder-RPG.Volonté de fer</link><link>Pathfinder-RPG.Acrobaties</link><link>Pathfinder-RPG.Discrétion</link><link>Pathfinder-RPG.Natation</link><link>Pathfinder-RPG.Vol</link><link>Pathfinder-RPG.Action simple</link><link>Pathfinder-RPG.jet de sauvegarde</link><link>Pathfinder-RPG.Charisme</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Mobogo&lt;div style=&quot;float:right;&quot;&gt;FP 10&lt;/div&gt;&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Bestiaire 3, p.192&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 9 600
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Cr&#233;ature-Magique.html&quot; title=&quot;Cr&#233;ature magique&quot;&gt;Cr&#233;ature magique&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Aquatique.html&quot; title=&quot;Aquatique (sous-type)&quot;&gt;aquatique&lt;/a&gt;) de taille TG, CM
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +2 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Capacit&#233;s-Sp&#233;ciales.html#VISIONDANSLENOIR&quot; title=&quot;vision dans le noir&quot;&gt;vision dans le noir&lt;/a&gt; 18 m (12 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) ; &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Nocturne-(Capacit&#233;).html&quot; title=&quot;vision nocturne&quot;&gt;vision nocturne&lt;/a&gt; ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +12
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 24 contact 10, pris au d&#233;pourvu 22 (Dex +2, naturelle +14, taille -2)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 136 (13d10+65); &lt;a class=&quot;pagelink&quot; href=&quot;R&#233;g&#233;n&#233;ration.html&quot; title=&quot;R&#233;g&#233;n&#233;ration&quot;&gt;r&#233;g&#233;n&#233;ration&lt;/a&gt; 5 (acide, froid ou feu)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +10, &lt;b&gt;Vig&lt;/b&gt; +13, &lt;b&gt;Vol&lt;/b&gt; +8
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 9 m (6 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;); vol 9 m (6 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) (d&#233;plorable), nage 12 m (8 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; morsure, +20 (2d6+9) et 2 coups +20 (1d8+9) ou langue, +20 (1d6+9 plus &lt;a class=&quot;pagelink&quot; href=&quot;&#201;treinte-(Capacit&#233;).html&quot; title=&quot;&#201;treinte&quot;&gt;&#233;treinte&lt;/a&gt; et &lt;a class=&quot;pagelink&quot; href=&quot;Attirer-(Capacit&#233;).html&quot; title=&quot;Attirer&quot;&gt;attirer&lt;/a&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Espace&lt;/b&gt; 4,50 m (3 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) ; &lt;b&gt;Allonge&lt;/b&gt; 4,50 m (3 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) (13,50 m (9 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) avec langue)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaques sp&#233;ciales&lt;/b&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Attirer-(Capacit&#233;).html&quot; title=&quot;Attirer&quot;&gt;attirer&lt;/a&gt; (langue, 1,50 m), &lt;a class=&quot;pagelink&quot; href=&quot;Dragon.html#ECRASEMENT&quot; title=&quot;&#233;crasement&quot;&gt;&#233;crasement&lt;/a&gt; (DD 21, 2d8+13), &lt;a class=&quot;pagelink&quot; href=&quot;Engloutissement-(Capacit&#233;).html&quot; title=&quot;Engloutissement&quot;&gt;engloutissement&lt;/a&gt; (2d6+13 d&#233;g&#226;ts contondants, CA 17, 13 pv), ignoble coassement
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Pouvoirs magiques&lt;/b&gt; (NLS 8 ; concentration +11)
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+Constant — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Communication-Avec-Les-Animaux.html&quot; title=&quot;Communication avec les animaux&quot;&gt;communication avec les animaux&lt;/a&gt;&lt;/i&gt; , &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Passage-Sans-Traces.html&quot; title=&quot;passage sans trace&quot;&gt;passage sans trace&lt;/a&gt;&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+&#192; volont&#233; — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Cacophonie.html&quot; title=&quot;Cacophonie&quot;&gt;cacophonie&lt;/a&gt;&lt;/i&gt; (DD 15) , &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Charme-Animal.html&quot; title=&quot;Charme-animal&quot;&gt;charme-animal&lt;/a&gt;&lt;/i&gt; (DD 14) , &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;ation-Deau.html&quot; title=&quot;Cr&#233;ation d&amp;#39;eau&quot;&gt;cr&#233;ation d&#39;eau&lt;/a&gt;&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+3/jour — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Bourrasque.html&quot; title=&quot;Bourrasque&quot;&gt;bourrasque&lt;/a&gt;&lt;/i&gt; (DD 15) , &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Contr&#244;le-De-Leau.html&quot; title=&quot;Contr&#244;le de l&amp;#39;eau&quot;&gt;contr&#244;le de l’eau&lt;/a&gt;&lt;/i&gt; , &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Croissance-V&#233;g&#233;tale.html&quot; title=&quot;Croissance v&#233;g&#233;tale&quot;&gt;croissance v&#233;g&#233;tale&lt;/a&gt;&lt;/i&gt; , &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Extinction-Des-Feux.html&quot; title=&quot;Extinction des feux&quot;&gt;extinction des feux&lt;/a&gt;&lt;/i&gt; (DD 16) , &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Nappe-De-Brouillard.html&quot; title=&quot;Nappe de brouillard&quot;&gt;nappe de brouillard&lt;/a&gt;&lt;/i&gt; , &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Ramollissement-De-La-Terre-Et-De-La-Pierre.html&quot; title=&quot;Ramollissement de la terre et de la pierre&quot;&gt;ramollissement de la terre et de la pierre&lt;/a&gt;&lt;/i&gt; (DD 15)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 28, &lt;b&gt;Dex&lt;/b&gt; 15, &lt;b&gt;Con&lt;/b&gt; 21, &lt;b&gt;Int&lt;/b&gt; 6, &lt;b&gt;Sag&lt;/b&gt; 15, &lt;b&gt;Cha&lt;/b&gt; 16
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +13, &lt;b&gt;BMO&lt;/b&gt; +24 (+28 &lt;a class=&quot;pagelink&quot; href=&quot;Manœuvres-Offensives.html#LUTTE&quot; title=&quot;lutte&quot;&gt;lutte&lt;/a&gt;), &lt;b&gt;DMD&lt;/b&gt; 36 (40 contre le &lt;a class=&quot;pagelink&quot; href=&quot;Croc-En-Jambe.html&quot; title=&quot;croc-en-jambe&quot;&gt;croc-en-jambe&lt;/a&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Attaque-En-Puissance.html&quot; title=&quot;Attaque en puissance&quot;&gt;Attaque en puissance&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Attaques-R&#233;flexes.html&quot; title=&quot;Attaques r&#233;flexes&quot;&gt;Attaques r&#233;flexes&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Coup-Fabuleux.html&quot; title=&quot;Coup fabuleux&quot;&gt;Coup fabuleux&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Encha&#238;nement.html&quot; title=&quot;Encha&#238;nement&quot;&gt;Encha&#238;nement&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Science-De-La-Bousculade.html&quot; title=&quot;Science de la bousculade&quot;&gt;Science de la bousculade&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Science-Du-Renversement.html&quot; title=&quot;Science du renversement&quot;&gt;Science du renversement&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Volont&#233;-De-Fer.html&quot; title=&quot;Volont&#233; de fer&quot;&gt;Volont&#233; de fer&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Acrobaties.html&quot; title=&quot;Acrobaties&quot;&gt;Acrobaties&lt;/a&gt; +9 (+17 pour le saut), &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; +0 (+8 dans les marais), &lt;a class=&quot;pagelink&quot; href=&quot;Natation.html&quot; title=&quot;Natation&quot;&gt;Natation&lt;/a&gt; +17, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +19, &lt;a class=&quot;pagelink&quot; href=&quot;Vol.html&quot; title=&quot;Vol&quot;&gt;Vol&lt;/a&gt; -6
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Modificateurs raciaux&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; +8 dans les marais, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +8
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Langues&lt;/b&gt; bourbi&#233;rin, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Communication-Avec-Les-Animaux.html&quot; title=&quot;Communication avec les animaux&quot;&gt;communication avec les animaux&lt;/a&gt;&lt;/i&gt; 
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Particularit&#233;s&lt;/b&gt; amphibie, d&#233;placement facilit&#233; (marais)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; marais temp&#233;r&#233;s
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation sociale&lt;/b&gt; solitaire ou gang (2-4)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; standard
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Pouvoirs sp&#233;ciaux&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;D&#233;placement facilit&#233; dans les marais (Ext).&lt;/b&gt; Le mobogo peut traverser n’importe quel terrain naturel difficile &#224; sa vitesse de d&#233;placement normale lorsqu’il est dans les marais. Les terrains magiquement alt&#233;r&#233;s l’affectent normalement.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Ignoble coassement (Sur).&lt;/b&gt; Par une &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions.html#SIMPLE&quot; title=&quot;Action simple&quot;&gt;action simple&lt;/a&gt;, une fois tous les 1d4 rounds, le mobogo peut &#233;mettre un coassement tonitruant. Tous les non-bourbi&#233;rins ou non-mobogos pr&#233;sents dans un rayon de 15 m&#232;tres doivent r&#233;ussir &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;jet de sauvegarde&quot;&gt;jet de Volont&#233;&lt;/a&gt; DD 19 ou &#234;tre chancelants pendant 1d4 rounds.
+Une fois que la cr&#233;ature a r&#233;ussi son jet de sauvegarde, elle est immunis&#233;e contre le coassement de ce mobogo pendant 24 heures. Tous les bourbi&#233;rins ou mobogos situ&#233;s dans la zone de l’ignoble coassement du mobogo re&#231;oivent un bonus de moral de +2 &#224; leurs jets d’attaque et de sauvegarde contre les effets de terreur pendant 1 round. Le DD du jet de sauvegarde est bas&#233; sur le &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#CHARISME&quot; title=&quot;Le Charisme&quot;&gt;Charisme&lt;/a&gt;.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Langue (Ext).&lt;/b&gt; La langue du mobogo constitue une attaque primaire avec une allonge &#233;gale &#224; trois fois son allonge normale (13,50 m pour le mobogo typique). Le mobogo n’est pas consid&#233;r&#233; comme en lutte lorsqu’il utilise sa langue pour agripper un ennemi.
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;td&gt;&lt;div&gt;&lt;i&gt;Cette cr&#233;ature grotesque ressemble &#224; un gigantesque crapaud avec des ailes tann&#233;es, des crocs, des cornes et trois yeux globuleux.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;&#201;normes et affam&#233;s, les mobogos ressemblent &#224; un m&#233;lange de crapaud g&#233;ant et de dragon des marais. Ils installent leurs repaires dans les mar&#233;cages les plus anciens et les plus profonds. L&#224;, des tribus enti&#232;res de bourbi&#233;rins servent les d&#233;sirs capricieux et inconstants de ces b&#234;tes.&lt;br /&gt;&lt;br /&gt;Les mobogos vivent dans les marais les plus primitifs du monde, dans les &#233;tranges et grotesques &#233;tendues sauvages que les si&#232;cles n’ont pas alt&#233;r&#233;es. Les bourbi&#233;rins croient que, en des temps recul&#233;s, apr&#232;s que leur d&#233;esse d&#233;moniaque f&#233;conde a d&#233;pos&#233; ses oeufs g&#233;latineux dans les morasses des diff&#233;rents continents du monde encore en formation, les mobogos ont &#233;t&#233; parmi les premi&#232;res cr&#233;atures &#224; appara&#238;tre. Depuis, les mobogos ne font que dormir et se nourrir, chassant les b&#234;tes dans leurs &#233;tangs f&#233;tides et grossissant jusqu’&#224; devenir &#233;normes et l&#233;thargiques, se laissant aller &#224; leurs imp&#233;n&#233;trables r&#234;veries d’amphibiens sur le retour de leur d&#233;esse-m&#232;re. Presque tous les mobogos ont &#224; leur service des tribus de bourbi&#233;rins. Les mobogos se moquent de leurs origines et des questions philosophiques : ils ne s’int&#233;ressent qu’aux &#233;ternels sacrifices que leur rapportent leurs tribus ob&#233;issantes sous forme de nourriture, de victimes et d’objets d’art des marais.&lt;br /&gt;&lt;br /&gt;Un mobogo mesure 5,50 m&#232;tres et p&#232;se 6 tonnes.
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Mobogo|FP 10}
+{s:pucem|Créature magique|Marais|Tempéré}
+{s:BDTexte|''Source : Bestiaire 3, p.192''}
+{s:BDTexte|'''PX''' 9 600}
+{s:BDTexte|[[type Créature magique|Créature magique]] ([[sous-type aquatique|aquatique]]) de taille TG, CM}
+{s:BDTexte|'''Init''' +2 ; '''Sens''' [[vision dans le noir]] 18 m (12 {s:c}) ; [[vision nocturne]] ; [[Perception]] +12}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 24 contact 10, pris au dépourvu 22 (Dex +2, naturelle +14, taille -2)}
+{s:BDTexte|'''pv''' 136 (13d10+65); [[régénération]] 5 (acide, froid ou feu)}
+{s:BDTexte|'''Réf''' +10, '''Vig''' +13, '''Vol''' +8}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 9 m (6 {s:c}); vol 9 m (6 {s:c}) (déplorable), nage 12 m (8 {s:c})}
+{s:BDTexte|'''Corps à corps''' morsure, +20 (2d6+9) et 2 coups +20 (1d8+9) ou langue, +20 (1d6+9 plus [[étreinte]] et [[attirer]])}
+{s:BDTexte|'''Espace''' 4,50 m (3 {s:c}) ; '''Allonge''' 4,50 m (3 {s:c}) (13,50 m (9 {s:c}) avec langue)}
+{s:BDTexte|'''Attaques spéciales'''[[attirer]] (langue, 1,50 m), [[écrasement]] (DD 21, 2d8+13), [[engloutissement]] (2d6+13 dégâts contondants, CA 17, 13 pv), ignoble coassement}
+{s:BDTexte|'''Pouvoirs magiques''' (NLS 8 ; concentration +11)}
+{s:BDSorts|Constant — ''[[communication avec les animaux]]'' , ''[[passage sans trace]]''}
+{s:BDSorts|À volonté — ''[[cacophonie]]'' (DD 15) , ''[[charme-animal]]'' (DD 14) , ''[[création deau|création d'eau]]''}
+{s:BDSorts|3/jour — ''[[bourrasque]]'' (DD 15) , ''[[contrôle de leau|contrôle de l’eau]]'' , ''[[croissance végétale]]'' , ''[[extinction des feux]]'' (DD 16) , ''[[nappe de brouillard]]'' , ''[[ramollissement de la terre et de la pierre]]'' (DD 15)}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 28, '''Dex''' 15, '''Con''' 21, '''Int''' 6, '''Sag''' 15, '''Cha''' 16}
+{s:BDTexte|'''BBA''' +13, '''BMO''' +24 (+28 [[lutte]]), '''DMD''' 36 (40 contre le [[croc-en-jambe]])}
+{s:BDTexte|'''Dons''' [[Attaque en puissance]], [[Attaques réflexes]], [[Coup fabuleux]], [[Enchaînement]], [[Science de la bousculade]], [[Science du renversement]], [[Volonté de fer]]}
+{s:BDTexte|'''Compétences''' [[Acrobaties]] +9 (+17 pour le saut), [[Discrétion]] +0 (+8 dans les marais), [[Natation]] +17, [[Perception]] +19, [[Vol]] -6}
+{s:BDTexte|'''Modificateurs raciaux''' [[Discrétion]] +8 dans les marais, [[Perception]] +8}
+{s:BDTexte|'''Langues''' bourbiérin, ''[[communication avec les animaux]]'' }
+{s:BDTexte|'''Particularités''' amphibie, déplacement facilité (marais)}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' marais tempérés}
+{s:BDTexte|'''Organisation sociale''' solitaire ou gang (2-4)}
+{s:BDTexte|'''Trésor''' standard}
+{s:BDSousTitre|Pouvoirs spéciaux}
+{s:BDTexte|'''Déplacement facilité dans les marais (Ext).''' Le mobogo peut traverser n’importe quel terrain naturel difficile à sa vitesse de déplacement normale lorsqu’il est dans les marais. Les terrains magiquement altérés l’affectent normalement.}
+{s:BDTexte|'''Ignoble coassement (Sur).''' Par une [[action simple]], une fois tous les 1d4 rounds, le mobogo peut émettre un coassement tonitruant. Tous les non-bourbiérins ou non-mobogos présents dans un rayon de 15 mètres doivent réussir [[jet de sauvegarde|jet de Volonté]] DD 19 ou être chancelants pendant 1d4 rounds.
+Une fois que la créature a réussi son jet de sauvegarde, elle est immunisée contre le coassement de ce mobogo pendant 24 heures. Tous les bourbiérins ou mobogos situés dans la zone de l’ignoble coassement du mobogo reçoivent un bonus de moral de +2 à leurs jets d’attaque et de sauvegarde contre les effets de terreur pendant 1 round. Le DD du jet de sauvegarde est basé sur le [[Charisme]].}
+{s:BDTexte|'''Langue (Ext).''' La langue du mobogo constitue une attaque primaire avec une allonge égale à trois fois son allonge normale (13,50 m pour le mobogo typique). Le mobogo n’est pas considéré comme en lutte lorsqu’il utilise sa langue pour agripper un ennemi.}
+</div>
+</td><td><div>''Cette créature grotesque ressemble à un gigantesque crapaud avec des ailes tannées, des crocs, des cornes et trois yeux globuleux.''
+
+Énormes et affamés, les mobogos ressemblent à un mélange de crapaud géant et de dragon des marais. Ils installent leurs repaires dans les marécages les plus anciens et les plus profonds. Là, des tribus entières de bourbiérins servent les désirs capricieux et inconstants de ces bêtes.
+
+Les mobogos vivent dans les marais les plus primitifs du monde, dans les étranges et grotesques étendues sauvages que les siècles n’ont pas altérées. Les bourbiérins croient que, en des temps reculés, après que leur déesse démoniaque féconde a déposé ses oeufs gélatineux dans les morasses des différents continents du monde encore en formation, les mobogos ont été parmi les premières créatures à apparaître. Depuis, les mobogos ne font que dormir et se nourrir, chassant les bêtes dans leurs étangs fétides et grossissant jusqu’à devenir énormes et léthargiques, se laissant aller à leurs impénétrables rêveries d’amphibiens sur le retour de leur déesse-mère. Presque tous les mobogos ont à leur service des tribus de bourbiérins. Les mobogos se moquent de leurs origines et des questions philosophiques : ils ne s’intéressent qu’aux éternels sacrifices que leur rapportent leurs tribus obéissantes sous forme de nourriture, de victimes et d’objets d’art des marais.
+
+Un mobogo mesure 5,50 mètres et pèse 6 tonnes.
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Mobogo</fullName>
+</wikiPage>

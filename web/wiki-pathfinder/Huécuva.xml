@@ -1,0 +1,131 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Huécuva</title>
+  <categories><category>Pathfinder-RPG.Bestiaire</category><category>Pathfinder-RPG.Monstre</category><category>Pathfinder-RPG.Règles officielles</category></categories>
+  <lastModified>2014-01-20 18:16:22Z</lastModified>
+  <version>9</version>
+  <inLinks><link>Pathfinder-RPG.Glossaire des monstres</link><link>Pathfinder-RPG.Liste de monstres par FP</link><link>Pathfinder-RPG.Liste de monstres par milieu naturel</link><link>Pathfinder-RPG.Liste de monstres par type</link><link>Pathfinder-RPG.Monstres</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.type Mort-vivant</link><link>Pathfinder-RPG.vision dans le noir</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Traits des morts-vivants</link><link>Pathfinder-RPG.Arme de prédilection</link><link>Pathfinder-RPG.Science de linitiative</link><link>Pathfinder-RPG.Survie</link><link>Pathfinder-RPG.jet de sauvegarde</link><link>Pathfinder-RPG.canalisation</link><link>Pathfinder-RPG.Déguisement</link><link>Pathfinder-RPG.DD</link><link>Pathfinder-RPG.Odorat (capacité)</link><link>Pathfinder-RPG.Charisme</link><link>Pathfinder-RPG.Création de mort-vivant</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Hu&#233;cuva (W&#233;cufe)&lt;div style=&quot;float:right;&quot;&gt;FP 2&lt;/div&gt;&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Bestiaire 3 p280&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 600
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Mort-Vivant.html&quot; title=&quot;Mort-vivant&quot;&gt;Mort-vivant&lt;/a&gt; de taille M, CM
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +6 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Capacit&#233;s-Sp&#233;ciales.html#VISIONDANSLENOIR&quot; title=&quot;vision dans le noir&quot;&gt;vision dans le noir&lt;/a&gt; 18 m (12 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +5
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Aura&lt;/b&gt; h&#233;r&#233;sie 9 m (6 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 15, contact 12, pris au d&#233;pourvu 13 (Dex +2, naturelle +3)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 16 (3d8+3)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +3, &lt;b&gt;Vig&lt;/b&gt; +2, &lt;b&gt;Vol&lt;/b&gt; +4
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Immunit&#233;s&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Traits-Des-Morts-Vivants-(Capacit&#233;).html&quot; title=&quot;Traits des morts-vivants&quot;&gt;traits des morts-vivants&lt;/a&gt; ; &lt;b&gt;RD&lt;/b&gt; 5/magique ou argent 
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 9 m (6 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; 2 griffes +4 (1d6+1 et maladie)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 13, &lt;b&gt;Dex&lt;/b&gt; 14, &lt;b&gt;Con&lt;/b&gt; -, &lt;b&gt;Int&lt;/b&gt; 4, &lt;b&gt;Sag&lt;/b&gt; 12, &lt;b&gt;Cha&lt;/b&gt; 12
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +2, &lt;b&gt;BMO&lt;/b&gt; +3, &lt;b&gt;DMD&lt;/b&gt; 15
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Arme-De-Pr&#233;dilection.html&quot; title=&quot;Arme de pr&#233;dilection&quot;&gt;Arme de pr&#233;dilection&lt;/a&gt; (griffe), &lt;a class=&quot;pagelink&quot; href=&quot;Science-De-Linitiative.html&quot; title=&quot;Science de l&amp;#39;initiative&quot;&gt;Science de l&#39;initiative&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +5, &lt;a class=&quot;pagelink&quot; href=&quot;Survie.html&quot; title=&quot;Survie&quot;&gt;Survie&lt;/a&gt; +7
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Langues&lt;/b&gt; commun
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Particularit&#233;s&lt;/b&gt; fausse humanit&#233;
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; tous
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation sociale&lt;/b&gt; solitaire, couple ou clo&#238;tre (3-10)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; standart
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Capacit&#233;s sp&#233;ciales&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Aura d&#39;h&#233;r&#233;sie&lt;/b&gt; (Sur) Le Le w&#233;cufe et toutes les cr&#233;atures mortes-vivantes situ&#233;es dans un rayon de 9 m&#232;tres re&#231;oivent un bonus de malfaisance de +2 &#224; leurs &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;jet de sauvegarde&quot;&gt;jets de Volont&#233;&lt;/a&gt; pour r&#233;sister &#224; l’&lt;a class=&quot;pagelink&quot; href=&quot;Pr&#234;tre.html#CANALISATIONDENERGIE&quot; title=&quot;canalisation&quot;&gt;&#233;nergie canalis&#233;e&lt;/a&gt; et aux effets d’&#233;nergie positive.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Fausse humanit&#233;&lt;/b&gt; (Sur) Pendant le jour, le w&#233;cufe est dissimul&#233; derri&#232;re une illusion auditive, visuelle et tactile qui le fait appara&#238;tre comme la cr&#233;ature vivante qu’il &#233;tait autrefois. Cet effet fonctionne comme &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;D&#233;guisement.html&quot; title=&quot;D&#233;guisement&quot;&gt;d&#233;guisement&lt;/a&gt;&lt;/i&gt; : si une cr&#233;ature interagit directement avec le w&#233;cufe, elle peut tenter un &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;jet de sauvegarde&quot;&gt;jet de Volont&#233;&lt;/a&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DEGREDEDIFFICULTE&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; 12 pour voir au travers de l’illusion. Cela dit, l’odeur du w&#233;cufe ne change pas : il a toujours une l&#233;g&#232;re odeur de poussi&#232;re et de d&#233;composition. Les cr&#233;atures ayant la capacit&#233; &lt;a class=&quot;pagelink&quot; href=&quot;Odorat-(Capacit&#233;).html&quot; title=&quot;Odorat (Ext)&quot;&gt;odorat&lt;/a&gt; re&#231;oivent un bonus de +4 &#224; leurs jets de Volont&#233; pour voir au travers de l’illusion. De nuit (que le w&#233;cufe sache ou non que la nuit est tomb&#233;e), cette illusion se dissipe et r&#233;v&#232;le la cr&#233;ature telle qu’elle est vraiment. Le &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DEGREDEDIFFICULTE&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; du &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;jet de sauvegarde&quot;&gt;jet de sauvegarde&lt;/a&gt; est bas&#233; sur le &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#CHARISME&quot; title=&quot;Le Charisme&quot;&gt;Charisme&lt;/a&gt;.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Maladie (Ext)&lt;/b&gt; &lt;i&gt;Fi&#232;vre des marais&lt;/i&gt; - Blessure ; &lt;i&gt;JS&lt;/i&gt; Vigueur DD 12 ; &lt;i&gt;incubation&lt;/i&gt; 1d3 jours ; &lt;i&gt;fr&#233;quence&lt;/i&gt; 1/jour ; &lt;i&gt;effet&lt;/i&gt; Affaiblissement temporaire de 1d3 Dex et 1d3 For ; &lt;i&gt;gu&#233;rison&lt;/i&gt; 2 r&#233;ussites cons&#233;cutives. Le &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;jet de sauvegarde&quot;&gt;jet de sauvegarde&lt;/a&gt; d&#233;pend du &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#CHARISME&quot; title=&quot;Le Charisme&quot;&gt;Charisme&lt;/a&gt;.
+&lt;/div&gt;
+&lt;/td&gt;&lt;td&gt;&lt;div&gt;
+&lt;i&gt;Ce cadavre ambulant &#224; la bouche b&#233;ante, fig&#233;e dans un hurlement silencieux, est affubl&#233; de v&#234;tements en d&#233;composition qui pendent sur sa chair fl&#233;trie.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Les w&#233;cufes sont les cadavres anim&#233;s de pr&#234;tres h&#233;r&#233;tiques qui ont blasph&#233;m&#233; et reni&#233; leur divinit&#233; avant de trouver la mort. Dans leur non-vie, ils abhorrent les &#226;mes pieuses qui respectent leurs voeux et cherchent &#224; les d&#233;truire. On confond facilement les w&#233;cufes avec les zombis, voire m&#234;me avec les squelettes, mais ils ont une &#233;tincelle d’intelligence qui fait d’eux des adversaires sournois et trompeurs. Pendant le jour, le w&#233;cufe est entour&#233; d’une illusion qui le fait appara&#238;tre tel qu’il &#233;tait de son vivant : durant ces p&#233;riodes, il arrive que le w&#233;cufe cherche &#224; s’infiltrer dans une soci&#233;t&#233; pour vivre parmi ceux qu’il d&#233;teste. La nuit venue, il se met en qu&#234;te de proies. Heureusement pour les vivants, il ne reste au w&#233;cufe que des fragments de son intellect : il ne s’&#233;coule donc que peu de temps avant que la cr&#233;ature morte-vivante ne fasse une erreur de jugement ou ne r&#233;v&#232;le simplement le monstre qu’elle est.&lt;br /&gt;&lt;br /&gt;La plupart des w&#233;cufes conservent tr&#232;s peu de souvenirs de leur vie, &#224; l’exception des blasph&#232;mes qui les ont conduits &#224; leur destin maudit. Ils sont souvent attir&#233;s par les ruines des vieux temples o&#249; ils laissent exploser leur rage contre les divinit&#233;s qui les ont maudits ou recherchent d&#233;sesp&#233;r&#233;ment leur absolution. Les w&#233;cufes travaillent parfois de concert avec d’autres cr&#233;atures mortes-vivantes partageant le m&#234;me territoire.&lt;br /&gt;&lt;br /&gt;Si la plupart des w&#233;cufes naissent quand un dieu rejette l’&#226;me d’un pr&#234;tre h&#233;r&#233;tique et l’oblige &#224; devenir un immonde mort-vivant, il est &#233;galement possible de les cr&#233;er avec &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;ation-De-Mort-Vivant.html&quot; title=&quot;Cr&#233;ation de mort-vivant&quot;&gt;cr&#233;ation de mort-vivant&lt;/a&gt;&lt;/i&gt;. Le lanceur doit &#234;tre de niveau 11 au minimum et le corps &#224; transformer doit avoir &#233;t&#233; pr&#234;tre d’alignement Mauvais pendant sa vie. Ce sort peut &#234;tre utilis&#233; pour cr&#233;er un w&#233;cufe &#224; partir du corps d’un pr&#234;tre d’un autre alignement mais, dans ce cas-l&#224;, il faut r&#233;ussir un jet de lanceur de sorts de DD 20.&lt;br /&gt;&lt;br /&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Huécuva (Wécufe)|FP 2}
+{s:pucem|Mort-vivant|Souterrain|Tempéré}
+{s:BDTexte|''Source : Bestiaire 3 p280''}
+{s:BDTexte|'''PX''' 600}
+{s:BDTexte|[[type Mort-vivant|Mort-vivant]] de taille M, CM}
+{s:BDTexte|'''Init''' +6 ; '''Sens''' [[vision dans le noir]] 18 m (12 {s:c}) ; [[Perception]] +5}
+{s:BDTexte|'''Aura''' hérésie 9 m (6 {s:c})}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 15, contact 12, pris au dépourvu 13 (Dex +2, naturelle +3)}
+{s:BDTexte|'''pv''' 16 (3d8+3)}
+{s:BDTexte|'''Réf''' +3, '''Vig''' +2, '''Vol''' +4}
+{s:BDTexte|'''Immunités''' [[traits des morts-vivants]] ; '''RD''' 5/magique ou argent }
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 9 m (6 {s:c})}
+{s:BDTexte|'''Corps à corps''' 2 griffes +4 (1d6+1 et maladie)}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 13, '''Dex''' 14, '''Con''' -, '''Int''' 4, '''Sag''' 12, '''Cha''' 12}
+{s:BDTexte|'''BBA''' +2, '''BMO''' +3, '''DMD''' 15}
+{s:BDTexte|'''Dons''' [[Arme de prédilection]] (griffe), [[Science de linitiative|Science de l'initiative]]}
+{s:BDTexte|'''Compétences''' [[Perception]] +5, [[Survie]] +7}
+{s:BDTexte|'''Langues''' commun}
+{s:BDTexte|'''Particularités''' fausse humanité}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' tous}
+{s:BDTexte|'''Organisation sociale''' solitaire, couple ou cloître (3-10)}
+{s:BDTexte|'''Trésor''' standart}
+{s:BDSousTitre|Capacités spéciales}
+{s:BDTexte|'''Aura d'hérésie''' (Sur) Le Le wécufe et toutes les créatures mortes-vivantes situées dans un rayon de 9 mètres reçoivent un bonus de malfaisance de +2 à leurs [[jet de sauvegarde|jets de Volonté]] pour résister à l’[[canalisation|énergie canalisée]] et aux effets d’énergie positive.}
+{s:BDTexte|'''Fausse humanité''' (Sur) Pendant le jour, le wécufe est dissimulé derrière une illusion auditive, visuelle et tactile qui le fait apparaître comme la créature vivante qu’il était autrefois. Cet effet fonctionne comme ''[[déguisement]]'' : si une créature interagit directement avec le wécufe, elle peut tenter un [[jet de sauvegarde|jet de Volonté]] [[DD]] 12 pour voir au travers de l’illusion. Cela dit, l’odeur du wécufe ne change pas : il a toujours une légère odeur de poussière et de décomposition. Les créatures ayant la capacité [[odorat (capacité)|odorat]] reçoivent un bonus de +4 à leurs jets de Volonté pour voir au travers de l’illusion. De nuit (que le wécufe sache ou non que la nuit est tombée), cette illusion se dissipe et révèle la créature telle qu’elle est vraiment. Le [[DD]] du [[jet de sauvegarde]] est basé sur le [[Charisme]].}
+{s:BDTexte|'''Maladie (Ext)''' ''Fièvre des marais'' - Blessure ; ''JS'' Vigueur DD 12 ; ''incubation'' 1d3 jours ; ''fréquence'' 1/jour ; ''effet'' Affaiblissement temporaire de 1d3 Dex et 1d3 For ; ''guérison'' 2 réussites consécutives. Le [[jet de sauvegarde]] dépend du [[Charisme]].}
+</td><td><div>
+''Ce cadavre ambulant à la bouche béante, figée dans un hurlement silencieux, est affublé de vêtements en décomposition qui pendent sur sa chair flétrie.''
+
+Les wécufes sont les cadavres animés de prêtres hérétiques qui ont blasphémé et renié leur divinité avant de trouver la mort. Dans leur non-vie, ils abhorrent les âmes pieuses qui respectent leurs voeux et cherchent à les détruire. On confond facilement les wécufes avec les zombis, voire même avec les squelettes, mais ils ont une étincelle d’intelligence qui fait d’eux des adversaires sournois et trompeurs. Pendant le jour, le wécufe est entouré d’une illusion qui le fait apparaître tel qu’il était de son vivant : durant ces périodes, il arrive que le wécufe cherche à s’infiltrer dans une société pour vivre parmi ceux qu’il déteste. La nuit venue, il se met en quête de proies. Heureusement pour les vivants, il ne reste au wécufe que des fragments de son intellect : il ne s’écoule donc que peu de temps avant que la créature morte-vivante ne fasse une erreur de jugement ou ne révèle simplement le monstre qu’elle est.
+
+La plupart des wécufes conservent très peu de souvenirs de leur vie, à l’exception des blasphèmes qui les ont conduits à leur destin maudit. Ils sont souvent attirés par les ruines des vieux temples où ils laissent exploser leur rage contre les divinités qui les ont maudits ou recherchent désespérément leur absolution. Les wécufes travaillent parfois de concert avec d’autres créatures mortes-vivantes partageant le même territoire.
+
+Si la plupart des wécufes naissent quand un dieu rejette l’âme d’un prêtre hérétique et l’oblige à devenir un immonde mort-vivant, il est également possible de les créer avec ''[[création de mort-vivant]]''. Le lanceur doit être de niveau 11 au minimum et le corps à transformer doit avoir été prêtre d’alignement Mauvais pendant sa vie. Ce sort peut être utilisé pour créer un wécufe à partir du corps d’un prêtre d’un autre alignement mais, dans ce cas-là, il faut réussir un jet de lanceur de sorts de DD 20.
+
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Huécuva</fullName>
+</wikiPage>

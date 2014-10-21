@@ -1,0 +1,137 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Glouton sanguinaire</title>
+  <categories><category>Pathfinder-RPG.Bestiaire</category><category>Pathfinder-RPG.Monstre</category><category>Pathfinder-RPG.Règles officielles</category></categories>
+  <lastModified>2013-02-07 21:38:37Z</lastModified>
+  <version>8</version>
+  <inLinks><link>Pathfinder-RPG.Glossaire des monstres</link><link>Pathfinder-RPG.Liste de monstres par FP</link><link>Pathfinder-RPG.Liste de monstres par milieu naturel</link><link>Pathfinder-RPG.Liste de monstres par type</link><link>Pathfinder-RPG.Monstres</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.type Animal</link><link>Pathfinder-RPG.odorat</link><link>Pathfinder-RPG.vision nocturne</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.croc-en-jambe</link><link>Pathfinder-RPG.Robustesse</link><link>Pathfinder-RPG.Science de linitiative</link><link>Pathfinder-RPG.Talent</link><link>Pathfinder-RPG.Escalade</link><link>Pathfinder-RPG.Force</link><link>Pathfinder-RPG.Constitution</link><link>Pathfinder-RPG.CA</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Glouton sanguinaire&lt;div style=&quot;float:right;&quot;&gt;FP 4&lt;/div&gt;&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Bestiaire p.160&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 1.200
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Animal.html&quot; title=&quot;Animal&quot;&gt;Animal&lt;/a&gt; de taille G, N
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +7 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Odorat-(Capacit&#233;).html&quot; title=&quot;odorat&quot;&gt;odorat&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Nocturne-(Capacit&#233;).html&quot; title=&quot;vision nocturne&quot;&gt;vision nocturne&lt;/a&gt; ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +12
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 16, contact 12, pris au d&#233;pourvu 13 (Dex +3, naturelle +4, taille -1)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 42 (5d8+20)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +7, &lt;b&gt;Vig&lt;/b&gt; +7, &lt;b&gt;Vol&lt;/b&gt; +2
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 9 m (6 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), escalade 3 m (2 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; 2 griffes, +6 (1d8+4), morsure, +6 (1d6+4)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Espace&lt;/b&gt; 3 m (2 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) ; &lt;b&gt;Allonge&lt;/b&gt; 1,50 m (1 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaques sp&#233;ciales&lt;/b&gt; rage
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 19, &lt;b&gt;Dex&lt;/b&gt; 17, &lt;b&gt;Con&lt;/b&gt; 17, &lt;b&gt;Int&lt;/b&gt; 2, &lt;b&gt;Sag&lt;/b&gt; 12, &lt;b&gt;Cha&lt;/b&gt; 10
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +3, &lt;b&gt;BMO&lt;/b&gt; +8, &lt;b&gt;DMD&lt;/b&gt; 21 (25 contre &lt;a class=&quot;pagelink&quot; href=&quot;Croc-En-Jambe.html&quot; title=&quot;croc-en-jambe&quot;&gt;croc-en-jambe&lt;/a&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Robustesse.html&quot; title=&quot;Robustesse&quot;&gt;Robustesse&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Science-De-Linitiative.html&quot; title=&quot;Science de l&amp;#39;initiative&quot;&gt;Science de l&#39;initiative&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Talent.html&quot; title=&quot;Talent&quot;&gt;Talent&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Escalade.html&quot; title=&quot;Escalade&quot;&gt;Escalade&lt;/a&gt; +12, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +12
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; for&#234;ts froides
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation sociale&lt;/b&gt; solitaire ou couple
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; aucun
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Capacit&#233;s sp&#233;ciales&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Rage (Ext).&lt;/b&gt; Lorsqu&#39;un glouton sanguinaire est bless&#233; au combat, il se laisse gagner par la fr&#233;n&#233;sie au cours de son prochain tour, griffant et mordant &#224; tout va jusqu&#39;&#224; la mort de son adversaire. Il gagne un bonus de +4 en &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#FORCE&quot; title=&quot;La Force&quot;&gt;Force&lt;/a&gt; et en &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#CONSTITUTION&quot; title=&quot;La Constitution&quot;&gt;Constitution&lt;/a&gt; et un malus de -2 &#224; la &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#CA&quot; title=&quot;CA&quot;&gt;CA&lt;/a&gt;. La cr&#233;ature ne peut pas d&#233;cider d&#39;elle m&#234;me de mettre un terme &#224; cette rage.
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;td&gt;&lt;div&gt;&lt;i&gt;Cet horrible glouton de la taille d’un ours poss&#232;de des m&#226;choires et des griffes immenses et puissantes, et des yeux noirs emplis de rage.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Les gloutons sanguinaires
+se montrent encore
+plus f&#233;roces que leurs
+cousins et combattent
+jusqu’&#224; la mort pour
+d&#233;fendre leur territoire. Ils
+s’approprient souvent des
+r&#233;gions d&#233;j&#224; colonis&#233;es par
+des humano&#239;des puis attaquent
+sauvagement ces communaut&#233;s
+jusqu’&#224; leur destruction. Les
+gloutons sanguinaires peuvent
+atteindre une longueur de 3,60 m&#232;tres et un
+poids de 1 000 kg.
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Glouton sanguinaire|FP 4}
+{s:pucem|Animal|Forêt-Jungle|Froid}
+{s:BDTexte|''Source : Bestiaire p.160''}
+{s:BDTexte|'''PX''' 1.200}
+{s:BDTexte|[[type Animal|Animal]] de taille G, N}
+{s:BDTexte|'''Init''' +7 ; '''Sens''' [[odorat]], [[vision nocturne]] ; [[Perception]] +12}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 16, contact 12, pris au dépourvu 13 (Dex +3, naturelle +4, taille -1)}
+{s:BDTexte|'''pv''' 42 (5d8+20)}
+{s:BDTexte|'''Réf''' +7, '''Vig''' +7, '''Vol''' +2}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 9 m (6 {s:c}), escalade 3 m (2 {s:c})}
+{s:BDTexte|'''Corps à corps''' 2 griffes, +6 (1d8+4), morsure, +6 (1d6+4)}
+{s:BDTexte|'''Espace''' 3 m (2 {s:c}) ; '''Allonge''' 1,50 m (1 {s:c})}
+{s:BDTexte|'''Attaques spéciales''' rage}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 19, '''Dex''' 17, '''Con''' 17, '''Int''' 2, '''Sag''' 12, '''Cha''' 10}
+{s:BDTexte|'''BBA''' +3, '''BMO''' +8, '''DMD''' 21 (25 contre [[croc-en-jambe]])}
+{s:BDTexte|'''Dons''' [[Robustesse]], [[Science de linitiative|Science de l'initiative]], [[Talent]] ([[Perception]])}
+{s:BDTexte|'''Compétences''' [[Escalade]] +12, [[Perception]] +12}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' forêts froides}
+{s:BDTexte|'''Organisation sociale''' solitaire ou couple}
+{s:BDTexte|'''Trésor''' aucun}
+{s:BDSousTitre|Capacités spéciales}
+{s:BDTexte|'''Rage (Ext).''' Lorsqu'un glouton sanguinaire est blessé au combat, il se laisse gagner par la frénésie au cours de son prochain tour, griffant et mordant à tout va jusqu'à la mort de son adversaire. Il gagne un bonus de +4 en [[Force]] et en [[Constitution]] et un malus de -2 à la [[CA]]. La créature ne peut pas décider d'elle même de mettre un terme à cette rage.}
+</div>
+</td><td><div>''Cet horrible glouton de la taille d’un ours possède des mâchoires et des griffes immenses et puissantes, et des yeux noirs emplis de rage.''
+
+Les gloutons sanguinaires
+se montrent encore
+plus féroces que leurs
+cousins et combattent
+jusqu’à la mort pour
+défendre leur territoire. Ils
+s’approprient souvent des
+régions déjà colonisées par
+des humanoïdes puis attaquent
+sauvagement ces communautés
+jusqu’à leur destruction. Les
+gloutons sanguinaires peuvent
+atteindre une longueur de 3,60 mètres et un
+poids de 1 000 kg.
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Glouton sanguinaire</fullName>
+</wikiPage>

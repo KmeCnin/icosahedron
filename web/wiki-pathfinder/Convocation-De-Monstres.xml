@@ -1,0 +1,305 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Convocation de monstres</title>
+  <categories><category>Pathfinder-RPG.Manuel des joueurs</category><category>Pathfinder-RPG.Règles officielles</category><category>Pathfinder-RPG.Sort</category></categories>
+  <lastModified>2013-11-13 23:28:49Z</lastModified>
+  <version>31</version>
+  <inLinks><link>Pathfinder-RPG.Chevalier empyréen (paladin)</link><link>Pathfinder-RPG.Conjurateur</link><link>Pathfinder-RPG.Convocation (capacité)</link><link>Pathfinder-RPG.Convocation de monstre mineur</link><link>Pathfinder-RPG.Convocation de monstres I</link><link>Pathfinder-RPG.Convocation de monstres II</link><link>Pathfinder-RPG.Convocation de monstres III</link><link>Pathfinder-RPG.Convocation de monstres IV</link><link>Pathfinder-RPG.Convocation de monstres IX</link><link>Pathfinder-RPG.Convocation de monstres V</link><link>Pathfinder-RPG.Convocation de monstres VI</link><link>Pathfinder-RPG.Convocation de monstres VII</link><link>Pathfinder-RPG.Convocation de monstres VIII</link><link>Pathfinder-RPG.Dissipation de la magie</link><link>Pathfinder-RPG.Dissipation suprême</link><link>Pathfinder-RPG.dons-temporaires</link><link>Pathfinder-RPG.Dragon dairain</link><link>Pathfinder-RPG.Duels</link><link>Pathfinder-RPG.FAQ Dons</link><link>Pathfinder-RPG.FAQ Magie</link><link>Pathfinder-RPG.Invocateur daraignées</link><link>Pathfinder-RPG.lignage Abyssal</link><link>Pathfinder-RPG.page de travail des dons</link><link>Pathfinder-RPG.Serviteur I</link><link>Pathfinder-RPG.Serviteur II</link><link>Pathfinder-RPG.Serviteur III</link><link>Pathfinder-RPG.Serviteur IV</link><link>Pathfinder-RPG.Serviteur IX</link><link>Pathfinder-RPG.Serviteur V</link><link>Pathfinder-RPG.Serviteur VI</link><link>Pathfinder-RPG.Serviteur VII</link><link>Pathfinder-RPG.Serviteur VIII</link><link>Pathfinder-RPG.Tableau des dons (Art de la Magie)</link><link>Pathfinder-RPG.Tableau récapitulatif des dons</link><link>Pathfinder-RPG.tableau récapitulatif des dons (art de la magie)</link><link>Pathfinder-RPG.Temp-manuel-des-races</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Convocation de monstres I</link><link>Pathfinder-RPG.Convocation de monstres II</link><link>Pathfinder-RPG.Convocation de monstres III</link><link>Pathfinder-RPG.Convocation de monstres IV</link><link>Pathfinder-RPG.Convocation de monstres V</link><link>Pathfinder-RPG.Convocation de monstres VI</link><link>Pathfinder-RPG.Convocation de monstres VII</link><link>Pathfinder-RPG.Convocation de monstres VIII</link><link>Pathfinder-RPG.Convocation de monstres IX</link><link>Pathfinder-RPG.Aigle</link><link>Pathfinder-RPG.Chien</link><link>Pathfinder-RPG.Dauphin</link><link>Pathfinder-RPG.Crapaud venimeux</link><link>Pathfinder-RPG.Poney</link><link>Pathfinder-RPG.Punaise de feu</link><link>Pathfinder-RPG.Rat sanguinaire</link><link>Pathfinder-RPG.Vipère</link><link>Pathfinder-RPG.Araignée géante</link><link>Pathfinder-RPG.Calmar</link><link>Pathfinder-RPG.Cheval</link><link>Pathfinder-RPG.Chien gobelin</link><link>Pathfinder-RPG.Élémentaire</link><link>Pathfinder-RPG.sous-type élémentaire</link><link>Pathfinder-RPG.Fourmi géante</link><link>Pathfinder-RPG.Grenouille géante</link><link>Pathfinder-RPG.Hyène</link><link>Pathfinder-RPG.Lémure</link><link>Pathfinder-RPG.sous-type Mal</link><link>Pathfinder-RPG.sous-type Loi</link><link>Pathfinder-RPG.Loup</link><link>Pathfinder-RPG.Mille-pattes géant</link><link>Pathfinder-RPG.Pieuvre</link><link>Pathfinder-RPG.Anguille électrique</link><link>Pathfinder-RPG.Archon lumineux</link><link>Pathfinder-RPG.sous-type Bien</link><link>Pathfinder-RPG.Auroch</link><link>Pathfinder-RPG.Chauve-souris sanguinaire</link><link>Pathfinder-RPG.Crocodile</link><link>Pathfinder-RPG.Dretch</link><link>Pathfinder-RPG.sous-type Chaos</link><link>Pathfinder-RPG.Glouton</link><link>Pathfinder-RPG.Gorille</link><link>Pathfinder-RPG.Guépard</link><link>Pathfinder-RPG.Léopard</link><link>Pathfinder-RPG.Varan</link><link>Pathfinder-RPG.Requin</link><link>Pathfinder-RPG.Sanglier</link><link>Pathfinder-RPG.Serpent constricteur</link><link>Pathfinder-RPG.Archon canin</link><link>Pathfinder-RPG.Bison</link><link>Pathfinder-RPG.Déinonychus</link><link>Pathfinder-RPG.Gorille sanguinaire</link><link>Pathfinder-RPG.Grizzly</link><link>Pathfinder-RPG.Guêpe géante</link><link>Pathfinder-RPG.Lion</link><link>Pathfinder-RPG.Loup sanguinaire</link><link>Pathfinder-RPG.Méphite</link><link>Pathfinder-RPG.Molosse infernal</link><link>Pathfinder-RPG.Ptéranodon</link><link>Pathfinder-RPG.Rhinocéros</link><link>Pathfinder-RPG.Sanglier sanguinaire</link><link>Pathfinder-RPG.Scorpion géant</link><link>Pathfinder-RPG.Ankylosaure</link><link>Pathfinder-RPG.Babau</link><link>Pathfinder-RPG.Bralani</link><link>Pathfinder-RPG.Diable barbu</link><link>Pathfinder-RPG.Kyton</link><link>Pathfinder-RPG.Lion sanguinaire</link><link>Pathfinder-RPG.Murène géante</link><link>Pathfinder-RPG.Orque épaulard</link><link>Pathfinder-RPG.Rhinocéros laineux</link><link>Pathfinder-RPG.Salamandre</link><link>Pathfinder-RPG.Xill</link><link>Pathfinder-RPG.Démon des ombres</link><link>Pathfinder-RPG.Élasmosaure</link><link>Pathfinder-RPG.Éléphant</link><link>Pathfinder-RPG.Érinye</link><link>Pathfinder-RPG.Lillende</link><link>Pathfinder-RPG.Ours sanguinaire</link><link>Pathfinder-RPG.Pieuvre géante</link><link>Pathfinder-RPG.Succube</link><link>Pathfinder-RPG.Tigre sanguinaire</link><link>Pathfinder-RPG.Traqueur invisible</link><link>Pathfinder-RPG.sous-type Air</link><link>Pathfinder-RPG.Tricératops</link><link>Pathfinder-RPG.Bébilith</link><link>Pathfinder-RPG.Brachiosaure</link><link>Pathfinder-RPG.Calmar géant</link><link>Pathfinder-RPG.Crocodile sanguinaire</link><link>Pathfinder-RPG.Diable osseux</link><link>Pathfinder-RPG.Mastodonte</link><link>Pathfinder-RPG.Requin sanguinaire</link><link>Pathfinder-RPG.Roc</link><link>Pathfinder-RPG.Tyrannosaure</link><link>Pathfinder-RPG.Vrock</link><link>Pathfinder-RPG.Diable barbelé</link><link>Pathfinder-RPG.Hezrou</link><link>Pathfinder-RPG.Archon messager</link><link>Pathfinder-RPG.Déva astral</link><link>Pathfinder-RPG.Diable des glaces</link><link>Pathfinder-RPG.Ghaéle</link><link>Pathfinder-RPG.Glabrezu</link><link>Pathfinder-RPG.Nalfeshnie</link></outLinks>
+  <body><![CDATA[&lt;h2 class=&quot;separator&quot;&gt; Liens vers les sorts &lt;a class=&quot;headeranchor&quot; id=&quot;Liens_vers_les_sorts_0&quot; href=&quot;#Liens_vers_les_sorts_0&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;
+&lt;ul&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Convocation-De-Monstres-I.html&quot; title=&quot;Convocation de monstres I&quot;&gt;Convocation de monstres I&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Convocation-De-Monstres-Ii.html&quot; title=&quot;Convocation de monstres II&quot;&gt;Convocation de monstres II&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Convocation-De-Monstres-Iii.html&quot; title=&quot;Convocation de monstres III&quot;&gt;Convocation de monstres III&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Convocation-De-Monstres-Iv.html&quot; title=&quot;Convocation de monstres IV&quot;&gt;Convocation de monstres IV&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Convocation-De-Monstres-V.html&quot; title=&quot;Convocation de monstres V&quot;&gt;Convocation de monstres V&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Convocation-De-Monstres-Vi.html&quot; title=&quot;Convocation de monstres VI&quot;&gt;Convocation de monstres VI&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Convocation-De-Monstres-Vii.html&quot; title=&quot;Convocation de monstres VII&quot;&gt;Convocation de monstres VII&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Convocation-De-Monstres-Viii.html&quot; title=&quot;Convocation de monstres VIII&quot;&gt;Convocation de monstres VIII&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Convocation-De-Monstres-Ix.html&quot; title=&quot;Convocation de monstres IX&quot;&gt;Convocation de monstres IX&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;&lt;/ul&gt;&lt;br /&gt;&lt;h2 class=&quot;separator&quot;&gt;&#160;Listes de cr&#233;atures &lt;a class=&quot;headeranchor&quot; id=&quot;Listes_de_cr&#233;atures_1&quot; href=&quot;#Listes_de_cr&#233;atures_1&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;&lt;a class=&quot;externallink&quot; href=&quot;http://www.pathfinder-fr.org/Wiki/Ressources.Monstres%20convoqu%C3%A9s.ashx&quot; title=&quot;Caract&#233;ristiques d&#233;taill&#233;es des monstres&quot; target=&quot;_blank&quot;&gt;Caract&#233;ristiques d&#233;taill&#233;es des monstres&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;table class=&quot;page espace-col troiscol&quot;&gt;&lt;tr&gt;&lt;td&gt;&lt;div&gt;
+&lt;table CLASS=&quot;tablo&quot;&gt;&lt;caption&gt;&lt;a class=&quot;externallink&quot; href=&quot;http://www.pathfinder-fr.org/Wiki/Ressources.Monstres%20convoqu%C3%A9s%20CM1.ashx&quot; title=&quot;Niveau 1&quot; target=&quot;_blank&quot;&gt;Niveau 1&lt;/a&gt;&lt;/caption&gt;&lt;tr CLASS=&quot;titre centre&quot;&gt;&lt;td&gt;Cr&#233;ature&lt;/td&gt;&lt;td&gt;Sous-type&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier&quot;&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Aigle.html&quot; title=&quot;Aigle&quot;&gt;Aigle&lt;/a&gt;*&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Chien.html&quot; title=&quot;Chien&quot;&gt;Chien&lt;/a&gt;*&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Dauphin.html&quot; title=&quot;Dauphin&quot;&gt;Dauphin&lt;/a&gt;*&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Crapaud-Venimeux.html&quot; title=&quot;Grenouille venimeuse&quot;&gt;Crapaud venimeux&lt;/a&gt;*&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Poney.html&quot; title=&quot;Poney&quot;&gt;Poney&lt;/a&gt;*&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Punaise-De-Feu.html&quot; title=&quot;Punaise de feu&quot;&gt;Punaise de feu&lt;/a&gt;*&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Rat-Sanguinaire.html&quot; title=&quot;Rat sanguinaire&quot;&gt;Rat sanguinaire&lt;/a&gt;*&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Vip&#232;re.html&quot; title=&quot;Vip&#232;re&quot;&gt;Vip&#232;re&lt;/a&gt;*&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;&lt;/td&gt;&lt;td&gt;&lt;div&gt;
+&lt;table CLASS=&quot;tablo&quot;&gt;&lt;caption&gt;&lt;a class=&quot;externallink&quot; href=&quot;http://www.pathfinder-fr.org/Wiki/Ressources.Monstres%20convoqu%C3%A9s%20CM2.ashx&quot; title=&quot;Niveau 2&quot; target=&quot;_blank&quot;&gt;Niveau 2&lt;/a&gt;&lt;/caption&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td&gt;Cr&#233;ature&lt;/td&gt;&lt;td&gt;Sous-type&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier&quot;&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Araign&#233;e-G&#233;ante.html&quot; title=&quot;Araign&#233;e g&#233;ante&quot;&gt;Araign&#233;e g&#233;ante&lt;/a&gt;*&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Calmar.html&quot; title=&quot;Calmar&quot;&gt;Calmar&lt;/a&gt;*&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Cheval.html&quot; title=&quot;Cheval&quot;&gt;Cheval&lt;/a&gt;*&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Chien-Gobelin.html&quot; title=&quot;Chien gobelin&quot;&gt;Chien gobelin&lt;/a&gt;*&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;&#201;l&#233;mentaire.html&quot; title=&quot;&#201;l&#233;mentaire&quot;&gt;&#201;l&#233;mentaire&lt;/a&gt; (taille P)&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-&#201;l&#233;mentaire.html&quot; title=&quot;&#201;l&#233;mentaire (sous-type)&quot;&gt;&#201;l&#233;mentaire&lt;/a&gt;	&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Fourmi-G&#233;ante.html&quot; title=&quot;Fourmi g&#233;ante&quot;&gt;Fourmi g&#233;ante&lt;/a&gt;, ouvri&#232;re*&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Grenouille-G&#233;ante.html&quot; title=&quot;Grenouille g&#233;ante&quot;&gt;Grenouille g&#233;ante&lt;/a&gt;*&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Hy&#232;ne.html&quot; title=&quot;Hy&#232;ne&quot;&gt;Hy&#232;ne&lt;/a&gt;*&lt;/td&gt;&lt;td&gt;—	&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;L&#233;mure.html&quot; title=&quot;L&#233;mure&quot;&gt;L&#233;mure&lt;/a&gt; (diable)&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Mal.html&quot; title=&quot;Mal (sous-type)&quot;&gt;Mal&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Loi.html&quot; title=&quot;Loi (sous-type)&quot;&gt;Loi&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;	&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Loup.html&quot; title=&quot;Loup&quot;&gt;Loup&lt;/a&gt;*&lt;/td&gt;&lt;td&gt;—	&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Mille-Pattes-G&#233;ant.html&quot; title=&quot;Mille-pattes g&#233;ant&quot;&gt;Mille-pattes g&#233;ant&lt;/a&gt;*&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Pieuvre.html&quot; title=&quot;Pieuvre&quot;&gt;Pieuvre&lt;/a&gt;*&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/td&gt;
+&lt;td&gt;&lt;div&gt;
+&lt;table CLASS=&quot;tablo&quot;&gt;&lt;caption&gt;&lt;a class=&quot;externallink&quot; href=&quot;http://www.pathfinder-fr.org/Wiki/Ressources.Monstres%20convoqu%C3%A9s%20CM3.ashx&quot; title=&quot;Niveau 3&quot; target=&quot;_blank&quot;&gt;Niveau 3&lt;/a&gt;&lt;/caption&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td&gt;Cr&#233;ature&lt;/td&gt;&lt;td&gt;Sous-type&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier&quot;&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Anguille-&#201;lectrique.html&quot; title=&quot;Anguille &#233;lectrique&quot;&gt;Anguille &#233;lectrique&lt;/a&gt;*&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Archon-Lumineux.html&quot; title=&quot;Archon lumineux&quot;&gt;Archon lumineux&lt;/a&gt;&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Bien.html&quot; title=&quot;Bien (sous-type)&quot;&gt;Bien&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Loi.html&quot; title=&quot;Loi (sous-type)&quot;&gt;Loi&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Auroch.html&quot; title=&quot;Auroch&quot;&gt;Auroch&lt;/a&gt;*&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Chauve-Souris-Sanguinaire.html&quot; title=&quot;Chauve-souris sanguinaire&quot;&gt;Chauve-souris sanguinaire&lt;/a&gt;*&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Crocodile.html&quot; title=&quot;Crocodile&quot;&gt;Crocodile&lt;/a&gt;*&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Dretch.html&quot; title=&quot;Dretch&quot;&gt;Dretch&lt;/a&gt; (d&#233;mon)&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Chaos.html&quot; title=&quot;Chaos (sous-type)&quot;&gt;Chaos&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Mal.html&quot; title=&quot;Mal (sous-type)&quot;&gt;Mal&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Fourmi-G&#233;ante.html&quot; title=&quot;Fourmi g&#233;ante&quot;&gt;Fourmi g&#233;ante&lt;/a&gt;, soldat*&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Glouton.html&quot; title=&quot;Glouton&quot;&gt;Glouton&lt;/a&gt;*&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Gorille.html&quot; title=&quot;Gorille&quot;&gt;Gorille&lt;/a&gt;*&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Gu&#233;pard.html&quot; title=&quot;Gu&#233;pard&quot;&gt;Gu&#233;pard&lt;/a&gt;*&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;L&#233;opard.html&quot; title=&quot;L&#233;opard&quot;&gt;L&#233;opard&lt;/a&gt; (f&#233;lin)*&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Varan.html&quot; title=&quot;Varan&quot;&gt;Varan&lt;/a&gt;*&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Requin.html&quot; title=&quot;Requin&quot;&gt;Requin&lt;/a&gt;*&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Sanglier.html&quot; title=&quot;Sanglier&quot;&gt;Sanglier&lt;/a&gt;*&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Serpent-Constricteur.html&quot; title=&quot;Serpent constricteur&quot;&gt;Serpent constricteur&lt;/a&gt;*&lt;/td&gt;&lt;td&gt;—	&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;br /&gt;&lt;table class=&quot;page espace-col troiscol&quot;&gt;&lt;tr&gt;&lt;td&gt;&lt;div&gt;
+&lt;table CLASS=&quot;tablo&quot;&gt;&lt;caption&gt;Niveau 4&lt;/caption&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td&gt;Cr&#233;ature&lt;/td&gt;&lt;td&gt;Sous-type&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier&quot;&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Archon-Canin.html&quot; title=&quot;Archon canin&quot;&gt;Archon canin&lt;/a&gt;&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Bien.html&quot; title=&quot;Bien (sous-type)&quot;&gt;Bien&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Loi.html&quot; title=&quot;Loi (sous-type)&quot;&gt;Loi&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Bison.html&quot; title=&quot;Bison&quot;&gt;Bison&lt;/a&gt; (animal gr&#233;gaire)*&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;D&#233;inonychus.html&quot; title=&quot;D&#233;inonychus&quot;&gt;D&#233;inonychus&lt;/a&gt; (dinosaure)*&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;&#201;l&#233;mentaire.html&quot; title=&quot;&#201;l&#233;mentaire&quot;&gt;&#201;l&#233;mentaire&lt;/a&gt; (taille M)&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-&#201;l&#233;mentaire.html&quot; title=&quot;&#201;l&#233;mentaire (sous-type)&quot;&gt;&#201;l&#233;mentaire&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Fourmi-G&#233;ante.html&quot; title=&quot;Fourmi g&#233;ante&quot;&gt;Fourmi g&#233;ante&lt;/a&gt;, m&#226;le*&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Gorille-Sanguinaire.html&quot; title=&quot;Gorille sanguinaire&quot;&gt;Gorille sanguinaire&lt;/a&gt;*&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Grizzly.html&quot; title=&quot;Grizzly&quot;&gt;Grizzly&lt;/a&gt;*&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Gu&#234;pe-G&#233;ante.html&quot; title=&quot;Gu&#234;pe g&#233;ante&quot;&gt;Gu&#234;pe g&#233;ante&lt;/a&gt;*&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Lion.html&quot; title=&quot;Lion&quot;&gt;Lion&lt;/a&gt;*&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Loup-Sanguinaire.html&quot; title=&quot;Loup sanguinaire&quot;&gt;Loup sanguinaire&lt;/a&gt;*&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;M&#233;phite.html&quot; title=&quot;M&#233;phite&quot;&gt;M&#233;phite&lt;/a&gt; (tous)&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-&#201;l&#233;mentaire.html&quot; title=&quot;&#201;l&#233;mentaire (sous-type)&quot;&gt;&#201;l&#233;mentaire&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Molosse-Infernal.html&quot; title=&quot;Molosse infernal&quot;&gt;Molosse infernal&lt;/a&gt;&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Mal.html&quot; title=&quot;Mal (sous-type)&quot;&gt;Mal&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Loi.html&quot; title=&quot;Loi (sous-type)&quot;&gt;Loi&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Pt&#233;ranodon.html&quot; title=&quot;Pt&#233;ranodon&quot;&gt;Pt&#233;ranodon&lt;/a&gt; (dinosaure)*&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Rhinoc&#233;ros.html&quot; title=&quot;Rhinoc&#233;ros&quot;&gt;Rhinoc&#233;ros&lt;/a&gt;*&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Sanglier-Sanguinaire.html&quot; title=&quot;Sanglier sanguinaire&quot;&gt;Sanglier sanguinaire&lt;/a&gt;*&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Scorpion-G&#233;ant.html&quot; title=&quot;Scorpion g&#233;ant&quot;&gt;Scorpion g&#233;ant&lt;/a&gt;*&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;&lt;/td&gt;&lt;td&gt;&lt;div&gt;
+&lt;table CLASS=&quot;tablo&quot;&gt;&lt;caption&gt;Niveau 5&lt;/caption&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td&gt;Cr&#233;ature&lt;/td&gt;&lt;td&gt;Sous-type&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier&quot;&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Ankylosaure.html&quot; title=&quot;Ankylosaure&quot;&gt;Ankylosaure&lt;/a&gt; (dinosaure)*&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Babau.html&quot; title=&quot;Babau&quot;&gt;Babau&lt;/a&gt; (d&#233;mon)&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Chaos.html&quot; title=&quot;Chaos (sous-type)&quot;&gt;Chaos&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Mal.html&quot; title=&quot;Mal (sous-type)&quot;&gt;Mal&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Bralani.html&quot; title=&quot;Bralani&quot;&gt;Bralani&lt;/a&gt; (azata)&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Chaos.html&quot; title=&quot;Chaos (sous-type)&quot;&gt;Chaos&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Bien.html&quot; title=&quot;Bien (sous-type)&quot;&gt;Bien&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Diable-Barbu.html&quot; title=&quot;Diable barbu (Barbazu)&quot;&gt;Diable barbu&lt;/a&gt;&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Mal.html&quot; title=&quot;Mal (sous-type)&quot;&gt;Mal&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Loi.html&quot; title=&quot;Loi (sous-type)&quot;&gt;Loi&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;&#201;l&#233;mentaire.html&quot; title=&quot;&#201;l&#233;mentaire&quot;&gt;&#201;l&#233;mentaire&lt;/a&gt; (taille G)&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-&#201;l&#233;mentaire.html&quot; title=&quot;&#201;l&#233;mentaire (sous-type)&quot;&gt;&#201;l&#233;mentaire&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Kyton.html&quot; title=&quot;Kyton&quot;&gt;Kyton&lt;/a&gt;&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Mal.html&quot; title=&quot;Mal (sous-type)&quot;&gt;Mal&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Loi.html&quot; title=&quot;Loi (sous-type)&quot;&gt;Loi&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Lion-Sanguinaire.html&quot; title=&quot;Lion sanguinaire (lion tachet&#233;)&quot;&gt;Lion sanguinaire&lt;/a&gt;*&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Mur&#232;ne-G&#233;ante.html&quot; title=&quot;Mur&#232;ne g&#233;ante&quot;&gt;Mur&#232;ne g&#233;ante&lt;/a&gt;*&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Orque-&#201;paulard.html&quot; title=&quot;Orque &#233;paulard&quot;&gt;Orque &#233;paulard&lt;/a&gt; (baleine)*&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Rhinoc&#233;ros-Laineux.html&quot; title=&quot;Rhinoc&#233;ros laineux&quot;&gt;Rhinoc&#233;ros laineux&lt;/a&gt;*&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Salamandre.html&quot; title=&quot;Salamandre&quot;&gt;Salamandre&lt;/a&gt;&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Mal.html&quot; title=&quot;Mal (sous-type)&quot;&gt;Mal&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Xill.html&quot; title=&quot;Xill&quot;&gt;Xill&lt;/a&gt;&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Mal.html&quot; title=&quot;Mal (sous-type)&quot;&gt;Mal&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Loi.html&quot; title=&quot;Loi (sous-type)&quot;&gt;Loi&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;&lt;/td&gt;&lt;td&gt;&lt;div&gt;
+&lt;table CLASS=&quot;tablo&quot;&gt;&lt;caption&gt;Niveau 6&lt;/caption&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td&gt;Cr&#233;ature&lt;/td&gt;&lt;td&gt;Sous-type&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier&quot;&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;D&#233;mon-Des-Ombres.html&quot; title=&quot;D&#233;mon des ombres&quot;&gt;D&#233;mon d’ombre&lt;/a&gt;&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Chaos.html&quot; title=&quot;Chaos (sous-type)&quot;&gt;Chaos&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Mal.html&quot; title=&quot;Mal (sous-type)&quot;&gt;Mal&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;&#201;lasmosaure.html&quot; title=&quot;&#201;lasmosaure&quot;&gt;&#201;lasmosaure&lt;/a&gt; (dinosaure)*&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;&#201;l&#233;mentaire.html&quot; title=&quot;&#201;l&#233;mentaire&quot;&gt;&#201;l&#233;mentaire&lt;/a&gt; (TG)&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-&#201;l&#233;mentaire.html&quot; title=&quot;&#201;l&#233;mentaire (sous-type)&quot;&gt;&#201;l&#233;mentaire&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;&#201;l&#233;phant.html&quot; title=&quot;&#201;l&#233;phant&quot;&gt;&#201;l&#233;phant&lt;/a&gt;*&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;&#201;rinye.html&quot; title=&quot;&#201;rinye&quot;&gt;&#201;rinye&lt;/a&gt; (diable)&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Mal.html&quot; title=&quot;Mal (sous-type)&quot;&gt;Mal&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Loi.html&quot; title=&quot;Loi (sous-type)&quot;&gt;Loi&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Lillende.html&quot; title=&quot;Lillende&quot;&gt;Lillende&lt;/a&gt; (azata)&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Bien.html&quot; title=&quot;Bien (sous-type)&quot;&gt;Bien&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Chaos.html&quot; title=&quot;Chaos (sous-type)&quot;&gt;Chaos&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Ours-Sanguinaire.html&quot; title=&quot;Ours sanguinaire&quot;&gt;Ours sanguinaire&lt;/a&gt;*&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Pieuvre-G&#233;ante.html&quot; title=&quot;Pieuvre g&#233;ante&quot;&gt;Pieuvre g&#233;ante&lt;/a&gt;*&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Succube.html&quot; title=&quot;Succube&quot;&gt;Succube&lt;/a&gt; (d&#233;mon)&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Chaos.html&quot; title=&quot;Chaos (sous-type)&quot;&gt;Chaos&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Mal.html&quot; title=&quot;Mal (sous-type)&quot;&gt;Mal&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Tigre-Sanguinaire.html&quot; title=&quot;Tigre sanguinaire (smilodon)&quot;&gt;Tigre sanguinaire&lt;/a&gt;*&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Traqueur-Invisible.html&quot; title=&quot;Traqueur invisible&quot;&gt;Traqueur invisible&lt;/a&gt;&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Air.html&quot; title=&quot;Air (sous-type)&quot;&gt;Air&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Tric&#233;ratops.html&quot; title=&quot;Tric&#233;ratops&quot;&gt;Tric&#233;ratops&lt;/a&gt; (dinosaure)*&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;div&gt;
+&lt;table CLASS=&quot;tablo&quot;&gt;&lt;caption&gt;Niveau 7&lt;/caption&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td&gt;Cr&#233;ature&lt;/td&gt;&lt;td&gt;Sous-type&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier&quot;&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;B&#233;bilith.html&quot; title=&quot;B&#233;bilith&quot;&gt;B&#233;bilith&lt;/a&gt; (d&#233;mon)&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Chaos.html&quot; title=&quot;Chaos (sous-type)&quot;&gt;Chaos&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Mal.html&quot; title=&quot;Mal (sous-type)&quot;&gt;Mal&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Brachiosaure.html&quot; title=&quot;Brachiosaure&quot;&gt;Brachiosaure&lt;/a&gt; (dinosaure)*&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Calmar-G&#233;ant.html&quot; title=&quot;Calmar g&#233;ant&quot;&gt;Calmar g&#233;ant&lt;/a&gt;*&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Crocodile-Sanguinaire.html&quot; title=&quot;Crocodile sanguinaire&quot;&gt;Crocodile sanguinaire&lt;/a&gt;*&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Diable-Osseux.html&quot; title=&quot;Diable osseux (Osyluth)&quot;&gt;Diable osseux&lt;/a&gt;&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Mal.html&quot; title=&quot;Mal (sous-type)&quot;&gt;Mal&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Loi.html&quot; title=&quot;Loi (sous-type)&quot;&gt;Loi&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;&#201;l&#233;mentaire.html&quot; title=&quot;&#201;l&#233;mentaire&quot;&gt;&#201;l&#233;mentaire noble&lt;/a&gt;&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-&#201;l&#233;mentaire.html&quot; title=&quot;&#201;l&#233;mentaire (sous-type)&quot;&gt;&#201;l&#233;mentaire&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Mastodonte.html&quot; title=&quot;Mastodonte&quot;&gt;Mastodonte&lt;/a&gt; (&#233;l&#233;phant)*&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Requin-Sanguinaire.html&quot; title=&quot;Requin sanguinaire (m&#233;galodon)&quot;&gt;Requin sanguinaire&lt;/a&gt;*&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Roc.html&quot; title=&quot;Roc&quot;&gt;Roc&lt;/a&gt;*&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Tyrannosaure.html&quot; title=&quot;Tyrannosaure&quot;&gt;Tyrannosaure&lt;/a&gt; (dinosaure)*&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Vrock.html&quot; title=&quot;Vrock&quot;&gt;Vrock&lt;/a&gt; (d&#233;mon)&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Chaos.html&quot; title=&quot;Chaos (sous-type)&quot;&gt;Chaos&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Mal.html&quot; title=&quot;Mal (sous-type)&quot;&gt;Mal&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;&lt;/td&gt;&lt;td&gt;&lt;div&gt;
+&lt;table CLASS=&quot;tablo&quot;&gt;&lt;caption&gt;Niveau 8&lt;/caption&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td&gt;Cr&#233;ature&lt;/td&gt;&lt;td&gt;Sous-type&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier&quot;&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Diable-Barbel&#233;.html&quot; title=&quot;Diable barbel&#233; (Hamatula)&quot;&gt;Diable barbel&#233;&lt;/a&gt;&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Mal.html&quot; title=&quot;Mal (sous-type)&quot;&gt;Mal&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Loi.html&quot; title=&quot;Loi (sous-type)&quot;&gt;Loi&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Hezrou.html&quot; title=&quot;Hezrou&quot;&gt;Hezrou&lt;/a&gt; (d&#233;mon)&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Chaos.html&quot; title=&quot;Chaos (sous-type)&quot;&gt;Chaos&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Mal.html&quot; title=&quot;Mal (sous-type)&quot;&gt;Mal&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;&#201;l&#233;mentaire.html&quot; title=&quot;&#201;l&#233;mentaire&quot;&gt;Seigneur &#233;l&#233;mentaire&lt;/a&gt;&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-&#201;l&#233;mentaire.html&quot; title=&quot;&#201;l&#233;mentaire (sous-type)&quot;&gt;&#201;l&#233;mentaire&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;&lt;/td&gt;&lt;td&gt;&lt;div&gt;
+&lt;table CLASS=&quot;tablo&quot;&gt;&lt;caption&gt;Niveau 9&lt;/caption&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td&gt;Cr&#233;ature&lt;/td&gt;&lt;td&gt;Sous-type&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier&quot;&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Archon-Messager.html&quot; title=&quot;Archon messager&quot;&gt;Archon messager&lt;/a&gt;&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Bien.html&quot; title=&quot;Bien (sous-type)&quot;&gt;Bien&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Loi.html&quot; title=&quot;Loi (sous-type)&quot;&gt;Loi&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;D&#233;va-Astral.html&quot; title=&quot;D&#233;va astral&quot;&gt;D&#233;va astral&lt;/a&gt; (ange)&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Bien.html&quot; title=&quot;Bien (sous-type)&quot;&gt;Bien&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Diable-Des-Glaces.html&quot; title=&quot;Diable des glaces (Gelugon)&quot;&gt;Diable des glaces&lt;/a&gt;&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Mal.html&quot; title=&quot;Mal (sous-type)&quot;&gt;Mal&lt;/a&gt;,&lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Loi.html&quot; title=&quot;Loi (sous-type)&quot;&gt;Loi&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Gha&#233;le.html&quot; title=&quot;Gha&#233;le&quot;&gt;Gha&#233;le&lt;/a&gt; (azata)&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Bien.html&quot; title=&quot;Bien (sous-type)&quot;&gt;Bien&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Chaos.html&quot; title=&quot;Chaos (sous-type)&quot;&gt;Chaos&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Glabrezu.html&quot; title=&quot;Glabrezu&quot;&gt;Glabrezu&lt;/a&gt; (d&#233;mon)&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Chaos.html&quot; title=&quot;Chaos (sous-type)&quot;&gt;Chaos&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Mal.html&quot; title=&quot;Mal (sous-type)&quot;&gt;Mal&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Nalfeshnie.html&quot; title=&quot;Nalfeshnie&quot;&gt;Nalfeshnie&lt;/a&gt; (d&#233;mon)&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Chaos.html&quot; title=&quot;Chaos (sous-type)&quot;&gt;Chaos&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Mal.html&quot; title=&quot;Mal (sous-type)&quot;&gt;Mal&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;br /&gt;&lt;i&gt;(*) Le personnage invoque cette cr&#233;ature avec l’arch&#233;type c&#233;leste s’il est d’alignement Bon ou fi&#233;lon s’il est d’alignement Mauvais. Si le personnage est Neutre, il peut choisir.&lt;/i&gt;
+]]></body>
+  <raw><![CDATA[=== Liens vers les sorts ===
+
+* [[Convocation de monstres I]]
+* [[Convocation de monstres II]]
+* [[Convocation de monstres III]]
+* [[Convocation de monstres IV]]
+* [[Convocation de monstres V]]
+* [[Convocation de monstres VI]]
+* [[Convocation de monstres VII]]
+* [[Convocation de monstres VIII]]
+* [[Convocation de monstres IX]]
+
+=== Listes de créatures ===
+[http://www.pathfinder-fr.org/Wiki/Ressources.Monstres%20convoqu%C3%A9s.ashx|Caractéristiques détaillées des monstres]
+
+<table class="page espace-col troiscol"><tr><td><div>
+{| CLASS="tablo"
+|+ [http://www.pathfinder-fr.org/Wiki/Ressources.Monstres%20convoqu%C3%A9s%20CM1.ashx|Niveau 1]
+|- CLASS="titre centre"
+| Créature || Sous-type
+|- CLASS="premier"
+| [[Aigle]]* || —
+|- CLASS="alt"
+| [[Chien]]* || —
+|-
+| [[Dauphin]]* || —
+|- CLASS="alt"
+| [[Crapaud venimeux]]* || —
+|-
+| [[Poney]]* || —
+|- CLASS="alt"
+| [[Punaise de feu]]* || —
+|-
+| [[Rat sanguinaire]]* || —
+|- CLASS="alt"
+| [[Vipère]]* || —
+|-
+|}
+</div></td><td><div>
+{| CLASS="tablo"
+|+ [http://www.pathfinder-fr.org/Wiki/Ressources.Monstres%20convoqu%C3%A9s%20CM2.ashx|Niveau 2]
+|- CLASS="titre"
+| Créature || Sous-type
+|- CLASS="premier"
+| [[Araignée géante]]* || —
+|- CLASS="alt"
+| [[Calmar]]* || —
+|-
+| [[Cheval]]* || —
+|- CLASS="alt"
+| [[Chien gobelin]]* || —
+|-
+| [[Élémentaire]] (taille P) || [[sous-type Élémentaire|Élémentaire]]	
+|- CLASS="alt"
+| [[Fourmi géante]], ouvrière* || —
+|-
+| [[Grenouille géante]]* || —
+|- CLASS="alt"
+| [[Hyène]]* || —	
+|-	
+| [[Lémure]] (diable) || [[sous-type Mal|Mal]], [[sous-type Loi|Loi]]
+|- CLASS="alt"	
+| [[Loup]]* || —	
+|-	
+| [[Mille-pattes géant]]* || —
+|- CLASS="alt"
+| [[Pieuvre]]* || —
+|-
+|}
+</div>
+</td>
+<td><div>
+{| CLASS="tablo"
+|+ [http://www.pathfinder-fr.org/Wiki/Ressources.Monstres%20convoqu%C3%A9s%20CM3.ashx|Niveau 3]
+|- CLASS="titre"
+| Créature || Sous-type
+|- CLASS="premier"
+| [[Anguille électrique]]* || —
+|- CLASS="alt"
+| [[Archon lumineux]] || [[sous-type Bien|Bien]], [[sous-type Loi|Loi]]
+|-
+| [[Auroch]]* || —
+|- CLASS="alt"
+| [[Chauve-souris sanguinaire]]* || —
+|-
+| [[Crocodile]]* || —
+|- CLASS="alt"
+| [[Dretch]] (démon) || [[sous-type Chaos|Chaos]], [[sous-type Mal|Mal]]
+|-
+| [[Fourmi géante]], soldat* || —
+|- CLASS="alt"
+| [[Glouton]]* || —
+|-
+| [[Gorille]]* || —
+|- CLASS="alt"
+| [[Guépard]]* || —
+|-
+| [[Léopard]] (félin)* || —
+|- CLASS="alt"
+| [[Varan]]* || —
+|-
+| [[Requin]]* || —
+|- CLASS="alt"
+| [[Sanglier]]* || —
+|-
+| [[Serpent constricteur]]* || —	
+|}
+</div>
+</td></tr></table>
+
+<table class="page espace-col troiscol"><tr><td><div>
+{| CLASS="tablo"
+|+ Niveau 4
+|- CLASS="titre"
+| Créature || Sous-type
+|- CLASS="premier"
+| [[Archon canin]] || [[sous-type Bien|Bien]], [[sous-type Loi|Loi]]
+|- CLASS="alt"
+| [[Bison]] (animal grégaire)* || —
+|-
+| [[Déinonychus]] (dinosaure)* || —
+|- CLASS="alt"
+| [[Élémentaire]] (taille M) || [[sous-type Élémentaire|Élémentaire]]
+|-
+| [[Fourmi géante]], mâle* || —
+|- CLASS="alt"
+| [[Gorille sanguinaire]]* || —
+|-
+| [[Grizzly]]* || —
+|- CLASS="alt"
+| [[Guêpe géante]]* || —
+|-
+| [[Lion]]* || —
+|- CLASS="alt"
+| [[Loup sanguinaire]]* || —
+|-
+| [[Méphite]] (tous) || [[sous-type Élémentaire|Élémentaire]]
+|- CLASS="alt"
+| [[Molosse infernal]] || [[sous-type Mal|Mal]], [[sous-type Loi|Loi]]
+|-
+| [[Ptéranodon]] (dinosaure)* || —
+|- CLASS="alt"
+| [[Rhinocéros]]* || —
+|-
+| [[Sanglier sanguinaire]]* || —
+|- CLASS="alt"
+| [[Scorpion géant]]* || —
+|}
+</div></td><td><div>
+{| CLASS="tablo"
+|+ Niveau 5
+|- CLASS="titre"
+| Créature || Sous-type
+|- CLASS="premier"
+| [[Ankylosaure]] (dinosaure)* || —
+|- CLASS="alt"
+| [[Babau]] (démon) || [[sous-type Chaos|Chaos]], [[sous-type Mal|Mal]]
+|-
+| [[Bralani]] (azata) || [[sous-type Chaos|Chaos]], [[sous-type Bien|Bien]]
+|- CLASS="alt"
+| [[Diable barbu]] || [[sous-type Mal|Mal]], [[sous-type Loi|Loi]]
+|-
+| [[Élémentaire]] (taille G) || [[sous-type Élémentaire|Élémentaire]]
+|- CLASS="alt"
+| [[Kyton]] || [[sous-type Mal|Mal]], [[sous-type Loi|Loi]]
+|-
+| [[Lion sanguinaire]]* || —
+|- CLASS="alt"
+| [[Murène géante]]* || —
+|-
+| [[Orque épaulard]] (baleine)* || —
+|- CLASS="alt"
+| [[Rhinocéros laineux]]* || —
+|-
+| [[Salamandre]] || [[sous-type Mal|Mal]]
+|- CLASS="alt"
+| [[Xill]] || [[sous-type Mal|Mal]], [[sous-type Loi|Loi]]
+|}
+</div></td><td><div>
+{| CLASS="tablo"
+|+ Niveau 6
+|- CLASS="titre"
+| Créature || Sous-type
+|- CLASS="premier"
+| [[Démon des ombres|Démon d’ombre]] || [[sous-type Chaos|Chaos]], [[sous-type Mal|Mal]]
+|- CLASS="alt"
+| [[Élasmosaure]] (dinosaure)* || —
+|-
+| [[Élémentaire]] (TG) || [[sous-type Élémentaire|Élémentaire]]
+|- CLASS="alt"
+| [[Éléphant]]* || —
+|-
+| [[Érinye]] (diable) || [[sous-type Mal|Mal]], [[sous-type Loi|Loi]]
+|- CLASS="alt"
+| [[Lillende]] (azata) || [[sous-type Bien|Bien]], [[sous-type Chaos|Chaos]]
+|-
+| [[Ours sanguinaire]]* || —
+|- CLASS="alt"
+| [[Pieuvre géante]]* || —
+|-
+| [[Succube]] (démon) || [[sous-type Chaos|Chaos]], [[sous-type Mal|Mal]]
+|- CLASS="alt"
+| [[Tigre sanguinaire]]* || —
+|-
+| [[Traqueur invisible]] || [[sous-type Air|Air]]
+|- CLASS="alt"
+| [[Tricératops]] (dinosaure)* || —
+|}
+</div></td></tr>
+<tr><td><div>
+{| CLASS="tablo"
+|+ Niveau 7
+|- CLASS="titre"
+| Créature || Sous-type
+|- CLASS="premier"
+| [[Bébilith]] (démon) || [[sous-type Chaos|Chaos]], [[sous-type Mal|Mal]]
+|- CLASS="alt"
+| [[Brachiosaure]] (dinosaure)* || —
+|-
+| [[Calmar géant]]* || —
+|- CLASS="alt"
+| [[Crocodile sanguinaire]]* || —
+|-
+| [[Diable osseux]] || [[sous-type Mal|Mal]], [[sous-type Loi|Loi]]
+|- CLASS="alt"
+| [[Élémentaire|Élémentaire noble]] || [[sous-type Élémentaire|Élémentaire]]
+|-
+| [[Mastodonte]] (éléphant)* || —
+|- CLASS="alt"
+| [[Requin sanguinaire]]* || —
+|-
+| [[Roc]]* || —
+|- CLASS="alt"
+| [[Tyrannosaure]] (dinosaure)* || —
+|-
+| [[Vrock]] (démon) || [[sous-type Chaos|Chaos]], [[sous-type Mal|Mal]]
+|}
+</div></td><td><div>
+{| CLASS="tablo"
+|+ Niveau 8
+|- CLASS="titre"
+| Créature || Sous-type
+|- CLASS="premier"
+| [[Diable barbelé]] || [[sous-type Mal|Mal]], [[sous-type Loi|Loi]]
+|- CLASS="alt"
+| [[Hezrou]] (démon) || [[sous-type Chaos|Chaos]], [[sous-type Mal|Mal]]
+|-
+| [[Élémentaire|Seigneur élémentaire]] || [[sous-type Élémentaire|Élémentaire]]
+|}
+</div></td><td><div>
+{| CLASS="tablo"
+|+ Niveau 9
+|- CLASS="titre"
+| Créature || Sous-type
+|- CLASS="premier"
+| [[Archon messager]] || [[sous-type Bien|Bien]], [[sous-type Loi|Loi]]
+|- CLASS="alt"
+| [[Déva astral]] (ange) || [[sous-type Bien|Bien]]
+|-
+| [[Diable des glaces]] || [[sous-type Mal|Mal]],[[sous-type Loi|Loi]]
+|- CLASS="alt"
+| [[Ghaéle]] (azata) || [[sous-type Bien|Bien]], [[sous-type Chaos|Chaos]]
+|-
+| [[Glabrezu]] (démon) || [[sous-type Chaos|Chaos]], [[sous-type Mal|Mal]]
+|- CLASS="alt"
+| [[Nalfeshnie]] (démon) || [[sous-type Chaos|Chaos]], [[sous-type Mal|Mal]]
+|}
+</div></td></tr></table>
+
+''(*) Le personnage invoque cette créature avec l’archétype céleste s’il est d’alignement Bon ou fiélon s’il est d’alignement Mauvais. Si le personnage est Neutre, il peut choisir.'']]></raw>
+  <fullName>Pathfinder-RPG.Convocation de monstres</fullName>
+</wikiPage>

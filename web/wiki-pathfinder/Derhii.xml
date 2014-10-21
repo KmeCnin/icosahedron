@@ -1,0 +1,151 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Derhii</title>
+  <categories><category>Pathfinder-RPG.Bestiaire 3</category><category>Pathfinder-RPG.Monstre</category><category>Pathfinder-RPG.Règles officielles</category></categories>
+  <lastModified>2014-01-21 23:43:57Z</lastModified>
+  <version>3</version>
+  <inLinks><link>Pathfinder-RPG.Glossaire des monstres</link><link>Pathfinder-RPG.Liste de monstres par FP</link><link>Pathfinder-RPG.Liste de monstres par milieu naturel</link><link>Pathfinder-RPG.Liste de monstres par type</link><link>Pathfinder-RPG.Monstres</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.type Humanoïde monstrueux</link><link>Pathfinder-RPG.Odorat (capacité)</link><link>Pathfinder-RPG.vision dans le noir</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Vol (capacité)</link><link>Pathfinder-RPG.Attaques réflexes</link><link>Pathfinder-RPG.Talent</link><link>Pathfinder-RPG.Volonté de fer</link><link>Pathfinder-RPG.Voltigeur</link><link>Pathfinder-RPG.Acrobaties</link><link>Pathfinder-RPG.Escalade</link><link>Pathfinder-RPG.Vol</link><link>Pathfinder-RPG.coup critique</link><link>Pathfinder-RPG.Manœuvres offensives</link><link>Pathfinder-RPG.Valeurs de combat</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Derhii&lt;div style=&quot;float:right;&quot;&gt;FP 5&lt;/div&gt;&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Bestiaire 3&lt;/i&gt; p.77
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 1 600
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Humano&#239;de-Monstrueux.html&quot; title=&quot;Humano&#239;de monstrueux&quot;&gt;Humano&#239;de monstrueux&lt;/a&gt; de taille G, N
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +3 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Odorat-(Capacit&#233;).html&quot; title=&quot;Odorat (Ext)&quot;&gt;odorat&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Capacit&#233;s-Sp&#233;ciales.html#VISIONDANSLENOIR&quot; title=&quot;vision dans le noir&quot;&gt;vision dans le noir&lt;/a&gt; 18 m (12 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +14
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 18, contact 12, pris au d&#233;pourvu 15 (Dex +3, naturelle +6, taille -1)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 59 (7d10+21)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +8, &lt;b&gt;Vig&lt;/b&gt; +5, &lt;b&gt;Vol&lt;/b&gt; +8
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 9 m (6 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), escalade 9 m (6 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), &lt;a class=&quot;pagelink&quot; href=&quot;Vol-(Capacit&#233;).html&quot; title=&quot;Vol (Ext ou Sur)&quot;&gt;vol&lt;/a&gt; 18 m (12 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) (m&#233;diocre)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; cimeterre de ma&#238;tre &#224; deux mains, +12/+7 (2d6+7/18-20) ou 2 coups, +11 (1d6+5)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;&#192; distance&lt;/b&gt; javeline +9 (1d8+5)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Espace occup&#233;&lt;/b&gt; 3 m (2 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;); &lt;b&gt;Allonge&lt;/b&gt; 3m (2 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaques sp&#233;ciales&lt;/b&gt; charge a&#233;rienne, renverser
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 21, &lt;b&gt;Dex&lt;/b&gt; 16, &lt;b&gt;Con&lt;/b&gt; 17, &lt;b&gt;Int&lt;/b&gt; 9, &lt;b&gt;Sag&lt;/b&gt; 12, &lt;b&gt;Cha&lt;/b&gt; 10
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +7 ; &lt;b&gt;BMO&lt;/b&gt; +13 ; &lt;b&gt;DMD&lt;/b&gt; 26
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Attaques-R&#233;flexes.html&quot; title=&quot;Attaques r&#233;flexes&quot;&gt;Attaques r&#233;flexes&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Talent.html&quot; title=&quot;Talent&quot;&gt;Talent&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt;), &lt;a class=&quot;pagelink&quot; href=&quot;Volont&#233;-De-Fer.html&quot; title=&quot;Volont&#233; de fer&quot;&gt;Volont&#233; de fer&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Voltigeur.html&quot; title=&quot;Voltigeur&quot;&gt;Voltigeur&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Acrobaties.html&quot; title=&quot;Acrobaties&quot;&gt;Acrobaties&lt;/a&gt; +12, &lt;a class=&quot;pagelink&quot; href=&quot;Escalade.html&quot; title=&quot;Escalade&quot;&gt;Escalade&lt;/a&gt; +13, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +14, &lt;a class=&quot;pagelink&quot; href=&quot;Vol.html&quot; title=&quot;Vol&quot;&gt;Vol&lt;/a&gt; +9
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Langues&lt;/b&gt; a&#233;rien, commun
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Particularit&#233;&lt;/b&gt; voix tonitruante
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; for&#234;ts chaudes et montagnes
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation&lt;/b&gt; solitaire, couple, troupe (3-5) ou tribu (8-48)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; standard (cimeterre &#224; deux mains de ma&#238;tre, 4 javelines, autre tr&#233;sor)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Pouvoirs sp&#233;ciaux&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Charge a&#233;rienne (Ext).&lt;/b&gt; Lorsqu’il est dans les airs, le derhii peut plonger &#224; deux fois sa vitesse normale de vol. Ce d&#233;placement &#233;quivaut &#224; une charge et fait b&#233;n&#233;ficier le derhii d’un bonus de +2 &#224; son jet d’attaque mais l’afflige d’un malus de -2 &#224; la CA.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Renverser (Ext).&lt;/b&gt; Lorsque le derhii confirme un &lt;a class=&quot;pagelink&quot; href=&quot;Actions-Simples.html#COUPCRITIQUE&quot; title=&quot;coup critique&quot;&gt;coup critique&lt;/a&gt; avec une arme &#224; deux mains, il a une chance de faire tomber son adversaire &#224; terre en plus de lui infliger les d&#233;g&#226;ts du coup critique. Si le jet de confirmation du derhii est sup&#233;rieur au &lt;a class=&quot;pagelink&quot; href=&quot;Manœuvres-Offensives.html&quot; title=&quot;Les manœuvres de combat&quot;&gt;BMO&lt;/a&gt; de l’adversaire, ce dernier tombe &#224; terre comme s’il avait fait l’objet d’un &lt;a class=&quot;pagelink&quot; href=&quot;Manœuvres-Offensives.html#CROCENJAMBE&quot; title=&quot;Les manœuvres de combat&quot;&gt;croc-en-jambe&lt;/a&gt;. Ceci ne provoque pas d’&lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#ATTAQUEDOPPORTUNITE&quot; title=&quot;Valeurs de combat&quot;&gt;attaque d’opportunit&#233;&lt;/a&gt;, et l’adversaire ne peut pas faire de &lt;a class=&quot;pagelink&quot; href=&quot;Manœuvres-Offensives.html#CROCENJAMBE&quot; title=&quot;Les manœuvres de combat&quot;&gt;croc-en-jambe&lt;/a&gt; au derhii, m&#234;me si le jet de confirmation exc&#232;de le &lt;a class=&quot;pagelink&quot; href=&quot;Manœuvres-Offensives.html&quot; title=&quot;Les manœuvres de combat&quot;&gt;BMO&lt;/a&gt; de la victime.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Voix tonitruante (Ext).&lt;/b&gt; Le derhii peut se servir de sa voix tonitruante comme d’un signal. On l’entend &#224; une distance maximale de 19 kilom&#232;tres comme une vibration de l’air transmettant 20 mots d’information en 5 minutes.
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;td&gt;&lt;div&gt;
+&lt;i&gt;Ce grand singe est pourvu de puissantes ailes noires et tient une &#233;p&#233;e vicieusement incurv&#233;e dans ses mains simiesques.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Le derhii, ou singe volant, est une version dangereuse et carnivore du grand singe terrestre, plus doux. Les derhiis
+ressemblent &#224; des gorilles avec d’&#233;normes ailes grises et noires de buse ou de vautour. Ils mesurent 2,70
+m&#232;tres et p&#232;sent 200 kilos.&lt;br /&gt;
+Les derhiis forment des groupes assez restreints que l’on appelle couramment des troupes et qui se composent g&#233;n&#233;ralement d’un m&#226;le adulte, de plusieurs femelles adultes et de leurs petits. Il arrive parfois que plusieurs m&#226;les
+ou femelles se regroupent en troupes unisexes, sans petits, mais ces groupes se forment g&#233;n&#233;ralement dans un but bien pr&#233;cis tel que la chasse, le pillage ou la guerre, apr&#232;s quoi ils se s&#233;parent. Les grandes tribus
+primitives de derhiis se composent de multiples troupes et sont en principe dirig&#233;es par un seul chef puissant.&lt;br /&gt;
+Les derhiis nichent souvent dans les feuillages de la jungle ou dans des repaires escarp&#233;s, pr&#233;f&#233;rant installer leurs nids en hauteur, dans les grands arbres ou dans les grottes &#224; flanc de falaise. Du haut de leurs perchoirs, les derhiis exigent parfois un tribut de la part singes inf&#233;rieurs tandis qu’eux m&#234;mes s’allient &#224; des cr&#233;atures volantes plus puissantes encore, comme les dragons ou les dragonnes. On trouve, &#224; l’occasion, des derhiis vivant dans des ruines effondr&#233;es et envahies par la v&#233;g&#233;tation cach&#233;es au fin fond de la jungle.&lt;br /&gt;
+Les derhiis sont carnivores par nature et chasseurs par pr&#233;f&#233;rence. Ils attaquent leurs proies depuis les hauteurs,
+lan&#231;ant leurs javelines de leurs bras puissants avant de descendre terminer le travail avec leurs lames. Lorsque la
+viande se fait rare, ils se nourrissent de fruits et de racines ou de tout ce qu’ils trouvent &#224; ramasser.
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Derhii|FP 5}
+{s:pucem|Humanoïde monstrueux|Forêt-Jungle|Tropical}
+{s:BDTexte|''Source : Bestiaire 3'' p.77}
+{s:BDTexte|'''PX''' 1 600}
+{s:BDTexte|[[type Humanoïde monstrueux|Humanoïde monstrueux]] de taille G, N}
+{s:BDTexte|'''Init''' +3 ; '''Sens''' [[Odorat (capacité)|odorat]], [[vision dans le noir]] 18 m (12 {s:c}) ; [[Perception]] +14}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 18, contact 12, pris au dépourvu 15 (Dex +3, naturelle +6, taille -1)}
+{s:BDTexte|'''pv''' 59 (7d10+21)}
+{s:BDTexte|'''Réf''' +8, '''Vig''' +5, '''Vol''' +8}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 9 m (6 {s:c}), escalade 9 m (6 {s:c}), [[Vol (capacité)|vol]] 18 m (12 {s:c}) (médiocre)}
+{s:BDTexte|'''Corps à corps''' cimeterre de maître à deux mains, +12/+7 (2d6+7/18-20) ou 2 coups, +11 (1d6+5)}
+{s:BDTexte|'''À distance''' javeline +9 (1d8+5)}
+{s:BDTexte|'''Espace occupé''' 3 m (2 {s:c}); '''Allonge''' 3m (2 {s:c})}
+{s:BDTexte|'''Attaques spéciales''' charge aérienne, renverser}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 21, '''Dex''' 16, '''Con''' 17, '''Int''' 9, '''Sag''' 12, '''Cha''' 10}
+{s:BDTexte|'''BBA''' +7 ; '''BMO''' +13 ; '''DMD''' 26}
+{s:BDTexte|'''Dons''' [[Attaques réflexes]], [[Talent]] ([[Perception]]), [[Volonté de fer]], [[Voltigeur]]}
+{s:BDTexte|'''Compétences''' [[Acrobaties]] +12, [[Escalade]] +13, [[Perception]] +14, [[Vol]] +9}
+{s:BDTexte|'''Langues''' aérien, commun}
+{s:BDTexte|'''Particularité''' voix tonitruante}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' forêts chaudes et montagnes}
+{s:BDTexte|'''Organisation''' solitaire, couple, troupe (3-5) ou tribu (8-48)}
+{s:BDTexte|'''Trésor''' standard (cimeterre à deux mains de maître, 4 javelines, autre trésor)}
+{s:BDSousTitre|Pouvoirs spéciaux}
+{s:BDTexte|'''Charge aérienne (Ext).''' Lorsqu’il est dans les airs, le derhii peut plonger à deux fois sa vitesse normale de vol. Ce déplacement équivaut à une charge et fait bénéficier le derhii d’un bonus de +2 à son jet d’attaque mais l’afflige d’un malus de -2 à la CA.}
+{s:BDTexte|'''Renverser (Ext).''' Lorsque le derhii confirme un [[coup critique]] avec une arme à deux mains, il a une chance de faire tomber son adversaire à terre en plus de lui infliger les dégâts du coup critique. Si le jet de confirmation du derhii est supérieur au [[Manœuvres offensives|BMO]] de l’adversaire, ce dernier tombe à terre comme s’il avait fait l’objet d’un [[Manœuvres offensives#CROCENJAMBE|croc-en-jambe]]. Ceci ne provoque pas d’[[Valeurs de combat#ATTAQUEDOPPORTUNITE|attaque d’opportunité]], et l’adversaire ne peut pas faire de [[Manœuvres offensives#CROCENJAMBE|croc-en-jambe]] au derhii, même si le jet de confirmation excède le [[Manœuvres offensives|BMO]] de la victime.}
+{s:BDTexte|'''Voix tonitruante (Ext).''' Le derhii peut se servir de sa voix tonitruante comme d’un signal. On l’entend à une distance maximale de 19 kilomètres comme une vibration de l’air transmettant 20 mots d’information en 5 minutes.}
+</div>
+</td><td><div>
+''Ce grand singe est pourvu de puissantes ailes noires et tient une épée vicieusement incurvée dans ses mains simiesques.''
+
+Le derhii, ou singe volant, est une version dangereuse et carnivore du grand singe terrestre, plus doux. Les derhiis
+ressemblent à des gorilles avec d’énormes ailes grises et noires de buse ou de vautour. Ils mesurent 2,70
+mètres et pèsent 200 kilos.<br>
+Les derhiis forment des groupes assez restreints que l’on appelle couramment des troupes et qui se composent généralement d’un mâle adulte, de plusieurs femelles adultes et de leurs petits. Il arrive parfois que plusieurs mâles
+ou femelles se regroupent en troupes unisexes, sans petits, mais ces groupes se forment généralement dans un but bien précis tel que la chasse, le pillage ou la guerre, après quoi ils se séparent. Les grandes tribus
+primitives de derhiis se composent de multiples troupes et sont en principe dirigées par un seul chef puissant.<br>
+Les derhiis nichent souvent dans les feuillages de la jungle ou dans des repaires escarpés, préférant installer leurs nids en hauteur, dans les grands arbres ou dans les grottes à flanc de falaise. Du haut de leurs perchoirs, les derhiis exigent parfois un tribut de la part singes inférieurs tandis qu’eux mêmes s’allient à des créatures volantes plus puissantes encore, comme les dragons ou les dragonnes. On trouve, à l’occasion, des derhiis vivant dans des ruines effondrées et envahies par la végétation cachées au fin fond de la jungle.<br>
+Les derhiis sont carnivores par nature et chasseurs par préférence. Ils attaquent leurs proies depuis les hauteurs,
+lançant leurs javelines de leurs bras puissants avant de descendre terminer le travail avec leurs lames. Lorsque la
+viande se fait rare, ils se nourrissent de fruits et de racines ou de tout ce qu’ils trouvent à ramasser.
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Derhii</fullName>
+</wikiPage>

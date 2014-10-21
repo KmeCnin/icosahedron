@@ -1,0 +1,160 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Léopard</title>
+  <categories><category>Pathfinder-RPG.Bestiaire</category><category>Pathfinder-RPG.Monstre</category><category>Pathfinder-RPG.Règles officielles</category></categories>
+  <lastModified>2014-08-04 20:42:20Z</lastModified>
+  <version>7</version>
+  <inLinks><link>Pathfinder-RPG.Convocation dalliés naturels</link><link>Pathfinder-RPG.Convocation de monstres</link><link>Pathfinder-RPG.FAQ Bestiaire</link><link>Pathfinder-RPG.Glossaire des monstres</link><link>Pathfinder-RPG.Hobgobelin</link><link>Pathfinder-RPG.Lion</link><link>Pathfinder-RPG.Liste de monstres par FP</link><link>Pathfinder-RPG.Liste de monstres par milieu naturel</link><link>Pathfinder-RPG.Liste de monstres par type</link><link>Pathfinder-RPG.liste des compagnons animaux</link><link>Pathfinder-RPG.Monstres</link><link>Pathfinder-RPG.Sac à malice</link><link>Pathfinder-RPG.Seigneur animal</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.type Animal</link><link>Pathfinder-RPG.odorat</link><link>Pathfinder-RPG.vision nocturne</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Étreinte</link><link>Pathfinder-RPG.Bond</link><link>Pathfinder-RPG.Pattes arrière</link><link>Pathfinder-RPG.croc-en-jambe</link><link>Pathfinder-RPG.Attaque en finesse</link><link>Pathfinder-RPG.Talent</link><link>Pathfinder-RPG.Discrétion</link><link>Pathfinder-RPG.Acrobaties</link><link>Pathfinder-RPG.Escalade</link><link>Pathfinder-RPG.Croc-en-jambe (capacité)</link><link>Pathfinder-RPG.Guépard</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;L&#233;opard&lt;div style=&quot;float:right;&quot;&gt;FP 2&lt;/div&gt;&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Bestiaire p.140&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 600
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Animal.html&quot; title=&quot;Animal&quot;&gt;Animal&lt;/a&gt; de taille M, N
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +4 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Odorat-(Capacit&#233;).html&quot; title=&quot;odorat&quot;&gt;odorat&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Nocturne-(Capacit&#233;).html&quot; title=&quot;vision nocturne&quot;&gt;vision nocturne&lt;/a&gt; ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +5
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 15, contact 14, pris au d&#233;pourvu 11 (Dex +4, naturelle +1)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 19 (3d8+6)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +7, &lt;b&gt;Vig&lt;/b&gt; +5, &lt;b&gt;Vol&lt;/b&gt; +2
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 9 m (6 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), escalade 6 m (4 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; morsure, +6 (1d6+3 et &lt;a class=&quot;pagelink&quot; href=&quot;&#201;treinte-(Capacit&#233;).html&quot; title=&quot;&#201;treinte&quot;&gt;&#233;treinte&lt;/a&gt;), 2 griffes, +6 (1d3+3)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaques sp&#233;ciales&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Bond-(Capacit&#233;).html&quot; title=&quot;Bond&quot;&gt;bond&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Pattes-Arri&#232;re-(Capacit&#233;).html&quot; title=&quot;Pattes arri&#232;re&quot;&gt;pattes arri&#232;re&lt;/a&gt; (2 griffes +6, 1d3+3)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 16, &lt;b&gt;Dex&lt;/b&gt; 19, &lt;b&gt;Con&lt;/b&gt; 15, &lt;b&gt;Int&lt;/b&gt; 2, &lt;b&gt;Sag&lt;/b&gt; 13, &lt;b&gt;Cha&lt;/b&gt; 6
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +2, &lt;b&gt;BMO&lt;/b&gt; +5 (+9 pour la lutte), &lt;b&gt;DMD&lt;/b&gt; 19 (23 contre &lt;a class=&quot;pagelink&quot; href=&quot;Croc-En-Jambe.html&quot; title=&quot;croc-en-jambe&quot;&gt;croc-en-jambe&lt;/a&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Attaque-En-Finesse.html&quot; title=&quot;Attaque en finesse&quot;&gt;Attaque en finesse&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Talent.html&quot; title=&quot;Talent&quot;&gt;Talent&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Acrobaties.html&quot; title=&quot;Acrobaties&quot;&gt;Acrobaties&lt;/a&gt; +8, &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; +11 (+15 dans les fourr&#233;s &#233;pais), &lt;a class=&quot;pagelink&quot; href=&quot;Escalade.html&quot; title=&quot;Escalade&quot;&gt;Escalade&lt;/a&gt; +11, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +5 ; &lt;b&gt;Modificateurs raciaux&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; +4 dans les fourr&#233;s &#233;pais
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; n&#39;importe quelles for&#234;ts
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation sociale&lt;/b&gt; solitaire ou couple
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; aucun
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;td&gt;&lt;div&gt;&lt;i&gt;&#192; chacun de ses pas, on peut voir les muscles d’acier de ce l&#233;opard glisser
+sous sa fourrure tachet&#233;e.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Les l&#233;opards mesurent 1,20 m&#232;tre de long et p&#232;sent 60 kg. Les
+caract&#233;ristiques pr&#233;sent&#233;es ci-dessus peuvent d&#233;crire n’importe
+quel f&#233;lin de taille similaire, comme les jaguars, les panth&#232;res et les
+couguars. La principale diff&#233;rence entre tous ces f&#233;lins de
+m&#234;me taille est l’environnement o&#249; on les trouve.&lt;br /&gt;&lt;br /&gt;Les l&#233;opards et leurs cousins pr&#233;f&#232;rent chasser la nuit
+et surprendre leurs proies depuis les hauteurs (en
+sautant sur elles &#224; partir d’un arbre ou d’un grand
+rocher). Ils mangent pratiquement
+tous les animaux qu’ils peuvent
+attraper. M&#234;me s’ils pr&#233;f&#232;rent les
+proies de taille P, ils sont capables
+de d&#233;vorer des herbivores
+de taille G ou de survivre
+en s’alimentant de rongeurs,
+d’oiseaux et d’insectes. &lt;br /&gt;&lt;br /&gt;Les l&#233;opards en bonne sant&#233; ne
+se montrent g&#233;n&#233;ralement pas
+agressifs envers les humains. S’ils
+n’ont pas faim et qu’ils ne se sentent
+pas menac&#233;s, il est m&#234;me possible de
+les approcher sans d&#233;clencher de r&#233;action
+hostile. Lorsqu’un l&#233;opard &#233;lit domicile pr&#232;s
+d’une communaut&#233; d’humano&#239;des, il peut
+rapidement se transformer en un dangereux
+pr&#233;dateur.&lt;br /&gt;&lt;br /&gt;&lt;h3 class=&quot;separator&quot;&gt;Le L&#233;opard (jaguar, panth&#232;re, couguar) comme compagnon animal&lt;a class=&quot;headeranchor&quot; id=&quot;Le_L&#233;opard_jaguar_panth&#232;re_couguar_comme_compagnon_animal_0&quot; href=&quot;#Le_L&#233;opard_jaguar_panth&#232;re_couguar_comme_compagnon_animal_0&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;
+&lt;b&gt;Caract&#233;ristiques de d&#233;part&lt;/b&gt; &lt;b&gt;Taille&lt;/b&gt; P ; &lt;b&gt;Vitesse&lt;/b&gt; 15 m (10 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)  ; &lt;b&gt;CA&lt;/b&gt; armure naturelle +1 ; &lt;b&gt;Attaque&lt;/b&gt; morsure (1d4 plus &lt;a class=&quot;pagelink&quot; href=&quot;Croc-En-Jambe-(Capacit&#233;).html&quot; title=&quot;Croc-en-jambe (Ext)&quot;&gt;Croc-en-jambe&lt;/a&gt;), 2 griffes (1d2) ; &lt;b&gt;Caract&#233;ristiques&lt;/b&gt; For 12, Dex 21, Con 13, Int 2, Sag 12, Cha 6 ; &lt;b&gt;Particularit&#233;s&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Odorat-(Capacit&#233;).html&quot; title=&quot;odorat&quot;&gt;odorat&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Nocturne-(Capacit&#233;).html&quot; title=&quot;vision nocturne&quot;&gt;vision nocturne&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;D&#233;veloppement au niveau 4&lt;/b&gt; : &lt;b&gt;Taille&lt;/b&gt; M ; &lt;b&gt;Attaque&lt;/b&gt; morsure (1d6 plus &lt;a class=&quot;pagelink&quot; href=&quot;Croc-En-Jambe-(Capacit&#233;).html&quot; title=&quot;Croc-en-jambe (Ext)&quot;&gt;Croc-en-jambe&lt;/a&gt;), 2 griffes (1d3) ; &lt;b&gt;Caract&#233;ristiques&lt;/b&gt; For +4, Dex –2, Con +2 ; &lt;b&gt;Particularit&#233;&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Gu&#233;pard.html&quot; title=&quot;Gu&#233;pard&quot;&gt;sprint&lt;/a&gt;.
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Léopard|FP 2}
+{s:pucem|Animal|Forêt-Jungle|Tropical}
+{s:BDTexte|''Source : Bestiaire p.140''}
+{s:BDTexte|'''PX''' 600}
+{s:BDTexte|[[type Animal|Animal]] de taille M, N}
+{s:BDTexte|'''Init''' +4 ; '''Sens''' [[odorat]], [[vision nocturne]] ; [[Perception]] +5}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 15, contact 14, pris au dépourvu 11 (Dex +4, naturelle +1)}
+{s:BDTexte|'''pv''' 19 (3d8+6)}
+{s:BDTexte|'''Réf''' +7, '''Vig''' +5, '''Vol''' +2}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 9 m (6 {s:c}), escalade 6 m (4 {s:c})}
+{s:BDTexte|'''Corps à corps''' morsure, +6 (1d6+3 et [[étreinte]]), 2 griffes, +6 (1d3+3)}
+{s:BDTexte|'''Attaques spéciales''' [[bond]], [[pattes arrière]] (2 griffes +6, 1d3+3)}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 16, '''Dex''' 19, '''Con''' 15, '''Int''' 2, '''Sag''' 13, '''Cha''' 6}
+{s:BDTexte|'''BBA''' +2, '''BMO''' +5 (+9 pour la lutte), '''DMD''' 19 (23 contre [[croc-en-jambe]])}
+{s:BDTexte|'''Dons''' [[Attaque en finesse]], [[Talent]] ([[Discrétion]])}
+{s:BDTexte|'''Compétences''' [[Acrobaties]] +8, [[Discrétion]] +11 (+15 dans les fourrés épais), [[Escalade]] +11, [[Perception]] +5 ; '''Modificateurs raciaux''' [[Discrétion]] +4 dans les fourrés épais}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' n'importe quelles forêts}
+{s:BDTexte|'''Organisation sociale''' solitaire ou couple}
+{s:BDTexte|'''Trésor''' aucun}
+</div>
+</td><td><div>''À chacun de ses pas, on peut voir les muscles d’acier de ce léopard glisser
+sous sa fourrure tachetée.''
+
+Les léopards mesurent 1,20 mètre de long et pèsent 60 kg. Les
+caractéristiques présentées ci-dessus peuvent décrire n’importe
+quel félin de taille similaire, comme les jaguars, les panthères et les
+couguars. La principale différence entre tous ces félins de
+même taille est l’environnement où on les trouve.
+
+Les léopards et leurs cousins préfèrent chasser la nuit
+et surprendre leurs proies depuis les hauteurs (en
+sautant sur elles à partir d’un arbre ou d’un grand
+rocher). Ils mangent pratiquement
+tous les animaux qu’ils peuvent
+attraper. Même s’ils préfèrent les
+proies de taille P, ils sont capables
+de dévorer des herbivores
+de taille G ou de survivre
+en s’alimentant de rongeurs,
+d’oiseaux et d’insectes. 
+
+Les léopards en bonne santé ne
+se montrent généralement pas
+agressifs envers les humains. S’ils
+n’ont pas faim et qu’ils ne se sentent
+pas menacés, il est même possible de
+les approcher sans déclencher de réaction
+hostile. Lorsqu’un léopard élit domicile près
+d’une communauté d’humanoïdes, il peut
+rapidement se transformer en un dangereux
+prédateur.
+
+====Le Léopard (jaguar, panthère, couguar) comme compagnon animal====
+
+'''Caractéristiques de départ''' '''Taille''' P ; '''Vitesse''' 15 m (10 {s:c})  ; '''CA''' armure naturelle +1 ; '''Attaque''' morsure (1d4 plus [[Croc-en-jambe (capacité)|Croc-en-jambe]]), 2 griffes (1d2) ; '''Caractéristiques''' For 12, Dex 21, Con 13, Int 2, Sag 12, Cha 6 ; '''Particularités''' [[odorat]], [[vision nocturne]].
+
+'''Développement au niveau 4''' : '''Taille''' M ; '''Attaque''' morsure (1d6 plus [[Croc-en-jambe (capacité)|Croc-en-jambe]]), 2 griffes (1d3) ; '''Caractéristiques''' For +4, Dex –2, Con +2 ; '''Particularité''' [[Guépard|sprint]].
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Léopard</fullName>
+</wikiPage>

@@ -1,0 +1,175 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Ettercap</title>
+  <categories><category>Pathfinder-RPG.Bestiaire</category><category>Pathfinder-RPG.Monstre</category><category>Pathfinder-RPG.Règles officielles</category></categories>
+  <lastModified>2013-02-08 07:20:01Z</lastModified>
+  <version>7</version>
+  <inLinks><link>Pathfinder-RPG.Glossaire des monstres</link><link>Pathfinder-RPG.Liste de monstres par FP</link><link>Pathfinder-RPG.Liste de monstres par milieu naturel</link><link>Pathfinder-RPG.Liste de monstres par type</link><link>Pathfinder-RPG.Monstres</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.type Aberration</link><link>Pathfinder-RPG.vision dans le noir</link><link>Pathfinder-RPG.vision nocturne</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Toile</link><link>Pathfinder-RPG.Science de linitiative</link><link>Pathfinder-RPG.Vigueur surhumaine</link><link>Pathfinder-RPG.Artisanat</link><link>Pathfinder-RPG.Discrétion</link><link>Pathfinder-RPG.Escalade</link><link>Pathfinder-RPG.Araignée géante</link><link>Pathfinder-RPG.empathie sauvage</link><link>Pathfinder-RPG.Druide</link><link>Pathfinder-RPG.Conception de pièges</link><link>Pathfinder-RPG.DD</link><link>Pathfinder-RPG.BMO</link><link>Pathfinder-RPG.Agrippé</link><link>Pathfinder-RPG.Vigueur</link><link>Pathfinder-RPG.affaiblissement temporaire</link><link>Pathfinder-RPG.Dextérité</link><link>Pathfinder-RPG.Constitution</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Ettercap&lt;div style=&quot;float:right;&quot;&gt;FP 3&lt;/div&gt;&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Bestiaire p.133&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 800
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Aberration.html&quot; title=&quot;Aberration&quot;&gt;Aberration&lt;/a&gt; de taille M, NM
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +7 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Capacit&#233;s-Sp&#233;ciales.html#VISIONDANSLENOIR&quot; title=&quot;vision dans le noir&quot;&gt;vision dans le noir&lt;/a&gt; 18 m (12 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Nocturne-(Capacit&#233;).html&quot; title=&quot;vision nocturne&quot;&gt;vision nocturne&lt;/a&gt; ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +9
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 15, contact 13, pris au d&#233;pourvu 12 (Dex +3, naturelle +2)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 30 (4d8+12)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +4, &lt;b&gt;Vig&lt;/b&gt; +6, &lt;b&gt;Vol&lt;/b&gt; +6
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 9 m (6 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), escalade 9 m (6 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; morsure, +5 (1d6+2 et poison) et 2 griffes, +5 (1d4+2)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaques sp&#233;ciales&lt;/b&gt; pi&#232;ges, &lt;a class=&quot;pagelink&quot; href=&quot;Toile-(Capacit&#233;).html&quot; title=&quot;Toile&quot;&gt;toile&lt;/a&gt; (+6 &#224; distance, DD 15, pv 4)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 14, &lt;b&gt;Dex&lt;/b&gt; 17, &lt;b&gt;Con&lt;/b&gt; 17, &lt;b&gt;Int&lt;/b&gt; 6, &lt;b&gt;Sag&lt;/b&gt; 15, &lt;b&gt;Cha&lt;/b&gt; 8
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +3, &lt;b&gt;BMO&lt;/b&gt; +5, &lt;b&gt;DMD&lt;/b&gt; 18
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Science-De-Linitiative.html&quot; title=&quot;Science de l&amp;#39;initiative&quot;&gt;Science de l&#39;initiative&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Vigueur-Surhumaine.html&quot; title=&quot;Vigueur surhumaine&quot;&gt;Vigueur surhumaine&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Artisanat.html&quot; title=&quot;Artisanat&quot;&gt;Artisanat&lt;/a&gt; (pi&#232;ges) +8, &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; +7, &lt;a class=&quot;pagelink&quot; href=&quot;Escalade.html&quot; title=&quot;Escalade&quot;&gt;Escalade&lt;/a&gt; +14, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +9 ; &lt;b&gt;Modificateurs raciaux&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Artisanat.html&quot; title=&quot;Artisanat&quot;&gt;Artisanat&lt;/a&gt; (pi&#232;ges) +8
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Langues&lt;/b&gt; commun
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Particularit&#233;s&lt;/b&gt; empathie avec les araign&#233;es +7
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; for&#234;ts temp&#233;r&#233;es
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation sociale&lt;/b&gt; solitaire, couple ou nid (3-6 et 2-8 &lt;a class=&quot;pagelink&quot; href=&quot;Araign&#233;e-G&#233;ante.html&quot; title=&quot;Araign&#233;e g&#233;ante&quot;&gt;araign&#233;es g&#233;antes&lt;/a&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; standard
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Capacit&#233;s sp&#233;ciales&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Empathie avec les araign&#233;es (Ext).&lt;/b&gt; Cette capacit&#233; fonctionne comme l&#39;&lt;a class=&quot;pagelink&quot; href=&quot;Druide.html#EMPATHIESAUVAGE&quot; title=&quot;empathie sauvage&quot;&gt;empathie sauvage&lt;/a&gt; des &lt;a class=&quot;pagelink&quot; href=&quot;Druide.html&quot; title=&quot;Le druide&quot;&gt;druides&lt;/a&gt;, si ce n&#39;est qu&#39;un ettercap ne peut l&#39;utiliser que sur les araign&#233;es. Les ettercaps b&#233;n&#233;ficient d&#39;un bonus racial de +4 sur les tests correspondants. Les araign&#233;es sont d&#233;pourvues d&#39;intellect maus cette communication empathique leur donne une &#233;tincelle d&#39;intelligence suffisante pour que les ettercaps puissent former des &lt;a class=&quot;pagelink&quot; href=&quot;Araign&#233;e-G&#233;ante.html&quot; title=&quot;Araign&#233;e g&#233;ante&quot;&gt;araign&#233;es g&#233;antes&lt;/a&gt; &#224; la surveillance.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Pi&#232;ges (Ext).&lt;/b&gt; Les ettercaps sont particuli&#232;rement dou&#233;s pour cr&#233;er des pi&#232;ges astucieux &#224; l&#39;aide de leurs toiles. Le plus souvent, ils fabriquent des collets, des pi&#232;ges &#224; &#233;crasement ou des pi&#232;ges &#224; lance. Les ettercaps n&#39;ont pas besoin d&#39;or pour construire leurs pi&#232;ges, seulement de temps. Pour plus de d&#233;tails, voir la section &quot;&lt;a class=&quot;pagelink&quot; href=&quot;Conception-De-Pi&#232;ges.html&quot; title=&quot;Conception de pi&#232;ges&quot;&gt;conception des pi&#232;ges&lt;/a&gt;&quot;.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;div class=&quot;indent&quot; style=&quot;margin: 0px; padding: 0px; padding-left: 15px&quot;&gt;&lt;b&gt;Collet d&#39;ettercap&lt;/b&gt; : FP 1 ; &lt;i&gt;Type&lt;/i&gt; m&#233;canique ; &lt;i&gt;Perception&lt;/i&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DEGREDEDIFFICULTE&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; 20; &lt;i&gt;D&#233;samor&#231;age&lt;/i&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DEGREDEDIFFICULTE&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; 20 ; &lt;i&gt;D&#233;clencheur&lt;/i&gt; espace ; &lt;i&gt;Remise en place&lt;/i&gt; r&#233;paration ; &lt;i&gt;Effet&lt;/i&gt; test de &lt;b&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Manœuvres-Offensives.html#BMO&quot; title=&quot;BMO&quot;&gt;BMO&lt;/a&gt;&lt;/b&gt; +15 (&lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables.html#Agripp&#233;&quot; title=&quot;Agripp&#233;&quot;&gt;agripper&lt;/a&gt;).&lt;/div&gt;
+&lt;/div&gt; 
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;div class=&quot;indent&quot; style=&quot;margin: 0px; padding: 0px; padding-left: 15px&quot;&gt;&lt;b&gt;Pi&#232;ge &#224; &#233;crasement d&#39;ettercap&lt;/b&gt; : FP 3 ; &lt;i&gt;Type&lt;/i&gt; m&#233;canique ; &lt;i&gt;Perception&lt;/i&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DEGREDEDIFFICULTE&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; 20; &lt;i&gt;D&#233;samor&#231;age&lt;/i&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DEGREDEDIFFICULTE&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; 20; &lt;i&gt;D&#233;clencheur&lt;/i&gt; espace ; &lt;i&gt;Remise en place&lt;/i&gt; r&#233;paration ; &lt;i&gt;Effet&lt;/i&gt; attaque au corps &#224; corps +10 (4d6), cibles multiples (toutes les cibles dans un carr&#233; de 3 m (2 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) de c&#244;t&#233;).&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;div class=&quot;indent&quot; style=&quot;margin: 0px; padding: 0px; padding-left: 15px&quot;&gt;&lt;b&gt;Pi&#232;ge &#224; lance d&#39;ettercap&lt;/b&gt; : FP 2; &lt;i&gt;Type&lt;/i&gt; m&#233;canique ; &lt;i&gt;Perception&lt;/i&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DEGREDEDIFFICULTE&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; 20; &lt;i&gt;D&#233;samor&#231;age&lt;/i&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DEGREDEDIFFICULTE&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; 20 ; &lt;i&gt;D&#233;clencheur&lt;/i&gt; espace ; &lt;i&gt;Remise en place&lt;/i&gt; r&#233;paration ; &lt;i&gt;Effet&lt;/i&gt; attaque au corps &#224; corps +15 (1d6+6).&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Poison (Ext)&lt;/b&gt; Morsure - blessure ; &lt;i&gt;JS&lt;/i&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;Vigueur&quot;&gt;Vigueur&lt;/a&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DEGREDEDIFFICULTE&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; 15 ; &lt;i&gt;fr&#233;quence&lt;/i&gt; 1/round pendant 10 rounds ; &lt;i&gt;effet&lt;/i&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Affaiblissement-Temporaire-(Capacit&#233;).html&quot; title=&quot;affaiblissement temporaire&quot;&gt;affaiblissement temporaire&lt;/a&gt; 1d2 &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#DEXTERITE&quot; title=&quot;La Dext&#233;rit&#233;&quot;&gt;Dex&lt;/a&gt;; &lt;i&gt;gu&#233;rison&lt;/i&gt; 2 r&#233;ussites cons&#233;cutives. Le &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DEGREDEDIFFICULTE&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; d&#233;pend de la &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#CONSTITUTION&quot; title=&quot;La Constitution&quot;&gt;Constitution&lt;/a&gt;.
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;td&gt;&lt;div&gt;&lt;i&gt;Cette horrible cr&#233;ature pourpre marche debout comme un homme mais elle a le visage d’une araign&#233;e et des griffes en forme de serpe.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Les ettercaps mesurent g&#233;n&#233;ralement 1,80 m&#232;tre et p&#232;sent &#224; peu
+pr&#232;s 100 kg. Ce sont des cr&#233;atures solitaires qui ne se rassemblent
+avec d’autres sp&#233;cimens de leur esp&#232;ce que tr&#232;s rarement, m&#234;me
+pour se reproduire. Lorsque les ettercaps se retrouvent en groupe,
+ils attirent souvent toute une s&#233;rie d’araign&#233;es d’esp&#232;ces diverses
+qui forment une masse collective &#233;trange. &lt;br /&gt;&lt;br /&gt;Les ettercaps ont la r&#233;putation de construire des pi&#232;ges sournois &#224; partir de toiles
+d’araign&#233;es et de mat&#233;riaux naturels. Ils fabriquent des abris
+en toiles d’araign&#233;e, g&#233;n&#233;ralement en haut des arbres, loin des
+pr&#233;dateurs terrestres, et emploient des araign&#233;es monstrueuses
+comme guetteurs et protecteurs.&lt;br /&gt;&lt;br /&gt;Les ettercaps ne sont pas des cr&#233;atures tr&#232;s courageuses mais
+leurs pi&#232;ges font souvent en sorte que leurs ennemis n’ont m&#234;me pas
+l’occasion de d&#233;gainer leur arme. Au combat, les ettercaps utilisent
+leurs griffes et leur morsure venimeuse. Ils
+&#233;vitent g&#233;n&#233;ralement de s’approcher
+des ennemis qui sont encore
+capables de se d&#233;placer
+et fuient si un
+adversaire parvient
+&#224; se lib&#233;rer.
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Ettercap|FP 3}
+{s:pucem|Aberration|Souterrain|Tempéré}
+{s:BDTexte|''Source : Bestiaire p.133''}
+{s:BDTexte|'''PX''' 800}
+{s:BDTexte|[[type Aberration|Aberration]] de taille M, NM}
+{s:BDTexte|'''Init''' +7 ; '''Sens''' [[vision dans le noir]] 18 m (12 {s:c}), [[vision nocturne]] ; [[Perception]] +9}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 15, contact 13, pris au dépourvu 12 (Dex +3, naturelle +2)}
+{s:BDTexte|'''pv''' 30 (4d8+12)}
+{s:BDTexte|'''Réf''' +4, '''Vig''' +6, '''Vol''' +6}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 9 m (6 {s:c}), escalade 9 m (6 {s:c})}
+{s:BDTexte|'''Corps à corps''' morsure, +5 (1d6+2 et poison) et 2 griffes, +5 (1d4+2)}
+{s:BDTexte|'''Attaques spéciales''' pièges, [[toile]] (+6 à distance, DD 15, pv 4)}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 14, '''Dex''' 17, '''Con''' 17, '''Int''' 6, '''Sag''' 15, '''Cha''' 8}
+{s:BDTexte|'''BBA''' +3, '''BMO''' +5, '''DMD''' 18}
+{s:BDTexte|'''Dons''' [[Science de linitiative|Science de l'initiative]], [[Vigueur surhumaine]]}
+{s:BDTexte|'''Compétences''' [[Artisanat]] (pièges) +8, [[Discrétion]] +7, [[Escalade]] +14, [[Perception]] +9 ; '''Modificateurs raciaux''' [[Artisanat]] (pièges) +8}
+{s:BDTexte|'''Langues''' commun}
+{s:BDTexte|'''Particularités''' empathie avec les araignées +7}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' forêts tempérées}
+{s:BDTexte|'''Organisation sociale''' solitaire, couple ou nid (3-6 et 2-8 [[araignée géante|araignées géantes]])}
+{s:BDTexte|'''Trésor''' standard}
+{s:BDSousTitre|Capacités spéciales}
+{s:BDTexte|'''Empathie avec les araignées (Ext).''' Cette capacité fonctionne comme l'[[empathie sauvage]] des [[druide|druides]], si ce n'est qu'un ettercap ne peut l'utiliser que sur les araignées. Les ettercaps bénéficient d'un bonus racial de +4 sur les tests correspondants. Les araignées sont dépourvues d'intellect maus cette communication empathique leur donne une étincelle d'intelligence suffisante pour que les ettercaps puissent former des [[araignée géante|araignées géantes]] à la surveillance.}
+{s:BDTexte|'''Pièges (Ext).''' Les ettercaps sont particulièrement doués pour créer des pièges astucieux à l'aide de leurs toiles. Le plus souvent, ils fabriquent des collets, des pièges à écrasement ou des pièges à lance. Les ettercaps n'ont pas besoin d'or pour construire leurs pièges, seulement de temps. Pour plus de détails, voir la section "[[Conception de pièges|conception des pièges]]".}
+{s:BDTexte|:'''Collet d'ettercap''' : FP 1 ; ''Type'' mécanique ; ''Perception'' [[DD]] 20; ''Désamorçage'' [[DD]] 20 ; ''Déclencheur'' espace ; ''Remise en place'' réparation ; ''Effet'' test de '''[[BMO]]''' +15 ([[agrippé|agripper]]).} 
+{s:BDTexte|:'''Piège à écrasement d'ettercap''' : FP 3 ; ''Type'' mécanique ; ''Perception'' [[DD]] 20; ''Désamorçage'' [[DD]] 20; ''Déclencheur'' espace ; ''Remise en place'' réparation ; ''Effet'' attaque au corps à corps +10 (4d6), cibles multiples (toutes les cibles dans un carré de 3 m (2 {s:c}) de côté).}
+{s:BDTexte|:'''Piège à lance d'ettercap''' : FP 2; ''Type'' mécanique ; ''Perception'' [[DD]] 20; ''Désamorçage'' [[DD]] 20 ; ''Déclencheur'' espace ; ''Remise en place'' réparation ; ''Effet'' attaque au corps à corps +15 (1d6+6).}
+{s:BDTexte|'''Poison (Ext)''' Morsure - blessure ; ''JS'' [[Vigueur]] [[DD]] 15 ; ''fréquence'' 1/round pendant 10 rounds ; ''effet'' [[affaiblissement temporaire]] 1d2 [[Dextérité|Dex]]; ''guérison'' 2 réussites consécutives. Le [[DD]] dépend de la [[Constitution]].}
+</div>
+</td><td><div>''Cette horrible créature pourpre marche debout comme un homme mais elle a le visage d’une araignée et des griffes en forme de serpe.''
+
+Les ettercaps mesurent généralement 1,80 mètre et pèsent à peu
+près 100 kg. Ce sont des créatures solitaires qui ne se rassemblent
+avec d’autres spécimens de leur espèce que très rarement, même
+pour se reproduire. Lorsque les ettercaps se retrouvent en groupe,
+ils attirent souvent toute une série d’araignées d’espèces diverses
+qui forment une masse collective étrange. 
+
+Les ettercaps ont la réputation de construire des pièges sournois à partir de toiles
+d’araignées et de matériaux naturels. Ils fabriquent des abris
+en toiles d’araignée, généralement en haut des arbres, loin des
+prédateurs terrestres, et emploient des araignées monstrueuses
+comme guetteurs et protecteurs.
+
+Les ettercaps ne sont pas des créatures très courageuses mais
+leurs pièges font souvent en sorte que leurs ennemis n’ont même pas
+l’occasion de dégainer leur arme. Au combat, les ettercaps utilisent
+leurs griffes et leur morsure venimeuse. Ils
+évitent généralement de s’approcher
+des ennemis qui sont encore
+capables de se déplacer
+et fuient si un
+adversaire parvient
+à se libérer.
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Ettercap</fullName>
+</wikiPage>

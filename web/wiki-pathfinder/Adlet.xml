@@ -1,0 +1,191 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Adlet</title>
+  <categories><category>Pathfinder-RPG.Bestiaire 3</category><category>Pathfinder-RPG.Monstre</category><category>Pathfinder-RPG.Règles officielles</category></categories>
+  <lastModified>2013-02-12 13:28:12Z</lastModified>
+  <version>14</version>
+  <inLinks><link>Pathfinder-RPG.Glossaire des monstres</link><link>Pathfinder-RPG.Liste de monstres par FP</link><link>Pathfinder-RPG.Liste de monstres par milieu naturel</link><link>Pathfinder-RPG.Liste de monstres par type</link><link>Pathfinder-RPG.Monstres</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.type Humanoïde</link><link>Pathfinder-RPG.sous-type adlet</link><link>Pathfinder-RPG.sous-type froid</link><link>Pathfinder-RPG.vision nocturne</link><link>Pathfinder-RPG.odorat</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Vulnérabilités</link><link>Pathfinder-RPG.passage sans trace</link><link>Pathfinder-RPG.Rayon de givre</link><link>Pathfinder-RPG.Nappe de brouillard</link><link>Pathfinder-RPG.Tempête de neige</link><link>Pathfinder-RPG.Tempête de grêle</link><link>Pathfinder-RPG.Vent divin</link><link>Pathfinder-RPG.Arme de prédilection</link><link>Pathfinder-RPG.Attaque en puissance</link><link>Pathfinder-RPG.Attaques multiples</link><link>Pathfinder-RPG.Autonome</link><link>Pathfinder-RPG.Course</link><link>Pathfinder-RPG.Dur à cuire</link><link>Pathfinder-RPG.Esquive</link><link>Pathfinder-RPG.Science de linitiative</link><link>Pathfinder-RPG.Acrobaties</link><link>Pathfinder-RPG.Discrétion</link><link>Pathfinder-RPG.Dressage</link><link>Pathfinder-RPG.Escalade</link><link>Pathfinder-RPG.Natation</link><link>Pathfinder-RPG.Premiers secours</link><link>Pathfinder-RPG.Survie</link><link>Pathfinder-RPG.Chancelant</link><link>Pathfinder-RPG.Vigueur</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Adlet&lt;div style=&quot;float:right;&quot;&gt;FP 10&lt;/div&gt;&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Bestiaire 3 page 8&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 9 600
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Humano&#239;de.html&quot; title=&quot;Humano&#239;de&quot;&gt;Humano&#239;de&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Adlet.html&quot; title=&quot;Adlet (sous-type)&quot;&gt;Adlet&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Froid.html&quot; title=&quot;Froid (sous-type)&quot;&gt;Froid&lt;/a&gt;) de taille M, CN
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +12 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Nocturne-(Capacit&#233;).html&quot; title=&quot;vision nocturne&quot;&gt;vision nocturne&lt;/a&gt; ; &lt;a class=&quot;pagelink&quot; href=&quot;Odorat-(Capacit&#233;).html&quot; title=&quot;odorat&quot;&gt;odorat&lt;/a&gt; ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +13
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 25, contact 20, pris au d&#233;pourvu 15 (Dex +8, esquive +2, naturelle +5)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 125 (15d8+60)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +17, &lt;b&gt;Vig&lt;/b&gt; +9, &lt;b&gt;Vol&lt;/b&gt; +8
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Immunit&#233;&lt;/b&gt; froid
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Faiblesse &lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vuln&#233;rabilit&#233;s-(Capacit&#233;).html&quot; title=&quot;Vuln&#233;rabilit&#233;s&quot;&gt;vuln&#233;rabilit&#233;&lt;/a&gt; au feu
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 12 m (8 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; lance +1, +17/+12/+7 (1d8+7/&#215;3) et morsure, +10 (1d6+2 plus 1d6 froid)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaque sp&#233;ciale&lt;/b&gt; souffle glac&#233;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Pouvoirs magiques&lt;/b&gt; (NLS 10 ; concentration +11)
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+Constant — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Passage-Sans-Traces.html&quot; title=&quot;passage sans trace&quot;&gt;passage sans trace&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Rayon-De-Givre.html&quot; title=&quot;Rayon de givre&quot;&gt;rayon de givre&lt;/a&gt;&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+3/jour — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Nappe-De-Brouillard.html&quot; title=&quot;Nappe de brouillard&quot;&gt;nappe de brouillard&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Temp&#234;te-De-Neige.html&quot; title=&quot;Temp&#234;te de neige&quot;&gt;temp&#234;te de neige&lt;/a&gt;&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+1/jour — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Temp&#234;te-De-Gr&#234;le.html&quot; title=&quot;Temp&#234;te de gr&#234;le&quot;&gt;temp&#234;te de gr&#234;le&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Vent-Divin.html&quot; title=&quot;Vent divin&quot;&gt;vent divin&lt;/a&gt;&lt;/i&gt; (sur lui-m&#234;me uniquement)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 18, &lt;b&gt;Dex&lt;/b&gt; 26, &lt;b&gt;Con&lt;/b&gt; 18, &lt;b&gt;Int&lt;/b&gt; 13, &lt;b&gt;Sag&lt;/b&gt; 17, &lt;b&gt;Cha&lt;/b&gt; 13
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +11, &lt;b&gt;BMO&lt;/b&gt; +15, &lt;b&gt;DMD&lt;/b&gt; 35
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Arme-De-Pr&#233;dilection.html&quot; title=&quot;Arme de pr&#233;dilection&quot;&gt;Arme de pr&#233;dilection&lt;/a&gt; (lance), &lt;a class=&quot;pagelink&quot; href=&quot;Attaque-En-Puissance.html&quot; title=&quot;Attaque en puissance&quot;&gt;Attaque en puissance&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Attaques-Multiples.html&quot; title=&quot;Attaques multiples&quot;&gt;Attaques multiples&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Autonome.html&quot; title=&quot;Autonome&quot;&gt;Autonome&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Course.html&quot; title=&quot;Course&quot;&gt;Course&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Dur-&#192;-Cuire.html&quot; title=&quot;Dur &#224; cuire&quot;&gt;Dur &#224; cuire&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Esquive.html&quot; title=&quot;Esquive&quot;&gt;Esquive&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Science-De-Linitiative.html&quot; title=&quot;Science de l&amp;#39;initiative&quot;&gt;Science de l’initiative&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Acrobaties.html&quot; title=&quot;Acrobaties&quot;&gt;Acrobaties&lt;/a&gt; +13 (+17 pour le saut), &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; +13 (+21 dans la neige), &lt;a class=&quot;pagelink&quot; href=&quot;Dressage.html&quot; title=&quot;Dressage&quot;&gt;Dressage&lt;/a&gt; +9, &lt;a class=&quot;pagelink&quot; href=&quot;Escalade.html&quot; title=&quot;Escalade&quot;&gt;Escalade&lt;/a&gt; +12, &lt;a class=&quot;pagelink&quot; href=&quot;Natation.html&quot; title=&quot;Natation&quot;&gt;Natation&lt;/a&gt; +9, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +13, &lt;a class=&quot;pagelink&quot; href=&quot;Premiers-Secours.html&quot; title=&quot;Premiers secours&quot;&gt;Premiers secours&lt;/a&gt; +5, &lt;a class=&quot;pagelink&quot; href=&quot;Survie.html&quot; title=&quot;Survie&quot;&gt;Survie&lt;/a&gt; +20
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Modificateur racial&lt;/b&gt; +8 en &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; dans la neige
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Langues&lt;/b&gt; commun, adlet
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Particularit&#233;s&lt;/b&gt; d&#233;placement facilit&#233; (arctique)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; collines, montagnes froides ou plaines
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation&lt;/b&gt; solitaire, couple ou meute (3-18 plus 1 chaman)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; standard (lance +1, autre tr&#233;sor)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Pouvoirs sp&#233;ciaux&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;D&#233;placement facilit&#233; (arctique) (Ext).&lt;/b&gt; L’adlet peut se d&#233;placer sur les terrains difficiles &#224; sa vitesse normale tant qu’il est sur un terrain arctique ou neigeux. Les terrains alt&#233;r&#233;s magiquement affectent normalement l’adlet.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Souffle glac&#233; (Sur).&lt;/b&gt; Le souffle d’un adlet est exceptionnellement froid et inflige 1d6 points de d&#233;g&#226;ts de froid lorsqu’il mord. Une fois tous les 1d4 rounds, par une action rapide, l’adlet peut exhaler son souffle, emplissant une zone de 1,50 m de rayon d’un air glacial qui inflige 2d6 points de d&#233;g&#226;ts de froid qui engourdissent toutes les cr&#233;atures de la zone et les rend &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables.html#Chancelant&quot; title=&quot;Chancelant&quot;&gt;chancelante&lt;/a&gt;. Un jet de &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;Vigueur&quot;&gt;Vigueur&lt;/a&gt; de DD 21 annule le chancellement, mais pas les d&#233;g&#226;ts de froid. Le DD du jet de sauvegarde est bas&#233; sur la Constitution.
+&lt;/div&gt;&lt;br /&gt;&lt;/div&gt;
+&lt;/td&gt;&lt;td&gt;&lt;div&gt;
+&lt;i&gt;Ce loup humano&#239;de poss&#232;de une fourrure blanche comme la neige et des yeux d’un bleu per&#231;ant. Dans sa main, il serre une lance orn&#233;e.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Les adlets sont d’habiles chasseurs des terres arctiques.
+Grands et muscl&#233;s, agiles et tr&#232;s rapides, ils se consid&#232;rent
+comme les v&#233;ritables h&#233;ritiers des territoires arctiques
+inviol&#233;s, et s’offusquent lorsque d’autres esp&#232;ces humano&#239;des
+tentent de s’installer dans ces r&#233;gions. M&#234;me s’ils ne sont
+pas mal&#233;fiques, les adlets forment un peuple guerrier et tr&#232;s
+agressif. Ils n’ont aucun tabou social en ce qui concerne le
+cannibalisme, et leur coutume consistant &#224; manger leurs
+morts plut&#244;t que les enterrer ne fait que renforcer les fausses
+id&#233;es que l’on se fait concernant leur moralit&#233;.
+Profond&#233;ment religieux, les adlets v&#233;n&#232;rent le pouvoir
+et la cruaut&#233; de la nature, et voient une essence divine dans
+les bourrasques du blizzard, la f&#233;rocit&#233; des ours polaires
+et l’immensit&#233; des &#233;normes icebergs. Beaucoup d’adlets
+deviennent des oracles ou des druides, mais tous connaissent
+leur place dans le monde de la nature. Un adlet sur dix est
+un chaman : c’est un adlets avec l’arch&#233;type &#233;volu&#233;e ayant la
+capacit&#233; de convoquer un &#233;l&#233;mentaire de glace noble ou 1d4+1
+grands &#233;l&#233;mentaires de glace (cf. Bestiaire 2, p 124). Les chamans
+poss&#232;dent aussi le pouvoir magique communion avec la nature
+qu’ils peuvent utiliser une fois par jour.
+L’adlet mesure 1,80 m&#232;tre et p&#232;se 125 kilos.
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Adlet|FP 10}
+{s:pucem|Humanoïde|Plaines|Froid}
+{s:BDTexte|''Source : Bestiaire 3 page 8''}
+{s:BDTexte|'''PX''' 9 600}
+{s:BDTexte|[[type Humanoïde|Humanoïde]] ([[sous-type Adlet|Adlet]], [[sous-type Froid|Froid]]) de taille M, CN}
+{s:BDTexte|'''Init''' +12 ; '''Sens''' [[vision nocturne]] ; [[odorat]] ; [[Perception]] +13}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 25, contact 20, pris au dépourvu 15 (Dex +8, esquive +2, naturelle +5)}
+{s:BDTexte|'''pv''' 125 (15d8+60)}
+{s:BDTexte|'''Réf''' +17, '''Vig''' +9, '''Vol''' +8}
+{s:BDTexte|'''Immunité''' froid}
+{s:BDTexte|'''Faiblesse ''' [[Vulnérabilités|vulnérabilité]] au feu}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 12 m (8 {s:c})}
+{s:BDTexte|'''Corps à corps''' lance +1, +17/+12/+7 (1d8+7/×3) et morsure, +10 (1d6+2 plus 1d6 froid)}
+{s:BDTexte|'''Attaque spéciale''' souffle glacé}
+{s:BDTexte|'''Pouvoirs magiques''' (NLS 10 ; concentration +11)}
+{s:BDSorts|Constant — ''[[passage sans trace]]'', ''[[rayon de givre]]''}
+{s:BDSorts|3/jour — ''[[nappe de brouillard]]'', ''[[tempête de neige]]''}
+{s:BDSorts|1/jour — ''[[tempête de grêle]]'', ''[[vent divin]]'' (sur lui-même uniquement)}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 18, '''Dex''' 26, '''Con''' 18, '''Int''' 13, '''Sag''' 17, '''Cha''' 13}
+{s:BDTexte|'''BBA''' +11, '''BMO''' +15, '''DMD''' 35}
+{s:BDTexte|'''Dons''' [[Arme de prédilection]] (lance), [[Attaque en puissance]], [[Attaques multiples]], [[Autonome]], [[Course]], [[Dur à cuire]], [[Esquive]], [[Science de linitiative|Science de l’initiative]]}
+{s:BDTexte|'''Compétences''' [[Acrobaties ]] +13 (+17 pour le saut), [[Discrétion]] +13 (+21 dans la neige), [[Dressage]] +9, [[Escalade]] +12, [[Natation]] +9, [[Perception]] +13, [[Premiers secours]] +5, [[Survie]] +20}
+{s:BDTexte|'''Modificateur racial''' +8 en [[Discrétion]] dans la neige}
+{s:BDTexte|'''Langues''' commun, adlet}
+{s:BDTexte|'''Particularités''' déplacement facilité (arctique)}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' collines, montagnes froides ou plaines}
+{s:BDTexte|'''Organisation''' solitaire, couple ou meute (3-18 plus 1 chaman)}
+{s:BDTexte|'''Trésor''' standard (lance +1, autre trésor)}
+{s:BDSousTitre|Pouvoirs spéciaux}
+{s:BDTexte|'''Déplacement facilité (arctique) (Ext).''' L’adlet peut se déplacer sur les terrains difficiles à sa vitesse normale tant qu’il est sur un terrain arctique ou neigeux. Les terrains altérés magiquement affectent normalement l’adlet.}
+{s:BDTexte|'''Souffle glacé (Sur).''' Le souffle d’un adlet est exceptionnellement froid et inflige 1d6 points de dégâts de froid lorsqu’il mord. Une fois tous les 1d4 rounds, par une action rapide, l’adlet peut exhaler son souffle, emplissant une zone de 1,50 m de rayon d’un air glacial qui inflige 2d6 points de dégâts de froid qui engourdissent toutes les créatures de la zone et les rend [[Chancelant|chancelante]]. Un jet de [[Vigueur]] de DD 21 annule le chancellement, mais pas les dégâts de froid. Le DD du jet de sauvegarde est basé sur la Constitution.}
+
+</div>
+</td><td><div>
+''Ce loup humanoïde possède une fourrure blanche comme la neige et des yeux d’un bleu perçant. Dans sa main, il serre une lance ornée.''
+
+Les adlets sont d’habiles chasseurs des terres arctiques.
+Grands et musclés, agiles et très rapides, ils se considèrent
+comme les véritables héritiers des territoires arctiques
+inviolés, et s’offusquent lorsque d’autres espèces humanoïdes
+tentent de s’installer dans ces régions. Même s’ils ne sont
+pas maléfiques, les adlets forment un peuple guerrier et très
+agressif. Ils n’ont aucun tabou social en ce qui concerne le
+cannibalisme, et leur coutume consistant à manger leurs
+morts plutôt que les enterrer ne fait que renforcer les fausses
+idées que l’on se fait concernant leur moralité.
+Profondément religieux, les adlets vénèrent le pouvoir
+et la cruauté de la nature, et voient une essence divine dans
+les bourrasques du blizzard, la férocité des ours polaires
+et l’immensité des énormes icebergs. Beaucoup d’adlets
+deviennent des oracles ou des druides, mais tous connaissent
+leur place dans le monde de la nature. Un adlet sur dix est
+un chaman : c’est un adlets avec l’archétype évoluée ayant la
+capacité de convoquer un élémentaire de glace noble ou 1d4+1
+grands élémentaires de glace (cf. Bestiaire 2, p 124). Les chamans
+possèdent aussi le pouvoir magique communion avec la nature
+qu’ils peuvent utiliser une fois par jour.
+L’adlet mesure 1,80 mètre et pèse 125 kilos.
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Adlet</fullName>
+</wikiPage>

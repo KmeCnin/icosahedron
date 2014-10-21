@@ -1,0 +1,75 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Téléportation d'objet</title>
+  <categories><category>Pathfinder-RPG.Manuel des joueurs</category><category>Pathfinder-RPG.Règles officielles</category><category>Pathfinder-RPG.Sort</category><category>Pathfinder-RPG.Sort magicien 7</category></categories>
+  <lastModified>2012-10-31 15:05:13Z</lastModified>
+  <version>5</version>
+  <inLinks><link>Pathfinder-RPG.Dragon de cuivre</link><link>Pathfinder-RPG.Glossaire des sorts</link><link>Pathfinder-RPG.Liste des sorts (fin)</link><link>Pathfinder-RPG.Liste des sorts de sorcière</link><link>Pathfinder-RPG.Liste des sorts densorceleursmagiciens</link><link>Pathfinder-RPG.Yai du vide</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Invocation</link><link>Pathfinder-RPG.branche téléportation</link><link>Pathfinder-RPG.Ensorceleur</link><link>Pathfinder-RPG.Magicien</link><link>Pathfinder-RPG.Action simple</link><link>Pathfinder-RPG.composantes</link><link>Pathfinder-RPG.Présentation des sorts</link><link>Pathfinder-RPG.niveau</link><link>Pathfinder-RPG.instantanée</link><link>Pathfinder-RPG.Volonté</link><link>Pathfinder-RPG.NLS</link><link>Pathfinder-RPG.Boule de feu</link><link>Pathfinder-RPG.plan Éthéré</link><link>Pathfinder-RPG.plan Matériel</link><link>Pathfinder-RPG.Dissipation de la magie</link></outLinks>
+  <body><![CDATA[&lt;b&gt;&#201;cole&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#INVOCATION&quot; title=&quot;Invocation&quot;&gt;Invocation&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#TELEPORTATION&quot; title=&quot;T&#233;l&#233;portation&quot;&gt;t&#233;l&#233;portation&lt;/a&gt;) ; &lt;b&gt;Niveau&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Ensorceleur.html&quot; title=&quot;L&amp;#39;ensorceleur&quot;&gt;Ens&lt;/a&gt;/&lt;a class=&quot;pagelink&quot; href=&quot;Magicien.html&quot; title=&quot;Le magicien&quot;&gt;Mag&lt;/a&gt; 7&lt;br/&gt;
+&lt;b&gt;Temps d&#39;incantation&lt;/b&gt; 1 &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions.html#SIMPLE&quot; title=&quot;Action simple&quot;&gt;action simple&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Composantes&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#COMPOSANTES&quot; title=&quot;composantes&quot;&gt;V&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Port&#233;e&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#PORTEE&quot; title=&quot;Pr&#233;sentation des sorts&quot;&gt;contact&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Cible&lt;/b&gt; 1 objet touch&#233;, dans la limite de 25 kg/&lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#NIVEAU&quot; title=&quot;niveau&quot;&gt;niveau&lt;/a&gt; et 0,1 m&#179;/&lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#NIVEAU&quot; title=&quot;niveau&quot;&gt;niveau&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Dur&#233;e&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#DUREE&quot; title=&quot;instantan&#233;e&quot;&gt;instantan&#233;e&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Jet de sauvegarde&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;Volont&#233;&quot;&gt;Volont&#233;&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#JETSDESAUVEGARDE&quot; title=&quot;Pr&#233;sentation des sorts&quot;&gt;annule&lt;/a&gt; (objet) ; &lt;b&gt;R&#233;sistance &#224; la magie&lt;/b&gt; oui (objet)&lt;br /&gt;&lt;br /&gt;Ce sort transporte instantan&#233;ment un objet sur les lieux de son choix. La distance maximale ainsi parcourue est &#233;gale &#224; 150 km par &lt;a class=&quot;pagelink&quot; href=&quot;Lancer-Des-Sorts.html#NLS&quot; title=&quot;NLS&quot;&gt;niveau de lanceur de sorts&lt;/a&gt; mais le personnage ne peut pas envoy&#233; l&#39;objet dans un autre plan d’existence. Les cr&#233;atures et les forces magiques (telles que la bille cr&#233;&#233;e par &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Boule-De-Feu.html&quot; title=&quot;Boule de feu&quot;&gt;boule de feu&lt;/a&gt;&lt;/i&gt; &#224; retardement) ne peuvent pas &#234;tre t&#233;l&#233;port&#233;es de la sorte.&lt;br /&gt;&lt;br /&gt;
+Si le lanceur de sorts le souhaite, il peut envoyer l’objet dans le &lt;a class=&quot;pagelink&quot; href=&quot;Plans.html&quot; title=&quot;plan &#201;th&#233;r&#233;&quot;&gt;plan &#201;th&#233;r&#233;&lt;/a&gt;. Dans ce cas, l’endroit que l’objet occupait dans le &lt;a class=&quot;pagelink&quot; href=&quot;Plans.html&quot; title=&quot;plan Mat&#233;riel&quot;&gt;plan Mat&#233;riel&lt;/a&gt; d&#233;gage une l&#233;g&#232;re aura magique jusqu’&#224; ce qu’il revienne. Une &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Dissipation-De-La-Magie.html&quot; title=&quot;Dissipation de la magie&quot;&gt;dissipation de la magie&lt;/a&gt;&lt;/i&gt; r&#233;ussie qui cible ce point bien pr&#233;cis ram&#232;ne l’objet du &lt;a class=&quot;pagelink&quot; href=&quot;Plans.html&quot; title=&quot;plan &#201;th&#233;r&#233;&quot;&gt;plan &#201;th&#233;r&#233;&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;
+Le personnage doit avoir une id&#233;e exacte de l’endroit o&#249; il va envoyer l&#39;objet. Plus le personnage a une image mentale pr&#233;cise de sa destination, plus il a de chances que le sort fonctionne convenablement. Il peut &#234;tre difficile, voire impossible, de se rendre dans certaines zones balay&#233;es par de violentes &#233;nergies physiques ou magiques.&lt;br /&gt;&lt;br /&gt;Afin de voir comment le sort se comporte, jetez 1d100 et r&#233;f&#233;rez-vous &#224; la table ci-dessous, dont les termes sont d&#233;finis ici :&lt;br /&gt;&lt;br /&gt;&lt;i&gt;Familiarit&#233;.&lt;/i&gt; &#171; Tr&#232;s familier &#187; d&#233;crit un lieu o&#249; le personnage s’est souvent rendu et o&#249; il se sent chez lui. &#171; Soigneusement &#233;tudi&#233; &#187; repr&#233;sente un endroit qu’il conna&#238;t bien, soit parce qu’il y est all&#233;, soit parce qu’il l’a vu de ses propres yeux. &#171; Vu &#224; l’occasion &#187; indique un lieu que le personnage a vu &#224; plusieurs reprises, mais qu’il ne conna&#238;t pas bien. &#171; Vu une fois &#187; d&#233;signe un endroit qu’il n’a vu qu’une seule fois, &#233;ventuellement par magie.&lt;br /&gt;&lt;br /&gt;&#171; Destination erron&#233;e &#187; repr&#233;sente un endroit qui n’existe pas, comme si le personnage t&#233;l&#233;porte l&#39;objet dans un lieu familier qui n’existe plus ou qui a &#233;t&#233; sensiblement modifi&#233;. Dans ce cas, jetez 1d20+80 plut&#244;t que 1d100. Il n’existe en effet aucune destination &#224; laquelle le personnage peut envoyer l&#39;obet.&lt;br /&gt;&lt;br /&gt;&lt;i&gt;Sur l’objectif.&lt;/i&gt; L&#39;objet se mat&#233;rialise &#224; l’endroit d&#233;sir&#233;.&lt;br /&gt;&lt;br /&gt;&lt;i&gt;Translation.&lt;/i&gt; L&#39;objet appara&#238;t en lieu s&#251;r mais avec une marge d’erreur proportionnelle &#224; la distance qui le s&#233;parait de son objectif et qui se monte &#224; un pourcentage (d&#233;termin&#233;e avec 1d100) de la distance parcourue. La direction est d&#233;termin&#233;e au hasard.&lt;br /&gt;&lt;br /&gt;&lt;i&gt;Lieu similaire.&lt;/i&gt; Le lanceur de sorts se retrouve dans un endroit qui ressemble &#224; son objectif, soit visuellement, soit au niveau th&#233;matique. En r&#232;gle g&#233;n&#233;rale, l&#39;objet appara&#238;t dans le lieu similaire le plus proche de la destination choisie. Si on estime qu’un tel endroit n’existe pas, le sort &#233;choue tout simplement.&lt;br /&gt;&lt;br /&gt;&lt;i&gt;Incident.&lt;/i&gt; L&#39;objet conna&#238;t un incident de parcours, une d&#233;chirure dans la trame de la r&#233;alit&#233; qui lui occasionne 1d10 points de d&#233;g&#226;ts. Il lance aussit&#244;t 1d20+80 pour voir o&#249; il arrive. Chaque fois que le r&#233;sultat indique &#171; Incident &#187;, les d&#233;g&#226;ts se cumulent et le personnage doit relancer les d&#233;s.&lt;br /&gt;&lt;br /&gt;&lt;center&gt;
+&lt;table CLASS=&quot;tablo&quot;&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td&gt;Degr&#233; de familiarit&#233;&lt;/td&gt;&lt;td&gt;Sur l&#39;objectif&lt;/td&gt;&lt;td&gt;Translation&lt;/td&gt;&lt;td&gt;Lieu similaire&lt;/td&gt;&lt;td&gt;Incident&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier&quot;&gt;&lt;td&gt;Tr&#232;s familier&lt;/td&gt;&lt;td&gt;01–97&lt;/td&gt;&lt;td&gt;98–99&lt;/td&gt;&lt;td&gt;00&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;Soigneusement &#233;tudi&#233;&lt;/td&gt;&lt;td&gt;01–94&lt;/td&gt;&lt;td&gt;95–97&lt;/td&gt;&lt;td&gt;98–99&lt;/td&gt;&lt;td&gt;00&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Vu &#224; l’occasion&lt;/td&gt;&lt;td&gt;01–88&lt;/td&gt;&lt;td&gt;89–94&lt;/td&gt;&lt;td&gt;95–98&lt;/td&gt;&lt;td&gt;99–00&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;Vu une fois&lt;/td&gt;&lt;td&gt;01–76&lt;/td&gt;&lt;td&gt;77–88&lt;/td&gt;&lt;td&gt;89–96&lt;/td&gt;&lt;td&gt;97–00&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Destination erron&#233;e (1d20+80)&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;td&gt;81–92&lt;/td&gt;&lt;td&gt;93–00&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/center&gt;&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;box&quot;&gt;Ce sort est semblable &#224; t&#233;l&#233;portation, si ce n’est qu’il transporte un objet au lieu d’un personnage. Les cr&#233;atures et les forces magiques (telles que la bille cr&#233;&#233;e par boule de feu &#224; retardement) ne peuvent pas &#234;tre t&#233;l&#233;port&#233;es de la sorte.&lt;br /&gt;&lt;br /&gt;Si le lanceur de sorts le souhaite, il peut envoyer l’objet dans le plan &#201;th&#233;r&#233;. Dans ce cas, l’endroit que l’objet occupait dans le plan Mat&#233;riel d&#233;gage une l&#233;g&#232;re aura magique jusqu’&#224; ce qu’il revienne. Une dissipation de la magie r&#233;ussie qui cible ce point bien pr&#233;cis ram&#232;ne l’objet du plan &#201;th&#233;r&#233;.&lt;/div&gt; &lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;]]></body>
+  <raw><![CDATA['''École''' [[Invocation]] ([[branche téléportation|téléportation]]) ; '''Niveau''' [[ensorceleur|Ens]]/[[magicien|Mag]] 7<br/>
+'''Temps d'incantation''' 1 [[action simple]]<br/>
+'''Composantes''' [[composantes|V]]<br/>
+'''Portée''' [[Présentation des sorts#PORTEE|contact]]<br/>
+'''Cible''' 1 objet touché, dans la limite de 25 kg/[[niveau]] et 0,1 m³/[[niveau]]<br/>
+'''Durée''' [[instantanée]]<br/>
+'''Jet de sauvegarde''' [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] (objet) ; '''Résistance à la magie''' oui (objet)
+
+Ce sort transporte instantanément un objet sur les lieux de son choix. La distance maximale ainsi parcourue est égale à 150 km par [[NLS|niveau de lanceur de sorts]] mais le personnage ne peut pas envoyé l'objet dans un autre plan d’existence. Les créatures et les forces magiques (telles que la bille créée par ''[[boule de feu]]'' à retardement) ne peuvent pas être téléportées de la sorte.
+
+
+Si le lanceur de sorts le souhaite, il peut envoyer l’objet dans le [[plan Éthéré]]. Dans ce cas, l’endroit que l’objet occupait dans le [[plan Matériel]] dégage une légère aura magique jusqu’à ce qu’il revienne. Une ''[[dissipation de la magie]]'' réussie qui cible ce point bien précis ramène l’objet du [[plan Éthéré]].
+
+
+Le personnage doit avoir une idée exacte de l’endroit où il va envoyer l'objet. Plus le personnage a une image mentale précise de sa destination, plus il a de chances que le sort fonctionne convenablement. Il peut être difficile, voire impossible, de se rendre dans certaines zones balayées par de violentes énergies physiques ou magiques.
+
+Afin de voir comment le sort se comporte, jetez 1d100 et référez-vous à la table ci-dessous, dont les termes sont définis ici :
+
+''Familiarité.'' « Très familier » décrit un lieu où le personnage s’est souvent rendu et où il se sent chez lui. « Soigneusement étudié » représente un endroit qu’il connaît bien, soit parce qu’il y est allé, soit parce qu’il l’a vu de ses propres yeux. « Vu à l’occasion » indique un lieu que le personnage a vu à plusieurs reprises, mais qu’il ne connaît pas bien. « Vu une fois » désigne un endroit qu’il n’a vu qu’une seule fois, éventuellement par magie.
+
+« Destination erronée » représente un endroit qui n’existe pas, comme si le personnage téléporte l'objet dans un lieu familier qui n’existe plus ou qui a été sensiblement modifié. Dans ce cas, jetez 1d20+80 plutôt que 1d100. Il n’existe en effet aucune destination à laquelle le personnage peut envoyer l'obet.
+
+''Sur l’objectif.'' L'objet se matérialise à l’endroit désiré.
+
+''Translation.'' L'objet apparaît en lieu sûr mais avec une marge d’erreur proportionnelle à la distance qui le séparait de son objectif et qui se monte à un pourcentage (déterminée avec 1d100) de la distance parcourue. La direction est déterminée au hasard.
+
+''Lieu similaire.'' Le lanceur de sorts se retrouve dans un endroit qui ressemble à son objectif, soit visuellement, soit au niveau thématique. En règle générale, l'objet apparaît dans le lieu similaire le plus proche de la destination choisie. Si on estime qu’un tel endroit n’existe pas, le sort échoue tout simplement.
+
+''Incident.'' L'objet connaît un incident de parcours, une déchirure dans la trame de la réalité qui lui occasionne 1d10 points de dégâts. Il lance aussitôt 1d20+80 pour voir où il arrive. Chaque fois que le résultat indique « Incident », les dégâts se cumulent et le personnage doit relancer les dés.
+
+<center>
+{| CLASS="tablo"
+|- CLASS="titre"
+| Degré de familiarité || Sur l'objectif || Translation || Lieu similaire || Incident
+|- CLASS="premier"
+| Très familier || 01–97 || 98–99 || 00 || —
+|- CLASS="alt"
+| Soigneusement étudié || 01–94 || 95–97 || 98–99 || 00
+|-
+| Vu à l’occasion || 01–88 || 89–94 || 95–98 || 99–00
+|- CLASS="alt"
+| Vu une fois || 01–76 || 77–88 || 89–96 || 97–00
+|-
+| Destination erronée (1d20+80) || — || — || 81–92 || 93–00
+|}
+</center>
+
+(((Ce sort est semblable à téléportation, si ce n’est qu’il transporte un objet au lieu d’un personnage. Les créatures et les forces magiques (telles que la bille créée par boule de feu à retardement) ne peuvent pas être téléportées de la sorte.
+
+Si le lanceur de sorts le souhaite, il peut envoyer l’objet dans le plan Éthéré. Dans ce cas, l’endroit que l’objet occupait dans le plan Matériel dégage une légère aura magique jusqu’à ce qu’il revienne. Une dissipation de la magie réussie qui cible ce point bien précis ramène l’objet du plan Éthéré.))) 
+
+
+
+]]></raw>
+  <fullName>Pathfinder-RPG.Téléportation dobjet</fullName>
+</wikiPage>

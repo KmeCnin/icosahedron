@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Peau d'écorce</title>
+  <categories><category>Pathfinder-RPG.Manuel des joueurs</category><category>Pathfinder-RPG.Règles officielles</category><category>Pathfinder-RPG.Sort</category><category>Pathfinder-RPG.Sort druide 2</category><category>Pathfinder-RPG.Sort rôdeur 2</category></categories>
+  <lastModified>2012-10-26 16:56:18Z</lastModified>
+  <version>2</version>
+  <inLinks><link>Pathfinder-RPG.Amulette darmure naturelle</link><link>Pathfinder-RPG.Bâton de la forêt profonde</link><link>Pathfinder-RPG.Créer un sort</link><link>Pathfinder-RPG.Domaine de la Flore</link><link>Pathfinder-RPG.Domaine de la Protection</link><link>Pathfinder-RPG.Glossaire des sorts</link><link>Pathfinder-RPG.Grimoires</link><link>Pathfinder-RPG.Larmure comme RD</link><link>Pathfinder-RPG.lignage verdoyant</link><link>Pathfinder-RPG.Liste des formules dalchimiste</link><link>Pathfinder-RPG.Liste des sorts (fin)</link><link>Pathfinder-RPG.liste des sorts de conjurateurs</link><link>Pathfinder-RPG.Liste des sorts de druides</link><link>Pathfinder-RPG.Liste des sorts de rôdeurs</link><link>Pathfinder-RPG.Moine qinggong (moine)</link><link>Pathfinder-RPG.Mystère de la nature</link><link>Pathfinder-RPG.Mystère du bois</link><link>Pathfinder-RPG.Nymphe</link><link>Pathfinder-RPG.Potions magiques</link><link>Pathfinder-RPG.Pouvoirs de ki</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Transmutation</link><link>Pathfinder-RPG.Druide</link><link>Pathfinder-RPG.Rôdeur</link><link>Pathfinder-RPG.Action simple</link><link>Pathfinder-RPG.composantes</link><link>Pathfinder-RPG.Présentation des sorts</link><link>Pathfinder-RPG.niveau</link><link>Pathfinder-RPG.bonus daltération</link></outLinks>
+  <body><![CDATA[&lt;b&gt;&#201;cole&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#TRANSMUTATION&quot; title=&quot;Transmutation&quot;&gt;Transmutation&lt;/a&gt; ; &lt;b&gt;Niveau&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Druide.html&quot; title=&quot;Le druide&quot;&gt;Dru&lt;/a&gt; 2, &lt;a class=&quot;pagelink&quot; href=&quot;R&#244;deur.html&quot; title=&quot;Le r&#244;deur&quot;&gt;R&#244;d&lt;/a&gt; 2&lt;br/&gt;
+&lt;b&gt;Temps d&#39;incantation&lt;/b&gt; 1 &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions.html#SIMPLE&quot; title=&quot;Action simple&quot;&gt;action simple&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Composantes&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#COMPOSANTES&quot; title=&quot;composantes&quot;&gt;V, G, FD&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Port&#233;e&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#PORTEE&quot; title=&quot;Pr&#233;sentation des sorts&quot;&gt;contact&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Cible&lt;/b&gt; cr&#233;ature vivante touch&#233;e&lt;br/&gt;
+&lt;b&gt;Dur&#233;e&lt;/b&gt; 10 minutes/&lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#NIVEAU&quot; title=&quot;niveau&quot;&gt;niveau&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Jet de sauvegarde&lt;/b&gt; aucun ; &lt;b&gt;R&#233;sistance &#224; la magie&lt;/b&gt; oui (&lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#JETSDESAUVEGARDE&quot; title=&quot;Pr&#233;sentation des sorts&quot;&gt;inoffensif&lt;/a&gt;)&lt;br /&gt;&lt;br /&gt;Comme son nom l’indique, ce sort rend l’&#233;piderme du sujet aussi dur que de l’&#233;corce, ce qui lui offre un &lt;a class=&quot;pagelink&quot; href=&quot;Armes-Magiques.html#BONUSALTERATION&quot; title=&quot;bonus d&amp;#39;alt&#233;ration&quot;&gt;bonus d’alt&#233;ration&lt;/a&gt; de +2 au bonus d’armure naturelle. Ce bonus augmente de 1 point par tranche de 3 niveaux du lanceur de sorts au dessus du niveau 3, pour un maximum de +5 au niveau 12.&lt;br /&gt;&lt;br /&gt;L’effet de &lt;i&gt;peau d’&#233;corce&lt;/i&gt; se cumule avec le bonus d’armure naturelle de la cible mais pas avec d’autres &lt;a class=&quot;pagelink&quot; href=&quot;Armes-Magiques.html#BONUSALTERATION&quot; title=&quot;bonus d&amp;#39;alt&#233;ration&quot;&gt;bonus d’alt&#233;ration&lt;/a&gt; &#224; l’armure naturelle. Une cr&#233;ature d&#233;pourvue d’armure naturelle poss&#232;de un bonus d’armure naturelle de +0, comme un personnage portant de simples v&#234;tements a un bonus d’armure de +0.
+]]></body>
+  <raw><![CDATA['''École''' [[Transmutation]] ; '''Niveau''' [[druide|Dru]] 2, [[rôdeur|Rôd]] 2<br/>
+'''Temps d'incantation''' 1 [[action simple]]<br/>
+'''Composantes''' [[composantes|V, G, FD]]<br/>
+'''Portée''' [[Présentation des sorts#PORTEE|contact]]<br/>
+'''Cible''' créature vivante touchée<br/>
+'''Durée''' 10 minutes/[[niveau]]<br/>
+'''Jet de sauvegarde''' aucun ; '''Résistance à la magie''' oui ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]])
+
+Comme son nom l’indique, ce sort rend l’épiderme du sujet aussi dur que de l’écorce, ce qui lui offre un [[bonus daltération|bonus d’altération]] de +2 au bonus d’armure naturelle. Ce bonus augmente de 1 point par tranche de 3 niveaux du lanceur de sorts au dessus du niveau 3, pour un maximum de +5 au niveau 12.
+
+L’effet de ''peau d’écorce'' se cumule avec le bonus d’armure naturelle de la cible mais pas avec d’autres [[bonus daltération|bonus d’altération]] à l’armure naturelle. Une créature dépourvue d’armure naturelle possède un bonus d’armure naturelle de +0, comme un personnage portant de simples vêtements a un bonus d’armure de +0.
+]]></raw>
+  <fullName>Pathfinder-RPG.Peau décorce</fullName>
+</wikiPage>

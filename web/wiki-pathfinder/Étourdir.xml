@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Étourdir</title>
+  <categories><category>Pathfinder-RPG.Art de la Magie</category><category>Pathfinder-RPG.Mots de pouvoir</category><category>Pathfinder-RPG.Règles officielles</category></categories>
+  <lastModified>2012-09-26 21:57:25Z</lastModified>
+  <version>0</version>
+  <inLinks><link>Pathfinder-RPG.Liste des mots de pouvoirs par classe</link><link>Pathfinder-RPG.Listes des mots de pouvoirs (temporaire)</link><link>Pathfinder-RPG.Mots effets</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Enchantement</link><link>Pathfinder-RPG.branche coercition</link><link>Pathfinder-RPG.Registre</link><link>Pathfinder-RPG.Ensorceleur</link><link>Pathfinder-RPG.Magicien</link><link>Pathfinder-RPG.Choisi</link><link>Pathfinder-RPG.Étourdi</link></outLinks>
+  <body><![CDATA[
+&lt;b&gt;&#201;cole&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#ENCHANTEMENT&quot; title=&quot;Enchantement&quot;&gt;enchantement&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#COERCITION&quot; title=&quot;Coercition&quot;&gt;coercition&lt;/a&gt;) [&lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;er-Un-Sort.html#REGISTRE&quot; title=&quot;Registre&quot;&gt;effet mental&lt;/a&gt;] ; &lt;b&gt;Niveau&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Ensorceleur.html&quot; title=&quot;L&amp;#39;ensorceleur&quot;&gt;ensorceleur&lt;/a&gt;/&lt;a class=&quot;pagelink&quot; href=&quot;Magicien.html&quot; title=&quot;Le magicien&quot;&gt;magicien&lt;/a&gt; 8&lt;br /&gt;
+&lt;b&gt;Dur&#233;e&lt;/b&gt; variable ; voir la description&lt;br /&gt;
+&lt;b&gt;Jet de sauvegarde&lt;/b&gt; non ; &lt;b&gt;R&#233;sistance &#224; la magie&lt;/b&gt; oui&lt;br /&gt;
+&lt;b&gt;Restriction de cible&lt;/b&gt; &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Choisi.html&quot; title=&quot;Choisi&quot;&gt;choisi&lt;/a&gt;&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Ce mot effet &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables.html#&#201;tourdi&quot; title=&quot;&#201;tourdi&quot;&gt;&#233;tourdit&lt;/a&gt; une cr&#233;ature vivante sans que celle-ci ait besoin d’entendre le mage le prononcer. Sa dur&#233;e d&#233;pend des points de vies actuels de la cible. Au-del&#224; de 151 points de vie, il n’a aucun effet.&lt;br /&gt;&lt;br /&gt;&lt;table CLASS=&quot;tablo toutgauche&quot;&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td&gt;Points de vie&lt;/td&gt;&lt;td&gt;Dur&#233;e&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier&quot;&gt;&lt;td&gt;50 et moins&lt;/td&gt;&lt;td&gt;Permanente&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;51-100&lt;/td&gt;&lt;td&gt;1d4+1 minutes&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;101-150&lt;/td&gt;&lt;td&gt;1d4+1 rounds&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[{s:UM}
+'''École''' [[enchantement]] ([[branche coercition|coercition]]) <nowiki>[</nowiki>[[registre|effet mental]]<nowiki>]</nowiki> ; '''Niveau''' [[ensorceleur]]/[[magicien]] 8<br>
+'''Durée''' variable ; voir la description<br>
+'''Jet de sauvegarde''' non ; '''Résistance à la magie''' oui<br>
+'''Restriction de cible''' ''[[choisi]]''
+
+Ce mot effet [[étourdi|étourdit]] une créature vivante sans que celle-ci ait besoin d’entendre le mage le prononcer. Sa durée dépend des points de vies actuels de la cible. Au-delà de 151 points de vie, il n’a aucun effet.
+
+{| CLASS="tablo toutgauche"
+|- CLASS="titre"
+| Points de vie || Durée
+|- CLASS="premier"
+| 50 et moins || Permanente
+|-
+| 51-100 || 1d4+1 minutes
+|-
+| 101-150 || 1d4+1 rounds
+|}]]></raw>
+  <fullName>Pathfinder-RPG.Étourdir</fullName>
+</wikiPage>

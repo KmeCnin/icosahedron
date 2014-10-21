@@ -1,0 +1,249 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Objet animé</title>
+  <categories><category>Pathfinder-RPG.Bestiaire</category><category>Pathfinder-RPG.Monstre</category><category>Pathfinder-RPG.Règles officielles</category></categories>
+  <lastModified>2013-02-07 19:04:57Z</lastModified>
+  <version>2</version>
+  <inLinks><link>Pathfinder-RPG.Animation des plantes</link><link>Pathfinder-RPG.Animation dobjets</link><link>Pathfinder-RPG.Créatures artificielles</link><link>Pathfinder-RPG.Créatures mécaniques</link><link>Pathfinder-RPG.Éveil</link><link>Pathfinder-RPG.Glossaire des monstres</link><link>Pathfinder-RPG.Liste de monstres par FP</link><link>Pathfinder-RPG.Liste de monstres par milieu naturel</link><link>Pathfinder-RPG.Liste de monstres par type</link><link>Pathfinder-RPG.Monstres</link><link>Pathfinder-RPG.Possession dobjet</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.type Créature artificielle</link><link>Pathfinder-RPG.vision dans le noir</link><link>Pathfinder-RPG.vision nocturne</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.solidité</link><link>Pathfinder-RPG.Traits des créatures artificielles</link><link>Pathfinder-RPG.taille</link><link>Pathfinder-RPG.constriction</link><link>Pathfinder-RPG.Étreinte</link><link>Pathfinder-RPG.mithral</link><link>Pathfinder-RPG.adamantium</link><link>Pathfinder-RPG.Piétinement</link><link>Pathfinder-RPG.DD</link><link>Pathfinder-RPG.allonge</link><link>Pathfinder-RPG.attaque au corps à corps</link><link>Pathfinder-RPG.Attaque à distance</link><link>Pathfinder-RPG.Caractéristiques des armes</link><link>Pathfinder-RPG.coup critique</link><link>Pathfinder-RPG.zone de critique</link><link>Pathfinder-RPG.Croc-en-jambe (capacité)</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Objet anim&#233;&lt;div style=&quot;float:right;&quot;&gt;FP 3&lt;/div&gt;&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Bestiaire&lt;/i&gt; p.229
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 800
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Cr&#233;ature-Artificielle.html&quot; title=&quot;Cr&#233;ature artificielle&quot;&gt;Cr&#233;ature artificielle&lt;/a&gt; de taille M, N
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +0 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Capacit&#233;s-Sp&#233;ciales.html#VISIONDANSLENOIR&quot; title=&quot;vision dans le noir&quot;&gt;vision dans le noir&lt;/a&gt; 18 m (12 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Nocturne-(Capacit&#233;).html&quot; title=&quot;vision nocturne&quot;&gt;vision nocturne&lt;/a&gt; ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; -5
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 14, contact 10, pris au d&#233;pourvu 12 (naturelle +4)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 36 (3d10+20)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +1, &lt;b&gt;Vig&lt;/b&gt; +1, &lt;b&gt;Vol&lt;/b&gt; -4
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Capacit&#233;s d&#233;fensives&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Exploration.html#SOLIDITE&quot; title=&quot;solidit&#233;&quot;&gt;solidit&#233;&lt;/a&gt; 5 (ou plus) ; &lt;b&gt;Immunit&#233;s&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Traits-Des-Cr&#233;atures-Artificielles-(Capacit&#233;).html&quot; title=&quot;Traits des cr&#233;atures artificielles&quot;&gt;traits des cr&#233;atures artificielles&lt;/a&gt; 
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 9 m (6 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; coup, +5 (1d6+3)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 14, &lt;b&gt;Dex&lt;/b&gt; 10, &lt;b&gt;Con&lt;/b&gt; -, &lt;b&gt;Int&lt;/b&gt; -, &lt;b&gt;Sag&lt;/b&gt; 1, &lt;b&gt;Cha&lt;/b&gt; 1
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +3, &lt;b&gt;BMO&lt;/b&gt; +5, &lt;b&gt;DMD&lt;/b&gt; 15
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Particularit&#233;s&lt;/b&gt; points de construction
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; quelconque
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation sociale&lt;/b&gt; solitaire, couple ou groupe (3-12)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; aucun
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Capacit&#233; sp&#233;ciales&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Points de Construction&lt;/b&gt; Les objets anim&#233;s disposent d&#39;un certain quota de Points de Construction (PC) qu&#39;ils peuvent utiliser pour acheter des capacit&#233;s et des protections en plus de celles pr&#233;sent&#233;es plus haut. Un objet de &lt;a class=&quot;pagelink&quot; href=&quot;Petites-Et-Grandes-Cr&#233;atures.html#TABLEAUTAILLES&quot; title=&quot;taille&quot;&gt;taille&lt;/a&gt; M poss&#232;de 2 PC ; pour les objets de taille diff&#233;rente, voir le tableau ci-dessous. Si un objet anim&#233; d&#233;pense un nombre de PC sup&#233;rieur au quota associ&#233; &#224; sa cat&#233;gorie de taille, son FP augmente de +1 par tranche de 2 PC ajout&#233;s (avec un minimum de +1).
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;div class=&quot;indent&quot; style=&quot;margin: 0px; padding: 0px; padding-left: 15px&quot;&gt;&lt;i&gt;Attaque suppl&#233;mentaire (Ext, 1 PC).&lt;/i&gt; Gagne une attaque de coup suppl&#233;mentaire.&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;div class=&quot;indent&quot; style=&quot;margin: 0px; padding: 0px; padding-left: 15px&quot;&gt;&lt;i&gt;Constriction (Ext, 1 PC).&lt;/i&gt; Ajoute la capacit&#233; de &lt;a class=&quot;pagelink&quot; href=&quot;Constriction-(Capacit&#233;).html&quot; title=&quot;constriction&quot;&gt;constriction&lt;/a&gt; &#224; l&#39;attaque de coup (l&#39;objet doit poss&#233;der la capacit&#233; d&#39;&lt;i&gt;&#233;treinte&lt;/i&gt;avant de pouvoir choisir cette option).&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;div class=&quot;indent&quot; style=&quot;margin: 0px; padding: 0px; padding-left: 15px&quot;&gt;&lt;i&gt;Etreinte (Ext, 1 PC).&lt;/i&gt; Ajoute la capacit&#233; d&#39;&lt;a class=&quot;pagelink&quot; href=&quot;&#201;treinte-(Capacit&#233;).html&quot; title=&quot;&#201;treinte&quot;&gt;&#233;treinte&lt;/a&gt; aux attaques de coup.&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;div class=&quot;indent&quot; style=&quot;margin: 0px; padding: 0px; padding-left: 15px&quot;&gt;&lt;i&gt;M&#233;tal (Ext, 2 PC).&lt;/i&gt; L&#39;objet est fait d&#39;un m&#233;tal courant. Sa &lt;a class=&quot;pagelink&quot; href=&quot;Exploration.html#SOLIDITE&quot; title=&quot;solidit&#233;&quot;&gt;solidit&#233;&lt;/a&gt; passe &#224; 10 et son bonus d&#39;armure naturelle augmente de +2. Les objets de &lt;a class=&quot;pagelink&quot; href=&quot;Mat&#233;riaux-Sp&#233;ciaux.html#MITHRAL&quot; title=&quot;mithral&quot;&gt;mithral&lt;/a&gt; co&#251;tent 4 PC et ont une &lt;a class=&quot;pagelink&quot; href=&quot;Exploration.html#SOLIDITE&quot; title=&quot;solidit&#233;&quot;&gt;solidit&#233;&lt;/a&gt; de 15 et un accroissement du bonus d&#39;armure naturelle de +4. Les objets d&#39;&lt;a class=&quot;pagelink&quot; href=&quot;Mat&#233;riaux-Sp&#233;ciaux.html#ADAMANTIUM&quot; title=&quot;adamantium&quot;&gt;adamantium&lt;/a&gt; co&#252;tent 6 PC et ont une &lt;a class=&quot;pagelink&quot; href=&quot;Exploration.html#SOLIDITE&quot; title=&quot;solidit&#233;&quot;&gt;solidit&#233;&lt;/a&gt; de 20 et un accroissement du bonus d&#39;armure naturelle de +6.&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;div class=&quot;indent&quot; style=&quot;margin: 0px; padding: 0px; padding-left: 15px&quot;&gt;&lt;i&gt;Mouvement suppl&#233;mentaire (Ext, 1 PC).&lt;/i&gt; Gagne un nouveau mode de d&#233;placement (creusement, escalade, vol [d&#233;plorable] ou nage) avec une vitesse &#233;gale &#224; sa vitesse de d&#233;placement de base.&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;div class=&quot;indent&quot; style=&quot;margin: 0px; padding: 0px; padding-left: 15px&quot;&gt;&lt;i&gt;Pierre (Ext, 1 PC).&lt;/i&gt; L&#39;objet est fait de pierre ou de cristal. Sa &lt;a class=&quot;pagelink&quot; href=&quot;Exploration.html#SOLIDITE&quot; title=&quot;solidit&#233;&quot;&gt;solidit&#233;&lt;/a&gt; passe &#224; 8 et son bonus d&#39;armure naturelle augmente de +1.&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;div class=&quot;indent&quot; style=&quot;margin: 0px; padding: 0px; padding-left: 15px&quot;&gt;&lt;i&gt;Pi&#233;tinement (Ext, 2 PC):&lt;/i&gt; Gagne la capacit&#233; de &lt;a class=&quot;pagelink&quot; href=&quot;Pi&#233;tinement.html&quot; title=&quot;Pi&#233;tinement&quot;&gt;pi&#233;tinement&lt;/a&gt; (voir la description de la capacit&#233; pour les d&#233;g&#226;ts et les &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DEGREDEDIFFICULTE&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; associ&#233;s).&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;div class=&quot;indent&quot; style=&quot;margin: 0px; padding: 0px; padding-left: 15px&quot;&gt;&lt;i&gt;Plus rapide (Ext, 1 PC).&lt;/i&gt; La vitesse d&#39;un des modes de d&#233;placement augmente de +3 m (2 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;).&lt;/div&gt;
+&lt;/div&gt;&lt;br /&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;div class=&quot;indent&quot; style=&quot;margin: 0px; padding: 0px; padding-left: 15px&quot;&gt;&lt;i&gt;Allonge exceptionnelle (Ext, 1 PC).&lt;/i&gt; L’objet gagne une &lt;a class=&quot;pagelink&quot; href=&quot;Actions-Simples.html#ATTAQUECORPSACORPS&quot; title=&quot;allonge&quot;&gt;allonge&lt;/a&gt; de 1,50 m&#232;tre (1 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) pour une &lt;a class=&quot;pagelink&quot; href=&quot;Actions-Simples.html#ATTAQUECORPSACORPS&quot; title=&quot;attaque au corps &#224; corps&quot;&gt;attaque au corps &#224; corps&lt;/a&gt;. Augmente l’allonge de toutes les attaques pour 1 PC de plus.&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Attaque am&#233;lior&#233;e (Ext, 1 PC).&lt;/i&gt; Toutes les &lt;a class=&quot;pagelink&quot; href=&quot;Actions-Simples.html#ATTAQUEDISTANCE&quot; title=&quot;Attaque &#224; distance&quot;&gt;attaques &#224; distance&lt;/a&gt; et au &lt;a class=&quot;pagelink&quot; href=&quot;Actions-Simples.html#ATTAQUECORPSACORPS&quot; title=&quot;attaque au corps &#224; corps&quot;&gt;corps &#224; corps&lt;/a&gt; de l’objet anim&#233; infligent les m&#234;mes d&#233;g&#226;ts que s’il &#233;tait d’une &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques-Des-Armes.html#TAILLEARME&quot; title=&quot;Caract&#233;ristiques des armes&quot;&gt;cat&#233;gorie de taille&lt;/a&gt; au-dessus de la sienne. L’artisan doit acheter les pouvoirs d’attaque am&#233;lior&#233;e s&#233;par&#233;ment pour les armes de corps &#224; corps et les armes &#224; distance.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Attaque &#224; distance (Ext, 2 PC).&lt;/i&gt; Remplace une attaque de coup par une &lt;a class=&quot;pagelink&quot; href=&quot;Actions-Simples.html#ATTAQUEDISTANCE&quot; title=&quot;Attaque &#224; distance&quot;&gt;attaque &#224; distance&lt;/a&gt; qui inflige le m&#234;me montant de d&#233;g&#226;ts avec une port&#233;e de 6 m&#232;tres. Remplace toutes les &lt;a class=&quot;pagelink&quot; href=&quot;Actions-Simples.html#ATTAQUECORPSACORPS&quot; title=&quot;attaque au corps &#224; corps&quot;&gt;attaques de corps &#224; corps&lt;/a&gt; pour 2 PC de plus. Les pouvoirs d’objets qui affectent sp&#233;cifiquement les attaques de coup ne fonctionnent pas avec les attaques &#224; distance.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Attaque perforante (Ext, 1PC).&lt;/i&gt; Remplace une attaque de coup par une attaque perforante qui inflige le m&#234;me montant de d&#233;g&#226;ts mais poss&#232;de un multiplicateur de &lt;a class=&quot;pagelink&quot; href=&quot;Actions-Simples.html#COUPCRITIQUE&quot; title=&quot;coup critique&quot;&gt;coup critique&lt;/a&gt; de &#215; 3. Remplace toutes les &lt;a class=&quot;pagelink&quot; href=&quot;Actions-Simples.html#ATTAQUECORPSACORPS&quot; title=&quot;attaque au corps &#224; corps&quot;&gt;attaques de corps &#224; corps&lt;/a&gt; pour 1 PC de plus. Les pouvoirs d’objets qui affectent sp&#233;cifiquement les attaques de coup ne fonctionnent pas avec les attaques perforantes.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Attaque tranchante (Ext, 1PC).&lt;/i&gt; Remplace une attaque de coup par une attaque tranchante qui inflige le m&#234;me montant de d&#233;g&#226;ts mais poss&#232;de soit une &lt;a class=&quot;pagelink&quot; href=&quot;Tableau-R&#233;capitulatif-Des-Armes.html#CRITIQUE&quot; title=&quot;zone de critique&quot;&gt;zone de critique&lt;/a&gt; possible de 19-20 (pour les attaques de type lame), soit un multiplicateur de &lt;a class=&quot;pagelink&quot; href=&quot;Actions-Simples.html#COUPCRITIQUE&quot; title=&quot;coup critique&quot;&gt;coup critique&lt;/a&gt; de &#215; 3 (pour les attaques de type faux). Remplace toutes les &lt;a class=&quot;pagelink&quot; href=&quot;Actions-Simples.html#ATTAQUECORPSACORPS&quot; title=&quot;attaque au corps &#224; corps&quot;&gt;attaques de corps &#224; corps&lt;/a&gt; pour 1 PC de plus. Les pouvoirs d’objets qui affectent sp&#233;cifiquement les attaques de coup ne fonctionnent pas avec les attaques tranchantes.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Critiques augment&#233;s (Ext, 1 PC).&lt;/i&gt; Augmente la &lt;a class=&quot;pagelink&quot; href=&quot;Tableau-R&#233;capitulatif-Des-Armes.html#CRITIQUE&quot; title=&quot;zone de critique&quot;&gt;zone de critique&lt;/a&gt; possible des attaques de corps &#224; corps d’un objet anim&#233; de 1 ou le multiplicateur de &lt;a class=&quot;pagelink&quot; href=&quot;Actions-Simples.html#COUPCRITIQUE&quot; title=&quot;coup critique&quot;&gt;coup critique&lt;/a&gt; de 1. Ce pouvoir ne se cumule pas avec lui-m&#234;me ni avec les pouvoirs d’attaque d’un objet perforant ou tranchant.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Croc-en-jambe (Ext, 2 PC).&lt;/i&gt; L’objet gagne le pouvoir sp&#233;cial &lt;a class=&quot;pagelink&quot; href=&quot;Croc-En-Jambe-(Capacit&#233;).html&quot; title=&quot;Croc-en-jambe (Ext)&quot;&gt;croc-en-jambe&lt;/a&gt; pour l’une de ses attaques de coup.
+&lt;/div&gt;&lt;br /&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;td&gt;&lt;div&gt;&lt;i&gt;Les os enferm&#233;s dans la cage s’entrechoquent quand ses jambes de
+cha&#238;nes s’animent et qu’elle part en qu&#234;te de nouveaux prisonniers.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Un objet anim&#233; n’est pas juste un monstre mais bien une cat&#233;gorie
+&#224; part enti&#232;re. Le profil pr&#233;sent&#233; ci-contre se rapporte &#224; un objet
+anim&#233; de taille M (qui dispose encore de 2 PC &#224; d&#233;penser pour
+acqu&#233;rir des capacit&#233;s suppl&#233;mentaires), mais tous les objets
+peuvent &#234;tre anim&#233;s (g&#233;n&#233;ralement gr&#226;ce au sort animation
+d’objets, mais le don de Construction de cr&#233;atures artificielles permet aussi de construire des objets anim&#233;s
+permanents). Les objets anim&#233;s sont compos&#233;s de bois ou d’un
+autre mat&#233;riau de solidit&#233; &#233;quivalente, sauf s’ils utilisent des
+Points de Construction pour &#234;tre constitu&#233;s d’une autre mati&#232;re.
+Pour obtenir un objet anim&#233; d’une autre taille que Moyenne, il
+suffit d’ajuster le nombre de d&#233;s de vie et la taille de l’objet d&#233;crit
+ci-contre (et donc d’adapter sa Force, sa Dext&#233;rit&#233;, son bonus
+d’armure naturelle et ses modificateur de taille &#224; l’attaque et &#224; la
+CA).&lt;br /&gt;&lt;br /&gt;&lt;center&gt;
+&lt;table CLASS=&quot;tablo&quot;&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td class=&quot;gauche&quot;&gt;Taille &lt;/td&gt;&lt;td class=&quot;gauche&quot;&gt;Exemple&lt;/td&gt;&lt;td class=&quot;gauche&quot;&gt;DV&lt;/td&gt;&lt;td class=&quot;gauche&quot;&gt;PC&lt;/td&gt;&lt;td class=&quot;gauche&quot;&gt;FP&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier&quot;&gt;&lt;td class=&quot;gauche&quot;&gt;Minuscule &lt;/td&gt;&lt;td class=&quot;gauche&quot;&gt;chandelier&lt;/td&gt;&lt;td class=&quot;gauche&quot;&gt;1d10&lt;/td&gt;&lt;td class=&quot;gauche&quot;&gt;1&lt;/td&gt;&lt;td class=&quot;gauche&quot;&gt;1/2&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td class=&quot;gauche&quot;&gt;Tr&#232;s petit &lt;/td&gt;&lt;td class=&quot;gauche&quot;&gt;chaise&lt;/td&gt;&lt;td class=&quot;gauche&quot;&gt;2d10+10&lt;/td&gt;&lt;td class=&quot;gauche&quot;&gt;1&lt;/td&gt;&lt;td class=&quot;gauche&quot;&gt;2&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td class=&quot;gauche&quot;&gt;Moyen &lt;/td&gt;&lt;td class=&quot;gauche&quot;&gt;cage&lt;/td&gt;&lt;td class=&quot;gauche&quot;&gt;3d10+20&lt;/td&gt;&lt;td class=&quot;gauche&quot;&gt;2&lt;/td&gt;&lt;td class=&quot;gauche&quot;&gt;3&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td class=&quot;gauche&quot;&gt;Grand &lt;/td&gt;&lt;td class=&quot;gauche&quot;&gt;statue&lt;/td&gt;&lt;td class=&quot;gauche&quot;&gt;4d10+30&lt;/td&gt;&lt;td class=&quot;gauche&quot;&gt;3&lt;/td&gt;&lt;td class=&quot;gauche&quot;&gt;5&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td class=&quot;gauche&quot;&gt;Tr&#232;s grand &lt;/td&gt;&lt;td class=&quot;gauche&quot;&gt;wagon&lt;/td&gt;&lt;td class=&quot;gauche&quot;&gt;7d10+40&lt;/td&gt;&lt;td class=&quot;gauche&quot;&gt;4&lt;/td&gt;&lt;td class=&quot;gauche&quot;&gt;7&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td class=&quot;gauche&quot;&gt;Gigantesque &lt;/td&gt;&lt;td class=&quot;gauche&quot;&gt;catapulte&lt;/td&gt;&lt;td class=&quot;gauche&quot;&gt;10d10+60&lt;/td&gt;&lt;td class=&quot;gauche&quot;&gt;5&lt;/td&gt;&lt;td class=&quot;gauche&quot;&gt;9&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td class=&quot;gauche&quot;&gt;Colossal &lt;/td&gt;&lt;td class=&quot;gauche&quot;&gt;navire&lt;/td&gt;&lt;td class=&quot;gauche&quot;&gt;13d10+80&lt;/td&gt;&lt;td class=&quot;gauche&quot;&gt;6&lt;/td&gt;&lt;td class=&quot;gauche&quot;&gt;11&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt; &lt;/center&gt;
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Objet animé|FP 3}
+{s:pucem|Créature artificielle|Ruines-Donjons|Tempéré}
+{s:BDTexte|''Source : Bestiaire'' p.229}
+{s:BDTexte|'''PX''' 800}
+{s:BDTexte|[[type Créature artificielle|Créature artificielle]] de taille M, N}
+{s:BDTexte|'''Init''' +0 ; '''Sens''' [[vision dans le noir]] 18 m (12 {s:c}), [[vision nocturne]] ; [[Perception]] -5}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 14, contact 10, pris au dépourvu 12 (naturelle +4)}
+{s:BDTexte|'''pv''' 36 (3d10+20)}
+{s:BDTexte|'''Réf''' +1, '''Vig''' +1, '''Vol''' -4}
+{s:BDTexte|'''Capacités défensives''' [[solidité]] 5 (ou plus) ; '''Immunités''' [[traits des créatures artificielles]] }
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 9 m (6 {s:c})}
+{s:BDTexte|'''Corps à corps''' coup, +5 (1d6+3)}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 14, '''Dex''' 10, '''Con''' -, '''Int''' -, '''Sag''' 1, '''Cha''' 1}
+{s:BDTexte|'''BBA''' +3, '''BMO''' +5, '''DMD''' 15}
+{s:BDTexte|'''Particularités''' points de construction}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' quelconque}
+{s:BDTexte|'''Organisation sociale''' solitaire, couple ou groupe (3-12)}
+{s:BDTexte|'''Trésor''' aucun}
+{s:BDSousTitre|Capacité spéciales}
+{s:BDTexte|'''Points de Construction''' Les objets animés disposent d'un certain quota de Points de Construction (PC) qu'ils peuvent utiliser pour acheter des capacités et des protections en plus de celles présentées plus haut. Un objet de [[taille]] M possède 2 PC ; pour les objets de taille différente, voir le tableau ci-dessous. Si un objet animé dépense un nombre de PC supérieur au quota associé à sa catégorie de taille, son FP augmente de +1 par tranche de 2 PC ajoutés (avec un minimum de +1).}
+{s:BDTexte|:''Attaque supplémentaire (Ext, 1 PC).'' Gagne une attaque de coup supplémentaire.}
+{s:BDTexte|:''Constriction (Ext, 1 PC).'' Ajoute la capacité de [[constriction]] à l'attaque de coup (l'objet doit posséder la capacité d<nowiki>'</nowiki>''étreinte''avant de pouvoir choisir cette option).}
+{s:BDTexte|:''Etreinte (Ext, 1 PC).'' Ajoute la capacité d'[[étreinte]] aux attaques de coup.}
+{s:BDTexte|:''Métal (Ext, 2 PC).'' L'objet est fait d'un métal courant. Sa [[solidité]] passe à 10 et son bonus d'armure naturelle augmente de +2. Les objets de [[mithral]] coûtent 4 PC et ont une [[solidité]] de 15 et un accroissement du bonus d'armure naturelle de +4. Les objets d'[[adamantium]] coütent 6 PC et ont une [[solidité]] de 20 et un accroissement du bonus d'armure naturelle de +6.}
+{s:BDTexte|:''Mouvement supplémentaire (Ext, 1 PC).'' Gagne un nouveau mode de déplacement (creusement, escalade, vol <nowiki>[</nowiki>déplorable</nowiki>]<nowiki> ou nage) avec une vitesse égale à sa vitesse de déplacement de base.}
+{s:BDTexte|:''Pierre (Ext, 1 PC).'' L'objet est fait de pierre ou de cristal. Sa [[solidité]] passe à 8 et son bonus d'armure naturelle augmente de +1.}
+{s:BDTexte|:''Piétinement (Ext, 2 PC):'' Gagne la capacité de [[piétinement]] (voir la description de la capacité pour les dégâts et les [[DD]] associés).}
+{s:BDTexte|:''Plus rapide (Ext, 1 PC).'' La vitesse d'un des modes de déplacement augmente de +3 m (2 {s:c}).}
+
+{s:um}
+{s:BDTexte|:''Allonge exceptionnelle (Ext, 1 PC).'' L’objet gagne une [[allonge]] de 1,50 mètre (1 {s:c}) pour une [[attaque au corps à corps]]. Augmente l’allonge de toutes les attaques pour 1 PC de plus.}
+{s:BDTexte|''Attaque améliorée (Ext, 1 PC).'' Toutes les [[attaque à distance|attaques à distance]] et au [[attaque au corps à corps|corps à corps]] de l’objet animé infligent les mêmes dégâts que s’il était d’une [[Caractéristiques des armes#TAILLEARME|catégorie de taille]] au-dessus de la sienne. L’artisan doit acheter les pouvoirs d’attaque améliorée séparément pour les armes de corps à corps et les armes à distance.}
+{s:BDTexte|''Attaque à distance (Ext, 2 PC).'' Remplace une attaque de coup par une [[attaque à distance]] qui inflige le même montant de dégâts avec une portée de 6 mètres. Remplace toutes les [[attaque au corps à corps|attaques de corps à corps]] pour 2 PC de plus. Les pouvoirs d’objets qui affectent spécifiquement les attaques de coup ne fonctionnent pas avec les attaques à distance.}
+{s:BDTexte|''Attaque perforante (Ext, 1PC).'' Remplace une attaque de coup par une attaque perforante qui inflige le même montant de dégâts mais possède un multiplicateur de [[coup critique]] de × 3. Remplace toutes les [[attaque au corps à corps|attaques de corps à corps]] pour 1 PC de plus. Les pouvoirs d’objets qui affectent spécifiquement les attaques de coup ne fonctionnent pas avec les attaques perforantes.}
+{s:BDTexte|''Attaque tranchante (Ext, 1PC).'' Remplace une attaque de coup par une attaque tranchante qui inflige le même montant de dégâts mais possède soit une [[zone de critique]] possible de 19-20 (pour les attaques de type lame), soit un multiplicateur de [[coup critique]] de × 3 (pour les attaques de type faux). Remplace toutes les [[attaque au corps à corps|attaques de corps à corps]] pour 1 PC de plus. Les pouvoirs d’objets qui affectent spécifiquement les attaques de coup ne fonctionnent pas avec les attaques tranchantes.}
+{s:BDTexte|''Critiques augmentés (Ext, 1 PC).'' Augmente la [[zone de critique]] possible des attaques de corps à corps d’un objet animé de 1 ou le multiplicateur de [[coup critique]] de 1. Ce pouvoir ne se cumule pas avec lui-même ni avec les pouvoirs d’attaque d’un objet perforant ou tranchant.}
+{s:BDTexte|''Croc-en-jambe (Ext, 2 PC).'' L’objet gagne le pouvoir spécial [[croc-en-jambe (capacité)|croc-en-jambe]] pour l’une de ses attaques de coup.}
+
+
+</div>
+</td><td><div>''Les os enfermés dans la cage s’entrechoquent quand ses jambes de
+chaînes s’animent et qu’elle part en quête de nouveaux prisonniers.''
+
+Un objet animé n’est pas juste un monstre mais bien une catégorie
+à part entière. Le profil présenté ci-contre se rapporte à un objet
+animé de taille M (qui dispose encore de 2 PC à dépenser pour
+acquérir des capacités supplémentaires), mais tous les objets
+peuvent être animés (généralement grâce au sort animation
+d’objets, mais le don de Construction de créatures artificielles permet aussi de construire des objets animés
+permanents). Les objets animés sont composés de bois ou d’un
+autre matériau de solidité équivalente, sauf s’ils utilisent des
+Points de Construction pour être constitués d’une autre matière.
+Pour obtenir un objet animé d’une autre taille que Moyenne, il
+suffit d’ajuster le nombre de dés de vie et la taille de l’objet décrit
+ci-contre (et donc d’adapter sa Force, sa Dextérité, son bonus
+d’armure naturelle et ses modificateur de taille à l’attaque et à la
+CA).
+
+<center>
+{| CLASS="tablo"
+|+
+|- CLASS="titre"
+| class="gauche" | Taille 
+| class="gauche" | Exemple
+| class="gauche" | DV
+| class="gauche" | PC
+| class="gauche" | FP
+|- CLASS="premier"
+| class="gauche" | Minuscule 
+| class="gauche" | chandelier
+| class="gauche" | 1d10
+| class="gauche" | 1
+| class="gauche" | 1/2
+|- CLASS="alt"
+| class="gauche" | Très petit 
+| class="gauche" | chaise
+| class="gauche" | 2d10+10
+| class="gauche" | 1
+| class="gauche" | 2
+|-
+| class="gauche" | Moyen 
+| class="gauche" | cage
+| class="gauche" | 3d10+20
+| class="gauche" | 2
+| class="gauche" | 3
+|- CLASS="alt"
+| class="gauche" | Grand 
+| class="gauche" | statue
+| class="gauche" | 4d10+30
+| class="gauche" | 3
+| class="gauche" | 5
+|-
+| class="gauche" | Très grand 
+| class="gauche" | wagon
+| class="gauche" | 7d10+40
+| class="gauche" | 4
+| class="gauche" | 7
+|- CLASS="alt"
+| class="gauche" | Gigantesque 
+| class="gauche" | catapulte
+| class="gauche" | 10d10+60
+| class="gauche" | 5
+| class="gauche" | 9
+|-
+| class="gauche" | Colossal 
+| class="gauche" | navire
+| class="gauche" | 13d10+80
+| class="gauche" | 6
+| class="gauche" | 11
+|} </center>
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Objet animé</fullName>
+</wikiPage>

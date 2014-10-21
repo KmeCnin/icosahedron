@@ -1,0 +1,210 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Taotieh</title>
+  <categories><category>Pathfinder-RPG.Bestiaire 3</category><category>Pathfinder-RPG.Monstre</category><category>Pathfinder-RPG.Règles officielles</category></categories>
+  <lastModified>2014-01-19 21:36:33Z</lastModified>
+  <version>4</version>
+  <inLinks><link>Pathfinder-RPG.Liste de monstres par FP</link><link>Pathfinder-RPG.Liste de monstres par milieu naturel</link><link>Pathfinder-RPG.Liste de monstres par type</link><link>Pathfinder-RPG.Monstres</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.type Créature artificielle</link><link>Pathfinder-RPG.vision dans le noir</link><link>Pathfinder-RPG.vision nocturne</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Traits des créatures artificielles</link><link>Pathfinder-RPG.Étreinte</link><link>Pathfinder-RPG.Bond</link><link>Pathfinder-RPG.Pattes arrière</link><link>Pathfinder-RPG.lutte</link><link>Pathfinder-RPG.croc-en-jambe</link><link>Pathfinder-RPG.round</link><link>Pathfinder-RPG.Création de créatures artificielles</link><link>Pathfinder-RPG.Mission</link><link>Pathfinder-RPG.Souhait limité</link><link>Pathfinder-RPG.Changement de plan</link><link>Pathfinder-RPG.Artisanat</link><link>Pathfinder-RPG.DD</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Taotieh&lt;div style=&quot;float:right;&quot;&gt;FP 11&lt;/div&gt;&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Bestiaire 3 p.251&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 12.800
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Cr&#233;ature-Artificielle.html&quot; title=&quot;Cr&#233;ature artificielle&quot;&gt;Cr&#233;ature artificielle&lt;/a&gt; de taille G, N
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +2 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Capacit&#233;s-Sp&#233;ciales.html#VISIONDANSLENOIR&quot; title=&quot;vision dans le noir&quot;&gt;vision dans le noir&lt;/a&gt; 18 m (12 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Nocturne-(Capacit&#233;).html&quot; title=&quot;vision nocturne&quot;&gt;vision nocturne&lt;/a&gt; ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +2
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 28, contact 11, pris au d&#233;pourvu 26 (Dex +2, naturelle +17, taille -1)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 107 (14d10+30)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +6, &lt;b&gt;Vig&lt;/b&gt; +4, &lt;b&gt;Vol&lt;/b&gt; +6
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Immunit&#233;s&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Traits-Des-Cr&#233;atures-Artificielles-(Capacit&#233;).html&quot; title=&quot;Traits des cr&#233;atures artificielles&quot;&gt;traits des cr&#233;atures artificielles&lt;/a&gt; ; &lt;b&gt;RD&lt;/b&gt; 10/adamantium ;
+ &lt;b&gt;R&#233;sistance&lt;/b&gt; acide 10, froid 10, &#233;lectricit&#233; 10, feu 10 
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+ &lt;b&gt;Faiblesse&lt;/b&gt; vuln&#233;rabilit&#233; au son 
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 12 m (8 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; morsure, +23 (1d8+10 plus &lt;a class=&quot;pagelink&quot; href=&quot;&#201;treinte-(Capacit&#233;).html&quot; title=&quot;&#201;treinte&quot;&gt;&#233;treinte&lt;/a&gt;) et 2 griffes, +23 (1d6+10 plus &lt;a class=&quot;pagelink&quot; href=&quot;&#201;treinte-(Capacit&#233;).html&quot; title=&quot;&#201;treinte&quot;&gt;&#233;treinte&lt;/a&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Espace&lt;/b&gt; 3 m (2 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) ; &lt;b&gt;Allonge&lt;/b&gt; 1.5 m (1 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaques sp&#233;ciales&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Bond-(Capacit&#233;).html&quot; title=&quot;Bond&quot;&gt;bond&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Pattes-Arri&#232;re-(Capacit&#233;).html&quot; title=&quot;Pattes arri&#232;re&quot;&gt;pattes arri&#232;re&lt;/a&gt; (2 griffes, +23 1d6+10),
+engloutissement (suffocation, CA 17, solidit&#233; 8, 25 pv)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 30, &lt;b&gt;Dex&lt;/b&gt; 15, &lt;b&gt;Con&lt;/b&gt; -, &lt;b&gt;Int&lt;/b&gt; -, &lt;b&gt;Sag&lt;/b&gt; 14, &lt;b&gt;Cha&lt;/b&gt; 1
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +14, &lt;b&gt;BMO&lt;/b&gt; +25 (+29 &lt;a class=&quot;pagelink&quot; href=&quot;Manœuvres-Offensives.html#LUTTE&quot; title=&quot;lutte&quot;&gt;lutte&lt;/a&gt;), &lt;b&gt;DMD&lt;/b&gt; 37 (41 contre le &lt;a class=&quot;pagelink&quot; href=&quot;Croc-En-Jambe.html&quot; title=&quot;croc-en-jambe&quot;&gt;croc-en-jambe&lt;/a&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; tous
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation sociale&lt;/b&gt; solitaire ou couple
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; fortuit
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Capacit&#233;s sp&#233;ciales&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Engloutissement (Sur)&lt;/b&gt;. Le taotieh peut &#233;largir ses m&#226;choires pour
+engloutir une cr&#233;ature de taille G ou plus petite. Lorsqu’elle
+est engloutie, la victime est transport&#233;e jusqu’&#224; une poche
+dimensionnelle personnelle sans lumi&#232;re : une prison de pierre
+juste assez grande pour la contenir. Les cr&#233;atures ne re&#231;oivent
+pas de d&#233;g&#226;ts au sein de cette poche dimensionnelle mais elle
+renferme assez d’air pour 3 &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#ROUND&quot; title=&quot;round&quot;&gt;round&lt;/a&gt;s
+seulement. &#192; la fin du troisi&#232;me &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#ROUND&quot; title=&quot;round&quot;&gt;round&lt;/a&gt;,
+la cr&#233;ature pi&#233;g&#233;e doit retenir son
+souffle ou risquer la suffocation.
+Une cr&#233;ature qui tente de s’&#233;chapper de
+cette dimension en taillant la pierre avec une
+arme doit &#234;tre capable de passer la solidit&#233; du mur
+de 8. Lorsqu’une cr&#233;ature r&#233;ussit &#224; se frayer
+ainsi un chemin hors de cette dimension, elle &#233;merge de la gueule 
+du taotieh et se retrouve dans n’importe
+quelle case adjacente &#224; l’espace occup&#233; par le taotieh : celui-ci ne
+pr&#233;sente aucune br&#232;che et toutes les cr&#233;atures qui seront ainsi
+aval&#233;es plus tard devront tailler la pierre pour sortir. Lorsqu’un
+taotieh est d&#233;truit, son corps s’ouvre pour lib&#233;rer tout ce que
+contiennent ses estomacs extradimensionnels, recrach&#233; sur
+les cases adjacentes. Le taotieh peut engloutir jusqu’&#224; quatre
+cr&#233;atures &#224; la fois.
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;td&gt;&lt;div&gt;&lt;i&gt;Cette statue de marbre blanc repr&#233;sente un grand f&#233;lin dont le corps et le
+visage sont couverts de runes grav&#233;es et autres inscriptions d&#233;coratives.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Symboles de puissance mais aussi de gloutonnerie,
+les taotiehs sont des cr&#233;atures artificielles gardiennes
+taill&#233;es dans la pierre autour d’une poche d’espace
+extradimensionnel. Ils sont utilis&#233;s comme gardiens des
+zones sacr&#233;es ou servent &#224; prot&#233;ger un endroit recul&#233; contre
+les ennemis et les intrus. Leur ressemblance avec les tigres
+s’&#233;tend m&#234;me &#224; leurs capacit&#233;s en combat, les taotiehs &#233;tant
+redout&#233;s pour leurs attaques cruelles. Gr&#226;ce &#224; leur base
+extradimensionnelle, ces cr&#233;atures artificielles peuvent
+engloutir des adversaires de leur taille et de les exp&#233;dier
+dans les poches spatiales d&#233;pourvues d’air qu’ils ont en eux.
+Les cr&#233;atures capables de vivre sans air peuvent passer une
+&#233;ternit&#233; &#224; l’int&#233;rieur du taotieh lorsqu’elles ne peuvent pas
+briser la pierre pour s’en sortir ou s’&#233;chapper gr&#226;ce &#224; des
+moyens magiques permettant de traverser les plans : dans
+ce cas-l&#224;, elles doivent attendre que des forces ext&#233;rieures
+tuent leur ge&#244;lier. On raconte que la destruction d’un taotieh
+lib&#232;re une quantit&#233; impressionnante de grands tr&#233;sors et des
+dangers encore plus grands.&lt;br /&gt;&lt;br /&gt;&lt;h3 class=&quot;separator&quot;&gt;Construction&lt;a class=&quot;headeranchor&quot; id=&quot;Construction_0&quot; href=&quot;#Construction_0&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;
+La construction d’un taotieh requiert 6 tonnes de marbre
+trait&#233; avec des onguents et des produits chimiques sp&#233;ciaux.
+&lt;b&gt;NLS&lt;/b&gt; 14&lt;sup&gt;e&lt;/sup&gt; ; &lt;b&gt;Prix&lt;/b&gt; 105 000 po&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Conditions&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;ation-De-Cr&#233;atures-Artificielles.html&quot; title=&quot;Cr&#233;ation de cr&#233;atures artificielles&quot;&gt;Cr&#233;ation de cr&#233;atures artificielles&lt;/a&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Mission.html&quot; title=&quot;Mission&quot;&gt;mission&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Souhait-Limit&#233;.html&quot; title=&quot;Souhait limit&#233;&quot;&gt;souhait limit&#233;&lt;/a&gt;&lt;/i&gt;,
+ &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Changement-De-Plan.html&quot; title=&quot;Changement de plan&quot;&gt;changement de plan&lt;/a&gt;&lt;/i&gt;,  le cr&#233;ateur doit avoir un niveau de lanceur de sorts minimum de 14 ; &lt;b&gt;Comp&#233;tence&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Artisanat.html&quot; title=&quot;Artisanat&quot;&gt;Artisanat&lt;/a&gt; (sculpture) ou &lt;a class=&quot;pagelink&quot; href=&quot;Artisanat.html&quot; title=&quot;Artisanat&quot;&gt;Artisanat&lt;/a&gt; (constructions en pierre) &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DEGREDEDIFFICULTE&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; 25 ; &lt;b&gt;Co&#251;t&lt;/b&gt; 55 000 po
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Taotieh|FP 11}
+{s:pucem|Créature artificielle|Ruines-Donjons|Tempéré}
+{s:BDTexte|''Source : Bestiaire 3 p.251''}
+{s:BDTexte|'''PX''' 12.800}
+{s:BDTexte|[[type Créature artificielle|Créature artificielle]] de taille G, N}
+{s:BDTexte|'''Init''' +2 ; '''Sens''' [[vision dans le noir]] 18 m (12 {s:c}), [[vision nocturne]] ; [[Perception]] +2}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 28, contact 11, pris au dépourvu 26 (Dex +2, naturelle +17, taille -1)}
+{s:BDTexte|'''pv''' 107 (14d10+30)}
+{s:BDTexte|'''Réf''' +6, '''Vig''' +4, '''Vol''' +6}
+{s:BDTexte|'''Immunités''' [[traits des créatures artificielles]] ; '''RD''' 10/adamantium ;
+ '''Résistance''' acide 10, froid 10, électricité 10, feu 10 }
+{s:BDTexte| '''Faiblesse''' vulnérabilité au son }
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 12 m (8 {s:c})}
+{s:BDTexte|'''Corps à corps''' morsure, +23 (1d8+10 plus [[étreinte]]) et 2 griffes, +23 (1d6+10 plus [[étreinte]])}
+{s:BDTexte|'''Espace''' 3 m (2 {s:c}) ; '''Allonge''' 1.5 m (1 {s:c})}
+{s:BDTexte|'''Attaques spéciales''' [[bond]], [[pattes arrière]] (2 griffes, +23 1d6+10),
+engloutissement (suffocation, CA 17, solidité 8, 25 pv)}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 30, '''Dex''' 15, '''Con''' -, '''Int''' -, '''Sag''' 14, '''Cha''' 1}
+{s:BDTexte|'''BBA''' +14, '''BMO''' +25 (+29 [[lutte]]), '''DMD''' 37 (41 contre le [[croc-en-jambe]])}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' tous}
+{s:BDTexte|'''Organisation sociale''' solitaire ou couple}
+{s:BDTexte|'''Trésor''' fortuit}
+{s:BDSousTitre|Capacités spéciales}
+{s:BDTexte|'''Engloutissement (Sur)'''. Le taotieh peut élargir ses mâchoires pour
+engloutir une créature de taille G ou plus petite. Lorsqu’elle
+est engloutie, la victime est transportée jusqu’à une poche
+dimensionnelle personnelle sans lumière : une prison de pierre
+juste assez grande pour la contenir. Les créatures ne reçoivent
+pas de dégâts au sein de cette poche dimensionnelle mais elle
+renferme assez d’air pour 3 [[round]]s
+seulement. À la fin du troisième [[round]],
+la créature piégée doit retenir son
+souffle ou risquer la suffocation.
+Une créature qui tente de s’échapper de
+cette dimension en taillant la pierre avec une
+arme doit être capable de passer la solidité du mur
+de 8. Lorsqu’une créature réussit à se frayer
+ainsi un chemin hors de cette dimension, elle émerge de la gueule 
+du taotieh et se retrouve dans n’importe
+quelle case adjacente à l’espace occupé par le taotieh : celui-ci ne
+présente aucune brèche et toutes les créatures qui seront ainsi
+avalées plus tard devront tailler la pierre pour sortir. Lorsqu’un
+taotieh est détruit, son corps s’ouvre pour libérer tout ce que
+contiennent ses estomacs extradimensionnels, recraché sur
+les cases adjacentes. Le taotieh peut engloutir jusqu’à quatre
+créatures à la fois.}
+</div>
+</td><td><div>''Cette statue de marbre blanc représente un grand félin dont le corps et le
+visage sont couverts de runes gravées et autres inscriptions décoratives.''
+
+Symboles de puissance mais aussi de gloutonnerie,
+les taotiehs sont des créatures artificielles gardiennes
+taillées dans la pierre autour d’une poche d’espace
+extradimensionnel. Ils sont utilisés comme gardiens des
+zones sacrées ou servent à protéger un endroit reculé contre
+les ennemis et les intrus. Leur ressemblance avec les tigres
+s’étend même à leurs capacités en combat, les taotiehs étant
+redoutés pour leurs attaques cruelles. Grâce à leur base
+extradimensionnelle, ces créatures artificielles peuvent
+engloutir des adversaires de leur taille et de les expédier
+dans les poches spatiales dépourvues d’air qu’ils ont en eux.
+Les créatures capables de vivre sans air peuvent passer une
+éternité à l’intérieur du taotieh lorsqu’elles ne peuvent pas
+briser la pierre pour s’en sortir ou s’échapper grâce à des
+moyens magiques permettant de traverser les plans : dans
+ce cas-là, elles doivent attendre que des forces extérieures
+tuent leur geôlier. On raconte que la destruction d’un taotieh
+libère une quantité impressionnante de grands trésors et des
+dangers encore plus grands.
+
+====Construction====
+
+La construction d’un taotieh requiert 6 tonnes de marbre
+traité avec des onguents et des produits chimiques spéciaux.
+'''NLS''' 14<sup>e</sup> ; '''Prix''' 105 000 po
+
+'''Conditions''' [[Création de créatures artificielles]], ''[[mission]]'', ''[[souhait limité]]'',
+ ''[[changement de plan]]'',  le créateur doit avoir un niveau de lanceur de sorts minimum de 14 ; '''Compétence''' [[Artisanat]] (sculpture) ou [[Artisanat]] (constructions en pierre) [[DD]] 25 ; '''Coût''' 55 000 po
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Taotieh</fullName>
+</wikiPage>

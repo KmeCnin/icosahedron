@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Harmonie profane</title>
+  <categories><category>Pathfinder-RPG.Advanced Player Guide</category><category>Pathfinder-RPG.Règles officielles</category><category>Pathfinder-RPG.Sort</category><category>Pathfinder-RPG.Sort barde 3</category></categories>
+  <lastModified>2012-11-04 00:27:33Z</lastModified>
+  <version>1</version>
+  <inLinks><link>Pathfinder-RPG.Glossaire des sorts</link><link>Pathfinder-RPG.Liste des sorts (suite)</link><link>Pathfinder-RPG.Liste des sorts de bardes</link><link>Pathfinder-RPG.TMP sorts APG</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Évocation</link><link>Pathfinder-RPG.Barde</link><link>Pathfinder-RPG.Action simple</link><link>Pathfinder-RPG.composantes</link><link>Pathfinder-RPG.Présentation des sorts</link><link>Pathfinder-RPG.round</link><link>Pathfinder-RPG.niveau</link><link>Pathfinder-RPG.DD</link><link>Pathfinder-RPG.jet de sauvegarde</link><link>Pathfinder-RPG.Dons</link><link>Pathfinder-RPG.Extension de portée</link><link>Pathfinder-RPG.Extension de durée</link><link>Pathfinder-RPG.Incantation silencieuse</link><link>Pathfinder-RPG.Incantation statique</link></outLinks>
+  <body><![CDATA[
+&lt;b&gt;&#201;cole&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#EVOCATION&quot; title=&quot;&#201;vocation&quot;&gt;&#201;vocation&lt;/a&gt;&#160;; &lt;b&gt;Niveau&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Barde.html&quot; title=&quot;Le barde&quot;&gt;barde&lt;/a&gt; 3&lt;br/&gt;
+&lt;b&gt;Temps d&#39;incantation&lt;/b&gt; 1 &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions.html#SIMPLE&quot; title=&quot;Action simple&quot;&gt;action simple&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Composantes&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#COMPOSANTES&quot; title=&quot;composantes&quot;&gt;V, G, M&lt;/a&gt; (une baguette utilis&#233;e)&lt;br/&gt;
+&lt;b&gt;Port&#233;e&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#PORTEE&quot; title=&quot;Pr&#233;sentation des sorts&quot;&gt;personnelle&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Cible&lt;/b&gt; lanceur de sorts&lt;br/&gt;
+&lt;b&gt;Zone&lt;/b&gt; &#233;manation de 3&#160;m (2 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) de rayon centr&#233;e sur le lanceur de sorts&lt;br/&gt;
+&lt;b&gt;Dur&#233;e&lt;/b&gt; 1 &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#ROUND&quot; title=&quot;round&quot;&gt;round&lt;/a&gt;/&lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#NIVEAU&quot; title=&quot;niveau&quot;&gt;niveau&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Jet de sauvegarde&lt;/b&gt; aucun&#160;; &lt;b&gt;R&#233;sistance &#224; la magie&lt;/b&gt; non&lt;br /&gt;&lt;br /&gt;Le personnage est entour&#233; d&#39;un halo de lumi&#232;re bleue et dor&#233;e qui am&#233;liore les sorts de magie profane lanc&#233;s par ses alli&#233;s dans la zone d&#39;effet. Tout sort de ce type lanc&#233; dans cette zone gagne un bonus d&#39;alt&#233;ration de +1 au &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DEGREDEDIFFICULTE&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; de tout &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;jet de sauvegarde&quot;&gt;jet de sauvegarde&lt;/a&gt; destin&#233; &#224; lui r&#233;sister. De plus, on peut lui appliquer l&#39;un des &lt;a class=&quot;pagelink&quot; href=&quot;Dons.html#DONMETAMAGIE&quot; title=&quot;Les dons&quot;&gt;dons de m&#233;tamagie&lt;/a&gt; suivants au moment de l&#39;incantation (sans augmenter le niveau du sort ni sa dur&#233;e d&#39;incantation)&#160;: &lt;a class=&quot;pagelink&quot; href=&quot;Extension-De-Port&#233;e.html&quot; title=&quot;Extension de port&#233;e&quot;&gt;Extension de port&#233;e&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Extension-De-Dur&#233;e.html&quot; title=&quot;Extension de dur&#233;e&quot;&gt;Extension de dur&#233;e&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Incantation-Silencieuse.html&quot; title=&quot;Incantation silencieuse&quot;&gt;Incantation silencieuse&lt;/a&gt; ou &lt;a class=&quot;pagelink&quot; href=&quot;Incantation-Statique.html&quot; title=&quot;Incantation statique&quot;&gt;Incantation statique&lt;/a&gt; (le lanceur de sorts d&#233;cide du don appliqu&#233; au moment o&#249; il lance &lt;i&gt;harmonie profane&lt;/i&gt;).
+]]></body>
+  <raw><![CDATA[{s:APG}
+'''École''' [[Évocation]] ; '''Niveau''' [[barde]] 3<br/>
+'''Temps d'incantation''' 1 [[action simple]]<br/>
+'''Composantes''' [[Composantes|V, G, M]] (une baguette utilisée)<br/>
+'''Portée''' [[Présentation des sorts#PORTEE|personnelle]]<br/>
+'''Cible''' lanceur de sorts<br/>
+'''Zone''' émanation de 3 m (2 {s:c}) de rayon centrée sur le lanceur de sorts<br/>
+'''Durée''' 1 [[round]]/[[niveau]]<br/>
+'''Jet de sauvegarde''' aucun ; '''Résistance à la magie''' non
+
+Le personnage est entouré d'un halo de lumière bleue et dorée qui améliore les sorts de magie profane lancés par ses alliés dans la zone d'effet. Tout sort de ce type lancé dans cette zone gagne un bonus d'altération de +1 au [[DD]] de tout [[jet de sauvegarde]] destiné à lui résister. De plus, on peut lui appliquer l'un des [[Dons#DONMETAMAGIE|dons de métamagie]] suivants au moment de l'incantation (sans augmenter le niveau du sort ni sa durée d'incantation) : [[Extension de portée]], [[Extension de durée]], [[Incantation silencieuse]] ou [[Incantation statique]] (le lanceur de sorts décide du don appliqué au moment où il lance ''harmonie profane'').
+]]></raw>
+  <fullName>Pathfinder-RPG.Harmonie profane</fullName>
+</wikiPage>

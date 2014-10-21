@@ -1,0 +1,161 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Champignon cérébré</title>
+  <categories><category>Pathfinder-RPG.Bestiaire 3</category><category>Pathfinder-RPG.Monstre</category><category>Pathfinder-RPG.Règles officielles</category></categories>
+  <lastModified>2013-04-16 20:29:17Z</lastModified>
+  <version>0</version>
+  <inLinks><link>Pathfinder-RPG.Glossaire des monstres</link><link>Pathfinder-RPG.Liste de monstres par FP</link><link>Pathfinder-RPG.Liste de monstres par milieu naturel</link><link>Pathfinder-RPG.Liste de monstres par type</link><link>Pathfinder-RPG.Monstres</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.type Plante</link><link>Pathfinder-RPG.vision dans le noir</link><link>Pathfinder-RPG.vision nocturne</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.DD</link><link>Pathfinder-RPG.guérison accélérée</link><link>Pathfinder-RPG.Traits des plantes</link><link>Pathfinder-RPG.Vulnérabilités (capacité)</link><link>Pathfinder-RPG.Attirer</link><link>Pathfinder-RPG.Détection de pensées</link><link>Pathfinder-RPG.Apaisement des émotions</link><link>Pathfinder-RPG.Idiotie</link><link>Pathfinder-RPG.croc-en-jambe</link><link>Pathfinder-RPG.Attaques multiples</link><link>Pathfinder-RPG.Science de linitiative</link><link>Pathfinder-RPG.Bluff</link><link>Pathfinder-RPG.Diplomatie</link><link>Pathfinder-RPG.Discrétion</link><link>Pathfinder-RPG.Télépathie (capacité)</link><link>Pathfinder-RPG.Volonté</link><link>Pathfinder-RPG.jet dattaque</link><link>Pathfinder-RPG.Registre</link><link>Pathfinder-RPG.jet de sauvegarde</link><link>Pathfinder-RPG.Charisme</link><link>Pathfinder-RPG.école divination</link><link>Pathfinder-RPG.Confus</link><link>Pathfinder-RPG.round</link><link>Pathfinder-RPG.Action complexe</link><link>Pathfinder-RPG.Nauséeux</link><link>Pathfinder-RPG.Constitution</link><link>Pathfinder-RPG.Hébété</link><link>Pathfinder-RPG.attaque de contact</link><link>Pathfinder-RPG.NLS</link><link>Pathfinder-RPG.Étourdi</link><link>Pathfinder-RPG.Enchantement</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Champignon c&#233;r&#233;br&#233;&lt;div style=&quot;float:right;&quot;&gt;FP 3&lt;/div&gt;&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Bestiaire 3 p.47&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 800
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Plante.html&quot; title=&quot;Plante&quot;&gt;Plante&lt;/a&gt; de taille M, N
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +4 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Capacit&#233;s-Sp&#233;ciales.html#VISIONDANSLENOIR&quot; title=&quot;vision dans le noir&quot;&gt;vision dans le noir&lt;/a&gt; &#224; 18 m (12 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) ; &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Nocturne-(Capacit&#233;).html&quot; title=&quot;vision nocturne&quot;&gt;vision nocturne&lt;/a&gt; ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +12
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Aura&lt;/b&gt; apparence inqui&#233;tante (18 m (12 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DEGREDEDIFFICULTE&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; 14)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 15, contact 10, pris au d&#233;pourvu 15 (naturelle +5)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 30 (4d8+12) ; &lt;a class=&quot;pagelink&quot; href=&quot;Gu&#233;rison-Acc&#233;l&#233;r&#233;e-(Capacit&#233;).html&quot; title=&quot;gu&#233;rison acc&#233;l&#233;r&#233;e&quot;&gt;gu&#233;rison acc&#233;l&#233;r&#233;e&lt;/a&gt; 2
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +1, &lt;b&gt;Vig&lt;/b&gt; +7, &lt;b&gt;Vol&lt;/b&gt; +6
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Capacit&#233;s d&#233;fensives&lt;/b&gt; esprit &#233;tranger ; &lt;b&gt;Immunit&#233;&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Traits-Des-Plantes-(Capacit&#233;).html&quot; title=&quot;Traits des plantes&quot;&gt;traits des plantes&lt;/a&gt; ; &lt;b&gt;R&#233;sistance&lt;/b&gt; froid 5
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Faiblesse&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vuln&#233;rabilit&#233;s-(Capacit&#233;).html&quot; title=&quot;Vuln&#233;rabilit&#233;s (Ext ou Sur)&quot;&gt;vuln&#233;rabilit&#233;&lt;/a&gt; au son
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 9 m (6 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; 2 appendices, +3 (1d4+1 plus &lt;a class=&quot;pagelink&quot; href=&quot;Attirer-(Capacit&#233;).html&quot; title=&quot;Attirer&quot;&gt;attirer&lt;/a&gt;) et morsure, +5 (1d6+2)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Espace occup&#233;&lt;/b&gt; 1,50 m (1 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) ; &lt;b&gt;Allonge&lt;/b&gt; 1,50 m (1 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) (4,50 m (3 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) avec les tentacules)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaques sp&#233;ciales&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Attirer-(Capacit&#233;).html&quot; title=&quot;Attirer&quot;&gt;attirer&lt;/a&gt; (appendice, 1,50 m (1 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)), hurlement stellaire
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Pouvoirs magiques&lt;/b&gt; (NLS 4 ; concentration +6)
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+Constant — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;D&#233;tection-De-Pens&#233;es.html&quot; title=&quot;D&#233;tection de pens&#233;es&quot;&gt;d&#233;tection de pens&#233;es&lt;/a&gt;&lt;/i&gt; (DD 14)
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+A volont&#233; — &lt;i&gt;toucher du d&#233;ment&lt;/i&gt; (DD 14)
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+3/jour — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Apaisement-Des-&#201;motions.html&quot; title=&quot;Apaisement des &#233;motions&quot;&gt;apaisement des &#233;motions&lt;/a&gt;&lt;/i&gt; (DD 14), &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Idiotie.html&quot; title=&quot;Idiotie&quot;&gt;idiotie&lt;/a&gt;&lt;/i&gt; (DD 14)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 14, &lt;b&gt;Dex&lt;/b&gt; 11, &lt;b&gt;Con&lt;/b&gt; 16, &lt;b&gt;Int&lt;/b&gt; 15, &lt;b&gt;Sag&lt;/b&gt; 20, &lt;b&gt;Cha&lt;/b&gt; 15
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +3, &lt;b&gt;BMO&lt;/b&gt; +5, &lt;b&gt;DMD&lt;/b&gt; 15 (21 contre le &lt;a class=&quot;pagelink&quot; href=&quot;Croc-En-Jambe.html&quot; title=&quot;croc-en-jambe&quot;&gt;croc-en-jambe&lt;/a&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt;  &lt;a class=&quot;pagelink&quot; href=&quot;Attaques-Multiples.html&quot; title=&quot;Attaques multiples&quot;&gt;Attaques multiples&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Science-De-Linitiative.html&quot; title=&quot;Science de l&amp;#39;initiative&quot;&gt;Science de l’initiative&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt;  &lt;a class=&quot;pagelink&quot; href=&quot;Bluff.html&quot; title=&quot;Bluff&quot;&gt;Bluff&lt;/a&gt; +6, &lt;a class=&quot;pagelink&quot; href=&quot;Diplomatie.html&quot; title=&quot;Diplomatie&quot;&gt;Diplomatie&lt;/a&gt; +6, &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; +7, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +22
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Langues&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;T&#233;l&#233;pathie-(Capacit&#233;).html&quot; title=&quot;T&#233;l&#233;pathie (Sur)&quot;&gt;t&#233;l&#233;pathie&lt;/a&gt; &#224; 30 m (20 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; tous
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation sociale&lt;/b&gt; solitaire, couple ou colonie (3-12)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; standard
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Pouvoirs sp&#233;ciaux&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Apparence inqui&#233;tante (Sur).&lt;/b&gt; Le champignon c&#233;r&#233;br&#233; analyse constamment l&#39;esprit de ceux qui l&#39;entourent, projetant autour de lui une mosa&#239;que d&#39;images perturbantes glan&#233;es dans les pens&#233;es de ses victimes. Les cr&#233;atures situ&#233;es dans un rayon de 18 m (12 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt; doivent r&#233;ussir un jet de &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;Volont&#233;&quot;&gt;Volont&#233;&lt;/a&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DEGREDEDIFFICULTE&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; 14 ou recevoir un malus de -2 &#224; leurs &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDATTAQUE&quot; title=&quot;jet dattaque&quot;&gt;jets d&#39;attaque&lt;/a&gt;. Il s&#39;agit d&#39;un &lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;er-Un-Sort.html#REGISTRE&quot; title=&quot;Registre&quot;&gt;effet mental&lt;/a&gt;. Le &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DEGREDEDIFFICULTE&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; du &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;jet de sauvegarde&quot;&gt;jet de sauvegarde&lt;/a&gt; est bas&#233; sur le &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#CHARISME&quot; title=&quot;Le Charisme&quot;&gt;Charisme&lt;/a&gt;.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Esprit &#233;tranger (Ext).&lt;/b&gt; Toute cr&#233;ature qui essaye d&#39;entrer en contact avec un champignon c&#233;r&#233;br&#233; ou de lire ses pens&#233;es avec un sort de &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#DIVINATION&quot; title=&quot;Divination&quot;&gt;divination&lt;/a&gt; ou un autre pouvoir similaire doit r&#233;ussir un jet de &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;Volont&#233;&quot;&gt;Volont&#233;&lt;/a&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DEGREDEDIFFICULTE&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; 16 ou se faire submerger par les pens&#233;es &#233;trang&#232;res qu&#39;elle per&#231;oit dans l&#39;esprit du champignon. Celles qui &#233;chouent re&#231;oivent 1d6 points de d&#233;g&#226;ts non-l&#233;taux et sont &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables.html#Confus&quot; title=&quot;Confus&quot;&gt;confuses&lt;/a&gt; pendant 1d6 &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#ROUND&quot; title=&quot;round&quot;&gt;rounds&lt;/a&gt; ; l&#39;effet de la &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#DIVINATION&quot; title=&quot;Divination&quot;&gt;divination&lt;/a&gt; se dissipe de plus aussit&#244;t. Le &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DEGREDEDIFFICULTE&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; du &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;jet de sauvegarde&quot;&gt;jet de sauvegarde&lt;/a&gt; est bas&#233; sur le &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#CHARISME&quot; title=&quot;Le Charisme&quot;&gt;Charisme&lt;/a&gt; et inclus un bonus racial de +2.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Hurlement stellaire (Ext).&lt;/b&gt; Une fois par jour, par une &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions.html#COMPLEXE&quot; title=&quot;Action complexe&quot;&gt;action complexe&lt;/a&gt;, un champignon c&#233;r&#233;br&#233; peut pousser un cri per&#231;ant de d&#233;ment. Toutes les cr&#233;atures (&#224; l&#39;exception des autres champignons c&#233;r&#233;br&#233;s) situ&#233;es dans un rayon de 9 m (6 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) doivent faire un jet de &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;Volont&#233;&quot;&gt;Volont&#233;&lt;/a&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DEGREDEDIFFICULTE&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; 15 ou se retrouver &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables.html#Naus&#233;eux&quot; title=&quot;Naus&#233;eux&quot;&gt;naus&#233;euses&lt;/a&gt; pour 1d4 &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#ROUND&quot; title=&quot;round&quot;&gt;rounds&lt;/a&gt;. Il s&#39;agit d&#39;un &lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;er-Un-Sort.html#REGISTRE&quot; title=&quot;Registre&quot;&gt;effet sonore et mental&lt;/a&gt;. Le &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DEGREDEDIFFICULTE&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; du &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;jet de sauvegarde&quot;&gt;jet de sauvegarde&lt;/a&gt; est bas&#233; sur la &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#CONSTITUTION&quot; title=&quot;La Constitution&quot;&gt;Constitution&lt;/a&gt;.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Toucher du d&#233;ment (Mag).&lt;/b&gt; Le champignon c&#233;r&#233;br&#233; peut &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables.html#H&#233;b&#233;t&#233;&quot; title=&quot;H&#233;b&#233;t&#233;&quot;&gt;h&#233;b&#233;ter&lt;/a&gt; une unique cr&#233;ature vivante en r&#233;ussissant une &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#ATTAQUESDECONTACT&quot; title=&quot;attaque de contact&quot;&gt;attaque de contact&lt;/a&gt;. La cr&#233;ature cibl&#233;e doit r&#233;ussir un jet de &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;Volont&#233;&quot;&gt;Volont&#233;&lt;/a&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DEGREDEDIFFICULTE&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; 14 ou &#234;tre &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables.html#H&#233;b&#233;t&#233;&quot; title=&quot;H&#233;b&#233;t&#233;&quot;&gt;h&#233;b&#233;t&#233;e&lt;/a&gt; pendant 1 &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#ROUND&quot; title=&quot;round&quot;&gt;round&lt;/a&gt; par &lt;a class=&quot;pagelink&quot; href=&quot;Lancer-Des-Sorts.html#NLS&quot; title=&quot;NLS&quot;&gt;niveau de lanceur de sorts&lt;/a&gt; (4 &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#ROUND&quot; title=&quot;round&quot;&gt;rounds&lt;/a&gt; pour la plupart des champignons c&#233;r&#233;br&#233;s). Le sujet &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables.html#H&#233;b&#233;t&#233;&quot; title=&quot;H&#233;b&#233;t&#233;&quot;&gt;h&#233;b&#233;t&#233;&lt;/a&gt; n&#39;est pas &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables.html#&#201;tourdi&quot; title=&quot;&#201;tourdi&quot;&gt;&#233;tourdi&lt;/a&gt; (les attaquants n&#39;ont donc pas d&#39;avantage sp&#233;cial contre lui). Il s&#39;agit d&#39;un &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#ENCHANTEMENT&quot; title=&quot;Enchantement&quot;&gt;enchantement&lt;/a&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;er-Un-Sort.html#REGISTRE&quot; title=&quot;Registre&quot;&gt;mental&lt;/a&gt; &#233;quivalent &#224; un sort de niveau 2.
+&lt;/div&gt;
+ 
+&lt;/div&gt;
+&lt;/td&gt;&lt;td&gt;&lt;div&gt;
+&lt;i&gt;Ce bulbe enfl&#233;, qui ressemble &#224; un cerveau incrust&#233; de champignons, prend appui sur plusieurs pattes charnues. Le haut du bulbe est divis&#233; par une &#233;norme gueule.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Les champignons c&#233;r&#233;br&#233;s sont une race de champignons carnivores intelligents originaires d’une plan&#232;te &#233;loign&#233;e. Bien qu’ils soient une des formes de vie les moins importantes sur leur monde d’origine, ils sont pourvus d’un intellect &#233;tranger bien sup&#233;rieur &#224; celui de la plupart des cr&#233;atures terrestres. Les champignons c&#233;r&#233;br&#233;s sont tr&#232;s curieux vis &#224; vis des autres races et esp&#232;ces lorsqu’ils visitent d’autres mondes, posant d’innombrables questions, apparemment absurdes, et se livrant &#224; des exp&#233;riences inqui&#233;tantes. Certains &#233;rudits fantaisistes affirment avoir appris de troublants secrets au travers de ces interrogatoires. &lt;br /&gt;&lt;br /&gt;Les champignons c&#233;r&#233;br&#233;s sont capables de faire des manipulations d&#233;licates gr&#226;ce &#224; leurs filaments pr&#233;hensiles, mais ils renoncent g&#233;n&#233;ralement aux armes, au profit de leurs attaques naturelles.
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Champignon cérébré|FP 3}
+{s:pucem|Plante|Ruines-Donjons|Tempéré}
+{s:BDTexte|''Source : Bestiaire 3 p.47''}
+{s:BDTexte|'''PX''' 800}
+{s:BDTexte|[[type Plante|Plante]] de taille M, N}
+{s:BDTexte|'''Init''' +4 ; '''Sens''' [[vision dans le noir]] à 18 m (12 {s:c}) ; [[vision nocturne]] ; [[Perception]] +12}
+{s:BDTexte|'''Aura''' apparence inquiétante (18 m (12 {s:c}), [[DD]] 14)}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 15, contact 10, pris au dépourvu 15 (naturelle +5)}
+{s:BDTexte|'''pv''' 30 (4d8+12) ; [[guérison accélérée]] 2}
+{s:BDTexte|'''Réf''' +1, '''Vig''' +7, '''Vol''' +6}
+{s:BDTexte|'''Capacités défensives''' esprit étranger ; '''Immunité''' [[traits des plantes]] ; '''Résistance''' froid 5}
+{s:BDTexte|'''Faiblesse''' [[vulnérabilités (capacité)|vulnérabilité]] au son}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 9 m (6 {s:c})}
+{s:BDTexte|'''Corps à corps''' 2 appendices, +3 (1d4+1 plus [[attirer]]) et morsure, +5 (1d6+2)}
+{s:BDTexte|'''Espace occupé''' 1,50 m (1 {s:c}) ; '''Allonge''' 1,50 m (1 {s:c}) (4,50 m (3 {s:c}) avec les tentacules)}
+{s:BDTexte|'''Attaques spéciales''' [[attirer]] (appendice, 1,50 m (1 {s:c})), hurlement stellaire}
+{s:BDTexte|'''Pouvoirs magiques''' (NLS 4 ; concentration +6)}
+{s:BDSorts|Constant — ''[[détection de pensées]]'' (DD 14)}
+{s:BDSorts|A volonté — ''toucher du dément'' (DD 14)}
+{s:BDSorts|3/jour — ''[[apaisement des émotions]]'' (DD 14), ''[[idiotie]]'' (DD 14)}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 14, '''Dex''' 11, '''Con''' 16, '''Int''' 15, '''Sag''' 20, '''Cha''' 15}
+{s:BDTexte|'''BBA''' +3, '''BMO''' +5, '''DMD''' 15 (21 contre le [[croc-en-jambe]])}
+{s:BDTexte|'''Dons'''  [[Attaques multiples]], [[Science de linitiative|Science de l’initiative]]}
+{s:BDTexte|'''Compétences'''  [[Bluff]] +6, [[Diplomatie]] +6, [[Discrétion]] +7, [[Perception]] +22}
+{s:BDTexte|'''Langues''' [[télépathie (capacité)|télépathie]] à 30 m (20 {s:c})}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' tous}
+{s:BDTexte|'''Organisation sociale''' solitaire, couple ou colonie (3-12)}
+{s:BDTexte|'''Trésor''' standard}
+{s:BDSousTitre|Pouvoirs spéciaux}
+{s:BDTexte|'''Apparence inquiétante (Sur).''' Le champignon cérébré analyse constamment l'esprit de ceux qui l'entourent, projetant autour de lui une mosaïque d'images perturbantes glanées dans les pensées de ses victimes. Les créatures situées dans un rayon de 18 m (12 {s:c} doivent réussir un jet de [[Volonté]] [[DD]] 14 ou recevoir un malus de -2 à leurs [[jet dattaque|jets d'attaque]]. Il s'agit d'un [[registre|effet mental]]. Le [[DD]] du [[jet de sauvegarde]] est basé sur le [[Charisme]].}
+{s:BDTexte|'''Esprit étranger (Ext).''' Toute créature qui essaye d'entrer en contact avec un champignon cérébré ou de lire ses pensées avec un sort de [[école divination|divination]] ou un autre pouvoir similaire doit réussir un jet de [[Volonté]] [[DD]] 16 ou se faire submerger par les pensées étrangères qu'elle perçoit dans l'esprit du champignon. Celles qui échouent reçoivent 1d6 points de dégâts non-létaux et sont [[confus|confuses]] pendant 1d6 [[round|rounds]] ; l'effet de la [[école divination|divination]] se dissipe de plus aussitôt. Le [[DD]] du [[jet de sauvegarde]] est basé sur le [[Charisme]] et inclus un bonus racial de +2.}
+{s:BDTexte|'''Hurlement stellaire (Ext).''' Une fois par jour, par une [[action complexe]], un champignon cérébré peut pousser un cri perçant de dément. Toutes les créatures (à l'exception des autres champignons cérébrés) situées dans un rayon de 9 m (6 {s:c}) doivent faire un jet de [[Volonté]] [[DD]] 15 ou se retrouver [[nauséeux|nauséeuses]] pour 1d4 [[round|rounds]]. Il s'agit d'un [[registre|effet sonore et mental]]. Le [[DD]] du [[jet de sauvegarde]] est basé sur la [[Constitution]].}
+{s:BDTexte|'''Toucher du dément (Mag).''' Le champignon cérébré peut [[hébété|hébéter]] une unique créature vivante en réussissant une [[attaque de contact]]. La créature ciblée doit réussir un jet de [[Volonté]] [[DD]] 14 ou être [[hébété|hébétée]] pendant 1 [[round]] par [[NLS|niveau de lanceur de sorts]] (4 [[round|rounds]] pour la plupart des champignons cérébrés). Le sujet [[hébété]] n'est pas [[étourdi]] (les attaquants n'ont donc pas d'avantage spécial contre lui). Il s'agit d'un [[enchantement]] [[registre|mental]] équivalent à un sort de niveau 2.}
+ 
+</div>
+</td><td><div>
+''Ce bulbe enflé, qui ressemble à un cerveau incrusté de champignons, prend appui sur plusieurs pattes charnues. Le haut du bulbe est divisé par une énorme gueule.''
+
+Les champignons cérébrés sont une race de champignons carnivores intelligents originaires d’une planète éloignée. Bien qu’ils soient une des formes de vie les moins importantes sur leur monde d’origine, ils sont pourvus d’un intellect étranger bien supérieur à celui de la plupart des créatures terrestres. Les champignons cérébrés sont très curieux vis à vis des autres races et espèces lorsqu’ils visitent d’autres mondes, posant d’innombrables questions, apparemment absurdes, et se livrant à des expériences inquiétantes. Certains érudits fantaisistes affirment avoir appris de troublants secrets au travers de ces interrogatoires. 
+
+Les champignons cérébrés sont capables de faire des manipulations délicates grâce à leurs filaments préhensiles, mais ils renoncent généralement aux armes, au profit de leurs attaques naturelles.
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Champignon cérébré</fullName>
+</wikiPage>

@@ -1,0 +1,59 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Les baguettes magiques</title>
+  <categories><category>Pathfinder-RPG.Baguette magique</category></categories>
+  <lastModified>2010-08-16 15:42:43Z</lastModified>
+  <version>2</version>
+  <inLinks><link>Pathfinder-RPG.Actions de mouvement</link><link>Pathfinder-RPG.Actions simples</link><link>Pathfinder-RPG.arcanes</link><link>Pathfinder-RPG.Baguettes magiques</link><link>Pathfinder-RPG.Bâtons magiques</link><link>Pathfinder-RPG.Création dobjets magiques</link><link>Pathfinder-RPG.Créer des PNJ</link><link>Pathfinder-RPG.Descriptions des objets magiques</link><link>Pathfinder-RPG.Détermination aléatoire dobjets magiques</link><link>Pathfinder-RPG.FAQ Objets magiques</link><link>Pathfinder-RPG.MainPage</link><link>Pathfinder-RPG.Objets intelligents</link><link>Pathfinder-RPG.Règles relatives aux objets magiques</link><link>Pathfinder-RPG.Réparation intégrale</link><link>Pathfinder-RPG.temp-MainPage</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Baguettes magiques</link><link>Pathfinder-RPG.CA</link><link>Pathfinder-RPG.points de vie</link><link>Pathfinder-RPG.solidité</link><link>Pathfinder-RPG.Force</link><link>Pathfinder-RPG.DD</link><link>Pathfinder-RPG.Règles relatives aux objets magiques</link><link>Pathfinder-RPG.Action simple</link><link>Pathfinder-RPG.attaque dopportunité</link><link>Pathfinder-RPG.temps dincantation</link><link>Pathfinder-RPG.Immobilisé</link></outLinks>
+  <body><![CDATA[Une baguette est un fin bout de bois contenant un sort unique du 4e niveau ou moins. Toute baguette nouvellement cr&#233;&#233;e contient 50 charges, et chaque charge permet de lancer le sort une fois. Une baguette d&#233;charg&#233;e n’est rien de plus qu’un petit bout de bois. Le prix d’une baguette est &#233;gal au niveau du sort x le niveau de lanceur de sorts du cr&#233;ateur x 750 po. Le co&#251;t total de cr&#233;ation inclut les co&#251;ts de base et les co&#251;ts suppl&#233;mentaires, dont ceux des composantes. La Table &quot;&lt;a class=&quot;pagelink&quot; href=&quot;Baguettes-Magiques.html#DETERMINATION&quot; title=&quot;Les baguettes magiques&quot;&gt;Co&#251;t des baguettes&lt;/a&gt;&quot; donne des exemples de prix pour un niveau de lanceur de sorts minimum. Notez que certains sorts apparaissent &#224; des niveaux diff&#233;rents pour diff&#233;rents types de lanceurs de sorts. Le niveau de ces sorts d&#233;pend du niveau du personnage qui a fabriqu&#233; la baguette.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Pr&#233;sentation.&lt;/b&gt; La plupart des baguettes mesurent entre 15 et 30 cm de long, pour une &#233;paisseur d&#233;passant rarement le demi-centim&#232;tre. Elles p&#232;sent dans les 25 g. Elles sont g&#233;n&#233;ralement taill&#233;es dans le bois, m&#234;me si certaines sont en os, en m&#233;tal, voire en cristal. Les baguettes ont habituellement une &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#CA&quot; title=&quot;CA&quot;&gt;CA&lt;/a&gt; de 7, 5 &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#POINTSDEVIE&quot; title=&quot;points de vie&quot;&gt;points de vie&lt;/a&gt;, une &lt;a class=&quot;pagelink&quot; href=&quot;Exploration.html#SOLIDITE&quot; title=&quot;solidit&#233;&quot;&gt;solidit&#233;&lt;/a&gt; de 5 et le test de &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#FORCE&quot; title=&quot;La Force&quot;&gt;Force&lt;/a&gt; pour les casser a un &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DEGREDEDIFFICULTE&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; de 16.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Activation.&lt;/b&gt; Toutes les baguettes sont des &lt;a class=&quot;pagelink&quot; href=&quot;R&#232;gles-Relatives-Aux-Objets-Magiques.html#OBJETSAPOTENTIELMAGIQUE&quot; title=&quot;R&#232;gles relatives aux objets magiques&quot;&gt;objets &#224; potentiel magique&lt;/a&gt; ; cela signifie que leur utilisation implique g&#233;n&#233;ralement une &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions.html#SIMPLE&quot; title=&quot;Action simple&quot;&gt;action simple&lt;/a&gt; ne provoquant pas d’&lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#ATTAQUEDOPPORTUNITE&quot; title=&quot;attaque d&amp;#39;opportunit&#233;&quot;&gt;attaque d’opportunit&#233;&lt;/a&gt;. Si le sort contenu dans la baguette a un &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#TEMPSDINCANTATION&quot; title=&quot;temps d&amp;#39;incantation&quot;&gt;temps d’incantation&lt;/a&gt; sup&#233;rieur &#224; 1 &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions.html#SIMPLE&quot; title=&quot;Action simple&quot;&gt;action simple&lt;/a&gt;, le d&#233;lai d’activation de la baguette est &#233;quivalent. Pour activer une baguette, il faut la tenir en main (ou quoi que ce soit qui y corresponde, pour les cr&#233;atures non-humano&#239;des) et la pointer dans la direction des cibles ou de la zone &#224; affecter. Il est possible d’utiliser une baguette m&#234;me en &#233;tant &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables.html#Immobilis&#233;&quot; title=&quot;Immobilis&#233;&quot;&gt;agripp&#233;&lt;/a&gt; en situation de lutte ou englouti.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Propri&#233;t&#233;s sp&#233;ciales.&lt;/b&gt; Lancer un d&#233;. Sur un 01–30, un indice sur les fonctions de la baguette figure quelque part &#224; sa surface (dessin, inscription, etc.), et sur 31–100, elle n’a aucune propri&#233;t&#233; sp&#233;ciale.&lt;br /&gt;&lt;br /&gt;&lt;table width=&quot;100%&quot;&gt;&lt;tr&gt;&lt;td width=&quot;50%&quot; align=&quot;center&quot;&gt;
+&lt;a name=&quot;DETERMINATION&quot;&gt;&lt;/a&gt;
+&lt;table CLASS=&quot;tablo col1centre&quot;&gt;&lt;caption&gt;Baguettes&lt;/caption&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td&gt;Faible&lt;/td&gt;&lt;td&gt;Interm&#233;diaire&lt;/td&gt;&lt;td&gt;Puissante&lt;/td&gt;&lt;td&gt;Niveau &lt;br/&gt;du sort&lt;/td&gt;&lt;td&gt;Niveau &lt;br/&gt;du lanceur&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier&quot;&gt;&lt;td&gt;01–05&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;06–60&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;td&gt;1er&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;61–100&lt;/td&gt;&lt;td&gt;01–60&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;td&gt;2e&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;—&lt;/td&gt;&lt;td&gt;61–100&lt;/td&gt;&lt;td&gt;01–60&lt;/td&gt;&lt;td&gt;3e&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;—&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;td&gt;61–100&lt;/td&gt;&lt;td&gt;4e&lt;/td&gt;&lt;td&gt;7&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/td&gt;&lt;td width=&quot;50%&quot; align=&quot;center&quot;&gt;
+&lt;table CLASS=&quot;tablo&quot;&gt;&lt;caption&gt;Co&#251;t des baguettes&lt;/caption&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td&gt;Niveau &lt;br/&gt;du sort&lt;/td&gt;&lt;td&gt;Pr&#234;tre, &lt;br/&gt;druide, &lt;br/&gt;magicien&lt;/td&gt;&lt;td&gt;Ensorceleur&lt;/td&gt;&lt;td&gt;Barde&lt;/td&gt;&lt;td&gt;Paladin, &lt;br/&gt;r&#244;deur&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier&quot;&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;375 po&lt;/td&gt;&lt;td&gt;375 po&lt;/td&gt;&lt;td&gt;375 po&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;1er&lt;/td&gt;&lt;td&gt;750 po&lt;/td&gt;&lt;td&gt;750 po&lt;/td&gt;&lt;td&gt;750 po&lt;/td&gt;&lt;td&gt;750 po&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;2e&lt;/td&gt;&lt;td&gt;4 500 po&lt;/td&gt;&lt;td&gt;6 000 po&lt;/td&gt;&lt;td&gt;6 000 po&lt;/td&gt;&lt;td&gt;6 000 po&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;3e&lt;/td&gt;&lt;td&gt;11 250 po&lt;/td&gt;&lt;td&gt;13 500 po&lt;/td&gt;&lt;td&gt;15 750 po&lt;/td&gt;&lt;td&gt;15 750 po&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;4e&lt;/td&gt;&lt;td&gt;21 000 po&lt;/td&gt;&lt;td&gt;24 000 po&lt;/td&gt;&lt;td&gt;30 000 po&lt;/td&gt;&lt;td&gt;30 000 po&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[Une baguette est un fin bout de bois contenant un sort unique du 4e niveau ou moins. Toute baguette nouvellement créée contient 50 charges, et chaque charge permet de lancer le sort une fois. Une baguette déchargée n’est rien de plus qu’un petit bout de bois. Le prix d’une baguette est égal au niveau du sort x le niveau de lanceur de sorts du créateur x 750 po. Le coût total de création inclut les coûts de base et les coûts supplémentaires, dont ceux des composantes. La Table "[[Baguettes magiques#DETERMINATION|Coût des baguettes]]" donne des exemples de prix pour un niveau de lanceur de sorts minimum. Notez que certains sorts apparaissent à des niveaux différents pour différents types de lanceurs de sorts. Le niveau de ces sorts dépend du niveau du personnage qui a fabriqué la baguette.
+
+'''Présentation.''' La plupart des baguettes mesurent entre 15 et 30 cm de long, pour une épaisseur dépassant rarement le demi-centimètre. Elles pèsent dans les 25 g. Elles sont généralement taillées dans le bois, même si certaines sont en os, en métal, voire en cristal. Les baguettes ont habituellement une [[CA]] de 7, 5 [[points de vie]], une [[solidité]] de 5 et le test de [[Force]] pour les casser a un [[DD]] de 16.
+
+'''Activation.''' Toutes les baguettes sont des [[Règles relatives aux objets magiques#OBJETSAPOTENTIELMAGIQUE|objets à potentiel magique]] ; cela signifie que leur utilisation implique généralement une [[action simple]] ne provoquant pas d’[[attaque dopportunité|attaque d’opportunité]]. Si le sort contenu dans la baguette a un [[temps dincantation|temps d’incantation]] supérieur à 1 [[action simple]], le délai d’activation de la baguette est équivalent. Pour activer une baguette, il faut la tenir en main (ou quoi que ce soit qui y corresponde, pour les créatures non-humanoïdes) et la pointer dans la direction des cibles ou de la zone à affecter. Il est possible d’utiliser une baguette même en étant [[Immobilisé|agrippé]] en situation de lutte ou englouti.
+
+'''Propriétés spéciales.''' Lancer un dé. Sur un 01–30, un indice sur les fonctions de la baguette figure quelque part à sa surface (dessin, inscription, etc.), et sur 31–100, elle n’a aucune propriété spéciale.
+
+<table width="100%"><tr><td width="50%" align="center">
+{s:Reference|DETERMINATION}
+{| CLASS="tablo col1centre"
+|+ Baguettes
+|- CLASS="titre"
+| Faible || Intermédiaire || Puissante || Niveau <br/>du sort || Niveau <br/>du lanceur
+|- CLASS="premier"
+| 01–05 || — || — || 0 || 1
+|- CLASS="alt"
+| 06–60 || — || — || 1er || 1
+|-
+| 61–100 || 01–60 || — || 2e || 3
+|- CLASS="alt"
+| — || 61–100 || 01–60 || 3e || 5
+|-
+| — || — || 61–100 || 4e || 7
+|}
+</td><td width="50%" align="center">
+{| CLASS="tablo"
+|+ Coût des baguettes
+|- CLASS="titre"
+| Niveau <br/>du sort || Prêtre, <br/>druide, <br/>magicien || Ensorceleur || Barde || Paladin, <br/>rôdeur
+|- CLASS="premier"
+| 0 || 375 po || 375 po || 375 po || —
+|- CLASS="alt"
+| 1er || 750 po || 750 po || 750 po || 750 po
+|-
+| 2e || 4 500 po || 6 000 po || 6 000 po || 6 000 po
+|- CLASS="alt"
+| 3e || 11 250 po || 13 500 po || 15 750 po || 15 750 po
+|-
+| 4e || 21 000 po || 24 000 po || 30 000 po || 30 000 po
+|}
+</td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Baguettes magiques</fullName>
+</wikiPage>

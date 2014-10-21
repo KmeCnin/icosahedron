@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Poussière de fuite</title>
+  <categories><category>Pathfinder-RPG.Manuel des races</category><category>Pathfinder-RPG.Objet magique</category><category>Pathfinder-RPG.Objet magique merveilleux</category></categories>
+  <lastModified>2014-09-07 12:57:38Z</lastModified>
+  <version>0</version>
+  <inLinks><link>Pathfinder-RPG.Halfelin</link><link>Pathfinder-RPG.Objets magiques raciaux</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Invocation</link><link>Pathfinder-RPG.attaque de contact à distance</link><link>Pathfinder-RPG.Ébloui</link><link>Pathfinder-RPG.Création dobjets merveilleux</link><link>Pathfinder-RPG.Poussière scintillante</link></outLinks>
+  <body><![CDATA[&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Poussi&#232;re de fuite&lt;div style=&quot;float:right;&quot;&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;b&gt;Aura&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#INVOCATION&quot; title=&quot;Invocation&quot;&gt;Invocation&lt;/a&gt; faible ; NLS 3 ; &lt;b&gt;Emplacement&lt;/b&gt; - ; &lt;b&gt;Prix&lt;/b&gt; 300 po ; &lt;b&gt;Poids&lt;/b&gt; -
+&lt;div class=&quot;box&quot;&gt;Description&lt;/div&gt;
+Quand quelqu’un lance une poign&#233;e de cette poudre cristalline sur une cr&#233;ature, elle tournoie autour de la cible et g&#234;ne ses attaques et sa visibilit&#233;. Pour utiliser la poudre, il faut r&#233;ussir une &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#ATTAQUESDECONTACT&quot; title=&quot;attaque de contact &#224; distance&quot;&gt;attaque de contact &#224; distance&lt;/a&gt; (avec un facteur de port&#233;e de 1,50 m&#232;tre) qui ne provoque pas d’attaque d’opportunit&#233;. Si la cible est touch&#233;e, elle est &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables.html#&#201;bloui&quot; title=&quot;&#201;bloui&quot;&gt;&#233;blouie&lt;/a&gt; et ne peut pas faire d’attaque d’opportunit&#233; ni d’actions imm&#233;diates pendant 1 round.
+&lt;div class=&quot;box&quot;&gt;Fabrication&lt;/div&gt;
+&lt;b&gt;Conditions&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;ation-Dobjets-Merveilleux.html&quot; title=&quot;Cr&#233;ation d&amp;#39;objets merveilleux&quot;&gt;Cr&#233;ation d’objets merveilleux&lt;/a&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Poussi&#232;re-Scintillante.html&quot; title=&quot;Poussi&#232;re scintillante&quot;&gt;poussi&#232;re scintillante&lt;/a&gt;&lt;/i&gt; ; &lt;b&gt;Co&#251;t&lt;/b&gt; 150 po
+&lt;/div&gt;
+]]></body>
+  <raw><![CDATA[{s:MR}<div class="BD">
+{s:BDTitre|Poussière de fuite|}
+'''Aura''' [[Invocation]] faible ; NLS 3 ; '''Emplacement''' - ; '''Prix''' 300 po ; '''Poids''' -
+(((Description)))
+Quand quelqu’un lance une poignée de cette poudre cristalline sur une créature, elle tournoie autour de la cible et gêne ses attaques et sa visibilité. Pour utiliser la poudre, il faut réussir une [[attaque de contact à distance]] (avec un facteur de portée de 1,50 mètre) qui ne provoque pas d’attaque d’opportunité. Si la cible est touchée, elle est [[ébloui|éblouie]] et ne peut pas faire d’attaque d’opportunité ni d’actions immédiates pendant 1 round.
+(((Fabrication)))
+'''Conditions''' [[Création dobjets merveilleux|Création d’objets merveilleux]], ''[[poussière scintillante]]'' ; '''Coût''' 150 po
+</div>
+]]></raw>
+  <fullName>Pathfinder-RPG.poussière de fuite</fullName>
+</wikiPage>

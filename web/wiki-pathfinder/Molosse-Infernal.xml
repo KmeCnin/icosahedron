@@ -1,0 +1,159 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Molosse infernal</title>
+  <categories><category>Pathfinder-RPG.Bestiaire</category><category>Pathfinder-RPG.Monstre</category><category>Pathfinder-RPG.Règles officielles</category></categories>
+  <lastModified>2013-02-07 19:20:31Z</lastModified>
+  <version>4</version>
+  <inLinks><link>Pathfinder-RPG.Cerbère</link><link>Pathfinder-RPG.Convocation de monstres</link><link>Pathfinder-RPG.Géant du feu</link><link>Pathfinder-RPG.Glossaire des monstres</link><link>Pathfinder-RPG.Liste de monstres par FP</link><link>Pathfinder-RPG.Liste de monstres par milieu naturel</link><link>Pathfinder-RPG.Liste de monstres par type</link><link>Pathfinder-RPG.Monstres</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.type Extérieur</link><link>Pathfinder-RPG.sous-type extraplanaire</link><link>Pathfinder-RPG.sous-type Feu</link><link>Pathfinder-RPG.sous-type Loi</link><link>Pathfinder-RPG.sous-type Mal</link><link>Pathfinder-RPG.odorat</link><link>Pathfinder-RPG.vision dans le noir</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Vulnérabilités (capacité)</link><link>Pathfinder-RPG.Souffle</link><link>Pathfinder-RPG.cône</link><link>Pathfinder-RPG.croc-en-jambe</link><link>Pathfinder-RPG.Course</link><link>Pathfinder-RPG.Science de linitiative</link><link>Pathfinder-RPG.Acrobaties</link><link>Pathfinder-RPG.Discrétion</link><link>Pathfinder-RPG.Survie</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Molosse infernal&lt;div style=&quot;float:right;&quot;&gt;FP 3&lt;/div&gt;&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Bestiaire&lt;/i&gt; p.220
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 800
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Ext&#233;rieur.html&quot; title=&quot;Ext&#233;rieur&quot;&gt;Ext&#233;rieur&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Extraplanaire.html&quot; title=&quot;Extraplanaire (sous-type)&quot;&gt;extraplanaire&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Feu.html&quot; title=&quot;Feu (sous-type)&quot;&gt;Feu&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Loi.html&quot; title=&quot;Loi (sous-type)&quot;&gt;Loi&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Mal.html&quot; title=&quot;Mal (sous-type)&quot;&gt;Mal&lt;/a&gt;) de taille M, LM
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +5 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Odorat-(Capacit&#233;).html&quot; title=&quot;odorat&quot;&gt;odorat&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Capacit&#233;s-Sp&#233;ciales.html#VISIONDANSLENOIR&quot; title=&quot;vision dans le noir&quot;&gt;vision dans le noir&lt;/a&gt; 18 m (12 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +7
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 16, contact 11, pris au d&#233;pourvu 15 (Dex +1, naturelle +5)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 30 (4d10+8)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +5, &lt;b&gt;Vig&lt;/b&gt; +6, &lt;b&gt;Vol&lt;/b&gt; +1
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Immunit&#233;s&lt;/b&gt; feu 
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Faiblesses&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vuln&#233;rabilit&#233;s-(Capacit&#233;).html&quot; title=&quot;Vuln&#233;rabilit&#233;s (Ext ou Sur)&quot;&gt;vuln&#233;rabilit&#233;&lt;/a&gt; au froid
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 12 m (8 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; morsure +5 (1d8+1 et 1d6 feu)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaques sp&#233;ciales&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Souffle-(Capacit&#233;).html&quot; title=&quot;Souffle&quot;&gt;souffle&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#DEFCONE&quot; title=&quot;c&#244;ne&quot;&gt;c&#244;ne&lt;/a&gt; de 3 m (2 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), utilisable tous les 2d4 rounds, 2d6 feu, R&#233;flexes DD 14, 1/2 d&#233;g&#226;ts)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 13, &lt;b&gt;Dex&lt;/b&gt; 13, &lt;b&gt;Con&lt;/b&gt; 15, &lt;b&gt;Int&lt;/b&gt; 6, &lt;b&gt;Sag&lt;/b&gt; 10, &lt;b&gt;Cha&lt;/b&gt; 6
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +4, &lt;b&gt;BMO&lt;/b&gt; +5, &lt;b&gt;DMD&lt;/b&gt; 16 (20 contre le &lt;a class=&quot;pagelink&quot; href=&quot;Croc-En-Jambe.html&quot; title=&quot;croc-en-jambe&quot;&gt;croc-en-jambe&lt;/a&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Course.html&quot; title=&quot;Course&quot;&gt;Course&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Science-De-Linitiative.html&quot; title=&quot;Science de l&amp;#39;initiative&quot;&gt;Science de l&#39;initiative&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Acrobaties.html&quot; title=&quot;Acrobaties&quot;&gt;Acrobaties&lt;/a&gt; +8, &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; +13, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +7, &lt;a class=&quot;pagelink&quot; href=&quot;Survie.html&quot; title=&quot;Survie&quot;&gt;Survie&lt;/a&gt; +7 ; &lt;b&gt;Modificateurs raciaux&lt;/b&gt; +5 en &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Langues&lt;/b&gt; infernal (ne sait pas parler)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; quelconque (Enfer)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation sociale&lt;/b&gt; solitaire, couple ou meute (3-12)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; fortuit
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;td&gt;&lt;div&gt;&lt;i&gt;Cette cr&#233;ature ressemble &#224; un grand loup maigre dot&#233; de griffes blanches, d’une fourrure rouge-brun et d’yeux d’un rouge ardent.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Un molosse infernal moyen mesure entre
+1,20 m&#232;tre et 1,50 m&#232;tre de hauteur aux &#233;paules
+et p&#232;se 60 kg. La tactique d’attaque de
+groupe que ces chasseurs hors pair pr&#233;f&#232;rent
+consiste &#224; encercler leur proie sans
+faire de bruit avant qu’un ou deux molosses
+ne passent &#224; l’attaque et n’utilisent
+leur souffle enflamm&#233; pour la repousser
+vers le reste de la meute. &lt;br /&gt;&lt;br /&gt;Si la proie
+ne s’enfuit pas, la meute r&#233;tr&#233;cit le cercle
+de plus en plus. Les molosses infernaux
+n’abandonnent jamais la traque lorsqu’ils
+pourchassent une cr&#233;ature en fuite.
+Les g&#233;ants du feu appr&#233;cient la compagnie
+des molosses infernaux, car ils partagent
+leur immunit&#233; contre le feu ainsi que
+leur propension &#224; se montrer cruels envers
+les intrus. &lt;br /&gt;&lt;br /&gt;C’est seulement quand un g&#233;ant
+du feu se met &#224; traiter un molosse infernal,
+pourtant relativement intelligent, comme un
+simple animal domestique que ces alliances
+commencent &#224; s’effriter.
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Molosse infernal|FP 3}
+{s:pucem|Extérieur|Ruines-Donjons|Extraplanaire}
+{s:BDTexte|''Source : Bestiaire'' p.220}
+{s:BDTexte|'''PX''' 800}
+{s:BDTexte|[[type Extérieur|Extérieur]] ([[sous-type extraplanaire|extraplanaire]], [[sous-type Feu|Feu]], [[sous-type Loi|Loi]], [[sous-type Mal|Mal]]) de taille M, LM}
+{s:BDTexte|'''Init''' +5 ; '''Sens''' [[odorat]], [[vision dans le noir]] 18 m (12 {s:c}) ; [[Perception]] +7}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 16, contact 11, pris au dépourvu 15 (Dex +1, naturelle +5)}
+{s:BDTexte|'''pv''' 30 (4d10+8)}
+{s:BDTexte|'''Réf''' +5, '''Vig''' +6, '''Vol''' +1}
+{s:BDTexte|'''Immunités''' feu }
+{s:BDTexte|'''Faiblesses''' [[vulnérabilités (capacité)|vulnérabilité]] au froid}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 12 m (8 {s:c})}
+{s:BDTexte|'''Corps à corps''' morsure +5 (1d8+1 et 1d6 feu)}
+{s:BDTexte|'''Attaques spéciales''' [[souffle]] ([[cône]] de 3 m (2 {s:c}), utilisable tous les 2d4 rounds, 2d6 feu, Réflexes DD 14, 1/2 dégâts)}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 13, '''Dex''' 13, '''Con''' 15, '''Int''' 6, '''Sag''' 10, '''Cha''' 6}
+{s:BDTexte|'''BBA''' +4, '''BMO''' +5, '''DMD''' 16 (20 contre le [[croc-en-jambe]])}
+{s:BDTexte|'''Dons''' [[Course]], [[Science de linitiative|Science de l'initiative]]}
+{s:BDTexte|'''Compétences''' [[Acrobaties]] +8, [[Discrétion]] +13, [[Perception]] +7, [[Survie]] +7 ; '''Modificateurs raciaux''' +5 en [[Discrétion]]}
+{s:BDTexte|'''Langues''' infernal (ne sait pas parler)}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' quelconque (Enfer)}
+{s:BDTexte|'''Organisation sociale''' solitaire, couple ou meute (3-12)}
+{s:BDTexte|'''Trésor''' fortuit}
+</div>
+</td><td><div>''Cette créature ressemble à un grand loup maigre doté de griffes blanches, d’une fourrure rouge-brun et d’yeux d’un rouge ardent.''
+
+Un molosse infernal moyen mesure entre
+1,20 mètre et 1,50 mètre de hauteur aux épaules
+et pèse 60 kg. La tactique d’attaque de
+groupe que ces chasseurs hors pair préfèrent
+consiste à encercler leur proie sans
+faire de bruit avant qu’un ou deux molosses
+ne passent à l’attaque et n’utilisent
+leur souffle enflammé pour la repousser
+vers le reste de la meute. 
+
+Si la proie
+ne s’enfuit pas, la meute rétrécit le cercle
+de plus en plus. Les molosses infernaux
+n’abandonnent jamais la traque lorsqu’ils
+pourchassent une créature en fuite.
+Les géants du feu apprécient la compagnie
+des molosses infernaux, car ils partagent
+leur immunité contre le feu ainsi que
+leur propension à se montrer cruels envers
+les intrus. 
+
+C’est seulement quand un géant
+du feu se met à traiter un molosse infernal,
+pourtant relativement intelligent, comme un
+simple animal domestique que ces alliances
+commencent à s’effriter.
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Molosse infernal</fullName>
+</wikiPage>

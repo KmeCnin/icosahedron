@@ -1,0 +1,157 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Sanglier sanguinaire</title>
+  <categories><category>Pathfinder-RPG.Bestiaire</category><category>Pathfinder-RPG.Monstre</category></categories>
+  <lastModified>2013-02-06 21:12:53Z</lastModified>
+  <version>8</version>
+  <inLinks><link>Pathfinder-RPG.Convocation dalliés naturels</link><link>Pathfinder-RPG.Convocation de monstres</link><link>Pathfinder-RPG.Glossaire des monstres</link><link>Pathfinder-RPG.Liste de monstres par FP</link><link>Pathfinder-RPG.Liste de monstres par milieu naturel</link><link>Pathfinder-RPG.Liste de monstres par type</link><link>Pathfinder-RPG.Monstres</link><link>Pathfinder-RPG.Sanglier-garou</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.type Animal</link><link>Pathfinder-RPG.odorat</link><link>Pathfinder-RPG.vision nocturne</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Férocité</link><link>Pathfinder-RPG.Robustesse</link><link>Pathfinder-RPG.Science de linitiative</link><link>Pathfinder-RPG.Talent</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Daeodon&lt;div style=&quot;float:right;&quot;&gt;FP 4&lt;/div&gt;&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Bestiaire p.253&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 1.200
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Animal.html&quot; title=&quot;Animal&quot;&gt;Animal&lt;/a&gt; de taille G, N
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +4 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Odorat-(Capacit&#233;).html&quot; title=&quot;odorat&quot;&gt;odorat&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Nocturne-(Capacit&#233;).html&quot; title=&quot;vision nocturne&quot;&gt;vision nocturne&lt;/a&gt; ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +12
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 15, contact 9, pris au d&#233;pourvu 15 (naturelle +6, taille -1)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 42 (5d8+20)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +4, &lt;b&gt;Vig&lt;/b&gt; +7, &lt;b&gt;Vol&lt;/b&gt; +2
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Capacit&#233;s d&#233;fensives&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;F&#233;rocit&#233;-(Capacit&#233;).html&quot; title=&quot;F&#233;rocit&#233;&quot;&gt;f&#233;rocit&#233;&lt;/a&gt; 
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 12 m (8 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; corne +8 (2d6+9)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 23, &lt;b&gt;Dex&lt;/b&gt; 10, &lt;b&gt;Con&lt;/b&gt; 17, &lt;b&gt;Int&lt;/b&gt; 2, &lt;b&gt;Sag&lt;/b&gt; 13, &lt;b&gt;Cha&lt;/b&gt; 8
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +3, &lt;b&gt;BMO&lt;/b&gt; +10, &lt;b&gt;DMD&lt;/b&gt; 20
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Robustesse.html&quot; title=&quot;Robustesse&quot;&gt;Robustesse&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Science-De-Linitiative.html&quot; title=&quot;Science de l&amp;#39;initiative&quot;&gt;Science de l&#39;initiative&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Talent.html&quot; title=&quot;Talent&quot;&gt;Talent&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +12
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; for&#234;ts temp&#233;r&#233;es ou tropicales
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation sociale&lt;/b&gt; solitaire, couple ou harde (3-8)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; aucun
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;td&gt;&lt;div&gt;&lt;i&gt;Le dos de ce grand sanglier forme une cr&#234;te ac&#233;r&#233;e. Ses yeux sont entour&#233;s
+de salet&#233;s et ses flancs hirsutes, de centaines de mouches.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Alors que les sangliers se montrent g&#233;n&#233;ralement peu amicaux et
+col&#233;riques, les gigantesques d&#230;odons (que la plupart des gens et les
+chasseurs appellent sangliers sanguinaires), eux, sont carr&#233;ment
+violents et d&#233;bordant de haine. Bien qu’omnivores (comme
+leurs cousins plus petits), les d&#230;odons pr&#233;f&#232;rent se
+repa&#238;tre de chair. Leurs d&#233;fenses ac&#233;r&#233;es et leur vue
+per&#231;ante en font des pr&#233;dateurs particuli&#232;rement
+efficaces. Les d&#230;odons sont avant tout des
+charognards, mais ils ne rechignent
+pas &#224; attaquer les cr&#233;atures (de
+taille raisonnable) qu’ils croisent
+alors qu’ils &#233;taient en qu&#234;te de
+proies faciles, ou celles qui
+s’aventurent sans le savoir sur
+leur territoire. Les orques les
+plus courageux ou les plus
+talentueux aiment se servir de
+d&#230;odons comme montures.
+Une troupe de cavaliers orques
+mont&#233;s sur des sangliers
+sanguinaires ne manque pas
+d’inspirer la peur, et &#224; juste
+titre.&lt;br /&gt;&lt;br /&gt;Un d&#230;odon adulte
+moyen mesure 3 m&#232;tres
+de longueur et 2,10 m&#232;tres
+aux &#233;paules. Il p&#232;se
+approximativement 1 000 kg.
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Daeodon|FP 4}
+{s:pucem|Animal|Forêt-Jungle|Tempéré}
+{s:BDTexte|''Source : Bestiaire p.253''}
+{s:BDTexte|'''PX''' 1.200}
+{s:BDTexte|[[type Animal|Animal]] de taille G, N}
+{s:BDTexte|'''Init''' +4 ; '''Sens''' [[odorat]], [[vision nocturne]] ; [[Perception]] +12}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 15, contact 9, pris au dépourvu 15 (naturelle +6, taille -1)}
+{s:BDTexte|'''pv''' 42 (5d8+20)}
+{s:BDTexte|'''Réf''' +4, '''Vig''' +7, '''Vol''' +2}
+{s:BDTexte|'''Capacités défensives''' [[férocité]] }
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 12 m (8 {s:c}}
+{s:BDTexte|'''Corps à corps''' corne +8 (2d6+9)}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 23, '''Dex''' 10, '''Con''' 17, '''Int''' 2, '''Sag''' 13, '''Cha''' 8}
+{s:BDTexte|'''BBA''' +3, '''BMO''' +10, '''DMD''' 20}
+{s:BDTexte|'''Dons''' [[Robustesse]], [[Science de linitiative|Science de l'initiative]], [[Talent]] ([[Perception]])}
+{s:BDTexte|'''Compétences''' [[Perception]] +12}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' forêts tempérées ou tropicales}
+{s:BDTexte|'''Organisation sociale''' solitaire, couple ou harde (3-8)}
+{s:BDTexte|'''Trésor''' aucun}
+</div>
+</td><td><div>''Le dos de ce grand sanglier forme une crête acérée. Ses yeux sont entourés
+de saletés et ses flancs hirsutes, de centaines de mouches.''
+
+Alors que les sangliers se montrent généralement peu amicaux et
+colériques, les gigantesques dæodons (que la plupart des gens et les
+chasseurs appellent sangliers sanguinaires), eux, sont carrément
+violents et débordant de haine. Bien qu’omnivores (comme
+leurs cousins plus petits), les dæodons préfèrent se
+repaître de chair. Leurs défenses acérées et leur vue
+perçante en font des prédateurs particulièrement
+efficaces. Les dæodons sont avant tout des
+charognards, mais ils ne rechignent
+pas à attaquer les créatures (de
+taille raisonnable) qu’ils croisent
+alors qu’ils étaient en quête de
+proies faciles, ou celles qui
+s’aventurent sans le savoir sur
+leur territoire. Les orques les
+plus courageux ou les plus
+talentueux aiment se servir de
+dæodons comme montures.
+Une troupe de cavaliers orques
+montés sur des sangliers
+sanguinaires ne manque pas
+d’inspirer la peur, et à juste
+titre.
+
+Un dæodon adulte
+moyen mesure 3 mètres
+de longueur et 2,10 mètres
+aux épaules. Il pèse
+approximativement 1 000 kg.
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Sanglier sanguinaire</fullName>
+</wikiPage>

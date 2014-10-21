@@ -1,0 +1,122 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Vautour géant</title>
+  <categories></categories>
+  <lastModified>2014-01-13 03:28:18Z</lastModified>
+  <version>5</version>
+  <inLinks><link>Pathfinder-RPG.Glossaire des monstres</link><link>Pathfinder-RPG.Liste de monstres par FP</link><link>Pathfinder-RPG.Liste de monstres par milieu naturel</link><link>Pathfinder-RPG.Liste de monstres par type</link><link>Pathfinder-RPG.Monstres</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.type Animal</link><link>Pathfinder-RPG.vision nocturne</link><link>Pathfinder-RPG.Odorat (capacité)</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Maladies</link><link>Pathfinder-RPG.Arme de prédilection</link><link>Pathfinder-RPG.Robustesse</link><link>Pathfinder-RPG.Talent</link><link>Pathfinder-RPG.Vigueur surhumaine</link><link>Pathfinder-RPG.Vol</link><link>Pathfinder-RPG.jet de sauvegarde</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Vautour g&#233;ant&lt;div style=&quot;float:right;&quot;&gt;FP 4&lt;/div&gt;&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Bestiaire 3, p.276&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 1 200
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Animal.html&quot; title=&quot;Animal&quot;&gt;Animal&lt;/a&gt; de taille G, N
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +2 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Nocturne-(Capacit&#233;).html&quot; title=&quot;vision nocturne&quot;&gt;vision nocturne&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Odorat-(Capacit&#233;).html&quot; title=&quot;Odorat (Ext)&quot;&gt;odorat&lt;/a&gt; ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +13
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 17, contact 11, pris au d&#233;pourvu 15 (Dex +2, naturelle +6, taille -1)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 42 (5d8+20)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +6, &lt;b&gt;Vig&lt;/b&gt; +10, &lt;b&gt;Vol&lt;/b&gt; +3 ; +4 contre les &lt;a class=&quot;pagelink&quot; href=&quot;Maladies.html&quot; title=&quot;Les maladies&quot;&gt;maladies&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 3 m (2 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), vol 15 m (10 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) (moyenne)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; morsure, +9 (2d6+9 plus maladie)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Espace occup&#233;&lt;/b&gt; 3 m (2 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) ; &lt;b&gt;Allonge&lt;/b&gt; 1,5 m (1 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 22, &lt;b&gt;Dex&lt;/b&gt; 15, &lt;b&gt;Con&lt;/b&gt; 18, &lt;b&gt;Int&lt;/b&gt; 2, &lt;b&gt;Sag&lt;/b&gt; 15, &lt;b&gt;Cha&lt;/b&gt; 7
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +3, &lt;b&gt;BMO&lt;/b&gt; +10, &lt;b&gt;DMD&lt;/b&gt; 22
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Arme-De-Pr&#233;dilection.html&quot; title=&quot;Arme de pr&#233;dilection&quot;&gt;Arme de pr&#233;dilection&lt;/a&gt; (morsure), &lt;a class=&quot;pagelink&quot; href=&quot;Robustesse.html&quot; title=&quot;Robustesse&quot;&gt;Robustesse&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Talent.html&quot; title=&quot;Talent&quot;&gt;Talent&lt;/a&gt; (Perception), &lt;a class=&quot;pagelink&quot; href=&quot;Vigueur-Surhumaine.html&quot; title=&quot;Vigueur surhumaine&quot;&gt;Vigueur surhumaine&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +13, &lt;a class=&quot;pagelink&quot; href=&quot;Vol.html&quot; title=&quot;Vol&quot;&gt;Vol&lt;/a&gt; +7
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Modificateur racial&lt;/b&gt; +4 en &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Particularit&#233;&lt;/b&gt; porteur de maladies
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; collines ou plaines chaudes
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation sociale&lt;/b&gt; solitaire, couple ou vol&#233;e (3-8)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; aucun
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Pouvoirs Sp&#233;ciaux&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Porteur de maladies (Sur).&lt;/b&gt; En raison de ses habitudes alimentaires d&#233;go&#251;tantes et de son exposition constante &#224; la chair en d&#233;composition, le vautour g&#233;ant est porteur de maladies (bien plus que le vautour ordinaire). Toutes les cr&#233;atures mordues par un vautour g&#233;ant ont 10% de chances d’&#234;tre expos&#233;es &#224; la &lt;a class=&quot;pagelink&quot; href=&quot;Maladies.html&quot; title=&quot;Les maladies&quot;&gt;fi&#232;vre des marais&lt;/a&gt;, &#224; la &lt;a class=&quot;pagelink&quot; href=&quot;Maladies.html&quot; title=&quot;Les maladies&quot;&gt;croupissure&lt;/a&gt; ou &#224; toute autre &lt;a class=&quot;pagelink&quot; href=&quot;Maladies.html&quot; title=&quot;Les maladies&quot;&gt;maladie similaire&lt;/a&gt;. Une fois ce test r&#233;ussi, la victime ne peut plus &#234;tre infect&#233;e par ce vautour g&#233;ant, mais les attaques des autres vautours g&#233;ants se r&#233;solvent normalement et peuvent donner lieu &#224; de multiples maladies. Si les vautours ne sont pas immunis&#233;s contre toutes les maladies, ils b&#233;n&#233;ficient d’un bonus racial de +4 &#224; tous leurs &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;jet de sauvegarde&quot;&gt;jets de sauvegarde&lt;/a&gt; contre ces affections.
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;td&gt;&lt;div&gt;&lt;i&gt;Le vilain bec crochu et l’immense t&#234;te nue de cet immense charognard aux grandes ailes attirent l’attention.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Plus grands que les condors, les vautours g&#233;ants ne vivent que dans les r&#233;gions o&#249; l’on trouve abondance de charognes de grande taille comme, par exemple, dans les &#233;tendues sauvages primitives peupl&#233;es par la m&#233;gafaune. Ils hantent &#233;galement les r&#233;gions d&#233;chir&#233;es par la guerre, se r&#233;galant des morts sans se soucier de leurs all&#233;geances ou de leur race. Les vautours g&#233;ants attendent rarement que les cr&#233;atures bless&#233;es aient fini d’agoniser pour se nourrir et sont bien plus courageux que la plupart des animaux sauvages. Par exemple, le vautour g&#233;ant ne se pose aucune question avant de plonger sur une colonne de soldats en armure pour s’emparer de quelques retardataires bless&#233;s en bout de ligne.&lt;br /&gt;&lt;br /&gt;Le vautour g&#233;ant mesure 4 m&#232;tres de haut pour une envergure d’une dizaine de m&#232;tres et un poids de 250 &#224; 300 kilos.&lt;br /&gt;&lt;br /&gt;&lt;h3 class=&quot;separator&quot;&gt;Le vautour g&#233;ant comme compagnon animal&lt;a class=&quot;headeranchor&quot; id=&quot;Le_vautour_g&#233;ant_comme_compagnon_animal_0&quot; href=&quot;#Le_vautour_g&#233;ant_comme_compagnon_animal_0&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;
+&lt;b&gt;Caract&#233;ristiques de d&#233;part.&lt;/b&gt; &lt;b&gt;Taille&lt;/b&gt; M ; &lt;b&gt;Vitesse&lt;/b&gt; 3 m, Vol 15 m (moyenne) ; &lt;b&gt;CA&lt;/b&gt; armure naturelle +2 ; &lt;b&gt;Attaque&lt;/b&gt; morsure (1d8) ; &lt;b&gt;Caract&#233;ristiques&lt;/b&gt; For 12, Dex 15, Con 14, Int 2, Sag 15, Cha 7 ; &lt;b&gt;Particularit&#233;s&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Nocturne-(Capacit&#233;).html&quot; title=&quot;vision nocturne&quot;&gt;vision nocturne&lt;/a&gt;nocturne, +4 aux jets de sauvegarde contre les maladies.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;&#201;volution au niveau 7.&lt;/b&gt; &lt;b&gt;Taille&lt;/b&gt; G ; &lt;b&gt;CA&lt;/b&gt; armure naturelle +2 ; &lt;b&gt;Attaque&lt;/b&gt; morsure (2d6) ; &lt;b&gt;Caract&#233;ristiques&lt;/b&gt; For +8, Dex -2, Con +4.&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Vautour géant|FP 4}
+{s:pucem|Animal|Plaines|Tropical}
+{s:BDTexte|''Source : Bestiaire 3, p.276''}
+{s:BDTexte|'''PX''' 1 200}
+{s:BDTexte|[[type Animal|Animal]] de taille G, N}
+{s:BDTexte|'''Init''' +2 ; '''Sens''' [[vision nocturne]], [[odorat (capacité)|odorat]] ; [[Perception]] +13}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 17, contact 11, pris au dépourvu 15 (Dex +2, naturelle +6, taille -1)}
+{s:BDTexte|'''pv''' 42 (5d8+20)}
+{s:BDTexte|'''Réf''' +6, '''Vig''' +10, '''Vol''' +3 ; +4 contre les [[maladies]]}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 3 m (2 {s:c}), vol 15 m (10 {s:c}) (moyenne)}
+{s:BDTexte|'''Corps à corps''' morsure, +9 (2d6+9 plus maladie)}
+{s:BDTexte|'''Espace occupé''' 3 m (2 {s:c}) ; '''Allonge''' 1,5 m (1 {s:c})}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 22, '''Dex''' 15, '''Con''' 18, '''Int''' 2, '''Sag''' 15, '''Cha''' 7}
+{s:BDTexte|'''BBA''' +3, '''BMO''' +10, '''DMD''' 22}
+{s:BDTexte|'''Dons''' [[Arme de prédilection]] (morsure), [[Robustesse]], [[Talent]] (Perception), [[Vigueur surhumaine]]}
+{s:BDTexte|'''Compétences''' [[Perception]] +13, [[Vol]] +7}
+{s:BDTexte|'''Modificateur racial''' +4 en [[Perception]]}
+{s:BDTexte|'''Particularité''' porteur de maladies}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' collines ou plaines chaudes}
+{s:BDTexte|'''Organisation sociale''' solitaire, couple ou volée (3-8)}
+{s:BDTexte|'''Trésor''' aucun}
+{s:BDSousTitre|Pouvoirs Spéciaux}
+{s:BDTexte|'''Porteur de maladies (Sur).''' En raison de ses habitudes alimentaires dégoûtantes et de son exposition constante à la chair en décomposition, le vautour géant est porteur de maladies (bien plus que le vautour ordinaire). Toutes les créatures mordues par un vautour géant ont 10% de chances d’être exposées à la [[maladies|fièvre des marais]], à la [[maladies|croupissure]] ou à toute autre [[maladies|maladie similaire]]. Une fois ce test réussi, la victime ne peut plus être infectée par ce vautour géant, mais les attaques des autres vautours géants se résolvent normalement et peuvent donner lieu à de multiples maladies. Si les vautours ne sont pas immunisés contre toutes les maladies, ils bénéficient d’un bonus racial de +4 à tous leurs [[jet de sauvegarde|jets de sauvegarde]] contre ces affections.}
+</div>
+</td><td><div>''Le vilain bec crochu et l’immense tête nue de cet immense charognard aux grandes ailes attirent l’attention.''
+
+Plus grands que les condors, les vautours géants ne vivent que dans les régions où l’on trouve abondance de charognes de grande taille comme, par exemple, dans les étendues sauvages primitives peuplées par la mégafaune. Ils hantent également les régions déchirées par la guerre, se régalant des morts sans se soucier de leurs allégeances ou de leur race. Les vautours géants attendent rarement que les créatures blessées aient fini d’agoniser pour se nourrir et sont bien plus courageux que la plupart des animaux sauvages. Par exemple, le vautour géant ne se pose aucune question avant de plonger sur une colonne de soldats en armure pour s’emparer de quelques retardataires blessés en bout de ligne.
+
+Le vautour géant mesure 4 mètres de haut pour une envergure d’une dizaine de mètres et un poids de 250 à 300 kilos.
+
+====Le vautour géant comme compagnon animal====
+
+'''Caractéristiques de départ.''' '''Taille''' M ; '''Vitesse''' 3 m, Vol 15 m (moyenne) ; '''CA''' armure naturelle +2 ; '''Attaque''' morsure (1d8) ; '''Caractéristiques''' For 12, Dex 15, Con 14, Int 2, Sag 15, Cha 7 ; '''Particularités''' [[vision nocturne]]nocturne, +4 aux jets de sauvegarde contre les maladies.
+
+'''Évolution au niveau 7.''' '''Taille''' G ; '''CA''' armure naturelle +2 ; '''Attaque''' morsure (2d6) ; '''Caractéristiques''' For +8, Dex -2, Con +4.</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Vautour géant</fullName>
+</wikiPage>

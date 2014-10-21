@@ -1,0 +1,123 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Crabe mangeur de requins</title>
+  <categories><category>Pathfinder-RPG.Monstre</category><category>Pathfinder-RPG.Règles officielles</category></categories>
+  <lastModified>2014-02-08 12:10:27Z</lastModified>
+  <version>7</version>
+  <inLinks><link>Pathfinder-RPG.Glossaire des monstres</link><link>Pathfinder-RPG.Liste de monstres par FP</link><link>Pathfinder-RPG.Liste de monstres par milieu naturel</link><link>Pathfinder-RPG.Liste de monstres par type</link><link>Pathfinder-RPG.Monstres</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.type Vermine</link><link>Pathfinder-RPG.sous-type aquatique</link><link>Pathfinder-RPG.vision dans le noir</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Immunité (capacité)</link><link>Pathfinder-RPG.Constriction (capacité)</link><link>Pathfinder-RPG.Natation</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Crabe mangeur de requins (Cancer)&lt;div style=&quot;float:right;&quot;&gt;FP 7&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Bestiaire 3 p.53&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 3 200
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Vermine.html&quot; title=&quot;Vermine&quot;&gt;Vermine&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Aquatique.html&quot; title=&quot;Aquatique (sous-type)&quot;&gt;aquatique&lt;/a&gt;) de taille TG, N
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt;+2 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Capacit&#233;s-Sp&#233;ciales.html#VISIONDANSLENOIR&quot; title=&quot;vision dans le noir&quot;&gt;vision dans le noir&lt;/a&gt; 18 m (12 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +5
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt;&#160;20, contact 10, pris au d&#233;pourvu 18 (Dex +2, naturelle +10, taille -2)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 84 (8d8+48)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +4, &lt;b&gt;Vig&lt;/b&gt; +12, &lt;b&gt;Vol&lt;/b&gt; +3
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Immunit&#233;-(Capacit&#233;).html&quot; title=&quot;Immunit&#233; (Ext ou Sur)&quot;&gt;Immunit&#233;&lt;/a&gt;&lt;/b&gt; effets mentaux
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 9 m (6 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), nage 18 m (12 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; 2 pinces, +13 (1d8+9 plus &#233;treinte)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Espace occup&#233;&lt;/b&gt; 4,50 m&#160;(3 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;); Allonge 4,50 m (3 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaques sp&#233;ciales&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Constriction-(Capacit&#233;).html&quot; title=&quot;Constriction (Ext)&quot;&gt;Constriction&lt;/a&gt; (1d8+9), pince fulgurante
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 29, &lt;b&gt;Dex&lt;/b&gt; 14, &lt;b&gt;Con&lt;/b&gt; 22, &lt;b&gt;Int&lt;/b&gt; —, &lt;b&gt;Sag&lt;/b&gt; 12, &lt;b&gt;Cha&lt;/b&gt; 2
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +6&#160;; &lt;b&gt;BMO&lt;/b&gt; +17 (+21 lutte) ; &lt;b&gt;DMD&lt;/b&gt; 29 (41 contre le croc-en-jambe)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Natation.html&quot; title=&quot;Natation&quot;&gt;Natation&lt;/a&gt; +17, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +5 ; &lt;b&gt;Modificateur racial&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +4
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Particularit&#233;&lt;/b&gt; besoin d’eau
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; eau
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation&lt;/b&gt; solitaire ou colonie (2-8)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; aucun
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Pouvoirs sp&#233;ciaux&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Pince fulgurante (Ext).&lt;/b&gt; Ayant &#233;volu&#233; pour saisir les proies rapides, le crabe mangeur de requins est exceptionnellement agile de ses pinces. Lorsqu’il fait une attaque &#224; outrance, si le crabe rate ses deux attaques de pince, il peut faire une attaque de pince suppl&#233;mentaire avec un malus de -2 contre n’importe quelle cr&#233;ature &#224; sa port&#233;e.
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;td&gt;&lt;div&gt;&lt;i&gt;Ce crabe &#233;pineux aux longues pattes domine son environnement. Il agite ses pinces rapides et puissantes dans toutes les directions, impatient de trouver une proie.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Extr&#234;mement rapide et agile pour une cr&#233;ature de grande taille, le crabe mangeur de requins s’attaque aux pr&#233;dateurs 
+marins. Son r&#233;gime alimentaire ne se limite pas aux seuls requins, il se nourrit &#233;galement de poissons rapides tels 
+que le barracuda et le thon, parfois m&#234;me de mollusques comme le calmar g&#233;ant. Les comp&#233;tences de chasseur de ces crabes ont &#233;volu&#233; au cours des si&#232;cles pour leur permettre de suivre les mouvements des cr&#233;atures les plus rapides 
+nageant au-dessus d’eux tandis qu’ils se fondent dans leur environnement.&lt;br /&gt;
+Un crabe mangeur de requin mesure 4,80 m&#232;tres et p&#232;se un peu plus de 2 tonnes.
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Crabe mangeur de requins (Cancer)|FP 7}
+{s:BDTexte|''Source : Bestiaire 3 p.53''}
+{s:BDTexte|'''PX''' 3 200}
+{s:BDTexte|[[type Vermine|Vermine]] ([[sous-type aquatique|aquatique]]) de taille TG, N}
+{s:BDTexte|'''Init'''+2 ; '''Sens''' [[vision dans le noir]] 18 m (12 {s:c}) ; [[Perception]] +5}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 20, contact 10, pris au dépourvu 18 (Dex +2, naturelle +10, taille -2)}
+{s:BDTexte|'''pv''' 84 (8d8+48)}
+{s:BDTexte|'''Réf''' +4, '''Vig''' +12, '''Vol''' +3}
+{s:BDTexte|'''[[Immunité (capacité)|Immunité]]''' effets mentaux}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 9 m (6 {s:c}), nage 18 m (12 {s:c})}
+{s:BDTexte|'''Corps à corps''' 2 pinces, +13 (1d8+9 plus étreinte)}
+{s:BDTexte|'''Espace occupé''' 4,50 m (3 {s:c}); Allonge 4,50 m (3 {s:c})}
+{s:BDTexte|'''Attaques spéciales''' [[Constriction (capacité)|Constriction]] (1d8+9), pince fulgurante}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 29, '''Dex''' 14, '''Con''' 22, '''Int''' —, '''Sag''' 12, '''Cha''' 2}
+{s:BDTexte|'''BBA''' +6 ; '''BMO''' +17 (+21 lutte) ; '''DMD''' 29 (41 contre le croc-en-jambe)}
+{s:BDTexte|'''Compétences''' [[Natation]] +17, [[Perception]] +5 ; '''Modificateur racial''' [[Perception]] +4}
+{s:BDTexte|'''Particularité''' besoin d’eau}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' eau}
+{s:BDTexte|'''Organisation''' solitaire ou colonie (2-8)}
+{s:BDTexte|'''Trésor''' aucun}
+{s:BDSousTitre|Pouvoirs spéciaux}
+{s:BDTexte|'''Pince fulgurante (Ext).''' Ayant évolué pour saisir les proies rapides, le crabe mangeur de requins est exceptionnellement agile de ses pinces. Lorsqu’il fait une attaque à outrance, si le crabe rate ses deux attaques de pince, il peut faire une attaque de pince supplémentaire avec un malus de -2 contre n’importe quelle créature à sa portée.}
+</div>
+</td><td><div>''Ce crabe épineux aux longues pattes domine son environnement. Il agite ses pinces rapides et puissantes dans toutes les directions, impatient de trouver une proie.''
+
+Extrêmement rapide et agile pour une créature de grande taille, le crabe mangeur de requins s’attaque aux prédateurs 
+marins. Son régime alimentaire ne se limite pas aux seuls requins, il se nourrit également de poissons rapides tels 
+que le barracuda et le thon, parfois même de mollusques comme le calmar géant. Les compétences de chasseur de ces crabes ont évolué au cours des siècles pour leur permettre de suivre les mouvements des créatures les plus rapides 
+nageant au-dessus d’eux tandis qu’ils se fondent dans leur environnement.<br>
+Un crabe mangeur de requin mesure 4,80 mètres et pèse un peu plus de 2 tonnes.
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Crabe mangeur de requins</fullName>
+</wikiPage>

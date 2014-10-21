@@ -1,0 +1,761 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Coups Critiques</title>
+  <categories><category>Pathfinder-RPG.Divers</category></categories>
+  <lastModified>2014-02-05 13:20:39Z</lastModified>
+  <version>9</version>
+  <inLinks><link>Pathfinder-RPG.MainPage</link><link>Pathfinder-RPG.temp-MainPage</link></inLinks>
+  <outLinks></outLinks>
+  <body><![CDATA[&lt;div style=&quot;float:right; width:25%; border:1px solid black; padding: 2px; margin: 0 0 5px 5px; background-color: #fff3e6&quot;&gt;Ces r&#232;gles sont tir&#233;es du &lt;a class=&quot;externallink&quot; href=&quot;http://paizo.com/store/byCompany/p/paizoPublishingLLC/gameMastery/itemPacks/v5748btpy872f&quot; title=&quot;Critical Hit Deck&quot; target=&quot;_blank&quot;&gt;Critical Hit Deck&lt;/a&gt; cr&#233;&#233; par Paizo et &#233;galement disponibles &lt;a class=&quot;externallink&quot; href=&quot;http://www.black-book-editions.fr/produit.php?id=620&quot; title=&quot;en VF chez BBE&quot; target=&quot;_blank&quot;&gt;en VF chez BBE&lt;/a&gt;.&lt;/div&gt;Les cartes qui suivent sont tir&#233;es du jeu de cartes &quot;Critical Hit Deck&quot; de Paizo. Il s&#39;agit d&#39;une mani&#232;re originale de g&#233;rer les &quot;Coups critiques&quot;, autrement qu&#39;en effectuant des d&#233;g&#226;ts multipli&#233;s.
+&lt;p&gt;Chaque fois qu&#39;un &lt;b&gt;joueur&lt;/b&gt; confirme un coup critique, il tire une carte du paquet et applique le r&#233;sultat appropri&#233; au type d&#39;attaque effectu&#233; (contondant, perforant, tranchant ou magique). Pour les armes avec un multiplicateur x3, le joueur tire 2 cartes et choisit un des effets appropri&#233;s (tirer 3 cartes pour un multiplicateur x4). Le joueur doit appliquer le r&#233;sultat de la carte, sauf s&#39;il n&#39;est pas applicable, auquel cas les d&#233;g&#226;ts sont simplement doubl&#233;s).&lt;/p&gt;
+&lt;p&gt;Il y a 3 fa&#231;ons, pour le &lt;b&gt;MJ&lt;/b&gt; d&#39;utiliser ces cartes. Comme elles peuvent &#234;tre mortelles pour les joueurs, il est recommand&#233; d&#39;appliquer la premi&#232;re option.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;le MJ ne tire une carte que pour les coups critiques effectu&#233;s par les PNJ prinicpaux.&lt;/li&gt;
+&lt;li&gt;les monstres et les PNJs doivent avoir un Don pour tirer une carte de coup critique.&lt;/li&gt;
+&lt;li&gt;tous les monstres et PNJs utilisent ce paquet de cartes.&lt;/li&gt;&lt;/ul&gt;&lt;br /&gt;Et quelques d&#233;finitions utiles pour comprendre certaines cartes :
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Saignement&lt;/b&gt; : Les &lt;i&gt;saignements&lt;/i&gt; de caract&#233;ristiques sont des &lt;i&gt;affaiblissement temporaires&lt;/i&gt; de celles-ci.&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;Jets de sauvegarde&lt;/b&gt; : sauf si un DD est d&#233;fini, on prend la valeur du jet ayant servi &#224; confirmer le coup critique (une fois tous les modificateurs appliqu&#233;s).&lt;/li&gt;&lt;/ul&gt;
+&lt;table width=&quot;100%&quot;&gt;
+&lt;tr&gt;&lt;td style=&quot;width:49%&quot; class=&quot;presentation&quot;&gt;
+&lt;h2 class=&quot;separator&quot;&gt;CARTE n&#176;1&lt;a class=&quot;headeranchor&quot; id=&quot;CARTE_n&#176;B_0&quot; href=&quot;#CARTE_n&#176;B_0&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;&lt;li&gt; &lt;b&gt;Contondant&lt;/b&gt; : Trach&#233;e &#233;cras&#233;e (d&#233;g&#226;ts normaux, la cible ne peut ni parler ni respirer ; Test de Premiers Secours DD20 pour mettre fin &#224; ces conditions)&lt;/li&gt;
+&lt;li&gt; &lt;b&gt;Perforant&lt;/b&gt; : Epaule transperc&#233;e (d&#233;g&#226;ts doubl&#233;s, et la cible l&#226;che l’objet qu’elle tient)&lt;/li&gt;
+&lt;li&gt; &lt;b&gt;Tranchant&lt;/b&gt; : Longue entaille (d&#233;g&#226;ts normaux et &lt;i&gt;saignement&lt;/i&gt; de 8 points de d&#233;g&#226;ts. Un test de Premiers Secours r&#233;duit seulement le &lt;i&gt;saignement&lt;/i&gt; de moiti&#233;)&lt;/li&gt;
+&lt;li&gt; &lt;b&gt;Magique&lt;/b&gt; : Vuln&#233;rabilit&#233; (d&#233;g&#226;ts doubl&#233;s, et si le sort fait des d&#233;g&#226;ts &#233;l&#233;mentaires, la cible est maintenant vuln&#233;rable &#224; cet &#233;l&#233;ment pendant 3 rounds).&lt;/li&gt;&lt;/ul&gt;
+&lt;/td&gt;
+&lt;td width=&quot;1%&quot; /&gt;
+&lt;td width=&quot;49%&quot; class=&quot;presentation&quot;&gt;
+&lt;h2 class=&quot;separator&quot;&gt;CARTE n&#176;2&lt;a class=&quot;headeranchor&quot; id=&quot;CARTE_n&#176;C_1&quot; href=&quot;#CARTE_n&#176;C_1&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;&lt;li&gt; &lt;b&gt;Contondant&lt;/b&gt; : Que se passe-t-il ? (d&#233;g&#226;ts doubl&#233;s et la cible oublie les 1d4 derni&#232;res heures)&lt;/li&gt;
+&lt;li&gt; &lt;b&gt;Perforant&lt;/b&gt; : Art&#232;re entaill&#233;e (d&#233;g&#226;ts normaux, et &lt;i&gt;saignement&lt;/i&gt; de 2d6 points de d&#233;g&#226;ts)&lt;/li&gt;
+&lt;li&gt; &lt;b&gt;Tranchant&lt;/b&gt; : Gravez vos initiales (d&#233;g&#226;ts normaux, et la cible souffre d’humiliation et ne peut attaquer que vous – Volont&#233; annule)&lt;/li&gt;
+&lt;li&gt; &lt;b&gt;Magique&lt;/b&gt; : Distraction (d&#233;g&#226;ts doubl&#233;s, et une illusion appara&#238;t et attaque l’adversaire, le prenant &lt;i&gt;en tenaille&lt;/i&gt; avec vous pendant 1d6 rounds)&lt;/li&gt;&lt;/ul&gt;
+&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td style=&quot;width:49%&quot; class=&quot;presentation&quot;&gt;
+&lt;h2 class=&quot;separator&quot;&gt;CARTE n&#176;3&lt;a class=&quot;headeranchor&quot; id=&quot;CARTE_n&#176;D_2&quot; href=&quot;#CARTE_n&#176;D_2&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;&lt;li&gt; &lt;b&gt;Contondant&lt;/b&gt; : D&#233;s&#233;quilibr&#233; (d&#233;g&#226;ts normaux et la cible provoque des &lt;i&gt;attaques d’opportunit&#233;&lt;/i&gt; de tous ses adversaires qui la menacent)&lt;/li&gt;
+&lt;li&gt; &lt;b&gt;Perforant&lt;/b&gt; : Os f&#234;l&#233; (d&#233;g&#226;ts doubl&#233;s et &lt;i&gt;affaiblissement temporaire&lt;/i&gt; de 1 point de DEX)&lt;/li&gt;
+&lt;li&gt; &lt;b&gt;Tranchant&lt;/b&gt; : Taillader et trancher (d&#233;g&#226;ts doubl&#233;s et tous les critiques potentiels sur cette cible sont automatiquement confirm&#233;s pendant les 3 prochains rounds)&lt;/li&gt;
+&lt;li&gt; &lt;b&gt;Magique&lt;/b&gt; : Rayon r&#233;ducteur (d&#233;g&#226;ts normaux et la cible est r&#233;tr&#233;cie pendant 3 rounds - comme pour le sort &lt;i&gt;Rapetissement&lt;/i&gt;, Volont&#233; annule)&lt;/li&gt;&lt;/ul&gt;
+&lt;/td&gt;
+&lt;td width=&quot;1%&quot; /&gt;
+&lt;td width=&quot;49%&quot; class=&quot;presentation&quot;&gt;
+&lt;h2 class=&quot;separator&quot;&gt;CARTE n&#176;4&lt;a class=&quot;headeranchor&quot; id=&quot;CARTE_n&#176;E_3&quot; href=&quot;#CARTE_n&#176;E_3&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;&lt;li&gt; &lt;b&gt;Contondant&lt;/b&gt; : Estourbi (d&#233;g&#226;ts doubl&#233;s et la cible peut seulement faire une action simple au prochain tour)&lt;/li&gt;
+&lt;li&gt; &lt;b&gt;Perforant&lt;/b&gt; : Rein transperc&#233; (d&#233;g&#226;ts doubl&#233;s et la cible est &lt;i&gt;fi&#233;vreuse&lt;/i&gt; pendant 2d4 rounds – Vigueur annule)&lt;/li&gt;
+&lt;li&gt; &lt;b&gt;Tranchant&lt;/b&gt; : Bouts des doigts coup&#233;s (d&#233;g&#226;ts normaux et &lt;i&gt;affaiblissement temporaire&lt;/i&gt; de 1 point de DEX ; la cible ne peut plus utiliser cette main jusqu’&#224; ce qu’elle soit soign&#233;e)&lt;/li&gt;
+&lt;li&gt; &lt;b&gt;Magique&lt;/b&gt; : Yeux en feu (d&#233;g&#226;ts normaux et la cible est &lt;i&gt;aveugl&#233;&lt;/i&gt; pendant 1d4 rounds – Vigueur annule)&lt;/li&gt;&lt;/ul&gt;
+&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td style=&quot;width:49%&quot; class=&quot;presentation&quot;&gt;
+&lt;h2 class=&quot;separator&quot;&gt;CARTE n&#176;5&lt;a class=&quot;headeranchor&quot; id=&quot;CARTE_n&#176;F_4&quot; href=&quot;#CARTE_n&#176;F_4&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;&lt;li&gt; &lt;b&gt;Contondant&lt;/b&gt; : Bonne nuit ! (d&#233;g&#226;ts normaux et la cible est &lt;i&gt;inconsciente&lt;/i&gt; pendant 1d4 rounds – Vigueur annule)&lt;/li&gt;
+&lt;li&gt; &lt;b&gt;Perforant&lt;/b&gt; : Coup douloureux (d&#233;g&#226;ts doubl&#233;s et la cible ne peut faire qu’une action simple au prochain round)&lt;/li&gt;
+&lt;li&gt; &lt;b&gt;Tranchant&lt;/b&gt; : Nous avons un h&#233;mophile ! (d&#233;g&#226;ts normaux et &lt;i&gt;saignement&lt;/i&gt; de 2d6 points de d&#233;g&#226;ts)&lt;/li&gt;
+&lt;li&gt; &lt;b&gt;Magique&lt;/b&gt; : Chant des Sir&#232;nes (d&#233;g&#226;ts doubl&#233;s, voire tripl&#233;s contre les g&#233;ants, les humano&#239;des et les humano&#239;des monstrueux)&lt;/li&gt;&lt;/ul&gt;
+&lt;/td&gt;
+&lt;td width=&quot;1%&quot; /&gt;
+&lt;td width=&quot;49%&quot; class=&quot;presentation&quot;&gt;
+&lt;h2 class=&quot;separator&quot;&gt;CARTE n&#176;6&lt;a class=&quot;headeranchor&quot; id=&quot;CARTE_n&#176;G_5&quot; href=&quot;#CARTE_n&#176;G_5&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;&lt;li&gt; &lt;b&gt;Contondant&lt;/b&gt; : C&#244;tes cass&#233;es (d&#233;g&#226;ts doubl&#233;es et la cible ne peut gu&#233;rir naturellement pendant 1d4 jours)&lt;/li&gt;
+&lt;li&gt; &lt;b&gt;Perforant&lt;/b&gt; : Ponction lombaire (d&#233;g&#226;ts normaux et -4 &#224; tous les jets d’attaque, tests de comp&#233;tences et de caract&#233;ristiques pendant 1d4 rounds)&lt;/li&gt;
+&lt;li&gt; &lt;b&gt;Tranchant&lt;/b&gt; : Nerf coup&#233; (d&#233;g&#226;ts doubl&#233;s et la cible ne peut faire qu’une action simple au prochain round)&lt;/li&gt;
+&lt;li&gt; &lt;b&gt;Magique&lt;/b&gt; : Explosion profane (d&#233;g&#226;ts doubl&#233;s et 2d6 points de d&#233;g&#226;ts d’&#233;nergie al&#233;atoire – R&#233;flexes pour moiti&#233;)&lt;/li&gt;&lt;/ul&gt;
+&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td style=&quot;width:49%&quot; class=&quot;presentation&quot;&gt;
+&lt;h2 class=&quot;separator&quot;&gt;CARTE n&#176;7&lt;a class=&quot;headeranchor&quot; id=&quot;CARTE_n&#176;H_6&quot; href=&quot;#CARTE_n&#176;H_6&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;&lt;li&gt; &lt;b&gt;Contondant&lt;/b&gt; : Coup dans les parties (d&#233;g&#226;ts normaux et la cible est &lt;i&gt;h&#233;b&#233;t&#233;&lt;/i&gt; pendant 1d4 rounds)&lt;/li&gt;
+&lt;li&gt; &lt;b&gt;Perforant&lt;/b&gt; : Joue transperc&#233;e (d&#233;g&#226;ts normaux et saignement de 1d4 points de d&#233;g&#226;ts ; la cible a 50% d’&#233;chec aux sorts &#224; composante verbale jusqu’&#224; ce qu’elle soit soign&#233;e)&lt;/li&gt;
+&lt;li&gt; &lt;b&gt;Tranchant&lt;/b&gt; : Dans les yeux ! (d&#233;g&#226;ts normaux et la cible est d&#233;finitivement &lt;i&gt;aveugl&#233;e&lt;/i&gt; – R&#233;flexes annule)&lt;/li&gt;
+&lt;li&gt; &lt;b&gt;Magique&lt;/b&gt; : Retourn&#233; (d&#233;g&#226;ts doubl&#233;s et la cible ne peut faire qu’une action simple au prochain round)&lt;/li&gt;&lt;/ul&gt;
+&lt;/td&gt;
+&lt;td width=&quot;1%&quot; /&gt;
+&lt;td width=&quot;49%&quot; class=&quot;presentation&quot;&gt;
+&lt;h2 class=&quot;separator&quot;&gt;CARTE n&#176;8&lt;a class=&quot;headeranchor&quot; id=&quot;CARTE_n&#176;I_7&quot; href=&quot;#CARTE_n&#176;I_7&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;&lt;li&gt; &lt;b&gt;Contondant&lt;/b&gt; : Cogne les oreilles (d&#233;g&#226;ts normaux et la cible est &lt;i&gt;assourdie&lt;/i&gt; pendant 1d4 heures)&lt;/li&gt;
+&lt;li&gt; &lt;b&gt;Perforant&lt;/b&gt; : Receveur de javelot (d&#233;g&#226;ts doubl&#233;s et si c’est une arme de jet, &lt;i&gt;saignement&lt;/i&gt; de 1d6 points de d&#233;g&#226;ts)&lt;/li&gt;
+&lt;li&gt; &lt;b&gt;Tranchant&lt;/b&gt; : L&#232;vres coup&#233;es (d&#233;g&#226;ts doubl&#233;s et &lt;i&gt;saignement&lt;/i&gt; de 1 point de d&#233;g&#226;t ; la cible a 20% d’&#233;chec aux sorts &#224; composante verbale jusqu’&#224; ce qu’elle soit soign&#233;e)&lt;/li&gt;
+&lt;li&gt; &lt;b&gt;Magique&lt;/b&gt; : Appel de la nature (d&#233;g&#226;ts doubl&#233;s, voire tripl&#233;s contre les animaux, les f&#233;es, les b&#234;tes magiques et la vermine).&lt;/li&gt;&lt;/ul&gt;
+&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td style=&quot;width:49%&quot; class=&quot;presentation&quot;&gt;
+&lt;h2 class=&quot;separator&quot;&gt;CARTE n&#176;9&lt;a class=&quot;headeranchor&quot; id=&quot;CARTE_n&#176;J_8&quot; href=&quot;#CARTE_n&#176;J_8&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;&lt;li&gt; &lt;b&gt;Contondant&lt;/b&gt; : Pour tes pauvres neurones (d&#233;g&#226;ts doubl&#233;s et &lt;i&gt;saignement&lt;/i&gt; de 1 point d&#39;INT - Vigueur annule, un jet tous les round)&lt;/li&gt;
+&lt;li&gt; &lt;b&gt;Perforant&lt;/b&gt; : Grand nettoyage (d&#233;g&#226;ts normaux, &lt;i&gt;saignement&lt;/i&gt; de 1d6 points de d&#233;g&#226;ts et &lt;i&gt;diminution permanente&lt;/i&gt; de 1 point de CON)&lt;/li&gt;
+&lt;li&gt; &lt;b&gt;Tranchant&lt;/b&gt; : Ouverture (d&#233;g&#226;ts normaux et la cible provoque des &lt;i&gt;attaques d&#39;opportunit&#233;&lt;/i&gt; de tous ses adversaires qui la menacent)&lt;/li&gt;
+&lt;li&gt; &lt;b&gt;Magique&lt;/b&gt; : Courroux de l&#39;amasseur de tr&#233;sor (d&#233;g&#226;ts doubl&#233;s, voire tripl&#233;s contre les dragons)&lt;/li&gt;&lt;/ul&gt;
+&lt;/td&gt;
+&lt;td width=&quot;1%&quot; /&gt;
+&lt;td width=&quot;49%&quot; class=&quot;presentation&quot;&gt;
+&lt;h2 class=&quot;separator&quot;&gt;CARTE n&#176;10&lt;a class=&quot;headeranchor&quot; id=&quot;CARTE_n&#176;BA_9&quot; href=&quot;#CARTE_n&#176;BA_9&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;&lt;li&gt; &lt;b&gt;Contondant&lt;/b&gt; : Masse dans ta gueule (d&#233;g&#226;ts normaux et la cible est &lt;i&gt;h&#233;b&#233;t&#233;e&lt;/i&gt; et &lt;i&gt;aveugl&#233;e&lt;/i&gt; pendant 1 round)&lt;/li&gt;
+&lt;li&gt; &lt;b&gt;Perforant&lt;/b&gt; : Sur-r&#233;action (d&#233;g&#226;ts normaux et la cible provoque des &lt;i&gt;attaques d&#39;opportunit&#233;&lt;/i&gt; de tous ses adversaires qui la menace)&lt;/li&gt;
+&lt;li&gt; &lt;b&gt;Tranchant&lt;/b&gt; : Entaille (d&#233;g&#226;ts normaux et -4 aux jets d&#39;attaques, tests de comp&#233;tences et de caract&#233;ristiques pendant 1d4 rounds)&lt;/li&gt;
+&lt;li&gt; &lt;b&gt;Magique&lt;/b&gt; : S&#233;lection non naturelle (d&#233;g&#226;ts doubl&#233;s, voire tripl&#233;s contre les aberrations et les ext&#233;rieurs)&lt;/li&gt;&lt;/ul&gt;
+&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td style=&quot;width:49%&quot; class=&quot;presentation&quot;&gt;
+&lt;h2 class=&quot;separator&quot;&gt;CARTE n&#176;11&lt;a class=&quot;headeranchor&quot; id=&quot;CARTE_n&#176;BB_10&quot; href=&quot;#CARTE_n&#176;BB_10&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;&lt;li&gt; &lt;b&gt;Contondant&lt;/b&gt; : Fracassement du cr&#226;ne (d&#233;g&#226;ts doubl&#233;s et &lt;i&gt;affaiblissement temporaire&lt;/i&gt; de 2d6 points d&#39;INT - Vigueur pour moiti&#233;)&lt;/li&gt;
+&lt;li&gt; &lt;b&gt;Perforant&lt;/b&gt; : Blessure &#224; la main (d&#233;g&#226;ts normaux et &lt;i&gt;affaiblissement temporaire&lt;/i&gt; de 1d2 points de DEX ; -4 &#224; tous les jets lorsqu&#39;on utilise cette main)&lt;/li&gt;
+&lt;li&gt; &lt;b&gt;Tranchant&lt;/b&gt; : Coup ample (d&#233;g&#226;ts normaux et &lt;i&gt;saignement&lt;/i&gt; de 1d8 points de d&#233;g&#226;ts)&lt;/li&gt;
+&lt;li&gt; &lt;b&gt;Magique&lt;/b&gt; : Magie r&#233;siduelle (d&#233;g&#226;ts normaux ce round, et la moiti&#233; des d&#233;g&#226;ts pendant 1d4 rounds)&lt;/li&gt;&lt;/ul&gt;
+&lt;/td&gt;
+&lt;td width=&quot;1%&quot; /&gt;
+&lt;td width=&quot;49%&quot; class=&quot;presentation&quot;&gt;
+&lt;h2 class=&quot;separator&quot;&gt;CARTE n&#176;12&lt;a class=&quot;headeranchor&quot; id=&quot;CARTE_n&#176;BC_11&quot; href=&quot;#CARTE_n&#176;BC_11&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;&lt;li&gt; &lt;b&gt;Contondant&lt;/b&gt; : Coup vacillant (d&#233;g&#226;ts normaux et double d&#233;g&#226;ts non-l&#233;taux)&lt;/li&gt;
+&lt;li&gt; &lt;b&gt;Perforant&lt;/b&gt; : Toucher au coeur (d&#233;g&#226;ts tripl&#233;s et &lt;i&gt;saignement&lt;/i&gt; de 1 point de CON)&lt;/li&gt;
+&lt;li&gt; &lt;b&gt;Tranchant&lt;/b&gt; : Fauchage (d&#233;g&#226;ts doubl&#233;s et la cible se retrouve au sol)&lt;/li&gt;
+&lt;li&gt; &lt;b&gt;Magique&lt;/b&gt; : D&#233;monstration terrifiante (d&#233;g&#226;ts normaux et la cible est &lt;i&gt;effray&#233;e&lt;/i&gt; pendant 1d4 rounds - Volont&#233; annule)&lt;/li&gt;&lt;/ul&gt;
+&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td style=&quot;width:49%&quot; class=&quot;presentation&quot;&gt;
+&lt;h2 class=&quot;separator&quot;&gt;CARTE n&#176;13&lt;a class=&quot;headeranchor&quot; id=&quot;CARTE_n&#176;BD_12&quot; href=&quot;#CARTE_n&#176;BD_12&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;&lt;li&gt; &lt;b&gt;Contondant&lt;/b&gt; : Coup de tonnerre (d&#233;g&#226;ts doubl&#233;s et la cible est &lt;i&gt;assourdie&lt;/i&gt; pendant 1d4 rounds)&lt;/li&gt;
+&lt;li&gt; &lt;b&gt;Perforant&lt;/b&gt; : Clou&#233; sur place (double d&#233;g&#226;ts et la cible ne peut plus bouger - test de FOR DD20 pour annuler)&lt;/li&gt;
+&lt;li&gt; &lt;b&gt;Tranchant&lt;/b&gt; : D&#233;capitation (d&#233;g&#226;ts doubl&#233;s et mort - Vigueur annule)&lt;/li&gt;
+&lt;li&gt; &lt;b&gt;Magique&lt;/b&gt; : R&#233;cup&#233;ration du sort (d&#233;g&#226;ts doubl&#233;s et le sort n&#39;est pas perdu)&lt;/li&gt;&lt;/ul&gt;
+&lt;/td&gt;
+&lt;td width=&quot;1%&quot; /&gt;
+&lt;td width=&quot;49%&quot; class=&quot;presentation&quot;&gt;
+&lt;h2 class=&quot;separator&quot;&gt;CARTE n&#176;14&lt;a class=&quot;headeranchor&quot; id=&quot;CARTE_n&#176;BE_13&quot; href=&quot;#CARTE_n&#176;BE_13&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;&lt;li&gt; &lt;b&gt;Contondant&lt;/b&gt; : Orteil &#233;cras&#233; (d&#233;g&#226;ts normaux et &lt;i&gt;affaiblissement temporaire&lt;/i&gt; de 1d4 points de DEX ; la vitesse de d&#233;placement au sol de la cible est divis&#233;e par deux jusqu&#39;&#224; ce qu&#39;elle soit gu&#233;rie)&lt;/li&gt;
+&lt;li&gt; &lt;b&gt;Perforant&lt;/b&gt; :  Dard (d&#233;g&#226;ts normaux et la cible est &lt;i&gt;naus&#233;euse&lt;/i&gt; pendant 1d6 rounds)&lt;/li&gt;
+&lt;li&gt; &lt;b&gt;Tranchant&lt;/b&gt; : Doigts coup&#233;s (d&#233;g&#226;ts normaux ; la cible perd 1d3 doigts et subit une &lt;i&gt;diminution permanente&lt;/i&gt; de 1 point de CON - Vigueur annule)&lt;/li&gt;
+&lt;li&gt; &lt;b&gt;Magique&lt;/b&gt; : Glue magique (d&#233;g&#226;ts normaux ; la cible est &lt;i&gt;enchev&#234;tr&#233;e&lt;/i&gt; - Test de FOR ou &#201;vasion DD20 pour se lib&#233;rer)&lt;/li&gt;&lt;/ul&gt;
+&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td style=&quot;width:49%&quot; class=&quot;presentation&quot;&gt;
+&lt;h2 class=&quot;separator&quot;&gt;CARTE n&#176;15&lt;a class=&quot;headeranchor&quot; id=&quot;CARTE_n&#176;BF_14&quot; href=&quot;#CARTE_n&#176;BF_14&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;&lt;li&gt; &lt;b&gt;Contondant&lt;/b&gt; : Coup bas (d&#233;g&#226;ts normaux et la cible est &lt;i&gt;fi&#233;vreuse&lt;/i&gt; pendant 1d6 rounds)&lt;/li&gt;
+&lt;li&gt; &lt;b&gt;Perforant&lt;/b&gt; : Talon d&#39;Achille (d&#233;g&#226;ts normaux et &lt;i&gt;affaiblissement temporaire&lt;/i&gt; de 1d2 points de DEX. La vitesse de d&#233;placement de a cible est r&#233;duite de moiti&#233; jusqu&#39;&#224; ce qu&#39;elle soit soign&#233;e)&lt;/li&gt;
+&lt;li&gt; &lt;b&gt;Tranchant&lt;/b&gt; : Mauvaise parade (d&#233;g&#226;ts doubl&#233;s et la cible est d&#233;sarm&#233; - 1 objet)&lt;/li&gt;
+&lt;li&gt; &lt;b&gt;Magique&lt;/b&gt; : Vortex (d&#233;g&#226;ts normaux et la cible est envoy&#233; dans un plan al&#233;atoire - Volont&#233; annule)&lt;/li&gt;&lt;/ul&gt;
+&lt;/td&gt;
+&lt;td width=&quot;1%&quot; /&gt;
+&lt;td width=&quot;49%&quot; class=&quot;presentation&quot;&gt;
+&lt;h2 class=&quot;separator&quot;&gt;CARTE n&#176;16&lt;a class=&quot;headeranchor&quot; id=&quot;CARTE_n&#176;BG_15&quot; href=&quot;#CARTE_n&#176;BG_15&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;&lt;li&gt; &lt;b&gt;Contondant&lt;/b&gt; : Embrasse ton bouclier (d&#233;g&#226;ts doubl&#233;s et la cible laisse tomber son bouclier)&lt;/li&gt;
+&lt;li&gt; &lt;b&gt;Perforant&lt;/b&gt; : Blessure p&#233;n&#233;trante (d&#233;g&#226;ts doubl&#233;s et ignorez la RD)&lt;/li&gt;
+&lt;li&gt; &lt;b&gt;Tranchant&lt;/b&gt; : Blessure musculaire (d&#233;g&#226;ts doubl&#233;s et &lt;i&gt;affaiblissement temporaire&lt;/i&gt; de 1d2 points de FOR)&lt;/li&gt;
+&lt;li&gt; &lt;b&gt;Magique&lt;/b&gt; : Frappe puissante (d&#233;g&#226;ts doubl&#233;s et ignorez les r&#233;sistances aux &#233;nergies - mais pas les immunit&#233;s)&lt;/li&gt;&lt;/ul&gt;
+&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td style=&quot;width:49%&quot; class=&quot;presentation&quot;&gt;
+&lt;h2 class=&quot;separator&quot;&gt;CARTE n&#176;17&lt;a class=&quot;headeranchor&quot; id=&quot;CARTE_n&#176;BH_16&quot; href=&quot;#CARTE_n&#176;BH_16&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;&lt;li&gt; &lt;b&gt;Contondant&lt;/b&gt; : Impact violent (d&#233;g&#226;ts doubl&#233;s et la cible est repouss&#233; de 1d6 cases dans la direction oppos&#233;e)&lt;/li&gt;
+&lt;li&gt; &lt;b&gt;Perforant&lt;/b&gt; : Blessure profonde (d&#233;g&#226;ts doubl&#233;s et la cible est &lt;i&gt;fatigu&#233;e&lt;/i&gt;)&lt;/li&gt;
+&lt;li&gt; &lt;b&gt;Tranchant&lt;/b&gt; : Evisc&#233;ration (d&#233;g&#226;ts doubl&#233;s et &lt;i&gt;saignement&lt;/i&gt; de 1d4 points de d&#233;g&#226;ts ; la cible ne peut plus rien avaler)&lt;/li&gt;
+&lt;li&gt; &lt;b&gt;Magique&lt;/b&gt; : Sort qui &#233;clabousse (d&#233;g&#226;ts normaux et moiti&#233; de d&#233;g&#226;ts &#224; toutes les cibles adjacentes)&lt;/li&gt;&lt;/ul&gt;
+&lt;/td&gt;
+&lt;td width=&quot;1%&quot; /&gt;
+&lt;td width=&quot;49%&quot; class=&quot;presentation&quot;&gt;
+&lt;h2 class=&quot;separator&quot;&gt;CARTE n&#176;18&lt;a class=&quot;headeranchor&quot; id=&quot;CARTE_n&#176;BI_17&quot; href=&quot;#CARTE_n&#176;BI_17&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;&lt;li&gt; &lt;b&gt;Contondant&lt;/b&gt; : Aie ! Mes dents ! (d&#233;g&#226;ts normaux et &lt;i&gt;affaiblissement temporaire&lt;/i&gt; de 1 point de CON ; la cible ne peut plus mordre, et gagne 20% d&#39;&#233;chec aux sorts &#224; composante verbale)&lt;/li&gt;
+&lt;li&gt; &lt;b&gt;Perforant&lt;/b&gt; : H&#233;mophile ! (d&#233;g&#226;ts doubl&#233;s et &lt;i&gt;saignement&lt;/i&gt; de 1d6 points de d&#233;g&#226;ts)&lt;/li&gt;
+&lt;li&gt; &lt;b&gt;Tranchant&lt;/b&gt; : Enorme entaille (d&#233;g&#226;ts doubl&#233;s et &lt;i&gt;diminution permanente&lt;/i&gt; de 1 point de CHA)&lt;/li&gt;
+&lt;li&gt; &lt;b&gt;Magique&lt;/b&gt; : Ex&#233;crable (d&#233;g&#226;ts normaux et la cible est &lt;i&gt;fi&#233;vreuse&lt;/i&gt; pendant 1d6 rounds)&lt;/li&gt;&lt;/ul&gt;
+&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td style=&quot;width:49%&quot; class=&quot;presentation&quot;&gt;
+&lt;h2 class=&quot;separator&quot;&gt;CARTE n&#176;19&lt;a class=&quot;headeranchor&quot; id=&quot;CARTE_n&#176;BJ_18&quot; href=&quot;#CARTE_n&#176;BJ_18&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;&lt;li&gt; &lt;b&gt;Contondant&lt;/b&gt; : Terrible ecchymose (d&#233;g&#226;ts doubl&#233;s et 2d6 points de d&#233;g&#226;ts non l&#233;taux)&lt;/li&gt;
+&lt;li&gt; &lt;b&gt;Perforant&lt;/b&gt; : Impact violent (d&#233;g&#226;ts doubl&#233;s et la cible est repouss&#233; de 1d6 cases dans la direction oppos&#233;e)&lt;/li&gt;
+&lt;li&gt; &lt;b&gt;Tranchant&lt;/b&gt; : Armure endommag&#233;e (d&#233;g&#226;ts doubl&#233;s et d&#233;g&#226;ts normaux &#224; l&#39;armure de la cible)&lt;/li&gt;
+&lt;li&gt; &lt;b&gt;Magique&lt;/b&gt; : Sort drainant (d&#233;g&#226;ts doubl&#233;s et la cible perd un sort tir&#233; au hasard, ou une utilisation d&#39;une capacit&#233; magique&lt;/li&gt;&lt;/ul&gt;
+&lt;/td&gt;
+&lt;td width=&quot;1%&quot; /&gt;
+&lt;td width=&quot;49%&quot; class=&quot;presentation&quot;&gt;
+&lt;h2 class=&quot;separator&quot;&gt;CARTE n&#176;20&lt;a class=&quot;headeranchor&quot; id=&quot;CARTE_n&#176;CA_19&quot; href=&quot;#CARTE_n&#176;CA_19&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;&lt;li&gt; &lt;b&gt;Contondant&lt;/b&gt; : Jambe bris&#233;e (d&#233;g&#226;ts normaux et &lt;i&gt;affaiblissement temporaire&lt;/i&gt; de 1d4 points de CON et de DEX ; les vitesses de d&#233;placement de la cible sont divis&#233;es par deux jusqu&#39;&#224; ce qu&#39;elle soit soign&#233;e)&lt;/li&gt;
+&lt;li&gt; &lt;b&gt;Perforant&lt;/b&gt; : Eraflure (d&#233;g&#226;ts normaux et la cible est &lt;i&gt;&#233;tourdie&lt;/i&gt; pendant 1 round)&lt;/li&gt;
+&lt;li&gt; &lt;b&gt;Tranchant&lt;/b&gt; : Frappe ample (d&#233;g&#226;ts doubl&#233;s et une attaque gratuite sur un adversaire adjacent, avec le m&#234;me bonus)&lt;/li&gt;
+&lt;li&gt; &lt;b&gt;Magique&lt;/b&gt; : Effet maximum (toutes les variables du sort sont au maximum)&lt;/li&gt;&lt;/ul&gt;
+&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td style=&quot;width:49%&quot; class=&quot;presentation&quot;&gt;
+&lt;h2 class=&quot;separator&quot;&gt;CARTE n&#176;21&lt;a class=&quot;headeranchor&quot; id=&quot;CARTE_n&#176;CB_20&quot; href=&quot;#CARTE_n&#176;CB_20&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;&lt;li&gt; &lt;b&gt;Contondant&lt;/b&gt; : Armure caboss&#233;e (d&#233;g&#226;ts doubl&#233;s et 2d6 de d&#233;g&#226;ts &#224; l&#39;armure m&#233;tallique de votre cible, en ignorant sa solidit&#233;)&lt;/li&gt;
+&lt;li&gt; &lt;b&gt;Perforant&lt;/b&gt; : Tu veux un bandeau ? (d&#233;g&#226;ts tripl&#233;s et &lt;i&gt;diminution permanente&lt;/i&gt; de 1d2 points de CON ; -4 aux tests de Perception et aux jets d&#39;attaque &#224; distance jusqu&#39;&#224; ce que la cible soit soign&#233;e)&lt;/li&gt;
+&lt;li&gt; &lt;b&gt;Tranchant&lt;/b&gt; : Coup du plat de l&#39;&#233;p&#233;e (d&#233;g&#226;ts tripl&#233;s mais non-l&#233;taux)&lt;/li&gt;
+&lt;li&gt; &lt;b&gt;Magique&lt;/b&gt; : Lueur profane (d&#233;g&#226;ts doubl&#233;s et la cible brille pendant 1d6  rounds comme sous les effets du sort &lt;i&gt;lumi&#232;re f&#233;&#233;rique&lt;/i&gt;)&lt;/li&gt;&lt;/ul&gt;
+&lt;/td&gt;
+&lt;td width=&quot;1%&quot; /&gt;
+&lt;td width=&quot;49%&quot; class=&quot;presentation&quot;&gt;
+&lt;h2 class=&quot;separator&quot;&gt;CARTE n&#176;22&lt;a class=&quot;headeranchor&quot; id=&quot;CARTE_n&#176;CC_21&quot; href=&quot;#CARTE_n&#176;CC_21&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;&lt;li&gt; &lt;b&gt;Contondant&lt;/b&gt; : Souffle coup&#233; (d&#233;g&#226;ts normaux et la cible est &lt;i&gt;&#233;puis&#233;e&lt;/i&gt; pendant 1d4 rounds)&lt;/li&gt;
+&lt;li&gt; &lt;b&gt;Perforant&lt;/b&gt; : Tourniquet (d&#233;g&#226;ts normaux et la cible est &lt;i&gt;prise au d&#233;pourvue&lt;/i&gt; pendant 1 round)&lt;/li&gt;
+&lt;li&gt; &lt;b&gt;Tranchant&lt;/b&gt; : Main tranch&#233;e (d&#233;g&#226;ts normaux et la cible perd une main ; &lt;i&gt;diminution permanente&lt;/i&gt; de 1d3 points de CON et de FOR - Vigueur annule)&lt;/li&gt;
+&lt;li&gt; &lt;b&gt;Magique&lt;/b&gt; : Combustion (d&#233;g&#226;ts doubl&#233;s ; si c&#39;est un sort de feu, la cible prend feu, subissant 2d6 points de d&#233;g&#226;ts par round jusqu&#39;&#224; ce que le feu soit &#233;teint)&lt;/li&gt;&lt;/ul&gt;
+&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td style=&quot;width:49%&quot; class=&quot;presentation&quot;&gt;
+&lt;h2 class=&quot;separator&quot;&gt;CARTE n&#176;23&lt;a class=&quot;headeranchor&quot; id=&quot;CARTE_n&#176;CD_22&quot; href=&quot;#CARTE_n&#176;CD_22&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;&lt;li&gt; &lt;b&gt;Contondant&lt;/b&gt; : Commotion c&#233;r&#233;brale (d&#233;g&#226;ts normaux et &lt;i&gt;affaiblissement temporaire&lt;/i&gt; de 1d2 points de INT et SAG)&lt;/li&gt;
+&lt;li&gt; &lt;b&gt;Perforant&lt;/b&gt; : Infection (d&#233;g&#226;ts doubl&#233;s et la cible contracte la &lt;i&gt;fi&#232;vre des marais&lt;/i&gt;)&lt;/li&gt;
+&lt;li&gt; &lt;b&gt;Tranchant&lt;/b&gt; : Ecorch&#233; (d&#233;g&#226;ts normaux et &lt;i&gt;affaiblissement temporaire&lt;/i&gt; de 1d6 points de FOR)&lt;/li&gt;
+&lt;li&gt; &lt;b&gt;Magique&lt;/b&gt; : Corrosif (d&#233;g&#226;ts doubl&#233;s ; si c&#39;est un sort d&#39;acide, la cible subit 2d6 points de d&#233;g&#226;ts d&#39;acide pendant 1d4 rounds)&lt;/li&gt;&lt;/ul&gt;
+&lt;/td&gt;
+&lt;td width=&quot;1%&quot; /&gt;
+&lt;td width=&quot;49%&quot; class=&quot;presentation&quot;&gt;
+&lt;h2 class=&quot;separator&quot;&gt;CARTE n&#176;24&lt;a class=&quot;headeranchor&quot; id=&quot;CARTE_n&#176;CE_23&quot; href=&quot;#CARTE_n&#176;CE_23&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;&lt;li&gt; &lt;b&gt;Contondant&lt;/b&gt; : Mise en boule (d&#233;g&#226;ts doubl&#233;s et la cible est &lt;i&gt;&#224; terre&lt;/i&gt;)&lt;/li&gt;
+&lt;li&gt; &lt;b&gt;Perforant&lt;/b&gt; : Transperc&#233; (d&#233;g&#226;ts doubl&#233;s et la cible est &lt;i&gt;h&#233;b&#233;t&#233;e&lt;/i&gt; pendant 1 round)&lt;/li&gt;
+&lt;li&gt; &lt;b&gt;Tranchant&lt;/b&gt; : Gorge ouverte (d&#233;g&#226;ts normaux et &lt;i&gt;saignement&lt;/i&gt; de 2d6 points de d&#233;g&#226;ts ; la cible ne peut plus parler ni respirer tant qu&#39;elle saigne)&lt;/li&gt;
+&lt;li&gt; &lt;b&gt;Magique&lt;/b&gt; : Aspiration de vie (d&#233;g&#226;ts normaux et 1 &lt;i&gt;niveau n&#233;gatif&lt;/i&gt; - Vigueur annule au bout d&#39;un jour)&lt;/li&gt;&lt;/ul&gt;
+&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td style=&quot;width:49%&quot; class=&quot;presentation&quot;&gt;
+&lt;h2 class=&quot;separator&quot;&gt;CARTE n&#176;25&lt;a class=&quot;headeranchor&quot; id=&quot;CARTE_n&#176;CF_24&quot; href=&quot;#CARTE_n&#176;CF_24&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;&lt;li&gt; &lt;b&gt;Contondant&lt;/b&gt; : Deux pour le prix d&#39;Un (d&#233;g&#226;ts doubl&#233;s sur la cible, et d&#233;g&#226;ts normaux &#224; une cible adjacente)&lt;/li&gt;
+&lt;li&gt; &lt;b&gt;Perforant&lt;/b&gt; : Bras clou&#233; (d&#233;g&#226;ts doubl&#233;s et un bras ne peut plus bouger - test de FOR ou de Premiers Secours DD20 pour se lib&#233;rer)&lt;/li&gt;
+&lt;li&gt; &lt;b&gt;Tranchant&lt;/b&gt; : Lani&#232;re coup&#233;e (d&#233;g&#226;ts doubl&#233;s et la p&#233;nalit&#233; d&#39;armure est doubl&#233;e jusqu&#39;&#224; ce qu&#39;elle soit r&#233;par&#233;e - test d&#39;Artisanat DD15)&lt;/li&gt;
+&lt;li&gt; &lt;b&gt;Magique&lt;/b&gt; : &#201;lectris&#233; (d&#233;g&#226;ts doubl&#233;s ; si c&#39;est un sort d&#39;&#233;lectricit&#233;, la cible est &lt;i&gt;&#233;tourdie&lt;/i&gt; pendant 1d4 rounds)&lt;/li&gt;&lt;/ul&gt;
+&lt;/td&gt;
+&lt;td width=&quot;1%&quot; /&gt;
+&lt;td width=&quot;49%&quot; class=&quot;presentation&quot;&gt;
+&lt;h2 class=&quot;separator&quot;&gt;CARTE n&#176;26&lt;a class=&quot;headeranchor&quot; id=&quot;CARTE_n&#176;CG_25&quot; href=&quot;#CARTE_n&#176;CG_25&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;&lt;li&gt; &lt;b&gt;Contondant&lt;/b&gt; : Coup engourdissant (d&#233;g&#226;ts normaux, &lt;i&gt;affaiblissement temporaire&lt;/i&gt; de 1d4 points de DEX, et la cible est d&#233;sarm&#233;e - 1 objet, R&#233;flexes annule la perte d&#39;objet)&lt;/li&gt;
+&lt;li&gt; &lt;b&gt;Perforant&lt;/b&gt; : Blessure &#224; la poitrine (d&#233;g&#226;ts doubl&#233;s et la cible est &lt;i&gt;&#233;puis&#233;e&lt;/i&gt;)&lt;/li&gt;
+&lt;li&gt; &lt;b&gt;Tranchant&lt;/b&gt; : Coup de haut en bas (d&#233;g&#226;ts doubl&#233;s et &lt;i&gt;saignement&lt;/i&gt; de 1d4 points de d&#233;g&#226;ts)&lt;/li&gt;
+&lt;li&gt; &lt;b&gt;Magique&lt;/b&gt; : Impact violent (d&#233;g&#226;ts doubl&#233;s et la cible est repouss&#233; de 1d6 cases dans la direction oppos&#233;e)&lt;/li&gt;&lt;/ul&gt;
+&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td style=&quot;width:49%&quot; class=&quot;presentation&quot;&gt;
+&lt;h2 class=&quot;separator&quot;&gt;CARTE n&#176;27&lt;a class=&quot;headeranchor&quot; id=&quot;CARTE_n&#176;CH_26&quot; href=&quot;#CARTE_n&#176;CH_26&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;&lt;li&gt; &lt;b&gt;Contondant&lt;/b&gt; : Reste couch&#233; ! (d&#233;g&#226;ts normaux, la cible est &lt;i&gt;&#224; terre&lt;/i&gt; et est &lt;i&gt;&#233;tourdie&lt;/i&gt; pendant 1 round)&lt;/li&gt;
+&lt;li&gt; &lt;b&gt;Perforant&lt;/b&gt; : Ventil&#233; (d&#233;g&#226;ts doubl&#233;s et 2d6 points de d&#233;g&#226;ts non l&#233;taux)&lt;/li&gt;
+&lt;li&gt; &lt;b&gt;Tranchant&lt;/b&gt; : Impact violent (d&#233;g&#226;ts doubl&#233;s et la cible est repouss&#233; de 1d6 cases dans la direction oppos&#233;e)&lt;/li&gt;
+&lt;li&gt; &lt;b&gt;Magique&lt;/b&gt; : Congel&#233; (d&#233;g&#226;ts doubles ; si un sort de froid, la cible subit un &lt;i&gt;affaiblissement temporaire&lt;/i&gt; de 1d4 points de DEX)&lt;/li&gt;&lt;/ul&gt;
+&lt;/td&gt;
+&lt;td width=&quot;1%&quot; /&gt;
+&lt;td width=&quot;49%&quot; class=&quot;presentation&quot;&gt;
+&lt;h2 class=&quot;separator&quot;&gt;CARTE n&#176;28&lt;a class=&quot;headeranchor&quot; id=&quot;CARTE_n&#176;CI_27&quot; href=&quot;#CARTE_n&#176;CI_27&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;&lt;li&gt; &lt;b&gt;Contondant&lt;/b&gt; : Main en bouillie (d&#233;g&#226;ts normaux et &lt;i&gt;affaiblissement temporaire&lt;/i&gt; de 1d2 points de CON et de FOR ; la main est inutilisable jusqu&#39;&#224; ce qu&#39;elle soit soign&#233;e)&lt;/li&gt;
+&lt;li&gt; &lt;b&gt;Perforant&lt;/b&gt; : Droit dans l&#39;oreille (d&#233;g&#226;ts normaux, &lt;i&gt;saignement&lt;/i&gt; de 1 point de d&#233;g&#226;ts, et &lt;i&gt;affaiblissement temporaire&lt;/i&gt; de 1 point d&#39;INT)&lt;/li&gt;
+&lt;li&gt; &lt;b&gt;Tranchant&lt;/b&gt; : Pas de c&#244;t&#233; (d&#233;g&#226;ts doubl&#233;s et la cible est d&#233;plac&#233; d&#39;une case dans une direction au choix)&lt;/li&gt;
+&lt;li&gt; &lt;b&gt;Magique&lt;/b&gt; : Magie vampirique (d&#233;g&#226;ts normaux ; vous &#234;tes soign&#233;s de la m&#234;me quantit&#233;)&lt;/li&gt;&lt;/ul&gt;
+&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td style=&quot;width:49%&quot; class=&quot;presentation&quot;&gt;
+&lt;h2 class=&quot;separator&quot;&gt;CARTE n&#176;29&lt;a class=&quot;headeranchor&quot; id=&quot;CARTE_n&#176;CJ_28&quot; href=&quot;#CARTE_n&#176;CJ_28&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;&lt;li&gt; &lt;b&gt;Contondant&lt;/b&gt; : Je vois des &#233;toiles (d&#233;g&#226;ts normaux et la cible a 20% de chance de rater ses attaques pendant 1d4 rounds)&lt;/li&gt;
+&lt;li&gt; &lt;b&gt;Perforant&lt;/b&gt; : Perfor&#233; (d&#233;g&#226;ts doubl&#233;s et &lt;i&gt;saignement&lt;/i&gt; de 1 point de d&#233;g&#226;t ; la cible subit un &lt;i&gt;saignement&lt;/i&gt; suppl&#233;mentaire de 1 point de d&#233;g&#226;t jusqu&#39;&#224; ce qu&#39;elle soit soign&#233;e.&lt;/li&gt;
+&lt;li&gt; &lt;b&gt;Tranchant&lt;/b&gt; : &#201;ventr&#233; (d&#233;g&#226;ts doubl&#233;s, &lt;i&gt;saignement&lt;/i&gt; de 1d6 points de d&#233;g&#226;ts, et &lt;i&gt;affaiblissement temporaire&lt;/i&gt; de 1d4 points de CON)&lt;/li&gt;
+&lt;li&gt; &lt;b&gt;Magique&lt;/b&gt; : Conduit (d&#233;g&#226;ts doubl&#233;s et -4 &#224; tous les jets de sauvegardes contre vos sorts pendant 1d4 rounds)&lt;/li&gt;&lt;/ul&gt;
+&lt;/td&gt;
+&lt;td width=&quot;1%&quot; /&gt;
+&lt;td width=&quot;49%&quot; class=&quot;presentation&quot;&gt;
+&lt;h2 class=&quot;separator&quot;&gt;CARTE n&#176;30&lt;a class=&quot;headeranchor&quot; id=&quot;CARTE_n&#176;DA_29&quot; href=&quot;#CARTE_n&#176;DA_29&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;&lt;li&gt; &lt;b&gt;Contondant&lt;/b&gt; : Nez cass&#233; (d&#233;g&#226;ts normaux, &lt;i&gt;saignement&lt;/i&gt; de 1 points de d&#233;g&#226;ts, et &lt;i&gt;affaiblissement temporaire&lt;/i&gt; de 1 point de CHA)&lt;/li&gt;
+&lt;li&gt; &lt;b&gt;Perforant&lt;/b&gt; : Dans l&#39;alignement (d&#233;g&#226;ts doubl&#233;s sur la cible, et d&#233;g&#226;ts normaux sur une cible adjacente)&lt;/li&gt;
+&lt;li&gt; &lt;b&gt;Tranchant&lt;/b&gt; : Coup &#224; l&#39;arme (d&#233;g&#226;ts doubl&#233;s et d&#233;g&#226;ts normaux sur l&#39;arme de la cible)&lt;/li&gt;
+&lt;li&gt; &lt;b&gt;Magique&lt;/b&gt; : Nerfs endommag&#233;s (d&#233;g&#226;ts normaux et la cible est &lt;i&gt;ralentie&lt;/i&gt; pendant 1d6 rounds)&lt;/li&gt;&lt;/ul&gt;
+&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td style=&quot;width:49%&quot; class=&quot;presentation&quot;&gt;
+&lt;h2 class=&quot;separator&quot;&gt;CARTE n&#176;31&lt;a class=&quot;headeranchor&quot; id=&quot;CARTE_n&#176;DB_30&quot; href=&quot;#CARTE_n&#176;DB_30&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;&lt;li&gt; &lt;b&gt;Contondant&lt;/b&gt; : Onde de choc (d&#233;g&#226;ts normaux et une tentative gratuite de &lt;i&gt;croc-en-jambe&lt;/i&gt; contre la cible et tous les ennemis adjacents)&lt;/li&gt;
+&lt;li&gt; &lt;b&gt;Perforant&lt;/b&gt; : Point vuln&#233;rable (d&#233;g&#226;ts normaux et la cible subit un &lt;i&gt;affaiblissement temporaire&lt;/i&gt; de 1d4 points dans la caract&#233;ristique de votre choix)&lt;/li&gt;
+&lt;li&gt; &lt;b&gt;Tranchant&lt;/b&gt; : Bouclier fendu (d&#233;g&#226;ts doubl&#233;s et d&#233;g&#226;ts normaux sur le bouclier de la cible)&lt;/li&gt;
+&lt;li&gt; &lt;b&gt;Magique&lt;/b&gt; : D&#233;ferlement sauvage (d&#233;g&#226;ts normaux et d&#233;g&#226;ts normaux d&#39;un type d&#39;&#233;nergie d&#233;termin&#233; al&#233;atoirement)&lt;/li&gt;&lt;/ul&gt;
+&lt;/td&gt;
+&lt;td width=&quot;1%&quot; /&gt;
+&lt;td width=&quot;49%&quot; class=&quot;presentation&quot;&gt;
+&lt;h2 class=&quot;separator&quot;&gt;CARTE n&#176;32&lt;a class=&quot;headeranchor&quot; id=&quot;CARTE_n&#176;DC_31&quot; href=&quot;#CARTE_n&#176;DC_31&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;&lt;li&gt; &lt;b&gt;Contondant&lt;/b&gt; : Dos bris&#233; (d&#233;g&#226;ts doubl&#233;s et &lt;i&gt;affaiblissement temporaire&lt;/i&gt; de 1d6 points de DEX)&lt;/li&gt;
+&lt;li&gt; &lt;b&gt;Perforant&lt;/b&gt; : Blessure profonde (d&#233;g&#226;ts doubl&#233;s et la cible est &lt;i&gt;naus&#233;euse&lt;/i&gt; pendant 1 round - Vigueur annule)&lt;/li&gt;
+&lt;li&gt; &lt;b&gt;Tranchant&lt;/b&gt; : Entaille au front (d&#233;g&#226;ts normaux et &lt;i&gt;saignement&lt;/i&gt; de 1d4 points de d&#233;g&#226;ts ; la cible est &lt;i&gt;aveugl&#233;e&lt;/i&gt; tant qu&#39;elle saigne)&lt;/li&gt;
+&lt;li&gt; &lt;b&gt;Magique&lt;/b&gt; : Aura de dissipation (d&#233;g&#226;ts normaux et &lt;i&gt;dissipation de la magie&lt;/i&gt; sur la cible)&lt;/li&gt;&lt;/ul&gt;
+&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td style=&quot;width:49%&quot; class=&quot;presentation&quot;&gt;
+&lt;h2 class=&quot;separator&quot;&gt;CARTE n&#176;33&lt;a class=&quot;headeranchor&quot; id=&quot;CARTE_n&#176;DD_32&quot; href=&quot;#CARTE_n&#176;DD_32&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;&lt;li&gt; &lt;b&gt;Contondant&lt;/b&gt; : Tourniquet (d&#233;g&#226;ts normaux et la cible est &lt;i&gt;prise au d&#233;pourvue&lt;/i&gt; pendant 1 round)&lt;/li&gt;
+&lt;li&gt; &lt;b&gt;Perforant&lt;/b&gt; : Organe touch&#233; (d&#233;g&#226;ts doubl&#233;s et &lt;i&gt;affaiblissement temporaire&lt;/i&gt; de 1d6 points de CON)&lt;/li&gt;
+&lt;li&gt; &lt;b&gt;Tranchant&lt;/b&gt; : Aile d&#233;chir&#233;e (d&#233;g&#226;ts doubl&#233;s et la cible ne peut plus voler si elle a besoin d&#39;ailes)&lt;/li&gt;
+&lt;li&gt; &lt;b&gt;Magique&lt;/b&gt; : Appel d&#39;&#233;l&#233;mentaire (d&#233;g&#226;ts normaux ; si c&#39;est un sort &#233;l&#233;mentaire, un El&#233;mentaire de taille M appara&#238;t pour vous servir pendant 1d4 rounds)&lt;/li&gt;&lt;/ul&gt;
+&lt;/td&gt;
+&lt;td width=&quot;1%&quot; /&gt;
+&lt;td width=&quot;49%&quot; class=&quot;presentation&quot;&gt;
+&lt;h2 class=&quot;separator&quot;&gt;CARTE n&#176;34&lt;a class=&quot;headeranchor&quot; id=&quot;CARTE_n&#176;DE_33&quot; href=&quot;#CARTE_n&#176;DE_33&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;&lt;li&gt; &lt;b&gt;Contondant&lt;/b&gt; : Coup fatiguant (d&#233;g&#226;ts doubl&#233;s et la cible est &lt;i&gt;fatigu&#233;e&lt;/i&gt;)&lt;/li&gt;
+&lt;li&gt; &lt;b&gt;Perforant&lt;/b&gt; : Blessure &#224; la jambe (d&#233;g&#226;ts doubl&#233;s et la vitesse de d&#233;placement au sol de la cible est divis&#233;e par deux pendant 1d4 rounds)&lt;/li&gt;
+&lt;li&gt; &lt;b&gt;Tranchant&lt;/b&gt; : Tourniquet (d&#233;g&#226;ts normaux et la cible est &lt;i&gt;prise au d&#233;pourvue&lt;/i&gt; pendant 1 round)&lt;/li&gt;
+&lt;li&gt; &lt;b&gt;Magique&lt;/b&gt; : Vortex temporel (d&#233;g&#226;ts normaux et la cible disparait, r&#233;apparaissant au bout de 1d4 rounds)&lt;/li&gt;&lt;/ul&gt;
+&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td style=&quot;width:49%&quot; class=&quot;presentation&quot;&gt;
+&lt;h2 class=&quot;separator&quot;&gt;CARTE n&#176;35&lt;a class=&quot;headeranchor&quot; id=&quot;CARTE_n&#176;DF_34&quot; href=&quot;#CARTE_n&#176;DF_34&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;&lt;li&gt; &lt;b&gt;Contondant&lt;/b&gt; : Coup ferme (d&#233;g&#226;ts tripl&#233;s)&lt;/li&gt;
+&lt;li&gt; &lt;b&gt;Perforant&lt;/b&gt; : Blessure persistante (d&#233;g&#226;ts normaux et &lt;i&gt;affaiblissement temporaire&lt;/i&gt; de 1d2 points de CON ; la cible ne peut pas gu&#233;rir naturellement ces d&#233;g&#226;ts)&lt;/li&gt;
+&lt;li&gt; &lt;b&gt;Tranchant&lt;/b&gt; : Coup en parade (d&#233;g&#226;ts doubl&#233;s et vous gagnez +4 &#224; la CA pendant 1 round)&lt;/li&gt;
+&lt;li&gt; &lt;b&gt;Magique&lt;/b&gt; : D&#233;phas&#233; (d&#233;g&#226;ts doubl&#233;s et la cible devient &lt;i&gt;intangible&lt;/i&gt; pendant 1d3 rounds - volont&#233; annule)&lt;/li&gt;&lt;/ul&gt;
+&lt;/td&gt;
+&lt;td width=&quot;1%&quot; /&gt;
+&lt;td width=&quot;49%&quot; class=&quot;presentation&quot;&gt;
+&lt;h2 class=&quot;separator&quot;&gt;CARTE n&#176;36&lt;a class=&quot;headeranchor&quot; id=&quot;CARTE_n&#176;DG_35&quot; href=&quot;#CARTE_n&#176;DG_35&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;&lt;li&gt; &lt;b&gt;Contondant&lt;/b&gt; : Pied &#233;cras&#233; (d&#233;g&#226;ts doubl&#233;s, &lt;i&gt;affaiblissement temporaire&lt;/i&gt; de 1 point de DEX, et les vitesses de d&#233;placement de la cible sont r&#233;duites de 1 case)&lt;/li&gt;
+&lt;li&gt; &lt;b&gt;Perforant&lt;/b&gt; : Coup parfait (d&#233;g&#226;ts tripl&#233;s)&lt;/li&gt;
+&lt;li&gt; &lt;b&gt;Tranchant&lt;/b&gt; : Entaille &#233;reintante (d&#233;g&#226;ts doubl&#233;s et la cible est &lt;i&gt;fatigu&#233;&lt;/i&gt;)&lt;/li&gt;
+&lt;li&gt; &lt;b&gt;Magique&lt;/b&gt; : Explosion de lumi&#232;re (d&#233;g&#226;ts doubl&#233;s et la cible est &lt;i&gt;aveugl&#233;e&lt;/i&gt; pendant 1 round)&lt;/li&gt;&lt;/ul&gt;
+&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td style=&quot;width:49%&quot; class=&quot;presentation&quot;&gt;
+&lt;h2 class=&quot;separator&quot;&gt;CARTE n&#176;37&lt;a class=&quot;headeranchor&quot; id=&quot;CARTE_n&#176;DH_36&quot; href=&quot;#CARTE_n&#176;DH_36&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;&lt;li&gt; &lt;b&gt;Contondant&lt;/b&gt; : Attaque circulaire (d&#233;g&#226;ts normaux et une attaque gratuite sur tous les ennemis adjacents avec le m&#234;me bonus)&lt;/li&gt;
+&lt;li&gt; &lt;b&gt;Perforant&lt;/b&gt; : Plaie d&#233;chiquet&#233;e (d&#233;g&#226;ts normaux et &lt;i&gt;saignement&lt;/i&gt; de 1d8 points de d&#233;g&#226;ts)&lt;/li&gt;
+&lt;li&gt; &lt;b&gt;Tranchant&lt;/b&gt; : Blessure &#224; retardement (d&#233;g&#226;ts normaux et la cible subit un &lt;i&gt;saignement&lt;/i&gt; en points de d&#233;g&#226;ts de la m&#234;me valeur)&lt;/li&gt;
+&lt;li&gt; &lt;b&gt;Magique&lt;/b&gt; : Sort commotionnant (d&#233;g&#226;ts doubl&#233;s et &lt;i&gt;saignement&lt;/i&gt; de 1d4 points de d&#233;g&#226;ts)&lt;/li&gt;&lt;/ul&gt;
+&lt;/td&gt;
+&lt;td width=&quot;1%&quot; /&gt;
+&lt;td width=&quot;49%&quot; class=&quot;presentation&quot;&gt;
+&lt;h2 class=&quot;separator&quot;&gt;CARTE n&#176;38&lt;a class=&quot;headeranchor&quot; id=&quot;CARTE_n&#176;DI_37&quot; href=&quot;#CARTE_n&#176;DI_37&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;&lt;li&gt; &lt;b&gt;Contondant&lt;/b&gt; : Secousses (d&#233;g&#226;ts normaux et la cible est &lt;i&gt;confuse&lt;/i&gt; pendant 1d3 rounds - Vigueur annule)&lt;/li&gt;
+&lt;li&gt; &lt;b&gt;Perforant&lt;/b&gt; : Frappe et Garde (d&#233;g&#226;ts doubl&#233;s et vous gagnez +4 &#224; la CA pendant 1 round)&lt;/li&gt;
+&lt;li&gt; &lt;b&gt;Tranchant&lt;/b&gt; : Tendon sectionn&#233; (d&#233;g&#226;ts normaux et &lt;i&gt;affaiblissement temporaire&lt;/i&gt; de 1d6 points de DEX)&lt;/li&gt;
+&lt;li&gt; &lt;b&gt;Magique&lt;/b&gt; : D&#233;ferlement de puissance (d&#233;g&#226;ts tripl&#233;s)&lt;/li&gt;&lt;/ul&gt;
+&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td style=&quot;width:49%&quot; class=&quot;presentation&quot;&gt;
+&lt;h2 class=&quot;separator&quot;&gt;CARTE n&#176;39&lt;a class=&quot;headeranchor&quot; id=&quot;CARTE_n&#176;DJ_38&quot; href=&quot;#CARTE_n&#176;DJ_38&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;&lt;li&gt; &lt;b&gt;Contondant&lt;/b&gt; : Coup aveuglant (d&#233;g&#226;ts normaux et la cible est &lt;i&gt;aveugl&#233;e&lt;/i&gt; pendant 1d3 rounds)&lt;/li&gt;
+&lt;li&gt; &lt;b&gt;Perforant&lt;/b&gt; : Blessure au biceps (d&#233;g&#226;ts normaux et &lt;i&gt;affaiblissement temporaire&lt;/i&gt; de 1d4 points de FOR)&lt;/li&gt;
+&lt;li&gt; &lt;b&gt;Tranchant&lt;/b&gt; : D&#233;monstration d&#233;concertante (d&#233;g&#226;ts doubl&#233;s et -2 &#224; la CA pendant 1d4 rounds)&lt;/li&gt;
+&lt;li&gt; &lt;b&gt;Magique&lt;/b&gt; : Grondement (d&#233;g&#226;ts doubl&#233;s et la cible est &lt;i&gt;assourdie&lt;/i&gt; pendant 1d4 rounds)&lt;/li&gt;&lt;/ul&gt;
+&lt;/td&gt;
+&lt;td width=&quot;1%&quot; /&gt;
+&lt;td width=&quot;49%&quot; class=&quot;presentation&quot;&gt;
+&lt;h2 class=&quot;separator&quot;&gt;CARTE n&#176;40&lt;a class=&quot;headeranchor&quot; id=&quot;CARTE_n&#176;EA_39&quot; href=&quot;#CARTE_n&#176;EA_39&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;&lt;li&gt; &lt;b&gt;Contondant&lt;/b&gt; : Fracture ouverte (d&#233;g&#226;ts doubl&#233;s et &lt;i&gt;saignement&lt;/i&gt; de 1d4 points de d&#233;g&#226;ts)&lt;/li&gt;
+&lt;li&gt; &lt;b&gt;Perforant&lt;/b&gt; : Tournis (d&#233;g&#226;ts doubl&#233;s et -2 &#224; la CA pendant 1d4 rounds)&lt;/li&gt;
+&lt;li&gt; &lt;b&gt;Tranchant&lt;/b&gt; : M&#226;choire coup&#233;e (d&#233;g&#226;ts normaux et &lt;i&gt;affaiblissement temporaire&lt;/i&gt; de 1 point de CON ; la cible ne peut plus parler ni mordre tant qu&#39;elle n&#39;est pas soign&#233;e)&lt;/li&gt;
+&lt;li&gt; &lt;b&gt;Magique&lt;/b&gt; : Aura de protection (d&#233;g&#226;ts doubl&#233;s et vous gagnez +4 &#224; la CA pendant 1 round)&lt;/li&gt;&lt;/ul&gt;
+&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td style=&quot;width:49%&quot; class=&quot;presentation&quot;&gt;
+&lt;h2 class=&quot;separator&quot;&gt;CARTE n&#176;41&lt;a class=&quot;headeranchor&quot; id=&quot;CARTE_n&#176;EB_40&quot; href=&quot;#CARTE_n&#176;EB_40&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;&lt;li&gt; &lt;b&gt;Contondant&lt;/b&gt; : Genou broy&#233; (d&#233;g&#226;ts normaux et &lt;i&gt;affaiblissement temporaire&lt;/i&gt; de 1d2 points de DEX ; la vitesse de d&#233;placement au sol de la cible est r&#233;duite &#224; 2 cases jusqu&#39;&#224; ce qu&#39;elle soit soign&#233;e)&lt;/li&gt;
+&lt;li&gt; &lt;b&gt;Perforant&lt;/b&gt; : Mollet transperc&#233; (d&#233;g&#226;ts normaux et &lt;i&gt;affaiblissement temporaire&lt;/i&gt; de 1d4 points de DEX)&lt;/li&gt;
+&lt;li&gt; &lt;b&gt;Tranchant&lt;/b&gt; : Vilaine blessure (d&#233;g&#226;ts normaux, &lt;i&gt;affaiblissement temporaire&lt;/i&gt; de 1d3 points de CHA, et &lt;i&gt;diminution permanente&lt;/i&gt; de 1 point de CHA - Vigueur annule la diminution permanente)&lt;/li&gt;
+&lt;li&gt; &lt;b&gt;Magique&lt;/b&gt; : Effet collat&#233;ral (d&#233;g&#226;ts doubl&#233;s et vous devenez &lt;i&gt;invisible&lt;/i&gt; pendant 1d4 rounds)&lt;/li&gt;&lt;/ul&gt;
+&lt;/td&gt;
+&lt;td width=&quot;1%&quot; /&gt;
+&lt;td width=&quot;49%&quot; class=&quot;presentation&quot;&gt;
+&lt;h2 class=&quot;separator&quot;&gt;CARTE n&#176;42&lt;a class=&quot;headeranchor&quot; id=&quot;CARTE_n&#176;EC_41&quot; href=&quot;#CARTE_n&#176;EC_41&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;&lt;li&gt; &lt;b&gt;Contondant&lt;/b&gt; : Son de cloche (d&#233;g&#226;ts normaux, &lt;i&gt;affaiblissement temporaire&lt;/i&gt; de 1d2 points d&#39;INT, et la cible est &lt;i&gt;fi&#233;vreuse&lt;/i&gt; pendant 1d4 rounds)&lt;/li&gt;
+&lt;li&gt; &lt;b&gt;Perforant&lt;/b&gt; : Crise d&#39;appendice (d&#233;g&#226;ts doubl&#233;s et la cible est empoisonn&#233;e - g&#233;r&#233; comme avec &lt;i&gt;l&#39;extrait de sanvert&lt;/i&gt;&lt;/li&gt;
+&lt;li&gt; &lt;b&gt;Tranchant&lt;/b&gt; : &#201;lan (d&#233;g&#226;ts doubl&#233;s et +2 &#224; toutes vos attaques pendant 1 round)&lt;/li&gt;
+&lt;li&gt; &lt;b&gt;Magique&lt;/b&gt; : P&#233;trifi&#233; (d&#233;g&#226;ts normaux et la cible est &lt;i&gt;p&#233;trifi&#233;e&lt;/i&gt; pendant 1d4 heures - Vigueur annule)&lt;/li&gt;&lt;/ul&gt;
+&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td style=&quot;width:49%&quot; class=&quot;presentation&quot;&gt;
+&lt;h2 class=&quot;separator&quot;&gt;CARTE n&#176;43&lt;a class=&quot;headeranchor&quot; id=&quot;CARTE_n&#176;ED_42&quot; href=&quot;#CARTE_n&#176;ED_42&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;&lt;li&gt; &lt;b&gt;Contondant&lt;/b&gt; : &#201;lan (d&#233;g&#226;ts doubl&#233;s et +2 &#224; toutes vos attaques pendant 1 round)&lt;/li&gt;
+&lt;li&gt; &lt;b&gt;Perforant&lt;/b&gt; : Renvers&#233; (d&#233;g&#226;ts doubl&#233;s et la cible est &lt;i&gt;mise &#224; terre&lt;/i&gt;)&lt;/li&gt;
+&lt;li&gt; &lt;b&gt;Tranchant&lt;/b&gt; : Emp&#234;tr&#233; (d&#233;g&#226;ts doubl&#233;s et vous pouvez automatiquement &lt;i&gt;agripper&lt;/i&gt; la cible)&lt;/li&gt;
+&lt;li&gt; &lt;b&gt;Magique&lt;/b&gt; : De belles couleurs (d&#233;g&#226;ts doubl&#233;s et la cible est &lt;i&gt;&#233;blouie&lt;/i&gt; pendant 1d4 rounds)&lt;/li&gt;&lt;/ul&gt;
+&lt;/td&gt;
+&lt;td width=&quot;1%&quot; /&gt;
+&lt;td width=&quot;49%&quot; class=&quot;presentation&quot;&gt;
+&lt;h2 class=&quot;separator&quot;&gt;CARTE n&#176;44&lt;a class=&quot;headeranchor&quot; id=&quot;CARTE_n&#176;EE_43&quot; href=&quot;#CARTE_n&#176;EE_43&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;&lt;li&gt; &lt;b&gt;Contondant&lt;/b&gt; : C&#244;tes f&#234;l&#233;es (d&#233;g&#226;ts normaux, &lt;i&gt;affaiblissement temporaire&lt;/i&gt; de 1d3 points de CON, et la cible est &lt;i&gt;fatigu&#233;e&lt;/i&gt;)&lt;/li&gt;
+&lt;li&gt; &lt;b&gt;Perforant&lt;/b&gt; : &#201;lan (d&#233;g&#226;ts doubl&#233;s et +2 &#224; toutes vos attaques pendant 1 round)&lt;/li&gt;
+&lt;li&gt; &lt;b&gt;Tranchant&lt;/b&gt; : Sanglant (d&#233;g&#226;ts normaux et la cible est &lt;i&gt;fi&#233;vreuse&lt;/i&gt; pendant 1d6 rounds)&lt;/li&gt;
+&lt;li&gt; &lt;b&gt;Magique&lt;/b&gt; : Assomm&#233; (d&#233;g&#226;ts normaux et la cible est &lt;i&gt;&#233;tourdie&lt;/i&gt; pendant 1 round)&lt;/li&gt;&lt;/ul&gt;
+&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td style=&quot;width:49%&quot; class=&quot;presentation&quot;&gt;
+&lt;h2 class=&quot;separator&quot;&gt;CARTE n&#176;45&lt;a class=&quot;headeranchor&quot; id=&quot;CARTE_n&#176;EF_44&quot; href=&quot;#CARTE_n&#176;EF_44&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;&lt;li&gt; &lt;b&gt;Contondant&lt;/b&gt; : Parade m&#233;diocre (d&#233;g&#226;ts doubl&#233;s et la cible est d&#233;sarm&#233;e - 1 objet)&lt;/li&gt;
+&lt;li&gt; &lt;b&gt;Perforant&lt;/b&gt; : Blessure &#224; l&#39;&#233;paule (d&#233;g&#226;ts doubl&#233;s et &lt;i&gt;affaiblissement temporaire&lt;/i&gt; de 1d2 points de FOR et de DEX)&lt;/li&gt;
+&lt;li&gt; &lt;b&gt;Tranchant&lt;/b&gt; : Tendon du jarret (d&#233;g&#226;ts normaux, &lt;i&gt;affaiblissement temporaire&lt;/i&gt; de 1d2 points de DEX, et la cible est &lt;i&gt;&#224; terre&lt;/i&gt;)&lt;/li&gt;
+&lt;li&gt; &lt;b&gt;Magique&lt;/b&gt; : Plus de magie ! (d&#233;g&#226;ts normaux et la cible ne peux plus lancer de sort ou utiliser une capacit&#233; magique pendant 1d4 rounds)&lt;/li&gt;&lt;/ul&gt;
+&lt;/td&gt;
+&lt;td width=&quot;1%&quot; /&gt;
+&lt;td width=&quot;49%&quot; class=&quot;presentation&quot;&gt;
+&lt;h2 class=&quot;separator&quot;&gt;CARTE n&#176;46&lt;a class=&quot;headeranchor&quot; id=&quot;CARTE_n&#176;EG_45&quot; href=&quot;#CARTE_n&#176;EG_45&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;&lt;li&gt; &lt;b&gt;Contondant&lt;/b&gt; : Ouverture impromptue (d&#233;g&#226;ts doubl&#233;s et une attaque gratuite &#224; -5 contre la cible)&lt;/li&gt;
+&lt;li&gt; &lt;b&gt;Perforant&lt;/b&gt; : Langue transperc&#233;e (d&#233;g&#226;ts normaux, &lt;i&gt;affaiblissement temporaire&lt;/i&gt; de 1 point de CON ; la cible a 50% d&#39;&#233;chec aux sorts &#224; composante verbale jusqu&#39;&#224; ce qu&#39;elle soit soign&#233;e)&lt;/li&gt;
+&lt;li&gt; &lt;b&gt;Tranchant&lt;/b&gt; : Du front au menton (d&#233;g&#226;ts normaux et &lt;i&gt;affaiblissement temporaire&lt;/i&gt; de 1 point de CON et de CHA ; -2 aux test de Perception et d&#39;attaques &#224; distance jusqu&#39;&#224; &#234;tre soign&#233;e)&lt;/li&gt;
+&lt;li&gt; &lt;b&gt;Magique&lt;/b&gt; : Tr&#232;s forte odeur (d&#233;g&#226;ts doubl&#233;s et la cible perd l&#39;odorat et la &lt;i&gt;perception aveugle&lt;/i&gt;)&lt;/li&gt;&lt;/ul&gt;
+&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td style=&quot;width:49%&quot; class=&quot;presentation&quot;&gt;
+&lt;h2 class=&quot;separator&quot;&gt;CARTE n&#176;47&lt;a class=&quot;headeranchor&quot; id=&quot;CARTE_n&#176;EH_46&quot; href=&quot;#CARTE_n&#176;EH_46&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;&lt;li&gt; &lt;b&gt;Contondant&lt;/b&gt; : O&#249; suis-je ? (d&#233;g&#226;ts normaux et la cible est &lt;i&gt;&#233;tourdie&lt;/i&gt; pendant 1 round)&lt;/li&gt;
+&lt;li&gt; &lt;b&gt;Perforant&lt;/b&gt; : Ouverture impromptue (d&#233;g&#226;ts doubl&#233;s et une attaque gratuite &#224; -5 contre la cible)&lt;/li&gt;
+&lt;li&gt; &lt;b&gt;Tranchant&lt;/b&gt; : Oreille coup&#233;e (d&#233;g&#226;ts normaux et &lt;i&gt;diminution permanente&lt;/i&gt; de 1 point de CHA ; -4 aux tests de Perception jusqu&#39;&#224; &#234;tre soign&#233;e)&lt;/li&gt;
+&lt;li&gt; &lt;b&gt;Magique&lt;/b&gt; : Brume mentale (d&#233;g&#226;ts doubl&#233;s et la cible est &lt;i&gt;h&#233;b&#233;t&#233;e&lt;/i&gt; pendant 1 round)&lt;/li&gt;&lt;/ul&gt;
+&lt;/td&gt;
+&lt;td width=&quot;1%&quot; /&gt;
+&lt;td width=&quot;49%&quot; class=&quot;presentation&quot;&gt;
+&lt;h2 class=&quot;separator&quot;&gt;CARTE n&#176;48&lt;a class=&quot;headeranchor&quot; id=&quot;CARTE_n&#176;EI_47&quot; href=&quot;#CARTE_n&#176;EI_47&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;&lt;li&gt; &lt;b&gt;Contondant&lt;/b&gt; : Craquement (d&#233;g&#226;ts doubl&#233;s et la cible est &lt;i&gt;naus&#233;euse&lt;/i&gt; pendant 1 round - Vigueur annule)&lt;/li&gt;
+&lt;li&gt; &lt;b&gt;Perforant&lt;/b&gt; : Avant-bras transperc&#233; (d&#233;g&#226;ts doubl&#233;s et la cible est d&#233;sarm&#233;e - 1 objet)&lt;/li&gt;
+&lt;li&gt; &lt;b&gt;Tranchant&lt;/b&gt; : Ouverture impromptue (d&#233;g&#226;ts doubl&#233;s et une attaque gratuite &#224; -5 contre la cible)&lt;/li&gt;
+&lt;li&gt; &lt;b&gt;Magique&lt;/b&gt; : R&#233;action allergique (d&#233;g&#226;ts doubl&#233;s et &lt;i&gt;affaiblissement temporaire&lt;/i&gt; de 1d4 points d&#39;une caract&#233;ristique d&#233;termin&#233;e al&#233;atoirement)&lt;/li&gt;&lt;/ul&gt;
+&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td style=&quot;width:49%&quot; class=&quot;presentation&quot;&gt;
+&lt;h2 class=&quot;separator&quot;&gt;CARTE n&#176;49&lt;a class=&quot;headeranchor&quot; id=&quot;CARTE_n&#176;EJ_48&quot; href=&quot;#CARTE_n&#176;EJ_48&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;&lt;li&gt; &lt;b&gt;Contondant&lt;/b&gt; : Rate &#233;clat&#233;e (d&#233;g&#226;ts normaux et &lt;i&gt;saignement&lt;/i&gt; de 1d6 points de d&#233;g&#226;ts ; ce saignement ne peux &#234;tre soign&#233; que par magie)&lt;/li&gt;
+&lt;li&gt; &lt;b&gt;Perforant&lt;/b&gt; : Muscle sectionn&#233; (d&#233;g&#226;ts normaux et &lt;i&gt;affaiblissement temporaire&lt;/i&gt; de 1d6 points de FOR et de DEX)&lt;/li&gt;
+&lt;li&gt; &lt;b&gt;Tranchant&lt;/b&gt; : Recroquevill&#233; sur la blessure (d&#233;g&#226;ts tripl&#233;s, mais vous l&#226;chez votre arme)&lt;/li&gt;
+&lt;li&gt; &lt;b&gt;Magique&lt;/b&gt; : Mort de rire (d&#233;g&#226;ts doubl&#233;s et la cible passe 1 round &#224; rire - comme pour le sort &lt;i&gt;fou rire&lt;/i&gt;)&lt;/li&gt;&lt;/ul&gt;
+&lt;/td&gt;
+&lt;td width=&quot;1%&quot; /&gt;
+&lt;td width=&quot;49%&quot; class=&quot;presentation&quot;&gt;
+&lt;h2 class=&quot;separator&quot;&gt;CARTE n&#176;50&lt;a class=&quot;headeranchor&quot; id=&quot;CARTE_n&#176;FA_49&quot; href=&quot;#CARTE_n&#176;FA_49&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;&lt;li&gt; &lt;b&gt;Contondant&lt;/b&gt; : Cage thoracique enfonc&#233;e (d&#233;g&#226;ts normaux et la cible est &lt;i&gt;chancelante&lt;/i&gt; pendant 1d6 minutes)&lt;/li&gt;
+&lt;li&gt; &lt;b&gt;Perforant&lt;/b&gt; : Noeud nerveux (d&#233;g&#226;ts normaux et la cible est &lt;i&gt;&#233;tourdie&lt;/i&gt; pendant 1d6 rounds - Vigueur chaque round pour agir)&lt;/li&gt;
+&lt;li&gt; &lt;b&gt;Tranchant&lt;/b&gt; : Rupture de la cavit&#233; abdominale (d&#233;g&#226;ts doubl&#233;s et &lt;i&gt;saignement&lt;/i&gt; de 1 point de CON)&lt;/li&gt;
+&lt;li&gt; &lt;b&gt;Magique&lt;/b&gt; : Transposition (d&#233;g&#226;ts doubl&#233;s et vous &#233;changez votre place avec la cible)&lt;/li&gt;&lt;/ul&gt;
+&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td style=&quot;width:49%&quot; class=&quot;presentation&quot;&gt;
+&lt;h2 class=&quot;separator&quot;&gt;CARTE n&#176;51&lt;a class=&quot;headeranchor&quot; id=&quot;CARTE_n&#176;FB_50&quot; href=&quot;#CARTE_n&#176;FB_50&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;&lt;li&gt; &lt;b&gt;Contondant&lt;/b&gt; : Os en bouilli (d&#233;g&#226;ts normaux et soit un &lt;i&gt;affaiblissement temporaire&lt;/i&gt; de 1d3 points de DEX et vitesse de d&#233;placement divis&#233;e par deux -jambe-, soit &lt;i&gt;affaiblissement temporaire&lt;/i&gt; de 1d3 points de FOR -bras- ; le membre est inutilisable jusqu&#39;&#224; &#234;tre soign&#233;)&lt;/li&gt;
+&lt;li&gt; &lt;b&gt;Perforant&lt;/b&gt; : Poumon perfor&#233; (d&#233;g&#226;ts doubl&#233;s et la cible commence &#224; se noyer au bout de 3 rounds ; Vigueur DD20 chaque round pour mettre fin aux effets)&lt;/li&gt;
+&lt;li&gt; &lt;b&gt;Tranchant&lt;/b&gt; : Douleur insupportable (d&#233;g&#226;ts doubl&#233;s et 2d6 points de d&#233;g&#226;ts non-l&#233;taux)&lt;/li&gt;
+&lt;li&gt; &lt;b&gt;Magique&lt;/b&gt; : Lien hypnotique (d&#233;g&#226;ts doubl&#233;s et vous pouvez donner une &lt;i&gt;suggestion&lt;/i&gt; &#224; votre cible - comme le sort &lt;i&gt;suggestion&lt;/i&gt;, Volont&#233; annule)&lt;/li&gt;&lt;/ul&gt;
+&lt;/td&gt;
+&lt;td width=&quot;1%&quot; /&gt;
+&lt;td width=&quot;49%&quot; class=&quot;presentation&quot;&gt;
+&lt;h2 class=&quot;separator&quot;&gt;CARTE n&#176;52&lt;a class=&quot;headeranchor&quot; id=&quot;CARTE_n&#176;FC_51&quot; href=&quot;#CARTE_n&#176;FC_51&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;&lt;li&gt; &lt;b&gt;Contondant&lt;/b&gt; : Intestins broy&#233;s (d&#233;g&#226;ts normaux et &lt;i&gt;saignement&lt;/i&gt; de 1d4 points de CON - Vigueur DD15 annule, jet de sauvegarde tous les rounds)&lt;/li&gt;
+&lt;li&gt; &lt;b&gt;Perforant&lt;/b&gt; : Log&#233; dans un os (d&#233;g&#226;ts doubl&#233;s et &lt;i&gt;saignement&lt;/i&gt; de 2 points de d&#233;g&#226;ts ; ce saignement n&#233;cessite un test de Premiers Secours DD20 pour &#234;tre arr&#234;t&#233;)&lt;/li&gt;
+&lt;li&gt; &lt;b&gt;Tranchant&lt;/b&gt; : Colonne vert&#233;brale touch&#233;e (d&#233;g&#226;ts doubl&#233;s et &lt;i&gt;affaiblissement temporaire&lt;/i&gt; de 3d6 points de DEX - Vigueur pour moiti&#233;)&lt;/li&gt;
+&lt;li&gt; &lt;b&gt;Magique&lt;/b&gt; : Que je t&#39;aime ! (d&#233;g&#226;ts normaux et la cible est &lt;i&gt;charm&#233;e&lt;/i&gt; pendant 3 rounds - Volont&#233; annule)&lt;/li&gt;&lt;/ul&gt;
+&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<div style="float:right; width:25%; border:1px solid black; padding: 2px; margin: 0 0 5px 5px; background-color: #fff3e6">Ces règles sont tirées du [[http://paizo.com/store/byCompany/p/paizoPublishingLLC/gameMastery/itemPacks/v5748btpy872f|Critical Hit Deck]] créé par Paizo et également disponibles [[http://www.black-book-editions.fr/produit.php?id=620|en VF chez BBE]].</div>Les cartes qui suivent sont tirées du jeu de cartes "Critical Hit Deck" de Paizo. Il s'agit d'une manière originale de gérer les "Coups critiques", autrement qu'en effectuant des dégâts multipliés.
+<p>Chaque fois qu'un '''joueur''' confirme un coup critique, il tire une carte du paquet et applique le résultat approprié au type d'attaque effectué (contondant, perforant, tranchant ou magique). Pour les armes avec un multiplicateur x3, le joueur tire 2 cartes et choisit un des effets appropriés (tirer 3 cartes pour un multiplicateur x4). Le joueur doit appliquer le résultat de la carte, sauf s'il n'est pas applicable, auquel cas les dégâts sont simplement doublés).</p>
+<p>Il y a 3 façons, pour le '''MJ''' d'utiliser ces cartes. Comme elles peuvent être mortelles pour les joueurs, il est recommandé d'appliquer la première option.</p>
+<ul><li>le MJ ne tire une carte que pour les coups critiques effectués par les PNJ prinicpaux.</li>
+<li>les monstres et les PNJs doivent avoir un Don pour tirer une carte de coup critique.</li>
+<li>tous les monstres et PNJs utilisent ce paquet de cartes.</li></ul>
+
+Et quelques définitions utiles pour comprendre certaines cartes :
+<ul><li>'''Saignement''' : Les ''saignements'' de caractéristiques sont des ''affaiblissement temporaires'' de celles-ci.</li>
+<li>'''Jets de sauvegarde''' : sauf si un DD est défini, on prend la valeur du jet ayant servi à confirmer le coup critique (une fois tous les modificateurs appliqués).</li></ul>
+<table width="100%">
+<tr><td style="width:49%" class="presentation">
+===CARTE n°1===
+<ul><li> '''Contondant''' : Trachée écrasée (dégâts normaux, la cible ne peut ni parler ni respirer ; Test de Premiers Secours DD20 pour mettre fin à ces conditions)</li>
+<li> '''Perforant''' : Epaule transpercée (dégâts doublés, et la cible lâche l’objet qu’elle tient)</li>
+<li> '''Tranchant''' : Longue entaille (dégâts normaux et ''saignement'' de 8 points de dégâts. Un test de Premiers Secours réduit seulement le ''saignement'' de moitié)</li>
+<li> '''Magique''' : Vulnérabilité (dégâts doublés, et si le sort fait des dégâts élémentaires, la cible est maintenant vulnérable à cet élément pendant 3 rounds).</li></ul>
+</td>
+<td width="1%" />
+<td width="49%" class="presentation">
+===CARTE n°2===
+<ul><li> '''Contondant''' : Que se passe-t-il ? (dégâts doublés et la cible oublie les 1d4 dernières heures)</li>
+<li> '''Perforant''' : Artère entaillée (dégâts normaux, et ''saignement'' de 2d6 points de dégâts)</li>
+<li> '''Tranchant''' : Gravez vos initiales (dégâts normaux, et la cible souffre d’humiliation et ne peut attaquer que vous – Volonté annule)</li>
+<li> '''Magique''' : Distraction (dégâts doublés, et une illusion apparaît et attaque l’adversaire, le prenant ''en tenaille'' avec vous pendant 1d6 rounds)</li></ul>
+</td></tr>
+<tr><td style="width:49%" class="presentation">
+===CARTE n°3===
+<ul><li> '''Contondant''' : Déséquilibré (dégâts normaux et la cible provoque des ''attaques d’opportunité'' de tous ses adversaires qui la menacent)</li>
+<li> '''Perforant''' : Os fêlé (dégâts doublés et ''affaiblissement temporaire'' de 1 point de DEX)</li>
+<li> '''Tranchant''' : Taillader et trancher (dégâts doublés et tous les critiques potentiels sur cette cible sont automatiquement confirmés pendant les 3 prochains rounds)</li>
+<li> '''Magique''' : Rayon réducteur (dégâts normaux et la cible est rétrécie pendant 3 rounds - comme pour le sort ''Rapetissement'', Volonté annule)</li></ul>
+</td>
+<td width="1%" />
+<td width="49%" class="presentation">
+===CARTE n°4===
+<ul><li> '''Contondant''' : Estourbi (dégâts doublés et la cible peut seulement faire une action simple au prochain tour)</li>
+<li> '''Perforant''' : Rein transpercé (dégâts doublés et la cible est ''fiévreuse'' pendant 2d4 rounds – Vigueur annule)</li>
+<li> '''Tranchant''' : Bouts des doigts coupés (dégâts normaux et ''affaiblissement temporaire'' de 1 point de DEX ; la cible ne peut plus utiliser cette main jusqu’à ce qu’elle soit soignée)</li>
+<li> '''Magique''' : Yeux en feu (dégâts normaux et la cible est ''aveuglé'' pendant 1d4 rounds – Vigueur annule)</li></ul>
+</td></tr>
+<tr><td style="width:49%" class="presentation">
+===CARTE n°5===
+<ul><li> '''Contondant''' : Bonne nuit ! (dégâts normaux et la cible est ''inconsciente'' pendant 1d4 rounds – Vigueur annule)</li>
+<li> '''Perforant''' : Coup douloureux (dégâts doublés et la cible ne peut faire qu’une action simple au prochain round)</li>
+<li> '''Tranchant''' : Nous avons un hémophile ! (dégâts normaux et ''saignement'' de 2d6 points de dégâts)</li>
+<li> '''Magique''' : Chant des Sirènes (dégâts doublés, voire triplés contre les géants, les humanoïdes et les humanoïdes monstrueux)</li></ul>
+</td>
+<td width="1%" />
+<td width="49%" class="presentation">
+===CARTE n°6===
+<ul><li> '''Contondant''' : Côtes cassées (dégâts doublées et la cible ne peut guérir naturellement pendant 1d4 jours)</li>
+<li> '''Perforant''' : Ponction lombaire (dégâts normaux et -4 à tous les jets d’attaque, tests de compétences et de caractéristiques pendant 1d4 rounds)</li>
+<li> '''Tranchant''' : Nerf coupé (dégâts doublés et la cible ne peut faire qu’une action simple au prochain round)</li>
+<li> '''Magique''' : Explosion profane (dégâts doublés et 2d6 points de dégâts d’énergie aléatoire – Réflexes pour moitié)</li></ul>
+</td></tr>
+<tr><td style="width:49%" class="presentation">
+===CARTE n°7===
+<ul><li> '''Contondant''' : Coup dans les parties (dégâts normaux et la cible est ''hébété'' pendant 1d4 rounds)</li>
+<li> '''Perforant''' : Joue transpercée (dégâts normaux et saignement de 1d4 points de dégâts ; la cible a 50% d’échec aux sorts à composante verbale jusqu’à ce qu’elle soit soignée)</li>
+<li> '''Tranchant''' : Dans les yeux ! (dégâts normaux et la cible est définitivement ''aveuglée'' – Réflexes annule)</li>
+<li> '''Magique''' : Retourné (dégâts doublés et la cible ne peut faire qu’une action simple au prochain round)</li></ul>
+</td>
+<td width="1%" />
+<td width="49%" class="presentation">
+===CARTE n°8===
+<ul><li> '''Contondant''' : Cogne les oreilles (dégâts normaux et la cible est ''assourdie'' pendant 1d4 heures)</li>
+<li> '''Perforant''' : Receveur de javelot (dégâts doublés et si c’est une arme de jet, ''saignement'' de 1d6 points de dégâts)</li>
+<li> '''Tranchant''' : Lèvres coupées (dégâts doublés et ''saignement'' de 1 point de dégât ; la cible a 20% d’échec aux sorts à composante verbale jusqu’à ce qu’elle soit soignée)</li>
+<li> '''Magique''' : Appel de la nature (dégâts doublés, voire triplés contre les animaux, les fées, les bêtes magiques et la vermine).</li></ul>
+</td></tr>
+<tr><td style="width:49%" class="presentation">
+===CARTE n°9===
+<ul><li> '''Contondant''' : Pour tes pauvres neurones (dégâts doublés et ''saignement'' de 1 point d'INT - Vigueur annule, un jet tous les round)</li>
+<li> '''Perforant''' : Grand nettoyage (dégâts normaux, ''saignement'' de 1d6 points de dégâts et ''diminution permanente'' de 1 point de CON)</li>
+<li> '''Tranchant''' : Ouverture (dégâts normaux et la cible provoque des ''attaques d'opportunité'' de tous ses adversaires qui la menacent)</li>
+<li> '''Magique''' : Courroux de l'amasseur de trésor (dégâts doublés, voire triplés contre les dragons)</li></ul>
+</td>
+<td width="1%" />
+<td width="49%" class="presentation">
+===CARTE n°10===
+<ul><li> '''Contondant''' : Masse dans ta gueule (dégâts normaux et la cible est ''hébétée'' et ''aveuglée'' pendant 1 round)</li>
+<li> '''Perforant''' : Sur-réaction (dégâts normaux et la cible provoque des ''attaques d'opportunité'' de tous ses adversaires qui la menace)</li>
+<li> '''Tranchant''' : Entaille (dégâts normaux et -4 aux jets d'attaques, tests de compétences et de caractéristiques pendant 1d4 rounds)</li>
+<li> '''Magique''' : Sélection non naturelle (dégâts doublés, voire triplés contre les aberrations et les extérieurs)</li></ul>
+</td></tr>
+<tr><td style="width:49%" class="presentation">
+===CARTE n°11===
+<ul><li> '''Contondant''' : Fracassement du crâne (dégâts doublés et ''affaiblissement temporaire'' de 2d6 points d'INT - Vigueur pour moitié)</li>
+<li> '''Perforant''' : Blessure à la main (dégâts normaux et ''affaiblissement temporaire'' de 1d2 points de DEX ; -4 à tous les jets lorsqu'on utilise cette main)</li>
+<li> '''Tranchant''' : Coup ample (dégâts normaux et ''saignement'' de 1d8 points de dégâts)</li>
+<li> '''Magique''' : Magie résiduelle (dégâts normaux ce round, et la moitié des dégâts pendant 1d4 rounds)</li></ul>
+</td>
+<td width="1%" />
+<td width="49%" class="presentation">
+===CARTE n°12===
+<ul><li> '''Contondant''' : Coup vacillant (dégâts normaux et double dégâts non-létaux)</li>
+<li> '''Perforant''' : Toucher au coeur (dégâts triplés et ''saignement'' de 1 point de CON)</li>
+<li> '''Tranchant''' : Fauchage (dégâts doublés et la cible se retrouve au sol)</li>
+<li> '''Magique''' : Démonstration terrifiante (dégâts normaux et la cible est ''effrayée'' pendant 1d4 rounds - Volonté annule)</li></ul>
+</td></tr>
+<tr><td style="width:49%" class="presentation">
+===CARTE n°13===
+<ul><li> '''Contondant''' : Coup de tonnerre (dégâts doublés et la cible est ''assourdie'' pendant 1d4 rounds)</li>
+<li> '''Perforant''' : Cloué sur place (double dégâts et la cible ne peut plus bouger - test de FOR DD20 pour annuler)</li>
+<li> '''Tranchant''' : Décapitation (dégâts doublés et mort - Vigueur annule)</li>
+<li> '''Magique''' : Récupération du sort (dégâts doublés et le sort n'est pas perdu)</li></ul>
+</td>
+<td width="1%" />
+<td width="49%" class="presentation">
+===CARTE n°14===
+<ul><li> '''Contondant''' : Orteil écrasé (dégâts normaux et ''affaiblissement temporaire'' de 1d4 points de DEX ; la vitesse de déplacement au sol de la cible est divisée par deux jusqu'à ce qu'elle soit guérie)</li>
+<li> '''Perforant''' :  Dard (dégâts normaux et la cible est ''nauséeuse'' pendant 1d6 rounds)</li>
+<li> '''Tranchant''' : Doigts coupés (dégâts normaux ; la cible perd 1d3 doigts et subit une ''diminution permanente'' de 1 point de CON - Vigueur annule)</li>
+<li> '''Magique''' : Glue magique (dégâts normaux ; la cible est ''enchevêtrée'' - Test de FOR ou Évasion DD20 pour se libérer)</li></ul>
+</td></tr>
+<tr><td style="width:49%" class="presentation">
+===CARTE n°15===
+<ul><li> '''Contondant''' : Coup bas (dégâts normaux et la cible est ''fiévreuse'' pendant 1d6 rounds)</li>
+<li> '''Perforant''' : Talon d'Achille (dégâts normaux et ''affaiblissement temporaire'' de 1d2 points de DEX. La vitesse de déplacement de a cible est réduite de moitié jusqu'à ce qu'elle soit soignée)</li>
+<li> '''Tranchant''' : Mauvaise parade (dégâts doublés et la cible est désarmé - 1 objet)</li>
+<li> '''Magique''' : Vortex (dégâts normaux et la cible est envoyé dans un plan aléatoire - Volonté annule)</li></ul>
+</td>
+<td width="1%" />
+<td width="49%" class="presentation">
+===CARTE n°16===
+<ul><li> '''Contondant''' : Embrasse ton bouclier (dégâts doublés et la cible laisse tomber son bouclier)</li>
+<li> '''Perforant''' : Blessure pénétrante (dégâts doublés et ignorez la RD)</li>
+<li> '''Tranchant''' : Blessure musculaire (dégâts doublés et ''affaiblissement temporaire'' de 1d2 points de FOR)</li>
+<li> '''Magique''' : Frappe puissante (dégâts doublés et ignorez les résistances aux énergies - mais pas les immunités)</li></ul>
+</td></tr>
+<tr><td style="width:49%" class="presentation">
+===CARTE n°17===
+<ul><li> '''Contondant''' : Impact violent (dégâts doublés et la cible est repoussé de 1d6 cases dans la direction opposée)</li>
+<li> '''Perforant''' : Blessure profonde (dégâts doublés et la cible est ''fatiguée'')</li>
+<li> '''Tranchant''' : Eviscération (dégâts doublés et ''saignement'' de 1d4 points de dégâts ; la cible ne peut plus rien avaler)</li>
+<li> '''Magique''' : Sort qui éclabousse (dégâts normaux et moitié de dégâts à toutes les cibles adjacentes)</li></ul>
+</td>
+<td width="1%" />
+<td width="49%" class="presentation">
+===CARTE n°18===
+<ul><li> '''Contondant''' : Aie ! Mes dents ! (dégâts normaux et ''affaiblissement temporaire'' de 1 point de CON ; la cible ne peut plus mordre, et gagne 20% d'échec aux sorts à composante verbale)</li>
+<li> '''Perforant''' : Hémophile ! (dégâts doublés et ''saignement'' de 1d6 points de dégâts)</li>
+<li> '''Tranchant''' : Enorme entaille (dégâts doublés et ''diminution permanente'' de 1 point de CHA)</li>
+<li> '''Magique''' : Exécrable (dégâts normaux et la cible est ''fiévreuse'' pendant 1d6 rounds)</li></ul>
+</td></tr>
+<tr><td style="width:49%" class="presentation">
+===CARTE n°19===
+<ul><li> '''Contondant''' : Terrible ecchymose (dégâts doublés et 2d6 points de dégâts non létaux)</li>
+<li> '''Perforant''' : Impact violent (dégâts doublés et la cible est repoussé de 1d6 cases dans la direction opposée)</li>
+<li> '''Tranchant''' : Armure endommagée (dégâts doublés et dégâts normaux à l'armure de la cible)</li>
+<li> '''Magique''' : Sort drainant (dégâts doublés et la cible perd un sort tiré au hasard, ou une utilisation d'une capacité magique</li></ul>
+</td>
+<td width="1%" />
+<td width="49%" class="presentation">
+===CARTE n°20===
+<ul><li> '''Contondant''' : Jambe brisée (dégâts normaux et ''affaiblissement temporaire'' de 1d4 points de CON et de DEX ; les vitesses de déplacement de la cible sont divisées par deux jusqu'à ce qu'elle soit soignée)</li>
+<li> '''Perforant''' : Eraflure (dégâts normaux et la cible est ''étourdie'' pendant 1 round)</li>
+<li> '''Tranchant''' : Frappe ample (dégâts doublés et une attaque gratuite sur un adversaire adjacent, avec le même bonus)</li>
+<li> '''Magique''' : Effet maximum (toutes les variables du sort sont au maximum)</li></ul>
+</td></tr>
+<tr><td style="width:49%" class="presentation">
+===CARTE n°21===
+<ul><li> '''Contondant''' : Armure cabossée (dégâts doublés et 2d6 de dégâts à l'armure métallique de votre cible, en ignorant sa solidité)</li>
+<li> '''Perforant''' : Tu veux un bandeau ? (dégâts triplés et ''diminution permanente'' de 1d2 points de CON ; -4 aux tests de Perception et aux jets d'attaque à distance jusqu'à ce que la cible soit soignée)</li>
+<li> '''Tranchant''' : Coup du plat de l'épée (dégâts triplés mais non-létaux)</li>
+<li> '''Magique''' : Lueur profane (dégâts doublés et la cible brille pendant 1d6  rounds comme sous les effets du sort ''lumière féérique'')</li></ul>
+</td>
+<td width="1%" />
+<td width="49%" class="presentation">
+===CARTE n°22===
+<ul><li> '''Contondant''' : Souffle coupé (dégâts normaux et la cible est ''épuisée'' pendant 1d4 rounds)</li>
+<li> '''Perforant''' : Tourniquet (dégâts normaux et la cible est ''prise au dépourvue'' pendant 1 round)</li>
+<li> '''Tranchant''' : Main tranchée (dégâts normaux et la cible perd une main ; ''diminution permanente'' de 1d3 points de CON et de FOR - Vigueur annule)</li>
+<li> '''Magique''' : Combustion (dégâts doublés ; si c'est un sort de feu, la cible prend feu, subissant 2d6 points de dégâts par round jusqu'à ce que le feu soit éteint)</li></ul>
+</td></tr>
+<tr><td style="width:49%" class="presentation">
+===CARTE n°23===
+<ul><li> '''Contondant''' : Commotion cérébrale (dégâts normaux et ''affaiblissement temporaire'' de 1d2 points de INT et SAG)</li>
+<li> '''Perforant''' : Infection (dégâts doublés et la cible contracte la ''fièvre des marais'')</li>
+<li> '''Tranchant''' : Ecorché (dégâts normaux et ''affaiblissement temporaire'' de 1d6 points de FOR)</li>
+<li> '''Magique''' : Corrosif (dégâts doublés ; si c'est un sort d'acide, la cible subit 2d6 points de dégâts d'acide pendant 1d4 rounds)</li></ul>
+</td>
+<td width="1%" />
+<td width="49%" class="presentation">
+===CARTE n°24===
+<ul><li> '''Contondant''' : Mise en boule (dégâts doublés et la cible est ''à terre'')</li>
+<li> '''Perforant''' : Transpercé (dégâts doublés et la cible est ''hébétée'' pendant 1 round)</li>
+<li> '''Tranchant''' : Gorge ouverte (dégâts normaux et ''saignement'' de 2d6 points de dégâts ; la cible ne peut plus parler ni respirer tant qu'elle saigne)</li>
+<li> '''Magique''' : Aspiration de vie (dégâts normaux et 1 ''niveau négatif'' - Vigueur annule au bout d'un jour)</li></ul>
+</td></tr>
+<tr><td style="width:49%" class="presentation">
+===CARTE n°25===
+<ul><li> '''Contondant''' : Deux pour le prix d'Un (dégâts doublés sur la cible, et dégâts normaux à une cible adjacente)</li>
+<li> '''Perforant''' : Bras cloué (dégâts doublés et un bras ne peut plus bouger - test de FOR ou de Premiers Secours DD20 pour se libérer)</li>
+<li> '''Tranchant''' : Lanière coupée (dégâts doublés et la pénalité d'armure est doublée jusqu'à ce qu'elle soit réparée - test d'Artisanat DD15)</li>
+<li> '''Magique''' : Électrisé (dégâts doublés ; si c'est un sort d'électricité, la cible est ''étourdie'' pendant 1d4 rounds)</li></ul>
+</td>
+<td width="1%" />
+<td width="49%" class="presentation">
+===CARTE n°26===
+<ul><li> '''Contondant''' : Coup engourdissant (dégâts normaux, ''affaiblissement temporaire'' de 1d4 points de DEX, et la cible est désarmée - 1 objet, Réflexes annule la perte d'objet)</li>
+<li> '''Perforant''' : Blessure à la poitrine (dégâts doublés et la cible est ''épuisée'')</li>
+<li> '''Tranchant''' : Coup de haut en bas (dégâts doublés et ''saignement'' de 1d4 points de dégâts)</li>
+<li> '''Magique''' : Impact violent (dégâts doublés et la cible est repoussé de 1d6 cases dans la direction opposée)</li></ul>
+</td></tr>
+<tr><td style="width:49%" class="presentation">
+===CARTE n°27===
+<ul><li> '''Contondant''' : Reste couché ! (dégâts normaux, la cible est ''à terre'' et est ''étourdie'' pendant 1 round)</li>
+<li> '''Perforant''' : Ventilé (dégâts doublés et 2d6 points de dégâts non létaux)</li>
+<li> '''Tranchant''' : Impact violent (dégâts doublés et la cible est repoussé de 1d6 cases dans la direction opposée)</li>
+<li> '''Magique''' : Congelé (dégâts doubles ; si un sort de froid, la cible subit un ''affaiblissement temporaire'' de 1d4 points de DEX)</li></ul>
+</td>
+<td width="1%" />
+<td width="49%" class="presentation">
+===CARTE n°28===
+<ul><li> '''Contondant''' : Main en bouillie (dégâts normaux et ''affaiblissement temporaire'' de 1d2 points de CON et de FOR ; la main est inutilisable jusqu'à ce qu'elle soit soignée)</li>
+<li> '''Perforant''' : Droit dans l'oreille (dégâts normaux, ''saignement'' de 1 point de dégâts, et ''affaiblissement temporaire'' de 1 point d'INT)</li>
+<li> '''Tranchant''' : Pas de côté (dégâts doublés et la cible est déplacé d'une case dans une direction au choix)</li>
+<li> '''Magique''' : Magie vampirique (dégâts normaux ; vous êtes soignés de la même quantité)</li></ul>
+</td></tr>
+<tr><td style="width:49%" class="presentation">
+===CARTE n°29===
+<ul><li> '''Contondant''' : Je vois des étoiles (dégâts normaux et la cible a 20% de chance de rater ses attaques pendant 1d4 rounds)</li>
+<li> '''Perforant''' : Perforé (dégâts doublés et ''saignement'' de 1 point de dégât ; la cible subit un ''saignement'' supplémentaire de 1 point de dégât jusqu'à ce qu'elle soit soignée.</li>
+<li> '''Tranchant''' : Éventré (dégâts doublés, ''saignement'' de 1d6 points de dégâts, et ''affaiblissement temporaire'' de 1d4 points de CON)</li>
+<li> '''Magique''' : Conduit (dégâts doublés et -4 à tous les jets de sauvegardes contre vos sorts pendant 1d4 rounds)</li></ul>
+</td>
+<td width="1%" />
+<td width="49%" class="presentation">
+===CARTE n°30===
+<ul><li> '''Contondant''' : Nez cassé (dégâts normaux, ''saignement'' de 1 points de dégâts, et ''affaiblissement temporaire'' de 1 point de CHA)</li>
+<li> '''Perforant''' : Dans l'alignement (dégâts doublés sur la cible, et dégâts normaux sur une cible adjacente)</li>
+<li> '''Tranchant''' : Coup à l'arme (dégâts doublés et dégâts normaux sur l'arme de la cible)</li>
+<li> '''Magique''' : Nerfs endommagés (dégâts normaux et la cible est ''ralentie'' pendant 1d6 rounds)</li></ul>
+</td></tr>
+<tr><td style="width:49%" class="presentation">
+===CARTE n°31===
+<ul><li> '''Contondant''' : Onde de choc (dégâts normaux et une tentative gratuite de ''croc-en-jambe'' contre la cible et tous les ennemis adjacents)</li>
+<li> '''Perforant''' : Point vulnérable (dégâts normaux et la cible subit un ''affaiblissement temporaire'' de 1d4 points dans la caractéristique de votre choix)</li>
+<li> '''Tranchant''' : Bouclier fendu (dégâts doublés et dégâts normaux sur le bouclier de la cible)</li>
+<li> '''Magique''' : Déferlement sauvage (dégâts normaux et dégâts normaux d'un type d'énergie déterminé aléatoirement)</li></ul>
+</td>
+<td width="1%" />
+<td width="49%" class="presentation">
+===CARTE n°32===
+<ul><li> '''Contondant''' : Dos brisé (dégâts doublés et ''affaiblissement temporaire'' de 1d6 points de DEX)</li>
+<li> '''Perforant''' : Blessure profonde (dégâts doublés et la cible est ''nauséeuse'' pendant 1 round - Vigueur annule)</li>
+<li> '''Tranchant''' : Entaille au front (dégâts normaux et ''saignement'' de 1d4 points de dégâts ; la cible est ''aveuglée'' tant qu'elle saigne)</li>
+<li> '''Magique''' : Aura de dissipation (dégâts normaux et ''dissipation de la magie'' sur la cible)</li></ul>
+</td></tr>
+<tr><td style="width:49%" class="presentation">
+===CARTE n°33===
+<ul><li> '''Contondant''' : Tourniquet (dégâts normaux et la cible est ''prise au dépourvue'' pendant 1 round)</li>
+<li> '''Perforant''' : Organe touché (dégâts doublés et ''affaiblissement temporaire'' de 1d6 points de CON)</li>
+<li> '''Tranchant''' : Aile déchirée (dégâts doublés et la cible ne peut plus voler si elle a besoin d'ailes)</li>
+<li> '''Magique''' : Appel d'élémentaire (dégâts normaux ; si c'est un sort élémentaire, un Elémentaire de taille M apparaît pour vous servir pendant 1d4 rounds)</li></ul>
+</td>
+<td width="1%" />
+<td width="49%" class="presentation">
+===CARTE n°34===
+<ul><li> '''Contondant''' : Coup fatiguant (dégâts doublés et la cible est ''fatiguée'')</li>
+<li> '''Perforant''' : Blessure à la jambe (dégâts doublés et la vitesse de déplacement au sol de la cible est divisée par deux pendant 1d4 rounds)</li>
+<li> '''Tranchant''' : Tourniquet (dégâts normaux et la cible est ''prise au dépourvue'' pendant 1 round)</li>
+<li> '''Magique''' : Vortex temporel (dégâts normaux et la cible disparait, réapparaissant au bout de 1d4 rounds)</li></ul>
+</td></tr>
+<tr><td style="width:49%" class="presentation">
+===CARTE n°35===
+<ul><li> '''Contondant''' : Coup ferme (dégâts triplés)</li>
+<li> '''Perforant''' : Blessure persistante (dégâts normaux et ''affaiblissement temporaire'' de 1d2 points de CON ; la cible ne peut pas guérir naturellement ces dégâts)</li>
+<li> '''Tranchant''' : Coup en parade (dégâts doublés et vous gagnez +4 à la CA pendant 1 round)</li>
+<li> '''Magique''' : Déphasé (dégâts doublés et la cible devient ''intangible'' pendant 1d3 rounds - volonté annule)</li></ul>
+</td>
+<td width="1%" />
+<td width="49%" class="presentation">
+===CARTE n°36===
+<ul><li> '''Contondant''' : Pied écrasé (dégâts doublés, ''affaiblissement temporaire'' de 1 point de DEX, et les vitesses de déplacement de la cible sont réduites de 1 case)</li>
+<li> '''Perforant''' : Coup parfait (dégâts triplés)</li>
+<li> '''Tranchant''' : Entaille éreintante (dégâts doublés et la cible est ''fatigué'')</li>
+<li> '''Magique''' : Explosion de lumière (dégâts doublés et la cible est ''aveuglée'' pendant 1 round)</li></ul>
+</td></tr>
+<tr><td style="width:49%" class="presentation">
+===CARTE n°37===
+<ul><li> '''Contondant''' : Attaque circulaire (dégâts normaux et une attaque gratuite sur tous les ennemis adjacents avec le même bonus)</li>
+<li> '''Perforant''' : Plaie déchiquetée (dégâts normaux et ''saignement'' de 1d8 points de dégâts)</li>
+<li> '''Tranchant''' : Blessure à retardement (dégâts normaux et la cible subit un ''saignement'' en points de dégâts de la même valeur)</li>
+<li> '''Magique''' : Sort commotionnant (dégâts doublés et ''saignement'' de 1d4 points de dégâts)</li></ul>
+</td>
+<td width="1%" />
+<td width="49%" class="presentation">
+===CARTE n°38===
+<ul><li> '''Contondant''' : Secousses (dégâts normaux et la cible est ''confuse'' pendant 1d3 rounds - Vigueur annule)</li>
+<li> '''Perforant''' : Frappe et Garde (dégâts doublés et vous gagnez +4 à la CA pendant 1 round)</li>
+<li> '''Tranchant''' : Tendon sectionné (dégâts normaux et ''affaiblissement temporaire'' de 1d6 points de DEX)</li>
+<li> '''Magique''' : Déferlement de puissance (dégâts triplés)</li></ul>
+</td></tr>
+<tr><td style="width:49%" class="presentation">
+===CARTE n°39===
+<ul><li> '''Contondant''' : Coup aveuglant (dégâts normaux et la cible est ''aveuglée'' pendant 1d3 rounds)</li>
+<li> '''Perforant''' : Blessure au biceps (dégâts normaux et ''affaiblissement temporaire'' de 1d4 points de FOR)</li>
+<li> '''Tranchant''' : Démonstration déconcertante (dégâts doublés et -2 à la CA pendant 1d4 rounds)</li>
+<li> '''Magique''' : Grondement (dégâts doublés et la cible est ''assourdie'' pendant 1d4 rounds)</li></ul>
+</td>
+<td width="1%" />
+<td width="49%" class="presentation">
+===CARTE n°40===
+<ul><li> '''Contondant''' : Fracture ouverte (dégâts doublés et ''saignement'' de 1d4 points de dégâts)</li>
+<li> '''Perforant''' : Tournis (dégâts doublés et -2 à la CA pendant 1d4 rounds)</li>
+<li> '''Tranchant''' : Mâchoire coupée (dégâts normaux et ''affaiblissement temporaire'' de 1 point de CON ; la cible ne peut plus parler ni mordre tant qu'elle n'est pas soignée)</li>
+<li> '''Magique''' : Aura de protection (dégâts doublés et vous gagnez +4 à la CA pendant 1 round)</li></ul>
+</td></tr>
+<tr><td style="width:49%" class="presentation">
+===CARTE n°41===
+<ul><li> '''Contondant''' : Genou broyé (dégâts normaux et ''affaiblissement temporaire'' de 1d2 points de DEX ; la vitesse de déplacement au sol de la cible est réduite à 2 cases jusqu'à ce qu'elle soit soignée)</li>
+<li> '''Perforant''' : Mollet transpercé (dégâts normaux et ''affaiblissement temporaire'' de 1d4 points de DEX)</li>
+<li> '''Tranchant''' : Vilaine blessure (dégâts normaux, ''affaiblissement temporaire'' de 1d3 points de CHA, et ''diminution permanente'' de 1 point de CHA - Vigueur annule la diminution permanente)</li>
+<li> '''Magique''' : Effet collatéral (dégâts doublés et vous devenez ''invisible'' pendant 1d4 rounds)</li></ul>
+</td>
+<td width="1%" />
+<td width="49%" class="presentation">
+===CARTE n°42===
+<ul><li> '''Contondant''' : Son de cloche (dégâts normaux, ''affaiblissement temporaire'' de 1d2 points d'INT, et la cible est ''fiévreuse'' pendant 1d4 rounds)</li>
+<li> '''Perforant''' : Crise d'appendice (dégâts doublés et la cible est empoisonnée - géré comme avec ''l'extrait de sanvert''</li>
+<li> '''Tranchant''' : Élan (dégâts doublés et +2 à toutes vos attaques pendant 1 round)</li>
+<li> '''Magique''' : Pétrifié (dégâts normaux et la cible est ''pétrifiée'' pendant 1d4 heures - Vigueur annule)</li></ul>
+</td></tr>
+<tr><td style="width:49%" class="presentation">
+===CARTE n°43===
+<ul><li> '''Contondant''' : Élan (dégâts doublés et +2 à toutes vos attaques pendant 1 round)</li>
+<li> '''Perforant''' : Renversé (dégâts doublés et la cible est ''mise à terre'')</li>
+<li> '''Tranchant''' : Empêtré (dégâts doublés et vous pouvez automatiquement ''agripper'' la cible)</li>
+<li> '''Magique''' : De belles couleurs (dégâts doublés et la cible est ''éblouie'' pendant 1d4 rounds)</li></ul>
+</td>
+<td width="1%" />
+<td width="49%" class="presentation">
+===CARTE n°44===
+<ul><li> '''Contondant''' : Côtes fêlées (dégâts normaux, ''affaiblissement temporaire'' de 1d3 points de CON, et la cible est ''fatiguée'')</li>
+<li> '''Perforant''' : Élan (dégâts doublés et +2 à toutes vos attaques pendant 1 round)</li>
+<li> '''Tranchant''' : Sanglant (dégâts normaux et la cible est ''fiévreuse'' pendant 1d6 rounds)</li>
+<li> '''Magique''' : Assommé (dégâts normaux et la cible est ''étourdie'' pendant 1 round)</li></ul>
+</td></tr>
+<tr><td style="width:49%" class="presentation">
+===CARTE n°45===
+<ul><li> '''Contondant''' : Parade médiocre (dégâts doublés et la cible est désarmée - 1 objet)</li>
+<li> '''Perforant''' : Blessure à l'épaule (dégâts doublés et ''affaiblissement temporaire'' de 1d2 points de FOR et de DEX)</li>
+<li> '''Tranchant''' : Tendon du jarret (dégâts normaux, ''affaiblissement temporaire'' de 1d2 points de DEX, et la cible est ''à terre'')</li>
+<li> '''Magique''' : Plus de magie ! (dégâts normaux et la cible ne peux plus lancer de sort ou utiliser une capacité magique pendant 1d4 rounds)</li></ul>
+</td>
+<td width="1%" />
+<td width="49%" class="presentation">
+===CARTE n°46===
+<ul><li> '''Contondant''' : Ouverture impromptue (dégâts doublés et une attaque gratuite à -5 contre la cible)</li>
+<li> '''Perforant''' : Langue transpercée (dégâts normaux, ''affaiblissement temporaire'' de 1 point de CON ; la cible a 50% d'échec aux sorts à composante verbale jusqu'à ce qu'elle soit soignée)</li>
+<li> '''Tranchant''' : Du front au menton (dégâts normaux et ''affaiblissement temporaire'' de 1 point de CON et de CHA ; -2 aux test de Perception et d'attaques à distance jusqu'à être soignée)</li>
+<li> '''Magique''' : Très forte odeur (dégâts doublés et la cible perd l'odorat et la ''perception aveugle'')</li></ul>
+</td></tr>
+<tr><td style="width:49%" class="presentation">
+===CARTE n°47===
+<ul><li> '''Contondant''' : Où suis-je ? (dégâts normaux et la cible est ''étourdie'' pendant 1 round)</li>
+<li> '''Perforant''' : Ouverture impromptue (dégâts doublés et une attaque gratuite à -5 contre la cible)</li>
+<li> '''Tranchant''' : Oreille coupée (dégâts normaux et ''diminution permanente'' de 1 point de CHA ; -4 aux tests de Perception jusqu'à être soignée)</li>
+<li> '''Magique''' : Brume mentale (dégâts doublés et la cible est ''hébétée'' pendant 1 round)</li></ul>
+</td>
+<td width="1%" />
+<td width="49%" class="presentation">
+===CARTE n°48===
+<ul><li> '''Contondant''' : Craquement (dégâts doublés et la cible est ''nauséeuse'' pendant 1 round - Vigueur annule)</li>
+<li> '''Perforant''' : Avant-bras transpercé (dégâts doublés et la cible est désarmée - 1 objet)</li>
+<li> '''Tranchant''' : Ouverture impromptue (dégâts doublés et une attaque gratuite à -5 contre la cible)</li>
+<li> '''Magique''' : Réaction allergique (dégâts doublés et ''affaiblissement temporaire'' de 1d4 points d'une caractéristique déterminée aléatoirement)</li></ul>
+</td></tr>
+<tr><td style="width:49%" class="presentation">
+===CARTE n°49===
+<ul><li> '''Contondant''' : Rate éclatée (dégâts normaux et ''saignement'' de 1d6 points de dégâts ; ce saignement ne peux être soigné que par magie)</li>
+<li> '''Perforant''' : Muscle sectionné (dégâts normaux et ''affaiblissement temporaire'' de 1d6 points de FOR et de DEX)</li>
+<li> '''Tranchant''' : Recroquevillé sur la blessure (dégâts triplés, mais vous lâchez votre arme)</li>
+<li> '''Magique''' : Mort de rire (dégâts doublés et la cible passe 1 round à rire - comme pour le sort ''fou rire'')</li></ul>
+</td>
+<td width="1%" />
+<td width="49%" class="presentation">
+===CARTE n°50===
+<ul><li> '''Contondant''' : Cage thoracique enfoncée (dégâts normaux et la cible est ''chancelante'' pendant 1d6 minutes)</li>
+<li> '''Perforant''' : Noeud nerveux (dégâts normaux et la cible est ''étourdie'' pendant 1d6 rounds - Vigueur chaque round pour agir)</li>
+<li> '''Tranchant''' : Rupture de la cavité abdominale (dégâts doublés et ''saignement'' de 1 point de CON)</li>
+<li> '''Magique''' : Transposition (dégâts doublés et vous échangez votre place avec la cible)</li></ul>
+</td></tr>
+<tr><td style="width:49%" class="presentation">
+===CARTE n°51===
+<ul><li> '''Contondant''' : Os en bouilli (dégâts normaux et soit un ''affaiblissement temporaire'' de 1d3 points de DEX et vitesse de déplacement divisée par deux -jambe-, soit ''affaiblissement temporaire'' de 1d3 points de FOR -bras- ; le membre est inutilisable jusqu'à être soigné)</li>
+<li> '''Perforant''' : Poumon perforé (dégâts doublés et la cible commence à se noyer au bout de 3 rounds ; Vigueur DD20 chaque round pour mettre fin aux effets)</li>
+<li> '''Tranchant''' : Douleur insupportable (dégâts doublés et 2d6 points de dégâts non-létaux)</li>
+<li> '''Magique''' : Lien hypnotique (dégâts doublés et vous pouvez donner une ''suggestion'' à votre cible - comme le sort ''suggestion'', Volonté annule)</li></ul>
+</td>
+<td width="1%" />
+<td width="49%" class="presentation">
+===CARTE n°52===
+<ul><li> '''Contondant''' : Intestins broyés (dégâts normaux et ''saignement'' de 1d4 points de CON - Vigueur DD15 annule, jet de sauvegarde tous les rounds)</li>
+<li> '''Perforant''' : Logé dans un os (dégâts doublés et ''saignement'' de 2 points de dégâts ; ce saignement nécessite un test de Premiers Secours DD20 pour être arrêté)</li>
+<li> '''Tranchant''' : Colonne vertébrale touchée (dégâts doublés et ''affaiblissement temporaire'' de 3d6 points de DEX - Vigueur pour moitié)</li>
+<li> '''Magique''' : Que je t'aime ! (dégâts normaux et la cible est ''charmée'' pendant 3 rounds - Volonté annule)</li></ul>
+</td></tr>
+</table>]]></raw>
+  <fullName>Pathfinder-RPG.CoupsCritiques</fullName>
+</wikiPage>

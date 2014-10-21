@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Chant assourdissant</title>
+  <categories><category>Pathfinder-RPG.Advanced Player Guide</category><category>Pathfinder-RPG.Règles officielles</category><category>Pathfinder-RPG.Sort</category><category>Pathfinder-RPG.Sort barde 5</category></categories>
+  <lastModified>2012-11-04 21:37:55Z</lastModified>
+  <version>1</version>
+  <inLinks><link>Pathfinder-RPG.Glossaire des sorts</link><link>Pathfinder-RPG.Liste des sorts</link><link>Pathfinder-RPG.Liste des sorts de bardes</link><link>Pathfinder-RPG.Liste des sorts par registre</link><link>Pathfinder-RPG.TMP sorts APG</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Évocation</link><link>Pathfinder-RPG.Registre</link><link>Pathfinder-RPG.Barde</link><link>Pathfinder-RPG.Action simple</link><link>Pathfinder-RPG.composantes</link><link>Pathfinder-RPG.niveau</link><link>Pathfinder-RPG.instantanée</link><link>Pathfinder-RPG.attaque de contact à distance</link><link>Pathfinder-RPG.Assourdi</link><link>Pathfinder-RPG.round</link></outLinks>
+  <body><![CDATA[
+&lt;b&gt;&#201;cole&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#EVOCATION&quot; title=&quot;&#201;vocation&quot;&gt;&#201;vocation&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;er-Un-Sort.html#REGISTRE&quot; title=&quot;Registre&quot;&gt;sonore&lt;/a&gt;)&#160;;&lt;b&gt; Niveau&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Barde.html&quot; title=&quot;Le barde&quot;&gt;barde&lt;/a&gt; 5&lt;br/&gt;
+&lt;b&gt;Temps d&#39;incantation&lt;/b&gt; 1 &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions.html#SIMPLE&quot; title=&quot;Action simple&quot;&gt;action simple&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Composantes&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#COMPOSANTES&quot; title=&quot;composantes&quot;&gt;V, G&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Port&#233;e&lt;/b&gt; courte (7,50 m + 1,50 m/2 &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#NIVEAU&quot; title=&quot;niveau&quot;&gt;niveaux&lt;/a&gt;) (5 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt; + 1 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;/2 &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#NIVEAU&quot; title=&quot;niveau&quot;&gt;niveaux&lt;/a&gt;)&lt;br/&gt;
+&lt;b&gt;Cible&lt;/b&gt; jusqu&#39;&#224; trois cr&#233;atures qui doivent se trouver &#224; moins de 9&#160;m (6 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) les unes des autres&lt;br/&gt;
+&lt;b&gt;Dur&#233;e&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#DUREE&quot; title=&quot;instantan&#233;e&quot;&gt;instantan&#233;e&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Jet de sauvegarde&lt;/b&gt; aucun ; &lt;b&gt;R&#233;sistance &#224; la magie&lt;/b&gt; non&lt;br /&gt;&lt;br /&gt;Le personnage chante ou joue trois notes qui se transforment en &#233;nergie profane tangible et hurlent sur tout le champ de bataille. Elles doivent r&#233;ussir une &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#ATTAQUESDECONTACT&quot; title=&quot;attaque de contact &#224; distance&quot;&gt;attaque de contact &#224; distance&lt;/a&gt; pour toucher leur cible et infligent 3d10 points de d&#233;g&#226;ts sonores et la rendent &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables.html#Assourdi&quot; title=&quot;Assourdi&quot;&gt;sourde&lt;/a&gt; pendant 1d6 &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#ROUND&quot; title=&quot;round&quot;&gt;rounds&lt;/a&gt;. Les notes peuvent &#234;tre dirig&#233;es contre une m&#234;me cible ou contre plusieurs mais elles doivent toutes partir simultan&#233;ment.&lt;br /&gt;&lt;br /&gt;]]></body>
+  <raw><![CDATA[{s:APG}
+'''École''' [[Évocation]] ([[registre|sonore]]) ;''' Niveau''' [[barde]] 5<br/>
+'''Temps d'incantation''' 1 [[action simple]]<br/>
+'''Composantes''' [[Composantes|V, G]]<br/>
+'''Portée''' courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])<br/>
+'''Cible''' jusqu'à trois créatures qui doivent se trouver à moins de 9 m (6 {s:c}) les unes des autres<br/>
+'''Durée''' [[instantanée]]<br/>
+'''Jet de sauvegarde''' aucun ; '''Résistance à la magie''' non
+
+Le personnage chante ou joue trois notes qui se transforment en énergie profane tangible et hurlent sur tout le champ de bataille. Elles doivent réussir une [[attaque de contact à distance]] pour toucher leur cible et infligent 3d10 points de dégâts sonores et la rendent [[assourdi|sourde]] pendant 1d6 [[round|rounds]]. Les notes peuvent être dirigées contre une même cible ou contre plusieurs mais elles doivent toutes partir simultanément.
+
+]]></raw>
+  <fullName>Pathfinder-RPG.Chant assourdissant</fullName>
+</wikiPage>

@@ -1,0 +1,222 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Ours-garou</title>
+  <categories><category>Pathfinder-RPG.Bestiaire 2</category><category>Pathfinder-RPG.Monstre</category><category>Pathfinder-RPG.Règles officielles</category></categories>
+  <lastModified>2013-02-07 18:55:47Z</lastModified>
+  <version>9</version>
+  <inLinks><link>Pathfinder-RPG.Glossaire des monstres</link><link>Pathfinder-RPG.Liste de monstres par FP</link><link>Pathfinder-RPG.Liste de monstres par milieu naturel</link><link>Pathfinder-RPG.Liste de monstres par type</link><link>Pathfinder-RPG.Lycanthrope, archétype</link><link>Pathfinder-RPG.Monstres</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Rôdeur</link><link>Pathfinder-RPG.type Humanoïde</link><link>Pathfinder-RPG.sous-type humain</link><link>Pathfinder-RPG.sous-type métamorphe</link><link>Pathfinder-RPG.odorat</link><link>Pathfinder-RPG.vision nocturne</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Détection du poison</link><link>Pathfinder-RPG.Arme de prédilection</link><link>Pathfinder-RPG.Attaque en puissance</link><link>Pathfinder-RPG.Course</link><link>Pathfinder-RPG.Endurance</link><link>Pathfinder-RPG.Tir à bout portant</link><link>Pathfinder-RPG.Connaissances</link><link>Pathfinder-RPG.Discrétion</link><link>Pathfinder-RPG.Dressage</link><link>Pathfinder-RPG.Escalade</link><link>Pathfinder-RPG.Natation</link><link>Pathfinder-RPG.Premiers secours</link><link>Pathfinder-RPG.Survie</link><link>Pathfinder-RPG.Changement de forme (capacité)</link><link>Pathfinder-RPG.métamorphose</link><link>Pathfinder-RPG.Grizzly</link><link>Pathfinder-RPG.Ours sanguinaire</link><link>Pathfinder-RPG.Lycanthrope, archétype</link><link>Pathfinder-RPG.Étreinte</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Ours-garou (forme humaine)&lt;div style=&quot;float:right;&quot;&gt;FP 4&lt;/div&gt;&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Bestiaire 2 p.190&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 1 200
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+Humain, ours-garou naturel, &lt;a class=&quot;pagelink&quot; href=&quot;R&#244;deur.html&quot; title=&quot;Le r&#244;deur&quot;&gt;r&#244;deur&lt;/a&gt; 4
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Humano&#239;de.html&quot; title=&quot;Humano&#239;de&quot;&gt;Humano&#239;de&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Humain.html&quot; title=&quot;Humain (sous-type)&quot;&gt;humain&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-M&#233;tamorphe.html&quot; title=&quot;M&#233;tamorphe (sous-type)&quot;&gt;m&#233;tamorphe&lt;/a&gt;) de taille M, CB
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +2 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Odorat-(Capacit&#233;).html&quot; title=&quot;odorat&quot;&gt;odorat&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Nocturne-(Capacit&#233;).html&quot; title=&quot;vision nocturne&quot;&gt;vision nocturne&lt;/a&gt; ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +8
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 16, contact 12, pris au d&#233;pourvu 14 (armure +4, Dex +2)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 34 (4d10+8)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +6, &lt;b&gt;Vig&lt;/b&gt; +5, &lt;b&gt;Vol&lt;/b&gt; +2
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 9 m (6 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; hache d&#39;armes de ma&#238;tre, +9 (1d8+4/x3)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Distance&lt;/b&gt; hache de lancer de ma&#238;tre, +7 (1d6+3)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaques sp&#233;ciales&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;R&#244;deur.html#ENNEMIJURE&quot; title=&quot;Le r&#244;deur&quot;&gt;ennemi jur&#233;&lt;/a&gt; (orques +2)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Sorts de r&#244;deur pr&#233;par&#233;s&lt;/b&gt; (NLS 1; concentration +2)
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+1&lt;sup&gt;er&lt;/sup&gt; — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;D&#233;tection-Du-Poison.html&quot; title=&quot;D&#233;tection du poison&quot;&gt;d&#233;tection du poison&lt;/a&gt;&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 16, &lt;b&gt;Dex&lt;/b&gt; 14, &lt;b&gt;Con&lt;/b&gt; 13, &lt;b&gt;Int&lt;/b&gt; 12, &lt;b&gt;Sag&lt;/b&gt; 12, &lt;b&gt;Cha&lt;/b&gt; 8
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +4, &lt;b&gt;BMO&lt;/b&gt; +7, &lt;b&gt;DMD&lt;/b&gt; 19
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Arme-De-Pr&#233;dilection.html&quot; title=&quot;Arme de pr&#233;dilection&quot;&gt;Arme de pr&#233;dilection&lt;/a&gt; (hache d’armes), &lt;a class=&quot;pagelink&quot; href=&quot;Attaque-En-Puissance.html&quot; title=&quot;Attaque en puissance&quot;&gt;Attaque en puissance&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Course.html&quot; title=&quot;Course&quot;&gt;Course&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Endurance.html&quot; title=&quot;Endurance&quot;&gt;Endurance&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Tir-&#192;-Bout-Portant.html&quot; title=&quot;Tir &#224; bout portant&quot;&gt;Tir &#224; bout portant&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Connaissances.html&quot; title=&quot;Connaissances&quot;&gt;Connaissances&lt;/a&gt; (nature) +8, &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; +7, &lt;a class=&quot;pagelink&quot; href=&quot;Dressage.html&quot; title=&quot;Dressage&quot;&gt;Dressage&lt;/a&gt; +6, &lt;a class=&quot;pagelink&quot; href=&quot;Escalade.html&quot; title=&quot;Escalade&quot;&gt;Escalade&lt;/a&gt; +8, &lt;a class=&quot;pagelink&quot; href=&quot;Natation.html&quot; title=&quot;Natation&quot;&gt;Natation&lt;/a&gt; +8, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +8, &lt;a class=&quot;pagelink&quot; href=&quot;Premiers-Secours.html&quot; title=&quot;Premiers secours&quot;&gt;Premiers secours&lt;/a&gt; +8, &lt;a class=&quot;pagelink&quot; href=&quot;Survie.html&quot; title=&quot;Survie&quot;&gt;Survie&lt;/a&gt; +8
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Langues&lt;/b&gt; commun
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Particularit&#233;s&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Changement-De-Forme-(Capacit&#233;).html&quot; title=&quot;Changement de forme (Sur)&quot;&gt;changement de forme&lt;/a&gt; changement de forme (humain, hybride et ours ; &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;M&#233;tamorphose.html&quot; title=&quot;M&#233;tamorphose&quot;&gt;m&#233;tamorphose&lt;/a&gt;&lt;/i&gt;), empathie lycanthropique (&lt;a class=&quot;pagelink&quot; href=&quot;Grizzly.html&quot; title=&quot;Grizzly&quot;&gt;ours&lt;/a&gt; et &lt;a class=&quot;pagelink&quot; href=&quot;Ours-Sanguinaire.html&quot; title=&quot;Ours sanguinaire&quot;&gt;ours sanguinaires&lt;/a&gt;), &lt;a class=&quot;pagelink&quot; href=&quot;R&#244;deur.html#PACTEDUCHASSEUR&quot; title=&quot;Le r&#244;deur&quot;&gt;pacte du chasseur&lt;/a&gt; (compagnons), &lt;a class=&quot;pagelink&quot; href=&quot;R&#244;deur.html#PISTAGE&quot; title=&quot;Le r&#244;deur&quot;&gt;pistage&lt;/a&gt; +2, &lt;a class=&quot;pagelink&quot; href=&quot;R&#244;deur.html#ENVIRONNEMENTDEPREDILECTION&quot; title=&quot;Le r&#244;deur&quot;&gt;terrain de pr&#233;dilection&lt;/a&gt; (for&#234;t +2)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; for&#234;ts
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; &#233;quipement de PNJ (chemise de mailles, hache d’armes de ma&#238;tre, 2 haches de lancer de ma&#238;tre, autres tr&#233;sors)
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;h3 class=&quot;separator&quot;&gt; &lt;a class=&quot;headeranchor&quot; id=&quot;_0&quot; href=&quot;#_0&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Ours-garou (forme hybride)&lt;div style=&quot;float:right;&quot;&gt;FP 2&lt;/div&gt;&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Bestiaire 2, P.190&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 1 200
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+Humain, ours-garou naturel, &lt;a class=&quot;pagelink&quot; href=&quot;R&#244;deur.html&quot; title=&quot;Le r&#244;deur&quot;&gt;r&#244;deur&lt;/a&gt; 4
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Humano&#239;de.html&quot; title=&quot;Humano&#239;de&quot;&gt;Humano&#239;de&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Humain.html&quot; title=&quot;Humain (sous-type)&quot;&gt;humain&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-M&#233;tamorphe.html&quot; title=&quot;M&#233;tamorphe (sous-type)&quot;&gt;m&#233;tamorphe&lt;/a&gt;) de taille M, LB
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +2 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Odorat-(Capacit&#233;).html&quot; title=&quot;odorat&quot;&gt;odorat&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Nocturne-(Capacit&#233;).html&quot; title=&quot;vision nocturne&quot;&gt;vision nocturne&lt;/a&gt; ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +8
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 18, contact 12, pris au d&#233;pourvu 16 (armure +4, Dex +2, naturelle +2)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 38 (4d10+12)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +6, &lt;b&gt;Vig&lt;/b&gt; +6, &lt;b&gt;Vol&lt;/b&gt; +2
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;RD&lt;/b&gt; 10/argent 
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 9 m (6 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; hache d’armes de ma&#238;tre, +10 (1d8+4/&#215;3) et morsure, +3 (1d6+2 plus transmission de la &lt;a class=&quot;pagelink&quot; href=&quot;Lycanthrope,-Arch&#233;type.html#LYCANTHROPIE&quot; title=&quot;Lycanthrope, arch&#233;type&quot;&gt;lycanthropie&lt;/a&gt;) et griffe, +3 (1d6+4 plus &lt;a class=&quot;pagelink&quot; href=&quot;&#201;treinte-(Capacit&#233;).html&quot; title=&quot;&#201;treinte&quot;&gt;&#233;treinte&lt;/a&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Distance&lt;/b&gt; hache de lancer de ma&#238;tre ,+7 (1d6+4)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaques sp&#233;ciales&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;R&#244;deur.html#ENNEMIJURE&quot; title=&quot;Le r&#244;deur&quot;&gt;ennemi jur&#233;&lt;/a&gt; (orques +2)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Sorts de r&#244;deur pr&#233;par&#233;s&lt;/b&gt; (NLS 1; concentration +2)
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+1&lt;sup&gt;er&lt;/sup&gt; — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;D&#233;tection-Du-Poison.html&quot; title=&quot;D&#233;tection du poison&quot;&gt;d&#233;tection du poison&lt;/a&gt;&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 18, &lt;b&gt;Dex&lt;/b&gt; 14, &lt;b&gt;Con&lt;/b&gt; 15, &lt;b&gt;Int&lt;/b&gt; 12, &lt;b&gt;Sag&lt;/b&gt; 12, &lt;b&gt;Cha&lt;/b&gt; 8
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +4, &lt;b&gt;BMO&lt;/b&gt; +8 (+12 lutte), &lt;b&gt;DMD&lt;/b&gt; 20
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Arme-De-Pr&#233;dilection.html&quot; title=&quot;Arme de pr&#233;dilection&quot;&gt;Arme de pr&#233;dilection&lt;/a&gt; (hache d’armes), &lt;a class=&quot;pagelink&quot; href=&quot;Attaque-En-Puissance.html&quot; title=&quot;Attaque en puissance&quot;&gt;Attaque en puissance&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Course.html&quot; title=&quot;Course&quot;&gt;Course&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Endurance.html&quot; title=&quot;Endurance&quot;&gt;Endurance&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Tir-&#192;-Bout-Portant.html&quot; title=&quot;Tir &#224; bout portant&quot;&gt;Tir &#224; bout portant&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Connaissances.html&quot; title=&quot;Connaissances&quot;&gt;Connaissances&lt;/a&gt; (nature) +8, &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; +7, &lt;a class=&quot;pagelink&quot; href=&quot;Dressage.html&quot; title=&quot;Dressage&quot;&gt;Dressage&lt;/a&gt; +6, &lt;a class=&quot;pagelink&quot; href=&quot;Escalade.html&quot; title=&quot;Escalade&quot;&gt;Escalade&lt;/a&gt; +9, &lt;a class=&quot;pagelink&quot; href=&quot;Natation.html&quot; title=&quot;Natation&quot;&gt;Natation&lt;/a&gt; +9, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +8, &lt;a class=&quot;pagelink&quot; href=&quot;Premiers-Secours.html&quot; title=&quot;Premiers secours&quot;&gt;Premiers secours&lt;/a&gt; +8, &lt;a class=&quot;pagelink&quot; href=&quot;Survie.html&quot; title=&quot;Survie&quot;&gt;Survie&lt;/a&gt; +8
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Langues&lt;/b&gt; commun
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Particularit&#233;s&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Changement-De-Forme-(Capacit&#233;).html&quot; title=&quot;Changement de forme (Sur)&quot;&gt;changement de forme&lt;/a&gt; changement de forme (humain, hybride et ours ; &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;M&#233;tamorphose.html&quot; title=&quot;M&#233;tamorphose&quot;&gt;m&#233;tamorphose&lt;/a&gt;&lt;/i&gt;), empathie lycanthropique (&lt;a class=&quot;pagelink&quot; href=&quot;Grizzly.html&quot; title=&quot;Grizzly&quot;&gt;ours&lt;/a&gt; et &lt;a class=&quot;pagelink&quot; href=&quot;Ours-Sanguinaire.html&quot; title=&quot;Ours sanguinaire&quot;&gt;ours sanguinaires&lt;/a&gt;), &lt;a class=&quot;pagelink&quot; href=&quot;R&#244;deur.html#PACTEDUCHASSEUR&quot; title=&quot;Le r&#244;deur&quot;&gt;pacte du chasseur&lt;/a&gt; (compagnons), &lt;a class=&quot;pagelink&quot; href=&quot;R&#244;deur.html#PISTAGE&quot; title=&quot;Le r&#244;deur&quot;&gt;pistage&lt;/a&gt; +2, &lt;a class=&quot;pagelink&quot; href=&quot;R&#244;deur.html#ENVIRONNEMENTDEPREDILECTION&quot; title=&quot;Le r&#244;deur&quot;&gt;terrain de pr&#233;dilection&lt;/a&gt; (for&#234;t +2)
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;td&gt;&lt;div&gt;Voir l&#39;arch&#233;type du &lt;a class=&quot;pagelink&quot; href=&quot;Lycanthrope,-Arch&#233;type.html&quot; title=&quot;Lycanthrope, arch&#233;type&quot;&gt;lycanthrope&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;&lt;i&gt;Cet humano&#239;de recouvert d’une &#233;paisse fourrure tient une lourde hache dans une de ses mains griffues.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Sous forme humano&#239;de, les ours-garous sont souvent muscl&#233;s et larges d’&#233;paules, avec des traits faciaux burin&#233;s et des yeux sombres. Ils ont g&#233;n&#233;ralement des cheveux roux, bruns ou noirs et ils ont l’air d’&#234;tre habitu&#233;s &#224; une vie de labeur. M&#234;me s’il s’agit sans doute des plus amicaux des lycanthropes, les ours-garous suscitent le m&#233;pris chez la plupart des gens normaux qui craignent et se m&#233;fient de leurs transformations en animaux. La plupart des ours-garous vivent en ermites dans des zones foresti&#232;res ou au sein de petites familles compos&#233;es de leurs pairs. Ils &#233;vitent les conflits avec les &#233;trangers mais n’h&#233;sitent pas &#224; chasser les humano&#239;des mal&#233;fiques hors de leur territoire.&lt;br /&gt;&lt;br /&gt;Certains ours-garous sont col&#233;riques et violents, soit par nature soit parce qu’ils ont &#233;t&#233; harcel&#233;s par les autres toute leur vie. Ces lycanthropes plus m&#233;chants n’h&#233;sitent pas &#224; utiliser leur hache contre les intrus ou &#224; d&#233;vorer ceux qui d&#233;clenchent leur col&#232;re. Les ours-garous les plus calmes &#233;vitent de parler de ces individus-l&#224; avec les &#233;trangers.
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Ours-garou (forme humaine)|FP 4}
+{s:pucem|Humanoïde|Forêt-Jungle|Tempéré}
+{s:BDTexte|''Source : Bestiaire 2 p.190''}
+{s:BDTexte|'''PX''' 1 200}
+{s:BDTexte|Humain, ours-garou naturel, [[rôdeur]] 4}
+{s:BDTexte|[[type Humanoïde|Humanoïde]] ([[sous-type humain|humain]], [[sous-type métamorphe|métamorphe]]) de taille M, CB}
+{s:BDTexte|'''Init''' +2 ; '''Sens''' [[odorat]], [[vision nocturne]] ; [[Perception]] +8}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 16, contact 12, pris au dépourvu 14 (armure +4, Dex +2)}
+{s:BDTexte|'''pv''' 34 (4d10+8)}
+{s:BDTexte|'''Réf''' +6, '''Vig''' +5, '''Vol''' +2}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 9 m (6 {s:c})}
+{s:BDTexte|'''Corps à corps''' hache d'armes de maître, +9 (1d8+4/x3)}
+{s:BDTexte|'''Distance''' hache de lancer de maître, +7 (1d6+3)}
+{s:BDTexte|'''Attaques spéciales''' [[rôdeur#ENNEMIJURE|ennemi juré]] (orques +2)}
+{s:BDTexte|'''Sorts de rôdeur préparés''' (NLS 1; concentration +2)}
+{s:BDSorts|1<sup>er</sup> — ''[[détection du poison]]''}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 16, '''Dex''' 14, '''Con''' 13, '''Int''' 12, '''Sag''' 12, '''Cha''' 8}
+{s:BDTexte|'''BBA''' +4, '''BMO''' +7, '''DMD''' 19}
+{s:BDTexte|'''Dons''' [[Arme de prédilection]] (hache d’armes), [[Attaque en puissance]], [[Course]], [[Endurance]], [[Tir à bout portant]]}
+{s:BDTexte|'''Compétences''' [[Connaissances]] (nature) +8, [[Discrétion]] +7, [[Dressage]] +6, [[Escalade]] +8, [[Natation]] +8, [[Perception]] +8, [[Premiers secours]] +8, [[Survie]] +8}
+{s:BDTexte|'''Langues''' commun}
+{s:BDTexte|'''Particularités''' [[changement de forme (capacité)|changement de forme]] changement de forme (humain, hybride et ours ; ''[[métamorphose]]''), empathie lycanthropique ([[grizzly|ours]] et [[ours sanguinaire|ours sanguinaires]]), [[rôdeur#PACTEDUCHASSEUR|pacte du chasseur]] (compagnons), [[rôdeur#PISTAGE|pistage]] +2, [[rôdeur#ENVIRONNEMENTDEPREDILECTION|terrain de prédilection]] (forêt +2)}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' forêts}
+{s:BDTexte|'''Trésor''' équipement de PNJ (chemise de mailles, hache d’armes de maître, 2 haches de lancer de maître, autres trésors)}
+</div>
+==== ====
+<div class="BD">
+{s:BDTitre|Ours-garou (forme hybride)|FP 2}
+{s:pucem|Humanoïde|Forêt-Jungle|Tempéré}
+{s:BDTexte|''Source : Bestiaire 2, P.190''}
+{s:BDTexte|'''PX''' 1 200}
+{s:BDTexte|Humain, ours-garou naturel, [[rôdeur]] 4}
+{s:BDTexte|[[type Humanoïde|Humanoïde]] ([[sous-type humain|humain]], [[sous-type métamorphe|métamorphe]]) de taille M, LB}
+{s:BDTexte|'''Init''' +2 ; '''Sens''' [[odorat]], [[vision nocturne]] ; [[Perception]] +8}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 18, contact 12, pris au dépourvu 16 (armure +4, Dex +2, naturelle +2)}
+{s:BDTexte|'''pv''' 38 (4d10+12)}
+{s:BDTexte|'''Réf''' +6, '''Vig''' +6, '''Vol''' +2}
+{s:BDTexte|'''RD''' 10/argent }
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 9 m (6 {s:c})}
+{s:BDTexte|'''Corps à corps''' hache d’armes de maître, +10 (1d8+4/×3) et morsure, +3 (1d6+2 plus transmission de la [[lycanthrope, archétype#LYCANTHROPIE|lycanthropie]]) et griffe, +3 (1d6+4 plus [[étreinte]])}
+{s:BDTexte|'''Distance''' hache de lancer de maître ,+7 (1d6+4)}
+{s:BDTexte|'''Attaques spéciales''' [[rôdeur#ENNEMIJURE|ennemi juré]] (orques +2)}
+{s:BDTexte|'''Sorts de rôdeur préparés''' (NLS 1; concentration +2)}
+{s:BDSorts|1<sup>er</sup> — ''[[détection du poison]]''}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 18, '''Dex''' 14, '''Con''' 15, '''Int''' 12, '''Sag''' 12, '''Cha''' 8}
+{s:BDTexte|'''BBA''' +4, '''BMO''' +8 (+12 lutte), '''DMD''' 20}
+{s:BDTexte|'''Dons''' [[Arme de prédilection]] (hache d’armes), [[Attaque en puissance]], [[Course]], [[Endurance]], [[Tir à bout portant]]}
+{s:BDTexte|'''Compétences''' [[Connaissances]] (nature) +8, [[Discrétion]] +7, [[Dressage]] +6, [[Escalade]] +9, [[Natation]] +9, [[Perception]] +8, [[Premiers secours]] +8, [[Survie]] +8}
+{s:BDTexte|'''Langues''' commun}
+{s:BDTexte|'''Particularités''' [[changement de forme (capacité)|changement de forme]] changement de forme (humain, hybride et ours ; ''[[métamorphose]]''), empathie lycanthropique ([[grizzly|ours]] et [[ours sanguinaire|ours sanguinaires]]), [[rôdeur#PACTEDUCHASSEUR|pacte du chasseur]] (compagnons), [[rôdeur#PISTAGE|pistage]] +2, [[rôdeur#ENVIRONNEMENTDEPREDILECTION|terrain de prédilection]] (forêt +2)}
+</div>
+</td><td><div>Voir l'archétype du [[lycanthrope, archétype|lycanthrope]].
+
+''Cet humanoïde recouvert d’une épaisse fourrure tient une lourde hache dans une de ses mains griffues.''
+
+Sous forme humanoïde, les ours-garous sont souvent musclés et larges d’épaules, avec des traits faciaux burinés et des yeux sombres. Ils ont généralement des cheveux roux, bruns ou noirs et ils ont l’air d’être habitués à une vie de labeur. Même s’il s’agit sans doute des plus amicaux des lycanthropes, les ours-garous suscitent le mépris chez la plupart des gens normaux qui craignent et se méfient de leurs transformations en animaux. La plupart des ours-garous vivent en ermites dans des zones forestières ou au sein de petites familles composées de leurs pairs. Ils évitent les conflits avec les étrangers mais n’hésitent pas à chasser les humanoïdes maléfiques hors de leur territoire.
+
+Certains ours-garous sont colériques et violents, soit par nature soit parce qu’ils ont été harcelés par les autres toute leur vie. Ces lycanthropes plus méchants n’hésitent pas à utiliser leur hache contre les intrus ou à dévorer ceux qui déclenchent leur colère. Les ours-garous les plus calmes évitent de parler de ces individus-là avec les étrangers.
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Ours-garou</fullName>
+</wikiPage>

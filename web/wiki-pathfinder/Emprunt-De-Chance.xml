@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Emprunt de chance</title>
+  <categories><category>Pathfinder-RPG.Advanced Player Guide</category><category>Pathfinder-RPG.Règles officielles</category><category>Pathfinder-RPG.Sort</category><category>Pathfinder-RPG.Sort oracle 3</category></categories>
+  <lastModified>2012-11-03 17:53:05Z</lastModified>
+  <version>1</version>
+  <inLinks><link>Pathfinder-RPG.Domaine de la Chance</link><link>Pathfinder-RPG.Glossaire des sorts</link><link>Pathfinder-RPG.Liste des sorts (suite)</link><link>Pathfinder-RPG.Liste des sorts de prêtres</link><link>Pathfinder-RPG.TMP sorts APG</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Évocation</link><link>Pathfinder-RPG.Oracle</link><link>Pathfinder-RPG.Action immédiate</link><link>Pathfinder-RPG.composantes</link><link>Pathfinder-RPG.Présentation des sorts</link><link>Pathfinder-RPG.round</link></outLinks>
+  <body><![CDATA[
+&lt;b&gt;&#201;cole&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#EVOCATION&quot; title=&quot;&#201;vocation&quot;&gt;&#201;vocation&lt;/a&gt;&#160;; &lt;b&gt;Niveau&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Oracle.html&quot; title=&quot;L&amp;#39;oracle&quot;&gt;oracle&lt;/a&gt; 3&lt;br/&gt;
+&lt;b&gt;Temps d&#39;incantation&lt;/b&gt; 1 &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions.html#IMMEDIATE&quot; title=&quot;Action imm&#233;diate&quot;&gt;action imm&#233;diate&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Composantes&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#COMPOSANTES&quot; title=&quot;composantes&quot;&gt;V&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Port&#233;e&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#PORTEE&quot; title=&quot;Pr&#233;sentation des sorts&quot;&gt;personnelle&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Cible&lt;/b&gt; lanceur de sorts&lt;br/&gt;
+&lt;b&gt;Dur&#233;e&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#DUREE&quot; title=&quot;Pr&#233;sentation des sorts&quot;&gt;instantan&#233;e&lt;/a&gt;, voir texte&lt;br /&gt;&lt;br /&gt;Quand le personnage fait un jet de d20, il peut choisir de lancer imm&#233;diatement ce sort pour le relancer, avant de savoir si le r&#233;sultat est un &#233;chec ou une r&#233;ussite, et garder le r&#233;sultat le plus favorable. Pendant les deux &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#ROUND&quot; title=&quot;round&quot;&gt;rounds&lt;/a&gt; qui suivent l&#39;incantation de ce sort, il doit lancer deux d&#233;s &#224; chaque fois qu&#39;il est appel&#233; &#224; faire un jet de d20 et prendre le plus d&#233;favorable des deux.
+]]></body>
+  <raw><![CDATA[{s:APG}
+'''École''' [[Évocation]] ; '''Niveau''' [[oracle]] 3<br/>
+'''Temps d'incantation''' 1 [[action immédiate]]<br/>
+'''Composantes''' [[Composantes|V]]<br/>
+'''Portée''' [[Présentation des sorts#PORTEE|personnelle]]<br/>
+'''Cible''' lanceur de sorts<br/>
+'''Durée''' [[Présentation des sorts#DUREE|instantanée]], voir texte
+
+Quand le personnage fait un jet de d20, il peut choisir de lancer immédiatement ce sort pour le relancer, avant de savoir si le résultat est un échec ou une réussite, et garder le résultat le plus favorable. Pendant les deux [[round|rounds]] qui suivent l'incantation de ce sort, il doit lancer deux dés à chaque fois qu'il est appelé à faire un jet de d20 et prendre le plus défavorable des deux.
+]]></raw>
+  <fullName>Pathfinder-RPG.Emprunt de chance</fullName>
+</wikiPage>

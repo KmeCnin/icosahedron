@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Mot de fermeté</title>
+  <categories></categories>
+  <lastModified>2012-11-04 17:26:11Z</lastModified>
+  <version>9</version>
+  <inLinks><link>Pathfinder-RPG.AdM-sorts-classe-temporaire</link><link>Pathfinder-RPG.Glossaire des sorts</link><link>Pathfinder-RPG.Liste des sorts (suite)</link><link>Pathfinder-RPG.Liste des sorts de paladins</link><link>Pathfinder-RPG.sorts-temporaires</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Abjuration</link><link>Pathfinder-RPG.Paladin</link><link>Pathfinder-RPG.Action immédiate</link><link>Pathfinder-RPG.composantes</link><link>Pathfinder-RPG.niveau</link><link>Pathfinder-RPG.instantanée</link><link>Pathfinder-RPG.Volonté</link><link>Pathfinder-RPG.Présentation des sorts</link><link>Pathfinder-RPG.jet de sauvegarde</link><link>Pathfinder-RPG.Registre</link></outLinks>
+  <body><![CDATA[
+&lt;b&gt;&#201;cole&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#ABJURATION&quot; title=&quot;Abjuration&quot;&gt;abjuration&lt;/a&gt;; &lt;b&gt;Niveau&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Paladin.html&quot; title=&quot;Le paladin&quot;&gt;paladin&lt;/a&gt; 1&lt;br/&gt;
+&lt;b&gt;Temps d’incantation&lt;/b&gt; 1 &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions.html#IMMEDIATE&quot; title=&quot;Action imm&#233;diate&quot;&gt;action imm&#233;diate&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Composantes&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#COMPOSANTES&quot; title=&quot;composantes&quot;&gt;V, FD&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Port&#233;e&lt;/b&gt; courte (7,50 m + 1,50 m/2 &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#NIVEAU&quot; title=&quot;niveau&quot;&gt;niveaux&lt;/a&gt;) (5 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt; + 1 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;/2 &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#NIVEAU&quot; title=&quot;niveau&quot;&gt;niveaux&lt;/a&gt;)&lt;br/&gt;
+&lt;b&gt;Cible&lt;/b&gt; un alli&#233;&lt;br/&gt;
+&lt;b&gt;Dur&#233;e&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#DUREE&quot; title=&quot;instantan&#233;e&quot;&gt;instantan&#233;e&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Jet de sauvegarde&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;Volont&#233;&quot;&gt;Volont&#233;&lt;/a&gt; pour &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#JETSDESAUVEGARDE&quot; title=&quot;Pr&#233;sentation des sorts&quot;&gt;annuler&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#JETSDESAUVEGARDE&quot; title=&quot;Pr&#233;sentation des sorts&quot;&gt;inoffensif&lt;/a&gt;); &lt;b&gt;R&#233;sistance &#224; la magie&lt;/b&gt; oui (&lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#JETSDESAUVEGARDE&quot; title=&quot;Pr&#233;sentation des sorts&quot;&gt;inoffensif&lt;/a&gt;)&lt;br /&gt;&lt;br /&gt;Le personnage concentre son aura sur un alli&#233; et lui permet de refaire un &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;jet de sauvegarde&quot;&gt;jet de sauvegarde&lt;/a&gt; rat&#233; contre un effet de &lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;er-Un-Sort.html#REGISTRE&quot; title=&quot;Registre&quot;&gt;charme&lt;/a&gt; ou de peur avec un bonus de +4. Si le personnage ne dispose pas du pouvoir de classe &lt;a class=&quot;pagelink&quot; href=&quot;Paladin.html#AURADEBRAVOURE&quot; title=&quot;Le paladin&quot;&gt;aura de bravoure&lt;/a&gt;, ce sort n&#39;a aucun effet sur les peurs de la cible. S&#39;il ne dispose pas du pouvoir de classe &lt;a class=&quot;pagelink&quot; href=&quot;Paladin.html#AURADEFERMETE&quot; title=&quot;Le paladin&quot;&gt;aura de fermet&#233;&lt;/a&gt;, ce sort n&#39;a aucun effet sur les effets de charmes qui visent la cible.&lt;br /&gt;&lt;br /&gt;]]></body>
+  <raw><![CDATA[{s:UM}
+'''École''' [[abjuration]]; '''Niveau''' [[paladin]] 1<br/>
+'''Temps d’incantation''' 1 [[action immédiate]]<br/>
+'''Composantes''' [[Composantes|V, FD]]<br/>
+'''Portée''' courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])<br/>
+'''Cible''' un allié<br/>
+'''Durée''' [[instantanée]]<br/>
+'''Jet de sauvegarde''' [[Volonté]] pour [[Présentation des sorts#JETSDESAUVEGARDE|annuler]] ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]]); '''Résistance à la magie''' oui ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]])
+
+Le personnage concentre son aura sur un allié et lui permet de refaire un [[jet de sauvegarde]] raté contre un effet de [[registre|charme]] ou de peur avec un bonus de +4. Si le personnage ne dispose pas du pouvoir de classe [[paladin#AURADEBRAVOURE|aura de bravoure]], ce sort n'a aucun effet sur les peurs de la cible. S'il ne dispose pas du pouvoir de classe [[paladin#AURADEFERMETE|aura de fermeté]], ce sort n'a aucun effet sur les effets de charmes qui visent la cible.
+
+]]></raw>
+  <fullName>Pathfinder-RPG.Mot de fermeté</fullName>
+</wikiPage>

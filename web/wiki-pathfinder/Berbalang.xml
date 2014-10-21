@@ -1,0 +1,133 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Berbalang</title>
+  <categories><category>Pathfinder-RPG.Bestiaire 3</category><category>Pathfinder-RPG.Monstre</category><category>Pathfinder-RPG.Règles officielles</category></categories>
+  <lastModified>2013-08-31 15:37:11Z</lastModified>
+  <version>0</version>
+  <inLinks><link>Pathfinder-RPG.Glossaire des monstres</link><link>Pathfinder-RPG.Liste de monstres par FP</link><link>Pathfinder-RPG.Liste de monstres par milieu naturel</link><link>Pathfinder-RPG.Liste de monstres par type</link><link>Pathfinder-RPG.Monstres</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.type Mort-vivant</link><link>Pathfinder-RPG.vision dans le noir</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Traits des morts-vivants</link><link>Pathfinder-RPG.Constitution</link><link>Pathfinder-RPG.Paralysie (capacité)</link><link>Pathfinder-RPG.sort Saignement</link><link>Pathfinder-RPG.Son imaginaire</link><link>Pathfinder-RPG.Charme-personne</link><link>Pathfinder-RPG.Modification dapparence</link><link>Pathfinder-RPG.Attaque en vol</link><link>Pathfinder-RPG.Esquive</link><link>Pathfinder-RPG.Maîtrise du combat défensif</link><link>Pathfinder-RPG.Souplesse du serpent</link><link>Pathfinder-RPG.Bluff</link><link>Pathfinder-RPG.Connaissances</link><link>Pathfinder-RPG.Discrétion</link><link>Pathfinder-RPG.Évasion</link><link>Pathfinder-RPG.Vol</link><link>Pathfinder-RPG.Action complexe</link><link>Pathfinder-RPG.sous-type intangible</link><link>Pathfinder-RPG.Intangible (capacité)</link><link>Pathfinder-RPG.affaiblissement temporaire</link><link>Pathfinder-RPG.Déplacement</link><link>Pathfinder-RPG.Inconscient</link><link>Pathfinder-RPG.Sans défense</link><link>Pathfinder-RPG.Action simple</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Berbalang&lt;div style=&quot;float:right;&quot;&gt;FP 6&lt;/div&gt;&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Bestiaire 3 p.36&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 2 400
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Mort-Vivant.html&quot; title=&quot;Mort-vivant&quot;&gt;Mort-vivant&lt;/a&gt; de taille M, CM
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +4 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Capacit&#233;s-Sp&#233;ciales.html#VISIONDANSLENOIR&quot; title=&quot;vision dans le noir&quot;&gt;vision dans le noir&lt;/a&gt; &#224; 18 m (12 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +14
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 20, contact 15, pris au d&#233;pourvu 15 (Dex +4, esquive +1, naturelle +5)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 68 (8d8+32)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +6, &lt;b&gt;Vig&lt;/b&gt; +6, &lt;b&gt;Vol&lt;/b&gt; +9
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;RD&lt;/b&gt; 15/argent ou Bien ; &lt;b&gt;Immunit&#233;&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Traits-Des-Morts-Vivants-(Capacit&#233;).html&quot; title=&quot;Traits des morts-vivants&quot;&gt;traits des morts-vivants&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Capacit&#233; d&#233;fensive&lt;/b&gt; projection
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 12 m (8 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), vol 18 m (12 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), bonne
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt;  griffes, +9 (1d6+3 plus paralysie) et 1 morsure, +10 (1d6+3 plus paralysie) ou contact intangible, +10 (1d4 points affaiblissement de &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#CONSTITUTION&quot; title=&quot;La Constitution&quot;&gt;Constitution&lt;/a&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaques sp&#233;ciales&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Paralysie-(Capacit&#233;).html&quot; title=&quot;Paralysie (Ext ou Sur)&quot;&gt;paralysie&lt;/a&gt; (1d4+1 rounds, DD 18)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Pouvoirs magiques&lt;/b&gt; (NLS 9 ; concentration +13)
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+&lt;i&gt;A volont&#233;&lt;/i&gt; - &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Sort-Saignement.html&quot; title=&quot;Saignement&quot;&gt;saignement&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Son-Imaginaire.html&quot; title=&quot;Son imaginaire&quot;&gt;son imaginaire&lt;/a&gt;&lt;/i&gt; (DD 14)
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+&lt;i&gt;3/jours&lt;/i&gt; - &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Charme-Personne.html&quot; title=&quot;Charme-personne&quot;&gt;charme-personne&lt;/a&gt;&lt;/i&gt; (DD 15), &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Modification-Dapparence.html&quot; title=&quot;Modification d&amp;#39;apparence&quot;&gt;modification d&#39;apparence&lt;/a&gt;&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 17, &lt;b&gt;Dex&lt;/b&gt; 19, &lt;b&gt;Con&lt;/b&gt; -, &lt;b&gt;Int&lt;/b&gt; 13, &lt;b&gt;Sag&lt;/b&gt; 16, &lt;b&gt;Cha&lt;/b&gt; 18
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +6, &lt;b&gt;BMO&lt;/b&gt; +9, &lt;b&gt;DMD&lt;/b&gt; 26
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Attaque-En-Vol.html&quot; title=&quot;Attaque en vol&quot;&gt;Attaque en vol&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Esquive.html&quot; title=&quot;Esquive&quot;&gt;Esquive&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Ma&#238;trise-Du-Combat-D&#233;fensif.html&quot; title=&quot;Ma&#238;trise du combat d&#233;fensif&quot;&gt;Ma&#238;trise du combat d&#233;fensif&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Souplesse-Du-Serpent.html&quot; title=&quot;Souplesse du serpent&quot;&gt;Souplesse du serpent&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Bluff.html&quot; title=&quot;Bluff&quot;&gt;Bluff&lt;/a&gt; +10, &lt;a class=&quot;pagelink&quot; href=&quot;Connaissances.html&quot; title=&quot;Connaissances&quot;&gt;Connaissances&lt;/a&gt; (folklore local) +5, &lt;a class=&quot;pagelink&quot; href=&quot;Connaissances.html&quot; title=&quot;Connaissances&quot;&gt;Connaissances&lt;/a&gt; (religion) +6, &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; +15, &lt;a class=&quot;pagelink&quot; href=&quot;&#201;vasion.html&quot; title=&quot;&#201;vasion&quot;&gt;&#201;vasion&lt;/a&gt; +10, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +14, &lt;a class=&quot;pagelink&quot; href=&quot;Vol.html&quot; title=&quot;Vol&quot;&gt;Vol&lt;/a&gt; +17
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Langues&lt;/b&gt; commun
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; terre
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation sociale&lt;/b&gt; solitaire ou meute (2-8)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; standard
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Pouvoirs sp&#233;ciaux&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Projection (Sur).&lt;/b&gt; Une fois par jour, par une &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions.html#COMPLEXE&quot; title=&quot;Action complexe&quot;&gt;action complexe&lt;/a&gt;, le berbalang peut entrer en transe et s&#233;parer son esprit de son corps. Cette technique partage son nombre actuel de points de vie entre son corps et son esprit. L’esprit du berbalang gagne le &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Intangible.html&quot; title=&quot;Intangible (sous-type)&quot;&gt;sous-type intangible&lt;/a&gt; et les &lt;a class=&quot;pagelink&quot; href=&quot;Intangible-(Capacit&#233;).html&quot; title=&quot;Intangible (Ext)&quot;&gt;pouvoirs sp&#233;ciaux intangible&lt;/a&gt;. Sinon, il conserve les m&#234;mes caract&#233;ristiques que son enveloppe physique, avec ces changements : CA 19, contact 19, pris au d&#233;pourvu 10 (Dex +4, esquive +1, parade +4), une unique attaque de contact intangible infligeant un &lt;a class=&quot;pagelink&quot; href=&quot;Affaiblissement-Temporaire-(Capacit&#233;).html&quot; title=&quot;affaiblissement temporaire&quot;&gt;affaiblissement temporaire&lt;/a&gt; de 1d4 points de &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#CONSTITUTION&quot; title=&quot;La Constitution&quot;&gt;Constitution&lt;/a&gt;. L’esprit projet&#233; ne peut pas s’&#233;loigner &#224; plus de 1,5 km du corps du berbalang. La cr&#233;ature n’appartenant qu’en partie &#224; ce plan d’existence lorsqu’elle est dans cet &#233;tat, son corps gagne le sort &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;D&#233;placement.html&quot; title=&quot;D&#233;placement&quot;&gt;d&#233;placement&lt;/a&gt;&lt;/i&gt;. Lorsque le berbalang est ainsi divis&#233;, son corps est &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables.html#Inconscient&quot; title=&quot;Inconscient&quot;&gt;inconscient&lt;/a&gt; et &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables.html#Sansd&#233;fense&quot; title=&quot;Sans d&#233;fense&quot;&gt;sans d&#233;fense&lt;/a&gt;. Si le corps physique du berbalang est bless&#233;, sa projection le r&#233;int&#232;gre aussit&#244;t, et son corps perd le sort de &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;D&#233;placement.html&quot; title=&quot;D&#233;placement&quot;&gt;d&#233;placement&lt;/a&gt;&lt;/i&gt;. Si le corps physique est tu&#233;, l’esprit meurt aussit&#244;t. Si le nombre de points de vie de l’esprit est r&#233;duit &#224; 0 ou moins, celui-ci r&#233;int&#232;gre aussit&#244;t son corps. La forme spirituelle du berbalang peut dissiper cet effet &#224; tout moment par une &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions.html#SIMPLE&quot; title=&quot;Action simple&quot;&gt;action simple&lt;/a&gt;, auquel cas elle r&#233;int&#232;gre aussit&#244;t son corps. Lorsque l’esprit du berbalang retourne dans son corps, faites la somme des points de vie de l’esprit et des points de vie du corps physique pour d&#233;terminer son total actuel de points de vie.
+&lt;/div&gt;&lt;br /&gt;&lt;/div&gt;
+&lt;/td&gt;&lt;td&gt;&lt;div&gt;
+&lt;i&gt;Cette horreur vo&#251;t&#233;e aux ailes de chauve-souris se d&#233;place avec une gr&#226;ce troublante. Ses yeux &#233;tincelants et sa longue langue lui donnent un air effrayant.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Les berbalangs pr&#233;f&#232;rent installer leur antre &#224; moins d’une journ&#233;e de voyage d’une communaut&#233; humano&#239;de. Ce sont des repaires bien cach&#233;s et parfois prot&#233;g&#233;s par d’autres cr&#233;atures mortes-vivantes. Certains berbalangs s’installent &#224; l’&#233;cart comme chamans ou comme vieilles sorci&#232;res voyantes et utilisent &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Modification-Dapparence.html&quot; title=&quot;Modification d&amp;#39;apparence&quot;&gt;modification d’apparence&lt;/a&gt;&lt;/i&gt; pour se faire passer pour des humains. Extr&#234;mement l&#226;ches, les berbalangs attaquent rarement les villages de mani&#232;re directe, pr&#233;f&#233;rant d&#233;vorer les individus qui s’aventurent &#224; l’&#233;cart de la civilisation. Le berbalang est aussi grand qu’un humain et p&#232;se rarement plus de 50 kilos.
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Berbalang|FP 6}
+{s:pucem|Mort-vivant|Ruines-Donjons|Tempéré}
+{s:BDTexte|''Source : Bestiaire 3 p.36''}
+{s:BDTexte|'''PX''' 2 400}
+{s:BDTexte|[[type Mort-vivant|Mort-vivant]] de taille M, CM}
+{s:BDTexte|'''Init''' +4 ; '''Sens''' [[vision dans le noir]] à 18 m (12 {s:c}) ; [[Perception]] +14}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 20, contact 15, pris au dépourvu 15 (Dex +4, esquive +1, naturelle +5)}
+{s:BDTexte|'''pv''' 68 (8d8+32)}
+{s:BDTexte|'''Réf''' +6, '''Vig''' +6, '''Vol''' +9}
+{s:BDTexte|'''RD''' 15/argent ou Bien ; '''Immunité''' [[traits des morts-vivants]]}
+{s:BDTexte|'''Capacité défensive''' projection}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 12 m (8 {s:c}), vol 18 m (12 {s:c}), bonne}
+{s:BDTexte|'''Corps à corps'''  griffes, +9 (1d6+3 plus paralysie) et 1 morsure, +10 (1d6+3 plus paralysie) ou contact intangible, +10 (1d4 points affaiblissement de [[Constitution]])}
+{s:BDTexte|'''Attaques spéciales''' [[paralysie (capacité)|paralysie]] (1d4+1 rounds, DD 18)}
+{s:BDTexte|'''Pouvoirs magiques''' (NLS 9 ; concentration +13)}
+{s:BDSorts|''A volonté'' - ''[[sort saignement|saignement]]'', ''[[son imaginaire]]'' (DD 14)}
+{s:BDSorts|''3/jours'' - ''[[charme-personne]]'' (DD 15), ''[[modification dapparence|modification d'apparence]]''}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 17, '''Dex''' 19, '''Con''' -, '''Int''' 13, '''Sag''' 16, '''Cha''' 18}
+{s:BDTexte|'''BBA''' +6, '''BMO''' +9, '''DMD''' 26}
+{s:BDTexte|'''Dons''' [[Attaque en vol]], [[Esquive]], [[Maîtrise du combat défensif]], [[Souplesse du serpent]]}
+{s:BDTexte|'''Compétences''' [[Bluff]] +10, [[Connaissances]] (folklore local) +5, [[Connaissances]] (religion) +6, [[Discrétion]] +15, [[Évasion]] +10, [[Perception]] +14, [[Vol]] +17}
+{s:BDTexte|'''Langues''' commun}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' terre}
+{s:BDTexte|'''Organisation sociale''' solitaire ou meute (2-8)}
+{s:BDTexte|'''Trésor''' standard}
+{s:BDSousTitre|Pouvoirs spéciaux}
+{s:BDTexte|'''Projection (Sur).''' Une fois par jour, par une [[action complexe]], le berbalang peut entrer en transe et séparer son esprit de son corps. Cette technique partage son nombre actuel de points de vie entre son corps et son esprit. L’esprit du berbalang gagne le [[sous-type intangible]] et les [[intangible (capacité)|pouvoirs spéciaux intangible]]. Sinon, il conserve les mêmes caractéristiques que son enveloppe physique, avec ces changements : CA 19, contact 19, pris au dépourvu 10 (Dex +4, esquive +1, parade +4), une unique attaque de contact intangible infligeant un [[affaiblissement temporaire]] de 1d4 points de [[Constitution]]. L’esprit projeté ne peut pas s’éloigner à plus de 1,5 km du corps du berbalang. La créature n’appartenant qu’en partie à ce plan d’existence lorsqu’elle est dans cet état, son corps gagne le sort ''[[déplacement]]''. Lorsque le berbalang est ainsi divisé, son corps est [[inconscient]] et [[sans défense]]. Si le corps physique du berbalang est blessé, sa projection le réintègre aussitôt, et son corps perd le sort de ''[[déplacement]]''. Si le corps physique est tué, l’esprit meurt aussitôt. Si le nombre de points de vie de l’esprit est réduit à 0 ou moins, celui-ci réintègre aussitôt son corps. La forme spirituelle du berbalang peut dissiper cet effet à tout moment par une [[action simple]], auquel cas elle réintègre aussitôt son corps. Lorsque l’esprit du berbalang retourne dans son corps, faites la somme des points de vie de l’esprit et des points de vie du corps physique pour déterminer son total actuel de points de vie.}
+
+</div>
+</td><td><div>
+''Cette horreur voûtée aux ailes de chauve-souris se déplace avec une grâce troublante. Ses yeux étincelants et sa longue langue lui donnent un air effrayant.''
+
+Les berbalangs préfèrent installer leur antre à moins d’une journée de voyage d’une communauté humanoïde. Ce sont des repaires bien cachés et parfois protégés par d’autres créatures mortes-vivantes. Certains berbalangs s’installent à l’écart comme chamans ou comme vieilles sorcières voyantes et utilisent ''[[modification dapparence|modification d’apparence]]'' pour se faire passer pour des humains. Extrêmement lâches, les berbalangs attaquent rarement les villages de manière directe, préférant dévorer les individus qui s’aventurent à l’écart de la civilisation. Le berbalang est aussi grand qu’un humain et pèse rarement plus de 50 kilos.
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Berbalang</fullName>
+</wikiPage>

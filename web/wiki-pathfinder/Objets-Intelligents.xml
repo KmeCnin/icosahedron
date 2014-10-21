@@ -1,0 +1,482 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Les objets intelligents</title>
+  <categories><category>Pathfinder-RPG.Objet magique intelligent</category></categories>
+  <lastModified>2010-08-16 16:28:31Z</lastModified>
+  <version>9</version>
+  <inLinks><link>Pathfinder-RPG.Anneaux magiques</link><link>Pathfinder-RPG.Lamelié</link><link>Pathfinder-RPG.MainPage</link><link>Pathfinder-RPG.Objets intelligents</link><link>Pathfinder-RPG.Objets maudits</link><link>Pathfinder-RPG.Objets merveilleux</link><link>Pathfinder-RPG.Règles relatives aux objets magiques</link><link>Pathfinder-RPG.Sceptres magiques</link><link>Pathfinder-RPG.temp-MainPage</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.PNJ</link><link>Pathfinder-RPG.Objets intelligents</link><link>Pathfinder-RPG.Potions magiques</link><link>Pathfinder-RPG.Parchemins magiques</link><link>Pathfinder-RPG.Baguettes magiques</link><link>Pathfinder-RPG.Intelligence</link><link>Pathfinder-RPG.Sagesse</link><link>Pathfinder-RPG.Charisme</link><link>Pathfinder-RPG.type Créature artificielle</link><link>Pathfinder-RPG.Armes magiques</link><link>Pathfinder-RPG.mot de commande</link><link>Pathfinder-RPG.niveau négatif</link><link>Pathfinder-RPG.Restauration</link><link>Pathfinder-RPG.vision dans le noir</link><link>Pathfinder-RPG.vision aveugle</link><link>Pathfinder-RPG.Lecture de la magie</link><link>Pathfinder-RPG.Action simple</link><link>Pathfinder-RPG.niveau de lanceur de sorts</link><link>Pathfinder-RPG.DD</link><link>Pathfinder-RPG.jet de sauvegarde</link><link>Pathfinder-RPG.Aura magique</link><link>Pathfinder-RPG.Vol</link><link>Pathfinder-RPG.téléportation</link><link>Pathfinder-RPG.Magicien</link><link>Pathfinder-RPG.Barde</link><link>Pathfinder-RPG.Ensorceleur</link><link>Pathfinder-RPG.Magie profane</link><link>Pathfinder-RPG.Elfe</link><link>Pathfinder-RPG.Magie divine</link><link>Pathfinder-RPG.jet dattaque</link><link>Pathfinder-RPG.test de compétence</link><link>Pathfinder-RPG.Résurrection suprême</link><link>Pathfinder-RPG.Volonté</link></outLinks>
+  <body><![CDATA[&lt;table id=&quot;TocContainerTable&quot;&gt;&lt;tr&gt;&lt;td&gt;&lt;div id=&quot;TocContainer&quot;&gt;&lt;p class=&quot;small&quot;&gt;&lt;b&gt;Table of Contents&lt;/b&gt;&lt;span id=&quot;ExpandTocSpan&quot;&gt; [&lt;a href=&quot;#&quot; onclick=&quot;javascript:if(document.getElementById(&#39;Toc&#39;).style[&#39;display&#39;]==&#39;none&#39;) document.getElementById(&#39;Toc&#39;).style[&#39;display&#39;]=&#39;&#39;; else document.getElementById(&#39;Toc&#39;).style[&#39;display&#39;]=&#39;none&#39;; return false;&quot;&gt;Hide/Show&lt;/a&gt;]&lt;/span&gt;&lt;/p&gt;&lt;div id=&quot;Toc&quot;&gt;&lt;p&gt;&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;#Cr&#233;er_un_objet_intelligent_0&quot;&gt; Cr&#233;er un objet intelligent &lt;/a&gt;&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;#Alignement_des_objets_intelligents_1&quot;&gt; Alignement des objets intelligents &lt;/a&gt;&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;#Caract&#233;ristiques_de_objets_intelligents_2&quot;&gt; Caract&#233;ristiques de objets intelligents &lt;/a&gt;&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;#Langues_parl&#233;es_par_les_objets_3&quot;&gt; Langues parl&#233;es par les objets &lt;/a&gt;&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;#Pouvoirs_des_objets_intelligents_4&quot;&gt; Pouvoirs des objets intelligents &lt;/a&gt;&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;#Objets_cr&#233;&#233;s_dans_un_dessein_sp&#233;cial_5&quot;&gt; Objets cr&#233;&#233;s dans un dessein sp&#233;cial &lt;/a&gt;&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;#Pouvoir_d&#233;di&#233;_au_dessein_sp&#233;cial_6&quot;&gt; Pouvoir d&#233;di&#233; au dessein sp&#233;cial &lt;/a&gt;&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;#&#201;go_des_objets_intelligents_7&quot;&gt; &#201;go des objets intelligents &lt;/a&gt;&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;#Conflit_entre_personnages_et_objets_8&quot;&gt; Conflit entre personnages et objets &lt;/a&gt;&lt;br /&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;br /&gt;Certains objets poss&#232;dent une intelligence qui leur est propre. Rendus conscients gr&#226;ce processus qui leur a donn&#233; leurs propri&#233;t&#233;s magiques, ils pensent et ressentent des &#233;motions comme tout le monde, et devraient ainsi &#234;tre consid&#233;r&#233;s comme des &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#PERSONNAGENONJOUEUR&quot; title=&quot;PNJ&quot;&gt;PNJ&lt;/a&gt;. Les objets intelligents peuvent poss&#233;der des pouvoirs mineurs ou majeurs, ainsi que, quelquefois, des capacit&#233;s extraordinaires ou des &lt;a class=&quot;pagelink&quot; href=&quot;Objets-Intelligents.html#DESSEIN&quot; title=&quot;Les objets intelligents&quot;&gt;desseins&lt;/a&gt; sp&#233;cifiques. Seuls les objets permanents peuvent &#234;tre intelligents, pas ceux qui sont &#224; charges ou &#224; usage unique (cela signifie que les &lt;a class=&quot;pagelink&quot; href=&quot;Potions-Magiques.html&quot; title=&quot;Les potions magiques&quot;&gt;potions&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Potions-Magiques.html&quot; title=&quot;Les potions magiques&quot;&gt;huiles&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Parchemins-Magiques.html&quot; title=&quot;Les parchemins magiques&quot;&gt;parchemins&lt;/a&gt; et &lt;a class=&quot;pagelink&quot; href=&quot;Baguettes-Magiques.html&quot; title=&quot;Les baguettes magiques&quot;&gt;baguettes&lt;/a&gt;, entre autres, ne sont jamais intelligents). En r&#232;gle g&#233;n&#233;rale, moins de 1% des objets magiques sont intelligents.&lt;br /&gt;&lt;br /&gt;Les objets intelligents peuvent &#234;tre consid&#233;r&#233;s comme des cr&#233;atures &#224; part enti&#232;re puisqu’ils poss&#232;dent des valeurs d’&lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#INTELLIGENCE&quot; title=&quot;L&amp;#39;Intelligence&quot;&gt;Intelligence&lt;/a&gt;, de &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#SAGESSE&quot; title=&quot;La Sagesse&quot;&gt;Sagesse&lt;/a&gt; et de &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#CHARISME&quot; title=&quot;Le Charisme&quot;&gt;Charisme&lt;/a&gt;. Ils sont &#224; traiter comme des &lt;a class=&quot;pagelink&quot; href=&quot;Type-Cr&#233;ature-Artificielle.html&quot; title=&quot;Cr&#233;ature artificielle&quot;&gt;cr&#233;atures artificielles&lt;/a&gt;. Beaucoup d’objets intelligents ont le pouvoir de g&#233;n&#233;rer de la lumi&#232;re (comme certaines &lt;a class=&quot;pagelink&quot; href=&quot;Armes-Magiques.html&quot; title=&quot;Les armes magiques&quot;&gt;armes magiques&lt;/a&gt;), et la plupart ne pourraient pas voir sans cela.&lt;br /&gt;&lt;br /&gt;Contrairement &#224; la plupart des objets magiques ordinaires, les objets intelligents ont la possibilit&#233; d’activer eux-m&#234;mes leurs pouvoirs, sans qu’il soit n&#233;cessaire &#224; leur utilisateur de prononcer un &lt;a class=&quot;pagelink&quot; href=&quot;R&#232;gles-Relatives-Aux-Objets-Magiques.html#OBJETSAMOTDECOMMANDE&quot; title=&quot;mot de commande&quot;&gt;mot de commande&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;&lt;h2 class=&quot;separator&quot;&gt; Cr&#233;er un objet intelligent &lt;a class=&quot;headeranchor&quot; id=&quot;Cr&#233;er_un_objet_intelligent_0&quot; href=&quot;#Cr&#233;er_un_objet_intelligent_0&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;Cr&#233;er un objet intelligent n’est gu&#232;re compliqu&#233;, il suffit de suivre ces quelques conseils. Les objets magiques intelligents doivent avoir un &lt;a class=&quot;pagelink&quot; href=&quot;Objets-Intelligents.html#ALIGNEMENT&quot; title=&quot;Les objets intelligents&quot;&gt;alignement&lt;/a&gt;, des &lt;a class=&quot;pagelink&quot; href=&quot;Objets-Intelligents.html#CARACTERISTIQUES&quot; title=&quot;Les objets intelligents&quot;&gt;caract&#233;ristiques mentales&lt;/a&gt;, des &lt;a class=&quot;pagelink&quot; href=&quot;Objets-Intelligents.html#LANGUES&quot; title=&quot;Les objets intelligents&quot;&gt;langues&lt;/a&gt;, des sens et au moins un autre &lt;a class=&quot;pagelink&quot; href=&quot;Objets-Intelligents.html#POUVOIRSSPECIAUX&quot; title=&quot;Les objets intelligents&quot;&gt;pouvoir sp&#233;cial&lt;/a&gt;. Ces diff&#233;rentes statistiques peuvent &#234;tre am&#233;lior&#233;es durant la phase de cr&#233;ation, ce qui augmente la valeur totale de l’objet, mais &#233;galement son &lt;a class=&quot;pagelink&quot; href=&quot;Objets-Intelligents.html#EGO&quot; title=&quot;Les objets intelligents&quot;&gt;score d’&#233;go&lt;/a&gt;. Un objet magique intelligent pourvu d’un &lt;a class=&quot;pagelink&quot; href=&quot;Objets-Intelligents.html#EGO&quot; title=&quot;Les objets intelligents&quot;&gt;&#233;go&lt;/a&gt; &#233;lev&#233; sera difficile &#224; ma&#238;triser, et il peut parfois m&#234;me prendre le contr&#244;le de son porteur. Cela le rend d’autant plus dangereux.&lt;br /&gt;&lt;br /&gt;Le prix de base d’un objet magique augmente de 500 po s’il est intelligent. Quand vous calculerez la valeur d’un tel objet, commencez d’abord par ajouter ce prix de base au prix total des pouvoirs obtenus par sa nature d’objet intelligent. Ensuite seulement, ajoutez le prix de base de l’objet magique lui-m&#234;me.&lt;br /&gt;&lt;br /&gt;&lt;a name=&quot;ALIGNEMENT&quot;&gt;&lt;/a&gt;
+&lt;h2 class=&quot;separator&quot;&gt; Alignement des objets intelligents &lt;a class=&quot;headeranchor&quot; id=&quot;Alignement_des_objets_intelligents_1&quot; href=&quot;#Alignement_des_objets_intelligents_1&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;
+Un objet intelligent poss&#232;de automatiquement un alignement (voir la Table &quot;Alignement des objets&quot; ci-dessous). Dans le cas de certaines armes, principalement, l’alignement de l’objet est d&#233;j&#224; d&#233;termin&#233; par sa nature ou par sa fonction, au moins en partie. Dans le cas d’une cr&#233;ation d’arme intelligente de fa&#231;on al&#233;atoire, n’oubliez pas que l’alignement de celle-ci doit prendre en compte certaines de ses propri&#233;t&#233;s sp&#233;ciales.&lt;br /&gt;&lt;br /&gt;&lt;center&gt;
+&lt;table CLASS=&quot;tablo&quot;&gt;&lt;caption&gt;Alignement des objets&lt;/caption&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td&gt;1d100&lt;/td&gt;&lt;td&gt;Alignement de l’objet&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier&quot;&gt;&lt;td&gt;01–10&lt;/td&gt;&lt;td&gt;Chaotique Bon&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;11–20&lt;/td&gt;&lt;td&gt;Chaotique Neutre*&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;21–35&lt;/td&gt;&lt;td&gt;Chaotique Mauvais&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;36–45&lt;/td&gt;&lt;td&gt;Neutre Mauvais*&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;46–55&lt;/td&gt;&lt;td&gt;Loyal Mauvais&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;56–70&lt;/td&gt;&lt;td&gt;Loyal Bon&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;71–80&lt;/td&gt;&lt;td&gt;Loyal Neutre*&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;81–90&lt;/td&gt;&lt;td&gt;Neutre Bon*&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;91–100&lt;/td&gt;&lt;td&gt;Neutre&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;note&quot;&gt;&lt;td COLSPAN=&quot;2&quot;&gt;(*) Cet objet peut &#233;galement &#234;tre utilis&#233; par tout personnage &lt;br/&gt;dont l’alignement correspond &#224; la partie non neutre de &lt;br/&gt;l’alignement de l’objet.&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/center&gt;&lt;br /&gt;&lt;br /&gt;Chaque fois qu’un personnage prend en main ou &#233;quipe un objet intelligent dont l’alignement ne correspond pas au sien (hors cas indiqu&#233;s par un ast&#233;risque dans la table), il acquiert un &lt;a class=&quot;pagelink&quot; href=&quot;Absorption-D&#233;nergie-(Capacit&#233;).html&quot; title=&quot;niveau n&#233;gatif&quot;&gt;niveau n&#233;gatif&lt;/a&gt;. Celui-ci n’entra&#238;ne jamais une perte de niveau effective, mais il faut se d&#233;barrasser de l’objet pour la r&#233;sorber (m&#234;me les sorts tels que &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Restauration.html&quot; title=&quot;Restauration&quot;&gt;restauration&lt;/a&gt;&lt;/i&gt; restent inefficaces). Ce &lt;a class=&quot;pagelink&quot; href=&quot;Absorption-D&#233;nergie-(Capacit&#233;).html&quot; title=&quot;niveau n&#233;gatif&quot;&gt;niveau n&#233;gatif&lt;/a&gt; s’ajoute &#224; tous les handicaps que l’objet peut infliger &#224; son porteur. En cas de diff&#233;rence d’alignement, un objet ayant un &lt;a class=&quot;pagelink&quot; href=&quot;Objets-Intelligents.html#EGO&quot; title=&quot;Les objets intelligents&quot;&gt;&#233;go&lt;/a&gt; compris entre 20 et 29 transmet deux &lt;a class=&quot;pagelink&quot; href=&quot;Absorption-D&#233;nergie-(Capacit&#233;).html&quot; title=&quot;niveau n&#233;gatif&quot;&gt;niveaux n&#233;gatifs&lt;/a&gt; &#224; son porteur, et trois &lt;a class=&quot;pagelink&quot; href=&quot;Absorption-D&#233;nergie-(Capacit&#233;).html&quot; title=&quot;niveau n&#233;gatif&quot;&gt;niveaux n&#233;gatifs&lt;/a&gt; pour un objet dont l’&#233;go est au moins &#233;gal &#224; 30.&lt;br /&gt;&lt;br /&gt;&lt;a name=&quot;CARACTERISTIQUES&quot;&gt;&lt;/a&gt;
+&lt;h2 class=&quot;separator&quot;&gt; Caract&#233;ristiques de objets intelligents &lt;a class=&quot;headeranchor&quot; id=&quot;Caract&#233;ristiques_de_objets_intelligents_2&quot; href=&quot;#Caract&#233;ristiques_de_objets_intelligents_2&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;Les objets intelligences poss&#232;dent les trois caract&#233;ristiques mentales : l’&lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#INTELLIGENCE&quot; title=&quot;L&amp;#39;Intelligence&quot;&gt;Intelligence&lt;/a&gt;, la &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#SAGESSE&quot; title=&quot;La Sagesse&quot;&gt;Sagesse&lt;/a&gt; et le &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#CHARISME&quot; title=&quot;Le Charisme&quot;&gt;Charisme&lt;/a&gt;. Ces trois caract&#233;ristiques d&#233;marrent &#224; 10, mais peuvent grimper jusqu’&#224; un score de 20. La Table &quot;Caract&#233;ristiques des objets intelligents&#39; (ci-dessous) indique les co&#251;ts des caract&#233;ristiques d&#233;passant 10. Ce co&#251;t doit &#234;tre pay&#233; pour chaque caract&#233;ristique ainsi augment&#233;e. Par exemple, un objet magique intelligent poss&#233;dant une &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#INTELLIGENCE&quot; title=&quot;L&amp;#39;Intelligence&quot;&gt;Intelligence&lt;/a&gt; de 15, une &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#SAGESSE&quot; title=&quot;La Sagesse&quot;&gt;Sagesse&lt;/a&gt; de 12 et un &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#CHARISME&quot; title=&quot;Le Charisme&quot;&gt;Charisme&lt;/a&gt; de 10 co&#251;terait au moins 2 400 po de plus que l’objet de base (en incluant les 500 po li&#233;s au fait d’&#234;tre un objet intelligent). &lt;br /&gt;&lt;br /&gt;&lt;center&gt;
+&lt;table CLASS=&quot;tablo&quot;&gt;&lt;caption&gt;Caract&#233;ristiques des objets intelligents&lt;/caption&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td&gt;Score&lt;/td&gt;&lt;td&gt;Modificateur du prix de base&lt;/td&gt;&lt;td&gt;Modificateur de l’&lt;a class=&quot;pagelink&quot; href=&quot;Objets-Intelligents.html#EGO&quot; title=&quot;Les objets intelligents&quot;&gt;&#233;go&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier&quot;&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;11&lt;/td&gt;&lt;td&gt;+200 po&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;12&lt;/td&gt;&lt;td&gt;+500 po&lt;/td&gt;&lt;td&gt;+1&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;13&lt;/td&gt;&lt;td&gt;+700 po&lt;/td&gt;&lt;td&gt;+1&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;14&lt;/td&gt;&lt;td&gt;+1 000 po&lt;/td&gt;&lt;td&gt;+2&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;15&lt;/td&gt;&lt;td&gt;+1 400 po&lt;/td&gt;&lt;td&gt;+2&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;16&lt;/td&gt;&lt;td&gt;+2 000 po&lt;/td&gt;&lt;td&gt;+3&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;17&lt;/td&gt;&lt;td&gt;+2 800 po&lt;/td&gt;&lt;td&gt;+3&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;18&lt;/td&gt;&lt;td&gt;+4 000 po&lt;/td&gt;&lt;td&gt;+4&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;19&lt;/td&gt;&lt;td&gt;+5 200 po&lt;/td&gt;&lt;td&gt;+4&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;20&lt;/td&gt;&lt;td&gt;+8 000 po&lt;/td&gt;&lt;td&gt;+5&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/center&gt;&lt;br /&gt;&lt;br /&gt;&lt;a name=&quot;LANGUES&quot;&gt;&lt;/a&gt;
+&lt;h2 class=&quot;separator&quot;&gt; Langues parl&#233;es par les objets &lt;a class=&quot;headeranchor&quot; id=&quot;Langues_parl&#233;es_par_les_objets_3&quot; href=&quot;#Langues_parl&#233;es_par_les_objets_3&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;
+&lt;div style=&quot;float:right; background-color: #fff; padding: 0 0 16px 16px&quot;&gt;
+&lt;div style=&quot;border: 1px solid #4b3124; padding: 4px&quot;&gt;
+&lt;center&gt;
+&lt;table CLASS=&quot;tablo&quot;&gt;&lt;caption&gt;Sens et communication des objets intelligents&lt;/caption&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td&gt;Capacit&#233;&lt;/td&gt;&lt;td&gt;Modificateur du prix de base&lt;/td&gt;&lt;td&gt;Modificateur de l’&lt;a class=&quot;pagelink&quot; href=&quot;Objets-Intelligents.html#EGO&quot; title=&quot;Les objets intelligents&quot;&gt;&#233;go&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier&quot;&gt;&lt;td&gt;Empathie&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;Parole&lt;/td&gt;&lt;td&gt;+500 po&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;T&#233;l&#233;pathie&lt;/td&gt;&lt;td&gt;+1 000 po&lt;/td&gt;&lt;td&gt;+1&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;Sens (10m)&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Sens (20m)&lt;/td&gt;&lt;td&gt;+500 po&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;Sens (40m)&lt;/td&gt;&lt;td&gt;+1 000 po&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Capacit&#233;s-Sp&#233;ciales.html#VISIONDANSLENOIR&quot; title=&quot;vision dans le noir&quot;&gt;Vision dans le noir&lt;/a&gt;&lt;/td&gt;&lt;td&gt;+500 po&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Vision-Aveugle-(Capacit&#233;).html&quot; title=&quot;vision aveugle&quot;&gt;Vision aveugle&lt;/a&gt;&lt;/td&gt;&lt;td&gt;+5 000 po&lt;/td&gt;&lt;td&gt;+1&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Lecture des langues&lt;/td&gt;&lt;td&gt;+1 000 po&lt;/td&gt;&lt;td&gt;+1&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Lecture-De-La-Magie.html&quot; title=&quot;Lecture de la magie&quot;&gt;Lecture de la magie&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;+2 000 po&lt;/td&gt;&lt;td&gt;+1&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/center&gt;&lt;/div&gt;&lt;/div&gt;Tous les objets magiques intelligents b&#233;n&#233;ficient de la capacit&#233; de voir et d’entendre dans un rayon de 10 m, ainsi que de celle de pouvoir communiquer par empathie avec leur porteur. Cependant, l’empathie ne leur permet que d’encourager ou de d&#233;courager certaines actions par le biais d’envies et d’&#233;motions. D’autres formes de communication et des sens am&#233;lior&#233;s augmentent le co&#251;t et l’&lt;a class=&quot;pagelink&quot; href=&quot;Objets-Intelligents.html#EGO&quot; title=&quot;Les objets intelligents&quot;&gt;&#233;go&lt;/a&gt; de l’objet, comme sp&#233;cifi&#233; dans la Table &quot;Sens et communication des objets intelligents&quot; ci-dessous.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Empathie (Sur).&lt;/b&gt; La capacit&#233; d’encourager ou de d&#233;courager certaines actions gr&#226;ce &#224; la communication d’envies et d’&#233;motions. Elle ne permet nullement de parler.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Parole (Sur).&lt;/b&gt; La capacit&#233; de parler en utilisant les langues connues par l’objet.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;T&#233;l&#233;pathie (Sur).&lt;/b&gt; La capacit&#233; de communiquer par la pens&#233;e, sans tenir compte des langues connues. Le porteur doit toucher l’objet pour ce faire.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Sens.&lt;/b&gt; La facult&#233; de voir et d’entendre jusqu’&#224; une certaine distance. La &lt;a class=&quot;pagelink&quot; href=&quot;Capacit&#233;s-Sp&#233;ciales.html#VISIONDANSLENOIR&quot; title=&quot;vision dans le noir&quot;&gt;vision dans le noir&lt;/a&gt; et la &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Aveugle-(Capacit&#233;).html&quot; title=&quot;vision aveugle&quot;&gt;vision aveugle&lt;/a&gt; permettent &#224; l’objet d’utiliser ses sens de la m&#234;me mani&#232;re et sur la m&#234;me distance.&lt;br /&gt;&lt;br /&gt;&lt;a name=&quot;POUVOIRSSPECIAUX&quot;&gt;&lt;/a&gt;
+&lt;h2 class=&quot;separator&quot;&gt; Pouvoirs des objets intelligents &lt;a class=&quot;headeranchor&quot; id=&quot;Pouvoirs_des_objets_intelligents_4&quot; href=&quot;#Pouvoirs_des_objets_intelligents_4&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;Chaque objet intelligent doit avoir au moins un pouvoir, et les plus puissants en ont certainement beaucoup plus. Utilisez la Table &quot;Pouvoirs des objets intelligents&quot; ci-dessous pour les choisir ou les d&#233;terminer au hasard. Tous les pouvoirs fonctionnent si et quand l’objet le souhaite. Cependant, les objets intelligents ob&#233;issent g&#233;n&#233;ralement aux souhaits de leur propri&#233;taire. Activer un pouvoir ou se concentrer sur un pouvoir actif n&#233;cessite une &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions.html#SIMPLE&quot; title=&quot;Action simple&quot;&gt;action simple&lt;/a&gt;, laquelle est effectu&#233;e par l’objet lui-m&#234;me. En ce qui concerne les effets, le &lt;a class=&quot;pagelink&quot; href=&quot;Lancer-Des-Sorts.html#NLS&quot; title=&quot;Niveau de lanceur de sorts&quot;&gt;niveau de lanceur de sorts&lt;/a&gt; correspondant est &#233;gal &#224; celui de l’objet. Les &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DEGREDEDIFFICULTE&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; des &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;jet de sauvegarde&quot;&gt;jets de sauvegarde&lt;/a&gt; sont bas&#233;s sur sa caract&#233;ristique mentale la plus &#233;lev&#233;e de l’objet.&lt;br /&gt;&lt;br /&gt;&lt;center&gt;
+&lt;table CLASS=&quot;tablo&quot;&gt;&lt;caption&gt;Pouvoirs des objets intelligents&lt;/caption&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td&gt;1d100&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;Pouvoir&lt;/td&gt;&lt;td&gt;Modificateur au prix de base&lt;/td&gt;&lt;td&gt;Modificateur de l’&#233;go&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier&quot;&gt;&lt;td&gt;01–10&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;L’objet peut lancer 1 sort de niveau 0 &#224; volont&#233;&lt;/td&gt;&lt;td&gt;+1 000 po&lt;/td&gt;&lt;td&gt;+1&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;11–20&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;L’objet peut lancer 1 sort du 1er niveau, 3 fois par jour&lt;/td&gt;&lt;td&gt;+1 200 po&lt;/td&gt;&lt;td&gt;+1&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;21–25&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;L’objet peut lancer &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Aura-Magique.html&quot; title=&quot;Aura magique&quot;&gt;aura magique&lt;/a&gt;&lt;/i&gt; sur lui-m&#234;me, &#224; volont&#233;&lt;/td&gt;&lt;td&gt;+2 000 po&lt;/td&gt;&lt;td&gt;+1&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;26-35&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;L’objet peut lancer 1 sort du 2e niveau, 3 fois par jour&lt;/td&gt;&lt;td&gt;+2 400 po&lt;/td&gt;&lt;td&gt;+1&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;36-45&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;L’objet a un degr&#233; de ma&#238;trise de 5 dans une comp&#233;tence*&lt;/td&gt;&lt;td&gt;+2 500 po&lt;/td&gt;&lt;td&gt;+1&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;46–50&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;L’objet peut se faire pousser des membres et se d&#233;placer &#224; une vitesse de 3 m&lt;/td&gt;&lt;td&gt;+5 000 po&lt;/td&gt;&lt;td&gt;+1&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;51-55&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;L’objet peut lancer 1 sort du 3e niveau, 1 fois par jour&lt;/td&gt;&lt;td&gt;+6 000 po&lt;/td&gt;&lt;td&gt;+1&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;56-60&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;L’objet peut lancer 1 sort du 2e niveau, 3 fois par jour&lt;/td&gt;&lt;td&gt;+7 200 po&lt;/td&gt;&lt;td&gt;+1&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;61-70&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;L’objet a un degr&#233; de ma&#238;trise de 10 dans une comp&#233;tence*&lt;/td&gt;&lt;td&gt;+10 000 po&lt;/td&gt;&lt;td&gt;+2&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;71-75&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;L’objet peut se transformer en un autre objet de m&#234;me taille&lt;/td&gt;&lt;td&gt;+10 000 po&lt;/td&gt;&lt;td&gt;+2&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;76–80&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;L’objet peut voler &#224; une vitesse de 10 m, comme avec le sort &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Vol.html&quot; title=&quot;Vol&quot;&gt;vol&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;+10 000 po&lt;/td&gt;&lt;td&gt;+2&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;81–85&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;L’objet peut lancer 1 sort du 4e niveau, 1 fois par jour&lt;/td&gt;&lt;td&gt;+11 200 po&lt;/td&gt;&lt;td&gt;+2&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;86–90&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;L’objet peut se t&#233;l&#233;porter, 1 fois par jour, comme avec le sort &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;T&#233;l&#233;portation.html&quot; title=&quot;T&#233;l&#233;portation&quot;&gt;t&#233;l&#233;portation&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;+15 000 po&lt;/td&gt;&lt;td&gt;+2&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;91–95&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;L’objet peut lancer 1 sort du 3e niveau, 3 fois par jour&lt;/td&gt;&lt;td&gt;+18 000 po&lt;/td&gt;&lt;td&gt;+2&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;96-100&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;L’objet peut lancer 1 sort du 4e niveau, 3 fois par jour&lt;/td&gt;&lt;td&gt;+33 600 po&lt;/td&gt;&lt;td&gt;+2&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;note&quot;&gt;&lt;td COLSPAN=&quot;4&quot;&gt;(*) Les objets intelligents ne peuvent avoir que des comp&#233;tences dont la caract&#233;ristique li&#233;e est l’&lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#INTELLIGENCE&quot; title=&quot;L&amp;#39;Intelligence&quot;&gt;Intelligence&lt;/a&gt;, la &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#SAGESSE&quot; title=&quot;La Sagesse&quot;&gt;Sagesse&lt;/a&gt; ou le &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#CHARISME&quot; title=&quot;Le Charisme&quot;&gt;Charisme&lt;/a&gt;, &lt;br/&gt;&#224; moins qu’ils aient la capacit&#233; de se d&#233;placer.&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/center&gt;&lt;br /&gt;&lt;br /&gt;&lt;a name=&quot;DESSEIN&quot;&gt;&lt;/a&gt;
+&lt;h2 class=&quot;separator&quot;&gt; Objets cr&#233;&#233;s dans un dessein sp&#233;cial &lt;a class=&quot;headeranchor&quot; id=&quot;Objets_cr&#233;&#233;s_dans_un_dessein_sp&#233;cial_5&quot; href=&quot;#Objets_cr&#233;&#233;s_dans_un_dessein_sp&#233;cial_5&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;Certains objets magiques intelligents poursuivent un but qui guide leurs actions, et &#224; ce titre b&#233;n&#233;ficient d’un bonus d’&lt;a class=&quot;pagelink&quot; href=&quot;Objets-Intelligents.html#EGO&quot; title=&quot;Les objets intelligents&quot;&gt;&#233;go&lt;/a&gt; de +2. Le dessein dans lequel un objet a &#233;t&#233; cr&#233;&#233; doit correspondre &#224; sa nature et &#224; son &lt;a class=&quot;pagelink&quot; href=&quot;Objets-Intelligents.html#ALIGNEMENT&quot; title=&quot;Les objets intelligents&quot;&gt;alignement&lt;/a&gt;. De plus, sachez garder le comportement de l’objet dans les limites du raisonnable. Un dessein visant &#224; &#171; tuer les lanceurs de sorts profanes &#187; ne signifie pas que l’objet oblige son possesseur &#224; attaquer tous les &lt;a class=&quot;pagelink&quot; href=&quot;Magicien.html&quot; title=&quot;Le magicien&quot;&gt;magiciens&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Barde.html&quot; title=&quot;Le barde&quot;&gt;bardes&lt;/a&gt; et &lt;a class=&quot;pagelink&quot; href=&quot;Ensorceleur.html&quot; title=&quot;L&amp;#39;ensorceleur&quot;&gt;ensorceleurs&lt;/a&gt; qu’il croise (ni m&#234;me que l’objet pense qu’une telle t&#226;che est possible). Par contre, il hait suffisamment les pratiquants de la &lt;a class=&quot;pagelink&quot; href=&quot;Magie-Profane.html&quot; title=&quot;La magie profane&quot;&gt;magie profane&lt;/a&gt; pour avoir d&#233;cid&#233;, par exemple, de mettre un terme &#224; l’existence de l’ordre de magie local et au r&#232;gne de la reine-&lt;a class=&quot;pagelink&quot; href=&quot;Ensorceleur.html&quot; title=&quot;L&amp;#39;ensorceleur&quot;&gt;ensorceleuse&lt;/a&gt; du pays voisin. De la m&#234;me mani&#232;re, un dessein consistant &#224; &#171; d&#233;fendre les &lt;a class=&quot;pagelink&quot; href=&quot;Elfe.html&quot; title=&quot;Les elfes&quot;&gt;elfes&lt;/a&gt; &#187; ne signifie pas que, si le porteur est &lt;a class=&quot;pagelink&quot; href=&quot;Elfe.html&quot; title=&quot;Les elfes&quot;&gt;elfe&lt;/a&gt;, il cherchera seulement &#224; l’aider. L’objet souhaite &#234;tre utilis&#233; pour d&#233;fendre la cause des &lt;a class=&quot;pagelink&quot; href=&quot;Elfe.html&quot; title=&quot;Les elfes&quot;&gt;elfes&lt;/a&gt; et vaincre leurs ennemis et soutenir leurs chefs. Un dessein de type &#171; vaincre/tuer &#187; ne doit pas &#234;tre interpr&#233;t&#233; comme une manifestation de l’instinct de conservation. L’objet ne trouvera pas le repos (et ne le laissera pas non plus &#224; son possesseur) tant qu’il ne sera pas venu &#224; bout de ses ennemis d&#233;sign&#233;s.&lt;br /&gt;&lt;br /&gt;La Table &quot;Dessein des objets intelligents&quot; ci-dessous propose un certain nombre d’exemples de desseins sp&#233;ciaux. Si le porteur va &#224; l’encontre du dessein sp&#233;cial de son objet ou l’ignore, celui-ci b&#233;n&#233;ficiera d’un bonus de +4 &#224; tous ses tests d’&lt;a class=&quot;pagelink&quot; href=&quot;Objets-Intelligents.html#EGO&quot; title=&quot;Les objets intelligents&quot;&gt;&#233;go&lt;/a&gt;, bonus qui s’ajoute au +2 obtenu gr&#226;ce au dessein sp&#233;cial de l’objet. Ce bonus sera actif tant que le personnage ne coop&#233;rera pas dans l’accomplissement de ce dessein.&lt;br /&gt;&lt;br /&gt;&lt;center&gt;
+&lt;table CLASS=&quot;tablo&quot;&gt;&lt;caption&gt;Dessein des objets intelligents&lt;/caption&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td&gt;1d100&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;Dessein&lt;/td&gt;&lt;td&gt;Modificateur &lt;br/&gt;de l’&#233;go&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier&quot;&gt;&lt;td&gt;01–20&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;Vaincre/tuer les cr&#233;atures d’alignement diam&#233;tralement oppos&#233;*&lt;/td&gt;&lt;td&gt;+2&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;21–30&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;Vaincre/tuer les pratiquants de la &lt;a class=&quot;pagelink&quot; href=&quot;Magie-Profane.html&quot; title=&quot;La magie profane&quot;&gt;magie profane&lt;/a&gt; (ce qui inclut les monstres utilisant des pouvoirs magiques &lt;br/&gt;assimilables aux sorts profanes)&lt;/td&gt;&lt;td&gt;+2&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;31–40&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;Vaincre/tuer les pratiquants de la &lt;a class=&quot;pagelink&quot; href=&quot;Magie-Divine.html&quot; title=&quot;La magie divine&quot;&gt;magie divine&lt;/a&gt; (ce qui inclut les entit&#233;s divines et leurs serviteurs)&lt;/td&gt;&lt;td&gt;+2&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;41–50&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;Vaincre/tuer les cr&#233;atures qui ne pratiquent pas la magie&lt;/td&gt;&lt;td&gt;+2&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;51–55&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;Vaincre/tuer un certain type de cr&#233;atures (voir la propri&#233;t&#233; sp&#233;ciale d’&lt;a class=&quot;pagelink&quot; href=&quot;Armes-Magiques.html#TUEUSE&quot; title=&quot;Les armes magiques&quot;&gt;arme tueuse&lt;/a&gt; pour une liste possible)&lt;/td&gt;&lt;td&gt;+2&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;56–60&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;Vaincre/tuer une certaine race ou esp&#232;ce de cr&#233;atures&lt;/td&gt;&lt;td&gt;+2&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;61–70&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;Prot&#233;ger une certaine race ou esp&#232;ce de cr&#233;atures&lt;/td&gt;&lt;td&gt;+2&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;71–80&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;Vaincre/tuer les serviteurs d’un dieu particulier&lt;/td&gt;&lt;td&gt;+2&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;81–90&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;Prot&#233;ger les serviteurs et les int&#233;r&#234;ts d’un dieu particulier&lt;/td&gt;&lt;td&gt;+2&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;91–95&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;Vaincre/tuer tout le monde (possesseur de l’objet except&#233;)&lt;/td&gt;&lt;td&gt;+2&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;96–100&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;Au choix&lt;/td&gt;&lt;td&gt;+2&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;note&quot;&gt;&lt;td COLSPAN=&quot;3&quot;&gt;(*) Dans ce cas, un objet d’&lt;a class=&quot;pagelink&quot; href=&quot;Objets-Intelligents.html#ALIGNEMENT&quot; title=&quot;Les objets intelligents&quot;&gt;alignement&lt;/a&gt; Neutre a pour dessein de pr&#233;server l’&#233;quilibre. &lt;br/&gt;Ses ennemis jur&#233;s sont donc tous les alignements &#171; extr&#233;mistes &#187; : LB, CB, LM et CM.&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/center&gt;&lt;br /&gt;&lt;br /&gt;&lt;h2 class=&quot;separator&quot;&gt; Pouvoir d&#233;di&#233; au dessein sp&#233;cial &lt;a class=&quot;headeranchor&quot; id=&quot;Pouvoir_d&#233;di&#233;_au_dessein_sp&#233;cial_6&quot; href=&quot;#Pouvoir_d&#233;di&#233;_au_dessein_sp&#233;cial_6&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;Un pouvoir d&#233;di&#233; ne fonctionne que lorsque l’objet tente d’accomplir le &lt;a class=&quot;pagelink&quot; href=&quot;Objets-Intelligents.html#DESSEIN&quot; title=&quot;Les objets intelligents&quot;&gt;dessein&lt;/a&gt; qui est sien. Il s’agit toujours de l’objet qui d&#233;cide si la situation peut justifier qu’il utilise son pouvoir d&#233;di&#233;. Malgr&#233; tout, il ne devrait jamais &#234;tre trop compliqu&#233; de d&#233;terminer les situations o&#249; la fin justifie les moyens. Un objet intelligent peut refuser d’utiliser son pouvoir d&#233;di&#233; (mais pas ses autres pouvoirs) m&#234;me si son porteur lui impose sa volont&#233; (voir &#171; &lt;a class=&quot;pagelink&quot; href=&quot;Objets-Intelligents.html#CONFLITSPERSONNAGEOBJET&quot; title=&quot;Les objets intelligents&quot;&gt;Conflits entre personnage et objets&lt;/a&gt; &#187;). En ce qui concerne les effets, le &lt;a class=&quot;pagelink&quot; href=&quot;Lancer-Des-Sorts.html#NLS&quot; title=&quot;Niveau de lanceur de sorts&quot;&gt;niveau de lanceur de sorts&lt;/a&gt; correspondant est &#233;gal &#224; celui de l’objet. Les &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DEGREDEDIFFICULTE&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; des &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;jet de sauvegarde&quot;&gt;jets de sauvegarde&lt;/a&gt; sont bas&#233;s sur sa caract&#233;ristique mentale la plus &#233;lev&#233;e. Consultez la Table &quot;Pouvoir d&#233;di&#233; au dessein sp&#233;cial des objets intelligents&quot; ci-dessous pour obtenir une liste des pouvoirs d&#233;di&#233;s.&lt;br /&gt;&lt;br /&gt;&lt;center&gt;
+&lt;table CLASS=&quot;tablo&quot;&gt;&lt;caption&gt;Pouvoir d&#233;di&#233; au dessein sp&#233;cial des objets intelligents&lt;/caption&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td&gt;1d100&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;Pouvoir d&#233;di&#233;&lt;/td&gt;&lt;td&gt;Modificateur &lt;br/&gt;au prix de base&lt;/td&gt;&lt;td&gt;Modificateur &lt;br/&gt;de l’&lt;a class=&quot;pagelink&quot; href=&quot;Objets-Intelligents.html#EGO&quot; title=&quot;Les objets intelligents&quot;&gt;&#233;go&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier&quot;&gt;&lt;td&gt;01–20&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;L’objet peut d&#233;tecter un ennemi li&#233; &#224; son &lt;a class=&quot;pagelink&quot; href=&quot;Objets-Intelligents.html#DESSEIN&quot; title=&quot;Les objets intelligents&quot;&gt;dessein&lt;/a&gt; sp&#233;cial sur 20 m&lt;/td&gt;&lt;td&gt;+10 000 po&lt;/td&gt;&lt;td&gt;+1&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;21–35&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;L’objet peut utiliser un sort de 4e niveau &#224; volont&#233;&lt;/td&gt;&lt;td&gt;+56 000 po&lt;/td&gt;&lt;td&gt;+2&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;36–50&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;Le porteur b&#233;n&#233;ficie d’un bonus de chance de +2 sur ses &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDATTAQUE&quot; title=&quot;jet dattaque&quot;&gt;jets d’attaque&lt;/a&gt;&lt;br/&gt; et de &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;jet de sauvegarde&quot;&gt;sauvegarde&lt;/a&gt; et ses &lt;a class=&quot;pagelink&quot; href=&quot;Comp&#233;tences.html#TESTSDECOMPETENCES&quot; title=&quot;test de comp&#233;tence&quot;&gt;tests de comp&#233;tence&lt;/a&gt;&lt;/td&gt;&lt;td&gt;+80 000 po&lt;/td&gt;&lt;td&gt;+2&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;51–65&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;L’objet peut utiliser un sort de 5e niveau &#224; volont&#233;&lt;/td&gt;&lt;td&gt;+90 000 po&lt;/td&gt;&lt;td&gt;+2&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;66–80&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;L’objet peut utiliser un sort de 6e niveau &#224; volont&#233;&lt;/td&gt;&lt;td&gt;+132 000 po&lt;/td&gt;&lt;td&gt;+2&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;81–95&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;L’objet peut utiliser un sort de 7e niveau &#224; volont&#233;&lt;/td&gt;&lt;td&gt;+182 000 po&lt;/td&gt;&lt;td&gt;+2&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;96–100&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;L’objet peut lancer &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;R&#233;surrection-Supr&#234;me.html&quot; title=&quot;R&#233;surrection supr&#234;me&quot;&gt;r&#233;surrection supr&#234;me&lt;/a&gt;&lt;/i&gt; sur son porteur, 1 fois par mois&lt;/td&gt;&lt;td&gt;+200 000 po&lt;/td&gt;&lt;td&gt;+2&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/center&gt;&lt;br /&gt;&lt;br /&gt;&lt;a name=&quot;EGO&quot;&gt;&lt;/a&gt;
+&lt;h2 class=&quot;separator&quot;&gt; &#201;go des objets intelligents &lt;a class=&quot;headeranchor&quot; id=&quot;&#201;go_des_objets_intelligents_7&quot; href=&quot;#&#201;go_des_objets_intelligents_7&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;L’&#233;go d&#233;termine la puissance globale et la force de personnalit&#233; de l’objet. Le calcul de l’&#233;go ne peut &#234;tre fait qu’apr&#232;s avoir d&#233;termin&#233; l’ensemble des pouvoirs de l’objet. Cette donn&#233;e est vitale pour d&#233;terminer qui, de l’objet ou de son possesseur, parvient &#224; s’imposer &#224; l’autre.&lt;br /&gt;&lt;br /&gt;&lt;center&gt;
+&lt;table CLASS=&quot;tablo col1centre&quot;&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td&gt;Valeur de base de l’objet magique&lt;/td&gt;&lt;td&gt;Modificateur de l’&#233;go&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier&quot;&gt;&lt;td&gt;Jusqu’&#224; 1 000 po&lt;/td&gt;&lt;td&gt;8&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;De 1 001 &#224; 5 000 po&lt;/td&gt;&lt;td&gt;+1&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;De 5 001 &#224; 10 000 po&lt;/td&gt;&lt;td&gt;+2&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;De 10 001 &#224; 20 000 po&lt;/td&gt;&lt;td&gt;+3&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;De 20 001 &#224; 50 000 po&lt;/td&gt;&lt;td&gt;+4&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;De 50 001 &#224; 100 000 po&lt;/td&gt;&lt;td&gt;+6&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;De 100 001 &#224; 200 000 po&lt;/td&gt;&lt;td&gt;+8&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;&#192; partir de 200 001 po&lt;/td&gt;&lt;td&gt;+12&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/center&gt;&lt;br /&gt;&lt;br /&gt;&lt;a name=&quot;CONFLITSPERSONNAGEOBJET&quot;&gt;&lt;/a&gt;
+&lt;h2 class=&quot;separator&quot;&gt; Conflit entre personnages et objets &lt;a class=&quot;headeranchor&quot; id=&quot;Conflit_entre_personnages_et_objets_8&quot; href=&quot;#Conflit_entre_personnages_et_objets_8&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;Quand un objet a une valeur d’&lt;a class=&quot;pagelink&quot; href=&quot;Objets-Intelligents.html#EGO&quot; title=&quot;Les objets intelligents&quot;&gt;&#233;go&lt;/a&gt;, il poss&#232;de automatiquement une volont&#233; qui lui est propre. Il respecte les pr&#233;ceptes de son &lt;a class=&quot;pagelink&quot; href=&quot;Objets-Intelligents.html#ALIGNEMENT&quot; title=&quot;Les objets intelligents&quot;&gt;alignement&lt;/a&gt;, sans jamais en d&#233;vier. Si le personnage est moins fid&#232;le &#224; ces principes, il s’ensuit un conflit entre son objet et lui. De la m&#234;me mani&#232;re, un objet ayant au moins 20 en &lt;a class=&quot;pagelink&quot; href=&quot;Objets-Intelligents.html#EGO&quot; title=&quot;Les objets intelligents&quot;&gt;&#233;go&lt;/a&gt; se consid&#232;re toujours comme sup&#233;rieur &#224; son possesseur. Ici &#233;galement, un conflit s’ensuit si l’aventurier refuse de faire tout ce que lui dit l’objet.&lt;br /&gt;&lt;br /&gt;Dans ce cas, le personnage doit effectuer un jet de &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;Volont&#233;&quot;&gt;Volont&#233;&lt;/a&gt; dont le &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DEGREDEDIFFICULTE&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; est &#233;gal &#224; la valeur d’&lt;a class=&quot;pagelink&quot; href=&quot;Objets-Intelligents.html#EGO&quot; title=&quot;Les objets intelligents&quot;&gt;&#233;go&lt;/a&gt; de l’objet. Dans le cas d’une r&#233;ussite, il parvient &#224; imposer sa volont&#233; &#224; l’objet. Dans le cas contraire, l’inverse se produit. Cet &#233;tat de fait se poursuit une journ&#233;e durant, sauf cas de force majeure (bataille d’importance, situation mena&#231;ant l’objet ou la vie de l’aventurier, etc.). Le domin&#233; a dans une telle situation une nouvelle chance de prendre le dessus (cela se traduit par un nouveau jet de &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;Volont&#233;&quot;&gt;Volont&#233;&lt;/a&gt;). Quand l’objet est le partenaire dominant de la relation, il r&#233;siste aux souhaits de son possesseur et exige des concessions telles que les suivantes. Le personnage doit :
+&lt;ul&gt;&lt;li&gt;Se s&#233;parer de ses alli&#233;s ou de ses objets dont l’alignement ou la personnalit&#233; ne convient pas &#224; l’objet.&lt;/li&gt;&lt;li&gt;Se d&#233;barrasser de tous ses autres objets (ou de tous les objets d’un certain type).&lt;/li&gt;&lt;li&gt;Ob&#233;ir &#224; l’objet, qui lui indique o&#249; aller et comment se comporter.&lt;/li&gt;&lt;li&gt;Rechercher et tuer sans attendre les ennemis jur&#233;s de l’objet.&lt;/li&gt;&lt;li&gt;&#201;riger des d&#233;fenses magiques autour de l’objet afin de le prot&#233;ger quand il ne sert pas.&lt;/li&gt;&lt;li&gt;Toujours avoir l’objet avec lui, quelles que soient les circonstances.&lt;/li&gt;&lt;li&gt;Confier l’objet &#224; un possesseur qui en sera plus digne (en fonction de son alignement ou de son comportement).&lt;br /&gt;&lt;/li&gt;&lt;/ul&gt;&lt;br /&gt;Dans les cas extr&#234;mes, l’objet peut prendre des mesures plus radicales encore :
+&lt;ul&gt;&lt;li&gt;Obliger son possesseur &#224; se ruer au combat.&lt;/li&gt;&lt;li&gt;Refuser de combattre.&lt;/li&gt;&lt;li&gt;Frapper son possesseur ou les alli&#233;s de ce dernier.&lt;/li&gt;&lt;li&gt;Forcer son possesseur &#224; se rendre &#224; l’ennemi.&lt;/li&gt;&lt;li&gt;S’arranger pour &#233;chapper &#224; son propri&#233;taire.&lt;br /&gt;&lt;/li&gt;&lt;/ul&gt;&lt;br /&gt;&#201;videmment, de telles mesures n’ont aucune raison d’&#234;tre si l’harmonie r&#232;gne entre le personnage et l’objet, tant sur le plan de l’alignement que sur celui du comportement et de leurs objectifs &#224; plus ou moins long terme. Selon la personnalit&#233; des objets, certains pr&#233;f&#232;rent avoir un possesseur suffisamment faible pour pouvoir lui imposer leurs vues, ou au contraire le plus puissant possible pour avoir davantage de chances de mener leurs desseins &#224; bien.&lt;br /&gt;&lt;br /&gt;Tous les objets magiques intelligents tiennent &#224; avoir un r&#244;le important dans ce qui se passe, surtout au moment du combat. Entre eux, ils se consid&#232;rent toujours comme des rivaux, m&#234;me dans le cas o&#249; ils poss&#232;dent le m&#234;me &lt;a class=&quot;pagelink&quot; href=&quot;Objets-Intelligents.html#ALIGNEMENT&quot; title=&quot;Les objets intelligents&quot;&gt;alignement&lt;/a&gt;. Ils refusent de partager leur propri&#233;taire avec d’autres. Les objets intelligents se rep&#232;rent mutuellement &#224; dix-huit m&#232;tres de distance, et la plupart veillent autant que faire se peut &#224; inciter leur possesseur &#224; d&#233;truire leurs rivaux. L’&lt;a class=&quot;pagelink&quot; href=&quot;Objets-Intelligents.html#ALIGNEMENT&quot; title=&quot;Les objets intelligents&quot;&gt;alignement&lt;/a&gt; de l’objet doit bien &#233;videmment &#234;tre pris en compte.&lt;br /&gt;&lt;br /&gt;Les objets dot&#233;s d’une personnalit&#233; ne sont jamais totalement contr&#244;l&#233;s par leur possesseur, m&#234;me s’ils sont trop faibles pour s’imposer &#224; lui. M&#234;me s’ils sont incapables de prendre le dessus sur leur propri&#233;taire, ils n’en continuent pas moins de lui faire savoir leurs exigences. 
+]]></body>
+  <raw><![CDATA[{toc}
+
+Certains objets possèdent une intelligence qui leur est propre. Rendus conscients grâce processus qui leur a donné leurs propriétés magiques, ils pensent et ressentent des émotions comme tout le monde, et devraient ainsi être considérés comme des [[PNJ]]. Les objets intelligents peuvent posséder des pouvoirs mineurs ou majeurs, ainsi que, quelquefois, des capacités extraordinaires ou des [[Objets intelligents#DESSEIN|desseins]] spécifiques. Seuls les objets permanents peuvent être intelligents, pas ceux qui sont à charges ou à usage unique (cela signifie que les [[potions magiques|potions]], [[potions magiques|huiles]], [[parchemins magiques|parchemins]] et [[baguettes magiques|baguettes]], entre autres, ne sont jamais intelligents). En règle générale, moins de 1% des objets magiques sont intelligents.
+
+Les objets intelligents peuvent être considérés comme des créatures à part entière puisqu’ils possèdent des valeurs d’[[Intelligence]], de [[Sagesse]] et de [[Charisme]]. Ils sont à traiter comme des [[type créature artificielle|créatures artificielles]]. Beaucoup d’objets intelligents ont le pouvoir de générer de la lumière (comme certaines [[armes magiques]]), et la plupart ne pourraient pas voir sans cela.
+
+Contrairement à la plupart des objets magiques ordinaires, les objets intelligents ont la possibilité d’activer eux-mêmes leurs pouvoirs, sans qu’il soit nécessaire à leur utilisateur de prononcer un [[mot de commande]].
+
+=== Créer un objet intelligent ===
+Créer un objet intelligent n’est guère compliqué, il suffit de suivre ces quelques conseils. Les objets magiques intelligents doivent avoir un [[Objets intelligents#ALIGNEMENT|alignement]], des [[Objets intelligents#CARACTERISTIQUES|caractéristiques mentales]], des [[Objets intelligents#LANGUES|langues]], des sens et au moins un autre [[Objets intelligents#POUVOIRSSPECIAUX|pouvoir spécial]]. Ces différentes statistiques peuvent être améliorées durant la phase de création, ce qui augmente la valeur totale de l’objet, mais également son [[objets intelligents#EGO|score d’égo]]. Un objet magique intelligent pourvu d’un [[objets intelligents#EGO|égo]] élevé sera difficile à maîtriser, et il peut parfois même prendre le contrôle de son porteur. Cela le rend d’autant plus dangereux.
+
+Le prix de base d’un objet magique augmente de 500 po s’il est intelligent. Quand vous calculerez la valeur d’un tel objet, commencez d’abord par ajouter ce prix de base au prix total des pouvoirs obtenus par sa nature d’objet intelligent. Ensuite seulement, ajoutez le prix de base de l’objet magique lui-même.
+
+{s:Reference|ALIGNEMENT}
+=== Alignement des objets intelligents ===
+
+Un objet intelligent possède automatiquement un alignement (voir la Table "Alignement des objets" ci-dessous). Dans le cas de certaines armes, principalement, l’alignement de l’objet est déjà déterminé par sa nature ou par sa fonction, au moins en partie. Dans le cas d’une création d’arme intelligente de façon aléatoire, n’oubliez pas que l’alignement de celle-ci doit prendre en compte certaines de ses propriétés spéciales.
+
+<center>
+{| CLASS="tablo"
+|+ Alignement des objets
+|- CLASS="titre"
+| 1d100
+| Alignement de l’objet
+|- CLASS="premier"
+| 01–10
+| Chaotique Bon
+|- CLASS="alt"
+| 11–20
+| Chaotique Neutre*
+|-
+| 21–35
+| Chaotique Mauvais
+|- CLASS="alt"
+| 36–45
+| Neutre Mauvais*
+|-
+| 46–55
+| Loyal Mauvais
+|- CLASS="alt"
+| 56–70
+| Loyal Bon
+|-
+| 71–80
+| Loyal Neutre*
+|- CLASS="alt"
+| 81–90
+| Neutre Bon*
+|-
+| 91–100
+| Neutre
+|- CLASS="note"
+| COLSPAN="2" | (*) Cet objet peut également être utilisé par tout personnage <br/>dont l’alignement correspond à la partie non neutre de <br/>l’alignement de l’objet.
+|}
+</center>
+
+Chaque fois qu’un personnage prend en main ou équipe un objet intelligent dont l’alignement ne correspond pas au sien (hors cas indiqués par un astérisque dans la table), il acquiert un [[niveau négatif]]. Celui-ci n’entraîne jamais une perte de niveau effective, mais il faut se débarrasser de l’objet pour la résorber (même les sorts tels que ''[[restauration]]'' restent inefficaces). Ce [[niveau négatif]] s’ajoute à tous les handicaps que l’objet peut infliger à son porteur. En cas de différence d’alignement, un objet ayant un [[objets intelligents#EGO|égo]] compris entre 20 et 29 transmet deux [[niveau négatif|niveaux négatifs]] à son porteur, et trois [[niveau négatif|niveaux négatifs]] pour un objet dont l’égo est au moins égal à 30.
+
+{s:Reference|CARACTERISTIQUES}
+=== Caractéristiques de objets intelligents ===
+Les objets intelligences possèdent les trois caractéristiques mentales : l’[[Intelligence]], la [[Sagesse]] et le [[Charisme]]. Ces trois caractéristiques démarrent à 10, mais peuvent grimper jusqu’à un score de 20. La Table "Caractéristiques des objets intelligents' (ci-dessous) indique les coûts des caractéristiques dépassant 10. Ce coût doit être payé pour chaque caractéristique ainsi augmentée. Par exemple, un objet magique intelligent possédant une [[Intelligence]] de 15, une [[Sagesse]] de 12 et un [[Charisme]] de 10 coûterait au moins 2 400 po de plus que l’objet de base (en incluant les 500 po liés au fait d’être un objet intelligent). 
+
+<center>
+{| CLASS="tablo"
+|+ Caractéristiques des objets intelligents
+|- CLASS="titre"
+| Score
+| Modificateur du prix de base
+| Modificateur de l’[[Objets intelligents#EGO|égo]]
+|- CLASS="premier"
+| 10
+| —
+| —
+|- CLASS="alt"
+| 11
+| +200 po
+| —
+|-
+| 12
+| +500 po
+| +1
+|- CLASS="alt"
+| 13
+| +700 po
+| +1
+|-
+| 14
+| +1 000 po
+| +2
+|- CLASS="alt"
+| 15
+| +1 400 po
+| +2
+|-
+| 16
+| +2 000 po
+| +3
+|- CLASS="alt"
+| 17
+| +2 800 po
+| +3
+|-
+| 18
+| +4 000 po
+| +4
+|- CLASS="alt"
+| 19
+| +5 200 po
+| +4
+|-
+| 20
+| +8 000 po
+| +5
+|}
+</center>
+
+{s:Reference|LANGUES}
+=== Langues parlées par les objets ===
+
+<div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
+<div style="border: 1px solid #4b3124; padding: 4px">
+<center>
+{| CLASS="tablo"
+|+ Sens et communication des objets intelligents
+|- CLASS="titre"
+| Capacité
+| Modificateur du prix de base
+| Modificateur de l’[[Objets intelligents#EGO|égo]]
+|- CLASS="premier"
+| Empathie
+| —
+| —
+|- CLASS="alt"
+| Parole
+| +500 po
+| —
+|-
+| Télépathie
+| +1 000 po
+| +1
+|- CLASS="alt"
+| Sens (10m)
+| —
+| —
+|-
+| Sens (20m)
+| +500 po
+| —
+|- CLASS="alt"
+| Sens (40m)
+| +1 000 po
+| —
+|-
+| [[Vision dans le noir]]
+| +500 po
+| —
+|- CLASS="alt"
+| [[Vision aveugle]]
+| +5 000 po
+| +1
+|-
+| Lecture des langues
+| +1 000 po
+| +1
+|- CLASS="alt"
+| ''[[Lecture de la magie]]''
+| +2 000 po
+| +1
+|}
+</center></div></div>Tous les objets magiques intelligents bénéficient de la capacité de voir et d’entendre dans un rayon de 10 m, ainsi que de celle de pouvoir communiquer par empathie avec leur porteur. Cependant, l’empathie ne leur permet que d’encourager ou de décourager certaines actions par le biais d’envies et d’émotions. D’autres formes de communication et des sens améliorés augmentent le coût et l’[[Objets intelligents#EGO|égo]] de l’objet, comme spécifié dans la Table "Sens et communication des objets intelligents" ci-dessous.
+
+'''Empathie (Sur).''' La capacité d’encourager ou de décourager certaines actions grâce à la communication d’envies et d’émotions. Elle ne permet nullement de parler.
+
+'''Parole (Sur).''' La capacité de parler en utilisant les langues connues par l’objet.
+
+'''Télépathie (Sur).''' La capacité de communiquer par la pensée, sans tenir compte des langues connues. Le porteur doit toucher l’objet pour ce faire.
+
+'''Sens.''' La faculté de voir et d’entendre jusqu’à une certaine distance. La [[vision dans le noir]] et la [[vision aveugle]] permettent à l’objet d’utiliser ses sens de la même manière et sur la même distance.
+
+{s:Reference|POUVOIRSSPECIAUX}
+=== Pouvoirs des objets intelligents ===
+Chaque objet intelligent doit avoir au moins un pouvoir, et les plus puissants en ont certainement beaucoup plus. Utilisez la Table "Pouvoirs des objets intelligents" ci-dessous pour les choisir ou les déterminer au hasard. Tous les pouvoirs fonctionnent si et quand l’objet le souhaite. Cependant, les objets intelligents obéissent généralement aux souhaits de leur propriétaire. Activer un pouvoir ou se concentrer sur un pouvoir actif nécessite une [[action simple]], laquelle est effectuée par l’objet lui-même. En ce qui concerne les effets, le [[niveau de lanceur de sorts]] correspondant est égal à celui de l’objet. Les [[DD]] des [[jet de sauvegarde|jets de sauvegarde]] sont basés sur sa caractéristique mentale la plus élevée de l’objet.
+
+<center>
+{| CLASS="tablo"
+|+ Pouvoirs des objets intelligents
+|- CLASS="titre"
+| 1d100
+| CLASS="gauche" | Pouvoir
+| Modificateur au prix de base
+| Modificateur de l’égo
+|- CLASS="premier"
+| 01–10
+| CLASS="gauche" | L’objet peut lancer 1 sort de niveau 0 à volonté
+| +1 000 po
+| +1
+|- CLASS="alt"
+| 11–20
+| CLASS="gauche" | L’objet peut lancer 1 sort du 1er niveau, 3 fois par jour
+| +1 200 po
+| +1
+|-
+| 21–25
+| CLASS="gauche" | L’objet peut lancer ''[[aura magique]]'' sur lui-même, à volonté
+| +2 000 po
+| +1
+|- CLASS="alt"
+| 26-35
+| CLASS="gauche" | L’objet peut lancer 1 sort du 2e niveau, 3 fois par jour
+| +2 400 po
+| +1
+|-
+| 36-45
+| CLASS="gauche" | L’objet a un degré de maîtrise de 5 dans une compétence*
+| +2 500 po
+| +1
+|- CLASS="alt"
+| 46–50
+| CLASS="gauche" | L’objet peut se faire pousser des membres et se déplacer à une vitesse de 3 m
+| +5 000 po
+| +1
+|-
+| 51-55
+| CLASS="gauche" | L’objet peut lancer 1 sort du 3e niveau, 1 fois par jour
+| +6 000 po
+| +1
+|- CLASS="alt"
+| 56-60
+| CLASS="gauche" | L’objet peut lancer 1 sort du 2e niveau, 3 fois par jour
+| +7 200 po
+| +1
+|-
+| 61-70
+| CLASS="gauche" | L’objet a un degré de maîtrise de 10 dans une compétence*
+| +10 000 po
+| +2
+|- CLASS="alt"
+| 71-75
+| CLASS="gauche" | L’objet peut se transformer en un autre objet de même taille
+| +10 000 po
+| +2
+|-
+| 76–80
+| CLASS="gauche" | L’objet peut voler à une vitesse de 10 m, comme avec le sort ''[[vol]]''
+| +10 000 po
+| +2
+|- CLASS="alt"
+| 81–85
+| CLASS="gauche" | L’objet peut lancer 1 sort du 4e niveau, 1 fois par jour
+| +11 200 po
+| +2
+|-
+| 86–90
+| CLASS="gauche" | L’objet peut se téléporter, 1 fois par jour, comme avec le sort ''[[téléportation]]''
+| +15 000 po
+| +2
+|- CLASS="alt"
+| 91–95
+| CLASS="gauche" | L’objet peut lancer 1 sort du 3e niveau, 3 fois par jour
+| +18 000 po
+| +2
+|-
+| 96-100
+| CLASS="gauche" | L’objet peut lancer 1 sort du 4e niveau, 3 fois par jour
+| +33 600 po
+| +2
+|- CLASS="note"
+| COLSPAN="4" | (*) Les objets intelligents ne peuvent avoir que des compétences dont la caractéristique liée est l’[[Intelligence]], la [[Sagesse]] ou le [[Charisme]], <br/>à moins qu’ils aient la capacité de se déplacer.
+|}
+</center>
+
+{s:Reference|DESSEIN}
+=== Objets créés dans un dessein spécial ===
+Certains objets magiques intelligents poursuivent un but qui guide leurs actions, et à ce titre bénéficient d’un bonus d’[[Objets intelligents#EGO|égo]] de +2. Le dessein dans lequel un objet a été créé doit correspondre à sa nature et à son [[Objets intelligents#ALIGNEMENT|alignement]]. De plus, sachez garder le comportement de l’objet dans les limites du raisonnable. Un dessein visant à « tuer les lanceurs de sorts profanes » ne signifie pas que l’objet oblige son possesseur à attaquer tous les [[magicien|magiciens]], [[barde|bardes]] et [[ensorceleur|ensorceleurs]] qu’il croise (ni même que l’objet pense qu’une telle tâche est possible). Par contre, il hait suffisamment les pratiquants de la [[magie profane]] pour avoir décidé, par exemple, de mettre un terme à l’existence de l’ordre de magie local et au règne de la reine-[[ensorceleur|ensorceleuse]] du pays voisin. De la même manière, un dessein consistant à « défendre les [[elfe|elfes]] » ne signifie pas que, si le porteur est [[elfe]], il cherchera seulement à l’aider. L’objet souhaite être utilisé pour défendre la cause des [[elfe|elfes]] et vaincre leurs ennemis et soutenir leurs chefs. Un dessein de type « vaincre/tuer » ne doit pas être interprété comme une manifestation de l’instinct de conservation. L’objet ne trouvera pas le repos (et ne le laissera pas non plus à son possesseur) tant qu’il ne sera pas venu à bout de ses ennemis désignés.
+
+La Table "Dessein des objets intelligents" ci-dessous propose un certain nombre d’exemples de desseins spéciaux. Si le porteur va à l’encontre du dessein spécial de son objet ou l’ignore, celui-ci bénéficiera d’un bonus de +4 à tous ses tests d’[[Objets intelligents#EGO|égo]], bonus qui s’ajoute au +2 obtenu grâce au dessein spécial de l’objet. Ce bonus sera actif tant que le personnage ne coopérera pas dans l’accomplissement de ce dessein.
+
+<center>
+{| CLASS="tablo"
+|+ Dessein des objets intelligents
+|- CLASS="titre"
+| 1d100
+| CLASS="gauche" | Dessein
+| Modificateur <br/>de l’égo
+|- CLASS="premier"
+| 01–20
+| CLASS="gauche" | Vaincre/tuer les créatures d’alignement diamétralement opposé*
+| +2
+|- CLASS="alt"
+| 21–30
+| CLASS="gauche" | Vaincre/tuer les pratiquants de la [[magie profane]] (ce qui inclut les monstres utilisant des pouvoirs magiques <br/>assimilables aux sorts profanes)
+| +2
+|- CLASS="alt"
+| 31–40
+| CLASS="gauche" | Vaincre/tuer les pratiquants de la [[magie divine]] (ce qui inclut les entités divines et leurs serviteurs)
+| +2
+|-
+| 41–50
+| CLASS="gauche" | Vaincre/tuer les créatures qui ne pratiquent pas la magie
+| +2
+|- CLASS="alt"
+| 51–55
+| CLASS="gauche" | Vaincre/tuer un certain type de créatures (voir la propriété spéciale d’[[Armes magiques#TUEUSE|arme tueuse]] pour une liste possible)
+| +2
+|-
+| 56–60
+| CLASS="gauche" | Vaincre/tuer une certaine race ou espèce de créatures
+| +2
+|- CLASS="alt"
+| 61–70
+| CLASS="gauche" | Protéger une certaine race ou espèce de créatures
+| +2
+|-
+| 71–80
+| CLASS="gauche" | Vaincre/tuer les serviteurs d’un dieu particulier
+| +2
+|- CLASS="alt"
+| 81–90
+| CLASS="gauche" | Protéger les serviteurs et les intérêts d’un dieu particulier
+| +2
+|-
+| 91–95
+| CLASS="gauche" | Vaincre/tuer tout le monde (possesseur de l’objet excepté)
+| +2
+|- CLASS="alt"
+| 96–100
+| CLASS="gauche" | Au choix
+| +2
+|- CLASS="note"
+| COLSPAN="3" | (*) Dans ce cas, un objet d’[[Objets intelligents#ALIGNEMENT|alignement]] Neutre a pour dessein de préserver l’équilibre. <br/>Ses ennemis jurés sont donc tous les alignements « extrémistes » : LB, CB, LM et CM.
+|}
+</center>
+
+=== Pouvoir dédié au dessein spécial ===
+Un pouvoir dédié ne fonctionne que lorsque l’objet tente d’accomplir le [[Objets intelligents#DESSEIN|dessein]] qui est sien. Il s’agit toujours de l’objet qui décide si la situation peut justifier qu’il utilise son pouvoir dédié. Malgré tout, il ne devrait jamais être trop compliqué de déterminer les situations où la fin justifie les moyens. Un objet intelligent peut refuser d’utiliser son pouvoir dédié (mais pas ses autres pouvoirs) même si son porteur lui impose sa volonté (voir « [[Objets intelligents#CONFLITSPERSONNAGEOBJET|Conflits entre personnage et objets]] »). En ce qui concerne les effets, le [[niveau de lanceur de sorts]] correspondant est égal à celui de l’objet. Les [[DD]] des [[jet de sauvegarde|jets de sauvegarde]] sont basés sur sa caractéristique mentale la plus élevée. Consultez la Table "Pouvoir dédié au dessein spécial des objets intelligents" ci-dessous pour obtenir une liste des pouvoirs dédiés.
+
+<center>
+{| CLASS="tablo"
+|+ Pouvoir dédié au dessein spécial des objets intelligents
+|- CLASS="titre"
+| 1d100
+| CLASS="gauche" | Pouvoir dédié
+| Modificateur <br/>au prix de base
+| Modificateur <br/>de l’[[Objets intelligents#EGO|égo]]
+|- CLASS="premier"
+| 01–20
+| CLASS="gauche" | L’objet peut détecter un ennemi lié à son [[Objets intelligents#DESSEIN|dessein]] spécial sur 20 m
+| +10 000 po
+| +1
+|- CLASS="alt"
+| 21–35
+| CLASS="gauche" | L’objet peut utiliser un sort de 4e niveau à volonté
+| +56 000 po
+| +2
+|-
+| 36–50
+| CLASS="gauche" | Le porteur bénéficie d’un bonus de chance de +2 sur ses [[jet dattaque|jets d’attaque]]<br/> et de [[jet de sauvegarde|sauvegarde]] et ses [[test de compétence|tests de compétence]]
+| +80 000 po
+| +2
+|- CLASS="alt"
+| 51–65
+| CLASS="gauche" | L’objet peut utiliser un sort de 5e niveau à volonté
+| +90 000 po
+| +2
+|-
+| 66–80
+| CLASS="gauche" | L’objet peut utiliser un sort de 6e niveau à volonté
+| +132 000 po
+| +2
+|- CLASS="alt"
+| 81–95
+| CLASS="gauche" | L’objet peut utiliser un sort de 7e niveau à volonté
+| +182 000 po
+| +2
+|-
+| 96–100
+| CLASS="gauche" | L’objet peut lancer ''[[résurrection suprême]]'' sur son porteur, 1 fois par mois
+| +200 000 po
+| +2
+|}
+</center>
+
+{s:Reference|EGO}
+=== Égo des objets intelligents ===
+L’égo détermine la puissance globale et la force de personnalité de l’objet. Le calcul de l’égo ne peut être fait qu’après avoir déterminé l’ensemble des pouvoirs de l’objet. Cette donnée est vitale pour déterminer qui, de l’objet ou de son possesseur, parvient à s’imposer à l’autre.
+
+<center>
+{| CLASS="tablo col1centre"
+|- CLASS="titre"
+| Valeur de base de l’objet magique
+| Modificateur de l’égo
+|- CLASS="premier"
+| Jusqu’à 1 000 po
+| 8
+|- CLASS="alt"
+| De 1 001 à 5 000 po
+| +1
+|-
+| De 5 001 à 10 000 po
+| +2
+|- CLASS="alt"
+| De 10 001 à 20 000 po
+| +3
+|-
+| De 20 001 à 50 000 po
+| +4
+|- CLASS="alt"
+| De 50 001 à 100 000 po
+| +6
+|-
+| De 100 001 à 200 000 po
+| +8
+|- CLASS="alt"
+| À partir de 200 001 po
+| +12
+|}
+</center>
+
+{s:Reference|CONFLITSPERSONNAGEOBJET}
+=== Conflit entre personnages et objets ===
+Quand un objet a une valeur d’[[Objets intelligents#EGO|égo]], il possède automatiquement une volonté qui lui est propre. Il respecte les préceptes de son [[Objets intelligents#ALIGNEMENT|alignement]], sans jamais en dévier. Si le personnage est moins fidèle à ces principes, il s’ensuit un conflit entre son objet et lui. De la même manière, un objet ayant au moins 20 en [[Objets intelligents#EGO|égo]] se considère toujours comme supérieur à son possesseur. Ici également, un conflit s’ensuit si l’aventurier refuse de faire tout ce que lui dit l’objet.
+
+Dans ce cas, le personnage doit effectuer un jet de [[Volonté]] dont le [[DD]] est égal à la valeur d’[[Objets intelligents#EGO|égo]] de l’objet. Dans le cas d’une réussite, il parvient à imposer sa volonté à l’objet. Dans le cas contraire, l’inverse se produit. Cet état de fait se poursuit une journée durant, sauf cas de force majeure (bataille d’importance, situation menaçant l’objet ou la vie de l’aventurier, etc.). Le dominé a dans une telle situation une nouvelle chance de prendre le dessus (cela se traduit par un nouveau jet de [[Volonté]]). Quand l’objet est le partenaire dominant de la relation, il résiste aux souhaits de son possesseur et exige des concessions telles que les suivantes. Le personnage doit :
+* Se séparer de ses alliés ou de ses objets dont l’alignement ou la personnalité ne convient pas à l’objet.
+* Se débarrasser de tous ses autres objets (ou de tous les objets d’un certain type).
+* Obéir à l’objet, qui lui indique où aller et comment se comporter.
+* Rechercher et tuer sans attendre les ennemis jurés de l’objet.
+* Ériger des défenses magiques autour de l’objet afin de le protéger quand il ne sert pas.
+* Toujours avoir l’objet avec lui, quelles que soient les circonstances.
+* Confier l’objet à un possesseur qui en sera plus digne (en fonction de son alignement ou de son comportement).
+
+Dans les cas extrêmes, l’objet peut prendre des mesures plus radicales encore :
+* Obliger son possesseur à se ruer au combat.
+* Refuser de combattre.
+* Frapper son possesseur ou les alliés de ce dernier.
+* Forcer son possesseur à se rendre à l’ennemi.
+* S’arranger pour échapper à son propriétaire.
+
+Évidemment, de telles mesures n’ont aucune raison d’être si l’harmonie règne entre le personnage et l’objet, tant sur le plan de l’alignement que sur celui du comportement et de leurs objectifs à plus ou moins long terme. Selon la personnalité des objets, certains préfèrent avoir un possesseur suffisamment faible pour pouvoir lui imposer leurs vues, ou au contraire le plus puissant possible pour avoir davantage de chances de mener leurs desseins à bien.
+
+Tous les objets magiques intelligents tiennent à avoir un rôle important dans ce qui se passe, surtout au moment du combat. Entre eux, ils se considèrent toujours comme des rivaux, même dans le cas où ils possèdent le même [[Objets intelligents#ALIGNEMENT|alignement]]. Ils refusent de partager leur propriétaire avec d’autres. Les objets intelligents se repèrent mutuellement à dix-huit mètres de distance, et la plupart veillent autant que faire se peut à inciter leur possesseur à détruire leurs rivaux. L’[[Objets intelligents#ALIGNEMENT|alignement]] de l’objet doit bien évidemment être pris en compte.
+
+Les objets dotés d’une personnalité ne sont jamais totalement contrôlés par leur possesseur, même s’ils sont trop faibles pour s’imposer à lui. Même s’ils sont incapables de prendre le dessus sur leur propriétaire, ils n’en continuent pas moins de lui faire savoir leurs exigences. ]]></raw>
+  <fullName>Pathfinder-RPG.Objets intelligents</fullName>
+</wikiPage>

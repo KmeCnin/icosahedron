@@ -1,0 +1,60 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Pouvoir magique renforcé</title>
+  <categories></categories>
+  <lastModified>2013-10-12 08:05:57Z</lastModified>
+  <version>1</version>
+  <inLinks><link>Pathfinder-RPG.Shedu</link></inLinks>
+  <outLinks></outLinks>
+  <body><![CDATA[&lt;i&gt;L’un des pouvoirs magiques de cette cr&#233;ature est particuli&#232;rement puissant.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Condition.&lt;/b&gt; Pouvoir sp&#233;cial avec un niveau de lanceur de sorts de 6 ou plus.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Avantage.&lt;/b&gt; Choisissez l’un des pouvoirs magiques de la cr&#233;ature sujet aux restrictions d&#233;crites dans ce don. La cr&#233;ature peut utiliser ce pouvoir magique comme un pouvoir magique renforc&#233; trois fois par jour (ou moins, si le pouvoir n’est normalement utilisable qu’une ou deux fois par jour). Lorsqu’une cr&#233;ature utilise un pouvoir magique renforc&#233;, tous les effets num&#233;riques variables du pouvoir sont augment&#233;s de moiti&#233; (+50%). Les jets de sauvegarde et les jets oppos&#233;s ne sont pas affect&#233;s. Les pouvoirs magiques n’ayant pas de variables al&#233;atoires ne sont pas affect&#233;s. La cr&#233;ature ne peut choisir qu’un pouvoir magique reproduisant les effets d’un sort de niveau inf&#233;rieur ou &#233;gal &#224; 1/2 son NLS (arrondi &#224; l’inf&#233;rieur) -2.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Sp&#233;cial.&lt;/b&gt; Ce don peut &#234;tre s&#233;lectionn&#233; &#224; plusieurs reprises mais s’applique chaque fois &#224; un pouvoir magique diff&#233;rent.&lt;br /&gt;&lt;br /&gt;&lt;center&gt;
+&lt;table CLASS=&quot;tablo&quot; WIDTH=&quot;50%&quot;&gt;&lt;caption&gt;Pouvoirs magiques &#224; effets renforc&#233;s&lt;/caption&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td&gt;Niveau du sort&lt;/td&gt;&lt;td&gt;NLS minimal pour utilisation renforc&#233;&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier&quot;&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;1 &lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;8&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;12&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;14&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;16&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;7&lt;/td&gt;&lt;td&gt;18&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;8&lt;/td&gt;&lt;td&gt;20&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;9&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/center&gt;
+]]></body>
+  <raw><![CDATA[''L’un des pouvoirs magiques de cette créature est particulièrement puissant.''
+
+'''Condition.''' Pouvoir spécial avec un niveau de lanceur de sorts de 6 ou plus.
+
+'''Avantage.''' Choisissez l’un des pouvoirs magiques de la créature sujet aux restrictions décrites dans ce don. La créature peut utiliser ce pouvoir magique comme un pouvoir magique renforcé trois fois par jour (ou moins, si le pouvoir n’est normalement utilisable qu’une ou deux fois par jour). Lorsqu’une créature utilise un pouvoir magique renforcé, tous les effets numériques variables du pouvoir sont augmentés de moitié (+50%). Les jets de sauvegarde et les jets opposés ne sont pas affectés. Les pouvoirs magiques n’ayant pas de variables aléatoires ne sont pas affectés. La créature ne peut choisir qu’un pouvoir magique reproduisant les effets d’un sort de niveau inférieur ou égal à 1/2 son NLS (arrondi à l’inférieur) -2.
+
+'''Spécial.''' Ce don peut être sélectionné à plusieurs reprises mais s’applique chaque fois à un pouvoir magique différent.
+
+<center>
+{| CLASS="tablo" WIDTH="50%"
+|+ Pouvoirs magiques à effets renforcés
+|- CLASS="titre"
+| Niveau du sort
+| NLS minimal pour utilisation renforcé
+|- CLASS="premier"
+| 0
+| 4
+|- CLASS="alt"
+| 1 
+| 6
+|-
+| 2
+| 8
+|- CLASS="alt"
+| 3
+| 10
+|-
+| 4
+| 12
+|- CLASS="alt"
+| 5
+| 14
+|-
+| 6
+| 16
+|- CLASS="alt"
+| 7
+| 18
+|-
+| 8
+| 20
+|- CLASS="alt"
+| 9
+| —
+|}
+</center>]]></raw>
+  <fullName>Pathfinder-RPG.Pouvoir magique renforcé</fullName>
+</wikiPage>

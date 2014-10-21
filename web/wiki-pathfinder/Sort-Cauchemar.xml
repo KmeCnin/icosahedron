@@ -1,0 +1,84 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Cauchemar</title>
+  <categories><category>Pathfinder-RPG.Manuel des joueurs</category><category>Pathfinder-RPG.Règles officielles</category><category>Pathfinder-RPG.Sort</category><category>Pathfinder-RPG.Sort barde 5</category><category>Pathfinder-RPG.Sort magicien 5</category></categories>
+  <lastModified>2010-08-21 12:03:17Z</lastModified>
+  <version>1</version>
+  <inLinks><link>Pathfinder-RPG.Baku</link><link>Pathfinder-RPG.Cauchemar</link><link>Pathfinder-RPG.Domaine de la Folie</link><link>Pathfinder-RPG.Glossaire des sorts</link><link>Pathfinder-RPG.lignage Maudit</link><link>Pathfinder-RPG.Liste des formules dalchimiste</link><link>Pathfinder-RPG.Liste des sorts</link><link>Pathfinder-RPG.Liste des sorts de bardes</link><link>Pathfinder-RPG.Liste des sorts densorceleursmagiciens</link><link>Pathfinder-RPG.maléfices</link><link>Pathfinder-RPG.Maléfices temporaires</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Cauchemar</link><link>Pathfinder-RPG.Illusion</link><link>Pathfinder-RPG.fantasme</link><link>Pathfinder-RPG.Registre</link><link>Pathfinder-RPG.Barde</link><link>Pathfinder-RPG.Ensorceleur</link><link>Pathfinder-RPG.Magicien</link><link>Pathfinder-RPG.composantes</link><link>Pathfinder-RPG.illimitée</link><link>Pathfinder-RPG.instantanée</link><link>Pathfinder-RPG.Volonté</link><link>Pathfinder-RPG.Présentation des sorts</link><link>Pathfinder-RPG.points de vie</link><link>Pathfinder-RPG.DD</link><link>Pathfinder-RPG.jet de sauvegarde</link><link>Pathfinder-RPG.Rejet du Mal</link><link>Pathfinder-RPG.Étourdi</link><link>Pathfinder-RPG.NLS</link><link>Pathfinder-RPG.concentration</link><link>Pathfinder-RPG.Sans défense</link><link>Pathfinder-RPG.Réflexes</link><link>Pathfinder-RPG.Elfe</link><link>Pathfinder-RPG.Demi-elfe</link></outLinks>
+  <body><![CDATA[
+&lt;b&gt;&#201;cole&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#ILLUSION&quot; title=&quot;Illusion&quot;&gt;Illusion&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#FANTASME&quot; title=&quot;fantasme&quot;&gt;fantasme&lt;/a&gt;) (&lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;er-Un-Sort.html#REGISTRE&quot; title=&quot;Registre&quot;&gt;Mal&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;er-Un-Sort.html#REGISTRE&quot; title=&quot;Registre&quot;&gt;mental&lt;/a&gt;) ; &lt;b&gt;Niveau&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Barde.html&quot; title=&quot;Le barde&quot;&gt;Bard&lt;/a&gt; 5, &lt;a class=&quot;pagelink&quot; href=&quot;Ensorceleur.html&quot; title=&quot;L&amp;#39;ensorceleur&quot;&gt;Ens&lt;/a&gt;/&lt;a class=&quot;pagelink&quot; href=&quot;Magicien.html&quot; title=&quot;Le magicien&quot;&gt;Mag&lt;/a&gt; 5&lt;br/&gt;
+&lt;b&gt;Temps d&#39;incantation&lt;/b&gt; 10 minutes&lt;br/&gt;
+&lt;b&gt;Composantes&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#COMPOSANTES&quot; title=&quot;composantes&quot;&gt;V, G&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Port&#233;e&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#PORTEE&quot; title=&quot;illimit&#233;e&quot;&gt;illimit&#233;e&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Cible&lt;/b&gt; 1 cr&#233;ature vivante&lt;br/&gt;
+&lt;b&gt;Dur&#233;e&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#DUREE&quot; title=&quot;instantan&#233;e&quot;&gt;instantan&#233;e&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Jet de sauvegarde&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;Volont&#233;&quot;&gt;Volont&#233;&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#JETSDESAUVEGARDE&quot; title=&quot;Pr&#233;sentation des sorts&quot;&gt;annule&lt;/a&gt; (voir description) ; &lt;b&gt;R&#233;sistance &#224; la magie&lt;/b&gt; oui&lt;br /&gt;&lt;br /&gt;Le lanceur de sort peut lancer &#224; la cr&#233;ature de son choix, qu’il nomme ou d&#233;signe, une terrifiante vision.&lt;br /&gt;&lt;br /&gt;Le &lt;i&gt;cauchemar&lt;/i&gt; emp&#234;che la cible d’atteindre la phase de sommeil r&#233;parateur et lui fait perdre 1d10 &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#POINTSDEVIE&quot; title=&quot;points de vie&quot;&gt;points de vie&lt;/a&gt;. Quand la victime se r&#233;veille, elle n’est pas repos&#233;e et se retrouve dans l’incapacit&#233; de renouveler ses sorts profanes pendant vingt-quatre heures.&lt;br /&gt;&lt;br /&gt;Le &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DEGREDEDIFFICULTE&quot; title=&quot;DD&quot;&gt;degr&#233; de difficult&#233;&lt;/a&gt; du &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;jet de sauvegarde&quot;&gt;jet de sauvegarde&lt;/a&gt; d&#233;pend de ce que le lanceur de sorts sait de sa victime et du lien physique dont il dispose (le cas &#233;ch&#233;ant).&lt;br /&gt;&lt;br /&gt;&lt;table width=&quot;100%&quot;&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;&lt;td width=&quot;50%&quot;&gt;
+&lt;center&gt;
+&lt;table CLASS=&quot;tablo&quot;&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td&gt;Connaissances&lt;/td&gt;&lt;td&gt;Modificateur au&lt;br/&gt; jet de Volont&#233;&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier&quot;&gt;&lt;td&gt;Aucune*&lt;/td&gt;&lt;td&gt;+10&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;Le personnage a entendu parler du sujet&lt;/td&gt;&lt;td&gt;+5&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Le personnage a d&#233;j&#224; rencontr&#233; le sujet&lt;/td&gt;&lt;td&gt;+0&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;Le personnage conna&#238;t bien le sujet&lt;/td&gt;&lt;td&gt;-5&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;br /&gt;&lt;i&gt;(*) Il est essentiel de poss&#233;der un lien avec&lt;br/&gt; une cr&#233;ature que l’on ne conna&#238;t pas.&lt;/i&gt;
+&lt;/center&gt;
+&lt;/td&gt;&lt;td width=&quot;50%&quot;&gt;
+&lt;center&gt;
+&lt;table CLASS=&quot;tablo&quot;&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td&gt;Lien&lt;/td&gt;&lt;td&gt;Modificateur au &lt;br/&gt;jet de Volont&#233;&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier&quot;&gt;&lt;td&gt;Portrait&lt;/td&gt;&lt;td&gt;-2&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;Possession ou v&#234;tement&lt;/td&gt;&lt;td&gt;-4&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Dent, m&#232;che de cheveux, rognures d’ongles, etc.&lt;/td&gt;&lt;td&gt;-10&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/center&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;br /&gt;Si &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Rejet-Du-Mal.html&quot; title=&quot;Rejet du Mal&quot;&gt;rejet du Mal&lt;/a&gt;&lt;/i&gt; est lanc&#233; sur la cible alors que le personnage lance &lt;i&gt;cauchemar&lt;/i&gt;, celui-ci est automatiquement dissip&#233; et le personnage est &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables.html#&#201;tourdi&quot; title=&quot;&#201;tourdi&quot;&gt;&#233;tourdi&lt;/a&gt; pendant dix minutes par &lt;a class=&quot;pagelink&quot; href=&quot;Lancer-Des-Sorts.html#NLS&quot; title=&quot;NLS&quot;&gt;niveau de lanceur de sorts&lt;/a&gt; de celui qui a incant&#233; &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Rejet-Du-Mal.html&quot; title=&quot;Rejet du Mal&quot;&gt;rejet du Mal&lt;/a&gt;&lt;/i&gt;.&lt;br /&gt;&lt;br /&gt;Si la cible du &lt;i&gt;cauchemar&lt;/i&gt; est &#233;veill&#233;e au moment de l’incantation, le personnage peut choisir de tout stopper (ce qui met un terme pr&#233;matur&#233; au sort) ou d’entrer en transe jusqu’&#224; ce que le sujet s’assoupisse, apr&#232;s quoi le lanceur de sorts redevient alerte et peut achever l’incantation. Si le personnage est d&#233;rang&#233; durant la transe, il doit effectuer un test de &lt;a class=&quot;pagelink&quot; href=&quot;Lancer-Des-Sorts.html#CONCENTRATION&quot; title=&quot;Concentration&quot;&gt;Concentration&lt;/a&gt;, comme s’il &#233;tait en plein milieux d’une incantation, en cas d’&#233;chec le sort est perdu.&lt;br /&gt;&lt;br /&gt;Si le personnage choisit d’entrer en transe, il n’a plus conscience de ce qui l’entoure.&lt;br /&gt;&lt;br /&gt;Il se retrouve &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables.html#Sansd&#233;fense&quot; title=&quot;Sans d&#233;fense&quot;&gt;sans d&#233;fense&lt;/a&gt;, tant physiquement que mentalement (il rate automatiquement ses jets de sauvegarde de &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;R&#233;flexes&quot;&gt;R&#233;flexes&lt;/a&gt; et de &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;Volont&#233;&quot;&gt;Volont&#233;&lt;/a&gt;, par exemple).&lt;br /&gt;&lt;br /&gt;Les cr&#233;atures qui ne dorment pas (comme les &lt;a class=&quot;pagelink&quot; href=&quot;Elfe.html&quot; title=&quot;Les elfes&quot;&gt;elfes&lt;/a&gt;, mais pas les &lt;a class=&quot;pagelink&quot; href=&quot;Demi-Elfe.html&quot; title=&quot;Les demi-elfes&quot;&gt;demi-elfes&lt;/a&gt;) ou ne r&#234;vent jamais sont insensibles &#224; &lt;i&gt;cauchemar&lt;/i&gt;.
+]]></body>
+  <raw><![CDATA[{s:Desambi|Cauchemar est également le nom d'un [[cauchemar|monstre]].}
+'''École''' [[Illusion]] ([[fantasme]]) ([[registre|Mal]], [[registre|mental]]) ; '''Niveau''' [[barde|Bard]] 5, [[ensorceleur|Ens]]/[[magicien|Mag]] 5<br/>
+'''Temps d'incantation''' 10 minutes<br/>
+'''Composantes''' [[composantes|V, G]]<br/>
+'''Portée''' [[illimitée]]<br/>
+'''Cible''' 1 créature vivante<br/>
+'''Durée''' [[instantanée]]<br/>
+'''Jet de sauvegarde''' [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] (voir description) ; '''Résistance à la magie''' oui
+
+Le lanceur de sort peut lancer à la créature de son choix, qu’il nomme ou désigne, une terrifiante vision.
+
+Le ''cauchemar'' empêche la cible d’atteindre la phase de sommeil réparateur et lui fait perdre 1d10 [[points de vie]]. Quand la victime se réveille, elle n’est pas reposée et se retrouve dans l’incapacité de renouveler ses sorts profanes pendant vingt-quatre heures.
+
+Le [[DD|degré de difficulté]] du [[jet de sauvegarde]] dépend de ce que le lanceur de sorts sait de sa victime et du lien physique dont il dispose (le cas échéant).
+
+<table width="100%"><tr style="vertical-align: top"><td width="50%">
+<center>
+{| CLASS="tablo"
+|- CLASS="titre"
+| Connaissances || Modificateur au<br/> jet de Volonté
+|- CLASS="premier"
+| Aucune* || +10
+|- CLASS="alt"
+| Le personnage a entendu parler du sujet || +5
+|-
+| Le personnage a déjà rencontré le sujet || +0
+|- CLASS="alt"
+| Le personnage connaît bien le sujet || -5
+|}
+
+''(*) Il est essentiel de posséder un lien avec<br/> une créature que l’on ne connaît pas.''
+</center>
+</td><td width="50%">
+<center>
+{| CLASS="tablo"
+|- CLASS="titre"
+| Lien || Modificateur au <br/>jet de Volonté
+|- CLASS="premier"
+| Portrait || -2
+|- CLASS="alt"
+| Possession ou vêtement || -4
+|-
+| Dent, mèche de cheveux, rognures d’ongles, etc. || -10
+|}
+</center>
+</td></tr></table>
+
+Si ''[[rejet du Mal]]'' est lancé sur la cible alors que le personnage lance ''cauchemar'', celui-ci est automatiquement dissipé et le personnage est [[étourdi]] pendant dix minutes par [[NLS|niveau de lanceur de sorts]] de celui qui a incanté ''[[rejet du Mal]]''.
+
+Si la cible du ''cauchemar'' est éveillée au moment de l’incantation, le personnage peut choisir de tout stopper (ce qui met un terme prématuré au sort) ou d’entrer en transe jusqu’à ce que le sujet s’assoupisse, après quoi le lanceur de sorts redevient alerte et peut achever l’incantation. Si le personnage est dérangé durant la transe, il doit effectuer un test de [[Concentration]], comme s’il était en plein milieux d’une incantation, en cas d’échec le sort est perdu.
+
+Si le personnage choisit d’entrer en transe, il n’a plus conscience de ce qui l’entoure.
+
+Il se retrouve [[sans défense]], tant physiquement que mentalement (il rate automatiquement ses jets de sauvegarde de [[Réflexes]] et de [[Volonté]], par exemple).
+
+Les créatures qui ne dorment pas (comme les [[elfe|elfes]], mais pas les [[demi-elfe|demi-elfes]]) ou ne rêvent jamais sont insensibles à ''cauchemar''.
+]]></raw>
+  <fullName>Pathfinder-RPG.sort Cauchemar</fullName>
+</wikiPage>

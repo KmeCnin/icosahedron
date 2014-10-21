@@ -271,15 +271,17 @@ EOT
 		  }
 		  // Récupération des infos détaillées sur la page du wiki
 		  $wikiCrawler = new Crawler;
-		  $wikiCrawler->addHTMLContent(file_get_contents($wikiUrl), 'UTF-8');
-		  $wikiContent = $wikiCrawler->filter('#PageContentDiv');
+		  $wikiCrawler->addHTMLContent(file_get_contents($this->fileNameFromUrl($wikiUrl)), 'UTF-8');
+		  $wikiContent = $wikiCrawler->filter('raw');
 		  $htmlDescrition = '';
 		  foreach ($wikiContent as $domElement) {
 			 $htmlDescrition .= $domElement->ownerDocument->saveHTML($domElement);
 		  }
-		  $fragments = explode('<br><br>', $htmlDescrition, 2);
-		  $rawDescription = $fragments[1];
-		  $spell->setDescription($this->replaceWithMyLinks($rawDescription));
+		  $fragments = explode('
+
+', $htmlDescrition, 2);
+		  $rawDescription = substr($fragments[1], 0, -10); // Suppression de la fin du html résiduel
+		  $spell->setDetail($this->replaceWithMyLinks($rawDescription));
 		  
 		  $em->persist($spell);
 		  // On flush si jamais le buffer est trop rempli pour éviter un dÃ©pacement de mÃ©moire
@@ -415,6 +417,17 @@ EOT
     
     protected function replaceWithMyLinks($text) {
 	   echo $text; die;
+    }
+    
+    protected function fileNameFromUrl($url) {
+	   // Les fichiers sont nommés en se basant sur le nom de la page, en remplaçant les espaces par des tirets et en mettant en majuscule la première lettre de chaque mot
+	   $endUrl = substr($url,strrpos($url,"/")+1);
+	   $spacedUrl = preg_replace('/%20/', ' ', $endUrl);
+	   $unprefixedUrl = preg_replace('/^Pathfinder-RPG./', '', $spacedUrl);
+	   $xmledUrl = preg_replace('/ashx/', 'xml', $unprefixedUrl);
+	   $uppercasedUrl = ucwords($xmledUrl);
+	   $fileName = preg_replace('/ /', '-', $uppercasedUrl);
+	   return $this->getContainer()->get('kernel')->getRootDir().'/../web/wiki-pathfinder/'.$fileName;
     }
 
 }

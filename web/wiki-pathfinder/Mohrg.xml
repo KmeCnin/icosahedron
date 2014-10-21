@@ -1,0 +1,227 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Mohrg</title>
+  <categories><category>Pathfinder-RPG.Bestiaire</category><category>Pathfinder-RPG.Monstre</category><category>Pathfinder-RPG.Règles officielles</category></categories>
+  <lastModified>2013-02-07 19:22:04Z</lastModified>
+  <version>9</version>
+  <inLinks><link>Pathfinder-RPG.Création de mort-vivant</link><link>Pathfinder-RPG.Glossaire des monstres</link><link>Pathfinder-RPG.Liste de monstres par FP</link><link>Pathfinder-RPG.Liste de monstres par milieu naturel</link><link>Pathfinder-RPG.Liste de monstres par type</link><link>Pathfinder-RPG.Monstres</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.type Mort-vivant</link><link>Pathfinder-RPG.vision dans le noir</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Traits des morts-vivants</link><link>Pathfinder-RPG.Étreinte</link><link>Pathfinder-RPG.paralysie</link><link>Pathfinder-RPG.lutte</link><link>Pathfinder-RPG.Attaque éclair</link><link>Pathfinder-RPG.Attaque spéciale renforcée</link><link>Pathfinder-RPG.Esquive</link><link>Pathfinder-RPG.Réflexes surhumains</link><link>Pathfinder-RPG.Science de linitiative</link><link>Pathfinder-RPG.Souplesse du serpent</link><link>Pathfinder-RPG.Talent</link><link>Pathfinder-RPG.Discrétion</link><link>Pathfinder-RPG.Escalade</link><link>Pathfinder-RPG.Natation</link><link>Pathfinder-RPG.Zombi humain</link><link>Pathfinder-RPG.type Humanoïde</link><link>Pathfinder-RPG.Zombi, archétype</link><link>Pathfinder-RPG.DV</link><link>Pathfinder-RPG.Rapidité</link><link>Pathfinder-RPG.Squelette humain</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Mohrg&lt;div style=&quot;float:right;&quot;&gt;FP 8&lt;/div&gt;&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Bestiaire&lt;/i&gt; p.218
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 4 800
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Mort-Vivant.html&quot; title=&quot;Mort-vivant&quot;&gt;Mort-vivant&lt;/a&gt; de taille M, CM
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +8 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Capacit&#233;s-Sp&#233;ciales.html#VISIONDANSLENOIR&quot; title=&quot;vision dans le noir&quot;&gt;vision dans le noir&lt;/a&gt; 18 m (12 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +23
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 23, contact 15, pris au d&#233;pourvu 18 (Dex +4, esquive +1, naturelle +8)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 91 (14d8+28)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +10, &lt;b&gt;Vig&lt;/b&gt; +6, &lt;b&gt;Vol&lt;/b&gt; +9
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Immunit&#233;s&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Traits-Des-Morts-Vivants-(Capacit&#233;).html&quot; title=&quot;Traits des morts-vivants&quot;&gt;traits des morts-vivants&lt;/a&gt; 
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 9 m (6 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; 2 coups +15 (2d8+5 et &lt;a class=&quot;pagelink&quot; href=&quot;&#201;treinte-(Capacit&#233;).html&quot; title=&quot;&#201;treinte&quot;&gt;&#233;treinte&lt;/a&gt;), langue +10 (contact, &lt;a class=&quot;pagelink&quot; href=&quot;Paralysie-(Capacit&#233;).html&quot; title=&quot;paralysie&quot;&gt;paralysie&lt;/a&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaques sp&#233;ciales&lt;/b&gt; cr&#233;ation de rejetons, &lt;a class=&quot;pagelink&quot; href=&quot;Paralysie-(Capacit&#233;).html&quot; title=&quot;paralysie&quot;&gt;paralysie&lt;/a&gt; (1d4 minutes, DD 21)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 21, &lt;b&gt;Dex&lt;/b&gt; 19, &lt;b&gt;Con&lt;/b&gt; -, &lt;b&gt;Int&lt;/b&gt; 11, &lt;b&gt;Sag&lt;/b&gt; 10, &lt;b&gt;Cha&lt;/b&gt; 14
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +10, &lt;b&gt;BMO&lt;/b&gt; +15 (+19 pour la &lt;a class=&quot;pagelink&quot; href=&quot;Manœuvres-Offensives.html#LUTTE&quot; title=&quot;lutte&quot;&gt;lutte&lt;/a&gt;), &lt;b&gt;DMD&lt;/b&gt; 30
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Attaque-&#201;clair.html&quot; title=&quot;Attaque &#233;clair&quot;&gt;Attaque &#233;clair&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Attaque-Sp&#233;ciale-Renforc&#233;e.html&quot; title=&quot;Attaque sp&#233;ciale renforc&#233;e&quot;&gt;Attaque sp&#233;ciale renforc&#233;e&lt;/a&gt; (paralysie), &lt;a class=&quot;pagelink&quot; href=&quot;Esquive.html&quot; title=&quot;Esquive&quot;&gt;Esquive&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;R&#233;flexes-Surhumains.html&quot; title=&quot;R&#233;flexes surhumains&quot;&gt;R&#233;flexes surhumains&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Science-De-Linitiative.html&quot; title=&quot;Science de l&amp;#39;initiative&quot;&gt;Science de l&#39;initiative&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Souplesse-Du-Serpent.html&quot; title=&quot;Souplesse du serpent&quot;&gt;Souplesse du serpent&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Talent.html&quot; title=&quot;Talent&quot;&gt;Talent&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; +21, &lt;a class=&quot;pagelink&quot; href=&quot;Escalade.html&quot; title=&quot;Escalade&quot;&gt;Escalade&lt;/a&gt; +22, &lt;a class=&quot;pagelink&quot; href=&quot;Natation.html&quot; title=&quot;Natation&quot;&gt;Natation&lt;/a&gt; +19, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +23
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; quelconque
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation sociale&lt;/b&gt; solitaire, bande (2-4), ou groupe (2-4 plus 4-12 &lt;a class=&quot;pagelink&quot; href=&quot;Zombi-Humain.html&quot; title=&quot;Zombi humain&quot;&gt;zombis&lt;/a&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; standard
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Capacit&#233;s sp&#233;ciales&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Cr&#233;ation de rejetons (Sur).&lt;/b&gt; Lorsqu&#39;un mohrg tue une cr&#233;ature &lt;a class=&quot;pagelink&quot; href=&quot;Type-Humano&#239;de.html&quot; title=&quot;Humano&#239;de&quot;&gt;humano&#239;de&lt;/a&gt;, celle-ci se rel&#232;ve imm&#233;diatement sous la forme d&#39;un &lt;a class=&quot;pagelink&quot; href=&quot;Zombi,-Arch&#233;type.html&quot; title=&quot;Zombi, arch&#233;type&quot;&gt;zombi&lt;/a&gt; rapide plac&#233; sous son contr&#244;le. Le soudain afflux d&#39;&#233;nergie n&#233;gative cr&#233;&#233; lorsque la victime meurt et se transforme en &lt;a class=&quot;pagelink&quot; href=&quot;Zombi,-Arch&#233;type.html&quot; title=&quot;Zombi, arch&#233;type&quot;&gt;zombi&lt;/a&gt; a un effet b&#233;n&#233;fique sur le morgh : chaque fois qu&#39;il cr&#233;e un &lt;a class=&quot;pagelink&quot; href=&quot;Zombi,-Arch&#233;type.html&quot; title=&quot;Zombi, arch&#233;type&quot;&gt;zombi&lt;/a&gt;, il gu&#233;rit de 1d6 points de vie par &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DESDEVIE&quot; title=&quot;DV&quot;&gt;DV&lt;/a&gt; de la cr&#233;ature tu&#233;e et agit au cours du round suivant la cr&#233;ation du rejeton comme s&#39;il &#233;tait affect&#233; par un sort de &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Rapidit&#233;.html&quot; title=&quot;Rapidit&#233;&quot;&gt;rapidit&#233;&lt;/a&gt;&lt;/i&gt;.
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;td&gt;&lt;div&gt;&lt;i&gt;L’amas d’entrailles d&#233;color&#233;es attach&#233; au torse de ce squelette monte dans
+sa m&#226;choire et en ressort sous la forme d’une langue.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Les individus qui ont tu&#233; de nombreuses
+victimes de leur vivant, comme les tueurs en
+s&#233;rie, les soldats assoiff&#233;s de sang ou les berserkers
+avides de combat, sont marqu&#233;s et transform&#233;s par
+le poids de leurs actions meurtri&#232;res. &lt;br /&gt;&lt;br /&gt;Lorsqu’un tel individu est
+amen&#233; devant la justice et ex&#233;cut&#233; publiquement pour ses crimes
+haineux avant qu’il n’ait eu l’occasion d’expier ses fautes, sa
+d&#233;pouille revient parfois &#224; la non-vie pour continuer sa sombre
+besogne sous la forme d’un mohrg.&lt;br /&gt;&lt;br /&gt;Les mohrgs sont des morts-vivants qui ont encore moins
+d’&#233;gard pour la vie que l’individu qu’ils &#233;taient avant leur mort,
+et ils ont pour seul but la destruction des cr&#233;atures vivantes.
+On les prend parfois pour des &lt;a class=&quot;pagelink&quot; href=&quot;Squelette-Humain.html&quot; title=&quot;Squelette humain&quot;&gt;squelettes&lt;/a&gt; ou des &lt;a class=&quot;pagelink&quot; href=&quot;Zombi-Humain.html&quot; title=&quot;Zombi humain&quot;&gt;zombis&lt;/a&gt; mais ils
+sont bien plus dangereux que ces abominations sans cervelle car
+ils conservent une partie de leurs souvenirs et se rappellent du
+plaisir qu’ils &#233;prouvaient en entendant les cris des leurs victimes.&lt;br /&gt;&lt;br /&gt;Lorsqu’ils le peuvent, les mohrgs se rassemblent en petits
+groupes et partent &#224; la recherche de cibles solitaires, un peu comme
+ils le faisaient de leur vivant. Un mohrg confront&#233; &#224; des ennemis
+plus puissants tentera de les mettre hors de combat un par un, en
+commen&#231;ant par ceux qui disposent de pouvoirs divins, &#224; la fois
+pour se prot&#233;ger de la col&#232;re divine et pour faire en sorte qu’il leur
+soit plus facile de paralyser et de d&#233;vorer les autres adversaires.&lt;br /&gt;&lt;br /&gt;Certains mohrgs conservent suffisamment de souvenirs
+pour retourner aux endroits qu’ils pr&#233;f&#233;raient et &#171; hanter &#187;
+leurs anciennes cachettes, ou parfois poursuivre l’œuvre
+des meurtriers qu’ils &#233;taient en reprenant les m&#233;thodes
+d’assassinat et de destruction qu’ils employaient
+lorsqu’ils respiraient encore. &lt;br /&gt;&lt;br /&gt;Ces mohrgs sont
+souvent plus d&#233;s&#233;quilibr&#233;s que la majorit&#233; des
+morts-vivants. On peut parfois les croiser dans
+les rues d’une ville ou d’une cit&#233;, emmitoufl&#233;s dans
+des ch&#226;les et des capes et poursuivant leur ancienne
+vie de massacres et de meurtres au mieux de
+leurs capacit&#233;s .&lt;br /&gt;&lt;br /&gt;Comme les victimes d’un mohrg se
+rel&#232;vent rapidement sous la forme de
+morts-vivants elles aussi, les meurtres
+d’un mohrg ne passent bien s&#251;r pas
+inaper&#231;us tr&#232;s longtemps, m&#234;me
+s’ils prennent bien soin de ne s’en
+prendre qu’&#224; la lie de la soci&#233;t&#233;. &lt;br /&gt;&lt;br /&gt;Les activit&#233;s d’un mohrg entra&#238;nent
+in&#233;vitablement l’apparition soudaine
+de nombreux morts-vivants dans les
+rues. Comme le mohrg conserve le
+contr&#244;le de ces zombis et qu’il poss&#232;de une intelligence teint&#233;e
+de haine et de cruaut&#233;, il garde g&#233;n&#233;ralement son arm&#233;e en
+r&#233;serve et lui commande de patienter plusieurs semaines
+ou plusieurs mois, jusqu’&#224; ce que le cimeti&#232;re local
+regorge de serviteurs morts-vivants. &lt;br /&gt;&lt;br /&gt;C’est ensuite,
+lorsque le mohrg estime que le bon moment
+est venu, qu’il appelle son arm&#233;e &#224; lui et
+lui ordonne de l’aider &#224; parachever le
+massacre.
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Mohrg|FP 8}
+{s:pucem|Mort-vivant|Ruines-Donjons|Tempéré}
+{s:BDTexte|''Source : Bestiaire'' p.218}
+{s:BDTexte|'''PX''' 4 800}
+{s:BDTexte|[[type Mort-vivant|Mort-vivant]] de taille M, CM}
+{s:BDTexte|'''Init''' +8 ; '''Sens''' [[vision dans le noir]] 18 m (12 {s:c}) ; [[Perception]] +23}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 23, contact 15, pris au dépourvu 18 (Dex +4, esquive +1, naturelle +8)}
+{s:BDTexte|'''pv''' 91 (14d8+28)}
+{s:BDTexte|'''Réf''' +10, '''Vig''' +6, '''Vol''' +9}
+{s:BDTexte|'''Immunités''' [[traits des morts-vivants]] }
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 9 m (6 {s:c})}
+{s:BDTexte|'''Corps à corps''' 2 coups +15 (2d8+5 et [[étreinte]]), langue +10 (contact, [[paralysie]])}
+{s:BDTexte|'''Attaques spéciales''' création de rejetons, [[paralysie]] (1d4 minutes, DD 21)}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 21, '''Dex''' 19, '''Con''' -, '''Int''' 11, '''Sag''' 10, '''Cha''' 14}
+{s:BDTexte|'''BBA''' +10, '''BMO''' +15 (+19 pour la [[lutte]]), '''DMD''' 30}
+{s:BDTexte|'''Dons''' [[Attaque éclair]], [[Attaque spéciale renforcée]] (paralysie), [[Esquive]], [[Réflexes surhumains]], [[Science de linitiative|Science de l'initiative]], [[Souplesse du serpent]], [[Talent]] ([[Perception]])}
+{s:BDTexte|'''Compétences''' [[Discrétion]] +21, [[Escalade]] +22, [[Natation]] +19, [[Perception]] +23}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' quelconque}
+{s:BDTexte|'''Organisation sociale''' solitaire, bande (2-4), ou groupe (2-4 plus 4-12 [[zombi humain|zombis]])}
+{s:BDTexte|'''Trésor''' standard}
+{s:BDSousTitre|Capacités spéciales}
+{s:BDTexte|'''Création de rejetons (Sur).''' Lorsqu'un mohrg tue une créature [[type humanoïde|humanoïde]], celle-ci se relève immédiatement sous la forme d'un [[zombi, archétype|zombi]] rapide placé sous son contrôle. Le soudain afflux d'énergie négative créé lorsque la victime meurt et se transforme en [[zombi, archétype|zombi]] a un effet bénéfique sur le morgh : chaque fois qu'il crée un [[zombi, archétype|zombi]], il guérit de 1d6 points de vie par [[DV]] de la créature tuée et agit au cours du round suivant la création du rejeton comme s'il était affecté par un sort de ''[[rapidité]]''.}
+</div>
+</td><td><div>''L’amas d’entrailles décolorées attaché au torse de ce squelette monte dans
+sa mâchoire et en ressort sous la forme d’une langue.''
+
+Les individus qui ont tué de nombreuses
+victimes de leur vivant, comme les tueurs en
+série, les soldats assoiffés de sang ou les berserkers
+avides de combat, sont marqués et transformés par
+le poids de leurs actions meurtrières. 
+
+Lorsqu’un tel individu est
+amené devant la justice et exécuté publiquement pour ses crimes
+haineux avant qu’il n’ait eu l’occasion d’expier ses fautes, sa
+dépouille revient parfois à la non-vie pour continuer sa sombre
+besogne sous la forme d’un mohrg.
+
+Les mohrgs sont des morts-vivants qui ont encore moins
+d’égard pour la vie que l’individu qu’ils étaient avant leur mort,
+et ils ont pour seul but la destruction des créatures vivantes.
+On les prend parfois pour des [[squelette humain|squelettes]] ou des [[zombi humain|zombis]] mais ils
+sont bien plus dangereux que ces abominations sans cervelle car
+ils conservent une partie de leurs souvenirs et se rappellent du
+plaisir qu’ils éprouvaient en entendant les cris des leurs victimes.
+
+Lorsqu’ils le peuvent, les mohrgs se rassemblent en petits
+groupes et partent à la recherche de cibles solitaires, un peu comme
+ils le faisaient de leur vivant. Un mohrg confronté à des ennemis
+plus puissants tentera de les mettre hors de combat un par un, en
+commençant par ceux qui disposent de pouvoirs divins, à la fois
+pour se protéger de la colère divine et pour faire en sorte qu’il leur
+soit plus facile de paralyser et de dévorer les autres adversaires.
+
+Certains mohrgs conservent suffisamment de souvenirs
+pour retourner aux endroits qu’ils préféraient et « hanter »
+leurs anciennes cachettes, ou parfois poursuivre l’œuvre
+des meurtriers qu’ils étaient en reprenant les méthodes
+d’assassinat et de destruction qu’ils employaient
+lorsqu’ils respiraient encore. 
+
+Ces mohrgs sont
+souvent plus déséquilibrés que la majorité des
+morts-vivants. On peut parfois les croiser dans
+les rues d’une ville ou d’une cité, emmitouflés dans
+des châles et des capes et poursuivant leur ancienne
+vie de massacres et de meurtres au mieux de
+leurs capacités .
+
+Comme les victimes d’un mohrg se
+relèvent rapidement sous la forme de
+morts-vivants elles aussi, les meurtres
+d’un mohrg ne passent bien sûr pas
+inaperçus très longtemps, même
+s’ils prennent bien soin de ne s’en
+prendre qu’à la lie de la société. 
+
+Les activités d’un mohrg entraînent
+inévitablement l’apparition soudaine
+de nombreux morts-vivants dans les
+rues. Comme le mohrg conserve le
+contrôle de ces zombis et qu’il possède une intelligence teintée
+de haine et de cruauté, il garde généralement son armée en
+réserve et lui commande de patienter plusieurs semaines
+ou plusieurs mois, jusqu’à ce que le cimetière local
+regorge de serviteurs morts-vivants. 
+
+C’est ensuite,
+lorsque le mohrg estime que le bon moment
+est venu, qu’il appelle son armée à lui et
+lui ordonne de l’aider à parachever le
+massacre.
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Mohrg</fullName>
+</wikiPage>

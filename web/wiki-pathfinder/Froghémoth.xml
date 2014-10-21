@@ -1,0 +1,183 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Froghémoth</title>
+  <categories><category>Pathfinder-RPG.Bestiaire</category><category>Pathfinder-RPG.Monstre</category><category>Pathfinder-RPG.Règles officielles</category></categories>
+  <lastModified>2013-02-08 07:02:42Z</lastModified>
+  <version>8</version>
+  <inLinks><link>Pathfinder-RPG.Convocation de froghémoth</link><link>Pathfinder-RPG.Glossaire des monstres</link><link>Pathfinder-RPG.Liste de monstres par FP</link><link>Pathfinder-RPG.Liste de monstres par milieu naturel</link><link>Pathfinder-RPG.Liste de monstres par type</link><link>Pathfinder-RPG.Monstres</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.type Aberration</link><link>Pathfinder-RPG.vision aveugle</link><link>Pathfinder-RPG.vision dans le noir</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Étreinte</link><link>Pathfinder-RPG.constriction</link><link>Pathfinder-RPG.Engloutissement</link><link>Pathfinder-RPG.lutte</link><link>Pathfinder-RPG.Attaque en puissance</link><link>Pathfinder-RPG.Attaques multiples</link><link>Pathfinder-RPG.Enchaînement</link><link>Pathfinder-RPG.Fente</link><link>Pathfinder-RPG.Réflexes surhumains</link><link>Pathfinder-RPG.Science de linitiative</link><link>Pathfinder-RPG.Science du critique</link><link>Pathfinder-RPG.Talent</link><link>Pathfinder-RPG.Discrétion</link><link>Pathfinder-RPG.Natation</link><link>Pathfinder-RPG.Lenteur</link><link>Pathfinder-RPG.prise en tenaille</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Frogh&#233;moth&lt;div style=&quot;float:right;&quot;&gt;FP 13&lt;/div&gt;&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Bestiaire p144&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 25.600
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Aberration.html&quot; title=&quot;Aberration&quot;&gt;Aberration&lt;/a&gt; de taille TG, N
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +5 ; &lt;b&gt;Sens&lt;/b&gt; vision &#224; 360&#176;, &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Aveugle-(Capacit&#233;).html&quot; title=&quot;vision aveugle&quot;&gt;vision aveugle&lt;/a&gt; 9 m (6 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), &lt;a class=&quot;pagelink&quot; href=&quot;Capacit&#233;s-Sp&#233;ciales.html#VISIONDANSLENOIR&quot; title=&quot;vision dans le noir&quot;&gt;vision dans le noir&lt;/a&gt; 18 m (12 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +16
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 28, contact 9, pris au d&#233;pourvu 27 (Dex +1, naturelle +19, taille -2)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 184 (16d8+112)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +8, &lt;b&gt;Vig&lt;/b&gt; +12, &lt;b&gt;Vol&lt;/b&gt; +11
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Immunit&#233;s&lt;/b&gt; &#233;lectricit&#233; (partiel) ; &lt;b&gt;R&#233;sistances&lt;/b&gt; feu 10 
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Faiblesses&lt;/b&gt; ralenti par l&#39;&#233;lectricit&#233;
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 6 m (4 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), nage 9 m (6 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; morsure, +20 (2d6+10/19-20 et &lt;a class=&quot;pagelink&quot; href=&quot;&#201;treinte-(Capacit&#233;).html&quot; title=&quot;&#201;treinte&quot;&gt;&#233;treinte&lt;/a&gt;), 4 tentacules, +18 (1d8+5 et &lt;a class=&quot;pagelink&quot; href=&quot;&#201;treinte-(Capacit&#233;).html&quot; title=&quot;&#201;treinte&quot;&gt;&#233;treinte&lt;/a&gt;), langue, +18 (1d4+5 et &lt;a class=&quot;pagelink&quot; href=&quot;&#201;treinte-(Capacit&#233;).html&quot; title=&quot;&#201;treinte&quot;&gt;&#233;treinte&lt;/a&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Espace&lt;/b&gt; 4,50 m (3 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) ; &lt;b&gt;Allonge&lt;/b&gt; 4,50 m (3 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) (9 m (6 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) pour la langue)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaques sp&#233;ciales&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Constriction-(Capacit&#233;).html&quot; title=&quot;constriction&quot;&gt;constriction&lt;/a&gt; (tentacule, 1d6+10), &lt;a class=&quot;pagelink&quot; href=&quot;Engloutissement-(Capacit&#233;).html&quot; title=&quot;Engloutissement&quot;&gt;engloutissement&lt;/a&gt; (3d6+10, CA 19, pv 18)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 30, &lt;b&gt;Dex&lt;/b&gt; 13, &lt;b&gt;Con&lt;/b&gt; 24, &lt;b&gt;Int&lt;/b&gt; 2, &lt;b&gt;Sag&lt;/b&gt; 13, &lt;b&gt;Cha&lt;/b&gt; 11
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +12, &lt;b&gt;BMO&lt;/b&gt; +24 (+28 &lt;a class=&quot;pagelink&quot; href=&quot;Manœuvres-Offensives.html#LUTTE&quot; title=&quot;lutte&quot;&gt;lutte&lt;/a&gt;), &lt;b&gt;DMD&lt;/b&gt; 35
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Attaque-En-Puissance.html&quot; title=&quot;Attaque en puissance&quot;&gt;Attaque en puissance&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Attaques-Multiples.html&quot; title=&quot;Attaques multiples&quot;&gt;Attaques multiples&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Encha&#238;nement.html&quot; title=&quot;Encha&#238;nement&quot;&gt;Encha&#238;nement&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Fente.html&quot; title=&quot;Fente&quot;&gt;Fente&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;R&#233;flexes-Surhumains.html&quot; title=&quot;R&#233;flexes surhumains&quot;&gt;R&#233;flexes surhumains&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Science-De-Linitiative.html&quot; title=&quot;Science de l&amp;#39;initiative&quot;&gt;Science de l&#39;initiative&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Science-Du-Critique.html&quot; title=&quot;Science du critique&quot;&gt;Science du critique&lt;/a&gt; (morsure), &lt;a class=&quot;pagelink&quot; href=&quot;Talent.html&quot; title=&quot;Talent&quot;&gt;Talent&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; +14 (+22 dans les marais), &lt;a class=&quot;pagelink&quot; href=&quot;Natation.html&quot; title=&quot;Natation&quot;&gt;Natation&lt;/a&gt; +18, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +16 ; &lt;b&gt;Modificateurs raciaux&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; +8 dans les marais, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +8
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; marais temp&#233;r&#233;s
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation sociale&lt;/b&gt; solitaire
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; standard
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Capacit&#233;s sp&#233;ciales&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Ralenti par l&#39;&#233;lectricit&#233; (Ext).&lt;/b&gt; Les frogh&#233;moths sont immunis&#233;s contres les d&#233;g&#226;ts d&#39;&#233;lectricit&#233; mais, &#224; chaque fois qu&#39;ils devraient normalement subir de tels d&#233;g&#226;ts, ils sont &lt;a class=&quot;pagelink&quot; href=&quot;Lenteur.html&quot; title=&quot;Lenteur&quot;&gt;ralentis&lt;/a&gt; pendant 1 round.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Vision &#224; 360&#176; (Ext).&lt;/b&gt; Gr&#226;ce &#224; leurs yeux mont&#233;s sur p&#233;doncule, les frogh&#233;moths peuvent voir dans toutes les directions en m&#234;me temps. Il est impossible de les &lt;a class=&quot;pagelink&quot; href=&quot;Modificateurs-De-Combat.html#PRISEENTENAILLE&quot; title=&quot;prise en tenaille&quot;&gt;prendre en tenaille&lt;/a&gt;.
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;td&gt;&lt;div&gt;&lt;i&gt;Cette immense cr&#233;ature &#224; trois yeux se tient sur ses pattes arri&#232;re muscl&#233;es et agite ses quatre bras tentaculaires dans tous les sens.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Ces cr&#233;atures heureusement assez rares figurent parmi les pr&#233;dateurs
+les plus f&#233;roces et monstrueux qui habitent les terres mar&#233;cageuses.
+Les frogh&#233;moths sont des chasseurs qui manient l’art de l’embuscade
+avec une efficacit&#233; terrifiante et qui sont capables d’attraper et de
+d&#233;vorer des dinosaures, voire m&#234;me des dragons. &lt;br /&gt;&lt;br /&gt;Lorsqu’elles guettent leur proie, ces immenses cr&#233;atures se dissimulent dans la boue des
+&#233;tangs mar&#233;cageux profonds, ne laissant d&#233;passer que le sommet
+de leur tentacule oculaire. Les yeux des frogh&#233;moths leur donnent
+une vue ac&#233;r&#233;e mais leur langue est encore plus impressionnante. &#192;
+l’instar des serpents, les frog&#233;moths peuvent &#171; go&#251;ter &#187; l’air et obtenir
+des d&#233;tails incroyables sur les environs.&lt;br /&gt;&lt;br /&gt;Les &#233;rudits s’int&#233;ressent depuis longtemps aux origines de cet
+&#233;trange et immense pr&#233;dateur, avan&#231;ant que ses sens, sa physiologie
+et ses r&#233;sistances hors du commun lui font d&#233;passer le stade de
+l’animal. Les druides et les autres disciples du monde naturel
+en conviennent : les frogh&#233;moths agissent peut-&#234;tre comme des
+animaux mais ils ne se sentent jamais v&#233;ritablement &#171; &#224; l’aise &#187; &#224;
+proximit&#233; d’une de ces cr&#233;atures. &lt;br /&gt;&lt;br /&gt;Les frogh&#233;moths, constamment de mauvaise humeur, cherchent souvent &#224; tuer juste par plaisir, allant
+m&#234;me jusqu’&#224; r&#233;gurgiter des repas partiellement dig&#233;r&#233;s pour faire
+de la place pour les nouvelles proies qu’ils rencontrent. Ces &#233;tranges
+cr&#233;atures s’&#233;loignent parfois de leur milieu naturel, comme si les
+mar&#233;cages s’&#233;taient oppos&#233;s &#224; eux et les avaient contraints &#224; errer
+&#224; la recherche d’un nouveau repaire. &lt;br /&gt;&lt;br /&gt;Certains sages pr&#233;tendent que
+les frogh&#233;moths viennent d’un autre monde et que leurs errances
+seraient caus&#233;es par une sorte de pulsion instinctive les incitant
+&#224; retourner chez eux, un &#171; chez eux &#187; qui serait bien diff&#233;rent du
+monde dans lequel ces cr&#233;atures se retrouvent prisonniers.
+Un frogh&#233;moth mesure 6,60 m&#232;tres de hauteur aux
+&#233;paules et p&#232;se 8 000 kg.
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Froghémoth|FP 13}
+{s:pucem|Aberration|Marais|Tempéré}
+{s:BDTexte|''Source : Bestiaire p144''}
+{s:BDTexte|'''PX''' 25.600}
+{s:BDTexte|[[type Aberration|Aberration]] de taille TG, N}
+{s:BDTexte|'''Init''' +5 ; '''Sens''' vision à 360°, [[vision aveugle]] 9 m (6 {s:c}), [[vision dans le noir]] 18 m (12 {s:c}) ; [[Perception]] +16}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 28, contact 9, pris au dépourvu 27 (Dex +1, naturelle +19, taille -2)}
+{s:BDTexte|'''pv''' 184 (16d8+112)}
+{s:BDTexte|'''Réf''' +8, '''Vig''' +12, '''Vol''' +11}
+{s:BDTexte|'''Immunités''' électricité (partiel) ; '''Résistances''' feu 10 }
+{s:BDTexte|'''Faiblesses''' ralenti par l'électricité}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 6 m (4 {s:c}), nage 9 m (6 {s:c})}
+{s:BDTexte|'''Corps à corps''' morsure, +20 (2d6+10/19-20 et [[étreinte]]), 4 tentacules, +18 (1d8+5 et [[étreinte]]), langue, +18 (1d4+5 et [[étreinte]])}
+{s:BDTexte|'''Espace''' 4,50 m (3 {s:c}) ; '''Allonge''' 4,50 m (3 {s:c}) (9 m (6 {s:c}) pour la langue)}
+{s:BDTexte|'''Attaques spéciales''' [[constriction]] (tentacule, 1d6+10), [[engloutissement]] (3d6+10, CA 19, pv 18)}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 30, '''Dex''' 13, '''Con''' 24, '''Int''' 2, '''Sag''' 13, '''Cha''' 11}
+{s:BDTexte|'''BBA''' +12, '''BMO''' +24 (+28 [[lutte]]), '''DMD''' 35}
+{s:BDTexte|'''Dons''' [[Attaque en puissance]], [[Attaques multiples]], [[Enchaînement]], [[Fente]], [[Réflexes surhumains]], [[Science de linitiative|Science de l'initiative]], [[Science du critique]] (morsure), [[Talent]] ([[Discrétion]])}
+{s:BDTexte|'''Compétences''' [[Discrétion]] +14 (+22 dans les marais), [[Natation]] +18, [[Perception]] +16 ; '''Modificateurs raciaux''' [[Discrétion]] +8 dans les marais, [[Perception]] +8}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' marais tempérés}
+{s:BDTexte|'''Organisation sociale''' solitaire}
+{s:BDTexte|'''Trésor''' standard}
+{s:BDSousTitre|Capacités spéciales}
+{s:BDTexte|'''Ralenti par l'électricité (Ext).''' Les froghémoths sont immunisés contres les dégâts d'électricité mais, à chaque fois qu'ils devraient normalement subir de tels dégâts, ils sont [[lenteur|ralentis]] pendant 1 round.}
+{s:BDTexte|'''Vision à 360° (Ext).''' Grâce à leurs yeux montés sur pédoncule, les froghémoths peuvent voir dans toutes les directions en même temps. Il est impossible de les [[prise en tenaille|prendre en tenaille]].}
+</div>
+</td><td><div>''Cette immense créature à trois yeux se tient sur ses pattes arrière musclées et agite ses quatre bras tentaculaires dans tous les sens.''
+
+Ces créatures heureusement assez rares figurent parmi les prédateurs
+les plus féroces et monstrueux qui habitent les terres marécageuses.
+Les froghémoths sont des chasseurs qui manient l’art de l’embuscade
+avec une efficacité terrifiante et qui sont capables d’attraper et de
+dévorer des dinosaures, voire même des dragons. 
+
+Lorsqu’elles guettent leur proie, ces immenses créatures se dissimulent dans la boue des
+étangs marécageux profonds, ne laissant dépasser que le sommet
+de leur tentacule oculaire. Les yeux des froghémoths leur donnent
+une vue acérée mais leur langue est encore plus impressionnante. À
+l’instar des serpents, les frogémoths peuvent « goûter » l’air et obtenir
+des détails incroyables sur les environs.
+
+Les érudits s’intéressent depuis longtemps aux origines de cet
+étrange et immense prédateur, avançant que ses sens, sa physiologie
+et ses résistances hors du commun lui font dépasser le stade de
+l’animal. Les druides et les autres disciples du monde naturel
+en conviennent : les froghémoths agissent peut-être comme des
+animaux mais ils ne se sentent jamais véritablement « à l’aise » à
+proximité d’une de ces créatures. 
+
+Les froghémoths, constamment de mauvaise humeur, cherchent souvent à tuer juste par plaisir, allant
+même jusqu’à régurgiter des repas partiellement digérés pour faire
+de la place pour les nouvelles proies qu’ils rencontrent. Ces étranges
+créatures s’éloignent parfois de leur milieu naturel, comme si les
+marécages s’étaient opposés à eux et les avaient contraints à errer
+à la recherche d’un nouveau repaire. 
+
+Certains sages prétendent que
+les froghémoths viennent d’un autre monde et que leurs errances
+seraient causées par une sorte de pulsion instinctive les incitant
+à retourner chez eux, un « chez eux » qui serait bien différent du
+monde dans lequel ces créatures se retrouvent prisonniers.
+Un froghémoth mesure 6,60 mètres de hauteur aux
+épaules et pèse 8 000 kg.
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Froghémoth</fullName>
+</wikiPage>

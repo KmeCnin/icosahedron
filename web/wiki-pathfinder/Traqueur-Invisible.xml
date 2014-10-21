@@ -1,0 +1,185 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Traqueur invisible</title>
+  <categories><category>Pathfinder-RPG.Bestiaire</category><category>Pathfinder-RPG.Monstre</category></categories>
+  <lastModified>2013-02-06 20:24:24Z</lastModified>
+  <version>6</version>
+  <inLinks><link>Pathfinder-RPG.Convocation de monstres</link><link>Pathfinder-RPG.Flasque de fer</link><link>Pathfinder-RPG.Glossaire des monstres</link><link>Pathfinder-RPG.Lier un extérieur</link><link>Pathfinder-RPG.Liste de monstres par FP</link><link>Pathfinder-RPG.Liste de monstres par milieu naturel</link><link>Pathfinder-RPG.Liste de monstres par type</link><link>Pathfinder-RPG.Monstres</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.type Extérieur</link><link>Pathfinder-RPG.sous-type Air</link><link>Pathfinder-RPG.sous-type élémentaire</link><link>Pathfinder-RPG.sous-type extraplanaire</link><link>Pathfinder-RPG.vision dans le noir</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Arme de prédilection</link><link>Pathfinder-RPG.Attaques réflexes</link><link>Pathfinder-RPG.Réflexes surhumains</link><link>Pathfinder-RPG.Science de linitiative</link><link>Pathfinder-RPG.Acrobaties</link><link>Pathfinder-RPG.Bluff</link><link>Pathfinder-RPG.Connaissances</link><link>Pathfinder-RPG.Discrétion</link><link>Pathfinder-RPG.Psychologie</link><link>Pathfinder-RPG.Survie</link><link>Pathfinder-RPG.Vol</link><link>Pathfinder-RPG.Négation de linvisibilité</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Traqueur invisible&lt;div style=&quot;float:right;&quot;&gt;FP 7&lt;/div&gt;&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Bestiaire&lt;/i&gt; p.274
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 3.200
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Ext&#233;rieur.html&quot; title=&quot;Ext&#233;rieur&quot;&gt;Ext&#233;rieur&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Air.html&quot; title=&quot;Air (sous-type)&quot;&gt;Air&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-&#201;l&#233;mentaire.html&quot; title=&quot;&#201;l&#233;mentaire (sous-type)&quot;&gt;&#233;l&#233;mentaire&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Extraplanaire.html&quot; title=&quot;Extraplanaire (sous-type)&quot;&gt;extraplanaire&lt;/a&gt;) de taille M, N
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +8 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Capacit&#233;s-Sp&#233;ciales.html#VISIONDANSLENOIR&quot; title=&quot;vision dans le noir&quot;&gt;vision dans le noir&lt;/a&gt; 18 m (12 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +12
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 20, contact 14, pris au d&#233;pourvu 16 (Dex +4, naturelle +6)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 80 (7d10+42)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +11, &lt;b&gt;Vig&lt;/b&gt; +11, &lt;b&gt;Vol&lt;/b&gt; +4
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Capacit&#233;s d&#233;fensives&lt;/b&gt; invisibilit&#233; naturelle ; &lt;b&gt;Immunit&#233;s&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-&#201;l&#233;mentaire.html&quot; title=&quot;&#201;l&#233;mentaire (sous-type)&quot;&gt;traits des &#233;l&#233;mentaires&lt;/a&gt; 
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 9 m (6 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), vol 45 m (30 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) (parfait)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; 2 coups +12 (2d6+4)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 18, &lt;b&gt;Dex&lt;/b&gt; 19, &lt;b&gt;Con&lt;/b&gt; 22, &lt;b&gt;Int&lt;/b&gt; 14, &lt;b&gt;Sag&lt;/b&gt; 15, &lt;b&gt;Cha&lt;/b&gt; 11
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +7, &lt;b&gt;BMO&lt;/b&gt; +11, &lt;b&gt;DMD&lt;/b&gt; 25
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Arme-De-Pr&#233;dilection.html&quot; title=&quot;Arme de pr&#233;dilection&quot;&gt;Arme de pr&#233;dilection&lt;/a&gt; (coup), &lt;a class=&quot;pagelink&quot; href=&quot;Attaques-R&#233;flexes.html&quot; title=&quot;Attaques r&#233;flexes&quot;&gt;Attaques r&#233;flexes&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;R&#233;flexes-Surhumains.html&quot; title=&quot;R&#233;flexes surhumains&quot;&gt;R&#233;flexes surhumains&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Science-De-Linitiative.html&quot; title=&quot;Science de l&amp;#39;initiative&quot;&gt;Science de l&#39;initiative&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Acrobaties.html&quot; title=&quot;Acrobaties&quot;&gt;Acrobaties&lt;/a&gt; +14, &lt;a class=&quot;pagelink&quot; href=&quot;Bluff.html&quot; title=&quot;Bluff&quot;&gt;Bluff&lt;/a&gt; +10, &lt;a class=&quot;pagelink&quot; href=&quot;Connaissances.html&quot; title=&quot;Connaissances&quot;&gt;Connaissances&lt;/a&gt; (plans) +12, &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; +14, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +12, &lt;a class=&quot;pagelink&quot; href=&quot;Psychologie.html&quot; title=&quot;Psychologie&quot;&gt;Psychologie&lt;/a&gt; +12, &lt;a class=&quot;pagelink&quot; href=&quot;Survie.html&quot; title=&quot;Survie&quot;&gt;Survie&lt;/a&gt; +12, &lt;a class=&quot;pagelink&quot; href=&quot;Vol.html&quot; title=&quot;Vol&quot;&gt;Vol&lt;/a&gt; +22
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Langues&lt;/b&gt; a&#233;rien, commun
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Particularit&#233;s&lt;/b&gt; expert en pistage
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; quelconque (plan de l&#39;Air)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation sociale&lt;/b&gt; solitaire
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; standard
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Capacit&#233;s sp&#233;ciales&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Expert en pistage (Ext)&lt;/b&gt; Les traqueurs invisibles peuvent se d&#233;placer &#224; n&#39;importe quelle vitesse lorsqu&#39;ils suivent une piste sans pour autant subir de malus aux tests de &lt;a class=&quot;pagelink&quot; href=&quot;Survie.html&quot; title=&quot;Survie&quot;&gt;Survie&lt;/a&gt;.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Invisibilit&#233; naturelle (Ext)&lt;/b&gt; Cette capacit&#233; permanente permet aux traqueurs invisibles de rester invisibles &#224; tout moment, m&#234;me lorsqu&#39;ils attaquent un adversaire. Comme il s&#39;agit d&#39;une capacit&#233; inn&#233;e, un sort de &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;N&#233;gation-De-Linvisibilit&#233;.html&quot; title=&quot;N&#233;gation de l&amp;#39;invisibilit&#233;&quot;&gt;n&#233;gation de l&#39;invisibilit&#233;&lt;/a&gt;&lt;/i&gt; ne l&#39;affecte pas. Un traqueur invisible en mouvement b&#233;n&#233;ficie d&#39;un bonus de +20 aux tests de &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; contre les ennemis qui ne savent pas d&#233;terminer son emplacement exact. Le bonus passe &#224; +40 s&#39;il reste immobile. Ces bonus ne sont pas inclus dans le profil ci-dessus.
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;td&gt;&lt;div&gt;&lt;i&gt;Il &#233;mane ind&#233;niablement de cette cr&#233;ature sans forme visible une aura de
+puissance et une grande malveillance.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;On sait tr&#232;s peu de choses &#224; propos de ces cr&#233;atures &#233;nigmatiques
+et myst&#233;rieuses car, de par leur nature, il est tr&#232;s difficile de
+d&#233;celer quelque d&#233;tail que ce soit &#224; leur sujet. Les traqueurs
+invisibles extirp&#233;s du plan de l’Air ob&#233;issent aux ordres de ceux
+qui les ont invoqu&#233;s. Ils agissent comme protecteurs, assassins
+ou pisteurs, trois occupations dans lesquelles ils excellent. Leur
+invisibilit&#233; et leur discr&#233;tion naturelles leur permettent de suivre
+leur proie sans se faire d&#233;tecter et jouent &#224; leur avantage lorsqu’il
+s’agit d’assassiner une cible.&lt;br /&gt;&lt;br /&gt;Cette situation ne pla&#238;t pas &#224; de nombreux traqueurs invisibles,
+qui consid&#232;rent ces t&#226;ches comme des corv&#233;es impos&#233;es par les
+mortels. Lorsqu’un traqueur invisible se voit confier une mission
+particuli&#232;rement complexe ou ennuyeuse, il tente de trouver une
+faille (en profitant d’un mauvais choix de mots par exemple). Ainsi,
+un magicien qui invoque un traqueur invisible et lui ordonne de le
+servir en le &#171; prot&#233;geant de tout danger &#187; pourrait se voir emmen&#233;
+jusqu’&#224; une cachette lointaine, ou m&#234;me jusqu’au plan de l’Air.&lt;br /&gt;&lt;br /&gt;&#192; force d’&#234;tre invoqu&#233;s sans cesse, de nombreux traqueurs
+invisibles d&#233;veloppent une v&#233;ritable hostilit&#233; &#224; l’encontre des
+habitants du plan Mat&#233;riel. Les traqueurs qui visitent le plan
+Mat&#233;riel pour la premi&#232;re fois connaissent les histoires cont&#233;es par
+leurs pairs mais gardent g&#233;n&#233;ralement un esprit ouvert au sujet des
+intentions de ceux qui les appellent. Avec le temps, ou apr&#232;s avoir
+servi un ma&#238;tre particuli&#232;rement vil, les traqueurs invisibles se
+forment une opinion n&#233;gative sur ces cr&#233;atures de chair et d’os et se
+mettent &#224; vouloir pervertir les ordres de leurs ma&#238;tres et leur causer
+du tort. Sans les restrictions impos&#233;es par la magie qui les invoque,
+les traqueurs invisibles les plus v&#233;n&#233;rables et exp&#233;riment&#233;s se
+retourneraient contre ceux qui les appellent. Ces cr&#233;atures tentent
+automatiquement de tirer avantage des incoh&#233;rences dans les
+instructions donn&#233;es et de d&#233;tourner les intentions de leur ma&#238;tre
+par une interpr&#233;tation litt&#233;rale. Tout cela pour causer du tort,
+blesser ou m&#234;me de tuer le pr&#234;tre ou le mage qui les a appel&#233;s.
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Traqueur invisible|FP 7}
+{s:pucem|Extérieur|Ciel|Extraplanaire}
+{s:BDTexte|''Source : Bestiaire'' p.274}
+{s:BDTexte|'''PX''' 3.200}
+{s:BDTexte|[[type Extérieur|Extérieur]] ([[sous-type Air|Air]], [[sous-type élémentaire|élémentaire]], [[sous-type extraplanaire|extraplanaire]]) de taille M, N}
+{s:BDTexte|'''Init''' +8 ; '''Sens''' [[vision dans le noir]] 18 m (12 {s:c}) ; [[Perception]] +12}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 20, contact 14, pris au dépourvu 16 (Dex +4, naturelle +6)}
+{s:BDTexte|'''pv''' 80 (7d10+42)}
+{s:BDTexte|'''Réf''' +11, '''Vig''' +11, '''Vol''' +4}
+{s:BDTexte|'''Capacités défensives''' invisibilité naturelle ; '''Immunités''' [[sous-type élémentaire|traits des élémentaires]] }
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 9 m (6 {s:c}), vol 45 m (30 {s:c}) (parfait)}
+{s:BDTexte|'''Corps à corps''' 2 coups +12 (2d6+4)}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 18, '''Dex''' 19, '''Con''' 22, '''Int''' 14, '''Sag''' 15, '''Cha''' 11}
+{s:BDTexte|'''BBA''' +7, '''BMO''' +11, '''DMD''' 25}
+{s:BDTexte|'''Dons''' [[Arme de prédilection]] (coup), [[Attaques réflexes]], [[Réflexes surhumains]], [[Science de linitiative|Science de l'initiative]]}
+{s:BDTexte|'''Compétences''' [[Acrobaties]] +14, [[Bluff]] +10, [[Connaissances]] (plans) +12, [[Discrétion]] +14, [[Perception]] +12, [[Psychologie]] +12, [[Survie]] +12, [[Vol]] +22}
+{s:BDTexte|'''Langues''' aérien, commun}
+{s:BDTexte|'''Particularités''' expert en pistage}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' quelconque (plan de l'Air)}
+{s:BDTexte|'''Organisation sociale''' solitaire}
+{s:BDTexte|'''Trésor''' standard}
+{s:BDSousTitre|Capacités spéciales}
+{s:BDTexte|'''Expert en pistage (Ext)''' Les traqueurs invisibles peuvent se déplacer à n'importe quelle vitesse lorsqu'ils suivent une piste sans pour autant subir de malus aux tests de [[Survie]].}
+{s:BDTexte|'''Invisibilité naturelle (Ext)''' Cette capacité permanente permet aux traqueurs invisibles de rester invisibles à tout moment, même lorsqu'ils attaquent un adversaire. Comme il s'agit d'une capacité innée, un sort de ''[[négation de linvisibilité|négation de l'invisibilité]]'' ne l'affecte pas. Un traqueur invisible en mouvement bénéficie d'un bonus de +20 aux tests de [[Discrétion]] contre les ennemis qui ne savent pas déterminer son emplacement exact. Le bonus passe à +40 s'il reste immobile. Ces bonus ne sont pas inclus dans le profil ci-dessus.}
+</div>
+</td><td><div>''Il émane indéniablement de cette créature sans forme visible une aura de
+puissance et une grande malveillance.''
+
+On sait très peu de choses à propos de ces créatures énigmatiques
+et mystérieuses car, de par leur nature, il est très difficile de
+déceler quelque détail que ce soit à leur sujet. Les traqueurs
+invisibles extirpés du plan de l’Air obéissent aux ordres de ceux
+qui les ont invoqués. Ils agissent comme protecteurs, assassins
+ou pisteurs, trois occupations dans lesquelles ils excellent. Leur
+invisibilité et leur discrétion naturelles leur permettent de suivre
+leur proie sans se faire détecter et jouent à leur avantage lorsqu’il
+s’agit d’assassiner une cible.
+
+Cette situation ne plaît pas à de nombreux traqueurs invisibles,
+qui considèrent ces tâches comme des corvées imposées par les
+mortels. Lorsqu’un traqueur invisible se voit confier une mission
+particulièrement complexe ou ennuyeuse, il tente de trouver une
+faille (en profitant d’un mauvais choix de mots par exemple). Ainsi,
+un magicien qui invoque un traqueur invisible et lui ordonne de le
+servir en le « protégeant de tout danger » pourrait se voir emmené
+jusqu’à une cachette lointaine, ou même jusqu’au plan de l’Air.
+
+À force d’être invoqués sans cesse, de nombreux traqueurs
+invisibles développent une véritable hostilité à l’encontre des
+habitants du plan Matériel. Les traqueurs qui visitent le plan
+Matériel pour la première fois connaissent les histoires contées par
+leurs pairs mais gardent généralement un esprit ouvert au sujet des
+intentions de ceux qui les appellent. Avec le temps, ou après avoir
+servi un maître particulièrement vil, les traqueurs invisibles se
+forment une opinion négative sur ces créatures de chair et d’os et se
+mettent à vouloir pervertir les ordres de leurs maîtres et leur causer
+du tort. Sans les restrictions imposées par la magie qui les invoque,
+les traqueurs invisibles les plus vénérables et expérimentés se
+retourneraient contre ceux qui les appellent. Ces créatures tentent
+automatiquement de tirer avantage des incohérences dans les
+instructions données et de détourner les intentions de leur maître
+par une interprétation littérale. Tout cela pour causer du tort,
+blesser ou même de tuer le prêtre ou le mage qui les a appelés.
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Traqueur invisible</fullName>
+</wikiPage>

@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Juxtaposition hostile</title>
+  <categories><category>Pathfinder-RPG.Art de la guerre</category><category>Pathfinder-RPG.Règles officielles</category><category>Pathfinder-RPG.Sort</category><category>Pathfinder-RPG.Sort conjurateur 4</category><category>Pathfinder-RPG.Sort magicien 5</category><category>Pathfinder-RPG.Sort sorcière 5</category></categories>
+  <lastModified>2012-07-02 00:19:13Z</lastModified>
+  <version>1</version>
+  <inLinks><link>Pathfinder-RPG.Glossaire des sorts</link><link>Pathfinder-RPG.Juxtaposition hostile supérieure</link><link>Pathfinder-RPG.Liste des sorts (suite)</link><link>Pathfinder-RPG.liste des sorts de conjurateurs</link><link>Pathfinder-RPG.Liste des sorts de sorcière</link><link>Pathfinder-RPG.Liste des sorts densorceleursmagiciens</link><link>Pathfinder-RPG.Listes de sorts par classe</link><link>Pathfinder-RPG.Sorts temporaires-AdG</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Invocation</link><link>Pathfinder-RPG.branche téléportation</link><link>Pathfinder-RPG.Ensorceleur</link><link>Pathfinder-RPG.Magicien</link><link>Pathfinder-RPG.Conjurateur</link><link>Pathfinder-RPG.Sorcière</link><link>Pathfinder-RPG.Action simple</link><link>Pathfinder-RPG.composantes</link><link>Pathfinder-RPG.niveau</link></outLinks>
+  <body><![CDATA[
+&lt;b&gt;&#201;cole&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#INVOCATION&quot; title=&quot;Invocation&quot;&gt;invocation&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#TELEPORTATION&quot; title=&quot;T&#233;l&#233;portation&quot;&gt;t&#233;l&#233;portation&lt;/a&gt;); &lt;b&gt;Niveau&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Ensorceleur.html&quot; title=&quot;L&amp;#39;ensorceleur&quot;&gt;ensorceleur&lt;/a&gt;/&lt;a class=&quot;pagelink&quot; href=&quot;Magicien.html&quot; title=&quot;Le magicien&quot;&gt;magicien&lt;/a&gt; 5, &lt;a class=&quot;pagelink&quot; href=&quot;Conjurateur.html&quot; title=&quot;Le conjurateur (aussi appel&#233; invocateur)&quot;&gt;conjurateur&lt;/a&gt; 4, &lt;a class=&quot;pagelink&quot; href=&quot;Sorci&#232;re.html&quot; title=&quot;La sorci&#232;re&quot;&gt;sorci&#232;re&lt;/a&gt; 5&lt;/br&gt;
+&lt;b&gt;Temps d’incantation&lt;/b&gt; 1 &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions.html#SIMPLE&quot; title=&quot;Action simple&quot;&gt;action simple&lt;/a&gt;&lt;/br&gt;
+&lt;b&gt;Composantes&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#COMPOSANTES&quot; title=&quot;composantes&quot;&gt;V, G, F&lt;/a&gt; (une pi&#232;ce)&lt;/br&gt;
+&lt;b&gt;Port&#233;e&lt;/b&gt; courte (7,50 m + 1,50 m/2 &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#NIVEAU&quot; title=&quot;niveau&quot;&gt;niveaux&lt;/a&gt;) (5 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt; + 1 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;/2 &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#NIVEAU&quot; title=&quot;niveau&quot;&gt;niveaux&lt;/a&gt;)&lt;/br&gt;
+&lt;b&gt;Cible&lt;/b&gt; une cr&#233;ature de la taille du lanceur de sorts ou plus petite&lt;/br&gt;
+&lt;b&gt;Dur&#233;e&lt;/b&gt; 1 round/&lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#NIVEAU&quot; title=&quot;niveau&quot;&gt;niveau&lt;/a&gt; ou jusqu’&#224; &#233;puisement&lt;/br&gt;
+&lt;b&gt;Jet de sauvegarde&lt;/b&gt; Volont&#233; pour annuler ; &lt;b&gt;R&#233;sistance &#224; la magie&lt;/b&gt; oui&lt;br /&gt;&lt;br /&gt;Le personnage cr&#233;e un lien dimensionnel avec sa cible. Quand il est victime d’une attaque ou d’un sort qui inflige des d&#233;g&#226;ts, il peut d&#233;penser une action imm&#233;diate pour changer de place avec la cible du sort, par t&#233;l&#233;portation. La cible du sort devient alors la cible de l’attaque ou du sort offensif initialement destin&#233; au personnage. Si la t&#233;l&#233;portation ne suffit pas &#224; faire sortir le personnage de la zone d’effet du sort offensif, ce dernier l’affecte normalement. Si la cr&#233;ature cible ne peut pas se tenir dans la case d’arriv&#233;e sans s’y faufiler, si le personnage essaie de la t&#233;l&#233;porter
+dans une case occup&#233;e ou encore dans une case o&#249; elle ne tient pas, la juxtaposition &#233;choue. Elle &#233;choue aussi si la cible est inconsciente ou morte au moment de l’&#233;change. Le sort expire apr&#232;s que le personnage l’a utilis&#233;e une fois.
+]]></body>
+  <raw><![CDATA[{s:UC}
+'''École''' [[invocation]] ([[Branche téléportation|téléportation]]); '''Niveau''' [[ensorceleur]]/[[magicien]] 5, [[conjurateur]] 4, [[sorcière]] 5</br>
+'''Temps d’incantation''' 1 [[action simple]]</br>
+'''Composantes''' [[Composantes|V, G, F]] (une pièce)</br>
+'''Portée''' courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])</br>
+'''Cible''' une créature de la taille du lanceur de sorts ou plus petite</br>
+'''Durée''' 1 round/[[niveau]] ou jusqu’à épuisement</br>
+'''Jet de sauvegarde''' Volonté pour annuler ; '''Résistance à la magie''' oui
+
+Le personnage crée un lien dimensionnel avec sa cible. Quand il est victime d’une attaque ou d’un sort qui inflige des dégâts, il peut dépenser une action immédiate pour changer de place avec la cible du sort, par téléportation. La cible du sort devient alors la cible de l’attaque ou du sort offensif initialement destiné au personnage. Si la téléportation ne suffit pas à faire sortir le personnage de la zone d’effet du sort offensif, ce dernier l’affecte normalement. Si la créature cible ne peut pas se tenir dans la case d’arrivée sans s’y faufiler, si le personnage essaie de la téléporter
+dans une case occupée ou encore dans une case où elle ne tient pas, la juxtaposition échoue. Elle échoue aussi si la cible est inconsciente ou morte au moment de l’échange. Le sort expire après que le personnage l’a utilisée une fois.]]></raw>
+  <fullName>Pathfinder-RPG.Juxtaposition hostile</fullName>
+</wikiPage>

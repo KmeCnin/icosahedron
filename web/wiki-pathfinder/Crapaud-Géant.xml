@@ -1,0 +1,156 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Crapaud géant</title>
+  <categories><category>Pathfinder-RPG.Bestiaire 2</category></categories>
+  <lastModified>2013-02-08 10:13:55Z</lastModified>
+  <version>3</version>
+  <inLinks><link>Pathfinder-RPG.Glossaire des monstres</link><link>Pathfinder-RPG.Liste de monstres par FP</link><link>Pathfinder-RPG.Liste de monstres par milieu naturel</link><link>Pathfinder-RPG.Liste de monstres par type</link><link>Pathfinder-RPG.Monstres</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.type Animal</link><link>Pathfinder-RPG.odorat</link><link>Pathfinder-RPG.vision nocturne</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Étreinte</link><link>Pathfinder-RPG.Engloutissement</link><link>Pathfinder-RPG.Réflexes surhumains</link><link>Pathfinder-RPG.Talent</link><link>Pathfinder-RPG.Acrobaties</link><link>Pathfinder-RPG.Discrétion</link><link>Pathfinder-RPG.Natation</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Crapaud g&#233;ant&lt;div style=&quot;float:right;&quot;&gt;FP2&lt;/div&gt;&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Bestiaire 2, p.69&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 600
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Animal.html&quot; title=&quot;Animal&quot;&gt;Animal&lt;/a&gt; de taille G, N
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +1 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Odorat-(Capacit&#233;).html&quot; title=&quot;odorat&quot;&gt;odorat&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Nocturne-(Capacit&#233;).html&quot; title=&quot;vision nocturne&quot;&gt;vision nocturne&lt;/a&gt; ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +8
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Aura&lt;/b&gt; de froid glacial (6 m)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 14, contact 10, pris au d&#233;pourvu 13 (Dex +1, naturelle +4, taille –1)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 22 (3d8+9)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +6, &lt;b&gt;Vig&lt;/b&gt; +6, &lt;b&gt;Vol&lt;/b&gt; +0
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Capacit&#233;s d&#233;fensives&lt;/b&gt; peau empoisonn&#233;e
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 9 m (6 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), nage 4,50 m (3 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; morsure, +5 (1d6+6 plus &lt;a class=&quot;pagelink&quot; href=&quot;&#201;treinte-(Capacit&#233;).html&quot; title=&quot;&#201;treinte&quot;&gt;&#233;treinte&lt;/a&gt; )
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Espace&lt;/b&gt; 3 m ; &lt;b&gt;Allonge&lt;/b&gt; 3 m
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaques sp&#233;ciales&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Engloutissement-(Capacit&#233;).html&quot; title=&quot;Engloutissement&quot;&gt;engloutissement&lt;/a&gt; (1d4 contondant, CA 12, 2 pv)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Statistiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 19, &lt;b&gt;Dex&lt;/b&gt; 13, &lt;b&gt;Con&lt;/b&gt; 16, &lt;b&gt;Int&lt;/b&gt; 1, &lt;b&gt;Sag&lt;/b&gt; 8, &lt;b&gt;Cha&lt;/b&gt; 6
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +2, &lt;b&gt;BMO&lt;/b&gt; +7 (+11 lutte), &lt;b&gt;DMD&lt;/b&gt; 18 (22 contre croc-en-jambe)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;R&#233;flexes-Surhumains.html&quot; title=&quot;R&#233;flexes surhumains&quot;&gt;R&#233;flexes surhumains&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Talent.html&quot; title=&quot;Talent&quot;&gt;Talent&lt;/a&gt; (Perception)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Acrobaties.html&quot; title=&quot;Acrobaties&quot;&gt;Acrobaties&lt;/a&gt; +5 (+9 pour sauter), &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; +5, &lt;a class=&quot;pagelink&quot; href=&quot;Natation.html&quot; title=&quot;Natation&quot;&gt;Natation&lt;/a&gt; +12, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +8 ;  &lt;b&gt;Modificateurs raciaux&lt;/b&gt; +4 en Acrobaties (+8 pour sauter), +4 en Discr&#233;tion
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; for&#234;ts/plaines/marais temp&#233;r&#233;s
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation sociale&lt;/b&gt; solitaire, couple ou frai (3–12)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; aucun
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Pouvoirs sp&#233;ciaux&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Peau empoisonn&#233;e (Ext).&lt;/b&gt; Toutes les cr&#233;atures qui touchent un crapaud g&#233;ant &#224; l’aide d’une attaque &#224; main nue ou d’une arme naturelle sont expos&#233;es &#224; la peau empoisonn&#233;e du crapaud. Peau — contact ; JdS Vigueur DD 14 ; fr&#233;quence 1/round pendant 4 rounds ; effet affaiblissement temporaire 1d2 Sagesse ; gu&#233;rison 1 r&#233;ussite.
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;h3 class=&quot;separator&quot;&gt; &lt;a class=&quot;headeranchor&quot; id=&quot;_0&quot; href=&quot;#_0&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;td&gt;&lt;div&gt;&lt;i&gt;De grosses verrues pars&#232;ment la peau de ce crapaud brun de la taille d’un cheval. Sa gorge se boursoufle et ondule comme s’il &#233;tait sur le point de coasser.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;La plupart des crapauds g&#233;ants vivent dans
+des r&#233;gions plus s&#232;ches apr&#232;s avoir atteint
+l’&#226;ge adulte et ne reviennent vers l’eau que
+pour se reproduire et donner naissance.
+Les compagnons crapauds g&#233;ants
+sont identiques aux grenouilles
+g&#233;antes (voir le Bestiaire Pathfinder
+JdR page 174), si ce n’est qu’ils
+ne poss&#232;dent pas les capacit&#233;s
+&#171; langue &#187; et &#171; attirer &#187; de la
+grenouille. Au lieu
+de cela, ils gagnent
+la capacit&#233; &#171; peau
+empoisonn&#233;e &#187; au
+niveau 4.
+&lt;/center&gt;
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Crapaud géant|FP2}
+{s:pucem|Animal|Marais|Tempéré}
+{s:BDTexte|''Source : Bestiaire 2, p.69''}
+{s:BDTexte|'''PX''' 600}
+{s:BDTexte|[[type Animal|Animal]] de taille G, N}
+{s:BDTexte|'''Init''' +1 ; '''Sens''' [[odorat]], [[vision nocturne]] ; [[Perception]] +8}
+{s:BDTexte|'''Aura''' de froid glacial (6 m)}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 14, contact 10, pris au dépourvu 13 (Dex +1, naturelle +4, taille –1)}
+{s:BDTexte|'''pv''' 22 (3d8+9)}
+{s:BDTexte|'''Réf''' +6, '''Vig''' +6, '''Vol''' +0}
+{s:BDTexte|'''Capacités défensives''' peau empoisonnée}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 9 m (6 {s:c}), nage 4,50 m (3 {s:c})}
+{s:BDTexte|'''Corps à corps''' morsure, +5 (1d6+6 plus [[étreinte]] )}
+{s:BDTexte|'''Espace''' 3 m ; '''Allonge''' 3 m}
+{s:BDTexte|'''Attaques spéciales''' [[engloutissement]] (1d4 contondant, CA 12, 2 pv)}
+{s:BDSousTitre|Statistiques}
+{s:BDTexte|'''For''' 19, '''Dex''' 13, '''Con''' 16, '''Int''' 1, '''Sag''' 8, '''Cha''' 6}
+{s:BDTexte|'''BBA''' +2, '''BMO''' +7 (+11 lutte), '''DMD''' 18 (22 contre croc-en-jambe)}
+{s:BDTexte|'''Dons''' [[Réflexes surhumains]], [[Talent]] (Perception)}
+{s:BDTexte|'''Compétences''' [[Acrobaties]] +5 (+9 pour sauter), [[Discrétion]] +5, [[Natation]] +12, [[Perception]] +8 ;  '''Modificateurs raciaux''' +4 en Acrobaties (+8 pour sauter), +4 en Discrétion}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' forêts/plaines/marais tempérés}
+{s:BDTexte|'''Organisation sociale''' solitaire, couple ou frai (3–12)}
+{s:BDTexte|'''Trésor''' aucun}
+{s:BDSousTitre|Pouvoirs spéciaux}
+{s:BDTexte|'''Peau empoisonnée (Ext).''' Toutes les créatures qui touchent un crapaud géant à l’aide d’une attaque à main nue ou d’une arme naturelle sont exposées à la peau empoisonnée du crapaud. Peau — contact ; JdS Vigueur DD 14 ; fréquence 1/round pendant 4 rounds ; effet affaiblissement temporaire 1d2 Sagesse ; guérison 1 réussite.}
+</div>
+</div>
+==== ====
+
+</div>
+</td><td><div>''De grosses verrues parsèment la peau de ce crapaud brun de la taille d’un cheval. Sa gorge se boursoufle et ondule comme s’il était sur le point de coasser.''
+
+La plupart des crapauds géants vivent dans
+des régions plus sèches après avoir atteint
+l’âge adulte et ne reviennent vers l’eau que
+pour se reproduire et donner naissance.
+Les compagnons crapauds géants
+sont identiques aux grenouilles
+géantes (voir le Bestiaire Pathfinder
+JdR page 174), si ce n’est qu’ils
+ne possèdent pas les capacités
+« langue » et « attirer » de la
+grenouille. Au lieu
+de cela, ils gagnent
+la capacité « peau
+empoisonnée » au
+niveau 4.
+</center>
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Crapaud géant</fullName>
+</wikiPage>

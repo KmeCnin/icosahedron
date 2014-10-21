@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Elévation du sol</title>
+  <categories><category>Pathfinder-RPG.Manuel des races</category><category>Pathfinder-RPG.Sort</category><category>Pathfinder-RPG.Sort druide 2</category><category>Pathfinder-RPG.Sort magus 2</category><category>Pathfinder-RPG.Sort prêtre 2</category><category>Pathfinder-RPG.Sort rôdeur 2</category></categories>
+  <lastModified>2014-09-10 23:00:04Z</lastModified>
+  <version>1</version>
+  <inLinks><link>Pathfinder-RPG.Nain</link><link>Pathfinder-RPG.Temp-manuel-des-races</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Nain</link><link>Pathfinder-RPG.Transmutation</link><link>Pathfinder-RPG.Présentation des sorts</link><link>Pathfinder-RPG.Prêtre</link><link>Pathfinder-RPG.Druide</link><link>Pathfinder-RPG.Magus</link><link>Pathfinder-RPG.Rôdeur</link><link>Pathfinder-RPG.Action simple</link><link>Pathfinder-RPG.composantes</link><link>Pathfinder-RPG.contact</link><link>Pathfinder-RPG.niveau</link><link>Pathfinder-RPG.Vigueur</link><link>Pathfinder-RPG.Action libre</link><link>Pathfinder-RPG.Collines</link></outLinks>
+  <body><![CDATA[&lt;b&gt;Ce sort est r&#233;serv&#233; aux personnages de la race &lt;a class=&quot;pagelink&quot; href=&quot;Nain.html&quot; title=&quot;Les nains&quot;&gt;naine&lt;/a&gt;.&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;&lt;b&gt;&#201;cole&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#TRANSMUTATION&quot; title=&quot;Transmutation&quot;&gt;Transmutation&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#TERRE&quot; title=&quot;Pr&#233;sentation des sorts&quot;&gt;terre&lt;/a&gt;) ; 
+&lt;b&gt;Niveau&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#234;tre.html&quot; title=&quot;Le pr&#234;tre&quot;&gt;Pr&#234;tre&lt;/a&gt; 2, &lt;a class=&quot;pagelink&quot; href=&quot;Druide.html&quot; title=&quot;Le druide&quot;&gt;Druide&lt;/a&gt; 2, &lt;a class=&quot;pagelink&quot; href=&quot;Magus.html&quot; title=&quot;Le Magus&quot;&gt;Magus&lt;/a&gt; 2, &lt;a class=&quot;pagelink&quot; href=&quot;R&#244;deur.html&quot; title=&quot;Le r&#244;deur&quot;&gt;R&#244;deur&lt;/a&gt; 2&lt;br/&gt;
+&lt;b&gt;Temps d&#39;incantation&lt;/b&gt; 1 &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions.html#SIMPLE&quot; title=&quot;Action simple&quot;&gt;action simple&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Composantes&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#COMPOSANTES&quot; title=&quot;composantes&quot;&gt;V, G&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Port&#233;e&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#ATTAQUESDECONTACT&quot; title=&quot;contact&quot;&gt;contact&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Cible&lt;/b&gt; cr&#233;ature touch&#233;e&lt;br/&gt;
+&lt;b&gt;Dur&#233;e&lt;/b&gt; 1 minute/&lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#NIVEAU&quot; title=&quot;niveau&quot;&gt;niveau&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Jet de sauvegarde&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;Vigueur&quot;&gt;Vigueur&lt;/a&gt; pour annuler (inoffensif) ; &lt;b&gt;R&#233;sistance &#224; la magie&lt;/b&gt; oui (inoffensif)&lt;br /&gt;&lt;br /&gt;Ce sort permet &#224; la cible de faire monter le sol sous ses pieds. Par une &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions.html#LIBRE&quot; title=&quot;Action libre&quot;&gt;action libre&lt;/a&gt;, elle peut provoquer une &#233;l&#233;vation de 1,50 m&#232;tre. Toutes les cases adjacentes sont alors trait&#233;es comme une &lt;a class=&quot;pagelink&quot; href=&quot;Collines.html#PENTERAIDE&quot; title=&quot;Les collines&quot;&gt;pente raide&lt;/a&gt; . L’&#233;l&#233;vation du sol emp&#234;che les ennemis plac&#233;s en contrebas de prendre la cible du sort en tenaille. Si la cible se d&#233;place apr&#232;s activation du sort, le sol reprend son altitude normale &#224; la fin de son tour, sinon, il reste sur&#233;lev&#233; jusqu’&#224; ce que la cible bouge ou utilise une action rapide pour le faire revenir &#224; la normale. L’&#233;l&#233;vation du sol ne permet pas de sur&#233;lever le sol de plus de 1,50 m&#232;tre.
+]]></body>
+  <raw><![CDATA[{s:MR}'''Ce sort est réservé aux personnages de la race [[nain|naine]].'''
+
+'''École''' [[Transmutation]] ([[Présentation des sorts#TERRE|terre]]) ; 
+'''Niveau''' [[Prêtre]] 2, [[Druide]] 2, [[Magus]] 2, [[Rôdeur]] 2<br/>
+'''Temps d'incantation''' 1 [[action simple]]<br/>
+'''Composantes''' [[composantes|V, G]]<br/>
+'''Portée''' [[contact]]<br/>
+'''Cible''' créature touchée<br/>
+'''Durée''' 1 minute/[[niveau]]<br/>
+'''Jet de sauvegarde''' [[Vigueur]] pour annuler (inoffensif) ; '''Résistance à la magie''' oui (inoffensif)
+
+Ce sort permet à la cible de faire monter le sol sous ses pieds. Par une [[action libre]], elle peut provoquer une élévation de 1,50 mètre. Toutes les cases adjacentes sont alors traitées comme une [[collines#PENTERAIDE|pente raide]] . L’élévation du sol empêche les ennemis placés en contrebas de prendre la cible du sort en tenaille. Si la cible se déplace après activation du sort, le sol reprend son altitude normale à la fin de son tour, sinon, il reste surélevé jusqu’à ce que la cible bouge ou utilise une action rapide pour le faire revenir à la normale. L’élévation du sol ne permet pas de surélever le sol de plus de 1,50 mètre.]]></raw>
+  <fullName>Pathfinder-RPG.élévation du sol</fullName>
+</wikiPage>

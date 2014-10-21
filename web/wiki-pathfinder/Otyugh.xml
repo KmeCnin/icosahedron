@@ -1,0 +1,185 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Otyugh</title>
+  <categories><category>Pathfinder-RPG.Bestiaire</category><category>Pathfinder-RPG.Monstre</category><category>Pathfinder-RPG.Règles officielles</category></categories>
+  <lastModified>2013-02-07 18:57:45Z</lastModified>
+  <version>6</version>
+  <inLinks><link>Pathfinder-RPG.Frappes ciblées</link><link>Pathfinder-RPG.Glossaire des monstres</link><link>Pathfinder-RPG.Liste de monstres par FP</link><link>Pathfinder-RPG.Liste de monstres par milieu naturel</link><link>Pathfinder-RPG.Liste de monstres par type</link><link>Pathfinder-RPG.Monstres</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.type Aberration</link><link>Pathfinder-RPG.odorat</link><link>Pathfinder-RPG.vision dans le noir</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Étreinte</link><link>Pathfinder-RPG.constriction</link><link>Pathfinder-RPG.lutte</link><link>Pathfinder-RPG.croc-en-jambe</link><link>Pathfinder-RPG.Arme de prédilection</link><link>Pathfinder-RPG.Robustesse</link><link>Pathfinder-RPG.Vigilance</link><link>Pathfinder-RPG.Discrétion</link><link>Pathfinder-RPG.Vigueur</link><link>Pathfinder-RPG.DD</link><link>Pathfinder-RPG.affaiblissement temporaire</link><link>Pathfinder-RPG.Dextérité</link><link>Pathfinder-RPG.Constitution</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Otyugh&lt;div style=&quot;float:right;&quot;&gt;FP 4&lt;/div&gt;&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Bestiaire&lt;/i&gt; p.234
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 1.200
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Aberration.html&quot; title=&quot;Aberration&quot;&gt;Aberration&lt;/a&gt; de taille G, N
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +0 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Odorat-(Capacit&#233;).html&quot; title=&quot;odorat&quot;&gt;odorat&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Capacit&#233;s-Sp&#233;ciales.html#VISIONDANSLENOIR&quot; title=&quot;vision dans le noir&quot;&gt;vision dans le noir&lt;/a&gt; 18 m (12 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +9
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 17, contact 9, pris au d&#233;pourvu 17 (naturelle +8, taille -1)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 39 (6d8+12)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +2, &lt;b&gt;Vig&lt;/b&gt; +3, &lt;b&gt;Vol&lt;/b&gt; +6
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Immunit&#233;s&lt;/b&gt; maladie
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 6 m (4 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; morsure, +7 (1d8+4 et maladie), 2 tentacules, +3 (1d6+2 et &lt;a class=&quot;pagelink&quot; href=&quot;&#201;treinte-(Capacit&#233;).html&quot; title=&quot;&#201;treinte&quot;&gt;&#233;treinte&lt;/a&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Espace&lt;/b&gt; 3 m (2 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) ; &lt;b&gt;Allonge&lt;/b&gt; 3 m (2 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) (4,50 m (3 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) pour les tentacules)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaques sp&#233;ciales&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Constriction-(Capacit&#233;).html&quot; title=&quot;constriction&quot;&gt;constriction&lt;/a&gt; (tentacule, 1d6+2)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 18, &lt;b&gt;Dex&lt;/b&gt; 10, &lt;b&gt;Con&lt;/b&gt; 13, &lt;b&gt;Int&lt;/b&gt; 5, &lt;b&gt;Sag&lt;/b&gt; 13, &lt;b&gt;Cha&lt;/b&gt; 6
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +4, &lt;b&gt;BMO&lt;/b&gt; +9 (+13 &lt;a class=&quot;pagelink&quot; href=&quot;Manœuvres-Offensives.html#LUTTE&quot; title=&quot;lutte&quot;&gt;lutte&lt;/a&gt;), &lt;b&gt;DMD&lt;/b&gt; 19 (21 contre &lt;a class=&quot;pagelink&quot; href=&quot;Croc-En-Jambe.html&quot; title=&quot;croc-en-jambe&quot;&gt;croc-en-jambe&lt;/a&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Arme-De-Pr&#233;dilection.html&quot; title=&quot;Arme de pr&#233;dilection&quot;&gt;Arme de pr&#233;dilection&lt;/a&gt; (tentacule), &lt;a class=&quot;pagelink&quot; href=&quot;Robustesse.html&quot; title=&quot;Robustesse&quot;&gt;Robustesse&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Vigilance.html&quot; title=&quot;Vigilance&quot;&gt;Vigilance&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; +2 (+10 dans sa tani&#232;re), &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +9 ; &lt;b&gt;Modificateurs raciaux&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; +8 dans sa tani&#232;re
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Langues&lt;/b&gt; commun
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; souterrain
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation sociale&lt;/b&gt; solitaire, couple ou groupe (3-4)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; standard
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Capacit&#233;s sp&#233;ciales&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Maladie (Ext).&lt;/b&gt; &lt;i&gt;Fi&#232;vre des marais&lt;/i&gt; : Morsure - blessure ; &lt;i&gt;JS&lt;/i&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;Vigueur&quot;&gt;Vigueur&lt;/a&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DEGREDEDIFFICULTE&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; 14 ; &lt;i&gt;incubation&lt;/i&gt; 1d3 jours ; &lt;i&gt;fr&#233;quence&lt;/i&gt; 1/jour ; &lt;i&gt;effet&lt;/i&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Affaiblissement-Temporaire-(Capacit&#233;).html&quot; title=&quot;affaiblissement temporaire&quot;&gt;affaiblissement temporaire&lt;/a&gt; 1d3 &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#DEXTERITE&quot; title=&quot;La Dext&#233;rit&#233;&quot;&gt;Dex&lt;/a&gt; et 1d3 &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#CONSTITUTION&quot; title=&quot;La Constitution&quot;&gt;Con&lt;/a&gt; ; &lt;i&gt;gu&#233;rison&lt;/i&gt; 2 r&#233;ussites cons&#233;cutives. Le &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DEGREDEDIFFICULTE&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; d&#233;pend de la &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#CONSTITUTION&quot; title=&quot;La Constitution&quot;&gt;Constitution&lt;/a&gt;.
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;td&gt;&lt;div&gt;&lt;i&gt;Ce monstre &#224; trois pattes ressemble &#224; une gueule g&#233;ante dot&#233;e de trois
+tentacules, deux portant des piques ac&#233;r&#233;es et l’autre, des yeux.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Les otyughs sont des cr&#233;atures
+particuli&#232;rement abominables
+qui se vautrent dans les endroits
+que la plupart des cr&#233;atures saines
+d’esprit &#233;vitent. Ils &#233;tablissent leur repaire
+dans les d&#233;charges, les fosses d’aisance, les fosses &#224; d&#233;tritus,
+les marais toxiques ou les &#233;gouts. Plus un lieu est crasseux
+et plus il attire ces mangeurs de d&#233;chets.
+Ils excellent dans le r&#244;le de
+charognards, sillonnant de
+vastes cavernes souterraines &#224; la recherches de d&#233;tritus et de d&#233;chets de choix. Lorsqu’ils en
+trouvent, ils s’en repaissent puis rassemblent ce qu’ils n’ont pas pu
+consommer et ram&#232;ne le tout dans leur repaire pestilentiel. Les
+otyughs passent la plupart de leur temps dans ces antres puants
+qu’ils alimentent constamment en charognes, en excr&#233;ments et en
+autres substances aux effluves similaires.&lt;br /&gt;&lt;br /&gt;Les cr&#233;atures intelligentes qui &#233;lisent domicile &#224; proximit&#233; d’une
+tani&#232;re souterraine d’otyughs s’allient souvent avec ces monstres
+d&#233;go&#251;tants pour des raisons pratiques. Elles sont heureuses de leur
+fournir les d&#233;chets et la viande fra&#238;ches qu’ils d&#233;sirent et ainsi se
+d&#233;barrasser de leurs d&#233;tritus. En contre-partie, les otyughs laissent
+leur bienfaiteurs en paix et ne les attaquent pas. Ils vont m&#234;me
+parfois jusqu’&#224; endosser le r&#244;le de gardiens.&lt;br /&gt;&lt;br /&gt;La caract&#233;ristique des otyughs que la plupart des races trouvent
+la plus horrible n’est pas la nature de leur r&#233;gime alimentaire ni
+leurs pr&#233;f&#233;rences en mati&#232;re de repaires, mais plut&#244;t le fait qu’une
+cr&#233;ature poss&#233;dant de tels go&#251;ts puisse &#234;tre autre chose qu’un
+charognard sans intelligence. En fait, les otyughs sont dot&#233;s d’une
+intelligence surprenante et ils sont g&#233;n&#233;ralement pr&#234;ts &#224; s’allier avec
+ceux qui leur offrent un afflux constant de nourritures d&#233;licieuses
+sous la forme d’ordures et de d&#233;chets. La plupart des otyughs
+comprennent que les autres cr&#233;atures les trouvent d&#233;plaisants et
+hideux, mais rares sont ceux que cela pr&#233;occupe vraiment.
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Otyugh|FP 4}
+{s:pucem|Aberration|Souterrain|Tempéré}
+{s:BDTexte|''Source : Bestiaire'' p.234}
+{s:BDTexte|'''PX''' 1.200}
+{s:BDTexte|[[type Aberration|Aberration]] de taille G, N}
+{s:BDTexte|'''Init''' +0 ; '''Sens''' [[odorat]], [[vision dans le noir]] 18 m (12 {s:c}) ; [[Perception]] +9}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 17, contact 9, pris au dépourvu 17 (naturelle +8, taille -1)}
+{s:BDTexte|'''pv''' 39 (6d8+12)}
+{s:BDTexte|'''Réf''' +2, '''Vig''' +3, '''Vol''' +6}
+{s:BDTexte|'''Immunités''' maladie}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 6 m (4 {s:c})}
+{s:BDTexte|'''Corps à corps''' morsure, +7 (1d8+4 et maladie), 2 tentacules, +3 (1d6+2 et [[étreinte]])}
+{s:BDTexte|'''Espace''' 3 m (2 {s:c}) ; '''Allonge''' 3 m (2 {s:c}) (4,50 m (3 {s:c}) pour les tentacules)}
+{s:BDTexte|'''Attaques spéciales''' [[constriction]] (tentacule, 1d6+2)}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 18, '''Dex''' 10, '''Con''' 13, '''Int''' 5, '''Sag''' 13, '''Cha''' 6}
+{s:BDTexte|'''BBA''' +4, '''BMO''' +9 (+13 [[lutte]]), '''DMD''' 19 (21 contre [[croc-en-jambe]])}
+{s:BDTexte|'''Dons''' [[Arme de prédilection]] (tentacule), [[Robustesse]], [[Vigilance]]}
+{s:BDTexte|'''Compétences''' [[Discrétion]] +2 (+10 dans sa tanière), [[Perception]] +9 ; '''Modificateurs raciaux''' [[Discrétion]] +8 dans sa tanière}
+{s:BDTexte|'''Langues''' commun}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' souterrain}
+{s:BDTexte|'''Organisation sociale''' solitaire, couple ou groupe (3-4)}
+{s:BDTexte|'''Trésor''' standard}
+{s:BDSousTitre|Capacités spéciales}
+{s:BDTexte|'''Maladie (Ext).''' ''Fièvre des marais'' : Morsure - blessure ; ''JS'' [[Vigueur]] [[DD]] 14 ; ''incubation'' 1d3 jours ; ''fréquence'' 1/jour ; ''effet'' [[affaiblissement temporaire]] 1d3 [[Dextérité|Dex]] et 1d3 [[Constitution|Con]] ; ''guérison'' 2 réussites consécutives. Le [[DD]] dépend de la [[Constitution]].}
+</div>
+</td><td><div>''Ce monstre à trois pattes ressemble à une gueule géante dotée de trois
+tentacules, deux portant des piques acérées et l’autre, des yeux.''
+
+Les otyughs sont des créatures
+particulièrement abominables
+qui se vautrent dans les endroits
+que la plupart des créatures saines
+d’esprit évitent. Ils établissent leur repaire
+dans les décharges, les fosses d’aisance, les fosses à détritus,
+les marais toxiques ou les égouts. Plus un lieu est crasseux
+et plus il attire ces mangeurs de déchets.
+Ils excellent dans le rôle de
+charognards, sillonnant de
+vastes cavernes souterraines à la recherches de détritus et de déchets de choix. Lorsqu’ils en
+trouvent, ils s’en repaissent puis rassemblent ce qu’ils n’ont pas pu
+consommer et ramène le tout dans leur repaire pestilentiel. Les
+otyughs passent la plupart de leur temps dans ces antres puants
+qu’ils alimentent constamment en charognes, en excréments et en
+autres substances aux effluves similaires.
+
+Les créatures intelligentes qui élisent domicile à proximité d’une
+tanière souterraine d’otyughs s’allient souvent avec ces monstres
+dégoûtants pour des raisons pratiques. Elles sont heureuses de leur
+fournir les déchets et la viande fraîches qu’ils désirent et ainsi se
+débarrasser de leurs détritus. En contre-partie, les otyughs laissent
+leur bienfaiteurs en paix et ne les attaquent pas. Ils vont même
+parfois jusqu’à endosser le rôle de gardiens.
+
+La caractéristique des otyughs que la plupart des races trouvent
+la plus horrible n’est pas la nature de leur régime alimentaire ni
+leurs préférences en matière de repaires, mais plutôt le fait qu’une
+créature possédant de tels goûts puisse être autre chose qu’un
+charognard sans intelligence. En fait, les otyughs sont dotés d’une
+intelligence surprenante et ils sont généralement prêts à s’allier avec
+ceux qui leur offrent un afflux constant de nourritures délicieuses
+sous la forme d’ordures et de déchets. La plupart des otyughs
+comprennent que les autres créatures les trouvent déplaisants et
+hideux, mais rares sont ceux que cela préoccupe vraiment.
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Otyugh</fullName>
+</wikiPage>

@@ -1,0 +1,124 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Hippogriffe</title>
+  <categories><category>Pathfinder-RPG.Bestiaire 2</category><category>Pathfinder-RPG.Monstre</category></categories>
+  <lastModified>2013-02-07 21:10:08Z</lastModified>
+  <version>1</version>
+  <inLinks><link>Pathfinder-RPG.Glossaire des monstres</link><link>Pathfinder-RPG.Le château dans les nuages du roi Tempête</link><link>Pathfinder-RPG.Liste de monstres par FP</link><link>Pathfinder-RPG.Liste de monstres par milieu naturel</link><link>Pathfinder-RPG.Liste de monstres par type</link><link>Pathfinder-RPG.Monstres</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.type Créature magique</link><link>Pathfinder-RPG.odorat</link><link>Pathfinder-RPG.vision nocturne</link><link>Pathfinder-RPG.vision dans le noir</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Esquive</link><link>Pathfinder-RPG.Virage sur laile</link><link>Pathfinder-RPG.Vol</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Hippogriffe&lt;div style=&quot;float:right;&quot;&gt;FP 2&lt;/div&gt;&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Bestiaire 2 p.164&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 600
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a &lt;a class=&quot;pagelink&quot; href=&quot;Type-Cr&#233;ature-Magique.html&quot; title=&quot;Cr&#233;ature magique&quot;&gt;Cr&#233;ature magique&lt;/a&gt;&lt;/a&gt; de taille G, N&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +2 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Odorat-(Capacit&#233;).html&quot; title=&quot;odorat&quot;&gt;odorat&lt;/a&gt;&lt;/a&gt;, &lt;a&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Vision-Nocturne-(Capacit&#233;).html&quot; title=&quot;vision nocturne&quot;&gt;vision nocturne&lt;/a&gt;&lt;/a&gt;, &lt;a&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Capacit&#233;s-Sp&#233;ciales.html#VISIONDANSLENOIR&quot; title=&quot;vision dans le noir&quot;&gt;vision dans le noir&lt;/a&gt; 18 m (12 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)&lt;/a&gt; ; &lt;a&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt;&lt;/a&gt; +9
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 14, contact 12, pris au d&#233;pourvu 13 (Dex +2, naturelle +2, taille -1)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 22 (3d10+6)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +5, &lt;b&gt;Vig&lt;/b&gt; +6, &lt;b&gt;Vol&lt;/b&gt; +2
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 12 m (8 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), vol 30 m (20 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) (moyenne)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; morsure +4 (1d6+2)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+ et 2 griffes +4 (1d4+2)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Espace&lt;/b&gt; 3 m (2 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;); &lt;b&gt;Allonge&lt;/b&gt; 1,5 m (1 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 15, &lt;b&gt;Dex&lt;/b&gt; 15, &lt;b&gt;Con&lt;/b&gt; 14, &lt;b&gt;Int&lt;/b&gt; 2, &lt;b&gt;Sag&lt;/b&gt; 12, &lt;b&gt;Cha&lt;/b&gt; 19
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +3, &lt;b&gt;BMO&lt;/b&gt; +6, &lt;b&gt;DMD&lt;/b&gt; 19
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Esquive.html&quot; title=&quot;Esquive&quot;&gt;Esquive&lt;/a&gt;&lt;/a&gt;, &lt;a&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Virage-Sur-Laile.html&quot; title=&quot;Virage sur l&amp;#39;aile&quot;&gt;Virage sur l&#39;aile&lt;/a&gt;&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt;&lt;/a&gt;  +9 , &lt;a&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Vol.html&quot; title=&quot;Vol&quot;&gt;Vol&lt;/a&gt;&lt;/a&gt;  +5
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Modificateurs raciaux&lt;/b&gt; +4 en &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; collines / plaines temp&#233;r&#233;es
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation sociale&lt;/b&gt; solitaire, couple ou vol(7-12)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; aucun
+&lt;/div&gt;&lt;br /&gt;&lt;/td&gt;&lt;td&gt;&lt;div&gt;&lt;i&gt;Cette grande cr&#233;ature brune semblable &#224; un cheval poss&#232;de des ailes, 
+des serres et un bec crochu de faucon.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Un  hippogriffe  combine  des  ailes,  des  pattes  avant et  une  t&#234;te  de  rapace  g&#233;ant  avec  le  corps  d’un  cheval magnifique. Comme les chevaux constituent les mets de  pr&#233;dilection  des  griffons,  certains  &#233;rudits  pr&#233;tendent qu’un magicien distordeur de chair ayant le sens de l’humour et de l’ironie aurait cr&#233;&#233; cette union &#233;trange entre un cheval et un faucon par simple plaisanterie.&lt;br /&gt;&lt;br /&gt;Les  plumes  des  hippogriffes  arborent  des  colorations similaires &#224; celles des faucons ou des aigles. Cependant, certains &#233;leveurs  sont  parvenus  &#224;  produire  des  sp&#233;cimens  aux  plumes couleur  blanc  pur  ou  noir  de  charbon.  Le  torse  et  l’arri&#232;re  du corps  des  hippogriffes  sont  g&#233;n&#233;ralement  de  couleur  bai, noisette ou grise mais certains poss&#232;dent des robes semblables &#224; celles des chevaux pies ou palominos. Les hippogriffes mesurent 
+3,30 m&#232;tres de long et p&#232;sent 750 kg ou plus.&lt;br /&gt;&lt;br /&gt;Les  hippogriffes  sont  des  cr&#233;atures  tr&#232;s  territoriales  qui prot&#232;gent  f&#233;rocement  leur  domaine.  Ils  doivent  &#233;galement scruter  le  ciel  pour  rep&#233;rer  les  pr&#233;dateurs  tels  que  les  griffons, les  vouivres  et  les  jeunes  dragons  pour  qui  ils  constituent  un repas tr&#232;s appr&#233;ci&#233;. Les hippogriffes font leur nid au milieu des vastes  prairies  ou  parmi  les  collines  vallonn&#233;es.  Les  sp&#233;cimens plus  robustes  que  la  moyenne  s’installent  parfois  dans  des renfoncements  creus&#233;s  dans  les  murs  des  canyons  et  utilisent cet  endroit  comme  point  central  &#224;  partir  duquel  ils  sillonnent les  d&#233;serts  rocheux  &#224;  la  recherche  de  coyotes,  de  boucs  et, parfois,  d’humano&#239;des.  Les  hippogriffes  pr&#233;f&#232;rent  se  nourrir  de mammif&#232;res,  mais  ils  broutent  &#233;galement de  l’herbe  apr&#232;s  chaque  repas  constitu&#233;  de viande  pour  faciliter  leur  digestion.  Leurs 
+habitudes alimentaires peuvent se r&#233;v&#233;ler dangereuses &#224; la fois pour les &#233;leveurs de b&#233;tail et pour le b&#233;tail lui-m&#234;me. C’est ce qui explique pourquoi ces individus mettent souvent  la  t&#234;te  des  hippogriffes  &#224;  prix.  Les  victimes  de  ces chasses  sont  empaill&#233;es  et  vont  bien  souvent  d&#233;corer  les  postes avanc&#233;s ou les tavernes situ&#233;es aux fronti&#232;res de la civilisation.&lt;br /&gt;&lt;br /&gt;Comme les hippogriffes sont plus faciles &#224; entra&#238;ner que les griffons  et  tout  aussi  intelligents  que  des  chevaux,  certaines compagnies  de  cavalerie  d’&#233;lite  les  utilisent  comme  montures pour  patrouiller  les  cieux  et  fondre  sur  les  ennemis  qui  ne s’attendent  pas  &#224;  une  attaque  venant  d’en  haut.  Malgr&#233;  leur 
+classification  en  tant  que  cr&#233;atures  magiques,  les  hippogriffes captur&#233;s  suffisamment  jeunes  peuvent  &#234;tre  entra&#238;n&#233;s  &#224;  l’aide de  la  comp&#233;tence  de  Dressage  comme  s’il  s’agissait  d’animaux. Les  adultes  sont  plus  difficiles  &#224;  entra&#238;ner  et  les  tentatives  qui les  concernent  suivent  les  r&#232;gles  normales  pour  les  cr&#233;atures magiques. Des selles particuli&#232;res doivent &#234;tre construites pour les  hippogriffes  afin  de  ne  pas  g&#234;ner  les  mouvements  de  leurs ailes ; il s’agit toujours de selles sp&#233;ciales.&lt;br /&gt;&lt;br /&gt;Les hippogriffes ne donnent pas naissance &#224; des jeunes vivants mais pondent des œufs. En r&#232;gle g&#233;n&#233;rale, un nid d’hippogriffe ne contient pas plus d’un œuf &#224; la fois. Un œuf d’hippogriffe vaut 200 po mais un jeune hippogriffe en bonne sant&#233; vaut 500 po. Un hippogriffe  entra&#238;n&#233;  comme  monture  peut  se  vendre  5 000  po ou  plus.  Un  hippogriffe  peut  porter  100  kg  comme  une  charge l&#233;g&#232;re, 200 kg comme une charge interm&#233;diaire et jusqu’&#224; 300 kg comme une charge lourde.
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Hippogriffe|FP 2}
+{s:pucem|Créature magique|Ciel|Tempéré}
+{s:BDTexte|<i>Source : Bestiaire 2 p.164</i>}
+{s:BDTexte|<b>PX</b> 600}
+{s:BDTexte|<a [[type Créature magique|Créature magique]]</a> de taille G, N</a>}
+{s:BDTexte|<b>Init</b> +2 ; <b>Sens</b> <a>[[odorat]]</a>, <a>[[vision nocturne]]</a>, <a>[[vision dans le noir]] 18 m (12 {s:c})</a> ; <a> [[Perception]]</a> +9}
+{s:BDSousTitre|Défense}
+{s:BDTexte|<b>CA</b> 14, contact 12, pris au dépourvu 13 (Dex +2, naturelle +2, taille -1)}
+{s:BDTexte|<b>pv</b> 22 (3d10+6)}
+{s:BDTexte|<b>Réf</b> +5, <b>Vig</b> +6, <b>Vol</b> +2}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|<b>VD</b> 12 m (8 {s:c}), vol 30 m (20 {s:c}) (moyenne)}
+{s:BDTexte|<b>Corps à corps</b> morsure +4 (1d6+2)}
+{s:BDTexte| et 2 griffes +4 (1d4+2)}
+{s:BDTexte|<b>Espace</b> 3 m (2 {s:c}); <b>Allonge</b> 1,5 m (1 {s:c})}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|<b>For</b> 15, <b>Dex</b> 15, <b>Con</b> 14, <b>Int</b> 2, <b>Sag</b> 12, <b>Cha</b> 19}
+{s:BDTexte|<b>BBA</b> +3, <b>BMO</b> +6, <b>DMD</b> 19}
+{s:BDTexte|<b>Dons</b> <a>[[Esquive]]</a>, <a>[[Virage sur laile|Virage sur l'aile]]</a>}
+{s:BDTexte|<b>Compétences</b> <a>[[Perception]]</a>  +9 , <a>[[Vol]]</a>  +5}
+{s:BDTexte|<b>Modificateurs raciaux</b> +4 en [[Perception]]}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|<b>Environnement</b> collines / plaines tempérées}
+{s:BDTexte|<b>Organisation sociale</b> solitaire, couple ou vol(7-12)}
+{s:BDTexte|<b>Trésor</b> aucun}
+
+</td><td><div>''Cette grande créature brune semblable à un cheval possède des ailes, 
+des serres et un bec crochu de faucon.''
+
+Un  hippogriffe  combine  des  ailes,  des  pattes  avant et  une  tête  de  rapace  géant  avec  le  corps  d’un  cheval magnifique. Comme les chevaux constituent les mets de  prédilection  des  griffons,  certains  érudits  prétendent qu’un magicien distordeur de chair ayant le sens de l’humour et de l’ironie aurait créé cette union étrange entre un cheval et un faucon par simple plaisanterie.
+
+Les  plumes  des  hippogriffes  arborent  des  colorations similaires à celles des faucons ou des aigles. Cependant, certains éleveurs  sont  parvenus  à  produire  des  spécimens  aux  plumes couleur  blanc  pur  ou  noir  de  charbon.  Le  torse  et  l’arrière  du corps  des  hippogriffes  sont  généralement  de  couleur  bai, noisette ou grise mais certains possèdent des robes semblables à celles des chevaux pies ou palominos. Les hippogriffes mesurent 
+3,30 mètres de long et pèsent 750 kg ou plus.
+
+Les  hippogriffes  sont  des  créatures  très  territoriales  qui protègent  férocement  leur  domaine.  Ils  doivent  également scruter  le  ciel  pour  repérer  les  prédateurs  tels  que  les  griffons, les  vouivres  et  les  jeunes  dragons  pour  qui  ils  constituent  un repas très apprécié. Les hippogriffes font leur nid au milieu des vastes  prairies  ou  parmi  les  collines  vallonnées.  Les  spécimens plus  robustes  que  la  moyenne  s’installent  parfois  dans  des renfoncements  creusés  dans  les  murs  des  canyons  et  utilisent cet  endroit  comme  point  central  à  partir  duquel  ils  sillonnent les  déserts  rocheux  à  la  recherche  de  coyotes,  de  boucs  et, parfois,  d’humanoïdes.  Les  hippogriffes  préfèrent  se  nourrir  de mammifères,  mais  ils  broutent  également de  l’herbe  après  chaque  repas  constitué  de viande  pour  faciliter  leur  digestion.  Leurs 
+habitudes alimentaires peuvent se révéler dangereuses à la fois pour les éleveurs de bétail et pour le bétail lui-même. C’est ce qui explique pourquoi ces individus mettent souvent  la  tête  des  hippogriffes  à  prix.  Les  victimes  de  ces chasses  sont  empaillées  et  vont  bien  souvent  décorer  les  postes avancés ou les tavernes situées aux frontières de la civilisation.
+
+Comme les hippogriffes sont plus faciles à entraîner que les griffons  et  tout  aussi  intelligents  que  des  chevaux,  certaines compagnies  de  cavalerie  d’élite  les  utilisent  comme  montures pour  patrouiller  les  cieux  et  fondre  sur  les  ennemis  qui  ne s’attendent  pas  à  une  attaque  venant  d’en  haut.  Malgré  leur 
+classification  en  tant  que  créatures  magiques,  les  hippogriffes capturés  suffisamment  jeunes  peuvent  être  entraînés  à  l’aide de  la  compétence  de  Dressage  comme  s’il  s’agissait  d’animaux. Les  adultes  sont  plus  difficiles  à  entraîner  et  les  tentatives  qui les  concernent  suivent  les  règles  normales  pour  les  créatures magiques. Des selles particulières doivent être construites pour les  hippogriffes  afin  de  ne  pas  gêner  les  mouvements  de  leurs ailes ; il s’agit toujours de selles spéciales.
+
+Les hippogriffes ne donnent pas naissance à des jeunes vivants mais pondent des œufs. En règle générale, un nid d’hippogriffe ne contient pas plus d’un œuf à la fois. Un œuf d’hippogriffe vaut 200 po mais un jeune hippogriffe en bonne santé vaut 500 po. Un hippogriffe  entraîné  comme  monture  peut  se  vendre  5 000  po ou  plus.  Un  hippogriffe  peut  porter  100  kg  comme  une  charge légère, 200 kg comme une charge intermédiaire et jusqu’à 300 kg comme une charge lourde.
+</div></td></tr></table>
+]]></raw>
+  <fullName>Pathfinder-RPG.Hippogriffe</fullName>
+</wikiPage>

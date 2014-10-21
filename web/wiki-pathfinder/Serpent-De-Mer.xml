@@ -1,0 +1,213 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Serpent de mer</title>
+  <categories><category>Pathfinder-RPG.Bestiaire</category><category>Pathfinder-RPG.Monstre</category></categories>
+  <lastModified>2013-02-06 21:04:33Z</lastModified>
+  <version>9</version>
+  <inLinks><link>Pathfinder-RPG.Glossaire des monstres</link><link>Pathfinder-RPG.Liste de monstres par FP</link><link>Pathfinder-RPG.Liste de monstres par milieu naturel</link><link>Pathfinder-RPG.Liste de monstres par type</link><link>Pathfinder-RPG.Monstres</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.type Créature magique</link><link>Pathfinder-RPG.sous-type aquatique</link><link>Pathfinder-RPG.vision dans le noir</link><link>Pathfinder-RPG.vision nocturne</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Étreinte</link><link>Pathfinder-RPG.constriction</link><link>Pathfinder-RPG.Engloutissement</link><link>Pathfinder-RPG.Attaque en puissance</link><link>Pathfinder-RPG.Discret</link><link>Pathfinder-RPG.Réflexes surhumains</link><link>Pathfinder-RPG.Science de linitiative</link><link>Pathfinder-RPG.Science de la bousculade</link><link>Pathfinder-RPG.Science du critique</link><link>Pathfinder-RPG.Talent</link><link>Pathfinder-RPG.Discrétion</link><link>Pathfinder-RPG.Volonté de fer</link><link>Pathfinder-RPG.Natation</link><link>Pathfinder-RPG.Action complexe</link><link>Pathfinder-RPG.passage sans trace</link><link>Pathfinder-RPG.Antidétection</link><link>Pathfinder-RPG.catégorie de taille</link><link>Pathfinder-RPG.Manœuvre offensive</link><link>Pathfinder-RPG.DD</link><link>Pathfinder-RPG.Profession</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Serpent de mer&lt;div style=&quot;float:right;&quot;&gt;FP 12&lt;/div&gt;&lt;/div&gt;
+  
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Bestiaire&lt;/i&gt; p.258
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 19.200
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Cr&#233;ature-Magique.html&quot; title=&quot;Cr&#233;ature magique&quot;&gt;Cr&#233;ature magique&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Aquatique.html&quot; title=&quot;Aquatique (sous-type)&quot;&gt;aquatique&lt;/a&gt;) de taille Gig, N
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +6 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Capacit&#233;s-Sp&#233;ciales.html#VISIONDANSLENOIR&quot; title=&quot;vision dans le noir&quot;&gt;vision dans le noir&lt;/a&gt; 36 m (24 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Nocturne-(Capacit&#233;).html&quot; title=&quot;vision nocturne&quot;&gt;vision nocturne&lt;/a&gt; ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +8
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 25, contact 8, pris au d&#233;pourvu 23 (Dex +2, naturelle +17, taille -4)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 187 (15d10+105)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +13, &lt;b&gt;Vig&lt;/b&gt; +16, &lt;b&gt;Vol&lt;/b&gt; +7
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Capacit&#233;s d&#233;fensives&lt;/b&gt; insaisissable ; &lt;b&gt;Immunit&#233;s&lt;/b&gt; froid ; &lt;b&gt;R&#233;sistances&lt;/b&gt; feu 30 
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 6 m (4 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), nage 18 m (12 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; morsure +23 (4d8+22/19–20 et &lt;a class=&quot;pagelink&quot; href=&quot;&#201;treinte-(Capacit&#233;).html&quot; title=&quot;&#201;treinte&quot;&gt;&#233;treinte&lt;/a&gt;), coup de queue +18 (3d6+6 et &lt;a class=&quot;pagelink&quot; href=&quot;&#201;treinte-(Capacit&#233;).html&quot; title=&quot;&#201;treinte&quot;&gt;&#233;treinte&lt;/a&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Espace&lt;/b&gt; 6 m (4 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) ; &lt;b&gt;Allonge&lt;/b&gt; 6 m (4 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaques sp&#233;ciales&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Constriction-(Capacit&#233;).html&quot; title=&quot;constriction&quot;&gt;constriction&lt;/a&gt; (3d6+18), &lt;a class=&quot;pagelink&quot; href=&quot;Engloutissement-(Capacit&#233;).html&quot; title=&quot;Engloutissement&quot;&gt;engloutissement&lt;/a&gt; (4d8+18 contondant, CA 18, pv 18), retournement de navires
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 34, &lt;b&gt;Dex&lt;/b&gt; 14, &lt;b&gt;Con&lt;/b&gt; 25, &lt;b&gt;Int&lt;/b&gt; 2, &lt;b&gt;Sag&lt;/b&gt; 11, &lt;b&gt;Cha&lt;/b&gt; 11
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +15, &lt;b&gt;BMO&lt;/b&gt; +31 (+35 pour la lutte), &lt;b&gt;DMD&lt;/b&gt; 43 (croc-en-jambe impossible)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Attaque-En-Puissance.html&quot; title=&quot;Attaque en puissance&quot;&gt;Attaque en puissance&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Discret.html&quot; title=&quot;Discret&quot;&gt;Discret&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;R&#233;flexes-Surhumains.html&quot; title=&quot;R&#233;flexes surhumains&quot;&gt;R&#233;flexes surhumains&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Science-De-Linitiative.html&quot; title=&quot;Science de l&amp;#39;initiative&quot;&gt;Science de l&#39;initiative&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Science-De-La-Bousculade.html&quot; title=&quot;Science de la bousculade&quot;&gt;Science de la bousculade&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Science-Du-Critique.html&quot; title=&quot;Science du critique&quot;&gt;Science du critique&lt;/a&gt; (morsure), &lt;a class=&quot;pagelink&quot; href=&quot;Talent.html&quot; title=&quot;Talent&quot;&gt;Talent&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt;), &lt;a class=&quot;pagelink&quot; href=&quot;Volont&#233;-De-Fer.html&quot; title=&quot;Volont&#233; de fer&quot;&gt;Volont&#233; de fer&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; +13, &lt;a class=&quot;pagelink&quot; href=&quot;Natation.html&quot; title=&quot;Natation&quot;&gt;Natation&lt;/a&gt; +20, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +8
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; oc&#233;ans
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation sociale&lt;/b&gt; solitaire
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; aucun
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Capacit&#233;s sp&#233;ciales&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Insaisissable (Sur)&lt;/b&gt; Les serpents de mer figurent depuis longtemps dans les l&#233;gendes des marins mais, m&#234;me si de nombreuses exp&#233;ditions sont parties &#224; leur recherche, on ne les croise que tr&#232;s rarement, &#224; moins qu&#39;ils ne d&#233;cident du contraire. Lorsqu&#39;ils sont dans l&#39;eau, les serpents de mer peuvent utiliser une &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions.html#COMPLEXE&quot; title=&quot;Action complexe&quot;&gt;action complexe&lt;/a&gt; pour se d&#233;placer &#224; leur vitesse de course (90 m (60 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)) sans laisser aucune trace de leur passage (concr&#232;tement cela correspond aux effets d&#39;un sort de &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Passage-Sans-Traces.html&quot; title=&quot;passage sans trace&quot;&gt;passage sans trace&lt;/a&gt;&lt;/i&gt;). Les insaisissables serpents de mer b&#233;n&#233;ficient d&#39;un bonus de +40 &#224; leur test de &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt;. En plus de cela, lorsqu&#39;ils ne combattent pas, ils b&#233;n&#233;ficient des effets d&#39;un sort d&#39;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Antid&#233;tection.html&quot; title=&quot;Antid&#233;tection&quot;&gt;antid&#233;tection&lt;/a&gt;&lt;/i&gt;. Ces deux effets magiques poss&#232;dent un NLS de 20 et ne peuvent &#234;tre dissip&#233;s.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Chavirer (Ext)&lt;/b&gt; Un serpent de mer peut tenter de faire sombrer un bateau ou un navire appartenant &#224; sa &lt;a class=&quot;pagelink&quot; href=&quot;Petites-Et-Grandes-Cr&#233;atures.html#TABLEAUTAILLES&quot; title=&quot;cat&#233;gorie de taille&quot;&gt;cat&#233;gorie de taille&lt;/a&gt; ou &#224; une cat&#233;gorie inf&#233;rieure en effectuant une charge et en allant buter contre lui. Il doit effectuer un test de &lt;a class=&quot;pagelink&quot; href=&quot;Manoeuvre-Offensive.html&quot; title=&quot;Manœuvre offensive&quot;&gt;manoeuvre&lt;/a&gt; de combat contre un &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DEGREDEDIFFICULTE&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; &#233;gal &#224; 25 ou au r&#233;sultat d&#39;un test de &lt;a class=&quot;pagelink&quot; href=&quot;Profession.html&quot; title=&quot;Profession&quot;&gt;Profession&lt;/a&gt; (marin) r&#233;alis&#233; par le capitaine du navire si celui-ci est plus &#233;lev&#233;.
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;td&gt;&lt;div&gt;&lt;i&gt;Cet immense serpent de la taille d’un navire, au cou garni d’une collerette
+et couvert de piquants, jaillit de l’eau, pr&#234;t &#224; frapper.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Les r&#233;cits des marins ont toujours fait la part belle aux histoires
+parlant d’immenses serpents de mer et ce depuis le jour o&#249;, pour
+la premi&#232;re fois, un navire est sorti du champ de vision de ceux qui
+restaient &#224; quai. Mais il est remarquablement difficile de trouver des
+preuves de l’existence de ces cr&#233;atures gigantesques et insaisissables,
+parce que l’oc&#233;an est vaste et que les serpents de mer sont rares,
+bien s&#251;r, mais aussi parce qu’ils font preuve d’une redoutable
+efficacit&#233; pour ne pas &#234;tre captur&#233;s ou pour d&#233;truire les vaisseaux
+qui cherchent &#224; les attraper. Vu la nature &#233;nigmatique des serpents
+de mer, de nombreux marins consid&#232;rent l’apparition d’une de ces
+cr&#233;atures comme un pr&#233;sage qui, en fonction de leur moral et de bien
+d’autres choses sans doute, annonce tant&#244;t un bonheur tant&#244;t un
+malheur. Le serpent de mer, lui, ne s’int&#233;resse gu&#232;re aux proph&#233;ties
+et, en ce qui le concerne, c’est uniquement sa faim qui va d&#233;terminer
+s’il sera un danger pour les navires qui l’approchent.&lt;br /&gt;&lt;br /&gt;Les serpents de mer ne sont gu&#232;re plus que des animaux mais tous
+les marins, m&#234;me les vieux loups de mer et les cyniques, sont forc&#233;s
+d’admettre qu’ils poss&#232;dent une sorte d’aura mystique qui fait acc&#233;l&#233;rer
+le cœur et qui redonne du courage (ou le sape compl&#232;tement). Les
+rencontres avec un serpent de mer peuvent tout aussi bien
+renforcer le trafic maritime ou semer la panique chez les
+marins, tout en attirant de nombreux explorateurs et
+aventuriers nourrissant l’espoir d’apercevoir
+cette cr&#233;ature l&#233;gendaire.&lt;br /&gt;&lt;br /&gt;Un serpent de mer moyen mesure
+18 m&#232;tres de longueur et p&#232;se 2 250 kg
+mais on ne conna&#238;t pas la taille maximale
+qu’ils peuvent atteindre.
+Apr&#232;s tout, la mer
+est assez vaste
+pour abriter des
+baleines et d’autres
+mastodontes marins, et
+on a d&#233;j&#224; entendu parler de
+serpents de mer de plus de
+90 m&#232;tres. Vous pouvez
+cr&#233;er un profil pour un
+serpent de mer aussi
+gigantesque en appliquant
+l’arch&#233;type simple &#171; &#233;volu&#233; &#187; ou
+l’arch&#233;type simple &#171; g&#233;ant &#187; &#224; celui
+pr&#233;sent&#233; ici. Vous pouvez
+&#233;galement faire &#233;voluer
+ce serpent de mer jusqu’&#224;
+une taille Colossale en lui
+donnant 25 DV et un FP de 18.
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Serpent de mer|FP 12}
+{s:pucem|Créature magique|Aquatique|Tempéré}  
+{s:BDTexte|''Source : Bestiaire'' p.258}
+{s:BDTexte|'''PX''' 19.200}
+{s:BDTexte|[[type Créature magique|Créature magique]] ([[sous-type aquatique|aquatique]]) de taille Gig, N}
+{s:BDTexte|'''Init''' +6 ; '''Sens''' [[vision dans le noir]] 36 m (24 {s:c}), [[vision nocturne]] ; [[Perception]] +8}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 25, contact 8, pris au dépourvu 23 (Dex +2, naturelle +17, taille -4)}
+{s:BDTexte|'''pv''' 187 (15d10+105)}
+{s:BDTexte|'''Réf''' +13, '''Vig''' +16, '''Vol''' +7}
+{s:BDTexte|'''Capacités défensives''' insaisissable ; '''Immunités''' froid ; '''Résistances''' feu 30 }
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 6 m (4 {s:c}), nage 18 m (12 {s:c})}
+{s:BDTexte|'''Corps à corps''' morsure +23 (4d8+22/19–20 et [[étreinte]]), coup de queue +18 (3d6+6 et [[étreinte]])}
+{s:BDTexte|'''Espace''' 6 m (4 {s:c}) ; '''Allonge''' 6 m (4 {s:c})}
+{s:BDTexte|'''Attaques spéciales''' [[constriction]] (3d6+18), [[engloutissement]] (4d8+18 contondant, CA 18, pv 18), retournement de navires}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 34, '''Dex''' 14, '''Con''' 25, '''Int''' 2, '''Sag''' 11, '''Cha''' 11}
+{s:BDTexte|'''BBA''' +15, '''BMO''' +31 (+35 pour la lutte), '''DMD''' 43 (croc-en-jambe impossible)}
+{s:BDTexte|'''Dons''' [[Attaque en puissance]], [[Discret]], [[Réflexes surhumains]], [[Science de linitiative|Science de l'initiative]], [[Science de la bousculade]], [[Science du critique]] (morsure), [[Talent]] ([[Discrétion]]), [[Volonté de fer]]}
+{s:BDTexte|'''Compétences''' [[Discrétion]] +13, [[Natation]] +20, [[Perception]] +8}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' océans}
+{s:BDTexte|'''Organisation sociale''' solitaire}
+{s:BDTexte|'''Trésor''' aucun}
+{s:BDSousTitre|Capacités spéciales}
+{s:BDTexte|'''Insaisissable (Sur)''' Les serpents de mer figurent depuis longtemps dans les légendes des marins mais, même si de nombreuses expéditions sont parties à leur recherche, on ne les croise que très rarement, à moins qu'ils ne décident du contraire. Lorsqu'ils sont dans l'eau, les serpents de mer peuvent utiliser une [[action complexe]] pour se déplacer à leur vitesse de course (90 m (60 {s:c})) sans laisser aucune trace de leur passage (concrètement cela correspond aux effets d'un sort de ''[[passage sans trace]]''). Les insaisissables serpents de mer bénéficient d'un bonus de +40 à leur test de [[Discrétion]]. En plus de cela, lorsqu'ils ne combattent pas, ils bénéficient des effets d'un sort d<nowiki>'</nowiki>''[[antidétection]]''. Ces deux effets magiques possèdent un NLS de 20 et ne peuvent être dissipés.}
+{s:BDTexte|'''Chavirer (Ext)''' Un serpent de mer peut tenter de faire sombrer un bateau ou un navire appartenant à sa [[catégorie de taille]] ou à une catégorie inférieure en effectuant une charge et en allant buter contre lui. Il doit effectuer un test de [[manoeuvre offensive|manoeuvre]] de combat contre un [[DD]] égal à 25 ou au résultat d'un test de [[Profession]] (marin) réalisé par le capitaine du navire si celui-ci est plus élevé.}
+</div>
+</td><td><div>''Cet immense serpent de la taille d’un navire, au cou garni d’une collerette
+et couvert de piquants, jaillit de l’eau, prêt à frapper.''
+
+Les récits des marins ont toujours fait la part belle aux histoires
+parlant d’immenses serpents de mer et ce depuis le jour où, pour
+la première fois, un navire est sorti du champ de vision de ceux qui
+restaient à quai. Mais il est remarquablement difficile de trouver des
+preuves de l’existence de ces créatures gigantesques et insaisissables,
+parce que l’océan est vaste et que les serpents de mer sont rares,
+bien sûr, mais aussi parce qu’ils font preuve d’une redoutable
+efficacité pour ne pas être capturés ou pour détruire les vaisseaux
+qui cherchent à les attraper. Vu la nature énigmatique des serpents
+de mer, de nombreux marins considèrent l’apparition d’une de ces
+créatures comme un présage qui, en fonction de leur moral et de bien
+d’autres choses sans doute, annonce tantôt un bonheur tantôt un
+malheur. Le serpent de mer, lui, ne s’intéresse guère aux prophéties
+et, en ce qui le concerne, c’est uniquement sa faim qui va déterminer
+s’il sera un danger pour les navires qui l’approchent.
+
+Les serpents de mer ne sont guère plus que des animaux mais tous
+les marins, même les vieux loups de mer et les cyniques, sont forcés
+d’admettre qu’ils possèdent une sorte d’aura mystique qui fait accélérer
+le cœur et qui redonne du courage (ou le sape complètement). Les
+rencontres avec un serpent de mer peuvent tout aussi bien
+renforcer le trafic maritime ou semer la panique chez les
+marins, tout en attirant de nombreux explorateurs et
+aventuriers nourrissant l’espoir d’apercevoir
+cette créature légendaire.
+
+Un serpent de mer moyen mesure
+18 mètres de longueur et pèse 2 250 kg
+mais on ne connaît pas la taille maximale
+qu’ils peuvent atteindre.
+Après tout, la mer
+est assez vaste
+pour abriter des
+baleines et d’autres
+mastodontes marins, et
+on a déjà entendu parler de
+serpents de mer de plus de
+90 mètres. Vous pouvez
+créer un profil pour un
+serpent de mer aussi
+gigantesque en appliquant
+l’archétype simple « évolué » ou
+l’archétype simple « géant » à celui
+présenté ici. Vous pouvez
+également faire évoluer
+ce serpent de mer jusqu’à
+une taille Colossale en lui
+donnant 25 DV et un FP de 18.
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Serpent de mer</fullName>
+</wikiPage>

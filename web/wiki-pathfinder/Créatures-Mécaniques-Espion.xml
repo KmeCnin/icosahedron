@@ -1,0 +1,153 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Créatures mécaniques Espion</title>
+  <categories><category>Pathfinder-RPG.Bestiaire 3</category></categories>
+  <lastModified>2013-09-09 13:15:22Z</lastModified>
+  <version>9</version>
+  <inLinks><link>Pathfinder-RPG.Glossaire des monstres</link><link>Pathfinder-RPG.Liste de monstres par FP</link><link>Pathfinder-RPG.Liste de monstres par milieu naturel</link><link>Pathfinder-RPG.Liste de monstres par type</link><link>Pathfinder-RPG.Monstres</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.type Créature artificielle</link><link>Pathfinder-RPG.vision dans le noir</link><link>Pathfinder-RPG.vision nocturne</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Immunité (capacité)</link><link>Pathfinder-RPG.Traits des créatures artificielles (capacité)</link><link>Pathfinder-RPG.Vulnérabilités (capacité)</link><link>Pathfinder-RPG.Réflexes surhumains</link><link>Pathfinder-RPG.Science de linitiative</link><link>Pathfinder-RPG.Discrétion</link><link>Pathfinder-RPG.Escalade</link><link>Pathfinder-RPG.Vol</link><link>Pathfinder-RPG.Valeurs de combat</link><link>Pathfinder-RPG.Sabotage</link><link>Pathfinder-RPG.Action simple</link><link>Pathfinder-RPG.Action rapide</link><link>Pathfinder-RPG.Action complexe</link><link>Pathfinder-RPG.Création de créatures artificielles</link><link>Pathfinder-RPG.Quête</link><link>Pathfinder-RPG.Son imaginaire</link><link>Pathfinder-RPG.Artisanat</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Cr&#233;ature m&#233;canique Espion&lt;div style=&quot;float:right;&quot;&gt;FP 1/2&lt;/div&gt;&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Bestiaire 3, p.59&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 200
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Cr&#233;ature-Artificielle.html&quot; title=&quot;Cr&#233;ature artificielle&quot;&gt;Cr&#233;ature artificielle&lt;/a&gt; (cr&#233;ature m&#233;canique) de taille TP, N
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +5 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Capacit&#233;s-Sp&#233;ciales.html#VISIONDANSLENOIR&quot; title=&quot;vision dans le noir&quot;&gt;vision dans le noir&lt;/a&gt; 18 m (12 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Nocturne-(Capacit&#233;).html&quot; title=&quot;vision nocturne&quot;&gt;vision nocturne&lt;/a&gt; ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +0
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 15, contact 15, pris au d&#233;pourvu 12 (Dex +1, esquive +2, taille +2)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 5 (1d10)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +3, &lt;b&gt;Vig&lt;/b&gt; +0, &lt;b&gt;Vol&lt;/b&gt; +0
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Immunit&#233;-(Capacit&#233;).html&quot; title=&quot;Immunit&#233; (Ext ou Sur)&quot;&gt;Immunit&#233;&lt;/a&gt;&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Traits-Des-Cr&#233;atures-Artificielles-(Capacit&#233;).html&quot; title=&quot;Traits des cr&#233;atures artificielles (Ext)&quot;&gt;traits des cr&#233;atures artificielles&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Faiblesse&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vuln&#233;rabilit&#233;s-(Capacit&#233;).html&quot; title=&quot;Vuln&#233;rabilit&#233;s (Ext ou Sur)&quot;&gt;vuln&#233;rabilit&#233;&lt;/a&gt; &#224; l’&#233;lectricit&#233;
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 9 m (6 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), Vol 9 m (6 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) (d&#233;plorable)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; coup, +3 (1d2)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaques sp&#233;ciales&lt;/b&gt; autodestruction, enregistrement audio
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 10, &lt;b&gt;Dex&lt;/b&gt; 13, &lt;b&gt;Con&lt;/b&gt; —, &lt;b&gt;Int&lt;/b&gt; —, &lt;b&gt;Sag&lt;/b&gt; 11, &lt;b&gt;Cha&lt;/b&gt; 1
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +1, &lt;b&gt;BMO&lt;/b&gt; +0, &lt;b&gt;DMD&lt;/b&gt; 12
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;R&#233;flexes-Surhumains.html&quot; title=&quot;R&#233;flexes surhumains&quot;&gt;R&#233;flexes surhumains&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Science-De-Linitiative.html&quot; title=&quot;Science de l&amp;#39;initiative&quot;&gt;Science de l’initiative&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; +11, &lt;a class=&quot;pagelink&quot; href=&quot;Escalade.html&quot; title=&quot;Escalade&quot;&gt;Escalade&lt;/a&gt; +2, &lt;a class=&quot;pagelink&quot; href=&quot;Vol.html&quot; title=&quot;Vol&quot;&gt;Vol&lt;/a&gt; -3
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Modificateurs raciaux&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; +2, &lt;a class=&quot;pagelink&quot; href=&quot;Escalade.html&quot; title=&quot;Escalade&quot;&gt;Escalade&lt;/a&gt; +2
+&lt;/div&gt; 
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Particularit&#233;s&lt;/b&gt; r&#233;activit&#233;, remontage
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; tous
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation sociale&lt;/b&gt; solitaire
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; fortuit (gemme d’une valeur de 50 po)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Pouvoirs Sp&#233;ciaux&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Autodestruction (Sur).&lt;/b&gt; Sauf programmation sp&#233;cifique de la part du cr&#233;ateur, un espion m&#233;canique explose 1 round apr&#232;s qu’il a &#233;t&#233; d&#233;truit. Lors de ce round, l’objet hurle et se d&#233;bat comme s’il &#233;tait pris de convulsions. Au cours de ce qui aurait normalement d&#251; &#234;tre la prochaine action de l’espion, il explose, infligeant 1d6 points de d&#233;g&#226;ts de feu sur une zone de 1,50 m (1 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) de rayon (&lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;Valeurs de combat&quot;&gt;R&#233;flexes&lt;/a&gt; DD 10, 1/2 d&#233;g&#226;ts). Un test de &lt;a class=&quot;pagelink&quot; href=&quot;Sabotage.html&quot; title=&quot;Sabotage&quot;&gt;Sabotage&lt;/a&gt; de DD 20 effectu&#233; par une &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions.html#SIMPLE&quot; title=&quot;Action simple&quot;&gt;action simple&lt;/a&gt; permet d’interrompre la s&#233;quence d’autodestruction de l’espion mais ne l’emp&#234;che pas de mourir. Un espion m&#233;canique qui s’autod&#233;truit d&#233;truit automatiquement sa gemme, ainsi que toutes les informations qu’elle contient. Le DD du jet de sauvegarde est bas&#233; sur la Constitution.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Enregistrement audio (Sur).&lt;/b&gt; L’espion m&#233;canique peut enregistrer tous les sons environnants par une &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions.html#RAPIDE&quot; title=&quot;Action rapide&quot;&gt;action rapide&lt;/a&gt;, archivant tout ce qu’il entend dans une zone de 6 m&#232;tres (4 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) sur une petite gemme d’une valeur de 50 po ench&#226;ss&#233;e dans son corps. L’espion peut enregistrer jusqu’&#224; 1 heure de sons par d&#233; de vie qu’il poss&#232;de. Il suffit d’une action rapide pour lancer ou arr&#234;ter la lecture d’un enregistrement audio. Pour retirer une gemme de l’espion m&#233;canique ou lui en installer une nouvelle, il faut r&#233;ussir un test de &lt;a class=&quot;pagelink&quot; href=&quot;Sabotage.html&quot; title=&quot;Sabotage&quot;&gt;Sabotage&lt;/a&gt; de DD 25 par une &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions.html#COMPLEXE&quot; title=&quot;Action complexe&quot;&gt;action complexe&lt;/a&gt; ; un &#233;chec n’inflige aucun d&#233;g&#226;t &#224; la gemme mais efface tous les sons enregistr&#233;s dessus. Les espions m&#233;caniques n’&#233;tant pas des cr&#233;atures intelligentes, on doit leur donner des instructions simples pour d&#233;buter l’enregistrement. Ces cr&#233;atures m&#233;caniques sont capables de distinguer les diff&#233;rents types et soustypes de cr&#233;atures mais pas des individus en particulier : on peut leur ordonner de commencer l’enregistrement audio au moment o&#249; un humano&#239;de (humain) ou une aberration arrive &#224; leur port&#233;e, mais il est impossible de les programmer pour commencer l’enregistrement au moment o&#249; une personne sp&#233;cifique arrive. &#192; partir du moment o&#249; l’espion m&#233;canique d&#233;marre un enregistrement audio, il ne peut plus l’interrompre. De m&#234;me, il ne peut pas r&#233;-enregistrer sur une gemme qui contient d&#233;j&#224; un enregistrement.
+&lt;/div&gt;
+&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Cr&#233;ature m&#233;canique Espion&lt;div style=&quot;float:right;&quot;&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;NLS&lt;/b&gt; 12 ; &lt;b&gt;Prix&lt;/b&gt; 1 250 po
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;CONSTRUCTION&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Conditions requises&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;ation-De-Cr&#233;atures-Artificielles.html&quot; title=&quot;Cr&#233;ation de cr&#233;atures artificielles&quot;&gt;Cr&#233;ation de cr&#233;atures artificielles&lt;/a&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Qu&#234;te.html&quot; title=&quot;Qu&#234;te&quot;&gt;qu&#234;te&lt;/a&gt;&lt;/i&gt; et &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Son-Imaginaire.html&quot; title=&quot;Son imaginaire&quot;&gt;son imaginaire&lt;/a&gt;&lt;/i&gt;, le cr&#233;ateur doit avoir un niveau de lanceur de sorts minimum de 12 ; &lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Artisanat.html&quot; title=&quot;Artisanat&quot;&gt;Artisanat&lt;/a&gt; (m&#233;canique) DD 20 ; &lt;b&gt;Co&#251;t&lt;/b&gt; 750 po
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+CONSTRUCTION
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+Ces cr&#233;atures artificielles d&#233;licates se composent d’un tas de petites pi&#232;ces et sont difficiles &#224; construire. Le cr&#233;ateur doit d’abord fabriquer les pi&#232;ces m&#233;caniques, d’une valeur de 250 po.
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;td&gt;&lt;div&gt;&lt;i&gt;Cette toute petite cr&#233;ature n’a qu’un oeil &#233;norme, un corps tout rond et plusieurs petites pattes d’araign&#233;e en m&#233;tal qui grincent.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Ces petits arachnides m&#233;caniques, gr&#234;les et discrets, sont l’instrument id&#233;al pour les missions de surveillance et de reconnaissance, comme ils peuvent &#234;tre un outil essentiel pour les intrigues politiques ou les tactiques de groupuscules ill&#233;gaux. Leurs ailes d’insecte, r&#233;tractables, font de ces cr&#233;atures d&#233;j&#224; rapides des ennemis encore plus ing&#233;nieux qu’on ne l’aurait imagin&#233;. Comme les espions m&#233;caniques sont moins adapt&#233;s au combat que les cr&#233;atures m&#233;caniques, quand ils se font surprendre &#224; enregistrer quelque chose, ils optent g&#233;n&#233;ralement pour la fuite.&lt;br /&gt;&lt;br /&gt;Les espions m&#233;caniques font &#224; peu pr&#232;s 60 cm de large d’une patte &#224; l’autre, et p&#232;sent moins de 20 kilos.
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Créature mécanique Espion|FP 1/2}
+{s:pucem|Créature artificielle|Ruines-Donjons|Tempéré}
+{s:BDTexte|''Source : Bestiaire 3, p.59''}
+{s:BDTexte|'''PX''' 200}
+{s:BDTexte|[[type Créature artificielle|Créature artificielle]] (créature mécanique) de taille TP, N}
+{s:BDTexte|'''Init''' +5 ; '''Sens''' [[vision dans le noir]] 18 m (12 {s:c}), [[vision nocturne]] ; [[Perception]] +0}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 15, contact 15, pris au dépourvu 12 (Dex +1, esquive +2, taille +2)}
+{s:BDTexte|'''pv''' 5 (1d10)}
+{s:BDTexte|'''Réf''' +3, '''Vig''' +0, '''Vol''' +0}
+{s:BDTexte|'''[[Immunité (capacité)|Immunité]]''' [[Traits des créatures artificielles (capacité)|traits des créatures artificielles]]}
+{s:BDTexte|'''Faiblesse''' [[Vulnérabilités (capacité)|vulnérabilité]] à l’électricité}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 9 m (6 {s:c}), Vol 9 m (6 {s:c}) (déplorable)}
+{s:BDTexte|'''Corps à corps''' coup, +3 (1d2)}
+{s:BDTexte|'''Attaques spéciales''' autodestruction, enregistrement audio}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 10, '''Dex''' 13, '''Con''' —, '''Int''' —, '''Sag''' 11, '''Cha''' 1}
+{s:BDTexte|'''BBA''' +1, '''BMO''' +0, '''DMD''' 12}
+{s:BDTexte|'''Dons''' [[Réflexes surhumains]], [[Science de linitiative|Science de l’initiative]]}
+{s:BDTexte|'''Compétences''' [[Discrétion]] +11, [[Escalade]] +2, [[Vol]] -3}
+{s:BDTexte|'''Modificateurs raciaux''' [[Discrétion]] +2, [[Escalade]] +2} 
+{s:BDTexte|'''Particularités''' réactivité, remontage}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' tous}
+{s:BDTexte|'''Organisation sociale''' solitaire}
+{s:BDTexte|'''Trésor''' fortuit (gemme d’une valeur de 50 po)}
+{s:BDSousTitre|Pouvoirs Spéciaux}
+{s:BDTexte|'''Autodestruction (Sur).''' Sauf programmation spécifique de la part du créateur, un espion mécanique explose 1 round après qu’il a été détruit. Lors de ce round, l’objet hurle et se débat comme s’il était pris de convulsions. Au cours de ce qui aurait normalement dû être la prochaine action de l’espion, il explose, infligeant 1d6 points de dégâts de feu sur une zone de 1,50 m (1 {s:c}) de rayon ([[Valeurs de combat#JETDESAUVEGARDE|Réflexes]] DD 10, 1/2 dégâts). Un test de [[Sabotage]] de DD 20 effectué par une [[action simple]] permet d’interrompre la séquence d’autodestruction de l’espion mais ne l’empêche pas de mourir. Un espion mécanique qui s’autodétruit détruit automatiquement sa gemme, ainsi que toutes les informations qu’elle contient. Le DD du jet de sauvegarde est basé sur la Constitution.}
+{s:BDTexte|'''Enregistrement audio (Sur).''' L’espion mécanique peut enregistrer tous les sons environnants par une [[action rapide]], archivant tout ce qu’il entend dans une zone de 6 mètres (4 {s:c}) sur une petite gemme d’une valeur de 50 po enchâssée dans son corps. L’espion peut enregistrer jusqu’à 1 heure de sons par dé de vie qu’il possède. Il suffit d’une action rapide pour lancer ou arrêter la lecture d’un enregistrement audio. Pour retirer une gemme de l’espion mécanique ou lui en installer une nouvelle, il faut réussir un test de [[Sabotage]] de DD 25 par une [[action complexe]] ; un échec n’inflige aucun dégât à la gemme mais efface tous les sons enregistrés dessus. Les espions mécaniques n’étant pas des créatures intelligentes, on doit leur donner des instructions simples pour débuter l’enregistrement. Ces créatures mécaniques sont capables de distinguer les différents types et soustypes de créatures mais pas des individus en particulier : on peut leur ordonner de commencer l’enregistrement audio au moment où un humanoïde (humain) ou une aberration arrive à leur portée, mais il est impossible de les programmer pour commencer l’enregistrement au moment où une personne spécifique arrive. À partir du moment où l’espion mécanique démarre un enregistrement audio, il ne peut plus l’interrompre. De même, il ne peut pas ré-enregistrer sur une gemme qui contient déjà un enregistrement.}
+</div>
+
+<div class="BD">
+{s:BDTitre|Créature mécanique Espion}
+{s:BDTexte|'''NLS''' 12 ; '''Prix''' 1 250 po}
+{s:BDSousTitre|CONSTRUCTION}
+{s:BDTexte|'''Conditions requises''' [[Création de créatures artificielles]], ''[[quête]]'' et ''[[son imaginaire]]'', le créateur doit avoir un niveau de lanceur de sorts minimum de 12 ; '''Compétences''' [[Artisanat]] (mécanique) DD 20 ; '''Coût''' 750 po}
+{s:BDTexte|CONSTRUCTION}
+{s:BDTexte|Ces créatures artificielles délicates se composent d’un tas de petites pièces et sont difficiles à construire. Le créateur doit d’abord fabriquer les pièces mécaniques, d’une valeur de 250 po.}
+</div>
+</td><td><div>''Cette toute petite créature n’a qu’un oeil énorme, un corps tout rond et plusieurs petites pattes d’araignée en métal qui grincent.''
+
+Ces petits arachnides mécaniques, grêles et discrets, sont l’instrument idéal pour les missions de surveillance et de reconnaissance, comme ils peuvent être un outil essentiel pour les intrigues politiques ou les tactiques de groupuscules illégaux. Leurs ailes d’insecte, rétractables, font de ces créatures déjà rapides des ennemis encore plus ingénieux qu’on ne l’aurait imaginé. Comme les espions mécaniques sont moins adaptés au combat que les créatures mécaniques, quand ils se font surprendre à enregistrer quelque chose, ils optent généralement pour la fuite.
+
+Les espions mécaniques font à peu près 60 cm de large d’une patte à l’autre, et pèsent moins de 20 kilos.
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Créatures mécaniques Espion</fullName>
+</wikiPage>

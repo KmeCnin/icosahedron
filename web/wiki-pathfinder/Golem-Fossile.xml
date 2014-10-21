@@ -1,0 +1,130 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Golem fossile</title>
+  <categories><category>Pathfinder-RPG.Bestiaire 3</category><category>Pathfinder-RPG.Monstre</category><category>Pathfinder-RPG.Règles officielles</category></categories>
+  <lastModified>2013-11-16 11:44:43Z</lastModified>
+  <version>0</version>
+  <inLinks><link>Pathfinder-RPG.Glossaire des monstres</link><link>Pathfinder-RPG.Liste de monstres par FP</link><link>Pathfinder-RPG.Liste de monstres par milieu naturel</link><link>Pathfinder-RPG.Liste de monstres par type</link><link>Pathfinder-RPG.Monstres</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.type Créature artificielle</link><link>Pathfinder-RPG.vision dans le noir</link><link>Pathfinder-RPG.vision nocturne</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Traits des créatures artificielles</link><link>Pathfinder-RPG.Attaques réflexes</link><link>Pathfinder-RPG.RM</link><link>Pathfinder-RPG.Transmutation de la pierre en boue</link><link>Pathfinder-RPG.Lenteur</link><link>Pathfinder-RPG.round</link><link>Pathfinder-RPG.jet de sauvegarde</link><link>Pathfinder-RPG.Transmutation de la pierre en chair</link><link>Pathfinder-RPG.RD</link><link>Pathfinder-RPG.Vigueur</link><link>Pathfinder-RPG.DD</link><link>Pathfinder-RPG.diminution permanente</link><link>Pathfinder-RPG.Dextérité</link><link>Pathfinder-RPG.Pétrification</link><link>Pathfinder-RPG.Pétrifié</link><link>Pathfinder-RPG.Constitution</link><link>Pathfinder-RPG.Création de créatures artificielles</link><link>Pathfinder-RPG.Façonnage de la pierre</link><link>Pathfinder-RPG.Quête</link><link>Pathfinder-RPG.Souhait limité</link><link>Pathfinder-RPG.Artisanat</link><link>Pathfinder-RPG.Premiers secours</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Golem fossile&lt;div style=&quot;float:right;&quot;&gt;FP 12&lt;/div&gt;&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Bestiaire 3 p. 140&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 19 200 px
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Cr&#233;ature-Artificielle.html&quot; title=&quot;Cr&#233;ature artificielle&quot;&gt;Cr&#233;ature artificielle&lt;/a&gt; de taille TG, N
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +1 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Capacit&#233;s-Sp&#233;ciales.html#VISIONDANSLENOIR&quot; title=&quot;vision dans le noir&quot;&gt;vision dans le noir&lt;/a&gt; &#224; 18 m (12 s:c
+&lt;/div&gt;), &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Nocturne-(Capacit&#233;).html&quot; title=&quot;vision nocturne&quot;&gt;vision nocturne&lt;/a&gt; ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +0}
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 26, contact 9, pris au d&#233;pourvu 25 (Dex +1, naturelle +17, taille -2)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 122 (15d10+40)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +6, &lt;b&gt;Vig&lt;/b&gt; +5, &lt;b&gt;Vol&lt;/b&gt; +5
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;RD&lt;/b&gt; 10/adamantium et contondant ; &lt;b&gt;Immunit&#233;&lt;/b&gt; magie, &lt;a class=&quot;pagelink&quot; href=&quot;Traits-Des-Cr&#233;atures-Artificielles-(Capacit&#233;).html&quot; title=&quot;Traits des cr&#233;atures artificielles&quot;&gt;traits des cr&#233;atures artificielles&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 9 m (6 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; 2 morsures, +20 (6d6+7 plus p&#233;trification)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Espace occup&#233;&lt;/b&gt; 4,50 m (3 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) ; &lt;b&gt;Allonge&lt;/b&gt; 4,50 m (3 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 25, &lt;b&gt;Dex&lt;/b&gt; 13, &lt;b&gt;Con&lt;/b&gt; -, &lt;b&gt;Int&lt;/b&gt; -, &lt;b&gt;Sag&lt;/b&gt; 10, &lt;b&gt;Cha&lt;/b&gt; 1
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +15, &lt;b&gt;BMO&lt;/b&gt; +24, &lt;b&gt;DMD&lt;/b&gt; 35
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Attaques-R&#233;flexes.html&quot; title=&quot;Attaques r&#233;flexes&quot;&gt;Attaques r&#233;flexes&lt;/a&gt;&lt;sup&gt;S&lt;/sup&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; tous
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation sociale&lt;/b&gt; solitaire ou gang (2-4)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; aucun
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Pouvoirs sp&#233;ciaux&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Immunit&#233; contre la magie (Ext).&lt;/b&gt;  Le golem fossile est immunis&#233; contre les sorts et les pouvoirs magiques qui autorisent une &lt;a class=&quot;pagelink&quot; href=&quot;R&#233;sistance-&#192;-La-Magie-(Capacit&#233;).html&quot; title=&quot;RM&quot;&gt;r&#233;sistance &#224; la magie&lt;/a&gt;. En outre, certains sorts et certains effets fonctionnent diff&#233;remment contre lui :
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+• Le sort &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Transmutation-De-La-Pierre-En-Boue.html&quot; title=&quot;Transmutation de la pierre en boue&quot;&gt;transmutation de la pierre en boue&lt;/a&gt;&lt;/i&gt; ralentit le golem fossile (comme le sort &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Lenteur.html&quot; title=&quot;Lenteur&quot;&gt;lenteur&lt;/a&gt;&lt;/i&gt;) pendant 2d6 &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#ROUND&quot; title=&quot;round&quot;&gt;rounds&lt;/a&gt;, sans &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;jet de sauvegarde&quot;&gt;jet de sauvegarde&lt;/a&gt;.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+• Le sort &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Transmutation-De-La-Pierre-En-Chair.html&quot; title=&quot;Transmutation de la pierre en chair&quot;&gt;transmutation de la pierre en chair&lt;/a&gt;&lt;/i&gt; annule la &lt;a class=&quot;pagelink&quot; href=&quot;R&#233;duction-De-D&#233;g&#226;ts-(Capacit&#233;).html&quot; title=&quot;RD&quot;&gt;r&#233;duction de d&#233;g&#226;ts&lt;/a&gt; et la capacit&#233; de p&#233;trification du golem pour 1 &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#ROUND&quot; title=&quot;round&quot;&gt;round&lt;/a&gt;.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;P&#233;trification (Sur).&lt;/b&gt; Les attaques d’un golem fossile transforment peu &#224; peu la chair en pierre. Chaque fois que le golem touche une cible avec l’une de ses attaques naturelles, la cible doit r&#233;ussir un jet de &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;Vigueur&quot;&gt;Vigueur&lt;/a&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DEGREDEDIFFICULTE&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; 19 ou subir une &lt;a class=&quot;pagelink&quot; href=&quot;Affaiblissement-Temporaire-(Capacit&#233;).html&quot; title=&quot;diminution permanente&quot;&gt;diminution permanente&lt;/a&gt; de 1d6 points de &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#DEXTERITE&quot; title=&quot;La Dext&#233;rit&#233;&quot;&gt;Dext&#233;rit&#233;&lt;/a&gt;. Une cr&#233;ature dont la valeur de &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#DEXTERITE&quot; title=&quot;La Dext&#233;rit&#233;&quot;&gt;Dext&#233;rit&#233;&lt;/a&gt; est r&#233;duite &#224; 0 &#224; cause de ces attaques se transforme en pierre, comme si elle avait &#233;t&#233; victime du sort &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;P&#233;trification.html&quot; title=&quot;P&#233;trification&quot;&gt;p&#233;trification&lt;/a&gt;&lt;/i&gt;. Un sort de &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Transmutation-De-La-Pierre-En-Chair.html&quot; title=&quot;Transmutation de la pierre en chair&quot;&gt;transmutation de la pierre en chair&lt;/a&gt;&lt;/i&gt; lanc&#233; sur la cr&#233;ature &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables.html#P&#233;trifi&#233;&quot; title=&quot;P&#233;trifi&#233;&quot;&gt;p&#233;trifi&#233;e&lt;/a&gt; annule la perte de &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#DEXTERITE&quot; title=&quot;La Dext&#233;rit&#233;&quot;&gt;Dext&#233;rit&#233;&lt;/a&gt; provoqu&#233; par cette attaque. Le &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DEGREDEDIFFICULTE&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; du &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;jet de sauvegarde&quot;&gt;jet de sauvegarde&lt;/a&gt; est bas&#233; sur la &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#CONSTITUTION&quot; title=&quot;La Constitution&quot;&gt;Constitution&lt;/a&gt; et inclut un bonus racial de +2.
+&lt;/div&gt;&lt;br /&gt;&lt;/div&gt;
+&lt;/td&gt;&lt;td&gt;&lt;div&gt;
+&lt;i&gt;Cette cr&#233;ature artificielle anim&#233;e est faite d’os fossilis&#233;s, depuis ses &#233;paules cornues jusqu’&#224; ses mains en cr&#226;ne de tyrannosaure.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Le golem fossile est un assemblage d’os fossilis&#233;s de dinosaures disparus depuis longtemps ainsi que d’autres cr&#233;atures pr&#233;historiques. Ces os ne sont g&#233;n&#233;ralement pas assembl&#233;s de fa&#231;on &#224; reproduire la cr&#233;ature originale : les cr&#226;nes des puissants dinosaures pr&#233;dateurs (comme les tyrannosaures) servent souvent de mains, ce qui permet au golem fossile de porter une paire d’attaques de morsure d&#233;vastatrices. Les &#233;nergies magiques qui impr&#232;gnent le golem fossile cr&#233;ent un danger suppl&#233;mentaire  : elles transforment la fossilisation en un &#233;tat terriblement contagieux qui peut affecter toutes les cr&#233;atures qu’il blesse.&lt;br /&gt;&lt;br /&gt;Les golems fossiles sont souvent utilis&#233;s pour garder les cavernes et autres fortifications naturelles. Au repos, pour une personne au regard non-exp&#233;riment&#233;, le golem fossile peut passer pour un simple et &#233;trange assemblage d’os. Il mesure 6 m&#232;tres et p&#232;se 4 tonnes.&lt;br /&gt;&lt;br /&gt;&lt;h3 class=&quot;separator&quot;&gt;Construction&lt;a class=&quot;headeranchor&quot; id=&quot;Construction_0&quot; href=&quot;#Construction_0&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;Le golem fossile doit &#234;tre construit &#224; partir des squelettes fossilis&#233;s d’au moins deux cr&#233;atures de taille TG ou plus grandes. Les os fossilis&#233;s constituant le golem doivent &#234;tre tr&#232;s bien pr&#233;serv&#233;s et r&#233;assembl&#233;s au moyen de solutions alchimiques d’une valeur de 5 000 po.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;NLS&lt;/b&gt; 15&lt;sup&gt;e&lt;/sup&gt; ; &lt;b&gt;Prix&lt;/b&gt; 125 000 po&lt;br /&gt;
+&lt;b&gt;Conditions&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;ation-De-Cr&#233;atures-Artificielles.html&quot; title=&quot;Cr&#233;ation de cr&#233;atures artificielles&quot;&gt;Cr&#233;ation de cr&#233;atures artificielles&lt;/a&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Fa&#231;onnage-De-La-Pierre.html&quot; title=&quot;Fa&#231;onnage de la pierre&quot;&gt;fa&#231;onnage de la pierre&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Qu&#234;te.html&quot; title=&quot;Qu&#234;te&quot;&gt;qu&#234;te&lt;/a&gt;&lt;/i&gt;,  &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;P&#233;trification.html&quot; title=&quot;P&#233;trification&quot;&gt;p&#233;trification&lt;/a&gt;&lt;/i&gt;,  &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Souhait-Limit&#233;.html&quot; title=&quot;Souhait limit&#233;&quot;&gt;souhait limit&#233;&lt;/a&gt;&lt;/i&gt;, le cr&#233;ateur doit avoir un niveau de lanceur de sorts minimum de 15 ; &lt;b&gt;Comp&#233;tence&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Artisanat.html&quot; title=&quot;Artisanat&quot;&gt;Artisanat&lt;/a&gt; (sculpture) ou &lt;a class=&quot;pagelink&quot; href=&quot;Premiers-Secours.html&quot; title=&quot;Premiers secours&quot;&gt;Premiers secours&lt;/a&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DEGREDEDIFFICULTE&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; 20 ; &lt;b&gt;Co&#251;t&lt;/b&gt; 65 000 po
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Golem fossile|FP 12}
+{s:pucem|Créature artificielle|Ruines-Donjons|Tempéré}
+{s:BDTexte|''Source : Bestiaire 3 p. 140''}
+{s:BDTexte|'''PX''' 19 200 px}
+{s:BDTexte|[[type Créature artificielle|Créature artificielle]] de taille TG, N}
+{s:BDTexte|'''Init''' +1 ; '''Sens''' [[vision dans le noir]] à 18 m (12 s:c}), [[vision nocturne]] ; [[Perception]] +0}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 26, contact 9, pris au dépourvu 25 (Dex +1, naturelle +17, taille -2)}
+{s:BDTexte|'''pv''' 122 (15d10+40)}
+{s:BDTexte|'''Réf''' +6, '''Vig''' +5, '''Vol''' +5}
+{s:BDTexte|'''RD''' 10/adamantium et contondant ; '''Immunité''' magie, [[traits des créatures artificielles]]}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 9 m (6 {s:c})}
+{s:BDTexte|'''Corps à corps''' 2 morsures, +20 (6d6+7 plus pétrification)}
+{s:BDTexte|'''Espace occupé''' 4,50 m (3 {s:c}) ; '''Allonge''' 4,50 m (3 {s:c})}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 25, '''Dex''' 13, '''Con''' -, '''Int''' -, '''Sag''' 10, '''Cha''' 1}
+{s:BDTexte|'''BBA''' +15, '''BMO''' +24, '''DMD''' 35}
+{s:BDTexte|'''Dons''' [[Attaques réflexes]]<sup>S</sup>}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' tous}
+{s:BDTexte|'''Organisation sociale''' solitaire ou gang (2-4)}
+{s:BDTexte|'''Trésor''' aucun}
+{s:BDSousTitre|Pouvoirs spéciaux}
+{s:BDTexte|'''Immunité contre la magie (Ext).'''  Le golem fossile est immunisé contre les sorts et les pouvoirs magiques qui autorisent une [[RM|résistance à la magie]]. En outre, certains sorts et certains effets fonctionnent différemment contre lui :}
+{s:BDTexte|• Le sort ''[[transmutation de la pierre en boue]]'' ralentit le golem fossile (comme le sort ''[[lenteur]]'') pendant 2d6 [[round|rounds]], sans [[jet de sauvegarde]].}
+{s:BDTexte|• Le sort ''[[transmutation de la pierre en chair]]'' annule la [[RD|réduction de dégâts]] et la capacité de pétrification du golem pour 1 [[round]].}
+{s:BDTexte|'''Pétrification (Sur).''' Les attaques d’un golem fossile transforment peu à peu la chair en pierre. Chaque fois que le golem touche une cible avec l’une de ses attaques naturelles, la cible doit réussir un jet de [[Vigueur]] [[DD]] 19 ou subir une [[diminution permanente]] de 1d6 points de [[Dextérité]]. Une créature dont la valeur de [[Dextérité]] est réduite à 0 à cause de ces attaques se transforme en pierre, comme si elle avait été victime du sort ''[[pétrification]]''. Un sort de ''[[transmutation de la pierre en chair]]'' lancé sur la créature [[pétrifié|pétrifiée]] annule la perte de [[Dextérité]] provoqué par cette attaque. Le [[DD]] du [[jet de sauvegarde]] est basé sur la [[Constitution]] et inclut un bonus racial de +2.}
+
+</div>
+</td><td><div>
+''Cette créature artificielle animée est faite d’os fossilisés, depuis ses épaules cornues jusqu’à ses mains en crâne de tyrannosaure.''
+
+Le golem fossile est un assemblage d’os fossilisés de dinosaures disparus depuis longtemps ainsi que d’autres créatures préhistoriques. Ces os ne sont généralement pas assemblés de façon à reproduire la créature originale : les crânes des puissants dinosaures prédateurs (comme les tyrannosaures) servent souvent de mains, ce qui permet au golem fossile de porter une paire d’attaques de morsure dévastatrices. Les énergies magiques qui imprègnent le golem fossile créent un danger supplémentaire  : elles transforment la fossilisation en un état terriblement contagieux qui peut affecter toutes les créatures qu’il blesse.
+
+Les golems fossiles sont souvent utilisés pour garder les cavernes et autres fortifications naturelles. Au repos, pour une personne au regard non-expérimenté, le golem fossile peut passer pour un simple et étrange assemblage d’os. Il mesure 6 mètres et pèse 4 tonnes.
+
+====Construction====
+Le golem fossile doit être construit à partir des squelettes fossilisés d’au moins deux créatures de taille TG ou plus grandes. Les os fossilisés constituant le golem doivent être très bien préservés et réassemblés au moyen de solutions alchimiques d’une valeur de 5 000 po.
+
+'''NLS''' 15<sup>e</sup> ; '''Prix''' 125 000 po<br>
+'''Conditions''' [[Création de créatures artificielles]], ''[[façonnage de la pierre]]'', ''[[quête]]'',  ''[[pétrification]]'',  ''[[souhait limité]]'', le créateur doit avoir un niveau de lanceur de sorts minimum de 15 ; '''Compétence''' [[Artisanat]] (sculpture) ou [[Premiers secours]] [[DD]] 20 ; '''Coût''' 65 000 po
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Golem fossile</fullName>
+</wikiPage>

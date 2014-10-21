@@ -1,0 +1,195 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Skum (ulat-kini)</title>
+  <categories><category>Pathfinder-RPG.Bestiaire</category><category>Pathfinder-RPG.Monstre</category></categories>
+  <lastModified>2013-02-06 20:53:00Z</lastModified>
+  <version>8</version>
+  <inLinks><link>Pathfinder-RPG.ulat-kini</link><link>Pathfinder-RPG.Glossaire des monstres</link><link>Pathfinder-RPG.Limace géante</link><link>Pathfinder-RPG.Liste de monstres par FP</link><link>Pathfinder-RPG.Liste de monstres par milieu naturel</link><link>Pathfinder-RPG.Liste de monstres par type</link><link>Pathfinder-RPG.Manteleur</link><link>Pathfinder-RPG.Monstres</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.type Humanoïde monstrueux</link><link>Pathfinder-RPG.sous-type aquatique</link><link>Pathfinder-RPG.vision dans le noir</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Attaques multiples</link><link>Pathfinder-RPG.Robustesse</link><link>Pathfinder-RPG.Discrétion</link><link>Pathfinder-RPG.Intimidation</link><link>Pathfinder-RPG.Natation</link><link>Pathfinder-RPG.Amphibie</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Skum (ulat-kini)&lt;div style=&quot;float:right;&quot;&gt;FP 2&lt;/div&gt;&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Bestiaire&lt;/i&gt; p.260
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 600
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Humano&#239;de-Monstrueux.html&quot; title=&quot;Humano&#239;de monstrueux&quot;&gt;Humano&#239;de monstrueux&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Aquatique.html&quot; title=&quot;Aquatique (sous-type)&quot;&gt;aquatique&lt;/a&gt;) de taille M, LM
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +1 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Capacit&#233;s-Sp&#233;ciales.html#VISIONDANSLENOIR&quot; title=&quot;vision dans le noir&quot;&gt;vision dans le noir&lt;/a&gt; 18 m (12 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +5
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 13, contact 11, pris au d&#233;pourvu 12 (Dex +1, naturelle +2)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 20 (2d10+9)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +4, &lt;b&gt;Vig&lt;/b&gt; +3, &lt;b&gt;Vol&lt;/b&gt; +3
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;sistances&lt;/b&gt; froid 10 
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 6 m (4 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), nage 12 m (8 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; trident +4 (1d8+2), griffe +2 (1d4+1), morsure +2 (1d6+1)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Distance&lt;/b&gt; trident +3 (1d8+2)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 15, &lt;b&gt;Dex&lt;/b&gt; 13, &lt;b&gt;Con&lt;/b&gt; 17, &lt;b&gt;Int&lt;/b&gt; 10, &lt;b&gt;Sag&lt;/b&gt; 10, &lt;b&gt;Cha&lt;/b&gt; 6
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +2, &lt;b&gt;BMO&lt;/b&gt; +4, &lt;b&gt;DMD&lt;/b&gt; 15
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Attaques-Multiples.html&quot; title=&quot;Attaques multiples&quot;&gt;Attaques multiples&lt;/a&gt;&lt;sup&gt;B&lt;/sup&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Robustesse.html&quot; title=&quot;Robustesse&quot;&gt;Robustesse&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; +6 (+10 sous l&#39;eau), &lt;a class=&quot;pagelink&quot; href=&quot;Intimidation.html&quot; title=&quot;Intimidation&quot;&gt;Intimidation&lt;/a&gt; +3, &lt;a class=&quot;pagelink&quot; href=&quot;Natation.html&quot; title=&quot;Natation&quot;&gt;Natation&lt;/a&gt; +15, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +5 (+9 sous l&#39;eau) ; &lt;b&gt;Modificateurs raciaux&lt;/b&gt; +4 en &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; et &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; sous l&#39;eau
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Langues&lt;/b&gt; aboleth, commun des profondeurs
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Particularit&#233;s&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Amphibie-(Capacit&#233;).html&quot; title=&quot;Amphibie&quot;&gt;amphibie&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; milieu aquatique ou souterrain, climat temp&#233;r&#233; ou froid
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation sociale&lt;/b&gt; solitaire, port&#233;e (2-5), meute (6-12) ou cabale (13-95 et 50% de non combattants, 1 sous-chef de niveau 3 par 20 adultes, 1 sorcier de niveau 4-6 par 40 adultes, 1 chef de niveau 7-9 et 2-6 vases)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; &#233;quipement de PNJ (trident, autres tr&#233;sors)
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;td&gt;&lt;div&gt;&lt;i&gt;Cet humano&#239;de bossu &#224; la peau verte poss&#232;de une large t&#234;te de grenouille et
+une bouche qui ressemble plut&#244;t &#224; celles d’un poisson carnivore.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Les skums sont l’une des races les plus nombreux et les plus
+florissantes parmi toutes celles que les aboleths ont cr&#233;&#233;es pour
+qu’ils leur servent d’esclaves. &#192; l’apog&#233;e de l’empire des aboleths,
+les skums &#233;taient l&#233;gion et leurs arm&#233;es menaient de nombreuses
+guerres sur la terre. Mais, aujourd’hui que les aboleths sont sur
+le d&#233;clin, ils sont libres et doivent se d&#233;brouiller par eux-m&#234;mes.&lt;br /&gt;&lt;br /&gt;C’est une t&#226;che qu’un grand nombre d’entre eux ne sont pas
+parvenus &#224; mener &#224; bien, de sorte qu’aujourd’hui, leur nombre
+a grandement diminu&#233;. La plupart des survivants ont &#233;lu
+domicile dans des ruines souterraines abandonn&#233;es, des
+vestiges que leurs anciens ennemis ont &#233;pargn&#233;s apr&#232;s
+avoir gagn&#233; les guerres qui les opposaient &#224; eux. Les skums
+ont m&#234;me oubli&#233; leur nom : seuls les plus savants et les
+plus sages d’entre eux savent encore qu’on les appelait
+autrefois &#171;ulat-kini&#187;. Aujourd’hui, ils se d&#233;signent
+par l’&#233;pith&#232;te que les habitants de la surface leur ont
+donn&#233; : les skums, c’est-&#224;-dire les &#171;d&#233;chets&#187;.&lt;br /&gt;&lt;br /&gt;Les skums ne vieillissent pas. S’ils ne meurent pas de mort
+violente ou &#224; cause d’une maladie, ils peuvent vivre &#233;ternellement.
+Cet humano&#239;de bossu &#224; la peau verte poss&#232;de une large t&#234;te de grenouille et
+une bouche qui ressemble plut&#244;t &#224; celles d’un poisson carnivore.
+Malheureusement, leur immortalit&#233; est ternie par leur incapacit&#233;
+&#224; se reproduire entre eux, car tous les skums sont des m&#226;les :
+les aboleths ne voulaient pas cr&#233;er une race d’esclaves capables
+de prosp&#233;rer sans leur accord. Cela ne veut pas dire que les
+skums ne peuvent pas procr&#233;er. Ils ont &#233;t&#233; fabriqu&#233;s &#224; partir de
+mat&#233;riel humain, et peuvent donc engrosser les humains, ces
+unions abominables r&#233;sultant syst&#233;matiquement en des enfants
+difformes. Ceux qui ne sont pas des skums d&#232;s la naissance
+subissent des transformations graduelles tout au long de leur
+vie et, au moment o&#249; ils devraient normalement p&#233;rir de mort
+naturelle, &#171; le changement &#187; se produit : leur peau rid&#233;e tombe et
+ils deviennent des ulat-kinis. La majorit&#233; des tribus de skums ne
+poss&#232;dent pas la motivation suffisante pour perp&#233;tuer leur race
+et pr&#233;f&#232;rent se languir dans les horribles ruines inond&#233;es qu’ils
+occupent. Cependant, certaines tribus &#233;tablies pr&#232;s des r&#233;gions
+c&#244;ti&#232;res peu habit&#233;es semblent prosp&#233;rer en menant de fr&#233;quentes
+attaques contre les villages pour capturer du b&#233;tail reproducteur.
+D’autres tribus encore emploient des moyens plus insidieux : elles
+s’allient avec des humains d&#233;sesp&#233;r&#233;s et leur offrent protection et
+richesses venues de la mer en &#233;change d’&#233;pouses.
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Skum (ulat-kini)|FP 2}
+{s:pucem|Humanoïde monstrueux|Aquatique|Tempéré}
+{s:BDTexte|''Source : Bestiaire'' p.260}
+{s:BDTexte|'''PX''' 600}
+{s:BDTexte|[[type Humanoïde monstrueux|Humanoïde monstrueux]] ([[sous-type aquatique|aquatique]]) de taille M, LM}
+{s:BDTexte|'''Init''' +1 ; '''Sens''' [[vision dans le noir]] 18 m (12 {s:c}) ; [[Perception]] +5}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 13, contact 11, pris au dépourvu 12 (Dex +1, naturelle +2)}
+{s:BDTexte|'''pv''' 20 (2d10+9)}
+{s:BDTexte|'''Réf''' +4, '''Vig''' +3, '''Vol''' +3}
+{s:BDTexte|'''Résistances''' froid 10 }
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 6 m (4 {s:c}), nage 12 m (8 {s:c})}
+{s:BDTexte|'''Corps à corps''' trident +4 (1d8+2), griffe +2 (1d4+1), morsure +2 (1d6+1)}
+{s:BDTexte|'''Distance''' trident +3 (1d8+2)}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 15, '''Dex''' 13, '''Con''' 17, '''Int''' 10, '''Sag''' 10, '''Cha''' 6}
+{s:BDTexte|'''BBA''' +2, '''BMO''' +4, '''DMD''' 15}
+{s:BDTexte|'''Dons''' [[Attaques multiples]]<sup>B</sup>, [[Robustesse]]}
+{s:BDTexte|'''Compétences''' [[Discrétion]] +6 (+10 sous l'eau), [[Intimidation]] +3, [[Natation]] +15, [[Perception]] +5 (+9 sous l'eau) ; '''Modificateurs raciaux''' +4 en [[Discrétion]] et [[Perception]] sous l'eau}
+{s:BDTexte|'''Langues''' aboleth, commun des profondeurs}
+{s:BDTexte|'''Particularités''' [[amphibie]]}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' milieu aquatique ou souterrain, climat tempéré ou froid}
+{s:BDTexte|'''Organisation sociale''' solitaire, portée (2-5), meute (6-12) ou cabale (13-95 et 50% de non combattants, 1 sous-chef de niveau 3 par 20 adultes, 1 sorcier de niveau 4-6 par 40 adultes, 1 chef de niveau 7-9 et 2-6 vases)}
+{s:BDTexte|'''Trésor''' équipement de PNJ (trident, autres trésors)}
+</div>
+</td><td><div>''Cet humanoïde bossu à la peau verte possède une large tête de grenouille et
+une bouche qui ressemble plutôt à celles d’un poisson carnivore.''
+
+Les skums sont l’une des races les plus nombreux et les plus
+florissantes parmi toutes celles que les aboleths ont créées pour
+qu’ils leur servent d’esclaves. À l’apogée de l’empire des aboleths,
+les skums étaient légion et leurs armées menaient de nombreuses
+guerres sur la terre. Mais, aujourd’hui que les aboleths sont sur
+le déclin, ils sont libres et doivent se débrouiller par eux-mêmes.
+
+C’est une tâche qu’un grand nombre d’entre eux ne sont pas
+parvenus à mener à bien, de sorte qu’aujourd’hui, leur nombre
+a grandement diminué. La plupart des survivants ont élu
+domicile dans des ruines souterraines abandonnées, des
+vestiges que leurs anciens ennemis ont épargnés après
+avoir gagné les guerres qui les opposaient à eux. Les skums
+ont même oublié leur nom : seuls les plus savants et les
+plus sages d’entre eux savent encore qu’on les appelait
+autrefois «ulat-kini». Aujourd’hui, ils se désignent
+par l’épithète que les habitants de la surface leur ont
+donné : les skums, c’est-à-dire les «déchets».
+
+Les skums ne vieillissent pas. S’ils ne meurent pas de mort
+violente ou à cause d’une maladie, ils peuvent vivre éternellement.
+Cet humanoïde bossu à la peau verte possède une large tête de grenouille et
+une bouche qui ressemble plutôt à celles d’un poisson carnivore.
+Malheureusement, leur immortalité est ternie par leur incapacité
+à se reproduire entre eux, car tous les skums sont des mâles :
+les aboleths ne voulaient pas créer une race d’esclaves capables
+de prospérer sans leur accord. Cela ne veut pas dire que les
+skums ne peuvent pas procréer. Ils ont été fabriqués à partir de
+matériel humain, et peuvent donc engrosser les humains, ces
+unions abominables résultant systématiquement en des enfants
+difformes. Ceux qui ne sont pas des skums dès la naissance
+subissent des transformations graduelles tout au long de leur
+vie et, au moment où ils devraient normalement périr de mort
+naturelle, « le changement » se produit : leur peau ridée tombe et
+ils deviennent des ulat-kinis. La majorité des tribus de skums ne
+possèdent pas la motivation suffisante pour perpétuer leur race
+et préfèrent se languir dans les horribles ruines inondées qu’ils
+occupent. Cependant, certaines tribus établies près des régions
+côtières peu habitées semblent prospérer en menant de fréquentes
+attaques contre les villages pour capturer du bétail reproducteur.
+D’autres tribus encore emploient des moyens plus insidieux : elles
+s’allient avec des humains désespérés et leur offrent protection et
+richesses venues de la mer en échange d’épouses.
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Skum</fullName>
+</wikiPage>

@@ -1,0 +1,131 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Baykok</title>
+  <categories><category>Pathfinder-RPG.Bestiaire 3</category><category>Pathfinder-RPG.Monstre</category><category>Pathfinder-RPG.Règles officielles</category></categories>
+  <lastModified>2013-08-31 13:40:31Z</lastModified>
+  <version>0</version>
+  <inLinks><link>Pathfinder-RPG.Glossaire des monstres</link><link>Pathfinder-RPG.Liste de monstres par FP</link><link>Pathfinder-RPG.Liste de monstres par milieu naturel</link><link>Pathfinder-RPG.Liste de monstres par type</link><link>Pathfinder-RPG.Monstres</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.type Mort-vivant</link><link>Pathfinder-RPG.vision dans le noir</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Traits des morts-vivants</link><link>Pathfinder-RPG.Paralysie (capacité)</link><link>Pathfinder-RPG.Arme de prédilection</link><link>Pathfinder-RPG.Esquive</link><link>Pathfinder-RPG.Science de linitiative</link><link>Pathfinder-RPG.Science du critique</link><link>Pathfinder-RPG.Tir de précision</link><link>Pathfinder-RPG.Tir en mouvement</link><link>Pathfinder-RPG.Tir rapide</link><link>Pathfinder-RPG.Discrétion</link><link>Pathfinder-RPG.Intimidation</link><link>Pathfinder-RPG.Vol</link><link>Pathfinder-RPG.Action simple</link><link>Pathfinder-RPG.Mourant</link><link>Pathfinder-RPG.Vigueur</link><link>Pathfinder-RPG.DD</link><link>Pathfinder-RPG.jet de sauvegarde</link><link>Pathfinder-RPG.Rappel à la vie</link><link>Pathfinder-RPG.Résurrection</link><link>Pathfinder-RPG.Rapidité</link><link>Pathfinder-RPG.round</link><link>Pathfinder-RPG.Charisme</link><link>Pathfinder-RPG.Paralysé</link><link>Pathfinder-RPG.Volonté</link><link>Pathfinder-RPG.Secoué</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Baykok&lt;div style=&quot;float:right;&quot;&gt;FP 9&lt;/div&gt;&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Bestiaire 3 p.31&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 6 400
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Mort-Vivant.html&quot; title=&quot;Mort-vivant&quot;&gt;Mort-vivant&lt;/a&gt; de taille M, NM
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +10 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Capacit&#233;s-Sp&#233;ciales.html#VISIONDANSLENOIR&quot; title=&quot;vision dans le noir&quot;&gt;vision dans le noir&lt;/a&gt; &#224; 18 m (12 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +18
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 24, contact 17, pris au d&#233;pourvu 27 (Dex +6, esquive +1, naturelle +7)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 97 (15d8+30)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +11, &lt;b&gt;Vig&lt;/b&gt; +7, &lt;b&gt;Vol&lt;/b&gt; +9
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Immunit&#233;s&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Traits-Des-Morts-Vivants-(Capacit&#233;).html&quot; title=&quot;Traits des morts-vivants&quot;&gt;traits des morts-vivants&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 9 m (6 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), vol 18 m (12 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;, bonne)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; 2 griffes, +14 (1d6+3)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;A distance&lt;/b&gt; &lt;i&gt;arc long composite +1&lt;/i&gt;, +20/+15/+10 (1d8+4, 19-20/x3 plus 1d6 d&#39;&#233;nergie n&#233;gative et &lt;a class=&quot;pagelink&quot; href=&quot;Paralysie-(Capacit&#233;).html&quot; title=&quot;Paralysie (Ext ou Sur)&quot;&gt;paralysie&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaques sp&#233;ciales&lt;/b&gt; engloutissement d&#39;&#226;mes, fl&#232;ches impr&#233;gn&#233;es, hurlement d&#39;&#233;pouvante
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 17, &lt;b&gt;Dex&lt;/b&gt; 22, &lt;b&gt;Con&lt;/b&gt; -, &lt;b&gt;Int&lt;/b&gt; 11, &lt;b&gt;Sag&lt;/b&gt; 10, &lt;b&gt;Cha&lt;/b&gt; 15
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +11, &lt;b&gt;BMO&lt;/b&gt; +14, &lt;b&gt;DMD&lt;/b&gt; 31
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt;  &lt;a class=&quot;pagelink&quot; href=&quot;Arme-De-Pr&#233;dilection.html&quot; title=&quot;Arme de pr&#233;dilection&quot;&gt;Arme de pr&#233;dilection&lt;/a&gt; (arc long composite), &lt;a class=&quot;pagelink&quot; href=&quot;Esquive.html&quot; title=&quot;Esquive&quot;&gt;Esquive&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Science-De-Linitiative.html&quot; title=&quot;Science de l&amp;#39;initiative&quot;&gt;Science de l&#39;initiative&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Science-Du-Critique.html&quot; title=&quot;Science du critique&quot;&gt;Science du critique&lt;/a&gt; (arc long composite), Tir &#224; bout portant]], &lt;a class=&quot;pagelink&quot; href=&quot;Tir-De-Pr&#233;cision.html&quot; title=&quot;Tir de pr&#233;cision&quot;&gt;Tir de pr&#233;cision&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Tir-En-Mouvement.html&quot; title=&quot;Tir en mouvement&quot;&gt;Tir en mouvement&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Tir-Rapide.html&quot; title=&quot;Tir rapide&quot;&gt;Tir rapide&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt;  &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; +24, &lt;a class=&quot;pagelink&quot; href=&quot;Intimidation.html&quot; title=&quot;Intimidation&quot;&gt;Intimidation&lt;/a&gt; +20, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +18, &lt;a class=&quot;pagelink&quot; href=&quot;Vol.html&quot; title=&quot;Vol&quot;&gt;Vol&lt;/a&gt; +28
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Langues&lt;/b&gt; commun
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; tous
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation sociale&lt;/b&gt; solitaire, gang (2-5) ou vol&#233;e (6-12)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; standard (&lt;i&gt;arc long composite +1 [For +3]&lt;/i&gt;, autre tr&#233;sor)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Pouvoirs sp&#233;ciaux&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Engloutissement d&#39;&#226;mes (Sur).&lt;/b&gt; Le baykok peut d&#233;penser une &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions.html#SIMPLE&quot; title=&quot;Action simple&quot;&gt;action simple&lt;/a&gt; pour d&#233;vorer l&#39;&#226;me d&#39;une cr&#233;ature adjacente morte ou &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables.html#Mourant&quot; title=&quot;Mourant&quot;&gt;mourante&lt;/a&gt;. La cr&#233;ature &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables.html#Mourant&quot; title=&quot;Mourant&quot;&gt;mourante&lt;/a&gt; peut r&#233;sister avec un jet de &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;Vigueur&quot;&gt;Vigueur&lt;/a&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DEGREDEDIFFICULTE&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; 19. Si elle &#233;choue, elle meurt sur le coup. Si la cr&#233;ature est d&#233;j&#224; morte, elle ne fait pas de &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;jet de sauvegarde&quot;&gt;jet de sauvegarde&lt;/a&gt; mais son corps ne doit pas &#234;tre mort depuis plus d&#39;une heure. &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Rappel-&#192;-La-Vie.html&quot; title=&quot;Rappel &#224; la vie&quot;&gt;Rappel &#224; la vie&lt;/a&gt;&lt;/i&gt; ne fonctionne pas sur une cr&#233;ature victime de cette attaque (mais &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;R&#233;surrection.html&quot; title=&quot;R&#233;surrection&quot;&gt;r&#233;surrection&lt;/a&gt;&lt;/i&gt; et les effets plus puissants si). Lorsqu&#39;un baykok d&#233;vore une &#226;me de cette mani&#232;re, il se soigne de 5d6+10 points de d&#233;g&#226;ts et agit plus vite (comme s&#39;il &#233;tait affect&#233; par le sort &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Rapidit&#233;.html&quot; title=&quot;Rapidit&#233;&quot;&gt;rapidit&#233;&lt;/a&gt;&lt;/i&gt;) pendant 4 &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#ROUND&quot; title=&quot;round&quot;&gt;rounds&lt;/a&gt;. Il s&#39;agit d&#39;un effet de mort. Le &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DEGREDEDIFFICULTE&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; du &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;jet de sauvegarde&quot;&gt;jet de sauvegarde&lt;/a&gt; est bas&#233; sur le &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#CHARISME&quot; title=&quot;Le Charisme&quot;&gt;Charisme&lt;/a&gt;.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Fl&#232;ches impr&#233;gn&#233;es (Sur).&lt;/b&gt; Le baykok cr&#233;e des fl&#232;ches en os lorsqu&#39;il bande son arc : il n&#39;a pas besoin de transporter de fl&#232;ches avec lui. Ces fl&#232;ches en os infligent des d&#233;g&#226;ts normaux mais ajoutent un bonus d&#39;alt&#233;ration de +1 aux jets d&#39;attaques et de d&#233;g&#226;ts. De plus, chaque fl&#232;che inflige 1d6 points d&#39;&#233;nergie n&#233;gative suppl&#233;mentaires &#224; l&#39;impact. La premi&#232;re cr&#233;ature du &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#ROUND&quot; title=&quot;round&quot;&gt;round&lt;/a&gt; touch&#233;e par une fl&#232;che de baykok doit faire un jet de &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;Vigueur&quot;&gt;Vigueur&lt;/a&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DEGREDEDIFFICULTE&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; 19 pour &#233;viter d&#39;&#234;tre &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables.html#Paralys&#233;&quot; title=&quot;Paralys&#233;&quot;&gt;paralys&#233;e&lt;/a&gt; pendant 1d3 &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#ROUND&quot; title=&quot;round&quot;&gt;rounds&lt;/a&gt;. Le baykok peut tirer des fl&#232;ches normales s&#39;il le souhaite, mais celles-ci n&#39;infligent pas de d&#233;g&#226;ts d&#39;&#233;nergie n&#233;gative et n&#39;ont pas d&#39;effet paralysant. Le &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DEGREDEDIFFICULTE&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; du &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;jet de sauvegarde&quot;&gt;jet de sauvegarde&lt;/a&gt; est bas&#233; sur le &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#CHARISME&quot; title=&quot;Le Charisme&quot;&gt;Charisme&lt;/a&gt;.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Hurlement d&#39;&#233;pouvante (Sur).&lt;/b&gt; Une fois par jour, le baykok peut pousser un hurlement &#224; glacer le sang. Toutes les cr&#233;atures vivantes situ&#233;es dans un rayon de 9 m&#232;tres (6 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) sont &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables.html#Paralys&#233;&quot; title=&quot;Paralys&#233;&quot;&gt;paralys&#233;es&lt;/a&gt; par la peur pendant 1 &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#ROUND&quot; title=&quot;round&quot;&gt;round&lt;/a&gt; &#224; moins de r&#233;sister avec un jet de &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;Volont&#233;&quot;&gt;Volont&#233;&lt;/a&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DEGREDEDIFFICULTE&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt;19. Toutes les cr&#233;atures qui r&#233;ussissent ce jet sont, non pas &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables.html#Paralys&#233;&quot; title=&quot;Paralys&#233;&quot;&gt;paralys&#233;es&lt;/a&gt;, mais &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables.html#Secou&#233;&quot; title=&quot;Secou&#233;&quot;&gt;secou&#233;es&lt;/a&gt; pendant 1 &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#ROUND&quot; title=&quot;round&quot;&gt;round&lt;/a&gt;. Il s&#39;agit d&#39;un effet de terreur. Le &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DEGREDEDIFFICULTE&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; du &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;jet de sauvegarde&quot;&gt;jet de sauvegarde&lt;/a&gt; est bas&#233; sur le &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#CHARISME&quot; title=&quot;Le Charisme&quot;&gt;Charisme&lt;/a&gt;.
+&lt;/div&gt;&lt;br /&gt;&lt;/div&gt;
+&lt;/td&gt;&lt;td&gt;&lt;div&gt;
+&lt;i&gt;Ce squelette hurlant, aux jambes horriblement allong&#233;es, fend les airs et manie un arc d&#39;os.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Lorsque la traque devient une v&#233;ritable obsession pour les chasseurs et qu’ils se laissent aller &#224; toute la sauvagerie de la mise &#224; mort, leur &#226;me se corrompt peu &#224; peu. Et quand ces &#234;tres impitoyables meurent avant d’avoir pu capturer et tuer leur proie, ils reviennent parfois d’entre les morts sous forme de baykoks : des horreurs mortes-vivantes volantes qui tuent pour la seule extase que le meurtre leur procure. &lt;br /&gt;&lt;br /&gt;Contrairement &#224; beaucoup de morts-vivants abhorrant les vivants et s’en nourrissant, les baykoks cherchent toujours &#224; prouver leur ma&#238;trise de la chasse. Bien que profond&#233;ment mauvais, ils ne s’int&#233;ressent souvent qu’aux ennemis qui, dans un groupe, leur paraissent comme les plus puissants, ils tuent les cr&#233;atures inf&#233;rieures uniquement si elles osent s’interposer entre le baykok et sa v&#233;ritable proie. Une fois que le baykok a terrass&#233; sa victime, il plonge sur elle pour d&#233;vorer son &#226;me et ainsi s’assurer qu’elle ne reviendra jamais chercher vengeance.
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Baykok|FP 9}
+{s:pucem|Mort-Vivant|Ruines-Donjons|Tempéré}
+{s:BDTexte|''Source : Bestiaire 3 p.31''}
+{s:BDTexte|'''PX''' 6 400}
+{s:BDTexte|[[type mort-vivant|Mort-vivant]] de taille M, NM}
+{s:BDTexte|'''Init''' +10 ; '''Sens''' [[vision dans le noir]] à 18 m (12 {s:c}) ; [[Perception]] +18}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 24, contact 17, pris au dépourvu 27 (Dex +6, esquive +1, naturelle +7)}
+{s:BDTexte|'''pv''' 97 (15d8+30)}
+{s:BDTexte|'''Réf''' +11, '''Vig''' +7, '''Vol''' +9}
+{s:BDTexte|'''Immunités''' [[traits des morts-vivants]]}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 9 m (6 {s:c}), vol 18 m (12 {s:c}, bonne)}
+{s:BDTexte|'''Corps à corps''' 2 griffes, +14 (1d6+3)}
+{s:BDTexte|'''A distance''' ''arc long composite +1'', +20/+15/+10 (1d8+4, 19-20/x3 plus 1d6 d'énergie négative et [[paralysie (capacité)|paralysie]]}
+{s:BDTexte|'''Attaques spéciales''' engloutissement d'âmes, flèches imprégnées, hurlement d'épouvante}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 17, '''Dex''' 22, '''Con''' -, '''Int''' 11, '''Sag''' 10, '''Cha''' 15}
+{s:BDTexte|'''BBA''' +11, '''BMO''' +14, '''DMD''' 31}
+{s:BDTexte|'''Dons'''  [[Arme de prédilection]] (arc long composite), [[Esquive]], [[Science de linitiative|Science de l'initiative]], [[Science du critique]] (arc long composite), Tir à bout portant]], [[Tir de précision]], [[Tir en mouvement]], [[Tir rapide]]}
+{s:BDTexte|'''Compétences'''  [[Discrétion]] +24, [[Intimidation]] +20, [[Perception]] +18, [[Vol]] +28}
+{s:BDTexte|'''Langues''' commun}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' tous}
+{s:BDTexte|'''Organisation sociale''' solitaire, gang (2-5) ou volée (6-12)}
+{s:BDTexte|'''Trésor''' standard (''arc long composite +1 <nowiki>[</nowiki>For +3<nowiki>]</nowiki>'', autre trésor)}
+{s:BDSousTitre|Pouvoirs spéciaux}
+{s:BDTexte|'''Engloutissement d'âmes (Sur).''' Le baykok peut dépenser une [[action simple]] pour dévorer l'âme d'une créature adjacente morte ou [[mourant|mourante]]. La créature [[mourant|mourante]] peut résister avec un jet de [[Vigueur]] [[DD]] 19. Si elle échoue, elle meurt sur le coup. Si la créature est déjà morte, elle ne fait pas de [[jet de sauvegarde]] mais son corps ne doit pas être mort depuis plus d'une heure. ''[[Rappel à la vie]]'' ne fonctionne pas sur une créature victime de cette attaque (mais ''[[résurrection]]'' et les effets plus puissants si). Lorsqu'un baykok dévore une âme de cette manière, il se soigne de 5d6+10 points de dégâts et agit plus vite (comme s'il était affecté par le sort ''[[rapidité]]'') pendant 4 [[round|rounds]]. Il s'agit d'un effet de mort. Le [[DD]] du [[jet de sauvegarde]] est basé sur le [[Charisme]].}
+{s:BDTexte|'''Flèches imprégnées (Sur).''' Le baykok crée des flèches en os lorsqu'il bande son arc : il n'a pas besoin de transporter de flèches avec lui. Ces flèches en os infligent des dégâts normaux mais ajoutent un bonus d'altération de +1 aux jets d'attaques et de dégâts. De plus, chaque flèche inflige 1d6 points d'énergie négative supplémentaires à l'impact. La première créature du [[round]] touchée par une flèche de baykok doit faire un jet de [[Vigueur]] [[DD]] 19 pour éviter d'être [[paralysé|paralysée]] pendant 1d3 [[round|rounds]]. Le baykok peut tirer des flèches normales s'il le souhaite, mais celles-ci n'infligent pas de dégâts d'énergie négative et n'ont pas d'effet paralysant. Le [[DD]] du [[jet de sauvegarde]] est basé sur le [[Charisme]].}
+{s:BDTexte|'''Hurlement d'épouvante (Sur).''' Une fois par jour, le baykok peut pousser un hurlement à glacer le sang. Toutes les créatures vivantes situées dans un rayon de 9 mètres (6 {s:c}) sont [[paralysé|paralysées]] par la peur pendant 1 [[round]] à moins de résister avec un jet de [[Volonté]] [[DD]]19. Toutes les créatures qui réussissent ce jet sont, non pas [[paralysé|paralysées]], mais [[secoué|secouées]] pendant 1 [[round]]. Il s'agit d'un effet de terreur. Le [[DD]] du [[jet de sauvegarde]] est basé sur le [[Charisme]].}
+
+</div>
+</td><td><div>
+''Ce squelette hurlant, aux jambes horriblement allongées, fend les airs et manie un arc d'os.''
+
+Lorsque la traque devient une véritable obsession pour les chasseurs et qu’ils se laissent aller à toute la sauvagerie de la mise à mort, leur âme se corrompt peu à peu. Et quand ces êtres impitoyables meurent avant d’avoir pu capturer et tuer leur proie, ils reviennent parfois d’entre les morts sous forme de baykoks : des horreurs mortes-vivantes volantes qui tuent pour la seule extase que le meurtre leur procure. 
+
+Contrairement à beaucoup de morts-vivants abhorrant les vivants et s’en nourrissant, les baykoks cherchent toujours à prouver leur maîtrise de la chasse. Bien que profondément mauvais, ils ne s’intéressent souvent qu’aux ennemis qui, dans un groupe, leur paraissent comme les plus puissants, ils tuent les créatures inférieures uniquement si elles osent s’interposer entre le baykok et sa véritable proie. Une fois que le baykok a terrassé sa victime, il plonge sur elle pour dévorer son âme et ainsi s’assurer qu’elle ne reviendra jamais chercher vengeance.
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Baykok</fullName>
+</wikiPage>

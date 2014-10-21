@@ -1,0 +1,483 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>L'armure comme RD</title>
+  <categories><category>Pathfinder-RPG.Art de la guerre</category><category>Pathfinder-RPG.Règles officielles</category></categories>
+  <lastModified>2013-03-03 23:38:20Z</lastModified>
+  <version>9</version>
+  <inLinks><link>Pathfinder-RPG.Blessures et vitalité</link><link>Pathfinder-RPG.Description des pièces darmure</link><link>Pathfinder-RPG.Frappes ciblées</link><link>Pathfinder-RPG.Larmure comme RD</link><link>Pathfinder-RPG.Pièces darmures</link><link>Pathfinder-RPG.Régles alternatives</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Régles alternatives</link><link>Pathfinder-RPG.Larmure comme RD</link><link>Pathfinder-RPG.Frappes ciblées</link><link>Pathfinder-RPG.Pièces darmures</link><link>Pathfinder-RPG.Description des pièces darmure</link><link>Pathfinder-RPG.Blessures et vitalité</link><link>Pathfinder-RPG.CA</link><link>Pathfinder-RPG.Actions simples</link><link>Pathfinder-RPG.Caractéristiques des armures</link><link>Pathfinder-RPG.Valeurs de combat</link><link>Pathfinder-RPG.Dextérité</link><link>Pathfinder-RPG.États préjudiciables</link><link>Pathfinder-RPG.Réduction de dégâts (capacité)</link><link>Pathfinder-RPG.Peau décorce</link><link>Pathfinder-RPG.Druide</link><link>Pathfinder-RPG.Intangible (capacité)</link><link>Pathfinder-RPG.Amorphe (capacité)</link><link>Pathfinder-RPG.Dons</link><link>Pathfinder-RPG.Vocabulaire courant</link><link>Pathfinder-RPG.Guerrier</link><link>Pathfinder-RPG.Armures magiques</link></outLinks>
+  <body><![CDATA[&lt;div style=&quot;float: right; margin-left: 10px; margin-right: -40px; max-width: 300px;&quot; class=&quot;presentation recentre&quot;&gt;&lt;table id=&quot;TocContainerTable&quot;&gt;&lt;tr&gt;&lt;td&gt;&lt;div id=&quot;TocContainer&quot;&gt;&lt;p class=&quot;small&quot;&gt;&lt;b&gt;Table of Contents&lt;/b&gt;&lt;span id=&quot;ExpandTocSpan&quot;&gt; [&lt;a href=&quot;#&quot; onclick=&quot;javascript:if(document.getElementById(&#39;Toc&#39;).style[&#39;display&#39;]==&#39;none&#39;) document.getElementById(&#39;Toc&#39;).style[&#39;display&#39;]=&#39;&#39;; else document.getElementById(&#39;Toc&#39;).style[&#39;display&#39;]=&#39;none&#39;; return false;&quot;&gt;Hide/Show&lt;/a&gt;]&lt;/span&gt;&lt;/p&gt;&lt;div id=&quot;Toc&quot;&gt;&lt;p&gt;&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;#D&#233;fense_0&quot;&gt;D&#233;fense&lt;/a&gt;&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;#Larmure_comme_RD__1&quot;&gt;L&#39;armure comme RD &lt;/a&gt;&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;#Coups_critiques_et_d&#233;fense_2&quot;&gt;Coups critiques et d&#233;fense&lt;/a&gt;&lt;br /&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;&lt;div style=&quot;float: left; margin-right: 20px; margin-bottom: 10px;&quot; class=&quot;presentation recentre&quot;&gt;
+&lt;h2 class=&quot;separator&quot;&gt;&lt;div style=&quot;float: right; margin-top: -4px;&quot;&gt;&lt;/div&gt;R&#232;gles alternatives&lt;/h2&gt;
+&lt;ul&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;R&#233;gles-Alternatives.html&quot; title=&quot;R&#232;gles alternatives&quot;&gt;Introduction&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Larmure-Comme-Rd.html&quot; title=&quot;L&amp;#39;armure comme RD&quot;&gt;L&#39;armure comme r&#233;duction de d&#233;g&#226;ts&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Frappes-Cibl&#233;es.html&quot; title=&quot;Frappes cibl&#233;es&quot;&gt;Frappes cibl&#233;es&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Pi&#232;ces-Darmures.html&quot; title=&quot;Pi&#232;ces d&amp;#39;armure&quot;&gt;Pi&#232;ces d&#39;armure&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Description-Des-Pi&#232;ces-Darmure.html&quot; title=&quot;Description des pi&#232;ces d&amp;#39;armure&quot;&gt;descriptions&lt;/a&gt;)&lt;/li&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Blessures-Et-Vitalit&#233;.html&quot; title=&quot;Blessures et vitalit&#233;&quot;&gt;Blessures et vitalit&#233;&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;Si le syst&#232;me d’armure et de &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#CA&quot; title=&quot;CA&quot;&gt;Classe d’Armure&lt;/a&gt; de Pathfinder
+JdR a &#233;t&#233; &#233;prouv&#233; et test&#233;, certains joueurs pourront tout de
+m&#234;me le trouver l&#233;g&#232;rement d&#233;cal&#233;. Si une armure prot&#232;ge
+son porteur des attaques qui le frappent mais &#233;chouent &#224; le
+blesser, pourquoi dit-on que l’armure r&#233;duit les chances d’&#234;tre
+touch&#233; ? Cette abstraction a &#233;t&#233; clarifi&#233;e dans les r&#232;gles en
+statuant que l’expression &#171;&amp;nbsp;&#234;tre touch&#233; en combat&amp;nbsp;&#187; signifie
+plus pr&#233;cis&#233;ment &#171;&amp;nbsp;&#234;tre touch&#233; de telle mani&#232;re que cela
+provoque des blessures (et donc une perte de points de vie)&amp;nbsp;&#187;.
+Mais cette explication ne suffit toujours pas &#224; certains joueurs.&lt;br /&gt;&lt;br /&gt;Les r&#232;gles qui suivent forment un syst&#232;me alternatif qui
+permet aux armures d’absorber les d&#233;g&#226;ts issus des attaques,
+au lieu de fournir une m&#233;thode abstraite pour d&#233;terminer
+si une frappe cause r&#233;ellement des dommages. Comme
+les autres r&#232;gles pr&#233;sent&#233;es dans ce chapitre, il s’agit d’une
+variante du syst&#232;me de base de Pathfinder JdR. Celle-ci est
+destin&#233;e aux MJ qui souhaitent que les armures r&#233;duisent les
+d&#233;g&#226;ts au lieu d’augmenter la &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#CA&quot; title=&quot;CA&quot;&gt;Classe d’Armure&lt;/a&gt;. Dans ce cas,
+elle remplace les r&#232;gles d’armure habituelles.&lt;br /&gt;&lt;br /&gt;Avec ce syst&#232;me, les cr&#233;atures n’ont plus de &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#CA&quot; title=&quot;CA&quot;&gt;Classe d’Armure&lt;/a&gt;.
+Elles ont un score de D&#233;fense que les jets d’attaque ennemis
+doivent atteindre ou d&#233;passer pour toucher la cr&#233;ature.
+Ensuite, les d&#233;g&#226;ts sont diminu&#233;s en fonction de la r&#233;duction
+de d&#233;g&#226;ts dont b&#233;n&#233;ficie la cr&#233;ature gr&#226;ce &#224; son bonus
+d’armure naturelle et &#224; l’armure qu’elle porte. Par ailleurs,
+l’armure a une chance de r&#233;duire les coups critiques &#224; de
+simples coups normaux, en rempla&#231;ant le jet de confirmation
+du &lt;a class=&quot;pagelink&quot; href=&quot;Actions-Simples.html#COUPCRITIQUE&quot; title=&quot;Actions simples&quot;&gt;coup critique&lt;/a&gt; par un test de d&#233;fense critique que doit
+r&#233;aliser la cr&#233;ature menac&#233;e par l’attaque critique.&lt;br /&gt;&lt;br /&gt;&lt;h2 class=&quot;separator&quot;&gt;D&#233;fense&lt;a class=&quot;headeranchor&quot; id=&quot;D&#233;fense_0&quot; href=&quot;#D&#233;fense_0&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;Dans ce syst&#232;me alternatif, les cr&#233;atures n’ont pas de &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#CA&quot; title=&quot;CA&quot;&gt;Classe d’Armure&lt;/a&gt;; elles ont un score de D&#233;fense. Le fonctionnement
+de la D&#233;fense est similaire &#224; celui de la &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#CA&quot; title=&quot;CA&quot;&gt;CA&lt;/a&gt; dans les r&#232;gles
+standard de Pathfinder JdR, mais elle int&#232;gre aussi le &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques-Des-Armures.html#BONUSARMUREBOUCLIER&quot; title=&quot;Caract&#233;ristiques des armures&quot;&gt;bonus de bouclier&lt;/a&gt;
+(ce qui inclut tous les &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#BONUSALTERATION&quot; title=&quot;Valeurs de combat&quot;&gt;bonus d&#39;alt&#233;ration&lt;/a&gt; du bouclier),
+et tous les &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#BONUSALTERATION&quot; title=&quot;Valeurs de combat&quot;&gt;bonus d&#39;alt&#233;ration&lt;/a&gt; de l’armure.
+&lt;div class=&quot;presentation arrondi recentre ombre&quot;&gt;&lt;center&gt;
+&lt;b&gt;D&#233;fense&lt;/b&gt;&lt;br /&gt;=&lt;br /&gt;10 + &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques-Des-Armures.html#BONUSARMUREBOUCLIER&quot; title=&quot;Caract&#233;ristiques des armures&quot;&gt;bonus de bouclier&lt;/a&gt; + modificateur de &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#DEXTERITE&quot; title=&quot;La Dext&#233;rit&#233;&quot;&gt;Dext&#233;rit&#233;&lt;/a&gt; + autre(s) modificateur(s) &lt;br /&gt; (ce qui inclut les &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#BONUSALTERATION&quot; title=&quot;Valeurs de combat&quot;&gt;bonus d&#39;alt&#233;ration&lt;/a&gt; d&#39;armure, mais pas les &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques-Des-Armures.html#BONUSARMUREBOUCLIER&quot; title=&quot;Caract&#233;ristiques des armures&quot;&gt;bonus d&#39;armure&lt;/a&gt; ou les &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#BONUSARMURENATURELLE&quot; title=&quot;Valeurs de combat&quot;&gt;bonus d&#39;armure naturelle&lt;/a&gt;)
+&lt;/center&gt;&lt;/div&gt;&lt;br /&gt;La D&#233;fense repr&#233;sente combien il est facile ou difficile de
+toucher une cr&#233;ature. Le &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques-Des-Armures.html#BONUSARMUREBOUCLIER&quot; title=&quot;Caract&#233;ristiques des armures&quot;&gt;bonus de bouclier&lt;/a&gt; est ajout&#233; parce que
+la cr&#233;ature est suppos&#233;e &#234;tre active dans sa d&#233;fense et occup&#233;e &#224;
+parer les attaques avec son bouclier chaque fois qu’elle le peut,
+c’est-&#224;-dire dans chaque situation o&#249; elle n’est pas prise au
+d&#233;pourvu et o&#249; elle gagnerait normalement son bonus &#224; la &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#CA&quot; title=&quot;CA&quot;&gt;CA&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Perdre le bonus de Dext&#233;rit&#233; &#224; la D&#233;fense&lt;/b&gt;. Les situations et
+effets qui pourraient faire perdre au personnage son bonus
+de &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#DEXTERITE&quot; title=&quot;La Dext&#233;rit&#233;&quot;&gt;Dext&#233;rit&#233;&lt;/a&gt; &#224; la &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#CA&quot; title=&quot;CA&quot;&gt;CA&lt;/a&gt; causent &#224; la place la perte du bonus de
+&lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#DEXTERITE&quot; title=&quot;La Dext&#233;rit&#233;&quot;&gt;Dext&#233;rit&#233;&lt;/a&gt; &#224; la D&#233;fense. De plus, chaque fois que le personnage
+perd son bonus de &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#DEXTERITE&quot; title=&quot;La Dext&#233;rit&#233;&quot;&gt;Dext&#233;rit&#233;&lt;/a&gt; &#224; la D&#233;fense, il perd aussi son &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques-Des-Armures.html#BONUSARMUREBOUCLIER&quot; title=&quot;Caract&#233;ristiques des armures&quot;&gt;bonus de bouclier&lt;/a&gt; &#224; la D&#233;fense, puisque lorsque le personnage perd
+son bonus de &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#DEXTERITE&quot; title=&quot;La Dext&#233;rit&#233;&quot;&gt;Dext&#233;rit&#233;&lt;/a&gt; &#224; la &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#CA&quot; title=&quot;CA&quot;&gt;CA&lt;/a&gt;, il perd &#233;galement sa capacit&#233; &#224;
+r&#233;agir de mani&#232;re ad&#233;quate avec le bouclier face aux attaques.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Pris au d&#233;pourvu&lt;/b&gt;. Le personnage ne b&#233;n&#233;ficie pas de ses bonus
+&#224; la D&#233;fense de &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#DEXTERITE&quot; title=&quot;La Dext&#233;rit&#233;&quot;&gt;Dext&#233;rit&#233;&lt;/a&gt; et de &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques-Des-Armures.html#BONUSARMUREBOUCLIER&quot; title=&quot;Caract&#233;ristiques des armures&quot;&gt;bouclier&lt;/a&gt; s’il est pris au d&#233;pourvu
+ou perd son bonus de &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#DEXTERITE&quot; title=&quot;La Dext&#233;rit&#233;&quot;&gt;Dext&#233;rit&#233;&lt;/a&gt; &#224; la D&#233;fense ; par cons&#233;quent, le
+score de D&#233;fense d’un personnage pris au d&#233;pourvu est &#233;gal &#224; sa
+D&#233;fense moins ses bonus de &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#DEXTERITE&quot; title=&quot;La Dext&#233;rit&#233;&quot;&gt;Dext&#233;rit&#233;&lt;/a&gt; et de &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques-Des-Armures.html#BONUSARMUREBOUCLIER&quot; title=&quot;Caract&#233;ristiques des armures&quot;&gt;bouclier&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;D&#233;fense et usage du bouclier sans formation&lt;/b&gt;. Quand une
+cr&#233;ature utilise un bouclier sans la formation ad&#233;quate, le
+&lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques-Des-Armures.html#MALUSARMURE&quot; title=&quot;Caract&#233;ristiques des armures&quot;&gt;malus d’armure aux tests&lt;/a&gt; du bouclier doit &#234;tre appliqu&#233;
+comme p&#233;nalit&#233; au bonus de D&#233;fense apport&#233; par le
+&lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques-Des-Armures.html#BONUSARMUREBOUCLIER&quot; title=&quot;Caract&#233;ristiques des armures&quot;&gt;bouclier&lt;/a&gt;, en plus des &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques-Des-Armures.html#MALUSARMURE&quot; title=&quot;Caract&#233;ristiques des armures&quot;&gt;autres p&#233;nalit&#233;s&lt;/a&gt; li&#233;es &#224; l’utilisation
+d’un bouclier sans la formation ad&#233;quate. De surcro&#238;t, cette
+p&#233;nalit&#233; s’applique aussi &#224; la D&#233;fense quand la cr&#233;ature est
+&lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables.html#Prisaud&#233;pourvu&quot; title=&quot;&#201;tats pr&#233;judiciables&quot;&gt;prise au d&#233;pourvu&lt;/a&gt;, le bouclier repr&#233;sentant plus une g&#234;ne
+qu’une d&#233;fense efficace face aux attaques ennemies.&lt;br /&gt;&lt;br /&gt;
+&lt;h2 class=&quot;separator&quot;&gt;L&#39;armure comme &lt;a class=&quot;pagelink&quot; href=&quot;R&#233;duction-De-D&#233;g&#226;ts-(Capacit&#233;).html&quot; title=&quot;R&#233;duction de d&#233;g&#226;ts (Ext ou Sur)&quot;&gt;RD&lt;/a&gt;&lt;a class=&quot;headeranchor&quot; id=&quot;Larmure_comme_RD__1&quot; href=&quot;#Larmure_comme_RD__1&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;Dans ce syst&#232;me, les armures conservent toutes leurs
+statistiques et qualit&#233;s habituelles, mais leur &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques-Des-Armures.html#BONUSARMUREBOUCLIER&quot; title=&quot;Caract&#233;ristiques des armures&quot;&gt;bonus d’armure&lt;/a&gt;
+(qui inclut tous les &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#BONUSALTERATION&quot; title=&quot;Valeurs de combat&quot;&gt;bonus d’alt&#233;ration&lt;/a&gt; ajout&#233;s au &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques-Des-Armures.html#BONUSARMUREBOUCLIER&quot; title=&quot;Caract&#233;ristiques des armures&quot;&gt;bonus d’armure&lt;/a&gt;
+et au &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#BONUSARMURENATURELLE&quot; title=&quot;Valeurs de combat&quot;&gt;bonus d&#39;armure naturelle&lt;/a&gt;) est converti en &lt;a class=&quot;pagelink&quot; href=&quot;R&#233;duction-De-D&#233;g&#226;ts-(Capacit&#233;).html&quot; title=&quot;R&#233;duction de d&#233;g&#226;ts (Ext ou Sur)&quot;&gt;RD&lt;/a&gt;/armure. Si
+la cr&#233;ature portant l’armure poss&#232;de la formation ad&#233;quate, la
+&lt;a class=&quot;pagelink&quot; href=&quot;R&#233;duction-De-D&#233;g&#226;ts-(Capacit&#233;).html&quot; title=&quot;R&#233;duction de d&#233;g&#226;ts (Ext ou Sur)&quot;&gt;RD&lt;/a&gt; qu’une armure octroie est &#233;gale au &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques-Des-Armures.html#BONUSARMUREBOUCLIER&quot; title=&quot;Caract&#233;ristiques des armures&quot;&gt;bonus d’armure&lt;/a&gt; total
+avec un bonus de +1 au niveau 5 ou au cinqui&#232;me d&#233; de vie, et
+une augmentation de ce bonus de +1 tous les cinq niveaux au-del&#224;
+du niveau 5, ou tous les 5 d&#233;s de vie apr&#232;s les cinq premiers
+(jusqu’&#224; un bonus maximum de +4 &#224; la &lt;a class=&quot;pagelink&quot; href=&quot;R&#233;duction-De-D&#233;g&#226;ts-(Capacit&#233;).html&quot; title=&quot;R&#233;duction de d&#233;g&#226;ts (Ext ou Sur)&quot;&gt;RD&lt;/a&gt; au niveau 20 ou
+lorsque la cr&#233;ature poss&#232;de 20 d&#233;s de vie ou plus).&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Port de l’armure sans formation&lt;/b&gt;. Les cr&#233;atures portant une
+armure sans la formation ad&#233;quate ne b&#233;n&#233;ficient pas du bonus
+appliqu&#233; en fonction du niveau (ou des d&#233;s de vie) &#224; la &lt;a class=&quot;pagelink&quot; href=&quot;R&#233;duction-De-D&#233;g&#226;ts-(Capacit&#233;).html&quot; title=&quot;R&#233;duction de d&#233;g&#226;ts (Ext ou Sur)&quot;&gt;RD&lt;/a&gt;, ce
+qui s’ajoute aux &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques-Des-Armures.html#MALUSARMURE&quot; title=&quot;Caract&#233;ristiques des armures&quot;&gt;autres p&#233;nalit&#233;s&lt;/a&gt; normalement appliqu&#233;es
+lorsqu’une cr&#233;ature porte une armure sans formation.&lt;br /&gt;&lt;br /&gt;&lt;div style=&quot;float:right; background-color: #fff; padding: 0 0 16px 16px&quot;&gt;
+&lt;div style=&quot;border: 1px solid #4b3124; padding: 4px&quot;&gt;
+&lt;a name=&quot;TABCOMPOSITION&quot;&gt;&lt;/a&gt;
+&lt;center&gt;
+&lt;table CLASS=&quot;tablo&quot;&gt;&lt;caption&gt;Composition des armures et RD&lt;/caption&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td&gt;Mat&#233;riel&lt;/td&gt;&lt;td&gt;RD obtenue&lt;/td&gt;&lt;td&gt;Taille pour ignorer la RD&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Armure non magique&lt;sup&gt;(&lt;a class=&quot;internallink&quot; href=&quot;#NOTE1&quot; title=&quot;1&quot;&gt;1&lt;/a&gt;)&lt;/sup&gt;&lt;/td&gt;&lt;td&gt;RD/magique&lt;/td&gt;&lt;td&gt;G&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;Armure magique&lt;sup&gt;(&lt;a class=&quot;internallink&quot; href=&quot;#NOTE1&quot; title=&quot;1&quot;&gt;1&lt;/a&gt;)&lt;/sup&gt;&lt;/td&gt;&lt;td&gt;RD/adamantium&lt;/td&gt;&lt;td&gt;TG&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Armure adamantine&lt;sup&gt;(&lt;a class=&quot;internallink&quot; href=&quot;#NOTE1&quot; title=&quot;1&quot;&gt;1&lt;/a&gt;)&lt;/sup&gt;&lt;/td&gt;&lt;td&gt;RD/—&lt;/td&gt;&lt;td&gt;Gig&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/center&gt;
+&lt;i&gt;&lt;a name=&quot;NOTE1&quot;&gt;&lt;/a&gt;
+(1) Les armes de lumi&#232;re outrepassent toutes les RD procur&#233;es par les&lt;br /&gt;
+armures. De surcro&#238;t, la RD des armures est divis&#233;e par deux quand la&lt;br /&gt;
+cr&#233;ature est agripp&#233;e ou enchev&#234;tr&#233;e, et ne s’applique pas quand une&lt;br /&gt;
+cr&#233;ature est sans d&#233;fense ou immobilis&#233;e.&lt;/i&gt;
+&lt;/div&gt;&lt;/div&gt;
+&lt;b&gt;RD/Armure&lt;/b&gt;. Ce type de &lt;a class=&quot;pagelink&quot; href=&quot;R&#233;duction-De-D&#233;g&#226;ts-(Capacit&#233;).html&quot; title=&quot;R&#233;duction de d&#233;g&#226;ts (Ext ou Sur)&quot;&gt;RD&lt;/a&gt; bloque les dommages de
+toutes les attaques qui seraient normalement affect&#233;es
+par la &lt;a class=&quot;pagelink&quot; href=&quot;R&#233;duction-De-D&#233;g&#226;ts-(Capacit&#233;).html&quot; title=&quot;R&#233;duction de d&#233;g&#226;ts (Ext ou Sur)&quot;&gt;RD&lt;/a&gt;, en fonction de la composition de l’armure (voir
+la table &lt;a class=&quot;internallink&quot; href=&quot;#TABCOMPOSITION&quot; title=&quot;Composition des armures et RD&quot;&gt;Composition des armures et RD&lt;/a&gt; ci-contre). Contrairement &#224; la plupart des autres formes
+de r&#233;duction des d&#233;g&#226;ts, la &lt;a class=&quot;pagelink&quot; href=&quot;R&#233;duction-De-D&#233;g&#226;ts-(Capacit&#233;).html&quot; title=&quot;R&#233;duction de d&#233;g&#226;ts (Ext ou Sur)&quot;&gt;RD&lt;/a&gt;/armure peut se cumuler
+avec les autres types de &lt;a class=&quot;pagelink&quot; href=&quot;R&#233;duction-De-D&#233;g&#226;ts-(Capacit&#233;).html&quot; title=&quot;R&#233;duction de d&#233;g&#226;ts (Ext ou Sur)&quot;&gt;RD&lt;/a&gt;. Par exemple, lors d’un combat
+avec un squelette qui b&#233;n&#233;ficie de &lt;a class=&quot;pagelink&quot; href=&quot;R&#233;duction-De-D&#233;g&#226;ts-(Capacit&#233;).html&quot; title=&quot;R&#233;duction de d&#233;g&#226;ts (Ext ou Sur)&quot;&gt;RD&lt;/a&gt; 5/contondant et de
+&lt;a class=&quot;pagelink&quot; href=&quot;R&#233;duction-De-D&#233;g&#226;ts-(Capacit&#233;).html&quot; title=&quot;R&#233;duction de d&#233;g&#226;ts (Ext ou Sur)&quot;&gt;RD&lt;/a&gt; 4/armure (+2 d’armure, +2 d’armure naturelle), la &lt;a class=&quot;pagelink&quot; href=&quot;R&#233;duction-De-D&#233;g&#226;ts-(Capacit&#233;).html&quot; title=&quot;R&#233;duction de d&#233;g&#226;ts (Ext ou Sur)&quot;&gt;RD&lt;/a&gt;/armure du squelette r&#233;duit de 9 points les d&#233;g&#226;ts issus
+d’attaques non contondantes, et de 4 points les d&#233;g&#226;ts des
+armes contondantes. Les armes magiques et les attaques
+des cr&#233;atures de taille G (et au-del&#224;) passent outre la &lt;a class=&quot;pagelink&quot; href=&quot;R&#233;duction-De-D&#233;g&#226;ts-(Capacit&#233;).html&quot; title=&quot;R&#233;duction de d&#233;g&#226;ts (Ext ou Sur)&quot;&gt;RD&lt;/a&gt; 4/armure, mais ne contournent pas la &lt;a class=&quot;pagelink&quot; href=&quot;R&#233;duction-De-D&#233;g&#226;ts-(Capacit&#233;).html&quot; title=&quot;R&#233;duction de d&#233;g&#226;ts (Ext ou Sur)&quot;&gt;RD&lt;/a&gt; 5/contondant.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Bonus d’armure naturelle et RD&lt;/b&gt;. De la m&#234;me mani&#232;re que
+le &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques-Des-Armures.html#BONUSARMUREBOUCLIER&quot; title=&quot;Caract&#233;ristiques des armures&quot;&gt;bonus d’armure&lt;/a&gt;, le &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#BONUSARMURENATURELLE&quot; title=&quot;Valeurs de combat&quot;&gt;bonus d&#39;armure naturelle&lt;/a&gt; se convertit
+en &lt;a class=&quot;pagelink&quot; href=&quot;R&#233;duction-De-D&#233;g&#226;ts-(Capacit&#233;).html&quot; title=&quot;R&#233;duction de d&#233;g&#226;ts (Ext ou Sur)&quot;&gt;R&#233;duction de D&#233;g&#226;ts&lt;/a&gt;. Si une cr&#233;ature porte une armure
+et b&#233;n&#233;ficie d’un &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#BONUSARMURENATURELLE&quot; title=&quot;Valeurs de combat&quot;&gt;bonus d&#39;armure naturelle&lt;/a&gt;, la cr&#233;ature
+additionne son &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques-Des-Armures.html#BONUSARMUREBOUCLIER&quot; title=&quot;Caract&#233;ristiques des armures&quot;&gt;bonus d’armure&lt;/a&gt; et son &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#BONUSARMURENATURELLE&quot; title=&quot;Valeurs de combat&quot;&gt;bonus d&#39;armure naturelle&lt;/a&gt; pour d&#233;terminer la valeur de la &lt;a class=&quot;pagelink&quot; href=&quot;R&#233;duction-De-D&#233;g&#226;ts-(Capacit&#233;).html&quot; title=&quot;R&#233;duction de d&#233;g&#226;ts (Ext ou Sur)&quot;&gt;RD&lt;/a&gt;/armure dont
+elle profite (voir la table &lt;a class=&quot;internallink&quot; href=&quot;#TABCONVERSION&quot; title=&quot;Conversion des armures naturelles en RD&quot;&gt;Conversion des armures naturelles en RD&lt;/a&gt; ci-contre).&lt;br /&gt;&lt;br /&gt;&lt;div style=&quot;float:right; background-color: #fff; padding: 0 0 16px 16px&quot;&gt;
+&lt;div style=&quot;border: 1px solid #4b3124; padding: 4px&quot;&gt;
+&lt;a name=&quot;TABCONVERSION&quot;&gt;&lt;/a&gt;
+&lt;center&gt;
+&lt;table CLASS=&quot;tablo&quot;&gt;&lt;caption&gt;Conversion des armures naturelles en RD&lt;/caption&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td&gt;Armure naturelle/RD&lt;/td&gt;&lt;td&gt;RD obtenue&lt;/td&gt;&lt;td&gt;Taille pour ignorer la RD&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Armure naturelle&lt;/td&gt;&lt;td&gt;RD/magique&lt;/td&gt;&lt;td&gt;G&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;Avec RD/magique&lt;/td&gt;&lt;td&gt;RD/adamantium&lt;/td&gt;&lt;td&gt;TG&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Avec RD/adamantium&lt;/td&gt;&lt;td&gt;RD/—&lt;/td&gt;&lt;td&gt;Gig&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;Avec RD/—&lt;/td&gt;&lt;td&gt;RD/—&lt;sup&gt;(&lt;a class=&quot;internallink&quot; href=&quot;#NOTE2&quot; title=&quot;1&quot;&gt;1&lt;/a&gt;)&lt;/sup&gt;&lt;/td&gt;&lt;td&gt;C&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Avec RD/&#233;pique&lt;/td&gt;&lt;td&gt;RD/&#233;pique&lt;sup&gt;(&lt;a class=&quot;internallink&quot; href=&quot;#NOTE2&quot; title=&quot;1&quot;&gt;1&lt;/a&gt;)&lt;/sup&gt;&lt;/td&gt;&lt;td&gt;n/a&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/center&gt;
+&lt;i&gt;&lt;a name=&quot;NOTE2&quot;&gt;&lt;/a&gt;
+(1) Une cr&#233;ature b&#233;n&#233;ficiant d&#233;j&#224; d’une RD/– ou d’une RD/&#233;pique augmente&lt;br /&gt;
+sa RD d’un montant &#233;gal &#224; son bonus d’armure naturelle.&lt;/i&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;br /&gt;Si, par exemple, une cr&#233;ature portant une &lt;i&gt;chemise de mailles&lt;/i&gt; +2
+a une &lt;a class=&quot;pagelink&quot; href=&quot;R&#233;duction-De-D&#233;g&#226;ts-(Capacit&#233;).html&quot; title=&quot;R&#233;duction de d&#233;g&#226;ts (Ext ou Sur)&quot;&gt;RD&lt;/a&gt; 6/armure et qu’elle re&#231;oit un sort de &lt;a class=&quot;pagelink&quot; href=&quot;Peau-D&#233;corce.html&quot; title=&quot;Peau d&amp;#39;&#233;corce&quot;&gt;peau d’&#233;corce&lt;/a&gt; lanc&#233;
+par un &lt;a class=&quot;pagelink&quot; href=&quot;Druide.html&quot; title=&quot;Le druide&quot;&gt;Druide&lt;/a&gt; de niveau 6 (gagnant ainsi un &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#BONUSARMURENATURELLE&quot; title=&quot;Valeurs de combat&quot;&gt;bonus d&#39;armure naturelle&lt;/a&gt; de +3), sa r&#233;duction de d&#233;g&#226;ts passe &#224; &lt;a class=&quot;pagelink&quot; href=&quot;R&#233;duction-De-D&#233;g&#226;ts-(Capacit&#233;).html&quot; title=&quot;R&#233;duction de d&#233;g&#226;ts (Ext ou Sur)&quot;&gt;RD&lt;/a&gt; 9/armure
+pour la dur&#233;e du sort. Les armes en adamantium et les attaques
+des cr&#233;atures de taille TG et au-del&#224; passent outre cette &lt;a class=&quot;pagelink&quot; href=&quot;R&#233;duction-De-D&#233;g&#226;ts-(Capacit&#233;).html&quot; title=&quot;R&#233;duction de d&#233;g&#226;ts (Ext ou Sur)&quot;&gt;RD&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;Une cr&#233;ature ayant &#224; la fois un &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#BONUSARMURENATURELLE&quot; title=&quot;Valeurs de combat&quot;&gt;bonus d&#39;armure naturelle&lt;/a&gt; et
+une &lt;a class=&quot;pagelink&quot; href=&quot;R&#233;duction-De-D&#233;g&#226;ts-(Capacit&#233;).html&quot; title=&quot;R&#233;duction de d&#233;g&#226;ts (Ext ou Sur)&quot;&gt;RD&lt;/a&gt; issue d’une source autre que l’armure profite des effets
+d’une forme am&#233;lior&#233;e de &lt;a class=&quot;pagelink&quot; href=&quot;R&#233;duction-De-D&#233;g&#226;ts-(Capacit&#233;).html&quot; title=&quot;R&#233;duction de d&#233;g&#226;ts (Ext ou Sur)&quot;&gt;RD&lt;/a&gt;, comparable &#224; la mani&#232;re dont la
+composition d’une armure accorde des privil&#232;ges particuliers
+&#224; la &lt;a class=&quot;pagelink&quot; href=&quot;R&#233;duction-De-D&#233;g&#226;ts-(Capacit&#233;).html&quot; title=&quot;R&#233;duction de d&#233;g&#226;ts (Ext ou Sur)&quot;&gt;RD&lt;/a&gt;/armure et &#224; la d&#233;fense (voir
+la table &lt;a class=&quot;internallink&quot; href=&quot;#TABCOMPOSITION&quot; title=&quot;Composition des armures et RD&quot;&gt;Composition des armures et RD&lt;/a&gt; ci-contre). Si une cr&#233;ature
+b&#233;n&#233;ficie d’une armure magique, d’une armure naturelle et
+d’une &lt;a class=&quot;pagelink&quot; href=&quot;R&#233;duction-De-D&#233;g&#226;ts-(Capacit&#233;).html&quot; title=&quot;R&#233;duction de d&#233;g&#226;ts (Ext ou Sur)&quot;&gt;RD&lt;/a&gt;, elle choisit la meilleure forme de protection sp&#233;ciale
+fournie par son armure et par la combinaison de sa &lt;a class=&quot;pagelink&quot; href=&quot;R&#233;duction-De-D&#233;g&#226;ts-(Capacit&#233;).html&quot; title=&quot;R&#233;duction de d&#233;g&#226;ts (Ext ou Sur)&quot;&gt;RD&lt;/a&gt; et de
+son armure naturelle pour en faire sa &lt;a class=&quot;pagelink&quot; href=&quot;R&#233;duction-De-D&#233;g&#226;ts-(Capacit&#233;).html&quot; title=&quot;R&#233;duction de d&#233;g&#226;ts (Ext ou Sur)&quot;&gt;RD&lt;/a&gt;/armure.
+Par exemple, si la cr&#233;ature a une armure naturelle et une
+&lt;a class=&quot;pagelink&quot; href=&quot;R&#233;duction-De-D&#233;g&#226;ts-(Capacit&#233;).html&quot; title=&quot;R&#233;duction de d&#233;g&#226;ts (Ext ou Sur)&quot;&gt;RD&lt;/a&gt;/magique et qu’elle porte une armure adamantine, la
+&lt;a class=&quot;pagelink&quot; href=&quot;R&#233;duction-De-D&#233;g&#226;ts-(Capacit&#233;).html&quot; title=&quot;R&#233;duction de d&#233;g&#226;ts (Ext ou Sur)&quot;&gt;RD&lt;/a&gt;/armure de la cr&#233;ature fonctionne comme une &lt;a class=&quot;pagelink&quot; href=&quot;R&#233;duction-De-D&#233;g&#226;ts-(Capacit&#233;).html&quot; title=&quot;R&#233;duction de d&#233;g&#226;ts (Ext ou Sur)&quot;&gt;RD&lt;/a&gt;/–, et
+ne peut &#234;tre contourn&#233;e que par les cr&#233;atures de taille Gig
+et au-del&#224;. On applique la protection sp&#233;ciale octroy&#233;e par
+l’armure adamantine, parce qu’elle offre la meilleure des
+deux &lt;a class=&quot;pagelink&quot; href=&quot;R&#233;duction-De-D&#233;g&#226;ts-(Capacit&#233;).html&quot; title=&quot;R&#233;duction de d&#233;g&#226;ts (Ext ou Sur)&quot;&gt;r&#233;ductions de d&#233;g&#226;ts&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;&lt;div style=&quot;float:right; background-color: #fff; padding: 0 0 16px 16px&quot;&gt;
+&lt;div style=&quot;border: 1px solid #4b3124; padding: 4px&quot;&gt;
+&lt;a name=&quot;TABINHABITUELLES&quot;&gt;&lt;/a&gt;
+&lt;center&gt;
+&lt;table CLASS=&quot;tablo&quot;&gt;&lt;caption&gt;Cr&#233;atures inhabituelles et RD/armure&lt;/caption&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td&gt;Type de la cr&#233;ature attaquant&lt;/td&gt;&lt;td&gt;Modificateur &#224; la RD&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Informe&lt;sup&gt;(&lt;a class=&quot;internallink&quot; href=&quot;#NOTE3&quot; title=&quot;1&quot;&gt;1&lt;/a&gt;)&lt;/sup&gt;&lt;/td&gt;&lt;td&gt;&#215;1/2&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Intangible-(Capacit&#233;).html&quot; title=&quot;Intangible (Ext)&quot;&gt;Intangible&lt;/a&gt;&lt;/td&gt;&lt;td&gt;&#215;0 (&#215;1 si la RD est d&#251;e &#224; un effet&lt;br /&gt; de force ou &#224; une armure spectrale)&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Nu&#233;e de cr&#233;atures TP&lt;/td&gt;&lt;td&gt;&#215;1/2&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;Nu&#233;e de cr&#233;atures Min&lt;/td&gt;&lt;td&gt;&#215;1/4&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Nu&#233;e de cr&#233;atures I&lt;/td&gt;&lt;td&gt;&#215;0&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/center&gt;
+&lt;i&gt;&lt;a name=&quot;NOTE3&quot;&gt;&lt;/a&gt;
+(1) &#201;l&#233;mentaux, vases, cr&#233;atures de type vase et toutes celles qui poss&#232;dent&lt;br /&gt;
+le trait d&#233;fensif informe (voir &lt;a class=&quot;pagelink&quot; href=&quot;Amorphe-(Capacit&#233;).html&quot; title=&quot;Amorphe (Ext)&quot;&gt;Amorphe&lt;/a&gt;).&lt;/i&gt;
+&lt;/div&gt;&lt;/div&gt;
+&lt;b&gt;Cr&#233;atures inhabituelles et &lt;a class=&quot;pagelink&quot; href=&quot;R&#233;duction-De-D&#233;g&#226;ts-(Capacit&#233;).html&quot; title=&quot;R&#233;duction de d&#233;g&#226;ts (Ext ou Sur)&quot;&gt;RD&lt;/a&gt;/armure&lt;/b&gt;. Les cr&#233;atures
+informes (&lt;a class=&quot;pagelink&quot; href=&quot;Amorphe-(Capacit&#233;).html&quot; title=&quot;Amorphe (Ext)&quot;&gt;amorphes&lt;/a&gt;) et les cr&#233;atures &lt;a class=&quot;pagelink&quot; href=&quot;Intangible-(Capacit&#233;).html&quot; title=&quot;Intangible (Ext)&quot;&gt;intangibles&lt;/a&gt; ont des
+facilit&#233;s pour passer outre la &lt;a class=&quot;pagelink&quot; href=&quot;R&#233;duction-De-D&#233;g&#226;ts-(Capacit&#233;).html&quot; title=&quot;R&#233;duction de d&#233;g&#226;ts (Ext ou Sur)&quot;&gt;RD&lt;/a&gt;/armure. Quand une cr&#233;ature
+informe attaque une cr&#233;ature poss&#233;dant une &lt;a class=&quot;pagelink&quot; href=&quot;R&#233;duction-De-D&#233;g&#226;ts-(Capacit&#233;).html&quot; title=&quot;R&#233;duction de d&#233;g&#226;ts (Ext ou Sur)&quot;&gt;RD&lt;/a&gt;/armure, le
+montant de sa &lt;a class=&quot;pagelink&quot; href=&quot;R&#233;duction-De-D&#233;g&#226;ts-(Capacit&#233;).html&quot; title=&quot;R&#233;duction de d&#233;g&#226;ts (Ext ou Sur)&quot;&gt;RD&lt;/a&gt; est g&#233;n&#233;ralement divis&#233;. Parall&#232;lement,
+les attaques des cr&#233;atures &lt;a class=&quot;pagelink&quot; href=&quot;Intangible-(Capacit&#233;).html&quot; title=&quot;Intangible (Ext)&quot;&gt;intangibles&lt;/a&gt; ignorent enti&#232;rement
+la &lt;a class=&quot;pagelink&quot; href=&quot;R&#233;duction-De-D&#233;g&#226;ts-(Capacit&#233;).html&quot; title=&quot;R&#233;duction de d&#233;g&#226;ts (Ext ou Sur)&quot;&gt;RD&lt;/a&gt;, sauf dans le cas o&#249; la &lt;a class=&quot;pagelink&quot; href=&quot;R&#233;duction-De-D&#233;g&#226;ts-(Capacit&#233;).html&quot; title=&quot;R&#233;duction de d&#233;g&#226;ts (Ext ou Sur)&quot;&gt;RD&lt;/a&gt; vient d’un effet de force ou
+d’une armure poss&#233;dant la propri&#233;t&#233; spectrale. Ces traits sont
+d&#233;taill&#233;s dans la table &#171;&amp;nbsp;&lt;a class=&quot;internallink&quot; href=&quot;#TABINHABITUELLES&quot; title=&quot;Cr&#233;atures inhabituelles et RD/armure&quot;&gt;Cr&#233;atures inhabituelles et RD/armure&lt;/a&gt;&amp;nbsp;&#187; ci-contre.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;
+&lt;h2 class=&quot;separator&quot;&gt;Coups critiques et d&#233;fense&lt;a class=&quot;headeranchor&quot; id=&quot;Coups_critiques_et_d&#233;fense_2&quot; href=&quot;#Coups_critiques_et_d&#233;fense_2&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;Dans ce syst&#232;me alternatif, quand une cr&#233;ature obtient
+une possibilit&#233; de &lt;a class=&quot;pagelink&quot; href=&quot;Actions-Simples.html#COUPCRITIQUE&quot; title=&quot;Actions simples&quot;&gt;coup critique&lt;/a&gt;, elle ne fait pas un jet de
+confirmation de critique pour confirmer son r&#233;sultat. En
+revanche, la cible du coup tente un jet de d&#233;fense critique. Le jet
+de d&#233;fense critique se fait avec 1d20 + un bonus &#233;gal &#224; la &lt;a class=&quot;pagelink&quot; href=&quot;R&#233;duction-De-D&#233;g&#226;ts-(Capacit&#233;).html&quot; title=&quot;R&#233;duction de d&#233;g&#226;ts (Ext ou Sur)&quot;&gt;RD&lt;/a&gt; de la
+cr&#233;ature + le modificateur de &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#DEXTERITE&quot; title=&quot;La Dext&#233;rit&#233;&quot;&gt;Dext&#233;rit&#233;&lt;/a&gt; de la cr&#233;ature (jusqu’au
+&lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques-Des-Armures.html#BONUSDEXMAX&quot; title=&quot;Caract&#233;ristiques des armures&quot;&gt;bonus de Dext&#233;rit&#233; maximal&lt;/a&gt; autoris&#233; par l’armure qu’elle porte)
++ la somme des bonus de parade et de bouclier &#224; la D&#233;fense.
+&lt;div class=&quot;presentation arrondi recentre ombre&quot;&gt;&lt;center&gt;
+&lt;b&gt;Bonus au jet de d&#233;fense critique&lt;/b&gt;&lt;br /&gt;=&lt;br /&gt;
+RD de la cr&#233;ature + modificateur de &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#DEXTERITE&quot; title=&quot;La Dext&#233;rit&#233;&quot;&gt;Dext&#233;rit&#233;&lt;/a&gt; + bonus de bouclier &#224; la D&#233;fense + bonus de parade
+&lt;/center&gt;&lt;/div&gt;
+Le DD du test est bas&#233; sur le r&#233;sultat du d&#233; lors de
+l’obtention du &lt;a class=&quot;pagelink&quot; href=&quot;Actions-Simples.html#COUPCRITIQUE&quot; title=&quot;Actions simples&quot;&gt;critique&lt;/a&gt; potentiel. Celui-ci est modifi&#233; par le
+bonus de base &#224; l’attaque de la cr&#233;ature &#224; l’origine de l’assaut,
+par le nombre de &lt;a class=&quot;pagelink&quot; href=&quot;Dons.html#Dons_de_critique_1&quot; title=&quot;Les dons&quot;&gt;dons de critique&lt;/a&gt; dont elle dispose (si elle en
+a et dans une limite de 10 au maximum), et par un bonus en
+fonction de la diff&#233;rence de taille entre la cr&#233;ature attaquant
+et la cible du coup critique, dans le cas o&#249; la cr&#233;ature
+attaquant est plus grande que la cr&#233;ature attaqu&#233;e.
+&lt;div class=&quot;presentation arrondi recentre ombre&quot;&gt;&lt;center&gt;
+&lt;b&gt;DD du jet de d&#233;fense critique&lt;/b&gt;&lt;br /&gt;=&lt;br /&gt;
+r&#233;sultat du jet de critique +
+1/2 du &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#BONUSDEBASEALATTAQUE&quot; title=&quot;Vocabulaire courant&quot;&gt;BBA&lt;/a&gt; de l’attaquant + 1 pour chaque &lt;a class=&quot;pagelink&quot; href=&quot;Dons.html#Dons_de_critique_1&quot; title=&quot;Les dons&quot;&gt;don de critique&lt;/a&gt;&lt;br /&gt;
++ 1 pour chaque cat&#233;gorie de taille que l’attaquant a de plus
+que sa cible
+&lt;/center&gt;&lt;/div&gt;
+Par exemple, si une cr&#233;ature de taille M est frapp&#233;e par un trait
+d’arbal&#232;te tir&#233; par un &lt;a class=&quot;pagelink&quot; href=&quot;Guerrier.html&quot; title=&quot;Le guerrier&quot;&gt;guerrier&lt;/a&gt; de niveau 6 de taille M poss&#233;dant
+deux &lt;a class=&quot;pagelink&quot; href=&quot;Dons.html#Dons_de_critique_1&quot; title=&quot;Les dons&quot;&gt;dons de critique&lt;/a&gt;, et que son jet d’attaque critique a donn&#233;
+un 19, la cible du &lt;a class=&quot;pagelink&quot; href=&quot;Actions-Simples.html#COUPCRITIQUE&quot; title=&quot;Actions simples&quot;&gt;critique&lt;/a&gt; potentiel doit faire un jet de d&#233;fense
+critique face &#224; un DD de 24 pour ramener le &lt;a class=&quot;pagelink&quot; href=&quot;Actions-Simples.html#COUPCRITIQUE&quot; title=&quot;Actions simples&quot;&gt;coup critique&lt;/a&gt; &#224;
+un coup normal. Si la cible porte une &lt;i&gt;armure de cuir +1&lt;/i&gt;, a une
+&lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#DEXTERITE&quot; title=&quot;La Dext&#233;rit&#233;&quot;&gt;Dext&#233;rit&#233;&lt;/a&gt; de 18, et utilise une &lt;i&gt;targe +1&lt;/i&gt;, cette cible aura un bonus
+de +9 &#224; son jet de d&#233;fense critique pour r&#233;duire le &lt;a class=&quot;pagelink&quot; href=&quot;Actions-Simples.html#COUPCRITIQUE&quot; title=&quot;Actions simples&quot;&gt;coup critique&lt;/a&gt;
+&#224; une attaque normale. Avec un r&#233;sultat de 15 ou plus, le &lt;a class=&quot;pagelink&quot; href=&quot;Actions-Simples.html#COUPCRITIQUE&quot; title=&quot;Actions simples&quot;&gt;coup critique&lt;/a&gt;
+est r&#233;duit &#224; une frappe normale, et la cible re&#231;oit des
+d&#233;g&#226;ts normaux pour ce coup (lesquels sont r&#233;duits par la &lt;a class=&quot;pagelink&quot; href=&quot;R&#233;duction-De-D&#233;g&#226;ts-(Capacit&#233;).html&quot; title=&quot;R&#233;duction de d&#233;g&#226;ts (Ext ou Sur)&quot;&gt;RD&lt;/a&gt;).
+Si la cr&#233;ature ayant tir&#233; avec l’arbal&#232;te avait obtenu un 20 sur son
+jet, la cible du &lt;a class=&quot;pagelink&quot; href=&quot;Actions-Simples.html#COUPCRITIQUE&quot; title=&quot;Actions simples&quot;&gt;coup critique&lt;/a&gt; aurait eu besoin d’un r&#233;sultat de 16
+ou plus sur son jet de d&#233;fense critique pour r&#233;duire l’impact du
+&lt;a class=&quot;pagelink&quot; href=&quot;Actions-Simples.html#COUPCRITIQUE&quot; title=&quot;Actions simples&quot;&gt;coup critique&lt;/a&gt; et transformer celui-ci en coup normal.&lt;br /&gt;&lt;br /&gt;En cas d’&#233;chec au jet de d&#233;fense critique, la cible du &lt;a class=&quot;pagelink&quot; href=&quot;Actions-Simples.html#COUPCRITIQUE&quot; title=&quot;Actions simples&quot;&gt;coup critique&lt;/a&gt;
+re&#231;oit les d&#233;g&#226;ts du &lt;a class=&quot;pagelink&quot; href=&quot;Actions-Simples.html#COUPCRITIQUE&quot; title=&quot;Actions simples&quot;&gt;coup critique&lt;/a&gt;. Ces d&#233;g&#226;ts sont
+cependant toujours r&#233;duits par la &lt;a class=&quot;pagelink&quot; href=&quot;R&#233;duction-De-D&#233;g&#226;ts-(Capacit&#233;).html&quot; title=&quot;R&#233;duction de d&#233;g&#226;ts (Ext ou Sur)&quot;&gt;RD&lt;/a&gt; de la cible du &lt;a class=&quot;pagelink&quot; href=&quot;Actions-Simples.html#COUPCRITIQUE&quot; title=&quot;Actions simples&quot;&gt;coup critique&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Propri&#233;t&#233; sp&#233;ciale des armures de d&#233;fense&lt;/b&gt;. Lorsqu’une
+armure b&#233;n&#233;ficie de la propri&#233;t&#233; sp&#233;ciale de &lt;a class=&quot;pagelink&quot; href=&quot;Armures-Magiques.html#D&#233;fense&quot; title=&quot;Les armures et boucliers magiques&quot;&gt;d&#233;fense&lt;/a&gt;, cette
+propri&#233;t&#233; agit de concert avec le jet de d&#233;fense critique et
+entre en jeu en cas d’&#233;chec au jet de d&#233;fense critique.
+]]></body>
+  <raw><![CDATA[<div style="float: right; margin-left: 10px; margin-right: -40px; max-width: 300px;" class="presentation recentre">{toc}</div>{s:UC}<div style="float: left; margin-right: 20px; margin-bottom: 10px;" class="presentation recentre">
+<h2 class="separator"><div style="float: right; margin-top: -4px;">{s:uc}</div>Règles alternatives</h2>
+<ul><li>[[Régles alternatives|Introduction]]</li>
+<li>[[Larmure comme RD|L'armure comme réduction de dégâts]]</li><li>[[Frappes ciblées]]</li><li>[[Pièces darmures|Pièces d'armure]] ([[Description des pièces darmure|descriptions]])</li><li>[[Blessures et vitalité]]</li></ul></div>Si le système d’armure et de [[CA|Classe d’Armure]] de Pathfinder
+JdR a été éprouvé et testé, certains joueurs pourront tout de
+même le trouver légèrement décalé. Si une armure protège
+son porteur des attaques qui le frappent mais échouent à le
+blesser, pourquoi dit-on que l’armure réduit les chances d’être
+touché ? Cette abstraction a été clarifiée dans les règles en
+statuant que l’expression «&nbsp;être touché en combat&nbsp;» signifie
+plus précisément «&nbsp;être touché de telle manière que cela
+provoque des blessures (et donc une perte de points de vie)&nbsp;».
+Mais cette explication ne suffit toujours pas à certains joueurs.
+
+Les règles qui suivent forment un système alternatif qui
+permet aux armures d’absorber les dégâts issus des attaques,
+au lieu de fournir une méthode abstraite pour déterminer
+si une frappe cause réellement des dommages. Comme
+les autres règles présentées dans ce chapitre, il s’agit d’une
+variante du système de base de Pathfinder JdR. Celle-ci est
+destinée aux MJ qui souhaitent que les armures réduisent les
+dégâts au lieu d’augmenter la [[CA|Classe d’Armure]]. Dans ce cas,
+elle remplace les règles d’armure habituelles.
+
+Avec ce système, les créatures n’ont plus de [[CA|Classe d’Armure]].
+Elles ont un score de Défense que les jets d’attaque ennemis
+doivent atteindre ou dépasser pour toucher la créature.
+Ensuite, les dégâts sont diminués en fonction de la réduction
+de dégâts dont bénéficie la créature grâce à son bonus
+d’armure naturelle et à l’armure qu’elle porte. Par ailleurs,
+l’armure a une chance de réduire les coups critiques à de
+simples coups normaux, en remplaçant le jet de confirmation
+du [[Actions simples#COUPCRITIQUE|coup critique]] par un test de défense critique que doit
+réaliser la créature menacée par l’attaque critique.
+
+===Défense===
+Dans ce système alternatif, les créatures n’ont pas de [[CA|Classe d’Armure]]; elles ont un score de Défense. Le fonctionnement
+de la Défense est similaire à celui de la [[CA|CA]] dans les règles
+standard de Pathfinder JdR, mais elle intègre aussi le [[Caractéristiques des armures#BONUSARMUREBOUCLIER|bonus de bouclier]]
+(ce qui inclut tous les [[Valeurs de combat#BONUSALTERATION|bonus d'altération]] du bouclier),
+et tous les [[Valeurs de combat#BONUSALTERATION|bonus d'altération]] de l’armure.
+<div class="presentation arrondi recentre ombre"><center>
+'''Défense'''{br}={br}10 + [[Caractéristiques des armures#BONUSARMUREBOUCLIER|bonus de bouclier]] + modificateur de [[Dextérité]] + autre(s) modificateur(s) {br} (ce qui inclut les [[Valeurs de combat#BONUSALTERATION|bonus d'altération]] d'armure, mais pas les [[Caractéristiques des armures#BONUSARMUREBOUCLIER|bonus d'armure]] ou les [[Valeurs de combat#BONUSARMURENATURELLE|bonus d'armure naturelle]])
+</center></div>
+
+La Défense représente combien il est facile ou difficile de
+toucher une créature. Le [[Caractéristiques des armures#BONUSARMUREBOUCLIER|bonus de bouclier]] est ajouté parce que
+la créature est supposée être active dans sa défense et occupée à
+parer les attaques avec son bouclier chaque fois qu’elle le peut,
+c’est-à-dire dans chaque situation où elle n’est pas prise au
+dépourvu et où elle gagnerait normalement son bonus à la [[CA]].
+
+'''Perdre le bonus de Dextérité à la Défense'''. Les situations et
+effets qui pourraient faire perdre au personnage son bonus
+de [[Dextérité]] à la [[CA]] causent à la place la perte du bonus de
+[[Dextérité]] à la Défense. De plus, chaque fois que le personnage
+perd son bonus de [[Dextérité]] à la Défense, il perd aussi son [[Caractéristiques des armures#BONUSARMUREBOUCLIER|bonus de bouclier]] à la Défense, puisque lorsque le personnage perd
+son bonus de [[Dextérité]] à la [[CA]], il perd également sa capacité à
+réagir de manière adéquate avec le bouclier face aux attaques.
+
+'''Pris au dépourvu'''. Le personnage ne bénéficie pas de ses bonus
+à la Défense de [[Dextérité]] et de [[Caractéristiques des armures#BONUSARMUREBOUCLIER|bouclier]] s’il est pris au dépourvu
+ou perd son bonus de [[Dextérité]] à la Défense ; par conséquent, le
+score de Défense d’un personnage pris au dépourvu est égal à sa
+Défense moins ses bonus de [[Dextérité]] et de [[Caractéristiques des armures#BONUSARMUREBOUCLIER|bouclier]].
+
+'''Défense et usage du bouclier sans formation'''. Quand une
+créature utilise un bouclier sans la formation adéquate, le
+[[Caractéristiques des armures#MALUSARMURE|malus d’armure aux tests]] du bouclier doit être appliqué
+comme pénalité au bonus de Défense apporté par le
+[[Caractéristiques des armures#BONUSARMUREBOUCLIER|bouclier]], en plus des [[Caractéristiques des armures#MALUSARMURE|autres pénalités]] liées à l’utilisation
+d’un bouclier sans la formation adéquate. De surcroît, cette
+pénalité s’applique aussi à la Défense quand la créature est
+[[États préjudiciables#Prisaudépourvu|prise au dépourvu]], le bouclier représentant plus une gêne
+qu’une défense efficace face aux attaques ennemies.
+
+
+===L'armure comme [[Réduction de dégâts (capacité)|RD]]===
+Dans ce système, les armures conservent toutes leurs
+statistiques et qualités habituelles, mais leur [[Caractéristiques des armures#BONUSARMUREBOUCLIER|bonus d’armure]]
+(qui inclut tous les [[Valeurs de combat#BONUSALTERATION|bonus d’altération]] ajoutés au [[Caractéristiques des armures#BONUSARMUREBOUCLIER|bonus d’armure]]
+et au [[Valeurs de combat#BONUSARMURENATURELLE|bonus d'armure naturelle]]) est converti en [[Réduction de dégâts (capacité)|RD]]/armure. Si
+la créature portant l’armure possède la formation adéquate, la
+[[Réduction de dégâts (capacité)|RD]] qu’une armure octroie est égale au [[Caractéristiques des armures#BONUSARMUREBOUCLIER|bonus d’armure]] total
+avec un bonus de +1 au niveau 5 ou au cinquième dé de vie, et
+une augmentation de ce bonus de +1 tous les cinq niveaux au-delà
+du niveau 5, ou tous les 5 dés de vie après les cinq premiers
+(jusqu’à un bonus maximum de +4 à la [[Réduction de dégâts (capacité)|RD]] au niveau 20 ou
+lorsque la créature possède 20 dés de vie ou plus).
+
+'''Port de l’armure sans formation'''. Les créatures portant une
+armure sans la formation adéquate ne bénéficient pas du bonus
+appliqué en fonction du niveau (ou des dés de vie) à la [[Réduction de dégâts (capacité)|RD]], ce
+qui s’ajoute aux [[Caractéristiques des armures#MALUSARMURE|autres pénalités]] normalement appliquées
+lorsqu’une créature porte une armure sans formation.
+
+<div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
+<div style="border: 1px solid #4b3124; padding: 4px">
+{s:Reference|TABCOMPOSITION}
+<center>
+{| CLASS="tablo"
+|+ Composition des armures et RD
+|- CLASS="titre"
+| Matériel || RD obtenue || Taille pour ignorer la RD
+|-
+| Armure non magique<sup>([[#NOTE1|1]])</sup> || RD/magique || G
+|- CLASS="alt"
+| Armure magique<sup>([[#NOTE1|1]])</sup> || RD/adamantium || TG
+|-
+| Armure adamantine<sup>([[#NOTE1|1]])</sup> || RD/— || Gig
+|}
+</center>
+''{s:Reference|NOTE1}
+(1) Les armes de lumière outrepassent toutes les RD procurées par les{br}
+armures. De surcroît, la RD des armures est divisée par deux quand la{br}
+créature est agrippée ou enchevêtrée, et ne s’applique pas quand une{br}
+créature est sans défense ou immobilisée.''
+</div></div>
+'''RD/Armure'''. Ce type de [[Réduction de dégâts (capacité)|RD]] bloque les dommages de
+toutes les attaques qui seraient normalement affectées
+par la [[Réduction de dégâts (capacité)|RD]], en fonction de la composition de l’armure (voir
+la table [[#TABCOMPOSITION|Composition des armures et RD]] ci-contre). Contrairement à la plupart des autres formes
+de réduction des dégâts, la [[Réduction de dégâts (capacité)|RD]]/armure peut se cumuler
+avec les autres types de [[Réduction de dégâts (capacité)|RD]]. Par exemple, lors d’un combat
+avec un squelette qui bénéficie de [[Réduction de dégâts (capacité)|RD]] 5/contondant et de
+[[Réduction de dégâts (capacité)|RD]] 4/armure (+2 d’armure, +2 d’armure naturelle), la [[Réduction de dégâts (capacité)|RD]]/armure du squelette réduit de 9 points les dégâts issus
+d’attaques non contondantes, et de 4 points les dégâts des
+armes contondantes. Les armes magiques et les attaques
+des créatures de taille G (et au-delà) passent outre la [[Réduction de dégâts (capacité)|RD]] 4/armure, mais ne contournent pas la [[Réduction de dégâts (capacité)|RD]] 5/contondant.
+
+'''Bonus d’armure naturelle et RD'''. De la même manière que
+le [[Caractéristiques des armures#BONUSARMUREBOUCLIER|bonus d’armure]], le [[Valeurs de combat#BONUSARMURENATURELLE|bonus d'armure naturelle]] se convertit
+en [[Réduction de dégâts (capacité)|Réduction de Dégâts]]. Si une créature porte une armure
+et bénéficie d’un [[Valeurs de combat#BONUSARMURENATURELLE|bonus d'armure naturelle]], la créature
+additionne son [[Caractéristiques des armures#BONUSARMUREBOUCLIER|bonus d’armure]] et son [[Valeurs de combat#BONUSARMURENATURELLE|bonus d'armure naturelle]] pour déterminer la valeur de la [[Réduction de dégâts (capacité)|RD]]/armure dont
+elle profite (voir la table [[#TABCONVERSION|Conversion des armures naturelles en RD]] ci-contre).
+
+<div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
+<div style="border: 1px solid #4b3124; padding: 4px">
+{s:Reference|TABCONVERSION}
+<center>
+{| CLASS="tablo"
+|+ Conversion des armures naturelles en RD
+|- CLASS="titre"
+| Armure naturelle/RD || RD obtenue || Taille pour ignorer la RD
+|-
+| Armure naturelle || RD/magique || G
+|- CLASS="alt"
+| Avec RD/magique || RD/adamantium || TG
+|-
+| Avec RD/adamantium || RD/— || Gig
+|- CLASS="alt"
+| Avec RD/— || RD/—<sup>([[#NOTE2|1]])</sup> || C
+|-
+| Avec RD/épique || RD/épique<sup>([[#NOTE2|1]])</sup> || n/a
+|}
+</center>
+''{s:Reference|NOTE2}
+(1) Une créature bénéficiant déjà d’une RD/– ou d’une RD/épique augmente{br}
+sa RD d’un montant égal à son bonus d’armure naturelle.''
+</div></div>
+
+Si, par exemple, une créature portant une ''chemise de mailles'' +2
+a une [[Réduction de dégâts (capacité)|RD]] 6/armure et qu’elle reçoit un sort de [[Peau décorce|peau d’écorce]] lancé
+par un [[Druide]] de niveau 6 (gagnant ainsi un [[Valeurs de combat#BONUSARMURENATURELLE|bonus d'armure naturelle]] de +3), sa réduction de dégâts passe à [[Réduction de dégâts (capacité)|RD]] 9/armure
+pour la durée du sort. Les armes en adamantium et les attaques
+des créatures de taille TG et au-delà passent outre cette [[Réduction de dégâts (capacité)|RD]].
+
+Une créature ayant à la fois un [[Valeurs de combat#BONUSARMURENATURELLE|bonus d'armure naturelle]] et
+une [[Réduction de dégâts (capacité)|RD]] issue d’une source autre que l’armure profite des effets
+d’une forme améliorée de [[Réduction de dégâts (capacité)|RD]], comparable à la manière dont la
+composition d’une armure accorde des privilèges particuliers
+à la [[Réduction de dégâts (capacité)|RD]]/armure et à la défense (voir
+la table [[#TABCOMPOSITION|Composition des armures et RD]] ci-contre). Si une créature
+bénéficie d’une armure magique, d’une armure naturelle et
+d’une [[Réduction de dégâts (capacité)|RD]], elle choisit la meilleure forme de protection spéciale
+fournie par son armure et par la combinaison de sa [[Réduction de dégâts (capacité)|RD]] et de
+son armure naturelle pour en faire sa [[Réduction de dégâts (capacité)|RD]]/armure.
+Par exemple, si la créature a une armure naturelle et une
+[[Réduction de dégâts (capacité)|RD]]/magique et qu’elle porte une armure adamantine, la
+[[Réduction de dégâts (capacité)|RD]]/armure de la créature fonctionne comme une [[Réduction de dégâts (capacité)|RD]]/–, et
+ne peut être contournée que par les créatures de taille Gig
+et au-delà. On applique la protection spéciale octroyée par
+l’armure adamantine, parce qu’elle offre la meilleure des
+deux [[Réduction de dégâts (capacité)|réductions de dégâts]].
+
+<div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
+<div style="border: 1px solid #4b3124; padding: 4px">
+{s:Reference|TABINHABITUELLES}
+<center>
+{| CLASS="tablo"
+|+ Créatures inhabituelles et RD/armure
+|- CLASS="titre"
+| Type de la créature attaquant || Modificateur à la RD
+|-
+| Informe<sup>([[#NOTE3|1]])</sup> || ×1/2
+|- CLASS="alt"
+| [[Intangible (capacité)|Intangible]] || ×0 (×1 si la RD est dûe à un effet{br} de force ou à une armure spectrale)
+|- 
+| Nuée de créatures TP || ×1/2
+|- CLASS="alt"
+| Nuée de créatures Min || ×1/4
+|-
+| Nuée de créatures I || ×0
+|}
+</center>
+''{s:Reference|NOTE3}
+(1) Élémentaux, vases, créatures de type vase et toutes celles qui possèdent{br}
+le trait défensif informe (voir [[Amorphe (capacité)|Amorphe]]).''
+</div></div>
+'''Créatures inhabituelles et [[Réduction de dégâts (capacité)|RD]]/armure'''. Les créatures
+informes ([[Amorphe (capacité)|amorphes]]) et les créatures [[Intangible (capacité)|intangibles]] ont des
+facilités pour passer outre la [[Réduction de dégâts (capacité)|RD]]/armure. Quand une créature
+informe attaque une créature possédant une [[Réduction de dégâts (capacité)|RD]]/armure, le
+montant de sa [[Réduction de dégâts (capacité)|RD]] est généralement divisé. Parallèlement,
+les attaques des créatures [[Intangible (capacité)|intangibles]] ignorent entièrement
+la [[Réduction de dégâts (capacité)|RD]], sauf dans le cas où la [[Réduction de dégâts (capacité)|RD]] vient d’un effet de force ou
+d’une armure possédant la propriété spectrale. Ces traits sont
+détaillés dans la table «&nbsp;[[#TABINHABITUELLES|Créatures inhabituelles et RD/armure]]&nbsp;» ci-contre.
+
+
+
+
+===Coups critiques et défense===
+Dans ce système alternatif, quand une créature obtient
+une possibilité de [[Actions simples#COUPCRITIQUE|coup critique]], elle ne fait pas un jet de
+confirmation de critique pour confirmer son résultat. En
+revanche, la cible du coup tente un jet de défense critique. Le jet
+de défense critique se fait avec 1d20 + un bonus égal à la [[Réduction de dégâts (capacité)|RD]] de la
+créature + le modificateur de [[Dextérité]] de la créature (jusqu’au
+[[Caractéristiques des armures#BONUSDEXMAX|bonus de Dextérité maximal]] autorisé par l’armure qu’elle porte)
++ la somme des bonus de parade et de bouclier à la Défense.
+<div class="presentation arrondi recentre ombre"><center>
+'''Bonus au jet de défense critique'''{br}={br}
+RD de la créature + modificateur de [[Dextérité]] + bonus de bouclier à la Défense + bonus de parade
+</center></div>
+Le DD du test est basé sur le résultat du dé lors de
+l’obtention du [[Actions simples#COUPCRITIQUE|critique]] potentiel. Celui-ci est modifié par le
+bonus de base à l’attaque de la créature à l’origine de l’assaut,
+par le nombre de [[Dons#Dons_de_critique_1|dons de critique]] dont elle dispose (si elle en
+a et dans une limite de 10 au maximum), et par un bonus en
+fonction de la différence de taille entre la créature attaquant
+et la cible du coup critique, dans le cas où la créature
+attaquant est plus grande que la créature attaquée.
+<div class="presentation arrondi recentre ombre"><center>
+'''DD du jet de défense critique'''{br}={br}
+résultat du jet de critique +
+1/2 du [[Vocabulaire courant#BONUSDEBASEALATTAQUE|BBA]] de l’attaquant + 1 pour chaque [[Dons#Dons_de_critique_1|don de critique]]{br}
++ 1 pour chaque catégorie de taille que l’attaquant a de plus
+que sa cible
+</center></div>
+Par exemple, si une créature de taille M est frappée par un trait
+d’arbalète tiré par un [[guerrier]] de niveau 6 de taille M possédant
+deux [[Dons#Dons_de_critique_1|dons de critique]], et que son jet d’attaque critique a donné
+un 19, la cible du [[Actions simples#COUPCRITIQUE|critique]] potentiel doit faire un jet de défense
+critique face à un DD de 24 pour ramener le [[Actions simples#COUPCRITIQUE|coup critique]] à
+un coup normal. Si la cible porte une ''armure de cuir +1'', a une
+[[Dextérité]] de 18, et utilise une ''targe +1'', cette cible aura un bonus
+de +9 à son jet de défense critique pour réduire le [[Actions simples#COUPCRITIQUE|coup critique]]
+à une attaque normale. Avec un résultat de 15 ou plus, le [[Actions simples#COUPCRITIQUE|coup critique]]
+est réduit à une frappe normale, et la cible reçoit des
+dégâts normaux pour ce coup (lesquels sont réduits par la [[Réduction de dégâts (capacité)|RD]]).
+Si la créature ayant tiré avec l’arbalète avait obtenu un 20 sur son
+jet, la cible du [[Actions simples#COUPCRITIQUE|coup critique]] aurait eu besoin d’un résultat de 16
+ou plus sur son jet de défense critique pour réduire l’impact du
+[[Actions simples#COUPCRITIQUE|coup critique]] et transformer celui-ci en coup normal.
+
+En cas d’échec au jet de défense critique, la cible du [[Actions simples#COUPCRITIQUE|coup critique]]
+reçoit les dégâts du [[Actions simples#COUPCRITIQUE|coup critique]]. Ces dégâts sont
+cependant toujours réduits par la [[Réduction de dégâts (capacité)|RD]] de la cible du [[Actions simples#COUPCRITIQUE|coup critique]].
+
+'''Propriété spéciale des armures de défense'''. Lorsqu’une
+armure bénéficie de la propriété spéciale de [[Armures magiques#Défense|défense]], cette
+propriété agit de concert avec le jet de défense critique et
+entre en jeu en cas d’échec au jet de défense critique.
+]]></raw>
+  <fullName>Pathfinder-RPG.Larmure comme RD</fullName>
+</wikiPage>

@@ -1,0 +1,143 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Nuée de guêpes</title>
+  <categories><category>Pathfinder-RPG.Bestiaire</category><category>Pathfinder-RPG.Monstre</category><category>Pathfinder-RPG.Règles officielles</category></categories>
+  <lastModified>2013-02-07 19:07:15Z</lastModified>
+  <version>6</version>
+  <inLinks><link>Pathfinder-RPG.Fléau dinsectes</link><link>Pathfinder-RPG.Glossaire des monstres</link><link>Pathfinder-RPG.Liste de monstres par FP</link><link>Pathfinder-RPG.Liste de monstres par milieu naturel</link><link>Pathfinder-RPG.Liste de monstres par type</link><link>Pathfinder-RPG.Manteau de guêpes</link><link>Pathfinder-RPG.Monstres</link><link>Pathfinder-RPG.Peau de nuée</link><link>Pathfinder-RPG.Reine thriae</link><link>Pathfinder-RPG.Vomir une nuée</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.type Vermine</link><link>Pathfinder-RPG.sous-type nuée</link><link>Pathfinder-RPG.vision dans le noir</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.traits des nuées</link><link>Pathfinder-RPG.Distraction</link><link>Pathfinder-RPG.Vol</link><link>Pathfinder-RPG.traits des vermines</link><link>Pathfinder-RPG.Vigueur</link><link>Pathfinder-RPG.DD</link><link>Pathfinder-RPG.affaiblissement temporaire</link><link>Pathfinder-RPG.Dextérité</link><link>Pathfinder-RPG.Constitution</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Nu&#233;e de gu&#234;pes&lt;div style=&quot;float:right;&quot;&gt;FP 3&lt;/div&gt;&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Bestiaire p.179&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 800
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Vermine.html&quot; title=&quot;Vermine&quot;&gt;Vermine&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Nu&#233;e.html&quot; title=&quot;Nu&#233;e (sous-type)&quot;&gt;nu&#233;e&lt;/a&gt;) de taille Min, N
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +1 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Capacit&#233;s-Sp&#233;ciales.html#VISIONDANSLENOIR&quot; title=&quot;vision dans le noir&quot;&gt;vision dans le noir&lt;/a&gt; 18 m (12 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +9
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 15, contact 15, pris au d&#233;pourvu 14 (Dex +1, taille +4)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 31 (7d8)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +3, &lt;b&gt;Vig&lt;/b&gt; +5, &lt;b&gt;Vol&lt;/b&gt; +3
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Capacit&#233;s d&#233;fensives&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Nu&#233;e.html#TRAITSNUEES&quot; title=&quot;traits des nu&#233;es&quot;&gt;traits des nu&#233;es&lt;/a&gt; ; &lt;b&gt;Immunit&#233;s&lt;/b&gt; d&#233;g&#226;ts par armes 
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Faiblesses&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Nu&#233;e.html#TRAITSNUEES&quot; title=&quot;traits des nu&#233;es&quot;&gt;traits des nu&#233;es&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 1,50 m (1 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), vol 12 m (8 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) (bonne)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; nu&#233;e (2d6 et poison)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Espace&lt;/b&gt; 3 m (2 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) ; &lt;b&gt;Allonge&lt;/b&gt; 0 m (0 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaques sp&#233;ciales&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Distraction-(Capacit&#233;).html&quot; title=&quot;Distraction&quot;&gt;distraction&lt;/a&gt; (DD 13), poison
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 1, &lt;b&gt;Dex&lt;/b&gt; 13, &lt;b&gt;Con&lt;/b&gt; 10, &lt;b&gt;Int&lt;/b&gt; -, &lt;b&gt;Sag&lt;/b&gt; 12, &lt;b&gt;Cha&lt;/b&gt; 9
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +5, &lt;b&gt;BMO&lt;/b&gt; -, &lt;b&gt;DMD&lt;/b&gt; -
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +9, &lt;a class=&quot;pagelink&quot; href=&quot;Vol.html&quot; title=&quot;Vol&quot;&gt;Vol&lt;/a&gt; +11 ; &lt;b&gt;Modificateurs raciaux&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +8
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Particularit&#233;s&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Nu&#233;e.html#TRAITSNUEES&quot; title=&quot;traits des nu&#233;es&quot;&gt;traits des nu&#233;es&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Type-Vermine.html#TRAITSVERMINES&quot; title=&quot;traits des vermines&quot;&gt;traits des vermines&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; for&#234;ts temp&#233;r&#233;es
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation sociale&lt;/b&gt; solitaire, couple, essaim (3-6 nu&#233;es), colonie (7-12 nu&#233;es)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; aucun
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Capacit&#233;s sp&#233;ciales&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Poison (Ext).&lt;/b&gt; Nu&#233;e - blessure ; &lt;i&gt;JS&lt;/i&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;Vigueur&quot;&gt;Vigueur&lt;/a&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DEGREDEDIFFICULTE&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; 13 ; &lt;i&gt;fr&#233;quence&lt;/i&gt; 1/round pendant 4 rounds ; &lt;i&gt;effet&lt;/i&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Affaiblissement-Temporaire-(Capacit&#233;).html&quot; title=&quot;affaiblissement temporaire&quot;&gt;affaiblissement temporaire&lt;/a&gt; 1 &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#DEXTERITE&quot; title=&quot;La Dext&#233;rit&#233;&quot;&gt;Dex&lt;/a&gt; ; &lt;i&gt;gu&#233;rison&lt;/i&gt; 1 r&#233;ussite. Le &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DEGREDEDIFFICULTE&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; d&#233;pend de la &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#CONSTITUTION&quot; title=&quot;La Constitution&quot;&gt;Constitution&lt;/a&gt;.
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;td&gt;&lt;div&gt;&lt;i&gt;Un bourdonnement sourd et inqui&#233;tant annonce l’arriv&#233;e d’un essaim de plusieurs milliers de gu&#234;pes en col&#232;re.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Une nu&#233;e de gu&#234;pes est un essaim compos&#233; de milliers de gu&#234;pes
+carnivores. Rassembl&#233;es en masse, elles deviennent des chasseurs
+voraces capables de venir &#224; bout de grandes cr&#233;atures gr&#226;ce &#224; leurs
+dards remplis de venin. Un tel essaim peut infliger des centaines
+de piq&#251;res mais le v&#233;ritable danger r&#233;side en son app&#233;tit insatiable
+pour la viande.&lt;br /&gt;&lt;br /&gt;Les nu&#233;es de gu&#234;pes encerclent et attaquent toutes les proies
+vivantes qui se trouvent sur leur chemin et passent rapidement &#224;
+l’offensive lorsqu’on les met en col&#232;re. Une fois enrag&#233;e, une nu&#233;e de
+gu&#234;pes ne se pr&#233;occupe bien souvent plus de l’endroit o&#249; elle s’&#233;tait
+&#233;tablie, ni de ce qui l’a mise en col&#232;re. Tant qu’elle trouve de nouvelles
+cibles &#224; attaquer et &#224; piquer, elle poursuit son œuvre de destruction
+sans s’arr&#234;ter, jusqu’&#224; ce qu’elle soit d&#233;truite ou dispers&#233;e.
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Nuée de guêpes|FP 3}
+{s:pucem|Vermine|Forêt-Jungle|Tempéré}
+{s:BDTexte|''Source : Bestiaire p.179''}
+{s:BDTexte|'''PX''' 800}
+{s:BDTexte|[[type Vermine|Vermine]] ([[sous-type nuée|nuée]]) de taille Min, N}
+{s:BDTexte|'''Init''' +1 ; '''Sens''' [[vision dans le noir]] 18 m (12 {s:c}) ; [[Perception]] +9}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 15, contact 15, pris au dépourvu 14 (Dex +1, taille +4)}
+{s:BDTexte|'''pv''' 31 (7d8)}
+{s:BDTexte|'''Réf''' +3, '''Vig''' +5, '''Vol''' +3}
+{s:BDTexte|'''Capacités défensives''' [[traits des nuées]] ; '''Immunités''' dégâts par armes }
+{s:BDTexte|'''Faiblesses''' [[traits des nuées]]}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 1,50 m (1 {s:c}), vol 12 m (8 {s:c}) (bonne)}
+{s:BDTexte|'''Corps à corps''' nuée (2d6 et poison)}
+{s:BDTexte|'''Espace''' 3 m (2 {s:c}) ; '''Allonge''' 0 m (0 {s:c})}
+{s:BDTexte|'''Attaques spéciales''' [[distraction]] (DD 13), poison}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 1, '''Dex''' 13, '''Con''' 10, '''Int''' -, '''Sag''' 12, '''Cha''' 9}
+{s:BDTexte|'''BBA''' +5, '''BMO''' -, '''DMD''' -}
+{s:BDTexte|'''Compétences''' [[Perception]] +9, [[Vol]] +11 ; '''Modificateurs raciaux''' [[Perception]] +8}
+{s:BDTexte|'''Particularités''' [[traits des nuées]], [[traits des vermines]]}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' forêts tempérées}
+{s:BDTexte|'''Organisation sociale''' solitaire, couple, essaim (3-6 nuées), colonie (7-12 nuées)}
+{s:BDTexte|'''Trésor''' aucun}
+{s:BDSousTitre|Capacités spéciales}
+{s:BDTexte|'''Poison (Ext).''' Nuée - blessure ; ''JS'' [[Vigueur]] [[DD]] 13 ; ''fréquence'' 1/round pendant 4 rounds ; ''effet'' [[affaiblissement temporaire]] 1 [[Dextérité|Dex]] ; ''guérison'' 1 réussite. Le [[DD]] dépend de la [[Constitution]].}
+</div>
+</td><td><div>''Un bourdonnement sourd et inquiétant annonce l’arrivée d’un essaim de plusieurs milliers de guêpes en colère.''
+
+Une nuée de guêpes est un essaim composé de milliers de guêpes
+carnivores. Rassemblées en masse, elles deviennent des chasseurs
+voraces capables de venir à bout de grandes créatures grâce à leurs
+dards remplis de venin. Un tel essaim peut infliger des centaines
+de piqûres mais le véritable danger réside en son appétit insatiable
+pour la viande.
+
+Les nuées de guêpes encerclent et attaquent toutes les proies
+vivantes qui se trouvent sur leur chemin et passent rapidement à
+l’offensive lorsqu’on les met en colère. Une fois enragée, une nuée de
+guêpes ne se préoccupe bien souvent plus de l’endroit où elle s’était
+établie, ni de ce qui l’a mise en colère. Tant qu’elle trouve de nouvelles
+cibles à attaquer et à piquer, elle poursuit son œuvre de destruction
+sans s’arrêter, jusqu’à ce qu’elle soit détruite ou dispersée.
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Nuée de guêpes</fullName>
+</wikiPage>

@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Contrôle des morts-vivants</title>
+  <categories><category>Pathfinder-RPG.Manuel des joueurs</category><category>Pathfinder-RPG.Règles officielles</category><category>Pathfinder-RPG.Sort</category><category>Pathfinder-RPG.Sort magicien 7</category></categories>
+  <lastModified>2012-11-01 18:44:35Z</lastModified>
+  <version>5</version>
+  <inLinks><link>Pathfinder-RPG.Armures magiques</link><link>Pathfinder-RPG.Contrôle des morts-vivants</link><link>Pathfinder-RPG.Glossaire des sorts</link><link>Pathfinder-RPG.Liste des sorts</link><link>Pathfinder-RPG.Liste des sorts densorceleursmagiciens</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Contrôle des morts-vivants</link><link>Pathfinder-RPG.Armures magiques</link><link>Pathfinder-RPG.Nécromancie</link><link>Pathfinder-RPG.Ensorceleur</link><link>Pathfinder-RPG.Magicien</link><link>Pathfinder-RPG.Action simple</link><link>Pathfinder-RPG.composantes</link><link>Pathfinder-RPG.niveau</link><link>Pathfinder-RPG.DV</link><link>Pathfinder-RPG.type Mort-vivant</link><link>Pathfinder-RPG.Volonté</link><link>Pathfinder-RPG.Présentation des sorts</link><link>Pathfinder-RPG.Silence</link></outLinks>
+  <body><![CDATA[
+&lt;b&gt;&#201;cole&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#NECROMANCIE&quot; title=&quot;N&#233;cromancie&quot;&gt;N&#233;cromancie&lt;/a&gt; ; &lt;b&gt;Niveau&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Ensorceleur.html&quot; title=&quot;L&amp;#39;ensorceleur&quot;&gt;Ens&lt;/a&gt;/&lt;a class=&quot;pagelink&quot; href=&quot;Magicien.html&quot; title=&quot;Le magicien&quot;&gt;Mag&lt;/a&gt; 7&lt;br/&gt;
+&lt;b&gt;Temps d&#39;incantation&lt;/b&gt; 1 &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions.html#SIMPLE&quot; title=&quot;Action simple&quot;&gt;action simple&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Composantes&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#COMPOSANTES&quot; title=&quot;composantes&quot;&gt;V, G, M&lt;/a&gt; (un morceau de viande crue et un &#233;clat d’os)&lt;br/&gt;
+&lt;b&gt;Port&#233;e&lt;/b&gt; courte (7,50 m + 1,50 m/2 &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#NIVEAU&quot; title=&quot;niveau&quot;&gt;niveaux&lt;/a&gt;) (5 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt; + 1 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;/2 &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#NIVEAU&quot; title=&quot;niveau&quot;&gt;niveaux&lt;/a&gt;)&lt;br/&gt;
+&lt;b&gt;Cibles&lt;/b&gt; jusqu’&#224; 2 &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DESDEVIE&quot; title=&quot;DV&quot;&gt;DV&lt;/a&gt; de &lt;a class=&quot;pagelink&quot; href=&quot;Type-Mort-Vivant.html&quot; title=&quot;Mort-vivant&quot;&gt;morts-vivants&lt;/a&gt;/&lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#NIVEAU&quot; title=&quot;niveau&quot;&gt;niveau&lt;/a&gt;, distants de moins de 9 m (6 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) les uns des autres&lt;br/&gt;
+&lt;b&gt;Dur&#233;e&lt;/b&gt; 1 minute/&lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#NIVEAU&quot; title=&quot;niveau&quot;&gt;niveau&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Jet de sauvegarde&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;Volont&#233;&quot;&gt;Volont&#233;&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#JETSDESAUVEGARDE&quot; title=&quot;Pr&#233;sentation des sorts&quot;&gt;annule&lt;/a&gt; ; &lt;b&gt;R&#233;sistance &#224; la magie&lt;/b&gt; oui&lt;br /&gt;&lt;br /&gt;Gr&#226;ce &#224; ce sort, le personnage peut prendre le contr&#244;le de &lt;a class=&quot;pagelink&quot; href=&quot;Type-Mort-Vivant.html&quot; title=&quot;Mort-vivant&quot;&gt;morts-vivants&lt;/a&gt; pour un temps limit&#233;. Il leur donne ses ordres vocalement. Le personnage ne peut pas communiquer par t&#233;l&#233;pathie mais quelle que soit la langue qu’il utilise, il se fait comprendre des &lt;a class=&quot;pagelink&quot; href=&quot;Type-Mort-Vivant.html&quot; title=&quot;Mort-vivant&quot;&gt;morts-vivants&lt;/a&gt;. S’il se trouve dans l’incapacit&#233; de pouvoir s’exprimer (par exemple, &#224; cause d’un sort de &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Silence.html&quot; title=&quot;Silence&quot;&gt;silence&lt;/a&gt;&lt;/i&gt;), les cr&#233;atures affect&#233;es ne l’attaquent pas. Lorsque le sort cesse de faire effet, les &lt;a class=&quot;pagelink&quot; href=&quot;Type-Mort-Vivant.html&quot; title=&quot;Mort-vivant&quot;&gt;morts-vivants&lt;/a&gt; recommencent &#224; agir normalement.&lt;br /&gt;&lt;br /&gt;Ceux qui sont intelligents se souviennent que le personnage les a momentan&#233;ment contr&#244;l&#233;s et risquent de chercher &#224; se venger.
+]]></body>
+  <raw><![CDATA[{s:Desambi|Contrôle des morts-vivants est également le nom d'un [[contrôle des morts-vivants|don]] et d'une [[Armures magiques#Contrôledesmortsvivants|propriété d'armure magique]].}
+'''École''' [[Nécromancie]] ; '''Niveau''' [[ensorceleur|Ens]]/[[magicien|Mag]] 7<br/>
+'''Temps d'incantation''' 1 [[action simple]]<br/>
+'''Composantes''' [[composantes|V, G, M]] (un morceau de viande crue et un éclat d’os)<br/>
+'''Portée''' courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])<br/>
+'''Cibles''' jusqu’à 2 [[DV]] de [[type mort-vivant|morts-vivants]]/[[niveau]], distants de moins de 9 m (6 {s:c}) les uns des autres<br/>
+'''Durée''' 1 minute/[[niveau]]<br/>
+'''Jet de sauvegarde''' [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; '''Résistance à la magie''' oui
+
+Grâce à ce sort, le personnage peut prendre le contrôle de [[type mort-vivant|morts-vivants]] pour un temps limité. Il leur donne ses ordres vocalement. Le personnage ne peut pas communiquer par télépathie mais quelle que soit la langue qu’il utilise, il se fait comprendre des [[type mort-vivant|morts-vivants]]. S’il se trouve dans l’incapacité de pouvoir s’exprimer (par exemple, à cause d’un sort de ''[[silence]]''), les créatures affectées ne l’attaquent pas. Lorsque le sort cesse de faire effet, les [[type mort-vivant|morts-vivants]] recommencent à agir normalement.
+
+Ceux qui sont intelligents se souviennent que le personnage les a momentanément contrôlés et risquent de chercher à se venger.
+]]></raw>
+  <fullName>Pathfinder-RPG.sort contrôle des morts-vivants</fullName>
+</wikiPage>

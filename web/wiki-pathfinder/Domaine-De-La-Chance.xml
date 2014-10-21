@@ -1,0 +1,78 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Domaine de la Chance</title>
+  <categories><category>Pathfinder-RPG.Classe</category><category>Pathfinder-RPG.Domaine</category></categories>
+  <lastModified>2012-07-15 16:47:22Z</lastModified>
+  <version>9</version>
+  <inLinks><link>Pathfinder-RPG.Domaines</link><link>Pathfinder-RPG.Osselet de la chance</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Action simple</link><link>Pathfinder-RPG.Sagesse</link><link>Pathfinder-RPG.Prêtre</link><link>Pathfinder-RPG.sous-domaines</link><link>Pathfinder-RPG.jet de sauvegarde</link><link>Pathfinder-RPG.Coup au but</link><link>Pathfinder-RPG.Imprécation</link><link>Pathfinder-RPG.Aide</link><link>Pathfinder-RPG.Augure</link><link>Pathfinder-RPG.Protection contre les énergies destructives</link><link>Pathfinder-RPG.Emprunt de chance</link><link>Pathfinder-RPG.malédiction</link><link>Pathfinder-RPG.Liberté de mouvement</link><link>Pathfinder-RPG.Annulation denchantement</link><link>Pathfinder-RPG.Double illusoire</link><link>Pathfinder-RPG.Mauvais œil</link><link>Pathfinder-RPG.Renvoi des sorts</link><link>Pathfinder-RPG.Moment de prescience</link><link>Pathfinder-RPG.Miracle</link></outLinks>
+  <body><![CDATA[
+&lt;h2 class=&quot;separator&quot;&gt; Pouvoirs accord&#233;s &lt;a class=&quot;headeranchor&quot; id=&quot;Pouvoirs_accord&#233;s_0&quot; href=&quot;#Pouvoirs_accord&#233;s_0&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;
+La chance sourit souvent au personnage et sa bonne fortune semble contagieuse.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Coup de chance (Mag).&lt;/b&gt; Par une &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions.html#SIMPLE&quot; title=&quot;Action simple&quot;&gt;action simple&lt;/a&gt;, le personnage peut toucher une cr&#233;ature et lui porter chance, si celle-ci l’accepte. Pendant un round, chaque fois que la cible lance un d20, elle peut lancer deux d&#233;s et choisir le r&#233;sultat le plus favorable. Chaque jour, le personnage peut utiliser ce pouvoir un nombre de fois &#233;gal &#224; 3 + son modificateur de &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#SAGESSE&quot; title=&quot;La Sagesse&quot;&gt;Sagesse&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Chance (Ext).&lt;/b&gt; Au niveau 6, en une action imm&#233;diate, le personnage peut d&#233;cider de relancer un jet de d20 juste avant que les cons&#233;quences de son r&#233;sultat soient connues. Il doit alors se contenter du second r&#233;sultat, m&#234;me si celui-ci est moins bon que le premier. Le personnage peut utiliser ce pouvoir une fois par jour au niveau 6 et une fois de plus par jour tous les six niveaux de &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#234;tre.html&quot; title=&quot;Le pr&#234;tre&quot;&gt;pr&#234;tre&lt;/a&gt; par la suite.&lt;br /&gt;&lt;br /&gt;
+&lt;h2 class=&quot;separator&quot;&gt;Sous-domaines&lt;a class=&quot;headeranchor&quot; id=&quot;Sous-domaines_1&quot; href=&quot;#Sous-domaines_1&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;Au lieu du domaine, un personnage peut choisir d&#39;adopter un des &lt;a class=&quot;pagelink&quot; href=&quot;Domaines.html#SOUSDOMAINES&quot; title=&quot;sous-domaines&quot;&gt;sous-domaines&lt;/a&gt; suivants.&lt;br /&gt;&lt;br /&gt;&lt;table class=&quot;page espace-col deuxcol&quot;&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;&lt;td&gt;
+&lt;div class=&quot;presentation arrondi&quot;&gt;
+&lt;h2 class=&quot;separator&quot;&gt;Sous-domaine du Destin&lt;a class=&quot;headeranchor&quot; id=&quot;Sous-domaine_du_Destin_2&quot; href=&quot;#Sous-domaine_du_Destin_2&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;&lt;b&gt;Manipulation des fils du destin (Sur).&lt;/b&gt; &lt;i&gt;(remplace chance)&lt;/i&gt; Au niveau 8, le pr&#234;tre peut forcer une cr&#233;ature situ&#233;e dans son champ de vision &#224; relancer n&#39;importe quel jet qu&#39;elle vient d&#39;effectuer avant que le r&#233;sultat n&#39;en soit connu. La valeur du second jet doit &#234;tre utilis&#233;e, qu&#39;elle soit pire ou meilleure que le r&#233;sultat initial. Le pr&#234;tre peut utiliser cette capacit&#233; une fois par jour au niveau 8 et une fois de plus par tranche de 6 niveaux au-del&#224; du niveau 8.
+&lt;/div&gt;
+&lt;/td&gt;&lt;td&gt;
+&lt;div class=&quot;presentation arrondi&quot;&gt;
+&lt;h2 class=&quot;separator&quot;&gt; Sous-domaine de la Mal&#233;diction &lt;a class=&quot;headeranchor&quot; id=&quot;Sous-domaine_de_la_Mal&#233;diction_3&quot; href=&quot;#Sous-domaine_de_la_Mal&#233;diction_3&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;&lt;b&gt;Mauvais œil (Sur).&lt;/b&gt; &lt;i&gt;(remplace coup de chance)&lt;/i&gt; En une &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions.html#SIMPLE&quot; title=&quot;Action simple&quot;&gt;action simple&lt;/a&gt;, le personnage peut jeter le mauvais œil sur une cible situ&#233;e dans un rayon de 6 cases, ce qui lui impose un malus de –2 &#224; tous les &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;jet de sauvegarde&quot;&gt;jets de sauvegarde&lt;/a&gt; contre les sorts du &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#234;tre.html&quot; title=&quot;Le pr&#234;tre&quot;&gt;pr&#234;tre&lt;/a&gt;. L&#39;effet dure une minute ou jusqu&#39;&#224; ce la cible r&#233;ussisse &#224; porter une attaque contre le &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#234;tre.html&quot; title=&quot;Le pr&#234;tre&quot;&gt;pr&#234;tre&lt;/a&gt;. Ce dernier peut utiliser cette capacit&#233; un nombre de fois par jour &#233;gal &#224; 3 + son modificateur de &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#SAGESSE&quot; title=&quot;La Sagesse&quot;&gt;Sagesse&lt;/a&gt;.
+&lt;/div&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;br /&gt;&lt;center&gt;
+&lt;table CLASS=&quot;tablo toutgauche&quot;&gt;&lt;caption&gt;Sorts de domaine&lt;/caption&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td WIDTH=&quot;4%&quot;&gt;Niv&lt;/td&gt;&lt;td WIDTH=&quot;32%&quot;&gt;Domaine de la Chance&lt;/td&gt;&lt;td WIDTH=&quot;32%&quot;&gt;Sous-domaine du Destin&lt;/td&gt;&lt;td WIDTH=&quot;32%&quot;&gt;Sous-domaine de la Mal&#233;diction&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier&quot;&gt;&lt;td&gt;1er&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Coup-Au-But.html&quot; title=&quot;Coup au but&quot;&gt;coup au but&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;&lt;i&gt;idem&lt;/i&gt;&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Impr&#233;cation.html&quot; title=&quot;Impr&#233;cation&quot;&gt;impr&#233;cation&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;2e&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Aide.html&quot; title=&quot;Aide&quot;&gt;aide&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Augure.html&quot; title=&quot;Augure&quot;&gt;augure&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;&lt;i&gt;idem&lt;/i&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;3e&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Protection-Contre-Les-&#201;nergies-Destructives.html&quot; title=&quot;Protection contre les &#233;nergies destructives&quot;&gt;protection contre les &#233;nergies destructives&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Emprunt-De-Chance.html&quot; title=&quot;Emprunt de chance&quot;&gt;emprunt de chance&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Mal&#233;dictions.html&quot; title=&quot;mal&#233;diction&quot;&gt;mal&#233;diction&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;4e&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Libert&#233;-De-Mouvement.html&quot; title=&quot;Libert&#233; de mouvement&quot;&gt;libert&#233; de mouvement&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;&lt;i&gt;idem&lt;/i&gt;&lt;/td&gt;&lt;td&gt;&lt;i&gt;idem&lt;/i&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;5e&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Annulation-Denchantement.html&quot; title=&quot;Annulation d&amp;#39;enchantement&quot;&gt;annulation d&#39;enchantement&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;&lt;i&gt;idem&lt;/i&gt;&lt;/td&gt;&lt;td&gt;&lt;i&gt;idem&lt;/i&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;6e&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Double-Illusoire.html&quot; title=&quot;Double illusoire&quot;&gt;double illusoire&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;&lt;i&gt;idem&lt;/i&gt;&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Mauvais-Œil.html&quot; title=&quot;Mauvais œil&quot;&gt;mauvais œil&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;7e&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Renvoi-Des-Sorts.html&quot; title=&quot;Renvoi des sorts&quot;&gt;renvoi des sorts&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;&lt;i&gt;idem&lt;/i&gt;&lt;/td&gt;&lt;td&gt;&lt;i&gt;idem&lt;/i&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;8e&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Moment-De-Prescience.html&quot; title=&quot;Moment de prescience&quot;&gt;moment de prescience&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;&lt;i&gt;idem&lt;/i&gt;&lt;/td&gt;&lt;td&gt;&lt;i&gt;idem&lt;/i&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;9e&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Miracle.html&quot; title=&quot;Miracle&quot;&gt;miracle&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;&lt;i&gt;idem&lt;/i&gt;&lt;/td&gt;&lt;td&gt;&lt;i&gt;idem&lt;/i&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/center&gt;
+]]></body>
+  <raw><![CDATA[{s:MenuDomaines}
+=== Pouvoirs accordés ===
+
+La chance sourit souvent au personnage et sa bonne fortune semble contagieuse.
+
+'''Coup de chance (Mag).''' Par une [[action simple]], le personnage peut toucher une créature et lui porter chance, si celle-ci l’accepte. Pendant un round, chaque fois que la cible lance un d20, elle peut lancer deux dés et choisir le résultat le plus favorable. Chaque jour, le personnage peut utiliser ce pouvoir un nombre de fois égal à 3 + son modificateur de [[Sagesse]].
+
+'''Chance (Ext).''' Au niveau 6, en une action immédiate, le personnage peut décider de relancer un jet de d20 juste avant que les conséquences de son résultat soient connues. Il doit alors se contenter du second résultat, même si celui-ci est moins bon que le premier. Le personnage peut utiliser ce pouvoir une fois par jour au niveau 6 et une fois de plus par jour tous les six niveaux de [[prêtre]] par la suite.
+
+{s:APG}
+===Sous-domaines===
+Au lieu du domaine, un personnage peut choisir d'adopter un des [[sous-domaines]] suivants.
+
+<table class="page espace-col deuxcol"><tr style="vertical-align: top"><td>
+<div class="presentation arrondi">
+===Sous-domaine du Destin===
+'''Manipulation des fils du destin (Sur).''' ''(remplace chance)'' Au niveau 8, le prêtre peut forcer une créature située dans son champ de vision à relancer n'importe quel jet qu'elle vient d'effectuer avant que le résultat n'en soit connu. La valeur du second jet doit être utilisée, qu'elle soit pire ou meilleure que le résultat initial. Le prêtre peut utiliser cette capacité une fois par jour au niveau 8 et une fois de plus par tranche de 6 niveaux au-delà du niveau 8.
+</div>
+</td><td>
+<div class="presentation arrondi">
+=== Sous-domaine de la Malédiction ===
+'''Mauvais œil (Sur).''' ''(remplace coup de chance)'' En une [[action simple]], le personnage peut jeter le mauvais œil sur une cible située dans un rayon de 6 cases, ce qui lui impose un malus de –2 à tous les [[jet de sauvegarde|jets de sauvegarde]] contre les sorts du [[prêtre]]. L'effet dure une minute ou jusqu'à ce la cible réussisse à porter une attaque contre le [[prêtre]]. Ce dernier peut utiliser cette capacité un nombre de fois par jour égal à 3 + son modificateur de [[Sagesse]].
+</div>
+</td></tr></table>
+
+<center>
+{| CLASS="tablo toutgauche"
+|+ Sorts de domaine
+|- CLASS="titre"
+| WIDTH="4%" | Niv
+| WIDTH="32%" | Domaine de la Chance
+| WIDTH="32%" | Sous-domaine du Destin
+| WIDTH="32%" | Sous-domaine de la Malédiction
+|- CLASS="premier"
+| 1er || ''[[coup au but]]'' || ''idem'' || ''[[imprécation]]''
+|- CLASS="alt"
+| 2e || ''[[aide]]'' || ''[[augure]]'' || ''idem''
+|-
+| 3e || ''[[protection contre les énergies destructives]]'' || ''[[emprunt de chance]]'' || ''[[malédiction]]''
+|- CLASS="alt"
+| 4e || ''[[liberté de mouvement]]'' || ''idem'' || ''idem''
+|-
+| 5e || ''[[annulation denchantement|annulation d'enchantement]]'' || ''idem'' || ''idem''
+|- CLASS="alt"
+| 6e || ''[[double illusoire]]'' || ''idem'' || ''[[mauvais œil]]''
+|-
+| 7e || ''[[renvoi des sorts]]'' || ''idem'' || ''idem''
+|- CLASS="alt"
+| 8e || ''[[moment de prescience]]'' || ''idem'' || ''idem''
+|-
+| 9e || ''[[miracle]]'' || ''idem'' || ''idem''
+|}
+</center>]]></raw>
+  <fullName>Pathfinder-RPG.Domaine de la Chance</fullName>
+</wikiPage>

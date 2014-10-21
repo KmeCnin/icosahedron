@@ -1,0 +1,580 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Élémentaire de la glace</title>
+  <categories><category>Pathfinder-RPG.Bestiaire 2</category><category>Pathfinder-RPG.Monstre</category><category>Pathfinder-RPG.Règles officielles</category></categories>
+  <lastModified>2013-03-24 13:14:28Z</lastModified>
+  <version>3</version>
+  <inLinks><link>Pathfinder-RPG.Glossaire des monstres</link><link>Pathfinder-RPG.Lier un extérieur</link><link>Pathfinder-RPG.Liste de monstres par FP</link><link>Pathfinder-RPG.Liste de monstres par milieu naturel</link><link>Pathfinder-RPG.Liste de monstres par type</link><link>Pathfinder-RPG.Monstres</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Chancelant</link><link>Pathfinder-RPG.Pattes daraignée</link><link>Pathfinder-RPG.Acrobaties</link><link>Pathfinder-RPG.Contrôle de leau</link><link>Pathfinder-RPG.Étourdi</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.type Extérieur</link><link>Pathfinder-RPG.sous-type Air</link><link>Pathfinder-RPG.sous-type Eau</link><link>Pathfinder-RPG.sous-type élémentaire</link><link>Pathfinder-RPG.sous-type extraplanaire</link><link>Pathfinder-RPG.sous-type froid</link><link>Pathfinder-RPG.vision dans le noir</link><link>Pathfinder-RPG.Vulnérabilités (capacité)</link><link>Pathfinder-RPG.croc-en-jambe</link><link>Pathfinder-RPG.Attaque en puissance</link><link>Pathfinder-RPG.Connaissances</link><link>Pathfinder-RPG.Discrétion</link><link>Pathfinder-RPG.Natation</link><link>Pathfinder-RPG.Enchaînement</link><link>Pathfinder-RPG.Science de linitiative</link><link>Pathfinder-RPG.Succession denchaînements</link><link>Pathfinder-RPG.Intimidation</link><link>Pathfinder-RPG.Esquive</link><link>Pathfinder-RPG.Attaques réflexes</link><link>Pathfinder-RPG.Frappe décisive</link><link>Pathfinder-RPG.Réflexes surhumains</link><link>Pathfinder-RPG.Évasion</link><link>Pathfinder-RPG.Science du critique</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;&#201;l&#233;mentaire de la glace&lt;div style=&quot;float:right;&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Bestiaire 2, p.124&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Langues&lt;/b&gt; aquatique
+&lt;/div&gt;
+&lt;div class=&quot;box&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; terre ferme ou milieu aquatique (plan de l’Eau)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation sociale&lt;/b&gt; solitaire, couple ou bande (3–8)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; aucun
+&lt;/div&gt;
+&lt;div class=&quot;box&quot;&gt;Pouvoirs sp&#233;ciaux&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Froid engourdissant (Sur).&lt;/b&gt; Lorsqu’un &#233;l&#233;mentaire de la glace inflige des d&#233;g&#226;ts de froid &#224; une cr&#233;ature, celle-ci doit r&#233;ussir un jet de Vigueur pour ne pas &#234;tre &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables.html#Chancelant&quot; title=&quot;Chancelant&quot;&gt;chancelante&lt;/a&gt; pendant 1 round. Le DD du jet de sauvegarde est indiqu&#233; dans le profil de l’&#233;l&#233;mentaire et d&#233;pend de la Constitution.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Marche sur la glace (Ext).&lt;/b&gt; Cette capacit&#233; fonctionne comme le sort de &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Pattes-Daraign&#233;e.html&quot; title=&quot;Pattes d&amp;#39;araign&#233;e&quot;&gt;pattes d’araign&#233;e&lt;/a&gt;&lt;/i&gt; mais seulement sur les surfaces gel&#233;es. L’&#233;l&#233;mentaire peut se d&#233;placer sur les surfaces gel&#233;es sans aucune p&#233;nalit&#233; et il peut charger ou courir sur la glace sans devoir effectuer de test d’&lt;a class=&quot;pagelink&quot; href=&quot;Acrobaties.html&quot; title=&quot;Acrobaties&quot;&gt;Acrobaties&lt;/a&gt;.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Nage dans la glace (Sur).&lt;/b&gt; Un &#233;l&#233;mentaire de la glace qui se d&#233;place par creusement peut traverser la glace non magique et la neige aussi facilement qu’un poisson nage dans l’eau. Il ne laisse aucune trace de son passage, ni tunnel derri&#232;re lui, pas plus qu’il ne cr&#233;e de vibrations. Un sort de &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Contr&#244;le-De-Leau.html&quot; title=&quot;Contr&#244;le de l&amp;#39;eau&quot;&gt;contr&#244;le de l’eau&lt;/a&gt;&lt;/i&gt; lanc&#233; sur une zone contenant un &#233;l&#233;mentaire de la glace le projette en arri&#232;re sur 9 m&#232;tres (6 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) et l’&lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables.html#&#201;tourdi&quot; title=&quot;&#201;tourdi&quot;&gt;&#233;tourdit&lt;/a&gt; pendant 1 round &#224; moins qu’il ne r&#233;ussisse un jet de Vigueur contre un DD de 15.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Vision malgr&#233; la neige (Ext).&lt;/b&gt; Un &#233;l&#233;mentaire de la glace peut voir parfaitement bien m&#234;me lorsqu’il neige. Il ne subit aucune p&#233;nalit&#233; aux tests de &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; &#224; cause de la neige.
+&lt;/div&gt;&lt;br /&gt;&lt;/div&gt;
+&lt;h3 class=&quot;separator&quot;&gt; &lt;a class=&quot;headeranchor&quot; id=&quot;_0&quot; href=&quot;#_0&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;&#201;l&#233;mentaire de la glace de taille P&lt;div style=&quot;float:right;&quot;&gt;FP 1&lt;/div&gt;&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Bestiaire 2, p.124&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 400
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Ext&#233;rieur.html&quot; title=&quot;Ext&#233;rieur&quot;&gt;Ext&#233;rieur&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Air.html&quot; title=&quot;Air (sous-type)&quot;&gt;Air&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Eau.html&quot; title=&quot;Eau (sous-type)&quot;&gt;Eau&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-&#201;l&#233;mentaire.html&quot; title=&quot;&#201;l&#233;mentaire (sous-type)&quot;&gt;&#233;l&#233;mentaire&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Extraplanaire.html&quot; title=&quot;Extraplanaire (sous-type)&quot;&gt;extraplanaire&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Froid.html&quot; title=&quot;Froid (sous-type)&quot;&gt;froid&lt;/a&gt;) de taille P, N
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; -1 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Capacit&#233;s-Sp&#233;ciales.html#VISIONDANSLENOIR&quot; title=&quot;vision dans le noir&quot;&gt;vision dans le noir&lt;/a&gt; 18 m (12 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), vision malgr&#233; la neige ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +5
+&lt;/div&gt;
+&lt;div class=&quot;box&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 16, contact 10, pris au d&#233;pourvu 16 (Dex -1, naturelle +6, taille +1)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 13 (2d10+2)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +2, &lt;b&gt;Vig&lt;/b&gt; +4, &lt;b&gt;Vol&lt;/b&gt; +0
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Immunit&#233;s&lt;/b&gt; froid, &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-&#201;l&#233;mentaire.html&quot; title=&quot;&#201;l&#233;mentaire (sous-type)&quot;&gt;traits des &#233;l&#233;mentaires&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Faiblesses&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vuln&#233;rabilit&#233;s-(Capacit&#233;).html&quot; title=&quot;Vuln&#233;rabilit&#233;s (Ext ou Sur)&quot;&gt;vuln&#233;rabilit&#233;&lt;/a&gt; au feu
+&lt;/div&gt;
+&lt;div class=&quot;box&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 6 m (4 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), creusement (glace et neige seulement) 6 m (4 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), nage 18 m (12 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; coup, +4 (1d4+1 plus 1d3 froid)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaques sp&#233;ciales&lt;/b&gt; froid engourdissant (DD 12)
+&lt;/div&gt;
+&lt;div class=&quot;box&quot;&gt;Statistiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 12, &lt;b&gt;Dex&lt;/b&gt; 8, &lt;b&gt;Con&lt;/b&gt; 13, &lt;b&gt;Int&lt;/b&gt; 4, &lt;b&gt;Sag&lt;/b&gt; 11, &lt;b&gt;Cha&lt;/b&gt; 11
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +2 ; &lt;b&gt;BMO&lt;/b&gt; +2 ; &lt;b&gt;DMD&lt;/b&gt; 11 (&lt;a class=&quot;pagelink&quot; href=&quot;Croc-En-Jambe.html&quot; title=&quot;croc-en-jambe&quot;&gt;croc-en-jambe&lt;/a&gt; impossible)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Attaque-En-Puissance.html&quot; title=&quot;Attaque en puissance&quot;&gt;Attaque en puissance&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Connaissances.html&quot; title=&quot;Connaissances&quot;&gt;Connaissances&lt;/a&gt; (plans) +2, &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; +8, &lt;a class=&quot;pagelink&quot; href=&quot;Natation.html&quot; title=&quot;Natation&quot;&gt;Natation&lt;/a&gt; +9, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +5
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Particularit&#233;s&lt;/b&gt; marche sur la glace, nage dans la glace
+&lt;/div&gt;&lt;br /&gt;&lt;/div&gt;
+&lt;h3 class=&quot;separator&quot;&gt; &lt;a class=&quot;headeranchor&quot; id=&quot;_1&quot; href=&quot;#_1&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;&#201;l&#233;mentaire de la glace de taille M&lt;div style=&quot;float:right;&quot;&gt;FP 3&lt;/div&gt;&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Bestiaire 2, p.124&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 800
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Ext&#233;rieur.html&quot; title=&quot;Ext&#233;rieur&quot;&gt;Ext&#233;rieur&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Air.html&quot; title=&quot;Air (sous-type)&quot;&gt;Air&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Eau.html&quot; title=&quot;Eau (sous-type)&quot;&gt;Eau&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-&#201;l&#233;mentaire.html&quot; title=&quot;&#201;l&#233;mentaire (sous-type)&quot;&gt;&#233;l&#233;mentaire&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Extraplanaire.html&quot; title=&quot;Extraplanaire (sous-type)&quot;&gt;extraplanaire&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Froid.html&quot; title=&quot;Froid (sous-type)&quot;&gt;froid&lt;/a&gt;) de taille M, N
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +0 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Capacit&#233;s-Sp&#233;ciales.html#VISIONDANSLENOIR&quot; title=&quot;vision dans le noir&quot;&gt;vision dans le noir&lt;/a&gt; 18 m (12 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), vision malgr&#233; la neige ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +7
+&lt;/div&gt;
+&lt;div class=&quot;box&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 16, contact 10, pris au d&#233;pourvu 16 (naturelle +6)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 30 (4d10+8)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +4, &lt;b&gt;Vig&lt;/b&gt; +6, &lt;b&gt;Vol&lt;/b&gt; +1
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Immunit&#233;s&lt;/b&gt; froid, &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-&#201;l&#233;mentaire.html&quot; title=&quot;&#201;l&#233;mentaire (sous-type)&quot;&gt;traits des &#233;l&#233;mentaires&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Faiblesses&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vuln&#233;rabilit&#233;s-(Capacit&#233;).html&quot; title=&quot;Vuln&#233;rabilit&#233;s (Ext ou Sur)&quot;&gt;vuln&#233;rabilit&#233;&lt;/a&gt; au feu
+&lt;/div&gt;
+&lt;div class=&quot;box&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 6 m (4 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), creusement (glace et neige seulement) 6 m (4 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), nage 18 m (12 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; coup, +7 (1d6+4 plus 1d4 froid)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaques sp&#233;ciales&lt;/b&gt; froid engourdissant (DD 14)
+&lt;/div&gt;
+&lt;div class=&quot;box&quot;&gt;Statistiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 16, &lt;b&gt;Dex&lt;/b&gt; 10, &lt;b&gt;Con&lt;/b&gt; 15, &lt;b&gt;Int&lt;/b&gt; 4, &lt;b&gt;Sag&lt;/b&gt; 11, &lt;b&gt;Cha&lt;/b&gt; 11
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +4 ; &lt;b&gt;BMO&lt;/b&gt; +7 ; &lt;b&gt;DMD&lt;/b&gt; 17 (&lt;a class=&quot;pagelink&quot; href=&quot;Croc-En-Jambe.html&quot; title=&quot;croc-en-jambe&quot;&gt;croc-en-jambe&lt;/a&gt; impossible)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Attaque-En-Puissance.html&quot; title=&quot;Attaque en puissance&quot;&gt;Attaque en puissance&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Encha&#238;nement.html&quot; title=&quot;Encha&#238;nement&quot;&gt;Encha&#238;nement&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Connaissances.html&quot; title=&quot;Connaissances&quot;&gt;Connaissances&lt;/a&gt; (plans) +4, &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; +7, &lt;a class=&quot;pagelink&quot; href=&quot;Natation.html&quot; title=&quot;Natation&quot;&gt;Natation&lt;/a&gt; +11, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +7
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Particularit&#233;s&lt;/b&gt; marche sur la glace, nage dans la glace
+&lt;/div&gt;&lt;br /&gt;&lt;/div&gt;
+&lt;h3 class=&quot;separator&quot;&gt; &lt;a class=&quot;headeranchor&quot; id=&quot;_2&quot; href=&quot;#_2&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;&#201;l&#233;mentaire de la glace de taille G&lt;div style=&quot;float:right;&quot;&gt;FP 5&lt;/div&gt;&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Bestiaire 2, p.124&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 1 600
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Ext&#233;rieur.html&quot; title=&quot;Ext&#233;rieur&quot;&gt;Ext&#233;rieur&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Air.html&quot; title=&quot;Air (sous-type)&quot;&gt;Air&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Eau.html&quot; title=&quot;Eau (sous-type)&quot;&gt;Eau&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-&#201;l&#233;mentaire.html&quot; title=&quot;&#201;l&#233;mentaire (sous-type)&quot;&gt;&#233;l&#233;mentaire&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Extraplanaire.html&quot; title=&quot;Extraplanaire (sous-type)&quot;&gt;extraplanaire&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Froid.html&quot; title=&quot;Froid (sous-type)&quot;&gt;froid&lt;/a&gt;) de taille G, N
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +5 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Capacit&#233;s-Sp&#233;ciales.html#VISIONDANSLENOIR&quot; title=&quot;vision dans le noir&quot;&gt;vision dans le noir&lt;/a&gt; 18 m (12 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), vision malgr&#233; la neige ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +11
+&lt;/div&gt;
+&lt;div class=&quot;box&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 17, contact 10, pris au d&#233;pourvu 16 (Dex +1, naturelle +7, taille -1)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 68 (8d10+24)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +7, &lt;b&gt;Vig&lt;/b&gt; +9, &lt;b&gt;Vol&lt;/b&gt; +2
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Immunit&#233;s&lt;/b&gt; froid, &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-&#201;l&#233;mentaire.html&quot; title=&quot;&#201;l&#233;mentaire (sous-type)&quot;&gt;traits des &#233;l&#233;mentaires&lt;/a&gt; ; &lt;b&gt;RD&lt;/b&gt; 5/—
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Faiblesses&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vuln&#233;rabilit&#233;s-(Capacit&#233;).html&quot; title=&quot;Vuln&#233;rabilit&#233;s (Ext ou Sur)&quot;&gt;vuln&#233;rabilit&#233;&lt;/a&gt; au feu
+&lt;/div&gt;
+&lt;div class=&quot;box&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 6 m (4 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), creusement (glace et neige seulement) 6 m (4 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), nage 18 m (12 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; 2 coups, +12 (1d8+5 plus 1d6 froid)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Espace&lt;/b&gt; 3 m (2 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) ; &lt;b&gt;Allonge&lt;/b&gt; 3 m (2 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaques sp&#233;ciales&lt;/b&gt; froid engourdissant (DD 17)
+&lt;/div&gt;
+&lt;div class=&quot;box&quot;&gt;Statistiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 20, &lt;b&gt;Dex&lt;/b&gt; 12, &lt;b&gt;Con&lt;/b&gt; 17, &lt;b&gt;Int&lt;/b&gt; 6, &lt;b&gt;Sag&lt;/b&gt; 11, &lt;b&gt;Cha&lt;/b&gt; 11
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +8 ; &lt;b&gt;BMO&lt;/b&gt; +14 ; &lt;b&gt;DMD&lt;/b&gt; 25 (&lt;a class=&quot;pagelink&quot; href=&quot;Croc-En-Jambe.html&quot; title=&quot;croc-en-jambe&quot;&gt;croc-en-jambe&lt;/a&gt; impossible)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Attaque-En-Puissance.html&quot; title=&quot;Attaque en puissance&quot;&gt;Attaque en puissance&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Encha&#238;nement.html&quot; title=&quot;Encha&#238;nement&quot;&gt;Encha&#238;nement&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Science-De-Linitiative.html&quot; title=&quot;Science de l&amp;#39;initiative&quot;&gt;Science de l’initiative&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Succession-Dencha&#238;nements.html&quot; title=&quot;Succession d&amp;#39;encha&#238;nements&quot;&gt;Succession d’encha&#238;nements&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Connaissances.html&quot; title=&quot;Connaissances&quot;&gt;Connaissances&lt;/a&gt; (plans) +9, &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; +8, &lt;a class=&quot;pagelink&quot; href=&quot;Intimidation.html&quot; title=&quot;Intimidation&quot;&gt;Intimidation&lt;/a&gt; +11, &lt;a class=&quot;pagelink&quot; href=&quot;Natation.html&quot; title=&quot;Natation&quot;&gt;Natation&lt;/a&gt; +13, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +11
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Particularit&#233;s&lt;/b&gt; marche sur la glace, nage dans la glace
+&lt;/div&gt;&lt;br /&gt;&lt;/div&gt;
+&lt;h3 class=&quot;separator&quot;&gt; &lt;a class=&quot;headeranchor&quot; id=&quot;_3&quot; href=&quot;#_3&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;&#201;l&#233;mentaire de la glace de taille TG&lt;div style=&quot;float:right;&quot;&gt;FP 7&lt;/div&gt;&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Bestiaire 2, p.124&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 3 200
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Ext&#233;rieur.html&quot; title=&quot;Ext&#233;rieur&quot;&gt;Ext&#233;rieur&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Air.html&quot; title=&quot;Air (sous-type)&quot;&gt;Air&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Eau.html&quot; title=&quot;Eau (sous-type)&quot;&gt;Eau&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-&#201;l&#233;mentaire.html&quot; title=&quot;&#201;l&#233;mentaire (sous-type)&quot;&gt;&#233;l&#233;mentaire&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Extraplanaire.html&quot; title=&quot;Extraplanaire (sous-type)&quot;&gt;extraplanaire&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Froid.html&quot; title=&quot;Froid (sous-type)&quot;&gt;froid&lt;/a&gt;) de taille TG, N
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +7 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Capacit&#233;s-Sp&#233;ciales.html#VISIONDANSLENOIR&quot; title=&quot;vision dans le noir&quot;&gt;vision dans le noir&lt;/a&gt; 18 m (12 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), vision malgr&#233; la neige ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +13
+&lt;/div&gt;
+&lt;div class=&quot;box&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 20, contact 12, pris au d&#233;pourvu 16 (Dex +3, esquive +1, naturelle +8, taille -2)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 95 (10d10+40)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +10, &lt;b&gt;Vig&lt;/b&gt; +10, &lt;b&gt;Vol&lt;/b&gt; +3
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Immunit&#233;s&lt;/b&gt; froid, &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-&#201;l&#233;mentaire.html&quot; title=&quot;&#201;l&#233;mentaire (sous-type)&quot;&gt;traits des &#233;l&#233;mentaires&lt;/a&gt; ; &lt;b&gt;RD&lt;/b&gt; 5/—
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Faiblesses&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vuln&#233;rabilit&#233;s-(Capacit&#233;).html&quot; title=&quot;Vuln&#233;rabilit&#233;s (Ext ou Sur)&quot;&gt;vuln&#233;rabilit&#233;&lt;/a&gt; au feu
+&lt;/div&gt;
+&lt;div class=&quot;box&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 6 m (4 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), creusement (glace et neige seulement) 6 m (4 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), nage 18 m (12 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; 2 coups, +15 (2d6+7 plus 1d8 froid)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Espace&lt;/b&gt; 4,50 m (3 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) ; &lt;b&gt;Allonge&lt;/b&gt; 4,50 m (3 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaques sp&#233;ciales&lt;/b&gt; froid engourdissant (DD 19)
+&lt;/div&gt;
+&lt;div class=&quot;box&quot;&gt;Statistiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 24, &lt;b&gt;Dex&lt;/b&gt; 16, &lt;b&gt;Con&lt;/b&gt; 19, &lt;b&gt;Int&lt;/b&gt; 6, &lt;b&gt;Sag&lt;/b&gt; 11, &lt;b&gt;Cha&lt;/b&gt; 11
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +10 ; &lt;b&gt;BMO&lt;/b&gt; +19 ; &lt;b&gt;DMD&lt;/b&gt; 33 (&lt;a class=&quot;pagelink&quot; href=&quot;Croc-En-Jambe.html&quot; title=&quot;croc-en-jambe&quot;&gt;croc-en-jambe&lt;/a&gt; impossible)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Attaque-En-Puissance.html&quot; title=&quot;Attaque en puissance&quot;&gt;Attaque en puissance&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Encha&#238;nement.html&quot; title=&quot;Encha&#238;nement&quot;&gt;Encha&#238;nement&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Esquive.html&quot; title=&quot;Esquive&quot;&gt;Esquive&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Science-De-Linitiative.html&quot; title=&quot;Science de l&amp;#39;initiative&quot;&gt;Science de l’initiative&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Succession-Dencha&#238;nements.html&quot; title=&quot;Succession d&amp;#39;encha&#238;nements&quot;&gt;Succession d’encha&#238;nements&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Connaissances.html&quot; title=&quot;Connaissances&quot;&gt;Connaissances&lt;/a&gt; (plans) +11, &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; +8, &lt;a class=&quot;pagelink&quot; href=&quot;Intimidation.html&quot; title=&quot;Intimidation&quot;&gt;Intimidation&lt;/a&gt; +13, &lt;a class=&quot;pagelink&quot; href=&quot;Natation.html&quot; title=&quot;Natation&quot;&gt;Natation&lt;/a&gt; +15, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +13
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Particularit&#233;s&lt;/b&gt; marche sur la glace, nage dans la glace
+&lt;/div&gt;&lt;br /&gt;&lt;/div&gt;&lt;br /&gt;&lt;h3 class=&quot;separator&quot;&gt; &lt;a class=&quot;headeranchor&quot; id=&quot;_4&quot; href=&quot;#_4&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;&#201;l&#233;mentaire de la glace noble&lt;div style=&quot;float:right;&quot;&gt;FP 9&lt;/div&gt;&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Bestiaire 2, p.125&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 6 400
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Ext&#233;rieur.html&quot; title=&quot;Ext&#233;rieur&quot;&gt;Ext&#233;rieur&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Air.html&quot; title=&quot;Air (sous-type)&quot;&gt;Air&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Eau.html&quot; title=&quot;Eau (sous-type)&quot;&gt;Eau&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-&#201;l&#233;mentaire.html&quot; title=&quot;&#201;l&#233;mentaire (sous-type)&quot;&gt;&#233;l&#233;mentaire&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Extraplanaire.html&quot; title=&quot;Extraplanaire (sous-type)&quot;&gt;extraplanaire&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Froid.html&quot; title=&quot;Froid (sous-type)&quot;&gt;froid&lt;/a&gt;) de taille TG, N
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +8 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Capacit&#233;s-Sp&#233;ciales.html#VISIONDANSLENOIR&quot; title=&quot;vision dans le noir&quot;&gt;vision dans le noir&lt;/a&gt; 18 m (12 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), vision malgr&#233; la neige ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +16
+&lt;/div&gt;
+&lt;div class=&quot;box&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 23, contact 13, pris au d&#233;pourvu 18 (Dex +4, esquive +1, naturelle +10, taille -2)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 123 (13d10+52)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +14, &lt;b&gt;Vig&lt;/b&gt; +12, &lt;b&gt;Vol&lt;/b&gt; +4
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Immunit&#233;s&lt;/b&gt; froid, &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-&#201;l&#233;mentaire.html&quot; title=&quot;&#201;l&#233;mentaire (sous-type)&quot;&gt;traits des &#233;l&#233;mentaires&lt;/a&gt; ; &lt;b&gt;RD&lt;/b&gt; 10/—
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Faiblesses&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vuln&#233;rabilit&#233;s-(Capacit&#233;).html&quot; title=&quot;Vuln&#233;rabilit&#233;s (Ext ou Sur)&quot;&gt;vuln&#233;rabilit&#233;&lt;/a&gt; au feu
+&lt;/div&gt;
+&lt;div class=&quot;box&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 6 m (4 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), creusement (glace et neige seulement) 6 m (4 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), nage 18 m (12 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; 2 coups, +20 (2d10+9 plus 2d6 froid)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Espace&lt;/b&gt; 4,50 m (3 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) ; &lt;b&gt;Allonge&lt;/b&gt; 4,50 m (3 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaques sp&#233;ciales&lt;/b&gt; froid engourdissant (DD 20)
+&lt;/div&gt;
+&lt;div class=&quot;box&quot;&gt;Statistiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 28, &lt;b&gt;Dex&lt;/b&gt; 18, &lt;b&gt;Con&lt;/b&gt; 19, &lt;b&gt;Int&lt;/b&gt; 8, &lt;b&gt;Sag&lt;/b&gt; 11, &lt;b&gt;Cha&lt;/b&gt; 11
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +13 ; &lt;b&gt;BMO&lt;/b&gt; +24 ; &lt;b&gt;DMD&lt;/b&gt; 39 (&lt;a class=&quot;pagelink&quot; href=&quot;Croc-En-Jambe.html&quot; title=&quot;croc-en-jambe&quot;&gt;croc-en-jambe&lt;/a&gt; impossible)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Attaque-En-Puissance.html&quot; title=&quot;Attaque en puissance&quot;&gt;Attaque en puissance&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Attaques-R&#233;flexes.html&quot; title=&quot;Attaques r&#233;flexes&quot;&gt;Attaques r&#233;flexes&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Encha&#238;nement.html&quot; title=&quot;Encha&#238;nement&quot;&gt;Encha&#238;nement&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Esquive.html&quot; title=&quot;Esquive&quot;&gt;Esquive&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Frappe-D&#233;cisive.html&quot; title=&quot;Frappe d&#233;cisive&quot;&gt;Frappe d&#233;cisive&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;R&#233;flexes-Surhumains.html&quot; title=&quot;R&#233;flexes surhumains&quot;&gt;R&#233;flexes surhumains&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Science-De-Linitiative.html&quot; title=&quot;Science de l&amp;#39;initiative&quot;&gt;Science de l’initiative&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Connaissances.html&quot; title=&quot;Connaissances&quot;&gt;Connaissances&lt;/a&gt; (plans) +15, &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; +12, &lt;a class=&quot;pagelink&quot; href=&quot;&#201;vasion.html&quot; title=&quot;&#201;vasion&quot;&gt;&#201;vasion&lt;/a&gt; +20, &lt;a class=&quot;pagelink&quot; href=&quot;Intimidation.html&quot; title=&quot;Intimidation&quot;&gt;Intimidation&lt;/a&gt; +16, &lt;a class=&quot;pagelink&quot; href=&quot;Natation.html&quot; title=&quot;Natation&quot;&gt;Natation&lt;/a&gt; +17, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +16
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Particularit&#233;s&lt;/b&gt; marche sur la glace, nage dans la glace
+&lt;/div&gt;&lt;br /&gt;&lt;/div&gt;
+&lt;h3 class=&quot;separator&quot;&gt; &lt;a class=&quot;headeranchor&quot; id=&quot;_5&quot; href=&quot;#_5&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Seigneur &#201;l&#233;mentaire de la glace&lt;div style=&quot;float:right;&quot;&gt;FP 11&lt;/div&gt;&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Bestiaire 2, p.125&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 12 800
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Ext&#233;rieur.html&quot; title=&quot;Ext&#233;rieur&quot;&gt;Ext&#233;rieur&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Air.html&quot; title=&quot;Air (sous-type)&quot;&gt;Air&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Eau.html&quot; title=&quot;Eau (sous-type)&quot;&gt;Eau&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-&#201;l&#233;mentaire.html&quot; title=&quot;&#201;l&#233;mentaire (sous-type)&quot;&gt;&#233;l&#233;mentaire&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Extraplanaire.html&quot; title=&quot;Extraplanaire (sous-type)&quot;&gt;extraplanaire&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Froid.html&quot; title=&quot;Froid (sous-type)&quot;&gt;froid&lt;/a&gt;) de taille TG, N
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +9 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Capacit&#233;s-Sp&#233;ciales.html#VISIONDANSLENOIR&quot; title=&quot;vision dans le noir&quot;&gt;vision dans le noir&lt;/a&gt; 18 m (12 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), vision malgr&#233; la neige ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +19
+&lt;/div&gt;
+&lt;div class=&quot;box&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 24, contact 14, pris au d&#233;pourvu 18 (Dex +5, esquive +1, naturelle +10, taille -2)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 152 (16d10+64)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +17, &lt;b&gt;Vig&lt;/b&gt; +14, &lt;b&gt;Vol&lt;/b&gt; +5
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Immunit&#233;s&lt;/b&gt; froid, &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-&#201;l&#233;mentaire.html&quot; title=&quot;&#201;l&#233;mentaire (sous-type)&quot;&gt;traits des &#233;l&#233;mentaires&lt;/a&gt; ; &lt;b&gt;RD&lt;/b&gt; 10/—
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Faiblesses&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vuln&#233;rabilit&#233;s-(Capacit&#233;).html&quot; title=&quot;Vuln&#233;rabilit&#233;s (Ext ou Sur)&quot;&gt;vuln&#233;rabilit&#233;&lt;/a&gt; au feu
+&lt;/div&gt;
+&lt;div class=&quot;box&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 6 m (4 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), creusement (glace et neige seulement) 6 m (4 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), nage 18 m (12 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; 2 coups, +24 (2d10+10/19-20 plus 2d8 froid)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Espace&lt;/b&gt; 4,50 m (3 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) ; &lt;b&gt;Allonge&lt;/b&gt; 4,50 m (3 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaques sp&#233;ciales&lt;/b&gt; froid engourdissant (DD 22)
+&lt;/div&gt;
+&lt;div class=&quot;box&quot;&gt;Statistiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 30, &lt;b&gt;Dex&lt;/b&gt; 20, &lt;b&gt;Con&lt;/b&gt; 19, &lt;b&gt;Int&lt;/b&gt; 10, &lt;b&gt;Sag&lt;/b&gt; 11, &lt;b&gt;Cha&lt;/b&gt; 11
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +16 ; &lt;b&gt;BMO&lt;/b&gt; +28 ; &lt;b&gt;DMD&lt;/b&gt; 44 (&lt;a class=&quot;pagelink&quot; href=&quot;Croc-En-Jambe.html&quot; title=&quot;croc-en-jambe&quot;&gt;croc-en-jambe&lt;/a&gt; impossible)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Attaque-En-Puissance.html&quot; title=&quot;Attaque en puissance&quot;&gt;Attaque en puissance&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Attaques-R&#233;flexes.html&quot; title=&quot;Attaques r&#233;flexes&quot;&gt;Attaques r&#233;flexes&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Encha&#238;nement.html&quot; title=&quot;Encha&#238;nement&quot;&gt;Encha&#238;nement&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Esquive.html&quot; title=&quot;Esquive&quot;&gt;Esquive&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Frappe-D&#233;cisive.html&quot; title=&quot;Frappe d&#233;cisive&quot;&gt;Frappe d&#233;cisive&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;R&#233;flexes-Surhumains.html&quot; title=&quot;R&#233;flexes surhumains&quot;&gt;R&#233;flexes surhumains&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Science-De-Linitiative.html&quot; title=&quot;Science de l&amp;#39;initiative&quot;&gt;Science de l’initiative&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Science-Du-Critique.html&quot; title=&quot;Science du critique&quot;&gt;Science du critique&lt;/a&gt; (coup)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Connaissances.html&quot; title=&quot;Connaissances&quot;&gt;Connaissances&lt;/a&gt; (plans) +19, &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; +16, &lt;a class=&quot;pagelink&quot; href=&quot;&#201;vasion.html&quot; title=&quot;&#201;vasion&quot;&gt;&#201;vasion&lt;/a&gt; +24, &lt;a class=&quot;pagelink&quot; href=&quot;Intimidation.html&quot; title=&quot;Intimidation&quot;&gt;Intimidation&lt;/a&gt; +19, &lt;a class=&quot;pagelink&quot; href=&quot;Natation.html&quot; title=&quot;Natation&quot;&gt;Natation&lt;/a&gt; +37, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +19
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Particularit&#233;s&lt;/b&gt; marche sur la glace, nage dans la glace
+&lt;/div&gt;&lt;br /&gt;&lt;/div&gt;
+&lt;/td&gt;&lt;td&gt;&lt;div&gt;&lt;i&gt;Au-dessus de la taille, cette cr&#233;ature de glace ressemble &#224; un humano&#239;de, mais plus bas, son corps se fond en une longue queue sinueuse comme un serpent.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Les &#233;l&#233;mentaires de la glace sont des cr&#233;atures constitu&#233;es de
+neige et de glace anim&#233;es. Ils se forment principalement dans
+les recoins les plus froids du plan de l’Eau et pr&#232;s de sa fronti&#232;re
+avec le plan de l’Air, o&#249; des icebergs g&#233;ants sont entra&#238;n&#233;s vers
+des chutes d’eau aussi hautes que des mondes entiers et plongent
+dans le vide. L’apparence exacte des &#233;l&#233;mentaires de la glace varie
+d’un individu &#224; un autre.
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Élémentaire de la glace|}
+{s:pucem|Extérieur|Aquatique|Extraplanaire}
+{s:BDTexte|''Source : Bestiaire 2, p.124''}
+{s:BDTexte|'''Langues''' aquatique}
+(((Écologie)))
+{s:BDTexte|'''Environnement''' terre ferme ou milieu aquatique (plan de l’Eau)}
+{s:BDTexte|'''Organisation sociale''' solitaire, couple ou bande (3–8)}
+{s:BDTexte|'''Trésor''' aucun}
+(((Pouvoirs spéciaux)))
+{s:BDTexte|'''Froid engourdissant (Sur).''' Lorsqu’un élémentaire de la glace inflige des dégâts de froid à une créature, celle-ci doit réussir un jet de Vigueur pour ne pas être [[chancelant|chancelante]] pendant 1 round. Le DD du jet de sauvegarde est indiqué dans le profil de l’élémentaire et dépend de la Constitution.}
+{s:BDTexte|'''Marche sur la glace (Ext).''' Cette capacité fonctionne comme le sort de ''[[pattes daraignée|pattes d’araignée]]'' mais seulement sur les surfaces gelées. L’élémentaire peut se déplacer sur les surfaces gelées sans aucune pénalité et il peut charger ou courir sur la glace sans devoir effectuer de test d’[[Acrobaties]].}
+{s:BDTexte|'''Nage dans la glace (Sur).''' Un élémentaire de la glace qui se déplace par creusement peut traverser la glace non magique et la neige aussi facilement qu’un poisson nage dans l’eau. Il ne laisse aucune trace de son passage, ni tunnel derrière lui, pas plus qu’il ne crée de vibrations. Un sort de ''[[contrôle de leau|contrôle de l’eau]]'' lancé sur une zone contenant un élémentaire de la glace le projette en arrière sur 9 mètres (6 {s:c}) et l’[[étourdi|étourdit]] pendant 1 round à moins qu’il ne réussisse un jet de Vigueur contre un DD de 15.}
+{s:BDTexte|'''Vision malgré la neige (Ext).''' Un élémentaire de la glace peut voir parfaitement bien même lorsqu’il neige. Il ne subit aucune pénalité aux tests de [[Perception]] à cause de la neige.}
+
+</div>
+==== ====
+<div class="BD">
+{s:BDTitre|Élémentaire de la glace de taille P|FP 1}
+{s:pucem|Extérieur|Aquatique|Extraplanaire}
+{s:BDTexte|''Source : Bestiaire 2, p.124''}
+{s:BDTexte|'''PX''' 400}
+{s:BDTexte|[[type extérieur|Extérieur]] ([[sous-type Air|Air]], [[sous-type Eau|Eau]], [[sous-type élémentaire|élémentaire]], [[sous-type extraplanaire|extraplanaire]], [[sous-type Froid|froid]]) de taille P, N}
+{s:BDTexte|'''Init''' -1 ; '''Sens''' [[vision dans le noir]] 18 m (12 {s:c}), vision malgré la neige ; [[Perception]] +5}
+(((Défense)))
+{s:BDTexte|'''CA''' 16, contact 10, pris au dépourvu 16 (Dex -1, naturelle +6, taille +1)}
+{s:BDTexte|'''pv''' 13 (2d10+2)}
+{s:BDTexte|'''Réf''' +2, '''Vig''' +4, '''Vol''' +0}
+{s:BDTexte|'''Immunités''' froid, [[sous-type élémentaire|traits des élémentaires]]}
+{s:BDTexte|'''Faiblesses''' [[vulnérabilités (capacité)|vulnérabilité]] au feu}
+(((Attaque)))
+{s:BDTexte|'''VD''' 6 m (4 {s:c}), creusement (glace et neige seulement) 6 m (4 {s:c}), nage 18 m (12 {s:c})}
+{s:BDTexte|'''Corps à corps''' coup, +4 (1d4+1 plus 1d3 froid)}
+{s:BDTexte|'''Attaques spéciales''' froid engourdissant (DD 12)}
+(((Statistiques)))
+{s:BDTexte|'''For''' 12, '''Dex''' 8, '''Con''' 13, '''Int''' 4, '''Sag''' 11, '''Cha''' 11}
+{s:BDTexte|'''BBA''' +2 ; '''BMO''' +2 ; '''DMD''' 11 ([[croc-en-jambe]] impossible)}
+{s:BDTexte|'''Dons''' [[Attaque en puissance]]}
+{s:BDTexte|'''Compétences''' [[Connaissances]] (plans) +2, [[Discrétion]] +8, [[Natation]] +9, [[Perception]] +5}
+{s:BDTexte|'''Particularités''' marche sur la glace, nage dans la glace}
+
+</div>
+==== ====
+<div class="BD">
+{s:BDTitre|Élémentaire de la glace de taille M|FP 3}
+{s:pucem|Extérieur|Aquatique|Extraplanaire}
+{s:BDTexte|''Source : Bestiaire 2, p.124''}
+{s:BDTexte|'''PX''' 800}
+{s:BDTexte|[[type extérieur|Extérieur]] ([[sous-type Air|Air]], [[sous-type Eau|Eau]], [[sous-type élémentaire|élémentaire]], [[sous-type extraplanaire|extraplanaire]], [[sous-type Froid|froid]]) de taille M, N}
+{s:BDTexte|'''Init''' +0 ; '''Sens''' [[vision dans le noir]] 18 m (12 {s:c}), vision malgré la neige ; [[Perception]] +7}
+(((Défense)))
+{s:BDTexte|'''CA''' 16, contact 10, pris au dépourvu 16 (naturelle +6)}
+{s:BDTexte|'''pv''' 30 (4d10+8)}
+{s:BDTexte|'''Réf''' +4, '''Vig''' +6, '''Vol''' +1}
+{s:BDTexte|'''Immunités''' froid, [[sous-type élémentaire|traits des élémentaires]]}
+{s:BDTexte|'''Faiblesses''' [[vulnérabilités (capacité)|vulnérabilité]] au feu}
+(((Attaque)))
+{s:BDTexte|'''VD''' 6 m (4 {s:c}), creusement (glace et neige seulement) 6 m (4 {s:c}), nage 18 m (12 {s:c})}
+{s:BDTexte|'''Corps à corps''' coup, +7 (1d6+4 plus 1d4 froid)}
+{s:BDTexte|'''Attaques spéciales''' froid engourdissant (DD 14)}
+(((Statistiques)))
+{s:BDTexte|'''For''' 16, '''Dex''' 10, '''Con''' 15, '''Int''' 4, '''Sag''' 11, '''Cha''' 11}
+{s:BDTexte|'''BBA''' +4 ; '''BMO''' +7 ; '''DMD''' 17 ([[croc-en-jambe]] impossible)}
+{s:BDTexte|'''Dons''' [[Attaque en puissance]], [[Enchaînement]]}
+{s:BDTexte|'''Compétences''' [[Connaissances]] (plans) +4, [[Discrétion]] +7, [[Natation]] +11, [[Perception]] +7}
+{s:BDTexte|'''Particularités''' marche sur la glace, nage dans la glace}
+
+</div>
+==== ====
+<div class="BD">
+{s:BDTitre|Élémentaire de la glace de taille G|FP 5}
+{s:pucem|Extérieur|Aquatique|Extraplanaire}
+{s:BDTexte|''Source : Bestiaire 2, p.124''}
+{s:BDTexte|'''PX''' 1 600}
+{s:BDTexte|[[type extérieur|Extérieur]] ([[sous-type Air|Air]], [[sous-type Eau|Eau]], [[sous-type élémentaire|élémentaire]], [[sous-type extraplanaire|extraplanaire]], [[sous-type Froid|froid]]) de taille G, N}
+{s:BDTexte|'''Init''' +5 ; '''Sens''' [[vision dans le noir]] 18 m (12 {s:c}), vision malgré la neige ; [[Perception]] +11}
+(((Défense)))
+{s:BDTexte|'''CA''' 17, contact 10, pris au dépourvu 16 (Dex +1, naturelle +7, taille -1)}
+{s:BDTexte|'''pv''' 68 (8d10+24)}
+{s:BDTexte|'''Réf''' +7, '''Vig''' +9, '''Vol''' +2}
+{s:BDTexte|'''Immunités''' froid, [[sous-type élémentaire|traits des élémentaires]] ; '''RD''' 5/—}
+{s:BDTexte|'''Faiblesses''' [[vulnérabilités (capacité)|vulnérabilité]] au feu}
+(((Attaque)))
+{s:BDTexte|'''VD''' 6 m (4 {s:c}), creusement (glace et neige seulement) 6 m (4 {s:c}), nage 18 m (12 {s:c})}
+{s:BDTexte|'''Corps à corps''' 2 coups, +12 (1d8+5 plus 1d6 froid)}
+{s:BDTexte|'''Espace''' 3 m (2 {s:c}) ; '''Allonge''' 3 m (2 {s:c})}
+{s:BDTexte|'''Attaques spéciales''' froid engourdissant (DD 17)}
+(((Statistiques)))
+{s:BDTexte|'''For''' 20, '''Dex''' 12, '''Con''' 17, '''Int''' 6, '''Sag''' 11, '''Cha''' 11}
+{s:BDTexte|'''BBA''' +8 ; '''BMO''' +14 ; '''DMD''' 25 ([[croc-en-jambe]] impossible)}
+{s:BDTexte|'''Dons''' [[Attaque en puissance]], [[Enchaînement]], [[Science de linitiative|Science de l’initiative]], [[Succession denchaînements|Succession d’enchaînements]]}
+{s:BDTexte|'''Compétences''' [[Connaissances]] (plans) +9, [[Discrétion]] +8, [[Intimidation]] +11, [[Natation]] +13, [[Perception]] +11}
+{s:BDTexte|'''Particularités''' marche sur la glace, nage dans la glace}
+
+</div>
+==== ====
+<div class="BD">
+{s:BDTitre|Élémentaire de la glace de taille TG|FP 7}
+{s:pucem|Extérieur|Aquatique|Extraplanaire}
+{s:BDTexte|''Source : Bestiaire 2, p.124''}
+{s:BDTexte|'''PX''' 3 200}
+{s:BDTexte|[[type extérieur|Extérieur]] ([[sous-type Air|Air]], [[sous-type Eau|Eau]], [[sous-type élémentaire|élémentaire]], [[sous-type extraplanaire|extraplanaire]], [[sous-type Froid|froid]]) de taille TG, N}
+{s:BDTexte|'''Init''' +7 ; '''Sens''' [[vision dans le noir]] 18 m (12 {s:c}), vision malgré la neige ; [[Perception]] +13}
+(((Défense)))
+{s:BDTexte|'''CA''' 20, contact 12, pris au dépourvu 16 (Dex +3, esquive +1, naturelle +8, taille -2)}
+{s:BDTexte|'''pv''' 95 (10d10+40)}
+{s:BDTexte|'''Réf''' +10, '''Vig''' +10, '''Vol''' +3}
+{s:BDTexte|'''Immunités''' froid, [[sous-type élémentaire|traits des élémentaires]] ; '''RD''' 5/—}
+{s:BDTexte|'''Faiblesses''' [[vulnérabilités (capacité)|vulnérabilité]] au feu}
+(((Attaque)))
+{s:BDTexte|'''VD''' 6 m (4 {s:c}), creusement (glace et neige seulement) 6 m (4 {s:c}), nage 18 m (12 {s:c})}
+{s:BDTexte|'''Corps à corps''' 2 coups, +15 (2d6+7 plus 1d8 froid)}
+{s:BDTexte|'''Espace''' 4,50 m (3 {s:c}) ; '''Allonge''' 4,50 m (3 {s:c})}
+{s:BDTexte|'''Attaques spéciales''' froid engourdissant (DD 19)}
+(((Statistiques)))
+{s:BDTexte|'''For''' 24, '''Dex''' 16, '''Con''' 19, '''Int''' 6, '''Sag''' 11, '''Cha''' 11}
+{s:BDTexte|'''BBA''' +10 ; '''BMO''' +19 ; '''DMD''' 33 ([[croc-en-jambe]] impossible)}
+{s:BDTexte|'''Dons''' [[Attaque en puissance]], [[Enchaînement]], [[Esquive]], [[Science de linitiative|Science de l’initiative]], [[Succession denchaînements|Succession d’enchaînements]]}
+{s:BDTexte|'''Compétences''' [[Connaissances]] (plans) +11, [[Discrétion]] +8, [[Intimidation]] +13, [[Natation]] +15, [[Perception]] +13}
+{s:BDTexte|'''Particularités''' marche sur la glace, nage dans la glace}
+
+</div>
+
+==== ====
+<div class="BD">
+{s:BDTitre|Élémentaire de la glace noble|FP 9}
+{s:pucem|Extérieur|Aquatique|Extraplanaire}
+{s:BDTexte|''Source : Bestiaire 2, p.125''}
+{s:BDTexte|'''PX''' 6 400}
+{s:BDTexte|[[type extérieur|Extérieur]] ([[sous-type Air|Air]], [[sous-type Eau|Eau]], [[sous-type élémentaire|élémentaire]], [[sous-type extraplanaire|extraplanaire]], [[sous-type Froid|froid]]) de taille TG, N}
+{s:BDTexte|'''Init''' +8 ; '''Sens''' [[vision dans le noir]] 18 m (12 {s:c}), vision malgré la neige ; [[Perception]] +16}
+(((Défense)))
+{s:BDTexte|'''CA''' 23, contact 13, pris au dépourvu 18 (Dex +4, esquive +1, naturelle +10, taille -2)}
+{s:BDTexte|'''pv''' 123 (13d10+52)}
+{s:BDTexte|'''Réf''' +14, '''Vig''' +12, '''Vol''' +4}
+{s:BDTexte|'''Immunités''' froid, [[sous-type élémentaire|traits des élémentaires]] ; '''RD''' 10/—}
+{s:BDTexte|'''Faiblesses''' [[vulnérabilités (capacité)|vulnérabilité]] au feu}
+(((Attaque)))
+{s:BDTexte|'''VD''' 6 m (4 {s:c}), creusement (glace et neige seulement) 6 m (4 {s:c}), nage 18 m (12 {s:c})}
+{s:BDTexte|'''Corps à corps''' 2 coups, +20 (2d10+9 plus 2d6 froid)}
+{s:BDTexte|'''Espace''' 4,50 m (3 {s:c}) ; '''Allonge''' 4,50 m (3 {s:c})}
+{s:BDTexte|'''Attaques spéciales''' froid engourdissant (DD 20)}
+(((Statistiques)))
+{s:BDTexte|'''For''' 28, '''Dex''' 18, '''Con''' 19, '''Int''' 8, '''Sag''' 11, '''Cha''' 11}
+{s:BDTexte|'''BBA''' +13 ; '''BMO''' +24 ; '''DMD''' 39 ([[croc-en-jambe]] impossible)}
+{s:BDTexte|'''Dons''' [[Attaque en puissance]], [[Attaques réflexes]], [[Enchaînement]], [[Esquive]], [[Frappe décisive]], [[Réflexes surhumains]], [[Science de linitiative|Science de l’initiative]]}
+{s:BDTexte|'''Compétences''' [[Connaissances]] (plans) +15, [[Discrétion]] +12, [[Évasion]] +20, [[Intimidation]] +16, [[Natation]] +17, [[Perception]] +16}
+{s:BDTexte|'''Particularités''' marche sur la glace, nage dans la glace}
+
+</div>
+==== ====
+<div class="BD">
+{s:BDTitre|Seigneur Élémentaire de la glace|FP 11}
+{s:pucem|Extérieur|Aquatique|Extraplanaire}
+{s:BDTexte|''Source : Bestiaire 2, p.125''}
+{s:BDTexte|'''PX''' 12 800}
+{s:BDTexte|[[type extérieur|Extérieur]] ([[sous-type Air|Air]], [[sous-type Eau|Eau]], [[sous-type élémentaire|élémentaire]], [[sous-type extraplanaire|extraplanaire]], [[sous-type Froid|froid]]) de taille TG, N}
+{s:BDTexte|'''Init''' +9 ; '''Sens''' [[vision dans le noir]] 18 m (12 {s:c}), vision malgré la neige ; [[Perception]] +19}
+(((Défense)))
+{s:BDTexte|'''CA''' 24, contact 14, pris au dépourvu 18 (Dex +5, esquive +1, naturelle +10, taille -2)}
+{s:BDTexte|'''pv''' 152 (16d10+64)}
+{s:BDTexte|'''Réf''' +17, '''Vig''' +14, '''Vol''' +5}
+{s:BDTexte|'''Immunités''' froid, [[sous-type élémentaire|traits des élémentaires]] ; '''RD''' 10/—}
+{s:BDTexte|'''Faiblesses''' [[vulnérabilités (capacité)|vulnérabilité]] au feu}
+(((Attaque)))
+{s:BDTexte|'''VD''' 6 m (4 {s:c}), creusement (glace et neige seulement) 6 m (4 {s:c}), nage 18 m (12 {s:c})}
+{s:BDTexte|'''Corps à corps''' 2 coups, +24 (2d10+10/19-20 plus 2d8 froid)}
+{s:BDTexte|'''Espace''' 4,50 m (3 {s:c}) ; '''Allonge''' 4,50 m (3 {s:c})}
+{s:BDTexte|'''Attaques spéciales''' froid engourdissant (DD 22)}
+(((Statistiques)))
+{s:BDTexte|'''For''' 30, '''Dex''' 20, '''Con''' 19, '''Int''' 10, '''Sag''' 11, '''Cha''' 11}
+{s:BDTexte|'''BBA''' +16 ; '''BMO''' +28 ; '''DMD''' 44 ([[croc-en-jambe]] impossible)}
+{s:BDTexte|'''Dons''' [[Attaque en puissance]], [[Attaques réflexes]], [[Enchaînement]], [[Esquive]], [[Frappe décisive]], [[Réflexes surhumains]], [[Science de linitiative|Science de l’initiative]], [[Science du critique]] (coup)}
+{s:BDTexte|'''Compétences''' [[Connaissances]] (plans) +19, [[Discrétion]] +16, [[Évasion]] +24, [[Intimidation]] +19, [[Natation]] +37, [[Perception]] +19}
+{s:BDTexte|'''Particularités''' marche sur la glace, nage dans la glace}
+
+</div>
+</td><td><div>''Au-dessus de la taille, cette créature de glace ressemble à un humanoïde, mais plus bas, son corps se fond en une longue queue sinueuse comme un serpent.''
+
+Les élémentaires de la glace sont des créatures constituées de
+neige et de glace animées. Ils se forment principalement dans
+les recoins les plus froids du plan de l’Eau et près de sa frontière
+avec le plan de l’Air, où des icebergs géants sont entraînés vers
+des chutes d’eau aussi hautes que des mondes entiers et plongent
+dans le vide. L’apparence exacte des élémentaires de la glace varie
+d’un individu à un autre.
+</div></td></tr></table>
+]]></raw>
+  <fullName>Pathfinder-RPG.Élémentaire de la glace</fullName>
+</wikiPage>

@@ -1,0 +1,227 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Toile mortelle</title>
+  <categories><category>Pathfinder-RPG.Bestiaire 3</category><category>Pathfinder-RPG.Monstre</category><category>Pathfinder-RPG.Règles officielles</category></categories>
+  <lastModified>2014-01-19 21:38:09Z</lastModified>
+  <version>7</version>
+  <inLinks><link>Pathfinder-RPG.Glossaire des monstres</link><link>Pathfinder-RPG.Liste de monstres par FP</link><link>Pathfinder-RPG.Liste de monstres par milieu naturel</link><link>Pathfinder-RPG.Liste de monstres par type</link><link>Pathfinder-RPG.Monstres</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.type Mort-vivant</link><link>Pathfinder-RPG.vision dans le noir</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Traits des morts-vivants</link><link>Pathfinder-RPG.Toile</link><link>Pathfinder-RPG.DD</link><link>Pathfinder-RPG.croc-en-jambe</link><link>Pathfinder-RPG.Attaque en puissance</link><link>Pathfinder-RPG.Coup fabuleux</link><link>Pathfinder-RPG.Enchaînement</link><link>Pathfinder-RPG.Frappe décisive</link><link>Pathfinder-RPG.Science de la bousculade</link><link>Pathfinder-RPG.Science de linitiative</link><link>Pathfinder-RPG.Discrétion</link><link>Pathfinder-RPG.Escalade</link><link>Pathfinder-RPG.Compression (capacité)</link><link>Pathfinder-RPG.round</link><link>Pathfinder-RPG.Vigueur</link><link>Pathfinder-RPG.jet de sauvegarde</link><link>Pathfinder-RPG.Charisme</link><link>Pathfinder-RPG.Force</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Toile mortelle&lt;div style=&quot;float:right;&quot;&gt;FP 6&lt;/div&gt;&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Bestiaire 3 p.260&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 2 400
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Mort-Vivant.html&quot; title=&quot;Mort-vivant&quot;&gt;Mort-vivant&lt;/a&gt; de taille G, N
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +6 ; &lt;b&gt;Sens&lt;/b&gt;  &lt;a class=&quot;pagelink&quot; href=&quot;Capacit&#233;s-Sp&#233;ciales.html#VISIONDANSLENOIR&quot; title=&quot;vision dans le noir&quot;&gt;vision dans le noir&lt;/a&gt; 18 m (12 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +15
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Aura&lt;/b&gt; infestation (1,50 m (1 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), 1d6 plus poison)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 19, contact 11, pris au d&#233;pourvu 17 (Dex +2, naturelle +8, taille -1)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 71 (11d8+22)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +5, &lt;b&gt;Vig&lt;/b&gt; +5, &lt;b&gt;Vol&lt;/b&gt; +8
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Immunit&#233;s&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Traits-Des-Morts-Vivants-(Capacit&#233;).html&quot; title=&quot;Traits des morts-vivants&quot;&gt;traits des morts-vivants&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 9 m (6 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), escalade 6 m (4 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; morsure, +15 (2d8+12)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Espace&lt;/b&gt; 3 m (2 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) ; &lt;b&gt;Allonge&lt;/b&gt; 3 m (2 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaque sp&#233;ciale&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Toile-(Capacit&#233;).html&quot; title=&quot;Toile&quot;&gt;toile&lt;/a&gt; (&#224; distance +9, &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DEGREDEDIFFICULTE&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; 15, 11 pv)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 26, &lt;b&gt;Dex&lt;/b&gt; 14, &lt;b&gt;Con&lt;/b&gt; _, &lt;b&gt;Int&lt;/b&gt; 7, &lt;b&gt;Sag&lt;/b&gt; 13, &lt;b&gt;Cha&lt;/b&gt; 15
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +8 ; &lt;b&gt;BMO&lt;/b&gt; +17 ; &lt;b&gt;DMD&lt;/b&gt; 29 (41 contre &lt;a class=&quot;pagelink&quot; href=&quot;Croc-En-Jambe.html&quot; title=&quot;croc-en-jambe&quot;&gt;croc-en-jambe&lt;/a&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Attaque-En-Puissance.html&quot; title=&quot;Attaque en puissance&quot;&gt;Attaque en puissance&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Coup-Fabuleux.html&quot; title=&quot;Coup fabuleux&quot;&gt;Coup fabuleux&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Encha&#238;nement.html&quot; title=&quot;Encha&#238;nement&quot;&gt;Encha&#238;nement&lt;/a&gt;,
+&lt;a class=&quot;pagelink&quot; href=&quot;Frappe-D&#233;cisive.html&quot; title=&quot;Frappe d&#233;cisive&quot;&gt;Frappe d&#233;cisive&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Science-De-La-Bousculade.html&quot; title=&quot;Science de la bousculade&quot;&gt;Science de la bousculade&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Science-De-Linitiative.html&quot; title=&quot;Science de l&amp;#39;initiative&quot;&gt;Science de l’initiative&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; +16 , &lt;a class=&quot;pagelink&quot; href=&quot;Escalade.html&quot; title=&quot;Escalade&quot;&gt;Escalade&lt;/a&gt; +16, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +15
+&lt;/div&gt; 
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Modificateurs raciaux&lt;/b&gt; +4 en &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Particularit&#233;s&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Compression-(Capacit&#233;).html&quot; title=&quot;Compression (Ext)&quot;&gt;Compression&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; tous
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation sociale&lt;/b&gt; solitaire, couple ou nid (3-8)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; fortuit
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Pouvoirs sp&#233;ciaux&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Infestation (Sur).&lt;/b&gt; Une toile mortelle est constamment
+infest&#233;e d’araign&#233;es venimeuses qui nichent dans son
+exosquelette, dans un rayon de 1,50 m&#232;tre. Toutes les
+cr&#233;atures situ&#233;es dans la zone infest&#233;e re&#231;oivent 1d6 points
+de d&#233;g&#226;ts &#224; la fin de chaque &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#ROUND&quot; title=&quot;round&quot;&gt;round&lt;/a&gt; pass&#233; dedans. Une
+cr&#233;ature recevant ces d&#233;g&#226;ts doit r&#233;ussir un jet de &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;Vigueur&quot;&gt;Vigueur&lt;/a&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DEGREDEDIFFICULTE&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; 17 ou &#234;tre naus&#233;euse pendant 1 &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#ROUND&quot; title=&quot;round&quot;&gt;round&lt;/a&gt;. De plus,
+les cr&#233;atures bless&#233;es par l’infestation sont &#233;galement
+empoisonn&#233;es. Toute attaque &#224; zone d’effet infligeant
+10 points de d&#233;g&#226;ts ou plus &#224; une toile mortelle d&#233;truit
+l’infestation d’araign&#233;es, annulant son aura pendant 3
+&lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#ROUND&quot; title=&quot;round&quot;&gt;round&lt;/a&gt;s, apr&#232;s quoi, une nouvelle nu&#233;e d’araign&#233;es sort
+du corps mort-vivant pour renouveler l’infestation. Le &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DEGREDEDIFFICULTE&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt;
+du &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;jet de sauvegarde&quot;&gt;jet de sauvegarde&lt;/a&gt; est bas&#233; sur le &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#CHARISME&quot; title=&quot;Le Charisme&quot;&gt;Charisme&lt;/a&gt;.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Poison (Ext).&lt;/b&gt; Infestation — blessure ; &lt;i&gt;JdS&lt;/i&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;Vigueur&quot;&gt;Vigueur&lt;/a&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DEGREDEDIFFICULTE&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; 17 ;
+&lt;i&gt;fr&#233;quence&lt;/i&gt; 1/&lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#ROUND&quot; title=&quot;round&quot;&gt;round&lt;/a&gt; pendant 6 &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#ROUND&quot; title=&quot;round&quot;&gt;round&lt;/a&gt;s ; &lt;i&gt;effets&lt;/i&gt; 1d4 d&#233;g&#226;ts de
+&lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#FORCE&quot; title=&quot;La Force&quot;&gt;Force&lt;/a&gt; ; &lt;i&gt;gu&#233;rison&lt;/i&gt; 2 r&#233;ussites cons&#233;cutives. Le &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DEGREDEDIFFICULTE&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; du &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;jet de sauvegarde&quot;&gt;jet de sauvegarde&lt;/a&gt; est bas&#233; sur le &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#CHARISME&quot; title=&quot;Le Charisme&quot;&gt;Charisme&lt;/a&gt;.
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;td&gt;&lt;div&gt;
+&lt;i&gt;Cette enveloppe d’araign&#233;e g&#233;ante anim&#233;e semble remplie de milliers
+d’araign&#233;es vivantes qui en tombent comme des gouttes de sang.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;La toile mortelle est l’exosquelette mort-vivant d’une &#233;norme
+araign&#233;e anim&#233;e gr&#226;ce &#224; la magie n&#233;cromantique la plus ignoble.
+Les sorts &#224; l’origine de cette monstruosit&#233; lui ont attach&#233; des
+milliers d’araign&#233;es normales qui, ensemble, constituent l’esprit
+de la b&#234;te morte-vivante, telle une ruche arachnide. Ces petites
+araign&#233;es vivent &#224; l’int&#233;rieur de l’exosquelette et le dirigent. Elles
+s’agitent autour de la toile mortelle et tissent son linceul de toile.&lt;br /&gt;&lt;br /&gt;L’exosquelette de la toile mortelle est parcouru de fissures
+et de trous qui permettent aux araign&#233;es r&#233;sidentes d’entrer
+et de sortir facilement. M&#234;me si l’exosquelette peut parfois
+atteindre 3 m&#232;tres de long, les plus grosses araign&#233;es que l’on
+trouve &#224; l’int&#233;rieur ne font pas plus de 15 centim&#232;tres. La grande
+diversit&#233; de taille des araign&#233;es vivant &#224; l’int&#233;rieur leur permet
+de d&#233;placer correctement les diff&#233;rentes parties qui composent
+l’exosquelette, donnant &#224; cette &#233;norme carapace une dext&#233;rit&#233;
+et une rapidit&#233; &#233;tonnantes, tout en lui octroyant &#233;galement
+intelligence, perception et pr&#233;sence.&lt;br /&gt;&lt;br /&gt;Ces facult&#233;s font des toiles mortelles des adversaires effrayants
+et pleins de ressources, surtout quand leurs ennemis les
+confondent avec des arachnides monstrueux standards ou des
+morts-vivants d&#233;pourvus d’intelligence. Du fait de leur capacit&#233;
+&#224; se glisser dans les coins &#233;troits, les toiles mortelles se tapissent
+souvent dans toutes sortes de recoins.&lt;br /&gt;&lt;br /&gt;Les toiles mortelles installent leurs repaires dans des endroits
+o&#249; elles peuvent tisser des toiles pour pi&#233;ger les passant comme,
+par exemple, dans les gros arbres, dans les grottes ou dans les
+tunnels. Ces cr&#233;atures ne collectionnent pas vraiment les tr&#233;sors
+mais elles tuent sans distinction pour nourrir les innombrables
+araign&#233;es qu’elles abritent. M&#234;me si les toiles mortelles ne
+s’int&#233;ressent pas aux richesses, il est fort probable que leurs
+toiles contiennent des objets de valeur.&lt;br /&gt;&lt;br /&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Toile mortelle|FP 6}
+{s:pucem|Mort-vivant|Ruines-Donjons|Tempéré}
+{s:BDTexte|''Source : Bestiaire 3 p.260''}
+{s:BDTexte|'''PX''' 2 400}
+{s:BDTexte|[[type Mort-vivant|Mort-vivant]] de taille G, N}
+{s:BDTexte|'''Init''' +6 ; '''Sens'''  [[vision dans le noir]] 18 m (12 {s:c}) ; [[Perception]] +15}
+{s:BDTexte|'''Aura''' infestation (1,50 m (1 {s:c}), 1d6 plus poison)}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 19, contact 11, pris au dépourvu 17 (Dex +2, naturelle +8, taille -1)}
+{s:BDTexte|'''pv''' 71 (11d8+22)}
+{s:BDTexte|'''Réf''' +5, '''Vig''' +5, '''Vol''' +8}
+{s:BDTexte|'''Immunités''' [[traits des morts-vivants]]}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 9 m (6 {s:c}), escalade 6 m (4 {s:c})}
+{s:BDTexte|'''Corps à corps''' morsure, +15 (2d8+12)}
+{s:BDTexte|'''Espace''' 3 m (2 {s:c}) ; '''Allonge''' 3 m (2 {s:c})}
+{s:BDTexte|'''Attaque spéciale''' [[toile]] (à distance +9, [[DD]] 15, 11 pv)}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 26, '''Dex''' 14, '''Con''' _, '''Int''' 7, '''Sag''' 13, '''Cha''' 15}
+{s:BDTexte|'''BBA''' +8 ; '''BMO''' +17 ; '''DMD''' 29 (41 contre [[croc-en-jambe]])}
+{s:BDTexte|'''Dons''' [[Attaque en puissance]], [[Coup fabuleux]], [[Enchaînement]],
+[[Frappe décisive]], [[Science de la bousculade]], [[Science de linitiative|Science de l’initiative]]}
+{s:BDTexte|'''Compétences''' [[Discrétion]] +16 , [[Escalade]] +16, [[Perception]] +15} 
+{s:BDTexte|'''Modificateurs raciaux''' +4 en [[Discrétion]]}
+{s:BDTexte|'''Particularités''' [[Compression (capacité)|Compression]]}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' tous}
+{s:BDTexte|'''Organisation sociale''' solitaire, couple ou nid (3-8)}
+{s:BDTexte|'''Trésor''' fortuit}
+{s:BDSousTitre|Pouvoirs spéciaux}
+{s:BDTexte|'''Infestation (Sur).''' Une toile mortelle est constamment
+infestée d’araignées venimeuses qui nichent dans son
+exosquelette, dans un rayon de 1,50 mètre. Toutes les
+créatures situées dans la zone infestée reçoivent 1d6 points
+de dégâts à la fin de chaque [[round]] passé dedans. Une
+créature recevant ces dégâts doit réussir un jet de [[Vigueur]]
+[[DD]] 17 ou être nauséeuse pendant 1 [[round]]. De plus,
+les créatures blessées par l’infestation sont également
+empoisonnées. Toute attaque à zone d’effet infligeant
+10 points de dégâts ou plus à une toile mortelle détruit
+l’infestation d’araignées, annulant son aura pendant 3
+[[round]]s, après quoi, une nouvelle nuée d’araignées sort
+du corps mort-vivant pour renouveler l’infestation. Le [[DD]]
+du [[jet de sauvegarde]] est basé sur le [[Charisme]].}
+{s:BDTexte|'''Poison (Ext).''' Infestation — blessure ; ''JdS'' [[Vigueur]] [[DD]] 17 ;
+''fréquence'' 1/[[round]] pendant 6 [[round]]s ; ''effets'' 1d4 dégâts de
+[[Force]] ; ''guérison'' 2 réussites consécutives. Le [[DD]] du [[jet de sauvegarde]] est basé sur le [[Charisme]].}
+</div>
+</td><td><div>
+''Cette enveloppe d’araignée géante animée semble remplie de milliers
+d’araignées vivantes qui en tombent comme des gouttes de sang.''
+
+La toile mortelle est l’exosquelette mort-vivant d’une énorme
+araignée animée grâce à la magie nécromantique la plus ignoble.
+Les sorts à l’origine de cette monstruosité lui ont attaché des
+milliers d’araignées normales qui, ensemble, constituent l’esprit
+de la bête morte-vivante, telle une ruche arachnide. Ces petites
+araignées vivent à l’intérieur de l’exosquelette et le dirigent. Elles
+s’agitent autour de la toile mortelle et tissent son linceul de toile.
+
+L’exosquelette de la toile mortelle est parcouru de fissures
+et de trous qui permettent aux araignées résidentes d’entrer
+et de sortir facilement. Même si l’exosquelette peut parfois
+atteindre 3 mètres de long, les plus grosses araignées que l’on
+trouve à l’intérieur ne font pas plus de 15 centimètres. La grande
+diversité de taille des araignées vivant à l’intérieur leur permet
+de déplacer correctement les différentes parties qui composent
+l’exosquelette, donnant à cette énorme carapace une dextérité
+et une rapidité étonnantes, tout en lui octroyant également
+intelligence, perception et présence.
+
+Ces facultés font des toiles mortelles des adversaires effrayants
+et pleins de ressources, surtout quand leurs ennemis les
+confondent avec des arachnides monstrueux standards ou des
+morts-vivants dépourvus d’intelligence. Du fait de leur capacité
+à se glisser dans les coins étroits, les toiles mortelles se tapissent
+souvent dans toutes sortes de recoins.
+
+Les toiles mortelles installent leurs repaires dans des endroits
+où elles peuvent tisser des toiles pour piéger les passant comme,
+par exemple, dans les gros arbres, dans les grottes ou dans les
+tunnels. Ces créatures ne collectionnent pas vraiment les trésors
+mais elles tuent sans distinction pour nourrir les innombrables
+araignées qu’elles abritent. Même si les toiles mortelles ne
+s’intéressent pas aux richesses, il est fort probable que leurs
+toiles contiennent des objets de valeur.
+
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Toile mortelle</fullName>
+</wikiPage>

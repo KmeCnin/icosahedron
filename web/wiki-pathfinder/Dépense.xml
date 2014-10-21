@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Dépense</title>
+  <categories><category>Pathfinder-RPG.Advanced Player Guide</category><category>Pathfinder-RPG.Règles officielles</category><category>Pathfinder-RPG.Sort</category><category>Pathfinder-RPG.Sort magicien 7</category></categories>
+  <lastModified>2012-11-04 21:42:12Z</lastModified>
+  <version>3</version>
+  <inLinks><link>Pathfinder-RPG.Glossaire des sorts</link><link>Pathfinder-RPG.Grimoires</link><link>Pathfinder-RPG.Liste des sorts</link><link>Pathfinder-RPG.Liste des sorts densorceleursmagiciens</link><link>Pathfinder-RPG.protecteurs</link><link>Pathfinder-RPG.Thèmes de protecteurs</link><link>Pathfinder-RPG.TMP sorts APG</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Abjuration</link><link>Pathfinder-RPG.Ensorceleur</link><link>Pathfinder-RPG.Magicien</link><link>Pathfinder-RPG.Action simple</link><link>Pathfinder-RPG.composantes</link><link>Pathfinder-RPG.niveau</link><link>Pathfinder-RPG.instantanée</link><link>Pathfinder-RPG.Volonté</link><link>Pathfinder-RPG.Présentation des sorts</link></outLinks>
+  <body><![CDATA[
+&lt;b&gt;&#201;cole&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#ABJURATION&quot; title=&quot;Abjuration&quot;&gt;Abjuration&lt;/a&gt;&#160;;&lt;b&gt; Niveau&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Ensorceleur.html&quot; title=&quot;L&amp;#39;ensorceleur&quot;&gt;ensorceleur&lt;/a&gt;/&lt;a class=&quot;pagelink&quot; href=&quot;Magicien.html&quot; title=&quot;Le magicien&quot;&gt;magicien&lt;/a&gt; 7&lt;br/&gt;
+&lt;b&gt;Temps d&#39;incantation&lt;/b&gt; 1 &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions.html#SIMPLE&quot; title=&quot;Action simple&quot;&gt;action simple&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Composantes&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#COMPOSANTES&quot; title=&quot;composantes&quot;&gt;V, G, M&lt;/a&gt; (sablier miniature cass&#233;)&lt;br/&gt;
+&lt;b&gt;Port&#233;e&lt;/b&gt; moyenne (30 m + 3 m/&lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#NIVEAU&quot; title=&quot;niveau&quot;&gt;niveau&lt;/a&gt;) (20 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt; + 2 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;/&lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#NIVEAU&quot; title=&quot;niveau&quot;&gt;niveau&lt;/a&gt;)&lt;br/&gt;
+&lt;b&gt;Zone&lt;/b&gt; rayonnement de 6 m (4 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) de rayon&lt;br/&gt;
+&lt;b&gt;Dur&#233;e&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#DUREE&quot; title=&quot;instantan&#233;e&quot;&gt;instantan&#233;e&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Jet de sauvegarde&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;Volont&#233;&quot;&gt;Volont&#233;&lt;/a&gt; pour &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#JETSDESAUVEGARDE&quot; title=&quot;Pr&#233;sentation des sorts&quot;&gt;annuler&lt;/a&gt; ; &lt;b&gt;R&#233;sistance &#224; la magie&lt;/b&gt; oui&lt;br /&gt;&lt;br /&gt;Le personnage oblige toutes les cr&#233;atures de la zone affect&#233;e &#224; utiliser une ou plusieurs aptitudes magiques &#224; usage limit&#233; sans le moindre effet. Ceci regroupe tout pouvoir surnaturel ou magique qu&#39;une cr&#233;ature ne peut activer qu&#39;un certain nombre de fois dans un intervalle donn&#233; (3/jour, 1/heure, etc.). Le sort n&#39;affecte pas les pouvoirs que les cr&#233;atures utilisent &#224; volont&#233; ou en permanence. Le sort affecte en premier les pouvoirs que la cr&#233;ature peut utiliser le plus souvent par jour; si plusieurs pouvoirs ont un m&#234;me nombre d&#39;utilisations, le premier affect&#233; est choisi au hasard. Les cr&#233;atures doivent continuer de faire des jets de &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;Volont&#233;&quot;&gt;Volont&#233;&lt;/a&gt; en d&#233;pensant un pouvoir &#224; chaque &#233;chec jusqu&#39;&#224; ce qu&#39;elles r&#233;ussissent, le sort n&#39;ayant alors plus aucun effet.
+]]></body>
+  <raw><![CDATA[{s:APG}
+'''École''' [[Abjuration]] ;''' Niveau''' [[ensorceleur]]/[[magicien]] 7<br/>
+'''Temps d'incantation''' 1 [[action simple]]<br/>
+'''Composantes''' [[Composantes|V, G, M]] (sablier miniature cassé)<br/>
+'''Portée''' moyenne (30 m + 3 m/[[niveau]]) (20 {s:c} + 2 {s:c}/[[niveau]])<br/>
+'''Zone''' rayonnement de 6 m (4 {s:c}) de rayon<br/>
+'''Durée''' [[instantanée]]<br/>
+'''Jet de sauvegarde''' [[Volonté]] pour [[Présentation des sorts#JETSDESAUVEGARDE|annuler]] ; '''Résistance à la magie''' oui
+
+Le personnage oblige toutes les créatures de la zone affectée à utiliser une ou plusieurs aptitudes magiques à usage limité sans le moindre effet. Ceci regroupe tout pouvoir surnaturel ou magique qu'une créature ne peut activer qu'un certain nombre de fois dans un intervalle donné (3/jour, 1/heure, etc.). Le sort n'affecte pas les pouvoirs que les créatures utilisent à volonté ou en permanence. Le sort affecte en premier les pouvoirs que la créature peut utiliser le plus souvent par jour; si plusieurs pouvoirs ont un même nombre d'utilisations, le premier affecté est choisi au hasard. Les créatures doivent continuer de faire des jets de [[Volonté]] en dépensant un pouvoir à chaque échec jusqu'à ce qu'elles réussissent, le sort n'ayant alors plus aucun effet.
+]]></raw>
+  <fullName>Pathfinder-RPG.Dépense</fullName>
+</wikiPage>

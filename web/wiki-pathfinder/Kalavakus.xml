@@ -1,0 +1,145 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Kalavakus</title>
+  <categories><category>Pathfinder-RPG.Bestiaire 2</category><category>Pathfinder-RPG.Monstre</category><category>Pathfinder-RPG.Règles officielles</category></categories>
+  <lastModified>2013-02-07 20:15:41Z</lastModified>
+  <version>8</version>
+  <inLinks><link>Pathfinder-RPG.Démon</link><link>Pathfinder-RPG.Glossaire des monstres</link><link>Pathfinder-RPG.Liste de monstres par FP</link><link>Pathfinder-RPG.Liste de monstres par milieu naturel</link><link>Pathfinder-RPG.Liste de monstres par type</link><link>Pathfinder-RPG.Monstres</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.type Extérieur</link><link>Pathfinder-RPG.sous-type Chaos</link><link>Pathfinder-RPG.sous-type démon</link><link>Pathfinder-RPG.sous-type extraplanaire</link><link>Pathfinder-RPG.sous-type Mal</link><link>Pathfinder-RPG.vision dans le noir</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Charge puissante</link><link>Pathfinder-RPG.Injonction</link><link>Pathfinder-RPG.Télékinésie</link><link>Pathfinder-RPG.Téléportation suprême</link><link>Pathfinder-RPG.Domination</link><link>Pathfinder-RPG.Marche dans les airs</link><link>Pathfinder-RPG.Rapidité</link><link>Pathfinder-RPG.Convocation (capacité)</link><link>Pathfinder-RPG.Injonction suprême</link><link>Pathfinder-RPG.Symbole de persuasion</link><link>Pathfinder-RPG.Attaque en puissance</link><link>Pathfinder-RPG.Expertise du combat</link><link>Pathfinder-RPG.Science de la bousculade</link><link>Pathfinder-RPG.Science du croc-en-jambe</link><link>Pathfinder-RPG.Science du désarmement</link><link>Pathfinder-RPG.Acrobaties</link><link>Pathfinder-RPG.Connaissances</link><link>Pathfinder-RPG.Discrétion</link><link>Pathfinder-RPG.Escalade</link><link>Pathfinder-RPG.Intimidation</link><link>Pathfinder-RPG.Psychologie</link><link>Pathfinder-RPG.Utilisation dObjets Magiques</link><link>Pathfinder-RPG.Télépathie</link><link>Pathfinder-RPG.désarmement</link><link>Pathfinder-RPG.Action rapide</link><link>Pathfinder-RPG.jet de sauvegarde</link><link>Pathfinder-RPG.Chancelant</link><link>Pathfinder-RPG.Guérison suprême</link><link>Pathfinder-RPG.Registre</link><link>Pathfinder-RPG.Charisme</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Kalavakus&lt;div style=&quot;float:right;&quot;&gt;FP 10&lt;/div&gt;&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Bestiaire 2 p.86&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 9.600
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Ext&#233;rieur.html&quot; title=&quot;Ext&#233;rieur&quot;&gt;Ext&#233;rieur&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Chaos.html&quot; title=&quot;Chaos (sous-type)&quot;&gt;Chaos&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-D&#233;mon.html&quot; title=&quot;D&#233;mon (sous-type)&quot;&gt;d&#233;mon&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Extraplanaire.html&quot; title=&quot;Extraplanaire (sous-type)&quot;&gt;extraplanaire&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Mal.html&quot; title=&quot;Mal (sous-type)&quot;&gt;Mal&lt;/a&gt;) de taille M, CM
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +1 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Capacit&#233;s-Sp&#233;ciales.html#VISIONDANSLENOIR&quot; title=&quot;vision dans le noir&quot;&gt;vision dans le noir&lt;/a&gt; 18 m (12 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +24
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 25, contact 11, pris au d&#233;pourvu 24 (Dex +1, naturelle +14)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 125 (10d10+70)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +8, &lt;b&gt;Vig&lt;/b&gt; +10, &lt;b&gt;Vol&lt;/b&gt; +10
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Immunit&#233;s&lt;/b&gt; &#233;lectricit&#233;, poison ; &lt;b&gt;RD&lt;/b&gt; 10/Bien ; &lt;b&gt;R&#233;sistances&lt;/b&gt; acide 10, feu 10, froid 10 ; &lt;b&gt;RM&lt;/b&gt; 21 
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt;  9 m (6 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; morsure +16 (1d6+6) et 2 griffes, +16 (1d8+6) et cornes, +16 (2d6+6)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaques sp&#233;ciales&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Charge-Puissante-(Capacit&#233;).html&quot; title=&quot;Charge puissante&quot;&gt;charge puissante&lt;/a&gt; (cornes, 4d6+12), cornes,
+soumission d’&#226;me
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Pouvoirs magiques&lt;/b&gt; (NLS 12 ; concentration +15)
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+&#192; volont&#233; — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Injonction.html&quot; title=&quot;Injonction&quot;&gt;injonction&lt;/a&gt;&lt;/i&gt; (DD 14), &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;T&#233;l&#233;kin&#233;sie.html&quot; title=&quot;T&#233;l&#233;kin&#233;sie&quot;&gt;t&#233;l&#233;kin&#233;sie&lt;/a&gt;&lt;/i&gt; (DD 18), &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;T&#233;l&#233;portation-Supr&#234;me.html&quot; title=&quot;T&#233;l&#233;portation supr&#234;me&quot;&gt;t&#233;l&#233;portation supr&#234;me&lt;/a&gt;&lt;/i&gt; (lui-m&#234;me et 25 kg d&#39;objets uniquement)
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+3/jour — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Domination.html&quot; title=&quot;Domination&quot;&gt;domination&lt;/a&gt;&lt;/i&gt; (DD 18), &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Marche-Dans-Les-Airs.html&quot; title=&quot;Marche dans les airs&quot;&gt;marche dans les airs&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Rapidit&#233;.html&quot; title=&quot;Rapidit&#233;&quot;&gt;rapidit&#233;&lt;/a&gt;&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+1/jour — &lt;a class=&quot;pagelink&quot; href=&quot;Convocation-(Capacit&#233;).html&quot; title=&quot;Convocation (Mag)&quot;&gt;convocation&lt;/a&gt; (niveau 4, 1 kalavakus 40%), &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Injonction-Supr&#234;me.html&quot; title=&quot;Injonction supr&#234;me&quot;&gt;injonction supr&#234;me&lt;/a&gt;&lt;/i&gt;
+(DD 18), &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Symbole-De-Persuasion.html&quot; title=&quot;Symbole de persuasion&quot;&gt;symbole de persuasion&lt;/a&gt;&lt;/i&gt; (DD 19)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 22, &lt;b&gt;Dex&lt;/b&gt; 13, &lt;b&gt;Con&lt;/b&gt; 24, &lt;b&gt;Int&lt;/b&gt; 15, &lt;b&gt;Sag&lt;/b&gt; 17, &lt;b&gt;Cha&lt;/b&gt; 16
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +10, &lt;b&gt;BMO&lt;/b&gt; +16 (+22 d&#233;sarmement), &lt;b&gt;DMD&lt;/b&gt; 27
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Attaque-En-Puissance.html&quot; title=&quot;Attaque en puissance&quot;&gt;Attaque en puissance&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Expertise-Du-Combat.html&quot; title=&quot;Expertise du combat&quot;&gt;Expertise du combat&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Science-De-La-Bousculade.html&quot; title=&quot;Science de la bousculade&quot;&gt;Science de la bousculade&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Science-Du-Croc-En-Jambe.html&quot; title=&quot;Science du croc-en-jambe&quot;&gt;Science du croc-en-jambe&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Science-Du-D&#233;sarmement.html&quot; title=&quot;Science du d&#233;sarmement&quot;&gt;Science du d&#233;sarmement&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Acrobaties.html&quot; title=&quot;Acrobaties&quot;&gt;Acrobaties&lt;/a&gt; + 14, &lt;a class=&quot;pagelink&quot; href=&quot;Connaissances.html&quot; title=&quot;Connaissances&quot;&gt;Connaissances&lt;/a&gt; (plans) +15, &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; +14, &lt;a class=&quot;pagelink&quot; href=&quot;Escalade.html&quot; title=&quot;Escalade&quot;&gt;Escalade&lt;/a&gt; +19, &lt;a class=&quot;pagelink&quot; href=&quot;Intimidation.html&quot; title=&quot;Intimidation&quot;&gt;Intimidation&lt;/a&gt; +16, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +24, &lt;a class=&quot;pagelink&quot; href=&quot;Psychologie.html&quot; title=&quot;Psychologie&quot;&gt;Psychologie&lt;/a&gt; +16, &lt;a class=&quot;pagelink&quot; href=&quot;Utilisation-Dobjets-Magiques.html&quot; title=&quot;Utilisation d&amp;#39;objets magiques&quot;&gt;utilisation d&#39;objets magiques&lt;/a&gt; +16 ; &lt;b&gt;Modificateurs raciaux&lt;/b&gt; +8 en &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Langues&lt;/b&gt; abyssal, c&#233;leste, commun, draconique ; &lt;a class=&quot;pagelink&quot; href=&quot;T&#233;l&#233;pathie-(Capacit&#233;).html&quot; title=&quot;T&#233;l&#233;pathie&quot;&gt;t&#233;l&#233;pathie&lt;/a&gt; 30 m (20 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; tous (Abysse)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation sociale&lt;/b&gt; solitaire, couple ou bande d&#39;esclavagistes (3-6 Kalavakus plus 10-20 esclaves)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; standard
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Particularit&#233;s&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Cornes (Ext).&lt;/b&gt; Les nombreuses cornes du kalavakus peuvent facilement accrocher les armes et les arracher des mains de leurs porteurs. Le d&#233;mon b&#233;n&#233;ficie d’un bonus racial de +4 sur toutes les tentatives de &lt;a class=&quot;pagelink&quot; href=&quot;Manœuvres-Offensives.html#DESARMEMENT&quot; title=&quot;d&#233;sarmement&quot;&gt;d&#233;sarmement&lt;/a&gt;.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Soumission d’&#226;me (Sur).&lt;/b&gt;  Par une &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions.html#RAPIDE&quot; title=&quot;Action rapide&quot;&gt;action rapide&lt;/a&gt;, un kalavakus peut tenter de forcer l’&#226;me d’une cr&#233;ature mortelle situ&#233;e dans un rayon de 18 m&#232;tres &#224; se soumettre &#224; lui. Le kalavakus doit disposer d’un champ de vision d&#233;gag&#233; jusqu’&#224; la cible. Celle-ci peut tenter de r&#233;sister &#224; cette attaque sp&#233;ciale en effectuant un test de Volont&#233; de DD 18 mais, m&#234;me si elle r&#233;ussit son &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;jet de sauvegarde&quot;&gt;jet de sauvegarde&lt;/a&gt;, elle est &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables.html#Chancelant&quot; title=&quot;Chancelant&quot;&gt;chancelante&lt;/a&gt; pendant 1 round. En cas de r&#233;ussite du jet de sauvegarde, la cible est immunis&#233;e contre cette capacit&#233; pendant 24 heures. En cas d’&#233;chec, son &#226;me est soumise au kalavakus : la victime subit un malus de –6 &#224; tous les jets d’attaque et jets de sauvegarde contre le kalavakus en question. De plus, si le kalavakus tue la cr&#233;ature &#224; laquelle appartient l’&#226;me soumise, cette &#226;me rejoint le corps du d&#233;mon et l’affecte comme un sort de &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Gu&#233;rison-Supr&#234;me.html&quot; title=&quot;Gu&#233;rison supr&#234;me&quot;&gt;gu&#233;rison supr&#234;me&lt;/a&gt;&lt;/i&gt; (NLS 12). Un kalavakus ne peut soumettre qu’une seule &#226;me &#224; la fois : s’il soumet une seconde &#226;me, la premi&#232;re est lib&#233;r&#233;e de cet effet. Il s’agit d’un effet &lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;er-Un-Sort.html#REGISTRE&quot; title=&quot;Registre&quot;&gt;mental&lt;/a&gt; de &lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;er-Un-Sort.html#REGISTRE&quot; title=&quot;Registre&quot;&gt;mort&lt;/a&gt;.
+Le DD du &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;jet de sauvegarde&quot;&gt;jet de sauvegarde&lt;/a&gt; d&#233;pend du &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#CHARISME&quot; title=&quot;Le Charisme&quot;&gt;Charisme&lt;/a&gt;.
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;td&gt;&lt;div&gt;&lt;i&gt;Ce puissant d&#233;mon violet poss&#232;de deux pieds similaires &#224; ceux des &#233;l&#233;phants. Son corps est recouvert de grandes cornes ac&#233;r&#233;es.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Les kalavakus, que certains connaissent sous le nom de &#171; d&#233;mons cornus &#187;, sont des monstres muscl&#233;s et imposants. Dans
+les Abysses, ils oeuvrent comme esclavagistes, ou parfois gardiens de harems ou capitaines de la garde pour certains d&#233;mons plus puissants, ou m&#234;me mercenaires vendant les victimes qu’ils ont captur&#233;es &#224; tous ceux qui peuvent les payer.&lt;br /&gt;
+Un kalavakus mesure 2,10 m&#232;tres et p&#232;se 225 kg. Ils sont cr&#233;&#233;s &#224; partir des &#226;mes des mortels mal&#233;fiques esclavagistes de leur vivant.
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Kalavakus|FP 10}
+{s:pucem|Extérieur|Ruines-Donjons|Extraplanaire}
+{s:BDTexte|''Source : Bestiaire 2 p.86''}
+{s:BDTexte|'''PX''' 9.600}
+{s:BDTexte|[[type Extérieur|Extérieur]] ([[sous-type Chaos|Chaos]], [[sous-type démon|démon]], [[sous-type extraplanaire|extraplanaire]], [[sous-type Mal|Mal]]) de taille M, CM}
+{s:BDTexte|'''Init''' +1 ; '''Sens''' [[vision dans le noir]] 18 m (12 {s:c}) ; [[Perception]] +24}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 25, contact 11, pris au dépourvu 24 (Dex +1, naturelle +14)}
+{s:BDTexte|'''pv''' 125 (10d10+70)}
+{s:BDTexte|'''Réf''' +8, '''Vig''' +10, '''Vol''' +10}
+{s:BDTexte|'''Immunités''' électricité, poison ; '''RD''' 10/Bien ; '''Résistances''' acide 10, feu 10, froid 10 ; '''RM''' 21 }
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD'''  9 m (6 {s:c})}
+{s:BDTexte|'''Corps à corps''' morsure +16 (1d6+6) et 2 griffes, +16 (1d8+6) et cornes, +16 (2d6+6)}
+{s:BDTexte|'''Attaques spéciales''' [[charge puissante]] (cornes, 4d6+12), cornes,
+soumission d’âme}
+{s:BDTexte|'''Pouvoirs magiques''' (NLS 12 ; concentration +15)}
+{s:BDSorts|À volonté — ''[[injonction]]'' (DD 14), ''[[télékinésie]]'' (DD 18), ''[[téléportation suprême]]'' (lui-même et 25 kg d'objets uniquement)}
+{s:BDSorts|3/jour — ''[[domination]]'' (DD 18), ''[[marche dans les airs]]'', ''[[rapidité]]''}
+{s:BDSorts|1/jour — [[convocation (capacité)|convocation]] (niveau 4, 1 kalavakus 40%), ''[[injonction suprême]]''
+(DD 18), ''[[symbole de persuasion]]'' (DD 19)}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 22, '''Dex''' 13, '''Con''' 24, '''Int''' 15, '''Sag''' 17, '''Cha''' 16}
+{s:BDTexte|'''BBA''' +10, '''BMO''' +16 (+22 désarmement), '''DMD''' 27}
+{s:BDTexte|'''Dons''' [[Attaque en puissance]], [[Expertise du combat]], [[Science de la bousculade]], [[Science du croc-en-jambe]], [[Science du désarmement]]}
+{s:BDTexte|'''Compétences''' [[Acrobaties]] + 14, [[Connaissances]] (plans) +15, [[Discrétion]] +14, [[Escalade]] +19, [[Intimidation]] +16, [[Perception]] +24, [[Psychologie]] +16, [[Utilisation dobjets magiques|utilisation d'objets magiques]] +16 ; '''Modificateurs raciaux''' +8 en [[Perception]]}
+{s:BDTexte|'''Langues''' abyssal, céleste, commun, draconique ; [[télépathie]] 30 m (20 {s:c})}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' tous (Abysse)}
+{s:BDTexte|'''Organisation sociale''' solitaire, couple ou bande d'esclavagistes (3-6 Kalavakus plus 10-20 esclaves)}
+{s:BDTexte|'''Trésor''' standard}
+{s:BDSousTitre|Particularités}
+{s:BDTexte|'''Cornes (Ext).''' Les nombreuses cornes du kalavakus peuvent facilement accrocher les armes et les arracher des mains de leurs porteurs. Le démon bénéficie d’un bonus racial de +4 sur toutes les tentatives de [[désarmement]].}
+{s:BDTexte|'''Soumission d’âme (Sur).'''  Par une [[action rapide]], un kalavakus peut tenter de forcer l’âme d’une créature mortelle située dans un rayon de 18 mètres à se soumettre à lui. Le kalavakus doit disposer d’un champ de vision dégagé jusqu’à la cible. Celle-ci peut tenter de résister à cette attaque spéciale en effectuant un test de Volonté de DD 18 mais, même si elle réussit son [[jet de sauvegarde]], elle est [[chancelant|chancelante]] pendant 1 round. En cas de réussite du jet de sauvegarde, la cible est immunisée contre cette capacité pendant 24 heures. En cas d’échec, son âme est soumise au kalavakus : la victime subit un malus de –6 à tous les jets d’attaque et jets de sauvegarde contre le kalavakus en question. De plus, si le kalavakus tue la créature à laquelle appartient l’âme soumise, cette âme rejoint le corps du démon et l’affecte comme un sort de ''[[ guérison suprême]]'' (NLS 12). Un kalavakus ne peut soumettre qu’une seule âme à la fois : s’il soumet une seconde âme, la première est libérée de cet effet. Il s’agit d’un effet [[registre|mental]] de [[registre|mort]].
+Le DD du [[jet de sauvegarde]] dépend du [[Charisme]].}
+</div>
+</td><td><div>''Ce puissant démon violet possède deux pieds similaires à ceux des éléphants. Son corps est recouvert de grandes cornes acérées.''
+
+Les kalavakus, que certains connaissent sous le nom de « démons cornus », sont des monstres musclés et imposants. Dans
+les Abysses, ils oeuvrent comme esclavagistes, ou parfois gardiens de harems ou capitaines de la garde pour certains démons plus puissants, ou même mercenaires vendant les victimes qu’ils ont capturées à tous ceux qui peuvent les payer.<br>
+Un kalavakus mesure 2,10 mètres et pèse 225 kg. Ils sont créés à partir des âmes des mortels maléfiques esclavagistes de leur vivant.
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Kalavakus</fullName>
+</wikiPage>

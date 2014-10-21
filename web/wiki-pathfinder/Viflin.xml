@@ -1,0 +1,135 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Viflin</title>
+  <categories><category>Pathfinder-RPG.Bestiaire 2</category><category>Pathfinder-RPG.Monstre</category><category>Pathfinder-RPG.Règles officielles</category></categories>
+  <lastModified>2013-02-06 19:31:56Z</lastModified>
+  <version>2</version>
+  <inLinks><link>Pathfinder-RPG.Glossaire des monstres</link><link>Pathfinder-RPG.Liste de monstres par FP</link><link>Pathfinder-RPG.Liste de monstres par milieu naturel</link><link>Pathfinder-RPG.Liste de monstres par type</link><link>Pathfinder-RPG.Monstres</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.type Fée</link><link>Pathfinder-RPG.vision nocturne</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.esquive instinctive</link><link>Pathfinder-RPG.esquive totale</link><link>Pathfinder-RPG.attaque sournoise</link><link>Pathfinder-RPG.Attaque éclair</link><link>Pathfinder-RPG.Attaque en finesse</link><link>Pathfinder-RPG.Esquive</link><link>Pathfinder-RPG.Souplesse du serpent</link><link>Pathfinder-RPG.Acrobaties</link><link>Pathfinder-RPG.Art de la magie</link><link>Pathfinder-RPG.Artisanat</link><link>Pathfinder-RPG.Bluff</link><link>Pathfinder-RPG.Discrétion</link><link>Pathfinder-RPG.Évasion</link><link>Pathfinder-RPG.Survie</link><link>Pathfinder-RPG.Utilisation dObjets Magiques</link><link>Pathfinder-RPG.Archétypes</link><link>Pathfinder-RPG.round</link><link>Pathfinder-RPG.Action libre</link><link>Pathfinder-RPG.Fiévreux</link><link>Pathfinder-RPG.camouflage</link><link>Pathfinder-RPG.Roublard</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Viflin&lt;div style=&quot;float:right;&quot;&gt;FP 3&lt;/div&gt;&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Bestiaire 2&lt;/i&gt; p.289
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 800
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-F&#233;e.html&quot; title=&quot;F&#233;e&quot;&gt;F&#233;e&lt;/a&gt; de taille P, CM
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +7 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Nocturne-(Capacit&#233;).html&quot; title=&quot;vision nocturne&quot;&gt;vision nocturne&lt;/a&gt; ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +9
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 20, contact 19, pris au d&#233;pourvu 12 (Dex +7, esquive +1, naturelle +1, taille +1)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 18 (4d6+4)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +11, &lt;b&gt;Vig&lt;/b&gt; +2, &lt;b&gt;Vol&lt;/b&gt; +6
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Capacit&#233;s d&#233;fensives&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Roublard.html#ESQUIVEINSTINCTIVE&quot; title=&quot;esquive instinctive&quot;&gt;esquive instinctive&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Roublard.html#ESQUIVETOTALE&quot; title=&quot;esquive totale&quot;&gt;esquive totale&lt;/a&gt;, invisibilit&#233; naturelle, vitesse surnaturelle ; &lt;b&gt;RD&lt;/b&gt; 5/fer froid
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Faiblesses&lt;/b&gt; sensibilit&#233; au ralentissement
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 36 m (24 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; &#233;p&#233;e courte, +10 (1d4–1/19–20)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaque sp&#233;ciales&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Roublard.html#ATTAQUESOURNOISE&quot; title=&quot;attaque sournoise&quot;&gt;attaque sournoise&lt;/a&gt; +1d6
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 8, &lt;b&gt;Dex&lt;/b&gt; 24, &lt;b&gt;Con&lt;/b&gt; 13, &lt;b&gt;Int&lt;/b&gt; 15, &lt;b&gt;Sag&lt;/b&gt; 15, &lt;b&gt;Cha&lt;/b&gt; 14
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +2 ; &lt;b&gt;BMO&lt;/b&gt; +0 ; &lt;b&gt;DMD&lt;/b&gt; 18
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Attaque-&#201;clair.html&quot; title=&quot;Attaque &#233;clair&quot;&gt;Attaque &#233;clair&lt;/a&gt;&lt;sup&gt;S&lt;/sup&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Attaque-En-Finesse.html&quot; title=&quot;Attaque en finesse&quot;&gt;Attaque en finesse&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Esquive.html&quot; title=&quot;Esquive&quot;&gt;Esquive&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Souplesse-Du-Serpent.html&quot; title=&quot;Souplesse du serpent&quot;&gt;Souplesse du serpent&lt;/a&gt;&lt;sup&gt;S&lt;/sup&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Acrobaties.html&quot; title=&quot;Acrobaties&quot;&gt;Acrobaties&lt;/a&gt; +14 (+50 pour &lt;a class=&quot;pagelink&quot; href=&quot;Acrobaties.html#SAUTER&quot; title=&quot;Acrobaties&quot;&gt;sauter&lt;/a&gt;), &lt;a class=&quot;pagelink&quot; href=&quot;Art-De-La-Magie.html&quot; title=&quot;Art de la magie&quot;&gt;Art de la magie&lt;/a&gt; +6, &lt;a class=&quot;pagelink&quot; href=&quot;Artisanat.html&quot; title=&quot;Artisanat&quot;&gt;Artisanat&lt;/a&gt; (un au choix) +9, &lt;a class=&quot;pagelink&quot; href=&quot;Bluff.html&quot; title=&quot;Bluff&quot;&gt;Bluff&lt;/a&gt; +9, &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; +18, &lt;a class=&quot;pagelink&quot; href=&quot;&#201;vasion.html&quot; title=&quot;&#201;vasion&quot;&gt;&#201;vasion&lt;/a&gt; +14, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +9, &lt;a class=&quot;pagelink&quot; href=&quot;Survie.html&quot; title=&quot;Survie&quot;&gt;Survie&lt;/a&gt; +4, &lt;a class=&quot;pagelink&quot; href=&quot;Utilisation-Dobjets-Magiques.html&quot; title=&quot;Utilisation d&amp;#39;objets magiques&quot;&gt;Utilisation d’objets magiques&lt;/a&gt; +7
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Langues&lt;/b&gt; aklo, commun, sylvestre
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Particularit&#233;s&lt;/b&gt; utilisation des poisons
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; for&#234;ts temp&#233;r&#233;es
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation sociale&lt;/b&gt; solitaire, bande (2–5) ou groupe (4–11 plus 1 chef &lt;a class=&quot;pagelink&quot; href=&quot;Arch&#233;types.html&quot; title=&quot;Les arch&#233;types&quot;&gt;&#233;volu&#233;&lt;/a&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; &#233;quipement de PNJ (ajonc &#224; feuilles bleues [4 doses], petite &#233;p&#233;e courte, autres tr&#233;sors)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Pouvoirs sp&#233;ciaux&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Invisibilit&#233; naturelle (Sur).&lt;/b&gt; Un viflin est invisible lorsqu’il ne bouge pas. Il perd cette capacit&#233; et devient visible pendant 1 &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#ROUND&quot; title=&quot;round&quot;&gt;round&lt;/a&gt; d&#232;s qu’il entreprend une action autre qu’une &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions.html#LIBRE&quot; title=&quot;Action libre&quot;&gt;action libre&lt;/a&gt;.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Sensibilit&#233; au ralentissement (Ext).&lt;/b&gt; Un viflin qui succombe &#224; un effet de &lt;i&gt;lenteur&lt;/i&gt; perd sa capacit&#233; de vitesse surnaturelle et devient &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables.html#Fi&#233;vreux&quot; title=&quot;Fi&#233;vreux&quot;&gt;fi&#233;vreux&lt;/a&gt; tant que cet effet persiste. L’&#233;tat pr&#233;judiciable &#171; &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables.html#Fi&#233;vreux&quot; title=&quot;Fi&#233;vreux&quot;&gt;fi&#233;vreux&lt;/a&gt; &#187; persiste pendant 1 &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#ROUND&quot; title=&quot;round&quot;&gt;round&lt;/a&gt; apr&#232;s la fin de l’effet de &lt;i&gt;lenteur&lt;/i&gt;.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Vitesse surnaturelle (Sur).&lt;/b&gt; Un viflin se d&#233;place &#224; une vitesse incroyable. S’il reste sans bouger, il est invisible. Mais, d&#232;s qu’il se d&#233;place, sa forme se brouille et scintille &#224; cause de la vitesse, ce qui lui procure un &lt;a class=&quot;pagelink&quot; href=&quot;Modificateurs-De-Combat.html#CAMOUFLAGE&quot; title=&quot;camouflage&quot;&gt;camouflage&lt;/a&gt; (20% de chances d’&#233;chec des attaques). De plus, cette capacit&#233; lui donne les capacit&#233;s d’&lt;a class=&quot;pagelink&quot; href=&quot;Roublard.html#ESQUIVETOTALE&quot; title=&quot;esquive totale&quot;&gt;esquive totale&lt;/a&gt; et d’&lt;a class=&quot;pagelink&quot; href=&quot;Roublard.html#ESQUIVEINSTINCTIVE&quot; title=&quot;esquive instinctive&quot;&gt;esquive instinctive&lt;/a&gt; (similaires aux capacit&#233;s de &lt;a class=&quot;pagelink&quot; href=&quot;Roublard.html&quot; title=&quot;Le roublard&quot;&gt;roublard&lt;/a&gt; de m&#234;me nom).
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;td&gt;&lt;div&gt;
+&lt;i&gt;Cette cr&#233;ature ressemble &#224; un petit elfe &#233;lanc&#233; aux habits ternes et au sourire sournois. En l’espace d’un clin d’œil, la cr&#233;ature s’enfuit &#224; toute allure et dispara&#238;t.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Rares sont les cr&#233;atures qui peuvent rivaliser de vitesse avec un viflin. Ces cr&#233;atures f&#233;eriques malicieuses adorent agir avec une rapidit&#233; et une pr&#233;cision &#233;tonnante et parviennent m&#234;me souvent &#224; tuer leur victime sans jamais se d&#233;voiler r&#233;ellement : la victime en question se met &#224; cracher du sang et tombe morte sans que personne n’ait pu observer l’attaque du viflin. Ces parents &#233;loign&#233;s des lutins et des grigs ne partagent pas la g&#233;n&#233;rosit&#233; ni la bonne humeur de leurs cousins et se montrent plut&#244;t cruels et vicieux. Les viflins sont particuli&#232;rement fiers de leurs insultes et de leur brutalit&#233;. Il leur arrive souvent de suivre et de harceler leur proie jusqu’&#224; ce que celle-ci abandonne. Les viflins sont naturellement invisibles lorsqu’ils ne bougent pas, mais ils ne parviennent que tr&#232;s rarement &#224; rester immobiles  : m&#234;me lorsqu’ils parlent &#224; d’autres cr&#233;atures, il faut toujours qu’ils sautillent et qu’ils tressaillent. Les viflins ha&#239;ssent toutes les autres races, mais plus sp&#233;cifiquement les elfes, les gnomes et les esp&#232;ces f&#233;eriques. Ils ont m&#234;me du mal &#224; tol&#233;rer la pr&#233;sence d’autres individus de leur esp&#232;ce et ne parviennent &#224; collaborer avec d’autres viflins que pendant quelques semaines tout au plus.&lt;br /&gt;&lt;br /&gt;Un viflin mesure un peu plus de 75 cm et p&#232;se 7,5 kg.
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Viflin|FP 3}
+{s:pucem|Fée|Forêt-Jungle|Tempéré}
+{s:BDTexte|''Source : Bestiaire 2'' p.289}
+{s:BDTexte|'''PX''' 800}
+{s:BDTexte|[[type Fée|Fée]] de taille P, CM}
+{s:BDTexte|'''Init''' +7 ; '''Sens''' [[vision nocturne]] ; [[Perception]] +9}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 20, contact 19, pris au dépourvu 12 (Dex +7, esquive +1, naturelle +1, taille +1)}
+{s:BDTexte|'''pv''' 18 (4d6+4)}
+{s:BDTexte|'''Réf''' +11, '''Vig''' +2, '''Vol''' +6}
+{s:BDTexte|'''Capacités défensives''' [[esquive instinctive]], [[esquive totale]], invisibilité naturelle, vitesse surnaturelle ; '''RD''' 5/fer froid}
+{s:BDTexte|'''Faiblesses''' sensibilité au ralentissement}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 36 m (24 {s:c})}
+{s:BDTexte|'''Corps à corps''' épée courte, +10 (1d4–1/19–20)}
+{s:BDTexte|'''Attaque spéciales''' [[attaque sournoise]] +1d6}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 8, '''Dex''' 24, '''Con''' 13, '''Int''' 15, '''Sag''' 15, '''Cha''' 14}
+{s:BDTexte|'''BBA''' +2 ; '''BMO''' +0 ; '''DMD''' 18}
+{s:BDTexte|'''Dons''' [[Attaque éclair]]<sup>S</sup>, [[Attaque en finesse]], [[Esquive]], [[Souplesse du serpent]]<sup>S</sup>}
+{s:BDTexte|'''Compétences''' [[Acrobaties]] +14 (+50 pour [[Acrobaties#SAUTER|sauter]]), [[Art de la magie]] +6, [[Artisanat]] (un au choix) +9, [[Bluff]] +9, [[Discrétion]] +18, [[Évasion]] +14, [[Perception]] +9, [[Survie]] +4, [[Utilisation dobjets magiques|Utilisation d’objets magiques]] +7}
+{s:BDTexte|'''Langues''' aklo, commun, sylvestre}
+{s:BDTexte|'''Particularités''' utilisation des poisons}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' forêts tempérées}
+{s:BDTexte|'''Organisation sociale''' solitaire, bande (2–5) ou groupe (4–11 plus 1 chef [[archétypes|évolué]])}
+{s:BDTexte|'''Trésor''' équipement de PNJ (ajonc à feuilles bleues <nowiki>[</nowiki>4 doses<nowiki>]</nowiki>, petite épée courte, autres trésors)}
+{s:BDSousTitre|Pouvoirs spéciaux}
+{s:BDTexte|'''Invisibilité naturelle (Sur).''' Un viflin est invisible lorsqu’il ne bouge pas. Il perd cette capacité et devient visible pendant 1 [[round]] dès qu’il entreprend une action autre qu’une [[action libre]].}
+{s:BDTexte|'''Sensibilité au ralentissement (Ext).''' Un viflin qui succombe à un effet de ''lenteur'' perd sa capacité de vitesse surnaturelle et devient [[fiévreux]] tant que cet effet persiste. L’état préjudiciable « [[fiévreux]] » persiste pendant 1 [[round]] après la fin de l’effet de ''lenteur''.}
+{s:BDTexte|'''Vitesse surnaturelle (Sur).''' Un viflin se déplace à une vitesse incroyable. S’il reste sans bouger, il est invisible. Mais, dès qu’il se déplace, sa forme se brouille et scintille à cause de la vitesse, ce qui lui procure un [[camouflage]] (20% de chances d’échec des attaques). De plus, cette capacité lui donne les capacités d’[[esquive totale]] et d’[[esquive instinctive]] (similaires aux capacités de [[roublard]] de même nom).}
+</div>
+</td><td><div>
+''Cette créature ressemble à un petit elfe élancé aux habits ternes et au sourire sournois. En l’espace d’un clin d’œil, la créature s’enfuit à toute allure et disparaît.''
+
+Rares sont les créatures qui peuvent rivaliser de vitesse avec un viflin. Ces créatures féeriques malicieuses adorent agir avec une rapidité et une précision étonnante et parviennent même souvent à tuer leur victime sans jamais se dévoiler réellement : la victime en question se met à cracher du sang et tombe morte sans que personne n’ait pu observer l’attaque du viflin. Ces parents éloignés des lutins et des grigs ne partagent pas la générosité ni la bonne humeur de leurs cousins et se montrent plutôt cruels et vicieux. Les viflins sont particulièrement fiers de leurs insultes et de leur brutalité. Il leur arrive souvent de suivre et de harceler leur proie jusqu’à ce que celle-ci abandonne. Les viflins sont naturellement invisibles lorsqu’ils ne bougent pas, mais ils ne parviennent que très rarement à rester immobiles  : même lorsqu’ils parlent à d’autres créatures, il faut toujours qu’ils sautillent et qu’ils tressaillent. Les viflins haïssent toutes les autres races, mais plus spécifiquement les elfes, les gnomes et les espèces féeriques. Ils ont même du mal à tolérer la présence d’autres individus de leur espèce et ne parviennent à collaborer avec d’autres viflins que pendant quelques semaines tout au plus.
+
+Un viflin mesure un peu plus de 75 cm et pèse 7,5 kg.
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Viflin</fullName>
+</wikiPage>

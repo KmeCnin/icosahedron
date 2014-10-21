@@ -1,0 +1,157 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Jyoti</title>
+  <categories><category>Pathfinder-RPG.Bestiaire 2</category><category>Pathfinder-RPG.Monstre</category><category>Pathfinder-RPG.Règles officielles</category></categories>
+  <lastModified>2013-02-07 20:16:14Z</lastModified>
+  <version>9</version>
+  <inLinks><link>Pathfinder-RPG.Glossaire des monstres</link><link>Pathfinder-RPG.Liste de monstres par FP</link><link>Pathfinder-RPG.Liste de monstres par milieu naturel</link><link>Pathfinder-RPG.Liste de monstres par type</link><link>Pathfinder-RPG.Monstres</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.type Extérieur</link><link>Pathfinder-RPG.sous-type extraplanaire</link><link>Pathfinder-RPG.vision dans le noir</link><link>Pathfinder-RPG.vision nocturne</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Registre</link><link>Pathfinder-RPG.maladie</link><link>Pathfinder-RPG.poison</link><link>Pathfinder-RPG.Souffle</link><link>Pathfinder-RPG.Armure de mage</link><link>Pathfinder-RPG.Aide</link><link>Pathfinder-RPG.Lumière brûlante</link><link>Pathfinder-RPG.Lumière du jour</link><link>Pathfinder-RPG.Porte dimensionnelle</link><link>Pathfinder-RPG.Restauration partielle</link><link>Pathfinder-RPG.Soins importants</link><link>Pathfinder-RPG.Arme destructrice</link><link>Pathfinder-RPG.Souffle de vie</link><link>Pathfinder-RPG.Attaque en vol</link><link>Pathfinder-RPG.Comme le vent</link><link>Pathfinder-RPG.Esquive</link><link>Pathfinder-RPG.Magie de guerre</link><link>Pathfinder-RPG.Souplesse du serpent</link><link>Pathfinder-RPG.Volonté de fer</link><link>Pathfinder-RPG.Connaissances</link><link>Pathfinder-RPG.Discrétion</link><link>Pathfinder-RPG.Intimidation</link><link>Pathfinder-RPG.Premiers secours</link><link>Pathfinder-RPG.Psychologie</link><link>Pathfinder-RPG.Vol</link><link>Pathfinder-RPG.Quintessence des sorts</link><link>Pathfinder-RPG.jet de sauvegarde</link><link>Pathfinder-RPG.armes naturelles</link><link>Pathfinder-RPG.Spectral</link><link>Pathfinder-RPG.type Mort-vivant</link><link>Pathfinder-RPG.zone deffet</link><link>Pathfinder-RPG.Phoenix</link><link>Pathfinder-RPG.Artefacts</link><link>Pathfinder-RPG.Scéaduinar</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Jyoti&lt;div style=&quot;float:right;&quot;&gt;FP 9&lt;/div&gt;&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Bestiaire 2 p.180&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 6.400
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Ext&#233;rieur.html&quot; title=&quot;Ext&#233;rieur&quot;&gt;Ext&#233;rieur&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Extraplanaire.html&quot; title=&quot;Extraplanaire (sous-type)&quot;&gt;extraplanaire&lt;/a&gt;) de taille M, N
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +5 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Capacit&#233;s-Sp&#233;ciales.html#VISIONDANSLENOIR&quot; title=&quot;vision dans le noir&quot;&gt;vision dans le noir&lt;/a&gt; 18 m (12 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Nocturne-(Capacit&#233;).html&quot; title=&quot;vision nocturne&quot;&gt;vision nocturne&lt;/a&gt; ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +20
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 24, contact 16, pris au d&#233;pourvu 18 (armure +4, Dex +5, esquive +1, naturelle +4)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 104 (11d10+44)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +8, &lt;b&gt;Vig&lt;/b&gt; +11, &lt;b&gt;Vol&lt;/b&gt; +1 ; +2 contre les effets divins
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Capacit&#233;s d&#233;fensives&lt;/b&gt; affinit&#233; avec l’&#233;nergie positive, aversion pour les divinit&#233;s ; &lt;b&gt;Immunit&#233;s &lt;/b&gt; absorption d’&#233;nergie, attaques de &lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;er-Un-Sort.html#REGISTRE&quot; title=&quot;Registre&quot;&gt;mort&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Maladies.html&quot; title=&quot;maladie&quot;&gt;maladie&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Poisons.html&quot; title=&quot;poison&quot;&gt;poison&lt;/a&gt; ; &lt;b&gt;R&#233;sistances&lt;/b&gt; acide 10, &#233;lectricit&#233; 10, feu 10, froid 10, son 10 ; &lt;b&gt;RM&lt;/b&gt; 20
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt;  9 m (6 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), Vol  27 m (18 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; &lt;i&gt;lance +1&lt;/i&gt;, +14/+9/+4 (1d6+4/x3 plus 1d6 feu) et morsure, +8 (1d6+1 plus 1d6 feu)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Distance&lt;/b&gt; rayon, +16 contact &#224; distance (selon sort employ&#233;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaques sp&#233;ciales&lt;/b&gt; &#233;nergie positive, &lt;a class=&quot;pagelink&quot; href=&quot;Souffle-(Capacit&#233;).html&quot; title=&quot;Souffle&quot;&gt;souffle&lt;/a&gt; (c&#244;ne de 18 m ((12 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), 11d6 feu, R&#233;flexes DD 19, 1/2 d&#233;g&#226;ts, utilisable tous les 1d4 rounds)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Pouvoirs magiques&lt;/b&gt; (NLS 11&lt;sup&gt;e&lt;/sup&gt; ; concentration + 13)
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+Constant &lt;a class=&quot;pagelink&quot; href=&quot;Armure-De-Mage.html&quot; title=&quot;Armure de mage&quot;&gt;armure de mage&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+3/jour — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Aide.html&quot; title=&quot;Aide&quot;&gt;aide&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Lumi&#232;re-Br&#251;lante.html&quot; title=&quot;Lumi&#232;re br&#251;lante&quot;&gt;lumi&#232;re br&#251;lante&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Lumi&#232;re-Du-Jour.html&quot; title=&quot;Lumi&#232;re du jour&quot;&gt;lumi&#232;re du jour&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Porte-Dimensionnelle.html&quot; title=&quot;Porte dimensionnelle&quot;&gt;porte dimensionnelle&lt;/a&gt;&lt;/i&gt;,
+&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Restauration-Partielle.html&quot; title=&quot;Restauration partielle&quot;&gt;restauration partielle&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Soins-Importants.html&quot; title=&quot;Soins importants&quot;&gt;soins importants&lt;/a&gt;&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+1/jour — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Arme-Destructrice.html&quot; title=&quot;Arme destructrice&quot;&gt;arme destructrice&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Souffle-De-Vie.html&quot; title=&quot;Souffle de vie&quot;&gt;souffle de vie&lt;/a&gt;&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 14, &lt;b&gt;Dex&lt;/b&gt; 20, &lt;b&gt;Con&lt;/b&gt; 19, &lt;b&gt;Int&lt;/b&gt; 12, &lt;b&gt;Sag&lt;/b&gt; 15, &lt;b&gt;Cha&lt;/b&gt; 15
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +11, &lt;b&gt;BMO&lt;/b&gt; +13, &lt;b&gt;DMD&lt;/b&gt; 29
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Attaque-En-Vol.html&quot; title=&quot;Attaque en vol&quot;&gt;Attaque en vol&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Comme-Le-Vent.html&quot; title=&quot;Comme le vent&quot;&gt;Comme le vent&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Esquive.html&quot; title=&quot;Esquive&quot;&gt;Esquive&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Magie-De-Guerre.html&quot; title=&quot;Magie de guerre&quot;&gt;Magie de guerre&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Souplesse-Du-Serpent.html&quot; title=&quot;Souplesse du serpent&quot;&gt;Souplesse du serpent&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Volont&#233;-De-Fer.html&quot; title=&quot;Volont&#233; de fer&quot;&gt;Volont&#233; de fer&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Connaissances.html&quot; title=&quot;Connaissances&quot;&gt;Connaissances&lt;/a&gt; (plans) +19, &lt;a class=&quot;pagelink&quot; href=&quot;Connaissances.html&quot; title=&quot;Connaissances&quot;&gt;Connaissances&lt;/a&gt; (religion) +19, &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; +19, &lt;a class=&quot;pagelink&quot; href=&quot;Intimidation.html&quot; title=&quot;Intimidation&quot;&gt;Intimidation&lt;/a&gt; +16, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +20, &lt;a class=&quot;pagelink&quot; href=&quot;Premiers-Secours.html&quot; title=&quot;Premiers secours&quot;&gt;Premiers secours&lt;/a&gt; +16, &lt;a class=&quot;pagelink&quot; href=&quot;Psychologie.html&quot; title=&quot;Psychologie&quot;&gt;Psychologie&lt;/a&gt; +16, &lt;a class=&quot;pagelink&quot; href=&quot;Vol.html&quot; title=&quot;Vol&quot;&gt;Vol&lt;/a&gt; +9 ; &lt;b&gt;Modificateurs raciaux&lt;/b&gt; +4 en &lt;a class=&quot;pagelink&quot; href=&quot;Connaissances.html&quot; title=&quot;Connaissances&quot;&gt;Connaissances&lt;/a&gt; (plans), +4 en &lt;a class=&quot;pagelink&quot; href=&quot;Connaissances.html&quot; title=&quot;Connaissances&quot;&gt;Connaissances&lt;/a&gt; (religion), +4 en &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Langues&lt;/b&gt; a&#233;rien, aquatique, commun, ign&#233;, terreux
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; tous (plan de l’&#201;nergie positive)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation sociale&lt;/b&gt; solitaire, couple ou vol (3–8)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; double (&lt;i&gt;lance +1&lt;/i&gt;, autres tr&#233;sors
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Particularit&#233;s&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Affinit&#233; avec l’&#233;nergie positive (Ext).&lt;/b&gt; Un jyoti peut vivre confortablement sur le plan de l’&#201;nergie positive, sans &#234;tre affect&#233; (positivement ou n&#233;gativement) par l’&#233;nergie vitale que ce plan infuse &#224; toute chose. Chaque fois qu’un jyoti est affect&#233; par un effet de gu&#233;rison magique, celui-ci fonctionne &#224; son plein potentiel,
+comme s’il &#233;tait modifi&#233; par le don &lt;a class=&quot;pagelink&quot; href=&quot;Quintessence-Des-Sorts.html&quot; title=&quot;Quintessence des sorts&quot;&gt;Quintessence des sorts&lt;/a&gt;.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Aversion pour les divinit&#233;s (Sur).&lt;/b&gt; Les jyotis d&#233;testent les divinit&#233;s et ne sont jamais des lanceurs de sorts divin. Ils gagnent un bonus racial de +2 aux &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;jet de sauvegarde&quot;&gt;jets de sauvegarde&lt;/a&gt; contre les effets magiques divins.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;&#201;nergie positive (Sur).&lt;/b&gt; Les &lt;a class=&quot;pagelink&quot; href=&quot;Actions-Simples.html#ATTAQUENATURELLE&quot; title=&quot;armes naturelles&quot;&gt;armes naturelles&lt;/a&gt; et les armes mani&#233;es par un jyoti fonctionnent comme des &lt;a class=&quot;pagelink&quot; href=&quot;Armes-Magiques.html#Spectrale&quot; title=&quot;Spectral&quot;&gt;armes spectrales&lt;/a&gt;. De plus, toute arme (naturelle ou manufactur&#233;e) utilis&#233;e par un jyoti inflige +1d6 points de d&#233;g&#226;ts de feu.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Souffle (Sur).&lt;/b&gt; Le souffle d’un jyoti est une explosion concentr&#233;e de flammes incandescentes m&#234;l&#233;es &#224; de l’&#233;nergie positive. Les &lt;a class=&quot;pagelink&quot; href=&quot;Type-Mort-Vivant.html&quot; title=&quot;Mort-vivant&quot;&gt;morts-vivants&lt;/a&gt; situ&#233;s dans la &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#ZONEDEFFET&quot; title=&quot;zone deffet&quot;&gt;zone d’effet&lt;/a&gt; subissent 11d8 points de d&#233;g&#226;ts au lieu de 11d6.
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;td&gt;&lt;div&gt;&lt;i&gt;Cet humano&#239;de ressemble &#224; un &lt;a class=&quot;pagelink&quot; href=&quot;Phoenix.html&quot; title=&quot;Phoenix&quot;&gt;phoenix&lt;/a&gt; entour&#233; d’un halo radieux. Sa lance est orn&#233;e d’une lame sculpt&#233;e dans du cristal.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Les jyotis forment une race de cr&#233;atures aviaires originaires du plan de l’&#201;nergie positive, &#233;nigmatiques,
+x&#233;nophobes et promptes &#224; la col&#232;re. Certains pensent qu’ils sont fondamentalement bons parce que leur plan d’origine est la source de toute vie, mais ils ont tort : lorsque les jyotis sont confront&#233;s &#224; une autre race, dans le meilleur des cas, ils se montrent m&#233;fiants et suspicieux. En r&#232;gle g&#233;n&#233;rale, ils supposent plut&#244;t le pire et passent &#224; l’attaque sans donner l’occasion aux intrus de lancer les hostilit&#233;s. Ils prot&#232;gent leurs cit&#233;s cristallines contre toutes les intrusions, tout sp&#233;cialement celles men&#233;es par les cr&#233;atures des autres plans et les serviteurs des dieux. Ils acceptent parfois de conserver des &lt;a class=&quot;pagelink&quot; href=&quot;Artefacts.html&quot; title=&quot;Les artefacts&quot;&gt;artefacts&lt;/a&gt; dangereux dans leurs salles au tr&#233;sor pour aider des visiteurs d&#233;sesp&#233;r&#233;s, mais lorsqu’il s’agit d’artefacts sacr&#233;s ou maudits, ils sont plut&#244;t enclins &#224;
+les d&#233;truire aussi vite que possible. &lt;br /&gt;
+Les jyotis d&#233;testent tout particuli&#232;rement les cr&#233;atures natives du plan des Ombres ou du plan de l’&#201;nergie n&#233;gative, m&#234;me si leurs r&#233;actions envers les &lt;a class=&quot;pagelink&quot; href=&quot;Type-Mort-Vivant.html&quot; title=&quot;Mort-vivant&quot;&gt;morts-vivants&lt;/a&gt; semblent &#234;tre teint&#233;es d’une certaine forme de piti&#233;. Ils ne parlent jamais des &lt;a class=&quot;pagelink&quot; href=&quot;Sc&#233;aduinar.html&quot; title=&quot;Sc&#233;aduinar&quot;&gt;sc&#233;aduinars&lt;/a&gt;. La simple &#233;vocation de ce nom suffit &#224; d&#233;clencher une vive et imm&#233;diate col&#232;re chez eux. Ceux qui osent parler positivement des &lt;a class=&quot;pagelink&quot; href=&quot;Sc&#233;aduinar.html&quot; title=&quot;Sc&#233;aduinar&quot;&gt;sc&#233;aduinars&lt;/a&gt; sont attaqu&#233;s sur-le-champs.
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Jyoti|FP 9}
+{s:pucem|Extérieur|Ciel|Extraplanaire}
+{s:BDTexte|''Source : Bestiaire 2 p.180''}
+{s:BDTexte|'''PX''' 6.400}
+{s:BDTexte|[[type Extérieur|Extérieur]] ([[sous-type extraplanaire|extraplanaire]]) de taille M, N}
+{s:BDTexte|'''Init''' +5 ; '''Sens''' [[vision dans le noir]] 18 m (12 {s:c}), [[vision nocturne]] ; [[Perception]] +20}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 24, contact 16, pris au dépourvu 18 (armure +4, Dex +5, esquive +1, naturelle +4)}
+{s:BDTexte|'''pv''' 104 (11d10+44)}
+{s:BDTexte|'''Réf''' +8, '''Vig''' +11, '''Vol''' +1 ; +2 contre les effets divins}
+{s:BDTexte|'''Capacités défensives''' affinité avec l’énergie positive, aversion pour les divinités ; '''Immunités ''' absorption d’énergie, attaques de [[registre|mort]], [[maladie]], [[poison]] ; '''Résistances''' acide 10, électricité 10, feu 10, froid 10, son 10 ; '''RM''' 20}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD'''  9 m (6 {s:c}), Vol  27 m (18 {s:c})}
+{s:BDTexte|'''Corps à corps''' ''lance +1'', +14/+9/+4 (1d6+4/x3 plus 1d6 feu) et morsure, +8 (1d6+1 plus 1d6 feu)}
+{s:BDTexte|'''Distance''' rayon, +16 contact à distance (selon sort employé)}
+{s:BDTexte|'''Attaques spéciales''' énergie positive, [[souffle]] (cône de 18 m ((12 {s:c}), 11d6 feu, Réflexes DD 19, 1/2 dégâts, utilisable tous les 1d4 rounds)}
+{s:BDTexte|'''Pouvoirs magiques''' (NLS 11<sup>e</sup> ; concentration + 13)}
+{s:BDSorts|Constant [[armure de mage]]}
+{s:BDSorts|3/jour — ''[[aide]]'', ''[[lumière brûlante]]'', ''[[lumière du jour]]'', ''[[porte dimensionnelle]]'',
+''[[restauration partielle]]'', ''[[soins importants]]''}
+{s:BDSorts|1/jour — ''[[arme destructrice]]'', ''[[souffle de vie]]''}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 14, '''Dex''' 20, '''Con''' 19, '''Int''' 12, '''Sag''' 15, '''Cha''' 15}
+{s:BDTexte|'''BBA''' +11, '''BMO''' +13, '''DMD''' 29}
+{s:BDTexte|'''Dons''' [[Attaque en vol]], [[Comme le vent]], [[Esquive]], [[Magie de guerre]], [[Souplesse du serpent]], [[Volonté de fer]]}
+{s:BDTexte|'''Compétences''' [[Connaissances]] (plans) +19, [[Connaissances]] (religion) +19, [[Discrétion]] +19, [[Intimidation]] +16, [[Perception]] +20, [[Premiers secours]] +16, [[Psychologie]] +16, [[Vol]] +9 ; '''Modificateurs raciaux''' +4 en [[Connaissances]] (plans), +4 en [[Connaissances]] (religion), +4 en [[Perception]]}
+{s:BDTexte|'''Langues''' aérien, aquatique, commun, igné, terreux}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' tous (plan de l’Énergie positive)}
+{s:BDTexte|'''Organisation sociale''' solitaire, couple ou vol (3–8)}
+{s:BDTexte|'''Trésor''' double (''lance +1'', autres trésors}
+{s:BDSousTitre|Particularités}
+{s:BDTexte|'''Affinité avec l’énergie positive (Ext).''' Un jyoti peut vivre confortablement sur le plan de l’Énergie positive, sans être affecté (positivement ou négativement) par l’énergie vitale que ce plan infuse à toute chose. Chaque fois qu’un jyoti est affecté par un effet de guérison magique, celui-ci fonctionne à son plein potentiel,
+comme s’il était modifié par le don [[Quintessence des sorts]].}
+{s:BDTexte|'''Aversion pour les divinités (Sur).''' Les jyotis détestent les divinités et ne sont jamais des lanceurs de sorts divin. Ils gagnent un bonus racial de +2 aux [[jet de sauvegarde|jets de sauvegarde]] contre les effets magiques divins.}
+{s:BDTexte|'''Énergie positive (Sur).''' Les [[armes naturelles]] et les armes maniées par un jyoti fonctionnent comme des [[spectral|armes spectrales]]. De plus, toute arme (naturelle ou manufacturée) utilisée par un jyoti inflige +1d6 points de dégâts de feu.}
+{s:BDTexte|'''Souffle (Sur).''' Le souffle d’un jyoti est une explosion concentrée de flammes incandescentes mêlées à de l’énergie positive. Les [[type mort-vivant|morts-vivants]] situés dans la [[zone deffet|zone d’effet]] subissent 11d8 points de dégâts au lieu de 11d6.}
+</div>
+</td><td><div>''Cet humanoïde ressemble à un [[phoenix]] entouré d’un halo radieux. Sa lance est ornée d’une lame sculptée dans du cristal.''
+
+Les jyotis forment une race de créatures aviaires originaires du plan de l’Énergie positive, énigmatiques,
+xénophobes et promptes à la colère. Certains pensent qu’ils sont fondamentalement bons parce que leur plan d’origine est la source de toute vie, mais ils ont tort : lorsque les jyotis sont confrontés à une autre race, dans le meilleur des cas, ils se montrent méfiants et suspicieux. En règle générale, ils supposent plutôt le pire et passent à l’attaque sans donner l’occasion aux intrus de lancer les hostilités. Ils protègent leurs cités cristallines contre toutes les intrusions, tout spécialement celles menées par les créatures des autres plans et les serviteurs des dieux. Ils acceptent parfois de conserver des [[artefacts|artefacts]] dangereux dans leurs salles au trésor pour aider des visiteurs désespérés, mais lorsqu’il s’agit d’artefacts sacrés ou maudits, ils sont plutôt enclins à
+les détruire aussi vite que possible. <br>
+Les jyotis détestent tout particulièrement les créatures natives du plan des Ombres ou du plan de l’Énergie négative, même si leurs réactions envers les [[type mort-vivant|morts-vivants]] semblent être teintées d’une certaine forme de pitié. Ils ne parlent jamais des [[scéaduinar|scéaduinars]]. La simple évocation de ce nom suffit à déclencher une vive et immédiate colère chez eux. Ceux qui osent parler positivement des [[scéaduinar|scéaduinars]] sont attaqués sur-le-champs.
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Jyoti</fullName>
+</wikiPage>

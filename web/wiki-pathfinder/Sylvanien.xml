@@ -1,0 +1,217 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Sylvanien</title>
+  <categories><category>Pathfinder-RPG.Bestiaire</category><category>Pathfinder-RPG.Monstre</category></categories>
+  <lastModified>2013-09-04 11:53:49Z</lastModified>
+  <version>9</version>
+  <inLinks><link>Pathfinder-RPG.Arbre à pendus</link><link>Pathfinder-RPG.Bâton sylvanien</link><link>Pathfinder-RPG.Chêne animé</link><link>Pathfinder-RPG.Dragon vert</link><link>Pathfinder-RPG.Glossaire des monstres</link><link>Pathfinder-RPG.Léchi</link><link>Pathfinder-RPG.Liste de monstres par FP</link><link>Pathfinder-RPG.Liste de monstres par milieu naturel</link><link>Pathfinder-RPG.Liste de monstres par type</link><link>Pathfinder-RPG.Monstres</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.type Plante</link><link>Pathfinder-RPG.vision nocturne</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Traits des plantes</link><link>Pathfinder-RPG.Vulnérabilités (capacité)</link><link>Pathfinder-RPG.Lancer de rochers</link><link>Pathfinder-RPG.Piétinement</link><link>Pathfinder-RPG.Arme de prédilection</link><link>Pathfinder-RPG.Attaque en puissance</link><link>Pathfinder-RPG.Science de la destruction</link><link>Pathfinder-RPG.Science du critique</link><link>Pathfinder-RPG.Vigilance</link><link>Pathfinder-RPG.Volonté de fer</link><link>Pathfinder-RPG.Connaissances</link><link>Pathfinder-RPG.Diplomatie</link><link>Pathfinder-RPG.Discrétion</link><link>Pathfinder-RPG.Intimidation</link><link>Pathfinder-RPG.Psychologie</link><link>Pathfinder-RPG.Lancer de rochers (capacité)</link><link>Pathfinder-RPG.Communication avec les plantes</link><link>Pathfinder-RPG.attaque à outrance</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Sylvanien&lt;div style=&quot;float:right;&quot;&gt;FP 8&lt;/div&gt;&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Bestiaire&lt;/i&gt; p.268
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 4.800
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Plante.html&quot; title=&quot;Plante&quot;&gt;Plante&lt;/a&gt; de taille TG, NB
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; -1 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Nocturne-(Capacit&#233;).html&quot; title=&quot;vision nocturne&quot;&gt;vision nocturne&lt;/a&gt; ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +12
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 21, contact 7, pris au d&#233;pourvu 21 (Dex -1, naturelle +14, taille -2)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 114 (12d8+60)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +3, &lt;b&gt;Vig&lt;/b&gt; +13, &lt;b&gt;Vol&lt;/b&gt; +9
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Capacit&#233;s d&#233;fensives&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Traits-Des-Plantes-(Capacit&#233;).html&quot; title=&quot;Traits des plantes&quot;&gt;traits des plantes&lt;/a&gt; ; &lt;b&gt;RD&lt;/b&gt; 10/tranchant 
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Faiblesses&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vuln&#233;rabilit&#233;s-(Capacit&#233;).html&quot; title=&quot;Vuln&#233;rabilit&#233;s (Ext ou Sur)&quot;&gt;vuln&#233;rabilit&#233;&lt;/a&gt; au feu
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 9 m (6 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; 2 coups +17 (2d6+9/19-20)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Distance&lt;/b&gt; rocher +7 (2d6+13)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Espace&lt;/b&gt; 3 ; &lt;b&gt;Allonge&lt;/b&gt; 3
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaques sp&#233;ciales&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Lancer-De-Rochers-(Capacit&#233;).html&quot; title=&quot;Lancer de rochers&quot;&gt;lancer de rochers&lt;/a&gt; 54 m (36 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), &lt;a class=&quot;pagelink&quot; href=&quot;Pi&#233;tinement.html&quot; title=&quot;Pi&#233;tinement&quot;&gt;pi&#233;tinement&lt;/a&gt; (2d6+13, DD 25)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 29, &lt;b&gt;Dex&lt;/b&gt; 8, &lt;b&gt;Con&lt;/b&gt; 21, &lt;b&gt;Int&lt;/b&gt; 12, &lt;b&gt;Sag&lt;/b&gt; 16, &lt;b&gt;Cha&lt;/b&gt; 13
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +9, &lt;b&gt;BMO&lt;/b&gt; +20, &lt;b&gt;DMD&lt;/b&gt; 29
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Arme-De-Pr&#233;dilection.html&quot; title=&quot;Arme de pr&#233;dilection&quot;&gt;Arme de pr&#233;dilection&lt;/a&gt; (coup), &lt;a class=&quot;pagelink&quot; href=&quot;Attaque-En-Puissance.html&quot; title=&quot;Attaque en puissance&quot;&gt;Attaque en puissance&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Science-De-La-Destruction.html&quot; title=&quot;Science de la destruction&quot;&gt;Science de la destruction&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Science-Du-Critique.html&quot; title=&quot;Science du critique&quot;&gt;Science du critique&lt;/a&gt; (coup), &lt;a class=&quot;pagelink&quot; href=&quot;Vigilance.html&quot; title=&quot;Vigilance&quot;&gt;Vigilance&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Volont&#233;-De-Fer.html&quot; title=&quot;Volont&#233; de fer&quot;&gt;Volont&#233; de fer&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Connaissances.html&quot; title=&quot;Connaissances&quot;&gt;Connaissances&lt;/a&gt; (nature) +9, &lt;a class=&quot;pagelink&quot; href=&quot;Diplomatie.html&quot; title=&quot;Diplomatie&quot;&gt;Diplomatie&lt;/a&gt; +9, &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; -9 (+7 en for&#234;t), &lt;a class=&quot;pagelink&quot; href=&quot;Intimidation.html&quot; title=&quot;Intimidation&quot;&gt;Intimidation&lt;/a&gt; +9, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +12, &lt;a class=&quot;pagelink&quot; href=&quot;Psychologie.html&quot; title=&quot;Psychologie&quot;&gt;Psychologie&lt;/a&gt; +9 ; &lt;b&gt;Modificateurs raciaux&lt;/b&gt; +16 en &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; en for&#234;ts
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Langues&lt;/b&gt; commun, sylvanien, sylvestre
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Particularit&#233;s&lt;/b&gt; animation d&#39;arbres, communication avec les plantes, d&#233;g&#226;ts doubl&#233;s contre les objets
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; n&#39;importe quelle for&#234;t
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation sociale&lt;/b&gt; solitaire ou bosquet (2-7)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; standard
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Capacit&#233;s sp&#233;ciales&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Animation d&#39;arbres (Mag)&lt;/b&gt; Un sylvanien peut animer les arbres pr&#233;sents dans un rayon de 54 m (36 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;). Cette capacit&#233; utilisable &#224; volont&#233; lui permet de contr&#244;ler jusqu&#39;&#224; deux arbres en m&#234;me temps. Il faut 1 round entier &#224; un arbre pour extraire ses racines de terre. Apr&#232;s cela, il peut se d&#233;placer &#224; une vitesse de 3 m (2 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) et combattre comme un sylvanien (mais il ne poss&#232;de qu&#39;une seule attaque de coup et n&#39;acquiert pas les capacit&#233;s  d&#39;animation et de &lt;a class=&quot;pagelink&quot; href=&quot;Lancer-De-Rochers-(Capacit&#233;).html&quot; title=&quot;Lancer de rochers (Ext)&quot;&gt;lancement de rochers&lt;/a&gt;). Comme le sylvanien, l&#39;arbre anim&#233; est vuln&#233;rable au feu. Si le sylvanien qui l&#39;a anim&#233; met un terme &#224; cet effet, sort de la port&#233;e maximale ou devient incapable d&#39;agir, l&#39;arbre reprend imm&#233;diatement racines l&#224; o&#249; il se trouve et redevient un arbre tout &#224; fait normal.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Communication avec les plantes (Ext)&lt;/b&gt; Les sylvaniens peuvent dialoguer avec les plantes comme s&#39;ils &#233;taient constamment sous les effets d&#39;un sort de  &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Communication-Avec-Les-Plantes.html&quot; title=&quot;Communication avec les plantes&quot;&gt;communication avec les plantes&lt;/a&gt;&lt;/i&gt; et la plupart des plantes les consid&#232;rent avec une attitude amicale ou serviable.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;D&#233;g&#226;ts doubl&#233;s contre les objets (Ext)&lt;/b&gt; Lorsqu&#39;un sylvanien ou un arbre anim&#233; effectue une &lt;a class=&quot;pagelink&quot; href=&quot;Actions-Complexes.html#ATTAQUEAOUTRANCE&quot; title=&quot;attaque &#224; outrance&quot;&gt;attaque &#224; outrance&lt;/a&gt; contre un objet ou un b&#226;timent, les d&#233;g&#226;ts inflig&#233;s sont doubl&#233;s.
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;td&gt;&lt;div&gt;&lt;i&gt;Les nœuds dans l’&#233;corce de cet arbre anim&#233; forment une silhouette
+humano&#239;de dont les branches sont des bras et les racines des pieds.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Les sylvaniens sont les gardiens de la for&#234;t et les porte-parole des
+arbres. Ces cr&#233;atures anciennes dont la long&#233;vit&#233; &#233;gale celle des for&#234;ts
+se consid&#232;rent comme des parents et des bergers plut&#244;t que comme de
+simples jardiniers. Les sylvaniens sont lents et m&#233;thodiques en toute
+chose, mais ils peuvent se monter terrifiants lorsqu’ils sont forc&#233;s
+de combattre pour d&#233;fendre leur troupeau. Ils ne cherchent gu&#232;re la
+compagnie des races dont l’esp&#233;rance de vie est plus courte que la leur
+et se m&#233;fient instinctivement du changement. Mais ils tol&#232;rent parfois
+la pr&#233;sence de ceux qui veulent apprendre et qui acceptent d’&#233;couter
+leurs longs monologues et leurs radotages, tout sp&#233;cialement
+ceux qui affirment vouloir prot&#233;ger la nature. Face &#224; ceux qui
+voudraient causer du tort aux arbres, et plus particuli&#232;rement
+aux b&#251;cherons qui d&#233;sirent r&#233;colter du bois ou &#224; ceux qui
+tentent de raser une partie de la for&#234;t pour y construire un
+fort ou y &#233;tablir une ville, ils font preuve d’une
+fureur brusque et d&#233;vastatrice. Ils sont tout
+particuli&#232;rement dou&#233;s pour abattre ce que
+d’autres ont construit, un don qui leur
+est bien utile.&lt;br /&gt;&lt;br /&gt;La plupart des sylvaniens sont des
+cr&#233;atures solitaires. Certains d’entre
+eux sont responsables de for&#234;ts tout
+enti&#232;res et se rassemblent parfois en
+petits groupes appel&#233;s &#171; bosquets &#187;
+pour &#233;changer des nouvelles et se
+reproduire. En p&#233;riode de grave
+danger, tous les bosquets d’une
+r&#233;gion se r&#233;unissent parfois lors d’un
+grand rassemblement pouvant durer
+plusieurs mois et appel&#233; une &#171; comice &#187;.
+Mais des mill&#233;naires peuvent s’&#233;couler
+entre deux de ces &#233;v&#233;nements extr&#234;mement
+rares.&lt;br /&gt;&lt;br /&gt;Le sylvanien moyen mesure
+9 m&#232;tres de hauteur, poss&#232;de un
+tronc de 60 cm de diam&#232;tre et p&#232;se
+2 300 kg. Les sylvaniens ressemblent
+g&#233;n&#233;ralement aux arbres les plus
+nombreux de leur r&#233;gion.
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Sylvanien|FP 8}
+{s:pucem|Plante|Forêt-Jungle|Tempéré}
+{s:BDTexte|''Source : Bestiaire'' p.268}
+{s:BDTexte|'''PX''' 4.800}
+{s:BDTexte|[[type Plante|Plante]] de taille TG, NB}
+{s:BDTexte|'''Init''' -1 ; '''Sens''' [[vision nocturne]] ; [[Perception]] +12}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 21, contact 7, pris au dépourvu 21 (Dex -1, naturelle +14, taille -2)}
+{s:BDTexte|'''pv''' 114 (12d8+60)}
+{s:BDTexte|'''Réf''' +3, '''Vig''' +13, '''Vol''' +9}
+{s:BDTexte|'''Capacités défensives''' [[traits des plantes]] ; '''RD''' 10/tranchant }
+{s:BDTexte|'''Faiblesses''' [[vulnérabilités (capacité)|vulnérabilité]] au feu}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 9 m (6 {s:c})}
+{s:BDTexte|'''Corps à corps''' 2 coups +17 (2d6+9/19-20)}
+{s:BDTexte|'''Distance''' rocher +7 (2d6+13)}
+{s:BDTexte|'''Espace''' 3 ; '''Allonge''' 3}
+{s:BDTexte|'''Attaques spéciales''' [[lancer de rochers]] 54 m (36 {s:c}), [[piétinement]] (2d6+13, DD 25)}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 29, '''Dex''' 8, '''Con''' 21, '''Int''' 12, '''Sag''' 16, '''Cha''' 13}
+{s:BDTexte|'''BBA''' +9, '''BMO''' +20, '''DMD''' 29}
+{s:BDTexte|'''Dons''' [[Arme de prédilection]] (coup), [[Attaque en puissance]], [[Science de la destruction]], [[Science du critique]] (coup), [[Vigilance]], [[Volonté de fer]]}
+{s:BDTexte|'''Compétences''' [[Connaissances]] (nature) +9, [[Diplomatie]] +9, [[Discrétion]] -9 (+7 en forêt), [[Intimidation]] +9, [[Perception]] +12, [[Psychologie]] +9 ; '''Modificateurs raciaux''' +16 en [[Discrétion]] en forêts}
+{s:BDTexte|'''Langues''' commun, sylvanien, sylvestre}
+{s:BDTexte|'''Particularités''' animation d'arbres, communication avec les plantes, dégâts doublés contre les objets}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' n'importe quelle forêt}
+{s:BDTexte|'''Organisation sociale''' solitaire ou bosquet (2-7)}
+{s:BDTexte|'''Trésor''' standard}
+{s:BDSousTitre|Capacités spéciales}
+{s:BDTexte|'''Animation d'arbres (Mag)''' Un sylvanien peut animer les arbres présents dans un rayon de 54 m (36 {s:c}). Cette capacité utilisable à volonté lui permet de contrôler jusqu'à deux arbres en même temps. Il faut 1 round entier à un arbre pour extraire ses racines de terre. Après cela, il peut se déplacer à une vitesse de 3 m (2 {s:c}) et combattre comme un sylvanien (mais il ne possède qu'une seule attaque de coup et n'acquiert pas les capacités  d'animation et de [[lancer de rochers (capacité)|lancement de rochers]]). Comme le sylvanien, l'arbre animé est vulnérable au feu. Si le sylvanien qui l'a animé met un terme à cet effet, sort de la portée maximale ou devient incapable d'agir, l'arbre reprend immédiatement racines là où il se trouve et redevient un arbre tout à fait normal.}
+{s:BDTexte|'''Communication avec les plantes (Ext)''' Les sylvaniens peuvent dialoguer avec les plantes comme s'ils étaient constamment sous les effets d'un sort de  ''[[communication avec les plantes]]'' et la plupart des plantes les considèrent avec une attitude amicale ou serviable.}
+{s:BDTexte|'''Dégâts doublés contre les objets (Ext)''' Lorsqu'un sylvanien ou un arbre animé effectue une [[attaque à outrance]] contre un objet ou un bâtiment, les dégâts infligés sont doublés.}
+</div>
+</td><td><div>''Les nœuds dans l’écorce de cet arbre animé forment une silhouette
+humanoïde dont les branches sont des bras et les racines des pieds.''
+
+Les sylvaniens sont les gardiens de la forêt et les porte-parole des
+arbres. Ces créatures anciennes dont la longévité égale celle des forêts
+se considèrent comme des parents et des bergers plutôt que comme de
+simples jardiniers. Les sylvaniens sont lents et méthodiques en toute
+chose, mais ils peuvent se monter terrifiants lorsqu’ils sont forcés
+de combattre pour défendre leur troupeau. Ils ne cherchent guère la
+compagnie des races dont l’espérance de vie est plus courte que la leur
+et se méfient instinctivement du changement. Mais ils tolèrent parfois
+la présence de ceux qui veulent apprendre et qui acceptent d’écouter
+leurs longs monologues et leurs radotages, tout spécialement
+ceux qui affirment vouloir protéger la nature. Face à ceux qui
+voudraient causer du tort aux arbres, et plus particulièrement
+aux bûcherons qui désirent récolter du bois ou à ceux qui
+tentent de raser une partie de la forêt pour y construire un
+fort ou y établir une ville, ils font preuve d’une
+fureur brusque et dévastatrice. Ils sont tout
+particulièrement doués pour abattre ce que
+d’autres ont construit, un don qui leur
+est bien utile.
+
+La plupart des sylvaniens sont des
+créatures solitaires. Certains d’entre
+eux sont responsables de forêts tout
+entières et se rassemblent parfois en
+petits groupes appelés « bosquets »
+pour échanger des nouvelles et se
+reproduire. En période de grave
+danger, tous les bosquets d’une
+région se réunissent parfois lors d’un
+grand rassemblement pouvant durer
+plusieurs mois et appelé une « comice ».
+Mais des millénaires peuvent s’écouler
+entre deux de ces événements extrêmement
+rares.
+
+Le sylvanien moyen mesure
+9 mètres de hauteur, possède un
+tronc de 60 cm de diamètre et pèse
+2 300 kg. Les sylvaniens ressemblent
+généralement aux arbres les plus
+nombreux de leur région.
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Sylvanien</fullName>
+</wikiPage>

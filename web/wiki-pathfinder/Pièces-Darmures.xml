@@ -1,0 +1,890 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Pièces d'armure</title>
+  <categories><category>Pathfinder-RPG.Art de la guerre</category><category>Pathfinder-RPG.Règles officielles</category></categories>
+  <lastModified>2013-03-03 23:38:59Z</lastModified>
+  <version>11</version>
+  <inLinks><link>Pathfinder-RPG.Blessures et vitalité</link><link>Pathfinder-RPG.Description des armures orientales</link><link>Pathfinder-RPG.Description des pièces darmure</link><link>Pathfinder-RPG.Frappes ciblées</link><link>Pathfinder-RPG.Larmure comme RD</link><link>Pathfinder-RPG.Pièces darmures</link><link>Pathfinder-RPG.Régles alternatives</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Régles alternatives</link><link>Pathfinder-RPG.Larmure comme RD</link><link>Pathfinder-RPG.Frappes ciblées</link><link>Pathfinder-RPG.Pièces darmures</link><link>Pathfinder-RPG.Description des pièces darmure</link><link>Pathfinder-RPG.Blessures et vitalité</link><link>Pathfinder-RPG.Caractéristiques des armures</link><link>Pathfinder-RPG.Guerrier</link><link>Pathfinder-RPG.jet dattaque</link><link>Pathfinder-RPG.Matériaux spéciaux</link><link>Pathfinder-RPG.Armures magiques</link><link>Pathfinder-RPG.Création dobjets magiques</link><link>Pathfinder-RPG.Réduction de dégâts (capacité)</link><link>Pathfinder-RPG.Exploration</link></outLinks>
+  <body><![CDATA[&lt;div style=&quot;float: right; margin-left: 10px; margin-right: -40px; max-width: 300px;&quot; class=&quot;presentation recentre&quot;&gt;&lt;table id=&quot;TocContainerTable&quot;&gt;&lt;tr&gt;&lt;td&gt;&lt;div id=&quot;TocContainer&quot;&gt;&lt;p class=&quot;small&quot;&gt;&lt;b&gt;Table of Contents&lt;/b&gt;&lt;span id=&quot;ExpandTocSpan&quot;&gt; [&lt;a href=&quot;#&quot; onclick=&quot;javascript:if(document.getElementById(&#39;Toc&#39;).style[&#39;display&#39;]==&#39;none&#39;) document.getElementById(&#39;Toc&#39;).style[&#39;display&#39;]=&#39;&#39;; else document.getElementById(&#39;Toc&#39;).style[&#39;display&#39;]=&#39;none&#39;; return false;&quot;&gt;Hide/Show&lt;/a&gt;]&lt;/span&gt;&lt;/p&gt;&lt;div id=&quot;Toc&quot;&gt;&lt;p&gt;&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;#Pi&#232;ces_darmure_et_armures_compl&#232;tes_6&quot;&gt;Pi&#232;ces d&#39;armure et armures compl&#232;tes&lt;/a&gt;&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;#Port_des_pi&#232;ces_darmure_7&quot;&gt;Port des pi&#232;ces d&#39;armure&lt;/a&gt;&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;#Armures_de_ma&#238;tre_mat&#233;riaux_sp&#233;ciaux_et_armures_magiques_8&quot;&gt;Armures de ma&#238;tre, mat&#233;riaux sp&#233;ciaux et armures magiques&lt;/a&gt;&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;#Adamantium_0&quot;&gt;Adamantium&lt;/a&gt;&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;#Mithral_1&quot;&gt;Mithral&lt;/a&gt;&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;#Peau_de_dragon_2&quot;&gt;Peau de dragon&lt;/a&gt;&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;#Enfiler_et_&#244;ter_ses_pi&#232;ces_darmure_9&quot;&gt;Enfiler et &#244;ter ses pi&#232;ces d&#39;armure&lt;/a&gt;&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;#Pi&#232;ces_darmure_des_cr&#233;atures_inhabituelles_10&quot;&gt;Pi&#232;ces d&#39;armure des cr&#233;atures inhabituelles&lt;/a&gt;&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;#Solidit&#233;_et_points_de_r&#233;sistance_des_armures_et_pi&#232;ces_darmure_11&quot;&gt;Solidit&#233; et points de r&#233;sistance des armures et pi&#232;ces d&#39;armure&lt;/a&gt;&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;#Description_des_pi&#232;ces_darmure_12&quot;&gt;Description des pi&#232;ces d&#39;armure&lt;/a&gt;&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;#Bras_darmure_3&quot;&gt;Bras d&#39;armure&lt;/a&gt;&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;#Jambes_darmure_4&quot;&gt;Jambes d&#39;armure&lt;/a&gt;&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;#Pectoral_darmures_5&quot;&gt;Pectoral d&#39;armures&lt;/a&gt;&lt;br /&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;&lt;div style=&quot;float: left; margin-right: 20px; margin-bottom: 10px;&quot; class=&quot;presentation recentre&quot;&gt;
+&lt;h2 class=&quot;separator&quot;&gt;&lt;div style=&quot;float: right; margin-top: -4px;&quot;&gt;&lt;/div&gt;R&#232;gles alternatives&lt;/h2&gt;
+&lt;ul&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;R&#233;gles-Alternatives.html&quot; title=&quot;R&#232;gles alternatives&quot;&gt;Introduction&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Larmure-Comme-Rd.html&quot; title=&quot;L&amp;#39;armure comme RD&quot;&gt;L&#39;armure comme r&#233;duction de d&#233;g&#226;ts&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Frappes-Cibl&#233;es.html&quot; title=&quot;Frappes cibl&#233;es&quot;&gt;Frappes cibl&#233;es&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Pi&#232;ces-Darmures.html&quot; title=&quot;Pi&#232;ces d&amp;#39;armure&quot;&gt;Pi&#232;ces d&#39;armure&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Description-Des-Pi&#232;ces-Darmure.html&quot; title=&quot;Description des pi&#232;ces d&amp;#39;armure&quot;&gt;descriptions&lt;/a&gt;)&lt;/li&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Blessures-Et-Vitalit&#233;.html&quot; title=&quot;Blessures et vitalit&#233;&quot;&gt;Blessures et vitalit&#233;&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;Toutes les armures de &lt;i&gt;Pathfinder JdR&lt;/i&gt; sont con&#231;ues avec
+des &#233;l&#233;ments et des pi&#232;ces qui sont soigneusement (ou
+pr&#233;cipitamment) enfil&#233;s &#224; chaque fois que l’armure est utilis&#233;e.
+Si une armure compl&#232;te prot&#232;ge toujours mieux qu’un ensemble
+disparate de pi&#232;ces d’armure, parfois les personnages n’ont pas
+le temps de rev&#234;tir la totalit&#233; des pi&#232;ces composant une armure
+compl&#232;te avant de se jeter dans la m&#234;l&#233;e. Dans d’autres cas, les
+personnages peuvent ne pas avoir acc&#232;s &#224; une armure compl&#232;te
+et &#224; l’ensemble de ses pi&#232;ces ; dans les situations d&#233;sesp&#233;r&#233;es, ils
+pourraient se voir oblig&#233;s de chercher des pi&#232;ces ou des parties
+d’armure incompl&#232;te parmi de nombreux tr&#233;sors de bas niveau,
+ou devoir d&#233;pouiller les corps de leurs ennemis tomb&#233;s au
+combat pour s’&#233;quiper et se prot&#233;ger.&lt;br /&gt;&lt;br /&gt;Les r&#232;gles suivantes sont con&#231;ues pour introduire les
+pi&#232;ces d’armure dans votre campagne. Toutes les
+armures pr&#233;sent&#233;es dans le pr&#233;sent ouvrage,
+le &lt;i&gt;Manuel des joueurs&lt;/i&gt; et le &lt;i&gt;Manuel des
+joueurs, r&#232;gles avanc&#233;es&lt;/i&gt; se scindent en trois
+parties distinctes, c’est-&#224;-dire en trois
+pi&#232;ces d’armure prot&#233;geant des zones
+diff&#233;rentes : bras, jambes et torse. Par
+commodit&#233;, les pi&#232;ces d’armure des
+bras, des jambes et du tronc seront
+respectivement d&#233;sign&#233;es comme
+bras d’armure, jambes d’armure (ou
+jambi&#232;res) et pectoral d’armure.&lt;br /&gt;&lt;br /&gt;&lt;h2 class=&quot;separator&quot;&gt;Pi&#232;ces d&#39;armure et armures compl&#232;tes&lt;a class=&quot;headeranchor&quot; id=&quot;Pi&#232;ces_darmure_et_armures_compl&#232;tes_6&quot; href=&quot;#Pi&#232;ces_darmure_et_armures_compl&#232;tes_6&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;Le syst&#232;me des pi&#232;ces d’armure scinde les armures en trois
+grandes parties, les trois types de pi&#232;ces d’armure. Une pi&#232;ce
+d’armure est un petit ensemble r&#233;unissant plusieurs &#233;l&#233;ments
+et parties d’une armure, et pas simplement n’importe quelle
+petite partie s&#233;parable de la totalit&#233; de l’armure. Ce qui est
+d&#233;sign&#233; comme une pi&#232;ce d’armure consiste en l’ensemble des
+&#233;l&#233;ments et parties d’armure n&#233;cessaires pour prot&#233;ger la zone
+lui correspondant – que ce soit les bras, les jambes ou le torse
+(qui inclut la t&#234;te). Ainsi une simple pi&#232;ce d’armure de bras ou
+de jambes procure une protection aux deux bras ou aux deux
+jambes, respectivement. Un bras d’armure en plaques se compose
+g&#233;n&#233;ralement d’une paire d’&#233;pauli&#232;res (ou spali&#232;res), de plaques
+d’&#233;paule (ou rondelles), de canons (ou brassards) d’arri&#232;re-bras,
+de brassards (ou canons) d’avant-bras et de gantelets ainsi que
+de pi&#232;ces de mailles pour faire le lien, le tout sur une protection
+de bras matelass&#233;e. Parall&#232;lement, une pi&#232;ce d’armure lamellaire
+de mailles con&#231;ue pour le bras se compose de deux manches de
+mailles, de gantelets, et &#233;ventuellement d’une paire d’&#233;pauli&#232;res
+et de cubiti&#232;res (ou garde-bras). Les deux pi&#232;ces prot&#232;gent le bras,
+mais elles ont des composants sp&#233;cifiques diff&#233;rents par leur
+nombre, leur type et leurs mat&#233;riaux.&lt;br /&gt;&lt;br /&gt;Les valeurs de protection de chacune des diff&#233;rentes pi&#232;ces
+d’armure sont list&#233;es dans les tables &lt;a class=&quot;internallink&quot; href=&quot;#TABPROFILSBRAS&quot; title=&quot;Profils des bras d’armure&quot;&gt;Profils des bras d’armure&lt;/a&gt;,
+&lt;a class=&quot;internallink&quot; href=&quot;#TABPROFILSJAMBES&quot; title=&quot;Profils des jambes d’armure&quot;&gt;Profils des jambes d’armure&lt;/a&gt;, et &lt;a class=&quot;internallink&quot; href=&quot;#TABPROFILSTRONC&quot; title=&quot;Profils des pi&#232;ces d’armure pectorales&quot;&gt;Profils des pi&#232;ces d’armure pectorales&lt;/a&gt;.
+Si un personnage n’a qu’une pi&#232;ce
+d’armure, cette pi&#232;ce est consid&#233;r&#233;e comme la totalit&#233; de son
+armure et les caract&#233;ristiques de cette pi&#232;ce doivent &#234;tre utilis&#233;es
+pour d&#233;finir ses niveaux de protection. Si un personnage porte
+plus d’une pi&#232;ce d’armure, il additionne les &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques-Des-Armures.html#PRIX&quot; title=&quot;Caract&#233;ristiques des armures&quot;&gt;prix&lt;/a&gt;, les &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques-Des-Armures.html#BONUSARMUREBOUCLIER&quot; title=&quot;Caract&#233;ristiques des armures&quot;&gt;bonus d’armure&lt;/a&gt; et le &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques-Des-Armures.html#POIDS&quot; title=&quot;Caract&#233;ristiques des armures&quot;&gt;poids&lt;/a&gt; des diff&#233;rentes pi&#232;ces, puis il re&#231;oit toujours
+le &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques-Des-Armures.html#BONUSDEXMAX&quot; title=&quot;Caract&#233;ristiques des armures&quot;&gt;bonus de Dext&#233;rit&#233; maximal&lt;/a&gt; le moins &#233;lev&#233;, le plus important
+&lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques-Des-Armures.html#RISQUEECHECPROFANE&quot; title=&quot;Caract&#233;ristiques des armures&quot;&gt;risque d’&#233;chec des sorts profanes&lt;/a&gt; et les pires
+&lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques-Des-Armures.html#VITESSEDEPLACEMENT&quot; title=&quot;Caract&#233;ristiques des armures&quot;&gt;limitations &#224; la vitesse de d&#233;placement&lt;/a&gt; parmi l’ensemble des pi&#232;ces dont il est
+&#233;quip&#233; pour d&#233;terminer le profil complet de l’armure qu’il porte.
+Tant que le personnage est &#233;quip&#233; d’une pi&#232;ce d’armure, m&#234;me
+une seule, il est consid&#233;r&#233; comme portant une armure pour tous
+les effets li&#233;s au port d’armure (comme les aptitudes de classe
+&lt;a class=&quot;pagelink&quot; href=&quot;Guerrier.html#ENTRAINEMENTAUXARMURES&quot; title=&quot;Le guerrier&quot;&gt;entra&#238;nement aux armures&lt;/a&gt; et &lt;a class=&quot;pagelink&quot; href=&quot;Guerrier.html#MAITRISEDESARMURES&quot; title=&quot;Le guerrier&quot;&gt;ma&#238;trise des armures&lt;/a&gt;).&lt;br /&gt;&lt;br /&gt;Si un personnage porte les trois cat&#233;gories de pi&#232;ces d’armure
+en m&#234;me temps, il porte un ensemble d’armure complet. Les
+armures compl&#232;tes peuvent avoir des pi&#232;ces d’armure d’un seul
+et m&#234;me type (trois pi&#232;ces d’armure de plaques font une armure
+de plaques compl&#232;te), ou &#234;tre constitu&#233;es d’un m&#233;lange de
+pi&#232;ces d’armure diverses (des pi&#232;ces d’armure de plaques
+pour les bras et le torse, combin&#233;es avec une pi&#232;ce
+d’armure de mailles pour les jambes, forment
+une armure de plaques). S’&#233;quiper d’une
+armure compl&#232;te, que ses pi&#232;ces soient
+du m&#234;me type ou non, apporte un &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques-Des-Armures.html#BONUSARMUREBOUCLIER&quot; title=&quot;Caract&#233;ristiques des armures&quot;&gt;bonus d’armure&lt;/a&gt; de +1 en plus de toute protection
+offerte par la combinaison des pi&#232;ces. Le
+port d’une armure m&#234;lant les diff&#233;rents
+types d’armures augmente le &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques-Des-Armures.html#RISQUEECHECPROFANE&quot; title=&quot;Caract&#233;ristiques des armures&quot;&gt;risque d’&#233;chec des sorts profanes&lt;/a&gt; de 5% en raison de
+la gaucherie de l’ensemble. Porter des
+pi&#232;ces d’armure sans constituer une
+armure compl&#232;te (moins de trois pi&#232;ces d’armure)
+n’augmente pas le &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques-Des-Armures.html#RISQUEECHECPROFANE&quot; title=&quot;Caract&#233;ristiques des armures&quot;&gt;risque d’&#233;chec des sorts profanes&lt;/a&gt;.
+Si le personnage porte, par exemple, une cuirasse avec une pi&#232;ce
+d’armure de plaques pour ses bras et des jambi&#232;res de mailles,
+il doit consulter la table &lt;a class=&quot;internallink&quot; href=&quot;#TABPIECESPLAQUES&quot; title=&quot;Pi&#232;ces des armures de plaques&quot;&gt;Pi&#232;ces des armures de plaques&lt;/a&gt;
+pour conna&#238;tre les caract&#233;ristiques de son armure. La premi&#232;re
+ligne indique les &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques-Des-Armures.html#PRIX&quot; title=&quot;Caract&#233;ristiques des armures&quot;&gt;prix&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques-Des-Armures.html#BONUSARMUREBOUCLIER&quot; title=&quot;Caract&#233;ristiques des armures&quot;&gt;bonus&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques-Des-Armures.html#MALUSARMURE&quot; title=&quot;Caract&#233;ristiques des armures&quot;&gt;malus&lt;/a&gt;, et autres informations sur
+l’armure de plaques, et les lignes suivantes d&#233;taillent les profils
+des diff&#233;rentes pi&#232;ces d’armure qu’il est possible de combiner
+dans cet ensemble, ainsi que les avantages qui r&#233;sultent de
+l’assemblage de ces pi&#232;ces.&lt;br /&gt;&lt;br /&gt;&lt;a name=&quot;TABPIECESPLAQUES&quot;&gt;&lt;/a&gt;
+&lt;center&gt;
+&lt;table CLASS=&quot;tablo&quot;&gt;&lt;caption&gt;Pi&#232;ces des armures de plaques &lt;/caption&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td ROWSPAN=&quot;2&quot;&gt;Type d’armure&lt;/td&gt;&lt;td ROWSPAN=&quot;2&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques-Des-Armures.html#PRIX&quot; title=&quot;Caract&#233;ristiques des armures&quot;&gt;Prix&lt;/a&gt;&lt;/td&gt;&lt;td ROWSPAN=&quot;2&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques-Des-Armures.html#BONUSARMUREBOUCLIER&quot; title=&quot;Caract&#233;ristiques des armures&quot;&gt;Bonus d’armure&lt;/a&gt;&lt;/td&gt;&lt;td ROWSPAN=&quot;2&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques-Des-Armures.html#BONUSDEXMAX&quot; title=&quot;Caract&#233;ristiques des armures&quot;&gt;Bonus de Dex max&lt;/a&gt;&lt;/td&gt;&lt;td ROWSPAN=&quot;2&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques-Des-Armures.html#MALUSARMURE&quot; title=&quot;Caract&#233;ristiques des armures&quot;&gt;Malus d’armure aux tests&lt;/a&gt;&lt;/td&gt;&lt;td ROWSPAN=&quot;2&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques-Des-Armures.html#RISQUEECHECPROFANE&quot; title=&quot;Caract&#233;ristiques des armures&quot;&gt;Risque d’&#233;chec des sorts profanes&lt;/a&gt;&lt;/td&gt;&lt;td COLSPAN=&quot;2&quot; CLASS=&quot;avecsoustitre&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques-Des-Armures.html#VITESSEDEPLACEMENT&quot; title=&quot;Caract&#233;ristiques des armures&quot;&gt;Vitesse&lt;/a&gt;&lt;/td&gt;&lt;td ROWSPAN=&quot;2&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques-Des-Armures.html#POIDS&quot; title=&quot;Caract&#233;ristiques des armures&quot;&gt;Poids&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;soustitre&quot;&gt;&lt;td&gt;9&amp;nbsp;m&amp;nbsp;(6&amp;nbsp;&lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)&lt;/td&gt;&lt;td&gt;6m&amp;nbsp;(4&amp;nbsp;&lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Armure de plaques&lt;/td&gt;&lt;td&gt;600&amp;nbsp;po&lt;/td&gt;&lt;td&gt;+8&lt;/td&gt;&lt;td&gt;+0&lt;/td&gt;&lt;td&gt;-7&lt;/td&gt;&lt;td&gt;40%&lt;/td&gt;&lt;td&gt;6&amp;nbsp;m&amp;nbsp;(4&amp;nbsp;&lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)&lt;/td&gt;&lt;td&gt;4,50&amp;nbsp;m&amp;nbsp;(3&amp;nbsp;&lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)&lt;/td&gt;&lt;td&gt;25 kg&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;(bras d’armure en plaques)&lt;/td&gt;&lt;td&gt;375&amp;nbsp;po&lt;/td&gt;&lt;td&gt;+1&lt;/td&gt;&lt;td&gt;+0&lt;/td&gt;&lt;td&gt;-7&lt;/td&gt;&lt;td&gt;35%&lt;/td&gt;&lt;td&gt;9&amp;nbsp;m&amp;nbsp;(6&amp;nbsp;&lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)&lt;/td&gt;&lt;td&gt;6&amp;nbsp;m&amp;nbsp;(4&amp;nbsp;&lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)&lt;/td&gt;&lt;td&gt;5 kg&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;(jambi&#232;res de mailles)&lt;/td&gt;&lt;td&gt;25&amp;nbsp;po&lt;/td&gt;&lt;td&gt;+0&lt;/td&gt;&lt;td&gt;+2&lt;/td&gt;&lt;td&gt;-2&lt;/td&gt;&lt;td&gt;15%&lt;/td&gt;&lt;td&gt;9&amp;nbsp;m&amp;nbsp;(6&amp;nbsp;&lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)&lt;/td&gt;&lt;td&gt;6&amp;nbsp;m&amp;nbsp;(4&amp;nbsp;&lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)&lt;/td&gt;&lt;td&gt;5 kg&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;(pectoral de plaques)&lt;/td&gt;&lt;td&gt;200&amp;nbsp;po&lt;/td&gt;&lt;td&gt;+6&lt;/td&gt;&lt;td&gt;+3&lt;/td&gt;&lt;td&gt;-4&lt;/td&gt;&lt;td&gt;35%&lt;/td&gt;&lt;td&gt;6&amp;nbsp;m&amp;nbsp;(4&amp;nbsp;&lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)&lt;/td&gt;&lt;td&gt;4,50&amp;nbsp;m&amp;nbsp;(3&amp;nbsp;&lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)&lt;/td&gt;&lt;td&gt;15 kg&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;(port de l’ensemble)&lt;/td&gt;&lt;td&gt;–&lt;/td&gt;&lt;td&gt;+1&lt;/td&gt;&lt;td&gt;–&lt;/td&gt;&lt;td&gt;–&lt;/td&gt;&lt;td&gt;+5%&lt;/td&gt;&lt;td&gt;–&lt;/td&gt;&lt;td&gt;–&lt;/td&gt;&lt;td&gt;–&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/center&gt;&lt;br /&gt;&lt;br /&gt;
+&lt;h2 class=&quot;separator&quot;&gt;Port des pi&#232;ces d&#39;armure&lt;a class=&quot;headeranchor&quot; id=&quot;Port_des_pi&#232;ces_darmure_7&quot; href=&quot;#Port_des_pi&#232;ces_darmure_7&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;Un personnage form&#233; au port d’une cat&#233;gorie d’armure est
+aussi form&#233; au port des pi&#232;ces d’armure de cette cat&#233;gorie. Si,
+par exemple, un personnage est form&#233; au port des armures
+l&#233;g&#232;res, il peut porter toutes les pi&#232;ces d’armures l&#233;g&#232;res.
+Certaines pi&#232;ces d’armure prot&#233;geant le torse (comme les pi&#232;ces
+d’armure de torse en mailles, plaques et plaques flexibles) sont
+dans la cat&#233;gorie des armures l&#233;g&#232;res lorsqu’elles sont port&#233;es
+seules ; elles sont alors &#224; traiter respectivement comme cotte
+de mailles, cuirasse et cuirasse flexible.&lt;br /&gt;&lt;br /&gt;Quand un personnage porte au moins une pi&#232;ce d’armure
+d’un type auquel il n’est pas form&#233;, la &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques-Des-Armures.html#MALUSARMURE&quot; title=&quot;Caract&#233;ristiques des armures&quot;&gt;p&#233;nalit&#233; d’armure&lt;/a&gt;
+correspondante doit &#234;tre appliqu&#233;e &#224; tous ses &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDATTAQUE&quot; title=&quot;jet dattaque&quot;&gt;jets d’attaque&lt;/a&gt;
+et &#224; tous ses tests de comp&#233;tence impliquant le mouvement.
+S’il porte plus d’une pi&#232;ce d’armure pour laquelle il n’a pas
+la formation ad&#233;quate, le personnage subit la pire &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques-Des-Armures.html#MALUSARMURE&quot; title=&quot;Caract&#233;ristiques des armures&quot;&gt;p&#233;nalit&#233; d’armure&lt;/a&gt; possible parmi les diff&#233;rentes pi&#232;ces d’armure dont il
+est &#233;quip&#233; sans &#234;tre form&#233; &#224; leur port ; ce malus s’applique &#224; tous
+ses &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDATTAQUE&quot; title=&quot;jet dattaque&quot;&gt;jets d’attaque&lt;/a&gt; et &#224; tous les tests de comp&#233;tence impliquant
+le mouvement.&lt;br /&gt;&lt;br /&gt;&lt;h2 class=&quot;separator&quot;&gt;Armures de ma&#238;tre, mat&#233;riaux sp&#233;ciaux et armures magiques&lt;a class=&quot;headeranchor&quot; id=&quot;Armures_de_ma&#238;tre_mat&#233;riaux_sp&#233;ciaux_et_armures_magiques_8&quot; href=&quot;#Armures_de_ma&#238;tre_mat&#233;riaux_sp&#233;ciaux_et_armures_magiques_8&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;Toute pi&#232;ce d’armure peut individuellement &#234;tre un &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques-Des-Armures.html#ARMURESMAITRE&quot; title=&quot;Caract&#233;ristiques des armures&quot;&gt;objet de ma&#238;tre&lt;/a&gt;, avoir &#233;t&#233; con&#231;ue avec des &lt;a class=&quot;pagelink&quot; href=&quot;Mat&#233;riaux-Sp&#233;ciaux.html&quot; title=&quot;Les mat&#233;riaux sp&#233;ciaux&quot;&gt;mat&#233;riaux sp&#233;ciaux&lt;/a&gt; et, en
+tant que pi&#232;ce d’armure &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques-Des-Armures.html#ARMURESMAITRE&quot; title=&quot;Caract&#233;ristiques des armures&quot;&gt;de ma&#238;tre&lt;/a&gt;, elle peut &#234;tre
+&lt;a class=&quot;pagelink&quot; href=&quot;Armures-Magiques.html&quot; title=&quot;Les armures et boucliers magiques&quot;&gt;magiquement enchant&#233;e&lt;/a&gt; au &lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;ation-Dobjets-Magiques.html#ARMURESBOUCLIERS&quot; title=&quot;Cr&#233;ation d&amp;#39;objets magiques&quot;&gt;co&#251;t standard&lt;/a&gt;.
+Ainsi, chaque pi&#232;ce d’armure est trait&#233;e selon son propre type
+d’armure. &#201;videmment, la plupart des armuriers et fabricants
+d’objets magiques savent que c’est une m&#233;thode peu efficace
+pour concevoir et enchanter des armures.&lt;br /&gt;&lt;br /&gt;Le meilleur moyen de cr&#233;er une armure &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques-Des-Armures.html#ARMURESMAITRE&quot; title=&quot;Caract&#233;ristiques des armures&quot;&gt;de ma&#238;tre&lt;/a&gt; ou
+d’&lt;a class=&quot;pagelink&quot; href=&quot;Armures-Magiques.html&quot; title=&quot;Les armures et boucliers magiques&quot;&gt;enchanter&lt;/a&gt; une armure pour la rendre magique est de cr&#233;er
+ou d’enchanter toute l’armure en une fois. Pour ce faire,
+les pi&#232;ces d’armure de l’ensemble n’ont pas besoin d’&#234;tre
+toutes du m&#234;me type, mais elles doivent &#234;tre construites
+puis enchant&#233;es ensemble. La contrepartie est qu’aucune
+des pi&#232;ces d’armure n’est consid&#233;r&#233;e en elle-m&#234;me comme
+un travail &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques-Des-Armures.html#ARMURESMAITRE&quot; title=&quot;Caract&#233;ristiques des armures&quot;&gt;de ma&#238;tre&lt;/a&gt; ou comme &lt;a class=&quot;pagelink&quot; href=&quot;Armures-Magiques.html&quot; title=&quot;Les armures et boucliers magiques&quot;&gt;magique&lt;/a&gt; (mais si elle est
+&lt;a class=&quot;pagelink&quot; href=&quot;Armures-Magiques.html&quot; title=&quot;Les armures et boucliers magiques&quot;&gt;magique&lt;/a&gt;, elle est d&#233;tect&#233;e comme magique et peut &#234;tre
+identifi&#233;e comme faisant partie d’une armure). Quand elles
+sont utilis&#233;es comme une armure fragmentaire ou dans
+un ensemble disparate, ces pi&#232;ces d’armure fonctionnent
+comme des pi&#232;ces normales n’&#233;tant ni &lt;a class=&quot;pagelink&quot; href=&quot;Armures-Magiques.html&quot; title=&quot;Les armures et boucliers magiques&quot;&gt;magiques&lt;/a&gt; ni &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques-Des-Armures.html#ARMURESMAITRE&quot; title=&quot;Caract&#233;ristiques des armures&quot;&gt;de ma&#238;tre&lt;/a&gt;, mais simplement des pi&#232;ces d’armure de leur type.&lt;br /&gt;&lt;br /&gt;Si un personnage porte des pi&#232;ces qui ont &#233;t&#233; cr&#233;&#233;es ou
+enchant&#233;es s&#233;par&#233;ment pour diff&#233;rents ensembles d’armure,
+l’armure du personnage profite uniquement de l’avantage
+fourni par le travail &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques-Des-Armures.html#ARMURESMAITRE&quot; title=&quot;Caract&#233;ristiques des armures&quot;&gt;de ma&#238;tre&lt;/a&gt; et de la magie de la pi&#232;ce offrant
+la meilleure protection – g&#233;n&#233;ralement le pectoral d’armure.
+Si le personnage ne porte pas de pectoral d’armure, la pi&#232;ce
+apportant la meilleure protection est la jambe d’armure (la
+seconde meilleure cat&#233;gorie de pi&#232;ces d’armure du point de
+vue de la protection), suivie par les bras d’armures (la troisi&#232;me
+cat&#233;gorie dans un ordre croissant de niveaux de protection).&lt;br /&gt;&lt;br /&gt;Si, par exemple, un personnage ne porte ni pectoral d’armure,
+ni jambi&#232;res, mais est &#233;quip&#233; de &lt;i&gt;bras d’armure de mailles +1&lt;/i&gt;, il gagne
+les avantages de sa pi&#232;ce d’&lt;a class=&quot;pagelink&quot; href=&quot;Armures-Magiques.html&quot; title=&quot;Les armures et boucliers magiques&quot;&gt;armure magique&lt;/a&gt; (le bras d’armure
+offre les avantages d’une armure &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques-Des-Armures.html#ARMURESMAITRE&quot; title=&quot;Caract&#233;ristiques des armures&quot;&gt;de ma&#238;tre&lt;/a&gt; et accorde un bonus
+d’alt&#233;ration de +1 en raison de ses propri&#233;t&#233;s magiques). Si ce
+m&#234;me personnage ajoute ensuite &#224; son ensemble un pectoral
+d’armure en mailles parfaitement normal, il perd le +1 d&#251; &#224;
+la magie et la r&#233;duction aux p&#233;nalit&#233;s d’armure accord&#233;e aux
+armures &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques-Des-Armures.html#ARMURESMAITRE&quot; title=&quot;Caract&#233;ristiques des armures&quot;&gt;de ma&#238;tre&lt;/a&gt;  ; ceci parce que la pi&#232;ce d’armure la plus
+protectrice ne dispose d’aucune de ces qualit&#233;s.&lt;br /&gt;&lt;br /&gt;Afin qu’une armure profite des avantages d’un &lt;a class=&quot;pagelink&quot; href=&quot;Mat&#233;riaux-Sp&#233;ciaux.html&quot; title=&quot;Les mat&#233;riaux sp&#233;ciaux&quot;&gt;mat&#233;riau sp&#233;cial&lt;/a&gt;,
+toutes les pi&#232;ces d’armures port&#233;es doivent &#234;tre faites du m&#234;me
+&lt;a class=&quot;pagelink&quot; href=&quot;Mat&#233;riaux-Sp&#233;ciaux.html&quot; title=&quot;Les mat&#233;riaux sp&#233;ciaux&quot;&gt;mat&#233;riau sp&#233;cial&lt;/a&gt;. Pour ce motif, les pi&#232;ces d’armure fabriqu&#233;es
+dans un &lt;a class=&quot;pagelink&quot; href=&quot;Mat&#233;riaux-Sp&#233;ciaux.html&quot; title=&quot;Les mat&#233;riaux sp&#233;ciaux&quot;&gt;mat&#233;riau sp&#233;cial&lt;/a&gt; peuvent &#234;tre &#233;labor&#233;es &#224; un co&#251;t r&#233;duit
+d&#233;pendant de la pi&#232;ce qui va &#234;tre con&#231;ue avec le &lt;a class=&quot;pagelink&quot; href=&quot;Mat&#233;riaux-Sp&#233;ciaux.html&quot; title=&quot;Les mat&#233;riaux sp&#233;ciaux&quot;&gt;mat&#233;riau sp&#233;cial&lt;/a&gt;.
+La conception d’une armure compl&#232;te (un ensemble assorti de
+trois pi&#232;ces d’armure) dans un m&#234;me &lt;a class=&quot;pagelink&quot; href=&quot;Mat&#233;riaux-Sp&#233;ciaux.html&quot; title=&quot;Les mat&#233;riaux sp&#233;ciaux&quot;&gt;mat&#233;riau sp&#233;cial&lt;/a&gt; renvoie
+aux &lt;a class=&quot;pagelink&quot; href=&quot;Mat&#233;riaux-Sp&#233;ciaux.html&quot; title=&quot;Les mat&#233;riaux sp&#233;ciaux&quot;&gt;prix standard&lt;/a&gt; d&#233;taill&#233;s dans le &lt;i&gt;Manuel des joueurs&lt;/i&gt;.&lt;br /&gt;&lt;br /&gt;Dans le cas des cottes de mailles, cuirasses et cuirasses
+flexibles, et de toutes les autres pi&#232;ces d’armure trait&#233;es
+comme des armures l&#233;g&#232;res lorsqu’elles sont port&#233;es seules,
+le co&#251;t de cr&#233;ation d’une telle pi&#232;ce dans un &lt;a class=&quot;pagelink&quot; href=&quot;Mat&#233;riaux-Sp&#233;ciaux.html&quot; title=&quot;Les mat&#233;riaux sp&#233;ciaux&quot;&gt;mat&#233;riau sp&#233;cial&lt;/a&gt;
+se calcule &#224; partir de la cat&#233;gorie d’armure d’origine de la
+pi&#232;ce (interm&#233;diaire pour une pi&#232;ce d’armure de torse en
+mailles, lourde pour un pectoral d’armure en plaques).
+Toutefois, dans le cas des armures &lt;a class=&quot;pagelink&quot; href=&quot;Mat&#233;riaux-Sp&#233;ciaux.html#ADAMANTIUM&quot; title=&quot;Les mat&#233;riaux sp&#233;ciaux&quot;&gt;adamantines&lt;/a&gt; ou forg&#233;es
+dans des mat&#233;riaux similaires, l’objet obtient le b&#233;n&#233;fice du
+&lt;a class=&quot;pagelink&quot; href=&quot;Mat&#233;riaux-Sp&#233;ciaux.html&quot; title=&quot;Les mat&#233;riaux sp&#233;ciaux&quot;&gt;mat&#233;riau sp&#233;cial&lt;/a&gt; comme s’il appartenait &#224; la cat&#233;gorie des
+armures l&#233;g&#232;res (&lt;a class=&quot;pagelink&quot; href=&quot;R&#233;duction-De-D&#233;g&#226;ts-(Capacit&#233;).html&quot; title=&quot;R&#233;duction de d&#233;g&#226;ts (Ext ou Sur)&quot;&gt;r&#233;duction des d&#233;g&#226;ts&lt;/a&gt; 1/–pour un pectoral
+d’armure de mailles, et &lt;a class=&quot;pagelink&quot; href=&quot;R&#233;duction-De-D&#233;g&#226;ts-(Capacit&#233;).html&quot; title=&quot;R&#233;duction de d&#233;g&#226;ts (Ext ou Sur)&quot;&gt;r&#233;duction des d&#233;g&#226;ts&lt;/a&gt; 2/– pour un
+pectoral d’armure de plaques comme une cuirasse).&lt;br /&gt;&lt;br /&gt;&lt;a name=&quot;Adamantium&quot;&gt;&lt;/a&gt;
+&lt;h3 class=&quot;separator&quot;&gt;Adamantium&lt;a class=&quot;headeranchor&quot; id=&quot;Adamantium_0&quot; href=&quot;#Adamantium_0&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;&lt;div style=&quot;float:right; padding: 0 0 16px 16px&quot;&gt;
+&lt;center&gt;&lt;table CLASS=&quot;tablo&quot;&gt;&lt;caption&gt;Pi&#232;ces d&#39;armure en adamantium&lt;/caption&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td&gt;Type d’objet en adamantium&lt;/td&gt;&lt;td&gt;Modificateur au prix de vente&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Bras d’armure interm&#233;diaire&lt;/td&gt;&lt;td&gt;+2 500 po&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;Jambes d’armure interm&#233;diaire&lt;/td&gt;&lt;td&gt;+2 500 po&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Pectoral d’armure interm&#233;diaire&lt;/td&gt;&lt;td&gt;+5 000 po&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;Bras d’armure lourde&lt;/td&gt;&lt;td&gt;+2 500 po&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Jambes d’armure lourde&lt;/td&gt;&lt;td&gt;+2 500 po&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;Pectoral d’armure lourde&lt;/td&gt;&lt;td&gt;+10 000 po&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;br /&gt;&lt;br /&gt;
+&lt;table CLASS=&quot;tablo&quot;&gt;&lt;caption&gt;Pi&#232;ces d&#39;armure en mithral&lt;/caption&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td&gt;Type d’objet en mithral&lt;/td&gt;&lt;td&gt;Modificateur au prix de vente&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Bras d’armure interm&#233;diaire&lt;/td&gt;&lt;td&gt;+1 500 po&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;Jambes d’armure interm&#233;diaire&lt;/td&gt;&lt;td&gt;+1 500 po&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Pectoral d’armure interm&#233;diaire&lt;/td&gt;&lt;td&gt;+1 000 po&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;Bras d’armure lourde&lt;/td&gt;&lt;td&gt;+2 500 po&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Jambes d’armure lourde&lt;/td&gt;&lt;td&gt;+2 500 po&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;Pectoral d’armure lourde&lt;/td&gt;&lt;td&gt;+4 000 po&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;&lt;/div&gt;
+Les armures faites en adamantium accordent &#224; leur porteur
+une &lt;a class=&quot;pagelink&quot; href=&quot;R&#233;duction-De-D&#233;g&#226;ts-(Capacit&#233;).html&quot; title=&quot;R&#233;duction de d&#233;g&#226;ts (Ext ou Sur)&quot;&gt;r&#233;duction des d&#233;g&#226;ts&lt;/a&gt; de 1/– si elles sont dans la cat&#233;gorie
+des armures l&#233;g&#232;res, 2/– si elles sont de type interm&#233;diaire,
+et 3/– si elles appartiennent aux armures lourdes. Les pi&#232;ces
+d’armure adamantines sont toujours des pi&#232;ces d’armure
+&lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques-Des-Armures.html#ARMURESMAITRE&quot; title=&quot;Caract&#233;ristiques des armures&quot;&gt;de ma&#238;tre&lt;/a&gt; en termes de qualit&#233;. Les pi&#232;ces d’armure normalement
+fabriqu&#233;es en acier augmentent leur nombre de points de vie
+d’un tiers lorsqu’elles sont forg&#233;es en adamantium.&lt;br /&gt;&lt;br /&gt;&lt;a name=&quot;Mithral&quot;&gt;&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;h3 class=&quot;separator&quot;&gt;Mithral&lt;a class=&quot;headeranchor&quot; id=&quot;Mithral_1&quot; href=&quot;#Mithral_1&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;Les pi&#232;ces d’armure forg&#233;es en mithral sont plus l&#233;g&#232;res que
+l’acier, mais tout aussi solides. Par ailleurs, les pi&#232;ces d’armure
+en mithral sont moins g&#234;nantes pour les mouvements que
+leur &#233;quivalent d’acier. Les r&#233;ductions appliqu&#233;es &#224; la vitesse de
+d&#233;placement pour les pi&#232;ces d’armure interm&#233;diaire sont annul&#233;es
+quand ces pi&#232;ces d’armure sont faites en mithral. Les pi&#232;ces
+d’armure lourde qui r&#233;duisent la vitesse de course de leur porteur
+(lequel triple sa vitesse de d&#233;placement au lieu de la quadrupler)
+n’imposent plus cette limitation quand elles sont fabriqu&#233;es en
+mithral ou appartiennent &#224; une armure compl&#232;te de mithral.&lt;br /&gt;&lt;br /&gt;Tant que toutes les pi&#232;ces d’armure que porte un
+personnage sont faites de mithral, le &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques-Des-Armures.html#RISQUEECHECPROFANE&quot; title=&quot;Caract&#233;ristiques des armures&quot;&gt;risque d’&#233;chec des sorts profanes&lt;/a&gt; de 10%, le &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques-Des-Armures.html#BONUSDEXMAX&quot; title=&quot;Caract&#233;ristiques des armures&quot;&gt;bonus de Dext&#233;rit&#233; maximal&lt;/a&gt; est
+augment&#233; de +2, et le &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques-Des-Armures.html#MALUSARMURE&quot; title=&quot;Caract&#233;ristiques des armures&quot;&gt;malus d’armure aux tests&lt;/a&gt; est diminu&#233;
+de 3 (avec un minimum de 0).&lt;br /&gt;&lt;br /&gt;Un objet fait de mithral p&#232;se moiti&#233; moins que son &lt;i&gt;alter ego&lt;/i&gt;
+forg&#233; dans un autre m&#233;tal. Les pi&#232;ces d’armure en mithral sont
+toujours consid&#233;r&#233;es comme des pi&#232;ces d’armure &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques-Des-Armures.html#ARMURESMAITRE&quot; title=&quot;Caract&#233;ristiques des armures&quot;&gt;de ma&#238;tre&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;&lt;a name=&quot;PeauDeDragon&quot;&gt;&lt;/a&gt;
+&lt;h3 class=&quot;separator&quot;&gt;Peau de dragon&lt;a class=&quot;headeranchor&quot; id=&quot;Peau_de_dragon_2&quot; href=&quot;#Peau_de_dragon_2&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;Si la peau de dragon utilis&#233;e pour construire une armure
+vient d’un dragon immunis&#233; &#224; un type d’&#233;nergie, la pi&#232;ce
+d’armure poss&#232;de aussi cette immunit&#233; &#224; ce type d’&#233;nergie, mais
+conf&#232;re cette immunit&#233; &#224; son porteur uniquement si celui-ci
+porte une armure enti&#232;rement faite de peau de dragon de ce
+m&#234;me type sp&#233;cifique. Une pi&#232;ce d’armure en peau de dragon
+co&#251;te le double du prix normal de la pi&#232;ce d’armure +100
+po. Sur ce mod&#232;le, un pectoral d’armure de plaques peut &#234;tre
+fabriqu&#233; avec de la peau de dragon pour 700 po, et un pectoral
+en plaques flexibles peut &#234;tre construit en peau de dragon pour
+1 100 po ; si l’une de ces deux pi&#232;ces d’armure est port&#233;e seule,
+elle apporte &#224; son possesseur la protection aux d&#233;g&#226;ts d’&#233;nergie
+dont disposait le dragon dont la peau a &#233;t&#233; utilis&#233;e.&lt;br /&gt;&lt;br /&gt;
+&lt;h2 class=&quot;separator&quot;&gt;Enfiler et &#244;ter ses pi&#232;ces d&#39;armure&lt;a class=&quot;headeranchor&quot; id=&quot;Enfiler_et_&#244;ter_ses_pi&#232;ces_darmure_9&quot; href=&quot;#Enfiler_et_&#244;ter_ses_pi&#232;ces_darmure_9&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;&lt;div style=&quot;float:right; background: #fff; padding: 0 0 16px 16px&quot;&gt;
+&lt;a name=&quot;TABSEQUIPER&quot;&gt;&lt;/a&gt;
+&lt;center&gt;&lt;table CLASS=&quot;tablo&quot;&gt;&lt;caption&gt;S&#39;&#233;quiper d&#39;une pi&#232;ce d&#39;armure&lt;/caption&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td&gt;Type de pi&#232;ce&lt;/td&gt;&lt;td&gt;Enfiler&lt;/td&gt;&lt;td&gt;&#192; la h&#226;te&lt;/td&gt;&lt;td&gt;&#212;ter&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Bras d’armure l&#233;g&#232;re&lt;/td&gt;&lt;td&gt;2 rounds&lt;/td&gt;&lt;td&gt;1 round&lt;/td&gt;&lt;td&gt;2 rounds&lt;sup&gt;(&lt;a class=&quot;internallink&quot; href=&quot;#TABSEQUIPER1&quot; title=&quot;1&quot;&gt;1&lt;/a&gt;)&lt;/sup&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;Jambes d’armure l&#233;g&#232;re&lt;/td&gt;&lt;td&gt;3 rounds&lt;/td&gt;&lt;td&gt;2 rounds&lt;/td&gt;&lt;td&gt;2 rounds&lt;sup&gt;(&lt;a class=&quot;internallink&quot; href=&quot;#TABSEQUIPER1&quot; title=&quot;1&quot;&gt;1&lt;/a&gt;)&lt;/sup&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Pectoral d’armure lourde&lt;/td&gt;&lt;td&gt;5 rounds&lt;/td&gt;&lt;td&gt;2 rounds&lt;/td&gt;&lt;td&gt;5 rounds&lt;sup&gt;(&lt;a class=&quot;internallink&quot; href=&quot;#TABSEQUIPER1&quot; title=&quot;1&quot;&gt;1&lt;/a&gt;)&lt;/sup&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;Bras d’armure interm&#233;diaire&lt;/td&gt;&lt;td&gt;1 minute&lt;sup&gt;(&lt;a class=&quot;internallink&quot; href=&quot;#TABSEQUIPER1&quot; title=&quot;1&quot;&gt;1&lt;/a&gt;)&lt;/sup&gt;&lt;/td&gt;&lt;td&gt;2 rounds&lt;/td&gt;&lt;td&gt;2 rounds&lt;sup&gt;(&lt;a class=&quot;internallink&quot; href=&quot;#TABSEQUIPER1&quot; title=&quot;1&quot;&gt;1&lt;/a&gt;)&lt;/sup&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Jambes d’armure interm&#233;diaire&lt;/td&gt;&lt;td&gt;1 minute&lt;sup&gt;(&lt;a class=&quot;internallink&quot; href=&quot;#TABSEQUIPER1&quot; title=&quot;1&quot;&gt;1&lt;/a&gt;)&lt;/sup&gt;&lt;/td&gt;&lt;td&gt;3 rounds&lt;/td&gt;&lt;td&gt;2 rounds&lt;sup&gt;(&lt;a class=&quot;internallink&quot; href=&quot;#TABSEQUIPER1&quot; title=&quot;1&quot;&gt;1&lt;/a&gt;)&lt;/sup&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;Pectoral d’armure interm&#233;diaire&lt;/td&gt;&lt;td&gt;1 minute&lt;sup&gt;(&lt;a class=&quot;internallink&quot; href=&quot;#TABSEQUIPER1&quot; title=&quot;1&quot;&gt;1&lt;/a&gt;)&lt;/sup&gt;&lt;/td&gt;&lt;td&gt;5 rounds&lt;/td&gt;&lt;td&gt;3 rounds&lt;sup&gt;(&lt;a class=&quot;internallink&quot; href=&quot;#TABSEQUIPER1&quot; title=&quot;1&quot;&gt;1&lt;/a&gt;)&lt;/sup&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Bras d’armure lourde&lt;/td&gt;&lt;td&gt;1 minute&lt;sup&gt;(&lt;a class=&quot;internallink&quot; href=&quot;#TABSEQUIPER2&quot; title=&quot;2&quot;&gt;2&lt;/a&gt;)&lt;/sup&gt;&lt;/td&gt;&lt;td&gt;1 minute&lt;sup&gt;(&lt;a class=&quot;internallink&quot; href=&quot;#TABSEQUIPER1&quot; title=&quot;1&quot;&gt;1&lt;/a&gt;)&lt;/sup&gt;&lt;/td&gt;&lt;td&gt;1 minute&lt;sup&gt;(&lt;a class=&quot;internallink&quot; href=&quot;#TABSEQUIPER1&quot; title=&quot;1&quot;&gt;1&lt;/a&gt;)&lt;/sup&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;Jambes d’armure lourde&lt;/td&gt;&lt;td&gt;1 minute&lt;sup&gt;(&lt;a class=&quot;internallink&quot; href=&quot;#TABSEQUIPER2&quot; title=&quot;2&quot;&gt;2&lt;/a&gt;)&lt;/sup&gt;&lt;/td&gt;&lt;td&gt;1 minute&lt;sup&gt;(&lt;a class=&quot;internallink&quot; href=&quot;#TABSEQUIPER1&quot; title=&quot;1&quot;&gt;1&lt;/a&gt;)&lt;/sup&gt;&lt;/td&gt;&lt;td&gt;1 minute&lt;sup&gt;(&lt;a class=&quot;internallink&quot; href=&quot;#TABSEQUIPER1&quot; title=&quot;1&quot;&gt;1&lt;/a&gt;)&lt;/sup&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Pectoral d’armure lourde&lt;/td&gt;&lt;td&gt;2 minutes&lt;sup&gt;(&lt;a class=&quot;internallink&quot; href=&quot;#TABSEQUIPER2&quot; title=&quot;2&quot;&gt;2&lt;/a&gt;)&lt;/sup&gt;&lt;/td&gt;&lt;td&gt;1 minute&lt;sup&gt;(&lt;a class=&quot;internallink&quot; href=&quot;#TABSEQUIPER1&quot; title=&quot;1&quot;&gt;1&lt;/a&gt;)&lt;/sup&gt;&lt;/td&gt;&lt;td&gt;2 minutes&lt;sup&gt;(&lt;a class=&quot;internallink&quot; href=&quot;#TABSEQUIPER1&quot; title=&quot;1&quot;&gt;1&lt;/a&gt;)&lt;/sup&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;
+&lt;a name=&quot;TABSEQUIPER1&quot;&gt;&lt;/a&gt;&lt;i&gt;(1). Si le personnage est aid&#233;, ce laps de temps est divis&#233; par 2. Une seule
+&lt;br /&gt;cr&#233;ature peut aider une ou deux cr&#233;atures adjacentes, &#224; condition de ne
+&lt;br /&gt;faire rien d’autre. Deux personnages ne peuvent pas s’aider l’un l’autre
+&lt;br /&gt;pour enfiler ou &#244;ter leurs pi&#232;ces d’armure simultan&#233;ment.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;&lt;a name=&quot;TABSEQUIPER2&quot;&gt;&lt;/a&gt;&lt;i&gt;(2). Une aide est n&#233;cessaire pour enfiler correctement cette pi&#232;ce d’armure.
+&lt;br /&gt;Sans aide, elle ne peut &#234;tre enfil&#233;e qu’h&#226;tivement (avec les cons&#233;quences
+&lt;br /&gt;indiqu&#233;es ci-dessus).&lt;/i&gt;&lt;/div&gt;
+Le temps requis pour enfiler une pi&#232;ce d’armure d&#233;pend
+de son type et de la zone qu’elle prot&#232;ge, comme indiqu&#233;
+dans la table &lt;a class=&quot;internallink&quot; href=&quot;#TABSEQUIPER&quot; title=&quot;S&#39;&#233;quiper d&#39;une pi&#232;ce d&#39;armure&quot;&gt;S&#39;&#233;quiper d&#39;une pi&#232;ce d&#39;armure&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Enfiler&lt;/b&gt;. Cette colonne indique le temps n&#233;cessaire &#224; un
+personnage pour rev&#234;tir la pi&#232;ce d’armure. Une minute
+correspond &#224; 10 rounds.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Enfiler &#224; la h&#226;te&lt;/b&gt;. Cette colonne indique le temps n&#233;cessaire
+&#224; un personnage pour enfiler une pi&#232;ce d’armure dans
+l’urgence. Le &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques-Des-Armures.html#MALUSARMURE&quot; title=&quot;Caract&#233;ristiques des armures&quot;&gt;malus d’armure aux tests&lt;/a&gt; est augment&#233; de 1
+point et le &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques-Des-Armures.html#BONUSARMUREBOUCLIER&quot; title=&quot;Caract&#233;ristiques des armures&quot;&gt;bonus d’armure&lt;/a&gt; est r&#233;duit de 1 point lorsqu’une
+pi&#232;ce d’armure a &#233;t&#233; enfil&#233;e &#224; la h&#226;te. Apr&#232;s r&#233;duction, le
+&lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques-Des-Armures.html#BONUSARMUREBOUCLIER&quot; title=&quot;Caract&#233;ristiques des armures&quot;&gt;bonus d’armure&lt;/a&gt; minimum est 0.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;&#212;ter&lt;/b&gt;. Cette colonne indique le temps n&#233;cessaire pour &#244;ter
+une pi&#232;ce d’armure.&lt;br /&gt;&lt;br /&gt;
+&lt;h2 class=&quot;separator&quot;&gt;Pi&#232;ces d&#39;armure des cr&#233;atures inhabituelles&lt;a class=&quot;headeranchor&quot; id=&quot;Pi&#232;ces_darmure_des_cr&#233;atures_inhabituelles_10&quot; href=&quot;#Pi&#232;ces_darmure_des_cr&#233;atures_inhabituelles_10&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;Les pi&#232;ces d’armure des cr&#233;atures particuli&#232;rement grandes,
+petites ou non humano&#239;des (comme les chevaux) ont des co&#251;ts
+et poids diff&#233;rents de ceux indiqu&#233;s dans les tables &lt;a class=&quot;internallink&quot; href=&quot;#TABPROFILSBRAS&quot; title=&quot;Profils des bras d&#39;armure&quot;&gt;Profils des bras d&#39;armure&lt;/a&gt;, &lt;a class=&quot;internallink&quot; href=&quot;#TABPROFILSJAMBES&quot; title=&quot;Profils des jambes d&#39;armure&quot;&gt;Profils des jambes d&#39;armure&lt;/a&gt; et &lt;a class=&quot;internallink&quot; href=&quot;#TABPROFILSPECTORALES&quot; title=&quot;Profils des pi&#232;ces d&#39;armure pectorales&quot;&gt;Profils des pi&#232;ces d&#39;armure pectorales&lt;/a&gt;.
+R&#233;f&#233;rez-vous &#224; la ligne appropri&#233;e dans la table &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques-Des-Armures.html#ARMURESINHABITUELLES&quot; title=&quot;Caract&#233;ristiques des armures&quot;&gt;Armures des cr&#233;atures inhabituelle&lt;/a&gt; et appliquez les multiplicateurs donn&#233;s
+pour les prix et poids des armures. Pour les animaux dot&#233;s de
+quatre jambes (ou pattes) ou plus, une pi&#232;ce d’armure couvrant
+la moiti&#233; des pattes (ou jambes) co&#251;te le prix de jambes d’armure
+normales, et la pi&#232;ce d’armure pour la seconde moiti&#233; des
+membres inf&#233;rieurs co&#251;te le m&#234;me prix que des bras d’armure.&lt;br /&gt;&lt;br /&gt;&lt;h2 class=&quot;separator&quot;&gt;Solidit&#233; et points de r&#233;sistance des armures et pi&#232;ces d&#39;armure&lt;a class=&quot;headeranchor&quot; id=&quot;Solidit&#233;_et_points_de_r&#233;sistance_des_armures_et_pi&#232;ces_darmure_11&quot; href=&quot;#Solidit&#233;_et_points_de_r&#233;sistance_des_armures_et_pi&#232;ces_darmure_11&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;Pour d&#233;terminer la &lt;a class=&quot;pagelink&quot; href=&quot;Exploration.html#SOLIDITE&quot; title=&quot;L&amp;#39;exploration&quot;&gt;solidit&#233;&lt;/a&gt; de l’armure d’un personnage,
+prenez la &lt;a class=&quot;pagelink&quot; href=&quot;Exploration.html#SOLIDITE&quot; title=&quot;L&amp;#39;exploration&quot;&gt;solidit&#233;&lt;/a&gt; de son mat&#233;riau le plus faible. Pour calculer
+les &lt;a class=&quot;pagelink&quot; href=&quot;Exploration.html#POINTDERESISTANCE&quot; title=&quot;L&amp;#39;exploration&quot;&gt;points de r&#233;sistance&lt;/a&gt; d’une armure, prenez le
+&lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques-Des-Armures.html#BONUSARMUREBOUCLIER&quot; title=&quot;Caract&#233;ristiques des armures&quot;&gt;bonus total d’armure&lt;/a&gt; (en incluant le +1 offert pour le port d’un ensemble
+complet) et multipliez cette valeur par 5. Pour une seule pi&#232;ce
+d’armure, prenez la &lt;a class=&quot;pagelink&quot; href=&quot;Exploration.html#SOLIDITE&quot; title=&quot;L&amp;#39;exploration&quot;&gt;solidit&#233;&lt;/a&gt; de son mat&#233;riau principal. Pour
+conna&#238;tre les &lt;a class=&quot;pagelink&quot; href=&quot;Exploration.html#POINTDERESISTANCE&quot; title=&quot;L&amp;#39;exploration&quot;&gt;points de r&#233;sistance&lt;/a&gt; d’une seule pi&#232;ce d’armure,
+multipliez par 5 son &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques-Des-Armures.html#BONUSARMUREBOUCLIER&quot; title=&quot;Caract&#233;ristiques des armures&quot;&gt;bonus d’armure&lt;/a&gt; (en comptant +1 pour
+les pi&#232;ces d’armure dont le bonus est +0). Les valeurs de
+&lt;a class=&quot;pagelink&quot; href=&quot;Exploration.html#SOLIDITE&quot; title=&quot;L&amp;#39;exploration&quot;&gt;solidit&#233;&lt;/a&gt; des diff&#233;rentes mati&#232;res sont indiqu&#233;es dans la table &lt;a class=&quot;pagelink&quot; href=&quot;Exploration.html#TABSOLIDITEMATIERES&quot; title=&quot;L&amp;#39;exploration&quot;&gt;Solidit&#233; et points de r&#233;sistance des mati&#232;res&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;&lt;h2 class=&quot;separator&quot;&gt;Description des pi&#232;ces d&#39;armure&lt;a class=&quot;headeranchor&quot; id=&quot;Description_des_pi&#232;ces_darmure_12&quot; href=&quot;#Description_des_pi&#232;ces_darmure_12&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;Toutes les pi&#232;ces d’armure utilisables dans ce syst&#232;me de
+r&#232;gles alternatif sont d&#233;taill&#233;es ci-dessous et sont s&#233;par&#233;es en
+trois grandes cat&#233;gories.&lt;br /&gt;&lt;br /&gt;&lt;a name=&quot;BRAS&quot;&gt;&lt;/a&gt;
+&lt;h3 class=&quot;separator&quot;&gt;Bras d&#39;armure&lt;a class=&quot;headeranchor&quot; id=&quot;Bras_darmure_3&quot; href=&quot;#Bras_darmure_3&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;Comme la zone qu’ils prot&#232;gent est la plus petite, les bras
+d’armure tendent &#224; avoir la plus faible valeur d’armure parmi
+les diff&#233;rentes pi&#232;ces d’armure, les pi&#232;ces d’armures l&#233;g&#232;res
+offrant peu, voire pas, de protection &#224; moins d’&#234;tre int&#233;gr&#233;es
+dans un ensemble d’armure complet. Les bras d’armure
+interf&#233;rant avec les mouvements des mains n&#233;cessaires pour
+les sorts &#224; composantes gestuelles, ils donnent de surcro&#238;t les
+plus importants &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques-Des-Armures.html#RISQUEECHECPROFANE&quot; title=&quot;Caract&#233;ristiques des armures&quot;&gt;risques d’&#233;chec des sorts profanes&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;&lt;center&gt;&lt;a name=&quot;TABPROFILSBRAS&quot;&gt;&lt;/a&gt;&lt;table CLASS=&quot;tablo&quot;&gt;&lt;caption&gt;Profils des bras d&#39;armure&lt;/caption&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td ROWSPAN=&quot;2&quot;&gt;Type d’armure&lt;/td&gt;&lt;td ROWSPAN=&quot;2&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques-Des-Armures.html#PRIX&quot; title=&quot;Caract&#233;ristiques des armures&quot;&gt;Prix&lt;/a&gt;&lt;/td&gt;&lt;td ROWSPAN=&quot;2&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques-Des-Armures.html#BONUSARMUREBOUCLIER&quot; title=&quot;Caract&#233;ristiques des armures&quot;&gt;Bonus d’armure&lt;/a&gt;&lt;/td&gt;&lt;td ROWSPAN=&quot;2&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques-Des-Armures.html#BONUSDEXMAX&quot; title=&quot;Caract&#233;ristiques des armures&quot;&gt;Bonus de&lt;br /&gt; Dex max&lt;/a&gt;&lt;/td&gt;&lt;td ROWSPAN=&quot;2&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques-Des-Armures.html#MALUSARMURE&quot; title=&quot;Caract&#233;ristiques des armures&quot;&gt;Malus &lt;br /&gt;d’armure&lt;br /&gt; aux tests&lt;/a&gt;&lt;/td&gt;&lt;td ROWSPAN=&quot;2&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques-Des-Armures.html#RISQUEECHECPROFANE&quot; title=&quot;Caract&#233;ristiques des armures&quot;&gt;Risque &lt;br /&gt;d’&#233;chec des&lt;br /&gt; sorts profanes&lt;/a&gt;&lt;/td&gt;&lt;td COLSPAN=&quot;2&quot; CLASS=&quot;avecsoustitre&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques-Des-Armures.html#VITESSEDEPLACEMENT&quot; title=&quot;Caract&#233;ristiques des armures&quot;&gt;Vitesse&lt;/a&gt;&lt;/td&gt;&lt;td ROWSPAN=&quot;2&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques-Des-Armures.html#POIDS&quot; title=&quot;Caract&#233;ristiques des armures&quot;&gt;Poids&lt;/a&gt;&lt;sup&gt;(&lt;a class=&quot;internallink&quot; href=&quot;#NOTEBRAS1&quot; title=&quot;1&quot;&gt;1&lt;/a&gt;)&lt;/sup&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;soustitre&quot;&gt;&lt;td&gt;9&amp;nbsp;m&amp;nbsp;(6&amp;nbsp;&lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)&lt;/td&gt;&lt;td&gt;6m&amp;nbsp;(4&amp;nbsp;&lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier&quot;&gt;&lt;td COLSPAN=&quot;9&quot;&gt;Armures l&#233;g&#232;res&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&amp;nbsp; &lt;a class=&quot;pagelink&quot; href=&quot;Description-Des-Pi&#232;ces-Darmure.html#BRASBOIS&quot; title=&quot;Description des pi&#232;ces d&amp;#39;armure&quot;&gt;De bois&lt;/a&gt;&lt;/td&gt;&lt;td&gt;5&amp;nbsp;po&lt;/td&gt;&lt;td&gt;+0&lt;/td&gt;&lt;td&gt;+3&lt;/td&gt;&lt;td&gt;-1&lt;/td&gt;&lt;td&gt;15%&lt;/td&gt;&lt;td&gt;9&amp;nbsp;m&amp;nbsp;(6&amp;nbsp;&lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)&lt;/td&gt;&lt;td&gt;6&amp;nbsp;m&amp;nbsp;(4&amp;nbsp;&lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)&lt;/td&gt;&lt;td&gt;1,5&amp;nbsp;kg&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;&amp;nbsp; &lt;a class=&quot;pagelink&quot; href=&quot;Description-Des-Pi&#232;ces-Darmure.html#BRASCUIR&quot; title=&quot;Description des pi&#232;ces d&amp;#39;armure&quot;&gt;De cuir&lt;/a&gt;&lt;/td&gt;&lt;td&gt;2&amp;nbsp;po&lt;/td&gt;&lt;td&gt;+0&lt;/td&gt;&lt;td&gt;+6&lt;/td&gt;&lt;td&gt;0 &lt;/td&gt;&lt;td&gt;10%&lt;/td&gt;&lt;td&gt;9&amp;nbsp;m&amp;nbsp;(6&amp;nbsp;&lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)&lt;/td&gt;&lt;td&gt;6&amp;nbsp;m&amp;nbsp;(4&amp;nbsp;&lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)&lt;/td&gt;&lt;td&gt;1&amp;nbsp;kg&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&amp;nbsp; &lt;a class=&quot;pagelink&quot; href=&quot;Description-Des-Pi&#232;ces-Darmure.html#BRASCUIRCLOUTE&quot; title=&quot;Description des pi&#232;ces d&amp;#39;armure&quot;&gt;De cuir clout&#233;e&lt;/a&gt;&lt;/td&gt;&lt;td&gt;5&amp;nbsp;po&lt;/td&gt;&lt;td&gt;+0&lt;/td&gt;&lt;td&gt;+5&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;15%&lt;/td&gt;&lt;td&gt;9&amp;nbsp;m&amp;nbsp;(6&amp;nbsp;&lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)&lt;/td&gt;&lt;td&gt;6&amp;nbsp;m&amp;nbsp;(4&amp;nbsp;&lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)&lt;/td&gt;&lt;td&gt;1&amp;nbsp;kg&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;&amp;nbsp; &lt;a class=&quot;pagelink&quot; href=&quot;Description-Des-Pi&#232;ces-Darmure.html#BRASREMBOURR&#201;S&quot; title=&quot;Description des pi&#232;ces d&amp;#39;armure&quot;&gt;Habits rembourr&#233;s&lt;/a&gt;&lt;/td&gt;&lt;td&gt;25&amp;nbsp;po&lt;/td&gt;&lt;td&gt;+0&lt;/td&gt;&lt;td&gt;+8&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;10%&lt;/td&gt;&lt;td&gt;9&amp;nbsp;m&amp;nbsp;(6&amp;nbsp;&lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)&lt;/td&gt;&lt;td&gt;6&amp;nbsp;m&amp;nbsp;(4&amp;nbsp;&lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)&lt;/td&gt;&lt;td&gt;1&amp;nbsp;kg&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&amp;nbsp; &lt;a class=&quot;pagelink&quot; href=&quot;Description-Des-Pi&#232;ces-Darmure.html#BRASLAMELLAIRECUIR&quot; title=&quot;Description des pi&#232;ces d&amp;#39;armure&quot;&gt;Lamellaire, cuir&lt;/a&gt;&lt;/td&gt;&lt;td&gt;15&amp;nbsp;po&lt;/td&gt;&lt;td&gt;+0&lt;/td&gt;&lt;td&gt;+3&lt;/td&gt;&lt;td&gt;-1&lt;/td&gt;&lt;td&gt;20%&lt;/td&gt;&lt;td&gt;9&amp;nbsp;m&amp;nbsp;(6&amp;nbsp;&lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)&lt;/td&gt;&lt;td&gt;6&amp;nbsp;m&amp;nbsp;(4&amp;nbsp;&lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)&lt;/td&gt;&lt;td&gt;2,5&amp;nbsp;kg&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;&amp;nbsp; &lt;a class=&quot;pagelink&quot; href=&quot;Description-Des-Pi&#232;ces-Darmure.html#BRASMATELASS&#201;&quot; title=&quot;Description des pi&#232;ces d&amp;#39;armure&quot;&gt;Matelass&#233;e&lt;/a&gt;&lt;/td&gt;&lt;td&gt;1&amp;nbsp;po&lt;/td&gt;&lt;td&gt;+0&lt;/td&gt;&lt;td&gt;+8&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;5%&lt;/td&gt;&lt;td&gt;9&amp;nbsp;m&amp;nbsp;(6&amp;nbsp;&lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)&lt;/td&gt;&lt;td&gt;6&amp;nbsp;m&amp;nbsp;(4&amp;nbsp;&lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)&lt;/td&gt;&lt;td&gt;1&amp;nbsp;kg&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier&quot;&gt;&lt;td COLSPAN=&quot;9&quot;&gt;Armures interm&#233;diaires&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&amp;nbsp; &lt;a class=&quot;pagelink&quot; href=&quot;Description-Des-Pi&#232;ces-Darmure.html#BRAS&#201;CAILLES&quot; title=&quot;Description des pi&#232;ces d&amp;#39;armure&quot;&gt;D’&#233;cailles&lt;/a&gt;&lt;/td&gt;&lt;td&gt;10&amp;nbsp;po&lt;/td&gt;&lt;td&gt;+1&lt;/td&gt;&lt;td&gt;+3&lt;/td&gt;&lt;td&gt;-2&lt;/td&gt;&lt;td&gt;25%&lt;/td&gt;&lt;td&gt;9&amp;nbsp;m&amp;nbsp;(6&amp;nbsp;&lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)&lt;/td&gt;&lt;td&gt;6&amp;nbsp;m&amp;nbsp;(4&amp;nbsp;&lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)&lt;/td&gt;&lt;td&gt;2,5&amp;nbsp;kg&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;&amp;nbsp; &lt;a class=&quot;pagelink&quot; href=&quot;Description-Des-Pi&#232;ces-Darmure.html#BRASKIKKO&quot; title=&quot;Description des pi&#232;ces d&amp;#39;armure&quot;&gt;Kikko&lt;/a&gt;&lt;/td&gt;&lt;td&gt;5&amp;nbsp;po&lt;/td&gt;&lt;td&gt;+0&lt;/td&gt;&lt;td&gt;+5&lt;/td&gt;&lt;td&gt;-1&lt;/td&gt;&lt;td&gt;20%&lt;/td&gt;&lt;td&gt;9&amp;nbsp;m&amp;nbsp;(6&amp;nbsp;&lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)&lt;/td&gt;&lt;td&gt;6&amp;nbsp;m&amp;nbsp;(4&amp;nbsp;&lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)&lt;/td&gt;&lt;td&gt;2,5&amp;nbsp;kg&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&amp;nbsp; &lt;a class=&quot;pagelink&quot; href=&quot;Description-Des-Pi&#232;ces-Darmure.html#BRASLAMELLAIREACIER&quot; title=&quot;Description des pi&#232;ces d&amp;#39;armure&quot;&gt;Lamellaire, acier&lt;/a&gt;&lt;/td&gt;&lt;td&gt;25&amp;nbsp;po&lt;/td&gt;&lt;td&gt;+1&lt;/td&gt;&lt;td&gt;+3&lt;/td&gt;&lt;td&gt;-2&lt;/td&gt;&lt;td&gt;25%&lt;/td&gt;&lt;td&gt;9&amp;nbsp;m&amp;nbsp;(6&amp;nbsp;&lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)&lt;/td&gt;&lt;td&gt;6&amp;nbsp;m&amp;nbsp;(4&amp;nbsp;&lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)&lt;/td&gt;&lt;td&gt;2,5&amp;nbsp;kg&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;&amp;nbsp; &lt;a class=&quot;pagelink&quot; href=&quot;Description-Des-Pi&#232;ces-Darmure.html#BRASLAMELLAIRECORNE&quot; title=&quot;Description des pi&#232;ces d&amp;#39;armure&quot;&gt;Lamellaire, corne&lt;/a&gt;&lt;/td&gt;&lt;td&gt;25&amp;nbsp;po&lt;/td&gt;&lt;td&gt;+1&lt;/td&gt;&lt;td&gt;+5&lt;/td&gt;&lt;td&gt;-2&lt;/td&gt;&lt;td&gt;25%&lt;/td&gt;&lt;td&gt;9&amp;nbsp;m&amp;nbsp;(6&amp;nbsp;&lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)&lt;/td&gt;&lt;td&gt;6&amp;nbsp;m&amp;nbsp;(4&amp;nbsp;&lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)&lt;/td&gt;&lt;td&gt;2,5&amp;nbsp;kg&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&amp;nbsp; &lt;a class=&quot;pagelink&quot; href=&quot;Description-Des-Pi&#232;ces-Darmure.html#BRASMAILLES&quot; title=&quot;Description des pi&#232;ces d&amp;#39;armure&quot;&gt;De mailles&lt;/a&gt;&lt;/td&gt;&lt;td&gt;25&amp;nbsp;po&lt;/td&gt;&lt;td&gt;+1&lt;/td&gt;&lt;td&gt;+2&lt;/td&gt;&lt;td&gt;-3&lt;/td&gt;&lt;td&gt;30%&lt;/td&gt;&lt;td&gt;9&amp;nbsp;m&amp;nbsp;(6&amp;nbsp;&lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)&lt;/td&gt;&lt;td&gt;6&amp;nbsp;m&amp;nbsp;(4&amp;nbsp;&lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)&lt;/td&gt;&lt;td&gt;2,5&amp;nbsp;kg&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;&amp;nbsp; &lt;a class=&quot;pagelink&quot; href=&quot;Description-Des-Pi&#232;ces-Darmure.html#BRASMONTAGNE&quot; title=&quot;Description des pi&#232;ces d&amp;#39;armure&quot;&gt;De la montagne&lt;/a&gt;&lt;/td&gt;&lt;td&gt;50&amp;nbsp;po&lt;/td&gt;&lt;td&gt;+1&lt;/td&gt;&lt;td&gt;+3&lt;/td&gt;&lt;td&gt;-2&lt;/td&gt;&lt;td&gt;30%&lt;/td&gt;&lt;td&gt;9&amp;nbsp;m&amp;nbsp;(6&amp;nbsp;&lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)&lt;/td&gt;&lt;td&gt;6&amp;nbsp;m&amp;nbsp;(4&amp;nbsp;&lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)&lt;/td&gt;&lt;td&gt;4,5&amp;nbsp;kg&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&amp;nbsp; &lt;a class=&quot;pagelink&quot; href=&quot;Description-Des-Pi&#232;ces-Darmure.html#BRASPEAU&quot; title=&quot;Description des pi&#232;ces d&amp;#39;armure&quot;&gt;De peau&lt;/a&gt;&lt;/td&gt;&lt;td&gt;2&amp;nbsp;po&lt;/td&gt;&lt;td&gt;+0&lt;/td&gt;&lt;td&gt;+4&lt;/td&gt;&lt;td&gt;-2&lt;/td&gt;&lt;td&gt;20%&lt;/td&gt;&lt;td&gt;9&amp;nbsp;m&amp;nbsp;(6&amp;nbsp;&lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)&lt;/td&gt;&lt;td&gt;6&amp;nbsp;m&amp;nbsp;(4&amp;nbsp;&lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)&lt;/td&gt;&lt;td&gt;1,5&amp;nbsp;kg&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier&quot;&gt;&lt;td COLSPAN=&quot;9&quot;&gt;Armures lourdes&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&amp;nbsp; &lt;a class=&quot;pagelink&quot; href=&quot;Description-Des-Pi&#232;ces-Darmure.html#BRASCLIBANION&quot; title=&quot;Description des pi&#232;ces d&amp;#39;armure&quot;&gt;De clibanion&lt;/a&gt;&lt;/td&gt;&lt;td&gt;50&amp;nbsp;po&lt;/td&gt;&lt;td&gt;+1&lt;/td&gt;&lt;td&gt;+0&lt;/td&gt;&lt;td&gt;-4&lt;/td&gt;&lt;td&gt;40%&lt;/td&gt;&lt;td&gt;9&amp;nbsp;m&amp;nbsp;(6&amp;nbsp;&lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)&lt;/td&gt;&lt;td&gt;6&amp;nbsp;m&amp;nbsp;(4&amp;nbsp;&lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)&lt;/td&gt;&lt;td&gt;2,5&amp;nbsp;kg&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;&amp;nbsp; &lt;a class=&quot;pagelink&quot; href=&quot;Description-Des-Pi&#232;ces-Darmure.html#BRASCREVICE&quot; title=&quot;Description des pi&#232;ces d&amp;#39;armure&quot;&gt;De crevice&lt;/a&gt;&lt;/td&gt;&lt;td&gt;50&amp;nbsp;po&lt;/td&gt;&lt;td&gt;+1&lt;/td&gt;&lt;td&gt;+1&lt;/td&gt;&lt;td&gt;-3&lt;/td&gt;&lt;td&gt;35%&lt;/td&gt;&lt;td&gt;9&amp;nbsp;m&amp;nbsp;(6&amp;nbsp;&lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)&lt;/td&gt;&lt;td&gt;6&amp;nbsp;m&amp;nbsp;(4&amp;nbsp;&lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)&lt;/td&gt;&lt;td&gt;2,5&amp;nbsp;kg&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&amp;nbsp; &lt;a class=&quot;pagelink&quot; href=&quot;Description-Des-Pi&#232;ces-Darmure.html#BRASKUSARIGUSOKU&quot; title=&quot;Description des pi&#232;ces d&amp;#39;armure&quot;&gt;Kusari gusoku&lt;/a&gt;&lt;/td&gt;&lt;td&gt;50&amp;nbsp;po&lt;/td&gt;&lt;td&gt;+1&lt;/td&gt;&lt;td&gt;+1&lt;/td&gt;&lt;td&gt;-3&lt;/td&gt;&lt;td&gt;35%&lt;/td&gt;&lt;td&gt;9&amp;nbsp;m&amp;nbsp;(6&amp;nbsp;&lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)&lt;/td&gt;&lt;td&gt;6&amp;nbsp;m&amp;nbsp;(4&amp;nbsp;&lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)&lt;/td&gt;&lt;td&gt;2,5&amp;nbsp;kg&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;&amp;nbsp; &lt;a class=&quot;pagelink&quot; href=&quot;Description-Des-Pi&#232;ces-Darmure.html#BRASLAMELLAIREFER&quot; title=&quot;Description des pi&#232;ces d&amp;#39;armure&quot;&gt;Lamellaire, fer&lt;/a&gt;&lt;/td&gt;&lt;td&gt;50&amp;nbsp;po&lt;/td&gt;&lt;td&gt;+1&lt;/td&gt;&lt;td&gt;+0&lt;/td&gt;&lt;td&gt;-4&lt;/td&gt;&lt;td&gt;40%&lt;/td&gt;&lt;td&gt;9&amp;nbsp;m&amp;nbsp;(6&amp;nbsp;&lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)&lt;/td&gt;&lt;td&gt;6&amp;nbsp;m&amp;nbsp;(4&amp;nbsp;&lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)&lt;/td&gt;&lt;td&gt;4,5&amp;nbsp;kg&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&amp;nbsp; &lt;a class=&quot;pagelink&quot; href=&quot;Description-Des-Pi&#232;ces-Darmure.html#BRASOYOROI&quot; title=&quot;Description des pi&#232;ces d&amp;#39;armure&quot;&gt;O-yoroi&lt;/a&gt;&lt;/td&gt;&lt;td&gt;250&amp;nbsp;po&lt;/td&gt;&lt;td&gt;+1&lt;/td&gt;&lt;td&gt;+2&lt;/td&gt;&lt;td&gt;-5&lt;/td&gt;&lt;td&gt;35%&lt;/td&gt;&lt;td&gt;9&amp;nbsp;m&amp;nbsp;(6&amp;nbsp;&lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)&lt;/td&gt;&lt;td&gt;6&amp;nbsp;m&amp;nbsp;(4&amp;nbsp;&lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)&lt;/td&gt;&lt;td&gt;2,5&amp;nbsp;kg&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;&amp;nbsp; &lt;a class=&quot;pagelink&quot; href=&quot;Description-Des-Pi&#232;ces-Darmure.html#BRASPLAQUES&quot; title=&quot;Description des pi&#232;ces d&amp;#39;armure&quot;&gt;De plaques&lt;/a&gt;&lt;/td&gt;&lt;td&gt;375&amp;nbsp;po&lt;/td&gt;&lt;td&gt;+1&lt;/td&gt;&lt;td&gt;+1&lt;/td&gt;&lt;td&gt;-7&lt;/td&gt;&lt;td&gt;35%&lt;/td&gt;&lt;td&gt;9&amp;nbsp;m&amp;nbsp;(6&amp;nbsp;&lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)&lt;/td&gt;&lt;td&gt;6&amp;nbsp;m&amp;nbsp;(4&amp;nbsp;&lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)&lt;/td&gt;&lt;td&gt;4,5&amp;nbsp;kg&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&amp;nbsp; &lt;a class=&quot;pagelink&quot; href=&quot;Description-Des-Pi&#232;ces-Darmure.html#BRASPLAQUESFLEXIBLES&quot; title=&quot;Description des pi&#232;ces d&amp;#39;armure&quot;&gt;De plaques flexibles&lt;/a&gt;&lt;/td&gt;&lt;td&gt;425&amp;nbsp;po&lt;/td&gt;&lt;td&gt;+1&lt;/td&gt;&lt;td&gt;+0&lt;/td&gt;&lt;td&gt;-7&lt;/td&gt;&lt;td&gt;40%&lt;/td&gt;&lt;td&gt;9&amp;nbsp;m&amp;nbsp;(6&amp;nbsp;&lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)&lt;/td&gt;&lt;td&gt;6&amp;nbsp;m&amp;nbsp;(4&amp;nbsp;&lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)&lt;/td&gt;&lt;td&gt;2,5&amp;nbsp;kg&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;&amp;nbsp; &lt;a class=&quot;pagelink&quot; href=&quot;Description-Des-Pi&#232;ces-Darmure.html#BRASTATAMIDO&quot; title=&quot;Description des pi&#232;ces d&amp;#39;armure&quot;&gt;Tatami-Do&lt;/a&gt;&lt;/td&gt;&lt;td&gt;100&amp;nbsp;po&lt;/td&gt;&lt;td&gt;+1&lt;/td&gt;&lt;td&gt;+3&lt;/td&gt;&lt;td&gt;-5&lt;/td&gt;&lt;td&gt;35%&lt;/td&gt;&lt;td&gt;9&amp;nbsp;m&amp;nbsp;(6&amp;nbsp;&lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)&lt;/td&gt;&lt;td&gt;6&amp;nbsp;m&amp;nbsp;(4&amp;nbsp;&lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)&lt;/td&gt;&lt;td&gt;2,5&amp;nbsp;kg&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td CLASS=&quot;note&quot; COLSPAN=&quot;9&quot;&gt;&lt;a name=&quot;NOTEBRAS1&quot;&gt;&lt;/a&gt;&lt;i&gt;(1) Les poids indiqu&#233;s correspondent &#224; des pi&#232;ces d’armure con&#231;ues pour des personnages de taille M. Les pi&#232;ces d’armure des personnages de taille P p&#232;sent moiti&#233; moins, et les poids des pi&#232;ces d’armure des personnages de taille G doivent &#234;tre doubl&#233;s.&lt;/i&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;&lt;br /&gt;&lt;br /&gt;&lt;a name=&quot;JAMBES&quot;&gt;&lt;/a&gt;
+&lt;h3 class=&quot;separator&quot;&gt;Jambes d&#39;armure&lt;a class=&quot;headeranchor&quot; id=&quot;Jambes_darmure_4&quot; href=&quot;#Jambes_darmure_4&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;Les jambes d’armures les plus lourdes ralentissent leurs
+porteurs et octroient d’importants malus d’armure aux
+tests, mais elles sont en revanche moins g&#234;nantes pour les
+lanceurs de sorts que les bras d’armures lourdes.&lt;br /&gt;&lt;br /&gt;&lt;center&gt;&lt;a name=&quot;TABPROFILSJAMBES&quot;&gt;&lt;/a&gt;&lt;table CLASS=&quot;tablo&quot;&gt;&lt;caption&gt;Profils des jambes d&#39;armure&lt;/caption&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td ROWSPAN=&quot;2&quot;&gt;Type d’armure&lt;/td&gt;&lt;td ROWSPAN=&quot;2&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques-Des-Armures.html#PRIX&quot; title=&quot;Caract&#233;ristiques des armures&quot;&gt;Prix&lt;/a&gt;&lt;/td&gt;&lt;td ROWSPAN=&quot;2&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques-Des-Armures.html#BONUSARMUREBOUCLIER&quot; title=&quot;Caract&#233;ristiques des armures&quot;&gt;Bonus d’armure&lt;/a&gt;&lt;/td&gt;&lt;td ROWSPAN=&quot;2&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques-Des-Armures.html#BONUSDEXMAX&quot; title=&quot;Caract&#233;ristiques des armures&quot;&gt;Bonus de&lt;br /&gt; Dex max&lt;/a&gt;&lt;/td&gt;&lt;td ROWSPAN=&quot;2&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques-Des-Armures.html#MALUSARMURE&quot; title=&quot;Caract&#233;ristiques des armures&quot;&gt;Malus &lt;br /&gt;d’armure&lt;br /&gt; aux tests&lt;/a&gt;&lt;/td&gt;&lt;td ROWSPAN=&quot;2&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques-Des-Armures.html#RISQUEECHECPROFANE&quot; title=&quot;Caract&#233;ristiques des armures&quot;&gt;Risque &lt;br /&gt;d’&#233;chec des&lt;br /&gt; sorts profanes&lt;/a&gt;&lt;/td&gt;&lt;td COLSPAN=&quot;2&quot; CLASS=&quot;avecsoustitre&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques-Des-Armures.html#VITESSEDEPLACEMENT&quot; title=&quot;Caract&#233;ristiques des armures&quot;&gt;Vitesse&lt;/a&gt;&lt;/td&gt;&lt;td ROWSPAN=&quot;2&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques-Des-Armures.html#POIDS&quot; title=&quot;Caract&#233;ristiques des armures&quot;&gt;Poids&lt;/a&gt;&lt;sup&gt;(&lt;a class=&quot;internallink&quot; href=&quot;#NOTEJAMBES1&quot; title=&quot;1&quot;&gt;1&lt;/a&gt;)&lt;/sup&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;soustitre&quot;&gt;&lt;td&gt;9&amp;nbsp;m&amp;nbsp;(6&amp;nbsp;&lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)&lt;/td&gt;&lt;td&gt;6m&amp;nbsp;(4&amp;nbsp;&lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier&quot;&gt;&lt;td COLSPAN=&quot;9&quot;&gt;Armures l&#233;g&#232;res&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&amp;nbsp; &lt;a class=&quot;pagelink&quot; href=&quot;Description-Des-Pi&#232;ces-Darmure.html#JAMBESBOIS&quot; title=&quot;Description des pi&#232;ces d&amp;#39;armure&quot;&gt;De bois&lt;/a&gt;&lt;/td&gt;&lt;td&gt;5&amp;nbsp;po&lt;/td&gt;&lt;td&gt;+1&lt;/td&gt;&lt;td&gt;+3&lt;/td&gt;&lt;td&gt;-1&lt;/td&gt;&lt;td&gt;5%&lt;/td&gt;&lt;td&gt;9&amp;nbsp;m&amp;nbsp;(6&amp;nbsp;&lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)&lt;/td&gt;&lt;td&gt;6&amp;nbsp;m&amp;nbsp;(4&amp;nbsp;&lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)&lt;/td&gt;&lt;td&gt;3&amp;nbsp;kg&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;&amp;nbsp; &lt;a class=&quot;pagelink&quot; href=&quot;Description-Des-Pi&#232;ces-Darmure.html#JAMBESCUIR&quot; title=&quot;Description des pi&#232;ces d&amp;#39;armure&quot;&gt;De cuir&lt;/a&gt;&lt;/td&gt;&lt;td&gt;3&amp;nbsp;po&lt;/td&gt;&lt;td&gt;+0&lt;/td&gt;&lt;td&gt;+6&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;0%&lt;/td&gt;&lt;td&gt;9&amp;nbsp;m&amp;nbsp;(6&amp;nbsp;&lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)&lt;/td&gt;&lt;td&gt;6&amp;nbsp;m&amp;nbsp;(4&amp;nbsp;&lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)&lt;/td&gt;&lt;td&gt;1,5&amp;nbsp;kg&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&amp;nbsp; &lt;a class=&quot;pagelink&quot; href=&quot;Description-Des-Pi&#232;ces-Darmure.html#JAMBESCUIRCLOUT&#201;&quot; title=&quot;Description des pi&#232;ces d&amp;#39;armure&quot;&gt;De cuir clout&#233;e&lt;/a&gt;&lt;/td&gt;&lt;td&gt;5&amp;nbsp;po&lt;/td&gt;&lt;td&gt;+1&lt;/td&gt;&lt;td&gt;+5&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;10%&lt;/td&gt;&lt;td&gt;9&amp;nbsp;m&amp;nbsp;(6&amp;nbsp;&lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)&lt;/td&gt;&lt;td&gt;6&amp;nbsp;m&amp;nbsp;(4&amp;nbsp;&lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)&lt;/td&gt;&lt;td&gt;1,5&amp;nbsp;kg&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;&amp;nbsp; &lt;a class=&quot;pagelink&quot; href=&quot;Description-Des-Pi&#232;ces-Darmure.html#JAMBESREMBOURR&#201;ES&quot; title=&quot;Description des pi&#232;ces d&amp;#39;armure&quot;&gt;Habits rembourr&#233;s&lt;/a&gt;&lt;/td&gt;&lt;td&gt;25&amp;nbsp;po&lt;/td&gt;&lt;td&gt;+0&lt;/td&gt;&lt;td&gt;+8&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;5%&lt;/td&gt;&lt;td&gt;9&amp;nbsp;m&amp;nbsp;(6&amp;nbsp;&lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)&lt;/td&gt;&lt;td&gt;6&amp;nbsp;m&amp;nbsp;(4&amp;nbsp;&lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)&lt;/td&gt;&lt;td&gt;1,5&amp;nbsp;kg&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&amp;nbsp; &lt;a class=&quot;pagelink&quot; href=&quot;Description-Des-Pi&#232;ces-Darmure.html#JAMBESLAMELLAIRECUIR&quot; title=&quot;Description des pi&#232;ces d&amp;#39;armure&quot;&gt;Lamellaire, cuir&lt;/a&gt;&lt;/td&gt;&lt;td&gt;15&amp;nbsp;po&lt;/td&gt;&lt;td&gt;+1&lt;/td&gt;&lt;td&gt;+2&lt;/td&gt;&lt;td&gt;-1&lt;/td&gt;&lt;td&gt;10%&lt;/td&gt;&lt;td&gt;9&amp;nbsp;m&amp;nbsp;(6&amp;nbsp;&lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)&lt;/td&gt;&lt;td&gt;6&amp;nbsp;m&amp;nbsp;(4&amp;nbsp;&lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)&lt;/td&gt;&lt;td&gt;5&amp;nbsp;kg&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;&amp;nbsp; &lt;a class=&quot;pagelink&quot; href=&quot;Description-Des-Pi&#232;ces-Darmure.html#JAMBESMATELASS&#201;ES&quot; title=&quot;Description des pi&#232;ces d&amp;#39;armure&quot;&gt;Matelass&#233;e&lt;/a&gt;&lt;/td&gt;&lt;td&gt;1&amp;nbsp;po&lt;/td&gt;&lt;td&gt;+0&lt;/td&gt;&lt;td&gt;+8&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;0%&lt;/td&gt;&lt;td&gt;9&amp;nbsp;m&amp;nbsp;(6&amp;nbsp;&lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)&lt;/td&gt;&lt;td&gt;6&amp;nbsp;m&amp;nbsp;(4&amp;nbsp;&lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)&lt;/td&gt;&lt;td&gt;1,5&amp;nbsp;kg&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier&quot;&gt;&lt;td COLSPAN=&quot;9&quot;&gt;Armures interm&#233;diaires&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&amp;nbsp; &lt;a class=&quot;pagelink&quot; href=&quot;Description-Des-Pi&#232;ces-Darmure.html#JAMBES&#201;CAILLES&quot; title=&quot;Description des pi&#232;ces d&amp;#39;armure&quot;&gt;D’&#233;cailles&lt;/a&gt;&lt;/td&gt;&lt;td&gt;10&amp;nbsp;po&lt;/td&gt;&lt;td&gt;+1&lt;/td&gt;&lt;td&gt;+3&lt;/td&gt;&lt;td&gt;-2&lt;/td&gt;&lt;td&gt;15%&lt;/td&gt;&lt;td&gt;9&amp;nbsp;m&amp;nbsp;(6&amp;nbsp;&lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)&lt;/td&gt;&lt;td&gt;6&amp;nbsp;m&amp;nbsp;(4&amp;nbsp;&lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)&lt;/td&gt;&lt;td&gt;4,5&amp;nbsp;kg&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;&amp;nbsp; &lt;a class=&quot;pagelink&quot; href=&quot;Description-Des-Pi&#232;ces-Darmure.html#JAMBESKIKKO&quot; title=&quot;Description des pi&#232;ces d&amp;#39;armure&quot;&gt;Kikko&lt;/a&gt;&lt;/td&gt;&lt;td&gt;10&amp;nbsp;po&lt;/td&gt;&lt;td&gt;+1&lt;/td&gt;&lt;td&gt;+3&lt;/td&gt;&lt;td&gt;-1&lt;/td&gt;&lt;td&gt;10%&lt;/td&gt;&lt;td&gt;6&amp;nbsp;m&amp;nbsp;(4&amp;nbsp;&lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)&lt;/td&gt;&lt;td&gt;4,50&amp;nbsp;m&amp;nbsp;(3&amp;nbsp;&lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)&lt;/td&gt;&lt;td&gt;2,5&amp;nbsp;kg&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&amp;nbsp; &lt;a class=&quot;pagelink&quot; href=&quot;Description-Des-Pi&#232;ces-Darmure.html#JAMBESLAMELLAIREACIER&quot; title=&quot;Description des pi&#232;ces d&amp;#39;armure&quot;&gt;Lamellaire, acier&lt;/a&gt;&lt;/td&gt;&lt;td&gt;25&amp;nbsp;po&lt;/td&gt;&lt;td&gt;+1&lt;/td&gt;&lt;td&gt;+3&lt;/td&gt;&lt;td&gt;-2&lt;/td&gt;&lt;td&gt;15%&lt;/td&gt;&lt;td&gt;9&amp;nbsp;m&amp;nbsp;(6&amp;nbsp;&lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)&lt;/td&gt;&lt;td&gt;6&amp;nbsp;m&amp;nbsp;(4&amp;nbsp;&lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)&lt;/td&gt;&lt;td&gt;2,5&amp;nbsp;kg&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;&amp;nbsp; &lt;a class=&quot;pagelink&quot; href=&quot;Description-Des-Pi&#232;ces-Darmure.html#JAMBESLAMELLAIRECORNE&quot; title=&quot;Description des pi&#232;ces d&amp;#39;armure&quot;&gt;Lamellaire, corne&lt;/a&gt;&lt;/td&gt;&lt;td&gt;25&amp;nbsp;po&lt;/td&gt;&lt;td&gt;+1&lt;/td&gt;&lt;td&gt;+3&lt;/td&gt;&lt;td&gt;-2&lt;/td&gt;&lt;td&gt;10%&lt;/td&gt;&lt;td&gt;6&amp;nbsp;m&amp;nbsp;(4&amp;nbsp;&lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)&lt;/td&gt;&lt;td&gt;4,50&amp;nbsp;m&amp;nbsp;(3&amp;nbsp;&lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)&lt;/td&gt;&lt;td&gt;2,5&amp;nbsp;kg&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&amp;nbsp; &lt;a class=&quot;pagelink&quot; href=&quot;Description-Des-Pi&#232;ces-Darmure.html#JAMBESMAILLES&quot; title=&quot;Description des pi&#232;ces d&amp;#39;armure&quot;&gt;De mailles&lt;/a&gt;&lt;/td&gt;&lt;td&gt;25&amp;nbsp;po&lt;/td&gt;&lt;td&gt;+0&lt;/td&gt;&lt;td&gt;+2&lt;/td&gt;&lt;td&gt;-2&lt;/td&gt;&lt;td&gt;15%&lt;/td&gt;&lt;td&gt;9&amp;nbsp;m&amp;nbsp;(6&amp;nbsp;&lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)&lt;/td&gt;&lt;td&gt;6&amp;nbsp;m&amp;nbsp;(4&amp;nbsp;&lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)&lt;/td&gt;&lt;td&gt;4,5&amp;nbsp;kg&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;&amp;nbsp; &lt;a class=&quot;pagelink&quot; href=&quot;Description-Des-Pi&#232;ces-Darmure.html#JAMBESMONTAGNE&quot; title=&quot;Description des pi&#232;ces d&amp;#39;armure&quot;&gt;De la montagne&lt;/a&gt;&lt;/td&gt;&lt;td&gt;50&amp;nbsp;po&lt;/td&gt;&lt;td&gt;+1&lt;/td&gt;&lt;td&gt;+3&lt;/td&gt;&lt;td&gt;-2&lt;/td&gt;&lt;td&gt;15%&lt;/td&gt;&lt;td&gt;6&amp;nbsp;m&amp;nbsp;(4&amp;nbsp;&lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)&lt;/td&gt;&lt;td&gt;4,50&amp;nbsp;m&amp;nbsp;(3&amp;nbsp;&lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)&lt;/td&gt;&lt;td&gt;4,5&amp;nbsp;kg&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&amp;nbsp; &lt;a class=&quot;pagelink&quot; href=&quot;Description-Des-Pi&#232;ces-Darmure.html#JAMBESPEAU&quot; title=&quot;Description des pi&#232;ces d&amp;#39;armure&quot;&gt;De peau&lt;/a&gt;&lt;/td&gt;&lt;td&gt;3&amp;nbsp;po&lt;/td&gt;&lt;td&gt;+1&lt;/td&gt;&lt;td&gt;+4&lt;/td&gt;&lt;td&gt;-2&lt;/td&gt;&lt;td&gt;10%&lt;/td&gt;&lt;td&gt;9&amp;nbsp;m&amp;nbsp;(6&amp;nbsp;&lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)&lt;/td&gt;&lt;td&gt;6&amp;nbsp;m&amp;nbsp;(4&amp;nbsp;&lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)&lt;/td&gt;&lt;td&gt;3&amp;nbsp;kg&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier&quot;&gt;&lt;td COLSPAN=&quot;9&quot;&gt;Armures lourdes&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&amp;nbsp; &lt;a class=&quot;pagelink&quot; href=&quot;Description-Des-Pi&#232;ces-Darmure.html#JAMBESCLIBANION&quot; title=&quot;Description des pi&#232;ces d&amp;#39;armure&quot;&gt;De clibanion&lt;/a&gt;&lt;/td&gt;&lt;td&gt;50&amp;nbsp;po&lt;/td&gt;&lt;td&gt;+1&lt;/td&gt;&lt;td&gt;+0&lt;/td&gt;&lt;td&gt;-4&lt;/td&gt;&lt;td&gt;20%&lt;/td&gt;&lt;td&gt;6&amp;nbsp;m&amp;nbsp;(4&amp;nbsp;&lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)&lt;sup&gt;(&lt;a class=&quot;internallink&quot; href=&quot;#NOTEJAMBES2&quot; title=&quot;2&quot;&gt;2&lt;/a&gt;)&lt;/sup&gt;&lt;/td&gt;&lt;td&gt;4,50&amp;nbsp;m&amp;nbsp;(3&amp;nbsp;&lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)&lt;sup&gt;(&lt;a class=&quot;internallink&quot; href=&quot;#NOTEJAMBES2&quot; title=&quot;2&quot;&gt;2&lt;/a&gt;)&lt;/sup&gt;&lt;/td&gt;&lt;td&gt;7&amp;nbsp;kg&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;&amp;nbsp; &lt;a class=&quot;pagelink&quot; href=&quot;Description-Des-Pi&#232;ces-Darmure.html#JAMBESCREVICE&quot; title=&quot;Description des pi&#232;ces d&amp;#39;armure&quot;&gt;De crevice&lt;/a&gt;&lt;/td&gt;&lt;td&gt;50&amp;nbsp;po&lt;/td&gt;&lt;td&gt;+1&lt;/td&gt;&lt;td&gt;+1&lt;/td&gt;&lt;td&gt;-3&lt;/td&gt;&lt;td&gt;15%&lt;/td&gt;&lt;td&gt;6&amp;nbsp;m&amp;nbsp;(4&amp;nbsp;&lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)&lt;sup&gt;(&lt;a class=&quot;internallink&quot; href=&quot;#NOTEJAMBES2&quot; title=&quot;2&quot;&gt;2&lt;/a&gt;)&lt;/sup&gt;&lt;/td&gt;&lt;td&gt;4,50&amp;nbsp;m&amp;nbsp;(3&amp;nbsp;&lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)&lt;sup&gt;(&lt;a class=&quot;internallink&quot; href=&quot;#NOTEJAMBES2&quot; title=&quot;2&quot;&gt;2&lt;/a&gt;)&lt;/sup&gt;&lt;/td&gt;&lt;td&gt;4,5&amp;nbsp;kg&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&amp;nbsp; &lt;a class=&quot;pagelink&quot; href=&quot;Description-Des-Pi&#232;ces-Darmure.html#JAMBESKUSARIGUSOKU&quot; title=&quot;Description des pi&#232;ces d&amp;#39;armure&quot;&gt;Kusari gusoku&lt;/a&gt;&lt;/td&gt;&lt;td&gt;100&amp;nbsp;po&lt;/td&gt;&lt;td&gt;+1&lt;/td&gt;&lt;td&gt;+1&lt;/td&gt;&lt;td&gt;-3&lt;/td&gt;&lt;td&gt;20%&lt;/td&gt;&lt;td&gt;6&amp;nbsp;m&amp;nbsp;(4&amp;nbsp;&lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)&lt;sup&gt;(&lt;a class=&quot;internallink&quot; href=&quot;#NOTEJAMBES2&quot; title=&quot;2&quot;&gt;2&lt;/a&gt;)&lt;/sup&gt;&lt;/td&gt;&lt;td&gt;4,50&amp;nbsp;m&amp;nbsp;(3&amp;nbsp;&lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)&lt;sup&gt;(&lt;a class=&quot;internallink&quot; href=&quot;#NOTEJAMBES2&quot; title=&quot;2&quot;&gt;2&lt;/a&gt;)&lt;/sup&gt;&lt;/td&gt;&lt;td&gt;4,5&amp;nbsp;kg&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;&amp;nbsp; &lt;a class=&quot;pagelink&quot; href=&quot;Description-Des-Pi&#232;ces-Darmure.html#JAMBESLAMELLAIREFER&quot; title=&quot;Description des pi&#232;ces d&amp;#39;armure&quot;&gt;Lamellaire, fer&lt;/a&gt;&lt;/td&gt;&lt;td&gt;50&amp;nbsp;po&lt;/td&gt;&lt;td&gt;+1&lt;/td&gt;&lt;td&gt;+1&lt;/td&gt;&lt;td&gt;-4&lt;/td&gt;&lt;td&gt;20%&lt;/td&gt;&lt;td&gt;6&amp;nbsp;m&amp;nbsp;(4&amp;nbsp;&lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)&lt;sup&gt;(&lt;a class=&quot;internallink&quot; href=&quot;#NOTEJAMBES2&quot; title=&quot;2&quot;&gt;2&lt;/a&gt;)&lt;/sup&gt;&lt;/td&gt;&lt;td&gt;4,50&amp;nbsp;m&amp;nbsp;(3&amp;nbsp;&lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)&lt;sup&gt;(&lt;a class=&quot;internallink&quot; href=&quot;#NOTEJAMBES2&quot; title=&quot;2&quot;&gt;2&lt;/a&gt;)&lt;/sup&gt;&lt;/td&gt;&lt;td&gt;4,5&amp;nbsp;kg&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&amp;nbsp; &lt;a class=&quot;pagelink&quot; href=&quot;Description-Des-Pi&#232;ces-Darmure.html#JAMBESOYOROI&quot; title=&quot;Description des pi&#232;ces d&amp;#39;armure&quot;&gt;O-yoroi&lt;/a&gt;&lt;/td&gt;&lt;td&gt;300&amp;nbsp;po&lt;/td&gt;&lt;td&gt;+2&lt;/td&gt;&lt;td&gt;+2&lt;/td&gt;&lt;td&gt;-3&lt;/td&gt;&lt;td&gt;20%&lt;/td&gt;&lt;td&gt;6&amp;nbsp;m&amp;nbsp;(4&amp;nbsp;&lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)&lt;sup&gt;(&lt;a class=&quot;internallink&quot; href=&quot;#NOTEJAMBES2&quot; title=&quot;2&quot;&gt;2&lt;/a&gt;)&lt;/sup&gt;&lt;/td&gt;&lt;td&gt;4,50&amp;nbsp;m&amp;nbsp;(3&amp;nbsp;&lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)&lt;sup&gt;(&lt;a class=&quot;internallink&quot; href=&quot;#NOTEJAMBES2&quot; title=&quot;2&quot;&gt;2&lt;/a&gt;)&lt;/sup&gt;&lt;/td&gt;&lt;td&gt;2,5&amp;nbsp;kg&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;&amp;nbsp; &lt;a class=&quot;pagelink&quot; href=&quot;Description-Des-Pi&#232;ces-Darmure.html#JAMBESPLAQUES&quot; title=&quot;Description des pi&#232;ces d&amp;#39;armure&quot;&gt;De plaques&lt;/a&gt;&lt;/td&gt;&lt;td&gt;925&amp;nbsp;po&lt;/td&gt;&lt;td&gt;+1&lt;/td&gt;&lt;td&gt;+1&lt;/td&gt;&lt;td&gt;-3&lt;/td&gt;&lt;td&gt;20%&lt;/td&gt;&lt;td&gt;6&amp;nbsp;m&amp;nbsp;(4&amp;nbsp;&lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)&lt;sup&gt;(&lt;a class=&quot;internallink&quot; href=&quot;#NOTEJAMBES2&quot; title=&quot;2&quot;&gt;2&lt;/a&gt;)&lt;/sup&gt;&lt;/td&gt;&lt;td&gt;4,50&amp;nbsp;m&amp;nbsp;(3&amp;nbsp;&lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)&lt;sup&gt;(&lt;a class=&quot;internallink&quot; href=&quot;#NOTEJAMBES2&quot; title=&quot;2&quot;&gt;2&lt;/a&gt;)&lt;/sup&gt;&lt;/td&gt;&lt;td&gt;4,5&amp;nbsp;kg&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&amp;nbsp; &lt;a class=&quot;pagelink&quot; href=&quot;Description-Des-Pi&#232;ces-Darmure.html#JAMBESTATAMIDO&quot; title=&quot;Description des pi&#232;ces d&amp;#39;armure&quot;&gt;Tatami-do&lt;/a&gt;&lt;/td&gt;&lt;td&gt;150&amp;nbsp;po&lt;/td&gt;&lt;td&gt;+1&lt;/td&gt;&lt;td&gt;+3&lt;/td&gt;&lt;td&gt;-3&lt;/td&gt;&lt;td&gt;15%&lt;/td&gt;&lt;td&gt;6&amp;nbsp;m&amp;nbsp;(4&amp;nbsp;&lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)&lt;sup&gt;(&lt;a class=&quot;internallink&quot; href=&quot;#NOTEJAMBES2&quot; title=&quot;2&quot;&gt;2&lt;/a&gt;)&lt;/sup&gt;&lt;/td&gt;&lt;td&gt;4,50&amp;nbsp;m&amp;nbsp;(3&amp;nbsp;&lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)&lt;sup&gt;(&lt;a class=&quot;internallink&quot; href=&quot;#NOTEJAMBES2&quot; title=&quot;2&quot;&gt;2&lt;/a&gt;)&lt;/sup&gt;&lt;/td&gt;&lt;td&gt;2,5&amp;nbsp;kg&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td CLASS=&quot;note alt&quot; COLSPAN=&quot;9&quot;&gt;&lt;a name=&quot;NOTEJAMBES1&quot;&gt;&lt;/a&gt;&lt;i&gt;(1) Les&amp;nbsp;poids indiqu&#233;s correspondent &#224; des pi&#232;ces d’armure con&#231;ues pour des personnages de taille M. Les pi&#232;ces d’armure des personnages de taille P p&#232;sent moiti&#233; moins, et les&amp;nbsp;poids des pi&#232;ces d’armure des personnages de taille G doivent &#234;tre doubl&#233;s.&lt;/i&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td CLASS=&quot;note&quot; COLSPAN=&quot;9&quot;&gt;&lt;a name=&quot;NOTEJAMBES2&quot;&gt;&lt;/a&gt;&lt;i&gt;(2) Lorsqu’un personnage court en&amp;nbsp;portant cette pi&#232;ce d’armure, il triple sa vitesse de d&#233;placement au lieu de la quadrupler.&lt;/i&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;&lt;br /&gt;&lt;br /&gt;&lt;a name=&quot;TRONC&quot;&gt;&lt;/a&gt;
+&lt;h3 class=&quot;separator&quot;&gt;Pectoral d&#39;armures&lt;a class=&quot;headeranchor&quot; id=&quot;Pectoral_darmures_5&quot; href=&quot;#Pectoral_darmures_5&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;Le pectoral d’armure est la pi&#232;ce qui procure la plus
+grande protection, mais aussi g&#233;n&#233;ralement celle qui entrave
+le plus son porteur.&lt;br /&gt;&lt;br /&gt;&lt;center&gt;&lt;a name=&quot;TABPROFILSTRONC&quot;&gt;&lt;/a&gt;&lt;table CLASS=&quot;tablo&quot;&gt;&lt;caption&gt;Profils des pi&#232;ces d&#39;armure pectorales&lt;/caption&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td ROWSPAN=&quot;2&quot;&gt;Type d’armure&lt;/td&gt;&lt;td ROWSPAN=&quot;2&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques-Des-Armures.html#PRIX&quot; title=&quot;Caract&#233;ristiques des armures&quot;&gt;Prix&lt;/a&gt;&lt;/td&gt;&lt;td ROWSPAN=&quot;2&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques-Des-Armures.html#BONUSARMUREBOUCLIER&quot; title=&quot;Caract&#233;ristiques des armures&quot;&gt;Bonus d’armure&lt;/a&gt;&lt;/td&gt;&lt;td ROWSPAN=&quot;2&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques-Des-Armures.html#BONUSDEXMAX&quot; title=&quot;Caract&#233;ristiques des armures&quot;&gt;Bonus de&lt;br /&gt; Dex max&lt;/a&gt;&lt;/td&gt;&lt;td ROWSPAN=&quot;2&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques-Des-Armures.html#MALUSARMURE&quot; title=&quot;Caract&#233;ristiques des armures&quot;&gt;Malus &lt;br /&gt;d’armure&lt;br /&gt; aux tests&lt;/a&gt;&lt;/td&gt;&lt;td ROWSPAN=&quot;2&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques-Des-Armures.html#RISQUEECHECPROFANE&quot; title=&quot;Caract&#233;ristiques des armures&quot;&gt;Risque &lt;br /&gt;d’&#233;chec des&lt;br /&gt; sorts profanes&lt;/a&gt;&lt;/td&gt;&lt;td COLSPAN=&quot;2&quot; CLASS=&quot;avecsoustitre&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques-Des-Armures.html#VITESSEDEPLACEMENT&quot; title=&quot;Caract&#233;ristiques des armures&quot;&gt;Vitesse&lt;/a&gt;&lt;/td&gt;&lt;td ROWSPAN=&quot;2&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques-Des-Armures.html#POIDS&quot; title=&quot;Caract&#233;ristiques des armures&quot;&gt;Poids&lt;/a&gt;&lt;sup&gt;(&lt;a class=&quot;internallink&quot; href=&quot;#NOTETRONC1&quot; title=&quot;1&quot;&gt;1&lt;/a&gt;)&lt;/sup&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;soustitre&quot;&gt;&lt;td&gt;9&amp;nbsp;m&amp;nbsp;(6&amp;nbsp;&lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)&lt;/td&gt;&lt;td&gt;6m&amp;nbsp;(4&amp;nbsp;&lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier&quot;&gt;&lt;td COLSPAN=&quot;9&quot;&gt;Armures l&#233;g&#232;res&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&amp;nbsp; &lt;a class=&quot;pagelink&quot; href=&quot;Description-Des-Pi&#232;ces-Darmure.html#PECTORALSOIE&quot; title=&quot;Description des pi&#232;ces d&amp;#39;armure&quot;&gt;Armure c&#233;r&#233;monielle de soie&lt;/a&gt;&lt;/td&gt;&lt;td&gt;30&amp;nbsp;po&lt;/td&gt;&lt;td&gt;+1&lt;/td&gt;&lt;td&gt;+10&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;0%&lt;/td&gt;&lt;td&gt;9&amp;nbsp;m&amp;nbsp;(6&amp;nbsp;&lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)&lt;/td&gt;&lt;td&gt;6&amp;nbsp;m&amp;nbsp;(4&amp;nbsp;&lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)&lt;/td&gt;&lt;td&gt;2&amp;nbsp;kg&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot; &gt;&lt;td&gt;&amp;nbsp; &lt;a class=&quot;pagelink&quot; href=&quot;Description-Des-Pi&#232;ces-Darmure.html#PECTORALBOIS&quot; title=&quot;Description des pi&#232;ces d&amp;#39;armure&quot;&gt;De bois&lt;/a&gt;&lt;/td&gt;&lt;td&gt;10&amp;nbsp;po&lt;/td&gt;&lt;td&gt;+1&lt;/td&gt;&lt;td&gt;+3&lt;/td&gt;&lt;td&gt;-1&lt;/td&gt;&lt;td&gt;15%&lt;/td&gt;&lt;td&gt;9&amp;nbsp;m&amp;nbsp;(6&amp;nbsp;&lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)&lt;/td&gt;&lt;td&gt;6&amp;nbsp;m&amp;nbsp;(4&amp;nbsp;&lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)&lt;/td&gt;&lt;td&gt;7&amp;nbsp;kg&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&amp;nbsp; &lt;a class=&quot;pagelink&quot; href=&quot;Description-Des-Pi&#232;ces-Darmure.html#PECTORALCUIR&quot; title=&quot;Description des pi&#232;ces d&amp;#39;armure&quot;&gt;De cuir&lt;/a&gt;&lt;/td&gt;&lt;td&gt;5&amp;nbsp;po&lt;/td&gt;&lt;td&gt;+1&lt;/td&gt;&lt;td&gt;+6&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;10%&lt;/td&gt;&lt;td&gt;9&amp;nbsp;m&amp;nbsp;(6&amp;nbsp;&lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)&lt;/td&gt;&lt;td&gt;6&amp;nbsp;m&amp;nbsp;(4&amp;nbsp;&lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)&lt;/td&gt;&lt;td&gt;4,5&amp;nbsp;kg&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot; &gt;&lt;td&gt;&amp;nbsp; &lt;a class=&quot;pagelink&quot; href=&quot;Description-Des-Pi&#232;ces-Darmure.html#PECTORALCUIRCLOUTE&quot; title=&quot;Description des pi&#232;ces d&amp;#39;armure&quot;&gt;De cuir clout&#233;e&lt;/a&gt;&lt;/td&gt;&lt;td&gt;15&amp;nbsp;po&lt;/td&gt;&lt;td&gt;+1&lt;/td&gt;&lt;td&gt;+5&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;15%&lt;/td&gt;&lt;td&gt;9&amp;nbsp;m&amp;nbsp;(6&amp;nbsp;&lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)&lt;/td&gt;&lt;td&gt;6&amp;nbsp;m&amp;nbsp;(4&amp;nbsp;&lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)&lt;/td&gt;&lt;td&gt;7&amp;nbsp;kg&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&amp;nbsp; &lt;a class=&quot;pagelink&quot; href=&quot;Description-Des-Pi&#232;ces-Darmure.html#CUIRASSELAMELLAIRE&quot; title=&quot;Description des pi&#232;ces d&amp;#39;armure&quot;&gt;Cuirasse lamellaire&lt;/a&gt;&lt;/td&gt;&lt;td&gt;15&amp;nbsp;po&lt;/td&gt;&lt;td&gt;+2&lt;/td&gt;&lt;td&gt;+4&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;5%&lt;/td&gt;&lt;td&gt;9&amp;nbsp;m&amp;nbsp;(6&amp;nbsp;&lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)&lt;/td&gt;&lt;td&gt;6&amp;nbsp;m&amp;nbsp;(4&amp;nbsp;&lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)&lt;/td&gt;&lt;td&gt;3,5&amp;nbsp;kg&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot; &gt;&lt;td&gt;&amp;nbsp; &lt;a class=&quot;pagelink&quot; href=&quot;Description-Des-Pi&#232;ces-Darmure.html#PECTORALREMBOURRE&quot; title=&quot;Description des pi&#232;ces d&amp;#39;armure&quot;&gt;Habits rembourr&#233;s&lt;/a&gt;&lt;/td&gt;&lt;td&gt;50&amp;nbsp;po&lt;/td&gt;&lt;td&gt;+0&lt;/td&gt;&lt;td&gt;+8&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;10%&lt;/td&gt;&lt;td&gt;9&amp;nbsp;m&amp;nbsp;(6&amp;nbsp;&lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)&lt;/td&gt;&lt;td&gt;6&amp;nbsp;m&amp;nbsp;(4&amp;nbsp;&lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)&lt;/td&gt;&lt;td&gt;4,5&amp;nbsp;kg&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&amp;nbsp; &lt;a class=&quot;pagelink&quot; href=&quot;Description-Des-Pi&#232;ces-Darmure.html#HARAMAKI&quot; title=&quot;Description des pi&#232;ces d&amp;#39;armure&quot;&gt;Haramaki&lt;/a&gt;&lt;/td&gt;&lt;td&gt;3&amp;nbsp;po&lt;/td&gt;&lt;td&gt;+1&lt;/td&gt;&lt;td&gt;+10&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;0%&lt;/td&gt;&lt;td&gt;9&amp;nbsp;m&amp;nbsp;(6&amp;nbsp;&lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)&lt;/td&gt;&lt;td&gt;6&amp;nbsp;m&amp;nbsp;(4&amp;nbsp;&lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)&lt;/td&gt;&lt;td&gt;0,5&amp;nbsp;kg&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot; &gt;&lt;td&gt;&amp;nbsp; &lt;a class=&quot;pagelink&quot; href=&quot;Description-Des-Pi&#232;ces-Darmure.html#PECTORALLAMELLAIRECUIR&quot; title=&quot;Description des pi&#232;ces d&amp;#39;armure&quot;&gt;Lamellaire, cuir&lt;/a&gt;&lt;/td&gt;&lt;td&gt;30&amp;nbsp;po&lt;/td&gt;&lt;td&gt;+2&lt;/td&gt;&lt;td&gt;+3&lt;/td&gt;&lt;td&gt;-2&lt;/td&gt;&lt;td&gt;20%&lt;/td&gt;&lt;td&gt;9&amp;nbsp;m&amp;nbsp;(6&amp;nbsp;&lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)&lt;/td&gt;&lt;td&gt;6&amp;nbsp;m&amp;nbsp;(4&amp;nbsp;&lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)&lt;/td&gt;&lt;td&gt;4,5&amp;nbsp;kg&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&amp;nbsp; &lt;a class=&quot;pagelink&quot; href=&quot;Description-Des-Pi&#232;ces-Darmure.html#PECTORALMATELASSE&quot; title=&quot;Description des pi&#232;ces d&amp;#39;armure&quot;&gt;Matelass&#233;e&lt;/a&gt;&lt;/td&gt;&lt;td&gt;3&amp;nbsp;po&lt;/td&gt;&lt;td&gt;+0&lt;/td&gt;&lt;td&gt;+8&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;5%&lt;/td&gt;&lt;td&gt;9&amp;nbsp;m&amp;nbsp;(6&amp;nbsp;&lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)&lt;/td&gt;&lt;td&gt;6&amp;nbsp;m&amp;nbsp;(4&amp;nbsp;&lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)&lt;/td&gt;&lt;td&gt;2,5&amp;nbsp;kg&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier&quot; &gt;&lt;td COLSPAN=&quot;9&quot;&gt;Armures interm&#233;diaires&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&amp;nbsp; &lt;a class=&quot;pagelink&quot; href=&quot;Description-Des-Pi&#232;ces-Darmure.html#ARMUREQUATREMIROIRS&quot; title=&quot;Description des pi&#232;ces d&amp;#39;armure&quot;&gt;Armure quatre-miroirs&lt;/a&gt;&lt;/td&gt;&lt;td&gt;20&amp;nbsp;po&lt;/td&gt;&lt;td&gt;+5&lt;/td&gt;&lt;td&gt;+4&lt;/td&gt;&lt;td&gt;-5&lt;/td&gt;&lt;td&gt;30%&lt;/td&gt;&lt;td&gt;6&amp;nbsp;m&amp;nbsp;(4&amp;nbsp;&lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)&lt;/td&gt;&lt;td&gt;4,50&amp;nbsp;m&amp;nbsp;(3&amp;nbsp;&lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)&lt;/td&gt;&lt;td&gt;18&amp;nbsp;kg&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot; &gt;&lt;td&gt;&amp;nbsp; &lt;a class=&quot;pagelink&quot; href=&quot;Description-Des-Pi&#232;ces-Darmure.html#DOMARU&quot; title=&quot;Description des pi&#232;ces d&amp;#39;armure&quot;&gt;Do-maru&lt;/a&gt;&lt;/td&gt;&lt;td&gt;200&amp;nbsp;po&lt;/td&gt;&lt;td&gt;+5&lt;/td&gt;&lt;td&gt;+4&lt;/td&gt;&lt;td&gt;-4&lt;/td&gt;&lt;td&gt;25%&lt;/td&gt;&lt;td&gt;6&amp;nbsp;m&amp;nbsp;(4&amp;nbsp;&lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)&lt;/td&gt;&lt;td&gt;4,50&amp;nbsp;m&amp;nbsp;(3&amp;nbsp;&lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)&lt;/td&gt;&lt;td&gt;13,5&amp;nbsp;kg&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&amp;nbsp; &lt;a class=&quot;pagelink&quot; href=&quot;Description-Des-Pi&#232;ces-Darmure.html#PECTORALECAILLES&quot; title=&quot;Description des pi&#232;ces d&amp;#39;armure&quot;&gt;D’&#233;cailles&lt;/a&gt;&lt;/td&gt;&lt;td&gt;30&amp;nbsp;po&lt;/td&gt;&lt;td&gt;+2&lt;/td&gt;&lt;td&gt;+3&lt;/td&gt;&lt;td&gt;-2&lt;/td&gt;&lt;td&gt;25%&lt;/td&gt;&lt;td&gt;9&amp;nbsp;m&amp;nbsp;(6&amp;nbsp;&lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)&lt;/td&gt;&lt;td&gt;6&amp;nbsp;m&amp;nbsp;(4&amp;nbsp;&lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)&lt;/td&gt;&lt;td&gt;7&amp;nbsp;kg&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot; &gt;&lt;td&gt;&amp;nbsp; &lt;a class=&quot;pagelink&quot; href=&quot;Description-Des-Pi&#232;ces-Darmure.html#PECTORALKIKKO&quot; title=&quot;Description des pi&#232;ces d&amp;#39;armure&quot;&gt;Kikko&lt;/a&gt;&lt;/td&gt;&lt;td&gt;15&amp;nbsp;po&lt;/td&gt;&lt;td&gt;+2&lt;/td&gt;&lt;td&gt;+4&lt;/td&gt;&lt;td&gt;-3&lt;/td&gt;&lt;td&gt;20%&lt;/td&gt;&lt;td&gt;6&amp;nbsp;m&amp;nbsp;(4&amp;nbsp;&lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)&lt;/td&gt;&lt;td&gt;4,50&amp;nbsp;m&amp;nbsp;(3&amp;nbsp;&lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)&lt;/td&gt;&lt;td&gt;7&amp;nbsp;kg&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&amp;nbsp; &lt;a class=&quot;pagelink&quot; href=&quot;Description-Des-Pi&#232;ces-Darmure.html#PECTORALLAMELLAIREACIER&quot; title=&quot;Description des pi&#232;ces d&amp;#39;armure&quot;&gt;Lamellaire, acier&lt;/a&gt;&lt;/td&gt;&lt;td&gt;100&amp;nbsp;po&lt;/td&gt;&lt;td&gt;+1&lt;/td&gt;&lt;td&gt;+3&lt;/td&gt;&lt;td&gt;-5&lt;/td&gt;&lt;td&gt;25%&lt;/td&gt;&lt;td&gt;6&amp;nbsp;m&amp;nbsp;(4&amp;nbsp;&lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)&lt;/td&gt;&lt;td&gt;4,50&amp;nbsp;m&amp;nbsp;(3&amp;nbsp;&lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)&lt;/td&gt;&lt;td&gt;11&amp;nbsp;kg&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot; &gt;&lt;td&gt;&amp;nbsp; &lt;a class=&quot;pagelink&quot; href=&quot;Description-Des-Pi&#232;ces-Darmure.html#PECTORALLAMELLAIRECORNE&quot; title=&quot;Description des pi&#232;ces d&amp;#39;armure&quot;&gt;Lamellaire, corne&lt;/a&gt;&lt;/td&gt;&lt;td&gt;50&amp;nbsp;po&lt;/td&gt;&lt;td&gt;+2&lt;/td&gt;&lt;td&gt;+3&lt;/td&gt;&lt;td&gt;-4&lt;/td&gt;&lt;td&gt;25%&lt;/td&gt;&lt;td&gt;6&amp;nbsp;m&amp;nbsp;(4&amp;nbsp;&lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)&lt;/td&gt;&lt;td&gt;4,50&amp;nbsp;m&amp;nbsp;(3&amp;nbsp;&lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)&lt;/td&gt;&lt;td&gt;9&amp;nbsp;kg&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&amp;nbsp; &lt;a class=&quot;pagelink&quot; href=&quot;Description-Des-Pi&#232;ces-Darmure.html#PECTORALMAILLES&quot; title=&quot;Description des pi&#232;ces d&amp;#39;armure&quot;&gt;De mailles&lt;/a&gt;&lt;sup&gt;(&lt;a class=&quot;internallink&quot; href=&quot;#NOTETRONC3&quot; title=&quot;3&quot;&gt;3&lt;/a&gt;)&lt;/sup&gt;&lt;/td&gt;&lt;td&gt;100&amp;nbsp;po&lt;/td&gt;&lt;td&gt;+4&lt;/td&gt;&lt;td&gt;+4&lt;/td&gt;&lt;td&gt;-2&lt;/td&gt;&lt;td&gt;30%&lt;/td&gt;&lt;td&gt;9&amp;nbsp;m&amp;nbsp;(6&amp;nbsp;&lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)&lt;/td&gt;&lt;td&gt;6&amp;nbsp;m&amp;nbsp;(4&amp;nbsp;&lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)&lt;/td&gt;&lt;td&gt;11&amp;nbsp;kg&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot; &gt;&lt;td&gt;&amp;nbsp; &lt;a class=&quot;pagelink&quot; href=&quot;Description-Des-Pi&#232;ces-Darmure.html#PECTORALMONTAGNE&quot; title=&quot;Description des pi&#232;ces d&amp;#39;armure&quot;&gt;De la montagne&lt;/a&gt;&lt;/td&gt;&lt;td&gt;150&amp;nbsp;po&lt;/td&gt;&lt;td&gt;+3&lt;/td&gt;&lt;td&gt;+3&lt;/td&gt;&lt;td&gt;-4&lt;/td&gt;&lt;td&gt;30%&lt;/td&gt;&lt;td&gt;6&amp;nbsp;m&amp;nbsp;(4&amp;nbsp;&lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)&lt;/td&gt;&lt;td&gt;4,50&amp;nbsp;m&amp;nbsp;(3&amp;nbsp;&lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)&lt;/td&gt;&lt;td&gt;9&amp;nbsp;kg&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&amp;nbsp; &lt;a class=&quot;pagelink&quot; href=&quot;Description-Des-Pi&#232;ces-Darmure.html#PECTORALPEAU&quot; title=&quot;Description des pi&#232;ces d&amp;#39;armure&quot;&gt;De peau&lt;/a&gt;&lt;/td&gt;&lt;td&gt;10&amp;nbsp;po&lt;/td&gt;&lt;td&gt;+2&lt;/td&gt;&lt;td&gt;+4&lt;/td&gt;&lt;td&gt;-2&lt;/td&gt;&lt;td&gt;20%&lt;/td&gt;&lt;td&gt;9&amp;nbsp;m&amp;nbsp;(6&amp;nbsp;&lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)&lt;/td&gt;&lt;td&gt;6&amp;nbsp;m&amp;nbsp;(4&amp;nbsp;&lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)&lt;/td&gt;&lt;td&gt;7&amp;nbsp;kg&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot; &gt;&lt;td&gt;&amp;nbsp; &lt;a class=&quot;pagelink&quot; href=&quot;Description-Des-Pi&#232;ces-Darmure.html#VESTERENFORCEE&quot; title=&quot;Description des pi&#232;ces d&amp;#39;armure&quot;&gt;Veste renforc&#233;e&lt;/a&gt;&lt;/td&gt;&lt;td&gt;50&amp;nbsp;po&lt;/td&gt;&lt;td&gt;+4&lt;/td&gt;&lt;td&gt;+3&lt;/td&gt;&lt;td&gt;-2&lt;/td&gt;&lt;td&gt;20%&lt;/td&gt;&lt;td&gt;6&amp;nbsp;m&amp;nbsp;(4&amp;nbsp;&lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)&lt;/td&gt;&lt;td&gt;4,50&amp;nbsp;m&amp;nbsp;(3&amp;nbsp;&lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)&lt;/td&gt;&lt;td&gt;9&amp;nbsp;kg&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier&quot; &gt;&lt;td COLSPAN=&quot;9&quot;&gt;Armures lourdes&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&amp;nbsp; &lt;a class=&quot;pagelink&quot; href=&quot;Description-Des-Pi&#232;ces-Darmure.html#PECTORALCLIBANION&quot; title=&quot;Description des pi&#232;ces d&amp;#39;armure&quot;&gt;De clibanion&lt;/a&gt;&lt;/td&gt;&lt;td&gt;100&amp;nbsp;po&lt;/td&gt;&lt;td&gt;+4&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;-3&lt;/td&gt;&lt;td&gt;40%&lt;/td&gt;&lt;td&gt;6&amp;nbsp;m&amp;nbsp;(4&amp;nbsp;&lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)&lt;sup&gt;(&lt;a class=&quot;internallink&quot; href=&quot;#NOTETRONC2&quot; title=&quot;2&quot;&gt;2&lt;/a&gt;)&lt;/sup&gt;&lt;/td&gt;&lt;td&gt;4,50&amp;nbsp;m&amp;nbsp;(3&amp;nbsp;&lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)&lt;sup&gt;(&lt;a class=&quot;internallink&quot; href=&quot;#NOTETRONC2&quot; title=&quot;2&quot;&gt;2&lt;/a&gt;)&lt;/sup&gt;&lt;/td&gt;&lt;td&gt;11&amp;nbsp;kg&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot; &gt;&lt;td&gt;&amp;nbsp; &lt;a class=&quot;pagelink&quot; href=&quot;Description-Des-Pi&#232;ces-Darmure.html#PECTORALCREVICE&quot; title=&quot;Description des pi&#232;ces d&amp;#39;armure&quot;&gt;De crevice&lt;/a&gt;&lt;/td&gt;&lt;td&gt;150&amp;nbsp;po&lt;/td&gt;&lt;td&gt;+4&lt;/td&gt;&lt;td&gt;+1&lt;/td&gt;&lt;td&gt;-2&lt;/td&gt;&lt;td&gt;35%&lt;/td&gt;&lt;td&gt;6&amp;nbsp;m&amp;nbsp;(4&amp;nbsp;&lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)&lt;sup&gt;(&lt;a class=&quot;internallink&quot; href=&quot;#NOTETRONC2&quot; title=&quot;2&quot;&gt;2&lt;/a&gt;)&lt;/sup&gt;&lt;/td&gt;&lt;td&gt;4,50&amp;nbsp;m&amp;nbsp;(3&amp;nbsp;&lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)&lt;sup&gt;(&lt;a class=&quot;internallink&quot; href=&quot;#NOTETRONC2&quot; title=&quot;2&quot;&gt;2&lt;/a&gt;)&lt;/sup&gt;&lt;/td&gt;&lt;td&gt;9&amp;nbsp;kg&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&amp;nbsp; &lt;a class=&quot;pagelink&quot; href=&quot;Description-Des-Pi&#232;ces-Darmure.html#PECTORALKUSARIGUSOKU&quot; title=&quot;Description des pi&#232;ces d&amp;#39;armure&quot;&gt;Kusari gusoku&lt;/a&gt;&lt;/td&gt;&lt;td&gt;200&amp;nbsp;po&lt;/td&gt;&lt;td&gt;+4&lt;/td&gt;&lt;td&gt;+1&lt;/td&gt;&lt;td&gt;-7&lt;/td&gt;&lt;td&gt;35%&lt;/td&gt;&lt;td&gt;6&amp;nbsp;m&amp;nbsp;(4&amp;nbsp;&lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)&lt;sup&gt;(&lt;a class=&quot;internallink&quot; href=&quot;#NOTETRONC2&quot; title=&quot;2&quot;&gt;2&lt;/a&gt;)&lt;/sup&gt;&lt;/td&gt;&lt;td&gt;4,50&amp;nbsp;m&amp;nbsp;(3&amp;nbsp;&lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)&lt;sup&gt;(&lt;a class=&quot;internallink&quot; href=&quot;#NOTETRONC2&quot; title=&quot;2&quot;&gt;2&lt;/a&gt;)&lt;/sup&gt;&lt;/td&gt;&lt;td&gt;9&amp;nbsp;kg&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot; &gt;&lt;td&gt;&amp;nbsp; &lt;a class=&quot;pagelink&quot; href=&quot;Description-Des-Pi&#232;ces-Darmure.html#PECTORALLAMELLAIREFER&quot; title=&quot;Description des pi&#232;ces d&amp;#39;armure&quot;&gt;Lamellaire, fer&lt;/a&gt;&lt;/td&gt;&lt;td&gt;100&amp;nbsp;po&lt;/td&gt;&lt;td&gt;+4&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;-7&lt;/td&gt;&lt;td&gt;40%&lt;/td&gt;&lt;td&gt;6&amp;nbsp;m&amp;nbsp;(4&amp;nbsp;&lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)&lt;sup&gt;(&lt;a class=&quot;internallink&quot; href=&quot;#NOTETRONC2&quot; title=&quot;2&quot;&gt;2&lt;/a&gt;)&lt;/sup&gt;&lt;/td&gt;&lt;td&gt;4,50&amp;nbsp;m&amp;nbsp;(3&amp;nbsp;&lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)&lt;sup&gt;(&lt;a class=&quot;internallink&quot; href=&quot;#NOTETRONC2&quot; title=&quot;2&quot;&gt;2&lt;/a&gt;)&lt;/sup&gt;&lt;/td&gt;&lt;td&gt;7&amp;nbsp;kg&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&amp;nbsp; &lt;a class=&quot;pagelink&quot; href=&quot;Description-Des-Pi&#232;ces-Darmure.html#MANTEAUDEPIERRE&quot; title=&quot;Description des pi&#232;ces d&amp;#39;armure&quot;&gt;Manteau de pierre&lt;/a&gt;&lt;/td&gt;&lt;td&gt;500&amp;nbsp;po&lt;/td&gt;&lt;td&gt;+8&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;-7&lt;/td&gt;&lt;td&gt;40%&lt;/td&gt;&lt;td&gt;6&amp;nbsp;m&amp;nbsp;(4&amp;nbsp;&lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)&lt;sup&gt;(&lt;a class=&quot;internallink&quot; href=&quot;#NOTETRONC2&quot; title=&quot;2&quot;&gt;2&lt;/a&gt;)&lt;/sup&gt;&lt;/td&gt;&lt;td&gt;4,50&amp;nbsp;m&amp;nbsp;(3&amp;nbsp;&lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)&lt;sup&gt;(&lt;a class=&quot;internallink&quot; href=&quot;#NOTETRONC2&quot; title=&quot;2&quot;&gt;2&lt;/a&gt;)&lt;/sup&gt;&lt;/td&gt;&lt;td&gt;20,5&amp;nbsp;kg&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot; &gt;&lt;td&gt;&amp;nbsp; &lt;a class=&quot;pagelink&quot; href=&quot;Description-Des-Pi&#232;ces-Darmure.html#PECTORALOYOROI&quot; title=&quot;Description des pi&#232;ces d&amp;#39;armure&quot;&gt;O-yoroi&lt;/a&gt;&lt;/td&gt;&lt;td&gt;750&amp;nbsp;po&lt;/td&gt;&lt;td&gt;+5&lt;/td&gt;&lt;td&gt;+2&lt;/td&gt;&lt;td&gt;-6&lt;/td&gt;&lt;td&gt;35%&lt;/td&gt;&lt;td&gt;6&amp;nbsp;m&amp;nbsp;(4&amp;nbsp;&lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)&lt;sup&gt;(&lt;a class=&quot;internallink&quot; href=&quot;#NOTETRONC2&quot; title=&quot;2&quot;&gt;2&lt;/a&gt;)&lt;/sup&gt;&lt;/td&gt;&lt;td&gt;4,50&amp;nbsp;m&amp;nbsp;(3&amp;nbsp;&lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)&lt;sup&gt;(&lt;a class=&quot;internallink&quot; href=&quot;#NOTETRONC2&quot; title=&quot;2&quot;&gt;2&lt;/a&gt;)&lt;/sup&gt;&lt;/td&gt;&lt;td&gt;13,5&amp;nbsp;kg&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&amp;nbsp; &lt;a class=&quot;pagelink&quot; href=&quot;Description-Des-Pi&#232;ces-Darmure.html#PECTORALPLAQUES&quot; title=&quot;Description des pi&#232;ces d&amp;#39;armure&quot;&gt;De plaques&lt;/a&gt;&lt;sup&gt;(&lt;a class=&quot;internallink&quot; href=&quot;#NOTETRONC3&quot; title=&quot;3&quot;&gt;3&lt;/a&gt;)&lt;/sup&gt;&lt;/td&gt;&lt;td&gt;200&amp;nbsp;po&lt;/td&gt;&lt;td&gt;+6&lt;/td&gt;&lt;td&gt;+3&lt;/td&gt;&lt;td&gt;-4&lt;/td&gt;&lt;td&gt;35%&lt;/td&gt;&lt;td&gt;6&amp;nbsp;m&amp;nbsp;(4&amp;nbsp;&lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)&lt;sup&gt;(&lt;a class=&quot;internallink&quot; href=&quot;#NOTETRONC2&quot; title=&quot;2&quot;&gt;2&lt;/a&gt;)&lt;/sup&gt;&lt;/td&gt;&lt;td&gt;4,50&amp;nbsp;m&amp;nbsp;(3&amp;nbsp;&lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)&lt;sup&gt;(&lt;a class=&quot;internallink&quot; href=&quot;#NOTETRONC2&quot; title=&quot;2&quot;&gt;2&lt;/a&gt;)&lt;/sup&gt;&lt;/td&gt;&lt;td&gt;13,5&amp;nbsp;kg&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot; &gt;&lt;td&gt;&amp;nbsp; &lt;a class=&quot;pagelink&quot; href=&quot;Description-Des-Pi&#232;ces-Darmure.html#PECTORALPLAQUESFLEXIBLES&quot; title=&quot;Description des pi&#232;ces d&amp;#39;armure&quot;&gt;De plaques flexibles&lt;/a&gt;&lt;sup&gt;(&lt;a class=&quot;internallink&quot; href=&quot;#NOTETRONC3&quot; title=&quot;3&quot;&gt;3&lt;/a&gt;)&lt;/sup&gt;&lt;/td&gt;&lt;td&gt;400&amp;nbsp;po&lt;/td&gt;&lt;td&gt;+6&lt;/td&gt;&lt;td&gt;+3&lt;/td&gt;&lt;td&gt;-4&lt;/td&gt;&lt;td&gt;25%&lt;/td&gt;&lt;td&gt;6&amp;nbsp;m&amp;nbsp;(4&amp;nbsp;&lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)&lt;/td&gt;&lt;td&gt;4,50&amp;nbsp;m&amp;nbsp;(3&amp;nbsp;&lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)&lt;/td&gt;&lt;td&gt;11&amp;nbsp;kg&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&amp;nbsp; &lt;a class=&quot;pagelink&quot; href=&quot;Description-Des-Pi&#232;ces-Darmure.html#PECTORALTATAMIDO&quot; title=&quot;Description des pi&#232;ces d&amp;#39;armure&quot;&gt;Tatami-do&lt;/a&gt;&lt;/td&gt;&lt;td&gt;500&amp;nbsp;po&lt;/td&gt;&lt;td&gt;+4&lt;/td&gt;&lt;td&gt;+4&lt;/td&gt;&lt;td&gt;-6&lt;/td&gt;&lt;td&gt;35%&lt;/td&gt;&lt;td&gt;6&amp;nbsp;m&amp;nbsp;(4&amp;nbsp;&lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)&lt;sup&gt;(&lt;a class=&quot;internallink&quot; href=&quot;#NOTETRONC2&quot; title=&quot;2&quot;&gt;2&lt;/a&gt;)&lt;/sup&gt;&lt;/td&gt;&lt;td&gt;4,50&amp;nbsp;m&amp;nbsp;(3&amp;nbsp;&lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)&lt;sup&gt;(&lt;a class=&quot;internallink&quot; href=&quot;#NOTETRONC2&quot; title=&quot;2&quot;&gt;2&lt;/a&gt;)&lt;/sup&gt;&lt;/td&gt;&lt;td&gt;13,5&amp;nbsp;kg&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td CLASS=&quot;note alt&quot; COLSPAN=&quot;9&quot;&gt;&lt;a name=&quot;NOTETRONC1&quot;&gt;&lt;/a&gt;&lt;i&gt;(1) Les poids indiqu&#233;s correspondent &#224; des pi&#232;ces d’armure con&#231;ues pour des personnages de taille M. Les pi&#232;ces d’armure des personnages de taille P p&#232;sent moiti&#233; moins, et les poids des pi&#232;ces d’armure des personnages de taille G doivent &#234;tre doubl&#233;s.&lt;/i&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td CLASS=&quot;note&quot; COLSPAN=&quot;9&quot;&gt;&lt;a name=&quot;NOTETRONC2&quot;&gt;&lt;/a&gt;&lt;i&gt;(2) Lorsqu’un personnage court en&amp;nbsp;portant cette pi&#232;ce d’armure, il triple sa vitesse de d&#233;placement au lieu de la quadrupler.&lt;/i&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td CLASS=&quot;note alt&quot; COLSPAN=&quot;9&quot;&gt;&lt;a name=&quot;NOTETRONC3&quot;&gt;&lt;/a&gt;&lt;i&gt;(3) Quand elles sont port&#233;es seules, la cat&#233;gorie de poids (l&#233;g&#232;re, interm&#233;diaire, lourde) de ces pi&#232;ces d’armure doit &#234;tre abaiss&#233;e d’un niveau. Une pi&#232;ce d’armure de mailles prot&#233;geant le tronc port&#233;e seule est une chemise de mailles (armure l&#233;g&#232;re), une pi&#232;ce d’armure de plaques flexibles prot&#233;geant le tronc est une cuirasse (armure interm&#233;diaire).&lt;/i&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;
+]]></body>
+  <raw><![CDATA[<div style="float: right; margin-left: 10px; margin-right: -40px; max-width: 300px;" class="presentation recentre">{toc}</div>{s:UC}<div style="float: left; margin-right: 20px; margin-bottom: 10px;" class="presentation recentre">
+<h2 class="separator"><div style="float: right; margin-top: -4px;">{s:uc}</div>Règles alternatives</h2>
+<ul><li>[[Régles alternatives|Introduction]]</li>
+<li>[[Larmure comme RD|L'armure comme réduction de dégâts]]</li><li>[[Frappes ciblées]]</li><li>[[Pièces darmures|Pièces d'armure]] ([[Description des pièces darmure|descriptions]])</li><li>[[Blessures et vitalité]]</li></ul></div>Toutes les armures de ''Pathfinder JdR'' sont conçues avec
+des éléments et des pièces qui sont soigneusement (ou
+précipitamment) enfilés à chaque fois que l’armure est utilisée.
+Si une armure complète protège toujours mieux qu’un ensemble
+disparate de pièces d’armure, parfois les personnages n’ont pas
+le temps de revêtir la totalité des pièces composant une armure
+complète avant de se jeter dans la mêlée. Dans d’autres cas, les
+personnages peuvent ne pas avoir accès à une armure complète
+et à l’ensemble de ses pièces ; dans les situations désespérées, ils
+pourraient se voir obligés de chercher des pièces ou des parties
+d’armure incomplète parmi de nombreux trésors de bas niveau,
+ou devoir dépouiller les corps de leurs ennemis tombés au
+combat pour s’équiper et se protéger.
+
+Les règles suivantes sont conçues pour introduire les
+pièces d’armure dans votre campagne. Toutes les
+armures présentées dans le présent ouvrage,
+le ''Manuel des joueurs'' et le ''Manuel des
+joueurs, règles avancées'' se scindent en trois
+parties distinctes, c’est-à-dire en trois
+pièces d’armure protégeant des zones
+différentes : bras, jambes et torse. Par
+commodité, les pièces d’armure des
+bras, des jambes et du tronc seront
+respectivement désignées comme
+bras d’armure, jambes d’armure (ou
+jambières) et pectoral d’armure.
+
+===Pièces d'armure et armures complètes===
+Le système des pièces d’armure scinde les armures en trois
+grandes parties, les trois types de pièces d’armure. Une pièce
+d’armure est un petit ensemble réunissant plusieurs éléments
+et parties d’une armure, et pas simplement n’importe quelle
+petite partie séparable de la totalité de l’armure. Ce qui est
+désigné comme une pièce d’armure consiste en l’ensemble des
+éléments et parties d’armure nécessaires pour protéger la zone
+lui correspondant – que ce soit les bras, les jambes ou le torse
+(qui inclut la tête). Ainsi une simple pièce d’armure de bras ou
+de jambes procure une protection aux deux bras ou aux deux
+jambes, respectivement. Un bras d’armure en plaques se compose
+généralement d’une paire d’épaulières (ou spalières), de plaques
+d’épaule (ou rondelles), de canons (ou brassards) d’arrière-bras,
+de brassards (ou canons) d’avant-bras et de gantelets ainsi que
+de pièces de mailles pour faire le lien, le tout sur une protection
+de bras matelassée. Parallèlement, une pièce d’armure lamellaire
+de mailles conçue pour le bras se compose de deux manches de
+mailles, de gantelets, et éventuellement d’une paire d’épaulières
+et de cubitières (ou garde-bras). Les deux pièces protègent le bras,
+mais elles ont des composants spécifiques différents par leur
+nombre, leur type et leurs matériaux.
+
+Les valeurs de protection de chacune des différentes pièces
+d’armure sont listées dans les tables [[#TABPROFILSBRAS|Profils des bras d’armure]],
+[[#TABPROFILSJAMBES|Profils des jambes d’armure]], et [[#TABPROFILSTRONC|Profils des pièces d’armure pectorales]].
+Si un personnage n’a qu’une pièce
+d’armure, cette pièce est considérée comme la totalité de son
+armure et les caractéristiques de cette pièce doivent être utilisées
+pour définir ses niveaux de protection. Si un personnage porte
+plus d’une pièce d’armure, il additionne les [[Caractéristiques des armures#PRIX|prix]], les [[Caractéristiques des armures#BONUSARMUREBOUCLIER|bonus d’armure]] et le [[Caractéristiques des armures#POIDS|poids]] des différentes pièces, puis il reçoit toujours
+le [[Caractéristiques des armures#BONUSDEXMAX|bonus de Dextérité maximal]] le moins élevé, le plus important
+[[Caractéristiques des armures#RISQUEECHECPROFANE|risque d’échec des sorts profanes]] et les pires
+[[Caractéristiques des armures#VITESSEDEPLACEMENT|limitations à la vitesse de déplacement]] parmi l’ensemble des pièces dont il est
+équipé pour déterminer le profil complet de l’armure qu’il porte.
+Tant que le personnage est équipé d’une pièce d’armure, même
+une seule, il est considéré comme portant une armure pour tous
+les effets liés au port d’armure (comme les aptitudes de classe
+[[Guerrier#ENTRAINEMENTAUXARMURES|entraînement aux armures]] et [[Guerrier#MAITRISEDESARMURES|maîtrise des armures]]).
+
+Si un personnage porte les trois catégories de pièces d’armure
+en même temps, il porte un ensemble d’armure complet. Les
+armures complètes peuvent avoir des pièces d’armure d’un seul
+et même type (trois pièces d’armure de plaques font une armure
+de plaques complète), ou être constituées d’un mélange de
+pièces d’armure diverses (des pièces d’armure de plaques
+pour les bras et le torse, combinées avec une pièce
+d’armure de mailles pour les jambes, forment
+une armure de plaques). S’équiper d’une
+armure complète, que ses pièces soient
+du même type ou non, apporte un [[Caractéristiques des armures#BONUSARMUREBOUCLIER|bonus d’armure]] de +1 en plus de toute protection
+offerte par la combinaison des pièces. Le
+port d’une armure mêlant les différents
+types d’armures augmente le [[Caractéristiques des armures#RISQUEECHECPROFANE|risque d’échec des sorts profanes]] de 5% en raison de
+la gaucherie de l’ensemble. Porter des
+pièces d’armure sans constituer une
+armure complète (moins de trois pièces d’armure)
+n’augmente pas le [[Caractéristiques des armures#RISQUEECHECPROFANE|risque d’échec des sorts profanes]].
+Si le personnage porte, par exemple, une cuirasse avec une pièce
+d’armure de plaques pour ses bras et des jambières de mailles,
+il doit consulter la table [[#TABPIECESPLAQUES|Pièces des armures de plaques]]
+pour connaître les caractéristiques de son armure. La première
+ligne indique les [[Caractéristiques des armures#PRIX|prix]], [[Caractéristiques des armures#BONUSARMUREBOUCLIER|bonus]], [[Caractéristiques des armures#MALUSARMURE|malus]], et autres informations sur
+l’armure de plaques, et les lignes suivantes détaillent les profils
+des différentes pièces d’armure qu’il est possible de combiner
+dans cet ensemble, ainsi que les avantages qui résultent de
+l’assemblage de ces pièces.
+
+{s:Reference|TABPIECESPLAQUES}
+<center>
+{| CLASS="tablo"
+|+ Pièces des armures de plaques 
+|- CLASS="titre"
+| ROWSPAN="2" | Type d’armure
+| ROWSPAN="2" | [[Caractéristiques des armures#PRIX|Prix]]
+| ROWSPAN="2" | [[Caractéristiques des armures#BONUSARMUREBOUCLIER|Bonus d’armure]]
+| ROWSPAN="2" | [[Caractéristiques des armures#BONUSDEXMAX|Bonus de Dex max]]
+| ROWSPAN="2" | [[Caractéristiques des armures#MALUSARMURE|Malus d’armure aux tests]]
+| ROWSPAN="2" | [[Caractéristiques des armures#RISQUEECHECPROFANE|Risque d’échec des sorts profanes]]
+| COLSPAN="2" CLASS="avecsoustitre" | [[Caractéristiques des armures#VITESSEDEPLACEMENT|Vitesse]]
+| ROWSPAN="2" | [[Caractéristiques des armures#POIDS|Poids]]
+|- CLASS="soustitre"
+| 9&nbsp;m&nbsp;(6&nbsp;{s:c}) || 6m&nbsp;(4&nbsp;{s:c})
+|-
+| Armure de plaques || 600&nbsp;po || +8 || +0 || -7 || 40% || 6&nbsp;m&nbsp;(4&nbsp;{s:c}) || 4,50&nbsp;m&nbsp;(3&nbsp;{s:c}) || 25 kg
+|- CLASS="alt"
+| (bras d’armure en plaques) || 375&nbsp;po || +1 || +0 || -7 || 35% || 9&nbsp;m&nbsp;(6&nbsp;{s:c}) || 6&nbsp;m&nbsp;(4&nbsp;{s:c}) || 5 kg
+|-
+| (jambières de mailles) || 25&nbsp;po || +0 || +2 || -2 || 15% || 9&nbsp;m&nbsp;(6&nbsp;{s:c}) || 6&nbsp;m&nbsp;(4&nbsp;{s:c}) || 5 kg
+|-
+| (pectoral de plaques) || 200&nbsp;po || +6 || +3 || -4 || 35% || 6&nbsp;m&nbsp;(4&nbsp;{s:c}) || 4,50&nbsp;m&nbsp;(3&nbsp;{s:c}) || 15 kg
+|-
+| (port de l’ensemble) || – || +1 || – || – || +5% || – || – || –
+|}
+</center>
+
+
+===Port des pièces d'armure===
+Un personnage formé au port d’une catégorie d’armure est
+aussi formé au port des pièces d’armure de cette catégorie. Si,
+par exemple, un personnage est formé au port des armures
+légères, il peut porter toutes les pièces d’armures légères.
+Certaines pièces d’armure protégeant le torse (comme les pièces
+d’armure de torse en mailles, plaques et plaques flexibles) sont
+dans la catégorie des armures légères lorsqu’elles sont portées
+seules ; elles sont alors à traiter respectivement comme cotte
+de mailles, cuirasse et cuirasse flexible.
+
+Quand un personnage porte au moins une pièce d’armure
+d’un type auquel il n’est pas formé, la [[Caractéristiques des armures#MALUSARMURE|pénalité d’armure]]
+correspondante doit être appliquée à tous ses [[Jet dattaque|jets d’attaque]]
+et à tous ses tests de compétence impliquant le mouvement.
+S’il porte plus d’une pièce d’armure pour laquelle il n’a pas
+la formation adéquate, le personnage subit la pire [[Caractéristiques des armures#MALUSARMURE|pénalité d’armure]] possible parmi les différentes pièces d’armure dont il
+est équipé sans être formé à leur port ; ce malus s’applique à tous
+ses [[Jet dattaque|jets d’attaque]] et à tous les tests de compétence impliquant
+le mouvement.
+
+===Armures de maître, matériaux spéciaux et armures magiques===
+Toute pièce d’armure peut individuellement être un [[Caractéristiques des armures#ARMURESMAITRE|objet de maître]], avoir été conçue avec des [[matériaux spéciaux]] et, en
+tant que pièce d’armure [[Caractéristiques des armures#ARMURESMAITRE|de maître]], elle peut être
+[[Armures magiques|magiquement enchantée]] au [[Création dobjets magiques#ARMURESBOUCLIERS|coût standard]].
+Ainsi, chaque pièce d’armure est traitée selon son propre type
+d’armure. Évidemment, la plupart des armuriers et fabricants
+d’objets magiques savent que c’est une méthode peu efficace
+pour concevoir et enchanter des armures.
+
+Le meilleur moyen de créer une armure [[Caractéristiques des armures#ARMURESMAITRE|de maître]] ou
+d’[[Armures magiques|enchanter]] une armure pour la rendre magique est de créer
+ou d’enchanter toute l’armure en une fois. Pour ce faire,
+les pièces d’armure de l’ensemble n’ont pas besoin d’être
+toutes du même type, mais elles doivent être construites
+puis enchantées ensemble. La contrepartie est qu’aucune
+des pièces d’armure n’est considérée en elle-même comme
+un travail [[Caractéristiques des armures#ARMURESMAITRE|de maître]] ou comme [[Armures magiques|magique]] (mais si elle est
+[[Armures magiques|magique]], elle est détectée comme magique et peut être
+identifiée comme faisant partie d’une armure). Quand elles
+sont utilisées comme une armure fragmentaire ou dans
+un ensemble disparate, ces pièces d’armure fonctionnent
+comme des pièces normales n’étant ni [[Armures magiques|magiques]] ni [[Caractéristiques des armures#ARMURESMAITRE|de maître]], mais simplement des pièces d’armure de leur type.
+
+Si un personnage porte des pièces qui ont été créées ou
+enchantées séparément pour différents ensembles d’armure,
+l’armure du personnage profite uniquement de l’avantage
+fourni par le travail [[Caractéristiques des armures#ARMURESMAITRE|de maître]] et de la magie de la pièce offrant
+la meilleure protection – généralement le pectoral d’armure.
+Si le personnage ne porte pas de pectoral d’armure, la pièce
+apportant la meilleure protection est la jambe d’armure (la
+seconde meilleure catégorie de pièces d’armure du point de
+vue de la protection), suivie par les bras d’armures (la troisième
+catégorie dans un ordre croissant de niveaux de protection).
+
+Si, par exemple, un personnage ne porte ni pectoral d’armure,
+ni jambières, mais est équipé de ''bras d’armure de mailles +1'', il gagne
+les avantages de sa pièce d’[[Armures magiques|armure magique]] (le bras d’armure
+offre les avantages d’une armure [[Caractéristiques des armures#ARMURESMAITRE|de maître]] et accorde un bonus
+d’altération de +1 en raison de ses propriétés magiques). Si ce
+même personnage ajoute ensuite à son ensemble un pectoral
+d’armure en mailles parfaitement normal, il perd le +1 dû à
+la magie et la réduction aux pénalités d’armure accordée aux
+armures [[Caractéristiques des armures#ARMURESMAITRE|de maître]]  ; ceci parce que la pièce d’armure la plus
+protectrice ne dispose d’aucune de ces qualités.
+
+Afin qu’une armure profite des avantages d’un [[Matériaux spéciaux|matériau spécial]],
+toutes les pièces d’armures portées doivent être faites du même
+[[Matériaux spéciaux|matériau spécial]]. Pour ce motif, les pièces d’armure fabriquées
+dans un [[Matériaux spéciaux|matériau spécial]] peuvent être élaborées à un coût réduit
+dépendant de la pièce qui va être conçue avec le [[Matériaux spéciaux|matériau spécial]].
+La conception d’une armure complète (un ensemble assorti de
+trois pièces d’armure) dans un même [[Matériaux spéciaux|matériau spécial]] renvoie
+aux [[Matériaux spéciaux|prix standard]] détaillés dans le ''Manuel des joueurs''.
+
+Dans le cas des cottes de mailles, cuirasses et cuirasses
+flexibles, et de toutes les autres pièces d’armure traitées
+comme des armures légères lorsqu’elles sont portées seules,
+le coût de création d’une telle pièce dans un [[Matériaux spéciaux|matériau spécial]]
+se calcule à partir de la catégorie d’armure d’origine de la
+pièce (intermédiaire pour une pièce d’armure de torse en
+mailles, lourde pour un pectoral d’armure en plaques).
+Toutefois, dans le cas des armures [[Matériaux spéciaux#ADAMANTIUM|adamantines]] ou forgées
+dans des matériaux similaires, l’objet obtient le bénéfice du
+[[Matériaux spéciaux|matériau spécial]] comme s’il appartenait à la catégorie des
+armures légères ([[Réduction de dégâts (capacité)|réduction des dégâts]] 1/–pour un pectoral
+d’armure de mailles, et [[Réduction de dégâts (capacité)|réduction des dégâts]] 2/– pour un
+pectoral d’armure de plaques comme une cuirasse).
+
+{s:Reference|Adamantium}
+====Adamantium====
+<div style="float:right; padding: 0 0 16px 16px">
+<center>{| CLASS="tablo"
+|+ Pièces d'armure en adamantium
+|- CLASS="titre"
+| Type d’objet en adamantium || Modificateur au prix de vente
+|-
+| Bras d’armure intermédiaire || +2 500 po
+|- CLASS="alt"
+| Jambes d’armure intermédiaire || +2 500 po
+|-
+| Pectoral d’armure intermédiaire || +5 000 po
+|- CLASS="alt"
+| Bras d’armure lourde || +2 500 po
+|-
+| Jambes d’armure lourde || +2 500 po
+|- CLASS="alt"
+| Pectoral d’armure lourde || +10 000 po
+|}
+{br}{br}
+{| CLASS="tablo"
+|+ Pièces d'armure en mithral
+|- CLASS="titre"
+| Type d’objet en mithral || Modificateur au prix de vente
+|-
+| Bras d’armure intermédiaire || +1 500 po
+|- CLASS="alt"
+| Jambes d’armure intermédiaire || +1 500 po
+|-
+| Pectoral d’armure intermédiaire || +1 000 po
+|- CLASS="alt"
+| Bras d’armure lourde || +2 500 po
+|-
+| Jambes d’armure lourde || +2 500 po
+|- CLASS="alt"
+| Pectoral d’armure lourde || +4 000 po
+|}</center></div>
+Les armures faites en adamantium accordent à leur porteur
+une [[Réduction de dégâts (capacité)|réduction des dégâts]] de 1/– si elles sont dans la catégorie
+des armures légères, 2/– si elles sont de type intermédiaire,
+et 3/– si elles appartiennent aux armures lourdes. Les pièces
+d’armure adamantines sont toujours des pièces d’armure
+[[Caractéristiques des armures#ARMURESMAITRE|de maître]] en termes de qualité. Les pièces d’armure normalement
+fabriquées en acier augmentent leur nombre de points de vie
+d’un tiers lorsqu’elles sont forgées en adamantium.
+
+{s:Reference|Mithral}
+
+====Mithral====
+Les pièces d’armure forgées en mithral sont plus légères que
+l’acier, mais tout aussi solides. Par ailleurs, les pièces d’armure
+en mithral sont moins gênantes pour les mouvements que
+leur équivalent d’acier. Les réductions appliquées à la vitesse de
+déplacement pour les pièces d’armure intermédiaire sont annulées
+quand ces pièces d’armure sont faites en mithral. Les pièces
+d’armure lourde qui réduisent la vitesse de course de leur porteur
+(lequel triple sa vitesse de déplacement au lieu de la quadrupler)
+n’imposent plus cette limitation quand elles sont fabriquées en
+mithral ou appartiennent à une armure complète de mithral.
+
+Tant que toutes les pièces d’armure que porte un
+personnage sont faites de mithral, le [[Caractéristiques des armures#RISQUEECHECPROFANE|risque d’échec des sorts profanes]] de 10%, le [[Caractéristiques des armures#BONUSDEXMAX|bonus de Dextérité maximal]] est
+augmenté de +2, et le [[Caractéristiques des armures#MALUSARMURE|malus d’armure aux tests]] est diminué
+de 3 (avec un minimum de 0).
+
+Un objet fait de mithral pèse moitié moins que son ''alter ego''
+forgé dans un autre métal. Les pièces d’armure en mithral sont
+toujours considérées comme des pièces d’armure [[Caractéristiques des armures#ARMURESMAITRE|de maître]].
+
+{s:Reference|PeauDeDragon}
+====Peau de dragon====
+Si la peau de dragon utilisée pour construire une armure
+vient d’un dragon immunisé à un type d’énergie, la pièce
+d’armure possède aussi cette immunité à ce type d’énergie, mais
+confère cette immunité à son porteur uniquement si celui-ci
+porte une armure entièrement faite de peau de dragon de ce
+même type spécifique. Une pièce d’armure en peau de dragon
+coûte le double du prix normal de la pièce d’armure +100
+po. Sur ce modèle, un pectoral d’armure de plaques peut être
+fabriqué avec de la peau de dragon pour 700 po, et un pectoral
+en plaques flexibles peut être construit en peau de dragon pour
+1 100 po ; si l’une de ces deux pièces d’armure est portée seule,
+elle apporte à son possesseur la protection aux dégâts d’énergie
+dont disposait le dragon dont la peau a été utilisée.
+
+
+===Enfiler et ôter ses pièces d'armure===
+<div style="float:right; background: #fff; padding: 0 0 16px 16px">
+{s:Reference|TABSEQUIPER}
+<center>{| CLASS="tablo"
+|+ S'équiper d'une pièce d'armure
+|- CLASS="titre"
+| Type de pièce || Enfiler || À la hâte || Ôter
+|-
+| Bras d’armure légère || 2 rounds || 1 round || 2 rounds<sup>([[#TABSEQUIPER1|1]])</sup>
+|- CLASS="alt"
+| Jambes d’armure légère || 3 rounds || 2 rounds || 2 rounds<sup>([[#TABSEQUIPER1|1]])</sup>
+|-
+| Pectoral d’armure lourde || 5 rounds || 2 rounds || 5 rounds<sup>([[#TABSEQUIPER1|1]])</sup>
+|- CLASS="alt"
+| Bras d’armure intermédiaire || 1 minute<sup>([[#TABSEQUIPER1|1]])</sup> || 2 rounds || 2 rounds<sup>([[#TABSEQUIPER1|1]])</sup>
+|-
+| Jambes d’armure intermédiaire || 1 minute<sup>([[#TABSEQUIPER1|1]])</sup> || 3 rounds || 2 rounds<sup>([[#TABSEQUIPER1|1]])</sup>
+|- CLASS="alt"
+| Pectoral d’armure intermédiaire || 1 minute<sup>([[#TABSEQUIPER1|1]])</sup> || 5 rounds || 3 rounds<sup>([[#TABSEQUIPER1|1]])</sup>
+|-
+| Bras d’armure lourde || 1 minute<sup>([[#TABSEQUIPER2|2]])</sup> || 1 minute<sup>([[#TABSEQUIPER1|1]])</sup> || 1 minute<sup>([[#TABSEQUIPER1|1]])</sup>
+|- CLASS="alt"
+| Jambes d’armure lourde || 1 minute<sup>([[#TABSEQUIPER2|2]])</sup> || 1 minute<sup>([[#TABSEQUIPER1|1]])</sup> || 1 minute<sup>([[#TABSEQUIPER1|1]])</sup>
+|-
+| Pectoral d’armure lourde || 2 minutes<sup>([[#TABSEQUIPER2|2]])</sup> || 1 minute<sup>([[#TABSEQUIPER1|1]])</sup> || 2 minutes<sup>([[#TABSEQUIPER1|1]])</sup>
+|}</center>
+{s:Reference|TABSEQUIPER1}''(1). Si le personnage est aidé, ce laps de temps est divisé par 2. Une seule
+{br}créature peut aider une ou deux créatures adjacentes, à condition de ne
+{br}faire rien d’autre. Deux personnages ne peuvent pas s’aider l’un l’autre
+{br}pour enfiler ou ôter leurs pièces d’armure simultanément.''
+
+{s:Reference|TABSEQUIPER2}''(2). Une aide est nécessaire pour enfiler correctement cette pièce d’armure.
+{br}Sans aide, elle ne peut être enfilée qu’hâtivement (avec les conséquences
+{br}indiquées ci-dessus).''</div>
+Le temps requis pour enfiler une pièce d’armure dépend
+de son type et de la zone qu’elle protège, comme indiqué
+dans la table [[#TABSEQUIPER|S'équiper d'une pièce d'armure]].
+
+'''Enfiler'''. Cette colonne indique le temps nécessaire à un
+personnage pour revêtir la pièce d’armure. Une minute
+correspond à 10 rounds.
+
+'''Enfiler à la hâte'''. Cette colonne indique le temps nécessaire
+à un personnage pour enfiler une pièce d’armure dans
+l’urgence. Le [[Caractéristiques des armures#MALUSARMURE|malus d’armure aux tests]] est augmenté de 1
+point et le [[Caractéristiques des armures#BONUSARMUREBOUCLIER|bonus d’armure]] est réduit de 1 point lorsqu’une
+pièce d’armure a été enfilée à la hâte. Après réduction, le
+[[Caractéristiques des armures#BONUSARMUREBOUCLIER|bonus d’armure]] minimum est 0.
+
+'''Ôter'''. Cette colonne indique le temps nécessaire pour ôter
+une pièce d’armure.
+
+
+===Pièces d'armure des créatures inhabituelles===
+Les pièces d’armure des créatures particulièrement grandes,
+petites ou non humanoïdes (comme les chevaux) ont des coûts
+et poids différents de ceux indiqués dans les tables [[#TABPROFILSBRAS|Profils des bras d'armure]], [[#TABPROFILSJAMBES|Profils des jambes d'armure]] et [[#TABPROFILSPECTORALES|Profils des pièces d'armure pectorales]].
+Référez-vous à la ligne appropriée dans la table [[Caractéristiques des armures#ARMURESINHABITUELLES|Armures des créatures inhabituelles] et appliquez les multiplicateurs donnés
+pour les prix et poids des armures. Pour les animaux dotés de
+quatre jambes (ou pattes) ou plus, une pièce d’armure couvrant
+la moitié des pattes (ou jambes) coûte le prix de jambes d’armure
+normales, et la pièce d’armure pour la seconde moitié des
+membres inférieurs coûte le même prix que des bras d’armure.
+
+===Solidité et points de résistance des armures et pièces d'armure===
+Pour déterminer la [[Exploration#SOLIDITE|solidité]] de l’armure d’un personnage,
+prenez la [[Exploration#SOLIDITE|solidité]] de son matériau le plus faible. Pour calculer
+les [[Exploration#POINTDERESISTANCE|points de résistance]] d’une armure, prenez le
+[[Caractéristiques des armures#BONUSARMUREBOUCLIER|bonus total d’armure]] (en incluant le +1 offert pour le port d’un ensemble
+complet) et multipliez cette valeur par 5. Pour une seule pièce
+d’armure, prenez la [[Exploration#SOLIDITE|solidité]] de son matériau principal. Pour
+connaître les [[Exploration#POINTDERESISTANCE|points de résistance]] d’une seule pièce d’armure,
+multipliez par 5 son [[Caractéristiques des armures#BONUSARMUREBOUCLIER|bonus d’armure]] (en comptant +1 pour
+les pièces d’armure dont le bonus est +0). Les valeurs de
+[[Exploration#SOLIDITE|solidité]] des différentes matières sont indiquées dans la table [[Exploration#TABSOLIDITEMATIERES|Solidité et points de résistance des matières]].
+
+===Description des pièces d'armure===
+Toutes les pièces d’armure utilisables dans ce système de
+règles alternatif sont détaillées ci-dessous et sont séparées en
+trois grandes catégories.
+
+{s:Reference|BRAS}
+====Bras d'armure====
+Comme la zone qu’ils protègent est la plus petite, les bras
+d’armure tendent à avoir la plus faible valeur d’armure parmi
+les différentes pièces d’armure, les pièces d’armures légères
+offrant peu, voire pas, de protection à moins d’être intégrées
+dans un ensemble d’armure complet. Les bras d’armure
+interférant avec les mouvements des mains nécessaires pour
+les sorts à composantes gestuelles, ils donnent de surcroît les
+plus importants [[Caractéristiques des armures#RISQUEECHECPROFANE|risques d’échec des sorts profanes]].
+
+<center>{s:Reference|TABPROFILSBRAS}{| CLASS="tablo"
+|+ Profils des bras d'armure
+|- CLASS="titre"
+| ROWSPAN="2" | Type d’armure
+| ROWSPAN="2" | [[Caractéristiques des armures#PRIX|Prix]]
+| ROWSPAN="2" | [[Caractéristiques des armures#BONUSARMUREBOUCLIER|Bonus d’armure]]
+| ROWSPAN="2" | [[Caractéristiques des armures#BONUSDEXMAX|Bonus de{br} Dex max]]
+| ROWSPAN="2" | [[Caractéristiques des armures#MALUSARMURE|Malus {br}d’armure{br} aux tests]]
+| ROWSPAN="2" | [[Caractéristiques des armures#RISQUEECHECPROFANE|Risque {br}d’échec des{br} sorts profanes]]
+| COLSPAN="2" CLASS="avecsoustitre" | [[Caractéristiques des armures#VITESSEDEPLACEMENT|Vitesse]]
+| ROWSPAN="2" | [[Caractéristiques des armures#POIDS|Poids]]<sup>([[#NOTEBRAS1|1]])</sup>
+|- CLASS="soustitre"
+| 9&nbsp;m&nbsp;(6&nbsp;{s:c}) || 6m&nbsp;(4&nbsp;{s:c})
+|- CLASS="premier"
+| COLSPAN="9" | Armures légères
+|-
+| &nbsp; [[Description des pièces darmure#BRASBOIS|De bois]] || 5&nbsp;po || +0 || +3 || -1 || 15% || 9&nbsp;m&nbsp;(6&nbsp;{s:c}) || 6&nbsp;m&nbsp;(4&nbsp;{s:c}) || 1,5&nbsp;kg
+|- CLASS="alt"
+| &nbsp; [[Description des pièces darmure#BRASCUIR|De cuir]] || 2&nbsp;po || +0 || +6 || 0  || 10% || 9&nbsp;m&nbsp;(6&nbsp;{s:c}) || 6&nbsp;m&nbsp;(4&nbsp;{s:c}) || 1&nbsp;kg
+|-
+| &nbsp; [[Description des pièces darmure#BRASCUIRCLOUTE|De cuir cloutée]] || 5&nbsp;po || +0 || +5 || 0 || 15% || 9&nbsp;m&nbsp;(6&nbsp;{s:c}) || 6&nbsp;m&nbsp;(4&nbsp;{s:c}) || 1&nbsp;kg
+|- CLASS="alt"
+| &nbsp; [[Description des pièces darmure#BRASREMBOURRÉS|Habits rembourrés]] || 25&nbsp;po || +0 || +8 || 0 || 10% || 9&nbsp;m&nbsp;(6&nbsp;{s:c}) || 6&nbsp;m&nbsp;(4&nbsp;{s:c}) || 1&nbsp;kg
+|-
+| &nbsp; [[Description des pièces darmure#BRASLAMELLAIRECUIR|Lamellaire, cuir]] || 15&nbsp;po || +0 || +3 || -1 || 20% || 9&nbsp;m&nbsp;(6&nbsp;{s:c}) || 6&nbsp;m&nbsp;(4&nbsp;{s:c}) || 2,5&nbsp;kg
+|- CLASS="alt"
+| &nbsp; [[Description des pièces darmure#BRASMATELASSÉ|Matelassée]] || 1&nbsp;po || +0 || +8 || 0 || 5% || 9&nbsp;m&nbsp;(6&nbsp;{s:c}) || 6&nbsp;m&nbsp;(4&nbsp;{s:c}) || 1&nbsp;kg
+|- CLASS="premier"
+| COLSPAN="9" | Armures intermédiaires
+|-
+| &nbsp; [[Description des pièces darmure#BRASÉCAILLES|D’écailles]] || 10&nbsp;po || +1 || +3 || -2 || 25% || 9&nbsp;m&nbsp;(6&nbsp;{s:c}) || 6&nbsp;m&nbsp;(4&nbsp;{s:c}) || 2,5&nbsp;kg
+|- CLASS="alt"
+| &nbsp; [[Description des pièces darmure#BRASKIKKO|Kikko]] || 5&nbsp;po || +0 || +5 || -1 || 20% || 9&nbsp;m&nbsp;(6&nbsp;{s:c}) || 6&nbsp;m&nbsp;(4&nbsp;{s:c}) || 2,5&nbsp;kg
+|-
+| &nbsp; [[Description des pièces darmure#BRASLAMELLAIREACIER|Lamellaire, acier]] || 25&nbsp;po || +1 || +3 || -2 || 25% || 9&nbsp;m&nbsp;(6&nbsp;{s:c}) || 6&nbsp;m&nbsp;(4&nbsp;{s:c}) || 2,5&nbsp;kg
+|- CLASS="alt"
+| &nbsp; [[Description des pièces darmure#BRASLAMELLAIRECORNE|Lamellaire, corne]] || 25&nbsp;po || +1 || +5 || -2 || 25% || 9&nbsp;m&nbsp;(6&nbsp;{s:c}) || 6&nbsp;m&nbsp;(4&nbsp;{s:c}) || 2,5&nbsp;kg
+|-
+| &nbsp; [[Description des pièces darmure#BRASMAILLES|De mailles]] || 25&nbsp;po || +1 || +2 || -3 || 30% || 9&nbsp;m&nbsp;(6&nbsp;{s:c}) || 6&nbsp;m&nbsp;(4&nbsp;{s:c}) || 2,5&nbsp;kg
+|- CLASS="alt"
+| &nbsp; [[Description des pièces darmure#BRASMONTAGNE|De la montagne]] || 50&nbsp;po || +1 || +3 || -2 || 30% || 9&nbsp;m&nbsp;(6&nbsp;{s:c}) || 6&nbsp;m&nbsp;(4&nbsp;{s:c}) || 4,5&nbsp;kg
+|-
+| &nbsp; [[Description des pièces darmure#BRASPEAU|De peau]] || 2&nbsp;po || +0 || +4 || -2 || 20% || 9&nbsp;m&nbsp;(6&nbsp;{s:c}) || 6&nbsp;m&nbsp;(4&nbsp;{s:c}) || 1,5&nbsp;kg
+|- CLASS="premier"
+| COLSPAN="9" | Armures lourdes
+|-
+| &nbsp; [[Description des pièces darmure#BRASCLIBANION|De clibanion]] || 50&nbsp;po || +1 || +0 || -4 || 40% || 9&nbsp;m&nbsp;(6&nbsp;{s:c}) || 6&nbsp;m&nbsp;(4&nbsp;{s:c}) || 2,5&nbsp;kg
+|- CLASS="alt"
+| &nbsp; [[Description des pièces darmure#BRASCREVICE|De crevice]] || 50&nbsp;po || +1 || +1 || -3 || 35% || 9&nbsp;m&nbsp;(6&nbsp;{s:c}) || 6&nbsp;m&nbsp;(4&nbsp;{s:c}) || 2,5&nbsp;kg
+|-
+| &nbsp; [[Description des pièces darmure#BRASKUSARIGUSOKU|Kusari gusoku]] || 50&nbsp;po || +1 || +1 || -3 || 35% || 9&nbsp;m&nbsp;(6&nbsp;{s:c}) || 6&nbsp;m&nbsp;(4&nbsp;{s:c}) || 2,5&nbsp;kg
+|- CLASS="alt"
+| &nbsp; [[Description des pièces darmure#BRASLAMELLAIREFER|Lamellaire, fer]] || 50&nbsp;po || +1 || +0 || -4 || 40% || 9&nbsp;m&nbsp;(6&nbsp;{s:c}) || 6&nbsp;m&nbsp;(4&nbsp;{s:c}) || 4,5&nbsp;kg
+|-
+| &nbsp; [[Description des pièces darmure#BRASOYOROI|O-yoroi]] || 250&nbsp;po || +1 || +2 || -5 || 35% || 9&nbsp;m&nbsp;(6&nbsp;{s:c}) || 6&nbsp;m&nbsp;(4&nbsp;{s:c}) || 2,5&nbsp;kg
+|- CLASS="alt"
+| &nbsp; [[Description des pièces darmure#BRASPLAQUES|De plaques]] || 375&nbsp;po || +1 || +1 || -7 || 35% || 9&nbsp;m&nbsp;(6&nbsp;{s:c}) || 6&nbsp;m&nbsp;(4&nbsp;{s:c}) || 4,5&nbsp;kg
+|-
+| &nbsp; [[Description des pièces darmure#BRASPLAQUESFLEXIBLES|De plaques flexibles]] || 425&nbsp;po || +1 || +0 || -7 || 40% || 9&nbsp;m&nbsp;(6&nbsp;{s:c}) || 6&nbsp;m&nbsp;(4&nbsp;{s:c}) || 2,5&nbsp;kg
+|- CLASS="alt"
+| &nbsp; [[Description des pièces darmure#BRASTATAMIDO|Tatami-Do]] || 100&nbsp;po || +1 || +3 || -5 || 35% || 9&nbsp;m&nbsp;(6&nbsp;{s:c}) || 6&nbsp;m&nbsp;(4&nbsp;{s:c}) || 2,5&nbsp;kg
+|-
+| CLASS="note" COLSPAN="9" | {s:Reference|NOTEBRAS1}''(1) Les poids indiqués correspondent à des pièces d’armure conçues pour des personnages de taille M. Les pièces d’armure des personnages de taille P pèsent moitié moins, et les poids des pièces d’armure des personnages de taille G doivent être doublés.''
+|}</center>
+
+{s:Reference|JAMBES}
+====Jambes d'armure====
+Les jambes d’armures les plus lourdes ralentissent leurs
+porteurs et octroient d’importants malus d’armure aux
+tests, mais elles sont en revanche moins gênantes pour les
+lanceurs de sorts que les bras d’armures lourdes.
+
+<center>{s:Reference|TABPROFILSJAMBES}{| CLASS="tablo"
+|+ Profils des jambes d'armure
+|- CLASS="titre"
+| ROWSPAN="2" | Type d’armure
+| ROWSPAN="2" | [[Caractéristiques des armures#PRIX|Prix]]
+| ROWSPAN="2" | [[Caractéristiques des armures#BONUSARMUREBOUCLIER|Bonus d’armure]]
+| ROWSPAN="2" | [[Caractéristiques des armures#BONUSDEXMAX|Bonus de{br} Dex max]]
+| ROWSPAN="2" | [[Caractéristiques des armures#MALUSARMURE|Malus {br}d’armure{br} aux tests]]
+| ROWSPAN="2" | [[Caractéristiques des armures#RISQUEECHECPROFANE|Risque {br}d’échec des{br} sorts profanes]]
+| COLSPAN="2" CLASS="avecsoustitre" | [[Caractéristiques des armures#VITESSEDEPLACEMENT|Vitesse]]
+| ROWSPAN="2" | [[Caractéristiques des armures#POIDS|Poids]]<sup>([[#NOTEJAMBES1|1]])</sup>
+|- CLASS="soustitre"
+| 9&nbsp;m&nbsp;(6&nbsp;{s:c}) || 6m&nbsp;(4&nbsp;{s:c})
+|- CLASS="premier"
+| COLSPAN="9" | Armures légères
+|-
+| &nbsp; [[Description des pièces darmure#JAMBESBOIS|De bois]] || 5&nbsp;po || +1 || +3 || -1 || 5% || 9&nbsp;m&nbsp;(6&nbsp;{s:c}) || 6&nbsp;m&nbsp;(4&nbsp;{s:c}) || 3&nbsp;kg
+|- CLASS="alt"
+| &nbsp; [[Description des pièces darmure#JAMBESCUIR|De cuir]] || 3&nbsp;po || +0 || +6 || 0 || 0% || 9&nbsp;m&nbsp;(6&nbsp;{s:c}) || 6&nbsp;m&nbsp;(4&nbsp;{s:c}) || 1,5&nbsp;kg
+|-
+| &nbsp; [[Description des pièces darmure#JAMBESCUIRCLOUTÉ|De cuir cloutée]] || 5&nbsp;po || +1 || +5 || 0 || 10% || 9&nbsp;m&nbsp;(6&nbsp;{s:c}) || 6&nbsp;m&nbsp;(4&nbsp;{s:c}) || 1,5&nbsp;kg
+|- CLASS="alt"
+| &nbsp; [[Description des pièces darmure#JAMBESREMBOURRÉES|Habits rembourrés]] || 25&nbsp;po || +0 || +8 || 0 || 5% || 9&nbsp;m&nbsp;(6&nbsp;{s:c}) || 6&nbsp;m&nbsp;(4&nbsp;{s:c}) || 1,5&nbsp;kg
+|-
+| &nbsp; [[Description des pièces darmure#JAMBESLAMELLAIRECUIR|Lamellaire, cuir]] || 15&nbsp;po || +1 || +2 || -1 || 10% || 9&nbsp;m&nbsp;(6&nbsp;{s:c}) || 6&nbsp;m&nbsp;(4&nbsp;{s:c}) || 5&nbsp;kg
+|- CLASS="alt"
+| &nbsp; [[Description des pièces darmure#JAMBESMATELASSÉES|Matelassée]] || 1&nbsp;po || +0 || +8 || 0 || 0% || 9&nbsp;m&nbsp;(6&nbsp;{s:c}) || 6&nbsp;m&nbsp;(4&nbsp;{s:c}) || 1,5&nbsp;kg
+|- CLASS="premier"
+| COLSPAN="9" | Armures intermédiaires
+|-
+| &nbsp; [[Description des pièces darmure#JAMBESÉCAILLES|D’écailles]] || 10&nbsp;po || +1 || +3 || -2 || 15% || 9&nbsp;m&nbsp;(6&nbsp;{s:c}) || 6&nbsp;m&nbsp;(4&nbsp;{s:c}) || 4,5&nbsp;kg
+|- CLASS="alt"
+| &nbsp; [[Description des pièces darmure#JAMBESKIKKO|Kikko]] || 10&nbsp;po || +1 || +3 || -1 || 10% || 6&nbsp;m&nbsp;(4&nbsp;{s:c}) || 4,50&nbsp;m&nbsp;(3&nbsp;{s:c}) || 2,5&nbsp;kg
+|-
+| &nbsp; [[Description des pièces darmure#JAMBESLAMELLAIREACIER|Lamellaire, acier]] || 25&nbsp;po || +1 || +3 || -2 || 15% || 9&nbsp;m&nbsp;(6&nbsp;{s:c}) || 6&nbsp;m&nbsp;(4&nbsp;{s:c}) || 2,5&nbsp;kg
+|- CLASS="alt"
+| &nbsp; [[Description des pièces darmure#JAMBESLAMELLAIRECORNE|Lamellaire, corne]] || 25&nbsp;po || +1 || +3 || -2 || 10% || 6&nbsp;m&nbsp;(4&nbsp;{s:c}) || 4,50&nbsp;m&nbsp;(3&nbsp;{s:c}) || 2,5&nbsp;kg
+|-
+| &nbsp; [[Description des pièces darmure#JAMBESMAILLES|De mailles]] || 25&nbsp;po || +0 || +2 || -2 || 15% || 9&nbsp;m&nbsp;(6&nbsp;{s:c}) || 6&nbsp;m&nbsp;(4&nbsp;{s:c}) || 4,5&nbsp;kg
+|- CLASS="alt"
+| &nbsp; [[Description des pièces darmure#JAMBESMONTAGNE|De la montagne]] || 50&nbsp;po || +1 || +3 || -2 || 15% || 6&nbsp;m&nbsp;(4&nbsp;{s:c}) || 4,50&nbsp;m&nbsp;(3&nbsp;{s:c}) || 4,5&nbsp;kg
+|-
+| &nbsp; [[Description des pièces darmure#JAMBESPEAU|De peau]] || 3&nbsp;po || +1 || +4 || -2 || 10% || 9&nbsp;m&nbsp;(6&nbsp;{s:c}) || 6&nbsp;m&nbsp;(4&nbsp;{s:c}) || 3&nbsp;kg
+|- CLASS="premier"
+| COLSPAN="9" | Armures lourdes
+|-
+| &nbsp; [[Description des pièces darmure#JAMBESCLIBANION|De clibanion]] || 50&nbsp;po || +1 || +0 || -4 || 20% || 6&nbsp;m&nbsp;(4&nbsp;{s:c})<sup>([[#NOTEJAMBES2|2]])</sup> || 4,50&nbsp;m&nbsp;(3&nbsp;{s:c})<sup>([[#NOTEJAMBES2|2]])</sup> || 7&nbsp;kg
+|- CLASS="alt"
+| &nbsp; [[Description des pièces darmure#JAMBESCREVICE|De crevice]] || 50&nbsp;po || +1 || +1 || -3 || 15% || 6&nbsp;m&nbsp;(4&nbsp;{s:c})<sup>([[#NOTEJAMBES2|2]])</sup> || 4,50&nbsp;m&nbsp;(3&nbsp;{s:c})<sup>([[#NOTEJAMBES2|2]])</sup> || 4,5&nbsp;kg
+|-
+| &nbsp; [[Description des pièces darmure#JAMBESKUSARIGUSOKU|Kusari gusoku]] || 100&nbsp;po || +1 || +1 || -3 || 20% || 6&nbsp;m&nbsp;(4&nbsp;{s:c})<sup>([[#NOTEJAMBES2|2]])</sup> || 4,50&nbsp;m&nbsp;(3&nbsp;{s:c})<sup>([[#NOTEJAMBES2|2]])</sup> || 4,5&nbsp;kg
+|- CLASS="alt"
+| &nbsp; [[Description des pièces darmure#JAMBESLAMELLAIREFER|Lamellaire, fer]] || 50&nbsp;po || +1 || +1 || -4 || 20% || 6&nbsp;m&nbsp;(4&nbsp;{s:c})<sup>([[#NOTEJAMBES2|2]])</sup> || 4,50&nbsp;m&nbsp;(3&nbsp;{s:c})<sup>([[#NOTEJAMBES2|2]])</sup> || 4,5&nbsp;kg
+|-
+| &nbsp; [[Description des pièces darmure#JAMBESOYOROI|O-yoroi]] || 300&nbsp;po || +2 || +2 || -3 || 20% || 6&nbsp;m&nbsp;(4&nbsp;{s:c})<sup>([[#NOTEJAMBES2|2]])</sup> || 4,50&nbsp;m&nbsp;(3&nbsp;{s:c})<sup>([[#NOTEJAMBES2|2]])</sup> || 2,5&nbsp;kg
+|- CLASS="alt"
+| &nbsp; [[Description des pièces darmure#JAMBESPLAQUES|De plaques]] || 925&nbsp;po || +1 || +1 || -3 || 20% || 6&nbsp;m&nbsp;(4&nbsp;{s:c})<sup>([[#NOTEJAMBES2|2]])</sup> || 4,50&nbsp;m&nbsp;(3&nbsp;{s:c})<sup>([[#NOTEJAMBES2|2]])</sup> || 4,5&nbsp;kg
+|-
+| &nbsp; [[Description des pièces darmure#JAMBESTATAMIDO|Tatami-do]] || 150&nbsp;po || +1 || +3 || -3 || 15% || 6&nbsp;m&nbsp;(4&nbsp;{s:c})<sup>([[#NOTEJAMBES2|2]])</sup> || 4,50&nbsp;m&nbsp;(3&nbsp;{s:c})<sup>([[#NOTEJAMBES2|2]])</sup> || 2,5&nbsp;kg
+|-
+| CLASS="note alt" COLSPAN="9" | {s:Reference|NOTEJAMBES1}''(1) Les&nbsp;poids indiqués correspondent à des pièces d’armure conçues pour des personnages de taille M. Les pièces d’armure des personnages de taille P pèsent moitié moins, et les&nbsp;poids des pièces d’armure des personnages de taille G doivent être doublés.''
+|-
+| CLASS="note" COLSPAN="9" | {s:Reference|NOTEJAMBES2}''(2) Lorsqu’un personnage court en&nbsp;portant cette pièce d’armure, il triple sa vitesse de déplacement au lieu de la quadrupler.''
+|}</center>
+
+{s:Reference|TRONC}
+====Pectoral d'armures====
+Le pectoral d’armure est la pièce qui procure la plus
+grande protection, mais aussi généralement celle qui entrave
+le plus son porteur.
+
+<center>{s:Reference|TABPROFILSTRONC}{| CLASS="tablo"
+|+ Profils des pièces d'armure pectorales
+|- CLASS="titre"
+| ROWSPAN="2" | Type d’armure
+| ROWSPAN="2" | [[Caractéristiques des armures#PRIX|Prix]]
+| ROWSPAN="2" | [[Caractéristiques des armures#BONUSARMUREBOUCLIER|Bonus d’armure]]
+| ROWSPAN="2" | [[Caractéristiques des armures#BONUSDEXMAX|Bonus de{br} Dex max]]
+| ROWSPAN="2" | [[Caractéristiques des armures#MALUSARMURE|Malus {br}d’armure{br} aux tests]]
+| ROWSPAN="2" | [[Caractéristiques des armures#RISQUEECHECPROFANE|Risque {br}d’échec des{br} sorts profanes]]
+| COLSPAN="2" CLASS="avecsoustitre" | [[Caractéristiques des armures#VITESSEDEPLACEMENT|Vitesse]]
+| ROWSPAN="2" | [[Caractéristiques des armures#POIDS|Poids]]<sup>([[#NOTETRONC1|1]])</sup>
+|- CLASS="soustitre"
+| 9&nbsp;m&nbsp;(6&nbsp;{s:c}) || 6m&nbsp;(4&nbsp;{s:c})
+|- CLASS="premier"
+| COLSPAN="9" | Armures légères
+|-
+| &nbsp; [[Description des pièces darmure#PECTORALSOIE|Armure cérémonielle de soie]] || 30&nbsp;po || +1 || +10 || 0 || 0% || 9&nbsp;m&nbsp;(6&nbsp;{s:c}) || 6&nbsp;m&nbsp;(4&nbsp;{s:c}) || 2&nbsp;kg
+|- CLASS="alt" 
+| &nbsp; [[Description des pièces darmure#PECTORALBOIS|De bois]] || 10&nbsp;po || +1 || +3 || -1 || 15% || 9&nbsp;m&nbsp;(6&nbsp;{s:c}) || 6&nbsp;m&nbsp;(4&nbsp;{s:c}) || 7&nbsp;kg
+|-
+| &nbsp; [[Description des pièces darmure#PECTORALCUIR|De cuir]] || 5&nbsp;po || +1 || +6 || 0 || 10% || 9&nbsp;m&nbsp;(6&nbsp;{s:c}) || 6&nbsp;m&nbsp;(4&nbsp;{s:c}) || 4,5&nbsp;kg
+|- CLASS="alt" 
+| &nbsp; [[Description des pièces darmure#PECTORALCUIRCLOUTE|De cuir cloutée]] || 15&nbsp;po || +1 || +5 || 0 || 15% || 9&nbsp;m&nbsp;(6&nbsp;{s:c}) || 6&nbsp;m&nbsp;(4&nbsp;{s:c}) || 7&nbsp;kg
+|-
+| &nbsp; [[Description des pièces darmure#CUIRASSELAMELLAIRE|Cuirasse lamellaire]] || 15&nbsp;po || +2 || +4 || 0 || 5% || 9&nbsp;m&nbsp;(6&nbsp;{s:c}) || 6&nbsp;m&nbsp;(4&nbsp;{s:c}) || 3,5&nbsp;kg
+|- CLASS="alt" 
+| &nbsp; [[Description des pièces darmure#PECTORALREMBOURRE|Habits rembourrés]] || 50&nbsp;po || +0 || +8 || 0 || 10% || 9&nbsp;m&nbsp;(6&nbsp;{s:c}) || 6&nbsp;m&nbsp;(4&nbsp;{s:c}) || 4,5&nbsp;kg
+|-
+| &nbsp; [[Description des pièces darmure#HARAMAKI|Haramaki]] || 3&nbsp;po || +1 || +10 || 0 || 0% || 9&nbsp;m&nbsp;(6&nbsp;{s:c}) || 6&nbsp;m&nbsp;(4&nbsp;{s:c}) || 0,5&nbsp;kg
+|- CLASS="alt" 
+| &nbsp; [[Description des pièces darmure#PECTORALLAMELLAIRECUIR|Lamellaire, cuir]] || 30&nbsp;po || +2 || +3 || -2 || 20% || 9&nbsp;m&nbsp;(6&nbsp;{s:c}) || 6&nbsp;m&nbsp;(4&nbsp;{s:c}) || 4,5&nbsp;kg
+|-
+| &nbsp; [[Description des pièces darmure#PECTORALMATELASSE|Matelassée]] || 3&nbsp;po || +0 || +8 || 0 || 5% || 9&nbsp;m&nbsp;(6&nbsp;{s:c}) || 6&nbsp;m&nbsp;(4&nbsp;{s:c}) || 2,5&nbsp;kg
+|- CLASS="premier" 
+| COLSPAN="9" | Armures intermédiaires
+|-
+| &nbsp; [[Description des pièces darmure#ARMUREQUATREMIROIRS|Armure quatre-miroirs]] || 20&nbsp;po || +5 || +4 || -5 || 30% || 6&nbsp;m&nbsp;(4&nbsp;{s:c}) || 4,50&nbsp;m&nbsp;(3&nbsp;{s:c}) || 18&nbsp;kg
+|- CLASS="alt" 
+| &nbsp; [[Description des pièces darmure#DOMARU|Do-maru]] || 200&nbsp;po || +5 || +4 || -4 || 25% || 6&nbsp;m&nbsp;(4&nbsp;{s:c}) || 4,50&nbsp;m&nbsp;(3&nbsp;{s:c}) || 13,5&nbsp;kg
+|-
+| &nbsp; [[Description des pièces darmure#PECTORALECAILLES|D’écailles]] || 30&nbsp;po || +2 || +3 || -2 || 25% || 9&nbsp;m&nbsp;(6&nbsp;{s:c}) || 6&nbsp;m&nbsp;(4&nbsp;{s:c}) || 7&nbsp;kg
+|- CLASS="alt" 
+| &nbsp; [[Description des pièces darmure#PECTORALKIKKO|Kikko]] || 15&nbsp;po || +2 || +4 || -3 || 20% || 6&nbsp;m&nbsp;(4&nbsp;{s:c}) || 4,50&nbsp;m&nbsp;(3&nbsp;{s:c}) || 7&nbsp;kg
+|-
+| &nbsp; [[Description des pièces darmure#PECTORALLAMELLAIREACIER|Lamellaire, acier]] || 100&nbsp;po || +1 || +3 || -5 || 25% || 6&nbsp;m&nbsp;(4&nbsp;{s:c}) || 4,50&nbsp;m&nbsp;(3&nbsp;{s:c}) || 11&nbsp;kg
+|- CLASS="alt" 
+| &nbsp; [[Description des pièces darmure#PECTORALLAMELLAIRECORNE|Lamellaire, corne]] || 50&nbsp;po || +2 || +3 || -4 || 25% || 6&nbsp;m&nbsp;(4&nbsp;{s:c}) || 4,50&nbsp;m&nbsp;(3&nbsp;{s:c}) || 9&nbsp;kg
+|-
+| &nbsp; [[Description des pièces darmure#PECTORALMAILLES|De mailles]]<sup>([[#NOTETRONC3|3]])</sup> || 100&nbsp;po || +4 || +4 || -2 || 30% || 9&nbsp;m&nbsp;(6&nbsp;{s:c}) || 6&nbsp;m&nbsp;(4&nbsp;{s:c}) || 11&nbsp;kg
+|- CLASS="alt" 
+| &nbsp; [[Description des pièces darmure#PECTORALMONTAGNE|De la montagne]] || 150&nbsp;po || +3 || +3 || -4 || 30% || 6&nbsp;m&nbsp;(4&nbsp;{s:c}) || 4,50&nbsp;m&nbsp;(3&nbsp;{s:c}) || 9&nbsp;kg
+|-
+| &nbsp; [[Description des pièces darmure#PECTORALPEAU|De peau]] || 10&nbsp;po || +2 || +4 || -2 || 20% || 9&nbsp;m&nbsp;(6&nbsp;{s:c}) || 6&nbsp;m&nbsp;(4&nbsp;{s:c}) || 7&nbsp;kg
+|- CLASS="alt" 
+| &nbsp; [[Description des pièces darmure#VESTERENFORCEE|Veste renforcée]] || 50&nbsp;po || +4 || +3 || -2 || 20% || 6&nbsp;m&nbsp;(4&nbsp;{s:c}) || 4,50&nbsp;m&nbsp;(3&nbsp;{s:c}) || 9&nbsp;kg
+|- CLASS="premier" 
+| COLSPAN="9" | Armures lourdes
+|-
+| &nbsp; [[Description des pièces darmure#PECTORALCLIBANION|De clibanion]] || 100&nbsp;po || +4 || 0 || -3 || 40% || 6&nbsp;m&nbsp;(4&nbsp;{s:c})<sup>([[#NOTETRONC2|2]])</sup> || 4,50&nbsp;m&nbsp;(3&nbsp;{s:c})<sup>([[#NOTETRONC2|2]])</sup> || 11&nbsp;kg
+|- CLASS="alt" 
+| &nbsp; [[Description des pièces darmure#PECTORALCREVICE|De crevice]] || 150&nbsp;po || +4 || +1 || -2 || 35% || 6&nbsp;m&nbsp;(4&nbsp;{s:c})<sup>([[#NOTETRONC2|2]])</sup> || 4,50&nbsp;m&nbsp;(3&nbsp;{s:c})<sup>([[#NOTETRONC2|2]])</sup> || 9&nbsp;kg
+|-
+| &nbsp; [[Description des pièces darmure#PECTORALKUSARIGUSOKU|Kusari gusoku]] || 200&nbsp;po || +4 || +1 || -7 || 35% || 6&nbsp;m&nbsp;(4&nbsp;{s:c})<sup>([[#NOTETRONC2|2]])</sup> || 4,50&nbsp;m&nbsp;(3&nbsp;{s:c})<sup>([[#NOTETRONC2|2]])</sup> || 9&nbsp;kg
+|- CLASS="alt" 
+| &nbsp; [[Description des pièces darmure#PECTORALLAMELLAIREFER|Lamellaire, fer]] || 100&nbsp;po || +4 || 0 || -7 || 40% || 6&nbsp;m&nbsp;(4&nbsp;{s:c})<sup>([[#NOTETRONC2|2]])</sup> || 4,50&nbsp;m&nbsp;(3&nbsp;{s:c})<sup>([[#NOTETRONC2|2]])</sup> || 7&nbsp;kg
+|-
+| &nbsp; [[Description des pièces darmure#MANTEAUDEPIERRE|Manteau de pierre]] || 500&nbsp;po || +8 || 0 || -7 || 40% || 6&nbsp;m&nbsp;(4&nbsp;{s:c})<sup>([[#NOTETRONC2|2]])</sup> || 4,50&nbsp;m&nbsp;(3&nbsp;{s:c})<sup>([[#NOTETRONC2|2]])</sup> || 20,5&nbsp;kg
+|- CLASS="alt" 
+| &nbsp; [[Description des pièces darmure#PECTORALOYOROI|O-yoroi]] || 750&nbsp;po || +5 || +2 || -6 || 35% || 6&nbsp;m&nbsp;(4&nbsp;{s:c})<sup>([[#NOTETRONC2|2]])</sup> || 4,50&nbsp;m&nbsp;(3&nbsp;{s:c})<sup>([[#NOTETRONC2|2]])</sup> || 13,5&nbsp;kg
+|-
+| &nbsp; [[Description des pièces darmure#PECTORALPLAQUES|De plaques]]<sup>([[#NOTETRONC3|3]])</sup> || 200&nbsp;po || +6 || +3 || -4 || 35% || 6&nbsp;m&nbsp;(4&nbsp;{s:c})<sup>([[#NOTETRONC2|2]])</sup> || 4,50&nbsp;m&nbsp;(3&nbsp;{s:c})<sup>([[#NOTETRONC2|2]])</sup> || 13,5&nbsp;kg
+|- CLASS="alt" 
+| &nbsp; [[Description des pièces darmure#PECTORALPLAQUESFLEXIBLES|De plaques flexibles]]<sup>([[#NOTETRONC3|3]])</sup> || 400&nbsp;po || +6 || +3 || -4 || 25% || 6&nbsp;m&nbsp;(4&nbsp;{s:c}) || 4,50&nbsp;m&nbsp;(3&nbsp;{s:c}) || 11&nbsp;kg
+|-
+| &nbsp; [[Description des pièces darmure#PECTORALTATAMIDO|Tatami-do]] || 500&nbsp;po || +4 || +4 || -6 || 35% || 6&nbsp;m&nbsp;(4&nbsp;{s:c})<sup>([[#NOTETRONC2|2]])</sup> || 4,50&nbsp;m&nbsp;(3&nbsp;{s:c})<sup>([[#NOTETRONC2|2]])</sup> || 13,5&nbsp;kg
+|-
+| CLASS="note alt" COLSPAN="9" | {s:Reference|NOTETRONC1}''(1) Les poids indiqués correspondent à des pièces d’armure conçues pour des personnages de taille M. Les pièces d’armure des personnages de taille P pèsent moitié moins, et les poids des pièces d’armure des personnages de taille G doivent être doublés.''
+|-
+| CLASS="note" COLSPAN="9" | {s:Reference|NOTETRONC2}''(2) Lorsqu’un personnage court en&nbsp;portant cette pièce d’armure, il triple sa vitesse de déplacement au lieu de la quadrupler.''
+|-
+| CLASS="note alt" COLSPAN="9" | {s:Reference|NOTETRONC3}''(3) Quand elles sont portées seules, la catégorie de poids (légère, intermédiaire, lourde) de ces pièces d’armure doit être abaissée d’un niveau. Une pièce d’armure de mailles protégeant le tronc portée seule est une chemise de mailles (armure légère), une pièce d’armure de plaques flexibles protégeant le tronc est une cuirasse (armure intermédiaire).''
+|}</center>]]></raw>
+  <fullName>Pathfinder-RPG.Pièces darmures</fullName>
+</wikiPage>

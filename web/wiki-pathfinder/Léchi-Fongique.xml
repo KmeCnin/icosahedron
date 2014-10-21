@@ -1,0 +1,174 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Léchi fongique</title>
+  <categories></categories>
+  <lastModified>2013-10-16 15:04:47Z</lastModified>
+  <version>5</version>
+  <inLinks><link>Pathfinder-RPG.Glossaire des monstres</link><link>Pathfinder-RPG.Léchi</link><link>Pathfinder-RPG.Liste de monstres par FP</link><link>Pathfinder-RPG.Liste de monstres par milieu naturel</link><link>Pathfinder-RPG.Monstres</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.type Plante</link><link>Pathfinder-RPG.sous-type léchi</link><link>Pathfinder-RPG.sous-type métamorphe</link><link>Pathfinder-RPG.vision dans le noir</link><link>Pathfinder-RPG.vision nocturne</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.passage sans trace</link><link>Pathfinder-RPG.Combat en aveugle</link><link>Pathfinder-RPG.Discrétion</link><link>Pathfinder-RPG.Survie</link><link>Pathfinder-RPG.Vigueur</link><link>Pathfinder-RPG.DD</link><link>Pathfinder-RPG.jet de sauvegarde</link><link>Pathfinder-RPG.Constitution</link><link>Pathfinder-RPG.Action simple</link><link>Pathfinder-RPG.Force</link><link>Pathfinder-RPG.Connaissances</link><link>Pathfinder-RPG.Brume de dissimulation</link><link>Pathfinder-RPG.Convocation dalliés naturels II</link><link>Pathfinder-RPG.Croissance végétale</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;L&#233;chi fongique&lt;div style=&quot;float:right;&quot;&gt;FP 2&lt;/div&gt;&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Bestiaire 3 page 177&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 600
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Plante.html&quot; title=&quot;Plante&quot;&gt;Plante&lt;/a&gt;, , &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-L&#233;chi.html&quot; title=&quot;L&#233;chi (sous-type)&quot;&gt;l&#233;chi&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-M&#233;tamorphe.html&quot; title=&quot;M&#233;tamorphe (sous-type)&quot;&gt;m&#233;tamorphe&lt;/a&gt; de taille P, N
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +2 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Capacit&#233;s-Sp&#233;ciales.html#VISIONDANSLENOIR&quot; title=&quot;vision dans le noir&quot;&gt;vision dans le noir&lt;/a&gt; 18 m, &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Nocturne-(Capacit&#233;).html&quot; title=&quot;vision nocturne&quot;&gt;vision nocturne&lt;/a&gt; ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +2
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 13, &lt;b&gt;contact&lt;/b&gt; 13, &lt;b&gt;pris au d&#233;pourvu&lt;/b&gt; 11 (Dex +2, taille +1)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PV&lt;/b&gt; 15 (2d8+6)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +2, &lt;b&gt;Vig&lt;/b&gt; +6, &lt;b&gt;Vol&lt;/b&gt; +2
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Immunit&#233;&lt;/b&gt; &#233;lectricit&#233;, son, traits des plantes
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 6 m (4 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; morsure, +2 (1d6), 2 griffes +2 (1d3)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;&#192; distance&lt;/b&gt; vesse-de-loup, +4 (1 plus spores)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaques sp&#233;ciales&lt;/b&gt; spores
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Pouvoirs magiques&lt;/b&gt; (NLS 4 ; concentration +6)
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+Constant—&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Passage-Sans-Traces.html&quot; title=&quot;passage sans trace&quot;&gt;passage sans trace&lt;/a&gt;&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 10, &lt;b&gt;Dex&lt;/b&gt; 15, &lt;b&gt;Con&lt;/b&gt; 16, &lt;b&gt;Int&lt;/b&gt; 7, &lt;b&gt;Sag&lt;/b&gt; 14, &lt;b&gt;Cha&lt;/b&gt; 15
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +1, &lt;b&gt;BMO&lt;/b&gt; +0, &lt;b&gt;DMD&lt;/b&gt; 12
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Combat-En-Aveugle.html&quot; title=&quot;Combat en aveugle&quot;&gt;combat en aveugle&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; +10 (+14 dans les marais et dans les souterrains), &lt;a class=&quot;pagelink&quot; href=&quot;Survie.html&quot; title=&quot;Survie&quot;&gt;Survie&lt;/a&gt; +3 (+7 dans les marais et dans les souterrains) ; &lt;b&gt;Modificateurs raciaux&lt;/b&gt; +4 en &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; et en &lt;a class=&quot;pagelink&quot; href=&quot;Survie.html&quot; title=&quot;Survie&quot;&gt;Survie&lt;/a&gt; dans les marais et dans les souterrains
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Langues&lt;/b&gt; druidique, sylvestre ; langue des plantes (champignon)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Part&lt;/b&gt; changement de forme (arbre de taille P ; forme d’arbre), explosion verdoyante
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; mar&#233;cages ou souterrains
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation sociale&lt;/b&gt; solitaire ou grappe (2-16)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; standard
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Pouvoirs Sp&#233;ciaux&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Spores (Ext).&lt;/b&gt; Le l&#233;chi fongique est plein de moisissures et de spores. Chaque fois qu’il re&#231;oit des d&#233;g&#226;ts, un nuage de spores jaillit de son corps, for&#231;ant toutes les cr&#233;atures adjacentes &#224; faire un jet de &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;Vigueur&quot;&gt;Vigueur&lt;/a&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DEGREDEDIFFICULTE&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; 14 ou &#224; voir leur visibilit&#233; r&#233;duite de 3 m&#232;tres pendant 1 minute. Il suffit de passer un round complet &#224; se nettoyer les yeux &#224; l’eau claire pour que cet effet se dissipe. Le &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DEGREDEDIFFICULTE&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; du &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;jet de sauvegarde&quot;&gt;jet de sauvegarde&lt;/a&gt; est bas&#233; sur la &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#CONSTITUTION&quot; title=&quot;La Constitution&quot;&gt;Constitution&lt;/a&gt;.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Vesse-de-loup (Ext).&lt;/b&gt; Le l&#233;chi fongique peut cracher une vesse-de-loup par une &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions.html#SIMPLE&quot; title=&quot;Action simple&quot;&gt;action simple&lt;/a&gt;. Si elle touche, l’attaque inflige 1 point de d&#233;g&#226;t (non-modifi&#233; par la &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#FORCE&quot; title=&quot;La Force&quot;&gt;Force&lt;/a&gt;) et affecte la cible touch&#233;e (mais pas les cibles adjacentes) par le pouvoir de spores du l&#233;chi fongique. La vesse-de-loup a un facteur de port&#233;e de 6 m&#232;tres.
+&lt;/div&gt;
+&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Faire pousser un L&#233;chi fongique&lt;div style=&quot;float:right;&quot;&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+On fait g&#233;n&#233;ralement pousser les l&#233;chis fongiques dans le compost des bosquets sylvaniens, dans les nids de moisissures des profonds souterrains ou sur les sinistres monticules que l’on trouve au coeur des terrains mar&#233;cageux denses et &#233;pais.
+&lt;/div&gt;
+&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;L&#233;chi fongique&lt;div style=&quot;float:right;&quot;&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;NLS&lt;/b&gt; 8 ; &lt;b&gt;Prix&lt;/b&gt; 2 500 po
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;RITUEL&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Conditions&lt;/b&gt; requises &lt;a class=&quot;pagelink&quot; href=&quot;Connaissances.html&quot; title=&quot;Connaissances&quot;&gt;Connaissances&lt;/a&gt; (nature) 5 rangs, &lt;a class=&quot;pagelink&quot; href=&quot;Brume-De-Dissimulation.html&quot; title=&quot;Brume de dissimulation&quot;&gt;brume de dissimulation&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Convocation-Dalli&#233;s-Naturels-Ii.html&quot; title=&quot;Convocation d&amp;#39;alli&#233;s naturels II&quot;&gt;convocation d’alli&#233;s naturels II&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Croissance-V&#233;g&#233;tale.html&quot; title=&quot;Croissance v&#233;g&#233;tale&quot;&gt;croissance v&#233;g&#233;tale&lt;/a&gt;, 
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Connaissances.html&quot; title=&quot;Connaissances&quot;&gt;Connaissances&lt;/a&gt; (exploration souterraine ou nature) &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DEGREDEDIFFICULTE&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; 14 ; &lt;b&gt;Co&#251;t&lt;/b&gt; 1 250 po
+&lt;/div&gt;&lt;br /&gt;&lt;/div&gt;
+&lt;/td&gt;&lt;td&gt;&lt;div&gt;
+&lt;i&gt;L’&#233;pais chapeau de cette plante en forme de champignon est constell&#233; d’yeux d&#233;pareill&#233;s tandis que sa partie inf&#233;rieure pr&#233;sente une immense gueule pourvue de dents fongiques tr&#232;s p&#226;les.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Gardiens des for&#234;ts de champignons souterraines et des fosses de compost en d&#233;composition au fond des mar&#233;cages, les l&#233;chis fongiques r&#232;gnent sur la croissance souterraine et la d&#233;composition qui alimente la vie nouvelle. Ces tout petits fermiers moisis font partie des plus &#233;tranges et des plus monstrueux des l&#233;chis mais leur apparence effrayante a plus &#224; voir avec l’inqui&#233;tante
+asym&#233;trie intrins&#232;que aux moisissures et aux champignons qu’avec une expression physique du mal. Comme tous leurs semblables, les l&#233;chis fongiques se pr&#233;sentent sous des formes vari&#233;es et adoptent souvent les couleurs et la silhouette de champignons et autres moisissures r&#233;pandues dans les zones qu’ils gardent. &lt;br /&gt;&lt;br /&gt;Les l&#233;chis fongiques sont la prog&#233;niture des royaumes de merveilles souterraines ou des lieux pourrissant du monde naturel. Ils rendent des services essentiels aux terres qu’ils gardent, encourageant la croissance des champignons, transportant les mati&#232;res en d&#233;composition pour fertiliser d’autres plantes et faisant un usage maximal des pousses mortes. Les l&#233;chis fongiques sont surtout actifs de nuit, passant la journ&#233;e sous forme de champignons charnus reposant au milieu de leurs tas de compost ou de leurs vallons fongiques les plus fertiles.&lt;br /&gt;&lt;br /&gt;Les l&#233;chis fongiques mesurent 60 centim&#232;tres de haut et p&#232;sent 12,5 kilos, l’int&#233;rieur de leur corps spongieux &#233;tant rempli de spores creux et duveteux.&lt;br /&gt;&lt;br /&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;br /&gt;]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Léchi fongique|FP 2}
+{s:pucem|Plante|souterrain|Tempéré}
+{s:BDTexte|''Source : Bestiaire 3 page 177''}
+{s:BDTexte|'''PX''' 600}
+{s:BDTexte|[[type Plante|Plante]], , [[sous-type léchi|léchi]], [[sous-type métamorphe|métamorphe]] de taille P, N}
+{s:BDTexte|'''Init''' +2 ; '''Sens''' [[vision dans le noir]] 18 m, [[vision nocturne]] ; [[Perception]] +2}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 13, '''contact''' 13, '''pris au dépourvu''' 11 (Dex +2, taille +1)}
+{s:BDTexte|'''PV''' 15 (2d8+6)}
+{s:BDTexte|'''Réf''' +2, '''Vig''' +6, '''Vol''' +2}
+{s:BDTexte|'''Immunité''' électricité, son, traits des plantes}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 6 m (4 {s:c})}
+{s:BDTexte|'''Corps à corps''' morsure, +2 (1d6), 2 griffes +2 (1d3)}
+{s:BDTexte|'''À distance''' vesse-de-loup, +4 (1 plus spores)}
+{s:BDTexte|'''Attaques spéciales''' spores}
+{s:BDTexte|'''Pouvoirs magiques''' (NLS 4 ; concentration +6)}
+{s:BDSorts|Constant—''[[passage sans trace]]''}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 10, '''Dex''' 15, '''Con''' 16, '''Int''' 7, '''Sag''' 14, '''Cha''' 15}
+{s:BDTexte|'''BBA''' +1, '''BMO''' +0, '''DMD''' 12}
+{s:BDTexte|'''Dons''' [[combat en aveugle]]}
+{s:BDTexte|'''Compétences''' [[Discrétion]] +10 (+14 dans les marais et dans les souterrains), [[Survie]] +3 (+7 dans les marais et dans les souterrains) ; '''Modificateurs raciaux''' +4 en [[Discrétion]] et en [[Survie]] dans les marais et dans les souterrains}
+{s:BDTexte|'''Langues''' druidique, sylvestre ; langue des plantes (champignon)}
+{s:BDTexte|'''Part''' changement de forme (arbre de taille P ; forme d’arbre), explosion verdoyante}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' marécages ou souterrains}
+{s:BDTexte|'''Organisation sociale''' solitaire ou grappe (2-16)}
+{s:BDTexte|'''Trésor''' standard}
+{s:BDSousTitre|Pouvoirs Spéciaux}
+{s:BDTexte|'''Spores (Ext).''' Le léchi fongique est plein de moisissures et de spores. Chaque fois qu’il reçoit des dégâts, un nuage de spores jaillit de son corps, forçant toutes les créatures adjacentes à faire un jet de [[Vigueur]] [[DD]] 14 ou à voir leur visibilité réduite de 3 mètres pendant 1 minute. Il suffit de passer un round complet à se nettoyer les yeux à l’eau claire pour que cet effet se dissipe. Le [[DD]] du [[jet de sauvegarde]] est basé sur la [[Constitution]].}
+{s:BDTexte|'''Vesse-de-loup (Ext).''' Le léchi fongique peut cracher une vesse-de-loup par une [[action simple]]. Si elle touche, l’attaque inflige 1 point de dégât (non-modifié par la [[Force]]) et affecte la cible touchée (mais pas les cibles adjacentes) par le pouvoir de spores du léchi fongique. La vesse-de-loup a un facteur de portée de 6 mètres.}
+</div>
+
+<div class="BD">
+{s:BDTitre|Faire pousser un Léchi fongique}
+{s:BDTexte|On fait généralement pousser les léchis fongiques dans le compost des bosquets sylvaniens, dans les nids de moisissures des profonds souterrains ou sur les sinistres monticules que l’on trouve au coeur des terrains marécageux denses et épais.}
+</div>
+
+<div class="BD">
+{s:BDTitre|Léchi fongique}
+{s:BDTexte|'''NLS''' 8 ; '''Prix''' 2 500 po}
+{s:BDSousTitre|RITUEL}
+{s:BDTexte|'''Conditions''' requises [[Connaissances]] (nature) 5 rangs, [[brume de dissimulation]], [[convocation dalliés naturels II|convocation d’alliés naturels II]], [[croissance végétale]], }
+{s:BDTexte|'''Compétences''' [[Connaissances]] (exploration souterraine ou nature) [[DD]] 14 ; '''Coût''' 1 250 po}
+
+</div>
+</td><td><div>
+''L’épais chapeau de cette plante en forme de champignon est constellé d’yeux dépareillés tandis que sa partie inférieure présente une immense gueule pourvue de dents fongiques très pâles.''
+
+Gardiens des forêts de champignons souterraines et des fosses de compost en décomposition au fond des marécages, les léchis fongiques règnent sur la croissance souterraine et la décomposition qui alimente la vie nouvelle. Ces tout petits fermiers moisis font partie des plus étranges et des plus monstrueux des léchis mais leur apparence effrayante a plus à voir avec l’inquiétante
+asymétrie intrinsèque aux moisissures et aux champignons qu’avec une expression physique du mal. Comme tous leurs semblables, les léchis fongiques se présentent sous des formes variées et adoptent souvent les couleurs et la silhouette de champignons et autres moisissures répandues dans les zones qu’ils gardent. 
+
+Les léchis fongiques sont la progéniture des royaumes de merveilles souterraines ou des lieux pourrissant du monde naturel. Ils rendent des services essentiels aux terres qu’ils gardent, encourageant la croissance des champignons, transportant les matières en décomposition pour fertiliser d’autres plantes et faisant un usage maximal des pousses mortes. Les léchis fongiques sont surtout actifs de nuit, passant la journée sous forme de champignons charnus reposant au milieu de leurs tas de compost ou de leurs vallons fongiques les plus fertiles.
+
+Les léchis fongiques mesurent 60 centimètres de haut et pèsent 12,5 kilos, l’intérieur de leur corps spongieux étant rempli de spores creux et duveteux.
+
+</div></td></tr></table>
+
+]]></raw>
+  <fullName>Pathfinder-RPG.Léchi fongique</fullName>
+</wikiPage>

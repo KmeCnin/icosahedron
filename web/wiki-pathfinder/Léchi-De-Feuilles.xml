@@ -1,0 +1,174 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Léchi de feuilles</title>
+  <categories><category>Pathfinder-RPG.Bestiaire 3</category><category>Pathfinder-RPG.Monstre</category><category>Pathfinder-RPG.Règles officielles</category></categories>
+  <lastModified>2013-10-16 15:03:13Z</lastModified>
+  <version>9</version>
+  <inLinks><link>Pathfinder-RPG.Glossaire des monstres</link><link>Pathfinder-RPG.Léchi</link><link>Pathfinder-RPG.Liste de monstres par FP</link><link>Pathfinder-RPG.Liste de monstres par milieu naturel</link><link>Pathfinder-RPG.Liste de monstres par type</link><link>Pathfinder-RPG.Monstres</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.type Plante</link><link>Pathfinder-RPG.sous-type léchi</link><link>Pathfinder-RPG.sous-type métamorphe</link><link>Pathfinder-RPG.vision dans le noir</link><link>Pathfinder-RPG.vision nocturne</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Assourdi</link><link>Pathfinder-RPG.attaque sournoise</link><link>Pathfinder-RPG.passage sans trace</link><link>Pathfinder-RPG.Attaque en finesse</link><link>Pathfinder-RPG.Discrétion</link><link>Pathfinder-RPG.Survie</link><link>Pathfinder-RPG.Vol</link><link>Pathfinder-RPG.Force</link><link>Pathfinder-RPG.Vigueur</link><link>Pathfinder-RPG.DD</link><link>Pathfinder-RPG.jet de sauvegarde</link><link>Pathfinder-RPG.Constitution</link><link>Pathfinder-RPG.Connaissances</link><link>Pathfinder-RPG.Convocation dalliés naturels I</link><link>Pathfinder-RPG.Croissance végétale</link><link>Pathfinder-RPG.Pierre magique</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;L&#233;chi de feuilles&lt;div style=&quot;float:right;&quot;&gt;FP 1/2&lt;/div&gt;&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Bestiaire 3 page 176&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 200
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Plante.html&quot; title=&quot;Plante&quot;&gt;Plante&lt;/a&gt;, , &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-L&#233;chi.html&quot; title=&quot;L&#233;chi (sous-type)&quot;&gt;l&#233;chi&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-M&#233;tamorphe.html&quot; title=&quot;M&#233;tamorphe (sous-type)&quot;&gt;m&#233;tamorphe&lt;/a&gt; de taille P, N
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +1 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Capacit&#233;s-Sp&#233;ciales.html#VISIONDANSLENOIR&quot; title=&quot;vision dans le noir&quot;&gt;vision dans le noir&lt;/a&gt; 18 m, &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Nocturne-(Capacit&#233;).html&quot; title=&quot;vision nocturne&quot;&gt;vision nocturne&lt;/a&gt; ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +1
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 13, &lt;b&gt;contact&lt;/b&gt; 12, &lt;b&gt;pris au d&#233;pourvu&lt;/b&gt; 12 (armure +1, Dex +1, taille +1)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PV&lt;/b&gt; 5 (1d8+1)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +1, &lt;b&gt;Vig&lt;/b&gt; +3, &lt;b&gt;Vol&lt;/b&gt; +1
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Immunit&#233;&lt;/b&gt; &#233;lectricit&#233;, son, traits des plantes
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 6 m (4 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), vol 3 m (2 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; lance courte, +2 (1d4-2/19-20)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;&#192; distance&lt;/b&gt; cosses, +2 contact (1 plus &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables.html#Assourdi&quot; title=&quot;Assourdi&quot;&gt;assourdissement&lt;/a&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaques sp&#233;ciales&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Roublard.html#ATTAQUESOURNOISE&quot; title=&quot;attaque sournoise&quot;&gt;attaque sournoise&lt;/a&gt; +1d6
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Pouvoirs magiques&lt;/b&gt; (NLS 2 ; concentration +3)
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+Constant—&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Passage-Sans-Traces.html&quot; title=&quot;passage sans trace&quot;&gt;passage sans trace&lt;/a&gt;&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 6, &lt;b&gt;Dex&lt;/b&gt; 13, &lt;b&gt;Con&lt;/b&gt; 12, &lt;b&gt;Int&lt;/b&gt; 5, &lt;b&gt;Sag&lt;/b&gt; 12, &lt;b&gt;Cha&lt;/b&gt; 13
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +0, &lt;b&gt;BMO&lt;/b&gt; -3, &lt;b&gt;DMD&lt;/b&gt; 8
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Attaque-En-Finesse.html&quot; title=&quot;Attaque en finesse&quot;&gt;attaque en finesse&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; +5 (+9 dans les jungles et les for&#234;ts), &lt;a class=&quot;pagelink&quot; href=&quot;Survie.html&quot; title=&quot;Survie&quot;&gt;Survie&lt;/a&gt; +1 (+5 dans les jungles et les for&#234;ts), &lt;a class=&quot;pagelink&quot; href=&quot;Vol.html&quot; title=&quot;Vol&quot;&gt;Vol&lt;/a&gt; -1 ; &lt;b&gt;Modificateurs raciaux&lt;/b&gt; +4 en &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; et en &lt;a class=&quot;pagelink&quot; href=&quot;Survie.html&quot; title=&quot;Survie&quot;&gt;Survie&lt;/a&gt; dans les jungles et les for&#234;ts
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Langues&lt;/b&gt; druidique, sylvestre ; langue des plantes (arbres)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Part&lt;/b&gt; changement de forme (arbre de taille P ; forme d’arbre), explosion verdoyante
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; for&#234;ts ou collines
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation sociale&lt;/b&gt; solitaire ou bosquet (2-16)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; standard
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Pouvoirs Sp&#233;ciaux&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Cosse de graine (Ext).&lt;/b&gt; Le l&#233;chi de feuilles fait pousser des glands, des pommes de pin ou d’autres cosses explosives sur sa personne et peut les lancer pour effectuer des attaques &#224; distance. Ces cosses ont un facteur de port&#233;e de 3 m&#232;tres et explosent au contact, infligeant 1 point de d&#233;g&#226;t contondant (non-modifi&#233; par la &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#FORCE&quot; title=&quot;La Force&quot;&gt;Force&lt;/a&gt;). Quiconque est touch&#233; par une cosse doit r&#233;ussir un jet de &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;Vigueur&quot;&gt;Vigueur&lt;/a&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DEGREDEDIFFICULTE&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; 11 ou &#234;tre &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables.html#Assourdi&quot; title=&quot;Assourdi&quot;&gt;assourdi&lt;/a&gt; pendant 1 round. Le &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DEGREDEDIFFICULTE&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; du &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;jet de sauvegarde&quot;&gt;jet de sauvegarde&lt;/a&gt; est bas&#233; sur la &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#CONSTITUTION&quot; title=&quot;La Constitution&quot;&gt;Constitution&lt;/a&gt;.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Planer (Ext).&lt;/b&gt; Le l&#233;chi de feuilles ne peut pas utiliser sa vitesse de vol pour se maintenir en vol stationnaire. Lorsqu’il vole, le l&#233;chi de feuilles doit terminer son d&#233;placement au moins 1,50 m&#232;tres en dessous de la hauteur de laquelle il est parti.
+&lt;/div&gt;
+&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Faire pousser un L&#233;chi de feuille&lt;div style=&quot;float:right;&quot;&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+Les l&#233;chis de feuilles poussent g&#233;n&#233;ralement &#224; l’ombre des arbres fruitiers ou des arbres &#224; noix. Pour faire pousser un l&#233;chi de feuilles, le cr&#233;ateur doit planter un gland et une pomme de pin ensemble, puis les entourer d’un amas de feuilles, de branches et d’aiguilles. Lorsque na&#238;t un l&#233;chi de feuilles, il n’a ni armure, ni manteau de feuilles, ni armes mais peut les construire &#224; partir des mat&#233;riaux disponibles en une journ&#233;e lorsqu’il est livr&#233; &#224; lui-m&#234;me (aucun test d’Artisanat n’est requis).
+&lt;/div&gt;
+&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;L&#233;chi de feuilles&lt;div style=&quot;float:right;&quot;&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;NLS&lt;/b&gt; 5 ; &lt;b&gt;Prix&lt;/b&gt; 1 000 po
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;RITUEL&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Conditions&lt;/b&gt; requises &lt;a class=&quot;pagelink&quot; href=&quot;Connaissances.html&quot; title=&quot;Connaissances&quot;&gt;Connaissances&lt;/a&gt; (nature) 5 rangs, &lt;a class=&quot;pagelink&quot; href=&quot;Convocation-Dalli&#233;s-Naturels-I.html&quot; title=&quot;Convocation d&amp;#39;alli&#233;s naturels I&quot;&gt;convocation d’alli&#233;s naturels I&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Croissance-V&#233;g&#233;tale.html&quot; title=&quot;Croissance v&#233;g&#233;tale&quot;&gt;croissance v&#233;g&#233;tale&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Pierre-Magique.html&quot; title=&quot;Pierre magique&quot;&gt;pierre magique&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Connaissances.html&quot; title=&quot;Connaissances&quot;&gt;Connaissances&lt;/a&gt; (nature) &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DEGREDEDIFFICULTE&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; 12 ; &lt;b&gt;Co&#251;t&lt;/b&gt; 500 po
+&lt;/div&gt;&lt;br /&gt;&lt;/div&gt;
+&lt;/td&gt;&lt;td&gt;&lt;div&gt;
+&lt;i&gt;Ce petit &#234;tre v&#233;g&#233;tal est rev&#234;tu d’un manteau de feuilles lui dessinant des ailes et d’une armure en pommes de pin. Il brandit une brindille qui lui tient lieu de lance improvis&#233;e.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Les l&#233;chis de feuilles veillent au bien-&#234;tre des arbres, qu’il s’agisse de bosquets naturels ou de vergers cultiv&#233;s. Ils ont
+un corps doux et pulpeux et portent des v&#234;tements compos&#233;s de dizaines de feuilles. Les feuilles les plus grandes couvrent leurs &#233;paules, donnant souvent l’impression qu’ils portent des capes, et la plupart d’entre eux habillent leur t&#234;te relativement lisse de casques constitu&#233;s de pommes de pin, de noix ou d’&#233;corces de fruits. Ces couches de feuilles fonctionnent comme des armures matelass&#233;es de ma&#238;tre pour les l&#233;chis de feuilles, mais pas pour les autres cr&#233;atures.&lt;br /&gt;&lt;br /&gt;Les l&#233;chis de feuilles adorent jouer &#224; la guerre. Lorsqu’ils ne s’occupent pas de leurs arbres, ils convainquent leurs compagnons de se lancer dans de faux duels avec leurs lances de brindille ou se rabattent sur des exercices martiaux solitaires. Lorsqu’ils sont engag&#233;s dans un v&#233;ritable combat, ils se montrent beaucoup plus prudents, restant &#224; couvert et harcelant leurs ennemis avec des attaques &#233;clairs, puisqu’ils ont un instinct de conservation tr&#232;s d&#233;velopp&#233;.&lt;br /&gt;&lt;br /&gt;
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Léchi de feuilles|FP 1/2}
+{s:pucem|Plante|forêt-jungle|Tempéré}
+{s:BDTexte|''Source : Bestiaire 3 page 176''}
+{s:BDTexte|'''PX''' 200}
+{s:BDTexte|[[type Plante|Plante]], , [[sous-type léchi|léchi]], [[sous-type métamorphe|métamorphe]] de taille P, N}
+{s:BDTexte|'''Init''' +1 ; '''Sens''' [[vision dans le noir]] 18 m, [[vision nocturne]] ; [[Perception]] +1}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 13, '''contact''' 12, '''pris au dépourvu''' 12 (armure +1, Dex +1, taille +1)}
+{s:BDTexte|'''PV''' 5 (1d8+1)}
+{s:BDTexte|'''Réf''' +1, '''Vig''' +3, '''Vol''' +1}
+{s:BDTexte|'''Immunité''' électricité, son, traits des plantes}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 6 m (4 {s:c}), vol 3 m (2 {s:c})}
+{s:BDTexte|'''Corps à corps''' lance courte, +2 (1d4-2/19-20)}
+{s:BDTexte|'''À distance''' cosses, +2 contact (1 plus [[assourdi|assourdissement]])}
+{s:BDTexte|'''Attaques spéciales''' [[attaque sournoise]] +1d6}
+{s:BDTexte|'''Pouvoirs magiques''' (NLS 2 ; concentration +3)}
+{s:BDSorts|Constant—''[[passage sans trace]]''}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 6, '''Dex''' 13, '''Con''' 12, '''Int''' 5, '''Sag''' 12, '''Cha''' 13}
+{s:BDTexte|'''BBA''' +0, '''BMO''' -3, '''DMD''' 8}
+{s:BDTexte|'''Dons''' [[attaque en finesse]]}
+{s:BDTexte|'''Compétences''' [[Discrétion]] +5 (+9 dans les jungles et les forêts), [[Survie]] +1 (+5 dans les jungles et les forêts), [[Vol]] -1 ; '''Modificateurs raciaux''' +4 en [[Discrétion]] et en [[Survie]] dans les jungles et les forêts}
+{s:BDTexte|'''Langues''' druidique, sylvestre ; langue des plantes (arbres)}
+{s:BDTexte|'''Part''' changement de forme (arbre de taille P ; forme d’arbre), explosion verdoyante}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' forêts ou collines}
+{s:BDTexte|'''Organisation sociale''' solitaire ou bosquet (2-16)}
+{s:BDTexte|'''Trésor''' standard}
+{s:BDSousTitre|Pouvoirs Spéciaux}
+{s:BDTexte|'''Cosse de graine (Ext).''' Le léchi de feuilles fait pousser des glands, des pommes de pin ou d’autres cosses explosives sur sa personne et peut les lancer pour effectuer des attaques à distance. Ces cosses ont un facteur de portée de 3 mètres et explosent au contact, infligeant 1 point de dégât contondant (non-modifié par la [[Force]]). Quiconque est touché par une cosse doit réussir un jet de [[Vigueur]] [[DD]] 11 ou être [[assourdi]] pendant 1 round. Le [[DD]] du [[jet de sauvegarde]] est basé sur la [[Constitution]].}
+{s:BDTexte|'''Planer (Ext).''' Le léchi de feuilles ne peut pas utiliser sa vitesse de vol pour se maintenir en vol stationnaire. Lorsqu’il vole, le léchi de feuilles doit terminer son déplacement au moins 1,50 mètres en dessous de la hauteur de laquelle il est parti.}
+</div>
+
+<div class="BD">
+{s:BDTitre|Faire pousser un Léchi de feuille}
+{s:BDTexte|Les léchis de feuilles poussent généralement à l’ombre des arbres fruitiers ou des arbres à noix. Pour faire pousser un léchi de feuilles, le créateur doit planter un gland et une pomme de pin ensemble, puis les entourer d’un amas de feuilles, de branches et d’aiguilles. Lorsque naît un léchi de feuilles, il n’a ni armure, ni manteau de feuilles, ni armes mais peut les construire à partir des matériaux disponibles en une journée lorsqu’il est livré à lui-même (aucun test d’Artisanat n’est requis).}
+</div>
+
+<div class="BD">
+{s:BDTitre|Léchi de feuilles}
+{s:BDTexte|'''NLS''' 5 ; '''Prix''' 1 000 po}
+{s:BDSousTitre|RITUEL}
+{s:BDTexte|'''Conditions''' requises [[Connaissances]] (nature) 5 rangs, [[convocation dalliés naturels I|convocation d’alliés naturels I]], [[croissance végétale]], [[pierre magique]]}
+{s:BDTexte|'''Compétences''' [[Connaissances]] (nature) [[DD]] 12 ; '''Coût''' 500 po}
+
+</div>
+</td><td><div>
+''Ce petit être végétal est revêtu d’un manteau de feuilles lui dessinant des ailes et d’une armure en pommes de pin. Il brandit une brindille qui lui tient lieu de lance improvisée.''
+
+Les léchis de feuilles veillent au bien-être des arbres, qu’il s’agisse de bosquets naturels ou de vergers cultivés. Ils ont
+un corps doux et pulpeux et portent des vêtements composés de dizaines de feuilles. Les feuilles les plus grandes couvrent leurs épaules, donnant souvent l’impression qu’ils portent des capes, et la plupart d’entre eux habillent leur tête relativement lisse de casques constitués de pommes de pin, de noix ou d’écorces de fruits. Ces couches de feuilles fonctionnent comme des armures matelassées de maître pour les léchis de feuilles, mais pas pour les autres créatures.
+
+Les léchis de feuilles adorent jouer à la guerre. Lorsqu’ils ne s’occupent pas de leurs arbres, ils convainquent leurs compagnons de se lancer dans de faux duels avec leurs lances de brindille ou se rabattent sur des exercices martiaux solitaires. Lorsqu’ils sont engagés dans un véritable combat, ils se montrent beaucoup plus prudents, restant à couvert et harcelant leurs ennemis avec des attaques éclairs, puisqu’ils ont un instinct de conservation très développé.
+
+
+</div></td></tr></table>
+]]></raw>
+  <fullName>Pathfinder-RPG.Léchi de feuilles</fullName>
+</wikiPage>

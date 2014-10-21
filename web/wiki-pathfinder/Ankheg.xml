@@ -1,0 +1,209 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Ankheg</title>
+  <categories><category>Pathfinder-RPG.Bestiaire</category><category>Pathfinder-RPG.Monstre</category></categories>
+  <lastModified>2013-02-02 13:18:26Z</lastModified>
+  <version>8</version>
+  <inLinks><link>Pathfinder-RPG.Glossaire des monstres</link><link>Pathfinder-RPG.Liste de monstres par FP</link><link>Pathfinder-RPG.Liste de monstres par milieu naturel</link><link>Pathfinder-RPG.Liste de monstres par type</link><link>Pathfinder-RPG.Monstres</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.type Créature magique</link><link>Pathfinder-RPG.Perception des vibrations</link><link>Pathfinder-RPG.vision dans le noir</link><link>Pathfinder-RPG.vision nocturne</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Étreinte</link><link>Pathfinder-RPG.croc-en-jambe</link><link>Pathfinder-RPG.Robustesse</link><link>Pathfinder-RPG.Talent</link><link>Pathfinder-RPG.Escalade</link><link>Pathfinder-RPG.ligne</link><link>Pathfinder-RPG.Réflexes</link><link>Pathfinder-RPG.DD</link><link>Pathfinder-RPG.jet de sauvegarde</link><link>Pathfinder-RPG.Constitution</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Ankheg&lt;div style=&quot;float:right;&quot;&gt;FP 3&lt;/div&gt;&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Bestiaire p.18&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 800
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Cr&#233;ature-Magique.html&quot; title=&quot;Cr&#233;ature magique&quot;&gt;Cr&#233;ature magique&lt;/a&gt; de taille G, N
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +0 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Perception-Des-Vibrations-(Capacit&#233;).html&quot; title=&quot;Perception des vibrations&quot;&gt;perception des vibrations&lt;/a&gt; 18 m (12 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), &lt;a class=&quot;pagelink&quot; href=&quot;Capacit&#233;s-Sp&#233;ciales.html#VISIONDANSLENOIR&quot; title=&quot;vision dans le noir&quot;&gt;vision dans le noir&lt;/a&gt; 18 m (12 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Nocturne-(Capacit&#233;).html&quot; title=&quot;vision nocturne&quot;&gt;vision nocturne&lt;/a&gt; ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +8
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 16, contact 9, pris au d&#233;pourvu 16 (naturelle +7, taille -1)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 28 (3d10+12)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +3, &lt;b&gt;Vig&lt;/b&gt; +6, &lt;b&gt;Vol&lt;/b&gt; +2
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 9 m (6 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), creusement 6 m (4 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; morsure, +5 (2d6+4 et 1d4 acide et &lt;a class=&quot;pagelink&quot; href=&quot;&#201;treinte-(Capacit&#233;).html&quot; title=&quot;&#201;treinte&quot;&gt;&#233;treinte&lt;/a&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Espace&lt;/b&gt; 3 m (2 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) ; &lt;b&gt;Allonge&lt;/b&gt; 1,50 m (1 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaques sp&#233;ciales&lt;/b&gt; crachat d&#39;acide
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 16, &lt;b&gt;Dex&lt;/b&gt; 10, &lt;b&gt;Con&lt;/b&gt; 17, &lt;b&gt;Int&lt;/b&gt; 1, &lt;b&gt;Sag&lt;/b&gt; 13, &lt;b&gt;Cha&lt;/b&gt; 6
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +3, &lt;b&gt;BMO&lt;/b&gt; +7 (+11 lutte), &lt;b&gt;DMD&lt;/b&gt; 17 (25 contre le &lt;a class=&quot;pagelink&quot; href=&quot;Croc-En-Jambe.html&quot; title=&quot;croc-en-jambe&quot;&gt;croc-en-jambe&lt;/a&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Robustesse.html&quot; title=&quot;Robustesse&quot;&gt;Robustesse&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Talent.html&quot; title=&quot;Talent&quot;&gt;Talent&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Escalade.html&quot; title=&quot;Escalade&quot;&gt;Escalade&lt;/a&gt; +8, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +8
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; plaines temp&#233;r&#233;es ou chaudes
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation sociale&lt;/b&gt; solitaire, couple ou nid (3-6)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; fortuit
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Particularit&#233;s&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Crachat d&#39;acide (Ext)&lt;/b&gt; Une fois toutes les 6 heures, un ankheg peut cracher une &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#DEFLIGNE&quot; title=&quot;ligne&quot;&gt;ligne&lt;/a&gt; d&#39;acide de 9 m (6 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) de longueur. Les cr&#233;atures touch&#233;es subissent 4d4 points de d&#233;g&#226;ts d&#39;acide (la moiti&#233; en cas de jet de &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;R&#233;flexes&quot;&gt;R&#233;flexes&lt;/a&gt; r&#233;ussi contre un &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DEGREDEDIFFICULTE&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; de 14). L&#39;ankheg doit alors attendre 6 heures avant de pouvoir utiliser cette attaque &#224; nouveau et, pendant cette p&#233;riode d&#39;attente, sa morsure n&#39;inflige pas de d&#233;g&#226;ts d&#39;acide suppl&#233;mentaires. C&#39;est pour cela que les ankhegs utilisent cette capacit&#233; uniquement lorsqu&#39;ils sont d&#233;sesp&#233;r&#233;s ou contrari&#233;s (g&#233;n&#233;ralement lorsqu&#39;ils ont perdu plus de la moiti&#233; de leurs points de vie ou qu&#39;ils ont &#233;t&#233; incapables d&#39;agripper leur adversaire). Le &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DEGREDEDIFFICULTE&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; du &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;jet de sauvegarde&quot;&gt;jet de sauvegarde&lt;/a&gt; d&#233;pend de la &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#CONSTITUTION&quot; title=&quot;La Constitution&quot;&gt;Constitution&lt;/a&gt;.
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;td&gt;&lt;div&gt;&lt;i&gt;Ce monstre enfouisseur insecto&#239;de avance sur six pattes. Une bave verd&#226;tre et acide coule entre ses mandibules qui s’entrechoquent.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Les ankhegs sont un fl&#233;au qui s’abat bien trop souvent sur les
+r&#233;gions rurales. Ces monstres enfouisseurs de la taille d’un cheval
+&#233;vitent g&#233;n&#233;ralement les zones &#224; forte densit&#233; de population
+comme les villes, mais leur go&#251;t prononc&#233; pour le b&#233;tail et la chair
+d’humano&#239;de ne leur permet pas non plus de rester dans les &#233;tendues
+sauvages et inhabit&#233;es. &lt;br /&gt;&lt;br /&gt;Les fermes rurales constituent leur milieu
+naturel de pr&#233;dilection car ils peuvent se d&#233;placer facilement
+dans le sol relativement meuble qu’on y trouve. Certains r&#233;cits
+parlent d’ankhegs encore plus grands qui vivraient dans les
+d&#233;serts isol&#233;s et qui se nourriraient principalement
+de scorpions g&#233;ants et de chameaux et ils ne
+rentreraient que rarement en contact avec la civilisation tant ces endroits sont recul&#233;s. (Un ankheg du d&#233;sert est
+un ankheg &#233;volu&#233; de taille TG).&lt;br /&gt;&lt;br /&gt;En combat, les ankhegs pr&#233;f&#232;rent attaquer &#224; l’aide de leur
+mandibules. Lorsqu’ils ont affaire &#224; plusieurs adversaires, ils
+agrippent g&#233;n&#233;ralement une cible &#224; leur port&#233;e puis tentent de
+battre en retraite vers un endroit s&#251;r en creusant dans le sol. Les
+cr&#233;atures emport&#233;es sous terre ne risquent pas de suffoquer m&#234;me
+si la respiration y est difficile (l’ankheg lui aussi a besoin de respirer
+et ses tunnels sont relativement poreux). Cependant, elles sont bien
+souvent d&#233;vor&#233;es vivantes avant que leurs alli&#233;s ne puissent les sauver.&lt;br /&gt;&lt;br /&gt;Les ankhegs creusent &#224; l’aide de leurs pattes et de leurs
+mandibules, ce qui leur permet de se d&#233;placer &#233;tonnamment vite
+&#224; travers les sols meubles, le sable, les gravillons et les mat&#233;riaux
+similaires (ils ne peuvent toutefois pas creuser dans la roche). En
+plus de l’acide, ils peuvent &#233;galement d&#233;verser par la bouche une
+s&#233;cr&#233;tion plus &#233;paisse et moins caustique qui leur permet de
+renforcer les parois de leurs tunnels. &lt;br /&gt;&lt;br /&gt;Les ankhegs qui fa&#231;onnent des tunnels permanents doivent se d&#233;placer &#224; la moiti&#233; de leur vitesse
+de creusement. Les tunnels d’ankhegs mesurent g&#233;n&#233;ralement
+3 m&#232;tres en hauteur et en largeur, poss&#232;dent une section
+approximativement circulaire et s’&#233;tendent sur une longueur
+variant entre 18 m&#232;tres et 45 m&#232;tres (1d10+5 fois 1,50 m). &lt;br /&gt;&lt;br /&gt;Les ankhegs se rassemblent souvent en groupes dans un m&#234;me territoire et
+fa&#231;onnent des r&#233;seaux complexes de tunnels qui serpentent sous
+les terres agricoles, provoquant parfois des affaissements de terrain
+lorsqu’ils sont trop nombreux &#224; creuser en m&#234;me temps.&lt;br /&gt;&lt;br /&gt;Les ankhegs ressemblent &#224; des vermines g&#233;antes mais sont en
+fait beaucoup plus intelligents qu’une araign&#233;e moyenne. Avec
+suffisamment de temps et un entra&#238;neur dou&#233;, ils peuvent &#234;tre
+dress&#233;s pour servir de montures ou d’animaux de trait. &lt;br /&gt;&lt;br /&gt;M&#234;me &#171; domestiqu&#233;s &#187;, les ankhegs ont
+tendance &#224; cracher de l’acide
+lorsqu’ils sont effray&#233;s ou surpris,
+ce qui reste dangereux dans les r&#233;gions &#224;
+forte population. Cela n’emp&#234;che pas les races
+les plus sauvages comme les hobgobelins, les
+troglodytes et plus particuli&#232;rement les orques
+de les utiliser comme protecteurs ou comme animaux familiers.
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Ankheg|FP 3}
+{s:pucem|Créature magique|Plaines|Tempéré}
+{s:BDTexte|''Source : Bestiaire p.18''}
+{s:BDTexte|'''PX''' 800}
+{s:BDTexte|[[type Créature magique|Créature magique]] de taille G, N}
+{s:BDTexte|'''Init''' +0 ; '''Sens''' [[perception des vibrations]] 18 m (12 {s:c}), [[vision dans le noir]] 18 m (12 {s:c}), [[vision nocturne]] ; [[Perception]] +8}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 16, contact 9, pris au dépourvu 16 (naturelle +7, taille -1)}
+{s:BDTexte|'''pv''' 28 (3d10+12)}
+{s:BDTexte|'''Réf''' +3, '''Vig''' +6, '''Vol''' +2}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 9 m (6 {s:c}), creusement 6 m (4 {s:c})}
+{s:BDTexte|'''Corps à corps''' morsure, +5 (2d6+4 et 1d4 acide et [[étreinte]])}
+{s:BDTexte|'''Espace''' 3 m (2 {s:c}) ; '''Allonge''' 1,50 m (1 {s:c})}
+{s:BDTexte|'''Attaques spéciales''' crachat d'acide}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 16, '''Dex''' 10, '''Con''' 17, '''Int''' 1, '''Sag''' 13, '''Cha''' 6}
+{s:BDTexte|'''BBA''' +3, '''BMO''' +7 (+11 lutte), '''DMD''' 17 (25 contre le [[croc-en-jambe]])}
+{s:BDTexte|'''Dons''' [[Robustesse]], [[Talent]] ([[Perception]])}
+{s:BDTexte|'''Compétences''' [[Escalade]] +8, [[Perception]] +8}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' plaines tempérées ou chaudes}
+{s:BDTexte|'''Organisation sociale''' solitaire, couple ou nid (3-6)}
+{s:BDTexte|'''Trésor''' fortuit}
+{s:BDSousTitre|Particularités}
+{s:BDTexte|'''Crachat d'acide (Ext)''' Une fois toutes les 6 heures, un ankheg peut cracher une [[ligne]] d'acide de 9 m (6 {s:c}) de longueur. Les créatures touchées subissent 4d4 points de dégâts d'acide (la moitié en cas de jet de [[Réflexes]] réussi contre un [[DD]] de 14). L'ankheg doit alors attendre 6 heures avant de pouvoir utiliser cette attaque à nouveau et, pendant cette période d'attente, sa morsure n'inflige pas de dégâts d'acide supplémentaires. C'est pour cela que les ankhegs utilisent cette capacité uniquement lorsqu'ils sont désespérés ou contrariés (généralement lorsqu'ils ont perdu plus de la moitié de leurs points de vie ou qu'ils ont été incapables d'agripper leur adversaire). Le [[DD]] du [[jet de sauvegarde]] dépend de la [[Constitution]].}
+</div>
+</td><td><div>''Ce monstre enfouisseur insectoïde avance sur six pattes. Une bave verdâtre et acide coule entre ses mandibules qui s’entrechoquent.''
+
+Les ankhegs sont un fléau qui s’abat bien trop souvent sur les
+régions rurales. Ces monstres enfouisseurs de la taille d’un cheval
+évitent généralement les zones à forte densité de population
+comme les villes, mais leur goût prononcé pour le bétail et la chair
+d’humanoïde ne leur permet pas non plus de rester dans les étendues
+sauvages et inhabitées. 
+
+Les fermes rurales constituent leur milieu
+naturel de prédilection car ils peuvent se déplacer facilement
+dans le sol relativement meuble qu’on y trouve. Certains récits
+parlent d’ankhegs encore plus grands qui vivraient dans les
+déserts isolés et qui se nourriraient principalement
+de scorpions géants et de chameaux et ils ne
+rentreraient que rarement en contact avec la civilisation tant ces endroits sont reculés. (Un ankheg du désert est
+un ankheg évolué de taille TG).
+
+En combat, les ankhegs préfèrent attaquer à l’aide de leur
+mandibules. Lorsqu’ils ont affaire à plusieurs adversaires, ils
+agrippent généralement une cible à leur portée puis tentent de
+battre en retraite vers un endroit sûr en creusant dans le sol. Les
+créatures emportées sous terre ne risquent pas de suffoquer même
+si la respiration y est difficile (l’ankheg lui aussi a besoin de respirer
+et ses tunnels sont relativement poreux). Cependant, elles sont bien
+souvent dévorées vivantes avant que leurs alliés ne puissent les sauver.
+
+Les ankhegs creusent à l’aide de leurs pattes et de leurs
+mandibules, ce qui leur permet de se déplacer étonnamment vite
+à travers les sols meubles, le sable, les gravillons et les matériaux
+similaires (ils ne peuvent toutefois pas creuser dans la roche). En
+plus de l’acide, ils peuvent également déverser par la bouche une
+sécrétion plus épaisse et moins caustique qui leur permet de
+renforcer les parois de leurs tunnels. 
+
+Les ankhegs qui façonnent des tunnels permanents doivent se déplacer à la moitié de leur vitesse
+de creusement. Les tunnels d’ankhegs mesurent généralement
+3 mètres en hauteur et en largeur, possèdent une section
+approximativement circulaire et s’étendent sur une longueur
+variant entre 18 mètres et 45 mètres (1d10+5 fois 1,50 m). 
+
+Les ankhegs se rassemblent souvent en groupes dans un même territoire et
+façonnent des réseaux complexes de tunnels qui serpentent sous
+les terres agricoles, provoquant parfois des affaissements de terrain
+lorsqu’ils sont trop nombreux à creuser en même temps.
+
+Les ankhegs ressemblent à des vermines géantes mais sont en
+fait beaucoup plus intelligents qu’une araignée moyenne. Avec
+suffisamment de temps et un entraîneur doué, ils peuvent être
+dressés pour servir de montures ou d’animaux de trait. 
+
+Même « domestiqués », les ankhegs ont
+tendance à cracher de l’acide
+lorsqu’ils sont effrayés ou surpris,
+ce qui reste dangereux dans les régions à
+forte population. Cela n’empêche pas les races
+les plus sauvages comme les hobgobelins, les
+troglodytes et plus particulièrement les orques
+de les utiliser comme protecteurs ou comme animaux familiers.
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Ankheg</fullName>
+</wikiPage>

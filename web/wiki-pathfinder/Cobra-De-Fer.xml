@@ -1,0 +1,158 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Cobra de fer</title>
+  <categories><category>Pathfinder-RPG.Bestiaire</category><category>Pathfinder-RPG.Monstre</category></categories>
+  <lastModified>2013-02-02 18:35:24Z</lastModified>
+  <version>9</version>
+  <inLinks><link>Pathfinder-RPG.Créatures artificielles</link><link>Pathfinder-RPG.Glossaire des monstres</link><link>Pathfinder-RPG.Liste de monstres par FP</link><link>Pathfinder-RPG.Liste de monstres par milieu naturel</link><link>Pathfinder-RPG.Liste de monstres par type</link><link>Pathfinder-RPG.Monstres</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.type Créature artificielle</link><link>Pathfinder-RPG.vision dans le noir</link><link>Pathfinder-RPG.vision nocturne</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Traits des créatures artificielles</link><link>Pathfinder-RPG.Discrétion</link><link>Pathfinder-RPG.Localisation suprême</link><link>Pathfinder-RPG.attaque dopportunité</link><link>Pathfinder-RPG.Vigueur</link><link>Pathfinder-RPG.DD</link><link>Pathfinder-RPG.affaiblissement temporaire</link><link>Pathfinder-RPG.Constitution</link><link>Pathfinder-RPG.RD</link><link>Pathfinder-RPG.Dextérité</link><link>Pathfinder-RPG.attaque à outrance</link><link>Pathfinder-RPG.Création de créatures artificielles</link><link>Pathfinder-RPG.Animation dobjets</link><link>Pathfinder-RPG.Quête</link><link>Pathfinder-RPG.Artisanat</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Cobra de fer&lt;div style=&quot;float:right;&quot;&gt;FP 2&lt;/div&gt;&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Bestiaire p.47&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 600
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Cr&#233;ature-Artificielle.html&quot; title=&quot;Cr&#233;ature artificielle&quot;&gt;Cr&#233;ature artificielle&lt;/a&gt; de taille P, N
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +2 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Capacit&#233;s-Sp&#233;ciales.html#VISIONDANSLENOIR&quot; title=&quot;vision dans le noir&quot;&gt;vision dans le noir&lt;/a&gt; 18 m (12 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Nocturne-(Capacit&#233;).html&quot; title=&quot;vision nocturne&quot;&gt;vision nocturne&lt;/a&gt; ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +0
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 20, contact 13, pris au d&#233;pourvu 18 (Dex +2, naturelle +7, taille +1)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 15 (1d10+10)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +2, &lt;b&gt;Vig&lt;/b&gt; +0, &lt;b&gt;Vol&lt;/b&gt; +0
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Immunit&#233;s&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Traits-Des-Cr&#233;atures-Artificielles-(Capacit&#233;).html&quot; title=&quot;Traits des cr&#233;atures artificielles&quot;&gt;traits des cr&#233;atures artificielles&lt;/a&gt; ; &lt;b&gt;RD&lt;/b&gt; 5/— ; &lt;b&gt;RM&lt;/b&gt; 13 
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 12 m (8 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; morsure +3 (1d6+1 et poison)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 12, &lt;b&gt;Dex&lt;/b&gt; 15, &lt;b&gt;Con&lt;/b&gt; -, &lt;b&gt;Int&lt;/b&gt; -, &lt;b&gt;Sag&lt;/b&gt; 11, &lt;b&gt;Cha&lt;/b&gt; 1
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +1, &lt;b&gt;BMO&lt;/b&gt; +1, &lt;b&gt;DMD&lt;/b&gt; 13 (croc-en-jambe impossible)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; +12 ; &lt;b&gt;Modificateurs raciaux&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; +6
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Particularit&#233;s&lt;/b&gt; localisation de cible
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; tous
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation sociale&lt;/b&gt; solitaire, couple ou nid (3-10)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; aucun
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Particularit&#233;s&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Localisation de cible (Sur)&lt;/b&gt; Une fois par jour, le cr&#233;ateur d&#39;un cobra de fer peut lui ordonner de trouver et de tuer une cr&#233;ature sp&#233;cifique situ&#233;e &#224; moins de 1,5 km. Le cobra ex&#233;cute cet ordre comme s&#39;il &#233;tait guid&#233; par un sort de &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Localisation-Supr&#234;me.html&quot; title=&quot;Localisation supr&#234;me&quot;&gt;localisation supr&#234;me&lt;/a&gt;&lt;/i&gt;. Le cr&#233;ateur doit avoir vu la cible ou poss&#233;der un objet provenant d&#39;elle pour que l&#39;ordre fonctionne.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Poison (Ext)&lt;/b&gt; la morsure d&#39;un cobra de fer injecte un poison provenant d&#39;un r&#233;servoir cach&#233; dans son corps. Comme il s&#39;agit d&#39;une &lt;a class=&quot;pagelink&quot; href=&quot;Type-Cr&#233;ature-Artificielle.html&quot; title=&quot;Cr&#233;ature artificielle&quot;&gt;cr&#233;ature artificielle&lt;/a&gt;, le cobra de fer ne produit pas ce poison par un proc&#233;d&#233; naturel : son cr&#233;ateur doit remplir le r&#233;servoir manuellement. Le r&#233;servoir contient assez de poison pour 3 attaques de morsure r&#233;ussies. Apr&#232;s cela, le cobra n&#39;inflige plus que des d&#233;g&#226;ts de morsure. Il faut 5 rounds pour remplir le r&#233;servoir et cette action provoque des &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#ATTAQUEDOPPORTUNITE&quot; title=&quot;attaque d&amp;#39;opportunit&#233;&quot;&gt;attaques d&#39;opportunit&#233;&lt;/a&gt;. Le cr&#233;ateur peut remplir le r&#233;servoir avec n&#39;importe quel poison transmissible par blessure. Il s&#39;agit g&#233;n&#233;ralement de venin de vip&#232;re &#224; t&#234;te noire mais certains cr&#233;ateurs ont d&#233;j&#224; utilis&#233; de l&#39;acide, des substances alchimiques ou m&#234;me des liquides encore plus &#233;tranges. &lt;i&gt;Venin de vip&#232;re &#224; t&#234;te noire.&lt;/i&gt; Morsure - blessure ; &lt;i&gt;JS&lt;/i&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;Vigueur&quot;&gt;Vigueur&lt;/a&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DEGREDEDIFFICULTE&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; 11 ; &lt;i&gt;fr&#233;quence&lt;/i&gt; 1/round pendant 6 rounds ; &lt;i&gt;effet&lt;/i&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Affaiblissement-Temporaire-(Capacit&#233;).html&quot; title=&quot;affaiblissement temporaire&quot;&gt;affaiblissement temporaire&lt;/a&gt; 1d2 &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#CONSTITUTION&quot; title=&quot;La Constitution&quot;&gt;Constitution&lt;/a&gt; ; &lt;i&gt;gu&#233;rison&lt;/i&gt; 1 r&#233;ussite.
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;td&gt;&lt;div&gt;&lt;i&gt;Le corps de ce petit cobra m&#233;tallique est constitu&#233; de plaques de fer
+superpos&#233;es. Ses yeux sont de minuscules points de lumi&#232;re rouge.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Le cobra de fer est une cr&#233;ature artificielle relativement simple
+qui ressemble &#224; un cobra de m&#233;tal. Ces cobras servent souvent
+de gardes du corps ou de protecteurs de tr&#233;sor mais
+la capacit&#233; magique qui leur permet de localiser
+pr&#233;cis&#233;ment des cr&#233;atures en fait &#233;galement de
+bons assassins. Comme le r&#233;servoir &#224; poison
+d’un cobra de fer peut contenir plusieurs types de venins, on peut
+utiliser des poisons diff&#233;rents selon les missions &#224; accomplir.&lt;br /&gt;&lt;br /&gt;Certains lanceurs de sorts remplissent m&#234;me ces r&#233;servoirs avec
+des potions, de sorte que le cobra injecte le liquide magique dans
+la cible qu’il mord. C’est une m&#233;thode assez dangereuse pour
+tirer parti des effets d’une potion, mais cela permet au ma&#238;tre du
+cobra de consacrer son round &#224; autre chose qu’&#224; avaler le pr&#233;cieux
+breuvage.&lt;br /&gt;&lt;br /&gt;&lt;h3 class=&quot;separator&quot;&gt;Autres types d&#39;automates serpentins&lt;a class=&quot;headeranchor&quot; id=&quot;Autres_types_dautomates_serpentins_0&quot; href=&quot;#Autres_types_dautomates_serpentins_0&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;
+&lt;b&gt;Cobra d&#39;adamantium (FP+1).&lt;/b&gt; Ce cobra est plus solide que les autres. Son bonus d&#39;armure naturelle passe &#224; +12, il gagne 5 pv par DV et une &lt;a class=&quot;pagelink&quot; href=&quot;R&#233;duction-De-D&#233;g&#226;ts-(Capacit&#233;).html&quot; title=&quot;RD&quot;&gt;RD&lt;/a&gt; 10/-.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Cobra d&#39;&#233;b&#233;nite (FP+0).&lt;/b&gt; Ce cobra est plus mobile. Il gagne une vitesse de nage de 9 m (6 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) et une vitesse d&#39;escalade de 6 m (4 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;).&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Cobra en fer froid (FP+0).&lt;/b&gt; L&#39;attaque de ce cobra est consid&#233;r&#233;e en fer froid pour passer les &#233;ventuelles &lt;a class=&quot;pagelink&quot; href=&quot;R&#233;duction-De-D&#233;g&#226;ts-(Capacit&#233;).html&quot; title=&quot;RD&quot;&gt;RD&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Cobra de mithral (FP+1).&lt;/b&gt; Ce cobra est beaucoup plus rapide. Sa &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#DEXTERITE&quot; title=&quot;La Dext&#233;rit&#233;&quot;&gt;Dext&#233;rit&#233;&lt;/a&gt; augmente de +4 et sa vitesse passe &#224; 21 m (14 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;). Il peut &#233;galement porter 2 attaques de morsure par round lors d&#39;une action d&#39;&lt;a class=&quot;pagelink&quot; href=&quot;Actions-Complexes.html#ATTAQUEAOUTRANCE&quot; title=&quot;attaque &#224; outrance&quot;&gt;attaque &#224; outrance&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;&lt;h3 class=&quot;separator&quot;&gt;Construction&lt;a class=&quot;headeranchor&quot; id=&quot;Construction_1&quot; href=&quot;#Construction_1&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;
+&lt;b&gt;NLS&lt;/b&gt; 7&lt;sup&gt;e&lt;/sup&gt; ; &lt;b&gt;Prix&lt;/b&gt; 4.000 PO (fer) ; 20.000 PO (adamantium) ; 5.000 PO (&#233;b&#233;nite) ; 8.000 PO (fer froid) ou 10.000 PO (mithral)}&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Conditions&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;ation-De-Cr&#233;atures-Artificielles.html&quot; title=&quot;Cr&#233;ation de cr&#233;atures artificielles&quot;&gt;Cr&#233;ation de cr&#233;atures artificielles&lt;/a&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Animation-Dobjets.html&quot; title=&quot;Animation d&amp;#39;objets&quot;&gt;animation d&#39;objets&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Localisation-Supr&#234;me.html&quot; title=&quot;Localisation supr&#234;me&quot;&gt;localisation supr&#234;me&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Qu&#234;te.html&quot; title=&quot;Qu&#234;te&quot;&gt;qu&#234;te&lt;/a&gt;&lt;/i&gt; ; &lt;b&gt;Comp&#233;tence&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Artisanat.html&quot; title=&quot;Artisanat&quot;&gt;Artisanat&lt;/a&gt; (armure), &lt;a class=&quot;pagelink&quot; href=&quot;Artisanat.html&quot; title=&quot;Artisanat&quot;&gt;Artisanat&lt;/a&gt; (menuiserie [pour les cobras d&#39;&#233;b&#233;nite uniquement]) ou &lt;a class=&quot;pagelink&quot; href=&quot;Artisanat.html&quot; title=&quot;Artisanat&quot;&gt;Artisanat&lt;/a&gt; (travail de la forge) &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DEGREDEDIFFICULTE&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; 15 ; &lt;b&gt;Co&#251;t&lt;/b&gt; 2.000 po (fer) ; 10.000 po (adamantium) ; 2.500 PO (&#233;b&#233;nite) ; 4.000 po (fer froid) ; 5.000 po (mithral)
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Cobra de fer|FP 2}
+{s:pucem|Créature artificielle|Ruines-Donjons|Tempéré}
+{s:BDTexte|''Source : Bestiaire p.47''}
+{s:BDTexte|'''PX''' 600}
+{s:BDTexte|[[type Créature artificielle|Créature artificielle]] de taille P, N}
+{s:BDTexte|'''Init''' +2 ; '''Sens''' [[vision dans le noir]] 18 m (12 {s:c}), [[vision nocturne]] ; [[Perception]] +0}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 20, contact 13, pris au dépourvu 18 (Dex +2, naturelle +7, taille +1)}
+{s:BDTexte|'''pv''' 15 (1d10+10)}
+{s:BDTexte|'''Réf''' +2, '''Vig''' +0, '''Vol''' +0}
+{s:BDTexte|'''Immunités''' [[traits des créatures artificielles]] ; '''RD''' 5/— ; '''RM''' 13 }
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 12 m (8 {s:c})}
+{s:BDTexte|'''Corps à corps''' morsure +3 (1d6+1 et poison)}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 12, '''Dex''' 15, '''Con''' -, '''Int''' -, '''Sag''' 11, '''Cha''' 1}
+{s:BDTexte|'''BBA''' +1, '''BMO''' +1, '''DMD''' 13 (croc-en-jambe impossible)}
+{s:BDTexte|'''Compétences''' [[Discrétion]] +12 ; '''Modificateurs raciaux''' [[Discrétion]] +6}
+{s:BDTexte|'''Particularités''' localisation de cible}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' tous}
+{s:BDTexte|'''Organisation sociale''' solitaire, couple ou nid (3-10)}
+{s:BDTexte|'''Trésor''' aucun}
+{s:BDSousTitre|Particularités}
+{s:BDTexte|'''Localisation de cible (Sur)''' Une fois par jour, le créateur d'un cobra de fer peut lui ordonner de trouver et de tuer une créature spécifique située à moins de 1,5 km. Le cobra exécute cet ordre comme s'il était guidé par un sort de ''[[localisation suprême]]''. Le créateur doit avoir vu la cible ou posséder un objet provenant d'elle pour que l'ordre fonctionne.}
+{s:BDTexte|'''Poison (Ext)''' la morsure d'un cobra de fer injecte un poison provenant d'un réservoir caché dans son corps. Comme il s'agit d'une [[type Créature artificielle|créature artificielle]], le cobra de fer ne produit pas ce poison par un procédé naturel : son créateur doit remplir le réservoir manuellement. Le réservoir contient assez de poison pour 3 attaques de morsure réussies. Après cela, le cobra n'inflige plus que des dégâts de morsure. Il faut 5 rounds pour remplir le réservoir et cette action provoque des [[attaque dopportunité|attaques d'opportunité]]. Le créateur peut remplir le réservoir avec n'importe quel poison transmissible par blessure. Il s'agit généralement de venin de vipère à tête noire mais certains créateurs ont déjà utilisé de l'acide, des substances alchimiques ou même des liquides encore plus étranges. ''Venin de vipère à tête noire.'' Morsure - blessure ; ''JS'' [[Vigueur]] [[DD]] 11 ; ''fréquence'' 1/round pendant 6 rounds ; ''effet'' [[affaiblissement temporaire]] 1d2 [[Constitution]] ; ''guérison'' 1 réussite.}
+</div>
+</td><td><div>''Le corps de ce petit cobra métallique est constitué de plaques de fer
+superposées. Ses yeux sont de minuscules points de lumière rouge.''
+
+Le cobra de fer est une créature artificielle relativement simple
+qui ressemble à un cobra de métal. Ces cobras servent souvent
+de gardes du corps ou de protecteurs de trésor mais
+la capacité magique qui leur permet de localiser
+précisément des créatures en fait également de
+bons assassins. Comme le réservoir à poison
+d’un cobra de fer peut contenir plusieurs types de venins, on peut
+utiliser des poisons différents selon les missions à accomplir.
+
+Certains lanceurs de sorts remplissent même ces réservoirs avec
+des potions, de sorte que le cobra injecte le liquide magique dans
+la cible qu’il mord. C’est une méthode assez dangereuse pour
+tirer parti des effets d’une potion, mais cela permet au maître du
+cobra de consacrer son round à autre chose qu’à avaler le précieux
+breuvage.
+
+====Autres types d'automates serpentins====
+
+'''Cobra d'adamantium (FP+1).''' Ce cobra est plus solide que les autres. Son bonus d'armure naturelle passe à +12, il gagne 5 pv par DV et une [[RD]] 10/-.
+
+'''Cobra d'ébénite (FP+0).''' Ce cobra est plus mobile. Il gagne une vitesse de nage de 9 m (6 {s:c}) et une vitesse d'escalade de 6 m (4 {s:c}).
+
+'''Cobra en fer froid (FP+0).''' L'attaque de ce cobra est considérée en fer froid pour passer les éventuelles [[RD]].
+
+'''Cobra de mithral (FP+1).''' Ce cobra est beaucoup plus rapide. Sa [[Dextérité]] augmente de +4 et sa vitesse passe à 21 m (14 {s:c}). Il peut également porter 2 attaques de morsure par round lors d'une action d'[[attaque à outrance]].
+
+====Construction====
+
+'''NLS''' 7<sup>e</sup> ; '''Prix''' 4.000 PO (fer) ; 20.000 PO (adamantium) ; 5.000 PO (ébénite) ; 8.000 PO (fer froid) ou 10.000 PO (mithral)}
+
+'''Conditions''' [[Création de créatures artificielles]], ''[[animation dobjets|animation d'objets]]'', ''[[localisation suprême]]'', ''[[quête]]'' ; '''Compétence''' [[Artisanat]] (armure), [[Artisanat]] (menuiserie <nowiki>[</nowiki>pour les cobras d'ébénite uniquement<nowiki>]</nowiki>) ou [[Artisanat]] (travail de la forge) [[DD]] 15 ; '''Coût''' 2.000 po (fer) ; 10.000 po (adamantium) ; 2.500 PO (ébénite) ; 4.000 po (fer froid) ; 5.000 po (mithral)
+</div></td></tr></table>
+]]></raw>
+  <fullName>Pathfinder-RPG.Cobra de fer</fullName>
+</wikiPage>

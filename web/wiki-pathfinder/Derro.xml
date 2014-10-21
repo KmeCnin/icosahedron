@@ -1,0 +1,233 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Derro</title>
+  <categories><category>Pathfinder-RPG.Bestiaire</category><category>Pathfinder-RPG.Monstre</category></categories>
+  <lastModified>2013-02-06 21:21:02Z</lastModified>
+  <version>6</version>
+  <inLinks><link>Pathfinder-RPG.Glossaire des monstres</link><link>Pathfinder-RPG.Linguistique</link><link>Pathfinder-RPG.Liste de monstres par FP</link><link>Pathfinder-RPG.Liste de monstres par milieu naturel</link><link>Pathfinder-RPG.Liste de monstres par type</link><link>Pathfinder-RPG.Monstres</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.type Humanoïde</link><link>Pathfinder-RPG.vision dans le noir</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.attaque sournoise</link><link>Pathfinder-RPG.Son imaginaire</link><link>Pathfinder-RPG.Ténèbres</link><link>Pathfinder-RPG.Cacophonie</link><link>Pathfinder-RPG.Hébétement</link><link>Pathfinder-RPG.Attaque en finesse</link><link>Pathfinder-RPG.Science de linitiative</link><link>Pathfinder-RPG.Discrétion</link><link>Pathfinder-RPG.Ensorceleur</link><link>Pathfinder-RPG.PNJ</link><link>Pathfinder-RPG.Charisme</link><link>Pathfinder-RPG.Sagesse</link><link>Pathfinder-RPG.Volonté</link><link>Pathfinder-RPG.Miracle</link><link>Pathfinder-RPG.Souhait</link><link>Pathfinder-RPG.Poisons</link><link>Pathfinder-RPG.taille M</link><link>Pathfinder-RPG.affaiblissement temporaire</link><link>Pathfinder-RPG.Constitution</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Derro&lt;div style=&quot;float:right;&quot;&gt;FP 3&lt;/div&gt;&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Bestiaire p.73&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 800
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Humano&#239;de.html&quot; title=&quot;Humano&#239;de&quot;&gt;Humano&#239;de&lt;/a&gt; (derro) de taille P, CM
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +6 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Capacit&#233;s-Sp&#233;ciales.html#VISIONDANSLENOIR&quot; title=&quot;vision dans le noir&quot;&gt;vision dans le noir&lt;/a&gt; 18 m (12 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +0
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 17, contact 13, pris au d&#233;pourvu 15 (armure +2, Dex +2, naturelle +2, taille +1)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 25 (3d8+12)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +3, &lt;b&gt;Vig&lt;/b&gt; +5, &lt;b&gt;Vol&lt;/b&gt; +6
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;RM&lt;/b&gt; 14 
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Faiblesses&lt;/b&gt; vuln&#233;rabilit&#233; &#224; la lumi&#232;re du soleil
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 6 m (4 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; &#233;p&#233;e courte +5 (1d4) ou aclys +5 (1d6)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Distance&lt;/b&gt; arbal&#232;te l&#233;g&#232;re &#224; r&#233;p&#233;tition +5 (1d6/19-20 et poison) ou aclys +5 (1d6)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaques sp&#233;ciales&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Roublard.html#ATTAQUESOURNOISE&quot; title=&quot;attaque sournoise&quot;&gt;attaque sournoise&lt;/a&gt; +1d6
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Pouvoirs magiques&lt;/b&gt; (NLS 3&lt;sup&gt;e&lt;/sup&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+&#192; volont&#233; — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Son-Imaginaire.html&quot; title=&quot;Son imaginaire&quot;&gt;son imaginaire&lt;/a&gt;&lt;/i&gt; (DD 13), &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;T&#233;n&#232;bres.html&quot; title=&quot;T&#233;n&#232;bres&quot;&gt;t&#233;n&#232;bres&lt;/a&gt;&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+1/jour — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Cacophonie.html&quot; title=&quot;Cacophonie&quot;&gt;cacophonie&lt;/a&gt;&lt;/i&gt; (DD 15), &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;H&#233;b&#233;tement.html&quot; title=&quot;H&#233;b&#233;tement&quot;&gt;h&#233;b&#233;tement&lt;/a&gt;&lt;/i&gt; (DD 13)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 11, &lt;b&gt;Dex&lt;/b&gt; 15, &lt;b&gt;Con&lt;/b&gt; 18, &lt;b&gt;Int&lt;/b&gt; 10, &lt;b&gt;Sag&lt;/b&gt; 5, &lt;b&gt;Cha&lt;/b&gt; 16
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +2, &lt;b&gt;BMO&lt;/b&gt; +1, &lt;b&gt;DMD&lt;/b&gt; 13
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Attaque-En-Finesse.html&quot; title=&quot;Attaque en finesse&quot;&gt;Attaque en finesse&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Science-De-Linitiative.html&quot; title=&quot;Science de l&amp;#39;initiative&quot;&gt;Science de l&#39;initiative&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; +9, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +0
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Langues&lt;/b&gt; aklo, commun des profondeurs
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Particularit&#233;s&lt;/b&gt; folie, utilisation des poisons
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; souterrain
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation sociale&lt;/b&gt; solitaire, &#233;quipe (2-4), escouade (5-8 plus 1 &lt;a class=&quot;pagelink&quot; href=&quot;Ensorceleur.html&quot; title=&quot;L&amp;#39;ensorceleur&quot;&gt;ensorceleur&lt;/a&gt; de niveau 3 &#224; 5) ou bande (11-20 plus 30% de non-combattants plus 3 &lt;a class=&quot;pagelink&quot; href=&quot;Ensorceleur.html&quot; title=&quot;L&amp;#39;ensorceleur&quot;&gt;ensorceleurs&lt;/a&gt; de niveau 3 &#224; 8)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; &#233;quipement de &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#PERSONNAGENONJOUEUR&quot; title=&quot;PNJ&quot;&gt;PNJ&lt;/a&gt; (arbal&#232;te l&#233;g&#232;re &#224; r&#233;p&#233;tition avec 10 carreaux empoisonn&#233;s, armure de cuir, &#233;p&#233;e courte ou aclys, autres tr&#233;sors)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Capacit&#233;s sp&#233;ciales&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Folie (Ext)&lt;/b&gt; Les derros utilisent leur modificateur de &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#CHARISME&quot; title=&quot;Le Charisme&quot;&gt;Charisme&lt;/a&gt; au lieu de leur modificateur de &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#SAGESSE&quot; title=&quot;La Sagesse&quot;&gt;Sagesse&lt;/a&gt; pour effectuer leurs jets de &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;Volont&#233;&quot;&gt;Volont&#233;&lt;/a&gt;. Ils sont immunis&#233;s contre les effets d&#39;ali&#233;nation mentale et de confusion. Seul un &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Miracle.html&quot; title=&quot;Miracle&quot;&gt;miracle&lt;/a&gt;&lt;/i&gt; ou un &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Souhait.html&quot; title=&quot;Souhait&quot;&gt;souhait&lt;/a&gt;&lt;/i&gt; peut lib&#233;rer un derro de sa folie. Dans ce cas, il gagne 6 points de &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#SAGESSE&quot; title=&quot;La Sagesse&quot;&gt;Sagesse&lt;/a&gt; et perd 6 points de &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#CHARISME&quot; title=&quot;Le Charisme&quot;&gt;Charisme&lt;/a&gt;.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Utilisation des poisons (Ext)&lt;/b&gt; Les derros ne risquent pas de s&#39;empoisonner lorsqu&#39;ils manipulent des poisons. Ils utilisent souvent du &lt;a class=&quot;pagelink&quot; href=&quot;Poisons.html&quot; title=&quot;Les poisons&quot;&gt;venin d&#39;araign&#233;e&lt;/a&gt; de &lt;a class=&quot;pagelink&quot; href=&quot;Petites-Et-Grandes-Cr&#233;atures.html#TABLEAUTAILLES&quot; title=&quot;taille M&quot;&gt;taille M&lt;/a&gt; pour empoisonner leurs carreaux d&#39;arbal&#232;tes et transportent g&#233;n&#233;ralement 10 carreaux empoisonn&#233;s avec eux.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Vuln&#233;rable &#224; la lumi&#232;re du soleil (Ext)&lt;/b&gt; Chaque heure pass&#233;e sous la lumi&#232;re du soleil inflige aux derros un &lt;a class=&quot;pagelink&quot; href=&quot;Affaiblissement-Temporaire-(Capacit&#233;).html&quot; title=&quot;affaiblissement temporaire&quot;&gt;affaiblissement temporaire&lt;/a&gt; de 1 point de &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#CONSTITUTION&quot; title=&quot;La Constitution&quot;&gt;Constitution&lt;/a&gt;.
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;td&gt;&lt;div&gt;&lt;i&gt;Cet humano&#239;de bleu p&#226;le a des cheveux hirsutes, de gros yeux blancs, des mains &#224; quatre doigts et un gourdin muni d’un crochet.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Les derros habitent sous la plupart des villes de la surface mais peu
+de personnes sont au courant de l’existence de ces cr&#233;atures sadiques.
+Ces descendants des f&#233;es myst&#233;rieuses qui vivaient autrefois dans les
+profondeurs de la terre envient le confort de la surface mais la lumi&#232;re
+du soleil ne leur apporte que cloques, br&#251;lures et &#224; la fin de, la mort.&lt;br /&gt;&lt;br /&gt;Les derros kidnappent r&#233;guli&#232;rement des habitants de la surface afin
+de mener sur eux d’abominables exp&#233;riences qui s’inscrivent dans leur
+interminable qu&#234;te pour d&#233;couvrir ce qui prot&#232;ge ceux qui vivent au-dessus
+d’eux des br&#251;lures mortelles. Ces exp&#233;riences
+sont toutefois vou&#233;es &#224; l’&#233;chec, &#224; cause de la folie
+inn&#233;e qui accable tous les derros. &lt;br /&gt;&lt;br /&gt;Au final, les
+victimes traumatis&#233;es sont ramen&#233;es chez
+elles avec quelques bribes de souvenirs des
+&#233;preuves qu’elles ont
+endur&#233;es, juste assez
+pour les confiner &#224;
+une existence
+hant&#233;e par une terreur
+qu’elles sont incapables
+d’identifier pr&#233;cis&#233;ment.&lt;br /&gt;&lt;br /&gt;Les derros combattent
+g&#233;n&#233;ralement &#224; l’aide
+d’&#233;p&#233;es courtes ou d’arbal&#232;tes
+l&#233;g&#232;res &#224; r&#233;p&#233;tition munies
+d’un grand nombre de carreaux
+empoisonn&#233;s. Certains derros
+poss&#232;dent &#233;galement un aclys,
+un gourdin de lancer attach&#233; &#224;
+une corde de 6 m&#232;tres de long. Cette
+corde limite la port&#233;e de l’arme mais
+permet au derro de la ramener vers
+lui apr&#232;s l’avoir lanc&#233;e (il s’agit d’une
+action de mouvement).&lt;br /&gt;&lt;br /&gt;Les dirigeants sont g&#233;n&#233;ralement des
+ensorceleurs de niveau sup&#233;rieur ou &#233;gal
+&#224; 3, mais les derros font aussi d’excellents
+roublards. Ils utilisent de nombreuses armes
+&#233;tranges ou inhabituelles comme des armes d’hast &#233;quip&#233;es de
+crochets, des aclys-siff lets au son lugubre, de longs &#233;pieux
+creux qu’on peut remplir de poisons ou des prismes en cristal
+qui, une fois lanc&#233;s, explosent lors de l’impact et causent de
+terribles saignements.&lt;br /&gt;&lt;br /&gt;Un derro mesure 90 cm de hauteur et p&#232;se 35 kg.
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Derro|FP 3}
+{s:pucem|Humanoïde|Souterrain|Tempéré}
+{s:BDTexte|''Source : Bestiaire p.73''}
+{s:BDTexte|'''PX''' 800}
+{s:BDTexte|[[type Humanoïde|Humanoïde]] (derro) de taille P, CM}
+{s:BDTexte|'''Init''' +6 ; '''Sens''' [[vision dans le noir]] 18 m (12 {s:c}) ; [[Perception]] +0}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 17, contact 13, pris au dépourvu 15 (armure +2, Dex +2, naturelle +2, taille +1)}
+{s:BDTexte|'''pv''' 25 (3d8+12)}
+{s:BDTexte|'''Réf''' +3, '''Vig''' +5, '''Vol''' +6}
+{s:BDTexte|'''RM''' 14 }
+{s:BDTexte|'''Faiblesses''' vulnérabilité à la lumière du soleil}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 6 m (4 {s:c})}
+{s:BDTexte|'''Corps à corps''' épée courte +5 (1d4) ou aclys +5 (1d6)}
+{s:BDTexte|'''Distance''' arbalète légère à répétition +5 (1d6/19-20 et poison) ou aclys +5 (1d6)}
+{s:BDTexte|'''Attaques spéciales''' [[attaque sournoise]] +1d6}
+{s:BDTexte|'''Pouvoirs magiques''' (NLS 3<sup>e</sup>)}
+{s:BDSorts|À volonté — ''[[son imaginaire]]'' (DD 13), ''[[ténèbres]]''}
+{s:BDSorts|1/jour — ''[[cacophonie]]'' (DD 15), ''[[hébétement]]'' (DD 13)}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 11, '''Dex''' 15, '''Con''' 18, '''Int''' 10, '''Sag''' 5, '''Cha''' 16}
+{s:BDTexte|'''BBA''' +2, '''BMO''' +1, '''DMD''' 13}
+{s:BDTexte|'''Dons''' [[Attaque en finesse]], [[Science de linitiative|Science de l'initiative]]}
+{s:BDTexte|'''Compétences''' [[Discrétion]] +9, [[Perception]] +0}
+{s:BDTexte|'''Langues''' aklo, commun des profondeurs}
+{s:BDTexte|'''Particularités''' folie, utilisation des poisons}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' souterrain}
+{s:BDTexte|'''Organisation sociale''' solitaire, équipe (2-4), escouade (5-8 plus 1 [[ensorceleur]] de niveau 3 à 5) ou bande (11-20 plus 30% de non-combattants plus 3 [[ensorceleur|ensorceleurs]] de niveau 3 à 8)}
+{s:BDTexte|'''Trésor''' équipement de [[PNJ]] (arbalète légère à répétition avec 10 carreaux empoisonnés, armure de cuir, épée courte ou aclys, autres trésors)}
+{s:BDSousTitre|Capacités spéciales}
+{s:BDTexte|'''Folie (Ext)''' Les derros utilisent leur modificateur de [[Charisme]] au lieu de leur modificateur de [[Sagesse]] pour effectuer leurs jets de [[Volonté]]. Ils sont immunisés contre les effets d'aliénation mentale et de confusion. Seul un ''[[miracle]]'' ou un ''[[souhait]]'' peut libérer un derro de sa folie. Dans ce cas, il gagne 6 points de [[Sagesse]] et perd 6 points de [[Charisme]].}
+{s:BDTexte|'''Utilisation des poisons (Ext)''' Les derros ne risquent pas de s'empoisonner lorsqu'ils manipulent des poisons. Ils utilisent souvent du [[poisons|venin d'araignée]] de [[taille M]] pour empoisonner leurs carreaux d'arbalètes et transportent généralement 10 carreaux empoisonnés avec eux.}
+{s:BDTexte|'''Vulnérable à la lumière du soleil (Ext)''' Chaque heure passée sous la lumière du soleil inflige aux derros un [[affaiblissement temporaire]] de 1 point de [[Constitution]].}
+</div>
+</td><td><div>''Cet humanoïde bleu pâle a des cheveux hirsutes, de gros yeux blancs, des mains à quatre doigts et un gourdin muni d’un crochet.''
+
+Les derros habitent sous la plupart des villes de la surface mais peu
+de personnes sont au courant de l’existence de ces créatures sadiques.
+Ces descendants des fées mystérieuses qui vivaient autrefois dans les
+profondeurs de la terre envient le confort de la surface mais la lumière
+du soleil ne leur apporte que cloques, brûlures et à la fin de, la mort.
+
+Les derros kidnappent régulièrement des habitants de la surface afin
+de mener sur eux d’abominables expériences qui s’inscrivent dans leur
+interminable quête pour découvrir ce qui protège ceux qui vivent au-dessus
+d’eux des brûlures mortelles. Ces expériences
+sont toutefois vouées à l’échec, à cause de la folie
+innée qui accable tous les derros. 
+
+Au final, les
+victimes traumatisées sont ramenées chez
+elles avec quelques bribes de souvenirs des
+épreuves qu’elles ont
+endurées, juste assez
+pour les confiner à
+une existence
+hantée par une terreur
+qu’elles sont incapables
+d’identifier précisément.
+
+Les derros combattent
+généralement à l’aide
+d’épées courtes ou d’arbalètes
+légères à répétition munies
+d’un grand nombre de carreaux
+empoisonnés. Certains derros
+possèdent également un aclys,
+un gourdin de lancer attaché à
+une corde de 6 mètres de long. Cette
+corde limite la portée de l’arme mais
+permet au derro de la ramener vers
+lui après l’avoir lancée (il s’agit d’une
+action de mouvement).
+
+Les dirigeants sont généralement des
+ensorceleurs de niveau supérieur ou égal
+à 3, mais les derros font aussi d’excellents
+roublards. Ils utilisent de nombreuses armes
+étranges ou inhabituelles comme des armes d’hast équipées de
+crochets, des aclys-siff lets au son lugubre, de longs épieux
+creux qu’on peut remplir de poisons ou des prismes en cristal
+qui, une fois lancés, explosent lors de l’impact et causent de
+terribles saignements.
+
+Un derro mesure 90 cm de hauteur et pèse 35 kg.
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Derro</fullName>
+</wikiPage>

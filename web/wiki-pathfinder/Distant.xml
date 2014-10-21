@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Distant</title>
+  <categories></categories>
+  <lastModified>2012-09-29 15:20:09Z</lastModified>
+  <version>0</version>
+  <inLinks><link>Pathfinder-RPG.Listes des mots de pouvoirs (temporaire)</link><link>Pathfinder-RPG.Méta mots</link></inLinks>
+  <outLinks></outLinks>
+  <body><![CDATA[
+&lt;b&gt;Niveau&lt;/b&gt; 0&lt;br /&gt;&lt;br /&gt;Ce mot augmente la port&#233;e d’un sort comme le d&#233;termine son mot cible. Si c’est une port&#233;e courte, elle devient moyenne (30 m + 3 m/ niveau). Si c’est une port&#233;e moyenne, elle devient longue (120 m + 12 m/niveau). Ce mot n’a aucun effet sur les mots cibles dont la port&#233;e n’est ni courte ni moyenne.
+]]></body>
+  <raw><![CDATA[{s:UM}
+'''Niveau''' 0
+
+Ce mot augmente la portée d’un sort comme le détermine son mot cible. Si c’est une portée courte, elle devient moyenne (30 m + 3 m/ niveau). Si c’est une portée moyenne, elle devient longue (120 m + 12 m/niveau). Ce mot n’a aucun effet sur les mots cibles dont la portée n’est ni courte ni moyenne.]]></raw>
+  <fullName>Pathfinder-RPG.Distant</fullName>
+</wikiPage>

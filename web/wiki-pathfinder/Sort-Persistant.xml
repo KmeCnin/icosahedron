@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Sort persistant</title>
+  <categories><category>Pathfinder-RPG.Advanced Player Guide</category><category>Pathfinder-RPG.Don</category><category>Pathfinder-RPG.Don Métamagie</category><category>Pathfinder-RPG.Règles officielles</category></categories>
+  <lastModified>2011-08-16 21:29:17Z</lastModified>
+  <version>0</version>
+  <inLinks><link>Pathfinder-RPG.dons de métamagie</link><link>Pathfinder-RPG.Glossaire des dons</link><link>Pathfinder-RPG.lignage Impérieux</link><link>Pathfinder-RPG.Sceptre de métamagie</link><link>Pathfinder-RPG.Tableau récapitulatif des dons</link><link>Pathfinder-RPG.TMP Dons APG</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Dons</link><link>Pathfinder-RPG.jet de sauvegarde</link><link>Pathfinder-RPG.emplacement de sort</link></outLinks>
+  <body><![CDATA[&lt;i&gt;Le personnage peut modifier un sort pour qu’il soit plus tenace face aux cibles qui r&#233;sistent &#224; ses effets.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Cat&#233;gorie :&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Dons.html#METAMAGIE&quot; title=&quot;Les dons&quot;&gt;m&#233;tamagie&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Avantage.&lt;/b&gt; Chaque fois qu’une cr&#233;ature cibl&#233;e par un sort persistant ou situ&#233;e dans la zone d’un sort persistant r&#233;ussit un &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;jet de sauvegarde&quot;&gt;jet de sauvegarde&lt;/a&gt; contre celui-ci, elle doit effectuer un second jet de sauvegarde. Si ce second jet de sauvegarde &#233;choue, la cr&#233;ature subit les pleins effets du sort, comme si elle avait rat&#233; son premier jet de sauvegarde. Un sort persistant utilise un &lt;a class=&quot;pagelink&quot; href=&quot;Emplacement-De-Sort.html&quot; title=&quot;emplacement de sort&quot;&gt;emplacement de sort&lt;/a&gt; de deux niveaux suppl&#233;mentaires que le niveau normal du sort.&lt;br /&gt;&lt;br /&gt;Les sorts qui n’imposent pas de jet de sauvegarde permettant d’annuler ou d’amoindrir leurs effets ne peuvent pas b&#233;n&#233;ficier de ce don.
+]]></body>
+  <raw><![CDATA[{s:apg}''Le personnage peut modifier un sort pour qu’il soit plus tenace face aux cibles qui résistent à ses effets.''
+
+'''Catégorie :''' [[Dons#METAMAGIE|métamagie]]
+
+'''Avantage.''' Chaque fois qu’une créature ciblée par un sort persistant ou située dans la zone d’un sort persistant réussit un [[jet de sauvegarde]] contre celui-ci, elle doit effectuer un second jet de sauvegarde. Si ce second jet de sauvegarde échoue, la créature subit les pleins effets du sort, comme si elle avait raté son premier jet de sauvegarde. Un sort persistant utilise un [[emplacement de sort]] de deux niveaux supplémentaires que le niveau normal du sort.
+
+Les sorts qui n’imposent pas de jet de sauvegarde permettant d’annuler ou d’amoindrir leurs effets ne peuvent pas bénéficier de ce don.
+]]></raw>
+  <fullName>Pathfinder-RPG.Sort persistant</fullName>
+</wikiPage>

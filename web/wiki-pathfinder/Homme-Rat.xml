@@ -1,0 +1,178 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Homme-rat</title>
+  <categories><category>Pathfinder-RPG.Bestiaire 3</category><category>Pathfinder-RPG.Monstre</category><category>Pathfinder-RPG.Règles officielles</category></categories>
+  <lastModified>2014-09-25 13:00:18Z</lastModified>
+  <version>7</version>
+  <inLinks><link>Pathfinder-RPG.Glossaire des monstres</link><link>Pathfinder-RPG.Liste de monstres par FP</link><link>Pathfinder-RPG.Liste de monstres par milieu naturel</link><link>Pathfinder-RPG.Liste de monstres par type</link><link>Pathfinder-RPG.Monstres</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.type Humanoïde</link><link>Pathfinder-RPG.sous-type homme-rat</link><link>Pathfinder-RPG.vision dans le noir</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Talent</link><link>Pathfinder-RPG.Artisanat</link><link>Pathfinder-RPG.Diplomatie</link><link>Pathfinder-RPG.Dressage</link><link>Pathfinder-RPG.Estimation</link><link>Pathfinder-RPG.Psychologie</link><link>Pathfinder-RPG.Sabotage</link><link>Pathfinder-RPG.Survie</link><link>Pathfinder-RPG.Utilisation dObjets Magiques</link><link>Pathfinder-RPG.taille</link><link>Pathfinder-RPG.CA</link><link>Pathfinder-RPG.BMO</link><link>Pathfinder-RPG.DMD</link><link>Pathfinder-RPG.Discrétion</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Homme-rat (Skaven, Nezumi, Ysoki) expert 1&lt;div style=&quot;float:right;&quot;&gt;FP 1/3&lt;/div&gt;&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Bestiaire 3 p.150&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 135
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a &lt;a class=&quot;pagelink&quot; href=&quot;Type-Humano&#239;de.html&quot; title=&quot;Humano&#239;de&quot;&gt;Humano&#239;de&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Homme-Rat.html&quot; title=&quot;Homme-rat (sous-type)&quot;&gt;homme-rat&lt;/a&gt;)&lt;/a&gt; de taille P, N&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +2 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Capacit&#233;s-Sp&#233;ciales.html#VISIONDANSLENOIR&quot; title=&quot;vision dans le noir&quot;&gt;vision dans le noir&lt;/a&gt; &#224; 18 m (12 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) ; &lt;a&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt;&lt;/a&gt; +9
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 15, contact 13, pris au d&#233;pourvu 13 (armure +2, Dex +2, taille +1)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 8 (1d8)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +2, &lt;b&gt;Vig&lt;/b&gt; +0, &lt;b&gt;Vol&lt;/b&gt; +2
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 6 m (4 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; dague, -1 (1d3-2/19-20)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;&#192; distance&lt;/b&gt; arbal&#232;te l&#233;g&#232;re, +3 (1d6/19-20)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaque sp&#233;ciale&lt;/b&gt; regroupement
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 6, &lt;b&gt;Dex&lt;/b&gt; 15, &lt;b&gt;Con&lt;/b&gt; 11, &lt;b&gt;Int&lt;/b&gt; 14, &lt;b&gt;Sag&lt;/b&gt; 10, &lt;b&gt;Cha&lt;/b&gt; 9
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +0, &lt;b&gt;BMO&lt;/b&gt; -3, &lt;b&gt;DMD&lt;/b&gt; 9
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Talent.html&quot; title=&quot;Talent&quot;&gt;Talent&lt;/a&gt;&lt;/a&gt; (Perception)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Artisanat.html&quot; title=&quot;Artisanat&quot;&gt;Artisanat&lt;/a&gt; (alchimie) +8, &lt;a class=&quot;pagelink&quot; href=&quot;Diplomatie.html&quot; title=&quot;Diplomatie&quot;&gt;Diplomatie&lt;/a&gt; +3, &lt;a class=&quot;pagelink&quot; href=&quot;Dressage.html&quot; title=&quot;Dressage&quot;&gt;Dressage&lt;/a&gt; +3 (+7 avec les rongeurs), &lt;a class=&quot;pagelink&quot; href=&quot;Estimation.html&quot; title=&quot;Estimation&quot;&gt;Estimation&lt;/a&gt; +6, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +9, &lt;a class=&quot;pagelink&quot; href=&quot;Psychologie.html&quot; title=&quot;Psychologie&quot;&gt;Psychologie&lt;/a&gt; +4, &lt;a class=&quot;pagelink&quot; href=&quot;Sabotage.html&quot; title=&quot;Sabotage&quot;&gt;Sabotage&lt;/a&gt; +6, &lt;a class=&quot;pagelink&quot; href=&quot;Survie.html&quot; title=&quot;Survie&quot;&gt;Survie&lt;/a&gt; +4, &lt;a class=&quot;pagelink&quot; href=&quot;Utilisation-Dobjets-Magiques.html&quot; title=&quot;Utilisation d&amp;#39;objets magiques&quot;&gt;Utilisation d’objets magiques&lt;/a&gt; +11
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Modificateurs raciaux&lt;/b&gt; +2 en &lt;a class=&quot;pagelink&quot; href=&quot;Artisanat.html&quot; title=&quot;Artisanat&quot;&gt;Artisanat&lt;/a&gt; (alchimie), +4 en &lt;a class=&quot;pagelink&quot; href=&quot;Dressage.html&quot; title=&quot;Dressage&quot;&gt;Dressage&lt;/a&gt; pour influencer les rongeurs, +2 en &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt;, +2 en &lt;a class=&quot;pagelink&quot; href=&quot;Utilisation-Dobjets-Magiques.html&quot; title=&quot;Utilisation d&amp;#39;objets magiques&quot;&gt;Utilisation d’objets magiques&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Langues&lt;/b&gt; commun
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; villes ou d&#233;serts chauds
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation&lt;/b&gt; solitaire, couple, meute (3-12) ou colonie (13-100)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; &#233;quipement de PNJ (armure de cuir, arbal&#232;te l&#233;g&#232;re avec 20 carreaux, dague, autre tr&#233;sor)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Pouvoirs sp&#233;ciaux&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Regroupement (Ext).&lt;/b&gt; Les hommes-rats sont habitu&#233;s &#224; vivre et &#224; se battre en communaut&#233; et sont tr&#232;s dou&#233;s pour s’abattre en groupe sur leurs ennemis, pour leur propre avantage et au d&#233;triment de leurs adversaires. Deux hommes-rats au maximum (ou un homme-rat et un &#234;tre de m&#234;me taille), peuvent se partager la m&#234;me case en m&#234;me temps. Si deux hommes-rats sur une m&#234;me case attaquent le m&#234;me ennemi, ce dernier est consid&#233;r&#233; comme &#233;tant pris en tenaille, comme si les deux hommes-rats &#233;taient sur deux cases oppos&#233;es.
+&lt;/div&gt;&lt;br /&gt;&lt;/td&gt;&lt;td&gt;&lt;div&gt;&lt;i&gt;Ce petit humano&#239;de ressemble &#224; un rat avec des moustaches remuant nerveusement, des oreilles pointues et une longue queue tann&#233;e.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Les hommes-rats sont des petits humano&#239;des semblables
+&#224; des rongeurs qui m&#232;nent souvent une vie de nomade &#224; bord
+de caravanes marchandes ou vivent en colonie dans les
+quartiers pauvres, les &#233;gouts et les autres zones urbaines peu
+fr&#233;quentables. Bricoleurs ayant tendance &#224; tout conserver,
+beaucoup d’hommes-rats sont d’habiles commer&#231;ants qui
+naviguent prudemment au gr&#233; des alliances changeantes
+se formant sur le march&#233; noir et dans les bazars. Ils
+pr&#233;f&#232;rent de loin les objets int&#233;ressants &#224; l’argent
+et, lors de leurs transactions, ils privil&#233;gient les babioles &#224; ajouter
+&#224; leurs tr&#233;sors plut&#244;t que de simples pi&#232;ces.
+Les hommes-rats ont un esprit tr&#232;s communautaire et
+vivent dans de grands d&#233;dales remplis de recoins secrets dans
+lesquels entasser leurs tr&#233;sors ou se cacher en cas de danger,
+dans des tunnels souterrains ou de vieux appartements
+d&#233;labr&#233;s des ghettos urbains. Ils sont tr&#232;s li&#233;s &#224; leur grande
+famille et &#224; communaut&#233;, ainsi qu’aux rongeurs de tout type,
+vivant dans une harmonie chaotique et se battant f&#233;rocement
+pour d&#233;fendre les leurs lorsqu’ils sont menac&#233;s.
+Les hommes-rats mesurent g&#233;n&#233;ralement 1,20 m&#232;tre et
+p&#232;sent 40 kilos. Ils portent souvent des robes dissimulant leurs
+formes lorsqu’ils sont en ville car ils savent que les humano&#239;des
+trouvent leurs caract&#233;ristiques de rongeurs r&#233;pugnantes.&lt;br /&gt;&lt;br /&gt;&lt;h3 class=&quot;separator&quot;&gt;PERSONNAGES HOMMES-RATS&lt;a class=&quot;headeranchor&quot; id=&quot;PERSONNAGES_HOMMES-RATS_0&quot; href=&quot;#PERSONNAGES_HOMMES-RATS_0&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;Les hommes-rats se d&#233;finissent par leurs niveaux de classe : ils ne poss&#232;dent pas de d&#233;s de vie raciaux. Tous les hommes-rats poss&#232;dent les caract&#233;ristiques raciales suivantes. &lt;br /&gt;&lt;br /&gt;• &lt;b&gt;-2 en Force, +2 en Dext&#233;rit&#233;, +2 en Intelligence.&lt;/b&gt; Les hommes-rats sont habiles et intelligents mais physiquement faibles.&lt;br /&gt;&lt;br /&gt;• &lt;b&gt;Taille P.&lt;/b&gt; Les hommes-rats sont des cr&#233;atures de taille P et gagnent un bonus de &lt;a class=&quot;pagelink&quot; href=&quot;Petites-Et-Grandes-Cr&#233;atures.html#TABLEAUTAILLES&quot; title=&quot;taille&quot;&gt;taille&lt;/a&gt; de +1 &#224; leur &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#CA&quot; title=&quot;CA&quot;&gt;CA&lt;/a&gt;, un bonus de taille de +1 &#224; leurs jets d’attaque, un malus de -1 &#224; leur &lt;a class=&quot;pagelink&quot; href=&quot;Manœuvres-Offensives.html#BMO&quot; title=&quot;BMO&quot;&gt;BMO&lt;/a&gt; et &#224; leur &lt;a class=&quot;pagelink&quot; href=&quot;Manœuvres-Offensives.html#DMD&quot; title=&quot;DMD&quot;&gt;DMD&lt;/a&gt; et un bonus de taille de +4 &#224; leurs tests de &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;• &lt;b&gt;Vision dans le noir.&lt;/b&gt; Les hommes-rats peuvent voir dans le noir jusqu’&#224; 18 m&#232;tres (12 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;).&lt;br /&gt;&lt;br /&gt;• &lt;b&gt;Bricolage.&lt;/b&gt; Les hommes-rats gagnent un bonus de +2 &#224; leurs tests d’&lt;a class=&quot;pagelink&quot; href=&quot;Artisanat.html&quot; title=&quot;Artisanat&quot;&gt;Artisanat&lt;/a&gt; (alchimie), de &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; et d’&lt;a class=&quot;pagelink&quot; href=&quot;Utilisation-Dobjets-Magiques.html&quot; title=&quot;Utilisation d&amp;#39;objets magiques&quot;&gt;Utilisation d’objets magiques&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;• &lt;b&gt;Empathie avec les rongeurs.&lt;/b&gt; Les hommes-rats gagnent un bonus de +4 &#224; leurs tests de &lt;a class=&quot;pagelink&quot; href=&quot;Dressage.html&quot; title=&quot;Dressage&quot;&gt;Dressage&lt;/a&gt; pour influencer les rongeurs. &lt;br /&gt;&lt;br /&gt;• &lt;b&gt;Regroupement.&lt;/b&gt; Cf. ci-contre.&lt;br /&gt;&lt;br /&gt;• &lt;b&gt;Langues.&lt;/b&gt; Les hommes-rats commencent le jeu en parlant le commun. Les plus intelligents peuvent choisir des langues suppl&#233;mentaires parmi celles-ci : aklo, commun des profondeurs, draconique, gnoll, gnome, gobelin, halfelin, nain, et l’orque.
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Homme-rat (Skaven, Nezumi, Ysoki) expert 1|FP 1/3}
+{s:pucem|Humanoïde|Désert|Tropical}
+{s:BDTexte|<i>Source : Bestiaire 3 p.150</i>}
+{s:BDTexte|<b>PX</b> 135}
+{s:BDTexte|<a [[type Humanoïde|Humanoïde]] ([[sous-type homme-rat|homme-rat]])</a> de taille P, N</a>}
+{s:BDTexte|<b>Init</b> +2 ; <b>Sens</b> [[vision dans le noir]] à 18 m (12 {s:c}) ; <a> [[Perception]]</a> +9}
+{s:BDSousTitre|Défense}
+{s:BDTexte|<b>CA</b> 15, contact 13, pris au dépourvu 13 (armure +2, Dex +2, taille +1)}
+{s:BDTexte|<b>pv</b> 8 (1d8)}
+{s:BDTexte|<b>Réf</b> +2, <b>Vig</b> +0, <b>Vol</b> +2}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|<b>VD</b> 6 m (4 {s:c})}
+{s:BDTexte|<b>Corps à corps</b> dague, -1 (1d3-2/19-20)}
+{s:BDTexte|<b>À distance</b> arbalète légère, +3 (1d6/19-20)}
+{s:BDTexte|<b>Attaque spéciale</b> regroupement}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|<b>For</b> 6, <b>Dex</b> 15, <b>Con</b> 11, <b>Int</b> 14, <b>Sag</b> 10, <b>Cha</b> 9}
+{s:BDTexte|<b>BBA</b> +0, <b>BMO</b> -3, <b>DMD</b> 9}
+{s:BDTexte|<b>Dons</b> <a>[[Talent]]</a> (Perception)}
+{s:BDTexte|<b>Compétences</b> [[Artisanat]] (alchimie) +8, [[Diplomatie]] +3, [[Dressage]] +3 (+7 avec les rongeurs), [[Estimation]] +6, [[Perception]] +9, [[Psychologie]] +4, [[Sabotage]] +6, [[Survie]] +4, [[Utilisation dobjets magiques|Utilisation d’objets magiques]] +11}
+{s:BDTexte|<b>Modificateurs raciaux</b> +2 en [[Artisanat]] (alchimie), +4 en [[Dressage]] pour influencer les rongeurs, +2 en [[Perception]], +2 en [[Utilisation dobjets magiques|Utilisation d’objets magiques]]}
+{s:BDTexte|<b>Langues</b> commun}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|<b>Environnement</b> villes ou déserts chauds}
+{s:BDTexte|<b>Organisation</b> solitaire, couple, meute (3-12) ou colonie (13-100)}
+{s:BDTexte|<b>Trésor</b> équipement de PNJ (armure de cuir, arbalète légère avec 20 carreaux, dague, autre trésor)}
+{s:BDSousTitre|Pouvoirs spéciaux}
+{s:BDTexte|<b>Regroupement (Ext).</b> Les hommes-rats sont habitués à vivre et à se battre en communauté et sont très doués pour s’abattre en groupe sur leurs ennemis, pour leur propre avantage et au détriment de leurs adversaires. Deux hommes-rats au maximum (ou un homme-rat et un être de même taille), peuvent se partager la même case en même temps. Si deux hommes-rats sur une même case attaquent le même ennemi, ce dernier est considéré comme étant pris en tenaille, comme si les deux hommes-rats étaient sur deux cases opposées.}
+
+</td><td><div>''Ce petit humanoïde ressemble à un rat avec des moustaches remuant nerveusement, des oreilles pointues et une longue queue tannée.''
+
+Les hommes-rats sont des petits humanoïdes semblables
+à des rongeurs qui mènent souvent une vie de nomade à bord
+de caravanes marchandes ou vivent en colonie dans les
+quartiers pauvres, les égouts et les autres zones urbaines peu
+fréquentables. Bricoleurs ayant tendance à tout conserver,
+beaucoup d’hommes-rats sont d’habiles commerçants qui
+naviguent prudemment au gré des alliances changeantes
+se formant sur le marché noir et dans les bazars. Ils
+préfèrent de loin les objets intéressants à l’argent
+et, lors de leurs transactions, ils privilégient les babioles à ajouter
+à leurs trésors plutôt que de simples pièces.
+Les hommes-rats ont un esprit très communautaire et
+vivent dans de grands dédales remplis de recoins secrets dans
+lesquels entasser leurs trésors ou se cacher en cas de danger,
+dans des tunnels souterrains ou de vieux appartements
+délabrés des ghettos urbains. Ils sont très liés à leur grande
+famille et à communauté, ainsi qu’aux rongeurs de tout type,
+vivant dans une harmonie chaotique et se battant férocement
+pour défendre les leurs lorsqu’ils sont menacés.
+Les hommes-rats mesurent généralement 1,20 mètre et
+pèsent 40 kilos. Ils portent souvent des robes dissimulant leurs
+formes lorsqu’ils sont en ville car ils savent que les humanoïdes
+trouvent leurs caractéristiques de rongeurs répugnantes.
+
+====PERSONNAGES HOMMES-RATS====
+Les hommes-rats se définissent par leurs niveaux de classe : ils ne possèdent pas de dés de vie raciaux. Tous les hommes-rats possèdent les caractéristiques raciales suivantes. 
+
+• '''-2 en Force, +2 en Dextérité, +2 en Intelligence.''' Les hommes-rats sont habiles et intelligents mais physiquement faibles.
+
+• '''Taille P.''' Les hommes-rats sont des créatures de taille P et gagnent un bonus de [[taille]] de +1 à leur [[CA]], un bonus de taille de +1 à leurs jets d’attaque, un malus de -1 à leur [[BMO]] et à leur [[DMD]] et un bonus de taille de +4 à leurs tests de [[Discrétion]].
+
+• '''Vision dans le noir.''' Les hommes-rats peuvent voir dans le noir jusqu’à 18 mètres (12 {s:c}).
+
+• '''Bricolage.''' Les hommes-rats gagnent un bonus de +2 à leurs tests d’[[Artisanat]] (alchimie), de [[Perception]] et d’[[Utilisation dobjets magiques|Utilisation d’objets magiques]].
+
+• '''Empathie avec les rongeurs.''' Les hommes-rats gagnent un bonus de +4 à leurs tests de [[Dressage]] pour influencer les rongeurs. 
+
+• '''Regroupement.''' Cf. ci-contre.
+
+• '''Langues.''' Les hommes-rats commencent le jeu en parlant le commun. Les plus intelligents peuvent choisir des langues supplémentaires parmi celles-ci : aklo, commun des profondeurs, draconique, gnoll, gnome, gobelin, halfelin, nain, et l’orque.
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Homme-rat</fullName>
+</wikiPage>

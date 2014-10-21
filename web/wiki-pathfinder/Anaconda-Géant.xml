@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Anaconda géant</title>
+  <categories><category>Pathfinder-RPG.Bestiaire 2</category><category>Pathfinder-RPG.Monstre</category></categories>
+  <lastModified>2013-02-02 13:16:59Z</lastModified>
+  <version>4</version>
+  <inLinks><link>Pathfinder-RPG.Glossaire des monstres</link><link>Pathfinder-RPG.Liste de monstres par FP</link><link>Pathfinder-RPG.Liste de monstres par milieu naturel</link><link>Pathfinder-RPG.Liste de monstres par type</link><link>Pathfinder-RPG.Monstres</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.type Animal</link><link>Pathfinder-RPG.odorat</link><link>Pathfinder-RPG.vision nocturne</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Étreinte</link><link>Pathfinder-RPG.constriction</link><link>Pathfinder-RPG.lutte</link><link>Pathfinder-RPG.croc-en-jambe</link><link>Pathfinder-RPG.Arme de prédilection</link><link>Pathfinder-RPG.Attaque en puissance</link><link>Pathfinder-RPG.Esquive</link><link>Pathfinder-RPG.Science de linitiative</link><link>Pathfinder-RPG.Science du critique</link><link>Pathfinder-RPG.Talent</link><link>Pathfinder-RPG.Escalade</link><link>Pathfinder-RPG.Natation</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Anaconda g&#233;ant&lt;div style=&quot;float:right;&quot;&gt;FP 10&lt;/div&gt;&lt;/div&gt;&lt;br /&gt;&lt;ul&gt;&lt;li&gt;&lt;i&gt;Source : Bestiaire 2&lt;/i&gt; p.248&lt;/li&gt;&lt;li&gt;&lt;b&gt;PX&lt;/b&gt; 9 600&lt;/li&gt;&lt;li&gt;&lt;b&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Type-Animal.html&quot; title=&quot;Animal&quot;&gt;Animal&lt;/a&gt;&lt;/b&gt; de taille Gig, N&lt;/li&gt;&lt;li&gt;&lt;b&gt;Init&lt;/b&gt; +6 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Odorat-(Capacit&#233;).html&quot; title=&quot;odorat&quot;&gt;odorat&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Nocturne-(Capacit&#233;).html&quot; title=&quot;vision nocturne&quot;&gt;vision nocturne&lt;/a&gt; ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +22&lt;br /&gt;&lt;div class=&quot;box&quot;&gt;D&#233;fense&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;CA&lt;/b&gt; 25, contact 9, pris au d&#233;pourvu 22 (Dex +2, esquive +1, naturelle +16, taille –4)&lt;/li&gt;&lt;li&gt;&lt;b&gt;pv&lt;/b&gt; 126 (12d8+72)&lt;/li&gt;&lt;li&gt;&lt;b&gt;R&#233;f&lt;/b&gt; +10, &lt;b&gt;Vig&lt;/b&gt; +14, &lt;b&gt;Vol&lt;/b&gt; +5&lt;br /&gt;&lt;div class=&quot;box&quot;&gt;Attaque&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;VD&lt;/b&gt; 6 m (4 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), escalade 6 m (4 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), nage 6 m (4 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)&lt;/li&gt;&lt;li&gt;&lt;b&gt;Corps &#224; corps&lt;/b&gt; morsure, +19 (4d6+19/19–20 plus &lt;a class=&quot;pagelink&quot; href=&quot;&#201;treinte-(Capacit&#233;).html&quot; title=&quot;&#201;treinte&quot;&gt;&#233;treinte&lt;/a&gt;)&lt;/li&gt;&lt;li&gt;&lt;b&gt;Espace&lt;/b&gt; 6 m (4 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) ; &lt;b&gt;Allonge&lt;/b&gt; 6 m (4 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)&lt;/li&gt;&lt;li&gt;&lt;b&gt;Attaques sp&#233;ciales&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Constriction-(Capacit&#233;).html&quot; title=&quot;constriction&quot;&gt;constriction&lt;/a&gt; (4d6+19)&lt;br /&gt;&lt;div class=&quot;box&quot;&gt;Statistiques&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;For&lt;/b&gt; 36, &lt;b&gt;Dex&lt;/b&gt; 14, &lt;b&gt;Con&lt;/b&gt; 23, &lt;b&gt;Int&lt;/b&gt; 1, &lt;b&gt;Sag&lt;/b&gt; 13, &lt;b&gt;Cha&lt;/b&gt; 2&lt;/li&gt;&lt;li&gt;&lt;b&gt;BBA&lt;/b&gt; +9 ; &lt;b&gt;BMO&lt;/b&gt; +26 (+30 &lt;a class=&quot;pagelink&quot; href=&quot;Manœuvres-Offensives.html#LUTTE&quot; title=&quot;lutte&quot;&gt;lutte&lt;/a&gt;) ; &lt;b&gt;DMD&lt;/b&gt; 39 (&lt;a class=&quot;pagelink&quot; href=&quot;Croc-En-Jambe.html&quot; title=&quot;croc-en-jambe&quot;&gt;croc-en-jambe&lt;/a&gt; impossible)&lt;/li&gt;&lt;li&gt;&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Arme-De-Pr&#233;dilection.html&quot; title=&quot;Arme de pr&#233;dilection&quot;&gt;Arme de pr&#233;dilection&lt;/a&gt; (morsure), &lt;a class=&quot;pagelink&quot; href=&quot;Attaque-En-Puissance.html&quot; title=&quot;Attaque en puissance&quot;&gt;Attaque en puissance&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Esquive.html&quot; title=&quot;Esquive&quot;&gt;Esquive&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Science-De-Linitiative.html&quot; title=&quot;Science de l&amp;#39;initiative&quot;&gt;Science de l’initiative&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Science-Du-Critique.html&quot; title=&quot;Science du critique&quot;&gt;Science du critique&lt;/a&gt; (morsure), &lt;a class=&quot;pagelink&quot; href=&quot;Talent.html&quot; title=&quot;Talent&quot;&gt;Talent&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt;)&lt;/li&gt;&lt;li&gt;&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Escalade.html&quot; title=&quot;Escalade&quot;&gt;Escalade&lt;/a&gt; +21, &lt;a class=&quot;pagelink&quot; href=&quot;Natation.html&quot; title=&quot;Natation&quot;&gt;Natation&lt;/a&gt; +21, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +22&lt;br /&gt;&lt;div class=&quot;box&quot;&gt;&#201;cologie&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;Environnement&lt;/b&gt; marais chauds&lt;/li&gt;&lt;li&gt;&lt;b&gt;Organisation sociale&lt;/b&gt; solitaire ou couple&lt;/li&gt;&lt;li&gt;&lt;b&gt;Tr&#233;sor&lt;/b&gt; aucun&lt;br /&gt;&lt;/li&gt;&lt;/ul&gt;&lt;br /&gt;&lt;/div&gt;
+&lt;td&gt;&lt;div&gt;&lt;i&gt;Cet &#233;norme serpent muscl&#233; et &#233;cailleux ne cesse de tirer et de rentrer sa langue, qui fait bien la longueur d’un bras, tout en scrutant les environs &#224; la recherche d’une proie.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Parmi les milliers de pr&#233;dateurs rampant qui infestent les jungles, les for&#234;ts et les marais, rares sont ceux qui inspirent autant de terreur que les anacondas g&#233;ants. Ces chasseurs puissants ne connaissent pas la peur et sont capables de capturer et de d&#233;vorer des &#233;l&#233;phants, des dinosaures et des g&#233;ants. Leurs &#233;cailles vert olive tachet&#233;es de noir leur permettent de se camoufler facilement dans les eaux boueuses des r&#233;gions o&#249; ils habitent.
+Un anaconda g&#233;ant peut mesurer jusqu’&#224; 18 m&#232;tres.
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Anaconda géant|FP 10}
+{s:pucem|Animal|Marais|Tropical}
+* ''Source : Bestiaire 2'' p.248
+* '''PX''' 9 600
+* '''[[Type Animal|Animal]]''' de taille Gig, N
+* '''Init''' +6 ; '''Sens''' [[odorat]], [[vision nocturne]] ; [[Perception]] +22
+(((Défense)))
+* '''CA''' 25, contact 9, pris au dépourvu 22 (Dex +2, esquive +1, naturelle +16, taille –4)
+* '''pv''' 126 (12d8+72)
+* '''Réf''' +10, '''Vig''' +14, '''Vol''' +5
+(((Attaque)))
+* '''VD''' 6 m (4 {s:c}), escalade 6 m (4 {s:c}), nage 6 m (4 {s:c})
+* '''Corps à corps''' morsure, +19 (4d6+19/19–20 plus [[étreinte]])
+* '''Espace''' 6 m (4 {s:c}) ; '''Allonge''' 6 m (4 {s:c})
+* '''Attaques spéciales''' [[constriction]] (4d6+19)
+(((Statistiques)))
+* '''For''' 36, '''Dex''' 14, '''Con''' 23, '''Int''' 1, '''Sag''' 13, '''Cha''' 2
+* '''BBA''' +9 ; '''BMO''' +26 (+30 [[lutte]]) ; '''DMD''' 39 ([[croc-en-jambe]] impossible)
+* '''Dons''' [[Arme de prédilection]] (morsure), [[Attaque en puissance]], [[Esquive]], [[Science de linitiative|Science de l’initiative]], [[Science du critique]] (morsure), [[Talent]] ([[Perception]])
+* '''Compétences''' [[Escalade]] +21, [[Natation]] +21, [[Perception]] +22
+(((Écologie)))
+* '''Environnement''' marais chauds
+* '''Organisation sociale''' solitaire ou couple
+* '''Trésor''' aucun
+
+</div>
+<td><div>''Cet énorme serpent musclé et écailleux ne cesse de tirer et de rentrer sa langue, qui fait bien la longueur d’un bras, tout en scrutant les environs à la recherche d’une proie.''
+
+Parmi les milliers de prédateurs rampant qui infestent les jungles, les forêts et les marais, rares sont ceux qui inspirent autant de terreur que les anacondas géants. Ces chasseurs puissants ne connaissent pas la peur et sont capables de capturer et de dévorer des éléphants, des dinosaures et des géants. Leurs écailles vert olive tachetées de noir leur permettent de se camoufler facilement dans les eaux boueuses des régions où ils habitent.
+Un anaconda géant peut mesurer jusqu’à 18 mètres.
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Anaconda géant</fullName>
+</wikiPage>

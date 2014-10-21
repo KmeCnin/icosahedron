@@ -1,0 +1,143 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Zombi humain</title>
+  <categories><category>Pathfinder-RPG.Bestiaire</category><category>Pathfinder-RPG.Monstre</category></categories>
+  <lastModified>2013-02-06 19:11:18Z</lastModified>
+  <version>9</version>
+  <inLinks><link>Pathfinder-RPG.Animation des morts</link><link>Pathfinder-RPG.Animation des morts mineure</link><link>Pathfinder-RPG.Catastrophes</link><link>Pathfinder-RPG.Essaim de guêpes de lEnfer</link><link>Pathfinder-RPG.FAQ Magie</link><link>Pathfinder-RPG.Glossaire des monstres</link><link>Pathfinder-RPG.Liste de monstres par FP</link><link>Pathfinder-RPG.Liste de monstres par milieu naturel</link><link>Pathfinder-RPG.Liste de monstres par type</link><link>Pathfinder-RPG.Mohrg</link><link>Pathfinder-RPG.Moisissure jaune</link><link>Pathfinder-RPG.Monstres</link><link>Pathfinder-RPG.Zombi, archétype</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.type Mort-vivant</link><link>Pathfinder-RPG.vision dans le noir</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Traits des morts-vivants</link><link>Pathfinder-RPG.Robustesse</link><link>Pathfinder-RPG.Zombi, archétype</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Zombi humain&lt;div style=&quot;float:right;&quot;&gt;FP 1/2&lt;/div&gt;&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Bestiaire&lt;/i&gt; p.289
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 200
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Mort-Vivant.html&quot; title=&quot;Mort-vivant&quot;&gt;Mort-vivant&lt;/a&gt; de taille M, NM
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +0 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Capacit&#233;s-Sp&#233;ciales.html#VISIONDANSLENOIR&quot; title=&quot;vision dans le noir&quot;&gt;vision dans le noir&lt;/a&gt; 18 m (12 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +0
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 12, contact 10, pris au d&#233;pourvu 12 (naturelle +2)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 12 (2d8+3)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +0, &lt;b&gt;Vig&lt;/b&gt; +0, &lt;b&gt;Vol&lt;/b&gt; +3
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Immunit&#233;s&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Traits-Des-Morts-Vivants-(Capacit&#233;).html&quot; title=&quot;Traits des morts-vivants&quot;&gt;traits des morts-vivants&lt;/a&gt; ; &lt;b&gt;RD&lt;/b&gt; 5/tranchant 
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 9 m (6 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; coup +4 (1d6+4)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 17, &lt;b&gt;Dex&lt;/b&gt; 10, &lt;b&gt;Con&lt;/b&gt; -, &lt;b&gt;Int&lt;/b&gt; -, &lt;b&gt;Sag&lt;/b&gt; 10, &lt;b&gt;Cha&lt;/b&gt; 10
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +1, &lt;b&gt;BMO&lt;/b&gt; +4, &lt;b&gt;DMD&lt;/b&gt; 14
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Robustesse.html&quot; title=&quot;Robustesse&quot;&gt;Robustesse&lt;/a&gt;&lt;sup&gt;B&lt;/sup&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Particularit&#233;s&lt;/b&gt; chancelant
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; quelconque
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation sociale&lt;/b&gt; quelconque
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; aucun
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;td&gt;&lt;div&gt;Voir l&#39;&lt;a class=&quot;pagelink&quot; href=&quot;Zombi,-Arch&#233;type.html&quot; title=&quot;Zombi, arch&#233;type&quot;&gt;arch&#233;type&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;&lt;i&gt;Ce cadavre avance d’un pas chancelant, les bras tendus en avant, ne portant
+que quelques haillons sales sur sa chair en d&#233;composition.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Les zombis sont des cadavres anim&#233;s qu’on a contraints &#224; une vile
+existence de morts-vivants gr&#226;ce &#224; de la magie n&#233;cromantique (une
+animation des morts par exemple). Les zombis les plus nombreux
+sont lents et solides mais d’autres poss&#232;dent des caract&#233;ristiques
+diff&#233;rentes, comme la facult&#233; de diss&#233;miner des maladies ou de se
+d&#233;placer plus rapidement.&lt;br /&gt;&lt;br /&gt;Les zombis sont des automates d&#233;nu&#233;s de pens&#233;es qui ne
+peuvent pas faire grand chose de plus que suivre des ordres. En
+l’absence d’instructions, ils tournent en rond &#224; la recherche de
+cr&#233;atures vivantes &#224; massacrer et &#224; d&#233;vorer. Ils attaquent jusqu’&#224; la
+destruction, sans se pr&#233;occuper de leur s&#233;curit&#233;.&lt;br /&gt;&lt;br /&gt;M&#234;me si les zombis sont capables de suivre des ordres, il
+arrive souvent qu’ils soient lib&#233;r&#233;s dans une r&#233;gion sans autre
+instruction que de tuer les cr&#233;atures vivantes. Ils se rassemblent
+souvent en meutes et se prom&#232;nent pr&#232;s des endroits fr&#233;quent&#233;s
+par les vivants &#224; la recherche de victimes potentielles. La plupart
+des zombis sont cr&#233;&#233;s par le sort d’animation des morts. Il s’agit
+toujours de zombis standards, mais le cr&#233;ateur peut lancer rapidit&#233;
+ou d&#233;livrance de la paralysie pour en faire des zombis rapides, ou
+contagion pour en faire des zombis &#233;pid&#233;miques.
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Zombi humain|FP 1/2}
+{s:pucem|Mort-vivant|Ruines-Donjons|Tempéré}
+{s:BDTexte|''Source : Bestiaire'' p.289}
+{s:BDTexte|'''PX''' 200}
+{s:BDTexte|[[type Mort-vivant|Mort-vivant]] de taille M, NM}
+{s:BDTexte|'''Init''' +0 ; '''Sens''' [[vision dans le noir]] 18 m (12 {s:c}) ; [[Perception]] +0}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 12, contact 10, pris au dépourvu 12 (naturelle +2)}
+{s:BDTexte|'''pv''' 12 (2d8+3)}
+{s:BDTexte|'''Réf''' +0, '''Vig''' +0, '''Vol''' +3}
+{s:BDTexte|'''Immunités''' [[traits des morts-vivants]] ; '''RD''' 5/tranchant }
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 9 m (6 {s:c})}
+{s:BDTexte|'''Corps à corps''' coup +4 (1d6+4)}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 17, '''Dex''' 10, '''Con''' -, '''Int''' -, '''Sag''' 10, '''Cha''' 10}
+{s:BDTexte|'''BBA''' +1, '''BMO''' +4, '''DMD''' 14}
+{s:BDTexte|'''Dons''' [[Robustesse]]<sup>B</sup>}
+{s:BDTexte|'''Particularités''' chancelant}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' quelconque}
+{s:BDTexte|'''Organisation sociale''' quelconque}
+{s:BDTexte|'''Trésor''' aucun}
+</div>
+</td><td><div>Voir l'[[zombi, archétype|archétype]].
+
+''Ce cadavre avance d’un pas chancelant, les bras tendus en avant, ne portant
+que quelques haillons sales sur sa chair en décomposition.''
+
+Les zombis sont des cadavres animés qu’on a contraints à une vile
+existence de morts-vivants grâce à de la magie nécromantique (une
+animation des morts par exemple). Les zombis les plus nombreux
+sont lents et solides mais d’autres possèdent des caractéristiques
+différentes, comme la faculté de disséminer des maladies ou de se
+déplacer plus rapidement.
+
+Les zombis sont des automates dénués de pensées qui ne
+peuvent pas faire grand chose de plus que suivre des ordres. En
+l’absence d’instructions, ils tournent en rond à la recherche de
+créatures vivantes à massacrer et à dévorer. Ils attaquent jusqu’à la
+destruction, sans se préoccuper de leur sécurité.
+
+Même si les zombis sont capables de suivre des ordres, il
+arrive souvent qu’ils soient libérés dans une région sans autre
+instruction que de tuer les créatures vivantes. Ils se rassemblent
+souvent en meutes et se promènent près des endroits fréquentés
+par les vivants à la recherche de victimes potentielles. La plupart
+des zombis sont créés par le sort d’animation des morts. Il s’agit
+toujours de zombis standards, mais le créateur peut lancer rapidité
+ou délivrance de la paralysie pour en faire des zombis rapides, ou
+contagion pour en faire des zombis épidémiques.
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Zombi humain</fullName>
+</wikiPage>

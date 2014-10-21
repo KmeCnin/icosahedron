@@ -1,0 +1,101 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Hérisson</title>
+  <categories></categories>
+  <lastModified>2013-02-07 21:11:48Z</lastModified>
+  <version>3</version>
+  <inLinks><link>Pathfinder-RPG.Familiers</link><link>Pathfinder-RPG.Familiers temporaires</link><link>Pathfinder-RPG.Liste de monstres par type</link><link>Pathfinder-RPG.Monstres</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.type Animal</link><link>Pathfinder-RPG.vision nocturne</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Athlétisme</link><link>Pathfinder-RPG.Discrétion</link><link>Pathfinder-RPG.Escalade</link><link>Pathfinder-RPG.Natation</link><link>Pathfinder-RPG.Action de mouvement</link><link>Pathfinder-RPG.Valeurs de combat</link><link>Pathfinder-RPG.lutte</link><link>Pathfinder-RPG.Manœuvres offensives</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;H&#233;risson&lt;div style=&quot;float:right;&quot;&gt;FP 1/8&lt;/div&gt;&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Art de la Magie p.118&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 50
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Animal.html&quot; title=&quot;Animal&quot;&gt;Animal&lt;/a&gt; de taille Min, N
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +3 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Nocturne-(Capacit&#233;).html&quot; title=&quot;vision nocturne&quot;&gt;vision nocturne&lt;/a&gt; ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +1
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 18, contact 17, pris au d&#233;pourvu 15 (Dex +3, naturelle +1, taille +4
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 2 (1d8-2)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +5, &lt;b&gt;Vig&lt;/b&gt; +0, &lt;b&gt;Vol&lt;/b&gt; +1
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 6 m (4 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;); &lt;b&gt;nage&lt;/b&gt; 6 m (4 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Espace&lt;/b&gt; 0,3 m (1/5 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) ; &lt;b&gt;Allonge&lt;/b&gt; 0
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 1, &lt;b&gt;Dex&lt;/b&gt; 16, &lt;b&gt;Con&lt;/b&gt; 6, &lt;b&gt;Int&lt;/b&gt; 2, &lt;b&gt;Sag&lt;/b&gt; 12, &lt;b&gt;Cha&lt;/b&gt; 7
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +0, &lt;b&gt;BMO&lt;/b&gt; -1, &lt;b&gt;DMD&lt;/b&gt; 4 (8 contre le croc-en-jambe)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Athl&#233;tisme.html&quot; title=&quot;Athl&#233;tisme&quot;&gt;Athl&#233;tisme&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; +19, &lt;a class=&quot;pagelink&quot; href=&quot;Escalade.html&quot; title=&quot;Escalade&quot;&gt;Escalade&lt;/a&gt; +5, &lt;a class=&quot;pagelink&quot; href=&quot;Natation.html&quot; title=&quot;Natation&quot;&gt;Natation&lt;/a&gt; +5
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; for&#234;ts tropicales ou temp&#233;r&#233;es
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation sociale&lt;/b&gt; solitaire ou couple
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; aucun
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Capacit&#233;s sp&#233;ciales&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;D&#233;fense &#233;pineuse (Ext).&lt;/b&gt; Par une &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions.html#MOUVEMENT&quot; title=&quot;Action de mouvement&quot;&gt;action de mouvement&lt;/a&gt;, le h&#233;risson peut se rouler sur lui-m&#234;me. Quand il se roule en boule, il gagne un bonus d’alt&#233;ration de +1 &#224; son &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html&quot; title=&quot;Valeurs de combat&quot;&gt;armure naturelle&lt;/a&gt;. De plus, toute cr&#233;ature qui &lt;a class=&quot;pagelink&quot; href=&quot;Manœuvres-Offensives.html#LUTTE&quot; title=&quot;lutte&quot;&gt;lutte&lt;/a&gt; contre le h&#233;risson re&#231;oit 1d3 points de d&#233;g&#226;ts quand il fait le &lt;a class=&quot;pagelink&quot; href=&quot;Manœuvres-Offensives.html&quot; title=&quot;Les manœuvres de combat&quot;&gt;test de lutte&lt;/a&gt;. Quand le h&#233;risson est en boule, il ne peut pas entreprendre une action autre que de quitter cet &#233;tat. Il peut le faire par une &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions.html#MOUVEMENT&quot; title=&quot;Action de mouvement&quot;&gt;action de mouvement&lt;/a&gt;.
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;td&gt;&lt;div&gt;Les h&#233;rissons sont des mammif&#232;res insectivores h&#233;riss&#233;s de piquants. Quand le h&#233;risson se sent menac&#233;, il se roule en une petite boule de piquants, comme un m&#233;canisme de d&#233;fense.
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Hérisson|FP 1/8}
+{s:pucem|Animal|Forêt-Jungle|Tempéré}
+{s:BDTexte|''Source : Art de la Magie p.118''}
+{s:BDTexte|'''PX''' 50}
+{s:BDTexte|[[type Animal|Animal]] de taille Min, N}
+{s:BDTexte|'''Init''' +3 ; '''Sens''' [[vision nocturne]] ; [[Perception]] +1}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 18, contact 17, pris au dépourvu 15 (Dex +3, naturelle +1, taille +4}
+{s:BDTexte|'''pv''' 2 (1d8-2)}
+{s:BDTexte|'''Réf''' +5, '''Vig''' +0, '''Vol''' +1}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 6 m (4 {s:c}); '''nage''' 6 m (4 {s:c})}
+{s:BDTexte|'''Espace''' 0,3 m (1/5 {s:c}) ; '''Allonge''' 0}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 1, '''Dex''' 16, '''Con''' 6, '''Int''' 2, '''Sag''' 12, '''Cha''' 7}
+{s:BDTexte|'''BBA''' +0, '''BMO''' -1, '''DMD''' 4 (8 contre le croc-en-jambe)}
+{s:BDTexte|'''Dons''' [[Athlétisme]]}
+{s:BDTexte|'''Compétences''' [[Discrétion]] +19, [[Escalade]] +5, [[Natation]] +5}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' forêts tropicales ou tempérées}
+{s:BDTexte|'''Organisation sociale''' solitaire ou couple}
+{s:BDTexte|'''Trésor''' aucun}
+{s:BDSousTitre|Capacités spéciales}
+{s:BDTexte|'''Défense épineuse (Ext).''' Par une [[action de mouvement]], le hérisson peut se rouler sur lui-même. Quand il se roule en boule, il gagne un bonus d’altération de +1 à son [[Valeurs de combat|armure naturelle]]. De plus, toute créature qui [[lutte]] contre le hérisson reçoit 1d3 points de dégâts quand il fait le [[Manœuvres offensives|test de lutte]]. Quand le hérisson est en boule, il ne peut pas entreprendre une action autre que de quitter cet état. Il peut le faire par une [[action de mouvement]].}
+</div>
+</td><td><div>Les hérissons sont des mammifères insectivores hérissés de piquants. Quand le hérisson se sent menacé, il se roule en une petite boule de piquants, comme un mécanisme de défense.
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Hérisson</fullName>
+</wikiPage>

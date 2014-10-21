@@ -1,0 +1,180 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Chien gobelin</title>
+  <categories><category>Pathfinder-RPG.Bestiaire</category><category>Pathfinder-RPG.Monstre</category><category>Pathfinder-RPG.Règles officielles</category></categories>
+  <lastModified>2013-02-02 18:23:36Z</lastModified>
+  <version>9</version>
+  <inLinks><link>Pathfinder-RPG.Convocation dalliés naturels</link><link>Pathfinder-RPG.Convocation de monstres</link><link>Pathfinder-RPG.Glossaire des monstres</link><link>Pathfinder-RPG.Gobelin</link><link>Pathfinder-RPG.Grindylow</link><link>Pathfinder-RPG.Liste de monstres par FP</link><link>Pathfinder-RPG.Liste de monstres par milieu naturel</link><link>Pathfinder-RPG.Liste de monstres par type</link><link>Pathfinder-RPG.Monstres</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.type Animal</link><link>Pathfinder-RPG.odorat</link><link>Pathfinder-RPG.vision nocturne</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Robustesse</link><link>Pathfinder-RPG.Discrétion</link><link>Pathfinder-RPG.sous-type gobelinoïde</link><link>Pathfinder-RPG.Vigueur</link><link>Pathfinder-RPG.DD</link><link>Pathfinder-RPG.Dextérité</link><link>Pathfinder-RPG.Charisme</link><link>Pathfinder-RPG.Guérison des maladies</link><link>Pathfinder-RPG.jet de sauvegarde</link><link>Pathfinder-RPG.Constitution</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Chien gobelin&lt;div style=&quot;float:right;&quot;&gt;FP 1&lt;/div&gt;&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Bestiaire p.43&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 400
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Animal.html&quot; title=&quot;Animal&quot;&gt;Animal&lt;/a&gt; de taille M, N
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +2 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Odorat-(Capacit&#233;).html&quot; title=&quot;odorat&quot;&gt;odorat&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Nocturne-(Capacit&#233;).html&quot; title=&quot;vision nocturne&quot;&gt;vision nocturne&lt;/a&gt; ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +1
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 13, contact 12, pris au d&#233;pourvu 11 (Dex +2, naturelle +1)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 9 (1d8+5)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +4, &lt;b&gt;Vig&lt;/b&gt; +4, &lt;b&gt;Vol&lt;/b&gt; +1
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Immunit&#233;s&lt;/b&gt; maladie 
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 15 m (10 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; morsure +2 (1d6+3 et r&#233;action allergique)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 15, &lt;b&gt;Dex&lt;/b&gt; 14, &lt;b&gt;Con&lt;/b&gt; 15, &lt;b&gt;Int&lt;/b&gt; 2, &lt;b&gt;Sag&lt;/b&gt; 12, &lt;b&gt;Cha&lt;/b&gt; 8
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +0, &lt;b&gt;BMO&lt;/b&gt; +2, &lt;b&gt;DMD&lt;/b&gt; 14
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Robustesse.html&quot; title=&quot;Robustesse&quot;&gt;Robustesse&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; +6
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; for&#234;ts, marais ou souterrain, climat temp&#233;r&#233;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation sociale&lt;/b&gt; solitaire ou meute (2-12)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; aucun
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Particularit&#233;s&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;action allergique (Ext)&lt;/b&gt; Les peaux mortes des chiens gobelins produisent de fortes irritations chez toutes les cr&#233;atures qui n&#39;appartiennent pas au sous-type &quot;&lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Gobelino&#239;de.html&quot; title=&quot;Gobelino&#239;de (sous-type)&quot;&gt;gobelino&#239;de&lt;/a&gt;&quot;. Chaque fois qu&#39;une cr&#233;ature non gobelino&#239;de est mordue par un chien gobelin ou qu&#39;elle attaque un chien gobelin &#224; l&#39;aide d&#39;une arme naturelle, &#224; mains nues ou encore qu&#39;elle entre en contact avec un chien gobelin pour toute autre raison (en tentant de l&#39;agripper ou de le monter par exemple), elle doit effectuer un jet de &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;Vigueur&quot;&gt;Vigueur&lt;/a&gt; de &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DEGREDEDIFFICULTE&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; 12 pour &#233;viter de ressentir de fortes d&#233;mangeaisons. En cas d&#39;&#233;chec, la victime subit un malus de -2 &#224; la &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#DEXTERITE&quot; title=&quot;La Dext&#233;rit&#233;&quot;&gt;Dext&#233;rit&#233;&lt;/a&gt; et au &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#CHARISME&quot; title=&quot;Le Charisme&quot;&gt;Charisme&lt;/a&gt; pendant 1 jour (en cas de r&#233;actions allergiques multiples, les effets ne se cumulent pas). Les d&#233;mangeaisons cessent imm&#233;diatement si elle re&#231;oit un sort de &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Gu&#233;rison-Des-Maladies.html&quot; title=&quot;Gu&#233;rison des maladies&quot;&gt;gu&#233;rison des maladies&lt;/a&gt;&lt;/i&gt; ou un soin magique. il s&#39;agit d&#39;un effet de type &quot;maladie&quot;. Le &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DEGREDEDIFFICULTE&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; du &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;jet de sauvegarde&quot;&gt;jet de sauvegarde&lt;/a&gt; d&#233;pend de la &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#CONSTITUTION&quot; title=&quot;La Constitution&quot;&gt;Constitution&lt;/a&gt;.
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;td&gt;&lt;div&gt;&lt;i&gt;Les yeux globuleux de ce canin glabre, son nez plat et ses dents saillantes font ressembler son visage &#224; celui d’un &#233;norme rat.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Les chiens gobelins sont des cr&#233;atures laides, puantes, veules et
+col&#233;riques, d&#233;test&#233;es tant par les hommes que par les animaux.
+Ce n’est donc pas &#233;tonnant que les gobelins se sentent proches
+de ces monstruosit&#233;s d&#233;go&#251;tantes rejet&#233;es par tous. La gale qui
+affecte tous les chiens gobelins les pousse &#224; se gratter sans cesse et
+les nombreuses peaux mortes qui se d&#233;tachent de leur &#233;piderme
+n’aident pas &#224; les rendre plus appr&#233;ci&#233;s. M&#234;me les chiens gobelins
+en bonne sant&#233; paraissent maladifs et affam&#233;s.&lt;br /&gt;&lt;br /&gt;Contrairement &#224; ce que leur nom indique, les chiens gobelins
+appartiennent en fait &#224; une esp&#232;ce de rongeurs devenus
+monstrueusement grands. C’est leurs longues jambes et leur
+propension &#224; chasser et &#224; se d&#233;placer en meutes qu’ils doivent leur
+nom, une appellation que de nombreux gobelins n’appr&#233;cient pas
+d’ailleurs, tant cela les &#233;nerve de consid&#233;rer que leurs montures
+pr&#233;f&#233;r&#233;es puissent avoir quoi que ce soit en commun avec les vrais
+chiens. &lt;br /&gt;&lt;br /&gt;Mais les gobelins restent des goblins… ce qui explique
+pourquoi ils ne se sont pas donn&#233; la peine de trouver un autre nom
+pour ces cr&#233;atures ! Peut-&#234;tre ne se rendent-ils tout simplement
+pas compte qu’ils pourraient le faire.&lt;br /&gt;&lt;br /&gt;Tout contact avec la peau imberbe et malade d’un chien gobelin
+d&#233;clenche de l’urticaire chez les autres cr&#233;atures, une affliction
+connue sous le nom &#171; d’&#233;ryth&#232;me gobelin &#187;. Les gobelino&#239;des
+semblent immunis&#233;es &#224; cette g&#234;ne et aiment garder des chiens
+gobelins comme gardiens et montures.&lt;br /&gt;&lt;br /&gt;Malgr&#233; leurs probl&#232;mes de peau, les chiens gobelins se
+montrent tr&#232;s r&#233;sistants aux maladies. Leur nourriture pr&#233;f&#233;r&#233;e
+est la charogne, et, plus elle est &#171; m&#251;re &#187;, mieux c’est. Si les
+repaires des gobelins ne sont pas plus crasseux qu’ils ne le sont
+d&#233;j&#224;, c’est uniquement parce qu’ils laissent leurs chiens gobelins
+s’y promener librement. Ces animaux constamment affam&#233;s
+d&#233;vorent tout ce qu’ils parviennent &#224; mastiquer et que d’autres
+palais au go&#251;t plus fin ont abandonn&#233;.&lt;br /&gt;&lt;br /&gt;Un chien gobelin mesure 1,50 m&#232;tre de long mais ne p&#232;se que 37,5 kg.&lt;br /&gt;&lt;br /&gt;&lt;h3 class=&quot;separator&quot;&gt;Le chien gobelin comme compagnon animal&lt;a class=&quot;headeranchor&quot; id=&quot;Le_chien_gobelin_comme_compagnon_animal_0&quot; href=&quot;#Le_chien_gobelin_comme_compagnon_animal_0&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;
+&lt;b&gt;Caract&#233;ristiques de d&#233;part&lt;/b&gt; &lt;b&gt;Taille&lt;/b&gt; P ; &lt;b&gt;Vitesse&lt;/b&gt; 15 m (10 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)  ; &lt;b&gt;Attaque&lt;/b&gt; morsure (1d4) ; &lt;b&gt;Caract&#233;ristiques&lt;/b&gt; For 11, Dex 16, Con 11, Int 2, Sag 12, Cha 8 ; &lt;b&gt;Particularit&#233;s&lt;/b&gt; r&#233;action allergique, &lt;a class=&quot;pagelink&quot; href=&quot;Odorat-(Capacit&#233;).html&quot; title=&quot;odorat&quot;&gt;odorat&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Nocturne-(Capacit&#233;).html&quot; title=&quot;vision nocturne&quot;&gt;vision nocturne&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;D&#233;veloppement au niveau 4&lt;/b&gt; : &lt;b&gt;Taille&lt;/b&gt; M ; &lt;b&gt;CA&lt;/b&gt; armure naturelle +1 ; &lt;b&gt;Attaque&lt;/b&gt; morsure (1d6) ; &lt;b&gt;Caract&#233;ristiques&lt;/b&gt; For +4, Dex –2, Con +4.
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Chien gobelin|FP 1}
+{s:pucem|Animal|Forêt-Jungle|Tempéré}
+{s:BDTexte|''Source : Bestiaire p.43''}
+{s:BDTexte|'''PX''' 400}
+{s:BDTexte|[[type Animal|Animal]] de taille M, N}
+{s:BDTexte|'''Init''' +2 ; '''Sens''' [[odorat]], [[vision nocturne]] ; [[Perception]] +1}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 13, contact 12, pris au dépourvu 11 (Dex +2, naturelle +1)}
+{s:BDTexte|'''pv''' 9 (1d8+5)}
+{s:BDTexte|'''Réf''' +4, '''Vig''' +4, '''Vol''' +1}
+{s:BDTexte|'''Immunités''' maladie }
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 15 m (10 {s:c})}
+{s:BDTexte|'''Corps à corps''' morsure +2 (1d6+3 et réaction allergique)}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 15, '''Dex''' 14, '''Con''' 15, '''Int''' 2, '''Sag''' 12, '''Cha''' 8}
+{s:BDTexte|'''BBA''' +0, '''BMO''' +2, '''DMD''' 14}
+{s:BDTexte|'''Dons''' [[Robustesse]]}
+{s:BDTexte|'''Compétences''' [[Discrétion]] +6}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' forêts, marais ou souterrain, climat tempéré}
+{s:BDTexte|'''Organisation sociale''' solitaire ou meute (2-12)}
+{s:BDTexte|'''Trésor''' aucun}
+{s:BDSousTitre|Particularités}
+{s:BDTexte|'''Réaction allergique (Ext)''' Les peaux mortes des chiens gobelins produisent de fortes irritations chez toutes les créatures qui n'appartiennent pas au sous-type "[[sous-type gobelinoïde|gobelinoïde]]". Chaque fois qu'une créature non gobelinoïde est mordue par un chien gobelin ou qu'elle attaque un chien gobelin à l'aide d'une arme naturelle, à mains nues ou encore qu'elle entre en contact avec un chien gobelin pour toute autre raison (en tentant de l'agripper ou de le monter par exemple), elle doit effectuer un jet de [[Vigueur]] de [[DD]] 12 pour éviter de ressentir de fortes démangeaisons. En cas d'échec, la victime subit un malus de -2 à la [[Dextérité]] et au [[Charisme]] pendant 1 jour (en cas de réactions allergiques multiples, les effets ne se cumulent pas). Les démangeaisons cessent immédiatement si elle reçoit un sort de ''[[guérison des maladies]]'' ou un soin magique. il s'agit d'un effet de type "maladie". Le [[DD]] du [[jet de sauvegarde]] dépend de la [[Constitution]].}
+</div>
+</td><td><div>''Les yeux globuleux de ce canin glabre, son nez plat et ses dents saillantes font ressembler son visage à celui d’un énorme rat.''
+
+Les chiens gobelins sont des créatures laides, puantes, veules et
+colériques, détestées tant par les hommes que par les animaux.
+Ce n’est donc pas étonnant que les gobelins se sentent proches
+de ces monstruosités dégoûtantes rejetées par tous. La gale qui
+affecte tous les chiens gobelins les pousse à se gratter sans cesse et
+les nombreuses peaux mortes qui se détachent de leur épiderme
+n’aident pas à les rendre plus appréciés. Même les chiens gobelins
+en bonne santé paraissent maladifs et affamés.
+
+Contrairement à ce que leur nom indique, les chiens gobelins
+appartiennent en fait à une espèce de rongeurs devenus
+monstrueusement grands. C’est leurs longues jambes et leur
+propension à chasser et à se déplacer en meutes qu’ils doivent leur
+nom, une appellation que de nombreux gobelins n’apprécient pas
+d’ailleurs, tant cela les énerve de considérer que leurs montures
+préférées puissent avoir quoi que ce soit en commun avec les vrais
+chiens. 
+
+Mais les gobelins restent des goblins… ce qui explique
+pourquoi ils ne se sont pas donné la peine de trouver un autre nom
+pour ces créatures ! Peut-être ne se rendent-ils tout simplement
+pas compte qu’ils pourraient le faire.
+
+Tout contact avec la peau imberbe et malade d’un chien gobelin
+déclenche de l’urticaire chez les autres créatures, une affliction
+connue sous le nom « d’érythème gobelin ». Les gobelinoïdes
+semblent immunisées à cette gêne et aiment garder des chiens
+gobelins comme gardiens et montures.
+
+Malgré leurs problèmes de peau, les chiens gobelins se
+montrent très résistants aux maladies. Leur nourriture préférée
+est la charogne, et, plus elle est « mûre », mieux c’est. Si les
+repaires des gobelins ne sont pas plus crasseux qu’ils ne le sont
+déjà, c’est uniquement parce qu’ils laissent leurs chiens gobelins
+s’y promener librement. Ces animaux constamment affamés
+dévorent tout ce qu’ils parviennent à mastiquer et que d’autres
+palais au goût plus fin ont abandonné.
+
+Un chien gobelin mesure 1,50 mètre de long mais ne pèse que 37,5 kg.
+
+====Le chien gobelin comme compagnon animal====
+
+'''Caractéristiques de départ''' '''Taille''' P ; '''Vitesse''' 15 m (10 {s:c})  ; '''Attaque''' morsure (1d4) ; '''Caractéristiques''' For 11, Dex 16, Con 11, Int 2, Sag 12, Cha 8 ; '''Particularités''' réaction allergique, [[odorat]], [[vision nocturne]].
+
+'''Développement au niveau 4''' : '''Taille''' M ; '''CA''' armure naturelle +1 ; '''Attaque''' morsure (1d6) ; '''Caractéristiques''' For +4, Dex –2, Con +4.
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Chien gobelin</fullName>
+</wikiPage>

@@ -1,0 +1,145 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Nuée de rats</title>
+  <categories><category>Pathfinder-RPG.Bestiaire</category><category>Pathfinder-RPG.Monstre</category><category>Pathfinder-RPG.Règles officielles</category></categories>
+  <lastModified>2013-02-06 21:23:33Z</lastModified>
+  <version>8</version>
+  <inLinks><link>Pathfinder-RPG.Glossaire des monstres</link><link>Pathfinder-RPG.Liste de monstres par FP</link><link>Pathfinder-RPG.Liste de monstres par milieu naturel</link><link>Pathfinder-RPG.Liste de monstres par type</link><link>Pathfinder-RPG.Monstres</link><link>Pathfinder-RPG.Nuée grouillante</link><link>Pathfinder-RPG.Orateur animal (barde)</link><link>Pathfinder-RPG.Peau de nuée</link><link>Pathfinder-RPG.Pièges de rôdeur</link><link>Pathfinder-RPG.Vampire, archétype</link><link>Pathfinder-RPG.Vexgit</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.type Animal</link><link>Pathfinder-RPG.sous-type nuée</link><link>Pathfinder-RPG.odorat</link><link>Pathfinder-RPG.vision nocturne</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.traits des nuées</link><link>Pathfinder-RPG.Distraction</link><link>Pathfinder-RPG.Science de linitiative</link><link>Pathfinder-RPG.Talent</link><link>Pathfinder-RPG.Acrobaties</link><link>Pathfinder-RPG.Discrétion</link><link>Pathfinder-RPG.Escalade</link><link>Pathfinder-RPG.Natation</link><link>Pathfinder-RPG.Dextérité</link><link>Pathfinder-RPG.Vigueur</link><link>Pathfinder-RPG.DD</link><link>Pathfinder-RPG.affaiblissement temporaire</link><link>Pathfinder-RPG.Constitution</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Nu&#233;e de rats&lt;div style=&quot;float:right;&quot;&gt;FP 2&lt;/div&gt;&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Bestiaire&lt;/i&gt; p.246
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 600
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Animal.html&quot; title=&quot;Animal&quot;&gt;Animal&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Nu&#233;e.html&quot; title=&quot;Nu&#233;e (sous-type)&quot;&gt;nu&#233;e&lt;/a&gt;) de taille TP, N
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +6 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Odorat-(Capacit&#233;).html&quot; title=&quot;odorat&quot;&gt;odorat&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Nocturne-(Capacit&#233;).html&quot; title=&quot;vision nocturne&quot;&gt;vision nocturne&lt;/a&gt; ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +8
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 14, contact 14, pris au d&#233;pourvu 12 (Dex +2, taille +2)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 16 (3d8+3)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +5, &lt;b&gt;Vig&lt;/b&gt; +4, &lt;b&gt;Vol&lt;/b&gt; +2
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Capacit&#233;s d&#233;fensives&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Nu&#233;e.html#TRAITSNUEES&quot; title=&quot;traits des nu&#233;es&quot;&gt;traits des nu&#233;es&lt;/a&gt; 
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 4,50 m (3 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), escalade 4,50 m (3 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), nage 4,50 m (3 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; nu&#233;e (1d6 et maladie)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Espace&lt;/b&gt; 3 m (2 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) ; &lt;b&gt;Allonge&lt;/b&gt; 0 m (0 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaques sp&#233;ciales&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Distraction-(Capacit&#233;).html&quot; title=&quot;Distraction&quot;&gt;distraction&lt;/a&gt; (DD 12), maladie
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 2, &lt;b&gt;Dex&lt;/b&gt; 15, &lt;b&gt;Con&lt;/b&gt; 13, &lt;b&gt;Int&lt;/b&gt; 2, &lt;b&gt;Sag&lt;/b&gt; 13, &lt;b&gt;Cha&lt;/b&gt; 2
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +2, &lt;b&gt;BMO&lt;/b&gt; -, &lt;b&gt;DMD&lt;/b&gt; -
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Science-De-Linitiative.html&quot; title=&quot;Science de l&amp;#39;initiative&quot;&gt;Science de l&#39;initiative&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Talent.html&quot; title=&quot;Talent&quot;&gt;Talent&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Acrobaties.html&quot; title=&quot;Acrobaties&quot;&gt;Acrobaties&lt;/a&gt; +6, &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; +14, &lt;a class=&quot;pagelink&quot; href=&quot;Escalade.html&quot; title=&quot;Escalade&quot;&gt;Escalade&lt;/a&gt; +10, &lt;a class=&quot;pagelink&quot; href=&quot;Natation.html&quot; title=&quot;Natation&quot;&gt;Natation&lt;/a&gt; +10, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +8 ; &lt;b&gt;Modificateurs raciaux&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Escalade.html&quot; title=&quot;Escalade&quot;&gt;Escalade&lt;/a&gt; et &lt;a class=&quot;pagelink&quot; href=&quot;Natation.html&quot; title=&quot;Natation&quot;&gt;Natation&lt;/a&gt; d&#233;pendent de la &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#DEXTERITE&quot; title=&quot;La Dext&#233;rit&#233;&quot;&gt;Dext&#233;rit&#233;&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; quelconque
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation sociale&lt;/b&gt; solitaire, meute (2-5 nu&#233;es) ou infestation (6-12 nu&#233;es)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; aucun
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Capacit&#233;s sp&#233;ciales&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Maladie : fi&#232;vre des marais (Ext).&lt;/b&gt; Nu&#233;e - blessure ; &lt;i&gt;JS&lt;/i&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;Vigueur&quot;&gt;Vigueur&lt;/a&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DEGREDEDIFFICULTE&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; 12 ; &lt;i&gt;incubation&lt;/i&gt; 1d3 jours ; &lt;i&gt;fr&#233;quence&lt;/i&gt; 1/jour ; &lt;i&gt;effet&lt;/i&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Affaiblissement-Temporaire-(Capacit&#233;).html&quot; title=&quot;affaiblissement temporaire&quot;&gt;affaiblissement temporaire&lt;/a&gt; 1d3 &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#DEXTERITE&quot; title=&quot;La Dext&#233;rit&#233;&quot;&gt;Dex&lt;/a&gt; et 1d3 &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#CONSTITUTION&quot; title=&quot;La Constitution&quot;&gt;Con&lt;/a&gt; ; &lt;i&gt;gu&#233;rison&lt;/i&gt; 2 r&#233;ussites cons&#233;cutives. Le &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DEGREDEDIFFICULTE&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; d&#233;pend de la &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#CONSTITUTION&quot; title=&quot;La Constitution&quot;&gt;Constitution&lt;/a&gt;.
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;td&gt;&lt;div&gt;&lt;i&gt;Une masse grouillante de rats s’approche, poussant de petits cris, d&#233;voilant
+des dents ac&#233;r&#233;es ici et l&#224; et griffant tout sur son passage.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Une nu&#233;e de rats se compose
+g&#233;n&#233;ralement d’une masse grouillante
+de centaines de rats porteurs de maladies,
+pr&#234;ts &#224; mordre et rendus terriblement
+agressifs par une faim irr&#233;sistible
+et insatiable. Rassembl&#233;s en
+tel nombre, ils deviennent des
+chasseurs voraces capables de tuer
+un homme adulte en le mordant
+plusieurs centaines de fois. Les nu&#233;es de
+rats se rassemblent souvent dans les
+&#233;gouts des grandes villes humaines.
+Elles encerclent puis attaquent
+toutes les proies &#224; sang chaud qui
+se dressent sur leur passage.
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Nuée de rats|FP 2}
+{s:pucem|Animal|Ville|Tempéré}
+{s:BDTexte|''Source : Bestiaire'' p.246}
+{s:BDTexte|'''PX''' 600}
+{s:BDTexte|[[type Animal|Animal]] ([[sous-type nuée|nuée]]) de taille TP, N}
+{s:BDTexte|'''Init''' +6 ; '''Sens''' [[odorat]], [[vision nocturne]] ; [[Perception]] +8}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 14, contact 14, pris au dépourvu 12 (Dex +2, taille +2)}
+{s:BDTexte|'''pv''' 16 (3d8+3)}
+{s:BDTexte|'''Réf''' +5, '''Vig''' +4, '''Vol''' +2}
+{s:BDTexte|'''Capacités défensives''' [[traits des nuées]] }
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 4,50 m (3 {s:c}), escalade 4,50 m (3 {s:c}), nage 4,50 m (3 {s:c})}
+{s:BDTexte|'''Corps à corps''' nuée (1d6 et maladie)}
+{s:BDTexte|'''Espace''' 3 m (2 {s:c}) ; '''Allonge''' 0 m (0 {s:c})}
+{s:BDTexte|'''Attaques spéciales''' [[distraction]] (DD 12), maladie}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 2, '''Dex''' 15, '''Con''' 13, '''Int''' 2, '''Sag''' 13, '''Cha''' 2}
+{s:BDTexte|'''BBA''' +2, '''BMO''' -, '''DMD''' -}
+{s:BDTexte|'''Dons''' [[Science de linitiative|Science de l'initiative]], [[Talent]] ([[Perception]])}
+{s:BDTexte|'''Compétences''' [[Acrobaties]] +6, [[Discrétion]] +14, [[Escalade]] +10, [[Natation]] +10, [[Perception]] +8 ; '''Modificateurs raciaux''' [[Escalade]] et [[Natation]] dépendent de la [[Dextérité]]}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' quelconque}
+{s:BDTexte|'''Organisation sociale''' solitaire, meute (2-5 nuées) ou infestation (6-12 nuées)}
+{s:BDTexte|'''Trésor''' aucun}
+{s:BDSousTitre|Capacités spéciales}
+{s:BDTexte|'''Maladie : fièvre des marais (Ext).''' Nuée - blessure ; ''JS'' [[Vigueur]] [[DD]] 12 ; ''incubation'' 1d3 jours ; ''fréquence'' 1/jour ; ''effet'' [[affaiblissement temporaire]] 1d3 [[Dextérité|Dex]] et 1d3 [[Constitution|Con]] ; ''guérison'' 2 réussites consécutives. Le [[DD]] dépend de la [[Constitution]].}
+</div>
+</td><td><div>''Une masse grouillante de rats s’approche, poussant de petits cris, dévoilant
+des dents acérées ici et là et griffant tout sur son passage.''
+
+Une nuée de rats se compose
+généralement d’une masse grouillante
+de centaines de rats porteurs de maladies,
+prêts à mordre et rendus terriblement
+agressifs par une faim irrésistible
+et insatiable. Rassemblés en
+tel nombre, ils deviennent des
+chasseurs voraces capables de tuer
+un homme adulte en le mordant
+plusieurs centaines de fois. Les nuées de
+rats se rassemblent souvent dans les
+égouts des grandes villes humaines.
+Elles encerclent puis attaquent
+toutes les proies à sang chaud qui
+se dressent sur leur passage.
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Nuée de rats</fullName>
+</wikiPage>

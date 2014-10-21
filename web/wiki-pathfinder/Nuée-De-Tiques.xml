@@ -1,0 +1,115 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Nuée de tiques</title>
+  <categories><category>Pathfinder-RPG.Bestiaire 2</category><category>Pathfinder-RPG.Monstre</category><category>Pathfinder-RPG.Règles officielles</category></categories>
+  <lastModified>2013-02-06 20:31:52Z</lastModified>
+  <version>8</version>
+  <inLinks><link>Pathfinder-RPG.Glossaire des monstres</link><link>Pathfinder-RPG.Liste de monstres par FP</link><link>Pathfinder-RPG.Liste de monstres par milieu naturel</link><link>Pathfinder-RPG.Liste de monstres par type</link><link>Pathfinder-RPG.Monstres</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.type Vermine</link><link>Pathfinder-RPG.sous-type nuée</link><link>Pathfinder-RPG.odorat</link><link>Pathfinder-RPG.vision dans le noir</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.traits des nuées</link><link>Pathfinder-RPG.Distraction</link><link>Pathfinder-RPG.Escalade</link><link>Pathfinder-RPG.Vigueur</link><link>Pathfinder-RPG.DD</link><link>Pathfinder-RPG.affaiblissement temporaire</link><link>Pathfinder-RPG.Constitution</link><link>Pathfinder-RPG.Charisme</link><link>Pathfinder-RPG.Action complexe</link><link>Pathfinder-RPG.Réflexes</link><link>Pathfinder-RPG.Dextérité</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Nu&#233;e de tiques&lt;div style=&quot;float:right;&quot;&gt;FP 9&lt;/div&gt;&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Bestiaire 2 p.269&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 6.400
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Vermine.html&quot; title=&quot;Vermine&quot;&gt;Vermine&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Nu&#233;e.html&quot; title=&quot;Nu&#233;e (sous-type)&quot;&gt;nu&#233;e&lt;/a&gt;) de taille I, N
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +2 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Odorat-(Capacit&#233;).html&quot; title=&quot;odorat&quot;&gt;odorat&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Capacit&#233;s-Sp&#233;ciales.html#VISIONDANSLENOIR&quot; title=&quot;vision dans le noir&quot;&gt;vision dans le noir&lt;/a&gt; 18 m (12 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +0
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 23, contact 20, pris au d&#233;pourvu 21 (Dex +2, naturelle +3, taille +8)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 120 (16d8+48)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +7, &lt;b&gt;Vig&lt;/b&gt; +13, &lt;b&gt;Vol&lt;/b&gt; +5
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Capacit&#233;s d&#233;fensives&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Nu&#233;e.html#TRAITSNUEES&quot; title=&quot;traits des nu&#233;es&quot;&gt;traits des nu&#233;es&lt;/a&gt; ; &lt;b&gt;Immunit&#233;s&lt;/b&gt; d&#233;g&#226;ts par armes, effets mentaux
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 9 m (6 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), escalade 9 m (6 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; nu&#233;e (4d6 plus maladie, &lt;a class=&quot;pagelink&quot; href=&quot;Distraction-(Capacit&#233;).html&quot; title=&quot;Distraction&quot;&gt;distraction&lt;/a&gt; et absorption de sang)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaques sp&#233;ciales&lt;/b&gt; absorption de sang (1d4 Con), distraction (DD 21), s&#39;accrocher
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 1, &lt;b&gt;Dex&lt;/b&gt; 14, &lt;b&gt;Con&lt;/b&gt; 16, &lt;b&gt;Int&lt;/b&gt; —, &lt;b&gt;Sag&lt;/b&gt; 11, &lt;b&gt;Cha&lt;/b&gt; 1
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +12, &lt;b&gt;BMO&lt;/b&gt; —, &lt;b&gt;DMD&lt;/b&gt; —
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Escalade.html&quot; title=&quot;Escalade&quot;&gt;Escalade&lt;/a&gt; +10 ; &lt;b&gt;Modificateurs raciaux&lt;/b&gt; utilise la Dex pour les tests d’Escalade
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; for&#234;ts temp&#233;r&#233;es
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation sociale&lt;/b&gt; solitaire, couple ou colonie (3–6)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; aucun
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Pouvoirs sp&#233;ciaux&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Maladie : peste bubonique (Ext).&lt;/b&gt; Morsure — blessure ; &lt;i&gt;JdS&lt;/i&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;Vigueur&quot;&gt;Vigueur&lt;/a&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DEGREDEDIFFICULTE&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; 12 ; &lt;i&gt;incubation&lt;/i&gt; 1 jour ; &lt;i&gt;fr&#233;quence&lt;/i&gt; 1/jour ; &lt;i&gt;effet&lt;/i&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Affaiblissement-Temporaire-(Capacit&#233;).html&quot; title=&quot;affaiblissement temporaire&quot;&gt;affaiblissement temporaire&lt;/a&gt; 1d4 &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#CONSTITUTION&quot; title=&quot;La Constitution&quot;&gt;Con&lt;/a&gt;, 1 &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#CHARISME&quot; title=&quot;Le Charisme&quot;&gt;Cha&lt;/a&gt; et &lt;a class=&quot;internallink&quot; href=&quot;&#201;tats-Pr&#233;judiciables.html#Fatigu&#233;_13&quot; title=&quot;fatigue&quot;&gt;fatigue&lt;/a&gt; ; &lt;i&gt;gu&#233;rison&lt;/i&gt; 2 r&#233;ussites cons&#233;cutives. Le &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DEGREDEDIFFICULTE&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; du jet de sauvegarde d&#233;pend de la Constitution.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;S&#39;accrocher (Ext).&lt;/b&gt; Si une cr&#233;ature quitte l’emplacement occup&#233; par une nu&#233;e de tiques, celle-ci subit 1d6 points de d&#233;g&#226;ts, ce qui refl&#232;te la perte d’une partie de ses membres car plusieurs tiques s’accrochent &#224; la victime. La cr&#233;ature &#224; laquelle les tiques se sont accroch&#233;es subit des d&#233;g&#226;ts de nu&#233;e &#224; la fin de chaque de ses
+tours. Par une &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions.html#COMPLEXE&quot; title=&quot;Action complexe&quot;&gt;action complexe&lt;/a&gt;, elle peut se d&#233;barrasser des tiques en r&#233;ussissant un jet de
+&lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;R&#233;flexes&quot;&gt;R&#233;flexes&lt;/a&gt; contre un &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DEGREDEDIFFICULTE&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; de 20. Si elle re&#231;oit au moins 10 points de d&#233;g&#226;ts &#224; cause d’un effet de zone, toutes le tiques accroch&#233;es sont d&#233;truites. Le DD du jet de sauvegarde d&#233;pend de la &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#DEXTERITE&quot; title=&quot;La Dext&#233;rit&#233;&quot;&gt;Dext&#233;rit&#233;&lt;/a&gt;.
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;td&gt;&lt;div&gt;&lt;i&gt;Les grattements des pattes de cet hideux tapis luisant constitu&#233; de tiques de la taille d’un poing r&#233;sonnent comme une mise en garde alors que la nu&#233;e s’approche en rampant.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Les nu&#233;es de tiques sont des fl&#233;aux sans piti&#233; qui r&#233;duisent la faune de la r&#233;gion qu’ils infestent en des carcasses contagieuses et exsangues.
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Nuée de tiques|FP 9}
+{s:pucem|Vermine|Forêt-Jungle|Tempéré}
+{s:BDTexte|''Source : Bestiaire 2 p.269''}
+{s:BDTexte|'''PX''' 6.400}
+{s:BDTexte|[[type Vermine|Vermine]] ([[sous-type nuée|nuée]]) de taille I, N}
+{s:BDTexte|'''Init''' +2 ; '''Sens''' [[odorat]], [[vision dans le noir]] 18 m (12 {s:c}) ; [[Perception]] +0}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 23, contact 20, pris au dépourvu 21 (Dex +2, naturelle +3, taille +8)}
+{s:BDTexte|'''pv''' 120 (16d8+48)}
+{s:BDTexte|'''Réf''' +7, '''Vig''' +13, '''Vol''' +5}
+{s:BDTexte|'''Capacités défensives''' [[traits des nuées]] ; '''Immunités''' dégâts par armes, effets mentaux}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 9 m (6 {s:c}), escalade 9 m (6 {s:c})}
+{s:BDTexte|'''Corps à corps''' nuée (4d6 plus maladie, [[distraction]] et absorption de sang)}
+{s:BDTexte|'''Attaques spéciales''' absorption de sang (1d4 Con), distraction (DD 21), s'accrocher}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 1, '''Dex''' 14, '''Con''' 16, '''Int''' —, '''Sag''' 11, '''Cha''' 1}
+{s:BDTexte|'''BBA''' +12, '''BMO''' —, '''DMD''' —}
+{s:BDTexte|'''Compétences''' [[Escalade]] +10 ; '''Modificateurs raciaux''' utilise la Dex pour les tests d’Escalade}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' forêts tempérées}
+{s:BDTexte|'''Organisation sociale''' solitaire, couple ou colonie (3–6)}
+{s:BDTexte|'''Trésor''' aucun}
+{s:BDSousTitre|Pouvoirs spéciaux}
+{s:BDTexte|'''Maladie : peste bubonique (Ext).''' Morsure — blessure ; ''JdS'' [[Vigueur]] [[DD]] 12 ; ''incubation'' 1 jour ; ''fréquence'' 1/jour ; ''effet'' [[affaiblissement temporaire]] 1d4 [[constitution|Con]], 1 [[charisme|Cha]] et [[États préjudiciables.ashx#Fatigué_13|fatigue]] ; ''guérison'' 2 réussites consécutives. Le [[DD]] du jet de sauvegarde dépend de la Constitution.}
+{s:BDTexte|'''S'accrocher (Ext).''' Si une créature quitte l’emplacement occupé par une nuée de tiques, celle-ci subit 1d6 points de dégâts, ce qui reflète la perte d’une partie de ses membres car plusieurs tiques s’accrochent à la victime. La créature à laquelle les tiques se sont accrochées subit des dégâts de nuée à la fin de chaque de ses
+tours. Par une [[action complexe]], elle peut se débarrasser des tiques en réussissant un jet de
+[[Réflexes]] contre un [[DD]] de 20. Si elle reçoit au moins 10 points de dégâts à cause d’un effet de zone, toutes le tiques accrochées sont détruites. Le DD du jet de sauvegarde dépend de la [[Dextérité]].}
+</div>
+</td><td><div>''Les grattements des pattes de cet hideux tapis luisant constitué de tiques de la taille d’un poing résonnent comme une mise en garde alors que la nuée s’approche en rampant.''
+
+Les nuées de tiques sont des fléaux sans pitié qui réduisent la faune de la région qu’ils infestent en des carcasses contagieuses et exsangues.
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Nuée de tiques</fullName>
+</wikiPage>

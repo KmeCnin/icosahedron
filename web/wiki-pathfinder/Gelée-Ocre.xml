@@ -1,0 +1,205 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Gelée ocre</title>
+  <categories><category>Pathfinder-RPG.Bestiaire</category><category>Pathfinder-RPG.Monstre</category><category>Pathfinder-RPG.Règles officielles</category></categories>
+  <lastModified>2013-06-12 14:07:27Z</lastModified>
+  <version>7</version>
+  <inLinks><link>Pathfinder-RPG.Glossaire des monstres</link><link>Pathfinder-RPG.Liste de monstres par FP</link><link>Pathfinder-RPG.Liste de monstres par milieu naturel</link><link>Pathfinder-RPG.Liste de monstres par type</link><link>Pathfinder-RPG.Monstres</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.type Vase</link><link>Pathfinder-RPG.vision aveugle</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Étreinte</link><link>Pathfinder-RPG.constriction</link><link>Pathfinder-RPG.croc-en-jambe</link><link>Pathfinder-RPG.Escalade</link><link>Pathfinder-RPG.type Créature artificielle</link><link>Pathfinder-RPG.type Mort-vivant</link><link>Pathfinder-RPG.Squelette, archétype</link><link>Pathfinder-RPG.type Plante</link><link>Pathfinder-RPG.sous-type intangible</link><link>Pathfinder-RPG.pv</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Gel&#233;e ocre&lt;div style=&quot;float:right;&quot;&gt;FP 5&lt;/div&gt;&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Bestiaire p.153&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 1.600
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Vase.html&quot; title=&quot;Vase&quot;&gt;Vase&lt;/a&gt; de taille G, N
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; -5 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Aveugle-(Capacit&#233;).html&quot; title=&quot;vision aveugle&quot;&gt;vision aveugle&lt;/a&gt; 18 m (12 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; -5
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 4, contact 4, pris au d&#233;pourvu 4 (Dex -5, taille -1)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 63 (6d8+36)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; -3, &lt;b&gt;Vig&lt;/b&gt; +8, &lt;b&gt;Vol&lt;/b&gt; -3
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Capacit&#233;s d&#233;fensives&lt;/b&gt; division ; &lt;b&gt;Immunit&#233;s&lt;/b&gt; d&#233;g&#226;ts per&#231;ants et tranchants, effets mentaux, &#233;lectricit&#233;, &lt;a class=&quot;pagelink&quot; href=&quot;Type-Vase.html&quot; title=&quot;Vase&quot;&gt;traits des vases&lt;/a&gt; 
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 3 m (2 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), escalade 3 m (2 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; coup, +5 (2d4+3 et 1d4 acide et &lt;a class=&quot;pagelink&quot; href=&quot;&#201;treinte-(Capacit&#233;).html&quot; title=&quot;&#201;treinte&quot;&gt;&#233;treinte&lt;/a&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Espace&lt;/b&gt; 3 m (2 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) ; &lt;b&gt;Allonge&lt;/b&gt; 1,50 m (1 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaques sp&#233;ciales&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Constriction-(Capacit&#233;).html&quot; title=&quot;constriction&quot;&gt;constriction&lt;/a&gt; (2d4+3 et 1d4 acide)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 14, &lt;b&gt;Dex&lt;/b&gt; 1, &lt;b&gt;Con&lt;/b&gt; 22, &lt;b&gt;Int&lt;/b&gt; -, &lt;b&gt;Sag&lt;/b&gt; 1, &lt;b&gt;Cha&lt;/b&gt; 1
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +4, &lt;b&gt;BMO&lt;/b&gt; +7 (+11 pour la lutte), &lt;b&gt;DMD&lt;/b&gt; 12 (&lt;a class=&quot;pagelink&quot; href=&quot;Croc-En-Jambe.html&quot; title=&quot;croc-en-jambe&quot;&gt;croc-en-jambe&lt;/a&gt; impossible)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Escalade.html&quot; title=&quot;Escalade&quot;&gt;Escalade&lt;/a&gt; +10
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; marais ou souterrain, climat temp&#233;r&#233;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation sociale&lt;/b&gt; solitaire
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; aucun
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Capacit&#233;s sp&#233;ciales&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Acide (Ext).&lt;/b&gt; Les gel&#233;es ocres s&#233;cr&#232;tent un acide digestif qui ne dissout que la chair (pas les os) lorsqu&#39;elles frappent un ennemi. Les cr&#233;atures sui ne sont pas compos&#233;es de chair (comme la plupart des &lt;a class=&quot;pagelink&quot; href=&quot;Type-Cr&#233;ature-Artificielle.html&quot; title=&quot;Cr&#233;ature artificielle&quot;&gt;cr&#233;atures artificielles&lt;/a&gt; et des &lt;a class=&quot;pagelink&quot; href=&quot;Type-Vase.html&quot; title=&quot;Vase&quot;&gt;vases&lt;/a&gt;, les &lt;a class=&quot;pagelink&quot; href=&quot;Type-Mort-Vivant.html&quot; title=&quot;Mort-vivant&quot;&gt;morts-vivants&lt;/a&gt; semblables &#224; des &lt;a class=&quot;pagelink&quot; href=&quot;Squelette,-Arch&#233;type.html&quot; title=&quot;Squelette, arch&#233;type&quot;&gt;squelettes&lt;/a&gt;, les &lt;a class=&quot;pagelink&quot; href=&quot;Type-Plante.html&quot; title=&quot;Plante&quot;&gt;plantes&lt;/a&gt; et les cr&#233;atures &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Intangible.html&quot; title=&quot;Intangible (sous-type)&quot;&gt;intangibles&lt;/a&gt;) sont immunis&#233;es contres l&#39;acide des gel&#233;es ocres.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Division (Ext).&lt;/b&gt; Les armes tranchantes, les armes perforantes et les attaques d&#39;&#233;lectricit&#233; n&#39;infligent aucun d&#233;g&#226;t aux gel&#233;es ocres. Au lieu de cela, la gel&#233;e se divise en deux gel&#233;es identiques poss&#233;dant chacune la moiti&#233; du nombre de &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#POINTSDEVIE&quot; title=&quot;pv&quot;&gt;points de vies&lt;/a&gt; de l&#39;original (arrondi vers le bas). Les gel&#233;es qui n&#39;ont que 10 points de vie ou moins ne peuvent plus se diviser. Elles meurent si elles sont r&#233;duites &#224; 0 points de vie.
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;td&gt;&lt;div&gt;&lt;i&gt;Cette cr&#233;ature amibo&#239;de jaune-orange glisse lentement sur le sol en se propulsant &#224; l’aide de pseudopodes.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Les gel&#233;es ocres sont des masses anim&#233;es de
+protoplasme jaun&#226;tre, orange ou brun. Au
+repos, leur corps tremblotant atteint une hauteur
+de 1,80 m&#232;tre et peut recouvrir un large diam&#232;tre. Lorsqu’elles
+se d&#233;placent, elles prennent souvent la forme de sph&#232;res
+g&#233;latineuses qui semblent rouler sur elles-m&#234;mes. &lt;br /&gt;&lt;br /&gt;Leur corps mall&#233;able leur permet de se faufiler &#224; travers des fissures et
+des trous bien plus &#233;troits que l’espace qu’elles occupent.
+Les cr&#233;atures qui vivent sous terre tentent souvent de
+boucher tous les orifices qui pourraient permettre &#224; une
+gel&#233;e ocre de s’introduire dans leur repaire.&lt;br /&gt;&lt;br /&gt;L’acide tr&#232;s particulier des gel&#233;es ocres ne dissout que la chair, un
+fait qui a incit&#233; de nombreux empoisonneurs et alchimistes &#224; tenter
+de capturer des sp&#233;cimens sur lesquels pratiquer des exp&#233;riences.
+Celles-ci ont d’ailleurs donn&#233; naissance &#224; des armes qui s’en prennent
+aux tissus vivants avec des effets abominables. Des rumeurs ont
+commenc&#233; &#224; circuler il y a quelques ann&#233;es, au sujet d’un poison &#224;
+effet lent qui d&#233;chirerait les parois des cellules des cr&#233;atures vivantes,
+mais son cr&#233;ateur n’en a jamais d&#233;voil&#233; le secret.&lt;br /&gt;&lt;br /&gt;Des notes trouv&#233;es dans un livre perdu depuis longtemps
+mentionnent une technique d’inhumation semblable &#224; la cr&#233;mation
+et utilis&#233;e dans des contr&#233;es lointaines. Au lieu de br&#251;ler le corps
+puis d’ensevelir les cendres, ceux qui pratiquent cette technique
+enferment le corps dans un sarcophage de pierre contenant une
+gel&#233;e ocre et la laisse dissoudre la d&#233;pouille. &lt;br /&gt;&lt;br /&gt;Une fois que c’est fait, ils placent la gel&#233;e ocre dans une grande urne fun&#233;raire orn&#233;e d’une
+plaque de bronze portant le nom du d&#233;funt. Cette pratique prot&#232;ge
+les objets qui sont enterr&#233;s avec le corps (qui est rapidement r&#233;duit &#224;
+l’&#233;tat de simple squelette aux os bien lisses) et, selon leur croyances,
+l’essence du d&#233;funt continue d’exister au sein de la gel&#233;e ocre.&lt;br /&gt;&lt;br /&gt;Les gel&#233;es ocres mesurent &#224; peu pr&#232;s 1,80 m&#232;tre de hauteur et
+s’&#233;tendent sur un diam&#232;tre l&#233;g&#232;rement sup&#233;rieur &#224; 3 m&#232;tres. Elles
+p&#232;sent plus de 1 300 kg. En combat, elles se ramassent g&#233;n&#233;ralement
+sur elles-m&#234;mes et projettent de longs pseudopodes gluants qu’elles
+utilisent pour frapper ou agripper tout ce qui bouge.&lt;br /&gt;&lt;br /&gt;Le profil pr&#233;sent&#233; ici correspond aux gel&#233;es ocres les plus
+courantes mais ces pr&#233;dateurs d&#233;nu&#233;s d’intelligence peuvent
+atteindre des tailles gigantesques dans les profondeurs du monde
+souterrain. Plus inqui&#233;tant encore, certaines rumeurs &#233;voquent des
+gel&#233;es ocres qui seraient parvenues &#224; d&#233;velopper d’autres m&#233;thodes
+pour capturer leurs proies. &lt;br /&gt;&lt;br /&gt;Certains aventuriers parlent de gel&#233;es capables d’empoisonner leurs adversaires par simple contact ou
+de produire des nuages de gaz qui br&#251;le les yeux et la gorge, de
+sorte que les imprudents qui s’approchent trop pr&#232;s d’elles sont
+incapables de se d&#233;fendre au moment o&#249; la gigantesque cr&#233;ature
+protoplasmique vient les recouvrir et commencer son repas.
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Gelée ocre|FP 5}
+{s:pucem|Vase|Souterrain|Tempéré}
+{s:BDTexte|''Source : Bestiaire p.153''}
+{s:BDTexte|'''PX''' 1.600}
+{s:BDTexte|[[type Vase|Vase]] de taille G, N}
+{s:BDTexte|'''Init''' -5 ; '''Sens''' [[vision aveugle]] 18 m (12 {s:c}) ; [[Perception]] -5}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 4, contact 4, pris au dépourvu 4 (Dex -5, taille -1)}
+{s:BDTexte|'''pv''' 63 (6d8+36)}
+{s:BDTexte|'''Réf''' -3, '''Vig''' +8, '''Vol''' -3}
+{s:BDTexte|'''Capacités défensives''' division ; '''Immunités''' dégâts perçants et tranchants, effets mentaux, électricité, [[type vase|traits des vases]] }
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 3 m (2 {s:c}), escalade 3 m (2 {s:c})}
+{s:BDTexte|'''Corps à corps''' coup, +5 (2d4+3 et 1d4 acide et [[étreinte]])}
+{s:BDTexte|'''Espace''' 3 m (2 {s:c}) ; '''Allonge''' 1,50 m (1 {s:c})}
+{s:BDTexte|'''Attaques spéciales''' [[constriction]] (2d4+3 et 1d4 acide)}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 14, '''Dex''' 1, '''Con''' 22, '''Int''' -, '''Sag''' 1, '''Cha''' 1}
+{s:BDTexte|'''BBA''' +4, '''BMO''' +7 (+11 pour la lutte), '''DMD''' 12 ([[croc-en-jambe]] impossible)}
+{s:BDTexte|'''Compétences''' [[Escalade]] +10}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' marais ou souterrain, climat tempéré}
+{s:BDTexte|'''Organisation sociale''' solitaire}
+{s:BDTexte|'''Trésor''' aucun}
+{s:BDSousTitre|Capacités spéciales}
+{s:BDTexte|'''Acide (Ext).''' Les gelées ocres sécrètent un acide digestif qui ne dissout que la chair (pas les os) lorsqu'elles frappent un ennemi. Les créatures sui ne sont pas composées de chair (comme la plupart des [[type créature artificielle|créatures artificielles]] et des [[type vase|vases]], les [[type mort-vivant|morts-vivants]] semblables à des [[squelette, archétype|squelettes]], les [[type plante|plantes]] et les créatures [[sous-type intangible|intangibles]]) sont immunisées contres l'acide des gelées ocres.}
+{s:BDTexte|'''Division (Ext).''' Les armes tranchantes, les armes perforantes et les attaques d'électricité n'infligent aucun dégât aux gelées ocres. Au lieu de cela, la gelée se divise en deux gelées identiques possédant chacune la moitié du nombre de [[pv|points de vies]] de l'original (arrondi vers le bas). Les gelées qui n'ont que 10 points de vie ou moins ne peuvent plus se diviser. Elles meurent si elles sont réduites à 0 points de vie.}
+</div>
+</td><td><div>''Cette créature amiboïde jaune-orange glisse lentement sur le sol en se propulsant à l’aide de pseudopodes.''
+
+Les gelées ocres sont des masses animées de
+protoplasme jaunâtre, orange ou brun. Au
+repos, leur corps tremblotant atteint une hauteur
+de 1,80 mètre et peut recouvrir un large diamètre. Lorsqu’elles
+se déplacent, elles prennent souvent la forme de sphères
+gélatineuses qui semblent rouler sur elles-mêmes. 
+
+Leur corps malléable leur permet de se faufiler à travers des fissures et
+des trous bien plus étroits que l’espace qu’elles occupent.
+Les créatures qui vivent sous terre tentent souvent de
+boucher tous les orifices qui pourraient permettre à une
+gelée ocre de s’introduire dans leur repaire.
+
+L’acide très particulier des gelées ocres ne dissout que la chair, un
+fait qui a incité de nombreux empoisonneurs et alchimistes à tenter
+de capturer des spécimens sur lesquels pratiquer des expériences.
+Celles-ci ont d’ailleurs donné naissance à des armes qui s’en prennent
+aux tissus vivants avec des effets abominables. Des rumeurs ont
+commencé à circuler il y a quelques années, au sujet d’un poison à
+effet lent qui déchirerait les parois des cellules des créatures vivantes,
+mais son créateur n’en a jamais dévoilé le secret.
+
+Des notes trouvées dans un livre perdu depuis longtemps
+mentionnent une technique d’inhumation semblable à la crémation
+et utilisée dans des contrées lointaines. Au lieu de brûler le corps
+puis d’ensevelir les cendres, ceux qui pratiquent cette technique
+enferment le corps dans un sarcophage de pierre contenant une
+gelée ocre et la laisse dissoudre la dépouille. 
+
+Une fois que c’est fait, ils placent la gelée ocre dans une grande urne funéraire ornée d’une
+plaque de bronze portant le nom du défunt. Cette pratique protège
+les objets qui sont enterrés avec le corps (qui est rapidement réduit à
+l’état de simple squelette aux os bien lisses) et, selon leur croyances,
+l’essence du défunt continue d’exister au sein de la gelée ocre.
+
+Les gelées ocres mesurent à peu près 1,80 mètre de hauteur et
+s’étendent sur un diamètre légèrement supérieur à 3 mètres. Elles
+pèsent plus de 1 300 kg. En combat, elles se ramassent généralement
+sur elles-mêmes et projettent de longs pseudopodes gluants qu’elles
+utilisent pour frapper ou agripper tout ce qui bouge.
+
+Le profil présenté ici correspond aux gelées ocres les plus
+courantes mais ces prédateurs dénués d’intelligence peuvent
+atteindre des tailles gigantesques dans les profondeurs du monde
+souterrain. Plus inquiétant encore, certaines rumeurs évoquent des
+gelées ocres qui seraient parvenues à développer d’autres méthodes
+pour capturer leurs proies. 
+
+Certains aventuriers parlent de gelées capables d’empoisonner leurs adversaires par simple contact ou
+de produire des nuages de gaz qui brûle les yeux et la gorge, de
+sorte que les imprudents qui s’approchent trop près d’elles sont
+incapables de se défendre au moment où la gigantesque créature
+protoplasmique vient les recouvrir et commencer son repas.
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Gelée ocre</fullName>
+</wikiPage>

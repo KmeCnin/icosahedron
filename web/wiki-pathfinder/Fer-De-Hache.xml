@@ -1,0 +1,195 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Fer de hache</title>
+  <categories><category>Pathfinder-RPG.Bestiaire 3</category><category>Pathfinder-RPG.Monstre</category><category>Pathfinder-RPG.Règles officielles</category></categories>
+  <lastModified>2014-09-25 12:23:02Z</lastModified>
+  <version>7</version>
+  <inLinks><link>Pathfinder-RPG.Glossaire des monstres</link><link>Pathfinder-RPG.Liste de monstres par FP</link><link>Pathfinder-RPG.Liste de monstres par milieu naturel</link><link>Pathfinder-RPG.Monstres</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.type Animal</link><link>Pathfinder-RPG.vision nocturne</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Course</link><link>Pathfinder-RPG.Talent</link><link>Pathfinder-RPG.charge</link><link>Pathfinder-RPG.croc-en-jambe</link><link>Pathfinder-RPG.Action libre</link><link>Pathfinder-RPG.taille</link><link>Pathfinder-RPG.FP</link><link>Pathfinder-RPG.DV</link><link>Pathfinder-RPG.Science du critique</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Fer de hache (Andalgalornis)&lt;div style=&quot;float:right;&quot;&gt;FP 2&lt;/div&gt;&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Bestiaire 3 p.119&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 600
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Animal.html&quot; title=&quot;Animal&quot;&gt;Animal&lt;/a&gt; de taille G, N
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +3 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Nocturne-(Capacit&#233;).html&quot; title=&quot;vision nocturne&quot;&gt;vision nocturne&lt;/a&gt;; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +9
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 14, contact 12, pris au d&#233;pourvu  11 (Dex +3, naturelle +2, taille -1)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt;  22 (3d8+9)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +6, &lt;b&gt;Vig&lt;/b&gt; +6, &lt;b&gt;Vol&lt;/b&gt; +1
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 15 m (10 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; morsure, +5 (1d8+6)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Espace occup&#233;&lt;/b&gt; 3 m (2 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) ; &lt;b&gt;Allonge&lt;/b&gt; 3 m (2 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaque sp&#233;ciale&lt;/b&gt; charge foudroyante
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 18, &lt;b&gt;Dex&lt;/b&gt; 17, &lt;b&gt;Con&lt;/b&gt; 16, &lt;b&gt;Int&lt;/b&gt; 2, &lt;b&gt;Sag&lt;/b&gt; 11, &lt;b&gt;Cha&lt;/b&gt; 10
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +2, &lt;b&gt;BMO&lt;/b&gt; +7, &lt;b&gt;DMD&lt;/b&gt; 20
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Course.html&quot; title=&quot;Course&quot;&gt;Course&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Talent.html&quot; title=&quot;Talent&quot;&gt;Talent&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +9
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; plaines temp&#233;r&#233;es
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation sociale&lt;/b&gt; solitaire, couple ou vol&#233;e (3-6)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; fortuit
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Pouvoirs sp&#233;ciaux&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Charge foudroyante (Ext).&lt;/b&gt; Lorsqu’il &lt;a class=&quot;pagelink&quot; href=&quot;Actions-Sp&#233;ciales.html#CHARGE&quot; title=&quot;charge&quot;&gt;charge&lt;/a&gt;, le fer de hache fait une seule attaque de morsure. S’il r&#233;ussit, il a &#233;galement le droit de faire un &lt;a class=&quot;pagelink&quot; href=&quot;Croc-En-Jambe.html&quot; title=&quot;croc-en-jambe&quot;&gt;croc-en-jambe&lt;/a&gt; &#224; son adversaire, par une &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions.html#LIBRE&quot; title=&quot;Action libre&quot;&gt;action libre&lt;/a&gt;, sans provoquer d’attaque d’opportunit&#233;. S’il &#233;choue, son adversaire ne peut pas lui faire de &lt;a class=&quot;pagelink&quot; href=&quot;Croc-En-Jambe.html&quot; title=&quot;croc-en-jambe&quot;&gt;croc-en-jambe&lt;/a&gt; en retour.
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;td&gt;&lt;div&gt;
+&lt;i&gt;Ce gros oiseau incapable de voler se tient sur deux longues pattes se terminant par des serres, mais c’est son bec en forme de hache qui, plus que tout le reste, lui donne son air si f&#233;roce.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Les fers de hache sont de puissants
+pr&#233;dateurs aviaires &#224; l’esprit vif qui
+rivalisent avec les loups et les f&#233;lins en mati&#232;re de chasse
+dans les vastes prairies et les steppes. Ces oiseaux g&#233;ants sont
+redout&#233;s pour leur hardiesse et leur nature territoriale mais
+ils s’apprivoisent tr&#232;s facilement. Ce sont de bons gardiens,
+de bons chasseurs et m&#234;me de bonnes montures tant
+qu’on les nourrit bien. Les fers de hache sont des cr&#233;atures
+assez sociables qui forment de petits groupes de m&#226;les et
+de femelles chassant ensemble. Ils nichent dans des buttes
+&#233;normes constitu&#233;es de brindilles, de branches, de feuilles
+et de tout ce qu’ils peuvent r&#233;cup&#233;rer (y compris des os et
+de l’&#233;quipement trouv&#233; sur d’anciens repas). Chacun de ces
+nids accueille un grand groupe de fers de hache. Les femelles
+pondent en g&#233;n&#233;ral 1d4+1 oeufs par an que les parents
+couvent tour &#224; tour pendant deux mois, apr&#232;s quoi les oeufs
+&#233;closent.
+Un fer de hache adulte mesure 2,70 m et ne p&#232;se pas moins
+de 250 kilos. Le plumage de ces cr&#233;atures varie grandement :
+du gris au noir en passant par le brun dans les climats
+temp&#233;r&#233;s, il prend des teintes exotiques d’or, de rouge, de
+bleu et d’autres couleurs vives dans les zones kilos, la charge
+interm&#233;diaire est situ&#233;e entre 101 et 200 kilos, la charge
+lourde est comprise entre 201 et 300 kilos.
+Il existe d’autres types d’oiseaux pr&#233;dateurs incapables de
+voler : le fer de hache est seulement le plus courant et le plus
+connu d’entre eux. Voici deux variantes plus rares du fer de
+hache :&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Le diatryma.&lt;/b&gt; Si les diatrymas &#224; plumes noires et &#224; bec
+orange sont plus petits que le fer de hache moyen, mesurant
+&#224; peine 1,8 &#224; 2,1 m, ils n’en sont pas moins f&#233;roces. Les
+diatrymas sont des fers de hache de &lt;a class=&quot;pagelink&quot; href=&quot;Petites-Et-Grandes-Cr&#233;atures.html#TABLEAUTAILLES&quot; title=&quot;taille&quot;&gt;taille&lt;/a&gt; M. Ils ont 2 d&#233;s de
+vie et un &lt;a class=&quot;pagelink&quot; href=&quot;Rencontres.html#FP&quot; title=&quot;FP&quot;&gt;FP&lt;/a&gt; de 1.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;L’oiseau-terreur.&lt;/b&gt; Les oiseaux-terreurs font 30 cm de plus
+que le fer de hache moyen et leurs serres puissantes leur
+servent d’armes suppl&#233;mentaires. Ce sont des fers de hache
+&#233;volu&#233;s avec 5 &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DESDEVIE&quot; title=&quot;DV&quot;&gt;DV&lt;/a&gt; qui gagnent &lt;a class=&quot;pagelink&quot; href=&quot;Science-Du-Critique.html&quot; title=&quot;Science du critique&quot;&gt;Science du critique&lt;/a&gt; (morsure)
+comme don suppl&#233;mentaire. Ils ont &#233;galement deux attaques
+naturelles suppl&#233;mentaires gr&#226;ce &#224; une paire de serres
+infligeant des d&#233;g&#226;ts de base de 1d4 chacune. Les oiseaux-terreurs
+ont un &lt;a class=&quot;pagelink&quot; href=&quot;Rencontres.html#FP&quot; title=&quot;FP&quot;&gt;FP&lt;/a&gt; 4.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Le coureur des glaces.&lt;/b&gt; Une variante plus grande et plus forte de l&#39;andalgalornis qui vit sur la lointaine plan&#232;te Triaxus. Ce sont des fers de hache &#233;volu&#233;s qui font 30 cm de plus que le fer de hache moyen, avec des plumes noires et blanches. Les coureurs des glaces sont des cr&#233;atures bor&#233;ales, surnaturellement immunis&#233;es au froid mais vuln&#233;rables au feu.
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Fer de hache (Andalgalornis)|FP 2}
+{s:pucem|Animal|Plaines|Tempéré}
+{s:BDTexte|''Source : Bestiaire 3 p.119''}
+{s:BDTexte|'''PX''' 600}
+{s:BDTexte|[[type Animal|Animal]] de taille G, N}
+{s:BDTexte|'''Init''' +3 ; '''Sens''' [[vision nocturne]]; [[Perception]] +9}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 14, contact 12, pris au dépourvu  11 (Dex +3, naturelle +2, taille -1)}
+{s:BDTexte|'''pv'''  22 (3d8+9)}
+{s:BDTexte|'''Réf''' +6, '''Vig''' +6, '''Vol''' +1}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 15 m (10 {s:c})}
+{s:BDTexte|'''Corps à corps''' morsure, +5 (1d8+6)}
+{s:BDTexte|'''Espace occupé''' 3 m (2 {s:c}) ; '''Allonge''' 3 m (2 {s:c})}
+{s:BDTexte|'''Attaque spéciale''' charge foudroyante}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 18, '''Dex''' 17, '''Con''' 16, '''Int''' 2, '''Sag''' 11, '''Cha''' 10}
+{s:BDTexte|'''BBA''' +2, '''BMO''' +7, '''DMD''' 20}
+{s:BDTexte|'''Dons''' [[Course]], [[Talent]] ([[Perception]])}
+{s:BDTexte|'''Compétences''' [[Perception]] +9}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' plaines tempérées}
+{s:BDTexte|'''Organisation sociale''' solitaire, couple ou volée (3-6)}
+{s:BDTexte|'''Trésor''' fortuit}
+{s:BDSousTitre|Pouvoirs spéciaux}
+{s:BDTexte|'''Charge foudroyante (Ext).''' Lorsqu’il [[charge]], le fer de hache fait une seule attaque de morsure. S’il réussit, il a également le droit de faire un [[croc-en-jambe]] à son adversaire, par une [[action libre]], sans provoquer d’attaque d’opportunité. S’il échoue, son adversaire ne peut pas lui faire de [[croc-en-jambe]] en retour.}
+</div>
+</td><td><div>
+''Ce gros oiseau incapable de voler se tient sur deux longues pattes se terminant par des serres, mais c’est son bec en forme de hache qui, plus que tout le reste, lui donne son air si féroce.''
+
+Les fers de hache sont de puissants
+prédateurs aviaires à l’esprit vif qui
+rivalisent avec les loups et les félins en matière de chasse
+dans les vastes prairies et les steppes. Ces oiseaux géants sont
+redoutés pour leur hardiesse et leur nature territoriale mais
+ils s’apprivoisent très facilement. Ce sont de bons gardiens,
+de bons chasseurs et même de bonnes montures tant
+qu’on les nourrit bien. Les fers de hache sont des créatures
+assez sociables qui forment de petits groupes de mâles et
+de femelles chassant ensemble. Ils nichent dans des buttes
+énormes constituées de brindilles, de branches, de feuilles
+et de tout ce qu’ils peuvent récupérer (y compris des os et
+de l’équipement trouvé sur d’anciens repas). Chacun de ces
+nids accueille un grand groupe de fers de hache. Les femelles
+pondent en général 1d4+1 oeufs par an que les parents
+couvent tour à tour pendant deux mois, après quoi les oeufs
+éclosent.
+Un fer de hache adulte mesure 2,70 m et ne pèse pas moins
+de 250 kilos. Le plumage de ces créatures varie grandement :
+du gris au noir en passant par le brun dans les climats
+tempérés, il prend des teintes exotiques d’or, de rouge, de
+bleu et d’autres couleurs vives dans les zones kilos, la charge
+intermédiaire est située entre 101 et 200 kilos, la charge
+lourde est comprise entre 201 et 300 kilos.
+Il existe d’autres types d’oiseaux prédateurs incapables de
+voler : le fer de hache est seulement le plus courant et le plus
+connu d’entre eux. Voici deux variantes plus rares du fer de
+hache :
+
+'''Le diatryma.''' Si les diatrymas à plumes noires et à bec
+orange sont plus petits que le fer de hache moyen, mesurant
+à peine 1,8 à 2,1 m, ils n’en sont pas moins féroces. Les
+diatrymas sont des fers de hache de [[taille]] M. Ils ont 2 dés de
+vie et un [[FP]] de 1.
+
+'''L’oiseau-terreur.''' Les oiseaux-terreurs font 30 cm de plus
+que le fer de hache moyen et leurs serres puissantes leur
+servent d’armes supplémentaires. Ce sont des fers de hache
+évolués avec 5 [[DV]] qui gagnent [[Science du critique]] (morsure)
+comme don supplémentaire. Ils ont également deux attaques
+naturelles supplémentaires grâce à une paire de serres
+infligeant des dégâts de base de 1d4 chacune. Les oiseaux-terreurs
+ont un [[FP]] 4.
+
+'''Le coureur des glaces.''' Une variante plus grande et plus forte de l'andalgalornis qui vit sur la lointaine planète Triaxus. Ce sont des fers de hache évolués qui font 30 cm de plus que le fer de hache moyen, avec des plumes noires et blanches. Les coureurs des glaces sont des créatures boréales, surnaturellement immunisées au froid mais vulnérables au feu.
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Fer de hache</fullName>
+</wikiPage>

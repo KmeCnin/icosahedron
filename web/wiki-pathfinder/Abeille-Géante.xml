@@ -1,0 +1,116 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Abeille géante</title>
+  <categories><category>Pathfinder-RPG.Bestiaire 2</category><category>Pathfinder-RPG.Monstre</category><category>Pathfinder-RPG.Règles officielles</category></categories>
+  <lastModified>2013-02-02 13:02:19Z</lastModified>
+  <version>6</version>
+  <inLinks><link>Pathfinder-RPG.Glossaire des monstres</link><link>Pathfinder-RPG.Liste de monstres par FP</link><link>Pathfinder-RPG.Liste de monstres par milieu naturel</link><link>Pathfinder-RPG.Liste de monstres par type</link><link>Pathfinder-RPG.Monstres</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.type Vermine</link><link>Pathfinder-RPG.vision dans le noir</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.croc-en-jambe</link><link>Pathfinder-RPG.Vol</link><link>Pathfinder-RPG.Vigueur</link><link>Pathfinder-RPG.DD</link><link>Pathfinder-RPG.affaiblissement temporaire</link><link>Pathfinder-RPG.Force</link><link>Pathfinder-RPG.Pyrotechnie</link><link>Pathfinder-RPG.Fiévreux</link><link>Pathfinder-RPG.jet de sauvegarde</link><link>Pathfinder-RPG.round</link><link>Pathfinder-RPG.Archétypes</link><link>Pathfinder-RPG.Constitution</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Abeille g&#233;ante&lt;div style=&quot;float:right;&quot;&gt;FP 1&lt;/div&gt;&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Bestiaire 2 page 8&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 400
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Vermine.html&quot; title=&quot;Vermine&quot;&gt;Vermine&lt;/a&gt; de taille M, N
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +2 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Capacit&#233;s-Sp&#233;ciales.html#VISIONDANSLENOIR&quot; title=&quot;vision dans le noir&quot;&gt;vision dans le noir&lt;/a&gt; 18 m (12 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +1
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 13, contact 12, pris au d&#233;pourvu 11 (Dex +2, naturelle +1)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 16 (3d8+3)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +3, &lt;b&gt;Vig&lt;/b&gt; +4, &lt;b&gt;Vol&lt;/b&gt; +2
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Immunit&#233;s&lt;/b&gt; effets mentaux 
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Faiblesses&lt;/b&gt; vuln&#233;rable &#224; la fum&#233;e
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 6 m (4 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), vol 18 m (12 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) (bonne)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; dard, +2 (1d4 et poison)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 11, &lt;b&gt;Dex&lt;/b&gt; 14, &lt;b&gt;Con&lt;/b&gt; 13, &lt;b&gt;Int&lt;/b&gt; -, &lt;b&gt;Sag&lt;/b&gt; 12, &lt;b&gt;Cha&lt;/b&gt;9
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +2, &lt;b&gt;BMO&lt;/b&gt; +2, &lt;b&gt;DMD&lt;/b&gt; 14 (22 contre &lt;a class=&quot;pagelink&quot; href=&quot;Croc-En-Jambe.html&quot; title=&quot;croc-en-jambe&quot;&gt;croc-en-jambe&lt;/a&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vol.html&quot; title=&quot;Vol&quot;&gt;Vol&lt;/a&gt; +6
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; plaines temp&#233;r&#233;es ou chaudes
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation sociale&lt;/b&gt; solitaire, groupe (2-5) ou essaim (6-19)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; fortuit
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Capacit&#233;s sp&#233;ciales&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Poison (Ext).&lt;/b&gt; Dard - blessure ; &lt;i&gt;JS&lt;/i&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;Vigueur&quot;&gt;Vigueur&lt;/a&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DEGREDEDIFFICULTE&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; 12 ; &lt;i&gt;fr&#233;quence&lt;/i&gt; 1/round pendant 4 rounds ; &lt;i&gt;effet&lt;/i&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Affaiblissement-Temporaire-(Capacit&#233;).html&quot; title=&quot;affaiblissement temporaire&quot;&gt;affaiblissement temporaire&lt;/a&gt; 1d2 &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#FORCE&quot; title=&quot;La Force&quot;&gt;For&lt;/a&gt; ; &lt;i&gt;gu&#233;rison&lt;/i&gt; 1 r&#233;ussite.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Vuln&#233;rable &#224; la fum&#233;e (Ext).&lt;/b&gt; La fum&#233;e cr&#233;&#233;e par des feux ou des effets qui en produisent beaucoup (comme un sort de &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Pyrotechnie.html&quot; title=&quot;Pyrotechnie&quot;&gt;pyrotechnie&lt;/a&gt;&lt;/i&gt;) rend &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables.html#Fi&#233;vreux&quot; title=&quot;Fi&#233;vreux&quot;&gt;fi&#233;vreuses&lt;/a&gt; les abeilles g&#233;antes qui ratent un &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;jet de sauvegarde&quot;&gt;jet de Vigueur&lt;/a&gt; de &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DEGREDEDIFFICULTE&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; 14. Cet &#233;tat pr&#233;judiciable s’applique tant que l’abeille reste dans la fum&#233;e et persiste 1d4 &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#ROUND&quot; title=&quot;round&quot;&gt;rounds&lt;/a&gt; suppl&#233;mentaires apr&#232;s qu’elle en soit sortie.
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;td&gt;&lt;div&gt;&lt;i&gt;Des marques jaunes et noires bien visibles et un manteau de poils h&#233;riss&#233;s recouvrent cette immense abeille. Son dard &#224; la taille d’une lame de dague.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Comme leurs cousines de taille plus modeste, les abeilles g&#233;antes occupent une niche &#233;cologique correspondant au r&#244;le d’entremetteuses pour un large &#233;ventail de v&#233;g&#233;taux &#224; fleurs. Lorsqu’une abeille g&#233;ante se nourrit du nectar d’une plante, des parcelles de pollen s’attachent aux poils &#233;pais qui recouvrent son corps et ses pattes.&lt;br /&gt;&lt;br /&gt;Les abeilles g&#233;antes adultes atteignent une longueur de 1,50 m&#232;tres et une envergure &#224; peu pr&#232;s &#233;gale. Elles p&#232;sent 30 kg et vivent pendant presque 10 ans. Les dards des abeilles g&#233;antes ne sont pas dentel&#233;s comme ceux de leurs minuscules cousines, ce qui leur permet de piquer leurs ennemis plusieurs fois et de ne pas mourir apr&#232;s une unique piq&#251;re.&lt;br /&gt;&lt;br /&gt;&lt;h3 class=&quot;separator&quot;&gt;Bourdon g&#233;ant (FP 2)&lt;a class=&quot;headeranchor&quot; id=&quot;Bourdon_g&#233;ant_FP_C_0&quot; href=&quot;#Bourdon_g&#233;ant_FP_C_0&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;Ces abeilles g&#233;antes agressives et encombrantes sont construites &#224; l’aide de l’&lt;a class=&quot;pagelink&quot; href=&quot;Arch&#233;types.html&quot; title=&quot;Les arch&#233;types&quot;&gt;arch&#233;type simple&lt;/a&gt; &#171; &#233;volu&#233; &#187;. Leur venin est mortel et affecte la &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#CONSTITUTION&quot; title=&quot;La Constitution&quot;&gt;Constitution&lt;/a&gt; plut&#244;t que la &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#FORCE&quot; title=&quot;La Force&quot;&gt;Force&lt;/a&gt;.
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Abeille géante|FP 1}
+{s:pucem|Vermine|Plaines|Tempéré}
+{s:BDTexte|''Source : Bestiaire 2 page 8''}
+{s:BDTexte|'''PX''' 400}
+{s:BDTexte|[[type Vermine|Vermine]] de taille M, N}
+{s:BDTexte|'''Init''' +2 ; '''Sens''' [[vision dans le noir]] 18 m (12 {s:c}) ; [[Perception]] +1}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 13, contact 12, pris au dépourvu 11 (Dex +2, naturelle +1)}
+{s:BDTexte|'''pv''' 16 (3d8+3)}
+{s:BDTexte|'''Réf''' +3, '''Vig''' +4, '''Vol''' +2}
+{s:BDTexte|'''Immunités''' effets mentaux }
+{s:BDTexte|'''Faiblesses''' vulnérable à la fumée}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 6 m (4 {s:c}), vol 18 m (12 {s:c}) (bonne)}
+{s:BDTexte|'''Corps à corps''' dard, +2 (1d4 et poison)}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 11, '''Dex''' 14, '''Con''' 13, '''Int''' -, '''Sag''' 12, '''Cha'''9}
+{s:BDTexte|'''BBA''' +2, '''BMO''' +2, '''DMD''' 14 (22 contre [[croc-en-jambe]])}
+{s:BDTexte|'''Compétences''' [[Vol]] +6}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' plaines tempérées ou chaudes}
+{s:BDTexte|'''Organisation sociale''' solitaire, groupe (2-5) ou essaim (6-19)}
+{s:BDTexte|'''Trésor''' fortuit}
+{s:BDSousTitre|Capacités spéciales}
+{s:BDTexte|'''Poison (Ext).''' Dard - blessure ; ''JS'' [[Vigueur]] [[DD]] 12 ; ''fréquence'' 1/round pendant 4 rounds ; ''effet'' [[affaiblissement temporaire]] 1d2 [[Force|For]] ; ''guérison'' 1 réussite.}
+{s:BDTexte|'''Vulnérable à la fumée (Ext).''' La fumée créée par des feux ou des effets qui en produisent beaucoup (comme un sort de ''[[pyrotechnie]]'') rend [[fiévreux|fiévreuses]] les abeilles géantes qui ratent un [[jet de sauvegarde|jet de Vigueur]] de [[DD]] 14. Cet état préjudiciable s’applique tant que l’abeille reste dans la fumée et persiste 1d4 [[round|rounds]] supplémentaires après qu’elle en soit sortie.}
+</div>
+</td><td><div>''Des marques jaunes et noires bien visibles et un manteau de poils hérissés recouvrent cette immense abeille. Son dard à la taille d’une lame de dague.''
+
+Comme leurs cousines de taille plus modeste, les abeilles géantes occupent une niche écologique correspondant au rôle d’entremetteuses pour un large éventail de végétaux à fleurs. Lorsqu’une abeille géante se nourrit du nectar d’une plante, des parcelles de pollen s’attachent aux poils épais qui recouvrent son corps et ses pattes.
+
+Les abeilles géantes adultes atteignent une longueur de 1,50 mètres et une envergure à peu près égale. Elles pèsent 30 kg et vivent pendant presque 10 ans. Les dards des abeilles géantes ne sont pas dentelés comme ceux de leurs minuscules cousines, ce qui leur permet de piquer leurs ennemis plusieurs fois et de ne pas mourir après une unique piqûre.
+
+====Bourdon géant (FP 2)====
+Ces abeilles géantes agressives et encombrantes sont construites à l’aide de l’[[Archétypes|archétype simple]] « évolué ». Leur venin est mortel et affecte la [[Constitution]] plutôt que la [[Force]].
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Abeille géante</fullName>
+</wikiPage>

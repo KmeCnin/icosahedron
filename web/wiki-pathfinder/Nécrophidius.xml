@@ -1,0 +1,136 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Nécrophidius</title>
+  <categories><category>Pathfinder-RPG.Bestiaire 2</category><category>Pathfinder-RPG.Monstre</category><category>Pathfinder-RPG.Règles officielles</category></categories>
+  <lastModified>2013-02-07 19:13:01Z</lastModified>
+  <version>9</version>
+  <inLinks><link>Pathfinder-RPG.Glossaire des monstres</link><link>Pathfinder-RPG.Liste de monstres par FP</link><link>Pathfinder-RPG.Liste de monstres par milieu naturel</link><link>Pathfinder-RPG.Liste de monstres par type</link><link>Pathfinder-RPG.Monstres</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.type Créature artificielle</link><link>Pathfinder-RPG.vision dans le noir</link><link>Pathfinder-RPG.vision nocturne</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Traits des créatures artificielles</link><link>Pathfinder-RPG.croc-en-jambe</link><link>Pathfinder-RPG.Discrétion</link><link>Pathfinder-RPG.Volonté</link><link>Pathfinder-RPG.DD</link><link>Pathfinder-RPG.Constitution</link><link>Pathfinder-RPG.Vigueur</link><link>Pathfinder-RPG.Création de créatures artificielles</link><link>Pathfinder-RPG.Baiser de la goule</link><link>Pathfinder-RPG.Grâce féline</link><link>Pathfinder-RPG.Hébétement de monstre</link><link>Pathfinder-RPG.Quête</link><link>Pathfinder-RPG.NLS</link><link>Pathfinder-RPG.Artisanat</link><link>Pathfinder-RPG.Premiers secours</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;N&#233;crophidius&lt;div style=&quot;float:right;&quot;&gt;FP 3&lt;/div&gt;&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Bestiaire 2&lt;/i&gt; p.205
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 800
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Cr&#233;ature-Artificielle.html&quot; title=&quot;Cr&#233;ature artificielle&quot;&gt;Cr&#233;ature artificielle&lt;/a&gt; de taille M, N
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +3 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Capacit&#233;s-Sp&#233;ciales.html#VISIONDANSLENOIR&quot; title=&quot;vision dans le noir&quot;&gt;vision dans le noir&lt;/a&gt; 18 m (12 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Nocturne-(Capacit&#233;).html&quot; title=&quot;vision nocturne&quot;&gt;vision nocturne&lt;/a&gt; ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +0
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 15, contact 13, pris au d&#233;pourvu 12 (Dex +3, naturelle +2)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 36 (3d10+20)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +4, &lt;b&gt;Vig&lt;/b&gt; +1, &lt;b&gt;Vol&lt;/b&gt; +1
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Capacit&#233;s d&#233;fensives&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Traits-Des-Cr&#233;atures-Artificielles-(Capacit&#233;).html&quot; title=&quot;Traits des cr&#233;atures artificielles&quot;&gt;traits des cr&#233;atures artificielles&lt;/a&gt; ; RD 5/contondant
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 9 m (6 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; morsure, +6 (1d8+4 plus paralysie)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaques sp&#233;ciales&lt;/b&gt; danse mortelle
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 16, &lt;b&gt;Dex&lt;/b&gt; 17, &lt;b&gt;Con&lt;/b&gt; —, &lt;b&gt;Int&lt;/b&gt; —, &lt;b&gt;Sag&lt;/b&gt; 11, &lt;b&gt;Cha&lt;/b&gt; 1
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +3, &lt;b&gt;BMO&lt;/b&gt; +6, &lt;b&gt;DMD&lt;/b&gt; 19 (&lt;a class=&quot;pagelink&quot; href=&quot;Croc-En-Jambe.html&quot; title=&quot;croc-en-jambe&quot;&gt;croc-en-jambe&lt;/a&gt; impossible)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; +15  ; Modificateurs raciaux +12 en &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; tous
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation sociale&lt;/b&gt; solitaire ou groupe (2–6)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; aucun
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Capacit&#233;s sp&#233;ciales&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Danse mortelle (Ext).&lt;/b&gt; Un n&#233;crophidius peut fasciner ses adversaires en se balan&#231;ant d’avant en arri&#232;re par une action complexe. Toutes les cr&#233;atures situ&#233;es dans un rayon de 9 m&#232;tres et capables de voir le n&#233;crophidius dansant doivent r&#233;ussir un jet de &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;Volont&#233;&quot;&gt;Volont&#233;&lt;/a&gt; de &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DEGREDEDIFFICULTE&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; 15 pour ne pas &#234;tre h&#233;b&#233;t&#233;es pendant 2d4 rounds. Il s’agit d’un effet mental. Le DD du jet de sauvegarde d&#233;pend de la &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#CONSTITUTION&quot; title=&quot;La Constitution&quot;&gt;Constitution&lt;/a&gt; et comporte un bonus racial
+de +4.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Paralysie (Sur).&lt;/b&gt; Toutes les cr&#233;atures vivantes qui sont mordues par un n&#233;crophidius doivent r&#233;ussir un jet de &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;Vigueur&quot;&gt;Vigueur&lt;/a&gt; de DD 13 pour ne pas &#234;tre paralys&#233;es pendant 1d4 rounds. Le DD du jet de sauvegarde d&#233;pend de la Constitution et comporte un bonus racial de +2.
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;td&gt;&lt;div&gt;&lt;i&gt;De l&#233;gers craquements d’os r&#233;v&#232;lent la pr&#233;sence de ce long squelette
+sinueux de serpent orn&#233; d’un cr&#226;ne humano&#239;de et de m&#226;choires serpentines.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Malgr&#233; son apparence sinistre, le n&#233;crophidius n’est pas un serpent mort-vivant mais plut&#244;t une cr&#233;ature artificielle construite &#224; partir du squelette d’un serpent g&#233;ant garni d’un cr&#226;ne d’humano&#239;de. Des crocs sont ensuite fix&#233;s dans les m&#226;choires du cr&#226;ne puis la cr&#233;ature tout enti&#232;re est anim&#233;e par une s&#233;rie de rituels obscurs et co&#251;teux dont le secret est g&#233;n&#233;ralement bien gard&#233; par ceux qui l’ont d&#233;couvert.&lt;br /&gt;&lt;br /&gt;En tant que cr&#233;atures artificielles sans intelligence ne n&#233;cessitant ni nourriture ni repos, les n&#233;crophidius font d’excellents gardiens. De plus, leur talent inn&#233; pour la discr&#233;tion leur permet de se faufiler vers les imprudents sans se faire rep&#233;rer. Dans certaines r&#233;gions, les n&#233;crophidius sont employ&#233;s comme assassins. Ils sont capables de mettre leurs cibles hors d’&#233;tat de nuire gr&#226;ce &#224; leur danse mortelle ou leur morsure paralysante avant de s’en d&#233;barrasser d’une mani&#232;re ou d’une autre, du moins tant que l’assassinat en question ne requiert pas une certaine intelligence. Les cr&#233;ateurs les plus macabres peuvent m&#234;me construire ces cr&#233;atures &#224; partir du cr&#226;ne d’un ami ou d’un amant de la victime. Dans ces cas-l&#224;, ils laissent suffisamment de chair sur le cr&#226;ne pour que la victime puisse le reconna&#238;tre et rendent ainsi l’assassinat encore plus horrible. La chair finit naturellement par pourrir, de sorte
+que seuls les n&#233;crophidius les plus r&#233;cemment construits poss&#232;dent cette caract&#233;ristique
+des plus effroyables (il est toutefois possible de conserver la fra&#238;cheur de ces d&#233;corations morbides beaucoup plus longtemps en utilisant des sorts de pr&#233;servation des morts).&lt;br /&gt;&lt;br /&gt;M&#234;me si les n&#233;crophidius sont d&#233;nu&#233;s d’intelligence, ils peuvent suivre des ordres simples donn&#233;s par leur cr&#233;ateur. Ces instructions peuvent inclure des clauses leur imposant de rester en &#233;tat de veille jusqu’&#224; ce qu’une condition sp&#233;cifique soit remplie ou de suivre et de tuer une cible sp&#233;cifique en ignorant tout le reste.&lt;br /&gt;&lt;br /&gt;Un n&#233;crophidius moyen mesure 3 m&#232;tres de longueur et p&#232;se 100 kg.&lt;br /&gt;&lt;br /&gt;&lt;h3 class=&quot;separator&quot;&gt;Construction&lt;a class=&quot;headeranchor&quot; id=&quot;Construction_0&quot; href=&quot;#Construction_0&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;
+Le corps d’un n&#233;crophidius se compose d’un cr&#226;ne humain et des restes squelettiques d’un serpent constricteur, le tout trait&#233; avec des huiles et des poudres rares valant 1 000 po.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;NLS&lt;/b&gt; 10&lt;sup&gt;e&lt;/sup&gt; ; &lt;b&gt;Prix&lt;/b&gt; 7 500 po&lt;br /&gt;&lt;br /&gt;
+&lt;b&gt;Conditions&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;ation-De-Cr&#233;atures-Artificielles.html&quot; title=&quot;Cr&#233;ation de cr&#233;atures artificielles&quot;&gt;Cr&#233;ation de cr&#233;atures artificielles&lt;/a&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Baiser-De-La-Goule.html&quot; title=&quot;Baiser de la goule&quot;&gt;baiser de la goule&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Gr&#226;ce-F&#233;line.html&quot; title=&quot;Gr&#226;ce f&#233;line&quot;&gt;gr&#226;ce f&#233;line&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;H&#233;b&#233;tement-De-Monstre.html&quot; title=&quot;H&#233;b&#233;tement de monstre&quot;&gt;h&#233;b&#233;tement de monstre&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Qu&#234;te.html&quot; title=&quot;Qu&#234;te&quot;&gt;qu&#234;te&lt;/a&gt;&lt;/i&gt; ; le cr&#233;ateur doit avoir un &lt;a class=&quot;pagelink&quot; href=&quot;Lancer-Des-Sorts.html#NLS&quot; title=&quot;NLS&quot;&gt;NLS&lt;/a&gt; sup&#233;rieur ou &#233;gal &#224; 7 ; &lt;b&gt;Comp&#233;tence&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Artisanat.html&quot; title=&quot;Artisanat&quot;&gt;Artisanat&lt;/a&gt; (sculpture) ou &lt;a class=&quot;pagelink&quot; href=&quot;Premiers-Secours.html&quot; title=&quot;Premiers secours&quot;&gt;Premiers secours&lt;/a&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DEGREDEDIFFICULTE&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; 15 ; &lt;b&gt;Co&#251;t&lt;/b&gt; 4 250 po.
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Nécrophidius|FP 3}
+{s:pucem|Créature artificielle|Souterrain|Tempéré}
+{s:BDTexte|''Source : Bestiaire 2'' p.205}
+{s:BDTexte|'''PX''' 800}
+{s:BDTexte|[[type Créature artificielle|Créature artificielle]] de taille M, N}
+{s:BDTexte|'''Init''' +3 ; '''Sens''' [[vision dans le noir]] 18 m (12 {s:c}), [[vision nocturne]] ; [[Perception]] +0}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 15, contact 13, pris au dépourvu 12 (Dex +3, naturelle +2)}
+{s:BDTexte|'''pv''' 36 (3d10+20)}
+{s:BDTexte|'''Réf''' +4, '''Vig''' +1, '''Vol''' +1}
+{s:BDTexte|'''Capacités défensives''' [[traits des créatures artificielles]] ; RD 5/contondant}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 9 m (6 {s:c})}
+{s:BDTexte|'''Corps à corps''' morsure, +6 (1d8+4 plus paralysie)}
+{s:BDTexte|'''Attaques spéciales''' danse mortelle}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 16, '''Dex''' 17, '''Con''' —, '''Int''' —, '''Sag''' 11, '''Cha''' 1}
+{s:BDTexte|'''BBA''' +3, '''BMO''' +6, '''DMD''' 19 ([[croc-en-jambe]] impossible)}
+{s:BDTexte|'''Compétences''' [[Discrétion]] +15  ; Modificateurs raciaux +12 en [[Discrétion]]}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' tous}
+{s:BDTexte|'''Organisation sociale''' solitaire ou groupe (2–6)}
+{s:BDTexte|'''Trésor''' aucun}
+{s:BDSousTitre|Capacités spéciales}
+{s:BDTexte|'''Danse mortelle (Ext).''' Un nécrophidius peut fasciner ses adversaires en se balançant d’avant en arrière par une action complexe. Toutes les créatures situées dans un rayon de 9 mètres et capables de voir le nécrophidius dansant doivent réussir un jet de [[Volonté]] de [[DD]] 15 pour ne pas être hébétées pendant 2d4 rounds. Il s’agit d’un effet mental. Le DD du jet de sauvegarde dépend de la [[Constitution]] et comporte un bonus racial
+de +4.}
+{s:BDTexte|'''Paralysie (Sur).''' Toutes les créatures vivantes qui sont mordues par un nécrophidius doivent réussir un jet de [[Vigueur]] de DD 13 pour ne pas être paralysées pendant 1d4 rounds. Le DD du jet de sauvegarde dépend de la Constitution et comporte un bonus racial de +2.}
+</div>
+</td><td><div>''De légers craquements d’os révèlent la présence de ce long squelette
+sinueux de serpent orné d’un crâne humanoïde et de mâchoires serpentines.''
+
+Malgré son apparence sinistre, le nécrophidius n’est pas un serpent mort-vivant mais plutôt une créature artificielle construite à partir du squelette d’un serpent géant garni d’un crâne d’humanoïde. Des crocs sont ensuite fixés dans les mâchoires du crâne puis la créature tout entière est animée par une série de rituels obscurs et coûteux dont le secret est généralement bien gardé par ceux qui l’ont découvert.
+
+En tant que créatures artificielles sans intelligence ne nécessitant ni nourriture ni repos, les nécrophidius font d’excellents gardiens. De plus, leur talent inné pour la discrétion leur permet de se faufiler vers les imprudents sans se faire repérer. Dans certaines régions, les nécrophidius sont employés comme assassins. Ils sont capables de mettre leurs cibles hors d’état de nuire grâce à leur danse mortelle ou leur morsure paralysante avant de s’en débarrasser d’une manière ou d’une autre, du moins tant que l’assassinat en question ne requiert pas une certaine intelligence. Les créateurs les plus macabres peuvent même construire ces créatures à partir du crâne d’un ami ou d’un amant de la victime. Dans ces cas-là, ils laissent suffisamment de chair sur le crâne pour que la victime puisse le reconnaître et rendent ainsi l’assassinat encore plus horrible. La chair finit naturellement par pourrir, de sorte
+que seuls les nécrophidius les plus récemment construits possèdent cette caractéristique
+des plus effroyables (il est toutefois possible de conserver la fraîcheur de ces décorations morbides beaucoup plus longtemps en utilisant des sorts de préservation des morts).
+
+Même si les nécrophidius sont dénués d’intelligence, ils peuvent suivre des ordres simples donnés par leur créateur. Ces instructions peuvent inclure des clauses leur imposant de rester en état de veille jusqu’à ce qu’une condition spécifique soit remplie ou de suivre et de tuer une cible spécifique en ignorant tout le reste.
+
+Un nécrophidius moyen mesure 3 mètres de longueur et pèse 100 kg.
+
+====Construction====
+
+Le corps d’un nécrophidius se compose d’un crâne humain et des restes squelettiques d’un serpent constricteur, le tout traité avec des huiles et des poudres rares valant 1 000 po.
+
+'''NLS''' 10<sup>e</sup> ; '''Prix''' 7 500 po
+
+
+'''Conditions''' [[Création de créatures artificielles]], ''[[baiser de la goule]]'', ''[[grâce féline]]'', ''[[hébétement de monstre]]'', ''[[quête]]'' ; le créateur doit avoir un [[NLS]] supérieur ou égal à 7 ; '''Compétence''' [[Artisanat]] (sculpture) ou [[Premiers secours]] [[DD]] 15 ; '''Coût''' 4 250 po.
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Nécrophidius</fullName>
+</wikiPage>

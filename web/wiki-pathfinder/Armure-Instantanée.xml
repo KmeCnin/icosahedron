@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Armure instantanée</title>
+  <categories><category>Pathfinder-RPG.Advanced Player Guide</category><category>Pathfinder-RPG.Règles officielles</category><category>Pathfinder-RPG.Sort</category><category>Pathfinder-RPG.Sort paladin 2</category><category>Pathfinder-RPG.Sort prêtre 2</category></categories>
+  <lastModified>2012-12-07 15:23:43Z</lastModified>
+  <version>3</version>
+  <inLinks><link>Pathfinder-RPG.Glossaire des sorts</link><link>Pathfinder-RPG.Liste des sorts</link><link>Pathfinder-RPG.Liste des sorts de paladins</link><link>Pathfinder-RPG.Liste des sorts de prêtres</link><link>Pathfinder-RPG.Liste des sorts par registre</link><link>Pathfinder-RPG.TMP sorts APG</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Invocation</link><link>Pathfinder-RPG.branche création</link><link>Pathfinder-RPG.Registre</link><link>Pathfinder-RPG.Paladin</link><link>Pathfinder-RPG.Prêtre</link><link>Pathfinder-RPG.Action simple</link><link>Pathfinder-RPG.composantes</link><link>Pathfinder-RPG.Présentation des sorts</link><link>Pathfinder-RPG.niveau</link><link>Pathfinder-RPG.Dextérité</link></outLinks>
+  <body><![CDATA[
+&lt;b&gt;&#201;cole&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#INVOCATION&quot; title=&quot;Invocation&quot;&gt;Invocation&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#CREATION&quot; title=&quot;cr&#233;ation&quot;&gt;cr&#233;ation&lt;/a&gt;) (&lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;er-Un-Sort.html#REGISTRE&quot; title=&quot;Registre&quot;&gt;force&lt;/a&gt;) ; &lt;b&gt;Niveau&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Paladin.html&quot; title=&quot;Le paladin&quot;&gt;paladin&lt;/a&gt; 2, &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#234;tre.html&quot; title=&quot;Le pr&#234;tre&quot;&gt;pr&#234;tre&lt;/a&gt; 2&lt;br/&gt;
+&lt;b&gt;Temps d&#39;incantation&lt;/b&gt; 1 &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions.html#SIMPLE&quot; title=&quot;Action simple&quot;&gt;action simple&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Composantes&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#COMPOSANTES&quot; title=&quot;composantes&quot;&gt;V, G, FD&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Port&#233;e&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#PORTEE&quot; title=&quot;Pr&#233;sentation des sorts&quot;&gt;personnelle&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Cible&lt;/b&gt; lanceur de sorts&lt;br/&gt;
+&lt;b&gt;Dur&#233;e&lt;/b&gt; 1 minute/&lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#NIVEAU&quot; title=&quot;niveau&quot;&gt;niveau&lt;/a&gt; (T)&lt;br /&gt;&lt;br /&gt;Le corps du personnage se drape instantan&#233;ment dans une armure faite d&#39;une force opaque. S&#39;il le d&#233;sire, cette armure peut s&#39;orner du symbole de sa religion dans un endroit visible, comme sur la cuirasse ou le heaume. Tant que le sort persiste, cette armure remplace tout v&#234;tement ou autre armure port&#233;e par le personnage, magique ou non. Le personnage perd donc tous les avantages de l&#39;armure remplac&#233;e par ce sort pendant qu&#39;il fait effet. L&#39;armure instantan&#233;e dispara&#238;t ensuite.&lt;br /&gt;&lt;br /&gt;L&lt;i&gt;&#39;armure instantan&#233;e &lt;/i&gt;se comporte comme n&#39;importe quelle armure de son genre en ce qui concerne le bonus d&#39;armure, le bonus de &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#DEXTERITE&quot; title=&quot;La Dext&#233;rit&#233;&quot;&gt;Dext&#233;rit&#233;&lt;/a&gt; maximum, les risques d&#39;&#233;checs des sorts profanes etc. Comme elle est faite de force pure, les cr&#233;atures intangibles ne peuvent pas l&#39;ignorer comme une armure ordinaire. Le genre d&#39;armure cr&#233;&#233;e d&#233;pend du niveau de lanceur de sorts.&lt;br/&gt;&lt;br /&gt;&lt;br /&gt;&lt;table CLASS=&quot;tablo centre&quot;&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td&gt;Niveau de lanceur de sorts&lt;/td&gt;&lt;td&gt;Armure cr&#233;&#233;e&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier&quot;&gt;&lt;td CLASS=&quot;gauche&quot;&gt;5 ou moins &lt;/td&gt;&lt;td CLASS=&quot;centre&quot;&gt;cotte de mailles&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td CLASS=&quot;gauche&quot;&gt;6-8 &lt;/td&gt;&lt;td CLASS=&quot;centre&quot;&gt;crevice&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td CLASS=&quot;gauche&quot;&gt;9-11 &lt;/td&gt;&lt;td CLASS=&quot;centre&quot;&gt;armure &#224; plaques&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td CLASS=&quot;gauche&quot;&gt;12 ou plus &lt;/td&gt;&lt;td CLASS=&quot;centre&quot;&gt;harnois&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;br /&gt;Si le personnage d&#233;cide de cr&#233;er une armure inf&#233;rieure &#224; ce que son niveau lui permet, il gagne un bonus d&#39;alt&#233;ration magique de +1 &#224; l&#39;armure cr&#233;&#233;e pour chaque cat&#233;gorie d&#39;armure abandonn&#233;e. Par exemple, si le personnage est capable de cr&#233;er un harnois en &lt;i&gt;armure instantan&#233;e&lt;/i&gt;, il peut &#233;galement cr&#233;er une &lt;i&gt;armure &#224; plaques +1, &lt;/i&gt;une  &lt;i&gt;crevice +2 &lt;/i&gt;ou une &lt;i&gt;cotte de mailles +3&lt;/i&gt;. Il ne peut pas remplacer ces bonus par des propri&#233;t&#233;s sp&#233;ciales d&#39;armure.
+]]></body>
+  <raw><![CDATA[{s:APG}
+'''École''' [[Invocation]] ([[branche création|création]]) ([[registre|force]]) ; '''Niveau''' [[paladin]] 2, [[prêtre]] 2<br/>
+'''Temps d'incantation''' 1 [[action simple]]<br/>
+'''Composantes''' [[Composantes|V, G, FD]]<br/>
+'''Portée''' [[présentation des sorts#PORTEE|personnelle]]<br/>
+'''Cible''' lanceur de sorts<br/>
+'''Durée''' 1 minute/[[niveau]] (T)
+
+Le corps du personnage se drape instantanément dans une armure faite d'une force opaque. S'il le désire, cette armure peut s'orner du symbole de sa religion dans un endroit visible, comme sur la cuirasse ou le heaume. Tant que le sort persiste, cette armure remplace tout vêtement ou autre armure portée par le personnage, magique ou non. Le personnage perd donc tous les avantages de l'armure remplacée par ce sort pendant qu'il fait effet. L'armure instantanée disparaît ensuite.
+
+L'''armure instantanée ''se comporte comme n'importe quelle armure de son genre en ce qui concerne le bonus d'armure, le bonus de [[Dextérité]] maximum, les risques d'échecs des sorts profanes etc. Comme elle est faite de force pure, les créatures intangibles ne peuvent pas l'ignorer comme une armure ordinaire. Le genre d'armure créée dépend du niveau de lanceur de sorts.<br/>
+
+{| CLASS="tablo centre"
+|- CLASS="titre"
+| Niveau de lanceur de sorts || Armure créée
+|- CLASS="premier"
+| CLASS="gauche" | 5 ou moins 
+| CLASS="centre" | cotte de mailles
+|-
+| CLASS="gauche" | 6-8 
+| CLASS="centre" | crevice
+|- CLASS="alt"
+| CLASS="gauche" | 9-11 
+| CLASS="centre" | armure à plaques
+|-
+| CLASS="gauche" | 12 ou plus 
+| CLASS="centre" | harnois
+|}
+
+Si le personnage décide de créer une armure inférieure à ce que son niveau lui permet, il gagne un bonus d'altération magique de +1 à l'armure créée pour chaque catégorie d'armure abandonnée. Par exemple, si le personnage est capable de créer un harnois en ''armure instantanée'', il peut également créer une ''armure à plaques +1, ''une  ''crevice +2 ''ou une ''cotte de mailles +3''. Il ne peut pas remplacer ces bonus par des propriétés spéciales d'armure.
+]]></raw>
+  <fullName>Pathfinder-RPG.Armure instantanée</fullName>
+</wikiPage>

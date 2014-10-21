@@ -1,0 +1,191 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Enlaceur</title>
+  <categories><category>Pathfinder-RPG.Bestiaire</category><category>Pathfinder-RPG.Monstre</category><category>Pathfinder-RPG.Règles officielles</category></categories>
+  <lastModified>2013-02-08 07:27:15Z</lastModified>
+  <version>7</version>
+  <inLinks><link>Pathfinder-RPG.Glossaire des monstres</link><link>Pathfinder-RPG.Liste de monstres par FP</link><link>Pathfinder-RPG.Liste de monstres par milieu naturel</link><link>Pathfinder-RPG.Liste de monstres par type</link><link>Pathfinder-RPG.Monstres</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.type Aberration</link><link>Pathfinder-RPG.vision dans le noir</link><link>Pathfinder-RPG.vision nocturne</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Vulnérabilités (capacité)</link><link>Pathfinder-RPG.Attirer</link><link>Pathfinder-RPG.croc-en-jambe</link><link>Pathfinder-RPG.Arme de prédilection</link><link>Pathfinder-RPG.Science de linitiative</link><link>Pathfinder-RPG.Science du critique</link><link>Pathfinder-RPG.Talent</link><link>Pathfinder-RPG.Discrétion</link><link>Pathfinder-RPG.Volonté de fer</link><link>Pathfinder-RPG.Connaissances</link><link>Pathfinder-RPG.Escalade</link><link>Pathfinder-RPG.attaque de contact à distance</link><link>Pathfinder-RPG.CA</link><link>Pathfinder-RPG.Vigueur</link><link>Pathfinder-RPG.DD</link><link>Pathfinder-RPG.affaiblissement temporaire</link><link>Pathfinder-RPG.Force</link><link>Pathfinder-RPG.jet de sauvegarde</link><link>Pathfinder-RPG.Constitution</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Enlaceur&lt;div style=&quot;float:right;&quot;&gt;FP 12&lt;/div&gt;&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Bestiaire p.131&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 19.200
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Aberration.html&quot; title=&quot;Aberration&quot;&gt;Aberration&lt;/a&gt; de taille G, CM
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +5 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Capacit&#233;s-Sp&#233;ciales.html#VISIONDANSLENOIR&quot; title=&quot;vision dans le noir&quot;&gt;vision dans le noir&lt;/a&gt; 18 m (12 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Nocturne-(Capacit&#233;).html&quot; title=&quot;vision nocturne&quot;&gt;vision nocturne&lt;/a&gt; ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +24
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 27, contact 10, pris au d&#233;pourvu 26 (Dex +1, naturelle +17, taille -1)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 162 (12d8+108)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +5, &lt;b&gt;Vig&lt;/b&gt; +13, &lt;b&gt;Vol&lt;/b&gt; +13
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Immunit&#233;s&lt;/b&gt; &#233;lectricit&#233; ; &lt;b&gt;R&#233;sistances&lt;/b&gt; froid 10 ; &lt;b&gt;RM&lt;/b&gt; 27 
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Faiblesses&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vuln&#233;rabilit&#233;s-(Capacit&#233;).html&quot; title=&quot;Vuln&#233;rabilit&#233;s (Ext ou Sur)&quot;&gt;vuln&#233;rabilit&#233;&lt;/a&gt; au feu
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 3 m (2 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; morsure, +20 (4d8+18/19-20)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Distance&lt;/b&gt; 6 filaments, +10 contact (1d6 Force)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Espace&lt;/b&gt; 3 m (2 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) &lt;b&gt;Allonge&lt;/b&gt; 3 m (2 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaques sp&#233;ciales&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Attirer-(Capacit&#233;).html&quot; title=&quot;Attirer&quot;&gt;attirer&lt;/a&gt; (filament, 1,50 m (1 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)), filaments
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 34, &lt;b&gt;Dex&lt;/b&gt; 13, &lt;b&gt;Con&lt;/b&gt; 29, &lt;b&gt;Int&lt;/b&gt; 13, &lt;b&gt;Sag&lt;/b&gt; 16, &lt;b&gt;Cha&lt;/b&gt; 12
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +9, &lt;b&gt;BMO&lt;/b&gt; +22, &lt;b&gt;DMD&lt;/b&gt; 33 (&lt;a class=&quot;pagelink&quot; href=&quot;Croc-En-Jambe.html&quot; title=&quot;croc-en-jambe&quot;&gt;croc-en-jambe&lt;/a&gt; impossible)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Arme-De-Pr&#233;dilection.html&quot; title=&quot;Arme de pr&#233;dilection&quot;&gt;Arme de pr&#233;dilection&lt;/a&gt; (filament), &lt;a class=&quot;pagelink&quot; href=&quot;Science-De-Linitiative.html&quot; title=&quot;Science de l&amp;#39;initiative&quot;&gt;Science de l&#39;initiative&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Science-Du-Critique.html&quot; title=&quot;Science du critique&quot;&gt;Science du critique&lt;/a&gt; (morsure), &lt;a class=&quot;pagelink&quot; href=&quot;Talent.html&quot; title=&quot;Talent&quot;&gt;Talent&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt;), &lt;a class=&quot;pagelink&quot; href=&quot;Volont&#233;-De-Fer.html&quot; title=&quot;Volont&#233; de fer&quot;&gt;Volont&#233; de fer&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Connaissances.html&quot; title=&quot;Connaissances&quot;&gt;Connaissances&lt;/a&gt; (donjons) +16, &lt;a class=&quot;pagelink&quot; href=&quot;Connaissances.html&quot; title=&quot;Connaissances&quot;&gt;Connaissances&lt;/a&gt; (religion) +13, &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; +18 (+26 pr&#232;s de roches ou de glace), &lt;a class=&quot;pagelink&quot; href=&quot;Escalade.html&quot; title=&quot;Escalade&quot;&gt;Escalade&lt;/a&gt; +27, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +24 ; &lt;b&gt;Modificateurs raciaux&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; +8 pr&#232;s de roches ou de glace
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Langues&lt;/b&gt; aklo, commun des profondeurs
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; souterrain
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation sociale&lt;/b&gt; solitaire, couple ou groupe (3-6)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; standard
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Capacit&#233;s sp&#233;ciales&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Filaments (Ext)&lt;/b&gt; Un enlaceur peut projeter un maximum de 6 filaments minces et collants en m&#234;me temps &#224; une port&#233;e maximale de 15 m (10 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;). Les attaques de filaments fonctionnent comme des &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#ATTAQUESDECONTACT&quot; title=&quot;attaque de contact &#224; distance&quot;&gt;attaques de contact &#224; distance&lt;/a&gt;. Les filaments sont assez r&#233;sistants, mais on peut les couper en leur infligeant des d&#233;g&#226;ts de type tranchant (n&#39;importe quelle quantit&#233; de d&#233;g&#226;ts, leur &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#CA&quot; title=&quot;CA&quot;&gt;CA&lt;/a&gt; est de 20). Lorsqu&#39;un filament touche une cr&#233;ature, celle-ci est engourdie et affaiblie par la substance collante : elle doit r&#233;ussir un jet de &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;Vigueur&quot;&gt;Vigueur&lt;/a&gt; de &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DEGREDEDIFFICULTE&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; 25 pour ne pas subir un &lt;a class=&quot;pagelink&quot; href=&quot;Affaiblissement-Temporaire-(Capacit&#233;).html&quot; title=&quot;affaiblissement temporaire&quot;&gt;affaiblissement temporaire&lt;/a&gt; de 1d6 points de &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#FORCE&quot; title=&quot;La Force&quot;&gt;Force&lt;/a&gt;. Le &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DEGREDEDIFFICULTE&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; du &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;jet de sauvegarde&quot;&gt;jet de sauvegarde&lt;/a&gt; d&#233;pend de la &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#CONSTITUTION&quot; title=&quot;La Constitution&quot;&gt;Constitution&lt;/a&gt;.
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;td&gt;&lt;div&gt;&lt;i&gt;Ce monstre conique poss&#232;de un œil immense, une gueule garnie de crocs ac&#233;r&#233;es &#224; l’avant, et de longs tentacules fibreux sur ses flancs.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;L’enlaceur chasse en tendant des embuscades. Une fois cach&#233;, il
+est capable de modifier la couleur et la forme de son corps pour
+ressembler comme deux gouttes d’eau &#224; une stalagmite de pierre ou
+de glace (ou, dans les endroits o&#249; le plafond est bas, &#224; un pilier de
+pierre ou de glace). Lorsqu’il se trouve dans un lieu sans champs de
+formations rocheuses ou gel&#233;es pour se cacher, l’enlaceur compresse
+son corps en une forme trapue ressemblant &#224; un gros rocher. &lt;br /&gt;&lt;br /&gt;Les filaments qui partent de ses flancs ne sont pas faits de chair mais
+d’une &#233;paisse substance semi-liquide similaire &#224; de la cire fondue,
+aussi r&#233;sistante qu’une cha&#238;ne en fer et capable d’endormir les chairs
+et de saper la force de ses victimes. L’enlaceur peut manipuler ces
+filaments avec une grande agilit&#233; et peut les &#233;tendre jusqu’&#224; 15 m&#232;tres
+de mani&#232;re &#224; attraper les objets qui attirent son attention.&lt;br /&gt;&lt;br /&gt;Malgr&#233; leur apparence &#233;trange et monstrueuse, les enlaceurs
+comptent parmi les plus intelligentes des cr&#233;atures qui habitent
+les cavernes souterraines. Ils ne se rassemblent pas en grandes
+communaut&#233;s (certains enlaceurs vivent cependant aupr&#232;s
+d’autres habitants souterrains comme les d&#233;voreurs d’intellect
+ou les n&#233;oth&#233;lides, avec lesquels quelques-uns se sont m&#234;me
+alli&#233;s). Par contre, ils forment souvent de petits groupes. &lt;br /&gt;&lt;br /&gt;Ils sont particuli&#232;rement int&#233;ress&#233;s par la philosophie de la vie et de la mort
+et par les d&#233;tails des religions les plus cruelles et les plus sinistres.
+Ils pourraient d’ailleurs parler de ces sujets pendant des heures
+ou en discuter avec ceux qu’ils pensaient tout d’abord simplement
+d&#233;vorer. Certains r&#233;cits parlent de philosophes et d’individus tr&#232;s
+dou&#233;s pour les d&#233;bats que des groupes d’enlaceurs auraient gard&#233;s
+en vie pendant plusieurs jours ou m&#234;me plusieurs ann&#233;es comme
+animaux domestiques ou compagnons de conversation. &lt;br /&gt;&lt;br /&gt;Mais, si ces &#171; animaux domestiques &#187; ne parviennent pas &#224; s’&#233;chapper, l’app&#233;tit
+des enlaceurs prend t&#244;t ou tard le pas sur leur curiosit&#233; intellectuelle,
+tout sp&#233;cialement lorsque &#171; les animaux &#187; se jouent constamment de
+l’esprit et de la patience de leurs gardiens.
+Un enlaceur mesure 2,70 m&#232;tres et p&#232;se 1 100 kg.
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Enlaceur|FP 12}
+{s:pucem|Aberration|Souterrain|Tempéré}
+{s:BDTexte|''Source : Bestiaire p.131''}
+{s:BDTexte|'''PX''' 19.200}
+{s:BDTexte|[[type Aberration|Aberration]] de taille G, CM}
+{s:BDTexte|'''Init''' +5 ; '''Sens''' [[vision dans le noir]] 18 m (12 {s:c}), [[vision nocturne]] ; [[Perception]] +24}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 27, contact 10, pris au dépourvu 26 (Dex +1, naturelle +17, taille -1)}
+{s:BDTexte|'''pv''' 162 (12d8+108)}
+{s:BDTexte|'''Réf''' +5, '''Vig''' +13, '''Vol''' +13}
+{s:BDTexte|'''Immunités''' électricité ; '''Résistances''' froid 10 ; '''RM''' 27 }
+{s:BDTexte|'''Faiblesses''' [[vulnérabilités (capacité)|vulnérabilité]] au feu}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 3 m (2 {s:c})}
+{s:BDTexte|'''Corps à corps''' morsure, +20 (4d8+18/19-20)}
+{s:BDTexte|'''Distance''' 6 filaments, +10 contact (1d6 Force)}
+{s:BDTexte|'''Espace''' 3 m (2 {s:c}) '''Allonge''' 3 m (2 {s:c})}
+{s:BDTexte|'''Attaques spéciales''' [[attirer]] (filament, 1,50 m (1 {s:c})), filaments}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 34, '''Dex''' 13, '''Con''' 29, '''Int''' 13, '''Sag''' 16, '''Cha''' 12}
+{s:BDTexte|'''BBA''' +9, '''BMO''' +22, '''DMD''' 33 ([[croc-en-jambe]] impossible)}
+{s:BDTexte|'''Dons''' [[Arme de prédilection]] (filament), [[Science de linitiative|Science de l'initiative]], [[Science du critique]] (morsure), [[Talent]] ([[Perception]], [[Discrétion]]), [[Volonté de fer]]}
+{s:BDTexte|'''Compétences''' [[Connaissances]] (donjons) +16, [[Connaissances]] (religion) +13, [[Discrétion]] +18 (+26 près de roches ou de glace), [[Escalade]] +27, [[Perception]] +24 ; '''Modificateurs raciaux''' [[Discrétion]] +8 près de roches ou de glace}
+{s:BDTexte|'''Langues''' aklo, commun des profondeurs}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' souterrain}
+{s:BDTexte|'''Organisation sociale''' solitaire, couple ou groupe (3-6)}
+{s:BDTexte|'''Trésor''' standard}
+{s:BDSousTitre|Capacités spéciales}
+{s:BDTexte|'''Filaments (Ext)''' Un enlaceur peut projeter un maximum de 6 filaments minces et collants en même temps à une portée maximale de 15 m (10 {s:c}). Les attaques de filaments fonctionnent comme des [[attaque de contact à distance|attaques de contact à distance]]. Les filaments sont assez résistants, mais on peut les couper en leur infligeant des dégâts de type tranchant (n'importe quelle quantité de dégâts, leur [[CA]] est de 20). Lorsqu'un filament touche une créature, celle-ci est engourdie et affaiblie par la substance collante : elle doit réussir un jet de [[Vigueur]] de [[DD]] 25 pour ne pas subir un [[affaiblissement temporaire]] de 1d6 points de [[Force]]. Le [[DD]] du [[jet de sauvegarde]] dépend de la [[Constitution]].}
+</div>
+</td><td><div>''Ce monstre conique possède un œil immense, une gueule garnie de crocs acérées à l’avant, et de longs tentacules fibreux sur ses flancs.''
+
+L’enlaceur chasse en tendant des embuscades. Une fois caché, il
+est capable de modifier la couleur et la forme de son corps pour
+ressembler comme deux gouttes d’eau à une stalagmite de pierre ou
+de glace (ou, dans les endroits où le plafond est bas, à un pilier de
+pierre ou de glace). Lorsqu’il se trouve dans un lieu sans champs de
+formations rocheuses ou gelées pour se cacher, l’enlaceur compresse
+son corps en une forme trapue ressemblant à un gros rocher. 
+
+Les filaments qui partent de ses flancs ne sont pas faits de chair mais
+d’une épaisse substance semi-liquide similaire à de la cire fondue,
+aussi résistante qu’une chaîne en fer et capable d’endormir les chairs
+et de saper la force de ses victimes. L’enlaceur peut manipuler ces
+filaments avec une grande agilité et peut les étendre jusqu’à 15 mètres
+de manière à attraper les objets qui attirent son attention.
+
+Malgré leur apparence étrange et monstrueuse, les enlaceurs
+comptent parmi les plus intelligentes des créatures qui habitent
+les cavernes souterraines. Ils ne se rassemblent pas en grandes
+communautés (certains enlaceurs vivent cependant auprès
+d’autres habitants souterrains comme les dévoreurs d’intellect
+ou les néothélides, avec lesquels quelques-uns se sont même
+alliés). Par contre, ils forment souvent de petits groupes. 
+
+Ils sont particulièrement intéressés par la philosophie de la vie et de la mort
+et par les détails des religions les plus cruelles et les plus sinistres.
+Ils pourraient d’ailleurs parler de ces sujets pendant des heures
+ou en discuter avec ceux qu’ils pensaient tout d’abord simplement
+dévorer. Certains récits parlent de philosophes et d’individus très
+doués pour les débats que des groupes d’enlaceurs auraient gardés
+en vie pendant plusieurs jours ou même plusieurs années comme
+animaux domestiques ou compagnons de conversation. 
+
+Mais, si ces « animaux domestiques » ne parviennent pas à s’échapper, l’appétit
+des enlaceurs prend tôt ou tard le pas sur leur curiosité intellectuelle,
+tout spécialement lorsque « les animaux » se jouent constamment de
+l’esprit et de la patience de leurs gardiens.
+Un enlaceur mesure 2,70 mètres et pèse 1 100 kg.
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Enlaceur</fullName>
+</wikiPage>

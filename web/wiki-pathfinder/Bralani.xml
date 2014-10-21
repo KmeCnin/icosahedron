@@ -1,0 +1,187 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Bralani</title>
+  <categories><category>Pathfinder-RPG.Bestiaire</category><category>Pathfinder-RPG.Monstre</category></categories>
+  <lastModified>2013-02-02 13:39:16Z</lastModified>
+  <version>7</version>
+  <inLinks><link>Pathfinder-RPG.Azata</link><link>Pathfinder-RPG.Convocation de monstres</link><link>Pathfinder-RPG.Ghaéle</link><link>Pathfinder-RPG.Glossaire des monstres</link><link>Pathfinder-RPG.Lier un extérieur</link><link>Pathfinder-RPG.Liste de monstres par FP</link><link>Pathfinder-RPG.Liste de monstres par milieu naturel</link><link>Pathfinder-RPG.Liste de monstres par type</link><link>Pathfinder-RPG.Monstres</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.type Extérieur</link><link>Pathfinder-RPG.sous-type azata</link><link>Pathfinder-RPG.sous-type Bien</link><link>Pathfinder-RPG.sous-type Chaos</link><link>Pathfinder-RPG.sous-type extraplanaire</link><link>Pathfinder-RPG.vision dans le noir</link><link>Pathfinder-RPG.vision nocturne</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Bourrasque</link><link>Pathfinder-RPG.Charme-personne</link><link>Pathfinder-RPG.Flou</link><link>Pathfinder-RPG.Image miroir</link><link>Pathfinder-RPG.Mur de vent</link><link>Pathfinder-RPG.Éclair</link><link>Pathfinder-RPG.Soins importants</link><link>Pathfinder-RPG.Combat en aveugle</link><link>Pathfinder-RPG.Science de linitiative</link><link>Pathfinder-RPG.Talent</link><link>Pathfinder-RPG.Volonté de fer</link><link>Pathfinder-RPG.Bluff</link><link>Pathfinder-RPG.Discrétion</link><link>Pathfinder-RPG.Dressage</link><link>Pathfinder-RPG.Équitation</link><link>Pathfinder-RPG.Psychologie</link><link>Pathfinder-RPG.Vol</link><link>Pathfinder-RPG.Action simple</link><link>Pathfinder-RPG.Vent divin</link><link>Pathfinder-RPG.Changement de forme (capacité)</link><link>Pathfinder-RPG.Vision lucide</link><link>Pathfinder-RPG.Réflexes</link><link>Pathfinder-RPG.DD</link><link>Pathfinder-RPG.Constitution</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Bralani&lt;div style=&quot;float:right;&quot;&gt;FP 6&lt;/div&gt;&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Bestiaire p.27&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 2.400
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Ext&#233;rieur.html&quot; title=&quot;Ext&#233;rieur&quot;&gt;Ext&#233;rieur&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Azata.html&quot; title=&quot;Azata (sous-type)&quot;&gt;azata&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Bien.html&quot; title=&quot;Bien (sous-type)&quot;&gt;Bien&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Chaos.html&quot; title=&quot;Chaos (sous-type)&quot;&gt;Chaos&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Extraplanaire.html&quot; title=&quot;Extraplanaire (sous-type)&quot;&gt;extraplanaire&lt;/a&gt;) de taille M, CB
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +8 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Capacit&#233;s-Sp&#233;ciales.html#VISIONDANSLENOIR&quot; title=&quot;vision dans le noir&quot;&gt;vision dans le noir&lt;/a&gt; 18 m (12 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Nocturne-(Capacit&#233;).html&quot; title=&quot;vision nocturne&quot;&gt;vision nocturne&lt;/a&gt; ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +15
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 20, contact 14, pris au d&#233;pourvu 16 (Dex +4, naturelle +6)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 66 (7d10+28)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +9, &lt;b&gt;Vig&lt;/b&gt; +9, &lt;b&gt;Vol&lt;/b&gt; +6
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Immunit&#233;s&lt;/b&gt; &#233;lectricit&#233;, p&#233;trification ; &lt;b&gt;RD&lt;/b&gt; 10/fer froid ou Mal ; &lt;b&gt;R&#233;sistances&lt;/b&gt; feu 10, froid 10 ; &lt;b&gt;RM&lt;/b&gt; 17 
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 12 m (8 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), vol 30 m (20 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) (parfaite)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; &lt;i&gt;cimeterre +1&lt;/i&gt;, +13/+8 (1d6+8/18-20) ou coup +12 (1d6+7)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Distance&lt;/b&gt; &lt;i&gt;arc long composite +1&lt;/i&gt;, +12/+7 (1d8+6/x3)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaques sp&#233;ciales&lt;/b&gt; souffle du tourbillon
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Pouvoirs magiques&lt;/b&gt; (NLS 6&lt;sup&gt;e&lt;/sup&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+&#192; volont&#233; — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Bourrasque.html&quot; title=&quot;Bourrasque&quot;&gt;bourrasque&lt;/a&gt;&lt;/i&gt; (DD 14), &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Charme-Personne.html&quot; title=&quot;Charme-personne&quot;&gt;charme-personne&lt;/a&gt;&lt;/i&gt; (DD 13), &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Flou.html&quot; title=&quot;Flou&quot;&gt;flou&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Image-Miroir.html&quot; title=&quot;Image miroir&quot;&gt;image miroir&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Mur-De-Vent.html&quot; title=&quot;Mur de vent&quot;&gt;mur de vent&lt;/a&gt;&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+2/jour — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;&#201;clair.html&quot; title=&quot;&#201;clair&quot;&gt;&#233;clair&lt;/a&gt;&lt;/i&gt; (DD 15), &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Soins-Importants.html&quot; title=&quot;Soins importants&quot;&gt;soins importants&lt;/a&gt;&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 20, &lt;b&gt;Dex&lt;/b&gt; 18, &lt;b&gt;Con&lt;/b&gt; 19, &lt;b&gt;Int&lt;/b&gt; 13, &lt;b&gt;Sag&lt;/b&gt; 14, &lt;b&gt;Cha&lt;/b&gt; 15
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +7, &lt;b&gt;BMO&lt;/b&gt; +12, &lt;b&gt;DMD&lt;/b&gt; 26
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Combat-En-Aveugle.html&quot; title=&quot;Combat en aveugle&quot;&gt;Combat en aveugle&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Science-De-Linitiative.html&quot; title=&quot;Science de l&amp;#39;initiative&quot;&gt;Science de l&#39;initiative&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Talent.html&quot; title=&quot;Talent&quot;&gt;Talent&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt;), &lt;a class=&quot;pagelink&quot; href=&quot;Volont&#233;-De-Fer.html&quot; title=&quot;Volont&#233; de fer&quot;&gt;Volont&#233; de fer&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Bluff.html&quot; title=&quot;Bluff&quot;&gt;Bluff&lt;/a&gt; +12, &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; +14, &lt;a class=&quot;pagelink&quot; href=&quot;Dressage.html&quot; title=&quot;Dressage&quot;&gt;Dressage&lt;/a&gt; +12, &lt;a class=&quot;pagelink&quot; href=&quot;&#201;quitation.html&quot; title=&quot;&#201;quitation&quot;&gt;&#201;quitation&lt;/a&gt; +14, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +15, &lt;a class=&quot;pagelink&quot; href=&quot;Psychologie.html&quot; title=&quot;Psychologie&quot;&gt;Psychologie&lt;/a&gt; +12, &lt;a class=&quot;pagelink&quot; href=&quot;Vol.html&quot; title=&quot;Vol&quot;&gt;Vol&lt;/a&gt; +22
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Langues&lt;/b&gt; c&#233;leste, draconique, infernal ; &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Azata.html#LANGAGEUNIVERSEL&quot; title=&quot;Azata (sous-type)&quot;&gt;langage universel&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Particularit&#233;s&lt;/b&gt; forme venteuse
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; quelconque (&#201;lys&#233;e)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation sociale&lt;/b&gt; solitaire, couple ou escouade (3-6)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; double (&lt;i&gt;cimeterre +1&lt;/i&gt;, &lt;i&gt;arc long composite +1&lt;/i&gt; [For +5])
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Particularit&#233;s&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Forme venteuse (Sur)&lt;/b&gt; Par une &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions.html#SIMPLE&quot; title=&quot;Action simple&quot;&gt;action simple&lt;/a&gt;, le bralani peut transformer son corps humano&#239;de en un corps constitu&#233; de vent et de brumes et vice versa. Lorsqu&#39;il est sous forme humano&#239;de, il ne peut pas voler ni utiliser sa capacit&#233; de souffle du tourbillon. Sous forme de vent, il se comporte comme s&#39;il &#233;tait affect&#233; par un sort de &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Vent-Divin.html&quot; title=&quot;Vent divin&quot;&gt;vent divin&lt;/a&gt;&lt;/i&gt;. Il peut porter des attaques de coup et utiliser ses pouvoirs magiques quelle que soit la forme adopt&#233;e. Un bralani conserve la forme qu&#39;il a choisi jusqu&#39;&#224; ce qu&#39;il d&#233;cide de passer &#224; l&#39;autre. Ce &lt;a class=&quot;pagelink&quot; href=&quot;Changement-De-Forme-(Capacit&#233;).html&quot; title=&quot;Changement de forme (Sur)&quot;&gt;changement de forme&lt;/a&gt; ne peut pas &#234;tre dissip&#233; et, une fois mort, le bralani conserve la forme qu&#39;il avait adopt&#233;e en dernier (les deux formes sont consid&#233;r&#233;es comme ses &quot;vraies&quot; formes). Un sort de &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Vision-Lucide.html&quot; title=&quot;Vision lucide&quot;&gt;vision lucide&lt;/a&gt;&lt;/i&gt; montre les deux formes simultan&#233;ment.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Souffle du tourbillon (Sur)&lt;/b&gt; Lorsqu&#39;il est sous forme de vent, le bralani peut projeter un souffle de vent cinglant qui inflige 3d6 points de d&#233;g&#226;ts sur une ligne de 6 m (4 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) de longueur (un jet de &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;R&#233;flexes&quot;&gt;r&#233;flexes&lt;/a&gt; de &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DEGREDEDIFFICULTE&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; 17 permet de diviser les d&#233;g&#226;ts par deux). Le &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DEGREDEDIFFICULTE&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; d&#233;pend de la &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#CONSTITUTION&quot; title=&quot;La Constitution&quot;&gt;Constitution&lt;/a&gt;.
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;td&gt;&lt;div&gt;&lt;i&gt;La chevelure argent&#233;e de cet archer d’apparence elfique plein d’assurance vole au vent et des couleurs vives s’agitent dans ses yeux.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Les bralanis figurent parmi les azatas les plus f&#233;roces et les plus
+sauvages. Ils ne vivent que pour le moment pr&#233;sent et recherchent
+sans cesse l’occasion de mettre leurs talents martiaux &#224; l’&#233;preuve. Ils
+peuvent prendre l’apparence d’elfes ou se transformer en tourbillons
+de poussi&#232;res, de neige ou de sable. Dans les royaumes mortels, on les
+confond souvent avec les djinns. &lt;br /&gt;&lt;br /&gt;Ils appr&#233;cient fortement les climats
+violents, pas pour leur aspect destructeur mais pour leur intensit&#233; et
+leur &#233;nergie. De nombreuses histoires d&#233;peignent des bralanis riant
+aux &#233;clats tout en voyageant &#224; l’int&#233;rieur de puissantes temp&#234;tes.
+Les bralanis n’ont pas besoin de manger, mais ils aiment le faire.
+La plupart d’entre eux pr&#233;f&#232;rent la nourriture elfique, les plats
+humains relev&#233;s et le vin &#233;pic&#233;. &lt;br /&gt;&lt;br /&gt;Les similarit&#233;s qu’ils partagent
+avec les &#233;l&#233;mentaires et les f&#233;es les poussent parfois &#224; tenir le r&#244;le
+d’interm&#233;diaires entre les mortels et ces autres cr&#233;atures, mais ils
+pr&#233;f&#232;rent organiser des tr&#234;ves temporaires qui permettent &#224; ces
+diff&#233;rents groupes de mener eux-m&#234;mes leurs n&#233;gociations en
+terrain neutre. &lt;br /&gt;&lt;br /&gt;Lorsqu’ils agissent comme m&#233;diateurs (et chaque
+fois qu’ils en ont l’occasion), les bralanis proposent souvent des
+comp&#233;titions ou des matchs amicaux pour mettre un terme aux
+disputes. Ils aiment mettre sur pied des d&#233;fis et des concours
+complexes qui testent &#224; la fois les capacit&#233;s physiques et mentales
+des mortels.
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Bralani|FP 6}
+{s:pucem|Extérieur|Forêt-Jungle|Extraplanaire}
+{s:BDTexte|''Source : Bestiaire p.27''}
+{s:BDTexte|'''PX''' 2.400}
+{s:BDTexte|[[type Extérieur|Extérieur]] ([[sous-type azata|azata]], [[sous-type Bien|Bien]], [[sous-type Chaos|Chaos]], [[sous-type extraplanaire|extraplanaire]]) de taille M, CB}
+{s:BDTexte|'''Init''' +8 ; '''Sens''' [[vision dans le noir]] 18 m (12 {s:c}), [[vision nocturne]] ; [[Perception]] +15}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 20, contact 14, pris au dépourvu 16 (Dex +4, naturelle +6)}
+{s:BDTexte|'''pv''' 66 (7d10+28)}
+{s:BDTexte|'''Réf''' +9, '''Vig''' +9, '''Vol''' +6}
+{s:BDTexte|'''Immunités''' électricité, pétrification ; '''RD''' 10/fer froid ou Mal ; '''Résistances''' feu 10, froid 10 ; '''RM''' 17 }
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 12 m (8 {s:c}), vol 30 m (20 {s:c}) (parfaite)}
+{s:BDTexte|'''Corps à corps''' ''cimeterre +1'', +13/+8 (1d6+8/18-20) ou coup +12 (1d6+7)}
+{s:BDTexte|'''Distance''' ''arc long composite +1'', +12/+7 (1d8+6/x3)}
+{s:BDTexte|'''Attaques spéciales''' souffle du tourbillon}
+{s:BDTexte|'''Pouvoirs magiques''' (NLS 6<sup>e</sup>)}
+{s:BDSorts|À volonté — ''[[bourrasque]]'' (DD 14), ''[[charme-personne]]'' (DD 13), ''[[flou]]'', ''[[image miroir]]'', ''[[mur de vent]]''}
+{s:BDSorts|2/jour — ''[[éclair]]'' (DD 15), ''[[soins importants]]''}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 20, '''Dex''' 18, '''Con''' 19, '''Int''' 13, '''Sag''' 14, '''Cha''' 15}
+{s:BDTexte|'''BBA''' +7, '''BMO''' +12, '''DMD''' 26}
+{s:BDTexte|'''Dons''' [[Combat en aveugle]], [[Science de linitiative|Science de l'initiative]], [[Talent]] ([[Perception]]), [[Volonté de fer]]}
+{s:BDTexte|'''Compétences''' [[Bluff]] +12, [[Discrétion]] +14, [[Dressage]] +12, [[Équitation]] +14, [[Perception]] +15, [[Psychologie]] +12, [[Vol]] +22}
+{s:BDTexte|'''Langues''' céleste, draconique, infernal ; [[sous-type azata#LANGAGEUNIVERSEL|langage universel]]}
+{s:BDTexte|'''Particularités''' forme venteuse}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' quelconque (Élysée)}
+{s:BDTexte|'''Organisation sociale''' solitaire, couple ou escouade (3-6)}
+{s:BDTexte|'''Trésor''' double (''cimeterre +1'', ''arc long composite +1'' <nowiki>[</nowiki>For +5<nowiki>]</nowiki>)}
+{s:BDSousTitre|Particularités}
+{s:BDTexte|'''Forme venteuse (Sur)''' Par une [[action simple]], le bralani peut transformer son corps humanoïde en un corps constitué de vent et de brumes et vice versa. Lorsqu'il est sous forme humanoïde, il ne peut pas voler ni utiliser sa capacité de souffle du tourbillon. Sous forme de vent, il se comporte comme s'il était affecté par un sort de ''[[vent divin]]''. Il peut porter des attaques de coup et utiliser ses pouvoirs magiques quelle que soit la forme adoptée. Un bralani conserve la forme qu'il a choisi jusqu'à ce qu'il décide de passer à l'autre. Ce [[changement de forme (Capacité)|changement de forme]] ne peut pas être dissipé et, une fois mort, le bralani conserve la forme qu'il avait adoptée en dernier (les deux formes sont considérées comme ses "vraies" formes). Un sort de ''[[vision lucide]]'' montre les deux formes simultanément.}
+{s:BDTexte|'''Souffle du tourbillon (Sur)''' Lorsqu'il est sous forme de vent, le bralani peut projeter un souffle de vent cinglant qui inflige 3d6 points de dégâts sur une ligne de 6 m (4 {s:c}) de longueur (un jet de [[réflexes]] de [[DD]] 17 permet de diviser les dégâts par deux). Le [[DD]] dépend de la [[Constitution]].}
+</div>
+</td><td><div>''La chevelure argentée de cet archer d’apparence elfique plein d’assurance vole au vent et des couleurs vives s’agitent dans ses yeux.''
+
+Les bralanis figurent parmi les azatas les plus féroces et les plus
+sauvages. Ils ne vivent que pour le moment présent et recherchent
+sans cesse l’occasion de mettre leurs talents martiaux à l’épreuve. Ils
+peuvent prendre l’apparence d’elfes ou se transformer en tourbillons
+de poussières, de neige ou de sable. Dans les royaumes mortels, on les
+confond souvent avec les djinns. 
+
+Ils apprécient fortement les climats
+violents, pas pour leur aspect destructeur mais pour leur intensité et
+leur énergie. De nombreuses histoires dépeignent des bralanis riant
+aux éclats tout en voyageant à l’intérieur de puissantes tempêtes.
+Les bralanis n’ont pas besoin de manger, mais ils aiment le faire.
+La plupart d’entre eux préfèrent la nourriture elfique, les plats
+humains relevés et le vin épicé. 
+
+Les similarités qu’ils partagent
+avec les élémentaires et les fées les poussent parfois à tenir le rôle
+d’intermédiaires entre les mortels et ces autres créatures, mais ils
+préfèrent organiser des trêves temporaires qui permettent à ces
+différents groupes de mener eux-mêmes leurs négociations en
+terrain neutre. 
+
+Lorsqu’ils agissent comme médiateurs (et chaque
+fois qu’ils en ont l’occasion), les bralanis proposent souvent des
+compétitions ou des matchs amicaux pour mettre un terme aux
+disputes. Ils aiment mettre sur pied des défis et des concours
+complexes qui testent à la fois les capacités physiques et mentales
+des mortels.
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Bralani</fullName>
+</wikiPage>

@@ -1,0 +1,206 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Mante géante</title>
+  <categories><category>Pathfinder-RPG.Bestiaire</category><category>Pathfinder-RPG.Monstre</category><category>Pathfinder-RPG.Règles officielles</category></categories>
+  <lastModified>2013-02-07 19:47:52Z</lastModified>
+  <version>9</version>
+  <inLinks><link>Pathfinder-RPG.Compagnons vermines</link><link>Pathfinder-RPG.Glossaire des monstres</link><link>Pathfinder-RPG.Liste de monstres par FP</link><link>Pathfinder-RPG.Liste de monstres par milieu naturel</link><link>Pathfinder-RPG.Liste de monstres par type</link><link>Pathfinder-RPG.liste des compagnons animaux</link><link>Pathfinder-RPG.Monstres</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.type Vermine</link><link>Pathfinder-RPG.vision dans le noir</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Étreinte</link><link>Pathfinder-RPG.lutte</link><link>Pathfinder-RPG.croc-en-jambe</link><link>Pathfinder-RPG.Discrétion</link><link>Pathfinder-RPG.Escalade</link><link>Pathfinder-RPG.Vol</link><link>Pathfinder-RPG.round de surprise</link><link>Pathfinder-RPG.Types dactions</link><link>Pathfinder-RPG.Action simple</link><link>Pathfinder-RPG.allonge</link><link>Pathfinder-RPG.Action complexe</link><link>Pathfinder-RPG.jet dattaque</link><link>Pathfinder-RPG.attaque dopportunité</link><link>Pathfinder-RPG.Agrippé</link><link>Pathfinder-RPG.Attaques naturelles (capacité)</link><link>Pathfinder-RPG.Force</link><link>Pathfinder-RPG.Dextérité</link><link>Pathfinder-RPG.Constitution</link><link>Pathfinder-RPG.Intelligence</link><link>Pathfinder-RPG.Sagesse</link><link>Pathfinder-RPG.Charisme</link><link>Pathfinder-RPG.attaque à outrance</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Mante g&#233;ante&lt;div style=&quot;float:right;&quot;&gt;FP 3&lt;/div&gt;&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Bestiaire&lt;/i&gt; p.207
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 800
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Vermine.html&quot; title=&quot;Vermine&quot;&gt;Vermine&lt;/a&gt; de taille G, N
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +1 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Capacit&#233;s-Sp&#233;ciales.html#VISIONDANSLENOIR&quot; title=&quot;vision dans le noir&quot;&gt;vision dans le noir&lt;/a&gt; 18 m (12 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +6
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 15, contact 10, pris au d&#233;pourvu 14 (Dex +1, naturelle +5, taille -1)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 30 (4d8+12)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +2, &lt;b&gt;Vig&lt;/b&gt; +7, &lt;b&gt;Vol&lt;/b&gt; +3
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Immunit&#233;s&lt;/b&gt; effets mentaux 
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 9 m (6 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), escalade 9 m (6 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), vol 12 m (8 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) (m&#233;diocre)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; 2 griffes +5 (1d6+3 et &lt;a class=&quot;pagelink&quot; href=&quot;&#201;treinte-(Capacit&#233;).html&quot; title=&quot;&#201;treinte&quot;&gt;&#233;treinte&lt;/a&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Espace&lt;/b&gt; 3 m (2 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) ; &lt;b&gt;Allonge&lt;/b&gt; 3 m (2 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaques sp&#233;ciales&lt;/b&gt; attaque soudaine, fente, mandibules
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 16, &lt;b&gt;Dex&lt;/b&gt; 13, &lt;b&gt;Con&lt;/b&gt; 16, &lt;b&gt;Int&lt;/b&gt; -, &lt;b&gt;Sag&lt;/b&gt; 14, &lt;b&gt;Cha&lt;/b&gt; 11
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +3, &lt;b&gt;BMO&lt;/b&gt; +7 (+11 pour la &lt;a class=&quot;pagelink&quot; href=&quot;Manœuvres-Offensives.html#LUTTE&quot; title=&quot;lutte&quot;&gt;lutte&lt;/a&gt;), &lt;b&gt;DMD&lt;/b&gt; 18 (22 contre le &lt;a class=&quot;pagelink&quot; href=&quot;Croc-En-Jambe.html&quot; title=&quot;croc-en-jambe&quot;&gt;croc-en-jambe&lt;/a&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; +1 (+13 dans les for&#234;ts), &lt;a class=&quot;pagelink&quot; href=&quot;Escalade.html&quot; title=&quot;Escalade&quot;&gt;Escalade&lt;/a&gt; +11, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +6, &lt;a class=&quot;pagelink&quot; href=&quot;Vol.html&quot; title=&quot;Vol&quot;&gt;Vol&lt;/a&gt; -5 ; &lt;b&gt;Modificateurs raciaux&lt;/b&gt; +4 en &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; (+12 dans les for&#234;ts), +4 en &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; for&#234;ts temp&#233;r&#233;es
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation sociale&lt;/b&gt; solitaire
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; aucun
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Capacit&#233;s sp&#233;ciales&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaque soudaine (Ext).&lt;/b&gt; Les mantes g&#233;antes r&#233;agissent rapidement apr&#232;s avoir surpris leurs victimes. Lors du &lt;a class=&quot;pagelink&quot; href=&quot;D&#233;roulement-Dun-Combat.html#ROUNDSURPRISE&quot; title=&quot;round de surprise&quot;&gt;round de surprise&lt;/a&gt;, elles peuvent agir comme si elles disposaient d&#39;un &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions.html&quot; title=&quot;Les types d&amp;#39;actions&quot;&gt;round&lt;/a&gt; entier (au lieu d&#39;une &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions.html#SIMPLE&quot; title=&quot;Action simple&quot;&gt;action simple&lt;/a&gt; seulement).
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Fente (Ext).&lt;/b&gt; Les pattes d&#39;une mandibule g&#233;ante lui donnent une &lt;a class=&quot;pagelink&quot; href=&quot;Actions-Simples.html#ATTAQUECORPSACORPS&quot; title=&quot;allonge&quot;&gt;allonge&lt;/a&gt; sup&#233;rieure &#224; celle des autres cr&#233;atures de sa taille. Elle peut choisir d&#39;utiliser une &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions.html#COMPLEXE&quot; title=&quot;Action complexe&quot;&gt;action complexe&lt;/a&gt; pour porter une unique attaque de griffes en b&#233;n&#233;ficiant du double de son allonge normale et d&#39;un bonus de +4 au &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDATTAQUE&quot; title=&quot;jet dattaque&quot;&gt;jet d&#39;attaque&lt;/a&gt;. les mantes g&#233;antes ne peuvent pas utiliser cette capacit&#233; pour effectuer des &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#ATTAQUEDOPPORTUNITE&quot; title=&quot;attaque d&amp;#39;opportunit&#233;&quot;&gt;attaques d&#39;opportunit&#233;&lt;/a&gt;.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Mandibules (Ext).&lt;/b&gt; Lorsqu&#39;une mante g&#233;ante &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables.html#Agripp&#233;&quot; title=&quot;Agripp&#233;&quot;&gt;agrippe&lt;/a&gt; un ennemi, elle peut effectuer une attaque de morsure contre lui. Il s&#39;agit d&#39;une &lt;a class=&quot;pagelink&quot; href=&quot;Attaques-Naturelles-(Capacit&#233;).html&quot; title=&quot;Attaques naturelles&quot;&gt;attaque secondaire&lt;/a&gt; qui dispose d&#39;un bonus de +0 au toucher et inflige 1d6+1 points de d&#233;g&#226;ts en cas de r&#233;ussite.
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;td&gt;&lt;div&gt;&lt;i&gt;Ce grand insecte &#224; t&#234;te triangulaire marche sur ses quatre pattes arri&#232;re. Ses pattes avant sont tranchantes et munies de griffes.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Cette cr&#233;ature redout&#233;e des voyageurs qui
+traversent les for&#234;ts denses est &#233;galement connue
+sous le nom de mante religieuse g&#233;ante, &#224; cause
+de la mani&#232;re dont elle replie ses dangereuses
+pattes avant sous sa t&#234;te lorsqu’elle se couche pour guetter l’arriv&#233;e
+d’une proie. &lt;br /&gt;&lt;br /&gt;La mante g&#233;ante, experte de la discr&#233;tion dans les sous-bois
+touffus, fait preuve d’une patience quasi surnaturelle lorsqu’elle
+se tapit et attend, puis elle attaque avec une vitesse &#233;tonnante d&#232;s
+qu’une proie inconsciente du danger passe &#224; sa port&#233;e.&lt;br /&gt;&lt;br /&gt;Dans de nombreuses soci&#233;t&#233;s sauvages, la mante religieuse suscite
+une terreur sans nom : dans les r&#233;gions o&#249; ces vermines sont l&#233;gion,
+on les consid&#232;re souvent comme des annonciateurs de la mort envoy&#233;s
+par des dieux m&#233;contents. &lt;br /&gt;&lt;br /&gt;Leur agilit&#233;, leur vitesse, leur apparence
+&#233;trange et leur facult&#233; &#224; se rendre quasiment ind&#233;tectables en for&#234;t
+a donn&#233; naissance &#224; de nombreuses l&#233;gendes disant que les mantes
+peuvent se rendre invisibles, sentir la peur ou que les &#226;mes de ceux
+qu’elles tuent et d&#233;vorent sont dig&#233;r&#233;es et emprisonn&#233;es, incapables
+de rejoindre l’apr&#232;s-vie. &lt;br /&gt;&lt;br /&gt;Les mantes g&#233;antes sont simplement des
+vermines redoutables et dangereuses mais les nombreuses l&#233;gendes
+qu’on murmure au sujet de leurs soi-disant pouvoirs et de leur
+intelligence surnaturelle ont donn&#233; l’id&#233;e &#224; certains lanceurs de
+sorts d’incorporer certaines caract&#233;ristiques des mantes dans leurs
+cr&#233;atures artificielles afin de les rendre encore plus effrayantes. &lt;br /&gt;&lt;br /&gt;On parle m&#234;me parfois de soci&#233;t&#233;s enti&#232;res d’assassins qui v&#233;n&#233;reraient
+un dieu ressemblant &#224; une mante immense, et qui imiteraient le
+style de combat et les embuscades mortelles des mantes g&#233;antes et
+manieraient deux rapi&#232;res dentel&#233;es au combat.&lt;br /&gt;&lt;br /&gt;La mante g&#233;ante pr&#233;sent&#233;e ici mesure 2,10 m&#232;tres de hauteur et
+4,50 m&#232;tres de longueur, pour un poids de 325 kg. Il existe des mantes
+g&#233;antes plus grandes encore dans les for&#234;ts les plus profondes et les
+plus sombres du monde, l&#224; o&#249; elles peuvent se repa&#238;tre de g&#233;ants ou
+de dragons. &lt;br /&gt;&lt;br /&gt;Ces monstres gigantesques connus sous divers noms
+tels que les mantes d&#233;voreuses de dragons, les mantes d&#233;racineuses
+ou plus simplement les mantes mortelles, atteignent des hauteurs
+de 18 m&#232;tres et plus et ont la d&#233;testable habitude de d&#233;truire
+des bourgades ou des villes enti&#232;res pour assouvir leur app&#233;tit
+vorace. Une mante mortelle est une mante g&#233;ante &#233;volu&#233;e de taille
+Colossale, avec 16 DV et un FP de 14.&lt;br /&gt;&lt;br /&gt;&lt;h3 class=&quot;separator&quot;&gt;La mante g&#233;ante comme compagnon animal&lt;a class=&quot;headeranchor&quot; id=&quot;La_mante_g&#233;ante_comme_compagnon_animal_0&quot; href=&quot;#La_mante_g&#233;ante_comme_compagnon_animal_0&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;&lt;b&gt;Caract&#233;ristiques de d&#233;part.&lt;/b&gt; &lt;b&gt;Taille&lt;/b&gt; M ; &lt;b&gt;Vitesse&lt;/b&gt; 9 m (6 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), escalade 9 m (6 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), vol 12 m (8 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) (moyenne) ; &lt;b&gt;CA&lt;/b&gt; armure naturelle +3 ; &lt;b&gt;Attaques&lt;/b&gt; 2 griffes (1d4 plus &#233;treinte) ; &lt;b&gt;Attaques sp&#233;ciales&lt;/b&gt; fente ; &lt;b&gt;Caract&#233;ristiques&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#FORCE&quot; title=&quot;La Force&quot;&gt;For&lt;/a&gt; 10, &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#DEXTERITE&quot; title=&quot;La Dext&#233;rit&#233;&quot;&gt;Dex&lt;/a&gt; 15, &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#CONSTITUTION&quot; title=&quot;La Constitution&quot;&gt;Con&lt;/a&gt; 10, &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#INTELLIGENCE&quot; title=&quot;L&amp;#39;Intelligence&quot;&gt;Int&lt;/a&gt; –, &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#SAGESSE&quot; title=&quot;La Sagesse&quot;&gt;Sag&lt;/a&gt; 12, &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#CHARISME&quot; title=&quot;Le Charisme&quot;&gt;Cha&lt;/a&gt; 7 ; &lt;b&gt;Particularit&#233;&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Capacit&#233;s-Sp&#233;ciales.html#VISIONDANSLENOIR&quot; title=&quot;vision dans le noir&quot;&gt;vision dans le noir&lt;/a&gt; ; &lt;b&gt;DMD&lt;/b&gt; croc-en-jambe +8&lt;br /&gt;&lt;br /&gt;&lt;b&gt;D&#233;veloppement au niveau 7.&lt;/b&gt; &lt;b&gt;Taille&lt;/b&gt; G ; &lt;b&gt;CA&lt;/b&gt; armure naturelle +2 ; &lt;b&gt;Attaque&lt;/b&gt; 2 griffes (1d6) ; &lt;b&gt;Attaques sp&#233;ciales&lt;/b&gt; attaque soudaine (&lt;a class=&quot;pagelink&quot; href=&quot;Actions-Complexes.html#ATTAQUEAOUTRANCE&quot; title=&quot;attaque &#224; outrance&quot;&gt;attaque &#224; outrance&lt;/a&gt; lors du round de surprise), mandibules (1d6 attaque secondaire contre une cible agripp&#233;e) ; &lt;b&gt;Caract&#233;ristiques&lt;/b&gt; For +8, Dex -2, Con +4
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Mante géante|FP 3}
+{s:pucem|Vermine|Forêt-Jungle|Tempéré}
+{s:BDTexte|''Source : Bestiaire'' p.207}
+{s:BDTexte|'''PX''' 800}
+{s:BDTexte|[[type Vermine|Vermine]] de taille G, N}
+{s:BDTexte|'''Init''' +1 ; '''Sens''' [[vision dans le noir]] 18 m (12 {s:c}) ; [[Perception]] +6}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 15, contact 10, pris au dépourvu 14 (Dex +1, naturelle +5, taille -1)}
+{s:BDTexte|'''pv''' 30 (4d8+12)}
+{s:BDTexte|'''Réf''' +2, '''Vig''' +7, '''Vol''' +3}
+{s:BDTexte|'''Immunités''' effets mentaux }
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 9 m (6 {s:c}), escalade 9 m (6 {s:c}), vol 12 m (8 {s:c}) (médiocre)}
+{s:BDTexte|'''Corps à corps''' 2 griffes +5 (1d6+3 et [[étreinte]])}
+{s:BDTexte|'''Espace''' 3 m (2 {s:c}) ; '''Allonge''' 3 m (2 {s:c})}
+{s:BDTexte|'''Attaques spéciales''' attaque soudaine, fente, mandibules}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 16, '''Dex''' 13, '''Con''' 16, '''Int''' -, '''Sag''' 14, '''Cha''' 11}
+{s:BDTexte|'''BBA''' +3, '''BMO''' +7 (+11 pour la [[lutte]]), '''DMD''' 18 (22 contre le [[croc-en-jambe]])}
+{s:BDTexte|'''Compétences''' [[Discrétion]] +1 (+13 dans les forêts), [[Escalade]] +11, [[Perception]] +6, [[Vol]] -5 ; '''Modificateurs raciaux''' +4 en [[Discrétion]] (+12 dans les forêts), +4 en [[Perception]]}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' forêts tempérées}
+{s:BDTexte|'''Organisation sociale''' solitaire}
+{s:BDTexte|'''Trésor''' aucun}
+{s:BDSousTitre|Capacités spéciales}
+{s:BDTexte|'''Attaque soudaine (Ext).''' Les mantes géantes réagissent rapidement après avoir surpris leurs victimes. Lors du [[round de surprise]], elles peuvent agir comme si elles disposaient d'un [[types dactions|round]] entier (au lieu d'une [[action simple]] seulement).}
+{s:BDTexte|'''Fente (Ext).''' Les pattes d'une mandibule géante lui donnent une [[allonge]] supérieure à celle des autres créatures de sa taille. Elle peut choisir d'utiliser une [[action complexe]] pour porter une unique attaque de griffes en bénéficiant du double de son allonge normale et d'un bonus de +4 au [[jet dattaque|jet d'attaque]]. les mantes géantes ne peuvent pas utiliser cette capacité pour effectuer des [[attaque dopportunité|attaques d'opportunité]].}
+{s:BDTexte|'''Mandibules (Ext).''' Lorsqu'une mante géante [[agrippé|agrippe]] un ennemi, elle peut effectuer une attaque de morsure contre lui. Il s'agit d'une [[attaques naturelles (capacité)|attaque secondaire]] qui dispose d'un bonus de +0 au toucher et inflige 1d6+1 points de dégâts en cas de réussite.}
+</div>
+</td><td><div>''Ce grand insecte à tête triangulaire marche sur ses quatre pattes arrière. Ses pattes avant sont tranchantes et munies de griffes.''
+
+Cette créature redoutée des voyageurs qui
+traversent les forêts denses est également connue
+sous le nom de mante religieuse géante, à cause
+de la manière dont elle replie ses dangereuses
+pattes avant sous sa tête lorsqu’elle se couche pour guetter l’arrivée
+d’une proie. 
+
+La mante géante, experte de la discrétion dans les sous-bois
+touffus, fait preuve d’une patience quasi surnaturelle lorsqu’elle
+se tapit et attend, puis elle attaque avec une vitesse étonnante dès
+qu’une proie inconsciente du danger passe à sa portée.
+
+Dans de nombreuses sociétés sauvages, la mante religieuse suscite
+une terreur sans nom : dans les régions où ces vermines sont légion,
+on les considère souvent comme des annonciateurs de la mort envoyés
+par des dieux mécontents. 
+
+Leur agilité, leur vitesse, leur apparence
+étrange et leur faculté à se rendre quasiment indétectables en forêt
+a donné naissance à de nombreuses légendes disant que les mantes
+peuvent se rendre invisibles, sentir la peur ou que les âmes de ceux
+qu’elles tuent et dévorent sont digérées et emprisonnées, incapables
+de rejoindre l’après-vie. 
+
+Les mantes géantes sont simplement des
+vermines redoutables et dangereuses mais les nombreuses légendes
+qu’on murmure au sujet de leurs soi-disant pouvoirs et de leur
+intelligence surnaturelle ont donné l’idée à certains lanceurs de
+sorts d’incorporer certaines caractéristiques des mantes dans leurs
+créatures artificielles afin de les rendre encore plus effrayantes. 
+
+On parle même parfois de sociétés entières d’assassins qui vénéreraient
+un dieu ressemblant à une mante immense, et qui imiteraient le
+style de combat et les embuscades mortelles des mantes géantes et
+manieraient deux rapières dentelées au combat.
+
+La mante géante présentée ici mesure 2,10 mètres de hauteur et
+4,50 mètres de longueur, pour un poids de 325 kg. Il existe des mantes
+géantes plus grandes encore dans les forêts les plus profondes et les
+plus sombres du monde, là où elles peuvent se repaître de géants ou
+de dragons. 
+
+Ces monstres gigantesques connus sous divers noms
+tels que les mantes dévoreuses de dragons, les mantes déracineuses
+ou plus simplement les mantes mortelles, atteignent des hauteurs
+de 18 mètres et plus et ont la détestable habitude de détruire
+des bourgades ou des villes entières pour assouvir leur appétit
+vorace. Une mante mortelle est une mante géante évoluée de taille
+Colossale, avec 16 DV et un FP de 14.
+
+====La mante géante comme compagnon animal====
+'''Caractéristiques de départ.''' '''Taille''' M ; '''Vitesse''' 9 m (6 {s:c}), escalade 9 m (6 {s:c}), vol 12 m (8 {s:c}) (moyenne) ; '''CA''' armure naturelle +3 ; '''Attaques''' 2 griffes (1d4 plus étreinte) ; '''Attaques spéciales''' fente ; '''Caractéristiques''' [[Force|For]] 10, [[Dextérité|Dex]] 15, [[Constitution|Con]] 10, [[Intelligence|Int]] –, [[Sagesse|Sag]] 12, [[Charisme|Cha]] 7 ; '''Particularité''' [[vision dans le noir]] ; '''DMD''' croc-en-jambe +8
+
+'''Développement au niveau 7.''' '''Taille''' G ; '''CA''' armure naturelle +2 ; '''Attaque''' 2 griffes (1d6) ; '''Attaques spéciales''' attaque soudaine ([[attaque à outrance]] lors du round de surprise), mandibules (1d6 attaque secondaire contre une cible agrippée) ; '''Caractéristiques''' For +8, Dex -2, Con +4
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Mante géante</fullName>
+</wikiPage>

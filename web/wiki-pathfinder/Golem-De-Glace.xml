@@ -1,0 +1,152 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Golem de glace</title>
+  <categories><category>Pathfinder-RPG.Bestiaire</category><category>Pathfinder-RPG.Monstre</category><category>Pathfinder-RPG.Règles officielles</category></categories>
+  <lastModified>2013-02-07 21:30:20Z</lastModified>
+  <version>8</version>
+  <inLinks><link>Pathfinder-RPG.Glossaire des monstres</link><link>Pathfinder-RPG.Golem</link><link>Pathfinder-RPG.Liste de monstres par FP</link><link>Pathfinder-RPG.Liste de monstres par milieu naturel</link><link>Pathfinder-RPG.Liste de monstres par type</link><link>Pathfinder-RPG.Monstres</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.type Créature artificielle</link><link>Pathfinder-RPG.sous-type froid</link><link>Pathfinder-RPG.vision dans le noir</link><link>Pathfinder-RPG.vision nocturne</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Traits des créatures artificielles</link><link>Pathfinder-RPG.Vulnérabilités (capacité)</link><link>Pathfinder-RPG.cône</link><link>Pathfinder-RPG.Réflexes</link><link>Pathfinder-RPG.DD</link><link>Pathfinder-RPG.Acéré</link><link>Pathfinder-RPG.Constitution</link><link>Pathfinder-RPG.RM</link><link>Pathfinder-RPG.Registre</link><link>Pathfinder-RPG.Lenteur</link><link>Pathfinder-RPG.jet de sauvegarde</link><link>Pathfinder-RPG.pv</link><link>Pathfinder-RPG.points de vie temporaires</link><link>Pathfinder-RPG.Création de créatures artificielles</link><link>Pathfinder-RPG.Cône de froid</link><link>Pathfinder-RPG.Contact glacial</link><link>Pathfinder-RPG.Quête</link><link>Pathfinder-RPG.Résistance aux énergies destructives</link><link>Pathfinder-RPG.Tempête de grêle</link><link>Pathfinder-RPG.Artisanat</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Golem de glace&lt;div style=&quot;float:right;&quot;&gt;FP 5&lt;/div&gt;&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Bestiaire p.169&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 1.600
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Cr&#233;ature-Artificielle.html&quot; title=&quot;Cr&#233;ature artificielle&quot;&gt;Cr&#233;ature artificielle&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Froid.html&quot; title=&quot;Froid (sous-type)&quot;&gt;froid&lt;/a&gt;) de taille M, N
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; -1 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Capacit&#233;s-Sp&#233;ciales.html#VISIONDANSLENOIR&quot; title=&quot;vision dans le noir&quot;&gt;vision dans le noir&lt;/a&gt; 18 m (12 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Nocturne-(Capacit&#233;).html&quot; title=&quot;vision nocturne&quot;&gt;vision nocturne&lt;/a&gt; ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +0
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 17, contact 9, pris au d&#233;pourvu 17 (Dex -1, naturelle +8)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 53 (6d10+20)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +1, &lt;b&gt;Vig&lt;/b&gt; +2, &lt;b&gt;Vol&lt;/b&gt; +2
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Immunit&#233;s&lt;/b&gt; froid, magie, &lt;a class=&quot;pagelink&quot; href=&quot;Traits-Des-Cr&#233;atures-Artificielles-(Capacit&#233;).html&quot; title=&quot;Traits des cr&#233;atures artificielles&quot;&gt;traits des cr&#233;atures artificielles&lt;/a&gt; ; &lt;b&gt;RD&lt;/b&gt; 5/adamantium 
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Faiblesses&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vuln&#233;rabilit&#233;s-(Capacit&#233;).html&quot; title=&quot;Vuln&#233;rabilit&#233;s (Ext ou Sur)&quot;&gt;vuln&#233;rabilit&#233;&lt;/a&gt; au feu
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 9 m (6 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; 2 coups, +9 (1d6+3 et 1d6 froid)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaques sp&#233;ciales&lt;/b&gt; explosion de glace, froid (1d6), souffle (&lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#DEFCONE&quot; title=&quot;c&#244;ne&quot;&gt;c&#244;ne&lt;/a&gt; de 6 m (4 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), 3d6 froid, &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;R&#233;flexes&quot;&gt;R&#233;flexes&lt;/a&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DEGREDEDIFFICULTE&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; 13, 1/2 d&#233;g&#226;ts, utilisable tous les 1d4 rounds)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 16, &lt;b&gt;Dex&lt;/b&gt; 9, &lt;b&gt;Con&lt;/b&gt; -, &lt;b&gt;Int&lt;/b&gt; -, &lt;b&gt;Sag&lt;/b&gt; 11, &lt;b&gt;Cha&lt;/b&gt; 1
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +6, &lt;b&gt;BMO&lt;/b&gt; +9, &lt;b&gt;DMD&lt;/b&gt; 18
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; climat froid
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation sociale&lt;/b&gt; solitaire ou bande (2-4)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; aucun
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Capacit&#233;s sp&#233;ciales&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Explosion de glace (Ext).&lt;/b&gt; Un golem de glace r&#233;duit &#224; 0 pv se brise et explose en projetant des &#233;clats de glace &lt;a class=&quot;pagelink&quot; href=&quot;Armes-Magiques.html#Ac&#233;r&#233;e&quot; title=&quot;Ac&#233;r&#233;&quot;&gt;ac&#233;r&#233;s&lt;/a&gt;. Les cr&#233;atures situ&#233;es dans un rayon de 3 m (2 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) subissent 3d6 points de d&#233;g&#226;ts de type tranchant et 2d6 points de d&#233;g&#226;ts de froid. Un jet de &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;R&#233;flexes&quot;&gt;R&#233;flexes&lt;/a&gt; de &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DEGREDEDIFFICULTE&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; 13 permet de diviser ces d&#233;g&#226;ts par deux. Le &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DEGREDEDIFFICULTE&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; d&#233;pend de la &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#CONSTITUTION&quot; title=&quot;La Constitution&quot;&gt;Constitution&lt;/a&gt;.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Froid (Ext).&lt;/b&gt; Le corps d&#39;un golem de glace g&#233;n&#232;re un froid intense qui lui permet d&#39;infliger 1d6 points de d&#233;g&#226;ts d&#39;un simple contact. Les cr&#233;atures qui attaquent le golem de glace &#224; mains nues ou avec des armes naturelles subissent ces d&#233;g&#226;ts de froid chaque fois qu&#39;une de leurs attaques touche.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Immunit&#233; contre la magie (Ext).&lt;/b&gt; Les golems de glace sont immunis&#233;s contre tous les sorts et pouvoirs magiques contre lesquels la &lt;a class=&quot;pagelink&quot; href=&quot;R&#233;sistance-&#192;-La-Magie-(Capacit&#233;).html&quot; title=&quot;RM&quot;&gt;r&#233;sistance &#224; la magie&lt;/a&gt; fonctionne, &#224; l&#39;exception des sorts et pouvoirs magiques du &lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;er-Un-Sort.html#REGISTRE&quot; title=&quot;Registre&quot;&gt;registre du Feu&lt;/a&gt; qui, eux, les affectent normalement. En plus de cela, certains sorts et effets agissent diff&#233;remment lorsqu&#39;ils sont utilis&#233;s contre ces golems :
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;div class=&quot;indent&quot; style=&quot;margin: 0px; padding: 0px; padding-left: 15px&quot;&gt;• Les attaques magiques qui causent des d&#233;g&#226;ts d&#39;&#233;lectricit&#233; ralentissent le golem de glace (comme par le sort de &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Lenteur.html&quot; title=&quot;Lenteur&quot;&gt;lenteur&lt;/a&gt;&lt;/i&gt;) pendant 2d6 rounds (sans &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;jet de sauvegarde&quot;&gt;jet de sauvegarde&lt;/a&gt;).&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;div class=&quot;indent&quot; style=&quot;margin: 0px; padding: 0px; padding-left: 15px&quot;&gt;• Les attaques magiques qui causent des d&#233;g&#226;ts de froid mettent un terme &#224; tous les effets de &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Lenteur.html&quot; title=&quot;Lenteur&quot;&gt;lenteur&lt;/a&gt;&lt;/i&gt; qui affectent le golem et le gu&#233;rissent de 1 points de d&#233;g&#226;ts par tranche de 3 points de d&#233;g&#226;ts qu&#39;elles infligeraient dans un situation normale. Si cet effet donne au golem un nombre de &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#POINTSDEVIE&quot; title=&quot;pv&quot;&gt;points de vie&lt;/a&gt; d&#233;passant son maximum, les points exc&#233;dentaires deviennent des &lt;a class=&quot;pagelink&quot; href=&quot;Blessures-Et-Mort.html#PVTEMPORAIRES&quot; title=&quot;points de vie temporaires&quot;&gt;points de vie temporaires&lt;/a&gt;. Les effets qui infligent des d&#233;g&#226;ts de froid n&#39;autorisent aucun &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;jet de sauvegarde&quot;&gt;jet de sauvegarde&lt;/a&gt; de la part du golem de glace.&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;td&gt;&lt;div&gt;&lt;i&gt;Cette statue de glace couverte de givre fait une t&#234;te de plus qu’un humain. Des morceaux de glace tranchants ornent ses membres.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Les golems de glace sont des automates humano&#239;des cr&#233;&#233;s &#224;
+partir de sculptures de glace. Ils peuvent avoir l’apparence d’une
+silhouette de glace et de neige aux traits grossiers, celle d’une
+sculpture gel&#233;e aux d&#233;tails fins et pr&#233;cis ou encore celle d’une
+magnifique statue de cristal.&lt;br /&gt;&lt;br /&gt;Les golems de glace ne peuvent pas parler et produisent des
+bruits de neige &#233;cras&#233;e et de glace bris&#233;e &#224; chaque pas. Ils mesurent
+2,10 m&#232;tres de hauteur et p&#232;sent 250 kg.&lt;br /&gt;&lt;br /&gt;&lt;h3 class=&quot;separator&quot;&gt;Construction&lt;a class=&quot;headeranchor&quot; id=&quot;Construction_0&quot; href=&quot;#Construction_0&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;
+Le corps d’un golem de glace doit &#234;tre construit &#224; partir d’un
+unique bloc de glace pesant au moins 500 kg. La glace est ensuite
+trait&#233;e &#224; l’aide de poudres et d’onguents magiques valant au moins
+500 po.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;NLS&lt;/b&gt; 12&lt;sup&gt;e&lt;/sup&gt; ; &lt;b&gt;Prix&lt;/b&gt; 18 500 po&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Conditions&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;ation-De-Cr&#233;atures-Artificielles.html&quot; title=&quot;Cr&#233;ation de cr&#233;atures artificielles&quot;&gt;Cr&#233;ation de cr&#233;atures artificielles&lt;/a&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;C&#244;ne-De-Froid.html&quot; title=&quot;C&#244;ne de froid&quot;&gt;c&#244;ne de froid&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Contact-Glacial.html&quot; title=&quot;Contact glacial&quot;&gt;contact glacial&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Qu&#234;te.html&quot; title=&quot;Qu&#234;te&quot;&gt;qu&#234;te&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;R&#233;sistance-Aux-&#201;nergies-Destructives.html&quot; title=&quot;R&#233;sistance aux &#233;nergies destructives&quot;&gt;r&#233;sistance aux &#233;nergies destructives&lt;/a&gt; (froid)&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Temp&#234;te-De-Gr&#234;le.html&quot; title=&quot;Temp&#234;te de gr&#234;le&quot;&gt;temp&#234;te de gr&#234;le&lt;/a&gt;&lt;/i&gt;, cr&#233;ateur de niveau 12 ; &lt;b&gt;Comp&#233;tence&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Artisanat.html&quot; title=&quot;Artisanat&quot;&gt;Artisanat&lt;/a&gt; (sculpture) &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DEGREDEDIFFICULTE&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; 17 ; &lt;b&gt;Co&#251;t&lt;/b&gt; 9 500 po
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Golem de glace|FP 5}
+{s:pucem|Créature artificielle|Ruines-Donjons|Froid}
+{s:BDTexte|''Source : Bestiaire p.169''}
+{s:BDTexte|'''PX''' 1.600}
+{s:BDTexte|[[type Créature artificielle|Créature artificielle]] ([[sous-type froid|froid]]) de taille M, N}
+{s:BDTexte|'''Init''' -1 ; '''Sens''' [[vision dans le noir]] 18 m (12 {s:c}), [[vision nocturne]] ; [[Perception]] +0}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 17, contact 9, pris au dépourvu 17 (Dex -1, naturelle +8)}
+{s:BDTexte|'''pv''' 53 (6d10+20)}
+{s:BDTexte|'''Réf''' +1, '''Vig''' +2, '''Vol''' +2}
+{s:BDTexte|'''Immunités''' froid, magie, [[traits des créatures artificielles]] ; '''RD''' 5/adamantium }
+{s:BDTexte|'''Faiblesses''' [[vulnérabilités (capacité)|vulnérabilité]] au feu}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 9 m (6 {s:c})}
+{s:BDTexte|'''Corps à corps''' 2 coups, +9 (1d6+3 et 1d6 froid)}
+{s:BDTexte|'''Attaques spéciales''' explosion de glace, froid (1d6), souffle ([[cône]] de 6 m (4 {s:c}), 3d6 froid, [[Réflexes]] [[DD]] 13, 1/2 dégâts, utilisable tous les 1d4 rounds)}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 16, '''Dex''' 9, '''Con''' -, '''Int''' -, '''Sag''' 11, '''Cha''' 1}
+{s:BDTexte|'''BBA''' +6, '''BMO''' +9, '''DMD''' 18}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' climat froid}
+{s:BDTexte|'''Organisation sociale''' solitaire ou bande (2-4)}
+{s:BDTexte|'''Trésor''' aucun}
+{s:BDSousTitre|Capacités spéciales}
+{s:BDTexte|'''Explosion de glace (Ext).''' Un golem de glace réduit à 0 pv se brise et explose en projetant des éclats de glace [[acéré|acérés]]. Les créatures situées dans un rayon de 3 m (2 {s:c}) subissent 3d6 points de dégâts de type tranchant et 2d6 points de dégâts de froid. Un jet de [[Réflexes]] de [[DD]] 13 permet de diviser ces dégâts par deux. Le [[DD]] dépend de la [[Constitution]].}
+{s:BDTexte|'''Froid (Ext).''' Le corps d'un golem de glace génère un froid intense qui lui permet d'infliger 1d6 points de dégâts d'un simple contact. Les créatures qui attaquent le golem de glace à mains nues ou avec des armes naturelles subissent ces dégâts de froid chaque fois qu'une de leurs attaques touche.}
+{s:BDTexte|'''Immunité contre la magie (Ext).''' Les golems de glace sont immunisés contre tous les sorts et pouvoirs magiques contre lesquels la [[RM|résistance à la magie]] fonctionne, à l'exception des sorts et pouvoirs magiques du [[registre|registre du Feu]] qui, eux, les affectent normalement. En plus de cela, certains sorts et effets agissent différemment lorsqu'ils sont utilisés contre ces golems :}
+{S:BDTexte|:• Les attaques magiques qui causent des dégâts d'électricité ralentissent le golem de glace (comme par le sort de ''[[lenteur]]'') pendant 2d6 rounds (sans [[jet de sauvegarde]]).}
+{s:BDTexte|:• Les attaques magiques qui causent des dégâts de froid mettent un terme à tous les effets de ''[[lenteur]]'' qui affectent le golem et le guérissent de 1 points de dégâts par tranche de 3 points de dégâts qu'elles infligeraient dans un situation normale. Si cet effet donne au golem un nombre de [[pv|points de vie]] dépassant son maximum, les points excédentaires deviennent des [[points de vie temporaires]]. Les effets qui infligent des dégâts de froid n'autorisent aucun [[jet de sauvegarde]] de la part du golem de glace.}
+</div>
+</td><td><div>''Cette statue de glace couverte de givre fait une tête de plus qu’un humain. Des morceaux de glace tranchants ornent ses membres.''
+
+Les golems de glace sont des automates humanoïdes créés à
+partir de sculptures de glace. Ils peuvent avoir l’apparence d’une
+silhouette de glace et de neige aux traits grossiers, celle d’une
+sculpture gelée aux détails fins et précis ou encore celle d’une
+magnifique statue de cristal.
+
+Les golems de glace ne peuvent pas parler et produisent des
+bruits de neige écrasée et de glace brisée à chaque pas. Ils mesurent
+2,10 mètres de hauteur et pèsent 250 kg.
+
+====Construction====
+
+Le corps d’un golem de glace doit être construit à partir d’un
+unique bloc de glace pesant au moins 500 kg. La glace est ensuite
+traitée à l’aide de poudres et d’onguents magiques valant au moins
+500 po.
+
+'''NLS''' 12<sup>e</sup> ; '''Prix''' 18 500 po
+
+'''Conditions''' [[Création de créatures artificielles]], ''[[cône de froid]]'', ''[[contact glacial]]'', ''[[quête]]'', ''[[résistance aux énergies destructives]] (froid)'', ''[[tempête de grêle]]'', créateur de niveau 12 ; '''Compétence''' [[Artisanat]] (sculpture) [[DD]] 17 ; '''Coût''' 9 500 po
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.golem de glace</fullName>
+</wikiPage>

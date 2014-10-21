@@ -1,0 +1,918 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>L'inquisiteur</title>
+  <categories><category>Pathfinder-RPG.Advanced Player Guide</category><category>Pathfinder-RPG.Classe</category></categories>
+  <lastModified>2013-06-30 08:46:47Z</lastModified>
+  <version>9</version>
+  <inLinks><link>Pathfinder-RPG.Aasimar (race)</link><link>Pathfinder-RPG.accorder une intuition</link><link>Pathfinder-RPG.Action interdite</link><link>Pathfinder-RPG.Action interdite supérieure</link><link>Pathfinder-RPG.Aiguillon persuasif</link><link>Pathfinder-RPG.Altération vocale</link><link>Pathfinder-RPG.Arc-bâton</link><link>Pathfinder-RPG.Argent et richesse</link><link>Pathfinder-RPG.Arme boomerang</link><link>Pathfinder-RPG.Arme boomerang (partagé)</link><link>Pathfinder-RPG.Arme infaillible</link><link>Pathfinder-RPG.Arme merveilleuse</link><link>Pathfinder-RPG.Armes magiques</link><link>Pathfinder-RPG.Armure impie</link><link>Pathfinder-RPG.Armure sainte</link><link>Pathfinder-RPG.Armure sans effort</link><link>Pathfinder-RPG.Assaut dalignement</link><link>Pathfinder-RPG.Balle dédiée</link><link>Pathfinder-RPG.Balle dédiée supérieure</link><link>Pathfinder-RPG.Bannir les faux-semblants</link><link>Pathfinder-RPG.bénédiction de chance et de résolution</link><link>Pathfinder-RPG.bénédiction de chance et de résolution de groupe</link><link>Pathfinder-RPG.Bénédiction de la taupe</link><link>Pathfinder-RPG.Biographie du sang</link><link>Pathfinder-RPG.Blessure mineure</link><link>Pathfinder-RPG.Blessure modérée (mot de pouvoir)</link><link>Pathfinder-RPG.Blessure supérieure</link><link>Pathfinder-RPG.Blessure suprême</link><link>Pathfinder-RPG.Bouclier dalignement</link><link>Pathfinder-RPG.Bouclier involontaire</link><link>Pathfinder-RPG.Briser les liens</link><link>Pathfinder-RPG.briser les lignes ennemies</link><link>Pathfinder-RPG.Brise-sortilège (inquisiteur)</link><link>Pathfinder-RPG.Bruit pénible</link><link>Pathfinder-RPG.Brûlure acide</link><link>Pathfinder-RPG.Canalisation agressive</link><link>Pathfinder-RPG.Caractéristiques</link><link>Pathfinder-RPG.Chasseur de sorcières (inquisiteur)</link><link>Pathfinder-RPG.Chien de chasse</link><link>Pathfinder-RPG.Classes</link><link>Pathfinder-RPG.Colère</link><link>Pathfinder-RPG.Colère partagée</link><link>Pathfinder-RPG.Compétences</link><link>Pathfinder-RPG.Confession</link><link>Pathfinder-RPG.Connaissances du Borgne</link><link>Pathfinder-RPG.Connaître son ennemi</link><link>Pathfinder-RPG.Cor de poursuite</link><link>Pathfinder-RPG.Coup retentissant</link><link>Pathfinder-RPG.Course folle</link><link>Pathfinder-RPG.Crampe</link><link>Pathfinder-RPG.Cri perçant</link><link>Pathfinder-RPG.Déchiffrer</link><link>Pathfinder-RPG.Défaire</link><link>Pathfinder-RPG.Déguisement fantomatique</link><link>Pathfinder-RPG.Déguiser autrui</link><link>Pathfinder-RPG.Demi-elfe</link><link>Pathfinder-RPG.Demi-orque</link><link>Pathfinder-RPG.Dénonciation</link><link>Pathfinder-RPG.Détecter lalignement</link><link>Pathfinder-RPG.Dhampir (race)</link><link>Pathfinder-RPG.Disparition (mot de pouvoir)</link><link>Pathfinder-RPG.Donner linitiative</link><link>Pathfinder-RPG.dons-temporaires</link><link>Pathfinder-RPG.double terrifiant</link><link>Pathfinder-RPG.Double tueur</link><link>Pathfinder-RPG.Éclair brûlant</link><link>Pathfinder-RPG.Efforts coordonnés</link><link>Pathfinder-RPG.Élan de rapidité</link><link>Pathfinder-RPG.Elfe</link><link>Pathfinder-RPG.Engin de siège magique</link><link>Pathfinder-RPG.Engin de siège magique supérieur</link><link>Pathfinder-RPG.Étrange fièvre</link><link>Pathfinder-RPG.Évanouissement</link><link>Pathfinder-RPG.Exarque (inquisiteur)</link><link>Pathfinder-RPG.Exorciste (inquisiteur)</link><link>Pathfinder-RPG.Exploitation des connaissances</link><link>Pathfinder-RPG.Fantôme</link><link>Pathfinder-RPG.FAQ Règles</link><link>Pathfinder-RPG.Flammes du fidèle</link><link>Pathfinder-RPG.Flèche de laube</link><link>Pathfinder-RPG.Fortifiant</link><link>Pathfinder-RPG.Fustiger</link><link>Pathfinder-RPG.Fustiger de groupe</link><link>Pathfinder-RPG.Gnome</link><link>Pathfinder-RPG.Guérison mineure</link><link>Pathfinder-RPG.Guérison modérée</link><link>Pathfinder-RPG.Guérison supérieure</link><link>Pathfinder-RPG.Guérison suprême (mot de pouvoir)</link><link>Pathfinder-RPG.Guérison vertueuse</link><link>Pathfinder-RPG.Halfelin</link><link>Pathfinder-RPG.Hébétement de groupe</link><link>Pathfinder-RPG.Hémorragie</link><link>Pathfinder-RPG.Hérétique (inquisiteur)</link><link>Pathfinder-RPG.Hostilité forcée</link><link>Pathfinder-RPG.Humain</link><link>Pathfinder-RPG.Hurlement dagonie</link><link>Pathfinder-RPG.Iconoclaste (inquisiteur)</link><link>Pathfinder-RPG.Immunité à lénergie</link><link>Pathfinder-RPG.Immunité contre les sorts (partagé)</link><link>Pathfinder-RPG.Infatigable poursuivant</link><link>Pathfinder-RPG.Infatigables poursuivants</link><link>Pathfinder-RPG.Infestation de vers</link><link>Pathfinder-RPG.Infiltrateur (inquisiteur)</link><link>Pathfinder-RPG.Innombrables yeux</link><link>Pathfinder-RPG.Inquisiteur</link><link>Pathfinder-RPG.Inquisitions</link><link>Pathfinder-RPG.Inspection</link><link>Pathfinder-RPG.Instrument dagonie</link><link>Pathfinder-RPG.Interrogatoire</link><link>Pathfinder-RPG.Interrogatoire supérieur</link><link>Pathfinder-RPG.Invective cuisante</link><link>Pathfinder-RPG.Jugement instantané</link><link>Pathfinder-RPG.Jugement partagé</link><link>Pathfinder-RPG.Jugement partial</link><link>Pathfinder-RPG.Jugement renforcé</link><link>Pathfinder-RPG.jugements</link><link>Pathfinder-RPG.Juggernaut mortel</link><link>Pathfinder-RPG.Lamentation du lâche</link><link>Pathfinder-RPG.Langage caché</link><link>Pathfinder-RPG.Langue de miel</link><link>Pathfinder-RPG.Lien des esprits combatifs</link><link>Pathfinder-RPG.Lien sacré</link><link>Pathfinder-RPG.Liste des sorts dinquisiteur</link><link>Pathfinder-RPG.Litanie de défense</link><link>Pathfinder-RPG.Litanie de faiblesse</link><link>Pathfinder-RPG.Litanie de folie</link><link>Pathfinder-RPG.Litanie de fuite</link><link>Pathfinder-RPG.Litanie de paresse</link><link>Pathfinder-RPG.Litanie de prévention</link><link>Pathfinder-RPG.Litanie de tonnerre</link><link>Pathfinder-RPG.Litanie de vengeance</link><link>Pathfinder-RPG.Litanie de vertu</link><link>Pathfinder-RPG.Litanie de vision</link><link>Pathfinder-RPG.Litanie déloquence</link><link>Pathfinder-RPG.Litanie denchevêtrement</link><link>Pathfinder-RPG.Localisation</link><link>Pathfinder-RPG.Lumière du jugement</link><link>Pathfinder-RPG.mâchoire féroce</link><link>Pathfinder-RPG.MainPage</link><link>Pathfinder-RPG.Malédiction de négation magique</link><link>Pathfinder-RPG.Mangeur de pêchés (inquisiteur)</link><link>Pathfinder-RPG.Marque</link><link>Pathfinder-RPG.Marqué pour punir</link><link>Pathfinder-RPG.Marque supérieure</link><link>Pathfinder-RPG.Matériel de classes et de compétences</link><link>Pathfinder-RPG.Menottes scellées</link><link>Pathfinder-RPG.Monture de guerre</link><link>Pathfinder-RPG.Nain</link><link>Pathfinder-RPG.Œil du chasseur</link><link>Pathfinder-RPG.Œil du juge</link><link>Pathfinder-RPG.Ordre simple</link><link>Pathfinder-RPG.page de travail des dons</link><link>Pathfinder-RPG.Paix forcée</link><link>Pathfinder-RPG.Paralysie de créature</link><link>Pathfinder-RPG.Paralysie dhumanoïde</link><link>Pathfinder-RPG.Paria</link><link>Pathfinder-RPG.Parricide (inquisiteur)</link><link>Pathfinder-RPG.Peau de pierre (partagé)</link><link>Pathfinder-RPG.Perception des indices</link><link>Pathfinder-RPG.Perspicacité tactique</link><link>Pathfinder-RPG.Plaie au visage</link><link>Pathfinder-RPG.Poursuite divine</link><link>Pathfinder-RPG.Prêcheur (inquisiteur)</link><link>Pathfinder-RPG.Présence écrasante</link><link>Pathfinder-RPG.Protection contre la Loi (partagé)</link><link>Pathfinder-RPG.Protection contre la mort-vivance</link><link>Pathfinder-RPG.Protection contre le Bien (partagé)</link><link>Pathfinder-RPG.Protection contre le Chaos (partagé)</link><link>Pathfinder-RPG.Protection contre le Mal (partagé)</link><link>Pathfinder-RPG.Protection contre les énergies destructives (partagé)</link><link>Pathfinder-RPG.Protection des fidèles</link><link>Pathfinder-RPG.Purification</link><link>Pathfinder-RPG.Purifier</link><link>Pathfinder-RPG.Purulence</link><link>Pathfinder-RPG.Purulence de groupe</link><link>Pathfinder-RPG.Radiance</link><link>Pathfinder-RPG.Ralentissement du poison (partagé)</link><link>Pathfinder-RPG.Rayon aveuglant</link><link>Pathfinder-RPG.rechargement de la magie innée</link><link>Pathfinder-RPG.Recherche de pensées</link><link>Pathfinder-RPG.Refus de la tombe</link><link>Pathfinder-RPG.Regard intimidant</link><link>Pathfinder-RPG.Regard pénétrant</link><link>Pathfinder-RPG.Rendre un jugement</link><link>Pathfinder-RPG.Rendre un jugement supérieur</link><link>Pathfinder-RPG.Repentir forcé</link><link>Pathfinder-RPG.Repérer les faiblesses</link><link>Pathfinder-RPG.Représailles</link><link>Pathfinder-RPG.Réprimande</link><link>Pathfinder-RPG.Réprobation</link><link>Pathfinder-RPG.Requiem pour les fantômes</link><link>Pathfinder-RPG.Requiem pour les fantômes de groupe</link><link>Pathfinder-RPG.Résistance à la corruption</link><link>Pathfinder-RPG.Résistance à la magie (mot de pouvoir)</link><link>Pathfinder-RPG.Résistance à lénergie (mot de pouvoir)</link><link>Pathfinder-RPG.Résistance aux énergies destructives (partagé)</link><link>Pathfinder-RPG.Retardement de la douleur</link><link>Pathfinder-RPG.River le regard</link><link>Pathfinder-RPG.Sanctification de cadavre</link><link>Pathfinder-RPG.Savoir manier une arme</link><link>Pathfinder-RPG.Sceau contre les maléfices</link><link>Pathfinder-RPG.sceau de fuite</link><link>Pathfinder-RPG.Science de la connaissance des monstres</link><link>Pathfinder-RPG.Scrupule</link><link>Pathfinder-RPG.Sens aiguisés</link><link>Pathfinder-RPG.Sentir ce qui est caché</link><link>Pathfinder-RPG.Sentir la magie</link><link>Pathfinder-RPG.Sentir les pensées</link><link>Pathfinder-RPG.Silence forcé</link><link>Pathfinder-RPG.Somnambulisme</link><link>Pathfinder-RPG.Sort sélectif</link><link>Pathfinder-RPG.Spasmes</link><link>Pathfinder-RPG.Suppression</link><link>Pathfinder-RPG.Surmonter laffliction</link><link>Pathfinder-RPG.Tableau des dons (Art de la Magie)</link><link>Pathfinder-RPG.Tableau récapitulatif des dons</link><link>Pathfinder-RPG.tableau récapitulatif des dons (art de la guerre)</link><link>Pathfinder-RPG.Témoin</link><link>Pathfinder-RPG.Tempête de braises</link><link>Pathfinder-RPG.temp-MainPage</link><link>Pathfinder-RPG.Terreur (mot de pouvoir)</link><link>Pathfinder-RPG.Terrible remord</link><link>Pathfinder-RPG.Tir longue distance</link><link>Pathfinder-RPG.Torche révélatrice</link><link>Pathfinder-RPG.Torture</link><link>Pathfinder-RPG.Toucher apaisant</link><link>Pathfinder-RPG.transe guerrière</link><link>Pathfinder-RPG.Traquer laura</link><link>Pathfinder-RPG.Trouver la proie</link><link>Pathfinder-RPG.Tueur intimidant</link><link>Pathfinder-RPG.Tueur magique</link><link>Pathfinder-RPG.Tueur menaçant</link><link>Pathfinder-RPG.Tueur miséricordieux</link><link>Pathfinder-RPG.Tueur prolongé</link><link>Pathfinder-RPG.Tueur supplémentaire</link><link>Pathfinder-RPG.Vigueur du juste</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.jugements</link><link>Pathfinder-RPG.Liste des sorts dinquisiteur</link><link>Pathfinder-RPG.Inquisitions</link><link>Pathfinder-RPG.Brise-sortilège (inquisiteur)</link><link>Pathfinder-RPG.Chasseur de sorcières (inquisiteur)</link><link>Pathfinder-RPG.Exorciste (inquisiteur)</link><link>Pathfinder-RPG.Hérétique (inquisiteur)</link><link>Pathfinder-RPG.Iconoclaste (inquisiteur)</link><link>Pathfinder-RPG.Infiltrateur (inquisiteur)</link><link>Pathfinder-RPG.Mangeur de pêchés (inquisiteur)</link><link>Pathfinder-RPG.Prêcheur (inquisiteur)</link><link>Pathfinder-RPG.Inquisiteur</link><link>Pathfinder-RPG.Alignement</link><link>Pathfinder-RPG.Art de la magie</link><link>Pathfinder-RPG.Artisanat</link><link>Pathfinder-RPG.Bluff</link><link>Pathfinder-RPG.Connaissances</link><link>Pathfinder-RPG.Déguisement</link><link>Pathfinder-RPG.Diplomatie</link><link>Pathfinder-RPG.Discrétion</link><link>Pathfinder-RPG.Équitation</link><link>Pathfinder-RPG.Escalade</link><link>Pathfinder-RPG.Intimidation</link><link>Pathfinder-RPG.Natation</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Premiers secours</link><link>Pathfinder-RPG.Profession</link><link>Pathfinder-RPG.Psychologie</link><link>Pathfinder-RPG.Survie</link><link>Pathfinder-RPG.Intelligence</link><link>Pathfinder-RPG.armes courantes</link><link>Pathfinder-RPG.armure légère</link><link>Pathfinder-RPG.armure intermédiaire</link><link>Pathfinder-RPG.Sagesse</link><link>Pathfinder-RPG.DD</link><link>Pathfinder-RPG.jet de sauvegarde</link><link>Pathfinder-RPG.Domaines</link><link>Pathfinder-RPG.Prêtre</link><link>Pathfinder-RPG.Domaine du Soleil</link><link>Pathfinder-RPG.NLS</link><link>Pathfinder-RPG.Action rapide</link><link>Pathfinder-RPG.États préjudiciables</link><link>Pathfinder-RPG.Tableau récapitulatif des compétences</link><link>Pathfinder-RPG.initiative</link><link>Pathfinder-RPG.Dextérité</link><link>Pathfinder-RPG.Détection du Chaos</link><link>Pathfinder-RPG.Détection du Mal</link><link>Pathfinder-RPG.Détection du Bien</link><link>Pathfinder-RPG.Détection de la Loi</link><link>Pathfinder-RPG.dons déquipe</link><link>Pathfinder-RPG.Armes magiques</link><link>Pathfinder-RPG.Types de créatures</link><link>Pathfinder-RPG.Sous-types de créatures</link><link>Pathfinder-RPG.Détection du mensonge</link><link>Pathfinder-RPG.Action immédiate</link><link>Pathfinder-RPG.Valeurs de combat</link><link>Pathfinder-RPG.coup critique</link><link>Pathfinder-RPG.réduction de dégâts</link><link>Pathfinder-RPG.Régénération (capacité)</link><link>Pathfinder-RPG.Vigueur</link><link>Pathfinder-RPG.Pénitence</link><link>Pathfinder-RPG.Aspersion acide</link><link>Pathfinder-RPG.Assistance divine</link><link>Pathfinder-RPG.Création deau</link><link>Pathfinder-RPG.Destruction de mort-vivant</link><link>Pathfinder-RPG.Détection de la magie</link><link>Pathfinder-RPG.Détection du poison</link><link>Pathfinder-RPG.Hébétement</link><link>Pathfinder-RPG.Lecture de la magie</link><link>Pathfinder-RPG.Lumière</link><link>Pathfinder-RPG.résistance</link><link>Pathfinder-RPG.Saignement</link><link>Pathfinder-RPG.Stabilisation</link><link>Pathfinder-RPG.Stimulant</link><link>Pathfinder-RPG.Alarme</link><link>Pathfinder-RPG.Anathème</link><link>Pathfinder-RPG.Arme magique</link><link>Pathfinder-RPG.Bénédiction</link><link>Pathfinder-RPG.Bénédiction de leau</link><link>Pathfinder-RPG.Blessure légère</link><link>Pathfinder-RPG.Bouclier de la foi</link><link>Pathfinder-RPG.Compréhension des langages</link><link>Pathfinder-RPG.Coup au but</link><link>Pathfinder-RPG.Détection des morts-vivants</link><link>Pathfinder-RPG.Détection</link><link>Pathfinder-RPG.Faveur divine</link><link>Pathfinder-RPG.Frayeur</link><link>Pathfinder-RPG.Imprécation</link><link>Pathfinder-RPG.Injonction</link><link>Pathfinder-RPG.Invisibilité pour les morts-vivants</link><link>Pathfinder-RPG.Malédiction de leau</link><link>Pathfinder-RPG.Protection</link><link>Pathfinder-RPG.Regain dassurance</link><link>Pathfinder-RPG.Repli expéditif</link><link>Pathfinder-RPG.Sanctuaire</link><link>Pathfinder-RPG.Soins légers</link><link>Pathfinder-RPG.Aide</link><link>Pathfinder-RPG.Alignement indétectable</link><link>Pathfinder-RPG.Apaisement des émotions</link><link>Pathfinder-RPG.Arme alignée</link><link>Pathfinder-RPG.Arme spirituelle</link><link>Pathfinder-RPG.Blessure modérée</link><link>Pathfinder-RPG.Consécration</link><link>Pathfinder-RPG.Déblocage</link><link>Pathfinder-RPG.Délivrance de la paralysie</link><link>Pathfinder-RPG.Détection de linvisibilité</link><link>Pathfinder-RPG.Détection de pensées</link><link>Pathfinder-RPG.Détection des pièges</link><link>Pathfinder-RPG.Discours captivant</link><link>Pathfinder-RPG.Don des langues</link><link>Pathfinder-RPG.Immobilisation de personne</link><link>Pathfinder-RPG.Invisibilité</link><link>Pathfinder-RPG.Mise à mort</link><link>Pathfinder-RPG.Profanation</link><link>Pathfinder-RPG.Protection dautrui</link><link>Pathfinder-RPG.Ralentissement du poison</link><link>Pathfinder-RPG.Résistance aux énergies destructives</link><link>Pathfinder-RPG.Restauration partielle</link><link>Pathfinder-RPG.Silence</link><link>Pathfinder-RPG.Soins modérés</link><link>Pathfinder-RPG.Ténèbres</link><link>Pathfinder-RPG.Vent de murmures</link><link>Pathfinder-RPG.Zone de vérité</link><link>Pathfinder-RPG.Affûtage</link><link>Pathfinder-RPG.Ancre dimensionnelle</link><link>Pathfinder-RPG.Antidétection</link><link>Pathfinder-RPG.Arme magique suprême</link><link>Pathfinder-RPG.Blessure grave</link><link>Pathfinder-RPG.Cercle magique</link><link>Pathfinder-RPG.Communication avec les morts</link><link>Pathfinder-RPG.Délivrance des malédictions</link><link>Pathfinder-RPG.Dissimulation dobjet</link><link>Pathfinder-RPG.Dissipation de la magie</link><link>Pathfinder-RPG.Flamme éternelle</link><link>Pathfinder-RPG.Glyphe de garde</link><link>Pathfinder-RPG.Guérison des maladies</link><link>Pathfinder-RPG.Héroïsme</link><link>Pathfinder-RPG.Immobilisation de morts-vivants</link><link>Pathfinder-RPG.Localisation dobjet</link><link>Pathfinder-RPG.Lumière brûlante</link><link>Pathfinder-RPG.Lumière du jour</link><link>Pathfinder-RPG.Négation de linvisibilité</link><link>Pathfinder-RPG.Panoplie magique</link><link>Pathfinder-RPG.Prière</link><link>Pathfinder-RPG.Protection contre les énergies destructives</link><link>Pathfinder-RPG.Soins importants</link><link>Pathfinder-RPG.Ténèbres profondes</link><link>Pathfinder-RPG.Vision magique</link><link>Pathfinder-RPG.Blessure critique</link><link>Pathfinder-RPG.Châtiment sacré</link><link>Pathfinder-RPG.Communication à distance</link><link>Pathfinder-RPG.Courroux de lordre</link><link>Pathfinder-RPG.Détection de la scrutation</link><link>Pathfinder-RPG.Divination</link><link>Pathfinder-RPG.Immobilisation de monstre</link><link>Pathfinder-RPG.Immunité contre les sorts</link><link>Pathfinder-RPG.Invisibilité suprême</link><link>Pathfinder-RPG.Liberté de mouvement</link><link>Pathfinder-RPG.Marteau du chaos</link><link>Pathfinder-RPG.Mission</link><link>Pathfinder-RPG.Neutralisation du poison</link><link>Pathfinder-RPG.Peau de pierre</link><link>Pathfinder-RPG.Protection contre la mort</link><link>Pathfinder-RPG.Puissance divine</link><link>Pathfinder-RPG.Renvoi</link><link>Pathfinder-RPG.Restauration</link><link>Pathfinder-RPG.Soins intensifs</link><link>Pathfinder-RPG.Ténèbres maudites</link><link>Pathfinder-RPG.Terreur</link><link>Pathfinder-RPG.Annulation denchantement</link><link>Pathfinder-RPG.Arme destructrice</link><link>Pathfinder-RPG.Bannissement</link><link>Pathfinder-RPG.Colonne de feu</link><link>Pathfinder-RPG.Communion</link><link>Pathfinder-RPG.Force du colosse</link><link>Pathfinder-RPG.Injonction suprême</link><link>Pathfinder-RPG.Lien télépathique</link><link>Pathfinder-RPG.Marque de la justice</link><link>Pathfinder-RPG.Quête</link><link>Pathfinder-RPG.Rejet</link><link>Pathfinder-RPG.résistance à la magie</link><link>Pathfinder-RPG.Sanctification</link><link>Pathfinder-RPG.Sanctification maléfique</link><link>Pathfinder-RPG.Vision lucide</link><link>Pathfinder-RPG.Annihilation de mort-vivant</link><link>Pathfinder-RPG.Barrière de lames</link><link>Pathfinder-RPG.Blasphème</link><link>Pathfinder-RPG.Cercle de mort</link><link>Pathfinder-RPG.Champ de force</link><link>Pathfinder-RPG.Décret</link><link>Pathfinder-RPG.Dissipation suprême</link><link>Pathfinder-RPG.Festin des héros</link><link>Pathfinder-RPG.Glyphe de garde suprême</link><link>Pathfinder-RPG.Guérison suprême</link><link>Pathfinder-RPG.Interdiction</link><link>Pathfinder-RPG.Mise à mal</link><link>Pathfinder-RPG.Mythes et légendes</link><link>Pathfinder-RPG.Orientation</link><link>Pathfinder-RPG.Parole du Chaos</link><link>Pathfinder-RPG.Parole sacrée</link></outLinks>
+  <body><![CDATA[
+&lt;div class=&quot;fright&quot;&gt;&lt;b&gt;&lt;i&gt;Voir aussi les &lt;a class=&quot;pagelink&quot; href=&quot;Jugements.html&quot; title=&quot;Les jugements d&amp;#39;inquisiteur&quot;&gt;jugements&lt;/a&gt; d&#39;inquisiteur.&lt;/i&gt;&lt;/b&gt;&lt;br/&gt;
+&lt;b&gt;&lt;i&gt;Voir aussi la &lt;a class=&quot;pagelink&quot; href=&quot;Liste-Des-Sorts-Dinquisiteur.html&quot; title=&quot;Liste des sorts d&amp;#39;inquisiteur&quot;&gt;liste des sorts d&#39;inquisiteur&lt;/a&gt;.&lt;/i&gt;&lt;/b&gt;&lt;br/&gt;
+&lt;b&gt;&lt;i&gt;Voir aussi la liste des &lt;a class=&quot;pagelink&quot; href=&quot;Inquisitions.html&quot; title=&quot;Inquisitions&quot;&gt;inquisitions&lt;/a&gt;.&lt;/i&gt;&lt;/b&gt;&lt;br/&gt;
+&lt;b&gt;Voir les arch&#233;types de l&#39;inquisiteur&lt;/b&gt;&amp;emsp;
+&lt;ul ID=&quot;inquisiteur&quot; CLASS=&quot;listecach&#233;e cadrebas&quot;&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Brise-Sortil&#232;ge-(Inquisiteur).html&quot; title=&quot;Brise-sortil&#232;ge&quot;&gt;Brise-sortil&#232;ge&lt;/a&gt; (UC)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Chasseur-De-Sorci&#232;res-(Inquisiteur).html&quot; title=&quot;Chasseur de sorci&#232;res&quot;&gt;Chasseur de sorci&#232;res&lt;/a&gt; (UC)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Exorciste-(Inquisiteur).html&quot; title=&quot;Exorciste&quot;&gt;Exorciste&lt;/a&gt; (UM)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;H&#233;r&#233;tique-(Inquisiteur).html&quot; title=&quot;H&#233;r&#233;tique&quot;&gt;H&#233;r&#233;tique&lt;/a&gt; (UM)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Iconoclaste-(Inquisiteur).html&quot; title=&quot;Iconoclaste&quot;&gt;Iconoclaste&lt;/a&gt; (UC)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Infiltrateur-(Inquisiteur).html&quot; title=&quot;Infiltrateur&quot;&gt;Infiltrateur&lt;/a&gt; (UM)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Mangeur-De-P&#234;ch&#233;s-(Inquisiteur).html&quot; title=&quot;Mangeur de p&#234;ch&#233;s&quot;&gt;Mangeur de p&#234;ch&#233;s&lt;/a&gt; (UM)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Pr&#234;cheur-(Inquisiteur).html&quot; title=&quot;Pr&#234;cheur&quot;&gt;Pr&#234;cheur&lt;/a&gt; (UM)&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;
+&lt;i&gt;Sombre et d&#233;termin&#233;, l&#39;inquisiteur d&#233;busque les ennemis de la foi et use de tromperie et de ruse quand la vertu et la puret&#233; ne suffisent pas. M&#234;me si les inquisiteurs sont d&#233;vou&#233;s &#224; une divinit&#233;, ils sont au-dessus des r&#232;gles et des conventions de leur &#233;glise. Ils r&#233;pondent de leurs actes devant leur dieu et leur propre sens de la justice seulement, et ils sont pr&#234;ts &#224; appliquer des mesures extr&#234;mes pour atteindre leurs objectifs.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;&lt;a name=&quot;TABLEINQUISITEUR&quot;&gt;&lt;/a&gt;
+&lt;center&gt;
+&lt;table CLASS=&quot;tablo&quot;&gt;&lt;caption&gt;L&#39;Inquisiteur&lt;/caption&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td ROWSPAN=&quot;2&quot;&gt;Niveau&lt;/td&gt;&lt;td ROWSPAN=&quot;2&quot;&gt;BBA&lt;/td&gt;&lt;td ROWSPAN=&quot;2&quot;&gt;R&#233;flexes&lt;/td&gt;&lt;td ROWSPAN=&quot;2&quot;&gt;Vigueur&lt;/td&gt;&lt;td ROWSPAN=&quot;2&quot;&gt;Volont&#233;&lt;/td&gt;&lt;td ROWSPAN=&quot;2&quot; CLASS=&quot;gauche&quot;&gt;Sp&#233;cial&lt;/td&gt;&lt;td COLSPAN=&quot;9&quot; CLASS=&quot;avecsoustitre&quot;&gt;Sorts par jour&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;soustitre&quot;&gt;&lt;td&gt;1er&lt;/td&gt;&lt;td&gt;2e&lt;/td&gt;&lt;td&gt;3e&lt;/td&gt;&lt;td&gt;4e&lt;/td&gt;&lt;td&gt;5e&lt;/td&gt;&lt;td&gt;6e&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier&quot;&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;+0&lt;/td&gt;&lt;td&gt;+0&lt;/td&gt;&lt;td&gt;+2&lt;/td&gt;&lt;td&gt;+2&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Inquisiteur.html#DOMAINE&quot; title=&quot;L&amp;#39;inquisiteur&quot;&gt;domaine ou inquisition&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Inquisiteur.html#JUGEMENT&quot; title=&quot;L&amp;#39;inquisiteur&quot;&gt;jugement 1/jour&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Inquisiteur.html#REGARDSEVERE&quot; title=&quot;L&amp;#39;inquisiteur&quot;&gt;regard s&#233;v&#232;re&lt;/a&gt;&lt;br/&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Inquisiteur.html#CONNAISSANCEDESMONSTRES&quot; title=&quot;L&amp;#39;inquisiteur&quot;&gt;connaissance des monstres&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Inquisiteur.html#ORAISONS&quot; title=&quot;L&amp;#39;inquisiteur&quot;&gt;oraisons&lt;/a&gt;&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;+1&lt;/td&gt;&lt;td&gt;+0&lt;/td&gt;&lt;td&gt;+3&lt;/td&gt;&lt;td&gt;+3&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Inquisiteur.html#INITIATIVERUSEE&quot; title=&quot;L&amp;#39;inquisiteur&quot;&gt;initiative rus&#233;e&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Inquisiteur.html#PISTAGE&quot; title=&quot;L&amp;#39;inquisiteur&quot;&gt;pistage&lt;/a&gt;, &lt;br/&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Inquisiteur.html#DETECTIONDALIGNEMENT&quot; title=&quot;L&amp;#39;inquisiteur&quot;&gt;d&#233;tection d&#39;alignement&lt;/a&gt;, &lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;+2&lt;/td&gt;&lt;td&gt;+1&lt;/td&gt;&lt;td&gt;+3&lt;/td&gt;&lt;td&gt;+3&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Inquisiteur.html#TACTIQUESOLITAIRE&quot; title=&quot;L&amp;#39;inquisiteur&quot;&gt;tactique solitaire&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Inquisiteur.html#DONDETRAVAILENEQUIPE&quot; title=&quot;L&amp;#39;inquisiteur&quot;&gt;don de travail en &#233;quipe&lt;/a&gt;&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;+3&lt;/td&gt;&lt;td&gt;+1&lt;/td&gt;&lt;td&gt;+4&lt;/td&gt;&lt;td&gt;+4&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Inquisiteur.html#JUGEMENT&quot; title=&quot;L&amp;#39;inquisiteur&quot;&gt;jugement 2/jour&lt;/a&gt;&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;+3&lt;/td&gt;&lt;td&gt;+1&lt;/td&gt;&lt;td&gt;+4&lt;/td&gt;&lt;td&gt;+4&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Inquisiteur.html#TUEUR&quot; title=&quot;L&amp;#39;inquisiteur&quot;&gt;tueur&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Inquisiteur.html#DETECTIONDESMENSONGES&quot; title=&quot;L&amp;#39;inquisiteur&quot;&gt;d&#233;tection des mensonges&lt;/a&gt;&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;+4&lt;/td&gt;&lt;td&gt;+2&lt;/td&gt;&lt;td&gt;+5&lt;/td&gt;&lt;td&gt;+5&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Inquisiteur.html#DONDETRAVAILENEQUIPE&quot; title=&quot;L&amp;#39;inquisiteur&quot;&gt;don de travail en &#233;quipe&lt;/a&gt;&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;7&lt;/td&gt;&lt;td&gt;+5&lt;/td&gt;&lt;td&gt;+2&lt;/td&gt;&lt;td&gt;+5&lt;/td&gt;&lt;td&gt;+5&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Inquisiteur.html#JUGEMENT&quot; title=&quot;L&amp;#39;inquisiteur&quot;&gt;jugement 3/jour&lt;/a&gt;&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;8&lt;/td&gt;&lt;td&gt;+6/+1&lt;/td&gt;&lt;td&gt;+2&lt;/td&gt;&lt;td&gt;+6&lt;/td&gt;&lt;td&gt;+6&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Inquisiteur.html#SECONDJUGEMENT&quot; title=&quot;L&amp;#39;inquisiteur&quot;&gt;second jugement&lt;/a&gt;&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;9&lt;/td&gt;&lt;td&gt;+6/+1&lt;/td&gt;&lt;td&gt;+3&lt;/td&gt;&lt;td&gt;+6&lt;/td&gt;&lt;td&gt;+6&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Inquisiteur.html#DONDETRAVAILENEQUIPE&quot; title=&quot;L&amp;#39;inquisiteur&quot;&gt;don de travail en &#233;quipe&lt;/a&gt;&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;+7/+2&lt;/td&gt;&lt;td&gt;+3&lt;/td&gt;&lt;td&gt;+7&lt;/td&gt;&lt;td&gt;+7&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Inquisiteur.html#JUGEMENT&quot; title=&quot;L&amp;#39;inquisiteur&quot;&gt;jugement 4/jour&lt;/a&gt; &lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;11&lt;/td&gt;&lt;td&gt;+8/+3&lt;/td&gt;&lt;td&gt;+3&lt;/td&gt;&lt;td&gt;+7&lt;/td&gt;&lt;td&gt;+7&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Inquisiteur.html#VAILLANT&quot; title=&quot;L&amp;#39;inquisiteur&quot;&gt;vaillant&lt;/a&gt;&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;12&lt;/td&gt;&lt;td&gt;+9/+4&lt;/td&gt;&lt;td&gt;+4&lt;/td&gt;&lt;td&gt;+8&lt;/td&gt;&lt;td&gt;+8&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Inquisiteur.html#TUEURSUPERIEUR&quot; title=&quot;L&amp;#39;inquisiteur&quot;&gt;tueur sup&#233;rieur&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Inquisiteur.html#DONDETRAVAILENEQUIPE&quot; title=&quot;L&amp;#39;inquisiteur&quot;&gt;don de travail en &#233;quipe&lt;/a&gt;&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;13&lt;/td&gt;&lt;td&gt;+9/+4&lt;/td&gt;&lt;td&gt;+4&lt;/td&gt;&lt;td&gt;+8&lt;/td&gt;&lt;td&gt;+8&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Inquisiteur.html#JUGEMENT&quot; title=&quot;L&amp;#39;inquisiteur&quot;&gt;jugement 5/jour&lt;/a&gt;&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;14&lt;/td&gt;&lt;td&gt;+10/+5&lt;/td&gt;&lt;td&gt;+4&lt;/td&gt;&lt;td&gt;+9&lt;/td&gt;&lt;td&gt;+9&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Inquisiteur.html#EXPLOITERLESFAIBLESSES&quot; title=&quot;L&amp;#39;inquisiteur&quot;&gt;exploiter les faiblesses&lt;/a&gt; &lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;15&lt;/td&gt;&lt;td&gt;+11/+6/+1&lt;/td&gt;&lt;td&gt;+5&lt;/td&gt;&lt;td&gt;+9&lt;/td&gt;&lt;td&gt;+9&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Inquisiteur.html#DONDETRAVAILENEQUIPE&quot; title=&quot;L&amp;#39;inquisiteur&quot;&gt;don de travail en &#233;quipe&lt;/a&gt;&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;16&lt;/td&gt;&lt;td&gt;+12/+7/+2&lt;/td&gt;&lt;td&gt;+5&lt;/td&gt;&lt;td&gt;+10&lt;/td&gt;&lt;td&gt;+10&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Inquisiteur.html#JUGEMENT&quot; title=&quot;L&amp;#39;inquisiteur&quot;&gt;jugement 6/jour&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Inquisiteur.html#TROISIEMEJUGEMENT&quot; title=&quot;L&amp;#39;inquisiteur&quot;&gt;troisi&#232;me jugement&lt;/a&gt;&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;17&lt;/td&gt;&lt;td&gt;+12/+7/+2&lt;/td&gt;&lt;td&gt;+5&lt;/td&gt;&lt;td&gt;+10&lt;/td&gt;&lt;td&gt;+10&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Inquisiteur.html#EXTERMINER&quot; title=&quot;L&amp;#39;inquisiteur&quot;&gt;exterminer&lt;/a&gt;&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;18&lt;/td&gt;&lt;td&gt;+13/+8/+3&lt;/td&gt;&lt;td&gt;+6&lt;/td&gt;&lt;td&gt;+11&lt;/td&gt;&lt;td&gt;+11&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Inquisiteur.html#DONDETRAVAILENEQUIPE&quot; title=&quot;L&amp;#39;inquisiteur&quot;&gt;don de travail en &#233;quipe&lt;/a&gt;&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;19&lt;/td&gt;&lt;td&gt;+14/+9/+4&lt;/td&gt;&lt;td&gt;+6&lt;/td&gt;&lt;td&gt;+11&lt;/td&gt;&lt;td&gt;+11&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Inquisiteur.html#JUGEMENT&quot; title=&quot;L&amp;#39;inquisiteur&quot;&gt;jugement 7/jour&lt;/a&gt;&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;20&lt;/td&gt;&lt;td&gt;+15/+10/+5&lt;/td&gt;&lt;td&gt;+6&lt;/td&gt;&lt;td&gt;+12&lt;/td&gt;&lt;td&gt;+12&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Inquisiteur.html#VERITABLEJUGEMENT&quot; title=&quot;L&amp;#39;inquisiteur&quot;&gt;v&#233;ritable jugement&lt;/a&gt;&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/center&gt;&lt;br /&gt;&lt;br /&gt;&lt;div style=&quot;float:right; background-color: #fff; padding: 0 0 16px 16px&quot;&gt;
+&lt;div style=&quot;border: 1px solid #4b3124; padding: 4px&quot;&gt;
+&lt;a name=&quot;SORTSCONNUSDELINQUISITEUR&quot;&gt;&lt;/a&gt;
+&lt;center&gt;
+&lt;table CLASS=&quot;tablo&quot;&gt;&lt;caption&gt;Sorts connus par l&#39;inquisiteur&lt;/caption&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td ROWSPAN=&quot;2&quot;&gt;Niveau&lt;/td&gt;&lt;td COLSPAN=&quot;10&quot; CLASS=&quot;avecsoustitre gauche&quot;&gt;Sorts connus&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;soustitre&quot;&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;1er&lt;/td&gt;&lt;td&gt;2e&lt;/td&gt;&lt;td&gt;3e&lt;/td&gt;&lt;td&gt;4e&lt;/td&gt;&lt;td&gt;5e&lt;/td&gt;&lt;td&gt;6e&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier&quot;&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;7&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;8&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;9&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;11&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;12&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;13&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;14&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;15&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;16&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;17&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;18&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;19&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;20&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/center&gt;&lt;/div&gt;&lt;/div&gt;&lt;br /&gt;&lt;b&gt;R&#244;le.&lt;/b&gt; Les inquisiteurs se d&#233;placent souvent pour traquer leurs ennemis, &#224; l&#39;aff&#251;t de toute nouvelle menace. Ils voyagent donc beaucoup en compagnie d&#39;autres gens, ne serait-ce que pour masquer leur pr&#233;sence. Quand ils peuvent, les inquisiteurs travaillent avec les autres membres de leur congr&#233;gation mais m&#234;me ces alli&#233;s ne sont pas au-dessus de leurs soup&#231;ons.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Alignement.&lt;/b&gt; L&#39;&lt;a class=&quot;pagelink&quot; href=&quot;Alignement.html&quot; title=&quot;L&amp;#39;alignement&quot;&gt;alignement&lt;/a&gt; de l&#39;inquisiteur ne doit pas s&#39;&#233;loigner de celui de sa divinit&#233; de plus d&#39;un cran, que ce soit sur l&#39;axe &lt;a class=&quot;pagelink&quot; href=&quot;Alignement.html#LOICHAOS&quot; title=&quot;L&amp;#39;alignement&quot;&gt;Loi/Chaos&lt;/a&gt; ou &lt;a class=&quot;pagelink&quot; href=&quot;Alignement.html#BIENMAL&quot; title=&quot;L&amp;#39;alignement&quot;&gt;Bien/Mal&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;D&#233;s de vie.&lt;/b&gt; d8.&lt;br /&gt;&lt;br /&gt;&lt;h2 class=&quot;separator&quot;&gt; Comp&#233;tences de classe &lt;a class=&quot;headeranchor&quot; id=&quot;Comp&#233;tences_de_classe_29&quot; href=&quot;#Comp&#233;tences_de_classe_29&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;
+Les comp&#233;tences de classe de l’inquisiteur sont &lt;a class=&quot;pagelink&quot; href=&quot;Art-De-La-Magie.html&quot; title=&quot;Art de la magie&quot;&gt;Art de la magie&lt;/a&gt; (Int), &lt;a class=&quot;pagelink&quot; href=&quot;Artisanat.html&quot; title=&quot;Artisanat&quot;&gt;Artisanat&lt;/a&gt; (Int), &lt;a class=&quot;pagelink&quot; href=&quot;Bluff.html&quot; title=&quot;Bluff&quot;&gt;Bluff&lt;/a&gt; (Cha),  &lt;a class=&quot;pagelink&quot; href=&quot;Connaissances.html&quot; title=&quot;Connaissances&quot;&gt;Connaissances&lt;/a&gt; (exploration souterraine) (Int), &lt;a class=&quot;pagelink&quot; href=&quot;Connaissances.html&quot; title=&quot;Connaissances&quot;&gt;Connaissances&lt;/a&gt; (myst&#232;res) (Int), &lt;a class=&quot;pagelink&quot; href=&quot;Connaissances.html&quot; title=&quot;Connaissances&quot;&gt;Connaissances&lt;/a&gt; (nature) (Int), &lt;a class=&quot;pagelink&quot; href=&quot;Connaissances.html&quot; title=&quot;Connaissances&quot;&gt;Connaissances&lt;/a&gt; (plans) (Int), &lt;a class=&quot;pagelink&quot; href=&quot;Connaissances.html&quot; title=&quot;Connaissances&quot;&gt;Connaissances&lt;/a&gt; (religion) (Int), &lt;a class=&quot;pagelink&quot; href=&quot;D&#233;guisement.html&quot; title=&quot;D&#233;guisement&quot;&gt;D&#233;guisement&lt;/a&gt; (Cha), &lt;a class=&quot;pagelink&quot; href=&quot;Diplomatie.html&quot; title=&quot;Diplomatie&quot;&gt;Diplomatie&lt;/a&gt; (Cha), &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; (Dex), &lt;a class=&quot;pagelink&quot; href=&quot;&#201;quitation.html&quot; title=&quot;&#201;quitation&quot;&gt;&#201;quitation&lt;/a&gt; (Dex), &lt;a class=&quot;pagelink&quot; href=&quot;Escalade.html&quot; title=&quot;Escalade&quot;&gt;Escalade&lt;/a&gt; (For), &lt;a class=&quot;pagelink&quot; href=&quot;Intimidation.html&quot; title=&quot;Intimidation&quot;&gt;Intimidation&lt;/a&gt; (Cha), &lt;a class=&quot;pagelink&quot; href=&quot;Natation.html&quot; title=&quot;Natation&quot;&gt;Natation&lt;/a&gt; (For), &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; (Sag), &lt;a class=&quot;pagelink&quot; href=&quot;Premiers-Secours.html&quot; title=&quot;Premiers secours&quot;&gt;Premiers secours&lt;/a&gt; (Sag), &lt;a class=&quot;pagelink&quot; href=&quot;Profession.html&quot; title=&quot;Profession&quot;&gt;Profession&lt;/a&gt; (Sag), &lt;a class=&quot;pagelink&quot; href=&quot;Psychologie.html&quot; title=&quot;Psychologie&quot;&gt;Psychologie&lt;/a&gt; (Sag), &lt;a class=&quot;pagelink&quot; href=&quot;Survie.html&quot; title=&quot;Survie&quot;&gt;Survie&lt;/a&gt; (Sag).&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Rangs de comp&#233;tence par niveau.&lt;/b&gt; 6 + modificateur d’&lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#INTELLIGENCE&quot; title=&quot;L&amp;#39;Intelligence&quot;&gt;Intelligence&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;
+&lt;h2 class=&quot;separator&quot;&gt;Descriptif de la classe&lt;a class=&quot;headeranchor&quot; id=&quot;Descriptif_de_la_classe_30&quot; href=&quot;#Descriptif_de_la_classe_30&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;
+Les aptitudes de l&#39;inquisiteur sont d&#233;crites ci-dessous.&lt;br /&gt;&lt;br /&gt;&lt;h3 class=&quot;separator&quot;&gt;Armes et armures&lt;a class=&quot;headeranchor&quot; id=&quot;Armes_et_armures_0&quot; href=&quot;#Armes_et_armures_0&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;
+L&#39;inquisiteur est form&#233; au maniement de toutes les &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques-Des-Armes.html#ARMECOURANTE&quot; title=&quot;armes courantes&quot;&gt;armes courantes&lt;/a&gt;, ainsi qu&#39;&#224; celui des arbal&#232;tes &#224; r&#233;p&#233;tition, des arbal&#232;tes de poing, des arcs courts, des arcs longs et de l&#39;arme de pr&#233;dilection de son dieu. Il est &#233;galement form&#233; au port des &lt;a class=&quot;pagelink&quot; href=&quot;Tableau-R&#233;capitulatif-Des-Armures.html#LEGERES&quot; title=&quot;armure l&#233;g&#232;re&quot;&gt;armures l&#233;g&#232;res&lt;/a&gt; et &lt;a class=&quot;pagelink&quot; href=&quot;Tableau-R&#233;capitulatif-Des-Armures.html#INTERMEDIAIRES&quot; title=&quot;armure interm&#233;diaire&quot;&gt;interm&#233;diaires&lt;/a&gt;, et &#224; l&#39;utilisation des boucliers (&#224; l&#39;exception des pavois).&lt;br /&gt;&lt;br /&gt;&lt;h3 class=&quot;separator&quot;&gt;Sorts&lt;a class=&quot;headeranchor&quot; id=&quot;Sorts_1&quot; href=&quot;#Sorts_1&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;
+L&#39;inquisiteur lance des sorts divins tir&#233;s de la &lt;a class=&quot;pagelink&quot; href=&quot;Liste-Des-Sorts-Dinquisiteur.html&quot; title=&quot;Liste des sorts d&amp;#39;inquisiteur&quot;&gt;liste de sorts de l&#39;inquisiteur&lt;/a&gt;. Il peut lancer n&#39;importe quel sort de sa connaissance quand il le d&#233;sire, sans avoir besoin de le pr&#233;parer &#224; l&#39;avance, en admettant qu&#39;il lui reste des sorts utilisables dans la journ&#233;e.&lt;br /&gt;&lt;br /&gt;Pour apprendre ou lancer un sort, l&#39;inquisiteur doit avoir une valeur de &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#SAGESSE&quot; title=&quot;La Sagesse&quot;&gt;Sagesse&lt;/a&gt; au moins &#233;gale &#224; 10 + niveau du sort. Le &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DEGREDEDIFFICULTE&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; du &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;jet de sauvegarde&quot;&gt;jet de sauvegarde&lt;/a&gt; contre les sorts de l&#39;inquisiteur est de 10 + niveau du sort + modificateur de Sagesse de l&#39;inquisiteur.&lt;br /&gt;&lt;br /&gt;Un inquisiteur ne peut lancer qu&#39;un certain nombre de sorts par jour. Son nombre de sorts quotidien est donn&#233; dans la table &quot;&lt;a class=&quot;pagelink&quot; href=&quot;Inquisiteur.html#TABLEINQUISITEUR&quot; title=&quot;L&amp;#39;inquisiteur&quot;&gt;L&#39;Inquisiteur&lt;/a&gt;&quot;. De plus, il re&#231;oit des sorts suppl&#233;mentaires quotidiens s&#39;il a une grande valeur de &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#SAGESSE&quot; title=&quot;La Sagesse&quot;&gt;Sagesse&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;La s&#233;lection de sorts de l&#39;inquisiteur est extr&#234;mement limit&#233;e. L&#39;inquisiteur commence le jeu avec quatre sorts de niveau 0 et deux sorts de niveau 1, de son choix. A chaque nouveau niveau, il gagne un ou plusieurs sorts, comme indiqu&#233; sur la table &lt;a class=&quot;pagelink&quot; href=&quot;Inquisiteur.html#SORTSCONNUSDELINQUISITEUR&quot; title=&quot;L&amp;#39;inquisiteur&quot;&gt;Sorts connus par l&#39;inquisiteur&lt;/a&gt; (contrairement aux sorts quotidiens, le nombre de sorts connus de l&#39;inquisiteur ne d&#233;pend pas de sa &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#SAGESSE&quot; title=&quot;La Sagesse&quot;&gt;Sagesse&lt;/a&gt;. Les donn&#233;es de cette table sont fixes).&lt;br /&gt;&lt;br /&gt;Au niveau 5 et par la suite tous les trois niveaux (8, 11, etc.), l&#39;inquisiteur peut apprendre un nouveau sort &#224; la place d&#39;un qu&#39;il conna&#238;t d&#233;j&#224;. L&#39;inquisiteur &quot;perd&quot; l&#39;ancien sort au profit du nouveau. Le nouveau sort doit &#234;tre du m&#234;me niveau que celui contre lequel il l&#39;&#233;change et au moins d&#39;un niveau de moins que le sort de plus haut niveau connu de l&#39;inquisiteur. A chaque niveau possible, l&#39;inquisiteur ne peut &#233;changer qu&#39;un seul sort et doit choisir de le faire ou non au moment o&#249; il apprend ses nouveaux sorts de niveau.&lt;br /&gt;&lt;br /&gt;&lt;a name=&quot;DOMAINE&quot;&gt;&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;h3 class=&quot;separator&quot;&gt;Domaine et inquisition&lt;a class=&quot;headeranchor&quot; id=&quot;Domaine_et_inquisition_2&quot; href=&quot;#Domaine_et_inquisition_2&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;
+La divinit&#233; de l&#39;inquisiteur influe, comme celle des pr&#234;tres, sur son alignement, sa magie et ses valeurs. L&#39;inquisiteur n&#39;est pas aussi attach&#233; aux pr&#233;ceptes de sa religion qu&#39;un pr&#234;tre, mais il doit les tenir en haute estime, m&#234;me s&#39;ils les enfreint lorsque cela peut servir les int&#233;r&#234;ts de ses croyances. L&#39;inquisiteur choisit un &lt;a class=&quot;pagelink&quot; href=&quot;Domaines.html&quot; title=&quot;Les domaines de pr&#234;tres&quot;&gt;domaine&lt;/a&gt; parmi ceux de son dieu mais il ne peut pas choisir un domaine d&#39;&lt;a class=&quot;pagelink&quot; href=&quot;Alignement.html&quot; title=&quot;L&amp;#39;alignement&quot;&gt;alignement&lt;/a&gt; qui ne corresponde pas au sien. Avec l&#39;accord du MJ, l&#39;inquisiteur peut se consacrer &#224; un id&#233;al au lieu d&#39;une divinit&#233; et choisir un &lt;a class=&quot;pagelink&quot; href=&quot;Domaines.html&quot; title=&quot;Les domaines de pr&#234;tres&quot;&gt;domaine&lt;/a&gt; ou une &lt;a class=&quot;pagelink&quot; href=&quot;Inquisitions.html&quot; title=&quot;Inquisitions&quot;&gt;inquisition&lt;/a&gt; qui repr&#233;sente ses inclinaisons et ses aptitudes personnelles. Les restrictions sur les &lt;a class=&quot;pagelink&quot; href=&quot;Domaines.html&quot; title=&quot;Les domaines de pr&#234;tres&quot;&gt;domaines&lt;/a&gt; d&#39;&lt;a class=&quot;pagelink&quot; href=&quot;Alignement.html&quot; title=&quot;L&amp;#39;alignement&quot;&gt;alignement&lt;/a&gt; s&#39;appliquent toujours.&lt;br /&gt;&lt;br /&gt;Chaque domaine accorde un certain nombre de pouvoirs de &lt;a class=&quot;pagelink&quot; href=&quot;Domaines.html&quot; title=&quot;Les domaines de pr&#234;tres&quot;&gt;domaine&lt;/a&gt; qui d&#233;pendent du niveau de l&#39;inquisiteur. Ce dernier ne gagne aucun sort suppl&#233;mentaire li&#233; au &lt;a class=&quot;pagelink&quot; href=&quot;Domaines.html&quot; title=&quot;Les domaines de pr&#234;tres&quot;&gt;domaine&lt;/a&gt; ni aucun emplacement de sort suppl&#233;mentaire. Il utilise son niveau comme niveau de &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#234;tre.html&quot; title=&quot;Le pr&#234;tre&quot;&gt;pr&#234;tre&lt;/a&gt; quand il d&#233;termine les pouvoirs et les effets de ses pouvoirs de &lt;a class=&quot;pagelink&quot; href=&quot;Domaines.html&quot; title=&quot;Les domaines de pr&#234;tres&quot;&gt;domaine&lt;/a&gt;. Si l&#39;inquisiteur a des niveaux de &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#234;tre.html&quot; title=&quot;Le pr&#234;tre&quot;&gt;pr&#234;tres&lt;/a&gt;, l&#39;un de ses deux &lt;a class=&quot;pagelink&quot; href=&quot;Domaines.html&quot; title=&quot;Les domaines de pr&#234;tres&quot;&gt;domaines&lt;/a&gt; doit &#234;tre le m&#234;me que son domaine d&#39;inquisiteur. Les niveaux de pr&#234;tre et d&#39;inquisiteur se cumulent quand il s&#39;agit de d&#233;terminer les pouvoirs et aptitudes de &lt;a class=&quot;pagelink&quot; href=&quot;Domaines.html&quot; title=&quot;Les domaines de pr&#234;tres&quot;&gt;domaine&lt;/a&gt; mais pas pour les sorts suppl&#233;mentaires.&lt;br /&gt;&lt;br /&gt;Cependant, comme l’inquisiteur dispose des pouvoirs li&#233;s &#224; un domaine mais pas de sorts associ&#233;s, certains &lt;a class=&quot;pagelink&quot; href=&quot;Domaines.html&quot; title=&quot;Les domaines de pr&#234;tres&quot;&gt;domaines&lt;/a&gt; de pr&#234;tre constituent un mauvais choix car ils se basent sur des pouvoirs de pr&#234;tre que l’inquisiteur n’a pas. &lt;i&gt;Par exemple, le pouvoir de niveau 1 du &lt;a class=&quot;pagelink&quot; href=&quot;Domaine-Du-Soleil.html&quot; title=&quot;Domaine du Soleil&quot;&gt;domaine du Soleil&lt;/a&gt; augmente les effets de la canalisation mais les inquisiteurs n’y ont pas acc&#232;s et ne b&#233;n&#233;ficient donc d’aucun avantage li&#233; au choix du domaine avant le niveau 8 o&#249; ils obtiennent un second pouvoir.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;C’est pour rem&#233;dier &#224; ce probl&#232;me que les inquisiteurs peuvent choisir de b&#233;n&#233;ficier d&#39;une &lt;a class=&quot;pagelink&quot; href=&quot;Inquisitions.html&quot; title=&quot;Inquisitions&quot;&gt;inquisition&lt;/a&gt;. &lt;br /&gt;&lt;br /&gt;M&#234;me si les inquisiteurs adoptent souvent des domaines ouverts aux pr&#234;tres de leur religion, ils ont acc&#232;s &#224; des connaissances sp&#233;ciales ignor&#233;es des pr&#234;tres et des autres agents de leur religion. Ces objectifs divins, que l’on appelle des inquisitions, fournissent aux inquisiteurs les outils indispensables &#224; la lutte contre les ennemis de la foi. &lt;br /&gt;&lt;br /&gt;L’inquisiteur peut choisir une &lt;a class=&quot;pagelink&quot; href=&quot;Inquisitions.html&quot; title=&quot;Inquisitions&quot;&gt;inquisition&lt;/a&gt; au lieu d’un domaine.&lt;br /&gt;&lt;br /&gt;Si un pouvoir d’inquisition autorise un &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;jet de sauvegarde&quot;&gt;jet de sauvegarde&lt;/a&gt;, le &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DEGREDEDIFFICULTE&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; est &#233;gal &#224; 10 + 1/2 niveau de l’inquisiteur + modificateur de &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#SAGESSE&quot; title=&quot;La Sagesse&quot;&gt;Sagesse&lt;/a&gt;. Sauf indication contraire, le &lt;a class=&quot;pagelink&quot; href=&quot;Lancer-Des-Sorts.html#NLS&quot; title=&quot;NLS&quot;&gt;niveau de lanceur de sorts&lt;/a&gt; des pouvoirs magiques est &#233;gal &#224; son niveau d’inquisiteur.&lt;br /&gt;&lt;br /&gt;&lt;a name=&quot;JUGEMENT&quot;&gt;&lt;/a&gt;
+&lt;h3 class=&quot;separator&quot;&gt;Jugement (Sur)&lt;a class=&quot;headeranchor&quot; id=&quot;Jugement_Sur_3&quot; href=&quot;#Jugement_Sur_3&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;
+A partir du niveau 1, l&#39;inquisiteur peut juger ses ennemis par une &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions.html#RAPIDE&quot; title=&quot;Action rapide&quot;&gt;action rapide&lt;/a&gt;. A partir du moment o&#249; il prononce ce &lt;a class=&quot;pagelink&quot; href=&quot;Jugements.html&quot; title=&quot;Les jugements d&amp;#39;inquisiteur&quot;&gt;jugement&lt;/a&gt;, l&#39;inquisiteur re&#231;oit un bonus ou un pouvoir sp&#233;cial bas&#233; sur le type de &lt;a class=&quot;pagelink&quot; href=&quot;Jugements.html&quot; title=&quot;Les jugements d&amp;#39;inquisiteur&quot;&gt;jugement&lt;/a&gt; effectu&#233;.&lt;br /&gt;&lt;br /&gt;Au niveau 1, l&#39;inquisiteur peut utiliser ce pouvoir une fois par jour. Au niveau 4 et, par la suite, tous les trois niveaux, il peut le faire une fois de plus par jour. Une fois activ&#233;, ce pouvoir se prolonge jusqu&#39;&#224; la fin du combat, il prend alors imm&#233;diatement fin. Pour obtenir le bonus, l&#39;inquisiteur doit participer au combat. S&#39;il est &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables.html#effray&#233;&quot; title=&quot;&#201;tats pr&#233;judiciables&quot;&gt;effray&#233;&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables.html#paniqu&#233;&quot; title=&quot;&#201;tats pr&#233;judiciables&quot;&gt;paniqu&#233;&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables.html#paralys&#233;&quot; title=&quot;&#201;tats pr&#233;judiciables&quot;&gt;paralys&#233;&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables.html#&#233;tourdi&quot; title=&quot;&#201;tats pr&#233;judiciables&quot;&gt;&#233;tourdi&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables.html#inconscient&quot; title=&quot;&#201;tats pr&#233;judiciables&quot;&gt;inconscient&lt;/a&gt; ou s&#39;il ne peut pas combattre, le pouvoir ne se termine pas, mais les bonus disparaissent jusqu&#39;&#224; ce qu&#39;il puisse se battre &#224; nouveau.&lt;br /&gt;&lt;br /&gt;Quand l&#39;inquisiteur se sert de ce pouvoir, il doit choisir un type de &lt;a class=&quot;pagelink&quot; href=&quot;Jugements.html&quot; title=&quot;Les jugements d&amp;#39;inquisiteur&quot;&gt;jugement&lt;/a&gt;. Il peut changer de type par une &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions.html#RAPIDE&quot; title=&quot;Action rapide&quot;&gt;action rapide&lt;/a&gt;. Si l&#39;inquisiteur est d&#39;&lt;a class=&quot;pagelink&quot; href=&quot;Alignement.html&quot; title=&quot;L&amp;#39;alignement&quot;&gt;alignement&lt;/a&gt; Mauvais, il re&#231;oit des bonus de malfaisance au lieu de bonus sacr&#233;s. Les inquisiteurs Neutres doivent choisir s&#39;ils veulent des bonus sacr&#233;s ou de malfaisance et ne peuvent plus en changer par la suite.&lt;br /&gt;&lt;br /&gt;&lt;a name=&quot;CONNAISSANCEDESMONSTRES&quot;&gt;&lt;/a&gt;
+&lt;h3 class=&quot;separator&quot;&gt;Connaissance des monstres (Ext)&lt;a class=&quot;headeranchor&quot; id=&quot;Connaissance_des_monstres_Ext_4&quot; href=&quot;#Connaissance_des_monstres_Ext_4&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;
+L&#39;inquisiteur ajoute son modificateur de &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#SAGESSE&quot; title=&quot;La Sagesse&quot;&gt;Sagesse&lt;/a&gt; aux tests de &lt;a class=&quot;pagelink&quot; href=&quot;Tableau-R&#233;capitulatif-Des-Comp&#233;tences.html&quot; title=&quot;Tableau r&#233;capitulatif des comp&#233;tences&quot;&gt;comp&#233;tence&lt;/a&gt; en plus de son modificateur d&#39;&lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#INTELLIGENCE&quot; title=&quot;L&amp;#39;Intelligence&quot;&gt;Intelligence&lt;/a&gt; quand il fait un test pour &lt;a class=&quot;pagelink&quot; href=&quot;Connaissances.html&quot; title=&quot;Connaissances&quot;&gt;identifier les aptitudes et faiblesses d&#39;une cr&#233;ature&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;&lt;a name=&quot;ORAISONS&quot;&gt;&lt;/a&gt;
+&lt;h3 class=&quot;separator&quot;&gt;Oraisons&lt;a class=&quot;headeranchor&quot; id=&quot;Oraisons_5&quot; href=&quot;#Oraisons_5&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;
+L&#39;inquisiteur conna&#238;t un certain nombre d&#39;oraisons, ou sorts de niveau 0, comme indiqu&#233; dans la table &lt;a class=&quot;pagelink&quot; href=&quot;Inquisiteur.html#SORTSCONNUSDELINQUISITEUR&quot; title=&quot;L&amp;#39;inquisiteur&quot;&gt;Sorts connus par l&#39;inquisiteur&lt;/a&gt;. Elles se lancent comme les autres mais ne sont pas d&#233;pens&#233;es au lancer et sont donc r&#233;utilisables. Les oraisons qui utilisent d&#39;autres emplacements de sorts, &#224; cause d&#39;un don de m&#233;tamagie par exemple, sont d&#233;pens&#233;es de fa&#231;on normale.&lt;br /&gt;&lt;br /&gt;&lt;a name=&quot;REGARDSEVERE&quot;&gt;&lt;/a&gt;
+&lt;h3 class=&quot;separator&quot;&gt;Regard s&#233;v&#232;re (Ext)&lt;a class=&quot;headeranchor&quot; id=&quot;Regard_s&#233;v&#232;re_Ext_6&quot; href=&quot;#Regard_s&#233;v&#232;re_Ext_6&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;
+Les inquisiteurs sont dou&#233;s pour d&#233;celer les mensonges et intimider leurs ennemis. Un inquisiteur re&#231;oit un bonus de moral &#233;gal &#224; la moiti&#233; de son niveau d&#39;inquisiteur (minimum +1) aux tests d&#39;&lt;a class=&quot;pagelink&quot; href=&quot;Intimidation.html&quot; title=&quot;Intimidation&quot;&gt;Intimidation&lt;/a&gt; et de &lt;a class=&quot;pagelink&quot; href=&quot;Psychologie.html&quot; title=&quot;Psychologie&quot;&gt;Psychologie&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;&lt;a name=&quot;INITIATIVERUSEE&quot;&gt;&lt;/a&gt;
+&lt;h3 class=&quot;separator&quot;&gt;Initiative rus&#233;e (Ext)&lt;a class=&quot;headeranchor&quot; id=&quot;Initiative_rus&#233;e_Ext_7&quot; href=&quot;#Initiative_rus&#233;e_Ext_7&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;
+Au niveau 2, l&#39;inquisiteur ajoute son modificateur de &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#SAGESSE&quot; title=&quot;La Sagesse&quot;&gt;Sagesse&lt;/a&gt; &#224; ses tests d&#39;&lt;a class=&quot;pagelink&quot; href=&quot;D&#233;roulement-Dun-Combat.html#INITIATIVE&quot; title=&quot;initiative&quot;&gt;initiative&lt;/a&gt;, en plus de modificateur de &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#DEXTERITE&quot; title=&quot;La Dext&#233;rit&#233;&quot;&gt;Dext&#233;rit&#233;&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;&lt;a name=&quot;DETECTIONDALIGNEMENT&quot;&gt;&lt;/a&gt;
+&lt;h3 class=&quot;separator&quot;&gt;D&#233;tection d’alignement (Mag)&lt;a class=&quot;headeranchor&quot; id=&quot;D&#233;tection_d’alignement_Mag_8&quot; href=&quot;#D&#233;tection_d’alignement_Mag_8&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;
+L&#39;inquisiteur peut, &#224; volont&#233;, utiliser &lt;a class=&quot;pagelink&quot; href=&quot;D&#233;tection-Du-Chaos.html&quot; title=&quot;D&#233;tection du Chaos&quot;&gt;d&#233;tection du chaos&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;D&#233;tection-Du-Mal.html&quot; title=&quot;D&#233;tection du Mal&quot;&gt;d&#233;tection du mal&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;D&#233;tection-Du-Bien.html&quot; title=&quot;D&#233;tection du Bien&quot;&gt;d&#233;tection du bien&lt;/a&gt; ou &lt;a class=&quot;pagelink&quot; href=&quot;D&#233;tection-De-La-Loi.html&quot; title=&quot;D&#233;tection de la Loi&quot;&gt;d&#233;tection de la loi&lt;/a&gt;. Il ne peut en utiliser qu&#39;une &#224; la fois.&lt;br /&gt;&lt;br /&gt;&lt;a name=&quot;PISTAGE&quot;&gt;&lt;/a&gt;
+&lt;h3 class=&quot;separator&quot;&gt;Pistage (Ext)&lt;a class=&quot;headeranchor&quot; id=&quot;Pistage_Ext_9&quot; href=&quot;#Pistage_Ext_9&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;
+Au niveau 2, l&#39;inquisiteur ajoute la moiti&#233; de son niveau aux tests de &lt;a class=&quot;pagelink&quot; href=&quot;Survie.html&quot; title=&quot;Survie&quot;&gt;Survie&lt;/a&gt; quand il suit une piste ou identifie des traces.&lt;br /&gt;&lt;br /&gt;&lt;a name=&quot;TACTIQUESOLITAIRE&quot;&gt;&lt;/a&gt;
+&lt;h3 class=&quot;separator&quot;&gt;Tactique solitaire (Ext)&lt;a class=&quot;headeranchor&quot; id=&quot;Tactique_solitaire_Ext_10&quot; href=&quot;#Tactique_solitaire_Ext_10&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;
+Au niveau 3, tous les alli&#233;s de l&#39;inquisiteur sont consid&#233;r&#233;s comme poss&#233;dant le m&#234;me don de travail en &#233;quipe que lui quand il s&#39;agit de d&#233;terminer s&#39;il re&#231;oit un bonus gr&#226;ce &#224; ses dons de travail en &#233;quipe. Les alli&#233;s ne re&#231;oivent pas le moindre bonus associ&#233; &#224; ces dons, &#224; moins qu&#39;ils ne les poss&#232;dent eux-m&#234;mes. Le placement et les actions des alli&#233;s doivent tout de m&#234;me remplir les conditions requises par le don pour que l&#39;inquisiteur puisse en profiter.&lt;br /&gt;&lt;br /&gt;&lt;a name=&quot;DONDETRAVAILENEQUIPE&quot;&gt;&lt;/a&gt;
+&lt;h3 class=&quot;separator&quot;&gt;Don de travail en &#233;quipe&lt;a class=&quot;headeranchor&quot; id=&quot;Don_de_travail_en_&#233;quipe_11&quot; href=&quot;#Don_de_travail_en_&#233;quipe_11&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;
+Au niveau 3, et par la suite tous les trois niveaux, l&#39;inquisiteur gagne un don suppl&#233;mentaire en plus de ceux li&#233;s &#224; son &#233;volution normale. Il doit les choisir dans la &lt;a class=&quot;pagelink&quot; href=&quot;Dons-D&#233;quipe.html&quot; title=&quot;dons d&amp;#39;&#233;quipe&quot;&gt;liste des dons de travail en &#233;quipe&lt;/a&gt; et remplir les conditions requises.&lt;br /&gt;&lt;br /&gt;Par une action simple, l&#39;inquisiteur peut choisir un nouveau don de travail en &#233;quipe &#224; la place du dernier qu&#39;il a appris. Il perd donc l&#39;ancien don suppl&#233;mentaire au profit du nouveau. Il ne peut changer que le don qu&#39;il a appris le plus r&#233;cemment. Quand il apprend un nouveau don, le pr&#233;c&#233;dent est fix&#233; et il ne peut plus en changer. Chaque jour, l&#39;inquisiteur peut changer son dernier don de travail en &#233;quipe un nombre de fois &#233;gal &#224; son modificateur de Sagesse.&lt;br /&gt;&lt;br /&gt;&lt;a name=&quot;TUEUR&quot;&gt;&lt;/a&gt;
+&lt;h3 class=&quot;separator&quot;&gt;Tueur (Sur)&lt;a class=&quot;headeranchor&quot; id=&quot;Tueur_Sur_12&quot; href=&quot;#Tueur_Sur_12&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;
+Au niveau 5, l&#39;inquisiteur peut appliquer la propri&#233;t&#233; &lt;a class=&quot;pagelink&quot; href=&quot;Armes-Magiques.html#tueuse&quot; title=&quot;Les armes magiques&quot;&gt;tueuse&lt;/a&gt; &#224; son arme par une &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions.html#RAPIDE&quot; title=&quot;Action rapide&quot;&gt;action rapide&lt;/a&gt;. Il choisit le &lt;a class=&quot;pagelink&quot; href=&quot;Types-De-Cr&#233;atures.html&quot; title=&quot;Les types de cr&#233;atures&quot;&gt;type de cr&#233;ature&lt;/a&gt; vis&#233; quand il utilise le pouvoir (et le &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Types-De-Cr&#233;atures.html&quot; title=&quot;Les sous-types de cr&#233;atures&quot;&gt;sous-type&lt;/a&gt; si le type est humano&#239;de ou ext&#233;rieur). Une fois le type choisi, il peut en changer par une &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions.html#RAPIDE&quot; title=&quot;Action rapide&quot;&gt;action rapide&lt;/a&gt;. Ce pouvoir fonctionne tant que l&#39;inquisiteur tient son arme. S&#39;il la l&#226;che ou se la fait prendre, elle ne reprend cette propri&#233;t&#233; qu&#39;une fois de retour dans les mains de l&#39;inquisiteur, si sa dur&#233;e n&#39;a pas expir&#233;e. Chaque jour, ce pouvoir dure un nombre de rounds &#233;gal au niveau de l&#39;inquisiteur. Ces rounds ne sont pas forc&#233;ment cons&#233;cutifs.&lt;br /&gt;&lt;br /&gt;&lt;a name=&quot;DETECTIONDESMENSONGES&quot;&gt;&lt;/a&gt;
+&lt;h3 class=&quot;separator&quot;&gt;D&#233;tection des mensonges (Mag)&lt;a class=&quot;headeranchor&quot; id=&quot;D&#233;tection_des_mensonges_Mag_13&quot; href=&quot;#D&#233;tection_des_mensonges_Mag_13&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;
+Au niveau 5, l&#39;inquisiteur peut chaque jour &lt;a class=&quot;pagelink&quot; href=&quot;D&#233;tection-Du-Mensonge.html&quot; title=&quot;D&#233;tection du mensonge&quot;&gt;d&#233;tecter les mensonges&lt;/a&gt; pendant un nombre de rounds &#233;gal &#224; son niveau de classe. Ces rounds ne sont pas forc&#233;ment cons&#233;cutifs. Ce pouvoir s&#39;active par une &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions.html#IMMEDIATE&quot; title=&quot;Action imm&#233;diate&quot;&gt;action imm&#233;diate&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;&lt;a name=&quot;SECONDJUGEMENT&quot;&gt;&lt;/a&gt;
+&lt;h3 class=&quot;separator&quot;&gt;Second jugement (Ext)&lt;a class=&quot;headeranchor&quot; id=&quot;Second_jugement_Ext_14&quot; href=&quot;#Second_jugement_Ext_14&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;
+Au niveau 8, quand un inquisiteur utilise son &lt;a class=&quot;pagelink&quot; href=&quot;Jugements.html&quot; title=&quot;Les jugements d&amp;#39;inquisiteur&quot;&gt;jugement&lt;/a&gt;, il en applique deux au lieu d&#39;un seul. Ceci ne consomme qu&#39;une utilisation du &lt;a class=&quot;pagelink&quot; href=&quot;Jugements.html&quot; title=&quot;Les jugements d&amp;#39;inquisiteur&quot;&gt;jugement&lt;/a&gt;. Il peut changer un type de &lt;a class=&quot;pagelink&quot; href=&quot;Jugements.html&quot; title=&quot;Les jugements d&amp;#39;inquisiteur&quot;&gt;jugement&lt;/a&gt; par une action rapide.&lt;br /&gt;&lt;br /&gt;&lt;a name=&quot;VAILLANT&quot;&gt;&lt;/a&gt;
+&lt;h3 class=&quot;separator&quot;&gt;Vaillant (Ext)&lt;a class=&quot;headeranchor&quot; id=&quot;Vaillant_Ext_15&quot; href=&quot;#Vaillant_Ext_15&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;
+Au niveau 11, l&#39;inquisiteur peut utiliser sa r&#233;silience physique et mentale pour &#233;viter certaines attaques. S&#39;il r&#233;ussit un jet de &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;Valeurs de combat&quot;&gt;Vigueur&lt;/a&gt; ou de &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;Valeurs de combat&quot;&gt;Volont&#233;&lt;/a&gt; contre une attaque dont les effets sont r&#233;duits en cas de &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;jet de sauvegarde&quot;&gt;jet de sauvegarde&lt;/a&gt; r&#233;ussi, il l&#39;&#233;vite enti&#232;rement. Il peut utiliser ce pouvoir quand il ne porte pas d&#39;armure ou une &lt;a class=&quot;pagelink&quot; href=&quot;Tableau-R&#233;capitulatif-Des-Armures.html#LEGERES&quot; title=&quot;armure l&#233;g&#232;re&quot;&gt;armure l&#233;g&#232;re&lt;/a&gt; ou &lt;a class=&quot;pagelink&quot; href=&quot;Tableau-R&#233;capitulatif-Des-Armures.html#INTERMEDIAIRES&quot; title=&quot;armure interm&#233;diaire&quot;&gt;interm&#233;diaire&lt;/a&gt;. Un inquisiteur &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables.html#sans d&#233;fense&quot; title=&quot;&#201;tats pr&#233;judiciables&quot;&gt;sans_d&#233;fense&lt;/a&gt; ne b&#233;n&#233;ficie pas des effets de ce pouvoir.&lt;br /&gt;&lt;br /&gt;&lt;a name=&quot;TUEURSUPERIEUR&quot;&gt;&lt;/a&gt;
+&lt;h3 class=&quot;separator&quot;&gt;Tueur sup&#233;rieur (Sur)&lt;a class=&quot;headeranchor&quot; id=&quot;Tueur_sup&#233;rieur_Sur_16&quot; href=&quot;#Tueur_sup&#233;rieur_Sur_16&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;
+Au niveau 12, quand l&#39;inquisiteur utilise le pouvoir &lt;a class=&quot;pagelink&quot; href=&quot;Inquisiteur.html#TUEUR&quot; title=&quot;L&amp;#39;inquisiteur&quot;&gt;tueur&lt;/a&gt;, le montant de d&#233;g&#226;ts que l&#39;arme inflige &#224; la cr&#233;ature du type choisi passe &#224; 4d6.&lt;br /&gt;&lt;br /&gt;&lt;a name=&quot;EXPLOITERLESFAIBLESSES&quot;&gt;&lt;/a&gt;
+&lt;h3 class=&quot;separator&quot;&gt;Exploiter les faiblesses (Ext)&lt;a class=&quot;headeranchor&quot; id=&quot;Exploiter_les_faiblesses_Ext_17&quot; href=&quot;#Exploiter_les_faiblesses_Ext_17&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;
+Au niveau 14, l&#39;inquisiteur apprend &#224; tirer parti de toutes les opportunit&#233;s qui se pr&#233;sentent. Quand il r&#233;ussit un &lt;a class=&quot;pagelink&quot; href=&quot;Actions-Simples.html#COUPCRITIQUE&quot; title=&quot;coup critique&quot;&gt;coup critique&lt;/a&gt;, il ignore toute &lt;a class=&quot;pagelink&quot; href=&quot;R&#233;duction-De-D&#233;g&#226;ts-(Capacit&#233;).html&quot; title=&quot;r&#233;duction de d&#233;g&#226;ts&quot;&gt;r&#233;duction de d&#233;g&#226;ts&lt;/a&gt; &#233;ventuelle de sa cible. De plus, si elle peut se &lt;a class=&quot;pagelink&quot; href=&quot;R&#233;g&#233;n&#233;ration-(Capacit&#233;).html&quot; title=&quot;R&#233;g&#233;n&#233;ration (Ext)&quot;&gt;r&#233;g&#233;n&#233;rer&lt;/a&gt;, elle perd ce pouvoir pendant le round qui suit le critique et risque de mourir normalement. Les cr&#233;atures dont le pouvoir de &lt;a class=&quot;pagelink&quot; href=&quot;R&#233;g&#233;n&#233;ration-(Capacit&#233;).html&quot; title=&quot;R&#233;g&#233;n&#233;ration (Ext)&quot;&gt;r&#233;g&#233;n&#233;ration&lt;/a&gt; fonctionne en permanence sont immunis&#233;es contre ce pouvoir. Enfin, si l&#39;inquisiteur inflige des d&#233;g&#226;ts d&#39;&#233;nergie &#224; une cr&#233;ature vuln&#233;rable &#224; ce type d&#39;&#233;nergie, il lui inflige +1 point de d&#233;g&#226;ts par d&#233; lanc&#233;.&lt;br /&gt;&lt;br /&gt;&lt;a name=&quot;TROISIEMEJUGEMENT&quot;&gt;&lt;/a&gt;
+&lt;h3 class=&quot;separator&quot;&gt;Troisi&#232;me jugement (Ext)&lt;a class=&quot;headeranchor&quot; id=&quot;Troisi&#232;me_jugement_Ext_18&quot; href=&quot;#Troisi&#232;me_jugement_Ext_18&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;
+Au niveau 16 quand un inquisiteur utilise son &lt;a class=&quot;pagelink&quot; href=&quot;Jugements.html&quot; title=&quot;Les jugements d&amp;#39;inquisiteur&quot;&gt;jugement&lt;/a&gt;, il en applique trois au lieu de deux. Ceci ne consomme qu&#39;une utilisation du &lt;a class=&quot;pagelink&quot; href=&quot;Jugements.html&quot; title=&quot;Les jugements d&amp;#39;inquisiteur&quot;&gt;jugement&lt;/a&gt;. Il peut changer un type de &lt;a class=&quot;pagelink&quot; href=&quot;Jugements.html&quot; title=&quot;Les jugements d&amp;#39;inquisiteur&quot;&gt;jugement&lt;/a&gt; par une &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions.html#RAPIDE&quot; title=&quot;Action rapide&quot;&gt;action rapide&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;&lt;a name=&quot;EXTERMINER&quot;&gt;&lt;/a&gt;
+&lt;h3 class=&quot;separator&quot;&gt;Exterminer (Ext)&lt;a class=&quot;headeranchor&quot; id=&quot;Exterminer_Ext_19&quot; href=&quot;#Exterminer_Ext_19&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;
+Au niveau 17, l’inquisiteur apprend &#224; concentrer son &lt;a class=&quot;pagelink&quot; href=&quot;Jugements.html&quot; title=&quot;Les jugements d&amp;#39;inquisiteur&quot;&gt;jugement&lt;/a&gt;. Chaque fois qu’un inquisiteur utilise sa capacit&#233; de &lt;a class=&quot;pagelink&quot; href=&quot;Jugements.html&quot; title=&quot;Les jugements d&amp;#39;inquisiteur&quot;&gt;jugement&lt;/a&gt;, il doit choisir un type de &lt;a class=&quot;pagelink&quot; href=&quot;Jugements.html&quot; title=&quot;Les jugements d&amp;#39;inquisiteur&quot;&gt;jugement&lt;/a&gt;. Le bonus octroy&#233; par celui-ci est calcul&#233; comme si l’inquisiteur avait 5 niveaux de plus. Contrairement &#224; ce qui est possible pour les autres types de &lt;a class=&quot;pagelink&quot; href=&quot;Jugements.html&quot; title=&quot;Les jugements d&amp;#39;inquisiteur&quot;&gt;jugement&lt;/a&gt;, celui qui est am&#233;lior&#233; par cette capacit&#233; ne peut pas &#234;tre chang&#233; pendant toute son application.&lt;br /&gt;&lt;br /&gt;&lt;a name=&quot;VERITABLEJUGEMENT&quot;&gt;&lt;/a&gt;
+&lt;h3 class=&quot;separator&quot;&gt;V&#233;ritable jugement (Sur)&lt;a class=&quot;headeranchor&quot; id=&quot;V&#233;ritable_jugement_Sur_20&quot; href=&quot;#V&#233;ritable_jugement_Sur_20&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;
+Au niveau 20, un inquisiteur peut porter un v&#233;ritable jugement sur son ennemi en cours de combat. Quand l&#39;inquisiteur utilise son pouvoir de &lt;a class=&quot;pagelink&quot; href=&quot;Jugements.html&quot; title=&quot;Les jugements d&amp;#39;inquisiteur&quot;&gt;jugement&lt;/a&gt;, il peut lancer un v&#233;ritable jugement sur son adversaire par une &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions.html#RAPIDE&quot; title=&quot;Action rapide&quot;&gt;action rapide&lt;/a&gt;. Une fois qu&#39;il a annonc&#233; cela, il fait une unique attaque au corps &#224; corps contre cette cible (ou &#224; distance si elle se trouve &#224; moins de 9m). S&#39;il touche, il inflige des d&#233;g&#226;ts normaux et la cible doit faire un jet de &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;Vigueur&quot;&gt;Vigueur&lt;/a&gt; ou mourir. le &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DEGREDEDIFFICULTE&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; du &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;jet de sauvegarde&quot;&gt;jet de sauvegarde&lt;/a&gt; est &#233;gal &#224; 10 + 1/2 niveau d&#39;inquisiteur + modificateur de &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#SAGESSE&quot; title=&quot;La Sagesse&quot;&gt;Sagesse&lt;/a&gt; de l&#39;inquisiteur. Que la cible ait r&#233;ussi ou non son &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;jet de sauvegarde&quot;&gt;jet de sauvegarde&lt;/a&gt;, elle est immunis&#233;e contre le v&#233;ritable jugement de l&#39;inquisiteur pendant 24h. Une fois que cette capacit&#233; &#224; &#233;t&#233; utilis&#233;e, elle ne peut pas &#234;tre r&#233;utilis&#233;e avant 1d4 rounds.&lt;br /&gt;&lt;br /&gt;&lt;a name=&quot;SORTSALIGNES&quot;&gt;&lt;/a&gt;
+&lt;h3 class=&quot;separator&quot;&gt;Sorts du Bien, du Chaos, de la Loi et du Mal&lt;a class=&quot;headeranchor&quot; id=&quot;Sorts_du_Bien_du_Chaos_de_la_Loi_et_du_Mal_21&quot; href=&quot;#Sorts_du_Bien_du_Chaos_de_la_Loi_et_du_Mal_21&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;
+L&#39;inquisiteur ne peut pas lancer de sorts appartenant &#224; un &lt;a class=&quot;pagelink&quot; href=&quot;Alignement.html&quot; title=&quot;L&amp;#39;alignement&quot;&gt;alignement&lt;/a&gt; oppos&#233; &#224; celui de son dieu (s&#39;il en a un). Les sorts associ&#233;s &#224; un alignement particulier comportent la mention Chaotique, Mauvais, Bon ou Loyal dans leur description.&lt;br /&gt;&lt;br /&gt;&lt;h2 class=&quot;separator&quot;&gt;Ex-inquisiteurs&lt;a class=&quot;headeranchor&quot; id=&quot;Ex-inquisiteurs_31&quot; href=&quot;#Ex-inquisiteurs_31&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;
+Un inquisiteur qui se laisse corrompre ou qui adopte un alignement interdit perd tous ses sorts et ses pouvoirs de jugement. Il ne peut plus gagner de niveaux d&#39;inquisiteur tant qu&#39;il n&#39;a pas fait &lt;a class=&quot;pagelink&quot; href=&quot;P&#233;nitence.html&quot; title=&quot;P&#233;nitence&quot;&gt;p&#233;nitence&lt;/a&gt; (voir la description du sort du m&#234;me nom).&lt;br /&gt;&lt;br /&gt;&lt;b&gt;&lt;u&gt;Sorts des inquisiteurs&lt;/u&gt;&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;&lt;h3 class=&quot;separator&quot;&gt; Sorts d’inquisiteurs de niveau 0 &lt;a class=&quot;headeranchor&quot; id=&quot;Sorts_d’inquisiteurs_de_niveau_A_22&quot; href=&quot;#Sorts_d’inquisiteurs_de_niveau_A_22&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Aspersion-Acide.html&quot; title=&quot;Aspersion acide&quot;&gt;aspersion acide&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Assistance-Divine.html&quot; title=&quot;Assistance divine&quot;&gt;assistance divine&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;ation-Deau.html&quot; title=&quot;Cr&#233;ation d&amp;#39;eau&quot;&gt;cr&#233;ation d’eau&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Destruction-De-Mort-Vivant.html&quot; title=&quot;Destruction de mort-vivant&quot;&gt;destruction de mort-vivant&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;D&#233;tection-De-La-Magie.html&quot; title=&quot;D&#233;tection de la magie&quot;&gt;d&#233;tection de la magie&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;D&#233;tection-Du-Poison.html&quot; title=&quot;D&#233;tection du poison&quot;&gt;d&#233;tection du poison&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;H&#233;b&#233;tement.html&quot; title=&quot;H&#233;b&#233;tement&quot;&gt;h&#233;b&#233;tement&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Lecture-De-La-Magie.html&quot; title=&quot;Lecture de la magie&quot;&gt;lecture de la magie&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Lumi&#232;re.html&quot; title=&quot;Lumi&#232;re&quot;&gt;lumi&#232;re&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;R&#233;sistance-(Capacit&#233;).html&quot; title=&quot;r&#233;sistance&quot;&gt;r&#233;sistance&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables.html#Saignement&quot; title=&quot;Saignement&quot;&gt;saignement&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Stabilisation.html&quot; title=&quot;Stabilisation&quot;&gt;stabilisation&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Stimulant.html&quot; title=&quot;Stimulant&quot;&gt;stimulant&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;&lt;/ul&gt;&lt;br /&gt;&lt;h3 class=&quot;separator&quot;&gt; Sorts d’inquisiteurs de niveau 1 &lt;a class=&quot;headeranchor&quot; id=&quot;Sorts_d’inquisiteurs_de_niveau_B_23&quot; href=&quot;#Sorts_d’inquisiteurs_de_niveau_B_23&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Alarme.html&quot; title=&quot;Alarme&quot;&gt;alarme&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Anath&#232;me.html&quot; title=&quot;Anath&#232;me&quot;&gt;anath&#232;me&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Arme-Magique.html&quot; title=&quot;Arme magique&quot;&gt;arme magique&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;B&#233;n&#233;diction.html&quot; title=&quot;B&#233;n&#233;diction&quot;&gt;b&#233;n&#233;diction&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;B&#233;n&#233;diction-De-Leau.html&quot; title=&quot;B&#233;n&#233;diction de l&amp;#39;eau&quot;&gt;b&#233;n&#233;diction de l’eau&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Blessure-L&#233;g&#232;re.html&quot; title=&quot;Blessure l&#233;g&#232;re&quot;&gt;blessure l&#233;g&#232;re&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Bouclier-De-La-Foi.html&quot; title=&quot;Bouclier de la foi&quot;&gt;bouclier de la foi&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Compr&#233;hension-Des-Langages.html&quot; title=&quot;Compr&#233;hension des langages&quot;&gt;compr&#233;hension des langages&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Coup-Au-But.html&quot; title=&quot;Coup au but&quot;&gt;coup au but&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;D&#233;guisement.html&quot; title=&quot;D&#233;guisement&quot;&gt;d&#233;guisement&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;D&#233;tection-Des-Morts-Vivants.html&quot; title=&quot;D&#233;tection des morts-vivants&quot;&gt;d&#233;tection des morts-vivants&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;D&#233;tection.html&quot; title=&quot;D&#233;tection&quot;&gt;d&#233;tection&lt;/a&gt; du Bien/Chaos/Loi/Mal&lt;/li&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Faveur-Divine.html&quot; title=&quot;Faveur divine&quot;&gt;faveur divine&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Frayeur.html&quot; title=&quot;Frayeur&quot;&gt;frayeur&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Impr&#233;cation.html&quot; title=&quot;Impr&#233;cation&quot;&gt;impr&#233;cation&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Injonction.html&quot; title=&quot;Injonction&quot;&gt;injonction&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Invisibilit&#233;-Pour-Les-Morts-Vivants.html&quot; title=&quot;Invisibilit&#233; pour les morts-vivants&quot;&gt;invisibilit&#233; pour les morts-vivants&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Mal&#233;diction-De-Leau.html&quot; title=&quot;Mal&#233;diction de l&amp;#39;eau&quot;&gt;mal&#233;diction de l’eau&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Protection.html&quot; title=&quot;Protection&quot;&gt;protection&lt;/a&gt; contre le Bien/Chaos/Loi/Mal&lt;/li&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Regain-Dassurance.html&quot; title=&quot;Regain d&amp;#39;assurance&quot;&gt;regain d’assurance&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Repli-Exp&#233;ditif.html&quot; title=&quot;Repli exp&#233;ditif&quot;&gt;repli exp&#233;ditif&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Sanctuaire.html&quot; title=&quot;Sanctuaire&quot;&gt;sanctuaire&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Soins-L&#233;gers.html&quot; title=&quot;Soins l&#233;gers&quot;&gt;soins l&#233;gers&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;&lt;/ul&gt;&lt;br /&gt;&lt;h3 class=&quot;separator&quot;&gt; Sorts d’inquisiteurs de niveau 2 &lt;a class=&quot;headeranchor&quot; id=&quot;Sorts_d’inquisiteurs_de_niveau_C_24&quot; href=&quot;#Sorts_d’inquisiteurs_de_niveau_C_24&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Aide.html&quot; title=&quot;Aide&quot;&gt;aide&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Alignement-Ind&#233;tectable.html&quot; title=&quot;Alignement ind&#233;tectable&quot;&gt;alignement ind&#233;tectable&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Apaisement-Des-&#201;motions.html&quot; title=&quot;Apaisement des &#233;motions&quot;&gt;apaisement des &#233;motions&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Arme-Align&#233;e.html&quot; title=&quot;Arme align&#233;e&quot;&gt;arme align&#233;e&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Arme-Spirituelle.html&quot; title=&quot;Arme spirituelle&quot;&gt;arme spirituelle&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Blessure-Mod&#233;r&#233;e.html&quot; title=&quot;Blessure mod&#233;r&#233;e&quot;&gt;blessure mod&#233;r&#233;e&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Cons&#233;cration.html&quot; title=&quot;Cons&#233;cration&quot;&gt;cons&#233;cration&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;D&#233;blocage.html&quot; title=&quot;D&#233;blocage&quot;&gt;d&#233;blocage&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;D&#233;livrance-De-La-Paralysie.html&quot; title=&quot;D&#233;livrance de la paralysie&quot;&gt;d&#233;livrance de la paralysie&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;D&#233;tection-De-Linvisibilit&#233;.html&quot; title=&quot;D&#233;tection de l&amp;#39;invisibilit&#233;&quot;&gt;d&#233;tection de l’invisibilit&#233;&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;D&#233;tection-De-Pens&#233;es.html&quot; title=&quot;D&#233;tection de pens&#233;es&quot;&gt;d&#233;tection de pens&#233;es&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;D&#233;tection-Des-Pi&#232;ges.html&quot; title=&quot;D&#233;tection des pi&#232;ges&quot;&gt;d&#233;tection des pi&#232;ges&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Discours-Captivant.html&quot; title=&quot;Discours captivant&quot;&gt;discours captivant&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Don-Des-Langues.html&quot; title=&quot;Don des langues&quot;&gt;don des langues&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Immobilisation-De-Personne.html&quot; title=&quot;Immobilisation de personne&quot;&gt;immobilisation de personne&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Invisibilit&#233;.html&quot; title=&quot;Invisibilit&#233;&quot;&gt;invisibilit&#233;&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Mise-&#192;-Mort.html&quot; title=&quot;Mise &#224; mort&quot;&gt;mise &#224; mort&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Profanation.html&quot; title=&quot;Profanation&quot;&gt;profanation&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Protection-Dautrui.html&quot; title=&quot;Protection d&amp;#39;autrui&quot;&gt;protection d’autrui&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Ralentissement-Du-Poison.html&quot; title=&quot;Ralentissement du poison&quot;&gt;ralentissement du poison&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;R&#233;sistance-Aux-&#201;nergies-Destructives.html&quot; title=&quot;R&#233;sistance aux &#233;nergies destructives&quot;&gt;r&#233;sistance aux &#233;nergies destructives&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Restauration-Partielle.html&quot; title=&quot;Restauration partielle&quot;&gt;restauration partielle&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Silence.html&quot; title=&quot;Silence&quot;&gt;silence&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Soins-Mod&#233;r&#233;s.html&quot; title=&quot;Soins mod&#233;r&#233;s&quot;&gt;soins mod&#233;r&#233;s&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;T&#233;n&#232;bres.html&quot; title=&quot;T&#233;n&#232;bres&quot;&gt;t&#233;n&#232;bres&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Vent-De-Murmures.html&quot; title=&quot;Vent de murmures&quot;&gt;vent de murmures&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Zone-De-V&#233;rit&#233;.html&quot; title=&quot;Zone de v&#233;rit&#233;&quot;&gt;zone de v&#233;rit&#233;&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;&lt;/ul&gt;&lt;br /&gt;&lt;h3 class=&quot;separator&quot;&gt; Sorts d’inquisiteurs de niveau 3 &lt;a class=&quot;headeranchor&quot; id=&quot;Sorts_d’inquisiteurs_de_niveau_D_25&quot; href=&quot;#Sorts_d’inquisiteurs_de_niveau_D_25&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Aff&#251;tage.html&quot; title=&quot;Aff&#251;tage&quot;&gt;aff&#251;tage&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Ancre-Dimensionnelle.html&quot; title=&quot;Ancre dimensionnelle&quot;&gt;ancre dimensionnelle&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Antid&#233;tection.html&quot; title=&quot;Antid&#233;tection&quot;&gt;antid&#233;tection&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Arme-Magique-Supr&#234;me.html&quot; title=&quot;Arme magique supr&#234;me&quot;&gt;arme magique supr&#234;me&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Blessure-Grave.html&quot; title=&quot;Blessure grave&quot;&gt;blessure grave&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Cercle-Magique.html&quot; title=&quot;Cercle magique&quot;&gt;cercle magique&lt;/a&gt; contre le Bien/Chaos/Loi/Mal&lt;/li&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Communication-Avec-Les-Morts.html&quot; title=&quot;Communication avec les morts&quot;&gt;communication avec les morts&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;D&#233;livrance-Des-Mal&#233;dictions.html&quot; title=&quot;D&#233;livrance des mal&#233;dictions&quot;&gt;d&#233;livrance des mal&#233;dictions&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Dissimulation-Dobjet.html&quot; title=&quot;Dissimulation d&amp;#39;objet&quot;&gt;dissimulation d’objet&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Dissipation-De-La-Magie.html&quot; title=&quot;Dissipation de la magie&quot;&gt;dissipation de la magie&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Flamme-&#201;ternelle.html&quot; title=&quot;Flamme &#233;ternelle&quot;&gt;flamme &#233;ternelle&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Glyphe-De-Garde.html&quot; title=&quot;Glyphe de garde&quot;&gt;glyphe de garde&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Gu&#233;rison-Des-Maladies.html&quot; title=&quot;Gu&#233;rison des maladies&quot;&gt;gu&#233;rison des maladies&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;H&#233;ro&#239;sme.html&quot; title=&quot;H&#233;ro&#239;sme&quot;&gt;h&#233;ro&#239;sme&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Immobilisation-De-Morts-Vivants.html&quot; title=&quot;Immobilisation de morts-vivants&quot;&gt;immobilisation de morts-vivants&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Localisation-Dobjet.html&quot; title=&quot;Localisation d&amp;#39;objet&quot;&gt;localisation d’objet&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Lumi&#232;re-Br&#251;lante.html&quot; title=&quot;Lumi&#232;re br&#251;lante&quot;&gt;lumi&#232;re br&#251;lante&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Lumi&#232;re-Du-Jour.html&quot; title=&quot;Lumi&#232;re du jour&quot;&gt;lumi&#232;re du jour&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;N&#233;gation-De-Linvisibilit&#233;.html&quot; title=&quot;N&#233;gation de l&amp;#39;invisibilit&#233;&quot;&gt;n&#233;gation de l’invisibilit&#233;&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Panoplie-Magique.html&quot; title=&quot;Panoplie magique&quot;&gt;panoplie magique&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Pri&#232;re.html&quot; title=&quot;Pri&#232;re&quot;&gt;pri&#232;re&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Protection-Contre-Les-&#201;nergies-Destructives.html&quot; title=&quot;Protection contre les &#233;nergies destructives&quot;&gt;protection contre les &#233;nergies destructives&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Soins-Importants.html&quot; title=&quot;Soins importants&quot;&gt;soins importants&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;T&#233;n&#232;bres-Profondes.html&quot; title=&quot;T&#233;n&#232;bres profondes&quot;&gt;t&#233;n&#232;bres profondes&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Vision-Magique.html&quot; title=&quot;Vision magique&quot;&gt;vision magique&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;&lt;/ul&gt;&lt;br /&gt;&lt;h3 class=&quot;separator&quot;&gt; Sorts d’inquisiteurs de niveau 4 &lt;a class=&quot;headeranchor&quot; id=&quot;Sorts_d’inquisiteurs_de_niveau_E_26&quot; href=&quot;#Sorts_d’inquisiteurs_de_niveau_E_26&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Blessure-Critique.html&quot; title=&quot;Blessure critique&quot;&gt;blessure critique&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Ch&#226;timent-Sacr&#233;.html&quot; title=&quot;Ch&#226;timent sacr&#233;&quot;&gt;ch&#226;timent sacr&#233;&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Communication-&#192;-Distance.html&quot; title=&quot;Communication &#224; distance&quot;&gt;communication &#224; distance&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Courroux-De-Lordre.html&quot; title=&quot;Courroux de l&amp;#39;ordre&quot;&gt;courroux de l’ordre&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;D&#233;tection-De-La-Scrutation.html&quot; title=&quot;D&#233;tection de la scrutation&quot;&gt;d&#233;tection de la scrutation&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;D&#233;tection-Du-Mensonge.html&quot; title=&quot;D&#233;tection du mensonge&quot;&gt;d&#233;tection du mensonge&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Divination.html&quot; title=&quot;Divination&quot;&gt;divination&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Immobilisation-De-Monstre.html&quot; title=&quot;Immobilisation de monstre&quot;&gt;immobilisation de monstre&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Immunit&#233;-Contre-Les-Sorts.html&quot; title=&quot;Immunit&#233; contre les sorts&quot;&gt;immunit&#233; contre les sorts&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Invisibilit&#233;-Supr&#234;me.html&quot; title=&quot;Invisibilit&#233; supr&#234;me&quot;&gt;invisibilit&#233; supr&#234;me&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Libert&#233;-De-Mouvement.html&quot; title=&quot;Libert&#233; de mouvement&quot;&gt;libert&#233; de mouvement&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Marteau-Du-Chaos.html&quot; title=&quot;Marteau du chaos&quot;&gt;marteau du Chaos&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Mission.html&quot; title=&quot;Mission&quot;&gt;mission&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Neutralisation-Du-Poison.html&quot; title=&quot;Neutralisation du poison&quot;&gt;neutralisation du poison&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Peau-De-Pierre.html&quot; title=&quot;Peau de pierre&quot;&gt;peau de pierre&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Protection-Contre-La-Mort.html&quot; title=&quot;Protection contre la mort&quot;&gt;protection contre la mort&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Puissance-Divine.html&quot; title=&quot;Puissance divine&quot;&gt;puissance divine&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Renvoi.html&quot; title=&quot;Renvoi&quot;&gt;renvoi&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Restauration.html&quot; title=&quot;Restauration&quot;&gt;restauration&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Soins-Intensifs.html&quot; title=&quot;Soins intensifs&quot;&gt;soins intensifs&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;T&#233;n&#232;bres-Maudites.html&quot; title=&quot;T&#233;n&#232;bres maudites&quot;&gt;t&#233;n&#232;bres maudites&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Terreur.html&quot; title=&quot;Terreur&quot;&gt;terreur&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;&lt;/ul&gt;&lt;br /&gt;&lt;h3 class=&quot;separator&quot;&gt; Sorts d’inquisiteurs de niveau 5 &lt;a class=&quot;headeranchor&quot; id=&quot;Sorts_d’inquisiteurs_de_niveau_F_27&quot; href=&quot;#Sorts_d’inquisiteurs_de_niveau_F_27&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Annulation-Denchantement.html&quot; title=&quot;Annulation d&amp;#39;enchantement&quot;&gt;annulation d’enchantement&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Arme-Destructrice.html&quot; title=&quot;Arme destructrice&quot;&gt;arme destructrice&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Bannissement.html&quot; title=&quot;Bannissement&quot;&gt;bannissement&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Blessure-L&#233;g&#232;re.html&quot; title=&quot;Blessure l&#233;g&#232;re&quot;&gt;blessure l&#233;g&#232;re&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Colonne-De-Feu.html&quot; title=&quot;Colonne de feu&quot;&gt;colonne de feu&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Communion.html&quot; title=&quot;Communion&quot;&gt;communion&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Force-Du-Colosse.html&quot; title=&quot;Force du colosse&quot;&gt;force du colosse&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Injonction-Supr&#234;me.html&quot; title=&quot;Injonction supr&#234;me&quot;&gt;injonction supr&#234;me&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Lien-T&#233;l&#233;pathique.html&quot; title=&quot;Lien t&#233;l&#233;pathique&quot;&gt;lien t&#233;l&#233;pathique&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Marque-De-La-Justice.html&quot; title=&quot;Marque de la justice&quot;&gt;marque de la justice&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;P&#233;nitence.html&quot; title=&quot;P&#233;nitence&quot;&gt;p&#233;nitence&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Qu&#234;te.html&quot; title=&quot;Qu&#234;te&quot;&gt;qu&#234;te&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Rejet.html&quot; title=&quot;Rejet&quot;&gt;rejet&lt;/a&gt; du Bien/Chaos/Loi/Mal&lt;/li&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;R&#233;sistance-&#192;-La-Magie-(Capacit&#233;).html&quot; title=&quot;R&#233;sistance &#224; la magie&quot;&gt;r&#233;sistance &#224; la magie&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Sanctification.html&quot; title=&quot;Sanctification&quot;&gt;sanctification&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Sanctification-Mal&#233;fique.html&quot; title=&quot;Sanctification mal&#233;fique&quot;&gt;sanctification mal&#233;fique&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Soins-L&#233;gers.html&quot; title=&quot;Soins l&#233;gers&quot;&gt;soins l&#233;gers&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Vision-Lucide.html&quot; title=&quot;Vision lucide&quot;&gt;vision lucide&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;&lt;/ul&gt;&lt;br /&gt;&lt;h3 class=&quot;separator&quot;&gt; Sorts d’inquisiteurs de niveau 6 &lt;a class=&quot;headeranchor&quot; id=&quot;Sorts_d’inquisiteurs_de_niveau_G_28&quot; href=&quot;#Sorts_d’inquisiteurs_de_niveau_G_28&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Annihilation-De-Mort-Vivant.html&quot; title=&quot;Annihilation de mort-vivant&quot;&gt;annihilation de mort-vivant&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Barri&#232;re-De-Lames.html&quot; title=&quot;Barri&#232;re de lames&quot;&gt;barri&#232;re de lames&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Blasph&#232;me.html&quot; title=&quot;Blasph&#232;me&quot;&gt;blasph&#232;me&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Blessure-Mod&#233;r&#233;e.html&quot; title=&quot;Blessure mod&#233;r&#233;e&quot;&gt;blessure mod&#233;r&#233;e&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Cercle-De-Mort.html&quot; title=&quot;Cercle de mort&quot;&gt;cercle de mort&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Champ-De-Force.html&quot; title=&quot;Champ de force&quot;&gt;champ de force&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;D&#233;cret.html&quot; title=&quot;D&#233;cret&quot;&gt;d&#233;cret&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Dissipation-Supr&#234;me.html&quot; title=&quot;Dissipation supr&#234;me&quot;&gt;dissipation supr&#234;me&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Festin-Des-H&#233;ros.html&quot; title=&quot;Festin des h&#233;ros&quot;&gt;festin des h&#233;ros&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Glyphe-De-Garde-Supr&#234;me.html&quot; title=&quot;Glyphe de garde supr&#234;me&quot;&gt;glyphe de garde supr&#234;me&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Gu&#233;rison-Supr&#234;me.html&quot; title=&quot;Gu&#233;rison supr&#234;me&quot;&gt;gu&#233;rison supr&#234;me&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Interdiction.html&quot; title=&quot;Interdiction&quot;&gt;interdiction&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Mise-&#192;-Mal.html&quot; title=&quot;Mise &#224; mal&quot;&gt;mise &#224; mal&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Mythes-Et-L&#233;gendes.html&quot; title=&quot;Mythes et l&#233;gendes&quot;&gt;mythes et l&#233;gendes&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Orientation.html&quot; title=&quot;Orientation&quot;&gt;orientation&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Parole-Du-Chaos.html&quot; title=&quot;Parole du Chaos&quot;&gt;parole du Chaos&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Parole-Sacr&#233;e.html&quot; title=&quot;Parole sacr&#233;e&quot;&gt;parole sacr&#233;e&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Soins-Mod&#233;r&#233;s.html&quot; title=&quot;Soins mod&#233;r&#233;s&quot;&gt;soins mod&#233;r&#233;s&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;&lt;/ul&gt;
+]]></body>
+  <raw><![CDATA[{s:MenuClasses}
+<div class="fright">'''''Voir aussi les [[jugements]] d'inquisiteur.'''''<br/>
+'''''Voir aussi la [[liste des sorts dinquisiteur|liste des sorts d'inquisiteur]].'''''<br/>
+'''''Voir aussi la liste des [[inquisitions]].'''''<br/>
+{s:PM0|inquisiteur}'''Voir les archétypes de l'inquisiteur'''&emsp;
+<ul ID="inquisiteur" CLASS="listecachée cadrebas">
+  <li>[[Brise-sortilège (inquisiteur)|Brise-sortilège]] (UC)</li>
+  <li>[[Chasseur de sorcières (inquisiteur)|Chasseur de sorcières]] (UC)</li>
+  <li>[[Exorciste (inquisiteur)|Exorciste]] (UM)</li>
+  <li>[[Hérétique (inquisiteur)|Hérétique]] (UM)</li>
+  <li>[[Iconoclaste (inquisiteur)|Iconoclaste]] (UC)</li>
+  <li>[[Infiltrateur (inquisiteur)|Infiltrateur]] (UM)</li>
+  <li>[[Mangeur de pêchés (inquisiteur)|Mangeur de pêchés]] (UM)</li>
+  <li>[[Prêcheur (inquisiteur)|Prêcheur]] (UM)</li>
+</ul></div>
+
+
+
+
+
+{s:APG}
+''Sombre et déterminé, l'inquisiteur débusque les ennemis de la foi et use de tromperie et de ruse quand la vertu et la pureté ne suffisent pas. Même si les inquisiteurs sont dévoués à une divinité, ils sont au-dessus des règles et des conventions de leur église. Ils répondent de leurs actes devant leur dieu et leur propre sens de la justice seulement, et ils sont prêts à appliquer des mesures extrêmes pour atteindre leurs objectifs.''
+
+{s:Reference|TABLEINQUISITEUR}
+<center>
+{| CLASS="tablo"
+|+ L'Inquisiteur
+|- CLASS="titre"
+| ROWSPAN="2" | Niveau
+| ROWSPAN="2" | BBA
+| ROWSPAN="2" | Réflexes
+| ROWSPAN="2" | Vigueur
+| ROWSPAN="2" | Volonté
+| ROWSPAN="2" CLASS="gauche" | Spécial
+| COLSPAN="9" CLASS="avecsoustitre" | Sorts par jour
+|- CLASS="soustitre"
+| 1er
+| 2e
+| 3e
+| 4e
+| 5e
+| 6e
+| 
+|- CLASS="premier"
+| 1
+| +0
+| +0
+| +2
+| +2
+| CLASS="gauche" | [[Inquisiteur#DOMAINE|domaine ou inquisition]], [[Inquisiteur#JUGEMENT|jugement 1/jour]], [[Inquisiteur#REGARDSEVERE|regard sévère]]<br/>[[Inquisiteur#CONNAISSANCEDESMONSTRES|connaissance des monstres]], [[Inquisiteur#ORAISONS|oraisons]]
+| 1
+| -
+| -
+| -
+| -
+| -
+|- CLASS="alt"
+| 2
+| +1
+| +0
+| +3
+| +3
+| CLASS="gauche" | [[Inquisiteur#INITIATIVERUSEE|initiative rusée]], [[Inquisiteur#PISTAGE|pistage]], <br/>[[Inquisiteur#DETECTIONDALIGNEMENT|détection d'alignement]], 
+| 2
+| -
+| -
+| -
+| -
+| -
+|-
+| 3
+| +2
+| +1
+| +3
+| +3
+| CLASS="gauche" | [[Inquisiteur#TACTIQUESOLITAIRE|tactique solitaire]], [[Inquisiteur#DONDETRAVAILENEQUIPE|don de travail en équipe]]
+| 3
+| -
+| -
+| -
+| -
+| -
+|- CLASS="alt"
+| 4
+| +3
+| +1
+| +4
+| +4
+| CLASS="gauche" |  [[Inquisiteur#JUGEMENT|jugement 2/jour]]
+| 3
+| 1
+| -
+| -
+| -
+| -
+|-
+| 5
+| +3
+| +1
+| +4
+| +4
+| CLASS="gauche" | [[Inquisiteur#TUEUR|tueur]], [[Inquisiteur#DETECTIONDESMENSONGES|détection des mensonges]]
+| 4
+| 2
+| -
+| -
+| -
+| -
+|- CLASS="alt"
+| 6
+| +4
+| +2
+| +5
+| +5
+| CLASS="gauche" | [[Inquisiteur#DONDETRAVAILENEQUIPE|don de travail en équipe]]
+| 4
+| 3
+| -
+| -
+| -
+| -
+|-
+| 7
+| +5
+| +2
+| +5
+| +5
+| CLASS="gauche" | [[Inquisiteur#JUGEMENT|jugement 3/jour]]
+| 4
+| 3
+| 1
+| -
+| -
+| -
+|- CLASS="alt"
+| 8
+| +6/+1
+| +2
+| +6
+| +6
+| CLASS="gauche" | [[Inquisiteur#SECONDJUGEMENT|second jugement]]
+| 4
+| 4
+| 2
+| -
+| -
+| -
+|-
+| 9
+| +6/+1
+| +3
+| +6
+| +6
+| CLASS="gauche" | [[Inquisiteur#DONDETRAVAILENEQUIPE|don de travail en équipe]]
+| 5
+| 4
+| 3
+| -
+| -
+| -
+|- CLASS="alt"
+| 10
+| +7/+2
+| +3
+| +7
+| +7
+| CLASS="gauche" |  [[Inquisiteur#JUGEMENT|jugement 4/jour]] 
+| 5
+| 4
+| 3
+| 1
+| -
+| -
+|-
+| 11
+| +8/+3
+| +3
+| +7
+| +7
+| CLASS="gauche" | [[Inquisiteur#VAILLANT|vaillant]]
+| 5
+| 4
+| 4
+| 2
+| -
+| -
+|- CLASS="alt"
+| 12
+| +9/+4
+| +4
+| +8
+| +8
+| CLASS="gauche" | [[Inquisiteur#TUEURSUPERIEUR|tueur supérieur]], [[Inquisiteur#DONDETRAVAILENEQUIPE|don de travail en équipe]]
+| 5
+| 5
+| 4
+| 3
+| -
+| -
+|-
+| 13
+| +9/+4
+| +4
+| +8
+| +8
+| CLASS="gauche" | [[Inquisiteur#JUGEMENT|jugement 5/jour]]
+| 5
+| 5
+| 4
+| 3
+| 1
+| -
+|- CLASS="alt"
+| 14
+| +10/+5
+| +4
+| +9
+| +9
+| CLASS="gauche" | [[Inquisiteur#EXPLOITERLESFAIBLESSES|exploiter les faiblesses]] 
+| 5
+| 5
+| 4
+| 4
+| 2
+| -
+|-
+| 15
+| +11/+6/+1
+| +5
+| +9
+| +9
+| CLASS="gauche" | [[Inquisiteur#DONDETRAVAILENEQUIPE|don de travail en équipe]]
+| 5
+| 5
+| 5
+| 4
+| 3
+| -
+|- CLASS="alt"
+| 16
+| +12/+7/+2
+| +5
+| +10
+| +10
+| CLASS="gauche" |  [[Inquisiteur#JUGEMENT|jugement 6/jour]], [[Inquisiteur#TROISIEMEJUGEMENT|troisième jugement]]
+| 5
+| 5
+| 5
+| 4
+| 3
+| 1
+|-
+| 17
+| +12/+7/+2
+| +5
+| +10
+| +10
+| CLASS="gauche" | [[Inquisiteur#EXTERMINER|exterminer]]
+| 5
+| 5
+| 5
+| 4
+| 4
+| 2
+|- CLASS="alt"
+| 18
+| +13/+8/+3
+| +6
+| +11
+| +11
+| CLASS="gauche" | [[Inquisiteur#DONDETRAVAILENEQUIPE|don de travail en équipe]]
+| 5
+| 5
+| 5
+| 5
+| 4
+| 3
+|-
+| 19
+| +14/+9/+4
+| +6
+| +11
+| +11
+| CLASS="gauche" | [[Inquisiteur#JUGEMENT|jugement 7/jour]]
+| 5
+| 5
+| 5
+| 5
+| 5
+| 4
+|- CLASS="alt"
+| 20
+| +15/+10/+5
+| +6
+| +12
+| +12
+| CLASS="gauche" | [[Inquisiteur#VERITABLEJUGEMENT|véritable jugement]]
+| 5
+| 5
+| 5
+| 5
+| 5
+| 5
+|}
+</center>
+
+<div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
+<div style="border: 1px solid #4b3124; padding: 4px">
+{s:Reference|SORTSCONNUSDELINQUISITEUR}
+<center>
+{| CLASS="tablo"
+|+ Sorts connus par l'inquisiteur
+|- CLASS="titre"
+| ROWSPAN="2" | Niveau
+| COLSPAN="10" CLASS="avecsoustitre gauche" | Sorts connus
+|- CLASS="soustitre"
+| 0
+| 1er
+| 2e
+| 3e
+| 4e
+| 5e
+| 6e
+|- CLASS="premier"
+| 1
+| 4
+| 2
+| -
+| -
+| -
+| -
+| -
+|- CLASS="alt"
+| 2
+| 5
+| 3
+| -
+| -
+| -
+| -
+| -
+|-
+| 3
+| 6
+| 4
+| -
+| -
+| -
+| -
+| -
+|- CLASS="alt"
+| 4
+| 6
+| 4
+| 2
+| -
+| -
+| -
+| -
+|-
+| 5
+| 6
+| 4
+| 3
+| -
+| -
+| -
+| -
+|- CLASS="alt"
+| 6
+| 6
+| 4
+| 4
+| -
+| -
+| -
+| -
+|-
+| 7
+| 6
+| 5
+| 4
+| 2
+| -
+| -
+| -
+|- CLASS="alt"
+| 8
+| 6
+| 5
+| 4
+| 3
+| -
+| -
+| -
+|-
+| 9
+| 6
+| 5
+| 4
+| 4
+| -
+| -
+| -
+|- CLASS="alt"
+| 10
+| 6
+| 5
+| 5
+| 4
+| 2
+| -
+| -
+|-
+| 11
+| 6
+| 6
+| 5
+| 4
+| 3
+| -
+| -
+|- CLASS="alt"
+| 12
+| 6
+| 6
+| 5
+| 4
+| 4
+| -
+| -
+|-
+| 13
+| 6
+| 6
+| 5
+| 5
+| 4
+| 2
+| -
+|- CLASS="alt"
+| 14
+| 6
+| 6
+| 6
+| 5
+| 4
+| 3
+| -
+|-
+| 15
+| 6
+| 6
+| 6
+| 5
+| 4
+| 4
+| -
+|-
+|- CLASS="alt"
+| 16
+| 6
+| 6
+| 6
+| 5
+| 5
+| 4
+| 2
+|-
+| 17
+| 6
+| 6
+| 6
+| 6
+| 5
+| 4
+| 3
+|- CLASS="alt"
+| 18
+| 6
+| 6
+| 6
+| 6
+| 5
+| 4
+| 4
+|-
+| 19
+| 6
+| 6
+| 6
+| 6
+| 5
+| 5
+| 4
+|- CLASS="alt"
+| 20
+| 6
+| 6
+| 6
+| 6
+| 6
+| 5
+| 5
+|}
+</center></div></div>
+
+'''Rôle.''' Les inquisiteurs se déplacent souvent pour traquer leurs ennemis, à l'affût de toute nouvelle menace. Ils voyagent donc beaucoup en compagnie d'autres gens, ne serait-ce que pour masquer leur présence. Quand ils peuvent, les inquisiteurs travaillent avec les autres membres de leur congrégation mais même ces alliés ne sont pas au-dessus de leurs soupçons.
+
+'''Alignement.''' L'[[alignement]] de l'inquisiteur ne doit pas s'éloigner de celui de sa divinité de plus d'un cran, que ce soit sur l'axe [[alignement#LOICHAOS|Loi/Chaos]] ou [[alignement#BIENMAL|Bien/Mal]].
+
+'''Dés de vie.''' d8.
+
+=== Compétences de classe ===
+
+Les compétences de classe de l’inquisiteur sont [[Art de la magie]] (Int), [[Artisanat]] (Int), [[Bluff]] (Cha),  [[Connaissances]] (exploration souterraine) (Int), [[Connaissances]] (mystères) (Int), [[Connaissances]] (nature) (Int), [[Connaissances]] (plans) (Int), [[Connaissances]] (religion) (Int), [[Déguisement]] (Cha), [[Diplomatie]] (Cha), [[Discrétion]] (Dex), [[Équitation]] (Dex), [[Escalade]] (For), [[Intimidation]] (Cha), [[Natation]] (For), [[Perception]] (Sag), [[Premiers secours]] (Sag), [[Profession]] (Sag), [[Psychologie]] (Sag), [[Survie]] (Sag).
+
+'''Rangs de compétence par niveau.''' 6 + modificateur d’[[Intelligence]].
+
+
+===Descriptif de la classe===
+
+Les aptitudes de l'inquisiteur sont décrites ci-dessous.
+
+====Armes et armures====
+
+L'inquisiteur est formé au maniement de toutes les [[armes courantes]], ainsi qu'à celui des arbalètes à répétition, des arbalètes de poing, des arcs courts, des arcs longs et de l'arme de prédilection de son dieu. Il est également formé au port des [[armure légère|armures légères]] et [[armure intermédiaire|intermédiaires]], et à l'utilisation des boucliers (à l'exception des pavois).
+
+====Sorts====
+
+L'inquisiteur lance des sorts divins tirés de la [[Liste des sorts dinquisiteur|liste de sorts de l'inquisiteur]]. Il peut lancer n'importe quel sort de sa connaissance quand il le désire, sans avoir besoin de le préparer à l'avance, en admettant qu'il lui reste des sorts utilisables dans la journée.
+
+Pour apprendre ou lancer un sort, l'inquisiteur doit avoir une valeur de [[Sagesse]] au moins égale à 10 + niveau du sort. Le [[DD]] du [[jet de sauvegarde]] contre les sorts de l'inquisiteur est de 10 + niveau du sort + modificateur de Sagesse de l'inquisiteur.
+
+Un inquisiteur ne peut lancer qu'un certain nombre de sorts par jour. Son nombre de sorts quotidien est donné dans la table "[[Inquisiteur#TABLEINQUISITEUR|L'Inquisiteur]]". De plus, il reçoit des sorts supplémentaires quotidiens s'il a une grande valeur de [[Sagesse]].
+
+La sélection de sorts de l'inquisiteur est extrêmement limitée. L'inquisiteur commence le jeu avec quatre sorts de niveau 0 et deux sorts de niveau 1, de son choix. A chaque nouveau niveau, il gagne un ou plusieurs sorts, comme indiqué sur la table [[Inquisiteur#SORTSCONNUSDELINQUISITEUR|Sorts connus par l'inquisiteur]] (contrairement aux sorts quotidiens, le nombre de sorts connus de l'inquisiteur ne dépend pas de sa [[Sagesse]]. Les données de cette table sont fixes).
+
+Au niveau 5 et par la suite tous les trois niveaux (8, 11, etc.), l'inquisiteur peut apprendre un nouveau sort à la place d'un qu'il connaît déjà. L'inquisiteur "perd" l'ancien sort au profit du nouveau. Le nouveau sort doit être du même niveau que celui contre lequel il l'échange et au moins d'un niveau de moins que le sort de plus haut niveau connu de l'inquisiteur. A chaque niveau possible, l'inquisiteur ne peut échanger qu'un seul sort et doit choisir de le faire ou non au moment où il apprend ses nouveaux sorts de niveau.
+
+{s:Reference|DOMAINE}
+
+====Domaine et inquisition====
+
+La divinité de l'inquisiteur influe, comme celle des prêtres, sur son alignement, sa magie et ses valeurs. L'inquisiteur n'est pas aussi attaché aux préceptes de sa religion qu'un prêtre, mais il doit les tenir en haute estime, même s'ils les enfreint lorsque cela peut servir les intérêts de ses croyances. L'inquisiteur choisit un [[domaines|domaine]] parmi ceux de son dieu mais il ne peut pas choisir un domaine d'[[alignement]] qui ne corresponde pas au sien. Avec l'accord du MJ, l'inquisiteur peut se consacrer à un idéal au lieu d'une divinité et choisir un [[domaines|domaine]] ou une [[inquisitions|inquisition]] qui représente ses inclinaisons et ses aptitudes personnelles. Les restrictions sur les [[domaines]] d'[[alignement]] s'appliquent toujours.
+
+Chaque domaine accorde un certain nombre de pouvoirs de [[domaines|domaine]] qui dépendent du niveau de l'inquisiteur. Ce dernier ne gagne aucun sort supplémentaire lié au [[domaines|domaine]] ni aucun emplacement de sort supplémentaire. Il utilise son niveau comme niveau de [[prêtre]] quand il détermine les pouvoirs et les effets de ses pouvoirs de [[domaines|domaine]]. Si l'inquisiteur a des niveaux de [[prêtre|prêtres]], l'un de ses deux [[domaines]] doit être le même que son domaine d'inquisiteur. Les niveaux de prêtre et d'inquisiteur se cumulent quand il s'agit de déterminer les pouvoirs et aptitudes de [[domaines|domaine]] mais pas pour les sorts supplémentaires.
+
+{s:um}Cependant, comme l’inquisiteur dispose des pouvoirs liés à un domaine mais pas de sorts associés, certains [[domaines]] de prêtre constituent un mauvais choix car ils se basent sur des pouvoirs de prêtre que l’inquisiteur n’a pas. ''Par exemple, le pouvoir de niveau 1 du [[domaine du Soleil]] augmente les effets de la canalisation mais les inquisiteurs n’y ont pas accès et ne bénéficient donc d’aucun avantage lié au choix du domaine avant le niveau 8 où ils obtiennent un second pouvoir.''
+
+C’est pour remédier à ce problème que les inquisiteurs peuvent choisir de bénéficier d'une [[inquisitions|inquisition]]. 
+
+Même si les inquisiteurs adoptent souvent des domaines ouverts aux prêtres de leur religion, ils ont accès à des connaissances spéciales ignorées des prêtres et des autres agents de leur religion. Ces objectifs divins, que l’on appelle des inquisitions, fournissent aux inquisiteurs les outils indispensables à la lutte contre les ennemis de la foi. 
+
+L’inquisiteur peut choisir une [[inquisitions|inquisition]] au lieu d’un domaine.
+
+Si un pouvoir d’inquisition autorise un [[jet de sauvegarde]], le [[DD]] est égal à 10 + 1/2 niveau de l’inquisiteur + modificateur de [[Sagesse]]. Sauf indication contraire, le [[NLS|niveau de lanceur de sorts]] des pouvoirs magiques est égal à son niveau d’inquisiteur.
+
+{s:Reference|JUGEMENT}
+====Jugement (Sur)====
+
+A partir du niveau 1, l'inquisiteur peut juger ses ennemis par une [[action rapide]]. A partir du moment où il prononce ce [[jugements|jugement]], l'inquisiteur reçoit un bonus ou un pouvoir spécial basé sur le type de [[jugements|jugement]] effectué.
+
+Au niveau 1, l'inquisiteur peut utiliser ce pouvoir une fois par jour. Au niveau 4 et, par la suite, tous les trois niveaux, il peut le faire une fois de plus par jour. Une fois activé, ce pouvoir se prolonge jusqu'à la fin du combat, il prend alors immédiatement fin. Pour obtenir le bonus, l'inquisiteur doit participer au combat. S'il est [[États préjudiciables#effrayé|effrayé]], [[États préjudiciables#paniqué|paniqué]], [[États préjudiciables#paralysé|paralysé]], [[États préjudiciables#étourdi|étourdi]], [[États préjudiciables#inconscient|inconscient]] ou s'il ne peut pas combattre, le pouvoir ne se termine pas, mais les bonus disparaissent jusqu'à ce qu'il puisse se battre à nouveau.
+
+Quand l'inquisiteur se sert de ce pouvoir, il doit choisir un type de [[jugements|jugement]]. Il peut changer de type par une [[action rapide]]. Si l'inquisiteur est d'[[alignement]] Mauvais, il reçoit des bonus de malfaisance au lieu de bonus sacrés. Les inquisiteurs Neutres doivent choisir s'ils veulent des bonus sacrés ou de malfaisance et ne peuvent plus en changer par la suite.
+
+{s:Reference|CONNAISSANCEDESMONSTRES}
+====Connaissance des monstres (Ext)====
+
+L'inquisiteur ajoute son modificateur de [[Sagesse]] aux tests de [[Tableau récapitulatif des compétences|compétence]] en plus de son modificateur d'[[Intelligence]] quand il fait un test pour [[Connaissances|identifier les aptitudes et faiblesses d'une créature]].
+
+{s:Reference|ORAISONS}
+====Oraisons====
+
+L'inquisiteur connaît un certain nombre d'oraisons, ou sorts de niveau 0, comme indiqué dans la table [[Inquisiteur#SORTSCONNUSDELINQUISITEUR|Sorts connus par l'inquisiteur]]. Elles se lancent comme les autres mais ne sont pas dépensées au lancer et sont donc réutilisables. Les oraisons qui utilisent d'autres emplacements de sorts, à cause d'un don de métamagie par exemple, sont dépensées de façon normale.
+
+{s:Reference|REGARDSEVERE}
+====Regard sévère (Ext)====
+
+Les inquisiteurs sont doués pour déceler les mensonges et intimider leurs ennemis. Un inquisiteur reçoit un bonus de moral égal à la moitié de son niveau d'inquisiteur (minimum +1) aux tests d'[[Intimidation]] et de [[Psychologie]].
+
+{s:Reference|INITIATIVERUSEE}
+====Initiative rusée (Ext)====
+
+Au niveau 2, l'inquisiteur ajoute son modificateur de [[Sagesse]] à ses tests d'[[initiative]], en plus de modificateur de [[Dextérité]].
+
+{s:Reference|DETECTIONDALIGNEMENT}
+====Détection d’alignement (Mag)====
+
+L'inquisiteur peut, à volonté, utiliser [[détection du chaos]], [[détection du mal]], [[détection du bien]] ou [[détection de la loi]]. Il ne peut en utiliser qu'une à la fois.
+
+{s:Reference|PISTAGE}
+====Pistage (Ext)====
+
+Au niveau 2, l'inquisiteur ajoute la moitié de son niveau aux tests de [[Survie]] quand il suit une piste ou identifie des traces.
+
+{s:Reference|TACTIQUESOLITAIRE}
+====Tactique solitaire (Ext)====
+
+Au niveau 3, tous les alliés de l'inquisiteur sont considérés comme possédant le même don de travail en équipe que lui quand il s'agit de déterminer s'il reçoit un bonus grâce à ses dons de travail en équipe. Les alliés ne reçoivent pas le moindre bonus associé à ces dons, à moins qu'ils ne les possèdent eux-mêmes. Le placement et les actions des alliés doivent tout de même remplir les conditions requises par le don pour que l'inquisiteur puisse en profiter.
+
+{s:Reference|DONDETRAVAILENEQUIPE}
+====Don de travail en équipe====
+
+Au niveau 3, et par la suite tous les trois niveaux, l'inquisiteur gagne un don supplémentaire en plus de ceux liés à son évolution normale. Il doit les choisir dans la [[dons déquipe|liste des dons de travail en équipe]] et remplir les conditions requises.
+
+Par une action simple, l'inquisiteur peut choisir un nouveau don de travail en équipe à la place du dernier qu'il a appris. Il perd donc l'ancien don supplémentaire au profit du nouveau. Il ne peut changer que le don qu'il a appris le plus récemment. Quand il apprend un nouveau don, le précédent est fixé et il ne peut plus en changer. Chaque jour, l'inquisiteur peut changer son dernier don de travail en équipe un nombre de fois égal à son modificateur de Sagesse.
+
+{s:Reference|TUEUR}
+====Tueur (Sur)====
+
+Au niveau 5, l'inquisiteur peut appliquer la propriété [[Armes magiques#tueuse|tueuse]] à son arme par une [[action rapide]]. Il choisit le [[Types de créatures|type de créature]] visé quand il utilise le pouvoir (et le [[Sous-types de créatures|sous-type]] si le type est humanoïde ou extérieur). Une fois le type choisi, il peut en changer par une [[action rapide]]. Ce pouvoir fonctionne tant que l'inquisiteur tient son arme. S'il la lâche ou se la fait prendre, elle ne reprend cette propriété qu'une fois de retour dans les mains de l'inquisiteur, si sa durée n'a pas expirée. Chaque jour, ce pouvoir dure un nombre de rounds égal au niveau de l'inquisiteur. Ces rounds ne sont pas forcément consécutifs.
+
+{s:Reference|DETECTIONDESMENSONGES}
+====Détection des mensonges (Mag)====
+
+Au niveau 5, l'inquisiteur peut chaque jour [[Détection du mensonge|détecter les mensonges]] pendant un nombre de rounds égal à son niveau de classe. Ces rounds ne sont pas forcément consécutifs. Ce pouvoir s'active par une [[action immédiate]].
+
+{s:Reference|SECONDJUGEMENT}
+====Second jugement (Ext)====
+
+Au niveau 8, quand un inquisiteur utilise son [[jugements|jugement]], il en applique deux au lieu d'un seul. Ceci ne consomme qu'une utilisation du [[jugements|jugement]]. Il peut changer un type de [[jugements|jugement]] par une action rapide.
+
+{s:Reference|VAILLANT}
+====Vaillant (Ext)====
+
+Au niveau 11, l'inquisiteur peut utiliser sa résilience physique et mentale pour éviter certaines attaques. S'il réussit un jet de [[Valeurs de combat#JETDESAUVEGARDE|Vigueur]] ou de [[Valeurs de combat#JETDESAUVEGARDE|Volonté]] contre une attaque dont les effets sont réduits en cas de [[jet de sauvegarde]] réussi, il l'évite entièrement. Il peut utiliser ce pouvoir quand il ne porte pas d'armure ou une [[armure légère]] ou [[armure intermédiaire|intermédiaire]]. Un inquisiteur [[états préjudiciables#sans défense|sans_défense]] ne bénéficie pas des effets de ce pouvoir.
+
+{s:Reference|TUEURSUPERIEUR}
+====Tueur supérieur (Sur)====
+
+Au niveau 12, quand l'inquisiteur utilise le pouvoir [[Inquisiteur#TUEUR|tueur]], le montant de dégâts que l'arme inflige à la créature du type choisi passe à 4d6.
+
+{s:Reference|EXPLOITERLESFAIBLESSES}
+====Exploiter les faiblesses (Ext)====
+
+Au niveau 14, l'inquisiteur apprend à tirer parti de toutes les opportunités qui se présentent. Quand il réussit un [[coup critique]], il ignore toute [[réduction de dégâts]] éventuelle de sa cible. De plus, si elle peut se [[Régénération (capacité)|régénérer]], elle perd ce pouvoir pendant le round qui suit le critique et risque de mourir normalement. Les créatures dont le pouvoir de [[Régénération (capacité)|régénération]] fonctionne en permanence sont immunisées contre ce pouvoir. Enfin, si l'inquisiteur inflige des dégâts d'énergie à une créature vulnérable à ce type d'énergie, il lui inflige +1 point de dégâts par dé lancé.
+
+{s:Reference|TROISIEMEJUGEMENT}
+====Troisième jugement (Ext)====
+
+Au niveau 16 quand un inquisiteur utilise son [[jugements|jugement]], il en applique trois au lieu de deux. Ceci ne consomme qu'une utilisation du [[jugements|jugement]]. Il peut changer un type de [[jugements|jugement]] par une [[action rapide]].
+
+{s:Reference|EXTERMINER}
+====Exterminer (Ext)====
+
+Au niveau 17, l’inquisiteur apprend à concentrer son [[jugements|jugement]]. Chaque fois qu’un inquisiteur utilise sa capacité de [[jugements|jugement]], il doit choisir un type de [[jugements|jugement]]. Le bonus octroyé par celui-ci est calculé comme si l’inquisiteur avait 5 niveaux de plus. Contrairement à ce qui est possible pour les autres types de [[jugements|jugement]], celui qui est amélioré par cette capacité ne peut pas être changé pendant toute son application.
+
+{s:Reference|VERITABLEJUGEMENT}
+====Véritable jugement (Sur)====
+
+Au niveau 20, un inquisiteur peut porter un véritable jugement sur son ennemi en cours de combat. Quand l'inquisiteur utilise son pouvoir de [[jugements|jugement]], il peut lancer un véritable jugement sur son adversaire par une [[action rapide]]. Une fois qu'il a annoncé cela, il fait une unique attaque au corps à corps contre cette cible (ou à distance si elle se trouve à moins de 9m). S'il touche, il inflige des dégâts normaux et la cible doit faire un jet de [[Vigueur]] ou mourir. le [[DD]] du [[jet de sauvegarde]] est égal à 10 + 1/2 niveau d'inquisiteur + modificateur de [[Sagesse]] de l'inquisiteur. Que la cible ait réussi ou non son [[jet de sauvegarde]], elle est immunisée contre le véritable jugement de l'inquisiteur pendant 24h. Une fois que cette capacité à été utilisée, elle ne peut pas être réutilisée avant 1d4 rounds.
+
+{s:Reference|SORTSALIGNES}
+====Sorts du Bien, du Chaos, de la Loi et du Mal====
+
+L'inquisiteur ne peut pas lancer de sorts appartenant à un [[alignement]] opposé à celui de son dieu (s'il en a un). Les sorts associés à un alignement particulier comportent la mention Chaotique, Mauvais, Bon ou Loyal dans leur description.
+
+===Ex-inquisiteurs===
+
+Un inquisiteur qui se laisse corrompre ou qui adopte un alignement interdit perd tous ses sorts et ses pouvoirs de jugement. Il ne peut plus gagner de niveaux d'inquisiteur tant qu'il n'a pas fait [[pénitence]] (voir la description du sort du même nom).
+
+'''__Sorts des inquisiteurs__'''
+
+==== Sorts d’inquisiteurs de niveau 0 ====
+
+* [[aspersion acide]]
+* [[assistance divine]]
+* [[création deau|création d’eau]]
+* [[destruction de mort-vivant]]
+* [[détection de la magie]]
+* [[détection du poison]]
+* [[hébétement]]
+* [[lecture de la magie]]
+* [[lumière]]
+* [[résistance]]
+* [[saignement]]
+* [[stabilisation]]
+* [[stimulant]]
+
+==== Sorts d’inquisiteurs de niveau 1 ====
+
+* [[alarme]]
+* [[anathème]]
+* [[arme magique]]
+* [[bénédiction]]
+* [[bénédiction de leau|bénédiction de l’eau]]
+* [[blessure légère]]
+* [[bouclier de la foi]]
+* [[compréhension des langages]]
+* [[coup au but]]
+* [[déguisement]]
+* [[détection des morts-vivants]]
+* [[détection]] du Bien/Chaos/Loi/Mal
+* [[faveur divine]]
+* [[frayeur]]
+* [[imprécation]]
+* [[injonction]]
+* [[invisibilité pour les morts-vivants]]
+* [[malédiction de leau|malédiction de l’eau]]
+* [[protection]] contre le Bien/Chaos/Loi/Mal
+* [[regain dassurance|regain d’assurance]]
+* [[repli expéditif]]
+* [[sanctuaire]]
+* [[soins légers]]
+
+==== Sorts d’inquisiteurs de niveau 2 ====
+
+* [[aide]]
+* [[alignement indétectable]]
+* [[apaisement des émotions]]
+* [[arme alignée]]
+* [[arme spirituelle]]
+* [[blessure modérée]]
+* [[consécration]]
+* [[déblocage]]
+* [[délivrance de la paralysie]]
+* [[détection de linvisibilité|détection de l’invisibilité]]
+* [[détection de pensées]]
+* [[détection des pièges]]
+* [[discours captivant]]
+* [[don des langues]]
+* [[immobilisation de personne]]
+* [[invisibilité]]
+* [[mise à mort]]
+* [[profanation]]
+* [[protection dautrui|protection d’autrui]]
+* [[ralentissement du poison]]
+* [[résistance aux énergies destructives]]
+* [[restauration partielle]]
+* [[silence]]
+* [[soins modérés]]
+* [[ténèbres]]
+* [[vent de murmures]]
+* [[zone de vérité]]
+
+==== Sorts d’inquisiteurs de niveau 3 ====
+
+* [[affûtage]]
+* [[ancre dimensionnelle]]
+* [[antidétection]]
+* [[arme magique suprême]]
+* [[blessure grave]]
+* [[cercle magique]] contre le Bien/Chaos/Loi/Mal
+* [[communication avec les morts]]
+* [[délivrance des malédictions]]
+* [[dissimulation dobjet|dissimulation d’objet]]
+* [[dissipation de la magie]]
+* [[flamme éternelle]]
+* [[glyphe de garde]]
+* [[guérison des maladies]]
+* [[héroïsme]]
+* [[immobilisation de morts-vivants]]
+* [[localisation dobjet|localisation d’objet]]
+* [[lumière brûlante]]
+* [[lumière du jour]]
+* [[négation de linvisibilité|négation de l’invisibilité]]
+* [[panoplie magique]]
+* [[prière]]
+* [[protection contre les énergies destructives]]
+* [[soins importants]]
+* [[ténèbres profondes]]
+* [[vision magique]]
+
+==== Sorts d’inquisiteurs de niveau 4 ====
+
+* [[blessure critique]]
+* [[châtiment sacré]]
+* [[communication à distance]]
+* [[courroux de lordre|courroux de l’ordre]]
+* [[détection de la scrutation]]
+* [[détection du mensonge]]
+* [[divination]]
+* [[immobilisation de monstre]]
+* [[immunité contre les sorts]]
+* [[invisibilité suprême]]
+* [[liberté de mouvement]]
+* [[marteau du Chaos]]
+* [[mission]]
+* [[neutralisation du poison]]
+* [[peau de pierre]]
+* [[protection contre la mort]]
+* [[puissance divine]]
+* [[renvoi]]
+* [[restauration]]
+* [[soins intensifs]]
+* [[ténèbres maudites]]
+* [[terreur]]
+
+==== Sorts d’inquisiteurs de niveau 5 ====
+
+* [[annulation denchantement|annulation d’enchantement]]
+* [[arme destructrice]]
+* [[bannissement]]
+* [[blessure légère]]
+* [[colonne de feu]]
+* [[communion]]
+* [[force du colosse]]
+* [[injonction suprême]]
+* [[lien télépathique]]
+* [[marque de la justice]]
+* [[pénitence]]
+* [[quête]]
+* [[rejet]] du Bien/Chaos/Loi/Mal
+* [[résistance à la magie]]
+* [[sanctification]]
+* [[sanctification maléfique]]
+* [[soins légers]]
+* [[vision lucide]]
+
+==== Sorts d’inquisiteurs de niveau 6 ====
+
+* [[annihilation de mort-vivant]]
+* [[barrière de lames]]
+* [[blasphème]]
+* [[blessure modérée]]
+* [[cercle de mort]]
+* [[champ de force]]
+* [[décret]]
+* [[dissipation suprême]]
+* [[festin des héros]]
+* [[glyphe de garde suprême]]
+* [[guérison suprême]]
+* [[interdiction]]
+* [[mise à mal]]
+* [[mythes et légendes]]
+* [[orientation]]
+* [[parole du Chaos]]
+* [[parole sacrée]]
+* [[soins modérés]]]]></raw>
+  <fullName>Pathfinder-RPG.Inquisiteur</fullName>
+</wikiPage>

@@ -1,0 +1,285 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Prestige</title>
+  <categories><category>Pathfinder-RPG.Don</category><category>Pathfinder-RPG.Manuel des joueurs</category><category>Pathfinder-RPG.Règles officielles</category></categories>
+  <lastModified>2014-02-01 01:59:15Z</lastModified>
+  <version>10</version>
+  <inLinks><link>Pathfinder-RPG.couronne du conquérant</link><link>Pathfinder-RPG.Cuirasse de commandement</link><link>Pathfinder-RPG.Domaine de la Noblesse</link><link>Pathfinder-RPG.Dragonne</link><link>Pathfinder-RPG.Glossaire des dons</link><link>Pathfinder-RPG.Héraut</link><link>Pathfinder-RPG.Humain</link><link>Pathfinder-RPG.Jeu de cartes merveilleuses</link><link>Pathfinder-RPG.Le château dans les nuages du roi Tempête</link><link>Pathfinder-RPG.lignage Voué à un grand destin</link><link>Pathfinder-RPG.page de travail des dons</link><link>Pathfinder-RPG.Tableau récapitulatif des dons</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Classes</link><link>Pathfinder-RPG.niveau</link><link>Pathfinder-RPG.Charisme</link><link>Pathfinder-RPG.Créer des PNJ</link><link>Pathfinder-RPG.race</link><link>Pathfinder-RPG.classe</link><link>Pathfinder-RPG.Alignement</link><link>Pathfinder-RPG.PX</link></outLinks>
+  <body><![CDATA[&lt;i&gt;Le personnage attire des suivants et un compagnon d’armes qui se joignent &#224; sa cause et l’accompagnent au cours de ses aventures.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Condition.&lt;/b&gt; Personnage de niveau 7.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Avantage.&lt;/b&gt; Ce don permet au personnage de gagner les services d’un compagnon d’armes et de suivants qui l’aident de leur mieux. Le compagnon d’armes est souvent un PNJ avec des niveaux de &lt;a class=&quot;pagelink&quot; href=&quot;Classes.html&quot; title=&quot;Les classes&quot;&gt;classe&lt;/a&gt; tandis que les suivants sont des PNJ de bas niveau. Consultez la Table ci-apr&#232;s pour conna&#238;tre le &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#NIVEAU&quot; title=&quot;niveau&quot;&gt;niveau&lt;/a&gt; du compagnon d’armes et le nombre de suivants sur lesquels le personnage peut compter.&lt;br /&gt;&lt;br /&gt;&lt;div style=&quot;float:right; background-color: #fff; padding: 0 0 16px 16px&quot;&gt;
+ 	
+&lt;div style=&quot;border: 1px solid #4b3124; padding: 4px&quot;&gt;
+ 	
+&lt;center&gt;
+ 	
+&lt;table CLASS=&quot;tablo&quot;&gt;&lt;tr&gt;&lt;td&gt; Prestige&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td ROWSPAN=&quot;2&quot;&gt;Valeur de &lt;br/&gt;Prestige&lt;/td&gt;&lt;td ROWSPAN=&quot;2&quot;&gt;Niveau du &lt;br/&gt;compagnon d&#39;armes&lt;/td&gt;&lt;td CLASS=&quot;avecsoustitres&quot; COLSPAN=&quot;6&quot;&gt;Nombre de suivants par niveau&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;soustitre&quot;&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier&quot;&gt;&lt;td&gt;1 ou moins&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;7&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;8&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;9&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;7&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;11&lt;/td&gt;&lt;td&gt;7&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;12&lt;/td&gt;&lt;td&gt;8&lt;/td&gt;&lt;td&gt;8&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;13&lt;/td&gt;&lt;td&gt;9&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;14&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;15&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;15&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;20&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;16&lt;/td&gt;&lt;td&gt;11&lt;/td&gt;&lt;td&gt;25&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;17&lt;/td&gt;&lt;td&gt;12&lt;/td&gt;&lt;td&gt;30&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;18&lt;/td&gt;&lt;td&gt;12&lt;/td&gt;&lt;td&gt;35&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;19&lt;/td&gt;&lt;td&gt;13&lt;/td&gt;&lt;td&gt;40&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;20&lt;/td&gt;&lt;td&gt;14&lt;/td&gt;&lt;td&gt;50&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;21&lt;/td&gt;&lt;td&gt;15&lt;/td&gt;&lt;td&gt;60&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;22&lt;/td&gt;&lt;td&gt;15&lt;/td&gt;&lt;td&gt;75&lt;/td&gt;&lt;td&gt;7&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;23&lt;/td&gt;&lt;td&gt;16&lt;/td&gt;&lt;td&gt;90&lt;/td&gt;&lt;td&gt;9&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;24&lt;/td&gt;&lt;td&gt;17&lt;/td&gt;&lt;td&gt;110&lt;/td&gt;&lt;td&gt;11&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;25 ou plus&lt;/td&gt;&lt;td&gt;17&lt;/td&gt;&lt;td&gt;135&lt;/td&gt;&lt;td&gt;13&lt;/td&gt;&lt;td&gt;7&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+ 	
+&lt;/center&gt;&lt;/div&gt;&lt;/div&gt;&lt;br /&gt;&lt;b&gt;Valeur de Prestige.&lt;/b&gt; La valeur de Prestige du personnage est &#233;gale &#224; son &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#NIVEAU&quot; title=&quot;niveau&quot;&gt;niveau&lt;/a&gt; plus son modificateur de &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#CHARISME&quot; title=&quot;Le Charisme&quot;&gt;Charisme&lt;/a&gt;. La table propose des valeurs de Prestige tr&#232;s basses pour tenir compte de plus basses valeurs de &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#CHARISME&quot; title=&quot;Le Charisme&quot;&gt;Charisme&lt;/a&gt;, mais le personnage doit avoir atteint le niveau 7 au moins pour acqu&#233;rir ce don. Des facteurs ext&#233;rieurs peuvent modifier la valeur de Prestige, comme indiqu&#233; ci-dessous.&lt;br /&gt;&lt;br /&gt;
+&lt;b&gt;Niveau du compagnon d’armes.&lt;/b&gt; Le personnage peut gagner les services d’un compagnon d’armes de ce niveau ou moins. &#192; noter que, quelle que soit la valeur de Prestige du personnage, le niveau de son compagnon d’armes doit toujours &#234;tre inf&#233;rieur au sien de deux niveaux au moins. Le compagnon d’armes est &#233;quip&#233; en fonction de son niveau (voir &lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;er-Des-Pnj.html#TABLEEQUIPEMENTPNJ&quot; title=&quot;Cr&#233;er des PNJ&quot;&gt;la table d&#39;&#233;quipement des PNJ&lt;/a&gt;). Le compagnon d’armes peut &#234;tre de n’importe quelle &lt;a class=&quot;pagelink&quot; href=&quot;Races.html&quot; title=&quot;race&quot;&gt;race&lt;/a&gt; ou &lt;a class=&quot;pagelink&quot; href=&quot;Classes.html&quot; title=&quot;classe&quot;&gt;classe&lt;/a&gt;. Son &lt;a class=&quot;pagelink&quot; href=&quot;Alignement.html&quot; title=&quot;L&amp;#39;alignement&quot;&gt;alignement&lt;/a&gt; ne doit pas &#234;tre oppos&#233; &#224; celui du personnage, que ce soit sur l’axe Bien/Mal ou Loyal/Chaotique. Le personnage subit un malus de -1 &#224; sa valeur de Prestige s’il recrute un compagnon d’armes dont l’alignement diff&#232;re du sien.&lt;br /&gt;&lt;br /&gt;Le compagnon d’armes ne compte pas au nombre des membres du groupe quand il s’agit de r&#233;partir l’exp&#233;rience. Le personnage divise le niveau de son compagnon d’armes par le sien et multiplie le r&#233;sultat par le nombre total de &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#POINTSDEXPERIENCE&quot; title=&quot;PX&quot;&gt;points d&#39;exp&#233;rience&lt;/a&gt; qui lui ont &#233;t&#233; accord&#233;s. Il ajoute ensuite ce nombre au total d’exp&#233;rience de son compagnon. Si le compagnon d’armes du personnage gagne suffisamment d’exp&#233;rience pour acc&#233;der &#224; un niveau inf&#233;rieur de un &#224; celui du PJ, il ne peut pas gagner ce niveau : on consid&#232;re qu’il lui manque un point pour l’atteindre.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Nombre de suivants par niveau.&lt;/b&gt; Le personnage peut diriger un total de suivants ne d&#233;passant pas le nombre indiqu&#233;. Les suivants ressemblent aux compagnons d’armes mais ils sont d’un niveau bien inf&#233;rieur &#224; celui du personnage : comme ils ont g&#233;n&#233;ralement cinq niveaux de moins, ils ne sont pas tr&#232;s efficaces au combat.&lt;br /&gt;&lt;br /&gt;Les suivants ne gagnent pas d’exp&#233;rience et ne gagnent donc pas de niveaux. Quand le personnage gagne un &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#NIVEAU&quot; title=&quot;niveau&quot;&gt;niveau&lt;/a&gt;, consultez la table ci-contre pour savoir s’il acquiert de nouveaux suivants dont certains peuvent &#234;tre de plus haut niveau que les pr&#233;c&#233;dents. En revanche, il n’est pas n&#233;cessaire de consulter la table pour savoir si les compagnons d&#39;armes gagnent des niveaux car ils gagnent leur exp&#233;rience de leur c&#244;t&#233;.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Modificateurs de Prestige.&lt;/b&gt; Plusieurs facteurs sont susceptibles de modifier la valeur de Prestige d’un personnage, qui n’est alors plus &#233;gale &#224; la valeur de base (niveau de personnage + modificateur de Cha). La r&#233;putation d’un personnage (du point de vue du compagnon d’armes ou du suivant dont il tente d’obtenir les services) augmente ou r&#233;duit sa valeur de Prestige.&lt;br /&gt;&lt;br /&gt;
+&lt;center&gt;&lt;br /&gt;&lt;br /&gt;&lt;table CLASS=&quot;tablo&quot;&gt;&lt;tr&gt;&lt;td&gt; Modificateurs de prestige&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td&gt;Le personnage a la r&#233;putation d’&#234;tre&lt;/td&gt;&lt;td&gt;Modificateur&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier&quot;&gt;&lt;td&gt;Un grand homme&lt;/td&gt;&lt;td&gt;+2&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;Juste et g&#233;n&#233;reux&lt;/td&gt;&lt;td&gt;+1&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Dot&#233; d’un pouvoir sp&#233;cial&lt;/td&gt;&lt;td&gt;+1&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;Accabl&#233; par les &#233;checs multiples&lt;/td&gt;&lt;td&gt;-1&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Hautain&lt;/td&gt;&lt;td&gt;-1&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;Cruel&lt;/td&gt;&lt;td&gt;-2&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+ 	
+&lt;/center&gt;&lt;br /&gt;&lt;br /&gt;
+D’autres modificateurs s’appliquent quand un personnage tente de gagner les services d’un compagnon d’armes.&lt;br /&gt;&lt;br /&gt;
+&lt;center&gt;
+ 	
+&lt;table CLASS=&quot;tablo&quot;&gt;&lt;tr&gt;&lt;td&gt; Modificateurs de prestige (compagnon d&#39;armes)&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td&gt;Le personnage&lt;/td&gt;&lt;td&gt;Modificateur&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier&quot;&gt;&lt;td&gt;A un familier, destrier de paladin ou compagnon animal&lt;/td&gt;&lt;td&gt;-2&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;Recrute un compagnon d’armes d’un alignement autre que le sien&lt;/td&gt;&lt;td&gt;-1&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;A d&#233;j&#224; caus&#233; la mort d’un compagnon d’armes&lt;/td&gt;&lt;td&gt;–2*&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+ 	
+ 	
+&lt;i&gt;(*) Par compagnon d’armes tu&#233; &#224; cause du PJ.&lt;/i&gt;
+ 	
+&lt;/center&gt;&lt;br /&gt;&lt;br /&gt;
+Les suivants n’ont pas les m&#234;mes propri&#233;t&#233;s que les compagnons d’armes. Quand le personnage tente de gagner les services d’un nouveau suivant, utilisez les modificateurs ci-dessous.&lt;br /&gt;&lt;br /&gt;
+&lt;center&gt;
+ 	
+&lt;table CLASS=&quot;tablo&quot;&gt;&lt;tr&gt;&lt;td&gt; Modificateurs de prestige (suivants)&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td&gt;Le personnage&lt;/td&gt;&lt;td&gt;Modificateur&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier&quot;&gt;&lt;td&gt;Poss&#232;de une place forte, une base d’op&#233;rations, une guilde, etc.&lt;/td&gt;&lt;td&gt;+2&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;Voyage beaucoup&lt;/td&gt;&lt;td&gt;–1&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;A d&#233;j&#224; caus&#233; la mort d’autres suivants&lt;/td&gt;&lt;td&gt;–1&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+ 	
+&lt;/center&gt;
+]]></body>
+  <raw><![CDATA[''Le personnage attire des suivants et un compagnon d’armes qui se joignent à sa cause et l’accompagnent au cours de ses aventures.''
+
+'''Condition.''' Personnage de niveau 7.
+
+'''Avantage.''' Ce don permet au personnage de gagner les services d’un compagnon d’armes et de suivants qui l’aident de leur mieux. Le compagnon d’armes est souvent un PNJ avec des niveaux de [[classes|classe]] tandis que les suivants sont des PNJ de bas niveau. Consultez la Table ci-après pour connaître le [[niveau]] du compagnon d’armes et le nombre de suivants sur lesquels le personnage peut compter.
+
+<div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
+ 	
+<div style="border: 1px solid #4b3124; padding: 4px">
+ 	
+<center>
+ 	
+{| CLASS="tablo"
+ 	
+|+ Prestige
+ 	
+|- CLASS="titre"
+ 	
+| ROWSPAN="2" | Valeur de <br/>Prestige
+ 	
+| ROWSPAN="2" | Niveau du <br/>compagnon d'armes
+ 	
+| CLASS="avecsoustitres" COLSPAN="6" | Nombre de suivants par niveau
+ 	
+|- CLASS="soustitre"
+ 	
+| 1 || 2 || 3 || 4 || 5 || 6
+ 	
+|- CLASS="premier"
+ 	
+| 1 ou moins || — || — || — || — || — || — || —
+ 	
+|- CLASS="alt"
+ 	
+| 2 || 1 || — || — || — || — || — || —
+ 	
+|-
+ 	
+| 3 || 2 || — || — || — || — || — || —
+ 	
+|- CLASS="alt"
+ 	
+| 4 || 3 || — || — || — || — || — || —
+ 	
+|-
+ 	
+| 5 || 3 || — || — || — || — || — || —
+ 	
+|- CLASS="alt"
+ 	
+| 6 || 4 || — || — || — || — || — || —
+ 	
+|-
+ 	
+| 7 || 5 || — || — || — || — || — || —
+ 	
+|- CLASS="alt"
+ 	
+| 8 || 5 || — || — || — || — || — || —
+ 	
+|-
+ 	
+| 9 || 6 || — || — || — || — || — || —
+ 	
+|- CLASS="alt"
+ 	
+| 10 || 7 || 5 || — || — || — || — || —
+ 	
+|-
+ 	
+| 11 || 7 || 6 || — || — || — || — || —
+ 	
+|- CLASS="alt"
+ 	
+| 12 || 8 || 8 || — || — || — || — || —
+ 	
+|-
+ 	
+| 13 || 9 || 10 || 1 || — || — || — || —
+ 	
+|- CLASS="alt"
+ 	
+| 14 || 10 || 15 || 1 || — || — || — || —
+ 	
+|-
+ 	
+| 15 || 10 || 20 || 2 || 1 || — || — || —
+ 	
+|- CLASS="alt"
+ 	
+| 16 || 11 || 25 || 2 || 1 || — || — || —
+ 	
+|-
+ 	
+| 17 || 12 || 30 || 3 || 1 || 1 || — || —
+ 	
+|- CLASS="alt"
+ 	
+| 18 || 12 || 35 || 3 || 1 || 1 || — || —
+ 	
+|-
+ 	
+| 19 || 13 || 40 || 4 || 2 || 1 || 1 || —
+ 	
+|- CLASS="alt"
+ 	
+| 20 || 14 || 50 || 5 || 3 || 2 || 1 || —
+ 	
+|-
+ 	
+| 21 || 15 || 60 || 6 || 3 || 2 || 1 || 1
+ 	
+|- CLASS="alt"
+ 	
+| 22 || 15 || 75 || 7 || 4 || 2 || 2 || 1
+ 	
+|-
+ 	
+| 23 || 16 || 90 || 9 || 5 || 3 || 2 || 1
+ 	
+|- CLASS="alt"
+ 	
+| 24 || 17 || 110 || 11 || 6 || 3 || 2 || 1
+ 	
+|-
+ 	
+| 25 ou plus || 17 || 135 || 13 || 7 || 4 || 2 || 2
+ 	
+|}
+ 	
+</center></div></div>
+
+'''Valeur de Prestige.''' La valeur de Prestige du personnage est égale à son [[niveau]] plus son modificateur de [[Charisme]]. La table propose des valeurs de Prestige très basses pour tenir compte de plus basses valeurs de [[Charisme]], mais le personnage doit avoir atteint le niveau 7 au moins pour acquérir ce don. Des facteurs extérieurs peuvent modifier la valeur de Prestige, comme indiqué ci-dessous.
+
+
+'''Niveau du compagnon d’armes.''' Le personnage peut gagner les services d’un compagnon d’armes de ce niveau ou moins. À noter que, quelle que soit la valeur de Prestige du personnage, le niveau de son compagnon d’armes doit toujours être inférieur au sien de deux niveaux au moins. Le compagnon d’armes est équipé en fonction de son niveau (voir [[Créer des PNJ#TABLEEQUIPEMENTPNJ|la table d'équipement des PNJ]]). Le compagnon d’armes peut être de n’importe quelle [[race]] ou [[classe]]. Son [[alignement]] ne doit pas être opposé à celui du personnage, que ce soit sur l’axe Bien/Mal ou Loyal/Chaotique. Le personnage subit un malus de -1 à sa valeur de Prestige s’il recrute un compagnon d’armes dont l’alignement diffère du sien.
+
+Le compagnon d’armes ne compte pas au nombre des membres du groupe quand il s’agit de répartir l’expérience. Le personnage divise le niveau de son compagnon d’armes par le sien et multiplie le résultat par le nombre total de [[PX|points d'expérience]] qui lui ont été accordés. Il ajoute ensuite ce nombre au total d’expérience de son compagnon. Si le compagnon d’armes du personnage gagne suffisamment d’expérience pour accéder à un niveau inférieur de un à celui du PJ, il ne peut pas gagner ce niveau : on considère qu’il lui manque un point pour l’atteindre.
+
+'''Nombre de suivants par niveau.''' Le personnage peut diriger un total de suivants ne dépassant pas le nombre indiqué. Les suivants ressemblent aux compagnons d’armes mais ils sont d’un niveau bien inférieur à celui du personnage : comme ils ont généralement cinq niveaux de moins, ils ne sont pas très efficaces au combat.
+
+Les suivants ne gagnent pas d’expérience et ne gagnent donc pas de niveaux. Quand le personnage gagne un [[niveau]], consultez la table ci-contre pour savoir s’il acquiert de nouveaux suivants dont certains peuvent être de plus haut niveau que les précédents. En revanche, il n’est pas nécessaire de consulter la table pour savoir si les compagnons d'armes gagnent des niveaux car ils gagnent leur expérience de leur côté.
+
+'''Modificateurs de Prestige.''' Plusieurs facteurs sont susceptibles de modifier la valeur de Prestige d’un personnage, qui n’est alors plus égale à la valeur de base (niveau de personnage + modificateur de Cha). La réputation d’un personnage (du point de vue du compagnon d’armes ou du suivant dont il tente d’obtenir les services) augmente ou réduit sa valeur de Prestige.
+
+
+<center>
+
+{| CLASS="tablo"
+ 	
+|+ Modificateurs de prestige
+ 	
+|- CLASS="titre"
+ 	
+| Le personnage a la réputation d’être || Modificateur
+ 	
+|- CLASS="premier"
+ 	
+| Un grand homme || +2
+ 	
+|- CLASS="alt"
+ 	
+| Juste et généreux || +1
+ 	
+|-
+ 	
+| Doté d’un pouvoir spécial || +1
+ 	
+|- CLASS="alt"
+ 	
+| Accablé par les échecs multiples || -1
+ 	
+|-
+ 	
+| Hautain || -1
+ 	
+|- CLASS="alt"
+ 	
+| Cruel || -2
+ 	
+|}
+ 	
+</center>
+
+
+D’autres modificateurs s’appliquent quand un personnage tente de gagner les services d’un compagnon d’armes.
+
+
+<center>
+ 	
+{| CLASS="tablo"
+ 	
+|+ Modificateurs de prestige (compagnon d'armes)
+ 	
+|- CLASS="titre"
+ 	
+| Le personnage || Modificateur
+ 	
+|- CLASS="premier"
+ 	
+| A un familier, destrier de paladin ou compagnon animal || -2
+ 	
+|- CLASS="alt"
+ 	
+| Recrute un compagnon d’armes d’un alignement autre que le sien || -1
+ 	
+|-
+ 	
+| A déjà causé la mort d’un compagnon d’armes || –2*
+ 	
+|}
+ 	
+ 	
+''(*) Par compagnon d’armes tué à cause du PJ.''
+ 	
+</center>
+
+
+Les suivants n’ont pas les mêmes propriétés que les compagnons d’armes. Quand le personnage tente de gagner les services d’un nouveau suivant, utilisez les modificateurs ci-dessous.
+
+
+<center>
+ 	
+{| CLASS="tablo"
+ 	
+|+ Modificateurs de prestige (suivants)
+ 	
+|- CLASS="titre"
+ 	
+| Le personnage || Modificateur
+ 	
+|- CLASS="premier"
+ 	
+| Possède une place forte, une base d’opérations, une guilde, etc. || +2
+ 	
+|- CLASS="alt"
+ 	
+| Voyage beaucoup || –1
+ 	
+|-
+ 	
+| A déjà causé la mort d’autres suivants || –1
+ 	
+|}
+ 	
+</center>]]></raw>
+  <fullName>Pathfinder-RPG.Prestige</fullName>
+</wikiPage>

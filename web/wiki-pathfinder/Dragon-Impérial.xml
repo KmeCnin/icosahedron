@@ -1,0 +1,394 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Dragon impérial</title>
+  <categories><category>Pathfinder-RPG.Bestiaire 3</category><category>Pathfinder-RPG.Monstre</category><category>Pathfinder-RPG.Règles officielles</category></categories>
+  <lastModified>2013-10-07 21:44:01Z</lastModified>
+  <version>11</version>
+  <inLinks><link>Pathfinder-RPG.Monstres</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.FP</link><link>Pathfinder-RPG.catégorie de taille</link><link>Pathfinder-RPG.Souffle (capacité)</link><link>Pathfinder-RPG.Action simple</link><link>Pathfinder-RPG.Valeurs de combat</link><link>Pathfinder-RPG.Manœuvres offensives</link><link>Pathfinder-RPG.Agrippé</link><link>Pathfinder-RPG.Immunité (capacité)</link><link>Pathfinder-RPG.Réduction de dégâts (capacité)</link><link>Pathfinder-RPG.Résistance à la magie (capacité)</link><link>Pathfinder-RPG.Perception aveugle (capacité)</link><link>Pathfinder-RPG.vision dans le noir</link><link>Pathfinder-RPG.Ensorceleur</link></outLinks>
+  <body><![CDATA[&lt;table id=&quot;TocContainerTable&quot;&gt;&lt;tr&gt;&lt;td&gt;&lt;div id=&quot;TocContainer&quot;&gt;&lt;p class=&quot;small&quot;&gt;&lt;b&gt;Table of Contents&lt;/b&gt;&lt;span id=&quot;ExpandTocSpan&quot;&gt; [&lt;a href=&quot;#&quot; onclick=&quot;javascript:if(document.getElementById(&#39;Toc&#39;).style[&#39;display&#39;]==&#39;none&#39;) document.getElementById(&#39;Toc&#39;).style[&#39;display&#39;]=&#39;&#39;; else document.getElementById(&#39;Toc&#39;).style[&#39;display&#39;]=&#39;none&#39;; return false;&quot;&gt;Hide/Show&lt;/a&gt;]&lt;/span&gt;&lt;/p&gt;&lt;div id=&quot;Toc&quot;&gt;&lt;p&gt;&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;#Cat&#233;gories_d&#226;ge_0&quot;&gt;Cat&#233;gories d&#39;&#226;ge&lt;/a&gt;&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;#Combat_1&quot;&gt;Combat&lt;/a&gt;&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;#R&#232;gles_additionnelles_pour_les_dragons_2&quot;&gt;R&#232;gles additionnelles pour les dragons&lt;/a&gt;&lt;br /&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;br /&gt;&lt;i&gt;Sources : Bestiaire 3, p.94&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Si les dragons chromatiques et les dragons m&#233;talliques sont les plus connus, il existe aussi d’autres cat&#233;gories de v&#233;ritables dragons. Voici les cinq dragons imp&#233;riaux, gardes royaux des territoires anciens et serviteurs de l’&#233;quilibre cosmique.&lt;br /&gt;&lt;br /&gt;&lt;h2 class=&quot;separator&quot;&gt;Cat&#233;gories d&#39;&#226;ge&lt;a class=&quot;headeranchor&quot; id=&quot;Cat&#233;gories_d&#226;ge_0&quot; href=&quot;#Cat&#233;gories_d&#226;ge_0&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;Nombre des capacit&#233;s, des attaques et autres caract&#233;ristiques d’un v&#233;ritable dragon s’am&#233;liorent &#224; mesure qu’il vieillit. Les augmentations sont r&#233;parties en 12 cat&#233;gories d’&#226;ge : les changements des caract&#233;ristiques de base qui s’effectuent alors que le dragon vieillit sont indiqu&#233;s dans la table des Cat&#233;gories d’&#226;ge des dragons.&lt;br /&gt;&lt;br /&gt;&lt;center&gt;
+&lt;table CLASS=&quot;tablo&quot;&gt;&lt;caption&gt;Cat&#233;gories d’&#226;ge des dragons&lt;/caption&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td&gt;Cat&#233;gorie d’&#226;ge&lt;/td&gt;&lt;td&gt;&#194;ge en ann&#233;es&lt;/td&gt;&lt;td&gt;FP&lt;/td&gt;&lt;td&gt;Taille&lt;/td&gt;&lt;td&gt;DV &lt;/td&gt;&lt;td&gt;Armure naturelle&lt;/td&gt;&lt;td&gt;Souffle&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier&quot;&gt;&lt;td&gt;1 Dragonnet&lt;/td&gt;&lt;td&gt;0–5&lt;/td&gt;&lt;td&gt;Base&lt;/td&gt;&lt;td&gt;Base&lt;/td&gt;&lt;td&gt;Base&lt;/td&gt;&lt;td&gt;Base&lt;/td&gt;&lt;td&gt;Base&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;2 Tr&#232;s jeune&lt;/td&gt;&lt;td&gt;6–15&lt;/td&gt;&lt;td&gt;Base +2&lt;/td&gt;&lt;td&gt;Base +1&lt;/td&gt;&lt;td&gt;Base +2&lt;/td&gt;&lt;td&gt;Base +3&lt;/td&gt;&lt;td&gt;Base &#215;2&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;3 Jeune&lt;/td&gt;&lt;td&gt;16–25&lt;/td&gt;&lt;td&gt;Base +4&lt;/td&gt;&lt;td&gt;Base +2&lt;/td&gt;&lt;td&gt;Base +4&lt;/td&gt;&lt;td&gt;Base +6&lt;/td&gt;&lt;td&gt;Base &#215;3&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;4 Adolescent&lt;/td&gt;&lt;td&gt;26–50&lt;/td&gt;&lt;td&gt;Base +5&lt;/td&gt;&lt;td&gt;Base +2&lt;/td&gt;&lt;td&gt;Base +6&lt;/td&gt;&lt;td&gt;Base +9&lt;/td&gt;&lt;td&gt;Base &#215;4&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;5 Jeune adulte&lt;/td&gt;&lt;td&gt;51–100&lt;/td&gt;&lt;td&gt;Base +7&lt;/td&gt;&lt;td&gt;Base +3&lt;/td&gt;&lt;td&gt;Base +8&lt;/td&gt;&lt;td&gt;Base +12&lt;/td&gt;&lt;td&gt;Base &#215;5&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;6 Adulte&lt;/td&gt;&lt;td&gt;101–200&lt;/td&gt;&lt;td&gt;Base +8&lt;/td&gt;&lt;td&gt;Base +3&lt;/td&gt;&lt;td&gt;Base +10&lt;/td&gt;&lt;td&gt;Base +15&lt;/td&gt;&lt;td&gt;Base &#215;6&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;7 &#194;ge m&#251;r&lt;/td&gt;&lt;td&gt;201–400&lt;/td&gt;&lt;td&gt;Base +9&lt;/td&gt;&lt;td&gt;Base +3&lt;/td&gt;&lt;td&gt;Base +12&lt;/td&gt;&lt;td&gt;Base +18&lt;/td&gt;&lt;td&gt;Base &#215;7&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;8 Vieux&lt;/td&gt;&lt;td&gt;401–600&lt;/td&gt;&lt;td&gt;Base +11&lt;/td&gt;&lt;td&gt;Base +4&lt;/td&gt;&lt;td&gt;Base +14&lt;/td&gt;&lt;td&gt;Base +21&lt;/td&gt;&lt;td&gt;Base &#215;8&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;9 Tr&#232;s vieux&lt;/td&gt;&lt;td&gt;601–800&lt;/td&gt;&lt;td&gt;Base +12&lt;/td&gt;&lt;td&gt;Base +4&lt;/td&gt;&lt;td&gt;Base +16&lt;/td&gt;&lt;td&gt;Base +24&lt;/td&gt;&lt;td&gt;Base &#215;9&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;10 V&#233;n&#233;rable&lt;/td&gt;&lt;td&gt;801–1 000&lt;/td&gt;&lt;td&gt;Base +13&lt;/td&gt;&lt;td&gt;Base +4&lt;/td&gt;&lt;td&gt;Base +18&lt;/td&gt;&lt;td&gt;Base +27&lt;/td&gt;&lt;td&gt;Base &#215;10&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;11 Dracosire&lt;/td&gt;&lt;td&gt;1 001–1 200&lt;/td&gt;&lt;td&gt;Base +14&lt;/td&gt;&lt;td&gt;Base +4&lt;/td&gt;&lt;td&gt;Base +20&lt;/td&gt;&lt;td&gt;Base +30&lt;/td&gt;&lt;td&gt;Base &#215;11&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;12 Grand dracosire&lt;/td&gt;&lt;td&gt;1 201+&lt;/td&gt;&lt;td&gt;Base +16&lt;/td&gt;&lt;td&gt;Base +5&lt;/td&gt;&lt;td&gt;Base +22&lt;/td&gt;&lt;td&gt;Base +33&lt;/td&gt;&lt;td&gt;Base &#215;12&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/center&gt;&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Cat&#233;gorie d’&#226;ge.&lt;/b&gt; Il s’agit de l’intitul&#233; de la cat&#233;gorie d’&#226;ge.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;b&gt;&#194;ge (ann&#233;es).&lt;/b&gt; Il s’agit de l’&#226;ge actuel du dragon.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;b&gt;FP.&lt;/b&gt; Cette colonne modifie le &lt;a class=&quot;pagelink&quot; href=&quot;Rencontres.html#FP&quot; title=&quot;FP&quot;&gt;FP&lt;/a&gt; de base du dragon.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Taille.&lt;/b&gt; Cette colonne indique le nombre de &lt;a class=&quot;pagelink&quot; href=&quot;Petites-Et-Grandes-Cr&#233;atures.html#TABLEAUTAILLES&quot; title=&quot;cat&#233;gorie de taille&quot;&gt;cat&#233;gories de taille&lt;/a&gt; qui viennent augmenter la taille de base du dragon, en fonction de son &#226;ge (de taille TP &#224; P, de taille P &#224; M, etc.). Un v&#233;ritable dragon n’am&#233;liore pas ses valeurs de caract&#233;ristique lorsqu’il atteint la taille G. Au lieu de cela, il gagne des augmentations de caract&#233;ristique en fonction de sa cat&#233;gorie d’&#226;ge, comme indiqu&#233; dans la table des Valeurs de caract&#233;ristique des dragons.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;b&gt;D&#233;s de vie.&lt;/b&gt; Indique le nombre de d&#233;s de vie suppl&#233;mentaires s’ajoutant aux d&#233;s de vie de base du dragon &#224; mesure qu’il grandit. Les augmentations de d&#233;s de vie accordent des points de vie, des dons et des rangs de comp&#233;tence suppl&#233;mentaires en plus d’augmenter le bonus de base &#224; l’attaque et les bonus de sauvegarde du dragon. Un dragon a un nombre de rangs de comp&#233;tences &#233;gal &#224; 6 + son modificateur d’Intelligence par d&#233; de vie. Les augmentations des valeurs de caract&#233;ristiques du dragon correspondant au gain de d&#233;s de vie sont inclues dans sa valeur totale de caract&#233;ristiques comme indiqu&#233; sur table des Caract&#233;ristiques des dragons.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Armure naturelle.&lt;/b&gt; Indique de combien le bonus d’armure naturelle de base du dragon augmente &#224; chaque cat&#233;gorie d’&#226;ge.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Souffle.&lt;/b&gt; Chaque dragon poss&#232;de un &lt;a class=&quot;pagelink&quot; href=&quot;Souffle-(Capacit&#233;).html&quot; title=&quot;Souffle (Sur)&quot;&gt;souffle&lt;/a&gt; (cf. Combat) infligeant un nombre de points de d&#233;g&#226;ts de base. Ce multiplicateur augmente le nombre de d&#233;s de d&#233;g&#226;ts qu’inflige le souffle du dragon. Par exemple, un dragon adulte d’&#226;ge m&#251;r dont le souffle de base inflige 2d6 points de d&#233;g&#226;ts d’acide inflige 14d6 points de d&#233;g&#226;ts d’acide (en raison du multiplicateur &#215;7).&lt;br /&gt;&lt;br /&gt;&lt;center&gt;
+&lt;table CLASS=&quot;tablo&quot;&gt;&lt;caption&gt;Caract&#233;ristiques des dragons&lt;/caption&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td&gt;Cat&#233;gorie d’&#226;ge&lt;/td&gt;&lt;td&gt;Force&lt;/td&gt;&lt;td&gt;Dext&#233;rit&#233;&lt;/td&gt;&lt;td&gt;Constitution&lt;/td&gt;&lt;td&gt;Intelligence&lt;/td&gt;&lt;td&gt;Sagesse&lt;/td&gt;&lt;td&gt;Charisme&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier&quot;&gt;&lt;td&gt;1 Dragonnet&lt;/td&gt;&lt;td&gt;Base&lt;/td&gt;&lt;td&gt;Base&lt;/td&gt;&lt;td&gt;Base&lt;/td&gt;&lt;td&gt;Base&lt;/td&gt;&lt;td&gt;Base&lt;/td&gt;&lt;td&gt;Base&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;2 Tr&#232;s jeune&lt;/td&gt;&lt;td&gt;Base +4&lt;/td&gt;&lt;td&gt;Base –2&lt;/td&gt;&lt;td&gt;Base +2&lt;/td&gt;&lt;td&gt;Base +2&lt;/td&gt;&lt;td&gt;Base +2&lt;/td&gt;&lt;td&gt;Base +2&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;3 Jeune&lt;/td&gt;&lt;td&gt;Base +8&lt;/td&gt;&lt;td&gt;Base –2&lt;/td&gt;&lt;td&gt;Base +4&lt;/td&gt;&lt;td&gt;Base +2&lt;/td&gt;&lt;td&gt;Base +2&lt;/td&gt;&lt;td&gt;Base +2&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;4 Adolescent&lt;/td&gt;&lt;td&gt;Base +10&lt;/td&gt;&lt;td&gt;Base –2&lt;/td&gt;&lt;td&gt;Base +6&lt;/td&gt;&lt;td&gt;Base +4&lt;/td&gt;&lt;td&gt;Base +4&lt;/td&gt;&lt;td&gt;Base +4&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;5 Jeune adulte&lt;/td&gt;&lt;td&gt;Base +12&lt;/td&gt;&lt;td&gt;Base –4&lt;/td&gt;&lt;td&gt;Base +6&lt;/td&gt;&lt;td&gt;Base +4&lt;/td&gt;&lt;td&gt;Base +4&lt;/td&gt;&lt;td&gt;Base +4&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;6 Adulte&lt;/td&gt;&lt;td&gt;Base +14&lt;/td&gt;&lt;td&gt;Base –4&lt;/td&gt;&lt;td&gt;Base +8&lt;/td&gt;&lt;td&gt;Base +6&lt;/td&gt;&lt;td&gt;Base +6&lt;/td&gt;&lt;td&gt;Base +6&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;7 &#194;ge m&#251;r&lt;/td&gt;&lt;td&gt;Base +16&lt;/td&gt;&lt;td&gt;Base –4&lt;/td&gt;&lt;td&gt;Base +8&lt;/td&gt;&lt;td&gt;Base +6&lt;/td&gt;&lt;td&gt;Base +6&lt;/td&gt;&lt;td&gt;Base +6&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;8 Vieux&lt;/td&gt;&lt;td&gt;Base +18&lt;/td&gt;&lt;td&gt;Base –6&lt;/td&gt;&lt;td&gt;Base +10&lt;/td&gt;&lt;td&gt;Base +8&lt;/td&gt;&lt;td&gt;Base +8&lt;/td&gt;&lt;td&gt;Base +8&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;9 Tr&#232;s vieux&lt;/td&gt;&lt;td&gt;Base +20&lt;/td&gt;&lt;td&gt;Base –6&lt;/td&gt;&lt;td&gt;Base +10&lt;/td&gt;&lt;td&gt;Base +8&lt;/td&gt;&lt;td&gt;Base +8&lt;/td&gt;&lt;td&gt;Base +8&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;10 V&#233;n&#233;rable&lt;/td&gt;&lt;td&gt;Base +22&lt;/td&gt;&lt;td&gt;Base –6&lt;/td&gt;&lt;td&gt;Base +12&lt;/td&gt;&lt;td&gt;Base +10&lt;/td&gt;&lt;td&gt;Base +10&lt;/td&gt;&lt;td&gt;Base +10&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;11 Dracosire&lt;/td&gt;&lt;td&gt;Base +24&lt;/td&gt;&lt;td&gt;Base –8&lt;/td&gt;&lt;td&gt;Base +12&lt;/td&gt;&lt;td&gt;Base +10&lt;/td&gt;&lt;td&gt;Base +10&lt;/td&gt;&lt;td&gt;Base +10&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;12 Grand dracosire&lt;/td&gt;&lt;td&gt;Base +26&lt;/td&gt;&lt;td&gt;Base –8&lt;/td&gt;&lt;td&gt;Base +14&lt;/td&gt;&lt;td&gt;Base +12&lt;/td&gt;&lt;td&gt;Base +12&lt;/td&gt;&lt;td&gt;Base +12&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/center&gt;&lt;br /&gt;&lt;br /&gt;
+&lt;h2 class=&quot;separator&quot;&gt;Combat&lt;a class=&quot;headeranchor&quot; id=&quot;Combat_1&quot; href=&quot;#Combat_1&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;La table des Attaques et Vitesses de d&#233;placement des dragons indique les attaques que le dragon peut effectuer et les d&#233;g&#226;ts qu’il inflige (un tiret indique qu’un dragon de cette taille ne poss&#232;de pas cette attaque naturelle). &lt;br /&gt;&lt;br /&gt;&lt;center&gt;
+&lt;table CLASS=&quot;tablo&quot;&gt;&lt;caption&gt;Attaques et Vitesses de d&#233;placement des dragons&lt;/caption&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td&gt;Taille&lt;/td&gt;&lt;td&gt;Vitesse de vol (manœuvrabilit&#233;)&lt;/td&gt;&lt;td&gt;1 morsure&lt;/td&gt;&lt;td&gt;2 griffes&lt;/td&gt;&lt;td&gt;corne &lt;/td&gt;&lt;td&gt;1 coup de queue&lt;/td&gt;&lt;td&gt;1 &#233;crasement&lt;/td&gt;&lt;td&gt;1 balayage avec la queue&lt;/td&gt;&lt;td&gt;Souffle Ligne&lt;/td&gt;&lt;td&gt;Souffle C&#244;ne&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier&quot;&gt;&lt;td&gt;Tr&#232;s Petit&lt;/td&gt;&lt;td&gt;30 m (20 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) (moyenne)&lt;/td&gt;&lt;td&gt;1d4&lt;/td&gt;&lt;td&gt;1d3&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;td&gt;9 m (6&amp;nbsp;&lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)&lt;/td&gt;&lt;td&gt;4,50 m (3&amp;nbsp;&lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;Petit&lt;/td&gt;&lt;td&gt;45 m (30 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) (moyenne) &lt;/td&gt;&lt;td&gt;1d6&lt;/td&gt;&lt;td&gt;1d4&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;td&gt;12 m (8&amp;nbsp;&lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)&lt;/td&gt;&lt;td&gt;6 m (4&amp;nbsp;&lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Moyen&lt;/td&gt;&lt;td&gt;45 m (30 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) (moyenne) &lt;/td&gt;&lt;td&gt;1d8&lt;/td&gt;&lt;td&gt;1d6&lt;/td&gt;&lt;td&gt;1d6&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;td&gt;18 m (12&amp;nbsp;&lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)&lt;/td&gt;&lt;td&gt;9 m (6&amp;nbsp;&lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;Grand&lt;/td&gt;&lt;td&gt;60 m (40 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) (m&#233;diocre) &lt;/td&gt;&lt;td&gt;2d6&lt;/td&gt;&lt;td&gt;1d8&lt;/td&gt;&lt;td&gt;1d8&lt;/td&gt;&lt;td&gt;1d8&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;td&gt;24 m (16&amp;nbsp;&lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)&lt;/td&gt;&lt;td&gt;12 m (8&amp;nbsp;&lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Tr&#232;s Grand&lt;/td&gt;&lt;td&gt;60 m (40 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) (m&#233;diocre) &lt;/td&gt;&lt;td&gt;2d8&lt;/td&gt;&lt;td&gt;2d6&lt;/td&gt;&lt;td&gt;2d6&lt;/td&gt;&lt;td&gt;2d6&lt;/td&gt;&lt;td&gt;2d8&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;td&gt;30 m (20&amp;nbsp;&lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)&lt;/td&gt;&lt;td&gt;15 m (10&amp;nbsp;&lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;Gigantesque&lt;/td&gt;&lt;td&gt;75 m (60 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) (d&#233;plorable) &lt;/td&gt;&lt;td&gt;4d6&lt;/td&gt;&lt;td&gt;2d8&lt;/td&gt;&lt;td&gt;2d8&lt;/td&gt;&lt;td&gt;2d8&lt;/td&gt;&lt;td&gt;4d6&lt;/td&gt;&lt;td&gt;2d6&lt;/td&gt;&lt;td&gt;36 m (24 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)&lt;/td&gt;&lt;td&gt;18 m (12 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Colossal&lt;/td&gt;&lt;td&gt;75 m (60 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) (d&#233;plorable) &lt;/td&gt;&lt;td&gt;4d8&lt;/td&gt;&lt;td&gt;4d6&lt;/td&gt;&lt;td&gt;4d8&lt;/td&gt;&lt;td&gt;4d6&lt;/td&gt;&lt;td&gt;4d8&lt;/td&gt;&lt;td&gt;2d8&lt;/td&gt;&lt;td&gt;42 m (28 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)&lt;/td&gt;&lt;td&gt;21 m (14 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/center&gt;&lt;br /&gt;&lt;br /&gt;Voici les autres capacit&#233;s que gagnent les dragons lorsqu’ils atteignent une cat&#233;gorie d’&#226;ge sp&#233;cifique.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Balayage avec la queue (Ext).&lt;/b&gt; Ceci permet &#224; un dragon de taille Gig, ou plus grand, de balayer une zone avec sa queue par une &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions.html#SIMPLE&quot; title=&quot;Action simple&quot;&gt;action simple&lt;/a&gt;. Le balayage affecte un demi-cercle de 9 m (6 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) de rayon (ou 12 m (8 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) pour un dragon de taille Col), centr&#233; sur n’importe quelle intersection bordant l’espace occup&#233; par le dragon, dans n’importe quelle direction. Toutes les cr&#233;atures situ&#233;es dans la zone balay&#233;e sont affect&#233;es si elles sont plus petites que le dragon de quatre &lt;a class=&quot;pagelink&quot; href=&quot;Petites-Et-Grandes-Cr&#233;atures.html#TABLEAUTAILLES&quot; title=&quot;cat&#233;gorie de taille&quot;&gt;cat&#233;gories de taille&lt;/a&gt; ou plus. Un balayage avec la queue inflige automatiquement les d&#233;g&#226;ts indiqu&#233;s plus 1,5 fois le bonus de Force du dragon. Les cr&#233;atures affect&#233;es peuvent tenter un jet de &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;Valeurs de combat&quot;&gt;R&#233;flexes&lt;/a&gt; pour ne recevoir que la moiti&#233; des d&#233;g&#226;ts (DD &#233;gal &#224; celui du souffle du dragon).&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Corne.&lt;/b&gt; Les dragons imp&#233;riaux de taille M ou plus grands &#233;tant d&#233;pourvus d’ailes, ils ont une attaque de corne et non d’ailes. L’attaque de corne constitue une attaque primaire infligeant le nombre de d&#233;g&#226;ts indiqu&#233;s plus 1,5 fois le bonus de Force du dragon. Les cornes des dragons imp&#233;riaux ont une allonge, comme si la cr&#233;ature &#233;tait plus grande d’une cat&#233;gorie de taille (+3 m&#232;tres pour les dragons de taille Col).&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Coup de queue.&lt;/b&gt; Le dragon peut donner un coup de queue &#224; un ennemi &#224; chaque round. Un coup de queue est une attaque secondaire infligeant le nombre de d&#233;g&#226;ts indiqu&#233; plus 1,5 fois le bonus de Force du dragon (il s’agit d’une exception &#224; la r&#232;gle normale des attaques secondaires).&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;b&gt;&#201;crasement (Ext).&lt;/b&gt; Un dragon de taille TG, ou plus grand, qui vole ou saute, peut atterrir sur ses ennemis par une &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions.html#SIMPLE&quot; title=&quot;Action simple&quot;&gt;action simple&lt;/a&gt;, utilisant tout son corps pour les &#233;craser. Les &#233;crasements ne sont efficaces que contre les adversaires plus petits que le dragon de 3 &lt;a class=&quot;pagelink&quot; href=&quot;Petites-Et-Grandes-Cr&#233;atures.html#TABLEAUTAILLES&quot; title=&quot;cat&#233;gorie de taille&quot;&gt;cat&#233;gories de taille&lt;/a&gt; ou plus. Un &#233;crasement affecte autant de cr&#233;atures que peut en contenir l’espace occup&#233; par le dragon. Les cr&#233;atures situ&#233;es dans la zone affect&#233;e doivent r&#233;ussir un jet de &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;Valeurs de combat&quot;&gt;R&#233;flexes&lt;/a&gt; (DD &#233;gal &#224; celui du souffle du dragon) ou &#234;tre immobilis&#233;es, recevant automatiquement des d&#233;g&#226;ts contondants lors du prochain round, &#224; moins que le dragon ne les lib&#232;re. Si le dragon d&#233;cide de les maintenir immobiles, il doit r&#233;ussir un &lt;a class=&quot;pagelink&quot; href=&quot;Manœuvres-Offensives.html&quot; title=&quot;Les manœuvres de combat&quot;&gt;test de manoeuvre offensive&lt;/a&gt; normalement. Les adversaires immobilis&#233;s re&#231;oivent les d&#233;g&#226;ts de l’&#233;crasement tous les rounds s’ils ne s’&#233;chappent pas. Un &#233;crasement inflige les d&#233;g&#226;ts indiqu&#233;s plus 1,5 fois le bonus de Force du dragon.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Griffes.&lt;/b&gt; Ces attaques primaires infligent le nombre de d&#233;g&#226;ts indiqu&#233;s plus le bonus de Force du dragon.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Morsure.&lt;/b&gt; Il s’agit d’une attaque primaire infligeant les d&#233;g&#226;ts indiqu&#233;s plus 1,5 fois le bonus de Force du dragon (m&#234;me s’il a plus d’une attaque). La morsure d’un dragon a une allonge, comme si la cr&#233;ature &#233;tait plus grande d’une &lt;a class=&quot;pagelink&quot; href=&quot;Petites-Et-Grandes-Cr&#233;atures.html#TABLEAUTAILLES&quot; title=&quot;cat&#233;gorie de taille&quot;&gt;cat&#233;gorie de taille&lt;/a&gt; (+3 m&#232;tres pour les dragons de taille Col).&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Souffle (Sur).&lt;/b&gt; Il suffit d’une &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions.html#SIMPLE&quot; title=&quot;Action simple&quot;&gt;action simple&lt;/a&gt; au dragon pour utiliser son &lt;a class=&quot;pagelink&quot; href=&quot;Souffle-(Capacit&#233;).html&quot; title=&quot;Souffle (Sur)&quot;&gt;souffle&lt;/a&gt;. Il peut l’utiliser tous les 1d4 rounds, m&#234;me s’il a plus d’un souffle. Un souffle part toujours d’une intersection adjacente au dragon dans la direction qu’il choisit. Les souffles se pr&#233;sentent sous deux formes, en ligne ou en c&#244;ne, et la zone couverte d&#233;pend de la taille du dragon. Si un souffle inflige des d&#233;g&#226;ts, ceux qui sont pris dans la zone peuvent tenter un jet de &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;Valeurs de combat&quot;&gt;R&#233;flexes&lt;/a&gt; pour ne recevoir que la moiti&#233; des d&#233;g&#226;ts. Le DD du jet de sauvegarde contre un souffle de dragon est de 10 + 1/2 nombre de DV du dragon + le modificateur de Con du dragon. Les jets de sauvegarde contre les diff&#233;rents types de souffles utilisent le m&#234;me DD : le type du jet de sauvegarde est indiqu&#233; dans la description du souffle. Le dragon peut utiliser son souffle lorsqu’il &lt;a class=&quot;pagelink&quot; href=&quot;Manœuvres-Offensives.html#LUTTE&quot; title=&quot;Les manœuvres de combat&quot;&gt;lutte&lt;/a&gt; ou est &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables.html#Agripp&#233;&quot; title=&quot;Agripp&#233;&quot;&gt;agripp&#233;&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Vitesse de vol.&lt;/b&gt; La vitesse de vol du dragon augmente, comme pr&#233;cis&#233;, selon sa taille. Les dragons imp&#233;riaux n’ayant pas d’ailes, leur capacit&#233; &#224; voler est surnaturelle.&lt;br /&gt;&lt;br /&gt;
+&lt;h2 class=&quot;separator&quot;&gt;R&#232;gles additionnelles pour les dragons&lt;a class=&quot;headeranchor&quot; id=&quot;R&#232;gles_additionnelles_pour_les_dragons_2&quot; href=&quot;#R&#232;gles_additionnelles_pour_les_dragons_2&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;&lt;b&gt;Immunit&#233;s (Ext).&lt;/b&gt; Tous les dragons sont &lt;a class=&quot;pagelink&quot; href=&quot;Immunit&#233;-(Capacit&#233;).html&quot; title=&quot;Immunit&#233; (Ext ou Sur)&quot;&gt;immunis&#233;s&lt;/a&gt; contre les effets de sommeil et de paralysie. En outre, ils sont immunis&#233;s contre un ou plusieurs types d’attaque suppl&#233;mentaires ou d&#233;g&#226;ts d’&#233;nergie, quel que soit leur &#226;ge, comme indiqu&#233; dans leurs descriptions sp&#233;cifiques.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Pouvoirs magiques.&lt;/b&gt; Le niveau de lanceur de sorts du dragon, pour ses pouvoirs magiques, est &#233;gal &#224; son total de d&#233;s de vie.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Pr&#233;sence terrifiante (Ext).&lt;/b&gt; La pr&#233;sence terrifiante du dragon a une port&#233;e &#233;gale &#224; 9 m (6 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) &#215; la cat&#233;gorie d’&#226;ge du dragon. Pour le reste, elle fonctionne comme pr&#233;cis&#233; dans les r&#232;gles universelles des monstres, en annexes.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;b&gt;R&#233;duction de d&#233;g&#226;ts.&lt;/b&gt; Les dragons gagnent une &lt;a class=&quot;pagelink&quot; href=&quot;R&#233;duction-De-D&#233;g&#226;ts-(Capacit&#233;).html&quot; title=&quot;R&#233;duction de d&#233;g&#226;ts (Ext ou Sur)&quot;&gt;r&#233;duction de d&#233;g&#226;ts&lt;/a&gt; &#224; mesure qu’ils vieillissent, comme indiqu&#233; dans chaque en-t&#234;te de dragon. Leurs armes naturelles sont consid&#233;r&#233;es comme des armes magiques quand il s’agit de passer une r&#233;duction de d&#233;g&#226;ts.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;b&gt;R&#233;sistance &#224; la magie (Ext).&lt;/b&gt; &#192; mesure qu’ils vieillissent, les dragons deviennent plus r&#233;sistants aux sorts et aux pouvoirs magiques, comme sp&#233;cifi&#233; dans la description de chacun. La &lt;a class=&quot;pagelink&quot; href=&quot;R&#233;sistance-&#192;-La-Magie-(Capacit&#233;).html&quot; title=&quot;R&#233;sistance &#224; la magie (Ext)&quot;&gt;RM&lt;/a&gt; du dragon est &#233;gale &#224; 11 + son FP.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Sens draconiques (Ext).&lt;/b&gt; Les dragons poss&#232;dent &lt;a class=&quot;pagelink&quot; href=&quot;Perception-Aveugle-(Capacit&#233;).html&quot; title=&quot;Perception aveugle (Ext)&quot;&gt;perception aveugle&lt;/a&gt; &#224; 18 m (12 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) et &lt;a class=&quot;pagelink&quot; href=&quot;Capacit&#233;s-Sp&#233;ciales.html#VISIONDANSLENOIR&quot; title=&quot;vision dans le noir&quot;&gt;vision dans le noir&lt;/a&gt; &#224; 36 m (24 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;). Ils voient quatre fois plus loin qu’un humain dans les espaces &#224; faible luminosit&#233; et deux fois en cas de luminosit&#233; normale.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Sorts.&lt;/b&gt; Le dragon conna&#238;t et lance des sorts profanes comme un &lt;a class=&quot;pagelink&quot; href=&quot;Ensorceleur.html&quot; title=&quot;L&amp;#39;ensorceleur&quot;&gt;ensorceleur&lt;/a&gt; du niveau indiqu&#233; dans sa description. Son niveau de lanceur de sorts d&#233;pend de son &#226;ge, comme indiqu&#233;.
+]]></body>
+  <raw><![CDATA[{toc}
+
+''Sources : Bestiaire 3, p.94''
+
+Si les dragons chromatiques et les dragons métalliques sont les plus connus, il existe aussi d’autres catégories de véritables dragons. Voici les cinq dragons impériaux, gardes royaux des territoires anciens et serviteurs de l’équilibre cosmique.
+
+===Catégories d'âge===
+Nombre des capacités, des attaques et autres caractéristiques d’un véritable dragon s’améliorent à mesure qu’il vieillit. Les augmentations sont réparties en 12 catégories d’âge : les changements des caractéristiques de base qui s’effectuent alors que le dragon vieillit sont indiqués dans la table des Catégories d’âge des dragons.
+
+<center>
+{| CLASS="tablo"
+|+ Catégories d’âge des dragons
+|- CLASS="titre"
+| Catégorie d’âge
+| Âge en années
+| FP
+| Taille
+| DV 
+| Armure naturelle
+| Souffle
+|- CLASS="premier"
+| 1 Dragonnet
+| 0–5
+| Base
+| Base
+| Base
+| Base
+| Base
+|- CLASS="alt"
+| 2 Très jeune
+| 6–15
+| Base +2
+| Base +1
+| Base +2
+| Base +3
+| Base ×2
+|-
+| 3 Jeune
+| 16–25
+| Base +4
+| Base +2
+| Base +4
+| Base +6
+| Base ×3
+|- CLASS="alt"
+| 4 Adolescent
+| 26–50
+| Base +5
+| Base +2
+| Base +6
+| Base +9
+| Base ×4
+|-
+| 5 Jeune adulte
+| 51–100
+| Base +7
+| Base +3
+| Base +8
+| Base +12
+| Base ×5
+|- CLASS="alt"
+| 6 Adulte
+| 101–200
+| Base +8
+| Base +3
+| Base +10
+| Base +15
+| Base ×6
+|-
+| 7 Âge mûr
+| 201–400
+| Base +9
+| Base +3
+| Base +12
+| Base +18
+| Base ×7
+|- CLASS="alt"
+| 8 Vieux
+| 401–600
+| Base +11
+| Base +4
+| Base +14
+| Base +21
+| Base ×8
+|-
+| 9 Très vieux
+| 601–800
+| Base +12
+| Base +4
+| Base +16
+| Base +24
+| Base ×9
+|- CLASS="alt"
+| 10 Vénérable
+| 801–1 000
+| Base +13
+| Base +4
+| Base +18
+| Base +27
+| Base ×10
+|-
+| 11 Dracosire
+| 1 001–1 200
+| Base +14
+| Base +4
+| Base +20
+| Base +30
+| Base ×11
+|- CLASS="alt"
+| 12 Grand dracosire
+| 1 201+
+| Base +16
+| Base +5
+| Base +22
+| Base +33
+| Base ×12
+|}
+</center>
+
+'''Catégorie d’âge.''' Il s’agit de l’intitulé de la catégorie d’âge.<br>
+
+'''Âge (années).''' Il s’agit de l’âge actuel du dragon.<br>
+
+'''FP.''' Cette colonne modifie le [[FP]] de base du dragon.<br>
+
+'''Taille.''' Cette colonne indique le nombre de [[catégorie de taille|catégories de taille]] qui viennent augmenter la taille de base du dragon, en fonction de son âge (de taille TP à P, de taille P à M, etc.). Un véritable dragon n’améliore pas ses valeurs de caractéristique lorsqu’il atteint la taille G. Au lieu de cela, il gagne des augmentations de caractéristique en fonction de sa catégorie d’âge, comme indiqué dans la table des Valeurs de caractéristique des dragons.<br>
+
+'''Dés de vie.''' Indique le nombre de dés de vie supplémentaires s’ajoutant aux dés de vie de base du dragon à mesure qu’il grandit. Les augmentations de dés de vie accordent des points de vie, des dons et des rangs de compétence supplémentaires en plus d’augmenter le bonus de base à l’attaque et les bonus de sauvegarde du dragon. Un dragon a un nombre de rangs de compétences égal à 6 + son modificateur d’Intelligence par dé de vie. Les augmentations des valeurs de caractéristiques du dragon correspondant au gain de dés de vie sont inclues dans sa valeur totale de caractéristiques comme indiqué sur table des Caractéristiques des dragons.<br>
+
+'''Armure naturelle.''' Indique de combien le bonus d’armure naturelle de base du dragon augmente à chaque catégorie d’âge.<br>
+
+'''Souffle.''' Chaque dragon possède un [[Souffle (capacité)|souffle]] (cf. Combat) infligeant un nombre de points de dégâts de base. Ce multiplicateur augmente le nombre de dés de dégâts qu’inflige le souffle du dragon. Par exemple, un dragon adulte d’âge mûr dont le souffle de base inflige 2d6 points de dégâts d’acide inflige 14d6 points de dégâts d’acide (en raison du multiplicateur ×7).
+
+<center>
+{| CLASS="tablo"
+|+ Caractéristiques des dragons
+|- CLASS="titre"
+| Catégorie d’âge
+| Force
+| Dextérité
+| Constitution
+| Intelligence
+| Sagesse
+| Charisme
+|- CLASS="premier"
+| 1 Dragonnet
+| Base
+| Base
+| Base
+| Base
+| Base
+| Base
+|- CLASS="alt"
+| 2 Très jeune
+| Base +4
+| Base –2
+| Base +2
+| Base +2
+| Base +2
+| Base +2
+|-
+| 3 Jeune
+| Base +8
+| Base –2
+| Base +4
+| Base +2
+| Base +2
+| Base +2
+|- CLASS="alt"
+| 4 Adolescent
+| Base +10
+| Base –2
+| Base +6
+| Base +4
+| Base +4
+| Base +4
+|-
+| 5 Jeune adulte
+| Base +12
+| Base –4
+| Base +6
+| Base +4
+| Base +4
+| Base +4
+|- CLASS="alt"
+| 6 Adulte
+| Base +14
+| Base –4
+| Base +8
+| Base +6
+| Base +6
+| Base +6
+|-
+| 7 Âge mûr
+| Base +16
+| Base –4
+| Base +8
+| Base +6
+| Base +6
+| Base +6
+|- CLASS="alt"
+| 8 Vieux
+| Base +18
+| Base –6
+| Base +10
+| Base +8
+| Base +8
+| Base +8
+|-
+| 9 Très vieux
+| Base +20
+| Base –6
+| Base +10
+| Base +8
+| Base +8
+| Base +8
+|- CLASS="alt"
+| 10 Vénérable
+| Base +22
+| Base –6
+| Base +12
+| Base +10
+| Base +10
+| Base +10
+|-
+| 11 Dracosire
+| Base +24
+| Base –8
+| Base +12
+| Base +10
+| Base +10
+| Base +10
+|- CLASS="alt"
+| 12 Grand dracosire
+| Base +26
+| Base –8
+| Base +14
+| Base +12
+| Base +12
+| Base +12
+|}
+</center>
+
+
+===Combat===
+La table des Attaques et Vitesses de déplacement des dragons indique les attaques que le dragon peut effectuer et les dégâts qu’il inflige (un tiret indique qu’un dragon de cette taille ne possède pas cette attaque naturelle). 
+
+<center>
+{| CLASS="tablo"
+|+ Attaques et Vitesses de déplacement des dragons
+|- CLASS="titre"
+| Taille
+| Vitesse de vol (manœuvrabilité)
+| 1 morsure
+| 2 griffes
+| corne 
+| 1 coup de queue
+| 1 écrasement
+| 1 balayage avec la queue
+| Souffle Ligne
+| Souffle Cône
+|- CLASS="premier"
+| Très Petit
+| 30 m (20 {s:c}) (moyenne)
+| 1d4
+| 1d3
+| —
+| —
+| —
+| —
+| 9 m (6&nbsp;{s:c})
+| 4,50 m (3&nbsp;{s:c})
+|- CLASS="alt"
+| Petit
+| 45 m (30 {s:c}) (moyenne) 
+| 1d6
+| 1d4
+| —
+| —
+| —
+| —
+| 12 m (8&nbsp;{s:c})
+| 6 m (4&nbsp;{s:c})
+|-
+| Moyen
+| 45 m (30 {s:c}) (moyenne) 
+| 1d8
+| 1d6
+| 1d6
+| —
+| —
+| —
+| 18 m (12&nbsp;{s:c})
+| 9 m (6&nbsp;{s:c})
+|- CLASS="alt"
+| Grand
+| 60 m (40 {s:c}) (médiocre) 
+| 2d6
+| 1d8
+| 1d8
+| 1d8
+| —
+| —
+| 24 m (16&nbsp;{s:c})
+| 12 m (8&nbsp;{s:c})
+|-
+| Très Grand
+| 60 m (40 {s:c}) (médiocre) 
+| 2d8
+| 2d6
+| 2d6
+| 2d6
+| 2d8
+| —
+| 30 m (20&nbsp;{s:c})
+| 15 m (10&nbsp;{s:c})
+|- CLASS="alt"
+| Gigantesque
+| 75 m (60 {s:c}) (déplorable) 
+| 4d6
+| 2d8
+| 2d8
+| 2d8
+| 4d6
+| 2d6
+| 36 m (24 {s:c})
+| 18 m (12 {s:c})
+|-
+| Colossal
+| 75 m (60 {s:c}) (déplorable) 
+| 4d8
+| 4d6
+| 4d8
+| 4d6
+| 4d8
+| 2d8
+| 42 m (28 {s:c})
+| 21 m (14 {s:c})
+|}
+</center>
+
+Voici les autres capacités que gagnent les dragons lorsqu’ils atteignent une catégorie d’âge spécifique.<br>
+
+'''Balayage avec la queue (Ext).''' Ceci permet à un dragon de taille Gig, ou plus grand, de balayer une zone avec sa queue par une [[action simple]]. Le balayage affecte un demi-cercle de 9 m (6 {s:c}) de rayon (ou 12 m (8 {s:c}) pour un dragon de taille Col), centré sur n’importe quelle intersection bordant l’espace occupé par le dragon, dans n’importe quelle direction. Toutes les créatures situées dans la zone balayée sont affectées si elles sont plus petites que le dragon de quatre [[catégorie de taille|catégories de taille]] ou plus. Un balayage avec la queue inflige automatiquement les dégâts indiqués plus 1,5 fois le bonus de Force du dragon. Les créatures affectées peuvent tenter un jet de [[Valeurs de combat#JETDESAUVEGARDE|Réflexes]] pour ne recevoir que la moitié des dégâts (DD égal à celui du souffle du dragon).<br>
+
+'''Corne.''' Les dragons impériaux de taille M ou plus grands étant dépourvus d’ailes, ils ont une attaque de corne et non d’ailes. L’attaque de corne constitue une attaque primaire infligeant le nombre de dégâts indiqués plus 1,5 fois le bonus de Force du dragon. Les cornes des dragons impériaux ont une allonge, comme si la créature était plus grande d’une catégorie de taille (+3 mètres pour les dragons de taille Col).<br>
+
+'''Coup de queue.''' Le dragon peut donner un coup de queue à un ennemi à chaque round. Un coup de queue est une attaque secondaire infligeant le nombre de dégâts indiqué plus 1,5 fois le bonus de Force du dragon (il s’agit d’une exception à la règle normale des attaques secondaires).<br>
+
+'''Écrasement (Ext).''' Un dragon de taille TG, ou plus grand, qui vole ou saute, peut atterrir sur ses ennemis par une [[action simple]], utilisant tout son corps pour les écraser. Les écrasements ne sont efficaces que contre les adversaires plus petits que le dragon de 3 [[catégorie de taille|catégories de taille]] ou plus. Un écrasement affecte autant de créatures que peut en contenir l’espace occupé par le dragon. Les créatures situées dans la zone affectée doivent réussir un jet de [[Valeurs de combat#JETDESAUVEGARDE|Réflexes]] (DD égal à celui du souffle du dragon) ou être immobilisées, recevant automatiquement des dégâts contondants lors du prochain round, à moins que le dragon ne les libère. Si le dragon décide de les maintenir immobiles, il doit réussir un [[Manœuvres offensives|test de manoeuvre offensive]] normalement. Les adversaires immobilisés reçoivent les dégâts de l’écrasement tous les rounds s’ils ne s’échappent pas. Un écrasement inflige les dégâts indiqués plus 1,5 fois le bonus de Force du dragon.<br>
+
+'''Griffes.''' Ces attaques primaires infligent le nombre de dégâts indiqués plus le bonus de Force du dragon.<br>
+
+'''Morsure.''' Il s’agit d’une attaque primaire infligeant les dégâts indiqués plus 1,5 fois le bonus de Force du dragon (même s’il a plus d’une attaque). La morsure d’un dragon a une allonge, comme si la créature était plus grande d’une [[catégorie de taille]] (+3 mètres pour les dragons de taille Col).<br>
+
+'''Souffle (Sur).''' Il suffit d’une [[action simple]] au dragon pour utiliser son [[Souffle (capacité)|souffle]]. Il peut l’utiliser tous les 1d4 rounds, même s’il a plus d’un souffle. Un souffle part toujours d’une intersection adjacente au dragon dans la direction qu’il choisit. Les souffles se présentent sous deux formes, en ligne ou en cône, et la zone couverte dépend de la taille du dragon. Si un souffle inflige des dégâts, ceux qui sont pris dans la zone peuvent tenter un jet de [[Valeurs de combat#JETDESAUVEGARDE|Réflexes]] pour ne recevoir que la moitié des dégâts. Le DD du jet de sauvegarde contre un souffle de dragon est de 10 + 1/2 nombre de DV du dragon + le modificateur de Con du dragon. Les jets de sauvegarde contre les différents types de souffles utilisent le même DD : le type du jet de sauvegarde est indiqué dans la description du souffle. Le dragon peut utiliser son souffle lorsqu’il [[Manœuvres offensives#LUTTE|lutte]] ou est [[agrippé]].<br>
+
+'''Vitesse de vol.''' La vitesse de vol du dragon augmente, comme précisé, selon sa taille. Les dragons impériaux n’ayant pas d’ailes, leur capacité à voler est surnaturelle.
+
+
+===Règles additionnelles pour les dragons===
+'''Immunités (Ext).''' Tous les dragons sont [[Immunité (capacité)|immunisés]] contre les effets de sommeil et de paralysie. En outre, ils sont immunisés contre un ou plusieurs types d’attaque supplémentaires ou dégâts d’énergie, quel que soit leur âge, comme indiqué dans leurs descriptions spécifiques.<br>
+
+'''Pouvoirs magiques.''' Le niveau de lanceur de sorts du dragon, pour ses pouvoirs magiques, est égal à son total de dés de vie.<br>
+
+'''Présence terrifiante (Ext).''' La présence terrifiante du dragon a une portée égale à 9 m (6 {s:c}) × la catégorie d’âge du dragon. Pour le reste, elle fonctionne comme précisé dans les règles universelles des monstres, en annexes.<br>
+
+'''Réduction de dégâts.''' Les dragons gagnent une [[Réduction de dégâts (capacité)|réduction de dégâts]] à mesure qu’ils vieillissent, comme indiqué dans chaque en-tête de dragon. Leurs armes naturelles sont considérées comme des armes magiques quand il s’agit de passer une réduction de dégâts.<br>
+
+'''Résistance à la magie (Ext).''' À mesure qu’ils vieillissent, les dragons deviennent plus résistants aux sorts et aux pouvoirs magiques, comme spécifié dans la description de chacun. La [[Résistance à la magie (capacité)|RM]] du dragon est égale à 11 + son FP.<br>
+
+'''Sens draconiques (Ext).''' Les dragons possèdent [[Perception aveugle (capacité)|perception aveugle]] à 18 m (12 {s:c}) et [[vision dans le noir]] à 36 m (24 {s:c}). Ils voient quatre fois plus loin qu’un humain dans les espaces à faible luminosité et deux fois en cas de luminosité normale.<br>
+
+'''Sorts.''' Le dragon connaît et lance des sorts profanes comme un [[ensorceleur]] du niveau indiqué dans sa description. Son niveau de lanceur de sorts dépend de son âge, comme indiqué.]]></raw>
+  <fullName>Pathfinder-RPG.Dragon impérial</fullName>
+</wikiPage>

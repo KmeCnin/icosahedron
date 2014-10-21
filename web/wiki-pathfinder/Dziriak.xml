@@ -1,0 +1,142 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Dziriak</title>
+  <categories><category>Pathfinder-RPG.Bestiaire 2</category><category>Pathfinder-RPG.Monstre</category><category>Pathfinder-RPG.Règles officielles</category></categories>
+  <lastModified>2013-02-06 20:11:37Z</lastModified>
+  <version>0</version>
+  <inLinks><link>Pathfinder-RPG.Glossaire des monstres</link><link>Pathfinder-RPG.Liste de monstres par FP</link><link>Pathfinder-RPG.Liste de monstres par milieu naturel</link><link>Pathfinder-RPG.Liste de monstres par type</link><link>Pathfinder-RPG.Monstres</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.type Extérieur</link><link>Pathfinder-RPG.sous-type extraplanaire</link><link>Pathfinder-RPG.vision dans le noir</link><link>Pathfinder-RPG.vision nocturne</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Étreinte</link><link>Pathfinder-RPG.Changement de plan</link><link>Pathfinder-RPG.Arme de prédilection</link><link>Pathfinder-RPG.Attaques réflexes</link><link>Pathfinder-RPG.Connaissances</link><link>Pathfinder-RPG.Discrétion</link><link>Pathfinder-RPG.Escalade</link><link>Pathfinder-RPG.Psychologie</link><link>Pathfinder-RPG.Survie</link><link>Pathfinder-RPG.Utilisation dObjets Magiques</link><link>Pathfinder-RPG.Télépathie</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;D&#39;ziriak&lt;div style=&quot;float:right;&quot;&gt;FP 3&lt;/div&gt;&lt;/div&gt;&lt;br /&gt;&lt;ul&gt;&lt;li&gt;&lt;i&gt;Source : Bestiaire 2, p.121&lt;/i&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;PX&lt;/b&gt; 800&lt;/li&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Type-Ext&#233;rieur.html&quot; title=&quot;Ext&#233;rieur&quot;&gt;Ext&#233;rieur&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Extraplanaire.html&quot; title=&quot;Extraplanaire (sous-type)&quot;&gt;extraplanaire&lt;/a&gt; de taille M, N&lt;/li&gt;&lt;li&gt;&lt;b&gt;Init &lt;/b&gt; +2 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Capacit&#233;s-Sp&#233;ciales.html#VISIONDANSLENOIR&quot; title=&quot;vision dans le noir&quot;&gt;vision dans le noir&lt;/a&gt; 36 m (24 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Nocturne-(Capacit&#233;).html&quot; title=&quot;vision nocturne&quot;&gt;vision nocturne&lt;/a&gt; ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +9&lt;br /&gt;&lt;div class=&quot;box&quot;&gt;D&#233;fense&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;CA&lt;/b&gt; 16, contact 12, pris au d&#233;pourvu 14 (Dex +2, naturelle +4)&lt;/li&gt;&lt;li&gt;&lt;b&gt;pv&lt;/b&gt; 26 (4d10+4)&lt;/li&gt;&lt;li&gt;&lt;b&gt;R&#233;f&lt;/b&gt; +6, &lt;b&gt;Vig&lt;/b&gt; +2, &lt;b&gt;Vol&lt;/b&gt; +6&lt;br /&gt;&lt;div class=&quot;box&quot;&gt;Attaque&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;VD&lt;/b&gt; 9 m (6 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)&lt;/li&gt;&lt;li&gt;&lt;b&gt;Corps &#224; corps&lt;/b&gt; 2 griffes, +6 (1d6+1 plus &lt;a class=&quot;pagelink&quot; href=&quot;&#201;treinte-(Capacit&#233;).html&quot; title=&quot;&#201;treinte&quot;&gt;&#233;treinte&lt;/a&gt;)&lt;/li&gt;&lt;li&gt;&lt;b&gt;Attaques sp&#233;ciales&lt;/b&gt; explosion &#233;blouissante&lt;/li&gt;&lt;li&gt;&lt;b&gt;Pouvoirs magiques&lt;/b&gt; (NLS 3 ; concentration +6)&lt;ul&gt;&lt;li&gt;1/jour — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Changement-De-Plan.html&quot; title=&quot;Changement de plan&quot;&gt;changement de plan&lt;/a&gt;&lt;/i&gt; (lui-m&#234;me uniquement, seulement vers le plan des Ombres)&lt;br /&gt;&lt;div class=&quot;box&quot;&gt;Statistiques&lt;/div&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;For&lt;/b&gt; 13, &lt;b&gt;Dex&lt;/b&gt; 15, &lt;b&gt;Con&lt;/b&gt; 12, &lt;b&gt;Int&lt;/b&gt; 13, &lt;b&gt;Sag&lt;/b&gt; 14, &lt;b&gt;Cha&lt;/b&gt; 16&lt;/li&gt;&lt;li&gt;&lt;b&gt;BBA&lt;/b&gt; +4 ; &lt;b&gt;BMO&lt;/b&gt; +5 (+9 lutte) ; &lt;b&gt;DMD&lt;/b&gt; 17&lt;/li&gt;&lt;li&gt;&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Arme-De-Pr&#233;dilection.html&quot; title=&quot;Arme de pr&#233;dilection&quot;&gt;Arme de pr&#233;dilection&lt;/a&gt; (griffe), &lt;a class=&quot;pagelink&quot; href=&quot;Attaques-R&#233;flexes.html&quot; title=&quot;Attaques r&#233;flexes&quot;&gt;Attaques r&#233;flexes&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Connaissances.html&quot; title=&quot;Connaissances&quot;&gt;Connaissances&lt;/a&gt; (myst&#232;res) +8, &lt;a class=&quot;pagelink&quot; href=&quot;Connaissances.html&quot; title=&quot;Connaissances&quot;&gt;Connaissances&lt;/a&gt; (plans) +8, &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; +9, &lt;a class=&quot;pagelink&quot; href=&quot;Escalade.html&quot; title=&quot;Escalade&quot;&gt;Escalade&lt;/a&gt; +8, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +9, &lt;a class=&quot;pagelink&quot; href=&quot;Psychologie.html&quot; title=&quot;Psychologie&quot;&gt;Psychologie&lt;/a&gt; +9, &lt;a class=&quot;pagelink&quot; href=&quot;Survie.html&quot; title=&quot;Survie&quot;&gt;Survie&lt;/a&gt; +7, &lt;a class=&quot;pagelink&quot; href=&quot;Utilisation-Dobjets-Magiques.html&quot; title=&quot;Utilisation d&amp;#39;objets magiques&quot;&gt;Utilisation d’objets magiques&lt;/a&gt; +8&lt;/li&gt;&lt;li&gt;&lt;b&gt;Langues&lt;/b&gt; d’ziriak ; &lt;a class=&quot;pagelink&quot; href=&quot;T&#233;l&#233;pathie-(Capacit&#233;).html&quot; title=&quot;T&#233;l&#233;pathie&quot;&gt;t&#233;l&#233;pathie&lt;/a&gt; 30 m (20 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)&lt;/li&gt;&lt;li&gt;&lt;b&gt;Particularit&#233;s&lt;/b&gt; lueur&lt;br /&gt;&lt;div class=&quot;box&quot;&gt;&#201;cologie&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;Environnement&lt;/b&gt; terre ferme (plan des Ombres)&lt;/li&gt;&lt;li&gt;&lt;b&gt;Organisation sociale&lt;/b&gt; solitaire, couple, essaim (3–20) ou ruche (21–100)&lt;/li&gt;&lt;li&gt;&lt;b&gt;Tr&#233;sor&lt;/b&gt; standard&lt;br /&gt;&lt;div class=&quot;box&quot;&gt;Pouvoirs sp&#233;ciaux&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;Explosion &#233;blouissante (Sur).&lt;/b&gt; Une fois par jour, un d’ziriak peut faire en sorte que son corps produise une lumi&#232;re intense et color&#233;e par une action rapide. Les non-d’ziriaks situ&#233;s dans un rayon de 6 m&#232;tres (4 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) doivent r&#233;ussir un jet de Vigueur de DD 15 pour ne pas &#234;tre &#233;blouis pendant 1 minute. Apr&#232;s avoir utilis&#233; cette capacit&#233;, le d’ziriak perd sa lueur pendant 24 heures. Cette capacit&#233; est un effet de lumi&#232;re contre lequel les cr&#233;atures qui ne peuvent pas voir sont immunis&#233;es. Le DD du jet de sauvegarde d&#233;pend de la Constitution.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Lueur (Ext).&lt;/b&gt; Les runes color&#233;es qui d&#233;corent le corps d’un d’ziriak &#233;mettent une lumi&#232;re faible dans un rayon de 6 m&#232;tres (4 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) autour de son corps.&lt;br /&gt;&lt;/li&gt;&lt;/ul&gt;&lt;br /&gt;&lt;/div&gt;
+&lt;/td&gt;&lt;td&gt;&lt;div&gt;&lt;i&gt;Cette cr&#233;ature &#224; quatre bras ressemble &#224; un croisement entre un humain et une termite noire et ocre. Des runes brillantes ornent son corps et ses bras.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Les d’ziriaks sont de myst&#233;rieux insecto&#239;des de
+taille humaine provenant du plan des Ombres. Au-dessus
+de leurs cit&#233;s-ruches partiellement enfouies
+se dressent des tours et des clochers rehauss&#233;s de
+feux alchimiques ou de flammes illusoires, tels
+des points de rep&#232;re marquant les refuges s&#251;rs diss&#233;min&#233;s dans
+la p&#233;nombre oppressante. Les d’ziriaks adoptent une attitude
+fermement neutre dans la plupart des affaires. Ils semblent
+toujours pr&#234;ts &#224; converser avec les voyageurs &#224; l’aide de leur &#233;trange
+pouvoir de t&#233;l&#233;pathie (peu de cr&#233;atures en-dehors de leur race
+conna&#238;t le langage fait de bourdonnements et de p&#233;piements qu’ils
+utilisent normalement) mais, comme ils gardent leurs buts secrets,
+ils suscitent une certaine m&#233;fiance chez la plupart des gens.&lt;br /&gt;&lt;br /&gt;Un d’ziriak moyen mesure 2,10 m&#232;tres de hauteur et poss&#232;de
+quatre bras, deux jambes, un abdomen de termite et un visage
+dot&#233; de mandibules, quelque part &#224; mi-chemin entre l’humain
+et l’insecte. Deux de leurs bras sont grands et dot&#233;s de griffes
+alors que les deux autres sont plus petits et r&#233;serv&#233;s pour les
+manipulations d&#233;licates plut&#244;t que le combat. Chose rare au sein
+des races natives du royaume des ombres, la chair chitineuse des
+d’ziriaks est recouverte de nombreuses formes runiques color&#233;es
+ressemblant &#224; des tatouages luisants. Ces runes leur permettent
+de reconna&#238;tre le r&#244;le de chaque individu au sein de la
+soci&#233;t&#233; d’ziriak.&lt;br /&gt;&lt;br /&gt;Les d’ziriaks ne quittent que tr&#232;s
+rarement le plan des Ombres,
+sauf si leurs dirigeants le
+leur ordonnent. Ils pr&#233;f&#232;rent
+passer toute leur vie dans
+leur cit&#233;-ruche. Ils sont
+toujours dispos&#233;s &#224; r&#233;aliser
+des &#233;changes commerciaux
+ou diplomatiques
+avec ceux qui sont suffisamment courageux pour
+s’aventurer sur le plan des
+Ombres. Leurs artisans sont
+connus tant sur leur plan
+que sur les autres plans
+pour leur capacit&#233; &#224;
+tisser la lumi&#232;re en
+des objets d’art
+bien r&#233;els et &#224;
+cr&#233;er des armes
+de grande qualit&#233;
+et de grande beaut&#233;.
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|D'ziriak|FP 3}
+{s:pucem|Extérieur|Ville|Extraplanaire}
+* ''Source : Bestiaire 2, p.121''
+* '''PX''' 800
+* [[type Extérieur|Extérieur]] ([[sous-type extraplanaire|extraplanaire]] de taille M, N
+* '''Init ''' +2 ; '''Sens''' [[vision dans le noir]] 36 m (24 {s:c}), [[vision nocturne]] ; [[Perception]] +9
+(((Défense)))
+* '''CA''' 16, contact 12, pris au dépourvu 14 (Dex +2, naturelle +4)
+* '''pv''' 26 (4d10+4)
+* '''Réf''' +6, '''Vig''' +2, '''Vol''' +6
+(((Attaque)))
+* '''VD''' 9 m (6 {s:c})
+* '''Corps à corps''' 2 griffes, +6 (1d6+1 plus [[étreinte]])
+* '''Attaques spéciales''' explosion éblouissante
+* '''Pouvoirs magiques''' (NLS 3 ; concentration +6)
+** 1/jour — ''[[changement de plan]]'' (lui-même uniquement, seulement vers le plan des Ombres)
+(((Statistiques)))
+* '''For''' 13, '''Dex''' 15, '''Con''' 12, '''Int''' 13, '''Sag''' 14, '''Cha''' 16
+* '''BBA''' +4 ; '''BMO''' +5 (+9 lutte) ; '''DMD''' 17
+* '''Dons''' [[Arme de prédilection]] (griffe), [[Attaques réflexes]]
+* '''Compétences''' [[Connaissances]] (mystères) +8, [[Connaissances]] (plans) +8, [[Discrétion]] +9, [[Escalade]] +8, [[Perception]] +9, [[Psychologie]] +9, [[Survie]] +7, [[Utilisation dobjets magiques|Utilisation d’objets magiques]] +8
+* '''Langues''' d’ziriak ; [[télépathie]] 30 m (20 {s:c})
+* '''Particularités''' lueur
+(((Écologie)))
+* '''Environnement''' terre ferme (plan des Ombres)
+* '''Organisation sociale''' solitaire, couple, essaim (3–20) ou ruche (21–100)
+* '''Trésor''' standard
+(((Pouvoirs spéciaux)))
+*'''Explosion éblouissante (Sur).''' Une fois par jour, un d’ziriak peut faire en sorte que son corps produise une lumière intense et colorée par une action rapide. Les non-d’ziriaks situés dans un rayon de 6 mètres (4 {s:c}) doivent réussir un jet de Vigueur de DD 15 pour ne pas être éblouis pendant 1 minute. Après avoir utilisé cette capacité, le d’ziriak perd sa lueur pendant 24 heures. Cette capacité est un effet de lumière contre lequel les créatures qui ne peuvent pas voir sont immunisées. Le DD du jet de sauvegarde dépend de la Constitution.
+* '''Lueur (Ext).''' Les runes colorées qui décorent le corps d’un d’ziriak émettent une lumière faible dans un rayon de 6 mètres (4 {s:c}) autour de son corps.
+
+</div>
+</td><td><div>''Cette créature à quatre bras ressemble à un croisement entre un humain et une termite noire et ocre. Des runes brillantes ornent son corps et ses bras.''
+
+Les d’ziriaks sont de mystérieux insectoïdes de
+taille humaine provenant du plan des Ombres. Au-dessus
+de leurs cités-ruches partiellement enfouies
+se dressent des tours et des clochers rehaussés de
+feux alchimiques ou de flammes illusoires, tels
+des points de repère marquant les refuges sûrs disséminés dans
+la pénombre oppressante. Les d’ziriaks adoptent une attitude
+fermement neutre dans la plupart des affaires. Ils semblent
+toujours prêts à converser avec les voyageurs à l’aide de leur étrange
+pouvoir de télépathie (peu de créatures en-dehors de leur race
+connaît le langage fait de bourdonnements et de pépiements qu’ils
+utilisent normalement) mais, comme ils gardent leurs buts secrets,
+ils suscitent une certaine méfiance chez la plupart des gens.
+
+Un d’ziriak moyen mesure 2,10 mètres de hauteur et possède
+quatre bras, deux jambes, un abdomen de termite et un visage
+doté de mandibules, quelque part à mi-chemin entre l’humain
+et l’insecte. Deux de leurs bras sont grands et dotés de griffes
+alors que les deux autres sont plus petits et réservés pour les
+manipulations délicates plutôt que le combat. Chose rare au sein
+des races natives du royaume des ombres, la chair chitineuse des
+d’ziriaks est recouverte de nombreuses formes runiques colorées
+ressemblant à des tatouages luisants. Ces runes leur permettent
+de reconnaître le rôle de chaque individu au sein de la
+société d’ziriak.
+
+Les d’ziriaks ne quittent que très
+rarement le plan des Ombres,
+sauf si leurs dirigeants le
+leur ordonnent. Ils préfèrent
+passer toute leur vie dans
+leur cité-ruche. Ils sont
+toujours disposés à réaliser
+des échanges commerciaux
+ou diplomatiques
+avec ceux qui sont suffisamment courageux pour
+s’aventurer sur le plan des
+Ombres. Leurs artisans sont
+connus tant sur leur plan
+que sur les autres plans
+pour leur capacité à
+tisser la lumière en
+des objets d’art
+bien réels et à
+créer des armes
+de grande qualité
+et de grande beauté.
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Dziriak</fullName>
+</wikiPage>

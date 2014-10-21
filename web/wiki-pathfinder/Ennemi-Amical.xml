@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Ennemi amical</title>
+  <categories><category>Pathfinder-RPG.Advanced Player Guide</category><category>Pathfinder-RPG.Règles officielles</category><category>Pathfinder-RPG.Sort</category><category>Pathfinder-RPG.Sort barde 5</category></categories>
+  <lastModified>2012-11-04 21:21:43Z</lastModified>
+  <version>1</version>
+  <inLinks><link>Pathfinder-RPG.Glossaire des sorts</link><link>Pathfinder-RPG.Liste des sorts (suite)</link><link>Pathfinder-RPG.Liste des sorts de bardes</link><link>Pathfinder-RPG.Liste des sorts par registre</link><link>Pathfinder-RPG.TMP sorts APG</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Enchantement</link><link>Pathfinder-RPG.coercition</link><link>Pathfinder-RPG.effet mental</link><link>Pathfinder-RPG.Barde</link><link>Pathfinder-RPG.Action immédiate</link><link>Pathfinder-RPG.composantes</link><link>Pathfinder-RPG.niveau</link><link>Pathfinder-RPG.round</link><link>Pathfinder-RPG.Volonté</link><link>Pathfinder-RPG.Présentation des sorts</link><link>Pathfinder-RPG.Pris en tenaille</link></outLinks>
+  <body><![CDATA[
+&lt;b&gt;&#201;cole&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#ENCHANTEMENT&quot; title=&quot;Enchantement&quot;&gt;enchantement&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#COERCITION&quot; title=&quot;coercition&quot;&gt;coercition&lt;/a&gt;) (&lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#REGISTRE&quot; title=&quot;effet mental&quot;&gt;effet mental&lt;/a&gt;)&#160;;&lt;b&gt; Niveau&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Barde.html&quot; title=&quot;Le barde&quot;&gt;barde&lt;/a&gt; 5&lt;br/&gt;
+&lt;b&gt;Temps d&#39;incantation&lt;/b&gt; 1 &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions.html#IMMEDIATE&quot; title=&quot;Action imm&#233;diate&quot;&gt;action imm&#233;diate&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Composantes&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#COMPOSANTES&quot; title=&quot;composantes&quot;&gt;V, G&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Port&#233;e&lt;/b&gt; interm&#233;diaire (30 m + 3 m/&lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#NIVEAU&quot; title=&quot;niveau&quot;&gt;niveau&lt;/a&gt;) (20 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt; + 2 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;/&lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#NIVEAU&quot; title=&quot;niveau&quot;&gt;niveau&lt;/a&gt;)&lt;br/&gt;
+&lt;b&gt;Cible&lt;/b&gt; une cr&#233;ature vivante&lt;br/&gt;
+&lt;b&gt;Dur&#233;e&lt;/b&gt; 1 &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#ROUND&quot; title=&quot;round&quot;&gt;round&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Jet de sauvegarde&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;Volont&#233;&quot;&gt;Volont&#233;&lt;/a&gt; pour &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#JETSDESAUVEGARDE&quot; title=&quot;Pr&#233;sentation des sorts&quot;&gt;annuler&lt;/a&gt; ; &lt;b&gt;R&#233;sistance &#224; la magie&lt;/b&gt; oui&lt;br /&gt;&lt;br /&gt;Le personnage lance ce sort quand un ennemi est sur le point d&#39;attaquer un de ses alli&#233;s. La cr&#233;ature attaque alors une cible valide choisie par le personnage ou son attaque est avort&#233;e. De plus, la cible du sort est consid&#233;r&#233;e comme un alli&#233; pour les &lt;a class=&quot;pagelink&quot; href=&quot;Modificateurs-De-Combat.html#PRISEENTENAILLE&quot; title=&quot;Pris en tenaille&quot;&gt;prises en tenailles&lt;/a&gt; pendant 1 &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#ROUND&quot; title=&quot;round&quot;&gt;round&lt;/a&gt;.
+]]></body>
+  <raw><![CDATA[{s:APG}
+'''École''' [[enchantement]] ([[coercition]]) ([[effet mental]]) ;''' Niveau''' [[barde]] 5<br/>
+'''Temps d'incantation''' 1 [[action immédiate]]<br/>
+'''Composantes''' [[Composantes|V, G]]<br/>
+'''Portée''' intermédiaire (30 m + 3 m/[[niveau]]) (20 {s:c} + 2 {s:c}/[[niveau]])<br/>
+'''Cible''' une créature vivante<br/>
+'''Durée''' 1 [[round]]<br/>
+'''Jet de sauvegarde''' [[Volonté]] pour [[Présentation des sorts#JETSDESAUVEGARDE|annuler]] ; '''Résistance à la magie''' oui
+
+Le personnage lance ce sort quand un ennemi est sur le point d'attaquer un de ses alliés. La créature attaque alors une cible valide choisie par le personnage ou son attaque est avortée. De plus, la cible du sort est considérée comme un allié pour les [[pris en tenaille|prises en tenailles]] pendant 1 [[round]].
+]]></raw>
+  <fullName>Pathfinder-RPG.Ennemi amical</fullName>
+</wikiPage>

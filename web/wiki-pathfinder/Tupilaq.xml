@@ -1,0 +1,142 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Tupilaq</title>
+  <categories></categories>
+  <lastModified>2013-09-21 07:59:34Z</lastModified>
+  <version>5</version>
+  <inLinks><link>Pathfinder-RPG.Glossaire des monstres</link><link>Pathfinder-RPG.Liste de monstres par FP</link><link>Pathfinder-RPG.Liste de monstres par milieu naturel</link><link>Pathfinder-RPG.Liste de monstres par type</link><link>Pathfinder-RPG.Monstres</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.type Créature artificielle</link><link>Pathfinder-RPG.vision dans le noir</link><link>Pathfinder-RPG.vision nocturne</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.RD</link><link>Pathfinder-RPG.Étreinte (capacité)</link><link>Pathfinder-RPG.Invisibilité</link><link>Pathfinder-RPG.lutte</link><link>Pathfinder-RPG.Natation</link><link>Pathfinder-RPG.coup critique</link><link>Pathfinder-RPG.Agrippé</link><link>Pathfinder-RPG.pouvoir magique</link><link>Pathfinder-RPG.NLS</link><link>Pathfinder-RPG.Effacement</link><link>Pathfinder-RPG.jet de sauvegarde</link><link>Pathfinder-RPG.Action simple</link><link>Pathfinder-RPG.Affûtage</link><link>Pathfinder-RPG.Mission</link><link>Pathfinder-RPG.Localisation de créature</link><link>Pathfinder-RPG.Artisanat</link><link>Pathfinder-RPG.DD</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Tupilaq&lt;div style=&quot;float:right;&quot;&gt;FP 7&lt;/div&gt;&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Bestiaire 3 p 266&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 204 800
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Cr&#233;ature-Artificielle.html&quot; title=&quot;Cr&#233;ature artificielle&quot;&gt;Cr&#233;ature artificielle&lt;/a&gt; de taille P, N
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +4 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Capacit&#233;s-Sp&#233;ciales.html#VISIONDANSLENOIR&quot; title=&quot;vision dans le noir&quot;&gt;vision dans le noir&lt;/a&gt; 18 m (12 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Nocturne-(Capacit&#233;).html&quot; title=&quot;vision nocturne&quot;&gt;vision nocturne&lt;/a&gt; ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +0
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 20, contact 15, pris au d&#233;pourvu 16 (Dex +4, naturelle +5, taille +1)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 59 (9d10+10)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +7, &lt;b&gt;Vig&lt;/b&gt; +3, &lt;b&gt;Vol&lt;/b&gt; +3
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Immunit&#233;s&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Type-Cr&#233;ature-Artificielle.html&quot; title=&quot;Cr&#233;ature artificielle&quot;&gt;traits des cr&#233;atures artificielles&lt;/a&gt; ; &lt;b&gt;&lt;a class=&quot;pagelink&quot; href=&quot;R&#233;duction-De-D&#233;g&#226;ts-(Capacit&#233;).html&quot; title=&quot;RD&quot;&gt;RD&lt;/a&gt;&lt;/b&gt; 10/contondant
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 9 m (6 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), nage 18 m (12 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; morsure, +15 (1d8+10/19-20 plus &lt;a class=&quot;pagelink&quot; href=&quot;&#201;treinte-(Capacit&#233;).html&quot; title=&quot;&#201;treinte (Ext)&quot;&gt;&#233;treinte&lt;/a&gt;) et 2 griffes, +15 (1d4+5)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaques sp&#233;ciales&lt;/b&gt; recherche de cible, m&#226;choires tranchantes
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Pouvoirs magiques&lt;/b&gt; (NLS 7 ; concentration +4)
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+1/jour — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Invisibilit&#233;.html&quot; title=&quot;Invisibilit&#233;&quot;&gt;invisibilit&#233;&lt;/a&gt;&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 21, &lt;b&gt;Dex&lt;/b&gt; 18, &lt;b&gt;Con&lt;/b&gt; —, &lt;b&gt;Int&lt;/b&gt; —, &lt;b&gt;Sag&lt;/b&gt; 11, &lt;b&gt;Cha&lt;/b&gt; 5
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +9, &lt;b&gt;BMO&lt;/b&gt; +13 (+17 en &lt;a class=&quot;pagelink&quot; href=&quot;Manœuvres-Offensives.html#LUTTE&quot; title=&quot;lutte&quot;&gt;lutte&lt;/a&gt;), &lt;b&gt;DMD&lt;/b&gt; 27
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Natation.html&quot; title=&quot;Natation&quot;&gt;Natation&lt;/a&gt; +13
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Particularit&#233;&lt;/b&gt; magie de la gravure sur os
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; tous
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation sociale&lt;/b&gt; solitaire
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; aucun
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Particularit&#233;s&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;M&#226;choires tranchantes (Ext).&lt;/b&gt; Tous les tupilaqs sont construits avec des m&#226;choires surdimensionn&#233;es capables de d&#233;chirer et de tracter. Le tupilaq rajoute deux fois son modificateur de Force aux d&#233;g&#226;ts qu’il inflige sur une morsure r&#233;ussie et peut porter un &lt;a class=&quot;pagelink&quot; href=&quot;Actions-Simples.html#COUPCRITIQUE&quot; title=&quot;coup critique&quot;&gt;coup critique&lt;/a&gt; sur un 19 ou un 20. Le tupilaq est consid&#233;r&#233; comme une cr&#233;ature de taille G en ce qui concerne tous ses tests pour d&#233;placer un adversaire &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables.html#Agripp&#233;&quot; title=&quot;Agripp&#233;&quot;&gt;agripp&#233;&lt;/a&gt;.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Magie de la gravure sur os (Sur).&lt;/b&gt; Lorsqu’un tupilaq est cr&#233;&#233;, son cr&#233;ateur peut inscrire un unique sort de sa connaissance (n’exc&#233;dant pas le niveau 2 et ne n&#233;cessitant aucune composante mat&#233;rielle) au sein du tupilaq sous forme d’un motif grav&#233; complexe. Le tupilaq peut utiliser ce sort comme un &lt;a class=&quot;pagelink&quot; href=&quot;Capacit&#233;s-Sp&#233;ciales.html#TYPES&quot; title=&quot;pouvoir magique&quot;&gt;pouvoir magique&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Lancer-Des-Sorts.html#NLS&quot; title=&quot;NLS&quot;&gt;NLS&lt;/a&gt; 7) trois fois par jour. Le cr&#233;ateur du tupilaq peut inscrire un nouveau sort sur le tupilaq s’il le souhaite, rempla&#231;ant ainsi le pr&#233;c&#233;dent. Il faut 24 heures de travail pour faire une nouvelle gravure et d&#233;penser 500 po de mat&#233;riel. Le tupilaq pr&#233;sent&#233; ici utilise le sort &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Invisibilit&#233;.html&quot; title=&quot;Invisibilit&#233;&quot;&gt;invisibilit&#233;&lt;/a&gt;&lt;/i&gt; de cette mani&#232;re. &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Effacement.html&quot; title=&quot;Effacement&quot;&gt;Effacement&lt;/a&gt;&lt;/i&gt; peut d&#233;truire la gravure du tupilaq si celui-ci rate un &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;jet de sauvegarde&quot;&gt;jet de Vigueur&lt;/a&gt; contre le sort. Lorsque la gravure d’un tupilaq est ainsi effac&#233;e, il n’a plus acc&#232;s &#224; ce sort comme &lt;a class=&quot;pagelink&quot; href=&quot;Capacit&#233;s-Sp&#233;ciales.html#TYPES&quot; title=&quot;pouvoir magique&quot;&gt;pouvoir magique&lt;/a&gt; et part en qu&#234;te de son cr&#233;ateur pour l’attaquer et le tuer. Le cr&#233;ateur du tupilaq devient alors la cible de la capacit&#233; de recherche de cible du tupilaq. Si son cr&#233;ateur est d&#233;j&#224; mort, le tupilaq cherche alors la cr&#233;ature vivante la plus proche et l’attaque &#224; vue, poursuivant cette orgie meurtri&#232;re jusqu’&#224; ce qu’il soit lui-m&#234;me d&#233;truit.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Recherche de cible (Sur).&lt;/b&gt; Le cr&#233;ateur du tupilaq peut placer une goutte de sang, un cheveu ou une autre partie du corps d’une cr&#233;ature dans la m&#226;choire du tupilaq par une &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions.html#SIMPLE&quot; title=&quot;Action simple&quot;&gt;action simple&lt;/a&gt;. &#192; partir de ce moment, le tupilaq sait toujours dans quelle direction se trouve la cr&#233;ature et gagne un bonus d’intuition de +20 &#224; tous ses tests de &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; pour la localiser. Il est impossible d’assigner ainsi une nouvelle cible au tupilaq tant que la pr&#233;c&#233;dente n’est pas morte.
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;td&gt;&lt;div&gt;
+&lt;i&gt;Cette petite cr&#233;ature humano&#239;de se d&#233;place en grin&#231;ant et en cliquetant, son corps &#233;tant taill&#233; dans de l’os et orn&#233; de fines gravures.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Les tupilaqs sont de petites cr&#233;atures artificielles taill&#233;es &#224; partir d’os et de dents de baleines, dans le seul but d’assassiner les ennemis du cr&#233;ateur. L’apparence du tupilaq varie en fonction de sa construction mais tous ont des m&#226;choires pro&#233;minentes et un petit corps aux mains et aux pieds adapt&#233;s &#224; la nage. Le tupilaq mesure g&#233;n&#233;ralement 90 centim&#232;tres et ne p&#232;se que 15 kilos.&lt;br /&gt;&lt;br /&gt;Les tupilaqs doivent &#234;tre cr&#233;&#233;s en secret : si quelqu’un devait d&#233;couvrir qu’un tupilaq est en cours de cr&#233;ation, sa construction &#233;chouerait aussit&#244;t. Le cr&#233;ateur invite ou attire un esprit h&#244;te pour qu’il prenne possession du tupilaq, processus qui fait partie int&#233;grante de la cr&#233;ation. Le plus souvent, l’animus du tupilaq correspond &#224; l’esprit d’un enfant mort ou d’un autre petit humano&#239;de, l’&#233;galit&#233; de taille entre le nouveau r&#233;ceptacle et l’ancien corps de l’esprit &#233;tant ce qui donne &#224; la cr&#233;ature sa vitesse et son agilit&#233; sur terre comme dans l’eau, caract&#233;ristique inhabituelle pour la plupart des cr&#233;atures artificielles. L’esprit emprisonn&#233; est aussi ce qui rend le tupilaq si violent et si meurtrier.&lt;br /&gt;&lt;br /&gt;&lt;h3 class=&quot;separator&quot;&gt;Construction&lt;a class=&quot;headeranchor&quot; id=&quot;Construction_0&quot; href=&quot;#Construction_0&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;Le tupilaq est construit &#224; partir de 15 kilos d’os de baleines li&#233;s ensemble par des tendons. Lorsque la cr&#233;ation de la cr&#233;ature est achev&#233;e, les tendons se d&#233;tachent de la structure et les os fusionnent entre eux pour former la cr&#233;ature anim&#233;e.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;TUPILAQ&lt;/b&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;NLS&lt;/b&gt; 8 ; &lt;b&gt;Prix&lt;/b&gt; 21 000 po&lt;br /&gt;&lt;/li&gt;&lt;/ul&gt;&lt;br /&gt;&lt;b&gt;Construction&lt;/b&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Conditions&lt;/b&gt; Cr&#233;ation de cr&#233;ature artificielle, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Aff&#251;tage.html&quot; title=&quot;Aff&#251;tage&quot;&gt;aff&#251;tage&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Mission.html&quot; title=&quot;Mission&quot;&gt;mission&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Localisation-De-Cr&#233;ature.html&quot; title=&quot;Localisation de cr&#233;ature&quot;&gt;localisation de cr&#233;ature&lt;/a&gt;&lt;/i&gt; le cr&#233;ateur doit avoir un niveau de lanceur de sorts minimum de 8, la cr&#233;ation doit se faire dans le plus grand secret ; &lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Artisanat.html&quot; title=&quot;Artisanat&quot;&gt;Artisanat&lt;/a&gt; (gravure sur os) &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DEGREDEDIFFICULTE&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; 20 ; &lt;b&gt;Co&#251;t&lt;/b&gt; 10 500 po&lt;br /&gt;&lt;/div&gt;&lt;br /&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;br /&gt;&lt;/li&gt;&lt;/ul&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Tupilaq|FP 7}
+{s:pucem|Créature artificielle|Ruines-Donjons|Tempéré}
+{s:BDTexte|''Source : Bestiaire 3 p 266''}
+{s:BDTexte|'''PX''' 204 800}
+{s:BDTexte|[[type Créature artificielle|Créature artificielle]] de taille P, N}
+{s:BDTexte|'''Init''' +4 ; '''Sens''' [[vision dans le noir]] 18 m (12 {s:c}), [[vision nocturne]] ; [[Perception]] +0}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 20, contact 15, pris au dépourvu 16 (Dex +4, naturelle +5, taille +1)}
+{s:BDTexte|'''pv''' 59 (9d10+10)}
+{s:BDTexte|'''Réf''' +7, '''Vig''' +3, '''Vol''' +3}
+{s:BDTexte|'''Immunités''' [[type Créature artificielle|traits des créatures artificielles]] ; '''[[RD]]''' 10/contondant}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 9 m (6 {s:c}), nage 18 m (12 {s:c})}
+{s:BDTexte|'''Corps à corps''' morsure, +15 (1d8+10/19-20 plus [[étreinte (capacité)|étreinte]]) et 2 griffes, +15 (1d4+5)}
+{s:BDTexte|'''Attaques spéciales''' recherche de cible, mâchoires tranchantes}
+{s:BDTexte|'''Pouvoirs magiques''' (NLS 7 ; concentration +4)}
+{s:BDSorts|1/jour — ''[[invisibilité]]''}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 21, '''Dex''' 18, '''Con''' —, '''Int''' —, '''Sag''' 11, '''Cha''' 5}
+{s:BDTexte|'''BBA''' +9, '''BMO''' +13 (+17 en [[lutte]]), '''DMD''' 27}
+{s:BDTexte|'''Compétences''' [[Natation]] +13}
+{s:BDTexte|'''Particularité''' magie de la gravure sur os}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' tous}
+{s:BDTexte|'''Organisation sociale''' solitaire}
+{s:BDTexte|'''Trésor''' aucun}
+{s:BDSousTitre|Particularités}
+{s:BDTexte|'''Mâchoires tranchantes (Ext).''' Tous les tupilaqs sont construits avec des mâchoires surdimensionnées capables de déchirer et de tracter. Le tupilaq rajoute deux fois son modificateur de Force aux dégâts qu’il inflige sur une morsure réussie et peut porter un [[coup critique]] sur un 19 ou un 20. Le tupilaq est considéré comme une créature de taille G en ce qui concerne tous ses tests pour déplacer un adversaire [[agrippé]].}
+{s:BDTexte|'''Magie de la gravure sur os (Sur).''' Lorsqu’un tupilaq est créé, son créateur peut inscrire un unique sort de sa connaissance (n’excédant pas le niveau 2 et ne nécessitant aucune composante matérielle) au sein du tupilaq sous forme d’un motif gravé complexe. Le tupilaq peut utiliser ce sort comme un [[pouvoir magique]] ([[NLS]] 7) trois fois par jour. Le créateur du tupilaq peut inscrire un nouveau sort sur le tupilaq s’il le souhaite, remplaçant ainsi le précédent. Il faut 24 heures de travail pour faire une nouvelle gravure et dépenser 500 po de matériel. Le tupilaq présenté ici utilise le sort ''[[invisibilité]]'' de cette manière. ''[[Effacement]]'' peut détruire la gravure du tupilaq si celui-ci rate un [[jet de sauvegarde|jet de Vigueur]] contre le sort. Lorsque la gravure d’un tupilaq est ainsi effacée, il n’a plus accès à ce sort comme [[pouvoir magique]] et part en quête de son créateur pour l’attaquer et le tuer. Le créateur du tupilaq devient alors la cible de la capacité de recherche de cible du tupilaq. Si son créateur est déjà mort, le tupilaq cherche alors la créature vivante la plus proche et l’attaque à vue, poursuivant cette orgie meurtrière jusqu’à ce qu’il soit lui-même détruit.}
+{s:BDTexte|'''Recherche de cible (Sur).''' Le créateur du tupilaq peut placer une goutte de sang, un cheveu ou une autre partie du corps d’une créature dans la mâchoire du tupilaq par une [[action simple]]. À partir de ce moment, le tupilaq sait toujours dans quelle direction se trouve la créature et gagne un bonus d’intuition de +20 à tous ses tests de [[Perception]] pour la localiser. Il est impossible d’assigner ainsi une nouvelle cible au tupilaq tant que la précédente n’est pas morte.}
+</div>
+</td><td><div>
+''Cette petite créature humanoïde se déplace en grinçant et en cliquetant, son corps étant taillé dans de l’os et orné de fines gravures.''
+
+Les tupilaqs sont de petites créatures artificielles taillées à partir d’os et de dents de baleines, dans le seul but d’assassiner les ennemis du créateur. L’apparence du tupilaq varie en fonction de sa construction mais tous ont des mâchoires proéminentes et un petit corps aux mains et aux pieds adaptés à la nage. Le tupilaq mesure généralement 90 centimètres et ne pèse que 15 kilos.
+
+Les tupilaqs doivent être créés en secret : si quelqu’un devait découvrir qu’un tupilaq est en cours de création, sa construction échouerait aussitôt. Le créateur invite ou attire un esprit hôte pour qu’il prenne possession du tupilaq, processus qui fait partie intégrante de la création. Le plus souvent, l’animus du tupilaq correspond à l’esprit d’un enfant mort ou d’un autre petit humanoïde, l’égalité de taille entre le nouveau réceptacle et l’ancien corps de l’esprit étant ce qui donne à la créature sa vitesse et son agilité sur terre comme dans l’eau, caractéristique inhabituelle pour la plupart des créatures artificielles. L’esprit emprisonné est aussi ce qui rend le tupilaq si violent et si meurtrier.
+
+====Construction====
+Le tupilaq est construit à partir de 15 kilos d’os de baleines liés ensemble par des tendons. Lorsque la création de la créature est achevée, les tendons se détachent de la structure et les os fusionnent entre eux pour former la créature animée.
+
+'''TUPILAQ'''
+* '''NLS''' 8 ; '''Prix''' 21 000 po
+
+'''Construction'''
+* '''Conditions''' Création de créature artificielle, ''[[affûtage]]'', ''[[mission]]'', ''[[localisation de créature]]'' le créateur doit avoir un niveau de lanceur de sorts minimum de 8, la création doit se faire dans le plus grand secret ; '''Compétences''' [[Artisanat]] (gravure sur os) [[DD]] 20 ; '''Coût''' 10 500 po
+</div>
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Tupilaq</fullName>
+</wikiPage>

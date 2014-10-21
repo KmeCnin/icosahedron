@@ -1,0 +1,163 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Cavalier glacé</title>
+  <categories><category>Pathfinder-RPG.Bestiaire 3</category></categories>
+  <lastModified>2013-02-13 22:11:55Z</lastModified>
+  <version>3</version>
+  <inLinks><link>Pathfinder-RPG.Glossaire des monstres</link><link>Pathfinder-RPG.Liste de monstres par FP</link><link>Pathfinder-RPG.Liste de monstres par milieu naturel</link><link>Pathfinder-RPG.Liste de monstres par type</link><link>Pathfinder-RPG.Monstres</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.type Fée</link><link>Pathfinder-RPG.sous-type froid</link><link>Pathfinder-RPG.vision dans le noir</link><link>Pathfinder-RPG.vision nocturne</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Vulnérabilités</link><link>Pathfinder-RPG.passage sans trace</link><link>Pathfinder-RPG.Brume de dissimulation</link><link>Pathfinder-RPG.Coursier fantôme</link><link>Pathfinder-RPG.Métal gelé</link><link>Pathfinder-RPG.Rayon de givre</link><link>Pathfinder-RPG.Sommeil profond</link><link>Pathfinder-RPG.Tempête de grêle</link><link>Pathfinder-RPG.Liberté de mouvement</link><link>Pathfinder-RPG.Arme de prédilection</link><link>Pathfinder-RPG.Attaque au galop</link><link>Pathfinder-RPG.Charge dévastatrice</link><link>Pathfinder-RPG.Combat monté</link><link>Pathfinder-RPG.Piétinement</link><link>Pathfinder-RPG.Talent</link><link>Pathfinder-RPG.Science de linitiative</link><link>Pathfinder-RPG.Acrobaties</link><link>Pathfinder-RPG.Connaissances</link><link>Pathfinder-RPG.Dressage</link><link>Pathfinder-RPG.Équitation</link><link>Pathfinder-RPG.Intimidation</link><link>Pathfinder-RPG.Psychologie</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Cavalier glac&#233;&lt;div style=&quot;float:right;&quot;&gt;FP 8&lt;/div&gt;&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Bestiaire 3 page 43&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 4 800
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-F&#233;e.html&quot; title=&quot;F&#233;e&quot;&gt;F&#233;e&lt;/a&gt;,(&lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Froid.html&quot; title=&quot;Froid (sous-type)&quot;&gt;Froid&lt;/a&gt;) de taille M, CM
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +7 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Capacit&#233;s-Sp&#233;ciales.html#VISIONDANSLENOIR&quot; title=&quot;vision dans le noir&quot;&gt;vision dans le noir&lt;/a&gt; 18m ; &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Nocturne-(Capacit&#233;).html&quot; title=&quot;vision nocturne&quot;&gt;vision nocturne&lt;/a&gt; ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +18
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 21, contact 13, pris au d&#233;pourvu 18 (Armure +8, Dex +3)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 97 (13d6+52) ; gu&#233;rison acc&#233;l&#233;r&#233;e 5
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +11, &lt;b&gt;Vig&lt;/b&gt; +8, &lt;b&gt;Vol&lt;/b&gt; +10
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Capacit&#233; d&#233;fensive&lt;/b&gt; &#233;quipement de glace ;&lt;b&gt;Immunit&#233;&lt;/b&gt; froid ; &lt;b&gt;RM&lt;/b&gt; 19
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Faiblesse &lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vuln&#233;rabilit&#233;s-(Capacit&#233;).html&quot; title=&quot;Vuln&#233;rabilit&#233;s&quot;&gt;vuln&#233;rabilit&#233;&lt;/a&gt; au feu et au son ; sensibilit&#233; au fracassement
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 9 m (6 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), marche sur la glace
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; bois, +9 (2d6+3 plus 1d6 froid) ou coutille de froid intense +2, +12/+7 (1d10+6 plus 1d6 froid)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Pouvoirs magiques&lt;/b&gt; (NLS 10 ; concentration +13)
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+Constant — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Passage-Sans-Traces.html&quot; title=&quot;passage sans trace&quot;&gt;passage sans trace&lt;/a&gt;&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+A volont&#233; — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Brume-De-Dissimulation.html&quot; title=&quot;Brume de dissimulation&quot;&gt;brume de dissimulation&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Coursier-Fant&#244;me.html&quot; title=&quot;Coursier fant&#244;me&quot;&gt;coursier fant&#244;me&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;M&#233;tal-Gel&#233;.html&quot; title=&quot;M&#233;tal gel&#233;&quot;&gt;m&#233;tal gel&#233;&lt;/a&gt;&lt;/i&gt;(DD 15), &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Rayon-De-Givre.html&quot; title=&quot;Rayon de givre&quot;&gt;rayon de givre&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Sommeil-Profond.html&quot; title=&quot;Sommeil profond&quot;&gt;sommeil profond&lt;/a&gt;&lt;/i&gt;(DD 16)
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+1/jour — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Temp&#234;te-De-Gr&#234;le.html&quot; title=&quot;Temp&#234;te de gr&#234;le&quot;&gt;temp&#234;te de gr&#234;le&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Libert&#233;-De-Mouvement.html&quot; title=&quot;Libert&#233; de mouvement&quot;&gt;Libert&#233; de mouvement&lt;/a&gt;&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 17, &lt;b&gt;Dex&lt;/b&gt; 16, &lt;b&gt;Con&lt;/b&gt; 18, &lt;b&gt;Int&lt;/b&gt; 14, &lt;b&gt;Sag&lt;/b&gt; 15, &lt;b&gt;Cha&lt;/b&gt; 17
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +6, &lt;b&gt;BMO&lt;/b&gt; +9, &lt;b&gt;DMD&lt;/b&gt; 22
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Arme-De-Pr&#233;dilection.html&quot; title=&quot;Arme de pr&#233;dilection&quot;&gt;Arme de pr&#233;dilection&lt;/a&gt; (Coutille), &lt;a class=&quot;pagelink&quot; href=&quot;Attaque-Au-Galop.html&quot; title=&quot;Attaque au galop&quot;&gt;Attaque au galop&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Charge-D&#233;vastatrice.html&quot; title=&quot;Charge d&#233;vastatrice&quot;&gt;Charge d&#233;vastatrice&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Combat-Mont&#233;.html&quot; title=&quot;Combat mont&#233;&quot;&gt;Combat mont&#233;&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Pi&#233;tinement.html&quot; title=&quot;Pi&#233;tinement&quot;&gt;Pi&#233;tinement&lt;/a&gt; , &lt;a class=&quot;pagelink&quot; href=&quot;Talent.html&quot; title=&quot;Talent&quot;&gt;Talent&lt;/a&gt;(&#201;quitation), &lt;a class=&quot;pagelink&quot; href=&quot;Science-De-Linitiative.html&quot; title=&quot;Science de l&amp;#39;initiative&quot;&gt;Science de l’initiative&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Acrobaties.html&quot; title=&quot;Acrobaties&quot;&gt;Acrobaties&lt;/a&gt; +19), &lt;a class=&quot;pagelink&quot; href=&quot;Connaissances.html&quot; title=&quot;Connaissances&quot;&gt;Connaissances&lt;/a&gt; (nature) +18, &lt;a class=&quot;pagelink&quot; href=&quot;Dressage.html&quot; title=&quot;Dressage&quot;&gt;Dressage&lt;/a&gt; +16, &lt;a class=&quot;pagelink&quot; href=&quot;&#201;quitation.html&quot; title=&quot;&#201;quitation&quot;&gt;&#201;quitation&lt;/a&gt; +22, &lt;a class=&quot;pagelink&quot; href=&quot;Intimidation.html&quot; title=&quot;Intimidation&quot;&gt;Intimidation&lt;/a&gt; +16, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +18, &lt;a class=&quot;pagelink&quot; href=&quot;Psychologie.html&quot; title=&quot;Psychologie&quot;&gt;Psychologie&lt;/a&gt; +18
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Langues&lt;/b&gt; commun, elfique, sylvestre
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; tous les environnements froids
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation&lt;/b&gt; solitaire, couple ou cavalerie (3-12)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; standard
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Pouvoirs sp&#233;ciaux&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Equipement de glace (Sur). &lt;/b&gt; Le cavalier glac&#233; porte un harnois et manie une coutille de froid intense+2 constitu&#233;s de glace magique aussi solide que l’acier. Son armure ne donne pas de malus d’armure aux tests. Lorsqu’un cavalier glac&#233; meurt, son armure et sa coutille fondent et se transforment en eau en 1d6 rounds.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Marche sur la glace (Ext)&lt;/b&gt; Le cavalier glac&#233; et la cr&#233;ature qu’il chevauche, quelle qu’elle soit, peuvent se d&#233;placer sur les surfaces gel&#233;es sans malus et sans avoir besoin de faire de test d’Acrobaties pour courir ou charger. Ils peuvent escalader les surfaces gel&#233;es comme s’ils &#233;taient sous l’effet du sort pattes d’araign&#233;e.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Sensibilit&#233; au fracassement (Ext) &lt;/b&gt; Le sort de fracassement inflige 3d6 points de d&#233;g&#226;ts au cavalier glac&#233; (pas de jet de sauvegarde) et r&#233;duit son bonus d’armure de 2 pendant 1 minute. Les sorts de fracassement passent automatiquement la r&#233;sistance &#224; la magie du cavalier glac&#233;.
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;td&gt;&lt;div&gt;
+&lt;i&gt;Le casques de cette silhouette humano&#239;de en armure de glace est surmont&#233; d’une ramure de glace bleu nuit tordue et d&#233;chiquet&#233;e.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Les cavaliers glac&#233;s sont de terrifiantes majest&#233;s en armure,
+v&#234;tues d’une cape de froid. Leur t&#234;te presque squelettique
+est surmont&#233;e d’une paire de grands bois de cerf d’un bleu
+cristallin. Leur armure et leurs armes de glace font partie
+d’eux, au m&#234;me titre que leur chair gel&#233;e. Les cavaliers glac&#233;s
+se r&#233;galent &#224; pervertir, &#224; massacrer et &#224; corrompre les autres
+f&#233;es. Ils pr&#233;f&#232;rent les destriers morts-vivants ou r&#233;sistants
+au froid mais, m&#234;me lorsqu’ils n’en n’ont pas &#224; disposition,
+ils ne restent jamais longtemps sans monture gr&#226;ce &#224; leur
+pouvoir magique de coursier fant&#244;me.
+Les cavaliers glac&#233;s mesurent 2,10 m&#232;tres, mais la ramure
+qu’ils portent leur ajoute ais&#233;ment 60 centim&#232;tres. Ils p&#232;sent
+150 kilos.&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Cavalier glacé|FP 8}
+{s:pucem|Fée|Forêt-Jungle|Froid}
+{s:BDTexte|''Source : Bestiaire 3 page 43''}
+{s:BDTexte|'''PX''' 4 800}
+{s:BDTexte|[[type Fée|Fée]],([[sous-type Froid|Froid]]) de taille M, CM}
+{s:BDTexte|'''Init''' +7 ; '''Sens''' [[vision dans le noir]] 18m ; [[vision nocturne]] ; [[Perception]] +18}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 21, contact 13, pris au dépourvu 18 (Armure +8, Dex +3)}
+{s:BDTexte|'''pv''' 97 (13d6+52) ; guérison accélérée 5}
+{s:BDTexte|'''Réf''' +11, '''Vig''' +8, '''Vol''' +10}
+{s:BDTexte|'''Capacité défensive''' équipement de glace ;'''Immunité''' froid ; '''RM''' 19}
+{s:BDTexte|'''Faiblesse ''' [[Vulnérabilités|vulnérabilité]] au feu et au son ; sensibilité au fracassement}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 9 m (6 {s:c}), marche sur la glace}
+{s:BDTexte|'''Corps à corps''' bois, +9 (2d6+3 plus 1d6 froid) ou coutille de froid intense +2, +12/+7 (1d10+6 plus 1d6 froid)}
+{s:BDTexte|'''Pouvoirs magiques''' (NLS 10 ; concentration +13)}
+{s:BDSorts|Constant — ''[[passage sans trace]]''}
+{s:BDSorts|A volonté — ''[[brume de dissimulation]]'', ''[[coursier fantôme]]'', ''[[métal gelé]]''(DD 15), ''[[rayon de givre]]'', ''[[sommeil profond]]''(DD 16)}
+{s:BDSorts|1/jour — ''[[tempête de grêle]]'', ''[[Liberté de mouvement]]''}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 17, '''Dex''' 16, '''Con''' 18, '''Int''' 14, '''Sag''' 15, '''Cha''' 17}
+{s:BDTexte|'''BBA''' +6, '''BMO''' +9, '''DMD''' 22}
+{s:BDTexte|'''Dons''' [[Arme de prédilection]] (Coutille), [[Attaque au galop]], [[Charge dévastatrice]], [[Combat monté]], [[Piétinement]] , [[Talent]](Équitation), [[Science de linitiative|Science de l’initiative]]}
+{s:BDTexte|'''Compétences''' [[Acrobaties]] +19), [[Connaissances]] (nature) +18, [[Dressage]] +16, [[Équitation]] +22, [[Intimidation]] +16, [[Perception]] +18, [[Psychologie]] +18}
+{s:BDTexte|'''Langues''' commun, elfique, sylvestre}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' tous les environnements froids}
+{s:BDTexte|'''Organisation''' solitaire, couple ou cavalerie (3-12)}
+{s:BDTexte|'''Trésor''' standard}
+{s:BDSousTitre|Pouvoirs spéciaux}
+{s:BDTexte|'''Equipement de glace (Sur). ''' Le cavalier glacé porte un harnois et manie une coutille de froid intense+2 constitués de glace magique aussi solide que l’acier. Son armure ne donne pas de malus d’armure aux tests. Lorsqu’un cavalier glacé meurt, son armure et sa coutille fondent et se transforment en eau en 1d6 rounds.}
+{s:BDTexte|'''Marche sur la glace (Ext)''' Le cavalier glacé et la créature qu’il chevauche, quelle qu’elle soit, peuvent se déplacer sur les surfaces gelées sans malus et sans avoir besoin de faire de test d’Acrobaties pour courir ou charger. Ils peuvent escalader les surfaces gelées comme s’ils étaient sous l’effet du sort pattes d’araignée.}
+{s:BDTexte|'''Sensibilité au fracassement (Ext) ''' Le sort de fracassement inflige 3d6 points de dégâts au cavalier glacé (pas de jet de sauvegarde) et réduit son bonus d’armure de 2 pendant 1 minute. Les sorts de fracassement passent automatiquement la résistance à la magie du cavalier glacé.}
+</div>
+</td><td><div>
+''Le casques de cette silhouette humanoïde en armure de glace est surmonté d’une ramure de glace bleu nuit tordue et déchiquetée.''
+
+Les cavaliers glacés sont de terrifiantes majestés en armure,
+vêtues d’une cape de froid. Leur tête presque squelettique
+est surmontée d’une paire de grands bois de cerf d’un bleu
+cristallin. Leur armure et leurs armes de glace font partie
+d’eux, au même titre que leur chair gelée. Les cavaliers glacés
+se régalent à pervertir, à massacrer et à corrompre les autres
+fées. Ils préfèrent les destriers morts-vivants ou résistants
+au froid mais, même lorsqu’ils n’en n’ont pas à disposition,
+ils ne restent jamais longtemps sans monture grâce à leur
+pouvoir magique de coursier fantôme.
+Les cavaliers glacés mesurent 2,10 mètres, mais la ramure
+qu’ils portent leur ajoute aisément 60 centimètres. Ils pèsent
+150 kilos.</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Cavalier glacé</fullName>
+</wikiPage>

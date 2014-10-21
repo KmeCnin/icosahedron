@@ -1,0 +1,119 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Pétitionnaire humain</title>
+  <categories></categories>
+  <lastModified>2013-02-06 21:53:57Z</lastModified>
+  <version>4</version>
+  <inLinks><link>Pathfinder-RPG.Glossaire des monstres</link><link>Pathfinder-RPG.Liste de monstres par milieu naturel</link><link>Pathfinder-RPG.Liste de monstres par type</link><link>Pathfinder-RPG.Monstres</link><link>Pathfinder-RPG.Pétitionnaire, archétype</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.type Extérieur</link><link>Pathfinder-RPG.sous-type extraplanaire</link><link>Pathfinder-RPG.Alignement</link><link>Pathfinder-RPG.vision dans le noir</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.effet mental</link><link>Pathfinder-RPG.Robustesse</link><link>Pathfinder-RPG.Artisanat</link><link>Pathfinder-RPG.Connaissances</link><link>Pathfinder-RPG.Discrétion</link><link>Pathfinder-RPG.Psychologie</link><link>Pathfinder-RPG.Pétitionnaire, archétype</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;P&#233;titionnaire&lt;div style=&quot;float:right;&quot;&gt;FP 1&lt;/div&gt;&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Bestiaire 2 p 216&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 400
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Ext&#233;rieur.html&quot; title=&quot;Ext&#233;rieur&quot;&gt;Exterieur&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Extraplanaire.html&quot; title=&quot;Extraplanaire (sous-type)&quot;&gt;Extraplanaire&lt;/a&gt;) de taille M, &lt;a class=&quot;pagelink&quot; href=&quot;Alignement.html&quot; title=&quot;L&amp;#39;alignement&quot;&gt;alignement&lt;/a&gt; selon le plan d&#39;origine
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +0 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Capacit&#233;s-Sp&#233;ciales.html#VISIONDANSLENOIR&quot; title=&quot;vision dans le noir&quot;&gt;vision dans le noir&lt;/a&gt; 18 m (12 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +5
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 10, contact 10, pris au d&#233;pourvu 10
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 16 (2d10+5)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +3, &lt;b&gt;Vig&lt;/b&gt; +4, &lt;b&gt;Vol&lt;/b&gt; +0
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Immunit&#233;s&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#REGISTRE&quot; title=&quot;effet mental&quot;&gt;effets mentaux&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 9 m (6 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; coup, +2 (1d4)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 11, &lt;b&gt;Dex&lt;/b&gt; 10, &lt;b&gt;Con&lt;/b&gt; 13, &lt;b&gt;Int&lt;/b&gt; 10, &lt;b&gt;Sag&lt;/b&gt; 11, &lt;b&gt;Cha&lt;/b&gt;10
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +2, &lt;b&gt;BMO&lt;/b&gt; +2, &lt;b&gt;DMD&lt;/b&gt; 12
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Robustesse.html&quot; title=&quot;Robustesse&quot;&gt;Robustesse&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Artisanat.html&quot; title=&quot;Artisanat&quot;&gt;Artisanat&lt;/a&gt; (deux au choix) +5, &lt;a class=&quot;pagelink&quot; href=&quot;Connaissances.html&quot; title=&quot;Connaissances&quot;&gt;Connaissances&lt;/a&gt; (plans) +5, &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; +5, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +5, &lt;a class=&quot;pagelink&quot; href=&quot;Psychologie.html&quot; title=&quot;Psychologie&quot;&gt;Psychologie&lt;/a&gt; +5
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Langues&lt;/b&gt; commun
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Particularit&#233;s&lt;/b&gt; traits des p&#233;titionnaires
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; tous (plans Ext&#233;rieurs)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation sociale&lt;/b&gt; solitaire, couple, groupe (3-12) ou arm&#233;e (13 ou plus)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; aucun
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Capacit&#233;s sp&#233;ciales&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Traits des p&#233;titionnaires.&lt;/b&gt; Un p&#233;titionnaire poss&#232;de des &lt;a class=&quot;pagelink&quot; href=&quot;P&#233;titionnaire,-Arch&#233;type.html&quot; title=&quot;P&#233;titionnaire, arch&#233;type&quot;&gt;capacit&#233;s et des caract&#233;ristiques&lt;/a&gt; d&#233;pendant de son plan d’origine. Son alignement correspond &#224; l’alignement de son plan d’origine.
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;td&gt;&lt;div&gt;&lt;i&gt;Il y a quelque chose de bizarre et d’&#233;trangement familier dans cette ombre fantomatique humano&#239;de qui semble quasi immat&#233;rielle.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Les p&#233;titionnaires sont les &#226;mes des mortels qui ont &#233;t&#233; amen&#233;es vers les plans Ext&#233;rieurs apr&#232;s leur mort afin de pouvoir recevoir leur r&#233;compense, leur punition ou leur destin ultime. Un p&#233;titionnaire conserve des fragments de souvenirs de sa vie et son apparence d&#233;pend non seulement de la forme qu’il poss&#233;dait de son vivant mais aussi de la nature du plan Ext&#233;rieur sur lequel il est arriv&#233;. Le profil pr&#233;sent&#233; ci-dessus repr&#233;sente un p&#233;titionnaire typique form&#233; &#224; partir de l’&#226;me d’un humain moyen et ne comporte aucune des capacit&#233;s ou particularit&#233;s propres &#224; un plan qu’un p&#233;titionnaire devrait normalement acqu&#233;rir. Il convient donc de le modifier en fonction du plan auquel le p&#233;titionnaire est assign&#233;.&lt;br /&gt;&lt;br /&gt;Les cr&#233;atures qui meurent, qui deviennent des p&#233;titionnaires puis qui sont ramen&#233;es &#224; la vie ne conservent aucun souvenir de leur existence en tant que p&#233;titionnaires dans l’apr&#232;s-vie. Un p&#233;titionnaire qui meurt dispara&#238;t &#224; tout jamais : sa &#171; force vitale &#187; retourne au plan de l’&#201;nergie positive ou, dans certains
+cas, est utilis&#233;e comme source d’&#233;nergie pour cr&#233;er un autre type d’Ext&#233;rieur. Les p&#233;titionnaires qui s’attirent les faveurs d’une divinit&#233; ou d’un Ext&#233;rieur puissant peuvent recevoir des r&#233;compenses. Le plus souvent, il s’agit d’une transformation en un Ext&#233;rieur diff&#233;rent, comme un archon, un azata, un d&#233;mon ou un diable (selon l’alignement du p&#233;titionnaire). Certaines cr&#233;atures conservent la personnalit&#233; qu’elles poss&#233;daient de leur vivant pendant toute leur &#233;volution de p&#233;titionnaires et m&#234;me jusqu’&#224; leur &#171; troisi&#232;me vie &#187; d’Ext&#233;rieurs. Cela reste toutefois tr&#232;s rare.
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Pétitionnaire|FP 1}
+{s:pucem|Extérieur|Ville|Extraplanaire}
+{s:BDTexte|''Source : Bestiaire 2 p 216''}
+{s:BDTexte|'''PX''' 400}
+{s:BDTexte|[[type Extérieur|Exterieur]] ([[sous-type extraplanaire|Extraplanaire]]) de taille M, [[alignement]] selon le plan d'origine}
+{s:BDTexte|'''Init''' +0 ; '''Sens''' [[vision dans le noir]] 18 m (12 {s:c}) ; [[Perception]] +5}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 10, contact 10, pris au dépourvu 10}
+{s:BDTexte|'''pv''' 16 (2d10+5)}
+{s:BDTexte|'''Réf''' +3, '''Vig''' +4, '''Vol''' +0}
+{s:BDTexte|'''Immunités''' [[effet mental|effets mentaux]]}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 9 m (6 {s:c})}
+{s:BDTexte|'''Corps à corps''' coup, +2 (1d4)}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 11, '''Dex''' 10, '''Con''' 13, '''Int''' 10, '''Sag''' 11, '''Cha'''10}
+{s:BDTexte|'''BBA''' +2, '''BMO''' +2, '''DMD''' 12}
+{s:BDTexte|'''Dons''' [[Robustesse]]}
+{s:BDTexte|'''Compétences''' [[Artisanat]] (deux au choix) +5, [[Connaissances]] (plans) +5, [[Discrétion]] +5, [[Perception]] +5, [[Psychologie]] +5}
+{s:BDTexte|'''Langues''' commun}
+{s:BDTexte|'''Particularités''' traits des pétitionnaires}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' tous (plans Extérieurs)}
+{s:BDTexte|'''Organisation sociale''' solitaire, couple, groupe (3-12) ou armée (13 ou plus)}
+{s:BDTexte|'''Trésor''' aucun}
+{s:BDSousTitre|Capacités spéciales}
+{s:BDTexte|'''Traits des pétitionnaires.''' Un pétitionnaire possède des [[Pétitionnaire, archétype|capacités et des caractéristiques]] dépendant de son plan d’origine. Son alignement correspond à l’alignement de son plan d’origine.}
+</div>
+</td><td><div>''Il y a quelque chose de bizarre et d’étrangement familier dans cette ombre fantomatique humanoïde qui semble quasi immatérielle.''
+
+Les pétitionnaires sont les âmes des mortels qui ont été amenées vers les plans Extérieurs après leur mort afin de pouvoir recevoir leur récompense, leur punition ou leur destin ultime. Un pétitionnaire conserve des fragments de souvenirs de sa vie et son apparence dépend non seulement de la forme qu’il possédait de son vivant mais aussi de la nature du plan Extérieur sur lequel il est arrivé. Le profil présenté ci-dessus représente un pétitionnaire typique formé à partir de l’âme d’un humain moyen et ne comporte aucune des capacités ou particularités propres à un plan qu’un pétitionnaire devrait normalement acquérir. Il convient donc de le modifier en fonction du plan auquel le pétitionnaire est assigné.
+
+Les créatures qui meurent, qui deviennent des pétitionnaires puis qui sont ramenées à la vie ne conservent aucun souvenir de leur existence en tant que pétitionnaires dans l’après-vie. Un pétitionnaire qui meurt disparaît à tout jamais : sa « force vitale » retourne au plan de l’Énergie positive ou, dans certains
+cas, est utilisée comme source d’énergie pour créer un autre type d’Extérieur. Les pétitionnaires qui s’attirent les faveurs d’une divinité ou d’un Extérieur puissant peuvent recevoir des récompenses. Le plus souvent, il s’agit d’une transformation en un Extérieur différent, comme un archon, un azata, un démon ou un diable (selon l’alignement du pétitionnaire). Certaines créatures conservent la personnalité qu’elles possédaient de leur vivant pendant toute leur évolution de pétitionnaires et même jusqu’à leur « troisième vie » d’Extérieurs. Cela reste toutefois très rare.
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Pétitionnaire humain</fullName>
+</wikiPage>

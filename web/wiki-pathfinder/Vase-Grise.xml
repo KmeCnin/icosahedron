@@ -1,0 +1,214 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Vase grise</title>
+  <categories><category>Pathfinder-RPG.Bestiaire</category><category>Pathfinder-RPG.Monstre</category></categories>
+  <lastModified>2013-02-06 19:43:47Z</lastModified>
+  <version>9</version>
+  <inLinks><link>Pathfinder-RPG.découvertes</link><link>Pathfinder-RPG.Glossaire des monstres</link><link>Pathfinder-RPG.Liste de monstres par FP</link><link>Pathfinder-RPG.Liste de monstres par milieu naturel</link><link>Pathfinder-RPG.Liste de monstres par type</link><link>Pathfinder-RPG.Monstres</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.type Vase</link><link>Pathfinder-RPG.vision aveugle</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Étreinte</link><link>Pathfinder-RPG.constriction</link><link>Pathfinder-RPG.Agrippé</link><link>Pathfinder-RPG.Réflexes</link><link>Pathfinder-RPG.DD</link><link>Pathfinder-RPG.jet de sauvegarde</link><link>Pathfinder-RPG.Constitution</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Vase grise&lt;div style=&quot;float:right;&quot;&gt;FP 4&lt;/div&gt;&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Bestiaire&lt;/i&gt; p.281
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;XP&lt;/b&gt; 1.200
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Vase.html&quot; title=&quot;Vase&quot;&gt;Vase&lt;/a&gt; de taille M, N
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; -5 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Aveugle-(Capacit&#233;).html&quot; title=&quot;vision aveugle&quot;&gt;vision aveugle&lt;/a&gt; 18 m (12 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; -5
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 5, contact 5, pris au d&#233;pourvu 5 (Dex -5)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 50 (4d8+32)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; -4, &lt;b&gt;Vig&lt;/b&gt; +9, &lt;b&gt;Vol&lt;/b&gt; -4
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Capacit&#233;s d&#233;fensives&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Type-Vase.html&quot; title=&quot;Vase&quot;&gt;traits des vases&lt;/a&gt; ; &lt;b&gt;Immunit&#233;s&lt;/b&gt; feu, froid 
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 3 m (2 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; coup +6 (1d6+4 et 1d6 acide et &lt;a class=&quot;pagelink&quot; href=&quot;&#201;treinte-(Capacit&#233;).html&quot; title=&quot;&#201;treinte&quot;&gt;&#233;treinte&lt;/a&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaques sp&#233;ciales&lt;/b&gt; acide, &lt;a class=&quot;pagelink&quot; href=&quot;Constriction-(Capacit&#233;).html&quot; title=&quot;constriction&quot;&gt;constriction&lt;/a&gt; (1d6+1 et 1d6 acide)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 16, &lt;b&gt;Dex&lt;/b&gt; 1, &lt;b&gt;Con&lt;/b&gt; 26, &lt;b&gt;Int&lt;/b&gt; -, &lt;b&gt;Sag&lt;/b&gt; 1, &lt;b&gt;Cha&lt;/b&gt; 1
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +3, &lt;b&gt;BMO&lt;/b&gt; +6 (+10 pour la lutte), &lt;b&gt;DMD&lt;/b&gt; 11 (croc-en-jambe impossible)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Particularit&#233;s&lt;/b&gt; transparence
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; marais froids ou souterrain
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation sociale&lt;/b&gt; solitaire
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; aucun
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Capacit&#233;s sp&#233;ciales&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Acide (Ext)&lt;/b&gt; Les acides digestifs qui recouvrent les vases grises dissolvent les m&#233;taux et les mati&#232;res organiques, mais pas la pierre. Leurs attaques de coup et de &lt;a class=&quot;pagelink&quot; href=&quot;Constriction-(Capacit&#233;).html&quot; title=&quot;constriction&quot;&gt;constriction&lt;/a&gt; infligent 1d6 points de d&#233;g&#226;ts d&#39;acide suppl&#233;mentaires. Les armures et les v&#234;tements des cr&#233;atures &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables.html#Agripp&#233;&quot; title=&quot;Agripp&#233;&quot;&gt;agripp&#233;es&lt;/a&gt; par les vases grises subissent la m&#234;me quantit&#233; de d&#233;g&#226;ts, &#224; moins qu&#39;elles ne r&#233;ussissent un jet de &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;R&#233;flexes&quot;&gt;R&#233;flexes&lt;/a&gt; de &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DEGREDEDIFFICULTE&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; 20. Les armes en bois ou en m&#233;tal qui frappent une vase grise subissent 1d6 points de d&#233;g&#226;ts d&#39;acide, &#224; moins que la cr&#233;ature qui les manipule ne r&#233;ussisse un jet de &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;R&#233;flexes&quot;&gt;R&#233;flexes&lt;/a&gt; de DD 20. En touchant un objet en m&#233;tal ou en bois, une vase grise peut lui infliger 12 points de d&#233;g&#226;ts d&#39;acide par round, mais elle doit rester en contact avec l&#39;objet pendant 1 round entier pour lui causer ces d&#233;g&#226;ts. Les DD des &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;jet de sauvegarde&quot;&gt;jets de sauvegarde&lt;/a&gt; d&#233;pendent de la &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#CONSTITUTION&quot; title=&quot;La Constitution&quot;&gt;Constitution&lt;/a&gt;.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Transparent (Ext)&lt;/b&gt; Les vases grises, d&#233;nu&#233;es de couleurs vives, sont difficiles &#224; distinguer dans la plupart des environnements. Il faut r&#233;ussir un test de de &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; de DD 15 pour les rep&#233;rer. Les cr&#233;atures qui marchent dans une vase grise qu&#39;elles n&#39;ont pas remarqu&#233;e subissent automatiquement les m&#234;mes d&#233;g&#226;ts que si elles avaient &#233;t&#233; frapp&#233;es par la vase et cette derni&#232;re peut tenter de les &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables.html#Agripp&#233;&quot; title=&quot;Agripp&#233;&quot;&gt;agripper&lt;/a&gt; sur le champ.
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;td&gt;&lt;div&gt;&lt;i&gt;Un pseudopode jaillit tout &#224; coup de ce qui semblait &#234;tre une simple
+flaque, une dalle humide ou un rocher glissant.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Les vases grises s&#233;vissent dans les marais froids, les mar&#233;cages embrum&#233;s
+ou m&#234;me parfois les souterrains et les grottes, consommant
+toutes les mati&#232;res organiques qu’elles trouvent. Elles ne sont pas
+intelligentes mais leur transparence les rend dangereuses. Elles ne
+peuvent pas vraiment escalader les murs ou nager mais, comme elles
+ont l’habitude de se tapir dans la boue &#233;paisse au bord des &#233;tangs
+mar&#233;cageux ou dans les f laques apparemment inoffensives qui pars&#232;ment
+les sols ternes des passages souterrains, il est tr&#232;s facile (et
+tr&#232;s dangereux) de les ignorer et de marcher sur elles.&lt;br /&gt;&lt;br /&gt;Certains &#233;rudits pensent que les vases grises seraient le r&#233;sultat
+d’une exp&#233;rience alchimique qui aurait mal tourn&#233;. D’autres sugg&#232;rent
+que les premi&#232;res vases grises seraient apparues spontan&#233;ment
+dans une fosse o&#249; des d&#233;chets magiques auraient &#233;t&#233; m&#233;lang&#233;s. Ces
+deux th&#233;ories, qui supposent que les vases grises ne sont pas des organismes
+vivants mais de simples cr&#233;ations alchimiques r&#233;sultant d’un
+malheureux m&#233;lange de fluides caustiques et de d&#233;tritus magiques,
+sont contredites par tous ceux qui habitent une r&#233;gion o&#249; pullulent ces
+cr&#233;atures, sans pour autant qu’il y ait jamais eu de pollution magique.
+&lt;h3 class=&quot;separator&quot;&gt;Variantes des vases grises&lt;a class=&quot;headeranchor&quot; id=&quot;Variantes_des_vases_grises_0&quot; href=&quot;#Variantes_des_vases_grises_0&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;Les vases grises s’adaptent facilement et rapidement aux
+changements environnementaux : les structures simples qui
+constituent sa forme primitive et sa m&#233;thode de reproduction
+par fission concourent &#224; garantir une &#233;volution rapide. Voici deux
+variantes que certains aventuriers ont d&#233;j&#224; pu croiser.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Vase cristalline (FP 4)&lt;/b&gt;. La vase cristalline est une variante
+aquatique qui vit dans les eaux plus profondes que celles des marais
+o&#249; on trouve des vases grises. Les vases cristallines appartiennent
+au sous-type &#171; aquatique &#187; et poss&#232;dent une vitesse de nage de
+9 m&#232;tres. Elles ne disposent pas de la capacit&#233; de constriction
+des vases grises mais s&#233;cr&#232;tent une toxine qui peut paralyser les
+victimes qu’elles touchent pendant 3d6 rounds si elles ratent un jet
+de Vigueur (dont le DD d&#233;pend de la Constitution).&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Vase &#233;veill&#233;e (FP 6).&lt;/b&gt; Les cousins des vases grises
+les plus &#233;tranges sont peut-&#234;tre ceux qui ont d&#233;velopp&#233;
+une intelligence rudimentaire gr&#226;ce &#224; laquelle
+ils peuvent entre autres communiquer
+par t&#233;l&#233;pathie avec d’autres vases et attaquer leurs
+ennemis &#224; l’aide de traits d’&#233;nergie mentale. Les
+vases &#233;veill&#233;es sont des vases grises &#233;volu&#233;es avec
+une Intelligence de 2 (elles gagnent donc
+des comp&#233;tences et des dons, g&#233;n&#233;ralement
+4 rangs en Discr&#233;tion et les dons
+de Robustesse et de Science de l’initiative).
+Elles peuvent communiquer par
+t&#233;l&#233;pathie des impressions empathiques
+sommaires aux autres
+vases &#233;veill&#233;es situ&#233;es dans un
+rayon de 30 m&#232;tres et elles
+peuvent utiliser confusion mineure
+&#224; volont&#233; comme un pouvoir
+magique (avec un NLS &#233;gal
+&#224; leur nombre de d&#233;s de vie).
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Vase grise|FP 4}
+{s:pucem|Vase|Marais|Froid}
+{s:BDTexte|''Source : Bestiaire'' p.281}
+{s:BDTexte|'''XP''' 1.200}
+{s:BDTexte|[[type Vase|Vase]] de taille M, N}
+{s:BDTexte|'''Init''' -5 ; '''Sens''' [[vision aveugle]] 18 m (12 {s:c}) ; [[Perception]] -5}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 5, contact 5, pris au dépourvu 5 (Dex -5)}
+{s:BDTexte|'''pv''' 50 (4d8+32)}
+{s:BDTexte|'''Réf''' -4, '''Vig''' +9, '''Vol''' -4}
+{s:BDTexte|'''Capacités défensives''' [[type vase|traits des vases]] ; '''Immunités''' feu, froid }
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 3 m (2 {s:c})}
+{s:BDTexte|'''Corps à corps''' coup +6 (1d6+4 et 1d6 acide et [[étreinte]])}
+{s:BDTexte|'''Attaques spéciales''' acide, [[constriction]] (1d6+1 et 1d6 acide)}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 16, '''Dex''' 1, '''Con''' 26, '''Int''' -, '''Sag''' 1, '''Cha''' 1}
+{s:BDTexte|'''BBA''' +3, '''BMO''' +6 (+10 pour la lutte), '''DMD''' 11 (croc-en-jambe impossible)}
+{s:BDTexte|'''Particularités''' transparence}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' marais froids ou souterrain}
+{s:BDTexte|'''Organisation sociale''' solitaire}
+{s:BDTexte|'''Trésor''' aucun}
+{s:BDSousTitre|Capacités spéciales}
+{s:BDTexte|'''Acide (Ext)''' Les acides digestifs qui recouvrent les vases grises dissolvent les métaux et les matières organiques, mais pas la pierre. Leurs attaques de coup et de [[constriction]] infligent 1d6 points de dégâts d'acide supplémentaires. Les armures et les vêtements des créatures [[agrippé|agrippées]] par les vases grises subissent la même quantité de dégâts, à moins qu'elles ne réussissent un jet de [[Réflexes]] de [[DD]] 20. Les armes en bois ou en métal qui frappent une vase grise subissent 1d6 points de dégâts d'acide, à moins que la créature qui les manipule ne réussisse un jet de [[Réflexes]] de DD 20. En touchant un objet en métal ou en bois, une vase grise peut lui infliger 12 points de dégâts d'acide par round, mais elle doit rester en contact avec l'objet pendant 1 round entier pour lui causer ces dégâts. Les DD des [[jet de sauvegarde|jets de sauvegarde]] dépendent de la [[Constitution]].}
+{s:BDTexte|'''Transparent (Ext)''' Les vases grises, dénuées de couleurs vives, sont difficiles à distinguer dans la plupart des environnements. Il faut réussir un test de de [[Perception]] de DD 15 pour les repérer. Les créatures qui marchent dans une vase grise qu'elles n'ont pas remarquée subissent automatiquement les mêmes dégâts que si elles avaient été frappées par la vase et cette dernière peut tenter de les [[agrippé|agripper]] sur le champ.}
+</div>
+</td><td><div>''Un pseudopode jaillit tout à coup de ce qui semblait être une simple
+flaque, une dalle humide ou un rocher glissant.''
+
+Les vases grises sévissent dans les marais froids, les marécages embrumés
+ou même parfois les souterrains et les grottes, consommant
+toutes les matières organiques qu’elles trouvent. Elles ne sont pas
+intelligentes mais leur transparence les rend dangereuses. Elles ne
+peuvent pas vraiment escalader les murs ou nager mais, comme elles
+ont l’habitude de se tapir dans la boue épaisse au bord des étangs
+marécageux ou dans les f laques apparemment inoffensives qui parsèment
+les sols ternes des passages souterrains, il est très facile (et
+très dangereux) de les ignorer et de marcher sur elles.
+
+Certains érudits pensent que les vases grises seraient le résultat
+d’une expérience alchimique qui aurait mal tourné. D’autres suggèrent
+que les premières vases grises seraient apparues spontanément
+dans une fosse où des déchets magiques auraient été mélangés. Ces
+deux théories, qui supposent que les vases grises ne sont pas des organismes
+vivants mais de simples créations alchimiques résultant d’un
+malheureux mélange de fluides caustiques et de détritus magiques,
+sont contredites par tous ceux qui habitent une région où pullulent ces
+créatures, sans pour autant qu’il y ait jamais eu de pollution magique.
+====Variantes des vases grises====
+Les vases grises s’adaptent facilement et rapidement aux
+changements environnementaux : les structures simples qui
+constituent sa forme primitive et sa méthode de reproduction
+par fission concourent à garantir une évolution rapide. Voici deux
+variantes que certains aventuriers ont déjà pu croiser.
+
+'''Vase cristalline (FP 4)'''. La vase cristalline est une variante
+aquatique qui vit dans les eaux plus profondes que celles des marais
+où on trouve des vases grises. Les vases cristallines appartiennent
+au sous-type « aquatique » et possèdent une vitesse de nage de
+9 mètres. Elles ne disposent pas de la capacité de constriction
+des vases grises mais sécrètent une toxine qui peut paralyser les
+victimes qu’elles touchent pendant 3d6 rounds si elles ratent un jet
+de Vigueur (dont le DD dépend de la Constitution).
+
+'''Vase éveillée (FP 6).''' Les cousins des vases grises
+les plus étranges sont peut-être ceux qui ont développé
+une intelligence rudimentaire grâce à laquelle
+ils peuvent entre autres communiquer
+par télépathie avec d’autres vases et attaquer leurs
+ennemis à l’aide de traits d’énergie mentale. Les
+vases éveillées sont des vases grises évoluées avec
+une Intelligence de 2 (elles gagnent donc
+des compétences et des dons, généralement
+4 rangs en Discrétion et les dons
+de Robustesse et de Science de l’initiative).
+Elles peuvent communiquer par
+télépathie des impressions empathiques
+sommaires aux autres
+vases éveillées situées dans un
+rayon de 30 mètres et elles
+peuvent utiliser confusion mineure
+à volonté comme un pouvoir
+magique (avec un NLS égal
+à leur nombre de dés de vie).
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Vase grise</fullName>
+</wikiPage>

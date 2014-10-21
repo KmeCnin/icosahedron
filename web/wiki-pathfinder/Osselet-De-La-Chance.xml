@@ -1,0 +1,104 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Osselet de la chance</title>
+  <categories><category>Pathfinder-RPG.Advanced Player Guide</category><category>Pathfinder-RPG.Artefact magique</category><category>Pathfinder-RPG.Objet magique</category><category>Pathfinder-RPG.Règles officielles</category></categories>
+  <lastModified>2011-08-20 15:24:54Z</lastModified>
+  <version>0</version>
+  <inLinks><link>Pathfinder-RPG.Artefacts</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Artefacts</link><link>Pathfinder-RPG.niveau négatif</link><link>Pathfinder-RPG.Volonté</link><link>Pathfinder-RPG.DD</link><link>Pathfinder-RPG.Mise à mal</link><link>Pathfinder-RPG.NLS</link><link>Pathfinder-RPG.Aveuglé</link><link>Pathfinder-RPG.Cécitésurdité</link><link>Pathfinder-RPG.jet de sauvegarde</link><link>Pathfinder-RPG.Vigueur</link><link>Pathfinder-RPG.Paralysé</link><link>Pathfinder-RPG.Immobilisation de monstre</link><link>Pathfinder-RPG.Diplomatie</link><link>Pathfinder-RPG.Discrétion</link><link>Pathfinder-RPG.Domaine de la Chance</link><link>Pathfinder-RPG.Immunité</link><link>Pathfinder-RPG.Protection contre les énergies destructives</link><link>Pathfinder-RPG.Héroïsme</link><link>Pathfinder-RPG.prise en tenaille</link><link>Pathfinder-RPG.Lueur féerique</link><link>Pathfinder-RPG.Éclair</link><link>Pathfinder-RPG.branche guérison</link><link>Pathfinder-RPG.coup critique</link><link>Pathfinder-RPG.Résurrection</link></outLinks>
+  <body><![CDATA[&lt;div style=&quot;float:right&quot;&gt;&lt;b&gt;&lt;i&gt;Retour aux &lt;a class=&quot;pagelink&quot; href=&quot;Artefacts.html&quot; title=&quot;Les artefacts&quot;&gt;Artefacts&lt;/a&gt;.&lt;/i&gt;&lt;/b&gt;&lt;/div&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Osselet de la chance capricieuse&lt;div style=&quot;float:right;&quot;&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;b&gt;Aura&lt;/b&gt; Toutes les &#233;coles, puissantes ; &lt;b&gt;NLS&lt;/b&gt; 20 ; &lt;b&gt;Emplacement&lt;/b&gt; aucun ; &lt;b&gt;Poids&lt;/b&gt; -
+&lt;div class=&quot;box&quot;&gt;Description&lt;/div&gt;
+&#192; premi&#232;re vue, il semble que cet artefact ne soit qu’un morceau d’os tellement us&#233; qu’il est presque devenu sph&#233;rique mais il r&#233;v&#232;le sa nature et son v&#233;ritable pouvoir d&#232;s que quelqu’un le ramasse. Quand la cr&#233;ature qui porte l’&lt;i&gt;osselet de la chance capricieuse&lt;/i&gt; le regarde, elle s’aper&#231;oit que l’os est en r&#233;alit&#233; un d&#233; &#224; 20 faces parfait, dot&#233; d’un symbole rouge luisant sur chaque face. Quand elle lance le d&#233;, au lieu de rouler par terre, il s’envole et s’arr&#234;te au niveau des yeux de celui qui l’a lanc&#233;. Lancez un d20 pour d&#233;terminer son effet (voir la table ci-dessous). En ce qui concerne les effets perdus quand le personnage lance &#224; nouveau le d&#233; (comme le #17) ou les r&#233;sultats sp&#233;cifiques (comme le #14), le personnage est conscient de leur limite.
+&lt;div class=&quot;box&quot;&gt;Destruction&lt;/div&gt;
+L’&lt;i&gt;osselet de la chance capricieuse&lt;/i&gt; dispara&#238;t si la face Eha-Zah (20 sur le d&#233;) sort 20 fois de suite. Certains sages pensent que cela ne d&#233;truit pas l’artefact qui r&#233;appara&#238;t seulement quelque part ailleurs dans le monde. Mais ce n’est que pure conjecture car personne ne sait si quelqu’un a d&#233;j&#224; accompli cette t&#226;che improbable.
+&lt;/div&gt;&lt;br /&gt;&lt;div&gt;
+&lt;center&gt;
+&lt;table CLASS=&quot;tablo&quot;&gt;&lt;caption&gt;L&#39;osselet de la chance capricieuse&lt;/caption&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td&gt;d20&lt;/td&gt;&lt;td&gt;Nom de la rune &lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;Effet&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier&quot;&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;Eya-Doh &lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;Le personnage gagne 1 &lt;a class=&quot;pagelink&quot; href=&quot;Absorption-D&#233;nergie-(Capacit&#233;).html&quot; title=&quot;niveau n&#233;gatif&quot;&gt;niveau n&#233;gatif&lt;/a&gt; permanent.&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;Bvu &lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;Le personnage est soumis &#224; une puissante envie de ne plus jamais lancer l’&lt;i&gt;osselet de la chance capricieuse&lt;/i&gt;. Il peut se d&#233;barrasser de ce sentiment en r&#233;ussissant un jet de &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;Volont&#233;&quot;&gt;Volont&#233;&lt;/a&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DEGREDEDIFFICULTE&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; 25. Il ne peut faire qu&#39;un jet par jour.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;Eij &lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;Le personnage est affect&#233; par un sort de &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Mise-&#192;-Mal.html&quot; title=&quot;Mise &#224; mal&quot;&gt;mise &#224; mal&lt;/a&gt;&lt;/i&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Lancer-Des-Sorts.html#NLS&quot; title=&quot;NLS&quot;&gt;NLS&lt;/a&gt; 15).&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;Hor &lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;Le personnage est soumis &#224; une puissante envie de lancer l’&lt;i&gt;osselet de la chance capricieuse&lt;/i&gt; trois fois de suite (jet de &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;Volont&#233;&quot;&gt;Volont&#233;&lt;/a&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DEGREDEDIFFICULTE&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; 25 pour annuler). Ces trois jets souffrent d&#39;un malus de -5 au r&#233;sultat du d&#233; (avec un minimum de 1).&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;Veh &lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;Le personnage est &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables.html#Aveugl&#233;&quot; title=&quot;Aveugl&#233;&quot;&gt;aveugle&lt;/a&gt;, comme avec &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;C&#233;cit&#233;surdit&#233;.html&quot; title=&quot;C&#233;cit&#233;/surdit&#233;&quot;&gt;c&#233;cit&#233;/surdit&#233;&lt;/a&gt;&lt;/i&gt; (sans &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;jet de sauvegarde&quot;&gt;jet de sauvegarde&lt;/a&gt;).&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;Chu &lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;Le personnage re&#231;oit 5d10 points de d&#233;g&#226;ts de froid (jet de &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;Vigueur&quot;&gt;Vigueur&lt;/a&gt; pour r&#233;duire de moiti&#233;) et se d&#233;place &#224; la moiti&#233; de sa vitesse pendant l’heure qui suit (un &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;jet de sauvegarde&quot;&gt;jet de sauvegarde&lt;/a&gt; r&#233;ussi n’annule pas la r&#233;duction de vitesse).&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;7&lt;/td&gt;&lt;td&gt;Roh &lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;Pendant 24 heures, le personnage souffre d’un malus de -2 &#224; tous les tests de comp&#233;tence et de caract&#233;ristique.&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;8&lt;/td&gt;&lt;td&gt;Seh &lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;Le personnage est &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables.html#Paralys&#233;&quot; title=&quot;Paralys&#233;&quot;&gt;paralys&#233;&lt;/a&gt; pendant 2d12 heures comme avec &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Immobilisation-De-Monstre.html&quot; title=&quot;Immobilisation de monstre&quot;&gt;immobilisation de monstre&lt;/a&gt;&lt;/i&gt;, sauf qu’il ne peut pas faire de nouveau &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;jet de sauvegarde&quot;&gt;jet de sauvegarde&lt;/a&gt; pour vaincre l’effet.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;9&lt;/td&gt;&lt;td&gt;Kog &lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;Le personnage &#233;met une horrible odeur pendant toute une semaine. Il souffre d’un malus de -4 aux tests de &lt;a class=&quot;pagelink&quot; href=&quot;Diplomatie.html&quot; title=&quot;Diplomatie&quot;&gt;Diplomatie&lt;/a&gt; et de &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt;.&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;Vis &lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;Une fois au cours des prochaines 24 heures, le personnage peut refaire un jet de d&#233; et prendre le second, comme avec le &lt;a class=&quot;pagelink&quot; href=&quot;Domaine-De-La-Chance.html&quot; title=&quot;Domaine de la Chance&quot;&gt;pouvoir de Chance&lt;/a&gt; du &lt;a class=&quot;pagelink&quot; href=&quot;Domaine-De-La-Chance.html&quot; title=&quot;Domaine de la Chance&quot;&gt;domaine de la Chance&lt;/a&gt;.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;11&lt;/td&gt;&lt;td&gt;Fyeh &lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;Le personnage gagne 100 points d’&lt;a class=&quot;pagelink&quot; href=&quot;Immunit&#233;-(Capacit&#233;).html&quot; title=&quot;Immunit&#233;&quot;&gt;immunit&#233;&lt;/a&gt; au feu, comme avec &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Protection-Contre-Les-&#201;nergies-Destructives.html&quot; title=&quot;Protection contre les &#233;nergies destructives&quot;&gt;protection contre les &#233;nergies destructives&lt;/a&gt;&lt;/i&gt;.&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;12&lt;/td&gt;&lt;td&gt;Xal &lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;Le personnage b&#233;n&#233;ficie d’un sort d’&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;H&#233;ro&#239;sme.html&quot; title=&quot;H&#233;ro&#239;sme&quot;&gt;h&#233;ro&#239;sme&lt;/a&gt;&lt;/i&gt; pendant les 200 prochaines minutes.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;13&lt;/td&gt;&lt;td&gt;Yaq &lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;Pendant 24 heures, quand le personnage touche une cible qu’il &lt;a class=&quot;pagelink&quot; href=&quot;Modificateurs-De-Combat.html#PRISEENTENAILLE&quot; title=&quot;prise en tenaille&quot;&gt;prenait en tenailles&lt;/a&gt; avec une arme de corps &#224; corps, son attaque inflige +1d6 points de d&#233;g&#226;ts de pr&#233;cision.&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;14&lt;/td&gt;&lt;td&gt;Gib &lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;Une fois au cours des prochaines 24 heures, le personnage peut lancer &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Lueur-F&#233;erique.html&quot; title=&quot;Lueur f&#233;erique&quot;&gt;lueur f&#233;erique&lt;/a&gt;&lt;/i&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Lancer-Des-Sorts.html#NLS&quot; title=&quot;NLS&quot;&gt;NLS&lt;/a&gt; &#233;gal au niveau de personnage). Ce pouvoir est perdu si le personnage obtient de nouveau ce r&#233;sultat sur l’osselet avant la fin des 24 heures.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;15&lt;/td&gt;&lt;td&gt;Xku &lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;Le personnage est &lt;a class=&quot;pagelink&quot; href=&quot;Immunit&#233;-(Capacit&#233;).html&quot; title=&quot;Immunit&#233;&quot;&gt;immunis&#233;&lt;/a&gt; contre la peur pendant 24 heures.&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;16&lt;/td&gt;&lt;td&gt;Lev &lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;Une fois au cours des prochaines 24 heures, le personnage peut lancer &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;&#201;clair.html&quot; title=&quot;&#201;clair&quot;&gt;&#233;clair&lt;/a&gt;&lt;/i&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Lancer-Des-Sorts.html#NLS&quot; title=&quot;NLS&quot;&gt;NLS&lt;/a&gt; &#233;gal au niveau de personnage). Ce pouvoir est perdu si le personnage obtient de nouveau ce r&#233;sultat sur l’osselet avant la fin des 24 heures.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;17&lt;/td&gt;&lt;td&gt;Nhi &lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;Pendant 7 jours, quand le personnage est la cible d’une magie de &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#GUERISON&quot; title=&quot;Gu&#233;rison&quot;&gt;gu&#233;rison&lt;/a&gt;, il gu&#233;rit de 2d8 points de vie de plus. Ce pouvoir est perdu si le personnage obtient de nouveau ce r&#233;sultat sur l’osselet avant la fin des 24 heures.&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;18&lt;/td&gt;&lt;td&gt;Zmi &lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;Pendant 24 heures, quand le personnage r&#233;ussit un &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;jet de sauvegarde&quot;&gt;jet de sauvegarde&lt;/a&gt; contre un effet n&#233;faste qui inflige la moiti&#233; des d&#233;g&#226;ts ou des d&#233;g&#226;ts partiels en cas de &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;jet de sauvegarde&quot;&gt;jet de sauvegarde&lt;/a&gt; r&#233;ussi, il ne subit pas de d&#233;g&#226;ts du tout.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;19&lt;/td&gt;&lt;td&gt;Tem &lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;Pendant 24 heures, le personnage confirme automatiquement tous ses &lt;a class=&quot;pagelink&quot; href=&quot;Actions-Simples.html#COUPCRITIQUE&quot; title=&quot;coup critique&quot;&gt;coups critiques&lt;/a&gt;.&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;20&lt;/td&gt;&lt;td&gt;Eha-Zah &lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;La prochaine fois que le personnage meurt, il revient d’entre les morts au matin suivant, comme par une &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;R&#233;surrection.html&quot; title=&quot;R&#233;surrection&quot;&gt;r&#233;surrection&lt;/a&gt;&lt;/i&gt;. Ce pouvoir est perdu si le personnage obtient de nouveau ce r&#233;sultat sur l’osselet avant de mourir.&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/center&gt;
+&lt;/div&gt;
+]]></body>
+  <raw><![CDATA[<div style="float:right">'''''Retour aux [[Artefacts]].'''''</div>
+<div class="BD">
+{s:APG}{s:BDTitre|Osselet de la chance capricieuse|}
+'''Aura''' Toutes les écoles, puissantes ; '''NLS''' 20 ; '''Emplacement''' aucun ; '''Poids''' -
+(((Description)))
+À première vue, il semble que cet artefact ne soit qu’un morceau d’os tellement usé qu’il est presque devenu sphérique mais il révèle sa nature et son véritable pouvoir dès que quelqu’un le ramasse. Quand la créature qui porte l’''osselet de la chance capricieuse'' le regarde, elle s’aperçoit que l’os est en réalité un dé à 20 faces parfait, doté d’un symbole rouge luisant sur chaque face. Quand elle lance le dé, au lieu de rouler par terre, il s’envole et s’arrête au niveau des yeux de celui qui l’a lancé. Lancez un d20 pour déterminer son effet (voir la table ci-dessous). En ce qui concerne les effets perdus quand le personnage lance à nouveau le dé (comme le #17) ou les résultats spécifiques (comme le #14), le personnage est conscient de leur limite.
+(((Destruction)))
+L’''osselet de la chance capricieuse'' disparaît si la face Eha-Zah (20 sur le dé) sort 20 fois de suite. Certains sages pensent que cela ne détruit pas l’artefact qui réapparaît seulement quelque part ailleurs dans le monde. Mais ce n’est que pure conjecture car personne ne sait si quelqu’un a déjà accompli cette tâche improbable.
+</div>
+
+<div>
+<center>
+{| CLASS="tablo"
+|+ L'osselet de la chance capricieuse
+|- CLASS="titre"
+| d20 || Nom de la rune 
+| CLASS="gauche" | Effet
+|- CLASS="premier"
+| 1 || Eya-Doh 
+| CLASS="gauche" | Le personnage gagne 1 [[niveau négatif]] permanent.
+|- CLASS="alt"
+| 2 || Bvu 
+| CLASS="gauche" | Le personnage est soumis à une puissante envie de ne plus jamais lancer l’''osselet de la chance capricieuse''. Il peut se débarrasser de ce sentiment en réussissant un jet de [[Volonté]] [[DD]] 25. Il ne peut faire qu'un jet par jour.
+|-
+| 3 || Eij 
+| CLASS="gauche" | Le personnage est affecté par un sort de ''[[mise à mal]]'' ([[NLS]] 15).
+|- CLASS="alt"
+| 4 || Hor 
+| CLASS="gauche" | Le personnage est soumis à une puissante envie de lancer l’''osselet de la chance capricieuse'' trois fois de suite (jet de [[Volonté]] [[DD]] 25 pour annuler). Ces trois jets souffrent d'un malus de -5 au résultat du dé (avec un minimum de 1).
+|-
+| 5 || Veh 
+| CLASS="gauche" | Le personnage est [[aveuglé|aveugle]], comme avec ''[[cécitésurdité|cécité/surdité]]'' (sans [[jet de sauvegarde]]).
+|- CLASS="alt"
+| 6 || Chu 
+| CLASS="gauche" | Le personnage reçoit 5d10 points de dégâts de froid (jet de [[Vigueur]] pour réduire de moitié) et se déplace à la moitié de sa vitesse pendant l’heure qui suit (un [[jet de sauvegarde]] réussi n’annule pas la réduction de vitesse).
+|-
+| 7 || Roh 
+| CLASS="gauche" | Pendant 24 heures, le personnage souffre d’un malus de -2 à tous les tests de compétence et de caractéristique.
+|- CLASS="alt"
+| 8 || Seh 
+| CLASS="gauche" | Le personnage est [[paralysé]] pendant 2d12 heures comme avec ''[[immobilisation de monstre]]'', sauf qu’il ne peut pas faire de nouveau [[jet de sauvegarde]] pour vaincre l’effet.
+|-
+| 9 || Kog 
+| CLASS="gauche" | Le personnage émet une horrible odeur pendant toute une semaine. Il souffre d’un malus de -4 aux tests de [[Diplomatie]] et de [[Discrétion]].
+|- CLASS="alt"
+| 10 || Vis 
+| CLASS="gauche" | Une fois au cours des prochaines 24 heures, le personnage peut refaire un jet de dé et prendre le second, comme avec le [[Domaine de la Chance|pouvoir de Chance]] du [[domaine de la Chance]].
+|-
+| 11 || Fyeh 
+| CLASS="gauche" | Le personnage gagne 100 points d’[[immunité]] au feu, comme avec ''[[protection contre les énergies destructives]]''.
+|- CLASS="alt"
+| 12 || Xal 
+| CLASS="gauche" | Le personnage bénéficie d’un sort d’''[[héroïsme]]'' pendant les 200 prochaines minutes.
+|-
+| 13 || Yaq 
+| CLASS="gauche" | Pendant 24 heures, quand le personnage touche une cible qu’il [[prise en tenaille|prenait en tenailles]] avec une arme de corps à corps, son attaque inflige +1d6 points de dégâts de précision.
+|- CLASS="alt"
+| 14 || Gib 
+| CLASS="gauche" | Une fois au cours des prochaines 24 heures, le personnage peut lancer ''[[lueur féerique]]'' ([[NLS]] égal au niveau de personnage). Ce pouvoir est perdu si le personnage obtient de nouveau ce résultat sur l’osselet avant la fin des 24 heures.
+|-
+| 15 || Xku 
+| CLASS="gauche" | Le personnage est [[immunité|immunisé]] contre la peur pendant 24 heures.
+|- CLASS="alt"
+| 16 || Lev 
+| CLASS="gauche" | Une fois au cours des prochaines 24 heures, le personnage peut lancer ''[[éclair]]'' ([[NLS]] égal au niveau de personnage). Ce pouvoir est perdu si le personnage obtient de nouveau ce résultat sur l’osselet avant la fin des 24 heures.
+|-
+| 17 || Nhi 
+| CLASS="gauche" | Pendant 7 jours, quand le personnage est la cible d’une magie de [[branche guérison|guérison]], il guérit de 2d8 points de vie de plus. Ce pouvoir est perdu si le personnage obtient de nouveau ce résultat sur l’osselet avant la fin des 24 heures.
+|- CLASS="alt"
+| 18 || Zmi 
+| CLASS="gauche" | Pendant 24 heures, quand le personnage réussit un [[jet de sauvegarde]] contre un effet néfaste qui inflige la moitié des dégâts ou des dégâts partiels en cas de [[jet de sauvegarde]] réussi, il ne subit pas de dégâts du tout.
+|-
+| 19 || Tem 
+| CLASS="gauche" | Pendant 24 heures, le personnage confirme automatiquement tous ses [[coup critique|coups critiques]].
+|- CLASS="alt"
+| 20 || Eha-Zah 
+| CLASS="gauche" | La prochaine fois que le personnage meurt, il revient d’entre les morts au matin suivant, comme par une ''[[résurrection]]''. Ce pouvoir est perdu si le personnage obtient de nouveau ce résultat sur l’osselet avant de mourir.
+|}
+</center>
+</div>]]></raw>
+  <fullName>Pathfinder-RPG.Osselet de la chance</fullName>
+</wikiPage>

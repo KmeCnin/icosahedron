@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Malédiction</title>
+  <categories></categories>
+  <lastModified>2012-11-04 16:39:41Z</lastModified>
+  <version>3</version>
+  <inLinks><link>Pathfinder-RPG.Adepte</link><link>Pathfinder-RPG.dons de maîtrise des coups critiques</link><link>Pathfinder-RPG.Glossaire des sorts</link><link>Pathfinder-RPG.Lanceur de maléfices</link><link>Pathfinder-RPG.lignage Maudit</link><link>Pathfinder-RPG.Liste des sorts (suite)</link><link>Pathfinder-RPG.Liste des sorts dantipaladin</link><link>Pathfinder-RPG.Liste des sorts de prêtres</link><link>Pathfinder-RPG.Liste des sorts de sorcière</link><link>Pathfinder-RPG.Liste des sorts densorceleursmagiciens</link><link>Pathfinder-RPG.Malédiction majeure</link><link>Pathfinder-RPG.Malédictions</link><link>Pathfinder-RPG.Plaies</link><link>Pathfinder-RPG.Vengeur sacré</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Malédictions</link><link>Pathfinder-RPG.Registre</link><link>Pathfinder-RPG.Nécromancie</link><link>Pathfinder-RPG.Ensorceleur</link><link>Pathfinder-RPG.Magicien</link><link>Pathfinder-RPG.Prêtre</link><link>Pathfinder-RPG.Action simple</link><link>Pathfinder-RPG.composantes</link><link>Pathfinder-RPG.Présentation des sorts</link><link>Pathfinder-RPG.permanente</link><link>Pathfinder-RPG.Volonté</link><link>Pathfinder-RPG.jet dattaque</link><link>Pathfinder-RPG.jet de sauvegarde</link><link>Pathfinder-RPG.test de compétence</link><link>Pathfinder-RPG.Annulation denchantement</link><link>Pathfinder-RPG.Délivrance des malédictions</link><link>Pathfinder-RPG.Miracle</link><link>Pathfinder-RPG.Souhait</link><link>Pathfinder-RPG.Souhait limité</link><link>Pathfinder-RPG.malédiction</link></outLinks>
+  <body><![CDATA[
+&lt;b&gt;&#201;cole&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#NECROMANCIE&quot; title=&quot;N&#233;cromancie&quot;&gt;N&#233;cromancie&lt;/a&gt; [&lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;er-Un-Sort.html#REGISTRE&quot; title=&quot;Registre&quot;&gt;mal&#233;diction&lt;/a&gt;] ; &lt;b&gt;Niveau&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Ensorceleur.html&quot; title=&quot;L&amp;#39;ensorceleur&quot;&gt;Ens&lt;/a&gt;/&lt;a class=&quot;pagelink&quot; href=&quot;Magicien.html&quot; title=&quot;Le magicien&quot;&gt;Mag&lt;/a&gt; 4, &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#234;tre.html&quot; title=&quot;Le pr&#234;tre&quot;&gt;Pr&#234;&lt;/a&gt; 3&lt;br/&gt;
+&lt;b&gt;Temps d&#39;incantation&lt;/b&gt; 1 &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions.html#SIMPLE&quot; title=&quot;Action simple&quot;&gt;action simple&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Composantes&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#COMPOSANTES&quot; title=&quot;composantes&quot;&gt;V, G&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Port&#233;e&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#PORTEE&quot; title=&quot;Pr&#233;sentation des sorts&quot;&gt;contact&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Cible&lt;/b&gt; cr&#233;ature touch&#233;e&lt;br/&gt;
+&lt;b&gt;Dur&#233;e&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#DUREE&quot; title=&quot;permanente&quot;&gt;permanente&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Jet de sauvegarde&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;Volont&#233;&quot;&gt;Volont&#233;&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#JETSDESAUVEGARDE&quot; title=&quot;Pr&#233;sentation des sorts&quot;&gt;annule&lt;/a&gt; ; &lt;b&gt;R&#233;sistance &#224; la magie&lt;/b&gt; oui&lt;br /&gt;&lt;br /&gt;Ce sort permet de maudire la cr&#233;ature touch&#233;e. Le personnage choisit l’effet qu’il souhaite produire parmi les trois suivants :
+&lt;ul&gt;&lt;li&gt;-6 &#224; une valeur de caract&#233;ristique (1 minimum).&lt;/li&gt;&lt;li&gt;Malus de -4 aux &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDATTAQUE&quot; title=&quot;jet dattaque&quot;&gt;jets d’attaque&lt;/a&gt;, aux &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;jet de sauvegarde&quot;&gt;jets de sauvegarde&lt;/a&gt;, aux tests de caract&#233;ristique et aux &lt;a class=&quot;pagelink&quot; href=&quot;Comp&#233;tences.html#TESTSDECOMPETENCES&quot; title=&quot;test de comp&#233;tence&quot;&gt;tests de comp&#233;tence&lt;/a&gt;.&lt;/li&gt;&lt;li&gt;Chaque fois que son tour de jeu arrive, la victime a 50% de chances de pouvoir agir normalement. Sinon, elle ne fait rien.&lt;br /&gt;&lt;/li&gt;&lt;/ul&gt;&lt;br /&gt;Il est possible d’ajouter d’autres types de mal&#233;dictions &#224; cette liste, mais elles ne doivent pas &#234;tre plus puissantes que celles-ci.&lt;br /&gt;&lt;br /&gt;La &lt;i&gt;mal&#233;diction&lt;/i&gt; ne peut pas &#234;tre dissip&#233;e, mais il est possible de s’en d&#233;barrasser &#224; l’aide d’&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Annulation-Denchantement.html&quot; title=&quot;Annulation d&amp;#39;enchantement&quot;&gt;annulation d’enchantement&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;D&#233;livrance-Des-Mal&#233;dictions.html&quot; title=&quot;D&#233;livrance des mal&#233;dictions&quot;&gt;d&#233;livrance des mal&#233;dictions&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Miracle.html&quot; title=&quot;Miracle&quot;&gt;miracle&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Souhait.html&quot; title=&quot;Souhait&quot;&gt;souhait&lt;/a&gt;&lt;/i&gt; ou &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Souhait-Limit&#233;.html&quot; title=&quot;Souhait limit&#233;&quot;&gt;souhait limit&#233;&lt;/a&gt;&lt;/i&gt;.&lt;br /&gt;&lt;br /&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Mal&#233;dictions.html&quot; title=&quot;mal&#233;diction&quot;&gt;Mal&#233;diction&lt;/a&gt;&lt;/i&gt; contre &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;D&#233;livrance-Des-Mal&#233;dictions.html&quot; title=&quot;D&#233;livrance des mal&#233;dictions&quot;&gt;d&#233;livrance des mal&#233;dictions&lt;/a&gt;&lt;/i&gt;.
+]]></body>
+  <raw><![CDATA[{s:Desambi|Pour plus d'information sur les malédictions, voir [[malédictions]].<br>Malédiction est également le nom d'un [[registre]].}
+'''École''' [[Nécromancie]] <nowiki>[</nowiki>[[registre|malédiction]]<nowiki>]</nowiki> ; '''Niveau''' [[ensorceleur|Ens]]/[[magicien|Mag]] 4, [[prêtre|Prê]] 3<br/>
+'''Temps d'incantation''' 1 [[action simple]]<br/>
+'''Composantes''' [[Composantes|V, G]]<br/>
+'''Portée''' [[Présentation des sorts#PORTEE|contact]]<br/>
+'''Cible''' créature touchée<br/>
+'''Durée''' [[permanente]]<br/>
+'''Jet de sauvegarde''' [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; '''Résistance à la magie''' oui
+
+Ce sort permet de maudire la créature touchée. Le personnage choisit l’effet qu’il souhaite produire parmi les trois suivants :
+* -6 à une valeur de caractéristique (1 minimum).
+* Malus de -4 aux [[jet dattaque|jets d’attaque]], aux [[jet de sauvegarde|jets de sauvegarde]], aux tests de caractéristique et aux [[test de compétence|tests de compétence]].
+* Chaque fois que son tour de jeu arrive, la victime a 50% de chances de pouvoir agir normalement. Sinon, elle ne fait rien.
+
+Il est possible d’ajouter d’autres types de malédictions à cette liste, mais elles ne doivent pas être plus puissantes que celles-ci.
+
+La ''malédiction'' ne peut pas être dissipée, mais il est possible de s’en débarrasser à l’aide d’''[[annulation denchantement|annulation d’enchantement]]'', ''[[délivrance des malédictions]]'', ''[[miracle]]'', ''[[souhait]]'' ou ''[[souhait limité]]''.
+
+''[[Malédiction]]'' contre ''[[délivrance des malédictions]]''.
+]]></raw>
+  <fullName>Pathfinder-RPG.sort Malédiction</fullName>
+</wikiPage>

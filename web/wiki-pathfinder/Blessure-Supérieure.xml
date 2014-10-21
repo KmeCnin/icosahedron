@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Blessure supérieure</title>
+  <categories><category>Pathfinder-RPG.Art de la Magie</category><category>Pathfinder-RPG.Mots de pouvoir</category><category>Pathfinder-RPG.Règles officielles</category></categories>
+  <lastModified>2012-08-28 20:33:17Z</lastModified>
+  <version>0</version>
+  <inLinks><link>Pathfinder-RPG.Liste des mots de pouvoirs par classe</link><link>Pathfinder-RPG.Listes des mots de pouvoirs (temporaire)</link><link>Pathfinder-RPG.Mots effets</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Nécromancie</link><link>Pathfinder-RPG.Inquisiteur</link><link>Pathfinder-RPG.Prêtre</link><link>Pathfinder-RPG.Sorcière</link><link>Pathfinder-RPG.Volonté</link><link>Pathfinder-RPG.Présentation des sorts</link><link>Pathfinder-RPG.Choisi</link><link>Pathfinder-RPG.NLS</link><link>Pathfinder-RPG.type Mort-vivant</link><link>Pathfinder-RPG.jet de sauvegarde</link><link>Pathfinder-RPG.RM</link></outLinks>
+  <body><![CDATA[
+&lt;b&gt;&#201;cole&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#NECROMANCIE&quot; title=&quot;N&#233;cromancie&quot;&gt;N&#233;cromancie&lt;/a&gt; ; &lt;b&gt;Niveau&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Inquisiteur.html&quot; title=&quot;L&amp;#39;inquisiteur&quot;&gt;inquisiteur&lt;/a&gt; 3, &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#234;tre.html&quot; title=&quot;Le pr&#234;tre&quot;&gt;pr&#234;tre&lt;/a&gt; 3, &lt;a class=&quot;pagelink&quot; href=&quot;Sorci&#232;re.html&quot; title=&quot;La sorci&#232;re&quot;&gt;sorci&#232;re&lt;/a&gt; 3&lt;br /&gt;
+&lt;b&gt;Dur&#233;e&lt;/b&gt; instantan&#233;e&lt;br /&gt;
+&lt;b&gt;Jet de sauvegarde&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;Volont&#233;&quot;&gt;Volont&#233;&lt;/a&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#JETSDESAUVEGARDE&quot; title=&quot;Pr&#233;sentation des sorts&quot;&gt;annule&lt;/a&gt; ; &lt;b&gt;R&#233;sistance &#224; la magie&lt;/b&gt; oui&lt;br /&gt;
+&lt;b&gt;Restriction de cible&lt;/b&gt; &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Choisi.html&quot; title=&quot;Choisi&quot;&gt;Choisi&lt;/a&gt;&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;La cible d’un sort incluant ce mot effet subit 3d6 point de d&#233;g&#226;ts + 1 point par &lt;a class=&quot;pagelink&quot; href=&quot;Lancer-Des-Sorts.html#NLS&quot; title=&quot;NLS&quot;&gt;niveau de lanceur&lt;/a&gt; (maximum +15). Les &lt;a class=&quot;pagelink&quot; href=&quot;Type-Mort-Vivant.html&quot; title=&quot;Mort-vivant&quot;&gt;morts-vivants&lt;/a&gt; sont par contre soign&#233;s et ne b&#233;n&#233;ficient donc pas de &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;jet de sauvegarde&quot;&gt;jet de sauvegarde&lt;/a&gt; ou de &lt;a class=&quot;pagelink&quot; href=&quot;R&#233;sistance-&#192;-La-Magie-(Capacit&#233;).html&quot; title=&quot;RM&quot;&gt;r&#233;sistance &#224; la magie&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Augmentation.&lt;/b&gt;  La cible subit 3d8 points de d&#233;g&#226;ts + 1 point par &lt;a class=&quot;pagelink&quot; href=&quot;Lancer-Des-Sorts.html#NLS&quot; title=&quot;NLS&quot;&gt;niveau de lanceur&lt;/a&gt; (maximum +15).
+]]></body>
+  <raw><![CDATA[{s:UM}
+'''École''' [[Nécromancie]] ; '''Niveau''' [[inquisiteur]] 3, [[prêtre]] 3, [[sorcière]] 3<br>
+'''Durée''' instantanée<br>
+'''Jet de sauvegarde''' [[Volonté]] [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; '''Résistance à la magie''' oui<br>
+'''Restriction de cible''' ''[[Choisi]]''
+
+La cible d’un sort incluant ce mot effet subit 3d6 point de dégâts + 1 point par [[NLS|niveau de lanceur]] (maximum +15). Les [[type mort-vivant|morts-vivants]] sont par contre soignés et ne bénéficient donc pas de [[jet de sauvegarde]] ou de [[RM|résistance à la magie]].
+
+'''Augmentation.'''  La cible subit 3d8 points de dégâts + 1 point par [[NLS|niveau de lanceur]] (maximum +15).]]></raw>
+  <fullName>Pathfinder-RPG.Blessure supérieure</fullName>
+</wikiPage>

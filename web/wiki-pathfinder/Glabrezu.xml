@@ -1,0 +1,179 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Glabrezu</title>
+  <categories><category>Pathfinder-RPG.Bestiaire</category><category>Pathfinder-RPG.Monstre</category><category>Pathfinder-RPG.Règles officielles</category></categories>
+  <lastModified>2013-02-07 21:39:41Z</lastModified>
+  <version>7</version>
+  <inLinks><link>Pathfinder-RPG.Balor</link><link>Pathfinder-RPG.Cartes fantasmagoriques</link><link>Pathfinder-RPG.Convocation de monstres</link><link>Pathfinder-RPG.Démon</link><link>Pathfinder-RPG.Flasque de fer</link><link>Pathfinder-RPG.Glossaire des monstres</link><link>Pathfinder-RPG.Lier un extérieur</link><link>Pathfinder-RPG.Liste de monstres par FP</link><link>Pathfinder-RPG.Liste de monstres par milieu naturel</link><link>Pathfinder-RPG.Liste de monstres par type</link><link>Pathfinder-RPG.Marilith</link><link>Pathfinder-RPG.Monstres</link><link>Pathfinder-RPG.Vrolikai</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.type Extérieur</link><link>Pathfinder-RPG.sous-type Chaos</link><link>Pathfinder-RPG.sous-type démon</link><link>Pathfinder-RPG.sous-type extraplanaire</link><link>Pathfinder-RPG.sous-type Mal</link><link>Pathfinder-RPG.vision dans le noir</link><link>Pathfinder-RPG.Vision lucide</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Éventration</link><link>Pathfinder-RPG.Confusion</link><link>Pathfinder-RPG.Dissipation de la magie</link><link>Pathfinder-RPG.Image miroir</link><link>Pathfinder-RPG.Inversion de la gravité</link><link>Pathfinder-RPG.Marteau du chaos</link><link>Pathfinder-RPG.Téléportation suprême</link><link>Pathfinder-RPG.Ténèbres maudites</link><link>Pathfinder-RPG.Voile</link><link>Pathfinder-RPG.convocation</link><link>Pathfinder-RPG.Vrock</link><link>Pathfinder-RPG.Mot de pouvoir étourdissant</link><link>Pathfinder-RPG.Souhait</link><link>Pathfinder-RPG.Attaque en puissance</link><link>Pathfinder-RPG.Enchaînement</link><link>Pathfinder-RPG.Frappe décisive</link><link>Pathfinder-RPG.Persuasion</link><link>Pathfinder-RPG.Science du critique</link><link>Pathfinder-RPG.Succession denchaînements</link><link>Pathfinder-RPG.Bluff</link><link>Pathfinder-RPG.Connaissances</link><link>Pathfinder-RPG.Diplomatie</link><link>Pathfinder-RPG.Discrétion</link><link>Pathfinder-RPG.Intimidation</link><link>Pathfinder-RPG.Psychologie</link><link>Pathfinder-RPG.Utilisation dObjets Magiques</link><link>Pathfinder-RPG.Télépathie</link><link>Pathfinder-RPG.Succube</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Glabrezu&lt;div style=&quot;float:right;&quot;&gt;FP 13&lt;/div&gt;&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Bestiaire p.65&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 25.600
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Ext&#233;rieur.html&quot; title=&quot;Ext&#233;rieur&quot;&gt;Ext&#233;rieur&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Chaos.html&quot; title=&quot;Chaos (sous-type)&quot;&gt;Chaos&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-D&#233;mon.html&quot; title=&quot;D&#233;mon (sous-type)&quot;&gt;d&#233;mon&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Extraplanaire.html&quot; title=&quot;Extraplanaire (sous-type)&quot;&gt;extraplanaire&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Mal.html&quot; title=&quot;Mal (sous-type)&quot;&gt;Mal&lt;/a&gt;) de taille TG, CM
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +0 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Capacit&#233;s-Sp&#233;ciales.html#VISIONDANSLENOIR&quot; title=&quot;vision dans le noir&quot;&gt;vision dans le noir&lt;/a&gt; 18 m (12 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Vision-Lucide.html&quot; title=&quot;Vision lucide&quot;&gt;vision lucide&lt;/a&gt;&lt;/i&gt; ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +26
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 28, contact 8, pris au d&#233;pourvu 28 (naturelle +20, taille -2)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 186 (12d10+120)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +4, &lt;b&gt;Vig&lt;/b&gt; +18, &lt;b&gt;Vol&lt;/b&gt; +11
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Immunit&#233;s&lt;/b&gt; &#233;lectricit&#233;, poison ; &lt;b&gt;RD&lt;/b&gt; 10/Bien ; &lt;b&gt;R&#233;sistances&lt;/b&gt; acide 10, feu 10, froid 10 ; &lt;b&gt;RM&lt;/b&gt; 24 
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt;  12 m (8 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; 2 pinces +20 (2d8+10/19-20), 2 griffes +20 (1d6+10), morsure +20 (1d8+10)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Espace&lt;/b&gt;  4,50 m (3 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) ; &lt;b&gt;Allonge&lt;/b&gt;  4,50 m (3 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaques sp&#233;ciales&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;&#201;ventration-(Capacit&#233;).html&quot; title=&quot;&#201;ventration&quot;&gt;&#233;ventration&lt;/a&gt; (2 pinces, 2d8+15)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Pouvoirs magiques&lt;/b&gt; (NLS 14&lt;sup&gt;e&lt;/sup&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+Constant — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Vision-Lucide.html&quot; title=&quot;Vision lucide&quot;&gt;vision lucide&lt;/a&gt;&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+&#192; volont&#233; — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Confusion.html&quot; title=&quot;Confusion&quot;&gt;confusion&lt;/a&gt;&lt;/i&gt; (DD 19), &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Dissipation-De-La-Magie.html&quot; title=&quot;Dissipation de la magie&quot;&gt;dissipation de la magie&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Image-Miroir.html&quot; title=&quot;Image miroir&quot;&gt;image miroir&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Inversion-De-La-Gravit&#233;.html&quot; title=&quot;Inversion de la gravit&#233;&quot;&gt;inversion de la gravit&#233;&lt;/a&gt;&lt;/i&gt; (DD 22), &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Marteau-Du-Chaos.html&quot; title=&quot;Marteau du chaos&quot;&gt;marteau du Chaos&lt;/a&gt;&lt;/i&gt; (DD 19), &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;T&#233;l&#233;portation-Supr&#234;me.html&quot; title=&quot;T&#233;l&#233;portation supr&#234;me&quot;&gt;t&#233;l&#233;portation supr&#234;me&lt;/a&gt;&lt;/i&gt; (lui-m&#234;me et 25 kg d&#39;objets uniquement), &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;T&#233;n&#232;bres-Maudites.html&quot; title=&quot;T&#233;n&#232;bres maudites&quot;&gt;t&#233;n&#232;bres maudites&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Voile.html&quot; title=&quot;Voile&quot;&gt;voile&lt;/a&gt;&lt;/i&gt; (sur lui-m&#234;me uniquement)
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+1/jour — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#CONVOCATION&quot; title=&quot;convocation&quot;&gt;convocation&lt;/a&gt;&lt;/i&gt; (niveau 4, 1 glabrezu 20% ou 1d2 &lt;a class=&quot;pagelink&quot; href=&quot;Vrock.html&quot; title=&quot;Vrock&quot;&gt;vrocks&lt;/a&gt; 50%), &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Mot-De-Pouvoir-&#201;tourdissant.html&quot; title=&quot;Mot de pouvoir &#233;tourdissant&quot;&gt;mot de pouvoir &#233;tourdissant&lt;/a&gt;&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+1/mois — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Souhait.html&quot; title=&quot;Souhait&quot;&gt;souhait&lt;/a&gt;&lt;/i&gt; (accord&#233; &#224; un humano&#239;de mortel uniquement)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 31, &lt;b&gt;Dex&lt;/b&gt; 11, &lt;b&gt;Con&lt;/b&gt; 31, &lt;b&gt;Int&lt;/b&gt; 16, &lt;b&gt;Sag&lt;/b&gt; 16, &lt;b&gt;Cha&lt;/b&gt; 20
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +12, &lt;b&gt;BMO&lt;/b&gt; +24, &lt;b&gt;DMD&lt;/b&gt; 34
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Attaque-En-Puissance.html&quot; title=&quot;Attaque en puissance&quot;&gt;Attaque en puissance&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Encha&#238;nement.html&quot; title=&quot;Encha&#238;nement&quot;&gt;Encha&#238;nement&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Frappe-D&#233;cisive.html&quot; title=&quot;Frappe d&#233;cisive&quot;&gt;Frappe d&#233;cisive&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Persuasion.html&quot; title=&quot;Persuasion&quot;&gt;Persuasion&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Science-Du-Critique.html&quot; title=&quot;Science du critique&quot;&gt;Science du critique&lt;/a&gt; (pince), &lt;a class=&quot;pagelink&quot; href=&quot;Succession-Dencha&#238;nements.html&quot; title=&quot;Succession d&amp;#39;encha&#238;nements&quot;&gt;Succession d&#39;encha&#238;nements&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Bluff.html&quot; title=&quot;Bluff&quot;&gt;Bluff&lt;/a&gt; +28, &lt;a class=&quot;pagelink&quot; href=&quot;Connaissances.html&quot; title=&quot;Connaissances&quot;&gt;Connaissances&lt;/a&gt; (folklore local) +18, &lt;a class=&quot;pagelink&quot; href=&quot;Connaissances.html&quot; title=&quot;Connaissances&quot;&gt;Connaissances&lt;/a&gt; (histoire) +18, &lt;a class=&quot;pagelink&quot; href=&quot;Diplomatie.html&quot; title=&quot;Diplomatie&quot;&gt;Diplomatie&lt;/a&gt; +22, &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; +7, &lt;a class=&quot;pagelink&quot; href=&quot;Intimidation.html&quot; title=&quot;Intimidation&quot;&gt;Intimidation&lt;/a&gt; +22, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +26, &lt;a class=&quot;pagelink&quot; href=&quot;Psychologie.html&quot; title=&quot;Psychologie&quot;&gt;Psychologie&lt;/a&gt; +18, &lt;a class=&quot;pagelink&quot; href=&quot;Utilisation-Dobjets-Magiques.html&quot; title=&quot;Utilisation d&amp;#39;objets magiques&quot;&gt;Utilisation d&#39;objets magiques&lt;/a&gt; +17 ; &lt;b&gt;Modificateurs raciaux&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Bluff.html&quot; title=&quot;Bluff&quot;&gt;Bluff&lt;/a&gt; +8, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +8
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Langues&lt;/b&gt; abyssal, c&#233;leste, draconique ; &lt;a class=&quot;pagelink&quot; href=&quot;T&#233;l&#233;pathie-(Capacit&#233;).html&quot; title=&quot;T&#233;l&#233;pathie&quot;&gt;t&#233;l&#233;pathie&lt;/a&gt;  30 m (20 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; quelconque (Abysse)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation sociale&lt;/b&gt; solitaire ou troupe (1 glabrezu, 1 &lt;a class=&quot;pagelink&quot; href=&quot;Succube.html&quot; title=&quot;Succube&quot;&gt;succube&lt;/a&gt;, et 2-5 &lt;a class=&quot;pagelink&quot; href=&quot;Vrock.html&quot; title=&quot;Vrock&quot;&gt;vrocks&lt;/a&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; standard
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;td&gt;&lt;div&gt;&lt;i&gt;Quatre bras jaillissent du torse de ce gigantesque monstre. On d&#233;c&#232;le dans ses yeux un m&#233;lange d’intelligence et de cruaut&#233;.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Si les d&#233;mons succubes manipulent leurs victimes en
+exploitant leurs besoins et leurs d&#233;sirs physiques, les glabrezus
+eux recourent &#224; une autre forme de tentation. Ces d&#233;mons au
+physique f&#233;roce et bestial sont en fait des ma&#238;tres dans l’art de la
+tromperie et du mensonge. Tirant avantage de leur habilet&#233; &#224; cacher leur v&#233;ritable apparence sous des illusions plaisantes, les glabrezus
+utilisent leur magie pour r&#233;aliser les souhaits des humano&#239;des
+mortels et r&#233;compenser ceux qui succombent &#224; leurs ruses et &#224; leurs
+mensonges. Les souhaits que les glabrezus accordent aux mortels
+r&#233;pondent toujours &#224; leurs d&#233;sirs de la mani&#232;re la plus destructrice
+possible, m&#234;me si ce n’est pas toujours imm&#233;diatement &#233;vident. &lt;br /&gt;&lt;br /&gt;Un
+fabricant d’armes en difficult&#233; d&#233;sirant une meilleure r&#233;putation
+et des talents plus affin&#233;s pourrait s’apercevoir que son meilleur
+client est un meurtrier cruel et sadique qui utilise ses armes pour
+assouvir ses d&#233;sirs de destruction. Un homme solitaire souhaitant
+une compagne pourrait voir ses vœux s’accomplir lorsque son
+amour perdu revient &#224; la &#171; vie &#187; sous la forme d’un vampire par
+exemple. Les glabrezus sont toujours tr&#232;s cr&#233;atifs lorsqu’ils
+s’occupent des d&#233;sirs des mortels.&lt;br /&gt;&lt;br /&gt;Un glabrezu mesure 5,60 m&#232;tres de haut et p&#232;se un peu plus de
+3 000 kg. Ces d&#233;mons perfides sont form&#233;s &#224; partir des &#226;mes des
+tra&#238;tres, des menteurs et des individus subversifs, c’est-&#224;-dire les
+&#226;mes des mortels qui ont fait de faux t&#233;moignages de leur vivant ou
+qui ont jou&#233; de ruse et de perfidie pour d&#233;truire la vie des autres.
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Glabrezu|FP 13}
+{s:pucem|Extérieur|Ruines-Donjons|extraplanaire}
+{s:BDTexte|''Source : Bestiaire p.65''}
+{s:BDTexte|'''PX''' 25.600}
+{s:BDTexte|[[type Extérieur|Extérieur]] ([[sous-type Chaos|Chaos]], [[sous-type démon|démon]], [[sous-type extraplanaire|extraplanaire]], [[sous-type Mal|Mal]]) de taille TG, CM}
+{s:BDTexte|'''Init''' +0 ; '''Sens''' [[vision dans le noir]] 18 m (12 {s:c}), ''[[vision lucide]]'' ; [[Perception]] +26}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 28, contact 8, pris au dépourvu 28 (naturelle +20, taille -2)}
+{s:BDTexte|'''pv''' 186 (12d10+120)}
+{s:BDTexte|'''Réf''' +4, '''Vig''' +18, '''Vol''' +11}
+{s:BDTexte|'''Immunités''' électricité, poison ; '''RD''' 10/Bien ; '''Résistances''' acide 10, feu 10, froid 10 ; '''RM''' 24 }
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD'''  12 m (8 {s:c})}
+{s:BDTexte|'''Corps à corps''' 2 pinces +20 (2d8+10/19-20), 2 griffes +20 (1d6+10), morsure +20 (1d8+10)}
+{s:BDTexte|'''Espace'''  4,50 m (3 {s:c}) ; '''Allonge'''  4,50 m (3 {s:c})}
+{s:BDTexte|'''Attaques spéciales''' [[éventration]] (2 pinces, 2d8+15)}
+{s:BDTexte|'''Pouvoirs magiques''' (NLS 14<sup>e</sup>)}
+{s:BDSorts|Constant — ''[[vision lucide]]''}
+{s:BDSorts|À volonté — ''[[confusion]]'' (DD 19), ''[[dissipation de la magie]]'', ''[[image miroir]]'', ''[[inversion de la gravité]]'' (DD 22), ''[[marteau du Chaos]]'' (DD 19), ''[[téléportation suprême]]'' (lui-même et 25 kg d'objets uniquement), ''[[ténèbres maudites]]'', ''[[voile]]'' (sur lui-même uniquement)}
+{s:BDSorts|1/jour — ''[[convocation]]'' (niveau 4, 1 glabrezu 20% ou 1d2 [[vrock|vrocks]] 50%), ''[[mot de pouvoir étourdissant]]''}
+{s:BDSorts|1/mois — ''[[souhait]]'' (accordé à un humanoïde mortel uniquement)}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 31, '''Dex''' 11, '''Con''' 31, '''Int''' 16, '''Sag''' 16, '''Cha''' 20}
+{s:BDTexte|'''BBA''' +12, '''BMO''' +24, '''DMD''' 34}
+{s:BDTexte|'''Dons''' [[Attaque en puissance]], [[Enchaînement]], [[Frappe décisive]], [[Persuasion]], [[Science du critique]] (pince), [[Succession denchaînements|Succession d'enchaînements]]}
+{s:BDTexte|'''Compétences''' [[Bluff]] +28, [[Connaissances]] (folklore local) +18, [[Connaissances]] (histoire) +18, [[Diplomatie]] +22, [[Discrétion]] +7, [[Intimidation]] +22, [[Perception]] +26, [[Psychologie]] +18, [[Utilisation dobjets magiques|Utilisation d'objets magiques]] +17 ; '''Modificateurs raciaux''' [[Bluff]] +8, [[Perception]] +8}
+{s:BDTexte|'''Langues''' abyssal, céleste, draconique ; [[télépathie]]  30 m (20 {s:c})}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' quelconque (Abysse)}
+{s:BDTexte|'''Organisation sociale''' solitaire ou troupe (1 glabrezu, 1 [[succube]], et 2-5 [[vrock|vrocks]])}
+{s:BDTexte|'''Trésor''' standard}
+</div>
+</td><td><div>''Quatre bras jaillissent du torse de ce gigantesque monstre. On décèle dans ses yeux un mélange d’intelligence et de cruauté.''
+
+Si les démons succubes manipulent leurs victimes en
+exploitant leurs besoins et leurs désirs physiques, les glabrezus
+eux recourent à une autre forme de tentation. Ces démons au
+physique féroce et bestial sont en fait des maîtres dans l’art de la
+tromperie et du mensonge. Tirant avantage de leur habileté à cacher leur véritable apparence sous des illusions plaisantes, les glabrezus
+utilisent leur magie pour réaliser les souhaits des humanoïdes
+mortels et récompenser ceux qui succombent à leurs ruses et à leurs
+mensonges. Les souhaits que les glabrezus accordent aux mortels
+répondent toujours à leurs désirs de la manière la plus destructrice
+possible, même si ce n’est pas toujours immédiatement évident. 
+
+Un
+fabricant d’armes en difficulté désirant une meilleure réputation
+et des talents plus affinés pourrait s’apercevoir que son meilleur
+client est un meurtrier cruel et sadique qui utilise ses armes pour
+assouvir ses désirs de destruction. Un homme solitaire souhaitant
+une compagne pourrait voir ses vœux s’accomplir lorsque son
+amour perdu revient à la « vie » sous la forme d’un vampire par
+exemple. Les glabrezus sont toujours très créatifs lorsqu’ils
+s’occupent des désirs des mortels.
+
+Un glabrezu mesure 5,60 mètres de haut et pèse un peu plus de
+3 000 kg. Ces démons perfides sont formés à partir des âmes des
+traîtres, des menteurs et des individus subversifs, c’est-à-dire les
+âmes des mortels qui ont fait de faux témoignages de leur vivant ou
+qui ont joué de ruse et de perfidie pour détruire la vie des autres.
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Glabrezu</fullName>
+</wikiPage>

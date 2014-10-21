@@ -1,0 +1,157 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Tueur obscur</title>
+  <categories><category>Pathfinder-RPG.Bestiaire 2</category><category>Pathfinder-RPG.Monstre</category><category>Pathfinder-RPG.Règles officielles</category></categories>
+  <lastModified>2013-02-06 19:51:31Z</lastModified>
+  <version>1</version>
+  <inLinks><link>Pathfinder-RPG.Glossaire des monstres</link><link>Pathfinder-RPG.Liste de monstres par FP</link><link>Pathfinder-RPG.Liste de monstres par milieu naturel</link><link>Pathfinder-RPG.Liste de monstres par type</link><link>Pathfinder-RPG.Monstres</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.type Humanoïde</link><link>Pathfinder-RPG.sous-type obscur</link><link>Pathfinder-RPG.Détection de la magie</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Aveuglé par la lumière (capacité)</link><link>Pathfinder-RPG.attaque sournoise</link><link>Pathfinder-RPG.NLS</link><link>Pathfinder-RPG.Contact glacial</link><link>Pathfinder-RPG.Main spectrale</link><link>Pathfinder-RPG.Saignement</link><link>Pathfinder-RPG.Ténèbres</link><link>Pathfinder-RPG.Blessure modérée</link><link>Pathfinder-RPG.Hébétement de monstre</link><link>Pathfinder-RPG.Mise à mort</link><link>Pathfinder-RPG.Attaque en finesse</link><link>Pathfinder-RPG.Talent</link><link>Pathfinder-RPG.Utilisation dObjets Magiques</link><link>Pathfinder-RPG.Art de la magie</link><link>Pathfinder-RPG.Discrétion</link><link>Pathfinder-RPG.Escalade</link><link>Pathfinder-RPG.Traqueur obscur</link><link>Pathfinder-RPG.Fureteur obscur</link><link>Pathfinder-RPG.Vigueur</link><link>Pathfinder-RPG.DD</link><link>Pathfinder-RPG.Assourdi</link><link>Pathfinder-RPG.round</link><link>Pathfinder-RPG.jet de sauvegarde</link><link>Pathfinder-RPG.Constitution</link><link>Pathfinder-RPG.Pris au dépourvu</link><link>Pathfinder-RPG.Pris en tenaille</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Tueur obscur&lt;div style=&quot;float:right;&quot;&gt;FP 3&lt;/div&gt;&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Bestiaire 2&lt;/i&gt; p.279
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 800
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Humano&#239;de.html&quot; title=&quot;Humano&#239;de&quot;&gt;Humano&#239;de&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Obscur.html&quot; title=&quot;Obscur (sous-type)&quot;&gt;Obscur&lt;/a&gt;) de taille P, CM
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +4 ; &lt;b&gt;Sens&lt;/b&gt; &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;D&#233;tection-De-La-Magie.html&quot; title=&quot;D&#233;tection de la magie&quot;&gt;d&#233;tection de la magie&lt;/a&gt;&lt;/i&gt;, vision dans les t&#233;n&#232;bres ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +4
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 15, contact 15, pris au d&#233;pourvu 11 (Dex +4, taille +1)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 22 (4d8+4)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +5, &lt;b&gt;Vig&lt;/b&gt; +2, &lt;b&gt;Vol&lt;/b&gt; +1
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Faiblesses&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Aveugl&#233;-Par-La-Lumi&#232;re-(Capacit&#233;).html&quot; title=&quot;Aveugl&#233; par la lumi&#232;re (Ext)&quot;&gt;aveugl&#233; par la lumi&#232;re&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 9 m (6 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; kukri, +8 (1d3–1/18–20 plus tra&#238;n&#233;e noire [poison])
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaques sp&#233;ciales&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Roublard.html#ATTAQUESOURNOISE&quot; title=&quot;attaque sournoise&quot;&gt;attaque sournoise&lt;/a&gt; +2d6, dernier sursaut, r&#233;colte d’&#226;mes, utilisation des poisons
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Pouvoirs magiques&lt;/b&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Lancer-Des-Sorts.html#NLS&quot; title=&quot;NLS&quot;&gt;NLS&lt;/a&gt; 4 ; concentration +6)
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+Constant — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;D&#233;tection-De-La-Magie.html&quot; title=&quot;D&#233;tection de la magie&quot;&gt;d&#233;tection de la magie&lt;/a&gt;&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+&#192; volont&#233; — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Contact-Glacial.html&quot; title=&quot;Contact glacial&quot;&gt;contact glacial&lt;/a&gt;&lt;/i&gt; (DD 13), &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Main-Spectrale.html&quot; title=&quot;Main spectrale&quot;&gt;main spectrale&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables.html#Saignement&quot; title=&quot;Saignement&quot;&gt;saignement&lt;/a&gt;&lt;/i&gt; (DD 12), &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;T&#233;n&#232;bres.html&quot; title=&quot;T&#233;n&#232;bres&quot;&gt;t&#233;n&#232;bres&lt;/a&gt;&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+3/jour — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Blessure-Mod&#233;r&#233;e.html&quot; title=&quot;Blessure mod&#233;r&#233;e&quot;&gt;blessure mod&#233;r&#233;e&lt;/a&gt;&lt;/i&gt; (DD 14), &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;H&#233;b&#233;tement-De-Monstre.html&quot; title=&quot;H&#233;b&#233;tement de monstre&quot;&gt;h&#233;b&#233;tement de monstre&lt;/a&gt;&lt;/i&gt; (DD 14), &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Mise-&#192;-Mort.html&quot; title=&quot;Mise &#224; mort&quot;&gt;mise &#224; mort&lt;/a&gt;&lt;/i&gt; (DD 14)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 9, &lt;b&gt;Dex&lt;/b&gt; 18, &lt;b&gt;Con&lt;/b&gt; 12, &lt;b&gt;Int&lt;/b&gt; 10, &lt;b&gt;Sag&lt;/b&gt; 11, &lt;b&gt;Cha&lt;/b&gt; 15
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +3 ; &lt;b&gt;BMO&lt;/b&gt; +1 ; &lt;b&gt;DMD&lt;/b&gt; 15
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Attaque-En-Finesse.html&quot; title=&quot;Attaque en finesse&quot;&gt;Attaque en finesse&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Talent.html&quot; title=&quot;Talent&quot;&gt;Talent&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Utilisation-Dobjets-Magiques.html&quot; title=&quot;Utilisation d&amp;#39;objets magiques&quot;&gt;Utilisation d’objets magiques&lt;/a&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Art-De-La-Magie.html&quot; title=&quot;Art de la magie&quot;&gt;Art de la magie&lt;/a&gt; +7, &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; +12, &lt;a class=&quot;pagelink&quot; href=&quot;Escalade.html&quot; title=&quot;Escalade&quot;&gt;Escalade&lt;/a&gt; +3, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +4, &lt;a class=&quot;pagelink&quot; href=&quot;Utilisation-Dobjets-Magiques.html&quot; title=&quot;Utilisation d&amp;#39;objets magiques&quot;&gt;Utilisation d’objets magiques&lt;/a&gt; +12 ; &lt;b&gt;Modificateurs raciaux&lt;/b&gt; +4 en &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt;, +4 en &lt;a class=&quot;pagelink&quot; href=&quot;Escalade.html&quot; title=&quot;Escalade&quot;&gt;Escalade&lt;/a&gt;, +4 en &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Langues&lt;/b&gt; obscurien
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Particularit&#233;s&lt;/b&gt; Talent magique
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; sous terre
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation sociale&lt;/b&gt; solitaire, bande (1 tueur obscur et 2–5 &lt;a class=&quot;pagelink&quot; href=&quot;Traqueur-Obscur.html&quot; title=&quot;Traqueur obscur&quot;&gt;traqueurs obscurs&lt;/a&gt;) ou clan (20–80 &lt;a class=&quot;pagelink&quot; href=&quot;Fureteur-Obscur.html&quot; title=&quot;Fureteur obscur&quot;&gt;fureteurs obscurs&lt;/a&gt; plus 1 &lt;a class=&quot;pagelink&quot; href=&quot;Traqueur-Obscur.html&quot; title=&quot;Traqueur obscur&quot;&gt;traqueur obscur&lt;/a&gt; ou 1 tueur obscur par 20 &lt;a class=&quot;pagelink&quot; href=&quot;Fureteur-Obscur.html&quot; title=&quot;Fureteur obscur&quot;&gt;fureteurs&lt;/a&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; standard (kukri, tra&#238;n&#233;e noire [2 doses] [voir description du &lt;a class=&quot;pagelink&quot; href=&quot;Traqueur-Obscur.html&quot; title=&quot;Traqueur obscur&quot;&gt;traqueur obscur&lt;/a&gt;], autre &#233;quipement)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Pouvoirs sp&#233;ciaux&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dernier sursaut (Sur).&lt;/b&gt; Quand un tueur obscur est tu&#233;, son corps implose violemment pour se d&#233;sint&#233;grer compl&#232;tement et ne laisser que son &#233;quipement sur le sol. Toutes les cr&#233;atures situ&#233;es dans un rayon de 3 m&#232;tres (2 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) subissent 1d8 points de d&#233;g&#226;ts de son et doivent r&#233;ussir un jet de &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;Vigueur&quot;&gt;Vigueur&lt;/a&gt; contre un &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DEGREDEDIFFICULTE&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; de 13 pour ne pas &#234;tre &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables.html#Assourdi&quot; title=&quot;Assourdi&quot;&gt;assourdies&lt;/a&gt; pendant 2d4 &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#ROUND&quot; title=&quot;round&quot;&gt;rounds&lt;/a&gt;. Le &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DEGREDEDIFFICULTE&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; du &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;jet de sauvegarde&quot;&gt;jet de sauvegarde&lt;/a&gt; d&#233;pend de la &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#CONSTITUTION&quot; title=&quot;La Constitution&quot;&gt;Constitution&lt;/a&gt;.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;colte d’&#226;mes (Sur).&lt;/b&gt; Quand un tueur obscur blesse un ennemi &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables.html#Prisaud&#233;pourvu&quot; title=&quot;Pris au d&#233;pourvu&quot;&gt;pris au d&#233;pourvu&lt;/a&gt; ou un ennemi &lt;a class=&quot;pagelink&quot; href=&quot;Modificateurs-De-Combat.html#PRISEENTENAILLE&quot; title=&quot;Pris en tenaille&quot;&gt;pris en tenaille&lt;/a&gt; &#224; l’aide d’un sort de contact au corps &#224; corps ou d’un pouvoir magique qui inflige des points de d&#233;g&#226;ts, le sort inflige 1d6 points de d&#233;g&#226;ts suppl&#233;mentaires et le tueur obscur gagne la m&#234;me quantit&#233; de points de vie temporaires. Ces points de vie temporaires durent au plus 1 heure.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Talent magique (Ext).&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Art-De-La-Magie.html&quot; title=&quot;Art de la magie&quot;&gt;Art de la magie&lt;/a&gt; et &lt;a class=&quot;pagelink&quot; href=&quot;Utilisation-Dobjets-Magiques.html&quot; title=&quot;Utilisation d&amp;#39;objets magiques&quot;&gt;Utilisation d’objets magiques&lt;/a&gt; sont toujours des comp&#233;tences de classe pour les tueurs obscurs.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Utilisation des poisons (Ext.)&lt;/b&gt; Voir les pouvoirs sp&#233;ciaux du &lt;a class=&quot;pagelink&quot; href=&quot;Traqueur-Obscur.html&quot; title=&quot;Traqueur obscur&quot;&gt;traqueur obscur&lt;/a&gt;.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Vision dans les t&#233;n&#232;bres (Ext.)&lt;/b&gt; Voir les pouvoirs sp&#233;ciaux du &lt;a class=&quot;pagelink&quot; href=&quot;Traqueur-Obscur.html&quot; title=&quot;Traqueur obscur&quot;&gt;traqueur obscur&lt;/a&gt;.
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;td&gt;&lt;div&gt;
+&lt;i&gt;Ce petit humano&#239;de est couvert de guenilles de la t&#234;te aux pieds. Seul ses mains p&#226;les et ses yeux sinistres sont visibles.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Les tueurs obscurs forment une ethnie relativement peu courante de la race des obscurs. Ces individus touch&#233;s par des forces mal&#233;fiques poss&#232;dent un &#233;ventail de pouvoirs magiques mortels bien sup&#233;rieurs &#224; ceux qui sont normalement accessibles &#224; leur peuple. On les rencontre g&#233;n&#233;ralement &#224; la t&#234;te de petits groupes de fureteurs obscurs. Ils cachent difficilement la jalousie que leur inspirent les traqueurs obscurs. Ils passent tout leur temps &#224; comploter afin de les renverser et de pouvoir contr&#244;ler eux-aussi une tribu enti&#232;re d’obscurs. Les traqueurs obscurs, eux, utilisent les tueurs pour atteindre leurs propres buts  : ils les forment pour ensuite les envoyer combattre leurs ennemis et n’h&#233;sitent pas &#224; les sacrifier au combat si cela peut leur donner un avantage, m&#234;me un avantage temporaire.&lt;br /&gt;&lt;br /&gt;Contrairement aux autres obscurs, les tueurs obscurs laissent libre cours &#224; leurs d&#233;sirs mal&#233;fiques. C’est surtout dans les meurtres et la douleur qu’ils trouvent leur plaisir, plus que dans le vol et le d&#233;sordre. Les tueurs obscurs sont obs&#233;d&#233;s par les colifichets magiques, leur type de tr&#233;sor pr&#233;f&#233;r&#233;. Malheureusement, &#224; cause de leur besoin obsessionnel de manipuler et de toucher &#224; tout, ces babioles magiques sont souvent bien vite drain&#233;es de leurs charges ou bris&#233;es.&lt;br /&gt;&lt;br /&gt;Un tueur obscur mesure un peu moins de 1,20 m&#232;tre de hauteur et p&#232;se 25  kg. La plupart de ces cr&#233;atures ont les mains qui tremblent de mani&#232;re tr&#232;s visible, une agitation qui ne cesse que lorsqu’ils cajolent un objet magique qu’ils viennent de trouver. Leur peau de couleur blanc p&#226;le est s&#232;che et chaude au toucher. Leurs yeux sont sombres et &#233;troits. Les tueurs obscurs s’habillent de guenilles r&#233;cup&#233;r&#233;es ici et l&#224;, comme les fureteurs obscurs, mais ils s’en d&#233;barrassent quand elles deviennent trop d&#233;chir&#233;es ou qu’elles sentent trop mauvais.
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Tueur obscur|FP 3}
+{s:pucem|Humanoïde|Souterrain|Tempéré}
+{s:BDTexte|''Source : Bestiaire 2'' p.279}
+{s:BDTexte|'''PX''' 800}
+{s:BDTexte|[[type humanoïde|Humanoïde]] ([[sous-type Obscur|Obscur]]) de taille P, CM}
+{s:BDTexte|'''Init''' +4 ; '''Sens''' ''[[détection de la magie]]'', vision dans les ténèbres ; [[Perception]] +4}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 15, contact 15, pris au dépourvu 11 (Dex +4, taille +1)}
+{s:BDTexte|'''pv''' 22 (4d8+4)}
+{s:BDTexte|'''Réf''' +5, '''Vig''' +2, '''Vol''' +1}
+{s:BDTexte|'''Faiblesses''' [[aveuglé par la lumière (capacité)|aveuglé par la lumière]]}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 9 m (6 {s:c})}
+{s:BDTexte|'''Corps à corps''' kukri, +8 (1d3–1/18–20 plus traînée noire <nowiki>[</nowiki>poison<nowiki>]</nowiki>)}
+{s:BDTexte|'''Attaques spéciales''' [[attaque sournoise]] +2d6, dernier sursaut, récolte d’âmes, utilisation des poisons}
+{s:BDTexte|'''Pouvoirs magiques''' ([[NLS]] 4 ; concentration +6)}
+{s:BDSorts|Constant — ''[[détection de la magie]]''}
+{s:BDSorts|À volonté — ''[[contact glacial]]'' (DD 13), ''[[main spectrale]]'', ''[[saignement]]'' (DD 12), ''[[ténèbres]]''}
+{s:BDSorts|3/jour — ''[[blessure modérée]]'' (DD 14), ''[[hébétement de monstre]]'' (DD 14), ''[[mise à mort]]'' (DD 14)}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 9, '''Dex''' 18, '''Con''' 12, '''Int''' 10, '''Sag''' 11, '''Cha''' 15}
+{s:BDTexte|'''BBA''' +3 ; '''BMO''' +1 ; '''DMD''' 15}
+{s:BDTexte|'''Dons''' [[Attaque en finesse]], [[Talent]] ([[Utilisation dobjets magiques|Utilisation d’objets magiques]])}
+{s:BDTexte|'''Compétences''' [[Art de la magie]] +7, [[Discrétion]] +12, [[Escalade]] +3, [[Perception]] +4, [[utilisation dobjets magiques|Utilisation d’objets magiques]] +12 ; '''Modificateurs raciaux''' +4 en [[Discrétion]], +4 en [[Escalade]], +4 en [[Perception]]}
+{s:BDTexte|'''Langues''' obscurien}
+{s:BDTexte|'''Particularités''' Talent magique}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' sous terre}
+{s:BDTexte|'''Organisation sociale''' solitaire, bande (1 tueur obscur et 2–5 [[traqueur obscur|traqueurs obscurs]]) ou clan (20–80 [[fureteur obscur|fureteurs obscurs]] plus 1 [[traqueur obscur]] ou 1 tueur obscur par 20 [[fureteur obscur|fureteurs]])}
+{s:BDTexte|'''Trésor''' standard (kukri, traînée noire <nowiki>[</nowiki>2 doses<nowiki>]</nowiki> <nowiki>[</nowiki>voir description du [[traqueur obscur]]<nowiki>]</nowiki>, autre équipement)}
+{s:BDSousTitre|Pouvoirs spéciaux}
+{s:BDTexte|'''Dernier sursaut (Sur).''' Quand un tueur obscur est tué, son corps implose violemment pour se désintégrer complètement et ne laisser que son équipement sur le sol. Toutes les créatures situées dans un rayon de 3 mètres (2 {s:c}) subissent 1d8 points de dégâts de son et doivent réussir un jet de [[Vigueur]] contre un [[DD]] de 13 pour ne pas être [[assourdi|assourdies]] pendant 2d4 [[round|rounds]]. Le [[DD]] du [[jet de sauvegarde]] dépend de la [[Constitution]].}
+{s:BDTexte|'''Récolte d’âmes (Sur).''' Quand un tueur obscur blesse un ennemi [[pris au dépourvu]] ou un ennemi [[pris en tenaille]] à l’aide d’un sort de contact au corps à corps ou d’un pouvoir magique qui inflige des points de dégâts, le sort inflige 1d6 points de dégâts supplémentaires et le tueur obscur gagne la même quantité de points de vie temporaires. Ces points de vie temporaires durent au plus 1 heure.}
+{s:BDTexte|'''Talent magique (Ext).''' [[Art de la magie]] et [[Utilisation dobjets magiques|Utilisation d’objets magiques]] sont toujours des compétences de classe pour les tueurs obscurs.}
+{s:BDTexte|'''Utilisation des poisons (Ext.)''' Voir les pouvoirs spéciaux du [[traqueur obscur]].}
+{s:BDTexte|'''Vision dans les ténèbres (Ext.)''' Voir les pouvoirs spéciaux du [[traqueur obscur]].}
+</div>
+</td><td><div>
+''Ce petit humanoïde est couvert de guenilles de la tête aux pieds. Seul ses mains pâles et ses yeux sinistres sont visibles.''
+
+Les tueurs obscurs forment une ethnie relativement peu courante de la race des obscurs. Ces individus touchés par des forces maléfiques possèdent un éventail de pouvoirs magiques mortels bien supérieurs à ceux qui sont normalement accessibles à leur peuple. On les rencontre généralement à la tête de petits groupes de fureteurs obscurs. Ils cachent difficilement la jalousie que leur inspirent les traqueurs obscurs. Ils passent tout leur temps à comploter afin de les renverser et de pouvoir contrôler eux-aussi une tribu entière d’obscurs. Les traqueurs obscurs, eux, utilisent les tueurs pour atteindre leurs propres buts  : ils les forment pour ensuite les envoyer combattre leurs ennemis et n’hésitent pas à les sacrifier au combat si cela peut leur donner un avantage, même un avantage temporaire.
+
+Contrairement aux autres obscurs, les tueurs obscurs laissent libre cours à leurs désirs maléfiques. C’est surtout dans les meurtres et la douleur qu’ils trouvent leur plaisir, plus que dans le vol et le désordre. Les tueurs obscurs sont obsédés par les colifichets magiques, leur type de trésor préféré. Malheureusement, à cause de leur besoin obsessionnel de manipuler et de toucher à tout, ces babioles magiques sont souvent bien vite drainées de leurs charges ou brisées.
+
+Un tueur obscur mesure un peu moins de 1,20 mètre de hauteur et pèse 25  kg. La plupart de ces créatures ont les mains qui tremblent de manière très visible, une agitation qui ne cesse que lorsqu’ils cajolent un objet magique qu’ils viennent de trouver. Leur peau de couleur blanc pâle est sèche et chaude au toucher. Leurs yeux sont sombres et étroits. Les tueurs obscurs s’habillent de guenilles récupérées ici et là, comme les fureteurs obscurs, mais ils s’en débarrassent quand elles deviennent trop déchirées ou qu’elles sentent trop mauvais.
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Tueur obscur</fullName>
+</wikiPage>

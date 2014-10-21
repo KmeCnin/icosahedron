@@ -1,0 +1,105 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Nuée d'asticots</title>
+  <categories><category>Pathfinder-RPG.Bestiaire 3</category><category>Pathfinder-RPG.Monstre</category><category>Pathfinder-RPG.Règles officielles</category></categories>
+  <lastModified>2013-11-22 00:22:38Z</lastModified>
+  <version>7</version>
+  <inLinks><link>Pathfinder-RPG.Glossaire des monstres</link><link>Pathfinder-RPG.Liste de monstres par FP</link><link>Pathfinder-RPG.Liste de monstres par milieu naturel</link><link>Pathfinder-RPG.Liste de monstres par type</link><link>Pathfinder-RPG.Monstres</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.type Vermine</link><link>Pathfinder-RPG.sous-type nuée</link><link>Pathfinder-RPG.perception aveugle</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Distraction</link><link>Pathfinder-RPG.DD</link><link>Pathfinder-RPG.jet de sauvegarde</link><link>Pathfinder-RPG.Constitution</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Nu&#233;e d&#39;Asticots&lt;div style=&quot;float:right;&quot;&gt;FP 7&lt;/div&gt;&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Bestiaire 3 pg 212&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 3 200
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Vermine.html&quot; title=&quot;Vermine&quot;&gt;Vermine&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Nu&#233;e.html&quot; title=&quot;Nu&#233;e (sous-type)&quot;&gt;nu&#233;e&lt;/a&gt;) de taille I, N
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +2 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Perception-Aveugle-(Capacit&#233;).html&quot; title=&quot;perception aveugle&quot;&gt;perception aveugle&lt;/a&gt; 9 m (6 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +0
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 20, contact 20, pris au d&#233;pourvu 18 (Dex +2, taille +8)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 85 (10d8+40)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +5, &lt;b&gt;Vig&lt;/b&gt; +11, &lt;b&gt;Vol&lt;/b&gt; +3
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Capacit&#233; d&#233;fensive&lt;/b&gt; traits des nu&#233;es ; &lt;b&gt;Immunit&#233;s&lt;/b&gt; d&#233;g&#226;ts des armes, effets mentaux
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 3 m (2 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;&#192; distance&lt;/b&gt; nu&#233;e +10 (2d6 plus &lt;a class=&quot;pagelink&quot; href=&quot;Distraction-(Capacit&#233;).html&quot; title=&quot;Distraction&quot;&gt;distraction&lt;/a&gt; et infestation)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Espace&lt;/b&gt; 3 m (2 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) ; &lt;b&gt;Allonge&lt;/b&gt; 0 m
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaques sp&#233;ciales&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Distraction-(Capacit&#233;).html&quot; title=&quot;Distraction&quot;&gt;distraction&lt;/a&gt; (DD 19), infestation
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 1, &lt;b&gt;Dex&lt;/b&gt; 15, &lt;b&gt;Con&lt;/b&gt; 18, &lt;b&gt;Int&lt;/b&gt; -, &lt;b&gt;Sag&lt;/b&gt; 10, &lt;b&gt;Cha&lt;/b&gt; 1
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +7, &lt;b&gt;BMO&lt;/b&gt; -, &lt;b&gt;DMD&lt;/b&gt; -
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; tous
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation sociale&lt;/b&gt; solitaire
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; aucun
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Capacit&#233;s sp&#233;ciales&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Infestation (Ext).&lt;/b&gt; Toute cr&#233;ature vivante qui re&#231;oit des d&#233;g&#226;ts de la part d’une nu&#233;e d’asticots en est infest&#233;e &#224; moins de r&#233;ussir un jet de R&#233;flexes DD 19. En cas d’&#233;chec, la cr&#233;ature infest&#233;e subit un affaiblissement temporaire de 1d4 points de Constitution par round tandis que la nu&#233;e d’asticots creuse et consume sa chair : cet effet dure tant que la victime reste dans la nu&#233;e et pendant 1d6 round apr&#232;s qu’elle l’a quitt&#233;e. Toutes les attaques d’&#233;nergie (y compris les d&#233;g&#226;ts d’&#233;nergie n&#233;gative) infligeant au moins 5 points de d&#233;g&#226;ts &#224; la victime d&#233;truisent automatiquement tous les asticots dont elle est infest&#233;e, dissipant leur effet pr&#233;matur&#233;ment. En outre, tous les effets qui gu&#233;rissent des maladies mettent aussit&#244;t fin &#224; l’infestation. L’immunit&#233; contre maladies n’offre aucune protection. Le &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DEGREDEDIFFICULTE&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; du &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;jet de sauvegarde&quot;&gt;jet de sauvegarde&lt;/a&gt; d&#233;pend de la &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#CONSTITUTION&quot; title=&quot;La Constitution&quot;&gt;Constitution&lt;/a&gt;.
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;td&gt;&lt;div&gt;&lt;i&gt;Ce tapis &#233;coeurant d’asticots blancs se tortillent en tous sens, ondulant telle une vague blafarde et affam&#233;e.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Nuée d'Asticots|FP 7}
+{s:pucem|Vermine|Ruines-Donjons|Tempéré}
+{s:BDTexte|''Source : Bestiaire 3 pg 212''}
+{s:BDTexte|'''PX''' 3 200}
+{s:BDTexte|[[type Vermine|Vermine]] ([[sous-type nuée|nuée]]) de taille I, N}
+{s:BDTexte|'''Init''' +2 ; '''Sens''' [[perception aveugle]] 9 m (6 {s:c}) ; [[Perception]] +0}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 20, contact 20, pris au dépourvu 18 (Dex +2, taille +8)}
+{s:BDTexte|'''pv''' 85 (10d8+40)}
+{s:BDTexte|'''Réf''' +5, '''Vig''' +11, '''Vol''' +3}
+{s:BDTexte|'''Capacité défensive''' traits des nuées ; '''Immunités''' dégâts des armes, effets mentaux}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 3 m (2 {s:c})}
+{s:BDTexte|'''À distance''' nuée +10 (2d6 plus [[distraction]] et infestation)}
+{s:BDTexte|'''Espace''' 3 m (2 {s:c}) ; '''Allonge''' 0 m}
+{s:BDTexte|'''Attaques spéciales''' [[distraction]] (DD 19), infestation}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 1, '''Dex''' 15, '''Con''' 18, '''Int''' -, '''Sag''' 10, '''Cha''' 1}
+{s:BDTexte|'''BBA''' +7, '''BMO''' -, '''DMD''' -}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' tous}
+{s:BDTexte|'''Organisation sociale''' solitaire}
+{s:BDTexte|'''Trésor''' aucun}
+{s:BDSousTitre|Capacités spéciales}
+{s:BDTexte|'''Infestation (Ext).''' Toute créature vivante qui reçoit des dégâts de la part d’une nuée d’asticots en est infestée à moins de réussir un jet de Réflexes DD 19. En cas d’échec, la créature infestée subit un affaiblissement temporaire de 1d4 points de Constitution par round tandis que la nuée d’asticots creuse et consume sa chair : cet effet dure tant que la victime reste dans la nuée et pendant 1d6 round après qu’elle l’a quittée. Toutes les attaques d’énergie (y compris les dégâts d’énergie négative) infligeant au moins 5 points de dégâts à la victime détruisent automatiquement tous les asticots dont elle est infestée, dissipant leur effet prématurément. En outre, tous les effets qui guérissent des maladies mettent aussitôt fin à l’infestation. L’immunité contre maladies n’offre aucune protection. Le [[DD]] du [[jet de sauvegarde]] dépend de la [[Constitution]].}
+</div>
+</td><td><div>''Ce tapis écoeurant d’asticots blancs se tortillent en tous sens, ondulant telle une vague blafarde et affamée.''
+
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.nuée dasticots</fullName>
+</wikiPage>

@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Arc de gravité</title>
+  <categories><category>Pathfinder-RPG.Advanced Player Guide</category><category>Pathfinder-RPG.Règles officielles</category><category>Pathfinder-RPG.Sort</category><category>Pathfinder-RPG.Sort magicien 1</category><category>Pathfinder-RPG.Sort rôdeur 1</category></categories>
+  <lastModified>2012-11-04 21:31:17Z</lastModified>
+  <version>2</version>
+  <inLinks><link>Pathfinder-RPG.Glossaire des sorts</link><link>Pathfinder-RPG.Grimoires</link><link>Pathfinder-RPG.Liste des sorts</link><link>Pathfinder-RPG.Liste des sorts de rôdeurs</link><link>Pathfinder-RPG.Liste des sorts délémentaliste</link><link>Pathfinder-RPG.Liste des sorts délémentaliste temporaire</link><link>Pathfinder-RPG.Liste des sorts densorceleursmagiciens</link><link>Pathfinder-RPG.TMP sorts APG</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Transmutation</link><link>Pathfinder-RPG.Ensorceleur</link><link>Pathfinder-RPG.Magicien</link><link>Pathfinder-RPG.Rôdeur</link><link>Pathfinder-RPG.Action simple</link><link>Pathfinder-RPG.composantes</link><link>Pathfinder-RPG.Présentation des sorts</link><link>Pathfinder-RPG.niveau</link><link>Pathfinder-RPG.catégorie de taille</link><link>Pathfinder-RPG.Tableau récapitulatif des armes</link></outLinks>
+  <body><![CDATA[
+&lt;b&gt;&#201;cole&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#TRANSMUTATION&quot; title=&quot;Transmutation&quot;&gt;Transmutation&lt;/a&gt;&#160;;&lt;b&gt; Niveau&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Ensorceleur.html&quot; title=&quot;L&amp;#39;ensorceleur&quot;&gt;ensorceleur&lt;/a&gt;/&lt;a class=&quot;pagelink&quot; href=&quot;Magicien.html&quot; title=&quot;Le magicien&quot;&gt;magicien&lt;/a&gt; 1, &lt;a class=&quot;pagelink&quot; href=&quot;R&#244;deur.html&quot; title=&quot;Le r&#244;deur&quot;&gt;r&#244;deur&lt;/a&gt; 1&lt;br/&gt;
+&lt;b&gt;Temps d&#39;incantation&lt;/b&gt; 1 &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions.html#SIMPLE&quot; title=&quot;Action simple&quot;&gt;action simple&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Composantes&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#COMPOSANTES&quot; title=&quot;composantes&quot;&gt;V, G&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Port&#233;e&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#PORTEE&quot; title=&quot;Pr&#233;sentation des sorts&quot;&gt;personnelle&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Cible&lt;/b&gt; lanceur de sorts&lt;br/&gt;
+&lt;b&gt;Dur&#233;e&lt;/b&gt; 1 minute/&lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#NIVEAU&quot; title=&quot;niveau&quot;&gt;niveau&lt;/a&gt; (T)&lt;br /&gt;&lt;br /&gt;L&lt;i&gt;&#39;arc de gravit&#233;&lt;/i&gt; augmente de fa&#231;on significative le poids et la densit&#233; des fl&#232;ches ou des carreaux tir&#233;s &#224; l&#39;instant qui pr&#233;c&#232;de l&#39;impact contre la cible et les ram&#232;ne &#224; la normalit&#233; un moment plus tard. Tout projectile tir&#233; avec un arc ou une arbal&#232;te port&#233;e par le personnage alors qu&#39;il lance ce sort inflige les m&#234;mes d&#233;g&#226;ts que s&#39;il &#233;tait d&#39;une &lt;a class=&quot;pagelink&quot; href=&quot;Petites-Et-Grandes-Cr&#233;atures.html#TABLEAUTAILLES&quot; title=&quot;cat&#233;gorie de taille&quot;&gt;cat&#233;gorie de taille&lt;/a&gt; au-dessus de sa cat&#233;gorie r&#233;elle. Par exemple, une fl&#232;che tir&#233;e avec un arc de taille moyenne inflige normalement 1d8 points de d&#233;g&#226;ts mais avec le sort, elle en inflige 2d6 (voir le &lt;a class=&quot;pagelink&quot; href=&quot;Tableau-R&#233;capitulatif-Des-Armes.html&quot; title=&quot;Tableau r&#233;capitulatif des armes&quot;&gt;tableau r&#233;capitulatif des armes&lt;/a&gt;). Le personnage est le seul &#224; pouvoir b&#233;n&#233;ficier de ce sort. Si quelqu&#39;un d&#39;autre utilise son arc, les fl&#232;ches infligent des d&#233;g&#226;ts normaux.
+]]></body>
+  <raw><![CDATA[{s:APG}
+'''École''' [[Transmutation]] ;''' Niveau''' [[ensorceleur]]/[[magicien]] 1, [[rôdeur]] 1<br/>
+'''Temps d'incantation''' 1 [[action simple]]<br/>
+'''Composantes''' [[Composantes|V, G]]<br/>
+'''Portée''' [[présentation des sorts#PORTEE|personnelle]]<br/>
+'''Cible''' lanceur de sorts<br/>
+'''Durée''' 1 minute/[[niveau]] (T)
+
+L'''arc de gravité'' augmente de façon significative le poids et la densité des flèches ou des carreaux tirés à l'instant qui précède l'impact contre la cible et les ramène à la normalité un moment plus tard. Tout projectile tiré avec un arc ou une arbalète portée par le personnage alors qu'il lance ce sort inflige les mêmes dégâts que s'il était d'une [[catégorie de taille]] au-dessus de sa catégorie réelle. Par exemple, une flèche tirée avec un arc de taille moyenne inflige normalement 1d8 points de dégâts mais avec le sort, elle en inflige 2d6 (voir le [[tableau récapitulatif des armes]]). Le personnage est le seul à pouvoir bénéficier de ce sort. Si quelqu'un d'autre utilise son arc, les flèches infligent des dégâts normaux.
+]]></raw>
+  <fullName>Pathfinder-RPG.Arc de gravité</fullName>
+</wikiPage>

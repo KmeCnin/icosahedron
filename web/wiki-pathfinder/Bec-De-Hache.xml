@@ -1,0 +1,121 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Bec-de-hache</title>
+  <categories><category>Pathfinder-RPG.Bestiaire</category><category>Pathfinder-RPG.Monstre</category></categories>
+  <lastModified>2011-01-09 14:02:28Z</lastModified>
+  <version>8</version>
+  <inLinks><link>Pathfinder-RPG.Glossaire des monstres</link><link>Pathfinder-RPG.Liste de monstres par type</link><link>Pathfinder-RPG.Monstres</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.type Animal</link><link>Pathfinder-RPG.vision nocturne</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Course</link><link>Pathfinder-RPG.Talent</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Bec-de-hache&lt;div style=&quot;float:right;&quot;&gt;FP 2&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Bonus Bestiary&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 600
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Animal.html&quot; title=&quot;Animal&quot;&gt;Animal&lt;/a&gt; de taille G, N
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +3 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Nocturne-(Capacit&#233;).html&quot; title=&quot;vision nocturne&quot;&gt;vision nocturne&lt;/a&gt; ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +9
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 14, contact 12, pris au d&#233;pourvu 11 (Dex +3, naturelle +2, taille -1)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 22 (3d8+9)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +6, &lt;b&gt;Vig&lt;/b&gt; +6, &lt;b&gt;Vol&lt;/b&gt; +1
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 15 m (10 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; morsure +6 (1d8+6)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Espace&lt;/b&gt; 2 ; &lt;b&gt;Allonge&lt;/b&gt; 2
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaques sp&#233;ciales&lt;/b&gt; charge soudaine
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 18, &lt;b&gt;Dex&lt;/b&gt; 17, &lt;b&gt;Con&lt;/b&gt; 16, &lt;b&gt;Int&lt;/b&gt; 2, &lt;b&gt;Sag&lt;/b&gt; 11, &lt;b&gt;Cha&lt;/b&gt; 10
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +2, &lt;b&gt;BMO&lt;/b&gt; +7, &lt;b&gt;DMD&lt;/b&gt; 20
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Course.html&quot; title=&quot;Course&quot;&gt;Course&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Talent.html&quot; title=&quot;Talent&quot;&gt;Talent&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +9
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; plaines temp&#233;r&#233;s
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation sociale&lt;/b&gt; solitaire, couple ou vol (3-6)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; valeur 550 po (objets brillants)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Particularit&#233;s&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt; charge soudaine (Ext)&lt;/b&gt; Lorsqu&#39;il fait une charge, un bec-de-hache effectue une seule attaque de morsure. S&#39;il r&#233;ussit, il peut aussi faire un croc-en-jambe &#224; son adversaire en une action libre sans provoquer d&#39;attaque d&#39;opportunit&#233;. S&#39;il &#233;choue, son adversaire ne peut pas lui faire de croc-en-jambe en retour.
+&lt;/div&gt;
+&lt;/div&gt;&lt;/td&gt;&lt;td&gt;&lt;div&gt;
+&lt;i&gt;Entra&#238;ner un bec-de-hache.&lt;/i&gt; Un bec-de-hache a besoin d&#39;&#234;tre entra&#238;n&#233; avant de pouvoir porter un cavalier. Apprivoiser un bec-de-hache n&#233;cessite 6 semaines de travail et un jet de Dressage DD25, apr&#232;s quoi l&#39;animal peut apprendre des tours. Chevaucher un bec-de-hache n&#233;cessite une selle exotique. Les œufs des becs-de-hache valent 1000 PO pi&#232;ces sur le march&#233;, alors qu&#39;un jeune co&#251;te 1500 PO.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Capacit&#233;s de chargement&lt;/b&gt; : &lt;b&gt;Charge l&#233;g&#232;re&lt;/b&gt; &lt;= 100 kg ; &lt;b&gt;Charge moyenne&lt;/b&gt; &lt;= 200 kg ; &lt;b&gt;Charge lourde&lt;/b&gt; &lt;= 300 kg.&lt;br /&gt;&lt;br /&gt;&lt;h3 class=&quot;separator&quot;&gt;Le bec-de-hache comme compagnon animal&lt;a class=&quot;headeranchor&quot; id=&quot;Le_bec-de-hache_comme_compagnon_animal_0&quot; href=&quot;#Le_bec-de-hache_comme_compagnon_animal_0&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;
+&lt;b&gt;Caract&#233;ristiques de d&#233;part.&lt;/b&gt; &lt;b&gt;Taille&lt;/b&gt; M ; &lt;b&gt;Vitesse&lt;/b&gt; 15 m (10 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) ; &lt;b&gt;Attaque&lt;/b&gt; morsure (1d6 + 1,5 For) ; &lt;b&gt;Caract&#233;ristiques&lt;/b&gt; For 10, Dex 19, Con 12, Int 2, Sag 11, Cha 10 ; &lt;b&gt;Particularit&#233;s&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Nocturne-(Capacit&#233;).html&quot; title=&quot;vision nocturne&quot;&gt;vision nocturne&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;D&#233;veloppement au niveau 4.&lt;/b&gt; &lt;b&gt;Taille&lt;/b&gt; G ; &lt;b&gt;CA&lt;/b&gt; +2 armure naturelle ; &lt;b&gt;Attaque&lt;/b&gt; morsure (1d8 + 1,5 For) &lt;b&gt;Caract&#233;ristiques&lt;/b&gt; For +8 Dex -2, Con +4 ; &lt;b&gt;Particularit&#233;s&lt;/b&gt; charge soudaine
+&lt;/div&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Bec-de-hache|FP 2}
+{s:BDTexte|''Source : Bonus Bestiary''}
+{s:BDTexte|'''PX''' 600}
+{s:BDTexte|[[type Animal|Animal]] de taille G, N}
+{s:BDTexte|'''Init''' +3 ; '''Sens''' [[vision nocturne]] ; [[Perception]] +9}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 14, contact 12, pris au dépourvu 11 (Dex +3, naturelle +2, taille -1)}
+{s:BDTexte|'''pv''' 22 (3d8+9)}
+{s:BDTexte|'''Réf''' +6, '''Vig''' +6, '''Vol''' +1}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 15 m (10 {s:c})}
+{s:BDTexte|'''Corps à corps''' morsure +6 (1d8+6)}
+{s:BDTexte|'''Espace''' 2 ; '''Allonge''' 2}
+{s:BDTexte|'''Attaques spéciales''' charge soudaine}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 18, '''Dex''' 17, '''Con''' 16, '''Int''' 2, '''Sag''' 11, '''Cha''' 10}
+{s:BDTexte|'''BBA''' +2, '''BMO''' +7, '''DMD''' 20}
+{s:BDTexte|'''Dons''' [[Course]], [[Talent]] ([[Perception]])}
+{s:BDTexte|'''Compétences''' [[Perception]] +9}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' plaines tempérés}
+{s:BDTexte|'''Organisation sociale''' solitaire, couple ou vol (3-6)}
+{s:BDTexte|'''Trésor''' valeur 550 po (objets brillants)}
+{s:BDSousTitre|Particularités}
+{s:BDTexte|''' charge soudaine (Ext)''' Lorsqu'il fait une charge, un bec-de-hache effectue une seule attaque de morsure. S'il réussit, il peut aussi faire un croc-en-jambe à son adversaire en une action libre sans provoquer d'attaque d'opportunité. S'il échoue, son adversaire ne peut pas lui faire de croc-en-jambe en retour.}
+</div></td><td><div>
+''Entraîner un bec-de-hache.'' Un bec-de-hache a besoin d'être entraîné avant de pouvoir porter un cavalier. Apprivoiser un bec-de-hache nécessite 6 semaines de travail et un jet de Dressage DD25, après quoi l'animal peut apprendre des tours. Chevaucher un bec-de-hache nécessite une selle exotique. Les œufs des becs-de-hache valent 1000 PO pièces sur le marché, alors qu'un jeune coûte 1500 PO.
+
+'''Capacités de chargement''' : '''Charge légère''' <= 100 kg ; '''Charge moyenne''' <= 200 kg ; '''Charge lourde''' <= 300 kg.
+
+====Le bec-de-hache comme compagnon animal====
+
+'''Caractéristiques de départ.''' '''Taille''' M ; '''Vitesse''' 15 m (10 {s:c}) ; '''Attaque''' morsure (1d6 + 1,5 For) ; '''Caractéristiques''' For 10, Dex 19, Con 12, Int 2, Sag 11, Cha 10 ; '''Particularités''' [[vision nocturne]].
+
+'''Développement au niveau 4.''' '''Taille''' G ; '''CA''' +2 armure naturelle ; '''Attaque''' morsure (1d8 + 1,5 For) '''Caractéristiques''' For +8 Dex -2, Con +4 ; '''Particularités''' charge soudaine
+</div>
+</td></tr></table>
+]]></raw>
+  <fullName>Pathfinder-RPG.Bec-de-hache</fullName>
+</wikiPage>

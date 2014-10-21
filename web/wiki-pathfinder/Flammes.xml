@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Flammes</title>
+  <categories><category>Pathfinder-RPG.Manuel des joueurs</category><category>Pathfinder-RPG.Règles officielles</category><category>Pathfinder-RPG.Sort</category><category>Pathfinder-RPG.Sort druide 1</category></categories>
+  <lastModified>2012-11-03 19:10:52Z</lastModified>
+  <version>1</version>
+  <inLinks><link>Pathfinder-RPG.Diable barbelé</link><link>Pathfinder-RPG.Diable des contrats</link><link>Pathfinder-RPG.Domaine du Feu</link><link>Pathfinder-RPG.Efrit</link><link>Pathfinder-RPG.FAQ Magie</link><link>Pathfinder-RPG.Glossaire des sorts</link><link>Pathfinder-RPG.Gnome</link><link>Pathfinder-RPG.Liste des sorts (suite)</link><link>Pathfinder-RPG.Liste des sorts de druides</link><link>Pathfinder-RPG.Liste des sorts par registre</link><link>Pathfinder-RPG.Nymphe</link><link>Pathfinder-RPG.perle de feu de camp</link><link>Pathfinder-RPG.Pukwudgie</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Évocation</link><link>Pathfinder-RPG.Registre</link><link>Pathfinder-RPG.Druide</link><link>Pathfinder-RPG.Action simple</link><link>Pathfinder-RPG.composantes</link><link>Pathfinder-RPG.niveau</link><link>Pathfinder-RPG.attaque de contact au corps à corps</link><link>Pathfinder-RPG.niveau de lanceur de sorts</link><link>Pathfinder-RPG.attaque de contact à distance</link></outLinks>
+  <body><![CDATA[&lt;b&gt;&#201;cole&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#EVOCATION&quot; title=&quot;&#201;vocation&quot;&gt;&#201;vocation&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;er-Un-Sort.html#REGISTRE&quot; title=&quot;Registre&quot;&gt;feu&lt;/a&gt;) ; &lt;b&gt;Niveau&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Druide.html&quot; title=&quot;Le druide&quot;&gt;Dru&lt;/a&gt; 1&lt;br/&gt;
+&lt;b&gt;Temps d&#39;incantation&lt;/b&gt; 1 &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions.html#SIMPLE&quot; title=&quot;Action simple&quot;&gt;action simple&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Composantes&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#COMPOSANTES&quot; title=&quot;composantes&quot;&gt;V, G&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Port&#233;e&lt;/b&gt; 0 m&lt;br/&gt;
+&lt;b&gt;Effet&lt;/b&gt; flammes dans la paume du personnage&lt;br/&gt;
+&lt;b&gt;Dur&#233;e&lt;/b&gt; 1 minute/&lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#NIVEAU&quot; title=&quot;niveau&quot;&gt;niveau&lt;/a&gt; (T)&lt;br/&gt;
+&lt;b&gt;Jet de sauvegarde&lt;/b&gt; aucun ; &lt;b&gt;R&#233;sistance &#224; la magie&lt;/b&gt; oui&lt;br /&gt;&lt;br /&gt;Des flammes aussi brillantes qu’une torche apparaissent dans la main du lanceur de sorts, sans toutefois le br&#251;ler, ni lui ni son &#233;quipement.&lt;br/&gt;
+Une de leurs fonctions est d’&#233;mettre de la lumi&#232;re, mais le lanceur de sorts peut &#233;galement les lancer ou les amener au contact d’ennemis pour br&#251;ler ceux-ci. Une &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#ATTAQUESDECONTACT&quot; title=&quot;attaque de contact au corps &#224; corps&quot;&gt;attaque de contact au corps &#224; corps&lt;/a&gt; r&#233;ussie inflige 1d6 points de d&#233;g&#226;ts de feu, +1 par &lt;a class=&quot;pagelink&quot; href=&quot;Lancer-Des-Sorts.html#NLS&quot; title=&quot;Niveau de lanceur de sorts&quot;&gt;niveau de lanceur de sorts&lt;/a&gt; (jusqu’&#224; un maximum de +5). Le personnage peut &#233;galement projeter les &lt;i&gt;flammes&lt;/i&gt; jusqu’&#224; une distance de trente-six m&#232;tres (24 cases). Pour ce faire, il doit effectuer une &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#ATTAQUESDECONTACT&quot; title=&quot;attaque de contact &#224; distance&quot;&gt;attaque de contact &#224; distance&lt;/a&gt; (sans aucun malus de distance) pour infliger des d&#233;g&#226;ts &#233;gaux &#224; ceux de l’attaque au corps &#224; corps. De nouvelles &lt;i&gt;flammes&lt;/i&gt; apparaissent dans la main du personnage d&#232;s que les premi&#232;res ont &#233;t&#233; lanc&#233;es. Chaque attaque consomme 1 minute de la dur&#233;e du sort. Si une attaque r&#233;duit le temps restant &#224; 0 minute (ou moins), le sort prend fin d&#232;s que le r&#233;sultat de l’attaque a &#233;t&#233; appliqu&#233;.&lt;br/&gt;
+Ce sort ne fonctionne pas sous l’eau.
+]]></body>
+  <raw><![CDATA['''École''' [[Évocation]] ([[registre|feu]]) ; '''Niveau''' [[druide|Dru]] 1<br/>
+'''Temps d'incantation''' 1 [[action simple]]<br/>
+'''Composantes''' [[composantes|V, G]]<br/>
+'''Portée''' 0 m<br/>
+'''Effet''' flammes dans la paume du personnage<br/>
+'''Durée''' 1 minute/[[niveau]] (T)<br/>
+'''Jet de sauvegarde''' aucun ; '''Résistance à la magie''' oui
+
+Des flammes aussi brillantes qu’une torche apparaissent dans la main du lanceur de sorts, sans toutefois le brûler, ni lui ni son équipement.<br/>
+Une de leurs fonctions est d’émettre de la lumière, mais le lanceur de sorts peut également les lancer ou les amener au contact d’ennemis pour brûler ceux-ci. Une [[attaque de contact au corps à corps]] réussie inflige 1d6 points de dégâts de feu, +1 par [[niveau de lanceur de sorts]] (jusqu’à un maximum de +5). Le personnage peut également projeter les ''flammes'' jusqu’à une distance de trente-six mètres (24 cases). Pour ce faire, il doit effectuer une [[attaque de contact à distance]] (sans aucun malus de distance) pour infliger des dégâts égaux à ceux de l’attaque au corps à corps. De nouvelles ''flammes'' apparaissent dans la main du personnage dès que les premières ont été lancées. Chaque attaque consomme 1 minute de la durée du sort. Si une attaque réduit le temps restant à 0 minute (ou moins), le sort prend fin dès que le résultat de l’attaque a été appliqué.<br/>
+Ce sort ne fonctionne pas sous l’eau.
+]]></raw>
+  <fullName>Pathfinder-RPG.Flammes</fullName>
+</wikiPage>

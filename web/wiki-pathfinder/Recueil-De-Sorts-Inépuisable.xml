@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Recueil de sorts inépuisable</title>
+  <categories><category>Pathfinder-RPG.Artefact magique</category></categories>
+  <lastModified>2010-11-20 18:33:46Z</lastModified>
+  <version>3</version>
+  <inLinks><link>Pathfinder-RPG.Artefacts</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Artefacts</link><link>Pathfinder-RPG.niveau négatif</link><link>Pathfinder-RPG.Parchemins magiques</link><link>Pathfinder-RPG.grimoire</link><link>Pathfinder-RPG.Effacement</link></outLinks>
+  <body><![CDATA[&lt;div style=&quot;float:right&quot;&gt;&lt;b&gt;&lt;i&gt;Retour aux &lt;a class=&quot;pagelink&quot; href=&quot;Artefacts.html&quot; title=&quot;Les artefacts&quot;&gt;Artefacts&lt;/a&gt;.&lt;/i&gt;&lt;/b&gt;&lt;/div&gt;&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Recueil de sorts in&#233;puisable&lt;div style=&quot;float:right;&quot;&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;b&gt;Aura&lt;/b&gt; Toutes les &#233;coles, puissantes ; &lt;b&gt;NLS&lt;/b&gt; 18 ; &lt;b&gt;Emplacement&lt;/b&gt; aucun ; &lt;b&gt;Poids&lt;/b&gt; 1,5 kg
+&lt;div class=&quot;box&quot;&gt;Description&lt;/div&gt;
+Ce livre offre &#224; son possesseur la facult&#233; d’utiliser les sorts inscrits sur ses pages, et ce quelle que soit la classe du personnage. Toutefois, un aventurier incapable de jeter des sorts par lui-m&#234;me acquiert aussit&#244;t un &lt;a class=&quot;pagelink&quot; href=&quot;Absorption-D&#233;nergie-(Capacit&#233;).html&quot; title=&quot;niveau n&#233;gatif&quot;&gt;niveau n&#233;gatif&lt;/a&gt; qui persiste tant que l’artefact est conserv&#233;. Le recueil de sorts in&#233;puisable se compose de 1d8+22 pages. Ce que contient chaque page est d&#233;termin&#233; par un jet de 1d100 : un r&#233;sultat de 01–50 indique un sort profane, tandis que 51–100 indique un sort divin.&lt;br /&gt;&lt;br /&gt;Une fois qu’une page est tourn&#233;e, son contenu est perdu &#224; tout jamais ; l’exploration du recueil est un chemin &#224; sens unique. Ferm&#233;, le livre se rouvre automatiquement &#224; la page o&#249; il se trouvait quand il a &#233;t&#233; referm&#233;. D&#232;s que la derni&#232;re page est tourn&#233;e, l’artefact dispara&#238;t.&lt;br /&gt;&lt;br /&gt;Le personnage peut lancer le sort de la page &#224; laquelle le livre est ouvert, une fois par jour (sauf s’il s’agit d’un sort auquel le personnage peut pr&#233;tendre gr&#226;ce &#224; sa classe ; dans ce cas, il peut le jeter quatre fois par jour, m&#234;me s’il n’a pas encore atteint le niveau n&#233;cessaire pour le lancer de mani&#232;re effective). Les pages ne peuvent pas &#234;tre d&#233;chir&#233;es sans que le livre ne soit d&#233;truit dans l’op&#233;ration. De la m&#234;me mani&#232;re, il est impossible de lire les pages &#224; la fa&#231;on de &lt;a class=&quot;pagelink&quot; href=&quot;Parchemins-Magiques.html&quot; title=&quot;Les parchemins magiques&quot;&gt;parchemins&lt;/a&gt;, ni de recopier dans un &lt;a class=&quot;pagelink&quot; href=&quot;Magicien.html#GRIMOIRE&quot; title=&quot;grimoire&quot;&gt;grimoire&lt;/a&gt; les sorts propos&#233;s. Leur magie est li&#233;e au recueil et ne peut pas exister sans lui.&lt;br /&gt;&lt;br /&gt;Le possesseur de l’ouvrage n’a pas besoin de l’avoir sur lui pour pouvoir faire appel &#224; sa magie. Le recueil peut &#234;tre rang&#233; &#224; l’abri, et est utilisable tant qu’il est ouvert &#224; la page qui int&#233;resse le personnage. Dans ce cas, ce dernier peut toujours faire appel au sort qui lui est offert.&lt;br /&gt;&lt;br /&gt;L’&#233;nergie dans laquelle le livre puise son pouvoir est telle que, &#224; chaque fois qu’un sort est lanc&#233;, il est possible que la page se tourne d’elle-m&#234;me, quelles que soient ce qui a pu &#234;tre mis en place pour l’emp&#234;cher. Le propri&#233;taire du recueil le sent aussit&#244;t. Il perd imm&#233;diatement le sort auquel il avait acc&#232;s jusque-l&#224; et gagne &#233;ventuellement la capacit&#233; d’en jeter un nouveau. Les chances qu’une page se tourne toute seule d&#233;pendent de la nature du sort et des capacit&#233;s de l’utilisateur.&lt;br /&gt;&lt;br /&gt;Consid&#233;rez que chaque sort est lanc&#233; comme si le personnage utilisait un &lt;a class=&quot;pagelink&quot; href=&quot;Parchemins-Magiques.html&quot; title=&quot;Les parchemins magiques&quot;&gt;parchemin&lt;/a&gt; pour ce qui est de d&#233;terminer le temps d’activation, le risque d’&#233;chec des sorts, etc.&lt;br /&gt;&lt;br /&gt;&lt;center&gt;
+&lt;table CLASS=&quot;tablo&quot;&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td&gt;Circonstance&lt;/td&gt;&lt;td&gt;Chance que la page se tourne&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier&quot;&gt;&lt;td&gt;Pratiquant de la magie employant un sort utilisable par sa classe et &#224; son niveau&lt;/td&gt;&lt;td&gt;10 %&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;Pratiquant de la magie employant un sort ne correspondant pas &#224; sa classe et &#224; son niveau&lt;/td&gt;&lt;td&gt;20 %&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Non-pratiquant de la magie employant un sort divin&lt;/td&gt;&lt;td&gt;25 %&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;Non-pratiquant de la magie employant un sort profane&lt;/td&gt;&lt;td&gt;30 %&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/center&gt;&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;box&quot;&gt;Destruction&lt;/div&gt;
+Le &lt;i&gt;recueil de sorts in&#233;puisable&lt;/i&gt; peut &#234;tre d&#233;truit s’il contient le sort &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Effacement.html&quot; title=&quot;Effacement&quot;&gt;effacement&lt;/a&gt;&lt;/i&gt;, et si celui-ci est lanc&#233; sur le recueil lui-m&#234;me.
+&lt;/div&gt;
+]]></body>
+  <raw><![CDATA[<div style="float:right">'''''Retour aux [[Artefacts]].'''''</div><div class="BD">
+{s:BDTitre|Recueil de sorts inépuisable|}
+'''Aura''' Toutes les écoles, puissantes ; '''NLS''' 18 ; '''Emplacement''' aucun ; '''Poids''' 1,5 kg
+(((Description)))
+Ce livre offre à son possesseur la faculté d’utiliser les sorts inscrits sur ses pages, et ce quelle que soit la classe du personnage. Toutefois, un aventurier incapable de jeter des sorts par lui-même acquiert aussitôt un [[niveau négatif]] qui persiste tant que l’artefact est conservé. Le recueil de sorts inépuisable se compose de 1d8+22 pages. Ce que contient chaque page est déterminé par un jet de 1d100 : un résultat de 01–50 indique un sort profane, tandis que 51–100 indique un sort divin.
+
+Une fois qu’une page est tournée, son contenu est perdu à tout jamais ; l’exploration du recueil est un chemin à sens unique. Fermé, le livre se rouvre automatiquement à la page où il se trouvait quand il a été refermé. Dès que la dernière page est tournée, l’artefact disparaît.
+
+Le personnage peut lancer le sort de la page à laquelle le livre est ouvert, une fois par jour (sauf s’il s’agit d’un sort auquel le personnage peut prétendre grâce à sa classe ; dans ce cas, il peut le jeter quatre fois par jour, même s’il n’a pas encore atteint le niveau nécessaire pour le lancer de manière effective). Les pages ne peuvent pas être déchirées sans que le livre ne soit détruit dans l’opération. De la même manière, il est impossible de lire les pages à la façon de [[parchemins magiques|parchemins]], ni de recopier dans un [[grimoire]] les sorts proposés. Leur magie est liée au recueil et ne peut pas exister sans lui.
+
+Le possesseur de l’ouvrage n’a pas besoin de l’avoir sur lui pour pouvoir faire appel à sa magie. Le recueil peut être rangé à l’abri, et est utilisable tant qu’il est ouvert à la page qui intéresse le personnage. Dans ce cas, ce dernier peut toujours faire appel au sort qui lui est offert.
+
+L’énergie dans laquelle le livre puise son pouvoir est telle que, à chaque fois qu’un sort est lancé, il est possible que la page se tourne d’elle-même, quelles que soient ce qui a pu être mis en place pour l’empêcher. Le propriétaire du recueil le sent aussitôt. Il perd immédiatement le sort auquel il avait accès jusque-là et gagne éventuellement la capacité d’en jeter un nouveau. Les chances qu’une page se tourne toute seule dépendent de la nature du sort et des capacités de l’utilisateur.
+
+Considérez que chaque sort est lancé comme si le personnage utilisait un [[parchemins magiques|parchemin]] pour ce qui est de déterminer le temps d’activation, le risque d’échec des sorts, etc.
+
+<center>
+{| CLASS="tablo"
+|- CLASS="titre"
+| Circonstance || Chance que la page se tourne
+|- CLASS="premier"
+| Pratiquant de la magie employant un sort utilisable par sa classe et à son niveau || 10 %
+|- CLASS="alt"
+| Pratiquant de la magie employant un sort ne correspondant pas à sa classe et à son niveau || 20 %
+|-
+| Non-pratiquant de la magie employant un sort divin || 25 %
+|- CLASS="alt"
+| Non-pratiquant de la magie employant un sort profane || 30 %
+|}
+</center>
+
+(((Destruction)))
+Le ''recueil de sorts inépuisable'' peut être détruit s’il contient le sort ''[[effacement]]'', et si celui-ci est lancé sur le recueil lui-même.
+</div>]]></raw>
+  <fullName>Pathfinder-RPG.Recueil de sorts inépuisable</fullName>
+</wikiPage>

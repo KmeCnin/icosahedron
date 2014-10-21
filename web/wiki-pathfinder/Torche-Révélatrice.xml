@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Torche révélatrice</title>
+  <categories><category>Pathfinder-RPG.Art de la guerre</category><category>Pathfinder-RPG.Règles officielles</category><category>Pathfinder-RPG.Sort</category><category>Pathfinder-RPG.Sort barde 2</category><category>Pathfinder-RPG.Sort inquisiteur 2</category><category>Pathfinder-RPG.Sort prêtre 3</category></categories>
+  <lastModified>2013-03-31 11:43:29Z</lastModified>
+  <version>0</version>
+  <inLinks><link>Pathfinder-RPG.Glossaire des sorts</link><link>Pathfinder-RPG.Liste des sorts (fin)</link><link>Pathfinder-RPG.Liste des sorts de bardes</link><link>Pathfinder-RPG.Liste des sorts de prêtres</link><link>Pathfinder-RPG.Liste des sorts dinquisiteur</link><link>Pathfinder-RPG.Liste des sorts par registre</link><link>Pathfinder-RPG.Listes de sorts par classe</link><link>Pathfinder-RPG.Sorts temporaires-AdG</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Évocation</link><link>Pathfinder-RPG.Registre</link><link>Pathfinder-RPG.Barde</link><link>Pathfinder-RPG.Inquisiteur</link><link>Pathfinder-RPG.Prêtre</link><link>Pathfinder-RPG.round</link><link>Pathfinder-RPG.composantes</link><link>Pathfinder-RPG.niveau</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Psychologie</link><link>Pathfinder-RPG.Connaissances</link></outLinks>
+  <body><![CDATA[
+&lt;b&gt;&#201;cole&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#EVOCATION&quot; title=&quot;&#201;vocation&quot;&gt;&#201;vocation&lt;/a&gt; [&lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;er-Un-Sort.html#REGISTRE&quot; title=&quot;Registre&quot;&gt;lumi&#232;re&lt;/a&gt;] ; &lt;b&gt;Niveau&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Barde.html&quot; title=&quot;Le barde&quot;&gt;barde&lt;/a&gt; 2, &lt;a class=&quot;pagelink&quot; href=&quot;Inquisiteur.html&quot; title=&quot;L&amp;#39;inquisiteur&quot;&gt;inquisiteur&lt;/a&gt; 2, &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#234;tre.html&quot; title=&quot;Le pr&#234;tre&quot;&gt;pr&#234;tre&lt;/a&gt; 3&lt;BR&gt;
+&lt;b&gt;Temps d’incantation&lt;/b&gt; 1 &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#ROUND&quot; title=&quot;round&quot;&gt;round&lt;/a&gt;&lt;br /&gt;
+&lt;b&gt;Composantes&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#COMPOSANTES&quot; title=&quot;composantes&quot;&gt;V, G&lt;/a&gt;&lt;br /&gt;
+&lt;b&gt;Port&#233;e&lt;/b&gt; contact&lt;br /&gt;
+&lt;b&gt;Cible&lt;/b&gt; objet touch&#233;&lt;br /&gt;
+&lt;b&gt;Dur&#233;e&lt;/b&gt; 10 minutes/&lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#NIVEAU&quot; title=&quot;niveau&quot;&gt;niveau&lt;/a&gt;&lt;br /&gt;
+&lt;b&gt;Jet de sauvegarde&lt;/b&gt; non ; &lt;b&gt;R&#233;sistance &#224; la magie&lt;/b&gt; non&lt;br /&gt;&lt;br /&gt;L’objet touch&#233; &#233;met une vive lumi&#232;re dans un rayon de 6 m&#232;tres (4 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;). Cet effet se pr&#233;sente sous forme de flamme stable qui n’&#233;met pas de chaleur et ne consomme pas d’oxyg&#232;ne. Les alli&#233;s qui se trouvent dans la zone &#233;clair&#233;e gagnent un bonus d’alt&#233;ration de +2 aux tests de &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; et de &lt;a class=&quot;pagelink&quot; href=&quot;Psychologie.html&quot; title=&quot;Psychologie&quot;&gt;Psychologie&lt;/a&gt;, ainsi qu’aux tests de &lt;a class=&quot;pagelink&quot; href=&quot;Connaissances.html&quot; title=&quot;Connaissances&quot;&gt;Connaissances&lt;/a&gt; pour identifier les monstres qui se trouvent dans la zone et pour conna&#238;tre leurs pouvoirs sp&#233;ciaux et leurs faiblesses.&lt;br /&gt;&lt;br /&gt;Quand un &lt;a class=&quot;pagelink&quot; href=&quot;Inquisiteur.html&quot; title=&quot;L&amp;#39;inquisiteur&quot;&gt;inquisiteur&lt;/a&gt; lance ce sort, le rayon d’effet de la lumi&#232;re double (il passe &#224; 12 m (8 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)) tant que le personnage a un &lt;a class=&quot;pagelink&quot; href=&quot;Inquisiteur.html#JUGEMENT&quot; title=&quot;L&amp;#39;inquisiteur&quot;&gt;jugement&lt;/a&gt; actif.&lt;br /&gt;&lt;br /&gt;Les sorts de &lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;er-Un-Sort.html#REGISTRE&quot; title=&quot;Registre&quot;&gt;lumi&#232;re&lt;/a&gt; contrent et dissipent les sorts d’&lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;er-Un-Sort.html#REGISTRE&quot; title=&quot;Registre&quot;&gt;obscurit&#233;&lt;/a&gt; de niveau &#233;gal ou inf&#233;rieur.
+]]></body>
+  <raw><![CDATA[{s:UC}
+'''École''' [[Évocation]] <nowiki>[</nowiki>[[registre|lumière]]<nowiki>]</nowiki> ; '''Niveau''' [[barde]] 2, [[inquisiteur]] 2, [[prêtre]] 3<BR>
+'''Temps d’incantation''' 1 [[round]]<br>
+'''Composantes''' [[Composantes|V, G]]<br>
+'''Portée''' contact<br>
+'''Cible''' objet touché<br>
+'''Durée''' 10 minutes/[[niveau]]<br>
+'''Jet de sauvegarde''' non ; '''Résistance à la magie''' non
+
+L’objet touché émet une vive lumière dans un rayon de 6 mètres (4 {s:c}). Cet effet se présente sous forme de flamme stable qui n’émet pas de chaleur et ne consomme pas d’oxygène. Les alliés qui se trouvent dans la zone éclairée gagnent un bonus d’altération de +2 aux tests de [[Perception]] et de [[Psychologie]], ainsi qu’aux tests de [[Connaissances]] pour identifier les monstres qui se trouvent dans la zone et pour connaître leurs pouvoirs spéciaux et leurs faiblesses.
+
+Quand un [[inquisiteur]] lance ce sort, le rayon d’effet de la lumière double (il passe à 12 m (8 {s:c})) tant que le personnage a un [[inquisiteur#JUGEMENT|jugement]] actif.
+
+Les sorts de [[registre|lumière]] contrent et dissipent les sorts d’[[registre|obscurité]] de niveau égal ou inférieur.]]></raw>
+  <fullName>Pathfinder-RPG.Torche révélatrice</fullName>
+</wikiPage>

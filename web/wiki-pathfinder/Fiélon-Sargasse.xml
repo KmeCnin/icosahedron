@@ -1,0 +1,179 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Fiélon sargasse</title>
+  <categories><category>Pathfinder-RPG.Bestiaire 3</category><category>Pathfinder-RPG.Monstre</category><category>Pathfinder-RPG.Règles officielles</category></categories>
+  <lastModified>2013-09-17 13:33:34Z</lastModified>
+  <version>7</version>
+  <inLinks><link>Pathfinder-RPG.Glossaire des monstres</link><link>Pathfinder-RPG.Liste de monstres par FP</link><link>Pathfinder-RPG.Liste de monstres par milieu naturel</link><link>Pathfinder-RPG.Liste de monstres par type</link><link>Pathfinder-RPG.Monstres</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.type Plante</link><link>Pathfinder-RPG.sous-type aquatique</link><link>Pathfinder-RPG.perception aveugle</link><link>Pathfinder-RPG.Perception des vibrations</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Traits des plantes</link><link>Pathfinder-RPG.Étreinte</link><link>Pathfinder-RPG.constriction</link><link>Pathfinder-RPG.lutte</link><link>Pathfinder-RPG.croc-en-jambe</link><link>Pathfinder-RPG.Arme de prédilection</link><link>Pathfinder-RPG.Discret</link><link>Pathfinder-RPG.Esquive</link><link>Pathfinder-RPG.Réflexes surhumains</link><link>Pathfinder-RPG.Science de linitiative</link><link>Pathfinder-RPG.Talent</link><link>Pathfinder-RPG.Vigueur surhumaine</link><link>Pathfinder-RPG.Discrétion</link><link>Pathfinder-RPG.Escalade</link><link>Pathfinder-RPG.Évasion</link><link>Pathfinder-RPG.Natation</link><link>Pathfinder-RPG.taille</link><link>Pathfinder-RPG.Volonté</link><link>Pathfinder-RPG.DD</link><link>Pathfinder-RPG.mirage</link><link>Pathfinder-RPG.NLS</link><link>Pathfinder-RPG.FP</link><link>Pathfinder-RPG.Charisme</link><link>Pathfinder-RPG.Action simple</link><link>Pathfinder-RPG.Survie</link><link>Pathfinder-RPG.DV</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Fi&#233;lon sargasse&lt;div style=&quot;float:right;&quot;&gt;FP 9&lt;/div&gt;&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Bestiaire 3 p.121&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 6 400
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Plante.html&quot; title=&quot;Plante&quot;&gt;Plante&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Aquatique.html&quot; title=&quot;Aquatique (sous-type)&quot;&gt;aquatique&lt;/a&gt;) de taille G, N
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +6 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Perception-Aveugle-(Capacit&#233;).html&quot; title=&quot;perception aveugle&quot;&gt;perception aveugle&lt;/a&gt; &#224; 18 m (12 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), &lt;a class=&quot;pagelink&quot; href=&quot;Perception-Des-Vibrations-(Capacit&#233;).html&quot; title=&quot;Perception des vibrations&quot;&gt;perception des vibrations&lt;/a&gt; &#224; 36 m (24 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +9
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Aura&lt;/b&gt; mirage (90 m soit 60 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), DD 18)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 24, contact 12, pris au d&#233;pourvu  21 (Dex +2, esquive +1, naturelle +12, taille -1)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 123 (13d8+65)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +8, &lt;b&gt;Vig&lt;/b&gt; +15, &lt;b&gt;Vol&lt;/b&gt; +4
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;RD&lt;/b&gt; 5/tranchant ; &lt;b&gt;Immunit&#233;&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Traits-Des-Plantes-(Capacit&#233;).html&quot; title=&quot;Traits des plantes&quot;&gt;traits des plantes&lt;/a&gt; ; &lt;b&gt;R&#233;sistance&lt;/b&gt; froid 10
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 6 m (4 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), escalade 6 m (4 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), nage 12 m (8 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; 2 coups, +16 (2d8+7 plus &lt;a class=&quot;pagelink&quot; href=&quot;&#201;treinte-(Capacit&#233;).html&quot; title=&quot;&#201;treinte&quot;&gt;&#233;treinte&lt;/a&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Espace occup&#233;&lt;/b&gt; 3 m (2 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) ; &lt;b&gt;Allonge&lt;/b&gt; 3 m (2 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaque sp&#233;ciale&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Constriction-(Capacit&#233;).html&quot; title=&quot;constriction&quot;&gt;constriction&lt;/a&gt; (2d8+10), &lt;a class=&quot;pagelink&quot; href=&quot;&#201;treinte-(Capacit&#233;).html&quot; title=&quot;&#201;treinte&quot;&gt;&#233;treinte&lt;/a&gt; (TG)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 25, &lt;b&gt;Dex&lt;/b&gt; 14, &lt;b&gt;Con&lt;/b&gt; 20, &lt;b&gt;Int&lt;/b&gt; 2, &lt;b&gt;Sag&lt;/b&gt; 11, &lt;b&gt;Cha&lt;/b&gt; 15
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +9, &lt;b&gt;BMO&lt;/b&gt; +17 (+25 &lt;a class=&quot;pagelink&quot; href=&quot;Manœuvres-Offensives.html#LUTTE&quot; title=&quot;lutte&quot;&gt;lutte&lt;/a&gt;), &lt;b&gt;DMD&lt;/b&gt; 30 (&lt;a class=&quot;pagelink&quot; href=&quot;Croc-En-Jambe.html&quot; title=&quot;croc-en-jambe&quot;&gt;croc-en-jambe&lt;/a&gt; impossible)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Arme-De-Pr&#233;dilection.html&quot; title=&quot;Arme de pr&#233;dilection&quot;&gt;Arme de pr&#233;dilection&lt;/a&gt; (coup), &lt;a class=&quot;pagelink&quot; href=&quot;Discret.html&quot; title=&quot;Discret&quot;&gt;Discret&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Esquive.html&quot; title=&quot;Esquive&quot;&gt;Esquive&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;R&#233;flexes-Surhumains.html&quot; title=&quot;R&#233;flexes surhumains&quot;&gt;R&#233;flexes surhumains&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Science-De-Linitiative.html&quot; title=&quot;Science de l&amp;#39;initiative&quot;&gt;Science de l’initiative&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Talent.html&quot; title=&quot;Talent&quot;&gt;Talent&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt;), &lt;a class=&quot;pagelink&quot; href=&quot;Vigueur-Surhumaine.html&quot; title=&quot;Vigueur surhumaine&quot;&gt;Vigueur surhumaine&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; +7, &lt;a class=&quot;pagelink&quot; href=&quot;Escalade.html&quot; title=&quot;Escalade&quot;&gt;Escalade&lt;/a&gt; +19, &lt;a class=&quot;pagelink&quot; href=&quot;&#201;vasion.html&quot; title=&quot;&#201;vasion&quot;&gt;&#201;vasion&lt;/a&gt; +4, &lt;a class=&quot;pagelink&quot; href=&quot;Natation.html&quot; title=&quot;Natation&quot;&gt;Natation&lt;/a&gt; +15, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +11&lt;br /&gt;&lt;br /&gt;&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; oc&#233;ans
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation sociale&lt;/b&gt; solitaire, couple ou lit (3-8)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; fortuit (1d6 bulbes de fi&#233;lons sargasses, autre tr&#233;sor)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Pouvoirs sp&#233;ciaux&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;&#201;treinte (Ext).&lt;/b&gt; Le fi&#233;lon sargasse peut saisir une cr&#233;ature de &lt;a class=&quot;pagelink&quot; href=&quot;Petites-Et-Grandes-Cr&#233;atures.html#TABLEAUTAILLES&quot; title=&quot;taille&quot;&gt;taille&lt;/a&gt; TG ou plus petite et b&#233;n&#233;ficie d’un bonus racial de +8 &#224; ses tests de &lt;a class=&quot;pagelink&quot; href=&quot;Manœuvres-Offensives.html#LUTTE&quot; title=&quot;lutte&quot;&gt;lutte&lt;/a&gt; qu lieu du bonus normal de +4 qu’ont la plupart des cr&#233;atures disposant de cette capacit&#233;.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Mirage (Sur).&lt;/b&gt; Le fi&#233;lon sargasse d&#233;gage une forte odeur qui cr&#233;e des hallucinations sp&#233;cifiques, faisant penser &#224; des mirages. Toutes les cr&#233;atures situ&#233;es &#224; moins de 90 m&#232;tres (60 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) du fi&#233;lon sargasse doivent r&#233;ussir un jet de &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;Volont&#233;&quot;&gt;Volont&#233;&lt;/a&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DEGREDEDIFFICULTE&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; 18 o&#249; &#234;tre captiv&#233;e par l’odeur. Pour une cr&#233;ature captiv&#233;e, le monstre devient la chose dont il s’approchera le plus volontiers : un &#234;tre aim&#233; perdu, un enfant en d&#233;tresse, une sir&#232;ne enchanteresse, une promesse de terre ferme, etc. La magnitude de cette illusion fonctionne comme &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Mirage.html&quot; title=&quot;Mirage&quot;&gt;mirage&lt;/a&gt;&lt;/i&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Lancer-Des-Sorts.html#NLS&quot; title=&quot;NLS&quot;&gt;NLS&lt;/a&gt; &#233;gal au &lt;a class=&quot;pagelink&quot; href=&quot;Rencontres.html#FP&quot; title=&quot;FP&quot;&gt;FP&lt;/a&gt; de la sargasse), mais il s’agit d’un effet mental de fantasme, non d’une hallucination. Cet effet se dissipe d&#232;s que la plante attaque une cible. Le &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DEGREDEDIFFICULTE&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; du jet de sauvegarde est bas&#233; sur le &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#CHARISME&quot; title=&quot;Le Charisme&quot;&gt;Charisme&lt;/a&gt;.
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;td&gt;&lt;div&gt;
+&lt;i&gt;Cette masse d’algues vertes, constamment changeante, peut prendre la forme d’un humano&#239;de puis retrouver son apparence d’algue, &#233;voluant sans cesse.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Le fi&#233;lon sargasse est une masse d’algues intelligente &#224;
+la d&#233;rive, capable d’attirer ses victimes vers leur mort gr&#226;ce
+&#224; une puissante ph&#233;romone hallucinog&#232;ne. Lorsque le
+fi&#233;lon sargasse attire une cr&#233;ature en transe &#224; port&#233;e, il la
+saisit en transe et tente de la tuer en la broyant. Les marins
+exp&#233;riment&#233;s racontent que des &#233;quipages entiers ont saut&#233;
+par-dessus bord pour rejoindre des champs de ces plantes
+marines meurtri&#232;res.
+L’&#233;trange ph&#233;romone que produit le fi&#233;lon sargasse peut
+&#234;tre r&#233;cup&#233;r&#233;e &#224; partir des nombreux bulbes qui poussent
+dans le corps du fi&#233;lon, mais ces bulbes se d&#233;composent
+tr&#232;s vite une fois r&#233;colt&#233;s. Un bulbe frais se conserve 1 heure
+avant de devenir inutile : pendant ce temps, on peut l’&#233;craser
+par une &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions.html#SIMPLE&quot; title=&quot;Action simple&quot;&gt;action simple&lt;/a&gt; pour produire un effet de mirage,
+comme pr&#233;cis&#233; ci-dessus. &#192; sa mort, un fi&#233;lon sargasse
+donne g&#233;n&#233;ralement 1d6 bulbes de musc : il faut r&#233;ussir un
+test de &lt;a class=&quot;pagelink&quot; href=&quot;Survie.html&quot; title=&quot;Survie&quot;&gt;Survie&lt;/a&gt; de &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DEGREDEDIFFICULTE&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; 29 pour un r&#233;colter un. Aujourd’hui, il
+n’existe aucun processus alchimique ou magique qui permet
+de conserver efficacement ce musc.
+Les fi&#233;lons sargasses peuvent atteindre jusqu’&#224; 3 m&#232;tres
+de diam&#232;tre avant de se diviser, ce qui correspond &#224; leur
+m&#233;thode de reproduction asexu&#233;e. N&#233;anmoins, on sait qu’il
+existe des cas de mutation et les &#233;rudits sp&#233;cialis&#233;s sur la mer
+et ses cr&#233;atures ont not&#233; que des fi&#233;lons sargasses ont atteint
+des tailles &#233;normes, voire Colossales. On peut cr&#233;er ces
+&#233;normes fi&#233;lons sargasses peu en faisant &#233;voluer les d&#233;s de
+vie du fi&#233;lon avec un minimum de 5 &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DESDEVIE&quot; title=&quot;DV&quot;&gt;DV&lt;/a&gt; par cat&#233;gorie de &lt;a class=&quot;pagelink&quot; href=&quot;Petites-Et-Grandes-Cr&#233;atures.html#TABLEAUTAILLES&quot; title=&quot;taille&quot;&gt;taille&lt;/a&gt;
+suppl&#233;mentaire.
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Fiélon sargasse|FP 9}
+{s:pucem|Plante|Aquatique|Tempéré}
+{s:BDTexte|''Source : Bestiaire 3 p.121''}
+{s:BDTexte|'''PX''' 6 400}
+{s:BDTexte|[[type Plante|Plante]] ([[sous-type aquatique|aquatique]]) de taille G, N}
+{s:BDTexte|'''Init''' +6 ; '''Sens''' [[perception aveugle]] à 18 m (12 {s:c}), [[perception des vibrations]] à 36 m (24 {s:c}) ; [[Perception]] +9}
+{s:BDTexte|'''Aura''' mirage (90 m soit 60 {s:c}), DD 18)}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 24, contact 12, pris au dépourvu  21 (Dex +2, esquive +1, naturelle +12, taille -1)}
+{s:BDTexte|'''pv''' 123 (13d8+65)}
+{s:BDTexte|'''Réf''' +8, '''Vig''' +15, '''Vol''' +4}
+{s:BDTexte|'''RD''' 5/tranchant ; '''Immunité''' [[traits des plantes]] ; '''Résistance''' froid 10}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 6 m (4 {s:c}), escalade 6 m (4 {s:c}), nage 12 m (8 {s:c})}
+{s:BDTexte|'''Corps à corps''' 2 coups, +16 (2d8+7 plus [[étreinte]])}
+{s:BDTexte|'''Espace occupé''' 3 m (2 {s:c}) ; '''Allonge''' 3 m (2 {s:c})}
+{s:BDTexte|'''Attaque spéciale''' [[constriction]] (2d8+10), [[étreinte]] (TG)}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 25, '''Dex''' 14, '''Con''' 20, '''Int''' 2, '''Sag''' 11, '''Cha''' 15}
+{s:BDTexte|'''BBA''' +9, '''BMO''' +17 (+25 [[lutte]]), '''DMD''' 30 ([[croc-en-jambe]] impossible)}
+{s:BDTexte|'''Dons''' [[Arme de prédilection]] (coup), [[Discret]], [[Esquive]], [[Réflexes surhumains]], [[Science de linitiative|Science de l’initiative]], [[Talent]] ([[Perception]]), [[Vigueur surhumaine]]}
+{s:BDTexte|'''Compétences''' [[Discrétion]] +7, [[Escalade]] +19, [[Évasion]] +4, [[Natation]] +15, [[Perception]] +11
+}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' océans}
+{s:BDTexte|'''Organisation sociale''' solitaire, couple ou lit (3-8)}
+{s:BDTexte|'''Trésor''' fortuit (1d6 bulbes de fiélons sargasses, autre trésor)}
+{s:BDSousTitre|Pouvoirs spéciaux}
+{s:BDTexte|'''Étreinte (Ext).''' Le fiélon sargasse peut saisir une créature de [[taille]] TG ou plus petite et bénéficie d’un bonus racial de +8 à ses tests de [[lutte]] qu lieu du bonus normal de +4 qu’ont la plupart des créatures disposant de cette capacité.}
+{s:BDTexte|'''Mirage (Sur).''' Le fiélon sargasse dégage une forte odeur qui crée des hallucinations spécifiques, faisant penser à des mirages. Toutes les créatures situées à moins de 90 mètres (60 {s:c}) du fiélon sargasse doivent réussir un jet de [[Volonté]] [[DD]] 18 où être captivée par l’odeur. Pour une créature captivée, le monstre devient la chose dont il s’approchera le plus volontiers : un être aimé perdu, un enfant en détresse, une sirène enchanteresse, une promesse de terre ferme, etc. La magnitude de cette illusion fonctionne comme ''[[mirage]]'' ([[NLS]] égal au [[FP]] de la sargasse), mais il s’agit d’un effet mental de fantasme, non d’une hallucination. Cet effet se dissipe dès que la plante attaque une cible. Le [[DD]] du jet de sauvegarde est basé sur le [[Charisme]].}
+</div>
+</td><td><div>
+''Cette masse d’algues vertes, constamment changeante, peut prendre la forme d’un humanoïde puis retrouver son apparence d’algue, évoluant sans cesse.''
+
+Le fiélon sargasse est une masse d’algues intelligente à
+la dérive, capable d’attirer ses victimes vers leur mort grâce
+à une puissante phéromone hallucinogène. Lorsque le
+fiélon sargasse attire une créature en transe à portée, il la
+saisit en transe et tente de la tuer en la broyant. Les marins
+expérimentés racontent que des équipages entiers ont sauté
+par-dessus bord pour rejoindre des champs de ces plantes
+marines meurtrières.
+L’étrange phéromone que produit le fiélon sargasse peut
+être récupérée à partir des nombreux bulbes qui poussent
+dans le corps du fiélon, mais ces bulbes se décomposent
+très vite une fois récoltés. Un bulbe frais se conserve 1 heure
+avant de devenir inutile : pendant ce temps, on peut l’écraser
+par une [[action simple]] pour produire un effet de mirage,
+comme précisé ci-dessus. À sa mort, un fiélon sargasse
+donne généralement 1d6 bulbes de musc : il faut réussir un
+test de [[Survie]] de [[DD]] 29 pour un récolter un. Aujourd’hui, il
+n’existe aucun processus alchimique ou magique qui permet
+de conserver efficacement ce musc.
+Les fiélons sargasses peuvent atteindre jusqu’à 3 mètres
+de diamètre avant de se diviser, ce qui correspond à leur
+méthode de reproduction asexuée. Néanmoins, on sait qu’il
+existe des cas de mutation et les érudits spécialisés sur la mer
+et ses créatures ont noté que des fiélons sargasses ont atteint
+des tailles énormes, voire Colossales. On peut créer ces
+énormes fiélons sargasses peu en faisant évoluer les dés de
+vie du fiélon avec un minimum de 5 [[DV]] par catégorie de [[taille]]
+supplémentaire.
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Fiélon sargasse</fullName>
+</wikiPage>

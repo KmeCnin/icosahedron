@@ -1,0 +1,181 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Gorgone</title>
+  <categories><category>Pathfinder-RPG.Bestiaire</category><category>Pathfinder-RPG.Monstre</category><category>Pathfinder-RPG.Règles officielles</category></categories>
+  <lastModified>2013-02-07 21:28:31Z</lastModified>
+  <version>6</version>
+  <inLinks><link>Pathfinder-RPG.Glossaire des monstres</link><link>Pathfinder-RPG.Liste de monstres par FP</link><link>Pathfinder-RPG.Liste de monstres par milieu naturel</link><link>Pathfinder-RPG.Liste de monstres par type</link><link>Pathfinder-RPG.Monstres</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.type Créature magique</link><link>Pathfinder-RPG.odorat</link><link>Pathfinder-RPG.vision dans le noir</link><link>Pathfinder-RPG.vision nocturne</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Piétinement</link><link>Pathfinder-RPG.cône</link><link>Pathfinder-RPG.Attaque en puissance</link><link>Pathfinder-RPG.Science de linitiative</link><link>Pathfinder-RPG.Talent</link><link>Pathfinder-RPG.Volonté de fer</link><link>Pathfinder-RPG.Souffle</link><link>Pathfinder-RPG.Vigueur</link><link>Pathfinder-RPG.DD</link><link>Pathfinder-RPG.jet de sauvegarde</link><link>Pathfinder-RPG.Constitution</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Gorgone&lt;div style=&quot;float:right;&quot;&gt;FP 8&lt;/div&gt;&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Bestiaire p.171&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 4.800
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Cr&#233;ature-Magique.html&quot; title=&quot;Cr&#233;ature magique&quot;&gt;Cr&#233;ature magique&lt;/a&gt; de taille G, N
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +4 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Odorat-(Capacit&#233;).html&quot; title=&quot;odorat&quot;&gt;odorat&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Capacit&#233;s-Sp&#233;ciales.html#VISIONDANSLENOIR&quot; title=&quot;vision dans le noir&quot;&gt;vision dans le noir&lt;/a&gt; 18 m (12 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Nocturne-(Capacit&#233;).html&quot; title=&quot;vision nocturne&quot;&gt;vision nocturne&lt;/a&gt; ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +17
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 20, contact 9, pris au d&#233;pourvu 20 (naturelle +11, taille -1)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 100 (8d10+56)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +6, &lt;b&gt;Vig&lt;/b&gt; +13, &lt;b&gt;Vol&lt;/b&gt; +7
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 9 m (6 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; corne, +14 (2d8+7), 2 sabots +9 (1d6+3)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Espace&lt;/b&gt; 3 m (2 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) ; &lt;b&gt;Allonge&lt;/b&gt; 1,50 m (1 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaques sp&#233;ciales&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pi&#233;tinement.html&quot; title=&quot;Pi&#233;tinement&quot;&gt;pi&#233;tinement&lt;/a&gt; (2d8+10, DD 21), souffle (&lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#DEFCONE&quot; title=&quot;c&#244;ne&quot;&gt;c&#244;ne&lt;/a&gt; de 18 m (12 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), p&#233;trification, Vigueur DD 21 annule)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 24, &lt;b&gt;Dex&lt;/b&gt; 10, &lt;b&gt;Con&lt;/b&gt; 24, &lt;b&gt;Int&lt;/b&gt; 2, &lt;b&gt;Sag&lt;/b&gt; 16, &lt;b&gt;Cha&lt;/b&gt; 9
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +8, &lt;b&gt;BMO&lt;/b&gt; +16, &lt;b&gt;DMD&lt;/b&gt; 26
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Attaque-En-Puissance.html&quot; title=&quot;Attaque en puissance&quot;&gt;Attaque en puissance&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Science-De-Linitiative.html&quot; title=&quot;Science de l&amp;#39;initiative&quot;&gt;Science de l&#39;initiative&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Talent.html&quot; title=&quot;Talent&quot;&gt;Talent&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt;), &lt;a class=&quot;pagelink&quot; href=&quot;Volont&#233;-De-Fer.html&quot; title=&quot;Volont&#233; de fer&quot;&gt;Volont&#233; de fer&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +17
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; plaines temp&#233;r&#233;s, collines rocheuses et souterrain
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation sociale&lt;/b&gt; solitaire, couple, groupe (3-4) ou troupeau (5-12)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; aucun
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Capacit&#233;s sp&#233;ciales&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Souffle (Sur).&lt;/b&gt; Une gorgone peut utiliser son &lt;a class=&quot;pagelink&quot; href=&quot;Souffle-(Capacit&#233;).html&quot; title=&quot;Souffle&quot;&gt;souffle&lt;/a&gt; tous les 1d4+1 rounds pour cr&#233;er un &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#DEFCONE&quot; title=&quot;c&#244;ne&quot;&gt;c&#244;ne&lt;/a&gt; de gaz vert de 18 m (12 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;). Les cr&#233;atures prises dans la zone peuvent effectuer un jet de &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;Vigueur&quot;&gt;Vigueur&lt;/a&gt; de &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DEGREDEDIFFICULTE&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; 21 pour tenter de r&#233;sister aux effets du gaz. Ceux qui &#233;chouent sont imm&#233;diatement p&#233;trifi&#233;s. Cette p&#233;trification est temporaire : chaque round, la cr&#233;ature p&#233;trifi&#233;e peut effectuer un jet de &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;Vigueur&quot;&gt;Vigueur&lt;/a&gt; de &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DEGREDEDIFFICULTE&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; 21 pour se lib&#233;rer de cet effet, du moins tant qu&#39;elle n&#39;est pas prise une seconde fois dans la zone d&#39;effet du souffle de la gorgone. Si une cr&#233;ature d&#233;j&#224; p&#233;trifi&#233;e est expos&#233;e &#224; nouveau au souffle de la gorgone, la p&#233;trification devient permanente et elle ne peut plus effectuer de jet de &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;Vigueur&quot;&gt;Vigueur&lt;/a&gt; pour s&#39;en lib&#233;rer naturellement. Le &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DEGREDEDIFFICULTE&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; des &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;jet de sauvegarde&quot;&gt;jets de sauvegarde&lt;/a&gt; d&#233;pendent de la &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#CONSTITUTION&quot; title=&quot;La Constitution&quot;&gt;constitution&lt;/a&gt;.
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;td&gt;&lt;div&gt;&lt;i&gt;De minces filets de fum&#233;e verte jaillissent de la bouche de cette sorte de taureau fait de plaques de m&#233;tal qui se chevauchent.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Les gorgones sont des cr&#233;atures magiques
+dot&#233;es d’un tr&#232;s mauvais caract&#232;re. Au
+premier coup d’œil, on peut les confondre
+avec des cr&#233;atures artificielles mais, sous
+les plaques d’aspect m&#233;tallique qui les prot&#232;gent, elles sont faites de
+chair et d’os. &lt;br /&gt;&lt;br /&gt;&#192; l’instar des taureaux agressifs, elles s’en prennent &#224;
+toutes les cr&#233;atures qu’elles ne connaissent pas et qu’elles croisent,
+n’h&#233;sitant pas &#224; pi&#233;tiner les corps de leurs adversaires ou &#224; briser leurs
+restes p&#233;trifi&#233;s jusqu’&#224; ce qu’il soit impossible de les reconna&#238;tre. Les
+femelles sont tout aussi dangereuses que les m&#226;les et les deux sexes
+ont la m&#234;me apparence. &lt;br /&gt;&lt;br /&gt;Une gorgone moyenne mesure 1,80 m&#232;tres
+de hauteur et 2,40 m&#232;tres de longueur, pour un poids de 2 000 kg.
+Les gorgones s’alimentent en consommant des min&#233;raux,
+et plus particuli&#232;rement la pierre des victimes qu’elles ont
+p&#233;trifi&#233;es (elles rongent la majorit&#233; des statues qu’elles cr&#233;ent).&lt;br /&gt;&lt;br /&gt;Elles ne peuvent pas dig&#233;rer le m&#233;tal ni les pierres pr&#233;cieuses, qui
+se retrouvent donc sous la forme de p&#233;pites ou de petits cristaux
+bruts dans leurs excr&#233;ments (une sorte de poudre grise &#224; l’odeur
+am&#232;re). Les gorgones ont un comportement tellement agressifs
+envers toutes les autres cr&#233;atures qu’il ne reste rapidement plus
+aucun autre pr&#233;dateur et aucune proie sur leur domaine. &lt;br /&gt;&lt;br /&gt;Chaque troupeau de gorgones est dirig&#233; par un taureau dominant. Les
+gorgones solitaires sont souvent des taureaux adolescents expuls&#233;s
+de leur troupeau par le m&#226;le dominant.&lt;br /&gt;&lt;br /&gt;Une fois leur carapace enlev&#233;e, la chair de gorgone est coriace
+mais ressemble &#224; de la viande de bœuf. Ceux qui y prennent go&#251;t
+la trouvent assez nourrissante. De nombreuses tribus de g&#233;ants de
+pierre pensent que manger de la viande de gorgone leur permet
+d’am&#233;liorer leur propre armure naturelle. &lt;br /&gt;&lt;br /&gt;La poudre de corne de gorgone vaut 250 po et peut servir de composante
+mat&#233;rielle pour les objets magiques qui
+n&#233;cessitent des sorts tels que force
+du taureau, peau de pierre,
+p&#233;trification ou statue.
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Gorgone|FP 8}
+{s:pucem|Créature magique|Plaines|Tempéré}
+{s:BDTexte|''Source : Bestiaire p.171''}
+{s:BDTexte|'''PX''' 4.800}
+{s:BDTexte|[[type Créature magique|Créature magique]] de taille G, N}
+{s:BDTexte|'''Init''' +4 ; '''Sens''' [[odorat]], [[vision dans le noir]] 18 m (12 {s:c}), [[vision nocturne]] ; [[Perception]] +17}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 20, contact 9, pris au dépourvu 20 (naturelle +11, taille -1)}
+{s:BDTexte|'''pv''' 100 (8d10+56)}
+{s:BDTexte|'''Réf''' +6, '''Vig''' +13, '''Vol''' +7}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 9 m (6 {s:c})}
+{s:BDTexte|'''Corps à corps''' corne, +14 (2d8+7), 2 sabots +9 (1d6+3)}
+{s:BDTexte|'''Espace''' 3 m (2 {s:c}) ; '''Allonge''' 1,50 m (1 {s:c})}
+{s:BDTexte|'''Attaques spéciales''' [[piétinement]] (2d8+10, DD 21), souffle ([[cône]] de 18 m (12 {s:c}), pétrification, Vigueur DD 21 annule)}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 24, '''Dex''' 10, '''Con''' 24, '''Int''' 2, '''Sag''' 16, '''Cha''' 9}
+{s:BDTexte|'''BBA''' +8, '''BMO''' +16, '''DMD''' 26}
+{s:BDTexte|'''Dons''' [[Attaque en puissance]], [[Science de linitiative|Science de l'initiative]], [[Talent]] ([[Perception]]), [[Volonté de fer]]}
+{s:BDTexte|'''Compétences''' [[Perception]] +17}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' plaines tempérés, collines rocheuses et souterrain}
+{s:BDTexte|'''Organisation sociale''' solitaire, couple, groupe (3-4) ou troupeau (5-12)}
+{s:BDTexte|'''Trésor''' aucun}
+{s:BDSousTitre|Capacités spéciales}
+{s:BDTexte|'''Souffle (Sur).''' Une gorgone peut utiliser son [[souffle]] tous les 1d4+1 rounds pour créer un [[cône]] de gaz vert de 18 m (12 {s:c}). Les créatures prises dans la zone peuvent effectuer un jet de [[Vigueur]] de [[DD]] 21 pour tenter de résister aux effets du gaz. Ceux qui échouent sont immédiatement pétrifiés. Cette pétrification est temporaire : chaque round, la créature pétrifiée peut effectuer un jet de [[Vigueur]] de [[DD]] 21 pour se libérer de cet effet, du moins tant qu'elle n'est pas prise une seconde fois dans la zone d'effet du souffle de la gorgone. Si une créature déjà pétrifiée est exposée à nouveau au souffle de la gorgone, la pétrification devient permanente et elle ne peut plus effectuer de jet de [[Vigueur]] pour s'en libérer naturellement. Le [[DD]] des [[jet de sauvegarde|jets de sauvegarde]] dépendent de la [[constitution]].}
+</div>
+</td><td><div>''De minces filets de fumée verte jaillissent de la bouche de cette sorte de taureau fait de plaques de métal qui se chevauchent.''
+
+Les gorgones sont des créatures magiques
+dotées d’un très mauvais caractère. Au
+premier coup d’œil, on peut les confondre
+avec des créatures artificielles mais, sous
+les plaques d’aspect métallique qui les protègent, elles sont faites de
+chair et d’os. 
+
+À l’instar des taureaux agressifs, elles s’en prennent à
+toutes les créatures qu’elles ne connaissent pas et qu’elles croisent,
+n’hésitant pas à piétiner les corps de leurs adversaires ou à briser leurs
+restes pétrifiés jusqu’à ce qu’il soit impossible de les reconnaître. Les
+femelles sont tout aussi dangereuses que les mâles et les deux sexes
+ont la même apparence. 
+
+Une gorgone moyenne mesure 1,80 mètres
+de hauteur et 2,40 mètres de longueur, pour un poids de 2 000 kg.
+Les gorgones s’alimentent en consommant des minéraux,
+et plus particulièrement la pierre des victimes qu’elles ont
+pétrifiées (elles rongent la majorité des statues qu’elles créent).
+
+Elles ne peuvent pas digérer le métal ni les pierres précieuses, qui
+se retrouvent donc sous la forme de pépites ou de petits cristaux
+bruts dans leurs excréments (une sorte de poudre grise à l’odeur
+amère). Les gorgones ont un comportement tellement agressifs
+envers toutes les autres créatures qu’il ne reste rapidement plus
+aucun autre prédateur et aucune proie sur leur domaine. 
+
+Chaque troupeau de gorgones est dirigé par un taureau dominant. Les
+gorgones solitaires sont souvent des taureaux adolescents expulsés
+de leur troupeau par le mâle dominant.
+
+Une fois leur carapace enlevée, la chair de gorgone est coriace
+mais ressemble à de la viande de bœuf. Ceux qui y prennent goût
+la trouvent assez nourrissante. De nombreuses tribus de géants de
+pierre pensent que manger de la viande de gorgone leur permet
+d’améliorer leur propre armure naturelle. 
+
+La poudre de corne de gorgone vaut 250 po et peut servir de composante
+matérielle pour les objets magiques qui
+nécessitent des sorts tels que force
+du taureau, peau de pierre,
+pétrification ou statue.
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Gorgone</fullName>
+</wikiPage>

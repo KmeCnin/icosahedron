@@ -1,0 +1,195 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Troglodyte</title>
+  <categories><category>Pathfinder-RPG.Bestiaire</category><category>Pathfinder-RPG.Monstre</category></categories>
+  <lastModified>2013-02-06 19:58:04Z</lastModified>
+  <version>5</version>
+  <inLinks><link>Pathfinder-RPG.Fongoïde violet</link><link>Pathfinder-RPG.Géant des grottes</link><link>Pathfinder-RPG.Glossaire des monstres</link><link>Pathfinder-RPG.Grick</link><link>Pathfinder-RPG.Limace géante</link><link>Pathfinder-RPG.Liste de monstres par FP</link><link>Pathfinder-RPG.Liste de monstres par milieu naturel</link><link>Pathfinder-RPG.Liste de monstres par type</link><link>Pathfinder-RPG.Monstres</link><link>Pathfinder-RPG.Négation de larôme</link><link>Pathfinder-RPG.Réincarnation</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.type Humanoïde</link><link>Pathfinder-RPG.sous-type reptilien</link><link>Pathfinder-RPG.vision dans le noir</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Vigueur surhumaine</link><link>Pathfinder-RPG.Discrétion</link><link>Pathfinder-RPG.Varan</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Troglodyte&lt;div style=&quot;float:right;&quot;&gt;FP 1&lt;/div&gt;&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Bestiaire&lt;/i&gt; p.277
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 400
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Humano&#239;de.html&quot; title=&quot;Humano&#239;de&quot;&gt;Humano&#239;de&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Reptilien.html&quot; title=&quot;Reptilien (sous-type)&quot;&gt;reptilien&lt;/a&gt;) de taille M, CM
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; -1 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Capacit&#233;s-Sp&#233;ciales.html#VISIONDANSLENOIR&quot; title=&quot;vision dans le noir&quot;&gt;vision dans le noir&lt;/a&gt; 27 m (18 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +0
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Aura&lt;/b&gt; puanteur (9 m (6 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), DD 13, 10 rounds)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 15, contact 9, pris au d&#233;pourvu 15 (Dex -1, naturelle +6)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 13 (2d8+4)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; -1, &lt;b&gt;Vig&lt;/b&gt; +7, &lt;b&gt;Vol&lt;/b&gt; +0
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 9 m (6 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; gourdin +2 (1d6+1), griffe -3 (1d4), morsure -3 (1d4) ou 2 griffes +2 (1d4+1), morsure +2 (1d4+1)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Distance&lt;/b&gt; javeline +0 (1d6)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 12, &lt;b&gt;Dex&lt;/b&gt; 9, &lt;b&gt;Con&lt;/b&gt; 14, &lt;b&gt;Int&lt;/b&gt; 8, &lt;b&gt;Sag&lt;/b&gt; 11, &lt;b&gt;Cha&lt;/b&gt; 11
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +1, &lt;b&gt;BMO&lt;/b&gt; +2, &lt;b&gt;DMD&lt;/b&gt; 11
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vigueur-Surhumaine.html&quot; title=&quot;Vigueur surhumaine&quot;&gt;Vigueur surhumaine&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; +5 (+9 en zones rocheuses) ; &lt;b&gt;Modificateurs raciaux&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; +4 (+8 en zones rocheuses)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Langues&lt;/b&gt; draconique
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; souterrain
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation sociale&lt;/b&gt; solitaire, couple, port&#233;e (3-6), escouade (7-12 plus 1 pr&#234;tre ou druide de niveau 3 et 1-2 &lt;a class=&quot;pagelink&quot; href=&quot;Varan.html&quot; title=&quot;Varan&quot;&gt;varans&lt;/a&gt;) ou groupe (20-80 plus 20% de non combattants, 1 capitaine de niveau 3 &#224; 6, 1-3 druides ou pr&#234;tres de niveau 3 &#224; 6 et 3-13 &lt;a class=&quot;pagelink&quot; href=&quot;Varan.html&quot; title=&quot;Varan&quot;&gt;varans&lt;/a&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; &#233;quipement de PNJ (3 javelines, massue, autres tr&#233;sors)
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;td&gt;&lt;div&gt;&lt;i&gt;Cet humano&#239;de &#224; la peau &#233;cailleuse gris clair ressemble &#224; un l&#233;zard &#224;
+longue queue. Une cr&#234;te orne l’arri&#232;re de sa t&#234;te et son dos.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Les troglodytes sont des cr&#233;atures primitives et sauvages qui
+vivent dans des grottes. Parmi toutes les races qui occupent les
+innombrables cavernes souterraines situ&#233;es juste en-dessous de
+la surface, les troglodytes sont sans doute l’une des populations
+les plus nombreuses. Ils attaquent aussi bien les communaut&#233;s
+de la surface que celles qui sont enfouies dans les profondeurs.
+Malgr&#233; leur nombre et leur grande f&#233;condit&#233;, ils ne repr&#233;sentent
+en fin de comptes qu’un danger assez mineur. De temps en temps,
+de grands chefs parviennent &#224; rassembler des l&#233;gions de troglodytes
+et &#224; en faire de vastes et dangereuses arm&#233;es, mais en l’absence de
+cela, les tribus de troglodytes passent leur temps &#224; s’emp&#234;cher
+mutuellement de prosp&#233;rer par des affrontements fr&#233;quents, des
+attaques &#224; but cannibale et des guerres civiles d&#233;vastatrices.&lt;br /&gt;&lt;br /&gt;Les troglodytes sont l’une des plus anciennes races intelligentes.
+Certaines cavernes abritent des ruines qui prouvent que leur
+empire &#233;tait autrefois l’un des plus vastes au monde. Au d&#233;but
+des temps, la civilisation des troglodytes avait des g&#233;n&#233;rations
+d’avance sur les autres races humano&#239;des. Alors que ces derniers
+se cachaient dans des grottes et idol&#226;traient le feu, les troglodytes
+b&#226;tissaient de vastes cit&#233;s compos&#233;es de ziggourats de pierre et
+de canaux aux formes serpentines, utilisaient les autres races
+comme esclaves et v&#233;n&#233;raient des dieux et des d&#233;mons anciens et
+inhumains. Mais, les autres races ont &#233;volu&#233; et sont devenues de
+plus en plus civilis&#233;es, d&#233;passant les troglodytes qui les avaient
+autrefois opprim&#233;es. Aujourd’hui, les r&#244;les sont invers&#233;s, et ce
+sont donc les troglodytes qui se terrent dans les cavernes et vivent
+comme des sauvages primitifs.&lt;br /&gt;&lt;br /&gt;La religion occupe une place importante dans les tribus
+de troglodytes. Les chamanes et les pr&#234;tres sont toujours les
+membres les plus respect&#233;s du clan. Tous les chefs troglodytes ne
+sont pas des pr&#234;tres ou des druides, mais ceux qui ne poss&#232;dent
+aucun talent divin ne font g&#233;n&#233;ralement que jouer le r&#244;le de porte-parole
+ou de fantoches qui ob&#233;issent au doigt et &#224; l’oeil au devin ou
+au chamane local. Les troglodytes v&#233;n&#232;rent g&#233;n&#233;ralement un des
+nombreux seigneurs d&#233;mons, plus particuli&#232;rement un de ceux
+qui poss&#232;dent une apparence reptilienne ou primitive ou dont les
+royaumes abyssaux ressemblent fortement aux r&#233;seaux de cavernes
+que les troglodytes pr&#233;f&#232;rent. Les druides des communaut&#233;s
+troglodytes poss&#232;dent g&#233;n&#233;ralement un alignement Neutre
+Mauvais et tous les respectent et les craignent &#224; cause de l’&#233;trange
+pouvoir qu’ils ont sur les b&#234;tes.&lt;br /&gt;&lt;br /&gt;Un troglodyte moyen mesure quelque 1,50 m&#232;tre de hauteur et
+p&#232;se 75 kg.
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Troglodyte|FP 1}
+{s:pucem|Humanoïde|Souterrain|Tempéré}
+{s:BDTexte|''Source : Bestiaire'' p.277}
+{s:BDTexte|'''PX''' 400}
+{s:BDTexte|[[type Humanoïde|Humanoïde]] ([[sous-type reptilien|reptilien]]) de taille M, CM}
+{s:BDTexte|'''Init''' -1 ; '''Sens''' [[vision dans le noir]] 27 m (18 {s:c}) ; [[Perception]] +0}
+{s:BDTexte|'''Aura''' puanteur (9 m (6 {s:c}), DD 13, 10 rounds)}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 15, contact 9, pris au dépourvu 15 (Dex -1, naturelle +6)}
+{s:BDTexte|'''pv''' 13 (2d8+4)}
+{s:BDTexte|'''Réf''' -1, '''Vig''' +7, '''Vol''' +0}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 9 m (6 {s:c})}
+{s:BDTexte|'''Corps à corps''' gourdin +2 (1d6+1), griffe -3 (1d4), morsure -3 (1d4) ou 2 griffes +2 (1d4+1), morsure +2 (1d4+1)}
+{s:BDTexte|'''Distance''' javeline +0 (1d6)}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 12, '''Dex''' 9, '''Con''' 14, '''Int''' 8, '''Sag''' 11, '''Cha''' 11}
+{s:BDTexte|'''BBA''' +1, '''BMO''' +2, '''DMD''' 11}
+{s:BDTexte|'''Dons''' [[Vigueur surhumaine]]}
+{s:BDTexte|'''Compétences''' [[Discrétion]] +5 (+9 en zones rocheuses) ; '''Modificateurs raciaux''' [[Discrétion]] +4 (+8 en zones rocheuses)}
+{s:BDTexte|'''Langues''' draconique}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' souterrain}
+{s:BDTexte|'''Organisation sociale''' solitaire, couple, portée (3-6), escouade (7-12 plus 1 prêtre ou druide de niveau 3 et 1-2 [[varan|varans]]) ou groupe (20-80 plus 20% de non combattants, 1 capitaine de niveau 3 à 6, 1-3 druides ou prêtres de niveau 3 à 6 et 3-13 [[varan|varans]])}
+{s:BDTexte|'''Trésor''' équipement de PNJ (3 javelines, massue, autres trésors)}
+</div>
+</td><td><div>''Cet humanoïde à la peau écailleuse gris clair ressemble à un lézard à
+longue queue. Une crête orne l’arrière de sa tête et son dos.''
+
+Les troglodytes sont des créatures primitives et sauvages qui
+vivent dans des grottes. Parmi toutes les races qui occupent les
+innombrables cavernes souterraines situées juste en-dessous de
+la surface, les troglodytes sont sans doute l’une des populations
+les plus nombreuses. Ils attaquent aussi bien les communautés
+de la surface que celles qui sont enfouies dans les profondeurs.
+Malgré leur nombre et leur grande fécondité, ils ne représentent
+en fin de comptes qu’un danger assez mineur. De temps en temps,
+de grands chefs parviennent à rassembler des légions de troglodytes
+et à en faire de vastes et dangereuses armées, mais en l’absence de
+cela, les tribus de troglodytes passent leur temps à s’empêcher
+mutuellement de prospérer par des affrontements fréquents, des
+attaques à but cannibale et des guerres civiles dévastatrices.
+
+Les troglodytes sont l’une des plus anciennes races intelligentes.
+Certaines cavernes abritent des ruines qui prouvent que leur
+empire était autrefois l’un des plus vastes au monde. Au début
+des temps, la civilisation des troglodytes avait des générations
+d’avance sur les autres races humanoïdes. Alors que ces derniers
+se cachaient dans des grottes et idolâtraient le feu, les troglodytes
+bâtissaient de vastes cités composées de ziggourats de pierre et
+de canaux aux formes serpentines, utilisaient les autres races
+comme esclaves et vénéraient des dieux et des démons anciens et
+inhumains. Mais, les autres races ont évolué et sont devenues de
+plus en plus civilisées, dépassant les troglodytes qui les avaient
+autrefois opprimées. Aujourd’hui, les rôles sont inversés, et ce
+sont donc les troglodytes qui se terrent dans les cavernes et vivent
+comme des sauvages primitifs.
+
+La religion occupe une place importante dans les tribus
+de troglodytes. Les chamanes et les prêtres sont toujours les
+membres les plus respectés du clan. Tous les chefs troglodytes ne
+sont pas des prêtres ou des druides, mais ceux qui ne possèdent
+aucun talent divin ne font généralement que jouer le rôle de porte-parole
+ou de fantoches qui obéissent au doigt et à l’oeil au devin ou
+au chamane local. Les troglodytes vénèrent généralement un des
+nombreux seigneurs démons, plus particulièrement un de ceux
+qui possèdent une apparence reptilienne ou primitive ou dont les
+royaumes abyssaux ressemblent fortement aux réseaux de cavernes
+que les troglodytes préfèrent. Les druides des communautés
+troglodytes possèdent généralement un alignement Neutre
+Mauvais et tous les respectent et les craignent à cause de l’étrange
+pouvoir qu’ils ont sur les bêtes.
+
+Un troglodyte moyen mesure quelque 1,50 mètre de hauteur et
+pèse 75 kg.
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Troglodyte</fullName>
+</wikiPage>

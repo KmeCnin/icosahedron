@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Accélération</title>
+  <categories><category>Pathfinder-RPG.Art de la Magie</category><category>Pathfinder-RPG.Mots de pouvoir</category><category>Pathfinder-RPG.Règles officielles</category></categories>
+  <lastModified>2012-09-26 15:34:56Z</lastModified>
+  <version>1</version>
+  <inLinks><link>Pathfinder-RPG.Cocher (roublard)</link><link>Pathfinder-RPG.Liste des mots de pouvoirs par classe</link><link>Pathfinder-RPG.Listes des mots de pouvoirs (temporaire)</link><link>Pathfinder-RPG.Mots effets</link><link>Pathfinder-RPG.Propulsion (véhicules)</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Transmutation</link><link>Pathfinder-RPG.Alchimiste</link><link>Pathfinder-RPG.Barde</link><link>Pathfinder-RPG.Conjurateur</link><link>Pathfinder-RPG.Magus</link><link>Pathfinder-RPG.Ensorceleur</link><link>Pathfinder-RPG.Magicien</link><link>Pathfinder-RPG.round</link><link>Pathfinder-RPG.niveau</link><link>Pathfinder-RPG.Volonté</link><link>Pathfinder-RPG.Présentation des sorts</link><link>Pathfinder-RPG.Choisi</link><link>Pathfinder-RPG.Action de mouvement</link><link>Pathfinder-RPG.Action complexe</link></outLinks>
+  <body><![CDATA[
+&lt;b&gt;&#201;cole&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#TRANSMUTATION&quot; title=&quot;Transmutation&quot;&gt;transmutation&lt;/a&gt; ; &lt;b&gt;Niveau&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Alchimiste.html&quot; title=&quot;L&amp;#39;alchimiste&quot;&gt;alchimiste&lt;/a&gt; 2, &lt;a class=&quot;pagelink&quot; href=&quot;Barde.html&quot; title=&quot;Le barde&quot;&gt;barde&lt;/a&gt; 2, &lt;a class=&quot;pagelink&quot; href=&quot;Conjurateur.html&quot; title=&quot;Le conjurateur (aussi appel&#233; invocateur)&quot;&gt;conjurateur&lt;/a&gt; 2, &lt;a class=&quot;pagelink&quot; href=&quot;Magus.html&quot; title=&quot;Le Magus&quot;&gt;magus&lt;/a&gt; 2, &lt;a class=&quot;pagelink&quot; href=&quot;Ensorceleur.html&quot; title=&quot;L&amp;#39;ensorceleur&quot;&gt;ensorceleur&lt;/a&gt;/&lt;a class=&quot;pagelink&quot; href=&quot;Magicien.html&quot; title=&quot;Le magicien&quot;&gt;magicien&lt;/a&gt; 2&lt;br /&gt;
+&lt;b&gt;Dur&#233;e&lt;/b&gt; 1 &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#ROUND&quot; title=&quot;round&quot;&gt;round&lt;/a&gt;/&lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#NIVEAU&quot; title=&quot;niveau&quot;&gt;niveau&lt;/a&gt;&lt;br /&gt;
+&lt;b&gt;Jet de sauvegarde&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;Volont&#233;&quot;&gt;Volont&#233;&lt;/a&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#JETSDESAUVEGARDE&quot; title=&quot;Pr&#233;sentation des sorts&quot;&gt;annule&lt;/a&gt; (inoffensif) ; &lt;b&gt;R&#233;sistance &#224; la magie&lt;/b&gt; oui (inoffensif)&lt;br /&gt;
+&lt;b&gt;Restriction de cible&lt;/b&gt; &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Choisi.html&quot; title=&quot;Choisi&quot;&gt;choisi&lt;/a&gt;&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;La cible du sort a une &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions.html#MOUVEMENT&quot; title=&quot;Action de mouvement&quot;&gt;action de mouvement&lt;/a&gt; suppl&#233;mentaire par tour. Cette action peut avoir lieu avant, apr&#232;s ou entre d’autres actions, mais pas durant une &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions.html#COMPLEXE&quot; title=&quot;Action complexe&quot;&gt;action complexe&lt;/a&gt;.&lt;br /&gt;
+&lt;div class=&quot;indent&quot; style=&quot;margin: 0px; padding: 0px; padding-left: 15px&quot;&gt;&lt;b&gt;Augmentation :&lt;/b&gt; Si elle fait une &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions.html#COMPLEXE&quot; title=&quot;Action complexe&quot;&gt;action complexe&lt;/a&gt;, la cible peut, au lieu de faire une &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions.html#MOUVEMENT&quot; title=&quot;Action de mouvement&quot;&gt;action de mouvement&lt;/a&gt;, porter une attaque suppl&#233;mentaire avec son plus haut bonus d’attaque.&lt;/div&gt;
+]]></body>
+  <raw><![CDATA[{s:UM}
+'''École''' [[transmutation]] ; '''Niveau''' [[alchimiste]] 2, [[barde]] 2, [[conjurateur]] 2, [[magus]] 2, [[ensorceleur]]/[[magicien]] 2<br>
+'''Durée''' 1 [[round]]/[[niveau]]<br>
+'''Jet de sauvegarde''' [[Volonté]] [[Présentation des sorts#JETSDESAUVEGARDE|annule]] (inoffensif) ; '''Résistance à la magie''' oui (inoffensif)<br>
+'''Restriction de cible''' ''[[choisi]]''
+
+La cible du sort a une [[action de mouvement]] supplémentaire par tour. Cette action peut avoir lieu avant, après ou entre d’autres actions, mais pas durant une [[action complexe]].<br>
+:'''Augmentation :''' Si elle fait une [[action complexe]], la cible peut, au lieu de faire une [[action de mouvement]], porter une attaque supplémentaire avec son plus haut bonus d’attaque.]]></raw>
+  <fullName>Pathfinder-RPG.Accélération</fullName>
+</wikiPage>

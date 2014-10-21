@@ -1,0 +1,150 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Shikigami</title>
+  <categories><category>Pathfinder-RPG.Bestiaire 3</category><category>Pathfinder-RPG.Monstre</category><category>Pathfinder-RPG.Règles officielles</category></categories>
+  <lastModified>2013-09-28 15:18:09Z</lastModified>
+  <version>5</version>
+  <inLinks><link>Pathfinder-RPG.Familier supérieur</link><link>Pathfinder-RPG.Glossaire des monstres</link><link>Pathfinder-RPG.Liste de monstres par FP</link><link>Pathfinder-RPG.Liste de monstres par milieu naturel</link><link>Pathfinder-RPG.Liste de monstres par type</link><link>Pathfinder-RPG.Monstres</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.type Extérieur</link><link>Pathfinder-RPG.sous-type kami</link><link>Pathfinder-RPG.sous-type natif</link><link>Pathfinder-RPG.vision dans le noir</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.guérison accélérée</link><link>Pathfinder-RPG.Registre</link><link>Pathfinder-RPG.métamorphose</link><link>Pathfinder-RPG.Pétrification</link><link>Pathfinder-RPG.Saignement</link><link>Pathfinder-RPG.Invisibilité</link><link>Pathfinder-RPG.Statue</link><link>Pathfinder-RPG.Invisibilité pour les animaux</link><link>Pathfinder-RPG.Purification de nourriture et deau</link><link>Pathfinder-RPG.Communion avec la nature</link><link>Pathfinder-RPG.Lancer improvisé</link><link>Pathfinder-RPG.Surprise</link><link>Pathfinder-RPG.Vigilance</link><link>Pathfinder-RPG.Volonté de fer</link><link>Pathfinder-RPG.Connaissances</link><link>Pathfinder-RPG.Discrétion</link><link>Pathfinder-RPG.Premiers secours</link><link>Pathfinder-RPG.Psychologie</link><link>Pathfinder-RPG.Survie</link><link>Pathfinder-RPG.Charisme</link><link>Pathfinder-RPG.Force</link><link>Pathfinder-RPG.attaque dopportunité</link><link>Pathfinder-RPG.Familier supérieur</link><link>Pathfinder-RPG.Alignement</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Kami, shikigami&lt;div style=&quot;float:right;&quot;&gt;FP 2&lt;/div&gt;&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Bestiaire 3 p.160&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 600 
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Ext&#233;rieur.html&quot; title=&quot;Ext&#233;rieur&quot;&gt;Ext&#233;rieur&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Kami.html&quot; title=&quot;Kami (sous-type)&quot;&gt;kami&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Natif.html&quot; title=&quot;Natif (sous-type)&quot;&gt;natif&lt;/a&gt;) de taille  TP, LN
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +1 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Capacit&#233;s-Sp&#233;ciales.html#VISIONDANSLENOIR&quot; title=&quot;vision dans le noir&quot;&gt;vision dans le noir&lt;/a&gt; 18 m (12 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt;  +11
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 15, contact 13, pris au d&#233;pourvu 14 (Dex +1, naturelle +2, taille +2)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 19 (3d10+3) ; &lt;a class=&quot;pagelink&quot; href=&quot;Gu&#233;rison-Acc&#233;l&#233;r&#233;e-(Capacit&#233;).html&quot; title=&quot;gu&#233;rison acc&#233;l&#233;r&#233;e&quot;&gt;gu&#233;rison acc&#233;l&#233;r&#233;e&lt;/a&gt; 2
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +2, &lt;b&gt;Vig&lt;/b&gt; +4, &lt;b&gt;Vol&lt;/b&gt; +8
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;RD&lt;/b&gt; 5/fer froid&#160;; &lt;b&gt;Immunit&#233;s&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;er-Un-Sort.html#REGISTRE&quot; title=&quot;Registre&quot;&gt;effets mentaux&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;M&#233;tamorphose.html&quot; title=&quot;M&#233;tamorphose&quot;&gt;m&#233;tamorphose&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;P&#233;trification.html&quot; title=&quot;P&#233;trification&quot;&gt;p&#233;trification&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables.html#Saignement&quot; title=&quot;Saignement&quot;&gt;saignement&lt;/a&gt; ; &lt;b&gt;R&#233;sistances&lt;/b&gt; acide 10, &#233;lectricit&#233; 10, feu 10
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 9 m (6 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; arme improvis&#233;e, +4 (1d4+2/&#215;3)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Distance&lt;/b&gt; arme improvis&#233;e, +6 (1d3+2/&#215;3)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Espace occup&#233;&lt;/b&gt; Espace occup&#233; 75 cm ; Allonge 0 m
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Pouvoirs magiques&lt;/b&gt; (NLS 6 ; concentration +8)
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+&#192; volont&#233; — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Invisibilit&#233;.html&quot; title=&quot;Invisibilit&#233;&quot;&gt;invisibilit&#233;&lt;/a&gt;&lt;/i&gt; (personnelle uniquement), &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Statue.html&quot; title=&quot;Statue&quot;&gt;statue&lt;/a&gt;&lt;/i&gt; (personnelle uniquement)
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+3/jour — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Invisibilit&#233;-Pour-Les-Animaux.html&quot; title=&quot;Invisibilit&#233; pour les animaux&quot;&gt;invisibilit&#233; pour les animaux&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Purification-De-Nourriture-Et-Deau.html&quot; title=&quot;Purification de nourriture et d&amp;#39;eau&quot;&gt;purification de nourriture et d’eau&lt;/a&gt;&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+1/semaine — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Communion-Avec-La-Nature.html&quot; title=&quot;Communion avec la nature&quot;&gt;communion avec la nature&lt;/a&gt;&lt;/i&gt; (NLS 12)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 8, &lt;b&gt;Dex&lt;/b&gt; 13, &lt;b&gt;Con&lt;/b&gt; 12, &lt;b&gt;Int&lt;/b&gt; 11, &lt;b&gt;Sag&lt;/b&gt; 17, &lt;b&gt;Cha&lt;/b&gt; 14
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +3 ; &lt;b&gt;BMO&lt;/b&gt; +2 ; &lt;b&gt;DMD&lt;/b&gt; 11
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Lancer-Improvis&#233;.html&quot; title=&quot;Lancer improvis&#233;&quot;&gt;Lancer improvis&#233;&lt;/a&gt;&lt;sup&gt;S&lt;/sup&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Surprise.html&quot; title=&quot;Surprise&quot;&gt;Surprise&lt;/a&gt;&lt;sup&gt;S&lt;/sup&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Vigilance.html&quot; title=&quot;Vigilance&quot;&gt;Vigilance&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Volont&#233;-De-Fer.html&quot; title=&quot;Volont&#233; de fer&quot;&gt;Volont&#233; de fer&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Connaissances.html&quot; title=&quot;Connaissances&quot;&gt;Connaissances&lt;/a&gt; (nature) +6, &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; +15, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +11, &lt;a class=&quot;pagelink&quot; href=&quot;Premiers-Secours.html&quot; title=&quot;Premiers secours&quot;&gt;Premiers secours&lt;/a&gt; +9, &lt;a class=&quot;pagelink&quot; href=&quot;Psychologie.html&quot; title=&quot;Psychologie&quot;&gt;Psychologie&lt;/a&gt; +11, &lt;a class=&quot;pagelink&quot; href=&quot;Survie.html&quot; title=&quot;Survie&quot;&gt;Survie&lt;/a&gt; +9
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Langues&lt;/b&gt; commun
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Particularit&#233;s&lt;/b&gt; ma&#238;trise des armes improvis&#233;es, &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Kami.html&quot; title=&quot;Kami (sous-type)&quot;&gt;fusion avec le pupille&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Kami.html&quot; title=&quot;Kami (sous-type)&quot;&gt;pupille&lt;/a&gt; (cr&#233;ations mineures des civilisations)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; tous
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation sociale&lt;/b&gt; solitaire, couple ou gang (3-8)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; standard
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Capacit&#233;s sp&#233;ciales&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Ma&#238;trise des armes improvis&#233;es (Ext).&lt;/b&gt; Le shikigami gagne les dons suppl&#233;mentaires &lt;a class=&quot;pagelink&quot; href=&quot;Surprise.html&quot; title=&quot;Surprise&quot;&gt;Surprise&lt;/a&gt; et &lt;a class=&quot;pagelink&quot; href=&quot;Lancer-Improvis&#233;.html&quot; title=&quot;Lancer improvis&#233;&quot;&gt;Lancer improvis&#233;&lt;/a&gt; et rajoute son modificateur de &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#CHARISME&quot; title=&quot;Le Charisme&quot;&gt;Charisme&lt;/a&gt;, plut&#244;t que son modificateur de &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#FORCE&quot; title=&quot;La Force&quot;&gt;Force&lt;/a&gt;, aux d&#233;g&#226;ts qu’il inflige avec les armes improvis&#233;es, les attaques qu’il porte avec ces armes semblant avoir une chance surnaturelle quand il s’agit de frapper. Bien que le shikigami soit de tr&#232;s petite taille, il ne provoque jamais d’&lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#ATTAQUEDOPPORTUNITE&quot; title=&quot;attaque d&amp;#39;opportunit&#233;&quot;&gt;attaque d’opportunit&#233;&lt;/a&gt; lorsqu’il attaque un adversaire avec une arme de corps &#224; corps. Si le shikigami donne un coup critique &#224; un adversaire avec une arme improvis&#233;e, il inflige les d&#233;g&#226;ts &#215;3.
+&lt;/div&gt;&lt;br /&gt;&lt;/div&gt;
+&lt;/td&gt;&lt;td&gt;&lt;div&gt;&lt;i&gt;Cette toute petite statue grossi&#232;rement sculpt&#233;e, repr&#233;sentant un homme en robe, est parcourue de runes brillantes.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Les shikigamis sont les moins puissants des kamis mais ils compensent leur statut inf&#233;rieur par leur bravoure et leur loyaut&#233;. Contrairement &#224; la plupart des autres kamis connus, ils sont plus souvent associ&#233;s aux r&#233;gions urbaines et rurales qu’aux  environnements naturels. Ces kamis sont les protecteurs des cr&#233;ations mineures des civilisations, de choses telles que les bornes, les panneaux indicateurs, les petites statues de jardin et les autres œuvres d’art assez ordinaires que fa&#231;onnent les mains humano&#239;des.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Pas un shikigami ne se ressemble, comme il convient pour une race de kamis associ&#233;s &#224; une telle diversit&#233; de pupilles. Si tous les shikigamis ont la capacit&#233; de fusionner avec leur pupille, ces kamis adorent &#233;galement passer du temps sous leur forme physique, veillant sur leur pupille de mani&#232;re invisible ou sous la forme de toutes petites statues. En combat, le shikigami se bat avec tous les objets qu’il trouve &#224; port&#233;e de main. Bien que peu solides, ces armes improvis&#233;es ont le don de frapper plus fort qu’elles ne le devraient.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Les shikigamis sont aussi amicaux et curieux que les autres kamis mais ils quittent tr&#232;s rapidement les zones qu’ils consid&#232;rent pollu&#233;es par des id&#233;aux qui bouleversent les vertus de la nature. Lorsqu’ils d&#233;m&#233;nagent ainsi, ils emportent g&#233;n&#233;ralement leur pupille avec eux. Ils ne s’attaquent pas aux humano&#239;des qui profanent l’environnement mais leur absence marque douloureusement
+le moral des villageois r&#233;ceptifs. Lorsqu’un shikigami s’en va, les fonctionnaires de la ville qui connaissent le r&#244;le des kamis miniatures s’empressent de faire &#233;voluer la politique de leur communaut&#233; afin d’adopter une approche plus naturaliste, esp&#233;rant
+ainsi r&#233;tablir les relations entre les shikigamis et le peuple, de crainte que la communaut&#233; ne perdent la faveur de kamis plus puissants et moins passifs.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Le shikigami mesure 60 centim&#232;tres et p&#232;se 15 kilos, ou 25 kilos sous sa forme de statue. Un lanceur de sorts souhaitant avoir un shikigami pour familier doit poss&#233;der le don &lt;a class=&quot;pagelink&quot; href=&quot;Familier-Sup&#233;rieur.html&quot; title=&quot;Familier sup&#233;rieur&quot;&gt;Familier sup&#233;rieur&lt;/a&gt;, un &lt;a class=&quot;pagelink&quot; href=&quot;Alignement.html&quot; title=&quot;L&amp;#39;alignement&quot;&gt;alignement&lt;/a&gt; Loyal Neutre et un niveau de lanceur de sorts profanes de 7 ou plus. Quand un shikigami devient un familier, il traite son ma&#238;tre comme son pupille.&lt;br /&gt;&lt;br /&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;br /&gt;]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Kami, shikigami|FP 2}
+{s:pucem|Extérieur|Plaines|Tempéré}
+{s:BDTexte|''Source : Bestiaire 3 p.160''}
+{s:BDTexte|'''PX''' 600 }
+{s:BDTexte|[[type Extérieur|Extérieur]] ([[sous-type kami|kami]], [[sous-type natif|natif]]) de taille  TP, LN}
+{s:BDTexte|'''Init''' +1 ; '''Sens''' [[vision dans le noir]] 18 m (12 {s:c}) ; [[Perception]]  +11}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 15, contact 13, pris au dépourvu 14 (Dex +1, naturelle +2, taille +2)}
+{s:BDTexte|'''pv''' 19 (3d10+3) ; [[guérison accélérée]] 2}
+{s:BDTexte|'''Réf''' +2, '''Vig''' +4, '''Vol''' +8}
+{s:BDTexte|'''RD''' 5/fer froid ; '''Immunités''' [[registre|effets mentaux]], [[métamorphose]], [[pétrification]], [[saignement]] ; '''Résistances''' acide 10, électricité 10, feu 10}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 9 m (6 {s:c})}
+{s:BDTexte|'''Corps à corps''' arme improvisée, +4 (1d4+2/×3)}
+{s:BDTexte|'''Distance''' arme improvisée, +6 (1d3+2/×3)}
+{s:BDTexte|'''Espace occupé''' Espace occupé 75 cm ; Allonge 0 m}
+{s:BDTexte|'''Pouvoirs magiques''' (NLS 6 ; concentration +8)}
+{s:BDSorts|À volonté — ''[[invisibilité]]'' (personnelle uniquement), ''[[statue]]'' (personnelle uniquement)}
+{s:BDSorts|3/jour — ''[[invisibilité pour les animaux]]'', ''[[purification de nourriture et deau|purification de nourriture et d’eau]]''}
+{s:BDSorts|1/semaine — ''[[communion avec la nature]]'' (NLS 12)}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 8, '''Dex''' 13, '''Con''' 12, '''Int''' 11, '''Sag''' 17, '''Cha''' 14}
+{s:BDTexte|'''BBA''' +3 ; '''BMO''' +2 ; '''DMD''' 11}
+{s:BDTexte|'''Dons''' [[Lancer improvisé]]<sup>S</sup>, [[Surprise]]<sup>S</sup>, [[Vigilance]], [[Volonté de fer]]}
+{s:BDTexte|'''Compétences''' [[Connaissances]] (nature) +6, [[Discrétion]] +15, [[Perception]] +11, [[Premiers secours]] +9, [[Psychologie]] +11, [[Survie]] +9}
+{s:BDTexte|'''Langues''' commun}
+{s:BDTexte|'''Particularités''' maîtrise des armes improvisées, [[sous-type kami|fusion avec le pupille]], [[sous-type kami|pupille]] (créations mineures des civilisations)}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' tous}
+{s:BDTexte|'''Organisation sociale''' solitaire, couple ou gang (3-8)}
+{s:BDTexte|'''Trésor''' standard}
+{s:BDSousTitre|Capacités spéciales}
+{s:BDTexte|'''Maîtrise des armes improvisées (Ext).''' Le shikigami gagne les dons supplémentaires [[Surprise]] et [[Lancer improvisé]] et rajoute son modificateur de [[Charisme]], plutôt que son modificateur de [[Force]], aux dégâts qu’il inflige avec les armes improvisées, les attaques qu’il porte avec ces armes semblant avoir une chance surnaturelle quand il s’agit de frapper. Bien que le shikigami soit de très petite taille, il ne provoque jamais d’[[attaque dopportunité|attaque d’opportunité]] lorsqu’il attaque un adversaire avec une arme de corps à corps. Si le shikigami donne un coup critique à un adversaire avec une arme improvisée, il inflige les dégâts ×3.}
+
+</div>
+</td><td><div>''Cette toute petite statue grossièrement sculptée, représentant un homme en robe, est parcourue de runes brillantes.''
+
+Les shikigamis sont les moins puissants des kamis mais ils compensent leur statut inférieur par leur bravoure et leur loyauté. Contrairement à la plupart des autres kamis connus, ils sont plus souvent associés aux régions urbaines et rurales qu’aux  environnements naturels. Ces kamis sont les protecteurs des créations mineures des civilisations, de choses telles que les bornes, les panneaux indicateurs, les petites statues de jardin et les autres œuvres d’art assez ordinaires que façonnent les mains humanoïdes.{br}
+
+Pas un shikigami ne se ressemble, comme il convient pour une race de kamis associés à une telle diversité de pupilles. Si tous les shikigamis ont la capacité de fusionner avec leur pupille, ces kamis adorent également passer du temps sous leur forme physique, veillant sur leur pupille de manière invisible ou sous la forme de toutes petites statues. En combat, le shikigami se bat avec tous les objets qu’il trouve à portée de main. Bien que peu solides, ces armes improvisées ont le don de frapper plus fort qu’elles ne le devraient.{br}
+
+Les shikigamis sont aussi amicaux et curieux que les autres kamis mais ils quittent très rapidement les zones qu’ils considèrent polluées par des idéaux qui bouleversent les vertus de la nature. Lorsqu’ils déménagent ainsi, ils emportent généralement leur pupille avec eux. Ils ne s’attaquent pas aux humanoïdes qui profanent l’environnement mais leur absence marque douloureusement
+le moral des villageois réceptifs. Lorsqu’un shikigami s’en va, les fonctionnaires de la ville qui connaissent le rôle des kamis miniatures s’empressent de faire évoluer la politique de leur communauté afin d’adopter une approche plus naturaliste, espérant
+ainsi rétablir les relations entre les shikigamis et le peuple, de crainte que la communauté ne perdent la faveur de kamis plus puissants et moins passifs.{br}
+
+Le shikigami mesure 60 centimètres et pèse 15 kilos, ou 25 kilos sous sa forme de statue. Un lanceur de sorts souhaitant avoir un shikigami pour familier doit posséder le don [[Familier supérieur]], un [[alignement]] Loyal Neutre et un niveau de lanceur de sorts profanes de 7 ou plus. Quand un shikigami devient un familier, il traite son maître comme son pupille.
+
+</div></td></tr></table>
+
+]]></raw>
+  <fullName>Pathfinder-RPG.Shikigami</fullName>
+</wikiPage>

@@ -1,0 +1,306 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Les véhicules terrestres</title>
+  <categories><category>Pathfinder-RPG.Art de la guerre</category><category>Pathfinder-RPG.Règles officielles</category><category>Pathfinder-RPG.Véhicule</category></categories>
+  <lastModified>2013-06-01 11:45:14Z</lastModified>
+  <version>0</version>
+  <inLinks></inLinks>
+  <outLinks><link>Pathfinder-RPG.Dressage</link><link>Pathfinder-RPG.Profession</link><link>Pathfinder-RPG.Diplomatie</link><link>Pathfinder-RPG.Intimidation</link><link>Pathfinder-RPG.baliste légère</link><link>Pathfinder-RPG.abri total</link><link>Pathfinder-RPG.abri amélioré</link><link>Pathfinder-RPG.Connaissances</link><link>Pathfinder-RPG.Artisanat</link><link>Pathfinder-RPG.DD</link><link>Pathfinder-RPG.Acrobaties</link></outLinks>
+  <body><![CDATA[
+&lt;i&gt;Les r&#232;gles de base donnent une id&#233;e g&#233;n&#233;rale du comportement des v&#233;hicules durant le round de combat et de leurs diff&#233;rences avec des cr&#233;atures. Les  parties suivantes approfondissent la mani&#232;re de les g&#233;rer pendant le combat.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Les v&#233;hicules terrestres transportent des passagers et des marchandises sur la terre ferme ou un terrain similaire. Ils sont en g&#233;n&#233;ral propuls&#233;s par l’&#233;nergie musculaire mais peuvent &#234;tre d&#233;plac&#233;s par diff&#233;rentes m&#233;thodes.&lt;br /&gt;&lt;br /&gt;Les v&#233;hicules terrestres suivants sont les plus communs et incluent tous ceux que les personnages peuvent acheter dans Le Manuel des joueurs.&lt;br /&gt;&lt;br /&gt;&lt;table class=&quot;page espace-col&quot;&gt;
+&lt;tr&gt;&lt;td style=&quot;width:40%&quot;&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Char, l&#233;ger&lt;div style=&quot;float:right;&quot;&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;ul&gt;&lt;li&gt;V&#233;hicule terrestre de taille G&lt;/li&gt;&lt;li&gt;&lt;b&gt;Cases&lt;/b&gt; 2 (1,50 m sur 3 m ; 1,50 m de haut) ; &lt;b&gt;Co&#251;t&lt;/b&gt; 50 po&lt;br /&gt;&lt;div class=&quot;box&quot;&gt;D&#233;fense&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;CA&lt;/b&gt; 9 ; &lt;b&gt;Solidit&#233;&lt;/b&gt; 5&lt;/li&gt;&lt;li&gt;&lt;b&gt;pv&lt;/b&gt; 30 (14)&lt;/li&gt;&lt;li&gt;&lt;b&gt;Jet de sauvegarde de base&lt;/b&gt; 0&lt;br /&gt;&lt;div class=&quot;box&quot;&gt;Attaque&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;Vitesse maximale&lt;/b&gt; Deux fois la vitesse des cr&#233;atures qui le tirent ; &lt;b&gt;Acc&#233;l&#233;ration&lt;/b&gt; La vitesse des cr&#233;atures qui le tirent&lt;/li&gt;&lt;li&gt;&lt;b&gt;BMO&lt;/b&gt; +1 ; &lt;b&gt;DMD&lt;/b&gt; 11&lt;/li&gt;&lt;li&gt;&lt;b&gt;D&#233;g&#226;ts de collision&lt;/b&gt; 1d8&lt;br /&gt;&lt;div class=&quot;box&quot;&gt;Description&lt;/div&gt;&lt;/li&gt;&lt;li&gt;Ce v&#233;hicule &#224; deux roues est souvent utilis&#233; pour les courses ou comme plateforme pour un unique archer, parcourant le champ de bataille &#224; grande vitesse.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Propulsion&lt;/b&gt; muscle (tract&#233; ; 2 cr&#233;atures de taille M ou 1 cr&#233;ature de taille G)&lt;/li&gt;&lt;li&gt;&lt;b&gt;Test de conduite&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Dressage.html&quot; title=&quot;Dressage&quot;&gt;Dressage&lt;/a&gt; ou &lt;a class=&quot;pagelink&quot; href=&quot;Profession.html&quot; title=&quot;Profession&quot;&gt;Profession&lt;/a&gt; (conducteur d&#39;attelage) (dans le cas de cr&#233;atures dot&#233;es d&#39;intelligence animale tractant le v&#233;hicule), &lt;a class=&quot;pagelink&quot; href=&quot;Diplomatie.html&quot; title=&quot;Diplomatie&quot;&gt;Diplomatie&lt;/a&gt; ou &lt;a class=&quot;pagelink&quot; href=&quot;Intimidation.html&quot; title=&quot;Intimidation&quot;&gt;Intimidation&lt;/a&gt; (dans le cas de cr&#233;atures intelligentes)&lt;/li&gt;&lt;li&gt;&lt;b&gt;Avant&lt;/b&gt; devant les cr&#233;atures tractant le v&#233;hicule&lt;/li&gt;&lt;li&gt;&lt;b&gt;Syst&#232;me de conduite&lt;/b&gt; r&#234;nes&lt;/li&gt;&lt;li&gt;&lt;b&gt;Espace de conduite&lt;/b&gt; la case la plus en avant du char&lt;/li&gt;&lt;li&gt;&lt;b&gt;Ponts&lt;/b&gt; 1&lt;br /&gt;&lt;/li&gt;&lt;/ul&gt;&lt;br /&gt;&lt;/div&gt;
+&lt;/td&gt;&lt;td width=&quot;40%&quot;&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Char, moyen&lt;div style=&quot;float:right;&quot;&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;ul&gt;&lt;li&gt;V&#233;hicule terrestre de taille G&lt;/li&gt;&lt;li&gt;&lt;b&gt;Cases&lt;/b&gt; 4 (3 m sur 3 m ; 1,50 m de haut) ; &lt;b&gt;Co&#251;t&lt;/b&gt; 100 po&lt;br /&gt;&lt;div class=&quot;box&quot;&gt;D&#233;fense&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;CA&lt;/b&gt; 9 ; &lt;b&gt;Solidit&#233;&lt;/b&gt; 5&lt;/li&gt;&lt;li&gt;&lt;b&gt;pv&lt;/b&gt; 60 (29)&lt;/li&gt;&lt;li&gt;&lt;b&gt;Jet de sauvegarde de base&lt;/b&gt; +1&lt;br /&gt;&lt;div class=&quot;box&quot;&gt;Attaque&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;Vitesse maximale&lt;/b&gt; Deux fois la vitesse des cr&#233;atures qui le tirent ; &lt;b&gt;Acc&#233;l&#233;ration&lt;/b&gt; La vitesse des cr&#233;atures qui le tirent&lt;/li&gt;&lt;li&gt;&lt;b&gt;BMO&lt;/b&gt; +1 ; &lt;b&gt;DMD&lt;/b&gt; 11&lt;/li&gt;&lt;li&gt;&lt;b&gt;D&#233;g&#226;ts de collision&lt;/b&gt; 1d8&lt;br /&gt;&lt;div class=&quot;box&quot;&gt;Description&lt;/div&gt;&lt;/li&gt;&lt;li&gt;Ce v&#233;hicule &#224; deux roues est souvent utilis&#233; sur les champs de bataille pour briser les formations d&#39;infanterie ou comme plateforme de combat mobile rapide.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Propulsion&lt;/b&gt; muscle (tract&#233; ; 4 cr&#233;atures de taille M ou 1 cr&#233;ature de taille G)&lt;/li&gt;&lt;li&gt;&lt;b&gt;Test de conduite&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Dressage.html&quot; title=&quot;Dressage&quot;&gt;Dressage&lt;/a&gt; ou &lt;a class=&quot;pagelink&quot; href=&quot;Profession.html&quot; title=&quot;Profession&quot;&gt;Profession&lt;/a&gt; (conducteur d&#39;attelage) (dans le cas de cr&#233;atures dot&#233;es d&#39;intelligence animale tractant le v&#233;hicule), &lt;a class=&quot;pagelink&quot; href=&quot;Diplomatie.html&quot; title=&quot;Diplomatie&quot;&gt;Diplomatie&lt;/a&gt; ou &lt;a class=&quot;pagelink&quot; href=&quot;Intimidation.html&quot; title=&quot;Intimidation&quot;&gt;Intimidation&lt;/a&gt; (dans le cas de cr&#233;atures intelligentes)&lt;/li&gt;&lt;li&gt;&lt;b&gt;Avant&lt;/b&gt; devant les cr&#233;atures tractant le v&#233;hicule&lt;/li&gt;&lt;li&gt;&lt;b&gt;Syst&#232;me de conduite&lt;/b&gt; r&#234;nes&lt;/li&gt;&lt;li&gt;&lt;b&gt;Espace de conduite&lt;/b&gt; les deux cases les plus en avant du char&lt;/li&gt;&lt;li&gt;&lt;b&gt;Ponts&lt;/b&gt; 1&lt;br /&gt;&lt;/li&gt;&lt;/ul&gt;&lt;br /&gt;&lt;/div&gt;&lt;br /&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td style=&quot;width:40%&quot;&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Char, lourd&lt;div style=&quot;float:right;&quot;&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;ul&gt;&lt;li&gt;V&#233;hicule terrestre de taille G&lt;/li&gt;&lt;li&gt;&lt;b&gt;Cases&lt;/b&gt; 6 (3 m sur 4,50 m ; 1,50 m de haut) ; &lt;b&gt;Co&#251;t&lt;/b&gt; 500 po&lt;br /&gt;&lt;div class=&quot;box&quot;&gt;D&#233;fense&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;CA&lt;/b&gt; 8 ; &lt;b&gt;Solidit&#233;&lt;/b&gt; 5&lt;/li&gt;&lt;li&gt;&lt;b&gt;pv&lt;/b&gt; 80 (44)&lt;/li&gt;&lt;li&gt;&lt;b&gt;Jet de sauvegarde de base&lt;/b&gt; +1&lt;br /&gt;&lt;div class=&quot;box&quot;&gt;Attaque&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;Vitesse maximale&lt;/b&gt; Deux fois la vitesse des cr&#233;atures qui le tirent ; &lt;b&gt;Acc&#233;l&#233;ration&lt;/b&gt; La vitesse des cr&#233;atures qui le tirent&lt;/li&gt;&lt;li&gt;&lt;b&gt;BMO&lt;/b&gt; +2 ; &lt;b&gt;DMD&lt;/b&gt; 12&lt;/li&gt;&lt;li&gt;&lt;b&gt;D&#233;g&#226;ts de collision&lt;/b&gt; 1d8&lt;br /&gt;&lt;div class=&quot;box&quot;&gt;Description&lt;/div&gt;&lt;/li&gt;&lt;li&gt;Ce v&#233;hicule &#224; deux roues est parfois utilis&#233; comme plateforme de combat ou pour transporter une &lt;a class=&quot;unknownlink&quot; href=&quot;Baliste-L&#233;g&#232;re.html&quot; title=&quot;Pathfinder-RPG.baliste l&#233;g&#232;re&quot;&gt;baliste l&#233;g&#232;re&lt;/a&gt; sur le champ de bataille.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Propulsion&lt;/b&gt; muscle (tract&#233; ; 6 cr&#233;atures de taille M ou 2 cr&#233;ature de taille G)&lt;/li&gt;&lt;li&gt;&lt;b&gt;Test de conduite&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Dressage.html&quot; title=&quot;Dressage&quot;&gt;Dressage&lt;/a&gt; ou &lt;a class=&quot;pagelink&quot; href=&quot;Profession.html&quot; title=&quot;Profession&quot;&gt;Profession&lt;/a&gt; (conducteur d&#39;attelage) (dans le cas de cr&#233;atures dot&#233;es d&#39;intelligence animale tractant le v&#233;hicule), &lt;a class=&quot;pagelink&quot; href=&quot;Diplomatie.html&quot; title=&quot;Diplomatie&quot;&gt;Diplomatie&lt;/a&gt; ou &lt;a class=&quot;pagelink&quot; href=&quot;Intimidation.html&quot; title=&quot;Intimidation&quot;&gt;Intimidation&lt;/a&gt; (dans le cas de cr&#233;atures intelligentes)&lt;/li&gt;&lt;li&gt;&lt;b&gt;Avant&lt;/b&gt; devant les cr&#233;atures tractant le v&#233;hicule&lt;/li&gt;&lt;li&gt;&lt;b&gt;Syst&#232;me de conduite&lt;/b&gt; r&#234;nes&lt;/li&gt;&lt;li&gt;&lt;b&gt;Espace de conduite&lt;/b&gt; les deux cases les plus en avant du char&lt;/li&gt;&lt;li&gt;&lt;b&gt;Ponts&lt;/b&gt; 1&lt;/li&gt;&lt;li&gt;&lt;b&gt;Armes&lt;/b&gt; &lt;a class=&quot;unknownlink&quot; href=&quot;Baliste-L&#233;g&#232;re.html&quot; title=&quot;Pathfinder-RPG.baliste l&#233;g&#232;re&quot;&gt;baliste l&#233;g&#232;re&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;&lt;/ul&gt;&lt;br /&gt;&lt;/div&gt;
+&lt;/td&gt;&lt;td width=&quot;40%&quot;&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Chariot, l&#233;ger&lt;div style=&quot;float:right;&quot;&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;ul&gt;&lt;li&gt;V&#233;hicule terrestre de taille G&lt;/li&gt;&lt;li&gt;&lt;b&gt;Cases&lt;/b&gt; 2 (3 m sur 3 m ; 1,50 m de haut) ; &lt;b&gt;Co&#251;t&lt;/b&gt; 50 po&lt;br /&gt;&lt;div class=&quot;box&quot;&gt;D&#233;fense&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;CA&lt;/b&gt; 9 ; &lt;b&gt;Solidit&#233;&lt;/b&gt; 5&lt;/li&gt;&lt;li&gt;&lt;b&gt;pv&lt;/b&gt; 60 (29)&lt;/li&gt;&lt;li&gt;&lt;b&gt;Jet de sauvegarde de base&lt;/b&gt; +1&lt;br /&gt;&lt;div class=&quot;box&quot;&gt;Attaque&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;Vitesse maximale&lt;/b&gt; Deux fois la vitesse des cr&#233;atures qui le tirent ; &lt;b&gt;Acc&#233;l&#233;ration&lt;/b&gt; La moiti&#233; de la vitesse des cr&#233;atures qui le tirent&lt;/li&gt;&lt;li&gt;&lt;b&gt;BMO&lt;/b&gt; +1 ; &lt;b&gt;DMD&lt;/b&gt; 11&lt;/li&gt;&lt;li&gt;&lt;b&gt;D&#233;g&#226;ts de collision&lt;/b&gt; 1d8&lt;br /&gt;&lt;div class=&quot;box&quot;&gt;Description&lt;/div&gt;&lt;/li&gt;&lt;li&gt;Ce v&#233;hicule &#224; quatre roues est id&#233;al pour transporter des quantit&#233;s appr&#233;ciables de biens entre diff&#233;rentes communaut&#233;s. Il peut convoyer jusqu&#39;&#224; 500 kilos de marchandises.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Propulsion&lt;/b&gt; muscle (tract&#233; ; 4 cr&#233;atures de taille M ou 1 cr&#233;ature de taille G)&lt;/li&gt;&lt;li&gt;&lt;b&gt;Test de conduite&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Dressage.html&quot; title=&quot;Dressage&quot;&gt;Dressage&lt;/a&gt; ou &lt;a class=&quot;pagelink&quot; href=&quot;Profession.html&quot; title=&quot;Profession&quot;&gt;Profession&lt;/a&gt; (conducteur d&#39;attelage) (dans le cas de cr&#233;atures dot&#233;es d&#39;intelligence animale tractant le v&#233;hicule), &lt;a class=&quot;pagelink&quot; href=&quot;Diplomatie.html&quot; title=&quot;Diplomatie&quot;&gt;Diplomatie&lt;/a&gt; ou &lt;a class=&quot;pagelink&quot; href=&quot;Intimidation.html&quot; title=&quot;Intimidation&quot;&gt;Intimidation&lt;/a&gt; (dans le cas de cr&#233;atures intelligentes)&lt;/li&gt;&lt;li&gt;&lt;b&gt;Avant&lt;/b&gt; devant les cr&#233;atures tractant le v&#233;hicule&lt;/li&gt;&lt;li&gt;&lt;b&gt;Syst&#232;me de conduite&lt;/b&gt; r&#234;nes&lt;/li&gt;&lt;li&gt;&lt;b&gt;Espace de conduite&lt;/b&gt; les deux cases les plus en avant du chariot&lt;/li&gt;&lt;li&gt;&lt;b&gt;Ponts&lt;/b&gt; 1&lt;br /&gt;&lt;/li&gt;&lt;/ul&gt;&lt;br /&gt;&lt;/div&gt;&lt;br /&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td style=&quot;width:40%&quot;&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Chariot, moyen&lt;div style=&quot;float:right;&quot;&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;ul&gt;&lt;li&gt;V&#233;hicule terrestre de taille G&lt;/li&gt;&lt;li&gt;&lt;b&gt;Cases&lt;/b&gt; 6 (3 m sur 4,50 m ; 1,50 m de haut) ; &lt;b&gt;Co&#251;t&lt;/b&gt; 75 po&lt;br /&gt;&lt;div class=&quot;box&quot;&gt;D&#233;fense&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;CA&lt;/b&gt; 9 ; &lt;b&gt;Solidit&#233;&lt;/b&gt; 5&lt;/li&gt;&lt;li&gt;&lt;b&gt;pv&lt;/b&gt; 90 (44)&lt;/li&gt;&lt;li&gt;&lt;b&gt;Jet de sauvegarde de base&lt;/b&gt; +1&lt;br /&gt;&lt;div class=&quot;box&quot;&gt;Attaque&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;Vitesse maximale&lt;/b&gt; Deux fois la vitesse des cr&#233;atures qui le tirent ; &lt;b&gt;Acc&#233;l&#233;ration&lt;/b&gt; La moiti&#233; de la vitesse des cr&#233;atures qui le tirent&lt;/li&gt;&lt;li&gt;&lt;b&gt;BMO&lt;/b&gt; +1 ; &lt;b&gt;DMD&lt;/b&gt; 11&lt;/li&gt;&lt;li&gt;&lt;b&gt;D&#233;g&#226;ts de collision&lt;/b&gt; 1d8&lt;br /&gt;&lt;div class=&quot;box&quot;&gt;Description&lt;/div&gt;&lt;/li&gt;&lt;li&gt;Ce v&#233;hicule &#224; quatre roues est utilis&#233; pour transporter de grandes quantit&#233;s de biens entre diff&#233;rentes communaut&#233;s et figure parfois dans les caravanes. Il peut convoyer jusqu&#39;&#224; 1 tonne de marchandises.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Propulsion&lt;/b&gt; muscle (tract&#233; ; 4 cr&#233;atures de taille M ou 1 cr&#233;ature de taille G)&lt;/li&gt;&lt;li&gt;&lt;b&gt;Test de conduite&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Dressage.html&quot; title=&quot;Dressage&quot;&gt;Dressage&lt;/a&gt; ou &lt;a class=&quot;pagelink&quot; href=&quot;Profession.html&quot; title=&quot;Profession&quot;&gt;Profession&lt;/a&gt; (conducteur d&#39;attelage) (dans le cas de cr&#233;atures dot&#233;es d&#39;intelligence animale tractant le v&#233;hicule), &lt;a class=&quot;pagelink&quot; href=&quot;Diplomatie.html&quot; title=&quot;Diplomatie&quot;&gt;Diplomatie&lt;/a&gt; ou &lt;a class=&quot;pagelink&quot; href=&quot;Intimidation.html&quot; title=&quot;Intimidation&quot;&gt;Intimidation&lt;/a&gt; (dans le cas de cr&#233;atures intelligentes)&lt;/li&gt;&lt;li&gt;&lt;b&gt;Avant&lt;/b&gt; devant les cr&#233;atures tractant le v&#233;hicule&lt;/li&gt;&lt;li&gt;&lt;b&gt;Syst&#232;me de conduite&lt;/b&gt; r&#234;nes&lt;/li&gt;&lt;li&gt;&lt;b&gt;Espace de conduite&lt;/b&gt; les deux cases les plus en avant du chariot&lt;/li&gt;&lt;li&gt;&lt;b&gt;Ponts&lt;/b&gt; 1&lt;br /&gt;&lt;/li&gt;&lt;/ul&gt;&lt;br /&gt;&lt;/div&gt;
+&lt;/td&gt;&lt;td width=&quot;40%&quot;&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Chariot, lourd&lt;div style=&quot;float:right;&quot;&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;ul&gt;&lt;li&gt;V&#233;hicule terrestre de taille G&lt;/li&gt;&lt;li&gt;&lt;b&gt;Cases&lt;/b&gt; 8 (3 m sur 6 m ; 1,50 m de haut) ; &lt;b&gt;Co&#251;t&lt;/b&gt; 100 po&lt;br /&gt;&lt;div class=&quot;box&quot;&gt;D&#233;fense&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;CA&lt;/b&gt; 9 ; &lt;b&gt;Solidit&#233;&lt;/b&gt; 5&lt;/li&gt;&lt;li&gt;&lt;b&gt;pv&lt;/b&gt; 120 (59)&lt;/li&gt;&lt;li&gt;&lt;b&gt;Jet de sauvegarde de base&lt;/b&gt; +2&lt;br /&gt;&lt;div class=&quot;box&quot;&gt;Attaque&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;Vitesse maximale&lt;/b&gt; Deux fois la vitesse des cr&#233;atures qui le tirent ; &lt;b&gt;Acc&#233;l&#233;ration&lt;/b&gt; La moiti&#233; de la vitesse des cr&#233;atures qui le tirent&lt;/li&gt;&lt;li&gt;&lt;b&gt;BMO&lt;/b&gt; +2 ; &lt;b&gt;DMD&lt;/b&gt; 12&lt;/li&gt;&lt;li&gt;&lt;b&gt;D&#233;g&#226;ts de collision&lt;/b&gt; 2d8&lt;br /&gt;&lt;div class=&quot;box&quot;&gt;Description&lt;/div&gt;&lt;/li&gt;&lt;li&gt;Ce grand v&#233;hicule &#224; quatre roues est utilis&#233; majoritairement dans les caravanes pour transporter des biens sur de longues distances. Ils peuvent convoyer jusqu’&#224; 2 tonnes de marchandises.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Propulsion&lt;/b&gt; muscle (tract&#233; ; 4 cr&#233;atures de taille M ou 1 cr&#233;ature de taille G)&lt;/li&gt;&lt;li&gt;&lt;b&gt;Test de conduite&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Dressage.html&quot; title=&quot;Dressage&quot;&gt;Dressage&lt;/a&gt; ou &lt;a class=&quot;pagelink&quot; href=&quot;Profession.html&quot; title=&quot;Profession&quot;&gt;Profession&lt;/a&gt; (conducteur d&#39;attelage) (dans le cas de cr&#233;atures dot&#233;es d&#39;intelligence animale tractant le v&#233;hicule), &lt;a class=&quot;pagelink&quot; href=&quot;Diplomatie.html&quot; title=&quot;Diplomatie&quot;&gt;Diplomatie&lt;/a&gt; ou &lt;a class=&quot;pagelink&quot; href=&quot;Intimidation.html&quot; title=&quot;Intimidation&quot;&gt;Intimidation&lt;/a&gt; (dans le cas de cr&#233;atures intelligentes)&lt;/li&gt;&lt;li&gt;&lt;b&gt;Avant&lt;/b&gt; devant les cr&#233;atures tractant le v&#233;hicule&lt;/li&gt;&lt;li&gt;&lt;b&gt;Syst&#232;me de conduite&lt;/b&gt; r&#234;nes&lt;/li&gt;&lt;li&gt;&lt;b&gt;Espace de conduite&lt;/b&gt; les deux cases les plus en avant du chariot&lt;/li&gt;&lt;li&gt;&lt;b&gt;Ponts&lt;/b&gt; 1&lt;br /&gt;&lt;/li&gt;&lt;/ul&gt;&lt;br /&gt;&lt;/div&gt;&lt;br /&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td style=&quot;width:40%&quot;&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Charrette&lt;div style=&quot;float:right;&quot;&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;ul&gt;&lt;li&gt;V&#233;hicule terrestre de taille G&lt;/li&gt;&lt;li&gt;&lt;b&gt;Cases&lt;/b&gt; 2 (1,50 m sur 3 m ; 1,50 m de haut) ; &lt;b&gt;Co&#251;t&lt;/b&gt; 15 po&lt;br /&gt;&lt;div class=&quot;box&quot;&gt;D&#233;fense&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;CA&lt;/b&gt; 9 ; &lt;b&gt;Solidit&#233;&lt;/b&gt; 5&lt;/li&gt;&lt;li&gt;&lt;b&gt;pv&lt;/b&gt; 30 (14)&lt;/li&gt;&lt;li&gt;&lt;b&gt;Jet de sauvegarde de base&lt;/b&gt; 0&lt;br /&gt;&lt;div class=&quot;box&quot;&gt;Attaque&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;Vitesse maximale&lt;/b&gt; Deux fois la vitesse des cr&#233;atures qui le tirent - 3 m ; &lt;b&gt;Acc&#233;l&#233;ration&lt;/b&gt; La vitesse des cr&#233;atures qui le tirent - 3 m&lt;/li&gt;&lt;li&gt;&lt;b&gt;BMO&lt;/b&gt; +1 ; &lt;b&gt;DMD&lt;/b&gt; 11&lt;/li&gt;&lt;li&gt;&lt;b&gt;D&#233;g&#226;ts de collision&lt;/b&gt; 1d8&lt;br /&gt;&lt;div class=&quot;box&quot;&gt;Description&lt;/div&gt;&lt;/li&gt;&lt;li&gt;Ce v&#233;hicule &#224; deux roues est souvent utilis&#233; pour transporter de petits chargements de marchandises (jusqu&#39;&#224; 150 kilos).&lt;/li&gt;&lt;li&gt;&lt;b&gt;Propulsion&lt;/b&gt; muscle (tract&#233; ; 2 cr&#233;atures de taille M ou 1 cr&#233;ature de taille G)&lt;/li&gt;&lt;li&gt;&lt;b&gt;Test de conduite&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Dressage.html&quot; title=&quot;Dressage&quot;&gt;Dressage&lt;/a&gt; ou &lt;a class=&quot;pagelink&quot; href=&quot;Profession.html&quot; title=&quot;Profession&quot;&gt;Profession&lt;/a&gt; (conducteur d&#39;attelage) (dans le cas de cr&#233;atures dot&#233;es d&#39;intelligence animale tractant le v&#233;hicule), &lt;a class=&quot;pagelink&quot; href=&quot;Diplomatie.html&quot; title=&quot;Diplomatie&quot;&gt;Diplomatie&lt;/a&gt; ou &lt;a class=&quot;pagelink&quot; href=&quot;Intimidation.html&quot; title=&quot;Intimidation&quot;&gt;Intimidation&lt;/a&gt; (dans le cas de cr&#233;atures intelligentes)&lt;/li&gt;&lt;li&gt;&lt;b&gt;Avant&lt;/b&gt; devant les cr&#233;atures tractant le v&#233;hicule&lt;/li&gt;&lt;li&gt;&lt;b&gt;Syst&#232;me de conduite&lt;/b&gt; r&#234;nes&lt;/li&gt;&lt;li&gt;&lt;b&gt;Espace de conduite&lt;/b&gt; la case la plus en avant de la charrette&lt;/li&gt;&lt;li&gt;&lt;b&gt;Ponts&lt;/b&gt; 1&lt;br /&gt;&lt;/li&gt;&lt;/ul&gt;&lt;br /&gt;&lt;/div&gt;
+&lt;/td&gt;&lt;td width=&quot;40%&quot;&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Diligence&lt;div style=&quot;float:right;&quot;&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;ul&gt;&lt;li&gt;V&#233;hicule terrestre de taille G&lt;/li&gt;&lt;li&gt;&lt;b&gt;Cases&lt;/b&gt; 6 (3 m sur 4,50 m ; 1,80 m de haut) ; &lt;b&gt;Co&#251;t&lt;/b&gt; 100 po&lt;br /&gt;&lt;div class=&quot;box&quot;&gt;D&#233;fense&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;CA&lt;/b&gt; 9 ; &lt;b&gt;Solidit&#233;&lt;/b&gt; 5&lt;/li&gt;&lt;li&gt;&lt;b&gt;pv&lt;/b&gt; 90 (44)&lt;/li&gt;&lt;li&gt;&lt;b&gt;Jet de sauvegarde de base&lt;/b&gt; +1&lt;br /&gt;&lt;div class=&quot;box&quot;&gt;Attaque&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;Vitesse maximale&lt;/b&gt; Deux fois la vitesse des cr&#233;atures qui le tirent ; &lt;b&gt;Acc&#233;l&#233;ration&lt;/b&gt; La vitesse des cr&#233;atures qui le tirent&lt;/li&gt;&lt;li&gt;&lt;b&gt;BMO&lt;/b&gt; +1 ; &lt;b&gt;DMD&lt;/b&gt; 11&lt;/li&gt;&lt;li&gt;&lt;b&gt;D&#233;g&#226;ts de collision&lt;/b&gt; 1d8&lt;br /&gt;&lt;div class=&quot;box&quot;&gt;Description&lt;/div&gt;&lt;/li&gt;&lt;li&gt;Ce v&#233;hicule &#224; quatre roues peut transporter jusqu&#39;&#224; 4 personnes dans un compartiment couvert, en plus d&#39;un conducteur et d&#39;une autre personne assise &#224; c&#244;t&#233; de lui (souvent arm&#233;e). Le toit de la diligence peut transporter jusqu&#39;&#224; 100 kilos de marchandises.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Propulsion&lt;/b&gt; muscle (tract&#233; ; 4 cr&#233;atures de taille M ou 1 cr&#233;ature de taille G)&lt;/li&gt;&lt;li&gt;&lt;b&gt;Test de conduite&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Dressage.html&quot; title=&quot;Dressage&quot;&gt;Dressage&lt;/a&gt; ou &lt;a class=&quot;pagelink&quot; href=&quot;Profession.html&quot; title=&quot;Profession&quot;&gt;Profession&lt;/a&gt; (conducteur d&#39;attelage) (dans le cas de cr&#233;atures dot&#233;es d&#39;intelligence animale tractant le v&#233;hicule), &lt;a class=&quot;pagelink&quot; href=&quot;Diplomatie.html&quot; title=&quot;Diplomatie&quot;&gt;Diplomatie&lt;/a&gt; ou &lt;a class=&quot;pagelink&quot; href=&quot;Intimidation.html&quot; title=&quot;Intimidation&quot;&gt;Intimidation&lt;/a&gt; (dans le cas de cr&#233;atures intelligentes)&lt;/li&gt;&lt;li&gt;&lt;b&gt;Avant&lt;/b&gt; devant les cr&#233;atures tractant le v&#233;hicule&lt;/li&gt;&lt;li&gt;&lt;b&gt;Syst&#232;me de conduite&lt;/b&gt; r&#234;nes&lt;/li&gt;&lt;li&gt;&lt;b&gt;Espace de conduite&lt;/b&gt; les deux cases les plus en avant du chariot&lt;/li&gt;&lt;li&gt;&lt;b&gt;Ponts&lt;/b&gt; 1&lt;br /&gt;&lt;/li&gt;&lt;/ul&gt;&lt;br /&gt;&lt;/div&gt;&lt;br /&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td style=&quot;width:40%&quot;&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;G&#233;ant de vapeur&lt;div style=&quot;float:right;&quot;&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;ul&gt;&lt;li&gt;V&#233;hicule terrestre de taille Gig&lt;/li&gt;&lt;li&gt;&lt;b&gt;Cases&lt;/b&gt; 16 (6 m sur 6 m ; 7,50 m de haut) ; &lt;b&gt;Co&#251;t&lt;/b&gt; 80 000 po&lt;br /&gt;&lt;div class=&quot;box&quot;&gt;D&#233;fense&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;CA&lt;/b&gt; 6 ; &lt;b&gt;Solidit&#233;&lt;/b&gt; 10&lt;/li&gt;&lt;li&gt;&lt;b&gt;pv&lt;/b&gt; 320 (159)&lt;/li&gt;&lt;li&gt;&lt;b&gt;Jet de sauvegarde de base&lt;/b&gt; +3&lt;br /&gt;&lt;div class=&quot;box&quot;&gt;Attaque&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;Vitesse maximale&lt;/b&gt; 18 m (12 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) ; &lt;b&gt;Acc&#233;l&#233;ration&lt;/b&gt; 9 m (6 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)&lt;/li&gt;&lt;li&gt;&lt;b&gt;BMO&lt;/b&gt; +4 ; &lt;b&gt;DMD&lt;/b&gt; 14&lt;/li&gt;&lt;li&gt;&lt;b&gt;D&#233;g&#226;ts de collision&lt;/b&gt; 4d8&lt;br /&gt;&lt;div class=&quot;box&quot;&gt;Description&lt;/div&gt;&lt;/li&gt;&lt;li&gt;Cette monstruosit&#233; ambulante est heureusement excessivement rare et ch&#232;re, et c&#39;est l&#39;un des v&#233;hicules terrestres les plus bizarres qui existent. Chaudron d&#39;acier g&#233;ant pos&#233; sur des jambes courtaudes mais efficaces, il avance clopin-clopant sur le champ de bataille en grin&#231;ant. Pour le faire fonctionner pendant 1 heure, il faut d&#233;penser 100 po de r&#233;actifs alchimiques. Les cr&#233;atures &#224; l&#39;int&#233;rieur du g&#233;ant de vapeur b&#233;n&#233;ficient d&#39;un &lt;a class=&quot;unknownlink&quot; href=&quot;Abri-Total.html&quot; title=&quot;Pathfinder-RPG.abri total&quot;&gt;abri total&lt;/a&gt; (sur les ponts inf&#233;rieurs) ou d&#39;un &lt;a class=&quot;unknownlink&quot; href=&quot;Abri-Am&#233;lior&#233;.html&quot; title=&quot;Pathfinder-RPG.abri am&#233;lior&#233;&quot;&gt;abri am&#233;lior&#233;&lt;/a&gt; (sur le pont sup&#233;rieur, l&#224; o&#249; on voit l&#39;ext&#233;rieur et o&#249; l&#39;on contr&#244;le le v&#233;hicule). Seul le pont sup&#233;rieur poss&#232;de des fen&#234;tres permettant &#224; ceux qui se trouvent dans le g&#233;ant de vapeur de regarder dehors.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Propulsion&lt;/b&gt; alchimique (10 cases de moteurs alchimiques ; solidit&#233; 8, pv 200)&lt;/li&gt;&lt;li&gt;&lt;b&gt;Test de conduite&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Connaissances.html&quot; title=&quot;Connaissances&quot;&gt;Connaissances&lt;/a&gt; (myst&#232;res) ou &lt;a class=&quot;pagelink&quot; href=&quot;Artisanat.html&quot; title=&quot;Artisanat&quot;&gt;Artisanat&lt;/a&gt; (alchimie), &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DEGREDEDIFFICULTE&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; +10&lt;/li&gt;&lt;li&gt;&lt;b&gt;Avant&lt;/b&gt; une face de l&#39;espace de conduite ext&#233;rieur&lt;/li&gt;&lt;li&gt;&lt;b&gt;Syst&#232;me de conduite&lt;/b&gt; deux leviers utilis&#233;s pour bouger les jambes&lt;/li&gt;&lt;li&gt;&lt;b&gt;Espace de conduite&lt;/b&gt; 1 seule case de 1,50 m sur 1,50 m contenant les deux leviers qui servent de syst&#232;me de conduite au g&#233;ant de vapeur ; ces leviers sont situ&#233;s sur le troisi&#232;me pont du v&#233;hicule (tout en haut)&lt;/li&gt;&lt;li&gt;&lt;b&gt;&#201;quipage&lt;/b&gt; 4&lt;/li&gt;&lt;li&gt;&lt;b&gt;Passagers&lt;/b&gt; 6&lt;/li&gt;&lt;li&gt;&lt;b&gt;Ponts&lt;/b&gt; 3 ; Les deux ponts inf&#233;rieurs donnent acc&#232;s au moteur alchimique qui propulse le g&#233;ant de vapeur. Ils sont d&#233;pourvus de fen&#234;tre ou d&#39;ouverture permettant de voir en dehors du v&#233;hicule. Le pont sup&#233;rieur est un observatoire contenant le syst&#232;me et l&#39;espace de conduite du g&#233;ant.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Armes&lt;/b&gt; 2 engins de si&#232;ge &#224; tir direct sur les bras&lt;br /&gt;&lt;/li&gt;&lt;/ul&gt;&lt;br /&gt;&lt;/div&gt;
+&lt;/td&gt;&lt;td width=&quot;40%&quot;&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Tra&#238;neau&lt;div style=&quot;float:right;&quot;&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;ul&gt;&lt;li&gt;V&#233;hicule terrestre de taille G&lt;/li&gt;&lt;li&gt;&lt;b&gt;Cases&lt;/b&gt; 4 (3 m sur 3 m ; 1,50 m de haut ou 4 m avec les voiles) ; &lt;b&gt;Co&#251;t&lt;/b&gt; 100 po&lt;br /&gt;&lt;div class=&quot;box&quot;&gt;D&#233;fense&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;CA&lt;/b&gt; 9 ; &lt;b&gt;Solidit&#233;&lt;/b&gt; 5&lt;/li&gt;&lt;li&gt;&lt;b&gt;pv&lt;/b&gt; 90 (44)&lt;/li&gt;&lt;li&gt;&lt;b&gt;Jet de sauvegarde de base&lt;/b&gt; +1&lt;br /&gt;&lt;div class=&quot;box&quot;&gt;Attaque&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;Vitesse maximale&lt;/b&gt; Deux fois la vitesse des cr&#233;atures qui le tirent (muscle), ou 30 m (20 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;, courants) ; &lt;b&gt;Acc&#233;l&#233;ration&lt;/b&gt; La moiti&#233; de la vitesse des cr&#233;atures qui le tirent (muscle), ou 9 m (6 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;, courants)&lt;/li&gt;&lt;li&gt;&lt;b&gt;BMO&lt;/b&gt; +1 ; &lt;b&gt;DMD&lt;/b&gt; 11&lt;/li&gt;&lt;li&gt;&lt;b&gt;D&#233;g&#226;ts de collision&lt;/b&gt; 1d8&lt;br /&gt;&lt;div class=&quot;box&quot;&gt;Description&lt;/div&gt;&lt;/li&gt;&lt;li&gt;Ce chariot ouvert utilise une paire de patins au lieu de roues. On l&#39;utilise pour voyager sur la neige et la glace, et il ne peut se d&#233;placer qu&#39; la moiti&#233; de sa vitesse sur les autres surfaces. Les tra&#238;neaux sont en g&#233;n&#233;ral tir&#233;s par des chevaux ou des cr&#233;atures adapt&#233;es &#224; ce genre de v&#233;hicule, mais certains sont propuls&#233;s par des voilures de taille TG (8 cases). S&#39;il utilise sa voile, le tra&#238;neau n&#39;a pas de place pour des passagers ou de la marchandise.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Propulsion&lt;/b&gt; muscle (tract&#233; ; 4 cr&#233;atures de taille M ou 1 cr&#233;ature de taille G ; sur la glace, les cr&#233;atures doivent &#234;tre munies de griffes plut&#244;t que de sabots) ou courant (air ; voile de 8 cases ; pv 40)&lt;/li&gt;&lt;li&gt;&lt;b&gt;Test de conduite&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Dressage.html&quot; title=&quot;Dressage&quot;&gt;Dressage&lt;/a&gt; ou &lt;a class=&quot;pagelink&quot; href=&quot;Profession.html&quot; title=&quot;Profession&quot;&gt;Profession&lt;/a&gt; (conducteur d&#39;attelage) (dans le cas de cr&#233;atures dot&#233;es d&#39;intelligence animale tractant le v&#233;hicule), &lt;a class=&quot;pagelink&quot; href=&quot;Diplomatie.html&quot; title=&quot;Diplomatie&quot;&gt;Diplomatie&lt;/a&gt; ou &lt;a class=&quot;pagelink&quot; href=&quot;Intimidation.html&quot; title=&quot;Intimidation&quot;&gt;Intimidation&lt;/a&gt; (dans le cas de cr&#233;atures intelligentes), ou &lt;a class=&quot;pagelink&quot; href=&quot;Acrobaties.html&quot; title=&quot;Acrobaties&quot;&gt;Acrobaties&lt;/a&gt; (dans le cas de courants a&#233;riens ; &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DEGREDEDIFFICULTE&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; +10)&lt;/li&gt;&lt;li&gt;&lt;b&gt;Avant&lt;/b&gt; devant les cr&#233;atures tractant le v&#233;hicule, ou &#224; l&#39;avant du tra&#238;neau si celui-ci est propuls&#233; par sa voile&lt;/li&gt;&lt;li&gt;&lt;b&gt;Syst&#232;me de conduite&lt;/b&gt; r&#234;nes (muscle) ou gr&#233;ement (air)&lt;/li&gt;&lt;li&gt;&lt;b&gt;Espace de conduite&lt;/b&gt; les deux cases les plus en avant du chariot&lt;/li&gt;&lt;li&gt;&lt;b&gt;Ponts&lt;/b&gt; 1&lt;br /&gt;&lt;/li&gt;&lt;/ul&gt;&lt;br /&gt;&lt;/div&gt;&lt;br /&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[{s:MenuVehicules}
+{s:UC}''Les règles de base donnent une idée générale du comportement des véhicules durant le round de combat et de leurs différences avec des créatures. Les  parties suivantes approfondissent la manière de les gérer pendant le combat.''
+
+Les véhicules terrestres transportent des passagers et des marchandises sur la terre ferme ou un terrain similaire. Ils sont en général propulsés par l’énergie musculaire mais peuvent être déplacés par différentes méthodes.
+
+Les véhicules terrestres suivants sont les plus communs et incluent tous ceux que les personnages peuvent acheter dans Le Manuel des joueurs.
+
+<table class="page espace-col">
+<tr><td style="width:40%">
+<div class="BD">
+{s:BDTitre|Char, léger|}
+* Véhicule terrestre de taille G
+* '''Cases''' 2 (1,50 m sur 3 m ; 1,50 m de haut) ; '''Coût''' 50 po
+(((Défense)))
+* '''CA''' 9 ; '''Solidité''' 5
+* '''pv''' 30 (14)
+* '''Jet de sauvegarde de base''' 0
+(((Attaque)))
+* '''Vitesse maximale''' Deux fois la vitesse des créatures qui le tirent ; '''Accélération''' La vitesse des créatures qui le tirent
+* '''BMO''' +1 ; '''DMD''' 11
+* '''Dégâts de collision''' 1d8
+(((Description)))
+* Ce véhicule à deux roues est souvent utilisé pour les courses ou comme plateforme pour un unique archer, parcourant le champ de bataille à grande vitesse.
+* '''Propulsion''' muscle (tracté ; 2 créatures de taille M ou 1 créature de taille G)
+* '''Test de conduite''' [[Dressage]] ou [[Profession]] (conducteur d'attelage) (dans le cas de créatures dotées d'intelligence animale tractant le véhicule), [[Diplomatie]] ou [[Intimidation]] (dans le cas de créatures intelligentes)
+* '''Avant''' devant les créatures tractant le véhicule
+* '''Système de conduite''' rênes
+* '''Espace de conduite''' la case la plus en avant du char
+* '''Ponts''' 1
+
+</div>
+</td><td width="40%">
+<div class="BD">
+{s:BDTitre|Char, moyen|}
+* Véhicule terrestre de taille G
+* '''Cases''' 4 (3 m sur 3 m ; 1,50 m de haut) ; '''Coût''' 100 po
+(((Défense)))
+* '''CA''' 9 ; '''Solidité''' 5
+* '''pv''' 60 (29)
+* '''Jet de sauvegarde de base''' +1
+(((Attaque)))
+* '''Vitesse maximale''' Deux fois la vitesse des créatures qui le tirent ; '''Accélération''' La vitesse des créatures qui le tirent
+* '''BMO''' +1 ; '''DMD''' 11
+* '''Dégâts de collision''' 1d8
+(((Description)))
+* Ce véhicule à deux roues est souvent utilisé sur les champs de bataille pour briser les formations d'infanterie ou comme plateforme de combat mobile rapide.
+* '''Propulsion''' muscle (tracté ; 4 créatures de taille M ou 1 créature de taille G)
+* '''Test de conduite''' [[Dressage]] ou [[Profession]] (conducteur d'attelage) (dans le cas de créatures dotées d'intelligence animale tractant le véhicule), [[Diplomatie]] ou [[Intimidation]] (dans le cas de créatures intelligentes)
+* '''Avant''' devant les créatures tractant le véhicule
+* '''Système de conduite''' rênes
+* '''Espace de conduite''' les deux cases les plus en avant du char
+* '''Ponts''' 1
+
+</div>
+
+</td></tr>
+<tr><td style="width:40%">
+<div class="BD">
+{s:BDTitre|Char, lourd|}
+* Véhicule terrestre de taille G
+* '''Cases''' 6 (3 m sur 4,50 m ; 1,50 m de haut) ; '''Coût''' 500 po
+(((Défense)))
+* '''CA''' 8 ; '''Solidité''' 5
+* '''pv''' 80 (44)
+* '''Jet de sauvegarde de base''' +1
+(((Attaque)))
+* '''Vitesse maximale''' Deux fois la vitesse des créatures qui le tirent ; '''Accélération''' La vitesse des créatures qui le tirent
+* '''BMO''' +2 ; '''DMD''' 12
+* '''Dégâts de collision''' 1d8
+(((Description)))
+* Ce véhicule à deux roues est parfois utilisé comme plateforme de combat ou pour transporter une [[baliste légère]] sur le champ de bataille.
+* '''Propulsion''' muscle (tracté ; 6 créatures de taille M ou 2 créature de taille G)
+* '''Test de conduite''' [[Dressage]] ou [[Profession]] (conducteur d'attelage) (dans le cas de créatures dotées d'intelligence animale tractant le véhicule), [[Diplomatie]] ou [[Intimidation]] (dans le cas de créatures intelligentes)
+* '''Avant''' devant les créatures tractant le véhicule
+* '''Système de conduite''' rênes
+* '''Espace de conduite''' les deux cases les plus en avant du char
+* '''Ponts''' 1
+* '''Armes''' [[baliste légère]]
+
+</div>
+</td><td width="40%">
+<div class="BD">
+{s:BDTitre|Chariot, léger|}
+* Véhicule terrestre de taille G
+* '''Cases''' 2 (3 m sur 3 m ; 1,50 m de haut) ; '''Coût''' 50 po
+(((Défense)))
+* '''CA''' 9 ; '''Solidité''' 5
+* '''pv''' 60 (29)
+* '''Jet de sauvegarde de base''' +1
+(((Attaque)))
+* '''Vitesse maximale''' Deux fois la vitesse des créatures qui le tirent ; '''Accélération''' La moitié de la vitesse des créatures qui le tirent
+* '''BMO''' +1 ; '''DMD''' 11
+* '''Dégâts de collision''' 1d8
+(((Description)))
+* Ce véhicule à quatre roues est idéal pour transporter des quantités appréciables de biens entre différentes communautés. Il peut convoyer jusqu'à 500 kilos de marchandises.
+* '''Propulsion''' muscle (tracté ; 4 créatures de taille M ou 1 créature de taille G)
+* '''Test de conduite''' [[Dressage]] ou [[Profession]] (conducteur d'attelage) (dans le cas de créatures dotées d'intelligence animale tractant le véhicule), [[Diplomatie]] ou [[Intimidation]] (dans le cas de créatures intelligentes)
+* '''Avant''' devant les créatures tractant le véhicule
+* '''Système de conduite''' rênes
+* '''Espace de conduite''' les deux cases les plus en avant du chariot
+* '''Ponts''' 1
+
+</div>
+
+</td></tr>
+<tr><td style="width:40%">
+<div class="BD">
+{s:BDTitre|Chariot, moyen|}
+* Véhicule terrestre de taille G
+* '''Cases''' 6 (3 m sur 4,50 m ; 1,50 m de haut) ; '''Coût''' 75 po
+(((Défense)))
+* '''CA''' 9 ; '''Solidité''' 5
+* '''pv''' 90 (44)
+* '''Jet de sauvegarde de base''' +1
+(((Attaque)))
+* '''Vitesse maximale''' Deux fois la vitesse des créatures qui le tirent ; '''Accélération''' La moitié de la vitesse des créatures qui le tirent
+* '''BMO''' +1 ; '''DMD''' 11
+* '''Dégâts de collision''' 1d8
+(((Description)))
+* Ce véhicule à quatre roues est utilisé pour transporter de grandes quantités de biens entre différentes communautés et figure parfois dans les caravanes. Il peut convoyer jusqu'à 1 tonne de marchandises.
+* '''Propulsion''' muscle (tracté ; 4 créatures de taille M ou 1 créature de taille G)
+* '''Test de conduite''' [[Dressage]] ou [[Profession]] (conducteur d'attelage) (dans le cas de créatures dotées d'intelligence animale tractant le véhicule), [[Diplomatie]] ou [[Intimidation]] (dans le cas de créatures intelligentes)
+* '''Avant''' devant les créatures tractant le véhicule
+* '''Système de conduite''' rênes
+* '''Espace de conduite''' les deux cases les plus en avant du chariot
+* '''Ponts''' 1
+
+</div>
+</td><td width="40%">
+<div class="BD">
+{s:BDTitre|Chariot, lourd|}
+* Véhicule terrestre de taille G
+* '''Cases''' 8 (3 m sur 6 m ; 1,50 m de haut) ; '''Coût''' 100 po
+(((Défense)))
+* '''CA''' 9 ; '''Solidité''' 5
+* '''pv''' 120 (59)
+* '''Jet de sauvegarde de base''' +2
+(((Attaque)))
+* '''Vitesse maximale''' Deux fois la vitesse des créatures qui le tirent ; '''Accélération''' La moitié de la vitesse des créatures qui le tirent
+* '''BMO''' +2 ; '''DMD''' 12
+* '''Dégâts de collision''' 2d8
+(((Description)))
+* Ce grand véhicule à quatre roues est utilisé majoritairement dans les caravanes pour transporter des biens sur de longues distances. Ils peuvent convoyer jusqu’à 2 tonnes de marchandises.
+* '''Propulsion''' muscle (tracté ; 4 créatures de taille M ou 1 créature de taille G)
+* '''Test de conduite''' [[Dressage]] ou [[Profession]] (conducteur d'attelage) (dans le cas de créatures dotées d'intelligence animale tractant le véhicule), [[Diplomatie]] ou [[Intimidation]] (dans le cas de créatures intelligentes)
+* '''Avant''' devant les créatures tractant le véhicule
+* '''Système de conduite''' rênes
+* '''Espace de conduite''' les deux cases les plus en avant du chariot
+* '''Ponts''' 1
+
+</div>
+
+</td></tr>
+<tr><td style="width:40%">
+<div class="BD">
+{s:BDTitre|Charrette|}
+* Véhicule terrestre de taille G
+* '''Cases''' 2 (1,50 m sur 3 m ; 1,50 m de haut) ; '''Coût''' 15 po
+(((Défense)))
+* '''CA''' 9 ; '''Solidité''' 5
+* '''pv''' 30 (14)
+* '''Jet de sauvegarde de base''' 0
+(((Attaque)))
+* '''Vitesse maximale''' Deux fois la vitesse des créatures qui le tirent - 3 m ; '''Accélération''' La vitesse des créatures qui le tirent - 3 m
+* '''BMO''' +1 ; '''DMD''' 11
+* '''Dégâts de collision''' 1d8
+(((Description)))
+* Ce véhicule à deux roues est souvent utilisé pour transporter de petits chargements de marchandises (jusqu'à 150 kilos).
+* '''Propulsion''' muscle (tracté ; 2 créatures de taille M ou 1 créature de taille G)
+* '''Test de conduite''' [[Dressage]] ou [[Profession]] (conducteur d'attelage) (dans le cas de créatures dotées d'intelligence animale tractant le véhicule), [[Diplomatie]] ou [[Intimidation]] (dans le cas de créatures intelligentes)
+* '''Avant''' devant les créatures tractant le véhicule
+* '''Système de conduite''' rênes
+* '''Espace de conduite''' la case la plus en avant de la charrette
+* '''Ponts''' 1
+
+</div>
+</td><td width="40%">
+<div class="BD">
+{s:BDTitre|Diligence|}
+* Véhicule terrestre de taille G
+* '''Cases''' 6 (3 m sur 4,50 m ; 1,80 m de haut) ; '''Coût''' 100 po
+(((Défense)))
+* '''CA''' 9 ; '''Solidité''' 5
+* '''pv''' 90 (44)
+* '''Jet de sauvegarde de base''' +1
+(((Attaque)))
+* '''Vitesse maximale''' Deux fois la vitesse des créatures qui le tirent ; '''Accélération''' La vitesse des créatures qui le tirent
+* '''BMO''' +1 ; '''DMD''' 11
+* '''Dégâts de collision''' 1d8
+(((Description)))
+* Ce véhicule à quatre roues peut transporter jusqu'à 4 personnes dans un compartiment couvert, en plus d'un conducteur et d'une autre personne assise à côté de lui (souvent armée). Le toit de la diligence peut transporter jusqu'à 100 kilos de marchandises.
+* '''Propulsion''' muscle (tracté ; 4 créatures de taille M ou 1 créature de taille G)
+* '''Test de conduite''' [[Dressage]] ou [[Profession]] (conducteur d'attelage) (dans le cas de créatures dotées d'intelligence animale tractant le véhicule), [[Diplomatie]] ou [[Intimidation]] (dans le cas de créatures intelligentes)
+* '''Avant''' devant les créatures tractant le véhicule
+* '''Système de conduite''' rênes
+* '''Espace de conduite''' les deux cases les plus en avant du chariot
+* '''Ponts''' 1
+
+</div>
+
+</td></tr>
+<tr><td style="width:40%">
+<div class="BD">
+{s:BDTitre|Géant de vapeur|}
+* Véhicule terrestre de taille Gig
+* '''Cases''' 16 (6 m sur 6 m ; 7,50 m de haut) ; '''Coût''' 80 000 po
+(((Défense)))
+* '''CA''' 6 ; '''Solidité''' 10
+* '''pv''' 320 (159)
+* '''Jet de sauvegarde de base''' +3
+(((Attaque)))
+* '''Vitesse maximale''' 18 m (12 {s:c}) ; '''Accélération''' 9 m (6 {s:c})
+* '''BMO''' +4 ; '''DMD''' 14
+* '''Dégâts de collision''' 4d8
+(((Description)))
+* Cette monstruosité ambulante est heureusement excessivement rare et chère, et c'est l'un des véhicules terrestres les plus bizarres qui existent. Chaudron d'acier géant posé sur des jambes courtaudes mais efficaces, il avance clopin-clopant sur le champ de bataille en grinçant. Pour le faire fonctionner pendant 1 heure, il faut dépenser 100 po de réactifs alchimiques. Les créatures à l'intérieur du géant de vapeur bénéficient d'un [[abri total]] (sur les ponts inférieurs) ou d'un [[abri amélioré]] (sur le pont supérieur, là où on voit l'extérieur et où l'on contrôle le véhicule). Seul le pont supérieur possède des fenêtres permettant à ceux qui se trouvent dans le géant de vapeur de regarder dehors.
+* '''Propulsion''' alchimique (10 cases de moteurs alchimiques ; solidité 8, pv 200)
+* '''Test de conduite''' [[Connaissances]] (mystères) ou [[Artisanat]] (alchimie), [[DD]] +10
+* '''Avant''' une face de l'espace de conduite extérieur
+* '''Système de conduite''' deux leviers utilisés pour bouger les jambes
+* '''Espace de conduite''' 1 seule case de 1,50 m sur 1,50 m contenant les deux leviers qui servent de système de conduite au géant de vapeur ; ces leviers sont situés sur le troisième pont du véhicule (tout en haut)
+* '''Équipage''' 4
+* '''Passagers''' 6
+* '''Ponts''' 3 ; Les deux ponts inférieurs donnent accès au moteur alchimique qui propulse le géant de vapeur. Ils sont dépourvus de fenêtre ou d'ouverture permettant de voir en dehors du véhicule. Le pont supérieur est un observatoire contenant le système et l'espace de conduite du géant.
+* '''Armes''' 2 engins de siège à tir direct sur les bras
+
+</div>
+</td><td width="40%">
+<div class="BD">
+{s:BDTitre|Traîneau|}
+* Véhicule terrestre de taille G
+* '''Cases''' 4 (3 m sur 3 m ; 1,50 m de haut ou 4 m avec les voiles) ; '''Coût''' 100 po
+(((Défense)))
+* '''CA''' 9 ; '''Solidité''' 5
+* '''pv''' 90 (44)
+* '''Jet de sauvegarde de base''' +1
+(((Attaque)))
+* '''Vitesse maximale''' Deux fois la vitesse des créatures qui le tirent (muscle), ou 30 m (20 {s:c}, courants) ; '''Accélération''' La moitié de la vitesse des créatures qui le tirent (muscle), ou 9 m (6 {s:c}, courants)
+* '''BMO''' +1 ; '''DMD''' 11
+* '''Dégâts de collision''' 1d8
+(((Description)))
+* Ce chariot ouvert utilise une paire de patins au lieu de roues. On l'utilise pour voyager sur la neige et la glace, et il ne peut se déplacer qu' la moitié de sa vitesse sur les autres surfaces. Les traîneaux sont en général tirés par des chevaux ou des créatures adaptées à ce genre de véhicule, mais certains sont propulsés par des voilures de taille TG (8 cases). S'il utilise sa voile, le traîneau n'a pas de place pour des passagers ou de la marchandise.
+* '''Propulsion''' muscle (tracté ; 4 créatures de taille M ou 1 créature de taille G ; sur la glace, les créatures doivent être munies de griffes plutôt que de sabots) ou courant (air ; voile de 8 cases ; pv 40)
+* '''Test de conduite''' [[Dressage]] ou [[Profession]] (conducteur d'attelage) (dans le cas de créatures dotées d'intelligence animale tractant le véhicule), [[Diplomatie]] ou [[Intimidation]] (dans le cas de créatures intelligentes), ou [[Acrobaties]] (dans le cas de courants aériens ; [[DD]] +10)
+* '''Avant''' devant les créatures tractant le véhicule, ou à l'avant du traîneau si celui-ci est propulsé par sa voile
+* '''Système de conduite''' rênes (muscle) ou gréement (air)
+* '''Espace de conduite''' les deux cases les plus en avant du chariot
+* '''Ponts''' 1
+
+</div>
+
+</td></tr></table>
+]]></raw>
+  <fullName>Pathfinder-RPG.Véhicules terrestres (véhicules)</fullName>
+</wikiPage>

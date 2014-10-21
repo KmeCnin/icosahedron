@@ -1,0 +1,236 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Homoncule</title>
+  <categories><category>Pathfinder-RPG.Bestiaire</category><category>Pathfinder-RPG.Monstre</category><category>Pathfinder-RPG.Règles officielles</category></categories>
+  <lastModified>2013-10-21 23:20:54Z</lastModified>
+  <version>6</version>
+  <inLinks><link>Pathfinder-RPG.Créatures artificielles</link><link>Pathfinder-RPG.Familier supérieur</link><link>Pathfinder-RPG.Glossaire des monstres</link><link>Pathfinder-RPG.Liste de monstres par FP</link><link>Pathfinder-RPG.Liste de monstres par milieu naturel</link><link>Pathfinder-RPG.Liste de monstres par type</link><link>Pathfinder-RPG.Monstres</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.type Créature artificielle</link><link>Pathfinder-RPG.vision dans le noir</link><link>Pathfinder-RPG.vision nocturne</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Traits des créatures artificielles</link><link>Pathfinder-RPG.Réflexes surhumains</link><link>Pathfinder-RPG.Discrétion</link><link>Pathfinder-RPG.Vol</link><link>Pathfinder-RPG.Vigueur</link><link>Pathfinder-RPG.DD</link><link>Pathfinder-RPG.Constitution</link><link>Pathfinder-RPG.Création de créatures artificielles</link><link>Pathfinder-RPG.Image miroir</link><link>Pathfinder-RPG.Œil du mage</link><link>Pathfinder-RPG.Réparation</link><link>Pathfinder-RPG.Artisanat</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Homoncule&lt;div style=&quot;float:right;&quot;&gt;FP 1&lt;/div&gt;&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Bestiaire page 184&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 400
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Cr&#233;ature-Artificielle.html&quot; title=&quot;Cr&#233;ature artificielle&quot;&gt;Cr&#233;ature artificielle&lt;/a&gt; de taille TP, m&#234;me alignement que le cr&#233;ateur
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +2 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Capacit&#233;s-Sp&#233;ciales.html#VISIONDANSLENOIR&quot; title=&quot;vision dans le noir&quot;&gt;vision dans le noir&lt;/a&gt; 18 m (12 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Nocturne-(Capacit&#233;).html&quot; title=&quot;vision nocturne&quot;&gt;vision nocturne&lt;/a&gt; ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +3
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 14, contact 14, pris au d&#233;pourvu 12 (Dex +2, taille +2)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 11 (2d10)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +4, &lt;b&gt;Vig&lt;/b&gt; +0, &lt;b&gt;Vol&lt;/b&gt; +1
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Capacit&#233;s d&#233;fensives&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Traits-Des-Cr&#233;atures-Artificielles-(Capacit&#233;).html&quot; title=&quot;Traits des cr&#233;atures artificielles&quot;&gt;traits des cr&#233;atures artificielles&lt;/a&gt; 
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 6 m (4 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), vol 15 m (10 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) (bonne)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; 1 morsure, +3 (1d4-1 et poison)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Espace&lt;/b&gt; 0,75 m (1/2 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) ; &lt;b&gt;Allonge&lt;/b&gt; 0
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 8, &lt;b&gt;Dex&lt;/b&gt; 15, &lt;b&gt;Con&lt;/b&gt; -, &lt;b&gt;Int&lt;/b&gt; 10, &lt;b&gt;Sag&lt;/b&gt; 12, &lt;b&gt;Cha&lt;/b&gt; 7
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +2, &lt;b&gt;BMO&lt;/b&gt; +2, &lt;b&gt;DMD&lt;/b&gt; 11
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;R&#233;flexes-Surhumains.html&quot; title=&quot;R&#233;flexes surhumains&quot;&gt;R&#233;flexes surhumains&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; +12, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +3, &lt;a class=&quot;pagelink&quot; href=&quot;Vol.html&quot; title=&quot;Vol&quot;&gt;Vol&lt;/a&gt; +10
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Langues&lt;/b&gt; commun (ne sait pas parler) ; lien t&#233;l&#233;pathique
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; tous
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation sociale&lt;/b&gt; solitaire
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; aucun
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Capacit&#233;s sp&#233;ciales&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Lien t&#233;l&#233;pathique (Sur).&lt;/b&gt; Les homoncules ne savent pas parler mais, lors de leur cr&#233;ation, un lien s&#39;&#233;tablit entre eux et leur cr&#233;ateur. Un homoncule sait tout ce que son ma&#238;tre sait. Il peut rapporter tout ce qu&#39;il voit et entend &#224; son ma&#238;tre tant que celui-ci se trouve &#224; moins de 450 m (300 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;).
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Poison (Ext).&lt;/b&gt; Morsure - blessure ; &lt;i&gt;JS&lt;/i&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;Vigueur&quot;&gt;Vigueur&lt;/a&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DEGREDEDIFFICULTE&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; 13 ; &lt;i&gt;fr&#233;quence&lt;/i&gt; 1/minute pendant 60 minutes ; &lt;i&gt;effet&lt;/i&gt; sommeil pendant 1 minute ; &lt;i&gt;gu&#233;rison&lt;/i&gt; 1 r&#233;ussite. Le &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DEGREDEDIFFICULTE&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; d&#233;pend de la &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#CONSTITUTION&quot; title=&quot;La Constitution&quot;&gt;Constitution&lt;/a&gt; et inclut d&#39;un bonus racial de +2.
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;td&gt;&lt;div&gt;&lt;i&gt;Cette cr&#233;ature vaguement humano&#239;de fait la taille d’un chat mais ressemble &#224; un diablotin ail&#233; dot&#233; de grandes dents.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Les homoncules sont des serviteurs miniatures que les lanceurs de
+sorts cr&#233;ent &#224; partir de leur sang. Ils font de pi&#232;tres combattants mais
+de tr&#232;s efficaces. espions, messagers et &#233;claireurs Le cr&#233;ateur d’un
+homoncule choisit les d&#233;tails de son apparence. Certains poss&#232;dent
+une forme assez raffin&#233;e mais la plupart des cr&#233;ateurs ne prennent
+pas la peine de peaufiner leur silhouette au-del&#224; du minimum
+n&#233;cessaire pour qu’ils puissent remplir leurs fonctions.&lt;br /&gt;&lt;br /&gt;Les homoncules ne sont gu&#232;re plus que des outils con&#231;us pour
+accomplir les t&#226;ches qu’on leur confie. En tant qu’extensions de
+leurs cr&#233;ateurs, ils partagent leur alignement et leur caract&#232;re.
+Un homoncule ne s’&#233;loigne jamais volontairement de plus de
+500 m de son ma&#238;tre, mais il peut &#234;tre emmen&#233; de force. Si cela se
+produit, la cr&#233;ature fait tout son possible pour r&#233;duire la distance
+qui la s&#233;pare de son ma&#238;tre, car elle ne peut pas communiquer
+avec lui au-del&#224; de 500 m. &lt;br /&gt;&lt;br /&gt;Si une attaque d&#233;truit l’homoncule, elle
+inflige &#233;galement 2d10 points de d&#233;g&#226;ts &#224;
+son ma&#238;tre. Si le ma&#238;tre de l’homoncule
+est tu&#233;, ce dernier devient fou. Il perd
+alors sa valeur d’Intelligence,
+tous ses dons et ses rangs de
+comp&#233;tence et consid&#232;re
+son environnement
+imm&#233;diat comme son
+territoire, se mettant &#224;
+attaquer tous ceux qui
+s’y introduisent.&lt;br /&gt;&lt;br /&gt;En de rares occasions,
+un homoncule d&#233;livr&#233; de
+sa servitude d&#233;passe les
+attentes de son ma&#238;tre et se
+transforme en une cr&#233;ature ne
+se r&#233;sumant pas au protecteur
+&#224; moiti&#233; cingl&#233; d’un repaire
+oubli&#233; de tous. Dans certains cas,
+l’homoncule en vient &#224; se consid&#233;rer comme le
+juste h&#233;ritier de son ma&#238;tre ou m&#234;me comme une
+r&#233;incarnation de l’esprit de son ma&#238;tre.&lt;br /&gt;&lt;br /&gt;&lt;h3 class=&quot;separator&quot;&gt;Construction&lt;a class=&quot;headeranchor&quot; id=&quot;Construction_0&quot; href=&quot;#Construction_0&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;
+Les homoncules sont fa&#231;onn&#233;s &#224; partir d’un m&#233;lange d’argile,
+de cendres, de racine de mandragore, d’eau de source et d’un
+demi-litre de sang provenant de leur cr&#233;ateur. Ces mat&#233;riaux
+co&#251;tent 50 po. Une fois le corps sculpt&#233;, son animation requiert
+un long rituel magique qui doit se d&#233;rouler dans un laboratoire
+ou un atelier sp&#233;cialement pr&#233;par&#233; &#224; cet effet, similaire &#224; un
+laboratoire d’alchimie et n&#233;cessitant d’&#234;tre approvisionn&#233; pour
+un co&#251;t suppl&#233;mentaire de 1 000 po. &lt;br /&gt;&lt;br /&gt;Si le cr&#233;ateur construit le corps de la cr&#233;ature lui-m&#234;me, cette &#233;tape et le rituel d’animation
+peuvent &#234;tre effectu&#233;s en m&#234;me temps. Il est possible de cr&#233;er un
+homoncule avec plus de 2 DV mais chaque DV suppl&#233;mentaire
+ajoute 2 000 po au co&#251;t de cr&#233;ation.&lt;br /&gt;&lt;br /&gt;La personne dont le sang a &#233;t&#233; utilis&#233; lors de la cr&#233;ation de
+l’homoncule devient son ma&#238;tre. Il se peut qu’un individu donne
+son sang, qu’un autre sculpte les mat&#233;riaux de base et qu’un
+troisi&#232;me anime le corps par magie pour en faire un serviteur du
+premier (celui qui a donn&#233; son sang).&lt;br /&gt;&lt;br /&gt;&lt;b&gt;NLS&lt;/b&gt; 7&lt;sup&gt;e&lt;/sup&gt; ; &lt;b&gt;Prix&lt;/b&gt; 2 050 po&lt;br /&gt;&lt;br /&gt;
+&lt;b&gt;Conditions&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;ation-De-Cr&#233;atures-Artificielles.html&quot; title=&quot;Cr&#233;ation de cr&#233;atures artificielles&quot;&gt;Cr&#233;ation de cr&#233;atures artificielles&lt;/a&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Image-Miroir.html&quot; title=&quot;Image miroir&quot;&gt;image miroir&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Œil-Du-Mage.html&quot; title=&quot;Œil du mage&quot;&gt;œil du mage&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;R&#233;paration.html&quot; title=&quot;R&#233;paration&quot;&gt;r&#233;paration&lt;/a&gt;&lt;/i&gt; ; &lt;b&gt;Comp&#233;tence&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Artisanat.html&quot; title=&quot;Artisanat&quot;&gt;Artisanat&lt;/a&gt; (cuir) ou &lt;a class=&quot;pagelink&quot; href=&quot;Artisanat.html&quot; title=&quot;Artisanat&quot;&gt;Artisanat&lt;/a&gt; (sculpture) &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DEGREDEDIFFICULTE&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; 12 ; &lt;b&gt;Co&#251;t&lt;/b&gt; 1 050 po.
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Homoncule|FP 1}
+{s:pucem|Créature artificielle|Ville|Tempéré}
+{s:BDTexte|''Source : Bestiaire page 184''}
+{s:BDTexte|'''PX''' 400}
+{s:BDTexte|[[type Créature artificielle|Créature artificielle]] de taille TP, même alignement que le créateur}
+{s:BDTexte|'''Init''' +2 ; '''Sens''' [[vision dans le noir]] 18 m (12 {s:c}), [[vision nocturne]] ; [[Perception]] +3}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 14, contact 14, pris au dépourvu 12 (Dex +2, taille +2)}
+{s:BDTexte|'''pv''' 11 (2d10)}
+{s:BDTexte|'''Réf''' +4, '''Vig''' +0, '''Vol''' +1}
+{s:BDTexte|'''Capacités défensives''' [[traits des créatures artificielles]] }
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 6 m (4 {s:c}), vol 15 m (10 {s:c}) (bonne)}
+{s:BDTexte|'''Corps à corps''' 1 morsure, +3 (1d4-1 et poison)}
+{s:BDTexte|'''Espace''' 0,75 m (1/2 {s:c}) ; '''Allonge''' 0}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 8, '''Dex''' 15, '''Con''' -, '''Int''' 10, '''Sag''' 12, '''Cha''' 7}
+{s:BDTexte|'''BBA''' +2, '''BMO''' +2, '''DMD''' 11}
+{s:BDTexte|'''Dons''' [[Réflexes surhumains]]}
+{s:BDTexte|'''Compétences''' [[Discrétion]] +12, [[Perception]] +3, [[Vol]] +10}
+{s:BDTexte|'''Langues''' commun (ne sait pas parler) ; lien télépathique}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' tous}
+{s:BDTexte|'''Organisation sociale''' solitaire}
+{s:BDTexte|'''Trésor''' aucun}
+{s:BDSousTitre|Capacités spéciales}
+{s:BDTexte|'''Lien télépathique (Sur).''' Les homoncules ne savent pas parler mais, lors de leur création, un lien s'établit entre eux et leur créateur. Un homoncule sait tout ce que son maître sait. Il peut rapporter tout ce qu'il voit et entend à son maître tant que celui-ci se trouve à moins de 450 m (300 {s:c}).}
+{s:BDTexte|'''Poison (Ext).''' Morsure - blessure ; ''JS'' [[Vigueur]] [[DD]] 13 ; ''fréquence'' 1/minute pendant 60 minutes ; ''effet'' sommeil pendant 1 minute ; ''guérison'' 1 réussite. Le [[DD]] dépend de la [[Constitution]] et inclut d'un bonus racial de +2.}
+</div>
+</td><td><div>''Cette créature vaguement humanoïde fait la taille d’un chat mais ressemble à un diablotin ailé doté de grandes dents.''
+
+Les homoncules sont des serviteurs miniatures que les lanceurs de
+sorts créent à partir de leur sang. Ils font de piètres combattants mais
+de très efficaces. espions, messagers et éclaireurs Le créateur d’un
+homoncule choisit les détails de son apparence. Certains possèdent
+une forme assez raffinée mais la plupart des créateurs ne prennent
+pas la peine de peaufiner leur silhouette au-delà du minimum
+nécessaire pour qu’ils puissent remplir leurs fonctions.
+
+Les homoncules ne sont guère plus que des outils conçus pour
+accomplir les tâches qu’on leur confie. En tant qu’extensions de
+leurs créateurs, ils partagent leur alignement et leur caractère.
+Un homoncule ne s’éloigne jamais volontairement de plus de
+500 m de son maître, mais il peut être emmené de force. Si cela se
+produit, la créature fait tout son possible pour réduire la distance
+qui la sépare de son maître, car elle ne peut pas communiquer
+avec lui au-delà de 500 m. 
+
+Si une attaque détruit l’homoncule, elle
+inflige également 2d10 points de dégâts à
+son maître. Si le maître de l’homoncule
+est tué, ce dernier devient fou. Il perd
+alors sa valeur d’Intelligence,
+tous ses dons et ses rangs de
+compétence et considère
+son environnement
+immédiat comme son
+territoire, se mettant à
+attaquer tous ceux qui
+s’y introduisent.
+
+En de rares occasions,
+un homoncule délivré de
+sa servitude dépasse les
+attentes de son maître et se
+transforme en une créature ne
+se résumant pas au protecteur
+à moitié cinglé d’un repaire
+oublié de tous. Dans certains cas,
+l’homoncule en vient à se considérer comme le
+juste héritier de son maître ou même comme une
+réincarnation de l’esprit de son maître.
+
+====Construction====
+
+Les homoncules sont façonnés à partir d’un mélange d’argile,
+de cendres, de racine de mandragore, d’eau de source et d’un
+demi-litre de sang provenant de leur créateur. Ces matériaux
+coûtent 50 po. Une fois le corps sculpté, son animation requiert
+un long rituel magique qui doit se dérouler dans un laboratoire
+ou un atelier spécialement préparé à cet effet, similaire à un
+laboratoire d’alchimie et nécessitant d’être approvisionné pour
+un coût supplémentaire de 1 000 po. 
+
+Si le créateur construit le corps de la créature lui-même, cette étape et le rituel d’animation
+peuvent être effectués en même temps. Il est possible de créer un
+homoncule avec plus de 2 DV mais chaque DV supplémentaire
+ajoute 2 000 po au coût de création.
+
+La personne dont le sang a été utilisé lors de la création de
+l’homoncule devient son maître. Il se peut qu’un individu donne
+son sang, qu’un autre sculpte les matériaux de base et qu’un
+troisième anime le corps par magie pour en faire un serviteur du
+premier (celui qui a donné son sang).
+
+'''NLS''' 7<sup>e</sup> ; '''Prix''' 2 050 po
+
+
+'''Conditions''' [[Création de créatures artificielles]], ''[[image miroir]]'', ''[[œil du mage]]'', ''[[réparation]]'' ; '''Compétence''' [[Artisanat]] (cuir) ou [[Artisanat]] (sculpture) [[DD]] 12 ; '''Coût''' 1 050 po.
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Homoncule</fullName>
+</wikiPage>

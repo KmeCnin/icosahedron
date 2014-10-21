@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Convocation d'alliés mineur</title>
+  <categories><category>Pathfinder-RPG.Art de la Magie</category><category>Pathfinder-RPG.Règles officielles</category><category>Pathfinder-RPG.Sort</category><category>Pathfinder-RPG.Sort druide 1</category><category>Pathfinder-RPG.Sort rôdeur 1</category></categories>
+  <lastModified>2012-11-01 20:27:48Z</lastModified>
+  <version>5</version>
+  <inLinks><link>Pathfinder-RPG.AdM-sorts-classe-temporaire</link><link>Pathfinder-RPG.Glossaire des sorts</link><link>Pathfinder-RPG.Liste des sorts</link><link>Pathfinder-RPG.Liste des sorts de druides</link><link>Pathfinder-RPG.Liste des sorts de rôdeurs</link><link>Pathfinder-RPG.sorts-temporaires</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Invocation</link><link>Pathfinder-RPG.branche convocation</link><link>Pathfinder-RPG.Druide</link><link>Pathfinder-RPG.Rôdeur</link><link>Pathfinder-RPG.round</link><link>Pathfinder-RPG.composantes</link><link>Pathfinder-RPG.niveau</link><link>Pathfinder-RPG.Convocation dalliés naturels I</link></outLinks>
+  <body><![CDATA[
+&lt;b&gt;&#201;cole&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#INVOCATION&quot; title=&quot;Invocation&quot;&gt;invocation&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#CONVOCATION&quot; title=&quot;Convocation&quot;&gt;convocation&lt;/a&gt;) ; &lt;b&gt;Niveau&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Druide.html&quot; title=&quot;Le druide&quot;&gt;druide&lt;/a&gt; 1, &lt;a class=&quot;pagelink&quot; href=&quot;R&#244;deur.html&quot; title=&quot;Le r&#244;deur&quot;&gt;r&#244;deur&lt;/a&gt; 1&lt;br/&gt;
+&lt;b&gt;Temps d’incantation&lt;/b&gt; 1 &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#ROUND&quot; title=&quot;round&quot;&gt;round&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Composantes&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#COMPOSANTES&quot; title=&quot;composantes&quot;&gt;V, G, FD&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Port&#233;e&lt;/b&gt; courte (7,50 m + 1,50 m/2 &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#NIVEAU&quot; title=&quot;niveau&quot;&gt;niveaux&lt;/a&gt;) (5 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt; + 1 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;/2 &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#NIVEAU&quot; title=&quot;niveau&quot;&gt;niveaux&lt;/a&gt;)&lt;br/&gt;
+&lt;b&gt;Cible&lt;/b&gt; 1d3 cr&#233;atures invoqu&#233;es&lt;br/&gt;
+&lt;b&gt;Dur&#233;e&lt;/b&gt; 1 &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#ROUND&quot; title=&quot;round&quot;&gt;round&lt;/a&gt;/&lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#NIVEAU&quot; title=&quot;niveau&quot;&gt;niveau&lt;/a&gt; (T)&lt;br/&gt;
+&lt;b&gt;Jet de sauvegarde&lt;/b&gt; non ; &lt;b&gt;R&#233;sistance &#224; la magie&lt;/b&gt; non&lt;br /&gt;&lt;br /&gt;Ce sort fonctionne comme &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Convocation-Dalli&#233;s-Naturels-I.html&quot; title=&quot;Convocation d&amp;#39;alli&#233;s naturels I&quot;&gt;convocation d’alli&#233;s naturels I&lt;/a&gt;&lt;/i&gt; mais le personnage ne peut invoquer que 1d3 animaux TP ou plus petits comme les chauves-souris, les l&#233;zards, les singes, les rats, les
+corbeaux, les crapauds ou les belettes. Les animaux invoqu&#233;s doivent tous &#234;tre de la m&#234;me sorte.
+]]></body>
+  <raw><![CDATA[{s:UM}
+'''École''' [[invocation]] ([[branche convocation|convocation]]) ; '''Niveau''' [[druide]] 1, [[rôdeur]] 1<br/>
+'''Temps d’incantation''' 1 [[round]]<br/>
+'''Composantes''' [[Composantes|V, G, FD]]<br/>
+'''Portée''' courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])<br/>
+'''Cible''' 1d3 créatures invoquées<br/>
+'''Durée''' 1 [[round]]/[[niveau]] (T)<br/>
+'''Jet de sauvegarde''' non ; '''Résistance à la magie''' non
+
+Ce sort fonctionne comme ''[[convocation dalliés naturels I|convocation d’alliés naturels I]]'' mais le personnage ne peut invoquer que 1d3 animaux TP ou plus petits comme les chauves-souris, les lézards, les singes, les rats, les
+corbeaux, les crapauds ou les belettes. Les animaux invoqués doivent tous être de la même sorte.]]></raw>
+  <fullName>Pathfinder-RPG.Convocation dalliés mineur</fullName>
+</wikiPage>

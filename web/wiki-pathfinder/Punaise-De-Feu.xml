@@ -1,0 +1,123 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Punaise de feu</title>
+  <categories><category>Pathfinder-RPG.Bestiaire</category><category>Pathfinder-RPG.Monstre</category><category>Pathfinder-RPG.Règles officielles</category></categories>
+  <lastModified>2013-02-02 18:42:16Z</lastModified>
+  <version>9</version>
+  <inLinks><link>Pathfinder-RPG.Convocation dalliés naturels</link><link>Pathfinder-RPG.Convocation de monstres</link><link>Pathfinder-RPG.Glossaire des monstres</link><link>Pathfinder-RPG.Liste de monstres par FP</link><link>Pathfinder-RPG.Liste de monstres par milieu naturel</link><link>Pathfinder-RPG.Liste de monstres par type</link><link>Pathfinder-RPG.Monstres</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.type Vermine</link><link>Pathfinder-RPG.vision nocturne</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Vol</link><link>Pathfinder-RPG.archétypes simples</link><link>Pathfinder-RPG.Vigueur</link><link>Pathfinder-RPG.DD</link><link>Pathfinder-RPG.Ébloui</link><link>Pathfinder-RPG.Constitution</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Punaise de feu&lt;div style=&quot;float:right;&quot;&gt;FP 1/3&lt;/div&gt;&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Bestiaire&lt;/i&gt; p.49
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 135
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Vermine.html&quot; title=&quot;Vermine&quot;&gt;Vermine&lt;/a&gt; de taille P, N
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +0 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Nocturne-(Capacit&#233;).html&quot; title=&quot;vision nocturne&quot;&gt;vision nocturne&lt;/a&gt; ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +0
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 12, contact 11, pris au d&#233;pourvu 12 (naturelle +1, taille +1)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 4 (1d8)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +0, &lt;b&gt;Vig&lt;/b&gt; +2, &lt;b&gt;Vol&lt;/b&gt; +0
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Immunit&#233;s&lt;/b&gt; effets mentaux 
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 9 m (6 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), vol 9 m (6 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) (m&#233;diocre)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; morsure +1 (1d4)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 10, &lt;b&gt;Dex&lt;/b&gt; 11, &lt;b&gt;Con&lt;/b&gt; 11, &lt;b&gt;Int&lt;/b&gt; -, &lt;b&gt;Sag&lt;/b&gt; 10, &lt;b&gt;Cha&lt;/b&gt; 7
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +0, &lt;b&gt;BMO&lt;/b&gt; -1, &lt;b&gt;DMD&lt;/b&gt; 9 (17 contre le croc-en-jambe)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vol.html&quot; title=&quot;Vol&quot;&gt;Vol&lt;/a&gt; -2
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Particularit&#233;s&lt;/b&gt; luminescence
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; tous
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation sociale&lt;/b&gt; solitaire, port&#233;e (2-6) ou colonie (7-12)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; aucun
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Capacit&#233;s sp&#233;ciales&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Luminescence (Ext).&lt;/b&gt; Les glandes brillantes des punaises de feu illuminent les alentours dans un rayon de 3 m (2 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;). Apr&#232;s la mort de la punaise, ces glandes continuent de briller pendant 1d6 jours.
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;td&gt;&lt;div&gt;&lt;i&gt;Ce col&#233;opt&#232;re de la taille d’un chat poss&#232;de une carapace brun terne garnie
+de deux taches luisantes de couleur vert-jaune.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Les punaises de feu vivent la nuit mais elles ne voient pas dans le
+noir : elles se servent de leurs glandes brillantes pour illuminer
+leurs environs. Les mineurs et les individus les plus excentriques
+utilisent souvent des punaises de feu enferm&#233;es dans une cage
+comme source de lumi&#232;re de longue dur&#233;e.&lt;br /&gt;&lt;br /&gt;Il existe d’autres vari&#233;t&#233;s de punaises de feu. Les deux variantes les plus r&#233;pandues sont d&#233;crites ci-dessous.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Scarab&#233;e-flash (FP 1/2).&lt;/b&gt; Un scarab&#233;e-flash est une punaise de feu &lt;a class=&quot;pagelink&quot; href=&quot;Arch&#233;types.html&quot; title=&quot;arch&#233;types simples&quot;&gt;&#233;volu&#233;e&lt;/a&gt; qui peut cr&#233;er un &#233;clair de lumi&#232;re brillante une fois par heure. Cet &#233;clair se r&#233;pand en un rayonnement de 3 m (2 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) et force toutes les cr&#233;atures pr&#233;sentes dans la zone &#224; effectuer un jet de &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;Vigueur&quot;&gt;Vigueur&lt;/a&gt; de &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DEGREDEDIFFICULTE&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; 12 pour ne pas &#234;tre &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables.html#&#201;bloui&quot; title=&quot;&#201;bloui&quot;&gt;&#233;blouies&lt;/a&gt; pendant 1d3 rounds. Ce &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DEGREDEDIFFICULTE&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; d&#233;pend de la &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#CONSTITUTION&quot; title=&quot;La Constitution&quot;&gt;Constitution&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Scarab&#233;e mineur (FP 1/2).&lt;/b&gt; Un scarab&#233;e mineur est une punaise de feu sur laquelle on a appliqu&#233; l&#39;arch&#233;type simple &quot;&lt;a class=&quot;pagelink&quot; href=&quot;Arch&#233;types.html&quot; title=&quot;arch&#233;types simples&quot;&gt;&#233;volu&#233;&lt;/a&gt;&quot;. Il poss&#232;de une vitesse de creusement de 6 m (4 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;).
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Punaise de feu|FP 1/3}
+{s:pucem|Vermine|Souterrain|Tempéré}
+{s:BDTexte|''Source : Bestiaire'' p.49}
+{s:BDTexte|'''PX''' 135}
+{s:BDTexte|[[type Vermine|Vermine]] de taille P, N}
+{s:BDTexte|'''Init''' +0 ; '''Sens''' [[vision nocturne]] ; [[Perception]] +0}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 12, contact 11, pris au dépourvu 12 (naturelle +1, taille +1)}
+{s:BDTexte|'''pv''' 4 (1d8)}
+{s:BDTexte|'''Réf''' +0, '''Vig''' +2, '''Vol''' +0}
+{s:BDTexte|'''Immunités''' effets mentaux }
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 9 m (6 {s:c}), vol 9 m (6 {s:c}) (médiocre)}
+{s:BDTexte|'''Corps à corps''' morsure +1 (1d4)}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 10, '''Dex''' 11, '''Con''' 11, '''Int''' -, '''Sag''' 10, '''Cha''' 7}
+{s:BDTexte|'''BBA''' +0, '''BMO''' -1, '''DMD''' 9 (17 contre le croc-en-jambe)}
+{s:BDTexte|'''Compétences''' [[Vol]] -2}
+{s:BDTexte|'''Particularités''' luminescence}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' tous}
+{s:BDTexte|'''Organisation sociale''' solitaire, portée (2-6) ou colonie (7-12)}
+{s:BDTexte|'''Trésor''' aucun}
+{s:BDSousTitre|Capacités spéciales}
+{s:BDTexte|'''Luminescence (Ext).''' Les glandes brillantes des punaises de feu illuminent les alentours dans un rayon de 3 m (2 {s:c}). Après la mort de la punaise, ces glandes continuent de briller pendant 1d6 jours.}
+</div>
+</td><td><div>''Ce coléoptère de la taille d’un chat possède une carapace brun terne garnie
+de deux taches luisantes de couleur vert-jaune.''
+
+Les punaises de feu vivent la nuit mais elles ne voient pas dans le
+noir : elles se servent de leurs glandes brillantes pour illuminer
+leurs environs. Les mineurs et les individus les plus excentriques
+utilisent souvent des punaises de feu enfermées dans une cage
+comme source de lumière de longue durée.
+
+Il existe d’autres variétés de punaises de feu. Les deux variantes les plus répandues sont décrites ci-dessous.
+
+'''Scarabée-flash (FP 1/2).''' Un scarabée-flash est une punaise de feu [[archétypes simples#CREATUREEVOLUEE|évoluée]] qui peut créer un éclair de lumière brillante une fois par heure. Cet éclair se répand en un rayonnement de 3 m (2 {s:c}) et force toutes les créatures présentes dans la zone à effectuer un jet de [[Vigueur]] de [[DD]] 12 pour ne pas être [[ébloui|éblouies]] pendant 1d3 rounds. Ce [[DD]] dépend de la [[Constitution]].
+
+'''Scarabée mineur (FP 1/2).''' Un scarabée mineur est une punaise de feu sur laquelle on a appliqué l'archétype simple "[[archétypes simples#CREATUREEVOLUEE|évolué]]". Il possède une vitesse de creusement de 6 m (4 {s:c}).
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Punaise de feu</fullName>
+</wikiPage>

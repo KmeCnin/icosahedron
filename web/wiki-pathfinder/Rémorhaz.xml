@@ -1,0 +1,179 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Rémorhaz</title>
+  <categories><category>Pathfinder-RPG.Bestiaire</category><category>Pathfinder-RPG.Monstre</category><category>Pathfinder-RPG.Règles officielles</category></categories>
+  <lastModified>2013-02-06 21:21:02Z</lastModified>
+  <version>6</version>
+  <inLinks><link>Pathfinder-RPG.Géant du froid</link><link>Pathfinder-RPG.Glossaire des monstres</link><link>Pathfinder-RPG.Liste de monstres par FP</link><link>Pathfinder-RPG.Liste de monstres par milieu naturel</link><link>Pathfinder-RPG.Liste de monstres par type</link><link>Pathfinder-RPG.Monstres</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.type Créature magique</link><link>Pathfinder-RPG.Perception des vibrations</link><link>Pathfinder-RPG.vision dans le noir</link><link>Pathfinder-RPG.vision nocturne</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Étreinte</link><link>Pathfinder-RPG.Engloutissement</link><link>Pathfinder-RPG.lutte</link><link>Pathfinder-RPG.croc-en-jambe</link><link>Pathfinder-RPG.Attaque en puissance</link><link>Pathfinder-RPG.Coup fabuleux</link><link>Pathfinder-RPG.Enchaînement</link><link>Pathfinder-RPG.Science de la bousculade</link><link>Pathfinder-RPG.Talent</link><link>Pathfinder-RPG.Vigueur</link><link>Pathfinder-RPG.DD</link><link>Pathfinder-RPG.jet de sauvegarde</link><link>Pathfinder-RPG.Constitution</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;R&#233;morhaz&lt;div style=&quot;float:right;&quot;&gt;FP 7&lt;/div&gt;&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Bestiaire&lt;/i&gt; p.247
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 3.200
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Cr&#233;ature-Magique.html&quot; title=&quot;Cr&#233;ature magique&quot;&gt;Cr&#233;ature magique&lt;/a&gt; de taille TG, N
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +1 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Perception-Des-Vibrations-(Capacit&#233;).html&quot; title=&quot;Perception des vibrations&quot;&gt;perception des vibrations&lt;/a&gt; 18 m (12 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), &lt;a class=&quot;pagelink&quot; href=&quot;Capacit&#233;s-Sp&#233;ciales.html#VISIONDANSLENOIR&quot; title=&quot;vision dans le noir&quot;&gt;vision dans le noir&lt;/a&gt; 18 m (12 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Nocturne-(Capacit&#233;).html&quot; title=&quot;vision nocturne&quot;&gt;vision nocturne&lt;/a&gt; ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +16
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 20, contact 9, pris au d&#233;pourvu 19 (Dex +1, naturelle +11, taille -2)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 94 (9d10+45)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +7, &lt;b&gt;Vig&lt;/b&gt; +11, &lt;b&gt;Vol&lt;/b&gt; +4
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Immunit&#233;s&lt;/b&gt; feu, froid 
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 9 m (6 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), creusement 6 m (4 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; morsure, +13 (3d6+9 et &lt;a class=&quot;pagelink&quot; href=&quot;&#201;treinte-(Capacit&#233;).html&quot; title=&quot;&#201;treinte&quot;&gt;&#233;treinte&lt;/a&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Espace&lt;/b&gt; 4,50 m (3 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) ; &lt;b&gt;Allonge&lt;/b&gt; 4,50 m (3 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaques sp&#233;ciales&lt;/b&gt; chaleur, &lt;a class=&quot;pagelink&quot; href=&quot;Engloutissement-(Capacit&#233;).html&quot; title=&quot;Engloutissement&quot;&gt;engloutissement&lt;/a&gt; (2d6+9 et 8d6 feu, CA 15, 9 pv)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 22, &lt;b&gt;Dex&lt;/b&gt; 13, &lt;b&gt;Con&lt;/b&gt; 21, &lt;b&gt;Int&lt;/b&gt; 5, &lt;b&gt;Sag&lt;/b&gt; 12, &lt;b&gt;Cha&lt;/b&gt; 10
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +9, &lt;b&gt;BMO&lt;/b&gt; +17 (+21 &lt;a class=&quot;pagelink&quot; href=&quot;Manœuvres-Offensives.html#LUTTE&quot; title=&quot;lutte&quot;&gt;lutte&lt;/a&gt;), &lt;b&gt;DMD&lt;/b&gt; 28 (&lt;a class=&quot;pagelink&quot; href=&quot;Croc-En-Jambe.html&quot; title=&quot;croc-en-jambe&quot;&gt;croc-en-jambe&lt;/a&gt; impossible)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Attaque-En-Puissance.html&quot; title=&quot;Attaque en puissance&quot;&gt;Attaque en puissance&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Coup-Fabuleux.html&quot; title=&quot;Coup fabuleux&quot;&gt;Coup fabuleux&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Encha&#238;nement.html&quot; title=&quot;Encha&#238;nement&quot;&gt;Encha&#238;nement&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Science-De-La-Bousculade.html&quot; title=&quot;Science de la bousculade&quot;&gt;Science de la bousculade&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Talent.html&quot; title=&quot;Talent&quot;&gt;Talent&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +16
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Langues&lt;/b&gt; g&#233;ant (ne sait pas parler)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; d&#233;serts froids et glaciers
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation sociale&lt;/b&gt; solitaire
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; aucun
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Capacit&#233;s sp&#233;ciales&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Chaleur (Sur)&lt;/b&gt; Les r&#233;morhaz enrag&#233;s produisent une chaleur si intense que tout ce qui les touche subit 8d6 points de d&#233;g&#226;ts de feu. C&#39;est le cas des cr&#233;atures qui les frappent &#224; l&#39;aide d&#39;attaques naturelles ou &#224; mains nues (mais pas de celles qui utilisent des armes de corps &#224; corps). La chaleur peut aussi faire fondre ou br&#251;ler les armes : celles qui entrent en contact avec un r&#233;morhaz doivent r&#233;ussir un jet de &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;Vigueur&quot;&gt;Vigueur&lt;/a&gt; de &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DEGREDEDIFFICULTE&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; 19 pour &#233;viter du subir ces m&#234;mes d&#233;g&#226;ts. Le &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DEGREDEDIFFICULTE&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; du &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;jet de sauvegarde&quot;&gt;jet de sauvegarde&lt;/a&gt; d&#233;pend de la &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#CONSTITUTION&quot; title=&quot;La Constitution&quot;&gt;Constitution&lt;/a&gt;.
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;td&gt;&lt;div&gt;&lt;i&gt;Cette esp&#232;ce de mille-pattes g&#233;ant jaillit hors de la neige. Son dos est garni
+de rang&#233;es de plaques de chitine rougies par la chaleur.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Dans les contr&#233;es glaciales et enneig&#233;es o&#249;
+habitent les r&#233;morhaz, c’est pour le terrible brasier
+qui br&#251;le en eux qu’on les craint. Lorsqu’ils sont en
+col&#232;re, particuli&#232;rement excit&#233;s ou qu’ils souffrent, ces
+feux infernaux font rougir les plaques protectrices qui
+garnissent leur dos. Comme les cr&#233;atures qui se sont adapt&#233;es
+aux r&#233;gions arctiques ont souvent d&#233;velopp&#233; une vuln&#233;rabilit&#233;
+au feu, le principal mode de d&#233;fense des r&#233;morhaz est donc
+incroyablement puissant et fait d’eux de dangereux pr&#233;dateurs
+dans ces contr&#233;es gel&#233;es&lt;br /&gt;&lt;br /&gt;Les r&#233;morhaz vivent dans de grands terriers creus&#233;s au cœur des
+glaciers. Ils se servent de leur chaleur pour creuser ces tunnels en
+faisant fondre la glace. Les parois lisses et brillantes de ces passages
+reg&#232;lent rapidement apr&#232;s leur passage, ce qui leur permet de
+construire des labyrinthes exceptionnellement stables et complexes.&lt;br /&gt;&lt;br /&gt;M&#234;me si le r&#233;morhaz semble avoir beaucoup de points communs
+avec les vermines de plus petite taille, il s’agit d’une cr&#233;ature
+&#233;tonnamment intelligente. Le r&#233;morhaz moyen n’est pas capable
+de parler mais il ma&#238;trise relativement bien la langue des g&#233;ants,
+une capacit&#233; que les tribus g&#233;antes mettent souvent &#224; profit pour
+obtenir les services de ces mille-pattes gigantesques. Cela obs&#232;de
+tout particuli&#232;rement les g&#233;ants du froid, car celui qui endure les
+dangereuses et cruelles br&#251;lures d’un r&#233;morhaz afin de devenir
+un &#171; ami des vers &#187; obtient une arme puissante qu’il peut utiliser
+contre ses ennemis : un assassin capable de s’infiltrer dans un
+ch&#226;teau de glace en creusant &#224; travers le sol, puis de s’attaquer &#224;
+un g&#233;ant du froid en tirant parti de son principal point faible, le
+feu. D’autres g&#233;ants utilisent ces cr&#233;atures comme forges vivantes,
+car leurs dos sont suffisamment chauds pour faire fondre le m&#233;tal.
+Un r&#233;morhaz mesure 7,50 m&#232;tres de longueur et p&#232;se 5 000 kg.
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Rémorhaz|FP 7}
+{s:pucem|Créature magique|Désert|Froid}
+{s:BDTexte|''Source : Bestiaire'' p.247}
+{s:BDTexte|'''PX''' 3.200}
+{s:BDTexte|[[type Créature magique|Créature magique]] de taille TG, N}
+{s:BDTexte|'''Init''' +1 ; '''Sens''' [[perception des vibrations]] 18 m (12 {s:c}), [[vision dans le noir]] 18 m (12 {s:c}), [[vision nocturne]] ; [[Perception]] +16}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 20, contact 9, pris au dépourvu 19 (Dex +1, naturelle +11, taille -2)}
+{s:BDTexte|'''pv''' 94 (9d10+45)}
+{s:BDTexte|'''Réf''' +7, '''Vig''' +11, '''Vol''' +4}
+{s:BDTexte|'''Immunités''' feu, froid }
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 9 m (6 {s:c}), creusement 6 m (4 {s:c})}
+{s:BDTexte|'''Corps à corps''' morsure, +13 (3d6+9 et [[étreinte]])}
+{s:BDTexte|'''Espace''' 4,50 m (3 {s:c}) ; '''Allonge''' 4,50 m (3 {s:c})}
+{s:BDTexte|'''Attaques spéciales''' chaleur, [[engloutissement]] (2d6+9 et 8d6 feu, CA 15, 9 pv)}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 22, '''Dex''' 13, '''Con''' 21, '''Int''' 5, '''Sag''' 12, '''Cha''' 10}
+{s:BDTexte|'''BBA''' +9, '''BMO''' +17 (+21 [[lutte]]), '''DMD''' 28 ([[croc-en-jambe]] impossible)}
+{s:BDTexte|'''Dons''' [[Attaque en puissance]], [[Coup fabuleux]], [[Enchaînement]], [[Science de la bousculade]], [[Talent]] ([[Perception]])}
+{s:BDTexte|'''Compétences''' [[Perception]] +16}
+{s:BDTexte|'''Langues''' géant (ne sait pas parler)}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' déserts froids et glaciers}
+{s:BDTexte|'''Organisation sociale''' solitaire}
+{s:BDTexte|'''Trésor''' aucun}
+{s:BDSousTitre|Capacités spéciales}
+{s:BDTexte|'''Chaleur (Sur)''' Les rémorhaz enragés produisent une chaleur si intense que tout ce qui les touche subit 8d6 points de dégâts de feu. C'est le cas des créatures qui les frappent à l'aide d'attaques naturelles ou à mains nues (mais pas de celles qui utilisent des armes de corps à corps). La chaleur peut aussi faire fondre ou brûler les armes : celles qui entrent en contact avec un rémorhaz doivent réussir un jet de [[Vigueur]] de [[DD]] 19 pour éviter du subir ces mêmes dégâts. Le [[DD]] du [[jet de sauvegarde]] dépend de la [[Constitution]].}
+</div>
+</td><td><div>''Cette espèce de mille-pattes géant jaillit hors de la neige. Son dos est garni
+de rangées de plaques de chitine rougies par la chaleur.''
+
+Dans les contrées glaciales et enneigées où
+habitent les rémorhaz, c’est pour le terrible brasier
+qui brûle en eux qu’on les craint. Lorsqu’ils sont en
+colère, particulièrement excités ou qu’ils souffrent, ces
+feux infernaux font rougir les plaques protectrices qui
+garnissent leur dos. Comme les créatures qui se sont adaptées
+aux régions arctiques ont souvent développé une vulnérabilité
+au feu, le principal mode de défense des rémorhaz est donc
+incroyablement puissant et fait d’eux de dangereux prédateurs
+dans ces contrées gelées
+
+Les rémorhaz vivent dans de grands terriers creusés au cœur des
+glaciers. Ils se servent de leur chaleur pour creuser ces tunnels en
+faisant fondre la glace. Les parois lisses et brillantes de ces passages
+regèlent rapidement après leur passage, ce qui leur permet de
+construire des labyrinthes exceptionnellement stables et complexes.
+
+Même si le rémorhaz semble avoir beaucoup de points communs
+avec les vermines de plus petite taille, il s’agit d’une créature
+étonnamment intelligente. Le rémorhaz moyen n’est pas capable
+de parler mais il maîtrise relativement bien la langue des géants,
+une capacité que les tribus géantes mettent souvent à profit pour
+obtenir les services de ces mille-pattes gigantesques. Cela obsède
+tout particulièrement les géants du froid, car celui qui endure les
+dangereuses et cruelles brûlures d’un rémorhaz afin de devenir
+un « ami des vers » obtient une arme puissante qu’il peut utiliser
+contre ses ennemis : un assassin capable de s’infiltrer dans un
+château de glace en creusant à travers le sol, puis de s’attaquer à
+un géant du froid en tirant parti de son principal point faible, le
+feu. D’autres géants utilisent ces créatures comme forges vivantes,
+car leurs dos sont suffisamment chauds pour faire fondre le métal.
+Un rémorhaz mesure 7,50 mètres de longueur et pèse 5 000 kg.
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Rémorhaz</fullName>
+</wikiPage>

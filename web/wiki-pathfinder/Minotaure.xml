@@ -1,0 +1,203 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Minotaure</title>
+  <categories><category>Pathfinder-RPG.Bestiaire</category><category>Pathfinder-RPG.Monstre</category><category>Pathfinder-RPG.Règles officielles</category></categories>
+  <lastModified>2013-02-07 19:25:49Z</lastModified>
+  <version>7</version>
+  <inLinks><link>Pathfinder-RPG.Anatomie morte-vivante III</link><link>Pathfinder-RPG.Dédale</link><link>Pathfinder-RPG.Glossaire des monstres</link><link>Pathfinder-RPG.Liste de monstres par FP</link><link>Pathfinder-RPG.Liste de monstres par milieu naturel</link><link>Pathfinder-RPG.Liste de monstres par type</link><link>Pathfinder-RPG.Monstres</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.type Humanoïde monstrueux</link><link>Pathfinder-RPG.vision dans le noir</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Charge puissante</link><link>Pathfinder-RPG.Attaque en puissance</link><link>Pathfinder-RPG.Science de la bousculade</link><link>Pathfinder-RPG.Vigueur surhumaine</link><link>Pathfinder-RPG.Discrétion</link><link>Pathfinder-RPG.Intimidation</link><link>Pathfinder-RPG.Survie</link><link>Pathfinder-RPG.Dédale</link><link>Pathfinder-RPG.Pris au dépourvu</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Minotaure&lt;div style=&quot;float:right;&quot;&gt;FP 4&lt;/div&gt;&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Bestiaire&lt;/i&gt; p.216
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 1 200
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Humano&#239;de-Monstrueux.html&quot; title=&quot;Humano&#239;de monstrueux&quot;&gt;Humano&#239;de monstrueux&lt;/a&gt; de taille G, CM
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +0 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Capacit&#233;s-Sp&#233;ciales.html#VISIONDANSLENOIR&quot; title=&quot;vision dans le noir&quot;&gt;vision dans le noir&lt;/a&gt; 18 m (12 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +10
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 14, contact 9, pris au d&#233;pourvu 14 (naturelle +5, taille -1)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 45 (6d10+12)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +5, &lt;b&gt;Vig&lt;/b&gt; +6, &lt;b&gt;Vol&lt;/b&gt; +5
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Capacit&#233;s d&#233;fensives&lt;/b&gt; instinct
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 9 m (6 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; grande hache +9/+4 (3d6+6/x3) et corne +4 (1d6+2)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Espace&lt;/b&gt; 3 m (2 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) ; &lt;b&gt;Allonge&lt;/b&gt; 3 m (2 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaques sp&#233;ciales&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Charge-Puissante-(Capacit&#233;).html&quot; title=&quot;Charge puissante&quot;&gt;charge puissante&lt;/a&gt; (corne +11, 2d6+6)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 19, &lt;b&gt;Dex&lt;/b&gt; 10, &lt;b&gt;Con&lt;/b&gt; 15, &lt;b&gt;Int&lt;/b&gt; 7, &lt;b&gt;Sag&lt;/b&gt; 10, &lt;b&gt;Cha&lt;/b&gt; 8
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +6, &lt;b&gt;BMO&lt;/b&gt; +11, &lt;b&gt;DMD&lt;/b&gt; 21
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Attaque-En-Puissance.html&quot; title=&quot;Attaque en puissance&quot;&gt;Attaque en puissance&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Science-De-La-Bousculade.html&quot; title=&quot;Science de la bousculade&quot;&gt;Science de la bousculade&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Vigueur-Surhumaine.html&quot; title=&quot;Vigueur surhumaine&quot;&gt;Vigueur surhumaine&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; +2, &lt;a class=&quot;pagelink&quot; href=&quot;Intimidation.html&quot; title=&quot;Intimidation&quot;&gt;Intimidation&lt;/a&gt; +5, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +10, &lt;a class=&quot;pagelink&quot; href=&quot;Survie.html&quot; title=&quot;Survie&quot;&gt;Survie&lt;/a&gt; +10 ; &lt;b&gt;Modificateurs raciaux&lt;/b&gt; +4 en &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt;, +4 en &lt;a class=&quot;pagelink&quot; href=&quot;Survie.html&quot; title=&quot;Survie&quot;&gt;Survie&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Langues&lt;/b&gt; g&#233;ant
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; ruines ou souterrain, climat temp&#233;r&#233;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation sociale&lt;/b&gt; solitaire, couple, ou bande (3-4)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; standard (grande hache, autres tr&#233;sors)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Capacit&#233;s sp&#233;ciales&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Instinct (Ext).&lt;/b&gt; Les minotaures ne sont pas sp&#233;cialement intelligents mais ils poss&#232;dent un instinct inn&#233; et des capacit&#233;s de raisonnement logique qui les immunisent contre les sorts de &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;D&#233;dale.html&quot; title=&quot;D&#233;dale&quot;&gt;d&#233;dale&lt;/a&gt;&lt;/i&gt; et les emp&#234;chent de se perdre. En plus de cela, ils ne sont jamais &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables.html#Prisaud&#233;pourvu&quot; title=&quot;Pris au d&#233;pourvu&quot;&gt;pris au d&#233;pourvu&lt;/a&gt;.
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;td&gt;&lt;div&gt;&lt;i&gt;Ce monstre a le corps d’un homme muscl&#233; et la t&#234;te d’un taureau. Ses sabots frappent le sol car il s’appr&#234;te &#224; charger.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Il n’est de rancune plus tenace que celle des minotaures.
+D’aussi longtemps qu’on s’en souviennent, ces cr&#233;atures issues
+d’une mal&#233;diction divine et rejet&#233;es par les races civilis&#233;es il y
+a plusieurs si&#232;cles de cela ont toujours chass&#233;, tu&#233; et d&#233;vor&#233; les
+humano&#239;des moins puissants qu’elles pour se venger d’affronts
+r&#233;els ou imaginaires. &lt;br /&gt;&lt;br /&gt;Dans de nombreuses cultures, les l&#233;gendes
+racontent que les premiers minotaures auraient &#233;t&#233; cr&#233;&#233;s par des
+dieux vindicatifs ou vex&#233;s qui auraient d&#233;cid&#233; de punir les humains
+en modifiant leur apparence, en les privant de leur intellect,
+de leur beaut&#233; et en leur donnant des t&#234;tes de taureau.&lt;br /&gt;&lt;br /&gt;Aujourd’hui, la plupart des minotaures r&#233;futent ces th&#233;ories
+avec m&#233;pris et pr&#233;tendent qu’ils n’ont pas &#233;t&#233; fa&#231;onn&#233;es par des
+dieux moqueurs mais qu’ils sont plut&#244;t des parangons divins cr&#233;&#233;s
+par un seigneur d&#233;mon puissant et cruel appel&#233; Baphomet.&lt;br /&gt;&lt;br /&gt;Les repaires traditionnels des minotaures sont les labyrinthes.
+Il peut s’agir de v&#233;ritables d&#233;dales construits sp&#233;cialement pour
+embrouiller et d&#233;concerter les visiteurs, de d&#233;dales apparus par
+hasard (comme les &#233;gouts d’une ville) ou encore de d&#233;dales naturels
+(comme un r&#233;seau de cavernes et de tunnels souterrains). &lt;br /&gt;&lt;br /&gt;Les minotaures tirent parti de leur instinct naturel et utilisent ces
+tani&#232;res labyrinthiques pour soumettre &#224; rude &#233;preuve les ennemis
+insouciants qui sont venus &#224; leur recherche ou qui sont arriv&#233;s
+par hasard et se sont ensuite perdus. Ils prennent leur temps et
+savourent le fait de chasser ces intrus qui tentent vainement de
+trouver une sortie. &lt;br /&gt;&lt;br /&gt;C’est seulement quand le d&#233;sespoir accable
+les victimes que les minotaures passent &#224; l’attaque. Lorsqu’ils
+affrontent un groupe d’intrus, les minotaures permettent souvent &#224;
+l’un d’entre eux de s’&#233;chapper, afin qu’il puisse raconter les horreurs
+qu’il a v&#233;cues et ainsi attirer des apprentis tueurs de minotaures
+vers le labyrinthe. Bien s&#251;r, pour les minotaures, ces soi-disant
+h&#233;ros feront un d&#233;licieux repas.&lt;br /&gt;&lt;br /&gt;On peut &#233;galement rencontrer des minotaures au service de
+monstres ou cr&#233;atures mal&#233;fiques plus puissants, une place qu’ils
+acceptent pour autant qu’ils puissent encore chasser et manger &#224;
+leur convenance. On les emploie g&#233;n&#233;ralement pour garder un objet
+pr&#233;cieux ou un endroit important. Leur ma&#238;tre peut &#233;galement leur
+confier un travail de mercenaire et leur ordonner de pourchasser ses
+ennemis par exemple.&lt;br /&gt;&lt;br /&gt;Les minotaures emploient des tactiques plut&#244;t directes au
+combat : ils utilisent leurs cornes pour d&#233;chiqueter la cr&#233;ature
+vivante la plus proche d’eux.
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Minotaure|FP 4}
+{s:pucem|Humanoïde monstrueux|Ruines-Donjons|Tempéré}
+{s:BDTexte|''Source : Bestiaire'' p.216}
+{s:BDTexte|'''PX''' 1 200}
+{s:BDTexte|[[type Humanoïde monstrueux|Humanoïde monstrueux]] de taille G, CM}
+{s:BDTexte|'''Init''' +0 ; '''Sens''' [[vision dans le noir]] 18 m (12 {s:c}) ; [[Perception]] +10}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 14, contact 9, pris au dépourvu 14 (naturelle +5, taille -1)}
+{s:BDTexte|'''pv''' 45 (6d10+12)}
+{s:BDTexte|'''Réf''' +5, '''Vig''' +6, '''Vol''' +5}
+{s:BDTexte|'''Capacités défensives''' instinct}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 9 m (6 {s:c})}
+{s:BDTexte|'''Corps à corps''' grande hache +9/+4 (3d6+6/x3) et corne +4 (1d6+2)}
+{s:BDTexte|'''Espace''' 3 m (2 {s:c}) ; '''Allonge''' 3 m (2 {s:c})}
+{s:BDTexte|'''Attaques spéciales''' [[charge puissante]] (corne +11, 2d6+6)}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 19, '''Dex''' 10, '''Con''' 15, '''Int''' 7, '''Sag''' 10, '''Cha''' 8}
+{s:BDTexte|'''BBA''' +6, '''BMO''' +11, '''DMD''' 21}
+{s:BDTexte|'''Dons''' [[Attaque en puissance]], [[Science de la bousculade]], [[Vigueur surhumaine]]}
+{s:BDTexte|'''Compétences''' [[Discrétion]] +2, [[Intimidation]] +5, [[Perception]] +10, [[Survie]] +10 ; '''Modificateurs raciaux''' +4 en [[Perception]], +4 en [[Survie]]}
+{s:BDTexte|'''Langues''' géant}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' ruines ou souterrain, climat tempéré}
+{s:BDTexte|'''Organisation sociale''' solitaire, couple, ou bande (3-4)}
+{s:BDTexte|'''Trésor''' standard (grande hache, autres trésors)}
+{s:BDSousTitre|Capacités spéciales}
+{s:BDTexte|'''Instinct (Ext).''' Les minotaures ne sont pas spécialement intelligents mais ils possèdent un instinct inné et des capacités de raisonnement logique qui les immunisent contre les sorts de ''[[dédale]]'' et les empêchent de se perdre. En plus de cela, ils ne sont jamais [[pris au dépourvu]].}
+</div>
+</td><td><div>''Ce monstre a le corps d’un homme musclé et la tête d’un taureau. Ses sabots frappent le sol car il s’apprête à charger.''
+
+Il n’est de rancune plus tenace que celle des minotaures.
+D’aussi longtemps qu’on s’en souviennent, ces créatures issues
+d’une malédiction divine et rejetées par les races civilisées il y
+a plusieurs siècles de cela ont toujours chassé, tué et dévoré les
+humanoïdes moins puissants qu’elles pour se venger d’affronts
+réels ou imaginaires. 
+
+Dans de nombreuses cultures, les légendes
+racontent que les premiers minotaures auraient été créés par des
+dieux vindicatifs ou vexés qui auraient décidé de punir les humains
+en modifiant leur apparence, en les privant de leur intellect,
+de leur beauté et en leur donnant des têtes de taureau.
+
+Aujourd’hui, la plupart des minotaures réfutent ces théories
+avec mépris et prétendent qu’ils n’ont pas été façonnées par des
+dieux moqueurs mais qu’ils sont plutôt des parangons divins créés
+par un seigneur démon puissant et cruel appelé Baphomet.
+
+Les repaires traditionnels des minotaures sont les labyrinthes.
+Il peut s’agir de véritables dédales construits spécialement pour
+embrouiller et déconcerter les visiteurs, de dédales apparus par
+hasard (comme les égouts d’une ville) ou encore de dédales naturels
+(comme un réseau de cavernes et de tunnels souterrains). 
+
+Les minotaures tirent parti de leur instinct naturel et utilisent ces
+tanières labyrinthiques pour soumettre à rude épreuve les ennemis
+insouciants qui sont venus à leur recherche ou qui sont arrivés
+par hasard et se sont ensuite perdus. Ils prennent leur temps et
+savourent le fait de chasser ces intrus qui tentent vainement de
+trouver une sortie. 
+
+C’est seulement quand le désespoir accable
+les victimes que les minotaures passent à l’attaque. Lorsqu’ils
+affrontent un groupe d’intrus, les minotaures permettent souvent à
+l’un d’entre eux de s’échapper, afin qu’il puisse raconter les horreurs
+qu’il a vécues et ainsi attirer des apprentis tueurs de minotaures
+vers le labyrinthe. Bien sûr, pour les minotaures, ces soi-disant
+héros feront un délicieux repas.
+
+On peut également rencontrer des minotaures au service de
+monstres ou créatures maléfiques plus puissants, une place qu’ils
+acceptent pour autant qu’ils puissent encore chasser et manger à
+leur convenance. On les emploie généralement pour garder un objet
+précieux ou un endroit important. Leur maître peut également leur
+confier un travail de mercenaire et leur ordonner de pourchasser ses
+ennemis par exemple.
+
+Les minotaures emploient des tactiques plutôt directes au
+combat : ils utilisent leurs cornes pour déchiqueter la créature
+vivante la plus proche d’eux.
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Minotaure</fullName>
+</wikiPage>

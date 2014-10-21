@@ -1,0 +1,125 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Aurumvorax</title>
+  <categories><category>Pathfinder-RPG.Bestiaire 2</category><category>Pathfinder-RPG.Monstre</category><category>Pathfinder-RPG.Règles officielles</category></categories>
+  <lastModified>2013-02-02 13:33:04Z</lastModified>
+  <version>5</version>
+  <inLinks><link>Pathfinder-RPG.Glossaire des monstres</link><link>Pathfinder-RPG.Liste de monstres par FP</link><link>Pathfinder-RPG.Liste de monstres par milieu naturel</link><link>Pathfinder-RPG.Liste de monstres par type</link><link>Pathfinder-RPG.Monstres</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.type Créature magique</link><link>Pathfinder-RPG.odorat</link><link>Pathfinder-RPG.vision dans le noir</link><link>Pathfinder-RPG.vision nocturne</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Férocité (capacité)</link><link>Pathfinder-RPG.Étreinte (capacité)</link><link>Pathfinder-RPG.Pattes arrière (capacité)</link><link>Pathfinder-RPG.croc-en-jambe</link><link>Pathfinder-RPG.Critique sanglant</link><link>Pathfinder-RPG.Don pour les critiques</link><link>Pathfinder-RPG.Science de linitiative</link><link>Pathfinder-RPG.Talent</link><link>Pathfinder-RPG.Vigueur surhumaine</link><link>Pathfinder-RPG.Volonté de fer</link><link>Pathfinder-RPG.Discrétion</link><link>Pathfinder-RPG.taille</link><link>Pathfinder-RPG.lutte</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Aurumvorax&lt;div style=&quot;float:right;&quot;&gt;FP 9&lt;/div&gt;&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Bestiaire 2 page 41&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 6.400
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Cr&#233;ature-Magique.html&quot; title=&quot;Cr&#233;ature magique&quot;&gt;Cr&#233;ature magique&lt;/a&gt; de taille P, N
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +8 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Odorat-(Capacit&#233;).html&quot; title=&quot;odorat&quot;&gt;odorat&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Capacit&#233;s-Sp&#233;ciales.html#VISIONDANSLENOIR&quot; title=&quot;vision dans le noir&quot;&gt;vision dans le noir&lt;/a&gt; 18 m (12 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Nocturne-(Capacit&#233;).html&quot; title=&quot;vision nocturne&quot;&gt;vision nocturne&lt;/a&gt; ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +13
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 23, contact 15, pris au d&#233;pourvu 19 (Dex +4, naturelle +8, taille +1)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 114 (12d10+48)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +12, &lt;b&gt;Vig&lt;/b&gt; +14, &lt;b&gt;Vol&lt;/b&gt; +7
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Capacit&#233;s d&#233;fensives&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;F&#233;rocit&#233;-(Capacit&#233;).html&quot; title=&quot;F&#233;rocit&#233; (Ext)&quot;&gt;f&#233;rocit&#233;&lt;/a&gt; ; &lt;b&gt;Immunit&#233;s&lt;/b&gt; poison ; &lt;b&gt;RD&lt;/b&gt; 10/perforant ou tranchant ; &lt;b&gt;R&#233;sistances&lt;/b&gt; feu 10
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 9 m (6 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), creusement 3 m (2 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; morsure, +18 (1d6+5 plus &lt;a class=&quot;pagelink&quot; href=&quot;&#201;treinte-(Capacit&#233;).html&quot; title=&quot;&#201;treinte (Ext)&quot;&gt;&#233;treinte&lt;/a&gt;) et 4 griffes, +18 (1d4+5 plus &lt;a class=&quot;pagelink&quot; href=&quot;&#201;treinte-(Capacit&#233;).html&quot; title=&quot;&#201;treinte (Ext)&quot;&gt;&#233;treinte&lt;/a&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaques sp&#233;ciales&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pattes-Arri&#232;re-(Capacit&#233;).html&quot; title=&quot;Pattes arri&#232;re (Ext)&quot;&gt;pattes arri&#232;re&lt;/a&gt; (4 griffes +18, 1d4+5)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 21, &lt;b&gt;Dex&lt;/b&gt; 18, &lt;b&gt;Con&lt;/b&gt; 18, &lt;b&gt;Int&lt;/b&gt; 2, &lt;b&gt;Sag&lt;/b&gt; 13, &lt;b&gt;Cha&lt;/b&gt; 11
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +12 ; &lt;b&gt;BMO&lt;/b&gt; +16 (+24 lutte) ; &lt;b&gt;DMD&lt;/b&gt; 30 (42 contre &lt;a class=&quot;pagelink&quot; href=&quot;Croc-En-Jambe.html&quot; title=&quot;croc-en-jambe&quot;&gt;croc-en-jambe&lt;/a&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Critique-Sanglant.html&quot; title=&quot;Critique sanglant&quot;&gt;Critique sanglant&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Don-Pour-Les-Critiques.html&quot; title=&quot;Don pour les critiques&quot;&gt;Don pour les critiques&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Science-De-Linitiative.html&quot; title=&quot;Science de l&amp;#39;initiative&quot;&gt;Science de l&#39;initiative&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Talent.html&quot; title=&quot;Talent&quot;&gt;Talent&lt;/a&gt; (Perception), &lt;a class=&quot;pagelink&quot; href=&quot;Vigueur-Surhumaine.html&quot; title=&quot;Vigueur surhumaine&quot;&gt;Vigueur surhumaine&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Volont&#233;-De-Fer.html&quot; title=&quot;Volont&#233; de fer&quot;&gt;Volont&#233; de fer&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; +17, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +13
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; plaines, collines ou for&#234;ts temp&#233;r&#233;es
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation sociale&lt;/b&gt; solitaire ou couple
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; standart
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Particularit&#233;s&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Etreinte (Ext)&lt;/b&gt; Un aurumvorax peut utiliser sa capacit&#233; d’&lt;a class=&quot;pagelink&quot; href=&quot;&#201;treinte-(Capacit&#233;).html&quot; title=&quot;&#201;treinte (Ext)&quot;&gt;&#233;treinte&lt;/a&gt; contre des adversaires ayant jusqu’&#224; une cat&#233;gorie de &lt;a class=&quot;pagelink&quot; href=&quot;Petites-Et-Grandes-Cr&#233;atures.html#TABLEAUTAILLES&quot; title=&quot;taille&quot;&gt;taille&lt;/a&gt; de plus que lui (taille M au maximum pour la plupart des aurumvorax). Il gagne un bonus de +8 aux tests de &lt;a class=&quot;pagelink&quot; href=&quot;Manœuvres-Offensives.html#LUTTE&quot; title=&quot;lutte&quot;&gt;lutte&lt;/a&gt; au lieu du bonus de +4 d&#233;coulant habituellement de cette capacit&#233;.
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;td&gt;&lt;div&gt;
+&lt;i&gt;On devine les muscles puissants qui sont cach&#233;s sous la fourrure dor&#233;e de cet animal &#224; huit pattes certes petit mais d’apparence f&#233;roce.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Les aurumvorax sont des cr&#233;atures tr&#232;s agressives qui m&#232;nent des vies solitaires et ne se rassemblent que pour se reproduire. Les sp&#233;cimens adultes consid&#232;rent g&#233;n&#233;ralement tout ce qui se trouve &#224; moins de 1,5 km de leur terrier comme leur territoire de chasse et en &#233;loigne impitoyablement tous les autres pr&#233;dateurs. Les aurumvorax se repaissent de viande crue, mais ils aiment aussi ronger les m&#233;taux (et plus particuli&#232;rement l’or et le cuivre). Cependant, on ne sait pas s’ils le font pour aiguiser leurs dents ou pour r&#233;pondre &#224; un besoin nutritionnel. Les terriers d’aurumvorax prennent la forme de galeries pouvant s’&#233;tendre sur plusieurs
+centaines de m&#232;tres et s’enfon&#231;ant souvent profond&#233;ment sous la surface. &#192; cause des go&#251;ts de luxe des aurumvorax en mati&#232;re de m&#233;tal, les nains, qui ont perdu de nombreux mineurs sous les m&#226;choires de ces dangereuses cr&#233;atures, leur ont donn&#233; le sobriquet de &#171; bouffeurs d’or &#187;.&lt;br /&gt;&lt;br /&gt;Au combat, les aurumvorax s’accrochent &#224; leurs victimes en utilisant leur gueule et leur infligent de graves blessures &#224; l’aide de leurs griffes. Bien souvent, ils ne rel&#226;chent pas leur emprise avant que leur proies (ou qu’eux-m&#234;me) ne d&#233;c&#232;dent. Ils prennent g&#233;n&#233;ralement pour cible la cr&#233;ature vivante la plus proche d’eux,
+quelle que soit sa taille, et ignorent les blessures que les autres ennemis leur infligent tant que la victime choisie n’est pas morte.&lt;br /&gt;&lt;br /&gt;Un aurumvorax moyen ne mesure que 90 cm de long mais p&#232;se plus de 100 kg tant ses muscles sont denses et ses os, &#233;pais et robustes. Il poss&#232;de une fourrure dor&#233;e et des griffes noires et ac&#233;r&#233;es. Vu son poids important (par rapport &#224; sa taille), il n’est pas un bon nageur. La plupart des aurumvorax d&#233;testent traverser les cours d’eau, mais ils peuvent le faire en progressant &#224; pas lourds au fond des eaux calmes si cela s’av&#232;re n&#233;cessaire.
+Les aurumvorax adultes sont impossibles &#224; entra&#238;ner mais les jeunes, qui peuvent &#234;tre form&#233;s pour tenir le r&#244;le de chiens de garde, sont tr&#232;s demand&#233;s. Un b&#233;b&#233; aurumvorax en bonne sant&#233; peut &#234;tre vendu pour 5 000 po ou plus encore &#224; un acheteur int&#233;ress&#233;. Les aurumvorax femelles ne donnent que tr&#232;s rarement naissance &#224; plus d’un jeune &#224; la fois : elles prot&#232;gent donc leur prog&#233;niture avec une grande f&#233;rocit&#233;.&lt;br /&gt;&lt;br /&gt;Les aurumvorax tra&#238;nent g&#233;n&#233;ralement leurs proies jusqu’&#224; leur repaire pour pouvoir les d&#233;vorer &#224; leur aise. Les coins o&#249; ils se d&#233;barrassent des ossements contiennent parfois des objets pr&#233;cieux ayant appartenu &#224; leurs victimes. On peut &#233;galement trouver des m&#233;taux pr&#233;cieux, des gemmes abandonn&#233;es et des objets m&#233;talliques rong&#233;s dans leurs terriers. Les aurumvorax poss&#232;dent une fourrure de couleur m&#233;tallique, mais ils ne sont pas affect&#233;s par les attaques qui ciblent les m&#233;taux, telles que m&#233;tal br&#251;lant ou le contact avec un oxydeur. En fait, les aurumvorax peuvent facilement tuer et d&#233;vorer les oxydeurs : c’est pour cela que certains clans de nain utilisent des aurumvorax domestiqu&#233;s pour prot&#233;ger leurs entrep&#244;ts des oxydeurs.
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Aurumvorax|FP 9}
+{s:pucem|Créature magique|Collines|Tempéré}
+{s:BDTexte|''Source : Bestiaire 2 page 41''}
+{s:BDTexte|'''PX''' 6.400}
+{s:BDTexte|[[type Créature magique|Créature magique]] de taille P, N}
+{s:BDTexte|'''Init''' +8 ; '''Sens''' [[odorat]], [[vision dans le noir]] 18 m (12 {s:c}), [[vision nocturne]] ; [[Perception]] +13}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 23, contact 15, pris au dépourvu 19 (Dex +4, naturelle +8, taille +1)}
+{s:BDTexte|'''pv''' 114 (12d10+48)}
+{s:BDTexte|'''Réf''' +12, '''Vig''' +14, '''Vol''' +7}
+{s:BDTexte|'''Capacités défensives''' [[férocité (capacité)|férocité]] ; '''Immunités''' poison ; '''RD''' 10/perforant ou tranchant ; '''Résistances''' feu 10}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 9 m (6 {s:c}), creusement 3 m (2 {s:c})}
+{s:BDTexte|'''Corps à corps''' morsure, +18 (1d6+5 plus [[étreinte (capacité)|étreinte]]) et 4 griffes, +18 (1d4+5 plus [[étreinte (capacité)|étreinte]])}
+{s:BDTexte|'''Attaques spéciales''' [[pattes arrière (capacité)|pattes arrière]] (4 griffes +18, 1d4+5)}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 21, '''Dex''' 18, '''Con''' 18, '''Int''' 2, '''Sag''' 13, '''Cha''' 11}
+{s:BDTexte|'''BBA''' +12 ; '''BMO''' +16 (+24 lutte) ; '''DMD''' 30 (42 contre [[croc-en-jambe]])}
+{s:BDTexte|'''Dons''' [[Critique sanglant]], [[Don pour les critiques]], [[Science de linitiative|Science de l'initiative]], [[Talent]] (Perception), [[Vigueur surhumaine]], [[Volonté de fer]]}
+{s:BDTexte|'''Compétences''' [[Discrétion]] +17, [[Perception]] +13}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' plaines, collines ou forêts tempérées}
+{s:BDTexte|'''Organisation sociale''' solitaire ou couple}
+{s:BDTexte|'''Trésor''' standart}
+{s:BDSousTitre|Particularités}
+{s:BDTexte|'''Etreinte (Ext)''' Un aurumvorax peut utiliser sa capacité d’[[étreinte (capacité)|étreinte]] contre des adversaires ayant jusqu’à une catégorie de [[taille]] de plus que lui (taille M au maximum pour la plupart des aurumvorax). Il gagne un bonus de +8 aux tests de [[lutte]] au lieu du bonus de +4 découlant habituellement de cette capacité.}
+</div>
+</td><td><div>
+''On devine les muscles puissants qui sont cachés sous la fourrure dorée de cet animal à huit pattes certes petit mais d’apparence féroce.''
+
+Les aurumvorax sont des créatures très agressives qui mènent des vies solitaires et ne se rassemblent que pour se reproduire. Les spécimens adultes considèrent généralement tout ce qui se trouve à moins de 1,5 km de leur terrier comme leur territoire de chasse et en éloigne impitoyablement tous les autres prédateurs. Les aurumvorax se repaissent de viande crue, mais ils aiment aussi ronger les métaux (et plus particulièrement l’or et le cuivre). Cependant, on ne sait pas s’ils le font pour aiguiser leurs dents ou pour répondre à un besoin nutritionnel. Les terriers d’aurumvorax prennent la forme de galeries pouvant s’étendre sur plusieurs
+centaines de mètres et s’enfonçant souvent profondément sous la surface. À cause des goûts de luxe des aurumvorax en matière de métal, les nains, qui ont perdu de nombreux mineurs sous les mâchoires de ces dangereuses créatures, leur ont donné le sobriquet de « bouffeurs d’or ».
+
+Au combat, les aurumvorax s’accrochent à leurs victimes en utilisant leur gueule et leur infligent de graves blessures à l’aide de leurs griffes. Bien souvent, ils ne relâchent pas leur emprise avant que leur proies (ou qu’eux-même) ne décèdent. Ils prennent généralement pour cible la créature vivante la plus proche d’eux,
+quelle que soit sa taille, et ignorent les blessures que les autres ennemis leur infligent tant que la victime choisie n’est pas morte.
+
+Un aurumvorax moyen ne mesure que 90 cm de long mais pèse plus de 100 kg tant ses muscles sont denses et ses os, épais et robustes. Il possède une fourrure dorée et des griffes noires et acérées. Vu son poids important (par rapport à sa taille), il n’est pas un bon nageur. La plupart des aurumvorax détestent traverser les cours d’eau, mais ils peuvent le faire en progressant à pas lourds au fond des eaux calmes si cela s’avère nécessaire.
+Les aurumvorax adultes sont impossibles à entraîner mais les jeunes, qui peuvent être formés pour tenir le rôle de chiens de garde, sont très demandés. Un bébé aurumvorax en bonne santé peut être vendu pour 5 000 po ou plus encore à un acheteur intéressé. Les aurumvorax femelles ne donnent que très rarement naissance à plus d’un jeune à la fois : elles protègent donc leur progéniture avec une grande férocité.
+
+Les aurumvorax traînent généralement leurs proies jusqu’à leur repaire pour pouvoir les dévorer à leur aise. Les coins où ils se débarrassent des ossements contiennent parfois des objets précieux ayant appartenu à leurs victimes. On peut également trouver des métaux précieux, des gemmes abandonnées et des objets métalliques rongés dans leurs terriers. Les aurumvorax possèdent une fourrure de couleur métallique, mais ils ne sont pas affectés par les attaques qui ciblent les métaux, telles que métal brûlant ou le contact avec un oxydeur. En fait, les aurumvorax peuvent facilement tuer et dévorer les oxydeurs : c’est pour cela que certains clans de nain utilisent des aurumvorax domestiqués pour protéger leurs entrepôts des oxydeurs.
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Aurumvorax</fullName>
+</wikiPage>

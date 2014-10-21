@@ -1,0 +1,113 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Xtabay</title>
+  <categories><category>Pathfinder-RPG.Bestiaire 2</category><category>Pathfinder-RPG.Monstre</category><category>Pathfinder-RPG.Règles officielles</category></categories>
+  <lastModified>2013-02-06 19:17:07Z</lastModified>
+  <version>1</version>
+  <inLinks><link>Pathfinder-RPG.Glossaire des monstres</link><link>Pathfinder-RPG.Liste de monstres par FP</link><link>Pathfinder-RPG.Liste de monstres par milieu naturel</link><link>Pathfinder-RPG.Liste de monstres par type</link><link>Pathfinder-RPG.Monstres</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.type Plante</link><link>Pathfinder-RPG.Perception des vibrations</link><link>Pathfinder-RPG.vision nocturne</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Traits des plantes</link><link>Pathfinder-RPG.croc-en-jambe</link><link>Pathfinder-RPG.Action complexe</link><link>Pathfinder-RPG.round</link><link>Pathfinder-RPG.Vigueur</link><link>Pathfinder-RPG.DD</link><link>Pathfinder-RPG.affaiblissement temporaire</link><link>Pathfinder-RPG.Constitution</link><link>Pathfinder-RPG.Volonté</link><link>Pathfinder-RPG.jet de sauvegarde</link><link>Pathfinder-RPG.Action simple</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Xtabay&lt;div style=&quot;float:right;&quot;&gt;FP 1/2&lt;/div&gt;&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Bestiaire 2&lt;/i&gt; p.292
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 200
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Plante.html&quot; title=&quot;Plante&quot;&gt;Plante&lt;/a&gt; de taille P, N
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +1 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Perception-Des-Vibrations-(Capacit&#233;).html&quot; title=&quot;Perception des vibrations&quot;&gt;perception des vibrations&lt;/a&gt; 9 m (6 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Nocturne-(Capacit&#233;).html&quot; title=&quot;vision nocturne&quot;&gt;vision nocturne&lt;/a&gt; ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +1
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 12, contact 12, pris au d&#233;pourvu 10 (Dex +1, taille +1)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 8 (1d8+4)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +1, &lt;b&gt;Vig&lt;/b&gt; +6, &lt;b&gt;Vol&lt;/b&gt; +1
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;immunit&#233;s&lt;/b&gt; acide, &lt;a class=&quot;pagelink&quot; href=&quot;Traits-Des-Plantes-(Capacit&#233;).html&quot; title=&quot;Traits des plantes&quot;&gt;traits des plantes&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 1,5 m (1 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; 2 dards, +0 (1d3–1 plus 1d2 acide)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaque sp&#233;ciales&lt;/b&gt; d&#233;vorer, pollen soporifique
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 8, &lt;b&gt;Dex&lt;/b&gt; 13, &lt;b&gt;Con&lt;/b&gt; 19, &lt;b&gt;Int&lt;/b&gt; -, &lt;b&gt;Sag&lt;/b&gt; 12, &lt;b&gt;Cha&lt;/b&gt; 11
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +0, &lt;b&gt;BMO&lt;/b&gt; -2, &lt;b&gt;DMD&lt;/b&gt; 9 (&lt;a class=&quot;pagelink&quot; href=&quot;Croc-En-Jambe.html&quot; title=&quot;croc-en-jambe&quot;&gt;croc-en-jambe&lt;/a&gt; impossible
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; terre ferme
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation sociale&lt;/b&gt; solitaire, couple, taillis (3-5) ou jardin (6-12)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; aucun
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Pouvoirs sp&#233;ciaux&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;D&#233;vorer (Ext).&lt;/b&gt; Lorsqu’une cr&#233;ature est affect&#233;e par le pollen soporifique d’un xtabay, la plante peut utiliser une &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions.html#COMPLEXE&quot; title=&quot;Action complexe&quot;&gt;action complexe&lt;/a&gt; pour occuper le m&#234;me espace que la cr&#233;ature endormie et absorber lentement son essence vitale. Chaque &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#ROUND&quot; title=&quot;round&quot;&gt;round&lt;/a&gt; o&#249; le xtabay utilise cette capacit&#233;, la victime doit r&#233;ussir un jet de &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;Vigueur&quot;&gt;Vigueur&lt;/a&gt; de &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DEGREDEDIFFICULTE&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; 14 pour ne pas subir un &lt;a class=&quot;pagelink&quot; href=&quot;Affaiblissement-Temporaire-(Capacit&#233;).html&quot; title=&quot;affaiblissement temporaire&quot;&gt;affaiblissement temporaire&lt;/a&gt; de 1d2 points de &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#CONSTITUTION&quot; title=&quot;La Constitution&quot;&gt;Constitution&lt;/a&gt;. Le xtabay se nourrit sans causer de douleur et donc sans r&#233;veiller la victime endormie. Chaque &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#ROUND&quot; title=&quot;round&quot;&gt;round&lt;/a&gt; au cours duquel la plante continue de se nourrir, la victime peut tenter un nouveau test de &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;Volont&#233;&quot;&gt;Volont&#233;&lt;/a&gt; contre un &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DEGREDEDIFFICULTE&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; de 14 pour se r&#233;veiller. Le &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DEGREDEDIFFICULTE&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; du &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;jet de sauvegarde&quot;&gt;jet de sauvegarde&lt;/a&gt; d&#233;pend de la &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#CONSTITUTION&quot; title=&quot;La Constitution&quot;&gt;Constitution&lt;/a&gt;.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Pollen soporifique (Ext).&lt;/b&gt; Par une &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions.html#SIMPLE&quot; title=&quot;Action simple&quot;&gt;action simple&lt;/a&gt;, un xtabay peut lib&#233;rer un pollen soporifique dans l’air tout autour de lui. Toutes les cr&#233;atures situ&#233;es dans une zone de 3 m&#232;tres (2 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) de rayon centr&#233; sur le xtabay doivent r&#233;ussir un jet de &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;Volont&#233;&quot;&gt;Volont&#233;&lt;/a&gt; de DD 14 pour ne pas tomber endormies pendant 1d3 minutes. Les cr&#233;atures qui r&#233;ussissent ce &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;jet de sauvegarde&quot;&gt;jet de sauvegarde&lt;/a&gt; ne peuvent plus &#234;tre affect&#233;es par le pollen soporifique du m&#234;me xtabay pendant les 24 heures qui suivent. Les cr&#233;atures endormies par le pollen se r&#233;veillent si on les secoue violemment (une &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions.html#SIMPLE&quot; title=&quot;Action simple&quot;&gt;action simple&lt;/a&gt;) ou si elles subissent des d&#233;g&#226;ts. Il s’agit d’un effet mental de sommeil. Le &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DEGREDEDIFFICULTE&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; du &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;jet de sauvegarde&quot;&gt;jet de sauvegarde&lt;/a&gt; d&#233;pend de la &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#CONSTITUTION&quot; title=&quot;La Constitution&quot;&gt;Constitution&lt;/a&gt;.
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;td&gt;&lt;div&gt;
+&lt;i&gt;Ce tapis de plantes grimpantes est orn&#233; de magnifiques fleurs &#233;carlates et violettes dont les p&#233;tales semblent &#234;tre d&#233;cor&#233;s de minuscules visages.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Les xtabays sont des fleurs c&#233;l&#232;bres pour leur odeur puissante (et mortelle) qui peuvent se r&#233;v&#233;ler dangereuses pour les imprudents. Les xtabays se r&#233;pandent aussi rapidement que du lierre et poss&#232;dent des lianes r&#233;sistantes qui s’adaptent facilement aux divers environnements, ce qui fait d’eux une menace potentielle quasi omnipr&#233;sente, des jardins aux puits en passant par les clairi&#232;res foresti&#232;res.&lt;br /&gt;&lt;br /&gt;Les fleurs attirantes qui bourgeonnent sur les lianes des xtabays &#233;mettent des spores qui peuvent faire glisser leurs victimes vers une mort lente. Les &#233;tranges motifs en forme de visage qui ornent leurs p&#233;tales peuvent &#234;tre effrayants, mais ils ne poss&#232;dent aucune r&#233;elle fonction. Les ermites et les reclus entourent parfois leur territoire de xtabays pour tenir &#224; l’&#233;cart les intrus (animaux ou aventuriers). Certains ont d&#233;j&#224; d&#233;clar&#233; avoir vu des plants de xtabay plus grands que la moyenne. Ces plantes massives poss&#232;dent des filaments aussi &#233;pais que des branches d’arbre et des fleurs dont le parfum &#233;crasant peut venir &#224; bout des guerriers les plus robustes. Les xtabays prolif&#232;rent aussi dans l’environnement sombre et humide qu’est le sous-sol  : ils recouvrent les murs et les plafonds de grottes et anesth&#233;sient des clans entiers de cr&#233;atures souterraines.&lt;br /&gt;&lt;br /&gt;Ces plantes nomades traversent de vastes territoires jusqu’&#224; ce qu’elles per&#231;oivent de la vie autour d’elles. &#192; ce moment-l&#224;, elles se tiennent immobiles et se font passer pour des fleurs inoffensives tout en lib&#233;rant leur ar&#244;me trompeur. D&#232;s qu’une cr&#233;ature est endormie, les xtabays ne perdent pas de temps et se mettent imm&#233;diatement &#224; la d&#233;vorer sans se pr&#233;occuper des cr&#233;atures qui n’ont pas &#233;t&#233; affect&#233;es par leur pollen. Vu leur nature carnivore, les xtabays tombent rarement &#224; court d’aliments  : apr&#232;s avoir vid&#233; leur victime de son sang, ils consomment int&#233;gralement son corps et tiennent ainsi pendant plusieurs jours. Si les xtabays sont capables de d&#233;vorer des cr&#233;atures, c’est gr&#226;ce &#224; leurs longues racines qui produisent un acide corrosif suffisamment puissant pour transformer les chairs et les os en mati&#232;re facile &#224; absorber.
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Xtabay|FP 1/2}
+{s:pucem|Plante|Forêt-Jungle|Tempéré}
+{s:BDTexte|''Source : Bestiaire 2'' p.292}
+{s:BDTexte|'''PX''' 200}
+{s:BDTexte|[[type Plante|Plante]] de taille P, N}
+{s:BDTexte|'''Init''' +1 ; '''Sens''' [[perception des vibrations]] 9 m (6 {s:c}), [[vision nocturne]] ; [[Perception]] +1}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 12, contact 12, pris au dépourvu 10 (Dex +1, taille +1)}
+{s:BDTexte|'''pv''' 8 (1d8+4)}
+{s:BDTexte|'''Réf''' +1, '''Vig''' +6, '''Vol''' +1}
+{s:BDTexte|'''immunités''' acide, [[traits des plantes]]}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 1,5 m (1 {s:c})}
+{s:BDTexte|'''Corps à corps''' 2 dards, +0 (1d3–1 plus 1d2 acide)}
+{s:BDTexte|'''Attaque spéciales''' dévorer, pollen soporifique}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 8, '''Dex''' 13, '''Con''' 19, '''Int''' -, '''Sag''' 12, '''Cha''' 11}
+{s:BDTexte|'''BBA''' +0, '''BMO''' -2, '''DMD''' 9 ([[croc-en-jambe]] impossible}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' terre ferme}
+{s:BDTexte|'''Organisation sociale''' solitaire, couple, taillis (3-5) ou jardin (6-12)}
+{s:BDTexte|'''Trésor''' aucun}
+{s:BDSousTitre|Pouvoirs spéciaux}
+{s:BDTexte|'''Dévorer (Ext).''' Lorsqu’une créature est affectée par le pollen soporifique d’un xtabay, la plante peut utiliser une [[action complexe]] pour occuper le même espace que la créature endormie et absorber lentement son essence vitale. Chaque [[round]] où le xtabay utilise cette capacité, la victime doit réussir un jet de [[Vigueur]] de [[DD]] 14 pour ne pas subir un [[affaiblissement temporaire]] de 1d2 points de [[Constitution]]. Le xtabay se nourrit sans causer de douleur et donc sans réveiller la victime endormie. Chaque [[round]] au cours duquel la plante continue de se nourrir, la victime peut tenter un nouveau test de [[Volonté]] contre un [[DD]] de 14 pour se réveiller. Le [[DD]] du [[jet de sauvegarde]] dépend de la [[Constitution]].}
+{s:BDTexte|'''Pollen soporifique (Ext).''' Par une [[action simple]], un xtabay peut libérer un pollen soporifique dans l’air tout autour de lui. Toutes les créatures situées dans une zone de 3 mètres (2 {s:c}) de rayon centré sur le xtabay doivent réussir un jet de [[Volonté]] de DD 14 pour ne pas tomber endormies pendant 1d3 minutes. Les créatures qui réussissent ce [[jet de sauvegarde]] ne peuvent plus être affectées par le pollen soporifique du même xtabay pendant les 24 heures qui suivent. Les créatures endormies par le pollen se réveillent si on les secoue violemment (une [[action simple]]) ou si elles subissent des dégâts. Il s’agit d’un effet mental de sommeil. Le [[DD]] du [[jet de sauvegarde]] dépend de la [[Constitution]].}
+</div>
+</td><td><div>
+''Ce tapis de plantes grimpantes est orné de magnifiques fleurs écarlates et violettes dont les pétales semblent être décorés de minuscules visages.''
+
+Les xtabays sont des fleurs célèbres pour leur odeur puissante (et mortelle) qui peuvent se révéler dangereuses pour les imprudents. Les xtabays se répandent aussi rapidement que du lierre et possèdent des lianes résistantes qui s’adaptent facilement aux divers environnements, ce qui fait d’eux une menace potentielle quasi omniprésente, des jardins aux puits en passant par les clairières forestières.
+
+Les fleurs attirantes qui bourgeonnent sur les lianes des xtabays émettent des spores qui peuvent faire glisser leurs victimes vers une mort lente. Les étranges motifs en forme de visage qui ornent leurs pétales peuvent être effrayants, mais ils ne possèdent aucune réelle fonction. Les ermites et les reclus entourent parfois leur territoire de xtabays pour tenir à l’écart les intrus (animaux ou aventuriers). Certains ont déjà déclaré avoir vu des plants de xtabay plus grands que la moyenne. Ces plantes massives possèdent des filaments aussi épais que des branches d’arbre et des fleurs dont le parfum écrasant peut venir à bout des guerriers les plus robustes. Les xtabays prolifèrent aussi dans l’environnement sombre et humide qu’est le sous-sol  : ils recouvrent les murs et les plafonds de grottes et anesthésient des clans entiers de créatures souterraines.
+
+Ces plantes nomades traversent de vastes territoires jusqu’à ce qu’elles perçoivent de la vie autour d’elles. À ce moment-là, elles se tiennent immobiles et se font passer pour des fleurs inoffensives tout en libérant leur arôme trompeur. Dès qu’une créature est endormie, les xtabays ne perdent pas de temps et se mettent immédiatement à la dévorer sans se préoccuper des créatures qui n’ont pas été affectées par leur pollen. Vu leur nature carnivore, les xtabays tombent rarement à court d’aliments  : après avoir vidé leur victime de son sang, ils consomment intégralement son corps et tiennent ainsi pendant plusieurs jours. Si les xtabays sont capables de dévorer des créatures, c’est grâce à leurs longues racines qui produisent un acide corrosif suffisamment puissant pour transformer les chairs et les os en matière facile à absorber.
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Xtabay</fullName>
+</wikiPage>

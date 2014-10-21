@@ -1,0 +1,115 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Charybde</title>
+  <categories><category>Pathfinder-RPG.Bestiaire 2</category><category>Pathfinder-RPG.Monstre</category><category>Pathfinder-RPG.Règles officielles</category></categories>
+  <lastModified>2013-02-02 18:01:55Z</lastModified>
+  <version>1</version>
+  <inLinks><link>Pathfinder-RPG.Glossaire des monstres</link><link>Pathfinder-RPG.Liste de monstres par FP</link><link>Pathfinder-RPG.Liste de monstres par milieu naturel</link><link>Pathfinder-RPG.Liste de monstres par type</link><link>Pathfinder-RPG.Monstres</link><link>Pathfinder-RPG.Scylla</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.type Aberration</link><link>Pathfinder-RPG.sous-type aquatique</link><link>Pathfinder-RPG.vision aveugle</link><link>Pathfinder-RPG.vision dans le noir</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.guérison accélérée</link><link>Pathfinder-RPG.Étreinte</link><link>Pathfinder-RPG.Engloutissement</link><link>Pathfinder-RPG.Engloutissement rapide (capacité)</link><link>Pathfinder-RPG.croc-en-jambe</link><link>Pathfinder-RPG.Attaque en puissance</link><link>Pathfinder-RPG.Coup fabuleux</link><link>Pathfinder-RPG.Frappe décisive</link><link>Pathfinder-RPG.Réflexes surhumains</link><link>Pathfinder-RPG.Science de la bousculade</link><link>Pathfinder-RPG.Science de la frappe décisive</link><link>Pathfinder-RPG.Science de linitiative</link><link>Pathfinder-RPG.Science du critique</link><link>Pathfinder-RPG.Natation</link><link>Pathfinder-RPG.Tourbillon (capacité)</link><link>Pathfinder-RPG.Kraken</link><link>Pathfinder-RPG.Sirène</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Charybde&lt;div style=&quot;float:right;&quot;&gt;FP 13&lt;/div&gt;&lt;/div&gt;&lt;br /&gt;&lt;ul&gt;&lt;li&gt;&lt;i&gt;Source : Bestiaire 2, p.60&lt;/i&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;PX&lt;/b&gt; 25 600&lt;/li&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Type-Aberration.html&quot; title=&quot;Aberration&quot;&gt;Aberration&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Aquatique.html&quot; title=&quot;Aquatique (sous-type)&quot;&gt;aquatique&lt;/a&gt; de taille Gig, CN&lt;/li&gt;&lt;li&gt;&lt;b&gt;Init&lt;/b&gt; +3 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Aveugle-(Capacit&#233;).html&quot; title=&quot;vision aveugle&quot;&gt;vision aveugle&lt;/a&gt; 18 m (12 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), &lt;a class=&quot;pagelink&quot; href=&quot;Capacit&#233;s-Sp&#233;ciales.html#VISIONDANSLENOIR&quot; title=&quot;vision dans le noir&quot;&gt;vision dans le noir&lt;/a&gt; 36 m (24 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +23&lt;br /&gt;&lt;div class=&quot;box&quot;&gt;D&#233;fense&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;CA&lt;/b&gt; 28, contact 5, pris au d&#233;pourvu 28 (Dex –1, naturelle +23, taille –4)&lt;/li&gt;&lt;li&gt;&lt;b&gt;pv&lt;/b&gt; 184 (16d8+112) ; &lt;a class=&quot;pagelink&quot; href=&quot;Gu&#233;rison-Acc&#233;l&#233;r&#233;e-(Capacit&#233;).html&quot; title=&quot;gu&#233;rison acc&#233;l&#233;r&#233;e&quot;&gt;gu&#233;rison acc&#233;l&#233;r&#233;e&lt;/a&gt; 10&lt;/li&gt;&lt;li&gt;&lt;b&gt;R&#233;f&lt;/b&gt; +6, &lt;b&gt;Vig&lt;/b&gt; +12, &lt;b&gt;Vol&lt;/b&gt; +14&lt;/li&gt;&lt;li&gt;&lt;b&gt;Immunit&#233;s&lt;/b&gt; acide ; &lt;b&gt;R&#233;sistances&lt;/b&gt; froid 20&lt;br /&gt;&lt;div class=&quot;box&quot;&gt;Attaque&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;VD&lt;/b&gt; 6 m (4 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), nage 15 m (10 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)&lt;/li&gt;&lt;li&gt;&lt;b&gt;Corps &#224; corps&lt;/b&gt; morsure, +20 (2d8+12/19–20 plus &lt;a class=&quot;pagelink&quot; href=&quot;&#201;treinte-(Capacit&#233;).html&quot; title=&quot;&#201;treinte&quot;&gt;&#233;treinte&lt;/a&gt;) et 2 griffes, +20 (2d6+12)&lt;/li&gt;&lt;li&gt;&lt;b&gt;Espace&lt;/b&gt; 6 m (4 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) ; Allonge 6 m (4 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)&lt;/li&gt;&lt;li&gt;&lt;b&gt;Attaques sp&#233;ciales&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Engloutissement-(Capacit&#233;).html&quot; title=&quot;Engloutissement&quot;&gt;engloutissement&lt;/a&gt; (6d6 contondant plus 6d6 acide, CA 21, 18 pv), &lt;a class=&quot;pagelink&quot; href=&quot;Engloutissement-Rapide-(Capacit&#233;).html&quot; title=&quot;Engloutissement rapide (Ext)&quot;&gt;engloutissement rapide&lt;/a&gt;, griffes coupantes, vortex&lt;br /&gt;&lt;div class=&quot;box&quot;&gt;Statistiques&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;For&lt;/b&gt; 34, &lt;b&gt;Dex&lt;/b&gt; 9, &lt;b&gt;Con&lt;/b&gt; 25, &lt;b&gt;Int&lt;/b&gt; 4, &lt;b&gt;Sag&lt;/b&gt; 19, &lt;b&gt;Cha&lt;/b&gt; 6&lt;/li&gt;&lt;li&gt;&lt;b&gt;BBA&lt;/b&gt; +12 ; &lt;b&gt;BMO&lt;/b&gt; +28 (+32 lutte) ; &lt;b&gt;DMD&lt;/b&gt; 37 (&lt;a class=&quot;pagelink&quot; href=&quot;Croc-En-Jambe.html&quot; title=&quot;croc-en-jambe&quot;&gt;croc-en-jambe&lt;/a&gt; impossible)&lt;/li&gt;&lt;li&gt;&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Attaque-En-Puissance.html&quot; title=&quot;Attaque en puissance&quot;&gt;Attaque en puissance&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Coup-Fabuleux.html&quot; title=&quot;Coup fabuleux&quot;&gt;Coup fabuleux&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Frappe-D&#233;cisive.html&quot; title=&quot;Frappe d&#233;cisive&quot;&gt;Frappe d&#233;cisive&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;R&#233;flexes-Surhumains.html&quot; title=&quot;R&#233;flexes surhumains&quot;&gt;R&#233;flexes surhumains&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Science-De-La-Bousculade.html&quot; title=&quot;Science de la bousculade&quot;&gt;Science de la bousculade&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Science-De-La-Frappe-D&#233;cisive.html&quot; title=&quot;Science de la frappe d&#233;cisive&quot;&gt;Science de la frappe d&#233;cisive&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Science-De-Linitiative.html&quot; title=&quot;Science de l&amp;#39;initiative&quot;&gt;Science de l’initiative&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Science-Du-Critique.html&quot; title=&quot;Science du critique&quot;&gt;Science du critique&lt;/a&gt; (morsure)&lt;/li&gt;&lt;li&gt;&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +23, &lt;a class=&quot;pagelink&quot; href=&quot;Natation.html&quot; title=&quot;Natation&quot;&gt;Natation&lt;/a&gt; +20&lt;/li&gt;&lt;li&gt;&lt;b&gt;Langues&lt;/b&gt; aquatique&lt;br /&gt;&lt;div class=&quot;box&quot;&gt;&#201;cologie&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;Environnement&lt;/b&gt; oc&#233;ans&lt;/li&gt;&lt;li&gt;&lt;b&gt;Organisation sociale&lt;/b&gt; solitaire&lt;/li&gt;&lt;li&gt;&lt;b&gt;Tr&#233;sor&lt;/b&gt; standard&lt;br /&gt;&lt;div class=&quot;box&quot;&gt;Pouvoirs sp&#233;ciaux&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;Griffes coupantes (Ext).&lt;/b&gt; Les griffes d’un charybde sont particuli&#232;rement dangereuses lorsqu’elles sont utilis&#233;es contre des objets. Elles ignorent les 10 premiers points de solidit&#233;.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Vortex (Sur).&lt;/b&gt; Un chadybde peut cr&#233;er un tourbillon par une action simple utilisable &#224; volont&#233;. Cette capacit&#233; fonctionne comme l’attaque sp&#233;ciale de &lt;a class=&quot;pagelink&quot; href=&quot;Tourbillon-(Capacit&#233;).html&quot; title=&quot;Tourbillon (Sur)&quot;&gt;tourbillon&lt;/a&gt; mais elle ne peut &#234;tre utilis&#233;e que sous l’eau et le tourbillon ne peut pas quitter l’eau. Un jet de R&#233;flexes de DD 25 permet d’&#233;viter d’&#234;tre emport&#233; par le tourbillon du charybde. Le tourbillon en lui-m&#234;me mesure 6 m&#232;tres de diam&#232;tre (4 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), s’&#233;tend sur une profondeur de 36 m&#232;tres (24 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) et inflige 2d6+12 points de d&#233;g&#226;ts par round. Le DD du jet de sauvegarde d&#233;pend de la Constitution.&lt;br /&gt;&lt;/li&gt;&lt;/ul&gt;&lt;br /&gt;&lt;/div&gt;
+&lt;/td&gt;&lt;td&gt;&lt;div&gt;&lt;i&gt;Cet &#233;norme monstre &#233;pineux au dos recouvert de plaques de chitine et au ventre prot&#233;g&#233; par d’&#233;pais replis graisseux jaillit, l’air affam&#233;, au centre du tourbillon.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Les r&#233;cits des marins &#233;voquent de nombreuses
+cr&#233;atures tapies dans les profondeurs de
+l’oc&#233;an, des terribles &lt;a class=&quot;pagelink&quot; href=&quot;Kraken.html&quot; title=&quot;Kraken&quot;&gt;krakens&lt;/a&gt; aux magnifiques
+&lt;a class=&quot;pagelink&quot; href=&quot;Sir&#232;ne.html&quot; title=&quot;Sir&#232;ne&quot;&gt;sir&#232;nes&lt;/a&gt;. Mais rares sont celles qui sont aussi &#233;tranges et aussi
+craintes que le sinistre charybde, un &#234;tre qui n’existe que pour
+capturer les vaisseaux, les briser comme une coquille de noix
+puis se repa&#238;tre des pauvres marins qui en sont prisonniers.
+Ces attaques brutales sont tellement entr&#233;es dans la l&#233;gende
+que la plupart des marins ne consid&#232;rent plus les charybdes
+comme des monstres &#233;tranges mais bien comme l’incarnation
+vengeresse d’un dieu de la mer en col&#232;re.&lt;br /&gt;&lt;br /&gt;En fait, les charybdes ne sont pas les envoy&#233;s d’une divinit&#233;
+m&#233;contente, mais gu&#232;re plus que des pr&#233;dateurs monstrueux
+capables d’agiter m&#234;me les eaux les plus calmes et de faire
+appara&#238;tre des vortex tourbillonnants. Les charybdes utilisent
+leur capacit&#233; de cr&#233;ation de vortex non seulement pour capturer
+des proies comme des requins ou des petites baleines mais aussi
+pour pi&#233;ger les vaisseaux qui naviguent &#224; la surface de l’oc&#233;an.
+Les griffes de ce monstre sont particuli&#232;rement efficaces pour
+&#233;ventrer la coque des navires et bon nombre de charybdes
+savent qu’un grand vaisseau marchand contient suffisamment
+de marins pour former un repas copieux. La plupart du temps,
+les charybdes s’&#233;tablissent le long des routes maritimes fort
+fr&#233;quent&#233;es, pr&#232;s de la c&#244;te ou encore &#224; proximit&#233; d’un archipel
+d’&#238;les, &#224; un endroit o&#249; les navires sont contraints d’emprunter un
+passage relativement &#233;troit entre les &#238;les rocailleuses : ce genre
+d’emplacements permet au charybde d’attendre calmement le
+bon moment pour frapper et r&#233;duit les chances que le navire
+parvienne &#224; &#233;viter son vortex.&lt;br /&gt;&lt;br /&gt;Un charybde mesure
+18 m&#232;tres de long et
+p&#232;se 13 tonnes.
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Charybde|FP 13}
+{s:pucem|Aberration|Aquatique|Tempéré}
+* ''Source : Bestiaire 2, p.60''
+* '''PX''' 25 600
+* [[type Aberration|Aberration]] ([[sous-type aquatique|aquatique]] de taille Gig, CN
+* '''Init''' +3 ; '''Sens''' [[vision aveugle]] 18 m (12 {s:c}), [[vision dans le noir]] 36 m (24 {s:c}) ; [[Perception]] +23
+(((Défense)))
+* '''CA''' 28, contact 5, pris au dépourvu 28 (Dex –1, naturelle +23, taille –4)
+* '''pv''' 184 (16d8+112) ; [[guérison accélérée]] 10
+* '''Réf''' +6, '''Vig''' +12, '''Vol''' +14
+* '''Immunités''' acide ; '''Résistances''' froid 20
+(((Attaque)))
+* '''VD''' 6 m (4 {s:c}), nage 15 m (10 {s:c})
+* '''Corps à corps''' morsure, +20 (2d8+12/19–20 plus [[étreinte]]) et 2 griffes, +20 (2d6+12)
+* '''Espace''' 6 m (4 {s:c}) ; Allonge 6 m (4 {s:c})
+* '''Attaques spéciales''' [[engloutissement]] (6d6 contondant plus 6d6 acide, CA 21, 18 pv), [[engloutissement rapide (capacité)|engloutissement rapide]], griffes coupantes, vortex
+(((Statistiques)))
+* '''For''' 34, '''Dex''' 9, '''Con''' 25, '''Int''' 4, '''Sag''' 19, '''Cha''' 6
+* '''BBA''' +12 ; '''BMO''' +28 (+32 lutte) ; '''DMD''' 37 ([[croc-en-jambe]] impossible)
+* '''Dons''' [[Attaque en puissance]], [[Coup fabuleux]], [[Frappe décisive]], [[Réflexes surhumains]], [[Science de la bousculade]], [[Science de la frappe décisive]], [[Science de linitiative|Science de l’initiative]], [[Science du critique]] (morsure)
+* '''Compétences''' [[Perception]] +23, [[Natation]] +20
+* '''Langues''' aquatique
+(((Écologie)))
+* '''Environnement''' océans
+* '''Organisation sociale''' solitaire
+* '''Trésor''' standard
+(((Pouvoirs spéciaux)))
+* '''Griffes coupantes (Ext).''' Les griffes d’un charybde sont particulièrement dangereuses lorsqu’elles sont utilisées contre des objets. Elles ignorent les 10 premiers points de solidité.
+* '''Vortex (Sur).''' Un chadybde peut créer un tourbillon par une action simple utilisable à volonté. Cette capacité fonctionne comme l’attaque spéciale de [[tourbillon (capacité)|tourbillon]] mais elle ne peut être utilisée que sous l’eau et le tourbillon ne peut pas quitter l’eau. Un jet de Réflexes de DD 25 permet d’éviter d’être emporté par le tourbillon du charybde. Le tourbillon en lui-même mesure 6 mètres de diamètre (4 {s:c}), s’étend sur une profondeur de 36 mètres (24 {s:c}) et inflige 2d6+12 points de dégâts par round. Le DD du jet de sauvegarde dépend de la Constitution.
+
+</div>
+</td><td><div>''Cet énorme monstre épineux au dos recouvert de plaques de chitine et au ventre protégé par d’épais replis graisseux jaillit, l’air affamé, au centre du tourbillon.''
+
+Les récits des marins évoquent de nombreuses
+créatures tapies dans les profondeurs de
+l’océan, des terribles [[kraken|krakens]] aux magnifiques
+[[sirène|sirènes]]. Mais rares sont celles qui sont aussi étranges et aussi
+craintes que le sinistre charybde, un être qui n’existe que pour
+capturer les vaisseaux, les briser comme une coquille de noix
+puis se repaître des pauvres marins qui en sont prisonniers.
+Ces attaques brutales sont tellement entrées dans la légende
+que la plupart des marins ne considèrent plus les charybdes
+comme des monstres étranges mais bien comme l’incarnation
+vengeresse d’un dieu de la mer en colère.
+
+En fait, les charybdes ne sont pas les envoyés d’une divinité
+mécontente, mais guère plus que des prédateurs monstrueux
+capables d’agiter même les eaux les plus calmes et de faire
+apparaître des vortex tourbillonnants. Les charybdes utilisent
+leur capacité de création de vortex non seulement pour capturer
+des proies comme des requins ou des petites baleines mais aussi
+pour piéger les vaisseaux qui naviguent à la surface de l’océan.
+Les griffes de ce monstre sont particulièrement efficaces pour
+éventrer la coque des navires et bon nombre de charybdes
+savent qu’un grand vaisseau marchand contient suffisamment
+de marins pour former un repas copieux. La plupart du temps,
+les charybdes s’établissent le long des routes maritimes fort
+fréquentées, près de la côte ou encore à proximité d’un archipel
+d’îles, à un endroit où les navires sont contraints d’emprunter un
+passage relativement étroit entre les îles rocailleuses : ce genre
+d’emplacements permet au charybde d’attendre calmement le
+bon moment pour frapper et réduit les chances que le navire
+parvienne à éviter son vortex.
+
+Un charybde mesure
+18 mètres de long et
+pèse 13 tonnes.
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Charybde</fullName>
+</wikiPage>

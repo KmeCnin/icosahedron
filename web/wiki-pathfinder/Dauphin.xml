@@ -1,0 +1,124 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Dauphin</title>
+  <categories><category>Pathfinder-RPG.Bestiaire</category><category>Pathfinder-RPG.Monstre</category></categories>
+  <lastModified>2013-02-08 07:55:13Z</lastModified>
+  <version>7</version>
+  <inLinks><link>Pathfinder-RPG.Convocation dalliés naturels</link><link>Pathfinder-RPG.Convocation de monstres</link><link>Pathfinder-RPG.Glossaire des monstres</link><link>Pathfinder-RPG.Homme-poisson</link><link>Pathfinder-RPG.Liste de monstres par FP</link><link>Pathfinder-RPG.Liste de monstres par milieu naturel</link><link>Pathfinder-RPG.Liste de monstres par type</link><link>Pathfinder-RPG.Monstres</link><link>Pathfinder-RPG.Orque épaulard</link><link>Pathfinder-RPG.Triton</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.type Animal</link><link>Pathfinder-RPG.vision aveugle</link><link>Pathfinder-RPG.vision nocturne</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Attaque en finesse</link><link>Pathfinder-RPG.Natation</link><link>Pathfinder-RPG.Constitution</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Dauphin&lt;div style=&quot;float:right;&quot;&gt;FP 1/2&lt;/div&gt;&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Bestiaire p.55&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 200
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Animal.html&quot; title=&quot;Animal&quot;&gt;Animal&lt;/a&gt; de taille M, N
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +2 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Aveugle-(Capacit&#233;).html&quot; title=&quot;vision aveugle&quot;&gt;vision aveugle&lt;/a&gt; 36 m (24 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Nocturne-(Capacit&#233;).html&quot; title=&quot;vision nocturne&quot;&gt;vision nocturne&lt;/a&gt; ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +9
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 13, contact 12, pris au d&#233;pourvu 11 (Dex +2, naturelle +1)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 11 (2d8+2)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +5, &lt;b&gt;Vig&lt;/b&gt; +4, &lt;b&gt;Vol&lt;/b&gt; +1
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; nage 24 m (16 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; coup +3 (1d4+1)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 12, &lt;b&gt;Dex&lt;/b&gt; 15, &lt;b&gt;Con&lt;/b&gt; 13, &lt;b&gt;Int&lt;/b&gt; 2, &lt;b&gt;Sag&lt;/b&gt; 13, &lt;b&gt;Cha&lt;/b&gt; 6
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +1, &lt;b&gt;BMO&lt;/b&gt; +2, &lt;b&gt;DMD&lt;/b&gt; 14
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Attaque-En-Finesse.html&quot; title=&quot;Attaque en finesse&quot;&gt;Attaque en finesse&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Natation.html&quot; title=&quot;Natation&quot;&gt;Natation&lt;/a&gt; +13, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +9 ; &lt;b&gt;Modificateurs raciaux&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +4
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Particularit&#233;s&lt;/b&gt; retenir son souffle
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; oc&#233;ans
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation sociale&lt;/b&gt; solitaire, couple ou banc (3-18)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; aucun
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Particularit&#233;s&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Retenir son souffle (Ext)&lt;/b&gt; Un dauphin peut retenir sa respiration pendant un nombre de minutes &#233;gal &#224; 6 fois sa valeur de &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#CONSTITUTION&quot; title=&quot;La Constitution&quot;&gt;Constitution&lt;/a&gt; avant de risquer de se noyer.
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;td&gt;&lt;div&gt;&lt;i&gt;Ce mammif&#232;re aquatique aux formes a&#233;rodynamiques a des yeux brillants et une bouche souriante remplie de centaines de dents.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Les dauphins sont des pr&#233;dateurs sociables qui se regroupent en
+grands groupes familiaux et chassent dans les mers peu profondes
+et les rivi&#232;res. Les marins appr&#233;cient g&#233;n&#233;ralement les dauphins
+et connaissent de nombreuses histoires racontant comment
+des dauphins ont sauv&#233; des p&#234;cheurs de la noyade ou ont tu&#233; des
+requins en leur infligeant de puissants coups de museau.&lt;br /&gt;&lt;br /&gt;&lt;h3 class=&quot;separator&quot;&gt;Le dauphin comme compagnon animal&lt;a class=&quot;headeranchor&quot; id=&quot;Le_dauphin_comme_compagnon_animal_0&quot; href=&quot;#Le_dauphin_comme_compagnon_animal_0&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;
+&lt;b&gt;Caract&#233;ristiques de d&#233;part&lt;/b&gt; &lt;b&gt;Taille&lt;/b&gt; M ; &lt;b&gt;Vitesse&lt;/b&gt; nage 24 m (16 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) ; &lt;b&gt;CA&lt;/b&gt; armure naturelle +1 ; &lt;b&gt;Attaque&lt;/b&gt; coup (1d4) ; &lt;b&gt;Caract&#233;ristiques&lt;/b&gt; For 12, Dex 15, Con 13, Int 2, Sag 12, Cha 6 ; &lt;b&gt;Particularit&#233;s&lt;/b&gt; retenir son souffle, &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Nocturne-(Capacit&#233;).html&quot; title=&quot;vision nocturne&quot;&gt;vision nocturne&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;D&#233;veloppement au niveau 4&lt;/b&gt; &lt;b&gt;Caract&#233;ristiques&lt;/b&gt; For +2, Dex +2, Con +2 ; &lt;b&gt;Particularit&#233;s&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Aveugle-(Capacit&#233;).html&quot; title=&quot;vision aveugle&quot;&gt;vision aveugle&lt;/a&gt; 36 m (24 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;).
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Dauphin|FP 1/2}
+{s:pucem|Animal|Aquatique|Tempéré}
+{s:BDTexte|''Source : Bestiaire p.55''}
+{s:BDTexte|'''PX''' 200}
+{s:BDTexte|[[type Animal|Animal]] de taille M, N}
+{s:BDTexte|'''Init''' +2 ; '''Sens''' [[vision aveugle]] 36 m (24 {s:c}), [[vision nocturne]] ; [[Perception]] +9}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 13, contact 12, pris au dépourvu 11 (Dex +2, naturelle +1)}
+{s:BDTexte|'''pv''' 11 (2d8+2)}
+{s:BDTexte|'''Réf''' +5, '''Vig''' +4, '''Vol''' +1}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' nage 24 m (16 {s:c})}
+{s:BDTexte|'''Corps à corps''' coup +3 (1d4+1)}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 12, '''Dex''' 15, '''Con''' 13, '''Int''' 2, '''Sag''' 13, '''Cha''' 6}
+{s:BDTexte|'''BBA''' +1, '''BMO''' +2, '''DMD''' 14}
+{s:BDTexte|'''Dons''' [[Attaque en finesse]]}
+{s:BDTexte|'''Compétences''' [[Natation]] +13, [[Perception]] +9 ; '''Modificateurs raciaux''' [[Perception]] +4}
+{s:BDTexte|'''Particularités''' retenir son souffle}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' océans}
+{s:BDTexte|'''Organisation sociale''' solitaire, couple ou banc (3-18)}
+{s:BDTexte|'''Trésor''' aucun}
+{s:BDSousTitre|Particularités}
+{s:BDTexte|'''Retenir son souffle (Ext)''' Un dauphin peut retenir sa respiration pendant un nombre de minutes égal à 6 fois sa valeur de [[Constitution]] avant de risquer de se noyer.}
+</div>
+</td><td><div>''Ce mammifère aquatique aux formes aérodynamiques a des yeux brillants et une bouche souriante remplie de centaines de dents.''
+
+Les dauphins sont des prédateurs sociables qui se regroupent en
+grands groupes familiaux et chassent dans les mers peu profondes
+et les rivières. Les marins apprécient généralement les dauphins
+et connaissent de nombreuses histoires racontant comment
+des dauphins ont sauvé des pêcheurs de la noyade ou ont tué des
+requins en leur infligeant de puissants coups de museau.
+
+====Le dauphin comme compagnon animal====
+
+'''Caractéristiques de départ''' '''Taille''' M ; '''Vitesse''' nage 24 m (16 {s:c}) ; '''CA''' armure naturelle +1 ; '''Attaque''' coup (1d4) ; '''Caractéristiques''' For 12, Dex 15, Con 13, Int 2, Sag 12, Cha 6 ; '''Particularités''' retenir son souffle, [[vision nocturne]].
+
+'''Développement au niveau 4''' '''Caractéristiques''' For +2, Dex +2, Con +2 ; '''Particularités''' [[vision aveugle]] 36 m (24 {s:c}).
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Dauphin</fullName>
+</wikiPage>

@@ -1,0 +1,176 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Attaques naturelles</title>
+  <categories></categories>
+  <lastModified>2010-11-28 15:42:58Z</lastModified>
+  <version>2</version>
+  <inLinks><link>Pathfinder-RPG.Actions simples</link><link>Pathfinder-RPG.Arbre à pendus</link><link>Pathfinder-RPG.Chevalier tombal, archétype</link><link>Pathfinder-RPG.Compagnons vermines</link><link>Pathfinder-RPG.Demi-dragon, archétype</link><link>Pathfinder-RPG.Demi-fiélon, archétype</link><link>Pathfinder-RPG.Demi-orque</link><link>Pathfinder-RPG.Div akvan</link><link>Pathfinder-RPG.Eidolon libéré, archétype</link><link>Pathfinder-RPG.FAQ Bestiaire</link><link>Pathfinder-RPG.FAQ Classes</link><link>Pathfinder-RPG.liste des compagnons animaux</link><link>Pathfinder-RPG.Mante géante</link><link>Pathfinder-RPG.Pouvoirs de rage</link><link>Pathfinder-RPG.Puissantes mâchoires</link><link>Pathfinder-RPG.Règles de monstres universelles</link><link>Pathfinder-RPG.Squelette, archétype</link><link>Pathfinder-RPG.Transmutation (école)</link><link>Pathfinder-RPG.Ver-qui-marche, archétype</link><link>Pathfinder-RPG.Yithien</link><link>Pathfinder-RPG.Zombi, archétype</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.BBA</link><link>Pathfinder-RPG.Force</link><link>Pathfinder-RPG.jet de dégâts</link><link>Pathfinder-RPG.dragon</link><link>Pathfinder-RPG.attaque à outrance</link></outLinks>
+  <body><![CDATA[La plupart des cr&#233;atures poss&#232;dent une ou plusieurs attaques naturelles (c’est-&#224;-dire des attaques effectu&#233;es sans l’aide d’une arme fabriqu&#233;e). Ces attaques sont regroup&#233;es en deux cat&#233;gories : les attaques principales/primaires et les attaques secondaires.&lt;br /&gt;&lt;br /&gt;&lt;ul&gt;&lt;li&gt;&lt;a name=&quot;PRINCIPALE&quot;&gt;&lt;/a&gt;Les attaques principales utilisent le &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#BONUSDEBASEALATTAQUE&quot; title=&quot;BBA&quot;&gt;bonus d’attaque de base&lt;/a&gt; maximum de la cr&#233;ature et lui permettent d’ajouter son bonus de &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#FORCE&quot; title=&quot;La Force&quot;&gt;Force&lt;/a&gt; aux &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#DEGATS&quot; title=&quot;jet de d&#233;g&#226;ts&quot;&gt;jets de d&#233;g&#226;ts&lt;/a&gt;.&lt;/li&gt;&lt;li&gt;&lt;a name=&quot;SECONDAIRE&quot;&gt;&lt;/a&gt;Les attaques secondaires utilisent le bonus d’attaque de base de la cr&#233;ature –5 et ne lui permettent d’ajouter que la moiti&#233; de son bonus de Force aux d&#233;g&#226;ts.&lt;/li&gt;&lt;li&gt;Si une cr&#233;ature ne poss&#232;de qu’une seule attaque naturelle, celle-ci utilise toujours le bonus d’attaque de base maximum de la cr&#233;ature et lui permet d’ajouter 1,5 fois son bonus de Force aux d&#233;g&#226;ts. Cette r&#232;gle ne s’applique pas si la cr&#233;ature dispose de plusieurs attaques mais n’en effectue qu’une seule.&lt;br /&gt;&lt;/li&gt;&lt;/ul&gt;&lt;br /&gt;Si une cr&#233;ature poss&#232;de un seul type d’attaque mais peut attaquer plusieurs fois au cours du m&#234;me round, on consid&#232;re cette attaque comme une attaque principale (quelle que soit la cat&#233;gorie &#224; laquelle elle appartient). La Table ci-dessous cite les types d’attaques naturelles les plus courants et indique leur cat&#233;gorie.&lt;br /&gt;&lt;br /&gt;Certaines attaques sp&#233;cifiques sont r&#233;gies par des r&#232;gles diff&#233;rentes. C’est par exemple le cas des &lt;a class=&quot;pagelink&quot; href=&quot;Dragon.html&quot; title=&quot;dragon&quot;&gt;dragons&lt;/a&gt; qui ajoutent toujours 1,5 fois leur bonus de &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#FORCE&quot; title=&quot;La Force&quot;&gt;Force&lt;/a&gt; aux d&#233;g&#226;ts de leur morsure. Ces exceptions sont mentionn&#233;es dans la description des monstres concern&#233;s.&lt;br /&gt;&lt;br /&gt;Les cr&#233;atures qui disposent &#224; la fois d’attaques naturelles et d’attaques par armes manufactur&#233;es peuvent combiner ces deux types d’attaques au cours d’une &lt;a class=&quot;pagelink&quot; href=&quot;Actions-Complexes.html#ATTAQUEAOUTRANCE&quot; title=&quot;attaque &#224; outrance&quot;&gt;attaque &#224; outrance&lt;/a&gt; (mais, g&#233;n&#233;ralement, elles doivent sacrifier les attaques naturelles qui correspondent aux membres dans lesquels elles tiennent une arme, qu’il s’agisse de griffes, de tentacules ou d’un autre appendice). Dans ce cas, les attaques utilisant des armes manufactur&#233;es s’effectuent normalement mais toutes les attaques naturelles sont consid&#233;r&#233;es comme des attaques secondaires (quelle que soit la
+cat&#233;gorie &#224; laquelle elles appartiennent).&lt;br /&gt;&lt;br /&gt;La Table ci-dessous pr&#233;sente &#233;galement les d&#233;g&#226;ts usuels des attaques naturelles en fonction de la taille des cr&#233;atures.&lt;br /&gt;&lt;br /&gt;&lt;a name=&quot;TABLEATTAQUENATURELLE&quot;&gt;&lt;/a&gt;
+&lt;center&gt;
+&lt;table CLASS=&quot;tablo&quot;&gt;&lt;caption&gt;D&#233;g&#226;ts de base selon la taille*&lt;/caption&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td CLASS=&quot;gauche&quot;&gt;Attaque naturelle&lt;/td&gt;&lt;td&gt;I&lt;/td&gt;&lt;td&gt;Min&lt;/td&gt;&lt;td&gt;TP&lt;/td&gt;&lt;td&gt;P&lt;/td&gt;&lt;td&gt;M&lt;/td&gt;&lt;td&gt;G&lt;/td&gt;&lt;td&gt;TG&lt;/td&gt;&lt;td&gt;Gig&lt;/td&gt;&lt;td&gt;Col&lt;/td&gt;&lt;td&gt;Type de d&#233;g&#226;ts&lt;/td&gt;&lt;td&gt;Type d’attaque&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier&quot;&gt;&lt;td CLASS=&quot;gauche&quot;&gt;Aile, pseudopode, sabot, tentacule&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;1d2&lt;/td&gt;&lt;td&gt;1d3&lt;/td&gt;&lt;td&gt;1d4&lt;/td&gt;&lt;td&gt;1d6&lt;/td&gt;&lt;td&gt;1d8&lt;/td&gt;&lt;td&gt;2d6&lt;/td&gt;&lt;td&gt;2d8&lt;/td&gt;&lt;td&gt;C&lt;/td&gt;&lt;td&gt;secondaire&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td CLASS=&quot;gauche&quot;&gt;Bec, mandibules, morsure&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;1d2&lt;/td&gt;&lt;td&gt;1d3&lt;/td&gt;&lt;td&gt;1d4&lt;/td&gt;&lt;td&gt;1d6&lt;/td&gt;&lt;td&gt;1d8&lt;/td&gt;&lt;td&gt;2d6&lt;/td&gt;&lt;td&gt;2d8&lt;/td&gt;&lt;td&gt;4d6&lt;/td&gt;&lt;td&gt;C/P/T&lt;/td&gt;&lt;td&gt;primaire&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td CLASS=&quot;gauche&quot;&gt;Corne, d&#233;fense&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;1d2&lt;/td&gt;&lt;td&gt;1d3&lt;/td&gt;&lt;td&gt;1d4&lt;/td&gt;&lt;td&gt;1d6&lt;/td&gt;&lt;td&gt;1d8&lt;/td&gt;&lt;td&gt;2d6&lt;/td&gt;&lt;td&gt;2d8&lt;/td&gt;&lt;td&gt;4d6&lt;/td&gt;&lt;td&gt;P&lt;/td&gt;&lt;td&gt;primaire&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td CLASS=&quot;gauche&quot;&gt;Coup, frappe&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;1d2&lt;/td&gt;&lt;td&gt;1d3&lt;/td&gt;&lt;td&gt;1d4&lt;/td&gt;&lt;td&gt;1d6&lt;/td&gt;&lt;td&gt;1d8&lt;/td&gt;&lt;td&gt;2d6&lt;/td&gt;&lt;td&gt;2d8&lt;/td&gt;&lt;td&gt;C&lt;/td&gt;&lt;td&gt;primaire&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td CLASS=&quot;gauche&quot;&gt;Coup de queue, pinces&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;1d2&lt;/td&gt;&lt;td&gt;1d3&lt;/td&gt;&lt;td&gt;1d4&lt;/td&gt;&lt;td&gt;1d6&lt;/td&gt;&lt;td&gt;1d8&lt;/td&gt;&lt;td&gt;2d6&lt;/td&gt;&lt;td&gt;2d8&lt;/td&gt;&lt;td&gt;4d6&lt;/td&gt;&lt;td&gt;C&lt;/td&gt;&lt;td&gt;secondaire&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td CLASS=&quot;gauche&quot;&gt;Dard&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;1d2&lt;/td&gt;&lt;td&gt;1d3&lt;/td&gt;&lt;td&gt;1d4&lt;/td&gt;&lt;td&gt;1d6&lt;/td&gt;&lt;td&gt;1d8&lt;/td&gt;&lt;td&gt;2d6&lt;/td&gt;&lt;td&gt;2d8&lt;/td&gt;&lt;td&gt;P&lt;/td&gt;&lt;td&gt;primaire&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td CLASS=&quot;gauche&quot;&gt;Griffe&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;1d2&lt;/td&gt;&lt;td&gt;1d3&lt;/td&gt;&lt;td&gt;1d4&lt;/td&gt;&lt;td&gt;1d6&lt;/td&gt;&lt;td&gt;1d8&lt;/td&gt;&lt;td&gt;2d6&lt;/td&gt;&lt;td&gt;2d8&lt;/td&gt;&lt;td&gt;C/T&lt;/td&gt;&lt;td&gt;primaire&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td CLASS=&quot;gauche&quot;&gt;Serres&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;1d2&lt;/td&gt;&lt;td&gt;1d3&lt;/td&gt;&lt;td&gt;1d4&lt;/td&gt;&lt;td&gt;1d6&lt;/td&gt;&lt;td&gt;1d8&lt;/td&gt;&lt;td&gt;2d6&lt;/td&gt;&lt;td&gt;2d8&lt;/td&gt;&lt;td&gt;T&lt;/td&gt;&lt;td&gt;primaire&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td CLASS=&quot;gauche&quot;&gt;Autre&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;1d2&lt;/td&gt;&lt;td&gt;1d3&lt;/td&gt;&lt;td&gt;1d4&lt;/td&gt;&lt;td&gt;1d6&lt;/td&gt;&lt;td&gt;1d8&lt;/td&gt;&lt;td&gt;2d6&lt;/td&gt;&lt;td&gt;2d8&lt;/td&gt;&lt;td&gt;C/P/T&lt;/td&gt;&lt;td&gt;secondaire&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/center&gt;&lt;br /&gt;&lt;br /&gt;* Pour certaines cr&#233;atures, il peut &#234;tre appropri&#233; d’utiliser d’autres valeurs que celles indiqu&#233;es ci-dessus.&lt;br /&gt;&lt;br /&gt;La colonne &#171; Type de d&#233;g&#226;t &#187; indique le type des d&#233;g&#226;ts g&#233;n&#233;ralement inflig&#233;s par l’attaque naturelle en question :
+contondant (C), Perforant (P) ou tranchant (T). Certaines attaques peuvent occasionner des d&#233;g&#226;ts de plusieurs types &#224; la fois. Elles ignorent les r&#233;ductions de d&#233;g&#226;ts comme si la totalit&#233; des d&#233;g&#226;ts appartenait &#224; chacun des types de d&#233;g&#226;ts cit&#233;s. Certains Ext&#233;rieurs, f&#233;es, humano&#239;des ou humano&#239;des monstrueux ne poss&#232;dent aucune attaque naturelle. Ces cr&#233;atures peuvent porter des attaques &#224; mains nues, mais les bonus d’attaque sont alors d&#233;termin&#233;s comme si elles utilisaient des armes et, si elles attaquent avec deux mains, les r&#232;gles du combat &#224; deux armes s’appliquent. &lt;br /&gt;&lt;br /&gt;&lt;i&gt;Format :&lt;/i&gt; morsure, +5 (1d6+1), 2 griffes, +5 (1d4+2), 4 tentacules, +0 (1d4+1). &lt;i&gt;Emplacement :&lt;/i&gt; Corps &#224; corps et Distance.
+]]></body>
+  <raw><![CDATA[La plupart des créatures possèdent une ou plusieurs attaques naturelles (c’est-à-dire des attaques effectuées sans l’aide d’une arme fabriquée). Ces attaques sont regroupées en deux catégories : les attaques principales/primaires et les attaques secondaires.
+
+* {s:Reference|PRINCIPALE}Les attaques principales utilisent le [[BBA|bonus d’attaque de base]] maximum de la créature et lui permettent d’ajouter son bonus de [[Force]] aux [[jet de dégâts|jets de dégâts]].
+* {s:Reference|SECONDAIRE}Les attaques secondaires utilisent le bonus d’attaque de base de la créature –5 et ne lui permettent d’ajouter que la moitié de son bonus de Force aux dégâts.
+* Si une créature ne possède qu’une seule attaque naturelle, celle-ci utilise toujours le bonus d’attaque de base maximum de la créature et lui permet d’ajouter 1,5 fois son bonus de Force aux dégâts. Cette règle ne s’applique pas si la créature dispose de plusieurs attaques mais n’en effectue qu’une seule.
+
+Si une créature possède un seul type d’attaque mais peut attaquer plusieurs fois au cours du même round, on considère cette attaque comme une attaque principale (quelle que soit la catégorie à laquelle elle appartient). La Table ci-dessous cite les types d’attaques naturelles les plus courants et indique leur catégorie.
+
+Certaines attaques spécifiques sont régies par des règles différentes. C’est par exemple le cas des [[dragon|dragons]] qui ajoutent toujours 1,5 fois leur bonus de [[Force]] aux dégâts de leur morsure. Ces exceptions sont mentionnées dans la description des monstres concernés.
+
+Les créatures qui disposent à la fois d’attaques naturelles et d’attaques par armes manufacturées peuvent combiner ces deux types d’attaques au cours d’une [[attaque à outrance]] (mais, généralement, elles doivent sacrifier les attaques naturelles qui correspondent aux membres dans lesquels elles tiennent une arme, qu’il s’agisse de griffes, de tentacules ou d’un autre appendice). Dans ce cas, les attaques utilisant des armes manufacturées s’effectuent normalement mais toutes les attaques naturelles sont considérées comme des attaques secondaires (quelle que soit la
+catégorie à laquelle elles appartiennent).
+
+La Table ci-dessous présente également les dégâts usuels des attaques naturelles en fonction de la taille des créatures.
+
+{s:Reference|TABLEATTAQUENATURELLE}
+<center>
+{| CLASS="tablo"
+|+ Dégâts de base selon la taille*
+|- CLASS="titre"
+| CLASS="gauche" | Attaque naturelle
+| I
+| Min
+| TP
+| P
+| M
+| G
+| TG
+| Gig
+| Col
+| Type de dégâts
+| Type d’attaque
+|- CLASS="premier"
+| CLASS="gauche" | Aile, pseudopode, sabot, tentacule
+| —
+| 1
+| 1d2
+| 1d3
+| 1d4
+| 1d6
+| 1d8
+| 2d6
+| 2d8
+| C
+| secondaire
+|- CLASS="alt"
+| CLASS="gauche" | Bec, mandibules, morsure
+| 1
+| 1d2
+| 1d3
+| 1d4
+| 1d6
+| 1d8
+| 2d6
+| 2d8
+| 4d6
+| C/P/T
+| primaire
+|-
+| CLASS="gauche" | Corne, défense
+| 1
+| 1d2
+| 1d3
+| 1d4
+| 1d6
+| 1d8
+| 2d6
+| 2d8
+| 4d6
+| P
+| primaire
+|- CLASS="alt"
+| CLASS="gauche" | Coup, frappe
+| —
+| 1
+| 1d2
+| 1d3
+| 1d4
+| 1d6
+| 1d8
+| 2d6
+| 2d8
+| C
+| primaire
+|-
+| CLASS="gauche" | Coup de queue, pinces
+| 1
+| 1d2
+| 1d3
+| 1d4
+| 1d6
+| 1d8
+| 2d6
+| 2d8
+| 4d6
+| C
+| secondaire
+|- CLASS="alt"
+| CLASS="gauche" | Dard
+| —
+| 1
+| 1d2
+| 1d3
+| 1d4
+| 1d6
+| 1d8
+| 2d6
+| 2d8
+| P
+| primaire
+|-
+| CLASS="gauche" | Griffe
+| —
+| 1
+| 1d2
+| 1d3
+| 1d4
+| 1d6
+| 1d8
+| 2d6
+| 2d8
+| C/T
+| primaire
+|- CLASS="alt"
+| CLASS="gauche" | Serres
+| —
+| 1
+| 1d2
+| 1d3
+| 1d4
+| 1d6
+| 1d8
+| 2d6
+| 2d8
+| T
+| primaire
+|-
+| CLASS="gauche" | Autre
+| —
+| 1
+| 1d2
+| 1d3
+| 1d4
+| 1d6
+| 1d8
+| 2d6
+| 2d8
+| C/P/T
+| secondaire
+|}
+</center>
+
+<nowiki>*</nowiki> Pour certaines créatures, il peut être approprié d’utiliser d’autres valeurs que celles indiquées ci-dessus.
+
+La colonne « Type de dégât » indique le type des dégâts généralement infligés par l’attaque naturelle en question :
+contondant (C), Perforant (P) ou tranchant (T). Certaines attaques peuvent occasionner des dégâts de plusieurs types à la fois. Elles ignorent les réductions de dégâts comme si la totalité des dégâts appartenait à chacun des types de dégâts cités. Certains Extérieurs, fées, humanoïdes ou humanoïdes monstrueux ne possèdent aucune attaque naturelle. Ces créatures peuvent porter des attaques à mains nues, mais les bonus d’attaque sont alors déterminés comme si elles utilisaient des armes et, si elles attaquent avec deux mains, les règles du combat à deux armes s’appliquent. 
+
+''Format :'' morsure, +5 (1d6+1), 2 griffes, +5 (1d4+2), 4 tentacules, +0 (1d4+1). ''Emplacement :'' Corps à corps et Distance.
+]]></raw>
+  <fullName>Pathfinder-RPG.Attaques naturelles (capacité)</fullName>
+</wikiPage>

@@ -1,0 +1,151 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Scéaduinar</title>
+  <categories><category>Pathfinder-RPG.Bestiaire 2</category><category>Pathfinder-RPG.Monstre</category></categories>
+  <lastModified>2013-02-06 21:15:23Z</lastModified>
+  <version>4</version>
+  <inLinks><link>Pathfinder-RPG.Déva movanique</link><link>Pathfinder-RPG.Glossaire des monstres</link><link>Pathfinder-RPG.Jyoti</link><link>Pathfinder-RPG.Lier un extérieur</link><link>Pathfinder-RPG.Liste de monstres par FP</link><link>Pathfinder-RPG.Liste de monstres par milieu naturel</link><link>Pathfinder-RPG.Liste de monstres par type</link><link>Pathfinder-RPG.Monstres</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.type Extérieur</link><link>Pathfinder-RPG.sous-type extraplanaire</link><link>Pathfinder-RPG.Perception de la vie (capacité)</link><link>Pathfinder-RPG.vision dans le noir</link><link>Pathfinder-RPG.vision nocturne</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Bouclier entropique</link><link>Pathfinder-RPG.Invisibilité pour les morts-vivants</link><link>Pathfinder-RPG.Dissipation de la magie</link><link>Pathfinder-RPG.Porte dimensionnelle</link><link>Pathfinder-RPG.Saignement</link><link>Pathfinder-RPG.Blessure grave</link><link>Pathfinder-RPG.Énergie négative</link><link>Pathfinder-RPG.Mise à mort</link><link>Pathfinder-RPG.Silence</link><link>Pathfinder-RPG.Ténèbres profondes</link><link>Pathfinder-RPG.Coquille antivie</link><link>Pathfinder-RPG.Exécution</link><link>Pathfinder-RPG.Mise à mal</link><link>Pathfinder-RPG.Téléportation suprême</link><link>Pathfinder-RPG.Attaque en finesse</link><link>Pathfinder-RPG.Esquive</link><link>Pathfinder-RPG.Savancer</link><link>Pathfinder-RPG.Souplesse du serpent</link><link>Pathfinder-RPG.Talent</link><link>Pathfinder-RPG.Connaissances</link><link>Pathfinder-RPG.Discrétion</link><link>Pathfinder-RPG.Évasion</link><link>Pathfinder-RPG.Intimidation</link><link>Pathfinder-RPG.Psychologie</link><link>Pathfinder-RPG.Vol</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Sc&#233;aduinar&lt;div style=&quot;float:right;&quot;&gt;FP 7&lt;/div&gt;&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Bestiaire 2&lt;/i&gt; p.245
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 3 200
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Ext&#233;rieur.html&quot; title=&quot;Ext&#233;rieur&quot;&gt;Ext&#233;rieur&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Extraplanaire.html&quot; title=&quot;Extraplanaire (sous-type)&quot;&gt;extraplanaire&lt;/a&gt;) de taille M, NM
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +5 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Perception-De-La-Vie-(Capacit&#233;).html&quot; title=&quot;Perception de la vie (Sur)&quot;&gt;perception de la vie&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Capacit&#233;s-Sp&#233;ciales.html#VISIONDANSLENOIR&quot; title=&quot;vision dans le noir&quot;&gt;vision dans le noir&lt;/a&gt; 36 m (24 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Nocturne-(Capacit&#233;).html&quot; title=&quot;vision nocturne&quot;&gt;vision nocturne&lt;/a&gt; ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +17
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 20, contact 16, pris au d&#233;pourvu 14 (Dex +5, esquive +1, naturelle +4)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 85 (9d10+36)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +11, &lt;b&gt;Vig&lt;/b&gt; +10, &lt;b&gt;Vol&lt;/b&gt; +5
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Capacit&#233;s d&#233;fensives&lt;/b&gt; affinit&#233; avec l&#39;&#233;nergie n&#233;gative, chair entropique, rejeton du n&#233;ant ; &lt;b&gt;Immunit&#233;s&lt;/b&gt; absorption d&#39;&#233;nergie, effets de mort, froid, maladie, poison ; &lt;b&gt;RD&lt;/b&gt; 10/adamantium ou Birn ; &lt;b&gt;R&#233;sistances&lt;/b&gt; acide 10, son 10 ; &lt;b&gt;RM&lt;/b&gt; 18 
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 12 m (8 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), vol 27 m (18 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; morsure, +14 (1d6+3 plus 1d6 &#233;nergie n&#233;gative et absorption d’&#233;nergie) et 2 ailes, +9 (1d6+1 plus 1d6 &#233;nergie n&#233;gative)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaques sp&#233;ciales&lt;/b&gt; absorption d’&#233;nergie (1 niveau, DD 17), toucher entropique
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Pouvoirs magiques&lt;/b&gt; (NLS 9 ; Concentration +12)
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+Constant — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Bouclier-Entropique.html&quot; title=&quot;Bouclier entropique&quot;&gt;bouclier entropique&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Invisibilit&#233;-Pour-Les-Morts-Vivants.html&quot; title=&quot;Invisibilit&#233; pour les morts-vivants&quot;&gt;invisibilit&#233; pour les morts-vivants&lt;/a&gt;&lt;/i&gt; (DD 14)
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+&#192; volont&#233; —&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Dissipation-De-La-Magie.html&quot; title=&quot;Dissipation de la magie&quot;&gt;dissipation de la magie&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Porte-Dimensionnelle.html&quot; title=&quot;Porte dimensionnelle&quot;&gt;porte dimensionnelle&lt;/a&gt;&lt;/i&gt; (personnel uniquement), &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables.html#Saignement&quot; title=&quot;Saignement&quot;&gt;saignement&lt;/a&gt;&lt;/i&gt; (DD13)
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+3/jour —&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Blessure-Grave.html&quot; title=&quot;Blessure grave&quot;&gt;blessure grave&lt;/a&gt;&lt;/i&gt; (DD16), &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;&#201;nergie-N&#233;gative.html&quot; title=&quot;&#201;nergie n&#233;gative&quot;&gt;&#233;nergie n&#233;gative&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Mise-&#192;-Mort.html&quot; title=&quot;Mise &#224; mort&quot;&gt;mise &#224; mort&lt;/a&gt;&lt;/i&gt; (DD15), &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Silence.html&quot; title=&quot;Silence&quot;&gt;silence&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;T&#233;n&#232;bres-Profondes.html&quot; title=&quot;T&#233;n&#232;bres profondes&quot;&gt;t&#233;n&#232;bres profondes&lt;/a&gt;&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+1/jour —&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Coquille-Antivie.html&quot; title=&quot;Coquille antivie&quot;&gt;coquille antivie&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Ex&#233;cution.html&quot; title=&quot;Ex&#233;cution&quot;&gt;ex&#233;cution&lt;/a&gt;&lt;/i&gt; (DD18), &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Mise-&#192;-Mal.html&quot; title=&quot;Mise &#224; mal&quot;&gt;mise &#224; mal&lt;/a&gt;&lt;/i&gt; (DD19), &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;T&#233;l&#233;portation-Supr&#234;me.html&quot; title=&quot;T&#233;l&#233;portation supr&#234;me&quot;&gt;t&#233;l&#233;portation supr&#234;me&lt;/a&gt;&lt;/i&gt; (personnel et 25kg d&#39;objets uniquement),
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 17, &lt;b&gt;Dex&lt;/b&gt; 20, &lt;b&gt;Con&lt;/b&gt; 18, &lt;b&gt;Int&lt;/b&gt; 13, &lt;b&gt;Sag&lt;/b&gt; 14, &lt;b&gt;Cha&lt;/b&gt; 17
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +9, &lt;b&gt;BMO&lt;/b&gt; +12, &lt;b&gt;DMD&lt;/b&gt; 28
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Attaque-En-Finesse.html&quot; title=&quot;Attaque en finesse&quot;&gt;Attaque en finesse&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Esquive.html&quot; title=&quot;Esquive&quot;&gt;Esquive&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Savancer.html&quot; title=&quot;S&amp;#39;avancer&quot;&gt;S&#39;avancer&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Souplesse-Du-Serpent.html&quot; title=&quot;Souplesse du serpent&quot;&gt;Souplesse du serpent&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Talent.html&quot; title=&quot;Talent&quot;&gt;Talent&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Connaissances.html&quot; title=&quot;Connaissances&quot;&gt;Connaissances&lt;/a&gt;(Nature) +10, &lt;a class=&quot;pagelink&quot; href=&quot;Connaissances.html&quot; title=&quot;Connaissances&quot;&gt;Connaissances&lt;/a&gt; (Plans) +17, &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; +25, &lt;a class=&quot;pagelink&quot; href=&quot;&#201;vasion.html&quot; title=&quot;&#201;vasion&quot;&gt;&#201;vasion&lt;/a&gt; +14, &lt;a class=&quot;pagelink&quot; href=&quot;Intimidation.html&quot; title=&quot;Intimidation&quot;&gt;Intimidation&lt;/a&gt; +12, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +17, &lt;a class=&quot;pagelink&quot; href=&quot;Psychologie.html&quot; title=&quot;Psychologie&quot;&gt;Psychologie&lt;/a&gt; +14, &lt;a class=&quot;pagelink&quot; href=&quot;Vol.html&quot; title=&quot;Vol&quot;&gt;Vol&lt;/a&gt; +9 ; &lt;b&gt;Modificateurs raciaux&lt;/b&gt; +4 en &lt;a class=&quot;pagelink&quot; href=&quot;Connaissances.html&quot; title=&quot;Connaissances&quot;&gt;Connaissances&lt;/a&gt; (plans), +8 en &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Langues&lt;/b&gt; aklo, commun, da&#233;monique
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; tous (plan de l&#39;Energie n&#233;gative)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation sociale&lt;/b&gt; solitaire ou groupe d&#39;attaque (2-11)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; standard
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Capacit&#233;s sp&#233;ciales&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Chair entropique (Ext)&lt;/b&gt; Les cr&#233;atures qui touchent un sc&#233;aduinar avec une attaque au corps &#224; corps subissent 1d6 points de d&#233;g&#226;ts d’&#233;nergie n&#233;gative. Celles qui utilisent une arme &#224; allonge ne sont pas sujettes &#224; ces d&#233;g&#226;ts.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Rejeton du n&#233;ant (Ext)&lt;/b&gt; Les sc&#233;aduinars sont immunis&#233;s contre les effets qui ciblent les &#226;mes (comme s&#233;questration) ou qui n&#233;cessitent de conna&#238;tre l’identit&#233; de la cible (comme scrutation). Quand un sc&#233;aduinar est tu&#233;, il n’est pas possible de le ramener &#224; la vie par magie &#224; moins d’utiliser un miracle ou un souhait (ou de b&#233;n&#233;ficier d’une intervention divine).
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Toucher entropique (Ext)&lt;/b&gt; Les attaques naturelles d’un sc&#233;aduinar peuvent blesser les cr&#233;atures intangibles comme s’il s’agissait d’armes spectrales. Toutes les attaques naturelles d’un sc&#233;aduinar infligent +1d6 points de d&#233;g&#226;ts d’&#233;nergie n&#233;gative &#224; la cible. Cette &#233;nergie n&#233;gative ne soigne pas les cr&#233;atures normalement gu&#233;ries par les sorts de blessure.
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;td&gt;&lt;div&gt;&lt;i&gt;Cette sorte de gargouille poss&#232;de de longues jambes ac&#233;r&#233;es et une t&#234;te de chauve-souris. Elle semble faite de cristal pourpre.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Les sc&#233;aduinars sont d’&#233;tranges cr&#233;atures n&#233;es de l’entropie, l’antith&#232;se de la vie et de la cr&#233;ation. Au coeur m&#234;me du plan de l’&#201;nergie n&#233;gative, la non-substance qui compose ce royaume glacial se solidifie en cristaux semblables &#224; des flocons de neige, et c’est dans ces &#233;tranges formations que les sc&#233;aduinars naissent (imm&#233;diatement sous forme mature), en &#233;closant &#171; d’oeufs &#187; aux contours dentel&#233;s. Ils d&#233;testent autant
+les vivants que les morts-vivants (sans doute sont-ils jaloux envers ceux qui poss&#232;dent une &#233;tincelle de vie, m&#234;me
+si celle-ci correspond &#224; une forme de vie corrompue), mais ils ne se pr&#233;occupent g&#233;n&#233;ralement pas des cr&#233;atures originaires de la sph&#232;re Ext&#233;rieure. Ils croient que leurs &#233;quivalents sur le plan de l’&#201;nergie positive, les jyotis, les ont priv&#233;s il y a bien longtemps de leur capacit&#233; de cr&#233;ation, brisant ainsi le parall&#232;le qui existait entre les deux plans d’&#233;nergie et cantonnant par la force des choses ces habitants du n&#233;ant &#224; un r&#244;le purement destructeur.
+D’une certaine mani&#232;re, leur haine est semblable &#224; celle de certains autres natifs du plan de l’&#201;nergie n&#233;gative, les t&#233;n&#233;breux. Cependant, m&#234;me s’ils partagent des buts similaires, les sc&#233;aduinars ne voient pas dans les t&#233;n&#233;breux autre chose qu’une autre forme corrompue de vie qu’il est n&#233;cessaire de d&#233;truire (bien que seuls quelques rares sc&#233;aduinars soient suffisamment puissants pour s’attaquer directement &#224; un de ces dangereux morts-vivants). Les sc&#233;aduinars sont relativement intelligents, mais ils ne poss&#232;dent pas de soci&#233;t&#233; &#224; proprement
+parler. Ils ne se rassemblent que pour former des groupes d’attaque plus puissants afin de pouvoir venir &#224; bout d’un ennemi particuli&#232;rement dangereux.
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Scéaduinar|FP 7}
+{s:pucem|Extérieur|Ciel|Extraplanaire}
+{s:BDTexte|''Source : Bestiaire 2'' p.245}
+{s:BDTexte|'''PX''' 3 200}
+{s:BDTexte|[[type Extérieur|Extérieur]] ([[sous-type extraplanaire|extraplanaire]]) de taille M, NM}
+{s:BDTexte|'''Init''' +5 ; '''Sens''' [[perception de la vie (capacité)|perception de la vie]], [[vision dans le noir]] 36 m (24 {s:c}), [[vision nocturne]] ; [[Perception]] +17}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 20, contact 16, pris au dépourvu 14 (Dex +5, esquive +1, naturelle +4)}
+{s:BDTexte|'''pv''' 85 (9d10+36)}
+{s:BDTexte|'''Réf''' +11, '''Vig''' +10, '''Vol''' +5}
+{s:BDTexte|'''Capacités défensives''' affinité avec l'énergie négative, chair entropique, rejeton du néant ; '''Immunités''' absorption d'énergie, effets de mort, froid, maladie, poison ; '''RD''' 10/adamantium ou Birn ; '''Résistances''' acide 10, son 10 ; '''RM''' 18 }
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 12 m (8 {s:c}), vol 27 m (18 {s:c})}
+{s:BDTexte|'''Corps à corps''' morsure, +14 (1d6+3 plus 1d6 énergie négative et absorption d’énergie) et 2 ailes, +9 (1d6+1 plus 1d6 énergie négative)}
+{s:BDTexte|'''Attaques spéciales''' absorption d’énergie (1 niveau, DD 17), toucher entropique}
+{s:BDTexte|'''Pouvoirs magiques''' (NLS 9 ; Concentration +12)}
+{s:BDSorts|Constant — ''[[bouclier entropique]]'', ''[[invisibilité pour les morts-vivants]]'' (DD 14)}
+{s:BDSorts|À volonté —''[[dissipation de la magie]]'', ''[[porte dimensionnelle]]'' (personnel uniquement), ''[[saignement]]'' (DD13)}
+{s:BDSorts|3/jour —''[[blessure grave]]'' (DD16), ''[[énergie négative]]'', ''[[mise à mort]]'' (DD15), ''[[silence]]'', ''[[ténèbres profondes]]''}
+{s:BDSorts|1/jour —''[[coquille antivie]]'', ''[[exécution]]'' (DD18), ''[[mise à mal]]'' (DD19), ''[[téléportation suprême]]'' (personnel et 25kg d'objets uniquement),}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 17, '''Dex''' 20, '''Con''' 18, '''Int''' 13, '''Sag''' 14, '''Cha''' 17}
+{s:BDTexte|'''BBA''' +9, '''BMO''' +12, '''DMD''' 28}
+{s:BDTexte|'''Dons''' [[Attaque en finesse]], [[Esquive]], [[Savancer|S'avancer]], [[Souplesse du serpent]], [[Talent]] ([[Perception]])}
+{s:BDTexte|'''Compétences''' [[Connaissances]](Nature) +10, [[Connaissances]] (Plans) +17, [[Discrétion]] +25, [[Évasion]] +14, [[Intimidation]] +12, [[Perception]] +17, [[Psychologie]] +14, [[Vol]] +9 ; '''Modificateurs raciaux''' +4 en [[Connaissances]] (plans), +8 en [[Discrétion]]}
+{s:BDTexte|'''Langues''' aklo, commun, daémonique}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' tous (plan de l'Energie négative)}
+{s:BDTexte|'''Organisation sociale''' solitaire ou groupe d'attaque (2-11)}
+{s:BDTexte|'''Trésor''' standard}
+{s:BDSousTitre|Capacités spéciales}
+{s:BDTexte|'''Chair entropique (Ext)''' Les créatures qui touchent un scéaduinar avec une attaque au corps à corps subissent 1d6 points de dégâts d’énergie négative. Celles qui utilisent une arme à allonge ne sont pas sujettes à ces dégâts.}
+{s:BDTexte|'''Rejeton du néant (Ext)''' Les scéaduinars sont immunisés contre les effets qui ciblent les âmes (comme séquestration) ou qui nécessitent de connaître l’identité de la cible (comme scrutation). Quand un scéaduinar est tué, il n’est pas possible de le ramener à la vie par magie à moins d’utiliser un miracle ou un souhait (ou de bénéficier d’une intervention divine).}
+{s:BDTexte|'''Toucher entropique (Ext)''' Les attaques naturelles d’un scéaduinar peuvent blesser les créatures intangibles comme s’il s’agissait d’armes spectrales. Toutes les attaques naturelles d’un scéaduinar infligent +1d6 points de dégâts d’énergie négative à la cible. Cette énergie négative ne soigne pas les créatures normalement guéries par les sorts de blessure.}
+</div>
+</td><td><div>''Cette sorte de gargouille possède de longues jambes acérées et une tête de chauve-souris. Elle semble faite de cristal pourpre.''
+
+Les scéaduinars sont d’étranges créatures nées de l’entropie, l’antithèse de la vie et de la création. Au coeur même du plan de l’Énergie négative, la non-substance qui compose ce royaume glacial se solidifie en cristaux semblables à des flocons de neige, et c’est dans ces étranges formations que les scéaduinars naissent (immédiatement sous forme mature), en éclosant « d’oeufs » aux contours dentelés. Ils détestent autant
+les vivants que les morts-vivants (sans doute sont-ils jaloux envers ceux qui possèdent une étincelle de vie, même
+si celle-ci correspond à une forme de vie corrompue), mais ils ne se préoccupent généralement pas des créatures originaires de la sphère Extérieure. Ils croient que leurs équivalents sur le plan de l’Énergie positive, les jyotis, les ont privés il y a bien longtemps de leur capacité de création, brisant ainsi le parallèle qui existait entre les deux plans d’énergie et cantonnant par la force des choses ces habitants du néant à un rôle purement destructeur.
+D’une certaine manière, leur haine est semblable à celle de certains autres natifs du plan de l’Énergie négative, les ténébreux. Cependant, même s’ils partagent des buts similaires, les scéaduinars ne voient pas dans les ténébreux autre chose qu’une autre forme corrompue de vie qu’il est nécessaire de détruire (bien que seuls quelques rares scéaduinars soient suffisamment puissants pour s’attaquer directement à un de ces dangereux morts-vivants). Les scéaduinars sont relativement intelligents, mais ils ne possèdent pas de société à proprement
+parler. Ils ne se rassemblent que pour former des groupes d’attaque plus puissants afin de pouvoir venir à bout d’un ennemi particulièrement dangereux.
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Scéaduinar</fullName>
+</wikiPage>

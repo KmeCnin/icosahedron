@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Verrou</title>
+  <categories><category>Pathfinder-RPG.Art de la Magie</category><category>Pathfinder-RPG.Mots de pouvoir</category><category>Pathfinder-RPG.Règles officielles</category></categories>
+  <lastModified>2012-09-27 15:14:14Z</lastModified>
+  <version>0</version>
+  <inLinks><link>Pathfinder-RPG.Listes des mots de pouvoirs (temporaire)</link><link>Pathfinder-RPG.Mots effets</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Abjuration</link><link>Pathfinder-RPG.Ensorceleur</link><link>Pathfinder-RPG.Magicien</link><link>Pathfinder-RPG.permanente</link><link>Pathfinder-RPG.Volonté</link><link>Pathfinder-RPG.Présentation des sorts</link><link>Pathfinder-RPG.Choisi</link></outLinks>
+  <body><![CDATA[
+&lt;b&gt;&#201;cole&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#ABJURATION&quot; title=&quot;Abjuration&quot;&gt;abjuration&lt;/a&gt; ; &lt;b&gt;Niveau&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Ensorceleur.html&quot; title=&quot;L&amp;#39;ensorceleur&quot;&gt;ensorceleur&lt;/a&gt;/&lt;a class=&quot;pagelink&quot; href=&quot;Magicien.html&quot; title=&quot;Le magicien&quot;&gt;magicien&lt;/a&gt; 1&lt;br /&gt;
+&lt;b&gt;Dur&#233;e&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#DUREE&quot; title=&quot;permanente&quot;&gt;permanente&lt;/a&gt;&lt;br /&gt;
+&lt;b&gt;Jet de sauvegarde&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;Volont&#233;&quot;&gt;Volont&#233;&lt;/a&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#JETSDESAUVEGARDE&quot; title=&quot;Pr&#233;sentation des sorts&quot;&gt;annule&lt;/a&gt; (inoffensif) ; &lt;b&gt;R&#233;sistance &#224; la magie&lt;/b&gt; oui (inoffensif)&lt;br /&gt;
+&lt;b&gt;Restrictions de cible&lt;/b&gt; &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Choisi.html&quot; title=&quot;Choisi&quot;&gt;choisi&lt;/a&gt;&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Ce mot effet provoque la fermeture d’un objet laiss&#233; sans surveillance, comme une porte, un coffre ou un livre. Si cet objet estmuni d’une serrure, il est &#233;galement verrouill&#233;. Si un sort inclut d’autres mots effets, les effets de ceux-ci sont suspendus jusqu’&#224; ce qu’une cr&#233;ature autre que le personnage tente de le d&#233;verrouiller ou de l’ouvrir. Cette cr&#233;ature devient alors la cible des autres mots effets comme s’ils portaient tous le mot cible &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Choisi.html&quot; title=&quot;Choisi&quot;&gt;choisi&lt;/a&gt;&lt;/i&gt;. Tenez seulement compte des autres mots effets lorsqu’il s’agit de d&#233;terminer la dur&#233;e de cet effet secondaire.
+]]></body>
+  <raw><![CDATA[{s:UM}
+'''École''' [[abjuration]] ; '''Niveau''' [[ensorceleur]]/[[magicien]] 1<br>
+'''Durée''' [[permanente]]<br>
+'''Jet de sauvegarde''' [[Volonté]] [[Présentation des sorts#JETSDESAUVEGARDE|annule]] (inoffensif) ; '''Résistance à la magie''' oui (inoffensif)<br>
+'''Restrictions de cible''' ''[[choisi]]''
+
+Ce mot effet provoque la fermeture d’un objet laissé sans surveillance, comme une porte, un coffre ou un livre. Si cet objet estmuni d’une serrure, il est également verrouillé. Si un sort inclut d’autres mots effets, les effets de ceux-ci sont suspendus jusqu’à ce qu’une créature autre que le personnage tente de le déverrouiller ou de l’ouvrir. Cette créature devient alors la cible des autres mots effets comme s’ils portaient tous le mot cible ''[[choisi]]''. Tenez seulement compte des autres mots effets lorsqu’il s’agit de déterminer la durée de cet effet secondaire.]]></raw>
+  <fullName>Pathfinder-RPG.Verrou</fullName>
+</wikiPage>

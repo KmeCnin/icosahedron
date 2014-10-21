@@ -1,0 +1,203 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Dragon-tortue</title>
+  <categories><category>Pathfinder-RPG.Bestiaire</category><category>Pathfinder-RPG.Monstre</category><category>Pathfinder-RPG.Règles officielles</category></categories>
+  <lastModified>2014-04-22 16:19:53Z</lastModified>
+  <version>7</version>
+  <inLinks><link>Pathfinder-RPG.dragon</link><link>Pathfinder-RPG.Glossaire des monstres</link><link>Pathfinder-RPG.Liste de monstres par FP</link><link>Pathfinder-RPG.Liste de monstres par milieu naturel</link><link>Pathfinder-RPG.Liste de monstres par type</link><link>Pathfinder-RPG.Monstres</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.type Dragon</link><link>Pathfinder-RPG.sous-type aquatique</link><link>Pathfinder-RPG.odorat</link><link>Pathfinder-RPG.vision dans le noir</link><link>Pathfinder-RPG.vision nocturne</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.croc-en-jambe</link><link>Pathfinder-RPG.Attaque en puissance</link><link>Pathfinder-RPG.Combat en aveugle</link><link>Pathfinder-RPG.Coup fabuleux</link><link>Pathfinder-RPG.Enchaînement</link><link>Pathfinder-RPG.Science de linitiative</link><link>Pathfinder-RPG.Science de la bousculade</link><link>Pathfinder-RPG.Diplomatie</link><link>Pathfinder-RPG.Discrétion</link><link>Pathfinder-RPG.Intimidation</link><link>Pathfinder-RPG.Natation</link><link>Pathfinder-RPG.Psychologie</link><link>Pathfinder-RPG.Survie</link><link>Pathfinder-RPG.charge</link><link>Pathfinder-RPG.manœuvre de combat</link><link>Pathfinder-RPG.DD</link><link>Pathfinder-RPG.Profession</link><link>Pathfinder-RPG.Réflexes</link><link>Pathfinder-RPG.Constitution</link><link>Pathfinder-RPG.Homme-poisson</link><link>Pathfinder-RPG.Sahuagin</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Dragon-tortue&lt;div style=&quot;float:right;&quot;&gt;FP 9&lt;/div&gt;&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Bestiaire p.116&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 6.400
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Dragon.html&quot; title=&quot;Dragon&quot;&gt;Dragon&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Aquatique.html&quot; title=&quot;Aquatique (sous-type)&quot;&gt;aquatique&lt;/a&gt;) de taille TG, N
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +4 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Odorat-(Capacit&#233;).html&quot; title=&quot;odorat&quot;&gt;odorat&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Capacit&#233;s-Sp&#233;ciales.html#VISIONDANSLENOIR&quot; title=&quot;vision dans le noir&quot;&gt;vision dans le noir&lt;/a&gt; (18 m (12 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)), &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Nocturne-(Capacit&#233;).html&quot; title=&quot;vision nocturne&quot;&gt;vision nocturne&lt;/a&gt; ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +16
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 23, contact 8, pris au d&#233;pourvu 23 (naturelle +15, taille -2)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 126 (12d12+48)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +8, &lt;b&gt;Vig&lt;/b&gt; +12, &lt;b&gt;Vol&lt;/b&gt; +9
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Immunit&#233;s&lt;/b&gt; feu, paralysie, sommeil 
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 6 m (4 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), nage 9 m (6 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; morsure, +18 (3d6+8), 2 griffes, +18 (2d6+8)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Espace&lt;/b&gt; 4,50 m (3 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) ; &lt;b&gt;Allonge&lt;/b&gt; 3 m (2 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaques sp&#233;ciales&lt;/b&gt; retournement de navires, souffle
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 27, &lt;b&gt;Dex&lt;/b&gt; 10, &lt;b&gt;Con&lt;/b&gt; 19, &lt;b&gt;Int&lt;/b&gt; 12, &lt;b&gt;Sag&lt;/b&gt; 13, &lt;b&gt;Cha&lt;/b&gt; 12
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +12, &lt;b&gt;BMO&lt;/b&gt; +22, &lt;b&gt;DMD&lt;/b&gt; 32 (36 contre &lt;a class=&quot;pagelink&quot; href=&quot;Croc-En-Jambe.html&quot; title=&quot;croc-en-jambe&quot;&gt;croc-en-jambe&lt;/a&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Attaque-En-Puissance.html&quot; title=&quot;Attaque en puissance&quot;&gt;Attaque en puissance&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Combat-En-Aveugle.html&quot; title=&quot;Combat en aveugle&quot;&gt;Combat en aveugle&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Coup-Fabuleux.html&quot; title=&quot;Coup fabuleux&quot;&gt;Coup fabuleux&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Encha&#238;nement.html&quot; title=&quot;Encha&#238;nement&quot;&gt;Encha&#238;nement&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Science-De-Linitiative.html&quot; title=&quot;Science de l&amp;#39;initiative&quot;&gt;Science de l&#39;initiative&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Science-De-La-Bousculade.html&quot; title=&quot;Science de la bousculade&quot;&gt;Science de la bousculade&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Diplomatie.html&quot; title=&quot;Diplomatie&quot;&gt;Diplomatie&lt;/a&gt; +16, &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; +7 (+15 dans l&#39;eau), &lt;a class=&quot;pagelink&quot; href=&quot;Intimidation.html&quot; title=&quot;Intimidation&quot;&gt;Intimidation&lt;/a&gt; +16, &lt;a class=&quot;pagelink&quot; href=&quot;Natation.html&quot; title=&quot;Natation&quot;&gt;Natation&lt;/a&gt; +31, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +16, &lt;a class=&quot;pagelink&quot; href=&quot;Psychologie.html&quot; title=&quot;Psychologie&quot;&gt;Psychologie&lt;/a&gt; +16, &lt;a class=&quot;pagelink&quot; href=&quot;Survie.html&quot; title=&quot;Survie&quot;&gt;Survie&lt;/a&gt; +16 ; &lt;b&gt;Modificateurs raciaux&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; +8 dans l&#39;eau
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Langues&lt;/b&gt; aquatique, commun, draconique
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; milieu aquatique &#224; climat temp&#233;r&#233;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation sociale&lt;/b&gt; solitaire
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; double
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Capacit&#233;s sp&#233;ciales&lt;/div&gt; 
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Retournement de navires (Ext).&lt;/b&gt; Un dragon-tortue peut tenter de faire sombrer un bateau ou un navire en effectuant une &lt;a class=&quot;pagelink&quot; href=&quot;Actions-Sp&#233;ciales.html#CHARGE&quot; title=&quot;charge&quot;&gt;charge&lt;/a&gt; et en allant buter contre lui. Il doit effectuer un test de &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#MANOEUVREOFFENSIVE&quot; title=&quot;manœuvre de combat&quot;&gt;manœuvre de combat&lt;/a&gt; contre un &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DEGREDEDIFFICULTE&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; &#233;gal &#224; 25 ou au r&#233;sultat d&#39;un test de &lt;a class=&quot;pagelink&quot; href=&quot;Profession.html&quot; title=&quot;Profession&quot;&gt;Profession&lt;/a&gt; (marin) r&#233;alis&#233; par le capitaine du navire si celui-ci est plus &#233;lev&#233;. Si le navire est plus grand que le dragon-tortue, le test de ce dernier subit un malus cumulatif de -10 par cat&#233;gorie de taille de diff&#233;rence.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Souffle (Sur).&lt;/b&gt; Nuage de vapeur de 6 m (4 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) de hauteur, 7,50 m (5 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) de largeur et 15 m (10 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) de longueur, une fois tous les 1d4 rounds, 12d6 points de d&#233;g&#226;ts de feu, &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;R&#233;flexes&quot;&gt;R&#233;flexes&lt;/a&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DEGREDEDIFFICULTE&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; 20 pour diviser les d&#233;g&#226;ts par deux. Ce souffle est efficace &#224; la fois sur la surface et dans l&#39;eau. Le &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DEGREDEDIFFICULTE&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; d&#233;pend de la &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#CONSTITUTION&quot; title=&quot;La Constitution&quot;&gt;Constitution&lt;/a&gt;.
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;td&gt;&lt;div&gt;&lt;i&gt;Ce monstre aquatique dot&#233; d’une longue queue ressemble &#224; une tortue serpentine g&#233;ante dot&#233;e de caract&#233;ristiques draconiques.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Les dragons-tortues, qu’on trouve
+dans les eaux sal&#233;es comme dans
+les eaux douces, sont l’un des plus
+grands dangers qui menacent les marins et ceux qui sillonnent les fleuves du monde. Les navigateurs
+les plus dou&#233;s connaissent bien les territoires dont les dragons-tortues
+se sont empar&#233;s. &lt;br /&gt;&lt;br /&gt;Ils leur pr&#233;sentent r&#233;guli&#232;rement des
+offrandes d’or ou d’objets magiques pour garantir des voyages
+sans probl&#232;me... ou &#233;vitent tout simplement ces endroits. De leur
+c&#244;t&#233;, les dragons-tortues se mettent rapidement &#224; appr&#233;cier ces
+cadeaux et &#224; s’y habituer : un dragon-tortue qui s’attend &#224; recevoir
+un don qui ne vient pas se transforme en ennemi tr&#232;s dangereux.&lt;br /&gt;&lt;br /&gt;La couleur des carapaces des dragons-tortues varie d’un
+sp&#233;cimen &#224; un autre. Certains poss&#232;dent des carapaces ternes,
+brunes ou couleur de rouille, alors que, chez d’autres, on
+retrouve un vert-bleu profond rehauss&#233; d’argent le long des bords
+rocailleux. La t&#234;te, la queue et les jambes ont une coloration
+l&#233;g&#232;rement plus p&#226;le que la carapace et sont garnies de taches
+dor&#233;es le long de la cr&#234;te et de l’&#233;pine dorsale.&lt;br /&gt;&lt;br /&gt;Les dragons-tortues s’approprient de vastes territoires marins
+s’&#233;tendant souvent sur plus de 130 km2. Ces b&#234;tes dangereuses
+font chavirer les navires qui s’aventurent sur leur domaine puis
+emm&#232;nent les &#233;paves et leur pr&#233;cieux cargo dans leur repaire. Les
+dragons-tortues &#233;lisent g&#233;n&#233;ralement domicile dans des grottes
+profondes accessibles seulement par la mer et d&#233;corent leur repaire
+non seulement avec les richesses extraites des vaisseaux qu’ils ont
+coul&#233;s mais &#233;galement avec leurs &#233;paves. &lt;br /&gt;&lt;br /&gt;Leur propension naturelle
+&#224; d&#233;fendre f&#233;rocement leur territoire et leur attrait pour ce genre de
+repaires les am&#232;nent souvent &#224; entrer en conf lit ouvert avec d’autres
+races sous-marines comme les &lt;a class=&quot;pagelink&quot; href=&quot;Homme-Poisson.html&quot; title=&quot;Homme-poisson&quot;&gt;hommes-poissons&lt;/a&gt; et les &lt;a class=&quot;pagelink&quot; href=&quot;Sahuagin.html&quot; title=&quot;Sahuagin&quot;&gt;sahuagins&lt;/a&gt;.
+Les gros poissons comme les thons, les esturgeons et m&#234;me les
+requins constituent l’alimentation pr&#233;f&#233;r&#233;e des dragons-tortues
+mais ces cr&#233;atures omnivores se repaissent aussi parfois de larges
+bancs d’algues sous-marines. Ils ajoutent parfois &#224; leur menu les
+passagers des navires qu’ils coulent (mais il ne faut pas y voir de la
+cruaut&#233; ou un esprit mal&#233;fique).&lt;br /&gt;&lt;br /&gt; Les carapaces des dragons-tortues
+ont un diam&#232;tre de 4,50 m&#232;tres et la portion de leurs membres qui en
+d&#233;passe s’&#233;tend sur &#224; peu pr&#232;s 1 m&#232;tre. Plus de 7,50 m&#232;tres s&#233;parent la
+pointe de leur museau et le bout de leur puissante queue.
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Dragon-tortue|FP 9}
+{s:pucem|Dragon|Aquatique|Tempéré}
+{s:BDTexte|''Source : Bestiaire p.116''}
+{s:BDTexte|'''PX''' 6.400}
+{s:BDTexte|[[type Dragon|Dragon]] ([[sous-type aquatique|aquatique]]) de taille TG, N}
+{s:BDTexte|'''Init''' +4 ; '''Sens''' [[odorat]], [[vision dans le noir]] (18 m (12 {s:c})), [[vision nocturne]] ; [[Perception]] +16}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 23, contact 8, pris au dépourvu 23 (naturelle +15, taille -2)}
+{s:BDTexte|'''pv''' 126 (12d12+48)}
+{s:BDTexte|'''Réf''' +8, '''Vig''' +12, '''Vol''' +9}
+{s:BDTexte|'''Immunités''' feu, paralysie, sommeil }
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 6 m (4 {s:c}), nage 9 m (6 {s:c})}
+{s:BDTexte|'''Corps à corps''' morsure, +18 (3d6+8), 2 griffes, +18 (2d6+8)}
+{s:BDTexte|'''Espace''' 4,50 m (3 {s:c}) ; '''Allonge''' 3 m (2 {s:c})}
+{s:BDTexte|'''Attaques spéciales''' retournement de navires, souffle}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 27, '''Dex''' 10, '''Con''' 19, '''Int''' 12, '''Sag''' 13, '''Cha''' 12}
+{s:BDTexte|'''BBA''' +12, '''BMO''' +22, '''DMD''' 32 (36 contre [[croc-en-jambe]])}
+{s:BDTexte|'''Dons''' [[Attaque en puissance]], [[Combat en aveugle]], [[Coup fabuleux]], [[Enchaînement]], [[Science de linitiative|Science de l'initiative]], [[Science de la bousculade]]}
+{s:BDTexte|'''Compétences''' [[Diplomatie]] +16, [[Discrétion]] +7 (+15 dans l'eau), [[Intimidation]] +16, [[Natation]] +31, [[Perception]] +16, [[Psychologie]] +16, [[Survie]] +16 ; '''Modificateurs raciaux''' [[Discrétion]] +8 dans l'eau}
+{s:BDTexte|'''Langues''' aquatique, commun, draconique}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' milieu aquatique à climat tempéré}
+{s:BDTexte|'''Organisation sociale''' solitaire}
+{s:BDTexte|'''Trésor''' double}
+{s:BDSousTitre|Capacités spéciales} 
+{s:BDTexte|'''Retournement de navires (Ext).''' Un dragon-tortue peut tenter de faire sombrer un bateau ou un navire en effectuant une [[charge]] et en allant buter contre lui. Il doit effectuer un test de [[manœuvre de combat]] contre un [[DD]] égal à 25 ou au résultat d'un test de [[Profession]] (marin) réalisé par le capitaine du navire si celui-ci est plus élevé. Si le navire est plus grand que le dragon-tortue, le test de ce dernier subit un malus cumulatif de -10 par catégorie de taille de différence.}
+{s:BDTexte|'''Souffle (Sur).''' Nuage de vapeur de 6 m (4 {s:c}) de hauteur, 7,50 m (5 {s:c}) de largeur et 15 m (10 {s:c}) de longueur, une fois tous les 1d4 rounds, 12d6 points de dégâts de feu, [[Réflexes]] [[DD]] 20 pour diviser les dégâts par deux. Ce souffle est efficace à la fois sur la surface et dans l'eau. Le [[DD]] dépend de la [[Constitution]].}
+</div>
+</td><td><div>''Ce monstre aquatique doté d’une longue queue ressemble à une tortue serpentine géante dotée de caractéristiques draconiques.''
+
+Les dragons-tortues, qu’on trouve
+dans les eaux salées comme dans
+les eaux douces, sont l’un des plus
+grands dangers qui menacent les marins et ceux qui sillonnent les fleuves du monde. Les navigateurs
+les plus doués connaissent bien les territoires dont les dragons-tortues
+se sont emparés. 
+
+Ils leur présentent régulièrement des
+offrandes d’or ou d’objets magiques pour garantir des voyages
+sans problème... ou évitent tout simplement ces endroits. De leur
+côté, les dragons-tortues se mettent rapidement à apprécier ces
+cadeaux et à s’y habituer : un dragon-tortue qui s’attend à recevoir
+un don qui ne vient pas se transforme en ennemi très dangereux.
+
+La couleur des carapaces des dragons-tortues varie d’un
+spécimen à un autre. Certains possèdent des carapaces ternes,
+brunes ou couleur de rouille, alors que, chez d’autres, on
+retrouve un vert-bleu profond rehaussé d’argent le long des bords
+rocailleux. La tête, la queue et les jambes ont une coloration
+légèrement plus pâle que la carapace et sont garnies de taches
+dorées le long de la crête et de l’épine dorsale.
+
+Les dragons-tortues s’approprient de vastes territoires marins
+s’étendant souvent sur plus de 130 km2. Ces bêtes dangereuses
+font chavirer les navires qui s’aventurent sur leur domaine puis
+emmènent les épaves et leur précieux cargo dans leur repaire. Les
+dragons-tortues élisent généralement domicile dans des grottes
+profondes accessibles seulement par la mer et décorent leur repaire
+non seulement avec les richesses extraites des vaisseaux qu’ils ont
+coulés mais également avec leurs épaves. 
+
+Leur propension naturelle
+à défendre férocement leur territoire et leur attrait pour ce genre de
+repaires les amènent souvent à entrer en conf lit ouvert avec d’autres
+races sous-marines comme les [[Homme-poisson|hommes-poissons]] et les [[Sahuagin|sahuagins]].
+Les gros poissons comme les thons, les esturgeons et même les
+requins constituent l’alimentation préférée des dragons-tortues
+mais ces créatures omnivores se repaissent aussi parfois de larges
+bancs d’algues sous-marines. Ils ajoutent parfois à leur menu les
+passagers des navires qu’ils coulent (mais il ne faut pas y voir de la
+cruauté ou un esprit maléfique).
+
+ Les carapaces des dragons-tortues
+ont un diamètre de 4,50 mètres et la portion de leurs membres qui en
+dépasse s’étend sur à peu près 1 mètre. Plus de 7,50 mètres séparent la
+pointe de leur museau et le bout de leur puissante queue.
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Dragon-tortue</fullName>
+</wikiPage>

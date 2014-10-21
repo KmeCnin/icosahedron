@@ -1,0 +1,467 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Dragon blanc</title>
+  <categories><category>Pathfinder-RPG.Bestiaire</category><category>Pathfinder-RPG.Monstre</category><category>Pathfinder-RPG.Règles officielles</category></categories>
+  <lastModified>2013-02-08 08:07:23Z</lastModified>
+  <version>9</version>
+  <inLinks><link>Pathfinder-RPG.Disciple draconien</link><link>Pathfinder-RPG.dragon</link><link>Pathfinder-RPG.Drake du froid</link><link>Pathfinder-RPG.Géant du froid</link><link>Pathfinder-RPG.Glossaire des monstres</link><link>Pathfinder-RPG.Liste de monstres par FP</link><link>Pathfinder-RPG.Liste de monstres par milieu naturel</link><link>Pathfinder-RPG.Liste de monstres par type</link><link>Pathfinder-RPG.Monstres</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.type Dragon</link><link>Pathfinder-RPG.sous-type froid</link><link>Pathfinder-RPG.cône</link><link>Pathfinder-RPG.Action simple</link><link>Pathfinder-RPG.Brume acide</link><link>Pathfinder-RPG.Graisse</link><link>Pathfinder-RPG.Façonnage de la pierre</link><link>Pathfinder-RPG.NLS</link><link>Pathfinder-RPG.DV</link><link>Pathfinder-RPG.Pattes daraignée</link><link>Pathfinder-RPG.Course</link><link>Pathfinder-RPG.charge</link><link>Pathfinder-RPG.Acrobaties</link><link>Pathfinder-RPG.Nappe de brouillard</link><link>Pathfinder-RPG.Bourrasque</link><link>Pathfinder-RPG.Mur de glace</link><link>Pathfinder-RPG.Contrôle du climat</link><link>Pathfinder-RPG.Emprisonnement</link><link>Pathfinder-RPG.Délivrance</link><link>Pathfinder-RPG.DD</link><link>Pathfinder-RPG.jet de sauvegarde</link><link>Pathfinder-RPG.Charisme</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.sens draconiques</link><link>Pathfinder-RPG.croc-en-jambe</link><link>Pathfinder-RPG.Attaque en puissance</link><link>Pathfinder-RPG.Attaque en vol</link><link>Pathfinder-RPG.Science de linitiative</link><link>Pathfinder-RPG.Vigilance</link><link>Pathfinder-RPG.Discrétion</link><link>Pathfinder-RPG.Intimidation</link><link>Pathfinder-RPG.Natation</link><link>Pathfinder-RPG.Vol</link><link>Pathfinder-RPG.présence terrifiante (dragon)</link><link>Pathfinder-RPG.Bouclier</link><link>Pathfinder-RPG.Coup au but</link><link>Pathfinder-RPG.Détection de la magie</link><link>Pathfinder-RPG.Lumières dansantes</link><link>Pathfinder-RPG.Rayon de givre</link><link>Pathfinder-RPG.Réparation</link><link>Pathfinder-RPG.Arme de prédilection</link><link>Pathfinder-RPG.Frappe décisive</link><link>Pathfinder-RPG.Science du critique</link><link>Pathfinder-RPG.Art de la magie</link><link>Pathfinder-RPG.Connaissances</link><link>Pathfinder-RPG.écrasement</link><link>Pathfinder-RPG.Charme-monstre</link><link>Pathfinder-RPG.Porte dimensionnelle</link><link>Pathfinder-RPG.Déplacement</link><link>Pathfinder-RPG.Dissipation de la magie</link><link>Pathfinder-RPG.Éclair</link><link>Pathfinder-RPG.Détection de linvisibilité</link><link>Pathfinder-RPG.Invisibilité</link><link>Pathfinder-RPG.Résistance aux énergies destructives</link><link>Pathfinder-RPG.Alarme</link><link>Pathfinder-RPG.Aura magique</link><link>Pathfinder-RPG.Aspersion acide</link><link>Pathfinder-RPG.Manipulation à distance</link><link>Pathfinder-RPG.Message</link><link>Pathfinder-RPG.Frappe décisive supérieure</link><link>Pathfinder-RPG.Réflexes surhumains</link><link>Pathfinder-RPG.Science de la destruction</link><link>Pathfinder-RPG.Science de la frappe décisive</link><link>Pathfinder-RPG.Psychologie</link><link>Pathfinder-RPG.RD</link><link>Pathfinder-RPG.RM</link><link>Pathfinder-RPG.Présence terrifiante</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Dragon chromatique blanc&lt;div style=&quot;float:right;&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Bestiaire p.96&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Dragon.html&quot; title=&quot;Dragon&quot;&gt;Dragon&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Froid.html&quot; title=&quot;Froid (sous-type)&quot;&gt;froid&lt;/a&gt;), CM
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques de base&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;FP&lt;/b&gt; 2 ; &lt;b&gt;Taille&lt;/b&gt; TP ; &lt;b&gt;DV&lt;/b&gt; 3d12
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 18 m (12 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), creusement 9 m (6 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), nage 18 m (12 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Armure naturelle&lt;/b&gt;+2 ; &lt;b&gt;Souffle&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#DEFCONE&quot; title=&quot;c&#244;ne&quot;&gt;c&#244;ne&lt;/a&gt;, 2d4 froid
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 11, &lt;b&gt;Dex&lt;/b&gt; 16, &lt;b&gt;Con&lt;/b&gt; 13, &lt;b&gt;Int&lt;/b&gt; 6, &lt;b&gt;Sag&lt;/b&gt; 9, &lt;b&gt;Cha&lt;/b&gt; 6
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; montagnes froides
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation sociale&lt;/b&gt; solitaire
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; triple
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Capacit&#233;s sp&#233;ciales&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Aura de froid (Sur)&lt;/b&gt; Une aura de froid &#233;mane des dragons blancs adultes. Toutes les cr&#233;atures situ&#233;s &#224; 1,50 m (1 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) ou moins du dragon subissent 1d6 points de d&#233;g&#226;ts de froid au d&#233;but du tour du dragon. L&#39;aura des vieux dragons s&#39;&#233;tend &#224; 3 m (2 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;). Les d&#233;g&#226;ts inflig&#233;s par un dragon v&#233;n&#233;rable montent &#224; 2d6.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Blizzard (Sur)&lt;/b&gt; par une &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions.html#SIMPLE&quot; title=&quot;Action simple&quot;&gt;action simple&lt;/a&gt;, un dragon blanc v&#233;n&#233;rable peut utiliser son souffle pour provoquer un blizzard dans une zone autour de lui. Cela cr&#233;e des conditions de fortes neiges dans un rayon de 15 m (10 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) autour du dragon pendant 1 minute. La neige ralentit les mouvements (entrer dans une case co&#251;te 4 cases de d&#233;placement) et limite la vision comme s&#39;il s&#39;agissait de brouillard.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Brouillard glacial (Mag)&lt;/b&gt; Un vieux dragon blanc peut utiliser cette capacit&#233; trois fois par jour. Ses effets sont similaires &#224; ceux d&#39;une &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Brume-Acide.html&quot; title=&quot;Brume acide&quot;&gt;brume acide&lt;/a&gt;&lt;/i&gt;, si ce n&#39;est que le brouillard inflige des d&#233;g&#226;ts de froid au lieu de d&#233;g&#226;ts d&#39;acide. Une couche de glace glissante se forme &#233;galement sur toutes les surfaces touch&#233;es par le brouillard, ce qui cr&#233;e les m&#234;mes effets qu&#39;un sort de &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Graisse.html&quot; title=&quot;Graisse&quot;&gt;graisse&lt;/a&gt;&lt;/i&gt;. Le dragon est immunis&#233; aux effets de &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Graisse.html&quot; title=&quot;Graisse&quot;&gt;graisse&lt;/a&gt;&lt;/i&gt; gr&#226;ce &#224; sa capacit&#233; de marche sur la glace. Cette capacit&#233; &#233;quivaut &#224; un sort de 6&lt;sup&gt;e&lt;/sup&gt; niveau.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Fa&#231;onnage de la glace (Sur)&lt;/b&gt; Un jeune dragon blanc peut fa&#231;onner la glace et la neige &#224; volont&#233;. Cette capacit&#233; fonctionne comme le sort de &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Fa&#231;onnage-De-La-Pierre.html&quot; title=&quot;Fa&#231;onnage de la pierre&quot;&gt;fa&#231;onnage de la pierre&lt;/a&gt;&lt;/i&gt; mais ne peut affecter que la glace et la neige. Le dragon blanc produit cet effet avec un &lt;a class=&quot;pagelink&quot; href=&quot;Lancer-Des-Sorts.html#NLS&quot; title=&quot;NLS&quot;&gt;NLS&lt;/a&gt; &#233;gal &#224; son nombre de &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DESDEVIE&quot; title=&quot;DV&quot;&gt;DV&lt;/a&gt;.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Marche sur la glace (Ext)&lt;/b&gt; Cette capacit&#233; fonctionne comme le sort de &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Pattes-Daraign&#233;e.html&quot; title=&quot;Pattes d&amp;#39;araign&#233;e&quot;&gt;pattes d&#39;araign&#233;e&lt;/a&gt;&lt;/i&gt; mais les surfaces que le dragon escalade doivent &#234;tre gel&#233;es. Le dragon peut traverser les surfaces gel&#233;es sans subir aucun malus et il peut &lt;a class=&quot;pagelink&quot; href=&quot;Course.html&quot; title=&quot;Course&quot;&gt;courir&lt;/a&gt; ou &lt;a class=&quot;pagelink&quot; href=&quot;Actions-Sp&#233;ciales.html#CHARGE&quot; title=&quot;charge&quot;&gt;charger&lt;/a&gt; sur la glace sans devoir effectuer de test d&#39;&lt;a class=&quot;pagelink&quot; href=&quot;Acrobaties.html&quot; title=&quot;Acrobaties&quot;&gt;Acrobaties&lt;/a&gt;.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Pouvoirs magiques (Mag)&lt;/b&gt; Les dragons blancs acqui&#232;rent les pouvoirs magiques suivants, qu&#39;ils peuvent utiliser &#224; volont&#233; une fois l&#39;&#226;ge requis atteint. Adolescent - &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Nappe-De-Brouillard.html&quot; title=&quot;Nappe de brouillard&quot;&gt;nappe de brouillard&lt;/a&gt;&lt;/i&gt; ; Jeune adule - &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Bourrasque.html&quot; title=&quot;Bourrasque&quot;&gt;bourrasque&lt;/a&gt;&lt;/i&gt; ; V&#233;n&#233;rable - &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Mur-De-Glace.html&quot; title=&quot;Mur de glace&quot;&gt;mur de glace&lt;/a&gt;&lt;/i&gt; ; Grand dracosire - &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Contr&#244;le-Du-Climat.html&quot; title=&quot;Contr&#244;le du climat&quot;&gt;contr&#244;le du climat&lt;/a&gt;&lt;/i&gt;.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tombeau de glace (Mag)&lt;/b&gt; Par un &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions.html#SIMPLE&quot; title=&quot;Action simple&quot;&gt;action simple&lt;/a&gt;, un grand dracosire peut faire tomber une cr&#233;ature dans la glace. Cela fonctionne comme un sort d&#39;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Emprisonnement.html&quot; title=&quot;Emprisonnement&quot;&gt;emprisonnement&lt;/a&gt;&lt;/i&gt; mais seulement si la cible touche une surface gel&#233;e. Le dragon peut utiliser cette capacit&#233; une fois par jour (avec un NLS &#233;gal &#224; son nombre de DV). Les cibles ench&#226;ss&#233;es dans la glace par cette capacit&#233; ainsi peuvent &#234;tre lib&#233;r&#233;es par un sort de &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;D&#233;livrance.html&quot; title=&quot;D&#233;livrance&quot;&gt;d&#233;livrance&lt;/a&gt;&lt;/i&gt;. On peut &#233;galement les extraire physiquement de la glace (solidit&#233; 0, 360 points de vie). Le &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DEGREDEDIFFICULTE&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; du &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;jet de sauvegarde&quot;&gt;jet de sauvegarde&lt;/a&gt; d&#233;pend du &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#CHARISME&quot; title=&quot;Le Charisme&quot;&gt;Charisme&lt;/a&gt;.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Vision malgr&#233; la neige (Ext)&lt;/b&gt; Un tr&#232;s jeune dragon blanc apprend &#224; voir parfaitement dans des conditions enneig&#233;es. La neige ne lui impose aucun malus aux tests de &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt;.
+&lt;/div&gt;
+&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Jeune dragon blanc&lt;div style=&quot;float:right;&quot;&gt;FP 6&lt;/div&gt;&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Bestiaire&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 2.400
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Dragon.html&quot; title=&quot;Dragon&quot;&gt;Dragon&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Froid.html&quot; title=&quot;Froid (sous-type)&quot;&gt;froid&lt;/a&gt;) de taille M, CM
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +6 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Dragon.html#SENSDRACONIQUES&quot; title=&quot;sens draconiques&quot;&gt;sens draconiques&lt;/a&gt;, vision malgr&#233; la neige ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +12
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 20, contact 12, pris au d&#233;pourvu 18 (Dex +2, naturelle +8)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 66 (7d12+21)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +7, &lt;b&gt;Vig&lt;/b&gt; +8, &lt;b&gt;Vol&lt;/b&gt; +5
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Immunit&#233;s&lt;/b&gt; froid, paralysie, sommeil 
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Faiblesses&lt;/b&gt; vuln&#233;rabilit&#233; au feu
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 9 m (6 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), creusement 9 m (6 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), nage 18 m (12 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), vol 45 m (30 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) (moyenne)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; morsure, +11 (1d8+6), 2 griffes, +11 (1d6+4), 2 ailes, +6 (1d4+2)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Espace&lt;/b&gt; 1,50 m (1 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) ; &lt;b&gt;Allonge&lt;/b&gt; 1,50 m (1 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) (3 m (2 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) pour la morsure)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaques sp&#233;ciales&lt;/b&gt; souffle (&lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#DEFCONE&quot; title=&quot;c&#244;ne&quot;&gt;c&#244;ne&lt;/a&gt; de 9 m (6 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) , DD 16, 6d4 froid)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 19, &lt;b&gt;Dex&lt;/b&gt; 14, &lt;b&gt;Con&lt;/b&gt; 17, &lt;b&gt;Int&lt;/b&gt; 8, &lt;b&gt;Sag&lt;/b&gt; 11, &lt;b&gt;Cha&lt;/b&gt; 8
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +7, &lt;b&gt;BMO&lt;/b&gt; +11, &lt;b&gt;DMD&lt;/b&gt; 23 (27 contre &lt;a class=&quot;pagelink&quot; href=&quot;Croc-En-Jambe.html&quot; title=&quot;croc-en-jambe&quot;&gt;croc-en-jambe&lt;/a&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Attaque-En-Puissance.html&quot; title=&quot;Attaque en puissance&quot;&gt;Attaque en puissance&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Attaque-En-Vol.html&quot; title=&quot;Attaque en vol&quot;&gt;Attaque en vol&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Science-De-Linitiative.html&quot; title=&quot;Science de l&amp;#39;initiative&quot;&gt;Science de l&#39;initiative&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Vigilance.html&quot; title=&quot;Vigilance&quot;&gt;Vigilance&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; +12, &lt;a class=&quot;pagelink&quot; href=&quot;Intimidation.html&quot; title=&quot;Intimidation&quot;&gt;Intimidation&lt;/a&gt; +9, &lt;a class=&quot;pagelink&quot; href=&quot;Natation.html&quot; title=&quot;Natation&quot;&gt;Natation&lt;/a&gt; +22, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +12, &lt;a class=&quot;pagelink&quot; href=&quot;Vol.html&quot; title=&quot;Vol&quot;&gt;Vol&lt;/a&gt; +12
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Langues&lt;/b&gt; draconique
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Particularit&#233;s&lt;/b&gt; fa&#231;onnage de la glace, marche sur la glace
+&lt;/div&gt;
+&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Dragon blanc adulte&lt;div style=&quot;float:right;&quot;&gt;FP 10&lt;/div&gt;&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Bestiaire&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 9.600
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Dragon.html&quot; title=&quot;Dragon&quot;&gt;Dragon&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Froid.html&quot; title=&quot;Froid (sous-type)&quot;&gt;froid&lt;/a&gt;) de taille G, CM
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +5 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Dragon.html#SENSDRACONIQUES&quot; title=&quot;sens draconiques&quot;&gt;sens draconiques&lt;/a&gt;, vision malgr&#233; la neige ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +22
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Aura&lt;/b&gt; froid (1,50 m (1 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), 1d6 froid), &lt;a class=&quot;pagelink&quot; href=&quot;Dragon.html#PRESENCETERRIFIANTE&quot; title=&quot;pr&#233;sence terrifiante (dragon)&quot;&gt;pr&#233;sence terrifiante&lt;/a&gt; (54 m (36 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), DD 17)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 27, contact 10, pris au d&#233;pourvu 26 (Dex +1, naturelle +17, taille -1)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 149 (13d12+65)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +9, &lt;b&gt;Vig&lt;/b&gt; +13, &lt;b&gt;Vol&lt;/b&gt; +10
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Immunit&#233;s&lt;/b&gt; froid, paralysie, sommeil ; &lt;b&gt;RD&lt;/b&gt; 5/magie ; &lt;b&gt;RM&lt;/b&gt; 21 
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Faiblesses&lt;/b&gt; vuln&#233;rabilit&#233; au feu
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 9 m (6 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) , creusement 9 m (6 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), nage 18 m (12 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), vol 60 m (40 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) (m&#233;diocre)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; morsure, +20 (2d6+10/19-20), 2 griffes, +19 (1d8+7), 2 ailes, +14 (1d6+3), coup de queue, +14 (1d8+10)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Espace&lt;/b&gt; 3 m (2 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) ; &lt;b&gt;Allonge&lt;/b&gt; 1,50 m (1 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) (3 m (2 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) pour la morsure)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaques sp&#233;ciales&lt;/b&gt; souffle (&lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#DEFCONE&quot; title=&quot;c&#244;ne&quot;&gt;c&#244;ne&lt;/a&gt; 12 m (8 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), DD 21, 12d4 froid)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Pouvoirs magiques&lt;/b&gt; (NLS 13&lt;sup&gt;e&lt;/sup&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+&#192; volont&#233; — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Bourrasque.html&quot; title=&quot;Bourrasque&quot;&gt;bourrasque&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Nappe-De-Brouillard.html&quot; title=&quot;Nappe de brouillard&quot;&gt;nappe de brouillard&lt;/a&gt;&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Sorts connus&lt;/b&gt; (NLS 1&lt;sup&gt;er&lt;/sup&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+1&lt;sup&gt;er&lt;/sup&gt; (4/jour) — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Bouclier.html&quot; title=&quot;Bouclier&quot;&gt;bouclier&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Coup-Au-But.html&quot; title=&quot;Coup au but&quot;&gt;coup au but&lt;/a&gt;&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+0 (&#224; volont&#233;) — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;D&#233;tection-De-La-Magie.html&quot; title=&quot;D&#233;tection de la magie&quot;&gt;d&#233;tection de la magie&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Lumi&#232;res-Dansantes.html&quot; title=&quot;Lumi&#232;res dansantes&quot;&gt;lumi&#232;res dansantes&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Rayon-De-Givre.html&quot; title=&quot;Rayon de givre&quot;&gt;rayon de givre&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;R&#233;paration.html&quot; title=&quot;R&#233;paration&quot;&gt;r&#233;paration&lt;/a&gt;&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 25, &lt;b&gt;Dex&lt;/b&gt; 12, &lt;b&gt;Con&lt;/b&gt; 21, &lt;b&gt;Int&lt;/b&gt; 12, &lt;b&gt;Sag&lt;/b&gt; 15, &lt;b&gt;Cha&lt;/b&gt; 12
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +13, &lt;b&gt;BMO&lt;/b&gt; +21, &lt;b&gt;DMD&lt;/b&gt; 32 (36 contre &lt;a class=&quot;pagelink&quot; href=&quot;Croc-En-Jambe.html&quot; title=&quot;croc-en-jambe&quot;&gt;croc-en-jambe&lt;/a&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Arme-De-Pr&#233;dilection.html&quot; title=&quot;Arme de pr&#233;dilection&quot;&gt;Arme de pr&#233;dilection&lt;/a&gt; (morsure), &lt;a class=&quot;pagelink&quot; href=&quot;Attaque-En-Puissance.html&quot; title=&quot;Attaque en puissance&quot;&gt;Attaque en puissance&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Attaque-En-Vol.html&quot; title=&quot;Attaque en vol&quot;&gt;Attaque en vol&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Frappe-D&#233;cisive.html&quot; title=&quot;Frappe d&#233;cisive&quot;&gt;Frappe d&#233;cisive&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Science-De-Linitiative.html&quot; title=&quot;Science de l&amp;#39;initiative&quot;&gt;Science de l&#39;initiative&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Science-Du-Critique.html&quot; title=&quot;Science du critique&quot;&gt;Science du critique&lt;/a&gt; (morsure), &lt;a class=&quot;pagelink&quot; href=&quot;Vigilance.html&quot; title=&quot;Vigilance&quot;&gt;Vigilance&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Art-De-La-Magie.html&quot; title=&quot;Art de la magie&quot;&gt;Art de la magie&lt;/a&gt; +17, &lt;a class=&quot;pagelink&quot; href=&quot;Connaissances.html&quot; title=&quot;Connaissances&quot;&gt;Connaissances&lt;/a&gt; (myst&#232;res) +17, &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; +13, &lt;a class=&quot;pagelink&quot; href=&quot;Intimidation.html&quot; title=&quot;Intimidation&quot;&gt;Intimidation&lt;/a&gt; +17, &lt;a class=&quot;pagelink&quot; href=&quot;Natation.html&quot; title=&quot;Natation&quot;&gt;Natation&lt;/a&gt; +31, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +22, &lt;a class=&quot;pagelink&quot; href=&quot;Vol.html&quot; title=&quot;Vol&quot;&gt;Vol&lt;/a&gt; +11
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Langues&lt;/b&gt; commun, draconique
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Particularit&#233;s&lt;/b&gt; fa&#231;onnage de la glace, marche sur la glace
+&lt;/div&gt;
+&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Dragon blanc v&#233;n&#233;rable&lt;div style=&quot;float:right;&quot;&gt;FP 15&lt;/div&gt;&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Bestiaire&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 51.200
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Dragon.html&quot; title=&quot;Dragon&quot;&gt;Dragon&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Froid.html&quot; title=&quot;Froid (sous-type)&quot;&gt;froid&lt;/a&gt;) de taille TG, CM
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +4 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Dragon.html#SENSDRACONIQUES&quot; title=&quot;sens draconiques&quot;&gt;sens draconiques&lt;/a&gt;, vision malgr&#233; la neige ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +32
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Aura&lt;/b&gt; froid (3 m (2 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), 2d6 froid), &lt;a class=&quot;pagelink&quot; href=&quot;Dragon.html#PRESENCETERRIFIANTE&quot; title=&quot;pr&#233;sence terrifiante (dragon)&quot;&gt;pr&#233;sence terrifiante&lt;/a&gt; (90 m (60 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), DD 23)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 37, contact 8, pris au d&#233;pourvu 37 (naturelle +29, taille -2)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 283 (21d12+147)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +14, &lt;b&gt;Vig&lt;/b&gt; +19, &lt;b&gt;Vol&lt;/b&gt; +16
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Immunit&#233;s&lt;/b&gt; froid, paralysie, sommeil ; &lt;b&gt;RD&lt;/b&gt; 15/magie ; &lt;b&gt;RM&lt;/b&gt; 26 
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Faiblesses&lt;/b&gt; vuln&#233;rabilit&#233; au feu
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 9 m (6 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), creusement 9 m (6 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), nage 18 m (12 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), vol 60 m (40 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) (m&#233;diocre)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; morsure, +31 (2d8+16/19-20), 2 griffes, +30 (2d6+11), 2 ailes, +25 (1d8+5), coup de queue, +25 (2d6+16)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Espace&lt;/b&gt; 4,50 m (3 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) ; &lt;b&gt;Allonge&lt;/b&gt; 3 m (2 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) (4,50 m (3 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) pour la morsure)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaques sp&#233;ciales&lt;/b&gt; blizzard, brouillard glacial (3/jour, DD 19), &lt;a class=&quot;pagelink&quot; href=&quot;Dragon.html#ECRASEMENT&quot; title=&quot;&#233;crasement&quot;&gt;&#233;crasement&lt;/a&gt;, souffle (&lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#DEFCONE&quot; title=&quot;c&#244;ne&quot;&gt;c&#244;ne&lt;/a&gt; 15 m (10 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), DD 27, 20d4 froid)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Pouvoirs magiques&lt;/b&gt; (NLS 21&lt;sup&gt;e&lt;/sup&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+&#192; volont&#233; — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Bourrasque.html&quot; title=&quot;Bourrasque&quot;&gt;bourrasque&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Mur-De-Glace.html&quot; title=&quot;Mur de glace&quot;&gt;mur de glace&lt;/a&gt;&lt;/i&gt; (DD 17), &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Nappe-De-Brouillard.html&quot; title=&quot;Nappe de brouillard&quot;&gt;nappe de brouillard&lt;/a&gt;&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Sorts connus&lt;/b&gt; (NLS 9&lt;sup&gt;e&lt;/sup&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+4&lt;sup&gt;e&lt;/sup&gt; (4/jour) — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Charme-Monstre.html&quot; title=&quot;Charme-monstre&quot;&gt;charme-monstre&lt;/a&gt;&lt;/i&gt; (DD 17), &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Porte-Dimensionnelle.html&quot; title=&quot;Porte dimensionnelle&quot;&gt;porte dimensionnelle&lt;/a&gt;&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+3&lt;sup&gt;e&lt;/sup&gt; (7/jour) — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;D&#233;placement.html&quot; title=&quot;D&#233;placement&quot;&gt;d&#233;placement&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Dissipation-De-La-Magie.html&quot; title=&quot;Dissipation de la magie&quot;&gt;dissipation de la magie&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;&#201;clair.html&quot; title=&quot;&#201;clair&quot;&gt;&#233;clair&lt;/a&gt;&lt;/i&gt; (DD 16)
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+2&lt;sup&gt;e&lt;/sup&gt; (7/jour) — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;D&#233;tection-De-Linvisibilit&#233;.html&quot; title=&quot;D&#233;tection de l&amp;#39;invisibilit&#233;&quot;&gt;d&#233;tection de l&#39;invisibilit&#233;&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Invisibilit&#233;.html&quot; title=&quot;Invisibilit&#233;&quot;&gt;invisibilit&#233;&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Nappe-De-Brouillard.html&quot; title=&quot;Nappe de brouillard&quot;&gt;nappe de brouillard&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;R&#233;sistance-Aux-&#201;nergies-Destructives.html&quot; title=&quot;R&#233;sistance aux &#233;nergies destructives&quot;&gt;r&#233;sistance aux &#233;nergies destructives&lt;/a&gt;&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+1&lt;sup&gt;er&lt;/sup&gt; (7/jour) — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Alarme.html&quot; title=&quot;Alarme&quot;&gt;alarme&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Aura-Magique.html&quot; title=&quot;Aura magique&quot;&gt;aura magique&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Bouclier.html&quot; title=&quot;Bouclier&quot;&gt;bouclier&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Coup-Au-But.html&quot; title=&quot;Coup au but&quot;&gt;coup au but&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Graisse.html&quot; title=&quot;Graisse&quot;&gt;graisse&lt;/a&gt;&lt;/i&gt; (DD 14)
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+0 (&#224; volont&#233;) — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Aspersion-Acide.html&quot; title=&quot;Aspersion acide&quot;&gt;aspersion acide&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;D&#233;tection-De-La-Magie.html&quot; title=&quot;D&#233;tection de la magie&quot;&gt;d&#233;tection de la magie&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Lumi&#232;res-Dansantes.html&quot; title=&quot;Lumi&#232;res dansantes&quot;&gt;lumi&#232;res dansantes&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Manipulation-&#192;-Distance.html&quot; title=&quot;Manipulation &#224; distance&quot;&gt;manipulation &#224; distance&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Message.html&quot; title=&quot;Message&quot;&gt;message&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Rayon-De-Givre.html&quot; title=&quot;Rayon de givre&quot;&gt;rayon de givre&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;R&#233;paration.html&quot; title=&quot;R&#233;paration&quot;&gt;r&#233;paration&lt;/a&gt;&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 33, &lt;b&gt;Dex&lt;/b&gt; 10, &lt;b&gt;Con&lt;/b&gt; 25, &lt;b&gt;Int&lt;/b&gt; 16, &lt;b&gt;Sag&lt;/b&gt; 19, &lt;b&gt;Cha&lt;/b&gt; 16
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +21, &lt;b&gt;BMO&lt;/b&gt; +34, &lt;b&gt;DMD&lt;/b&gt; 44 (48 contre le croc-en-jambe)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Arme-De-Pr&#233;dilection.html&quot; title=&quot;Arme de pr&#233;dilection&quot;&gt;Arme de pr&#233;dilection&lt;/a&gt; (morsure), &lt;a class=&quot;pagelink&quot; href=&quot;Attaque-En-Puissance.html&quot; title=&quot;Attaque en puissance&quot;&gt;Attaque en puissance&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Attaque-En-Vol.html&quot; title=&quot;Attaque en vol&quot;&gt;Attaque en vol&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Frappe-D&#233;cisive.html&quot; title=&quot;Frappe d&#233;cisive&quot;&gt;Frappe d&#233;cisive&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Frappe-D&#233;cisive-Sup&#233;rieure.html&quot; title=&quot;Frappe d&#233;cisive sup&#233;rieure&quot;&gt;Frappe d&#233;cisive sup&#233;rieure&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;R&#233;flexes-Surhumains.html&quot; title=&quot;R&#233;flexes surhumains&quot;&gt;R&#233;flexes surhumains&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Science-De-Linitiative.html&quot; title=&quot;Science de l&amp;#39;initiative&quot;&gt;Science de l&#39;initiative&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Science-De-La-Destruction.html&quot; title=&quot;Science de la destruction&quot;&gt;Science de la destruction&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Science-De-La-Frappe-D&#233;cisive.html&quot; title=&quot;Science de la frappe d&#233;cisive&quot;&gt;Science de la frappe d&#233;cisive&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Science-Du-Critique.html&quot; title=&quot;Science du critique&quot;&gt;Science du critique&lt;/a&gt; (morsure), &lt;a class=&quot;pagelink&quot; href=&quot;Vigilance.html&quot; title=&quot;Vigilance&quot;&gt;Vigilance&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Art-De-La-Magie.html&quot; title=&quot;Art de la magie&quot;&gt;Art de la magie&lt;/a&gt; +27, &lt;a class=&quot;pagelink&quot; href=&quot;Connaissances.html&quot; title=&quot;Connaissances&quot;&gt;Connaissances&lt;/a&gt; (histoire) +27, &lt;a class=&quot;pagelink&quot; href=&quot;Connaissances.html&quot; title=&quot;Connaissances&quot;&gt;Connaissances&lt;/a&gt; (myst&#232;res) +27, &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; +16, &lt;a class=&quot;pagelink&quot; href=&quot;Intimidation.html&quot; title=&quot;Intimidation&quot;&gt;Intimidation&lt;/a&gt; +27, &lt;a class=&quot;pagelink&quot; href=&quot;Natation.html&quot; title=&quot;Natation&quot;&gt;Natation&lt;/a&gt; +43, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +32, &lt;a class=&quot;pagelink&quot; href=&quot;Psychologie.html&quot; title=&quot;Psychologie&quot;&gt;Psychologie&lt;/a&gt; +32, &lt;a class=&quot;pagelink&quot; href=&quot;Vol.html&quot; title=&quot;Vol&quot;&gt;Vol&lt;/a&gt; +16
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Langues&lt;/b&gt; commun, draconique
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Particularit&#233;s&lt;/b&gt; fa&#231;onnage de la glace, marche sur la glace
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;td&gt;&lt;div&gt;&lt;i&gt;Les &#233;cailles blanches de ce dragon semblent gel&#233;es et sa t&#234;te est orn&#233;e de cornes minces et reli&#233;es par de fines membranes.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;M&#234;me si on les consid&#232;re souvent comme les plus faibles et les
+moins &#233;volu&#233;s des dragons chromatiques, les dragons blancs
+compensent leur manque d’intelligence par leur f&#233;rocit&#233;. Ils
+vivent au sommet des montagnes recul&#233;es ou dans les terres
+arctiques, au sein de grottes &#233;tincelantes faites de glace et
+de neige. Ils pr&#233;f&#232;rent se repa&#238;tre de nourriture
+compl&#232;tement gel&#233;e.&lt;br /&gt;&lt;br /&gt;&lt;center&gt;
+&lt;table CLASS=&quot;tablo toutgauche&quot;&gt;&lt;caption&gt;Tableau des gains de capacit&#233;s&lt;/caption&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td&gt;Cat&#233;gorie d&#39;&#226;ge &lt;/td&gt;&lt;td&gt;Capacit&#233;s sp&#233;ciales&lt;/td&gt;&lt;td&gt;NLS&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier&quot;&gt;&lt;td&gt;Dragonnet&lt;/td&gt;&lt;td&gt;marche sur la glace, sous-type &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Froid.html&quot; title=&quot;Froid (sous-type)&quot;&gt;froid&lt;/a&gt;&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;Tr&#232;s jeune&lt;/td&gt;&lt;td&gt;vision malgr&#233; la neige&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Jeune&lt;/td&gt;&lt;td&gt;fa&#231;onnage de la glace&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;Adolescent&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Nappe-De-Brouillard.html&quot; title=&quot;Nappe de brouillard&quot;&gt;nappe de brouillard&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Jeune adulte&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Bourrasque.html&quot; title=&quot;Bourrasque&quot;&gt;bourrasque&lt;/a&gt;&lt;/i&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;R&#233;duction-De-D&#233;g&#226;ts-(Capacit&#233;).html&quot; title=&quot;RD&quot;&gt;RD&lt;/a&gt; 5/magie ; &lt;a class=&quot;pagelink&quot; href=&quot;R&#233;sistance-&#192;-La-Magie-(Capacit&#233;).html&quot; title=&quot;RM&quot;&gt;RM&lt;/a&gt;&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;Adulte&lt;/td&gt;&lt;td&gt;aura de froid, &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sence-Terrifiante-(Capacit&#233;).html&quot; title=&quot;Pr&#233;sence terrifiante&quot;&gt;pr&#233;sence terrifiante&lt;/a&gt;&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&#194;ge m&#251;r&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;R&#233;duction-De-D&#233;g&#226;ts-(Capacit&#233;).html&quot; title=&quot;RD&quot;&gt;RD&lt;/a&gt; 10/magie&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;Vieux&lt;/td&gt;&lt;td&gt;brouillard glacial&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Tr&#232;s vieux&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;R&#233;duction-De-D&#233;g&#226;ts-(Capacit&#233;).html&quot; title=&quot;RD&quot;&gt;RD&lt;/a&gt; 15/magie&lt;/td&gt;&lt;td&gt;7&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;V&#233;n&#233;rable&lt;/td&gt;&lt;td&gt;Blizzard, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Mur-De-Glace.html&quot; title=&quot;Mur de glace&quot;&gt;mur de glace&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;9&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Dracosire&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;R&#233;duction-De-D&#233;g&#226;ts-(Capacit&#233;).html&quot; title=&quot;RD&quot;&gt;RD&lt;/a&gt; 20/magie&lt;/td&gt;&lt;td&gt;11&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;Grand dracosire&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Contr&#244;le-Du-Climat.html&quot; title=&quot;Contr&#244;le du climat&quot;&gt;contr&#244;le du climat&lt;/a&gt;&lt;/i&gt;, tombeau de glace&lt;/td&gt;&lt;td&gt;13&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Dragon chromatique blanc|}
+{s:pucem|Dragon|Montagnes|Froid}
+{s:BDTexte|''Source : Bestiaire p.96''}
+{s:BDTexte|[[type Dragon|Dragon]] ([[sous-type froid|froid]]), CM}
+{s:BDSousTitre|Caractéristiques de base}
+{s:BDTexte|'''FP''' 2 ; '''Taille''' TP ; '''DV''' 3d12}
+{s:BDTexte|'''VD''' 18 m (12 {s:c}), creusement 9 m (6 {s:c}), nage 18 m (12 {s:c})}
+{s:BDTexte|'''Armure naturelle'''+2 ; '''Souffle''' [[cône]], 2d4 froid}
+{s:BDTexte|'''For''' 11, '''Dex''' 16, '''Con''' 13, '''Int''' 6, '''Sag''' 9, '''Cha''' 6}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' montagnes froides}
+{s:BDTexte|'''Organisation sociale''' solitaire}
+{s:BDTexte|'''Trésor''' triple}
+{s:BDSousTitre|Capacités spéciales}
+{s:BDTexte|'''Aura de froid (Sur)''' Une aura de froid émane des dragons blancs adultes. Toutes les créatures situés à 1,50 m (1 {s:c}) ou moins du dragon subissent 1d6 points de dégâts de froid au début du tour du dragon. L'aura des vieux dragons s'étend à 3 m (2 {s:c}). Les dégâts infligés par un dragon vénérable montent à 2d6.}
+{s:BDTexte|'''Blizzard (Sur)''' par une [[action simple]], un dragon blanc vénérable peut utiliser son souffle pour provoquer un blizzard dans une zone autour de lui. Cela crée des conditions de fortes neiges dans un rayon de 15 m (10 {s:c}) autour du dragon pendant 1 minute. La neige ralentit les mouvements (entrer dans une case coûte 4 cases de déplacement) et limite la vision comme s'il s'agissait de brouillard.}
+{s:BDTexte|'''Brouillard glacial (Mag)''' Un vieux dragon blanc peut utiliser cette capacité trois fois par jour. Ses effets sont similaires à ceux d'une ''[[brume acide]]'', si ce n'est que le brouillard inflige des dégâts de froid au lieu de dégâts d'acide. Une couche de glace glissante se forme également sur toutes les surfaces touchées par le brouillard, ce qui crée les mêmes effets qu'un sort de ''[[graisse]]''. Le dragon est immunisé aux effets de ''[[graisse]]'' grâce à sa capacité de marche sur la glace. Cette capacité équivaut à un sort de 6<sup>e</sup> niveau.}
+{s:BDTexte|'''Façonnage de la glace (Sur)''' Un jeune dragon blanc peut façonner la glace et la neige à volonté. Cette capacité fonctionne comme le sort de ''[[façonnage de la pierre]]'' mais ne peut affecter que la glace et la neige. Le dragon blanc produit cet effet avec un [[NLS]] égal à son nombre de [[DV]].}
+{s:BDTexte|'''Marche sur la glace (Ext)''' Cette capacité fonctionne comme le sort de ''[[pattes daraignée|pattes d'araignée]]'' mais les surfaces que le dragon escalade doivent être gelées. Le dragon peut traverser les surfaces gelées sans subir aucun malus et il peut [[course|courir]] ou [[charge|charger]] sur la glace sans devoir effectuer de test d'[[Acrobaties]].}
+{s:BDTexte|'''Pouvoirs magiques (Mag)''' Les dragons blancs acquièrent les pouvoirs magiques suivants, qu'ils peuvent utiliser à volonté une fois l'âge requis atteint. Adolescent - ''[[nappe de brouillard]]'' ; Jeune adule - ''[[bourrasque]]'' ; Vénérable - ''[[mur de glace]]'' ; Grand dracosire - ''[[contrôle du climat]]''.}
+{s:BDTexte|'''Tombeau de glace (Mag)''' Par un [[action simple]], un grand dracosire peut faire tomber une créature dans la glace. Cela fonctionne comme un sort d<nowiki>'</nowiki>''[[emprisonnement]]'' mais seulement si la cible touche une surface gelée. Le dragon peut utiliser cette capacité une fois par jour (avec un NLS égal à son nombre de DV). Les cibles enchâssées dans la glace par cette capacité ainsi peuvent être libérées par un sort de ''[[délivrance]]''. On peut également les extraire physiquement de la glace (solidité 0, 360 points de vie). Le [[DD]] du [[jet de sauvegarde]] dépend du [[Charisme]].}
+{s:BDTexte|'''Vision malgré la neige (Ext)''' Un très jeune dragon blanc apprend à voir parfaitement dans des conditions enneigées. La neige ne lui impose aucun malus aux tests de [[Perception]].}
+</div>
+
+<div class="BD">
+{s:BDTitre|Jeune dragon blanc|FP 6}
+{s:pucem|Dragon|Montagnes|Froid}
+{s:BDTexte|''Source : Bestiaire''}
+{s:BDTexte|'''PX''' 2.400}
+{s:BDTexte|[[type Dragon|Dragon]] ([[sous-type froid|froid]]) de taille M, CM}
+{s:BDTexte|'''Init''' +6 ; '''Sens''' [[sens draconiques]], vision malgré la neige ; [[Perception]] +12}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 20, contact 12, pris au dépourvu 18 (Dex +2, naturelle +8)}
+{s:BDTexte|'''pv''' 66 (7d12+21)}
+{s:BDTexte|'''Réf''' +7, '''Vig''' +8, '''Vol''' +5}
+{s:BDTexte|'''Immunités''' froid, paralysie, sommeil }
+{s:BDTexte|'''Faiblesses''' vulnérabilité au feu}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 9 m (6 {s:c}), creusement 9 m (6 {s:c}), nage 18 m (12 {s:c}), vol 45 m (30 {s:c}) (moyenne)}
+{s:BDTexte|'''Corps à corps''' morsure, +11 (1d8+6), 2 griffes, +11 (1d6+4), 2 ailes, +6 (1d4+2)}
+{s:BDTexte|'''Espace''' 1,50 m (1 {s:c}) ; '''Allonge''' 1,50 m (1 {s:c}) (3 m (2 {s:c}) pour la morsure)}
+{s:BDTexte|'''Attaques spéciales''' souffle ([[cône]] de 9 m (6 {s:c}) , DD 16, 6d4 froid)}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 19, '''Dex''' 14, '''Con''' 17, '''Int''' 8, '''Sag''' 11, '''Cha''' 8}
+{s:BDTexte|'''BBA''' +7, '''BMO''' +11, '''DMD''' 23 (27 contre [[croc-en-jambe]])}
+{s:BDTexte|'''Dons''' [[Attaque en puissance]], [[Attaque en vol]], [[Science de linitiative|Science de l'initiative]], [[Vigilance]]}
+{s:BDTexte|'''Compétences''' [[Discrétion]] +12, [[Intimidation]] +9, [[Natation]] +22, [[Perception]] +12, [[Vol]] +12}
+{s:BDTexte|'''Langues''' draconique}
+{s:BDTexte|'''Particularités''' façonnage de la glace, marche sur la glace}
+</div>
+
+<div class="BD">
+{s:BDTitre|Dragon blanc adulte|FP 10}
+{s:pucem|Dragon|Montagnes|Froid}
+{s:BDTexte|''Source : Bestiaire''}
+{s:BDTexte|'''PX''' 9.600}
+{s:BDTexte|[[type Dragon|Dragon]] ([[sous-type froid|froid]]) de taille G, CM}
+{s:BDTexte|'''Init''' +5 ; '''Sens''' [[sens draconiques]], vision malgré la neige ; [[Perception]] +22}
+{s:BDTexte|'''Aura''' froid (1,50 m (1 {s:c}), 1d6 froid), [[présence terrifiante (dragon)|présence terrifiante]] (54 m (36 {s:c}), DD 17)}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 27, contact 10, pris au dépourvu 26 (Dex +1, naturelle +17, taille -1)}
+{s:BDTexte|'''pv''' 149 (13d12+65)}
+{s:BDTexte|'''Réf''' +9, '''Vig''' +13, '''Vol''' +10}
+{s:BDTexte|'''Immunités''' froid, paralysie, sommeil ; '''RD''' 5/magie ; '''RM''' 21 }
+{s:BDTexte|'''Faiblesses''' vulnérabilité au feu}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 9 m (6 {s:c}) , creusement 9 m (6 {s:c}), nage 18 m (12 {s:c}), vol 60 m (40 {s:c}) (médiocre)}
+{s:BDTexte|'''Corps à corps''' morsure, +20 (2d6+10/19-20), 2 griffes, +19 (1d8+7), 2 ailes, +14 (1d6+3), coup de queue, +14 (1d8+10)}
+{s:BDTexte|'''Espace''' 3 m (2 {s:c}) ; '''Allonge''' 1,50 m (1 {s:c}) (3 m (2 {s:c}) pour la morsure)}
+{s:BDTexte|'''Attaques spéciales''' souffle ([[cône]] 12 m (8 {s:c}), DD 21, 12d4 froid)}
+{s:BDTexte|'''Pouvoirs magiques''' (NLS 13<sup>e</sup>)}
+{s:BDSorts|À volonté — ''[[bourrasque]]'', ''[[nappe de brouillard]]''}
+{s:BDTexte|'''Sorts connus''' (NLS 1<sup>er</sup>)}
+{s:BDSorts|1<sup>er</sup> (4/jour) — ''[[bouclier]]'', ''[[coup au but]]''}
+{s:BDSorts|0 (à volonté) — ''[[détection de la magie]]'', ''[[lumières dansantes]]'', ''[[rayon de givre]]'', ''[[réparation]]''}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 25, '''Dex''' 12, '''Con''' 21, '''Int''' 12, '''Sag''' 15, '''Cha''' 12}
+{s:BDTexte|'''BBA''' +13, '''BMO''' +21, '''DMD''' 32 (36 contre [[croc-en-jambe]])}
+{s:BDTexte|'''Dons''' [[Arme de prédilection]] (morsure), [[Attaque en puissance]], [[Attaque en vol]], [[Frappe décisive]], [[Science de linitiative|Science de l'initiative]], [[Science du critique]] (morsure), [[Vigilance]]}
+{s:BDTexte|'''Compétences''' [[Art de la magie]] +17, [[Connaissances]] (mystères) +17, [[Discrétion]] +13, [[Intimidation]] +17, [[Natation]] +31, [[Perception]] +22, [[Vol]] +11}
+{s:BDTexte|'''Langues''' commun, draconique}
+{s:BDTexte|'''Particularités''' façonnage de la glace, marche sur la glace}
+</div>
+
+<div class="BD">
+{s:BDTitre|Dragon blanc vénérable|FP 15}
+{s:pucem|Dragon|Montagnes|Froid}
+{s:BDTexte|''Source : Bestiaire''}
+{s:BDTexte|'''PX''' 51.200}
+{s:BDTexte|[[type Dragon|Dragon]] ([[sous-type froid|froid]]) de taille TG, CM}
+{s:BDTexte|'''Init''' +4 ; '''Sens''' [[sens draconiques]], vision malgré la neige ; [[Perception]] +32}
+{s:BDTexte|'''Aura''' froid (3 m (2 {s:c}), 2d6 froid), [[présence terrifiante (dragon)|présence terrifiante]] (90 m (60 {s:c}), DD 23)}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 37, contact 8, pris au dépourvu 37 (naturelle +29, taille -2)}
+{s:BDTexte|'''pv''' 283 (21d12+147)}
+{s:BDTexte|'''Réf''' +14, '''Vig''' +19, '''Vol''' +16}
+{s:BDTexte|'''Immunités''' froid, paralysie, sommeil ; '''RD''' 15/magie ; '''RM''' 26 }
+{s:BDTexte|'''Faiblesses''' vulnérabilité au feu}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 9 m (6 {s:c}), creusement 9 m (6 {s:c}), nage 18 m (12 {s:c}), vol 60 m (40 {s:c}) (médiocre)}
+{s:BDTexte|'''Corps à corps''' morsure, +31 (2d8+16/19-20), 2 griffes, +30 (2d6+11), 2 ailes, +25 (1d8+5), coup de queue, +25 (2d6+16)}
+{s:BDTexte|'''Espace''' 4,50 m (3 {s:c}) ; '''Allonge''' 3 m (2 {s:c}) (4,50 m (3 {s:c}) pour la morsure)}
+{s:BDTexte|'''Attaques spéciales''' blizzard, brouillard glacial (3/jour, DD 19), [[écrasement]], souffle ([[cône]] 15 m (10 {s:c}), DD 27, 20d4 froid)}
+{s:BDTexte|'''Pouvoirs magiques''' (NLS 21<sup>e</sup>)}
+{s:BDSorts|À volonté — ''[[bourrasque]]'', ''[[mur de glace]]'' (DD 17), ''[[nappe de brouillard]]''}
+{s:BDTexte|'''Sorts connus''' (NLS 9<sup>e</sup>)}
+{s:BDSorts|4<sup>e</sup> (4/jour) — ''[[charme-monstre]]'' (DD 17), ''[[porte dimensionnelle]]''}
+{s:BDSorts|3<sup>e</sup> (7/jour) — ''[[déplacement]]'', ''[[dissipation de la magie]]'', ''[[éclair]]'' (DD 16)}
+{s:BDSorts|2<sup>e</sup> (7/jour) — ''[[détection de linvisibilité|détection de l'invisibilité]]'', ''[[invisibilité]]'', ''[[nappe de brouillard]]'', ''[[résistance aux énergies destructives]]''}
+{s:BDSorts|1<sup>er</sup> (7/jour) — ''[[alarme]]'', ''[[aura magique]]'', ''[[bouclier]]'', ''[[coup au but]]'', ''[[graisse]]'' (DD 14)}
+{s:BDSorts|0 (à volonté) — ''[[aspersion acide]]'', ''[[détection de la magie]]'', ''[[lumières dansantes]]'', ''[[manipulation à distance]]'', ''[[message]]'', ''[[rayon de givre]]'', ''[[réparation]]''}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 33, '''Dex''' 10, '''Con''' 25, '''Int''' 16, '''Sag''' 19, '''Cha''' 16}
+{s:BDTexte|'''BBA''' +21, '''BMO''' +34, '''DMD''' 44 (48 contre le croc-en-jambe)}
+{s:BDTexte|'''Dons''' [[Arme de prédilection]] (morsure), [[Attaque en puissance]], [[Attaque en vol]], [[Frappe décisive]], [[Frappe décisive supérieure]], [[Réflexes surhumains]], [[Science de linitiative|Science de l'initiative]], [[Science de la destruction]], [[Science de la frappe décisive]], [[Science du critique]] (morsure), [[Vigilance]]}
+{s:BDTexte|'''Compétences''' [[Art de la magie]] +27, [[Connaissances]] (histoire) +27, [[Connaissances]] (mystères) +27, [[Discrétion]] +16, [[Intimidation]] +27, [[Natation]] +43, [[Perception]] +32, [[Psychologie]] +32, [[Vol]] +16}
+{s:BDTexte|'''Langues''' commun, draconique}
+{s:BDTexte|'''Particularités''' façonnage de la glace, marche sur la glace}
+</div>
+</td><td><div>''Les écailles blanches de ce dragon semblent gelées et sa tête est ornée de cornes minces et reliées par de fines membranes.''
+
+Même si on les considère souvent comme les plus faibles et les
+moins évolués des dragons chromatiques, les dragons blancs
+compensent leur manque d’intelligence par leur férocité. Ils
+vivent au sommet des montagnes reculées ou dans les terres
+arctiques, au sein de grottes étincelantes faites de glace et
+de neige. Ils préfèrent se repaître de nourriture
+complètement gelée.
+
+<center>
+{| CLASS="tablo toutgauche"
+|+ Tableau des gains de capacités
+|- CLASS="titre"
+| Catégorie d'âge  || Capacités spéciales || NLS
+|- CLASS="premier"
+| Dragonnet || marche sur la glace, sous-type [[sous-type froid|froid]] || —
+|- CLASS="alt"
+| Très jeune || vision malgré la neige || —
+|-
+| Jeune || façonnage de la glace || —
+|- CLASS="alt"
+| Adolescent || ''[[nappe de brouillard]]'' || —
+|-
+| Jeune adulte || ''[[bourrasque]]'', [[RD]] 5/magie ; [[RM]] || —
+|- CLASS="alt"
+| Adulte || aura de froid, [[présence terrifiante]] || 1
+|-
+| Âge mûr || [[RD]] 10/magie || 3
+|- CLASS="alt"
+| Vieux || brouillard glacial || 5
+|-
+| Très vieux || [[RD]] 15/magie || 7
+|- CLASS="alt"
+| Vénérable || Blizzard, ''[[mur de glace]]'' || 9
+|-
+| Dracosire || [[RD]] 20/magie || 11
+|- CLASS="alt"
+| Grand dracosire || ''[[contrôle du climat]]'', tombeau de glace || 13
+|}</center>
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Dragon blanc</fullName>
+</wikiPage>

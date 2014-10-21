@@ -1,0 +1,189 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Salamandre</title>
+  <categories><category>Pathfinder-RPG.Bestiaire</category><category>Pathfinder-RPG.Monstre</category></categories>
+  <lastModified>2013-02-06 21:13:54Z</lastModified>
+  <version>9</version>
+  <inLinks><link>Pathfinder-RPG.Convocation de monstres</link><link>Pathfinder-RPG.Flasque de fer</link><link>Pathfinder-RPG.Glossaire des monstres</link><link>Pathfinder-RPG.Liste de monstres par FP</link><link>Pathfinder-RPG.Liste de monstres par milieu naturel</link><link>Pathfinder-RPG.Liste de monstres par type</link><link>Pathfinder-RPG.Monstres</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.type Extérieur</link><link>Pathfinder-RPG.sous-type extraplanaire</link><link>Pathfinder-RPG.sous-type Feu</link><link>Pathfinder-RPG.vision dans le noir</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Vulnérabilités (capacité)</link><link>Pathfinder-RPG.Étreinte</link><link>Pathfinder-RPG.constriction</link><link>Pathfinder-RPG.Attaque en puissance</link><link>Pathfinder-RPG.Enchaînement</link><link>Pathfinder-RPG.Talent</link><link>Pathfinder-RPG.Volonté de fer</link><link>Pathfinder-RPG.Acrobaties</link><link>Pathfinder-RPG.Artisanat</link><link>Pathfinder-RPG.Bluff</link><link>Pathfinder-RPG.Connaissances</link><link>Pathfinder-RPG.Discrétion</link><link>Pathfinder-RPG.Intimidation</link><link>Pathfinder-RPG.Psychologie</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Salamandre&lt;div style=&quot;float:right;&quot;&gt;FP 6&lt;/div&gt;&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Bestiaire&lt;/i&gt; P.252
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 2.400
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Ext&#233;rieur.html&quot; title=&quot;Ext&#233;rieur&quot;&gt;Ext&#233;rieur&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Extraplanaire.html&quot; title=&quot;Extraplanaire (sous-type)&quot;&gt;extraplanaire&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Feu.html&quot; title=&quot;Feu (sous-type)&quot;&gt;Feu&lt;/a&gt;) de taille M, CM
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +1 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Capacit&#233;s-Sp&#233;ciales.html#VISIONDANSLENOIR&quot; title=&quot;vision dans le noir&quot;&gt;vision dans le noir&lt;/a&gt; 18 m (12 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +16
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 18, contact 11, pris au d&#233;pourvu 17 (Dex +1, naturelle +7)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 76 (8d10+32)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +7, &lt;b&gt;Vig&lt;/b&gt; +10, &lt;b&gt;Vol&lt;/b&gt; +6
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Immunit&#233;s&lt;/b&gt; feu ; &lt;b&gt;RD&lt;/b&gt; 10/magie 
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Faiblesses&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vuln&#233;rabilit&#233;s-(Capacit&#233;).html&quot; title=&quot;Vuln&#233;rabilit&#233;s (Ext ou Sur)&quot;&gt;vuln&#233;rabilit&#233;&lt;/a&gt; au froid
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 6 m (4 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; lance, +11/+6 (1d8+4/x3 et 1d6 feu), coup de queue, +6 (2d6+1 et 1d6 feu et &lt;a class=&quot;pagelink&quot; href=&quot;&#201;treinte-(Capacit&#233;).html&quot; title=&quot;&#201;treinte&quot;&gt;&#233;treinte&lt;/a&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Espace&lt;/b&gt; 1,5 m (1 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) ; &lt;b&gt;Allonge&lt;/b&gt; 1,5 m (1 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;); 3 m (2 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) pour la queue
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaques sp&#233;ciales&lt;/b&gt; chaleur, &lt;a class=&quot;pagelink&quot; href=&quot;Constriction-(Capacit&#233;).html&quot; title=&quot;constriction&quot;&gt;constriction&lt;/a&gt; (2d6+4 et 1d6 feu)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 16, &lt;b&gt;Dex&lt;/b&gt; 13, &lt;b&gt;Con&lt;/b&gt; 18, &lt;b&gt;Int&lt;/b&gt; 14, &lt;b&gt;Sag&lt;/b&gt; 15, &lt;b&gt;Cha&lt;/b&gt; 13
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +8, &lt;b&gt;BMO&lt;/b&gt; +11 (+15 lutte), &lt;b&gt;DMD&lt;/b&gt; 22 (croc-en-jambe impossible)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Attaque-En-Puissance.html&quot; title=&quot;Attaque en puissance&quot;&gt;Attaque en puissance&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Encha&#238;nement.html&quot; title=&quot;Encha&#238;nement&quot;&gt;Encha&#238;nement&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Talent.html&quot; title=&quot;Talent&quot;&gt;Talent&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt;), &lt;a class=&quot;pagelink&quot; href=&quot;Volont&#233;-De-Fer.html&quot; title=&quot;Volont&#233; de fer&quot;&gt;Volont&#233; de fer&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Acrobaties.html&quot; title=&quot;Acrobaties&quot;&gt;Acrobaties&lt;/a&gt; +12, &lt;a class=&quot;pagelink&quot; href=&quot;Artisanat.html&quot; title=&quot;Artisanat&quot;&gt;Artisanat&lt;/a&gt; (fabrication d&#39;armes) +17, &lt;a class=&quot;pagelink&quot; href=&quot;Bluff.html&quot; title=&quot;Bluff&quot;&gt;Bluff&lt;/a&gt; +12, &lt;a class=&quot;pagelink&quot; href=&quot;Connaissances.html&quot; title=&quot;Connaissances&quot;&gt;Connaissances&lt;/a&gt; (plans) +13, &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; +12, &lt;a class=&quot;pagelink&quot; href=&quot;Intimidation.html&quot; title=&quot;Intimidation&quot;&gt;Intimidation&lt;/a&gt; +12, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +16, &lt;a class=&quot;pagelink&quot; href=&quot;Psychologie.html&quot; title=&quot;Psychologie&quot;&gt;Psychologie&lt;/a&gt; +13 ; &lt;b&gt;Modificateurs raciaux&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Artisanat.html&quot; title=&quot;Artisanat&quot;&gt;Artisanat&lt;/a&gt; +4 (armes, armures et travail de la forge)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Langues&lt;/b&gt; commun, igneux
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; quelconque (plan du Feu)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation sociale&lt;/b&gt; solitaire, couple ou groupe (3-5)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; standard (lance, autres tr&#233;sors incombustibles)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Capacit&#233;s sp&#233;ciales&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Chaleur (Ext)&lt;/b&gt; Les salamandres produisent une chaleur si intense qu&#39;un simple contact leur suffit pour infliger 1d6 points de d&#233;g&#226;ts de feu en plus des d&#233;g&#226;ts normaux. Les armes m&#233;talliques manipul&#233;es par les salamandres conduisent &#233;galement cette chaleur.
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;td&gt;&lt;div&gt;&lt;i&gt;Cet humano&#239;de &#224; corps de serpent siffle de col&#232;re. Des flammes cr&#233;pitent et
+dansent sur ses &#233;cailles rouge-feu noircies par la chaleur.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Les salamandres sont des cr&#233;atures originaires du plan du Feu,
+o&#249; leurs l&#233;gions de f&#233;roces guerriers s&#232;ment la terreur parmi
+les autres habitants de ce plan. Comme certaines des races
+&#233;l&#233;mentaires du Feu les plus puissantes les r&#233;duisent souvent
+en esclavage pour exploiter leurs talents &#224; la forge ou sur le
+champ de bataille, les salamandres nourrissent une haine
+profonde envers les &#233;frits et les autres habitants de leur plan.&lt;br /&gt;&lt;br /&gt;Les repaires des salamandres atteignent des
+temp&#233;ratures sup&#233;rieures &#224; 250 degr&#233;s Celsius. Ces
+cr&#233;atures peuvent tol&#233;rer des temp&#233;ratures plus basses mais
+elles ne le font que lorsqu’elles y sont contraintes, et cela les
+rend encore plus grincheuses et irascibles que d’habitude.
+M&#234;me si elles proviennent du plan du Feu, les salamandres se
+sentent plus proches des Aybsses et ont une grande estime pour
+les d&#233;mons (tout particuli&#232;rement ceux li&#233;s au feu comme les
+balors et certains seigneurs d&#233;mons attach&#233;s au th&#232;me du feu).
+C’est pour cela qu’il n’est pas rare de croiser de grands groupes de
+salamandres dans les Abysses.&lt;br /&gt;&lt;br /&gt;Les salamandres sont r&#233;guli&#232;rement invoqu&#233;es sur la plan
+Mat&#233;riel pour tenir le r&#244;le de gardiens ou, plus souvent encore,
+pour forger des armes, des armures ou des oeuvres de m&#233;tal,
+car leurs talents dans ces domaines sont l&#233;gendaires. Elles
+envahissent &#233;galement certaines r&#233;gions du plan Mat&#233;riel o&#249; la
+fronti&#232;re avec le plan du Feu est tr&#232;s &#233;troite, comme par exemple
+l’int&#233;rieur et les abords des volcans.&lt;br /&gt;&lt;br /&gt;Vu les conditions extr&#234;mes qui r&#232;gnent dans leur habitat, les
+salamandres ne conservent que les tr&#233;sors qui peuvent r&#233;sister aux
+temp&#233;ratures &#233;lev&#233;es, comme les &#233;p&#233;es, les armures, les bijoux,
+les sceptres et les autres objets construits &#224; partir de m&#233;tal &#224; haut
+point de fusion. La soci&#233;t&#233; des salamandres est une organisation
+cruelle fond&#233;e sur le pouvoir et la capacit&#233; &#224; soumettre les plus
+faibles. Lorsqu’un &#234;tre inf&#233;rieur fait quelque chose qui d&#233;range
+une salamandre, la punition est un mort lente et douloureuse.
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Salamandre|FP 6}
+{s:pucem|Extérieur|Souterrain|Extraplanaire}
+{s:BDTexte|''Source : Bestiaire'' P.252}
+{s:BDTexte|'''PX''' 2.400}
+{s:BDTexte|[[type Extérieur|Extérieur]] ([[sous-type extraplanaire|extraplanaire]], [[sous-type Feu|Feu]]) de taille M, CM}
+{s:BDTexte|'''Init''' +1 ; '''Sens''' [[vision dans le noir]] 18 m (12 {s:c}) ; [[Perception]] +16}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 18, contact 11, pris au dépourvu 17 (Dex +1, naturelle +7)}
+{s:BDTexte|'''pv''' 76 (8d10+32)}
+{s:BDTexte|'''Réf''' +7, '''Vig''' +10, '''Vol''' +6}
+{s:BDTexte|'''Immunités''' feu ; '''RD''' 10/magie }
+{s:BDTexte|'''Faiblesses''' [[vulnérabilités (capacité)|vulnérabilité]] au froid}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 6 m (4 {s:c})}
+{s:BDTexte|'''Corps à corps''' lance, +11/+6 (1d8+4/x3 et 1d6 feu), coup de queue, +6 (2d6+1 et 1d6 feu et [[étreinte]])}
+{s:BDTexte|'''Espace''' 1,5 m (1 {s:c}) ; '''Allonge''' 1,5 m (1 {s:c}); 3 m (2 {s:c}) pour la queue}
+{s:BDTexte|'''Attaques spéciales''' chaleur, [[constriction]] (2d6+4 et 1d6 feu)}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 16, '''Dex''' 13, '''Con''' 18, '''Int''' 14, '''Sag''' 15, '''Cha''' 13}
+{s:BDTexte|'''BBA''' +8, '''BMO''' +11 (+15 lutte), '''DMD''' 22 (croc-en-jambe impossible)}
+{s:BDTexte|'''Dons''' [[Attaque en puissance]], [[Enchaînement]], [[Talent]] ([[Perception]]), [[Volonté de fer]]}
+{s:BDTexte|'''Compétences''' [[Acrobaties]] +12, [[Artisanat]] (fabrication d'armes) +17, [[Bluff]] +12, [[Connaissances]] (plans) +13, [[Discrétion]] +12, [[Intimidation]] +12, [[Perception]] +16, [[Psychologie]] +13 ; '''Modificateurs raciaux''' [[Artisanat]] +4 (armes, armures et travail de la forge)}
+{s:BDTexte|'''Langues''' commun, igneux}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' quelconque (plan du Feu)}
+{s:BDTexte|'''Organisation sociale''' solitaire, couple ou groupe (3-5)}
+{s:BDTexte|'''Trésor''' standard (lance, autres trésors incombustibles)}
+{s:BDSousTitre|Capacités spéciales}
+{s:BDTexte|'''Chaleur (Ext)''' Les salamandres produisent une chaleur si intense qu'un simple contact leur suffit pour infliger 1d6 points de dégâts de feu en plus des dégâts normaux. Les armes métalliques manipulées par les salamandres conduisent également cette chaleur.}
+</div>
+</td><td><div>''Cet humanoïde à corps de serpent siffle de colère. Des flammes crépitent et
+dansent sur ses écailles rouge-feu noircies par la chaleur.''
+
+Les salamandres sont des créatures originaires du plan du Feu,
+où leurs légions de féroces guerriers sèment la terreur parmi
+les autres habitants de ce plan. Comme certaines des races
+élémentaires du Feu les plus puissantes les réduisent souvent
+en esclavage pour exploiter leurs talents à la forge ou sur le
+champ de bataille, les salamandres nourrissent une haine
+profonde envers les éfrits et les autres habitants de leur plan.
+
+Les repaires des salamandres atteignent des
+températures supérieures à 250 degrés Celsius. Ces
+créatures peuvent tolérer des températures plus basses mais
+elles ne le font que lorsqu’elles y sont contraintes, et cela les
+rend encore plus grincheuses et irascibles que d’habitude.
+Même si elles proviennent du plan du Feu, les salamandres se
+sentent plus proches des Aybsses et ont une grande estime pour
+les démons (tout particulièrement ceux liés au feu comme les
+balors et certains seigneurs démons attachés au thème du feu).
+C’est pour cela qu’il n’est pas rare de croiser de grands groupes de
+salamandres dans les Abysses.
+
+Les salamandres sont régulièrement invoquées sur la plan
+Matériel pour tenir le rôle de gardiens ou, plus souvent encore,
+pour forger des armes, des armures ou des oeuvres de métal,
+car leurs talents dans ces domaines sont légendaires. Elles
+envahissent également certaines régions du plan Matériel où la
+frontière avec le plan du Feu est très étroite, comme par exemple
+l’intérieur et les abords des volcans.
+
+Vu les conditions extrêmes qui règnent dans leur habitat, les
+salamandres ne conservent que les trésors qui peuvent résister aux
+températures élevées, comme les épées, les armures, les bijoux,
+les sceptres et les autres objets construits à partir de métal à haut
+point de fusion. La société des salamandres est une organisation
+cruelle fondée sur le pouvoir et la capacité à soumettre les plus
+faibles. Lorsqu’un être inférieur fait quelque chose qui dérange
+une salamandre, la punition est un mort lente et douloureuse.
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Salamandre</fullName>
+</wikiPage>

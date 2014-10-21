@@ -1,0 +1,185 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Cythnigot</title>
+  <categories><category>Pathfinder-RPG.Bestiaire 2</category></categories>
+  <lastModified>2013-02-02 19:14:59Z</lastModified>
+  <version>2</version>
+  <inLinks><link>Pathfinder-RPG.Familier supérieur</link><link>Pathfinder-RPG.Glossaire des monstres</link><link>Pathfinder-RPG.Lier un extérieur</link><link>Pathfinder-RPG.Liste de monstres par FP</link><link>Pathfinder-RPG.Liste de monstres par milieu naturel</link><link>Pathfinder-RPG.Liste de monstres par type</link><link>Pathfinder-RPG.Monstres</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.type Extérieur</link><link>Pathfinder-RPG.sous-type Chaos</link><link>Pathfinder-RPG.sous-type Mal</link><link>Pathfinder-RPG.sous-type extraplanaire</link><link>Pathfinder-RPG.sous-type qlippoth</link><link>Pathfinder-RPG.Détection de la Loi</link><link>Pathfinder-RPG.Détection de la magie</link><link>Pathfinder-RPG.vision dans le noir</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Vol</link><link>Pathfinder-RPG.Distorsion du bois</link><link>Pathfinder-RPG.Ramollissement de la terre et de la pierre</link><link>Pathfinder-RPG.Communion</link><link>Pathfinder-RPG.Attaque en finesse</link><link>Pathfinder-RPG.Réflexes surhumains</link><link>Pathfinder-RPG.Acrobaties</link><link>Pathfinder-RPG.Connaissances</link><link>Pathfinder-RPG.Discrétion</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire 2&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Cythnigot&lt;div style=&quot;float:right;&quot;&gt;FP 2&lt;/div&gt;&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Bestiaire 2&lt;/i&gt; p.231
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 600
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Ext&#233;rieur.html&quot; title=&quot;Ext&#233;rieur&quot;&gt;Ext&#233;rieur&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Chaos.html&quot; title=&quot;Chaos (sous-type)&quot;&gt;Chaos&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Mal.html&quot; title=&quot;Mal (sous-type)&quot;&gt;Mal&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Extraplanaire.html&quot; title=&quot;Extraplanaire (sous-type)&quot;&gt;extraplanaire&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Qlippoth.html&quot; title=&quot;Qlippoth (sous-type)&quot;&gt;qlippoth&lt;/a&gt;) de taille TP, CM
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +1 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;D&#233;tection-De-La-Loi.html&quot; title=&quot;D&#233;tection de la Loi&quot;&gt;d&#233;tection de la Loi&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;D&#233;tection-De-La-Magie.html&quot; title=&quot;D&#233;tection de la magie&quot;&gt;d&#233;tection de la magie&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Capacit&#233;s-Sp&#233;ciales.html#VISIONDANSLENOIR&quot; title=&quot;vision dans le noir&quot;&gt;vision dans le noir&lt;/a&gt; 18 m (12 cases) ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +5
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Aura&lt;/b&gt; de malchance (9 m)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 14, contact 13, pris au d&#233;pourvu 13 (Dex +1, naturelle +1, taille +2)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 16 (3d10)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +6, &lt;b&gt;Vig&lt;/b&gt; +1, &lt;b&gt;Vol&lt;/b&gt; +2
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Immunit&#233;s&lt;/b&gt; effets mentaux, froid, poison ; &lt;b&gt;RD&lt;/b&gt; 5/fer froid ou Loi ; &lt;b&gt;R&#233;sistances&lt;/b&gt; acide 10, &#233;lectricit&#233; 10, feu 10
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 12 m (8 cases), vol 18 m (12 cases - bonne)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; &lt;i&gt;morsure&lt;/i&gt;, +6 (1d6+1 plus spores)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Espace&lt;/b&gt; 75 cm (1 case) ; &lt;b&gt;Allonge&lt;/b&gt; 0 m (0 case)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaques sp&#233;ciales&lt;/b&gt; apparence horrible (3 m - 2 cases, DD 9)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Pouvoirs magiques&lt;/b&gt; (NLS 6), concentration +4
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+Constant — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;D&#233;tection-De-La-Loi.html&quot; title=&quot;D&#233;tection de la Loi&quot;&gt;d&#233;tection de la Loi&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;D&#233;tection-De-La-Magie.html&quot; title=&quot;D&#233;tection de la magie&quot;&gt;d&#233;tection de la magie&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Vol.html&quot; title=&quot;Vol&quot;&gt;vol&lt;/a&gt;&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+1/jour — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Distorsion-Du-Bois.html&quot; title=&quot;Distorsion du bois&quot;&gt;distorsion du bois&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Ramollissement-De-La-Terre-Et-De-La-Pierre.html&quot; title=&quot;Ramollissement de la terre et de la pierre&quot;&gt;ramollissement de la terre et de la pierre&lt;/a&gt;&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+1/semaine — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Communion.html&quot; title=&quot;Communion&quot;&gt;communion&lt;/a&gt;&lt;/i&gt; (six questions)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 12, &lt;b&gt;Dex&lt;/b&gt; 12, &lt;b&gt;Con&lt;/b&gt; 11, &lt;b&gt;Int&lt;/b&gt; 11, &lt;b&gt;Sag&lt;/b&gt; 8, &lt;b&gt;Cha&lt;/b&gt; 7
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +3, &lt;b&gt;BMO&lt;/b&gt; +2 &lt;b&gt;DMD&lt;/b&gt; 13 (21 contre croc-en-jambe)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Attaque-En-Finesse.html&quot; title=&quot;Attaque en finesse&quot;&gt;Attaque en finesse&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;R&#233;flexes-Surhumains.html&quot; title=&quot;R&#233;flexes surhumains&quot;&gt;R&#233;flexes surhumains&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Acrobaties.html&quot; title=&quot;Acrobaties&quot;&gt;Acrobaties&lt;/a&gt; +7 (+11 pour sauter), &lt;a class=&quot;pagelink&quot; href=&quot;Connaissances.html&quot; title=&quot;Connaissances&quot;&gt;Connaissances&lt;/a&gt; (plans) +6, &lt;a class=&quot;pagelink&quot; href=&quot;Connaissances.html&quot; title=&quot;Connaissances&quot;&gt;Connaissances&lt;/a&gt; (nature) +6, &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; +15, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +5, &lt;a class=&quot;pagelink&quot; href=&quot;Vol.html&quot; title=&quot;Vol&quot;&gt;Vol&lt;/a&gt; +15
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Langues&lt;/b&gt; abyssal ; t&#233;l&#233;pathie (contact)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; tous (Abysses)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation sociale&lt;/b&gt; solitaire ou groupe (2–12)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; standard
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Pouvoirs sp&#233;ciaux&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Apparence horrible (Sur).&lt;/b&gt; Les cr&#233;atures qui succombent &#224; l’apparence horrible d’un cythnigot deviennent fi&#233;vreuses pendant
+1 round. Cette capacit&#233; ne fonctionne que dans un rayon de 3 m&#232;tres autour du qlippoth. Les cr&#233;atures qui r&#233;ussissent un jet de sauvegarde contre l’apparence horrible d’un cythnigot sont immunis&#233;e &#224; l’apparence horrible du qlippoth en question pendant 24 heures. Les lanceurs de sorts qui poss&#232;dent un cythnigot comme familier sont immunis&#233;s &#224; l’apparence horrible de tous les cythnigots et gagnent un bonus de +4 aux jets de sauvegarde contre l’apparence horrible des autres qlippoths.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Spores (Sur).&lt;/b&gt; Les cr&#233;atures mordues par un cythnigot doivent r&#233;ussir un jet de Vigueur de DD 11 pour ne pas &#234;tre infect&#233;es par les &#233;tranges spores de la cr&#233;ature. Ces spores font sortir de la blessure des piquants qui se tortillent et d’hideuses touffes de poils p&#226;les qui se faufilent autour des membres de la victime et les enveloppent. Les cr&#233;atures affect&#233;es par ces spores sont enchev&#234;tr&#233;es et peuvent tenter, par une action simple, un nouveau jet de Vigueur de DD 11 lors des rounds suivants pour arracher ces filaments et se d&#233;faire de l’&#233;tat pr&#233;judiciable &#171; enchev&#234;tr&#233; &#187;. Les effets des morsures de cythnigot ne se cumulent pas entre eux. Il s’agit d’un effet de maladie. Le DD du jet de sauvegarde d&#233;pend de la Constitution.
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;td&gt;&lt;div&gt;&lt;i&gt;Cette horrible cr&#233;ature &#224; six pattes a une t&#234;te d’araign&#233;e. Une grande tige fibreuse sort de son dos avec, &#224; son extr&#233;mit&#233;, une large gueule.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Le cythnigot est un vil parasite fongique qui pousse et prosp&#232;re
+dans les corps des petits animaux. Ce champignon transforme le
+corps h&#244;te de mani&#232;re horrible, en lui ajoutant des jambes ou en
+r&#233;arrangeant ses caract&#233;ristiques physiques : un rat peut gagner
+une paire de pattes suppl&#233;mentaires et une t&#234;te insecto&#239;de alors
+qu’un chat peut perdre toutes ses pattes et sa fourrure et gagner un
+corps de serpent. La seule chose que tous les cythnigots poss&#232;dent,
+c’est une longue tige ressemblant &#224; un pied de champignon et se
+terminant en une paire de m&#226;choires ac&#233;r&#233;es et &#233;tonnamment
+muscl&#233;es. Un cythnigot sans corps h&#244;te ressemble &#224; un lycoperdon
+malodorant de la taille d’un poing humain.
+Les lanceurs de sorts d’alignement Chaotique Mauvais, de
+NLS sup&#233;rieur ou &#233;gal &#224; 7 et poss&#233;dant le don Familier
+sup&#233;rieur peuvent gagner un cythnigot
+comme familier. Pour ce faire, ils doivent
+d&#233;j&#224; poss&#233;der un familier animal de
+taille TP. En affectant celui-ci avec des
+spores, ils obtiennent un cythnigot qui
+devient un sbire tr&#232;s loyal (mais plut&#244;t
+d&#233;go&#251;tant).
+Un cythnigot mesure &#224; peu pr&#232;s 50 cm
+de long et p&#232;se 5 kg.
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire 2"><tr><td>
+<div class="BD">
+{s:BDTitre|Cythnigot|FP 2}
+{s:pucem|Extérieur|Ruines-Donjons|Extraplanaire}
+{s:BDTexte|''Source : Bestiaire 2'' p.231}
+{s:BDTexte|'''PX''' 600}
+{s:BDTexte|[[type Extérieur|Extérieur]] ([[sous-type Chaos|Chaos]], [[sous-type Mal|Mal]], [[sous-type extraplanaire|extraplanaire]], [[sous-type qlippoth|qlippoth]]) de taille TP, CM}
+{s:BDTexte|'''Init''' +1 ; '''Sens''' [[détection de la Loi]], [[détection de la magie]], [[vision dans le noir]] 18 m (12 cases) ; [[Perception]] +5}
+{s:BDTexte|'''Aura''' de malchance (9 m)}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 14, contact 13, pris au dépourvu 13 (Dex +1, naturelle +1, taille +2)}
+{s:BDTexte|'''pv''' 16 (3d10)}
+{s:BDTexte|'''Réf''' +6, '''Vig''' +1, '''Vol''' +2}
+{s:BDTexte|'''Immunités''' effets mentaux, froid, poison ; '''RD''' 5/fer froid ou Loi ; '''Résistances''' acide 10, électricité 10, feu 10}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 12 m (8 cases), vol 18 m (12 cases - bonne)}
+{s:BDTexte|'''Corps à corps''' ''morsure'', +6 (1d6+1 plus spores)}
+{s:BDTexte|'''Espace''' 75 cm (1 case) ; '''Allonge''' 0 m (0 case)}
+{s:BDTexte|'''Attaques spéciales''' apparence horrible (3 m - 2 cases, DD 9)}
+{s:BDTexte|'''Pouvoirs magiques''' (NLS 6), concentration +4}
+{s:BDSorts|Constant — ''[[détection de la Loi]]'', ''[[détection de la magie]]'', ''[[vol]]''}
+{s:BDSorts|1/jour — ''[[distorsion du bois]]'', ''[[ramollissement de la terre et de la pierre]]''}
+{s:BDSorts|1/semaine — ''[[communion]]'' (six questions)}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 12, '''Dex''' 12, '''Con''' 11, '''Int''' 11, '''Sag''' 8, '''Cha''' 7}
+{s:BDTexte|'''BBA''' +3, '''BMO''' +2 '''DMD''' 13 (21 contre croc-en-jambe)}
+{s:BDTexte|'''Dons''' [[Attaque en finesse]], [[Réflexes surhumains]]}
+{s:BDTexte|'''Compétences''' [[Acrobaties]] +7 (+11 pour sauter), [[Connaissances]] (plans) +6, [[Connaissances]] (nature) +6, [[Discrétion]] +15, [[Perception]] +5, [[Vol]] +15}
+{s:BDTexte|'''Langues''' abyssal ; télépathie (contact)}
+{s:BDTexte|'''Environnement''' tous (Abysses)}
+{s:BDTexte|'''Organisation sociale''' solitaire ou groupe (2–12)}
+{s:BDTexte|'''Trésor''' standard}
+{s:BDSousTitre|Pouvoirs spéciaux}
+{s:BDTexte|'''Apparence horrible (Sur).''' Les créatures qui succombent à l’apparence horrible d’un cythnigot deviennent fiévreuses pendant
+1 round. Cette capacité ne fonctionne que dans un rayon de 3 mètres autour du qlippoth. Les créatures qui réussissent un jet de sauvegarde contre l’apparence horrible d’un cythnigot sont immunisée à l’apparence horrible du qlippoth en question pendant 24 heures. Les lanceurs de sorts qui possèdent un cythnigot comme familier sont immunisés à l’apparence horrible de tous les cythnigots et gagnent un bonus de +4 aux jets de sauvegarde contre l’apparence horrible des autres qlippoths.}
+{s:BDTexte|'''Spores (Sur).''' Les créatures mordues par un cythnigot doivent réussir un jet de Vigueur de DD 11 pour ne pas être infectées par les étranges spores de la créature. Ces spores font sortir de la blessure des piquants qui se tortillent et d’hideuses touffes de poils pâles qui se faufilent autour des membres de la victime et les enveloppent. Les créatures affectées par ces spores sont enchevêtrées et peuvent tenter, par une action simple, un nouveau jet de Vigueur de DD 11 lors des rounds suivants pour arracher ces filaments et se défaire de l’état préjudiciable « enchevêtré ». Les effets des morsures de cythnigot ne se cumulent pas entre eux. Il s’agit d’un effet de maladie. Le DD du jet de sauvegarde dépend de la Constitution.}
+</div>
+</td><td><div>''Cette horrible créature à six pattes a une tête d’araignée. Une grande tige fibreuse sort de son dos avec, à son extrémité, une large gueule.''
+
+Le cythnigot est un vil parasite fongique qui pousse et prospère
+dans les corps des petits animaux. Ce champignon transforme le
+corps hôte de manière horrible, en lui ajoutant des jambes ou en
+réarrangeant ses caractéristiques physiques : un rat peut gagner
+une paire de pattes supplémentaires et une tête insectoïde alors
+qu’un chat peut perdre toutes ses pattes et sa fourrure et gagner un
+corps de serpent. La seule chose que tous les cythnigots possèdent,
+c’est une longue tige ressemblant à un pied de champignon et se
+terminant en une paire de mâchoires acérées et étonnamment
+musclées. Un cythnigot sans corps hôte ressemble à un lycoperdon
+malodorant de la taille d’un poing humain.
+Les lanceurs de sorts d’alignement Chaotique Mauvais, de
+NLS supérieur ou égal à 7 et possédant le don Familier
+supérieur peuvent gagner un cythnigot
+comme familier. Pour ce faire, ils doivent
+déjà posséder un familier animal de
+taille TP. En affectant celui-ci avec des
+spores, ils obtiennent un cythnigot qui
+devient un sbire très loyal (mais plutôt
+dégoûtant).
+Un cythnigot mesure à peu près 50 cm
+de long et pèse 5 kg.
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Cythnigot</fullName>
+</wikiPage>

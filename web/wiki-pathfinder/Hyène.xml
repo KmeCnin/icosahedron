@@ -1,0 +1,136 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Hyène</title>
+  <categories><category>Pathfinder-RPG.Bestiaire</category><category>Pathfinder-RPG.Monstre</category><category>Pathfinder-RPG.Règles officielles</category></categories>
+  <lastModified>2013-02-07 21:01:20Z</lastModified>
+  <version>9</version>
+  <inLinks><link>Pathfinder-RPG.Convocation dalliés naturels</link><link>Pathfinder-RPG.Convocation de monstres</link><link>Pathfinder-RPG.Ghul</link><link>Pathfinder-RPG.Glossaire des monstres</link><link>Pathfinder-RPG.Gnoll</link><link>Pathfinder-RPG.Lion</link><link>Pathfinder-RPG.Liste de monstres par FP</link><link>Pathfinder-RPG.Liste de monstres par milieu naturel</link><link>Pathfinder-RPG.Liste de monstres par type</link><link>Pathfinder-RPG.Monstres</link><link>Pathfinder-RPG.Seigneur animal</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.type Animal</link><link>Pathfinder-RPG.odorat</link><link>Pathfinder-RPG.vision nocturne</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.croc-en-jambe</link><link>Pathfinder-RPG.Talent</link><link>Pathfinder-RPG.Discrétion</link><link>Pathfinder-RPG.Gnoll</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Hy&#232;ne&lt;div style=&quot;float:right;&quot;&gt;FP 1&lt;/div&gt;&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Bestiaire&lt;/i&gt; p.187
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 400
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Animal.html&quot; title=&quot;Animal&quot;&gt;Animal&lt;/a&gt; de taille M, N
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +2 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Odorat-(Capacit&#233;).html&quot; title=&quot;odorat&quot;&gt;odorat&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Nocturne-(Capacit&#233;).html&quot; title=&quot;vision nocturne&quot;&gt;vision nocturne&lt;/a&gt; ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +8
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 14, contact 12, pris au d&#233;pourvu 12 (Dex +2, naturelle +2)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 13 (2d8+4)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +5, &lt;b&gt;Vig&lt;/b&gt; +5, &lt;b&gt;Vol&lt;/b&gt; +1
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 15 m (10 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; morsure, +3 (1d6+3 et &lt;a class=&quot;pagelink&quot; href=&quot;Croc-En-Jambe.html&quot; title=&quot;croc-en-jambe&quot;&gt;croc-en-jambe&lt;/a&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 14, &lt;b&gt;Dex&lt;/b&gt; 15, &lt;b&gt;Con&lt;/b&gt; 15, &lt;b&gt;Int&lt;/b&gt; 2, &lt;b&gt;Sag&lt;/b&gt; 13, &lt;b&gt;Cha&lt;/b&gt; 6
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +1, &lt;b&gt;BMO&lt;/b&gt; +3, &lt;b&gt;DMD&lt;/b&gt; 15 (19 contre &lt;a class=&quot;pagelink&quot; href=&quot;Croc-En-Jambe.html&quot; title=&quot;croc-en-jambe&quot;&gt;croc-en-jambe&lt;/a&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Talent.html&quot; title=&quot;Talent&quot;&gt;Talent&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; +6 (+10 dans les hautes herbes), &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +8 ; &lt;b&gt;Modificateurs raciaux&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; +4 dans les hautes herbes
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; plaines chaudes
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation sociale&lt;/b&gt; solitaire, couple ou meute (3-12)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; aucun
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;td&gt;&lt;div&gt;&lt;i&gt;Cette hy&#232;ne est couverte d’une fourrure &#233;paisse de couleur brune parsem&#233;e de rayures noires.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Les hy&#232;nes sont des cr&#233;atures chassant en meutes. Elles sont
+tristement c&#233;l&#232;bres pour leur ruse et leurs cris d&#233;routants qui
+ressemblent &#224; des rires. Ce sont avant tout des charognards, mais cela
+ne les emp&#234;che pas d’ajouter quelques proies fra&#238;chement tu&#233;es aux
+cadavres qui composent habituellement leur r&#233;gime alimentaire.&lt;br /&gt;&lt;br /&gt;Les hy&#232;nes chassent souvent en solitaire mais lorsqu’elles le
+font en meute, elles envoient g&#233;n&#233;ralement une ou deux d’entre
+elles attaquer leur ennemi de face pendant que les autres le
+contournent et l’assaillent par derri&#232;re.&lt;br /&gt;&lt;br /&gt;De nombreuses races d’humano&#239;des
+sauvages, dont les &lt;a class=&quot;pagelink&quot; href=&quot;Gnoll.html&quot; title=&quot;Gnoll&quot;&gt;gnolls&lt;/a&gt;, utilisent les hy&#232;nes
+comme chiens de garde. Ces hy&#232;nes sont
+g&#233;n&#233;ralement &#233;quip&#233;es de bardes en cuir. Elles
+re&#231;oivent un entra&#238;nement qui commence d&#232;s
+leur naissance et qui a pour but de les rendre
+vicieuses et agressives. Bon nombre d’entre
+elles sont des hy&#232;nes &#233;volu&#233;es.&lt;br /&gt;&lt;br /&gt;&lt;h3 class=&quot;separator&quot;&gt;La hy&#232;ne comme compagnon animal&lt;a class=&quot;headeranchor&quot; id=&quot;La_hy&#232;ne_comme_compagnon_animal_0&quot; href=&quot;#La_hy&#232;ne_comme_compagnon_animal_0&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;
+&lt;b&gt;Caract&#233;ristiques de d&#233;part.&lt;/b&gt; &lt;b&gt;Taille&lt;/b&gt; P ; &lt;b&gt;Vitesse&lt;/b&gt; 15 m (10 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) ; &lt;b&gt;CA&lt;/b&gt; armure naturelle +2 ; &lt;b&gt;Attaque&lt;/b&gt; morsure (1d4 et &lt;a class=&quot;pagelink&quot; href=&quot;Croc-En-Jambe.html&quot; title=&quot;croc-en-jambe&quot;&gt;croc-en-jambe&lt;/a&gt;) ; &lt;b&gt;Caract&#233;ristiques&lt;/b&gt; For 10, Dex 17, Con 13, Int 2, Sag 13, Cha 6 ; &lt;b&gt;Particularit&#233;s&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Odorat-(Capacit&#233;).html&quot; title=&quot;odorat&quot;&gt;odorat&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Nocturne-(Capacit&#233;).html&quot; title=&quot;vision nocturne&quot;&gt;vision nocturne&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;&#201;volution au niveau 4.&lt;/b&gt; &lt;b&gt;Taille&lt;/b&gt; M ; &lt;b&gt;Attaque&lt;/b&gt; morsure (1d6 et &lt;a class=&quot;pagelink&quot; href=&quot;Croc-En-Jambe.html&quot; title=&quot;croc-en-jambe&quot;&gt;croc-en-jambe&lt;/a&gt;) ; &lt;b&gt;Caract&#233;ristiques&lt;/b&gt; For +4, Dex -2, Con +2.
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Hyène|FP 1}
+{s:pucem|Animal|Plaines|Tropical}
+{s:BDTexte|''Source : Bestiaire'' p.187}
+{s:BDTexte|'''PX''' 400}
+{s:BDTexte|[[type Animal|Animal]] de taille M, N}
+{s:BDTexte|'''Init''' +2 ; '''Sens''' [[odorat]], [[vision nocturne]] ; [[Perception]] +8}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 14, contact 12, pris au dépourvu 12 (Dex +2, naturelle +2)}
+{s:BDTexte|'''pv''' 13 (2d8+4)}
+{s:BDTexte|'''Réf''' +5, '''Vig''' +5, '''Vol''' +1}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 15 m (10 {s:c})}
+{s:BDTexte|'''Corps à corps''' morsure, +3 (1d6+3 et [[croc-en-jambe]])}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 14, '''Dex''' 15, '''Con''' 15, '''Int''' 2, '''Sag''' 13, '''Cha''' 6}
+{s:BDTexte|'''BBA''' +1, '''BMO''' +3, '''DMD''' 15 (19 contre [[croc-en-jambe]])}
+{s:BDTexte|'''Dons''' [[Talent]] ([[Perception]])}
+{s:BDTexte|'''Compétences''' [[Discrétion]] +6 (+10 dans les hautes herbes), [[Perception]] +8 ; '''Modificateurs raciaux''' [[Discrétion]] +4 dans les hautes herbes}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' plaines chaudes}
+{s:BDTexte|'''Organisation sociale''' solitaire, couple ou meute (3-12)}
+{s:BDTexte|'''Trésor''' aucun}
+</div>
+</td><td><div>''Cette hyène est couverte d’une fourrure épaisse de couleur brune parsemée de rayures noires.''
+
+Les hyènes sont des créatures chassant en meutes. Elles sont
+tristement célèbres pour leur ruse et leurs cris déroutants qui
+ressemblent à des rires. Ce sont avant tout des charognards, mais cela
+ne les empêche pas d’ajouter quelques proies fraîchement tuées aux
+cadavres qui composent habituellement leur régime alimentaire.
+
+Les hyènes chassent souvent en solitaire mais lorsqu’elles le
+font en meute, elles envoient généralement une ou deux d’entre
+elles attaquer leur ennemi de face pendant que les autres le
+contournent et l’assaillent par derrière.
+
+De nombreuses races d’humanoïdes
+sauvages, dont les [[Gnoll|gnolls]], utilisent les hyènes
+comme chiens de garde. Ces hyènes sont
+généralement équipées de bardes en cuir. Elles
+reçoivent un entraînement qui commence dès
+leur naissance et qui a pour but de les rendre
+vicieuses et agressives. Bon nombre d’entre
+elles sont des hyènes évoluées.
+
+====La hyène comme compagnon animal====
+
+'''Caractéristiques de départ.''' '''Taille''' P ; '''Vitesse''' 15 m (10 {s:c}) ; '''CA''' armure naturelle +2 ; '''Attaque''' morsure (1d4 et [[croc-en-jambe]]) ; '''Caractéristiques''' For 10, Dex 17, Con 13, Int 2, Sag 13, Cha 6 ; '''Particularités''' [[odorat]], [[vision nocturne]].
+
+'''Évolution au niveau 4.''' '''Taille''' M ; '''Attaque''' morsure (1d6 et [[croc-en-jambe]]) ; '''Caractéristiques''' For +4, Dex -2, Con +2.
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Hyène</fullName>
+</wikiPage>

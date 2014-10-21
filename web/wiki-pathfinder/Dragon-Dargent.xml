@@ -1,0 +1,516 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Dragon d'argent</title>
+  <categories><category>Pathfinder-RPG.Bestiaire</category><category>Pathfinder-RPG.Monstre</category><category>Pathfinder-RPG.Règles officielles</category></categories>
+  <lastModified>2013-02-08 08:12:59Z</lastModified>
+  <version>9</version>
+  <inLinks><link>Pathfinder-RPG.dragon</link><link>Pathfinder-RPG.Glossaire des monstres</link><link>Pathfinder-RPG.Liste de monstres par FP</link><link>Pathfinder-RPG.Liste de monstres par milieu naturel</link><link>Pathfinder-RPG.Liste de monstres par type</link><link>Pathfinder-RPG.Monstres</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.type Dragon</link><link>Pathfinder-RPG.sous-type froid</link><link>Pathfinder-RPG.Action libre</link><link>Pathfinder-RPG.type Animal</link><link>Pathfinder-RPG.type Humanoïde</link><link>Pathfinder-RPG.métamorphose</link><link>Pathfinder-RPG.RM</link><link>Pathfinder-RPG.NLS</link><link>Pathfinder-RPG.Renvoi des sorts</link><link>Pathfinder-RPG.Détection du Mal</link><link>Pathfinder-RPG.Feuille morte</link><link>Pathfinder-RPG.Nappe de brouillard</link><link>Pathfinder-RPG.Contrôle des vents</link><link>Pathfinder-RPG.Contrôle du climat</link><link>Pathfinder-RPG.Inversion de la gravité</link><link>Pathfinder-RPG.cône</link><link>Pathfinder-RPG.Vigueur</link><link>Pathfinder-RPG.Paralysé</link><link>Pathfinder-RPG.Stable</link><link>Pathfinder-RPG.Chancelant</link><link>Pathfinder-RPG.sens draconiques</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Alarme</link><link>Pathfinder-RPG.Coup au but</link><link>Pathfinder-RPG.Détection de la magie</link><link>Pathfinder-RPG.Lecture de la magie</link><link>Pathfinder-RPG.Lumière</link><link>Pathfinder-RPG.Message</link><link>Pathfinder-RPG.croc-en-jambe</link><link>Pathfinder-RPG.Arme de prédilection</link><link>Pathfinder-RPG.Attaque en puissance</link><link>Pathfinder-RPG.Attaques multiples</link><link>Pathfinder-RPG.Science de linitiative</link><link>Pathfinder-RPG.Volonté de fer</link><link>Pathfinder-RPG.Vol stationnaire</link><link>Pathfinder-RPG.Acrobaties</link><link>Pathfinder-RPG.Art de la magie</link><link>Pathfinder-RPG.Connaissances</link><link>Pathfinder-RPG.Diplomatie</link><link>Pathfinder-RPG.Intimidation</link><link>Pathfinder-RPG.Premiers secours</link><link>Pathfinder-RPG.Psychologie</link><link>Pathfinder-RPG.Vol</link><link>Pathfinder-RPG.présence terrifiante (dragon)</link><link>Pathfinder-RPG.écrasement</link><link>Pathfinder-RPG.Dissipation de la magie</link><link>Pathfinder-RPG.Mur de vent</link><link>Pathfinder-RPG.Augure</link><link>Pathfinder-RPG.Soins modérés</link><link>Pathfinder-RPG.Toile daraignée</link><link>Pathfinder-RPG.Bénédiction</link><link>Pathfinder-RPG.Bouclier</link><link>Pathfinder-RPG.Faveur divine</link><link>Pathfinder-RPG.Illumination</link><link>Pathfinder-RPG.Prestidigitation</link><link>Pathfinder-RPG.Stabilisation</link><link>Pathfinder-RPG.Attaque en vol</link><link>Pathfinder-RPG.Frappe décisive</link><link>Pathfinder-RPG.Réflexes surhumains</link><link>Pathfinder-RPG.balayage avec la queue</link><link>Pathfinder-RPG.Champ de force</link><link>Pathfinder-RPG.Parole sacrée</link><link>Pathfinder-RPG.Bannissement</link><link>Pathfinder-RPG.Dissipation suprême</link><link>Pathfinder-RPG.Guérison suprême</link><link>Pathfinder-RPG.Annulation denchantement</link><link>Pathfinder-RPG.Changement de plan</link><link>Pathfinder-RPG.Colonne de feu</link><link>Pathfinder-RPG.Mur de force</link><link>Pathfinder-RPG.Brouillard dense</link><link>Pathfinder-RPG.Liberté de mouvement</link><link>Pathfinder-RPG.Porte dimensionnelle</link><link>Pathfinder-RPG.Restauration</link><link>Pathfinder-RPG.Immobilisation de personne</link><link>Pathfinder-RPG.Soins importants</link><link>Pathfinder-RPG.Apaisement des émotions</link><link>Pathfinder-RPG.Invisibilité</link><link>Pathfinder-RPG.Protection contre le Mal</link><link>Pathfinder-RPG.résistance</link><link>Pathfinder-RPG.Stimulant</link><link>Pathfinder-RPG.Don pour les critiques</link><link>Pathfinder-RPG.Incantation rapide</link><link>Pathfinder-RPG.Science du critique</link><link>Pathfinder-RPG.Talent</link><link>Pathfinder-RPG.RD</link><link>Pathfinder-RPG.Présence terrifiante</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Dragon m&#233;tallique d&#39;argent&lt;div style=&quot;float:right;&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Bestiaire p.108&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Dragon.html&quot; title=&quot;Dragon&quot;&gt;Dragon&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Froid.html&quot; title=&quot;Froid (sous-type)&quot;&gt;froid&lt;/a&gt;, LB)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Statistiques de base&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;FP&lt;/b&gt; 6 ; &lt;b&gt;Taille&lt;/b&gt; P ; &lt;b&gt;DV&lt;/b&gt; 7d12
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 8
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Armure naturelle&lt;/b&gt; +6 ; &lt;b&gt;Souffle&lt;/b&gt; c&#244;ne, 2d8 froid
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 13, &lt;b&gt;Dex&lt;/b&gt; 14, &lt;b&gt;Con&lt;/b&gt; 13, &lt;b&gt;Int&lt;/b&gt; 14, &lt;b&gt;Sag&lt;/b&gt; 15, &lt;b&gt;Cha&lt;/b&gt; 14
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; montagnes temp&#233;r&#233;es
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation sociale&lt;/b&gt; solitaire
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; triple
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Particularit&#233;s&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Aura de froid (Sur).&lt;/b&gt; Les dragons d&#39;argent vieux ou plus &#226;g&#233;s poss&#232;dent une aura de froid. Toutes les cr&#233;atures situ&#233;es &#224; 1,50 m (1 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) ou moins du dragon subissent 1d6 points de d&#233;g&#226;ts de froid au d&#233;but du tour du dragon. L&#39;aura des dragons v&#233;n&#233;rables s&#39;&#233;tend sur 3 m (2 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;). Les d&#233;g&#226;ts de l&#39;aura des grands dracosires d&#39;argent montent &#224; 2d6. Les dragons d&#39;argent peuvent activer ou suspendre cette aura &#224; volont&#233; par une &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions.html#LIBRE&quot; title=&quot;Action libre&quot;&gt;action libre&lt;/a&gt;.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Changement de forme (Sur).&lt;/b&gt; Trois fois par jour, une dragon d&#39;argent peut prendre la forme de n&#39;importe quel &lt;a class=&quot;pagelink&quot; href=&quot;Type-Animal.html&quot; title=&quot;Animal&quot;&gt;animal&lt;/a&gt; ou &lt;a class=&quot;pagelink&quot; href=&quot;Type-Humano&#239;de.html&quot; title=&quot;Humano&#239;de&quot;&gt;humano&#239;de&lt;/a&gt; comme s&#39;il utilisait un sort de &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;M&#233;tamorphose.html&quot; title=&quot;M&#233;tamorphose&quot;&gt;m&#233;tamorphose&lt;/a&gt;&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;&#201;cailles r&#233;fl&#233;chissantes (Sur).&lt;/b&gt; Chaque fois qu&#39;un sort cible un dragon d&#39;argent v&#233;n&#233;rable ou plus &#226;g&#233; et ne parvient pas &#224; percer sa &lt;a class=&quot;pagelink&quot; href=&quot;R&#233;sistance-&#192;-La-Magie-(Capacit&#233;).html&quot; title=&quot;RM&quot;&gt;r&#233;sistance &#224; la magie&lt;/a&gt;, il se peut qu&#39;il soit renvoy&#233; vers la cr&#233;ature qui l&#39;a lanc&#233;. Si le test de &lt;a class=&quot;pagelink&quot; href=&quot;Lancer-Des-Sorts.html#NLS&quot; title=&quot;NLS&quot;&gt;NLS&lt;/a&gt; visant &#224; percer la &lt;a class=&quot;pagelink&quot; href=&quot;R&#233;sistance-&#192;-La-Magie-(Capacit&#233;).html&quot; title=&quot;RM&quot;&gt;r&#233;sistance ) la magie&lt;/a&gt; du dragon &#233;choue de 5 points ou plus, c&#39;est le cas. S&#39;il &#233;choue de 4 points ou moins, le sort n&#39;a tout simplement aucun effet. A part ces pr&#233;cisions, cette capacit&#233; fonctionne comme le sort &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Renvoi-Des-Sorts.html&quot; title=&quot;Renvoi des sorts&quot;&gt;renvoi des sorts&lt;/a&gt;&lt;/i&gt;.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Marche sur les nuages (Sur).&lt;/b&gt; Un dragon d&#39;argent tr&#232;s jeune ou plus &#226;g&#233; peut marcher sur les nuaes ou sur le brouillard comme s&#39;il s&#39;agissait de substances solides.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Pouvoirs magiques (Mag).&lt;/b&gt; Les dragons d&#39;argent acqui&#232;rent les pouvoirs magiques suivants, qu&#39;il peuvent utiliser &#224; volont&#233; une fois l&#39;&#226;ge requis atteint. Tr&#232;s jeune - &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;D&#233;tection-Du-Mal.html&quot; title=&quot;D&#233;tection du Mal&quot;&gt;d&#233;tection du Mal&lt;/a&gt;&lt;/i&gt; ; Adolescent - &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Feuille-Morte.html&quot; title=&quot;Feuille morte&quot;&gt;feuille morte&lt;/a&gt;&lt;/i&gt; ; Adulte - &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Nappe-De-Brouillard.html&quot; title=&quot;Nappe de brouillard&quot;&gt;nappe de brouillard&lt;/a&gt;&lt;/i&gt; ; Vieux - &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Contr&#244;le-Des-Vents.html&quot; title=&quot;Contr&#244;le des vents&quot;&gt;contr&#244;le des vents&lt;/a&gt;&lt;/i&gt; ; V&#233;n&#233;rable - &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Contr&#244;le-Du-Climat.html&quot; title=&quot;Contr&#244;le du climat&quot;&gt;contr&#244;le du climat&lt;/a&gt;&lt;/i&gt; ; Grand dracosire - &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Inversion-De-La-Gravit&#233;.html&quot; title=&quot;Inversion de la gravit&#233;&quot;&gt;inversion de la gravit&#233;&lt;/a&gt;&lt;/i&gt;.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Souffle paralysant (Sur).&lt;/b&gt; Au lieu de produire un &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#DEFCONE&quot; title=&quot;c&#244;ne&quot;&gt;c&#244;ne&lt;/a&gt; de froid avec leur souffle, les dragons d&#39;argent peuvent cr&#233;er un &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#DEFCONE&quot; title=&quot;c&#244;ne&quot;&gt;c&#244;ne&lt;/a&gt; de gaz paralysant. Les cr&#233;atures situ&#233;es dans le &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#DEFCONE&quot; title=&quot;c&#244;ne&quot;&gt;c&#244;ne&lt;/a&gt; doivent r&#233;ussir un jet de &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;Vigueur&quot;&gt;Vigueur&lt;/a&gt; pour ne pas &#234;tre &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables.html#Paralys&#233;&quot; title=&quot;Paralys&#233;&quot;&gt;paralys&#233;es&lt;/a&gt; pendant 1d6 rounds. plus 1 round par cat&#233;gorie d&#39;&#226;ge du dragon.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Vision malgr&#233; le brouillard (Ext).&lt;/b&gt; Les dragons d&#39;argent adolescents ou plus &#226;g&#233;s voient parfaitement &#224; travers les nuages et le brouillard.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Vol gracieux (Ext).&lt;/b&gt; Les dragons d&#39;argent jeunes ou plus &#226;g&#233;s poss&#232;dent un meilleure manœuvrabilit&#233; (d&#39;une cat&#233;gorie) que la normale.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Vrai courage (Ext).&lt;/b&gt; La douleur et la mort ne suffisent pas &#224; faire cesser le combat &#224; un grand dracosire d&#39;argent. Lorsqu&#39;il est r&#233;duit &#224; moins de 0 points de vie, il reste conscient, se &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables.html#Stable&quot; title=&quot;Stable&quot;&gt;stabilise&lt;/a&gt; automatiquement et peut continuer d&#39;agir (bien qu&#39;il soit &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables.html#Chancelant&quot; title=&quot;Chancelant&quot;&gt;chancelant&lt;/a&gt;). S&#39;il subit des d&#233;g&#226;ts suffisants pour causer sa mort ou s&#39;il est la cible d&#39;un sort qui cause sa mort, il reste en vie et peut agir normalement pendant 1 round de plus (il n&#39;est pas &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables.html#Chancelant&quot; title=&quot;Chancelant&quot;&gt;chancelant&lt;/a&gt; au cours de se dernier round).
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;h3 class=&quot;separator&quot;&gt; &lt;a class=&quot;headeranchor&quot; id=&quot;_0&quot; href=&quot;#_0&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Jeune dragon d&#39;argent&lt;div style=&quot;float:right;&quot;&gt;FP 10&lt;/div&gt;&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Bestiaire&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 9.600
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Dragon.html&quot; title=&quot;Dragon&quot;&gt;Dragon&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Froid.html&quot; title=&quot;Froid (sous-type)&quot;&gt;froid&lt;/a&gt;) de taille G, LB
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +5 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Dragon.html#SENSDRACONIQUES&quot; title=&quot;sens draconiques&quot;&gt;sens draconiques&lt;/a&gt; ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +17
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 22, contact 10, pris au d&#233;pourvu 21 (Dex +1, naturelle +12, taille -1)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 104 (11d12+33)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +8, &lt;b&gt;Vig&lt;/b&gt; +10, &lt;b&gt;Vol&lt;/b&gt; +12
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Immunit&#233;s&lt;/b&gt; acide, froid, paralysie, sommeil 
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Faiblesses&lt;/b&gt; vuln&#233;rabilit&#233; au feu
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 12 m (8 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), vol 60 m (40 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) (moyenne) ; marche sur les nuages, vol gracieux
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; morsure, +16 (2d6+7), 2 griffes, +15 (1d8+5), 2 ailes, +13 (1d6+2), queue, +13 (1d8+7)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Espace&lt;/b&gt; 3 m (2 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) ; &lt;b&gt;Allonge&lt;/b&gt; 1,50 m (1 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) (3 m (2 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) pour la morsure)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaques sp&#233;ciales&lt;/b&gt; souffle (&lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#DEFCONE&quot; title=&quot;c&#244;ne&quot;&gt;c&#244;ne&lt;/a&gt; de 12 m (8 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), DD 18, 6d8 froid), souffle paralysant
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Pouvoirs magiques&lt;/b&gt; (NLS 11&lt;sup&gt;e&lt;/sup&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+&#192; volont&#233; — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;D&#233;tection-Du-Mal.html&quot; title=&quot;D&#233;tection du Mal&quot;&gt;d&#233;tection du Mal&lt;/a&gt;&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Sorts connus&lt;/b&gt; (NLS 1&lt;sup&gt;er&lt;/sup&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+1&lt;sup&gt;er&lt;/sup&gt; (4/jour) — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Alarme.html&quot; title=&quot;Alarme&quot;&gt;alarme&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Coup-Au-But.html&quot; title=&quot;Coup au but&quot;&gt;coup au but&lt;/a&gt;&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+0 (&#224; volont&#233;) — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;D&#233;tection-De-La-Magie.html&quot; title=&quot;D&#233;tection de la magie&quot;&gt;d&#233;tection de la magie&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Lecture-De-La-Magie.html&quot; title=&quot;Lecture de la magie&quot;&gt;lecture de la magie&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Lumi&#232;re.html&quot; title=&quot;Lumi&#232;re&quot;&gt;lumi&#232;re&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Message.html&quot; title=&quot;Message&quot;&gt;message&lt;/a&gt;&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 21, &lt;b&gt;Dex&lt;/b&gt; 12, &lt;b&gt;Con&lt;/b&gt; 17, &lt;b&gt;Int&lt;/b&gt; 16, &lt;b&gt;Sag&lt;/b&gt; 17, &lt;b&gt;Cha&lt;/b&gt; 16
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +11, &lt;b&gt;BMO&lt;/b&gt; +17, &lt;b&gt;DMD&lt;/b&gt; 28 (32 contre &lt;a class=&quot;pagelink&quot; href=&quot;Croc-En-Jambe.html&quot; title=&quot;croc-en-jambe&quot;&gt;croc-en-jambe&lt;/a&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Arme-De-Pr&#233;dilection.html&quot; title=&quot;Arme de pr&#233;dilection&quot;&gt;Arme de pr&#233;dilection&lt;/a&gt; (morsure), &lt;a class=&quot;pagelink&quot; href=&quot;Attaque-En-Puissance.html&quot; title=&quot;Attaque en puissance&quot;&gt;Attaque en puissance&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Attaques-Multiples.html&quot; title=&quot;Attaques multiples&quot;&gt;Attaques multiples&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Science-De-Linitiative.html&quot; title=&quot;Science de l&amp;#39;initiative&quot;&gt;Science de l&#39;initiative&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Volont&#233;-De-Fer.html&quot; title=&quot;Volont&#233; de fer&quot;&gt;Volont&#233; de fer&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Vol-Stationnaire.html&quot; title=&quot;Vol stationnaire&quot;&gt;Vol stationnaire&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Acrobaties.html&quot; title=&quot;Acrobaties&quot;&gt;Acrobaties&lt;/a&gt; +12, &lt;a class=&quot;pagelink&quot; href=&quot;Art-De-La-Magie.html&quot; title=&quot;Art de la magie&quot;&gt;Art de la magie&lt;/a&gt; +17, &lt;a class=&quot;pagelink&quot; href=&quot;Connaissances.html&quot; title=&quot;Connaissances&quot;&gt;Connaissances&lt;/a&gt; (folklore local) +17, &lt;a class=&quot;pagelink&quot; href=&quot;Diplomatie.html&quot; title=&quot;Diplomatie&quot;&gt;Diplomatie&lt;/a&gt; +17, &lt;a class=&quot;pagelink&quot; href=&quot;Intimidation.html&quot; title=&quot;Intimidation&quot;&gt;Intimidation&lt;/a&gt; +17, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +17, &lt;a class=&quot;pagelink&quot; href=&quot;Premiers-Secours.html&quot; title=&quot;Premiers secours&quot;&gt;Premiers secours&lt;/a&gt; +17, &lt;a class=&quot;pagelink&quot; href=&quot;Psychologie.html&quot; title=&quot;Psychologie&quot;&gt;Psychologie&lt;/a&gt; +17, &lt;a class=&quot;pagelink&quot; href=&quot;Vol.html&quot; title=&quot;Vol&quot;&gt;Vol&lt;/a&gt; +13
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Langues&lt;/b&gt; a&#233;rien, commun, draconique, g&#233;ant
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Particularit&#233;s&lt;/b&gt; changement de forme
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;h3 class=&quot;separator&quot;&gt; &lt;a class=&quot;headeranchor&quot; id=&quot;_1&quot; href=&quot;#_1&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Dragon d&#39;argent adulte&lt;div style=&quot;float:right;&quot;&gt;FP 14&lt;/div&gt;&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Bestiaire&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 38.400
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Dragon.html&quot; title=&quot;Dragon&quot;&gt;Dragon&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Froid.html&quot; title=&quot;Froid (sous-type)&quot;&gt;froid&lt;/a&gt;) de taille TG, LB
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +4 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Dragon.html#SENSDRACONIQUES&quot; title=&quot;sens draconiques&quot;&gt;sens draconiques&lt;/a&gt;, vision malgr&#233; le brouillard ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +25
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Aura&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Dragon.html#PRESENCETERRIFIANTE&quot; title=&quot;pr&#233;sence terrifiante (dragon)&quot;&gt;pr&#233;sence terrifiante&lt;/a&gt; (54 m (36 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), DD 23)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 29, contact 8, pris au d&#233;pourvu 29 (naturelle +21, taille -2)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 195 (17d12+85)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +12, &lt;b&gt;Vig&lt;/b&gt; +15, &lt;b&gt;Vol&lt;/b&gt; +17
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Immunit&#233;s&lt;/b&gt; acide, froid, paralysie, sommeil ; &lt;b&gt;RD&lt;/b&gt; 5/magie ; &lt;b&gt;RM&lt;/b&gt; 25 
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Faiblesses&lt;/b&gt; vuln&#233;rabilit&#233; au feu
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 12 m (8 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), vol 60 m (40 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) (moyenne) ; marche sur les nuages, vol gracieux
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; morsure, +24 (2d8+12), 2 griffes, +23 (2d6+8), 2 ailes, +21 (1d8+4), coup de queue, +21 (2d6+12)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Espace&lt;/b&gt; 4,50 m (3 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) ; &lt;b&gt;Allonge&lt;/b&gt; 3 m (2 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) (4,50 m (3 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) pour la morsure)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaques sp&#233;ciales&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Dragon.html#ECRASEMENT&quot; title=&quot;&#233;crasement&quot;&gt;&#233;crasement&lt;/a&gt;, souffle (&lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#DEFCONE&quot; title=&quot;c&#244;ne&quot;&gt;c&#244;ne&lt;/a&gt; de 15 m (10 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), DD 23, 12d8 froid), souffle paralysant
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Pouvoirs magiques&lt;/b&gt; (NLS 17&lt;sup&gt;e&lt;/sup&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+&#192; volont&#233; — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;D&#233;tection-Du-Mal.html&quot; title=&quot;D&#233;tection du Mal&quot;&gt;d&#233;tection du Mal&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Feuille-Morte.html&quot; title=&quot;Feuille morte&quot;&gt;feuille morte&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Nappe-De-Brouillard.html&quot; title=&quot;Nappe de brouillard&quot;&gt;nappe de brouillard&lt;/a&gt;&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Sorts connus&lt;/b&gt; (NLS 7&lt;sup&gt;e&lt;/sup&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+3&lt;sup&gt;e&lt;/sup&gt; (5/jour) — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Dissipation-De-La-Magie.html&quot; title=&quot;Dissipation de la magie&quot;&gt;dissipation de la magie&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Mur-De-Vent.html&quot; title=&quot;Mur de vent&quot;&gt;mur de vent&lt;/a&gt;&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+2&lt;sup&gt;e&lt;/sup&gt; (7/jour) — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Augure.html&quot; title=&quot;Augure&quot;&gt;augure&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Soins-Mod&#233;r&#233;s.html&quot; title=&quot;Soins mod&#233;r&#233;s&quot;&gt;soins mod&#233;r&#233;s&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Toile-Daraign&#233;e.html&quot; title=&quot;Toile d&amp;#39;araign&#233;e&quot;&gt;toile d&#39;araign&#233;e&lt;/a&gt;&lt;/i&gt; (DD 17)
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+1&lt;sup&gt;er&lt;/sup&gt; (7/jour) — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Alarme.html&quot; title=&quot;Alarme&quot;&gt;alarme&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;B&#233;n&#233;diction.html&quot; title=&quot;B&#233;n&#233;diction&quot;&gt;b&#233;n&#233;diction&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Bouclier.html&quot; title=&quot;Bouclier&quot;&gt;bouclier&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Coup-Au-But.html&quot; title=&quot;Coup au but&quot;&gt;coup au but&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Faveur-Divine.html&quot; title=&quot;Faveur divine&quot;&gt;faveur divine&lt;/a&gt;&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+0 (&#224; volont&#233;) — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;D&#233;tection-De-La-Magie.html&quot; title=&quot;D&#233;tection de la magie&quot;&gt;d&#233;tection de la magie&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Illumination.html&quot; title=&quot;Illumination&quot;&gt;illumination&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Lecture-De-La-Magie.html&quot; title=&quot;Lecture de la magie&quot;&gt;lecture de la magie&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Lumi&#232;re.html&quot; title=&quot;Lumi&#232;re&quot;&gt;lumi&#232;re&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Message.html&quot; title=&quot;Message&quot;&gt;message&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Prestidigitation.html&quot; title=&quot;Prestidigitation&quot;&gt;prestidigitation&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Stabilisation.html&quot; title=&quot;Stabilisation&quot;&gt;stabilisation&lt;/a&gt;&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 27, &lt;b&gt;Dex&lt;/b&gt; 10, &lt;b&gt;Con&lt;/b&gt; 21, &lt;b&gt;Int&lt;/b&gt; 20, &lt;b&gt;Sag&lt;/b&gt; 21, &lt;b&gt;Cha&lt;/b&gt; 20
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +17, &lt;b&gt;BMO&lt;/b&gt; +27, &lt;b&gt;DMD&lt;/b&gt; 37 (41 contre &lt;a class=&quot;pagelink&quot; href=&quot;Croc-En-Jambe.html&quot; title=&quot;croc-en-jambe&quot;&gt;croc-en-jambe&lt;/a&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Arme-De-Pr&#233;dilection.html&quot; title=&quot;Arme de pr&#233;dilection&quot;&gt;Arme de pr&#233;dilection&lt;/a&gt; (morsure), &lt;a class=&quot;pagelink&quot; href=&quot;Attaque-En-Puissance.html&quot; title=&quot;Attaque en puissance&quot;&gt;Attaque en puissance&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Attaque-En-Vol.html&quot; title=&quot;Attaque en vol&quot;&gt;Attaque en vol&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Attaques-Multiples.html&quot; title=&quot;Attaques multiples&quot;&gt;Attaques multiples&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Frappe-D&#233;cisive.html&quot; title=&quot;Frappe d&#233;cisive&quot;&gt;Frappe d&#233;cisive&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;R&#233;flexes-Surhumains.html&quot; title=&quot;R&#233;flexes surhumains&quot;&gt;R&#233;flexes surhumains&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Science-De-Linitiative.html&quot; title=&quot;Science de l&amp;#39;initiative&quot;&gt;Science de l&#39;initiative&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Volont&#233;-De-Fer.html&quot; title=&quot;Volont&#233; de fer&quot;&gt;Volont&#233; de fer&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Vol-Stationnaire.html&quot; title=&quot;Vol stationnaire&quot;&gt;Vol stationnaire&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Acrobaties.html&quot; title=&quot;Acrobaties&quot;&gt;Acrobaties&lt;/a&gt; +17, &lt;a class=&quot;pagelink&quot; href=&quot;Art-De-La-Magie.html&quot; title=&quot;Art de la magie&quot;&gt;Art de la magie&lt;/a&gt; +25, &lt;a class=&quot;pagelink&quot; href=&quot;Connaissances.html&quot; title=&quot;Connaissances&quot;&gt;Connaissances&lt;/a&gt; (myst&#232;res, folklore local, noblesse) +25, &lt;a class=&quot;pagelink&quot; href=&quot;Diplomatie.html&quot; title=&quot;Diplomatie&quot;&gt;Diplomatie&lt;/a&gt; +25, &lt;a class=&quot;pagelink&quot; href=&quot;Intimidation.html&quot; title=&quot;Intimidation&quot;&gt;Intimidation&lt;/a&gt; +25, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +25, &lt;a class=&quot;pagelink&quot; href=&quot;Premiers-Secours.html&quot; title=&quot;Premiers secours&quot;&gt;Premiers secours&lt;/a&gt; +25, &lt;a class=&quot;pagelink&quot; href=&quot;Psychologie.html&quot; title=&quot;Psychologie&quot;&gt;Psychologie&lt;/a&gt; +25, &lt;a class=&quot;pagelink&quot; href=&quot;Vol.html&quot; title=&quot;Vol&quot;&gt;Vol&lt;/a&gt; +16
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Langues&lt;/b&gt; a&#233;rien, commun, draconique, g&#233;ant, nain, terreux
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Particularit&#233;s&lt;/b&gt; changement de forme
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;h3 class=&quot;separator&quot;&gt; &lt;a class=&quot;headeranchor&quot; id=&quot;_2&quot; href=&quot;#_2&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Dragon d&#39;argent v&#233;n&#233;rable&lt;div style=&quot;float:right;&quot;&gt;FP 19&lt;/div&gt;&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Bestiaire&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 204.800
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Dragon.html&quot; title=&quot;Dragon&quot;&gt;Dragon&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Froid.html&quot; title=&quot;Froid (sous-type)&quot;&gt;froid&lt;/a&gt;) de taille Gig, LB
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +3 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Dragon.html#SENSDRACONIQUES&quot; title=&quot;sens draconiques&quot;&gt;sens draconiques&lt;/a&gt;, vision malgr&#233; le brouillard ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +35
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Aura&lt;/b&gt; froid, &lt;a class=&quot;pagelink&quot; href=&quot;Dragon.html#PRESENCETERRIFIANTE&quot; title=&quot;pr&#233;sence terrifiante (dragon)&quot;&gt;pr&#233;sence terrifiante&lt;/a&gt; (90 m (60 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), DD 29)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 38, contact 5, pris au d&#233;pourvu 38 (Dex -1, naturelle +33, taille -4)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 337 (25d12+175)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +15, &lt;b&gt;Vig&lt;/b&gt; +21, &lt;b&gt;Vol&lt;/b&gt; +23
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Capacit&#233;s d&#233;fensives&lt;/b&gt; &#233;cailles r&#233;fl&#233;chissantes ; &lt;b&gt;Immunit&#233;s&lt;/b&gt; acide, froid, paralysie, sommeil ; &lt;b&gt;RD&lt;/b&gt; 15/magie ; &lt;b&gt;RM&lt;/b&gt; 30 
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Faiblesses&lt;/b&gt; vuln&#233;rabilit&#233; au feu
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 12 m (8 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), vol 75 m (50 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) (m&#233;diocre) ; marche sur les nuages, vol gracieux
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; morsure, +34 (4d6+18/19-20), 2 griffes, +33 (2d8+12), 2 ailes, +31 (2d6+6), coup de queue, +31 (2d8+18)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Espace&lt;/b&gt; 6 m (4 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) ; &lt;b&gt;Allonge&lt;/b&gt; 4,50 m (3 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) (6 m (4 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) pour la morsure)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaques sp&#233;ciales&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Dragon.html#BALAYAGEQUEUE&quot; title=&quot;balayage avec la queue&quot;&gt;balayage avec la queue&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Dragon.html#ECRASEMENT&quot; title=&quot;&#233;crasement&quot;&gt;&#233;crasement&lt;/a&gt;, souffle (&lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#DEFCONE&quot; title=&quot;c&#244;ne&quot;&gt;c&#244;ne&lt;/a&gt; de 18 m (12 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), DD 29, 20d8 froid), souffle paralysant
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Pouvoirs magiques&lt;/b&gt; (NLS 25&lt;sup&gt;e&lt;/sup&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+&#192; volont&#233; — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Contr&#244;le-Des-Vents.html&quot; title=&quot;Contr&#244;le des vents&quot;&gt;contr&#244;le des vents&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Contr&#244;le-Du-Climat.html&quot; title=&quot;Contr&#244;le du climat&quot;&gt;contr&#244;le du climat&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;D&#233;tection-Du-Mal.html&quot; title=&quot;D&#233;tection du Mal&quot;&gt;d&#233;tection du Mal&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Feuille-Morte.html&quot; title=&quot;Feuille morte&quot;&gt;feuille morte&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Nappe-De-Brouillard.html&quot; title=&quot;Nappe de brouillard&quot;&gt;nappe de brouillard&lt;/a&gt;&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Sorts connus&lt;/b&gt; (NLS 15&lt;sup&gt;e&lt;/sup&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+7&lt;sup&gt;e&lt;/sup&gt; (5/jour) — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Champ-De-Force.html&quot; title=&quot;Champ de force&quot;&gt;champ de force&lt;/a&gt;&lt;/i&gt; (DD 24), &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Parole-Sacr&#233;e.html&quot; title=&quot;Parole sacr&#233;e&quot;&gt;parole sacr&#233;e&lt;/a&gt;&lt;/i&gt; (DD 24)
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+6&lt;sup&gt;e&lt;/sup&gt; (7/jour) — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Bannissement.html&quot; title=&quot;Bannissement&quot;&gt;bannissement&lt;/a&gt;&lt;/i&gt; (DD 23), &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Dissipation-Supr&#234;me.html&quot; title=&quot;Dissipation supr&#234;me&quot;&gt;dissipation supr&#234;me&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Gu&#233;rison-Supr&#234;me.html&quot; title=&quot;Gu&#233;rison supr&#234;me&quot;&gt;gu&#233;rison supr&#234;me&lt;/a&gt;&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+5&lt;sup&gt;e&lt;/sup&gt; (7/jour) — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Annulation-Denchantement.html&quot; title=&quot;Annulation d&amp;#39;enchantement&quot;&gt;annulation d&#39;enchantement&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Changement-De-Plan.html&quot; title=&quot;Changement de plan&quot;&gt;changement de plan&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Colonne-De-Feu.html&quot; title=&quot;Colonne de feu&quot;&gt;colonne de feu&lt;/a&gt;&lt;/i&gt; (DD 22), &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Mur-De-Force.html&quot; title=&quot;Mur de force&quot;&gt;mur de force&lt;/a&gt;&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+4&lt;sup&gt;e&lt;/sup&gt; (7/jour) — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Brouillard-Dense.html&quot; title=&quot;Brouillard dense&quot;&gt;brouillard dense&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Libert&#233;-De-Mouvement.html&quot; title=&quot;Libert&#233; de mouvement&quot;&gt;libert&#233; de mouvement&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Porte-Dimensionnelle.html&quot; title=&quot;Porte dimensionnelle&quot;&gt;porte dimensionnelle&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Restauration.html&quot; title=&quot;Restauration&quot;&gt;restauration&lt;/a&gt;&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+3&lt;sup&gt;e&lt;/sup&gt; (7/jour) — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Dissipation-De-La-Magie.html&quot; title=&quot;Dissipation de la magie&quot;&gt;dissipation de la magie&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Immobilisation-De-Personne.html&quot; title=&quot;Immobilisation de personne&quot;&gt;immobilisation de personne&lt;/a&gt;&lt;/i&gt; (DD 20), &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Mur-De-Vent.html&quot; title=&quot;Mur de vent&quot;&gt;mur de vent&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Soins-Importants.html&quot; title=&quot;Soins importants&quot;&gt;soins importants&lt;/a&gt;&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+2&lt;sup&gt;e&lt;/sup&gt; (8/jour) — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Apaisement-Des-&#201;motions.html&quot; title=&quot;Apaisement des &#233;motions&quot;&gt;apaisement des &#233;motions&lt;/a&gt;&lt;/i&gt; (DD 19), &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Augure.html&quot; title=&quot;Augure&quot;&gt;augure&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Invisibilit&#233;.html&quot; title=&quot;Invisibilit&#233;&quot;&gt;invisibilit&#233;&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Soins-Mod&#233;r&#233;s.html&quot; title=&quot;Soins mod&#233;r&#233;s&quot;&gt;soins mod&#233;r&#233;s&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Toile-Daraign&#233;e.html&quot; title=&quot;Toile d&amp;#39;araign&#233;e&quot;&gt;toile d&#39;araign&#233;e&lt;/a&gt;&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+1&lt;sup&gt;er&lt;/sup&gt; (8/jour) — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;B&#233;n&#233;diction.html&quot; title=&quot;B&#233;n&#233;diction&quot;&gt;b&#233;n&#233;diction&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Bouclier.html&quot; title=&quot;Bouclier&quot;&gt;bouclier&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Coup-Au-But.html&quot; title=&quot;Coup au but&quot;&gt;coup au but&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Faveur-Divine.html&quot; title=&quot;Faveur divine&quot;&gt;faveur divine&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Protection-Contre-Le-Mal.html&quot; title=&quot;Protection contre le Mal&quot;&gt;protection contre le Mal&lt;/a&gt;&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+0 (&#224; volont&#233;) — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;D&#233;tection-De-La-Magie.html&quot; title=&quot;D&#233;tection de la magie&quot;&gt;d&#233;tection de la magie&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Illumination.html&quot; title=&quot;Illumination&quot;&gt;illumination&lt;/a&gt;&lt;/i&gt; (DD 17), &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Lecture-De-La-Magie.html&quot; title=&quot;Lecture de la magie&quot;&gt;lecture de la magie&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Lumi&#232;re.html&quot; title=&quot;Lumi&#232;re&quot;&gt;lumi&#232;re&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Message.html&quot; title=&quot;Message&quot;&gt;message&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Prestidigitation.html&quot; title=&quot;Prestidigitation&quot;&gt;prestidigitation&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;R&#233;sistance-(Capacit&#233;).html&quot; title=&quot;r&#233;sistance&quot;&gt;r&#233;sistance&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Stabilisation.html&quot; title=&quot;Stabilisation&quot;&gt;stabilisation&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Stimulant.html&quot; title=&quot;Stimulant&quot;&gt;stimulant&lt;/a&gt;&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 35, &lt;b&gt;Dex&lt;/b&gt; 8, &lt;b&gt;Con&lt;/b&gt; 25, &lt;b&gt;Int&lt;/b&gt; 24, &lt;b&gt;Sag&lt;/b&gt; 25, &lt;b&gt;Cha&lt;/b&gt; 24
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +25, &lt;b&gt;BMO&lt;/b&gt; +41, &lt;b&gt;DMD&lt;/b&gt; 50 (54 contre &lt;a class=&quot;pagelink&quot; href=&quot;Croc-En-Jambe.html&quot; title=&quot;croc-en-jambe&quot;&gt;croc-en-jambe&lt;/a&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Arme-De-Pr&#233;dilection.html&quot; title=&quot;Arme de pr&#233;dilection&quot;&gt;Arme de pr&#233;dilection&lt;/a&gt; (morsure), &lt;a class=&quot;pagelink&quot; href=&quot;Attaque-En-Puissance.html&quot; title=&quot;Attaque en puissance&quot;&gt;Attaque en puissance&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Attaque-En-Vol.html&quot; title=&quot;Attaque en vol&quot;&gt;Attaque en vol&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Attaques-Multiples.html&quot; title=&quot;Attaques multiples&quot;&gt;Attaques multiples&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Don-Pour-Les-Critiques.html&quot; title=&quot;Don pour les critiques&quot;&gt;Don pour les critiques&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Frappe-D&#233;cisive.html&quot; title=&quot;Frappe d&#233;cisive&quot;&gt;Frappe d&#233;cisive&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Incantation-Rapide.html&quot; title=&quot;Incantation rapide&quot;&gt;Incantation rapide&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;R&#233;flexes-Surhumains.html&quot; title=&quot;R&#233;flexes surhumains&quot;&gt;R&#233;flexes surhumains&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Science-De-Linitiative.html&quot; title=&quot;Science de l&amp;#39;initiative&quot;&gt;Science de l&#39;initiative&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Science-Du-Critique.html&quot; title=&quot;Science du critique&quot;&gt;Science du critique&lt;/a&gt; (morsure), &lt;a class=&quot;pagelink&quot; href=&quot;Talent.html&quot; title=&quot;Talent&quot;&gt;Talent&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Vol.html&quot; title=&quot;Vol&quot;&gt;Vol&lt;/a&gt;), &lt;a class=&quot;pagelink&quot; href=&quot;Volont&#233;-De-Fer.html&quot; title=&quot;Volont&#233; de fer&quot;&gt;Volont&#233; de fer&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Vol-Stationnaire.html&quot; title=&quot;Vol stationnaire&quot;&gt;Vol stationnaire&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Acrobaties.html&quot; title=&quot;Acrobaties&quot;&gt;Acrobaties&lt;/a&gt; +24, &lt;a class=&quot;pagelink&quot; href=&quot;Art-De-La-Magie.html&quot; title=&quot;Art de la magie&quot;&gt;Art de la magie&lt;/a&gt; +35, &lt;a class=&quot;pagelink&quot; href=&quot;Connaissances.html&quot; title=&quot;Connaissances&quot;&gt;Connaissances&lt;/a&gt; (myst&#232;res, histoire, folklore local, noblesse, plans) +35, &lt;a class=&quot;pagelink&quot; href=&quot;Diplomatie.html&quot; title=&quot;Diplomatie&quot;&gt;Diplomatie&lt;/a&gt; +35, &lt;a class=&quot;pagelink&quot; href=&quot;Intimidation.html&quot; title=&quot;Intimidation&quot;&gt;Intimidation&lt;/a&gt; +35, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +35, &lt;a class=&quot;pagelink&quot; href=&quot;Premiers-Secours.html&quot; title=&quot;Premiers secours&quot;&gt;Premiers secours&lt;/a&gt; +35, &lt;a class=&quot;pagelink&quot; href=&quot;Psychologie.html&quot; title=&quot;Psychologie&quot;&gt;Psychologie&lt;/a&gt; +35, &lt;a class=&quot;pagelink&quot; href=&quot;Vol.html&quot; title=&quot;Vol&quot;&gt;Vol&lt;/a&gt; +21
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Langues&lt;/b&gt; a&#233;rien, commun, draconique, elfique, g&#233;ant, halfelin, nain, terreux
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Particularit&#233;s&lt;/b&gt; changement de forme
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;td&gt;&lt;div&gt;&lt;i&gt;Les &#233;cailles de ce grand dragon &#233;l&#233;gant brillent comme de l’argent lustr&#233; et on dirait que sa queue est couverte de plumes.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Les dragons d’argent sont les plus
+courageux de tous les dragons. Ils
+respectent scrupuleusement un code
+chevaleresque requ&#233;rant de d&#233;fendre les
+faibles, de vaincre le Mal et de se comporter
+de mani&#232;re honorable.&lt;br /&gt;&lt;br /&gt;&lt;center&gt;
+&lt;table CLASS=&quot;tablo toutgauche&quot;&gt;&lt;caption&gt;Tableau des gains de capacit&#233;s&lt;/caption&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td&gt;Cat&#233;gorie d&#39;&#226;ge &lt;/td&gt;&lt;td&gt;Capacit&#233;s sp&#233;ciales&lt;/td&gt;&lt;td&gt;NLS&lt;sup&gt;*&lt;/sup&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier&quot;&gt;&lt;td&gt;Dragonnet&lt;/td&gt;&lt;td&gt;changement de forme, immunit&#233; (acide), &lt;br/&gt;souffle paralysant, sous-type &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Froid.html&quot; title=&quot;Froid (sous-type)&quot;&gt;froid&lt;/a&gt;&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;Tr&#232;s jeune&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;D&#233;tection-Du-Mal.html&quot; title=&quot;D&#233;tection du Mal&quot;&gt;d&#233;tection du Mal&lt;/a&gt;&lt;/i&gt;, marche sur les nuages&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Jeune&lt;/td&gt;&lt;td&gt;vol gracieux&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;Adolescent&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Feuille-Morte.html&quot; title=&quot;Feuille morte&quot;&gt;feuille morte&lt;/a&gt;&lt;/i&gt;, vision malgr&#233; le brouillard&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Jeune adulte&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;R&#233;duction-De-D&#233;g&#226;ts-(Capacit&#233;).html&quot; title=&quot;RD&quot;&gt;RD&lt;/a&gt; 5/magie ; &lt;a class=&quot;pagelink&quot; href=&quot;R&#233;sistance-&#192;-La-Magie-(Capacit&#233;).html&quot; title=&quot;RM&quot;&gt;RM&lt;/a&gt;&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;Adulte&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Nappe-De-Brouillard.html&quot; title=&quot;Nappe de brouillard&quot;&gt;nappe de brouillard&lt;/a&gt;&lt;/i&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sence-Terrifiante-(Capacit&#233;).html&quot; title=&quot;Pr&#233;sence terrifiante&quot;&gt;pr&#233;sence terrifiante&lt;/a&gt;&lt;/td&gt;&lt;td&gt;7&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&#194;ge m&#251;r&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;R&#233;duction-De-D&#233;g&#226;ts-(Capacit&#233;).html&quot; title=&quot;RD&quot;&gt;RD&lt;/a&gt; 10/magie&lt;/td&gt;&lt;td&gt;9&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;Vieux&lt;/td&gt;&lt;td&gt;aura de froid, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Contr&#244;le-Des-Vents.html&quot; title=&quot;Contr&#244;le des vents&quot;&gt;contr&#244;le des vents&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;11&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Tr&#232;s vieux&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;R&#233;duction-De-D&#233;g&#226;ts-(Capacit&#233;).html&quot; title=&quot;RD&quot;&gt;RD&lt;/a&gt; 15/magie&lt;/td&gt;&lt;td&gt;13&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;V&#233;n&#233;rable&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Contr&#244;le-Du-Climat.html&quot; title=&quot;Contr&#244;le du climat&quot;&gt;contr&#244;le du climat&lt;/a&gt;&lt;/i&gt;, &#233;cailles r&#233;fl&#233;chissantes&lt;/td&gt;&lt;td&gt;15&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Dracosire&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;R&#233;duction-De-D&#233;g&#226;ts-(Capacit&#233;).html&quot; title=&quot;RD&quot;&gt;RD&lt;/a&gt; 20/magie&lt;/td&gt;&lt;td&gt;17&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;Grand dracosire&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Inversion-De-La-Gravit&#233;.html&quot; title=&quot;Inversion de la gravit&#233;&quot;&gt;inversion de la gravit&#233;&lt;/a&gt;&lt;/i&gt;, vrai courage&lt;/td&gt;&lt;td&gt;19&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/center&gt;&lt;br /&gt;&lt;br /&gt;&lt;ul&gt;&lt;li&gt;Un dragon d&#39;argent peut lancer des sorts divins comme s&#39;il s&#39;agissait de sorts profanes.&lt;br /&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;br /&gt;&lt;/li&gt;&lt;/ul&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Dragon métallique d'argent|}
+{s:pucem|Dragon|Montagnes|Tempéré}
+{s:BDTexte|''Source : Bestiaire p.108''}
+{s:BDTexte|[[type Dragon|Dragon]] ([[sous-type froid|froid]], LB)}
+{s:BDSousTitre|Statistiques de base}
+{s:BDTexte|'''FP''' 6 ; '''Taille''' P ; '''DV''' 7d12}
+{s:BDTexte|'''VD''' 8}
+{s:BDTexte|'''Armure naturelle''' +6 ; '''Souffle''' cône, 2d8 froid}
+{s:BDTexte|'''For''' 13, '''Dex''' 14, '''Con''' 13, '''Int''' 14, '''Sag''' 15, '''Cha''' 14}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' montagnes tempérées}
+{s:BDTexte|'''Organisation sociale''' solitaire}
+{s:BDTexte|'''Trésor''' triple}
+{s:BDSousTitre|Particularités}
+{s:BDTexte|'''Aura de froid (Sur).''' Les dragons d'argent vieux ou plus âgés possèdent une aura de froid. Toutes les créatures situées à 1,50 m (1 {s:c}) ou moins du dragon subissent 1d6 points de dégâts de froid au début du tour du dragon. L'aura des dragons vénérables s'étend sur 3 m (2 {s:c}). Les dégâts de l'aura des grands dracosires d'argent montent à 2d6. Les dragons d'argent peuvent activer ou suspendre cette aura à volonté par une [[action libre]].}
+{s:BDTexte|'''Changement de forme (Sur).''' Trois fois par jour, une dragon d'argent peut prendre la forme de n'importe quel [[type animal|animal]] ou [[type humanoïde|humanoïde]] comme s'il utilisait un sort de ''[[métamorphose]]''}
+{s:BDTexte|'''Écailles réfléchissantes (Sur).''' Chaque fois qu'un sort cible un dragon d'argent vénérable ou plus âgé et ne parvient pas à percer sa [[RM|résistance à la magie]], il se peut qu'il soit renvoyé vers la créature qui l'a lancé. Si le test de [[NLS]] visant à percer la [[RM|résistance ) la magie]] du dragon échoue de 5 points ou plus, c'est le cas. S'il échoue de 4 points ou moins, le sort n'a tout simplement aucun effet. A part ces précisions, cette capacité fonctionne comme le sort ''[[renvoi des sorts]]''.}
+{s:BDTexte|'''Marche sur les nuages (Sur).''' Un dragon d'argent très jeune ou plus âgé peut marcher sur les nuaes ou sur le brouillard comme s'il s'agissait de substances solides.}
+{s:BDTexte|'''Pouvoirs magiques (Mag).''' Les dragons d'argent acquièrent les pouvoirs magiques suivants, qu'il peuvent utiliser à volonté une fois l'âge requis atteint. Très jeune - ''[[détection du Mal]]'' ; Adolescent - ''[[feuille morte]]'' ; Adulte - ''[[nappe de brouillard]]'' ; Vieux - ''[[contrôle des vents]]'' ; Vénérable - ''[[contrôle du climat]]'' ; Grand dracosire - ''[[inversion de la gravité]]''.}
+{s:BDTexte|'''Souffle paralysant (Sur).''' Au lieu de produire un [[cône]] de froid avec leur souffle, les dragons d'argent peuvent créer un [[cône]] de gaz paralysant. Les créatures situées dans le [[cône]] doivent réussir un jet de [[Vigueur]] pour ne pas être [[paralysé|paralysées]] pendant 1d6 rounds. plus 1 round par catégorie d'âge du dragon.}
+{s:BDTexte|'''Vision malgré le brouillard (Ext).''' Les dragons d'argent adolescents ou plus âgés voient parfaitement à travers les nuages et le brouillard.}
+{s:BDTexte|'''Vol gracieux (Ext).''' Les dragons d'argent jeunes ou plus âgés possèdent un meilleure manœuvrabilité (d'une catégorie) que la normale.}
+{s:BDTexte|'''Vrai courage (Ext).''' La douleur et la mort ne suffisent pas à faire cesser le combat à un grand dracosire d'argent. Lorsqu'il est réduit à moins de 0 points de vie, il reste conscient, se [[stable|stabilise]] automatiquement et peut continuer d'agir (bien qu'il soit [[chancelant]]). S'il subit des dégâts suffisants pour causer sa mort ou s'il est la cible d'un sort qui cause sa mort, il reste en vie et peut agir normalement pendant 1 round de plus (il n'est pas [[chancelant]] au cours de se dernier round).}
+</div>
+==== ====
+<div class="BD">
+{s:BDTitre|Jeune dragon d'argent|FP 10}
+{s:pucem|Dragon|Montagnes|Tempéré}
+{s:BDTexte|''Source : Bestiaire''}
+{s:BDTexte|'''PX''' 9.600}
+{s:BDTexte|[[type Dragon|Dragon]] ([[sous-type froid|froid]]) de taille G, LB}
+{s:BDTexte|'''Init''' +5 ; '''Sens''' [[sens draconiques]] ; [[Perception]] +17}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 22, contact 10, pris au dépourvu 21 (Dex +1, naturelle +12, taille -1)}
+{s:BDTexte|'''pv''' 104 (11d12+33)}
+{s:BDTexte|'''Réf''' +8, '''Vig''' +10, '''Vol''' +12}
+{s:BDTexte|'''Immunités''' acide, froid, paralysie, sommeil }
+{s:BDTexte|'''Faiblesses''' vulnérabilité au feu}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 12 m (8 {s:c}), vol 60 m (40 {s:c}) (moyenne) ; marche sur les nuages, vol gracieux}
+{s:BDTexte|'''Corps à corps''' morsure, +16 (2d6+7), 2 griffes, +15 (1d8+5), 2 ailes, +13 (1d6+2), queue, +13 (1d8+7)}
+{s:BDTexte|'''Espace''' 3 m (2 {s:c}) ; '''Allonge''' 1,50 m (1 {s:c}) (3 m (2 {s:c}) pour la morsure)}
+{s:BDTexte|'''Attaques spéciales''' souffle ([[cône]] de 12 m (8 {s:c}), DD 18, 6d8 froid), souffle paralysant}
+{s:BDTexte|'''Pouvoirs magiques''' (NLS 11<sup>e</sup>)}
+{s:BDSorts|À volonté — ''[[détection du Mal]]''}
+{s:BDTexte|'''Sorts connus''' (NLS 1<sup>er</sup>)}
+{s:BDSorts|1<sup>er</sup> (4/jour) — ''[[alarme]]'', ''[[coup au but]]''}
+{s:BDSorts|0 (à volonté) — ''[[détection de la magie]]'', ''[[lecture de la magie]]'', ''[[lumière]]'', ''[[message]]''}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 21, '''Dex''' 12, '''Con''' 17, '''Int''' 16, '''Sag''' 17, '''Cha''' 16}
+{s:BDTexte|'''BBA''' +11, '''BMO''' +17, '''DMD''' 28 (32 contre [[croc-en-jambe]])}
+{s:BDTexte|'''Dons''' [[Arme de prédilection]] (morsure), [[Attaque en puissance]], [[Attaques multiples]], [[Science de linitiative|Science de l'initiative]], [[Volonté de fer]], [[Vol stationnaire]]}
+{s:BDTexte|'''Compétences''' [[Acrobaties]] +12, [[Art de la magie]] +17, [[Connaissances]] (folklore local) +17, [[Diplomatie]] +17, [[Intimidation]] +17, [[Perception]] +17, [[Premiers secours]] +17, [[Psychologie]] +17, [[Vol]] +13}
+{s:BDTexte|'''Langues''' aérien, commun, draconique, géant}
+{s:BDTexte|'''Particularités''' changement de forme}
+</div>
+==== ====
+<div class="BD">
+{s:BDTitre|Dragon d'argent adulte|FP 14}
+{s:pucem|Dragon|Montagnes|Tempéré}
+{s:BDTexte|''Source : Bestiaire''}
+{s:BDTexte|'''PX''' 38.400}
+{s:BDTexte|[[type Dragon|Dragon]] ([[sous-type froid|froid]]) de taille TG, LB}
+{s:BDTexte|'''Init''' +4 ; '''Sens''' [[sens draconiques]], vision malgré le brouillard ; [[Perception]] +25}
+{s:BDTexte|'''Aura''' [[présence terrifiante (dragon)|présence terrifiante]] (54 m (36 {s:c}), DD 23)}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 29, contact 8, pris au dépourvu 29 (naturelle +21, taille -2)}
+{s:BDTexte|'''pv''' 195 (17d12+85)}
+{s:BDTexte|'''Réf''' +12, '''Vig''' +15, '''Vol''' +17}
+{s:BDTexte|'''Immunités''' acide, froid, paralysie, sommeil ; '''RD''' 5/magie ; '''RM''' 25 }
+{s:BDTexte|'''Faiblesses''' vulnérabilité au feu}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 12 m (8 {s:c}), vol 60 m (40 {s:c}) (moyenne) ; marche sur les nuages, vol gracieux}
+{s:BDTexte|'''Corps à corps''' morsure, +24 (2d8+12), 2 griffes, +23 (2d6+8), 2 ailes, +21 (1d8+4), coup de queue, +21 (2d6+12)}
+{s:BDTexte|'''Espace''' 4,50 m (3 {s:c}) ; '''Allonge''' 3 m (2 {s:c}) (4,50 m (3 {s:c}) pour la morsure)}
+{s:BDTexte|'''Attaques spéciales''' [[écrasement]], souffle ([[cône]] de 15 m (10 {s:c}), DD 23, 12d8 froid), souffle paralysant}
+{s:BDTexte|'''Pouvoirs magiques''' (NLS 17<sup>e</sup>)}
+{s:BDSorts|À volonté — ''[[détection du Mal]]'', ''[[feuille morte]]'', ''[[nappe de brouillard]]''}
+{s:BDTexte|'''Sorts connus''' (NLS 7<sup>e</sup>)}
+{s:BDSorts|3<sup>e</sup> (5/jour) — ''[[dissipation de la magie]]'', ''[[mur de vent]]''}
+{s:BDSorts|2<sup>e</sup> (7/jour) — ''[[augure]]'', ''[[soins modérés]]'', ''[[toile daraignée|toile d'araignée]]'' (DD 17)}
+{s:BDSorts|1<sup>er</sup> (7/jour) — ''[[alarme]]'', ''[[bénédiction]]'', ''[[bouclier]]'', ''[[coup au but]]'', ''[[faveur divine]]''}
+{s:BDSorts|0 (à volonté) — ''[[détection de la magie]]'', ''[[illumination]]'', ''[[lecture de la magie]]'', ''[[lumière]]'', ''[[message]]'', ''[[prestidigitation]]'', ''[[stabilisation]]''}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 27, '''Dex''' 10, '''Con''' 21, '''Int''' 20, '''Sag''' 21, '''Cha''' 20}
+{s:BDTexte|'''BBA''' +17, '''BMO''' +27, '''DMD''' 37 (41 contre [[croc-en-jambe]])}
+{s:BDTexte|'''Dons''' [[Arme de prédilection]] (morsure), [[Attaque en puissance]], [[Attaque en vol]], [[Attaques multiples]], [[Frappe décisive]], [[Réflexes surhumains]], [[Science de linitiative|Science de l'initiative]], [[Volonté de fer]], [[Vol stationnaire]]}
+{s:BDTexte|'''Compétences''' [[Acrobaties]] +17, [[Art de la magie]] +25, [[Connaissances]] (mystères, folklore local, noblesse) +25, [[Diplomatie]] +25, [[Intimidation]] +25, [[Perception]] +25, [[Premiers secours]] +25, [[Psychologie]] +25, [[Vol]] +16}
+{s:BDTexte|'''Langues''' aérien, commun, draconique, géant, nain, terreux}
+{s:BDTexte|'''Particularités''' changement de forme}
+</div>
+==== ====
+<div class="BD">
+{s:BDTitre|Dragon d'argent vénérable|FP 19}
+{s:pucem|Dragon|Montagnes|Tempéré}
+{s:BDTexte|''Source : Bestiaire''}
+{s:BDTexte|'''PX''' 204.800}
+{s:BDTexte|[[type Dragon|Dragon]] ([[sous-type froid|froid]]) de taille Gig, LB}
+{s:BDTexte|'''Init''' +3 ; '''Sens''' [[sens draconiques]], vision malgré le brouillard ; [[Perception]] +35}
+{s:BDTexte|'''Aura''' froid, [[présence terrifiante (dragon)|présence terrifiante]] (90 m (60 {s:c}), DD 29)}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 38, contact 5, pris au dépourvu 38 (Dex -1, naturelle +33, taille -4)}
+{s:BDTexte|'''pv''' 337 (25d12+175)}
+{s:BDTexte|'''Réf''' +15, '''Vig''' +21, '''Vol''' +23}
+{s:BDTexte|'''Capacités défensives''' écailles réfléchissantes ; '''Immunités''' acide, froid, paralysie, sommeil ; '''RD''' 15/magie ; '''RM''' 30 }
+{s:BDTexte|'''Faiblesses''' vulnérabilité au feu}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 12 m (8 {s:c}), vol 75 m (50 {s:c}) (médiocre) ; marche sur les nuages, vol gracieux}
+{s:BDTexte|'''Corps à corps''' morsure, +34 (4d6+18/19-20), 2 griffes, +33 (2d8+12), 2 ailes, +31 (2d6+6), coup de queue, +31 (2d8+18)}
+{s:BDTexte|'''Espace''' 6 m (4 {s:c}) ; '''Allonge''' 4,50 m (3 {s:c}) (6 m (4 {s:c}) pour la morsure)}
+{s:BDTexte|'''Attaques spéciales''' [[balayage avec la queue]], [[écrasement]], souffle ([[cône]] de 18 m (12 {s:c}), DD 29, 20d8 froid), souffle paralysant}
+{s:BDTexte|'''Pouvoirs magiques''' (NLS 25<sup>e</sup>)}
+{s:BDSorts|À volonté — ''[[contrôle des vents]]'', ''[[contrôle du climat]]'', ''[[détection du Mal]]'', ''[[feuille morte]]'', ''[[nappe de brouillard]]''}
+{s:BDTexte|'''Sorts connus''' (NLS 15<sup>e</sup>)}
+{s:BDSorts|7<sup>e</sup> (5/jour) — ''[[champ de force]]'' (DD 24), ''[[parole sacrée]]'' (DD 24)}
+{s:BDSorts|6<sup>e</sup> (7/jour) — ''[[bannissement]]'' (DD 23), ''[[dissipation suprême]]'', ''[[guérison suprême]]''}
+{s:BDSorts|5<sup>e</sup> (7/jour) — ''[[annulation denchantement|annulation d'enchantement]]'', ''[[changement de plan]]'', ''[[colonne de feu]]'' (DD 22), ''[[mur de force]]''}
+{s:BDSorts|4<sup>e</sup> (7/jour) — ''[[brouillard dense]]'', ''[[liberté de mouvement]]'', ''[[porte dimensionnelle]]'', ''[[restauration]]''}
+{s:BDSorts|3<sup>e</sup> (7/jour) — ''[[dissipation de la magie]]'', ''[[immobilisation de personne]]'' (DD 20), ''[[mur de vent]]'', ''[[soins importants]]''}
+{s:BDSorts|2<sup>e</sup> (8/jour) — ''[[apaisement des émotions]]'' (DD 19), ''[[augure]]'', ''[[invisibilité]]'', ''[[soins modérés]]'', ''[[toile daraignée|toile d'araignée]]''}
+{s:BDSorts|1<sup>er</sup> (8/jour) — ''[[bénédiction]]'', ''[[bouclier]]'', ''[[coup au but]]'', ''[[faveur divine]]'', ''[[protection contre le Mal]]''}
+{s:BDSorts|0 (à volonté) — ''[[détection de la magie]]'', ''[[illumination]]'' (DD 17), ''[[lecture de la magie]]'', ''[[lumière]]'', ''[[message]]'', ''[[prestidigitation]]'', ''[[résistance]]'', ''[[stabilisation]]'', ''[[stimulant]]''}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 35, '''Dex''' 8, '''Con''' 25, '''Int''' 24, '''Sag''' 25, '''Cha''' 24}
+{s:BDTexte|'''BBA''' +25, '''BMO''' +41, '''DMD''' 50 (54 contre [[croc-en-jambe]])}
+{s:BDTexte|'''Dons''' [[Arme de prédilection]] (morsure), [[Attaque en puissance]], [[Attaque en vol]], [[Attaques multiples]], [[Don pour les critiques]], [[Frappe décisive]], [[Incantation rapide]], [[Réflexes surhumains]], [[Science de linitiative|Science de l'initiative]], [[Science du critique]] (morsure), [[Talent]] ([[Vol]]), [[Volonté de fer]], [[Vol stationnaire]]}
+{s:BDTexte|'''Compétences''' [[Acrobaties]] +24, [[Art de la magie]] +35, [[Connaissances]] (mystères, histoire, folklore local, noblesse, plans) +35, [[Diplomatie]] +35, [[Intimidation]] +35, [[Perception]] +35, [[Premiers secours]] +35, [[Psychologie]] +35, [[Vol]] +21}
+{s:BDTexte|'''Langues''' aérien, commun, draconique, elfique, géant, halfelin, nain, terreux}
+{s:BDTexte|'''Particularités''' changement de forme}
+</div>
+</td><td><div>''Les écailles de ce grand dragon élégant brillent comme de l’argent lustré et on dirait que sa queue est couverte de plumes.''
+
+Les dragons d’argent sont les plus
+courageux de tous les dragons. Ils
+respectent scrupuleusement un code
+chevaleresque requérant de défendre les
+faibles, de vaincre le Mal et de se comporter
+de manière honorable.
+
+<center>
+{| CLASS="tablo toutgauche"
+|+ Tableau des gains de capacités
+|- CLASS="titre"
+| Catégorie d'âge  || Capacités spéciales || NLS<sup>*</sup>
+|- CLASS="premier"
+| Dragonnet || changement de forme, immunité (acide), <br/>souffle paralysant, sous-type [[sous-type froid|froid]] || —
+|- CLASS="alt"
+| Très jeune || ''[[détection du Mal]]'', marche sur les nuages || —
+|-
+| Jeune || vol gracieux || 1
+|- CLASS="alt"
+| Adolescent || ''[[feuille morte]]'', vision malgré le brouillard || 3
+|-
+| Jeune adulte || [[RD]] 5/magie ; [[RM]] || 5
+|- CLASS="alt"
+| Adulte || ''[[nappe de brouillard]]'', [[présence terrifiante]] || 7
+|-
+| Âge mûr || [[RD]] 10/magie || 9
+|- CLASS="alt"
+| Vieux || aura de froid, ''[[contrôle des vents]]'' || 11
+|-
+| Très vieux || [[RD]] 15/magie || 13
+|- CLASS="alt"
+| Vénérable || ''[[contrôle du climat]]'', écailles réfléchissantes || 15
+|-
+| Dracosire || [[RD]] 20/magie || 17
+|- CLASS="alt"
+| Grand dracosire || ''[[inversion de la gravité]]'', vrai courage || 19
+|}
+</center>
+
+* Un dragon d'argent peut lancer des sorts divins comme s'il s'agissait de sorts profanes.
+</div></td></tr></table>
+]]></raw>
+  <fullName>Pathfinder-RPG.Dragon dargent</fullName>
+</wikiPage>

@@ -1,0 +1,119 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Nuée de crabes</title>
+  <categories><category>Pathfinder-RPG.Bestiaire</category><category>Pathfinder-RPG.Monstre</category><category>Pathfinder-RPG.Règles officielles</category></categories>
+  <lastModified>2013-02-02 18:59:41Z</lastModified>
+  <version>6</version>
+  <inLinks><link>Pathfinder-RPG.Glossaire des monstres</link><link>Pathfinder-RPG.Liste de monstres par FP</link><link>Pathfinder-RPG.Liste de monstres par milieu naturel</link><link>Pathfinder-RPG.Liste de monstres par type</link><link>Pathfinder-RPG.Monstres</link><link>Pathfinder-RPG.Peau de nuée</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.type Vermine</link><link>Pathfinder-RPG.sous-type aquatique</link><link>Pathfinder-RPG.sous-type nuée</link><link>Pathfinder-RPG.vision dans le noir</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.traits des nuées</link><link>Pathfinder-RPG.Distraction</link><link>Pathfinder-RPG.Natation</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Nu&#233;e de crabes&lt;div style=&quot;float:right;&quot;&gt;FP 4&lt;/div&gt;&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Bestiaire p.51&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 1.200
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Vermine.html&quot; title=&quot;Vermine&quot;&gt;Vermine&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Aquatique.html&quot; title=&quot;Aquatique (sous-type)&quot;&gt;aquatique&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Nu&#233;e.html&quot; title=&quot;Nu&#233;e (sous-type)&quot;&gt;nu&#233;e&lt;/a&gt;) de taille Min, N
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +2 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Capacit&#233;s-Sp&#233;ciales.html#VISIONDANSLENOIR&quot; title=&quot;vision dans le noir&quot;&gt;vision dans le noir&lt;/a&gt; 18 m (12 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +0
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 18, contact 16, pris au d&#233;pourvu 16 (Dex +2, naturelle +2, taille +4)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 38 (7d8+7)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +4, &lt;b&gt;Vig&lt;/b&gt; +6, &lt;b&gt;Vol&lt;/b&gt; +2
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Immunit&#233;s&lt;/b&gt; d&#233;g&#226;ts par armes, effets mentaux, &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Nu&#233;e.html#TRAITSNUEES&quot; title=&quot;traits des nu&#233;es&quot;&gt;traits des nu&#233;es&lt;/a&gt; 
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 9 m (6 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), nage 6 m (4 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; nu&#233;e (2d6)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Espace&lt;/b&gt; 3 m (2 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) ; &lt;b&gt;Allonge&lt;/b&gt; 0 m (0 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaques sp&#233;ciales&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Distraction-(Capacit&#233;).html&quot; title=&quot;Distraction&quot;&gt;distraction&lt;/a&gt; (DD 14)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 1, &lt;b&gt;Dex&lt;/b&gt; 14, &lt;b&gt;Con&lt;/b&gt; 13, &lt;b&gt;Int&lt;/b&gt; -, &lt;b&gt;Sag&lt;/b&gt; 10, &lt;b&gt;Cha&lt;/b&gt; 2
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +5, &lt;b&gt;BMO&lt;/b&gt; -, &lt;b&gt;DMD&lt;/b&gt; -
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Natation.html&quot; title=&quot;Natation&quot;&gt;Natation&lt;/a&gt; +10 ; &lt;b&gt;Modificateurs raciaux&lt;/b&gt; Utilise la Dex pour &lt;a class=&quot;pagelink&quot; href=&quot;Natation.html&quot; title=&quot;Natation&quot;&gt;Natation&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; milieu aquatique
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation sociale&lt;/b&gt; solitaire, couple, ou wave (3-8 swarms)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; aucun
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;td&gt;&lt;div&gt;&lt;i&gt;Une masse de carapaces qui cliquettent et de pinces qui claquent sort de l’eau, port&#233;e par des milliers de pattes qui s’agitent dans le sable.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Les nu&#233;es de crabes se composent de plus d’un millier de crabes
+de taille normale qui d&#233;ferlent vers leur victime et arrachent
+ses chairs gr&#226;ce &#224; autant de pinces griffues. Certains p&#234;cheurs
+pr&#233;tendent que ce sont le rythme
+des mar&#233;es et les phases de la
+lune qui d&#233;terminent quand
+les crabes se rassemblent de
+la sorte.
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Nuée de crabes|FP 4}
+{s:pucem|Vermine|Aquatique|Tempéré}
+{s:BDTexte|''Source : Bestiaire p.51''}
+{s:BDTexte|'''PX''' 1.200}
+{s:BDTexte|[[type Vermine|Vermine]] ([[sous-type aquatique|aquatique]], [[sous-type nuée|nuée]]) de taille Min, N}
+{s:BDTexte|'''Init''' +2 ; '''Sens''' [[vision dans le noir]] 18 m (12 {s:c}) ; [[Perception]] +0}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 18, contact 16, pris au dépourvu 16 (Dex +2, naturelle +2, taille +4)}
+{s:BDTexte|'''pv''' 38 (7d8+7)}
+{s:BDTexte|'''Réf''' +4, '''Vig''' +6, '''Vol''' +2}
+{s:BDTexte|'''Immunités''' dégâts par armes, effets mentaux, [[traits des nuées]] }
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 9 m (6 {s:c}), nage 6 m (4 {s:c})}
+{s:BDTexte|'''Corps à corps''' nuée (2d6)}
+{s:BDTexte|'''Espace''' 3 m (2 {s:c}) ; '''Allonge''' 0 m (0 {s:c})}
+{s:BDTexte|'''Attaques spéciales''' [[distraction]] (DD 14)}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 1, '''Dex''' 14, '''Con''' 13, '''Int''' -, '''Sag''' 10, '''Cha''' 2}
+{s:BDTexte|'''BBA''' +5, '''BMO''' -, '''DMD''' -}
+{s:BDTexte|'''Compétences''' [[Natation]] +10 ; '''Modificateurs raciaux''' Utilise la Dex pour [[Natation]]}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' milieu aquatique}
+{s:BDTexte|'''Organisation sociale''' solitaire, couple, ou wave (3-8 swarms)}
+{s:BDTexte|'''Trésor''' aucun}
+</div>
+</td><td><div>''Une masse de carapaces qui cliquettent et de pinces qui claquent sort de l’eau, portée par des milliers de pattes qui s’agitent dans le sable.''
+
+Les nuées de crabes se composent de plus d’un millier de crabes
+de taille normale qui déferlent vers leur victime et arrachent
+ses chairs grâce à autant de pinces griffues. Certains pêcheurs
+prétendent que ce sont le rythme
+des marées et les phases de la
+lune qui déterminent quand
+les crabes se rassemblent de
+la sorte.
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Nuée de crabes</fullName>
+</wikiPage>

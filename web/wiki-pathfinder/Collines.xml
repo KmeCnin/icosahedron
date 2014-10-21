@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Les collines</title>
+  <categories><category>Pathfinder-RPG.Maitre du jeu</category><category>Pathfinder-RPG.Manuel des joueurs</category><category>Pathfinder-RPG.Règles officielles</category></categories>
+  <lastModified>2014-09-07 22:02:53Z</lastModified>
+  <version>3</version>
+  <inLinks><link>Pathfinder-RPG.Aventures en extérieur</link><link>Pathfinder-RPG.élévation du sol</link><link>Pathfinder-RPG.MainPage</link><link>Pathfinder-RPG.Montagne</link><link>Pathfinder-RPG.Plaines</link><link>Pathfinder-RPG.temp-MainPage</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Acrobaties</link><link>Pathfinder-RPG.DD</link><link>Pathfinder-RPG.Équitation</link><link>Pathfinder-RPG.Escalade</link><link>Pathfinder-RPG.Discrétion</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.abri</link></outLinks>
+  <body><![CDATA[&lt;br /&gt;&lt;br /&gt;Les collines existent dans la plupart des types de terrains, mais il leur arrive &#233;galement de dominer les alentours. Ce milieu naturel est divis&#233; en deux groupes : les coteaux et les collines accident&#233;es. Il s’agit g&#233;n&#233;ralement d’une zone de transition entre un milieu accident&#233;, comme une montagne, et une plaine.&lt;br /&gt;&lt;br /&gt;&lt;div style=&quot;float:right; background-color: #fff; padding: 0 0 16px 16px&quot;&gt;
+&lt;div style=&quot;border: 1px solid #4b3124; padding: 4px&quot;&gt;
+&lt;center&gt;
+&lt;table CLASS=&quot;tablo&quot;&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td&gt;Cat&#233;gories de colline&lt;/td&gt;&lt;td&gt;Coteaux&lt;/td&gt;&lt;td&gt;Colline accident&#233;e&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier&quot;&gt;&lt;td&gt;Pente douce&lt;/td&gt;&lt;td&gt;75%&lt;/td&gt;&lt;td&gt;40%&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;Pente raide&lt;/td&gt;&lt;td&gt;20%&lt;/td&gt;&lt;td&gt;50%&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Broussailles l&#233;g&#232;res&lt;/td&gt;&lt;td&gt;5%&lt;/td&gt;&lt;td&gt;10%&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;Broussailles &#233;paisses&lt;/td&gt;&lt;td&gt;15%&lt;/td&gt;&lt;td&gt;15%&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/center&gt;
+&lt;/div/&gt;&lt;/div&gt;
+&lt;b&gt;Pente douce.&lt;/b&gt; Cette pente n’est pas assez raide pour affecter les d&#233;placements, mais les personnages situ&#233;s en amont b&#233;n&#233;ficient d’un bonus de +1 aux jets d’attaque au corps &#224; corps.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Pente raide.&lt;/b&gt; &lt;a name=&quot;PENTERAIDE&quot;&gt;&lt;/a&gt;Les personnages qui gravissent la colline (qui se d&#233;placent donc vers une case de plus haute altitude que la leur) doivent utiliser 2 cases de d&#233;placement pour entrer dans une case de pente raide. Les personnages qui la d&#233;valent en courant ou en chargeant (qui se d&#233;placent donc vers une case de plus faible altitude que la leur) doivent r&#233;ussir un test d’&lt;a class=&quot;pagelink&quot; href=&quot;Acrobaties.html&quot; title=&quot;Acrobaties&quot;&gt;Acrobaties&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DEGREDEDIFFICULTE&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; 10) en entrant dans la premi&#232;re case de pente raide. De leur c&#244;t&#233;, les personnages mont&#233;s doivent effectuer un test d’&lt;a class=&quot;pagelink&quot; href=&quot;&#201;quitation.html&quot; title=&quot;&#201;quitation&quot;&gt;&#201;quitation&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DEGREDEDIFFICULTE&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; 10). En cas d’&#233;chec, l’int&#233;ress&#233; tr&#233;buche et met un terme &#224; son d&#233;placement 1d2 x 1,50 m plus loin. Les personnages qui &#233;chouent de 5 points ou plus se retrouvent &#224; terre dans la case o&#249; leur d&#233;placement s’ach&#232;ve. Une pente raide augmente le &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DEGREDEDIFFICULTE&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; des tests d’&lt;a class=&quot;pagelink&quot; href=&quot;Acrobaties.html&quot; title=&quot;Acrobaties&quot;&gt;Acrobaties&lt;/a&gt; de 2 points.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;&#192;-pic.&lt;/b&gt; Pour gravir un &#224;-pic, il faut r&#233;ussir un test d’&lt;a class=&quot;pagelink&quot; href=&quot;Escalade.html&quot; title=&quot;Escalade&quot;&gt;Escalade&lt;/a&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DEGREDEDIFFICULTE&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; 15. Celui-ci fait g&#233;n&#233;ralement 1d4 x 3 m de haut, mais il peut &#234;tre plus haut. Un &#224;-pic n’est pas parfaitement vertical. Il occupe des cases de 1,50 m s’il fait moins de neuf m&#232;tres de haut, et des cases de 3 m dans le cas contraire.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Broussailles l&#233;g&#232;res.&lt;/b&gt; Les armoises et autres arbustes rabougris poussent sur les collines, mais ils les recouvrent rarement en int&#233;gralit&#233;, comme c’est le cas dans les for&#234;ts ou les mar&#233;cages. Les broussailles l&#233;g&#232;res offrent un camouflage et augmentent le &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DEGREDEDIFFICULTE&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; des tests d’&lt;a class=&quot;pagelink&quot; href=&quot;Acrobaties.html&quot; title=&quot;Acrobaties&quot;&gt;Acrobaties&lt;/a&gt; et de &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; de 2 points.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Autres &#233;l&#233;ments des collines.&lt;/b&gt; On trouve des arbres dans les collines. De leur c&#244;t&#233;, les vall&#233;es abritent souvent un cours d’eau (un m&#232;tre cinquante &#224; trois m&#232;tres de large pour un m&#232;tre cinquante de profondeur maximum) ou le lit ass&#233;ch&#233; d’une rivi&#232;re (tranch&#233;e d’un m&#232;tre cinquante &#224; trois m&#232;tres de large). N’oubliez pas qu’un cours d’eau coule toujours d’amont en aval.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Discr&#233;tion et D&#233;tection dans les collines.&lt;/b&gt; Sur une colline, les personnages peuvent utiliser leur &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; pour d&#233;tecter une pr&#233;sence &#224; 2d10 x 3 m au maximum. Cette distance passe &#224; 2d6 x 3 m dans les collines accident&#233;es.&lt;br /&gt;&lt;br /&gt;S’il n’y a pas de broussailles alentour, il est difficile de se cacher sur une colline. Le sommet ou la cr&#234;te d’une colline conf&#232;re un &lt;a class=&quot;pagelink&quot; href=&quot;Modificateurs-De-Combat.html#ABRI&quot; title=&quot;abri&quot;&gt;abri&lt;/a&gt; vis-&#224;-vis des cr&#233;atures situ&#233;es en aval.
+]]></body>
+  <raw><![CDATA[{s:MenuEnvironnement}
+
+Les collines existent dans la plupart des types de terrains, mais il leur arrive également de dominer les alentours. Ce milieu naturel est divisé en deux groupes : les coteaux et les collines accidentées. Il s’agit généralement d’une zone de transition entre un milieu accidenté, comme une montagne, et une plaine.
+
+<div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
+<div style="border: 1px solid #4b3124; padding: 4px">
+<center>
+{| CLASS="tablo"
+|- CLASS="titre"
+| Catégories de colline || Coteaux || Colline accidentée
+|- CLASS="premier"
+| Pente douce || 75% || 40%
+|- CLASS="alt"
+| Pente raide || 20% || 50%
+|-
+| Broussailles légères || 5% || 10%
+|- CLASS="alt"
+| Broussailles épaisses || 15% || 15%
+|}
+</center>
+</div/></div>
+'''Pente douce.''' Cette pente n’est pas assez raide pour affecter les déplacements, mais les personnages situés en amont bénéficient d’un bonus de +1 aux jets d’attaque au corps à corps.
+
+'''Pente raide.''' {s:REFERENCE|PENTERAIDE}Les personnages qui gravissent la colline (qui se déplacent donc vers une case de plus haute altitude que la leur) doivent utiliser 2 cases de déplacement pour entrer dans une case de pente raide. Les personnages qui la dévalent en courant ou en chargeant (qui se déplacent donc vers une case de plus faible altitude que la leur) doivent réussir un test d’[[Acrobaties]] ([[DD]] 10) en entrant dans la première case de pente raide. De leur côté, les personnages montés doivent effectuer un test d’[[Équitation]] ([[DD]] 10). En cas d’échec, l’intéressé trébuche et met un terme à son déplacement 1d2 x 1,50 m plus loin. Les personnages qui échouent de 5 points ou plus se retrouvent à terre dans la case où leur déplacement s’achève. Une pente raide augmente le [[DD]] des tests d’[[Acrobaties]] de 2 points.
+
+'''À-pic.''' Pour gravir un à-pic, il faut réussir un test d’[[Escalade]] [[DD]] 15. Celui-ci fait généralement 1d4 x 3 m de haut, mais il peut être plus haut. Un à-pic n’est pas parfaitement vertical. Il occupe des cases de 1,50 m s’il fait moins de neuf mètres de haut, et des cases de 3 m dans le cas contraire.
+
+'''Broussailles légères.''' Les armoises et autres arbustes rabougris poussent sur les collines, mais ils les recouvrent rarement en intégralité, comme c’est le cas dans les forêts ou les marécages. Les broussailles légères offrent un camouflage et augmentent le [[DD]] des tests d’[[Acrobaties]] et de [[Discrétion]] de 2 points.
+
+'''Autres éléments des collines.''' On trouve des arbres dans les collines. De leur côté, les vallées abritent souvent un cours d’eau (un mètre cinquante à trois mètres de large pour un mètre cinquante de profondeur maximum) ou le lit asséché d’une rivière (tranchée d’un mètre cinquante à trois mètres de large). N’oubliez pas qu’un cours d’eau coule toujours d’amont en aval.
+
+'''Discrétion et Détection dans les collines.''' Sur une colline, les personnages peuvent utiliser leur [[Perception]] pour détecter une présence à 2d10 x 3 m au maximum. Cette distance passe à 2d6 x 3 m dans les collines accidentées.
+
+S’il n’y a pas de broussailles alentour, il est difficile de se cacher sur une colline. Le sommet ou la crête d’une colline confère un [[abri]] vis-à-vis des créatures situées en aval.]]></raw>
+  <fullName>Pathfinder-RPG.Collines</fullName>
+</wikiPage>

@@ -1,0 +1,136 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Traqueur sans visage</title>
+  <categories><category>Pathfinder-RPG.Bestiaire 2</category><category>Pathfinder-RPG.Monstre</category><category>Pathfinder-RPG.Règles officielles</category></categories>
+  <lastModified>2013-02-06 20:23:17Z</lastModified>
+  <version>4</version>
+  <inLinks><link>Pathfinder-RPG.Glossaire des monstres</link><link>Pathfinder-RPG.Liste de monstres par FP</link><link>Pathfinder-RPG.Liste de monstres par milieu naturel</link><link>Pathfinder-RPG.Liste de monstres par type</link><link>Pathfinder-RPG.Monstres</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.type Aberration</link><link>Pathfinder-RPG.sous-type métamorphe</link><link>Pathfinder-RPG.vision dans le noir</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Étreinte</link><link>Pathfinder-RPG.absorption de sang (capacité)</link><link>Pathfinder-RPG.Roublard</link><link>Pathfinder-RPG.Don des langues</link><link>Pathfinder-RPG.Attaques réflexes</link><link>Pathfinder-RPG.Fourberie</link><link>Pathfinder-RPG.Science de linitiative</link><link>Pathfinder-RPG.Bluff</link><link>Pathfinder-RPG.Déguisement</link><link>Pathfinder-RPG.Discrétion</link><link>Pathfinder-RPG.Escamotage</link><link>Pathfinder-RPG.Évasion</link><link>Pathfinder-RPG.Changement de forme (capacité)</link><link>Pathfinder-RPG.Modification dapparence</link><link>Pathfinder-RPG.Compression (capacité)</link><link>Pathfinder-RPG.Aboleth</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Traqueur sans visage&lt;div style=&quot;float:right;&quot;&gt;FP 4&lt;/div&gt;&lt;/div&gt;&lt;br /&gt;&lt;ul&gt;&lt;li&gt;&lt;i&gt;Source : Bestiaire 2, p.275&lt;/i&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;PX&lt;/b&gt; 1 200&lt;/li&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Type-Aberration.html&quot; title=&quot;Aberration&quot;&gt;Aberration&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-M&#233;tamorphe.html&quot; title=&quot;M&#233;tamorphe (sous-type)&quot;&gt;m&#233;tamorphe&lt;/a&gt;) de taille M, CM&lt;/li&gt;&lt;li&gt;&lt;b&gt;Init&lt;/b&gt; +7 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Capacit&#233;s-Sp&#233;ciales.html#VISIONDANSLENOIR&quot; title=&quot;vision dans le noir&quot;&gt;vision dans le noir&lt;/a&gt; 18 m (12 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +2&lt;br /&gt;&lt;div class=&quot;box&quot;&gt;D&#233;fense&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;CA&lt;/b&gt; 17, contact 13, pris au d&#233;pourvu 14 (Dex +3, naturelle +4)&lt;/li&gt;&lt;li&gt;&lt;b&gt;pv&lt;/b&gt; 42 (5d8+20)&lt;/li&gt;&lt;li&gt;&lt;b&gt;R&#233;f&lt;/b&gt; +4, &lt;b&gt;Vig&lt;/b&gt; +5, &lt;b&gt;Vol&lt;/b&gt; +6&lt;/li&gt;&lt;li&gt;&lt;b&gt;RD&lt;/b&gt; 5/perforant ou tranchant&lt;br /&gt;&lt;div class=&quot;box&quot;&gt;Attaque&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;VD&lt;/b&gt; 9 m (6 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)&lt;/li&gt;&lt;li&gt;&lt;b&gt;Corps &#224; corps&lt;/b&gt; &#233;p&#233;e longue de ma&#238;tre, +8 (1d8+4/19–20) et coup, +2 (1d6+2 plus &lt;a class=&quot;pagelink&quot; href=&quot;&#201;treinte-(Capacit&#233;).html&quot; title=&quot;&#201;treinte&quot;&gt;&#233;treinte&lt;/a&gt;)&lt;/li&gt;&lt;li&gt;&lt;b&gt;Espace&lt;/b&gt; 1,50 m (1 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) ; &lt;b&gt;Allonge&lt;/b&gt; 3 m (2 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)&lt;/li&gt;&lt;li&gt;&lt;b&gt;Attaques sp&#233;ciales&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Absorption-De-Sang-(Capacit&#233;).html&quot; title=&quot;Absorption de sang (Ext)&quot;&gt;absorption de sang&lt;/a&gt; (1 Constitution), &lt;a class=&quot;pagelink&quot; href=&quot;Roublard.html#ATTAQUESOURNOISE&quot; title=&quot;Le roublard&quot;&gt;attaque sournoise&lt;/a&gt; +2d6&lt;/li&gt;&lt;li&gt;&lt;b&gt;Pouvoirs magiques&lt;/b&gt; (NLS 5 ; concentration +8)&lt;ul&gt;&lt;li&gt;Constant — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Don-Des-Langues.html&quot; title=&quot;Don des langues&quot;&gt;don des langues&lt;/a&gt;&lt;/i&gt;&lt;br /&gt;&lt;div class=&quot;box&quot;&gt;Statistiques&lt;/div&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;For&lt;/b&gt; 18, &lt;b&gt;Dex&lt;/b&gt; 17, &lt;b&gt;Con&lt;/b&gt; 18, &lt;b&gt;Int&lt;/b&gt; 13, &lt;b&gt;Sag&lt;/b&gt; 15, &lt;b&gt;Cha&lt;/b&gt; 16&lt;/li&gt;&lt;li&gt;&lt;b&gt;BBA&lt;/b&gt; +3 ; &lt;b&gt;BMO&lt;/b&gt; +7 (+11 lutte) ; &lt;b&gt;DMD&lt;/b&gt; 20&lt;/li&gt;&lt;li&gt;&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Attaques-R&#233;flexes.html&quot; title=&quot;Attaques r&#233;flexes&quot;&gt;Attaques r&#233;flexes&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Fourberie.html&quot; title=&quot;Fourberie&quot;&gt;Fourberie&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Science-De-Linitiative.html&quot; title=&quot;Science de l&amp;#39;initiative&quot;&gt;Science de l’initiative&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Bluff.html&quot; title=&quot;Bluff&quot;&gt;Bluff&lt;/a&gt; +10, &lt;a class=&quot;pagelink&quot; href=&quot;D&#233;guisement.html&quot; title=&quot;D&#233;guisement&quot;&gt;D&#233;guisement&lt;/a&gt; +14 (+24 avec changement de forme), &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; +11, &lt;a class=&quot;pagelink&quot; href=&quot;Escamotage.html&quot; title=&quot;Escamotage&quot;&gt;Escamotage&lt;/a&gt; +8, &lt;a class=&quot;pagelink&quot; href=&quot;&#201;vasion.html&quot; title=&quot;&#201;vasion&quot;&gt;&#201;vasion&lt;/a&gt; +19 ; &lt;b&gt;Modificateurs raciaux&lt;/b&gt; +4 en &lt;a class=&quot;pagelink&quot; href=&quot;D&#233;guisement.html&quot; title=&quot;D&#233;guisement&quot;&gt;D&#233;guisement&lt;/a&gt;, +8 en &lt;a class=&quot;pagelink&quot; href=&quot;&#201;vasion.html&quot; title=&quot;&#201;vasion&quot;&gt;&#201;vasion&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;Langues&lt;/b&gt; aquatique, commun ; &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Don-Des-Langues.html&quot; title=&quot;Don des langues&quot;&gt;don des langues&lt;/a&gt;&lt;/i&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;Particularit&#233;s&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Changement-De-Forme-(Capacit&#233;).html&quot; title=&quot;Changement de forme (Sur)&quot;&gt;changement de forme&lt;/a&gt; (humano&#239;de de taille M, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Modification-Dapparence.html&quot; title=&quot;Modification d&amp;#39;apparence&quot;&gt;modification d’apparence&lt;/a&gt;&lt;/i&gt;), &lt;a class=&quot;pagelink&quot; href=&quot;Compression-(Capacit&#233;).html&quot; title=&quot;Compression (Ext)&quot;&gt;compression&lt;/a&gt;, sans visage&lt;br /&gt;&lt;div class=&quot;box&quot;&gt;&#201;cologie&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;Environnement&lt;/b&gt; mar&#233;cages ou sous terre&lt;/li&gt;&lt;li&gt;&lt;b&gt;Organisation sociale&lt;/b&gt; solitaire, couple ou bande (3–9)&lt;/li&gt;&lt;li&gt;&lt;b&gt;Tr&#233;sor&lt;/b&gt; standard (&#233;p&#233;e longue de ma&#238;tre , autres tr&#233;sors)&lt;br /&gt;&lt;div class=&quot;box&quot;&gt;Pouvoirs sp&#233;ciaux&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;Changement de la forme (Sur).&lt;/b&gt; Un traqueur sans visage peut prendre la forme d’un humano&#239;de de taille M &#224; volont&#233;, mais il lui faut 10 minutes de travail ininterrompu pour modifier son corps. La transformation est l&#233;g&#232;rement douloureuse, mais le traqueur sans visage peut conserver la nouvelle forme qu’il a adopt&#233;e aussi longtemps qu’il le d&#233;sire. Il peut revenir &#224; sa forme v&#233;ritable par une action rapide ; apr&#232;s cette transformation inverse, il gagne un bonus de moral de +2 aux jets d’attaque, jets de d&#233;g&#226;ts, tests de comp&#233;tence et jets de sauvegarde pendant 1 round. Les traqueurs sans visage conservent leurs propres capacit&#233;s quand ils prennent une nouvelle forme et n’acqui&#232;rent aucune des capacit&#233;s de la cr&#233;ature imit&#233;e. Ils b&#233;n&#233;ficient d’un bonus de +10 aux tests de &lt;a class=&quot;pagelink&quot; href=&quot;D&#233;guisement.html&quot; title=&quot;D&#233;guisement&quot;&gt;D&#233;guisement&lt;/a&gt; relatifs &#224; l’utilisation de cette capacit&#233;.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Sans visage (Sur).&lt;/b&gt; Sous sa v&#233;ritable forme, un traqueur sans visage ne poss&#232;de aucune caract&#233;ristique faciale reconnaissable. Il gagne un bonus de +4 aux jets de sauvegarde permettant de r&#233;sister aux attaques ou aux effets qui ciblent les sens. Cela inclut les attaques du regard, les attaques bas&#233;es sur l’odorat, les attaques de son et les attaques du m&#234;me type. Ce bonus ne s’applique pas aux illusions.&lt;br /&gt;&lt;/li&gt;&lt;/ul&gt;&lt;br /&gt;&lt;/div&gt;
+&lt;/td&gt;&lt;td&gt;&lt;div&gt;&lt;i&gt;Le visage de ce bip&#232;de glabre &#224; la peau &#233;paisse est d&#233;nu&#233; de v&#233;ritables caract&#233;ristiques faciales mais recouvert de spirales et de fentes.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Les ugothols (c’est ainsi que les traqueurs sans visage s’appellent)
+sont l’un des nombreux outils que les &lt;a class=&quot;pagelink&quot; href=&quot;Aboleth.html&quot; title=&quot;Aboleth&quot;&gt;aboleths&lt;/a&gt; ont cr&#233;&#233;s puis
+abandonn&#233;s au cours de la longue guerre qu’ils ont men&#233;e
+contre les habitants de la surface. M&#233;pris&#233;s par leurs anciens
+ma&#238;tres depuis que le plan pour lequel ils avaient &#233;t&#233; con&#231;us a
+&#233;t&#233; d&#233;couvert, les traqueurs sans visage ont fui vers les marais, les
+mar&#233;cages et les endroits humides et sombres, choisissant parmi
+les r&#233;gions qu’ils d&#233;couvraient celles qui ressemblaient le plus aux
+cit&#233;s aquatiques o&#249; ils vivaient avant leur exode.&lt;br /&gt;&lt;br /&gt;Les traqueurs sans visage ont &#233;t&#233; con&#231;us pour servir d’espions
+capables de s’infiltrer facilement au sein des races de la surface.
+Ils peuvent adopter de nouvelles formes en remodelant leur
+peau et en contorsionnant leur corps &#233;lastique. Ce processus
+douloureux n&#233;cessite &#224; peu pr&#232;s 10 minutes de travail
+ininterrompu : un ugothol cherche g&#233;n&#233;ralement
+un endroit discret pour le faire, &#224; l’abri des
+regards, m&#234;me de ceux des autres ugothols.
+La sensation qu’ils &#233;prouvent en reprenant
+leur forme naturelle est plut&#244;t grisante et
+entra&#238;ne une courte euphorie.&lt;br /&gt;&lt;br /&gt;Les traqueurs sans visage ne peuvent pas
+dig&#233;rer la nourriture solide, m&#234;me lorsqu’ils
+adoptent la forme d’une cr&#233;ature dot&#233;e d’une
+bouche. Ils se sustentent plut&#244;t en ing&#233;rant
+des liquides, notamment du sang. Sous leur
+forme naturelle, ils poss&#232;dent trois langues
+creuses qu’ils enfoncent dans leurs victimes pour
+pouvoir laper son sang. Comme ils ne disposent
+d’aucun moyen sp&#233;cial pour agripper leurs
+proies, les ugothols attendent g&#233;n&#233;ralement
+qu’elles soient sans d&#233;fense ou endormies
+avant de tenter de se repa&#238;tre de leur sang.
+Ils pr&#233;f&#232;rent cependant les situations
+o&#249; la victime est sans d&#233;fense
+mais consciente tout au long
+du processus, ce qui leur
+permet de &#171; jouer avec leur
+nourriture &#187; en &#233;changeant
+avec elle quelques
+paroles sinistres et
+cruelles.
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Traqueur sans visage|FP 4}
+{s:pucem|Aberration|Souterrain|Tempéré}
+* ''Source : Bestiaire 2, p.275''
+* '''PX''' 1 200
+* [[type Aberration|Aberration]] ([[sous-type métamorphe|métamorphe]]) de taille M, CM
+* '''Init''' +7 ; '''Sens''' [[vision dans le noir]] 18 m (12 {s:c}) ; [[Perception]] +2
+(((Défense)))
+* '''CA''' 17, contact 13, pris au dépourvu 14 (Dex +3, naturelle +4)
+* '''pv''' 42 (5d8+20)
+* '''Réf''' +4, '''Vig''' +5, '''Vol''' +6
+* '''RD''' 5/perforant ou tranchant
+(((Attaque)))
+* '''VD''' 9 m (6 {s:c})
+* '''Corps à corps''' épée longue de maître, +8 (1d8+4/19–20) et coup, +2 (1d6+2 plus [[étreinte]])
+* '''Espace''' 1,50 m (1 {s:c}) ; '''Allonge''' 3 m (2 {s:c})
+* '''Attaques spéciales''' [[absorption de sang (capacité)|absorption de sang]] (1 Constitution), [[roublard#ATTAQUESOURNOISE|attaque sournoise]] +2d6
+* '''Pouvoirs magiques''' (NLS 5 ; concentration +8)
+** Constant — ''[[don des langues]]''
+(((Statistiques)))
+* '''For''' 18, '''Dex''' 17, '''Con''' 18, '''Int''' 13, '''Sag''' 15, '''Cha''' 16
+* '''BBA''' +3 ; '''BMO''' +7 (+11 lutte) ; '''DMD''' 20
+* '''Dons''' [[Attaques réflexes]], [[Fourberie]], [[Science de linitiative|Science de l’initiative]]
+* '''Compétences''' [[Bluff]] +10, [[Déguisement]] +14 (+24 avec changement de forme), [[Discrétion]] +11, [[Escamotage]] +8, [[Évasion]] +19 ; '''Modificateurs raciaux''' +4 en [[Déguisement]], +8 en [[Évasion]]
+* '''Langues''' aquatique, commun ; ''[[don des langues]]''
+* '''Particularités''' [[changement de forme (capacité)|changement de forme]] (humanoïde de taille M, ''[[modification dapparence|modification d’apparence]]''), [[compression (capacité)|compression]], sans visage
+(((Écologie)))
+* '''Environnement''' marécages ou sous terre
+* '''Organisation sociale''' solitaire, couple ou bande (3–9)
+* '''Trésor''' standard (épée longue de maître , autres trésors)
+(((Pouvoirs spéciaux)))
+* '''Changement de la forme (Sur).''' Un traqueur sans visage peut prendre la forme d’un humanoïde de taille M à volonté, mais il lui faut 10 minutes de travail ininterrompu pour modifier son corps. La transformation est légèrement douloureuse, mais le traqueur sans visage peut conserver la nouvelle forme qu’il a adoptée aussi longtemps qu’il le désire. Il peut revenir à sa forme véritable par une action rapide ; après cette transformation inverse, il gagne un bonus de moral de +2 aux jets d’attaque, jets de dégâts, tests de compétence et jets de sauvegarde pendant 1 round. Les traqueurs sans visage conservent leurs propres capacités quand ils prennent une nouvelle forme et n’acquièrent aucune des capacités de la créature imitée. Ils bénéficient d’un bonus de +10 aux tests de [[Déguisement]] relatifs à l’utilisation de cette capacité.
+* '''Sans visage (Sur).''' Sous sa véritable forme, un traqueur sans visage ne possède aucune caractéristique faciale reconnaissable. Il gagne un bonus de +4 aux jets de sauvegarde permettant de résister aux attaques ou aux effets qui ciblent les sens. Cela inclut les attaques du regard, les attaques basées sur l’odorat, les attaques de son et les attaques du même type. Ce bonus ne s’applique pas aux illusions.
+
+</div>
+</td><td><div>''Le visage de ce bipède glabre à la peau épaisse est dénué de véritables caractéristiques faciales mais recouvert de spirales et de fentes.''
+
+Les ugothols (c’est ainsi que les traqueurs sans visage s’appellent)
+sont l’un des nombreux outils que les [[aboleth|aboleths]] ont créés puis
+abandonnés au cours de la longue guerre qu’ils ont menée
+contre les habitants de la surface. Méprisés par leurs anciens
+maîtres depuis que le plan pour lequel ils avaient été conçus a
+été découvert, les traqueurs sans visage ont fui vers les marais, les
+marécages et les endroits humides et sombres, choisissant parmi
+les régions qu’ils découvraient celles qui ressemblaient le plus aux
+cités aquatiques où ils vivaient avant leur exode.
+
+Les traqueurs sans visage ont été conçus pour servir d’espions
+capables de s’infiltrer facilement au sein des races de la surface.
+Ils peuvent adopter de nouvelles formes en remodelant leur
+peau et en contorsionnant leur corps élastique. Ce processus
+douloureux nécessite à peu près 10 minutes de travail
+ininterrompu : un ugothol cherche généralement
+un endroit discret pour le faire, à l’abri des
+regards, même de ceux des autres ugothols.
+La sensation qu’ils éprouvent en reprenant
+leur forme naturelle est plutôt grisante et
+entraîne une courte euphorie.
+
+Les traqueurs sans visage ne peuvent pas
+digérer la nourriture solide, même lorsqu’ils
+adoptent la forme d’une créature dotée d’une
+bouche. Ils se sustentent plutôt en ingérant
+des liquides, notamment du sang. Sous leur
+forme naturelle, ils possèdent trois langues
+creuses qu’ils enfoncent dans leurs victimes pour
+pouvoir laper son sang. Comme ils ne disposent
+d’aucun moyen spécial pour agripper leurs
+proies, les ugothols attendent généralement
+qu’elles soient sans défense ou endormies
+avant de tenter de se repaître de leur sang.
+Ils préfèrent cependant les situations
+où la victime est sans défense
+mais consciente tout au long
+du processus, ce qui leur
+permet de « jouer avec leur
+nourriture » en échangeant
+avec elle quelques
+paroles sinistres et
+cruelles.
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Traqueur sans visage</fullName>
+</wikiPage>

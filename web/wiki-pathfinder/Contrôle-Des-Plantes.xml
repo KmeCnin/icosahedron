@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Contrôle des plantes</title>
+  <categories><category>Pathfinder-RPG.Manuel des joueurs</category><category>Pathfinder-RPG.Règles officielles</category><category>Pathfinder-RPG.Sort</category><category>Pathfinder-RPG.Sort druide 8</category></categories>
+  <lastModified>2012-11-01 20:23:58Z</lastModified>
+  <version>2</version>
+  <inLinks><link>Pathfinder-RPG.Bois (école)</link><link>Pathfinder-RPG.Domaine de la Flore</link><link>Pathfinder-RPG.Évasion</link><link>Pathfinder-RPG.Glossaire des sorts</link><link>Pathfinder-RPG.Jinushigami</link><link>Pathfinder-RPG.Liste des sorts</link><link>Pathfinder-RPG.Liste des sorts de druides</link><link>Pathfinder-RPG.Liste des sorts délémentaliste</link><link>Pathfinder-RPG.Liste des sorts délémentaliste temporaire</link><link>Pathfinder-RPG.Sorcière liée (sorcière)</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Transmutation</link><link>Pathfinder-RPG.Druide</link><link>Pathfinder-RPG.Action simple</link><link>Pathfinder-RPG.composantes</link><link>Pathfinder-RPG.niveau</link><link>Pathfinder-RPG.Volonté</link><link>Pathfinder-RPG.Présentation des sorts</link><link>Pathfinder-RPG.type Plante</link><link>Pathfinder-RPG.zone deffet</link><link>Pathfinder-RPG.Silence</link></outLinks>
+  <body><![CDATA[&lt;b&gt;&#201;cole&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#TRANSMUTATION&quot; title=&quot;Transmutation&quot;&gt;Transmutation&lt;/a&gt; ; &lt;b&gt;Niveau&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Druide.html&quot; title=&quot;Le druide&quot;&gt;Dru&lt;/a&gt; 8&lt;br/&gt;
+&lt;b&gt;Temps d&#39;incantation&lt;/b&gt; 1 &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions.html#SIMPLE&quot; title=&quot;Action simple&quot;&gt;action simple&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Composantes&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#COMPOSANTES&quot; title=&quot;composantes&quot;&gt;V, G, FD&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Port&#233;e&lt;/b&gt; courte (7,50 m + 1,50 m/2 &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#NIVEAU&quot; title=&quot;niveau&quot;&gt;niveaux&lt;/a&gt;) (5 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt; + 1 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;/2 &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#NIVEAU&quot; title=&quot;niveau&quot;&gt;niveaux&lt;/a&gt;)&lt;br/&gt;
+&lt;b&gt;Cibles&lt;/b&gt; jusqu’&#224; 2 DV de cr&#233;atures v&#233;g&#233;tales/&lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#NIVEAU&quot; title=&quot;niveau&quot;&gt;niveau&lt;/a&gt;, distantes de moins de 9 m (6 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) les unes des autres&lt;br/&gt;
+&lt;b&gt;Dur&#233;e&lt;/b&gt; 1 minute/&lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#NIVEAU&quot; title=&quot;niveau&quot;&gt;niveau&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Jet de sauvegarde&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;Volont&#233;&quot;&gt;Volont&#233;&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#JETSDESAUVEGARDE&quot; title=&quot;Pr&#233;sentation des sorts&quot;&gt;annule&lt;/a&gt; ; &lt;b&gt;R&#233;sistance &#224; la magie&lt;/b&gt; non&lt;br /&gt;&lt;br /&gt;Ce sort permet d’exercer un contr&#244;le sur les actions de &lt;a class=&quot;pagelink&quot; href=&quot;Type-Plante.html&quot; title=&quot;Plante&quot;&gt;cr&#233;atures v&#233;g&#233;tales&lt;/a&gt;. Le personnage leur donne des ordres de vive voix et celles-ci les comprennent, quelle que soit la langue parl&#233;e. Si toute forme de communication vocale est impossible (dans la &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#ZONEDEFFET&quot; title=&quot;zone deffet&quot;&gt;zone d’effet&lt;/a&gt; d’un sort de &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Silence.html&quot; title=&quot;Silence&quot;&gt;silence&lt;/a&gt;&lt;/i&gt;, par exemple), les &lt;a class=&quot;pagelink&quot; href=&quot;Type-Plante.html&quot; title=&quot;Plante&quot;&gt;plantes&lt;/a&gt; contr&#244;l&#233;es n’agressent pas le personnage. Au terme du sort, les sujets retrouvent leur comportement habituel.&lt;br /&gt;&lt;br /&gt;Les ordres suicidaires ou destructeurs sont tout simplement ignor&#233;s.
+]]></body>
+  <raw><![CDATA['''École''' [[Transmutation]] ; '''Niveau''' [[druide|Dru]] 8<br/>
+'''Temps d'incantation''' 1 [[action simple]]<br/>
+'''Composantes''' [[composantes|V, G, FD]]<br/>
+'''Portée''' courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])<br/>
+'''Cibles''' jusqu’à 2 DV de créatures végétales/[[niveau]], distantes de moins de 9 m (6 {s:c}) les unes des autres<br/>
+'''Durée''' 1 minute/[[niveau]]<br/>
+'''Jet de sauvegarde''' [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; '''Résistance à la magie''' non
+
+Ce sort permet d’exercer un contrôle sur les actions de [[type plante|créatures végétales]]. Le personnage leur donne des ordres de vive voix et celles-ci les comprennent, quelle que soit la langue parlée. Si toute forme de communication vocale est impossible (dans la [[zone deffet|zone d’effet]] d’un sort de ''[[silence]]'', par exemple), les [[type plante|plantes]] contrôlées n’agressent pas le personnage. Au terme du sort, les sujets retrouvent leur comportement habituel.
+
+Les ordres suicidaires ou destructeurs sont tout simplement ignorés.
+]]></raw>
+  <fullName>Pathfinder-RPG.Contrôle des plantes</fullName>
+</wikiPage>

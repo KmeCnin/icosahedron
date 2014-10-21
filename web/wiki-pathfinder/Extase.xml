@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Extase</title>
+  <categories></categories>
+  <lastModified>2013-10-03 22:57:54Z</lastModified>
+  <version>2</version>
+  <inLinks><link>Pathfinder-RPG.AdM-sorts-classe-temporaire</link><link>Pathfinder-RPG.Glossaire des sorts</link><link>Pathfinder-RPG.Liste des sorts (suite)</link><link>Pathfinder-RPG.Liste des sorts de bardes</link><link>Pathfinder-RPG.Liste des sorts de prêtres</link><link>Pathfinder-RPG.Liste des sorts densorceleursmagiciens</link><link>Pathfinder-RPG.Liste des sorts par registre</link><link>Pathfinder-RPG.sorts-temporaires</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Invocation</link><link>Pathfinder-RPG.guérison</link><link>Pathfinder-RPG.Registre</link><link>Pathfinder-RPG.Barde</link><link>Pathfinder-RPG.Ensorceleur</link><link>Pathfinder-RPG.Magicien</link><link>Pathfinder-RPG.Prêtre</link><link>Pathfinder-RPG.Action simple</link><link>Pathfinder-RPG.composantes</link><link>Pathfinder-RPG.instantanée</link><link>Pathfinder-RPG.Intelligence</link><link>Pathfinder-RPG.Sagesse</link><link>Pathfinder-RPG.Charisme</link></outLinks>
+  <body><![CDATA[
+&lt;b&gt;&#201;cole&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#INVOCATION&quot; title=&quot;Invocation&quot;&gt;invocation&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#GUERISON&quot; title=&quot;gu&#233;rison&quot;&gt;gu&#233;rison&lt;/a&gt;) [&lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;er-Un-Sort.html#REGISTRE&quot; title=&quot;Registre&quot;&gt;&#233;motion&lt;/a&gt;] ; &lt;b&gt;Niveau&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Barde.html&quot; title=&quot;Le barde&quot;&gt;barde&lt;/a&gt; 5, &lt;a class=&quot;pagelink&quot; href=&quot;Ensorceleur.html&quot; title=&quot;L&amp;#39;ensorceleur&quot;&gt;ensorceleur&lt;/a&gt;/&lt;a class=&quot;pagelink&quot; href=&quot;Magicien.html&quot; title=&quot;Le magicien&quot;&gt;magicien&lt;/a&gt; 7, &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#234;tre.html&quot; title=&quot;Le pr&#234;tre&quot;&gt;pr&#234;tre&lt;/a&gt; 6&lt;br/&gt;
+&lt;b&gt;Temps d’incantation&lt;/b&gt; 1 &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions.html#SIMPLE&quot; title=&quot;Action simple&quot;&gt;action simple&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Composantes&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#COMPOSANTES&quot; title=&quot;composantes&quot;&gt;V, G&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Port&#233;e&lt;/b&gt; 18 m&#232;tres (12 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)&lt;br/&gt;
+&lt;b&gt;Zone&lt;/b&gt; tous les alli&#233;s et ennemis situ&#233;s dans un rayon de 18 m (12 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) centr&#233; sur le personnage&lt;br/&gt;
+&lt;b&gt;Dur&#233;e&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#DUREE&quot; title=&quot;instantan&#233;e&quot;&gt;instantan&#233;e&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Jet de sauvegarde&lt;/b&gt; non; &lt;b&gt;R&#233;sistance &#224; la magie&lt;/b&gt; oui&lt;br /&gt;&lt;br /&gt;Les paroles inspir&#233;es du personnage plongent les autres dans un &#233;tat de b&#233;atitude transcendantale. Tous les alli&#233;s dans la zone d&#39;effet se lib&#232;rent de tout effet d&#39;&#233;motion n&#233;faste. Le sort soigne &#233;galement 1d4 points d&#39;affaiblissement d&#39;&lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#INTELLIGENCE&quot; title=&quot;L&amp;#39;Intelligence&quot;&gt;intelligence&lt;/a&gt;, de &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#SAGESSE&quot; title=&quot;La Sagesse&quot;&gt;sagesse&lt;/a&gt; ou de &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#CHARISME&quot; title=&quot;Le Charisme&quot;&gt;charisme&lt;/a&gt; (au choix du personnage) pour tous les alli&#233;s situ&#233;s dans la zone.
+]]></body>
+  <raw><![CDATA[{s:UM}
+'''École''' [[invocation]] ([[guérison]]) <nowiki>[</nowiki>[[registre|émotion]]<nowiki>]</nowiki> ; '''Niveau''' [[barde]] 5, [[ensorceleur]]/[[magicien]] 7, [[prêtre]] 6<br/>
+'''Temps d’incantation''' 1 [[action simple]]<br/>
+'''Composantes''' [[Composantes|V, G]]<br/>
+'''Portée''' 18 mètres (12 {s:c})<br/>
+'''Zone''' tous les alliés et ennemis situés dans un rayon de 18 m (12 {s:c}) centré sur le personnage<br/>
+'''Durée''' [[instantanée]]<br/>
+'''Jet de sauvegarde''' non; '''Résistance à la magie''' oui
+
+Les paroles inspirées du personnage plongent les autres dans un état de béatitude transcendantale. Tous les alliés dans la zone d'effet se libèrent de tout effet d'émotion néfaste. Le sort soigne également 1d4 points d'affaiblissement d'[[intelligence]], de [[sagesse]] ou de [[charisme]] (au choix du personnage) pour tous les alliés situés dans la zone.]]></raw>
+  <fullName>Pathfinder-RPG.Extase</fullName>
+</wikiPage>

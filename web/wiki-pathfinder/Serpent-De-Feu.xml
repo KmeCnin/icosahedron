@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Serpent de feu</title>
+  <categories><category>Pathfinder-RPG.Advanced Player Guide</category><category>Pathfinder-RPG.Règles officielles</category><category>Pathfinder-RPG.Sort</category><category>Pathfinder-RPG.Sort druide 5</category><category>Pathfinder-RPG.Sort magicien 5</category></categories>
+  <lastModified>2012-11-04 22:00:29Z</lastModified>
+  <version>1</version>
+  <inLinks><link>Pathfinder-RPG.AdM-sorts-classe-temporaire</link><link>Pathfinder-RPG.Glossaire des sorts</link><link>Pathfinder-RPG.Grimoires</link><link>Pathfinder-RPG.Liste des sorts (fin)</link><link>Pathfinder-RPG.Liste des sorts de druides</link><link>Pathfinder-RPG.Liste des sorts de magus</link><link>Pathfinder-RPG.Liste des sorts délémentaliste</link><link>Pathfinder-RPG.Liste des sorts délémentaliste temporaire</link><link>Pathfinder-RPG.Liste des sorts densorceleursmagiciens</link><link>Pathfinder-RPG.Liste des sorts par registre</link><link>Pathfinder-RPG.protecteurs</link><link>Pathfinder-RPG.Thèmes de protecteurs</link><link>Pathfinder-RPG.TMP sorts APG</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Évocation</link><link>Pathfinder-RPG.Registre</link><link>Pathfinder-RPG.Druide</link><link>Pathfinder-RPG.Ensorceleur</link><link>Pathfinder-RPG.Magicien</link><link>Pathfinder-RPG.Action simple</link><link>Pathfinder-RPG.composantes</link><link>Pathfinder-RPG.instantanée</link><link>Pathfinder-RPG.Réflexes</link><link>Pathfinder-RPG.Présentation des sorts</link><link>Pathfinder-RPG.NLS</link></outLinks>
+  <body><![CDATA[
+&lt;b&gt;&#201;cole&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#EVOCATION&quot; title=&quot;&#201;vocation&quot;&gt;&#201;vocation&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;er-Un-Sort.html#REGISTRE&quot; title=&quot;Registre&quot;&gt;feu&lt;/a&gt;)&#160;; &lt;b&gt;Niveau&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Druide.html&quot; title=&quot;Le druide&quot;&gt;druide&lt;/a&gt; 5, &lt;a class=&quot;pagelink&quot; href=&quot;Ensorceleur.html&quot; title=&quot;L&amp;#39;ensorceleur&quot;&gt;ensorceleur&lt;/a&gt;/&lt;a class=&quot;pagelink&quot; href=&quot;Magicien.html&quot; title=&quot;Le magicien&quot;&gt;magicien&lt;/a&gt; 5&lt;br/&gt;
+&lt;b&gt;Temps d&#39;incantation&lt;/b&gt; 1 &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions.html#SIMPLE&quot; title=&quot;Action simple&quot;&gt;action simple&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Composantes&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#COMPOSANTES&quot; title=&quot;composantes&quot;&gt;V, G, M&lt;/a&gt; (une &#233;caille de serpent)&lt;br/&gt;
+&lt;b&gt;Port&#233;e&lt;/b&gt; 18 m (12 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)&lt;br/&gt;
+&lt;b&gt;Zone&lt;/b&gt; voir texte&lt;br/&gt;
+&lt;b&gt;Dur&#233;e&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#DUREE&quot; title=&quot;instantan&#233;e&quot;&gt;instantan&#233;e&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Jet de sauvegarde&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;R&#233;flexes&quot;&gt;R&#233;flexes&lt;/a&gt; pour &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#JETSDESAUVEGARDE&quot; title=&quot;Pr&#233;sentation des sorts&quot;&gt;r&#233;duire de moiti&#233;&lt;/a&gt; ; &lt;b&gt;R&#233;sistance &#224; la magie&lt;/b&gt; oui&lt;br /&gt;&lt;br /&gt;Le personnage cr&#233;e une ligne de flammes sinueuse qu&#39;il peut fa&#231;onner comme bon lui semble. Le &lt;i&gt;serpent de feu&lt;/i&gt; affecte une case de 1,50 m&#232;tre de (1 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) c&#244;t&#233; par &lt;a class=&quot;pagelink&quot; href=&quot;Lancer-Des-Sorts.html#NLS&quot; title=&quot;NLS&quot;&gt;niveau de lanceur de sorts&lt;/a&gt; et chaque case doit &#234;tre adjacente &#224; la pr&#233;c&#233;dente, en commen&#231;ant au niveau du personnage. Le &lt;i&gt;serpent de feu&lt;/i&gt; ne peut pas s&#39;&#233;tendre au-del&#224; de la port&#233;e maximale du sort. Toute cr&#233;ature qui se trouve sur le chemin du serpent subit 1d6 points de d&#233;g&#226;ts de feu par &lt;a class=&quot;pagelink&quot; href=&quot;Lancer-Des-Sorts.html#NLS&quot; title=&quot;NLS&quot;&gt;niveau de lanceur de sorts&lt;/a&gt; (15d6 au maximum).
+]]></body>
+  <raw><![CDATA[{s:APG}
+'''École''' [[Évocation]] ([[registre|feu]]) ; '''Niveau''' [[druide]] 5, [[ensorceleur]]/[[magicien]] 5<br/>
+'''Temps d'incantation''' 1 [[action simple]]<br/>
+'''Composantes''' [[Composantes|V, G, M]] (une écaille de serpent)<br/>
+'''Portée''' 18 m (12 {s:c})<br/>
+'''Zone''' voir texte<br/>
+'''Durée''' [[instantanée]]<br/>
+'''Jet de sauvegarde''' [[Réflexes]] pour [[Présentation des sorts#JETSDESAUVEGARDE|réduire de moitié]] ; '''Résistance à la magie''' oui
+
+Le personnage crée une ligne de flammes sinueuse qu'il peut façonner comme bon lui semble. Le ''serpent de feu'' affecte une case de 1,50 mètre de (1 {s:c}) côté par [[NLS|niveau de lanceur de sorts]] et chaque case doit être adjacente à la précédente, en commençant au niveau du personnage. Le ''serpent de feu'' ne peut pas s'étendre au-delà de la portée maximale du sort. Toute créature qui se trouve sur le chemin du serpent subit 1d6 points de dégâts de feu par [[NLS|niveau de lanceur de sorts]] (15d6 au maximum).
+]]></raw>
+  <fullName>Pathfinder-RPG.Serpent de feu</fullName>
+</wikiPage>

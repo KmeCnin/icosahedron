@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Tout se mange</title>
+  <categories><category>Pathfinder-RPG.Advanced Player Guide</category><category>Pathfinder-RPG.Règles officielles</category><category>Pathfinder-RPG.Sort</category><category>Pathfinder-RPG.Sort rôdeur 2</category></categories>
+  <lastModified>2012-11-04 22:05:00Z</lastModified>
+  <version>2</version>
+  <inLinks><link>Pathfinder-RPG.Glossaire des sorts</link><link>Pathfinder-RPG.Liste des sorts (fin)</link><link>Pathfinder-RPG.Liste des sorts de rôdeurs</link><link>Pathfinder-RPG.TMP sorts APG</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Transmutation</link><link>Pathfinder-RPG.Rôdeur</link><link>Pathfinder-RPG.Action simple</link><link>Pathfinder-RPG.composantes</link><link>Pathfinder-RPG.Présentation des sorts</link><link>Pathfinder-RPG.niveau</link><link>Pathfinder-RPG.Volonté</link><link>Pathfinder-RPG.solidité</link></outLinks>
+  <body><![CDATA[
+&lt;b&gt;&#201;cole&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#TRANSMUTATION&quot; title=&quot;Transmutation&quot;&gt;Transmutation&lt;/a&gt;&#160;; &lt;b&gt;Niveau&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;R&#244;deur.html&quot; title=&quot;Le r&#244;deur&quot;&gt;r&#244;deur&lt;/a&gt; 2&lt;br/&gt;
+&lt;b&gt;Temps d&#39;incantation&lt;/b&gt; 1 &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions.html#SIMPLE&quot; title=&quot;Action simple&quot;&gt;action simple&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Composantes&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#COMPOSANTES&quot; title=&quot;composantes&quot;&gt;V, G, M&lt;/a&gt; (une pinc&#233;e de sel et de poivre)&lt;br/&gt;
+&lt;b&gt;Port&#233;e&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#PORTEE&quot; title=&quot;Pr&#233;sentation des sorts&quot;&gt;contact&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Cible&lt;/b&gt; objet touch&#233; qui p&#232;se jusqu&#39;&#224; 0,5 kg/&lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#NIVEAU&quot; title=&quot;niveau&quot;&gt;niveau&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Dur&#233;e&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#DUREE&quot; title=&quot;Pr&#233;sentation des sorts&quot;&gt;instantan&#233;e&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Jet de sauvegarde&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;Volont&#233;&quot;&gt;Volont&#233;&lt;/a&gt; pour &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#JETSDESAUVEGARDE&quot; title=&quot;Pr&#233;sentation des sorts&quot;&gt;annuler&lt;/a&gt; (objet)&#160;; &lt;b&gt;R&#233;sistance &#224; la magie&lt;/b&gt; oui (objet)&lt;br /&gt;&lt;br /&gt;Le personnage peut transformer un objet qui p&#232;se jusqu&#39;&#224; 0,5 kg par niveau de lanceur de sorts en une substance comestible que toute cr&#233;ature vivante peut m&#226;cher, avaler et dig&#233;rer en toute s&#233;curit&#233;. Quelle que soit la nature originelle de cette nourriture, elle n&#39;a pas de go&#251;t et poss&#232;de une consistance l&#233;g&#232;rement caoutchouteuse. Une livre de cet aliment suffit &#224; nourrir une cr&#233;ature de taille M pendant une journ&#233;e.&lt;br /&gt;&lt;br /&gt;Les objets de m&#234;me nature qui se trouvent tr&#232;s proches les uns des autres, comme une pile de rochers, comptent comme un seul objet en ce qui concerne ce sort. Le personnage ne peut pas utiliser ce sort pour transformer des objets magiques ou dot&#233;s de qualit&#233;s exceptionnelles. On consid&#232;re que tous les objets ont une &lt;a class=&quot;pagelink&quot; href=&quot;Exploration.html#SOLIDITE&quot; title=&quot;solidit&#233;&quot;&gt;solidit&#233;&lt;/a&gt; de 0 quand il s&#39;agit de les manger mais ils conservent leur &lt;a class=&quot;pagelink&quot; href=&quot;Exploration.html#SOLIDITE&quot; title=&quot;solidit&#233;&quot;&gt;solidit&#233;&lt;/a&gt; naturelle pour le reste&#160;: ils ne deviennent pas plus vuln&#233;rables aux tentatives de destruction d&#39;arme, de bris ou toute action typiquement dirig&#233;e contre un objet. Les objets comme du charbon ardent ou une torche enflamm&#233;e continuent de produire de l&#39;&#233;nergie m&#234;me apr&#232;s la transformation en nourriture et, si une cr&#233;ature tente d&#39;en manger, elle re&#231;oit les d&#233;g&#226;ts ad&#233;quats.
+]]></body>
+  <raw><![CDATA[{s:APG}
+'''École''' [[Transmutation]] ; '''Niveau''' [[rôdeur]] 2<br/>
+'''Temps d'incantation''' 1 [[action simple]]<br/>
+'''Composantes''' [[Composantes|V, G, M]] (une pincée de sel et de poivre)<br/>
+'''Portée''' [[Présentation des sorts#PORTEE|contact]]<br/>
+'''Cible''' objet touché qui pèse jusqu'à 0,5 kg/[[niveau]]<br/>
+'''Durée''' [[présentation des sorts#DUREE|instantanée]]<br/>
+'''Jet de sauvegarde''' [[Volonté]] pour [[Présentation des sorts#JETSDESAUVEGARDE|annuler]] (objet) ; '''Résistance à la magie''' oui (objet)
+
+Le personnage peut transformer un objet qui pèse jusqu'à 0,5 kg par niveau de lanceur de sorts en une substance comestible que toute créature vivante peut mâcher, avaler et digérer en toute sécurité. Quelle que soit la nature originelle de cette nourriture, elle n'a pas de goût et possède une consistance légèrement caoutchouteuse. Une livre de cet aliment suffit à nourrir une créature de taille M pendant une journée.
+
+Les objets de même nature qui se trouvent très proches les uns des autres, comme une pile de rochers, comptent comme un seul objet en ce qui concerne ce sort. Le personnage ne peut pas utiliser ce sort pour transformer des objets magiques ou dotés de qualités exceptionnelles. On considère que tous les objets ont une [[solidité]] de 0 quand il s'agit de les manger mais ils conservent leur [[solidité]] naturelle pour le reste : ils ne deviennent pas plus vulnérables aux tentatives de destruction d'arme, de bris ou toute action typiquement dirigée contre un objet. Les objets comme du charbon ardent ou une torche enflammée continuent de produire de l'énergie même après la transformation en nourriture et, si une créature tente d'en manger, elle reçoit les dégâts adéquats.
+]]></raw>
+  <fullName>Pathfinder-RPG.Tout se mange</fullName>
+</wikiPage>

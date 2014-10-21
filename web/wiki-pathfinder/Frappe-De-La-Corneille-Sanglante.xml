@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Frappe de la corneille sanglante</title>
+  <categories><category>Pathfinder-RPG.Art de la Magie</category><category>Pathfinder-RPG.Règles officielles</category><category>Pathfinder-RPG.Sort</category><category>Pathfinder-RPG.Sort prêtre 4</category></categories>
+  <lastModified>2013-10-03 22:55:15Z</lastModified>
+  <version>3</version>
+  <inLinks><link>Pathfinder-RPG.AdM-sorts-classe-temporaire</link><link>Pathfinder-RPG.Glossaire des sorts</link><link>Pathfinder-RPG.Liste des sorts (suite)</link><link>Pathfinder-RPG.Liste des sorts de prêtres</link><link>Pathfinder-RPG.Liste des sorts par registre</link><link>Pathfinder-RPG.Moine qinggong (moine)</link><link>Pathfinder-RPG.Pouvoirs de ki</link><link>Pathfinder-RPG.sorts-temporaires</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Évocation</link><link>Pathfinder-RPG.Registre</link><link>Pathfinder-RPG.Prêtre</link><link>Pathfinder-RPG.composantes</link><link>Pathfinder-RPG.niveau</link><link>Pathfinder-RPG.instantanée</link><link>Pathfinder-RPG.Moine</link></outLinks>
+  <body><![CDATA[
+&lt;b&gt;&#201;cole&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#EVOCATION&quot; title=&quot;&#201;vocation&quot;&gt;&#233;vocation&lt;/a&gt; [&lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;er-Un-Sort.html#REGISTRE&quot; title=&quot;Registre&quot;&gt;feu&lt;/a&gt;]; &lt;b&gt;Niveau&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#234;tre.html&quot; title=&quot;Le pr&#234;tre&quot;&gt;pr&#234;tre&lt;/a&gt; 4&lt;br/&gt;
+&lt;b&gt;Temps d’incantation&lt;/b&gt; 1 round&lt;br/&gt;
+&lt;b&gt;Composantes&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#COMPOSANTES&quot; title=&quot;composantes&quot;&gt;V, G&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Port&#233;e&lt;/b&gt; moyenne (30 m + 3 m/&lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#NIVEAU&quot; title=&quot;niveau&quot;&gt;niveau&lt;/a&gt;) (20 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt; + 2 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;/&lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#NIVEAU&quot; title=&quot;niveau&quot;&gt;niveau&lt;/a&gt;)&lt;br/&gt;
+&lt;b&gt;Cible&lt;/b&gt; une cr&#233;ature&lt;br/&gt;
+&lt;b&gt;Dur&#233;e&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#DUREE&quot; title=&quot;instantan&#233;e&quot;&gt;instantan&#233;e&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Jet de sauvegarde&lt;/b&gt; non; &lt;b&gt;R&#233;sistance &#224; la magie&lt;/b&gt; oui&lt;br /&gt;&lt;br /&gt;Les attaques &#224; mains nues du personnage lib&#232;rent des d&#233;charges d&#39;&#233;nergies qui prennent la forme de traits de feu ou de corneilles &#224; l&#39;&#233;clat rouge qui s&#39;envolent imm&#233;diatement pour frapper la cible du personnage. Ce dernier peut faire une attaque &#224; mains nues ou un &lt;a class=&quot;pagelink&quot; href=&quot;Moine.html#DELUGEDECOUPS&quot; title=&quot;Le moine&quot;&gt;d&#233;luge de coups&lt;/a&gt; contre la cible comme si elle se trouvait dans la zone qu&#39;il menace. Chaque attaque r&#233;ussie inflige les m&#234;mes d&#233;g&#226;ts que l&#39;attaque &#224; mains nues mais se divise pour moiti&#233; en d&#233;g&#226;ts de feu et pour moiti&#233; en d&#233;g&#226;ts d&#39;&#233;nergie n&#233;gative(cette derni&#232;re ne gu&#233;rit pas les morts-vivants). Par exemple un &lt;a class=&quot;pagelink&quot; href=&quot;Moine.html&quot; title=&quot;Le moine&quot;&gt;moine&lt;/a&gt; de &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#NIVEAU&quot; title=&quot;niveau&quot;&gt;niveau&lt;/a&gt; 14 peut utiliser &lt;a class=&quot;pagelink&quot; href=&quot;Moine.html#DELUGEDECOUPS&quot; title=&quot;Le moine&quot;&gt;d&#233;luge de coups&lt;/a&gt; pour attaquer 5 fois. Il cr&#233;e une corneille par attaque r&#233;ussie contre la cible et chacune inflige 2d6 points de d&#233;g&#226;ts(plus les modificateurs applicables &#224; l&#39;attaque &#224; mains nues).
+]]></body>
+  <raw><![CDATA[{s:UM}
+'''École''' [[évocation]] <nowiki>[</nowiki>[[registre|feu]]<nowiki>]</nowiki>; '''Niveau''' [[prêtre]] 4<br/>
+'''Temps d’incantation''' 1 round<br/>
+'''Composantes''' [[Composantes|V, G]]<br/>
+'''Portée''' moyenne (30 m + 3 m/[[niveau]]) (20 {s:c} + 2 {s:c}/[[niveau]])<br/>
+'''Cible''' une créature<br/>
+'''Durée''' [[instantanée]]<br/>
+'''Jet de sauvegarde''' non; '''Résistance à la magie''' oui
+
+Les attaques à mains nues du personnage libèrent des décharges d'énergies qui prennent la forme de traits de feu ou de corneilles à l'éclat rouge qui s'envolent immédiatement pour frapper la cible du personnage. Ce dernier peut faire une attaque à mains nues ou un [[moine#DELUGEDECOUPS|déluge de coups]] contre la cible comme si elle se trouvait dans la zone qu'il menace. Chaque attaque réussie inflige les mêmes dégâts que l'attaque à mains nues mais se divise pour moitié en dégâts de feu et pour moitié en dégâts d'énergie négative(cette dernière ne guérit pas les morts-vivants). Par exemple un [[moine]] de [[niveau]] 14 peut utiliser [[moine#DELUGEDECOUPS|déluge de coups]] pour attaquer 5 fois. Il crée une corneille par attaque réussie contre la cible et chacune inflige 2d6 points de dégâts(plus les modificateurs applicables à l'attaque à mains nues).]]></raw>
+  <fullName>Pathfinder-RPG.Frappe de la corneille sanglante</fullName>
+</wikiPage>

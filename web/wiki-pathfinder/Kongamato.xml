@@ -1,0 +1,218 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Kongamato</title>
+  <categories><category>Pathfinder-RPG.Bestiaire 3</category><category>Pathfinder-RPG.Monstre</category><category>Pathfinder-RPG.Règles officielles</category></categories>
+  <lastModified>2014-01-21 23:11:21Z</lastModified>
+  <version>4</version>
+  <inLinks><link>Pathfinder-RPG.Glossaire des monstres</link><link>Pathfinder-RPG.Liste de monstres par FP</link><link>Pathfinder-RPG.Liste de monstres par milieu naturel</link><link>Pathfinder-RPG.Liste de monstres par type</link><link>Pathfinder-RPG.Monstres</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.type Dragon</link><link>Pathfinder-RPG.vision dans le noir</link><link>Pathfinder-RPG.vision nocturne</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.RD</link><link>Pathfinder-RPG.RM</link><link>Pathfinder-RPG.Souffle</link><link>Pathfinder-RPG.Réflexes</link><link>Pathfinder-RPG.DD</link><link>Pathfinder-RPG.round</link><link>Pathfinder-RPG.croc-en-jambe</link><link>Pathfinder-RPG.Attaque en puissance</link><link>Pathfinder-RPG.Attaque en vol</link><link>Pathfinder-RPG.Attaques multiples</link><link>Pathfinder-RPG.Capture</link><link>Pathfinder-RPG.Science de la destruction</link><link>Pathfinder-RPG.Science de linitiative</link><link>Pathfinder-RPG.Réflexes surhumains</link><link>Pathfinder-RPG.Virage sur laile</link><link>Pathfinder-RPG.Vol stationnaire</link><link>Pathfinder-RPG.Discrétion</link><link>Pathfinder-RPG.Escalade</link><link>Pathfinder-RPG.Intimidation</link><link>Pathfinder-RPG.Psychologie</link><link>Pathfinder-RPG.Survie</link><link>Pathfinder-RPG.Vol</link><link>Pathfinder-RPG.Compression (capacité)</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Kongamato&lt;div style=&quot;float:right;&quot;&gt;FP 15&lt;/div&gt;&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Bestiaire 3 p 166&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;XP&lt;/b&gt; 51 200
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Dragon.html&quot; title=&quot;Dragon&quot;&gt;Dragon&lt;/a&gt; de taille TG, N
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +7 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Capacit&#233;s-Sp&#233;ciales.html#VISIONDANSLENOIR&quot; title=&quot;vision dans le noir&quot;&gt;vision dans le noir&lt;/a&gt; 18 m (12 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;),
+ &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Nocturne-(Capacit&#233;).html&quot; title=&quot;vision nocturne&quot;&gt;vision nocturne&lt;/a&gt; ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +23
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 29, contact 11, d&#233;pourvu 26 (Dex +3, naturelle +18, taille -2)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt;(18d12+144)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +16, &lt;b&gt;Vig&lt;/b&gt; +19, &lt;b&gt;Vol&lt;/b&gt; +13)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;&lt;a class=&quot;pagelink&quot; href=&quot;R&#233;duction-De-D&#233;g&#226;ts-(Capacit&#233;).html&quot; title=&quot;RD&quot;&gt;RD&lt;/a&gt;&lt;/b&gt; 10/magique ; &lt;b&gt;Immunit&#233;&lt;/b&gt; magie, paralysie et sommeil ;
+&lt;b&gt;R&#233;sistance&lt;/b&gt; acide 10, &#233;lectricit&#233; 10, feu 10, froid 10 ; &lt;b&gt;&lt;a class=&quot;pagelink&quot; href=&quot;R&#233;sistance-&#192;-La-Magie-(Capacit&#233;).html&quot; title=&quot;RM&quot;&gt;RM&lt;/a&gt;&lt;/b&gt; 26
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Vitesse&lt;/b&gt; 12 m (6 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), vol 48 m (32 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;, moyenne)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; morsure, +28 (2d6+2) et 2 griffes, +28 (1d8+12) et
+coup de queue, +26 (2d6+6) et 2 ailes, +26 (1d8+6)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Espace&lt;/b&gt; 4,5 m (3 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) ; &lt;b&gt;Allonge&lt;/b&gt; 4,5 m (3 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaques sp&#233;ciales&lt;/b&gt; plongeon hurlant, &lt;a class=&quot;pagelink&quot; href=&quot;Souffle-(Capacit&#233;).html&quot; title=&quot;Souffle&quot;&gt;souffle&lt;/a&gt; (c&#244;ne de 15 m,
+14d6 d&#233;g&#226;ts soniques, &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;R&#233;flexes&quot;&gt;R&#233;flexes&lt;/a&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DEGREDEDIFFICULTE&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; 20 1/2 d&#233;g&#226;ts, utilisable tous les 1d4 &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#ROUND&quot; title=&quot;round&quot;&gt;round&lt;/a&gt;s)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 34, &lt;b&gt;Dex&lt;/b&gt; 17, &lt;b&gt;Con&lt;/b&gt; 26, &lt;b&gt;Int&lt;/b&gt; 9, &lt;b&gt;Sag&lt;/b&gt; 14, &lt;b&gt;Cha&lt;/b&gt; 17
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +18 ; &lt;b&gt;BMO&lt;/b&gt; +32 ; &lt;b&gt;DMD&lt;/b&gt; 45 (49 contre le &lt;a class=&quot;pagelink&quot; href=&quot;Croc-En-Jambe.html&quot; title=&quot;croc-en-jambe&quot;&gt;croc-en-jambe&lt;/a&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Attaque-En-Puissance.html&quot; title=&quot;Attaque en puissance&quot;&gt;Attaque en puissance&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Attaque-En-Vol.html&quot; title=&quot;Attaque en vol&quot;&gt;Attaque en vol&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Attaques-Multiples.html&quot; title=&quot;Attaques multiples&quot;&gt;Attaques multiples&lt;/a&gt;,
+&lt;a class=&quot;pagelink&quot; href=&quot;Capture.html&quot; title=&quot;Capture&quot;&gt;Capture&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Science-De-La-Destruction.html&quot; title=&quot;Science de la destruction&quot;&gt;Science de la destruction&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Science-De-Linitiative.html&quot; title=&quot;Science de l&amp;#39;initiative&quot;&gt;Science de l’initiative&lt;/a&gt;,
+&lt;a class=&quot;pagelink&quot; href=&quot;R&#233;flexes-Surhumains.html&quot; title=&quot;R&#233;flexes surhumains&quot;&gt;R&#233;flexes surhumains&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Virage-Sur-Laile.html&quot; title=&quot;Virage sur l&amp;#39;aile&quot;&gt;Virage sur l’aile&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Vol-Stationnaire.html&quot; title=&quot;Vol stationnaire&quot;&gt;Vol stationnaire&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; 
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Langues&lt;/b&gt; draconique
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Particularit&#233;s&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; +13, &lt;a class=&quot;pagelink&quot; href=&quot;Escalade.html&quot; title=&quot;Escalade&quot;&gt;Escalade&lt;/a&gt; +19, &lt;a class=&quot;pagelink&quot; href=&quot;Intimidation.html&quot; title=&quot;Intimidation&quot;&gt;Intimidation&lt;/a&gt; +16,
+&lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +23, &lt;a class=&quot;pagelink&quot; href=&quot;Psychologie.html&quot; title=&quot;Psychologie&quot;&gt;Psychologie&lt;/a&gt; +15, &lt;a class=&quot;pagelink&quot; href=&quot;Survie.html&quot; title=&quot;Survie&quot;&gt;Survie&lt;/a&gt; +20, &lt;a class=&quot;pagelink&quot; href=&quot;Vol.html&quot; title=&quot;Vol&quot;&gt;Vol&lt;/a&gt; +20 
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Particularit&#233;s&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Compression-(Capacit&#233;).html&quot; title=&quot;Compression (Ext)&quot;&gt;compression&lt;/a&gt; , bec perforant 
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; for&#234;ts tropicales 
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation sociale&lt;/b&gt; solitaire ou couple 
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; standard
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;POUVOIRS SP&#201;CIAUX&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Bec perforant (Ext).&lt;/b&gt; Le bec du
+kongamato est extr&#234;mement solide, parfait pour briser des
+objets. Lorsque le kongamato tente d’infliger des d&#233;g&#226;ts &#224;
+un objet, son attaque de bec double les d&#233;g&#226;ts et son bec
+est consid&#233;r&#233; comme &#233;tant en adamantium quand il s’agit de
+passer la solidit&#233; de l’objet.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Plongeon hurlant (Sur).&lt;/b&gt;
+Lorsque le kongamato effectue une charge en vol ou utilise son don
+&lt;a class=&quot;pagelink&quot; href=&quot;Attaque-En-Vol.html&quot; title=&quot;Attaque en vol&quot;&gt;Attaque en vol&lt;/a&gt;, son corps s’investit d’une &#233;nergie qui fait que sa morsure inflige
++1d6 points de d&#233;g&#226;ts sonores suppl&#233;mentaires.
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;td&gt;&lt;div&gt; &lt;i&gt;Cette &#233;norme cr&#233;ature draconique &#224; t&#234;te d’oiseau plonge du ciel en
+poussant un hurlement per&#231;ant.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Les kongamatos sont des dragons primitifs qui chassent dans
+les jungles profondes. Bien qu’ils ne soient pas aussi intelligents
+ni aussi dou&#233;s en magie que leurs &#171; v&#233;ritables &#187; cousins, les
+kongamatos sont des cr&#233;atures redout&#233;es et respect&#233;es pour
+leur r&#233;sistance et leur force impressionnante. Si le kongamato
+a clairement un corps de dragon (trapu et dense, avec des griffes
+ac&#233;r&#233;es terminant chacun de ses quatre membres), sa t&#234;te est
+visiblement celle d’un oiseau, avec un long bec &#233;dent&#233; et une
+cr&#234;te prononc&#233;e. Le kongamato a une peau aux profondes
+teintes &#233;meraude, avec un bas-ventre de couleur cendr&#233;e et des
+motifs cramoisis sur ses grandes ailes. Les femelles ont une cr&#234;te
+plus petite que celle des m&#226;les, et leur bas-ventre et l’int&#233;rieur de
+leurs ailes ont des teintes roses.&lt;br /&gt;&lt;br /&gt;Les kongamatos sont des pr&#233;dateurs des hauteurs qui
+installent leurs repaires au sommet des arbres les plus vieux et
+les plus solides, ou dans des grottes et des ruines. Ce sont des
+carnivores chassant les gros animaux gr&#233;gaires. M&#234;me s’ils n’ont
+pas de dents, leur bec solide et ac&#233;r&#233; leur permet de perforer
+leurs proies avec pr&#233;cision et de traverser le bois, la pierre, et
+m&#234;me le m&#233;tal. Lorsqu’ils en ont la possibilit&#233;, les kongamatos
+chassent aux limites de leur territoire, planant gracieusement et
+silencieusement, m&#234;me &#224; travers les feuillages les plus denses
+des for&#234;ts, pour surprendre leurs proies.&lt;br /&gt;&lt;br /&gt;Les m&#226;les et les femelles atteignent pr&#232;s de 9 m&#232;tres de
+long pour une envergure &#233;gale, et peuvent peser jusqu’&#224; 7
+tonnes. Ils vivent entre 500 et 600 ans.&lt;br /&gt;&lt;br /&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Kongamato|FP 15}
+{s:pucem|Dragon|Forêt-Jungle|Tempéré}
+{s:BDTexte|''Source : Bestiaire 3 p 166''}
+{s:BDTexte|'''XP''' 51 200}
+{s:BDTexte|[[type dragon|Dragon]] de taille TG, N}
+{s:BDTexte|'''Init''' +7 ; '''Sens''' [[vision dans le noir]] 18 m (12 {s:c}),
+ [[vision nocturne]] ; [[Perception]] +23}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 29, contact 11, dépourvu 26 (Dex +3, naturelle +18, taille -2)}
+{s:BDTexte|'''pv'''(18d12+144)}
+{s:BDTexte|'''Réf''' +16, '''Vig''' +19, '''Vol''' +13)}
+{s:BDTexte|'''[[RD]]''' 10/magique ; '''Immunité''' magie, paralysie et sommeil ;
+'''Résistance''' acide 10, électricité 10, feu 10, froid 10 ; '''[[RM]]''' 26}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''Vitesse''' 12 m (6 {s:c}), vol 48 m (32 {s:c}, moyenne)}
+{s:BDTexte|'''Corps à corps''' morsure, +28 (2d6+2) et 2 griffes, +28 (1d8+12) et
+coup de queue, +26 (2d6+6) et 2 ailes, +26 (1d8+6)}
+{s:BDTexte|'''Espace''' 4,5 m (3 {s:c}) ; '''Allonge''' 4,5 m (3 {s:c})}
+{s:BDTexte|'''Attaques spéciales''' plongeon hurlant, [[souffle]] (cône de 15 m,
+14d6 dégâts soniques, [[Réflexes]] [[DD]] 20 1/2 dégâts, utilisable tous les 1d4 [[round]]s)}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 34, '''Dex''' 17, '''Con''' 26, '''Int''' 9, '''Sag''' 14, '''Cha''' 17}
+{s:BDTexte|'''BBA''' +18 ; '''BMO''' +32 ; '''DMD''' 45 (49 contre le [[croc-en-jambe]])}
+{s:BDTexte|'''Dons''' [[Attaque en puissance]], [[Attaque en vol]], [[Attaques multiples]],
+[[Capture]], [[Science de la destruction]], [[Science de linitiative|Science de l’initiative]],
+[[Réflexes surhumains]], [[Virage sur laile|Virage sur l’aile]], [[Vol stationnaire]]}
+{s:BDTexte|'''Compétences''' }
+{s:BDTexte|'''Langues''' draconique}
+{s:BDTexte|'''Particularités''' [[Discrétion]] +13, [[Escalade]] +19, [[Intimidation]] +16,
+[[Perception]] +23, [[Psychologie]] +15, [[Survie]] +20, [[Vol]] +20 }
+{s:BDTexte|'''Particularités''' [[Compression (capacité)|compression]] , bec perforant }
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' forêts tropicales }
+{s:BDTexte|'''Organisation sociale''' solitaire ou couple }
+{s:BDTexte|'''Trésor''' standard}
+{s:BDSousTitre|POUVOIRS SPÉCIAUX}
+{s:BDTexte|'''Bec perforant (Ext).''' Le bec du
+kongamato est extrêmement solide, parfait pour briser des
+objets. Lorsque le kongamato tente d’infliger des dégâts à
+un objet, son attaque de bec double les dégâts et son bec
+est considéré comme étant en adamantium quand il s’agit de
+passer la solidité de l’objet.}
+{s:BDTexte|'''Plongeon hurlant (Sur).'''
+Lorsque le kongamato effectue une charge en vol ou utilise son don
+[[Attaque en vol]], son corps s’investit d’une énergie qui fait que sa morsure inflige
++1d6 points de dégâts sonores supplémentaires.}
+</div>
+</td><td><div> ''Cette énorme créature draconique à tête d’oiseau plonge du ciel en
+poussant un hurlement perçant.''
+
+Les kongamatos sont des dragons primitifs qui chassent dans
+les jungles profondes. Bien qu’ils ne soient pas aussi intelligents
+ni aussi doués en magie que leurs « véritables » cousins, les
+kongamatos sont des créatures redoutées et respectées pour
+leur résistance et leur force impressionnante. Si le kongamato
+a clairement un corps de dragon (trapu et dense, avec des griffes
+acérées terminant chacun de ses quatre membres), sa tête est
+visiblement celle d’un oiseau, avec un long bec édenté et une
+crête prononcée. Le kongamato a une peau aux profondes
+teintes émeraude, avec un bas-ventre de couleur cendrée et des
+motifs cramoisis sur ses grandes ailes. Les femelles ont une crête
+plus petite que celle des mâles, et leur bas-ventre et l’intérieur de
+leurs ailes ont des teintes roses.
+
+Les kongamatos sont des prédateurs des hauteurs qui
+installent leurs repaires au sommet des arbres les plus vieux et
+les plus solides, ou dans des grottes et des ruines. Ce sont des
+carnivores chassant les gros animaux grégaires. Même s’ils n’ont
+pas de dents, leur bec solide et acéré leur permet de perforer
+leurs proies avec précision et de traverser le bois, la pierre, et
+même le métal. Lorsqu’ils en ont la possibilité, les kongamatos
+chassent aux limites de leur territoire, planant gracieusement et
+silencieusement, même à travers les feuillages les plus denses
+des forêts, pour surprendre leurs proies.
+
+Les mâles et les femelles atteignent près de 9 mètres de
+long pour une envergure égale, et peuvent peser jusqu’à 7
+tonnes. Ils vivent entre 500 et 600 ans.
+
+</td></tr></table>
+
+
+
+
+]]></raw>
+  <fullName>Pathfinder-RPG.Kongamato</fullName>
+</wikiPage>

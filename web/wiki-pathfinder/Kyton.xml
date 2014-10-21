@@ -1,0 +1,215 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Kyton</title>
+  <categories><category>Pathfinder-RPG.Bestiaire</category><category>Pathfinder-RPG.Monstre</category><category>Pathfinder-RPG.Règles officielles</category></categories>
+  <lastModified>2014-03-24 19:23:38Z</lastModified>
+  <version>6</version>
+  <inLinks><link>Pathfinder-RPG.Convocation de monstres</link><link>Pathfinder-RPG.Glossaire des monstres</link><link>Pathfinder-RPG.Liste de monstres par FP</link><link>Pathfinder-RPG.Liste de monstres par milieu naturel</link><link>Pathfinder-RPG.Liste de monstres par type</link><link>Pathfinder-RPG.Monstres</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.type Extérieur</link><link>Pathfinder-RPG.sous-type extraplanaire</link><link>Pathfinder-RPG.sous-type Loi</link><link>Pathfinder-RPG.sous-type Mal</link><link>Pathfinder-RPG.vision dans le noir</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Régénération (capacité)</link><link>Pathfinder-RPG.Arme de prédilection</link><link>Pathfinder-RPG.Combat en aveugle</link><link>Pathfinder-RPG.Science de linitiative</link><link>Pathfinder-RPG.Vigilance</link><link>Pathfinder-RPG.Acrobaties</link><link>Pathfinder-RPG.Artisanat</link><link>Pathfinder-RPG.Escalade</link><link>Pathfinder-RPG.Évasion</link><link>Pathfinder-RPG.Intimidation</link><link>Pathfinder-RPG.Dextérité</link><link>Pathfinder-RPG.Action simple</link><link>Pathfinder-RPG.Acéré</link><link>Pathfinder-RPG.Volonté</link><link>Pathfinder-RPG.DD</link><link>Pathfinder-RPG.jet de sauvegarde</link><link>Pathfinder-RPG.Charisme</link><link>Pathfinder-RPG.Secoué</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;&#201;vang&#233;liste (Kyton)&lt;div style=&quot;float:right;&quot;&gt;FP 6&lt;/div&gt;&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Bestiaire&lt;/i&gt; p.190
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 2.400
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Ext&#233;rieur.html&quot; title=&quot;Ext&#233;rieur&quot;&gt;Ext&#233;rieur&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Extraplanaire.html&quot; title=&quot;Extraplanaire (sous-type)&quot;&gt;extraplanaire&lt;/a&gt;, kyton, &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Loi.html&quot; title=&quot;Loi (sous-type)&quot;&gt;Loi&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Mal.html&quot; title=&quot;Mal (sous-type)&quot;&gt;Mal&lt;/a&gt;) de taille M, LM
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +7 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Capacit&#233;s-Sp&#233;ciales.html#VISIONDANSLENOIR&quot; title=&quot;vision dans le noir&quot;&gt;vision dans le noir&lt;/a&gt; 18 m (12 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +14
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 21, contact 13, pris au d&#233;pourvu 18 (armure +4, Dex +3, naturelle +4)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 60 (8d10+16) ; &lt;a class=&quot;pagelink&quot; href=&quot;R&#233;g&#233;n&#233;ration-(Capacit&#233;).html&quot; title=&quot;R&#233;g&#233;n&#233;ration (Ext)&quot;&gt;r&#233;g&#233;n&#233;ration&lt;/a&gt; 2 (armes d&#39;alignement Bon, armes en argent, sorts du Bien)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +9, &lt;b&gt;Vig&lt;/b&gt; +8, &lt;b&gt;Vol&lt;/b&gt; +3
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Immunit&#233;s&lt;/b&gt; froid ; &lt;b&gt;RD&lt;/b&gt; 5/argent ou Bien ; &lt;b&gt;RM&lt;/b&gt; 17 
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 12 m (6 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; 4 cha&#238;nes, +11 (2d4+2)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Espace&lt;/b&gt; 1,50 m (1 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) ; &lt;b&gt;Allonge&lt;/b&gt; 1,50 m (1 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) (3 m (2 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) avec les cha&#238;nes)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaques sp&#233;ciales&lt;/b&gt; danse des cha&#238;nes, regard d&#233;stabilisant
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 15, &lt;b&gt;Dex&lt;/b&gt; 17, &lt;b&gt;Con&lt;/b&gt; 14, &lt;b&gt;Int&lt;/b&gt; 11, &lt;b&gt;Sag&lt;/b&gt; 12, &lt;b&gt;Cha&lt;/b&gt; 12
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +8, &lt;b&gt;BMO&lt;/b&gt; +10, &lt;b&gt;DMD&lt;/b&gt; 23
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Arme-De-Pr&#233;dilection.html&quot; title=&quot;Arme de pr&#233;dilection&quot;&gt;Arme de pr&#233;dilection&lt;/a&gt; (cha&#238;ne), &lt;a class=&quot;pagelink&quot; href=&quot;Combat-En-Aveugle.html&quot; title=&quot;Combat en aveugle&quot;&gt;Combat en aveugle&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Science-De-Linitiative.html&quot; title=&quot;Science de l&amp;#39;initiative&quot;&gt;Science de l&#39;initiative&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Vigilance.html&quot; title=&quot;Vigilance&quot;&gt;Vigilance&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Acrobaties.html&quot; title=&quot;Acrobaties&quot;&gt;Acrobaties&lt;/a&gt; +14, &lt;a class=&quot;pagelink&quot; href=&quot;Artisanat.html&quot; title=&quot;Artisanat&quot;&gt;Artisanat&lt;/a&gt; (travail de la forge) +11, &lt;a class=&quot;pagelink&quot; href=&quot;Escalade.html&quot; title=&quot;Escalade&quot;&gt;Escalade&lt;/a&gt; +13, &lt;a class=&quot;pagelink&quot; href=&quot;&#201;vasion.html&quot; title=&quot;&#201;vasion&quot;&gt;&#201;vasion&lt;/a&gt; +14, &lt;a class=&quot;pagelink&quot; href=&quot;Intimidation.html&quot; title=&quot;Intimidation&quot;&gt;Intimidation&lt;/a&gt; +12, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +14
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Langues&lt;/b&gt; commun, infernal
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Particularit&#233;s&lt;/b&gt; armure de cha&#238;nes
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; quelconque
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation sociale&lt;/b&gt; solitaire, couple, maillon (3-6) ou cha&#238;ne (7-20)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; standard
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Capacit&#233;s sp&#233;ciales&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Armure de cha&#238;nes (Ext).&lt;/b&gt; Les cha&#238;nes qui recouvrent les kytons leur donnent un bonus d&#39;armure de +4 mais n&#39;imposent aucune p&#233;nalit&#233; en mati&#232;re de risque d&#39;&#233;chec des sorts, de bonus de &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#DEXTERITE&quot; title=&quot;La Dext&#233;rit&#233;&quot;&gt;Dext&#233;rit&#233;&lt;/a&gt; maximal, de poids ou de formation au port des armures.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Danse des cha&#238;nes (Sur).&lt;/b&gt; Par une &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions.html#SIMPLE&quot; title=&quot;Action simple&quot;&gt;action simple&lt;/a&gt;, un kyton peut contr&#244;ler jusqu&#39;&#224; 4 cha&#238;nes situ&#233;es dans un rayon de 6 m (4 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) et les faire danser ou se d&#233;placer selon ses d&#233;sirs. En plus de cela, le kyton peut allonger ces cha&#238;nes d&#39;une distance maximale de 4,50 m (3 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) et les doter de barbel&#233;s &lt;a class=&quot;pagelink&quot; href=&quot;Armes-Magiques.html#Ac&#233;r&#233;e&quot; title=&quot;Ac&#233;r&#233;&quot;&gt;ac&#233;r&#233;s&lt;/a&gt;. Les cha&#238;nes attaquent avec la m&#234;me efficacit&#233; que le kyton lui-m&#234;me. Si une des cha&#238;nes se trouvent en possession d&#39;une autre cr&#233;ature, cette derni&#232;re peut effectuer un jet de &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;Volont&#233;&quot;&gt;Volont&#233;&lt;/a&gt; de &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DEGREDEDIFFICULTE&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; 15 pour tenter de briser le pouvoir que le kyton exerce sur la cha&#238;ne. En cas de &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;jet de sauvegarde&quot;&gt;jet de sauvegarde&lt;/a&gt; r&#233;ussi, le kyton ne peut plus essayer de contr&#244;ler la cha&#238;ne en question pendant 2 heures  &#224; moins que la cr&#233;ature l&#39;ait abandonn&#233;e. Le kyton peut escalader les cha&#238;nes qu&#39;il contr&#244;le en se d&#233;pla&#231;ant &#224; sa vitesse normale et sans devoir effectuer un test d&#39;&lt;a class=&quot;pagelink&quot; href=&quot;Escalade.html&quot; title=&quot;Escalade&quot;&gt;Escalade&lt;/a&gt;. Le &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DEGREDEDIFFICULTE&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; du &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;jet de sauvegarde&quot;&gt;jet de sauvegarde&lt;/a&gt; d&#233;pend du &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#CHARISME&quot; title=&quot;Le Charisme&quot;&gt;Charisme&lt;/a&gt;.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Regard d&#233;stabilisant (Sur).&lt;/b&gt; Port&#233;e 9 m (6 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;Volont&#233;&quot;&gt;Volont&#233;&lt;/a&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DEGREDEDIFFICULTE&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; 15 annule. Un kyton peut modeler son visage pour qu&#39;il ressemble &#224; celui d&#39;un mort qui &#233;tait un &#234;tre aim&#233; ou un ennemi jur&#233; de son adversaire. Si une victime rate son &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;jet de sauvegarde&quot;&gt;jet de sauvegarde&lt;/a&gt;, elle est &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables.html#Secou&#233;&quot; title=&quot;Secou&#233;&quot;&gt;secou&#233;e&lt;/a&gt; pendant 1d3 rounds. Il s&#39;agit d&#39;un effet mental de terreur. Le &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DEGREDEDIFFICULTE&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; d&#233;pend du &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#CHARISME&quot; title=&quot;Le Charisme&quot;&gt;Charisme&lt;/a&gt;.
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;td&gt;&lt;div&gt;&lt;i&gt;Les cha&#238;nes barbel&#233;es qui drapent cette cr&#233;ature laissent entrevoir une peau p&#226;le comme la mort et des cicatrices en dents de scie.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Les profanes classent souvent les kytons dans les rangs des
+cr&#233;atures infernales et les appellent &#171; diables &#224;
+cha&#238;nes &#187;, mais ces &#234;tres sadomasochistes
+ne sont pas de v&#233;ritables diables.
+Certains kytons vivent en Enfer
+mais ils ne font pas partie de la
+hi&#233;rarchie &#233;tablie par Asmod&#233;us et
+ses archidiables. On peut &#233;galement
+en rencontrer sur d’autres plans,
+plus particuli&#232;rement sur le plan
+des Ombres. &lt;br /&gt;&lt;br /&gt;Beaucoup de personnes
+disent que les kytons sont des cr&#233;atures
+natives de l’Enfer qui auraient exist&#233;
+avant l’arriv&#233;e des diables, mais d’autres
+pensent qu’ils auraient &#233;t&#233; amen&#233;s sur
+ce plan ult&#233;rieurement par une puissance
+sadique. Quelles que soient leurs v&#233;ritables
+origines, les kytons parcourent les plans
+pour assouvir leurs d&#233;sirs : causer et subir
+de la souffrance par des enl&#232;vements
+violents et des d&#233;bauches de sadisme.&lt;br /&gt;&lt;br /&gt;Le kyton pr&#233;sent&#233; ici correspond &#224; un
+membre moyen de cette race d’Ext&#233;rieurs
+mal&#233;fiques, mais il existe d’autres
+variantes. Selon la rumeur, il y aurait autant
+de sortes de kytons dans les cit&#233;s suspendues
+de l’Enfer et sur le plan des Ombres que
+de diff&#233;rentes esp&#232;ces de d&#233;mons et de
+diables. &lt;br /&gt;&lt;br /&gt;Ces autres kytons, tous plus puissants
+que celui qui est pr&#233;sent&#233; ici, poss&#232;dent des
+pouvoirs magiques ou d’horribles attaques
+sp&#233;ciales li&#233;es au th&#232;me de la torture et
+de la douleur. Les plus puissants de ces
+kytons, des cr&#233;atures compl&#232;tement
+inhumaines, seraient &#224; l’origine de
+toute la race. Si cela est vrai, le kyton
+pr&#233;sent&#233; ici serait simplement le
+produit d’affreux croisements
+entre ces kytons
+primordiaux et leurs
+malheureuses victimes.
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Évangéliste (Kyton)|FP 6}
+{s:pucem|Extérieur|Ville|Extraplanaire}
+{s:BDTexte|''Source : Bestiaire'' p.190}
+{s:BDTexte|'''PX''' 2.400}
+{s:BDTexte|[[type Extérieur|Extérieur]] ([[sous-type extraplanaire|extraplanaire]], kyton, [[sous-type Loi|Loi]], [[sous-type Mal|Mal]]) de taille M, LM}
+{s:BDTexte|'''Init''' +7 ; '''Sens''' [[vision dans le noir]] 18 m (12 {s:c}) ; [[Perception]] +14}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 21, contact 13, pris au dépourvu 18 (armure +4, Dex +3, naturelle +4)}
+{s:BDTexte|'''pv''' 60 (8d10+16) ; [[Régénération (capacité)|régénération]] 2 (armes d'alignement Bon, armes en argent, sorts du Bien)}
+{s:BDTexte|'''Réf''' +9, '''Vig''' +8, '''Vol''' +3}
+{s:BDTexte|'''Immunités''' froid ; '''RD''' 5/argent ou Bien ; '''RM''' 17 }
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 12 m (6 {s:c})}
+{s:BDTexte|'''Corps à corps''' 4 chaînes, +11 (2d4+2)}
+{s:BDTexte|'''Espace''' 1,50 m (1 {s:c}) ; '''Allonge''' 1,50 m (1 {s:c}) (3 m (2 {s:c}) avec les chaînes)}
+{s:BDTexte|'''Attaques spéciales''' danse des chaînes, regard déstabilisant}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 15, '''Dex''' 17, '''Con''' 14, '''Int''' 11, '''Sag''' 12, '''Cha''' 12}
+{s:BDTexte|'''BBA''' +8, '''BMO''' +10, '''DMD''' 23}
+{s:BDTexte|'''Dons''' [[Arme de prédilection]] (chaîne), [[Combat en aveugle]], [[Science de linitiative|Science de l'initiative]], [[Vigilance]]}
+{s:BDTexte|'''Compétences''' [[Acrobaties]] +14, [[Artisanat]] (travail de la forge) +11, [[Escalade]] +13, [[Évasion]] +14, [[Intimidation]] +12, [[Perception]] +14}
+{s:BDTexte|'''Langues''' commun, infernal}
+{s:BDTexte|'''Particularités''' armure de chaînes}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' quelconque}
+{s:BDTexte|'''Organisation sociale''' solitaire, couple, maillon (3-6) ou chaîne (7-20)}
+{s:BDTexte|'''Trésor''' standard}
+{s:BDSousTitre|Capacités spéciales}
+{s:BDTexte|'''Armure de chaînes (Ext).''' Les chaînes qui recouvrent les kytons leur donnent un bonus d'armure de +4 mais n'imposent aucune pénalité en matière de risque d'échec des sorts, de bonus de [[Dextérité]] maximal, de poids ou de formation au port des armures.}
+{s:BDTexte|'''Danse des chaînes (Sur).''' Par une [[action simple]], un kyton peut contrôler jusqu'à 4 chaînes situées dans un rayon de 6 m (4 {s:c}) et les faire danser ou se déplacer selon ses désirs. En plus de cela, le kyton peut allonger ces chaînes d'une distance maximale de 4,50 m (3 {s:c}) et les doter de barbelés [[acéré|acérés]]. Les chaînes attaquent avec la même efficacité que le kyton lui-même. Si une des chaînes se trouvent en possession d'une autre créature, cette dernière peut effectuer un jet de [[Volonté]] de [[DD]] 15 pour tenter de briser le pouvoir que le kyton exerce sur la chaîne. En cas de [[jet de sauvegarde]] réussi, le kyton ne peut plus essayer de contrôler la chaîne en question pendant 2 heures  à moins que la créature l'ait abandonnée. Le kyton peut escalader les chaînes qu'il contrôle en se déplaçant à sa vitesse normale et sans devoir effectuer un test d'[[Escalade]]. Le [[DD]] du [[jet de sauvegarde]] dépend du [[Charisme]].}
+{s:BDTexte|'''Regard déstabilisant (Sur).''' Portée 9 m (6 {s:c}), [[Volonté]] [[DD]] 15 annule. Un kyton peut modeler son visage pour qu'il ressemble à celui d'un mort qui était un être aimé ou un ennemi juré de son adversaire. Si une victime rate son [[jet de sauvegarde]], elle est [[secoué|secouée]] pendant 1d3 rounds. Il s'agit d'un effet mental de terreur. Le [[DD]] dépend du [[Charisme]].}
+</div>
+</td><td><div>''Les chaînes barbelées qui drapent cette créature laissent entrevoir une peau pâle comme la mort et des cicatrices en dents de scie.''
+
+Les profanes classent souvent les kytons dans les rangs des
+créatures infernales et les appellent « diables à
+chaînes », mais ces êtres sadomasochistes
+ne sont pas de véritables diables.
+Certains kytons vivent en Enfer
+mais ils ne font pas partie de la
+hiérarchie établie par Asmodéus et
+ses archidiables. On peut également
+en rencontrer sur d’autres plans,
+plus particulièrement sur le plan
+des Ombres. 
+
+Beaucoup de personnes
+disent que les kytons sont des créatures
+natives de l’Enfer qui auraient existé
+avant l’arrivée des diables, mais d’autres
+pensent qu’ils auraient été amenés sur
+ce plan ultérieurement par une puissance
+sadique. Quelles que soient leurs véritables
+origines, les kytons parcourent les plans
+pour assouvir leurs désirs : causer et subir
+de la souffrance par des enlèvements
+violents et des débauches de sadisme.
+
+Le kyton présenté ici correspond à un
+membre moyen de cette race d’Extérieurs
+maléfiques, mais il existe d’autres
+variantes. Selon la rumeur, il y aurait autant
+de sortes de kytons dans les cités suspendues
+de l’Enfer et sur le plan des Ombres que
+de différentes espèces de démons et de
+diables. 
+
+Ces autres kytons, tous plus puissants
+que celui qui est présenté ici, possèdent des
+pouvoirs magiques ou d’horribles attaques
+spéciales liées au thème de la torture et
+de la douleur. Les plus puissants de ces
+kytons, des créatures complètement
+inhumaines, seraient à l’origine de
+toute la race. Si cela est vrai, le kyton
+présenté ici serait simplement le
+produit d’affreux croisements
+entre ces kytons
+primordiaux et leurs
+malheureuses victimes.
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Kyton</fullName>
+</wikiPage>

@@ -1,0 +1,199 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Naga ténébreux</title>
+  <categories><category>Pathfinder-RPG.Bestiaire</category><category>Pathfinder-RPG.Monstre</category><category>Pathfinder-RPG.Règles officielles</category></categories>
+  <lastModified>2014-03-18 12:46:36Z</lastModified>
+  <version>9</version>
+  <inLinks><link>Pathfinder-RPG.Glossaire des monstres</link><link>Pathfinder-RPG.Liste de monstres par FP</link><link>Pathfinder-RPG.Liste de monstres par milieu naturel</link><link>Pathfinder-RPG.Liste de monstres par type</link><link>Pathfinder-RPG.Monstres</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.type Aberration</link><link>Pathfinder-RPG.vision dans le noir</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Déplacement</link><link>Pathfinder-RPG.Éclair</link><link>Pathfinder-RPG.Grâce féline</link><link>Pathfinder-RPG.Invisibilité</link><link>Pathfinder-RPG.Rayon ardent</link><link>Pathfinder-RPG.Bouclier</link><link>Pathfinder-RPG.Image silencieuse</link><link>Pathfinder-RPG.Projectile magique</link><link>Pathfinder-RPG.Rayon affaiblissant</link><link>Pathfinder-RPG.Repli expéditif</link><link>Pathfinder-RPG.Détection de la magie</link><link>Pathfinder-RPG.Hébétement</link><link>Pathfinder-RPG.Lecture de la magie</link><link>Pathfinder-RPG.Lumière</link><link>Pathfinder-RPG.Manipulation à distance</link><link>Pathfinder-RPG.Ouverturefermeture</link><link>Pathfinder-RPG.Rayon de givre</link><link>Pathfinder-RPG.croc-en-jambe</link><link>Pathfinder-RPG.Discret</link><link>Pathfinder-RPG.Dispense de composantes matérielles</link><link>Pathfinder-RPG.Esquive</link><link>Pathfinder-RPG.Magie de guerre</link><link>Pathfinder-RPG.Réflexes surhumains</link><link>Pathfinder-RPG.Vigilance</link><link>Pathfinder-RPG.Art de la magie</link><link>Pathfinder-RPG.Bluff</link><link>Pathfinder-RPG.Connaissances</link><link>Pathfinder-RPG.Déguisement</link><link>Pathfinder-RPG.Diplomatie</link><link>Pathfinder-RPG.Discrétion</link><link>Pathfinder-RPG.Évasion</link><link>Pathfinder-RPG.Intimidation</link><link>Pathfinder-RPG.Psychologie</link><link>Pathfinder-RPG.Détection de pensées</link><link>Pathfinder-RPG.NLS</link><link>Pathfinder-RPG.Volonté</link><link>Pathfinder-RPG.DD</link><link>Pathfinder-RPG.Charisme</link><link>Pathfinder-RPG.Vigueur</link><link>Pathfinder-RPG.jet de sauvegarde</link><link>Pathfinder-RPG.Ensorceleur</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Naga t&#233;n&#233;breux&lt;div style=&quot;float:right;&quot;&gt;FP 8&lt;/div&gt;&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Bestiaire p.225&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 4.800
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Aberration.html&quot; title=&quot;Aberration&quot;&gt;Aberration&lt;/a&gt; de taille G, LM
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +5 ; &lt;b&gt;Sens&lt;/b&gt; d&#233;tection des pens&#233;es, &lt;a class=&quot;pagelink&quot; href=&quot;Capacit&#233;s-Sp&#233;ciales.html#VISIONDANSLENOIR&quot; title=&quot;vision dans le noir&quot;&gt;vision dans le noir&lt;/a&gt; 18 m (12 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +19
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 22, contact 15, pris au d&#233;pourvu 16 (Dex +5, esquive +1, naturelle +7, taille -1)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 85 (10d8+40)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +10, &lt;b&gt;Vig&lt;/b&gt; +7, &lt;b&gt;Vol&lt;/b&gt; +9 ; +2 contre les charmes
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Capacit&#233;s d&#233;fensives&lt;/b&gt; protection des pens&#233;es ; &lt;b&gt;Immunit&#233;s&lt;/b&gt; poison 
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 12 m (8 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; morsure, +8 (1d4+2), dard, +8 (2d4+2 et poison)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Espace&lt;/b&gt; 3 m (2 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) ; &lt;b&gt;Allonge&lt;/b&gt; 1,50 m (1 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Sorts connus&lt;/b&gt; (NLS 7&lt;sup&gt;e&lt;/sup&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+3 (5/jour)—&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;D&#233;placement.html&quot; title=&quot;D&#233;placement&quot;&gt;d&#233;placement&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;&#201;clair.html&quot; title=&quot;&#201;clair&quot;&gt;&#233;clair&lt;/a&gt;&lt;/i&gt; (DD 16)
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+2 (7/jour)—&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Gr&#226;ce-F&#233;line.html&quot; title=&quot;Gr&#226;ce f&#233;line&quot;&gt;gr&#226;ce f&#233;line&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Invisibilit&#233;.html&quot; title=&quot;Invisibilit&#233;&quot;&gt;invisibilit&#233;&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Rayon-Ardent.html&quot; title=&quot;Rayon ardent&quot;&gt;rayon ardent&lt;/a&gt;&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+1 (7/jour)—&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Bouclier.html&quot; title=&quot;Bouclier&quot;&gt;bouclier&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Image-Silencieuse.html&quot; title=&quot;Image silencieuse&quot;&gt;image silencieuse&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Projectile-Magique.html&quot; title=&quot;Projectile magique&quot;&gt;projectile magique&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Rayon-Affaiblissant.html&quot; title=&quot;Rayon affaiblissant&quot;&gt;rayon affaiblissant&lt;/a&gt;&lt;/i&gt; (DD 14), &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Repli-Exp&#233;ditif.html&quot; title=&quot;Repli exp&#233;ditif&quot;&gt;repli exp&#233;ditif&lt;/a&gt;&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+0 (&#224; volont&#233;)—&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;D&#233;tection-De-La-Magie.html&quot; title=&quot;D&#233;tection de la magie&quot;&gt;d&#233;tection de la magie&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;H&#233;b&#233;tement.html&quot; title=&quot;H&#233;b&#233;tement&quot;&gt;h&#233;b&#233;tement&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Lecture-De-La-Magie.html&quot; title=&quot;Lecture de la magie&quot;&gt;lecture de la magie&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Lumi&#232;re.html&quot; title=&quot;Lumi&#232;re&quot;&gt;lumi&#232;re&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Manipulation-&#192;-Distance.html&quot; title=&quot;Manipulation &#224; distance&quot;&gt;manipulation &#224; distance&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Ouverturefermeture.html&quot; title=&quot;Ouverture/fermeture&quot;&gt;ouverture/fermeture&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Rayon-De-Givre.html&quot; title=&quot;Rayon de givre&quot;&gt;rayon de givre&lt;/a&gt;&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 14, &lt;b&gt;Dex&lt;/b&gt; 21, &lt;b&gt;Con&lt;/b&gt; 18, &lt;b&gt;Int&lt;/b&gt; 16, &lt;b&gt;Sag&lt;/b&gt; 15, &lt;b&gt;Cha&lt;/b&gt; 17
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +7, &lt;b&gt;BMO&lt;/b&gt; +10, &lt;b&gt;DMD&lt;/b&gt; 26 (&lt;a class=&quot;pagelink&quot; href=&quot;Croc-En-Jambe.html&quot; title=&quot;croc-en-jambe&quot;&gt;croc-en-jambe&lt;/a&gt; impossible)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Discret.html&quot; title=&quot;Discret&quot;&gt;Discret&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Dispense-De-Composantes-Mat&#233;rielles.html&quot; title=&quot;Dispense de composantes mat&#233;rielles&quot;&gt;Dispense de composantes mat&#233;rielles&lt;/a&gt;&lt;sup&gt;B&lt;/sup&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Esquive.html&quot; title=&quot;Esquive&quot;&gt;Esquive&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Magie-De-Guerre.html&quot; title=&quot;Magie de guerre&quot;&gt;Magie de guerre&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;R&#233;flexes-Surhumains.html&quot; title=&quot;R&#233;flexes surhumains&quot;&gt;R&#233;flexes surhumains&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Vigilance.html&quot; title=&quot;Vigilance&quot;&gt;Vigilance&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Art-De-La-Magie.html&quot; title=&quot;Art de la magie&quot;&gt;Art de la magie&lt;/a&gt; +12, &lt;a class=&quot;pagelink&quot; href=&quot;Bluff.html&quot; title=&quot;Bluff&quot;&gt;Bluff&lt;/a&gt; +13, &lt;a class=&quot;pagelink&quot; href=&quot;Connaissances.html&quot; title=&quot;Connaissances&quot;&gt;Connaissances&lt;/a&gt; (myst&#232;res) +13, &lt;a class=&quot;pagelink&quot; href=&quot;D&#233;guisement.html&quot; title=&quot;D&#233;guisement&quot;&gt;D&#233;guisement&lt;/a&gt; +9, &lt;a class=&quot;pagelink&quot; href=&quot;Diplomatie.html&quot; title=&quot;Diplomatie&quot;&gt;Diplomatie&lt;/a&gt; +9, &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; +18, &lt;a class=&quot;pagelink&quot; href=&quot;&#201;vasion.html&quot; title=&quot;&#201;vasion&quot;&gt;&#201;vasion&lt;/a&gt; +13, &lt;a class=&quot;pagelink&quot; href=&quot;Intimidation.html&quot; title=&quot;Intimidation&quot;&gt;Intimidation&lt;/a&gt; +12, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +19, &lt;a class=&quot;pagelink&quot; href=&quot;Psychologie.html&quot; title=&quot;Psychologie&quot;&gt;Psychologie&lt;/a&gt; +10
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Langues&lt;/b&gt; commun, infernal
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; souterrain
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation sociale&lt;/b&gt; solitaire ou nid (2-4)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; standard
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Capacit&#233;s sp&#233;ciales&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;D&#233;tection des pens&#233;es (Sur).&lt;/b&gt; Ce pouvoir, que les nagas t&#233;n&#233;breux peuvent utiliser de mani&#232;re continue, est similaire au sort de &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;D&#233;tection-De-Pens&#233;es.html&quot; title=&quot;D&#233;tection de pens&#233;es&quot;&gt;d&#233;tection de pens&#233;es&lt;/a&gt;&lt;/i&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Lancer-Des-Sorts.html#NLS&quot; title=&quot;NLS&quot;&gt;NLS&lt;/a&gt; 9 , &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;Volont&#233;&quot;&gt;Volont&#233;&lt;/a&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DEGREDEDIFFICULTE&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; 18 annule). Le &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DEGREDEDIFFICULTE&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; d&#233;pend du &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#CHARISME&quot; title=&quot;Le Charisme&quot;&gt;Charisme&lt;/a&gt;.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Poison (Ext).&lt;/b&gt; Dard - blessure ; &lt;i&gt;JS&lt;/i&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;Vigueur&quot;&gt;Vigueur&lt;/a&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DEGREDEDIFFICULTE&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; 19 ; &lt;i&gt;fr&#233;quence&lt;/i&gt; 1 round ; &lt;i&gt;effet&lt;/i&gt; sommeil pendant 1d4 minutes ; &lt;i&gt;gu&#233;rison&lt;/i&gt; 1 r&#233;ussite.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Protection des pens&#233;es (Ext).&lt;/b&gt; Les nagas t&#233;n&#233;breux sont immunis&#233;s contre toutes les formes de lecture des pens&#233;es (comme le sort de &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;D&#233;tection-De-Pens&#233;es.html&quot; title=&quot;D&#233;tection de pens&#233;es&quot;&gt;d&#233;tection de pens&#233;es&lt;/a&gt;&lt;/i&gt;). Cette capacit&#233; leur donne &#233;galement un bonus racial de +2 &#224; tous les &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;jet de sauvegarde&quot;&gt;jets de sauvegarde&lt;/a&gt; contre les effets de charme.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Sorts (Ext).&lt;/b&gt; Les nagas t&#233;n&#233;breux lancent des sorts comme des &lt;a class=&quot;pagelink&quot; href=&quot;Ensorceleur.html&quot; title=&quot;L&amp;#39;ensorceleur&quot;&gt;ensorceleurs&lt;/a&gt; de niveau 7.
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;td&gt;&lt;div&gt;&lt;i&gt;Une t&#234;te humano&#239;de aux traits burin&#233;s se dresse au bout du corps puissant et sinueux de ce monstre serpentin.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Les nagas t&#233;n&#233;breux convoitent le luxe, la richesse et le pouvoir plus
+que toute autre chose. Ces cr&#233;atures, dont le corps est recouvert
+d’&#233;cailles d’anguilles noires et luisantes, se faufilent avec agilit&#233; &#224;
+travers les terres d&#233;sert&#233;es et les ruines abandonn&#233;es &#224; la recherche
+de tr&#233;sors et de cr&#233;atures plus faibles qu’elles pourront asservir. &lt;br /&gt;&lt;br /&gt;Les nagas t&#233;n&#233;breux n’utilisent leur langue fourchue que pour r&#233;pandre
+des mensonges et, lorsqu’ils sont confront&#233;s &#224; des cr&#233;atures qu’ils ne
+parviennent pas &#224; manipuler, ils les d&#233;truisent &#224; l’aide de leur terrible
+poison et de leurs pouvoirs magiques d&#233;vastateurs. Un naga t&#233;n&#233;breux
+mesure &#224; peu pr&#232;s 3,60 m&#232;tres de long et p&#232;se plus de 150 kg.&lt;br /&gt;&lt;br /&gt;Arrogants et sybarites, ils cherchent &#224; dominer des cr&#233;atures
+inf&#233;rieures. La peur qu’ils inspirent et le pouvoir qu’ils exercent
+sur elles leur procurent un grand plaisir. Certains sp&#233;cimens
+parviennent &#224; se cr&#233;er des royaumes constitu&#233;s de tribus de
+gobelins, d’orques, d’hommes-l&#233;zards ou d’autres races sauvages.&lt;br /&gt;&lt;br /&gt;Les raffinements cosmopolites de la civilisation attirent
+&#233;galement les nagas t&#233;n&#233;breux et poussent certains d’entre eux &#224;
+s’infiltrer dans les &#233;gouts et les quartiers pauvres des villes afin de
+s’y constituer un groupe de serviteurs urbains. &lt;br /&gt;&lt;br /&gt;Ils appr&#233;cient tout
+particuli&#232;rement les bijoux et les tr&#233;sors morbides. Ils aiment se
+parer de bandeaux incrust&#233;s de joyaux ou se pr&#233;lasser au sommet
+de leur monticule de tr&#233;sors.&lt;br /&gt;&lt;br /&gt;Les nagas t&#233;n&#233;breux ha&#239;ssent les autres individus de leur
+esp&#232;ce, tout sp&#233;cialement les autres nagas t&#233;n&#233;breux, qu’ils
+consid&#232;rent comme des adversaires mortels dont il vaut mieux se
+d&#233;barrasser rapidement. Ce en quoi ils ont raison.
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Naga ténébreux|FP 8}
+{s:pucem|Aberration|Souterrain|Tempéré}
+{s:BDTexte|''Source : Bestiaire p.225''}
+{s:BDTexte|'''PX''' 4.800}
+{s:BDTexte|[[type Aberration|Aberration]] de taille G, LM}
+{s:BDTexte|'''Init''' +5 ; '''Sens''' détection des pensées, [[vision dans le noir]] 18 m (12 {s:c}) ; [[Perception]] +19}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 22, contact 15, pris au dépourvu 16 (Dex +5, esquive +1, naturelle +7, taille -1)}
+{s:BDTexte|'''pv''' 85 (10d8+40)}
+{s:BDTexte|'''Réf''' +10, '''Vig''' +7, '''Vol''' +9 ; +2 contre les charmes}
+{s:BDTexte|'''Capacités défensives''' protection des pensées ; '''Immunités''' poison }
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 12 m (8 {s:c})}
+{s:BDTexte|'''Corps à corps''' morsure, +8 (1d4+2), dard, +8 (2d4+2 et poison)}
+{s:BDTexte|'''Espace''' 3 m (2 {s:c}) ; '''Allonge''' 1,50 m (1 {s:c})}
+{s:BDTexte|'''Sorts connus''' (NLS 7<sup>e</sup>)}
+{s:BDSorts|3 (5/jour)—''[[déplacement]]'', ''[[éclair]]'' (DD 16)}
+{s:BDSorts|2 (7/jour)—''[[grâce féline]]'', ''[[invisibilité]]'', ''[[rayon ardent]]''}
+{s:BDSorts|1 (7/jour)—''[[bouclier]]'', ''[[image silencieuse]]'', ''[[projectile magique]]'', ''[[rayon affaiblissant]]'' (DD 14), ''[[repli expéditif]]''}
+{s:BDSorts|0 (à volonté)—''[[détection de la magie]]'', ''[[hébétement]]'', ''[[lecture de la magie]]'', ''[[lumière]]'', ''[[manipulation à distance]]'', ''[[ouverturefermeture|ouverture/fermeture]]'', ''[[rayon de givre]]''}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 14, '''Dex''' 21, '''Con''' 18, '''Int''' 16, '''Sag''' 15, '''Cha''' 17}
+{s:BDTexte|'''BBA''' +7, '''BMO''' +10, '''DMD''' 26 ([[croc-en-jambe]] impossible)}
+{s:BDTexte|'''Dons''' [[Discret]], [[Dispense de composantes matérielles]]<sup>B</sup>, [[Esquive]], [[Magie de guerre]], [[Réflexes surhumains]], [[Vigilance]]}
+{s:BDTexte|'''Compétences''' [[Art de la magie]] +12, [[Bluff]] +13, [[Connaissances]] (mystères) +13, [[Déguisement]] +9, [[Diplomatie]] +9, [[Discrétion]] +18, [[Évasion]] +13, [[Intimidation]] +12, [[Perception]] +19, [[Psychologie]] +10}
+{s:BDTexte|'''Langues''' commun, infernal}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' souterrain}
+{s:BDTexte|'''Organisation sociale''' solitaire ou nid (2-4)}
+{s:BDTexte|'''Trésor''' standard}
+{s:BDSousTitre|Capacités spéciales}
+{s:BDTexte|'''Détection des pensées (Sur).''' Ce pouvoir, que les nagas ténébreux peuvent utiliser de manière continue, est similaire au sort de ''[[détection de pensées]]'' ([[NLS]] 9 , [[Volonté]] [[DD]] 18 annule). Le [[DD]] dépend du [[Charisme]].}
+{s:BDTexte|'''Poison (Ext).''' Dard - blessure ; ''JS'' [[Vigueur]] [[DD]] 19 ; ''fréquence'' 1 round ; ''effet'' sommeil pendant 1d4 minutes ; ''guérison'' 1 réussite.}
+{s:BDTexte|'''Protection des pensées (Ext).''' Les nagas ténébreux sont immunisés contre toutes les formes de lecture des pensées (comme le sort de ''[[détection de pensées]]''). Cette capacité leur donne également un bonus racial de +2 à tous les [[jet de sauvegarde|jets de sauvegarde]] contre les effets de charme.}
+{s:BDTexte|'''Sorts (Ext).''' Les nagas ténébreux lancent des sorts comme des [[ensorceleur|ensorceleurs]] de niveau 7.}
+</div>
+</td><td><div>''Une tête humanoïde aux traits burinés se dresse au bout du corps puissant et sinueux de ce monstre serpentin.''
+
+Les nagas ténébreux convoitent le luxe, la richesse et le pouvoir plus
+que toute autre chose. Ces créatures, dont le corps est recouvert
+d’écailles d’anguilles noires et luisantes, se faufilent avec agilité à
+travers les terres désertées et les ruines abandonnées à la recherche
+de trésors et de créatures plus faibles qu’elles pourront asservir. 
+
+Les nagas ténébreux n’utilisent leur langue fourchue que pour répandre
+des mensonges et, lorsqu’ils sont confrontés à des créatures qu’ils ne
+parviennent pas à manipuler, ils les détruisent à l’aide de leur terrible
+poison et de leurs pouvoirs magiques dévastateurs. Un naga ténébreux
+mesure à peu près 3,60 mètres de long et pèse plus de 150 kg.
+
+Arrogants et sybarites, ils cherchent à dominer des créatures
+inférieures. La peur qu’ils inspirent et le pouvoir qu’ils exercent
+sur elles leur procurent un grand plaisir. Certains spécimens
+parviennent à se créer des royaumes constitués de tribus de
+gobelins, d’orques, d’hommes-lézards ou d’autres races sauvages.
+
+Les raffinements cosmopolites de la civilisation attirent
+également les nagas ténébreux et poussent certains d’entre eux à
+s’infiltrer dans les égouts et les quartiers pauvres des villes afin de
+s’y constituer un groupe de serviteurs urbains. 
+
+Ils apprécient tout
+particulièrement les bijoux et les trésors morbides. Ils aiment se
+parer de bandeaux incrustés de joyaux ou se prélasser au sommet
+de leur monticule de trésors.
+
+Les nagas ténébreux haïssent les autres individus de leur
+espèce, tout spécialement les autres nagas ténébreux, qu’ils
+considèrent comme des adversaires mortels dont il vaut mieux se
+débarrasser rapidement. Ce en quoi ils ont raison.
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Naga ténébreux</fullName>
+</wikiPage>

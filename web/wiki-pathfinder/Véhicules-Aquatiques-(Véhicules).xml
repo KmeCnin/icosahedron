@@ -1,0 +1,206 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Les véhicules aquatiques</title>
+  <categories><category>Pathfinder-RPG.Art de la guerre</category><category>Pathfinder-RPG.Règles officielles</category><category>Pathfinder-RPG.Véhicule</category></categories>
+  <lastModified>2013-06-01 13:02:03Z</lastModified>
+  <version>0</version>
+  <inLinks><link>Pathfinder-RPG.Cadeaux</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Moyens de transport</link><link>Pathfinder-RPG.Profession</link><link>Pathfinder-RPG.Connaissances</link><link>Pathfinder-RPG.DD</link><link>Pathfinder-RPG.Survie</link><link>Pathfinder-RPG.Diplomatie</link><link>Pathfinder-RPG.Intimidation</link></outLinks>
+  <body><![CDATA[
+&lt;i&gt;Les r&#232;gles de base donnent une id&#233;e g&#233;n&#233;rale du comportement des v&#233;hicules durant le round de combat et de leurs diff&#233;rences avec des cr&#233;atures. Les  parties suivantes approfondissent la mani&#232;re de les g&#233;rer pendant le combat.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Les v&#233;hicules aquatiques se d&#233;placent sur des &#233;tendues d&#39;eau aussi petites que des rivi&#232;res ou aussi vastes que des oc&#233;ans. Ils sont typiquement propuls&#233;s par le muscle ou la voile mais peuvent &#234;tre d&#233;plac&#233;s par diff&#233;rentes m&#233;thodes. Les v&#233;hicules terrestres suivants sont les plus communs et incluent tous ceux que les personnages peuvent acheter dans le &lt;i&gt;Manuel des joueurs&lt;/i&gt; (voir la section &quot;&lt;a class=&quot;pagelink&quot; href=&quot;Moyens-De-Transport.html&quot; title=&quot;Moyens de transport&quot;&gt;Moyens de transport&lt;/a&gt;&quot;). &lt;br /&gt;&lt;br /&gt;&lt;table class=&quot;page espace-col&quot;&gt;
+&lt;tr&gt;&lt;td style=&quot;width:40%&quot;&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Bateau &#224; voiles&lt;div style=&quot;float:right;&quot;&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;ul&gt;&lt;li&gt;V&#233;hicule aquatique de taille C&lt;/li&gt;&lt;li&gt;&lt;b&gt;Cases&lt;/b&gt; 60 (6 m sur 22,50 m) ; &lt;b&gt;Co&#251;t&lt;/b&gt; 10 000 po&lt;br /&gt;&lt;div class=&quot;box&quot;&gt;D&#233;fense&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;CA&lt;/b&gt; 2 ; &lt;b&gt;Solidit&#233;&lt;/b&gt; 5&lt;/li&gt;&lt;li&gt;&lt;b&gt;pv&lt;/b&gt; 900 (449)&lt;/li&gt;&lt;li&gt;&lt;b&gt;Jet de sauvegarde de base&lt;/b&gt; +0&lt;br /&gt;&lt;div class=&quot;box&quot;&gt;Attaque&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;Vitesse maximale&lt;/b&gt; 54 m (36 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;, courants) ou 18 m (12 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) ; &lt;b&gt;Acc&#233;l&#233;ration&lt;/b&gt; 9 m (6 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;, courants) ou 4,50 m (3 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;, muscle)&lt;/li&gt;&lt;li&gt;&lt;b&gt;BMO&lt;/b&gt; +8 ; &lt;b&gt;DMD&lt;/b&gt; 18&lt;/li&gt;&lt;li&gt;&lt;b&gt;D&#233;g&#226;ts de collision&lt;/b&gt; 8d8&lt;br /&gt;&lt;div class=&quot;box&quot;&gt;Description&lt;/div&gt;&lt;/li&gt;&lt;li&gt;Ce bateau &#224; voiles massif est utilis&#233; pour les voyages sur l&#39;oc&#233;an. Il peut transporter 150 tonnes de marchandises en plus d&#39;un &#233;quipage complet et de passagers. Ce navires peut contenir 150 tonnes de bien ou 200 passagers.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Propulsion&lt;/b&gt; courants (a&#233;rien ; 2 m&#226;ts, voilure de 30 cases, pv 150) ou courants (aquatique)&lt;/li&gt;&lt;li&gt;&lt;b&gt;Test de conduite&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Profession.html&quot; title=&quot;Profession&quot;&gt;Profession&lt;/a&gt; (marin) ou &lt;a class=&quot;pagelink&quot; href=&quot;Connaissances.html&quot; title=&quot;Connaissances&quot;&gt;Connaissances&lt;/a&gt; (nature), &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DEGREDEDIFFICULTE&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; +10&lt;/li&gt;&lt;li&gt;&lt;b&gt;Avant&lt;/b&gt; l&#39;avant du navire&lt;/li&gt;&lt;li&gt;&lt;b&gt;Syst&#232;me de conduite&lt;/b&gt; barre&lt;/li&gt;&lt;li&gt;&lt;b&gt;Espace de conduite&lt;/b&gt; Les 9 cases autour de la roue, en g&#233;n&#233;ral localis&#233;e &#224; l&#39;arri&#232;re du navire&lt;/li&gt;&lt;li&gt;&lt;b&gt;&#201;quipage&lt;/b&gt; 20&lt;/li&gt;&lt;li&gt;&lt;b&gt;Ponts&lt;/b&gt; 2&lt;/li&gt;&lt;li&gt;&lt;b&gt;Armes&lt;/b&gt; jusqu&#39;&#224; 20 engins de si&#232;ge &#224; tir direct de taille G dispos&#233;s en bancs de 10 &#224; b&#226;bord et &#224; tribord du navire ; ou jusqu&#39;&#224; 6 engins de si&#232;ge &#224; tir direct de taille TG dispos&#233;s en bancs de 3 &#224; b&#226;bord et &#224; tribord du navire. Ces armes ne peuvent tirer que sur les c&#244;t&#233;s o&#249; elles sont positionn&#233;es et il est donc impossible de les faire pivoter afin qu&#39;elles tirent vers l&#39;avant ou l&#39;arri&#232;re du navire.&lt;br /&gt;&lt;/li&gt;&lt;/ul&gt;&lt;br /&gt;&lt;/div&gt;
+&lt;/td&gt;
+&lt;td width=&quot;40%&quot;&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Bateau de guerre&lt;div style=&quot;float:right;&quot;&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;ul&gt;&lt;li&gt;V&#233;hicule aquatique de taille C&lt;/li&gt;&lt;li&gt;&lt;b&gt;Cases&lt;/b&gt; 80 (6 m sur 30 m) ; &lt;b&gt;Co&#251;t&lt;/b&gt; 25 000 po&lt;br /&gt;&lt;div class=&quot;box&quot;&gt;D&#233;fense&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;CA&lt;/b&gt; 2 ; &lt;b&gt;Solidit&#233;&lt;/b&gt; 10&lt;/li&gt;&lt;li&gt;&lt;b&gt;pv&lt;/b&gt; 1 200 (599)&lt;/li&gt;&lt;li&gt;&lt;b&gt;Jet de sauvegarde de base&lt;/b&gt; +0&lt;br /&gt;&lt;div class=&quot;box&quot;&gt;Attaque&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;Vitesse maximale&lt;/b&gt; 45 m (30 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;, courants) ou 18 m (12 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) ; &lt;b&gt;Acc&#233;l&#233;ration&lt;/b&gt; 9 m (6 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;, courants) ou 4,50 m (3 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;, muscle)&lt;/li&gt;&lt;li&gt;&lt;b&gt;BMO&lt;/b&gt; +8 ; &lt;b&gt;DMD&lt;/b&gt; 18&lt;/li&gt;&lt;li&gt;&lt;b&gt;D&#233;g&#226;ts de collision&lt;/b&gt; 8d8&lt;br /&gt;&lt;div class=&quot;box&quot;&gt;Description&lt;/div&gt;&lt;/li&gt;&lt;li&gt;Ce bateau est trait&#233; avec du bois renforc&#233; et utilis&#233; pour des incursions &#224; courte distance et le d&#233;ploiement des troupes. Un bateau de guerre peu transporter 50 tonnes ou 160 soldats.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Propulsion&lt;/b&gt; courants (a&#233;rien et aquatique ; un m&#226;t, voilure de 160 cases, pv 800) ou muscle (pouss&#233; ; 80 rameurs de taille M)&lt;/li&gt;&lt;li&gt;&lt;b&gt;Test de conduite&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Profession.html&quot; title=&quot;Profession&quot;&gt;Profession&lt;/a&gt; (marin) ou &lt;a class=&quot;pagelink&quot; href=&quot;Connaissances.html&quot; title=&quot;Connaissances&quot;&gt;Connaissances&lt;/a&gt; (nature), &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DEGREDEDIFFICULTE&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; +10&lt;/li&gt;&lt;li&gt;&lt;b&gt;Avant&lt;/b&gt; l&#39;avant du navire&lt;/li&gt;&lt;li&gt;&lt;b&gt;Syst&#232;me de conduite&lt;/b&gt; barre&lt;/li&gt;&lt;li&gt;&lt;b&gt;Espace de conduite&lt;/b&gt; Les 9 cases autour de la roue, en g&#233;n&#233;ral localis&#233;e &#224; l&#39;arri&#232;re du navire&lt;/li&gt;&lt;li&gt;&lt;b&gt;&#201;quipage&lt;/b&gt; 60&lt;/li&gt;&lt;li&gt;&lt;b&gt;Ponts&lt;/b&gt; 2&lt;/li&gt;&lt;li&gt;&lt;b&gt;Armes&lt;/b&gt; jusqu&#39;&#224; 20 engins de si&#232;ge &#224; tir direct de taille G dispos&#233;s en bancs de 10 &#224; b&#226;bord et &#224; tribord du navire ; ou jusqu&#39;&#224; 6 engins de si&#232;ge &#224; tir direct de taille TG dispos&#233;s en bancs de 3 &#224; b&#226;bord et &#224; tribord du navire. Ces armes ne peuvent tirer que sur les c&#244;t&#233;s o&#249; elles sont positionn&#233;es et il est donc impossible de les faire pivoter afin qu&#39;elles tirent vers l&#39;avant ou l&#39;arri&#232;re du navire.&lt;br /&gt;&lt;/li&gt;&lt;/ul&gt;&lt;br /&gt;&lt;/div&gt;&lt;br /&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&quot;width:40%&quot;&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Chaloupe&lt;div style=&quot;float:right;&quot;&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;ul&gt;&lt;li&gt;V&#233;hicule aquatique de taille G&lt;/li&gt;&lt;li&gt;&lt;b&gt;Cases&lt;/b&gt; 3 (1,50 m sur 4,50 m) ; &lt;b&gt;Co&#251;t&lt;/b&gt; 50 po&lt;br /&gt;&lt;div class=&quot;box&quot;&gt;D&#233;fense&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;CA&lt;/b&gt; 2 ; &lt;b&gt;Solidit&#233;&lt;/b&gt; 5&lt;/li&gt;&lt;li&gt;&lt;b&gt;pv&lt;/b&gt; 60 (29)&lt;/li&gt;&lt;li&gt;&lt;b&gt;Jet de sauvegarde de base&lt;/b&gt; +0&lt;br /&gt;&lt;div class=&quot;box&quot;&gt;Attaque&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;Vitesse maximale&lt;/b&gt; 4,50 m (3 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) ; &lt;b&gt;Acc&#233;l&#233;ration&lt;/b&gt; 3 m (2 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)&lt;/li&gt;&lt;li&gt;&lt;b&gt;BMO&lt;/b&gt; +1 ; &lt;b&gt;DMD&lt;/b&gt; 11&lt;/li&gt;&lt;li&gt;&lt;b&gt;D&#233;g&#226;ts de collision&lt;/b&gt; 1d8&lt;br /&gt;&lt;div class=&quot;box&quot;&gt;Description&lt;/div&gt;&lt;/li&gt;&lt;li&gt;Ce petit bateau est en premier lieu utilis&#233; pour d&#233;barquer des navires plus grands ou pour traverser de petites &#233;tendues d&#39;eau - peut-&#234;tre pour permettre &#224; quelques passagers de traverser un fleuve ou un petit lac. Une chaloupe peut transporter une cargaison de 500 kilos ou 2 passagers.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Propulsion&lt;/b&gt; courants (aquatique) ou muscle (pouss&#233;, 1 ou 2 rameurs de taille M, l&#39;un d&#39;entre eux est le pilote)&lt;/li&gt;&lt;li&gt;&lt;b&gt;Test de conduite&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Survie.html&quot; title=&quot;Survie&quot;&gt;Survie&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;Avant&lt;/b&gt; l&#39;avant du bateau&lt;/li&gt;&lt;li&gt;&lt;b&gt;Syst&#232;me de conduite&lt;/b&gt; rames&lt;/li&gt;&lt;li&gt;&lt;b&gt;Espace de conduite&lt;/b&gt; la case centrale de la chaloupe&lt;/li&gt;&lt;li&gt;&lt;b&gt;Ponts&lt;/b&gt; 1&lt;br /&gt;&lt;/li&gt;&lt;/ul&gt;&lt;br /&gt;&lt;/div&gt;
+&lt;/td&gt;
+&lt;td width=&quot;40%&quot;&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Drakkar&lt;div style=&quot;float:right;&quot;&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;ul&gt;&lt;li&gt;V&#233;hicule aquatique de taille C&lt;/li&gt;&lt;li&gt;&lt;b&gt;Cases&lt;/b&gt; 45 (4,50 m sur 22,50 m) ; &lt;b&gt;Co&#251;t&lt;/b&gt; 10 000 po&lt;br /&gt;&lt;div class=&quot;box&quot;&gt;D&#233;fense&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;CA&lt;/b&gt; 2 ; &lt;b&gt;Solidit&#233;&lt;/b&gt; 5&lt;/li&gt;&lt;li&gt;&lt;b&gt;pv&lt;/b&gt; 675 (337)&lt;/li&gt;&lt;li&gt;&lt;b&gt;Jet de sauvegarde de base&lt;/b&gt; +5&lt;br /&gt;&lt;div class=&quot;box&quot;&gt;Attaque&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;Vitesse maximale&lt;/b&gt; 36 m (24 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;, courants et muscle) ou 9 m (6 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;, muscle seulement) ; &lt;b&gt;Acc&#233;l&#233;ration&lt;/b&gt; 9 m (6 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;, courants et muscle) ou 4,50 m (3 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;, muscle seulement)&lt;/li&gt;&lt;li&gt;&lt;b&gt;BMO&lt;/b&gt; +8 ; &lt;b&gt;DMD&lt;/b&gt; 18&lt;/li&gt;&lt;li&gt;&lt;b&gt;D&#233;g&#226;ts de collision&lt;/b&gt; 8d8&lt;br /&gt;&lt;div class=&quot;box&quot;&gt;Description&lt;/div&gt;&lt;/li&gt;&lt;li&gt;Ce long bateau relativement fin n&#39;a qu&#39;un seul mat et une voile carr&#233;e. Il peut traverser les lacs, les oc&#233;ans et les rivi&#232;res profondes, et transporter une cargaison de 50 tonnes ou 100 soldats.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Propulsion&lt;/b&gt; courants (a&#233;rien ; un m&#226;t, voilure de 10 cases, pv 50), courants (aquatique) ou muscle (pouss&#233; ; 4 rameurs de taille M)&lt;/li&gt;&lt;li&gt;&lt;b&gt;Test de conduite&lt;/b&gt;  &lt;a class=&quot;pagelink&quot; href=&quot;Diplomatie.html&quot; title=&quot;Diplomatie&quot;&gt;Diplomatie&lt;/a&gt; ou &lt;a class=&quot;pagelink&quot; href=&quot;Intimidation.html&quot; title=&quot;Intimidation&quot;&gt;Intimidation&lt;/a&gt; quand il avance &#224; la rame, ou &lt;a class=&quot;pagelink&quot; href=&quot;Profession.html&quot; title=&quot;Profession&quot;&gt;Profession&lt;/a&gt; (marin) ou &lt;a class=&quot;pagelink&quot; href=&quot;Connaissances.html&quot; title=&quot;Connaissances&quot;&gt;Connaissances&lt;/a&gt; (nature), &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DEGREDEDIFFICULTE&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; +10 lorsque la voile est utilis&#233;e&lt;/li&gt;&lt;li&gt;&lt;b&gt;Avant&lt;/b&gt; l&#39;avant du navire&lt;/li&gt;&lt;li&gt;&lt;b&gt;Syst&#232;me de conduite&lt;/b&gt; gouvernail&lt;/li&gt;&lt;li&gt;&lt;b&gt;Espace de conduite&lt;/b&gt; Les 2 cases arri&#232;res centrales du drakkar&lt;/li&gt;&lt;li&gt;&lt;b&gt;&#201;quipage&lt;/b&gt; 40&lt;/li&gt;&lt;li&gt;&lt;b&gt;Ponts&lt;/b&gt; 1 (avec un petit espace de stockage pour la cargaison sous le pont)&lt;br /&gt;&lt;/li&gt;&lt;/ul&gt;&lt;br /&gt;&lt;/div&gt;&lt;br /&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td style=&quot;width:40%&quot;&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Gal&#232;re&lt;div style=&quot;float:right;&quot;&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;ul&gt;&lt;li&gt;V&#233;hicule aquatique de taille C&lt;/li&gt;&lt;li&gt;&lt;b&gt;Cases&lt;/b&gt; 104 (6 m sur 39 m) ; &lt;b&gt;Co&#251;t&lt;/b&gt; 10 000 po&lt;br /&gt;&lt;div class=&quot;box&quot;&gt;D&#233;fense&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;CA&lt;/b&gt; 2 ; &lt;b&gt;Solidit&#233;&lt;/b&gt; 5&lt;/li&gt;&lt;li&gt;&lt;b&gt;pv&lt;/b&gt; 1 560 (779)&lt;/li&gt;&lt;li&gt;&lt;b&gt;Jet de sauvegarde de base&lt;/b&gt; +0&lt;br /&gt;&lt;div class=&quot;box&quot;&gt;Attaque&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;Vitesse maximale&lt;/b&gt; 54 m (36 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;, courants) ou 18 m (12 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;, muscle) ; &lt;b&gt;Acc&#233;l&#233;ration&lt;/b&gt; 9 m (6 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;, courants) ou 4,50 m (3 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;, muscle)&lt;/li&gt;&lt;li&gt;&lt;b&gt;BMO&lt;/b&gt; +8 ; &lt;b&gt;DMD&lt;/b&gt; 18&lt;/li&gt;&lt;li&gt;&lt;b&gt;D&#233;g&#226;ts de collision&lt;/b&gt; 8d8&lt;br /&gt;&lt;div class=&quot;box&quot;&gt;Description&lt;/div&gt;&lt;/li&gt;&lt;li&gt;C&#39;est l&#39;un des plus grands bateaux &#224; voiles des mers. Ce navire massif ne peut pas effectuer de voyages transoc&#233;aniques et se contente en g&#233;n&#233;rale de faire du cabotage. Il peut transporter 150 tonnes de marchandises ou 250 soldats.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Propulsion&lt;/b&gt; courants (a&#233;rien ; 3 m&#226;ts, voilure de 60 cases, pv 300), courants (aquatique) ou muscle (pouss&#233;, 140 rameurs de taille M)&lt;/li&gt;&lt;li&gt;&lt;b&gt;Test de conduite&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Profession.html&quot; title=&quot;Profession&quot;&gt;Profession&lt;/a&gt; (marin) ou &lt;a class=&quot;pagelink&quot; href=&quot;Connaissances.html&quot; title=&quot;Connaissances&quot;&gt;Connaissances&lt;/a&gt; (nature), &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DEGREDEDIFFICULTE&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; +10&lt;/li&gt;&lt;li&gt;&lt;b&gt;Avant&lt;/b&gt; la proue du navire&lt;/li&gt;&lt;li&gt;&lt;b&gt;Syst&#232;me de conduite&lt;/b&gt; barre&lt;/li&gt;&lt;li&gt;&lt;b&gt;Espace de conduite&lt;/b&gt; Les 9 cases autour de la roue, en g&#233;n&#233;ral localis&#233;e &#224; l&#39;arri&#232;re du navire&lt;/li&gt;&lt;li&gt;&lt;b&gt;&#201;quipage&lt;/b&gt; 20 &#224; 160 (si le bateau a des rames)&lt;/li&gt;&lt;li&gt;&lt;b&gt;Ponts&lt;/b&gt; 3&lt;/li&gt;&lt;li&gt;&lt;b&gt;Armes&lt;/b&gt; jusqu&#39;&#224; 40 engins de si&#232;ge &#224; tir direct de taille G dispos&#233;s en bancs de 20 &#224; b&#226;bord et &#224; tribord du navire ; ou jusqu&#39;&#224; 12 engins de si&#232;ge &#224; tir direct de taille TG dispos&#233;s en bancs de 6 &#224; b&#226;bord et &#224; tribord du navire. Ces armes ne peuvent tirer que sur les c&#244;t&#233;s o&#249; elles sont positionn&#233;es et il est donc impossible de les faire pivoter afin qu&#39;elles tirent vers l&#39;avant ou l&#39;arri&#232;re du navire. Elles ne peuvent &#234;tre utilis&#233;es lorsque la gal&#232;re est &#224; la rame. Pour 8 000 po de plus, le navire peut &#234;tre &#233;quip&#233; d&#39;un b&#233;lier et de ch&#226;teaux pourvus de plateformes de tir &#224; l&#39;avant, &#224; l&#39;arri&#232;re et au milieu. Chacune de ces plateformes peut supporter un unique engin de si&#232;ge &#224; tir direct de taille G, qui peut faire feu sur les c&#244;t&#233; du navire ou dans la direction de sa localisation. Une plateforme au milieu du navire peut tirer sur b&#226;bord ou tribord.&lt;br /&gt;&lt;/li&gt;&lt;/ul&gt;&lt;br /&gt;&lt;/div&gt;
+&lt;/td&gt;
+&lt;td width=&quot;40%&quot;&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Quillard&lt;div style=&quot;float:right;&quot;&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;ul&gt;&lt;li&gt;V&#233;hicule aquatique de taille C&lt;/li&gt;&lt;li&gt;&lt;b&gt;Cases&lt;/b&gt; 40 (6 m sur 15 m) ; &lt;b&gt;Co&#251;t&lt;/b&gt; 13 000 po&lt;br /&gt;&lt;div class=&quot;box&quot;&gt;D&#233;fense&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;CA&lt;/b&gt; 2 ; &lt;b&gt;Solidit&#233;&lt;/b&gt; 5&lt;/li&gt;&lt;li&gt;&lt;b&gt;pv&lt;/b&gt; 600 (299)&lt;/li&gt;&lt;li&gt;&lt;b&gt;Jet de sauvegarde de base&lt;/b&gt; +4&lt;br /&gt;&lt;div class=&quot;box&quot;&gt;Attaque&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;Vitesse maximale&lt;/b&gt; 18 m (12 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;, courants) ou 9 m (6 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;, muscle) ; &lt;b&gt;Acc&#233;l&#233;ration&lt;/b&gt; 4,50 m (3 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;, courants) ou 1,50 m (1 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;, muscle)&lt;/li&gt;&lt;li&gt;&lt;b&gt;BMO&lt;/b&gt; +8 ; &lt;b&gt;DMD&lt;/b&gt; 18&lt;/li&gt;&lt;li&gt;&lt;b&gt;D&#233;g&#226;ts de collision&lt;/b&gt; 8d8&lt;br /&gt;&lt;div class=&quot;box&quot;&gt;Description&lt;/div&gt;&lt;/li&gt;&lt;li&gt;Ce long bateau &#224; fond plat est &#233;quip&#233; de quelques rames en soutien de son unique m&#226;t pourvu d&#39;une voile carr&#233;e. Il peut naviguer sur la mer et les rivi&#232;res. Le quillard peut transporter une cargaison de 50 tonnes ou 100 soldats.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Propulsion&lt;/b&gt; courants (a&#233;rien ; un m&#226;t, voilure de 20 cases, pv 100), courants (aquatique) ou muscle (pouss&#233; ; 8 rameurs de taille M)&lt;/li&gt;&lt;li&gt;&lt;b&gt;Test de conduite&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Diplomatie.html&quot; title=&quot;Diplomatie&quot;&gt;Diplomatie&lt;/a&gt; ou &lt;a class=&quot;pagelink&quot; href=&quot;Intimidation.html&quot; title=&quot;Intimidation&quot;&gt;Intimidation&lt;/a&gt; quand il avance &#224; la rame, ou &lt;a class=&quot;pagelink&quot; href=&quot;Profession.html&quot; title=&quot;Profession&quot;&gt;Profession&lt;/a&gt; (marin) ou &lt;a class=&quot;pagelink&quot; href=&quot;Connaissances.html&quot; title=&quot;Connaissances&quot;&gt;Connaissances&lt;/a&gt; (nature), &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DEGREDEDIFFICULTE&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; +10 lorsque la voile est utilis&#233;e&lt;/li&gt;&lt;li&gt;&lt;b&gt;Avant&lt;/b&gt; l&#39;avant du navire&lt;/li&gt;&lt;li&gt;&lt;b&gt;Syst&#232;me de conduite&lt;/b&gt; gouvernail&lt;/li&gt;&lt;li&gt;&lt;b&gt;Espace de conduite&lt;/b&gt; Les 2 cases arri&#232;res centrales du quillard&lt;/li&gt;&lt;li&gt;&lt;b&gt;&#201;quipage&lt;/b&gt; 8&lt;/li&gt;&lt;li&gt;&lt;b&gt;Ponts&lt;/b&gt; 1&lt;br /&gt;&lt;/li&gt;&lt;/ul&gt;&lt;br /&gt;&lt;/div&gt;&lt;br /&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[{s:MenuVehicules}
+{s:UC}''Les règles de base donnent une idée générale du comportement des véhicules durant le round de combat et de leurs différences avec des créatures. Les  parties suivantes approfondissent la manière de les gérer pendant le combat.''
+
+Les véhicules aquatiques se déplacent sur des étendues d'eau aussi petites que des rivières ou aussi vastes que des océans. Ils sont typiquement propulsés par le muscle ou la voile mais peuvent être déplacés par différentes méthodes. Les véhicules terrestres suivants sont les plus communs et incluent tous ceux que les personnages peuvent acheter dans le ''Manuel des joueurs'' (voir la section "[[Moyens de transport]]"). 
+
+<table class="page espace-col">
+<tr><td style="width:40%">
+<div class="BD">
+{s:BDTitre|Bateau à voiles|}
+* Véhicule aquatique de taille C
+* '''Cases''' 60 (6 m sur 22,50 m) ; '''Coût''' 10 000 po
+(((Défense)))
+* '''CA''' 2 ; '''Solidité''' 5
+* '''pv''' 900 (449)
+* '''Jet de sauvegarde de base''' +0
+(((Attaque)))
+* '''Vitesse maximale''' 54 m (36 {s:c}, courants) ou 18 m (12 {s:c}) ; '''Accélération''' 9 m (6 {s:c}, courants) ou 4,50 m (3 {s:c}, muscle)
+* '''BMO''' +8 ; '''DMD''' 18
+* '''Dégâts de collision''' 8d8
+(((Description)))
+* Ce bateau à voiles massif est utilisé pour les voyages sur l'océan. Il peut transporter 150 tonnes de marchandises en plus d'un équipage complet et de passagers. Ce navires peut contenir 150 tonnes de bien ou 200 passagers.
+* '''Propulsion''' courants (aérien ; 2 mâts, voilure de 30 cases, pv 150) ou courants (aquatique)
+* '''Test de conduite''' [[Profession]] (marin) ou [[Connaissances]] (nature), [[DD]] +10
+* '''Avant''' l'avant du navire
+* '''Système de conduite''' barre
+* '''Espace de conduite''' Les 9 cases autour de la roue, en général localisée à l'arrière du navire
+* '''Équipage''' 20
+* '''Ponts''' 2
+* '''Armes''' jusqu'à 20 engins de siège à tir direct de taille G disposés en bancs de 10 à bâbord et à tribord du navire ; ou jusqu'à 6 engins de siège à tir direct de taille TG disposés en bancs de 3 à bâbord et à tribord du navire. Ces armes ne peuvent tirer que sur les côtés où elles sont positionnées et il est donc impossible de les faire pivoter afin qu'elles tirent vers l'avant ou l'arrière du navire.
+
+</div>
+</td>
+<td width="40%">
+<div class="BD">
+{s:BDTitre|Bateau de guerre|}
+* Véhicule aquatique de taille C
+* '''Cases''' 80 (6 m sur 30 m) ; '''Coût''' 25 000 po
+(((Défense)))
+* '''CA''' 2 ; '''Solidité''' 10
+* '''pv''' 1 200 (599)
+* '''Jet de sauvegarde de base''' +0
+(((Attaque)))
+* '''Vitesse maximale''' 45 m (30 {s:c}, courants) ou 18 m (12 {s:c}) ; '''Accélération''' 9 m (6 {s:c}, courants) ou 4,50 m (3 {s:c}, muscle)
+* '''BMO''' +8 ; '''DMD''' 18
+* '''Dégâts de collision''' 8d8
+(((Description)))
+* Ce bateau est traité avec du bois renforcé et utilisé pour des incursions à courte distance et le déploiement des troupes. Un bateau de guerre peu transporter 50 tonnes ou 160 soldats.
+* '''Propulsion''' courants (aérien et aquatique ; un mât, voilure de 160 cases, pv 800) ou muscle (poussé ; 80 rameurs de taille M)
+* '''Test de conduite''' [[Profession]] (marin) ou [[Connaissances]] (nature), [[DD]] +10
+* '''Avant''' l'avant du navire
+* '''Système de conduite''' barre
+* '''Espace de conduite''' Les 9 cases autour de la roue, en général localisée à l'arrière du navire
+* '''Équipage''' 60
+* '''Ponts''' 2
+* '''Armes''' jusqu'à 20 engins de siège à tir direct de taille G disposés en bancs de 10 à bâbord et à tribord du navire ; ou jusqu'à 6 engins de siège à tir direct de taille TG disposés en bancs de 3 à bâbord et à tribord du navire. Ces armes ne peuvent tirer que sur les côtés où elles sont positionnées et il est donc impossible de les faire pivoter afin qu'elles tirent vers l'avant ou l'arrière du navire.
+
+</div>
+
+</td></tr>
+<tr>
+<td style="width:40%">
+<div class="BD">
+{s:BDTitre|Chaloupe|}
+* Véhicule aquatique de taille G
+* '''Cases''' 3 (1,50 m sur 4,50 m) ; '''Coût''' 50 po
+(((Défense)))
+* '''CA''' 2 ; '''Solidité''' 5
+* '''pv''' 60 (29)
+* '''Jet de sauvegarde de base''' +0
+(((Attaque)))
+* '''Vitesse maximale''' 4,50 m (3 {s:c}) ; '''Accélération''' 3 m (2 {s:c})
+* '''BMO''' +1 ; '''DMD''' 11
+* '''Dégâts de collision''' 1d8
+(((Description)))
+* Ce petit bateau est en premier lieu utilisé pour débarquer des navires plus grands ou pour traverser de petites étendues d'eau - peut-être pour permettre à quelques passagers de traverser un fleuve ou un petit lac. Une chaloupe peut transporter une cargaison de 500 kilos ou 2 passagers.
+* '''Propulsion''' courants (aquatique) ou muscle (poussé, 1 ou 2 rameurs de taille M, l'un d'entre eux est le pilote)
+* '''Test de conduite''' [[Survie]]
+* '''Avant''' l'avant du bateau
+* '''Système de conduite''' rames
+* '''Espace de conduite''' la case centrale de la chaloupe
+* '''Ponts''' 1
+
+</div>
+</td>
+<td width="40%">
+<div class="BD">
+{s:BDTitre|Drakkar|}
+* Véhicule aquatique de taille C
+* '''Cases''' 45 (4,50 m sur 22,50 m) ; '''Coût''' 10 000 po
+(((Défense)))
+* '''CA''' 2 ; '''Solidité''' 5
+* '''pv''' 675 (337)
+* '''Jet de sauvegarde de base''' +5
+(((Attaque)))
+* '''Vitesse maximale''' 36 m (24 {s:c}, courants et muscle) ou 9 m (6 {s:c}, muscle seulement) ; '''Accélération''' 9 m (6 {s:c}, courants et muscle) ou 4,50 m (3 {s:c}, muscle seulement)
+* '''BMO''' +8 ; '''DMD''' 18
+* '''Dégâts de collision''' 8d8
+(((Description)))
+* Ce long bateau relativement fin n'a qu'un seul mat et une voile carrée. Il peut traverser les lacs, les océans et les rivières profondes, et transporter une cargaison de 50 tonnes ou 100 soldats.
+* '''Propulsion''' courants (aérien ; un mât, voilure de 10 cases, pv 50), courants (aquatique) ou muscle (poussé ; 4 rameurs de taille M)
+* '''Test de conduite'''  [[Diplomatie]] ou [[Intimidation]] quand il avance à la rame, ou [[Profession]] (marin) ou [[Connaissances]] (nature), [[DD]] +10 lorsque la voile est utilisée
+* '''Avant''' l'avant du navire
+* '''Système de conduite''' gouvernail
+* '''Espace de conduite''' Les 2 cases arrières centrales du drakkar
+* '''Équipage''' 40
+* '''Ponts''' 1 (avec un petit espace de stockage pour la cargaison sous le pont)
+
+</div>
+
+</td></tr>
+<tr><td style="width:40%">
+<div class="BD">
+{s:BDTitre|Galère|}
+* Véhicule aquatique de taille C
+* '''Cases''' 104 (6 m sur 39 m) ; '''Coût''' 10 000 po
+(((Défense)))
+* '''CA''' 2 ; '''Solidité''' 5
+* '''pv''' 1 560 (779)
+* '''Jet de sauvegarde de base''' +0
+(((Attaque)))
+* '''Vitesse maximale''' 54 m (36 {s:c}, courants) ou 18 m (12 {s:c}, muscle) ; '''Accélération''' 9 m (6 {s:c}, courants) ou 4,50 m (3 {s:c}, muscle)
+* '''BMO''' +8 ; '''DMD''' 18
+* '''Dégâts de collision''' 8d8
+(((Description)))
+* C'est l'un des plus grands bateaux à voiles des mers. Ce navire massif ne peut pas effectuer de voyages transocéaniques et se contente en générale de faire du cabotage. Il peut transporter 150 tonnes de marchandises ou 250 soldats.
+* '''Propulsion''' courants (aérien ; 3 mâts, voilure de 60 cases, pv 300), courants (aquatique) ou muscle (poussé, 140 rameurs de taille M)
+* '''Test de conduite''' [[Profession]] (marin) ou [[Connaissances]] (nature), [[DD]] +10
+* '''Avant''' la proue du navire
+* '''Système de conduite''' barre
+* '''Espace de conduite''' Les 9 cases autour de la roue, en général localisée à l'arrière du navire
+* '''Équipage''' 20 à 160 (si le bateau a des rames)
+* '''Ponts''' 3
+* '''Armes''' jusqu'à 40 engins de siège à tir direct de taille G disposés en bancs de 20 à bâbord et à tribord du navire ; ou jusqu'à 12 engins de siège à tir direct de taille TG disposés en bancs de 6 à bâbord et à tribord du navire. Ces armes ne peuvent tirer que sur les côtés où elles sont positionnées et il est donc impossible de les faire pivoter afin qu'elles tirent vers l'avant ou l'arrière du navire. Elles ne peuvent être utilisées lorsque la galère est à la rame. Pour 8 000 po de plus, le navire peut être équipé d'un bélier et de châteaux pourvus de plateformes de tir à l'avant, à l'arrière et au milieu. Chacune de ces plateformes peut supporter un unique engin de siège à tir direct de taille G, qui peut faire feu sur les côté du navire ou dans la direction de sa localisation. Une plateforme au milieu du navire peut tirer sur bâbord ou tribord.
+
+</div>
+</td>
+<td width="40%">
+<div class="BD">
+{s:BDTitre|Quillard|}
+* Véhicule aquatique de taille C
+* '''Cases''' 40 (6 m sur 15 m) ; '''Coût''' 13 000 po
+(((Défense)))
+* '''CA''' 2 ; '''Solidité''' 5
+* '''pv''' 600 (299)
+* '''Jet de sauvegarde de base''' +4
+(((Attaque)))
+* '''Vitesse maximale''' 18 m (12 {s:c}, courants) ou 9 m (6 {s:c}, muscle) ; '''Accélération''' 4,50 m (3 {s:c}, courants) ou 1,50 m (1 {s:c}, muscle)
+* '''BMO''' +8 ; '''DMD''' 18
+* '''Dégâts de collision''' 8d8
+(((Description)))
+* Ce long bateau à fond plat est équipé de quelques rames en soutien de son unique mât pourvu d'une voile carrée. Il peut naviguer sur la mer et les rivières. Le quillard peut transporter une cargaison de 50 tonnes ou 100 soldats.
+* '''Propulsion''' courants (aérien ; un mât, voilure de 20 cases, pv 100), courants (aquatique) ou muscle (poussé ; 8 rameurs de taille M)
+* '''Test de conduite''' [[Diplomatie]] ou [[Intimidation]] quand il avance à la rame, ou [[Profession]] (marin) ou [[Connaissances]] (nature), [[DD]] +10 lorsque la voile est utilisée
+* '''Avant''' l'avant du navire
+* '''Système de conduite''' gouvernail
+* '''Espace de conduite''' Les 2 cases arrières centrales du quillard
+* '''Équipage''' 8
+* '''Ponts''' 1
+
+</div>
+
+</td></tr>
+</table>
+]]></raw>
+  <fullName>Pathfinder-RPG.Véhicules aquatiques (véhicules)</fullName>
+</wikiPage>

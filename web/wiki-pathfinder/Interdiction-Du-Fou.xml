@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Interdiction du fou</title>
+  <categories><category>Pathfinder-RPG.Advanced Player Guide</category><category>Pathfinder-RPG.Règles officielles</category><category>Pathfinder-RPG.Sort</category><category>Pathfinder-RPG.Sort barde 6</category></categories>
+  <lastModified>2012-11-04 13:02:48Z</lastModified>
+  <version>1</version>
+  <inLinks><link>Pathfinder-RPG.Glossaire des sorts</link><link>Pathfinder-RPG.Liste des sorts (suite)</link><link>Pathfinder-RPG.Liste des sorts de bardes</link><link>Pathfinder-RPG.Liste des sorts par registre</link><link>Pathfinder-RPG.TMP sorts APG</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Abjuration</link><link>Pathfinder-RPG.effet mental</link><link>Pathfinder-RPG.Barde</link><link>Pathfinder-RPG.Action simple</link><link>Pathfinder-RPG.composantes</link><link>Pathfinder-RPG.Présentation des sorts</link><link>Pathfinder-RPG.Volonté</link><link>Pathfinder-RPG.Confus</link><link>Pathfinder-RPG.round</link><link>Pathfinder-RPG.jet de sauvegarde</link><link>Pathfinder-RPG.Chancelant</link></outLinks>
+  <body><![CDATA[
+&lt;b&gt;&#201;cole&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#ABJURATION&quot; title=&quot;Abjuration&quot;&gt;Abjuration&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#REGISTRE&quot; title=&quot;effet mental&quot;&gt;effet mental&lt;/a&gt;)&#160;;&lt;b&gt; Niveau&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Barde.html&quot; title=&quot;Le barde&quot;&gt;barde&lt;/a&gt; 6&lt;br/&gt;
+&lt;b&gt;Temps d&#39;incantation&lt;/b&gt; 1 &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions.html#SIMPLE&quot; title=&quot;Action simple&quot;&gt;action simple&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Composantes&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#COMPOSANTES&quot; title=&quot;composantes&quot;&gt;V, G, M&lt;/a&gt; (un trousseau de clefs)&lt;br/&gt;
+&lt;b&gt;Port&#233;e&lt;/b&gt; 3 m (2 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)&lt;br/&gt;
+&lt;b&gt;Zone&lt;/b&gt; &#233;manation sph&#233;rique de 3&#160;m (2 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) de rayon centr&#233;e sur le lanceur de sorts&lt;br/&gt;
+&lt;b&gt;Dur&#233;e&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#DUREE&quot; title=&quot;Pr&#233;sentation des sorts&quot;&gt;concentration&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Jet de sauvegarde&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;Volont&#233;&quot;&gt;Volont&#233;&lt;/a&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#JETSDESAUVEGARDE&quot; title=&quot;Pr&#233;sentation des sorts&quot;&gt;partiel&lt;/a&gt; ; &lt;b&gt;R&#233;sistance &#224; la magie&lt;/b&gt; oui&lt;br /&gt;&lt;br /&gt;&#192; force de singeries et de d&#233;monstrations, le personnage cr&#233;e une zone prot&#233;g&#233;e qui affecte n&#233;gativement les ennemis qui tentent d&#39;y p&#233;n&#233;trer. Quand un adversaire entre dans cette zone, il doit imm&#233;diatement faire un jet de &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;Volont&#233;&quot;&gt;Volont&#233;&lt;/a&gt;. S&#39;il &#233;choue, il est &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables.html#Confus&quot; title=&quot;Confus&quot;&gt;confus&lt;/a&gt; tant qu&#39;il se trouve dans la zone d&#39;effet et pendant 1 &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#ROUND&quot; title=&quot;round&quot;&gt;round&lt;/a&gt; apr&#232;s l&#39;avoir quitt&#233;e. S&#39;il r&#233;ussit son &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;jet de sauvegarde&quot;&gt;jet de sauvegarde&lt;/a&gt;, il est &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables.html#Chancelant&quot; title=&quot;Chancelant&quot;&gt;chancelant&lt;/a&gt; tant qu&#39;il reste dans la zone et pendant 1 &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#ROUND&quot; title=&quot;round&quot;&gt;round&lt;/a&gt; apr&#232;s l&#39;avoir quitt&#233;e.
+]]></body>
+  <raw><![CDATA[{s:APG}
+'''École''' [[Abjuration]] ([[effet mental]]) ;''' Niveau''' [[barde]] 6<br/>
+'''Temps d'incantation''' 1 [[action simple]]<br/>
+'''Composantes''' [[Composantes|V, G, M]] (un trousseau de clefs)<br/>
+'''Portée''' 3 m (2 {s:c})<br/>
+'''Zone''' émanation sphérique de 3 m (2 {s:c}) de rayon centrée sur le lanceur de sorts<br/>
+'''Durée''' [[Présentation des sorts#DUREE|concentration]]<br/>
+'''Jet de sauvegarde''' [[Volonté]] [[Présentation des sorts#JETSDESAUVEGARDE|partiel]] ; '''Résistance à la magie''' oui
+
+À force de singeries et de démonstrations, le personnage crée une zone protégée qui affecte négativement les ennemis qui tentent d'y pénétrer. Quand un adversaire entre dans cette zone, il doit immédiatement faire un jet de [[Volonté]]. S'il échoue, il est [[confus]] tant qu'il se trouve dans la zone d'effet et pendant 1 [[round]] après l'avoir quittée. S'il réussit son [[jet de sauvegarde]], il est [[chancelant]] tant qu'il reste dans la zone et pendant 1 [[round]] après l'avoir quittée.
+]]></raw>
+  <fullName>Pathfinder-RPG.Interdiction du fou</fullName>
+</wikiPage>

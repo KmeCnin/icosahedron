@@ -1,0 +1,191 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Chernobue</title>
+  <categories><category>Pathfinder-RPG.Bestiaire 2</category></categories>
+  <lastModified>2013-02-02 18:16:57Z</lastModified>
+  <version>6</version>
+  <inLinks><link>Pathfinder-RPG.Glossaire des monstres</link><link>Pathfinder-RPG.Lier un extérieur</link><link>Pathfinder-RPG.Liste de monstres par FP</link><link>Pathfinder-RPG.Liste de monstres par milieu naturel</link><link>Pathfinder-RPG.Liste de monstres par type</link><link>Pathfinder-RPG.Monstres</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.type Extérieur</link><link>Pathfinder-RPG.sous-type Chaos</link><link>Pathfinder-RPG.sous-type Mal</link><link>Pathfinder-RPG.sous-type extraplanaire</link><link>Pathfinder-RPG.sous-type qlippoth</link><link>Pathfinder-RPG.odorat</link><link>Pathfinder-RPG.vision dans le noir</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Marche dans les airs</link><link>Pathfinder-RPG.Vision magique</link><link>Pathfinder-RPG.Marteau du chaos</link><link>Pathfinder-RPG.Ténèbres</link><link>Pathfinder-RPG.Confusion</link><link>Pathfinder-RPG.Dissipation de la magie</link><link>Pathfinder-RPG.Protection contre la Loi</link><link>Pathfinder-RPG.Incantation rapide</link><link>Pathfinder-RPG.Changement de plan</link><link>Pathfinder-RPG.Attaque en puissance</link><link>Pathfinder-RPG.Combat en aveugle</link><link>Pathfinder-RPG.Frappe décisive</link><link>Pathfinder-RPG.Pouvoir magique rapide</link><link>Pathfinder-RPG.Réflexes surhumains</link><link>Pathfinder-RPG.Science du critique</link><link>Pathfinder-RPG.Acrobaties</link><link>Pathfinder-RPG.Connaissances</link><link>Pathfinder-RPG.Discrétion</link><link>Pathfinder-RPG.Évasion</link><link>Pathfinder-RPG.Intimidation</link><link>Pathfinder-RPG.Psychologie</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire 2&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Chernobue&lt;div style=&quot;float:right;&quot;&gt;FP 12&lt;/div&gt;&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Bestiaire 2&lt;/i&gt; p.230
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 19.200
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Ext&#233;rieur.html&quot; title=&quot;Ext&#233;rieur&quot;&gt;Ext&#233;rieur&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Chaos.html&quot; title=&quot;Chaos (sous-type)&quot;&gt;Chaos&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Mal.html&quot; title=&quot;Mal (sous-type)&quot;&gt;Mal&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Extraplanaire.html&quot; title=&quot;Extraplanaire (sous-type)&quot;&gt;extraplanaire&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Qlippoth.html&quot; title=&quot;Qlippoth (sous-type)&quot;&gt;qlippoth&lt;/a&gt;) de taille G, CM
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +4 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Odorat-(Capacit&#233;).html&quot; title=&quot;odorat&quot;&gt;odorat&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Capacit&#233;s-Sp&#233;ciales.html#VISIONDANSLENOIR&quot; title=&quot;vision dans le noir&quot;&gt;vision dans le noir&lt;/a&gt; 18 m (12 cases) ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +18
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Aura&lt;/b&gt; de malchance (9 m)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 27, contact 13, pris au d&#233;pourvu 23 (Dex +4, naturelle +14, taille –1)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 150 (12d10+84)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +10, &lt;b&gt;Vig&lt;/b&gt; +15, &lt;b&gt;Vol&lt;/b&gt; +11
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Immunit&#233;s&lt;/b&gt; effets mentaux, froid, poison ; &lt;b&gt;R&#233;sistances&lt;/b&gt; acide 10, &#233;lectricit&#233; 10, feu 10 ; &lt;b&gt;RD&lt;/b&gt; 10/Loi ; &lt;b&gt;RM&lt;/b&gt; 23
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Faiblesses&lt;/b&gt; vuln&#233;rable &#224; la lumi&#232;re
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 12 m (8 cases)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; &lt;i&gt;2 coups&lt;/i&gt;, +19 (1d6+8/19–20 plus affaiblissement temporaire 1 Con) et &lt;i&gt;morsure&lt;/i&gt;, +19 (2d6+8 plus poison) et 2 tentacules, +14 (1d6+4)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Espace&lt;/b&gt; 3 m (2 cases) ; &lt;b&gt;Allonge&lt;/b&gt; 1,50 m (1 case) (3 m pour les coups et les tentacules (2 cases))
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaques sp&#233;ciales&lt;/b&gt; apparence horrible (DD 20)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Pouvoirs magiques&lt;/b&gt; (NLS 12), concentration +16
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+Constant — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Marche-Dans-Les-Airs.html&quot; title=&quot;Marche dans les airs&quot;&gt;marche dans les airs&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Vision-Magique.html&quot; title=&quot;Vision magique&quot;&gt;vision magique&lt;/a&gt;&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+A volont&#233; — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Marteau-Du-Chaos.html&quot; title=&quot;Marteau du chaos&quot;&gt;marteau du Chaos&lt;/a&gt;&lt;/i&gt; (DD 18), &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;T&#233;n&#232;bres.html&quot; title=&quot;T&#233;n&#232;bres&quot;&gt;t&#233;n&#232;bres&lt;/a&gt;&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+3/jour — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Confusion.html&quot; title=&quot;Confusion&quot;&gt;confusion&lt;/a&gt;&lt;/i&gt; (DD 18), &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Dissipation-De-La-Magie.html&quot; title=&quot;Dissipation de la magie&quot;&gt;dissipation de la magie&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Protection-Contre-La-Loi.html&quot; title=&quot;Protection contre la Loi&quot;&gt;protection contre la Loi&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;T&#233;n&#232;bres.html&quot; title=&quot;T&#233;n&#232;bres&quot;&gt;t&#233;n&#232;bres&lt;/a&gt;&lt;/i&gt; en &lt;a class=&quot;pagelink&quot; href=&quot;Incantation-Rapide.html&quot; title=&quot;Incantation rapide&quot;&gt;incantation rapide&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+1/jour — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Changement-De-Plan.html&quot; title=&quot;Changement de plan&quot;&gt;changement de plan&lt;/a&gt;&lt;/i&gt; (DD 21)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 26, &lt;b&gt;Dex&lt;/b&gt; 18, &lt;b&gt;Con&lt;/b&gt; 24, &lt;b&gt;Int&lt;/b&gt; 13, &lt;b&gt;Sag&lt;/b&gt; 17, &lt;b&gt;Cha&lt;/b&gt; 19
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +12, &lt;b&gt;BMO&lt;/b&gt; +21, &lt;b&gt;DMD&lt;/b&gt; 35 (39 contre croc-en-jambe)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Attaque-En-Puissance.html&quot; title=&quot;Attaque en puissance&quot;&gt;Attaque en puissance&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Combat-En-Aveugle.html&quot; title=&quot;Combat en aveugle&quot;&gt;Combat en aveugle&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Frappe-D&#233;cisive.html&quot; title=&quot;Frappe d&#233;cisive&quot;&gt;Frappe d&#233;cisive&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Pouvoir-Magique-Rapide.html&quot; title=&quot;Pouvoir magique rapide&quot;&gt;Pouvoir magique rapide&lt;/a&gt; (t&#233;n&#232;bres), &lt;a class=&quot;pagelink&quot; href=&quot;R&#233;flexes-Surhumains.html&quot; title=&quot;R&#233;flexes surhumains&quot;&gt;R&#233;flexes surhumains&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Science-Du-Critique.html&quot; title=&quot;Science du critique&quot;&gt;Science du critique&lt;/a&gt; (coup)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Acrobaties.html&quot; title=&quot;Acrobaties&quot;&gt;Acrobaties&lt;/a&gt; +19 (+23 pour sauter), &lt;a class=&quot;pagelink&quot; href=&quot;Connaissances.html&quot; title=&quot;Connaissances&quot;&gt;Connaissances&lt;/a&gt; (plans) +16, &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; +15, &lt;a class=&quot;pagelink&quot; href=&quot;&#201;vasion.html&quot; title=&quot;&#201;vasion&quot;&gt;&#201;vasion&lt;/a&gt; +19, &lt;a class=&quot;pagelink&quot; href=&quot;Intimidation.html&quot; title=&quot;Intimidation&quot;&gt;Intimidation&lt;/a&gt; +19, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +18, &lt;a class=&quot;pagelink&quot; href=&quot;Psychologie.html&quot; title=&quot;Psychologie&quot;&gt;Psychologie&lt;/a&gt; +18
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Langues&lt;/b&gt; abyssal ; t&#233;l&#233;pathie 30 m
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; tous (Abysses)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation sociale&lt;/b&gt; solitaire, couple ou groupe (3–6)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; standard
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Pouvoirs sp&#233;ciaux&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Apparence horrible (Sur).&lt;/b&gt; Les cr&#233;atures qui succombent &#224; l’apparence horrible d’un chernobue sont paralys&#233;es de d&#233;go&#251;t pendant 2d6 rounds. Une cr&#233;ature paralys&#233;e b&#233;n&#233;ficie d’un nouveau jet de sauvegarde chaque round pour tenter de se lib&#233;rer de l’effet si elle est situ&#233;e &#224; plus de 9 m&#232;tres du qlippoth ou qu’elle n’est plus consciente de sa pr&#233;sence.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Aura de malchance (Sur).&lt;/b&gt; Un chernobue &#233;met une aura de perturbations mal&#233;fiques sur un rayon de 9 m&#232;tres. Toutes les cr&#233;atures d’alignement Loyal ou Bon situ&#233;es dans la zone subissent un malus de –1 aux jets d’attaque et aux jets de d&#233;g&#226;ts des armes. Les cr&#233;atures d’alignement Loyal Bon voient ce malus passe &#224; –3 et, la premi&#232;re fois qu’elles p&#233;n&#232;trent dans l’aura, elles doivent r&#233;ussir un jet de Vigueur de DD 20 pour ne pas &#234;tre fi&#233;vreuses tant qu’elles restent dans la zone affect&#233;e. Cette capacit&#233; d&#233;pend du Charisme.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Poison (Sur).&lt;/b&gt; Morsure — blessure ; JdS Vigueur DD 23 ; fr&#233;quence 1/round pendant 6 rounds ; effet diminution permanente 1d2 Con ; gu&#233;rison 1 r&#233;ussite. L’&#233;pais poison orange inject&#233; par un chernobue est &#224; moiti&#233; vivant. D&#232;s que la victime empoisonn&#233;e est gu&#233;rie du poison (en r&#233;ussissant un jet de sauvegarde ou en &#233;tant la cible d’un sort de neutralisation du poison ou en ayant attendu que le poison finisse de faire effets), le fluide orange sort violemment du corps de la victime. Cela inflige un affaiblissement temporaire de 1d6 points de Charisme &#224; la victime et la rend inconsciente pendant 2d6 rounds, &#224; moins qu’elle ne r&#233;ussisse un dernier jet de Vigueur contre un DD de 23. Le DD du jet de sauvegarde d&#233;pend de la Constitution.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Vuln&#233;rable &#224; la lumi&#232;re (Ext).&lt;/b&gt; Un chernobue situ&#233; dans une zone de lumi&#232;re vive subit un affaiblissement temporaire de 1 point de Constitution par minute pass&#233;e dans cette zone.
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;td&gt;&lt;div&gt;&lt;i&gt;Cette masse huileuse de tiges orn&#233;es de gueules et de tentacules agit&#233;s poss&#232;de un unique et &#233;norme œil hideux et des m&#226;choires ac&#233;r&#233;es &#224; la place du ventre.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Le chernobue est la preuve vivante de la vile f&#233;condit&#233;
+des Abysses : une cr&#233;ature
+monstrueuse et aberrante
+mais pourtant bien r&#233;elle.
+En transmettant &#224; d’autres
+cr&#233;atures l’infection abyssale
+qu’ils transportent, les
+chernobues r&#233;pandent la
+douleur et la malchance
+partout o&#249; ils parviennent
+&#224; amener leur corps
+caoutchouteux. Et, gr&#226;ce &#224;
+leur capacit&#233; de changement de
+plan, ils sont tout &#224; fait capable
+d’&#233;tendre leur corruption
+&#224; travers tous le multivers. Un
+chernobue mesure 3,90 m&#232;tres de
+long et p&#232;se 250 kg.
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire 2"><tr><td>
+<div class="BD">
+{s:BDTitre|Chernobue|FP 12}
+{s:pucem|Extérieur|Souterrain|Extraplanaire}
+{s:BDTexte|''Source : Bestiaire 2'' p.230}
+{s:BDTexte|'''PX''' 19.200}
+{s:BDTexte|[[type Extérieur|Extérieur]] ([[sous-type Chaos|Chaos]], [[sous-type Mal|Mal]], [[sous-type extraplanaire|extraplanaire]], [[sous-type qlippoth|qlippoth]]) de taille G, CM}
+{s:BDTexte|'''Init''' +4 ; '''Sens''' [[odorat]], [[vision dans le noir]] 18 m (12 cases) ; [[Perception]] +18}
+{s:BDTexte|'''Aura''' de malchance (9 m)}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 27, contact 13, pris au dépourvu 23 (Dex +4, naturelle +14, taille –1)}
+{s:BDTexte|'''pv''' 150 (12d10+84)}
+{s:BDTexte|'''Réf''' +10, '''Vig''' +15, '''Vol''' +11}
+{s:BDTexte|'''Immunités''' effets mentaux, froid, poison ; '''Résistances''' acide 10, électricité 10, feu 10 ; '''RD''' 10/Loi ; '''RM''' 23}
+{s:BDTexte|'''Faiblesses''' vulnérable à la lumière}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 12 m (8 cases)}
+{s:BDTexte|'''Corps à corps''' ''2 coups'', +19 (1d6+8/19–20 plus affaiblissement temporaire 1 Con) et ''morsure'', +19 (2d6+8 plus poison) et 2 tentacules, +14 (1d6+4)}
+{s:BDTexte|'''Espace''' 3 m (2 cases) ; '''Allonge''' 1,50 m (1 case) (3 m pour les coups et les tentacules (2 cases))}
+{s:BDTexte|'''Attaques spéciales''' apparence horrible (DD 20)}
+{s:BDTexte|'''Pouvoirs magiques''' (NLS 12), concentration +16}
+{s:BDSorts|Constant — ''[[marche dans les airs]]'', ''[[vision magique]]''}
+{s:BDSorts|A volonté — ''[[marteau du Chaos]]'' (DD 18), ''[[ténèbres]]''}
+{s:BDSorts|3/jour — ''[[confusion]]'' (DD 18), ''[[dissipation de la magie]]'', ''[[protection contre la Loi]]'', ''[[ténèbres]]'' en [[incantation rapide]]}
+{s:BDSorts|1/jour — ''[[changement de plan]]'' (DD 21)}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 26, '''Dex''' 18, '''Con''' 24, '''Int''' 13, '''Sag''' 17, '''Cha''' 19}
+{s:BDTexte|'''BBA''' +12, '''BMO''' +21, '''DMD''' 35 (39 contre croc-en-jambe)}
+{s:BDTexte|'''Dons''' [[Attaque en puissance]], [[Combat en aveugle]], [[Frappe décisive]], [[Pouvoir magique rapide]] (ténèbres), [[Réflexes surhumains]], [[Science du critique]] (coup)}
+{s:BDTexte|'''Compétences''' [[Acrobaties]] +19 (+23 pour sauter), [[Connaissances]] (plans) +16, [[Discrétion]] +15, [[Évasion]] +19, [[Intimidation]] +19, [[Perception]] +18, [[Psychologie]] +18}
+{s:BDTexte|'''Langues''' abyssal ; télépathie 30 m}
+{s:BDTexte|'''Environnement''' tous (Abysses)}
+{s:BDTexte|'''Organisation sociale''' solitaire, couple ou groupe (3–6)}
+{s:BDTexte|'''Trésor''' standard}
+{s:BDSousTitre|Pouvoirs spéciaux}
+{s:BDTexte|'''Apparence horrible (Sur).''' Les créatures qui succombent à l’apparence horrible d’un chernobue sont paralysées de dégoût pendant 2d6 rounds. Une créature paralysée bénéficie d’un nouveau jet de sauvegarde chaque round pour tenter de se libérer de l’effet si elle est située à plus de 9 mètres du qlippoth ou qu’elle n’est plus consciente de sa présence.}
+{s:BDTexte|'''Aura de malchance (Sur).''' Un chernobue émet une aura de perturbations maléfiques sur un rayon de 9 mètres. Toutes les créatures d’alignement Loyal ou Bon situées dans la zone subissent un malus de –1 aux jets d’attaque et aux jets de dégâts des armes. Les créatures d’alignement Loyal Bon voient ce malus passe à –3 et, la première fois qu’elles pénètrent dans l’aura, elles doivent réussir un jet de Vigueur de DD 20 pour ne pas être fiévreuses tant qu’elles restent dans la zone affectée. Cette capacité dépend du Charisme.}
+{s:BDTexte|'''Poison (Sur).''' Morsure — blessure ; JdS Vigueur DD 23 ; fréquence 1/round pendant 6 rounds ; effet diminution permanente 1d2 Con ; guérison 1 réussite. L’épais poison orange injecté par un chernobue est à moitié vivant. Dès que la victime empoisonnée est guérie du poison (en réussissant un jet de sauvegarde ou en étant la cible d’un sort de neutralisation du poison ou en ayant attendu que le poison finisse de faire effets), le fluide orange sort violemment du corps de la victime. Cela inflige un affaiblissement temporaire de 1d6 points de Charisme à la victime et la rend inconsciente pendant 2d6 rounds, à moins qu’elle ne réussisse un dernier jet de Vigueur contre un DD de 23. Le DD du jet de sauvegarde dépend de la Constitution.}
+{s:BDTexte|'''Vulnérable à la lumière (Ext).''' Un chernobue situé dans une zone de lumière vive subit un affaiblissement temporaire de 1 point de Constitution par minute passée dans cette zone.}
+</div>
+</td><td><div>''Cette masse huileuse de tiges ornées de gueules et de tentacules agités possède un unique et énorme œil hideux et des mâchoires acérées à la place du ventre.''
+
+Le chernobue est la preuve vivante de la vile fécondité
+des Abysses : une créature
+monstrueuse et aberrante
+mais pourtant bien réelle.
+En transmettant à d’autres
+créatures l’infection abyssale
+qu’ils transportent, les
+chernobues répandent la
+douleur et la malchance
+partout où ils parviennent
+à amener leur corps
+caoutchouteux. Et, grâce à
+leur capacité de changement de
+plan, ils sont tout à fait capable
+d’étendre leur corruption
+à travers tous le multivers. Un
+chernobue mesure 3,90 mètres de
+long et pèse 250 kg.
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Chernobue</fullName>
+</wikiPage>

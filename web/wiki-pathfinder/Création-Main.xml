@@ -1,0 +1,1026 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Guide de création de personnages</title>
+  <categories><category>Pathfinder-RPG.Non-officiel</category></categories>
+  <lastModified>2013-05-05 00:17:11Z</lastModified>
+  <version>4</version>
+  <inLinks><link>Pathfinder-RPG.Aides de jeu</link></inLinks>
+  <outLinks></outLinks>
+  <body><![CDATA[Pathfinder est un jeu de r&#244;le relativement simple mais qui poss&#232;de de nombreux rouages. Pour d&#233;buter, il n’est pas n&#233;cessaire de tous les conna&#238;tre. Cette s&#233;rie d’aides de jeu est justement destin&#233;e &#224; expliquer et d&#233;cortiquer, les engrenages les uns apr&#232;s les autres du syst&#232;me de Pathfinder afin d’en comprendre la m&#233;canique. &lt;br /&gt;&lt;br /&gt;
+Les aides de jeu d’initiation sont divis&#233;es en deux grands groupes :&lt;br /&gt;&lt;br /&gt;&lt;ul&gt;&lt;li&gt;Le premier est destin&#233; aux joueurs, pour les aider dans la construction de leurs personnages. Pour ce faire, les r&#232;gles seront &#233;pluch&#233;es, avec des exemples et des arch&#233;types provenant de la litt&#233;rature, du cin&#233;ma, de la BD, des jeux vid&#233;os pour leur faciliter la compr&#233;hension.&lt;/li&gt;&lt;li&gt;Le second est destin&#233; aux ma&#238;tres de jeu. Des sc&#233;narios qui seront d&#233;coup&#233;s en sc&#232;nes, avec des explications sur les r&#232;gles &#224; utiliser. Le but est d’aborder ces r&#232;gles par palier et non de fa&#231;on brute et r&#233;barbative, afin d’en faciliter l’assimilation.&lt;br /&gt;&lt;/li&gt;&lt;/ul&gt;&lt;br /&gt;
+&lt;table id=&quot;TocContainerTable&quot;&gt;&lt;tr&gt;&lt;td&gt;&lt;div id=&quot;TocContainer&quot;&gt;&lt;p class=&quot;small&quot;&gt;&lt;b&gt;Table of Contents&lt;/b&gt;&lt;span id=&quot;ExpandTocSpan&quot;&gt; [&lt;a href=&quot;#&quot; onclick=&quot;javascript:if(document.getElementById(&#39;Toc&#39;).style[&#39;display&#39;]==&#39;none&#39;) document.getElementById(&#39;Toc&#39;).style[&#39;display&#39;]=&#39;&#39;; else document.getElementById(&#39;Toc&#39;).style[&#39;display&#39;]=&#39;none&#39;; return false;&quot;&gt;Hide/Show&lt;/a&gt;]&lt;/span&gt;&lt;/p&gt;&lt;div id=&quot;Toc&quot;&gt;&lt;p&gt;&lt;br /&gt;&lt;b&gt;&lt;a href=&quot;#Introduction_54&quot;&gt;Introduction&lt;/a&gt;&lt;/b&gt;&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;#Pathfinder_et_vous_44&quot;&gt;Pathfinder et vous&lt;/a&gt;&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;#La_base_du_jeu_:_le_dCA_45&quot;&gt;La base du jeu : le d20&lt;/a&gt;&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;#Les_modificateurs_8&quot;&gt;Les modificateurs&lt;/a&gt;&lt;br /&gt;&lt;b&gt;&lt;a href=&quot;#Cr&#233;ation_55&quot;&gt;Cr&#233;ation&lt;/a&gt;&lt;/b&gt;&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;#Le_personnage_46&quot;&gt;Le personnage&lt;/a&gt;&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;#Les_caract&#233;ristiques_47&quot;&gt;Les caract&#233;ristiques&lt;/a&gt;&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;#L’augmentation_des_caract&#233;ristiques_9&quot;&gt;L’augmentation des caract&#233;ristiques&lt;/a&gt;&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;#La_diminution_des_caract&#233;ristique_10&quot;&gt;La diminution des caract&#233;ristique&lt;/a&gt;&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;#La_Force_FOR_11&quot;&gt;La Force (FOR)&lt;/a&gt;&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;#La_Dext&#233;rit&#233;_DEX_12&quot;&gt;La Dext&#233;rit&#233; (DEX)&lt;/a&gt;&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;#La_Constitution_CON_13&quot;&gt;La Constitution (CON)&lt;/a&gt;&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;#L’Intelligence_INT_14&quot;&gt;L’Intelligence (INT)&lt;/a&gt;&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;#La_Sagesse_SAG_15&quot;&gt;La Sagesse (SAG)&lt;/a&gt;&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;#Le_Charisme_CHA_16&quot;&gt;Le Charisme (CHA)&lt;/a&gt;&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;#Les_Races_et_les_Ethnies_48&quot;&gt;Les Races et les Ethnies&lt;/a&gt;&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;#Les_Classes_de_base_49&quot;&gt;Les Classes de base&lt;/a&gt;&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;#La_classe_de_Pr&#233;dilection_17&quot;&gt;La classe de Pr&#233;dilection&lt;/a&gt;&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;#Le_barbare_18&quot;&gt;Le barbare&lt;/a&gt;&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;#Le_barde_19&quot;&gt;Le barde&lt;/a&gt;&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;#Le_druide_20&quot;&gt;Le druide&lt;/a&gt;&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;#L’ensorceleur_21&quot;&gt;L’ensorceleur&lt;/a&gt;&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;#Le_guerrier_22&quot;&gt;Le guerrier&lt;/a&gt;&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;#Le_magicien_23&quot;&gt;Le magicien&lt;/a&gt;&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;#Le_moine_24&quot;&gt;Le moine&lt;/a&gt;&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;#Le_paladin_25&quot;&gt;Le paladin&lt;/a&gt;&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;#Le_pr&#234;tre_26&quot;&gt;Le pr&#234;tre&lt;/a&gt;&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;#Le_r&#244;deur_27&quot;&gt;Le r&#244;deur&lt;/a&gt;&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;#Le_roublard_28&quot;&gt;Le roublard&lt;/a&gt;&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;#Les_points_et_les_bonus_50&quot;&gt;Les points et les bonus&lt;/a&gt;&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;#Les_bonus_d’attaque_29&quot;&gt;Les bonus d’attaque&lt;/a&gt;&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;small&gt;&lt;a href=&quot;#Bonus_d’attaque_au_corps_&#224;_corps_:_0&quot;&gt;Bonus d’attaque au corps &#224; corps :&lt;/a&gt;&lt;/small&gt;&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;small&gt;&lt;a href=&quot;#Bonus_d’attaque_&#224;_distance_:_1&quot;&gt;Bonus d’attaque &#224; distance :&lt;/a&gt;&lt;/small&gt;&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;small&gt;&lt;a href=&quot;#Bonus_de_manœuvre_offensive_:_2&quot;&gt;Bonus de manœuvre offensive :&lt;/a&gt;&lt;/small&gt;&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;#Les_valeurs_de_d&#233;fense_30&quot;&gt;Les valeurs de d&#233;fense&lt;/a&gt;&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;small&gt;&lt;a href=&quot;#La_classe_d’armure_:_3&quot;&gt;La classe d’armure :&lt;/a&gt;&lt;/small&gt;&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;small&gt;&lt;a href=&quot;#La_classe_d’armure_pris_au_d&#233;pourvu_:_4&quot;&gt;La classe d’armure, pris au d&#233;pourvu :&lt;/a&gt;&lt;/small&gt;&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;small&gt;&lt;a href=&quot;#La_classe_d’armure_de_contact_:_5&quot;&gt;La classe d’armure de contact :&lt;/a&gt;&lt;/small&gt;&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;small&gt;&lt;a href=&quot;#Le_degr&#233;_de_manœuvre_d&#233;fensive_:_6&quot;&gt;Le degr&#233; de manœuvre d&#233;fensive :&lt;/a&gt;&lt;/small&gt;&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;small&gt;&lt;a href=&quot;#Les_jets_de_sauvegarde_7&quot;&gt;Les jets de sauvegarde&lt;/a&gt;&lt;/small&gt;&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;#Les_comp&#233;tences_51&quot;&gt;Les comp&#233;tences &lt;/a&gt;&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;#Les_points_de_comp&#233;tence_31&quot;&gt;Les points de comp&#233;tence&lt;/a&gt;&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;#Valeur_d’une_comp&#233;tence_32&quot;&gt;Valeur d’une comp&#233;tence&lt;/a&gt;&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;#Cas_particulier_:_les_comp&#233;tences_avec_formation_33&quot;&gt;Cas particulier : les comp&#233;tences avec formation&lt;/a&gt;&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;#Cas_particulier_:_le_malus_d’armure_34&quot;&gt;Cas particulier : le malus d’armure&lt;/a&gt;&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;#Les_Dons_52&quot;&gt;Les Dons&lt;/a&gt;&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;#Nombre_de_dons_35&quot;&gt;Nombre de dons&lt;/a&gt;&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;#Dons_conseill&#233;s_par_classe_de_personnage_36&quot;&gt;Dons conseill&#233;s par classe de personnage&lt;/a&gt;&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;#Magie_et_Sortil&#232;ges_53&quot;&gt;Magie et Sortil&#232;ges&lt;/a&gt;&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;#Magie_divine_37&quot;&gt;Magie divine&lt;/a&gt;&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;#Magie_profane_38&quot;&gt;Magie profane&lt;/a&gt;&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;#Magie_pr&#233;par&#233;e_39&quot;&gt;Magie pr&#233;par&#233;e&lt;/a&gt;&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;#Magie_spontan&#233;e_40&quot;&gt;Magie spontan&#233;e&lt;/a&gt;&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;#Degr&#233;_de_difficult&#233;_DD_des_sortil&#232;ges_41&quot;&gt;Degr&#233; de difficult&#233; (DD) des sortil&#232;ges&lt;/a&gt;&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;#Concentration_42&quot;&gt;Concentration&lt;/a&gt;&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;#Sorts_en_bonus_43&quot;&gt;Sorts en bonus&lt;/a&gt;&lt;br /&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;br /&gt;
+&lt;h1 class=&quot;separator&quot;&gt;Introduction&lt;a class=&quot;headeranchor&quot; id=&quot;Introduction_54&quot; href=&quot;#Introduction_54&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h1&gt;D&#233;butons tout d’abord par les grands principes autour desquelles s’articule la m&#233;canique de Pathfinder :&lt;br /&gt;&lt;br /&gt;
+&lt;h2 class=&quot;separator&quot;&gt;Pathfinder et vous&lt;a class=&quot;headeranchor&quot; id=&quot;Pathfinder_et_vous_44&quot; href=&quot;#Pathfinder_et_vous_44&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;Pathfinder est un guide pour vous aider &#224; poser un cadre lors de vos parties. Si une r&#232;gle ne vous convient pas, n’h&#233;sitez pas &#224; la modifier apr&#232;s en avoir discut&#233; avec vos joueurs. Le principal int&#233;r&#234;t d’avoir un livre de r&#232;gles, c’est d’avoir une base commune. &lt;br /&gt;&lt;br /&gt;
+&lt;h2 class=&quot;separator&quot;&gt;La base du jeu : le d20&lt;a class=&quot;headeranchor&quot; id=&quot;La_base_du_jeu_:_le_dCA_45&quot; href=&quot;#La_base_du_jeu_:_le_dCA_45&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;Pour chaque action qui peut &#234;tre un &#233;chec, les joueurs doivent faire appel au hasard pour savoir si elle r&#233;ussit. Le ma&#238;tre de jeu d&#233;termine, le plus souvent en secret, le degr&#233; de difficult&#233; (DD) de l&#39;action. Le joueur doit ensuite lancer un d20, appliquer des modificateurs li&#233;s &#224; cette action. Si le r&#233;sultat est &#233;gal ou sup&#233;rieur au degr&#233; de difficult&#233; (DD) c’est une r&#233;ussite. Toutes les r&#232;gles de Pathfinder s’articulent autour de ce principe simple. Toutes les r&#232;gles de Pathfinder s’articulent autour de ce principe simple. La seule difficult&#233; r&#233;side dans le fait de savoir quels sont les modificateurs &#224; appliquer et quels DD utiliser.&lt;br /&gt;&lt;br /&gt;
+&lt;b&gt;R&#233;ussir une action : 1d20 + modificateurs ≥ Degr&#233; de Difficult&#233; (DD)&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;
+&lt;b&gt;Le &#171; 1 &#187; et le &#171; 20 &#187;&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;
+Quand le d&#233; affiche un 1 ou un 20, on parle de 1 ou de 20 naturel, c’est &#224; dire avant que les modificateurs entrent en ligne de compte. Pour les jets d’attaque et les jets de sauvegarde, et uniquement dans ces deux cas, un 1 naturel signifie toujours un &#233;chec et le 20 naturel une r&#233;ussite, quel que soit le DD.&lt;br /&gt;&lt;br /&gt;
+Pour tous les autres tests, cette r&#232;gle ne s’applique pas.&lt;br /&gt;&lt;br /&gt;
+&lt;blockquote&gt;&lt;h4 class=&quot;separator&quot;&gt;Eilio et la planche de bois&lt;/h4&gt;&lt;br /&gt;
+Eilio est un bandit au grand cœur, fuyant les travers de son clan. Au cours d’une de ses aventures, il doit traverser une fosse remplie de pointes ac&#233;r&#233;es en marchant sur une large planche. Pour ce faire, le joueur d&#39;Eilio doit effectuer un test assez simple de sa comp&#233;tence Acrobatie, avec un DD de 10. Malheureusement, il fait un &#171; 1 &#187; naturel. En ajoutant tous ses bonus (+8) le r&#233;sultat final est de 9, il &#233;choue donc de justesse. Comme c’est un test de comp&#233;tence, le &#171; 1 &#187; naturel ne signifie pas automatiquement un &#233;chec.&lt;br /&gt;&lt;br /&gt;Tombant dans la fosse, il doit effectuer un jet de sauvegarde pour limiter les d&#233;g&#226;ts. Le DD est de 30. Le joueur fait un &#171; 20 &#187; naturel et, malgr&#233; le fait qu’il n’atteint pas le DD avec son modificateur de +6, c’est une r&#233;ussite.
+&lt;/blockquote&gt;&lt;br /&gt;&lt;br /&gt;
+&lt;h3 class=&quot;separator&quot;&gt;Les modificateurs&lt;a class=&quot;headeranchor&quot; id=&quot;Les_modificateurs_8&quot; href=&quot;#Les_modificateurs_8&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;Les modificateurs sont un m&#233;lange de bonus et de malus, qui peuvent d&#233;couler des capacit&#233;s physiques ou psychiques du personnage, de son entra&#238;nement, de la qualit&#233; de son &#233;quipement, de la magie ou des circonstances.&lt;br /&gt;&lt;br /&gt;
+Les bonus ont tous un type, en fonction de leur origine (on dit qu&#39;ils sont typ&#233;s). Ainsi, un bonus peut &#234;tre de type divin, de circonstance, d’esquive, d’alt&#233;ration, etc. Les bonus d’un m&#234;me type ne se cumulent pas entre eux, contrairement aux malus, et on n’applique que le plus b&#233;n&#233;fique d’entre eux. Comme toutes les r&#232;gles, celle-ci a ses exceptions : les bonus d’esquive et les bonus non typ&#233;s peuvent se cumuler.&lt;br /&gt;&lt;br /&gt;
+&lt;blockquote&gt;&lt;h4 class=&quot;separator&quot;&gt;L&#39;armure d&#39;Abriel&lt;/h4&gt;&lt;br /&gt;
+Abriel est un halfelin d&#233;vou&#233; &#224; la cause de Sarenrae. Pour se prot&#233;ger, il b&#233;n&#233;ficie de modificateurs, &#224; sa classe d’armure, qui sont :&lt;br /&gt;&lt;br /&gt;&lt;ul&gt;&lt;li&gt;+6 gr&#226;ce &#224; sa cotte de maille (bonus d’armure)&lt;/li&gt;&lt;li&gt;+2 gr&#226;ce &#224; son &#233;cu (modificateur de bouclier)&lt;/li&gt;&lt;li&gt;+1 car il est petit (bonus de taille)&lt;/li&gt;&lt;li&gt;+2 gr&#226;ce &#224; sa souplesse (bonus de Dext&#233;rit&#233;)&lt;br /&gt;&lt;/li&gt;&lt;/ul&gt;&lt;br /&gt;S’il rev&#234;tait une autre armure, il b&#233;n&#233;ficierait de deux bonus de type armure. Il ne prendrait alors en compte que le bonus le plus &#233;lev&#233;.&lt;/blockquote&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;
+&lt;h1 class=&quot;separator&quot;&gt;Cr&#233;ation&lt;a class=&quot;headeranchor&quot; id=&quot;Cr&#233;ation_55&quot; href=&quot;#Cr&#233;ation_55&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h1&gt;&lt;h2 class=&quot;separator&quot;&gt;Le personnage&lt;a class=&quot;headeranchor&quot; id=&quot;Le_personnage_46&quot; href=&quot;#Le_personnage_46&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;Avant de commencer de concevoir votre personnage, il faut avoir une id&#233;e assez pr&#233;cise de ce qu’il va &#234;tre. Tout peut &#234;tre source d’inspiration, sans faire de plagiat int&#233;gral, dans de multiples sources : films, s&#233;ries, romans, BD, jeux... Une id&#233;e vous plait, reprenez la &#224; votre compte, modifiez-l&#224; ou couplez-l&#224; avec une autre. N’h&#233;sitez pas &#224; grossir certains traits, qu’ils soient physiques ou psychologiques, afin de rendre votre personnage unique. Une fois que vous aurez une repr&#233;sentation assez pr&#233;cise, il sera plus simple pour vous de construire votre aventurier autour. &lt;br /&gt;&lt;br /&gt;
+Dans cette optique, des arch&#233;types vous sont propos&#233;s, reprenant les grands classiques adapt&#233;s &#224; Pathfinder, avec des conseils, leurs r&#244;les et un personnage pr&#233;-construit.&lt;br /&gt;&lt;br /&gt;
+Pathfinder est un jeu de coop&#233;ration, la grande majorit&#233; des classes sont sp&#233;cialis&#233;es dans un domaine, m&#234;me si certaines peuvent &#234;tre plus polyvalentes. Mais il reste illusoire de penser qu’un personnage peut tout bien faire, il aura forc&#233;ment ses faiblesses et ses forces. Une bonne coh&#233;sion de groupe permet &#224; chaque membre de pallier aux d&#233;faillances des autres. C’est pour cela qu’il est conseill&#233; aux membres d’une m&#234;me compagnie d’aventurier de se concerter lors de la cr&#233;ation.
+ 
+Un autre facteur &#224; prendre en compte est le type d’aventure jou&#233;e, il vaut mieux &#233;viter certaines classes. Non pas parce qu’elles ne correspondent pas, mais en tant que joueur, vous &#234;tes tributaire de votre feuille de personnage et vous risquez d’&#234;tre limit&#233; dans vos actions. Si cela peut &#234;tre g&#233;rable pour une s&#233;ance, la lassitude risque de s’installer si la situation se prolonge. Par exemple, le r&#244;deur, le barbare et, &#224; plus forte raison, le druide peuvent se sentir limit&#233;s dans une aventure urbaine au contraire du roublard. Sans d&#233;voiler le sc&#233;nario, votre MJ peut vous indiquer quelle en sera la teneur pr&#233;dominante.
+ 
+Une fois que vous avez une id&#233;e pr&#233;cise de votre personnage, de son groupe et du type d’aventure, vous &#234;tes pr&#234;t &#224; le construire. &lt;br /&gt;&lt;br /&gt;
+La construction du personnage, &#233;tape par &#233;tape :&lt;br /&gt;&lt;br /&gt;&lt;ul&gt;&lt;li&gt;D&#233;terminer les caract&#233;ristiques&lt;/li&gt;&lt;li&gt;Choisir sa race ou son ethnie&lt;/li&gt;&lt;li&gt;D&#233;finir sa classe&lt;/li&gt;&lt;li&gt;Indiquer ses dons&lt;/li&gt;&lt;li&gt;Attribuer ses points de comp&#233;tences&lt;/li&gt;&lt;li&gt;Acheter son &#233;quipement&lt;/li&gt;&lt;li&gt;Finaliser son personnage&lt;br /&gt;&lt;/li&gt;&lt;/ul&gt;&lt;br /&gt;
+La vie d’aventurier :&lt;br /&gt;&lt;br /&gt;&lt;ul&gt;&lt;li&gt;Augmenter d’un niveau&lt;/li&gt;&lt;li&gt;Acqu&#233;rir une nouvelle classe&lt;/li&gt;&lt;li&gt;S’engager dans une classe de pr&#233;dilection&lt;br /&gt;&lt;/li&gt;&lt;/ul&gt;&lt;br /&gt;
+&lt;h2 class=&quot;separator&quot;&gt;Les caract&#233;ristiques&lt;a class=&quot;headeranchor&quot; id=&quot;Les_caract&#233;ristiques_47&quot; href=&quot;#Les_caract&#233;ristiques_47&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;&lt;b&gt;R&#233;f&#233;rence&lt;/b&gt; Manuel des joueurs de Pathfinder(VF pages 15-17)&lt;br /&gt;&lt;br /&gt;
+Il existe plusieurs m&#233;thodes pour d&#233;terminer les valeurs des caract&#233;ristiques, c’est au MJ de d&#233;cider laquelle &#224; sa pr&#233;f&#233;rence. L’essentiel est que chaque joueur utilise la m&#234;me m&#233;thode, afin de ne pas g&#233;n&#233;rer des disparit&#233;s.&lt;br /&gt;&lt;br /&gt;
+Les caract&#233;ristiques repr&#233;sentent la base physique et psychique de votre personnage. La r&#233;partition des valeurs d&#233;pend essentiellement du type de personnage que vous comptez cr&#233;er. Si vous voulez cr&#233;er un magicien, la Force n’aura que peut d’int&#233;r&#234;t, au contraire d’un barbare. Des conseils vous seront donn&#233;s dans la description de chacune.&lt;br /&gt;&lt;br /&gt;
+Avec chaque arch&#233;type, vous trouverez une liste des caract&#233;ristiques a privil&#233;gier. &lt;br /&gt;&lt;br /&gt;
+De ces valeurs d&#233;coulent les modificateurs, en fonction du tableau ci-dessous. &lt;br /&gt;&lt;br /&gt;
+&lt;table class=&quot;tablo&quot; &gt;&lt;tr&gt;&lt;th&gt;Valeur&lt;/th&gt;&lt;th&gt;Modificateur&lt;/th&gt;&lt;th&gt;1er&lt;/th&gt;&lt;th&gt;2&#232;me&lt;/th&gt;&lt;th&gt;3&#232;me&lt;/th&gt;&lt;th&gt;4&#232;me&lt;/th&gt;&lt;th&gt;5&#232;me&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;4-5&lt;/td&gt;&lt;td&gt;-3&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;6-7&lt;/td&gt;&lt;td&gt;-2&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;8-9&lt;/td&gt;&lt;td&gt;-1&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;10-11&lt;/td&gt;&lt;td&gt;+0&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;12-13&lt;/td&gt;&lt;td&gt;+1&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;14-15&lt;/td&gt;&lt;td&gt;+2&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;16-17&lt;/td&gt;&lt;td&gt;+3&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;18-19&lt;/td&gt;&lt;td&gt;+4&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;20-21&lt;/td&gt;&lt;td&gt;+5&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;br /&gt;
+&lt;h3 class=&quot;separator&quot;&gt;L’augmentation des caract&#233;ristiques&lt;a class=&quot;headeranchor&quot; id=&quot;L’augmentation_des_caract&#233;ristiques_9&quot; href=&quot;#L’augmentation_des_caract&#233;ristiques_9&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;Ce sont les valeurs qui changent quand un personnage b&#233;n&#233;ficie d’un gain temporaire, par le biais d’un sort par exemple, ou d’une majoration permanente, lorsqu’il atteint certains niveaux.&lt;br /&gt;&lt;br /&gt;
+Dans ces cas, on utilise le nouveau score pour d&#233;terminer le modificateur. Pour les cas particuliers :&lt;br /&gt;&lt;br /&gt;&lt;ul&gt;&lt;li&gt;La Constitution, m&#234;me si l’augmentation est temporaire, les points de vie sont recalcul&#233;s de fa&#231;on r&#233;troactive, c’est &#224; dire en comptant les niveaux du personnage d&#233;j&#224; acquis.&lt;/li&gt;&lt;li&gt;L’Intelligence, contrairement &#224; la Constitution, le gain en points de comp&#233;tence n’est pas r&#233;troactif et n’est valable que si l’augmentation de la caract&#233;ristique est permanente.&lt;/li&gt;&lt;li&gt;Les caract&#233;ristiques li&#233;es &#224; une forme de magie, si elles sont augment&#233;es de fa&#231;on temporaire n’ouvrent pas le droit &#224; de nouveaux sortil&#232;ges (voir le chapitre sur la magie).&lt;br /&gt;&lt;/li&gt;&lt;/ul&gt;&lt;br /&gt;
+&lt;blockquote&gt;&lt;h4 class=&quot;separator&quot;&gt;Les sortil&#232;ges d’Aurgelmyr&lt;/h4&gt;&lt;br /&gt;
+Aurgelmyr est un pr&#234;tre d’Irori, au cours de son entra&#238;nement, son ma&#238;tre lui montre les effets des sortil&#232;ges augmentant les capacit&#233;s physiques et mentales :&lt;br /&gt;&lt;br /&gt;&lt;ul&gt;&lt;li&gt;Endurance de l’ours, augmente temporairement de +4 la Constitution. Sa valeur de base dans cette caract&#233;ristique est de 12 avec un modificateur de +1, elle passe donc &#224; 16 (12+4) et son modificateur est maintenant de +3. Ses points de vie augmentent donc de +2 par niveau acquis, la diff&#233;rence entre les modificateurs.&lt;/li&gt;&lt;li&gt;Sagesse du hibou, augmente temporairement de +4 la Sagesse. Sa valeur de base dans cette caract&#233;ristique est de 16 avec un modificateur de +3, elle passe donc &#224; 20 (16+4) et son modificateur est maintenant de +5. Cela n’augmente pas les sorts auquel Aurgelmyr a acc&#232;s mais majorent leurs efficacit&#233;s.&lt;br /&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/blockquote&gt;&lt;br /&gt;&lt;br /&gt;
+&lt;h3 class=&quot;separator&quot;&gt;La diminution des caract&#233;ristique&lt;a class=&quot;headeranchor&quot; id=&quot;La_diminution_des_caract&#233;ristique_10&quot; href=&quot;#La_diminution_des_caract&#233;ristique_10&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;Suite &#224; une attaque, les valeurs des caract&#233;ristiques peuvent &#234;tre abaiss&#233;es, de fa&#231;on permanente ou temporaire. Cela a plusieurs cons&#233;quences :&lt;br /&gt;&lt;br /&gt;&lt;ul&gt;&lt;li&gt;Le modificateur est recalcul&#233; en fonction de la nouvelle valeur.&lt;/li&gt;&lt;li&gt;Si c’est la Constitution qui est diminu&#233;e, les points de vie sont minor&#233;s &#224; raison d’un point perdu par le modificateur et par niveau. Cette r&#233;duction s’applique aux points de vie actuels et maximum. Ils sont r&#233;cup&#233;r&#233;s d&#232;s que la Constitution se r&#233;g&#233;n&#232;re.&lt;/li&gt;&lt;li&gt;Si la diminution affecte une caract&#233;ristique li&#233;e &#224; une magie, cela peut interdire l’acc&#232;s &#224; certains niveaux de sorts.&lt;/li&gt;&lt;li&gt;Les points de comp&#233;tences ne sont pas modifi&#233;s, sauf si la diminution de l’Intelligence est permanente et que le personnage acquiert un niveau.&lt;/li&gt;&lt;li&gt;La r&#233;g&#233;n&#233;ration d’une diminution temporaire de caract&#233;ristique se fait &#224; hauteur d’un point par jour.&lt;/li&gt;&lt;li&gt;La r&#233;g&#233;n&#233;ration d’une diminution permanente de caract&#233;ristique ne peut se faire que gr&#226;ce &#224; des sortil&#232;ges appropri&#233;s.&lt;br /&gt;&lt;/li&gt;&lt;/ul&gt;&lt;br /&gt;
+&lt;h3 class=&quot;separator&quot;&gt;La Force (FOR)&lt;a class=&quot;headeranchor&quot; id=&quot;La_Force_FOR_11&quot; href=&quot;#La_Force_FOR_11&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;Cette caract&#233;ristique int&#233;resse tous les combattants, plus particuli&#232;rement ceux qui seront au cœur des batailles mais pas seulement. La plupart des personnages auront &#224; se d&#233;fendre face &#224; des adversaires vindicatifs, seuls les magiciens peuvent r&#233;ellement faire sans.&lt;br /&gt;&lt;br /&gt;
+On utilise le modificateur de Force pour :&lt;br /&gt;&lt;br /&gt;&lt;ul&gt;&lt;li&gt;Les jets d’attaques au corps &#224; corps&lt;/li&gt;&lt;li&gt;Les manœuvres de combat, en attaque et en d&#233;fense&lt;/li&gt;&lt;li&gt;Les comp&#233;tences : Escalade et Natation.&lt;/li&gt;&lt;li&gt;Les d&#233;g&#226;ts (en fonction de l’arme)&lt;br /&gt;&lt;/li&gt;&lt;/ul&gt;&lt;br /&gt;
+&lt;table &gt;&lt;tr&gt;&lt;td&gt;Modificateur x1&lt;/td&gt;&lt;td&gt;pour les armes &#224; une main, port&#233;es par la main directrice. &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Modificateur x0,5&lt;/td&gt;&lt;td&gt;pour les armes &#224; une main, port&#233;es par la main non directrice. (arrondie &#224; l&#39;inf&#233;rieur)&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Modificateur X1,5&lt;/td&gt;&lt;td&gt;pour les armes &#224; deux mains. (arrondie &#224; l&#39;inf&#233;rieur)&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Modificateur X1&lt;/td&gt;&lt;td&gt;pour les armes de jet et tir, sauf l&#39;arbal&#232;te et l&#39;arc.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Modificateur X1&lt;/td&gt;&lt;td&gt;pour les arcs, on n&#39;applique que les malus sauf si l&#39;arc &#224; la facult&#233; &quot;de force&quot;.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Modificateur X0&lt;/td&gt;&lt;td&gt;pour les arbal&#232;tes, on n&#39;applique aucun modificateur de Force aux d&#233;g&#226;ts.&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;br /&gt;
+&lt;h3 class=&quot;separator&quot;&gt;La Dext&#233;rit&#233; (DEX)&lt;a class=&quot;headeranchor&quot; id=&quot;La_Dext&#233;rit&#233;_DEX_12&quot; href=&quot;#La_Dext&#233;rit&#233;_DEX_12&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;Elle est particuli&#232;rement int&#233;ressante pour les personnages qui veulent agir et r&#233;agir rapidement et discr&#232;tement, les combattants &#224; distance et ceux qui ne peuvent pas compter sur une lourde armure pour les prot&#233;ger.&lt;br /&gt;&lt;br /&gt;
+On utilise le modificateur de Dext&#233;rit&#233; pour :&lt;br /&gt;&lt;br /&gt;&lt;ul&gt;&lt;li&gt;Les jets d’attaques &#224; distances&lt;/li&gt;&lt;li&gt;La classe d’armure, si le personnage peut r&#233;agir au danger et que son armure ne le g&#232;ne pas (voir l’&#233;quipement).&lt;/li&gt;&lt;li&gt;Le jet de sauvegarde de R&#233;flexes&lt;/li&gt;&lt;li&gt;L’initiative&lt;/li&gt;&lt;li&gt;La d&#233;fense face aux manœuvres de combat&lt;/li&gt;&lt;li&gt;Les comp&#233;tences : Acrobaties, Discr&#233;tion, &#201;quitation, Escamotage, &#201;vasion et Vol.&lt;br /&gt;&lt;/li&gt;&lt;/ul&gt;&lt;br /&gt;
+&lt;h3 class=&quot;separator&quot;&gt;La Constitution (CON)&lt;a class=&quot;headeranchor&quot; id=&quot;La_Constitution_CON_13&quot; href=&quot;#La_Constitution_CON_13&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;C&#39;est la seule caract&#233;ristique o&#249; il est difficile de faire l’impasse car son modificateur s’applique sur les points de vie de votre personnage.&lt;br /&gt;&lt;br /&gt;
+On utilise le modificateur de Constitution pour :&lt;br /&gt;&lt;br /&gt;&lt;ul&gt;&lt;li&gt;Les points de vie&lt;/li&gt;&lt;li&gt;Le jet de sauvegarde de Vigueur&lt;br /&gt;&lt;/li&gt;&lt;/ul&gt;&lt;br /&gt;
+&lt;h3 class=&quot;separator&quot;&gt;L’Intelligence (INT)&lt;a class=&quot;headeranchor&quot; id=&quot;L’Intelligence_INT_14&quot; href=&quot;#L’Intelligence_INT_14&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;Outre pour les magiciens, pour qui cette caract&#233;ristique est primordiale, l’Intelligence est utile pour les points de comp&#233;tences qu’elle fournit.&lt;br /&gt;&lt;br /&gt;
+On utilise le modificateur d’intelligence pour :&lt;br /&gt;&lt;br /&gt;&lt;ul&gt;&lt;li&gt;Les points de comp&#233;tences&lt;/li&gt;&lt;li&gt;Le nombre de langages connus lors de la cr&#233;ation. En plus de sa langue maternelle et de la langue commune, le personnage ma&#238;trise autant de langues suppl&#233;mentaires qu’il poss&#232;de de modificateur, un malus comptant comme nul.&lt;/li&gt;&lt;li&gt;Les comp&#233;tences : Art de la magie, Artisanat,  Connaissance (toutes), Estimation, Linguistique et Sabotage.&lt;br /&gt;&lt;/li&gt;&lt;/ul&gt;&lt;br /&gt;
+&lt;h3 class=&quot;separator&quot;&gt;La Sagesse (SAG)&lt;a class=&quot;headeranchor&quot; id=&quot;La_Sagesse_SAG_15&quot; href=&quot;#La_Sagesse_SAG_15&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;Elle int&#233;resse avant tout le druide, le pr&#234;tre et le r&#244;deur qui l’utilisent comme base pour leurs pouvoirs magiques. Mais la Sagesse influe aussi sur la capacit&#233; &#224; r&#233;sister aux sorts mentaux ainsi que sur la comp&#233;tence Perception, ni l’un, ni l’autre ne sont &#224; n&#233;gliger.&lt;br /&gt;&lt;br /&gt;
+On utilise le modificateur de Sagesse pour :&lt;br /&gt;&lt;br /&gt;&lt;ul&gt;&lt;li&gt;Les jets de sauvegarde de Volont&#233;&lt;/li&gt;&lt;li&gt;Les comp&#233;tences : Perception, Premiers secours, Profession, Psychologie et Survie.&lt;br /&gt;&lt;/li&gt;&lt;/ul&gt;&lt;br /&gt;
+&lt;h3 class=&quot;separator&quot;&gt;Le Charisme (CHA)&lt;a class=&quot;headeranchor&quot; id=&quot;Le_Charisme_CHA_16&quot; href=&quot;#Le_Charisme_CHA_16&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;Comme les autres caract&#233;ristiques mentales, le Charisme est important pour certaines classes d’utilisateurs de la magie : le barde, l’ensorceleur et le paladin en l’occurrence. Mais il influe aussi sur la capacit&#233; des personnages &#224; influencer l’attitude des &#234;tres qu’ils c&#244;toient.&lt;br /&gt;&lt;br /&gt;On utilise le modificateur de Charisme pour :&lt;br /&gt;&lt;br /&gt;&lt;ul&gt;&lt;li&gt;Les comp&#233;tences : Bluff, D&#233;guisement, Diplomatie, Dressage, Intimidation, Repr&#233;sentation et Utilisation d&#39;objets magiques.&lt;br /&gt;&lt;/li&gt;&lt;/ul&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;
+&lt;h2 class=&quot;separator&quot;&gt;Les Races et les Ethnies&lt;a class=&quot;headeranchor&quot; id=&quot;Les_Races_et_les_Ethnies_48&quot; href=&quot;#Les_Races_et_les_Ethnies_48&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;&lt;b&gt;R&#233;f&#233;rence&lt;/b&gt; : Chapitre 2 du manuel des joueurs&lt;br /&gt;&lt;br /&gt;
+&lt;b&gt;Diff&#233;rence entre Race et Ethnie&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;
+Le terme de race englobe tous les humano&#239;des qui peuvent devenir des PJ. Chaque race poss&#232;de ses propres avantages mais aussi sa vision du monde et son histoire. La race humaine est la r&#233;f&#233;rence de base, ainsi quand on parle de moyenne, cela sous-entend la moyenne humaine.&lt;br /&gt;&lt;br /&gt;
+Le terme d’ethnie correspond &#224; un sous-groupe de la race humaine. Cela se r&#233;f&#232;re &#224; des vari&#233;t&#233;s d’origine g&#233;ographique et culturelle, m&#234;me si cela n’implique aucune diff&#233;rence au niveau des r&#232;gles. Dans le manuel des joueurs de Pathfinder, cette notion n’est pas &#233;voqu&#233;e, mais elle l’est dans son monde de r&#233;f&#233;rence : Golarion.&lt;br /&gt;&lt;br /&gt;
+&lt;b&gt;Les ajustements apport&#233;s aux caract&#233;ristiques&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;
+Toutes les races, m&#234;me les humains, poss&#232;dent des ajustements &#224; leurs caract&#233;ristiques. Cela permet d’accentuer une particularit&#233; physique et/ou mentale d’une race.&lt;br /&gt;&lt;br /&gt;
+Ses ajustements sont &#224; appliquer apr&#232;s avoir d&#233;termin&#233; les caract&#233;ristiques de votre personnage, et ils agissent sur leurs valeurs.&lt;br /&gt;&lt;br /&gt;
+Il est conseill&#233; de choisir une race qui ne poss&#232;de pas de malus dans une de ses caract&#233;ristiques importantes. Ce n’est pas une obligation, mais cela g&#233;n&#232;re un handicap non n&#233;gligeable.&lt;br /&gt;&lt;br /&gt;
+&lt;h2 class=&quot;separator&quot;&gt;Les Classes de base&lt;a class=&quot;headeranchor&quot; id=&quot;Les_Classes_de_base_49&quot; href=&quot;#Les_Classes_de_base_49&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;&lt;b&gt;R&#233;f&#233;rence&lt;/b&gt; : Chapitre 3 du manuel des joueurs&lt;br /&gt;&lt;br /&gt;
+&lt;h3 class=&quot;separator&quot;&gt;La classe de Pr&#233;dilection&lt;a class=&quot;headeranchor&quot; id=&quot;La_classe_de_Pr&#233;dilection_17&quot; href=&quot;#La_classe_de_Pr&#233;dilection_17&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;Le choix de la classe de pr&#233;dilection, qui doit &#234;tre obligatoirement une classe de base, se fait au niveau 1 et ne peut &#234;tre modifi&#233; par la suite. Mis &#224; part le demi-elfe qui peut en poss&#233;der deux, toutes les autres races sont limit&#233;es &#224; une unique classe de pr&#233;dilection choisie librement.&lt;br /&gt;&lt;br /&gt;Quand le personnage acquiert un niveau, y compris le premier, dans sa classe de pr&#233;dilection, il peut b&#233;n&#233;ficier de fa&#231;on permanente soit :&lt;br /&gt;&lt;br /&gt;•	d’un bonus d’un point de vie &lt;br /&gt;&lt;br /&gt;•	d’un bonus d’un point de comp&#233;tence&lt;br /&gt;&lt;br /&gt;A chaque mont&#233;e de niveau, le joueur peut opter pour l’une ou l’autre de ses options.&lt;br /&gt;&lt;br /&gt;
+&lt;blockquote&gt;&lt;h4 class=&quot;separator&quot;&gt;La classe de pr&#233;dilection d’Aramis&lt;/h4&gt;&lt;br /&gt;
+Personnage d&#233;butant, le joueur d’Aramis lui attribue son premier niveau en tant que r&#244;deur. Mais, par la suite, il veut en faire, avant tout, un ensorceleur. Il d&#233;cide donc que la classe de pr&#233;dilection sera celle d’ensorceleur. En cons&#233;quence, lors de son premier niveau, Aramis ne b&#233;n&#233;ficie d’aucun bonus, mais devra attendre d’acqu&#233;rir des niveaux d’ensorceleur pour en profiter.
+&lt;/blockquote&gt;&lt;br /&gt;&lt;br /&gt;
+&lt;h3 class=&quot;separator&quot;&gt;Le barbare&lt;a class=&quot;headeranchor&quot; id=&quot;Le_barbare_18&quot; href=&quot;#Le_barbare_18&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;Caract&#233;ristique primordiale : &lt;b&gt;Force&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;C’est un combattant particuli&#232;rement farouche et r&#233;sistant, au cœur des m&#234;l&#233;es, il est un atout majeur. De plus, il dispose d’un nombre de points de comp&#233;tences d&#233;cent et de quelques comp&#233;tences de classe, notamment Perception et Survie, qui lui permettent d’&#234;tre un &#233;claireur acceptable en ext&#233;rieur.&lt;br /&gt;&lt;br /&gt;
+&lt;h3 class=&quot;separator&quot;&gt;Le barde&lt;a class=&quot;headeranchor&quot; id=&quot;Le_barde_19&quot; href=&quot;#Le_barde_19&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;Caract&#233;ristique primordiale : &lt;b&gt;Charisme&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;C’est un touche &#224; tout, mais c’est surtout son r&#244;le de soutient qui pr&#233;domine, gr&#226;ce &#224; ses chants et &#224; sa magie. Dans un combat, son impact direct est m&#233;diocre mais son appui peut &#234;tre pr&#233;cieux. Ses connaissances et ses capacit&#233;s sociales font de lui un tr&#232;s bon enqu&#234;teur. De plus, il poss&#232;de la comp&#233;tence, Utilisation d’objet magique qui est un avantage non n&#233;gligeable.&lt;br /&gt;&lt;br /&gt;
+&lt;h3 class=&quot;separator&quot;&gt;Le druide&lt;a class=&quot;headeranchor&quot; id=&quot;Le_druide_20&quot; href=&quot;#Le_druide_20&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;Caract&#233;ristique primordiale : &lt;b&gt;Sagesse&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;Ce d&#233;fenseur de la nature poss&#232;de plusieurs atouts, mais il devra faire un choix. Il peut &#234;tre tr&#232;s puissant au combat en m&#234;l&#233;e, notamment quand il acquiert la capacit&#233; de changer de forme, mais il faut veiller &#224; ce qu’il poss&#232;de des caract&#233;ristiques physiques honorables. Il peut, aussi, plus se baser sur ses sortil&#232;ges divins pour contr&#244;ler le terrain. Mais il est difficile de d&#233;velopper les deux aspects en m&#234;me temps.&lt;br /&gt;&lt;br /&gt;
+&lt;h3 class=&quot;separator&quot;&gt;L’ensorceleur&lt;a class=&quot;headeranchor&quot; id=&quot;L’ensorceleur_21&quot; href=&quot;#L’ensorceleur_21&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;Caract&#233;ristique primordiale : &lt;b&gt;Charisme&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;La cr&#233;ation d’un personnage ensorceleur est assez difficile, &#224; cause des choix &#224; faire, pour des joueurs n&#233;ophytes.&lt;br /&gt;&lt;br /&gt;Lanceur spontan&#233; de sorts profanes, le lignage d’un ensorceleur est tr&#232;s important, conditionnant en partie sa place dans une &#233;quipe. Disposant d’un r&#233;pertoire restreint de sortil&#232;ges, il convient de les choisir avec soin en pr&#233;f&#233;rant les sorts polyvalents et ceux qui &#233;voluent avec le niveau du personnage. Par la suite, Sa capacit&#233; &#224; appliquer les m&#233;tamagies &#224; la vol&#233;e lui permet de regagner la versatilit&#233; perdue &#224; cause de la s&#233;lection de sorts limit&#233;e. Son charisme &#233;lev&#233;, ses sortil&#232;ges et sa comp&#233;tence de Bluff lui permettent d’assumer les interactions sociales.&lt;br /&gt;&lt;br /&gt;
+&lt;h3 class=&quot;separator&quot;&gt;Le guerrier&lt;a class=&quot;headeranchor&quot; id=&quot;Le_guerrier_22&quot; href=&quot;#Le_guerrier_22&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;Caract&#233;ristique primordiale : Variable en fonction du style (&lt;b&gt;Force ou Dext&#233;rit&#233;&lt;/b&gt;)&lt;br /&gt;&lt;br /&gt;Dot&#233; de nombreux dons, c’est avant tout un tacticien, expert en manœuvre de combat. Il vaut toutefois mieux &#233;viter de disperser les dons dans des registres trop diff&#233;rents et le sp&#233;cialiser dans un ou deux styles de combat. A noter que mis a part les classes &#171; &#233;rudites &#187;, comme le magicien ou le barde, il est le seul a poss&#233;der la comp&#233;tence, Ing&#233;nierie. &lt;br /&gt;&lt;br /&gt;
+&lt;h3 class=&quot;separator&quot;&gt;Le magicien&lt;a class=&quot;headeranchor&quot; id=&quot;Le_magicien_23&quot; href=&quot;#Le_magicien_23&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;Caract&#233;ristique primordiale : &lt;b&gt;Intelligence&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;Le magicien est une classe de personnage un peu difficile &#224; aborder. En premier lieu, par le choix de sa sp&#233;cialisation ou non, puis par le choix des sorts. M&#234;me s’il dispose d’un r&#233;pertoire bien plus vaste que l’ensorceleur, il doit faire son choix quotidiennement, ce qui peut limiter son adaptabilit&#233; lors de situations impr&#233;vues. V&#233;ritable puits de science, il a acc&#232;s &#224; toutes les comp&#233;tences de connaissances du jeu.&lt;br /&gt;&lt;br /&gt;
+&lt;h3 class=&quot;separator&quot;&gt;Le moine&lt;a class=&quot;headeranchor&quot; id=&quot;Le_moine_24&quot; href=&quot;#Le_moine_24&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;Caract&#233;ristique primordiale : &lt;b&gt;Sagesse&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;Le moine est une arme capable d’infliger des &#233;tats pr&#233;judiciables &#224; ses ennemis.&lt;br /&gt;&lt;br /&gt;
+&lt;h3 class=&quot;separator&quot;&gt;Le paladin&lt;a class=&quot;headeranchor&quot; id=&quot;Le_paladin_25&quot; href=&quot;#Le_paladin_25&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;Caract&#233;ristique primordiale : &lt;b&gt;Force&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;C’est le h&#233;ros du bien par excellence, il poss&#232;de un large &#233;ventail pour lutter et r&#233;sister contre le mal. L’une des difficult&#233;s est dans son interpr&#233;tation qui laisse peu de place aux compromis (il FAUT se mettre d’accord avec son MJ sur la notion des alignements si on d&#233;cide d’aborder cette classe), m&#234;me si cela est envisageable dans les cas extr&#234;mes. Bien qu’il poss&#232;de rapidement des capacit&#233;s de soins convenables et quelques comp&#233;tences sociales, il reste avant tout une lame au service de sa cause. &lt;br /&gt;&lt;br /&gt;
+&lt;h3 class=&quot;separator&quot;&gt;Le pr&#234;tre&lt;a class=&quot;headeranchor&quot; id=&quot;Le_pr&#234;tre_26&quot; href=&quot;#Le_pr&#234;tre_26&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;Caract&#233;ristique primordiale : &lt;b&gt;Sagesse&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;Le pr&#234;tre est au service d’un Dieu ou d’une cause, qui conditionne son alignement et certaines de ses capacit&#233;s, comme la canalisation d’&#233;nergie et les domaines cl&#233;ricaux. Soutenu par ses sorts divins, il peut &#234;tre soigneur (s’il est bon), n&#233;cromancien (s’il est mauvais), soutien de groupe, combattant en m&#234;l&#233;e ou diplomate, voire tout &#224; la fois.&lt;br /&gt;&lt;br /&gt;
+&lt;h3 class=&quot;separator&quot;&gt;Le r&#244;deur&lt;a class=&quot;headeranchor&quot; id=&quot;Le_r&#244;deur_27&quot; href=&quot;#Le_r&#244;deur_27&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;Caract&#233;ristique primordiale : En fonction du style de combat (&lt;b&gt;Force ou Dext&#233;rit&#233;&lt;/b&gt;)&lt;br /&gt;&lt;br /&gt;Le r&#244;deur, au niveau 2, doit choisir un style de combat. Soit il devient un combattant ambidextre, dans ce cas, il faut privil&#233;gier la Force, soit il sera un excellent archer, la Dext&#233;rit&#233; &#233;tant alors primordiale. Dans les deux cas, il reste avant tout un &#233;claireur hors pair gr&#226;ce &#224; ses comp&#233;tences puis, par la suite, ses sorts divins pr&#233;par&#233;s. Sa capacit&#233; d’ennemi jur&#233; le rend tr&#232;s efficace dans certaines situations.&lt;br /&gt;&lt;br /&gt;
+&lt;h3 class=&quot;separator&quot;&gt;Le roublard&lt;a class=&quot;headeranchor&quot; id=&quot;Le_roublard_28&quot; href=&quot;#Le_roublard_28&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;Caract&#233;ristique primordiale : &lt;b&gt;Dext&#233;rit&#233;&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;Bo&#238;te-&#224;-outils par excellence, disposant d’un grand nombre de points de comp&#233;tence et d’un vaste choix, le roublard peut &#233;treindre de nombreuses fonctions au sein d’un groupe (&#233;claireur, espion, enqu&#234;teur, diplomate, mystificateur, etc.). Son attaque sournoise lui permet d’&#234;tre efficace au combat sans toutefois &#233;galer les classes combattantes comme le guerrier ou le barbare.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;
+&lt;h2 class=&quot;separator&quot;&gt;Les points et les bonus&lt;a class=&quot;headeranchor&quot; id=&quot;Les_points_et_les_bonus_50&quot; href=&quot;#Les_points_et_les_bonus_50&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;&lt;br /&gt;&lt;br /&gt;
+Une fois les caract&#233;ristiques, la race et la classe d&#233;finie, vous pouvez calculer vos diff&#233;rentes valeurs qui vous serviront &#224; interpr&#233;ter votre personnage. Certains dons peuvent influencer les diff&#233;rents points et bonus, un r&#233;ajustement est donc possible. Le fait d’effectuer ce calcul maintenant vous permet de mieux visualiser les forces et les faiblesses de votre personnage, vous pourrez donc choisir les dons en connaissance de cause.				&lt;br /&gt;&lt;br /&gt;
+&lt;blockquote&gt;&lt;h4 class=&quot;separator&quot;&gt;Arunya, la guerri&#232;re flamboyante&lt;/h4&gt;&lt;br /&gt;
+Pour l’ensemble de ce chapitre, Arunya servira d’exemple. Guerri&#232;re de niveau 1, ses caract&#233;ristiques sont les suivantes :&lt;br /&gt;
+•	Force 16, modificateur +3&lt;br /&gt;
+•	Dext&#233;rit&#233; 14, modificateur +2&lt;br /&gt;
+•	Constitution 16, modificateur +3&lt;br /&gt;
+•	Intelligence 10, modificateur +0&lt;br /&gt;
+•	Sagesse 9, modificateur -1&lt;br /&gt;
+•	Charisme 11, modificateur +0&lt;br /&gt;&lt;/blockquote&gt;
+&lt;h3 class=&quot;separator&quot;&gt;Les bonus d’attaque&lt;a class=&quot;headeranchor&quot; id=&quot;Les_bonus_d’attaque_29&quot; href=&quot;#Les_bonus_d’attaque_29&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;Ces bonus servent &#224; savoir si les coups de vos personnages atteignent leurs cibles. Pour cela, il faut faire un jet avec 1d20 ajouter le bonus et comparer le score final &#224; la d&#233;fense (classe d’armure ou degr&#233; de manœuvre d&#233;fensive) de l’adversaire.&lt;br /&gt;&lt;br /&gt;Les dons, les circonstances, la magie sont autant de facteurs qui peuvent modifier, en jeu, les bonus d’attaque.&lt;br /&gt;&lt;br /&gt;Les bonus d’attaque au corps &#224; corps, &#224; distance et en manœuvre offensive sont distincts. &lt;br /&gt;&lt;br /&gt;
+&lt;h4 class=&quot;separator&quot;&gt;Bonus d’attaque au corps &#224; corps :&lt;a class=&quot;headeranchor&quot; id=&quot;Bonus_d’attaque_au_corps_&#224;_corps_:_0&quot; href=&quot;#Bonus_d’attaque_au_corps_&#224;_corps_:_0&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h4&gt;•	Bonus de base &#224; l’attaque de la classe&lt;br /&gt;&lt;br /&gt;•	+modificateur de Force&lt;br /&gt;&lt;br /&gt;•	+modificateur de taille&lt;br /&gt;&lt;br /&gt;
+&lt;h4 class=&quot;separator&quot;&gt;Bonus d’attaque &#224; distance :&lt;a class=&quot;headeranchor&quot; id=&quot;Bonus_d’attaque_&#224;_distance_:_1&quot; href=&quot;#Bonus_d’attaque_&#224;_distance_:_1&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h4&gt;•	Bonus de base &#224; l’attaque de la classe&lt;br /&gt;&lt;br /&gt;•	+modificateur de Dext&#233;rit&#233;&lt;br /&gt;&lt;br /&gt;•	+modificateur de taille&lt;br /&gt;&lt;br /&gt;•	+modificateur de distance&lt;br /&gt;&lt;br /&gt;
+&lt;h4 class=&quot;separator&quot;&gt;Bonus de manœuvre offensive :&lt;a class=&quot;headeranchor&quot; id=&quot;Bonus_de_manœuvre_offensive_:_2&quot; href=&quot;#Bonus_de_manœuvre_offensive_:_2&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h4&gt;•	Bonus de base &#224; l’attaque de la classe&lt;br /&gt;&lt;br /&gt;•	+modificateur de Force, si la taille est petite ou sup&#233;rieur&lt;br /&gt;&lt;br /&gt;•	+modificateur de Dext&#233;rit&#233;, si la taille est tr&#232;s petite ou inf&#233;rieur&lt;br /&gt;&lt;br /&gt;•	+modificateur de taille (BMO)&lt;br /&gt;&lt;br /&gt;
+&lt;blockquote&gt;&lt;h4 class=&quot;separator&quot;&gt;Les bonus d’attaque d’Arunya&lt;/h4&gt; :
+Bonus d’attaque au corps &#224; corps = +4 soit +1 (BBA) +3 (mod de Force) +0 (mod de taille)&lt;br /&gt;
+Bonus d’attaque &#224; distance = +3 soit +1 (BBA) +2 (mod de Dext&#233;rit&#233;) +0 (mod de taille)&lt;br /&gt;
+Bonus au manœuvre offensive = +4 soit +1 (BBA) +3 (mod de Force) +0 (mod de taille)&lt;br /&gt;&lt;/blockquote&gt;&lt;br /&gt;&lt;br /&gt;
+&lt;h3 class=&quot;separator&quot;&gt;Les valeurs de d&#233;fense&lt;a class=&quot;headeranchor&quot; id=&quot;Les_valeurs_de_d&#233;fense_30&quot; href=&quot;#Les_valeurs_de_d&#233;fense_30&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;La classe d’armure et le degr&#233; de manœuvre d&#233;fensive repr&#233;sentent les principales protections du personnage, avec les jets de sauvegarde qui sont d&#233;taill&#233;s plus bas. La classe d’armure se d&#233;cline sous trois formes diff&#233;rentes.&lt;br /&gt;&lt;br /&gt;La classe d’armure, &#224; proprement parler, est le cumule de toutes les d&#233;fenses du personnage.&lt;br /&gt;&lt;br /&gt;La classe d’armure, pris au d&#233;pourvu, est utilis&#233;e quand le personnage ne peut r&#233;agir &#224; une attaque.&lt;br /&gt;&lt;br /&gt;La classe d’armure, de contact, est utilis&#233;e quand c’est une attaque magique qui vise le personnage.&lt;br /&gt;&lt;br /&gt;
+&lt;h4 class=&quot;separator&quot;&gt;La classe d’armure :&lt;a class=&quot;headeranchor&quot; id=&quot;La_classe_d’armure_:_3&quot; href=&quot;#La_classe_d’armure_:_3&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h4&gt;•	10, c’est une base fixe&lt;br /&gt;&lt;br /&gt;•	+bonus armure&lt;br /&gt;&lt;br /&gt;•	+bonus bouclier&lt;br /&gt;&lt;br /&gt;•	+modificateur de Dext&#233;rit&#233;&lt;br /&gt;&lt;br /&gt;•	+modificateur de taille&lt;br /&gt;&lt;br /&gt;
+&lt;h4 class=&quot;separator&quot;&gt;La classe d’armure, pris au d&#233;pourvu :&lt;a class=&quot;headeranchor&quot; id=&quot;La_classe_d’armure_pris_au_d&#233;pourvu_:_4&quot; href=&quot;#La_classe_d’armure_pris_au_d&#233;pourvu_:_4&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h4&gt;•	10, c’est une base fixe&lt;br /&gt;&lt;br /&gt;•	+bonus armure&lt;br /&gt;&lt;br /&gt;•	+bonus bouclier&lt;br /&gt;&lt;br /&gt;•	+modificateur de taille&lt;br /&gt;&lt;br /&gt;
+&lt;h4 class=&quot;separator&quot;&gt;La classe d’armure de contact :&lt;a class=&quot;headeranchor&quot; id=&quot;La_classe_d’armure_de_contact_:_5&quot; href=&quot;#La_classe_d’armure_de_contact_:_5&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h4&gt;•	10, c’est une base fixe&lt;br /&gt;&lt;br /&gt;•	+modificateur de Dext&#233;rit&#233;&lt;br /&gt;&lt;br /&gt;•	+modificateur de taille&lt;br /&gt;&lt;br /&gt;
+&lt;h4 class=&quot;separator&quot;&gt;Le degr&#233; de manœuvre d&#233;fensive :&lt;a class=&quot;headeranchor&quot; id=&quot;Le_degr&#233;_de_manœuvre_d&#233;fensive_:_6&quot; href=&quot;#Le_degr&#233;_de_manœuvre_d&#233;fensive_:_6&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h4&gt;•	10, c’est une base fixe&lt;br /&gt;&lt;br /&gt;•       +Bonus de base &#224; l’attaque de la classe&lt;br /&gt;&lt;br /&gt;•	+modificateur de Force&lt;br /&gt;&lt;br /&gt;•	+modificateur de Dext&#233;rit&#233;&lt;br /&gt;&lt;br /&gt;•	+modificateur de taille&lt;br /&gt;&lt;br /&gt;
+&lt;blockquote&gt;&lt;h4 class=&quot;separator&quot;&gt;Les d&#233;fenses d’Arunya&lt;/h4&gt; 
+La guerri&#232;re porte une cotte de mailles pour armure, n’utilisant pas de bouclier car elle est arm&#233;e d’une &#233;p&#233;e &#224; deux mains. Ses diff&#233;rentes d&#233;fenses sont donc :&lt;br /&gt;
+CA = 18 soit 10 (fixe) + 6 (cotte de maille) + 2 (mod de Dext&#233;rit&#233;)&lt;br /&gt;
+CA, pris au d&#233;pourvu = 16 soit 10 (fixe) + 6 (cotte de maille)&lt;br /&gt; 
+CA de contact = 12 soit 10 (fixe) + 2 (mod de Dext&#233;rit&#233;)&lt;br /&gt;
+DMD = 16 soit 10 (fixe) +1(BBA) + 3 (mod de Force) + 2 (mod de Dext&#233;rit&#233;)
+&lt;/blockquote&gt;&lt;br /&gt;&lt;br /&gt;
+&lt;h4 class=&quot;separator&quot;&gt;Les jets de sauvegarde&lt;a class=&quot;headeranchor&quot; id=&quot;Les_jets_de_sauvegarde_7&quot; href=&quot;#Les_jets_de_sauvegarde_7&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h4&gt;Comme la classe d&#39;armure, les jets de sauvegarde sont des protections que poss&#232;de votre personnage. Ils se distinguent du fait que c&#39;est au d&#233;fenseur de vaincre une difficult&#233; et de par la nature des agressions desquelles ils prot&#232;gent.&lt;br /&gt;&lt;br /&gt; 
+Pour conna&#238;tre sa valeur, il faut se r&#233;f&#233;rer &#224; la base fournit par la classe et ajouter le modificateur de la caract&#233;ristique ad&#233;quat. Ils sont au nombre de trois :&lt;br /&gt;&lt;br /&gt;Vigueur (modificateur de Constitution), utilis&#233; quand c&#39;est l&#39;int&#233;grit&#233; m&#234;me du corps qui est vis&#233; comme par un poison ou une maladie.&lt;br /&gt;&lt;br /&gt;R&#233;flexes (modificateur de Dext&#233;rit&#233;), utilis&#233; quand une agression n&#39;est pas cibl&#233;e mais touche toute une zone, comme une fosse remplie de pieux.&lt;br /&gt;&lt;br /&gt;Volont&#233; (modificateur de Sagesse), utilis&#233; quand c&#39;est l&#39;int&#233;grit&#233; m&#234;me de l&#39;esprit qui est vis&#233;, certains sortil&#232;ges pouvant endormir, effrayer, etc.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;h2 class=&quot;separator&quot;&gt;Les comp&#233;tences &lt;a class=&quot;headeranchor&quot; id=&quot;Les_comp&#233;tences_51&quot; href=&quot;#Les_comp&#233;tences_51&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;&lt;h3 class=&quot;separator&quot;&gt;Les points de comp&#233;tence&lt;a class=&quot;headeranchor&quot; id=&quot;Les_points_de_comp&#233;tence_31&quot; href=&quot;#Les_points_de_comp&#233;tence_31&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;Nombre de points de comp&#233;tence par niveau&lt;br /&gt;&lt;br /&gt;Pour d&#233;terminer les points de comp&#233;tences de votre personnage, il faut additionner :&lt;br /&gt;&lt;br /&gt;•	La valeur due &#224; la classe&lt;br /&gt;&lt;br /&gt;•	Le modificateur d&#39;Intelligence&lt;br /&gt;&lt;br /&gt;•	+1 si le personnage est humain&lt;br /&gt;&lt;br /&gt;Si le r&#233;sultat final est z&#233;ro ou n&#233;gatif, cette valeur est ramen&#233;e &#224; 1.&lt;br /&gt;&lt;br /&gt; 
+Chaque point de comp&#233;tence d&#233;pens&#233; dans une comp&#233;tence permet d’acqu&#233;rir un rang.&lt;br /&gt;&lt;br /&gt; 
+Le score maximum du rang est &#233;gal au niveau du personnage. &lt;br /&gt;&lt;br /&gt;
+&lt;blockquote&gt;&lt;h4 class=&quot;separator&quot;&gt;Les points de comp&#233;tences Enyil&lt;/h4&gt;Enyil est une barde humaine avec 12 en Intelligence. Pour son premier niveau, ses points de comp&#233;tences sont donc de :&lt;br /&gt;
+•	6, d&#251; a sa classe&lt;br /&gt;
+•	+1, d&#251; au modificateur d’Intelligence&lt;br /&gt;
+•	+1 car elle est humaine&lt;br /&gt;
+Le joueur d’Enyil a donc 8 points de comp&#233;tences a d&#233;penser et ce, par niveau.
+&lt;/blockquote&gt;&lt;br /&gt;&lt;br /&gt;
+&lt;h3 class=&quot;separator&quot;&gt;Valeur d’une comp&#233;tence&lt;a class=&quot;headeranchor&quot; id=&quot;Valeur_d’une_comp&#233;tence_32&quot; href=&quot;#Valeur_d’une_comp&#233;tence_32&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;Pour d&#233;terminer la valeur d’une comp&#233;tence, il faut additionner :&lt;br /&gt;&lt;br /&gt;•	Les rangs acquis&lt;br /&gt;&lt;br /&gt;•	Le modificateur de la caract&#233;ristique li&#233;e&lt;br /&gt;&lt;br /&gt;•	+3 si c’est une comp&#233;tence de classe et si le personnage poss&#232;de au moins un rang&lt;br /&gt;&lt;br /&gt;•	Si la comp&#233;tence est soumise au malus d’armure, l’appliquer &lt;br /&gt;&lt;br /&gt;
+&lt;blockquote&gt;&lt;h4 class=&quot;separator&quot;&gt;Enyil, l’acrobate&lt;/h4&gt;Le joueur d’Enyil d&#233;pense un point de comp&#233;tence dans la comp&#233;tence Acrobatie. Comme la barde est de niveau 1, c’est le maximum que le joueur peut lui attribuer actuellement. Sa Dext&#233;rit&#233; est de 14, le modificateur est donc de +2 et elle porte une armure de cuir clout&#233;e.&lt;br /&gt;
+Son score en Acrobatie est donc :&lt;br /&gt;
+•	1, c’est le rang qu’elle poss&#232;de&lt;br /&gt;
+•	+2, le modificateur de Dext&#233;rit&#233;&lt;br /&gt;
+•	+3, c’est une comp&#233;tence de classe&lt;br /&gt;
+•	-1, a cause de la g&#232;ne engendr&#233;e par le port de l’armure&lt;br /&gt;
+•	Soit un total de +5
+&lt;/blockquote&gt;&lt;br /&gt;&lt;br /&gt;
+&lt;h3 class=&quot;separator&quot;&gt;Cas particulier : les comp&#233;tences avec formation&lt;a class=&quot;headeranchor&quot; id=&quot;Cas_particulier_:_les_comp&#233;tences_avec_formation_33&quot; href=&quot;#Cas_particulier_:_les_comp&#233;tences_avec_formation_33&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;M&#234;me si votre personnage n’est pas entra&#238;n&#233;, il peut utiliser un grand nombre de comp&#233;tences de fa&#231;on intuitive. C’est &#224; dire, que m&#234;me si vous n’avez attribu&#233; aucun point de comp&#233;tence, vous pouvez quand m&#234;me faire un test.&lt;br /&gt;&lt;br /&gt;Toutefois, certaines comp&#233;tences n&#233;cessitent des connaissances, un savoir pour &#234;tre utilis&#233;. Dans ce cas, une formation est obligatoire, vous devez avoir attribuez au moins un rang pour pouvoir faire un test.&lt;br /&gt;&lt;br /&gt;Pour refl&#233;ter la culture g&#233;n&#233;rale du personnage, si le DD est de 10 ou inf&#233;rieur, vous pouvez faire un test avec les comp&#233;tences n&#233;cessitant une formation m&#234;me si vous n’avez attribu&#233; aucun rang.&lt;br /&gt;&lt;br /&gt;Comp&#233;tences n&#233;cessitant une formation :&lt;br /&gt;&lt;br /&gt;•	Art de la magie&lt;br /&gt;&lt;br /&gt;•	Connaissances (toutes)&lt;br /&gt;&lt;br /&gt;•	Dressage&lt;br /&gt;&lt;br /&gt;•	Escamotage&lt;br /&gt;&lt;br /&gt;•	Linguistique&lt;br /&gt;&lt;br /&gt;•	Profession&lt;br /&gt;&lt;br /&gt;•	Sabotage&lt;br /&gt;&lt;br /&gt;•	Utilisation d’objets magiques&lt;br /&gt;&lt;br /&gt;
+&lt;h3 class=&quot;separator&quot;&gt;Cas particulier : le malus d’armure&lt;a class=&quot;headeranchor&quot; id=&quot;Cas_particulier_:_le_malus_d’armure_34&quot; href=&quot;#Cas_particulier_:_le_malus_d’armure_34&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt; 
+Certaines comp&#233;tences demandent une grande libert&#233; de mouvement pour &#234;tre utilis&#233;es, le port d’une armure peut constituer une g&#234;ne. Dans ce cas, &#224; votre total, il faut soustraire le malus d’armure au score total quand votre personnage la porte.&lt;br /&gt;&lt;br /&gt;Comp&#233;tences affect&#233;es par le malus d’armure :&lt;br /&gt;&lt;br /&gt;•	Acrobaties&lt;br /&gt;&lt;br /&gt;•	Discr&#233;tion&lt;br /&gt;&lt;br /&gt;•	Equitation&lt;br /&gt;&lt;br /&gt;•	Escalade&lt;br /&gt;&lt;br /&gt;•	Escamotage&lt;br /&gt;&lt;br /&gt;•	Evasion&lt;br /&gt;&lt;br /&gt;•	Natation&lt;br /&gt;&lt;br /&gt;•	Sabotage&lt;br /&gt;&lt;br /&gt;•	Vol&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;
+&lt;h2 class=&quot;separator&quot;&gt;Les Dons&lt;a class=&quot;headeranchor&quot; id=&quot;Les_Dons_52&quot; href=&quot;#Les_Dons_52&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;&lt;b&gt;R&#233;f&#233;rence &lt;/b&gt;: Chapitre 5 du manuel des joueurs&lt;br /&gt;&lt;br /&gt;
+Les dons peuvent vous permettre de compenser une faiblesse de votre personnage ou, au contraire, am&#233;liorer un de ses avantages. &lt;br /&gt;&lt;br /&gt;Ils permettent aussi de personnaliser vos personnages, vos choix donnant une orientation personnelle &#224; votre aventurier.&lt;br /&gt;&lt;br /&gt;Obtenu en nombre limit&#233;, le choix d’un don doit &#234;tre bien r&#233;fl&#233;chi. Pour vous aider, vous trouverez ci-dessous une liste de dons conseill&#233;s par classe de personnage &#224; la cr&#233;ation. &lt;br /&gt;&lt;br /&gt;De plus, dans les arch&#233;types, un &#233;ventail de dons vous sera aussi propos&#233;. &lt;br /&gt;&lt;br /&gt;N’h&#233;sitez pas &#224; prendre un don afin d’ouvrir le droit &#224; des dons plus int&#233;ressants.&lt;br /&gt;&lt;br /&gt;
+&lt;h3 class=&quot;separator&quot;&gt;Nombre de dons&lt;a class=&quot;headeranchor&quot; id=&quot;Nombre_de_dons_35&quot; href=&quot;#Nombre_de_dons_35&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;Au niveau 1, les personnages d&#233;butent avec :&lt;br /&gt;&lt;br /&gt;•	Un don &lt;br /&gt;&lt;br /&gt;•	Un don suppl&#233;mentaire pour les personnages humains&lt;br /&gt;&lt;br /&gt;•	Certaines classes, notamment le guerrier, permettent d’acc&#233;der &#224; des dons suppl&#233;mentaires.&lt;br /&gt;&lt;br /&gt;
+&lt;b&gt;Conditions d’obtentions&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;Beaucoup de dons demandent des conditions pour &#234;tre acquis, le personnage doit toutes les remplir.&lt;br /&gt;&lt;br /&gt;
+&lt;blockquote&gt;&lt;h4 class=&quot;separator&quot;&gt;L&#39;attaque en puissance d&#39;Arunya&lt;/h4&gt;Le joueur d’Arunya dispose de 3 dons :&lt;br /&gt;&lt;ul&gt;&lt;li&gt;1 pour le niveau 1 du personnage&lt;br /&gt;&lt;/li&gt;&lt;li&gt;1 d&#251; &#224; la race humaine du personnage&lt;br /&gt;&lt;/li&gt;&lt;li&gt;1 gr&#226;ce &#224; sa classe de guerrier&lt;br /&gt;&lt;/li&gt;&lt;/ul&gt;&lt;br /&gt;Son choix, pour l&#39;un  d&#39;eux, se porte sur le don &#171;Attaque en puissance&#187;. Les conditions sont les suivantes :&lt;br /&gt;&lt;ul&gt;&lt;li&gt;+1 en Bonus de base &#224; l’attaque.&lt;br /&gt;&lt;/li&gt;&lt;li&gt;13 en Force&lt;br /&gt;&lt;br /&gt;Arunya remplissant les deux conditions, elle peut prendre ce don. Si elle n’avait eu que 12 en Force, cela aurait &#233;t&#233; impossible.&lt;br /&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/blockquote&gt;&lt;br /&gt;&lt;br /&gt;
+&lt;h3 class=&quot;separator&quot;&gt;Dons conseill&#233;s par classe de personnage&lt;a class=&quot;headeranchor&quot; id=&quot;Dons_conseill&#233;s_par_classe_de_personnage_36&quot; href=&quot;#Dons_conseill&#233;s_par_classe_de_personnage_36&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt; :
+•	&lt;b&gt;Barbare&lt;/b&gt; : Attaque en puissance, Attaques r&#233;flexes, Combat en aveugle, Rage suppl&#233;mentaire, S’avancer, Volont&#233; de fer.&lt;br /&gt;&lt;br /&gt;•	&lt;b&gt;Barde&lt;/b&gt; : Repr&#233;sentation suppl&#233;mentaires. Talent (diplomatie), Talent (Utilisation des objets magiques). N&#233;gociation, Affinit&#233; Magique.&lt;br /&gt;&lt;br /&gt;•	&lt;b&gt;Druide&lt;/b&gt; : Am&#233;lioration des cr&#233;atures convoqu&#233;es, Ecole renforc&#233;e (invocation). &lt;br /&gt;&lt;br /&gt;•	&lt;b&gt;Ensorceleur&lt;/b&gt; : Ma&#238;trise du combat d&#233;fensif, M&#233;tamagie (pour les niveaux sup&#233;rieurs), Science de l’initiative.&lt;br /&gt;&lt;br /&gt;•	&lt;b&gt;Guerrier&lt;/b&gt; : Arme de pr&#233;dilection, Attaque en puissance, Encha&#238;nement, Art du bouclier, Volont&#233; de fer. Expertise du combat, Science du croc-en-jambe, Science du d&#233;sarmement.&lt;br /&gt;&lt;br /&gt;•	&lt;b&gt;Magicien&lt;/b&gt; : Dispense de composantes mat&#233;rielles, Ecole renforc&#233;e, Ma&#238;trise du combat d&#233;fensif. &lt;br /&gt;&lt;br /&gt;•	&lt;b&gt;Moine&lt;/b&gt; : Arme de pr&#233;dilection (mains nues), Attaque en puissance, Attaques r&#233;flexes.&lt;br /&gt;&lt;br /&gt;•	&lt;b&gt;Paladin &lt;/b&gt;: Imposition des mains suppl&#233;mentaires, Art du bouclier, S’avancer.&lt;br /&gt;&lt;br /&gt;•	&lt;b&gt;Pr&#234;tre &lt;/b&gt;: Canalisation suppl&#233;mentaire, Science de la canalisation, Canalisation s&#233;lective. &#201;criture de parchemins.&lt;br /&gt;&lt;br /&gt;•	&lt;b&gt;R&#244;deur&lt;/b&gt; : Dons d’archer (tir &#224; bout portant, Viser) ou Dons de combat &#224; deux armes.&lt;br /&gt;&lt;br /&gt;•	&lt;b&gt;Roublard&lt;/b&gt; : Aptitude magique, Attaque en finesse, Esquive, Talent (Utilisation des objets magiques).&lt;br /&gt;&lt;br /&gt;•	&lt;b&gt;TOUTE CLASSE&lt;/b&gt; : Science de l’initiative.&lt;br /&gt;&lt;br /&gt;
+&lt;h2 class=&quot;separator&quot;&gt;Magie et Sortil&#232;ges&lt;a class=&quot;headeranchor&quot; id=&quot;Magie_et_Sortil&#232;ges_53&quot; href=&quot;#Magie_et_Sortil&#232;ges_53&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;&lt;b&gt;R&#233;f&#233;rence&lt;/b&gt; : Chapitre 9 et 10 du manuel des joueurs&lt;br /&gt;&lt;br /&gt;
+&lt;h3 class=&quot;separator&quot;&gt;Magie divine&lt;a class=&quot;headeranchor&quot; id=&quot;Magie_divine_37&quot; href=&quot;#Magie_divine_37&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;Utilisateurs de magie divine : druide, pr&#234;tre, et a plus haut niveau, paladin et r&#244;deur.&lt;br /&gt;&lt;br /&gt;Les pouvoirs de la magie divine ont pour source une entit&#233; sup&#233;rieure ou un concept, comme un dieu, la nature, la lutte pour le bien, etc.&lt;br /&gt;&lt;br /&gt;Les utilisateurs de magie divine connaissent l’ensemble des sorts dans les listes auxquelles ils ont acc&#232;s. Ils n’ont pas de choix &#224; faire.&lt;br /&gt;&lt;br /&gt;Une autre particularit&#233; est qu’ils ne sont pas soumis au pourcentage d’&#233;chec aux sorts quand ils portent une armure.&lt;br /&gt;&lt;br /&gt;
+&lt;blockquote&gt;&lt;h4 class=&quot;separator&quot;&gt;Les listes de sortil&#232;ges d’Aurgelmyr&lt;/h4&gt; : &lt;br /&gt;
+En tant que pr&#234;tre de niveau 1, Aurgelmyr a acc&#232;s aux listes de sorts de niveau 0 et de niveau 1. Cela veut dire, qu’il conna&#238;t l’ensemble des sortil&#232;ges contenus dedans, il est libre de choisir. 
+&lt;/blockquote&gt;&lt;br /&gt;&lt;br /&gt;
+&lt;h3 class=&quot;separator&quot;&gt;Magie profane&lt;a class=&quot;headeranchor&quot; id=&quot;Magie_profane_38&quot; href=&quot;#Magie_profane_38&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;Utilisateurs de magie profane : barde, ensorceleur et magicien.&lt;br /&gt;&lt;br /&gt;Les pouvoirs de la magie profane proviennent de la capacit&#233; de son pratiquant &#224; d&#233;former la r&#233;alit&#233;.
+Les utilisateurs de magie profane ne connaissent pas l’ensemble des sortil&#232;ges de leurs listes, mais doivent faire un choix.&lt;br /&gt;&lt;br /&gt;De plus, &#224; l’exception du barde, ils sont soumis au pourcentage d’&#233;chec aux sorts quand ils portent une armure.&lt;br /&gt;&lt;br /&gt;
+&lt;blockquote&gt;&lt;h4 class=&quot;separator&quot;&gt;Les sortil&#232;ges d’Enyil &lt;/h4&gt;:&lt;br /&gt;
+En tant que barde de niveau 1, Enyil conna&#238;t 4 sorts de niveau 0 et 2 sorts de niveau 1. A sa cr&#233;ation, le joueur doit choisir au sein des listes de sorts du barde lesquels son personnage a appris &#224; ma&#238;triser.
+Ainsi Enyil d&#233;bute avec :&lt;br /&gt;
+Niveau 1- &lt;i&gt;Charme personne, D&#233;guisement&lt;/i&gt;&lt;br /&gt;
+Niveau 0 (tours de magie)- &lt;i&gt;Berceuse, Ouverture/fermeture, Prestidigitation, Son imaginaire&lt;/i&gt;&lt;/blockquote&gt;&lt;br /&gt;&lt;br /&gt;
+&lt;h3 class=&quot;separator&quot;&gt;Magie pr&#233;par&#233;e&lt;a class=&quot;headeranchor&quot; id=&quot;Magie_pr&#233;par&#233;e_39&quot; href=&quot;#Magie_pr&#233;par&#233;e_39&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;Utilisateurs de magie pr&#233;par&#233;e : druide, magicien, pr&#234;tre, et a plus haut niveau, paladin et r&#244;deur.&lt;br /&gt;&lt;br /&gt; 
+Les utilisateurs de magie pr&#233;par&#233;e doivent apprendre, par la pri&#232;re ou en &#233;tudiant, leurs sortil&#232;ges apr&#232;s une nuit de repos. Ils ne pourront lancer que ceux-l&#224; au cours de la journ&#233;e.&lt;br /&gt;&lt;br /&gt;Les oraisons, pour les druides et les pr&#234;tres, et les tours de magie, pour les magiciens, sont des sorts de niveau 0 qu’ils peuvent lanc&#233;s autant qu’ils le veulent &#224; la condition qu’ils aient pr&#233;par&#233; le sortil&#232;ge en question.&lt;br /&gt;&lt;br /&gt;
+&lt;blockquote&gt;&lt;h4 class=&quot;separator&quot;&gt;La pri&#232;re d’Aurgelmyr&lt;/h4&gt; : &lt;br /&gt;
+Apr&#232;s une nuit de repos, Aurgelmyr m&#233;dite et pr&#233;pare ses sorts pour la journ&#233;e. Il peut en apprendre 3 de niveau 0, les oraisons, et 3 de niveau 1. Son  choix se porte sur :&lt;br /&gt;
+Niveau 1-&lt;i&gt;Compr&#233;hension des langages, B&#233;n&#233;diction&lt;/i&gt; (x2)&lt;br /&gt;
+Niveau 0 (oraison) –&lt;i&gt;D&#233;tection de la magie, Lumi&#232;re et R&#233;sistance&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Au cours de la journ&#233;e, il peut utiliser autant de fois qu’il le d&#233;sire ses oraisons mais que dans le choix qu’il a fait, c’est &#224; dire &lt;i&gt;d&#233;tection de la magie, lumi&#232;re&lt;/i&gt; et &lt;i&gt;r&#233;sistance&lt;/i&gt;.&lt;br /&gt; 
+Il pourra lancer une seule fois &lt;i&gt;compr&#233;hension des langages&lt;/i&gt; et deux fois &lt;i&gt;b&#233;n&#233;diction&lt;/i&gt; l’ayant pr&#233;par&#233;e deux fois.
+&lt;/blockquote&gt;&lt;br /&gt;&lt;br /&gt;
+&lt;h3 class=&quot;separator&quot;&gt;Magie spontan&#233;e&lt;a class=&quot;headeranchor&quot; id=&quot;Magie_spontan&#233;e_40&quot; href=&quot;#Magie_spontan&#233;e_40&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;Utilisateurs de magie spontan&#233;e : barde et ensorceleur.&lt;br /&gt;&lt;br /&gt; 
+Les utilisateurs de magie spontan&#233;e ne m&#233;morisent pas les sorts &#224; l’avance.&lt;br /&gt;&lt;br /&gt;Ils disposent librement de leurs sorts connus (&#224; ne pas confondre avec la liste des sorts de classe dans laquelle ils apprennent leurs sorts) avec, comme seule limite, leur quota quotidien qui se renouvelle apr&#232;s une nuit de sommeil.&lt;br /&gt;&lt;br /&gt;Quand ils lancent un sort, le quota quotidien diminue dans le niveau du sort concern&#233;.&lt;br /&gt;&lt;br /&gt;Les tours de magie, les sorts de niveau 0, peuvent &#234;tre utilis&#233;s sans limite.&lt;br /&gt;&lt;br /&gt;
+&lt;blockquote&gt;&lt;h4 class=&quot;separator&quot;&gt;La magie spontan&#233;e d’Enyil&lt;/h4&gt; : &lt;br /&gt;
+La barde peut lancer quotidiennement 2 sorts de niveau 1 et un nombre illimit&#233; de tours de magie qu’il conna&#238;t. &lt;br /&gt; 
+Dans la journ&#233;e, le joueur d&#233;cide de lancer un &lt;i&gt;charme-personne&lt;/i&gt;. Il lui reste donc un sort de niveau 1 &#224; lancer, il peut continuer &#224; choisir entre &lt;i&gt;charme-personne&lt;/i&gt; et &lt;i&gt;d&#233;guisement&lt;/i&gt;.
+&lt;/blockquote&gt;&lt;br /&gt;&lt;br /&gt;
+&lt;h3 class=&quot;separator&quot;&gt;Degr&#233; de difficult&#233; (DD) des sortil&#232;ges&lt;a class=&quot;headeranchor&quot; id=&quot;Degr&#233;_de_difficult&#233;_DD_des_sortil&#232;ges_41&quot; href=&quot;#Degr&#233;_de_difficult&#233;_DD_des_sortil&#232;ges_41&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;Cette valeur va s’opposer, si besoin, aux jets de sauvegarde des ennemis. &lt;br /&gt;&lt;br /&gt;Lorsque votre personnage lance un sort, celui qui le subit peut faire un jet de sauvegarde, cette pr&#233;cision se trouve dans la description de chaque sortil&#232;ge. &lt;br /&gt;&lt;br /&gt;Pour en &#233;viter les effets, partiellement ou totalement, son jet de sauvegarde doit &#234;tre &#233;gal ou sup&#233;rieur au degr&#233; de difficult&#233; de celui qui lance le sort.&lt;br /&gt;&lt;br /&gt;Le degr&#233; de difficult&#233; d’un sortil&#232;ge est &#233;gale &#224; :&lt;br /&gt;&lt;br /&gt;•	10, c’est une base fixe&lt;br /&gt;&lt;br /&gt;•	+ modificateur de la caract&#233;ristique primordiale du lanceur de sort&lt;br /&gt;&lt;br /&gt;•	+ niveau du sort&lt;br /&gt;&lt;br /&gt;
+La caract&#233;ristique primordiale du lanceur de sort d&#233;pend de sa classe :&lt;br /&gt;&lt;br /&gt;•	Sagesse : druide, pr&#234;tre et r&#244;deur&lt;br /&gt;&lt;br /&gt;•	Intelligence : magicien&lt;br /&gt;&lt;br /&gt;•	Charisme : barde, ensorceleur et paladin&lt;br /&gt;&lt;br /&gt;
+&lt;h3 class=&quot;separator&quot;&gt;Concentration&lt;a class=&quot;headeranchor&quot; id=&quot;Concentration_42&quot; href=&quot;#Concentration_42&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;Quand le personnage peut &#234;tre g&#234;n&#233; pour lancer son sort parce qu’il subit des d&#233;g&#226;ts, qu’il doit faire face &#224; des &#233;l&#233;ments d&#233;cha&#238;n&#233;s, ou que son adversaire limite ses mouvements, etc. il doit faire un test de concentration (1d20 + bonus de concentration contre seuil de difficult&#233;).&lt;br /&gt;&lt;br /&gt;En cas d’&#233;chec, il &#233;choue et perd l’utilisation de son sort pour la journ&#233;e.&lt;br /&gt;&lt;br /&gt; 
+Le seuil &#224; atteindre d&#233;pend de la nature de la g&#234;ne qui d&#233;clenche le test.&lt;br /&gt;&lt;br /&gt;Le bonus de concentration est &#233;gal au niveau du lanceur de sort + son modificateur de caract&#233;ristique primordiale.&lt;br /&gt;&lt;br /&gt;
+&lt;h3 class=&quot;separator&quot;&gt;Sorts en bonus&lt;a class=&quot;headeranchor&quot; id=&quot;Sorts_en_bonus_43&quot; href=&quot;#Sorts_en_bonus_43&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;En fonction de la valeur de sa caract&#233;ristique primordiale, un lanceur de sort peut obtenir des sortil&#232;ges en bonus (voir le tableau de cette page).&lt;br /&gt;&lt;br /&gt;Ces sortil&#232;ges en bonus s’ajoutent au quota quotidien du lanceur de sort et sont utilis&#233;s dans les m&#234;mes conditions.&lt;br /&gt;&lt;br /&gt;Ces sortil&#232;ges en bonus ne s’appliquent que quand le lanceur de sort est capable d’utiliser le niveau de la liste de sort. Pour un personnage de niveau 1, on prend en compte que le bonus pour sa liste de niveau 1.&lt;br /&gt;&lt;br /&gt;
+&lt;blockquote&gt;&lt;h4 class=&quot;separator&quot;&gt;Les degr&#233;s de difficult&#233;s et la concentration d’Aurgelmyr&lt;/h4&gt; : &lt;br /&gt;
+Aurgelmyr est dot&#233; de 16 en Sagesse, donc b&#233;n&#233;ficie d’un bonus de +3 de caract&#233;ristique primordiale. Les DD de ses sorts seront donc de :&lt;br /&gt;
+•	13 pour le niveau 0 (10 +3 de modificateur de Sagesse + 0 niveau de sort)&lt;br /&gt;
+•	14 pour le niveau 1 (10 +3 de modificateur de Sagesse + 1 niveau de sort)&lt;br /&gt;&lt;br /&gt;Son bonus de concentration sera de +4 (+1 de niveau de pr&#234;tre +3 de modificateur de Sagesse).&lt;br /&gt;&lt;br /&gt;Avec 16 en Sagesse, Aurgelmyr poss&#232;de les bonus aux sorts suivants :&lt;br /&gt;
+•	+1 sort de niveau 1, que l’on applique car il utilise cette liste de sort.&lt;br /&gt;
+•	+1 sort de niveau 2, que l’on n’applique pas car il n’utilise pas encore cette liste de sort.&lt;br /&gt;
+•	+1 sort de niveau 3, que l’on n’applique pas car il n’utilise pas encore cette liste de sort.
+&lt;/blockquote&gt;&lt;br /&gt;&lt;br /&gt;
+]]></body>
+  <raw><![CDATA[Pathfinder est un jeu de rôle relativement simple mais qui possède de nombreux rouages. Pour débuter, il n’est pas nécessaire de tous les connaître. Cette série d’aides de jeu est justement destinée à expliquer et décortiquer, les engrenages les uns après les autres du système de Pathfinder afin d’en comprendre la mécanique. 
+
+
+Les aides de jeu d’initiation sont divisées en deux grands groupes :
+
+* Le premier est destiné aux joueurs, pour les aider dans la construction de leurs personnages. Pour ce faire, les règles seront épluchées, avec des exemples et des archétypes provenant de la littérature, du cinéma, de la BD, des jeux vidéos pour leur faciliter la compréhension.
+* Le second est destiné aux maîtres de jeu. Des scénarios qui seront découpés en scènes, avec des explications sur les règles à utiliser. Le but est d’aborder ces règles par palier et non de façon brute et rébarbative, afin d’en faciliter l’assimilation.
+
+
+{TOC}
+
+
+==Introduction==
+Débutons tout d’abord par les grands principes autour desquelles s’articule la mécanique de Pathfinder :
+
+
+===Pathfinder et vous===
+Pathfinder est un guide pour vous aider à poser un cadre lors de vos parties. Si une règle ne vous convient pas, n’hésitez pas à la modifier après en avoir discuté avec vos joueurs. Le principal intérêt d’avoir un livre de règles, c’est d’avoir une base commune. 
+
+
+===La base du jeu : le d20===
+Pour chaque action qui peut être un échec, les joueurs doivent faire appel au hasard pour savoir si elle réussit. Le maître de jeu détermine, le plus souvent en secret, le degré de difficulté (DD) de l'action. Le joueur doit ensuite lancer un d20, appliquer des modificateurs liés à cette action. Si le résultat est égal ou supérieur au degré de difficulté (DD) c’est une réussite. Toutes les règles de Pathfinder s’articulent autour de ce principe simple. Toutes les règles de Pathfinder s’articulent autour de ce principe simple. La seule difficulté réside dans le fait de savoir quels sont les modificateurs à appliquer et quels DD utiliser.
+
+
+'''Réussir une action : 1d20 + modificateurs ≥ Degré de Difficulté (DD)'''
+
+
+'''Le « 1 » et le « 20 »'''
+
+
+Quand le dé affiche un 1 ou un 20, on parle de 1 ou de 20 naturel, c’est à dire avant que les modificateurs entrent en ligne de compte. Pour les jets d’attaque et les jets de sauvegarde, et uniquement dans ces deux cas, un 1 naturel signifie toujours un échec et le 20 naturel une réussite, quel que soit le DD.
+
+
+Pour tous les autres tests, cette règle ne s’applique pas.
+
+
+<blockquote><h4 class="separator">Eilio et la planche de bois</h4><br />
+Eilio est un bandit au grand cœur, fuyant les travers de son clan. Au cours d’une de ses aventures, il doit traverser une fosse remplie de pointes acérées en marchant sur une large planche. Pour ce faire, le joueur d'Eilio doit effectuer un test assez simple de sa compétence Acrobatie, avec un DD de 10. Malheureusement, il fait un « 1 » naturel. En ajoutant tous ses bonus (+8) le résultat final est de 9, il échoue donc de justesse. Comme c’est un test de compétence, le « 1 » naturel ne signifie pas automatiquement un échec.<br /><br />Tombant dans la fosse, il doit effectuer un jet de sauvegarde pour limiter les dégâts. Le DD est de 30. Le joueur fait un « 20 » naturel et, malgré le fait qu’il n’atteint pas le DD avec son modificateur de +6, c’est une réussite.
+</blockquote>
+
+
+====Les modificateurs====
+Les modificateurs sont un mélange de bonus et de malus, qui peuvent découler des capacités physiques ou psychiques du personnage, de son entraînement, de la qualité de son équipement, de la magie ou des circonstances.
+
+
+Les bonus ont tous un type, en fonction de leur origine (on dit qu'ils sont typés). Ainsi, un bonus peut être de type divin, de circonstance, d’esquive, d’altération, etc. Les bonus d’un même type ne se cumulent pas entre eux, contrairement aux malus, et on n’applique que le plus bénéfique d’entre eux. Comme toutes les règles, celle-ci a ses exceptions : les bonus d’esquive et les bonus non typés peuvent se cumuler.
+
+
+<blockquote><h4 class="separator">L'armure d'Abriel</h4><br />
+Abriel est un halfelin dévoué à la cause de Sarenrae. Pour se protéger, il bénéficie de modificateurs, à sa classe d’armure, qui sont :<br /><br /><ul><li>+6 grâce à sa cotte de maille (bonus d’armure)</li><li>+2 grâce à son écu (modificateur de bouclier)</li><li>+1 car il est petit (bonus de taille)</li><li>+2 grâce à sa souplesse (bonus de Dextérité)<br /></li></ul><br />S’il revêtait une autre armure, il bénéficierait de deux bonus de type armure. Il ne prendrait alors en compte que le bonus le plus élevé.</blockquote>
+
+
+
+
+==Création==
+===Le personnage===
+Avant de commencer de concevoir votre personnage, il faut avoir une idée assez précise de ce qu’il va être. Tout peut être source d’inspiration, sans faire de plagiat intégral, dans de multiples sources : films, séries, romans, BD, jeux... Une idée vous plait, reprenez la à votre compte, modifiez-là ou couplez-là avec une autre. N’hésitez pas à grossir certains traits, qu’ils soient physiques ou psychologiques, afin de rendre votre personnage unique. Une fois que vous aurez une représentation assez précise, il sera plus simple pour vous de construire votre aventurier autour. 
+
+
+Dans cette optique, des archétypes vous sont proposés, reprenant les grands classiques adaptés à Pathfinder, avec des conseils, leurs rôles et un personnage pré-construit.
+
+
+Pathfinder est un jeu de coopération, la grande majorité des classes sont spécialisées dans un domaine, même si certaines peuvent être plus polyvalentes. Mais il reste illusoire de penser qu’un personnage peut tout bien faire, il aura forcément ses faiblesses et ses forces. Une bonne cohésion de groupe permet à chaque membre de pallier aux défaillances des autres. C’est pour cela qu’il est conseillé aux membres d’une même compagnie d’aventurier de se concerter lors de la création.
+ 
+Un autre facteur à prendre en compte est le type d’aventure jouée, il vaut mieux éviter certaines classes. Non pas parce qu’elles ne correspondent pas, mais en tant que joueur, vous êtes tributaire de votre feuille de personnage et vous risquez d’être limité dans vos actions. Si cela peut être gérable pour une séance, la lassitude risque de s’installer si la situation se prolonge. Par exemple, le rôdeur, le barbare et, à plus forte raison, le druide peuvent se sentir limités dans une aventure urbaine au contraire du roublard. Sans dévoiler le scénario, votre MJ peut vous indiquer quelle en sera la teneur prédominante.
+ 
+Une fois que vous avez une idée précise de votre personnage, de son groupe et du type d’aventure, vous êtes prêt à le construire. 
+
+
+La construction du personnage, étape par étape :
+
+* Déterminer les caractéristiques
+* Choisir sa race ou son ethnie
+* Définir sa classe
+* Indiquer ses dons
+* Attribuer ses points de compétences
+* Acheter son équipement
+* Finaliser son personnage
+
+
+La vie d’aventurier :
+
+* Augmenter d’un niveau
+* Acquérir une nouvelle classe
+* S’engager dans une classe de prédilection
+
+
+===Les caractéristiques===
+'''Référence''' Manuel des joueurs de Pathfinder(VF pages 15-17)
+
+
+Il existe plusieurs méthodes pour déterminer les valeurs des caractéristiques, c’est au MJ de décider laquelle à sa préférence. L’essentiel est que chaque joueur utilise la même méthode, afin de ne pas générer des disparités.
+
+
+Les caractéristiques représentent la base physique et psychique de votre personnage. La répartition des valeurs dépend essentiellement du type de personnage que vous comptez créer. Si vous voulez créer un magicien, la Force n’aura que peut d’intérêt, au contraire d’un barbare. Des conseils vous seront donnés dans la description de chacune.
+
+
+Avec chaque archétype, vous trouverez une liste des caractéristiques a privilégier. 
+
+
+De ces valeurs découlent les modificateurs, en fonction du tableau ci-dessous. 
+
+
+{| class="tablo" 
+|- 
+! Valeur
+! Modificateur
+! 1er
+! 2ème
+! 3ème
+! 4ème
+! 5ème
+|- 
+| 4-5
+| -3
+| 
+| 
+| 
+| 
+| 
+|- 
+| 6-7
+| -2
+| 
+| 
+| 
+| 
+| 
+|- 
+| 8-9
+| -1
+| 
+| 
+| 
+| 
+| 
+|- 
+| 10-11
+| +0
+| 
+| 
+| 
+| 
+| 
+|- 
+| 12-13
+| +1
+| 1
+| 
+| 
+| 
+| 
+|- 
+| 14-15
+| +2
+| 1
+| 1
+| 
+| 
+| 
+|- 
+| 16-17
+| +3
+| 1
+| 1
+| 1
+| 
+| 
+|- 
+| 18-19
+| +4
+| 1
+| 1
+| 1
+| 1
+| 
+|- 
+| 20-21
+| +5
+| 2
+| 1
+| 1
+| 1
+| 1
+|}
+
+
+====L’augmentation des caractéristiques====
+Ce sont les valeurs qui changent quand un personnage bénéficie d’un gain temporaire, par le biais d’un sort par exemple, ou d’une majoration permanente, lorsqu’il atteint certains niveaux.
+
+
+Dans ces cas, on utilise le nouveau score pour déterminer le modificateur. Pour les cas particuliers :
+
+* La Constitution, même si l’augmentation est temporaire, les points de vie sont recalculés de façon rétroactive, c’est à dire en comptant les niveaux du personnage déjà acquis.
+* L’Intelligence, contrairement à la Constitution, le gain en points de compétence n’est pas rétroactif et n’est valable que si l’augmentation de la caractéristique est permanente.
+* Les caractéristiques liées à une forme de magie, si elles sont augmentées de façon temporaire n’ouvrent pas le droit à de nouveaux sortilèges (voir le chapitre sur la magie).
+
+
+<blockquote><h4 class="separator">Les sortilèges d’Aurgelmyr</h4><br />
+Aurgelmyr est un prêtre d’Irori, au cours de son entraînement, son maître lui montre les effets des sortilèges augmentant les capacités physiques et mentales :<br /><br /><ul><li>Endurance de l’ours, augmente temporairement de +4 la Constitution. Sa valeur de base dans cette caractéristique est de 12 avec un modificateur de +1, elle passe donc à 16 (12+4) et son modificateur est maintenant de +3. Ses points de vie augmentent donc de +2 par niveau acquis, la différence entre les modificateurs.</li><li>Sagesse du hibou, augmente temporairement de +4 la Sagesse. Sa valeur de base dans cette caractéristique est de 16 avec un modificateur de +3, elle passe donc à 20 (16+4) et son modificateur est maintenant de +5. Cela n’augmente pas les sorts auquel Aurgelmyr a accès mais majorent leurs efficacités.<br /></li></ul></blockquote>
+
+
+====La diminution des caractéristique====
+Suite à une attaque, les valeurs des caractéristiques peuvent être abaissées, de façon permanente ou temporaire. Cela a plusieurs conséquences :
+
+* Le modificateur est recalculé en fonction de la nouvelle valeur.
+* Si c’est la Constitution qui est diminuée, les points de vie sont minorés à raison d’un point perdu par le modificateur et par niveau. Cette réduction s’applique aux points de vie actuels et maximum. Ils sont récupérés dès que la Constitution se régénère.
+* Si la diminution affecte une caractéristique liée à une magie, cela peut interdire l’accès à certains niveaux de sorts.
+* Les points de compétences ne sont pas modifiés, sauf si la diminution de l’Intelligence est permanente et que le personnage acquiert un niveau.
+* La régénération d’une diminution temporaire de caractéristique se fait à hauteur d’un point par jour.
+* La régénération d’une diminution permanente de caractéristique ne peut se faire que grâce à des sortilèges appropriés.
+
+
+====La Force (FOR)====
+Cette caractéristique intéresse tous les combattants, plus particulièrement ceux qui seront au cœur des batailles mais pas seulement. La plupart des personnages auront à se défendre face à des adversaires vindicatifs, seuls les magiciens peuvent réellement faire sans.
+
+
+On utilise le modificateur de Force pour :
+
+* Les jets d’attaques au corps à corps
+* Les manœuvres de combat, en attaque et en défense
+* Les compétences : Escalade et Natation.
+* Les dégâts (en fonction de l’arme)
+
+
+{| 
+|- 
+| Modificateur x1
+| pour les armes à une main, portées par la main directrice. 
+|- 
+| Modificateur x0,5
+| pour les armes à une main, portées par la main non directrice. (arrondie à l'inférieur)
+|- 
+| Modificateur X1,5
+| pour les armes à deux mains. (arrondie à l'inférieur)
+|- 
+| Modificateur X1
+| pour les armes de jet et tir, sauf l'arbalète et l'arc.
+|- 
+| Modificateur X1
+| pour les arcs, on n'applique que les malus sauf si l'arc à la faculté "de force".
+|- 
+| Modificateur X0
+| pour les arbalètes, on n'applique aucun modificateur de Force aux dégâts.
+|}
+
+
+====La Dextérité (DEX)====
+Elle est particulièrement intéressante pour les personnages qui veulent agir et réagir rapidement et discrètement, les combattants à distance et ceux qui ne peuvent pas compter sur une lourde armure pour les protéger.
+
+
+On utilise le modificateur de Dextérité pour :
+
+* Les jets d’attaques à distances
+* La classe d’armure, si le personnage peut réagir au danger et que son armure ne le gène pas (voir l’équipement).
+* Le jet de sauvegarde de Réflexes
+* L’initiative
+* La défense face aux manœuvres de combat
+* Les compétences : Acrobaties, Discrétion, Équitation, Escamotage, Évasion et Vol.
+
+
+====La Constitution (CON)====
+C'est la seule caractéristique où il est difficile de faire l’impasse car son modificateur s’applique sur les points de vie de votre personnage.
+
+
+On utilise le modificateur de Constitution pour :
+
+* Les points de vie
+* Le jet de sauvegarde de Vigueur
+
+
+====L’Intelligence (INT)====
+Outre pour les magiciens, pour qui cette caractéristique est primordiale, l’Intelligence est utile pour les points de compétences qu’elle fournit.
+
+
+On utilise le modificateur d’intelligence pour :
+
+* Les points de compétences
+* Le nombre de langages connus lors de la création. En plus de sa langue maternelle et de la langue commune, le personnage maîtrise autant de langues supplémentaires qu’il possède de modificateur, un malus comptant comme nul.
+* Les compétences : Art de la magie, Artisanat,  Connaissance (toutes), Estimation, Linguistique et Sabotage.
+
+
+====La Sagesse (SAG)====
+Elle intéresse avant tout le druide, le prêtre et le rôdeur qui l’utilisent comme base pour leurs pouvoirs magiques. Mais la Sagesse influe aussi sur la capacité à résister aux sorts mentaux ainsi que sur la compétence Perception, ni l’un, ni l’autre ne sont à négliger.
+
+
+On utilise le modificateur de Sagesse pour :
+
+* Les jets de sauvegarde de Volonté
+* Les compétences : Perception, Premiers secours, Profession, Psychologie et Survie.
+
+
+====Le Charisme (CHA)====
+Comme les autres caractéristiques mentales, le Charisme est important pour certaines classes d’utilisateurs de la magie : le barde, l’ensorceleur et le paladin en l’occurrence. Mais il influe aussi sur la capacité des personnages à influencer l’attitude des êtres qu’ils côtoient.
+
+On utilise le modificateur de Charisme pour :
+
+* Les compétences : Bluff, Déguisement, Diplomatie, Dressage, Intimidation, Représentation et Utilisation d'objets magiques.
+
+
+
+
+===Les Races et les Ethnies===
+'''Référence''' : Chapitre 2 du manuel des joueurs
+
+
+'''Différence entre Race et Ethnie'''
+
+
+Le terme de race englobe tous les humanoïdes qui peuvent devenir des PJ. Chaque race possède ses propres avantages mais aussi sa vision du monde et son histoire. La race humaine est la référence de base, ainsi quand on parle de moyenne, cela sous-entend la moyenne humaine.
+
+
+Le terme d’ethnie correspond à un sous-groupe de la race humaine. Cela se réfère à des variétés d’origine géographique et culturelle, même si cela n’implique aucune différence au niveau des règles. Dans le manuel des joueurs de Pathfinder, cette notion n’est pas évoquée, mais elle l’est dans son monde de référence : Golarion.
+
+
+'''Les ajustements apportés aux caractéristiques'''
+
+
+Toutes les races, même les humains, possèdent des ajustements à leurs caractéristiques. Cela permet d’accentuer une particularité physique et/ou mentale d’une race.
+
+
+Ses ajustements sont à appliquer après avoir déterminé les caractéristiques de votre personnage, et ils agissent sur leurs valeurs.
+
+
+Il est conseillé de choisir une race qui ne possède pas de malus dans une de ses caractéristiques importantes. Ce n’est pas une obligation, mais cela génère un handicap non négligeable.
+
+
+===Les Classes de base===
+'''Référence''' : Chapitre 3 du manuel des joueurs
+
+
+====La classe de Prédilection====
+Le choix de la classe de prédilection, qui doit être obligatoirement une classe de base, se fait au niveau 1 et ne peut être modifié par la suite. Mis à part le demi-elfe qui peut en posséder deux, toutes les autres races sont limitées à une unique classe de prédilection choisie librement.
+
+Quand le personnage acquiert un niveau, y compris le premier, dans sa classe de prédilection, il peut bénéficier de façon permanente soit :
+
+•	d’un bonus d’un point de vie 
+
+•	d’un bonus d’un point de compétence
+
+A chaque montée de niveau, le joueur peut opter pour l’une ou l’autre de ses options.
+
+
+<blockquote><h4 class="separator">La classe de prédilection d’Aramis</h4><br />
+Personnage débutant, le joueur d’Aramis lui attribue son premier niveau en tant que rôdeur. Mais, par la suite, il veut en faire, avant tout, un ensorceleur. Il décide donc que la classe de prédilection sera celle d’ensorceleur. En conséquence, lors de son premier niveau, Aramis ne bénéficie d’aucun bonus, mais devra attendre d’acquérir des niveaux d’ensorceleur pour en profiter.
+</blockquote>
+
+
+====Le barbare====
+Caractéristique primordiale : '''Force'''
+
+C’est un combattant particulièrement farouche et résistant, au cœur des mêlées, il est un atout majeur. De plus, il dispose d’un nombre de points de compétences décent et de quelques compétences de classe, notamment Perception et Survie, qui lui permettent d’être un éclaireur acceptable en extérieur.
+
+
+====Le barde====
+Caractéristique primordiale : '''Charisme'''
+
+C’est un touche à tout, mais c’est surtout son rôle de soutient qui prédomine, grâce à ses chants et à sa magie. Dans un combat, son impact direct est médiocre mais son appui peut être précieux. Ses connaissances et ses capacités sociales font de lui un très bon enquêteur. De plus, il possède la compétence, Utilisation d’objet magique qui est un avantage non négligeable.
+
+
+====Le druide====
+Caractéristique primordiale : '''Sagesse'''
+
+Ce défenseur de la nature possède plusieurs atouts, mais il devra faire un choix. Il peut être très puissant au combat en mêlée, notamment quand il acquiert la capacité de changer de forme, mais il faut veiller à ce qu’il possède des caractéristiques physiques honorables. Il peut, aussi, plus se baser sur ses sortilèges divins pour contrôler le terrain. Mais il est difficile de développer les deux aspects en même temps.
+
+
+====L’ensorceleur====
+Caractéristique primordiale : '''Charisme'''
+
+La création d’un personnage ensorceleur est assez difficile, à cause des choix à faire, pour des joueurs néophytes.
+
+Lanceur spontané de sorts profanes, le lignage d’un ensorceleur est très important, conditionnant en partie sa place dans une équipe. Disposant d’un répertoire restreint de sortilèges, il convient de les choisir avec soin en préférant les sorts polyvalents et ceux qui évoluent avec le niveau du personnage. Par la suite, Sa capacité à appliquer les métamagies à la volée lui permet de regagner la versatilité perdue à cause de la sélection de sorts limitée. Son charisme élevé, ses sortilèges et sa compétence de Bluff lui permettent d’assumer les interactions sociales.
+
+
+====Le guerrier====
+Caractéristique primordiale : Variable en fonction du style ('''Force ou Dextérité''')
+
+Doté de nombreux dons, c’est avant tout un tacticien, expert en manœuvre de combat. Il vaut toutefois mieux éviter de disperser les dons dans des registres trop différents et le spécialiser dans un ou deux styles de combat. A noter que mis a part les classes « érudites », comme le magicien ou le barde, il est le seul a posséder la compétence, Ingénierie. 
+
+
+====Le magicien====
+Caractéristique primordiale : '''Intelligence'''
+
+Le magicien est une classe de personnage un peu difficile à aborder. En premier lieu, par le choix de sa spécialisation ou non, puis par le choix des sorts. Même s’il dispose d’un répertoire bien plus vaste que l’ensorceleur, il doit faire son choix quotidiennement, ce qui peut limiter son adaptabilité lors de situations imprévues. Véritable puits de science, il a accès à toutes les compétences de connaissances du jeu.
+
+
+====Le moine====
+Caractéristique primordiale : '''Sagesse'''
+
+Le moine est une arme capable d’infliger des états préjudiciables à ses ennemis.
+
+
+====Le paladin====
+Caractéristique primordiale : '''Force'''
+
+C’est le héros du bien par excellence, il possède un large éventail pour lutter et résister contre le mal. L’une des difficultés est dans son interprétation qui laisse peu de place aux compromis (il FAUT se mettre d’accord avec son MJ sur la notion des alignements si on décide d’aborder cette classe), même si cela est envisageable dans les cas extrêmes. Bien qu’il possède rapidement des capacités de soins convenables et quelques compétences sociales, il reste avant tout une lame au service de sa cause. 
+
+
+====Le prêtre====
+Caractéristique primordiale : '''Sagesse'''
+
+Le prêtre est au service d’un Dieu ou d’une cause, qui conditionne son alignement et certaines de ses capacités, comme la canalisation d’énergie et les domaines cléricaux. Soutenu par ses sorts divins, il peut être soigneur (s’il est bon), nécromancien (s’il est mauvais), soutien de groupe, combattant en mêlée ou diplomate, voire tout à la fois.
+
+
+====Le rôdeur====
+Caractéristique primordiale : En fonction du style de combat ('''Force ou Dextérité''')
+
+Le rôdeur, au niveau 2, doit choisir un style de combat. Soit il devient un combattant ambidextre, dans ce cas, il faut privilégier la Force, soit il sera un excellent archer, la Dextérité étant alors primordiale. Dans les deux cas, il reste avant tout un éclaireur hors pair grâce à ses compétences puis, par la suite, ses sorts divins préparés. Sa capacité d’ennemi juré le rend très efficace dans certaines situations.
+
+
+====Le roublard====
+Caractéristique primordiale : '''Dextérité'''
+
+Boîte-à-outils par excellence, disposant d’un grand nombre de points de compétence et d’un vaste choix, le roublard peut étreindre de nombreuses fonctions au sein d’un groupe (éclaireur, espion, enquêteur, diplomate, mystificateur, etc.). Son attaque sournoise lui permet d’être efficace au combat sans toutefois égaler les classes combattantes comme le guerrier ou le barbare.
+
+
+
+
+
+
+
+
+===Les points et les bonus===
+
+
+
+Une fois les caractéristiques, la race et la classe définie, vous pouvez calculer vos différentes valeurs qui vous serviront à interpréter votre personnage. Certains dons peuvent influencer les différents points et bonus, un réajustement est donc possible. Le fait d’effectuer ce calcul maintenant vous permet de mieux visualiser les forces et les faiblesses de votre personnage, vous pourrez donc choisir les dons en connaissance de cause.				
+
+
+<blockquote><h4 class="separator">Arunya, la guerrière flamboyante</h4><br />
+Pour l’ensemble de ce chapitre, Arunya servira d’exemple. Guerrière de niveau 1, ses caractéristiques sont les suivantes :<br />
+•	Force 16, modificateur +3<br />
+•	Dextérité 14, modificateur +2<br />
+•	Constitution 16, modificateur +3<br />
+•	Intelligence 10, modificateur +0<br />
+•	Sagesse 9, modificateur -1<br />
+•	Charisme 11, modificateur +0<br /></blockquote>
+====Les bonus d’attaque====
+Ces bonus servent à savoir si les coups de vos personnages atteignent leurs cibles. Pour cela, il faut faire un jet avec 1d20 ajouter le bonus et comparer le score final à la défense (classe d’armure ou degré de manœuvre défensive) de l’adversaire.
+
+Les dons, les circonstances, la magie sont autant de facteurs qui peuvent modifier, en jeu, les bonus d’attaque.
+
+Les bonus d’attaque au corps à corps, à distance et en manœuvre offensive sont distincts. 
+
+
+=====Bonus d’attaque au corps à corps :=====
+•	Bonus de base à l’attaque de la classe
+
+•	+modificateur de Force
+
+•	+modificateur de taille
+
+
+=====Bonus d’attaque à distance :=====
+•	Bonus de base à l’attaque de la classe
+
+•	+modificateur de Dextérité
+
+•	+modificateur de taille
+
+•	+modificateur de distance
+
+
+=====Bonus de manœuvre offensive :=====
+•	Bonus de base à l’attaque de la classe
+
+•	+modificateur de Force, si la taille est petite ou supérieur
+
+•	+modificateur de Dextérité, si la taille est très petite ou inférieur
+
+•	+modificateur de taille (BMO)
+
+
+<blockquote><h4 class="separator">Les bonus d’attaque d’Arunya</h4> :
+Bonus d’attaque au corps à corps = +4 soit +1 (BBA) +3 (mod de Force) +0 (mod de taille)<br />
+Bonus d’attaque à distance = +3 soit +1 (BBA) +2 (mod de Dextérité) +0 (mod de taille)<br />
+Bonus au manœuvre offensive = +4 soit +1 (BBA) +3 (mod de Force) +0 (mod de taille)<br /></blockquote>
+
+
+====Les valeurs de défense====
+La classe d’armure et le degré de manœuvre défensive représentent les principales protections du personnage, avec les jets de sauvegarde qui sont détaillés plus bas. La classe d’armure se décline sous trois formes différentes.
+
+La classe d’armure, à proprement parler, est le cumule de toutes les défenses du personnage.
+
+La classe d’armure, pris au dépourvu, est utilisée quand le personnage ne peut réagir à une attaque.
+
+La classe d’armure, de contact, est utilisée quand c’est une attaque magique qui vise le personnage.
+
+
+=====La classe d’armure :=====
+•	10, c’est une base fixe
+
+•	+bonus armure
+
+•	+bonus bouclier
+
+•	+modificateur de Dextérité
+
+•	+modificateur de taille
+
+
+=====La classe d’armure, pris au dépourvu :=====
+•	10, c’est une base fixe
+
+•	+bonus armure
+
+•	+bonus bouclier
+
+•	+modificateur de taille
+
+
+=====La classe d’armure de contact :=====
+•	10, c’est une base fixe
+
+•	+modificateur de Dextérité
+
+•	+modificateur de taille
+
+
+=====Le degré de manœuvre défensive :=====
+•	10, c’est une base fixe
+
+•       +Bonus de base à l’attaque de la classe
+
+•	+modificateur de Force
+
+•	+modificateur de Dextérité
+
+•	+modificateur de taille
+
+
+<blockquote><h4 class="separator">Les défenses d’Arunya</h4> 
+La guerrière porte une cotte de mailles pour armure, n’utilisant pas de bouclier car elle est armée d’une épée à deux mains. Ses différentes défenses sont donc :<br />
+CA = 18 soit 10 (fixe) + 6 (cotte de maille) + 2 (mod de Dextérité)<br />
+CA, pris au dépourvu = 16 soit 10 (fixe) + 6 (cotte de maille)<br /> 
+CA de contact = 12 soit 10 (fixe) + 2 (mod de Dextérité)<br />
+DMD = 16 soit 10 (fixe) +1(BBA) + 3 (mod de Force) + 2 (mod de Dextérité)
+</blockquote>
+
+
+=====Les jets de sauvegarde=====
+Comme la classe d'armure, les jets de sauvegarde sont des protections que possède votre personnage. Ils se distinguent du fait que c'est au défenseur de vaincre une difficulté et de par la nature des agressions desquelles ils protègent.
+
+ 
+Pour connaître sa valeur, il faut se référer à la base fournit par la classe et ajouter le modificateur de la caractéristique adéquat. Ils sont au nombre de trois :
+
+Vigueur (modificateur de Constitution), utilisé quand c'est l'intégrité même du corps qui est visé comme par un poison ou une maladie.
+
+Réflexes (modificateur de Dextérité), utilisé quand une agression n'est pas ciblée mais touche toute une zone, comme une fosse remplie de pieux.
+
+Volonté (modificateur de Sagesse), utilisé quand c'est l'intégrité même de l'esprit qui est visé, certains sortilèges pouvant endormir, effrayer, etc.
+
+
+
+===Les compétences ===
+====Les points de compétence====
+Nombre de points de compétence par niveau
+
+Pour déterminer les points de compétences de votre personnage, il faut additionner :
+
+•	La valeur due à la classe
+
+•	Le modificateur d'Intelligence
+
+•	+1 si le personnage est humain
+
+Si le résultat final est zéro ou négatif, cette valeur est ramenée à 1.
+
+ 
+Chaque point de compétence dépensé dans une compétence permet d’acquérir un rang.
+
+ 
+Le score maximum du rang est égal au niveau du personnage. 
+
+
+<blockquote><h4 class="separator">Les points de compétences Enyil</h4>Enyil est une barde humaine avec 12 en Intelligence. Pour son premier niveau, ses points de compétences sont donc de :<br />
+•	6, dû a sa classe<br />
+•	+1, dû au modificateur d’Intelligence<br />
+•	+1 car elle est humaine<br />
+Le joueur d’Enyil a donc 8 points de compétences a dépenser et ce, par niveau.
+</blockquote>
+
+
+====Valeur d’une compétence====
+Pour déterminer la valeur d’une compétence, il faut additionner :
+
+•	Les rangs acquis
+
+•	Le modificateur de la caractéristique liée
+
+•	+3 si c’est une compétence de classe et si le personnage possède au moins un rang
+
+•	Si la compétence est soumise au malus d’armure, l’appliquer 
+
+
+<blockquote><h4 class="separator">Enyil, l’acrobate</h4>Le joueur d’Enyil dépense un point de compétence dans la compétence Acrobatie. Comme la barde est de niveau 1, c’est le maximum que le joueur peut lui attribuer actuellement. Sa Dextérité est de 14, le modificateur est donc de +2 et elle porte une armure de cuir cloutée.<br />
+Son score en Acrobatie est donc :<br />
+•	1, c’est le rang qu’elle possède<br />
+•	+2, le modificateur de Dextérité<br />
+•	+3, c’est une compétence de classe<br />
+•	-1, a cause de la gène engendrée par le port de l’armure<br />
+•	Soit un total de +5
+</blockquote>
+
+
+====Cas particulier : les compétences avec formation====
+Même si votre personnage n’est pas entraîné, il peut utiliser un grand nombre de compétences de façon intuitive. C’est à dire, que même si vous n’avez attribué aucun point de compétence, vous pouvez quand même faire un test.
+
+Toutefois, certaines compétences nécessitent des connaissances, un savoir pour être utilisé. Dans ce cas, une formation est obligatoire, vous devez avoir attribuez au moins un rang pour pouvoir faire un test.
+
+Pour refléter la culture générale du personnage, si le DD est de 10 ou inférieur, vous pouvez faire un test avec les compétences nécessitant une formation même si vous n’avez attribué aucun rang.
+
+Compétences nécessitant une formation :
+
+•	Art de la magie
+
+•	Connaissances (toutes)
+
+•	Dressage
+
+•	Escamotage
+
+•	Linguistique
+
+•	Profession
+
+•	Sabotage
+
+•	Utilisation d’objets magiques
+
+
+====Cas particulier : le malus d’armure====
+ 
+Certaines compétences demandent une grande liberté de mouvement pour être utilisées, le port d’une armure peut constituer une gêne. Dans ce cas, à votre total, il faut soustraire le malus d’armure au score total quand votre personnage la porte.
+
+Compétences affectées par le malus d’armure :
+
+•	Acrobaties
+
+•	Discrétion
+
+•	Equitation
+
+•	Escalade
+
+•	Escamotage
+
+•	Evasion
+
+•	Natation
+
+•	Sabotage
+
+•	Vol
+
+
+
+
+===Les Dons===
+'''Référence ''': Chapitre 5 du manuel des joueurs
+
+
+Les dons peuvent vous permettre de compenser une faiblesse de votre personnage ou, au contraire, améliorer un de ses avantages. 
+
+Ils permettent aussi de personnaliser vos personnages, vos choix donnant une orientation personnelle à votre aventurier.
+
+Obtenu en nombre limité, le choix d’un don doit être bien réfléchi. Pour vous aider, vous trouverez ci-dessous une liste de dons conseillés par classe de personnage à la création. 
+
+De plus, dans les archétypes, un éventail de dons vous sera aussi proposé. 
+
+N’hésitez pas à prendre un don afin d’ouvrir le droit à des dons plus intéressants.
+
+
+====Nombre de dons====
+Au niveau 1, les personnages débutent avec :
+
+•	Un don 
+
+•	Un don supplémentaire pour les personnages humains
+
+•	Certaines classes, notamment le guerrier, permettent d’accéder à des dons supplémentaires.
+
+
+'''Conditions d’obtentions'''
+
+Beaucoup de dons demandent des conditions pour être acquis, le personnage doit toutes les remplir.
+
+
+<blockquote><h4 class="separator">L'attaque en puissance d'Arunya</h4>Le joueur d’Arunya dispose de 3 dons :<br /><ul><li>1 pour le niveau 1 du personnage<br /></li><li>1 dû à la race humaine du personnage<br /></li><li>1 grâce à sa classe de guerrier<br /></li></ul><br />Son choix, pour l'un  d'eux, se porte sur le don «Attaque en puissance». Les conditions sont les suivantes :<br /><ul><li>+1 en Bonus de base à l’attaque.<br /></li><li>13 en Force<br /><br />Arunya remplissant les deux conditions, elle peut prendre ce don. Si elle n’avait eu que 12 en Force, cela aurait été impossible.<br /></li></ul></blockquote>
+
+
+====Dons conseillés par classe de personnage====
+ :
+•	'''Barbare''' : Attaque en puissance, Attaques réflexes, Combat en aveugle, Rage supplémentaire, S’avancer, Volonté de fer.
+
+•	'''Barde''' : Représentation supplémentaires. Talent (diplomatie), Talent (Utilisation des objets magiques). Négociation, Affinité Magique.
+
+•	'''Druide''' : Amélioration des créatures convoquées, Ecole renforcée (invocation). 
+
+•	'''Ensorceleur''' : Maîtrise du combat défensif, Métamagie (pour les niveaux supérieurs), Science de l’initiative.
+
+•	'''Guerrier''' : Arme de prédilection, Attaque en puissance, Enchaînement, Art du bouclier, Volonté de fer. Expertise du combat, Science du croc-en-jambe, Science du désarmement.
+
+•	'''Magicien''' : Dispense de composantes matérielles, Ecole renforcée, Maîtrise du combat défensif. 
+
+•	'''Moine''' : Arme de prédilection (mains nues), Attaque en puissance, Attaques réflexes.
+
+•	'''Paladin ''': Imposition des mains supplémentaires, Art du bouclier, S’avancer.
+
+•	'''Prêtre ''': Canalisation supplémentaire, Science de la canalisation, Canalisation sélective. Écriture de parchemins.
+
+•	'''Rôdeur''' : Dons d’archer (tir à bout portant, Viser) ou Dons de combat à deux armes.
+
+•	'''Roublard''' : Aptitude magique, Attaque en finesse, Esquive, Talent (Utilisation des objets magiques).
+
+•	'''TOUTE CLASSE''' : Science de l’initiative.
+
+
+===Magie et Sortilèges===
+'''Référence''' : Chapitre 9 et 10 du manuel des joueurs
+
+
+====Magie divine====
+Utilisateurs de magie divine : druide, prêtre, et a plus haut niveau, paladin et rôdeur.
+
+Les pouvoirs de la magie divine ont pour source une entité supérieure ou un concept, comme un dieu, la nature, la lutte pour le bien, etc.
+
+Les utilisateurs de magie divine connaissent l’ensemble des sorts dans les listes auxquelles ils ont accès. Ils n’ont pas de choix à faire.
+
+Une autre particularité est qu’ils ne sont pas soumis au pourcentage d’échec aux sorts quand ils portent une armure.
+
+
+<blockquote><h4 class="separator">Les listes de sortilèges d’Aurgelmyr</h4> : <br />
+En tant que prêtre de niveau 1, Aurgelmyr a accès aux listes de sorts de niveau 0 et de niveau 1. Cela veut dire, qu’il connaît l’ensemble des sortilèges contenus dedans, il est libre de choisir. 
+</blockquote>
+
+
+====Magie profane====
+Utilisateurs de magie profane : barde, ensorceleur et magicien.
+
+Les pouvoirs de la magie profane proviennent de la capacité de son pratiquant à déformer la réalité.
+Les utilisateurs de magie profane ne connaissent pas l’ensemble des sortilèges de leurs listes, mais doivent faire un choix.
+
+De plus, à l’exception du barde, ils sont soumis au pourcentage d’échec aux sorts quand ils portent une armure.
+
+
+<blockquote><h4 class="separator">Les sortilèges d’Enyil </h4>:<br />
+En tant que barde de niveau 1, Enyil connaît 4 sorts de niveau 0 et 2 sorts de niveau 1. A sa création, le joueur doit choisir au sein des listes de sorts du barde lesquels son personnage a appris à maîtriser.
+Ainsi Enyil débute avec :<br />
+Niveau 1- <i>Charme personne, Déguisement</i><br />
+Niveau 0 (tours de magie)- <i>Berceuse, Ouverture/fermeture, Prestidigitation, Son imaginaire</i></blockquote>
+
+
+====Magie préparée====
+Utilisateurs de magie préparée : druide, magicien, prêtre, et a plus haut niveau, paladin et rôdeur.
+
+ 
+Les utilisateurs de magie préparée doivent apprendre, par la prière ou en étudiant, leurs sortilèges après une nuit de repos. Ils ne pourront lancer que ceux-là au cours de la journée.
+
+Les oraisons, pour les druides et les prêtres, et les tours de magie, pour les magiciens, sont des sorts de niveau 0 qu’ils peuvent lancés autant qu’ils le veulent à la condition qu’ils aient préparé le sortilège en question.
+
+
+<blockquote><h4 class="separator">La prière d’Aurgelmyr</h4> : <br />
+Après une nuit de repos, Aurgelmyr médite et prépare ses sorts pour la journée. Il peut en apprendre 3 de niveau 0, les oraisons, et 3 de niveau 1. Son  choix se porte sur :<br />
+Niveau 1-<i>Compréhension des langages, Bénédiction</i> (x2)<br />
+Niveau 0 (oraison) –<i>Détection de la magie, Lumière et Résistance</i><br /><br />Au cours de la journée, il peut utiliser autant de fois qu’il le désire ses oraisons mais que dans le choix qu’il a fait, c’est à dire <i>détection de la magie, lumière</i> et <i>résistance</i>.<br /> 
+Il pourra lancer une seule fois <i>compréhension des langages</i> et deux fois <i>bénédiction</i> l’ayant préparée deux fois.
+</blockquote>
+
+
+====Magie spontanée====
+Utilisateurs de magie spontanée : barde et ensorceleur.
+
+ 
+Les utilisateurs de magie spontanée ne mémorisent pas les sorts à l’avance.
+
+Ils disposent librement de leurs sorts connus (à ne pas confondre avec la liste des sorts de classe dans laquelle ils apprennent leurs sorts) avec, comme seule limite, leur quota quotidien qui se renouvelle après une nuit de sommeil.
+
+Quand ils lancent un sort, le quota quotidien diminue dans le niveau du sort concerné.
+
+Les tours de magie, les sorts de niveau 0, peuvent être utilisés sans limite.
+
+
+<blockquote><h4 class="separator">La magie spontanée d’Enyil</h4> : <br />
+La barde peut lancer quotidiennement 2 sorts de niveau 1 et un nombre illimité de tours de magie qu’il connaît. <br /> 
+Dans la journée, le joueur décide de lancer un <i>charme-personne</i>. Il lui reste donc un sort de niveau 1 à lancer, il peut continuer à choisir entre <i>charme-personne</i> et <i>déguisement</i>.
+</blockquote>
+
+
+====Degré de difficulté (DD) des sortilèges====
+Cette valeur va s’opposer, si besoin, aux jets de sauvegarde des ennemis. 
+
+Lorsque votre personnage lance un sort, celui qui le subit peut faire un jet de sauvegarde, cette précision se trouve dans la description de chaque sortilège. 
+
+Pour en éviter les effets, partiellement ou totalement, son jet de sauvegarde doit être égal ou supérieur au degré de difficulté de celui qui lance le sort.
+
+Le degré de difficulté d’un sortilège est égale à :
+
+•	10, c’est une base fixe
+
+•	+ modificateur de la caractéristique primordiale du lanceur de sort
+
+•	+ niveau du sort
+
+
+La caractéristique primordiale du lanceur de sort dépend de sa classe :
+
+•	Sagesse : druide, prêtre et rôdeur
+
+•	Intelligence : magicien
+
+•	Charisme : barde, ensorceleur et paladin
+
+
+====Concentration====
+Quand le personnage peut être gêné pour lancer son sort parce qu’il subit des dégâts, qu’il doit faire face à des éléments déchaînés, ou que son adversaire limite ses mouvements, etc. il doit faire un test de concentration (1d20 + bonus de concentration contre seuil de difficulté).
+
+En cas d’échec, il échoue et perd l’utilisation de son sort pour la journée.
+
+ 
+Le seuil à atteindre dépend de la nature de la gêne qui déclenche le test.
+
+Le bonus de concentration est égal au niveau du lanceur de sort + son modificateur de caractéristique primordiale.
+
+
+====Sorts en bonus====
+En fonction de la valeur de sa caractéristique primordiale, un lanceur de sort peut obtenir des sortilèges en bonus (voir le tableau de cette page).
+
+Ces sortilèges en bonus s’ajoutent au quota quotidien du lanceur de sort et sont utilisés dans les mêmes conditions.
+
+Ces sortilèges en bonus ne s’appliquent que quand le lanceur de sort est capable d’utiliser le niveau de la liste de sort. Pour un personnage de niveau 1, on prend en compte que le bonus pour sa liste de niveau 1.
+
+
+<blockquote><h4 class="separator">Les degrés de difficultés et la concentration d’Aurgelmyr</h4> : <br />
+Aurgelmyr est doté de 16 en Sagesse, donc bénéficie d’un bonus de +3 de caractéristique primordiale. Les DD de ses sorts seront donc de :<br />
+•	13 pour le niveau 0 (10 +3 de modificateur de Sagesse + 0 niveau de sort)<br />
+•	14 pour le niveau 1 (10 +3 de modificateur de Sagesse + 1 niveau de sort)<br /><br />Son bonus de concentration sera de +4 (+1 de niveau de prêtre +3 de modificateur de Sagesse).<br /><br />Avec 16 en Sagesse, Aurgelmyr possède les bonus aux sorts suivants :<br />
+•	+1 sort de niveau 1, que l’on applique car il utilise cette liste de sort.<br />
+•	+1 sort de niveau 2, que l’on n’applique pas car il n’utilise pas encore cette liste de sort.<br />
+•	+1 sort de niveau 3, que l’on n’applique pas car il n’utilise pas encore cette liste de sort.
+</blockquote>
+
+
+]]></raw>
+  <fullName>Pathfinder-RPG.Création Main</fullName>
+</wikiPage>

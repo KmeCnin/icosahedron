@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Mur de lames</title>
+  <categories><category>Pathfinder-RPG.Art de la Magie</category><category>Pathfinder-RPG.Mots de pouvoir</category><category>Pathfinder-RPG.Règles officielles</category></categories>
+  <lastModified>2012-09-27 11:29:22Z</lastModified>
+  <version>0</version>
+  <inLinks><link>Pathfinder-RPG.Liste des mots de pouvoirs par classe</link><link>Pathfinder-RPG.Listes des mots de pouvoirs (temporaire)</link><link>Pathfinder-RPG.Mots effets</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Invocation</link><link>Pathfinder-RPG.branche création</link><link>Pathfinder-RPG.Conjurateur</link><link>Pathfinder-RPG.Prêtre</link><link>Pathfinder-RPG.round</link><link>Pathfinder-RPG.niveau</link><link>Pathfinder-RPG.Réflexes</link><link>Pathfinder-RPG.Présentation des sorts</link><link>Pathfinder-RPG.Barrière</link><link>Pathfinder-RPG.camouflage</link></outLinks>
+  <body><![CDATA[
+&lt;b&gt;&#201;cole&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#INVOCATION&quot; title=&quot;Invocation&quot;&gt;invocation&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#CREATION&quot; title=&quot;cr&#233;ation&quot;&gt;cr&#233;ation&lt;/a&gt;) ; &lt;b&gt;Niveau&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Conjurateur.html&quot; title=&quot;Le conjurateur (aussi appel&#233; invocateur)&quot;&gt;conjurateur&lt;/a&gt; 5, &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#234;tre.html&quot; title=&quot;Le pr&#234;tre&quot;&gt;pr&#234;tre&lt;/a&gt; 6&lt;br /&gt;
+&lt;b&gt;Dur&#233;e&lt;/b&gt; 1 &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#ROUND&quot; title=&quot;round&quot;&gt;round&lt;/a&gt;/&lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#NIVEAU&quot; title=&quot;niveau&quot;&gt;niveau&lt;/a&gt;&lt;br /&gt;
+&lt;b&gt;Jet de sauvegarde&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;R&#233;flexes&quot;&gt;R&#233;flexes&lt;/a&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#JETSDESAUVEGARDE&quot; title=&quot;Pr&#233;sentation des sorts&quot;&gt;1/2 d&#233;g&#226;ts&lt;/a&gt; ; &lt;b&gt;R&#233;sistance &#224; la magie&lt;/b&gt; oui&lt;br /&gt;
+&lt;b&gt;Restriction de cible&lt;/b&gt; &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Barri&#232;re.html&quot; title=&quot;Barri&#232;re&quot;&gt;barri&#232;re&lt;/a&gt;&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Ce mot effet cr&#233;e un mur vertical fait de lames tournoyantes qui infligent 1d6 points de d&#233;g&#226;ts par &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#NIVEAU&quot; title=&quot;niveau&quot;&gt;niveau&lt;/a&gt; &#224; toute cr&#233;ature venant &#224; son contact. Si une cr&#233;ature se trouve dans l’espace occup&#233; par le mur au moment o&#249; il se forme, elle peut faire un jet de &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;R&#233;flexes&quot;&gt;R&#233;flexes&lt;/a&gt; pour diminuer les d&#233;g&#226;ts de moiti&#233;. Quel que soit le r&#233;sultat du jet, elle peut traverser le mur. Celui-ci offre un &lt;a class=&quot;pagelink&quot; href=&quot;Modificateurs-De-Combat.html#CAMOUFLAGE&quot; title=&quot;camouflage&quot;&gt;camouflage&lt;/a&gt; aux cr&#233;atures se trouvant de l’autre c&#244;t&#233; mais ne bloque pas la vue.
+]]></body>
+  <raw><![CDATA[{s:UM}
+'''École''' [[invocation]] ([[branche création|création]]) ; '''Niveau''' [[conjurateur]] 5, [[prêtre]] 6<br>
+'''Durée''' 1 [[round]]/[[niveau]]<br>
+'''Jet de sauvegarde''' [[Réflexes]] [[Présentation des sorts#JETSDESAUVEGARDE|1/2 dégâts]] ; '''Résistance à la magie''' oui<br>
+'''Restriction de cible''' ''[[barrière]]''
+
+Ce mot effet crée un mur vertical fait de lames tournoyantes qui infligent 1d6 points de dégâts par [[niveau]] à toute créature venant à son contact. Si une créature se trouve dans l’espace occupé par le mur au moment où il se forme, elle peut faire un jet de [[Réflexes]] pour diminuer les dégâts de moitié. Quel que soit le résultat du jet, elle peut traverser le mur. Celui-ci offre un [[camouflage]] aux créatures se trouvant de l’autre côté mais ne bloque pas la vue.]]></raw>
+  <fullName>Pathfinder-RPG.Mur de lames</fullName>
+</wikiPage>

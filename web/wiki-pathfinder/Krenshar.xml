@@ -1,0 +1,145 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Krenshar</title>
+  <categories><category>Pathfinder-RPG.Bestiaire 2</category><category>Pathfinder-RPG.Monstre</category><category>Pathfinder-RPG.Règles officielles</category></categories>
+  <lastModified>2013-02-07 20:11:57Z</lastModified>
+  <version>7</version>
+  <inLinks><link>Pathfinder-RPG.Glossaire des monstres</link><link>Pathfinder-RPG.Liste de monstres par FP</link><link>Pathfinder-RPG.Liste de monstres par milieu naturel</link><link>Pathfinder-RPG.Liste de monstres par type</link><link>Pathfinder-RPG.Monstres</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.type Créature magique</link><link>Pathfinder-RPG.odorat</link><link>Pathfinder-RPG.vision dans le noir</link><link>Pathfinder-RPG.vision nocturne</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.croc-en-jambe</link><link>Pathfinder-RPG.Science de linitiative</link><link>Pathfinder-RPG.Discrétion</link><link>Pathfinder-RPG.Intimidation</link><link>Pathfinder-RPG.Action simple</link><link>Pathfinder-RPG.pouvoir extraordinaire</link><link>Pathfinder-RPG.jet de sauvegarde</link><link>Pathfinder-RPG.Effrayé</link><link>Pathfinder-RPG.DV</link><link>Pathfinder-RPG.Secoué</link><link>Pathfinder-RPG.Registre</link><link>Pathfinder-RPG.Charisme</link><link>Pathfinder-RPG.Intelligence</link><link>Pathfinder-RPG.Rôdeur</link><link>Pathfinder-RPG.Druide</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Krenshar&lt;div style=&quot;float:right;&quot;&gt;FP 1&lt;/div&gt;&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Bestiaire&lt;/i&gt; p.183
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 400
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Cr&#233;ature-Magique.html&quot; title=&quot;Cr&#233;ature magique&quot;&gt;Cr&#233;ature magique&lt;/a&gt; de taille M, N
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +6 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Odorat-(Capacit&#233;).html&quot; title=&quot;odorat&quot;&gt;odorat&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Capacit&#233;s-Sp&#233;ciales.html#VISIONDANSLENOIR&quot; title=&quot;vision dans le noir&quot;&gt;Vision dans le noir&lt;/a&gt; 18 m, &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Nocturne-(Capacit&#233;).html&quot; title=&quot;vision nocturne&quot;&gt;vision nocturne&lt;/a&gt; ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +5
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 15, contact 12, pris au d&#233;pourvu 13 (Dex +2, naturelle +3)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 13 (2d10+2)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +5, &lt;b&gt;Vig&lt;/b&gt; +4, &lt;b&gt;Vol&lt;/b&gt; +1
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 12 m (8 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; morsure, +2 (1d6) et 2 griffes, +2(1d4)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaques sp&#233;ciales&lt;/b&gt;t&#234;te de cr&#226;ne
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 11, &lt;b&gt;Dex&lt;/b&gt; 14, &lt;b&gt;Con&lt;/b&gt; 13, &lt;b&gt;Int&lt;/b&gt; 6, &lt;b&gt;Sag&lt;/b&gt; 12, &lt;b&gt;Cha&lt;/b&gt; 13
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +2, &lt;b&gt;BMO&lt;/b&gt; +2, &lt;b&gt;DMD&lt;/b&gt; 14 (18 contre le &lt;a class=&quot;pagelink&quot; href=&quot;Croc-En-Jambe.html&quot; title=&quot;croc-en-jambe&quot;&gt;croc-en-jambe&lt;/a&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Science-De-Linitiative.html&quot; title=&quot;Science de l&amp;#39;initiative&quot;&gt;Science de l&#39;initiative&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; +10, &lt;a class=&quot;pagelink&quot; href=&quot;Intimidation.html&quot; title=&quot;Intimidation&quot;&gt;Intimidation&lt;/a&gt; +1 (+5 pour d&#233;moraliser), &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +5 ; &lt;b&gt;Modificateurs raciaux&lt;/b&gt; +4 en &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt;, +4 en &lt;a class=&quot;pagelink&quot; href=&quot;Intimidation.html&quot; title=&quot;Intimidation&quot;&gt;Intimidation&lt;/a&gt; pour d&#233;moraliser
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Langues&lt;/b&gt;  sylvestre (incapable de parler)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; for&#234;ts/plaines temp&#233;r&#233;es
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation sociale&lt;/b&gt; solitaire, couple ou meute (6-10)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; aucun
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Capacit&#233;s sp&#233;ciales&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;T&#234;te de cr&#226;ne (Sur).&lt;/b&gt; Par une &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions.html#SIMPLE&quot; title=&quot;Action simple&quot;&gt;action simple&lt;/a&gt;, un krenshar peut retirer
+la peau de son visage et r&#233;v&#233;ler les muscles et la structure osseuse
+de son cr&#226;ne. Cette &lt;a class=&quot;pagelink&quot; href=&quot;Capacit&#233;s-Sp&#233;ciales.html#TYPES&quot; title=&quot;pouvoir extraordinaire&quot;&gt;capacit&#233; extraordinaire&lt;/a&gt; fonctionne comme
+une utilisation de la comp&#233;tence &lt;a class=&quot;pagelink&quot; href=&quot;Intimidation.html&quot; title=&quot;Intimidation&quot;&gt;Intimidation&lt;/a&gt; pour d&#233;moraliser un
+adversaire. Le krenshar peut &#233;mettre un cri puissant tout en retirant
+sa peau, afin de susciter la terreur chez une unique cr&#233;ature
+situ&#233;e dans un rayon de 30 m&#232;tres et capable de voir le krenshar.
+La cible en question doit r&#233;ussir un &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;jet de sauvegarde&quot;&gt;jet de Volont&#233;&lt;/a&gt; de DD 12 pour
+ne pas &#234;tre &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables.html#Effray&#233;&quot; title=&quot;Effray&#233;&quot;&gt;effray&#233;e&lt;/a&gt; (si la cible poss&#232;de 6 &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DESDEVIE&quot; title=&quot;DV&quot;&gt;DV&lt;/a&gt; ou moins) ou &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables.html#Secou&#233;&quot; title=&quot;Secou&#233;&quot;&gt;secou&#233;e&lt;/a&gt;
+(si la cible poss&#232;de plus de 6 &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DESDEVIE&quot; title=&quot;DV&quot;&gt;DV&lt;/a&gt;) pendant 1d4 rounds. Si une cr&#233;ature
+r&#233;ussit son &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;jet de sauvegarde&quot;&gt;jet de sauvegarde&lt;/a&gt;, elle ne peut plus &#234;tre affect&#233;e &#224;
+nouveau par la capacit&#233; de t&#234;te de cr&#226;ne du krenshar en question
+pendant 24 heures. Il s’agit d’un effet &lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;er-Un-Sort.html#REGISTRE&quot; title=&quot;Registre&quot;&gt;mental&lt;/a&gt; de &lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;er-Un-Sort.html#REGISTRE&quot; title=&quot;Registre&quot;&gt;terreur&lt;/a&gt; et de &lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;er-Un-Sort.html#REGISTRE&quot; title=&quot;Registre&quot;&gt;son&lt;/a&gt;.
+Le DD du jet de sauvegarde d&#233;pend du &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#CHARISME&quot; title=&quot;Le Charisme&quot;&gt;Charisme&lt;/a&gt;.
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;td&gt;&lt;div&gt;&lt;i&gt;Cette sorte de panth&#232;re sans oreille grogne et la peau de son visage s&#39;agite puis se replie pour d&#233;voiler ses os et sa chair. &lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Le krenshar est une &#233;trange cr&#233;ature qui ressemble &#224; un grand f&#233;lin sans oreille, mais il peut retirer la fourrure et la peau de son visage pour r&#233;v&#233;ler le cr&#226;ne brillant et la musculature qu’elle recouvrait. Combin&#233; avec son &#233;trange hurlement strident, ce spectacle horrible suffit g&#233;n&#233;ralement pour paralyser les proies et faire fuir les adversaires les plus puissants. &lt;br /&gt;
+La peau r&#233;tractable du krenshar lui permet de d&#233;vorer les charognes tout en r&#233;duisant le risque d’emmener avec lui des vermines porteuses de maladies (un peu comme la t&#234;te et le cou d&#233;garnis des vautours). Quand la cr&#233;ature a fini son repas, elle ram&#232;ne sa couverture faciale en position normale et, ce faisant, se d&#233;barrasse des morceaux de chair et des vermines qui auraient pu s’attacher &#224; sa t&#234;te. La capacit&#233; des krenshars &#224; retirer leur peau est &#233;galement utile dans d’autres circonstances : les krenshars m&#226;les d&#233;voilent leur cr&#226;ne nu &#224; leurs rivaux amoureux
+pour leur lancer un d&#233;fi, les femelles utilisent cette facult&#233; pour repousser les soupirants non d&#233;sir&#233;s et les chasseurs adultes l’utilisent pour effrayer les proies et les faire fuir vers une embuscade.&lt;br /&gt;
+Les krenshars pr&#233;f&#232;rent s’en prendre aux animaux qui vivent en troupeaux, comme le b&#233;tail et les cerfs, mais ils n’h&#233;sitent pas &#224; s’attaquer aux humano&#239;des si la nourriture vient &#224; manquer. Un krenshar moyen mesure entre 1,20 m et 1,50 m de longueur et p&#232;se &#224; peu pr&#232;s 87,5 kg.&lt;br /&gt;
+L’&lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#INTELLIGENCE&quot; title=&quot;L&amp;#39;Intelligence&quot;&gt;intelligence&lt;/a&gt; des krenshars est un sujet qui a suscit&#233; de nombreux d&#233;bats parmi les &#233;rudits. Les krenshars sont clairement plus intelligents que de simples animaux, mais ils ne semblent poss&#233;der qu’un langage rudimentaire compos&#233; de grognements et de hurlements et, &#224; part les quelques mouvements tactiques pour lesquels ils sont r&#233;put&#233;s, ils se comportent comme des f&#233;lins ou des loups normaux, allant m&#234;me jusqu’&#224; se laisser approcher par des &lt;a class=&quot;pagelink&quot; href=&quot;R&#244;deur.html&quot; title=&quot;Le r&#244;deur&quot;&gt;r&#244;deurs&lt;/a&gt; ou des &lt;a class=&quot;pagelink&quot; href=&quot;Druide.html&quot; title=&quot;Le druide&quot;&gt;druides&lt;/a&gt;. Ceux qui pr&#233;tendent que les krenshars ne sont pas dou&#233;s d’&lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#INTELLIGENCE&quot; title=&quot;L&amp;#39;Intelligence&quot;&gt;intelligence&lt;/a&gt; n’ont cependant qu’&#224; regarder dans leurs &#233;tranges yeux violets ou qu’&#224; observer la facilit&#233; avec laquelle ils manipulent et pi&#232;gent leurs proies pour comprendre qu’ils font erreur, une erreur qu’ils ont rarement l’occasion de commettre plus d’une fois.
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Krenshar|FP 1}
+{s:pucem|Créature magique|Forêt-Jungle|Tempéré}
+{s:BDTexte|''Source : Bestiaire'' p.183}
+{s:BDTexte|'''PX''' 400}
+{s:BDTexte|[[type créature magique|Créature magique]] de taille M, N}
+{s:BDTexte|'''Init''' +6 ; '''Sens''' [[odorat]], [[Vision dans le noir]] 18 m, [[vision nocturne]] ; [[Perception]] +5}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 15, contact 12, pris au dépourvu 13 (Dex +2, naturelle +3)}
+{s:BDTexte|'''pv''' 13 (2d10+2)}
+{s:BDTexte|'''Réf''' +5, '''Vig''' +4, '''Vol''' +1}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 12 m (8 {s:c})}
+{s:BDTexte|'''Corps à corps''' morsure, +2 (1d6) et 2 griffes, +2(1d4)}
+{s:BDTexte|'''Attaques spéciales'''tête de crâne}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 11, '''Dex''' 14, '''Con''' 13, '''Int''' 6, '''Sag''' 12, '''Cha''' 13}
+{s:BDTexte|'''BBA''' +2, '''BMO''' +2, '''DMD''' 14 (18 contre le [[croc-en-jambe]])}
+{s:BDTexte|'''Dons''' [[Science de linitiative|Science de l'initiative]]}
+{s:BDTexte|'''Compétences''' [[Discrétion]] +10, [[Intimidation]] +1 (+5 pour démoraliser), [[Perception]] +5 ; '''Modificateurs raciaux''' +4 en [[Discrétion]], +4 en [[Intimidation]] pour démoraliser}
+{s:BDTexte|'''Langues'''  sylvestre (incapable de parler)}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' forêts/plaines tempérées}
+{s:BDTexte|'''Organisation sociale''' solitaire, couple ou meute (6-10)}
+{s:BDTexte|'''Trésor''' aucun}
+{s:BDSousTitre|Capacités spéciales}
+{s:BDTexte|'''Tête de crâne (Sur).''' Par une [[action simple]], un krenshar peut retirer
+la peau de son visage et révéler les muscles et la structure osseuse
+de son crâne. Cette [[pouvoir extraordinaire|capacité extraordinaire]] fonctionne comme
+une utilisation de la compétence [[Intimidation]] pour démoraliser un
+adversaire. Le krenshar peut émettre un cri puissant tout en retirant
+sa peau, afin de susciter la terreur chez une unique créature
+située dans un rayon de 30 mètres et capable de voir le krenshar.
+La cible en question doit réussir un [[jet de sauvegarde|jet de Volonté]] de DD 12 pour
+ne pas être [[effrayé|effrayée]] (si la cible possède 6 [[DV]] ou moins) ou [[secoué|secouée]]
+(si la cible possède plus de 6 [[DV]]) pendant 1d4 rounds. Si une créature
+réussit son [[jet de sauvegarde]], elle ne peut plus être affectée à
+nouveau par la capacité de tête de crâne du krenshar en question
+pendant 24 heures. Il s’agit d’un effet [[registre|mental]] de [[registre|terreur]] et de [[registre|son]].
+Le DD du jet de sauvegarde dépend du [[Charisme]].}
+</div>
+</td><td><div>''Cette sorte de panthère sans oreille grogne et la peau de son visage s'agite puis se replie pour dévoiler ses os et sa chair. ''
+
+Le krenshar est une étrange créature qui ressemble à un grand félin sans oreille, mais il peut retirer la fourrure et la peau de son visage pour révéler le crâne brillant et la musculature qu’elle recouvrait. Combiné avec son étrange hurlement strident, ce spectacle horrible suffit généralement pour paralyser les proies et faire fuir les adversaires les plus puissants. <br>
+La peau rétractable du krenshar lui permet de dévorer les charognes tout en réduisant le risque d’emmener avec lui des vermines porteuses de maladies (un peu comme la tête et le cou dégarnis des vautours). Quand la créature a fini son repas, elle ramène sa couverture faciale en position normale et, ce faisant, se débarrasse des morceaux de chair et des vermines qui auraient pu s’attacher à sa tête. La capacité des krenshars à retirer leur peau est également utile dans d’autres circonstances : les krenshars mâles dévoilent leur crâne nu à leurs rivaux amoureux
+pour leur lancer un défi, les femelles utilisent cette faculté pour repousser les soupirants non désirés et les chasseurs adultes l’utilisent pour effrayer les proies et les faire fuir vers une embuscade.<br>
+Les krenshars préfèrent s’en prendre aux animaux qui vivent en troupeaux, comme le bétail et les cerfs, mais ils n’hésitent pas à s’attaquer aux humanoïdes si la nourriture vient à manquer. Un krenshar moyen mesure entre 1,20 m et 1,50 m de longueur et pèse à peu près 87,5 kg.<br>
+L’[[intelligence]] des krenshars est un sujet qui a suscité de nombreux débats parmi les érudits. Les krenshars sont clairement plus intelligents que de simples animaux, mais ils ne semblent posséder qu’un langage rudimentaire composé de grognements et de hurlements et, à part les quelques mouvements tactiques pour lesquels ils sont réputés, ils se comportent comme des félins ou des loups normaux, allant même jusqu’à se laisser approcher par des [[rôdeur|rôdeurs]] ou des [[druide|druides]]. Ceux qui prétendent que les krenshars ne sont pas doués d’[[intelligence]] n’ont cependant qu’à regarder dans leurs étranges yeux violets ou qu’à observer la facilité avec laquelle ils manipulent et piègent leurs proies pour comprendre qu’ils font erreur, une erreur qu’ils ont rarement l’occasion de commettre plus d’une fois.
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Krenshar</fullName>
+</wikiPage>

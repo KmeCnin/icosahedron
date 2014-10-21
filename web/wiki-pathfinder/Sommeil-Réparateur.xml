@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Sommeil réparateur</title>
+  <categories><category>Pathfinder-RPG.Advanced Player Guide</category><category>Pathfinder-RPG.Règles officielles</category><category>Pathfinder-RPG.Sort</category><category>Pathfinder-RPG.Sort barde 1</category></categories>
+  <lastModified>2012-11-04 22:01:27Z</lastModified>
+  <version>1</version>
+  <inLinks><link>Pathfinder-RPG.Glossaire des sorts</link><link>Pathfinder-RPG.Liste des sorts (fin)</link><link>Pathfinder-RPG.Liste des sorts de bardes</link><link>Pathfinder-RPG.TMP sorts APG</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Nécromancie</link><link>Pathfinder-RPG.Barde</link><link>Pathfinder-RPG.composantes</link><link>Pathfinder-RPG.niveau</link><link>Pathfinder-RPG.Vigueur</link><link>Pathfinder-RPG.Présentation des sorts</link></outLinks>
+  <body><![CDATA[
+&lt;b&gt;&#201;cole&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#NECROMANCIE&quot; title=&quot;N&#233;cromancie&quot;&gt;N&#233;cromancie&lt;/a&gt;&#160;; &lt;b&gt;Niveau&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Barde.html&quot; title=&quot;Le barde&quot;&gt;barde&lt;/a&gt; 1&lt;br/&gt;
+&lt;b&gt;Temps d&#39;incantation&lt;/b&gt; 10 minutes&lt;br/&gt;
+&lt;b&gt;Composantes&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#COMPOSANTES&quot; title=&quot;composantes&quot;&gt;V, G, M&lt;/a&gt; (une pinc&#233;e de sable)&lt;br/&gt;
+&lt;b&gt;Port&#233;e&lt;/b&gt; courte (7,50 m + 1,50 m/2 &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#NIVEAU&quot; title=&quot;niveau&quot;&gt;niveaux&lt;/a&gt;) (5 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt; + 1 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;/2 &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#NIVEAU&quot; title=&quot;niveau&quot;&gt;niveaux&lt;/a&gt;)&lt;br/&gt;
+&lt;b&gt;Cible&lt;/b&gt; une cr&#233;ature/&lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#NIVEAU&quot; title=&quot;niveau&quot;&gt;niveau&lt;/a&gt;, qui doivent se trouver &#224; moins de 9&#160;m (6 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) les unes des autres&lt;br/&gt;
+&lt;b&gt;Dur&#233;e&lt;/b&gt; 8 ou 24 heures&#160;; voir texte&lt;br/&gt;
+&lt;b&gt;Jet de sauvegarde&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;Vigueur&quot;&gt;Vigueur&lt;/a&gt; pour &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#JETSDESAUVEGARDE&quot; title=&quot;Pr&#233;sentation des sorts&quot;&gt;annuler&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#JETSDESAUVEGARDE&quot; title=&quot;Pr&#233;sentation des sorts&quot;&gt;inoffensif&lt;/a&gt;) ; &lt;b&gt;R&#233;sistance &#224; la magie&lt;/b&gt; oui (&lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#JETSDESAUVEGARDE&quot; title=&quot;Pr&#233;sentation des sorts&quot;&gt;inoffensif&lt;/a&gt;)&lt;br /&gt;&lt;br /&gt;Le personnage lance ce sort juste avant de se reposer. Tant que ses alli&#233;s et lui sont sous l&#39;effet de ce sort, ils b&#233;n&#233;ficient d&#39;une nuit de sommeil r&#233;parateur. Si le sujet profite d&#39;une nuit de sommeil complet, il regagne ses points de vie comme s&#39;il avait pass&#233; une journ&#233;e enti&#232;re au lit (il regagne alors deux fois son &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#NIVEAU&quot; title=&quot;niveau&quot;&gt;niveau&lt;/a&gt; de personnage en points de vie). Si le sujet se repose une journ&#233;e enti&#232;re, il r&#233;cup&#232;re trois fois son &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#NIVEAU&quot; title=&quot;niveau&quot;&gt;niveau&lt;/a&gt; de personnage en points de vie. Toute interruption de la p&#233;riode de repos (si on r&#233;veille le sujet par exemple) l&#39;emp&#234;che de gu&#233;rir pendant la nuit et met un terme au sort pour le sujet &#233;veill&#233;. Toute gu&#233;rison re&#231;ue sous l&#39;effet du sort est consid&#233;r&#233;e comme une gu&#233;rison naturelle et n&#39;affecte pas les effets qui requi&#232;rent des soins magiques.
+]]></body>
+  <raw><![CDATA[{s:APG}
+'''École''' [[Nécromancie]] ; '''Niveau''' [[barde]] 1<br/>
+'''Temps d'incantation''' 10 minutes<br/>
+'''Composantes''' [[Composantes|V, G, M]] (une pincée de sable)<br/>
+'''Portée''' courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])<br/>
+'''Cible''' une créature/[[niveau]], qui doivent se trouver à moins de 9 m (6 {s:c}) les unes des autres<br/>
+'''Durée''' 8 ou 24 heures ; voir texte<br/>
+'''Jet de sauvegarde''' [[Vigueur]] pour [[Présentation des sorts#JETSDESAUVEGARDE|annuler]] ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]]) ; '''Résistance à la magie''' oui ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]])
+
+Le personnage lance ce sort juste avant de se reposer. Tant que ses alliés et lui sont sous l'effet de ce sort, ils bénéficient d'une nuit de sommeil réparateur. Si le sujet profite d'une nuit de sommeil complet, il regagne ses points de vie comme s'il avait passé une journée entière au lit (il regagne alors deux fois son [[niveau]] de personnage en points de vie). Si le sujet se repose une journée entière, il récupère trois fois son [[niveau]] de personnage en points de vie. Toute interruption de la période de repos (si on réveille le sujet par exemple) l'empêche de guérir pendant la nuit et met un terme au sort pour le sujet éveillé. Toute guérison reçue sous l'effet du sort est considérée comme une guérison naturelle et n'affecte pas les effets qui requièrent des soins magiques.
+]]></raw>
+  <fullName>Pathfinder-RPG.Sommeil réparateur</fullName>
+</wikiPage>

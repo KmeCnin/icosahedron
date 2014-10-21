@@ -1,0 +1,250 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>L'adepte</title>
+  <categories><category>Pathfinder-RPG.Classe de PNJ</category></categories>
+  <lastModified>2010-07-27 20:04:05Z</lastModified>
+  <version>9</version>
+  <inLinks><link>Pathfinder-RPG.Adepte</link><link>Pathfinder-RPG.Classes de PNJ</link><link>Pathfinder-RPG.Créer des PNJ</link><link>Pathfinder-RPG.FAQ Règles</link><link>Pathfinder-RPG.Géant du feu</link><link>Pathfinder-RPG.Géant du froid</link><link>Pathfinder-RPG.MainPage</link><link>Pathfinder-RPG.Rencontres</link><link>Pathfinder-RPG.temp-MainPage</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Adepte</link><link>Pathfinder-RPG.Artisanat</link><link>Pathfinder-RPG.Art de la magie</link><link>Pathfinder-RPG.Connaissances</link><link>Pathfinder-RPG.Dressage</link><link>Pathfinder-RPG.Premiers secours</link><link>Pathfinder-RPG.Profession</link><link>Pathfinder-RPG.Survie</link><link>Pathfinder-RPG.Intelligence</link><link>Pathfinder-RPG.arme courante</link><link>Pathfinder-RPG.Prêtre</link><link>Pathfinder-RPG.Sagesse</link><link>Pathfinder-RPG.Niveau de sort</link><link>Pathfinder-RPG.DD</link><link>Pathfinder-RPG.jet de sauvegarde</link><link>Pathfinder-RPG.Magicien</link><link>Pathfinder-RPG.grimoire</link><link>Pathfinder-RPG.focalisateur</link><link>Pathfinder-RPG.familier</link><link>Pathfinder-RPG.Assistance divine</link><link>Pathfinder-RPG.Création deau</link><link>Pathfinder-RPG.Détection de la magie</link><link>Pathfinder-RPG.Fatigue</link><link>Pathfinder-RPG.Lecture de la magie</link><link>Pathfinder-RPG.Lumière</link><link>Pathfinder-RPG.Purification de nourriture et deau</link><link>Pathfinder-RPG.Réparation</link><link>Pathfinder-RPG.Son imaginaire</link><link>Pathfinder-RPG.Stabilisation</link><link>Pathfinder-RPG.Bénédiction</link><link>Pathfinder-RPG.Brume de dissimulation</link><link>Pathfinder-RPG.Compréhension des langages</link><link>Pathfinder-RPG.Détection du Bien</link><link>Pathfinder-RPG.Détection du Chaos</link><link>Pathfinder-RPG.Détection de la Loi</link><link>Pathfinder-RPG.Détection du Mal</link><link>Pathfinder-RPG.Endurance aux énergies destructives</link><link>Pathfinder-RPG.Frayeur</link><link>Pathfinder-RPG.Injonction</link><link>Pathfinder-RPG.Mains brûlantes</link><link>Pathfinder-RPG.Protection contre le Bien</link><link>Pathfinder-RPG.Protection contre le Chaos</link><link>Pathfinder-RPG.Protection contre la Loi</link><link>Pathfinder-RPG.Protection contre le Mal</link><link>Pathfinder-RPG.Soins légers</link><link>Pathfinder-RPG.Sommeil</link><link>Pathfinder-RPG.Aide</link><link>Pathfinder-RPG.Détection de linvisibilité</link><link>Pathfinder-RPG.Endurance de lours</link><link>Pathfinder-RPG.Force de taureau</link><link>Pathfinder-RPG.Grâce féline</link><link>Pathfinder-RPG.Hypnose des animaux</link><link>Pathfinder-RPG.Image miroir</link><link>Pathfinder-RPG.Invisibilité</link><link>Pathfinder-RPG.Ralentissement du poison</link><link>Pathfinder-RPG.Rayon ardent</link><link>Pathfinder-RPG.Résistance aux énergies destructives</link><link>Pathfinder-RPG.Soins modérés</link><link>Pathfinder-RPG.Ténèbres</link><link>Pathfinder-RPG.Toile daraignée</link><link>Pathfinder-RPG.Animation des morts</link><link>Pathfinder-RPG.Contagion</link><link>Pathfinder-RPG.Délivrance des malédictions</link><link>Pathfinder-RPG.Don des langues</link><link>Pathfinder-RPG.Éclair</link><link>Pathfinder-RPG.Flamme éternelle</link><link>Pathfinder-RPG.Guérison des maladies</link><link>Pathfinder-RPG.Lumière du jour</link><link>Pathfinder-RPG.sort Malédiction</link><link>Pathfinder-RPG.Neutralisation du poison</link><link>Pathfinder-RPG.Soins importants</link><link>Pathfinder-RPG.Ténèbres profondes</link><link>Pathfinder-RPG.Création mineure</link><link>Pathfinder-RPG.métamorphose</link><link>Pathfinder-RPG.Mur de feu</link><link>Pathfinder-RPG.Peau de pierre</link><link>Pathfinder-RPG.Restauration</link><link>Pathfinder-RPG.Soins intensifs</link><link>Pathfinder-RPG.Annulation denchantement</link><link>Pathfinder-RPG.Création majeure</link><link>Pathfinder-RPG.Communion</link><link>Pathfinder-RPG.Métamorphose funeste</link><link>Pathfinder-RPG.Mur de pierre</link><link>Pathfinder-RPG.Guérison suprême</link><link>Pathfinder-RPG.Rappel à la vie</link><link>Pathfinder-RPG.Vision lucide</link></outLinks>
+  <body><![CDATA[&lt;br /&gt;&lt;br /&gt;&lt;table&gt;&lt;tr style=&quot;vertical-align: bottom&quot;&gt;&lt;td width=&quot;65%&quot;&gt;
+&lt;center&gt;
+&lt;table CLASS=&quot;tablo&quot;&gt;&lt;caption&gt;L’adepte&lt;/caption&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td&gt;Niveau&lt;/td&gt;&lt;td&gt;BBA&lt;/td&gt;&lt;td&gt;R&#233;flexes&lt;/td&gt;&lt;td&gt;Vigueur&lt;/td&gt;&lt;td&gt;Volont&#233;&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;Sp&#233;cial&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;1er&lt;/td&gt;&lt;td&gt;2e&lt;/td&gt;&lt;td&gt;3e&lt;/td&gt;&lt;td&gt;4e&lt;/td&gt;&lt;td&gt;5e&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;+0&lt;/td&gt;&lt;td&gt;+0&lt;/td&gt;&lt;td&gt;+0&lt;/td&gt;&lt;td&gt;+2&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;—&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;+1&lt;/td&gt;&lt;td&gt;+0&lt;/td&gt;&lt;td&gt;+0&lt;/td&gt;&lt;td&gt;+3&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Adepte.html#FAMILIER&quot; title=&quot;L&amp;#39;adepte&quot;&gt;Convocation de familier&lt;/a&gt;&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;+1&lt;/td&gt;&lt;td&gt;+1&lt;/td&gt;&lt;td&gt;+1&lt;/td&gt;&lt;td&gt;+3&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;—&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;+2&lt;/td&gt;&lt;td&gt;+1&lt;/td&gt;&lt;td&gt;+1&lt;/td&gt;&lt;td&gt;+4&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;—&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;+2&lt;/td&gt;&lt;td&gt;+1&lt;/td&gt;&lt;td&gt;+1&lt;/td&gt;&lt;td&gt;+4&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;—&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;+3&lt;/td&gt;&lt;td&gt;+2&lt;/td&gt;&lt;td&gt;+2&lt;/td&gt;&lt;td&gt;+5&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;—&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;7&lt;/td&gt;&lt;td&gt;+3&lt;/td&gt;&lt;td&gt;+2&lt;/td&gt;&lt;td&gt;+2&lt;/td&gt;&lt;td&gt;+5&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;—&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;8&lt;/td&gt;&lt;td&gt;+4&lt;/td&gt;&lt;td&gt;+2&lt;/td&gt;&lt;td&gt;+2&lt;/td&gt;&lt;td&gt;+6&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;—&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;9&lt;/td&gt;&lt;td&gt;+4&lt;/td&gt;&lt;td&gt;+3&lt;/td&gt;&lt;td&gt;+3&lt;/td&gt;&lt;td&gt;+6&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;—&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;+5&lt;/td&gt;&lt;td&gt;+3&lt;/td&gt;&lt;td&gt;+3&lt;/td&gt;&lt;td&gt;+7&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;—&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;11&lt;/td&gt;&lt;td&gt;+5&lt;/td&gt;&lt;td&gt;+3&lt;/td&gt;&lt;td&gt;+3&lt;/td&gt;&lt;td&gt;+7&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;—&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;12&lt;/td&gt;&lt;td&gt;+6/+1&lt;/td&gt;&lt;td&gt;+4&lt;/td&gt;&lt;td&gt;+4&lt;/td&gt;&lt;td&gt;+8&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;—&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;13&lt;/td&gt;&lt;td&gt;+6/+1&lt;/td&gt;&lt;td&gt;+4&lt;/td&gt;&lt;td&gt;+4&lt;/td&gt;&lt;td&gt;+8&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;—&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;14&lt;/td&gt;&lt;td&gt;+7/+2&lt;/td&gt;&lt;td&gt;+4&lt;/td&gt;&lt;td&gt;+4&lt;/td&gt;&lt;td&gt;+9&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;—&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;15&lt;/td&gt;&lt;td&gt;+7/+2&lt;/td&gt;&lt;td&gt;+5&lt;/td&gt;&lt;td&gt;+5&lt;/td&gt;&lt;td&gt;+9&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;—&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;16&lt;/td&gt;&lt;td&gt;+8/+3&lt;/td&gt;&lt;td&gt;+5&lt;/td&gt;&lt;td&gt;+5&lt;/td&gt;&lt;td&gt;+10&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;—&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;17&lt;/td&gt;&lt;td&gt;+8/+3&lt;/td&gt;&lt;td&gt;+5&lt;/td&gt;&lt;td&gt;+5&lt;/td&gt;&lt;td&gt;+10&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;—&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;18&lt;/td&gt;&lt;td&gt;+9/+4&lt;/td&gt;&lt;td&gt;+6&lt;/td&gt;&lt;td&gt;+6&lt;/td&gt;&lt;td&gt;+11&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;—&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;19&lt;/td&gt;&lt;td&gt;+9/+4&lt;/td&gt;&lt;td&gt;+6&lt;/td&gt;&lt;td&gt;+6&lt;/td&gt;&lt;td&gt;+11&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;—&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;20&lt;/td&gt;&lt;td&gt;+10/+5&lt;/td&gt;&lt;td&gt;+6&lt;/td&gt;&lt;td&gt;+6&lt;/td&gt;&lt;td&gt;+12&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;—&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/center&gt;&lt;/td&gt;
+&lt;td style=&quot;vertical-align: bottom&quot;&gt;&lt;center&gt;&lt;img width=&quot;80%&quot; src=&quot;http://www.pathfinder-fr.org/wiki/public/upload/Illustrations/PNJ/Adepte.jpg&quot;/&gt;&lt;/center&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;/table&gt;&lt;br /&gt;&lt;b&gt;Alignement.&lt;/b&gt; Tous.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;D&#233; de vie.&lt;/b&gt; d6.&lt;br /&gt;&lt;br /&gt;&lt;h2 class=&quot;separator&quot;&gt; Comp&#233;tences de classes &lt;a class=&quot;headeranchor&quot; id=&quot;Comp&#233;tences_de_classes_9&quot; href=&quot;#Comp&#233;tences_de_classes_9&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;Les comp&#233;tences de l’adepte (et la caract&#233;ristique dont chacune d&#233;pend) sont : &lt;a class=&quot;pagelink&quot; href=&quot;Artisanat.html&quot; title=&quot;Artisanat&quot;&gt;Artisanat&lt;/a&gt; (Int), &lt;a class=&quot;pagelink&quot; href=&quot;Art-De-La-Magie.html&quot; title=&quot;Art de la magie&quot;&gt;Art de la magie&lt;/a&gt; (Int), &lt;a class=&quot;pagelink&quot; href=&quot;Connaissances.html&quot; title=&quot;Connaissances&quot;&gt;Connaissances&lt;/a&gt; (au choix, chaque comp&#233;tence devant &#234;tre prise s&#233;par&#233;ment) (Int), &lt;a class=&quot;pagelink&quot; href=&quot;Dressage.html&quot; title=&quot;Dressage&quot;&gt;Dressage&lt;/a&gt; (Cha), &lt;a class=&quot;pagelink&quot; href=&quot;Premiers-Secours.html&quot; title=&quot;Premiers secours&quot;&gt;Premiers secours&lt;/a&gt; (Sag), &lt;a class=&quot;pagelink&quot; href=&quot;Profession.html&quot; title=&quot;Profession&quot;&gt;Profession&lt;/a&gt; (Sag), &lt;a class=&quot;pagelink&quot; href=&quot;Survie.html&quot; title=&quot;Survie&quot;&gt;Survie&lt;/a&gt; (Sag).&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Points de comp&#233;tence &#224; chaque niveau.&lt;/b&gt; 2 + modificateur d’&lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#INTELLIGENCE&quot; title=&quot;L&amp;#39;Intelligence&quot;&gt;Intelligence&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;&lt;h2 class=&quot;separator&quot;&gt; Caract&#233;ristiques de la classe &lt;a class=&quot;headeranchor&quot; id=&quot;Caract&#233;ristiques_de_la_classe_10&quot; href=&quot;#Caract&#233;ristiques_de_la_classe_10&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;Voici les particularit&#233;s et aptitudes de la classe de PNJ d’adepte.&lt;br /&gt;&lt;br /&gt;&lt;h3 class=&quot;separator&quot;&gt; Armes et armures &lt;a class=&quot;headeranchor&quot; id=&quot;Armes_et_armures_0&quot; href=&quot;#Armes_et_armures_0&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;L’adepte est form&#233; au maniement des &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques-Des-Armes.html#ARMECOURANTE&quot; title=&quot;arme courante&quot;&gt;armes courantes&lt;/a&gt;, mais pas au port des armures ou au maniement des boucliers.&lt;br /&gt;&lt;br /&gt;&lt;h3 class=&quot;separator&quot;&gt; Sorts &lt;a class=&quot;headeranchor&quot; id=&quot;Sorts_1&quot; href=&quot;#Sorts_1&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;L’adepte lance des sorts de magie divine, qu’il choisit dans sa liste. Comme le &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#234;tre.html&quot; title=&quot;Le pr&#234;tre&quot;&gt;pr&#234;tre&lt;/a&gt;, il doit choisir et pr&#233;parer ses sorts &#224; l’avance. Il est cependant incapable de lancer spontan&#233;ment soins ou blessures.&lt;br /&gt;&lt;br /&gt;Pour pouvoir lancer un sort donn&#233;, le personnage doit avoir une &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#SAGESSE&quot; title=&quot;La Sagesse&quot;&gt;Sagesse&lt;/a&gt; au moins &#233;gale &#224; 10 + &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#NIVEAU&quot; title=&quot;Niveau de sort&quot;&gt;le niveau du sort&lt;/a&gt;. Le &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DEGREDEDIFFICULTE&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; du &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;jet de sauvegarde&quot;&gt;jet de sauvegarde&lt;/a&gt; d’un sort lanc&#233; par un adepte est &#233;gal &#224; 10 + le niveau du sort + le modificateur de &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#SAGESSE&quot; title=&quot;La Sagesse&quot;&gt;Sagesse&lt;/a&gt; de l’adepte.&lt;br /&gt;&lt;br /&gt;Contrairement au &lt;a class=&quot;pagelink&quot; href=&quot;Magicien.html&quot; title=&quot;Le magicien&quot;&gt;magicien&lt;/a&gt;, l’adepte ne peut acqu&#233;rir ses sorts &#224; l’aide de &lt;a class=&quot;pagelink&quot; href=&quot;Magicien.html#GRIMOIRE&quot; title=&quot;grimoire&quot;&gt;grimoires&lt;/a&gt; ou de parchemins, pas plus que par l’&#233;tude. Il doit m&#233;diter ou prier et c’est l’inspiration divine ou sa propre foi qui les lui accorde. Chaque adepte doit choisir un moment dans la journ&#233;e pendant lequel il passe une heure en contemplation ou en pri&#232;re afin de regagner ses sorts. Le temps pass&#233; &#224; se reposer n’a aucun effet sur la pr&#233;paration de ces sorts.&lt;br /&gt;&lt;br /&gt;Comme les autres lanceurs de sorts, l’adepte ne peut lancer qu’un certain nombre de sorts de chaque niveau par jour, nombre qui est donn&#233; dans la table ci-dessus. Par ailleurs, une &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#SAGESSE&quot; title=&quot;La Sagesse&quot;&gt;Sagesse&lt;/a&gt; &#233;lev&#233;e accorde des sorts en bonus.&lt;br /&gt;&lt;br /&gt;Chaque adepte a un symbole sacr&#233; particulier (qui sert de &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#FOCALISEUR&quot; title=&quot;focalisateur&quot;&gt;focalisateur&lt;/a&gt; divin), en fonction de sa tradition magique.&lt;br /&gt;&lt;br /&gt;&lt;a name=&quot;FAMILIER&quot;&gt;&lt;/a&gt;
+&lt;h3 class=&quot;separator&quot;&gt; Familier &lt;a class=&quot;headeranchor&quot; id=&quot;Familier_2&quot; href=&quot;#Familier_2&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;Au niveau 2, l’adepte peut appeler un &lt;a class=&quot;pagelink&quot; href=&quot;Familiers.html&quot; title=&quot;familier&quot;&gt;familier&lt;/a&gt; en utilisant son pouvoir de convocation de familier.&lt;br /&gt;&lt;br /&gt;&lt;h2 class=&quot;separator&quot;&gt; Liste de sorts de l’adepte &lt;a class=&quot;headeranchor&quot; id=&quot;Liste_de_sorts_de_l’adepte_11&quot; href=&quot;#Liste_de_sorts_de_l’adepte_11&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;Les adeptes choisissent leurs sorts dans la liste suivante.&lt;br /&gt;&lt;br /&gt;&lt;table width=&quot;100%&quot;&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;&lt;td width=&quot;33%&quot;&gt;
+&lt;h3 class=&quot;separator&quot;&gt;Niveau 0&lt;a class=&quot;headeranchor&quot; id=&quot;Niveau_A_3&quot; href=&quot;#Niveau_A_3&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;&lt;li&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Assistance-Divine.html&quot; title=&quot;Assistance divine&quot;&gt;assistance divine&lt;/a&gt;&lt;/i&gt;&lt;/li&gt;&lt;li&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;ation-Deau.html&quot; title=&quot;Cr&#233;ation d&amp;#39;eau&quot;&gt;cr&#233;ation d’eau&lt;/a&gt;&lt;/i&gt;&lt;/li&gt;&lt;li&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;D&#233;tection-De-La-Magie.html&quot; title=&quot;D&#233;tection de la magie&quot;&gt;d&#233;tection de la magie&lt;/a&gt;&lt;/i&gt;&lt;/li&gt;&lt;li&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Fatigue.html&quot; title=&quot;Fatigue&quot;&gt;fatigue&lt;/a&gt;&lt;/i&gt;&lt;/li&gt;&lt;li&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Lecture-De-La-Magie.html&quot; title=&quot;Lecture de la magie&quot;&gt;lecture de la magie&lt;/a&gt;&lt;/i&gt;&lt;/li&gt;&lt;li&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Lumi&#232;re.html&quot; title=&quot;Lumi&#232;re&quot;&gt;lumi&#232;re&lt;/a&gt;&lt;/i&gt;&lt;/li&gt;&lt;li&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Purification-De-Nourriture-Et-Deau.html&quot; title=&quot;Purification de nourriture et d&amp;#39;eau&quot;&gt;purification de nourriture et d’eau&lt;/a&gt;&lt;/i&gt;&lt;/li&gt;&lt;li&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;R&#233;paration.html&quot; title=&quot;R&#233;paration&quot;&gt;r&#233;paration&lt;/a&gt;&lt;/i&gt;&lt;/li&gt;&lt;li&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Son-Imaginaire.html&quot; title=&quot;Son imaginaire&quot;&gt;son imaginaire&lt;/a&gt;&lt;/i&gt;&lt;/li&gt;&lt;li&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Stabilisation.html&quot; title=&quot;Stabilisation&quot;&gt;stabilisation&lt;/a&gt;&lt;/i&gt;&lt;br /&gt;&lt;/li&gt;&lt;/ul&gt;&lt;br /&gt;&lt;/td&gt;&lt;td width=&quot;33%&quot;&gt;
+&lt;h3 class=&quot;separator&quot;&gt;1er niveau&lt;a class=&quot;headeranchor&quot; id=&quot;Ber_niveau_4&quot; href=&quot;#Ber_niveau_4&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;&lt;li&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;B&#233;n&#233;diction.html&quot; title=&quot;B&#233;n&#233;diction&quot;&gt;b&#233;n&#233;diction&lt;/a&gt;&lt;/i&gt;&lt;/li&gt;&lt;li&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Brume-De-Dissimulation.html&quot; title=&quot;Brume de dissimulation&quot;&gt;brume de dissimulation&lt;/a&gt;&lt;/i&gt;&lt;/li&gt;&lt;li&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Compr&#233;hension-Des-Langages.html&quot; title=&quot;Compr&#233;hension des langages&quot;&gt;compr&#233;hension des langages&lt;/a&gt;&lt;/i&gt;&lt;/li&gt;&lt;li&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;D&#233;tection-Du-Bien.html&quot; title=&quot;D&#233;tection du Bien&quot;&gt;d&#233;tection du Bien&lt;/a&gt;&lt;/i&gt;&lt;/li&gt;&lt;li&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;D&#233;tection-Du-Chaos.html&quot; title=&quot;D&#233;tection du Chaos&quot;&gt;d&#233;tection du Chaos&lt;/a&gt;&lt;/i&gt;&lt;/li&gt;&lt;li&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;D&#233;tection-De-La-Loi.html&quot; title=&quot;D&#233;tection de la Loi&quot;&gt;d&#233;tection de la Loi&lt;/a&gt;&lt;/i&gt;&lt;/li&gt;&lt;li&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;D&#233;tection-Du-Mal.html&quot; title=&quot;D&#233;tection du Mal&quot;&gt;d&#233;tection du Mal&lt;/a&gt;&lt;/i&gt;&lt;/li&gt;&lt;li&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Endurance-Aux-&#201;nergies-Destructives.html&quot; title=&quot;Endurance aux &#233;nergies destructives&quot;&gt;endurance aux &#233;nergies destructives&lt;/a&gt;&lt;/i&gt;&lt;/li&gt;&lt;li&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Frayeur.html&quot; title=&quot;Frayeur&quot;&gt;frayeur&lt;/a&gt;&lt;/i&gt;&lt;/li&gt;&lt;li&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Injonction.html&quot; title=&quot;Injonction&quot;&gt;injonction&lt;/a&gt;&lt;/i&gt;&lt;/li&gt;&lt;li&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Mains-Br&#251;lantes.html&quot; title=&quot;Mains br&#251;lantes&quot;&gt;mains br&#251;lantes&lt;/a&gt;&lt;/i&gt;&lt;/li&gt;&lt;li&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Protection-Contre-Le-Bien.html&quot; title=&quot;Protection contre le Bien&quot;&gt;protection contre le Bien&lt;/a&gt;&lt;/i&gt;&lt;/li&gt;&lt;li&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Protection-Contre-Le-Chaos.html&quot; title=&quot;Protection contre le Chaos&quot;&gt;protection contre le Chaos&lt;/a&gt;&lt;/i&gt;&lt;/li&gt;&lt;li&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Protection-Contre-La-Loi.html&quot; title=&quot;Protection contre la Loi&quot;&gt;protection contre la Loi&lt;/a&gt;&lt;/i&gt;&lt;/li&gt;&lt;li&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Protection-Contre-Le-Mal.html&quot; title=&quot;Protection contre le Mal&quot;&gt;protection contre le Mal&lt;/a&gt;&lt;/i&gt;&lt;/li&gt;&lt;li&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Soins-L&#233;gers.html&quot; title=&quot;Soins l&#233;gers&quot;&gt;soins l&#233;gers&lt;/a&gt;&lt;/i&gt;&lt;/li&gt;&lt;li&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Sommeil.html&quot; title=&quot;Sommeil&quot;&gt;sommeil&lt;/a&gt;&lt;/i&gt;&lt;br /&gt;&lt;/li&gt;&lt;/ul&gt;&lt;br /&gt;&lt;/td&gt;&lt;td width=&quot;33%&quot;&gt;
+&lt;h3 class=&quot;separator&quot;&gt;2e niveau&lt;a class=&quot;headeranchor&quot; id=&quot;Ce_niveau_5&quot; href=&quot;#Ce_niveau_5&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;&lt;li&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Aide.html&quot; title=&quot;Aide&quot;&gt;aide&lt;/a&gt;&lt;/i&gt;&lt;/li&gt;&lt;li&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;D&#233;tection-De-Linvisibilit&#233;.html&quot; title=&quot;D&#233;tection de l&amp;#39;invisibilit&#233;&quot;&gt;d&#233;tection de l’invisibilit&#233;&lt;/a&gt;&lt;/i&gt;&lt;/li&gt;&lt;li&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Endurance-De-Lours.html&quot; title=&quot;Endurance de l&amp;#39;ours&quot;&gt;endurance de l’ours&lt;/a&gt;&lt;/i&gt;&lt;/li&gt;&lt;li&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Force-De-Taureau.html&quot; title=&quot;Force de taureau&quot;&gt;force de taureau&lt;/a&gt;&lt;/i&gt;&lt;/li&gt;&lt;li&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Gr&#226;ce-F&#233;line.html&quot; title=&quot;Gr&#226;ce f&#233;line&quot;&gt;gr&#226;ce f&#233;line&lt;/a&gt;&lt;/i&gt;&lt;/li&gt;&lt;li&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Hypnose-Des-Animaux.html&quot; title=&quot;Hypnose des animaux&quot;&gt;hypnose des animaux&lt;/a&gt;&lt;/i&gt;&lt;/li&gt;&lt;li&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Image-Miroir.html&quot; title=&quot;Image miroir&quot;&gt;image miroir&lt;/a&gt;&lt;/i&gt;&lt;/li&gt;&lt;li&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Invisibilit&#233;.html&quot; title=&quot;Invisibilit&#233;&quot;&gt;invisibilit&#233;&lt;/a&gt;&lt;/i&gt;&lt;/li&gt;&lt;li&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Ralentissement-Du-Poison.html&quot; title=&quot;Ralentissement du poison&quot;&gt;ralentissement du poison&lt;/a&gt;&lt;/i&gt;&lt;/li&gt;&lt;li&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Rayon-Ardent.html&quot; title=&quot;Rayon ardent&quot;&gt;rayon ardent&lt;/a&gt;&lt;/i&gt;&lt;/li&gt;&lt;li&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;R&#233;sistance-Aux-&#201;nergies-Destructives.html&quot; title=&quot;R&#233;sistance aux &#233;nergies destructives&quot;&gt;r&#233;sistance aux &#233;nergies destructives&lt;/a&gt;&lt;/i&gt;&lt;/li&gt;&lt;li&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Soins-Mod&#233;r&#233;s.html&quot; title=&quot;Soins mod&#233;r&#233;s&quot;&gt;soins mod&#233;r&#233;s&lt;/a&gt;&lt;/i&gt;&lt;/li&gt;&lt;li&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;T&#233;n&#232;bres.html&quot; title=&quot;T&#233;n&#232;bres&quot;&gt;t&#233;n&#232;bres&lt;/a&gt;&lt;/i&gt;&lt;/li&gt;&lt;li&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Toile-Daraign&#233;e.html&quot; title=&quot;Toile d&amp;#39;araign&#233;e&quot;&gt;toile d’araign&#233;e&lt;/a&gt;&lt;/i&gt;&lt;br /&gt;&lt;/li&gt;&lt;/ul&gt;&lt;br /&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;
+&lt;h3 class=&quot;separator&quot;&gt;3e niveau&lt;a class=&quot;headeranchor&quot; id=&quot;De_niveau_6&quot; href=&quot;#De_niveau_6&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;&lt;li&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Animation-Des-Morts.html&quot; title=&quot;Animation des morts&quot;&gt;animation des morts&lt;/a&gt;&lt;/i&gt;&lt;/li&gt;&lt;li&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Contagion.html&quot; title=&quot;Contagion&quot;&gt;contagion&lt;/a&gt;&lt;/i&gt;&lt;/li&gt;&lt;li&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;D&#233;livrance-Des-Mal&#233;dictions.html&quot; title=&quot;D&#233;livrance des mal&#233;dictions&quot;&gt;d&#233;livrance des mal&#233;dictions&lt;/a&gt;&lt;/i&gt;&lt;/li&gt;&lt;li&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Don-Des-Langues.html&quot; title=&quot;Don des langues&quot;&gt;don des langues&lt;/a&gt;&lt;/i&gt;&lt;/li&gt;&lt;li&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;&#201;clair.html&quot; title=&quot;&#201;clair&quot;&gt;&#233;clair&lt;/a&gt;&lt;/i&gt;&lt;/li&gt;&lt;li&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Flamme-&#201;ternelle.html&quot; title=&quot;Flamme &#233;ternelle&quot;&gt;flamme &#233;ternelle&lt;/a&gt;&lt;/i&gt;&lt;/li&gt;&lt;li&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Gu&#233;rison-Des-Maladies.html&quot; title=&quot;Gu&#233;rison des maladies&quot;&gt;gu&#233;rison des maladies&lt;/a&gt;&lt;/i&gt;&lt;/li&gt;&lt;li&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Lumi&#232;re-Du-Jour.html&quot; title=&quot;Lumi&#232;re du jour&quot;&gt;lumi&#232;re du jour&lt;/a&gt;&lt;/i&gt;&lt;/li&gt;&lt;li&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Sort-Mal&#233;diction.html&quot; title=&quot;Mal&#233;diction&quot;&gt;sort mal&#233;diction&lt;/a&gt;&lt;/i&gt;&lt;/li&gt;&lt;li&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Neutralisation-Du-Poison.html&quot; title=&quot;Neutralisation du poison&quot;&gt;neutralisation du poison&lt;/a&gt;&lt;/i&gt;&lt;/li&gt;&lt;li&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Soins-Importants.html&quot; title=&quot;Soins importants&quot;&gt;soins importants&lt;/a&gt;&lt;/i&gt;&lt;/li&gt;&lt;li&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;T&#233;n&#232;bres-Profondes.html&quot; title=&quot;T&#233;n&#232;bres profondes&quot;&gt;t&#233;n&#232;bres profondes&lt;/a&gt;&lt;/i&gt;&lt;br /&gt;&lt;/li&gt;&lt;/ul&gt;&lt;br /&gt;&lt;/td&gt;&lt;td&gt;
+&lt;h3 class=&quot;separator&quot;&gt;4e niveau&lt;a class=&quot;headeranchor&quot; id=&quot;Ee_niveau_7&quot; href=&quot;#Ee_niveau_7&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;&lt;li&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;ation-Mineure.html&quot; title=&quot;Cr&#233;ation mineure&quot;&gt;cr&#233;ation mineure&lt;/a&gt;&lt;/i&gt;&lt;/li&gt;&lt;li&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;M&#233;tamorphose.html&quot; title=&quot;M&#233;tamorphose&quot;&gt;m&#233;tamorphose&lt;/a&gt;&lt;/i&gt;&lt;/li&gt;&lt;li&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Mur-De-Feu.html&quot; title=&quot;Mur de feu&quot;&gt;mur de feu&lt;/a&gt;&lt;/i&gt;&lt;/li&gt;&lt;li&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Peau-De-Pierre.html&quot; title=&quot;Peau de pierre&quot;&gt;peau de pierre&lt;/a&gt;&lt;/i&gt;&lt;/li&gt;&lt;li&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Restauration.html&quot; title=&quot;Restauration&quot;&gt;restauration&lt;/a&gt;&lt;/i&gt;&lt;/li&gt;&lt;li&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Soins-Intensifs.html&quot; title=&quot;Soins intensifs&quot;&gt;soins intensifs&lt;/a&gt;&lt;/i&gt;&lt;br /&gt;&lt;/li&gt;&lt;/ul&gt;&lt;br /&gt;&lt;/td&gt;&lt;td&gt;
+&lt;h3 class=&quot;separator&quot;&gt;5e niveau&lt;a class=&quot;headeranchor&quot; id=&quot;Fe_niveau_8&quot; href=&quot;#Fe_niveau_8&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;&lt;li&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Annulation-Denchantement.html&quot; title=&quot;Annulation d&amp;#39;enchantement&quot;&gt;annulation d’enchantement&lt;/a&gt;&lt;/i&gt;&lt;/li&gt;&lt;li&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;ation-Majeure.html&quot; title=&quot;Cr&#233;ation majeure&quot;&gt;cr&#233;ation majeure&lt;/a&gt;&lt;/i&gt;&lt;/li&gt;&lt;li&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Communion.html&quot; title=&quot;Communion&quot;&gt;communion&lt;/a&gt;&lt;/i&gt;&lt;/li&gt;&lt;li&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;M&#233;tamorphose-Funeste.html&quot; title=&quot;M&#233;tamorphose funeste&quot;&gt;m&#233;tamorphose funeste&lt;/a&gt;&lt;/i&gt;&lt;/li&gt;&lt;li&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Mur-De-Pierre.html&quot; title=&quot;Mur de pierre&quot;&gt;mur de pierre&lt;/a&gt;&lt;/i&gt;&lt;/li&gt;&lt;li&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Gu&#233;rison-Supr&#234;me.html&quot; title=&quot;Gu&#233;rison supr&#234;me&quot;&gt;gu&#233;rison supr&#234;me&lt;/a&gt;&lt;/i&gt;&lt;/li&gt;&lt;li&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Rappel-&#192;-La-Vie.html&quot; title=&quot;Rappel &#224; la vie&quot;&gt;rappel &#224; la vie&lt;/a&gt;&lt;/i&gt;&lt;/li&gt;&lt;li&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Vision-Lucide.html&quot; title=&quot;Vision lucide&quot;&gt;vision lucide&lt;/a&gt;&lt;/i&gt;&lt;br /&gt;&lt;/li&gt;&lt;/ul&gt;&lt;br /&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[{s:MenuClassesPNJ}
+
+<table><tr style="vertical-align: bottom"><td width="65%">
+<center>
+{| CLASS="tablo"
+|+ L’adepte
+|- CLASS="titre"
+| Niveau || BBA || Réflexes || Vigueur || Volonté
+| CLASS="gauche" | Spécial
+| 0 || 1er || 2e || 3e || 4e || 5e
+|- CLASS="alt"
+| 1 || +0 || +0 || +0 || +2
+| CLASS="gauche" | —
+| 3 || 1 || — || — || — || —
+|-
+| 2 || +1 || +0 || +0 || +3
+| CLASS="gauche" | [[adepte#FAMILIER|Convocation de familier]]
+| 3 || 1 || — || — || — || —
+|- CLASS="alt"
+| 3 || +1 || +1 || +1 || +3
+| CLASS="gauche" | —
+| 3 || 2 || — || — || — || —
+|-
+| 4 || +2 || +1 || +1 || +4
+| CLASS="gauche" | —
+| 3 || 2 || 0 || — || — || —
+|- CLASS="alt"
+| 5 || +2 || +1 || +1 || +4
+| CLASS="gauche" | —
+| 3 || 2 || 1 || — || — || —
+|-
+| 6 || +3 || +2 || +2 || +5
+| CLASS="gauche" | —
+| 3 || 2 || 1 || — || — || —
+|- CLASS="alt"
+| 7 || +3 || +2 || +2 || +5
+| CLASS="gauche" | —
+| 3 || 3 || 2 || — || — || —
+|-
+| 8 || +4 || +2 || +2 || +6
+| CLASS="gauche" | —
+| 3 || 3 || 2 || 0 || — || —
+|- CLASS="alt"
+| 9 || +4 || +3 || +3 || +6
+| CLASS="gauche" | —
+| 3 || 3 || 2 || 1 || — || —
+|-
+| 10 || +5 || +3 || +3 || +7
+| CLASS="gauche" | —
+| 3 || 3 || 2 || 1 || — || —
+|- CLASS="alt"
+| 11 || +5 || +3 || +3 || +7
+| CLASS="gauche" | —
+| 3 || 3 || 3 || 2 || — || —
+|-
+| 12 || +6/+1 || +4 || +4 || +8
+| CLASS="gauche" | —
+| 3 || 3 || 3 || 2 || 0 || —
+|- CLASS="alt"
+| 13 || +6/+1 || +4 || +4 || +8
+| CLASS="gauche" | —
+| 3 || 3 || 3 || 2 || 1 || —
+|-
+| 14 || +7/+2 || +4 || +4 || +9
+| CLASS="gauche" | —
+| 3 || 3 || 3 || 2 || 1 || —
+|- CLASS="alt"
+| 15 || +7/+2 || +5 || +5 || +9
+| CLASS="gauche" | —
+| 3 || 3 || 3 || 3 || 2 || —
+|-
+| 16 || +8/+3 || +5 || +5 || +10
+| CLASS="gauche" | —
+| 3 || 3 || 3 || 3 || 2 || 0
+|- CLASS="alt"
+| 17 || +8/+3 || +5 || +5 || +10
+| CLASS="gauche" | —
+| 3 || 3 || 3 || 3 || 2 || 1
+|-
+| 18 || +9/+4 || +6 || +6 || +11
+| CLASS="gauche" | —
+| 3 || 3 || 3 || 3 || 2 || 1
+|- CLASS="alt"
+| 19 || +9/+4 || +6 || +6 || +11
+| CLASS="gauche" | —
+| 3 || 3 || 3 || 3 || 3 || 2
+|-
+| 20 || +10/+5 || +6 || +6 || +12
+| CLASS="gauche" | —
+| 3 || 3 || 3 || 3 || 3 || 2
+|}
+</center></td>
+<td style="vertical-align: bottom"><center><img width="80%" src="http://www.pathfinder-fr.org/wiki/public/upload/Illustrations/PNJ/Adepte.jpg"/></center></td>
+</tr></table>
+
+'''Alignement.''' Tous.
+
+'''Dé de vie.''' d6.
+
+=== Compétences de classes ===
+Les compétences de l’adepte (et la caractéristique dont chacune dépend) sont : [[Artisanat]] (Int), [[Art de la magie]] (Int), [[Connaissances]] (au choix, chaque compétence devant être prise séparément) (Int), [[Dressage]] (Cha), [[Premiers secours]] (Sag), [[Profession]] (Sag), [[Survie]] (Sag).
+
+'''Points de compétence à chaque niveau.''' 2 + modificateur d’[[Intelligence]].
+
+=== Caractéristiques de la classe ===
+Voici les particularités et aptitudes de la classe de PNJ d’adepte.
+
+==== Armes et armures ====
+L’adepte est formé au maniement des [[arme courante|armes courantes]], mais pas au port des armures ou au maniement des boucliers.
+
+==== Sorts ====
+L’adepte lance des sorts de magie divine, qu’il choisit dans sa liste. Comme le [[prêtre]], il doit choisir et préparer ses sorts à l’avance. Il est cependant incapable de lancer spontanément soins ou blessures.
+
+Pour pouvoir lancer un sort donné, le personnage doit avoir une [[Sagesse]] au moins égale à 10 + [[niveau de sort|le niveau du sort]]. Le [[DD]] du [[jet de sauvegarde]] d’un sort lancé par un adepte est égal à 10 + le niveau du sort + le modificateur de [[Sagesse]] de l’adepte.
+
+Contrairement au [[magicien]], l’adepte ne peut acquérir ses sorts à l’aide de [[grimoire|grimoires]] ou de parchemins, pas plus que par l’étude. Il doit méditer ou prier et c’est l’inspiration divine ou sa propre foi qui les lui accorde. Chaque adepte doit choisir un moment dans la journée pendant lequel il passe une heure en contemplation ou en prière afin de regagner ses sorts. Le temps passé à se reposer n’a aucun effet sur la préparation de ces sorts.
+
+Comme les autres lanceurs de sorts, l’adepte ne peut lancer qu’un certain nombre de sorts de chaque niveau par jour, nombre qui est donné dans la table ci-dessus. Par ailleurs, une [[Sagesse]] élevée accorde des sorts en bonus.
+
+Chaque adepte a un symbole sacré particulier (qui sert de [[focalisateur]] divin), en fonction de sa tradition magique.
+
+{s:Reference|FAMILIER}
+==== Familier ====
+Au niveau 2, l’adepte peut appeler un [[familier]] en utilisant son pouvoir de convocation de familier.
+
+=== Liste de sorts de l’adepte ===
+Les adeptes choisissent leurs sorts dans la liste suivante.
+
+<table width="100%"><tr style="vertical-align: top"><td width="33%">
+====Niveau 0====
+
+* ''[[assistance divine]]''
+* ''[[création deau|création d’eau]]''
+* ''[[détection de la magie]]''
+* ''[[fatigue]]''
+* ''[[lecture de la magie]]''
+* ''[[lumière]]''
+* ''[[purification de nourriture et deau|purification de nourriture et d’eau]]''
+* ''[[réparation]]''
+* ''[[son imaginaire]]''
+* ''[[stabilisation]]''
+
+</td><td width="33%">
+====1er niveau====
+
+* ''[[bénédiction]]''
+* ''[[brume de dissimulation]]''
+* ''[[compréhension des langages]]''
+* ''[[détection du Bien]]''
+* ''[[détection du Chaos]]''
+* ''[[détection de la Loi]]''
+* ''[[détection du Mal]]''
+* ''[[endurance aux énergies destructives]]''
+* ''[[frayeur]]''
+* ''[[injonction]]''
+* ''[[mains brûlantes]]''
+* ''[[protection contre le Bien]]''
+* ''[[protection contre le Chaos]]''
+* ''[[protection contre la Loi]]''
+* ''[[protection contre le Mal]]''
+* ''[[soins légers]]''
+* ''[[sommeil]]''
+
+</td><td width="33%">
+====2e niveau====
+
+* ''[[aide]]''
+* ''[[détection de linvisibilité|détection de l’invisibilité]]''
+* ''[[endurance de lours|endurance de l’ours]]''
+* ''[[force de taureau]]''
+* ''[[grâce féline]]''
+* ''[[hypnose des animaux]]''
+* ''[[image miroir]]''
+* ''[[invisibilité]]''
+* ''[[ralentissement du poison]]''
+* ''[[rayon ardent]]''
+* ''[[résistance aux énergies destructives]]''
+* ''[[soins modérés]]''
+* ''[[ténèbres]]''
+* ''[[toile daraignée|toile d’araignée]]''
+
+</td></tr><tr><td>
+====3e niveau====
+
+* ''[[animation des morts]]''
+* ''[[contagion]]''
+* ''[[délivrance des malédictions]]''
+* ''[[don des langues]]''
+* ''[[éclair]]''
+* ''[[flamme éternelle]]''
+* ''[[guérison des maladies]]''
+* ''[[lumière du jour]]''
+* ''[[sort malédiction]]''
+* ''[[neutralisation du poison]]''
+* ''[[soins importants]]''
+* ''[[ténèbres profondes]]''
+
+</td><td>
+====4e niveau====
+
+* ''[[création mineure]]''
+* ''[[métamorphose]]''
+* ''[[mur de feu]]''
+* ''[[peau de pierre]]''
+* ''[[restauration]]''
+* ''[[soins intensifs]]''
+
+</td><td>
+====5e niveau====
+
+* ''[[annulation denchantement|annulation d’enchantement]]''
+* ''[[création majeure]]''
+* ''[[communion]]''
+* ''[[métamorphose funeste]]''
+* ''[[mur de pierre]]''
+* ''[[guérison suprême]]''
+* ''[[rappel à la vie]]''
+* ''[[vision lucide]]''
+
+</td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Adepte</fullName>
+</wikiPage>

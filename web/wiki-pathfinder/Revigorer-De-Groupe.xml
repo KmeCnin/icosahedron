@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Revigorer de groupe</title>
+  <categories><category>Pathfinder-RPG.Advanced Player Guide</category><category>Pathfinder-RPG.Règles officielles</category><category>Pathfinder-RPG.Sort</category><category>Pathfinder-RPG.Sort barde 3</category></categories>
+  <lastModified>2012-11-04 21:58:04Z</lastModified>
+  <version>7</version>
+  <inLinks><link>Pathfinder-RPG.Glossaire des sorts</link><link>Pathfinder-RPG.Liste des sorts (fin)</link><link>Pathfinder-RPG.Liste des sorts de bardes</link><link>Pathfinder-RPG.TMP sorts APG</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Illusion</link><link>Pathfinder-RPG.branche chimère</link><link>Pathfinder-RPG.Barde</link><link>Pathfinder-RPG.Action simple</link><link>Pathfinder-RPG.composantes</link><link>Pathfinder-RPG.Présentation des sorts</link><link>Pathfinder-RPG.niveau</link><link>Pathfinder-RPG.Volonté</link><link>Pathfinder-RPG.Fatigué</link><link>Pathfinder-RPG.Épuisé</link><link>Pathfinder-RPG.Dégâts non létaux</link><link>Pathfinder-RPG.Revigorer</link></outLinks>
+  <body><![CDATA[
+&lt;b&gt;&#201;cole&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#ILLUSION&quot; title=&quot;Illusion&quot;&gt;Illusion&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#CHIMERE&quot; title=&quot;Chim&#232;re&quot;&gt;chim&#232;re&lt;/a&gt;)&#160;; &lt;b&gt;Niveau&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Barde.html&quot; title=&quot;Le barde&quot;&gt;barde&lt;/a&gt; 3&lt;br/&gt;
+&lt;b&gt;Temps d&#39;incantation&lt;/b&gt; 1 &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions.html#SIMPLE&quot; title=&quot;Action simple&quot;&gt;action simple&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Composantes&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#COMPOSANTES&quot; title=&quot;composantes&quot;&gt;V&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Port&#233;e&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#PORTEE&quot; title=&quot;Pr&#233;sentation des sorts&quot;&gt;contact&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Cible&lt;/b&gt; cr&#233;atures touch&#233;es, jusqu&#39;&#224; une par &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#NIVEAU&quot; title=&quot;niveau&quot;&gt;niveau&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Dur&#233;e&lt;/b&gt; 10 minutes/&lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#NIVEAU&quot; title=&quot;niveau&quot;&gt;niveau&lt;/a&gt; (T)&lt;br/&gt;
+&lt;b&gt;Jet de sauvegarde&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;Volont&#233;&quot;&gt;Volont&#233;&lt;/a&gt; pour &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#JETSDESAUVEGARDE&quot; title=&quot;Pr&#233;sentation des sorts&quot;&gt;annuler&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#JETSDESAUVEGARDE&quot; title=&quot;Pr&#233;sentation des sorts&quot;&gt;inoffensif&lt;/a&gt;) ; &lt;b&gt;R&#233;sistance &#224; la magie&lt;/b&gt; oui (&lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#JETSDESAUVEGARDE&quot; title=&quot;Pr&#233;sentation des sorts&quot;&gt;inoffensif&lt;/a&gt;)&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Ce sort bannit tout sentiment de fatigue. Pendant toute sa dur&#233;e, les sujets ne subissent aucun malus s&#39;ils sont &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables.html#Fatigu&#233;&quot; title=&quot;Fatigu&#233;&quot;&gt;fatigu&#233;s&lt;/a&gt; ou &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables.html#&#201;puis&#233;&quot; title=&quot;&#201;puis&#233;&quot;&gt;&#233;puis&#233;s&lt;/a&gt;. Pourtant, les effets de &lt;i&gt;revigorer de groupe&lt;/i&gt; ne sont qu&#39;une &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#ILLUSION&quot; title=&quot;Illusion&quot;&gt;Illusion&lt;/a&gt;, pas un substitut &#224; une v&#233;ritable p&#233;riode de repos. &#192; la fin du sort, les personnages subissent 1d6 points de &lt;a class=&quot;pagelink&quot; href=&quot;Blessures-Et-Mort.html#NONLETAL&quot; title=&quot;D&#233;g&#226;ts non l&#233;taux&quot;&gt;d&#233;g&#226;ts non l&#233;taux&lt;/a&gt; et retrouvent leur condition initiale. Les cr&#233;atures ne peuvent b&#233;n&#233;ficier des effets que d&#39;un seul &lt;i&gt;revigorer de groupe&lt;/i&gt; &#224; la fois, si quelqu&#39;un leur en lance un second, les effets du premier se terminent imm&#233;diatement.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;box&quot;&gt;Ce sort fonctionne comme &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Revigorer.html&quot; title=&quot;Revigorer&quot;&gt;revigorer&lt;/a&gt;&lt;/i&gt; mais il affecte plusieurs cr&#233;atures.&lt;/div&gt;
+]]></body>
+  <raw><![CDATA[{s:APG}
+'''École''' [[Illusion]] ([[branche chimère|chimère]]) ; '''Niveau''' [[barde]] 3<br/>
+'''Temps d'incantation''' 1 [[action simple]]<br/>
+'''Composantes''' [[Composantes|V]]<br/>
+'''Portée''' [[Présentation des sorts#PORTEE|contact]]<br/>
+'''Cible''' créatures touchées, jusqu'à une par [[niveau]]<br/>
+'''Durée''' 10 minutes/[[niveau]] (T)<br/>
+'''Jet de sauvegarde''' [[Volonté]] pour [[Présentation des sorts#JETSDESAUVEGARDE|annuler]] ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]]) ; '''Résistance à la magie''' oui ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]])
+
+
+
+Ce sort bannit tout sentiment de fatigue. Pendant toute sa durée, les sujets ne subissent aucun malus s'ils sont [[fatigué|fatigués]] ou [[épuisé|épuisés]]. Pourtant, les effets de ''revigorer de groupe'' ne sont qu'une [[Illusion]], pas un substitut à une véritable période de repos. À la fin du sort, les personnages subissent 1d6 points de [[dégâts non létaux]] et retrouvent leur condition initiale. Les créatures ne peuvent bénéficier des effets que d'un seul ''revigorer de groupe'' à la fois, si quelqu'un leur en lance un second, les effets du premier se terminent immédiatement.
+
+
+
+
+
+(((Ce sort fonctionne comme ''[[revigorer]]'' mais il affecte plusieurs créatures.)))
+]]></raw>
+  <fullName>Pathfinder-RPG.Revigorer de groupe</fullName>
+</wikiPage>

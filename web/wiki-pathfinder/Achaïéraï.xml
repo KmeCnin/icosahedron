@@ -1,0 +1,125 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Achaïéraï</title>
+  <categories><category>Pathfinder-RPG.Bestiaire 2</category><category>Pathfinder-RPG.Monstre</category><category>Pathfinder-RPG.Règles officielles</category></categories>
+  <lastModified>2013-02-02 13:04:10Z</lastModified>
+  <version>4</version>
+  <inLinks><link>Pathfinder-RPG.Glossaire des monstres</link><link>Pathfinder-RPG.Liste de monstres par FP</link><link>Pathfinder-RPG.Liste de monstres par milieu naturel</link><link>Pathfinder-RPG.Liste de monstres par type</link><link>Pathfinder-RPG.Monstres</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.type Extérieur</link><link>Pathfinder-RPG.sous-type extraplanaire</link><link>Pathfinder-RPG.sous-type Loi</link><link>Pathfinder-RPG.sous-type Mal</link><link>Pathfinder-RPG.vision dans le noir</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.croc-en-jambe</link><link>Pathfinder-RPG.Attaque éclair</link><link>Pathfinder-RPG.Attaques réflexes</link><link>Pathfinder-RPG.Esquive</link><link>Pathfinder-RPG.Souplesse du serpent</link><link>Pathfinder-RPG.Acrobaties</link><link>Pathfinder-RPG.Discrétion</link><link>Pathfinder-RPG.Escalade</link><link>Pathfinder-RPG.Natation</link><link>Pathfinder-RPG.Psychologie</link><link>Pathfinder-RPG.Vol</link><link>Pathfinder-RPG.jet de sauvegarde</link><link>Pathfinder-RPG.DD</link><link>Pathfinder-RPG.Confus</link><link>Pathfinder-RPG.round</link><link>Pathfinder-RPG.effet mental</link><link>Pathfinder-RPG.Constitution</link><link>Pathfinder-RPG.poison</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Acha&#239;&#233;ra&#239;&lt;div style=&quot;float:right;&quot;&gt;FP 5&lt;/div&gt;&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Bestiaire 2 page 9&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 1.600
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Ext&#233;rieur.html&quot; title=&quot;Ext&#233;rieur&quot;&gt;Ext&#233;rieur&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Extraplanaire.html&quot; title=&quot;Extraplanaire (sous-type)&quot;&gt;extraplanaire&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Loi.html&quot; title=&quot;Loi (sous-type)&quot;&gt;Loi&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Mal.html&quot; title=&quot;Mal (sous-type)&quot;&gt;Mal&lt;/a&gt;) de taille G, LM
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +1 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Capacit&#233;s-Sp&#233;ciales.html#VISIONDANSLENOIR&quot; title=&quot;vision dans le noir&quot;&gt;vision dans le noir&lt;/a&gt; 18 m (12 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +12
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 20, contact 11, pris au d&#233;pourvu 18 (Dex +1, naturelle +9, taille -1)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 52 (7d10+14)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +6, &lt;b&gt;Vig&lt;/b&gt; +7, &lt;b&gt;Vol&lt;/b&gt; +4
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;RM&lt;/b&gt; 20 
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 15 m (12 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; morsure, +10 (2d6+4) et 2 griffes, +10 (1d6+4)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Espace&lt;/b&gt; 3 m (2 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) ; &lt;b&gt;Allonge&lt;/b&gt; 3 m (2 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) pour les griffes
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaques sp&#233;ciales&lt;/b&gt; nuage noir
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Statistiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 19, &lt;b&gt;Dex&lt;/b&gt; 13, &lt;b&gt;Con&lt;/b&gt; 14, &lt;b&gt;Int&lt;/b&gt; 11, &lt;b&gt;Sag&lt;/b&gt; 14, &lt;b&gt;Cha&lt;/b&gt; 16
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +7, &lt;b&gt;BMO&lt;/b&gt; +12, &lt;b&gt;DMD&lt;/b&gt; 24 (28 contre &lt;a class=&quot;pagelink&quot; href=&quot;Croc-En-Jambe.html&quot; title=&quot;croc-en-jambe&quot;&gt;croc-en-jambe&lt;/a&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Attaque-&#201;clair.html&quot; title=&quot;Attaque &#233;clair&quot;&gt;Attaque &#233;clair&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Attaques-R&#233;flexes.html&quot; title=&quot;Attaques r&#233;flexes&quot;&gt;Attaques r&#233;flexes&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Esquive.html&quot; title=&quot;Esquive&quot;&gt;Esquive&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Souplesse-Du-Serpent.html&quot; title=&quot;Souplesse du serpent&quot;&gt;souplesse du serpent&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Acrobaties.html&quot; title=&quot;Acrobaties&quot;&gt;Acrobaties&lt;/a&gt; +11 (+19 pour sauter), &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; +7, &lt;a class=&quot;pagelink&quot; href=&quot;Escalade.html&quot; title=&quot;Escalade&quot;&gt;Escalade&lt;/a&gt; +14, &lt;a class=&quot;pagelink&quot; href=&quot;Natation.html&quot; title=&quot;Natation&quot;&gt;Natation&lt;/a&gt; +14, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +12, &lt;a class=&quot;pagelink&quot; href=&quot;Psychologie.html&quot; title=&quot;Psychologie&quot;&gt;Psychologie&lt;/a&gt; +12, &lt;a class=&quot;pagelink&quot; href=&quot;Vol.html&quot; title=&quot;Vol&quot;&gt;Vol&lt;/a&gt; +0
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Langues&lt;/b&gt; infernal
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; terre ferme (enfer)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation sociale&lt;/b&gt; solitaire ou troupeau (5-8)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; standard
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Capacit&#233;s sp&#233;ciales&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Nuage noir (Sur).&lt;/b&gt; Un acha&#239;&#233;ra&#239; peut expirer un nuage de fum&#233;e &#233;touffante et toxique trois fois par jour. Toutes les cr&#233;atures situ&#233;es dans un rayon de 3 m&#232;tres autour de l’acha&#239;&#233;ra&#239; voient leurs chairs fondre et pourrir et subissent imm&#233;diatement 2d6 points de d&#233;g&#226;ts. Le nuage n’attaque pas seulement la chair mais aussi l’esprit : toutes les cr&#233;atures qui ont &#233;t&#233; bless&#233;es par le nuage doivent r&#233;ussir un &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;jet de sauvegarde&quot;&gt;jet de Vigueur&lt;/a&gt; de &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DEGREDEDIFFICULTE&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; 15 pour ne pas &#234;tre &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables.html#Confus&quot; title=&quot;Confus&quot;&gt;confuses&lt;/a&gt;. Chaque &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#ROUND&quot; title=&quot;round&quot;&gt;round&lt;/a&gt;, la victime peut tenter un nouveau &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;jet de sauvegarde&quot;&gt;jet de Vigueur&lt;/a&gt; contre un &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DEGREDEDIFFICULTE&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; de 15 pour mettre un terme &#224; la confusion. La confusion persiste jusqu’&#224; ce que la victime r&#233;ussisse un &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;jet de sauvegarde&quot;&gt;jet de sauvegarde&lt;/a&gt; (&#224; moins qu’on y mette un terme en employant un sort ou une autre m&#233;thode). L’effet de confusion est un &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#REGISTRE&quot; title=&quot;effet mental&quot;&gt;effet mental&lt;/a&gt;. Le &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DEGREDEDIFFICULTE&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; du jet de sauvegarde d&#233;pend de la &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#CONSTITUTION&quot; title=&quot;La Constitution&quot;&gt;Constitution&lt;/a&gt;. Il s’agit d’un effet de &lt;a class=&quot;pagelink&quot; href=&quot;Poisons.html&quot; title=&quot;poison&quot;&gt;poison&lt;/a&gt;. Les acha&#239;&#233;ra&#239;s sont immunis&#233;s contre les effets du nuage noir.
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;td&gt;&lt;div&gt;
+&lt;i&gt;Le corps de cette esp&#232;ce d’oiseau se r&#233;duit quasiment &#224; une t&#234;te mont&#233;e sur quatre pattes couvertes d’&#233;cailles. Des fum&#233;es noires sortent de son bec.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Les acha&#239;&#233;ra&#239;s sont des pr&#233;dateurs et des charognards issus des plans Inf&#233;rieurs. Ils ressemblent &#224; des oiseaux de 4,50 m&#232;tres de hauteur, dot&#233;s de quatre pattes et d’ailes atrophi&#233;es incapables de les porter en vol, et dont la t&#234;te et le corps ont fusionn&#233; pour ne former qu’un seul bloc. L’&#233;pais plumage huileux qui recouvre leur corps rend leurs ailes minuscules pratiquement invisibles. Un acha&#239;&#233;ra&#239; adulte p&#232;se quelque 375 kg.&lt;br /&gt;&lt;br /&gt;Les acha&#239;&#233;ra&#239;s ne sont pas des diables, mais ils vivent et chassent sur les plaines calcin&#233;es et d&#233;vast&#233;es de l’Enfer, o&#249; leurs longues pattes ressemblant &#224; des &#233;chasses leur sont bien utiles pour pourchasser les &#226;mes perdues ou les diables mineurs qui s’aventurent sur leur territoire de chasse. Une fois qu’ils se sont rapproch&#233;s de leur proie, les acha&#239;&#233;ra&#239;s la frappent ou la griffent avec leurs deux pattes avant et utilisent leur puissant bec pour la mordre. Les acha&#239;&#233;ra&#239;s sont bien plus intelligents que ce que leur forme quasi animale pourrait laisser penser. Ils pr&#233;f&#232;rent se rassembler en meutes hurlantes pour chasser. Tirant parti de la confusion de leur proie et de leur allonge sup&#233;rieure, ils encerclent leur cible puis fondent sur elle et l’attaque d&#232;s qu’elle est distraite, avant de battre en retraite sans lui laisser l’occasion de contre-attaquer. Les acha&#239;&#233;ra&#239;s se prom&#232;nent parfois sur les champs de bataille des plans Inf&#233;rieurs pour se repa&#238;tre des mourants ainsi que des cr&#233;atures et des &#226;mes capables de se r&#233;g&#233;n&#233;rer. Cette habitude leur a valu le surnom de &#171; vautours de l’Enfer &#187;. Comme les acha&#239;&#233;ra&#239;s sont immunis&#233;s contre les effets des nuages toxiques produits par les autres individus de leur race, ils oeuvrent souvent de concert et utilisent cette
+capacit&#233; pour rassembler ou diviser leurs ennemis, pour former de longues lignes de nuages noirs afin de prot&#233;ger leur retraite ou simplement pour semer la panique chez leurs ennemis lorsque ceux-ci sont nombreux. Les acha&#239;&#233;ra&#239;s adorent &#233;ventrer leurs victimes et se repa&#238;tre de leurs entrailles chaudes pendant que celles-ci hurlent jusqu’&#224; leur dernier souffle. Bien s&#251;r, en tant qu’Ext&#233;rieurs, les acha&#239;&#233;ra&#239;s n’ont pas besoin de manger : ces rituels de chasse complexes ne sont pas n&#233;cessaires, il s’agit simplement du passe-temps pr&#233;f&#233;r&#233; de ces oiseaux monstrueux.
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Achaïéraï|FP 5}
+{s:pucem|Extérieur|Plaines|Extraplanaire}
+{s:BDTexte|''Source : Bestiaire 2 page 9''}
+{s:BDTexte|'''PX''' 1.600}
+{s:BDTexte|[[type Extérieur|Extérieur]] ([[sous-type extraplanaire|extraplanaire]], [[sous-type Loi|Loi]], [[sous-type Mal|Mal]]) de taille G, LM}
+{s:BDTexte|'''Init''' +1 ; '''Sens''' [[vision dans le noir]] 18 m (12 {s:c}) ; [[Perception]] +12}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 20, contact 11, pris au dépourvu 18 (Dex +1, naturelle +9, taille -1)}
+{s:BDTexte|'''pv''' 52 (7d10+14)}
+{s:BDTexte|'''Réf''' +6, '''Vig''' +7, '''Vol''' +4}
+{s:BDTexte|'''RM''' 20 }
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 15 m (12 {s:c})}
+{s:BDTexte|'''Corps à corps''' morsure, +10 (2d6+4) et 2 griffes, +10 (1d6+4)}
+{s:BDTexte|'''Espace''' 3 m (2 {s:c}) ; '''Allonge''' 3 m (2 {s:c}) pour les griffes}
+{s:BDTexte|'''Attaques spéciales''' nuage noir}
+{s:BDSousTitre|Statistiques}
+{s:BDTexte|'''For''' 19, '''Dex''' 13, '''Con''' 14, '''Int''' 11, '''Sag''' 14, '''Cha''' 16}
+{s:BDTexte|'''BBA''' +7, '''BMO''' +12, '''DMD''' 24 (28 contre [[croc-en-jambe]])}
+{s:BDTexte|'''Dons''' [[Attaque éclair]], [[Attaques réflexes]], [[Esquive]], [[souplesse du serpent]]}
+{s:BDTexte|'''Compétences''' [[Acrobaties]] +11 (+19 pour sauter), [[Discrétion]] +7, [[Escalade]] +14, [[Natation]] +14, [[Perception]] +12, [[Psychologie]] +12, [[Vol]] +0}
+{s:BDTexte|'''Langues''' infernal}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' terre ferme (enfer)}
+{s:BDTexte|'''Organisation sociale''' solitaire ou troupeau (5-8)}
+{s:BDTexte|'''Trésor''' standard}
+{s:BDSousTitre|Capacités spéciales}
+{s:BDTexte|'''Nuage noir (Sur).''' Un achaïéraï peut expirer un nuage de fumée étouffante et toxique trois fois par jour. Toutes les créatures situées dans un rayon de 3 mètres autour de l’achaïéraï voient leurs chairs fondre et pourrir et subissent immédiatement 2d6 points de dégâts. Le nuage n’attaque pas seulement la chair mais aussi l’esprit : toutes les créatures qui ont été blessées par le nuage doivent réussir un [[jet de sauvegarde|jet de Vigueur]] de [[DD]] 15 pour ne pas être [[confus|confuses]]. Chaque [[round]], la victime peut tenter un nouveau [[jet de sauvegarde|jet de Vigueur]] contre un [[DD]] de 15 pour mettre un terme à la confusion. La confusion persiste jusqu’à ce que la victime réussisse un [[jet de sauvegarde|jet de sauvegarde]] (à moins qu’on y mette un terme en employant un sort ou une autre méthode). L’effet de confusion est un [[effet mental]]. Le [[DD]] du jet de sauvegarde dépend de la [[Constitution]]. Il s’agit d’un effet de [[poison]]. Les achaïéraïs sont immunisés contre les effets du nuage noir.}
+</div>
+</td><td><div>
+''Le corps de cette espèce d’oiseau se réduit quasiment à une tête montée sur quatre pattes couvertes d’écailles. Des fumées noires sortent de son bec.''
+
+Les achaïéraïs sont des prédateurs et des charognards issus des plans Inférieurs. Ils ressemblent à des oiseaux de 4,50 mètres de hauteur, dotés de quatre pattes et d’ailes atrophiées incapables de les porter en vol, et dont la tête et le corps ont fusionné pour ne former qu’un seul bloc. L’épais plumage huileux qui recouvre leur corps rend leurs ailes minuscules pratiquement invisibles. Un achaïéraï adulte pèse quelque 375 kg.
+
+Les achaïéraïs ne sont pas des diables, mais ils vivent et chassent sur les plaines calcinées et dévastées de l’Enfer, où leurs longues pattes ressemblant à des échasses leur sont bien utiles pour pourchasser les âmes perdues ou les diables mineurs qui s’aventurent sur leur territoire de chasse. Une fois qu’ils se sont rapprochés de leur proie, les achaïéraïs la frappent ou la griffent avec leurs deux pattes avant et utilisent leur puissant bec pour la mordre. Les achaïéraïs sont bien plus intelligents que ce que leur forme quasi animale pourrait laisser penser. Ils préfèrent se rassembler en meutes hurlantes pour chasser. Tirant parti de la confusion de leur proie et de leur allonge supérieure, ils encerclent leur cible puis fondent sur elle et l’attaque dès qu’elle est distraite, avant de battre en retraite sans lui laisser l’occasion de contre-attaquer. Les achaïéraïs se promènent parfois sur les champs de bataille des plans Inférieurs pour se repaître des mourants ainsi que des créatures et des âmes capables de se régénérer. Cette habitude leur a valu le surnom de « vautours de l’Enfer ». Comme les achaïéraïs sont immunisés contre les effets des nuages toxiques produits par les autres individus de leur race, ils oeuvrent souvent de concert et utilisent cette
+capacité pour rassembler ou diviser leurs ennemis, pour former de longues lignes de nuages noirs afin de protéger leur retraite ou simplement pour semer la panique chez leurs ennemis lorsque ceux-ci sont nombreux. Les achaïéraïs adorent éventrer leurs victimes et se repaître de leurs entrailles chaudes pendant que celles-ci hurlent jusqu’à leur dernier souffle. Bien sûr, en tant qu’Extérieurs, les achaïéraïs n’ont pas besoin de manger : ces rituels de chasse complexes ne sont pas nécessaires, il s’agit simplement du passe-temps préféré de ces oiseaux monstrueux.
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Achaïéraï</fullName>
+</wikiPage>

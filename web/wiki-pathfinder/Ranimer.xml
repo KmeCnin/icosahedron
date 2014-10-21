@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Ranimer</title>
+  <categories><category>Pathfinder-RPG.Art de la Magie</category><category>Pathfinder-RPG.Mots de pouvoir</category><category>Pathfinder-RPG.Règles officielles</category></categories>
+  <lastModified>2012-09-27 21:39:06Z</lastModified>
+  <version>2</version>
+  <inLinks><link>Pathfinder-RPG.Liste des mots de pouvoirs par classe</link><link>Pathfinder-RPG.Listes des mots de pouvoirs (temporaire)</link><link>Pathfinder-RPG.Mots effets</link><link>Pathfinder-RPG.Toucher de vie</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Invocation</link><link>Pathfinder-RPG.branche guérison</link><link>Pathfinder-RPG.Prêtre</link><link>Pathfinder-RPG.Druide</link><link>Pathfinder-RPG.Sorcière</link><link>Pathfinder-RPG.instantanée</link><link>Pathfinder-RPG.Choisi</link><link>Pathfinder-RPG.NLS</link><link>Pathfinder-RPG.DV</link><link>Pathfinder-RPG.type Mort-vivant</link><link>Pathfinder-RPG.type Créature artificielle</link><link>Pathfinder-RPG.type Extérieur</link></outLinks>
+  <body><![CDATA[
+&lt;b&gt;&#201;cole&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#INVOCATION&quot; title=&quot;Invocation&quot;&gt;invocation&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#GUERISON&quot; title=&quot;Gu&#233;rison&quot;&gt;gu&#233;rison&lt;/a&gt;) ; &lt;b&gt;Niveau&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#234;tre.html&quot; title=&quot;Le pr&#234;tre&quot;&gt;pr&#234;tre&lt;/a&gt; 5, &lt;a class=&quot;pagelink&quot; href=&quot;Druide.html&quot; title=&quot;Le druide&quot;&gt;druide&lt;/a&gt; 5, &lt;a class=&quot;pagelink&quot; href=&quot;Sorci&#232;re.html&quot; title=&quot;La sorci&#232;re&quot;&gt;sorci&#232;re&lt;/a&gt; 5&lt;br /&gt;
+&lt;b&gt;Dur&#233;e&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#DUREE&quot; title=&quot;instantan&#233;e&quot;&gt;instantan&#233;e&lt;/a&gt;&lt;br /&gt;
+&lt;b&gt;Jet de sauvegarde&lt;/b&gt; aucun ; &lt;b&gt;R&#233;sistance &#224; la magie&lt;/b&gt; oui (inoffensif )&lt;br /&gt;
+&lt;b&gt;Restriction de cible&lt;/b&gt; &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Choisi.html&quot; title=&quot;Choisi&quot;&gt;choisi&lt;/a&gt;&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Ce mot effet ram&#232;ne &#224; la vie une cr&#233;ature vivante qui est morte depuis 1 heure par &lt;a class=&quot;pagelink&quot; href=&quot;Lancer-Des-Sorts.html#NLS&quot; title=&quot;NLS&quot;&gt;niveau de lanceur&lt;/a&gt;. L’&#226;me de la cible re&#231;oit une image claire du personnage et elle peut choisir de ne pas revenir, ce qui fera &#233;chouer le sort. Si elle accepte, elle n’a pas de jet de sauvegarde.&lt;br /&gt;
+La cr&#233;ature est ramen&#233;e &#224; la vie avec 1 point de vie, &#224; moins qu’un autre mot effet ne modifie ce total. De plus, elle perd la moiti&#233; des sorts qu’elle avait pr&#233;par&#233;s ou des emplacements de sorts dont elle disposait avant de mourir
+(d&#233;termin&#233;s de mani&#232;re al&#233;atoire). Revenir d’entre les morts de cette mani&#232;re est une &#233;preuve difficile et la cible re&#231;oit trois niveaux n&#233;gatifs permanents suite &#224; cette exp&#233;rience (si elle n’a pas au moins 4 &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DESDEVIE&quot; title=&quot;DV&quot;&gt;DV&lt;/a&gt;, le sort n’a aucun effet).&lt;br /&gt;
+Si le sort gu&#233;rit les blessures mortelles que la victime a subies, son corps doit &#234;tre entier pour que le mot effet
+fonctionne. Les parties manquantes le seront toujours lorsqu’elle reviendra. Les poisons et les maladies mortelles sont &#233;galement soign&#233;es mais les afflictions magiques demeurent. Les &lt;a class=&quot;pagelink&quot; href=&quot;Type-Mort-Vivant.html&quot; title=&quot;Mort-vivant&quot;&gt;morts-vivants&lt;/a&gt; ne sont pas affect&#233;s par le sort, pas plus que leurs cadavres. Les &lt;a class=&quot;pagelink&quot; href=&quot;Type-Cr&#233;ature-Artificielle.html&quot; title=&quot;Cr&#233;ature artificielle&quot;&gt;cr&#233;atures artificielles&lt;/a&gt; et les &lt;a class=&quot;pagelink&quot; href=&quot;Type-Ext&#233;rieur.html&quot; title=&quot;Ext&#233;rieur&quot;&gt;ext&#233;rieurs&lt;/a&gt; ne peuvent &#234;tre ramen&#233;s &#224; la vie gr&#226;ce &#224; l’usage de ce mot effet, pas plus que les cibles mortes de vieillesse.
+]]></body>
+  <raw><![CDATA[{s:UM}
+'''École''' [[invocation]] ([[branche guérison|guérison]]) ; '''Niveau''' [[prêtre]] 5, [[druide]] 5, [[sorcière]] 5<br>
+'''Durée''' [[instantanée]]<br>
+'''Jet de sauvegarde''' aucun ; '''Résistance à la magie''' oui (inoffensif )<br>
+'''Restriction de cible''' ''[[choisi]]''
+
+Ce mot effet ramène à la vie une créature vivante qui est morte depuis 1 heure par [[NLS|niveau de lanceur]]. L’âme de la cible reçoit une image claire du personnage et elle peut choisir de ne pas revenir, ce qui fera échouer le sort. Si elle accepte, elle n’a pas de jet de sauvegarde.<br>
+La créature est ramenée à la vie avec 1 point de vie, à moins qu’un autre mot effet ne modifie ce total. De plus, elle perd la moitié des sorts qu’elle avait préparés ou des emplacements de sorts dont elle disposait avant de mourir
+(déterminés de manière aléatoire). Revenir d’entre les morts de cette manière est une épreuve difficile et la cible reçoit trois niveaux négatifs permanents suite à cette expérience (si elle n’a pas au moins 4 [[DV]], le sort n’a aucun effet).<br>
+Si le sort guérit les blessures mortelles que la victime a subies, son corps doit être entier pour que le mot effet
+fonctionne. Les parties manquantes le seront toujours lorsqu’elle reviendra. Les poisons et les maladies mortelles sont également soignées mais les afflictions magiques demeurent. Les [[type Mort-vivant|morts-vivants]] ne sont pas affectés par le sort, pas plus que leurs cadavres. Les [[type Créature artificielle|créatures artificielles]] et les [[type Extérieur|extérieurs]] ne peuvent être ramenés à la vie grâce à l’usage de ce mot effet, pas plus que les cibles mortes de vieillesse.]]></raw>
+  <fullName>Pathfinder-RPG.Ranimer</fullName>
+</wikiPage>

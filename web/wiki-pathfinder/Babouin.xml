@@ -1,0 +1,111 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Babouin</title>
+  <categories><category>Pathfinder-RPG.Bestiaire</category><category>Pathfinder-RPG.Monstre</category></categories>
+  <lastModified>2014-04-02 12:52:01Z</lastModified>
+  <version>9</version>
+  <inLinks><link>Pathfinder-RPG.Glossaire des monstres</link><link>Pathfinder-RPG.Liste de monstres par FP</link><link>Pathfinder-RPG.Liste de monstres par milieu naturel</link><link>Pathfinder-RPG.Liste de monstres par type</link><link>Pathfinder-RPG.Monstres</link><link>Pathfinder-RPG.Pugwampi</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.type Animal</link><link>Pathfinder-RPG.vision nocturne</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Attaque en finesse</link><link>Pathfinder-RPG.Acrobaties</link><link>Pathfinder-RPG.Escalade</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Babouin&lt;div style=&quot;float:right;&quot;&gt;FP 1/2&lt;/div&gt;&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Bestiaire 2 p.222&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;XP&lt;/b&gt; 200
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Animal.html&quot; title=&quot;Animal&quot;&gt;Animal&lt;/a&gt; de taille P, M
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +2 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Nocturne-(Capacit&#233;).html&quot; title=&quot;vision nocturne&quot;&gt;vision nocturne&lt;/a&gt; (12 cases) ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +1
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 13, contact 13, pris au d&#233;pourvu 10 (Dex +2, parade +1)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 5 (1d8+1)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +4, &lt;b&gt;Vig&lt;/b&gt; +3, &lt;b&gt;Vol&lt;/b&gt; +1
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 9m (6&lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; morsure +3 (1d4+1)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 12, &lt;b&gt;Dex&lt;/b&gt; 15, &lt;b&gt;Con&lt;/b&gt; 12, &lt;b&gt;Int&lt;/b&gt; 2, &lt;b&gt;Sag&lt;/b&gt; 12, &lt;b&gt;Cha&lt;/b&gt; 5
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +0, &lt;b&gt;BMO&lt;/b&gt; +0, &lt;b&gt;DMD&lt;/b&gt; 12
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Attaque-En-Finesse.html&quot; title=&quot;Attaque en finesse&quot;&gt;Attaque en finesse&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Acrobaties.html&quot; title=&quot;Acrobaties&quot;&gt;Acrobaties&lt;/a&gt; +10, &lt;a class=&quot;pagelink&quot; href=&quot;Escalade.html&quot; title=&quot;Escalade&quot;&gt;Escalade&lt;/a&gt; +5
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; for&#234;ts/plaines chaudes
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation sociale&lt;/b&gt; solitaire, couple ou groupe (3-6)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; aucun
+&lt;/div&gt;
+&lt;/td&gt;&lt;td&gt;&lt;div&gt;
+&lt;i&gt;Cet animal robuste et couvert de poils poss&#232;de des pouces opposables, un
+museau carr&#233; et des fesses rouge vif.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Les babouins sont c&#233;l&#232;bres pour leur nature agressive et leur apparence bien distinctive caract&#233;ris&#233;e par une m&#226;choire canine garnie de dents ac&#233;r&#233;es, des muscles maxillaires puissants, une queue courte et des cales pro&#233;minentes sur un fessier de couleur vive. M&#234;me s’ils sont principalement v&#233;g&#233;tariens, certains babouins d&#233;vorent aussi des poissons, des insectes, des crustac&#233;s et d’autres petits animaux. Ces cr&#233;atures r&#233;agissent rapidement et avec grande f&#233;rocit&#233; pour prot&#233;ger leur territoire contre les intrus.
+Un babouin mesure 90 cm de hauteur et p&#232;se 35 kg.&lt;br /&gt;&lt;br /&gt;&lt;h3 class=&quot;separator&quot;&gt;Le babouin comme compagnon animal&lt;a class=&quot;headeranchor&quot; id=&quot;Le_babouin_comme_compagnon_animal_0&quot; href=&quot;#Le_babouin_comme_compagnon_animal_0&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;&lt;b&gt;Caract&#233;ristiques de d&#233;part. Taille&lt;/b&gt; P ; &lt;b&gt;Vitesse&lt;/b&gt; 9 m ; &lt;b&gt;Attaque&lt;/b&gt;
+morsure (1d4) ; &lt;b&gt;Caract&#233;ristiques&lt;/b&gt; For 12, Dex 15, Con 12, Int 2,
+Sag 12, Cha 5 ; &lt;b&gt;Particularit&#233;s&lt;/b&gt; vision nocturne.
+&lt;b&gt;&#201;volution au niveau 4. Caract&#233;ristiques&lt;/b&gt; For +2, Con +2.
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Babouin|FP 1/2}
+{s:pucem|Animal|Forêt-Jungle|Tropical}
+{s:BDTexte|''Source : Bestiaire 2 p.222''}
+{s:BDTexte|'''XP''' 200}
+{s:BDTexte|[[type Animal|Animal]] de taille P, M}
+{s:BDTexte|'''Init''' +2 ; '''Sens''' [[vision nocturne]] (12 cases) ; [[Perception]] +1}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 13, contact 13, pris au dépourvu 10 (Dex +2, parade +1)}
+{s:BDTexte|'''pv''' 5 (1d8+1)}
+{s:BDTexte|'''Réf''' +4, '''Vig''' +3, '''Vol''' +1}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 9m (6{s:c})}
+{s:BDTexte|'''Corps à corps''' morsure +3 (1d4+1)}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 12, '''Dex''' 15, '''Con''' 12, '''Int''' 2, '''Sag''' 12, '''Cha''' 5}
+{s:BDTexte|'''BBA''' +0, '''BMO''' +0, '''DMD''' 12}
+{s:BDTexte|'''Dons''' [[Attaque en finesse]]}
+{s:BDTexte|'''Compétences''' [[Acrobaties]] +10, [[Escalade]] +5}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' forêts/plaines chaudes}
+{s:BDTexte|'''Organisation sociale''' solitaire, couple ou groupe (3-6)}
+{s:BDTexte|'''Trésor''' aucun}
+</td><td><div>
+''Cet animal robuste et couvert de poils possède des pouces opposables, un
+museau carré et des fesses rouge vif.''
+
+Les babouins sont célèbres pour leur nature agressive et leur apparence bien distinctive caractérisée par une mâchoire canine garnie de dents acérées, des muscles maxillaires puissants, une queue courte et des cales proéminentes sur un fessier de couleur vive. Même s’ils sont principalement végétariens, certains babouins dévorent aussi des poissons, des insectes, des crustacés et d’autres petits animaux. Ces créatures réagissent rapidement et avec grande férocité pour protéger leur territoire contre les intrus.
+Un babouin mesure 90 cm de hauteur et pèse 35 kg.
+
+====Le babouin comme compagnon animal====
+'''Caractéristiques de départ. Taille''' P ; '''Vitesse''' 9 m ; '''Attaque'''
+morsure (1d4) ; '''Caractéristiques''' For 12, Dex 15, Con 12, Int 2,
+Sag 12, Cha 5 ; '''Particularités''' vision nocturne.
+'''Évolution au niveau 4. Caractéristiques''' For +2, Con +2.
+</div></td></tr></table>
+]]></raw>
+  <fullName>Pathfinder-RPG.Babouin</fullName>
+</wikiPage>

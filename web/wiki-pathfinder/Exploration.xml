@@ -1,0 +1,319 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>L'exploration</title>
+  <categories><category>Pathfinder-RPG.Manuel des joueurs</category><category>Pathfinder-RPG.Règles officielles</category></categories>
+  <lastModified>2013-05-31 18:45:29Z</lastModified>
+  <version>9</version>
+  <inLinks><link>Pathfinder-RPG.Aveugleur</link><link>Pathfinder-RPG.Canon arcanique</link><link>Pathfinder-RPG.Créature foo</link><link>Pathfinder-RPG.Exploration</link><link>Pathfinder-RPG.Force du colosse</link><link>Pathfinder-RPG.MainPage</link><link>Pathfinder-RPG.Matériel daventurier</link><link>Pathfinder-RPG.Pièces darmures</link><link>Pathfinder-RPG.Réceptacle divin</link><link>Pathfinder-RPG.Serviteur sacré (paladin)</link><link>Pathfinder-RPG.Substances et objets spéciaux</link><link>Pathfinder-RPG.temp-MainPage</link><link>Pathfinder-RPG.Torrent hydraulique</link><link>Pathfinder-RPG.Vêtements vivants</link><link>Pathfinder-RPG.Zoog</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Exploration</link><link>Pathfinder-RPG.Substances et objets spéciaux</link><link>Pathfinder-RPG.Flamme éternelle</link><link>Pathfinder-RPG.Lumière</link><link>Pathfinder-RPG.Lumière du jour</link><link>Pathfinder-RPG.Lumières dansantes</link><link>Pathfinder-RPG.Nain</link><link>Pathfinder-RPG.Demi-orque</link><link>Pathfinder-RPG.Races</link><link>Pathfinder-RPG.Sensibilité à la lumière (capacité)</link><link>Pathfinder-RPG.États préjudiciables</link><link>Pathfinder-RPG.abri</link><link>Pathfinder-RPG.camouflage</link><link>Pathfinder-RPG.vision nocturne</link><link>Pathfinder-RPG.Discrétion</link><link>Pathfinder-RPG.vision dans le noir</link><link>Pathfinder-RPG.aveugle</link><link>Pathfinder-RPG.Dextérité</link><link>Pathfinder-RPG.CA</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Force</link><link>Pathfinder-RPG.Capacités spéciales</link><link>Pathfinder-RPG.Elfe</link><link>Pathfinder-RPG.Gnome</link><link>Pathfinder-RPG.Demi-elfe</link><link>Pathfinder-RPG.sort Vision dans le noir</link><link>Pathfinder-RPG.destruction</link><link>Pathfinder-RPG.Manœuvres offensives</link><link>Pathfinder-RPG.BMO</link><link>Pathfinder-RPG.Action complexe</link><link>Pathfinder-RPG.arme de corps à corps</link><link>Pathfinder-RPG.arme à distance</link><link>Pathfinder-RPG.Brisé</link><link>Pathfinder-RPG.Résistance aux énergies destructives</link><link>Pathfinder-RPG.Milieu urbain</link><link>Pathfinder-RPG.Tableau récapitulatif des armes</link><link>Pathfinder-RPG.Dégâts non létaux</link><link>Pathfinder-RPG.critique</link><link>Pathfinder-RPG.jet de sauvegarde</link><link>Pathfinder-RPG.Règles relatives aux objets magiques</link><link>Pathfinder-RPG.Réflexes</link><link>Pathfinder-RPG.Vigueur</link><link>Pathfinder-RPG.Volonté</link><link>Pathfinder-RPG.Descriptions des objets magiques</link><link>Pathfinder-RPG.solidité</link><link>Pathfinder-RPG.taille M</link><link>Pathfinder-RPG.Verrouillage</link><link>Pathfinder-RPG.Verrou du mage</link><link>Pathfinder-RPG.DD</link><link>Pathfinder-RPG.test</link><link>Pathfinder-RPG.taille</link><link>Pathfinder-RPG.Matériel daventurier</link></outLinks>
+  <body><![CDATA[&lt;table id=&quot;TocContainerTable&quot;&gt;&lt;tr&gt;&lt;td&gt;&lt;div id=&quot;TocContainer&quot;&gt;&lt;p class=&quot;small&quot;&gt;&lt;b&gt;Table of Contents&lt;/b&gt;&lt;span id=&quot;ExpandTocSpan&quot;&gt; [&lt;a href=&quot;#&quot; onclick=&quot;javascript:if(document.getElementById(&#39;Toc&#39;).style[&#39;display&#39;]==&#39;none&#39;) document.getElementById(&#39;Toc&#39;).style[&#39;display&#39;]=&#39;&#39;; else document.getElementById(&#39;Toc&#39;).style[&#39;display&#39;]=&#39;none&#39;; return false;&quot;&gt;Hide/Show&lt;/a&gt;]&lt;/span&gt;&lt;/p&gt;&lt;div id=&quot;Toc&quot;&gt;&lt;p&gt;&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;#Vision_et_lumi&#232;re_2&quot;&gt; Vision et lumi&#232;re &lt;/a&gt;&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;#Intrusion_et_maraudage_3&quot;&gt; Intrusion et maraudage &lt;/a&gt;&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;#Frapper_un_objet_0&quot;&gt; Frapper un objet &lt;/a&gt;&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;#Casser_un_objet_1&quot;&gt; Casser un objet &lt;/a&gt;&lt;br /&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;br /&gt;Peu de r&#232;gles sont aussi essentielles &#224; la r&#233;ussite d’une aventure qui celles li&#233;es &#224; la vision, &#224; la luminosit&#233; et au bris des objets. Les voici.&lt;br /&gt;&lt;br /&gt;&lt;a name=&quot;VISIONLUMIERE&quot;&gt;&lt;/a&gt;
+&lt;h2 class=&quot;separator&quot;&gt; Vision et lumi&#232;re &lt;a class=&quot;headeranchor&quot; id=&quot;Vision_et_lumi&#232;re_2&quot; href=&quot;#Vision_et_lumi&#232;re_2&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;
+&lt;div style=&quot;float:right; background-color: #fff; padding: 0 0 16px 16px&quot;&gt;
+&lt;div style=&quot;border: 1px solid #4b3124; padding: 4px&quot;&gt;
+&lt;center&gt;
+&lt;table CLASS=&quot;tablo&quot;&gt;&lt;caption&gt;Sources de lumi&#232;re et &#233;clairage&lt;/caption&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td&gt;Source&lt;/td&gt;&lt;td&gt;Normal&lt;/td&gt;&lt;td&gt;Augment&#233;&lt;/td&gt;&lt;td&gt;Dur&#233;e&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier&quot;&gt;&lt;td COLSPAN=&quot;4&quot;&gt;&lt;b&gt;OBJETS&lt;/b&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&amp;emsp;B&#226;ton &#233;clairant&lt;/td&gt;&lt;td&gt;6 cases/9 m&lt;/td&gt;&lt;td&gt;12 cases/18 m&lt;/td&gt;&lt;td&gt;6 heures&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;&amp;emsp;Bougie&lt;/td&gt;&lt;td&gt;—&lt;sup&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Exploration.html#NOTE1&quot; title=&quot;L&amp;#39;exploration&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/td&gt;&lt;td&gt;1,50 m&lt;/td&gt;&lt;td&gt;1 heure&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&amp;emsp;Lampe&lt;/td&gt;&lt;td&gt;3 cases/4,50 m&lt;/td&gt;&lt;td&gt;6 cases/9 m&lt;/td&gt;&lt;td&gt;6 heures/demi-litre&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;&amp;emsp;Lanterne &#224; capote&lt;/td&gt;&lt;td&gt;6 cases/9 m&lt;/td&gt;&lt;td&gt;12 cases/18 m&lt;/td&gt;&lt;td&gt;6 heures/demi-litre&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&amp;emsp;Lanterne sourde&lt;/td&gt;&lt;td&gt;c&#244;ne de 12 cases/18 m&lt;/td&gt;&lt;td&gt;c&#244;ne de 24 cases/36 m&lt;/td&gt;&lt;td&gt;6 heures/demi-litre&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;&amp;emsp;Torche&lt;/td&gt;&lt;td&gt;4 cases/6 m&lt;/td&gt;&lt;td&gt;8 cases/12 m&lt;/td&gt;&lt;td&gt;1 heure&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&amp;emsp;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Substances-Et-Objets-Sp&#233;ciaux.html&quot; title=&quot;Substances et objets sp&#233;ciaux&quot;&gt;Torche &#233;ternelle&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;6 m&lt;/td&gt;&lt;td&gt;12 m&lt;/td&gt;&lt;td&gt;Permanente&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier&quot;&gt;&lt;td COLSPAN=&quot;4&quot;&gt;&lt;b&gt;SORTS&lt;/b&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&amp;emsp;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Flamme-&#201;ternelle.html&quot; title=&quot;Flamme &#233;ternelle&quot;&gt;Flamme &#233;ternelle&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;4 cases/6 m&lt;/td&gt;&lt;td&gt;8 cases/12 m&lt;/td&gt;&lt;td&gt;Permanente&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;&amp;emsp;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Lumi&#232;re.html&quot; title=&quot;Lumi&#232;re&quot;&gt;Lumi&#232;re&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;4 cases/6 m&lt;/td&gt;&lt;td&gt;8 cases/12 m&lt;/td&gt;&lt;td&gt;10 minutes&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&amp;emsp;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Lumi&#232;re-Du-Jour.html&quot; title=&quot;Lumi&#232;re du jour&quot;&gt;Lumi&#232;re du jour&lt;/a&gt;&lt;/i&gt;&lt;sup&gt;&amp;ensp;&lt;/sup&gt;&lt;/td&gt;&lt;td&gt;12 cases/18 m&lt;sup&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Exploration.html#NOTE2&quot; title=&quot;L&amp;#39;exploration&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/td&gt;&lt;td&gt;24 cases/36 m&lt;sup&gt;&amp;ensp;&lt;/sup&gt;&lt;/td&gt;&lt;td&gt;30 minutes&lt;sup&gt;&amp;ensp;&lt;/sup&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;&amp;emsp;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Lumi&#232;res-Dansantes.html&quot; title=&quot;Lumi&#232;res dansantes&quot;&gt;Lumi&#232;res dansantes&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;4 cases/6 m (chacune)&lt;/td&gt;&lt;td&gt;8 cases/12 m (chacune)&lt;/td&gt;&lt;td&gt;1 minute&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td COLSPAN=&quot;4&quot; CLASS=&quot;note&quot;&gt;&lt;a name=&quot;NOTE1&quot;&gt;&lt;/a&gt;&lt;i&gt;(1) Une bougie fournit uniquement un &#233;clairage faible.&lt;/i&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td COLSPAN=&quot;4&quot; CLASS=&quot;note&quot;&gt;&lt;a name=&quot;NOTE2&quot;&gt;&lt;/a&gt;&lt;i&gt;(2) Un sort de &lt;/i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Lumi&#232;re-Du-Jour.html&quot; title=&quot;Lumi&#232;re du jour&quot;&gt;lumi&#232;re du jour&lt;/a&gt;&lt;i&gt; produit un &#233;clairage vif.&lt;/i&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/center&gt;&lt;/div&gt;&lt;/div&gt;
+Les &lt;a class=&quot;pagelink&quot; href=&quot;Nain.html&quot; title=&quot;Les nains&quot;&gt;nains&lt;/a&gt; et les &lt;a class=&quot;pagelink&quot; href=&quot;Demi-Orque.html&quot; title=&quot;Les demi-orques&quot;&gt;demi-orques&lt;/a&gt; voient dans le noir, mais les autres &lt;a class=&quot;pagelink&quot; href=&quot;Races.html&quot; title=&quot;Les races des personnages&quot;&gt;races standard&lt;/a&gt; ont besoin de lumi&#232;re. Consultez la table ci-dessous pour conna&#238;tre la surface couverte par les diff&#233;rentes sources de lumi&#232;re et leur dur&#233;e d’illumination. L&#39;entr&#233;e &#171; augment&#233; &#187; fait r&#233;f&#233;rence &#224; une zone en dehors de celle illumin&#233;e, dans laquelle la lumi&#232;re est am&#233;lior&#233;e d’un cran (de t&#233;n&#232;bres &#224; faible luminosit&#233;, par exemple).&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Lumi&#232;re vive.&lt;/b&gt; Dans les zones vivement &#233;clair&#233;es, tous les personnages peuvent voir clairement. Certaines cr&#233;atures, comme celles poss&#233;dant une &lt;a class=&quot;pagelink&quot; href=&quot;Sensibilit&#233;-&#192;-La-Lumi&#232;re-(Capacit&#233;).html&quot; title=&quot;Sensibilit&#233; &#224; la lumi&#232;re (Ext)&quot;&gt;sensibilit&#233; &#224; la lumi&#232;re&lt;/a&gt; ou &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables.html#Aveugl&#233;&quot; title=&quot;&#201;tats pr&#233;judiciables&quot;&gt;aveugl&#233;es par la lumi&#232;re&lt;/a&gt;, subissent des malus dans les zones vivement &#233;clair&#233;es. Il est impossible de se cacher dans une zone vivement &#233;clair&#233;e &#224; moins d’&#234;tre invisible ou de b&#233;n&#233;ficier d’un &lt;a class=&quot;pagelink&quot; href=&quot;Modificateurs-De-Combat.html#ABRI&quot; title=&quot;abri&quot;&gt;abri&lt;/a&gt;. Les zones vivement &#233;clair&#233;es incluent les ext&#233;rieurs sous le soleil, et toute zone sous l’effet d’un sort de &lt;a class=&quot;pagelink&quot; href=&quot;Lumi&#232;re-Du-Jour.html&quot; title=&quot;Lumi&#232;re du jour&quot;&gt;lumi&#232;re du jour&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Lumi&#232;re normale.&lt;/b&gt; Une &#233;clairage normal fonctionne comme un &#233;clairage vif, mais les cr&#233;atures poss&#233;dant une &lt;a class=&quot;pagelink&quot; href=&quot;Sensibilit&#233;-&#192;-La-Lumi&#232;re-(Capacit&#233;).html&quot; title=&quot;Sensibilit&#233; &#224; la lumi&#232;re (Ext)&quot;&gt;sensibilit&#233; &#224; la lumi&#232;re&lt;/a&gt; ou &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables.html#Aveugl&#233;&quot; title=&quot;&#201;tats pr&#233;judiciables&quot;&gt;aveugl&#233;es par elle&lt;/a&gt; ne subissent pas de malus. Les zones d’&#233;clairage normal comprennent par exemple un sous-bois en plein jour, une zone dans les six m&#232;tres d’une torche, ou encore celle sous l’effet d’un sort de &lt;a class=&quot;pagelink&quot; href=&quot;Lumi&#232;re.html&quot; title=&quot;Lumi&#232;re&quot;&gt;lumi&#232;re&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Lumi&#232;re faible.&lt;/b&gt; Dans les zones faiblement &#233;clair&#233;es, la vision est limit&#233;e. Toutes les cr&#233;atures qui s’y trouvent b&#233;n&#233;ficient d’un &lt;a class=&quot;pagelink&quot; href=&quot;Modificateurs-De-Combat.html#CAMOUFLAGE&quot; title=&quot;camouflage&quot;&gt;camouflage&lt;/a&gt; (20% de chance de les rater) contre les cr&#233;atures qui ne disposent pas de la &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Nocturne-(Capacit&#233;).html&quot; title=&quot;vision nocturne&quot;&gt;vision nocturne&lt;/a&gt; ou d’un autre moyen de voir dans les t&#233;n&#232;bres. Une cr&#233;ature qui se trouve dans une zone faiblement &#233;clair&#233;e peut tenter de se cacher &#224; l’aide d’un test de &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt;. Ces zones comprennent la nuit quand la lune brille ou que les &#233;toiles sont tr&#232;s lumineuses, ou encore la zone s’&#233;tendant entre six et douze m&#232;tres d’une torche.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;T&#233;n&#232;bres.&lt;/b&gt; Dans les zones t&#233;n&#233;breuses, les cr&#233;atures incapables de &lt;a class=&quot;pagelink&quot; href=&quot;Capacit&#233;s-Sp&#233;ciales.html#VISIONDANSLENOIR&quot; title=&quot;vision dans le noir&quot;&gt;voir dans le noir&lt;/a&gt; sont consid&#233;r&#233;es comme &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables.html#Aveugl&#233;&quot; title=&quot;aveugle&quot;&gt;aveugles&lt;/a&gt;. En plus des effets &#233;vidents qui en d&#233;coulent, une cr&#233;ature &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables.html#Aveugl&#233;&quot; title=&quot;aveugle&quot;&gt;aveugle&lt;/a&gt; a 50% de chance de rater chacune de ses attaques (car tous ses adversaires b&#233;n&#233;ficient d’un &lt;a class=&quot;pagelink&quot; href=&quot;Modificateurs-De-Combat.html#CAMOUFLAGE&quot; title=&quot;camouflage&quot;&gt;camouflage&lt;/a&gt; total). Elle perd son &#233;ventuel bonus de &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#DEXTERITE&quot; title=&quot;La Dext&#233;rit&#233;&quot;&gt;Dext&#233;rit&#233;&lt;/a&gt; &#224; la &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#CA&quot; title=&quot;CA&quot;&gt;CA&lt;/a&gt;, subit un malus de -2 &#224; la &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#CA&quot; title=&quot;CA&quot;&gt;CA&lt;/a&gt; et un autre de -4 aux tests de &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; et &#224; la plupart des tests associ&#233;s &#224; la &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#FORCE&quot; title=&quot;La Force&quot;&gt;Force&lt;/a&gt; et &#224; la &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#DEXTERITE&quot; title=&quot;La Dext&#233;rit&#233;&quot;&gt;Dext&#233;rit&#233;&lt;/a&gt;. Les zones t&#233;n&#233;breuses incluent les donjons sans lumi&#232;re, la plupart des cavernes, et les nuits nuageuses et sans lune.&lt;br /&gt;&lt;br /&gt;&lt;a name=&quot;VISIONNOCTURNE&quot;&gt;&lt;/a&gt;&lt;b&gt;Vision nocturne.&lt;/b&gt; Les personnages b&#233;n&#233;ficiant de la &lt;a class=&quot;pagelink&quot; href=&quot;Capacit&#233;s-Sp&#233;ciales.html#Vision_nocturne_19&quot; title=&quot;Les capacit&#233;s sp&#233;ciales&quot;&gt;vision nocturne&lt;/a&gt; (les &lt;a class=&quot;pagelink&quot; href=&quot;Elfe.html&quot; title=&quot;Les elfes&quot;&gt;elfes&lt;/a&gt;, les &lt;a class=&quot;pagelink&quot; href=&quot;Gnome.html&quot; title=&quot;Les gnomes&quot;&gt;gnomes&lt;/a&gt; et les &lt;a class=&quot;pagelink&quot; href=&quot;Demi-Elfe.html&quot; title=&quot;Les demi-elfes&quot;&gt;demi-elfes&lt;/a&gt;) voient deux fois plus loin que la distance indiqu&#233;e. Pour eux, le rayon effectif des zones vivement, normalement et faiblement &#233;clair&#233;es est doubl&#233;. Plus d&#39;information &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Nocturne-(Capacit&#233;).html&quot; title=&quot;vision nocturne&quot;&gt;ici&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;&lt;a name=&quot;VISIONDANSLENOIR&quot;&gt;&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Vision dans le noir.&lt;/b&gt; Enfin, les personnages qui &lt;a class=&quot;pagelink&quot; href=&quot;Capacit&#233;s-Sp&#233;ciales.html#VISIONDANSLENOIR&quot; title=&quot;Les capacit&#233;s sp&#233;ciales&quot;&gt;voient dans le noir&lt;/a&gt; (les &lt;a class=&quot;pagelink&quot; href=&quot;Nain.html&quot; title=&quot;Les nains&quot;&gt;nains&lt;/a&gt; et les &lt;a class=&quot;pagelink&quot; href=&quot;Demi-Orque.html&quot; title=&quot;Les demi-orques&quot;&gt;demi-orques&lt;/a&gt;) distinguent tout ce qui se trouve &#224; moins de 18 m&#232;tres d’eux, que l’endroit soit &#233;clair&#233; ou non. Il est impossible de se cacher &#224; moins de 18 m&#232;tres d’eux, &#224; moins d’&#234;tre invisible ou de b&#233;n&#233;ficier d’un &lt;a class=&quot;pagelink&quot; href=&quot;Modificateurs-De-Combat.html#ABRI&quot; title=&quot;abri&quot;&gt;abri&lt;/a&gt;. Plus d&#39;informations &lt;a class=&quot;pagelink&quot; href=&quot;Capacit&#233;s-Sp&#233;ciales.html#VISIONDANSLENOIR&quot; title=&quot;vision dans le noir&quot;&gt;ici&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;&lt;a name=&quot;DESTRUCTIONOBJET&quot;&gt;&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;h2 class=&quot;separator&quot;&gt; Intrusion et maraudage &lt;a class=&quot;headeranchor&quot; id=&quot;Intrusion_et_maraudage_3&quot; href=&quot;#Intrusion_et_maraudage_3&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;
+Pour d&#233;truire un objet, un personnage a le choix entre deux m&#233;thodes : frapper l’objet &#224; l’aide d’une arme jusqu’&#224; ce qu’il soit d&#233;truit ou le briser d’un coup en utilisant sa force.&lt;br /&gt;&lt;br /&gt;&lt;h3 class=&quot;separator&quot;&gt; Frapper un objet &lt;a class=&quot;headeranchor&quot; id=&quot;Frapper_un_objet_0&quot; href=&quot;#Frapper_un_objet_0&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;
+La &lt;a class=&quot;pagelink&quot; href=&quot;Manœuvres-Offensives.html#DESTRUCTION&quot; title=&quot;destruction&quot;&gt;destruction&lt;/a&gt; est une &lt;a class=&quot;pagelink&quot; href=&quot;Manœuvres-Offensives.html&quot; title=&quot;Les manœuvres de combat&quot;&gt;manœuvre sp&#233;ciale&lt;/a&gt; de combat qui consiste &#224; frapper l’arme ou le bouclier d’un adversaire avec une arme tranchante ou contondante. Frapper un objet revient &#224; d&#233;truire une arme ou un bouclier mais le test de &lt;a class=&quot;pagelink&quot; href=&quot;Manœuvres-Offensives.html#BMO&quot; title=&quot;BMO&quot;&gt;BMO&lt;/a&gt; se fait contre la &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#CA&quot; title=&quot;CA&quot;&gt;CA&lt;/a&gt; de l’objet. En r&#232;gle g&#233;n&#233;rale, on ne peut frapper un objet qu’avec une arme tranchante ou contondante.&lt;br /&gt;&lt;br /&gt;&lt;div style=&quot;float:right; background-color: #fff; padding: 0 0 16px 16px&quot;&gt;
+&lt;div style=&quot;border: 1px solid #4b3124; padding: 4px&quot;&gt;
+&lt;center&gt;
+&lt;table CLASS=&quot;tablo&quot;&gt;&lt;caption&gt; Taille et CA des objets&lt;/caption&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td&gt;Taille&lt;/td&gt;&lt;td&gt;Modificateur &#224; la CA&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier&quot;&gt;&lt;td&gt;Colossale&lt;/td&gt;&lt;td&gt;–8&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;Gigantesque&lt;/td&gt;&lt;td&gt;–4&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Tr&#232;s grande&lt;/td&gt;&lt;td&gt;–2&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;Grande&lt;/td&gt;&lt;td&gt;–1&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Moyenne&lt;/td&gt;&lt;td&gt;+0&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;Petite&lt;/td&gt;&lt;td&gt;+1&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Tr&#232;s petite&lt;/td&gt;&lt;td&gt;+2&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;Minuscule&lt;/td&gt;&lt;td&gt;+4&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Infime&lt;/td&gt;&lt;td&gt;+8&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/center&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;b&gt;Classe d’armure.&lt;/b&gt; Comme les objets ne bougent pas, ils sont plus faciles &#224; toucher que les cr&#233;atures mais beaucoup sont suffisamment solides pour que la plupart des coups les endommagent &#224; peine. La &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#CA&quot; title=&quot;CA&quot;&gt;classe d’armure&lt;/a&gt; d’un objet est de 10 + son modificateur de taille (voir le tableau ci-dessous) + son modificateur de &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#DEXTERITE&quot; title=&quot;La Dext&#233;rit&#233;&quot;&gt;Dext&#233;rit&#233;&lt;/a&gt;. Un objet immobile a non seulement une valeur de &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#DEXTERITE&quot; title=&quot;La Dext&#233;rit&#233;&quot;&gt;Dext&#233;rit&#233;&lt;/a&gt; de 0 (pour un modificateur de -5), mais aussi un malus &#224; la &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#CA&quot; title=&quot;CA&quot;&gt;CA&lt;/a&gt; de -2. De plus, si le personnage pr&#233;pare bien son coup (ce qui lui demande une &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions.html#COMPLEXE&quot; title=&quot;Action complexe&quot;&gt;action complexe&lt;/a&gt;) il touche automatiquement quand il utilise une &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques-Des-Armes.html#ARMEDECORPSACORPS&quot; title=&quot;arme de corps &#224; corps&quot;&gt;arme de corps &#224; corps&lt;/a&gt; et il b&#233;n&#233;ficie d’un bonus de +5 au jet d’attaque s’il utilise une &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques-Des-Armes.html#ARMEADISTANCE&quot; title=&quot;arme &#224; distance&quot;&gt;arme &#224; distance&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;&lt;a name=&quot;SOLIDITE&quot;&gt;&lt;/a&gt;&lt;b&gt;Solidit&#233;.&lt;/b&gt; Chaque objet a une valeur de solidit&#233;, qui d&#233;termine sa r&#233;sistance aux d&#233;g&#226;ts. Chaque fois qu’il subit une attaque, on soustrait sa solidit&#233; aux d&#233;g&#226;ts caus&#233;s par cette derni&#232;re. C’est le r&#233;sultat de cette soustraction qui indique le nombre de points de r&#233;sistance perdus par l’objet (voir les tableaux ci-dessous).&lt;br /&gt;&lt;br /&gt;&lt;a name=&quot;POINTDERESISTANCE&quot;&gt;&lt;/a&gt;&lt;b&gt;Points de r&#233;sistance.&lt;/b&gt; Les points de r&#233;sistance (pr ou pv) d’un objet d&#233;pendent de son &#233;paisseur et de la mati&#232;re qui le constitue (voir les tableaux ci-dessous). Un objet qui subit des d&#233;g&#226;ts &#233;gaux ou sup&#233;rieurs &#224; la moiti&#233; de ses points de r&#233;sistance est consid&#233;r&#233; &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables.html#Bris&#233;&quot; title=&quot;Bris&#233;&quot;&gt;bris&#233;&lt;/a&gt;. Une fois que le nombre de pr d’un objet tombe &#224; 0 ou moins, il est d&#233;truit. Les objets de tr&#232;s grande taille ont des valeurs de points de r&#233;sistance diff&#233;rentes pour leurs parties distinctes.&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;indent&quot; style=&quot;margin: 0px; padding: 0px; padding-left: 30px&quot;&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;R&#233;sistance-Aux-&#201;nergies-Destructives.html&quot; title=&quot;R&#233;sistance aux &#233;nergies destructives&quot;&gt;&#201;nergies destructives&lt;/a&gt;.&lt;/i&gt; Les attaques d’&#233;nergie infligent des d&#233;g&#226;ts r&#233;duits de moiti&#233; &#224; la plupart des objets. On effectue la division avant de prendre en compte la solidit&#233; de l’objet. Certains types d’&#233;nergie sont parfois particuli&#232;rement efficaces contre des objets particulier, au choix du MJ. Par exemple, le feu infligera la totalit&#233; des d&#233;g&#226;ts &#224; un parchemin, au tissu et &#224; d’autres objets qui br&#251;lent facilement. Les attaques sonores infligeront des d&#233;g&#226;ts totaux aux objets de verre ou de cristal.&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;indent&quot; style=&quot;margin: 0px; padding: 0px; padding-left: 30px&quot;&gt;&lt;i&gt;Armes &#224; distance.&lt;/i&gt; Les armes &#224; distance infligent des d&#233;g&#226;ts r&#233;duits de moiti&#233; aux objets (sauf s’il s’agit d’un &lt;a class=&quot;pagelink&quot; href=&quot;Milieu-Urbain.html#MACHINES&quot; title=&quot;Le milieu urbain&quot;&gt;engin de si&#232;ge&lt;/a&gt; ou assimil&#233;. On divise les d&#233;g&#226;ts par deux avant de prendre en compte la solidit&#233; de l’objet.&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;indent&quot; style=&quot;margin: 0px; padding: 0px; padding-left: 30px&quot;&gt;&lt;i&gt;Armes inefficaces.&lt;/i&gt; Certaines armes peuvent s’av&#233;rer totalement inefficaces contre certains objets. Par exemple, une arme contondante ne peut pas infliger de d&#233;g&#226;ts &#224; une corde. De la m&#234;me mani&#232;re, la plupart des &lt;a class=&quot;pagelink&quot; href=&quot;Tableau-R&#233;capitulatif-Des-Armes.html&quot; title=&quot;Tableau r&#233;capitulatif des armes&quot;&gt;armes de corps &#224; corps&lt;/a&gt; ont tr&#232;s peu d’effet sur un mur de pierre ou une porte, &#224; moins qu’elles aient &#233;t&#233; con&#231;ues pour briser la pierre, comme un pic ou un marteau.&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;indent&quot; style=&quot;margin: 0px; padding: 0px; padding-left: 30px&quot;&gt;&lt;i&gt;Immunit&#233;s.&lt;/i&gt; Les objets inanim&#233;s sont immunis&#233;s contre les &lt;a class=&quot;pagelink&quot; href=&quot;Blessures-Et-Mort.html#NONLETAL&quot; title=&quot;D&#233;g&#226;ts non l&#233;taux&quot;&gt;d&#233;g&#226;ts non l&#233;taux&lt;/a&gt; et les &lt;a class=&quot;pagelink&quot; href=&quot;Actions-Simples.html#COUPCRITIQUE&quot; title=&quot;critique&quot;&gt;coups critiques&lt;/a&gt;.&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;indent&quot; style=&quot;margin: 0px; padding: 0px; padding-left: 30px&quot;&gt;&lt;i&gt;Armes, armures et boucliers magiques.&lt;/i&gt; Chaque point de bonus d’alt&#233;ration d’une arme, d’une armure ou d’un bouclier ajoute 2 points &#224; sa solidit&#233; et 10 &#224; son total de points de r&#233;sistance.&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;indent&quot; style=&quot;margin: 0px; padding: 0px; padding-left: 30px&quot;&gt;&lt;i&gt;Vuln&#233;rabilit&#233; &#224; certains types d’attaque.&lt;/i&gt; Certains objets sont particuli&#232;rement vuln&#233;rables &#224; certains types d’attaque. Des attaques de ce type peuvent infliger des d&#233;g&#226;ts doubl&#233;s et m&#234;me ignorer la solidit&#233; de l’objet.&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;indent&quot; style=&quot;margin: 0px; padding: 0px; padding-left: 30px&quot;&gt;&lt;i&gt;Objets endommag&#233;s.&lt;/i&gt; Les objets non magiques qui ne sont ni port&#233;s ni tenus par quelqu’un n’ont jamais droit au moindre &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;jet de sauvegarde&quot;&gt;jet de sauvegarde&lt;/a&gt;. On consid&#232;re qu’ils le ratent automatiquement, ce qui signifie qu’ils subissent toujours les effets du sort ainsi que des attaques qui autorisent un &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;jet de sauvegarde&quot;&gt;jet de sauvegarde&lt;/a&gt; pour y r&#233;sister partiellement ou en totalit&#233;. Un objet port&#233;, tenu ou m&#234;me touch&#233; par quelqu’un a droit &#224; un &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;jet de sauvegarde&quot;&gt;jet de sauvegarde&lt;/a&gt; &#233;gal &#224; celui de l’individu (ou de la cr&#233;ature) en contact avec lui.&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;indent&quot; style=&quot;margin: 0px; padding: 0px; padding-left: 30px&quot;&gt;Pour leur part, les &lt;a class=&quot;pagelink&quot; href=&quot;R&#232;gles-Relatives-Aux-Objets-Magiques.html#DEGATS&quot; title=&quot;R&#232;gles relatives aux objets magiques&quot;&gt;objets magiques&lt;/a&gt; ont toujours droit &#224; un &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;jet de sauvegarde&quot;&gt;jet de sauvegarde&lt;/a&gt;. Leur bonus, tant en &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;R&#233;flexes&quot;&gt;R&#233;flexes&lt;/a&gt; qu’en &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;Vigueur&quot;&gt;Vigueur&lt;/a&gt; ou en &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;Volont&#233;&quot;&gt;Volont&#233;&lt;/a&gt;, est &#233;gal &#224; 2 + la moiti&#233; de leur &lt;a class=&quot;pagelink&quot; href=&quot;Descriptions-Des-Objets-Magiques.html&quot; title=&quot;Descriptions des objets magiques&quot;&gt;niveau de lanceur de sorts&lt;/a&gt;. Les objets port&#233;s, tenus ou touch&#233;s par quelqu’un peuvent utiliser le &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;jet de sauvegarde&quot;&gt;jet de sauvegarde&lt;/a&gt; de leur propri&#233;taire s’il est plus &#233;lev&#233; que le leur.&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;indent&quot; style=&quot;margin: 0px; padding: 0px; padding-left: 30px&quot;&gt;&lt;i&gt;Objets anim&#233;s.&lt;/i&gt; Les objets anim&#233;s sont consid&#233;r&#233;s comme des cr&#233;atures pour ce qui est de leur &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#CA&quot; title=&quot;CA&quot;&gt;CA&lt;/a&gt; (ne pas les consid&#233;rer comme des objets inanim&#233;s).&lt;/div&gt;&lt;br /&gt;&lt;center&gt;
+&lt;table CLASS=&quot;tablo&quot;&gt;&lt;caption&gt;Solidit&#233; et points de r&#233;sistance des armes, armures et boucliers ordinaires&lt;/caption&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td&gt;Arme, armure ou bouclier&lt;sup&gt;&amp;ensp;&lt;/sup&gt;&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Exploration.html#SOLIDITE&quot; title=&quot;solidit&#233;&quot;&gt;Solidit&#233;&lt;/a&gt;&lt;sup&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Exploration.html#NOTEB1&quot; title=&quot;L&amp;#39;exploration&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/td&gt;&lt;td&gt;pv&lt;sup&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Exploration.html#NOTEB2&quot; title=&quot;L&amp;#39;exploration&quot;&gt;2&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Exploration.html#NOTEB3&quot; title=&quot;L&amp;#39;exploration&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier&quot;&gt;&lt;td&gt;Lame l&#233;g&#232;re&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;Lame &#224; une main&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Lame &#224; deux mains&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;Arme l&#233;g&#232;re &#224; manche en m&#233;tal&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Arme &#224; une main &#224; manche en m&#233;tal&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;20&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;Arme l&#233;g&#232;re &#224; manche en bois&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Arme &#224; une main &#224; manche en bois&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;Arme &#224; deux mains &#224; manche en bois&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Arme &#224; projectiles&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;Armure&lt;sup&gt;&amp;ensp;&lt;/sup&gt;&lt;/td&gt;&lt;td&gt;sp&#233;cial&lt;sup&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Exploration.html#NOTEB4&quot; title=&quot;L&amp;#39;exploration&quot;&gt;4&lt;/a&gt;&lt;/sup&gt;&lt;/td&gt;&lt;td&gt;bonus d’armure x 5&lt;sup&gt;&amp;ensp;&lt;/sup&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Targe&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;Rondache en bois&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;7&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&#201;cu en bois&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;15&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;Rondache en acier&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&#201;cu en acier&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;20&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;Pavois&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;20&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td COLSPAN=&quot;3&quot; CLASS=&quot;note&quot;&gt;&lt;a name=&quot;NOTEB1&quot;&gt;&lt;/a&gt;&lt;i&gt;(1) Ajoutez +2 pour chaque point de bonus d’alt&#233;ration des objets magiques.&lt;/i&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td COLSPAN=&quot;3&quot; CLASS=&quot;note&quot;&gt;&lt;a name=&quot;NOTEB1&quot;&gt;&lt;/a&gt;&lt;i&gt;(2) Le total de points de r&#233;sistance indiqu&#233; correspond &#224; un objet de &lt;a class=&quot;pagelink&quot; href=&quot;Petites-Et-Grandes-Cr&#233;atures.html#TABLEAUTAILLES&quot; title=&quot;taille M&quot;&gt;taille M&lt;/a&gt;. Il est divis&#233; par 2 pour chaque cat&#233;gorie de taille &lt;br/&gt;inf&#233;rieure &#224; M et multipli&#233; par 2 pour chaque cat&#233;gorie de taille sup&#233;rieure &#224; M.&lt;/i&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td COLSPAN=&quot;3&quot; CLASS=&quot;note&quot;&gt;&lt;a name=&quot;NOTEB1&quot;&gt;&lt;/a&gt;&lt;i&gt;(3) Ajoutez 10 points pour chaque point de bonus d’alt&#233;ration des objets magiques.&lt;/i&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td COLSPAN=&quot;3&quot; CLASS=&quot;note&quot;&gt;&lt;a name=&quot;NOTEB1&quot;&gt;&lt;/a&gt;&lt;i&gt;(4) D&#233;pend de la mati&#232;re utilis&#233;e ; voir le tableau &quot;Solidit&#233; et points de r&#233;sistance des mati&#232;res&quot;.&lt;/i&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/center&gt;&lt;br /&gt;&lt;br /&gt;&lt;table width=&quot;100%&quot;&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;&lt;td width=&quot;48%&quot;&gt;
+&lt;center&gt;
+&lt;a name=&quot;TABSOLIDITEMATIERES&quot;&gt;&lt;/a&gt;
+&lt;table CLASS=&quot;tablo&quot;&gt;&lt;caption&gt;Solidit&#233; et points de r&#233;sistance des mati&#232;res&lt;/caption&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td&gt;Mati&#232;re&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Exploration.html#SOLIDITE&quot; title=&quot;solidit&#233;&quot;&gt;Solidit&#233;&lt;/a&gt;&lt;/td&gt;&lt;td&gt;pv&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier&quot;&gt;&lt;td&gt;Verre&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;1 par 2,5 cm d’&#233;paisseur&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;Papier ou tissu&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;2 par 2,5 cm d’&#233;paisseur&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Corde&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;2 par 2,5 cm d’&#233;paisseur&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;Glace&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;3 par 2,5 cm d’&#233;paisseur&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Cuir ou peau&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;5 par 2,5 cm d’&#233;paisseur&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;Bois&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;10 par 2,5 cm d’&#233;paisseur&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Pierre&lt;/td&gt;&lt;td&gt;8&lt;/td&gt;&lt;td&gt;15 par 2,5 cm d’&#233;paisseur&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;Fer ou acier&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;30 par 2,5 cm d’&#233;paisseur&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Mithral&lt;/td&gt;&lt;td&gt;15&lt;/td&gt;&lt;td&gt;30 par 2,5 cm d’&#233;paisseur&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;Adamantium&lt;/td&gt;&lt;td&gt;20&lt;/td&gt;&lt;td&gt;40 par 2,5 cm d’&#233;paisseur&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/center&gt;
+&lt;/td&gt;&lt;td width=&quot;4%&quot;&gt;&lt;/td&gt;&lt;td width=&quot;48%&quot;&gt;
+&lt;center&gt;
+&lt;table CLASS=&quot;tablo&quot;&gt;&lt;caption&gt;Solidit&#233; et points de r&#233;sistance d’objets&lt;/caption&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td&gt;Objet&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Exploration.html#SOLIDITE&quot; title=&quot;solidit&#233;&quot;&gt;Solidit&#233;&lt;/a&gt;&lt;/td&gt;&lt;td&gt;pv&lt;/td&gt;&lt;td&gt;DD pour casser&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier&quot;&gt;&lt;td&gt;Corde (2,5 cm de diam&#232;tre)&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;23&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;Porte en bois toute simple&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;13&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Petit coffre&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;17&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;Porte en bois de bonne qualit&#233;&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;15&lt;/td&gt;&lt;td&gt;18&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Coffre au tr&#233;sor&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;15&lt;/td&gt;&lt;td&gt;23&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;Porte en bois &#233;paisse&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;20&lt;/td&gt;&lt;td&gt;23&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Mur en brique (30 cm d’&#233;paisseur)&lt;/td&gt;&lt;td&gt;8&lt;/td&gt;&lt;td&gt;90&lt;/td&gt;&lt;td&gt;35&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;Mur en pierre (90 cm d’&#233;paisseur)&lt;/td&gt;&lt;td&gt;8&lt;/td&gt;&lt;td&gt;540&lt;/td&gt;&lt;td&gt;50&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Cha&#238;ne&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;26&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;Menottes&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;26&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Menottes de qualit&#233; sup&#233;rieure&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;28&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;Porte en fer (5 cm d’&#233;paisseur)&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;60&lt;/td&gt;&lt;td&gt;28&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/center&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;br /&gt;&lt;a name=&quot;CASSERUNOBJET&quot;&gt;&lt;/a&gt;
+&lt;h3 class=&quot;separator&quot;&gt; Casser un objet &lt;a class=&quot;headeranchor&quot; id=&quot;Casser_un_objet_1&quot; href=&quot;#Casser_un_objet_1&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;&lt;div style=&quot;float:right; background-color: #fff; padding: 0 0 16px 16px&quot;&gt;
+&lt;div style=&quot;border: 1px solid #4b3124; padding: 4px&quot;&gt;
+&lt;center&gt;
+&lt;table CLASS=&quot;tablo&quot;&gt;&lt;caption&gt;DD pour casser&lt;/caption&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td&gt;Test de Force pour…&lt;/td&gt;&lt;td&gt;DD&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier&quot;&gt;&lt;td&gt;Enfoncer une porte simple&lt;/td&gt;&lt;td&gt;13&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;Enfoncer une porte de bonne qualit&#233;&lt;/td&gt;&lt;td&gt;18&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Enfoncer une porte &#233;paisse&lt;/td&gt;&lt;td&gt;23&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;Briser ses liens (cordes)&lt;/td&gt;&lt;td&gt;23&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Tordre un barreau m&#233;tallique&lt;/td&gt;&lt;td&gt;24&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;Enfoncer une porte d&#233;fendue par une barre&lt;/td&gt;&lt;td&gt;25&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Briser ses liens (cha&#238;nes)&lt;/td&gt;&lt;td&gt;26&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;Enfoncer une porte en fer&lt;/td&gt;&lt;td&gt;28&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td&gt;Condition&lt;/td&gt;&lt;td&gt;Modificateur du DD*&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier&quot;&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Verrouillage.html&quot; title=&quot;Verrouillage&quot;&gt;Verrouillage&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;+5&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Verrou-Du-Mage.html&quot; title=&quot;Verrou du mage&quot;&gt;Verrou du mage&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;+10&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td COLSPAN=&quot;2&quot; CLASS=&quot;note&quot;&gt;&lt;i&gt;(*) Si les deux conditions sont pr&#233;sentes, appliquez le plus haut modificateur.&lt;/i&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/center&gt;&lt;/div&gt;&lt;/div&gt;
+Quand un personnage essaye de d&#233;truire ou de rompre un objet en utilisant la force au lieu de lui infliger des d&#233;g&#226;ts, il doit faire un test de &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#FORCE&quot; title=&quot;La Force&quot;&gt;Force&lt;/a&gt; (au lieu d’un jet d’attaque et de d&#233;g&#226;ts comme lors d’une &lt;a class=&quot;pagelink&quot; href=&quot;Manœuvres-Offensives.html#DESTRUCTION&quot; title=&quot;destruction&quot;&gt;destruction&lt;/a&gt; d’objet) pour savoir s’il y parvient. Le &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DEGREDEDIFFICULTE&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; n’&#233;tant pas li&#233; &#224; la &lt;a class=&quot;pagelink&quot; href=&quot;Exploration.html#SOLIDITE&quot; title=&quot;solidit&#233;&quot;&gt;solidit&#233;&lt;/a&gt; de l’objet, il d&#233;pend alors davantage de la qualit&#233; de l’objet que de la mati&#232;re qui le compose. Consultez le tableau ci-contre pour obtenir une liste des &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DEGREDEDIFFICULTE&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; pour des objets communs.&lt;br /&gt;&lt;br /&gt;Lorsqu’un objet a perdu au moins la moiti&#233; de ses points de r&#233;sistance, il devient &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables.html#Bris&#233;&quot; title=&quot;Bris&#233;&quot;&gt;bris&#233;&lt;/a&gt; et le &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DEGREDEDIFFICULTE&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; permettant de le casser diminue de 2 points.&lt;br /&gt;&lt;br /&gt;Les cr&#233;atures plus grandes ou plus petites que la moyenne ont un modificateur sur les &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#JETTEST&quot; title=&quot;test&quot;&gt;tests&lt;/a&gt; de &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#FORCE&quot; title=&quot;La Force&quot;&gt;Force&lt;/a&gt; pour enfoncer les portes, en fonction de leur cat&#233;gorie de &lt;a class=&quot;pagelink&quot; href=&quot;Petites-Et-Grandes-Cr&#233;atures.html#TABLEAUTAILLES&quot; title=&quot;taille&quot;&gt;taille&lt;/a&gt; : I : –16, Min : –8, TP : –4, P : –2, G : +2, TG : +4, Gig : +8 et C : +16.&lt;br /&gt;&lt;br /&gt;Un pied-de-biche ou un b&#233;lier portable am&#233;liorent les chances d’enfoncer une porte (voir &lt;a class=&quot;pagelink&quot; href=&quot;Mat&#233;riel-Daventurier.html&quot; title=&quot;Mat&#233;riel d&amp;#39;aventurier&quot;&gt;Mat&#233;riel d&#39;aventurier&lt;/a&gt;).
+]]></body>
+  <raw><![CDATA[{toc}
+
+Peu de règles sont aussi essentielles à la réussite d’une aventure qui celles liées à la vision, à la luminosité et au bris des objets. Les voici.
+
+{s:Reference|VISIONLUMIERE}
+=== Vision et lumière ===
+
+<div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
+<div style="border: 1px solid #4b3124; padding: 4px">
+<center>
+{| CLASS="tablo"
+|+ Sources de lumière et éclairage
+|- CLASS="titre"
+| Source || Normal || Augmenté || Durée
+|- CLASS="premier"
+| COLSPAN="4" | '''OBJETS'''
+|-
+| &emsp;Bâton éclairant || 6 cases/9 m || 12 cases/18 m || 6 heures
+|- CLASS="alt"
+| &emsp;Bougie || —<sup>[[Exploration#NOTE1|1]]</sup> || 1,50 m || 1 heure
+|-
+| &emsp;Lampe || 3 cases/4,50 m || 6 cases/9 m || 6 heures/demi-litre
+|- CLASS="alt"
+| &emsp;Lanterne à capote || 6 cases/9 m || 12 cases/18 m || 6 heures/demi-litre
+|-
+| &emsp;Lanterne sourde || cône de 12 cases/18 m || cône de 24 cases/36 m || 6 heures/demi-litre
+|- CLASS="alt"
+| &emsp;Torche || 4 cases/6 m || 8 cases/12 m || 1 heure
+|-
+| &emsp;''[[Substances et objets spéciaux|Torche éternelle]]'' || 6 m || 12 m || Permanente
+|- CLASS="premier"
+| COLSPAN="4" | '''SORTS'''
+|-
+| &emsp;''[[Flamme éternelle]]'' || 4 cases/6 m || 8 cases/12 m || Permanente
+|- CLASS="alt"
+| &emsp;''[[Lumière]]'' || 4 cases/6 m || 8 cases/12 m || 10 minutes
+|-
+| &emsp;''[[Lumière du jour]]''<sup>&ensp;</sup> || 12 cases/18 m<sup>[[Exploration#NOTE2|2]]</sup> || 24 cases/36 m<sup>&ensp;</sup> || 30 minutes<sup>&ensp;</sup>
+|- CLASS="alt"
+| &emsp;''[[Lumières dansantes]]'' || 4 cases/6 m (chacune) || 8 cases/12 m (chacune) || 1 minute
+|-
+| COLSPAN="4" CLASS="note" | {s:Reference|NOTE1}''(1) Une bougie fournit uniquement un éclairage faible.''
+|-
+| COLSPAN="4" CLASS="note" | {s:Reference|NOTE2}''(2) Un sort de ''[[lumière du jour]]'' produit un éclairage vif.''
+|}
+</center></div></div>
+Les [[nain|nains]] et les [[demi-orque|demi-orques]] voient dans le noir, mais les autres [[races|races standard]] ont besoin de lumière. Consultez la table ci-dessous pour connaître la surface couverte par les différentes sources de lumière et leur durée d’illumination. L'entrée « augmenté » fait référence à une zone en dehors de celle illuminée, dans laquelle la lumière est améliorée d’un cran (de ténèbres à faible luminosité, par exemple).
+
+'''Lumière vive.''' Dans les zones vivement éclairées, tous les personnages peuvent voir clairement. Certaines créatures, comme celles possédant une [[sensibilité à la lumière (capacité)|sensibilité à la lumière]] ou [[États préjudiciables#Aveuglé|aveuglées par la lumière]], subissent des malus dans les zones vivement éclairées. Il est impossible de se cacher dans une zone vivement éclairée à moins d’être invisible ou de bénéficier d’un [[abri]]. Les zones vivement éclairées incluent les extérieurs sous le soleil, et toute zone sous l’effet d’un sort de [[Lumière du jour|lumière du jour]].
+
+'''Lumière normale.''' Une éclairage normal fonctionne comme un éclairage vif, mais les créatures possédant une [[sensibilité à la lumière (capacité)|sensibilité à la lumière]] ou [[États préjudiciables#Aveuglé|aveuglées par elle]] ne subissent pas de malus. Les zones d’éclairage normal comprennent par exemple un sous-bois en plein jour, une zone dans les six mètres d’une torche, ou encore celle sous l’effet d’un sort de [[Lumière|lumière]].
+
+'''Lumière faible.''' Dans les zones faiblement éclairées, la vision est limitée. Toutes les créatures qui s’y trouvent bénéficient d’un [[camouflage]] (20% de chance de les rater) contre les créatures qui ne disposent pas de la [[vision nocturne]] ou d’un autre moyen de voir dans les ténèbres. Une créature qui se trouve dans une zone faiblement éclairée peut tenter de se cacher à l’aide d’un test de [[Discrétion]]. Ces zones comprennent la nuit quand la lune brille ou que les étoiles sont très lumineuses, ou encore la zone s’étendant entre six et douze mètres d’une torche.
+
+'''Ténèbres.''' Dans les zones ténébreuses, les créatures incapables de [[vision dans le noir|voir dans le noir]] sont considérées comme [[aveugle|aveugles]]. En plus des effets évidents qui en découlent, une créature [[aveugle]] a 50% de chance de rater chacune de ses attaques (car tous ses adversaires bénéficient d’un [[camouflage]] total). Elle perd son éventuel bonus de [[Dextérité]] à la [[CA]], subit un malus de -2 à la [[CA]] et un autre de -4 aux tests de [[Perception]] et à la plupart des tests associés à la [[Force]] et à la [[Dextérité]]. Les zones ténébreuses incluent les donjons sans lumière, la plupart des cavernes, et les nuits nuageuses et sans lune.
+
+{s:Reference|VISIONNOCTURNE}'''Vision nocturne.''' Les personnages bénéficiant de la [[Capacités spéciales#Vision_nocturne_19|vision nocturne]] (les [[elfe|elfes]], les [[gnome|gnomes]] et les [[demi-elfe|demi-elfes]]) voient deux fois plus loin que la distance indiquée. Pour eux, le rayon effectif des zones vivement, normalement et faiblement éclairées est doublé. Plus d'information [[vision nocturne|ici]].
+
+{s:Reference|VISIONDANSLENOIR}
+{s:Desambi|Vision dans le noir est également le nom d'un [[sort vision dans le noir|sort]].}
+'''Vision dans le noir.''' Enfin, les personnages qui [[Capacités spéciales#VISIONDANSLENOIR|voient dans le noir]] (les [[nain|nains]] et les [[demi-orque|demi-orques]]) distinguent tout ce qui se trouve à moins de 18 mètres d’eux, que l’endroit soit éclairé ou non. Il est impossible de se cacher à moins de 18 mètres d’eux, à moins d’être invisible ou de bénéficier d’un [[abri]]. Plus d'informations [[vision dans le noir|ici]].
+
+{s:Reference|DESTRUCTIONOBJET}
+
+=== Intrusion et maraudage ===
+
+Pour détruire un objet, un personnage a le choix entre deux méthodes : frapper l’objet à l’aide d’une arme jusqu’à ce qu’il soit détruit ou le briser d’un coup en utilisant sa force.
+
+==== Frapper un objet ====
+
+La [[destruction]] est une [[Manœuvres offensives|manœuvre spéciale]] de combat qui consiste à frapper l’arme ou le bouclier d’un adversaire avec une arme tranchante ou contondante. Frapper un objet revient à détruire une arme ou un bouclier mais le test de [[BMO]] se fait contre la [[CA]] de l’objet. En règle générale, on ne peut frapper un objet qu’avec une arme tranchante ou contondante.
+
+<div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
+<div style="border: 1px solid #4b3124; padding: 4px">
+<center>
+{| CLASS="tablo"
+|+  Taille et CA des objets
+|- CLASS="titre"
+| Taille || Modificateur à la CA
+|- CLASS="premier"
+| Colossale || –8
+|- CLASS="alt"
+| Gigantesque || –4
+|-
+| Très grande || –2
+|- CLASS="alt"
+| Grande || –1
+|-
+| Moyenne || +0
+|- CLASS="alt"
+| Petite || +1
+|-
+| Très petite || +2
+|- CLASS="alt"
+| Minuscule || +4
+|-
+| Infime || +8
+|}
+</center></div></div>
+'''Classe d’armure.''' Comme les objets ne bougent pas, ils sont plus faciles à toucher que les créatures mais beaucoup sont suffisamment solides pour que la plupart des coups les endommagent à peine. La [[CA|classe d’armure]] d’un objet est de 10 + son modificateur de taille (voir le tableau ci-dessous) + son modificateur de [[Dextérité]]. Un objet immobile a non seulement une valeur de [[Dextérité]] de 0 (pour un modificateur de -5), mais aussi un malus à la [[CA]] de -2. De plus, si le personnage prépare bien son coup (ce qui lui demande une [[action complexe]]) il touche automatiquement quand il utilise une [[arme de corps à corps]] et il bénéficie d’un bonus de +5 au jet d’attaque s’il utilise une [[arme à distance]].
+
+{s:Reference|SOLIDITE}'''Solidité.''' Chaque objet a une valeur de solidité, qui détermine sa résistance aux dégâts. Chaque fois qu’il subit une attaque, on soustrait sa solidité aux dégâts causés par cette dernière. C’est le résultat de cette soustraction qui indique le nombre de points de résistance perdus par l’objet (voir les tableaux ci-dessous).
+
+{s:Reference|POINTDERESISTANCE}'''Points de résistance.''' Les points de résistance (pr ou pv) d’un objet dépendent de son épaisseur et de la matière qui le constitue (voir les tableaux ci-dessous). Un objet qui subit des dégâts égaux ou supérieurs à la moitié de ses points de résistance est considéré [[brisé]]. Une fois que le nombre de pr d’un objet tombe à 0 ou moins, il est détruit. Les objets de très grande taille ont des valeurs de points de résistance différentes pour leurs parties distinctes.
+
+:: ''[[Résistance aux énergies destructives|Énergies destructives]].'' Les attaques d’énergie infligent des dégâts réduits de moitié à la plupart des objets. On effectue la division avant de prendre en compte la solidité de l’objet. Certains types d’énergie sont parfois particulièrement efficaces contre des objets particulier, au choix du MJ. Par exemple, le feu infligera la totalité des dégâts à un parchemin, au tissu et à d’autres objets qui brûlent facilement. Les attaques sonores infligeront des dégâts totaux aux objets de verre ou de cristal.
+
+:: ''Armes à distance.'' Les armes à distance infligent des dégâts réduits de moitié aux objets (sauf s’il s’agit d’un [[Milieu urbain#MACHINES|engin de siège]] ou assimilé. On divise les dégâts par deux avant de prendre en compte la solidité de l’objet.
+
+:: ''Armes inefficaces.'' Certaines armes peuvent s’avérer totalement inefficaces contre certains objets. Par exemple, une arme contondante ne peut pas infliger de dégâts à une corde. De la même manière, la plupart des [[tableau récapitulatif des armes|armes de corps à corps]] ont très peu d’effet sur un mur de pierre ou une porte, à moins qu’elles aient été conçues pour briser la pierre, comme un pic ou un marteau.
+
+:: ''Immunités.'' Les objets inanimés sont immunisés contre les [[dégâts non létaux]] et les [[critique|coups critiques]].
+
+:: ''Armes, armures et boucliers magiques.'' Chaque point de bonus d’altération d’une arme, d’une armure ou d’un bouclier ajoute 2 points à sa solidité et 10 à son total de points de résistance.
+
+:: ''Vulnérabilité à certains types d’attaque.'' Certains objets sont particulièrement vulnérables à certains types d’attaque. Des attaques de ce type peuvent infliger des dégâts doublés et même ignorer la solidité de l’objet.
+
+:: ''Objets endommagés.'' Les objets non magiques qui ne sont ni portés ni tenus par quelqu’un n’ont jamais droit au moindre [[jet de sauvegarde]]. On considère qu’ils le ratent automatiquement, ce qui signifie qu’ils subissent toujours les effets du sort ainsi que des attaques qui autorisent un [[jet de sauvegarde]] pour y résister partiellement ou en totalité. Un objet porté, tenu ou même touché par quelqu’un a droit à un [[jet de sauvegarde]] égal à celui de l’individu (ou de la créature) en contact avec lui.
+
+:: Pour leur part, les [[Règles relatives aux objets magiques#DEGATS|objets magiques]] ont toujours droit à un [[jet de sauvegarde]]. Leur bonus, tant en [[Réflexes]] qu’en [[Vigueur]] ou en [[Volonté]], est égal à 2 + la moitié de leur [[Descriptions des objets magiques|niveau de lanceur de sorts]]. Les objets portés, tenus ou touchés par quelqu’un peuvent utiliser le [[jet de sauvegarde]] de leur propriétaire s’il est plus élevé que le leur.
+
+:: ''Objets animés.'' Les objets animés sont considérés comme des créatures pour ce qui est de leur [[CA]] (ne pas les considérer comme des objets inanimés).
+
+<center>
+{| CLASS="tablo"
+|+ Solidité et points de résistance des armes, armures et boucliers ordinaires
+|- CLASS="titre"
+| Arme, armure ou bouclier<sup>&ensp;</sup> || [[Solidité]]<sup>[[Exploration#NOTEB1|1]]</sup> || pv<sup>[[Exploration#NOTEB2|2]], [[Exploration#NOTEB3|3]]</sup>
+|- CLASS="premier"
+| Lame légère || 10 || 2
+|- CLASS="alt"
+| Lame à une main || 10 || 5
+|-
+| Lame à deux mains || 10 || 10
+|- CLASS="alt"
+| Arme légère à manche en métal || 10 || 10
+|-
+| Arme à une main à manche en métal || 10 || 20
+|- CLASS="alt"
+| Arme légère à manche en bois || 5 || 2
+|-
+| Arme à une main à manche en bois || 5 || 5
+|- CLASS="alt"
+| Arme à deux mains à manche en bois || 5 || 10
+|-
+| Arme à projectiles || 5 || 5
+|- CLASS="alt"
+| Armure<sup>&ensp;</sup> || spécial<sup>[[Exploration#NOTEB4|4]]</sup> || bonus d’armure x 5<sup>&ensp;</sup>
+|-
+| Targe || 10 || 5
+|- CLASS="alt"
+| Rondache en bois || 5 || 7
+|-
+| Écu en bois || 5 || 15
+|- CLASS="alt"
+| Rondache en acier || 10 || 10
+|-
+| Écu en acier || 10 || 20
+|- CLASS="alt"
+| Pavois || 5 || 20
+|-
+| COLSPAN="3" CLASS="note" | {s:Reference|NOTEB1}''(1) Ajoutez +2 pour chaque point de bonus d’altération des objets magiques.''
+|-
+| COLSPAN="3" CLASS="note" | {s:Reference|NOTEB1}''(2) Le total de points de résistance indiqué correspond à un objet de [[taille M]]. Il est divisé par 2 pour chaque catégorie de taille <br/>inférieure à M et multiplié par 2 pour chaque catégorie de taille supérieure à M.''
+|-
+| COLSPAN="3" CLASS="note" | {s:Reference|NOTEB1}''(3) Ajoutez 10 points pour chaque point de bonus d’altération des objets magiques.''
+|-
+| COLSPAN="3" CLASS="note" | {s:Reference|NOTEB1}''(4) Dépend de la matière utilisée ; voir le tableau "Solidité et points de résistance des matières".''
+|}
+</center>
+
+<table width="100%"><tr style="vertical-align: top"><td width="48%">
+<center>
+{s:Reference|TABSOLIDITEMATIERES}
+{| CLASS="tablo"
+|+ Solidité et points de résistance des matières
+|- CLASS="titre"
+| Matière || [[Solidité]] || pv
+|- CLASS="premier"
+| Verre || 1 || 1 par 2,5 cm d’épaisseur
+|- CLASS="alt"
+| Papier ou tissu || 0 || 2 par 2,5 cm d’épaisseur
+|-
+| Corde || 0 || 2 par 2,5 cm d’épaisseur
+|- CLASS="alt"
+| Glace || 0 || 3 par 2,5 cm d’épaisseur
+|-
+| Cuir ou peau || 2 || 5 par 2,5 cm d’épaisseur
+|- CLASS="alt"
+| Bois || 5 || 10 par 2,5 cm d’épaisseur
+|-
+| Pierre || 8 || 15 par 2,5 cm d’épaisseur
+|- CLASS="alt"
+| Fer ou acier || 10 || 30 par 2,5 cm d’épaisseur
+|-
+| Mithral || 15 || 30 par 2,5 cm d’épaisseur
+|- CLASS="alt"
+| Adamantium || 20 || 40 par 2,5 cm d’épaisseur
+|}
+</center>
+</td><td width="4%"></td><td width="48%">
+<center>
+{| CLASS="tablo"
+|+ Solidité et points de résistance d’objets
+|- CLASS="titre"
+| Objet || [[Solidité]] || pv || DD pour casser
+|- CLASS="premier"
+| Corde (2,5 cm de diamètre) || 0 || 2 || 23
+|- CLASS="alt"
+| Porte en bois toute simple || 5 || 10 || 13
+|-
+| Petit coffre || 5 || 1 || 17
+|- CLASS="alt"
+| Porte en bois de bonne qualité || 5 || 15 || 18
+|-
+| Coffre au trésor || 5 || 15 || 23
+|- CLASS="alt"
+| Porte en bois épaisse || 5 || 20 || 23
+|-
+| Mur en brique (30 cm d’épaisseur) || 8 || 90 || 35
+|- CLASS="alt"
+| Mur en pierre (90 cm d’épaisseur) || 8 || 540 || 50
+|-
+| Chaîne || 10 || 5 || 26
+|- CLASS="alt"
+| Menottes || 10 || 10 || 26
+|-
+| Menottes de qualité supérieure || 10 || 10 || 28
+|- CLASS="alt"
+| Porte en fer (5 cm d’épaisseur) || 10 || 60 || 28
+|}
+</center>
+</td></tr></table>
+
+{s:Reference|CASSERUNOBJET}
+==== Casser un objet ====
+<div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
+<div style="border: 1px solid #4b3124; padding: 4px">
+<center>
+{| CLASS="tablo"
+|+ DD pour casser
+|- CLASS="titre"
+| Test de Force pour… || DD
+|- CLASS="premier"
+| Enfoncer une porte simple || 13
+|- CLASS="alt"
+| Enfoncer une porte de bonne qualité || 18
+|-
+| Enfoncer une porte épaisse || 23
+|- CLASS="alt"
+| Briser ses liens (cordes) || 23
+|-
+| Tordre un barreau métallique || 24
+|- CLASS="alt"
+| Enfoncer une porte défendue par une barre || 25
+|-
+| Briser ses liens (chaînes) || 26
+|- CLASS="alt"
+| Enfoncer une porte en fer || 28
+|- CLASS="titre"
+| Condition || Modificateur du DD*
+|- CLASS="premier"
+| ''[[Verrouillage]]'' || +5
+|- CLASS="alt"
+| ''[[Verrou du mage]]'' || +10
+|-
+| COLSPAN="2" CLASS="note" | ''(*) Si les deux conditions sont présentes, appliquez le plus haut modificateur.''
+|}
+</center></div></div>
+Quand un personnage essaye de détruire ou de rompre un objet en utilisant la force au lieu de lui infliger des dégâts, il doit faire un test de [[Force]] (au lieu d’un jet d’attaque et de dégâts comme lors d’une [[destruction]] d’objet) pour savoir s’il y parvient. Le [[DD]] n’étant pas lié à la [[solidité]] de l’objet, il dépend alors davantage de la qualité de l’objet que de la matière qui le compose. Consultez le tableau ci-contre pour obtenir une liste des [[DD]] pour des objets communs.
+
+Lorsqu’un objet a perdu au moins la moitié de ses points de résistance, il devient [[brisé]] et le [[DD]] permettant de le casser diminue de 2 points.
+
+Les créatures plus grandes ou plus petites que la moyenne ont un modificateur sur les [[test|tests]] de [[Force]] pour enfoncer les portes, en fonction de leur catégorie de [[taille]] : I : –16, Min : –8, TP : –4, P : –2, G : +2, TG : +4, Gig : +8 et C : +16.
+
+Un pied-de-biche ou un bélier portable améliorent les chances d’enfoncer une porte (voir [[Matériel daventurier|Matériel d'aventurier]]).]]></raw>
+  <fullName>Pathfinder-RPG.Exploration</fullName>
+</wikiPage>

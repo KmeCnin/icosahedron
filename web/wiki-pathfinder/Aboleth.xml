@@ -1,0 +1,173 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Aboleth</title>
+  <categories><category>Pathfinder-RPG.Bestiaire</category><category>Pathfinder-RPG.Monstre</category></categories>
+  <lastModified>2013-02-02 13:03:28Z</lastModified>
+  <version>17</version>
+  <inLinks><link>Pathfinder-RPG.Glossaire des monstres</link><link>Pathfinder-RPG.Limace géante</link><link>Pathfinder-RPG.Liste de monstres par FP</link><link>Pathfinder-RPG.Liste de monstres par milieu naturel</link><link>Pathfinder-RPG.Liste de monstres par type</link><link>Pathfinder-RPG.Monstres</link><link>Pathfinder-RPG.Rencontres</link><link>Pathfinder-RPG.Traqueur sans visage</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.type Aberration</link><link>Pathfinder-RPG.sous-type aquatique</link><link>Pathfinder-RPG.vision dans le noir</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Image prédéterminée</link><link>Pathfinder-RPG.Image programmée</link><link>Pathfinder-RPG.Lueurs hypnotiques</link><link>Pathfinder-RPG.mirage</link><link>Pathfinder-RPG.Mur illusoire</link><link>Pathfinder-RPG.Projection dimage</link><link>Pathfinder-RPG.Voile</link><link>Pathfinder-RPG.Domination universelle</link><link>Pathfinder-RPG.Arme de prédilection</link><link>Pathfinder-RPG.Réflexes surhumains</link><link>Pathfinder-RPG.Science de linitiative</link><link>Pathfinder-RPG.Volonté de fer</link><link>Pathfinder-RPG.Art de la magie</link><link>Pathfinder-RPG.Bluff</link><link>Pathfinder-RPG.Connaissances</link><link>Pathfinder-RPG.Intimidation</link><link>Pathfinder-RPG.Natation</link><link>Pathfinder-RPG.Vigueur</link><link>Pathfinder-RPG.jet de sauvegarde</link><link>Pathfinder-RPG.DD</link><link>Pathfinder-RPG.Guérison des maladies</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Aboleth&lt;div style=&quot;float:right;&quot;&gt;FP 7&lt;/div&gt;&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Bestiaire page 8&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 3.200
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Aberration.html&quot; title=&quot;Aberration&quot;&gt;Aberration&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Aquatique.html&quot; title=&quot;Aquatique (sous-type)&quot;&gt;aquatique&lt;/a&gt;) de taille TG, LM
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +5 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Capacit&#233;s-Sp&#233;ciales.html#VISIONDANSLENOIR&quot; title=&quot;vision dans le noir&quot;&gt;vision dans le noir&lt;/a&gt; (12 cases) ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +14
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Aura&lt;/b&gt; nuage de mucus 1,5 m (1 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 20, contact 9, pris au d&#233;pourvu 19 (Dex +1, naturelle +11, taille -2)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 84 (8d8+48)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +5, &lt;b&gt;Vig&lt;/b&gt; +8, &lt;b&gt;Vol&lt;/b&gt; +11
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 3 m (2 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), nage 18 m (12 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; 4 tentacules +10 (1d6+5 et mucus)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Espace&lt;/b&gt; 3 ; &lt;b&gt;Allonge&lt;/b&gt; 3
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Pouvoirs magiques&lt;/b&gt; (NLS 16)
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+&#192; volont&#233; — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Image-Pr&#233;d&#233;termin&#233;e.html&quot; title=&quot;Image pr&#233;d&#233;termin&#233;e&quot;&gt;image pr&#233;d&#233;termin&#233;e&lt;/a&gt;&lt;/i&gt; (DD 18), &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Image-Programm&#233;e.html&quot; title=&quot;Image programm&#233;e&quot;&gt;image programm&#233;e&lt;/a&gt;&lt;/i&gt; (DD 19), &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Lueurs-Hypnotiques.html&quot; title=&quot;Lueurs hypnotiques&quot;&gt;lueurs hypnotiques&lt;/a&gt;&lt;/i&gt; (DD 15), &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Mirage.html&quot; title=&quot;Mirage&quot;&gt;mirage&lt;/a&gt;&lt;/i&gt; (DD 18), &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Mur-Illusoire.html&quot; title=&quot;Mur illusoire&quot;&gt;mur illusoire&lt;/a&gt;&lt;/i&gt; (DD 17), &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Projection-Dimage.html&quot; title=&quot;Projection d&amp;#39;image&quot;&gt;projection d&#39;image&lt;/a&gt;&lt;/i&gt; (DD 20), &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Voile.html&quot; title=&quot;Voile&quot;&gt;voile&lt;/a&gt;&lt;/i&gt; (DD 19)
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+3/jour — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Domination-Universelle.html&quot; title=&quot;Domination universelle&quot;&gt;domination universelle&lt;/a&gt;&lt;/i&gt; (DD 22)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 20, &lt;b&gt;Dex&lt;/b&gt; 12, &lt;b&gt;Con&lt;/b&gt; 22, &lt;b&gt;Int&lt;/b&gt; 15, &lt;b&gt;Sag&lt;/b&gt; 17, &lt;b&gt;Cha&lt;/b&gt; 17
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +6, &lt;b&gt;BMO&lt;/b&gt; +13, &lt;b&gt;DMD&lt;/b&gt; 24 (croc-en-jambe impossible)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Arme-De-Pr&#233;dilection.html&quot; title=&quot;Arme de pr&#233;dilection&quot;&gt;Arme de pr&#233;dilection&lt;/a&gt; (tentacule), &lt;a class=&quot;pagelink&quot; href=&quot;R&#233;flexes-Surhumains.html&quot; title=&quot;R&#233;flexes surhumains&quot;&gt;R&#233;flexes surhumains&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Science-De-Linitiative.html&quot; title=&quot;Science de l&amp;#39;initiative&quot;&gt;Science de l&#39;initiative&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Volont&#233;-De-Fer.html&quot; title=&quot;Volont&#233; de fer&quot;&gt;Volont&#233; de fer&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Art-De-La-Magie.html&quot; title=&quot;Art de la magie&quot;&gt;Art de la magie&lt;/a&gt; +13, &lt;a class=&quot;pagelink&quot; href=&quot;Bluff.html&quot; title=&quot;Bluff&quot;&gt;Bluff&lt;/a&gt; +11, &lt;a class=&quot;pagelink&quot; href=&quot;Connaissances.html&quot; title=&quot;Connaissances&quot;&gt;Connaissances&lt;/a&gt; (un domaine au choix) +13, &lt;a class=&quot;pagelink&quot; href=&quot;Intimidation.html&quot; title=&quot;Intimidation&quot;&gt;Intimidation&lt;/a&gt; +14, &lt;a class=&quot;pagelink&quot; href=&quot;Natation.html&quot; title=&quot;Natation&quot;&gt;Natation&lt;/a&gt; +24, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +14
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Langues&lt;/b&gt; aboleth, aklo, aquatique, commun des profondeurs
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; milieu aquatique
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation sociale&lt;/b&gt; solitaire, couple, nich&#233;e (3-6) ou banc (7-19)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; double
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Particularit&#233;s&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Nuage de mucus (Ext)&lt;/b&gt; Lorsqu&#39;elles se trouvent sous l&#39;eau, les aboleth s&#39;entourent d&#39;un nuage de mucus transparent. Chaque round, toutes les cr&#233;atures adjacentes doivent effectuer un jet de &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;Vigueur&quot;&gt;Vigueur&lt;/a&gt; DD 20.En cas d&#39;&#233;chec, elles perdent leur facult&#233; &#224; respirer de l&#39;air mais peuvent respirer sous l&#39;eau pendant 3 heures. Si une cr&#233;ature affect&#233;e rentre &#224; nouveau en contact avec un nuage de mucus d&#39;aboleth et rate son &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;jet de sauvegarde&quot;&gt;jet de sauvegarde&lt;/a&gt;, la dur&#233;e de 3 heures se renouvelle. Le &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DEGREDEDIFFICULTE&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; d&#233;pend de la Constitution.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Mucus (Ext)&lt;/b&gt; Une cr&#233;ature touch&#233;e par une tentacule d&#39;aboleth doit effectuer un jet de &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;Vigueur&quot;&gt;Vigueur&lt;/a&gt; DD 20. En cas d&#39;&#233;chec, sa peau et sa chair se transforment en une membrane translucide et gluante en 1d4 rounds. La nouvelle &quot;peau&quot; de la cr&#233;ature est souple et tendre ce qui r&#233;duit sa Constitution de 4 points. Si la cr&#233;ature ne garde pas sa &quot;peau&quot; suffisamment humide, celle-ci s&#232;che rapidement et la cr&#233;ature subit 1d12 points de d&#233;g&#226;ts toutes les 10 minutes. Une &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Gu&#233;rison-Des-Maladies.html&quot; title=&quot;Gu&#233;rison des maladies&quot;&gt;gu&#233;rison des maladies&lt;/a&gt;&lt;/i&gt; ou un effet similaire peut rendre son &#233;tat normal &#224; une cr&#233;ature affect&#233;e mais les cr&#233;ature immunis&#233;es contre la maladie ne le sont pas contre cet effet. Le DD du &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;jet de sauvegarde&quot;&gt;jet de sauvegarde&lt;/a&gt; d&#233;pend de la Constitution.
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;td&gt;&lt;div&gt;
+&lt;i&gt;Quatre tentacules garnissent les flancs de cette cr&#233;ature pisciforme &#224; trois
+yeux dont le corps vert est couvert d’un mucus brillant.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Comme l’indique leur apparence horrible et primitive, les cr&#233;atures
+hermaphrodites que sont les aboleths figurent parmi les plus anciennes
+formes de vie du monde : elles &#233;taient d&#233;j&#224; anciennes lorsque les dieux
+ont commenc&#233; &#224; s’int&#233;resser au plan Mat&#233;riel. Elles ont toujours
+men&#233; une existence &#224; l’&#233;cart des autres formes de vie mortelles tout en
+complotant sans cesse. Leurs vastes empires recouvraient autrefois le
+monde et, aujourd’hui encore, elles consid&#232;rent la plupart des autres
+formes de vie comme des esclaves ou comme de la nourriture (parfois
+les deux). Les dieux leur inspirent du d&#233;dain et elles se consid&#232;rent
+comme les v&#233;ritables ma&#238;tres de la cr&#233;ation. Un aboleth mesure
+7,50 m&#232;tres de long et p&#232;se 3 250 kg.&lt;br /&gt;&lt;br /&gt;Les aboleths continuent &#224; vivre dans les profondeurs obscures de
+la mer, au sein de cit&#233;s sinistres au style architectural d&#233;rangeant
+et cyclop&#233;en. L&#224;, d’innombrables esclaves arrach&#233;s &#224; toutes les
+nations (terrestres comme aquatiques) les servent. Les esclaves qui
+ont besoin d’air pour respirer sont retenus prisonniers &#224; la fois par
+magie et par le besoin vital de renouveler leur capacit&#233; &#224; respirer
+sous l’eau gr&#226;ce aux s&#233;cr&#233;tions de leurs ma&#238;tres aboleths. Les
+aboleths solitaires sont le plus souvent des &#233;claireurs &#224; la recherche
+de nouveaux esclaves pour ces cit&#233;s cach&#233;es.
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Aboleth|FP 7}
+{s:pucem|Aberration|Aquatique|Tempéré}
+{s:BDTexte|''Source : Bestiaire page 8''}
+{s:BDTexte|'''PX''' 3.200}
+{s:BDTexte|[[type Aberration|Aberration]] ([[sous-type aquatique|aquatique]]) de taille TG, LM}
+{s:BDTexte|'''Init''' +5 ; '''Sens''' [[vision dans le noir]] (12 cases) ; [[Perception]] +14}
+{s:BDTexte|'''Aura''' nuage de mucus 1,5 m (1 {s:c})}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 20, contact 9, pris au dépourvu 19 (Dex +1, naturelle +11, taille -2)}
+{s:BDTexte|'''pv''' 84 (8d8+48)}
+{s:BDTexte|'''Réf''' +5, '''Vig''' +8, '''Vol''' +11}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 3 m (2 {s:c}), nage 18 m (12 {s:c})}
+{s:BDTexte|'''Corps à corps''' 4 tentacules +10 (1d6+5 et mucus)}
+{s:BDTexte|'''Espace''' 3 ; '''Allonge''' 3}
+{s:BDTexte|'''Pouvoirs magiques''' (NLS 16)}
+{s:BDSorts|À volonté — ''[[image prédéterminée]]'' (DD 18), ''[[image programmée]]'' (DD 19), ''[[lueurs hypnotiques]]'' (DD 15), ''[[mirage]]'' (DD 18), ''[[mur illusoire]]'' (DD 17), ''[[projection dimage|projection d'image]]'' (DD 20), ''[[voile]]'' (DD 19)}
+{s:BDSorts|3/jour — ''[[domination universelle]]'' (DD 22)}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 20, '''Dex''' 12, '''Con''' 22, '''Int''' 15, '''Sag''' 17, '''Cha''' 17}
+{s:BDTexte|'''BBA''' +6, '''BMO''' +13, '''DMD''' 24 (croc-en-jambe impossible)}
+{s:BDTexte|'''Dons''' [[Arme de prédilection]] (tentacule), [[Réflexes surhumains]], [[Science de linitiative|Science de l'initiative]], [[Volonté de fer]]}
+{s:BDTexte|'''Compétences''' [[Art de la magie]] +13, [[Bluff]] +11, [[Connaissances]] (un domaine au choix) +13, [[Intimidation]] +14, [[Natation]] +24, [[Perception]] +14}
+{s:BDTexte|'''Langues''' aboleth, aklo, aquatique, commun des profondeurs}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' milieu aquatique}
+{s:BDTexte|'''Organisation sociale''' solitaire, couple, nichée (3-6) ou banc (7-19)}
+{s:BDTexte|'''Trésor''' double}
+{s:BDSousTitre|Particularités}
+{s:BDTexte|'''Nuage de mucus (Ext)''' Lorsqu'elles se trouvent sous l'eau, les aboleth s'entourent d'un nuage de mucus transparent. Chaque round, toutes les créatures adjacentes doivent effectuer un jet de [[Vigueur]] DD 20.En cas d'échec, elles perdent leur faculté à respirer de l'air mais peuvent respirer sous l'eau pendant 3 heures. Si une créature affectée rentre à nouveau en contact avec un nuage de mucus d'aboleth et rate son [[jet de sauvegarde]], la durée de 3 heures se renouvelle. Le [[DD]] dépend de la Constitution.}
+{s:BDTexte|'''Mucus (Ext)''' Une créature touchée par une tentacule d'aboleth doit effectuer un jet de [[Vigueur]] DD 20. En cas d'échec, sa peau et sa chair se transforment en une membrane translucide et gluante en 1d4 rounds. La nouvelle "peau" de la créature est souple et tendre ce qui réduit sa Constitution de 4 points. Si la créature ne garde pas sa "peau" suffisamment humide, celle-ci sèche rapidement et la créature subit 1d12 points de dégâts toutes les 10 minutes. Une ''[[guérison des maladies]]'' ou un effet similaire peut rendre son état normal à une créature affectée mais les créature immunisées contre la maladie ne le sont pas contre cet effet. Le DD du [[jet de sauvegarde]] dépend de la Constitution.}
+</div>
+</td><td><div>
+''Quatre tentacules garnissent les flancs de cette créature pisciforme à trois
+yeux dont le corps vert est couvert d’un mucus brillant.''
+
+Comme l’indique leur apparence horrible et primitive, les créatures
+hermaphrodites que sont les aboleths figurent parmi les plus anciennes
+formes de vie du monde : elles étaient déjà anciennes lorsque les dieux
+ont commencé à s’intéresser au plan Matériel. Elles ont toujours
+mené une existence à l’écart des autres formes de vie mortelles tout en
+complotant sans cesse. Leurs vastes empires recouvraient autrefois le
+monde et, aujourd’hui encore, elles considèrent la plupart des autres
+formes de vie comme des esclaves ou comme de la nourriture (parfois
+les deux). Les dieux leur inspirent du dédain et elles se considèrent
+comme les véritables maîtres de la création. Un aboleth mesure
+7,50 mètres de long et pèse 3 250 kg.
+
+Les aboleths continuent à vivre dans les profondeurs obscures de
+la mer, au sein de cités sinistres au style architectural dérangeant
+et cyclopéen. Là, d’innombrables esclaves arrachés à toutes les
+nations (terrestres comme aquatiques) les servent. Les esclaves qui
+ont besoin d’air pour respirer sont retenus prisonniers à la fois par
+magie et par le besoin vital de renouveler leur capacité à respirer
+sous l’eau grâce aux sécrétions de leurs maîtres aboleths. Les
+aboleths solitaires sont le plus souvent des éclaireurs à la recherche
+de nouveaux esclaves pour ces cités cachées.
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Aboleth</fullName>
+</wikiPage>

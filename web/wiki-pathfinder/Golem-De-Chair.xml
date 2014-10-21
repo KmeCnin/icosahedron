@@ -1,0 +1,206 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Golem de chair</title>
+  <categories><category>Pathfinder-RPG.Bestiaire</category><category>Pathfinder-RPG.Monstre</category><category>Pathfinder-RPG.Règles officielles</category></categories>
+  <lastModified>2013-02-07 21:30:55Z</lastModified>
+  <version>7</version>
+  <inLinks><link>Pathfinder-RPG.Créatures artificielles</link><link>Pathfinder-RPG.Glossaire des monstres</link><link>Pathfinder-RPG.Golem</link><link>Pathfinder-RPG.Liste de monstres par FP</link><link>Pathfinder-RPG.Liste de monstres par milieu naturel</link><link>Pathfinder-RPG.Liste de monstres par type</link><link>Pathfinder-RPG.Monstres</link><link>Pathfinder-RPG.Traité de création des golems</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.type Créature artificielle</link><link>Pathfinder-RPG.vision dans le noir</link><link>Pathfinder-RPG.vision nocturne</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Traits des créatures artificielles</link><link>Pathfinder-RPG.Charisme</link><link>Pathfinder-RPG.DD</link><link>Pathfinder-RPG.RM</link><link>Pathfinder-RPG.Lenteur</link><link>Pathfinder-RPG.jet de sauvegarde</link><link>Pathfinder-RPG.points de vie temporaires</link><link>Pathfinder-RPG.Création de créatures artificielles</link><link>Pathfinder-RPG.Animation des morts</link><link>Pathfinder-RPG.Force de taureau</link><link>Pathfinder-RPG.Quête</link><link>Pathfinder-RPG.Souhait limité</link><link>Pathfinder-RPG.Artisanat</link><link>Pathfinder-RPG.Premiers secours</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Golem de chair&lt;div style=&quot;float:right;&quot;&gt;FP 7&lt;/div&gt;&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Bestiaire p.167&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 3.200
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Cr&#233;ature-Artificielle.html&quot; title=&quot;Cr&#233;ature artificielle&quot;&gt;Cr&#233;ature artificielle&lt;/a&gt; de taille G, N
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; -1 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Capacit&#233;s-Sp&#233;ciales.html#VISIONDANSLENOIR&quot; title=&quot;vision dans le noir&quot;&gt;vision dans le noir&lt;/a&gt; 18 m (12 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Nocturne-(Capacit&#233;).html&quot; title=&quot;vision nocturne&quot;&gt;vision nocturne&lt;/a&gt; ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +0
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 20, contact 8, pris au d&#233;pourvu 20 (Dex -1, naturelle +12, taille -1)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 79 (9d10+30)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +2, &lt;b&gt;Vig&lt;/b&gt; +3, &lt;b&gt;Vol&lt;/b&gt; +3
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Immunit&#233;s&lt;/b&gt; magie, &lt;a class=&quot;pagelink&quot; href=&quot;Traits-Des-Cr&#233;atures-Artificielles-(Capacit&#233;).html&quot; title=&quot;Traits des cr&#233;atures artificielles&quot;&gt;traits des cr&#233;atures artificielles&lt;/a&gt; ; &lt;b&gt;RD&lt;/b&gt; 5/adamantium 
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 9 m (6 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; 2 coups, +13 (2d8+5)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Espace&lt;/b&gt; 3 m (2 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) ; &lt;b&gt;Allonge&lt;/b&gt; 3 m (2 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaques sp&#233;ciales&lt;/b&gt; fureur d&#233;vastatrice
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 20, &lt;b&gt;Dex&lt;/b&gt; 9, &lt;b&gt;Con&lt;/b&gt; -, &lt;b&gt;Int&lt;/b&gt; -, &lt;b&gt;Sag&lt;/b&gt; 11, &lt;b&gt;Cha&lt;/b&gt; 1
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +9, &lt;b&gt;BMO&lt;/b&gt; +15, &lt;b&gt;DMD&lt;/b&gt; 24
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Langues&lt;/b&gt; aucune
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; quelconque
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation sociale&lt;/b&gt; solitaire ou bande (2-4)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; aucun
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Capacit&#233;s sp&#233;ciales&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Fureur d&#233;vastatrice (Ext).&lt;/b&gt; Lorsqu&#39;un golem de chair combat, il y a un risque que l&#39;esprit &#233;l&#233;mentaire qui l&#39;anime se lib&#232;re et que le golem entre dans une fureur d&#233;vastatrice. Ce risque s&#39;&#233;l&#232;ve &#224; 1% lors du premier round, augmente de 1% &#224; chaque round de combat. La fureur d&#233;vastatrice pousse le golem &#224; ravager tout ce qui lui tombe sous la main : il attaque la cr&#233;ature vivante la plus proche ou frappe un objet plus petit que lui s&#39;il n&#39;y a aucune cr&#233;ature &#224; port&#233;e, puis il continue &#224; semer la destruction. Si le cr&#233;ateur du golem se trouve &#224; moins de 18 m (12 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), il peut tenter de reprendre le contr&#244;le de la cr&#233;ature en lui parlant de mani&#232;re ferme et persuasive, ce qui n&#233;cessite un test de &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#CHARISME&quot; title=&quot;Le Charisme&quot;&gt;Charisme&lt;/a&gt; de &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DEGREDEDIFFICULTE&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; 19. C&#39;est seulement apr&#232;s que le golem soit rest&#233; inactif pendant 1 minute enti&#232;re que le risque de fureur d&#233;vastatrice retombe &#224; 0%.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Immunit&#233; contre la magie (Ext).&lt;/b&gt; Les golems d&#39;argile sont immunis&#233;s contre tous les sorts et pouvoirs magiques contres lesquels la &lt;a class=&quot;pagelink&quot; href=&quot;R&#233;sistance-&#192;-La-Magie-(Capacit&#233;).html&quot; title=&quot;RM&quot;&gt;r&#233;sistance &#224; la magie&lt;/a&gt; fonctionne. En plus de cela, certains sorts et effets agissent diff&#233;remment lorsqu&#39;ils sont utilis&#233;s contre eux :
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;div class=&quot;indent&quot; style=&quot;margin: 0px; padding: 0px; padding-left: 15px&quot;&gt;• Les attaques magiques qui causent des d&#233;g&#226;ts de froid ou de feu ralentissent le golem de chair (comme par le sort de &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Lenteur.html&quot; title=&quot;Lenteur&quot;&gt;lenteur&lt;/a&gt;&lt;/i&gt;) pendant 2d6 rounds (sans &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;jet de sauvegarde&quot;&gt;jet de sauvegarde&lt;/a&gt;).&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;div class=&quot;indent&quot; style=&quot;margin: 0px; padding: 0px; padding-left: 15px&quot;&gt;• Les attaques magiques qui causent de d&#233;g&#226;ts d&#39;&#233;lectricit&#233; mettent un terme &#224; tous les effets de &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Lenteur.html&quot; title=&quot;Lenteur&quot;&gt;lenteur&lt;/a&gt;&lt;/i&gt; qui affectent le golem et le gu&#233;rissent de 1 point de d&#233;g&#226;ts pour chaque tranche de 3 points qu&#39;elles infligeraient dans une situation normale. Si cet effet donne au golem un nombre de points de vie d&#233;passant son maximum, les points exc&#233;dentaires sont des &lt;a class=&quot;pagelink&quot; href=&quot;Blessures-Et-Mort.html#PVTEMPORAIRES&quot; title=&quot;points de vie temporaires&quot;&gt;points de vie temporaires&lt;/a&gt;. Les effets qui infligent des d&#233;g&#226;ts d&#39;&#233;lectricit&#233; n&#39;autorisent aucun &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;jet de sauvegarde&quot;&gt;jet de sauvegarde&lt;/a&gt; de la part du golem de chair.&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;td&gt;&lt;div&gt;&lt;i&gt;Cet horrible monstre titubant est un assemblage de membres ligatur&#233;s avec de la ficelle &#233;paisse et de larges attaches m&#233;talliques.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Les golems de chair sont des assemblages macabres de parties de
+corps humains d&#233;rob&#233;es puis attach&#233;es ensemble pour former un
+corps disparate. Leur peau cadav&#233;rique a une teinte maladive verd&#226;tre
+ou jaun&#226;tre. Les habits qu’un golem de chair porte d&#233;pendent des
+d&#233;sirs de son cr&#233;ateur, mais il s’agit g&#233;n&#233;ralement d’une simple paire
+de pantalons en lambeaux. Le golem n’a ni &#233;quipement ni armes. Un
+golem de chair mesure 2,40 m&#232;tres de hauteur et p&#232;se 250 kg.&lt;br /&gt;&lt;br /&gt;Les golems de chair ne peuvent pas parler, mais ils peuvent &#233;mettre
+une sorte de rugissement rauque. Ils marchent et se d&#233;placent avec
+une allure trahissant le manque de souplesse de leurs articulations,
+comme s’ils ne contr&#244;laient pas totalement leur corps.&lt;br /&gt;&lt;br /&gt;La plupart des golems de chair sont d&#233;nu&#233;s d’intelligence mais
+certaines rumeurs persistantes parlent de golems &#233;tranges qui
+sont parvenus, pour une raison ou pour une autre, &#224; conserver
+les souvenirs de leur vie d’avant. Ces cas r&#233;sultent sans
+doute d’une combinaison parfaite de plusieurs
+conditions, dont la pr&#233;sence d’un cerveau
+suffisamment frais et provenant d’un
+individu qui poss&#233;dait une forte volont&#233;
+de son vivant. &lt;br /&gt;&lt;br /&gt;Et encore... la chance et le
+hasard jouent &#233;galement un r&#244;le important
+pour que le proc&#233;d&#233; de cr&#233;ation du golem
+lui permette de conserver son esprit. Une
+chose est certaine : ceux qui construisent
+des golems de chair pr&#233;f&#232;rent les esclaves sans
+cervelle aux cr&#233;ations dot&#233;es d’un libre arbitre.
+C’est sans doute pour &#231;a aussi que les golems de
+chair intelligents sont tr&#232;s rares.&lt;br /&gt;&lt;br /&gt;&lt;h3 class=&quot;separator&quot;&gt;Construction&lt;a class=&quot;headeranchor&quot; id=&quot;Construction_0&quot; href=&quot;#Construction_0&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;
+Les parties du corps du golem de chair doivent
+provenir de cadavres d’humano&#239;des normaux au tout
+d&#233;but de leur processus de d&#233;composition. Il faut au
+moins six corps pour cr&#233;er un golem : un par membre, un
+pour le torse et la t&#234;te et un pour le cerveau. Dans certains
+cas, davantage de corps sont n&#233;cessaires. Le processus
+requiert &#233;galement des onguents et des attaches valant
+500 po. Notez que, pour cr&#233;er un golem de chair, il faut
+lancer un sort du registre du Mal.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;NLS&lt;/b&gt; 8&lt;sup&gt;e&lt;/sup&gt; ; &lt;b&gt;Prix&lt;/b&gt; 20 500 po&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Conditions&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;ation-De-Cr&#233;atures-Artificielles.html&quot; title=&quot;Cr&#233;ation de cr&#233;atures artificielles&quot;&gt;Cr&#233;ation de cr&#233;atures artificielles&lt;/a&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Animation-Des-Morts.html&quot; title=&quot;Animation des morts&quot;&gt;animation des morts&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Force-De-Taureau.html&quot; title=&quot;Force de taureau&quot;&gt;force de taureau&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Qu&#234;te.html&quot; title=&quot;Qu&#234;te&quot;&gt;qu&#234;te&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Souhait-Limit&#233;.html&quot; title=&quot;Souhait limit&#233;&quot;&gt;souhait limit&#233;&lt;/a&gt;&lt;/i&gt;, cr&#233;ateur de niveau 8 ; &lt;b&gt;Comp&#233;tence&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Artisanat.html&quot; title=&quot;Artisanat&quot;&gt;Artisanat&lt;/a&gt; (cuir) ou &lt;a class=&quot;pagelink&quot; href=&quot;Premiers-Secours.html&quot; title=&quot;Premiers secours&quot;&gt;Premiers secours&lt;/a&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DEGREDEDIFFICULTE&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; 13 ; &lt;b&gt;Co&#251;t&lt;/b&gt; 10 500 po
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Golem de chair|FP 7}
+{s:pucem|Créature artificielle|Ruines-Donjons|Tempéré}
+{s:BDTexte|''Source : Bestiaire p.167''}
+{s:BDTexte|'''PX''' 3.200}
+{s:BDTexte|[[type Créature artificielle|Créature artificielle]] de taille G, N}
+{s:BDTexte|'''Init''' -1 ; '''Sens''' [[vision dans le noir]] 18 m (12 {s:c}), [[vision nocturne]] ; [[Perception]] +0}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 20, contact 8, pris au dépourvu 20 (Dex -1, naturelle +12, taille -1)}
+{s:BDTexte|'''pv''' 79 (9d10+30)}
+{s:BDTexte|'''Réf''' +2, '''Vig''' +3, '''Vol''' +3}
+{s:BDTexte|'''Immunités''' magie, [[traits des créatures artificielles]] ; '''RD''' 5/adamantium }
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 9 m (6 {s:c})}
+{s:BDTexte|'''Corps à corps''' 2 coups, +13 (2d8+5)}
+{s:BDTexte|'''Espace''' 3 m (2 {s:c}) ; '''Allonge''' 3 m (2 {s:c})}
+{s:BDTexte|'''Attaques spéciales''' fureur dévastatrice}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 20, '''Dex''' 9, '''Con''' -, '''Int''' -, '''Sag''' 11, '''Cha''' 1}
+{s:BDTexte|'''BBA''' +9, '''BMO''' +15, '''DMD''' 24}
+{s:BDTexte|'''Langues''' aucune}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' quelconque}
+{s:BDTexte|'''Organisation sociale''' solitaire ou bande (2-4)}
+{s:BDTexte|'''Trésor''' aucun}
+{s:BDSousTitre|Capacités spéciales}
+{s:BDTexte|'''Fureur dévastatrice (Ext).''' Lorsqu'un golem de chair combat, il y a un risque que l'esprit élémentaire qui l'anime se libère et que le golem entre dans une fureur dévastatrice. Ce risque s'élève à 1% lors du premier round, augmente de 1% à chaque round de combat. La fureur dévastatrice pousse le golem à ravager tout ce qui lui tombe sous la main : il attaque la créature vivante la plus proche ou frappe un objet plus petit que lui s'il n'y a aucune créature à portée, puis il continue à semer la destruction. Si le créateur du golem se trouve à moins de 18 m (12 {s:c}), il peut tenter de reprendre le contrôle de la créature en lui parlant de manière ferme et persuasive, ce qui nécessite un test de [[Charisme]] de [[DD]] 19. C'est seulement après que le golem soit resté inactif pendant 1 minute entière que le risque de fureur dévastatrice retombe à 0%.}
+{S:BDTexte|'''Immunité contre la magie (Ext).''' Les golems d'argile sont immunisés contre tous les sorts et pouvoirs magiques contres lesquels la [[RM|résistance à la magie]] fonctionne. En plus de cela, certains sorts et effets agissent différemment lorsqu'ils sont utilisés contre eux :}
+{s:BDTexte|:• Les attaques magiques qui causent des dégâts de froid ou de feu ralentissent le golem de chair (comme par le sort de ''[[lenteur]]'') pendant 2d6 rounds (sans [[jet de sauvegarde]]).}
+{s:BDTexte|:• Les attaques magiques qui causent de dégâts d'électricité mettent un terme à tous les effets de ''[[lenteur]]'' qui affectent le golem et le guérissent de 1 point de dégâts pour chaque tranche de 3 points qu'elles infligeraient dans une situation normale. Si cet effet donne au golem un nombre de points de vie dépassant son maximum, les points excédentaires sont des [[points de vie temporaires]]. Les effets qui infligent des dégâts d'électricité n'autorisent aucun [[jet de sauvegarde]] de la part du golem de chair.}
+</div>
+</td><td><div>''Cet horrible monstre titubant est un assemblage de membres ligaturés avec de la ficelle épaisse et de larges attaches métalliques.''
+
+Les golems de chair sont des assemblages macabres de parties de
+corps humains dérobées puis attachées ensemble pour former un
+corps disparate. Leur peau cadavérique a une teinte maladive verdâtre
+ou jaunâtre. Les habits qu’un golem de chair porte dépendent des
+désirs de son créateur, mais il s’agit généralement d’une simple paire
+de pantalons en lambeaux. Le golem n’a ni équipement ni armes. Un
+golem de chair mesure 2,40 mètres de hauteur et pèse 250 kg.
+
+Les golems de chair ne peuvent pas parler, mais ils peuvent émettre
+une sorte de rugissement rauque. Ils marchent et se déplacent avec
+une allure trahissant le manque de souplesse de leurs articulations,
+comme s’ils ne contrôlaient pas totalement leur corps.
+
+La plupart des golems de chair sont dénués d’intelligence mais
+certaines rumeurs persistantes parlent de golems étranges qui
+sont parvenus, pour une raison ou pour une autre, à conserver
+les souvenirs de leur vie d’avant. Ces cas résultent sans
+doute d’une combinaison parfaite de plusieurs
+conditions, dont la présence d’un cerveau
+suffisamment frais et provenant d’un
+individu qui possédait une forte volonté
+de son vivant. 
+
+Et encore... la chance et le
+hasard jouent également un rôle important
+pour que le procédé de création du golem
+lui permette de conserver son esprit. Une
+chose est certaine : ceux qui construisent
+des golems de chair préfèrent les esclaves sans
+cervelle aux créations dotées d’un libre arbitre.
+C’est sans doute pour ça aussi que les golems de
+chair intelligents sont très rares.
+
+====Construction====
+
+Les parties du corps du golem de chair doivent
+provenir de cadavres d’humanoïdes normaux au tout
+début de leur processus de décomposition. Il faut au
+moins six corps pour créer un golem : un par membre, un
+pour le torse et la tête et un pour le cerveau. Dans certains
+cas, davantage de corps sont nécessaires. Le processus
+requiert également des onguents et des attaches valant
+500 po. Notez que, pour créer un golem de chair, il faut
+lancer un sort du registre du Mal.
+
+'''NLS''' 8<sup>e</sup> ; '''Prix''' 20 500 po
+
+'''Conditions''' [[Création de créatures artificielles]], ''[[animation des morts]]'', ''[[force de taureau]]'', ''[[quête]]'', ''[[souhait limité]]'', créateur de niveau 8 ; '''Compétence''' [[Artisanat]] (cuir) ou [[Premiers secours]] [[DD]] 13 ; '''Coût''' 10 500 po
+</div></td></tr></table>
+</div>]]></raw>
+  <fullName>Pathfinder-RPG.Golem de chair</fullName>
+</wikiPage>

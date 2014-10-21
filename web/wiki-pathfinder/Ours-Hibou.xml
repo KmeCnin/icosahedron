@@ -1,0 +1,193 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Ours-hibou</title>
+  <categories><category>Pathfinder-RPG.Bestiaire</category><category>Pathfinder-RPG.Monstre</category><category>Pathfinder-RPG.Règles officielles</category></categories>
+  <lastModified>2013-02-07 18:54:55Z</lastModified>
+  <version>4</version>
+  <inLinks><link>Pathfinder-RPG.Convocation dalliés naturels</link><link>Pathfinder-RPG.Glossaire des monstres</link><link>Pathfinder-RPG.Liste de monstres par FP</link><link>Pathfinder-RPG.Liste de monstres par milieu naturel</link><link>Pathfinder-RPG.Liste de monstres par type</link><link>Pathfinder-RPG.Monstres</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.type Créature magique</link><link>Pathfinder-RPG.odorat</link><link>Pathfinder-RPG.vision dans le noir</link><link>Pathfinder-RPG.vision nocturne</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Étreinte</link><link>Pathfinder-RPG.lutte</link><link>Pathfinder-RPG.croc-en-jambe</link><link>Pathfinder-RPG.Science de linitiative</link><link>Pathfinder-RPG.Talent</link><link>Pathfinder-RPG.Vigueur surhumaine</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Ours-hibou&lt;div style=&quot;float:right;&quot;&gt;FP 4&lt;/div&gt;&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Bestiaire&lt;/i&gt; p.236
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 1.200
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Cr&#233;ature-Magique.html&quot; title=&quot;Cr&#233;ature magique&quot;&gt;Cr&#233;ature magique&lt;/a&gt; de taille G, N
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +5 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Odorat-(Capacit&#233;).html&quot; title=&quot;odorat&quot;&gt;odorat&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Capacit&#233;s-Sp&#233;ciales.html#VISIONDANSLENOIR&quot; title=&quot;vision dans le noir&quot;&gt;vision dans le noir&lt;/a&gt; 18 m (12 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Nocturne-(Capacit&#233;).html&quot; title=&quot;vision nocturne&quot;&gt;vision nocturne&lt;/a&gt; ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +12
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 15, contact 10, pris au d&#233;pourvu 14 (Dex +1, naturelle +5, taille -1)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 47 (5d10+20)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +5, &lt;b&gt;Vig&lt;/b&gt; +10, &lt;b&gt;Vol&lt;/b&gt; +2
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 9 m (6 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; 2 griffes, +8 (1d6+4 et &lt;a class=&quot;pagelink&quot; href=&quot;&#201;treinte-(Capacit&#233;).html&quot; title=&quot;&#201;treinte&quot;&gt;&#233;treinte&lt;/a&gt;), morsure, +8 (1d6+4)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Espace&lt;/b&gt; 3 m (2 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) ; &lt;b&gt;Allonge&lt;/b&gt; 1,50 m (1 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 19, &lt;b&gt;Dex&lt;/b&gt; 12, &lt;b&gt;Con&lt;/b&gt; 18, &lt;b&gt;Int&lt;/b&gt; 2, &lt;b&gt;Sag&lt;/b&gt; 12, &lt;b&gt;Cha&lt;/b&gt; 10
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +5, &lt;b&gt;BMO&lt;/b&gt; +10 (+14 &lt;a class=&quot;pagelink&quot; href=&quot;Manœuvres-Offensives.html#LUTTE&quot; title=&quot;lutte&quot;&gt;lutte&lt;/a&gt;), &lt;b&gt;DMD&lt;/b&gt; 21 (25 contre &lt;a class=&quot;pagelink&quot; href=&quot;Croc-En-Jambe.html&quot; title=&quot;croc-en-jambe&quot;&gt;croc-en-jambe&lt;/a&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Science-De-Linitiative.html&quot; title=&quot;Science de l&amp;#39;initiative&quot;&gt;Science de l&#39;initiative&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Talent.html&quot; title=&quot;Talent&quot;&gt;Talent&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt;), &lt;a class=&quot;pagelink&quot; href=&quot;Vigueur-Surhumaine.html&quot; title=&quot;Vigueur surhumaine&quot;&gt;Vigueur surhumaine&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +12
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; for&#234;ts temp&#233;r&#233;es
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation sociale&lt;/b&gt; solitaire, couple ou meute (3-8)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; fortuit
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;td&gt;&lt;div&gt;&lt;i&gt;Cet &#233;trange monstre col&#233;rique mi-ours mi-hibou est couvert d’un
+amalgame de plumes et de fourrure et brandit ses griffes.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;L’origine des ours-hiboux est source de grands
+d&#233;bats chez les &#233;rudits qui &#233;tudient les monstres,
+mais la plupart d’entre eux s’accordent sur le fait que,
+dans un pass&#233; distant, un magicien fou a d&#251; cr&#233;er les
+premiers sp&#233;cimens en croisant un ours et un hibou,
+peut-&#234;tre pour prouver une th&#232;se insens&#233;e &#224; propos
+de la nature de la vie, ou par pure d&#233;mence. Quelle
+qu’ait &#233;t&#233; la raison qui a motiv&#233; la cr&#233;ation de
+ces abominations, elles se sont reproduites
+de mani&#232;re naturelle et se sont install&#233;es
+dans les for&#234;ts &#224; travers le monde, o&#249; elles
+occupent d&#233;sormais un r&#244;le important de
+pr&#233;dateur pr&#232;s des sommets de la cha&#238;ne
+alimentaire.&lt;br /&gt;&lt;br /&gt;La r&#233;putation des ours-hiboux les
+d&#233;peint comme des tueurs assoiff&#233;s de sang,
+facilement irascibles, agressifs et fondamentalement sauvages.
+Ils attaquent g&#233;n&#233;ralement sans provocation et massacrent toutes
+les cr&#233;atures vivantes qui croisent leur chemin. Parmi les &#233;rudits
+qui ont rencontr&#233; ces cr&#233;atures &#224; l’&#233;tat sauvage, beaucoup ont
+not&#233; qu’elles avaient toutes les yeux cercl&#233;s de rouge et qu’elles
+les agitaient dans tous les sens au moment o&#249; elles
+s’approchaient pour attaquer. On explique parfois ce
+comportement comme un signe de folie, ce qui laisserait
+penser que tous les ours-hiboux poss&#232;dent un besoin pathologique et inn&#233; de combattre et de tuer, mais des chercheurs
+plus fiables pensent que c’est tout simplement la mani&#232;re dont
+leur gigantesques yeux d’oiseaux-b&#234;tes fonctionnent.&lt;br /&gt;&lt;br /&gt;Les ours-hiboux habitent g&#233;n&#233;ralement dans des r&#233;gions
+sauvages d&#233;sol&#233;es et &#233;tablissent leur repaire au sein de for&#234;ts
+denses ou dans des grottes obscures pr&#232;s de la surface. Ils peuvent
+chasser tout aussi bien pendant le jour que la nuit, en fonction du
+type de proies disponibles dans leur territoire.&lt;br /&gt;&lt;br /&gt;Les ours-hiboux adultes vivent en couples et chassent en petits
+groupes, laissant leurs jeunes dans leur repaire pendant qu’ils
+partent &#224; la recherche de proies. Leur repaire abrite g&#233;n&#233;ralement
+1d6 jeunes, qui peuvent &#234;tre monnay&#233;s pour un prix allant jusqu’&#224;
+3 000 po chacun sur les march&#233;s de nombreuses villes.&lt;br /&gt;&lt;br /&gt;On consid&#232;re que la nature sauvage des ours-hiboux les rend
+impossibles &#224; domestiquer, mais ils peuvent servir de gardes s’ils
+sont enferm&#233;s dans une zone tout en &#233;tant libres de s’y promener
+et d’y chasser. Les dresseurs d’animaux professionnels demandent
+jusqu’&#224; 2 000 po pour briser un ours-hibou ou pour l’entra&#238;ner et
+en faire un garde capable d’ob&#233;ir &#224; des ordres simples (DD 23 pour
+un jeune, DD 30 pour un adulte).&lt;br /&gt;&lt;br /&gt;Un adulte m&#226;le peut atteindre une hauteur de 2,40 m&#232;tres et
+un poids de 750 kg.
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Ours-hibou|FP 4}
+{s:pucem|Créature magique|Forêt-Jungle|Tempéré}
+{s:BDTexte|''Source : Bestiaire'' p.236}
+{s:BDTexte|'''PX''' 1.200}
+{s:BDTexte|[[type Créature magique|Créature magique]] de taille G, N}
+{s:BDTexte|'''Init''' +5 ; '''Sens''' [[odorat]], [[vision dans le noir]] 18 m (12 {s:c}), [[vision nocturne]] ; [[Perception]] +12}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 15, contact 10, pris au dépourvu 14 (Dex +1, naturelle +5, taille -1)}
+{s:BDTexte|'''pv''' 47 (5d10+20)}
+{s:BDTexte|'''Réf''' +5, '''Vig''' +10, '''Vol''' +2}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 9 m (6 {s:c})}
+{s:BDTexte|'''Corps à corps''' 2 griffes, +8 (1d6+4 et [[étreinte]]), morsure, +8 (1d6+4)}
+{s:BDTexte|'''Espace''' 3 m (2 {s:c}) ; '''Allonge''' 1,50 m (1 {s:c})}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 19, '''Dex''' 12, '''Con''' 18, '''Int''' 2, '''Sag''' 12, '''Cha''' 10}
+{s:BDTexte|'''BBA''' +5, '''BMO''' +10 (+14 [[lutte]]), '''DMD''' 21 (25 contre [[croc-en-jambe]])}
+{s:BDTexte|'''Dons''' [[Science de linitiative|Science de l'initiative]], [[Talent]] ([[Perception]]), [[Vigueur surhumaine]]}
+{s:BDTexte|'''Compétences''' [[Perception]] +12}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' forêts tempérées}
+{s:BDTexte|'''Organisation sociale''' solitaire, couple ou meute (3-8)}
+{s:BDTexte|'''Trésor''' fortuit}
+</div>
+</td><td><div>''Cet étrange monstre colérique mi-ours mi-hibou est couvert d’un
+amalgame de plumes et de fourrure et brandit ses griffes.''
+
+L’origine des ours-hiboux est source de grands
+débats chez les érudits qui étudient les monstres,
+mais la plupart d’entre eux s’accordent sur le fait que,
+dans un passé distant, un magicien fou a dû créer les
+premiers spécimens en croisant un ours et un hibou,
+peut-être pour prouver une thèse insensée à propos
+de la nature de la vie, ou par pure démence. Quelle
+qu’ait été la raison qui a motivé la création de
+ces abominations, elles se sont reproduites
+de manière naturelle et se sont installées
+dans les forêts à travers le monde, où elles
+occupent désormais un rôle important de
+prédateur près des sommets de la chaîne
+alimentaire.
+
+La réputation des ours-hiboux les
+dépeint comme des tueurs assoiffés de sang,
+facilement irascibles, agressifs et fondamentalement sauvages.
+Ils attaquent généralement sans provocation et massacrent toutes
+les créatures vivantes qui croisent leur chemin. Parmi les érudits
+qui ont rencontré ces créatures à l’état sauvage, beaucoup ont
+noté qu’elles avaient toutes les yeux cerclés de rouge et qu’elles
+les agitaient dans tous les sens au moment où elles
+s’approchaient pour attaquer. On explique parfois ce
+comportement comme un signe de folie, ce qui laisserait
+penser que tous les ours-hiboux possèdent un besoin pathologique et inné de combattre et de tuer, mais des chercheurs
+plus fiables pensent que c’est tout simplement la manière dont
+leur gigantesques yeux d’oiseaux-bêtes fonctionnent.
+
+Les ours-hiboux habitent généralement dans des régions
+sauvages désolées et établissent leur repaire au sein de forêts
+denses ou dans des grottes obscures près de la surface. Ils peuvent
+chasser tout aussi bien pendant le jour que la nuit, en fonction du
+type de proies disponibles dans leur territoire.
+
+Les ours-hiboux adultes vivent en couples et chassent en petits
+groupes, laissant leurs jeunes dans leur repaire pendant qu’ils
+partent à la recherche de proies. Leur repaire abrite généralement
+1d6 jeunes, qui peuvent être monnayés pour un prix allant jusqu’à
+3 000 po chacun sur les marchés de nombreuses villes.
+
+On considère que la nature sauvage des ours-hiboux les rend
+impossibles à domestiquer, mais ils peuvent servir de gardes s’ils
+sont enfermés dans une zone tout en étant libres de s’y promener
+et d’y chasser. Les dresseurs d’animaux professionnels demandent
+jusqu’à 2 000 po pour briser un ours-hibou ou pour l’entraîner et
+en faire un garde capable d’obéir à des ordres simples (DD 23 pour
+un jeune, DD 30 pour un adulte).
+
+Un adulte mâle peut atteindre une hauteur de 2,40 mètres et
+un poids de 750 kg.
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Ours-hibou</fullName>
+</wikiPage>

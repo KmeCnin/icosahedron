@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Nuage de toile</title>
+  <categories><category>Pathfinder-RPG.Manuel des races</category><category>Pathfinder-RPG.Sort</category><category>Pathfinder-RPG.Sort magicien 4</category><category>Pathfinder-RPG.Sort sorcière 4</category></categories>
+  <lastModified>2014-09-14 21:56:09Z</lastModified>
+  <version>5</version>
+  <inLinks><link>Pathfinder-RPG.Démarche de laraignée (drow)</link><link>Pathfinder-RPG.Drow (race)</link><link>Pathfinder-RPG.Liste des sorts (suite)</link><link>Pathfinder-RPG.Liste des sorts de sorcière</link><link>Pathfinder-RPG.Liste des sorts densorceleursmagiciens</link><link>Pathfinder-RPG.Temp-manuel-des-races</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Drow</link><link>Pathfinder-RPG.Invocation</link><link>Pathfinder-RPG.branche création</link><link>Pathfinder-RPG.Ensorceleur</link><link>Pathfinder-RPG.Magicien</link><link>Pathfinder-RPG.Sorcière</link><link>Pathfinder-RPG.Action simple</link><link>Pathfinder-RPG.composantes</link><link>Pathfinder-RPG.niveau</link><link>Pathfinder-RPG.Réflexes</link><link>Pathfinder-RPG.Présentation des sorts</link><link>Pathfinder-RPG.Brume mortelle</link><link>Pathfinder-RPG.Toile daraignée</link><link>Pathfinder-RPG.Résistance (capacité)</link></outLinks>
+  <body><![CDATA[
+&lt;b&gt;Ce sort est r&#233;serv&#233; aux personnages de la race &lt;a class=&quot;pagelink&quot; href=&quot;Drow.html&quot; title=&quot;Drow&quot;&gt;Drow&lt;/a&gt;.&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;&lt;b&gt;&#201;cole&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#INVOCATION&quot; title=&quot;Invocation&quot;&gt;Invocation&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#CREATION&quot; title=&quot;cr&#233;ation&quot;&gt;cr&#233;ation&lt;/a&gt;) ; &lt;b&gt;Niveau&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Ensorceleur.html&quot; title=&quot;L&amp;#39;ensorceleur&quot;&gt;Ensorceleur&lt;/a&gt;/&lt;a class=&quot;pagelink&quot; href=&quot;Magicien.html&quot; title=&quot;Le magicien&quot;&gt;Magicien&lt;/a&gt; 4, &lt;a class=&quot;pagelink&quot; href=&quot;Sorci&#232;re.html&quot; title=&quot;La sorci&#232;re&quot;&gt;Sorci&#232;re&lt;/a&gt; 4&lt;br/&gt;
+&lt;b&gt;Temps d&#39;incantation&lt;/b&gt; 1 &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions.html#SIMPLE&quot; title=&quot;Action simple&quot;&gt;action simple&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Composantes&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#COMPOSANTES&quot; title=&quot;composantes&quot;&gt;V, G&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Port&#233;e&lt;/b&gt; moyenne (30 m + 3 m/&lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#NIVEAU&quot; title=&quot;niveau&quot;&gt;niveau&lt;/a&gt;) (20 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt; + 2 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;/&lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#NIVEAU&quot; title=&quot;niveau&quot;&gt;niveau&lt;/a&gt;)&lt;br/&gt;
+&lt;b&gt;Effet&lt;/b&gt; le nuage s’&#233;tend sur un espace de 6 m de rayon et de 6 m de haut&lt;br/&gt;
+&lt;b&gt;Dur&#233;e&lt;/b&gt; 1 minute/&lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#NIVEAU&quot; title=&quot;niveau&quot;&gt;niveau&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Jet de sauvegarde&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;R&#233;flexes&quot;&gt;R&#233;flexes&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#JETSDESAUVEGARDE&quot; title=&quot;Pr&#233;sentation des sorts&quot;&gt;partiel&lt;/a&gt; (voir description) ; &lt;b&gt;R&#233;sistance &#224; la magie&lt;/b&gt; non&lt;br /&gt;&lt;br /&gt;Le lanceur de sorts cr&#233;e un nuage de fils de toile d’araign&#233;e adh&#233;sifs et r&#233;sistants au feu qui s’&#233;l&#232;ve en volutes et s’&#233;tend, comme un sort de &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Brume-Mortelle.html&quot; title=&quot;Brume mortelle&quot;&gt;brume mortelle&lt;/a&gt;&lt;/i&gt;. Le nuage s’&#233;loigne du lanceur &#224; raison de 3 m&#232;tres par round, roulant au-dessus du sol.&lt;br /&gt;&lt;br /&gt;Pour d&#233;finir la nouvelle &#233;tendue du nuage chaque round, basez-vous sur son nouveau point d’origine qui se trouve 3 m&#232;tres plus loin que le point d’origine o&#249; le sort a &#233;t&#233; lanc&#233;. Les cr&#233;atures pi&#233;g&#233;es dans ce nuage en restent prisonni&#232;res m&#234;me apr&#232;s que le nuage les d&#233;passe, mais la zone que le nuage laisse derri&#232;re lui ne compte pas comme un terrain difficile.&lt;br /&gt;&lt;br /&gt;Le nuage de toile &#233;tant plus lourd que l’air, il s’enfonce dans les plus bas niveaux du sol, se d&#233;versant m&#234;me dans les ouvertures des tani&#232;res et des gouffres. Le nuage de toile ne peut pas p&#233;n&#233;trer les liquides ni &#234;tre lanc&#233; sous l’eau.&lt;br /&gt;&lt;br /&gt;En outre, le nuage fonctionne comme le sort &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Toile-Daraign&#233;e.html&quot; title=&quot;Toile d&amp;#39;araign&#233;e&quot;&gt;toile d’araign&#233;e&lt;/a&gt;&lt;/i&gt;. Une cr&#233;ature situ&#233;e dans le nuage au d&#233;but de son tour doit r&#233;ussir un jet de sauvegarde ou &#234;tre affect&#233;e. La toile de ce sort est inflammable (voir le sort toile d’araign&#233;e), mais a une &lt;a class=&quot;pagelink&quot; href=&quot;R&#233;sistance-(Capacit&#233;).html&quot; title=&quot;R&#233;sistance (aux &#233;nergies destructrices) (Ext)&quot;&gt;r&#233;sistance au feu&lt;/a&gt; de 5.
+]]></body>
+  <raw><![CDATA[{s:MR}
+'''Ce sort est réservé aux personnages de la race [[Drow]].'''
+
+'''École''' [[Invocation]] ([[branche création|création]]) ; '''Niveau''' [[Ensorceleur]]/[[Magicien]] 4, [[Sorcière]] 4<br/>
+'''Temps d'incantation''' 1 [[action simple]]<br/>
+'''Composantes''' [[composantes|V, G]]<br/>
+'''Portée''' moyenne (30 m + 3 m/[[niveau]]) (20 {s:c} + 2 {s:c}/[[niveau]])<br/>
+'''Effet''' le nuage s’étend sur un espace de 6 m de rayon et de 6 m de haut<br/>
+'''Durée''' 1 minute/[[niveau]]<br/>
+'''Jet de sauvegarde''' [[Réflexes]], [[Présentation des sorts#JETSDESAUVEGARDE|partiel]] (voir description) ; '''Résistance à la magie''' non
+
+Le lanceur de sorts crée un nuage de fils de toile d’araignée adhésifs et résistants au feu qui s’élève en volutes et s’étend, comme un sort de ''[[brume mortelle]]''. Le nuage s’éloigne du lanceur à raison de 3 mètres par round, roulant au-dessus du sol.
+
+Pour définir la nouvelle étendue du nuage chaque round, basez-vous sur son nouveau point d’origine qui se trouve 3 mètres plus loin que le point d’origine où le sort a été lancé. Les créatures piégées dans ce nuage en restent prisonnières même après que le nuage les dépasse, mais la zone que le nuage laisse derrière lui ne compte pas comme un terrain difficile.
+
+Le nuage de toile étant plus lourd que l’air, il s’enfonce dans les plus bas niveaux du sol, se déversant même dans les ouvertures des tanières et des gouffres. Le nuage de toile ne peut pas pénétrer les liquides ni être lancé sous l’eau.
+
+En outre, le nuage fonctionne comme le sort ''[[toile daraignée|toile d’araignée]]''. Une créature située dans le nuage au début de son tour doit réussir un jet de sauvegarde ou être affectée. La toile de ce sort est inflammable (voir le sort toile d’araignée), mais a une [[résistance (capacité)|résistance au feu]] de 5.
+]]></raw>
+  <fullName>Pathfinder-RPG.Nuage de toile</fullName>
+</wikiPage>

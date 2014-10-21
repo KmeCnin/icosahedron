@@ -1,0 +1,394 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Blessures et vitalité</title>
+  <categories><category>Pathfinder-RPG.Art de la guerre</category><category>Pathfinder-RPG.Règles officielles</category></categories>
+  <lastModified>2013-03-03 23:40:01Z</lastModified>
+  <version>8</version>
+  <inLinks><link>Pathfinder-RPG.Blessures et vitalité</link><link>Pathfinder-RPG.Description des pièces darmure</link><link>Pathfinder-RPG.Dur à cuire</link><link>Pathfinder-RPG.Dur à cuire (alternatif)</link><link>Pathfinder-RPG.Frappes ciblées</link><link>Pathfinder-RPG.Initié du refus de mourir</link><link>Pathfinder-RPG.Initié du refus de mourir (alternatif)</link><link>Pathfinder-RPG.Larmure comme RD</link><link>Pathfinder-RPG.Maître du refus de mourir</link><link>Pathfinder-RPG.Maître du refus de mourir (alternatif)</link><link>Pathfinder-RPG.Pièces darmures</link><link>Pathfinder-RPG.Régles alternatives</link><link>Pathfinder-RPG.Robustesse</link><link>Pathfinder-RPG.Robustesse (alternatif)</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Régles alternatives</link><link>Pathfinder-RPG.Larmure comme RD</link><link>Pathfinder-RPG.Frappes ciblées</link><link>Pathfinder-RPG.Pièces darmures</link><link>Pathfinder-RPG.Description des pièces darmure</link><link>Pathfinder-RPG.Blessures et vitalité</link><link>Pathfinder-RPG.points de vie</link><link>Pathfinder-RPG.Guerrier</link><link>Pathfinder-RPG.coup critique</link><link>Pathfinder-RPG.Constitution</link><link>Pathfinder-RPG.Chancelant</link><link>Pathfinder-RPG.Action simple</link><link>Pathfinder-RPG.Action de mouvement</link><link>Pathfinder-RPG.DD</link><link>Pathfinder-RPG.Inconscient</link><link>Pathfinder-RPG.Mort</link><link>Pathfinder-RPG.affaiblissement temporaire (capacité)</link><link>Pathfinder-RPG.canalisation dénergie</link><link>Pathfinder-RPG.Imposition des mains</link><link>Pathfinder-RPG.Paladin</link><link>Pathfinder-RPG.Guérison suprême</link><link>Pathfinder-RPG.Prêtre</link><link>Pathfinder-RPG.Restauration</link><link>Pathfinder-RPG.diminution permanente</link><link>Pathfinder-RPG.Énergie négative</link><link>Pathfinder-RPG.Mise à mal</link><link>Pathfinder-RPG.points de vie temporaires</link><link>Pathfinder-RPG.Désintégration</link><link>Pathfinder-RPG.Dur à cuire (alternatif)</link><link>Pathfinder-RPG.Initié du refus de mourir (alternatif)</link><link>Pathfinder-RPG.For</link><link>Pathfinder-RPG.Endurance</link><link>Pathfinder-RPG.BBA</link><link>Pathfinder-RPG.Orque</link><link>Pathfinder-RPG.Demi-orque</link><link>Pathfinder-RPG.Maître du refus de mourir (alternatif)</link><link>Pathfinder-RPG.Peau de fer</link><link>Pathfinder-RPG.Robustesse (alternatif)</link></outLinks>
+  <body><![CDATA[&lt;div style=&quot;float: right; margin-left: 10px; margin-right: -40px; max-width: 300px;&quot; class=&quot;presentation recentre&quot;&gt;&lt;table id=&quot;TocContainerTable&quot;&gt;&lt;tr&gt;&lt;td&gt;&lt;div id=&quot;TocContainer&quot;&gt;&lt;p class=&quot;small&quot;&gt;&lt;b&gt;Table of Contents&lt;/b&gt;&lt;span id=&quot;ExpandTocSpan&quot;&gt; [&lt;a href=&quot;#&quot; onclick=&quot;javascript:if(document.getElementById(&#39;Toc&#39;).style[&#39;display&#39;]==&#39;none&#39;) document.getElementById(&#39;Toc&#39;).style[&#39;display&#39;]=&#39;&#39;; else document.getElementById(&#39;Toc&#39;).style[&#39;display&#39;]=&#39;none&#39;; return false;&quot;&gt;Hide/Show&lt;/a&gt;]&lt;/span&gt;&lt;/p&gt;&lt;div id=&quot;Toc&quot;&gt;&lt;p&gt;&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;#D&#233;terminer_les_points_de_blessure_et_de_vitalit&#233;_2&quot;&gt;D&#233;terminer les points de blessure et de vitalit&#233;&lt;/a&gt;&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;#Points_de_blessure_0&quot;&gt;Points de blessure&lt;/a&gt;&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;#Points_de_vitalit&#233;_1&quot;&gt;Points de vitalit&#233;&lt;/a&gt;&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;#Regagner_ses_points_3&quot;&gt;Regagner ses points&lt;/a&gt;&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;#Perdre_des_points_de_blessure_4&quot;&gt;Perdre des points de blessure&lt;/a&gt;&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;#Autres_consid&#233;rations_5&quot;&gt;Autres consid&#233;rations&lt;/a&gt;&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;#Dons_alternatifs_6&quot;&gt;Dons alternatifs&lt;/a&gt;&lt;br /&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;&lt;div style=&quot;float: left; margin-right: 20px; margin-bottom: 10px;&quot; class=&quot;presentation recentre&quot;&gt;
+&lt;h2 class=&quot;separator&quot;&gt;&lt;div style=&quot;float: right; margin-top: -4px;&quot;&gt;&lt;/div&gt;R&#232;gles alternatives&lt;/h2&gt;
+&lt;ul&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;R&#233;gles-Alternatives.html&quot; title=&quot;R&#232;gles alternatives&quot;&gt;Introduction&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Larmure-Comme-Rd.html&quot; title=&quot;L&amp;#39;armure comme RD&quot;&gt;L&#39;armure comme r&#233;duction de d&#233;g&#226;ts&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Frappes-Cibl&#233;es.html&quot; title=&quot;Frappes cibl&#233;es&quot;&gt;Frappes cibl&#233;es&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Pi&#232;ces-Darmures.html&quot; title=&quot;Pi&#232;ces d&amp;#39;armure&quot;&gt;Pi&#232;ces d&#39;armure&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Description-Des-Pi&#232;ces-Darmure.html&quot; title=&quot;Description des pi&#232;ces d&amp;#39;armure&quot;&gt;descriptions&lt;/a&gt;)&lt;/li&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Blessures-Et-Vitalit&#233;.html&quot; title=&quot;Blessures et vitalit&#233;&quot;&gt;Blessures et vitalit&#233;&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;Les &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#POINTSDEVIE&quot; title=&quot;points de vie&quot;&gt;points de vie&lt;/a&gt; sont une abstraction. Quand un &lt;a class=&quot;pagelink&quot; href=&quot;Guerrier.html&quot; title=&quot;Le guerrier&quot;&gt;guerrier&lt;/a&gt;
+gagne un niveau, son corps ne devient pas subitement plus
+r&#233;sistant aux d&#233;g&#226;ts. Un coup d’&#233;p&#233;e ne se met pas subitement
+&#224; causer moins de dommages. Les &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#POINTSDEVIE&quot; title=&quot;points de vie&quot;&gt;points de vie&lt;/a&gt; sugg&#232;rent
+en fait que le &lt;a class=&quot;pagelink&quot; href=&quot;Guerrier.html&quot; title=&quot;Le guerrier&quot;&gt;guerrier&lt;/a&gt; a atteint un nouveau stade dans sa
+formation, qu’il a am&#233;lior&#233; ses capacit&#233;s &#224; encaisser les coups
+et &#224; g&#233;rer les blessures. Et les &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#POINTSDEVIE&quot; title=&quot;points de vie&quot;&gt;points de vie&lt;/a&gt; gagn&#233;s &#224; haut niveau
+refl&#232;tent bien plus la facult&#233; d’&#233;viter les coups, de virevolter
+et d’esquiver, que le &lt;a class=&quot;pagelink&quot; href=&quot;Guerrier.html&quot; title=&quot;Le guerrier&quot;&gt;guerrier&lt;/a&gt; a acquise &#224; la dure, plut&#244;t que
+son talent pour infliger des d&#233;g&#226;ts. Chaque perte de &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#POINTSDEVIE&quot; title=&quot;points de vie&quot;&gt;points de vie&lt;/a&gt;, dans ce cas, sugg&#232;re que le personnage se fait moins
+leste au fil du combat – en d’autres termes, ses &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#POINTSDEVIE&quot; title=&quot;points de vie&quot;&gt;points de vie&lt;/a&gt; en
+courbe descendante sont un marqueur pour son endurance
+et sa condition physique g&#233;n&#233;rale. &#201;videmment, en termes de
+satisfaction, ce n’est pas la m&#234;me chose, surtout quand apr&#232;s
+un &lt;a class=&quot;pagelink&quot; href=&quot;Actions-Simples.html#COUPCRITIQUE&quot; title=&quot;coup critique&quot;&gt;coup critique&lt;/a&gt;, il faut annoncer au joueur que son adversaire
+a r&#233;ussi &#224; &#233;chapper &#224; son coup mais que ses attaques r&#233;p&#233;t&#233;es
+rendent &#224; chaque fois l’ennemi moins chanceux.&lt;br /&gt;&lt;br /&gt;Ce syst&#232;me alternatif pour g&#233;rer les blessures et la vitalit&#233;
+devrait permettre de rem&#233;dier &#224; ce probl&#232;me. Comme les autres
+r&#232;gles de ce chapitre, ce syst&#232;me est enti&#232;rement optionnel.&lt;br /&gt;&lt;br /&gt;&lt;h2 class=&quot;separator&quot;&gt;D&#233;terminer les points de blessure et de vitalit&#233;&lt;a class=&quot;headeranchor&quot; id=&quot;D&#233;terminer_les_points_de_blessure_et_de_vitalit&#233;_2&quot; href=&quot;#D&#233;terminer_les_points_de_blessure_et_de_vitalit&#233;_2&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;Avec ce syst&#232;me, les cr&#233;atures ont des points de blessure et de
+vitalit&#233; &#224; la place des points de vie. Ces deux scores de remplacement
+se notent et se suivent s&#233;par&#233;ment en cours de jeu, et
+repr&#233;sentent les deux diff&#233;rentes fa&#231;ons dont le personnage peut
+encaisser les d&#233;g&#226;ts qui lui sont inflig&#233;s. Vous trouverez plus loin
+dans le texte la description de ces nouveaux scores et la mani&#232;re
+de les utiliser avec ce syst&#232;me alternatif de gestion des d&#233;g&#226;ts.&lt;br /&gt;&lt;br /&gt;&lt;h3 class=&quot;separator&quot;&gt;Points de blessure&lt;a class=&quot;headeranchor&quot; id=&quot;Points_de_blessure_0&quot; href=&quot;#Points_de_blessure_0&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;En r&#232;gle g&#233;n&#233;rale, les cr&#233;atures ont un nombre de points de
+blessure &#233;gal au double de leur score de &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#CONSTITUTION&quot; title=&quot;La Constitution&quot;&gt;Constitution&lt;/a&gt;. Elles ont
+aussi un seuil de blessure &#233;gal &#224; leur score de &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#CONSTITUTION&quot; title=&quot;La Constitution&quot;&gt;Constitution&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;Les points de blessure repr&#233;sentent la somme de d&#233;g&#226;ts que
+la cr&#233;ature peut encaisser avant de mourir. Quand les points
+de blessure d’une cr&#233;ature descendent au niveau de leur seuil
+de blessure ou en dessous, la cr&#233;ature est bless&#233;e. Lorsqu’une
+cr&#233;ature est bless&#233;e, elle est &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables.html#Chancelant&quot; title=&quot;Chancelant&quot;&gt;chancelante&lt;/a&gt;. Cette condition
+pr&#233;judiciable cesse lorsque la cr&#233;ature n’est plus bless&#233;e. Par
+ailleurs, quand une cr&#233;ature est bless&#233;e, si cette cr&#233;ature r&#233;alise
+une &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions.html#SIMPLE&quot; title=&quot;Action simple&quot;&gt;action simple&lt;/a&gt; ou de &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions.html#MOUVEMENT&quot; title=&quot;Action de mouvement&quot;&gt;mouvement&lt;/a&gt; durant son tour, ses
+points de blessure restants sont minor&#233;s de 1 point et elle doit
+r&#233;ussir un test de &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#CONSTITUTION&quot; title=&quot;La Constitution&quot;&gt;Constitution&lt;/a&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DEGREDEDIFFICULTE&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; 10. En cas d’&#233;chec, la cr&#233;ature
+perd connaissance et se retrouve &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables.html#Inconscient&quot; title=&quot;Inconscient&quot;&gt;inconsciente&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;Quand une cr&#233;ature tombe &#224; 0 point de blessure ou en
+dessous, elle &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables.html#Mort&quot; title=&quot;Mort&quot;&gt;meurt&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Points de Blessure, affaiblissement temporaire et diminution
+permanente de la Constitution, malus&lt;/b&gt;. Les points de blessure
+d’une cr&#233;ature et son score de &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#CONSTITUTION&quot; title=&quot;La Constitution&quot;&gt;Constitution&lt;/a&gt; sont intrins&#232;quement
+li&#233;s. Pour chaque point perdu dans un &lt;a class=&quot;pagelink&quot; href=&quot;Affaiblissement-Temporaire-(Capacit&#233;).html&quot; title=&quot;Affaiblissement temporaire (Ext ou Sur)&quot;&gt;affaiblissement temporaire&lt;/a&gt;
+de la &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#CONSTITUTION&quot; title=&quot;La Constitution&quot;&gt;Constitution&lt;/a&gt;, la cr&#233;ature perd 2 points de blessure ; ces pertes
+n’affectent pas en revanche le seuil de blessure. Quand une cr&#233;ature
+subit un malus &#224; son score de &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#CONSTITUTION&quot; title=&quot;La Constitution&quot;&gt;Constitution&lt;/a&gt; ou qu’elle subit
+une &lt;a class=&quot;pagelink&quot; href=&quot;Affaiblissement-Temporaire-(Capacit&#233;).html#Diminution_permanente_0&quot; title=&quot;Affaiblissement temporaire (Ext ou Sur)&quot;&gt;diminution permanente&lt;/a&gt; de cette caract&#233;ristique, elle perd
+1 point de blessure par point &#244;t&#233; &#224; sa &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#CONSTITUTION&quot; title=&quot;La Constitution&quot;&gt;Constitution&lt;/a&gt;, et 1 point de
+blessure par point de malus pour la dur&#233;e de la p&#233;nalit&#233;. Un malus
+&#224; la &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#CONSTITUTION&quot; title=&quot;La Constitution&quot;&gt;Constitution&lt;/a&gt; ou une &lt;a class=&quot;pagelink&quot; href=&quot;Affaiblissement-Temporaire-(Capacit&#233;).html#Diminution_permanente_0&quot; title=&quot;Affaiblissement temporaire (Ext ou Sur)&quot;&gt;diminution permanente&lt;/a&gt; du score de
+&lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#CONSTITUTION&quot; title=&quot;La Constitution&quot;&gt;Constitution&lt;/a&gt; n’a pas d’effet sur le seuil de blessure de la cr&#233;ature.&lt;br /&gt;&lt;br /&gt;&lt;h3 class=&quot;separator&quot;&gt;Points de vitalit&#233;&lt;a class=&quot;headeranchor&quot; id=&quot;Points_de_vitalit&#233;_1&quot; href=&quot;#Points_de_vitalit&#233;_1&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;La Vitalit&#233; repr&#233;sente la facult&#233; d’une cr&#233;ature &#224; &#233;viter la majorit&#233;
+des d&#233;g&#226;ts qu’elle pourrait recevoir des suites d’une attaque.
+Quand une cr&#233;ature encaisse des dommages, les points de
+d&#233;g&#226;ts sont normalement d&#233;duits en premier de ses points de
+vitalit&#233;. Cependant, certaines attaques sp&#233;ciales s’en prennent
+parfois directement aux points de blessure ou diminuent &#224; la
+fois les points de blessure et de vitalit&#233; (voir &lt;a class=&quot;internallink&quot; href=&quot;#COUPSCRITIQUES&quot; title=&quot;Coups critiques&quot;&gt;Coups critiques&lt;/a&gt;).&lt;br /&gt;&lt;br /&gt;Les cr&#233;atures ayant au moins un niveau ou un d&#233; de vie
+complet ont des points de vitalit&#233;. Pour chaque niveau ou
+d&#233; de vie complet dont dispose une cr&#233;ature, elle gagne un
+nombre de points de vitalit&#233; en fonction du type de son d&#233;
+de vie. Pour conna&#238;tre le nombre de points de vitalit&#233; d’une
+cr&#233;ature, utilisez ses d&#233;s de vie comme vous le feriez pour d&#233;terminer
+ses &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#POINTSDEVIE&quot; title=&quot;points de vie&quot;&gt;points de vie&lt;/a&gt;, mais sans ajouter le modificateur
+de &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#CONSTITUTION&quot; title=&quot;La Constitution&quot;&gt;Constitution&lt;/a&gt; de la cr&#233;ature. Une cr&#233;ature obtient toujours
+le nombre de points de vitalit&#233; maximum sur son premier
+d&#233; de vie si elle a un niveau dans une classe de personnage.
+Les cr&#233;atures dont le premier d&#233; de vie entier vient d’une
+classe de PNJ ou d&#233;pend de leur race lancent leur d&#233; de vie
+pour d&#233;terminer leur nombre de points de vitalit&#233; de d&#233;part.
+Une cr&#233;ature avec moins d’un d&#233; de vie n’a pas de points de
+vitalit&#233; ; elle n’a que des points de blessure.&lt;br /&gt;&lt;br /&gt;Quand une cr&#233;ature n’a plus aucun point de vitalit&#233;, les d&#233;g&#226;ts
+suppl&#233;mentaires re&#231;us affectent son total de points de blessure.&lt;br /&gt;&lt;br /&gt;&lt;h2 class=&quot;separator&quot;&gt;Regagner ses points&lt;a class=&quot;headeranchor&quot; id=&quot;Regagner_ses_points_3&quot; href=&quot;#Regagner_ses_points_3&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;Une cr&#233;ature peut regagner ses points de blessure et de
+vitalit&#233; par de nombreux moyens, mais il est en g&#233;n&#233;ral plus
+simple de regagner des points de vitalit&#233;.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Effets et sorts de gu&#233;rison&lt;/b&gt;. Lorsqu’un sort de gu&#233;rison est
+lanc&#233;, ou quand on utilise un pouvoir ayant des effets &#224; m&#234;me
+de soigner (comme la &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#234;tre.html#CANALISATIONDENERGIE&quot; title=&quot;canalisation d&amp;#39;&#233;nergie&quot;&gt;canalisation d’&#233;nergie positive&lt;/a&gt; sur les
+cr&#233;atures vivantes ou l’&lt;a class=&quot;pagelink&quot; href=&quot;Paladin.html#IMPOSITIONDESMAINS&quot; title=&quot;Imposition des mains&quot;&gt;Imposition des mains&lt;/a&gt; du &lt;a class=&quot;pagelink&quot; href=&quot;Paladin.html&quot; title=&quot;Le paladin&quot;&gt;paladin&lt;/a&gt;), la
+cr&#233;ature qui lance le sort ou qui active l’effet doit choisir si elle
+pr&#233;f&#232;re rendre des points de blessure ou de vitalit&#233;. La cr&#233;ature
+doit faire ce choix avant le lancement du sort ou l’activation de
+son pouvoir. Quand cette cr&#233;ature d&#233;cide de gu&#233;rir des points
+de vitalit&#233;, le sort de gu&#233;rison ou l’effet agit normalement, et
+rend un nombre de points de vitalit&#233; &#233;gal au nombre de &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#POINTSDEVIE&quot; title=&quot;points de vie&quot;&gt;points de vie&lt;/a&gt;
+que le sort ou l’effet aurait normalement restitu&#233; &#224; sa
+cible. Si la cr&#233;ature d&#233;cide de gu&#233;rir des points de blessure, elle
+restitue un nombre de points de blessure &#233;gal au nombre de
+d&#233;s qu’elle aurait normalement d&#251; lancer dans le cadre du sort
+de gu&#233;rison ou de l’effet. Dans le cas des effets comparables
+au sort de &lt;a class=&quot;pagelink&quot; href=&quot;Gu&#233;rison-Supr&#234;me.html&quot; title=&quot;Gu&#233;rison supr&#234;me&quot;&gt;gu&#233;rison supr&#234;me&lt;/a&gt;, quand un sort ou un effet gu&#233;rit 10
+&lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#POINTSDEVIE&quot; title=&quot;points de vie&quot;&gt;points de vie&lt;/a&gt; par niveau du lanceur de sorts, la cr&#233;ature restitue
+1 point de blessure par niveau du lanceur de sort.&lt;br /&gt;&lt;br /&gt;Si, par exemple, une &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#234;tre.html&quot; title=&quot;Le pr&#234;tre&quot;&gt;pr&#234;tresse&lt;/a&gt; de niveau 12 utilise la
+&lt;a class=&quot;pagelink&quot; href=&quot;Pr&#234;tre.html#CANALISATIONDENERGIE&quot; title=&quot;canalisation d&amp;#39;&#233;nergie&quot;&gt;canalisation d’&#233;nergie positive&lt;/a&gt; pour restituer des points de blessure &#224; des cr&#233;atures
+vivantes, elle gu&#233;rira 6 points de blessure pour toutes les cr&#233;atures
+vivantes dans la zone qui l’entoure. Si elle jette le sort
+&lt;a class=&quot;pagelink&quot; href=&quot;Gu&#233;rison-Supr&#234;me.html&quot; title=&quot;Gu&#233;rison supr&#234;me&quot;&gt;gu&#233;rison supr&#234;me&lt;/a&gt;, elle restituera 12 points de blessure &#224; la cr&#233;ature touch&#233;e.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Repos&lt;/b&gt;. Quand une cr&#233;ature prend une pleine nuit de repos
+(8 heures de sommeil ou plus), elle r&#233;cup&#232;re tous ses points
+de vitalit&#233; et 1 point de blessure. Si ce repos est interrompu de
+mani&#232;re notable, la cr&#233;ature ne r&#233;cup&#232;re ni ses points de vitalit&#233;,
+ni son point de blessure. Apr&#232;s une journ&#233;e compl&#232;te de
+repos alit&#233;, une cr&#233;ature r&#233;cup&#232;re tous ses points de vitalit&#233; et
+l’&#233;quivalent de la moiti&#233; de ses niveaux en points de blessure.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Restauration et effets similaires&lt;/b&gt;. Quand une cr&#233;ature r&#233;cup&#232;re
+des points de &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#CONSTITUTION&quot; title=&quot;La Constitution&quot;&gt;Constitution&lt;/a&gt; gr&#226;ce &#224; un sort de &lt;a class=&quot;pagelink&quot; href=&quot;Restauration.html&quot; title=&quot;Restauration&quot;&gt;restauration&lt;/a&gt;
+ou par un effet similaire, elle recouvre 2 points de blessure
+pour chaque point de &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#CONSTITUTION&quot; title=&quot;La Constitution&quot;&gt;Constitution&lt;/a&gt; r&#233;cup&#233;r&#233;. L’annulation
+d’un malus &#224; la &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#CONSTITUTION&quot; title=&quot;La Constitution&quot;&gt;Constitution&lt;/a&gt; ou le recouvrement de points
+perdus suite &#224; une &lt;a class=&quot;pagelink&quot; href=&quot;Affaiblissement-Temporaire-(Capacit&#233;).html&quot; title=&quot;diminution permanente&quot;&gt;diminution permanente&lt;/a&gt; du score de
+&lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#CONSTITUTION&quot; title=&quot;La Constitution&quot;&gt;Constitution&lt;/a&gt; entra&#238;nent la r&#233;cup&#233;ration de tous les points de
+blessure perdus du fait de ce malus ou de cette diminution.&lt;br /&gt;&lt;br /&gt;&lt;h2 class=&quot;separator&quot;&gt;Perdre des points de blessure&lt;a class=&quot;headeranchor&quot; id=&quot;Perdre_des_points_de_blessure_4&quot; href=&quot;#Perdre_des_points_de_blessure_4&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;Certaines attaques ciblent directement les points de blessure.&lt;br /&gt;&lt;br /&gt;&lt;a name=&quot;COUPSCRITIQUES&quot;&gt;&lt;/a&gt;&lt;b&gt;Coups critiques&lt;/b&gt;. Quand une cr&#233;ature subit un &lt;a class=&quot;pagelink&quot; href=&quot;Actions-Simples.html#COUPCRITIQUE&quot; title=&quot;coup critique&quot;&gt;coup critique&lt;/a&gt;,
+le coup cause des d&#233;g&#226;ts normalement, en diminuant
+d’abord le nombre de points de vitalit&#233;, puis en r&#233;duisant les
+points de blessure si les points de vitalit&#233; sont tomb&#233;s &#224; 0. Une
+telle attaque cause aussi un nombre de points de blessure &#233;gal
+&#224; son multiplicateur. Une arme dont le multiplicateur est de
+&#215;3, par exemple, cause ainsi 3 points de blessure. Ces d&#233;g&#226;ts
+port&#233;s aux points de blessure s’ajoutent aux d&#233;g&#226;ts normalement
+subis par la cr&#233;ature du fait du &lt;a class=&quot;pagelink&quot; href=&quot;Actions-Simples.html#COUPCRITIQUE&quot; title=&quot;coup critique&quot;&gt;coup critique&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;D&#233;g&#226;ts d’&#233;nergie n&#233;gative&lt;/b&gt;. Quand une cr&#233;ature cause des
+d&#233;g&#226;ts d’&lt;a class=&quot;pagelink&quot; href=&quot;&#201;nergie-N&#233;gative.html&quot; title=&quot;&#201;nergie n&#233;gative&quot;&gt;&#233;nergie n&#233;gative&lt;/a&gt; &#224; une autre avec un sort ou un effet,
+elle peut choisir de s’attaquer aux points de vitalit&#233; ou aux
+points de blessure, mais pas aux deux. Si cette cr&#233;ature opte
+pour des d&#233;g&#226;ts port&#233;s aux points de vitalit&#233;, le sort ou l’effet
+cause ses d&#233;g&#226;ts d’&#233;nergie n&#233;gative normalement, et ces d&#233;g&#226;ts
+s’appliquent uniquement aux points de vitalit&#233;, m&#234;me si ces d&#233;g&#226;ts
+d&#233;passent le total de points de vitalit&#233; de la cible. Si le sort
+ou l’effet est appliqu&#233; directement aux points de blessure, les
+d&#233;g&#226;ts d’&lt;a class=&quot;pagelink&quot; href=&quot;&#201;nergie-N&#233;gative.html&quot; title=&quot;&#201;nergie n&#233;gative&quot;&gt;&#233;nergie n&#233;gative&lt;/a&gt; viennent r&#233;duire les points de blessure
+de la cible en comptant 1 point de blessure pour chaque
+d&#233; de d&#233;g&#226;ts que la cr&#233;ature est suppos&#233;e jeter pour son effet. Si
+l’effet cause des d&#233;g&#226;ts en fonction du niveau du lanceur de sort
+(comme dans le sort &lt;a class=&quot;pagelink&quot; href=&quot;Mise-&#192;-Mal.html&quot; title=&quot;Mise &#224; mal&quot;&gt;mise &#224; mal&lt;/a&gt;), comptez un nombre de points
+de blessure &#233;gal au niveau de la cr&#233;ature ayant lanc&#233; le sort.&lt;br /&gt;&lt;br /&gt;&lt;h2 class=&quot;separator&quot;&gt;Autres consid&#233;rations&lt;a class=&quot;headeranchor&quot; id=&quot;Autres_consid&#233;rations_5&quot; href=&quot;#Autres_consid&#233;rations_5&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;Les points qui suivent d&#233;taillent quelques &#233;l&#233;ments &#224; consid&#233;rer
+lorsqu’est employ&#233; le syst&#232;me des points de blessure et de vitalit&#233;.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Points de vie temporaires&lt;/b&gt;. Lorsqu’une cr&#233;ature est suppos&#233;e
+gagner des &lt;a class=&quot;pagelink&quot; href=&quot;Blessures-Et-Mort.html#PVTEMPORAIRES&quot; title=&quot;points de vie temporaires&quot;&gt;points de vie temporaires&lt;/a&gt;, elle acquiert &#224; la place
+des points de vitalit&#233; temporaires. Quand cette cr&#233;ature re&#231;oit
+des d&#233;g&#226;ts, elle perd en priorit&#233; les points de vitalit&#233; temporaires.
+Si une attaque lui fait perdre uniquement des points de
+blessure, les points de vitalit&#233; temporaires ne sont pas perdus.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;D&#233;g&#226;ts non l&#233;taux&lt;/b&gt;. Quand une cr&#233;ature re&#231;oit des d&#233;g&#226;ts non
+l&#233;taux, ces d&#233;g&#226;ts sont uniquement appliqu&#233;s aux points de vitalit&#233;,
+m&#234;me si l’attaque a caus&#233; plus de d&#233;g&#226;ts que la cible n’a de points
+de vitalit&#233;. Si la cible n’a pas (ou plus) de points de vitalit&#233; (et pas de
+points temporaires de vitalit&#233;), elle perd 1 point de blessure chaque
+fois qu’elle re&#231;oit des d&#233;g&#226;ts d’une attaque non l&#233;tale. Si l’attaque
+non l&#233;tale est un &lt;a class=&quot;pagelink&quot; href=&quot;Actions-Simples.html#COUPCRITIQUE&quot; title=&quot;coup critique&quot;&gt;coup critique&lt;/a&gt;, elle perd un nombre de points de
+blessure &#233;gal au modificateur de d&#233;g&#226;ts de l’attaque critique.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Sorts et effets &#224; d&#233;clencheur&lt;/b&gt;. Quand ce syst&#232;me est utilis&#233;, si un
+sort ou une aptitude dispose d’un effet qui se d&#233;clenche lorsque
+le personnage r&#233;duit les points de vie d’une cr&#233;ature &#224; 0 ou en
+de&#231;&#224; (comme le sort &lt;a class=&quot;pagelink&quot; href=&quot;D&#233;sint&#233;gration.html&quot; title=&quot;D&#233;sint&#233;gration&quot;&gt;d&#233;sint&#233;gration&lt;/a&gt;), cet effet est d&#233;clench&#233; d&#232;s que
+la cr&#233;ature est bless&#233;e. Dans le cas du sort &lt;a class=&quot;pagelink&quot; href=&quot;Mise-&#192;-Mal.html&quot; title=&quot;Mise &#224; mal&quot;&gt;mise &#224; mal&lt;/a&gt; et pour les
+effets et sorts similaires o&#249; les points de vie d’une cr&#233;ature ne
+peuvent descendre en-dessous de 1 du fait du sort ou de l’effet,
+les points de blessure de la cr&#233;ature ne peuvent &#234;tre amen&#233;s par
+ce biais au niveau du seuil de blessure de la cr&#233;ature ou en de&#231;&#224;.&lt;br /&gt;&lt;br /&gt;&lt;h2 class=&quot;separator&quot;&gt;Dons alternatifs&lt;a class=&quot;headeranchor&quot; id=&quot;Dons_alternatifs_6&quot; href=&quot;#Dons_alternatifs_6&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;Les dons suivants sont enti&#232;rement nouveaux et ont &#233;t&#233;
+cr&#233;&#233;s pour accompagner ce syst&#232;me ou ont &#233;t&#233; remani&#233;s
+pour fonctionner avec les points de vitalit&#233; et de blessure.&lt;br /&gt;&lt;br /&gt;&lt;center&gt;
+&lt;table CLASS=&quot;tablo&quot;&gt;&lt;caption&gt;Dons alternatifs&lt;/caption&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td&gt;Don&lt;/td&gt;&lt;td&gt;Conditions&lt;/td&gt;&lt;td&gt;Avantages&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Dur-&#192;-Cuire-(Alternatif).html&quot; title=&quot;Dur &#224; cuire (alternatif)&quot;&gt;Dur &#224; cuire&lt;/a&gt;&lt;/td&gt;&lt;td&gt; —&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;Reste conscient m&#234;me bless&#233;&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Initi&#233;-Du-Refus-De-Mourir-(Alternatif).html&quot; title=&quot;Initi&#233; du refus de mourir (alternatif)&quot;&gt;Initi&#233; du refus de mourir&lt;/a&gt;*&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#FORCE&quot; title=&quot;For&quot;&gt;For&lt;/a&gt; 13, &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#CONSTITUTION&quot; title=&quot;La Constitution&quot;&gt;Con&lt;/a&gt; 13, &lt;a class=&quot;pagelink&quot; href=&quot;Dur-&#192;-Cuire-(Alternatif).html&quot; title=&quot;Dur &#224; cuire (alternatif)&quot;&gt;Dur &#224; cuire&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Endurance.html&quot; title=&quot;Endurance&quot;&gt;Endurance&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#BONUSDEBASEALATTAQUE&quot; title=&quot;BBA&quot;&gt;BBA&lt;/a&gt; +6, &lt;a class=&quot;pagelink&quot; href=&quot;Orque.html&quot; title=&quot;Orque&quot;&gt;orque&lt;/a&gt; ou &lt;a class=&quot;pagelink&quot; href=&quot;Demi-Orque.html&quot; title=&quot;Les demi-orques&quot;&gt;demi-orque&lt;/a&gt;&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;Perte maximale de 1 point de blessure par round quand bless&#233;, bonus aux jets d&#39;attaque et de d&#233;g&#226;ts en-dessous du seuil de blessure&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&amp;emsp; &lt;a class=&quot;pagelink&quot; href=&quot;Ma&#238;tre-Du-Refus-De-Mourir-(Alternatif).html&quot; title=&quot;Ma&#238;tre du refus de mourir (alternatif)&quot;&gt;Ma&#238;tre du refus de mourir&lt;/a&gt;*&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#FORCE&quot; title=&quot;For&quot;&gt;For&lt;/a&gt; 13, &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#CONSTITUTION&quot; title=&quot;La Constitution&quot;&gt;Con&lt;/a&gt; 15, &lt;a class=&quot;pagelink&quot; href=&quot;Dur-&#192;-Cuire-(Alternatif).html&quot; title=&quot;Dur &#224; cuire (alternatif)&quot;&gt;Dur &#224; cuire&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Initi&#233;-Du-Refus-De-Mourir-(Alternatif).html&quot; title=&quot;Initi&#233; du refus de mourir (alternatif)&quot;&gt;Initi&#233; du refus de mourir&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Peau-De-Fer.html&quot; title=&quot;Peau de fer&quot;&gt;Peau de fer&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#BONUSDEBASEALATTAQUE&quot; title=&quot;BBA&quot;&gt;BBA&lt;/a&gt; +9, &lt;a class=&quot;pagelink&quot; href=&quot;Orque.html&quot; title=&quot;Orque&quot;&gt;orque&lt;/a&gt; ou &lt;a class=&quot;pagelink&quot; href=&quot;Demi-Orque.html&quot; title=&quot;Les demi-orques&quot;&gt;demi-orque&lt;/a&gt;&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;Ne re&#231;oit pas de points de blessure en faisant des actions bless&#233;&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Robustesse-(Alternatif).html&quot; title=&quot;Robustesse (alternatif)&quot;&gt;Robustesse&lt;/a&gt;&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;+1 point de blessure par d&#233; de vie&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/center&gt;
+]]></body>
+  <raw><![CDATA[<div style="float: right; margin-left: 10px; margin-right: -40px; max-width: 300px;" class="presentation recentre">{toc}</div>{s:UC}<div style="float: left; margin-right: 20px; margin-bottom: 10px;" class="presentation recentre">
+<h2 class="separator"><div style="float: right; margin-top: -4px;">{s:uc}</div>Règles alternatives</h2>
+<ul><li>[[Régles alternatives|Introduction]]</li>
+<li>[[Larmure comme RD|L'armure comme réduction de dégâts]]</li><li>[[Frappes ciblées]]</li><li>[[Pièces darmures|Pièces d'armure]] ([[Description des pièces darmure|descriptions]])</li><li>[[Blessures et vitalité]]</li></ul></div>Les [[points de vie]] sont une abstraction. Quand un [[guerrier]]
+gagne un niveau, son corps ne devient pas subitement plus
+résistant aux dégâts. Un coup d’épée ne se met pas subitement
+à causer moins de dommages. Les [[points de vie]] suggèrent
+en fait que le [[guerrier]] a atteint un nouveau stade dans sa
+formation, qu’il a amélioré ses capacités à encaisser les coups
+et à gérer les blessures. Et les [[points de vie]] gagnés à haut niveau
+reflètent bien plus la faculté d’éviter les coups, de virevolter
+et d’esquiver, que le [[guerrier]] a acquise à la dure, plutôt que
+son talent pour infliger des dégâts. Chaque perte de [[points de vie]], dans ce cas, suggère que le personnage se fait moins
+leste au fil du combat – en d’autres termes, ses [[points de vie]] en
+courbe descendante sont un marqueur pour son endurance
+et sa condition physique générale. Évidemment, en termes de
+satisfaction, ce n’est pas la même chose, surtout quand après
+un [[coup critique]], il faut annoncer au joueur que son adversaire
+a réussi à échapper à son coup mais que ses attaques répétées
+rendent à chaque fois l’ennemi moins chanceux.
+
+Ce système alternatif pour gérer les blessures et la vitalité
+devrait permettre de remédier à ce problème. Comme les autres
+règles de ce chapitre, ce système est entièrement optionnel.
+
+===Déterminer les points de blessure et de vitalité===
+Avec ce système, les créatures ont des points de blessure et de
+vitalité à la place des points de vie. Ces deux scores de remplacement
+se notent et se suivent séparément en cours de jeu, et
+représentent les deux différentes façons dont le personnage peut
+encaisser les dégâts qui lui sont infligés. Vous trouverez plus loin
+dans le texte la description de ces nouveaux scores et la manière
+de les utiliser avec ce système alternatif de gestion des dégâts.
+
+====Points de blessure====
+En règle générale, les créatures ont un nombre de points de
+blessure égal au double de leur score de [[Constitution]]. Elles ont
+aussi un seuil de blessure égal à leur score de [[Constitution]].
+
+Les points de blessure représentent la somme de dégâts que
+la créature peut encaisser avant de mourir. Quand les points
+de blessure d’une créature descendent au niveau de leur seuil
+de blessure ou en dessous, la créature est blessée. Lorsqu’une
+créature est blessée, elle est [[Chancelant|chancelante]]. Cette condition
+préjudiciable cesse lorsque la créature n’est plus blessée. Par
+ailleurs, quand une créature est blessée, si cette créature réalise
+une [[action simple]] ou de [[Action de mouvement|mouvement]] durant son tour, ses
+points de blessure restants sont minorés de 1 point et elle doit
+réussir un test de [[Constitution]] [[DD]] 10. En cas d’échec, la créature
+perd connaissance et se retrouve [[Inconscient|inconsciente]].
+
+Quand une créature tombe à 0 point de blessure ou en
+dessous, elle [[Mort|meurt]].
+
+'''Points de Blessure, affaiblissement temporaire et diminution
+permanente de la Constitution, malus'''. Les points de blessure
+d’une créature et son score de [[Constitution]] sont intrinsèquement
+liés. Pour chaque point perdu dans un [[Affaiblissement temporaire (capacité)|affaiblissement temporaire]]
+de la [[Constitution]], la créature perd 2 points de blessure ; ces pertes
+n’affectent pas en revanche le seuil de blessure. Quand une créature
+subit un malus à son score de [[Constitution]] ou qu’elle subit
+une [[Affaiblissement temporaire (capacité)#Diminution_permanente_0|diminution permanente]] de cette caractéristique, elle perd
+1 point de blessure par point ôté à sa [[Constitution]], et 1 point de
+blessure par point de malus pour la durée de la pénalité. Un malus
+à la [[Constitution]] ou une [[Affaiblissement temporaire (capacité)#Diminution_permanente_0|diminution permanente]] du score de
+[[Constitution]] n’a pas d’effet sur le seuil de blessure de la créature.
+
+====Points de vitalité====
+La Vitalité représente la faculté d’une créature à éviter la majorité
+des dégâts qu’elle pourrait recevoir des suites d’une attaque.
+Quand une créature encaisse des dommages, les points de
+dégâts sont normalement déduits en premier de ses points de
+vitalité. Cependant, certaines attaques spéciales s’en prennent
+parfois directement aux points de blessure ou diminuent à la
+fois les points de blessure et de vitalité (voir [[#COUPSCRITIQUES|Coups critiques]]).
+
+Les créatures ayant au moins un niveau ou un dé de vie
+complet ont des points de vitalité. Pour chaque niveau ou
+dé de vie complet dont dispose une créature, elle gagne un
+nombre de points de vitalité en fonction du type de son dé
+de vie. Pour connaître le nombre de points de vitalité d’une
+créature, utilisez ses dés de vie comme vous le feriez pour déterminer
+ses [[points de vie]], mais sans ajouter le modificateur
+de [[Constitution]] de la créature. Une créature obtient toujours
+le nombre de points de vitalité maximum sur son premier
+dé de vie si elle a un niveau dans une classe de personnage.
+Les créatures dont le premier dé de vie entier vient d’une
+classe de PNJ ou dépend de leur race lancent leur dé de vie
+pour déterminer leur nombre de points de vitalité de départ.
+Une créature avec moins d’un dé de vie n’a pas de points de
+vitalité ; elle n’a que des points de blessure.
+
+Quand une créature n’a plus aucun point de vitalité, les dégâts
+supplémentaires reçus affectent son total de points de blessure.
+
+===Regagner ses points===
+Une créature peut regagner ses points de blessure et de
+vitalité par de nombreux moyens, mais il est en général plus
+simple de regagner des points de vitalité.
+
+'''Effets et sorts de guérison'''. Lorsqu’un sort de guérison est
+lancé, ou quand on utilise un pouvoir ayant des effets à même
+de soigner (comme la [[Canalisation dénergie|canalisation d’énergie positive]] sur les
+créatures vivantes ou l’[[Imposition des mains]] du [[paladin]]), la
+créature qui lance le sort ou qui active l’effet doit choisir si elle
+préfère rendre des points de blessure ou de vitalité. La créature
+doit faire ce choix avant le lancement du sort ou l’activation de
+son pouvoir. Quand cette créature décide de guérir des points
+de vitalité, le sort de guérison ou l’effet agit normalement, et
+rend un nombre de points de vitalité égal au nombre de [[points de vie]]
+que le sort ou l’effet aurait normalement restitué à sa
+cible. Si la créature décide de guérir des points de blessure, elle
+restitue un nombre de points de blessure égal au nombre de
+dés qu’elle aurait normalement dû lancer dans le cadre du sort
+de guérison ou de l’effet. Dans le cas des effets comparables
+au sort de [[guérison suprême]], quand un sort ou un effet guérit 10
+[[points de vie]] par niveau du lanceur de sorts, la créature restitue
+1 point de blessure par niveau du lanceur de sort.
+
+Si, par exemple, une [[Prêtre|prêtresse]] de niveau 12 utilise la
+[[Canalisation dénergie|canalisation d’énergie positive]] pour restituer des points de blessure à des créatures
+vivantes, elle guérira 6 points de blessure pour toutes les créatures
+vivantes dans la zone qui l’entoure. Si elle jette le sort
+[[guérison suprême]], elle restituera 12 points de blessure à la créature touchée.
+
+'''Repos'''. Quand une créature prend une pleine nuit de repos
+(8 heures de sommeil ou plus), elle récupère tous ses points
+de vitalité et 1 point de blessure. Si ce repos est interrompu de
+manière notable, la créature ne récupère ni ses points de vitalité,
+ni son point de blessure. Après une journée complète de
+repos alité, une créature récupère tous ses points de vitalité et
+l’équivalent de la moitié de ses niveaux en points de blessure.
+
+'''Restauration et effets similaires'''. Quand une créature récupère
+des points de [[Constitution]] grâce à un sort de [[restauration]]
+ou par un effet similaire, elle recouvre 2 points de blessure
+pour chaque point de [[Constitution]] récupéré. L’annulation
+d’un malus à la [[Constitution]] ou le recouvrement de points
+perdus suite à une [[diminution permanente]] du score de
+[[Constitution]] entraînent la récupération de tous les points de
+blessure perdus du fait de ce malus ou de cette diminution.
+
+===Perdre des points de blessure===
+Certaines attaques ciblent directement les points de blessure.
+
+{s:Reference|COUPSCRITIQUES}'''Coups critiques'''. Quand une créature subit un [[coup critique]],
+le coup cause des dégâts normalement, en diminuant
+d’abord le nombre de points de vitalité, puis en réduisant les
+points de blessure si les points de vitalité sont tombés à 0. Une
+telle attaque cause aussi un nombre de points de blessure égal
+à son multiplicateur. Une arme dont le multiplicateur est de
+×3, par exemple, cause ainsi 3 points de blessure. Ces dégâts
+portés aux points de blessure s’ajoutent aux dégâts normalement
+subis par la créature du fait du [[coup critique]].
+
+'''Dégâts d’énergie négative'''. Quand une créature cause des
+dégâts d’[[énergie négative]] à une autre avec un sort ou un effet,
+elle peut choisir de s’attaquer aux points de vitalité ou aux
+points de blessure, mais pas aux deux. Si cette créature opte
+pour des dégâts portés aux points de vitalité, le sort ou l’effet
+cause ses dégâts d’énergie négative normalement, et ces dégâts
+s’appliquent uniquement aux points de vitalité, même si ces dégâts
+dépassent le total de points de vitalité de la cible. Si le sort
+ou l’effet est appliqué directement aux points de blessure, les
+dégâts d’[[énergie négative]] viennent réduire les points de blessure
+de la cible en comptant 1 point de blessure pour chaque
+dé de dégâts que la créature est supposée jeter pour son effet. Si
+l’effet cause des dégâts en fonction du niveau du lanceur de sort
+(comme dans le sort [[mise à mal]]), comptez un nombre de points
+de blessure égal au niveau de la créature ayant lancé le sort.
+
+===Autres considérations===
+Les points qui suivent détaillent quelques éléments à considérer
+lorsqu’est employé le système des points de blessure et de vitalité.
+
+'''Points de vie temporaires'''. Lorsqu’une créature est supposée
+gagner des [[points de vie temporaires]], elle acquiert à la place
+des points de vitalité temporaires. Quand cette créature reçoit
+des dégâts, elle perd en priorité les points de vitalité temporaires.
+Si une attaque lui fait perdre uniquement des points de
+blessure, les points de vitalité temporaires ne sont pas perdus.
+
+'''Dégâts non létaux'''. Quand une créature reçoit des dégâts non
+létaux, ces dégâts sont uniquement appliqués aux points de vitalité,
+même si l’attaque a causé plus de dégâts que la cible n’a de points
+de vitalité. Si la cible n’a pas (ou plus) de points de vitalité (et pas de
+points temporaires de vitalité), elle perd 1 point de blessure chaque
+fois qu’elle reçoit des dégâts d’une attaque non létale. Si l’attaque
+non létale est un [[coup critique]], elle perd un nombre de points de
+blessure égal au modificateur de dégâts de l’attaque critique.
+
+'''Sorts et effets à déclencheur'''. Quand ce système est utilisé, si un
+sort ou une aptitude dispose d’un effet qui se déclenche lorsque
+le personnage réduit les points de vie d’une créature à 0 ou en
+deçà (comme le sort [[désintégration]]), cet effet est déclenché dès que
+la créature est blessée. Dans le cas du sort [[mise à mal]] et pour les
+effets et sorts similaires où les points de vie d’une créature ne
+peuvent descendre en-dessous de 1 du fait du sort ou de l’effet,
+les points de blessure de la créature ne peuvent être amenés par
+ce biais au niveau du seuil de blessure de la créature ou en deçà.
+
+===Dons alternatifs===
+Les dons suivants sont entièrement nouveaux et ont été
+créés pour accompagner ce système ou ont été remaniés
+pour fonctionner avec les points de vitalité et de blessure.
+
+<center>
+{| CLASS="tablo"
+|+ Dons alternatifs
+|- CLASS="titre"
+| Don || Conditions || Avantages
+|- 
+| [[Dur à cuire (alternatif)|Dur à cuire]] ||  —
+| CLASS="gauche" | Reste conscient même blessé
+|- CLASS="alt"
+| [[Initié du refus de mourir (alternatif)|Initié du refus de mourir]]*
+| CLASS="gauche" | [[For]] 13, [[Constitution|Con]] 13, [[Dur à cuire (alternatif)|Dur à cuire]], [[Endurance]], [[BBA]] +6, [[orque]] ou [[demi-orque]]
+| CLASS="gauche" | Perte maximale de 1 point de blessure par round quand blessé, bonus aux jets d'attaque et de dégâts en-dessous du seuil de blessure
+|-
+| &emsp; [[Maître du refus de mourir (alternatif)|Maître du refus de mourir]]*
+| CLASS="gauche" | [[For]] 13, [[Constitution|Con]] 15, [[Dur à cuire (alternatif)|Dur à cuire]], [[Initié du refus de mourir (alternatif)|Initié du refus de mourir]], [[Peau de fer]], [[BBA]] +9, [[orque]] ou [[demi-orque]]
+| CLASS="gauche" | Ne reçoit pas de points de blessure en faisant des actions blessé
+|- CLASS="alt"
+| [[Robustesse (alternatif)|Robustesse]] || —
+| CLASS="gauche" | +1 point de blessure par dé de vie
+|}
+</center>]]></raw>
+  <fullName>Pathfinder-RPG.Blessures et vitalité</fullName>
+</wikiPage>

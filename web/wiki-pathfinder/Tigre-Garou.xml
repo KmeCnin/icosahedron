@@ -1,0 +1,232 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Tigre-garou</title>
+  <categories><category>Pathfinder-RPG.Bestiaire 2</category></categories>
+  <lastModified>2013-02-06 20:32:52Z</lastModified>
+  <version>8</version>
+  <inLinks><link>Pathfinder-RPG.Glossaire des monstres</link><link>Pathfinder-RPG.Liste de monstres par FP</link><link>Pathfinder-RPG.Liste de monstres par milieu naturel</link><link>Pathfinder-RPG.Liste de monstres par type</link><link>Pathfinder-RPG.Lycanthrope, archétype</link><link>Pathfinder-RPG.Monstres</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Roublard</link><link>Pathfinder-RPG.type Humanoïde</link><link>Pathfinder-RPG.sous-type humain</link><link>Pathfinder-RPG.sous-type métamorphe</link><link>Pathfinder-RPG.odorat</link><link>Pathfinder-RPG.vision nocturne</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.esquive instinctive</link><link>Pathfinder-RPG.esquive totale</link><link>Pathfinder-RPG.sens des pièges</link><link>Pathfinder-RPG.attaque sournoise</link><link>Pathfinder-RPG.Attaque en puissance</link><link>Pathfinder-RPG.Science de linitiative</link><link>Pathfinder-RPG.Talent</link><link>Pathfinder-RPG.Acrobaties</link><link>Pathfinder-RPG.Discrétion</link><link>Pathfinder-RPG.Dressage</link><link>Pathfinder-RPG.Escalade</link><link>Pathfinder-RPG.Intimidation</link><link>Pathfinder-RPG.Natation</link><link>Pathfinder-RPG.Psychologie</link><link>Pathfinder-RPG.Survie</link><link>Pathfinder-RPG.Changement de forme (capacité)</link><link>Pathfinder-RPG.métamorphose</link><link>Pathfinder-RPG.Tigre</link><link>Pathfinder-RPG.Tigre sanguinaire</link><link>Pathfinder-RPG.recherche des pièges</link><link>Pathfinder-RPG.Talents de roublard</link><link>Pathfinder-RPG.Talents</link><link>Pathfinder-RPG.Discret</link><link>Pathfinder-RPG.Rapide</link><link>Pathfinder-RPG.Lycanthrope, archétype</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Tigre-garou (forme humaine)&lt;div style=&quot;float:right;&quot;&gt;FP 4&lt;/div&gt;&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Bestiaire 2, P.192&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 1.200
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+Humain, tigre-garou naturel, &lt;a class=&quot;pagelink&quot; href=&quot;Roublard.html&quot; title=&quot;Le roublard&quot;&gt;roublard&lt;/a&gt; 4
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Humano&#239;de.html&quot; title=&quot;Humano&#239;de&quot;&gt;Humano&#239;de&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Humain.html&quot; title=&quot;Humain (sous-type)&quot;&gt;humain&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-M&#233;tamorphe.html&quot; title=&quot;M&#233;tamorphe (sous-type)&quot;&gt;m&#233;tamorphe&lt;/a&gt;) de taille M, NM
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +7 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Odorat-(Capacit&#233;).html&quot; title=&quot;odorat&quot;&gt;odorat&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Nocturne-(Capacit&#233;).html&quot; title=&quot;vision nocturne&quot;&gt;vision nocturne&lt;/a&gt; ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +10
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 16, contact 13, pris au d&#233;pourvu 13 (armure +3, Dex +3)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 29 (4d8+8)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +7, &lt;b&gt;Vig&lt;/b&gt; +2, &lt;b&gt;Vol&lt;/b&gt; +4
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Capacit&#233;s d&#233;fensives&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Roublard.html#ESQUIVEINSTINCTIVE&quot; title=&quot;esquive instinctive&quot;&gt;esquive instinctive&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Roublard.html#ESQUIVETOTALE&quot; title=&quot;esquive totale&quot;&gt;esquive totale&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Roublard.html#SENSDESPIEGES&quot; title=&quot;sens des pi&#232;ges&quot;&gt;sens des pi&#232;ges&lt;/a&gt; +1
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 9 m
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; &lt;i&gt;&#233;p&#233;e courte de ma&#238;tre&lt;/i&gt;, +5 (1d6+1/19–20)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Distance&lt;/b&gt; &lt;i&gt;dague de ma&#238;tre&lt;/i&gt; ,+7 (1d4+1/19–20)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaques sp&#233;ciales&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Roublard.html#ATTAQUESOURNOISE&quot; title=&quot;attaque sournoise&quot;&gt;attaque sournoise&lt;/a&gt; +2d6
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 13, &lt;b&gt;Dex&lt;/b&gt; 16, &lt;b&gt;Con&lt;/b&gt; 12, &lt;b&gt;Int&lt;/b&gt; 10, &lt;b&gt;Sag&lt;/b&gt; 16, &lt;b&gt;Cha&lt;/b&gt; 8
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +3, &lt;b&gt;BMO&lt;/b&gt; +4, &lt;b&gt;DMD&lt;/b&gt; 17
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Attaque-En-Puissance.html&quot; title=&quot;Attaque en puissance&quot;&gt;Attaque en puissance&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Science-De-Linitiative.html&quot; title=&quot;Science de l&amp;#39;initiative&quot;&gt;Science de l’initiative&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Talent.html&quot; title=&quot;Talent&quot;&gt;Talent&lt;/a&gt; (Discr&#233;tion)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Acrobaties.html&quot; title=&quot;Acrobaties&quot;&gt;Acrobaties&lt;/a&gt; +9, &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; +12, &lt;a class=&quot;pagelink&quot; href=&quot;Dressage.html&quot; title=&quot;Dressage&quot;&gt;Dressage&lt;/a&gt; +3, &lt;a class=&quot;pagelink&quot; href=&quot;Escalade.html&quot; title=&quot;Escalade&quot;&gt;Escalade&lt;/a&gt; +7, &lt;a class=&quot;pagelink&quot; href=&quot;Intimidation.html&quot; title=&quot;Intimidation&quot;&gt;Intimidation&lt;/a&gt; +6, &lt;a class=&quot;pagelink&quot; href=&quot;Natation.html&quot; title=&quot;Natation&quot;&gt;Natation&lt;/a&gt; +7, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +10, &lt;a class=&quot;pagelink&quot; href=&quot;Psychologie.html&quot; title=&quot;Psychologie&quot;&gt;Psychologie&lt;/a&gt; +10, &lt;a class=&quot;pagelink&quot; href=&quot;Survie.html&quot; title=&quot;Survie&quot;&gt;Survie&lt;/a&gt; +7
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Langues&lt;/b&gt; commun
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Particularit&#233;s&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Changement-De-Forme-(Capacit&#233;).html&quot; title=&quot;Changement de forme (Sur)&quot;&gt;changement de forme&lt;/a&gt; changement de forme (humain, hybride et tigre ; &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;M&#233;tamorphose.html&quot; title=&quot;M&#233;tamorphose&quot;&gt;m&#233;tamorphose&lt;/a&gt;&lt;/i&gt;), empathie lycanthropique (&lt;a class=&quot;pagelink&quot; href=&quot;Tigre.html&quot; title=&quot;Tigre&quot;&gt;tigre&lt;/a&gt; et &lt;a class=&quot;pagelink&quot; href=&quot;Tigre-Sanguinaire.html&quot; title=&quot;Tigre sanguinaire (smilodon)&quot;&gt;tigre sanguinaire&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Roublard.html#RECHERCHEDESPIEGES&quot; title=&quot;recherche des pi&#232;ges&quot;&gt;recherche des pi&#232;ges&lt;/a&gt; +2, &lt;a class=&quot;pagelink&quot; href=&quot;Roublard.html#TALENTDEROUBLARD&quot; title=&quot;Talents de roublard&quot;&gt;talents de roublard&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Talents.html#ATTAQUESANGLANTE&quot; title=&quot;Les talents de roublard&quot;&gt;Attaque sanglante&lt;/a&gt; +2, &lt;a class=&quot;pagelink&quot; href=&quot;Discret.html&quot; title=&quot;Discret&quot;&gt;discret&lt;/a&gt; et &lt;a class=&quot;pagelink&quot; href=&quot;Rapide.html&quot; title=&quot;Rapide&quot;&gt;rapide&lt;/a&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; plaines ou marais
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation sociale&lt;/b&gt;  solitaire ou couple
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; &#233;quipement de PNJ (armure de cuir clout&#233;e, &#233;p&#233;e courte de ma&#238;tre, 2 dagues de ma&#238;tres, autres tr&#233;sors)
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;h3 class=&quot;separator&quot;&gt; &lt;a class=&quot;headeranchor&quot; id=&quot;_0&quot; href=&quot;#_0&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Tigre-garou (forme hybride)&lt;div style=&quot;float:right;&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Bestiaire 2, P.192&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 1.200
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+Humain, tigre-garou naturel, &lt;a class=&quot;pagelink&quot; href=&quot;Roublard.html&quot; title=&quot;Le roublard&quot;&gt;roublard&lt;/a&gt; 4
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Humano&#239;de.html&quot; title=&quot;Humano&#239;de&quot;&gt;Humano&#239;de&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Humain.html&quot; title=&quot;Humain (sous-type)&quot;&gt;humain&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-M&#233;tamorphe.html&quot; title=&quot;M&#233;tamorphe (sous-type)&quot;&gt;m&#233;tamorphe&lt;/a&gt;) de taille M, NM
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +7 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Odorat-(Capacit&#233;).html&quot; title=&quot;odorat&quot;&gt;odorat&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Nocturne-(Capacit&#233;).html&quot; title=&quot;vision nocturne&quot;&gt;vision nocturne&lt;/a&gt; ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +10
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 18, contact 13, pris au d&#233;pourvu 15 (armure +3, Dex +3, naturelle +2)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 38 (4d8+20)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +7, &lt;b&gt;Vig&lt;/b&gt; +5, &lt;b&gt;Vol&lt;/b&gt; +4
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Capacit&#233;s d&#233;fensives&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Roublard.html#ESQUIVEINSTINCTIVE&quot; title=&quot;esquive instinctive&quot;&gt;esquive instinctive&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Roublard.html#ESQUIVETOTALE&quot; title=&quot;esquive totale&quot;&gt;esquive totale&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Roublard.html#SENSDESPIEGES&quot; title=&quot;sens des pi&#232;ges&quot;&gt;sens des pi&#232;ges&lt;/a&gt; +1, &lt;b&gt;RD&lt;/b&gt; 10/argent
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 9 m
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; &lt;i&gt;morsure&lt;/i&gt;, +10 (2d6+7) et &lt;i&gt;2 griffes&lt;/i&gt;, +10 (1d8+7)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Distance&lt;/b&gt; &lt;i&gt;dague de ma&#238;tre&lt;/i&gt; ,+7 (1d4+7/19–20)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaques sp&#233;ciales&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Roublard.html#ATTAQUESOURNOISE&quot; title=&quot;attaque sournoise&quot;&gt;attaque sournoise&lt;/a&gt; +2d6
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 25, &lt;b&gt;Dex&lt;/b&gt; 16, &lt;b&gt;Con&lt;/b&gt; 19, &lt;b&gt;Int&lt;/b&gt; 10, &lt;b&gt;Sag&lt;/b&gt; 16, &lt;b&gt;Cha&lt;/b&gt; 8
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +3, &lt;b&gt;BMO&lt;/b&gt; +10, &lt;b&gt;DMD&lt;/b&gt; 23
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Attaque-En-Puissance.html&quot; title=&quot;Attaque en puissance&quot;&gt;Attaque en puissance&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Science-De-Linitiative.html&quot; title=&quot;Science de l&amp;#39;initiative&quot;&gt;Science de l’initiative&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Talent.html&quot; title=&quot;Talent&quot;&gt;Talent&lt;/a&gt; (Discr&#233;tion)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Acrobaties.html&quot; title=&quot;Acrobaties&quot;&gt;Acrobaties&lt;/a&gt; +9, &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; +12, &lt;a class=&quot;pagelink&quot; href=&quot;Dressage.html&quot; title=&quot;Dressage&quot;&gt;Dressage&lt;/a&gt; +3, &lt;a class=&quot;pagelink&quot; href=&quot;Escalade.html&quot; title=&quot;Escalade&quot;&gt;Escalade&lt;/a&gt; +13, &lt;a class=&quot;pagelink&quot; href=&quot;Intimidation.html&quot; title=&quot;Intimidation&quot;&gt;Intimidation&lt;/a&gt; +6, &lt;a class=&quot;pagelink&quot; href=&quot;Natation.html&quot; title=&quot;Natation&quot;&gt;Natation&lt;/a&gt; +13, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +10, &lt;a class=&quot;pagelink&quot; href=&quot;Psychologie.html&quot; title=&quot;Psychologie&quot;&gt;Psychologie&lt;/a&gt; +10, &lt;a class=&quot;pagelink&quot; href=&quot;Survie.html&quot; title=&quot;Survie&quot;&gt;Survie&lt;/a&gt; +7
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Langues&lt;/b&gt; commun
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Particularit&#233;s&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Changement-De-Forme-(Capacit&#233;).html&quot; title=&quot;Changement de forme (Sur)&quot;&gt;changement de forme&lt;/a&gt; changement de forme (humain, hybride et tigre ; &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;M&#233;tamorphose.html&quot; title=&quot;M&#233;tamorphose&quot;&gt;m&#233;tamorphose&lt;/a&gt;&lt;/i&gt;), empathie lycanthropique (&lt;a class=&quot;pagelink&quot; href=&quot;Tigre.html&quot; title=&quot;Tigre&quot;&gt;tigre&lt;/a&gt; et &lt;a class=&quot;pagelink&quot; href=&quot;Tigre-Sanguinaire.html&quot; title=&quot;Tigre sanguinaire (smilodon)&quot;&gt;tigre sanguinaire&lt;/a&gt;), &lt;a class=&quot;pagelink&quot; href=&quot;Roublard.html#RECHERCHEDESPIEGES&quot; title=&quot;recherche des pi&#232;ges&quot;&gt;recherche des pi&#232;ges&lt;/a&gt; +2, &lt;a class=&quot;pagelink&quot; href=&quot;Roublard.html#TALENTDEROUBLARD&quot; title=&quot;Talents de roublard&quot;&gt;talents de roublard&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Talents.html#ATTAQUESANGLANTE&quot; title=&quot;Les talents de roublard&quot;&gt;Attaque sanglante&lt;/a&gt; +2, &lt;a class=&quot;pagelink&quot; href=&quot;Discret.html&quot; title=&quot;Discret&quot;&gt;discret&lt;/a&gt; et &lt;a class=&quot;pagelink&quot; href=&quot;Rapide.html&quot; title=&quot;Rapide&quot;&gt;rapide&lt;/a&gt;)
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;td&gt;&lt;div&gt;Voir l&#39;arch&#233;type du &lt;a class=&quot;pagelink&quot; href=&quot;Lycanthrope,-Arch&#233;type.html&quot; title=&quot;Lycanthrope, arch&#233;type&quot;&gt;lycanthrope&lt;/a&gt;.&lt;i&gt;Ce tigre humano&#239;de pr&#233;sente une fourrure z&#233;br&#233;e et une silhouette &#233;lanc&#233;e et muscl&#233;e. Son visage d&#233;voile des crocs ac&#233;r&#233;s et des yeux de f&#233;lins.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Sous forme humano&#239;de, les tigres-garous ont g&#233;n&#233;ralement de
+grands yeux, de longs nez et des pommettes saillantes. La plupart
+d’entre eux ont les cheveux bruns ou roux, mais certains les ont
+blancs, noirs ou m&#234;me bleu-gris. Leurs mouvements paraissent
+gracieux mais toujours bien calcul&#233;s. Lorsqu’on les observe, on
+peut avoir l’impression de regarder un voleur &#224; la tire dou&#233;, un
+danseur gracieux ou un courtisan sensuel.
+Les tigres-garous sont g&#233;n&#233;ralement des cr&#233;atures solitaires
+qui passent du temps avec d’autres cr&#233;atures de leur esp&#232;ce
+seulement lorsqu’elles ressentent le besoin de se reproduire. Les
+tigres-garous mal&#233;fiques appr&#233;cient l’excitation qu’ils ressentent
+lorsqu’ils chassent des proies intelligentes.
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Tigre-garou (forme humaine)|FP 4}
+{s:pucem|Humanoïde|Forêt-Jungle|Tempéré}
+{s:BDTexte|''Source : Bestiaire 2, P.192''}
+{s:BDTexte|'''PX''' 1.200}
+{s:BDTexte|Humain, tigre-garou naturel, [[roublard]] 4}
+{s:BDTexte|[[type Humanoïde|Humanoïde]] ([[sous-type humain|humain]], [[sous-type métamorphe|métamorphe]]) de taille M, NM}
+{s:BDTexte|'''Init''' +7 ; '''Sens''' [[odorat]], [[vision nocturne]] ; [[Perception]] +10}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 16, contact 13, pris au dépourvu 13 (armure +3, Dex +3)}
+{s:BDTexte|'''pv''' 29 (4d8+8)}
+{s:BDTexte|'''Réf''' +7, '''Vig''' +2, '''Vol''' +4}
+{s:BDTexte|'''Capacités défensives''' [[esquive instinctive]], [[esquive totale]], [[sens des pièges]] +1}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 9 m}
+{s:BDTexte|'''Corps à corps''' ''épée courte de maître'', +5 (1d6+1/19–20)}
+{s:BDTexte|'''Distance''' ''dague de maître'' ,+7 (1d4+1/19–20)}
+{s:BDTexte|'''Attaques spéciales''' [[attaque sournoise]] +2d6}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 13, '''Dex''' 16, '''Con''' 12, '''Int''' 10, '''Sag''' 16, '''Cha''' 8}
+{s:BDTexte|'''BBA''' +3, '''BMO''' +4, '''DMD''' 17}
+{s:BDTexte|'''Dons''' [[Attaque en puissance]], [[Science de linitiative|Science de l’initiative]], [[Talent]] (Discrétion)}
+{s:BDTexte|'''Compétences''' [[Acrobaties]] +9, [[Discrétion]] +12, [[Dressage]] +3, [[Escalade]] +7, [[Intimidation]] +6, [[Natation]] +7, [[Perception]] +10, [[Psychologie]] +10, [[Survie]] +7}
+{s:BDTexte|'''Langues''' commun}
+{s:BDTexte|'''Particularités''' [[changement de forme (capacité)|changement de forme]] changement de forme (humain, hybride et tigre ; ''[[métamorphose]]''), empathie lycanthropique ([[tigre]] et [[tigre sanguinaire]], [[recherche des pièges]] +2, [[talents de roublard]] ([[Talents#ATTAQUESANGLANTE|Attaque sanglante]] +2, [[discret]] et [[rapide]])}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' plaines ou marais}
+{s:BDTexte|'''Organisation sociale'''  solitaire ou couple}
+{s:BDTexte|'''Trésor''' équipement de PNJ (armure de cuir cloutée, épée courte de maître, 2 dagues de maîtres, autres trésors)}
+</div>
+==== ====
+<div class="BD">
+{s:BDTitre|Tigre-garou (forme hybride)}
+{s:pucem|Humanoïde|Forêt-Jungle|Tempéré}
+{s:BDTexte|''Source : Bestiaire 2, P.192''}
+{s:BDTexte|'''PX''' 1.200}
+{s:BDTexte|Humain, tigre-garou naturel, [[roublard]] 4}
+{s:BDTexte|[[type Humanoïde|Humanoïde]] ([[sous-type humain|humain]], [[sous-type métamorphe|métamorphe]]) de taille M, NM}
+{s:BDTexte|'''Init''' +7 ; '''Sens''' [[odorat]], [[vision nocturne]] ; [[Perception]] +10}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 18, contact 13, pris au dépourvu 15 (armure +3, Dex +3, naturelle +2)}
+{s:BDTexte|'''pv''' 38 (4d8+20)}
+{s:BDTexte|'''Réf''' +7, '''Vig''' +5, '''Vol''' +4}
+{s:BDTexte|'''Capacités défensives''' [[esquive instinctive]], [[esquive totale]], [[sens des pièges]] +1, '''RD''' 10/argent}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 9 m}
+{s:BDTexte|'''Corps à corps''' ''morsure'', +10 (2d6+7) et ''2 griffes'', +10 (1d8+7)}
+{s:BDTexte|'''Distance''' ''dague de maître'' ,+7 (1d4+7/19–20)}
+{s:BDTexte|'''Attaques spéciales''' [[attaque sournoise]] +2d6}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 25, '''Dex''' 16, '''Con''' 19, '''Int''' 10, '''Sag''' 16, '''Cha''' 8}
+{s:BDTexte|'''BBA''' +3, '''BMO''' +10, '''DMD''' 23}
+{s:BDTexte|'''Dons''' [[Attaque en puissance]], [[Science de linitiative|Science de l’initiative]], [[Talent]] (Discrétion)}
+{s:BDTexte|'''Compétences''' [[Acrobaties]] +9, [[Discrétion]] +12, [[Dressage]] +3, [[Escalade]] +13, [[Intimidation]] +6, [[Natation]] +13, [[Perception]] +10, [[Psychologie]] +10, [[Survie]] +7}
+{s:BDTexte|'''Langues''' commun}
+{s:BDTexte|'''Particularités''' [[changement de forme (capacité)|changement de forme]] changement de forme (humain, hybride et tigre ; ''[[métamorphose]]''), empathie lycanthropique ([[tigre|tigre]] et [[tigre sanguinaire|tigre sanguinaire]]), [[recherche des pièges]] +2, [[talents de roublard]] ([[Talents#ATTAQUESANGLANTE|Attaque sanglante]] +2, [[discret]] et [[rapide]])}
+</div>
+</td><td><div>Voir l'archétype du [[lycanthrope, archétype|lycanthrope]].''Ce tigre humanoïde présente une fourrure zébrée et une silhouette élancée et musclée. Son visage dévoile des crocs acérés et des yeux de félins.''
+
+Sous forme humanoïde, les tigres-garous ont généralement de
+grands yeux, de longs nez et des pommettes saillantes. La plupart
+d’entre eux ont les cheveux bruns ou roux, mais certains les ont
+blancs, noirs ou même bleu-gris. Leurs mouvements paraissent
+gracieux mais toujours bien calculés. Lorsqu’on les observe, on
+peut avoir l’impression de regarder un voleur à la tire doué, un
+danseur gracieux ou un courtisan sensuel.
+Les tigres-garous sont généralement des créatures solitaires
+qui passent du temps avec d’autres créatures de leur espèce
+seulement lorsqu’elles ressentent le besoin de se reproduire. Les
+tigres-garous maléfiques apprécient l’excitation qu’ils ressentent
+lorsqu’ils chassent des proies intelligentes.
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Tigre-garou</fullName>
+</wikiPage>

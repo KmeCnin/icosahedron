@@ -1,0 +1,175 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Leukodaémon</title>
+  <categories><category>Pathfinder-RPG.Bestiaire 2</category><category>Pathfinder-RPG.Monstre</category><category>Pathfinder-RPG.Règles officielles</category></categories>
+  <lastModified>2013-08-10 11:37:56Z</lastModified>
+  <version>6</version>
+  <inLinks><link>Pathfinder-RPG.Daémon</link><link>Pathfinder-RPG.Glossaire des monstres</link><link>Pathfinder-RPG.Lier un extérieur</link><link>Pathfinder-RPG.Liste de monstres par FP</link><link>Pathfinder-RPG.Liste de monstres par milieu naturel</link><link>Pathfinder-RPG.Liste de monstres par type</link><link>Pathfinder-RPG.Monstres</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.type Extérieur</link><link>Pathfinder-RPG.sous-type daémon</link><link>Pathfinder-RPG.sous-type extraplanaire</link><link>Pathfinder-RPG.sous-type Mal</link><link>Pathfinder-RPG.Détection du Bien</link><link>Pathfinder-RPG.Perception de la mort</link><link>Pathfinder-RPG.vision dans le noir</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Contagion</link><link>Pathfinder-RPG.Dissipation de la magie</link><link>Pathfinder-RPG.Téléportation suprême</link><link>Pathfinder-RPG.Convocation (capacité)</link><link>Pathfinder-RPG.Mise à mal</link><link>Pathfinder-RPG.Arme de prédilection</link><link>Pathfinder-RPG.Science de linitiative</link><link>Pathfinder-RPG.Tir à bout portant</link><link>Pathfinder-RPG.Vigilance</link><link>Pathfinder-RPG.Vol stationnaire</link><link>Pathfinder-RPG.Connaissances</link><link>Pathfinder-RPG.Discrétion</link><link>Pathfinder-RPG.Intimidation</link><link>Pathfinder-RPG.Premiers secours</link><link>Pathfinder-RPG.Psychologie</link><link>Pathfinder-RPG.Survie</link><link>Pathfinder-RPG.Utilisation dObjets Magiques</link><link>Pathfinder-RPG.Vol</link><link>Pathfinder-RPG.Télépathie</link><link>Pathfinder-RPG.Fiévreux</link><link>Pathfinder-RPG.Daémon</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire 2&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Leukoda&#233;mon&lt;div style=&quot;float:right;&quot;&gt;FP 9&lt;/div&gt;&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Bestiaire 2&lt;/i&gt; p.78
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 6.400
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Ext&#233;rieur.html&quot; title=&quot;Ext&#233;rieur&quot;&gt;Ext&#233;rieur&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Da&#233;mon.html&quot; title=&quot;Da&#233;mon (sous-type)&quot;&gt;da&#233;mon&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Extraplanaire.html&quot; title=&quot;Extraplanaire (sous-type)&quot;&gt;extraplanaire&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Mal.html&quot; title=&quot;Mal (sous-type)&quot;&gt;Mal&lt;/a&gt;) de taille G, NM
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +11 ; &lt;b&gt;Sens&lt;/b&gt; &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;D&#233;tection-Du-Bien.html&quot; title=&quot;D&#233;tection du Bien&quot;&gt;d&#233;tection du Bien&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Perception-De-La-Mort.html&quot; title=&quot;Perception de la mort&quot;&gt;perception de la mort&lt;/a&gt;&lt;/i&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Capacit&#233;s-Sp&#233;ciales.html#VISIONDANSLENOIR&quot; title=&quot;vision dans le noir&quot;&gt;vision dans le noir&lt;/a&gt; 18 m ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +22
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Aura&lt;/b&gt; infectieuse (15 m (10 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 23, contact 16, pris au d&#233;pourvu 16 (Dex +7, naturelle +7, taille –1)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 115 (10d10+60)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +14, &lt;b&gt;Vig&lt;/b&gt; +9, &lt;b&gt;Vol&lt;/b&gt; +12
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Immunit&#233;s&lt;/b&gt; acide, effets de mort, maladie, poison ; &lt;b&gt;RD&lt;/b&gt; 10/Bien ou argent ; &lt;b&gt;R&#233;sistances&lt;/b&gt; &#233;lectricit&#233; 10, feu 10, froid 10 ; &lt;b&gt;RM&lt;/b&gt; 20
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 9 m (6 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), vol 18 m (12 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) (moyenne)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; &lt;i&gt;morsure&lt;/i&gt;, +16 (1d8+7) et &lt;i&gt;2 griffes&lt;/i&gt;, +16 (1d6+7)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Distance&lt;/b&gt; &lt;i&gt;arc long composite +1&lt;/i&gt;, 18/+13 (2d6+8/&#215;3 plus contagion)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Espace&lt;/b&gt; 3 m (2 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) ; &lt;b&gt;Allonge&lt;/b&gt; 3 m (2 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaques sp&#233;ciales&lt;/b&gt; souffle de mouches
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Pouvoirs magiques&lt;/b&gt; (NLS 10 ; concentration +13)
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+Constant — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;D&#233;tection-Du-Bien.html&quot; title=&quot;D&#233;tection du Bien&quot;&gt;d&#233;tection du Bien&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Perception-De-La-Mort.html&quot; title=&quot;Perception de la mort&quot;&gt;perception de la mort&lt;/a&gt;&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+&#192; volont&#233; — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Contagion.html&quot; title=&quot;Contagion&quot;&gt;contagion&lt;/a&gt;&lt;/i&gt; (DD 17), &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Dissipation-De-La-Magie.html&quot; title=&quot;Dissipation de la magie&quot;&gt;dissipation de la magie&lt;/a&gt;&lt;/i&gt;,  &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;T&#233;l&#233;portation-Supr&#234;me.html&quot; title=&quot;T&#233;l&#233;portation supr&#234;me&quot;&gt;t&#233;l&#233;portation supr&#234;me&lt;/a&gt;&lt;/i&gt; (personnel et 25 kg d’objets uniquement)
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+1/jour — &lt;a class=&quot;pagelink&quot; href=&quot;Convocation-(Capacit&#233;).html&quot; title=&quot;Convocation (Mag)&quot;&gt;convocation&lt;/a&gt; (niveau 3, 1 leukoda&#233;mon seulement, 35%), &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Mise-&#192;-Mal.html&quot; title=&quot;Mise &#224; mal&quot;&gt;mise &#224; mal&lt;/a&gt;&lt;/i&gt; (DD 19)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 25, &lt;b&gt;Dex&lt;/b&gt; 24, &lt;b&gt;Con&lt;/b&gt; 23, &lt;b&gt;Int&lt;/b&gt; 16, &lt;b&gt;Sag&lt;/b&gt; 21, &lt;b&gt;Cha&lt;/b&gt; 16
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +10, &lt;b&gt;BMO&lt;/b&gt; +18, &lt;b&gt;DMD&lt;/b&gt; 35
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Arme-De-Pr&#233;dilection.html&quot; title=&quot;Arme de pr&#233;dilection&quot;&gt;Arme de pr&#233;dilection&lt;/a&gt; (arc long), &lt;a class=&quot;pagelink&quot; href=&quot;Science-De-Linitiative.html&quot; title=&quot;Science de l&amp;#39;initiative&quot;&gt;Science de l’initiative&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Tir-&#192;-Bout-Portant.html&quot; title=&quot;Tir &#224; bout portant&quot;&gt;Tir &#224; bout portant&lt;/a&gt; , &lt;a class=&quot;pagelink&quot; href=&quot;Vigilance.html&quot; title=&quot;Vigilance&quot;&gt;Vigilance&lt;/a&gt; , &lt;a class=&quot;pagelink&quot; href=&quot;Vol-Stationnaire.html&quot; title=&quot;Vol stationnaire&quot;&gt;Vol stationnaire&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Connaissances.html&quot; title=&quot;Connaissances&quot;&gt;Connaissances&lt;/a&gt; (plans) +16, &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; +16, &lt;a class=&quot;pagelink&quot; href=&quot;Intimidation.html&quot; title=&quot;Intimidation&quot;&gt;Intimidation&lt;/a&gt; +16, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +22, &lt;a class=&quot;pagelink&quot; href=&quot;Premiers-Secours.html&quot; title=&quot;Premiers secours&quot;&gt;Premiers secours&lt;/a&gt; +18, &lt;a class=&quot;pagelink&quot; href=&quot;Psychologie.html&quot; title=&quot;Psychologie&quot;&gt;Psychologie&lt;/a&gt; +22, &lt;a class=&quot;pagelink&quot; href=&quot;Survie.html&quot; title=&quot;Survie&quot;&gt;Survie&lt;/a&gt; +15, &lt;a class=&quot;pagelink&quot; href=&quot;Utilisation-Dobjets-Magiques.html&quot; title=&quot;Utilisation d&amp;#39;objets magiques&quot;&gt;Utilisation d’objets magiques&lt;/a&gt; +16, &lt;a class=&quot;pagelink&quot; href=&quot;Vol.html&quot; title=&quot;Vol&quot;&gt;Vol&lt;/a&gt; +18
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Langues&lt;/b&gt; abyssal, draconique, infernal ; &lt;a class=&quot;pagelink&quot; href=&quot;T&#233;l&#233;pathie-(Capacit&#233;).html&quot; title=&quot;T&#233;l&#233;pathie&quot;&gt;t&#233;l&#233;pathie&lt;/a&gt; 30 m
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; tous (Abaddon)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation sociale&lt;/b&gt; solitaire ou procession (2–10)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; standard, arc long composite +1, autres tr&#233;sors
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Pouvoirs sp&#233;ciaux&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Aura infectieuse (Sur).&lt;/b&gt; Toutes les cr&#233;atures situ&#233;es dans un rayon de 15 m&#232;tres autour du leukoda&#233;mon subissent un malus de –4 aux jets de Vigueur contre les maladies.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Contagion (Sur).&lt;/b&gt; Toutes les fl&#232;ches tir&#233;es &#224; l’aide d’un arc par un leukoda&#233;mon sont infect&#233;es par une maladie. Si une cr&#233;ature est bless&#233;e par une telle fl&#232;che, elle doit r&#233;ussir un jet de Vigueur contre un DD de 19 pour ne pas &#234;tre affect&#233;e par un effet similaire &#224; celui du sort de &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Contagion.html&quot; title=&quot;Contagion&quot;&gt;contagion&lt;/a&gt;&lt;/i&gt;. Un leukoda&#233;mon peut cr&#233;er des fl&#232;ches &#224; volont&#233; et ne tombe donc jamais &#224; court de munition.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Souffle de mouches (Sur).&lt;/b&gt; Par une action simple utilisable une fois par minute, un leukoda&#233;mon peut projeter un nuage de mouches noires agressives et bouffies sous la forme d’un c&#244;ne de 6 m&#232;tres. Les cr&#233;atures prises dans la zone subissent 8d6 points de d&#233;g&#226;ts de type tranchant. Un jet de R&#233;flexes de DD 21 permet de diviser ces d&#233;g&#226;ts par deux. Les cr&#233;atures bless&#233;es sont &#233;galement &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables.html#Fi&#233;vreux&quot; title=&quot;Fi&#233;vreux&quot;&gt;fi&#233;vreuses&lt;/a&gt; pendant 1 minute. De plus, les mouches restent sur place pendant 1d4+1 rounds sous la forme d’un nuage bourdonnant occupant un cube de 6 m&#232;tres de c&#244;t&#233; et centr&#233; sur le point d’origine du c&#244;ne. Toutes les cr&#233;atures qui finissent leur tour dans ce nuage doivent r&#233;ussir un jet de R&#233;flexes de DD 21 pour ne pas subir 4d6 points de d&#233;g&#226;ts et de devenir &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables.html#Fi&#233;vreux&quot; title=&quot;Fi&#233;vreux&quot;&gt;fi&#233;vreuses&lt;/a&gt; pendant 1 minute. Ce nuage de mouches peut &#234;tre dissip&#233; par n’importe quel effet qui inflige des d&#233;g&#226;ts sur toute une zone ou qui cr&#233;e des vents de force &#233;quivalente ou sup&#233;rieure &#224; des vents importants. Tous les &lt;a class=&quot;pagelink&quot; href=&quot;Da&#233;mon.html&quot; title=&quot;Da&#233;mon&quot;&gt;da&#233;mons&lt;/a&gt; sont immunis&#233;s contre cet effet. Le DD du jet de sauvegarde d&#233;pend de la Constitution.
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;td&gt;&lt;div&gt;&lt;i&gt;Cette cr&#233;ature humano&#239;de a un cr&#226;ne de cheval &#224; la place de la t&#234;te. Elle marche sur des sabots fendus et poss&#232;de des ailes en d&#233;composition comme celles d’un oiseau mort.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Les leukoda&#233;mons sont les diacres du
+Cavalier de la Pestilence. Ils servent leur
+seigneur tant sur Abaddon que sur les autres
+plans en r&#233;pandant les maladies et les &#233;pid&#233;mies.
+Un leukoda&#233;mon mesure au moins
+4,20 m&#232;tres de hauteur mais p&#232;se &#224; peine
+plus de 100 kg. Les cr&#226;nes qui leur servent de
+t&#234;te peuvent &#234;tre de n’importe quel type, mais ces
+cr&#233;atures choisissent des cr&#226;nes de chevaux pour
+montrer leur loyaut&#233; envers les Cavaliers. Les
+v&#233;ritables t&#234;tes de ces cr&#233;atures ne sont rien de
+plus que des excroissances pustuleuses situ&#233;es
+entre leurs &#233;paules.
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire 2"><tr><td>
+<div class="BD">
+{s:BDTitre|Leukodaémon|FP 9}
+{s:pucem|Extérieur|Ruines-Donjons|Extraplanaire}
+{s:BDTexte|''Source : Bestiaire 2'' p.78}
+{s:BDTexte|'''PX''' 6.400}
+{s:BDTexte|[[type Extérieur|Extérieur]] ([[sous-type daémon|daémon]], [[sous-type extraplanaire|extraplanaire]], [[sous-type Mal|Mal]]) de taille G, NM}
+{s:BDTexte|'''Init''' +11 ; '''Sens''' ''[[détection du Bien]]'', ''[[perception de la mort]]'', [[vision dans le noir]] 18 m ; [[Perception]] +22}
+{s:BDTexte|'''Aura''' infectieuse (15 m (10 {s:c})}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 23, contact 16, pris au dépourvu 16 (Dex +7, naturelle +7, taille –1)}
+{s:BDTexte|'''pv''' 115 (10d10+60)}
+{s:BDTexte|'''Réf''' +14, '''Vig''' +9, '''Vol''' +12}
+{s:BDTexte|'''Immunités''' acide, effets de mort, maladie, poison ; '''RD''' 10/Bien ou argent ; '''Résistances''' électricité 10, feu 10, froid 10 ; '''RM''' 20}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 9 m (6 {s:c}), vol 18 m (12 {s:c}) (moyenne)}
+{s:BDTexte|'''Corps à corps''' ''morsure'', +16 (1d8+7) et ''2 griffes'', +16 (1d6+7)}
+{s:BDTexte|'''Distance''' ''arc long composite +1'', 18/+13 (2d6+8/×3 plus contagion)}
+{s:BDTexte|'''Espace''' 3 m (2 {s:c}) ; '''Allonge''' 3 m (2 {s:c})}
+{s:BDTexte|'''Attaques spéciales''' souffle de mouches}
+{s:BDTexte|'''Pouvoirs magiques''' (NLS 10 ; concentration +13)}
+{s:BDSorts|Constant — ''[[détection du Bien]]'', ''[[perception de la mort]]''}
+{s:BDSorts|À volonté — ''[[contagion]]'' (DD 17), ''[[dissipation de la magie]]'',  ''[[téléportation suprême]]'' (personnel et 25 kg d’objets uniquement)}
+{s:BDSorts|1/jour — [[convocation (capacité)|convocation]] (niveau 3, 1 leukodaémon seulement, 35%), ''[[mise à mal]]'' (DD 19)}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 25, '''Dex''' 24, '''Con''' 23, '''Int''' 16, '''Sag''' 21, '''Cha''' 16}
+{s:BDTexte|'''BBA''' +10, '''BMO''' +18, '''DMD''' 35}
+{s:BDTexte|'''Dons''' [[Arme de prédilection]] (arc long), [[Science de linitiative|Science de l’initiative]], [[Tir à bout portant]] , [[Vigilance]] , [[Vol stationnaire]]}
+{s:BDTexte|'''Compétences''' [[Connaissances]] (plans) +16, [[Discrétion]] +16, [[Intimidation]] +16, [[Perception]] +22, [[Premiers secours]] +18, [[Psychologie]] +22, [[Survie]] +15, [[Utilisation dobjets magiques|Utilisation d’objets magiques]] +16, [[Vol]] +18}
+{s:BDTexte|'''Langues''' abyssal, draconique, infernal ; [[télépathie]] 30 m}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' tous (Abaddon)}
+{s:BDTexte|'''Organisation sociale''' solitaire ou procession (2–10)}
+{s:BDTexte|'''Trésor''' standard, arc long composite +1, autres trésors}
+{s:BDSousTitre|Pouvoirs spéciaux}
+{s:BDTexte|'''Aura infectieuse (Sur).''' Toutes les créatures situées dans un rayon de 15 mètres autour du leukodaémon subissent un malus de –4 aux jets de Vigueur contre les maladies.}
+{s:BDTexte|'''Contagion (Sur).''' Toutes les flèches tirées à l’aide d’un arc par un leukodaémon sont infectées par une maladie. Si une créature est blessée par une telle flèche, elle doit réussir un jet de Vigueur contre un DD de 19 pour ne pas être affectée par un effet similaire à celui du sort de ''[[contagion]]''. Un leukodaémon peut créer des flèches à volonté et ne tombe donc jamais à court de munition.}
+{s:BDTexte|'''Souffle de mouches (Sur).''' Par une action simple utilisable une fois par minute, un leukodaémon peut projeter un nuage de mouches noires agressives et bouffies sous la forme d’un cône de 6 mètres. Les créatures prises dans la zone subissent 8d6 points de dégâts de type tranchant. Un jet de Réflexes de DD 21 permet de diviser ces dégâts par deux. Les créatures blessées sont également [[fiévreux|fiévreuses]] pendant 1 minute. De plus, les mouches restent sur place pendant 1d4+1 rounds sous la forme d’un nuage bourdonnant occupant un cube de 6 mètres de côté et centré sur le point d’origine du cône. Toutes les créatures qui finissent leur tour dans ce nuage doivent réussir un jet de Réflexes de DD 21 pour ne pas subir 4d6 points de dégâts et de devenir [[fiévreux|fiévreuses]] pendant 1 minute. Ce nuage de mouches peut être dissipé par n’importe quel effet qui inflige des dégâts sur toute une zone ou qui crée des vents de force équivalente ou supérieure à des vents importants. Tous les [[daémon|daémons]] sont immunisés contre cet effet. Le DD du jet de sauvegarde dépend de la Constitution.}
+</div>
+</td><td><div>''Cette créature humanoïde a un crâne de cheval à la place de la tête. Elle marche sur des sabots fendus et possède des ailes en décomposition comme celles d’un oiseau mort.''
+
+Les leukodaémons sont les diacres du
+Cavalier de la Pestilence. Ils servent leur
+seigneur tant sur Abaddon que sur les autres
+plans en répandant les maladies et les épidémies.
+Un leukodaémon mesure au moins
+4,20 mètres de hauteur mais pèse à peine
+plus de 100 kg. Les crânes qui leur servent de
+tête peuvent être de n’importe quel type, mais ces
+créatures choisissent des crânes de chevaux pour
+montrer leur loyauté envers les Cavaliers. Les
+véritables têtes de ces créatures ne sont rien de
+plus que des excroissances pustuleuses situées
+entre leurs épaules.
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Leukodaémon</fullName>
+</wikiPage>

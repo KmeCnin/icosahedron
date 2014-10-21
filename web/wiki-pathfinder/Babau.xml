@@ -1,0 +1,195 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Babau</title>
+  <categories><category>Pathfinder-RPG.Bestiaire</category><category>Pathfinder-RPG.Monstre</category><category>Pathfinder-RPG.Règles officielles</category></categories>
+  <lastModified>2013-02-02 16:55:24Z</lastModified>
+  <version>9</version>
+  <inLinks><link>Pathfinder-RPG.Convocation de monstres</link><link>Pathfinder-RPG.Démon</link><link>Pathfinder-RPG.Glossaire des monstres</link><link>Pathfinder-RPG.Lier un extérieur</link><link>Pathfinder-RPG.Liste de monstres par FP</link><link>Pathfinder-RPG.Liste de monstres par milieu naturel</link><link>Pathfinder-RPG.Liste de monstres par type</link><link>Pathfinder-RPG.Marilith</link><link>Pathfinder-RPG.Monstres</link><link>Pathfinder-RPG.Nabasu</link><link>Pathfinder-RPG.Omox</link><link>Pathfinder-RPG.Succube</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.type Extérieur</link><link>Pathfinder-RPG.sous-type Chaos</link><link>Pathfinder-RPG.sous-type démon</link><link>Pathfinder-RPG.sous-type extraplanaire</link><link>Pathfinder-RPG.sous-type Mal</link><link>Pathfinder-RPG.Détection de linvisibilité</link><link>Pathfinder-RPG.vision dans le noir</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.attaque sournoise</link><link>Pathfinder-RPG.Dissipation de la magie</link><link>Pathfinder-RPG.Téléportation suprême</link><link>Pathfinder-RPG.Ténèbres</link><link>Pathfinder-RPG.convocation</link><link>Pathfinder-RPG.Attaques réflexes</link><link>Pathfinder-RPG.Science de linitiative</link><link>Pathfinder-RPG.Talent</link><link>Pathfinder-RPG.Discrétion</link><link>Pathfinder-RPG.Volonté de fer</link><link>Pathfinder-RPG.Acrobaties</link><link>Pathfinder-RPG.Escalade</link><link>Pathfinder-RPG.Escamotage</link><link>Pathfinder-RPG.Évasion</link><link>Pathfinder-RPG.Psychologie</link><link>Pathfinder-RPG.Sabotage</link><link>Pathfinder-RPG.Télépathie</link><link>Pathfinder-RPG.Réflexes</link><link>Pathfinder-RPG.DD</link><link>Pathfinder-RPG.solidité</link><link>Pathfinder-RPG.Brisé</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Babau&lt;div style=&quot;float:right;&quot;&gt;FP 6&lt;/div&gt;&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Bestiaire p.61&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 2.400
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Ext&#233;rieur.html&quot; title=&quot;Ext&#233;rieur&quot;&gt;Ext&#233;rieur&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Chaos.html&quot; title=&quot;Chaos (sous-type)&quot;&gt;Chaos&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-D&#233;mon.html&quot; title=&quot;D&#233;mon (sous-type)&quot;&gt;d&#233;mon&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Extraplanaire.html&quot; title=&quot;Extraplanaire (sous-type)&quot;&gt;extraplanaire&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Mal.html&quot; title=&quot;Mal (sous-type)&quot;&gt;Mal&lt;/a&gt;) de taille M, CM
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +5 ; &lt;b&gt;Sens&lt;/b&gt; &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;D&#233;tection-De-Linvisibilit&#233;.html&quot; title=&quot;D&#233;tection de l&amp;#39;invisibilit&#233;&quot;&gt;d&#233;tection de l&#39;invisibilit&#233;&lt;/a&gt;&lt;/i&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Capacit&#233;s-Sp&#233;ciales.html#VISIONDANSLENOIR&quot; title=&quot;vision dans le noir&quot;&gt;vision dans le noir&lt;/a&gt; 18 m (12 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +19
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 19, contact 11, pris au d&#233;pourvu 18 (Dex +1, naturelle +8)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 73 (7d10+35)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +6, &lt;b&gt;Vig&lt;/b&gt; +10, &lt;b&gt;Vol&lt;/b&gt; +5
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Capacit&#233;s d&#233;fensives&lt;/b&gt; mucus protecteur ; &lt;b&gt;Immunit&#233;s&lt;/b&gt; &#233;lectricit&#233;, poison ; &lt;b&gt;RD&lt;/b&gt; 10/fer froid ou Bien ; &lt;b&gt;R&#233;sistances&lt;/b&gt; acide 10, feu 10, froid 10 ; &lt;b&gt;RM&lt;/b&gt; 17 
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 9 m (6 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; 2 griffes +12 (1d6+5), morsure +12 (1d6+5) ou lance +12/+7 (1d8+7/x3), morsure +7 (1d6+2)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Espace&lt;/b&gt; 1 ; &lt;b&gt;Allonge&lt;/b&gt; 1 (2 pour la lance)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaques sp&#233;ciales&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Roublard.html#ATTAQUESOURNOISE&quot; title=&quot;attaque sournoise&quot;&gt;attaque sournoise&lt;/a&gt; +2d6
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Pouvoirs magiques&lt;/b&gt; (NLS 7&lt;sup&gt;e&lt;/sup&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+Constant — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;D&#233;tection-De-Linvisibilit&#233;.html&quot; title=&quot;D&#233;tection de l&amp;#39;invisibilit&#233;&quot;&gt;d&#233;tection de l&#39;invisibilit&#233;&lt;/a&gt;&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+&#192; volont&#233; — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Dissipation-De-La-Magie.html&quot; title=&quot;Dissipation de la magie&quot;&gt;dissipation de la magie&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;T&#233;l&#233;portation-Supr&#234;me.html&quot; title=&quot;T&#233;l&#233;portation supr&#234;me&quot;&gt;t&#233;l&#233;portation supr&#234;me&lt;/a&gt;&lt;/i&gt; (lui-m&#234;me plus 25 kg d&#39;objets uniquement), &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;T&#233;n&#232;bres.html&quot; title=&quot;T&#233;n&#232;bres&quot;&gt;t&#233;n&#232;bres&lt;/a&gt;&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+1/jour — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#CONVOCATION&quot; title=&quot;convocation&quot;&gt;convocation&lt;/a&gt;&lt;/i&gt; (niveau 3, 1 babau, 40%)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 21, &lt;b&gt;Dex&lt;/b&gt; 13, &lt;b&gt;Con&lt;/b&gt; 20, &lt;b&gt;Int&lt;/b&gt; 14, &lt;b&gt;Sag&lt;/b&gt; 13, &lt;b&gt;Cha&lt;/b&gt; 16
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +7, &lt;b&gt;BMO&lt;/b&gt; +12, &lt;b&gt;DMD&lt;/b&gt; 23
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Attaques-R&#233;flexes.html&quot; title=&quot;Attaques r&#233;flexes&quot;&gt;Attaques r&#233;flexes&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Science-De-Linitiative.html&quot; title=&quot;Science de l&amp;#39;initiative&quot;&gt;Science de l&#39;initiative&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Talent.html&quot; title=&quot;Talent&quot;&gt;Talent&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt;), &lt;a class=&quot;pagelink&quot; href=&quot;Volont&#233;-De-Fer.html&quot; title=&quot;Volont&#233; de fer&quot;&gt;Volont&#233; de fer&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Acrobaties.html&quot; title=&quot;Acrobaties&quot;&gt;Acrobaties&lt;/a&gt; +11, &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; +22, &lt;a class=&quot;pagelink&quot; href=&quot;Escalade.html&quot; title=&quot;Escalade&quot;&gt;Escalade&lt;/a&gt; +12, &lt;a class=&quot;pagelink&quot; href=&quot;Escamotage.html&quot; title=&quot;Escamotage&quot;&gt;Escamotage&lt;/a&gt; +11, &lt;a class=&quot;pagelink&quot; href=&quot;&#201;vasion.html&quot; title=&quot;&#201;vasion&quot;&gt;&#201;vasion&lt;/a&gt; +11, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +19, &lt;a class=&quot;pagelink&quot; href=&quot;Psychologie.html&quot; title=&quot;Psychologie&quot;&gt;Psychologie&lt;/a&gt; +11, &lt;a class=&quot;pagelink&quot; href=&quot;Sabotage.html&quot; title=&quot;Sabotage&quot;&gt;Sabotage&lt;/a&gt; +11 ; &lt;b&gt;Modificateurs raciaux&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; +8, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +8
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Langues&lt;/b&gt; abyssal, c&#233;leste, draconique ; &lt;a class=&quot;pagelink&quot; href=&quot;T&#233;l&#233;pathie-(Capacit&#233;).html&quot; title=&quot;T&#233;l&#233;pathie&quot;&gt;t&#233;l&#233;pathie&lt;/a&gt; 30 m (20 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; quelconque (Abysse)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation sociale&lt;/b&gt; solitaire, couple ou groupe (3-8)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; standard (lance, autres tr&#233;sors)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Particularit&#233;s&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Mucus protecteur (Sur)&lt;/b&gt; La peau des babaus est recouverte d&#39;une couche de mucus acide. Chaque fois qu&#39;une cr&#233;ature touche le babau avec une attaque naturelle ou une attaque &#224; mains nues, elle subit 1d8 points de d&#233;g&#226;ts d&#39;acide si elle rate un jet de &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;R&#233;flexes&quot;&gt;R&#233;flexes&lt;/a&gt; de &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DEGREDEDIFFICULTE&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; 18. Lorsqu&#39;une cr&#233;ature frappe le babau &#224; l&#39;aide d&#39;une arme de corps &#224; corps, elle doit r&#233;ussir un jet de &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;R&#233;flexes&quot;&gt;R&#233;flexes&lt;/a&gt; de &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DEGREDEDIFFICULTE&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; 18 pour &#233;viter que son arme ne subisse 1d8 points de d&#233;g&#226;ts d&#39;acide. Si ces d&#233;g&#226;ts sont suffisants pour vaincre la &lt;a class=&quot;pagelink&quot; href=&quot;Exploration.html#SOLIDITE&quot; title=&quot;solidit&#233;&quot;&gt;solidit&#233;&lt;/a&gt; de l&#39;arme, celle-ci devient &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables.html#Bris&#233;&quot; title=&quot;Bris&#233;&quot;&gt;bris&#233;e&lt;/a&gt;. Les fl&#232;ches, carreaux, billes et autres projectiles qui touchent un babau infligent de d&#233;g&#226;ts normaux puis sont automatiquement d&#233;truits.
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;td&gt;&lt;div&gt;
+&lt;i&gt;Cette cr&#233;ature &#233;maci&#233;e ressemble &#224; un squelette d’humain cornu recouvert d’une fine peau de cuir huileux qui lui colle aux os.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Les babaus sont des assassins et des meurtriers sadiques. Il s’agit
+de caract&#233;ristiques courantes chez les d&#233;mons mais les babaus se
+distinguent de leurs cousins g&#233;n&#233;ralement moins subtils par un
+penchant pour la discr&#233;tion et les embuscades. Les babaus n’ont pas
+besoin de se nourrir mais la plupart d’entre eux appr&#233;cient le go&#251;t
+que la chair des mortels d&#233;pose sur leur longues langues r&#226;peuses.&lt;br /&gt;&lt;br /&gt;Les babaus peuvent rester tapis en embuscade pendant des ann&#233;es
+ou des d&#233;cennies. La patience inhumaine dont ils font preuve
+lorsqu’ils s’attendent &#224; pouvoir effectuer un meurtre parfaitement
+orchestr&#233; est une seconde caract&#233;ristique qui les distingue des
+autres habitants des Abysses. Les babaus sont obs&#233;d&#233;s par l’art
+morbide du meurtre et ils en tirent une grande fiert&#233;. Ils laissent
+souvent derri&#232;re eux une marque sinistre ou une signature cach&#233;e,
+qui peut prendre la forme d’un modus operandi distinctif, d’un
+symbole terrifiant ou d’un autre signe macabre.&lt;br /&gt;&lt;br /&gt;Les babaus se munissent g&#233;n&#233;ralement de piques ou d’autres
+armes leur permettant d’attaquer leurs ennemis d’assez loin mais,
+s’ils en ont l’occasion, ils pr&#233;f&#232;rent combattre avec leurs dents et
+leurs griffes. L’immonde mucus caustique que leur peau suppure
+sans cesse les emp&#234;che de porter une armure, &#224; moins qu’elle n’ait
+&#233;t&#233; trait&#233;e sp&#233;cialement pour r&#233;sister &#224; l’acide.&lt;br /&gt;&lt;br /&gt;Un babau mesure 1,80 m&#232;tre de hauteur mais ne p&#232;se que
+70 kg. Ces d&#233;mons sont cr&#233;&#233;s &#224; partir des &#226;mes mortelles des
+tueurs solitaires, ceux &#224; qui les meurtres les plus personnels
+et intimistes procuraient du plaisir. Une fois l&#226;ch&#233;s
+sur le monde Mat&#233;riel, les babaus reprennent
+g&#233;n&#233;ralement le m&#234;me r&#244;le, celui
+d’assassins sans remord qui hantent
+les recoins les plus sombres
+du monde.
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Babau|FP 6}
+{s:pucem|Extérieur|Ruines-Donjons|Extraplanaire}
+{s:BDTexte|''Source : Bestiaire p.61''}
+{s:BDTexte|'''PX''' 2.400}
+{s:BDTexte|[[type Extérieur|Extérieur]] ([[sous-type Chaos|Chaos]], [[sous-type démon|démon]], [[sous-type extraplanaire|extraplanaire]], [[sous-type Mal|Mal]]) de taille M, CM}
+{s:BDTexte|'''Init''' +5 ; '''Sens''' ''[[détection de linvisibilité|détection de l'invisibilité]]'', [[vision dans le noir]] 18 m (12 {s:c}) ; [[Perception]] +19}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 19, contact 11, pris au dépourvu 18 (Dex +1, naturelle +8)}
+{s:BDTexte|'''pv''' 73 (7d10+35)}
+{s:BDTexte|'''Réf''' +6, '''Vig''' +10, '''Vol''' +5}
+{s:BDTexte|'''Capacités défensives''' mucus protecteur ; '''Immunités''' électricité, poison ; '''RD''' 10/fer froid ou Bien ; '''Résistances''' acide 10, feu 10, froid 10 ; '''RM''' 17 }
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 9 m (6 {s:c})}
+{s:BDTexte|'''Corps à corps''' 2 griffes +12 (1d6+5), morsure +12 (1d6+5) ou lance +12/+7 (1d8+7/x3), morsure +7 (1d6+2)}
+{s:BDTexte|'''Espace''' 1 ; '''Allonge''' 1 (2 pour la lance)}
+{s:BDTexte|'''Attaques spéciales''' [[attaque sournoise]] +2d6}
+{s:BDTexte|'''Pouvoirs magiques''' (NLS 7<sup>e</sup>)}
+{s:BDSorts|Constant — ''[[détection de linvisibilité|détection de l'invisibilité]]''}
+{s:BDSorts|À volonté — ''[[dissipation de la magie]]'', ''[[téléportation suprême]]'' (lui-même plus 25 kg d'objets uniquement), ''[[ténèbres]]''}
+{s:BDSorts|1/jour — ''[[convocation]]'' (niveau 3, 1 babau, 40%)}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 21, '''Dex''' 13, '''Con''' 20, '''Int''' 14, '''Sag''' 13, '''Cha''' 16}
+{s:BDTexte|'''BBA''' +7, '''BMO''' +12, '''DMD''' 23}
+{s:BDTexte|'''Dons''' [[Attaques réflexes]], [[Science de linitiative|Science de l'initiative]], [[Talent]] ([[Discrétion]]), [[Volonté de fer]]}
+{s:BDTexte|'''Compétences''' [[Acrobaties]] +11, [[Discrétion]] +22, [[Escalade]] +12, [[Escamotage]] +11, [[Évasion]] +11, [[Perception]] +19, [[Psychologie]] +11, [[Sabotage]] +11 ; '''Modificateurs raciaux''' [[Discrétion]] +8, [[Perception]] +8}
+{s:BDTexte|'''Langues''' abyssal, céleste, draconique ; [[télépathie]] 30 m (20 {s:c})}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' quelconque (Abysse)}
+{s:BDTexte|'''Organisation sociale''' solitaire, couple ou groupe (3-8)}
+{s:BDTexte|'''Trésor''' standard (lance, autres trésors)}
+{s:BDSousTitre|Particularités}
+{s:BDTexte|'''Mucus protecteur (Sur)''' La peau des babaus est recouverte d'une couche de mucus acide. Chaque fois qu'une créature touche le babau avec une attaque naturelle ou une attaque à mains nues, elle subit 1d8 points de dégâts d'acide si elle rate un jet de [[Réflexes]] de [[DD]] 18. Lorsqu'une créature frappe le babau à l'aide d'une arme de corps à corps, elle doit réussir un jet de [[Réflexes]] de [[DD]] 18 pour éviter que son arme ne subisse 1d8 points de dégâts d'acide. Si ces dégâts sont suffisants pour vaincre la [[solidité]] de l'arme, celle-ci devient [[brisé|brisée]]. Les flèches, carreaux, billes et autres projectiles qui touchent un babau infligent de dégâts normaux puis sont automatiquement détruits.}
+</div>
+</td><td><div>
+''Cette créature émaciée ressemble à un squelette d’humain cornu recouvert d’une fine peau de cuir huileux qui lui colle aux os.''
+
+Les babaus sont des assassins et des meurtriers sadiques. Il s’agit
+de caractéristiques courantes chez les démons mais les babaus se
+distinguent de leurs cousins généralement moins subtils par un
+penchant pour la discrétion et les embuscades. Les babaus n’ont pas
+besoin de se nourrir mais la plupart d’entre eux apprécient le goût
+que la chair des mortels dépose sur leur longues langues râpeuses.
+
+Les babaus peuvent rester tapis en embuscade pendant des années
+ou des décennies. La patience inhumaine dont ils font preuve
+lorsqu’ils s’attendent à pouvoir effectuer un meurtre parfaitement
+orchestré est une seconde caractéristique qui les distingue des
+autres habitants des Abysses. Les babaus sont obsédés par l’art
+morbide du meurtre et ils en tirent une grande fierté. Ils laissent
+souvent derrière eux une marque sinistre ou une signature cachée,
+qui peut prendre la forme d’un modus operandi distinctif, d’un
+symbole terrifiant ou d’un autre signe macabre.
+
+Les babaus se munissent généralement de piques ou d’autres
+armes leur permettant d’attaquer leurs ennemis d’assez loin mais,
+s’ils en ont l’occasion, ils préfèrent combattre avec leurs dents et
+leurs griffes. L’immonde mucus caustique que leur peau suppure
+sans cesse les empêche de porter une armure, à moins qu’elle n’ait
+été traitée spécialement pour résister à l’acide.
+
+Un babau mesure 1,80 mètre de hauteur mais ne pèse que
+70 kg. Ces démons sont créés à partir des âmes mortelles des
+tueurs solitaires, ceux à qui les meurtres les plus personnels
+et intimistes procuraient du plaisir. Une fois lâchés
+sur le monde Matériel, les babaus reprennent
+généralement le même rôle, celui
+d’assassins sans remord qui hantent
+les recoins les plus sombres
+du monde.
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Babau</fullName>
+</wikiPage>

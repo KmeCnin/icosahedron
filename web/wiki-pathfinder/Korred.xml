@@ -1,0 +1,145 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Korred</title>
+  <categories><category>Pathfinder-RPG.Bestiaire 2</category><category>Pathfinder-RPG.Monstre</category><category>Pathfinder-RPG.Règles officielles</category></categories>
+  <lastModified>2013-02-07 20:12:58Z</lastModified>
+  <version>9</version>
+  <inLinks><link>Pathfinder-RPG.Liste de monstres par FP</link><link>Pathfinder-RPG.Liste de monstres par milieu naturel</link><link>Pathfinder-RPG.Liste de monstres par type</link><link>Pathfinder-RPG.Monstres</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.type Fée</link><link>Pathfinder-RPG.vision nocturne</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Lancer de rochers</link><link>Pathfinder-RPG.Corde animée</link><link>Pathfinder-RPG.Façonnage de la pierre</link><link>Pathfinder-RPG.Fracassement</link><link>Pathfinder-RPG.Pierres commères</link><link>Pathfinder-RPG.Esquive</link><link>Pathfinder-RPG.Souplesse du serpent</link><link>Pathfinder-RPG.Talent</link><link>Pathfinder-RPG.Acrobaties</link><link>Pathfinder-RPG.Artisanat</link><link>Pathfinder-RPG.Bluff</link><link>Pathfinder-RPG.Discrétion</link><link>Pathfinder-RPG.Représentation</link><link>Pathfinder-RPG.Action libre</link><link>Pathfinder-RPG.jet de sauvegarde</link><link>Pathfinder-RPG.Enchevêtré</link><link>Pathfinder-RPG.Dextérité</link><link>Pathfinder-RPG.Action simple</link><link>Pathfinder-RPG.Registre</link><link>Pathfinder-RPG.Charisme</link><link>Pathfinder-RPG.Voyage par les arbres</link><link>Pathfinder-RPG.Satyre</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Korred&lt;div style=&quot;float:right;&quot;&gt;FP 4&lt;/div&gt;&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Bestiaire 2&lt;/i&gt; p.182
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 1.200
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-F&#233;e.html&quot; title=&quot;F&#233;e&quot;&gt;F&#233;e&lt;/a&gt; de taille P, CN
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +3 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Nocturne-(Capacit&#233;).html&quot; title=&quot;vision nocturne&quot;&gt;vision nocturne&lt;/a&gt; ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +14
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 17, contact 15, pris au d&#233;pourvu 13 (Dex +3, esquive +1, naturelle +2, taille +1)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 33 (6d6+12)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +8, &lt;b&gt;Vig&lt;/b&gt; +4, &lt;b&gt;Vol&lt;/b&gt; +7
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;RD&lt;/b&gt; 5/fer froid ; &lt;b&gt;RM&lt;/b&gt; 15 
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 9 m (6 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; gourdin, +8 (1d4+6)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Distance&lt;/b&gt; rocher, +8 (1d6+4)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaques sp&#233;ciales&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Lancer-De-Rochers-(Capacit&#233;).html&quot; title=&quot;Lancer de rochers&quot;&gt;lancer de rochers&lt;/a&gt; (30m), poils anim&#233;s, rire &#233;tourdissant
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Pouvoirs magiques&lt;/b&gt; (NLS 6&lt;sup&gt;e&lt;/sup&gt; ; concentration +7)
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+A volont&#233; — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Corde-Anim&#233;e.html&quot; title=&quot;Corde anim&#233;e&quot;&gt;corde anim&#233;e&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Fa&#231;onnage-De-La-Pierre.html&quot; title=&quot;Fa&#231;onnage de la pierre&quot;&gt;fa&#231;onnage de la pierre&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Fracassement.html&quot; title=&quot;Fracassement&quot;&gt;fracassement&lt;/a&gt;&lt;/i&gt; (DD13)
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+1/jour — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Pierres-Comm&#232;res.html&quot; title=&quot;Pierres comm&#232;res&quot;&gt;pierres comm&#232;res&lt;/a&gt;&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 19, &lt;b&gt;Dex&lt;/b&gt; 17, &lt;b&gt;Con&lt;/b&gt; 14, &lt;b&gt;Int&lt;/b&gt; 12, &lt;b&gt;Sag&lt;/b&gt; 14, &lt;b&gt;Cha&lt;/b&gt; 13
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +3, &lt;b&gt;BMO&lt;/b&gt; +6, &lt;b&gt;DMD&lt;/b&gt; 20
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Esquive.html&quot; title=&quot;Esquive&quot;&gt;Esquive&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Souplesse-Du-Serpent.html&quot; title=&quot;Souplesse du serpent&quot;&gt;Souplesse du serpent&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Talent.html&quot; title=&quot;Talent&quot;&gt;talent&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;perception&lt;/a&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Acrobaties.html&quot; title=&quot;Acrobaties&quot;&gt;Acrobaties&lt;/a&gt; +12, &lt;a class=&quot;pagelink&quot; href=&quot;Artisanat.html&quot; title=&quot;Artisanat&quot;&gt;Artisanat&lt;/a&gt; (cordes) +10, &lt;a class=&quot;pagelink&quot; href=&quot;Artisanat.html&quot; title=&quot;Artisanat&quot;&gt;Artisanat&lt;/a&gt; (sculpture) +10, &lt;a class=&quot;pagelink&quot; href=&quot;Bluff.html&quot; title=&quot;Bluff&quot;&gt;Bluff&lt;/a&gt; +10, &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; +16, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +14, &lt;a class=&quot;pagelink&quot; href=&quot;Repr&#233;sentation.html&quot; title=&quot;Repr&#233;sentation&quot;&gt;Repr&#233;sentation&lt;/a&gt; (danse) +10
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Langues&lt;/b&gt; commun, sylvestre
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Particularit&#233;s&lt;/b&gt; voyage par la pierre
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; for&#234;ts temp&#233;r&#233;es
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation sociale&lt;/b&gt; solitaire, couple ou bande (3-6)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; standard (gourdin, corde, ciseaux, autres tr&#233;sors
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Capacit&#233;s sp&#233;ciales&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Poils anim&#233;s (Sur).&lt;/b&gt; Les poils d&#39;un Kored se tortillent et s’agitent sans cesse. Par une &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions.html#LIBRE&quot; title=&quot;Action libre&quot;&gt;action libre&lt;/a&gt;, un korred peut diriger ses longs poils vers les cr&#233;atures adjacentes et s&#39;en servir pour tirer sur leurs v&#234;tements ou leurs armes, chatouiller leurs pieds ou leurs bras, effleurer leur peau ou les g&#234;ner d&#39;une autre mani&#232;re similaire. Le Korred peut choisir quelles sont les cr&#233;atures adjacentes qui seront affect&#233;es. Ces cibles doivent r&#233;ussir un &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;jet de sauvegarde&quot;&gt;jet de r&#233;flexes&lt;/a&gt; de DD 16 chaque round pour ne pas &#234;tre &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables.html#Enchev&#234;tr&#233;&quot; title=&quot;Enchev&#234;tr&#233;&quot;&gt;enchev&#234;tr&#233;es&lt;/a&gt; pendant un round. Le DD d&#233;pend de la &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#DEXTERITE&quot; title=&quot;La Dext&#233;rit&#233;&quot;&gt;Dext&#233;rit&#233;&lt;/a&gt;.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Rire &#233;tourdissant (Sur).&lt;/b&gt; Par une &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions.html#SIMPLE&quot; title=&quot;Action simple&quot;&gt;action simple&lt;/a&gt; utilisable trois fois par jour, un korred peut produire un rire &#233;trange qui &#233;tourdit toutes les cr&#233;atures dans un rayon de 9 m&#232;tres (6 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) pendant 1d2 rounds (&lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;jet de sauvegarde&quot;&gt;Vigueur&lt;/a&gt; DD 14 annule). Il s&#39;agit d&#39;un effet &lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;er-Un-Sort.html#REGISTRE&quot; title=&quot;Registre&quot;&gt;mental&lt;/a&gt; et de &lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;er-Un-Sort.html#REGISTRE&quot; title=&quot;Registre&quot;&gt;son&lt;/a&gt;. Les &lt;a class=&quot;pagelink&quot; href=&quot;Type-F&#233;e.html&quot; title=&quot;F&#233;e&quot;&gt;f&#233;es&lt;/a&gt; sont immunis&#233;es contre cet effet. Le DD du jet de sauvegarde d&#233;pend du &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#CHARISME&quot; title=&quot;Le Charisme&quot;&gt;Charisme&lt;/a&gt;.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Voyage par la pierre (Sur).&lt;/b&gt; Cette capacit&#233; fonctionne comme &lt;a class=&quot;pagelink&quot; href=&quot;Voyage-Par-Les-Arbres.html&quot; title=&quot;Voyage par les arbres&quot;&gt;voyage par les arbres&lt;/a&gt;, si ce n&#39;est qu&#39;elle n&#233;cessite des rochers suffisamment grands pour accueillir le Korred et que sa port&#233;e est limit&#233;e &#224; 9 m&#232;tres (6 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;). Le korred peut utiliser cette capacit&#233; une fois par round par une &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions.html#SIMPLE&quot; title=&quot;Action simple&quot;&gt;action simple&lt;/a&gt;.
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;td&gt;&lt;div&gt; &lt;i&gt;Cet humano&#239;de rabougri  aux genoux noueux poss&#232;de une barbe tr&#232;s &#233;paisse et une large chevelure sauvage qui cache une grande partie de son corps.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Les korreds forment une ancienne race f&#233;erique qui aime les zones foresti&#232;res avec un bon sol rocailleux. Ils ont l&#39;apparence de petits humano&#239;des sauvages aux cheveux &#233;bouriff&#233;s et emm&#234;l&#233;s. Ils aiment tout particuli&#232;rement danser au sein des anciens cercles de pierre situ&#233;s dans les clairi&#232;res foresti&#232;res, souvent au son des fl&#251;tes de pan des &lt;a class=&quot;pagelink&quot; href=&quot;Satyre.html&quot; title=&quot;Satyre&quot;&gt;satyres&lt;/a&gt;. Ces cr&#233;atures timides d&#233;testent &#234;tre d&#233;couvertes par des &#233;trangers, m&#234;me lorsque la rencontre est enti&#232;rement due au hasard. Ils attaquent presque toujours les &#233;trangers qui p&#233;n&#232;trent dans leur territoire et cherchent &#224; les tuer, ou au moins &#224; les faire d&#233;guerpir.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Les korred se parent g&#233;n&#233;ralement d&#39;un simple tablier, gilet ou kilt de cuir et gardent les pieds nus et les jambes d&#233;couvertes. Leurs habits portent souvent de nombreuses poches ou pochettes o&#249; ils peuvent glisser leurs possessions. Les cheveux et la barbe d&#39;un korred poussent tr&#232;s rapidement (jusqu&#39;&#224; 2,5 cm par jour). Le Korred les coupe lorsque les tresses deviennent trop encombrantes. Il conserve les morceaux d&#233;coup&#233;s dans sa poche afin de les utiliser pour tisser des cordes sur lesquelles utiliser son pouvoir de &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Corde-Anim&#233;e.html&quot; title=&quot;Corde anim&#233;e&quot;&gt;corde anim&#233;e&lt;/a&gt;&lt;/i&gt;.
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Korred|FP 4}
+{s:pucem|Fée|Forêt-Jungle|Extraplanaire}
+{s:BDTexte|''Source : Bestiaire 2'' p.182}
+{s:BDTexte|'''PX''' 1.200}
+{s:BDTexte|[[type Fée|Fée]] de taille P, CN}
+{s:BDTexte|'''Init''' +3 ; '''Sens''' [[vision nocturne]] ; [[Perception]] +14}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 17, contact 15, pris au dépourvu 13 (Dex +3, esquive +1, naturelle +2, taille +1)}
+{s:BDTexte|'''pv''' 33 (6d6+12)}
+{s:BDTexte|'''Réf''' +8, '''Vig''' +4, '''Vol''' +7}
+{s:BDTexte|'''RD''' 5/fer froid ; '''RM''' 15 }
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 9 m (6 {s:c})}
+{s:BDTexte|'''Corps à corps''' gourdin, +8 (1d4+6)}
+{s:BDTexte|'''Distance''' rocher, +8 (1d6+4)}
+{s:BDTexte|'''Attaques spéciales''' [[lancer de rochers]] (30m), poils animés, rire étourdissant}
+{s:BDTexte|'''Pouvoirs magiques''' (NLS 6<sup>e</sup> ; concentration +7)}
+{s:BDSorts|A volonté — ''[[corde animée]]'', ''[[façonnage de la pierre]]'', ''[[fracassement]]'' (DD13)}
+{s:BDSorts|1/jour — ''[[pierres commères]]''}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 19, '''Dex''' 17, '''Con''' 14, '''Int''' 12, '''Sag''' 14, '''Cha''' 13}
+{s:BDTexte|'''BBA''' +3, '''BMO''' +6, '''DMD''' 20}
+{s:BDTexte|'''Dons''' [[Esquive]], [[Souplesse du serpent]], [[talent]] ([[perception]])}
+{s:BDTexte|'''Compétences''' [[Acrobaties]] +12, [[Artisanat]] (cordes) +10, [[Artisanat]] (sculpture) +10, [[Bluff]] +10, [[Discrétion]] +16, [[Perception]] +14, [[Représentation]] (danse) +10}
+{s:BDTexte|'''Langues''' commun, sylvestre}
+{s:BDTexte|'''Particularités''' voyage par la pierre}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' forêts tempérées}
+{s:BDTexte|'''Organisation sociale''' solitaire, couple ou bande (3-6)}
+{s:BDTexte|'''Trésor''' standard (gourdin, corde, ciseaux, autres trésors}
+{s:BDSousTitre|Capacités spéciales}
+{s:BDTexte|'''Poils animés (Sur).''' Les poils d'un Kored se tortillent et s’agitent sans cesse. Par une [[action libre]], un korred peut diriger ses longs poils vers les créatures adjacentes et s'en servir pour tirer sur leurs vêtements ou leurs armes, chatouiller leurs pieds ou leurs bras, effleurer leur peau ou les gêner d'une autre manière similaire. Le Korred peut choisir quelles sont les créatures adjacentes qui seront affectées. Ces cibles doivent réussir un [[jet de sauvegarde|jet de réflexes]] de DD 16 chaque round pour ne pas être [[enchevêtré|enchevêtrées]] pendant un round. Le DD dépend de la [[Dextérité]].}
+{s:BDTexte|'''Rire étourdissant (Sur).''' Par une [[action simple]] utilisable trois fois par jour, un korred peut produire un rire étrange qui étourdit toutes les créatures dans un rayon de 9 mètres (6 {s:c}) pendant 1d2 rounds ([[jet de sauvegarde|Vigueur]] DD 14 annule). Il s'agit d'un effet [[registre|mental]] et de [[registre|son]]. Les [[type fée|fées]] sont immunisées contre cet effet. Le DD du jet de sauvegarde dépend du [[Charisme]].}
+{s:BDTexte|'''Voyage par la pierre (Sur).''' Cette capacité fonctionne comme [[voyage par les arbres]], si ce n'est qu'elle nécessite des rochers suffisamment grands pour accueillir le Korred et que sa portée est limitée à 9 mètres (6 {s:c}). Le korred peut utiliser cette capacité une fois par round par une [[action simple]].}
+</div>
+</td><td><div> ''Cet humanoïde rabougri  aux genoux noueux possède une barbe très épaisse et une large chevelure sauvage qui cache une grande partie de son corps.''
+
+Les korreds forment une ancienne race féerique qui aime les zones forestières avec un bon sol rocailleux. Ils ont l'apparence de petits humanoïdes sauvages aux cheveux ébouriffés et emmêlés. Ils aiment tout particulièrement danser au sein des anciens cercles de pierre situés dans les clairières forestières, souvent au son des flûtes de pan des [[satyre|satyres]]. Ces créatures timides détestent être découvertes par des étrangers, même lorsque la rencontre est entièrement due au hasard. Ils attaquent presque toujours les étrangers qui pénètrent dans leur territoire et cherchent à les tuer, ou au moins à les faire déguerpir.<br>
+
+Les korred se parent généralement d'un simple tablier, gilet ou kilt de cuir et gardent les pieds nus et les jambes découvertes. Leurs habits portent souvent de nombreuses poches ou pochettes où ils peuvent glisser leurs possessions. Les cheveux et la barbe d'un korred poussent très rapidement (jusqu'à 2,5 cm par jour). Le Korred les coupe lorsque les tresses deviennent trop encombrantes. Il conserve les morceaux découpés dans sa poche afin de les utiliser pour tisser des cordes sur lesquelles utiliser son pouvoir de ''[[corde animée]]''.
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Korred</fullName>
+</wikiPage>

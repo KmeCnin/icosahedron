@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Contrôle du temps</title>
+  <categories><category>Pathfinder-RPG.Art de la Magie</category><category>Pathfinder-RPG.Mots de pouvoir</category><category>Pathfinder-RPG.Règles officielles</category></categories>
+  <lastModified>2012-09-26 15:38:08Z</lastModified>
+  <version>0</version>
+  <inLinks><link>Pathfinder-RPG.Liste des mots de pouvoirs par classe</link><link>Pathfinder-RPG.Listes des mots de pouvoirs (temporaire)</link><link>Pathfinder-RPG.Mots effets</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Transmutation</link><link>Pathfinder-RPG.Ensorceleur</link><link>Pathfinder-RPG.Magicien</link><link>Pathfinder-RPG.Volonté</link><link>Pathfinder-RPG.Présentation des sorts</link><link>Pathfinder-RPG.Choisi</link><link>Pathfinder-RPG.Action simple</link></outLinks>
+  <body><![CDATA[
+&lt;b&gt;&#201;cole&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#TRANSMUTATION&quot; title=&quot;Transmutation&quot;&gt;transmutation&lt;/a&gt; ; &lt;b&gt;Niveau&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Ensorceleur.html&quot; title=&quot;L&amp;#39;ensorceleur&quot;&gt;ensorceleur&lt;/a&gt;/&lt;a class=&quot;pagelink&quot; href=&quot;Magicien.html&quot; title=&quot;Le magicien&quot;&gt;magicien&lt;/a&gt; 9&lt;br /&gt;
+&lt;b&gt;Dur&#233;e&lt;/b&gt; instantan&#233;e&lt;br /&gt;
+&lt;b&gt;Jet de sauvegarde&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;Volont&#233;&quot;&gt;Volont&#233;&lt;/a&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#JETSDESAUVEGARDE&quot; title=&quot;Pr&#233;sentation des sorts&quot;&gt;annule&lt;/a&gt; (inoffensif) ; &lt;b&gt;R&#233;sistance &#224; la magie&lt;/b&gt; oui (inoffensif)&lt;br /&gt;
+&lt;b&gt;Restriction de cible&lt;/b&gt; &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Choisi.html&quot; title=&quot;Choisi&quot;&gt;choisi&lt;/a&gt;&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Le temps autour de la cible s’arr&#234;te et lui permet de faire 1d4 &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions.html#SIMPLE&quot; title=&quot;Action simple&quot;&gt;actions simples&lt;/a&gt; avant de reprendre son cours. Tous les objets et les cr&#233;atures sont immunis&#233;s contre la cible pendant qu’elle fait ses actions suppl&#233;mentaires. Les autres cr&#233;atures ne peuvent m&#234;me pas &#234;tre prises pour cible lorsque le temps est arr&#234;t&#233; de la sorte. Le personnage peut lancer des sorts et utiliser des objets magiques qu’il porte de mani&#232;re habituelle.
+]]></body>
+  <raw><![CDATA[{s:UM}
+'''École''' [[transmutation]] ; '''Niveau''' [[ensorceleur]]/[[magicien]] 9<br>
+'''Durée''' instantanée<br>
+'''Jet de sauvegarde''' [[Volonté]] [[Présentation des sorts#JETSDESAUVEGARDE|annule]] (inoffensif) ; '''Résistance à la magie''' oui (inoffensif)<br>
+'''Restriction de cible''' ''[[choisi]]''
+
+Le temps autour de la cible s’arrête et lui permet de faire 1d4 [[action simple|actions simples]] avant de reprendre son cours. Tous les objets et les créatures sont immunisés contre la cible pendant qu’elle fait ses actions supplémentaires. Les autres créatures ne peuvent même pas être prises pour cible lorsque le temps est arrêté de la sorte. Le personnage peut lancer des sorts et utiliser des objets magiques qu’il porte de manière habituelle.]]></raw>
+  <fullName>Pathfinder-RPG.Contrôle du temps</fullName>
+</wikiPage>

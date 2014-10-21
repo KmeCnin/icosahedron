@@ -1,0 +1,137 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Manteleur</title>
+  <categories><category>Pathfinder-RPG.Bestiaire</category><category>Pathfinder-RPG.Monstre</category><category>Pathfinder-RPG.Règles officielles</category></categories>
+  <lastModified>2013-02-07 19:46:26Z</lastModified>
+  <version>9</version>
+  <inLinks><link>Pathfinder-RPG.Glossaire des monstres</link><link>Pathfinder-RPG.Héraut des ombres (conjurateur)</link><link>Pathfinder-RPG.Liste de monstres par FP</link><link>Pathfinder-RPG.Liste de monstres par milieu naturel</link><link>Pathfinder-RPG.Liste de monstres par type</link><link>Pathfinder-RPG.Monstres</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.type Aberration</link><link>Pathfinder-RPG.vision dans le noir</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Attaques réflexes</link><link>Pathfinder-RPG.Science de linitiative</link><link>Pathfinder-RPG.Talent</link><link>Pathfinder-RPG.Connaissances</link><link>Pathfinder-RPG.Déguisement</link><link>Pathfinder-RPG.Discrétion</link><link>Pathfinder-RPG.Psychologie</link><link>Pathfinder-RPG.Vol</link><link>Pathfinder-RPG.taille</link><link>Pathfinder-RPG.Action simple</link><link>Pathfinder-RPG.lutte</link><link>Pathfinder-RPG.attaque dopportunité</link><link>Pathfinder-RPG.Agrippé</link><link>Pathfinder-RPG.jet dattaque</link><link>Pathfinder-RPG.jet de dégâts</link><link>Pathfinder-RPG.Volonté</link><link>Pathfinder-RPG.cône</link><link>Pathfinder-RPG.Vigueur</link><link>Pathfinder-RPG.Nauséeux</link><link>Pathfinder-RPG.Immobilisation de monstre</link><link>Pathfinder-RPG.Paniqué</link><link>Pathfinder-RPG.jet de sauvegarde</link><link>Pathfinder-RPG.DD</link><link>Pathfinder-RPG.Charisme</link><link>Pathfinder-RPG.Action libre</link><link>Pathfinder-RPG.Flou</link><link>Pathfinder-RPG.Image miroir</link><link>Pathfinder-RPG.Image silencieuse</link><link>Pathfinder-RPG.Skum</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Manteleur&lt;div style=&quot;float:right;&quot;&gt;FP 5&lt;/div&gt;&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Bestiaire&lt;/i&gt; p.209
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 1 600
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Aberration.html&quot; title=&quot;Aberration&quot;&gt;Aberration&lt;/a&gt; de taille G, CN
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +7 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Capacit&#233;s-Sp&#233;ciales.html#VISIONDANSLENOIR&quot; title=&quot;vision dans le noir&quot;&gt;vision dans le noir&lt;/a&gt; 18 m (12 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +14
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 19, contact 12, pris au d&#233;pourvu 16 (Dex +3, naturelle +7, taille -1)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 51 (6d8+24)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +5, &lt;b&gt;Vig&lt;/b&gt; +6, &lt;b&gt;Vol&lt;/b&gt; +7
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Capacit&#233;s d&#233;fensives&lt;/b&gt; manipulation des ombres 
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 3 m (2 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), vol 12 m (8 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) (moyenne)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; morsure +8 (1d6+5), coup de queue +3 (1d8+2)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Espace&lt;/b&gt; 3 m (2 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) ; &lt;b&gt;Allonge&lt;/b&gt; 3 m (2 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) (1,5 m (1 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) pour la morsure)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaques sp&#233;ciales&lt;/b&gt; enveloppement, g&#233;missement
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 21, &lt;b&gt;Dex&lt;/b&gt; 16, &lt;b&gt;Con&lt;/b&gt; 19, &lt;b&gt;Int&lt;/b&gt; 14, &lt;b&gt;Sag&lt;/b&gt; 15, &lt;b&gt;Cha&lt;/b&gt; 14
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +4, &lt;b&gt;BMO&lt;/b&gt; +10, &lt;b&gt;DMD&lt;/b&gt; 23 (croc-en-jambe impossible)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Attaques-R&#233;flexes.html&quot; title=&quot;Attaques r&#233;flexes&quot;&gt;Attaques r&#233;flexes&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Science-De-Linitiative.html&quot; title=&quot;Science de l&amp;#39;initiative&quot;&gt;Science de l&#39;initiative&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Talent.html&quot; title=&quot;Talent&quot;&gt;Talent&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Connaissances.html&quot; title=&quot;Connaissances&quot;&gt;Connaissances&lt;/a&gt; (religion) +11, &lt;a class=&quot;pagelink&quot; href=&quot;D&#233;guisement.html&quot; title=&quot;D&#233;guisement&quot;&gt;D&#233;guisement&lt;/a&gt; +8 (+16 en tant que manteau), &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; +8, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +14, &lt;a class=&quot;pagelink&quot; href=&quot;Psychologie.html&quot; title=&quot;Psychologie&quot;&gt;Psychologie&lt;/a&gt; +8, &lt;a class=&quot;pagelink&quot; href=&quot;Vol.html&quot; title=&quot;Vol&quot;&gt;Vol&lt;/a&gt; +10 ; &lt;b&gt;Modificateurs raciaux&lt;/b&gt; +8 en &lt;a class=&quot;pagelink&quot; href=&quot;D&#233;guisement.html&quot; title=&quot;D&#233;guisement&quot;&gt;D&#233;guisement&lt;/a&gt; pour se faire passer pour un manteau, un drap, une raie mante ou un objet/une cr&#233;ature similaire
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Langues&lt;/b&gt; commun des profondeurs
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; souterrain
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation sociale&lt;/b&gt; solitaire, couple, foule (3-6), ou vol (7-12)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; standard
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Capacit&#233;s sp&#233;ciales&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Enveloppement (Ext).&lt;/b&gt; Un manteleur peut tenter d&#39;envelopper une cr&#233;ature de &lt;a class=&quot;pagelink&quot; href=&quot;Petites-Et-Grandes-Cr&#233;atures.html#TABLEAUTAILLES&quot; title=&quot;taille&quot;&gt;taille&lt;/a&gt; inf&#233;rieure ou &#233;gale &#224; M dans son corps par une &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions.html#SIMPLE&quot; title=&quot;Action simple&quot;&gt;action simple&lt;/a&gt;. Cela fonctionne comme une manoeuvre de &lt;a class=&quot;pagelink&quot; href=&quot;Manœuvres-Offensives.html#LUTTE&quot; title=&quot;lutte&quot;&gt;lutte&lt;/a&gt; qui ne provoque pas d&#39;&lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#ATTAQUEDOPPORTUNITE&quot; title=&quot;attaque d&amp;#39;opportunit&#233;&quot;&gt;attaque d&#39;opportunit&#233;&lt;/a&gt;. Si le test r&#233;ussi, il parvient &#224; &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables.html#Agripp&#233;&quot; title=&quot;Agripp&#233;&quot;&gt;agripper&lt;/a&gt; la victime et tente de la mordre (avec un bonus de +4 au &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDATTAQUE&quot; title=&quot;jet dattaque&quot;&gt;jet d&#39;attaque&lt;/a&gt;). Le manteleur peut encore utiliser sa queue en forme de fouet pour attaquer d&#39;autres ennemis. Lorsqu&#39;une attaque touche un manteleur qui est envelopp&#233; autour d&#39;une victime, le monstre subit la moiti&#233; des d&#233;g&#226;ts et la victime prise au pi&#232;ge, l&#39;autre moiti&#233;.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;G&#233;missement (Ext).&lt;/b&gt; Par une &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions.html#SIMPLE&quot; title=&quot;Action simple&quot;&gt;action simple&lt;/a&gt;, un manteleur peut &#233;mettre un g&#233;missement d&#39;infrasons poss&#233;dant l&#39;un des quatre effets suivants :
+&lt;ul&gt;&lt;li&gt;&lt;i&gt;Malaise.&lt;/i&gt; Toutes les cr&#233;atures situ&#233;es dans un rayon de 18 m (12 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) subissent automatiquement une p&#233;nalit&#233; de -2 aux &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDATTAQUE&quot; title=&quot;jet dattaque&quot;&gt;jets d&#39;attaque&lt;/a&gt; et &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#DEGATS&quot; title=&quot;jet de d&#233;g&#226;ts&quot;&gt;de d&#233;g&#226;ts&lt;/a&gt;. Celles qui restent dans la zone pendant plus de 6 rounds cons&#233;cutifs doivent r&#233;ussir un jet de &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;Volont&#233;&quot;&gt;Volont&#233;&lt;/a&gt; pour ne pas entrer en transe et se retrouver sans d&#233;fense jusqu&#39;&#224; la fin du g&#233;missement.&lt;/li&gt;&lt;li&gt;&lt;i&gt;Naus&#233;es.&lt;/i&gt; Toutes les cr&#233;atures dans un &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#DEFCONE&quot; title=&quot;c&#244;ne&quot;&gt;c&#244;ne&lt;/a&gt; de 9 m (6 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) doivent r&#233;ussir un jet de &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;Vigueur&quot;&gt;Vigueur&lt;/a&gt; pour &#233;viter de tomber &#224; terre et d&#39;&#234;tre &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables.html#Naus&#233;eux&quot; title=&quot;Naus&#233;eux&quot;&gt;naus&#233;euses&lt;/a&gt; pendant 1d4+1 rounds.&lt;/li&gt;&lt;li&gt;&lt;i&gt;Stupeur.&lt;/i&gt; Une unique cr&#233;ature situ&#233;e &#224; 9 m (6 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) ou moins est victime d&#39;une &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Immobilisation-De-Monstre.html&quot; title=&quot;Immobilisation de monstre&quot;&gt;immobilisation de monstre&lt;/a&gt;&lt;/i&gt; pendant 5 rounds (Volont&#233;, annule).&lt;/li&gt;&lt;li&gt;&lt;i&gt;Terreur.&lt;/i&gt; Toutes les cr&#233;atures situ&#233;es dans un rayon de 9 m (6 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) doivent r&#233;ussir un jet de &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;Volont&#233;&quot;&gt;Volont&#233;&lt;/a&gt; pour ne pas &#234;tre &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables.html#Paniqu&#233;&quot; title=&quot;Paniqu&#233;&quot;&gt;paniqu&#233;es&lt;/a&gt; pendant 2 rounds.&lt;/li&gt;&lt;li&gt;Les manteleurs sont immunis&#233;s contre ces attaques mentales de sons. Les cr&#233;atures qui r&#233;ussissent leur &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;jet de sauvegarde&quot;&gt;Jet de sauvegarde&lt;/a&gt; contre le g&#233;missement de naus&#233;es, de malaise ou de terreur d&#39;un manteleur d&#233;veloppent une immunit&#233; contre les g&#233;missements de ce type produits par le m&#234;me manteleur au cours des 24 heures qui suivent. Tous les &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;jet de sauvegarde&quot;&gt;jets de sauvegarde&lt;/a&gt; ont un &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DEGREDEDIFFICULTE&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; de 15 et celui-ci d&#233;pend du &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#CHARISME&quot; title=&quot;Le Charisme&quot;&gt;Charisme&lt;/a&gt;.
+&lt;/div&gt;&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Manipulation des ombres (Sur).&lt;/b&gt; Les manteleurs qui se trouvent dans une zone de faible luminosit&#233; peuvent manipuler les ombres. Par une &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions.html#LIBRE&quot; title=&quot;Action libre&quot;&gt;action libre&lt;/a&gt;, ils peuvent cr&#233;er l&#39;un des trois effets suivants : &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Flou.html&quot; title=&quot;Flou&quot;&gt;flou&lt;/a&gt;&lt;/i&gt; (dure 1d4 rounds, uniquement sur eux-m&#234;mes), &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Image-Miroir.html&quot; title=&quot;Image miroir&quot;&gt;image miroir&lt;/a&gt;&lt;/i&gt; (NLS 6), ou &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Image-Silencieuse.html&quot; title=&quot;Image silencieuse&quot;&gt;image silencieuse&lt;/a&gt;&lt;/i&gt; (DD 15, NLS 6, DD d&#233;pendant du &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#CHARISME&quot; title=&quot;Le Charisme&quot;&gt;Charisme&lt;/a&gt;).
+&lt;/div&gt;&lt;br /&gt;&lt;/div&gt;&lt;br /&gt;&lt;/td&gt;&lt;td&gt;&lt;div&gt;&lt;i&gt;Cette raie manta monstrueuse aux yeux rouges d&#233;voile des dents ac&#233;r&#233;es. Sa queue segment&#233;e fouette l’air de mani&#232;re mena&#231;ante.&lt;/i&gt;&lt;br /&gt;&lt;/li&gt;&lt;/ul&gt;&lt;br /&gt;Les manteleurs sont des cr&#233;atures myst&#233;rieuses et parano&#239;aques qui ressemblent &#224; des raies mantas volantes monstrueuses et mal&#233;fiques. Les sp&#233;cimens moyens ont une envergure de 2,40 m&#232;tres et p&#232;sent 50 kg.&lt;br /&gt;&lt;br /&gt;Les manteleurs gardent le secret sur les motivations incompr&#233;hensibles qui les animent. Ils semblent m&#234;me se m&#233;fier
+des autres individus de leur esp&#232;ce. Leur forme &#233;trange leur permet de passer pour des manteaux, des tapisseries ou d’autres objets communs. &lt;br /&gt;&lt;br /&gt;Certaines histoires parlent de manteleurs qui se seraient alli&#233;s avec d’autres cr&#233;atures, se seraient accroch&#233;s &#224; leur dos et les auraient prot&#233;g&#233;es pour des raisons myst&#233;rieuses.&lt;br /&gt;&lt;br /&gt;Quelques rares manteleurs sont des pr&#234;tres de divinit&#233;s tr&#232;s anciennes qui dirigent des assembl&#233;es de manteleurs et de &lt;a class=&quot;pagelink&quot; href=&quot;Skum.html&quot; title=&quot;Skum (ulat-kini)&quot;&gt;skums&lt;/a&gt; qu’ils poussent &#224; accomplir d’horribles rituels et &#224; poursuivre des buts particuli&#232;rement sinistres.
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Manteleur|FP 5}
+{s:pucem|Aberration|Souterrain|Tempéré}
+{s:BDTexte|''Source : Bestiaire'' p.209}
+{s:BDTexte|'''PX''' 1 600}
+{s:BDTexte|[[type Aberration|Aberration]] de taille G, CN}
+{s:BDTexte|'''Init''' +7 ; '''Sens''' [[vision dans le noir]] 18 m (12 {s:c}) ; [[Perception]] +14}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 19, contact 12, pris au dépourvu 16 (Dex +3, naturelle +7, taille -1)}
+{s:BDTexte|'''pv''' 51 (6d8+24)}
+{s:BDTexte|'''Réf''' +5, '''Vig''' +6, '''Vol''' +7}
+{s:BDTexte|'''Capacités défensives''' manipulation des ombres }
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 3 m (2 {s:c}), vol 12 m (8 {s:c}) (moyenne)}
+{s:BDTexte|'''Corps à corps''' morsure +8 (1d6+5), coup de queue +3 (1d8+2)}
+{s:BDTexte|'''Espace''' 3 m (2 {s:c}) ; '''Allonge''' 3 m (2 {s:c}) (1,5 m (1 {s:c}) pour la morsure)}
+{s:BDTexte|'''Attaques spéciales''' enveloppement, gémissement}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 21, '''Dex''' 16, '''Con''' 19, '''Int''' 14, '''Sag''' 15, '''Cha''' 14}
+{s:BDTexte|'''BBA''' +4, '''BMO''' +10, '''DMD''' 23 (croc-en-jambe impossible)}
+{s:BDTexte|'''Dons''' [[Attaques réflexes]], [[Science de linitiative|Science de l'initiative]], [[Talent]] ([[Perception]])}
+{s:BDTexte|'''Compétences''' [[Connaissances]] (religion) +11, [[Déguisement]] +8 (+16 en tant que manteau), [[Discrétion]] +8, [[Perception]] +14, [[Psychologie]] +8, [[Vol]] +10 ; '''Modificateurs raciaux''' +8 en [[Déguisement]] pour se faire passer pour un manteau, un drap, une raie mante ou un objet/une créature similaire}
+{s:BDTexte|'''Langues''' commun des profondeurs}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' souterrain}
+{s:BDTexte|'''Organisation sociale''' solitaire, couple, foule (3-6), ou vol (7-12)}
+{s:BDTexte|'''Trésor''' standard}
+{s:BDSousTitre|Capacités spéciales}
+{s:BDTexte|'''Enveloppement (Ext).''' Un manteleur peut tenter d'envelopper une créature de [[taille]] inférieure ou égale à M dans son corps par une [[action simple]]. Cela fonctionne comme une manoeuvre de [[lutte]] qui ne provoque pas d'[[attaque dopportunité|attaque d'opportunité]]. Si le test réussi, il parvient à [[agrippé|agripper]] la victime et tente de la mordre (avec un bonus de +4 au [[jet dattaque|jet d'attaque]]). Le manteleur peut encore utiliser sa queue en forme de fouet pour attaquer d'autres ennemis. Lorsqu'une attaque touche un manteleur qui est enveloppé autour d'une victime, le monstre subit la moitié des dégâts et la victime prise au piège, l'autre moitié.}
+{s:BDTexte|'''Gémissement (Ext).''' Par une [[action simple]], un manteleur peut émettre un gémissement d'infrasons possédant l'un des quatre effets suivants :
+*''Malaise.'' Toutes les créatures situées dans un rayon de 18 m (12 {s:c}) subissent automatiquement une pénalité de -2 aux [[jet dattaque|jets d'attaque]] et [[jet de dégâts|de dégâts]]. Celles qui restent dans la zone pendant plus de 6 rounds consécutifs doivent réussir un jet de [[Volonté]] pour ne pas entrer en transe et se retrouver sans défense jusqu'à la fin du gémissement.
+*''Nausées.'' Toutes les créatures dans un [[cône]] de 9 m (6 {s:c}) doivent réussir un jet de [[Vigueur]] pour éviter de tomber à terre et d'être [[nauséeux|nauséeuses]] pendant 1d4+1 rounds.
+*''Stupeur.'' Une unique créature située à 9 m (6 {s:c}) ou moins est victime d'une ''[[immobilisation de monstre]]'' pendant 5 rounds (Volonté, annule).
+*''Terreur.'' Toutes les créatures situées dans un rayon de 9 m (6 {s:c}) doivent réussir un jet de [[Volonté]] pour ne pas être [[paniqué|paniquées]] pendant 2 rounds.
+* Les manteleurs sont immunisés contre ces attaques mentales de sons. Les créatures qui réussissent leur [[Jet de sauvegarde]] contre le gémissement de nausées, de malaise ou de terreur d'un manteleur développent une immunité contre les gémissements de ce type produits par le même manteleur au cours des 24 heures qui suivent. Tous les [[jet de sauvegarde|jets de sauvegarde]] ont un [[DD]] de 15 et celui-ci dépend du [[Charisme]].}{s:BDTexte|'''Manipulation des ombres (Sur).''' Les manteleurs qui se trouvent dans une zone de faible luminosité peuvent manipuler les ombres. Par une [[action libre]], ils peuvent créer l'un des trois effets suivants : ''[[flou]]'' (dure 1d4 rounds, uniquement sur eux-mêmes), ''[[image miroir]]'' (NLS 6), ou ''[[image silencieuse]]'' (DD 15, NLS 6, DD dépendant du [[Charisme]]).}
+</div>
+</td><td><div>''Cette raie manta monstrueuse aux yeux rouges dévoile des dents acérées. Sa queue segmentée fouette l’air de manière menaçante.''
+
+Les manteleurs sont des créatures mystérieuses et paranoïaques qui ressemblent à des raies mantas volantes monstrueuses et maléfiques. Les spécimens moyens ont une envergure de 2,40 mètres et pèsent 50 kg.
+
+Les manteleurs gardent le secret sur les motivations incompréhensibles qui les animent. Ils semblent même se méfier
+des autres individus de leur espèce. Leur forme étrange leur permet de passer pour des manteaux, des tapisseries ou d’autres objets communs. 
+
+Certaines histoires parlent de manteleurs qui se seraient alliés avec d’autres créatures, se seraient accrochés à leur dos et les auraient protégées pour des raisons mystérieuses.
+
+Quelques rares manteleurs sont des prêtres de divinités très anciennes qui dirigent des assemblées de manteleurs et de [[Skum|skums]] qu’ils poussent à accomplir d’horribles rituels et à poursuivre des buts particulièrement sinistres.
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Manteleur</fullName>
+</wikiPage>

@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Contact mutagène</title>
+  <categories><category>Pathfinder-RPG.Art de la guerre</category><category>Pathfinder-RPG.Règles officielles</category><category>Pathfinder-RPG.Sort</category><category>Pathfinder-RPG.Sort alchimiste 4</category></categories>
+  <lastModified>2012-07-02 00:14:19Z</lastModified>
+  <version>2</version>
+  <inLinks><link>Pathfinder-RPG.Glossaire des sorts</link><link>Pathfinder-RPG.Liste des formules dalchimiste</link><link>Pathfinder-RPG.Liste des sorts</link><link>Pathfinder-RPG.Listes de sorts par classe</link><link>Pathfinder-RPG.Sorts temporaires-AdG</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Transmutation</link><link>Pathfinder-RPG.Alchimiste</link><link>Pathfinder-RPG.Action simple</link><link>Pathfinder-RPG.composantes</link><link>Pathfinder-RPG.Confus</link><link>Pathfinder-RPG.découvertes</link></outLinks>
+  <body><![CDATA[
+&lt;b&gt;&#201;cole&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#TRANSMUTATION&quot; title=&quot;Transmutation&quot;&gt;transmutation&lt;/a&gt; ; &lt;b&gt;Niveau&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Alchimiste.html&quot; title=&quot;L&amp;#39;alchimiste&quot;&gt;alchimiste&lt;/a&gt; 4&lt;/br&gt;
+&lt;b&gt;Temps d’incantation&lt;/b&gt; 1 &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions.html#SIMPLE&quot; title=&quot;Action simple&quot;&gt;action simple&lt;/a&gt;&lt;/br&gt;
+&lt;b&gt;Composantes&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#COMPOSANTES&quot; title=&quot;composantes&quot;&gt;V, G, F&lt;/a&gt; (un ongle entier)&lt;/br&gt;
+&lt;b&gt;Port&#233;e&lt;/b&gt; contact&lt;/br&gt;
+&lt;b&gt;Cible&lt;/b&gt; cr&#233;ature touch&#233;e&lt;/br&gt;
+&lt;b&gt;Dur&#233;e&lt;/b&gt; sp&#233;ciale (voir plus bas)&lt;/br&gt;
+&lt;b&gt;Jet de sauvegarde&lt;/b&gt; Volont&#233; pour annuler (inoffensif) ; &lt;b&gt;R&#233;sistance &#224; la magie&lt;/b&gt; oui (inoffensif)&lt;br /&gt;&lt;br /&gt;Quand le lanceur de sorts se trouve sous l’effet de son &lt;a class=&quot;pagelink&quot; href=&quot;Alchimiste.html#MUTAGENES&quot; title=&quot;L&amp;#39;alchimiste&quot;&gt;mutag&#232;ne&lt;/a&gt;, il peut lancer ce sort sur lui pour en faire b&#233;n&#233;ficier un tiers d’un simple contact. Le personnage doit r&#233;ussir une attaque de contact sur la cible. S’il touche, l’effet du mutag&#232;ne se transmet &#224; la cible, mais sous une forme affaiblie. L’effet du mutag&#232;ne se termine pour le personnage et affecte la nouvelle cible qui b&#233;n&#233;ficie seulement de la moiti&#233; du bonus alchimique aux caract&#233;ristiques physiques (que le personnage a choisies au moment d’absorber le mutag&#232;ne) et elle subit des malus doubl&#233;s aux valeurs de caract&#233;ristique mentales correspondantes. Si une valeur de caract&#233;ristique mentale de la cible tombe en dessous de 3, la cible est &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables.html#Confus&quot; title=&quot;Confus&quot;&gt;confuse&lt;/a&gt; pendant toute la dur&#233;e d’effet du mutag&#232;ne (jusqu’&#224; ce que sa dur&#233;e arrive &#224; expiration). On peut mettre un terme aux effets du mutag&#232;ne un peu plus t&#244;t si la cible boit un antidote ou si quelqu’un lui en fait boire un mais l’antidote a seulement 50% de chances de succ&#232;s.&lt;/br&gt;
+Le personnage peut utiliser ce sort sur un mutag&#232;ne avec la &lt;a class=&quot;pagelink&quot; href=&quot;D&#233;couvertes.html&quot; title=&quot;Les d&#233;couvertes d&amp;#39;alchimistes&quot;&gt;d&#233;couverte&lt;/a&gt; grand mutag&#232;ne ou mutag&#232;ne sup&#233;rieur. Dans ce cas, le personnage transmet automatiquement la moiti&#233; de son bonus alchimique aux caract&#233;ristiques physiques et le double du malus aux caract&#233;ristiques mentales.
+]]></body>
+  <raw><![CDATA[{s:UC}
+'''École''' [[transmutation]] ; '''Niveau''' [[alchimiste]] 4</br>
+'''Temps d’incantation''' 1 [[action simple]]</br>
+'''Composantes''' [[Composantes|V, G, F]] (un ongle entier)</br>
+'''Portée''' contact</br>
+'''Cible''' créature touchée</br>
+'''Durée''' spéciale (voir plus bas)</br>
+'''Jet de sauvegarde''' Volonté pour annuler (inoffensif) ; '''Résistance à la magie''' oui (inoffensif)
+
+Quand le lanceur de sorts se trouve sous l’effet de son [[Alchimiste#MUTAGENES|mutagène]], il peut lancer ce sort sur lui pour en faire bénéficier un tiers d’un simple contact. Le personnage doit réussir une attaque de contact sur la cible. S’il touche, l’effet du mutagène se transmet à la cible, mais sous une forme affaiblie. L’effet du mutagène se termine pour le personnage et affecte la nouvelle cible qui bénéficie seulement de la moitié du bonus alchimique aux caractéristiques physiques (que le personnage a choisies au moment d’absorber le mutagène) et elle subit des malus doublés aux valeurs de caractéristique mentales correspondantes. Si une valeur de caractéristique mentale de la cible tombe en dessous de 3, la cible est [[confus|confuse]] pendant toute la durée d’effet du mutagène (jusqu’à ce que sa durée arrive à expiration). On peut mettre un terme aux effets du mutagène un peu plus tôt si la cible boit un antidote ou si quelqu’un lui en fait boire un mais l’antidote a seulement 50% de chances de succès.</br>
+Le personnage peut utiliser ce sort sur un mutagène avec la [[découvertes|découverte]] grand mutagène ou mutagène supérieur. Dans ce cas, le personnage transmet automatiquement la moitié de son bonus alchimique aux caractéristiques physiques et le double du malus aux caractéristiques mentales.]]></raw>
+  <fullName>Pathfinder-RPG.Contact mutagène</fullName>
+</wikiPage>

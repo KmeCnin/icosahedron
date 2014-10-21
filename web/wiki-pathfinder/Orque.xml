@@ -1,0 +1,186 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Orque</title>
+  <categories><category>Pathfinder-RPG.Bestiaire</category><category>Pathfinder-RPG.Monstre</category><category>Pathfinder-RPG.Règles officielles</category></categories>
+  <lastModified>2013-02-07 18:59:10Z</lastModified>
+  <version>9</version>
+  <inLinks><link>Pathfinder-RPG.Blessures et vitalité</link><link>Pathfinder-RPG.Boyaux dacier</link><link>Pathfinder-RPG.Cartes fantasmagoriques</link><link>Pathfinder-RPG.Combattre au-delà de la mort</link><link>Pathfinder-RPG.Demi-orque</link><link>Pathfinder-RPG.dons raciaux</link><link>Pathfinder-RPG.dons-temporaires</link><link>Pathfinder-RPG.Efforts coordonnés</link><link>Pathfinder-RPG.Ettin</link><link>Pathfinder-RPG.Flèche mortelle</link><link>Pathfinder-RPG.Géant des collines</link><link>Pathfinder-RPG.Géant des grottes</link><link>Pathfinder-RPG.Girallon</link><link>Pathfinder-RPG.Glossaire des monstres</link><link>Pathfinder-RPG.Initié du refus de mourir</link><link>Pathfinder-RPG.Initié du refus de mourir (alternatif)</link><link>Pathfinder-RPG.Linguistique</link><link>Pathfinder-RPG.Liste de monstres par FP</link><link>Pathfinder-RPG.Liste de monstres par milieu naturel</link><link>Pathfinder-RPG.Liste de monstres par type</link><link>Pathfinder-RPG.Maître du refus de mourir</link><link>Pathfinder-RPG.Maître du refus de mourir (alternatif)</link><link>Pathfinder-RPG.Monstres</link><link>Pathfinder-RPG.Nain</link><link>Pathfinder-RPG.Odorat supérieur</link><link>Pathfinder-RPG.page de travail des dons</link><link>Pathfinder-RPG.Peau de fer</link><link>Pathfinder-RPG.Perception de la peur</link><link>Pathfinder-RPG.Réincarnation</link><link>Pathfinder-RPG.Robe de mimétisme</link><link>Pathfinder-RPG.Rôdeur infiltré (rôdeur)</link><link>Pathfinder-RPG.Tableau récapitulatif des dons</link><link>Pathfinder-RPG.tableau récapitulatif des dons (art de la guerre)</link><link>Pathfinder-RPG.Zélote du refus de mourir</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Homme darme</link><link>Pathfinder-RPG.type Humanoïde</link><link>Pathfinder-RPG.vision dans le noir</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Arme de prédilection</link><link>Pathfinder-RPG.Intimidation</link><link>Pathfinder-RPG.Férocité (capacité)</link><link>Pathfinder-RPG.Sensibilité à la lumière</link><link>Pathfinder-RPG.Intelligence</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Orque&lt;div style=&quot;float:right;&quot;&gt;FP 1/3&lt;/div&gt;&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Bestiaire&lt;/i&gt; p.233
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 135
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+Orque, &lt;a class=&quot;pagelink&quot; href=&quot;Homme-Darme.html&quot; title=&quot;L&amp;#39;homme d&amp;#39;arme&quot;&gt;homme d&#39;arme&lt;/a&gt; 1
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Humano&#239;de.html&quot; title=&quot;Humano&#239;de&quot;&gt;Humano&#239;de&lt;/a&gt; de taille M, CM
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +0 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Capacit&#233;s-Sp&#233;ciales.html#VISIONDANSLENOIR&quot; title=&quot;vision dans le noir&quot;&gt;vision dans le noir&lt;/a&gt; 18 m (12 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; -1
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 13, contact 10, pris au d&#233;pourvu 13 (armure +3)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 6 (1d10+1)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +0, &lt;b&gt;Vig&lt;/b&gt; +3, &lt;b&gt;Vol&lt;/b&gt; -1
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Capacit&#233;s d&#233;fensives&lt;/b&gt; f&#233;rocit&#233;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Faiblesses&lt;/b&gt; sensibilit&#233; &#224; la lumi&#232;re
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 9 m (6 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; cimeterre &#224; deux mains, +5 (2d4+4/18-20)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Distance&lt;/b&gt; javeline, +1 (1d6+3)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 17, &lt;b&gt;Dex&lt;/b&gt; 11, &lt;b&gt;Con&lt;/b&gt; 12, &lt;b&gt;Int&lt;/b&gt; 7, &lt;b&gt;Sag&lt;/b&gt; 8, &lt;b&gt;Cha&lt;/b&gt; 6
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +1, &lt;b&gt;BMO&lt;/b&gt; +4, &lt;b&gt;DMD&lt;/b&gt; 14
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Arme-De-Pr&#233;dilection.html&quot; title=&quot;Arme de pr&#233;dilection&quot;&gt;Arme de pr&#233;dilection&lt;/a&gt; (cimeterre &#224; deux mains)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Intimidation.html&quot; title=&quot;Intimidation&quot;&gt;Intimidation&lt;/a&gt; +2
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Langues&lt;/b&gt; commun, orque
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Particularit&#233;s&lt;/b&gt; Armes famili&#232;res
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Langues&lt;/b&gt; commun, orque
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; collines, montagnes ou souterrain, climat temp&#233;r&#233;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation sociale&lt;/b&gt; solitaire, bande (2-4), escouade (11-20 et 2 sergents de niveau 3 et 1 chef de niveau 3-6) ou tribu (30-100 et 150% de non-combattants plus 1 sergent de niveau 3 par 10 adultes, 1 lieutenant de niveau 5 par 20 adultes et 1 chef de niveau 7 par 30 adultes)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; &#233;quipement de PNJ (armure de cuir clout&#233;, cimeterre &#224; deux mains, 4 javelines, autres tr&#233;sors)
+&lt;/div&gt;
+&lt;/td&gt;&lt;td&gt;&lt;div&gt;&lt;i&gt;Cette cr&#233;ature sauvage ressemble &#224; un humain en plus bestial, avec une
+peau entre le vert et le gris et des cheveux noirs et graisseux.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Plusieurs caract&#233;ristiques diff&#233;rencient les orques des humano&#239;des
+civilis&#233;s : leur force sauvage, leur intelligence relativement peu
+d&#233;velopp&#233;e et leur attitude. Baign&#233;s dans une culture o&#249; les plus
+forts dominent les autres par la peur et la violence, les orques sont
+naturellement brutaux et agressifs. Ils s’emparent de ce qu’ils
+d&#233;sirent par la force et n’h&#233;sitent pas &#224; massacrer ou &#224; r&#233;duire en
+esclavage des villages entiers si cela leur est possible. Ils ne perdent
+pas leur temps avec les convenances ou en d&#233;tails et leurs
+camps et villages sont g&#233;n&#233;ralement des endroits crasseux
+et pouilleux o&#249; les bagarres entre individus ivres, les fosses
+de combat et les divertissements similaires sont monnaie
+courante. Comme ils n’ont pas la patience n&#233;cessaire &#224; la
+culture de la terre ni les capacit&#233;s requises pour &#233;lever
+du b&#233;tail (&#224; l’exception des animaux tr&#232;s robustes qui ne
+demandent pratiquement pas d’attention), ils trouvent
+qu’il leur est plus facile de s’emparer de ce que quelqu’un
+d’autre a cr&#233;&#233; que de fabriquer les choses eux-m&#234;mes.
+Ce sont des cr&#233;atures arrogantes qui se mettent
+rapidement en col&#232;re lorsqu’on les contrarie mais ne se soucient
+d’honneur que si cela peut &#234;tre &#224; leur avantage.&lt;br /&gt;&lt;br /&gt;Un m&#226;le adulte mesure &#224; peu pr&#232;s 1,80 m&#232;tres de hauteur et p&#232;se
+105 kg. Les orques et les humains s’accouplent fr&#233;quemment, mais
+il s’agit presque toujours d’unions non consenties, apr&#232;s un pillage
+ou un enl&#232;vement d’esclaves. De nombreuses tribus d’orques
+procr&#233;ent volontairement des demi-orques et les &#233;l&#232;vent comme
+des membres &#224; part enti&#232;re, car ces descendants d’intelligence
+sup&#233;rieure font d’excellents strat&#232;ges et de bons chefs de tribus.&lt;br /&gt;&lt;br /&gt;&lt;h3 class=&quot;separator&quot;&gt;Les orques en tant que PJ&lt;a class=&quot;headeranchor&quot; id=&quot;Les_orques_en_tant_que_PJ_0&quot; href=&quot;#Les_orques_en_tant_que_PJ_0&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;Les orques ne poss&#232;dent pas de d&#233;s de vie raciaux et progressent en acqu&#233;rant des niveaux de classes. Leurs traits raciaux sont les suivants.
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;+4 Force, -2 Intelligence, -2 Sagesse, -2 Charisme.&lt;/b&gt; Les orques sont brutaux et sauvages.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Apprentissage martial.&lt;/b&gt; Les orques sont automatiquement form&#233;s au maniement des grandes haches et des cimeterres &#224; deux mains. Ils traitent toutes les armes dont le nom comporte le mot &quot;orque&quot; comme des armes de guerre.&lt;/li&gt;&lt;li&gt;&lt;b&gt;F&#233;rocit&#233;.&lt;/b&gt; Voir la section &lt;a class=&quot;pagelink&quot; href=&quot;F&#233;rocit&#233;-(Capacit&#233;).html&quot; title=&quot;F&#233;rocit&#233; (Ext)&quot;&gt;f&#233;rocit&#233;&lt;/a&gt;.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Sensibilit&#233; &#224; la lumi&#232;re.&lt;/b&gt; Voir la section &lt;a class=&quot;pagelink&quot; href=&quot;Sensibilit&#233;-&#192;-La-Lumi&#232;re-(Capacit&#233;).html&quot; title=&quot;Sensibilit&#233; &#224; la lumi&#232;re&quot;&gt;Sensibilit&#233; &#224; la lumi&#232;re&lt;/a&gt;.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Vision dans le noir.&lt;/b&gt; Les orques voient dans le noir jusqu&#39;&#224; 18 m (12 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;).&lt;/li&gt;&lt;li&gt;&lt;b&gt;Langues.&lt;/b&gt; Les orques parlent automatiquement le commun et l&#39;orque. S&#39;ils disposent d&#39;une &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#INTELLIGENCE&quot; title=&quot;L&amp;#39;Intelligence&quot;&gt;Intelligence&lt;/a&gt; &#233;lev&#233;e, ils peuvent choisir des langues suppl&#233;mentaires parmi les suivantes : commun des profondeurs, g&#233;ant, gnoll, gobelin, nain.&lt;br /&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;br /&gt;&lt;/li&gt;&lt;/ul&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Orque|FP 1/3}
+{s:pucem|Humanoïde|Collines|Tempéré}
+{s:BDTexte|''Source : Bestiaire'' p.233}
+{s:BDTexte|'''PX''' 135}
+{s:BDTexte|Orque, [[homme darme|homme d'arme]] 1}
+{s:BDTexte|[[type Humanoïde|Humanoïde]] de taille M, CM}
+{s:BDTexte|'''Init''' +0 ; '''Sens''' [[vision dans le noir]] 18 m (12 {s:c}) ; [[Perception]] -1}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 13, contact 10, pris au dépourvu 13 (armure +3)}
+{s:BDTexte|'''pv''' 6 (1d10+1)}
+{s:BDTexte|'''Réf''' +0, '''Vig''' +3, '''Vol''' -1}
+{s:BDTexte|'''Capacités défensives''' férocité}
+{s:BDTexte|'''Faiblesses''' sensibilité à la lumière}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 9 m (6 {s:c})}
+{s:BDTexte|'''Corps à corps''' cimeterre à deux mains, +5 (2d4+4/18-20)}
+{s:BDTexte|'''Distance''' javeline, +1 (1d6+3)}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 17, '''Dex''' 11, '''Con''' 12, '''Int''' 7, '''Sag''' 8, '''Cha''' 6}
+{s:BDTexte|'''BBA''' +1, '''BMO''' +4, '''DMD''' 14}
+{s:BDTexte|'''Dons''' [[Arme de prédilection]] (cimeterre à deux mains)}
+{s:BDTexte|'''Compétences''' [[Intimidation]] +2}
+{s:BDTexte|'''Langues''' commun, orque}
+{s:BDTexte|'''Particularités''' Armes familières}
+{s:BDTExte|'''Langues''' commun, orque}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' collines, montagnes ou souterrain, climat tempéré}
+{s:BDTexte|'''Organisation sociale''' solitaire, bande (2-4), escouade (11-20 et 2 sergents de niveau 3 et 1 chef de niveau 3-6) ou tribu (30-100 et 150% de non-combattants plus 1 sergent de niveau 3 par 10 adultes, 1 lieutenant de niveau 5 par 20 adultes et 1 chef de niveau 7 par 30 adultes)}
+{s:BDTexte|'''Trésor''' équipement de PNJ (armure de cuir clouté, cimeterre à deux mains, 4 javelines, autres trésors)}
+</td><td><div>''Cette créature sauvage ressemble à un humain en plus bestial, avec une
+peau entre le vert et le gris et des cheveux noirs et graisseux.''
+
+Plusieurs caractéristiques différencient les orques des humanoïdes
+civilisés : leur force sauvage, leur intelligence relativement peu
+développée et leur attitude. Baignés dans une culture où les plus
+forts dominent les autres par la peur et la violence, les orques sont
+naturellement brutaux et agressifs. Ils s’emparent de ce qu’ils
+désirent par la force et n’hésitent pas à massacrer ou à réduire en
+esclavage des villages entiers si cela leur est possible. Ils ne perdent
+pas leur temps avec les convenances ou en détails et leurs
+camps et villages sont généralement des endroits crasseux
+et pouilleux où les bagarres entre individus ivres, les fosses
+de combat et les divertissements similaires sont monnaie
+courante. Comme ils n’ont pas la patience nécessaire à la
+culture de la terre ni les capacités requises pour élever
+du bétail (à l’exception des animaux très robustes qui ne
+demandent pratiquement pas d’attention), ils trouvent
+qu’il leur est plus facile de s’emparer de ce que quelqu’un
+d’autre a créé que de fabriquer les choses eux-mêmes.
+Ce sont des créatures arrogantes qui se mettent
+rapidement en colère lorsqu’on les contrarie mais ne se soucient
+d’honneur que si cela peut être à leur avantage.
+
+Un mâle adulte mesure à peu près 1,80 mètres de hauteur et pèse
+105 kg. Les orques et les humains s’accouplent fréquemment, mais
+il s’agit presque toujours d’unions non consenties, après un pillage
+ou un enlèvement d’esclaves. De nombreuses tribus d’orques
+procréent volontairement des demi-orques et les élèvent comme
+des membres à part entière, car ces descendants d’intelligence
+supérieure font d’excellents stratèges et de bons chefs de tribus.
+
+====Les orques en tant que PJ====
+Les orques ne possèdent pas de dés de vie raciaux et progressent en acquérant des niveaux de classes. Leurs traits raciaux sont les suivants.
+* '''+4 Force, -2 Intelligence, -2 Sagesse, -2 Charisme.''' Les orques sont brutaux et sauvages.
+* '''Apprentissage martial.''' Les orques sont automatiquement formés au maniement des grandes haches et des cimeterres à deux mains. Ils traitent toutes les armes dont le nom comporte le mot "orque" comme des armes de guerre.
+* '''Férocité.''' Voir la section [[Férocité (capacité)|férocité]].
+* '''Sensibilité à la lumière.''' Voir la section [[Sensibilité à la lumière]].
+* '''Vision dans le noir.''' Les orques voient dans le noir jusqu'à 18 m (12 {s:c}).
+* '''Langues.''' Les orques parlent automatiquement le commun et l'orque. S'ils disposent d'une [[Intelligence]] élevée, ils peuvent choisir des langues supplémentaires parmi les suivantes : commun des profondeurs, géant, gnoll, gobelin, nain.
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Orque</fullName>
+</wikiPage>

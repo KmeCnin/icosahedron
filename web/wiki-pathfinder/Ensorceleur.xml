@@ -1,0 +1,709 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>L'ensorceleur</title>
+  <categories><category>Pathfinder-RPG.Classe</category></categories>
+  <lastModified>2013-11-18 20:00:43Z</lastModified>
+  <version>9</version>
+  <inLinks><link>Pathfinder-RPG.Aasimar (race)</link><link>Pathfinder-RPG.Abondance de munitions</link><link>Pathfinder-RPG.Abri de toile</link><link>Pathfinder-RPG.Absorption de toxine</link><link>Pathfinder-RPG.Accélération</link><link>Pathfinder-RPG.Accélération du poison</link><link>Pathfinder-RPG.accorder une intuition</link><link>Pathfinder-RPG.Actions complexes</link><link>Pathfinder-RPG.Adaptation planaire</link><link>Pathfinder-RPG.Adaptation planaire de groupe</link><link>Pathfinder-RPG.Adoration</link><link>Pathfinder-RPG.Affûtage</link><link>Pathfinder-RPG.Agonie</link><link>Pathfinder-RPG.Agrandissement</link><link>Pathfinder-RPG.Agrandissement de groupe</link><link>Pathfinder-RPG.Alarme</link><link>Pathfinder-RPG.Aliénation mentale</link><link>Pathfinder-RPG.Allié compatissant</link><link>Pathfinder-RPG.Altération vocale</link><link>Pathfinder-RPG.Amitié</link><link>Pathfinder-RPG.Analyse denchantement</link><link>Pathfinder-RPG.Anatomie morte-vivante I</link><link>Pathfinder-RPG.Anatomie morte-vivante II</link><link>Pathfinder-RPG.Anatomie morte-vivante III</link><link>Pathfinder-RPG.Anatomie morte-vivante IV</link><link>Pathfinder-RPG.Ancre dimensionnelle</link><link>Pathfinder-RPG.Animal anthropomorphe</link><link>Pathfinder-RPG.Animation des morts</link><link>Pathfinder-RPG.Animation des morts mineure</link><link>Pathfinder-RPG.Animation suspendue</link><link>Pathfinder-RPG.Annihilation de mort-vivant</link><link>Pathfinder-RPG.Annulation denchantement</link><link>Pathfinder-RPG.Anticipation du danger</link><link>Pathfinder-RPG.Antidétection</link><link>Pathfinder-RPG.Antidétection (partagé)</link><link>Pathfinder-RPG.Apaisement de créatures artificielles</link><link>Pathfinder-RPG.Appel de créature artificielle</link><link>Pathfinder-RPG.Appel des pierres</link><link>Pathfinder-RPG.Apprentissage par le sang</link><link>Pathfinder-RPG.Aranéa</link><link>Pathfinder-RPG.Arc de gravité</link><link>Pathfinder-RPG.Arc électrique</link><link>Pathfinder-RPG.Arc électrique (mot de pouvoir)</link><link>Pathfinder-RPG.Argent et richesse</link><link>Pathfinder-RPG.Arme boomerang</link><link>Pathfinder-RPG.Arme boomerang (partagé)</link><link>Pathfinder-RPG.arme dombre</link><link>Pathfinder-RPG.Arme infaillible</link><link>Pathfinder-RPG.Arme magique</link><link>Pathfinder-RPG.Arme magique suprême</link><link>Pathfinder-RPG.Arme polyvalente</link><link>Pathfinder-RPG.Arme protectrice</link><link>Pathfinder-RPG.Armes magiques</link><link>Pathfinder-RPG.Armure de force</link><link>Pathfinder-RPG.Armure de mage</link><link>Pathfinder-RPG.Arrêt du temps</link><link>Pathfinder-RPG.Aspect animal</link><link>Pathfinder-RPG.Aspect animal supérieur</link><link>Pathfinder-RPG.Aspect de fée hantée</link><link>Pathfinder-RPG.Aspect terrifiant</link><link>Pathfinder-RPG.Aspersion acide</link><link>Pathfinder-RPG.Assassin imaginaire</link><link>Pathfinder-RPG.Assemblage par télékinésie</link><link>Pathfinder-RPG.Assistant de chargement</link><link>Pathfinder-RPG.Attirance</link><link>Pathfinder-RPG.Au-delà du niveau 20</link><link>Pathfinder-RPG.Aura élémentaire</link><link>Pathfinder-RPG.Aura magique</link><link>Pathfinder-RPG.Avancée assurée</link><link>Pathfinder-RPG.Aversion</link><link>Pathfinder-RPG.Aveugler</link><link>Pathfinder-RPG.Baiser de la goule</link><link>Pathfinder-RPG.Baiser du vampire</link><link>Pathfinder-RPG.Balle dédiée</link><link>Pathfinder-RPG.Balle dédiée supérieure</link><link>Pathfinder-RPG.Bandes de protection</link><link>Pathfinder-RPG.Bannissement</link><link>Pathfinder-RPG.Barrière protectrice</link><link>Pathfinder-RPG.Biographie du sang</link><link>Pathfinder-RPG.Blizzard</link><link>Pathfinder-RPG.Blocage de force</link><link>Pathfinder-RPG.Bond dimensionnel</link><link>Pathfinder-RPG.Bouche magique</link><link>Pathfinder-RPG.Bouclier</link><link>Pathfinder-RPG.Bouclier à renommer</link><link>Pathfinder-RPG.Bouclier dalignement</link><link>Pathfinder-RPG.Bouclier de feu</link><link>Pathfinder-RPG.Bouclier de force</link><link>Pathfinder-RPG.Bouclier de foudre</link><link>Pathfinder-RPG.Bouclier involontaire</link><link>Pathfinder-RPG.Bouclier pare-balles</link><link>Pathfinder-RPG.Boule de feu</link><link>Pathfinder-RPG.Boule de feu à retardement</link><link>Pathfinder-RPG.Boule de foudre</link><link>Pathfinder-RPG.Boule de foudre (mot de pouvoir)</link><link>Pathfinder-RPG.boules de foudre</link><link>Pathfinder-RPG.Boulette</link><link>Pathfinder-RPG.Bourrasque</link><link>Pathfinder-RPG.Brandon</link><link>Pathfinder-RPG.Brasier</link><link>Pathfinder-RPG.Brise</link><link>Pathfinder-RPG.Briser la volonté</link><link>Pathfinder-RPG.Broderie</link><link>Pathfinder-RPG.Brouillard dense</link><link>Pathfinder-RPG.Brûlure acide</link><link>Pathfinder-RPG.Brume acide</link><link>Pathfinder-RPG.Brume de dissimulation</link><link>Pathfinder-RPG.Brume de vitriol</link><link>Pathfinder-RPG.Brume hantée</link><link>Pathfinder-RPG.Brume mentale</link><link>Pathfinder-RPG.Brume mortelle</link><link>Pathfinder-RPG.Bulle dair</link><link>Pathfinder-RPG.Bulle de vie</link><link>Pathfinder-RPG.Cacophonie distrayante</link><link>Pathfinder-RPG.Cadeau empoisonné</link><link>Pathfinder-RPG.Cadeau toxique</link><link>Pathfinder-RPG.Cage de force</link><link>Pathfinder-RPG.Calme illusoire</link><link>Pathfinder-RPG.caméléon</link><link>Pathfinder-RPG.Canon arcanique</link><link>Pathfinder-RPG.Capture dâme</link><link>Pathfinder-RPG.Caractéristiques</link><link>Pathfinder-RPG.Caresse de la mer</link><link>Pathfinder-RPG.Caresse élémentaire</link><link>Pathfinder-RPG.Caresse vaseuse</link><link>Pathfinder-RPG.Carillon douverture</link><link>Pathfinder-RPG.Cassé</link><link>Pathfinder-RPG.Cécitésurdité</link><link>Pathfinder-RPG.Cercle de clarté</link><link>Pathfinder-RPG.Cercle de mort</link><link>Pathfinder-RPG.Cercle de téléportation</link><link>Pathfinder-RPG.Cercle magique contre la Loi</link><link>Pathfinder-RPG.Cercle magique contre le Bien</link><link>Pathfinder-RPG.Cercle magique contre le Chaos</link><link>Pathfinder-RPG.cercle magique contre le Mal</link><link>Pathfinder-RPG.Chagrin écrasant</link><link>Pathfinder-RPG.Chaîne de perdition</link><link>Pathfinder-RPG.Champ de force</link><link>Pathfinder-RPG.Champion occultiste</link><link>Pathfinder-RPG.Chance de lartisan</link><link>Pathfinder-RPG.Changement de forme</link><link>Pathfinder-RPG.Changement de plan</link><link>Pathfinder-RPG.Char fantôme</link><link>Pathfinder-RPG.Charge de fourmi</link><link>Pathfinder-RPG.Charge de fourmi (partagé)</link><link>Pathfinder-RPG.Charge télékinétique</link><link>Pathfinder-RPG.Charme-monstre</link><link>Pathfinder-RPG.Charme-monstre de groupe</link><link>Pathfinder-RPG.Charme-personne</link><link>Pathfinder-RPG.Chevaucher la foudre</link><link>Pathfinder-RPG.Chevaucher les vagues</link><link>Pathfinder-RPG.Cheveux étrangleurs</link><link>Pathfinder-RPG.Chien de garde</link><link>Pathfinder-RPG.Choc</link><link>Pathfinder-RPG.Chroniqueur</link><link>Pathfinder-RPG.Chute de température</link><link>Pathfinder-RPG.Clairaudienceclairvoyance</link><link>Pathfinder-RPG.Classes</link><link>Pathfinder-RPG.Clignotement</link><link>Pathfinder-RPG.Clone</link><link>Pathfinder-RPG.Coffre secret</link><link>Pathfinder-RPG.Colère de lhiver</link><link>Pathfinder-RPG.Combattant pris au dépourvu</link><link>Pathfinder-RPG.Communication à distance</link><link>Pathfinder-RPG.Compétences</link><link>Pathfinder-RPG.Compréhension des langages</link><link>Pathfinder-RPG.Conducteur fantôme</link><link>Pathfinder-RPG.Cône de froid</link><link>Pathfinder-RPG.Confusion</link><link>Pathfinder-RPG.Connaissances magiques étendues</link><link>Pathfinder-RPG.Contact avec les plans</link><link>Pathfinder-RPG.Contact calcificateur</link><link>Pathfinder-RPG.contact corrosif</link><link>Pathfinder-RPG.Contact défigurant</link><link>Pathfinder-RPG.Contact gelé</link><link>Pathfinder-RPG.Contact glacial</link><link>Pathfinder-RPG.Contagion</link><link>Pathfinder-RPG.Contagion supérieure</link><link>Pathfinder-RPG.Contrat</link><link>Pathfinder-RPG.Contrat intermédiaire</link><link>Pathfinder-RPG.Contrat suprême</link><link>Pathfinder-RPG.Contrôle de créature artificielle</link><link>Pathfinder-RPG.Contrôle de leau</link><link>Pathfinder-RPG.Contrôle des créatures convoquées</link><link>Pathfinder-RPG.Contrôle du climat</link><link>Pathfinder-RPG.Contrôle du temps</link><link>Pathfinder-RPG.Contrôle mineur des morts-vivants</link><link>Pathfinder-RPG.Convocation de monstre mineur</link><link>Pathfinder-RPG.Convocation de monstres I</link><link>Pathfinder-RPG.Convocation de monstres II</link><link>Pathfinder-RPG.Convocation de monstres III</link><link>Pathfinder-RPG.Convocation de monstres IV</link><link>Pathfinder-RPG.Convocation de monstres IX</link><link>Pathfinder-RPG.Convocation de monstres V</link><link>Pathfinder-RPG.Convocation de monstres VI</link><link>Pathfinder-RPG.Convocation de monstres VII</link><link>Pathfinder-RPG.Convocation de monstres VIII</link><link>Pathfinder-RPG.Convocation de pudding noir</link><link>Pathfinder-RPG.Convocation dombres</link><link>Pathfinder-RPG.Convocation dombres suprême</link><link>Pathfinder-RPG.Coquille invisible</link><link>Pathfinder-RPG.Corde animée</link><link>Pathfinder-RPG.Corde enchantée</link><link>Pathfinder-RPG.Corps de fer</link><link>Pathfinder-RPG.Corps de glace</link><link>Pathfinder-RPG.Corps élémentaire I</link><link>Pathfinder-RPG.Corps élémentaire II</link><link>Pathfinder-RPG.Corps élémentaire III</link><link>Pathfinder-RPG.Corps élémentaire IV</link><link>Pathfinder-RPG.Corps enflammé</link><link>Pathfinder-RPG.Corrosion</link><link>Pathfinder-RPG.Couatl</link><link>Pathfinder-RPG.Couleurs dansantes</link><link>Pathfinder-RPG.Coup au but</link><link>Pathfinder-RPG.Coup de vent</link><link>Pathfinder-RPG.Coup tonitruant</link><link>Pathfinder-RPG.Couronne de lames</link><link>Pathfinder-RPG.Course folle</link><link>Pathfinder-RPG.Coursier fantôme</link><link>Pathfinder-RPG.Coursier fantôme (partagé)</link><link>Pathfinder-RPG.Crampe</link><link>Pathfinder-RPG.Création de carte au trésor</link><link>Pathfinder-RPG.Création de demi-plan</link><link>Pathfinder-RPG.Création de demi-plan mineur</link><link>Pathfinder-RPG.Création de demi-plan mineure</link><link>Pathfinder-RPG.Création de demi-plan supérieure</link><link>Pathfinder-RPG.Création de fosse</link><link>Pathfinder-RPG.Création de mort-vivant</link><link>Pathfinder-RPG.Création de mort-vivant dominant</link><link>Pathfinder-RPG.Création délixir sanguin</link><link>Pathfinder-RPG.Création dobjets magiques</link><link>Pathfinder-RPG.Création majeure</link><link>Pathfinder-RPG.Création mineure</link><link>Pathfinder-RPG.Créature artificielle incassable</link><link>Pathfinder-RPG.Créer des PNJ</link><link>Pathfinder-RPG.Créer un sort</link><link>Pathfinder-RPG.Creusement</link><link>Pathfinder-RPG.Cri</link><link>Pathfinder-RPG.Cri ki</link><link>Pathfinder-RPG.Cri perçant</link><link>Pathfinder-RPG.Cri suprême</link><link>Pathfinder-RPG.Croissance animale</link><link>Pathfinder-RPG.Dague de stalactite</link><link>Pathfinder-RPG.Dandasuka</link><link>Pathfinder-RPG.Danse irrésistible</link><link>Pathfinder-RPG.De la soie à l’acier</link><link>Pathfinder-RPG.De la soie à lacier</link><link>Pathfinder-RPG.Débilité</link><link>Pathfinder-RPG.Déblocage</link><link>Pathfinder-RPG.Décélération</link><link>Pathfinder-RPG.décharge défensive</link><link>Pathfinder-RPG.Décharge électrique</link><link>Pathfinder-RPG.Déchiffrer</link><link>Pathfinder-RPG.Décollage</link><link>Pathfinder-RPG.Décomposition de cadavre</link><link>Pathfinder-RPG.Dédale</link><link>Pathfinder-RPG.Défaire</link><link>Pathfinder-RPG.Défense magique</link><link>Pathfinder-RPG.Déformation douloureuse</link><link>Pathfinder-RPG.Dégâts</link><link>Pathfinder-RPG.Déguisement fantomatique</link><link>Pathfinder-RPG.Déguiser autrui</link><link>Pathfinder-RPG.Délivrance</link><link>Pathfinder-RPG.Délivrance des malédictions</link><link>Pathfinder-RPG.Demi-elfe</link><link>Pathfinder-RPG.Demi-orque</link><link>Pathfinder-RPG.Dépense</link><link>Pathfinder-RPG.Déplacement</link><link>Pathfinder-RPG.Derro</link><link>Pathfinder-RPG.Désespoir foudroyant</link><link>Pathfinder-RPG.Désintégration</link><link>Pathfinder-RPG.Désir anormal</link><link>Pathfinder-RPG.Destruction de mort-vivant</link><link>Pathfinder-RPG.Détection de la magie</link><link>Pathfinder-RPG.Détection de la scrutation</link><link>Pathfinder-RPG.Détection de linvisibilité</link><link>Pathfinder-RPG.Détection de pensées</link><link>Pathfinder-RPG.Détection des morts-vivants</link><link>Pathfinder-RPG.Détection des passages secrets</link><link>Pathfinder-RPG.Détection du poison</link><link>Pathfinder-RPG.Détection faussée</link><link>Pathfinder-RPG.Détonation</link><link>Pathfinder-RPG.Détremper</link><link>Pathfinder-RPG.Déviation</link><link>Pathfinder-RPG.Dhampir (race)</link><link>Pathfinder-RPG.Disciple draconien</link><link>Pathfinder-RPG.Disjonction</link><link>Pathfinder-RPG.Disparition</link><link>Pathfinder-RPG.Disparition (mot de pouvoir)</link><link>Pathfinder-RPG.Disque flottant</link><link>Pathfinder-RPG.Dissimulation dobjet</link><link>Pathfinder-RPG.Dissimulation suprême</link><link>Pathfinder-RPG.Dissipation de la magie</link><link>Pathfinder-RPG.Dissipation suprême</link><link>Pathfinder-RPG.Distorsion spatiale</link><link>Pathfinder-RPG.Doigt de mort</link><link>Pathfinder-RPG.Domination</link><link>Pathfinder-RPG.Domination universelle</link><link>Pathfinder-RPG.Don des langues</link><link>Pathfinder-RPG.Don des langues (partagé)</link><link>Pathfinder-RPG.dons de création dobjets</link><link>Pathfinder-RPG.dons de critique</link><link>Pathfinder-RPG.dons-temporaires</link><link>Pathfinder-RPG.Double illusoire</link><link>Pathfinder-RPG.double terrifiant</link><link>Pathfinder-RPG.dragon</link><link>Pathfinder-RPG.Dragon dartifice</link><link>Pathfinder-RPG.Dragon impérial</link><link>Pathfinder-RPG.Drain de vie</link><link>Pathfinder-RPG.Drider</link><link>Pathfinder-RPG.Drow (race)</link><link>Pathfinder-RPG.Duels</link><link>Pathfinder-RPG.Duels de sorts</link><link>Pathfinder-RPG.Dysfonctionnement</link><link>Pathfinder-RPG.Échec annoncé</link><link>Pathfinder-RPG.Écho</link><link>Pathfinder-RPG.Écholocalisation</link><link>Pathfinder-RPG.Éclair</link><link>Pathfinder-RPG.Éclair brûlant</link><link>Pathfinder-RPG.Éclair corrosif</link><link>Pathfinder-RPG.Éclair de force</link><link>Pathfinder-RPG.Éclair multiple</link><link>Pathfinder-RPG.Éclairs dobscurité aveuglante</link><link>Pathfinder-RPG.Écran</link><link>Pathfinder-RPG.Effacement</link><link>Pathfinder-RPG.Effroi</link><link>Pathfinder-RPG.Elfe</link><link>Pathfinder-RPG.Emprisonnement</link><link>Pathfinder-RPG.Emprunt de futur</link><link>Pathfinder-RPG.Endurance aux énergies destructives</link><link>Pathfinder-RPG.Endurance aux énergies destructives (partagé)</link><link>Pathfinder-RPG.Endurance de lours</link><link>Pathfinder-RPG.Endurance de lours de groupe</link><link>Pathfinder-RPG.Énergie négative</link><link>Pathfinder-RPG.Engin de siège magique</link><link>Pathfinder-RPG.Engin de siège magique supérieur</link><link>Pathfinder-RPG.Engouement téméraire</link><link>Pathfinder-RPG.Ennemi contondant</link><link>Pathfinder-RPG.Ennemi subconscient</link><link>Pathfinder-RPG.Ennui oppressant</link><link>Pathfinder-RPG.Ensoleillement</link><link>Pathfinder-RPG.Ensorceleur</link><link>Pathfinder-RPG.Entrave</link><link>Pathfinder-RPG.Entrer dans une image</link><link>Pathfinder-RPG.Épée de force</link><link>Pathfinder-RPG.Épidémie</link><link>Pathfinder-RPG.Éruption caustique</link><link>Pathfinder-RPG.Éruption de flèches</link><link>Pathfinder-RPG.Éruption de pustules</link><link>Pathfinder-RPG.Esprit impénétrable</link><link>Pathfinder-RPG.Esprit impénétrable (partagé)</link><link>Pathfinder-RPG.Esprit malveillant</link><link>Pathfinder-RPG.Essor</link><link>Pathfinder-RPG.Estoc sonore</link><link>Pathfinder-RPG.État gazeux</link><link>Pathfinder-RPG.Étincelle (mot de pouvoir)</link><link>Pathfinder-RPG.Étincelles</link><link>Pathfinder-RPG.Étourdir</link><link>Pathfinder-RPG.Étrange fièvre</link><link>Pathfinder-RPG.Étrange héritage</link><link>Pathfinder-RPG.Étrange héritage supérieur</link><link>Pathfinder-RPG.Évanouissement</link><link>Pathfinder-RPG.Excavation expéditive</link><link>Pathfinder-RPG.Exigence</link><link>Pathfinder-RPG.Explosion de feu</link><link>Pathfinder-RPG.Explosion de force</link><link>Pathfinder-RPG.Explosion de foudre</link><link>Pathfinder-RPG.Explosion de glace</link><link>Pathfinder-RPG.Explosion de lumière</link><link>Pathfinder-RPG.Explosion sonore</link><link>Pathfinder-RPG.Extase</link><link>Pathfinder-RPG.extraction du demi-sang</link><link>Pathfinder-RPG.Fabrication</link><link>Pathfinder-RPG.Fabrication de balles</link><link>Pathfinder-RPG.Façonnage de cadavre</link><link>Pathfinder-RPG.Façonnage de la pierre</link><link>Pathfinder-RPG.Fantôme</link><link>Pathfinder-RPG.FAQ Classes</link><link>Pathfinder-RPG.FAQ Dons</link><link>Pathfinder-RPG.FAQ Magie</link><link>Pathfinder-RPG.FAQ Règles</link><link>Pathfinder-RPG.Fatigue</link><link>Pathfinder-RPG.Faux-semblant</link><link>Pathfinder-RPG.Férocité du blaireau</link><link>Pathfinder-RPG.Fetchelin</link><link>Pathfinder-RPG.Feu de camp abrité</link><link>Pathfinder-RPG.Feu primordial</link><link>Pathfinder-RPG.Feuille morte</link><link>Pathfinder-RPG.Fierté illusoire</link><link>Pathfinder-RPG.Flamme contagieuse</link><link>Pathfinder-RPG.Flamme éternelle</link><link>Pathfinder-RPG.Flèche acide</link><link>Pathfinder-RPG.Flèche corrosive</link><link>Pathfinder-RPG.Flèche de ki</link><link>Pathfinder-RPG.Flèches enflammées</link><link>Pathfinder-RPG.Flétrissement végétal</link><link>Pathfinder-RPG.Flétrissure</link><link>Pathfinder-RPG.Flot obsidien</link><link>Pathfinder-RPG.Flotter</link><link>Pathfinder-RPG.Flou</link><link>Pathfinder-RPG.Folle hallucination</link><link>Pathfinder-RPG.Force de taureau</link><link>Pathfinder-RPG.Force de taureau de groupe</link><link>Pathfinder-RPG.Forme altérée</link><link>Pathfinder-RPG.Forme bestiale</link><link>Pathfinder-RPG.Forme bestiale I</link><link>Pathfinder-RPG.Forme bestiale II</link><link>Pathfinder-RPG.Forme bestiale III</link><link>Pathfinder-RPG.Forme bestiale IV</link><link>Pathfinder-RPG.Forme de bébé</link><link>Pathfinder-RPG.Forme de géant I</link><link>Pathfinder-RPG.Forme de géant II</link><link>Pathfinder-RPG.Forme de vase I</link><link>Pathfinder-RPG.Forme de vase II</link><link>Pathfinder-RPG.Forme de vase III</link><link>Pathfinder-RPG.Forme de vermine I</link><link>Pathfinder-RPG.Forme de vermine II</link><link>Pathfinder-RPG.Forme draconique I</link><link>Pathfinder-RPG.Forme draconique II</link><link>Pathfinder-RPG.Forme draconique III</link><link>Pathfinder-RPG.Forme éthérée</link><link>Pathfinder-RPG.Forme liquide</link><link>Pathfinder-RPG.Forme monstrueuse</link><link>Pathfinder-RPG.Forme parfaite</link><link>Pathfinder-RPG.Forme supérieure</link><link>Pathfinder-RPG.Forme végétale I</link><link>Pathfinder-RPG.Forme végétale II</link><link>Pathfinder-RPG.Forme végétale III</link><link>Pathfinder-RPG.Forme véritable</link><link>Pathfinder-RPG.Fortifiant</link><link>Pathfinder-RPG.Fosse acide</link><link>Pathfinder-RPG.Fosse affamée</link><link>Pathfinder-RPG.Fosse hérissée de pieux</link><link>Pathfinder-RPG.Fou rire</link><link>Pathfinder-RPG.Foudre (mot de pouvoir)</link><link>Pathfinder-RPG.Fracassement</link><link>Pathfinder-RPG.Frappe douloureuse</link><link>Pathfinder-RPG.Frappe douloureuse de groupe</link><link>Pathfinder-RPG.Frappe miroir</link><link>Pathfinder-RPG.Frappe sanglante ensorcelée</link><link>Pathfinder-RPG.Frayeur</link><link>Pathfinder-RPG.Froid pénétrant</link><link>Pathfinder-RPG.Froide frappe de glace</link><link>Pathfinder-RPG.Fusion avec le familier</link><link>Pathfinder-RPG.Gardes et soldats</link><link>Pathfinder-RPG.Garuda</link><link>Pathfinder-RPG.Géant des nuages</link><link>Pathfinder-RPG.Géant des pierres</link><link>Pathfinder-RPG.Géant des runes</link><link>Pathfinder-RPG.Géant des tempêtes</link><link>Pathfinder-RPG.Géant du feu</link><link>Pathfinder-RPG.Géant du froid</link><link>Pathfinder-RPG.Geyser</link><link>Pathfinder-RPG.Glissement de terrain</link><link>Pathfinder-RPG.Glissement dimensionnel</link><link>Pathfinder-RPG.Globe dinvulnérabilité partielle</link><link>Pathfinder-RPG.Globe dinvulnérabilité renforcée</link><link>Pathfinder-RPG.Glyphe de force</link><link>Pathfinder-RPG.Gnome</link><link>Pathfinder-RPG.Grâce féline</link><link>Pathfinder-RPG.Grâce féline de groupe</link><link>Pathfinder-RPG.grâce urbaine</link><link>Pathfinder-RPG.Graisse</link><link>Pathfinder-RPG.Grandes illuminations</link><link>Pathfinder-RPG.Halfelin</link><link>Pathfinder-RPG.Havresombre</link><link>Pathfinder-RPG.Hébétement</link><link>Pathfinder-RPG.Hébétement de groupe</link><link>Pathfinder-RPG.Hébétement de monstre</link><link>Pathfinder-RPG.Hémorragie</link><link>Pathfinder-RPG.Héroïsme</link><link>Pathfinder-RPG.Héroïsme suprême</link><link>Pathfinder-RPG.Heurt de pierres</link><link>Pathfinder-RPG.Horreur</link><link>Pathfinder-RPG.Humain</link><link>Pathfinder-RPG.Hurlement dagonie</link><link>Pathfinder-RPG.Hypnose</link><link>Pathfinder-RPG.Iathavos</link><link>Pathfinder-RPG.Identification</link><link>Pathfinder-RPG.Idiotie</link><link>Pathfinder-RPG.Ifrit</link><link>Pathfinder-RPG.Illumination</link><link>Pathfinder-RPG.Image accomplie</link><link>Pathfinder-RPG.Image de foudre</link><link>Pathfinder-RPG.Image imparfaite</link><link>Pathfinder-RPG.Image miroir</link><link>Pathfinder-RPG.Image permanente</link><link>Pathfinder-RPG.Image prédéterminée</link><link>Pathfinder-RPG.Image programmée</link><link>Pathfinder-RPG.Image silencieuse</link><link>Pathfinder-RPG.Immobilisation de monstre</link><link>Pathfinder-RPG.Immobilisation de monstre de groupe</link><link>Pathfinder-RPG.Immobilisation de morts-vivants</link><link>Pathfinder-RPG.Immobilisation de personne</link><link>Pathfinder-RPG.Immobilisation de personne de groupe</link><link>Pathfinder-RPG.Immolation spontanée</link><link>Pathfinder-RPG.Immunité à lénergie</link><link>Pathfinder-RPG.Infestation de vers</link><link>Pathfinder-RPG.Injection</link><link>Pathfinder-RPG.Innombrables yeux</link><link>Pathfinder-RPG.Instant de gloire</link><link>Pathfinder-RPG.Interrogatoire</link><link>Pathfinder-RPG.Inversion de la gravité</link><link>Pathfinder-RPG.Invisibilité</link><link>Pathfinder-RPG.Invisibilité de groupe</link><link>Pathfinder-RPG.Invisibilité suprême</link><link>Pathfinder-RPG.Invocation héroïque</link><link>Pathfinder-RPG.Invocation instantanée</link><link>Pathfinder-RPG.Jet dacide</link><link>Pathfinder-RPG.Jet de flamme</link><link>Pathfinder-RPG.Jet de flammes</link><link>Pathfinder-RPG.Jeunesse apparente</link><link>Pathfinder-RPG.Jinkin</link><link>Pathfinder-RPG.jitterbug</link><link>Pathfinder-RPG.Juxtaposition hostile</link><link>Pathfinder-RPG.Juxtaposition hostile supérieure</link><link>Pathfinder-RPG.la mort venue den bas</link><link>Pathfinder-RPG.Lame du crépuscule</link><link>Pathfinder-RPG.Lancer des sorts</link><link>Pathfinder-RPG.Langue élémentaire</link><link>Pathfinder-RPG.lanterne dansante</link><link>Pathfinder-RPG.Lecture de la magie</link><link>Pathfinder-RPG.Lenteur</link><link>Pathfinder-RPG.Les mots de pouvoir</link><link>Pathfinder-RPG.Leurre</link><link>Pathfinder-RPG.Lévitation</link><link>Pathfinder-RPG.Lévitation hostile</link><link>Pathfinder-RPG.Libération (mot de pouvoir)</link><link>Pathfinder-RPG.Lien avec linvocateur</link><link>Pathfinder-RPG.Lien des esprits combatifs</link><link>Pathfinder-RPG.Lien télépathique</link><link>Pathfinder-RPG.Lier un extérieur</link><link>Pathfinder-RPG.lignage Aberrant</link><link>Pathfinder-RPG.lignage Abyssal</link><link>Pathfinder-RPG.lignage aquatique</link><link>Pathfinder-RPG.lignage boréal</link><link>Pathfinder-RPG.lignage Céleste</link><link>Pathfinder-RPG.lignage des étoiles</link><link>Pathfinder-RPG.lignage des ombres</link><link>Pathfinder-RPG.lignage des profondeurs</link><link>Pathfinder-RPG.lignage des tempêtes</link><link>Pathfinder-RPG.lignage Djinn</link><link>Pathfinder-RPG.lignage Draconique</link><link>Pathfinder-RPG.lignage Éfrit</link><link>Pathfinder-RPG.lignage Élémentaire</link><link>Pathfinder-RPG.lignage Féerique</link><link>Pathfinder-RPG.lignage Infernal</link><link>Pathfinder-RPG.lignage Maestro</link><link>Pathfinder-RPG.lignage Marid</link><link>Pathfinder-RPG.lignage Maudit</link><link>Pathfinder-RPG.lignage Mort-vivant</link><link>Pathfinder-RPG.lignage onirique</link><link>Pathfinder-RPG.lignage Profane</link><link>Pathfinder-RPG.lignage protéen</link><link>Pathfinder-RPG.lignage Rakshasa</link><link>Pathfinder-RPG.lignage serpentin</link><link>Pathfinder-RPG.lignage Shaitan</link><link>Pathfinder-RPG.lignage verdoyant</link><link>Pathfinder-RPG.lignage Voué à un grand destin</link><link>Pathfinder-RPG.Lignages</link><link>Pathfinder-RPG.Liste des sorts densorceleursmagiciens</link><link>Pathfinder-RPG.Localisation de créature</link><link>Pathfinder-RPG.Localisation dobjet</link><link>Pathfinder-RPG.Localisation suprême</link><link>Pathfinder-RPG.loup fantomatique</link><link>Pathfinder-RPG.Lueur darc-en-ciel</link><link>Pathfinder-RPG.Lueurs hypnotiques</link><link>Pathfinder-RPG.Lumière</link><link>Pathfinder-RPG.Lumière du jour</link><link>Pathfinder-RPG.Lumières dansantes</link><link>Pathfinder-RPG.Magie des ombres</link><link>Pathfinder-RPG.Magie des ombres suprême</link><link>Pathfinder-RPG.Magie profane</link><link>Pathfinder-RPG.Maharadjah</link><link>Pathfinder-RPG.Main broyeuse</link><link>Pathfinder-RPG.Main impérieuse</link><link>Pathfinder-RPG.Main interposée</link><link>Pathfinder-RPG.Main spectrale</link><link>Pathfinder-RPG.Main vagabonde</link><link>Pathfinder-RPG.MainPage</link><link>Pathfinder-RPG.Mains brûlantes</link><link>Pathfinder-RPG.Maître de la tempête</link><link>Pathfinder-RPG.Maîtriser la magie</link><link>Pathfinder-RPG.Maladresse</link><link>Pathfinder-RPG.Malchance de lartisan</link><link>Pathfinder-RPG.Malédiction de dégoût</link><link>Pathfinder-RPG.Malédiction de négation magique</link><link>Pathfinder-RPG.Malédiction majeure</link><link>Pathfinder-RPG.Manipulation à distance</link><link>Pathfinder-RPG.Manoir somptueux</link><link>Pathfinder-RPG.Manteau de rêves</link><link>Pathfinder-RPG.Manteau de vent</link><link>Pathfinder-RPG.Manteau marin</link><link>Pathfinder-RPG.Maraï</link><link>Pathfinder-RPG.Marionnette de peau</link><link>Pathfinder-RPG.Mauvais œil</link><link>Pathfinder-RPG.Menottes scellées</link><link>Pathfinder-RPG.Mépris absolu</link><link>Pathfinder-RPG.Message</link><link>Pathfinder-RPG.métamorphose</link><link>Pathfinder-RPG.Métamorphose funeste</link><link>Pathfinder-RPG.Métamorphose suprême</link><link>Pathfinder-RPG.Métamorphose universelle</link><link>Pathfinder-RPG.mirage</link><link>Pathfinder-RPG.Mise à mort (mot de pouvoir)</link><link>Pathfinder-RPG.Misérable pitié</link><link>Pathfinder-RPG.Mission</link><link>Pathfinder-RPG.Modificateurs de combat</link><link>Pathfinder-RPG.Modification dapparence</link><link>Pathfinder-RPG.Modification des vents</link><link>Pathfinder-RPG.Moment de prescience</link><link>Pathfinder-RPG.Monture</link><link>Pathfinder-RPG.Monture (partagé)</link><link>Pathfinder-RPG.Morsure glacée</link><link>Pathfinder-RPG.Mort-vivance</link><link>Pathfinder-RPG.Mot de pouvoir aveuglant</link><link>Pathfinder-RPG.Mot de pouvoir étourdissant</link><link>Pathfinder-RPG.Mot de pouvoir mortel</link><link>Pathfinder-RPG.Motif scintillant</link><link>Pathfinder-RPG.Mur de fer</link><link>Pathfinder-RPG.Mur de feu</link><link>Pathfinder-RPG.Mur de feu (mot de pouvoir)</link><link>Pathfinder-RPG.Mur de force</link><link>Pathfinder-RPG.Mur de glace</link><link>Pathfinder-RPG.Mur de glace (mot de pouvoir)</link><link>Pathfinder-RPG.Mur de lave</link><link>Pathfinder-RPG.Mur de pierre</link><link>Pathfinder-RPG.Mur de pierre (mot de pouvoir)</link><link>Pathfinder-RPG.Mur de son</link><link>Pathfinder-RPG.Mur de suppression</link><link>Pathfinder-RPG.Mur de vent</link><link>Pathfinder-RPG.Mur de vent (mot de pouvoir)</link><link>Pathfinder-RPG.Mur illusoire</link><link>Pathfinder-RPG.Mur prismatique</link><link>Pathfinder-RPG.Mystificateur profane</link><link>Pathfinder-RPG.Mythes et légendes</link><link>Pathfinder-RPG.Naga aquatique</link><link>Pathfinder-RPG.naga corrupteur</link><link>Pathfinder-RPG.Naga gardien</link><link>Pathfinder-RPG.Naga lunaire</link><link>Pathfinder-RPG.Naga royal</link><link>Pathfinder-RPG.Naga ténébreux</link><link>Pathfinder-RPG.Nain</link><link>Pathfinder-RPG.Nappe de brouillard</link><link>Pathfinder-RPG.Nappe de brouillard (mot de pouvoir)</link><link>Pathfinder-RPG.Nappe de goudron</link><link>Pathfinder-RPG.Narcissisme suffisant</link><link>Pathfinder-RPG.Négation</link><link>Pathfinder-RPG.Neh-thalggu</link><link>Pathfinder-RPG.Nuage corrosif</link><link>Pathfinder-RPG.Nuage de toile</link><link>Pathfinder-RPG.Nuage incendiaire</link><link>Pathfinder-RPG.Nuage nauséabond</link><link>Pathfinder-RPG.Nuée de météores</link><link>Pathfinder-RPG.Nuée grouillante</link><link>Pathfinder-RPG.Nuées dorage</link><link>Pathfinder-RPG.objet fantomatique mineur</link><link>Pathfinder-RPG.objet fantomique majeur</link><link>Pathfinder-RPG.Objets intelligents</link><link>Pathfinder-RPG.Obscurité</link><link>Pathfinder-RPG.Œil du mage</link><link>Pathfinder-RPG.Œil indiscret</link><link>Pathfinder-RPG.Œil indiscret suprême</link><link>Pathfinder-RPG.Ondin</link><link>Pathfinder-RPG.Orbe aqueux</link><link>Pathfinder-RPG.Orbe du néant</link><link>Pathfinder-RPG.Ordre complexe</link><link>Pathfinder-RPG.Ordre libérateur</link><link>Pathfinder-RPG.Ordre simple</link><link>Pathfinder-RPG.Oréade</link><link>Pathfinder-RPG.Ouverturefermeture</link><link>Pathfinder-RPG.page de travail des dons</link><link>Pathfinder-RPG.Page secrète</link><link>Pathfinder-RPG.Paix forcée</link><link>Pathfinder-RPG.Panacée universelle</link><link>Pathfinder-RPG.Paralysie de créature</link><link>Pathfinder-RPG.Paralysie dhumanoïde</link><link>Pathfinder-RPG.Paralysie permanente</link><link>Pathfinder-RPG.parangon soudain</link><link>Pathfinder-RPG.Parchemins magiques</link><link>Pathfinder-RPG.Parole résonnante</link><link>Pathfinder-RPG.Partage de la langue</link><link>Pathfinder-RPG.Partage de la langue (partagé)</link><link>Pathfinder-RPG.Partage des sens</link><link>Pathfinder-RPG.Partage des souvenirs</link><link>Pathfinder-RPG.Pas de lombre</link><link>Pathfinder-RPG.Passage dans léther</link><link>Pathfinder-RPG.Passe-muraille</link><link>Pathfinder-RPG.Pattes daraignée</link><link>Pathfinder-RPG.Pattes daraignée (partagé)</link><link>Pathfinder-RPG.Peau de pierre</link><link>Pathfinder-RPG.Peau de pierre (partagé)</link><link>Pathfinder-RPG.Peau résineuse</link><link>Pathfinder-RPG.Pénombre</link><link>Pathfinder-RPG.Pénombre protectrice</link><link>Pathfinder-RPG.Permanence</link><link>Pathfinder-RPG.Perspicacité tactique</link><link>Pathfinder-RPG.Pétrification</link><link>Pathfinder-RPG.Phalange de bois</link><link>Pathfinder-RPG.Physique monstrueux I</link><link>Pathfinder-RPG.Physique monstrueux II</link><link>Pathfinder-RPG.Physique monstrueux III</link><link>Pathfinder-RPG.Physique monstrueux IV</link><link>Pathfinder-RPG.Piège à feu</link><link>Pathfinder-RPG.Piège illusoire</link><link>Pathfinder-RPG.Plaie au visage</link><link>Pathfinder-RPG.Plainte doutre-tombe</link><link>Pathfinder-RPG.Planer</link><link>Pathfinder-RPG.Planer (mot de pouvoir)</link><link>Pathfinder-RPG.Pleine lune</link><link>Pathfinder-RPG.Pluie de grenouilles</link><link>Pathfinder-RPG.Pluie de plomb</link><link>Pathfinder-RPG.Poigne agrippeuse</link><link>Pathfinder-RPG.Poigne sûre</link><link>Pathfinder-RPG.Poing de force</link><link>Pathfinder-RPG.Poing de pierre</link><link>Pathfinder-RPG.Poing serré</link><link>Pathfinder-RPG.Points héroïques</link><link>Pathfinder-RPG.Poison pernicieux</link><link>Pathfinder-RPG.Port des armures légères</link><link>Pathfinder-RPG.Portail</link><link>Pathfinder-RPG.Porte de phase</link><link>Pathfinder-RPG.Porte dimensionnelle</link><link>Pathfinder-RPG.Porte dimensionnelle (mot de pouvoir)</link><link>Pathfinder-RPG.Porte-peste</link><link>Pathfinder-RPG.Possession</link><link>Pathfinder-RPG.Possession de marionnette</link><link>Pathfinder-RPG.Possession dobjet</link><link>Pathfinder-RPG.Poudre affaiblie</link><link>Pathfinder-RPG.Poudre descampette</link><link>Pathfinder-RPG.Poudre instable</link><link>Pathfinder-RPG.Poudre mouillée</link><link>Pathfinder-RPG.Poudre stable</link><link>Pathfinder-RPG.Poussée hydraulique</link><link>Pathfinder-RPG.Poussière détoile</link><link>Pathfinder-RPG.Poussière du crépuscule</link><link>Pathfinder-RPG.Poussière scintillante</link><link>Pathfinder-RPG.Pouvoirs spéciaux</link><link>Pathfinder-RPG.Prémonition</link><link>Pathfinder-RPG.Présence écrasante</link><link>Pathfinder-RPG.Présentation des sorts</link><link>Pathfinder-RPG.Préservation des morts</link><link>Pathfinder-RPG.Prestidigitation</link><link>Pathfinder-RPG.Prévoyance</link><link>Pathfinder-RPG.Prison de glace</link><link>Pathfinder-RPG.Prison de glace de groupe</link><link>Pathfinder-RPG.Projectile de toile</link><link>Pathfinder-RPG.Projectile magique</link><link>Pathfinder-RPG.Projection astrale</link><link>Pathfinder-RPG.Projection astrale mineure</link><link>Pathfinder-RPG.Projection dimage</link><link>Pathfinder-RPG.Projection dombre</link><link>Pathfinder-RPG.Protection contre la Loi</link><link>Pathfinder-RPG.Protection contre la Loi (partagé)</link><link>Pathfinder-RPG.Protection contre le Bien</link><link>Pathfinder-RPG.Protection contre le Bien (partagé)</link><link>Pathfinder-RPG.Protection contre le Chaos</link><link>Pathfinder-RPG.Protection contre le Chaos (partagé)</link><link>Pathfinder-RPG.Protection contre le Mal</link><link>Pathfinder-RPG.Protection contre le Mal (partagé)</link><link>Pathfinder-RPG.Protection contre les énergies destructives</link><link>Pathfinder-RPG.Protection contre les énergies destructives (partagé)</link><link>Pathfinder-RPG.Protection contre les projectiles</link><link>Pathfinder-RPG.Protection contre les projectiles (partagé)</link><link>Pathfinder-RPG.Protection contre les sorts</link><link>Pathfinder-RPG.Pulsion de jalousie</link><link>Pathfinder-RPG.Pur dégoût</link><link>Pathfinder-RPG.Pyrotechnie</link><link>Pathfinder-RPG.Quête</link><link>Pathfinder-RPG.Racine</link><link>Pathfinder-RPG.Radiance</link><link>Pathfinder-RPG.Rage</link><link>Pathfinder-RPG.Rapetissement</link><link>Pathfinder-RPG.Rapetissement de groupe</link><link>Pathfinder-RPG.Rapidité</link><link>Pathfinder-RPG.Rappel à la vie</link><link>Pathfinder-RPG.Rappel de compagnon animal</link><link>Pathfinder-RPG.Rayon affaiblissant</link><link>Pathfinder-RPG.Rayon ardent</link><link>Pathfinder-RPG.Rayon de fièvre</link><link>Pathfinder-RPG.Rayon de givre</link><link>Pathfinder-RPG.Rayon dépuisement</link><link>Pathfinder-RPG.Rayon polaire</link><link>Pathfinder-RPG.Rayons prismatiques</link><link>Pathfinder-RPG.Réaction négative</link><link>Pathfinder-RPG.rechargement de la magie innée</link><link>Pathfinder-RPG.Recherche de pensées</link><link>Pathfinder-RPG.Recul excessif</link><link>Pathfinder-RPG.Réduction dobjet</link><link>Pathfinder-RPG.Reflets dombre</link><link>Pathfinder-RPG.Refuge</link><link>Pathfinder-RPG.Refuge du mage</link><link>Pathfinder-RPG.Regard brûlant</link><link>Pathfinder-RPG.Régression</link><link>Pathfinder-RPG.Régression ancestrale</link><link>Pathfinder-RPG.Réincarnation</link><link>Pathfinder-RPG.Rempart</link><link>Pathfinder-RPG.Renforcer larmement</link><link>Pathfinder-RPG.Renforcer larmement (partagé)</link><link>Pathfinder-RPG.Renvoi</link><link>Pathfinder-RPG.Renvoi des sorts</link><link>Pathfinder-RPG.Réparation</link><link>Pathfinder-RPG.Réparation improvisée</link><link>Pathfinder-RPG.Réparation intégrale</link><link>Pathfinder-RPG.Réparation rapide</link><link>Pathfinder-RPG.Repérer les faiblesses</link><link>Pathfinder-RPG.Repli expéditif</link><link>Pathfinder-RPG.Répulsion</link><link>Pathfinder-RPG.réservoir de résilience</link><link>Pathfinder-RPG.Réservoir draconique</link><link>Pathfinder-RPG.Résistance à la magie (mot de pouvoir)</link><link>Pathfinder-RPG.Résistance à lâge</link><link>Pathfinder-RPG.Résistance à lâge mineure</link><link>Pathfinder-RPG.Résistance à lâge supérieure</link><link>Pathfinder-RPG.Résistance à lénergie (mot de pouvoir)</link><link>Pathfinder-RPG.Résistance aux énergies destructives</link><link>Pathfinder-RPG.Résistance aux énergies destructives (partagé)</link><link>Pathfinder-RPG.Respiration aquatique</link><link>Pathfinder-RPG.Restauration de cadavre</link><link>Pathfinder-RPG.Résurrection temporaire</link><link>Pathfinder-RPG.Retardement de la douleur</link><link>Pathfinder-RPG.Réverbération cinétique</link><link>Pathfinder-RPG.River le regard</link><link>Pathfinder-RPG.Rivière de vent</link><link>Pathfinder-RPG.robes de lhéritage magique</link><link>Pathfinder-RPG.Runes explosives</link><link>Pathfinder-RPG.Ruse du renard</link><link>Pathfinder-RPG.Ruse du renard de groupe</link><link>Pathfinder-RPG.Sables changeants</link><link>Pathfinder-RPG.Sables du temps</link><link>Pathfinder-RPG.Sagesse du hibou</link><link>Pathfinder-RPG.Sagesse du hibou de groupe</link><link>Pathfinder-RPG.Sanctuaire secret</link><link>Pathfinder-RPG.Sang bouillant</link><link>Pathfinder-RPG.Sang mêlé (ensorceleur)</link><link>Pathfinder-RPG.Sang sauvage (ensorceleur)</link><link>Pathfinder-RPG.Sangsue de ki</link><link>Pathfinder-RPG.Saut</link><link>Pathfinder-RPG.Saut dimensionnel</link><link>Pathfinder-RPG.Savoir manier une arme</link><link>Pathfinder-RPG.sceau de fuite</link><link>Pathfinder-RPG.Sceau du serpent</link><link>Pathfinder-RPG.Sceptre dabsorption</link><link>Pathfinder-RPG.Sceptre de métamagie</link><link>Pathfinder-RPG.Science de létrange héritage</link><link>Pathfinder-RPG.Scintillement</link><link>Pathfinder-RPG.Scoop</link><link>Pathfinder-RPG.Scrupule</link><link>Pathfinder-RPG.scrutation</link><link>Pathfinder-RPG.Scrutation suprême</link><link>Pathfinder-RPG.Sculpture de simulacre</link><link>Pathfinder-RPG.Sentir ce qui est caché</link><link>Pathfinder-RPG.Sentir la magie</link><link>Pathfinder-RPG.Sentir les pensées</link><link>Pathfinder-RPG.Séquestration</link><link>Pathfinder-RPG.Sérénité</link><link>Pathfinder-RPG.Serpent de feu</link><link>Pathfinder-RPG.Serviteur I</link><link>Pathfinder-RPG.Serviteur II</link><link>Pathfinder-RPG.Serviteur III</link><link>Pathfinder-RPG.Serviteur invisible</link><link>Pathfinder-RPG.Serviteur IV</link><link>Pathfinder-RPG.Serviteur IX</link><link>Pathfinder-RPG.Serviteur V</link><link>Pathfinder-RPG.Serviteur VI</link><link>Pathfinder-RPG.Serviteur VII</link><link>Pathfinder-RPG.Serviteur VIII</link><link>Pathfinder-RPG.Shaé</link><link>Pathfinder-RPG.Shuriken de feu</link><link>Pathfinder-RPG.Signature magique</link><link>Pathfinder-RPG.Silence forcé</link><link>Pathfinder-RPG.Simulacre</link><link>Pathfinder-RPG.Simulacre de vie</link><link>Pathfinder-RPG.Simulacre de vie supérieur</link><link>Pathfinder-RPG.Simulacre mineur</link><link>Pathfinder-RPG.Singes fous</link><link>Pathfinder-RPG.Sirocco</link><link>Pathfinder-RPG.Sommeil</link><link>Pathfinder-RPG.sommeil de lamnésique</link><link>Pathfinder-RPG.Sommeil profond</link><link>Pathfinder-RPG.Son imaginaire</link><link>Pathfinder-RPG.Songe</link><link>Pathfinder-RPG.songe mineur</link><link>Pathfinder-RPG.Sorcière</link><link>Pathfinder-RPG.sort Abri</link><link>Pathfinder-RPG.sort Absorption dénergie</link><link>Pathfinder-RPG.sort Cauchemar</link><link>Pathfinder-RPG.sort contrôle des morts-vivants</link><link>Pathfinder-RPG.sort Déguisement</link><link>Pathfinder-RPG.Sort lointain</link><link>Pathfinder-RPG.sort Malédiction</link><link>Pathfinder-RPG.sort Résistance</link><link>Pathfinder-RPG.sort Saignement</link><link>Pathfinder-RPG.Sort sélectif</link><link>Pathfinder-RPG.sort Vision dans le noir</link><link>Pathfinder-RPG.sort Vol</link><link>Pathfinder-RPG.Souffle de dragon</link><link>Pathfinder-RPG.Souffle de feu</link><link>Pathfinder-RPG.Souhait</link><link>Pathfinder-RPG.Souhait limité</link><link>Pathfinder-RPG.sous-type rakshasa</link><link>Pathfinder-RPG.Spasmes</link><link>Pathfinder-RPG.Sphère de feu</link><link>Pathfinder-RPG.Sphère dinvisibilité</link><link>Pathfinder-RPG.Sphère disolement</link><link>Pathfinder-RPG.Sphère glaciale</link><link>Pathfinder-RPG.Sphère prismatique</link><link>Pathfinder-RPG.Sphère téléguidée</link><link>Pathfinder-RPG.Splendeur de laigle</link><link>Pathfinder-RPG.Splendeur de laigle de groupe</link><link>Pathfinder-RPG.Statue</link><link>Pathfinder-RPG.Suffocation</link><link>Pathfinder-RPG.Suffocation de groupe</link><link>Pathfinder-RPG.Suggestion</link><link>Pathfinder-RPG.Suggestion de groupe</link><link>Pathfinder-RPG.Suppression</link><link>Pathfinder-RPG.Sylphe</link><link>Pathfinder-RPG.Symbole daliénation mentale</link><link>Pathfinder-RPG.Symbole de douleur</link><link>Pathfinder-RPG.Symbole de faiblesse</link><link>Pathfinder-RPG.Symbole de lenteur</link><link>Pathfinder-RPG.Symbole de lutte</link><link>Pathfinder-RPG.Symbole de miroir</link><link>Pathfinder-RPG.Symbole de mort</link><link>Pathfinder-RPG.Symbole de persuasion</link><link>Pathfinder-RPG.Symbole de révélation</link><link>Pathfinder-RPG.Symbole de sceau</link><link>Pathfinder-RPG.Symbole de scrutation</link><link>Pathfinder-RPG.Symbole de sommeil</link><link>Pathfinder-RPG.Symbole de terreur</link><link>Pathfinder-RPG.Symbole de vulnérabilité</link><link>Pathfinder-RPG.Symbole détourdissement</link><link>Pathfinder-RPG.Symbole fatal</link><link>Pathfinder-RPG.Tableau des dons (Art de la Magie)</link><link>Pathfinder-RPG.Tableau récapitulatif des compétences</link><link>Pathfinder-RPG.Tableau récapitulatif des dons</link><link>Pathfinder-RPG.tableau récapitulatif des dons (art de la guerre)</link><link>Pathfinder-RPG.tableau récapitulatif des dons (art de la magie)</link><link>Pathfinder-RPG.Talent magique</link><link>Pathfinder-RPG.Tataka</link><link>Pathfinder-RPG.Télékinésie</link><link>Pathfinder-RPG.téléportation</link><link>Pathfinder-RPG.Téléportation dobjet</link><link>Pathfinder-RPG.Téléportation interplanétaire</link><link>Pathfinder-RPG.Téléportation par cristal de glace</link><link>Pathfinder-RPG.Téléportation suprême</link><link>Pathfinder-RPG.Tempête de braises</link><link>Pathfinder-RPG.Tempête de cendres</link><link>Pathfinder-RPG.Tempête de grêle</link><link>Pathfinder-RPG.Tempête de neige</link><link>Pathfinder-RPG.Tempête de peste</link><link>Pathfinder-RPG.Tempête volcanique</link><link>Pathfinder-RPG.temp-MainPage</link><link>Pathfinder-RPG.Ténèbres</link><link>Pathfinder-RPG.Tentacules noirs</link><link>Pathfinder-RPG.Terrain hallucinatoire</link><link>Pathfinder-RPG.Terre maudite</link><link>Pathfinder-RPG.Terreur</link><link>Pathfinder-RPG.Terreur (mot de pouvoir)</link><link>Pathfinder-RPG.Terrible remord</link><link>Pathfinder-RPG.Texte illusoire</link><link>Pathfinder-RPG.Théurge mystique</link><link>Pathfinder-RPG.Tieffelin</link><link>Pathfinder-RPG.Tir aveuglant</link><link>Pathfinder-RPG.Tir dénergie à larme de siège</link><link>Pathfinder-RPG.Tir dénergie à larme de siège supérieur</link><link>Pathfinder-RPG.Tir longue distance</link><link>Pathfinder-RPG.Tir par ricochet</link><link>Pathfinder-RPG.Toile daraignée</link><link>Pathfinder-RPG.Toile fantasmagorique</link><link>Pathfinder-RPG.Torrent hydraulique</link><link>Pathfinder-RPG.Torture</link><link>Pathfinder-RPG.Toucher de givre</link><link>Pathfinder-RPG.Tours de magie ou oraisons supplémentaires</link><link>Pathfinder-RPG.Traduction</link><link>Pathfinder-RPG.Tranquillité euphorique</link><link>Pathfinder-RPG.Transfert de puissance élémentaire</link><link>Pathfinder-RPG.Transformation de maître</link><link>Pathfinder-RPG.Transformation martiale</link><link>Pathfinder-RPG.Transmutation de la boue en pierre</link><link>Pathfinder-RPG.Transmutation de la pierre en boue</link><link>Pathfinder-RPG.Transmutation de la pierre en chair</link><link>Pathfinder-RPG.Transmutation du sang en acide</link><link>Pathfinder-RPG.Traversée des ombres</link><link>Pathfinder-RPG.Traverser lespace</link><link>Pathfinder-RPG.Trébucher dans un trou</link><link>Pathfinder-RPG.Trou de mémoire</link><link>Pathfinder-RPG.Tsunami</link><link>Pathfinder-RPG.Tuer</link><link>Pathfinder-RPG.Utilisation dObjets Magiques</link><link>Pathfinder-RPG.Vague</link><link>Pathfinder-RPG.Vague acide</link><link>Pathfinder-RPG.Vague mondiale</link><link>Pathfinder-RPG.Vagues de fatigue</link><link>Pathfinder-RPG.Vagues dépuisement</link><link>Pathfinder-RPG.vagues dextase</link><link>Pathfinder-RPG.Vengeance fantasmagorique</link><link>Pathfinder-RPG.Vengeance pour outrage</link><link>Pathfinder-RPG.Vent de murmures</link><link>Pathfinder-RPG.Ventriloquie</link><link>Pathfinder-RPG.Vents capricieux</link><link>Pathfinder-RPG.Vents cinglants</link><link>Pathfinder-RPG.Vents de la vengeance</link><link>Pathfinder-RPG.Vérité</link><link>Pathfinder-RPG.Verrou</link><link>Pathfinder-RPG.Verrou dimensionnel</link><link>Pathfinder-RPG.Verrou du mage</link><link>Pathfinder-RPG.Verrouillage</link><link>Pathfinder-RPG.Vexgit</link><link>Pathfinder-RPG.Vibration destructrice</link><link>Pathfinder-RPG.village voilé</link><link>Pathfinder-RPG.Vision dans le noir (partagé)</link><link>Pathfinder-RPG.Vision dans le noir supérieure</link><link>Pathfinder-RPG.Vision infernale</link><link>Pathfinder-RPG.Vision lointaine</link><link>Pathfinder-RPG.Vision lucide</link><link>Pathfinder-RPG.Vision magique</link><link>Pathfinder-RPG.Vision magique suprême</link><link>Pathfinder-RPG.Vision mystique</link><link>Pathfinder-RPG.Voile</link><link>Pathfinder-RPG.Voile lunaire</link><link>Pathfinder-RPG.Voile répugnant</link><link>Pathfinder-RPG.Voir lalignement</link><link>Pathfinder-RPG.Vol de groupe</link><link>Pathfinder-RPG.Vol de soins</link><link>Pathfinder-RPG.Vol de voix</link><link>Pathfinder-RPG.Vol supérieur</link><link>Pathfinder-RPG.Vortex</link><link>Pathfinder-RPG.Zone dantimagie</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Lignages</link><link>Pathfinder-RPG.Liste des sorts densorceleursmagiciens</link><link>Pathfinder-RPG.Sang mêlé (ensorceleur)</link><link>Pathfinder-RPG.Sang sauvage (ensorceleur)</link><link>Pathfinder-RPG.Ensorceleur</link><link>Pathfinder-RPG.Art de la magie</link><link>Pathfinder-RPG.Artisanat</link><link>Pathfinder-RPG.Bluff</link><link>Pathfinder-RPG.Connaissances</link><link>Pathfinder-RPG.Estimation</link><link>Pathfinder-RPG.Intimidation</link><link>Pathfinder-RPG.Profession</link><link>Pathfinder-RPG.Utilisation dObjets Magiques</link><link>Pathfinder-RPG.Vol</link><link>Pathfinder-RPG.Intelligence</link><link>Pathfinder-RPG.Magicien</link><link>Pathfinder-RPG.Charisme</link><link>Pathfinder-RPG.DD</link><link>Pathfinder-RPG.Caractéristiques</link><link>Pathfinder-RPG.Prêtre</link><link>Pathfinder-RPG.Dispense de composantes matérielles</link></outLinks>
+  <body><![CDATA[
+&lt;div class=&quot;fright&quot;&gt;&lt;b&gt;&lt;i&gt;Voir aussi les &lt;a class=&quot;pagelink&quot; href=&quot;Lignages.html&quot; title=&quot;Les lignages d&amp;#39;ensorceleurs&quot;&gt;lignages&lt;/a&gt; d&#39;ensorceleurs.&lt;/i&gt;&lt;/b&gt;&lt;br/&gt;
+&lt;b&gt;&lt;i&gt;Voir aussi la &lt;a class=&quot;pagelink&quot; href=&quot;Liste-Des-Sorts-Densorceleursmagiciens.html&quot; title=&quot;Liste des sorts d&amp;#39;ensorceleurs/magiciens&quot;&gt;liste des sorts des ensorceleurs&lt;/a&gt;.&lt;/i&gt;&lt;/b&gt;&lt;br/&gt;
+&lt;b&gt;Voir les arch&#233;types de l&#39;ensorceleur&lt;/b&gt;&amp;emsp;
+&lt;ul ID=&quot;ensorceleur&quot; CLASS=&quot;listecach&#233;e cadrebas&quot;&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Sang-M&#234;l&#233;-(Ensorceleur).html&quot; title=&quot;Sang m&#234;l&#233;&quot;&gt;Sang m&#233;l&#233;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Sang-Sauvage-(Ensorceleur).html&quot; title=&quot;Sang sauvage&quot;&gt;Sang sauvage&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;&lt;br/&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;i&gt;Un ensorceleur peut &#234;tre l’h&#233;ritier d’une lign&#233;e o&#249; le contr&#244;le de la magie vient naturellement, l’&#233;lu d’une divinit&#233;, le rejeton d’une cr&#233;ature monstrueuse, un pion du destin ou simplement le r&#233;cipiendaire d’un pouvoir magique capricieux mais, dans tous les cas, c’est au plus profond de lui-m&#234;me qu’il puise les talents magiques qui lui accordent une puissance que bien peu de mortels parviennent &#224; concevoir. Les ensorceleurs sont des &#234;tres touch&#233;s par la magie, dont les pouvoirs inn&#233;s menacent &#224; tout moment de consumer leur vie. Ils font sans cesse appel &#224; leurs myst&#233;rieuses capacit&#233;s et les affinent en apprenant peu &#224; peu comment contr&#244;ler leur h&#233;ritage et accomplir des exploits magiques toujours plus puissants. Les capacit&#233;s et les origines de ces puissants lanceurs de sorts sont tout aussi vari&#233;es que les mani&#232;res dont ils choisissent d’utiliser leurs dons inn&#233;s. Certains cherchent &#224; dompter leurs pouvoirs gr&#226;ce &#224; la m&#233;ditation et &#224; la discipline et parviennent peu &#224; peu &#224; ma&#238;triser leur fantastique h&#233;ritage alors que d’autres s’abandonnent &#224; la magie et la laissent contr&#244;ler leur vie, avec des r&#233;sultats souvent explosifs. Dans tous les cas, les ensorceleurs appr&#233;hendent de mani&#232;re instinctive ce que d’autres lanceurs de sorts ne parviennent &#224; ma&#238;triser qu’au bout de toute une vie de travail ; pour eux, la magie est plus qu’un simple don ou qu’un domaine d’&#233;tudes : c’est leur vie.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;&lt;a name=&quot;TABLEENSORCELEUR&quot;&gt;&lt;/a&gt;
+&lt;center&gt;
+&lt;table CLASS=&quot;tablo&quot;&gt;&lt;caption&gt;L&#39;ensorceleur&lt;/caption&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td ROWSPAN=&quot;2&quot;&gt;Niveau&lt;/td&gt;&lt;td ROWSPAN=&quot;2&quot;&gt;BBA&lt;/td&gt;&lt;td ROWSPAN=&quot;2&quot;&gt;R&#233;flexes&lt;/td&gt;&lt;td ROWSPAN=&quot;2&quot;&gt;Vigueur&lt;/td&gt;&lt;td ROWSPAN=&quot;2&quot;&gt;Volont&#233;&lt;/td&gt;&lt;td ROWSPAN=&quot;2&quot; CLASS=&quot;gauche&quot;&gt;Sp&#233;cial&lt;/td&gt;&lt;td COLSPAN=&quot;9&quot; CLASS=&quot;avecsoustitre&quot;&gt;Sorts par jour&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;soustitre&quot;&gt;&lt;td&gt;1er&lt;/td&gt;&lt;td&gt;2e&lt;/td&gt;&lt;td&gt;3e&lt;/td&gt;&lt;td&gt;4e&lt;/td&gt;&lt;td&gt;5e&lt;/td&gt;&lt;td&gt;6e&lt;/td&gt;&lt;td&gt;7e&lt;/td&gt;&lt;td&gt;8e&lt;/td&gt;&lt;td&gt;9e&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier&quot;&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;+0&lt;/td&gt;&lt;td&gt;+0&lt;/td&gt;&lt;td&gt;+0&lt;/td&gt;&lt;td&gt;+2&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Ensorceleur.html#LIGNAGE&quot; title=&quot;L&amp;#39;ensorceleur&quot;&gt;pouvoir de lignage&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Ensorceleur.html#TOURSDEMAGIE&quot; title=&quot;L&amp;#39;ensorceleur&quot;&gt;tours de magie&lt;/a&gt;, &lt;br/&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Ensorceleur.html#DISPENSEDECOMPOSANTES&quot; title=&quot;L&amp;#39;ensorceleur&quot;&gt;dispense de composantes&lt;/a&gt;&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;+1&lt;/td&gt;&lt;td&gt;+0&lt;/td&gt;&lt;td&gt;+0&lt;/td&gt;&lt;td&gt;+3&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;+1&lt;/td&gt;&lt;td&gt;+1&lt;/td&gt;&lt;td&gt;+1&lt;/td&gt;&lt;td&gt;+3&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Ensorceleur.html#LIGNAGE&quot; title=&quot;L&amp;#39;ensorceleur&quot;&gt;pouvoir de lignage&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Ensorceleur.html#LIGNAGE&quot; title=&quot;L&amp;#39;ensorceleur&quot;&gt;sort de lignage&lt;/a&gt;&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;+2&lt;/td&gt;&lt;td&gt;+1&lt;/td&gt;&lt;td&gt;+1&lt;/td&gt;&lt;td&gt;+4&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;+2&lt;/td&gt;&lt;td&gt;+1&lt;/td&gt;&lt;td&gt;+1&lt;/td&gt;&lt;td&gt;+4&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Ensorceleur.html#LIGNAGE&quot; title=&quot;L&amp;#39;ensorceleur&quot;&gt;sort de lignage&lt;/a&gt;&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;+3&lt;/td&gt;&lt;td&gt;+2&lt;/td&gt;&lt;td&gt;+2&lt;/td&gt;&lt;td&gt;+5&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;7&lt;/td&gt;&lt;td&gt;+3&lt;/td&gt;&lt;td&gt;+2&lt;/td&gt;&lt;td&gt;+2&lt;/td&gt;&lt;td&gt;+5&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Ensorceleur.html#LIGNAGE&quot; title=&quot;L&amp;#39;ensorceleur&quot;&gt;don de lignage&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Ensorceleur.html#LIGNAGE&quot; title=&quot;L&amp;#39;ensorceleur&quot;&gt;sort de lignage&lt;/a&gt;&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;8&lt;/td&gt;&lt;td&gt;+4&lt;/td&gt;&lt;td&gt;+2&lt;/td&gt;&lt;td&gt;+2&lt;/td&gt;&lt;td&gt;+6&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&amp;nbsp; &lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;9&lt;/td&gt;&lt;td&gt;+4&lt;/td&gt;&lt;td&gt;+3&lt;/td&gt;&lt;td&gt;+3&lt;/td&gt;&lt;td&gt;+6&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Ensorceleur.html#LIGNAGE&quot; title=&quot;L&amp;#39;ensorceleur&quot;&gt;pouvoir de lignage&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Ensorceleur.html#LIGNAGE&quot; title=&quot;L&amp;#39;ensorceleur&quot;&gt;sort de lignage&lt;/a&gt;&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;+5&lt;/td&gt;&lt;td&gt;+3&lt;/td&gt;&lt;td&gt;+3&lt;/td&gt;&lt;td&gt;+7&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;11&lt;/td&gt;&lt;td&gt;+5&lt;/td&gt;&lt;td&gt;+3&lt;/td&gt;&lt;td&gt;+3&lt;/td&gt;&lt;td&gt;+7&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Ensorceleur.html#LIGNAGE&quot; title=&quot;L&amp;#39;ensorceleur&quot;&gt;sort de lignage&lt;/a&gt;&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;12&lt;/td&gt;&lt;td&gt;+6/+1&lt;/td&gt;&lt;td&gt;+4&lt;/td&gt;&lt;td&gt;+4&lt;/td&gt;&lt;td&gt;+8&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;13&lt;/td&gt;&lt;td&gt;+6/+1&lt;/td&gt;&lt;td&gt;+4&lt;/td&gt;&lt;td&gt;+4&lt;/td&gt;&lt;td&gt;+8&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Ensorceleur.html#LIGNAGE&quot; title=&quot;L&amp;#39;ensorceleur&quot;&gt;don de lignage&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Ensorceleur.html#LIGNAGE&quot; title=&quot;L&amp;#39;ensorceleur&quot;&gt;sort de lignage&lt;/a&gt;&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;14&lt;/td&gt;&lt;td&gt;+7/+2&lt;/td&gt;&lt;td&gt;+4&lt;/td&gt;&lt;td&gt;+4&lt;/td&gt;&lt;td&gt;+9&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&amp;nbsp; &lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;15&lt;/td&gt;&lt;td&gt;+7/+2&lt;/td&gt;&lt;td&gt;+5&lt;/td&gt;&lt;td&gt;+5&lt;/td&gt;&lt;td&gt;+9&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Ensorceleur.html#LIGNAGE&quot; title=&quot;L&amp;#39;ensorceleur&quot;&gt;pouvoir de lignage&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Ensorceleur.html#LIGNAGE&quot; title=&quot;L&amp;#39;ensorceleur&quot;&gt;sort de lignage&lt;/a&gt;&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;16&lt;/td&gt;&lt;td&gt;+8/+3&lt;/td&gt;&lt;td&gt;+5&lt;/td&gt;&lt;td&gt;+5&lt;/td&gt;&lt;td&gt;+10&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;17&lt;/td&gt;&lt;td&gt;+8/+3&lt;/td&gt;&lt;td&gt;+5&lt;/td&gt;&lt;td&gt;+5&lt;/td&gt;&lt;td&gt;+10&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Ensorceleur.html#LIGNAGE&quot; title=&quot;L&amp;#39;ensorceleur&quot;&gt;sort de lignage&lt;/a&gt;&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;18&lt;/td&gt;&lt;td&gt;+9/+4&lt;/td&gt;&lt;td&gt;+6&lt;/td&gt;&lt;td&gt;+6&lt;/td&gt;&lt;td&gt;+11&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;19&lt;/td&gt;&lt;td&gt;+9/+4&lt;/td&gt;&lt;td&gt;+6&lt;/td&gt;&lt;td&gt;+6&lt;/td&gt;&lt;td&gt;+11&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Ensorceleur.html#LIGNAGE&quot; title=&quot;L&amp;#39;ensorceleur&quot;&gt;don de lignage&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Ensorceleur.html#LIGNAGE&quot; title=&quot;L&amp;#39;ensorceleur&quot;&gt;sort de lignage&lt;/a&gt;&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;20&lt;/td&gt;&lt;td&gt;+10/+5&lt;/td&gt;&lt;td&gt;+6&lt;/td&gt;&lt;td&gt;+6&lt;/td&gt;&lt;td&gt;+12&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Ensorceleur.html#LIGNAGE&quot; title=&quot;L&amp;#39;ensorceleur&quot;&gt;pouvoir de lignage&lt;/a&gt;&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/center&gt;&lt;br /&gt;&lt;br /&gt;&lt;div style=&quot;float:right; background-color: #fff; padding: 0 0 16px 16px&quot;&gt;
+&lt;div style=&quot;border: 1px solid #4b3124; padding: 4px&quot;&gt;
+&lt;a name=&quot;SORTSCONNUSDELENSORCELEUR&quot;&gt;&lt;/a&gt;
+&lt;center&gt;
+&lt;table CLASS=&quot;tablo&quot;&gt;&lt;caption&gt;Sorts connus par l&#39;ensorceleur&lt;/caption&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td ROWSPAN=&quot;2&quot;&gt;Niveau&lt;/td&gt;&lt;td COLSPAN=&quot;10&quot; CLASS=&quot;avecsoustitre gauche&quot;&gt;Sorts connus&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;soustitre&quot;&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;1er&lt;/td&gt;&lt;td&gt;2e&lt;/td&gt;&lt;td&gt;3e&lt;/td&gt;&lt;td&gt;4e&lt;/td&gt;&lt;td&gt;5e&lt;/td&gt;&lt;td&gt;6e&lt;/td&gt;&lt;td&gt;7e&lt;/td&gt;&lt;td&gt;8e&lt;/td&gt;&lt;td&gt;9e&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier&quot;&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;7&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;7&lt;/td&gt;&lt;td&gt;7&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;8&lt;/td&gt;&lt;td&gt;8&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;9&lt;/td&gt;&lt;td&gt;8&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;9&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;11&lt;/td&gt;&lt;td&gt;9&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;12&lt;/td&gt;&lt;td&gt;9&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;13&lt;/td&gt;&lt;td&gt;9&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;14&lt;/td&gt;&lt;td&gt;9&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;15&lt;/td&gt;&lt;td&gt;9&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;16&lt;/td&gt;&lt;td&gt;9&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;17&lt;/td&gt;&lt;td&gt;9&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;18&lt;/td&gt;&lt;td&gt;9&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;19&lt;/td&gt;&lt;td&gt;9&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;20&lt;/td&gt;&lt;td&gt;9&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/center&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;b&gt;R&#244;le.&lt;/b&gt; Les ensorceleurs se d&#233;marquent par leur capacit&#233; &#224; lancer fr&#233;quemment un certain nombre de sorts choisis, ce qui en fait de puissants mages de combat. En se familiarisant avec un r&#233;pertoire de sorts limit&#233; mais sans cesse croissant, les ensorceleurs d&#233;couvrent souvent de nouvelles m&#233;thodes permettant d’utiliser de mani&#232;re versatile certains effets auxquels les autres lanceurs de sorts pourraient ne pas pr&#234;ter attention. Leur lignage leur octroie &#233;galement des capacit&#233;s additionnelles, ce qui les diff&#233;rencient les uns des autres.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Alignement.&lt;/b&gt; Au choix.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;D&#233;s de vie.&lt;/b&gt; d6.&lt;br /&gt;&lt;br /&gt;&lt;h2 class=&quot;separator&quot;&gt; Comp&#233;tences de classe &lt;a class=&quot;headeranchor&quot; id=&quot;Comp&#233;tences_de_classe_5&quot; href=&quot;#Comp&#233;tences_de_classe_5&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;Les comp&#233;tences de classe de l’ensorceleur sont les suivantes : &lt;a class=&quot;pagelink&quot; href=&quot;Art-De-La-Magie.html&quot; title=&quot;Art de la magie&quot;&gt;Art de la magie&lt;/a&gt; (Int), &lt;a class=&quot;pagelink&quot; href=&quot;Artisanat.html&quot; title=&quot;Artisanat&quot;&gt;Artisanat&lt;/a&gt; (Int), &lt;a class=&quot;pagelink&quot; href=&quot;Bluff.html&quot; title=&quot;Bluff&quot;&gt;Bluff&lt;/a&gt; (Cha), &lt;a class=&quot;pagelink&quot; href=&quot;Connaissances.html&quot; title=&quot;Connaissances&quot;&gt;Connaissances&lt;/a&gt; (myst&#232;res) (Int), &lt;a class=&quot;pagelink&quot; href=&quot;Estimation.html&quot; title=&quot;Estimation&quot;&gt;Estimation&lt;/a&gt; (Int), &lt;a class=&quot;pagelink&quot; href=&quot;Intimidation.html&quot; title=&quot;Intimidation&quot;&gt;Intimidation&lt;/a&gt; (Cha), &lt;a class=&quot;pagelink&quot; href=&quot;Profession.html&quot; title=&quot;Profession&quot;&gt;Profession&lt;/a&gt; (Sag), &lt;a class=&quot;pagelink&quot; href=&quot;Utilisation-Dobjets-Magiques.html&quot; title=&quot;Utilisation d&amp;#39;objets magiques&quot;&gt;Utilisation d’objets magiques&lt;/a&gt; (Cha) et &lt;a class=&quot;pagelink&quot; href=&quot;Vol.html&quot; title=&quot;Vol&quot;&gt;Vol&lt;/a&gt; (Dex).&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Points de comp&#233;tence par niveau.&lt;/b&gt; 2 + modificateur d’&lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#INTELLIGENCE&quot; title=&quot;L&amp;#39;Intelligence&quot;&gt;Intelligence&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;&lt;h2 class=&quot;separator&quot;&gt; Descriptif de la classe &lt;a class=&quot;headeranchor&quot; id=&quot;Descriptif_de_la_classe_6&quot; href=&quot;#Descriptif_de_la_classe_6&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;Les aptitudes de l’ensorceleur sont d&#233;crites ci-dessous.&lt;br /&gt;&lt;br /&gt;&lt;h3 class=&quot;separator&quot;&gt;Armes et armures&lt;a class=&quot;headeranchor&quot; id=&quot;Armes_et_armures_0&quot; href=&quot;#Armes_et_armures_0&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;
+L’ensorceleur est form&#233; au maniement de toutes les armes courantes mais pas au port des armures ni &#224; l’utilisation des boucliers. En effet, une armure restreint ses gestes, ce qui risque de faire &#233;chouer ses sorts &#224; composante gestuelle (voir &#171; &lt;a class=&quot;pagelink&quot; href=&quot;Magicien.html#SORTSPROFANESETARMURE&quot; title=&quot;Le magicien&quot;&gt;Sorts profanes et armure&lt;/a&gt; &#187;).&lt;br /&gt;&lt;br /&gt;&lt;h3 class=&quot;separator&quot;&gt;Sorts&lt;a class=&quot;headeranchor&quot; id=&quot;Sorts_1&quot; href=&quot;#Sorts_1&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;
+Un ensorceleur peut lancer des sorts profanes appartenant &#224; la &lt;a class=&quot;pagelink&quot; href=&quot;Liste-Des-Sorts-Densorceleursmagiciens.html&quot; title=&quot;Liste des sorts d&amp;#39;ensorceleurs/magiciens&quot;&gt;liste des sorts d’ensorceleur et de magicien&lt;/a&gt;. Il les lance sans avoir &#224; les pr&#233;parer &#224; l’avance. Pour apprendre ou lancer un sort, un ensorceleur doit avoir une valeur de &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#CHARISME&quot; title=&quot;Le Charisme&quot;&gt;Charisme&lt;/a&gt; au moins &#233;gale &#224; 10 + le niveau du sort. Le &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DEGREDEDIFFICULTE&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; des jets de sauvegarde contre ses sorts est &#233;gal &#224; 10 + le niveau du sort + le modificateur de &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#CHARISME&quot; title=&quot;Le Charisme&quot;&gt;Charisme&lt;/a&gt; de l’ensorceleur.&lt;br /&gt;&lt;br /&gt;Comme les autres lanceurs de sorts, l’ensorceleur ne peut lancer qu’un nombre de sorts donn&#233; de chaque niveau chaque jour. Son quota de sorts quotidiens est indiqu&#233; dans la Table &quot;&lt;a class=&quot;pagelink&quot; href=&quot;Ensorceleur.html#TABLEENSORCELEUR&quot; title=&quot;L&amp;#39;ensorceleur&quot;&gt;L&#39;Ensorceleur&lt;/a&gt;&quot;. En plus de cela, il re&#231;oit des sorts en bonus si sa valeur de &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#CHARISME&quot; title=&quot;Le Charisme&quot;&gt;Charisme&lt;/a&gt; est suffisamment &#233;lev&#233;e (voir la Table &quot;&lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#TABLEAUCARACTERISTIQUES&quot; title=&quot;Les caract&#233;ristiques&quot;&gt;Modificateurs de caract&#233;ristique et sorts en bonus&lt;/a&gt;&quot;).&lt;br /&gt;&lt;br /&gt;Le r&#233;pertoire de sorts d’un ensorceleur est tr&#232;s limit&#233;. Il commence sa carri&#232;re en connaissant seulement quatre sorts du niveau 0 et deux sorts de 1er niveau, tous choisis par le joueur. Lors de chaque passage de niveau, un ensorceleur apprend un ou plusieurs sorts suppl&#233;mentaires, comme indiqu&#233; dans la Table &quot;&lt;a class=&quot;pagelink&quot; href=&quot;Ensorceleur.html#SORTSCONNUSDELENSORCELEUR&quot; title=&quot;L&amp;#39;ensorceleur&quot;&gt;Sorts connus par l&#39;ensorceleur&lt;/a&gt;&quot; (contrairement au quota de sorts quotidiens, le nombre de sorts connus par un ensorceleur n’est pas modifi&#233; par son &#233;ventuel bonus de &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#CHARISME&quot; title=&quot;Le Charisme&quot;&gt;Charisme&lt;/a&gt; : les nombres de cette table sont fixes). Ces sorts peuvent &#234;tre choisis parmi la &lt;a class=&quot;pagelink&quot; href=&quot;Liste-Des-Sorts-Densorceleursmagiciens.html&quot; title=&quot;Liste des sorts d&amp;#39;ensorceleurs/magiciens&quot;&gt;liste des sorts courants d’ensorceleur et de magicien&lt;/a&gt;, mais il peut &#233;galement s’agir de sorts moins courants, que l’ensorceleur s’est entra&#238;n&#233; &#224; ma&#238;triser.&lt;br /&gt;&lt;br /&gt;
+Lorsqu’il atteint le niveau 4, et tous les deux niveaux suivants, un ensorceleur peut choisir d’apprendre un nouveau sort &#224; la place de l’un de ceux qu’il conna&#238;t d&#233;j&#224;. Il oublie alors un sort au profit d’un autre. Le niveau du nouveau sort doit &#234;tre identique &#224; celui du sort oubli&#233;. Un ensorceleur ne peut remplacer qu’un seul sort &#224; chaque fois, et doit choisir de le faire ou non au moment o&#249; il apprend de nouveaux sorts lors du passage de niveau.&lt;br /&gt;&lt;br /&gt;Contrairement &#224; un &lt;a class=&quot;pagelink&quot; href=&quot;Magicien.html&quot; title=&quot;Le magicien&quot;&gt;magicien&lt;/a&gt; ou &#224; un &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#234;tre.html&quot; title=&quot;Le pr&#234;tre&quot;&gt;pr&#234;tre&lt;/a&gt;, un ensorceleur n’a pas besoin de pr&#233;parer ses sorts &#224; l’avance. Il peut lancer n’importe quel sort de son r&#233;pertoire &#224; n’importe quel moment, &#224; condition de ne pas avoir &#233;puis&#233; son quota de sorts de ce niveau pour la journ&#233;e.&lt;br /&gt;&lt;br /&gt;&lt;a name=&quot;LIGNAGE&quot;&gt;&lt;/a&gt;
+&lt;h3 class=&quot;separator&quot;&gt;Lignage&lt;a class=&quot;headeranchor&quot; id=&quot;Lignage_2&quot; href=&quot;#Lignage_2&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;
+Chaque ensorceleur tire ses pouvoirs magiques d’une source li&#233;e &#224; son h&#233;ritage. Elle lui donne acc&#232;s &#224; des sorts, des dons suppl&#233;mentaires, une comp&#233;tence de classe additionnelle et d’autres capacit&#233;s sp&#233;ciales. Cette source peut &#234;tre un lien de sang ou un &#233;v&#233;nement extr&#234;me v&#233;cu par un de ses anc&#234;tres. Ainsi, un ensorceleur peut avoir un dragon comme parent &#233;loign&#233;, ou son grand-p&#232;re peut avoir conclu un contrat infernal avec un diable. Quelle que soit la nature de cette source, son influence se manifeste de diverses mani&#232;res au cours de l’&#233;volution du personnage. Un ensorceleur doit choisir un &lt;a class=&quot;pagelink&quot; href=&quot;Lignages.html&quot; title=&quot;Les lignages d&amp;#39;ensorceleurs&quot;&gt;lignage&lt;/a&gt; d&#232;s qu’il re&#231;oit son premier niveau d’ensorceleur. Ce choix ne peut plus &#234;tre modifi&#233; par la suite. Voir la &lt;a class=&quot;pagelink&quot; href=&quot;Lignages.html&quot; title=&quot;Les lignages d&amp;#39;ensorceleurs&quot;&gt;liste des lignages pour ensorceleurs&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;Au niveau 3 et tous les deux niveaux suivants, l’ensorceleur apprend un sort suppl&#233;mentaire associ&#233; &#224; son lignage. Ces sorts viennent s’ajouter au nombre de sorts indiqu&#233; dans la Table &quot;&lt;a class=&quot;pagelink&quot; href=&quot;Ensorceleur.html#SORTSCONNUSDELENSORCELEUR&quot; title=&quot;L&amp;#39;ensorceleur&quot;&gt;Sorts connus par l&#39;ensorceleur&lt;/a&gt;&quot;. L’ensorceleur ne peut pas les remplacer par d’autres sorts par la suite.&lt;br /&gt;&lt;br /&gt;Au niveau 7 et tous les six niveaux suivants, l’ensorceleur re&#231;oit un don suppl&#233;mentaire qu’il peut choisir dans une liste d&#233;pendant de son lignage. L’ensorceleur doit remplir les conditions du don qu’il choisit.&lt;br /&gt;&lt;br /&gt;Un ensorceleur de sang sauvage poss&#232;de une mutation d’un lignage plus ordinaire, avec un arcane et au moins un pouvoir de lignage diff&#233;rents par rapport &#224; la version classique. Pour cr&#233;er un ensorceleur au sang sauvage, il faut choisir un lignage existant puis choisir l’une des mutations de lignage associ&#233;es &#224; ce lignage. L’ensorceleur utilise les comp&#233;tences de classe, les sorts suppl&#233;mentaires et les dons suppl&#233;mentaires associ&#233;s au lignage et l’arcane de lignage mut&#233;. Il utilise les pouvoirs habituels de son lignage, sauf quand ils sont remplac&#233;s par ceux de lignage mut&#233;.&lt;br /&gt;&lt;br /&gt;&lt;a name=&quot;TOURSDEMAGIE&quot;&gt;&lt;/a&gt;
+&lt;h3 class=&quot;separator&quot;&gt;Tours de magie&lt;a class=&quot;headeranchor&quot; id=&quot;Tours_de_magie_3&quot; href=&quot;#Tours_de_magie_3&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;
+Les ensorceleurs apprennent un certain nombre de tours de magie (ou sorts de niveau 0) comme indiqu&#233; dans la Table &quot;&lt;a class=&quot;pagelink&quot; href=&quot;Ensorceleur.html#SORTSCONNUSDELENSORCELEUR&quot; title=&quot;L&amp;#39;ensorceleur&quot;&gt;Sorts connus par l&#39;ensorceleur&lt;/a&gt;&quot;. Ces sorts sont lanc&#233;s de la m&#234;me mani&#232;re que les autres mais ils ne r&#233;duisent pas le quota quotidien de l’ensorceleur et peuvent &#234;tre utilis&#233;s ind&#233;finiment.&lt;br /&gt;&lt;br /&gt;&lt;a name=&quot;DISPENSEDECOMPOSANTES&quot;&gt;&lt;/a&gt;
+&lt;h3 class=&quot;separator&quot;&gt;Dispense de composantes&lt;a class=&quot;headeranchor&quot; id=&quot;Dispense_de_composantes_4&quot; href=&quot;#Dispense_de_composantes_4&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;
+Un ensorceleur re&#231;oit le don &lt;a class=&quot;pagelink&quot; href=&quot;Dispense-De-Composantes-Mat&#233;rielles.html&quot; title=&quot;Dispense de composantes mat&#233;rielles&quot;&gt;Dispense de composantes mat&#233;rielles&lt;/a&gt; comme don suppl&#233;mentaire au niveau 1.
+]]></body>
+  <raw><![CDATA[{s:MenuClasses}
+<div class="fright">'''''Voir aussi les [[lignages]] d'ensorceleurs.'''''<br/>
+'''''Voir aussi la [[liste des sorts densorceleursmagiciens|liste des sorts des ensorceleurs]].'''''<br/>
+{s:PM0|ensorceleur}'''Voir les archétypes de l'ensorceleur'''&emsp;
+<ul ID="ensorceleur" CLASS="listecachée cadrebas">
+  <li>[[Sang mêlé (ensorceleur)|Sang mélé]]</li>
+  <li>[[Sang sauvage (ensorceleur)|Sang sauvage]]</li>
+</ul></div><br/>
+
+
+
+''Un ensorceleur peut être l’héritier d’une lignée où le contrôle de la magie vient naturellement, l’élu d’une divinité, le rejeton d’une créature monstrueuse, un pion du destin ou simplement le récipiendaire d’un pouvoir magique capricieux mais, dans tous les cas, c’est au plus profond de lui-même qu’il puise les talents magiques qui lui accordent une puissance que bien peu de mortels parviennent à concevoir. Les ensorceleurs sont des êtres touchés par la magie, dont les pouvoirs innés menacent à tout moment de consumer leur vie. Ils font sans cesse appel à leurs mystérieuses capacités et les affinent en apprenant peu à peu comment contrôler leur héritage et accomplir des exploits magiques toujours plus puissants. Les capacités et les origines de ces puissants lanceurs de sorts sont tout aussi variées que les manières dont ils choisissent d’utiliser leurs dons innés. Certains cherchent à dompter leurs pouvoirs grâce à la méditation et à la discipline et parviennent peu à peu à maîtriser leur fantastique héritage alors que d’autres s’abandonnent à la magie et la laissent contrôler leur vie, avec des résultats souvent explosifs. Dans tous les cas, les ensorceleurs appréhendent de manière instinctive ce que d’autres lanceurs de sorts ne parviennent à maîtriser qu’au bout de toute une vie de travail ; pour eux, la magie est plus qu’un simple don ou qu’un domaine d’études : c’est leur vie.''
+
+{s:Reference|TABLEENSORCELEUR}
+<center>
+{| CLASS="tablo"
+|+ L'ensorceleur
+|- CLASS="titre"
+| ROWSPAN="2" | Niveau
+| ROWSPAN="2" | BBA
+| ROWSPAN="2" | Réflexes
+| ROWSPAN="2" | Vigueur
+| ROWSPAN="2" | Volonté
+| ROWSPAN="2" CLASS="gauche" | Spécial
+| COLSPAN="9" CLASS="avecsoustitre" | Sorts par jour
+|- CLASS="soustitre"
+| 1er
+| 2e
+| 3e
+| 4e
+| 5e
+| 6e
+| 7e
+| 8e
+| 9e
+| 
+|- CLASS="premier"
+| 1
+| +0
+| +0
+| +0
+| +2
+| CLASS="gauche" | [[ensorceleur#LIGNAGE|pouvoir de lignage]], [[ensorceleur#TOURSDEMAGIE|tours de magie]], <br/>[[ensorceleur#DISPENSEDECOMPOSANTES|dispense de composantes]]
+| 3
+| -
+| -
+| -
+| -
+| -
+| -
+| -
+| -
+|- CLASS="alt"
+| 2
+| +1
+| +0
+| +0
+| +3
+| CLASS="gauche" | &nbsp;
+| 4
+| -
+| -
+| -
+| -
+| -
+| -
+| -
+| -
+|-
+| 3
+| +1
+| +1
+| +1
+| +3
+| CLASS="gauche" | [[ensorceleur#LIGNAGE|pouvoir de lignage]], [[ensorceleur#LIGNAGE|sort de lignage]]
+| 5
+| -
+| -
+| -
+| -
+| -
+| -
+| -
+| -
+|- CLASS="alt"
+| 4
+| +2
+| +1
+| +1
+| +4
+| CLASS="gauche" | &nbsp;
+| 6
+| 3
+| -
+| -
+| -
+| -
+| -
+| -
+| -
+|-
+| 5
+| +2
+| +1
+| +1
+| +4
+| CLASS="gauche" | [[ensorceleur#LIGNAGE|sort de lignage]]
+| 6
+| 4
+| -
+| -
+| -
+| -
+| -
+| -
+| -
+|- CLASS="alt"
+| 6
+| +3
+| +2
+| +2
+| +5
+| CLASS="gauche" | &nbsp;
+| 6
+| 5
+| 3
+| -
+| -
+| -
+| -
+| -
+| -
+|-
+| 7
+| +3
+| +2
+| +2
+| +5
+| CLASS="gauche" | [[ensorceleur#LIGNAGE|don de lignage]], [[ensorceleur#LIGNAGE|sort de lignage]]
+| 6
+| 6
+| 4
+| -
+| -
+| -
+| -
+| -
+| -
+|- CLASS="alt"
+| 8
+| +4
+| +2
+| +2
+| +6
+| CLASS="gauche" | &nbsp; 
+| 6
+| 6
+| 5
+| 3
+| -
+| -
+| -
+| -
+| -
+|-
+| 9
+| +4
+| +3
+| +3
+| +6
+| CLASS="gauche" | [[ensorceleur#LIGNAGE|pouvoir de lignage]], [[ensorceleur#LIGNAGE|sort de lignage]]
+| 6
+| 6
+| 6
+| 4
+| -
+| -
+| -
+| -
+| -
+|- CLASS="alt"
+| 10
+| +5
+| +3
+| +3
+| +7
+| CLASS="gauche" | &nbsp;
+| 6
+| 6
+| 6
+| 5
+| 3
+| -
+| -
+| -
+| -
+|-
+| 11
+| +5
+| +3
+| +3
+| +7
+| CLASS="gauche" | [[ensorceleur#LIGNAGE|sort de lignage]]
+| 6
+| 6
+| 6
+| 6
+| 4
+| -
+| -
+| -
+| -
+|- CLASS="alt"
+| 12
+| +6/+1
+| +4
+| +4
+| +8
+| CLASS="gauche" | &nbsp;
+| 6
+| 6
+| 6
+| 6
+| 5
+| 3
+| -
+| -
+| -
+|-
+| 13
+| +6/+1
+| +4
+| +4
+| +8
+| CLASS="gauche" | [[ensorceleur#LIGNAGE|don de lignage]], [[ensorceleur#LIGNAGE|sort de lignage]]
+| 6
+| 6
+| 6
+| 6
+| 6
+| 4
+| -
+| -
+| -
+|- CLASS="alt"
+| 14
+| +7/+2
+| +4
+| +4
+| +9
+| CLASS="gauche" | &nbsp; 
+| 6
+| 6
+| 6
+| 6
+| 6
+| 5
+| 3
+| -
+| -
+|-
+| 15
+| +7/+2
+| +5
+| +5
+| +9
+| CLASS="gauche" | [[ensorceleur#LIGNAGE|pouvoir de lignage]], [[ensorceleur#LIGNAGE|sort de lignage]]
+| 6
+| 6
+| 6
+| 6
+| 6
+| 6
+| 4
+| -
+| -
+|- CLASS="alt"
+| 16
+| +8/+3
+| +5
+| +5
+| +10
+| CLASS="gauche" | &nbsp;
+| 6
+| 6
+| 6
+| 6
+| 6
+| 6
+| 5
+| 3
+| -
+|-
+| 17
+| +8/+3
+| +5
+| +5
+| +10
+| CLASS="gauche" | [[ensorceleur#LIGNAGE|sort de lignage]]
+| 6
+| 6
+| 6
+| 6
+| 6
+| 6
+| 6
+| 4
+| -
+|- CLASS="alt"
+| 18
+| +9/+4
+| +6
+| +6
+| +11
+| CLASS="gauche" | &nbsp;
+| 6
+| 6
+| 6
+| 6
+| 6
+| 6
+| 6
+| 5
+| 3
+|-
+| 19
+| +9/+4
+| +6
+| +6
+| +11
+| CLASS="gauche" | [[ensorceleur#LIGNAGE|don de lignage]], [[ensorceleur#LIGNAGE|sort de lignage]]
+| 6
+| 6
+| 6
+| 6
+| 6
+| 6
+| 6
+| 6
+| 4
+|- CLASS="alt"
+| 20
+| +10/+5
+| +6
+| +6
+| +12
+| CLASS="gauche" | [[ensorceleur#LIGNAGE|pouvoir de lignage]]
+| 6
+| 6
+| 6
+| 6
+| 6
+| 6
+| 6
+| 6
+| 6
+|}
+</center>
+
+<div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
+<div style="border: 1px solid #4b3124; padding: 4px">
+{s:Reference|SORTSCONNUSDELENSORCELEUR}
+<center>
+{| CLASS="tablo"
+|+ Sorts connus par l'ensorceleur
+|- CLASS="titre"
+| ROWSPAN="2" | Niveau
+| COLSPAN="10" CLASS="avecsoustitre gauche" | Sorts connus
+|- CLASS="soustitre"
+| 0
+| 1er
+| 2e
+| 3e
+| 4e
+| 5e
+| 6e
+| 7e
+| 8e
+| 9e
+|- CLASS="premier"
+| 1
+| 4
+| 2
+| -
+| -
+| -
+| -
+| -
+| -
+| -
+| -
+|- CLASS="alt"
+| 2
+| 5
+| 2
+| -
+| -
+| -
+| -
+| -
+| -
+| -
+| -
+|-
+| 3
+| 5
+| 3
+| -
+| -
+| -
+| -
+| -
+| -
+| -
+| -
+|- CLASS="alt"
+| 4
+| 6
+| 3
+| 1
+| -
+| -
+| -
+| -
+| -
+| -
+| -
+|-
+| 5
+| 6
+| 4
+| 2
+| -
+| -
+| -
+| -
+| -
+| -
+| -
+|- CLASS="alt"
+| 6
+| 7
+| 4
+| 2
+| 1
+| -
+| -
+| -
+| -
+| -
+| -
+|-
+| 7
+| 7
+| 5
+| 3
+| 2
+| -
+| -
+| -
+| -
+| -
+| -
+|- CLASS="alt"
+| 8
+| 8
+| 5
+| 3
+| 2
+| 1
+| -
+| -
+| -
+| -
+| -
+|-
+| 9
+| 8
+| 5
+| 4
+| 3
+| 2
+| -
+| -
+| -
+| -
+| -
+|- CLASS="alt"
+| 10
+| 9
+| 5
+| 4
+| 3
+| 2
+| 1
+| -
+| -
+| -
+| -
+|-
+| 11
+| 9
+| 5
+| 5
+| 4
+| 3
+| 2
+| -
+| -
+| -
+| -
+|- CLASS="alt"
+| 12
+| 9
+| 5
+| 5
+| 4
+| 3
+| 2
+| 1
+| -
+| -
+| -
+|-
+| 13
+| 9
+| 5
+| 5
+| 4
+| 4
+| 3
+| 2
+| -
+| -
+| -
+|- CLASS="alt"
+| 14
+| 9
+| 5
+| 5
+| 4
+| 4
+| 3
+| 2
+| 1
+| -
+| -
+|-
+| 15
+| 9
+| 5
+| 5
+| 4
+| 4
+| 4
+| 3
+| 2
+| -
+| -
+|- CLASS="alt"
+| 16
+| 9
+| 5
+| 5
+| 4
+| 4
+| 4
+| 3
+| 2
+| 1
+| -
+|-
+| 17
+| 9
+| 5
+| 5
+| 4
+| 4
+| 4
+| 3
+| 3
+| 2
+| -
+|- CLASS="alt"
+| 18
+| 9
+| 5
+| 5
+| 4
+| 4
+| 4
+| 3
+| 3
+| 2
+| 1
+|-
+| 19
+| 9
+| 5
+| 5
+| 4
+| 4
+| 4
+| 3
+| 3
+| 3
+| 2
+|- CLASS="alt"
+| 20
+| 9
+| 5
+| 5
+| 4
+| 4
+| 4
+| 3
+| 3
+| 3
+| 3
+|}
+</center></div></div>
+'''Rôle.''' Les ensorceleurs se démarquent par leur capacité à lancer fréquemment un certain nombre de sorts choisis, ce qui en fait de puissants mages de combat. En se familiarisant avec un répertoire de sorts limité mais sans cesse croissant, les ensorceleurs découvrent souvent de nouvelles méthodes permettant d’utiliser de manière versatile certains effets auxquels les autres lanceurs de sorts pourraient ne pas prêter attention. Leur lignage leur octroie également des capacités additionnelles, ce qui les différencient les uns des autres.
+
+'''Alignement.''' Au choix.
+
+'''Dés de vie.''' d6.
+
+=== Compétences de classe ===
+Les compétences de classe de l’ensorceleur sont les suivantes : [[Art de la magie]] (Int), [[Artisanat]] (Int), [[Bluff]] (Cha), [[Connaissances]] (mystères) (Int), [[Estimation]] (Int), [[Intimidation]] (Cha), [[Profession]] (Sag), [[Utilisation dobjets magiques|Utilisation d’objets magiques]] (Cha) et [[Vol]] (Dex).
+
+'''Points de compétence par niveau.''' 2 + modificateur d’[[Intelligence]].
+
+=== Descriptif de la classe ===
+Les aptitudes de l’ensorceleur sont décrites ci-dessous.
+
+====Armes et armures====
+
+L’ensorceleur est formé au maniement de toutes les armes courantes mais pas au port des armures ni à l’utilisation des boucliers. En effet, une armure restreint ses gestes, ce qui risque de faire échouer ses sorts à composante gestuelle (voir « [[Magicien#SORTSPROFANESETARMURE|Sorts profanes et armure]] »).
+
+====Sorts====
+
+Un ensorceleur peut lancer des sorts profanes appartenant à la [[Liste des sorts densorceleursmagiciens|liste des sorts d’ensorceleur et de magicien]]. Il les lance sans avoir à les préparer à l’avance. Pour apprendre ou lancer un sort, un ensorceleur doit avoir une valeur de [[Charisme]] au moins égale à 10 + le niveau du sort. Le [[DD]] des jets de sauvegarde contre ses sorts est égal à 10 + le niveau du sort + le modificateur de [[Charisme]] de l’ensorceleur.
+
+Comme les autres lanceurs de sorts, l’ensorceleur ne peut lancer qu’un nombre de sorts donné de chaque niveau chaque jour. Son quota de sorts quotidiens est indiqué dans la Table "[[ensorceleur#TABLEENSORCELEUR|L'Ensorceleur]]". En plus de cela, il reçoit des sorts en bonus si sa valeur de [[Charisme]] est suffisamment élevée (voir la Table "[[caractéristiques#TABLEAUCARACTERISTIQUES|Modificateurs de caractéristique et sorts en bonus]]").
+
+Le répertoire de sorts d’un ensorceleur est très limité. Il commence sa carrière en connaissant seulement quatre sorts du niveau 0 et deux sorts de 1er niveau, tous choisis par le joueur. Lors de chaque passage de niveau, un ensorceleur apprend un ou plusieurs sorts supplémentaires, comme indiqué dans la Table "[[ensorceleur#SORTSCONNUSDELENSORCELEUR|Sorts connus par l'ensorceleur]]" (contrairement au quota de sorts quotidiens, le nombre de sorts connus par un ensorceleur n’est pas modifié par son éventuel bonus de [[Charisme]] : les nombres de cette table sont fixes). Ces sorts peuvent être choisis parmi la [[Liste des sorts densorceleursmagiciens|liste des sorts courants d’ensorceleur et de magicien]], mais il peut également s’agir de sorts moins courants, que l’ensorceleur s’est entraîné à maîtriser.
+
+{s:ImageDroite|Illustrations/PNJ/Seoni.jpg|35%}
+Lorsqu’il atteint le niveau 4, et tous les deux niveaux suivants, un ensorceleur peut choisir d’apprendre un nouveau sort à la place de l’un de ceux qu’il connaît déjà. Il oublie alors un sort au profit d’un autre. Le niveau du nouveau sort doit être identique à celui du sort oublié. Un ensorceleur ne peut remplacer qu’un seul sort à chaque fois, et doit choisir de le faire ou non au moment où il apprend de nouveaux sorts lors du passage de niveau.
+
+Contrairement à un [[magicien]] ou à un [[prêtre]], un ensorceleur n’a pas besoin de préparer ses sorts à l’avance. Il peut lancer n’importe quel sort de son répertoire à n’importe quel moment, à condition de ne pas avoir épuisé son quota de sorts de ce niveau pour la journée.
+
+{s:reference|LIGNAGE}
+====Lignage====
+
+Chaque ensorceleur tire ses pouvoirs magiques d’une source liée à son héritage. Elle lui donne accès à des sorts, des dons supplémentaires, une compétence de classe additionnelle et d’autres capacités spéciales. Cette source peut être un lien de sang ou un événement extrême vécu par un de ses ancêtres. Ainsi, un ensorceleur peut avoir un dragon comme parent éloigné, ou son grand-père peut avoir conclu un contrat infernal avec un diable. Quelle que soit la nature de cette source, son influence se manifeste de diverses manières au cours de l’évolution du personnage. Un ensorceleur doit choisir un [[lignages|lignage]] dès qu’il reçoit son premier niveau d’ensorceleur. Ce choix ne peut plus être modifié par la suite. Voir la [[lignages|liste des lignages pour ensorceleurs]].
+
+Au niveau 3 et tous les deux niveaux suivants, l’ensorceleur apprend un sort supplémentaire associé à son lignage. Ces sorts viennent s’ajouter au nombre de sorts indiqué dans la Table "[[ensorceleur#SORTSCONNUSDELENSORCELEUR|Sorts connus par l'ensorceleur]]". L’ensorceleur ne peut pas les remplacer par d’autres sorts par la suite.
+
+Au niveau 7 et tous les six niveaux suivants, l’ensorceleur reçoit un don supplémentaire qu’il peut choisir dans une liste dépendant de son lignage. L’ensorceleur doit remplir les conditions du don qu’il choisit.
+
+{s:um}Un ensorceleur de sang sauvage possède une mutation d’un lignage plus ordinaire, avec un arcane et au moins un pouvoir de lignage différents par rapport à la version classique. Pour créer un ensorceleur au sang sauvage, il faut choisir un lignage existant puis choisir l’une des mutations de lignage associées à ce lignage. L’ensorceleur utilise les compétences de classe, les sorts supplémentaires et les dons supplémentaires associés au lignage et l’arcane de lignage muté. Il utilise les pouvoirs habituels de son lignage, sauf quand ils sont remplacés par ceux de lignage muté.
+
+{s:Reference|TOURSDEMAGIE}
+====Tours de magie====
+
+Les ensorceleurs apprennent un certain nombre de tours de magie (ou sorts de niveau 0) comme indiqué dans la Table "[[ensorceleur#SORTSCONNUSDELENSORCELEUR|Sorts connus par l'ensorceleur]]". Ces sorts sont lancés de la même manière que les autres mais ils ne réduisent pas le quota quotidien de l’ensorceleur et peuvent être utilisés indéfiniment.
+
+{s:Reference|DISPENSEDECOMPOSANTES}
+====Dispense de composantes====
+
+Un ensorceleur reçoit le don [[Dispense de composantes matérielles]] comme don supplémentaire au niveau 1.]]></raw>
+  <fullName>Pathfinder-RPG.Ensorceleur</fullName>
+</wikiPage>

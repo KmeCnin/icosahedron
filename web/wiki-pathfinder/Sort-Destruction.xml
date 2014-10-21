@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Destruction</title>
+  <categories><category>Pathfinder-RPG.Manuel des joueurs</category><category>Pathfinder-RPG.Règles officielles</category><category>Pathfinder-RPG.Sort</category><category>Pathfinder-RPG.Sort prêtre 7</category></categories>
+  <lastModified>2012-11-02 18:36:01Z</lastModified>
+  <version>2</version>
+  <inLinks><link>Pathfinder-RPG.Armes magiques</link><link>Pathfinder-RPG.Glossaire des sorts</link><link>Pathfinder-RPG.Liste des sorts</link><link>Pathfinder-RPG.Liste des sorts de prêtres</link><link>Pathfinder-RPG.Liste des sorts de sorcière</link><link>Pathfinder-RPG.Manœuvres offensives</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Armes magiques</link><link>Pathfinder-RPG.destruction</link><link>Pathfinder-RPG.Nécromancie</link><link>Pathfinder-RPG.Registre</link><link>Pathfinder-RPG.Prêtre</link><link>Pathfinder-RPG.Action simple</link><link>Pathfinder-RPG.composantes</link><link>Pathfinder-RPG.niveau</link><link>Pathfinder-RPG.instantanée</link><link>Pathfinder-RPG.Vigueur</link><link>Pathfinder-RPG.Présentation des sorts</link><link>Pathfinder-RPG.NLS</link><link>Pathfinder-RPG.Résurrection suprême</link><link>Pathfinder-RPG.Souhait</link><link>Pathfinder-RPG.Résurrection</link><link>Pathfinder-RPG.Miracle</link></outLinks>
+  <body><![CDATA[
+&lt;b&gt;&#201;cole&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#NECROMANCIE&quot; title=&quot;N&#233;cromancie&quot;&gt;N&#233;cromancie&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;er-Un-Sort.html#REGISTRE&quot; title=&quot;Registre&quot;&gt;mort&lt;/a&gt;) ; &lt;b&gt;Niveau&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#234;tre.html&quot; title=&quot;Le pr&#234;tre&quot;&gt;Pr&#234;&lt;/a&gt; 7&lt;br/&gt;
+&lt;b&gt;Temps d&#39;incantation&lt;/b&gt; 1 &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions.html#SIMPLE&quot; title=&quot;Action simple&quot;&gt;action simple&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Composantes&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#COMPOSANTES&quot; title=&quot;composantes&quot;&gt;V, G, F&lt;/a&gt; (symbole sacr&#233; ou maudit d’une valeur de 500 po)&lt;br/&gt;
+&lt;b&gt;Port&#233;e&lt;/b&gt; courte (7,50 m + 1,50 m/2 &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#NIVEAU&quot; title=&quot;niveau&quot;&gt;niveaux&lt;/a&gt;) (5 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt; + 1 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;/2 &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#NIVEAU&quot; title=&quot;niveau&quot;&gt;niveaux&lt;/a&gt;)&lt;br/&gt;
+&lt;b&gt;Cible&lt;/b&gt; 1 cr&#233;ature&lt;br/&gt;
+&lt;b&gt;Dur&#233;e&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#DUREE&quot; title=&quot;instantan&#233;e&quot;&gt;instantan&#233;e&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Jet de sauvegarde&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;Vigueur&quot;&gt;Vigueur&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#JETSDESAUVEGARDE&quot; title=&quot;Pr&#233;sentation des sorts&quot;&gt;partiel&lt;/a&gt; ; &lt;b&gt;R&#233;sistance &#224; la magie&lt;/b&gt; oui&lt;br /&gt;&lt;br /&gt;Ce sort inflige imm&#233;diatement 10 points de d&#233;g&#226;ts par &lt;a class=&quot;pagelink&quot; href=&quot;Lancer-Des-Sorts.html#NLS&quot; title=&quot;NLS&quot;&gt;niveau de lanceur de sorts&lt;/a&gt;. S’il tue la cible, il consume le corps de celle-ci dans une flamme sacr&#233;e (ou maudite) (mais ni son &#233;quipement ni ses possessions). Si la victime r&#233;ussit son jet de &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;Vigueur&quot;&gt;Vigueur&lt;/a&gt;, elle perd tout de m&#234;me 10d6 points de vie. Un individu tu&#233; par ce sort ne peut &#234;tre ramen&#233; &#224; la vie que par une &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;R&#233;surrection-Supr&#234;me.html&quot; title=&quot;R&#233;surrection supr&#234;me&quot;&gt;r&#233;surrection supr&#234;me&lt;/a&gt;&lt;/i&gt;, par un &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Souhait.html&quot; title=&quot;Souhait&quot;&gt;souhait&lt;/a&gt;&lt;/i&gt; &#233;nonc&#233; avec le plus grand soin et suivi d’une &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;R&#233;surrection.html&quot; title=&quot;R&#233;surrection&quot;&gt;r&#233;surrection&lt;/a&gt;&lt;/i&gt;, ou par un &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Miracle.html&quot; title=&quot;Miracle&quot;&gt;miracle&lt;/a&gt;&lt;/i&gt;.
+]]></body>
+  <raw><![CDATA[{s:Desambi|Destruction est également le nom d'une [[Armes magiques#Destruction|propriété d'armes magiques]] et d'une [[destruction|manœuvre de combat]].}
+'''École''' [[Nécromancie]] ([[registre|mort]]) ; '''Niveau''' [[prêtre|Prê]] 7<br/>
+'''Temps d'incantation''' 1 [[action simple]]<br/>
+'''Composantes''' [[composantes|V, G, F]] (symbole sacré ou maudit d’une valeur de 500 po)<br/>
+'''Portée''' courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])<br/>
+'''Cible''' 1 créature<br/>
+'''Durée''' [[instantanée]]<br/>
+'''Jet de sauvegarde''' [[Vigueur]], [[Présentation des sorts#JETSDESAUVEGARDE|partiel]] ; '''Résistance à la magie''' oui
+
+Ce sort inflige immédiatement 10 points de dégâts par [[NLS|niveau de lanceur de sorts]]. S’il tue la cible, il consume le corps de celle-ci dans une flamme sacrée (ou maudite) (mais ni son équipement ni ses possessions). Si la victime réussit son jet de [[Vigueur]], elle perd tout de même 10d6 points de vie. Un individu tué par ce sort ne peut être ramené à la vie que par une ''[[résurrection suprême]]'', par un ''[[souhait]]'' énoncé avec le plus grand soin et suivi d’une ''[[résurrection]]'', ou par un ''[[miracle]]''.
+]]></raw>
+  <fullName>Pathfinder-RPG.sort destruction</fullName>
+</wikiPage>

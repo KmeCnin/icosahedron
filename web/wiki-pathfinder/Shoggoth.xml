@@ -1,0 +1,167 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Shoggoth</title>
+  <categories><category>Pathfinder-RPG.Bestiaire</category><category>Pathfinder-RPG.Monstre</category></categories>
+  <lastModified>2013-02-06 20:59:40Z</lastModified>
+  <version>9</version>
+  <inLinks><link>Pathfinder-RPG.Glossaire des monstres</link><link>Pathfinder-RPG.Liste de monstres par FP</link><link>Pathfinder-RPG.Liste de monstres par milieu naturel</link><link>Pathfinder-RPG.Liste de monstres par type</link><link>Pathfinder-RPG.Monstres</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.type Vase</link><link>Pathfinder-RPG.sous-type aquatique</link><link>Pathfinder-RPG.odorat</link><link>Pathfinder-RPG.Perception des vibrations</link><link>Pathfinder-RPG.vision dans le noir</link><link>Pathfinder-RPG.vision nocturne</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Étreinte</link><link>Pathfinder-RPG.constriction</link><link>Pathfinder-RPG.Piétinement</link><link>Pathfinder-RPG.Attaque en puissance</link><link>Pathfinder-RPG.Attaques réflexes</link><link>Pathfinder-RPG.Combat en aveugle</link><link>Pathfinder-RPG.Critique ralentissant</link><link>Pathfinder-RPG.Don pour les critiques</link><link>Pathfinder-RPG.Enchaînement</link><link>Pathfinder-RPG.Science de linitiative</link><link>Pathfinder-RPG.Science de la destruction</link><link>Pathfinder-RPG.Science du critique</link><link>Pathfinder-RPG.Succession denchaînements</link><link>Pathfinder-RPG.Vigueur surhumaine</link><link>Pathfinder-RPG.Volonté de fer</link><link>Pathfinder-RPG.Escalade</link><link>Pathfinder-RPG.Natation</link><link>Pathfinder-RPG.Amphibie</link><link>Pathfinder-RPG.Action libre</link><link>Pathfinder-RPG.Volonté</link><link>Pathfinder-RPG.DD</link><link>Pathfinder-RPG.Confus</link><link>Pathfinder-RPG.affaiblissement temporaire</link><link>Pathfinder-RPG.Sagesse</link><link>Pathfinder-RPG.jet de sauvegarde</link><link>Pathfinder-RPG.Charisme</link><link>Pathfinder-RPG.Agrippé</link><link>Pathfinder-RPG.Engloutissement</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Shoggoth&lt;div style=&quot;float:right;&quot;&gt;FP 19&lt;/div&gt;&lt;/div&gt;
+ 
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Bestiaire&lt;/i&gt; p.259
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 204.800
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Vase.html&quot; title=&quot;Vase&quot;&gt;Vase&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Aquatique.html&quot; title=&quot;Aquatique (sous-type)&quot;&gt;aquatique&lt;/a&gt;) de taille TG, CN
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +11 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Odorat-(Capacit&#233;).html&quot; title=&quot;odorat&quot;&gt;odorat&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Perception-Des-Vibrations-(Capacit&#233;).html&quot; title=&quot;Perception des vibrations&quot;&gt;perception des vibrations&lt;/a&gt; (12 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), vision &#224; 360&#176;, &lt;a class=&quot;pagelink&quot; href=&quot;Capacit&#233;s-Sp&#233;ciales.html#VISIONDANSLENOIR&quot; title=&quot;vision dans le noir&quot;&gt;vision dans le noir&lt;/a&gt; (24 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Nocturne-(Capacit&#233;).html&quot; title=&quot;vision nocturne&quot;&gt;vision nocturne&lt;/a&gt; ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +33
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 33, contact 15, pris au d&#233;pourvu 26 (Dex +7, naturelle +18, taille -2)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 333 (23d8+230) ; gu&#233;rison rapide 10
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +14, &lt;b&gt;Vig&lt;/b&gt; +19, &lt;b&gt;Vol&lt;/b&gt; +15
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Immunit&#233;s&lt;/b&gt; aveuglement, charme, froid, son, surdit&#233;, &lt;a class=&quot;pagelink&quot; href=&quot;Type-Vase.html&quot; title=&quot;Vase&quot;&gt;traits des vases&lt;/a&gt; ; &lt;b&gt;RD&lt;/b&gt; 10/— ; &lt;b&gt;R&#233;sistances&lt;/b&gt; acide 20, &#233;lectricit&#233; 20, feu 20 ; &lt;b&gt;RM&lt;/b&gt; 30 
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 15 m (10 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), escalade 9 m (6 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), nage 15 m (10 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; 4 coups +30 (3d6+15/19-20 et &lt;a class=&quot;pagelink&quot; href=&quot;&#201;treinte-(Capacit&#233;).html&quot; title=&quot;&#201;treinte&quot;&gt;&#233;treinte&lt;/a&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Espace&lt;/b&gt; 4,5 m (3 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) ; &lt;b&gt;Allonge&lt;/b&gt; 9 m (6 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaques sp&#233;ciales&lt;/b&gt; cacophonie induisant la folie, &lt;a class=&quot;pagelink&quot; href=&quot;Constriction-(Capacit&#233;).html&quot; title=&quot;constriction&quot;&gt;constriction&lt;/a&gt; (3d6+15), enveloppement (4d6+22 contondant et 8d6 acide, CA 19, pv 33), &lt;a class=&quot;pagelink&quot; href=&quot;Pi&#233;tinement.html&quot; title=&quot;Pi&#233;tinement&quot;&gt;pi&#233;tinement&lt;/a&gt; (4d8+15, DD 36)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 40, &lt;b&gt;Dex&lt;/b&gt; 24, &lt;b&gt;Con&lt;/b&gt; 31, &lt;b&gt;Int&lt;/b&gt; 5, &lt;b&gt;Sag&lt;/b&gt; 22, &lt;b&gt;Cha&lt;/b&gt; 13
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +17, &lt;b&gt;BMO&lt;/b&gt; +34 (+39 pour la lutte), &lt;b&gt;DMD&lt;/b&gt; 51 (croc-en-jambe impossible)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Attaque-En-Puissance.html&quot; title=&quot;Attaque en puissance&quot;&gt;Attaque en puissance&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Attaques-R&#233;flexes.html&quot; title=&quot;Attaques r&#233;flexes&quot;&gt;Attaques r&#233;flexes&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Combat-En-Aveugle.html&quot; title=&quot;Combat en aveugle&quot;&gt;Combat en aveugle&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Critique-Ralentissant.html&quot; title=&quot;Critique ralentissant&quot;&gt;Critique ralentissant&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Don-Pour-Les-Critiques.html&quot; title=&quot;Don pour les critiques&quot;&gt;Don pour les critiques&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Encha&#238;nement.html&quot; title=&quot;Encha&#238;nement&quot;&gt;Encha&#238;nement&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Science-De-Linitiative.html&quot; title=&quot;Science de l&amp;#39;initiative&quot;&gt;Science de l&#39;initiative&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Science-De-La-Destruction.html&quot; title=&quot;Science de la destruction&quot;&gt;Science de la destruction&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Science-Du-Critique.html&quot; title=&quot;Science du critique&quot;&gt;Science du critique&lt;/a&gt; (coup), &lt;a class=&quot;pagelink&quot; href=&quot;Succession-Dencha&#238;nements.html&quot; title=&quot;Succession d&amp;#39;encha&#238;nements&quot;&gt;Succession d&#39;encha&#238;nements&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Vigueur-Surhumaine.html&quot; title=&quot;Vigueur surhumaine&quot;&gt;Vigueur surhumaine&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Volont&#233;-De-Fer.html&quot; title=&quot;Volont&#233; de fer&quot;&gt;Volont&#233; de fer&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Escalade.html&quot; title=&quot;Escalade&quot;&gt;Escalade&lt;/a&gt; +23, &lt;a class=&quot;pagelink&quot; href=&quot;Natation.html&quot; title=&quot;Natation&quot;&gt;Natation&lt;/a&gt; +23, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +33 ; &lt;b&gt;Modificateurs raciaux&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +4
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Langues&lt;/b&gt; aklo
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Particularit&#233;s&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Amphibie-(Capacit&#233;).html&quot; title=&quot;Amphibie&quot;&gt;amphibie&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; milieu aquatique ou sous terre, climat froid
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation sociale&lt;/b&gt; solitaire ou vague (2-6)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; standard
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Capacit&#233;s sp&#233;ciales&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Cacophonie ali&#233;nante (Sur)&lt;/b&gt; Par une &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions.html#LIBRE&quot; title=&quot;Action libre&quot;&gt;action libre&lt;/a&gt;, un shoggoth peut produire des sons qu&#39;aucun esprit vivant n&#39;est cens&#233; entendre. Toutes les cr&#233;atures situ&#233;es dans un rayon de 18 m (12 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) doivent r&#233;ussir un jet de &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;Volont&#233;&quot;&gt;Volont&#233;&lt;/a&gt; de &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DEGREDEDIFFICULTE&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; 22 pour ne pas &#234;tre &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables.html#Confus&quot; title=&quot;Confus&quot;&gt;confuses&lt;/a&gt; pendant 1d6 rounds. Les cr&#233;atures affect&#233;es subissent un &lt;a class=&quot;pagelink&quot; href=&quot;Affaiblissement-Temporaire-(Capacit&#233;).html&quot; title=&quot;affaiblissement temporaire&quot;&gt;affaiblissement temporaire&lt;/a&gt; de 1d6 points de &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#SAGESSE&quot; title=&quot;La Sagesse&quot;&gt;Sagesse&lt;/a&gt;. Une cr&#233;ature qui r&#233;ussit son jet de sauvegarde ne peut plus &#234;tre affect&#233;e par la cacophonie produite par le shoggoth en question pendant 24 heures. C&#39;est un effet mental de son. Le &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;jet de sauvegarde&quot;&gt;jet de sauvegarde&lt;/a&gt; d&#233;pend du &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#CHARISME&quot; title=&quot;Le Charisme&quot;&gt;Charisme&lt;/a&gt;.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Enveloppement (Ext)&lt;/b&gt; Pour pouvoir utiliser cette capacit&#233;, un shoggoth doit effectuer un &lt;a class=&quot;pagelink&quot; href=&quot;Pi&#233;tinement.html&quot; title=&quot;Pi&#233;tinement&quot;&gt;pi&#233;tinement&lt;/a&gt; ou commencer son tour en ayant d&#233;j&#224; &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables.html#Agripp&#233;&quot; title=&quot;Agripp&#233;&quot;&gt;agripp&#233;&lt;/a&gt; une cr&#233;ature. Au cours du round, il peut tenter d&#39;envelopper toutes les cr&#233;atures qu&#39;il a agripp&#233;es ou toutes celles qu&#39;il peut pi&#233;tiner. En dehors de ces pr&#233;cisions, cette capacit&#233; fonctionne comme un &lt;a class=&quot;pagelink&quot; href=&quot;Engloutissement-(Capacit&#233;).html&quot; title=&quot;Engloutissement&quot;&gt;engloutissement&lt;/a&gt;, si ce n&#39;est le fait que, lorsqu&#39;une cr&#233;ature se d&#233;coupe un passage pour s&#39;extraire du shoggoth, cela ne laisse aucune ouverture dans le corps protoplasmique du monstre.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Vision &#224; 360&#176; (Ext)&lt;/b&gt; Gr&#226;ce au nombreux organes sensoriels dont ils disposent, les shoggoths b&#233;n&#233;ficient d&#39;un bonus racial de +4 aux jets de &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; et ne peuvent pas &#234;tre pris en tenaille.
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;td&gt;&lt;div&gt;&lt;i&gt;Cette immense amas g&#233;latineux noir avance &#224; toute allure donnant vie &#224;
+des yeux, des bouches et des choses plus &#233;tranges encore.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Beaucoup de personnes, m&#234;mes parmi les lunatiques et les proph&#232;tes
+de malheurs, pr&#233;tendent que les monstrueux shoggoths sont seulement
+des hallucinations caus&#233;es par les drogues ou des cauchemars
+heureusement irr&#233;els. Mais la v&#233;rit&#233; est vraiment beaucoup plus terrible
+que &#231;a. Les shoggoths existent bel et bien, mais ils se tapissent dans les
+fosses oc&#233;aniques les plus profondes ou dans les grottes et les ruines
+oubli&#233;es les plus isol&#233;es. Ils ne quittent leurs tani&#232;res que rarement, afin
+de r&#233;pandre la folie et la destruction dans leur sillage gluant.&lt;br /&gt;&lt;br /&gt;Les premiers shoggoths ont &#233;t&#233; cr&#233;&#233;s en des &#226;ges recul&#233;s, bien avant
+que les premiers dieux ne s’int&#233;ressent au plan Mat&#233;riel. D’aucuns
+disent que ce sont les aboleths qui les ont fabriqu&#233;s, mais certains
+textes anciens et &#233;tranges font allusion &#224; une race plus ancienne
+encore qui aurait construit les premiers shoggoths pour s’en faire des
+esclaves. Avec le temps, ces effroyables cr&#233;atures auraient d&#233;velopp&#233;
+une intelligence suffisante pour se rebeller contre leurs cr&#233;ateurs et,
+aujourd’hui, ces cr&#233;atures patientes et puissantes se tapiraient dans
+les profondeurs que la lumi&#232;re n’atteint jamais.
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Shoggoth|FP 19}
+{s:pucem|Vase|Aquatique|Froid} 
+{s:BDTexte|''Source : Bestiaire'' p.259}
+{s:BDTexte|'''PX''' 204.800}
+{s:BDTexte|[[type Vase|Vase]] ([[sous-type aquatique|aquatique]]) de taille TG, CN}
+{s:BDTexte|'''Init''' +11 ; '''Sens''' [[odorat]], [[perception des vibrations]] (12 {s:c}), vision à 360°, [[vision dans le noir]] (24 {s:c}), [[vision nocturne]] ; [[Perception]] +33}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 33, contact 15, pris au dépourvu 26 (Dex +7, naturelle +18, taille -2)}
+{s:BDTexte|'''pv''' 333 (23d8+230) ; guérison rapide 10}
+{s:BDTexte|'''Réf''' +14, '''Vig''' +19, '''Vol''' +15}
+{s:BDTexte|'''Immunités''' aveuglement, charme, froid, son, surdité, [[type vase|traits des vases]] ; '''RD''' 10/— ; '''Résistances''' acide 20, électricité 20, feu 20 ; '''RM''' 30 }
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 15 m (10 {s:c}), escalade 9 m (6 {s:c}), nage 15 m (10 {s:c})}
+{s:BDTexte|'''Corps à corps''' 4 coups +30 (3d6+15/19-20 et [[étreinte]])}
+{s:BDTexte|'''Espace''' 4,5 m (3 {s:c}) ; '''Allonge''' 9 m (6 {s:c})}
+{s:BDTexte|'''Attaques spéciales''' cacophonie induisant la folie, [[constriction]] (3d6+15), enveloppement (4d6+22 contondant et 8d6 acide, CA 19, pv 33), [[piétinement]] (4d8+15, DD 36)}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 40, '''Dex''' 24, '''Con''' 31, '''Int''' 5, '''Sag''' 22, '''Cha''' 13}
+{s:BDTexte|'''BBA''' +17, '''BMO''' +34 (+39 pour la lutte), '''DMD''' 51 (croc-en-jambe impossible)}
+{s:BDTexte|'''Dons''' [[Attaque en puissance]], [[Attaques réflexes]], [[Combat en aveugle]], [[Critique ralentissant]], [[Don pour les critiques]], [[Enchaînement]], [[Science de linitiative|Science de l'initiative]], [[Science de la destruction]], [[Science du critique]] (coup), [[Succession denchaînements|Succession d'enchaînements]], [[Vigueur surhumaine]], [[Volonté de fer]]}
+{s:BDTexte|'''Compétences''' [[Escalade]] +23, [[Natation]] +23, [[Perception]] +33 ; '''Modificateurs raciaux''' [[Perception]] +4}
+{s:BDTexte|'''Langues''' aklo}
+{s:BDTexte|'''Particularités''' [[amphibie]]}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' milieu aquatique ou sous terre, climat froid}
+{s:BDTexte|'''Organisation sociale''' solitaire ou vague (2-6)}
+{s:BDTexte|'''Trésor''' standard}
+{s:BDSousTitre|Capacités spéciales}
+{s:BDTexte|'''Cacophonie aliénante (Sur)''' Par une [[action libre]], un shoggoth peut produire des sons qu'aucun esprit vivant n'est censé entendre. Toutes les créatures situées dans un rayon de 18 m (12 {s:c}) doivent réussir un jet de [[Volonté]] de [[DD]] 22 pour ne pas être [[confus|confuses]] pendant 1d6 rounds. Les créatures affectées subissent un [[affaiblissement temporaire]] de 1d6 points de [[Sagesse]]. Une créature qui réussit son jet de sauvegarde ne peut plus être affectée par la cacophonie produite par le shoggoth en question pendant 24 heures. C'est un effet mental de son. Le [[jet de sauvegarde]] dépend du [[Charisme]].}
+{s:BDTexte|'''Enveloppement (Ext)''' Pour pouvoir utiliser cette capacité, un shoggoth doit effectuer un [[piétinement]] ou commencer son tour en ayant déjà [[agrippé]] une créature. Au cours du round, il peut tenter d'envelopper toutes les créatures qu'il a agrippées ou toutes celles qu'il peut piétiner. En dehors de ces précisions, cette capacité fonctionne comme un [[engloutissement]], si ce n'est le fait que, lorsqu'une créature se découpe un passage pour s'extraire du shoggoth, cela ne laisse aucune ouverture dans le corps protoplasmique du monstre.}
+{s:BDTexte|'''Vision à 360° (Ext)''' Grâce au nombreux organes sensoriels dont ils disposent, les shoggoths bénéficient d'un bonus racial de +4 aux jets de [[Perception]] et ne peuvent pas être pris en tenaille.}
+</div>
+</td><td><div>''Cette immense amas gélatineux noir avance à toute allure donnant vie à
+des yeux, des bouches et des choses plus étranges encore.''
+
+Beaucoup de personnes, mêmes parmi les lunatiques et les prophètes
+de malheurs, prétendent que les monstrueux shoggoths sont seulement
+des hallucinations causées par les drogues ou des cauchemars
+heureusement irréels. Mais la vérité est vraiment beaucoup plus terrible
+que ça. Les shoggoths existent bel et bien, mais ils se tapissent dans les
+fosses océaniques les plus profondes ou dans les grottes et les ruines
+oubliées les plus isolées. Ils ne quittent leurs tanières que rarement, afin
+de répandre la folie et la destruction dans leur sillage gluant.
+
+Les premiers shoggoths ont été créés en des âges reculés, bien avant
+que les premiers dieux ne s’intéressent au plan Matériel. D’aucuns
+disent que ce sont les aboleths qui les ont fabriqués, mais certains
+textes anciens et étranges font allusion à une race plus ancienne
+encore qui aurait construit les premiers shoggoths pour s’en faire des
+esclaves. Avec le temps, ces effroyables créatures auraient développé
+une intelligence suffisante pour se rebeller contre leurs créateurs et,
+aujourd’hui, ces créatures patientes et puissantes se tapiraient dans
+les profondeurs que la lumière n’atteint jamais.
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Shoggoth</fullName>
+</wikiPage>

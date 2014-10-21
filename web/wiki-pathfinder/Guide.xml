@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Guide</title>
+  <categories><category>Pathfinder-RPG.Advanced Player Guide</category><category>Pathfinder-RPG.Règles officielles</category><category>Pathfinder-RPG.Sort</category><category>Pathfinder-RPG.Sort prêtre 3</category><category>Pathfinder-RPG.Sort rôdeur 2</category><category>Pathfinder-RPG.Sort sorcière 3</category></categories>
+  <lastModified>2012-11-04 00:25:24Z</lastModified>
+  <version>2</version>
+  <inLinks><link>Pathfinder-RPG.Glossaire des sorts</link><link>Pathfinder-RPG.Liste des sorts (suite)</link><link>Pathfinder-RPG.Liste des sorts de prêtres</link><link>Pathfinder-RPG.Liste des sorts de rôdeurs</link><link>Pathfinder-RPG.Liste des sorts de sorcière</link><link>Pathfinder-RPG.Oracle des étoiles (oracle)</link><link>Pathfinder-RPG.protecteurs</link><link>Pathfinder-RPG.Thèmes de protecteurs</link><link>Pathfinder-RPG.TMP liste sorts APG</link><link>Pathfinder-RPG.TMP sorts APG</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.école divination</link><link>Pathfinder-RPG.Prêtre</link><link>Pathfinder-RPG.Rôdeur</link><link>Pathfinder-RPG.Sorcière</link><link>Pathfinder-RPG.composantes</link><link>Pathfinder-RPG.Présentation des sorts</link><link>Pathfinder-RPG.niveau</link><link>Pathfinder-RPG.Action simple</link><link>Pathfinder-RPG.Plans</link><link>Pathfinder-RPG.téléportation</link></outLinks>
+  <body><![CDATA[
+&lt;b&gt;&#201;cole&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#DIVINATION&quot; title=&quot;Divination&quot;&gt;Divination&lt;/a&gt;&#160;;&lt;b&gt; Niveau&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#234;tre.html&quot; title=&quot;Le pr&#234;tre&quot;&gt;pr&#234;tre&lt;/a&gt; 3, &lt;a class=&quot;pagelink&quot; href=&quot;R&#244;deur.html&quot; title=&quot;Le r&#244;deur&quot;&gt;r&#244;deur&lt;/a&gt; 2, &lt;a class=&quot;pagelink&quot; href=&quot;Sorci&#232;re.html&quot; title=&quot;La sorci&#232;re&quot;&gt;sorci&#232;re&lt;/a&gt; 3&lt;br/&gt;
+&lt;b&gt;Temps d&#39;incantation&lt;/b&gt; 1 minute&lt;br/&gt;
+&lt;b&gt;Composantes&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#COMPOSANTES&quot; title=&quot;composantes&quot;&gt;V, G, M&lt;/a&gt; (une bobine de fil ou une ficelle)&lt;br/&gt;
+&lt;b&gt;Port&#233;e&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#PORTEE&quot; title=&quot;Pr&#233;sentation des sorts&quot;&gt;personnelle&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Cible&lt;/b&gt; lanceur de sorts&lt;br/&gt;
+&lt;b&gt;Dur&#233;e&lt;/b&gt; 1 jour/&lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#NIVEAU&quot; title=&quot;niveau&quot;&gt;niveau&lt;/a&gt; (T)&lt;br /&gt;&lt;br /&gt;Quand le personnage lance ce sort, il forge un lien avec son environnement. Pendant toute la dur&#233;e du sort, il sera en permanence capable de d&#233;terminer approximativement, par une &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions.html#SIMPLE&quot; title=&quot;Action simple&quot;&gt;action simple&lt;/a&gt;, la distance qui le s&#233;pare de cet endroit et la direction dans laquelle il doit avancer pour le rejoindre. Le sort ne fonctionne plus si le personnage change de &lt;a class=&quot;pagelink&quot; href=&quot;Plans.html&quot; title=&quot;Les plans&quot;&gt;plan&lt;/a&gt;. La zone est consid&#233;r&#233;e comme &#171;&#160;&lt;i&gt;tr&#232;s famili&#232;re&lt;/i&gt;&#160;&#187; pour les sorts de &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;T&#233;l&#233;portation.html&quot; title=&quot;T&#233;l&#233;portation&quot;&gt;t&#233;l&#233;portation&lt;/a&gt;&lt;/i&gt; et autres. Le personnage ne peut se lier qu&#39;&#224; un endroit &#224; la fois. S&#39;il lance son sort dans un autre lieu, il ne pourra plus localiser le premier.
+]]></body>
+  <raw><![CDATA[{s:APG}
+'''École''' [[école divination|Divination]] ;''' Niveau''' [[prêtre]] 3, [[rôdeur]] 2, [[sorcière]] 3<br/>
+'''Temps d'incantation''' 1 minute<br/>
+'''Composantes''' [[Composantes|V, G, M]] (une bobine de fil ou une ficelle)<br/>
+'''Portée''' [[Présentation des sorts#PORTEE|personnelle]]<br/>
+'''Cible''' lanceur de sorts<br/>
+'''Durée''' 1 jour/[[niveau]] (T)
+
+Quand le personnage lance ce sort, il forge un lien avec son environnement. Pendant toute la durée du sort, il sera en permanence capable de déterminer approximativement, par une [[action simple]], la distance qui le sépare de cet endroit et la direction dans laquelle il doit avancer pour le rejoindre. Le sort ne fonctionne plus si le personnage change de [[plans|plan]]. La zone est considérée comme « ''très familière'' » pour les sorts de ''[[téléportation]]'' et autres. Le personnage ne peut se lier qu'à un endroit à la fois. S'il lance son sort dans un autre lieu, il ne pourra plus localiser le premier.
+]]></raw>
+  <fullName>Pathfinder-RPG.Guide</fullName>
+</wikiPage>

@@ -1,0 +1,132 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Éléphant</title>
+  <categories><category>Pathfinder-RPG.Bestiaire</category><category>Pathfinder-RPG.Monstre</category><category>Pathfinder-RPG.Règles officielles</category></categories>
+  <lastModified>2014-05-21 23:34:15Z</lastModified>
+  <version>8</version>
+  <inLinks><link>Pathfinder-RPG.Cavalier des bêtes (chevalier)</link><link>Pathfinder-RPG.Convocation dalliés naturels</link><link>Pathfinder-RPG.Convocation de monstres</link><link>Pathfinder-RPG.Glossaire des monstres</link><link>Pathfinder-RPG.Liste de monstres par FP</link><link>Pathfinder-RPG.Liste de monstres par milieu naturel</link><link>Pathfinder-RPG.Liste de monstres par type</link><link>Pathfinder-RPG.Monstres</link><link>Pathfinder-RPG.Sceptre merveilleux</link><link>Pathfinder-RPG.Statuette merveilleuse</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.type Animal</link><link>Pathfinder-RPG.odorat</link><link>Pathfinder-RPG.vision nocturne</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Piétinement (capacité)</link><link>Pathfinder-RPG.Attaque en puissance</link><link>Pathfinder-RPG.Endurance</link><link>Pathfinder-RPG.Science de la bousculade</link><link>Pathfinder-RPG.Talent</link><link>Pathfinder-RPG.Vigueur surhumaine</link><link>Pathfinder-RPG.Volonté de fer</link><link>Pathfinder-RPG.Piétinement</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;&#201;l&#233;phant&lt;div style=&quot;float:right;&quot;&gt;FP 7&lt;/div&gt;&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Bestiaire p.130&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 3.200
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Animal.html&quot; title=&quot;Animal&quot;&gt;Animal&lt;/a&gt; de taille TG, N
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +0 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Odorat-(Capacit&#233;).html&quot; title=&quot;odorat&quot;&gt;odorat&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Nocturne-(Capacit&#233;).html&quot; title=&quot;vision nocturne&quot;&gt;vision nocturne&lt;/a&gt; ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +21
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 17, contact 8, pris au d&#233;pourvu 17 (naturelle +9, taille -2)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 93 (11d8+44)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +7, &lt;b&gt;Vig&lt;/b&gt; +13, &lt;b&gt;Vol&lt;/b&gt; +6
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 12 m (8 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; d&#233;fenses, +16 (2d8+10), coup, +16 (2d6+10)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Espace&lt;/b&gt; 4,50 m (3 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) ; &lt;b&gt;Allonge&lt;/b&gt; 3 m (2 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaques sp&#233;ciales&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pi&#233;tinement-(Capacit&#233;).html&quot; title=&quot;Pi&#233;tinement (Ext)&quot;&gt;pi&#233;tinement&lt;/a&gt; (2d8+15; DD 25)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 30, &lt;b&gt;Dex&lt;/b&gt; 10, &lt;b&gt;Con&lt;/b&gt; 19, &lt;b&gt;Int&lt;/b&gt; 2, &lt;b&gt;Sag&lt;/b&gt; 13, &lt;b&gt;Cha&lt;/b&gt; 7
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +8, &lt;b&gt;BMO&lt;/b&gt; +20, &lt;b&gt;DMD&lt;/b&gt; 30 (34 contre le croc-en-jambe)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Attaque-En-Puissance.html&quot; title=&quot;Attaque en puissance&quot;&gt;Attaque en puissance&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Endurance.html&quot; title=&quot;Endurance&quot;&gt;Endurance&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Science-De-La-Bousculade.html&quot; title=&quot;Science de la bousculade&quot;&gt;Science de la bousculade&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Talent.html&quot; title=&quot;Talent&quot;&gt;Talent&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt;), &lt;a class=&quot;pagelink&quot; href=&quot;Vigueur-Surhumaine.html&quot; title=&quot;Vigueur surhumaine&quot;&gt;Vigueur surhumaine&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Volont&#233;-De-Fer.html&quot; title=&quot;Volont&#233; de fer&quot;&gt;Volont&#233; de fer&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +21
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; plaines chaudes
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation sociale&lt;/b&gt; solitaire ou troupeau (6-30)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; aucun
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;td&gt;&lt;div&gt;&lt;i&gt;Cet animal &#224; la peau tr&#232;s &#233;paisse arbore deux larges d&#233;fenses d’ivoire de part et d’autre de sa longue trompe pr&#233;hensile.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Ces grands et majestueux animaux terrestres, qui se rassemblent
+en groupes familiaux &#233;troitement li&#233;s pour parcourir
+les plaines, symbolisent la sagesse et la force.
+Les &#233;l&#233;phants n’ont pas beaucoup de
+pr&#233;dateurs mais on les chasse parfois
+pour leurs d&#233;fenses d’ivoire,
+qu’on transforme ensuite en
+bijoux, en statuettes ou
+en bibelots pour les
+riches.&lt;br /&gt;&lt;br /&gt;&lt;h3 class=&quot;separator&quot;&gt;L&#39;&#233;l&#233;phant comme compagnon animal&lt;a class=&quot;headeranchor&quot; id=&quot;L&#233;l&#233;phant_comme_compagnon_animal_0&quot; href=&quot;#L&#233;l&#233;phant_comme_compagnon_animal_0&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;
+&lt;b&gt;Caract&#233;ristiques de d&#233;part.&lt;/b&gt; &lt;b&gt;Taille&lt;/b&gt; M ; &lt;b&gt;Vitesse&lt;/b&gt; 12 m (8 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) ; &lt;b&gt;CA&lt;/b&gt; armure naturelle +4 ; &lt;b&gt;Attaque&lt;/b&gt; d&#233;fenses (1d8), coup (1d6) ; &lt;b&gt;Caract&#233;ristiques&lt;/b&gt; For 14, Dex 14, Con 13, Int 2, Sag 13, Cha 7 ; &lt;b&gt;Particularit&#233;s&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Odorat-(Capacit&#233;).html&quot; title=&quot;odorat&quot;&gt;odorat&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Nocturne-(Capacit&#233;).html&quot; title=&quot;vision nocturne&quot;&gt;vision nocturne&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;&#201;volution au niveau 7.&lt;/b&gt; &lt;b&gt;Taille&lt;/b&gt; G ; &lt;b&gt;CA&lt;/b&gt; armure naturelle +3 ; &lt;b&gt;Attaque&lt;/b&gt; d&#233;fenses (2d6), coup
+(1d8) ; &lt;b&gt;Caract&#233;ristiques&lt;/b&gt; For +8, Dex -2, Con +4 ; &lt;b&gt;Particularit&#233;s&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pi&#233;tinement.html&quot; title=&quot;Pi&#233;tinement&quot;&gt;Pi&#233;tinement&lt;/a&gt; (2d6).
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Éléphant|FP 7}
+{s:pucem|Animal|Plaines|Tropical}
+{s:BDTexte|''Source : Bestiaire p.130''}
+{s:BDTexte|'''PX''' 3.200}
+{s:BDTexte|[[type Animal|Animal]] de taille TG, N}
+{s:BDTexte|'''Init''' +0 ; '''Sens''' [[odorat]], [[vision nocturne]] ; [[Perception]] +21}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 17, contact 8, pris au dépourvu 17 (naturelle +9, taille -2)}
+{s:BDTexte|'''pv''' 93 (11d8+44)}
+{s:BDTexte|'''Réf''' +7, '''Vig''' +13, '''Vol''' +6}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 12 m (8 {s:c})}
+{s:BDTexte|'''Corps à corps''' défenses, +16 (2d8+10), coup, +16 (2d6+10)}
+{s:BDTexte|'''Espace''' 4,50 m (3 {s:c}) ; '''Allonge''' 3 m (2 {s:c})}
+{s:BDTexte|'''Attaques spéciales''' [[Piétinement (capacité)|piétinement]] (2d8+15; DD 25)}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 30, '''Dex''' 10, '''Con''' 19, '''Int''' 2, '''Sag''' 13, '''Cha''' 7}
+{s:BDTexte|'''BBA''' +8, '''BMO''' +20, '''DMD''' 30 (34 contre le croc-en-jambe)}
+{s:BDTexte|'''Dons''' [[Attaque en puissance]], [[Endurance]], [[Science de la bousculade]], [[Talent]] ([[Perception]]), [[Vigueur surhumaine]], [[Volonté de fer]]}
+{s:BDTexte|'''Compétences''' [[Perception]] +21}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' plaines chaudes}
+{s:BDTexte|'''Organisation sociale''' solitaire ou troupeau (6-30)}
+{s:BDTexte|'''Trésor''' aucun}
+</div>
+</td><td><div>''Cet animal à la peau très épaisse arbore deux larges défenses d’ivoire de part et d’autre de sa longue trompe préhensile.''
+
+Ces grands et majestueux animaux terrestres, qui se rassemblent
+en groupes familiaux étroitement liés pour parcourir
+les plaines, symbolisent la sagesse et la force.
+Les éléphants n’ont pas beaucoup de
+prédateurs mais on les chasse parfois
+pour leurs défenses d’ivoire,
+qu’on transforme ensuite en
+bijoux, en statuettes ou
+en bibelots pour les
+riches.
+
+====L'éléphant comme compagnon animal====
+
+'''Caractéristiques de départ.''' '''Taille''' M ; '''Vitesse''' 12 m (8 {s:c}) ; '''CA''' armure naturelle +4 ; '''Attaque''' défenses (1d8), coup (1d6) ; '''Caractéristiques''' For 14, Dex 14, Con 13, Int 2, Sag 13, Cha 7 ; '''Particularités''' [[odorat]], [[vision nocturne]].
+
+'''Évolution au niveau 7.''' '''Taille''' G ; '''CA''' armure naturelle +3 ; '''Attaque''' défenses (2d6), coup
+(1d8) ; '''Caractéristiques''' For +8, Dex -2, Con +4 ; '''Particularités''' [[Piétinement]] (2d6).
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Éléphant</fullName>
+</wikiPage>

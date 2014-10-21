@@ -1,0 +1,64 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Phycomide</title>
+  <categories></categories>
+  <lastModified>2013-02-06 21:52:55Z</lastModified>
+  <version>1</version>
+  <inLinks><link>Pathfinder-RPG.Glossaire des monstres</link><link>Pathfinder-RPG.Liste de monstres par FP</link><link>Pathfinder-RPG.Liste de monstres par milieu naturel</link><link>Pathfinder-RPG.Liste de monstres par type</link><link>Pathfinder-RPG.Monstres</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.type Plante</link><link>Pathfinder-RPG.Perception des vibrations</link><link>Pathfinder-RPG.Perception</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Phycomide&lt;div style=&quot;float:right;&quot;&gt;FP 4&lt;/div&gt;&lt;/div&gt;&lt;br /&gt;&lt;ul&gt;&lt;li&gt;&lt;i&gt;Source : Bestiaire 2 page 218&lt;/i&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;PX&lt;/b&gt; 1200&lt;/li&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Type-Plante.html&quot; title=&quot;Plante&quot;&gt;Plante&lt;/a&gt; de taille P, N&lt;/li&gt;&lt;li&gt;&lt;b&gt;Init&lt;/b&gt; +0 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Perception-Des-Vibrations-(Capacit&#233;).html&quot; title=&quot;Perception des vibrations&quot;&gt;perception des vibrations&lt;/a&gt; 9m ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +0&lt;br /&gt;&lt;div class=&quot;box&quot;&gt;D&#233;fense&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;CA&lt;/b&gt; 17, contact 11, pris au d&#233;pourvu 17 (naturelle +6, taille +1)&lt;/li&gt;&lt;li&gt;&lt;b&gt;pv&lt;/b&gt; 39 (6d8+12)&lt;/li&gt;&lt;li&gt;&lt;b&gt;R&#233;f&lt;/b&gt; +2, &lt;b&gt;Vig&lt;/b&gt; +7, &lt;b&gt;Vol&lt;/b&gt; +2&lt;/li&gt;&lt;li&gt;&lt;b&gt;Immunit&#233;s&lt;/b&gt; acide, traits des plantes &lt;br /&gt;&lt;div class=&quot;box&quot;&gt;Attaque&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;VD&lt;/b&gt; 3 m (2&lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)&lt;/li&gt;&lt;li&gt;&lt;b&gt;Distance&lt;/b&gt; boulette d’acide, +4 contact (2d6 acide plus spores)&lt;br /&gt;&lt;div class=&quot;box&quot;&gt;Caract&#233;ristiques&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;For&lt;/b&gt; 5, &lt;b&gt;Dex&lt;/b&gt; 10, &lt;b&gt;Con&lt;/b&gt; 15, &lt;b&gt;Int&lt;/b&gt; -, &lt;b&gt;Sag&lt;/b&gt; 11, &lt;b&gt;Cha&lt;/b&gt; 1&lt;/li&gt;&lt;li&gt;&lt;b&gt;BBA&lt;/b&gt; +4 ; &lt;b&gt;BMO&lt;/b&gt; +0 ; &lt;b&gt;DMD&lt;/b&gt; 10 (croc-en-jambe impossible) &lt;br /&gt;&lt;div class=&quot;box&quot;&gt;&#201;cologie&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;Environnement&lt;/b&gt; sous terre&lt;/li&gt;&lt;li&gt;&lt;b&gt;Organisation sociale&lt;/b&gt; solitaire ou infestation (2–8)&lt;/li&gt;&lt;li&gt;&lt;b&gt;Tr&#233;sor&lt;/b&gt; fortuit&lt;br /&gt;&lt;div class=&quot;box&quot;&gt;Pouvoirs sp&#233;ciaux&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;Boulette d’acide (Ext).&lt;/b&gt;  Un phycomide attaque en envoyant des boulettes d’acide depuis l’une de ses nombreuses tiges ressemblant &#224; des champignons. Cette attaque poss&#232;de un facteur de port&#233;e de 3 m&#232;tres. Un phycomide peut lancer jusqu’&#224; 6 boulettes d’acide par minute. Pendant les rounds o&#249; le phycomide n’a plus de boulettes d’acide, il ne peut plus attaquer et doit attendre que son stock d’acide se r&#233;g&#233;n&#232;re (ce qui prend 4 rounds) avant de poursuivre le combat.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Spores (Ext).&lt;/b&gt; Toutes les cr&#233;atures bless&#233;es par une boulette d’acide envoy&#233;e par un phycomide (ou qui consomment m&#234;me une portion minuscule de ce champignon) sont expos&#233;es &#224; ses spores, qui grandissent tr&#232;s rapidement &#224; l’int&#233;rieur des cr&#233;atures vivantes. Cette affliction est un effet de maladie, mais elle agit beaucoup plus rapidement que la plupart des maladies (en fait, quasiment aussi vite qu’un poison). Comme les poisons, les spores&lt;br /&gt;cessent d’agir apr&#232;s une courte p&#233;riode. Le corps des victimes qui sont tu&#233;es par des spores de phycomide s’ouvre&lt;br /&gt;1d4 rounds plus tard pour laisser &#233;merger un nouveau phycomide.&lt;/li&gt;&lt;li&gt;&lt;i&gt;Spores de phycomide&lt;/i&gt; : Maladie — blessure ou ingestion ; &lt;i&gt;JdS&lt;/i&gt; Vigueur DD 15 ; &lt;i&gt;fr&#233;quence&lt;/i&gt; 1/round pendant 6 rounds ; &lt;i&gt;effet&lt;/i&gt; affaiblissement temporaire 1d2 Con ; &lt;i&gt;gu&#233;rison&lt;/i&gt; 1 r&#233;ussite. Le DD du jet de sauvegarde d&#233;pend de la Constitution.&lt;br /&gt;&lt;/li&gt;&lt;/ul&gt;&lt;br /&gt;&lt;/div&gt;
+&lt;/td&gt;&lt;td&gt;&lt;div&gt;
+&lt;i&gt;Cet amas de champignons &#224; chapeaux pourpres qui poussent sur une vase verd&#226;tre tremble et se tortille tout en produisant des volutes de fum&#233;e.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Les phycomides sont des cr&#233;atures dangereuses qui poussent sous la forme de petits amas fumant nich&#233;s au sein de mati&#232;res organiques en d&#233;composition. On les trouve principalement dans les souterrains humides, au sein des tas de d&#233;chets et dans les endroits sales et oubli&#233;s. Le corps du phycomide est une masse de moisissure vert-brun qui peut se d&#233;placer en glissant sur le sol lorsqu’il a besoin de trouver une nouvelle charogne pour se nourrir. Plusieurs champignons poussent sur le corps du phycomide, avec des tiges vert sale et des chapeaux pourpres ou rouges qui
+semblent produire une fum&#233;e &#224; l’odeur rance. Il s’agit en fait de vapeurs qui proviennent des nombreuses boulettes d’acide que la plante produit pour se d&#233;fendre et pour se reproduire. Le phycomide expulse cette substance acide chaque fois qu’elle per&#231;oit du mouvement &#224; proximit&#233;. Les aventuriers exp&#233;riment&#233;s peuvent tromper un phycomide et le forcer &#224; r&#233;v&#233;ler sa v&#233;ritable nature en faisant bouger quelque chose pr&#232;s de lui. Par contre, les grandes infestations de phycomides qui s’enracinent au sein de collections de corps morts et &#233;parpill&#233;s peuvent donner lieu &#224; des rencontres beaucoup moins agr&#233;ables. Vu l’environnement crasseux o&#249; les phycomides poussent, les gobelins sont l’une des rares races qui ont appris &#224; coexister avec eux. Ces cr&#233;atures idiotes ne se contentent pas d’&#233;viter simplement les phycomides, ils vont jusqu’&#224; les cultiver et &#224; les amener dans des emplacements-clefs de leurs repaires o&#249; ils peuvent servir de gardiens et de sentinelles. Ils utilisent de longs b&#226;tons appel&#233;s &#171; b&#226;tons
+&#224; vase &#187; ou d&#233;posent des charognes &#224; l’odeur all&#233;chante pour inciter les phycomides &#224; se rendre l&#224; o&#249; ils veulent les placer. Manger du phycomide peut se r&#233;v&#233;ler mortel, mais de nombreuses tribus gobelins consid&#232;rent comme des h&#233;ros ceux qui parviennent &#224; en d&#233;vorer et &#224; survivre. Cela va sans dire mais, bien &#233;videmment, les repaires des
+gobelins qui utilisent des phycomides comme gardiens se transforment t&#244;t ou tard en repaires de phycomides : &#224; un
+moment donn&#233;, la chance finit toujours par abandonner les gobelins. &lt;br /&gt;&lt;br /&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;br /&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Phycomide|FP 4}
+{s:pucem|Plante|Souterrain|Tempéré}
+* ''Source : Bestiaire 2 page 218''
+* '''PX''' 1200
+* [[type Plante|Plante]] de taille P, N
+* '''Init''' +0 ; '''Sens''' [[perception des vibrations]] 9m ; [[Perception]] +0
+(((Défense)))
+* '''CA''' 17, contact 11, pris au dépourvu 17 (naturelle +6, taille +1)
+* '''pv''' 39 (6d8+12)
+* '''Réf''' +2, '''Vig''' +7, '''Vol''' +2
+* '''Immunités''' acide, traits des plantes 
+(((Attaque)))
+* '''VD''' 3 m (2{s:c})
+* '''Distance''' boulette d’acide, +4 contact (2d6 acide plus spores)
+(((Caractéristiques)))
+* '''For''' 5, '''Dex''' 10, '''Con''' 15, '''Int''' -, '''Sag''' 11, '''Cha''' 1
+* '''BBA''' +4 ; '''BMO''' +0 ; '''DMD''' 10 (croc-en-jambe impossible) 
+(((Écologie)))
+* '''Environnement''' sous terre
+* '''Organisation sociale''' solitaire ou infestation (2–8)
+* '''Trésor''' fortuit
+(((Pouvoirs spéciaux)))
+* '''Boulette d’acide (Ext).'''  Un phycomide attaque en envoyant des boulettes d’acide depuis l’une de ses nombreuses tiges ressemblant à des champignons. Cette attaque possède un facteur de portée de 3 mètres. Un phycomide peut lancer jusqu’à 6 boulettes d’acide par minute. Pendant les rounds où le phycomide n’a plus de boulettes d’acide, il ne peut plus attaquer et doit attendre que son stock d’acide se régénère (ce qui prend 4 rounds) avant de poursuivre le combat.
+* '''Spores (Ext).''' Toutes les créatures blessées par une boulette d’acide envoyée par un phycomide (ou qui consomment même une portion minuscule de ce champignon) sont exposées à ses spores, qui grandissent très rapidement à l’intérieur des créatures vivantes. Cette affliction est un effet de maladie, mais elle agit beaucoup plus rapidement que la plupart des maladies (en fait, quasiment aussi vite qu’un poison). Comme les poisons, les spores
+cessent d’agir après une courte période. Le corps des victimes qui sont tuées par des spores de phycomide s’ouvre
+1d4 rounds plus tard pour laisser émerger un nouveau phycomide.
+* ''Spores de phycomide'' : Maladie — blessure ou ingestion ; ''JdS'' Vigueur DD 15 ; ''fréquence'' 1/round pendant 6 rounds ; ''effet'' affaiblissement temporaire 1d2 Con ; ''guérison'' 1 réussite. Le DD du jet de sauvegarde dépend de la Constitution.
+
+</div>
+</td><td><div>
+''Cet amas de champignons à chapeaux pourpres qui poussent sur une vase verdâtre tremble et se tortille tout en produisant des volutes de fumée.''
+
+Les phycomides sont des créatures dangereuses qui poussent sous la forme de petits amas fumant nichés au sein de matières organiques en décomposition. On les trouve principalement dans les souterrains humides, au sein des tas de déchets et dans les endroits sales et oubliés. Le corps du phycomide est une masse de moisissure vert-brun qui peut se déplacer en glissant sur le sol lorsqu’il a besoin de trouver une nouvelle charogne pour se nourrir. Plusieurs champignons poussent sur le corps du phycomide, avec des tiges vert sale et des chapeaux pourpres ou rouges qui
+semblent produire une fumée à l’odeur rance. Il s’agit en fait de vapeurs qui proviennent des nombreuses boulettes d’acide que la plante produit pour se défendre et pour se reproduire. Le phycomide expulse cette substance acide chaque fois qu’elle perçoit du mouvement à proximité. Les aventuriers expérimentés peuvent tromper un phycomide et le forcer à révéler sa véritable nature en faisant bouger quelque chose près de lui. Par contre, les grandes infestations de phycomides qui s’enracinent au sein de collections de corps morts et éparpillés peuvent donner lieu à des rencontres beaucoup moins agréables. Vu l’environnement crasseux où les phycomides poussent, les gobelins sont l’une des rares races qui ont appris à coexister avec eux. Ces créatures idiotes ne se contentent pas d’éviter simplement les phycomides, ils vont jusqu’à les cultiver et à les amener dans des emplacements-clefs de leurs repaires où ils peuvent servir de gardiens et de sentinelles. Ils utilisent de longs bâtons appelés « bâtons
+à vase » ou déposent des charognes à l’odeur alléchante pour inciter les phycomides à se rendre là où ils veulent les placer. Manger du phycomide peut se révéler mortel, mais de nombreuses tribus gobelins considèrent comme des héros ceux qui parviennent à en dévorer et à survivre. Cela va sans dire mais, bien évidemment, les repaires des
+gobelins qui utilisent des phycomides comme gardiens se transforment tôt ou tard en repaires de phycomides : à un
+moment donné, la chance finit toujours par abandonner les gobelins. 
+
+</div></td></tr></table>
+
+
+]]></raw>
+  <fullName>Pathfinder-RPG.Phycomide</fullName>
+</wikiPage>

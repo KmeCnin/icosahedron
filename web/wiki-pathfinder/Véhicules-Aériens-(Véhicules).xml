@@ -1,0 +1,119 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Les véhicules aériens</title>
+  <categories><category>Pathfinder-RPG.Art de la guerre</category><category>Pathfinder-RPG.Règles officielles</category><category>Pathfinder-RPG.Véhicule</category></categories>
+  <lastModified>2013-06-01 13:32:12Z</lastModified>
+  <version>0</version>
+  <inLinks></inLinks>
+  <outLinks><link>Pathfinder-RPG.DD</link><link>Pathfinder-RPG.Action immédiate</link><link>Pathfinder-RPG.Réflexes</link><link>Pathfinder-RPG.Artisanat</link><link>Pathfinder-RPG.Connaissances</link><link>Pathfinder-RPG.Vol</link><link>Pathfinder-RPG.Acrobaties</link></outLinks>
+  <body><![CDATA[
+&lt;i&gt;Les r&#232;gles de base donnent une id&#233;e g&#233;n&#233;rale du comportement des v&#233;hicules durant le round de combat et de leurs diff&#233;rences avec des cr&#233;atures. Les  parties suivantes approfondissent la mani&#232;re de les g&#233;rer pendant le combat.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Les v&#233;hicules a&#233;riens fendent les airs. Ils sont en g&#233;n&#233;ral propuls&#233;s par les courants de l’atmosph&#232;re, les moteurs alchimiques, la magie ou dans le cas de v&#233;hicules plus grands, un m&#233;lange de courants a&#233;riens et de moteurs alchimiques ou de magie. Par nature, les dirigeables voyagent en trois dimensions au lieu de deux. Lorsqu’ils montent dans les airs, ils le font &#224; la moiti&#233; de leur vitesse actuelle. Quand ils descendent, ils peuvent (mais n’ont pas besoin de) se d&#233;placer au double de cette vitesse. Apr&#232;s l’ascension et la descente, consid&#233;rez que la vitesse actuelle du v&#233;hicule est &#233;gale &#224; celle qu’il avait avant de commencer &#224; monter ou &#224; descendre.&lt;br /&gt;&lt;br /&gt;&lt;table class=&quot;page espace-col&quot;&gt;
+&lt;tr&gt;&lt;td style=&quot;width:40%&quot;&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Dirigeable&lt;div style=&quot;float:right;&quot;&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;ul&gt;&lt;li&gt;V&#233;hicule a&#233;rien de taille C&lt;/li&gt;&lt;li&gt;&lt;b&gt;Cases&lt;/b&gt; 48 (6 m sur 18 m) ; &lt;b&gt;Co&#251;t&lt;/b&gt; 50 000 po&lt;br /&gt;&lt;div class=&quot;box&quot;&gt;D&#233;fense&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;CA&lt;/b&gt; 2 ; &lt;b&gt;Solidit&#233;&lt;/b&gt; 5&lt;/li&gt;&lt;li&gt;&lt;b&gt;pv&lt;/b&gt; 720 (359)&lt;/li&gt;&lt;li&gt;&lt;b&gt;Jet de sauvegarde de base&lt;/b&gt; +0&lt;br /&gt;&lt;div class=&quot;box&quot;&gt;Attaque&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;Vitesse maximale&lt;/b&gt; 30 m (20 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) ; &lt;b&gt;Acc&#233;l&#233;ration&lt;/b&gt; 9 m (6 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)&lt;/li&gt;&lt;li&gt;&lt;b&gt;BMO&lt;/b&gt; +8 ; &lt;b&gt;DMD&lt;/b&gt; 18&lt;/li&gt;&lt;li&gt;&lt;b&gt;D&#233;g&#226;ts de collision&lt;/b&gt; 8d8&lt;br /&gt;&lt;div class=&quot;box&quot;&gt;Description&lt;/div&gt;&lt;/li&gt;&lt;li&gt;Ce v&#233;hicule exotique et co&#251;teux peut rester au-dessus du sol gr&#226;ce &#224; un gros ballon retenu par une cha&#238;ne &#224; un navire accroch&#233; dessous. Ce navire est similaire &#224; un bateau &#224; voiles, pourvu d&#39;un toit ouvert et propuls&#233; par un moteur magique facile &#224; contr&#244;ler. Les passagers et la cargaison sont transport&#233;s &#224; l&#39;int&#233;rieur du bateau. Un dirigeable peut transporter 30 tonnes de marchandises ou 100 passagers.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Propulsion&lt;/b&gt; courants (a&#233;rien ; 90 cases de dirigeable, pv 450) et magie&lt;/li&gt;&lt;li&gt;&lt;b&gt;Test de conduite&lt;/b&gt; aucun (magie)&lt;/li&gt;&lt;li&gt;&lt;b&gt;Avant&lt;/b&gt; l&#39;avant du navire&lt;/li&gt;&lt;li&gt;&lt;b&gt;Syst&#232;me de conduite&lt;/b&gt; objet magique&lt;/li&gt;&lt;li&gt;&lt;b&gt;Espace de conduite&lt;/b&gt; Les 9 cases autour l&#39;objet magique de contr&#244;le situ&#233; &#224; l&#39;avant du navire&lt;/li&gt;&lt;li&gt;&lt;b&gt;&#201;quipage&lt;/b&gt; 0&lt;/li&gt;&lt;li&gt;&lt;b&gt;Ponts&lt;/b&gt; 2&lt;/li&gt;&lt;li&gt;&lt;b&gt;Armes&lt;/b&gt; jusqu&#39;&#224; 6 engins de si&#232;ge &#224; tir direct de taille G dispos&#233;s en bancs de 3 &#224; b&#226;bord et &#224; tribord du navire ; ou jusqu&#39;&#224; 4 engins de si&#232;ge &#224; tir direct de taille TG dispos&#233;s en bancs de 2 &#224; b&#226;bord et &#224; tribord du navire. Ces armes ne peuvent tirer que sur les c&#244;t&#233;s o&#249; elles positionn&#233;es et il est impossible de les faire pivoter afin qu&#39;elles tirent vers l&#39;avant ou l&#39;arri&#232;re du navire.&lt;br /&gt;&lt;/li&gt;&lt;/ul&gt;&lt;br /&gt;&lt;/div&gt;
+&lt;/td&gt;
+&lt;td width=&quot;40%&quot;&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Dragon alchimique&lt;div style=&quot;float:right;&quot;&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;ul&gt;&lt;li&gt;V&#233;hicule a&#233;rien de taille C&lt;/li&gt;&lt;li&gt;&lt;b&gt;Cases&lt;/b&gt; 60 (6 m sur 22,50 m) ; &lt;b&gt;Co&#251;t&lt;/b&gt; 100 000 po&lt;br /&gt;&lt;div class=&quot;box&quot;&gt;D&#233;fense&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;CA&lt;/b&gt; 2 ; &lt;b&gt;Solidit&#233;&lt;/b&gt; 5&lt;/li&gt;&lt;li&gt;&lt;b&gt;pv&lt;/b&gt; 900 (449)&lt;/li&gt;&lt;li&gt;&lt;b&gt;Jet de sauvegarde de base&lt;/b&gt; +0&lt;br /&gt;&lt;div class=&quot;box&quot;&gt;Attaque&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;Vitesse maximale&lt;/b&gt; 30 m (20 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) ; &lt;b&gt;Acc&#233;l&#233;ration&lt;/b&gt; 9 m (6 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)&lt;/li&gt;&lt;li&gt;&lt;b&gt;BMO&lt;/b&gt; +8 ; &lt;b&gt;DMD&lt;/b&gt; 18&lt;/li&gt;&lt;li&gt;&lt;b&gt;D&#233;g&#226;ts de collision&lt;/b&gt; 8d8&lt;br /&gt;&lt;div class=&quot;box&quot;&gt;Description&lt;/div&gt;&lt;/li&gt;&lt;li&gt;Ce v&#233;hicule est fait de bois et a en g&#233;n&#233;ral la forme d&#39;un dragon. Il vole au-dessus du sol uniquement gr&#226;ce &#224; son moteur alchimique, un objet compliqu&#233; et dangereux qui a tendance &#224; exploser quand le v&#233;hicule est en panne. Lorsque cela survient et si le dragon alchimique a un conducteur, celui-ci peut faire un test de conduite &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DEGREDEDIFFICULTE&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; 30 par une &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions.html#IMMEDIATE&quot; title=&quot;Action imm&#233;diate&quot;&gt;action imm&#233;diate&lt;/a&gt;. S&#39;il le rate, le moteur alchimique explose et inflige 10d10 points de d&#233;g&#226;ts de feu &#224; tous les objets et les cr&#233;atures situ&#233;s dans un rayon de 18 m (12 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) autour de lui. Un jet de &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;R&#233;flexes&quot;&gt;R&#233;flexes&lt;/a&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DEGREDEDIFFICULTE&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; 20 r&#233;ussi permet de diminuer ces d&#233;g&#226;ts de moiti&#233;. Un dragon alchimique peut transporter jusqu&#39;&#224; 20 tonnes de marchandises ou 70 passagers.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Propulsion&lt;/b&gt; alchimique (6 cases de moteur alchimique au milieu du vaisseau, solidit&#233; 8, pv 120)&lt;/li&gt;&lt;li&gt;&lt;b&gt;Test de conduite&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Artisanat.html&quot; title=&quot;Artisanat&quot;&gt;Artisanat&lt;/a&gt; (alchimie) ou &lt;a class=&quot;pagelink&quot; href=&quot;Connaissances.html&quot; title=&quot;Connaissances&quot;&gt;Connaissances&lt;/a&gt; (myst&#232;res), &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DEGREDEDIFFICULTE&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; +10&lt;/li&gt;&lt;li&gt;&lt;b&gt;Avant&lt;/b&gt; l&#39;avant du navire&lt;/li&gt;&lt;li&gt;&lt;b&gt;Syst&#232;me de conduite&lt;/b&gt; roue&lt;/li&gt;&lt;li&gt;&lt;b&gt;Espace de conduite&lt;/b&gt; Les 9 cases autour de la roue install&#233;e &#224; l&#39;avant du navire&lt;/li&gt;&lt;li&gt;&lt;b&gt;&#201;quipage&lt;/b&gt; 10&lt;/li&gt;&lt;li&gt;&lt;b&gt;Ponts&lt;/b&gt; 1&lt;/li&gt;&lt;li&gt;&lt;b&gt;Armes&lt;/b&gt; jusqu&#39;&#224; 6 engins de si&#232;ge &#224; tir direct de taille G dispos&#233;s en bancs de 3 &#224; b&#226;bord et &#224; tribord du navire ; ou jusqu&#39;&#224; 4 engins de si&#232;ge &#224; tir direct de taille TG dispos&#233;s en bancs de 2 &#224; b&#226;bord et &#224; tribord du navire. Ces armes ne peuvent tirer que sur les c&#244;t&#233;s o&#249; elles sont positionn&#233;es et il est donc impossible de les faire pivoter afin qu&#39;elles tirent vers l&#39;avant ou l&#39;arri&#232;re du navire.&lt;br /&gt;&lt;/li&gt;&lt;/ul&gt;&lt;br /&gt;&lt;/div&gt;&lt;br /&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td width=&quot;40%&quot;&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Planeur&lt;div style=&quot;float:right;&quot;&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;ul&gt;&lt;li&gt;V&#233;hicule a&#233;rien de taille G&lt;/li&gt;&lt;li&gt;&lt;b&gt;Cases&lt;/b&gt; 4 (3 m sur 3 m) ; &lt;b&gt;Co&#251;t&lt;/b&gt; 500 po&lt;br /&gt;&lt;div class=&quot;box&quot;&gt;D&#233;fense&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;CA&lt;/b&gt; 9 ; &lt;b&gt;Solidit&#233;&lt;/b&gt; 0 (subit le double des d&#233;g&#226;ts des attaques d&#39;acide et de feu)&lt;/li&gt;&lt;li&gt;&lt;b&gt;pv&lt;/b&gt; 20 (9)&lt;/li&gt;&lt;li&gt;&lt;b&gt;Jet de sauvegarde de base&lt;/b&gt; +0&lt;br /&gt;&lt;div class=&quot;box&quot;&gt;Attaque&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;Vitesse maximale&lt;/b&gt; 24 m (16 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) ; &lt;b&gt;Acc&#233;l&#233;ration&lt;/b&gt; 3 m (2 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;, 9 m (6 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) la premi&#232;re fois qu&#39;il est lanc&#233;)&lt;/li&gt;&lt;li&gt;&lt;b&gt;BMO&lt;/b&gt; +1 ; &lt;b&gt;DMD&lt;/b&gt; 11&lt;/li&gt;&lt;li&gt;&lt;b&gt;D&#233;g&#226;ts de collision&lt;/b&gt; 1d8&lt;br /&gt;&lt;div class=&quot;box&quot;&gt;Description&lt;/div&gt;&lt;/li&gt;&lt;li&gt;Un planeur est en gros une grande pi&#232;ce de voile tendue sur une structure et reli&#233;e &#224; une poign&#233;e et des courroies. La seule mani&#232;re de faire s&#39;envoler un planeur est de le lancer depuis le haut d&#39;une pente abrupte, ce qui lui permet de prendre les courants ascendants.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Propulsion&lt;/b&gt; courants (a&#233;rien ; 4 cases de toile, qui constituent la majorit&#233; du v&#233;hicule, pv 20)&lt;/li&gt;&lt;li&gt;&lt;b&gt;Test de conduite&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vol.html&quot; title=&quot;Vol&quot;&gt;Vol&lt;/a&gt; ou &lt;a class=&quot;pagelink&quot; href=&quot;Acrobaties.html&quot; title=&quot;Acrobaties&quot;&gt;Acrobaties&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DEGREDEDIFFICULTE&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; +10&lt;/li&gt;&lt;li&gt;&lt;b&gt;Avant&lt;/b&gt; Le bout des ailes du planeur&lt;/li&gt;&lt;li&gt;&lt;b&gt;Syst&#232;me de conduite&lt;/b&gt; cordage&lt;/li&gt;&lt;li&gt;&lt;b&gt;Espace de conduite&lt;/b&gt; une seule case directement en dessous de la voile qui constitue le planeur&lt;/li&gt;&lt;li&gt;&lt;b&gt;Ponts&lt;/b&gt; 1&lt;br /&gt;&lt;/li&gt;&lt;/ul&gt;&lt;br /&gt;&lt;/div&gt;
+&lt;/td&gt;
+&lt;td width=&quot;40%&quot;&gt;&lt;br /&gt;&lt;br /&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[{s:MenuVehicules}
+{s:UC}''Les règles de base donnent une idée générale du comportement des véhicules durant le round de combat et de leurs différences avec des créatures. Les  parties suivantes approfondissent la manière de les gérer pendant le combat.''
+
+Les véhicules aériens fendent les airs. Ils sont en général propulsés par les courants de l’atmosphère, les moteurs alchimiques, la magie ou dans le cas de véhicules plus grands, un mélange de courants aériens et de moteurs alchimiques ou de magie. Par nature, les dirigeables voyagent en trois dimensions au lieu de deux. Lorsqu’ils montent dans les airs, ils le font à la moitié de leur vitesse actuelle. Quand ils descendent, ils peuvent (mais n’ont pas besoin de) se déplacer au double de cette vitesse. Après l’ascension et la descente, considérez que la vitesse actuelle du véhicule est égale à celle qu’il avait avant de commencer à monter ou à descendre.
+
+<table class="page espace-col">
+<tr><td style="width:40%">
+<div class="BD">
+{s:BDTitre|Dirigeable|}
+* Véhicule aérien de taille C
+* '''Cases''' 48 (6 m sur 18 m) ; '''Coût''' 50 000 po
+(((Défense)))
+* '''CA''' 2 ; '''Solidité''' 5
+* '''pv''' 720 (359)
+* '''Jet de sauvegarde de base''' +0
+(((Attaque)))
+* '''Vitesse maximale''' 30 m (20 {s:c}) ; '''Accélération''' 9 m (6 {s:c})
+* '''BMO''' +8 ; '''DMD''' 18
+* '''Dégâts de collision''' 8d8
+(((Description)))
+* Ce véhicule exotique et coûteux peut rester au-dessus du sol grâce à un gros ballon retenu par une chaîne à un navire accroché dessous. Ce navire est similaire à un bateau à voiles, pourvu d'un toit ouvert et propulsé par un moteur magique facile à contrôler. Les passagers et la cargaison sont transportés à l'intérieur du bateau. Un dirigeable peut transporter 30 tonnes de marchandises ou 100 passagers.
+* '''Propulsion''' courants (aérien ; 90 cases de dirigeable, pv 450) et magie
+* '''Test de conduite''' aucun (magie)
+* '''Avant''' l'avant du navire
+* '''Système de conduite''' objet magique
+* '''Espace de conduite''' Les 9 cases autour l'objet magique de contrôle situé à l'avant du navire
+* '''Équipage''' 0
+* '''Ponts''' 2
+* '''Armes''' jusqu'à 6 engins de siège à tir direct de taille G disposés en bancs de 3 à bâbord et à tribord du navire ; ou jusqu'à 4 engins de siège à tir direct de taille TG disposés en bancs de 2 à bâbord et à tribord du navire. Ces armes ne peuvent tirer que sur les côtés où elles positionnées et il est impossible de les faire pivoter afin qu'elles tirent vers l'avant ou l'arrière du navire.
+
+</div>
+</td>
+<td width="40%">
+<div class="BD">
+{s:BDTitre|Dragon alchimique|}
+* Véhicule aérien de taille C
+* '''Cases''' 60 (6 m sur 22,50 m) ; '''Coût''' 100 000 po
+(((Défense)))
+* '''CA''' 2 ; '''Solidité''' 5
+* '''pv''' 900 (449)
+* '''Jet de sauvegarde de base''' +0
+(((Attaque)))
+* '''Vitesse maximale''' 30 m (20 {s:c}) ; '''Accélération''' 9 m (6 {s:c})
+* '''BMO''' +8 ; '''DMD''' 18
+* '''Dégâts de collision''' 8d8
+(((Description)))
+* Ce véhicule est fait de bois et a en général la forme d'un dragon. Il vole au-dessus du sol uniquement grâce à son moteur alchimique, un objet compliqué et dangereux qui a tendance à exploser quand le véhicule est en panne. Lorsque cela survient et si le dragon alchimique a un conducteur, celui-ci peut faire un test de conduite [[DD]] 30 par une [[action immédiate]]. S'il le rate, le moteur alchimique explose et inflige 10d10 points de dégâts de feu à tous les objets et les créatures situés dans un rayon de 18 m (12 {s:c}) autour de lui. Un jet de [[Réflexes]] [[DD]] 20 réussi permet de diminuer ces dégâts de moitié. Un dragon alchimique peut transporter jusqu'à 20 tonnes de marchandises ou 70 passagers.
+* '''Propulsion''' alchimique (6 cases de moteur alchimique au milieu du vaisseau, solidité 8, pv 120)
+* '''Test de conduite''' [[Artisanat]] (alchimie) ou [[Connaissances]] (mystères), [[DD]] +10
+* '''Avant''' l'avant du navire
+* '''Système de conduite''' roue
+* '''Espace de conduite''' Les 9 cases autour de la roue installée à l'avant du navire
+* '''Équipage''' 10
+* '''Ponts''' 1
+* '''Armes''' jusqu'à 6 engins de siège à tir direct de taille G disposés en bancs de 3 à bâbord et à tribord du navire ; ou jusqu'à 4 engins de siège à tir direct de taille TG disposés en bancs de 2 à bâbord et à tribord du navire. Ces armes ne peuvent tirer que sur les côtés où elles sont positionnées et il est donc impossible de les faire pivoter afin qu'elles tirent vers l'avant ou l'arrière du navire.
+
+</div>
+
+</td></tr>
+<tr>
+<td width="40%">
+<div class="BD">
+{s:BDTitre|Planeur|}
+* Véhicule aérien de taille G
+* '''Cases''' 4 (3 m sur 3 m) ; '''Coût''' 500 po
+(((Défense)))
+* '''CA''' 9 ; '''Solidité''' 0 (subit le double des dégâts des attaques d'acide et de feu)
+* '''pv''' 20 (9)
+* '''Jet de sauvegarde de base''' +0
+(((Attaque)))
+* '''Vitesse maximale''' 24 m (16 {s:c}) ; '''Accélération''' 3 m (2 {s:c}, 9 m (6 {s:c}) la première fois qu'il est lancé)
+* '''BMO''' +1 ; '''DMD''' 11
+* '''Dégâts de collision''' 1d8
+(((Description)))
+* Un planeur est en gros une grande pièce de voile tendue sur une structure et reliée à une poignée et des courroies. La seule manière de faire s'envoler un planeur est de le lancer depuis le haut d'une pente abrupte, ce qui lui permet de prendre les courants ascendants.
+* '''Propulsion''' courants (aérien ; 4 cases de toile, qui constituent la majorité du véhicule, pv 20)
+* '''Test de conduite''' [[Vol]] ou [[Acrobaties]], [[DD]] +10
+* '''Avant''' Le bout des ailes du planeur
+* '''Système de conduite''' cordage
+* '''Espace de conduite''' une seule case directement en dessous de la voile qui constitue le planeur
+* '''Ponts''' 1
+
+</div>
+</td>
+<td width="40%">
+
+</td></tr>
+</table>
+]]></raw>
+  <fullName>Pathfinder-RPG.Véhicules aériens (véhicules)</fullName>
+</wikiPage>

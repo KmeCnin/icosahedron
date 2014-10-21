@@ -1,0 +1,152 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Golem d'argile</title>
+  <categories><category>Pathfinder-RPG.Bestiaire</category><category>Pathfinder-RPG.Monstre</category><category>Pathfinder-RPG.Règles officielles</category></categories>
+  <lastModified>2013-02-07 21:31:44Z</lastModified>
+  <version>9</version>
+  <inLinks><link>Pathfinder-RPG.Créatures artificielles</link><link>Pathfinder-RPG.Glossaire des monstres</link><link>Pathfinder-RPG.Golem</link><link>Pathfinder-RPG.Liste de monstres par FP</link><link>Pathfinder-RPG.Liste de monstres par milieu naturel</link><link>Pathfinder-RPG.Liste de monstres par type</link><link>Pathfinder-RPG.Monstres</link><link>Pathfinder-RPG.Traité de création des golems</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.type Créature artificielle</link><link>Pathfinder-RPG.vision dans le noir</link><link>Pathfinder-RPG.vision nocturne</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Traits des créatures artificielles</link><link>Pathfinder-RPG.NLS</link><link>Pathfinder-RPG.DD</link><link>Pathfinder-RPG.RM</link><link>Pathfinder-RPG.Glissement de terrain</link><link>Pathfinder-RPG.jet de sauvegarde</link><link>Pathfinder-RPG.Désintégration</link><link>Pathfinder-RPG.Lenteur</link><link>Pathfinder-RPG.Tremblement de terre</link><link>Pathfinder-RPG.pv</link><link>Pathfinder-RPG.points de vie temporaires</link><link>Pathfinder-RPG.Action libre</link><link>Pathfinder-RPG.Rapidité</link><link>Pathfinder-RPG.Création de créatures artificielles</link><link>Pathfinder-RPG.Animation dobjets</link><link>Pathfinder-RPG.Bénédiction</link><link>Pathfinder-RPG.Communion</link><link>Pathfinder-RPG.Prière</link><link>Pathfinder-RPG.Résurrection</link><link>Pathfinder-RPG.Artisanat</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Golem d&#39;argile&lt;div style=&quot;float:right;&quot;&gt;FP 10&lt;/div&gt;&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Bestiaire p.165&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 9.600
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Cr&#233;ature-Artificielle.html&quot; title=&quot;Cr&#233;ature artificielle&quot;&gt;Cr&#233;ature artificielle&lt;/a&gt; de taille G, N
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; -1 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Capacit&#233;s-Sp&#233;ciales.html#VISIONDANSLENOIR&quot; title=&quot;vision dans le noir&quot;&gt;vision dans le noir&lt;/a&gt; 18 m (12 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Nocturne-(Capacit&#233;).html&quot; title=&quot;vision nocturne&quot;&gt;vision nocturne&lt;/a&gt; ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +0
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 24, contact 8, pris au d&#233;pourvu 24 (Dex -1, naturelle +16, taille -1)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 101 (13d10+30)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +3, &lt;b&gt;Vig&lt;/b&gt; +4, &lt;b&gt;Vol&lt;/b&gt; +4
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Immunit&#233;s&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Traits-Des-Cr&#233;atures-Artificielles-(Capacit&#233;).html&quot; title=&quot;Traits des cr&#233;atures artificielles&quot;&gt;traits des cr&#233;atures artificielles&lt;/a&gt;, magie ; &lt;b&gt;RD&lt;/b&gt; 10/adamantium et contondant 
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 6 m (4 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; 2 coups, +19 (2d10+7 et blessure maudite)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Espace&lt;/b&gt; 3 m (2 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) ; &lt;b&gt;Allonge&lt;/b&gt; 3 m (2 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaques sp&#233;ciales&lt;/b&gt; fureur d&#233;vastatrice, rapidit&#233;
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 24, &lt;b&gt;Dex&lt;/b&gt; 9, &lt;b&gt;Con&lt;/b&gt; -, &lt;b&gt;Int&lt;/b&gt; -, &lt;b&gt;Sag&lt;/b&gt; 11, &lt;b&gt;Cha&lt;/b&gt; 1
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +13, &lt;b&gt;BMO&lt;/b&gt; +21, &lt;b&gt;DMD&lt;/b&gt; 30
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; quelconque
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation sociale&lt;/b&gt; solitaire ou bande (2-4)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; aucun
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Capacit&#233;s sp&#233;ciales&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Blessure maudite (Ext).&lt;/b&gt; Les d&#233;g&#226;ts inflig&#233;s par un golem d&#39;argile ne gu&#233;rissent pas naturellement et sont difficiles &#224; soigner par magie. Lorsqu&#39;un personnage tente d&#39;utiliser un soin magique sur une cr&#233;ature bless&#233;e par un golem d&#39;argile, il doit r&#233;ussir un test de &lt;a class=&quot;pagelink&quot; href=&quot;Lancer-Des-Sorts.html#NLS&quot; title=&quot;NLS&quot;&gt;NLS&lt;/a&gt; contre un &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DEGREDEDIFFICULTE&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; de 26 pour que le soin ait un quelconque effet sur elle.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Fureur d&#233;vastatrice (Ext).&lt;/b&gt; Lorsqu&#39;un golem d&#39;argile combat, il y a un risque que l&#39;esprit &#233;l&#233;mentaire qui l&#39;anime se lib&#232;re et que le golem entre dans une fureur d&#233;vastatrice. Ce risque s&#39;&#233;l&#232;ve &#224; 1% lors du premier round, augmente de 1% &#224; chaque round de combat et retombe &#224; 0% apr&#232;s une minute d&#39;inactivit&#233;. La fureur d&#233;vastatrice pousse le golem &#224; attaquer la cr&#233;ature vivante la plus proche ou &#224; frapper un objet de taille inf&#233;rieure &#224; la sienne s&#39;il n&#39;y a aucune cr&#233;ature &#224; port&#233;e. Il n&#39;existe aucune m&#233;thode connue pour reprendre le contr&#244;le d&#39;un golem ayant succomb&#233; &#224; cette fureur d&#233;vastatrice.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Immunit&#233; contre la magie (Ext).&lt;/b&gt; Les golems d&#39;argile sont immunis&#233;s contre tous les sorts et pouvoirs magiques contres lesquels la &lt;a class=&quot;pagelink&quot; href=&quot;R&#233;sistance-&#192;-La-Magie-(Capacit&#233;).html&quot; title=&quot;RM&quot;&gt;r&#233;sistance &#224; la magie&lt;/a&gt; fonctionne. En plus de cela, certains sorts et effets agissent diff&#233;remment lorsqu&#39;ils sont utilis&#233;s contre eux :
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;div class=&quot;indent&quot; style=&quot;margin: 0px; padding: 0px; padding-left: 15px&quot;&gt;• Le sort de &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Glissement-De-Terrain.html&quot; title=&quot;Glissement de terrain&quot;&gt;glissement de terrain&lt;/a&gt;&lt;/i&gt; repousse le golem sur 36 m (24 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) et lui inflige 3d12 points de d&#233;g&#226;ts (sans &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;jet de sauvegarde&quot;&gt;jet de sauvegarde&lt;/a&gt;).&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;div class=&quot;indent&quot; style=&quot;margin: 0px; padding: 0px; padding-left: 15px&quot;&gt;• Le sort de &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;D&#233;sint&#233;gration.html&quot; title=&quot;D&#233;sint&#233;gration&quot;&gt;d&#233;sint&#233;gration&lt;/a&gt;&lt;/i&gt; ralentit le golem (comme le sort de &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Lenteur.html&quot; title=&quot;Lenteur&quot;&gt;lenteur&lt;/a&gt;&lt;/i&gt;) pendant 1d6 rounds et lui inflige 1d12 points de d&#233;g&#226;ts (sans &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;jet de sauvegarde&quot;&gt;jet de sauvegarde&lt;/a&gt;).&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;div class=&quot;indent&quot; style=&quot;margin: 0px; padding: 0px; padding-left: 15px&quot;&gt;• Un sort de &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Tremblement-De-Terre.html&quot; title=&quot;Tremblement de terre&quot;&gt;tremblement de terre&lt;/a&gt;&lt;/i&gt; lanc&#233; directement sur le golem l&#39;emp&#234;che de se d&#233;placer au cours de son tour suivant et lui inflige 5d10 points de d&#233;g&#226;ts (sans JS).&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;div class=&quot;indent&quot; style=&quot;margin: 0px; padding: 0px; padding-left: 15px&quot;&gt;• Lorsque le golem d&#39;argile est la cible d&#39;une attaque magique causant les d&#233;g&#226;ts d&#39;acide, il gu&#233;rit de 1 point de d&#233;g&#226;ts pour chaque tranche de 3 points de d&#233;g&#226;ts que l&#39;attaque est cens&#233;e infliger. Si cette effet donne au golem un nombre de &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#POINTSDEVIE&quot; title=&quot;pv&quot;&gt;points de vie&lt;/a&gt; d&#233;passant son maximum, les points exc&#233;dentaires sont des &lt;a class=&quot;pagelink&quot; href=&quot;Blessures-Et-Mort.html#PVTEMPORAIRES&quot; title=&quot;points de vie temporaires&quot;&gt;points de vie temporaires&lt;/a&gt;. Les effets qui infligent des d&#233;g&#226;ts d&#39;acide n&#39;autorisent aucun &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;jet de sauvegarde&quot;&gt;jet de sauvegarde&lt;/a&gt; de la part du golem d&#39;argile.&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Rapidit&#233; (Mag).&lt;/b&gt; Une fois par jour, apr&#232;s avoir combattu pendant au moins un round, un golem d&#39;argile peut utiliser une &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions.html#LIBRE&quot; title=&quot;Action libre&quot;&gt;action libre&lt;/a&gt; pour devenir plus rapide. L&#39;effet dure 3 rounds et fonctionne comme le sort de &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Rapidit&#233;.html&quot; title=&quot;Rapidit&#233;&quot;&gt;rapidit&#233;&lt;/a&gt;&lt;/i&gt;.
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;td&gt;&lt;div&gt;&lt;i&gt;Cette cr&#233;ature au pas lourd et au visage vaguement humano&#239;de est faite d’argile et porte des haillons crasseux et des bijoux grossiers.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Les golems d’argile ne portent aucun v&#234;tement si ce n’est une sorte
+de kilt de m&#233;tal ou de cuir rigide autour des hanches. Ils mesurent
+un peu plus de 2,40 m&#232;tres et p&#232;sent 300 kg.&lt;br /&gt;&lt;br /&gt;&lt;h3 class=&quot;separator&quot;&gt;Construction&lt;a class=&quot;headeranchor&quot; id=&quot;Construction_0&quot; href=&quot;#Construction_0&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;
+Le corps d’un golem d’argile doit &#234;tre sculpt&#233; dans un unique bloc
+d’argile pesant au moins 500 kg, puis trait&#233; avec des huiles et des
+poudres pr&#233;cieuses valant 1 500 po.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;NLS&lt;/b&gt; 11&lt;sup&gt;e&lt;/sup&gt; ; &lt;b&gt;Prix&lt;/b&gt; 41.500 po&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Conditions&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;ation-De-Cr&#233;atures-Artificielles.html&quot; title=&quot;Cr&#233;ation de cr&#233;atures artificielles&quot;&gt;Cr&#233;ation de cr&#233;atures artificielles&lt;/a&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Animation-Dobjets.html&quot; title=&quot;Animation d&amp;#39;objets&quot;&gt;animation d&#39;objets&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;B&#233;n&#233;diction.html&quot; title=&quot;B&#233;n&#233;diction&quot;&gt;b&#233;n&#233;diction&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Communion.html&quot; title=&quot;Communion&quot;&gt;communion&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Pri&#232;re.html&quot; title=&quot;Pri&#232;re&quot;&gt;pri&#232;re&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;R&#233;surrection.html&quot; title=&quot;R&#233;surrection&quot;&gt;r&#233;surrection&lt;/a&gt;&lt;/i&gt;, cr&#233;ateur de niveau 11 ; &lt;b&gt;Comp&#233;tence&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Artisanat.html&quot; title=&quot;Artisanat&quot;&gt;Artisanat&lt;/a&gt; (sculpture) ou &lt;a class=&quot;pagelink&quot; href=&quot;Artisanat.html&quot; title=&quot;Artisanat&quot;&gt;Artisanat&lt;/a&gt; (poterie) &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DEGREDEDIFFICULTE&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; 16 ; &lt;b&gt;Co&#251;t&lt;/b&gt; 21.500 po
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Golem d'argile|FP 10}
+{s:pucem|Créature artificielle|Ruines-Donjons|Tempéré}
+{s:BDTexte|''Source : Bestiaire p.165''}
+{s:BDTexte|'''PX''' 9.600}
+{s:BDTexte|[[type Créature artificielle|Créature artificielle]] de taille G, N}
+{s:BDTexte|'''Init''' -1 ; '''Sens''' [[vision dans le noir]] 18 m (12 {s:c}), [[vision nocturne]] ; [[Perception]] +0}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 24, contact 8, pris au dépourvu 24 (Dex -1, naturelle +16, taille -1)}
+{s:BDTexte|'''pv''' 101 (13d10+30)}
+{s:BDTexte|'''Réf''' +3, '''Vig''' +4, '''Vol''' +4}
+{s:BDTexte|'''Immunités''' [[traits des créatures artificielles]], magie ; '''RD''' 10/adamantium et contondant }
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 6 m (4 {s:c})}
+{s:BDTexte|'''Corps à corps''' 2 coups, +19 (2d10+7 et blessure maudite)}
+{s:BDTexte|'''Espace''' 3 m (2 {s:c}) ; '''Allonge''' 3 m (2 {s:c})}
+{s:BDTexte|'''Attaques spéciales''' fureur dévastatrice, rapidité}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 24, '''Dex''' 9, '''Con''' -, '''Int''' -, '''Sag''' 11, '''Cha''' 1}
+{s:BDTexte|'''BBA''' +13, '''BMO''' +21, '''DMD''' 30}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' quelconque}
+{s:BDTexte|'''Organisation sociale''' solitaire ou bande (2-4)}
+{s:BDTexte|'''Trésor''' aucun}
+{s:BDSousTitre|Capacités spéciales}
+{s:BDTexte|'''Blessure maudite (Ext).''' Les dégâts infligés par un golem d'argile ne guérissent pas naturellement et sont difficiles à soigner par magie. Lorsqu'un personnage tente d'utiliser un soin magique sur une créature blessée par un golem d'argile, il doit réussir un test de [[NLS]] contre un [[DD]] de 26 pour que le soin ait un quelconque effet sur elle.}
+{s:BDTexte|'''Fureur dévastatrice (Ext).''' Lorsqu'un golem d'argile combat, il y a un risque que l'esprit élémentaire qui l'anime se libère et que le golem entre dans une fureur dévastatrice. Ce risque s'élève à 1% lors du premier round, augmente de 1% à chaque round de combat et retombe à 0% après une minute d'inactivité. La fureur dévastatrice pousse le golem à attaquer la créature vivante la plus proche ou à frapper un objet de taille inférieure à la sienne s'il n'y a aucune créature à portée. Il n'existe aucune méthode connue pour reprendre le contrôle d'un golem ayant succombé à cette fureur dévastatrice.}
+{s:BDTexte|'''Immunité contre la magie (Ext).''' Les golems d'argile sont immunisés contre tous les sorts et pouvoirs magiques contres lesquels la [[RM|résistance à la magie]] fonctionne. En plus de cela, certains sorts et effets agissent différemment lorsqu'ils sont utilisés contre eux :}
+{s:BDTexte|: • Le sort de ''[[glissement de terrain]]'' repousse le golem sur 36 m (24 {s:c}) et lui inflige 3d12 points de dégâts (sans [[jet de sauvegarde]]).}
+{s:BDTexte|: • Le sort de ''[[désintégration]]'' ralentit le golem (comme le sort de ''[[lenteur]]'') pendant 1d6 rounds et lui inflige 1d12 points de dégâts (sans [[jet de sauvegarde]]).}
+{s:BDTexte|: • Un sort de ''[[tremblement de terre]]'' lancé directement sur le golem l'empêche de se déplacer au cours de son tour suivant et lui inflige 5d10 points de dégâts (sans JS).}
+{s:BDTexte|: • Lorsque le golem d'argile est la cible d'une attaque magique causant les dégâts d'acide, il guérit de 1 point de dégâts pour chaque tranche de 3 points de dégâts que l'attaque est censée infliger. Si cette effet donne au golem un nombre de [[pv|points de vie]] dépassant son maximum, les points excédentaires sont des [[points de vie temporaires]]. Les effets qui infligent des dégâts d'acide n'autorisent aucun [[jet de sauvegarde]] de la part du golem d'argile.}
+{s:BDTexte|'''Rapidité (Mag).''' Une fois par jour, après avoir combattu pendant au moins un round, un golem d'argile peut utiliser une [[action libre]] pour devenir plus rapide. L'effet dure 3 rounds et fonctionne comme le sort de ''[[rapidité]]''.}
+</div>
+</td><td><div>''Cette créature au pas lourd et au visage vaguement humanoïde est faite d’argile et porte des haillons crasseux et des bijoux grossiers.''
+
+Les golems d’argile ne portent aucun vêtement si ce n’est une sorte
+de kilt de métal ou de cuir rigide autour des hanches. Ils mesurent
+un peu plus de 2,40 mètres et pèsent 300 kg.
+
+====Construction====
+
+Le corps d’un golem d’argile doit être sculpté dans un unique bloc
+d’argile pesant au moins 500 kg, puis traité avec des huiles et des
+poudres précieuses valant 1 500 po.
+
+'''NLS''' 11<sup>e</sup> ; '''Prix''' 41.500 po
+
+'''Conditions''' [[Création de créatures artificielles]], ''[[animation dobjets|animation d'objets]]'', ''[[bénédiction]]'', ''[[communion]]'', ''[[prière]]'', ''[[résurrection]]'', créateur de niveau 11 ; '''Compétence''' [[Artisanat]] (sculpture) ou [[Artisanat]] (poterie) [[DD]] 16 ; '''Coût''' 21.500 po
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Golem dargile</fullName>
+</wikiPage>

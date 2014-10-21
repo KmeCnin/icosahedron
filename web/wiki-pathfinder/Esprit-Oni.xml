@@ -1,0 +1,233 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Esprit Oni</title>
+  <categories><category>Pathfinder-RPG.Bestiaire 3</category><category>Pathfinder-RPG.Monstre</category><category>Pathfinder-RPG.Règles officielles</category></categories>
+  <lastModified>2014-03-11 12:49:53Z</lastModified>
+  <version>9</version>
+  <inLinks><link>Pathfinder-RPG.Familier supérieur</link><link>Pathfinder-RPG.Glossaire des monstres</link><link>Pathfinder-RPG.Liste de monstres par FP</link><link>Pathfinder-RPG.Liste de monstres par milieu naturel</link><link>Pathfinder-RPG.Liste de monstres par type</link><link>Pathfinder-RPG.Monstres</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.type Extérieur</link><link>Pathfinder-RPG.sous-type natif</link><link>Pathfinder-RPG.sous-type oni</link><link>Pathfinder-RPG.vision dans le noir</link><link>Pathfinder-RPG.Détection de la magie</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.guérison accélérée</link><link>Pathfinder-RPG.Invisibilité</link><link>Pathfinder-RPG.Manipulation à distance</link><link>Pathfinder-RPG.Injonction</link><link>Pathfinder-RPG.DD</link><link>Pathfinder-RPG.Sommeil</link><link>Pathfinder-RPG.Communion</link><link>Pathfinder-RPG.croc-en-jambe</link><link>Pathfinder-RPG.Attaque en finesse</link><link>Pathfinder-RPG.Science de linitiative</link><link>Pathfinder-RPG.Acrobaties</link><link>Pathfinder-RPG.Art de la magie</link><link>Pathfinder-RPG.Bluff</link><link>Pathfinder-RPG.Connaissances</link><link>Pathfinder-RPG.Discrétion</link><link>Pathfinder-RPG.Psychologie</link><link>Pathfinder-RPG.Vol</link><link>Pathfinder-RPG.Vigueur</link><link>Pathfinder-RPG.round</link><link>Pathfinder-RPG.affaiblissement temporaire</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Esprit Oni&lt;div style=&quot;float:right;&quot;&gt;FP 2&lt;/div&gt;&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Bestiaire 3&lt;/i&gt; p.205
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 600
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Ext&#233;rieur.html&quot; title=&quot;Ext&#233;rieur&quot;&gt;Ext&#233;rieur&lt;/a&gt; sous-type(&lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Natif.html&quot; title=&quot;Natif (sous-type)&quot;&gt;natif&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Oni.html&quot; title=&quot;Oni (sous-type)&quot;&gt;Oni&lt;/a&gt;) de taille TP, NM
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +8 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Capacit&#233;s-Sp&#233;ciales.html#VISIONDANSLENOIR&quot; title=&quot;vision dans le noir&quot;&gt;vision dans le noir&lt;/a&gt; 18 m (12 c) , &lt;a class=&quot;pagelink&quot; href=&quot;D&#233;tection-De-La-Magie.html&quot; title=&quot;D&#233;tection de la magie&quot;&gt;D&#233;tection de la magie&lt;/a&gt; ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +7
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 17, contact 16, pris au d&#233;pourvu 13 (Dex +4, naturelle +1, taille +2)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 19 (3d10+3) ; &lt;a class=&quot;pagelink&quot; href=&quot;Gu&#233;rison-Acc&#233;l&#233;r&#233;e-(Capacit&#233;).html&quot; title=&quot;gu&#233;rison acc&#233;l&#233;r&#233;e&quot;&gt;gu&#233;rison acc&#233;l&#233;r&#233;e&lt;/a&gt; 2 
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +7, &lt;b&gt;Vig&lt;/b&gt; +2, &lt;b&gt;Vol&lt;/b&gt; +4
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 3 m (2 c), vol 9 m (bonne, 6 c)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; morsure +9 (1d4-2), corne +9 (1d4-2 plus poison)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Espace&lt;/b&gt; 3 m (2 c) ; &lt;b&gt;Allonge&lt;/b&gt; 3 m (2 c)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaques sp&#233;ciales&lt;/b&gt; poison
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Pouvoirs magiques&lt;/b&gt; (NLS 6 ; concentration +8)
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+&#192; volont&#233; — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Invisibilit&#233;.html&quot; title=&quot;Invisibilit&#233;&quot;&gt;Invisibilit&#233;&lt;/a&gt;&lt;/i&gt; (personnelle uniquement), &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Manipulation-&#192;-Distance.html&quot; title=&quot;Manipulation &#224; distance&quot;&gt;Manipulation &#224; distance&lt;/a&gt;&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+1/jour — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Injonction.html&quot; title=&quot;Injonction&quot;&gt;Injonction&lt;/a&gt;&lt;/i&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DEGREDEDIFFICULTE&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; 13), &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Sommeil.html&quot; title=&quot;Sommeil&quot;&gt;Sommeil&lt;/a&gt;&lt;/i&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DEGREDEDIFFICULTE&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; 13)
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+1/jour — 1/semaine — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Communion.html&quot; title=&quot;Communion&quot;&gt;Communion&lt;/a&gt;&lt;/i&gt; (NLS 12, 6 questions)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 6, &lt;b&gt;Dex&lt;/b&gt; 19, &lt;b&gt;Con&lt;/b&gt; 12, &lt;b&gt;Int&lt;/b&gt; 13, &lt;b&gt;Sag&lt;/b&gt; 12, &lt;b&gt;Cha&lt;/b&gt; 15
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +3, &lt;b&gt;BMO&lt;/b&gt; +5, &lt;b&gt;DMD&lt;/b&gt; 13 (&lt;a class=&quot;pagelink&quot; href=&quot;Croc-En-Jambe.html&quot; title=&quot;croc-en-jambe&quot;&gt;croc-en-jambe&lt;/a&gt; impossible)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Attaque-En-Finesse.html&quot; title=&quot;Attaque en finesse&quot;&gt;Attaque en finesse&lt;/a&gt; , &lt;a class=&quot;pagelink&quot; href=&quot;Science-De-Linitiative.html&quot; title=&quot;Science de l&amp;#39;initiative&quot;&gt;Science de l&#39;initiative&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt;  &lt;a class=&quot;pagelink&quot; href=&quot;Acrobaties.html&quot; title=&quot;Acrobaties&quot;&gt;Acrobaties&lt;/a&gt; +7, &lt;a class=&quot;pagelink&quot; href=&quot;Art-De-La-Magie.html&quot; title=&quot;Art de la magie&quot;&gt;Art de la magie&lt;/a&gt; +4, &lt;a class=&quot;pagelink&quot; href=&quot;Bluff.html&quot; title=&quot;Bluff&quot;&gt;Bluff&lt;/a&gt; +8,
+&lt;a class=&quot;pagelink&quot; href=&quot;Connaissances.html&quot; title=&quot;Connaissances&quot;&gt;Connaissances&lt;/a&gt; (myst&#232;res) +7, &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; +17, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +7, &lt;a class=&quot;pagelink&quot; href=&quot;Psychologie.html&quot; title=&quot;Psychologie&quot;&gt;Psychologie&lt;/a&gt; +7, &lt;a class=&quot;pagelink&quot; href=&quot;Vol.html&quot; title=&quot;Vol&quot;&gt;Vol&lt;/a&gt; +16
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Langues&lt;/b&gt; : commun 
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Particularit&#233;s&lt;/b&gt; : masque de symbiose 
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; tous
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation sociale&lt;/b&gt; solitaire, couple, ou rang (3-12)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; Standard
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;pouvoirs sp&#233;ciaux&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Masque de symbiose (Ext).&lt;/b&gt; Une cr&#233;ature volontaire de taille P
+ou M peut porter l’esprit oni comme un masque. Lorsqu’elle
+le porte ainsi, elle peut voir au travers des yeux de l’oni et
+parler &#224; travers sa bouche, m&#234;me si elle conserve sa voix et
+ses sens. L’esprit oni demeure une cr&#233;ature &#224; part enti&#232;re
+et doit se d&#233;tacher du visage de son h&#244;te (par une action de
+mouvement) s’il souhaite effectuer ses propres actions (y
+compris attaquer ou utiliser des pouvoirs magiques). Lorsque
+l’esprit oni est port&#233; comme un masque, il accorde un bonus
+d’intuition de +2 aux tests de &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; de son h&#244;te.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Poison (Ext).&lt;/b&gt; Corne — blessure ; &lt;i&gt;JdS&lt;/i&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;Vigueur&quot;&gt;Vigueur&lt;/a&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DEGREDEDIFFICULTE&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; 12 ; &lt;i&gt;fr&#233;quence&lt;/i&gt;
+1/round pendant 6 &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#ROUND&quot; title=&quot;round&quot;&gt;round&lt;/a&gt;s ; &lt;i&gt;effet&lt;/i&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Affaiblissement-Temporaire-(Capacit&#233;).html&quot; title=&quot;affaiblissement temporaire&quot;&gt;affaiblissement temporaire&lt;/a&gt;
+de 1d2 Cha ; &lt;i&gt;gu&#233;rison&lt;/i&gt; 2 r&#233;ussites cons&#233;cutives.
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;td&gt;&lt;div&gt;&lt;i&gt;Ce masque anim&#233; aux traits mal&#233;fiques pr&#233;sente le visage d’un fi&#233;lon
+cornu aux yeux exorbit&#233;s et au sourire lubrique d&#233;voilant ses crocs.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;La plupart des onis qui arrivent sur le Plan mat&#233;riel
+int&#232;grent une nouvelle enveloppe charnelle humano&#239;de
+mais ce n’est pas le cas pour tous. De temps &#224; autre, quand
+un lanceur de sorts d’alignement Mauvais souhaite s’arroger
+les services d’un oni en tant que familier, le r&#233;sultat peut &#234;tre
+quelque peu inhabituel : on obtient alors un oni de chair
+directement fa&#231;onn&#233; &#224; partir de sa forme spirituelle plut&#244;t
+qu’un oni prenant une apparence humano&#239;de.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Tout lanceur de sorts d’alignement Loyal Mauvais de niveau
+7 prenant le don Familier sup&#233;rieur peut avoir un esprit
+oni pour familier. Le rituel n&#233;cessaire exige que le lanceur
+de sorts fabrique un masque oni aux traits d&#233;moniaques
+particuli&#232;rement f&#233;roces : pour cela, il n’est pas n&#233;cessaire
+d’effectuer de test d’Artisanat ou de d&#233;penser de l’or en plus,
+le processus est consid&#233;r&#233; comme faisant partie du rituel
+consistant &#224; obtenir le familier. Lorsque le rituel est termin&#233;,
+un esprit oni brut est attir&#233; dans le masque qui se transforme
+aussit&#244;t en la cr&#233;ature vivante et anim&#233;e pr&#233;sent&#233;e ici.
+Le rituel lie l’oni &#224; son nouveau ma&#238;tre et le prive d’une
+chance de prendre forme humaine. C’est pourquoi les esprits
+onis sont des cr&#233;atures odieuses et acari&#226;tres, m&#234;me avec
+leur ma&#238;tre. Il faut les r&#233;primander r&#233;guli&#232;rement et leur
+enseigner la discipline, de crainte que leur jalousie et leur
+amertume ne l’emportent.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Lorsque son ma&#238;tre meurt, l’esprit oni gagne son librearbitre
+et la capacit&#233; &#224; faire ses propres choix. Mais la l&#226;chet&#233;
+et le manque d’honneur inn&#233;s de l’esprit l’emp&#234;chent
+g&#233;n&#233;ralement de mettre fin &#224; sa propre vie alors que cela
+lui permettrait peut-&#234;tre de retrouver sa v&#233;ritable forme
+spirituelle et de revenir sous forme d’un oni digne de ce nom.
+Plut&#244;t que de se tuer, les esprits onis sans ma&#238;tre cherchent de
+plus puissants onis et leur offrent leurs services, dans l’espoir
+de se voir un jour promu &#224; une position correspondant
+davantage &#224; leur ego et &#224; leurs d&#233;sirs.
+&lt;/div&gt;&lt;br /&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Esprit Oni|FP 2}
+{s:pucem|Extérieur|Ville|Tempéré}
+{s:BDTexte|''Source : Bestiaire 3'' p.205}
+{s:BDTexte|'''PX''' 600}
+{s:BDTexte|[[type Extérieur|Extérieur]] sous-type([[sous-type natif|natif]], [[sous-type Oni|Oni]]) de taille TP, NM}
+{s:BDTexte|'''Init''' +8 ; '''Sens''' [[vision dans le noir]] 18 m (12 c) , [[Détection de la magie]] ; [[Perception]] +7}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 17, contact 16, pris au dépourvu 13 (Dex +4, naturelle +1, taille +2)}
+{s:BDTexte|'''pv''' 19 (3d10+3) ; [[guérison accélérée]] 2 }
+{s:BDTexte|'''Réf''' +7, '''Vig''' +2, '''Vol''' +4}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 3 m (2 c), vol 9 m (bonne, 6 c)}
+{s:BDTexte|'''Corps à corps''' morsure +9 (1d4-2), corne +9 (1d4-2 plus poison)}
+{s:BDTexte|'''Espace''' 3 m (2 c) ; '''Allonge''' 3 m (2 c)}
+{s:BDTexte|'''Attaques spéciales''' poison}
+{s:BDTexte|'''Pouvoirs magiques''' (NLS 6 ; concentration +8)}
+{s:BDSorts|À volonté — ''[[Invisibilité]]'' (personnelle uniquement), ''[[Manipulation à distance]]''}
+{s:BDSorts|1/jour — ''[[Injonction]]'' ([[DD]] 13), ''[[Sommeil]]'' ([[DD]] 13)}
+{s:BDSorts|1/jour — 1/semaine — ''[[Communion]]'' (NLS 12, 6 questions)}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 6, '''Dex''' 19, '''Con''' 12, '''Int''' 13, '''Sag''' 12, '''Cha''' 15}
+{s:BDTexte|'''BBA''' +3, '''BMO''' +5, '''DMD''' 13 ([[croc-en-jambe]] impossible)}
+{s:BDTexte|'''Dons''' [[Attaque en finesse]] , [[Science de linitiative|Science de l'initiative]]}
+{s:BDTexte|'''Compétences'''  [[Acrobaties]] +7, [[Art de la magie]] +4, [[Bluff]] +8,
+[[Connaissances]] (mystères) +7, [[Discrétion]] +17, [[Perception]] +7, [[Psychologie]] +7, [[Vol]] +16}
+{s:BDTexte|'''Langues''' : commun }
+{s:BDTexte|'''Particularités''' : masque de symbiose }
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' tous}
+{s:BDTexte|'''Organisation sociale''' solitaire, couple, ou rang (3-12)}
+{s:BDTexte|'''Trésor''' Standard}
+{s:BDSousTitre|pouvoirs spéciaux}
+{s:BDTexte|'''Masque de symbiose (Ext).''' Une créature volontaire de taille P
+ou M peut porter l’esprit oni comme un masque. Lorsqu’elle
+le porte ainsi, elle peut voir au travers des yeux de l’oni et
+parler à travers sa bouche, même si elle conserve sa voix et
+ses sens. L’esprit oni demeure une créature à part entière
+et doit se détacher du visage de son hôte (par une action de
+mouvement) s’il souhaite effectuer ses propres actions (y
+compris attaquer ou utiliser des pouvoirs magiques). Lorsque
+l’esprit oni est porté comme un masque, il accorde un bonus
+d’intuition de +2 aux tests de [[Perception]] de son hôte.}
+{s:BDTexte|'''Poison (Ext).''' Corne — blessure ; ''JdS'' [[Vigueur]] [[DD]] 12 ; ''fréquence''
+1/round pendant 6 [[round]]s ; ''effet'' [[affaiblissement temporaire]]
+de 1d2 Cha ; ''guérison'' 2 réussites consécutives.}
+</div>
+</td><td><div>''Ce masque animé aux traits maléfiques présente le visage d’un fiélon
+cornu aux yeux exorbités et au sourire lubrique dévoilant ses crocs.''
+
+La plupart des onis qui arrivent sur le Plan matériel
+intègrent une nouvelle enveloppe charnelle humanoïde
+mais ce n’est pas le cas pour tous. De temps à autre, quand
+un lanceur de sorts d’alignement Mauvais souhaite s’arroger
+les services d’un oni en tant que familier, le résultat peut être
+quelque peu inhabituel : on obtient alors un oni de chair
+directement façonné à partir de sa forme spirituelle plutôt
+qu’un oni prenant une apparence humanoïde.{br}
+
+Tout lanceur de sorts d’alignement Loyal Mauvais de niveau
+7 prenant le don Familier supérieur peut avoir un esprit
+oni pour familier. Le rituel nécessaire exige que le lanceur
+de sorts fabrique un masque oni aux traits démoniaques
+particulièrement féroces : pour cela, il n’est pas nécessaire
+d’effectuer de test d’Artisanat ou de dépenser de l’or en plus,
+le processus est considéré comme faisant partie du rituel
+consistant à obtenir le familier. Lorsque le rituel est terminé,
+un esprit oni brut est attiré dans le masque qui se transforme
+aussitôt en la créature vivante et animée présentée ici.
+Le rituel lie l’oni à son nouveau maître et le prive d’une
+chance de prendre forme humaine. C’est pourquoi les esprits
+onis sont des créatures odieuses et acariâtres, même avec
+leur maître. Il faut les réprimander régulièrement et leur
+enseigner la discipline, de crainte que leur jalousie et leur
+amertume ne l’emportent.{br}
+
+Lorsque son maître meurt, l’esprit oni gagne son librearbitre
+et la capacité à faire ses propres choix. Mais la lâcheté
+et le manque d’honneur innés de l’esprit l’empêchent
+généralement de mettre fin à sa propre vie alors que cela
+lui permettrait peut-être de retrouver sa véritable forme
+spirituelle et de revenir sous forme d’un oni digne de ce nom.
+Plutôt que de se tuer, les esprits onis sans maître cherchent de
+plus puissants onis et leur offrent leurs services, dans l’espoir
+de se voir un jour promu à une position correspondant
+davantage à leur ego et à leurs désirs.
+</div>
+
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Esprit Oni</fullName>
+</wikiPage>

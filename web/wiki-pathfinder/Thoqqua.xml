@@ -1,0 +1,128 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Thoqqua</title>
+  <categories><category>Pathfinder-RPG.Bestiaire 2</category><category>Pathfinder-RPG.Monstre</category><category>Pathfinder-RPG.Règles officielles</category></categories>
+  <lastModified>2012-01-22 16:09:59Z</lastModified>
+  <version>1</version>
+  <inLinks><link>Pathfinder-RPG.Glossaire des monstres</link><link>Pathfinder-RPG.Lier un extérieur</link><link>Pathfinder-RPG.Liste de monstres par FP</link><link>Pathfinder-RPG.Liste de monstres par milieu naturel</link><link>Pathfinder-RPG.Liste de monstres par type</link><link>Pathfinder-RPG.Monstres</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.type Extérieur</link><link>Pathfinder-RPG.sous-type élémentaire</link><link>Pathfinder-RPG.sous-type extraplanaire</link><link>Pathfinder-RPG.sous-type Feu</link><link>Pathfinder-RPG.sous-type Terre</link><link>Pathfinder-RPG.Perception des vibrations</link><link>Pathfinder-RPG.vision dans le noir</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Vulnérabilités (capacité)</link><link>Pathfinder-RPG.Combustion</link><link>Pathfinder-RPG.croc-en-jambe</link><link>Pathfinder-RPG.Aisance</link><link>Pathfinder-RPG.Talent</link><link>Pathfinder-RPG.Acrobaties</link><link>Pathfinder-RPG.Discrétion</link><link>Pathfinder-RPG.Survie</link><link>Pathfinder-RPG.Agrippé</link><link>Pathfinder-RPG.Méphite</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Thoqqua&lt;div style=&quot;float:right;&quot;&gt;FP 2&lt;/div&gt;&lt;/div&gt;
+&lt;ul&gt;&lt;li&gt;&lt;i&gt;Source : Bestiaire 2, p.267&lt;/i&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;PX&lt;/b&gt; 600&lt;/li&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Type-Ext&#233;rieur.html&quot; title=&quot;Ext&#233;rieur&quot;&gt;Ext&#233;rieur&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-&#201;l&#233;mentaire.html&quot; title=&quot;&#201;l&#233;mentaire (sous-type)&quot;&gt;&#233;l&#233;mentaire&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Extraplanaire.html&quot; title=&quot;Extraplanaire (sous-type)&quot;&gt;extraplanaire&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Feu.html&quot; title=&quot;Feu (sous-type)&quot;&gt;Feu&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Terre.html&quot; title=&quot;Terre (sous-type)&quot;&gt;Terre&lt;/a&gt;) de taille M, N&lt;/li&gt;&lt;li&gt;&lt;b&gt;Init&lt;/b&gt; +1 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Perception-Des-Vibrations-(Capacit&#233;).html&quot; title=&quot;Perception des vibrations&quot;&gt;perception des vibrations&lt;/a&gt; 18 m (12 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), &lt;a class=&quot;pagelink&quot; href=&quot;Capacit&#233;s-Sp&#233;ciales.html#VISIONDANSLENOIR&quot; title=&quot;vision dans le noir&quot;&gt;vision dans le noir&lt;/a&gt; 18 m (12 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +10&lt;br /&gt;&lt;div class=&quot;box&quot;&gt;D&#233;fense&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;CA&lt;/b&gt; 15, contact 11, pris au d&#233;pourvu 14 (Dex +1, naturelle +4)&lt;/li&gt;&lt;li&gt;&lt;b&gt;pv&lt;/b&gt; 22 (3d10+6)&lt;/li&gt;&lt;li&gt;&lt;b&gt;R&#233;f&lt;/b&gt; +4, &lt;b&gt;Vig&lt;/b&gt; +5, &lt;b&gt;Vol&lt;/b&gt; +2&lt;/li&gt;&lt;li&gt;&lt;b&gt;Capacit&#233;s d&#233;fensives&lt;/b&gt; corps en fusion ; Immunit&#233;s feu, &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-&#201;l&#233;mentaire.html&quot; title=&quot;&#201;l&#233;mentaire (sous-type)&quot;&gt;traits des &#233;l&#233;mentaires&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;Faiblesses&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vuln&#233;rabilit&#233;s-(Capacit&#233;).html&quot; title=&quot;Vuln&#233;rabilit&#233;s (Ext ou Sur)&quot;&gt;vuln&#233;rabilit&#233;&lt;/a&gt; au froid&lt;br /&gt;&lt;div class=&quot;box&quot;&gt;Attaque&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;VD&lt;/b&gt; 9 m (6 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), creusement 6 m (4 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)&lt;/li&gt;&lt;li&gt;&lt;b&gt;Corps &#224; corps&lt;/b&gt; coup, +4 (1d6+1 plus &lt;a class=&quot;pagelink&quot; href=&quot;Combustion-(Capacit&#233;).html&quot; title=&quot;Combustion&quot;&gt;combustion&lt;/a&gt;)&lt;/li&gt;&lt;li&gt;&lt;b&gt;Attaques sp&#233;ciales&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Combustion-(Capacit&#233;).html&quot; title=&quot;Combustion&quot;&gt;combustion&lt;/a&gt; (1d6, DD 13)&lt;br /&gt;&lt;div class=&quot;box&quot;&gt;Statistiques&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;For&lt;/b&gt; 13, &lt;b&gt;Dex&lt;/b&gt; 13, &lt;b&gt;Con&lt;/b&gt; 15, &lt;b&gt;Int&lt;/b&gt; 6, &lt;b&gt;Sag&lt;/b&gt; 12, &lt;b&gt;Cha&lt;/b&gt; 10&lt;/li&gt;&lt;li&gt;&lt;b&gt;BBA&lt;/b&gt; +3 ; &lt;b&gt;BMO&lt;/b&gt; +4 ; &lt;b&gt;DMD&lt;/b&gt; 15 (&lt;a class=&quot;pagelink&quot; href=&quot;Croc-En-Jambe.html&quot; title=&quot;croc-en-jambe&quot;&gt;croc-en-jambe&lt;/a&gt; impossible)&lt;/li&gt;&lt;li&gt;&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Aisance.html&quot; title=&quot;Aisance&quot;&gt;Aisance&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Talent.html&quot; title=&quot;Talent&quot;&gt;Talent&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt;)&lt;/li&gt;&lt;li&gt;&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Acrobaties.html&quot; title=&quot;Acrobaties&quot;&gt;Acrobaties&lt;/a&gt; +7, &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; +7, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +10, &lt;a class=&quot;pagelink&quot; href=&quot;Survie.html&quot; title=&quot;Survie&quot;&gt;Survie&lt;/a&gt; +7&lt;/li&gt;&lt;li&gt;&lt;b&gt;Langues&lt;/b&gt; ign&#233; (incapable de parler)&lt;br /&gt;&lt;div class=&quot;box&quot;&gt;&#201;cologie&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;Environnement&lt;/b&gt; terre ferme (plan du Feu)&lt;/li&gt;&lt;li&gt;&lt;b&gt;Organisation sociale&lt;/b&gt; solitaire ou couple&lt;/li&gt;&lt;li&gt;&lt;b&gt;Tr&#233;sor&lt;/b&gt; aucun&lt;br /&gt;&lt;div class=&quot;box&quot;&gt;Pouvoirs sp&#233;ciaux&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;Corps en fusion (Sur).&lt;/b&gt; Le corps d’un thoqqua est suffisamment chaud pour faire fondre la pierre. Les cr&#233;atures qui frappent un thoqqua &#224; l’aide d’une arme naturelle ou d’une attaque &#224; mains nues subissent 1d6 points de d&#233;g&#226;ts de feu. Les cr&#233;atures qui agrippent un thoqqua ou qui sont &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables.html#Agripp&#233;&quot; title=&quot;Agripp&#233;&quot;&gt;agripp&#233;es&lt;/a&gt; par un thoqqua subissent 3d6 points de d&#233;g&#226;ts de feu par round tant que l’&#233;treinte persiste. Les cr&#233;atures qui frappent un thoqqua &#224; l’aide d’une arme manufactur&#233;e peuvent tenter un jet de R&#233;flexes contre un DD de 13 afin d’&#233;loigner l’arme assez rapidement du corps de la cr&#233;ature pour &#233;viter que l’objet ne subisse 1d6 points de d&#233;g&#226;ts de feu (les d&#233;g&#226;ts inflig&#233;s &#224; une arme de cette mani&#232;re ne sont pas divis&#233;s par deux comme c’est normalement le cas pour les d&#233;g&#226;ts inflig&#233;s &#224; des objets ; de plus, ils ignorent les 5 premiers points de solidit&#233; que l’arme poss&#232;de). La plupart des armes en m&#233;tal peuvent donc frapper un thoqqa sans risquer d’&#234;tre vraiment endommag&#233;es, mais les armes en bois ont de grandes chances de br&#251;ler lorsqu’elles sont utilis&#233;es contre une de ces cr&#233;atures. Le DD du jet de sauvegarde d&#233;pend de la Constitution.&lt;br /&gt;&lt;/li&gt;&lt;/ul&gt;&lt;br /&gt;&lt;/div&gt;
+&lt;/td&gt;&lt;td&gt;&lt;div&gt;&lt;i&gt;L’&#233;pais corps serpentin de cette cr&#233;ature est prot&#233;g&#233; par de robustes plaques munies d’&#233;pines. Une aura de chaleur bien visible &#233;mane de ses &#233;cailles rouges comme la lave.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Les thoqquas sont des cr&#233;atures acari&#226;tres faites de feu et de
+plaques fumantes. Leur corps g&#233;n&#232;re une chaleur incroyable qui
+leur permet de traverser et de faire fondre la plupart des mati&#232;res,
+m&#234;me la roche solide. Ces cr&#233;atures originaires des vastes d&#233;serts
+de cendres et des champs de lave situ&#233;s l&#224; o&#249; le plan du Feu et
+le plan de la Terre se rencontrent se nourrissent de minerais et
+de min&#233;raux qui sont fondus et raffin&#233;s au sein de leur corps,
+ce dernier fonctionant comme une fournaise et produisant les
+plaques protectrices qui leur donnent un impressionnant bonus
+d’armure naturelle. En tant qu’Ext&#233;rieurs, ces cr&#233;atures n’ont pas
+besoin de manger pour survivre, mais les thoqquas &#171; affam&#233;s &#187;
+poss&#232;dent g&#233;n&#233;ralement un bonus d’armure naturelle inf&#233;rieur
+&#224; celui des thoqquas bien repus.&lt;br /&gt;&lt;br /&gt;La partie avant du corps des thoqquas se r&#233;tr&#233;cit pour former
+un bec ressemblant &#224; une corne bien droite qui luit et &#233;met une
+chaleur torride. Comme il sort constamment de la vapeur et de
+la fum&#233;e de leurs articulations, les thoqquas ressemblent de loin
+&#224; d’&#233;tranges cr&#233;atures m&#233;caniques faites de m&#233;tal. Un thoqqua
+adulte mesure 1,50 m&#232;tres de long et p&#232;se 100 kg.
+Vu leur temp&#233;rament col&#233;rique, il est dangereux d’entrer en
+contact avec les thoqquas. Ils attaquent sans r&#233;fl&#233;chir lorsqu’ils
+sont surpris ou contrari&#233;s. Par contre, si un thoaqqua ne chasse
+pas imm&#233;diatement les humano&#239;des qui se trouvent sur son
+territoire, il en vient &#224; consid&#233;rer peu &#224; peu cette communaut&#233;
+comme sa propri&#233;t&#233; et peut m&#234;me la prot&#233;ger.&lt;br /&gt;&lt;br /&gt;Les &lt;a class=&quot;pagelink&quot; href=&quot;M&#233;phite.html&quot; title=&quot;M&#233;phite&quot;&gt;m&#233;phites&lt;/a&gt; semblent comprendre la mani&#232;re de
+penser des thoqquas et, de temps en temps, ils passent des
+march&#233;s avec ces vers simples d’esprit. Selon les m&#233;phites,
+les anc&#234;tres des thoqquas actuels, des cr&#233;atures de la taille
+d’une montagne, auraient &#233;t&#233; les serviteurs des seigneurs
+&#233;l&#233;mentaires et auraient creus&#233; les premiers volcans dans
+les mondes du plan Mat&#233;riel &#224; l’&#233;poque o&#249; ces royaumes
+&#233;taient encore jeunes. Ces vers ancestraux se seraient ensuite
+retir&#233;s vers les noyaux des mondes o&#249;, encore aujourd’hui,
+leur chaleur r&#233;chaufferait les plan&#232;tes. Les thoqquas qui vivent
+actuellement sur le plan Mat&#233;riel se rassemblent souvent pr&#232;s
+des volcans, mais on ne sait pas si c’est parce qu’ils consid&#232;rent
+l’endroit comme un simple site nourricier riche en minerais ou
+comme un emplacement sacr&#233;.
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Thoqqua|FP 2}
+* ''Source : Bestiaire 2, p.267''
+* '''PX''' 600
+* [[type Extérieur|Extérieur]] ([[sous-type élémentaire|élémentaire]], [[sous-type extraplanaire|extraplanaire]], [[sous-type Feu|Feu]], [[sous-type Terre|Terre]]) de taille M, N
+* '''Init''' +1 ; '''Sens''' [[perception des vibrations]] 18 m (12 {s:c}), [[vision dans le noir]] 18 m (12 {s:c}) ; [[Perception]] +10
+(((Défense)))
+* '''CA''' 15, contact 11, pris au dépourvu 14 (Dex +1, naturelle +4)
+* '''pv''' 22 (3d10+6)
+* '''Réf''' +4, '''Vig''' +5, '''Vol''' +2
+* '''Capacités défensives''' corps en fusion ; Immunités feu, [[sous-type élémentaire|traits des élémentaires]]
+* '''Faiblesses''' [[vulnérabilités (capacité)|vulnérabilité]] au froid
+(((Attaque)))
+* '''VD''' 9 m (6 {s:c}), creusement 6 m (4 {s:c})
+* '''Corps à corps''' coup, +4 (1d6+1 plus [[combustion]])
+* '''Attaques spéciales''' [[combustion]] (1d6, DD 13)
+(((Statistiques)))
+* '''For''' 13, '''Dex''' 13, '''Con''' 15, '''Int''' 6, '''Sag''' 12, '''Cha''' 10
+* '''BBA''' +3 ; '''BMO''' +4 ; '''DMD''' 15 ([[croc-en-jambe]] impossible)
+* '''Dons''' [[Aisance]], [[Talent]] ([[Perception]])
+* '''Compétences''' [[Acrobaties]] +7, [[Discrétion]] +7, [[Perception]] +10, [[Survie]] +7
+* '''Langues''' igné (incapable de parler)
+(((Écologie)))
+* '''Environnement''' terre ferme (plan du Feu)
+* '''Organisation sociale''' solitaire ou couple
+* '''Trésor''' aucun
+(((Pouvoirs spéciaux)))
+* '''Corps en fusion (Sur).''' Le corps d’un thoqqua est suffisamment chaud pour faire fondre la pierre. Les créatures qui frappent un thoqqua à l’aide d’une arme naturelle ou d’une attaque à mains nues subissent 1d6 points de dégâts de feu. Les créatures qui agrippent un thoqqua ou qui sont [[agrippé|agrippées]] par un thoqqua subissent 3d6 points de dégâts de feu par round tant que l’étreinte persiste. Les créatures qui frappent un thoqqua à l’aide d’une arme manufacturée peuvent tenter un jet de Réflexes contre un DD de 13 afin d’éloigner l’arme assez rapidement du corps de la créature pour éviter que l’objet ne subisse 1d6 points de dégâts de feu (les dégâts infligés à une arme de cette manière ne sont pas divisés par deux comme c’est normalement le cas pour les dégâts infligés à des objets ; de plus, ils ignorent les 5 premiers points de solidité que l’arme possède). La plupart des armes en métal peuvent donc frapper un thoqqa sans risquer d’être vraiment endommagées, mais les armes en bois ont de grandes chances de brûler lorsqu’elles sont utilisées contre une de ces créatures. Le DD du jet de sauvegarde dépend de la Constitution.
+
+</div>
+</td><td><div>''L’épais corps serpentin de cette créature est protégé par de robustes plaques munies d’épines. Une aura de chaleur bien visible émane de ses écailles rouges comme la lave.''
+
+Les thoqquas sont des créatures acariâtres faites de feu et de
+plaques fumantes. Leur corps génère une chaleur incroyable qui
+leur permet de traverser et de faire fondre la plupart des matières,
+même la roche solide. Ces créatures originaires des vastes déserts
+de cendres et des champs de lave situés là où le plan du Feu et
+le plan de la Terre se rencontrent se nourrissent de minerais et
+de minéraux qui sont fondus et raffinés au sein de leur corps,
+ce dernier fonctionant comme une fournaise et produisant les
+plaques protectrices qui leur donnent un impressionnant bonus
+d’armure naturelle. En tant qu’Extérieurs, ces créatures n’ont pas
+besoin de manger pour survivre, mais les thoqquas « affamés »
+possèdent généralement un bonus d’armure naturelle inférieur
+à celui des thoqquas bien repus.
+
+La partie avant du corps des thoqquas se rétrécit pour former
+un bec ressemblant à une corne bien droite qui luit et émet une
+chaleur torride. Comme il sort constamment de la vapeur et de
+la fumée de leurs articulations, les thoqquas ressemblent de loin
+à d’étranges créatures mécaniques faites de métal. Un thoqqua
+adulte mesure 1,50 mètres de long et pèse 100 kg.
+Vu leur tempérament colérique, il est dangereux d’entrer en
+contact avec les thoqquas. Ils attaquent sans réfléchir lorsqu’ils
+sont surpris ou contrariés. Par contre, si un thoaqqua ne chasse
+pas immédiatement les humanoïdes qui se trouvent sur son
+territoire, il en vient à considérer peu à peu cette communauté
+comme sa propriété et peut même la protéger.
+
+Les [[méphite|méphites]] semblent comprendre la manière de
+penser des thoqquas et, de temps en temps, ils passent des
+marchés avec ces vers simples d’esprit. Selon les méphites,
+les ancêtres des thoqquas actuels, des créatures de la taille
+d’une montagne, auraient été les serviteurs des seigneurs
+élémentaires et auraient creusé les premiers volcans dans
+les mondes du plan Matériel à l’époque où ces royaumes
+étaient encore jeunes. Ces vers ancestraux se seraient ensuite
+retirés vers les noyaux des mondes où, encore aujourd’hui,
+leur chaleur réchaufferait les planètes. Les thoqquas qui vivent
+actuellement sur le plan Matériel se rassemblent souvent près
+des volcans, mais on ne sait pas si c’est parce qu’ils considèrent
+l’endroit comme un simple site nourricier riche en minerais ou
+comme un emplacement sacré.
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Thoqqua</fullName>
+</wikiPage>

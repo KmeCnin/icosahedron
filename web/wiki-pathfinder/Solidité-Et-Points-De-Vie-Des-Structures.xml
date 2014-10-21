@@ -1,0 +1,91 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Solidité et points de vie des structures</title>
+  <categories><category>Pathfinder-RPG.Art de la guerre</category><category>Pathfinder-RPG.Règles officielles</category></categories>
+  <lastModified>2013-04-07 20:53:30Z</lastModified>
+  <version>0</version>
+  <inLinks></inLinks>
+  <outLinks><link>Pathfinder-RPG.Brisé</link><link>Pathfinder-RPG.solidité</link><link>Pathfinder-RPG.taille</link><link>Pathfinder-RPG.CA</link><link>Pathfinder-RPG.Création darmes et armures magiques</link><link>Pathfinder-RPG.Actions complexes</link><link>Pathfinder-RPG.Action complexe</link><link>Pathfinder-RPG.Force</link></outLinks>
+  <body><![CDATA[Quand une arm&#233;e utilise une arme de si&#232;ge contre des troupes adverses, l’engin sert &#224; les d&#233;moraliser et &#224; d&#233;truire leurs structures. Voici les statistiques des diverses barri&#232;res et b&#226;timents qui leur servent de cible. Ils se divisent en trois cat&#233;gories : b&#226;timents, murs et portes.&lt;br /&gt;&lt;br /&gt;Quand une de ces structures est &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables.html#Bris&#233;&quot; title=&quot;Bris&#233;&quot;&gt;bris&#233;e&lt;/a&gt;, sa &lt;a class=&quot;pagelink&quot; href=&quot;Exploration.html#SOLIDITE&quot; title=&quot;solidit&#233;&quot;&gt;solidit&#233;&lt;/a&gt; est r&#233;duite de moiti&#233;, en plus des autres effets associ&#233;s &#224; la condition n&#233;faste.&lt;br /&gt;&lt;br /&gt;&lt;h3 class=&quot;separator&quot;&gt;B&#226;timents&lt;a class=&quot;headeranchor&quot; id=&quot;B&#226;timents_0&quot; href=&quot;#B&#226;timents_0&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;&lt;div style=&quot;float: right; margin-left: 10px; margin-right: -20px; max-width: 300px;&quot; class=&quot;presentation recentre&quot;&gt;
+&lt;table CLASS=&quot;tablo&quot;&gt;&lt;caption&gt;Les b&#226;timents&lt;/caption&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td&gt;Mat&#233;riau&lt;/td&gt;&lt;td&gt;Solidit&#233;&lt;/td&gt;&lt;td&gt;G&lt;/td&gt;&lt;td&gt;TG&lt;/td&gt;&lt;td&gt;Gig&lt;/td&gt;&lt;td&gt;Col&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier&quot;&gt;&lt;td&gt;&amp;emsp;Bois&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;120&lt;/td&gt;&lt;td&gt;270&lt;/td&gt;&lt;td&gt;960&lt;/td&gt;&lt;td&gt;3 240&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;&amp;emsp;Pierre&lt;/td&gt;&lt;td&gt;8&lt;/td&gt;&lt;td&gt;200&lt;/td&gt;&lt;td&gt;450&lt;/td&gt;&lt;td&gt;1 600&lt;/td&gt;&lt;td&gt;5 400&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&amp;emsp;Fer ou acier&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;400&lt;/td&gt;&lt;td&gt;900&lt;/td&gt;&lt;td&gt;3 200&lt;/td&gt;&lt;td&gt;10 800&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;&amp;emsp;Adamantium&lt;/td&gt;&lt;td&gt;20&lt;/td&gt;&lt;td&gt;560&lt;/td&gt;&lt;td&gt;1 260&lt;/td&gt;&lt;td&gt;4 480&lt;/td&gt;&lt;td&gt;15 120&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;Les b&#226;timents sont des structures de grande &lt;a class=&quot;pagelink&quot; href=&quot;Petites-Et-Grandes-Cr&#233;atures.html#TABLEAUTAILLES&quot; title=&quot;taille&quot;&gt;taille&lt;/a&gt; avec beaucoup de points de vie et une &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#CA&quot; title=&quot;CA&quot;&gt;CA&lt;/a&gt; n&#233;gligeable (un b&#226;timent G a une CA de 4, un TG de 3 et un Gig ou plus de 0). Le b&#226;timent est &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables.html#Bris&#233;&quot; title=&quot;Bris&#233;&quot;&gt;bris&#233;&lt;/a&gt; une fois qu’il tombe &#224; la moiti&#233; de ses points de vie. Il tient encore debout mais il est partiellement &#233;ventr&#233;. On peut y entrer sans mal et on consid&#232;re qu’il a une br&#232;che. Si le b&#226;timent tombe &#224; 0 point de vie, il est enti&#232;rement d&#233;truit. Les cr&#233;atures qui se trouvent dans le b&#226;timent sont alors victimes des m&#234;mes effets que lors d’un &#233;boulement.&lt;br /&gt;&lt;br /&gt;Les statistiques du b&#226;timent sont donn&#233;es pour une structure creuse mais robuste, avec suffisamment de place pour que ses occupants puissent se d&#233;placer. Un b&#226;timent pr&#233;caire n’a que la moiti&#233; des points de vie donn&#233;s dans la table 3-18. On peut renforcer un b&#226;timent par magie, comme les murs ou les portes des donjons, ce qui double sa &lt;a class=&quot;pagelink&quot; href=&quot;Exploration.html#SOLIDITE&quot; title=&quot;solidit&#233;&quot;&gt;solidit&#233;&lt;/a&gt; et ses points de vie. Un b&#226;timent trait&#233; par magie co&#251;te 5 000 po pour un G, 10 000 po pour un TG, 20 000 po pour un Gig et 40 000 po pour un Col. Un lanceur de sorts avec le don &lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;ation-Darmes-Et-Armures-Magiques.html&quot; title=&quot;Cr&#233;ation d&amp;#39;armes et armures magiques&quot;&gt;Cr&#233;ation d’armes et d’armures magiques&lt;/a&gt; peut renforcer un b&#226;timent par magie.&lt;br /&gt;&lt;br /&gt;Pour les b&#226;timents encore plus grands, il suffit d’ajouter les points de vie de plusieurs b&#226;timents correspondants aux &lt;a class=&quot;pagelink&quot; href=&quot;Petites-Et-Grandes-Cr&#233;atures.html#TABLEAUTAILLES&quot; title=&quot;taille&quot;&gt;tailles&lt;/a&gt; donn&#233;es.&lt;br /&gt;&lt;br /&gt;&lt;h3 class=&quot;separator&quot;&gt;Murs&lt;a class=&quot;headeranchor&quot; id=&quot;Murs_1&quot; href=&quot;#Murs_1&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;&lt;div style=&quot;float: right; margin-left: 10px; margin-right: -20px; max-width: 350px;&quot; class=&quot;presentation recentre&quot;&gt;
+&lt;table CLASS=&quot;tablo&quot;&gt;&lt;caption&gt;Les murs&lt;/caption&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td&gt;Mat&#233;riau&lt;/td&gt;&lt;td&gt;Solidit&#233;&lt;/td&gt;&lt;td&gt;Points de vie par carr&#233; de 1,50 m&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier&quot;&gt;&lt;td&gt;&amp;emsp;Bois&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;30&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;&amp;emsp;Pierre&lt;/td&gt;&lt;td&gt;8&lt;/td&gt;&lt;td&gt;45&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&amp;emsp;Fer ou acier&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;90&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;&amp;emsp;Adamantium&lt;/td&gt;&lt;td&gt;20&lt;/td&gt;&lt;td&gt;120&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;Les murs qui prot&#232;gent un ch&#226;teau ou une ville sont de robustes fortifications, habituellement b&#226;ties sous forme de sections de 1,50 m de c&#244;t&#233;. Une case de mur a une &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#CA&quot; title=&quot;CA&quot;&gt;CA&lt;/a&gt; de 5 ainsi qu’une &lt;a class=&quot;pagelink&quot; href=&quot;Exploration.html#SOLIDITE&quot; title=&quot;solidit&#233;&quot;&gt;solidit&#233;&lt;/a&gt; et un montant de points de vie qui d&#233;pend de son type.&lt;br /&gt;&lt;br /&gt;On peut traiter des pans de mur par magie. Il faut d&#233;penser 500 po pour traiter une case de mur. Un lanceur de sorts qui dispose du don &lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;ation-Darmes-Et-Armures-Magiques.html&quot; title=&quot;Cr&#233;ation d&amp;#39;armes et armures magiques&quot;&gt;Cr&#233;ation d’armes et armures magiques&lt;/a&gt; est habilit&#233; &#224; renforcer un mur par magie.&lt;br /&gt;&lt;br /&gt;Quand un mur est &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables.html#Bris&#233;&quot; title=&quot;Bris&#233;&quot;&gt;bris&#233;&lt;/a&gt;, sa &lt;a class=&quot;pagelink&quot; href=&quot;Exploration.html#SOLIDITE&quot; title=&quot;solidit&#233;&quot;&gt;solidit&#233;&lt;/a&gt; est r&#233;duite de moiti&#233; mais il ne souffre pas d’une br&#232;che. Pour cela, il faut le d&#233;truire compl&#232;tement. Une fois la case de mur &#233;ventr&#233;e, tout ce qui se trouve au-dessus tombe imm&#233;diatement &#224; la place laiss&#233;e vide. La section de mur qui s’effondre alors n’a plus que la moiti&#233; de ses points de vie -1. Elle est donc &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables.html#Bris&#233;&quot; title=&quot;Bris&#233;&quot;&gt;bris&#233;e&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;&lt;h3 class=&quot;separator&quot;&gt;Portes&lt;a class=&quot;headeranchor&quot; id=&quot;Portes_2&quot; href=&quot;#Portes_2&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;&lt;div style=&quot;float: right; margin-left: 10px; margin-right: -20px; max-width: 370px;&quot; class=&quot;presentation recentre&quot;&gt;
+&lt;table CLASS=&quot;tablo&quot;&gt;&lt;caption&gt;Les portes&lt;/caption&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td&gt;Mat&#233;riau&lt;/td&gt;&lt;td&gt;DD Enfoncer &lt;sup&gt;(1)&lt;/sup&gt;&lt;/td&gt;&lt;td&gt;Solidit&#233;&lt;/td&gt;&lt;td&gt;G&lt;/td&gt;&lt;td&gt;TG&lt;/td&gt;&lt;td&gt;Gig&lt;/td&gt;&lt;td&gt;Col&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier&quot;&gt;&lt;td&gt;&amp;emsp;Bois&lt;/td&gt;&lt;td&gt;35&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;60&lt;/td&gt;&lt;td&gt;135&lt;/td&gt;&lt;td&gt;240&lt;/td&gt;&lt;td&gt;540&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;&amp;emsp;Pierre&lt;/td&gt;&lt;td&gt;38&lt;/td&gt;&lt;td&gt;8&lt;/td&gt;&lt;td&gt;100&lt;/td&gt;&lt;td&gt;225&lt;/td&gt;&lt;td&gt;400&lt;/td&gt;&lt;td&gt;900&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&amp;emsp;Fer ou acier&lt;/td&gt;&lt;td&gt;24&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;200&lt;/td&gt;&lt;td&gt;500&lt;/td&gt;&lt;td&gt;800&lt;/td&gt;&lt;td&gt;1 800&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;&amp;emsp;Adamantium&lt;/td&gt;&lt;td&gt;48&lt;/td&gt;&lt;td&gt;20&lt;/td&gt;&lt;td&gt;280&lt;/td&gt;&lt;td&gt;630&lt;/td&gt;&lt;td&gt;1 120&lt;/td&gt;&lt;td&gt;2 520&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;&lt;br /&gt;Les portes permettent d’entrer et de sortir d’une structure fortifi&#233;e, ce sont g&#233;n&#233;ralement les points faibles des d&#233;fenses.&lt;br /&gt;&lt;br /&gt;La porte d’un b&#226;timent est au moins de taille G mais il en existe des Col. G&#233;n&#233;ralement, il faut trois &lt;a class=&quot;pagelink&quot; href=&quot;Actions-Complexes.html&quot; title=&quot;Actions complexes&quot;&gt;actions complexes&lt;/a&gt; pour ouvrir ou fermer une porte G (trois cr&#233;atures peuvent fermer la porte ensemble pour le faire par une &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions.html#COMPLEXE&quot; title=&quot;Action complexe&quot;&gt;action complexe&lt;/a&gt;). La &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#CA&quot; title=&quot;CA&quot;&gt;CA&lt;/a&gt; des portes est bas&#233;e sur leur taille : CA 4 pour une G, CA 3 pour une TG, CA 0 pour une Gig ou plus). On peut renforcer une porte par magie, ce qui double sa &lt;a class=&quot;pagelink&quot; href=&quot;Exploration.html#SOLIDITE&quot; title=&quot;solidit&#233;&quot;&gt;solidit&#233;&lt;/a&gt; et ses points de vie. Une porte trait&#233;e par magie co&#251;te 2 000 po si elle est G, 4 000 si elle est TG, 8 000 si elle est Gig et 16 000 si elle est Col. Un lanceur de sorts avec le don &lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;ation-Darmes-Et-Armures-Magiques.html&quot; title=&quot;Cr&#233;ation d&amp;#39;armes et armures magiques&quot;&gt;Cr&#233;ation d’armes et d’armures magiques&lt;/a&gt; peut renforcer une porte par magie.&lt;br /&gt;&lt;br /&gt;On peut attaquer et endommager une porte, ou la briser (voir la condition &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables.html#Bris&#233;&quot; title=&quot;Bris&#233;&quot;&gt;bris&#233;e&lt;/a&gt;) avec un test de &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#FORCE&quot; title=&quot;La Force&quot;&gt;Force&lt;/a&gt; qui r&#233;sulte g&#233;n&#233;ralement d’un coup de b&#233;lier. Une fois la porte bris&#233;e, une br&#232;che s’ouvre dedans et on peut la franchir comme une ouverture d’une cat&#233;gorie de &lt;a class=&quot;pagelink&quot; href=&quot;Petites-Et-Grandes-Cr&#233;atures.html#TABLEAUTAILLES&quot; title=&quot;taille&quot;&gt;taille&lt;/a&gt; de moins que la porte.&lt;br /&gt;&lt;br /&gt;&lt;a name=&quot;NOTE1&quot;&gt;&lt;/a&gt;&lt;i&gt;(1) Le DD est donn&#233; pour une porte G barr&#233;e et verrouill&#233;e. Une porte TG augmente le DD Enfoncer de 5, une Gig de 1 et une Col de 15. Un verrou magique l’augmente de 10.&lt;/i&gt;
+]]></body>
+  <raw><![CDATA[{s:UC}Quand une armée utilise une arme de siège contre des troupes adverses, l’engin sert à les démoraliser et à détruire leurs structures. Voici les statistiques des diverses barrières et bâtiments qui leur servent de cible. Ils se divisent en trois catégories : bâtiments, murs et portes.
+
+Quand une de ces structures est [[brisé|brisée]], sa [[solidité]] est réduite de moitié, en plus des autres effets associés à la condition néfaste.
+
+====Bâtiments====
+<div style="float: right; margin-left: 10px; margin-right: -20px; max-width: 300px;" class="presentation recentre">
+{| CLASS="tablo"
+|+ Les bâtiments
+|- CLASS="titre"
+| Matériau || Solidité || G || TG || Gig || Col
+|- CLASS="premier"
+| &emsp;Bois || 5 || 120 || 270 || 960 || 3 240
+|- CLASS="alt"
+| &emsp;Pierre || 8 || 200 || 450 || 1 600 || 5 400
+|- 
+| &emsp;Fer ou acier || 10 || 400 || 900 || 3 200 || 10 800
+|- CLASS="alt"
+| &emsp;Adamantium || 20 || 560 || 1 260 || 4 480 || 15 120
+|- 
+|}
+</div>Les bâtiments sont des structures de grande [[taille]] avec beaucoup de points de vie et une [[CA]] négligeable (un bâtiment G a une CA de 4, un TG de 3 et un Gig ou plus de 0). Le bâtiment est [[brisé]] une fois qu’il tombe à la moitié de ses points de vie. Il tient encore debout mais il est partiellement éventré. On peut y entrer sans mal et on considère qu’il a une brèche. Si le bâtiment tombe à 0 point de vie, il est entièrement détruit. Les créatures qui se trouvent dans le bâtiment sont alors victimes des mêmes effets que lors d’un éboulement.
+
+Les statistiques du bâtiment sont données pour une structure creuse mais robuste, avec suffisamment de place pour que ses occupants puissent se déplacer. Un bâtiment précaire n’a que la moitié des points de vie donnés dans la table 3-18. On peut renforcer un bâtiment par magie, comme les murs ou les portes des donjons, ce qui double sa [[solidité]] et ses points de vie. Un bâtiment traité par magie coûte 5 000 po pour un G, 10 000 po pour un TG, 20 000 po pour un Gig et 40 000 po pour un Col. Un lanceur de sorts avec le don [[Création darmes et armures magiques|Création d’armes et d’armures magiques]] peut renforcer un bâtiment par magie.
+
+Pour les bâtiments encore plus grands, il suffit d’ajouter les points de vie de plusieurs bâtiments correspondants aux [[taille|tailles]] données.
+
+====Murs====
+<div style="float: right; margin-left: 10px; margin-right: -20px; max-width: 350px;" class="presentation recentre">
+{| CLASS="tablo"
+|+ Les murs
+|- CLASS="titre"
+| Matériau || Solidité || Points de vie par carré de 1,50 m
+|- CLASS="premier"
+| &emsp;Bois || 5 || 30
+|- CLASS="alt"
+| &emsp;Pierre || 8 || 45
+|- 
+| &emsp;Fer ou acier || 10 || 90
+|- CLASS="alt"
+| &emsp;Adamantium || 20 || 120
+|- 
+|}
+</div>Les murs qui protègent un château ou une ville sont de robustes fortifications, habituellement bâties sous forme de sections de 1,50 m de côté. Une case de mur a une [[CA]] de 5 ainsi qu’une [[solidité]] et un montant de points de vie qui dépend de son type.
+
+On peut traiter des pans de mur par magie. Il faut dépenser 500 po pour traiter une case de mur. Un lanceur de sorts qui dispose du don [[Création darmes et armures magiques|Création d’armes et armures magiques]] est habilité à renforcer un mur par magie.
+
+Quand un mur est [[brisé]], sa [[solidité]] est réduite de moitié mais il ne souffre pas d’une brèche. Pour cela, il faut le détruire complètement. Une fois la case de mur éventrée, tout ce qui se trouve au-dessus tombe immédiatement à la place laissée vide. La section de mur qui s’effondre alors n’a plus que la moitié de ses points de vie -1. Elle est donc [[brisé|brisée]].
+
+====Portes====
+<div style="float: right; margin-left: 10px; margin-right: -20px; max-width: 370px;" class="presentation recentre">
+{| CLASS="tablo"
+|+ Les portes
+|- CLASS="titre"
+| Matériau || DD Enfoncer <sup>(1)</sup> || Solidité || G || TG || Gig || Col
+|- CLASS="premier"
+| &emsp;Bois || 35 || 5 || 60 || 135 || 240 || 540
+|- CLASS="alt"
+| &emsp;Pierre || 38 || 8 || 100 || 225 || 400 || 900
+|- 
+| &emsp;Fer ou acier || 24 || 10 || 200 || 500 || 800 || 1 800
+|- CLASS="alt"
+| &emsp;Adamantium || 48 || 20 || 280 || 630 || 1 120 || 2 520
+|- 
+|}
+</div>
+
+Les portes permettent d’entrer et de sortir d’une structure fortifiée, ce sont généralement les points faibles des défenses.
+
+La porte d’un bâtiment est au moins de taille G mais il en existe des Col. Généralement, il faut trois [[actions complexes]] pour ouvrir ou fermer une porte G (trois créatures peuvent fermer la porte ensemble pour le faire par une [[action complexe]]). La [[CA]] des portes est basée sur leur taille : CA 4 pour une G, CA 3 pour une TG, CA 0 pour une Gig ou plus). On peut renforcer une porte par magie, ce qui double sa [[solidité]] et ses points de vie. Une porte traitée par magie coûte 2 000 po si elle est G, 4 000 si elle est TG, 8 000 si elle est Gig et 16 000 si elle est Col. Un lanceur de sorts avec le don [[Création darmes et armures magiques|Création d’armes et d’armures magiques]] peut renforcer une porte par magie.
+
+On peut attaquer et endommager une porte, ou la briser (voir la condition [[brisé|brisée]]) avec un test de [[Force]] qui résulte généralement d’un coup de bélier. Une fois la porte brisée, une brèche s’ouvre dedans et on peut la franchir comme une ouverture d’une catégorie de [[taille]] de moins que la porte.
+
+{s:Reference|NOTE1}''(1) Le DD est donné pour une porte G barrée et verrouillée. Une porte TG augmente le DD Enfoncer de 5, une Gig de 1 et une Col de 15. Un verrou magique l’augmente de 10.'']]></raw>
+  <fullName>Pathfinder-RPG.Solidité et points de vie des structures</fullName>
+</wikiPage>

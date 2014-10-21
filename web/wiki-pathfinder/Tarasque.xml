@@ -1,0 +1,173 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Tarasque</title>
+  <categories><category>Pathfinder-RPG.Bestiaire</category><category>Pathfinder-RPG.Monstre</category></categories>
+  <lastModified>2013-02-06 20:42:16Z</lastModified>
+  <version>9</version>
+  <inLinks><link>Pathfinder-RPG.Glossaire des monstres</link><link>Pathfinder-RPG.Liste de monstres par FP</link><link>Pathfinder-RPG.Liste de monstres par milieu naturel</link><link>Pathfinder-RPG.Liste de monstres par type</link><link>Pathfinder-RPG.Monstres</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.type Créature magique</link><link>Pathfinder-RPG.odorat</link><link>Pathfinder-RPG.vision nocturne</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Présence terrifiante (capacité)</link><link>Pathfinder-RPG.Étreinte</link><link>Pathfinder-RPG.Engloutissement</link><link>Pathfinder-RPG.Attaque en puissance</link><link>Pathfinder-RPG.Attaques réflexes</link><link>Pathfinder-RPG.Combat en aveugle</link><link>Pathfinder-RPG.Coup fabuleux</link><link>Pathfinder-RPG.Course</link><link>Pathfinder-RPG.Critique ralentissant</link><link>Pathfinder-RPG.Critique sanglant</link><link>Pathfinder-RPG.Don pour les critiques</link><link>Pathfinder-RPG.Enchaînement</link><link>Pathfinder-RPG.Réflexes surhumains</link><link>Pathfinder-RPG.Science de linitiative</link><link>Pathfinder-RPG.Science de la bousculade</link><link>Pathfinder-RPG.Science du critique</link><link>Pathfinder-RPG.Succession denchaînements</link><link>Pathfinder-RPG.Vigueur surhumaine</link><link>Pathfinder-RPG.Acrobaties</link><link>Pathfinder-RPG.Force</link><link>Pathfinder-RPG.Projectile magique</link><link>Pathfinder-RPG.Action simple</link><link>Pathfinder-RPG.jet dattaque</link><link>Pathfinder-RPG.facteur de portée</link><link>Pathfinder-RPG.Régénération</link><link>Pathfinder-RPG.jet de sauvegarde</link><link>Pathfinder-RPG.pv</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Tarasque&lt;div style=&quot;float:right;&quot;&gt;FP 25&lt;/div&gt;&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Bestiaire&lt;/i&gt; p.269
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 1.638.400
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Cr&#233;ature-Magique.html&quot; title=&quot;Cr&#233;ature magique&quot;&gt;Cr&#233;ature magique&lt;/a&gt; de taille C, N
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +7 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Odorat-(Capacit&#233;).html&quot; title=&quot;odorat&quot;&gt;odorat&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Nocturne-(Capacit&#233;).html&quot; title=&quot;vision nocturne&quot;&gt;vision nocturne&lt;/a&gt; ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +43
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Aura&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sence-Terrifiante-(Capacit&#233;).html&quot; title=&quot;Pr&#233;sence terrifiante (Ext)&quot;&gt;pr&#233;sence terrifiante&lt;/a&gt; 90 m (60 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;, DD 27)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 40, contact 5, pris au d&#233;pourvu 37 (Dex +3, naturelle +35, taille -8)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 525 (30d10+360) ; r&#233;g&#233;n&#233;ration 40
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +22, &lt;b&gt;Vig&lt;/b&gt; +31, &lt;b&gt;Vol&lt;/b&gt; +12
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Immunit&#233;s&lt;/b&gt; absorption d&#39;&#233;nergie, acide, blessures permanentes, diminution permanente de caract&#233;ristiques, effets mentaux, feu, maladie, m&#233;tamorphose, paralysie, p&#233;trification, poison, saignement ; &lt;b&gt;RD&lt;/b&gt; 15/&#233;pique ; &lt;b&gt;RM&lt;/b&gt; 36 
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 12 m (8 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; morsure +37 (4d8+15/15-20/x3 et &lt;a class=&quot;pagelink&quot; href=&quot;&#201;treinte-(Capacit&#233;).html&quot; title=&quot;&#201;treinte&quot;&gt;&#233;treinte&lt;/a&gt;), 2 griffes +37 (1d12+15), 2 cornes +37 (1d10+15), coup de queue +32 (3d8+7)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Distance&lt;/b&gt; 6 &#233;pines +25 (2d10+15/x3)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Espace&lt;/b&gt; 9 m (6 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) ; &lt;b&gt;Allonge&lt;/b&gt; 9 m (6 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) ; 18 m (12 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) pour le coup de queue
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaques sp&#233;ciales&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Engloutissement-(Capacit&#233;).html&quot; title=&quot;Engloutissement&quot;&gt;engloutissement&lt;/a&gt; (6d6+22 et 6d6 acide, CA 27, pv 52), &#233;pines, pointe de vitesse
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 41, &lt;b&gt;Dex&lt;/b&gt; 16, &lt;b&gt;Con&lt;/b&gt; 34, &lt;b&gt;Int&lt;/b&gt; 3, &lt;b&gt;Sag&lt;/b&gt; 15, &lt;b&gt;Cha&lt;/b&gt; 14
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +30, &lt;b&gt;BMO&lt;/b&gt; +53 (+57 pour la lutte), &lt;b&gt;DMD&lt;/b&gt; 66
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Attaque-En-Puissance.html&quot; title=&quot;Attaque en puissance&quot;&gt;Attaque en puissance&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Attaques-R&#233;flexes.html&quot; title=&quot;Attaques r&#233;flexes&quot;&gt;Attaques r&#233;flexes&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Combat-En-Aveugle.html&quot; title=&quot;Combat en aveugle&quot;&gt;Combat en aveugle&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Coup-Fabuleux.html&quot; title=&quot;Coup fabuleux&quot;&gt;Coup fabuleux&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Course.html&quot; title=&quot;Course&quot;&gt;Course&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Critique-Ralentissant.html&quot; title=&quot;Critique ralentissant&quot;&gt;Critique ralentissant&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Critique-Sanglant.html&quot; title=&quot;Critique sanglant&quot;&gt;Critique sanglant&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Don-Pour-Les-Critiques.html&quot; title=&quot;Don pour les critiques&quot;&gt;Don pour les critiques&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Encha&#238;nement.html&quot; title=&quot;Encha&#238;nement&quot;&gt;Encha&#238;nement&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;R&#233;flexes-Surhumains.html&quot; title=&quot;R&#233;flexes surhumains&quot;&gt;R&#233;flexes surhumains&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Science-De-Linitiative.html&quot; title=&quot;Science de l&amp;#39;initiative&quot;&gt;Science de l&#39;initiative&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Science-De-La-Bousculade.html&quot; title=&quot;Science de la bousculade&quot;&gt;Science de la bousculade&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Science-Du-Critique.html&quot; title=&quot;Science du critique&quot;&gt;Science du critique&lt;/a&gt; (morsure), &lt;a class=&quot;pagelink&quot; href=&quot;Succession-Dencha&#238;nements.html&quot; title=&quot;Succession d&amp;#39;encha&#238;nements&quot;&gt;Succession d&#39;encha&#238;nements&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Vigueur-Surhumaine.html&quot; title=&quot;Vigueur surhumaine&quot;&gt;Vigueur surhumaine&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Acrobaties.html&quot; title=&quot;Acrobaties&quot;&gt;Acrobaties&lt;/a&gt; +3 (+43 pour le saut), &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +43 ; &lt;b&gt;Modificateurs raciaux&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +8
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Langues&lt;/b&gt; aklo (ne sait pas parler)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Particularit&#233;s&lt;/b&gt; bonds puissants, carapace
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; quelconque
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation sociale&lt;/b&gt; solitaire
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; aucun
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Particularit&#233;s&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Bonds Puissants (Ext)&lt;/b&gt; Lors de tests d&#39;&lt;a class=&quot;pagelink&quot; href=&quot;Acrobaties.html&quot; title=&quot;Acrobaties&quot;&gt;Acrobaties&lt;/a&gt; visant &#224; sauter, la tarasque applique son modificateur de &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#FORCE&quot; title=&quot;La Force&quot;&gt;Force&lt;/a&gt; et b&#233;n&#233;ficie d&#39;un bonus racial de +24.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Carapace (Sur)&lt;/b&gt; Les &#233;cailles de la tarasque d&#233;vient les sorts qui prennent la forme de c&#244;nes, de lignes ou de rayons ainsi que les &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Projectile-Magique.html&quot; title=&quot;Projectile magique&quot;&gt;projectiles magiques&lt;/a&gt;&lt;/i&gt;, ce qui, dans les faits l&#39;immunise contre ces effets. Chaque effet d&#233;vi&#233; a 30% de chances d&#39;&#234;tre renvoy&#233; (avec son plein potentiel) vers celui qui l&#39;a lanc&#233;. Sinon, l&#39;effet est simplement annul&#233;.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Epines (Ext)&lt;/b&gt; Par une &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions.html#SIMPLE&quot; title=&quot;Action simple&quot;&gt;action simple&lt;/a&gt;, la tarasque peut projeter une salve de six &#233;pines jaillissant de son corps en remuant la t&#234;te ou en agitant la queue. Il faut effectuer un &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDATTAQUE&quot; title=&quot;jet dattaque&quot;&gt;jet d&#39;attaque&lt;/a&gt; pour chacune des &#233;pines et toutes les cibles doivent se trouver &#224; 9 m (6 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) les unes des autres. Les &#233;pines ont un &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques-Des-Armes.html#FACTEURDEPORTEE&quot; title=&quot;facteur de port&#233;e&quot;&gt;facteur de port&#233;e&lt;/a&gt; de 36 m (24 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;).
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Pointe de vitesse (Ext)&lt;/b&gt; Une fois par minute, la tarasque peut se d&#233;placer &#224; une vitesse de 45 m (30 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) pendant 1 round. Cette pointe de vitesse fait passer son bonus d&#39;&lt;a class=&quot;pagelink&quot; href=&quot;Acrobaties.html&quot; title=&quot;Acrobaties&quot;&gt;Acrobaties&lt;/a&gt; pour les tests de saut &#224; +87.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;g&#233;n&#233;ration (Ext)&lt;/b&gt; Il n&#39;existe aucune forme d&#39;attaque qui puisse interrompre la &lt;a class=&quot;pagelink&quot; href=&quot;R&#233;g&#233;n&#233;ration.html&quot; title=&quot;R&#233;g&#233;n&#233;ration&quot;&gt;r&#233;g&#233;n&#233;ration&lt;/a&gt; de la tarasque. Elle r&#233;g&#233;n&#232;re m&#234;me apr&#232;s avoir &#233;t&#233; d&#233;sint&#233;gr&#233;e ou tu&#233;e par un effet de mort. Si la tarasque rate un &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;jet de sauvegarde&quot;&gt;jet de sauvegarde&lt;/a&gt; contre un effet qui la tue instantan&#233;ment, elle se rel&#232;ve 3 rounds plus tard avec 1 &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#POINTSDEVIE&quot; title=&quot;pv&quot;&gt;point de vie&lt;/a&gt; (&#224; condition qu&#39;on n&#39;inflige pas de d&#233;g&#226;ts sur sa d&#233;pouille entre temps). Il est possible de la bannir ou de la transporter ailleurs pour sauver une r&#233;gion mais on n&#39;a pas d&#233;couvert de m&#233;thode permettant de la tuer une fois pour toutes.
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;td&gt;&lt;div&gt;&lt;i&gt;Comme un dinosaure, ce gigantesque reptile domine tout ce qui l’entoure.
+Il n’est que dents, cornes, griffes et queue &#233;pineuse.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;La l&#233;gendaire tarasque est l’un des monstres les plus destructeurs
+du monde. Heureusement, elle passe la plupart de son temps
+plong&#233;e dans une profonde torpeur &#224; l’int&#233;rieur d’une caverne
+situ&#233;e dans un recoin secret et &#233;loign&#233; de tout. Mais lorsqu’elle se
+r&#233;veille, des royaumes meurent.
+La tarasque est loin d’&#234;tre intelligente, mais elle l’est
+suffisamment pour comprendre
+quelques mots d’aklo (sans pouvoir le
+parler cependant). De m&#234;me, elle ne
+s&#232;me pas la destruction de mani&#232;re
+aveugle. Elle se concentre sur les
+cibles qui la menacent et il est
+difficile de d&#233;tourner son attention.
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Tarasque|FP 25}
+{s:pucem|Créature magique|Ruines-Donjons|Tempéré}
+{s:BDTexte|''Source : Bestiaire'' p.269}
+{s:BDTexte|'''PX''' 1.638.400}
+{s:BDTexte|[[type Créature magique|Créature magique]] de taille C, N}
+{s:BDTexte|'''Init''' +7 ; '''Sens''' [[odorat]], [[vision nocturne]] ; [[Perception]] +43}
+{s:BDTexte|'''Aura''' [[présence terrifiante (capacité)|présence terrifiante]] 90 m (60 {s:c}, DD 27)}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 40, contact 5, pris au dépourvu 37 (Dex +3, naturelle +35, taille -8)}
+{s:BDTexte|'''pv''' 525 (30d10+360) ; régénération 40}
+{s:BDTexte|'''Réf''' +22, '''Vig''' +31, '''Vol''' +12}
+{s:BDTexte|'''Immunités''' absorption d'énergie, acide, blessures permanentes, diminution permanente de caractéristiques, effets mentaux, feu, maladie, métamorphose, paralysie, pétrification, poison, saignement ; '''RD''' 15/épique ; '''RM''' 36 }
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 12 m (8 {s:c})}
+{s:BDTexte|'''Corps à corps''' morsure +37 (4d8+15/15-20/x3 et [[étreinte]]), 2 griffes +37 (1d12+15), 2 cornes +37 (1d10+15), coup de queue +32 (3d8+7)}
+{s:BDTexte|'''Distance''' 6 épines +25 (2d10+15/x3)}
+{s:BDTexte|'''Espace''' 9 m (6 {s:c}) ; '''Allonge''' 9 m (6 {s:c}) ; 18 m (12 {s:c}) pour le coup de queue}
+{s:BDTexte|'''Attaques spéciales''' [[engloutissement]] (6d6+22 et 6d6 acide, CA 27, pv 52), épines, pointe de vitesse}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 41, '''Dex''' 16, '''Con''' 34, '''Int''' 3, '''Sag''' 15, '''Cha''' 14}
+{s:BDTexte|'''BBA''' +30, '''BMO''' +53 (+57 pour la lutte), '''DMD''' 66}
+{s:BDTexte|'''Dons''' [[Attaque en puissance]], [[Attaques réflexes]], [[Combat en aveugle]], [[Coup fabuleux]], [[Course]], [[Critique ralentissant]], [[Critique sanglant]], [[Don pour les critiques]], [[Enchaînement]], [[Réflexes surhumains]], [[Science de linitiative|Science de l'initiative]], [[Science de la bousculade]], [[Science du critique]] (morsure), [[Succession denchaînements|Succession d'enchaînements]], [[Vigueur surhumaine]]}
+{s:BDTexte|'''Compétences''' [[Acrobaties]] +3 (+43 pour le saut), [[Perception]] +43 ; '''Modificateurs raciaux''' [[Perception]] +8}
+{s:BDTexte|'''Langues''' aklo (ne sait pas parler)}
+{s:BDTexte|'''Particularités''' bonds puissants, carapace}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' quelconque}
+{s:BDTexte|'''Organisation sociale''' solitaire}
+{s:BDTexte|'''Trésor''' aucun}
+{s:BDSousTitre|Particularités}
+{s:BDTexte|'''Bonds Puissants (Ext)''' Lors de tests d'[[Acrobaties]] visant à sauter, la tarasque applique son modificateur de [[Force]] et bénéficie d'un bonus racial de +24.}
+{s:BDTexte|'''Carapace (Sur)''' Les écailles de la tarasque dévient les sorts qui prennent la forme de cônes, de lignes ou de rayons ainsi que les ''[[projectile magique|projectiles magiques]]'', ce qui, dans les faits l'immunise contre ces effets. Chaque effet dévié a 30% de chances d'être renvoyé (avec son plein potentiel) vers celui qui l'a lancé. Sinon, l'effet est simplement annulé.}
+{s:BDTexte|'''Epines (Ext)''' Par une [[action simple]], la tarasque peut projeter une salve de six épines jaillissant de son corps en remuant la tête ou en agitant la queue. Il faut effectuer un [[jet dattaque|jet d'attaque]] pour chacune des épines et toutes les cibles doivent se trouver à 9 m (6 {s:c}) les unes des autres. Les épines ont un [[facteur de portée]] de 36 m (24 {s:c}).}
+{s:BDTexte|'''Pointe de vitesse (Ext)''' Une fois par minute, la tarasque peut se déplacer à une vitesse de 45 m (30 {s:c}) pendant 1 round. Cette pointe de vitesse fait passer son bonus d'[[Acrobaties]] pour les tests de saut à +87.}
+{s:BDTexte|'''Régénération (Ext)''' Il n'existe aucune forme d'attaque qui puisse interrompre la [[régénération]] de la tarasque. Elle régénère même après avoir été désintégrée ou tuée par un effet de mort. Si la tarasque rate un [[jet de sauvegarde]] contre un effet qui la tue instantanément, elle se relève 3 rounds plus tard avec 1 [[pv|point de vie]] (à condition qu'on n'inflige pas de dégâts sur sa dépouille entre temps). Il est possible de la bannir ou de la transporter ailleurs pour sauver une région mais on n'a pas découvert de méthode permettant de la tuer une fois pour toutes.}
+</div>
+</td><td><div>''Comme un dinosaure, ce gigantesque reptile domine tout ce qui l’entoure.
+Il n’est que dents, cornes, griffes et queue épineuse.''
+
+La légendaire tarasque est l’un des monstres les plus destructeurs
+du monde. Heureusement, elle passe la plupart de son temps
+plongée dans une profonde torpeur à l’intérieur d’une caverne
+située dans un recoin secret et éloigné de tout. Mais lorsqu’elle se
+réveille, des royaumes meurent.
+La tarasque est loin d’être intelligente, mais elle l’est
+suffisamment pour comprendre
+quelques mots d’aklo (sans pouvoir le
+parler cependant). De même, elle ne
+sème pas la destruction de manière
+aveugle. Elle se concentre sur les
+cibles qui la menacent et il est
+difficile de détourner son attention.
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Tarasque</fullName>
+</wikiPage>

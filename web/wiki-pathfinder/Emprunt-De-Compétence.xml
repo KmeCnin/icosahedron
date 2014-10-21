@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Emprunt de compétence</title>
+  <categories><category>Pathfinder-RPG.Advanced Player Guide</category><category>Pathfinder-RPG.Règles officielles</category><category>Pathfinder-RPG.Sort</category><category>Pathfinder-RPG.Sort barde 1</category></categories>
+  <lastModified>2012-11-04 21:20:13Z</lastModified>
+  <version>2</version>
+  <inLinks><link>Pathfinder-RPG.Glossaire des sorts</link><link>Pathfinder-RPG.Liste des sorts (suite)</link><link>Pathfinder-RPG.Liste des sorts de bardes</link><link>Pathfinder-RPG.TMP sorts APG</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Transmutation</link><link>Pathfinder-RPG.Barde</link><link>Pathfinder-RPG.Action simple</link><link>Pathfinder-RPG.composantes</link><link>Pathfinder-RPG.Présentation des sorts</link><link>Pathfinder-RPG.round</link><link>Pathfinder-RPG.niveau</link><link>Pathfinder-RPG.Volonté</link><link>Pathfinder-RPG.Compétences</link><link>Pathfinder-RPG.rang</link><link>Pathfinder-RPG.compétence de classe</link></outLinks>
+  <body><![CDATA[
+&lt;b&gt;&#201;cole&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#TRANSMUTATION&quot; title=&quot;Transmutation&quot;&gt;Transmutation&lt;/a&gt;&#160;; &lt;b&gt;Niveau&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Barde.html&quot; title=&quot;Le barde&quot;&gt;barde&lt;/a&gt; 1&lt;br/&gt;
+&lt;b&gt;Temps d&#39;incantation&lt;/b&gt; 1 &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions.html#SIMPLE&quot; title=&quot;Action simple&quot;&gt;action simple&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Composantes&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#COMPOSANTES&quot; title=&quot;composantes&quot;&gt;G&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Port&#233;e&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#PORTEE&quot; title=&quot;Pr&#233;sentation des sorts&quot;&gt;contact&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Cible&lt;/b&gt; cr&#233;ature touch&#233;e&lt;br/&gt;
+&lt;b&gt;Dur&#233;e&lt;/b&gt; jusqu&#39;&#224; 1 &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#ROUND&quot; title=&quot;round&quot;&gt;round&lt;/a&gt;/&lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#NIVEAU&quot; title=&quot;niveau&quot;&gt;niveau&lt;/a&gt; (voir texte)&lt;br/&gt;
+&lt;b&gt;Jet de sauvegarde&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;Volont&#233;&quot;&gt;Volont&#233;&lt;/a&gt; pour &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#JETSDESAUVEGARDE&quot; title=&quot;Pr&#233;sentation des sorts&quot;&gt;annuler&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#JETSDESAUVEGARDE&quot; title=&quot;Pr&#233;sentation des sorts&quot;&gt;inoffensif&lt;/a&gt;)&#160;; &lt;b&gt;R&#233;sistance &#224; la magie&lt;/b&gt; oui (&lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#JETSDESAUVEGARDE&quot; title=&quot;Pr&#233;sentation des sorts&quot;&gt;inoffensif&lt;/a&gt;)&lt;br /&gt;&lt;br /&gt;Le personnage emprunte une &lt;a class=&quot;pagelink&quot; href=&quot;Comp&#233;tences.html&quot; title=&quot;Les comp&#233;tences&quot;&gt;comp&#233;tence&lt;/a&gt; connue de lui &#224; la cible. Apr&#232;s l&#39;avoir touch&#233;e, il peut faire un unique test pour la &lt;a class=&quot;pagelink&quot; href=&quot;Comp&#233;tences.html&quot; title=&quot;Les comp&#233;tences&quot;&gt;comp&#233;tence&lt;/a&gt; choisie en utilisant le &lt;a class=&quot;pagelink&quot; href=&quot;Comp&#233;tences.html#ACQUERIR&quot; title=&quot;rang&quot;&gt;rang&lt;/a&gt; de la cible auquel il applique son propre modificateur de caract&#233;ristique. Si le personnage d&#233;passe la dur&#233;e d&#39;effet du sort pour effectuer son test ou si le test demande plus de temps, le sort &#233;choue et le personnage doit utiliser ses propres &lt;a class=&quot;pagelink&quot; href=&quot;Comp&#233;tences.html#ACQUERIR&quot; title=&quot;rang&quot;&gt;rangs&lt;/a&gt; de &lt;a class=&quot;pagelink&quot; href=&quot;Comp&#233;tences.html&quot; title=&quot;Les comp&#233;tences&quot;&gt;comp&#233;tence&lt;/a&gt; (s&#39;il en a). Si la &lt;a class=&quot;pagelink&quot; href=&quot;Comp&#233;tences.html&quot; title=&quot;Les comp&#233;tences&quot;&gt;comp&#233;tence&lt;/a&gt; d&#39;emprunt est une &lt;a class=&quot;pagelink&quot; href=&quot;Tableau-R&#233;capitulatif-Des-Comp&#233;tences.html&quot; title=&quot;comp&#233;tence de classe&quot;&gt;comp&#233;tence de classe&lt;/a&gt; pour le personnage, il gagne un bonus de +3 au test quand il l&#39;utilise.
+]]></body>
+  <raw><![CDATA[{s:APG}
+'''École''' [[Transmutation]] ; '''Niveau''' [[barde]] 1<br/>
+'''Temps d'incantation''' 1 [[action simple]]<br/>
+'''Composantes''' [[Composantes|G]]<br/>
+'''Portée''' [[Présentation des sorts#PORTEE|contact]]<br/>
+'''Cible''' créature touchée<br/>
+'''Durée''' jusqu'à 1 [[round]]/[[niveau]] (voir texte)<br/>
+'''Jet de sauvegarde''' [[Volonté]] pour [[Présentation des sorts#JETSDESAUVEGARDE|annuler]] ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]]) ; '''Résistance à la magie''' oui ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]])
+
+Le personnage emprunte une [[compétences|compétence]] connue de lui à la cible. Après l'avoir touchée, il peut faire un unique test pour la [[compétences|compétence]] choisie en utilisant le [[rang]] de la cible auquel il applique son propre modificateur de caractéristique. Si le personnage dépasse la durée d'effet du sort pour effectuer son test ou si le test demande plus de temps, le sort échoue et le personnage doit utiliser ses propres [[rang|rangs]] de [[compétences|compétence]] (s'il en a). Si la [[compétences|compétence]] d'emprunt est une [[compétence de classe]] pour le personnage, il gagne un bonus de +3 au test quand il l'utilise.
+]]></raw>
+  <fullName>Pathfinder-RPG.Emprunt de compétence</fullName>
+</wikiPage>

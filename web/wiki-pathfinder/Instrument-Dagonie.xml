@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Instrument d'agonie</title>
+  <categories><category>Pathfinder-RPG.Art de la guerre</category><category>Pathfinder-RPG.Règles officielles</category><category>Pathfinder-RPG.Sort</category><category>Pathfinder-RPG.Sort inquisiteur 2</category><category>Pathfinder-RPG.Sort prêtre 2</category></categories>
+  <lastModified>2012-07-02 00:17:43Z</lastModified>
+  <version>1</version>
+  <inLinks><link>Pathfinder-RPG.Glossaire des sorts</link><link>Pathfinder-RPG.Liste des sorts (suite)</link><link>Pathfinder-RPG.Liste des sorts de magus</link><link>Pathfinder-RPG.Liste des sorts de prêtres</link><link>Pathfinder-RPG.Liste des sorts dinquisiteur</link><link>Pathfinder-RPG.Listes de sorts par classe</link><link>Pathfinder-RPG.Sorts temporaires-AdG</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Transmutation</link><link>Pathfinder-RPG.Inquisiteur</link><link>Pathfinder-RPG.Prêtre</link><link>Pathfinder-RPG.Action simple</link><link>Pathfinder-RPG.composantes</link><link>Pathfinder-RPG.niveau</link><link>Pathfinder-RPG.Intimidation</link><link>Pathfinder-RPG.Nauséeux</link><link>Pathfinder-RPG.Fiévreux</link></outLinks>
+  <body><![CDATA[
+&lt;b&gt;&#201;cole&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#TRANSMUTATION&quot; title=&quot;Transmutation&quot;&gt;transmutation&lt;/a&gt; ; &lt;b&gt;Niveau&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Inquisiteur.html&quot; title=&quot;L&amp;#39;inquisiteur&quot;&gt;inquisiteur&lt;/a&gt; 2, &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#234;tre.html&quot; title=&quot;Le pr&#234;tre&quot;&gt;pr&#234;tre&lt;/a&gt; 2&lt;/br&gt;
+&lt;b&gt;Temps d’incantation&lt;/b&gt; 1 &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions.html#SIMPLE&quot; title=&quot;Action simple&quot;&gt;action simple&lt;/a&gt;&lt;/br&gt;
+&lt;b&gt;Composantes&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#COMPOSANTES&quot; title=&quot;composantes&quot;&gt;V, G&lt;/a&gt;&lt;/br&gt;
+&lt;b&gt;Port&#233;e&lt;/b&gt; contact&lt;/br&gt;
+&lt;b&gt;Cible&lt;/b&gt; arme touch&#233;e&lt;/br&gt;
+&lt;b&gt;Dur&#233;e&lt;/b&gt; 1 minute/&lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#NIVEAU&quot; title=&quot;niveau&quot;&gt;niveau&lt;/a&gt;&lt;/br&gt;
+&lt;b&gt;Jet de sauvegarde&lt;/b&gt; Volont&#233; pour annuler (inoffensif, objet), voir texte ; &lt;b&gt;R&#233;sistance &#224; la magie&lt;/b&gt; oui (inoffensif, objet), voir texte&lt;br /&gt;&lt;br /&gt;Le personnage impr&#232;gne une arme d’une aura de fureur divine palpable. Quand une cr&#233;ature manie cette arme, elle gagne
+un bonus de moral de +2 aux tests d’&lt;a class=&quot;pagelink&quot; href=&quot;Intimidation.html&quot; title=&quot;Intimidation&quot;&gt;Intimidation&lt;/a&gt;. Quand elle touche avec cette arme, elle peut d&#233;penser une action libre pour d&#233;charger l’effet et faire souffrir la cible. Si cette derni&#232;re a une r&#233;sistance &#224; la magie, elle s’applique contre cet effet. Si la cr&#233;ature rate un jet de sauvegarde, elle est &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables.html#Naus&#233;eux&quot; title=&quot;Naus&#233;eux&quot;&gt;naus&#233;euse&lt;/a&gt; pendant 1d4+1 round. Si elle r&#233;ussit, elle est juste &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables.html#Fi&#233;vreux&quot; title=&quot;Fi&#233;vreux&quot;&gt;fi&#233;vreuse&lt;/a&gt; pour 1 round. La condition fi&#233;vreuse de ce sort est un effet mental.
+]]></body>
+  <raw><![CDATA[{s:UC}
+'''École''' [[transmutation]] ; '''Niveau''' [[inquisiteur]] 2, [[prêtre]] 2</br>
+'''Temps d’incantation''' 1 [[action simple]]</br>
+'''Composantes''' [[Composantes|V, G]]</br>
+'''Portée''' contact</br>
+'''Cible''' arme touchée</br>
+'''Durée''' 1 minute/[[niveau]]</br>
+'''Jet de sauvegarde''' Volonté pour annuler (inoffensif, objet), voir texte ; '''Résistance à la magie''' oui (inoffensif, objet), voir texte
+
+Le personnage imprègne une arme d’une aura de fureur divine palpable. Quand une créature manie cette arme, elle gagne
+un bonus de moral de +2 aux tests d’[[Intimidation]]. Quand elle touche avec cette arme, elle peut dépenser une action libre pour décharger l’effet et faire souffrir la cible. Si cette dernière a une résistance à la magie, elle s’applique contre cet effet. Si la créature rate un jet de sauvegarde, elle est [[nauséeux|nauséeuse]] pendant 1d4+1 round. Si elle réussit, elle est juste [[fiévreux|fiévreuse]] pour 1 round. La condition fiévreuse de ce sort est un effet mental.]]></raw>
+  <fullName>Pathfinder-RPG.Instrument dagonie</fullName>
+</wikiPage>

@@ -1,0 +1,145 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Moustique géant</title>
+  <categories><category>Pathfinder-RPG.Bestiaire 2</category><category>Pathfinder-RPG.Monstre</category><category>Pathfinder-RPG.Règles officielles</category></categories>
+  <lastModified>2013-02-07 19:18:05Z</lastModified>
+  <version>1</version>
+  <inLinks><link>Pathfinder-RPG.Glossaire des monstres</link><link>Pathfinder-RPG.Liste de monstres par FP</link><link>Pathfinder-RPG.Liste de monstres par milieu naturel</link><link>Pathfinder-RPG.Liste de monstres par type</link><link>Pathfinder-RPG.Monstres</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.type Vermine</link><link>Pathfinder-RPG.odorat</link><link>Pathfinder-RPG.vision dans le noir</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Étreinte</link><link>Pathfinder-RPG.Saignement</link><link>Pathfinder-RPG.absorption de sang (capacité)</link><link>Pathfinder-RPG.croc-en-jambe</link><link>Pathfinder-RPG.Vol</link><link>Pathfinder-RPG.affaiblissement temporaire</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Moustique g&#233;ant&lt;div style=&quot;float:right;&quot;&gt;FP 6&lt;/div&gt;&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Bestiaire 2, p.203&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 2 400
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Vermine.html&quot; title=&quot;Vermine&quot;&gt;Vermine&lt;/a&gt; de taille M, N
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +7 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Odorat-(Capacit&#233;).html&quot; title=&quot;odorat&quot;&gt;odorat&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Capacit&#233;s-Sp&#233;ciales.html#VISIONDANSLENOIR&quot; title=&quot;vision dans le noir&quot;&gt;vision dans le noir&lt;/a&gt; 18 m (12 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +9
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 19, contact 17, pris au d&#233;pourvu 12 (Dex +7, naturelle +2)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 60 (8d8+24)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +9, &lt;b&gt;Vig&lt;/b&gt; +9, &lt;b&gt;Vol&lt;/b&gt; +3
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Immunit&#233;s&lt;/b&gt; effets mentaux
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 6 m (4 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), vol 18 m (12 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) (bonne)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; morsure, +10 (1d8+6 plus &lt;a class=&quot;pagelink&quot; href=&quot;&#201;treinte-(Capacit&#233;).html&quot; title=&quot;&#201;treinte&quot;&gt;&#233;treinte&lt;/a&gt;, maladie et &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables.html#Saignement&quot; title=&quot;Saignement&quot;&gt;saignement&lt;/a&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaques sp&#233;ciales&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Absorption-De-Sang-(Capacit&#233;).html&quot; title=&quot;Absorption de sang (Ext)&quot;&gt;absorption de sang&lt;/a&gt; (1d2 Constitution), &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables.html#Saignement&quot; title=&quot;Saignement&quot;&gt;saignement&lt;/a&gt; (2d4)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 18, &lt;b&gt;Dex&lt;/b&gt; 25, &lt;b&gt;Con&lt;/b&gt; 17, &lt;b&gt;Int&lt;/b&gt; —, &lt;b&gt;Sag&lt;/b&gt; 13, &lt;b&gt;Cha&lt;/b&gt; 6
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +6, &lt;b&gt;BMO&lt;/b&gt; +10 (+14 lutte), &lt;b&gt;DMD&lt;/b&gt; 27 (35 contre &lt;a class=&quot;pagelink&quot; href=&quot;Croc-En-Jambe.html&quot; title=&quot;croc-en-jambe&quot;&gt;croc-en-jambe&lt;/a&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +9, &lt;a class=&quot;pagelink&quot; href=&quot;Vol.html&quot; title=&quot;Vol&quot;&gt;Vol&lt;/a&gt; +11 ; &lt;b&gt;Modificateurs raciaux&lt;/b&gt; +8 en &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; mar&#233;cages temp&#233;r&#233;s ou tropicaux
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation sociale&lt;/b&gt; solitaire, couple ou nu&#233;e (3–12)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; aucun
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Pouvoirs sp&#233;ciaux&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Maladie (Ext).&lt;/b&gt; Maraia : Morsure — blessure ; &lt;i&gt;JdS&lt;/i&gt; Vigueur DD 17 ; &lt;i&gt;incubation&lt;/i&gt; 1d3 jours ; &lt;i&gt;fr&#233;quence&lt;/i&gt; 1 jour ; &lt;i&gt;effet&lt;/i&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Affaiblissement-Temporaire-(Capacit&#233;).html&quot; title=&quot;affaiblissement temporaire&quot;&gt;affaiblissement temporaire&lt;/a&gt; 1d3 Con et 1d3 Sag ; &lt;i&gt;gu&#233;rison&lt;/i&gt; 2 r&#233;ussites cons&#233;cutives. Le DD du jet de sauvegarde d&#233;pend de la Constitution.
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;td&gt;&lt;div&gt;&lt;i&gt;Un ventre rouge et boursoufl&#233; pendouille sous ce gigantesque moustique qui bat fr&#233;n&#233;tiquement des ailes.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Les moustiques g&#233;ants sont des r&#233;pliques
+gigantesques et horribles des moustiques communs.
+Ce sont de v&#233;ritables assassins volants. Un
+moustique g&#233;ant peut absorber le sang d’un humain
+adulte avec une rapidit&#233; &#233;tonnante et une nu&#233;e de
+moustiques de la taille d’un poing peut d&#233;vaster
+des troupeaux de b&#233;tail ou des villages entiers.
+Les moustiques g&#233;ants sauvages se nourrissent en
+s’attaquant aux animaux gigantesques comme les
+dinosaures et les cr&#233;atures de taille similaire.&lt;br /&gt;&lt;br /&gt;Les moustiques g&#233;ants peuvent atteindre
+1,80 m&#232;tre de longueur et peser jusqu’&#224; 75 kg. Il
+existe plusieurs variantes de moustiques g&#233;ants
+mais ces cr&#233;atures ne sont pas aussi diversifi&#233;es
+que les autres vermines g&#233;antes. La variante la plus
+commune est le moustique gobelin (un moustique
+g&#233;ant modifi&#233; par l’arch&#233;type &#171; cr&#233;ature jeune &#187;) mais
+certains r&#233;cits parlent de moustiques de la jungle
+de taille G (des moustiques g&#233;ants modifi&#233;s par les
+arch&#233;types &#171; cr&#233;ature &#233;volu&#233;e &#187; et &#171; cr&#233;ature g&#233;ante &#187;).
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Moustique géant|FP 6}
+{s:pucem|Vermine|Marais|Tempéré}
+{s:BDTexte|''Source : Bestiaire 2, p.203''}
+{s:BDTexte|'''PX''' 2 400}
+{s:BDTexte|[[type Vermine|Vermine]] de taille M, N}
+{s:BDTexte|'''Init''' +7 ; '''Sens''' [[odorat]], [[vision dans le noir]] 18 m (12 {s:c}) ; [[Perception]] +9}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 19, contact 17, pris au dépourvu 12 (Dex +7, naturelle +2)}
+{s:BDTexte|'''pv''' 60 (8d8+24)}
+{s:BDTexte|'''Réf''' +9, '''Vig''' +9, '''Vol''' +3}
+{s:BDTexte|'''Immunités''' effets mentaux}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 6 m (4 {s:c}), vol 18 m (12 {s:c}) (bonne)}
+{s:BDTexte|'''Corps à corps''' morsure, +10 (1d8+6 plus [[étreinte]], maladie et [[saignement]])}
+{s:BDTexte|'''Attaques spéciales''' [[absorption de sang (capacité)|absorption de sang]] (1d2 Constitution), [[saignement]] (2d4)}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 18, '''Dex''' 25, '''Con''' 17, '''Int''' —, '''Sag''' 13, '''Cha''' 6}
+{s:BDTexte|'''BBA''' +6, '''BMO''' +10 (+14 lutte), '''DMD''' 27 (35 contre [[croc-en-jambe]])}
+{s:BDTexte|'''Compétences''' [[Perception]] +9, [[Vol]] +11 ; '''Modificateurs raciaux''' +8 en [[Perception]]}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' marécages tempérés ou tropicaux}
+{s:BDTexte|'''Organisation sociale''' solitaire, couple ou nuée (3–12)}
+{s:BDTexte|'''Trésor''' aucun}
+{s:BDSousTitre|Pouvoirs spéciaux}
+{s:BDTexte|'''Maladie (Ext).''' Maraia : Morsure — blessure ; ''JdS'' Vigueur DD 17 ; ''incubation'' 1d3 jours ; ''fréquence'' 1 jour ; ''effet'' [[affaiblissement temporaire]] 1d3 Con et 1d3 Sag ; ''guérison'' 2 réussites consécutives. Le DD du jet de sauvegarde dépend de la Constitution.}
+</div>
+</td><td><div>''Un ventre rouge et boursouflé pendouille sous ce gigantesque moustique qui bat frénétiquement des ailes.''
+
+Les moustiques géants sont des répliques
+gigantesques et horribles des moustiques communs.
+Ce sont de véritables assassins volants. Un
+moustique géant peut absorber le sang d’un humain
+adulte avec une rapidité étonnante et une nuée de
+moustiques de la taille d’un poing peut dévaster
+des troupeaux de bétail ou des villages entiers.
+Les moustiques géants sauvages se nourrissent en
+s’attaquant aux animaux gigantesques comme les
+dinosaures et les créatures de taille similaire.
+
+Les moustiques géants peuvent atteindre
+1,80 mètre de longueur et peser jusqu’à 75 kg. Il
+existe plusieurs variantes de moustiques géants
+mais ces créatures ne sont pas aussi diversifiées
+que les autres vermines géantes. La variante la plus
+commune est le moustique gobelin (un moustique
+géant modifié par l’archétype « créature jeune ») mais
+certains récits parlent de moustiques de la jungle
+de taille G (des moustiques géants modifiés par les
+archétypes « créature évoluée » et « créature géante »).
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Moustique géant</fullName>
+</wikiPage>

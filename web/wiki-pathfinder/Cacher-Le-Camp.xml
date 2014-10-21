@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Cacher le camp</title>
+  <categories><category>Pathfinder-RPG.Advanced Player Guide</category><category>Pathfinder-RPG.Règles officielles</category><category>Pathfinder-RPG.Sort</category><category>Pathfinder-RPG.Sort druide 3</category><category>Pathfinder-RPG.Sort rôdeur 2</category></categories>
+  <lastModified>2012-11-04 21:37:04Z</lastModified>
+  <version>2</version>
+  <inLinks><link>Pathfinder-RPG.Glossaire des sorts</link><link>Pathfinder-RPG.Liste des sorts</link><link>Pathfinder-RPG.Liste des sorts de druides</link><link>Pathfinder-RPG.Liste des sorts de rôdeurs</link><link>Pathfinder-RPG.TMP sorts APG</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Illusion</link><link>Pathfinder-RPG.branche hallucination</link><link>Pathfinder-RPG.Druide</link><link>Pathfinder-RPG.Rôdeur</link><link>Pathfinder-RPG.composantes</link><link>Pathfinder-RPG.niveau</link><link>Pathfinder-RPG.Volonté</link><link>Pathfinder-RPG.Présentation des sorts</link></outLinks>
+  <body><![CDATA[
+&lt;b&gt;&#201;cole&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#ILLUSION&quot; title=&quot;Illusion&quot;&gt;Illusion&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#HALLUCINATION&quot; title=&quot;Hallucination&quot;&gt;hallucination&lt;/a&gt;)&#160;;&lt;b&gt; Niveau&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Druide.html&quot; title=&quot;Le druide&quot;&gt;druide&lt;/a&gt; 3, &lt;a class=&quot;pagelink&quot; href=&quot;R&#244;deur.html&quot; title=&quot;Le r&#244;deur&quot;&gt;r&#244;deur&lt;/a&gt; 2&lt;br/&gt;
+&lt;b&gt;Temps d&#39;incantation&lt;/b&gt; 10 minutes&lt;br/&gt;
+&lt;b&gt;Composantes&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#COMPOSANTES&quot; title=&quot;composantes&quot;&gt;V, G, M&lt;/a&gt; (une branche de gui et une fiole de vif-argent)&lt;br/&gt;
+&lt;b&gt;Port&#233;e&lt;/b&gt; courte (7,50 m + 1,50 m/2 &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#NIVEAU&quot; title=&quot;niveau&quot;&gt;niveaux&lt;/a&gt;) (5 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt; + 1 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;/2 &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#NIVEAU&quot; title=&quot;niveau&quot;&gt;niveaux&lt;/a&gt;)&lt;br/&gt;
+&lt;b&gt;Zone&lt;/b&gt; un cube de 6 m (4 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) de c&#244;t&#233;&lt;br/&gt;
+&lt;b&gt;Dur&#233;e&lt;/b&gt; 2 heures/&lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#NIVEAU&quot; title=&quot;niveau&quot;&gt;niveau&lt;/a&gt; (T)&lt;br/&gt;
+&lt;b&gt;Jet de sauvegarde&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;Volont&#233;&quot;&gt;Volont&#233;&lt;/a&gt; pour &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#JETSDESAUVEGARDE&quot; title=&quot;Pr&#233;sentation des sorts&quot;&gt;d&#233;voiler&lt;/a&gt; (en cas d&#39;interaction) ; &lt;b&gt;R&#233;sistance &#224; la magie&lt;/b&gt; non&lt;br /&gt;&lt;br /&gt;Le personnage fait appara&#238;tre la zone qui entoure son camp comme un &#233;pais bosquet de v&#233;g&#233;tation vierge et inhospitali&#232;re ou comme toute caract&#233;ristique intimidante qui convient au type de terrain avoisinant. Les cr&#233;atures qui se trouvent en dehors de cette zone ne per&#231;oivent pas les activit&#233;s qui se d&#233;roulent &#224; l&#39;int&#233;rieur&#160;: elles sont incapables de sentir l&#39;odeur du feu de camp ou de la cuisine, elles n&#39;entendent pas les conversations ni les bruits ni les incantations et elles ne sentent m&#234;me pas la chaleur ou le moindre souffle de vent venant de cette zone. Les cr&#233;atures qui se trouvent dans le camp per&#231;oivent normalement l&#39;ext&#233;rieur. D&#232;s qu&#39;une cr&#233;ature s&#39;avance dans la zone affect&#233;e par le sort, elle voit normalement tout ce qui se passe dans le camp et en dehors.
+]]></body>
+  <raw><![CDATA[{s:APG}
+'''École''' [[Illusion]] ([[branche hallucination|hallucination]]) ;''' Niveau''' [[druide]] 3, [[rôdeur]] 2<br/>
+'''Temps d'incantation''' 10 minutes<br/>
+'''Composantes''' [[Composantes|V, G, M]] (une branche de gui et une fiole de vif-argent)<br/>
+'''Portée''' courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])<br/>
+'''Zone''' un cube de 6 m (4 {s:c}) de côté<br/>
+'''Durée''' 2 heures/[[niveau]] (T)<br/>
+'''Jet de sauvegarde''' [[Volonté]] pour [[Présentation des sorts#JETSDESAUVEGARDE|dévoiler]] (en cas d'interaction) ; '''Résistance à la magie''' non
+
+Le personnage fait apparaître la zone qui entoure son camp comme un épais bosquet de végétation vierge et inhospitalière ou comme toute caractéristique intimidante qui convient au type de terrain avoisinant. Les créatures qui se trouvent en dehors de cette zone ne perçoivent pas les activités qui se déroulent à l'intérieur : elles sont incapables de sentir l'odeur du feu de camp ou de la cuisine, elles n'entendent pas les conversations ni les bruits ni les incantations et elles ne sentent même pas la chaleur ou le moindre souffle de vent venant de cette zone. Les créatures qui se trouvent dans le camp perçoivent normalement l'extérieur. Dès qu'une créature s'avance dans la zone affectée par le sort, elle voit normalement tout ce qui se passe dans le camp et en dehors.
+]]></raw>
+  <fullName>Pathfinder-RPG.Cacher le camp</fullName>
+</wikiPage>

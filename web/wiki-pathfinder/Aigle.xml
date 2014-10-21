@@ -1,0 +1,151 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Aigle</title>
+  <categories><category>Pathfinder-RPG.Bestiaire</category><category>Pathfinder-RPG.Monstre</category></categories>
+  <lastModified>2013-07-03 18:19:47Z</lastModified>
+  <version>9</version>
+  <inLinks><link>Pathfinder-RPG.Chamanes animaux (druide)</link><link>Pathfinder-RPG.Convocation dalliés naturels</link><link>Pathfinder-RPG.Convocation de monstres</link><link>Pathfinder-RPG.Familier supérieur</link><link>Pathfinder-RPG.Glossaire des monstres</link><link>Pathfinder-RPG.Liste de monstres par FP</link><link>Pathfinder-RPG.Liste de monstres par milieu naturel</link><link>Pathfinder-RPG.Liste de monstres par type</link><link>Pathfinder-RPG.liste des compagnons animaux</link><link>Pathfinder-RPG.Monstres</link><link>Pathfinder-RPG.Mur de vent</link><link>Pathfinder-RPG.Seigneur animal</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.type Animal</link><link>Pathfinder-RPG.vision nocturne</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Attaque en finesse</link><link>Pathfinder-RPG.Vol</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Aigle&lt;div style=&quot;float:right;&quot;&gt;FP 1/2&lt;/div&gt;&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Bestiaire page 9&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 200
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Animal.html&quot; title=&quot;Animal&quot;&gt;Animal&lt;/a&gt; de taille P, N
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +2 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Nocturne-(Capacit&#233;).html&quot; title=&quot;vision nocturne&quot;&gt;vision nocturne&lt;/a&gt; ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +10
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 14, contact 13, pris au d&#233;pourvu 12 (Dex +2, naturelle +1, taille +1)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 5 (1d8+1)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +4, &lt;b&gt;Vig&lt;/b&gt; +3, &lt;b&gt;Vol&lt;/b&gt; +2
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 3 m (2 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), vol 24 m (16 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) (moyenne)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; 2 serres +3 (1d4), morsure +3 (1d4)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 10, &lt;b&gt;Dex&lt;/b&gt; 15, &lt;b&gt;Con&lt;/b&gt; 12, &lt;b&gt;Int&lt;/b&gt; 2, &lt;b&gt;Sag&lt;/b&gt; 15, &lt;b&gt;Cha&lt;/b&gt; 7
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +0, &lt;b&gt;BMO&lt;/b&gt; -1, &lt;b&gt;DMD&lt;/b&gt; 11
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Attaque-En-Finesse.html&quot; title=&quot;Attaque en finesse&quot;&gt;Attaque en finesse&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +10, &lt;a class=&quot;pagelink&quot; href=&quot;Vol.html&quot; title=&quot;Vol&quot;&gt;Vol&lt;/a&gt; +8 ; &lt;b&gt;Modificateurs raciaux&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +8
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; montagnes temp&#233;r&#233;es
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation sociale&lt;/b&gt; solitaire ou couple
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; aucun
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;td&gt;&lt;div&gt;
+&lt;i&gt;Ce magnifique oiseau de proie est couvert de plumes sombres sauf au
+sommet de la t&#234;te, o&#249; elles sont d’une blancheur &#233;clatante.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Ces pr&#233;dateurs, qui figurent parmi les rapaces les plus
+magnifiques, attrapent les poissons qui nagent dans les rivi&#232;res
+et les lacs, fondent sur les rongeurs et les petits mammif&#232;res qui
+vivent dans les prairies en haute altitude et s’emparent parfois
+de jeunes caprins qui pensaient &#234;tre bien en s&#233;curit&#233; en haut
+des falaises rocheuses.&lt;br /&gt;&lt;br /&gt;Comme tous les oiseaux de proie, les aigles
+poss&#232;dent des serres puissantes et des becs crochus
+parfait pour d&#233;chirer les chairs. Leur vue aiguis&#233;e
+leur permet de rep&#233;rer les proies lointaines et ils
+chassent g&#233;n&#233;ralement en faisant de larges cercles
+au-dessus du sol.&lt;br /&gt;&lt;br /&gt;Les aigles construisent de
+grands nids au sommet des
+arbres les plus grands ou sur les
+roches escarp&#233;es des falaises abruptes. Au
+cours de la saison de la reproduction, ils
+pondent deux oeufs mais g&#233;n&#233;ralement
+un seul aiglon survit, car
+le plus fort des deux
+tue et d&#233;vore l’autre.&lt;br /&gt;&lt;br /&gt;Les aigles
+p&#232;sent entre 4 et
+7,50 kg et poss&#232;dent une
+envergure pouvant aller jusqu’&#224;
+2,10 m&#232;tres chez certaines esp&#232;ces.
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Aigle|FP 1/2}
+{s:pucem|Animal|Montagnes|Tempéré}
+{s:BDTexte|''Source : Bestiaire page 9''}
+{s:BDTexte|'''PX''' 200}
+{s:BDTexte|[[type Animal|Animal]] de taille P, N}
+{s:BDTexte|'''Init''' +2 ; '''Sens''' [[vision nocturne]] ; [[Perception]] +10}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 14, contact 13, pris au dépourvu 12 (Dex +2, naturelle +1, taille +1)}
+{s:BDTexte|'''pv''' 5 (1d8+1)}
+{s:BDTexte|'''Réf''' +4, '''Vig''' +3, '''Vol''' +2}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 3 m (2 {s:c}), vol 24 m (16 {s:c}) (moyenne)}
+{s:BDTexte|'''Corps à corps''' 2 serres +3 (1d4), morsure +3 (1d4)}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 10, '''Dex''' 15, '''Con''' 12, '''Int''' 2, '''Sag''' 15, '''Cha''' 7}
+{s:BDTexte|'''BBA''' +0, '''BMO''' -1, '''DMD''' 11}
+{s:BDTexte|'''Dons''' [[Attaque en finesse]]}
+{s:BDTexte|'''Compétences''' [[Perception]] +10, [[Vol]] +8 ; '''Modificateurs raciaux''' [[Perception]] +8}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' montagnes tempérées}
+{s:BDTexte|'''Organisation sociale''' solitaire ou couple}
+{s:BDTexte|'''Trésor''' aucun}
+</div>
+</td><td><div>
+''Ce magnifique oiseau de proie est couvert de plumes sombres sauf au
+sommet de la tête, où elles sont d’une blancheur éclatante.''
+
+Ces prédateurs, qui figurent parmi les rapaces les plus
+magnifiques, attrapent les poissons qui nagent dans les rivières
+et les lacs, fondent sur les rongeurs et les petits mammifères qui
+vivent dans les prairies en haute altitude et s’emparent parfois
+de jeunes caprins qui pensaient être bien en sécurité en haut
+des falaises rocheuses.
+
+Comme tous les oiseaux de proie, les aigles
+possèdent des serres puissantes et des becs crochus
+parfait pour déchirer les chairs. Leur vue aiguisée
+leur permet de repérer les proies lointaines et ils
+chassent généralement en faisant de larges cercles
+au-dessus du sol.
+
+Les aigles construisent de
+grands nids au sommet des
+arbres les plus grands ou sur les
+roches escarpées des falaises abruptes. Au
+cours de la saison de la reproduction, ils
+pondent deux oeufs mais généralement
+un seul aiglon survit, car
+le plus fort des deux
+tue et dévore l’autre.
+
+Les aigles
+pèsent entre 4 et
+7,50 kg et possèdent une
+envergure pouvant aller jusqu’à
+2,10 mètres chez certaines espèces.
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Aigle</fullName>
+</wikiPage>

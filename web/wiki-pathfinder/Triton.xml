@@ -1,0 +1,121 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Triton</title>
+  <categories><category>Pathfinder-RPG.Bestiaire 2</category><category>Pathfinder-RPG.Monstre</category><category>Pathfinder-RPG.Règles officielles</category></categories>
+  <lastModified>2013-02-06 20:01:05Z</lastModified>
+  <version>0</version>
+  <inLinks><link>Pathfinder-RPG.Glossaire des monstres</link><link>Pathfinder-RPG.Liste de monstres par FP</link><link>Pathfinder-RPG.Liste de monstres par milieu naturel</link><link>Pathfinder-RPG.Liste de monstres par type</link><link>Pathfinder-RPG.Monstres</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.type Extérieur</link><link>Pathfinder-RPG.sous-type Eau</link><link>Pathfinder-RPG.sous-type natif</link><link>Pathfinder-RPG.vision dans le noir</link><link>Pathfinder-RPG.vision nocturne</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Convocation dalliés naturels II</link><link>Pathfinder-RPG.Élémentaire de lEau</link><link>Pathfinder-RPG.Dauphin</link><link>Pathfinder-RPG.Attaque au galop</link><link>Pathfinder-RPG.Combat monté</link><link>Pathfinder-RPG.Artisanat</link><link>Pathfinder-RPG.Diplomatie</link><link>Pathfinder-RPG.Discrétion</link><link>Pathfinder-RPG.Équitation</link><link>Pathfinder-RPG.Natation</link><link>Pathfinder-RPG.Psychologie</link><link>Pathfinder-RPG.Survie</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Triton&lt;div style=&quot;float:right;&quot;&gt;FP 2&lt;/div&gt;&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Bestiaire 2&lt;/i&gt; p.276
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 800
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Ext&#233;rieur.html&quot; title=&quot;Ext&#233;rieur&quot;&gt;Ext&#233;rieur&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Eau.html&quot; title=&quot;Eau (sous-type)&quot;&gt;Eau&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Natif.html&quot; title=&quot;Natif (sous-type)&quot;&gt;natif&lt;/a&gt;) de taille M, NB
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +0 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Capacit&#233;s-Sp&#233;ciales.html#VISIONDANSLENOIR&quot; title=&quot;vision dans le noir&quot;&gt;vision dans le noir&lt;/a&gt; 18 m (12 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Nocturne-(Capacit&#233;).html&quot; title=&quot;vision nocturne&quot;&gt;vision nocturne&lt;/a&gt; ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +7
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 14, contact 10, pris au d&#233;pourvu 14 (naturelle +4)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 19 (3d10+3)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +1, &lt;b&gt;Vig&lt;/b&gt; +4, &lt;b&gt;Vol&lt;/b&gt; +4
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 1,50 m (1 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), nage 12 m (8 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; trident de ma&#238;tre, +5 (1d8+1)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Distance&lt;/b&gt; arbal&#232;te lourde, +3 (1d10/19–20)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Pouvoirs magiques&lt;/b&gt; (NLS 7 ; concentration +7)
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+1/jour — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Convocation-Dalli&#233;s-Naturels-Ii.html&quot; title=&quot;Convocation d&amp;#39;alli&#233;s naturels II&quot;&gt;convocation d’alli&#233;s naturels II&lt;/a&gt;&lt;/i&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;&#201;l&#233;mentaire-De-Leau.html&quot; title=&quot;&#201;l&#233;mentaire de l&amp;#39;Eau&quot;&gt;&#233;l&#233;mentaire de l’Eau&lt;/a&gt; de taille P ou 1d3 &lt;a class=&quot;pagelink&quot; href=&quot;Dauphin.html&quot; title=&quot;Dauphin&quot;&gt;dauphins&lt;/a&gt; uniquement)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 12, &lt;b&gt;Dex&lt;/b&gt; 10, &lt;b&gt;Con&lt;/b&gt; 12, &lt;b&gt;Int&lt;/b&gt; 13 &lt;b&gt;Sag&lt;/b&gt; 13, &lt;b&gt;Cha&lt;/b&gt; 11
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +3 ; &lt;b&gt;BMO&lt;/b&gt; +4 ; &lt;b&gt;DMD&lt;/b&gt; 14
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Attaque-Au-Galop.html&quot; title=&quot;Attaque au galop&quot;&gt;Attaque au galop&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Combat-Mont&#233;.html&quot; title=&quot;Combat mont&#233;&quot;&gt;Combat mont&#233;&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Artisanat.html&quot; title=&quot;Artisanat&quot;&gt;Artisanat&lt;/a&gt; (un au choix) +7, &lt;a class=&quot;pagelink&quot; href=&quot;Diplomatie.html&quot; title=&quot;Diplomatie&quot;&gt;Diplomatie&lt;/a&gt; +6, &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; +6, &lt;a class=&quot;pagelink&quot; href=&quot;&#201;quitation.html&quot; title=&quot;&#201;quitation&quot;&gt;&#201;quitation&lt;/a&gt; +6, &lt;a class=&quot;pagelink&quot; href=&quot;Natation.html&quot; title=&quot;Natation&quot;&gt;Natation&lt;/a&gt; +9, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +7, &lt;a class=&quot;pagelink&quot; href=&quot;Psychologie.html&quot; title=&quot;Psychologie&quot;&gt;Psychologie&lt;/a&gt; +7, &lt;a class=&quot;pagelink&quot; href=&quot;Survie.html&quot; title=&quot;Survie&quot;&gt;Survie&lt;/a&gt; +7
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Langues&lt;/b&gt; aquatique, commun
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; oc&#233;ans
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation sociale&lt;/b&gt; solitaire, compagnie (2–5), escouade (6–11) ou groupe (12–21 plus 2–16 &lt;a class=&quot;pagelink&quot; href=&quot;Dauphin.html&quot; title=&quot;Dauphin&quot;&gt;dauphins&lt;/a&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; standard (trident de ma&#238;tre,arbal&#232;te lourde avec 10 carreaux, autres tr&#233;sors)
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;td&gt;&lt;div&gt;
+&lt;i&gt;Cet humano&#239;de &#233;cailleux dot&#233; de nageoires poss&#232;de un corps d’athl&#232;te de couleur bleu-vert. Ses jambes ne se terminent pas par des pieds mais par des palmes.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Ces Ext&#233;rieurs aquatiques ressemblent aux hommes-poissons, mais alors que ces derniers poss&#232;dent une unique queue de poisson, les tritons eux ont deux jambes &#233;cailleuses flanqu&#233;es de nageoires. Ces protecteurs des mers utilisent souvent des dauphins ou d’autres cr&#233;atures aquatiques comme montures afin d’aller surveiller les races mal&#233;fiques tapies sous les vagues. La race des tritons, originaire du plan de l’Eau, a migr&#233; il y a bien longtemps vers les oc&#233;ans du plan Mat&#233;riel et s’est adapt&#233;e &#224; cet environnement. Leurs jambes s&#233;par&#233;es leur permettent de marcher clopin-clopant et &#224; vitesse lente sur la terre, mais ils le font rarement et pr&#233;f&#232;rent leur environnement naturel et la mobilit&#233; accrue dont ils y jouissent.&lt;br /&gt;&lt;br /&gt;Les tritons habitent le fond de l’oc&#233;an, o&#249; ils font pousser des r&#233;cifs de corail et taillent des pierres en courbes gracieuses pour cr&#233;er des zones de vie &#224; la fois magnifiques et d’apparence naturelle. Bon nombre de ces sites se trouvent &#224; proximit&#233; de conduits thermaux qui procurent non seulement de la chaleur mais aussi des min&#233;raux et des aliments pour les poissons et les cr&#233;atures que mangent les tritons. Les tritons respirent aussi bien &#224; l’air libre que dans l’eau, mais ils pr&#233;f&#232;rent l’eau. Leurs cit&#233;s sont con&#231;ues avant tout pour des cr&#233;atures capables de respirer dans l’eau, mais elles poss&#232;dent g&#233;n&#233;ralement un ou deux b&#226;timents herm&#233;tiques contenant de l’air et permettant d’accueillir des visiteurs terrestres. On peut trouver des communaut&#233;s de tritons partout, des eaux arctiques aux eaux tropicales, la majorit&#233; d’entre elles se situant sous des climats temp&#233;r&#233;s. Les tritons &#233;vitent g&#233;n&#233;ralement les parties les plus profondes de l’oc&#233;an car il s’agit du domaine des krakens et des aboleths, des cr&#233;atures contre lesquelles ils sont en guerre depuis longtemps.&lt;br /&gt;&lt;br /&gt;Les tritons entretiennent de bonnes relations avec les autres cr&#233;atures sous-marines d’alignement Bon, mais ils se tiennent &#224; l’&#233;cart la plupart du temps. Ils aident les autres &#224; combattre leurs ennemis (principalement les krakens et les aboleths, mais aussi les cr&#233;atures mal&#233;fiques moins puissantes telles que les sahuagins ou les skums). Quand ils partent au combat, ils se regroupent g&#233;n&#233;ralement en puissantes escouades de cavalerie aquatique entra&#238;n&#233;es pour effectuer des attaques coordonn&#233;es. Les tritons ont tendance &#224; se m&#233;fier des &#233;trangers et, en r&#232;gle g&#233;n&#233;rale, ils &#233;vitent ceux qui habitent sur la terre. M&#234;me s’ils les consid&#232;rent comme des intrus dans l’eau, ils viennent parfois en aide aux habitants de la surface. Et quand ils le font, le prix qu’ils demandent est toujours &#233;lev&#233;. Quoi qu’il en soit, quand ils voient une cr&#233;ature de la surface combattre et vaincre un &#234;tre mal&#233;fique tel qu’un aboleth, ils mettent rapidement leurs pr&#233;jug&#233;s de c&#244;t&#233; et acceptent le grand h&#233;ros au sein de leur soci&#233;t&#233;, allant m&#234;me jusqu’&#224; l’accueillir les bras ouverts.&lt;br /&gt;&lt;br /&gt;Les tritons ont la peau argent&#233;e avec des nuances pouvant aller du bleu de l’eau jusqu’au vert des algues. Les tritons plus &#226;g&#233;s ont souvent le dos, le torse et les &#233;paules incrust&#233;es de bernacles, de coquillages ou de corail, des d&#233;corations qu’ils portent comme des bijoux marquant leur position au sein de leur race. Les tritons ont des cheveux blancs, bleus ou verts. Leurs yeux sont d’un bleu brillant similaire au reflet de la lumi&#232;re du soleil sur une mer calme. Un triton moyen mesure 1,80 m&#232;tre de hauteur et p&#232;se 90 kg. Les tritons les plus exceptionnels progressent en gagnant des niveaux de classe (g&#233;n&#233;ralement de druides, oracles ou r&#244;deurs) mais quelques-uns &#233;voluent en augmentant de taille. Ces tritons de taille G sont consid&#233;r&#233;s comme de grands h&#233;ros au sein de leur race et poss&#232;dent 8 DV ou plus encore.
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Triton|FP 2}
+{s:pucem|Extérieur|Aquatique|Tempéré}
+{s:BDTexte|''Source : Bestiaire 2'' p.276}
+{s:BDTexte|'''PX''' 800}
+{s:BDTexte|[[type extérieur|Extérieur]] ([[sous-type eau|Eau]], [[sous-type natif|natif]]) de taille M, NB}
+{s:BDTexte|'''Init''' +0 ; '''Sens''' [[vision dans le noir]] 18 m (12 {s:c}), [[vision nocturne]] ; [[Perception]] +7}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 14, contact 10, pris au dépourvu 14 (naturelle +4)}
+{s:BDTexte|'''pv''' 19 (3d10+3)}
+{s:BDTexte|'''Réf''' +1, '''Vig''' +4, '''Vol''' +4}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 1,50 m (1 {s:c}), nage 12 m (8 {s:c})}
+{s:BDTexte|'''Corps à corps''' trident de maître, +5 (1d8+1)}
+{s:BDTexte|'''Distance''' arbalète lourde, +3 (1d10/19–20)}
+{s:BDTexte|'''Pouvoirs magiques''' (NLS 7 ; concentration +7)}
+{s:BDSorts|1/jour — ''[[convocation dalliés naturels II|convocation d’alliés naturels II]]'' ([[élémentaire de lEau|élémentaire de l’Eau]] de taille P ou 1d3 [[dauphin|dauphins]] uniquement)}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 12, '''Dex''' 10, '''Con''' 12, '''Int''' 13 '''Sag''' 13, '''Cha''' 11}
+{s:BDTexte|'''BBA''' +3 ; '''BMO''' +4 ; '''DMD''' 14}
+{s:BDTexte|'''Dons''' [[Attaque au galop]], [[Combat monté]]}
+{s:BDTexte|'''Compétences''' [[Artisanat]] (un au choix) +7, [[Diplomatie]] +6, [[Discrétion]] +6, [[Équitation]] +6, [[Natation]] +9, [[Perception]] +7, [[Psychologie]] +7, [[Survie]] +7}
+{s:BDTexte|'''Langues''' aquatique, commun}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' océans}
+{s:BDTexte|'''Organisation sociale''' solitaire, compagnie (2–5), escouade (6–11) ou groupe (12–21 plus 2–16 [[dauphin|dauphins]])}
+{s:BDTexte|'''Trésor''' standard (trident de maître,arbalète lourde avec 10 carreaux, autres trésors)}
+</div>
+</td><td><div>
+''Cet humanoïde écailleux doté de nageoires possède un corps d’athlète de couleur bleu-vert. Ses jambes ne se terminent pas par des pieds mais par des palmes.''
+
+Ces Extérieurs aquatiques ressemblent aux hommes-poissons, mais alors que ces derniers possèdent une unique queue de poisson, les tritons eux ont deux jambes écailleuses flanquées de nageoires. Ces protecteurs des mers utilisent souvent des dauphins ou d’autres créatures aquatiques comme montures afin d’aller surveiller les races maléfiques tapies sous les vagues. La race des tritons, originaire du plan de l’Eau, a migré il y a bien longtemps vers les océans du plan Matériel et s’est adaptée à cet environnement. Leurs jambes séparées leur permettent de marcher clopin-clopant et à vitesse lente sur la terre, mais ils le font rarement et préfèrent leur environnement naturel et la mobilité accrue dont ils y jouissent.
+
+Les tritons habitent le fond de l’océan, où ils font pousser des récifs de corail et taillent des pierres en courbes gracieuses pour créer des zones de vie à la fois magnifiques et d’apparence naturelle. Bon nombre de ces sites se trouvent à proximité de conduits thermaux qui procurent non seulement de la chaleur mais aussi des minéraux et des aliments pour les poissons et les créatures que mangent les tritons. Les tritons respirent aussi bien à l’air libre que dans l’eau, mais ils préfèrent l’eau. Leurs cités sont conçues avant tout pour des créatures capables de respirer dans l’eau, mais elles possèdent généralement un ou deux bâtiments hermétiques contenant de l’air et permettant d’accueillir des visiteurs terrestres. On peut trouver des communautés de tritons partout, des eaux arctiques aux eaux tropicales, la majorité d’entre elles se situant sous des climats tempérés. Les tritons évitent généralement les parties les plus profondes de l’océan car il s’agit du domaine des krakens et des aboleths, des créatures contre lesquelles ils sont en guerre depuis longtemps.
+
+Les tritons entretiennent de bonnes relations avec les autres créatures sous-marines d’alignement Bon, mais ils se tiennent à l’écart la plupart du temps. Ils aident les autres à combattre leurs ennemis (principalement les krakens et les aboleths, mais aussi les créatures maléfiques moins puissantes telles que les sahuagins ou les skums). Quand ils partent au combat, ils se regroupent généralement en puissantes escouades de cavalerie aquatique entraînées pour effectuer des attaques coordonnées. Les tritons ont tendance à se méfier des étrangers et, en règle générale, ils évitent ceux qui habitent sur la terre. Même s’ils les considèrent comme des intrus dans l’eau, ils viennent parfois en aide aux habitants de la surface. Et quand ils le font, le prix qu’ils demandent est toujours élevé. Quoi qu’il en soit, quand ils voient une créature de la surface combattre et vaincre un être maléfique tel qu’un aboleth, ils mettent rapidement leurs préjugés de côté et acceptent le grand héros au sein de leur société, allant même jusqu’à l’accueillir les bras ouverts.
+
+Les tritons ont la peau argentée avec des nuances pouvant aller du bleu de l’eau jusqu’au vert des algues. Les tritons plus âgés ont souvent le dos, le torse et les épaules incrustées de bernacles, de coquillages ou de corail, des décorations qu’ils portent comme des bijoux marquant leur position au sein de leur race. Les tritons ont des cheveux blancs, bleus ou verts. Leurs yeux sont d’un bleu brillant similaire au reflet de la lumière du soleil sur une mer calme. Un triton moyen mesure 1,80 mètre de hauteur et pèse 90 kg. Les tritons les plus exceptionnels progressent en gagnant des niveaux de classe (généralement de druides, oracles ou rôdeurs) mais quelques-uns évoluent en augmentant de taille. Ces tritons de taille G sont considérés comme de grands héros au sein de leur race et possèdent 8 DV ou plus encore.
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Triton</fullName>
+</wikiPage>

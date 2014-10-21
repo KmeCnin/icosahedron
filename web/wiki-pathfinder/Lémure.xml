@@ -1,0 +1,187 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Lémure</title>
+  <categories><category>Pathfinder-RPG.Bestiaire</category><category>Pathfinder-RPG.Monstre</category><category>Pathfinder-RPG.Règles officielles</category></categories>
+  <lastModified>2013-02-07 20:07:33Z</lastModified>
+  <version>7</version>
+  <inLinks><link>Pathfinder-RPG.Convocation de monstres</link><link>Pathfinder-RPG.Diable</link><link>Pathfinder-RPG.Diable accusateur</link><link>Pathfinder-RPG.Diable barbu</link><link>Pathfinder-RPG.Diantrefosse</link><link>Pathfinder-RPG.Glossaire des monstres</link><link>Pathfinder-RPG.Lier un extérieur</link><link>Pathfinder-RPG.Liste de monstres par FP</link><link>Pathfinder-RPG.Liste de monstres par milieu naturel</link><link>Pathfinder-RPG.Liste de monstres par type</link><link>Pathfinder-RPG.Monstres</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.type Extérieur</link><link>Pathfinder-RPG.sous-type diable</link><link>Pathfinder-RPG.sous-type extraplanaire</link><link>Pathfinder-RPG.sous-type Loi</link><link>Pathfinder-RPG.sous-type Mal</link><link>Pathfinder-RPG.vision dans le noir</link><link>Pathfinder-RPG.Perception</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;L&#233;mure&lt;div style=&quot;float:right;&quot;&gt;FP 1&lt;/div&gt;&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Bestiaire p.87&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 400
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Ext&#233;rieur.html&quot; title=&quot;Ext&#233;rieur&quot;&gt;Ext&#233;rieur&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Diable.html&quot; title=&quot;Diable (sous-type)&quot;&gt;diable&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Extraplanaire.html&quot; title=&quot;Extraplanaire (sous-type)&quot;&gt;extraplanaire&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Loi.html&quot; title=&quot;Loi (sous-type)&quot;&gt;Loi&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Mal.html&quot; title=&quot;Mal (sous-type)&quot;&gt;Mal&lt;/a&gt;) de taille M, LM
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +0 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Capacit&#233;s-Sp&#233;ciales.html#VISIONDANSLENOIR&quot; title=&quot;vision dans le noir&quot;&gt;vision dans le noir&lt;/a&gt; 18 m (12 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Diable.html#VISIONTENEBRES&quot; title=&quot;Diable (sous-type)&quot;&gt;vision dans les t&#233;n&#232;bres&lt;/a&gt; ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +0
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 14, contact 10, pris au d&#233;pourvu 14 (naturelle +4)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 13 (2d10+2)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +3, &lt;b&gt;Vig&lt;/b&gt; +4, &lt;b&gt;Vol&lt;/b&gt; +0
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Immunit&#233;s&lt;/b&gt; effets mentaux, feu, poison ; &lt;b&gt;RD&lt;/b&gt; 5/Bien ou argent ; &lt;b&gt;R&#233;sistances&lt;/b&gt; acide 10, froid 10 
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 6 m (4 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; 2 griffes, +2 (1d4)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 11, &lt;b&gt;Dex&lt;/b&gt; 10, &lt;b&gt;Con&lt;/b&gt; 12, &lt;b&gt;Int&lt;/b&gt; -, &lt;b&gt;Sag&lt;/b&gt; 11, &lt;b&gt;Cha&lt;/b&gt; 5
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +2, &lt;b&gt;BMO&lt;/b&gt; +2, &lt;b&gt;DMD&lt;/b&gt; 12
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; quelconque (Enfer)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation sociale&lt;/b&gt; solitaire, couple, bande (3-5), nu&#233;e (6-17) ou foule (10-40 ou plus)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; aucun
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;td&gt;&lt;div&gt;&lt;i&gt;Des membres &#224; moiti&#233; form&#233;s et un visage rong&#233; et ruisselant s’agitent au sein de cet amas de chairs qui avance par &#224;-coups.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Les l&#233;mures, les membres les plus faibles de la famille des diables,
+sont cr&#233;&#233;s &#224; partir des l&#233;gions d’&#226;mes damn&#233;s &#224; l’Enfer sous la forme
+de masses informes de chair tremblante. La bribe d’instinct ou
+de souvenirs qui persiste dans la semi-conscience des l&#233;mures les
+font souvent prendre l’apparence de ceux qui les tourmentent
+ou des &#226;mes tortur&#233;es qui les entourent. Les traits des l&#233;mures,
+monstrueux et inutiles, n’ont rien &#224; voir avec ce qu’ils &#233;taient
+autrefois. Certains d’entre eux poss&#232;dent plusieurs visages
+horribles ou se r&#233;duisent &#224; des colonnes bouillonnantes
+de tumeurs. &lt;br /&gt;&lt;br /&gt;Seuls leurs membres noueux (bras et jambes)
+semblent avoir une v&#233;ritable fonction et celle-ci se limite bien
+souvent &#224; d&#233;truire toutes les formes de vie non infernales
+qui s’approchent trop pr&#232;s d’eux. Lorsqu’ils se d&#233;placent, les
+l&#233;mures se solidifient g&#233;n&#233;ralement en formes d&#233;passant
+1,20 m&#232;tre de hauteur et pesant plus de 100 kg mais, au repos,
+ces fi&#233;lons r&#233;pugnants prennent l’apparence d’amas de chair
+fondue ne pr&#233;sentant que de tr&#232;s vagues traits humano&#239;des.&lt;br /&gt;&lt;br /&gt;M&#234;me si les l&#233;mures font partie des cr&#233;atures les plus
+d&#233;go&#251;tantes qui existent, ils jouent un r&#244;le vital dans l’&#233;cologie
+perverse de l’Enfer. Lorsqu’&#224; la fin de sa vie, l’&#226;me d’un individu
+se retrouve damn&#233;e (parce qu’il a v&#233;n&#233;r&#233; des forces diaboliques
+ou a refus&#233; de v&#233;n&#233;rer un autre dieu), elle rejoint la foule d’&#226;mes
+en souffrance qui habitent les plaines de l’Avernus, la premi&#232;re
+strate de l’Enfer. &lt;br /&gt;&lt;br /&gt;L&#224;, ses tourments commencent alors que des
+diables mineurs la regroupe avec d’autres esprits semblables en vue d’un long et dangereux voyage vers une des autres strates de
+l’Enfer. La destination est g&#233;n&#233;ralement une strate en rapport avec
+la punition qui correspond aux crimes de l’&#226;me ou tout simplement
+le domaine d’un diable qui a besoin d’esclaves. Une fois arriv&#233;es
+dans leur domaine de damnation, les &#226;mes subissent des &#233;ternit&#233;s
+de souffrance inflig&#233;es par les diables, les autres fi&#233;lons et les
+dangereuses machinations de l’Enfer lui-m&#234;me. &lt;br /&gt;&lt;br /&gt;Les anciennes
+essences mortelles sombrent lentement dans la folie, oublient leur
+vie et deviennent bestiales, r&#233;duites &#224; l’&#233;tat de simples automates de
+terreur et de haine. Apr&#232;s ces souffrances interminables, les &#226;mes
+sont soit compl&#232;tement annihil&#233;es par l’Enfer, soit (dans le cas des
+esprits les plus vils) remodel&#233;s sous la forme de l&#233;mures, des amas
+abominables de crasse et de chair diabolique qui constituent les
+briques de base &#224; partir desquelles les diables sont cr&#233;&#233;s. &lt;br /&gt;&lt;br /&gt;Ces &#234;tres r&#233;pugnants se rassemblent en de vastes troupeaux semblables &#224; des
+vagues de corruption comportant plusieurs milliers d’individus.
+Les diables majeurs peuvent rep&#233;rer les &#226;mes les plus corrompues
+parmi ces fi&#233;lons et, gr&#226;ce &#224; de myst&#233;rieuses tortures ou aux
+pouvoirs de l’Enfer lui-m&#234;me, les transformer en v&#233;ritables diables,
+des nouveau n&#233;s pr&#234;ts &#224; servir avec ob&#233;issance dans les l&#233;gions des
+damn&#233;s.
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Lémure|FP 1}
+{s:pucem|Extérieur|Ville|Extraplanaire}
+{s:BDTexte|''Source : Bestiaire p.87''}
+{s:BDTexte|'''PX''' 400}
+{s:BDTexte|[[type Extérieur|Extérieur]] ([[sous-type diable|diable]], [[sous-type extraplanaire|extraplanaire]], [[sous-type Loi|Loi]], [[sous-type Mal|Mal]]) de taille M, LM}
+{s:BDTexte|'''Init''' +0 ; '''Sens''' [[vision dans le noir]] 18 m (12 {s:c}), [[sous-type diable#VISIONTENEBRES|vision dans les ténèbres]] ; [[Perception]] +0}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 14, contact 10, pris au dépourvu 14 (naturelle +4)}
+{s:BDTexte|'''pv''' 13 (2d10+2)}
+{s:BDTexte|'''Réf''' +3, '''Vig''' +4, '''Vol''' +0}
+{s:BDTexte|'''Immunités''' effets mentaux, feu, poison ; '''RD''' 5/Bien ou argent ; '''Résistances''' acide 10, froid 10 }
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 6 m (4 {s:c})}
+{s:BDTexte|'''Corps à corps''' 2 griffes, +2 (1d4)}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 11, '''Dex''' 10, '''Con''' 12, '''Int''' -, '''Sag''' 11, '''Cha''' 5}
+{s:BDTexte|'''BBA''' +2, '''BMO''' +2, '''DMD''' 12}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' quelconque (Enfer)}
+{s:BDTexte|'''Organisation sociale''' solitaire, couple, bande (3-5), nuée (6-17) ou foule (10-40 ou plus)}
+{s:BDTexte|'''Trésor''' aucun}
+</div>
+</td><td><div>''Des membres à moitié formés et un visage rongé et ruisselant s’agitent au sein de cet amas de chairs qui avance par à-coups.''
+
+Les lémures, les membres les plus faibles de la famille des diables,
+sont créés à partir des légions d’âmes damnés à l’Enfer sous la forme
+de masses informes de chair tremblante. La bribe d’instinct ou
+de souvenirs qui persiste dans la semi-conscience des lémures les
+font souvent prendre l’apparence de ceux qui les tourmentent
+ou des âmes torturées qui les entourent. Les traits des lémures,
+monstrueux et inutiles, n’ont rien à voir avec ce qu’ils étaient
+autrefois. Certains d’entre eux possèdent plusieurs visages
+horribles ou se réduisent à des colonnes bouillonnantes
+de tumeurs. 
+
+Seuls leurs membres noueux (bras et jambes)
+semblent avoir une véritable fonction et celle-ci se limite bien
+souvent à détruire toutes les formes de vie non infernales
+qui s’approchent trop près d’eux. Lorsqu’ils se déplacent, les
+lémures se solidifient généralement en formes dépassant
+1,20 mètre de hauteur et pesant plus de 100 kg mais, au repos,
+ces fiélons répugnants prennent l’apparence d’amas de chair
+fondue ne présentant que de très vagues traits humanoïdes.
+
+Même si les lémures font partie des créatures les plus
+dégoûtantes qui existent, ils jouent un rôle vital dans l’écologie
+perverse de l’Enfer. Lorsqu’à la fin de sa vie, l’âme d’un individu
+se retrouve damnée (parce qu’il a vénéré des forces diaboliques
+ou a refusé de vénérer un autre dieu), elle rejoint la foule d’âmes
+en souffrance qui habitent les plaines de l’Avernus, la première
+strate de l’Enfer. 
+
+Là, ses tourments commencent alors que des
+diables mineurs la regroupe avec d’autres esprits semblables en vue d’un long et dangereux voyage vers une des autres strates de
+l’Enfer. La destination est généralement une strate en rapport avec
+la punition qui correspond aux crimes de l’âme ou tout simplement
+le domaine d’un diable qui a besoin d’esclaves. Une fois arrivées
+dans leur domaine de damnation, les âmes subissent des éternités
+de souffrance infligées par les diables, les autres fiélons et les
+dangereuses machinations de l’Enfer lui-même. 
+
+Les anciennes
+essences mortelles sombrent lentement dans la folie, oublient leur
+vie et deviennent bestiales, réduites à l’état de simples automates de
+terreur et de haine. Après ces souffrances interminables, les âmes
+sont soit complètement annihilées par l’Enfer, soit (dans le cas des
+esprits les plus vils) remodelés sous la forme de lémures, des amas
+abominables de crasse et de chair diabolique qui constituent les
+briques de base à partir desquelles les diables sont créés. 
+
+Ces êtres répugnants se rassemblent en de vastes troupeaux semblables à des
+vagues de corruption comportant plusieurs milliers d’individus.
+Les diables majeurs peuvent repérer les âmes les plus corrompues
+parmi ces fiélons et, grâce à de mystérieuses tortures ou aux
+pouvoirs de l’Enfer lui-même, les transformer en véritables diables,
+des nouveau nés prêts à servir avec obéissance dans les légions des
+damnés.
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Lémure</fullName>
+</wikiPage>

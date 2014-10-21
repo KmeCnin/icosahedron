@@ -1,0 +1,312 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Samouraï</title>
+  <categories><category>Pathfinder-RPG.Art de la guerre</category><category>Pathfinder-RPG.Classe</category><category>Pathfinder-RPG.Règles officielles</category></categories>
+  <lastModified>2014-01-14 18:27:18Z</lastModified>
+  <version>9</version>
+  <inLinks><link>Pathfinder-RPG.Argent et richesse</link><link>Pathfinder-RPG.Chevalier</link><link>Pathfinder-RPG.Classes</link><link>Pathfinder-RPG.dons-temporaires</link><link>Pathfinder-RPG.FAQ Règles</link><link>Pathfinder-RPG.Frappe ondoyante</link><link>Pathfinder-RPG.MainPage</link><link>Pathfinder-RPG.Maîtriser le combat</link><link>Pathfinder-RPG.Optimisation de la frappe magique</link><link>Pathfinder-RPG.page de travail des dons</link><link>Pathfinder-RPG.Samouraï</link><link>Pathfinder-RPG.Tableau récapitulatif des dons</link><link>Pathfinder-RPG.tableau récapitulatif des dons (art de la guerre)</link><link>Pathfinder-RPG.temp-MainPage</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Ordres</link><link>Pathfinder-RPG.Samouraï</link><link>Pathfinder-RPG.Chevalier</link><link>Pathfinder-RPG.Artisanat</link><link>Pathfinder-RPG.Bluff</link><link>Pathfinder-RPG.Diplomatie</link><link>Pathfinder-RPG.Dressage</link><link>Pathfinder-RPG.Équitation</link><link>Pathfinder-RPG.Escalade</link><link>Pathfinder-RPG.Intimidation</link><link>Pathfinder-RPG.Natation</link><link>Pathfinder-RPG.Profession</link><link>Pathfinder-RPG.Psychologie</link><link>Pathfinder-RPG.Intelligence</link><link>Pathfinder-RPG.armes courantes</link><link>Pathfinder-RPG.Action rapide</link><link>Pathfinder-RPG.CA</link><link>Pathfinder-RPG.compagnon animal</link><link>Pathfinder-RPG.Druide</link><link>Pathfinder-RPG.Poney</link><link>Pathfinder-RPG.Loup</link><link>Pathfinder-RPG.Sanglier</link><link>Pathfinder-RPG.Chien</link><link>Pathfinder-RPG.Port des armures légères</link><link>Pathfinder-RPG.don</link><link>Pathfinder-RPG.Transfert de sorts</link><link>Pathfinder-RPG.esquive totale</link><link>Pathfinder-RPG.esquive surnaturelle</link><link>Pathfinder-RPG.compétences de classe</link><link>Pathfinder-RPG.Pouvoirs spéciaux</link><link>Pathfinder-RPG.Action simple</link><link>Pathfinder-RPG.Fatigué</link><link>Pathfinder-RPG.Secoué</link><link>Pathfinder-RPG.Épuisé</link><link>Pathfinder-RPG.Effrayé</link><link>Pathfinder-RPG.Nauséeux</link><link>Pathfinder-RPG.Chancelant</link><link>Pathfinder-RPG.Vigueur</link><link>Pathfinder-RPG.Volonté</link><link>Pathfinder-RPG.Action libre</link><link>Pathfinder-RPG.Arme en main</link><link>Pathfinder-RPG.Guerrier</link><link>Pathfinder-RPG.Spécialisation martiale</link><link>Pathfinder-RPG.arme à distance</link><link>Pathfinder-RPG.taille</link><link>Pathfinder-RPG.coup critique</link><link>Pathfinder-RPG.Action immédiate</link><link>Pathfinder-RPG.Paniqué</link><link>Pathfinder-RPG.Inconscient</link><link>Pathfinder-RPG.jet de sauvegarde</link><link>Pathfinder-RPG.charme</link><link>Pathfinder-RPG.coercition</link><link>Pathfinder-RPG.DD</link><link>Pathfinder-RPG.pv</link></outLinks>
+  <body><![CDATA[
+&lt;div style=&quot;float:right; padding-left: 4px&quot;&gt;
+ &lt;b&gt;Voir les &lt;a class=&quot;pagelink&quot; href=&quot;Ordres.html&quot; title=&quot;Les ordres de chevalerie&quot;&gt;ordres&lt;/a&gt; du samoura&#239;&lt;/b&gt;
+&lt;/div&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;i&gt;Peu de guerriers montrent autant de d&#233;votion envers le code de l’honneur et de la chevalerie que le samoura&#239;. D&#232;s son plus jeune &#226;ge, il est form&#233; aux arts de la guerre et jure fid&#233;lit&#233; &#224; un seigneur. Dans de nombreux pays, il occupe une position de pouvoir et inspire le respect. Il sert souvent de porte-parole pour le noble local et rend la justice en son nom. Le samoura&#239; s’entra&#238;ne avec z&#232;le et suit la voie de l’&#233;p&#233;e (g&#233;n&#233;ralement du katana), de l’arc et du cheval. Certains apprennent m&#234;me &#224; se servir des armes &#224; feu, quand ils en ont &#224; disposition. Le samoura&#239; est souvent l’homme de confiance de son seigneur et les gens du peuple voient en lui l’incarnation de l’honneur et du sacrifice. C’est un honorable guerrier qui se d&#233;voue &#224; son pays et &#224; ses dirigeants.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;&lt;table width=&quot;100%&quot;&gt;
+&lt;tr&gt;
+&lt;td width=&quot;70%&quot;&gt;
+&lt;center&gt;
+&lt;table CLASS=&quot;tablo&quot;&gt;&lt;caption&gt;Le samoura&#239;&lt;/caption&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td&gt;Niveau&lt;/td&gt;&lt;td&gt;BBA&lt;/td&gt;&lt;td&gt;R&#233;flexes&lt;/td&gt;&lt;td&gt;Vigueur&lt;/td&gt;&lt;td&gt;Volont&#233;&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;Sp&#233;cial&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier&quot;&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;+1&lt;/td&gt;&lt;td&gt;+0&lt;/td&gt;&lt;td&gt;+2&lt;/td&gt;&lt;td&gt;+0&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Samoura&#239;.html#D&#201;FI&quot; title=&quot;Samoura&#239;&quot;&gt;D&#233;fi&lt;/a&gt; 1/Jour , &lt;a class=&quot;pagelink&quot; href=&quot;Samoura&#239;.html#MONTURE&quot; title=&quot;Samoura&#239;&quot;&gt;monture&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Samoura&#239;.html#ORDRE&quot; title=&quot;Samoura&#239;&quot;&gt;ordre&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Samoura&#239;.html#R&#201;SOLUTION&quot; title=&quot;Samoura&#239;&quot;&gt;r&#233;solution&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;+2&lt;/td&gt;&lt;td&gt;+0&lt;/td&gt;&lt;td&gt;+3&lt;/td&gt;&lt;td&gt;+0&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Samoura&#239;.html#POUVOIRDELORDRE&quot; title=&quot;Samoura&#239;&quot;&gt;Pouvoir de l’ordre&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;+3&lt;/td&gt;&lt;td&gt;+1&lt;/td&gt;&lt;td&gt;+3&lt;/td&gt;&lt;td&gt;+1&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Samoura&#239;.html#EXPERTISEMARTIALE&quot; title=&quot;Samoura&#239;&quot;&gt;Expertise martiale&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;+4&lt;/td&gt;&lt;td&gt;+1&lt;/td&gt;&lt;td&gt;+4&lt;/td&gt;&lt;td&gt;+1&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Samoura&#239;.html#ARCHERMONT&#201;&quot; title=&quot;Samoura&#239;&quot;&gt;archer mont&#233;&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Samoura&#239;.html#D&#201;FI&quot; title=&quot;Samoura&#239;&quot;&gt;D&#233;fi&lt;/a&gt; 2/Jour&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;+5&lt;/td&gt;&lt;td&gt;+1&lt;/td&gt;&lt;td&gt;+4&lt;/td&gt;&lt;td&gt;+1&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Samoura&#239;.html#BANNI&#200;RE&quot; title=&quot;Samoura&#239;&quot;&gt;Banni&#232;re&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;+6/+1&lt;/td&gt;&lt;td&gt;+2&lt;/td&gt;&lt;td&gt;+5&lt;/td&gt;&lt;td&gt;+2&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Samoura&#239;.html#DONSUPPL&#201;MENTAIRE&quot; title=&quot;Samoura&#239;&quot;&gt;Don suppl&#233;mentaire&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;7&lt;/td&gt;&lt;td&gt;+7/+2&lt;/td&gt;&lt;td&gt;+2&lt;/td&gt;&lt;td&gt;+5&lt;/td&gt;&lt;td&gt;+2&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Samoura&#239;.html#D&#201;FI&quot; title=&quot;Samoura&#239;&quot;&gt;D&#233;fi&lt;/a&gt; 3/Jour&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;8&lt;/td&gt;&lt;td&gt;+8/+3&lt;/td&gt;&lt;td&gt;+2&lt;/td&gt;&lt;td&gt;+6&lt;/td&gt;&lt;td&gt;+2&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Samoura&#239;.html#POUVOIRDELORDRE&quot; title=&quot;Samoura&#239;&quot;&gt;Pouvoir de l’ordre&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;9&lt;/td&gt;&lt;td&gt;+9/+4&lt;/td&gt;&lt;td&gt;+3&lt;/td&gt;&lt;td&gt;+6&lt;/td&gt;&lt;td&gt;+3&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Samoura&#239;.html#R&#201;SOLUTIONSUP&#201;RIEURE&quot; title=&quot;Samoura&#239;&quot;&gt;R&#233;solution sup&#233;rieure&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;+10/+5&lt;/td&gt;&lt;td&gt;+3&lt;/td&gt;&lt;td&gt;+7&lt;/td&gt;&lt;td&gt;+3&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Samoura&#239;.html#D&#201;FI&quot; title=&quot;Samoura&#239;&quot;&gt;D&#233;fi&lt;/a&gt; 4/Jour&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;11&lt;/td&gt;&lt;td&gt;+11/+6/+1&lt;/td&gt;&lt;td&gt;+3&lt;/td&gt;&lt;td&gt;+7&lt;/td&gt;&lt;td&gt;+3&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Samoura&#239;.html#R&#201;SISTANCEHONORABLE&quot; title=&quot;Samoura&#239;&quot;&gt;R&#233;sistance honorable&lt;/a&gt; &lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;12&lt;/td&gt;&lt;td&gt;+12/+7/+2&lt;/td&gt;&lt;td&gt;+4&lt;/td&gt;&lt;td&gt;+8&lt;/td&gt;&lt;td&gt;+4&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Samoura&#239;.html#D&#201;FI&#201;PROUVANT&quot; title=&quot;Samoura&#239;&quot;&gt;d&#233;fi &#233;prouvant&lt;/a&gt; ,&lt;a class=&quot;pagelink&quot; href=&quot;Samoura&#239;.html#DONSUPPL&#201;MENTAIRE&quot; title=&quot;Samoura&#239;&quot;&gt;don suppl&#233;mentaire&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;13&lt;/td&gt;&lt;td&gt;+13/+8/+3&lt;/td&gt;&lt;td&gt;+4&lt;/td&gt;&lt;td&gt;+8&lt;/td&gt;&lt;td&gt;+4&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Samoura&#239;.html#D&#201;FI&quot; title=&quot;Samoura&#239;&quot;&gt;D&#233;fi&lt;/a&gt; 5/Jour&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;14&lt;/td&gt;&lt;td&gt;+14/+9/+4&lt;/td&gt;&lt;td&gt;+4&lt;/td&gt;&lt;td&gt;+9&lt;/td&gt;&lt;td&gt;+5&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Samoura&#239;.html#GRANDEBANNI&#200;RE&quot; title=&quot;Samoura&#239;&quot;&gt;Grande banni&#232;re&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;15&lt;/td&gt;&lt;td&gt;+15/+10/+5&lt;/td&gt;&lt;td&gt;+5&lt;/td&gt;&lt;td&gt;+9&lt;/td&gt;&lt;td&gt;+5&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Samoura&#239;.html#POUVOIRDELORDRE&quot; title=&quot;Samoura&#239;&quot;&gt;Pouvoir de l’ordre&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;16&lt;/td&gt;&lt;td&gt;+16/+11/+6/+1&lt;/td&gt;&lt;td&gt;+5&lt;/td&gt;&lt;td&gt;+10&lt;/td&gt;&lt;td&gt;+5&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Samoura&#239;.html#D&#201;FI&quot; title=&quot;Samoura&#239;&quot;&gt;D&#233;fi&lt;/a&gt; 6/Jour&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;17&lt;/td&gt;&lt;td&gt;+17/+12/+7/+2&lt;/td&gt;&lt;td&gt;+5&lt;/td&gt;&lt;td&gt;+10&lt;/td&gt;&lt;td&gt;+5&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Samoura&#239;.html#R&#201;SOLUTIONSUPR&#202;ME&quot; title=&quot;Samoura&#239;&quot;&gt;R&#233;solution supr&#234;me&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;18&lt;/td&gt;&lt;td&gt;+18/+13/+8/+3&lt;/td&gt;&lt;td&gt;+6&lt;/td&gt;&lt;td&gt;+11&lt;/td&gt;&lt;td&gt;+6&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Samoura&#239;.html#DONSUPPL&#201;MENTAIRE&quot; title=&quot;Samoura&#239;&quot;&gt;don suppl&#233;mentaire&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;19&lt;/td&gt;&lt;td&gt;+19/+14/+9/+4&lt;/td&gt;&lt;td&gt;+6&lt;/td&gt;&lt;td&gt;+11&lt;/td&gt;&lt;td&gt;+6&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Samoura&#239;.html#D&#201;FI&quot; title=&quot;Samoura&#239;&quot;&gt;D&#233;fi&lt;/a&gt; 7/Jour&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;20&lt;/td&gt;&lt;td&gt;+20/+15/+10/+5&lt;/td&gt;&lt;td&gt;+6&lt;/td&gt;&lt;td&gt;+12&lt;/td&gt;&lt;td&gt;+6&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Samoura&#239;.html#DERNI&#200;RER&#201;SISTANCE&quot; title=&quot;Samoura&#239;&quot;&gt;Derni&#232;re r&#233;sistance&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/center&gt;
+&lt;/td&gt;
+&lt;td width=&quot;30%&quot; valign=&quot;bottom&quot;&gt;&lt;br /&gt;&lt;br /&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;br /&gt;&lt;b&gt;R&#244;le.&lt;/b&gt; Habituellement, le samoura&#239; jure fid&#233;lit&#233; &#224; un seigneur mais il est libre de d&#233;cider comment le servir, c’est pourquoi certains voyagent parfois avec d’autres aventuriers qui combattent les ennemis de leur ma&#238;tre. D’autres deviennent des ronins qui servent un id&#233;al et non un seigneur. Quoiqu’il en soit, ce sont de puissants alli&#233;s, capables de supporter n’importe quelles souffrances tout en &#233;liminant leurs ennemis avec une pr&#233;cision mortelle. Le samoura&#239; est une alternative &#224; la classe de &lt;a class=&quot;pagelink&quot; href=&quot;Chevalier.html&quot; title=&quot;Le chevalier&quot;&gt;chevalier&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Alignement.&lt;/b&gt; tous.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;D&#233;s de vie.&lt;/b&gt; d10.&lt;br /&gt;&lt;br /&gt;&lt;h2 class=&quot;separator&quot;&gt; Comp&#233;tences de classe &lt;a class=&quot;headeranchor&quot; id=&quot;Comp&#233;tences_de_classe_15&quot; href=&quot;#Comp&#233;tences_de_classe_15&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;Voici les comp&#233;tences du samoura&#239; : &lt;a class=&quot;pagelink&quot; href=&quot;Artisanat.html&quot; title=&quot;Artisanat&quot;&gt;Artisanat&lt;/a&gt; (Int), &lt;a class=&quot;pagelink&quot; href=&quot;Bluff.html&quot; title=&quot;Bluff&quot;&gt;Bluff&lt;/a&gt; (Cha), &lt;a class=&quot;pagelink&quot; href=&quot;Diplomatie.html&quot; title=&quot;Diplomatie&quot;&gt;Diplomatie&lt;/a&gt; (Cha), &lt;a class=&quot;pagelink&quot; href=&quot;Dressage.html&quot; title=&quot;Dressage&quot;&gt;Dressage&lt;/a&gt; (Cha), &lt;a class=&quot;pagelink&quot; href=&quot;&#201;quitation.html&quot; title=&quot;&#201;quitation&quot;&gt;&#201;quitation&lt;/a&gt; (Dex), &lt;a class=&quot;pagelink&quot; href=&quot;Escalade.html&quot; title=&quot;Escalade&quot;&gt;Escalade&lt;/a&gt; (For), &lt;a class=&quot;pagelink&quot; href=&quot;Intimidation.html&quot; title=&quot;Intimidation&quot;&gt;Intimidation&lt;/a&gt; (Cha), &lt;a class=&quot;pagelink&quot; href=&quot;Natation.html&quot; title=&quot;Natation&quot;&gt;Natation&lt;/a&gt; (For), &lt;a class=&quot;pagelink&quot; href=&quot;Profession.html&quot; title=&quot;Profession&quot;&gt;Profession&lt;/a&gt; (Sag) et &lt;a class=&quot;pagelink&quot; href=&quot;Psychologie.html&quot; title=&quot;Psychologie&quot;&gt;Psychologie&lt;/a&gt; (Sag).&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Points de comp&#233;tence par niveau.&lt;/b&gt; 4 + modificateur d’&lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#INTELLIGENCE&quot; title=&quot;L&amp;#39;Intelligence&quot;&gt;Intelligence&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;&lt;h2 class=&quot;separator&quot;&gt; Descriptif de la classe &lt;a class=&quot;headeranchor&quot; id=&quot;Descriptif_de_la_classe_16&quot; href=&quot;#Descriptif_de_la_classe_16&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;Les aptitudes du samoura&#239; sont d&#233;crites ci-dessous.&lt;br /&gt;&lt;br /&gt;&lt;h3 class=&quot;separator&quot;&gt;Armes et armures&lt;a class=&quot;headeranchor&quot; id=&quot;Armes_et_armures_0&quot; href=&quot;#Armes_et_armures_0&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt; Les samoura&#239;s sont form&#233;s au maniement des &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques-Des-Armes.html#ARMECOURANTE&quot; title=&quot;armes courantes&quot;&gt;armes courantes&lt;/a&gt; et de guerre, du katana, de la naginata et du wakizashi. Ils sont capables de porter toutes les armures (l&#233;g&#232;res, interm&#233;diaires et lourdes) et de manier des boucliers (sauf le pavois).&lt;br /&gt;&lt;br /&gt;&lt;a name=&quot;D&#201;FI&quot;&gt;&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;h3 class=&quot;separator&quot;&gt;D&#233;fi (Ext)&lt;a class=&quot;headeranchor&quot; id=&quot;D&#233;fi_Ext_1&quot; href=&quot;#D&#233;fi_Ext_1&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;Une fois par jour, le samoura&#239; peut mettre un ennemi au &lt;a class=&quot;pagelink&quot; href=&quot;Samoura&#239;.html#D&#201;FI&quot; title=&quot;Samoura&#239;&quot;&gt;D&#233;fi&lt;/a&gt; de le combattre. Par une &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions.html#RAPIDE&quot; title=&quot;Action rapide&quot;&gt;action rapide&lt;/a&gt;, il choisit une cr&#233;ature (qu’il peut voir) et la d&#233;fie. Ses attaques de corps &#224; corps infligent alors des d&#233;g&#226;ts suppl&#233;mentaires quand il se bat contre elle. Ces d&#233;g&#226;ts suppl&#233;mentaires sont &#233;gaux au niveau du samoura&#239;. Il peut utiliser ce pouvoir une fois par jour au niveau 1 et une fois de plus tous les trois niveaux apr&#232;s le premier, avec un maximum de sept fois par jour au niveau 19.&lt;br /&gt;&lt;br /&gt;Le samoura&#239; a besoin de toute sa concentration pour d&#233;fier son ennemi. Il subit un malus de -2 &#224; la &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#CA&quot; title=&quot;CA&quot;&gt;CA&lt;/a&gt;, sauf contre les attaques qui viennent de sa cible.&lt;br /&gt;&lt;br /&gt;Le d&#233;fi reste valable jusqu’&#224; ce que la cible du samoura&#239; meure, tombe inconsciente ou que le combat se termine. Chaque d&#233;fi de samoura&#239; comporte un effet suppl&#233;mentaire d&#233;crit dans le paragraphe de chaque &lt;a class=&quot;pagelink&quot; href=&quot;Samoura&#239;.html#ORDRE&quot; title=&quot;Samoura&#239;&quot;&gt;ordre&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;&lt;a name=&quot;MONTURE&quot;&gt;&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;
+&lt;h3 class=&quot;separator&quot;&gt;Monture (Ext)&lt;a class=&quot;headeranchor&quot; id=&quot;Monture_Ext_2&quot; href=&quot;#Monture_Ext_2&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;Le samoura&#239; s’attache les services d’un destrier fiable et loyal pour l’emmener au cœur des batailles. Cette monture fonctionne comme le &lt;a class=&quot;pagelink&quot; href=&quot;Compagnons-Animaux.html&quot; title=&quot;compagnon animal&quot;&gt;compagnon animal&lt;/a&gt; d’un &lt;a class=&quot;pagelink&quot; href=&quot;Druide.html&quot; title=&quot;Le druide&quot;&gt;druide&lt;/a&gt; et utilise le niveau du samoura&#239; comme niveau effectif de &lt;a class=&quot;pagelink&quot; href=&quot;Druide.html&quot; title=&quot;Le druide&quot;&gt;druide&lt;/a&gt;. Le samoura&#239; doit &#234;tre capable de chevaucher la monture choisie sans mal. Un samoura&#239; de taille M peut choisir un dromadaire ou un cheval, un samoura&#239; P un &lt;a class=&quot;pagelink&quot; href=&quot;Poney.html&quot; title=&quot;Poney&quot;&gt;poney&lt;/a&gt; ou un &lt;a class=&quot;pagelink&quot; href=&quot;Loup.html&quot; title=&quot;Loup&quot;&gt;loup&lt;/a&gt; mais aussi un &lt;a class=&quot;pagelink&quot; href=&quot;Sanglier.html&quot; title=&quot;Sanglier&quot;&gt;sanglier&lt;/a&gt; ou un &lt;a class=&quot;pagelink&quot; href=&quot;Chien.html&quot; title=&quot;Chien&quot;&gt;chien&lt;/a&gt; s’il est au moins de niveau 4. Le MJ peut accepter d’autres cr&#233;atures comme montures.&lt;br /&gt;&lt;br /&gt;Quand le samoura&#239; chevauche sa monture, il ne subit pas de malus d’armure aux tests d’&lt;a class=&quot;pagelink&quot; href=&quot;&#201;quitation.html&quot; title=&quot;&#201;quitation&quot;&gt;&#201;quitation&lt;/a&gt;. La monture est toujours consid&#233;r&#233;e comme entra&#238;n&#233;e au combat et commence le jeu avec &lt;a class=&quot;pagelink&quot; href=&quot;Port-Des-Armures-L&#233;g&#232;res.html&quot; title=&quot;Port des armures l&#233;g&#232;res&quot;&gt;Port des armures l&#233;g&#232;res&lt;/a&gt; comme &lt;a class=&quot;pagelink&quot; href=&quot;Dons.html&quot; title=&quot;don&quot;&gt;don&lt;/a&gt; suppl&#233;mentaire. La monture du samoura&#239; ne poss&#232;de pas le pouvoir sp&#233;cial &lt;a class=&quot;pagelink&quot; href=&quot;Transfert-De-Sorts.html&quot; title=&quot;Transfert de sorts&quot;&gt;transfert de sorts&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;Le lien qui unit le samoura&#239; et sa monture est tr&#232;s fort, ce qui permet &#224; chacun d’anticiper les r&#233;actions et les mouvements de l’autre. Si la monture du samoura&#239; meurt, il peut en trouver une nouvelle apr&#232;s une semaine de deuil. Elle ne b&#233;n&#233;ficiera pas des pouvoirs sp&#233;ciaux de lien, &lt;a class=&quot;pagelink&quot; href=&quot;Roublard.html#ESQUIVETOTALE&quot; title=&quot;esquive totale&quot;&gt;esquive totale&lt;/a&gt;, d&#233;votion et &lt;a class=&quot;pagelink&quot; href=&quot;Moine.html#ESQUIVESURNATURELLE&quot; title=&quot;esquive surnaturelle&quot;&gt;esquive surnaturelle&lt;/a&gt; tant que le samoura&#239; n’aura pas gagn&#233; un niveau.&lt;br /&gt;&lt;br /&gt;&lt;a name=&quot;ORDRE&quot;&gt;&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;
+&lt;h3 class=&quot;separator&quot;&gt;Ordre (Ext)&lt;a class=&quot;headeranchor&quot; id=&quot;Ordre_Ext_3&quot; href=&quot;#Ordre_Ext_3&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;Au niveau 1, le samoura&#239; doit pr&#234;ter serment &#224; un ordre sp&#233;cifique, ce qui lui octroie un certain nombre de bonus, de &lt;a class=&quot;pagelink&quot; href=&quot;Comp&#233;tences.html#COMPETENCESDECLASSE&quot; title=&quot;comp&#233;tences de classe&quot;&gt;comp&#233;tences de classe&lt;/a&gt; et de &lt;a class=&quot;pagelink&quot; href=&quot;Pouvoirs-Sp&#233;ciaux.html&quot; title=&quot;Les pouvoirs sp&#233;ciaux&quot;&gt;pouvoirs sp&#233;ciaux&lt;/a&gt;. Chaque ordre poss&#232;de des &#233;dits que le samoura&#239; doit respecter. S’il en viole un, il perd les avantages li&#233;s au &lt;a class=&quot;pagelink&quot; href=&quot;Samoura&#239;.html#D&#201;FI&quot; title=&quot;Samoura&#239;&quot;&gt;D&#233;fi&lt;/a&gt; de son ordre pendant 24 heures. Toute violation potentielle est sujette &#224; l’interpr&#233;tation du MJ.&lt;br /&gt;&lt;br /&gt;La plupart des samoura&#239;s appartiennent &#224; l’ordre du guerrier et sont d&#233;vou&#233;s &#224; leur seigneur. Ceux qui n’ont pas de seigneur ou qui l’abandonnent sont des ronins. Un samoura&#239; peut se consacrer &#224; un ordre de &lt;a class=&quot;pagelink&quot; href=&quot;Chevalier.html&quot; title=&quot;Le chevalier&quot;&gt;chevalier&lt;/a&gt; mais ce cas est rare.&lt;br /&gt;&lt;br /&gt;Un samoura&#239; ne peut pas changer d’ordre &#224; moins d’entamer un long processus qui lui permette de se consacrer &#224; une nouvelle cause. S’il fait tout de m&#234;me ce choix, il perd tous les avantages de son ordre pr&#233;c&#233;dent. Il doit ensuite suivre les &#233;dits de son nouvel ordre pendant tout un niveau sans en tirer le moindre b&#233;n&#233;fice. Une fois cette t&#226;che accomplie, il b&#233;n&#233;ficie de tous les avantages de ce nouvel ordre. La transformation d’un samoura&#239; en ronin est une exception : elle est imm&#233;diate, le samoura&#239; perd les avantages de son ancien ordre et les remplace imm&#233;diatement par ceux des ronins. En revanche, si un ronin veut changer d’ordre, il doit suivre le processus d&#233;taill&#233; plus haut. Notez que le nom des ordres peut varier selon le cadre de campagne et les pr&#233;f&#233;rences du MJ.&lt;br /&gt;&lt;br /&gt;&lt;a name=&quot;R&#201;SOLUTION&quot;&gt;&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;
+&lt;h3 class=&quot;separator&quot;&gt;R&#233;solution (Ext)&lt;a class=&quot;headeranchor&quot; id=&quot;R&#233;solution_Ext_4&quot; href=&quot;#R&#233;solution_Ext_4&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;&#192; partir du niveau 1, le samoura&#239; peut faire appel &#224; sa r&#233;solution pour supporter les blessures les plus graves et les pires afflictions. Au niveau 1, il peut utiliser ce pouvoir une fois par jour et ensuite une fois de plus tous les deux niveaux. Quand le samoura&#239; triomphe de la cible d’un &lt;a class=&quot;pagelink&quot; href=&quot;Samoura&#239;.html#D&#201;FI&quot; title=&quot;Samoura&#239;&quot;&gt;D&#233;fi&lt;/a&gt;, il r&#233;g&#233;n&#232;re une utilisation de r&#233;solution, sans pouvoir d&#233;passer le nombre maximum d’utilisations quotidiennes. Par triompher, on entend g&#233;n&#233;ralement r&#233;duire l’ennemi &#224; 0 point de vie ou moins mais le MJ peut d&#233;cider que l’adversaire est vaincu s’il se rend ou s’il fuit le combat. Le samoura&#239; peut utiliser ce pouvoir de diverses mani&#232;res.&lt;br /&gt;&lt;br /&gt;&lt;a name=&quot;D&#201;TERMIN&#201;&quot;&gt;&lt;/a&gt;
+&lt;b&gt;&lt;i&gt;D&#233;termin&#233;&lt;/i&gt;&lt;/b&gt; : Par une &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions.html#SIMPLE&quot; title=&quot;Action simple&quot;&gt;action simple&lt;/a&gt;, le samoura&#239; peut d&#233;penser une utilisation de r&#233;solution pour dissiper une condition : &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables.html#Fatigu&#233;&quot; title=&quot;Fatigu&#233;&quot;&gt;fatigu&#233;&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables.html#Secou&#233;&quot; title=&quot;Secou&#233;&quot;&gt;secou&#233;&lt;/a&gt; ou malade. S’il est de niveau 8 ou plus, il peut aussi &#233;liminer : &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables.html#&#201;puis&#233;&quot; title=&quot;&#201;puis&#233;&quot;&gt;&#233;puis&#233;&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables.html#Effray&#233;&quot; title=&quot;Effray&#233;&quot;&gt;effray&#233;&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables.html#Naus&#233;eux&quot; title=&quot;Naus&#233;eux&quot;&gt;naus&#233;eux&lt;/a&gt; ou &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables.html#Chancelant&quot; title=&quot;Chancelant&quot;&gt;chancelant&lt;/a&gt;. Si cette condition a une dur&#233;e sup&#233;rieure &#224; une heure ou si elle est permanente, le pouvoir la dissipe pendant une heure, elle revient ensuite.&lt;br /&gt;&lt;br /&gt;&lt;a name=&quot;IMBATTABLE&quot;&gt;&lt;/a&gt;
+&lt;b&gt;&lt;i&gt;Imbattable&lt;/i&gt;&lt;/b&gt; : Quand le samoura&#239; tombe &#224; 0 point de vie ou moins mais qu’il n’est pas encore mort, il peut d&#233;penser une utilisation de r&#233;solution par une action imm&#233;diate pour se stabiliser instantan&#233;ment et rester conscient. Il est &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables.html#Chancelant&quot; title=&quot;Chancelant&quot;&gt;chancelant&lt;/a&gt; mais ne tombe pas inconscient et n’agonise pas s’il entreprend une &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions.html#SIMPLE&quot; title=&quot;Action simple&quot;&gt;action simple&lt;/a&gt;. En revanche, il bascule dans l’inconscience s’il subit des d&#233;g&#226;ts suppl&#233;mentaires, peu importe leur origine.&lt;br /&gt;&lt;br /&gt;&lt;a name=&quot;R&#201;SOLU&quot;&gt;&lt;/a&gt;
+&lt;b&gt;&lt;i&gt;R&#233;solu&lt;/i&gt;&lt;/b&gt; : Quand le samoura&#239; doit faire un jet de &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;Vigueur&quot;&gt;Vigueur&lt;/a&gt; ou de &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;Volont&#233;&quot;&gt;Volont&#233;&lt;/a&gt; il peut, par une [[action imm&#233;diate}}, d&#233;penser une utilisation de r&#233;solution pour faire deux jets et garder le meilleur. Il doit d&#233;cider d’utiliser ce pouvoir avant de lancer les d&#233;s.&lt;br /&gt;&lt;br /&gt;&lt;a name=&quot;EXPERTISEMARTIALE&quot;&gt;&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;h3 class=&quot;separator&quot;&gt;Expertise martiale (Ext)&lt;a class=&quot;headeranchor&quot; id=&quot;Expertise_martiale_Ext_5&quot; href=&quot;#Expertise_martiale_Ext_5&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;Au niveau 3, le samoura&#239; gagne une exp&#233;rience incomparable dans le maniement des armes qu’il s’est choisies. Au niveau 3, il choisit le katana, l’arc long, la naginata ou le wakizashi. Il peut d&#233;gainer l’arme choisie par une &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions.html#LIBRE&quot; title=&quot;Action libre&quot;&gt;action libre&lt;/a&gt;, comme s’il avait le don &lt;a class=&quot;pagelink&quot; href=&quot;Arme-En-Main.html&quot; title=&quot;Arme en main&quot;&gt;Arme en main&lt;/a&gt;. De plus, quand il menace une zone de critique avec l’arme choisie, il gagne un bonus de +2 au jet de confirmation. Enfin, ses niveaux de samoura&#239; se cumulent avec ses &#233;ventuels niveaux de &lt;a class=&quot;pagelink&quot; href=&quot;Guerrier.html&quot; title=&quot;Le guerrier&quot;&gt;guerrier&lt;/a&gt; quand il s’agit de d&#233;terminer s’il remplit les conditions requises pour un don bas&#233; sur son arme, comme la &lt;a class=&quot;pagelink&quot; href=&quot;Sp&#233;cialisation-Martiale.html&quot; title=&quot;Sp&#233;cialisation martiale&quot;&gt;Sp&#233;cialisation martiale&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;&lt;a name=&quot;ARCHERMONT&#201;&quot;&gt;&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;h3 class=&quot;separator&quot;&gt;Archer mont&#233; (Ext)&lt;a class=&quot;headeranchor&quot; id=&quot;Archer_mont&#233;_Ext_6&quot; href=&quot;#Archer_mont&#233;_Ext_6&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;Au niveau 4, le samoura&#239; devient particuli&#232;rement dou&#233; pour utiliser les armes &#224; distance alors qu’il est sur une &lt;a class=&quot;pagelink&quot; href=&quot;Samoura&#239;.html#MONTURE&quot; title=&quot;Samoura&#239;&quot;&gt;monture&lt;/a&gt;. Il subit un malus de -2 seulement quand il fait un jet d’attaque avec une &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques-Des-Armes.html#ARMEADISTANCE&quot; title=&quot;arme &#224; distance&quot;&gt;arme &#224; distance&lt;/a&gt; alors que sa monture fait un double d&#233;placement. Ce malus passe &#224; -4 quand elle galope.&lt;br /&gt;&lt;br /&gt;&lt;a name=&quot;BANNI&#200;RE&quot;&gt;&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;h3 class=&quot;separator&quot;&gt;Banni&#232;re (Ext)&lt;a class=&quot;headeranchor&quot; id=&quot;Banni&#232;re_Ext_7&quot; href=&quot;#Banni&#232;re_Ext_7&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;Au niveau 5, la banni&#232;re du samoura&#239; devient un symbole d’inspiration pour ses compagnons. Tant qu’elle est clairement visible, tous les alli&#233;s situ&#233;s dans un rayon de 18 m re&#231;oivent un bonus moral de +2 aux jets de sauvegarde contre la peur et un bonus de moral de +1 aux jets d’attaque effectu&#233;s lors d’une charge. Au niveau 10 et ensuite tous les 5 niveaux, ces bonus augmentent de +1. La banni&#232;re doit &#234;tre au moins de &lt;a class=&quot;pagelink&quot; href=&quot;Petites-Et-Grandes-Cr&#233;atures.html#TABLEAUTAILLES&quot; title=&quot;taille&quot;&gt;taille&lt;/a&gt; P ou plus et, pour fonctionner, il faut que ce soit le samoura&#239; ou sa monture qui la porte.&lt;br /&gt;&lt;br /&gt;&lt;a name=&quot;DONSUPPL&#201;MENTAIRE&quot;&gt;&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;h3 class=&quot;separator&quot;&gt;Don suppl&#233;mentaire&lt;a class=&quot;headeranchor&quot; id=&quot;Don_suppl&#233;mentaire_8&quot; href=&quot;#Don_suppl&#233;mentaire_8&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;Au niveau 6 et tous les 6 niveaux par la suite, le samoura&#239; gagne un &lt;a class=&quot;pagelink&quot; href=&quot;Dons.html&quot; title=&quot;don&quot;&gt;don&lt;/a&gt; suppl&#233;mentaire, en plus de ceux obtenus gr&#226;ce &#224; son &#233;volution normale. Ces dons sont &#224; choisir dans la liste des dons guerriers. Le samoura&#239; doit remplir les conditions requises.&lt;br /&gt;&lt;br /&gt;&lt;a name=&quot;R&#201;SOLUTIONSUP&#201;RIEURE&quot;&gt;&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;h3 class=&quot;separator&quot;&gt;R&#233;solution sup&#233;rieure (Ext)&lt;a class=&quot;headeranchor&quot; id=&quot;R&#233;solution_sup&#233;rieure_Ext_9&quot; href=&quot;#R&#233;solution_sup&#233;rieure_Ext_9&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;Au niveau 9, le samoura&#239; peut utiliser sa &lt;a class=&quot;pagelink&quot; href=&quot;Samoura&#239;.html#R&#201;SOLUTION&quot; title=&quot;Samoura&#239;&quot;&gt;r&#233;solution&lt;/a&gt; pour annuler ses blessures les plus graves. Si quelqu’un confirme un &lt;a class=&quot;pagelink&quot; href=&quot;Actions-Simples.html#COUPCRITIQUE&quot; title=&quot;coup critique&quot;&gt;coup critique&lt;/a&gt; contre lui il peut, par une &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions.html#IMMEDIATE&quot; title=&quot;Action imm&#233;diate&quot;&gt;action imm&#233;diate&lt;/a&gt;, d&#233;penser une &lt;a class=&quot;pagelink&quot; href=&quot;Samoura&#239;.html#R&#201;SOLUTION&quot; title=&quot;Samoura&#239;&quot;&gt;r&#233;solution&lt;/a&gt; pour changer ce &lt;a class=&quot;pagelink&quot; href=&quot;Actions-Simples.html#COUPCRITIQUE&quot; title=&quot;coup critique&quot;&gt;coup critique&lt;/a&gt; en coup normal. Les effets qui se d&#233;clenchent seulement en cas de &lt;a class=&quot;pagelink&quot; href=&quot;Actions-Simples.html#COUPCRITIQUE&quot; title=&quot;coup critique&quot;&gt;coup critique&lt;/a&gt; ne fonctionnent pas quand le samoura&#239; active ce pouvoir.&lt;br /&gt;&lt;br /&gt;&lt;a name=&quot;R&#201;SISTANCEHONORABLE&quot;&gt;&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;
+&lt;h3 class=&quot;separator&quot;&gt;R&#233;sistance honorable (Ext)&lt;a class=&quot;headeranchor&quot; id=&quot;R&#233;sistance_honorable_Ext_10&quot; href=&quot;#R&#233;sistance_honorable_Ext_10&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;Au niveau 11, le samoura&#239; peut opposer une r&#233;sistance honorable et d&#233;cider de combattre la cible de son &lt;a class=&quot;pagelink&quot; href=&quot;Samoura&#239;.html#D&#201;FI&quot; title=&quot;Samoura&#239;&quot;&gt;D&#233;fi&lt;/a&gt; jusqu’au bout, &#224; n’importe quel prix. Au niveau 11, il peut le faire une fois par jour et une fois de plus au niveau 16. Il doit utiliser une &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions.html#RAPIDE&quot; title=&quot;Action rapide&quot;&gt;action rapide&lt;/a&gt; pour faire une r&#233;sistance honorable. Dans ce cas, il est immunis&#233; contre les conditions suivantes : &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables.html#Secou&#233;&quot; title=&quot;Secou&#233;&quot;&gt;secou&#233;&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables.html#Effray&#233;&quot; title=&quot;Effray&#233;&quot;&gt;effray&#233;&lt;/a&gt; et &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables.html#Paniqu&#233;&quot; title=&quot;Paniqu&#233;&quot;&gt;paniqu&#233;&lt;/a&gt;. Il ne tombe pas &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables.html#Inconscient&quot; title=&quot;Inconscient&quot;&gt;inconscient&lt;/a&gt; si ses points de vie descendent en dessous de 0. Enfin, quand un samoura&#239; doit faire un &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;jet de sauvegarde&quot;&gt;jet de sauvegarde&lt;/a&gt; alors qu’il fait une r&#233;sistance honorable, il peut utiliser une r&#233;solution quotidienne pour faire un second jet apr&#232;s le premier. Il doit conserver le r&#233;sultat du second, m&#234;me s’il est pire que le premier. Si un samoura&#239; se retire du combat alors qu’il faisait une r&#233;sistance honorable contre un adversaire qu’il a d&#233;fi&#233;, il ne peut plus d&#233;fier qui que ce soit pendant 24 heures.&lt;br /&gt;&lt;br /&gt;&lt;a name=&quot;D&#201;FI&#201;PROUVANT&quot;&gt;&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;h3 class=&quot;separator&quot;&gt;D&#233;fi &#233;prouvant (Ext)&lt;a class=&quot;headeranchor&quot; id=&quot;D&#233;fi_&#233;prouvant_Ext_11&quot; href=&quot;#D&#233;fi_&#233;prouvant_Ext_11&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;Au niveau 12, quand le personnage d&#233;fie une cr&#233;ature, elle doit se concentrer sur la menace qu’il repr&#233;sente. Tant qu’elle se trouve dans la zone menac&#233;e par le samoura&#239;, elle subit un malus de -2 &#224; la &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#CA&quot; title=&quot;CA&quot;&gt;CA&lt;/a&gt; contre les attaques de toute cr&#233;ature autre que lui.&lt;br /&gt;&lt;br /&gt;&lt;a name=&quot;GRANDEBANNI&#200;RE&quot;&gt;&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;h3 class=&quot;separator&quot;&gt;Grande banni&#232;re (Ext)&lt;a class=&quot;headeranchor&quot; id=&quot;Grande_banni&#232;re_Ext_12&quot; href=&quot;#Grande_banni&#232;re_Ext_12&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;Au niveau 14, la &lt;a class=&quot;pagelink&quot; href=&quot;Samoura&#239;.html#BANNI&#200;RE&quot; title=&quot;Samoura&#239;&quot;&gt;banni&#232;re&lt;/a&gt; du samoura&#239; devient un point de ralliement pour ses alli&#233;s. Tous ceux qui se trouvent dans les 18 m re&#231;oivent un bonus de moral de +2 aux jets de sauvegarde contre les sorts et effets de &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#CHARME&quot; title=&quot;charme&quot;&gt;charme&lt;/a&gt; et de &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#COERCITION&quot; title=&quot;coercition&quot;&gt;coercition&lt;/a&gt;. De plus, tant que la &lt;a class=&quot;pagelink&quot; href=&quot;Samoura&#239;.html#BANNI&#200;RE&quot; title=&quot;Samoura&#239;&quot;&gt;banni&#232;re&lt;/a&gt; est d&#233;ploy&#233;e, le samoura&#239; peut passer une &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions.html#SIMPLE&quot; title=&quot;Action simple&quot;&gt;action simple&lt;/a&gt; &#224; l’agiter dans les airs, ce qui permet &#224; ces m&#234;mes alli&#233;s de faire un &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;jet de sauvegarde&quot;&gt;jet de sauvegarde&lt;/a&gt; suppl&#233;mentaire contre un sort ou un effet qui les vise. Ce jet se fait contre le &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DEGREDEDIFFICULTE&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; originel. Ce pouvoir n’affecte pas les sorts et effets qui ne permettent pas de &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;jet de sauvegarde&quot;&gt;jet de sauvegarde&lt;/a&gt;. Un alli&#233; ne peut pas profiter de ce pouvoir plus d’une fois par jour.&lt;br /&gt;&lt;br /&gt;&lt;a name=&quot;R&#201;SOLUTIONSUPR&#202;ME&quot;&gt;&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;h3 class=&quot;separator&quot;&gt;R&#233;solution supr&#234;me (Ext)&lt;a class=&quot;headeranchor&quot; id=&quot;R&#233;solution_supr&#234;me_Ext_13&quot; href=&quot;#R&#233;solution_supr&#234;me_Ext_13&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;Au niveau 17, le samoura&#239; peut utiliser sa &lt;a class=&quot;pagelink&quot; href=&quot;Samoura&#239;.html#R&#201;SOLUTION&quot; title=&quot;Samoura&#239;&quot;&gt;r&#233;solution&lt;/a&gt; pour &#233;viter de mourir. S’il lui reste au moins deux utilisations journali&#232;res de &lt;a class=&quot;pagelink&quot; href=&quot;Samoura&#239;.html#R&#201;SOLUTION&quot; title=&quot;Samoura&#239;&quot;&gt;r&#233;solution&lt;/a&gt;, il peut toutes les d&#233;penser pour &#233;chapper &#224; la mort. Quelle que soit l’origine de l’attaque qui aurait d&#251; le laisser pour mort, il reste en vie &#224; -1 &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#POINTSDEVIE&quot; title=&quot;pv&quot;&gt;pv&lt;/a&gt; (ou moins s’il &#233;tait d&#233;j&#224; &#224; -1), &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables.html#Inconscient&quot; title=&quot;Inconscient&quot;&gt;inconscient&lt;/a&gt; et stabilis&#233;.&lt;br /&gt;&lt;br /&gt;&lt;a name=&quot;DERNI&#200;RER&#201;SISTANCE&quot;&gt;&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;
+&lt;h3 class=&quot;separator&quot;&gt;Derni&#232;re r&#233;sistance (Ext)&lt;a class=&quot;headeranchor&quot; id=&quot;Derni&#232;re_r&#233;sistance_Ext_14&quot; href=&quot;#Derni&#232;re_r&#233;sistance_Ext_14&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;Au niveau 20, le samoura&#239; peut opposer une derni&#232;re r&#233;sistance &#224; l’objet de son &lt;a class=&quot;pagelink&quot; href=&quot;Samoura&#239;.html#D&#201;FI&quot; title=&quot;Samoura&#239;&quot;&gt;D&#233;fi&lt;/a&gt;. Tant que le &lt;a class=&quot;pagelink&quot; href=&quot;Samoura&#239;.html#D&#201;FI&quot; title=&quot;Samoura&#239;&quot;&gt;D&#233;fi&lt;/a&gt; est actif, toutes les attaques &#224; distance et au corps &#224; corps lui infligent le minimum de d&#233;g&#226;ts, &#224; moins d’un &lt;a class=&quot;pagelink&quot; href=&quot;Actions-Simples.html#COUPCRITIQUE&quot; title=&quot;coup critique&quot;&gt;coup critique&lt;/a&gt;. De plus, le samoura&#239; reste conscient en dessous de 0 point de vie et il n’est pas &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables.html#Chancelant&quot; title=&quot;Chancelant&quot;&gt;chancelant&lt;/a&gt;. Tant qu’il est sous l’effet de ce pouvoir, personne ne peut le tuer avec une &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques-Des-Armes.html#ARMEADISTANCE&quot; title=&quot;arme &#224; distance&quot;&gt;arme &#224; distance&lt;/a&gt; ou de corps &#224; corps, sauf la cible de son &lt;a class=&quot;pagelink&quot; href=&quot;Samoura&#239;.html#D&#201;FI&quot; title=&quot;Samoura&#239;&quot;&gt;D&#233;fi&lt;/a&gt;. Les attaques des autres adversaires n’infligent aucun d&#233;g&#226;t au samoura&#239; quand il se trouve en dessous de 0 point de vie. Ce pouvoir n’a aucun effet sur les sorts, les effets environnementaux et toute source de d&#233;g&#226;ts autre qu’une arme de m&#234;l&#233;e ou &#224; distance. Ces sources de d&#233;g&#226;ts l’affectent normalement et sont tout &#224; fait susceptibles de le tuer (mais il ne tombe toujours pas inconscient et ne chancelle pas s’il tombe &#224; moins de 0 pv). Cet effet dure jusqu’&#224; la fin du &lt;a class=&quot;pagelink&quot; href=&quot;Samoura&#239;.html#D&#201;FI&quot; title=&quot;Samoura&#239;&quot;&gt;D&#233;fi&lt;/a&gt; ou jusqu’&#224; ce que le samoura&#239; fasse une action offensive contre une cible autre que celle de son &lt;a class=&quot;pagelink&quot; href=&quot;Samoura&#239;.html#D&#201;FI&quot; title=&quot;Samoura&#239;&quot;&gt;D&#233;fi&lt;/a&gt;.
+]]></body>
+  <raw><![CDATA[{s:MenuClasses}
+<div style="float:right; padding-left: 4px">
+ '''Voir les [[ordres]] du samouraï'''
+</div>
+{br}
+{br}
+''Peu de guerriers montrent autant de dévotion envers le code de l’honneur et de la chevalerie que le samouraï. Dès son plus jeune âge, il est formé aux arts de la guerre et jure fidélité à un seigneur. Dans de nombreux pays, il occupe une position de pouvoir et inspire le respect. Il sert souvent de porte-parole pour le noble local et rend la justice en son nom. Le samouraï s’entraîne avec zèle et suit la voie de l’épée (généralement du katana), de l’arc et du cheval. Certains apprennent même à se servir des armes à feu, quand ils en ont à disposition. Le samouraï est souvent l’homme de confiance de son seigneur et les gens du peuple voient en lui l’incarnation de l’honneur et du sacrifice. C’est un honorable guerrier qui se dévoue à son pays et à ses dirigeants.''
+
+<table width="100%">
+<tr>
+<td width="70%">
+<center>
+{| CLASS="tablo"
+|+ Le samouraï
+|- CLASS="titre"
+| Niveau
+| BBA
+| Réflexes
+| Vigueur
+| Volonté
+| CLASS="gauche" | Spécial
+|- CLASS="premier"
+| 1
+| +1
+| +0
+| +2
+| +0
+| CLASS="gauche" | [[Samouraï#DÉFI|Défi]] 1/Jour , [[Samouraï#MONTURE|monture]], [[Samouraï#ORDRE|ordre]], [[Samouraï#RÉSOLUTION|résolution]]
+|- CLASS="alt"
+| 2
+| +2
+| +0
+| +3
+| +0
+| CLASS="gauche" | [[Samouraï#POUVOIRDELORDRE|Pouvoir de l’ordre]]
+|-
+| 3
+| +3
+| +1
+| +3
+| +1
+| CLASS="gauche" | [[Samouraï#EXPERTISEMARTIALE|Expertise martiale]]
+|- CLASS="alt"
+| 4
+| +4
+| +1
+| +4
+| +1
+| CLASS="gauche" | [[Samouraï#ARCHERMONTÉ|archer monté]], [[Samouraï#DÉFI|Défi]] 2/Jour
+|-
+| 5
+| +5
+| +1
+| +4
+| +1
+| CLASS="gauche" | [[Samouraï#BANNIÈRE|Bannière]]
+|- CLASS="alt"
+| 6
+| +6/+1
+| +2
+| +5
+| +2
+| CLASS="gauche" | [[Samouraï#DONSUPPLÉMENTAIRE|Don supplémentaire]]
+|-
+| 7
+| +7/+2
+| +2
+| +5
+| +2
+| CLASS="gauche" | [[Samouraï#DÉFI|Défi]] 3/Jour
+|- CLASS="alt"
+| 8
+| +8/+3
+| +2
+| +6
+| +2
+| CLASS="gauche" | [[Samouraï#POUVOIRDELORDRE|Pouvoir de l’ordre]]
+|-
+| 9
+| +9/+4
+| +3
+| +6
+| +3
+| CLASS="gauche" | [[Samouraï#RÉSOLUTIONSUPÉRIEURE|Résolution supérieure]]
+|- CLASS="alt"
+| 10
+| +10/+5
+| +3
+| +7
+| +3
+| CLASS="gauche" | [[Samouraï#DÉFI|Défi]] 4/Jour
+|-
+| 11
+| +11/+6/+1
+| +3
+| +7
+| +3
+| CLASS="gauche" | [[Samouraï#RÉSISTANCEHONORABLE|Résistance honorable]] 
+|- CLASS="alt"
+| 12
+| +12/+7/+2
+| +4
+| +8
+| +4
+| CLASS="gauche" | [[Samouraï#DÉFIÉPROUVANT|défi éprouvant]] ,[[Samouraï#DONSUPPLÉMENTAIRE|don supplémentaire]]
+|-
+| 13
+| +13/+8/+3
+| +4
+| +8
+| +4
+| CLASS="gauche" | [[Samouraï#DÉFI|Défi]] 5/Jour
+|- CLASS="alt"
+| 14
+| +14/+9/+4
+| +4
+| +9
+| +5
+| CLASS="gauche" | [[Samouraï#GRANDEBANNIÈRE|Grande bannière]]
+|-
+| 15
+| +15/+10/+5
+| +5
+| +9
+| +5
+| CLASS="gauche" | [[Samouraï#POUVOIRDELORDRE|Pouvoir de l’ordre]]
+|- CLASS="alt"
+| 16
+| +16/+11/+6/+1
+| +5
+| +10
+| +5
+| CLASS="gauche" | [[Samouraï#DÉFI|Défi]] 6/Jour
+|-
+| 17
+| +17/+12/+7/+2
+| +5
+| +10
+| +5
+| CLASS="gauche" | [[Samouraï#RÉSOLUTIONSUPRÊME|Résolution suprême]]
+|- CLASS="alt"
+| 18
+| +18/+13/+8/+3
+| +6
+| +11
+| +6
+| CLASS="gauche" | [[Samouraï#DONSUPPLÉMENTAIRE|don supplémentaire]]
+|-
+| 19
+| +19/+14/+9/+4
+| +6
+| +11
+| +6
+| CLASS="gauche" | [[Samouraï#DÉFI|Défi]] 7/Jour
+|- CLASS="alt"
+| 20
+| +20/+15/+10/+5
+| +6
+| +12
+| +6
+| CLASS="gauche" | [[Samouraï#DERNIÈRERÉSISTANCE|Dernière résistance]]
+|}
+</center>
+</td>
+<td width="30%" valign="bottom">
+{s:ImageCentre|Illustrations/PNJ/Hayato.jpg|100%}
+</td></tr></table>
+
+'''Rôle.''' Habituellement, le samouraï jure fidélité à un seigneur mais il est libre de décider comment le servir, c’est pourquoi certains voyagent parfois avec d’autres aventuriers qui combattent les ennemis de leur maître. D’autres deviennent des ronins qui servent un idéal et non un seigneur. Quoiqu’il en soit, ce sont de puissants alliés, capables de supporter n’importe quelles souffrances tout en éliminant leurs ennemis avec une précision mortelle. Le samouraï est une alternative à la classe de [[chevalier]].
+
+'''Alignement.''' tous.
+
+'''Dés de vie.''' d10.
+
+=== Compétences de classe ===
+Voici les compétences du samouraï : [[Artisanat]] (Int), [[Bluff]] (Cha), [[Diplomatie]] (Cha), [[Dressage]] (Cha), [[Équitation]] (Dex), [[Escalade]] (For), [[Intimidation]] (Cha), [[Natation]] (For), [[Profession]] (Sag) et [[Psychologie]] (Sag).
+
+'''Points de compétence par niveau.''' 4 + modificateur d’[[Intelligence]].
+
+=== Descriptif de la classe ===
+Les aptitudes du samouraï sont décrites ci-dessous.
+
+====Armes et armures==== Les samouraïs sont formés au maniement des [[armes courantes]] et de guerre, du katana, de la naginata et du wakizashi. Ils sont capables de porter toutes les armures (légères, intermédiaires et lourdes) et de manier des boucliers (sauf le pavois).
+
+{s:Reference|DÉFI}
+
+====Défi (Ext)====
+Une fois par jour, le samouraï peut mettre un ennemi au [[Samouraï#DÉFI|Défi]] de le combattre. Par une [[action rapide]], il choisit une créature (qu’il peut voir) et la défie. Ses attaques de corps à corps infligent alors des dégâts supplémentaires quand il se bat contre elle. Ces dégâts supplémentaires sont égaux au niveau du samouraï. Il peut utiliser ce pouvoir une fois par jour au niveau 1 et une fois de plus tous les trois niveaux après le premier, avec un maximum de sept fois par jour au niveau 19.
+
+Le samouraï a besoin de toute sa concentration pour défier son ennemi. Il subit un malus de -2 à la [[CA]], sauf contre les attaques qui viennent de sa cible.
+
+Le défi reste valable jusqu’à ce que la cible du samouraï meure, tombe inconsciente ou que le combat se termine. Chaque défi de samouraï comporte un effet supplémentaire décrit dans le paragraphe de chaque [[Samouraï#ORDRE|ordre]].
+
+{s:Reference|MONTURE}
+
+
+====Monture (Ext)====
+Le samouraï s’attache les services d’un destrier fiable et loyal pour l’emmener au cœur des batailles. Cette monture fonctionne comme le [[compagnon animal]] d’un [[druide]] et utilise le niveau du samouraï comme niveau effectif de [[druide]]. Le samouraï doit être capable de chevaucher la monture choisie sans mal. Un samouraï de taille M peut choisir un dromadaire ou un cheval, un samouraï P un [[poney]] ou un [[loup]] mais aussi un [[sanglier]] ou un [[chien]] s’il est au moins de niveau 4. Le MJ peut accepter d’autres créatures comme montures.
+
+Quand le samouraï chevauche sa monture, il ne subit pas de malus d’armure aux tests d’[[Équitation]]. La monture est toujours considérée comme entraînée au combat et commence le jeu avec [[Port des armures légères]] comme [[don]] supplémentaire. La monture du samouraï ne possède pas le pouvoir spécial [[transfert de sorts]].
+
+Le lien qui unit le samouraï et sa monture est très fort, ce qui permet à chacun d’anticiper les réactions et les mouvements de l’autre. Si la monture du samouraï meurt, il peut en trouver une nouvelle après une semaine de deuil. Elle ne bénéficiera pas des pouvoirs spéciaux de lien, [[esquive totale]], dévotion et [[esquive surnaturelle]] tant que le samouraï n’aura pas gagné un niveau.
+
+{s:Reference|ORDRE}
+
+
+====Ordre (Ext)====
+Au niveau 1, le samouraï doit prêter serment à un ordre spécifique, ce qui lui octroie un certain nombre de bonus, de [[compétences de classe]] et de [[pouvoirs spéciaux]]. Chaque ordre possède des édits que le samouraï doit respecter. S’il en viole un, il perd les avantages liés au [[Samouraï#DÉFI|Défi]] de son ordre pendant 24 heures. Toute violation potentielle est sujette à l’interprétation du MJ.
+
+La plupart des samouraïs appartiennent à l’ordre du guerrier et sont dévoués à leur seigneur. Ceux qui n’ont pas de seigneur ou qui l’abandonnent sont des ronins. Un samouraï peut se consacrer à un ordre de [[chevalier]] mais ce cas est rare.
+
+Un samouraï ne peut pas changer d’ordre à moins d’entamer un long processus qui lui permette de se consacrer à une nouvelle cause. S’il fait tout de même ce choix, il perd tous les avantages de son ordre précédent. Il doit ensuite suivre les édits de son nouvel ordre pendant tout un niveau sans en tirer le moindre bénéfice. Une fois cette tâche accomplie, il bénéficie de tous les avantages de ce nouvel ordre. La transformation d’un samouraï en ronin est une exception : elle est immédiate, le samouraï perd les avantages de son ancien ordre et les remplace immédiatement par ceux des ronins. En revanche, si un ronin veut changer d’ordre, il doit suivre le processus détaillé plus haut. Notez que le nom des ordres peut varier selon le cadre de campagne et les préférences du MJ.
+
+{s:Reference|RÉSOLUTION}
+
+
+====Résolution (Ext)====
+À partir du niveau 1, le samouraï peut faire appel à sa résolution pour supporter les blessures les plus graves et les pires afflictions. Au niveau 1, il peut utiliser ce pouvoir une fois par jour et ensuite une fois de plus tous les deux niveaux. Quand le samouraï triomphe de la cible d’un [[Samouraï#DÉFI|Défi]], il régénère une utilisation de résolution, sans pouvoir dépasser le nombre maximum d’utilisations quotidiennes. Par triompher, on entend généralement réduire l’ennemi à 0 point de vie ou moins mais le MJ peut décider que l’adversaire est vaincu s’il se rend ou s’il fuit le combat. Le samouraï peut utiliser ce pouvoir de diverses manières.
+
+{s:Reference|DÉTERMINÉ}
+'''''Déterminé''''' : Par une [[action simple]], le samouraï peut dépenser une utilisation de résolution pour dissiper une condition : [[fatigué]], [[secoué]] ou malade. S’il est de niveau 8 ou plus, il peut aussi éliminer : [[épuisé]], [[effrayé]], [[nauséeux]] ou [[chancelant]]. Si cette condition a une durée supérieure à une heure ou si elle est permanente, le pouvoir la dissipe pendant une heure, elle revient ensuite.
+
+{s:Reference|IMBATTABLE}
+'''''Imbattable''''' : Quand le samouraï tombe à 0 point de vie ou moins mais qu’il n’est pas encore mort, il peut dépenser une utilisation de résolution par une action immédiate pour se stabiliser instantanément et rester conscient. Il est [[chancelant]] mais ne tombe pas inconscient et n’agonise pas s’il entreprend une [[action simple]]. En revanche, il bascule dans l’inconscience s’il subit des dégâts supplémentaires, peu importe leur origine.
+
+{s:Reference|RÉSOLU}
+'''''Résolu''''' : Quand le samouraï doit faire un jet de [[Vigueur]] ou de [[Volonté]] il peut, par une [[action immédiate}}, dépenser une utilisation de résolution pour faire deux jets et garder le meilleur. Il doit décider d’utiliser ce pouvoir avant de lancer les dés.
+
+{s:Reference|EXPERTISEMARTIALE}
+
+====Expertise martiale (Ext)====
+Au niveau 3, le samouraï gagne une expérience incomparable dans le maniement des armes qu’il s’est choisies. Au niveau 3, il choisit le katana, l’arc long, la naginata ou le wakizashi. Il peut dégainer l’arme choisie par une [[action libre]], comme s’il avait le don [[Arme en main]]. De plus, quand il menace une zone de critique avec l’arme choisie, il gagne un bonus de +2 au jet de confirmation. Enfin, ses niveaux de samouraï se cumulent avec ses éventuels niveaux de [[guerrier]] quand il s’agit de déterminer s’il remplit les conditions requises pour un don basé sur son arme, comme la [[Spécialisation martiale]].
+
+{s:Reference|ARCHERMONTÉ}
+
+====Archer monté (Ext)====
+Au niveau 4, le samouraï devient particulièrement doué pour utiliser les armes à distance alors qu’il est sur une [[Samouraï#MONTURE|monture]]. Il subit un malus de -2 seulement quand il fait un jet d’attaque avec une [[arme à distance]] alors que sa monture fait un double déplacement. Ce malus passe à -4 quand elle galope.
+
+{s:Reference|BANNIÈRE}
+
+====Bannière (Ext)====
+Au niveau 5, la bannière du samouraï devient un symbole d’inspiration pour ses compagnons. Tant qu’elle est clairement visible, tous les alliés situés dans un rayon de 18 m reçoivent un bonus moral de +2 aux jets de sauvegarde contre la peur et un bonus de moral de +1 aux jets d’attaque effectués lors d’une charge. Au niveau 10 et ensuite tous les 5 niveaux, ces bonus augmentent de +1. La bannière doit être au moins de [[taille]] P ou plus et, pour fonctionner, il faut que ce soit le samouraï ou sa monture qui la porte.
+
+{s:Reference|DONSUPPLÉMENTAIRE}
+
+====Don supplémentaire====
+Au niveau 6 et tous les 6 niveaux par la suite, le samouraï gagne un [[don]] supplémentaire, en plus de ceux obtenus grâce à son évolution normale. Ces dons sont à choisir dans la liste des dons guerriers. Le samouraï doit remplir les conditions requises.
+
+{s:Reference|RÉSOLUTIONSUPÉRIEURE}
+
+====Résolution supérieure (Ext)====
+Au niveau 9, le samouraï peut utiliser sa [[Samouraï#RÉSOLUTION|résolution]] pour annuler ses blessures les plus graves. Si quelqu’un confirme un [[coup critique]] contre lui il peut, par une [[action immédiate]], dépenser une [[Samouraï#RÉSOLUTION|résolution]] pour changer ce [[coup critique]] en coup normal. Les effets qui se déclenchent seulement en cas de [[coup critique]] ne fonctionnent pas quand le samouraï active ce pouvoir.
+
+{s:Reference|RÉSISTANCEHONORABLE}
+
+
+====Résistance honorable (Ext)====
+Au niveau 11, le samouraï peut opposer une résistance honorable et décider de combattre la cible de son [[Samouraï#DÉFI|Défi]] jusqu’au bout, à n’importe quel prix. Au niveau 11, il peut le faire une fois par jour et une fois de plus au niveau 16. Il doit utiliser une [[action rapide]] pour faire une résistance honorable. Dans ce cas, il est immunisé contre les conditions suivantes : [[secoué]], [[effrayé]] et [[paniqué]]. Il ne tombe pas [[inconscient]] si ses points de vie descendent en dessous de 0. Enfin, quand un samouraï doit faire un [[jet de sauvegarde]] alors qu’il fait une résistance honorable, il peut utiliser une résolution quotidienne pour faire un second jet après le premier. Il doit conserver le résultat du second, même s’il est pire que le premier. Si un samouraï se retire du combat alors qu’il faisait une résistance honorable contre un adversaire qu’il a défié, il ne peut plus défier qui que ce soit pendant 24 heures.
+
+{s:Reference|DÉFIÉPROUVANT}
+
+====Défi éprouvant (Ext)====
+Au niveau 12, quand le personnage défie une créature, elle doit se concentrer sur la menace qu’il représente. Tant qu’elle se trouve dans la zone menacée par le samouraï, elle subit un malus de -2 à la [[CA]] contre les attaques de toute créature autre que lui.
+
+{s:Reference|GRANDEBANNIÈRE}
+
+====Grande bannière (Ext)====
+Au niveau 14, la [[Samouraï#BANNIÈRE|bannière]] du samouraï devient un point de ralliement pour ses alliés. Tous ceux qui se trouvent dans les 18 m reçoivent un bonus de moral de +2 aux jets de sauvegarde contre les sorts et effets de [[charme]] et de [[coercition]]. De plus, tant que la [[Samouraï#BANNIÈRE|bannière]] est déployée, le samouraï peut passer une [[action simple]] à l’agiter dans les airs, ce qui permet à ces mêmes alliés de faire un [[jet de sauvegarde]] supplémentaire contre un sort ou un effet qui les vise. Ce jet se fait contre le [[DD]] originel. Ce pouvoir n’affecte pas les sorts et effets qui ne permettent pas de [[jet de sauvegarde]]. Un allié ne peut pas profiter de ce pouvoir plus d’une fois par jour.
+
+{s:Reference|RÉSOLUTIONSUPRÊME}
+
+====Résolution suprême (Ext)====
+Au niveau 17, le samouraï peut utiliser sa [[Samouraï#RÉSOLUTION|résolution]] pour éviter de mourir. S’il lui reste au moins deux utilisations journalières de [[Samouraï#RÉSOLUTION|résolution]], il peut toutes les dépenser pour échapper à la mort. Quelle que soit l’origine de l’attaque qui aurait dû le laisser pour mort, il reste en vie à -1 [[pv]] (ou moins s’il était déjà à -1), [[inconscient]] et stabilisé.
+
+{s:Reference|DERNIÈRERÉSISTANCE}
+
+
+====Dernière résistance (Ext)====
+Au niveau 20, le samouraï peut opposer une dernière résistance à l’objet de son [[Samouraï#DÉFI|Défi]]. Tant que le [[Samouraï#DÉFI|Défi]] est actif, toutes les attaques à distance et au corps à corps lui infligent le minimum de dégâts, à moins d’un [[coup critique]]. De plus, le samouraï reste conscient en dessous de 0 point de vie et il n’est pas [[chancelant]]. Tant qu’il est sous l’effet de ce pouvoir, personne ne peut le tuer avec une [[arme à distance]] ou de corps à corps, sauf la cible de son [[Samouraï#DÉFI|Défi]]. Les attaques des autres adversaires n’infligent aucun dégât au samouraï quand il se trouve en dessous de 0 point de vie. Ce pouvoir n’a aucun effet sur les sorts, les effets environnementaux et toute source de dégâts autre qu’une arme de mêlée ou à distance. Ces sources de dégâts l’affectent normalement et sont tout à fait susceptibles de le tuer (mais il ne tombe toujours pas inconscient et ne chancelle pas s’il tombe à moins de 0 pv). Cet effet dure jusqu’à la fin du [[Samouraï#DÉFI|Défi]] ou jusqu’à ce que le samouraï fasse une action offensive contre une cible autre que celle de son [[Samouraï#DÉFI|Défi]].]]></raw>
+  <fullName>Pathfinder-RPG.Samouraï</fullName>
+</wikiPage>

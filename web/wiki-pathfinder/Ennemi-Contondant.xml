@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Ennemi contondant</title>
+  <categories><category>Pathfinder-RPG.Advanced Player Guide</category><category>Pathfinder-RPG.Règles officielles</category><category>Pathfinder-RPG.Sort</category><category>Pathfinder-RPG.Sort magicien 6</category></categories>
+  <lastModified>2012-11-04 21:22:01Z</lastModified>
+  <version>1</version>
+  <inLinks><link>Pathfinder-RPG.Glossaire des sorts</link><link>Pathfinder-RPG.Grimoires</link><link>Pathfinder-RPG.Liste des sorts (suite)</link><link>Pathfinder-RPG.Liste des sorts densorceleursmagiciens</link><link>Pathfinder-RPG.TMP sorts APG</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Transmutation</link><link>Pathfinder-RPG.Ensorceleur</link><link>Pathfinder-RPG.Magicien</link><link>Pathfinder-RPG.Action simple</link><link>Pathfinder-RPG.composantes</link><link>Pathfinder-RPG.niveau</link><link>Pathfinder-RPG.round</link><link>Pathfinder-RPG.Vigueur</link><link>Pathfinder-RPG.Présentation des sorts</link><link>Pathfinder-RPG.jet dattaque</link><link>Pathfinder-RPG.NLS</link><link>Pathfinder-RPG.Intelligence</link><link>Pathfinder-RPG.Charisme</link><link>Pathfinder-RPG.jet de sauvegarde</link><link>Pathfinder-RPG.À terre</link></outLinks>
+  <body><![CDATA[
+&lt;b&gt;&#201;cole&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#TRANSMUTATION&quot; title=&quot;Transmutation&quot;&gt;Transmutation&lt;/a&gt;&#160;;&lt;b&gt; Niveau&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Ensorceleur.html&quot; title=&quot;L&amp;#39;ensorceleur&quot;&gt;ensorceleur&lt;/a&gt;/&lt;a class=&quot;pagelink&quot; href=&quot;Magicien.html&quot; title=&quot;Le magicien&quot;&gt;magicien&lt;/a&gt; 6&lt;br/&gt;
+&lt;b&gt;Temps d&#39;incantation&lt;/b&gt; 1 &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions.html#SIMPLE&quot; title=&quot;Action simple&quot;&gt;action simple&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Composantes&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#COMPOSANTES&quot; title=&quot;composantes&quot;&gt;V, G, M&lt;/a&gt; (fils de marionnette)&lt;br/&gt;
+&lt;b&gt;Port&#233;e&lt;/b&gt; longue (120 m + 12 m/&lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#NIVEAU&quot; title=&quot;niveau&quot;&gt;niveau&lt;/a&gt;) (80 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt; + 8 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;/&lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#NIVEAU&quot; title=&quot;niveau&quot;&gt;niveau&lt;/a&gt;)&lt;br/&gt;
+&lt;b&gt;Cible&lt;/b&gt; une cr&#233;ature&lt;br/&gt;
+&lt;b&gt;Dur&#233;e&lt;/b&gt; 1 &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#ROUND&quot; title=&quot;round&quot;&gt;round&lt;/a&gt;/&lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#NIVEAU&quot; title=&quot;niveau&quot;&gt;niveau&lt;/a&gt; (T)&lt;br/&gt;
+&lt;b&gt;Jet de sauvegarde&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;Vigueur&quot;&gt;Vigueur&lt;/a&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#JETSDESAUVEGARDE&quot; title=&quot;Pr&#233;sentation des sorts&quot;&gt;partiel&lt;/a&gt; ; &lt;b&gt;R&#233;sistance &#224; la magie&lt;/b&gt; oui&lt;br /&gt;&lt;br /&gt;Le personnage attrape une cr&#233;ature par t&#233;l&#233;kin&#233;sie et s&#39;en sert pour marteler des adversaires ou des objets proches. Quand le personnage lance ce sort, il doit viser une cr&#233;ature sp&#233;cifique. Une fois qu&#39;il l&#39;a choisie, il ne peut plus en changer. &#192; chaque &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#ROUND&quot; title=&quot;round&quot;&gt;round&lt;/a&gt;, par une &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions.html#SIMPLE&quot; title=&quot;Action simple&quot;&gt;action simple&lt;/a&gt;, le personnage peut essayer de lancer la cible sur toute cr&#233;ature ou objet qui se trouve dans les 9 m&#232;tres (6 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;). Le personnage doit faire un &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDATTAQUE&quot; title=&quot;jet dattaque&quot;&gt;jet d&#39;attaque&lt;/a&gt; &#224; chaque fois qu&#39;il veut utiliser la cible comme arme. Le bonus d&#39;attaque de cette attaque est &#233;gal au &lt;a class=&quot;pagelink&quot; href=&quot;Lancer-Des-Sorts.html#NLS&quot; title=&quot;NLS&quot;&gt;niveau de lanceur de sorts&lt;/a&gt; du personnage plus son modificateur d&#39;&lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#INTELLIGENCE&quot; title=&quot;L&amp;#39;Intelligence&quot;&gt;Intelligence&lt;/a&gt; ou de &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#CHARISME&quot; title=&quot;Le Charisme&quot;&gt;Charisme&lt;/a&gt; (le plus &#233;lev&#233;). Si le personnage parvient &#224; toucher la nouvelle cible avec la cr&#233;ature qu&#39;il manie, la cible et la cr&#233;ature subissent des d&#233;g&#226;ts bas&#233;s sur la taille de la cr&#233;ature.&lt;br /&gt;&lt;br /&gt;
+&lt;center&gt;
+&lt;table CLASS=&quot;tablo autoalt&quot;&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td&gt;Taille de la cr&#233;ature &lt;/td&gt;&lt;td&gt;D&#233;g&#226;ts inflig&#233;s&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier&quot;&gt;&lt;td&gt;Infime&lt;/td&gt;&lt;td&gt;1d4&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Minuscule&lt;/td&gt;&lt;td&gt;1d6&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Tr&#232;s petite&lt;/td&gt;&lt;td&gt;1d8&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Petite&lt;/td&gt;&lt;td&gt;1d10&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Moyenne&lt;/td&gt;&lt;td&gt;2d6&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Grande&lt;/td&gt;&lt;td&gt;2d8&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Tr&#232;s grande&lt;/td&gt;&lt;td&gt;2d10&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Gigantesque&lt;/td&gt;&lt;td&gt;3d6&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Colossale&lt;/td&gt;&lt;td&gt;3d8&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/center&gt;&lt;br /&gt;&lt;br /&gt;La cr&#233;ature cible peut faire un jet de &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;Vigueur&quot;&gt;Vigueur&lt;/a&gt; &#224; chaque fois que le personnage tente de s&#39;en servir comme arme. Si elle r&#233;ussit son &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;jet de sauvegarde&quot;&gt;jet de sauvegarde&lt;/a&gt;, elle peut agir normalement mais si elle rate son jet, elle perd toutes ses actions du &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#ROUND&quot; title=&quot;round&quot;&gt;round&lt;/a&gt; et finit son tour &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables.html#&#192;terre&quot; title=&quot;&#192; terre&quot;&gt;par terre&lt;/a&gt; dans une case adjacente &#224; la cible que le personnage a attaqu&#233;e. Cependant, si la cr&#233;ature choisit de r&#233;sister aux efforts que le personnage fait pour la d&#233;placer et n&#39;entreprend pas d&#39;autres actions pour le round, elle re&#231;oit un bonus de circonstances de +4 aux &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;jet de sauvegarde&quot;&gt;jets de sauvegarde&lt;/a&gt;. Le sort se termine imm&#233;diatement si la cr&#233;ature meurt ou si elle est d&#233;truite.
+]]></body>
+  <raw><![CDATA[{s:APG}
+'''École''' [[Transmutation]] ;''' Niveau''' [[ensorceleur]]/[[magicien]] 6<br/>
+'''Temps d'incantation''' 1 [[action simple]]<br/>
+'''Composantes''' [[Composantes|V, G, M]] (fils de marionnette)<br/>
+'''Portée''' longue (120 m + 12 m/[[niveau]]) (80 {s:c} + 8 {s:c}/[[niveau]])<br/>
+'''Cible''' une créature<br/>
+'''Durée''' 1 [[round]]/[[niveau]] (T)<br/>
+'''Jet de sauvegarde''' [[Vigueur]] [[Présentation des sorts#JETSDESAUVEGARDE|partiel]] ; '''Résistance à la magie''' oui
+
+Le personnage attrape une créature par télékinésie et s'en sert pour marteler des adversaires ou des objets proches. Quand le personnage lance ce sort, il doit viser une créature spécifique. Une fois qu'il l'a choisie, il ne peut plus en changer. À chaque [[round]], par une [[action simple]], le personnage peut essayer de lancer la cible sur toute créature ou objet qui se trouve dans les 9 mètres (6 {s:c}). Le personnage doit faire un [[jet dattaque|jet d'attaque]] à chaque fois qu'il veut utiliser la cible comme arme. Le bonus d'attaque de cette attaque est égal au [[NLS|niveau de lanceur de sorts]] du personnage plus son modificateur d'[[Intelligence]] ou de [[Charisme]] (le plus élevé). Si le personnage parvient à toucher la nouvelle cible avec la créature qu'il manie, la cible et la créature subissent des dégâts basés sur la taille de la créature.
+
+
+<center>
+{| CLASS="tablo autoalt"
+|- CLASS="titre"
+| Taille de la créature  || Dégâts infligés
+|- CLASS="premier"
+| Infime || 1d4
+|-
+| Minuscule || 1d6
+|-
+| Très petite || 1d8
+|-
+| Petite || 1d10
+|-
+| Moyenne || 2d6
+|-
+| Grande || 2d8
+|-
+| Très grande || 2d10
+|-
+| Gigantesque || 3d6
+|-
+| Colossale || 3d8
+|}
+</center>
+
+La créature cible peut faire un jet de [[Vigueur]] à chaque fois que le personnage tente de s'en servir comme arme. Si elle réussit son [[jet de sauvegarde]], elle peut agir normalement mais si elle rate son jet, elle perd toutes ses actions du [[round]] et finit son tour [[à terre|par terre]] dans une case adjacente à la cible que le personnage a attaquée. Cependant, si la créature choisit de résister aux efforts que le personnage fait pour la déplacer et n'entreprend pas d'autres actions pour le round, elle reçoit un bonus de circonstances de +4 aux [[jet de sauvegarde|jets de sauvegarde]]. Le sort se termine immédiatement si la créature meurt ou si elle est détruite.
+]]></raw>
+  <fullName>Pathfinder-RPG.Ennemi contondant</fullName>
+</wikiPage>

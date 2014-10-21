@@ -1,0 +1,160 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Demiliche</title>
+  <categories><category>Pathfinder-RPG.Bestiaire</category><category>Pathfinder-RPG.Monstre</category><category>Pathfinder-RPG.Règles officielles</category></categories>
+  <lastModified>2013-02-06 20:36:11Z</lastModified>
+  <version>9</version>
+  <inLinks></inLinks>
+  <outLinks><link>Pathfinder-RPG.type Mort-vivant</link><link>Pathfinder-RPG.vision dans le noir</link><link>Pathfinder-RPG.Vision lucide</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.résistance à la canalisation</link><link>Pathfinder-RPG.Télékinésie</link><link>Pathfinder-RPG.Plainte doutre-tombe</link><link>Pathfinder-RPG.Attaque spéciale renforcée</link><link>Pathfinder-RPG.Vigilance</link><link>Pathfinder-RPG.Maîtrise du combat défensif</link><link>Pathfinder-RPG.Esquive</link><link>Pathfinder-RPG.Attaque en vol</link><link>Pathfinder-RPG.Science de linitiative</link><link>Pathfinder-RPG.Volonté de fer</link><link>Pathfinder-RPG.Réflexes surhumains</link><link>Pathfinder-RPG.Souplesse du serpent</link><link>Pathfinder-RPG.Art de la magie</link><link>Pathfinder-RPG.Bluff</link><link>Pathfinder-RPG.Connaissances</link><link>Pathfinder-RPG.Discrétion</link><link>Pathfinder-RPG.Psychologie</link><link>Pathfinder-RPG.Vol</link><link>Pathfinder-RPG.Résurrection</link><link>Pathfinder-RPG.Résurrection suprême</link><link>Pathfinder-RPG.Miracle</link><link>Pathfinder-RPG.Souhait</link><link>Pathfinder-RPG.Dissipation de la magie</link><link>Pathfinder-RPG.Châtiment sacré</link><link>Pathfinder-RPG.Mot de pouvoir mortel</link><link>Pathfinder-RPG.Fracassement</link><link>Pathfinder-RPG.malédiction</link><link>Pathfinder-RPG.Sanctification</link><link>Pathfinder-RPG.Parole sacrée</link><link>Pathfinder-RPG.Rejet du Mal</link><link>Pathfinder-RPG.Nappe de brouillard</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Demiliche&lt;div style=&quot;float:right;&quot;&gt;FP 14&lt;/div&gt;&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Bestiaire 3, &lt;a class=&quot;externallink&quot; href=&quot;http://paizo.com/paizo/blog/v5748dyo5lcxw?Unflinching-EvilDemilich-CR-14&quot; title=&quot;blog Paizo&quot; target=&quot;_blank&quot;&gt;blog Paizo&lt;/a&gt;&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 38 400
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Mort-Vivant.html&quot; title=&quot;Mort-vivant&quot;&gt;Mort-vivant&lt;/a&gt; de taille TP, NM
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +7 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Capacit&#233;s-Sp&#233;ciales.html#VISIONDANSLENOIR&quot; title=&quot;vision dans le noir&quot;&gt;vision dans le noir&lt;/a&gt; 12 cases, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Vision-Lucide.html&quot; title=&quot;Vision lucide&quot;&gt;vision lucide&lt;/a&gt;&lt;/i&gt; ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +27
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 25, contact 21, pris au d&#233;pourvu 21 (Dex +3, esquive +1, naturelle +4, maudite +5, taille -2)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 142 (15d8+75)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +15, &lt;b&gt;Vig&lt;/b&gt; +14, &lt;b&gt;Vol&lt;/b&gt; +21
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Capacit&#233;s d&#233;fensives&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;R&#233;sistance-&#192;-La-Canalisation-(Capacit&#233;).html&quot; title=&quot;r&#233;sistance &#224; la canalisation&quot;&gt;r&#233;sistance &#224; la canalisation&lt;/a&gt; +5, r&#233;juv&#233;nation, gr&#226;ce maudite ; &lt;b&gt;Immunit&#233;s&lt;/b&gt; acide, &#233;lectricit&#233;, froid, magie, m&#233;tamorphose, traits des morts-vivants ; &lt;b&gt;RD&lt;/b&gt; 20/—
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Faiblesses&lt;/b&gt; susceptibilit&#233; aux armes vorpales, torpeur
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; vol 6 cases (parfaite)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Espace&lt;/b&gt; 1/2 case ; &lt;b&gt;Allonge&lt;/b&gt; 0
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaques sp&#233;ciales&lt;/b&gt; absorption d&#39;&#226;me
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Pouvoirs magiques&lt;/b&gt; (NLS 20 ; concentration +25)
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+Contant — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Vision-Lucide.html&quot; title=&quot;Vision lucide&quot;&gt;vision lucide&lt;/a&gt;&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+&#192; volont&#233; — &lt;i&gt;mal&#233;diction sup&#233;rieure&lt;/i&gt; (DD 21), &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;T&#233;l&#233;kin&#233;sie.html&quot; title=&quot;T&#233;l&#233;kin&#233;sie&quot;&gt;t&#233;l&#233;kin&#233;sie&lt;/a&gt;&lt;/i&gt; (DD 19), &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Plainte-Doutre-Tombe.html&quot; title=&quot;Plainte d&amp;#39;outre-tombe&quot;&gt;Plainte d&#39;outre-tombe&lt;/a&gt;&lt;/i&gt; (&#233;tendue de 4 cases centr&#233;e sur la demiliche ; DD 24)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 6, &lt;b&gt;Dex&lt;/b&gt; 17, &lt;b&gt;Con&lt;/b&gt; —, &lt;b&gt;Int&lt;/b&gt; 21, &lt;b&gt;Sag&lt;/b&gt; 20, &lt;b&gt;Cha&lt;/b&gt; 21
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +11, &lt;b&gt;BMO&lt;/b&gt; +12, &lt;b&gt;DMD&lt;/b&gt; 30
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Attaque-Sp&#233;ciale-Renforc&#233;e.html&quot; title=&quot;Attaque sp&#233;ciale renforc&#233;e&quot;&gt;Attaque sp&#233;ciale renforc&#233;e&lt;/a&gt; (absorption d&#39;&#226;me), &lt;a class=&quot;pagelink&quot; href=&quot;Vigilance.html&quot; title=&quot;Vigilance&quot;&gt;Vigilance&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Ma&#238;trise-Du-Combat-D&#233;fensif.html&quot; title=&quot;Ma&#238;trise du combat d&#233;fensif&quot;&gt;Ma&#238;trise du combat d&#233;fensif&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Esquive.html&quot; title=&quot;Esquive&quot;&gt;Esquive&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Attaque-En-Vol.html&quot; title=&quot;Attaque en vol&quot;&gt;Attaque en vol&lt;/a&gt;&lt;sup&gt;B&lt;/sup&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Science-De-Linitiative.html&quot; title=&quot;Science de l&amp;#39;initiative&quot;&gt;Science de l’initiative&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Volont&#233;-De-Fer.html&quot; title=&quot;Volont&#233; de fer&quot;&gt;Volont&#233; de fer&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;R&#233;flexes-Surhumains.html&quot; title=&quot;R&#233;flexes surhumains&quot;&gt;R&#233;flexes surhumains&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Souplesse-Du-Serpent.html&quot; title=&quot;Souplesse du serpent&quot;&gt;Souplesse du serpent&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Art-De-La-Magie.html&quot; title=&quot;Art de la magie&quot;&gt;Art de la magie&lt;/a&gt; +23, &lt;a class=&quot;pagelink&quot; href=&quot;Bluff.html&quot; title=&quot;Bluff&quot;&gt;Bluff&lt;/a&gt; +20, &lt;a class=&quot;pagelink&quot; href=&quot;Connaissances.html&quot; title=&quot;Connaissances&quot;&gt;Connaissances&lt;/a&gt; (donjons) +20, &lt;a class=&quot;pagelink&quot; href=&quot;Connaissances.html&quot; title=&quot;Connaissances&quot;&gt;Connaissances&lt;/a&gt; (histoire) +15, &lt;a class=&quot;pagelink&quot; href=&quot;Connaissances.html&quot; title=&quot;Connaissances&quot;&gt;Connaissances&lt;/a&gt; (myst&#232;res) +23, &lt;a class=&quot;pagelink&quot; href=&quot;Connaissances.html&quot; title=&quot;Connaissances&quot;&gt;Connaissances&lt;/a&gt; (plans) +15, &lt;a class=&quot;pagelink&quot; href=&quot;Connaissances.html&quot; title=&quot;Connaissances&quot;&gt;Connaissances&lt;/a&gt; (religion) +18, &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; +24, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +27, &lt;a class=&quot;pagelink&quot; href=&quot;Psychologie.html&quot; title=&quot;Psychologie&quot;&gt;Psychologie&lt;/a&gt; +27, &lt;a class=&quot;pagelink&quot; href=&quot;Vol.html&quot; title=&quot;Vol&quot;&gt;Vol&lt;/a&gt; +23
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Langues&lt;/b&gt; abyssal, aklo, commun, draconique, g&#233;ant, infernal
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; tous
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation sociale&lt;/b&gt; solitaire
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; double
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Particularit&#233;s&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Absorption de l&#39;&#226;me (Sur).&lt;/b&gt; En une action simple, une demiliche peut emprisonner une &#226;me situ&#233;e dans une port&#233;e de 60 cases (90 m&#232;tres) &#224; l&#39;int&#233;rieur d&#39;une des 10 gemmes sp&#233;ciales incrust&#233;es dans son cr&#226;ne. Si la cible r&#233;ussit un jet de Vigueur de DD 24, elle acquiert 2 niveaux n&#233;gatifs permanents. En cas d&#39;&#233;chec du jet de sauvegarde, son &#226;me est imm&#233;diatement absorb&#233;e par l&#39;une des gemmes du cr&#226;ne de la demiliche. L&#39;&#226;me reste prisonni&#232;re de la gemme, ce qui a pour effet visible une lueur (un sort de &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Vision-Lucide.html&quot; title=&quot;Vision lucide&quot;&gt;vision lucide&lt;/a&gt;&lt;/i&gt; permet de voir exactement &#224; quoi cette lueur correspond). Le corps sans &#226;me se d&#233;compose rapidement et tombe en poussi&#232;re en un round. Tant que l&#39;&#226;me de la cr&#233;ature morte reste dans la gemme, cette cr&#233;ature ne peut pas &#234;tre ramen&#233;e &#224; la vie (&#224; moins d&#39;une intervention divine). Une fois la demiliche d&#233;truite, il est possible de r&#233;cup&#233;rer les gemmes qui contiennent des &#226;mes ; il suffit alors de les &#233;craser pour lib&#233;rer ces &#226;mes et leur permettre de continuer leur voyage vers l&#39;au-del&#224;, mais elles peuvent &#233;galement &#234;tre utilis&#233;es comme composantes mat&#233;rielles pour restaurer l&#39;&#226;me et le corps gr&#226;ce &#224; un sort de &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;R&#233;surrection.html&quot; title=&quot;R&#233;surrection&quot;&gt;r&#233;surrection&lt;/a&gt;&lt;/i&gt; ou de &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;R&#233;surrection-Supr&#234;me.html&quot; title=&quot;R&#233;surrection supr&#234;me&quot;&gt;r&#233;surrection supr&#234;me&lt;/a&gt;&lt;/i&gt;. Apr&#232;s 24 heures, la demiliche peut d&#233;cider de consommer une &#226;me emprisonn&#233;e dans une gemme, ce qui la soigne de 1d6 points de vie par DV de l&#39;&#226;me en question. &#192; ce moment-l&#224;, seul un sort de &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Miracle.html&quot; title=&quot;Miracle&quot;&gt;miracle&lt;/a&gt;&lt;/i&gt; ou de &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Souhait.html&quot; title=&quot;Souhait&quot;&gt;souhait&lt;/a&gt;&lt;/i&gt; peut ramener la cr&#233;ature morte &#224; la vie. Le DD du jet de sauvegarde d&#233;pend du Charisme et inclut un bonus de +2 provenant du don de Capacit&#233; renforc&#233;e.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Gr&#226;ce maudite (Sur).&lt;/b&gt; Une demiliche gagne un bonus aux jets de sauvegarde et un bonus maudit &#224; la CA tous les deux &#233;gaux &#224; son modificateur de Charisme.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Immunit&#233; contre la magie (Sur).&lt;/b&gt; Une demiliche est immunis&#233;e contre tout sort et pouvoir magique qui autorise une r&#233;sistance &#224; la magie. En plus de cela, certains sorts fonctionnent diff&#233;remment sur ce type de cr&#233;ature. Un sort de &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Dissipation-De-La-Magie.html&quot; title=&quot;Dissipation de la magie&quot;&gt;dissipation de la magie&lt;/a&gt;&lt;/i&gt; inflige 2d6 points de d&#233;g&#226;ts sans autoriser de jet de sauvegarde. Un &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Ch&#226;timent-Sacr&#233;.html&quot; title=&quot;Ch&#226;timent sacr&#233;&quot;&gt;ch&#226;timent sacr&#233;&lt;/a&gt;&lt;/i&gt; affecte la demiliche normalement. Un &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Mot-De-Pouvoir-Mortel.html&quot; title=&quot;Mot de pouvoir mortel&quot;&gt;mot de pouvoir mortel&lt;/a&gt;&lt;/i&gt; lanc&#233; par une cr&#233;ature &#233;th&#233;r&#233;e inflige 50 points de d&#233;g&#226;ts &#224; la demiliche si elle rate un jet de Vigueur (DD d&#233;termin&#233; normalement). Un sort de &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Fracassement.html&quot; title=&quot;Fracassement&quot;&gt;fracassement&lt;/a&gt;&lt;/i&gt; inflige 1d6 points de d&#233;g&#226;ts par 2 NLS (max 10d6) sans autoriser de jet de sauvegarde.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Mal&#233;diction sup&#233;rieure (Mag)&lt;/b&gt; Ce pouvoir fonctionne comme le sort de &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Mal&#233;dictions.html&quot; title=&quot;mal&#233;diction&quot;&gt;mal&#233;diction&lt;/a&gt;&lt;/i&gt; mais il peut avoir l&#39;un des effets suivants : -12 &#224; une caract&#233;ristique ; -6 &#224; deux caract&#233;ristiques ; -8 aux jets d&#39;attaque, de sauvegarde et aux tests ; ou 25% de chances d&#39;agir normalement. Cette capacit&#233; fonctionne comme un sort de niveau 6.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;juv&#233;nation (Sur).&lt;/b&gt; Une demiliche d&#233;truite se reforme en 2d6 jours. Pour d&#233;truire une demiliche de mani&#232;re permanente, il faut verser de l&#39;eau b&#233;nite sur sa d&#233;pouille alors qu&#39;elle se trouve dans la zone d&#39;un sort de &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Sanctification.html&quot; title=&quot;Sanctification&quot;&gt;sanctification&lt;/a&gt;&lt;/i&gt;, puis lancer un sort de &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Parole-Sacr&#233;e.html&quot; title=&quot;Parole sacr&#233;e&quot;&gt;parole sacr&#233;e&lt;/a&gt;&lt;/i&gt; ou de &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Rejet-Du-Mal.html&quot; title=&quot;Rejet du Mal&quot;&gt;rejet du Mal&lt;/a&gt;&lt;/i&gt;. Si le lanceur de sort r&#233;ussit un test de NLS contre un DD &#233;gal &#224; 10 + le nombre de DV de la demiliche, cette derni&#232;re est d&#233;truite de mani&#232;re permanente.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Susceptibilit&#233; aux armes vorpales (Ext).&lt;/b&gt; Les armes vorpales de toutes sortes ignorent la RD de la demiliche.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Temp&#234;te t&#233;l&#233;kin&#233;tique (Sur).&lt;/b&gt; Une demiliche peut utiliser son pouvoir magique de &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;T&#233;l&#233;kin&#233;sie.html&quot; title=&quot;T&#233;l&#233;kin&#233;sie&quot;&gt;t&#233;l&#233;kin&#233;sie&lt;/a&gt;&lt;/i&gt; d&#39;une mani&#232;re particuli&#232;re afin de mettre en mouvement des tr&#233;sors, de la poussi&#232;re, des os et d&#39;autres d&#233;bris afin de cr&#233;er un tourbillon autour de son cr&#226;ne. Ce tourbillon bloque la vision comme une &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Nappe-De-Brouillard.html&quot; title=&quot;Nappe de brouillard&quot;&gt;nappe de brouillard&lt;/a&gt;&lt;/i&gt; au sein d&#39;une &#233;tendue de 4 cases de rayon centr&#233;e sur le cr&#226;ne de la demi-liche. Les cr&#233;atures qui se situent dans ce tourbillon subissent 12d6 points de d&#233;g&#226;ts par round au cours du tour de la demiliche (R&#233;flexes DD 20 pour moiti&#233;). La demiliche peut maintenir ce tourbillon sans limite de temps : il lui suffit juste de se concentrer.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Torpeur (Ext).&lt;/b&gt; Une demiliche n&#39;entreprend aucune action contre des intrus, &#224; moins que qu&#39;ils ne d&#233;rangent sa d&#233;pouille ou son tr&#233;sor.
+&lt;/div&gt;&lt;br /&gt;&lt;/div&gt;&lt;br /&gt;&lt;/td&gt;&lt;td&gt;&lt;div&gt;&lt;img src=&quot;http://www.pathfinder-fr.org/Media/gs/handler/getmediaobject.ashx?moid=1085&amp;dt=3&amp;g=1&quot; width=&quot;100%&quot;/&gt;&lt;br /&gt;&lt;br /&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;br /&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Demiliche|FP 14}
+{s:pucem|Mort-vivant|Ruines-Donjons|Tempéré}
+{s:BDTexte|''Source : Bestiaire 3, [[http://paizo.com/paizo/blog/v5748dyo5lcxw?Unflinching-EvilDemilich-CR-14|blog Paizo]]''}
+{s:BDTexte|'''PX''' 38 400}
+{s:BDTexte|[[type Mort-vivant|Mort-vivant]] de taille TP, NM}
+{s:BDTexte|'''Init''' +7 ; '''Sens''' [[vision dans le noir]] 12 cases, ''[[vision lucide]]'' ; [[Perception]] +27}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 25, contact 21, pris au dépourvu 21 (Dex +3, esquive +1, naturelle +4, maudite +5, taille -2)}
+{s:BDTexte|'''pv''' 142 (15d8+75)}
+{s:BDTexte|'''Réf''' +15, '''Vig''' +14, '''Vol''' +21}
+{s:BDTexte|'''Capacités défensives''' [[résistance à la canalisation]] +5, réjuvénation, grâce maudite ; '''Immunités''' acide, électricité, froid, magie, métamorphose, traits des morts-vivants ; '''RD''' 20/—}
+{s:BDTexte|'''Faiblesses''' susceptibilité aux armes vorpales, torpeur}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' vol 6 cases (parfaite)}
+{s:BDTexte|'''Espace''' 1/2 case ; '''Allonge''' 0}
+{s:BDTexte|'''Attaques spéciales''' absorption d'âme}
+{s:BDTexte|'''Pouvoirs magiques''' (NLS 20 ; concentration +25)}
+{s:BDSorts|Contant — ''[[vision lucide]]''}
+{s:BDSorts|À volonté — ''malédiction supérieure'' (DD 21), ''[[télékinésie]]'' (DD 19), ''[[Plainte doutre-tombe|Plainte d'outre-tombe]]'' (étendue de 4 cases centrée sur la demiliche ; DD 24)}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 6, '''Dex''' 17, '''Con''' —, '''Int''' 21, '''Sag''' 20, '''Cha''' 21}
+{s:BDTexte|'''BBA''' +11, '''BMO''' +12, '''DMD''' 30}
+{s:BDTexte|'''Dons''' [[Attaque spéciale renforcée]] (absorption d'âme), [[Vigilance]], [[Maîtrise du combat défensif]], [[Esquive]], [[Attaque en vol]]<sup>B</sup>, [[Science de linitiative|Science de l’initiative]], [[Volonté de fer]], [[Réflexes surhumains]], [[Souplesse du serpent]]}
+{s:BDTexte|'''Compétences''' [[Art de la magie]] +23, [[Bluff]] +20, [[Connaissances]] (donjons) +20, [[Connaissances]] (histoire) +15, [[Connaissances]] (mystères) +23, [[Connaissances]] (plans) +15, [[Connaissances]] (religion) +18, [[Discrétion]] +24, [[Perception]] +27, [[Psychologie]] +27, [[Vol]] +23}
+{s:BDTexte|'''Langues''' abyssal, aklo, commun, draconique, géant, infernal}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' tous}
+{s:BDTexte|'''Organisation sociale''' solitaire}
+{s:BDTexte|'''Trésor''' double}
+{s:BDSousTitre|Particularités}
+{s:BDTexte|'''Absorption de l'âme (Sur).''' En une action simple, une demiliche peut emprisonner une âme située dans une portée de 60 cases (90 mètres) à l'intérieur d'une des 10 gemmes spéciales incrustées dans son crâne. Si la cible réussit un jet de Vigueur de DD 24, elle acquiert 2 niveaux négatifs permanents. En cas d'échec du jet de sauvegarde, son âme est immédiatement absorbée par l'une des gemmes du crâne de la demiliche. L'âme reste prisonnière de la gemme, ce qui a pour effet visible une lueur (un sort de ''[[vision lucide]]'' permet de voir exactement à quoi cette lueur correspond). Le corps sans âme se décompose rapidement et tombe en poussière en un round. Tant que l'âme de la créature morte reste dans la gemme, cette créature ne peut pas être ramenée à la vie (à moins d'une intervention divine). Une fois la demiliche détruite, il est possible de récupérer les gemmes qui contiennent des âmes ; il suffit alors de les écraser pour libérer ces âmes et leur permettre de continuer leur voyage vers l'au-delà, mais elles peuvent également être utilisées comme composantes matérielles pour restaurer l'âme et le corps grâce à un sort de ''[[résurrection]]'' ou de ''[[résurrection suprême]]''. Après 24 heures, la demiliche peut décider de consommer une âme emprisonnée dans une gemme, ce qui la soigne de 1d6 points de vie par DV de l'âme en question. À ce moment-là, seul un sort de ''[[miracle]]'' ou de ''[[souhait]]'' peut ramener la créature morte à la vie. Le DD du jet de sauvegarde dépend du Charisme et inclut un bonus de +2 provenant du don de Capacité renforcée.}
+{s:BDTexte|'''Grâce maudite (Sur).''' Une demiliche gagne un bonus aux jets de sauvegarde et un bonus maudit à la CA tous les deux égaux à son modificateur de Charisme.}
+{s:BDTexte|'''Immunité contre la magie (Sur).''' Une demiliche est immunisée contre tout sort et pouvoir magique qui autorise une résistance à la magie. En plus de cela, certains sorts fonctionnent différemment sur ce type de créature. Un sort de ''[[dissipation de la magie]]'' inflige 2d6 points de dégâts sans autoriser de jet de sauvegarde. Un ''[[châtiment sacré]]'' affecte la demiliche normalement. Un ''[[mot de pouvoir mortel]]'' lancé par une créature éthérée inflige 50 points de dégâts à la demiliche si elle rate un jet de Vigueur (DD déterminé normalement). Un sort de ''[[fracassement]]'' inflige 1d6 points de dégâts par 2 NLS (max 10d6) sans autoriser de jet de sauvegarde.}
+{s:BDTexte|'''Malédiction supérieure (Mag)''' Ce pouvoir fonctionne comme le sort de ''[[malédiction]]'' mais il peut avoir l'un des effets suivants : -12 à une caractéristique ; -6 à deux caractéristiques ; -8 aux jets d'attaque, de sauvegarde et aux tests ; ou 25% de chances d'agir normalement. Cette capacité fonctionne comme un sort de niveau 6.}
+{s:BDTexte|'''Réjuvénation (Sur).''' Une demiliche détruite se reforme en 2d6 jours. Pour détruire une demiliche de manière permanente, il faut verser de l'eau bénite sur sa dépouille alors qu'elle se trouve dans la zone d'un sort de ''[[sanctification]]'', puis lancer un sort de ''[[parole sacrée]]'' ou de ''[[rejet du Mal]]''. Si le lanceur de sort réussit un test de NLS contre un DD égal à 10 + le nombre de DV de la demiliche, cette dernière est détruite de manière permanente.}
+{s:BDTexte|'''Susceptibilité aux armes vorpales (Ext).''' Les armes vorpales de toutes sortes ignorent la RD de la demiliche.}
+{s:BDTexte|'''Tempête télékinétique (Sur).''' Une demiliche peut utiliser son pouvoir magique de ''[[télékinésie]]'' d'une manière particulière afin de mettre en mouvement des trésors, de la poussière, des os et d'autres débris afin de créer un tourbillon autour de son crâne. Ce tourbillon bloque la vision comme une ''[[nappe de brouillard]]'' au sein d'une étendue de 4 cases de rayon centrée sur le crâne de la demi-liche. Les créatures qui se situent dans ce tourbillon subissent 12d6 points de dégâts par round au cours du tour de la demiliche (Réflexes DD 20 pour moitié). La demiliche peut maintenir ce tourbillon sans limite de temps : il lui suffit juste de se concentrer.}
+{s:BDTexte|'''Torpeur (Ext).''' Une demiliche n'entreprend aucune action contre des intrus, à moins que qu'ils ne dérangent sa dépouille ou son trésor.}
+
+</div>
+
+</td><td><div><img src="http://www.pathfinder-fr.org/Media/gs/handler/getmediaobject.ashx?moid=1085&dt=3&g=1" width="100%"/>
+
+</div></td></tr></table>
+
+
+]]></raw>
+  <fullName>Pathfinder-RPG.Demiliche</fullName>
+</wikiPage>

@@ -1,0 +1,149 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Serpent venimeux</title>
+  <categories><category>Pathfinder-RPG.Bestiaire</category><category>Pathfinder-RPG.Monstre</category></categories>
+  <lastModified>2014-01-12 17:15:29Z</lastModified>
+  <version>9</version>
+  <inLinks><link>Pathfinder-RPG.Bâton serpent</link><link>Pathfinder-RPG.Domaine des Serpents</link><link>Pathfinder-RPG.Glossaire des monstres</link><link>Pathfinder-RPG.Liste de monstres par FP</link><link>Pathfinder-RPG.Liste de monstres par milieu naturel</link><link>Pathfinder-RPG.Liste de monstres par type</link><link>Pathfinder-RPG.Mixture pour bombe de vipère</link><link>Pathfinder-RPG.Monstres</link><link>Pathfinder-RPG.Serpent gobelin</link><link>Pathfinder-RPG.Vexgit</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.type Animal</link><link>Pathfinder-RPG.odorat</link><link>Pathfinder-RPG.vision nocturne</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Attaque en finesse</link><link>Pathfinder-RPG.Science de linitiative</link><link>Pathfinder-RPG.Acrobaties</link><link>Pathfinder-RPG.Discrétion</link><link>Pathfinder-RPG.Escalade</link><link>Pathfinder-RPG.Natation</link><link>Pathfinder-RPG.Vigueur</link><link>Pathfinder-RPG.affaiblissement temporaire</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Serpent venimeux&lt;div style=&quot;float:right;&quot;&gt;FP 1&lt;/div&gt;&lt;/div&gt;
+  
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Bestiaire&lt;/i&gt; p.257
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 400
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Animal.html&quot; title=&quot;Animal&quot;&gt;Animal&lt;/a&gt; de taille M, N
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +5 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Odorat-(Capacit&#233;).html&quot; title=&quot;odorat&quot;&gt;odorat&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Nocturne-(Capacit&#233;).html&quot; title=&quot;vision nocturne&quot;&gt;vision nocturne&lt;/a&gt; ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +9
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 14, contact 11, pris au d&#233;pourvu 13 (Dex +1, naturelle +3)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 13 (2d8+4)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +4, &lt;b&gt;Vig&lt;/b&gt; +5, &lt;b&gt;Vol&lt;/b&gt; +1
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 6 m (4 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), escalade 6 m (4 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), nage 6 m (4 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; morsure +2 (1d4-1 et poison)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 8, &lt;b&gt;Dex&lt;/b&gt; 13, &lt;b&gt;Con&lt;/b&gt; 14, &lt;b&gt;Int&lt;/b&gt; 1, &lt;b&gt;Sag&lt;/b&gt; 13, &lt;b&gt;Cha&lt;/b&gt; 2
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +1, &lt;b&gt;BMO&lt;/b&gt; +0, &lt;b&gt;DMD&lt;/b&gt; 11 (croc-en-jambe impossible)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Attaque-En-Finesse.html&quot; title=&quot;Attaque en finesse&quot;&gt;Attaque en finesse&lt;/a&gt;&lt;sup&gt;B&lt;/sup&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Science-De-Linitiative.html&quot; title=&quot;Science de l&amp;#39;initiative&quot;&gt;Science de l&#39;initiative&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Acrobaties.html&quot; title=&quot;Acrobaties&quot;&gt;Acrobaties&lt;/a&gt; +9, &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; +9, &lt;a class=&quot;pagelink&quot; href=&quot;Escalade.html&quot; title=&quot;Escalade&quot;&gt;Escalade&lt;/a&gt; +9, &lt;a class=&quot;pagelink&quot; href=&quot;Natation.html&quot; title=&quot;Natation&quot;&gt;Natation&lt;/a&gt; +9, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +9 ; &lt;b&gt;Modificateurs raciaux&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Acrobaties.html&quot; title=&quot;Acrobaties&quot;&gt;Acrobaties&lt;/a&gt; +4 ; utilise la Dex pour &lt;a class=&quot;pagelink&quot; href=&quot;Escalade.html&quot; title=&quot;Escalade&quot;&gt;Escalade&lt;/a&gt; et &lt;a class=&quot;pagelink&quot; href=&quot;Natation.html&quot; title=&quot;Natation&quot;&gt;Natation&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; +4, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +4
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; climat temp&#233;r&#233; ou chaud
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation sociale&lt;/b&gt; solitaire, couple ou nid (3-8)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; aucun
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Capacit&#233;s sp&#233;ciales&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Poison (Ext)&lt;/b&gt; Morsure - Blessure ; &lt;i&gt;JS&lt;/i&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;Vigueur&quot;&gt;Vigueur&lt;/a&gt; DD 13 ; &lt;i&gt;fr&#233;quence&lt;/i&gt; 1/round pendant 6 rounds ; &lt;i&gt;effet&lt;/i&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Affaiblissement-Temporaire-(Capacit&#233;).html&quot; title=&quot;affaiblissement temporaire&quot;&gt;affaiblissement temporaire&lt;/a&gt; 1d2 Con ; gu&#233;rison 1 r&#233;ussite.
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;td&gt;&lt;div&gt;&lt;i&gt;Ce serpent de couleur vive adopte une posture agressive et ouvre la gueule
+en sifflant, d&#233;voilant ses dangereux crocs.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Les &#233;tendues sauvages abritent
+d’innombrables esp&#232;ces de serpents
+venimeux dont la morsure peut venir &#224;
+bout de cr&#233;atures bien plus grandes qu’eux.
+Les serpents de la taille pr&#233;sent&#233;e ici sont
+heureusement beaucoup plus rares que leurs
+cousins de plus petite taille, mais de
+nombreuses esp&#232;ces de crotales, de
+serpents &#224; sonnette, de cobras et
+d’autres reptiles similaires peuvent
+grandir jusqu’&#224; cette taille.&lt;br /&gt;&lt;br /&gt;Les serpents venimeux sont en
+g&#233;n&#233;ral beaucoup plus agressifs que
+les serpents constricteurs, et
+il existe des variantes plus
+grandes encore. Vous
+pouvez par exemple cr&#233;er
+un profil pour un cobra
+royal en appliquant
+les arch&#233;types simples
+&#171; &#233;volu&#233; &#187; et &#171; g&#233;ant &#187; aux
+valeurs pr&#233;sent&#233;es ici, ou &#171; &#233;volu&#233; &#187; et &#171; jeune &#187; pour un cobra classique.
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Serpent venimeux|FP 1}
+{s:pucem|Animal|Marais|Tropical}  
+{s:BDTexte|''Source : Bestiaire'' p.257}
+{s:BDTexte|'''PX''' 400}
+{s:BDTexte|[[type Animal|Animal]] de taille M, N}
+{s:BDTexte|'''Init''' +5 ; '''Sens''' [[odorat]], [[vision nocturne]] ; [[Perception]] +9}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 14, contact 11, pris au dépourvu 13 (Dex +1, naturelle +3)}
+{s:BDTexte|'''pv''' 13 (2d8+4)}
+{s:BDTexte|'''Réf''' +4, '''Vig''' +5, '''Vol''' +1}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 6 m (4 {s:c}), escalade 6 m (4 {s:c}), nage 6 m (4 {s:c})}
+{s:BDTexte|'''Corps à corps''' morsure +2 (1d4-1 et poison)}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 8, '''Dex''' 13, '''Con''' 14, '''Int''' 1, '''Sag''' 13, '''Cha''' 2}
+{s:BDTexte|'''BBA''' +1, '''BMO''' +0, '''DMD''' 11 (croc-en-jambe impossible)}
+{s:BDTexte|'''Dons''' [[Attaque en finesse]]<sup>B</sup>, [[Science de linitiative|Science de l'initiative]]}
+{s:BDTexte|'''Compétences''' [[Acrobaties]] +9, [[Discrétion]] +9, [[Escalade]] +9, [[Natation]] +9, [[Perception]] +9 ; '''Modificateurs raciaux''' [[Acrobaties]] +4 ; utilise la Dex pour [[Escalade]] et [[Natation]], [[Discrétion]] +4, [[Perception]] +4}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' climat tempéré ou chaud}
+{s:BDTexte|'''Organisation sociale''' solitaire, couple ou nid (3-8)}
+{s:BDTexte|'''Trésor''' aucun}
+{s:BDSousTitre|Capacités spéciales}
+{s:BDTexte|'''Poison (Ext)''' Morsure - Blessure ; ''JS'' [[Vigueur]] DD 13 ; ''fréquence'' 1/round pendant 6 rounds ; ''effet'' [[affaiblissement temporaire]] 1d2 Con ; guérison 1 réussite.}
+</div>
+</td><td><div>''Ce serpent de couleur vive adopte une posture agressive et ouvre la gueule
+en sifflant, dévoilant ses dangereux crocs.''
+
+Les étendues sauvages abritent
+d’innombrables espèces de serpents
+venimeux dont la morsure peut venir à
+bout de créatures bien plus grandes qu’eux.
+Les serpents de la taille présentée ici sont
+heureusement beaucoup plus rares que leurs
+cousins de plus petite taille, mais de
+nombreuses espèces de crotales, de
+serpents à sonnette, de cobras et
+d’autres reptiles similaires peuvent
+grandir jusqu’à cette taille.
+
+Les serpents venimeux sont en
+général beaucoup plus agressifs que
+les serpents constricteurs, et
+il existe des variantes plus
+grandes encore. Vous
+pouvez par exemple créer
+un profil pour un cobra
+royal en appliquant
+les archétypes simples
+« évolué » et « géant » aux
+valeurs présentées ici, ou « évolué » et « jeune » pour un cobra classique.
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Serpent venimeux</fullName>
+</wikiPage>

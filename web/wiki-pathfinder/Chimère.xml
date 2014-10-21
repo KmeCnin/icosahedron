@@ -1,0 +1,201 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Chimère</title>
+  <categories><category>Pathfinder-RPG.Bestiaire</category><category>Pathfinder-RPG.Monstre</category><category>Pathfinder-RPG.Règles officielles</category></categories>
+  <lastModified>2013-02-02 18:24:33Z</lastModified>
+  <version>9</version>
+  <inLinks><link>Pathfinder-RPG.Chien de garde</link><link>Pathfinder-RPG.Double illusoire</link><link>Pathfinder-RPG.Glossaire des monstres</link><link>Pathfinder-RPG.Image permanente</link><link>Pathfinder-RPG.Liste de monstres par FP</link><link>Pathfinder-RPG.Liste de monstres par milieu naturel</link><link>Pathfinder-RPG.Liste de monstres par type</link><link>Pathfinder-RPG.Médaillon démission de pensées</link><link>Pathfinder-RPG.Monstres</link><link>Pathfinder-RPG.Mur illusoire</link><link>Pathfinder-RPG.Présentation des sorts</link><link>Pathfinder-RPG.Représentations</link><link>Pathfinder-RPG.Son imaginaire</link><link>Pathfinder-RPG.Ventriloquie</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.branche chimère</link><link>Pathfinder-RPG.Illusion</link><link>Pathfinder-RPG.type Créature magique</link><link>Pathfinder-RPG.odorat</link><link>Pathfinder-RPG.vision dans le noir</link><link>Pathfinder-RPG.vision nocturne</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.croc-en-jambe</link><link>Pathfinder-RPG.Robustesse</link><link>Pathfinder-RPG.Science de linitiative</link><link>Pathfinder-RPG.Talent</link><link>Pathfinder-RPG.Volonté de fer</link><link>Pathfinder-RPG.Vol stationnaire</link><link>Pathfinder-RPG.Discrétion</link><link>Pathfinder-RPG.Vol</link><link>Pathfinder-RPG.type Dragon</link><link>Pathfinder-RPG.Réflexes</link><link>Pathfinder-RPG.DD</link><link>Pathfinder-RPG.cône</link><link>Pathfinder-RPG.ligne</link></outLinks>
+  <body><![CDATA[
+&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Chim&#232;re&lt;div style=&quot;float:right;&quot;&gt;FP 7&lt;/div&gt;&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Bestiaire p.45&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 3.200
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Cr&#233;ature-Magique.html&quot; title=&quot;Cr&#233;ature magique&quot;&gt;Cr&#233;ature magique&lt;/a&gt; de taille G, CM
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +5 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Odorat-(Capacit&#233;).html&quot; title=&quot;odorat&quot;&gt;odorat&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Capacit&#233;s-Sp&#233;ciales.html#VISIONDANSLENOIR&quot; title=&quot;vision dans le noir&quot;&gt;vision dans le noir&lt;/a&gt;  18 m (12 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Nocturne-(Capacit&#233;).html&quot; title=&quot;vision nocturne&quot;&gt;vision nocturne&lt;/a&gt; ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +10
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 19, contact 10, pris au d&#233;pourvu 18 (Dex +1, naturelle +9, taille -1)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 85 (9d10+36)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +7, &lt;b&gt;Vig&lt;/b&gt; +9, &lt;b&gt;Vol&lt;/b&gt; +6
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt;  9 m (6 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), vol  15 m (10 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) (m&#233;diocre)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; morsure +12 (2d6+4), morsure +12 (1d8+4), corne +12 (1d8+4), 2 griffes +12 (1d6+4)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Espace&lt;/b&gt;  3 m (2 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) ; &lt;b&gt;Allonge&lt;/b&gt;  1,50 m (1 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaques sp&#233;ciales&lt;/b&gt; souffle (1 fois tous les 1d4 rounds)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 19, &lt;b&gt;Dex&lt;/b&gt; 12, &lt;b&gt;Con&lt;/b&gt; 17, &lt;b&gt;Int&lt;/b&gt; 4, &lt;b&gt;Sag&lt;/b&gt; 13, &lt;b&gt;Cha&lt;/b&gt; 10
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +9, &lt;b&gt;BMO&lt;/b&gt; +14, &lt;b&gt;DMD&lt;/b&gt; 25 (29 contre &lt;a class=&quot;pagelink&quot; href=&quot;Croc-En-Jambe.html&quot; title=&quot;croc-en-jambe&quot;&gt;croc-en-jambe&lt;/a&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Robustesse.html&quot; title=&quot;Robustesse&quot;&gt;Robustesse&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Science-De-Linitiative.html&quot; title=&quot;Science de l&amp;#39;initiative&quot;&gt;Science de l&#39;initiative&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Talent.html&quot; title=&quot;Talent&quot;&gt;Talent&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt;), &lt;a class=&quot;pagelink&quot; href=&quot;Volont&#233;-De-Fer.html&quot; title=&quot;Volont&#233; de fer&quot;&gt;Volont&#233; de fer&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Vol-Stationnaire.html&quot; title=&quot;Vol stationnaire&quot;&gt;Vol stationnaire&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; +4 (+8 dans les fourr&#233;s ou les hautes herbes), &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +10, &lt;a class=&quot;pagelink&quot; href=&quot;Vol.html&quot; title=&quot;Vol&quot;&gt;Vol&lt;/a&gt; +2 ; &lt;b&gt;Modificateurs raciaux&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; +4 dans les fourr&#233;s ou les hautes herbes, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +2
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Langues&lt;/b&gt; draconique
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; collines temp&#233;r&#233;es
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation sociale&lt;/b&gt; solitaire, couple, meute (3-6) ou vol (7-12)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; standard
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Particularit&#233;s&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;souffle (Su)&lt;/b&gt; Les effets du souffle de la chim&#232;re d&#233;pendent de la couleur de sa t&#234;te de &lt;a class=&quot;pagelink&quot; href=&quot;Type-Dragon.html&quot; title=&quot;Dragon&quot;&gt;dragon&lt;/a&gt;, comme indiqu&#233; dans la table ci-dessous. Dans tous les cas, la chim&#232;re peut utiliser son souffle une fois tous les 1d4 rounds, celui-ci inflige 6d8 points de d&#233;g&#226;ts et un jet de &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;R&#233;flexes&quot;&gt;R&#233;flexes&lt;/a&gt; de &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DEGREDEDIFFICULTE&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; 17 permet de r&#233;duire les d&#233;g&#226;ts de moiti&#233;. Pour d&#233;terminer al&#233;atoirement la couleur de la t&#234;te de &lt;a class=&quot;pagelink&quot; href=&quot;Type-Dragon.html&quot; title=&quot;Dragon&quot;&gt;dragon&lt;/a&gt; et le type de souffle, lancez 1d10 et consultez la table ci-dessous.
+&lt;/div&gt;&lt;br /&gt;&lt;center&gt;
+&lt;table CLASS=&quot;tablo&quot;&gt;&lt;caption&gt;Tableau des types de souffles&lt;/caption&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td&gt;d10&lt;/td&gt;&lt;td&gt;T&#234;te&lt;/td&gt;&lt;td class=&quot;gauche&quot;&gt;Type de souffle&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier&quot;&gt;&lt;td&gt;1-2&lt;/td&gt;&lt;td&gt;blanche&lt;/td&gt;&lt;td class=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#DEFCONE&quot; title=&quot;c&#244;ne&quot;&gt;c&#244;ne&lt;/a&gt; de froid de 6 m (4 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;3-4&lt;/td&gt;&lt;td&gt;bleue&lt;/td&gt;&lt;td class=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#DEFLIGNE&quot; title=&quot;ligne&quot;&gt;ligne&lt;/a&gt; d&#39;&#233;lectricit&#233; de 12 m (8 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;5-6&lt;/td&gt;&lt;td&gt;noire&lt;/td&gt;&lt;td class=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#DEFLIGNE&quot; title=&quot;ligne&quot;&gt;ligne&lt;/a&gt; d&#39;acide de 12 m (8 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;7-8&lt;/td&gt;&lt;td&gt;rouge&lt;/td&gt;&lt;td class=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#DEFCONE&quot; title=&quot;c&#244;ne&quot;&gt;c&#244;ne&lt;/a&gt; de feu de 6 m (4 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;9-10&lt;/td&gt;&lt;td&gt;verte&lt;/td&gt;&lt;td class=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#DEFCONE&quot; title=&quot;c&#244;ne&quot;&gt;c&#244;ne&lt;/a&gt; d&#39;acide de 6 m (4 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;
+&lt;/td&gt;&lt;td&gt;&lt;div&gt;&lt;i&gt;Ce monstre ail&#233; a le corps d’un lion mais sa t&#234;te f&#233;line est flanqu&#233;e de deux
+autres t&#234;tes : une de dragon et une de ch&#232;vre cornue.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Les chim&#232;res sont des monstres cr&#233;&#233;s par le Mal
+primitif. Agressives et constamment affam&#233;es, elles
+chassent aussi bien dans l’air que sur le sol. Elles
+poss&#232;dent une t&#234;te draconique qui peut ressembler &#224;
+n’importe quelle esp&#232;ce de dragon mal&#233;fique et qui leur permet de
+disposer de leur type de souffle. Leurs ailes sont g&#233;n&#233;ralement de la
+m&#234;me couleur que les &#233;cailles qui recouvrent cette t&#234;te. &lt;br /&gt;&lt;br /&gt;Les chim&#232;res
+parlent en utilisant leurs trois voix de mani&#232;re simultan&#233;e, mais elles
+le font rarement, et le plus souvent pour flagorner une cr&#233;ature plus
+puissante qu’elles. Une chim&#232;re mesure 1,50 m&#232;tre de hauteur aux
+&#233;paules et presque 3 m&#232;tres de long. Leur poids moyen est de 350 kg.
+Les chim&#232;res pr&#233;f&#232;rent la viande mais peuvent se nourrir de
+mati&#232;res v&#233;g&#233;tales si cela s’av&#232;re n&#233;cessaire (elles se montrent alors
+plus col&#233;riques que d’habitude lorsqu’elles y sont contraintes).&lt;br /&gt;&lt;br /&gt;Comme elles savent voler, les chim&#232;res peuvent s&#233;lectionner les
+proies qu’elles pr&#233;f&#232;rent lorsqu’elles survolent de vastes r&#233;gions &#224;
+la recherche de nourriture facile &#224; chasser. Elles sont trop stupides
+et agressives pour avoir des compagnons mais certaines tribus de
+kobolds leur am&#232;nent parfois des offrandes. D’un autre c&#244;t&#233;, elles
+sont juste assez intelligentes et ent&#234;t&#233;es pour servir d’animaux de
+compagnie (de pi&#232;tre qualit&#233; cependant) mais seules les cr&#233;atures
+beaucoup plus puissantes qu’elles peuvent les faire ob&#233;ir. &lt;br /&gt;&lt;br /&gt;Elles
+forment parfois une sorte de partenariat avec un humano&#239;de qui se
+montre respectueux ou une cr&#233;ature du m&#234;me genre et acceptent
+alors de se laisser monter. Les meutes de chim&#232;res poss&#232;dent une
+structure hi&#233;rarchique similaire &#224; celles des lions, o&#249; un m&#226;le
+dominant dirige le groupe et les femelles s’occupent de la chasse.
+Une chim&#232;re solitaire est g&#233;n&#233;ralement un jeune m&#226;le ou une
+femelle dont les petits ne sont pas tr&#232;s loin.
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[{s:Desambi|Chimère est également le nom d'une [[branche chimère|branche]] de l'école d'[[Illusion]].}
+<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Chimère|FP 7}
+{s:pucem|Créature magique|Collines|Tempéré}
+{s:BDTexte|''Source : Bestiaire p.45''}
+{s:BDTexte|'''PX''' 3.200}
+{s:BDTexte|[[type Créature magique|Créature magique]] de taille G, CM}
+{s:BDTexte|'''Init''' +5 ; '''Sens''' [[odorat]], [[vision dans le noir]]  18 m (12 {s:c}), [[vision nocturne]] ; [[Perception]] +10}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 19, contact 10, pris au dépourvu 18 (Dex +1, naturelle +9, taille -1)}
+{s:BDTexte|'''pv''' 85 (9d10+36)}
+{s:BDTexte|'''Réf''' +7, '''Vig''' +9, '''Vol''' +6}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD'''  9 m (6 {s:c}), vol  15 m (10 {s:c}) (médiocre)}
+{s:BDTexte|'''Corps à corps''' morsure +12 (2d6+4), morsure +12 (1d8+4), corne +12 (1d8+4), 2 griffes +12 (1d6+4)}
+{s:BDTexte|'''Espace'''  3 m (2 {s:c}) ; '''Allonge'''  1,50 m (1 {s:c})}
+{s:BDTexte|'''Attaques spéciales''' souffle (1 fois tous les 1d4 rounds)}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 19, '''Dex''' 12, '''Con''' 17, '''Int''' 4, '''Sag''' 13, '''Cha''' 10}
+{s:BDTexte|'''BBA''' +9, '''BMO''' +14, '''DMD''' 25 (29 contre [[croc-en-jambe]])}
+{s:BDTexte|'''Dons''' [[Robustesse]], [[Science de linitiative|Science de l'initiative]], [[Talent]] ([[Perception]]), [[Volonté de fer]], [[Vol stationnaire]]}
+{s:BDTexte|'''Compétences''' [[Discrétion]] +4 (+8 dans les fourrés ou les hautes herbes), [[Perception]] +10, [[Vol]] +2 ; '''Modificateurs raciaux''' [[Discrétion]] +4 dans les fourrés ou les hautes herbes, [[Perception]] +2}
+{s:BDTexte|'''Langues''' draconique}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' collines tempérées}
+{s:BDTexte|'''Organisation sociale''' solitaire, couple, meute (3-6) ou vol (7-12)}
+{s:BDTexte|'''Trésor''' standard}
+{s:BDSousTitre|Particularités}
+{s:BDTexte|'''souffle (Su)''' Les effets du souffle de la chimère dépendent de la couleur de sa tête de [[type dragon|dragon]], comme indiqué dans la table ci-dessous. Dans tous les cas, la chimère peut utiliser son souffle une fois tous les 1d4 rounds, celui-ci inflige 6d8 points de dégâts et un jet de [[Réflexes]] de [[DD]] 17 permet de réduire les dégâts de moitié. Pour déterminer aléatoirement la couleur de la tête de [[type dragon|dragon]] et le type de souffle, lancez 1d10 et consultez la table ci-dessous.}
+
+<center>
+{| CLASS="tablo"
+|+ Tableau des types de souffles
+|- CLASS="titre"
+| d10 || Tête
+| class="gauche" | Type de souffle
+|- CLASS="premier"
+| 1-2 || blanche
+| class="gauche" | [[cône]] de froid de 6 m (4 {s:c})
+|- CLASS="alt"
+| 3-4 || bleue
+| class="gauche" | [[ligne]] d'électricité de 12 m (8 {s:c})
+|-
+| 5-6 || noire
+| class="gauche" | [[ligne]] d'acide de 12 m (8 {s:c})
+|- CLASS="alt"
+| 7-8 || rouge
+| class="gauche" | [[cône]] de feu de 6 m (4 {s:c})
+|-
+| 9-10 || verte
+| class="gauche" | [[cône]] d'acide de 6 m (4 {s:c})
+|}</center>
+</td><td><div>''Ce monstre ailé a le corps d’un lion mais sa tête féline est flanquée de deux
+autres têtes : une de dragon et une de chèvre cornue.''
+
+Les chimères sont des monstres créés par le Mal
+primitif. Agressives et constamment affamées, elles
+chassent aussi bien dans l’air que sur le sol. Elles
+possèdent une tête draconique qui peut ressembler à
+n’importe quelle espèce de dragon maléfique et qui leur permet de
+disposer de leur type de souffle. Leurs ailes sont généralement de la
+même couleur que les écailles qui recouvrent cette tête. 
+
+Les chimères
+parlent en utilisant leurs trois voix de manière simultanée, mais elles
+le font rarement, et le plus souvent pour flagorner une créature plus
+puissante qu’elles. Une chimère mesure 1,50 mètre de hauteur aux
+épaules et presque 3 mètres de long. Leur poids moyen est de 350 kg.
+Les chimères préfèrent la viande mais peuvent se nourrir de
+matières végétales si cela s’avère nécessaire (elles se montrent alors
+plus colériques que d’habitude lorsqu’elles y sont contraintes).
+
+Comme elles savent voler, les chimères peuvent sélectionner les
+proies qu’elles préfèrent lorsqu’elles survolent de vastes régions à
+la recherche de nourriture facile à chasser. Elles sont trop stupides
+et agressives pour avoir des compagnons mais certaines tribus de
+kobolds leur amènent parfois des offrandes. D’un autre côté, elles
+sont juste assez intelligentes et entêtées pour servir d’animaux de
+compagnie (de piètre qualité cependant) mais seules les créatures
+beaucoup plus puissantes qu’elles peuvent les faire obéir. 
+
+Elles
+forment parfois une sorte de partenariat avec un humanoïde qui se
+montre respectueux ou une créature du même genre et acceptent
+alors de se laisser monter. Les meutes de chimères possèdent une
+structure hiérarchique similaire à celles des lions, où un mâle
+dominant dirige le groupe et les femelles s’occupent de la chasse.
+Une chimère solitaire est généralement un jeune mâle ou une
+femelle dont les petits ne sont pas très loin.
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Chimère</fullName>
+</wikiPage>

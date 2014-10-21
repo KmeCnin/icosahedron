@@ -1,0 +1,119 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Méduse saphir</title>
+  <categories></categories>
+  <lastModified>2013-09-27 23:13:52Z</lastModified>
+  <version>11</version>
+  <inLinks><link>Pathfinder-RPG.Glossaire des monstres</link><link>Pathfinder-RPG.Liste de monstres par FP</link><link>Pathfinder-RPG.Liste de monstres par milieu naturel</link><link>Pathfinder-RPG.Liste de monstres par type</link><link>Pathfinder-RPG.Monstres</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.type Vermine</link><link>Pathfinder-RPG.sous-type aquatique</link><link>Pathfinder-RPG.perception aveugle</link><link>Pathfinder-RPG.vision dans le noir</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Créature informe (capacité)</link><link>Pathfinder-RPG.effet mental</link><link>Pathfinder-RPG.croc-en-jambe</link><link>Pathfinder-RPG.Natation</link><link>Pathfinder-RPG.Compression (capacité)</link><link>Pathfinder-RPG.Action simple</link><link>Pathfinder-RPG.rayon</link><link>Pathfinder-RPG.jet de sauvegarde</link><link>Pathfinder-RPG.Chancelant</link><link>Pathfinder-RPG.affaiblissement temporaire</link><link>Pathfinder-RPG.DD</link><link>Pathfinder-RPG.Constitution</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;M&#233;duse saphir&lt;div style=&quot;float:right;&quot;&gt;FP 11&lt;/div&gt;&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Bestiaire 3, p.189&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 12 800
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Vermine.html&quot; title=&quot;Vermine&quot;&gt;Vermine&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Aquatique.html&quot; title=&quot;Aquatique (sous-type)&quot;&gt;aquatique&lt;/a&gt;) de taille TG, N
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +4 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Perception-Aveugle-(Capacit&#233;).html&quot; title=&quot;perception aveugle&quot;&gt;perception aveugle&lt;/a&gt; 9 m (6 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) ;&lt;a class=&quot;pagelink&quot; href=&quot;Capacit&#233;s-Sp&#233;ciales.html#VISIONDANSLENOIR&quot; title=&quot;vision dans le noir&quot;&gt;vision dans le noir&lt;/a&gt; 18 m (12 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +1
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 24, contact 12, pris au d&#233;pourvu 20 (Dex +4, naturelle +12, taille -2)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 138 (12d8+84)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +8, &lt;b&gt;Vig&lt;/b&gt; +15, &lt;b&gt;Vol&lt;/b&gt; +5
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Capacit&#233;s d&#233;fensives&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;ature-Informe-(Capacit&#233;).html&quot; title=&quot;Cr&#233;ature informe (Ext)&quot;&gt;cr&#233;ature informe&lt;/a&gt; ; &lt;b&gt;Immunit&#233;s&lt;/b&gt; &#233;lectricit&#233;, &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#REGISTRE&quot; title=&quot;effet mental&quot;&gt;effets mentaux&lt;/a&gt; ; &lt;b&gt;RD&lt;/b&gt; 10/perforant ou tranchant 
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; nage 9 m (6 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; 4 tentacules, +15 (1d8+8 plus poison)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Espace&lt;/b&gt; 4,50 m (3 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) ; &lt;b&gt;Allonge&lt;/b&gt; 6 m (4 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaque sp&#233;ciale&lt;/b&gt; explosion &#233;lectrique
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 26, &lt;b&gt;Dex&lt;/b&gt; 19, &lt;b&gt;Con&lt;/b&gt; 24, &lt;b&gt;Int&lt;/b&gt; —, &lt;b&gt;Sag&lt;/b&gt; 12, &lt;b&gt;Cha&lt;/b&gt; 1
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +9, &lt;b&gt;BMO&lt;/b&gt; +19, &lt;b&gt;DMD&lt;/b&gt; 33 (&lt;a class=&quot;pagelink&quot; href=&quot;Croc-En-Jambe.html&quot; title=&quot;croc-en-jambe&quot;&gt;croc-en-jambe&lt;/a&gt; impossible
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Natation.html&quot; title=&quot;Natation&quot;&gt;Natation&lt;/a&gt; +16
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Particularit&#233;s&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Compression-(Capacit&#233;).html&quot; title=&quot;Compression (Ext)&quot;&gt;compression&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; oc&#233;ans
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation sociale&lt;/b&gt; solitaire, groupe (2–3) ou nu&#233;e (4–7)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; aucun
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Pouvoirs sp&#233;ciaux&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Explosion &#233;lectrique (Ext).&lt;/b&gt; Une fois tous les 1d6 rounds, par une &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions.html#SIMPLE&quot; title=&quot;Action simple&quot;&gt;action simple&lt;/a&gt;, la m&#233;duse saphir peut faire une explosion d’&#233;lectricit&#233; de 6 m&#232;tres de &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#RAYON&quot; title=&quot;rayon&quot;&gt;rayon&lt;/a&gt; infligeant 8d6 points de d&#233;g&#226;ts d’&#233;lectricit&#233; (&lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;jet de sauvegarde&quot;&gt;jet de R&#233;flexes&lt;/a&gt; DD 22, 1/2 d&#233;g&#226;ts). Toute cr&#233;ature qui re&#231;oit ces d&#233;g&#226;ts d’&#233;lectricit&#233; doit r&#233;ussir un &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;jet de sauvegarde&quot;&gt;jet de Vigueur&lt;/a&gt; DD 22 pour &#233;viter d’&#234;tre &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables.html#Chancelant&quot; title=&quot;Chancelant&quot;&gt;chancelante&lt;/a&gt; pendant 1d4 rounds.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Poison (Ext).&lt;/b&gt; Tentacules — blessure ; &lt;i&gt;JdS&lt;/i&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;jet de sauvegarde&quot;&gt;jet de Vigueur&lt;/a&gt; DD 23 ; &lt;i&gt;fr&#233;quence&lt;/i&gt; 1/round pendant 6 rounds ; &lt;i&gt;effet&lt;/i&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Affaiblissement-Temporaire-(Capacit&#233;).html&quot; title=&quot;affaiblissement temporaire&quot;&gt;affaiblissement temporaire&lt;/a&gt; 1d4 Dex et de 1d4 Con ; &lt;i&gt;gu&#233;rison&lt;/i&gt; 2 r&#233;ussites cons&#233;cutives. Le &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DEGREDEDIFFICULTE&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; d&#233;pend de la &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#CONSTITUTION&quot; title=&quot;La Constitution&quot;&gt;Constitution&lt;/a&gt;.
+&lt;/div&gt;&lt;br /&gt;&lt;/div&gt;
+&lt;/td&gt;&lt;td&gt;&lt;div&gt;&lt;i&gt;Cette impressionnante m&#233;duse translucide brille d’une lueur interne bleut&#233;e et, tout autour de son ombrelle, l’eau vibre d’&#233;lectricit&#233;.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Comme les autres m&#233;duses g&#233;antes, la m&#233;duse saphir est une chasseresse active. Elle stocke de puissantes charges &#233;lectriques au sein de son ombrelle en forme de d&#244;me, de 4,80 m&#232;tres de diam&#232;tre. Ses tentacules sensoriels sont deux fois plus longs, mais ses dangereux tentacules toxiques se trouvent &#224; une demi-douzaine de m&#232;tres sous l’ombrelle.
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Méduse saphir|FP 11}
+{s:pucem|Vermine|Aquatique|Tempéré}
+{s:BDTexte|''Source : Bestiaire 3, p.189''}
+{s:BDTexte|'''PX''' 12 800}
+{s:BDTexte|[[type Vermine|Vermine]] ([[sous-type aquatique|aquatique]]) de taille TG, N}
+{s:BDTexte|'''Init''' +4 ; '''Sens''' [[perception aveugle]] 9 m (6 {s:c}) ;[[vision dans le noir]] 18 m (12 {s:c}) ; [[Perception]] +1}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 24, contact 12, pris au dépourvu 20 (Dex +4, naturelle +12, taille -2)}
+{s:BDTexte|'''pv''' 138 (12d8+84)}
+{s:BDTexte|'''Réf''' +8, '''Vig''' +15, '''Vol''' +5}
+{s:BDTexte|'''Capacités défensives''' [[créature informe (capacité)|créature informe]] ; '''Immunités''' électricité, [[effet mental|effets mentaux]] ; '''RD''' 10/perforant ou tranchant }
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' nage 9 m (6 {s:c})}
+{s:BDTexte|'''Corps à corps''' 4 tentacules, +15 (1d8+8 plus poison)}
+{s:BDTexte|'''Espace''' 4,50 m (3 {s:c}) ; '''Allonge''' 6 m (4 {s:c})}
+{s:BDTexte|'''Attaque spéciale''' explosion électrique}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 26, '''Dex''' 19, '''Con''' 24, '''Int''' —, '''Sag''' 12, '''Cha''' 1}
+{s:BDTexte|'''BBA''' +9, '''BMO''' +19, '''DMD''' 33 ([[croc-en-jambe]] impossible}
+{s:BDTexte|'''Compétences''' [[Natation]] +16}
+{s:BDTexte|'''Particularités''' [[compression (capacité)|compression]]}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' océans}
+{s:BDTexte|'''Organisation sociale''' solitaire, groupe (2–3) ou nuée (4–7)}
+{s:BDTexte|'''Trésor''' aucun}
+{s:BDSousTitre|Pouvoirs spéciaux}
+{s:BDTexte|'''Explosion électrique (Ext).''' Une fois tous les 1d6 rounds, par une [[action simple]], la méduse saphir peut faire une explosion d’électricité de 6 mètres de [[rayon]] infligeant 8d6 points de dégâts d’électricité ([[jet de sauvegarde|jet de Réflexes]] DD 22, 1/2 dégâts). Toute créature qui reçoit ces dégâts d’électricité doit réussir un [[jet de sauvegarde|jet de Vigueur]] DD 22 pour éviter d’être [[chancelant|chancelante]] pendant 1d4 rounds.}
+{s:BDTexte|'''Poison (Ext).''' Tentacules — blessure ; ''JdS'' [[jet de sauvegarde|jet de Vigueur]] DD 23 ; ''fréquence'' 1/round pendant 6 rounds ; ''effet'' [[affaiblissement temporaire]] 1d4 Dex et de 1d4 Con ; ''guérison'' 2 réussites consécutives. Le [[DD]] dépend de la [[Constitution]].}
+
+</div>
+</td><td><div>''Cette impressionnante méduse translucide brille d’une lueur interne bleutée et, tout autour de son ombrelle, l’eau vibre d’électricité.''
+
+Comme les autres méduses géantes, la méduse saphir est une chasseresse active. Elle stocke de puissantes charges électriques au sein de son ombrelle en forme de dôme, de 4,80 mètres de diamètre. Ses tentacules sensoriels sont deux fois plus longs, mais ses dangereux tentacules toxiques se trouvent à une demi-douzaine de mètres sous l’ombrelle.
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Méduse saphir</fullName>
+</wikiPage>

@@ -1,0 +1,76 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Les profils de véhicules</title>
+  <categories><category>Pathfinder-RPG.Art de la guerre</category><category>Pathfinder-RPG.Règles officielles</category><category>Pathfinder-RPG.Véhicule</category></categories>
+  <lastModified>2013-05-06 10:36:13Z</lastModified>
+  <version>0</version>
+  <inLinks><link>Pathfinder-RPG.Orientation et déplacement (véhicules)</link><link>Pathfinder-RPG.Propulsion (véhicules)</link><link>Pathfinder-RPG.Véhicules en combat (véhicules)</link></inLinks>
+  <outLinks></outLinks>
+  <body><![CDATA[
+&lt;i&gt;Les r&#232;gles de base donnent une id&#233;e g&#233;n&#233;rale du comportement des v&#233;hicules durant le round de combat et de leurs diff&#233;rences avec des cr&#233;atures. Les  parties suivantes approfondissent la mani&#232;re de les g&#233;rer pendant le combat.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;&lt;a name=&quot;PROFILS&quot;&gt;&lt;/a&gt;
+&lt;h2 class=&quot;separator&quot;&gt;PROFILS DES V&#201;HICULES&lt;a class=&quot;headeranchor&quot; id=&quot;PROFILS_DES_V&#201;HICULES_0&quot; href=&quot;#PROFILS_DES_V&#201;HICULES_0&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;&lt;div style=&quot;float:right; background-color: #fff; padding: 0 0 16px 16px&quot;&gt;
+&lt;div style=&quot;border: 1px solid #4b3124; padding: 4px&quot;&gt;
+&lt;center&gt;
+&lt;table class=&quot;tablo toutgauche autoalt&quot; id=&quot;reparer&quot; &gt;&lt;caption&gt;CA et modif icateur du DMD d’un v&#233;hicule selon la taille&lt;/caption&gt;&lt;tr&gt;&lt;td&gt;Taille du v&#233;hicule&lt;/td&gt;&lt;td&gt;CA&lt;/td&gt;&lt;td&gt;Modificateur de DMD&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;G&lt;/td&gt;&lt;td&gt;9&lt;/td&gt;&lt;td&gt;+1&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;TG&lt;/td&gt;&lt;td&gt;8&lt;/td&gt;&lt;td&gt;+2&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Gig&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;+4&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;C&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;+8&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/center&gt;&lt;/div&gt;&lt;/div&gt;Vous trouverez ci-dessous quelques explications &#224; proposdes profils des v&#233;hicules.Si les informations au sujetd’une cat&#233;gorie donn&#233;e ne figurent pas dans ces profils,elles ne sont pas applicables.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Nom.&lt;/b&gt; Le nom du v&#233;hicule.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Taille et type.&lt;/b&gt; Divis&#233; entre terrestre, aquatique et a&#233;rien.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Cases.&lt;/b&gt; La taille typique du v&#233;hicule est mesur&#233;e en nombre de cases, suivie par la configuration standard de ces cases.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Co&#251;t.&lt;/b&gt; Le co&#251;t du v&#233;hicule en po. La description des armes fournit parfois les modifications possibles pour les v&#233;hicules. Le co&#251;t de ces armes n’est pas inclus dans celui du v&#233;hicule, pas plus que ne l’est celui des ajouts commeles b&#233;liers ou les engins de si&#232;ge.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;CA et solidit&#233;.&lt;/b&gt; C’est la CA et la solidit&#233; du v&#233;hicule. La CA suppose que le v&#233;hicule est en mouvement et que le conducteur ne l’a pas modifi&#233;e gr&#226;ce &#224; sa comp&#233;tence de conduite. S’il est &#224; l’arr&#234;t, sa Dext&#233;rit&#233; est de 0 (p&#233;nalit&#233;de -5 &#224; la CA) et il subit une p&#233;nalit&#233; suppl&#233;mentaire de-2 &#224; sa CA.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;PV.&lt;/b&gt; S’ils peuvent &#234;tre attaqu&#233;s en combat, les gros v&#233;hicules sont vraiment difficiles &#224; endommager. Lorsqu’un v&#233;hicule atteint le nombre de points de vie total indiqu&#233; entre parenth&#232;ses, il est cass&#233;. Les points de vie d’un v&#233;hicule n’interviennent pas dans sa m&#233;thode de propulsion ou son syst&#232;me de conduite. Ces derniers ont leurs propres caract&#233;ristiques.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Jet de sauvegarde de base.&lt;/b&gt; Chaque v&#233;hicule poss&#232;de un modificateur de jet de sauvegarde de base. Tous ses jets de sauvegarde (Vigueur, R&#233;flexes et Volont&#233;) ont la m&#234;me valeur. Cette valeur indique le jet de sauvegarde du v&#233;hicule avant qu’il ne soit modifi&#233; par le test de conduite du conducteur.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Vitesse maximale.&lt;/b&gt; C’est la vitesse la plus rapide &#224; laquelle le v&#233;hicule peut se d&#233;placer. S’il poss&#232;de plusieurs m&#233;thodes de propulsion, il peut parfois avoir plusieurs vitesses maximales.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;BMO et DMD.&lt;/b&gt; Le BMO et le DMD avant qu’ils ne soient modifi&#233;s par le test de conduite du conducteur.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Acc&#233;l&#233;ration.&lt;/b&gt; Indique la valeur d’augmentation de la vitesse du v&#233;hicule &#224; chaque round. Elle d&#233;termine aussi la valeur maximale &#224; laquelle il peut ralentir en toute s&#233;curit&#233; &#224; chaque round.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Propulsion.&lt;/b&gt; Le type et l’importance de la propulsion requise.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Test de conduite.&lt;/b&gt; Les comp&#233;tences utilis&#233;es en g&#233;n&#233;ral pour effectuer un test de conduite avec ce v&#233;hicule.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Avant.&lt;/b&gt; La direction de l’avant du v&#233;hicule.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Syst&#232;me de conduite.&lt;/b&gt; Le syst&#232;me de conduite que le conducteur manipule lorsqu’il dirige le v&#233;hicule.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Espace de conduite.&lt;/b&gt; La taille et la localisation de l’espace de conduite du v&#233;hicule.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;&#201;quipage.&lt;/b&gt; Le nombre de membres d’&#233;quipage, en plus du conducteur, n&#233;cessaire au d&#233;placement du v&#233;hicule.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Ponts.&lt;/b&gt; Le nombre de ponts et toutes les informations importantes &#224; leur sujet sont donn&#233;s dans ce paragraphe.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Armes.&lt;/b&gt;Certains v&#233;hicules peuvent &#234;tre &#233;quip&#233;s d’armes de si&#232;ge. C’est le nombre d’armes que le v&#233;hicule peut avoir.
+]]></body>
+  <raw><![CDATA[{s:MenuVehicules}
+{s:UC}''Les règles de base donnent une idée générale du comportement des véhicules durant le round de combat et de leurs différences avec des créatures. Les  parties suivantes approfondissent la manière de les gérer pendant le combat.''
+
+{s:Reference|PROFILS}
+===PROFILS DES VÉHICULES===
+<div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
+<div style="border: 1px solid #4b3124; padding: 4px">
+<center>
+{| class="tablo toutgauche autoalt" id="reparer" 
+|+ CA et modif icateur du DMD d’un véhicule selon la taille
+|- 
+| Taille du véhicule || CA || Modificateur de DMD
+|- 
+| G || 9 || +1
+|- 
+| TG || 8 || +2
+|- 
+| Gig || 6 || +4
+|- 
+| C || 2 || +8
+|}
+</center></div></div>Vous trouverez ci-dessous quelques explications à proposdes profils des véhicules.Si les informations au sujetd’une catégorie donnée ne figurent pas dans ces profils,elles ne sont pas applicables.
+
+'''Nom.''' Le nom du véhicule.
+
+'''Taille et type.''' Divisé entre terrestre, aquatique et aérien.
+
+'''Cases.''' La taille typique du véhicule est mesurée en nombre de cases, suivie par la configuration standard de ces cases.
+
+'''Coût.''' Le coût du véhicule en po. La description des armes fournit parfois les modifications possibles pour les véhicules. Le coût de ces armes n’est pas inclus dans celui du véhicule, pas plus que ne l’est celui des ajouts commeles béliers ou les engins de siège.
+
+'''CA et solidité.''' C’est la CA et la solidité du véhicule. La CA suppose que le véhicule est en mouvement et que le conducteur ne l’a pas modifiée grâce à sa compétence de conduite. S’il est à l’arrêt, sa Dextérité est de 0 (pénalitéde -5 à la CA) et il subit une pénalité supplémentaire de-2 à sa CA.
+
+'''PV.''' S’ils peuvent être attaqués en combat, les gros véhicules sont vraiment difficiles à endommager. Lorsqu’un véhicule atteint le nombre de points de vie total indiqué entre parenthèses, il est cassé. Les points de vie d’un véhicule n’interviennent pas dans sa méthode de propulsion ou son système de conduite. Ces derniers ont leurs propres caractéristiques.
+
+'''Jet de sauvegarde de base.''' Chaque véhicule possède un modificateur de jet de sauvegarde de base. Tous ses jets de sauvegarde (Vigueur, Réflexes et Volonté) ont la même valeur. Cette valeur indique le jet de sauvegarde du véhicule avant qu’il ne soit modifié par le test de conduite du conducteur.
+
+'''Vitesse maximale.''' C’est la vitesse la plus rapide à laquelle le véhicule peut se déplacer. S’il possède plusieurs méthodes de propulsion, il peut parfois avoir plusieurs vitesses maximales.
+
+'''BMO et DMD.''' Le BMO et le DMD avant qu’ils ne soient modifiés par le test de conduite du conducteur.
+
+'''Accélération.''' Indique la valeur d’augmentation de la vitesse du véhicule à chaque round. Elle détermine aussi la valeur maximale à laquelle il peut ralentir en toute sécurité à chaque round.
+
+'''Propulsion.''' Le type et l’importance de la propulsion requise.
+
+'''Test de conduite.''' Les compétences utilisées en général pour effectuer un test de conduite avec ce véhicule.
+
+'''Avant.''' La direction de l’avant du véhicule.
+
+'''Système de conduite.''' Le système de conduite que le conducteur manipule lorsqu’il dirige le véhicule.
+
+'''Espace de conduite.''' La taille et la localisation de l’espace de conduite du véhicule.
+
+'''Équipage.''' Le nombre de membres d’équipage, en plus du conducteur, nécessaire au déplacement du véhicule.
+
+'''Ponts.''' Le nombre de ponts et toutes les informations importantes à leur sujet sont donnés dans ce paragraphe.
+
+'''Armes.'''Certains véhicules peuvent être équipés d’armes de siège. C’est le nombre d’armes que le véhicule peut avoir.]]></raw>
+  <fullName>Pathfinder-RPG.Les profils de véhicules</fullName>
+</wikiPage>

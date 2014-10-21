@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Formule universelle</title>
+  <categories><category>Pathfinder-RPG.Advanced Player Guide</category><category>Pathfinder-RPG.Règles officielles</category><category>Pathfinder-RPG.Sort</category><category>Pathfinder-RPG.Sort alchimiste 4</category></categories>
+  <lastModified>2012-11-03 21:23:52Z</lastModified>
+  <version>1</version>
+  <inLinks><link>Pathfinder-RPG.Glossaire des sorts</link><link>Pathfinder-RPG.Grimoires</link><link>Pathfinder-RPG.Liste des formules dalchimiste</link><link>Pathfinder-RPG.Liste des sorts (suite)</link><link>Pathfinder-RPG.TMP sorts APG</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Transmutation</link><link>Pathfinder-RPG.Alchimiste</link><link>Pathfinder-RPG.Action simple</link><link>Pathfinder-RPG.composantes</link><link>Pathfinder-RPG.personnelle</link><link>Pathfinder-RPG.instantanée</link><link>Pathfinder-RPG.découvertes</link></outLinks>
+  <body><![CDATA[
+&lt;b&gt;&#201;cole&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#TRANSMUTATION&quot; title=&quot;Transmutation&quot;&gt;Transmutation&lt;/a&gt;&#160;;&lt;b&gt; Niveau&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Alchimiste.html&quot; title=&quot;L&amp;#39;alchimiste&quot;&gt;alchimiste&lt;/a&gt; 4&lt;br/&gt;
+&lt;b&gt;Temps d&#39;incantation&lt;/b&gt; 1 &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions.html#SIMPLE&quot; title=&quot;Action simple&quot;&gt;action simple&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Composantes&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#COMPOSANTES&quot; title=&quot;composantes&quot;&gt;V, G, M&lt;/a&gt; (du vif-argent et de platine en poudre d&#39;une valeur de 100 po)&lt;br/&gt;
+&lt;b&gt;Port&#233;e&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#PORTEE&quot; title=&quot;personnelle&quot;&gt;personnelle&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Cible&lt;/b&gt; lanceur de sorts&lt;br/&gt;
+&lt;b&gt;Dur&#233;e&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#DUREE&quot; title=&quot;instantan&#233;e&quot;&gt;instantan&#233;e&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;Quand le personnage ing&#232;re cet &lt;a class=&quot;pagelink&quot; href=&quot;Alchimiste.html#EXTRAIT&quot; title=&quot;L&amp;#39;alchimiste&quot;&gt;extrait&lt;/a&gt;, il le transforme en &lt;a class=&quot;pagelink&quot; href=&quot;Alchimiste.html#EXTRAIT&quot; title=&quot;L&amp;#39;alchimiste&quot;&gt;extrait&lt;/a&gt; appropri&#233; pour toute &lt;a class=&quot;pagelink&quot; href=&quot;Alchimiste.html#EXTRAIT&quot; title=&quot;L&amp;#39;alchimiste&quot;&gt;formule&lt;/a&gt; de niveau 3 ou moins. Il fait imm&#233;diatement effet. Si la &lt;a class=&quot;pagelink&quot; href=&quot;Alchimiste.html#EXTRAIT&quot; title=&quot;L&amp;#39;alchimiste&quot;&gt;formule&lt;/a&gt; choisie n&#233;cessite une &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#COMPOSANTES&quot; title=&quot;composantes&quot;&gt;composante mat&#233;rielle&lt;/a&gt; on&#233;reuse, le personnage doit l&#39;ajouter aux &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#COMPOSANTES&quot; title=&quot;composantes&quot;&gt;composantes&lt;/a&gt; de cet &lt;a class=&quot;pagelink&quot; href=&quot;Alchimiste.html#EXTRAIT&quot; title=&quot;L&amp;#39;alchimiste&quot;&gt;extrait&lt;/a&gt;. Le personnage ne peut pas cr&#233;er d&#39;&lt;a class=&quot;pagelink&quot; href=&quot;D&#233;couvertes.html#INFUSION&quot; title=&quot;Les d&#233;couvertes d&amp;#39;alchimistes&quot;&gt;extrait infus&#233;&lt;/a&gt; avec cette &lt;a class=&quot;pagelink&quot; href=&quot;Alchimiste.html#EXTRAIT&quot; title=&quot;L&amp;#39;alchimiste&quot;&gt;formule&lt;/a&gt;.
+]]></body>
+  <raw><![CDATA[{s:APG}
+'''École''' [[Transmutation]] ;''' Niveau''' [[alchimiste]] 4<br/>
+'''Temps d'incantation''' 1 [[action simple]]<br/>
+'''Composantes''' [[Composantes|V, G, M]] (du vif-argent et de platine en poudre d'une valeur de 100 po)<br/>
+'''Portée''' [[personnelle]]<br/>
+'''Cible''' lanceur de sorts<br/>
+'''Durée''' [[instantanée]]
+
+Quand le personnage ingère cet [[alchimiste#EXTRAIT|extrait]], il le transforme en [[alchimiste#EXTRAIT|extrait]] approprié pour toute [[alchimiste#EXTRAIT|formule]] de niveau 3 ou moins. Il fait immédiatement effet. Si la [[alchimiste#EXTRAIT|formule]] choisie nécessite une [[composantes|composante matérielle]] onéreuse, le personnage doit l'ajouter aux [[composantes]] de cet [[alchimiste#EXTRAIT|extrait]]. Le personnage ne peut pas créer d'[[découvertes#INFUSION|extrait infusé]] avec cette [[alchimiste#EXTRAIT|formule]].
+]]></raw>
+  <fullName>Pathfinder-RPG.Formule universelle</fullName>
+</wikiPage>

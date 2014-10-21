@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Vol de soins</title>
+  <categories><category>Pathfinder-RPG.Art de la guerre</category><category>Pathfinder-RPG.Règles officielles</category><category>Pathfinder-RPG.Sort</category><category>Pathfinder-RPG.Sort magicien 3</category><category>Pathfinder-RPG.Sort sorcière 3</category></categories>
+  <lastModified>2013-03-31 12:02:36Z</lastModified>
+  <version>0</version>
+  <inLinks><link>Pathfinder-RPG.Glossaire des sorts</link><link>Pathfinder-RPG.Liste des sorts (fin)</link><link>Pathfinder-RPG.Liste des sorts de sorcière</link><link>Pathfinder-RPG.Liste des sorts densorceleursmagiciens</link><link>Pathfinder-RPG.Listes de sorts par classe</link><link>Pathfinder-RPG.Sorts temporaires-AdG</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Nécromancie</link><link>Pathfinder-RPG.Ensorceleur</link><link>Pathfinder-RPG.Magicien</link><link>Pathfinder-RPG.Sorcière</link><link>Pathfinder-RPG.Action simple</link><link>Pathfinder-RPG.composantes</link><link>Pathfinder-RPG.round</link><link>Pathfinder-RPG.niveau</link><link>Pathfinder-RPG.attaque de contact au corps à corps</link><link>Pathfinder-RPG.NLS</link></outLinks>
+  <body><![CDATA[
+&lt;b&gt;&#201;cole&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#NECROMANCIE&quot; title=&quot;N&#233;cromancie&quot;&gt;N&#233;cromancie&lt;/a&gt; ; &lt;b&gt;Niveau&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Ensorceleur.html&quot; title=&quot;L&amp;#39;ensorceleur&quot;&gt;ensorceleur&lt;/a&gt;/&lt;a class=&quot;pagelink&quot; href=&quot;Magicien.html&quot; title=&quot;Le magicien&quot;&gt;magicien&lt;/a&gt; 3, &lt;a class=&quot;pagelink&quot; href=&quot;Sorci&#232;re.html&quot; title=&quot;La sorci&#232;re&quot;&gt;sorci&#232;re&lt;/a&gt; 3&lt;BR&gt;
+&lt;b&gt;Temps d’incantation&lt;/b&gt; 1 &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions.html#SIMPLE&quot; title=&quot;Action simple&quot;&gt;action simple&lt;/a&gt;&lt;br /&gt;
+&lt;b&gt;Composantes&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#COMPOSANTES&quot; title=&quot;composantes&quot;&gt;V, G, F&lt;/a&gt; (un morceau d&#39;&#233;ponge imbib&#233; de larmes)&lt;br /&gt;
+&lt;b&gt;Port&#233;e&lt;/b&gt; contact&lt;br /&gt;
+&lt;b&gt;Cible&lt;/b&gt; cr&#233;ature touch&#233;e&lt;br /&gt;
+&lt;b&gt;Dur&#233;e&lt;/b&gt; 1 &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#ROUND&quot; title=&quot;round&quot;&gt;round&lt;/a&gt;/&lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#NIVEAU&quot; title=&quot;niveau&quot;&gt;niveau&lt;/a&gt; ou jusqu&#39;&#224; &#233;puisement&lt;br /&gt;
+&lt;b&gt;Jet de sauvegarde&lt;/b&gt; non ; &lt;b&gt;R&#233;sistance &#224; la magie&lt;/b&gt; oui&lt;br /&gt;&lt;br /&gt;Le personnage utilise ce sort pour voler les soins d’une autre cr&#233;ature. Il doit r&#233;ussir une &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#ATTAQUESDECONTACT&quot; title=&quot;attaque de contact au corps &#224; corps&quot;&gt;attaque de contact au corps &#224; corps&lt;/a&gt; contre sa cible. Jusqu’&#224; la fin du sort, d&#232;s que la cible est sujette &#224; un sort ou un effet surnaturel qui rend des points de vie, elle re&#231;oit seulement la moiti&#233; des soins (arrondi &#224; l’inf&#233;rieur) et le personnage re&#231;oit l’autre moiti&#233; (aussi arrondie &#224; l’inf&#233;rieur). Pour b&#233;n&#233;ficier des soins, le personnage doit rester dans un rayon de 7,50 m (5 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) (plus 1,50 m (1 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) tous les 2 &lt;a class=&quot;pagelink&quot; href=&quot;Lancer-Des-Sorts.html#NLS&quot; title=&quot;NLS&quot;&gt;niveaux&lt;/a&gt;) autour de sa cible. S’il sort de cette zone, le sort expire. Il expire &#233;galement une fois que le personnage a absorb&#233; 5 points de vie par &lt;a class=&quot;pagelink&quot; href=&quot;Lancer-Des-Sorts.html#NLS&quot; title=&quot;NLS&quot;&gt;niveau de lanceur de sort&lt;/a&gt; (avec un maximum de 50 pv).
+]]></body>
+  <raw><![CDATA[{s:UC}
+'''École''' [[Nécromancie]] ; '''Niveau''' [[ensorceleur]]/[[magicien]] 3, [[sorcière]] 3<BR>
+'''Temps d’incantation''' 1 [[action simple]]<br>
+'''Composantes''' [[Composantes|V, G, F]] (un morceau d'éponge imbibé de larmes)<br>
+'''Portée''' contact<br>
+'''Cible''' créature touchée<br>
+'''Durée''' 1 [[round]]/[[niveau]] ou jusqu'à épuisement<br>
+'''Jet de sauvegarde''' non ; '''Résistance à la magie''' oui
+
+Le personnage utilise ce sort pour voler les soins d’une autre créature. Il doit réussir une [[attaque de contact au corps à corps]] contre sa cible. Jusqu’à la fin du sort, dès que la cible est sujette à un sort ou un effet surnaturel qui rend des points de vie, elle reçoit seulement la moitié des soins (arrondi à l’inférieur) et le personnage reçoit l’autre moitié (aussi arrondie à l’inférieur). Pour bénéficier des soins, le personnage doit rester dans un rayon de 7,50 m (5 {s:c}) (plus 1,50 m (1 {s:c}) tous les 2 [[NLS|niveaux]]) autour de sa cible. S’il sort de cette zone, le sort expire. Il expire également une fois que le personnage a absorbé 5 points de vie par [[NLS|niveau de lanceur de sort]] (avec un maximum de 50 pv).]]></raw>
+  <fullName>Pathfinder-RPG.Vol de soins</fullName>
+</wikiPage>

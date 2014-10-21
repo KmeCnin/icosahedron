@@ -1,0 +1,472 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Dragon noir</title>
+  <categories><category>Pathfinder-RPG.Bestiaire</category><category>Pathfinder-RPG.Monstre</category><category>Pathfinder-RPG.Règles officielles</category></categories>
+  <lastModified>2013-02-08 08:08:38Z</lastModified>
+  <version>9</version>
+  <inLinks><link>Pathfinder-RPG.Dracolisque</link><link>Pathfinder-RPG.dragon</link><link>Pathfinder-RPG.Glossaire des monstres</link><link>Pathfinder-RPG.Gorynych</link><link>Pathfinder-RPG.Liste de monstres par FP</link><link>Pathfinder-RPG.Liste de monstres par milieu naturel</link><link>Pathfinder-RPG.Liste de monstres par type</link><link>Pathfinder-RPG.Monstres</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.type Dragon</link><link>Pathfinder-RPG.sous-type Eau</link><link>Pathfinder-RPG.ligne</link><link>Pathfinder-RPG.Charme-monstre de groupe</link><link>Pathfinder-RPG.Communication avec les animaux</link><link>Pathfinder-RPG.Potions magiques</link><link>Pathfinder-RPG.Volonté</link><link>Pathfinder-RPG.DD</link><link>Pathfinder-RPG.Présence terrifiante</link><link>Pathfinder-RPG.Action simple</link><link>Pathfinder-RPG.Réflexes</link><link>Pathfinder-RPG.Ténèbres</link><link>Pathfinder-RPG.rayon</link><link>Pathfinder-RPG.Croissance végétale</link><link>Pathfinder-RPG.Fléau dinsectes</link><link>Pathfinder-RPG.Respiration aquatique</link><link>Pathfinder-RPG.sens draconiques</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.croc-en-jambe</link><link>Pathfinder-RPG.Arme de prédilection</link><link>Pathfinder-RPG.Science de linitiative</link><link>Pathfinder-RPG.Talent</link><link>Pathfinder-RPG.Discrétion</link><link>Pathfinder-RPG.Vigilance</link><link>Pathfinder-RPG.Dressage</link><link>Pathfinder-RPG.Intimidation</link><link>Pathfinder-RPG.Natation</link><link>Pathfinder-RPG.Vol</link><link>Pathfinder-RPG.présence terrifiante (dragon)</link><link>Pathfinder-RPG.Alarme</link><link>Pathfinder-RPG.Armure de mage</link><link>Pathfinder-RPG.Brume de dissimulation</link><link>Pathfinder-RPG.Détection de la magie</link><link>Pathfinder-RPG.Lecture de la magie</link><link>Pathfinder-RPG.Lumières dansantes</link><link>Pathfinder-RPG.Message</link><link>Pathfinder-RPG.Réparation</link><link>Pathfinder-RPG.Attaque en puissance</link><link>Pathfinder-RPG.Frappe décisive</link><link>Pathfinder-RPG.Science de la frappe décisive</link><link>Pathfinder-RPG.Art de la magie</link><link>Pathfinder-RPG.Connaissances</link><link>Pathfinder-RPG.écrasement</link><link>Pathfinder-RPG.Cône de froid</link><link>Pathfinder-RPG.Mur de force</link><link>Pathfinder-RPG.Œil du mage</link><link>Pathfinder-RPG.Porte dimensionnelle</link><link>Pathfinder-RPG.Tentacules noirs</link><link>Pathfinder-RPG.Dissipation de la magie</link><link>Pathfinder-RPG.Héroïsme</link><link>Pathfinder-RPG.Immobilisation de personne</link><link>Pathfinder-RPG.Lenteur</link><link>Pathfinder-RPG.Flou</link><link>Pathfinder-RPG.Invisibilité</link><link>Pathfinder-RPG.Nuée grouillante</link><link>Pathfinder-RPG.Poussière scintillante</link><link>Pathfinder-RPG.Vent de murmures</link><link>Pathfinder-RPG.Coup au but</link><link>Pathfinder-RPG.Projectile magique</link><link>Pathfinder-RPG.Lumière</link><link>Pathfinder-RPG.Manipulation à distance</link><link>Pathfinder-RPG.Prestidigitation</link><link>Pathfinder-RPG.résistance</link><link>Pathfinder-RPG.Attaque en vol</link><link>Pathfinder-RPG.Attaques multiples</link><link>Pathfinder-RPG.Expertise du combat</link><link>Pathfinder-RPG.Frappe décisive supérieure</link><link>Pathfinder-RPG.RD</link><link>Pathfinder-RPG.RM</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Dragon chromatique noir&lt;div style=&quot;float:right;&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Bestiaire p.100&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Dragon.html&quot; title=&quot;Dragon&quot;&gt;Dragon&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Eau.html&quot; title=&quot;Eau (sous-type)&quot;&gt;Eau&lt;/a&gt;), CM
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Statistiques de base&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;FP&lt;/b&gt; 3 ; &lt;b&gt;Taille&lt;/b&gt; TP ; &lt;b&gt;DV&lt;/b&gt; 4d12
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 18 m (12 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), nage 18 m (12 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Armure naturelle&lt;/b&gt;+3 ; &lt;b&gt;Souffle&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#DEFLIGNE&quot; title=&quot;ligne&quot;&gt;ligne&lt;/a&gt;, 2d6 acide
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 11, &lt;b&gt;Dex&lt;/b&gt; 16, &lt;b&gt;Con&lt;/b&gt; 13, &lt;b&gt;Int&lt;/b&gt; 8, &lt;b&gt;Sag&lt;/b&gt; 11, &lt;b&gt;Cha&lt;/b&gt; 8
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; marais chauds
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation sociale&lt;/b&gt; solitaire
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; triple
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Particularit&#233;s&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Charme reptiles (Mag).&lt;/b&gt; Un grand dracosire noir peut utiliser cette capacit&#233; trois fois par jour. Elle fonctionne comme un sort de &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Charme-Monstre-De-Groupe.html&quot; title=&quot;Charme-monstre de groupe&quot;&gt;charme-monstre de groupe&lt;/a&gt;&lt;/i&gt; qui n&#39;affecterait que les reptiles. Cette capacit&#233; &#233;quivaut &#224; un sort de 8&lt;sup&gt;e&lt;/sup&gt; niveau.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Communication avec les reptiles (Mag).&lt;/b&gt; Les dragons noirs jeunes ou plus &#226;g&#233;s la capacit&#233; constante de pouvoir communiquer avec les reptiles. Cela fonctionne comme un sort de &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Communication-Avec-Les-Animaux.html&quot; title=&quot;Communication avec les animaux&quot;&gt;communication avec les animaux&lt;/a&gt;&lt;/i&gt; limit&#233; aux reptiles.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corruption de l&#39;eau (Mag).&lt;/b&gt; Une fois par jour, un dragon noir adulte ou plus &#226;g&#233; peut croupir jusqu&#39;&#224; 300 litres d&#39;eau stagnante, la rendant impropre &#224; la consommation et inutilisable par les cr&#233;atures pouvant respirer sous l&#39;eau. Cette capacit&#233; peut &#233;galement affecter les liquides qui contiennent de l&#39;eau. Les objets magiques liquides (comme les &lt;a class=&quot;pagelink&quot; href=&quot;Potions-Magiques.html&quot; title=&quot;Les potions magiques&quot;&gt;potions&lt;/a&gt;) et les liquides qui se trouvent dans les possessions d&#39;une personne b&#233;n&#233;ficient d&#39;un jet de &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;Volont&#233;&quot;&gt;Volont&#233;&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DEGREDEDIFFICULTE&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; &#233;gal &#224; celui de la &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sence-Terrifiante-(Capacit&#233;).html&quot; title=&quot;Pr&#233;sence terrifiante&quot;&gt;pr&#233;sence terrifiante&lt;/a&gt; du dragon) pour ne pas devenir inutilisables. Cette capacit&#233; &#233;quivaut &#224; un sort de 1&lt;sup&gt;er&lt;/sup&gt; niveau. Sa port&#233;e est &#233;gale &#224; celle de la &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sence-Terrifiante-(Capacit&#233;).html&quot; title=&quot;Pr&#233;sence terrifiante&quot;&gt;pr&#233;sence terrifiante&lt;/a&gt; du dragon.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;D&#233;placement facilit&#233; (marais) (Ext).&lt;/b&gt; Les dragons noirs tr&#232;s jeunes ou pus &#226;g&#233;s peuvent se d&#233;placer &#224; leur vitesse normale dans les mar&#233;cages et les sables mouvants sans subir de p&#233;nalit&#233;.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Flaque d&#39;acide (Sur).&lt;/b&gt; Les dragons noirs v&#233;n&#233;rables ou plus &#226;g&#233;s peuvent utiliser leur souffle pour cr&#233;er une flaque d&#39;acide par une &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions.html#SIMPLE&quot; title=&quot;Action simple&quot;&gt;action simple&lt;/a&gt;. Cette flaque a rayon de 1,50 m (1 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) par cat&#233;gorie d&#39;&#226;ge du dragon. Lors de la cr&#233;ation de la, toutes les cr&#233;atures situ&#233;es dans sa zone subissent des d&#233;g&#226;ts comme si elles avaient &#233;t&#233; soumises au souffle du dragon (un jet de &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;R&#233;flexes&quot;&gt;R&#233;flexes&lt;/a&gt; permet de les r&#233;duire de moiti&#233;). Chaque cr&#233;ature qui commence son round en &#233;tant en contact avec la flaque subit &#233;galement des d&#233;g&#226;ts et peut aussi effectuer un jet de &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;R&#233;flexes&quot;&gt;R&#233;flexes&lt;/a&gt; pour les diviser par deux. Chaque round, le nombre de d&#233;g&#226;ts inflig&#233; par la flaque est divis&#233; par deux jusqu&#39;&#224; ce que le r&#233;sultat soit inf&#233;rieur &#224; 1d6. La flaque d&#39;acide flotte sur l&#39;eau et inflige des d&#233;g&#226;ts &#224; toute ce qui se trouve en surface.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Morsure acide (Sur).&lt;/b&gt; La morsure d&#39;un vieux dragon noir inflige 2d6 points de d&#233;g&#226;ts d&#39;acide suppl&#233;mentaires. Cette quantit&#233; passe &#224; 4d6 pour les dragons v&#233;n&#233;rables et &#224; 6d6 pour les grands dracosires.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Pouvoirs magiques (Mag).&lt;/b&gt; Les dragons noirs acqui&#232;rent les pouvoirs magiques suivants, qu&#39;ils peuvent utiliser &#224; volont&#233; une fois l&#39;&#226;ge requis atteint. Adolescent - &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;T&#233;n&#232;bres.html&quot; title=&quot;T&#233;n&#232;bres&quot;&gt;t&#233;n&#232;bres&lt;/a&gt;&lt;/i&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#RAYON&quot; title=&quot;rayon&quot;&gt;rayon&lt;/a&gt; de 3 m (2 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)  par cat&#233;gorie d&#39;&#226;ge) ; Vieux - &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Croissance-V&#233;g&#233;tale.html&quot; title=&quot;Croissance v&#233;g&#233;tale&quot;&gt;croissance v&#233;g&#233;tale&lt;/a&gt;&lt;/i&gt; ; V&#233;n&#233;rable - &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Fl&#233;au-Dinsectes.html&quot; title=&quot;Fl&#233;au d&amp;#39;insectes&quot;&gt;fl&#233;au d&#39;insectes&lt;/a&gt;&lt;/i&gt;.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Respiration-Aquatique.html&quot; title=&quot;Respiration aquatique&quot;&gt;Respiration aquatique&lt;/a&gt; (Ext).&lt;/b&gt; Les dragons noirs peuvent respirer sous l&#39;eau sans limite de temps. Ils peuvent utiliser librement leur souffle, leurs sorts et leurs autres capacit&#233;s m&#234;me lorsqu&#39;ils sont immerg&#233;s.
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;h3 class=&quot;separator&quot;&gt; &lt;a class=&quot;headeranchor&quot; id=&quot;_0&quot; href=&quot;#_0&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Jeune dragon noir&lt;div style=&quot;float:right;&quot;&gt;FP 7&lt;/div&gt;&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Bestiaire&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 3.200
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Dragon.html&quot; title=&quot;Dragon&quot;&gt;Dragon&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Eau.html&quot; title=&quot;Eau (sous-type)&quot;&gt;Eau&lt;/a&gt;) de taille M, CM
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +6 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Dragon.html#SENSDRACONIQUES&quot; title=&quot;sens draconiques&quot;&gt;sens draconiques&lt;/a&gt; ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +14
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 21, contact 12, pris au d&#233;pourvu 19 (Dex +2, naturelle +9)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 76 (8d12+24)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +8, &lt;b&gt;Vig&lt;/b&gt; +9, &lt;b&gt;Vol&lt;/b&gt; +7
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Immunit&#233;s&lt;/b&gt; acide, paralysie, sommeil 
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 18 m (12 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), nage 12 m (8 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), vol 45 m (30 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) (moyenne)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; morsure, +13 (1d8+6), 2 griffes, +12 (1d6+4), 2 ailes, +7 (1d4+2)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaques sp&#233;ciales&lt;/b&gt; souffle (&lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#DEFLIGNE&quot; title=&quot;ligne&quot;&gt;ligne&lt;/a&gt; de 18 m (12 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), DD 17, 6d6 acide)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 19, &lt;b&gt;Dex&lt;/b&gt; 14, &lt;b&gt;Con&lt;/b&gt; 17, &lt;b&gt;Int&lt;/b&gt; 10, &lt;b&gt;Sag&lt;/b&gt; 13, &lt;b&gt;Cha&lt;/b&gt; 10
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +8, &lt;b&gt;BMO&lt;/b&gt; +12, &lt;b&gt;DMD&lt;/b&gt; 24 (28 contre &lt;a class=&quot;pagelink&quot; href=&quot;Croc-En-Jambe.html&quot; title=&quot;croc-en-jambe&quot;&gt;croc-en-jambe&lt;/a&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Arme-De-Pr&#233;dilection.html&quot; title=&quot;Arme de pr&#233;dilection&quot;&gt;Arme de pr&#233;dilection&lt;/a&gt; (morsure), &lt;a class=&quot;pagelink&quot; href=&quot;Science-De-Linitiative.html&quot; title=&quot;Science de l&amp;#39;initiative&quot;&gt;Science de l&#39;initiative&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Talent.html&quot; title=&quot;Talent&quot;&gt;Talent&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt;), &lt;a class=&quot;pagelink&quot; href=&quot;Vigilance.html&quot; title=&quot;Vigilance&quot;&gt;Vigilance&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; +16, &lt;a class=&quot;pagelink&quot; href=&quot;Dressage.html&quot; title=&quot;Dressage&quot;&gt;Dressage&lt;/a&gt; +8, &lt;a class=&quot;pagelink&quot; href=&quot;Intimidation.html&quot; title=&quot;Intimidation&quot;&gt;Intimidation&lt;/a&gt; +11, &lt;a class=&quot;pagelink&quot; href=&quot;Natation.html&quot; title=&quot;Natation&quot;&gt;Natation&lt;/a&gt; +23, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +14, &lt;a class=&quot;pagelink&quot; href=&quot;Vol.html&quot; title=&quot;Vol&quot;&gt;Vol&lt;/a&gt; +13
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Langues&lt;/b&gt; draconique
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Particularit&#233;s&lt;/b&gt; communication avec les reptiles, d&#233;placement facilit&#233; (marais), &lt;a class=&quot;pagelink&quot; href=&quot;Respiration-Aquatique.html&quot; title=&quot;Respiration aquatique&quot;&gt;respiration aquatique&lt;/a&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;h3 class=&quot;separator&quot;&gt; &lt;a class=&quot;headeranchor&quot; id=&quot;_1&quot; href=&quot;#_1&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Dragon noir adulte&lt;div style=&quot;float:right;&quot;&gt;FP 11&lt;/div&gt;&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Bestiaire&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 12.800
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Dragon.html&quot; title=&quot;Dragon&quot;&gt;Dragon&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Eau.html&quot; title=&quot;Eau (sous-type)&quot;&gt;Eau&lt;/a&gt;) de taille G, CM
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +5 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Dragon.html#SENSDRACONIQUES&quot; title=&quot;sens draconiques&quot;&gt;sens draconiques&lt;/a&gt; ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +24
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Aura&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Dragon.html#PRESENCETERRIFIANTE&quot; title=&quot;pr&#233;sence terrifiante (dragon)&quot;&gt;pr&#233;sence terrifiante&lt;/a&gt; (54 m (36 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), DD 19)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 28, contact 10, pris au d&#233;pourvu 27 (Dex +1, naturelle +18, taille -1)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 161 (14d12+70)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +10, &lt;b&gt;Vig&lt;/b&gt; +14, &lt;b&gt;Vol&lt;/b&gt; +12
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Immunit&#233;s&lt;/b&gt; acide, paralysie, sommeil ; &lt;b&gt;RD&lt;/b&gt; 5/magie ; &lt;b&gt;RM&lt;/b&gt; 22 
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 18 m (12 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), nage 18 m (12 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), vol 60 m (40 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) (m&#233;diocre)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; morsure, +21 (2d6+10), 2 griffes, +20 (1d8+7), 2 ailes, +15 (1d6+3), queue, +15 (1d8+10)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Espace&lt;/b&gt; 3 m (2 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) ; &lt;b&gt;Allonge&lt;/b&gt; 1,50 m (1 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) (3 m (2 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) pour la morsure)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaques sp&#233;ciales&lt;/b&gt; corruption de l&#39;eau, souffle (&lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#DEFLIGNE&quot; title=&quot;ligne&quot;&gt;ligne&lt;/a&gt; de 24 m (16 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), DD 22, 12d6 acide)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Pouvoirs magiques&lt;/b&gt; (NLS 14&lt;sup&gt;e&lt;/sup&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+&#192; volont&#233; — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;T&#233;n&#232;bres.html&quot; title=&quot;T&#233;n&#232;bres&quot;&gt;t&#233;n&#232;bres&lt;/a&gt;&lt;/i&gt; (18 m (12 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) de rayon)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Sorts connus&lt;/b&gt; (NLS 3&lt;sup&gt;e&lt;/sup&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+1&lt;sup&gt;er&lt;/sup&gt; (6/jour) — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Alarme.html&quot; title=&quot;Alarme&quot;&gt;alarme&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Armure-De-Mage.html&quot; title=&quot;Armure de mage&quot;&gt;armure de mage&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Brume-De-Dissimulation.html&quot; title=&quot;Brume de dissimulation&quot;&gt;brume de dissimulation&lt;/a&gt;&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+0 (&#224; volont&#233;) — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;D&#233;tection-De-La-Magie.html&quot; title=&quot;D&#233;tection de la magie&quot;&gt;d&#233;tection de la magie&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Lecture-De-La-Magie.html&quot; title=&quot;Lecture de la magie&quot;&gt;lecture de la magie&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Lumi&#232;res-Dansantes.html&quot; title=&quot;Lumi&#232;res dansantes&quot;&gt;lumi&#232;res dansantes&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Message.html&quot; title=&quot;Message&quot;&gt;message&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;R&#233;paration.html&quot; title=&quot;R&#233;paration&quot;&gt;r&#233;paration&lt;/a&gt;&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 25, &lt;b&gt;Dex&lt;/b&gt; 12, &lt;b&gt;Con&lt;/b&gt; 21, &lt;b&gt;Int&lt;/b&gt; 14, &lt;b&gt;Sag&lt;/b&gt; 17, &lt;b&gt;Cha&lt;/b&gt; 14
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +14, &lt;b&gt;BMO&lt;/b&gt; +22, &lt;b&gt;DMD&lt;/b&gt; 33 (37 contre &lt;a class=&quot;pagelink&quot; href=&quot;Croc-En-Jambe.html&quot; title=&quot;croc-en-jambe&quot;&gt;croc-en-jambe&lt;/a&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Arme-De-Pr&#233;dilection.html&quot; title=&quot;Arme de pr&#233;dilection&quot;&gt;Arme de pr&#233;dilection&lt;/a&gt; (morsure), &lt;a class=&quot;pagelink&quot; href=&quot;Attaque-En-Puissance.html&quot; title=&quot;Attaque en puissance&quot;&gt;Attaque en puissance&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Frappe-D&#233;cisive.html&quot; title=&quot;Frappe d&#233;cisive&quot;&gt;Frappe d&#233;cisive&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Science-De-Linitiative.html&quot; title=&quot;Science de l&amp;#39;initiative&quot;&gt;Science de l&#39;initiative&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Science-De-La-Frappe-D&#233;cisive.html&quot; title=&quot;Science de la frappe d&#233;cisive&quot;&gt;Science de la frappe d&#233;cisive&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Talent.html&quot; title=&quot;Talent&quot;&gt;Talent&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt;), &lt;a class=&quot;pagelink&quot; href=&quot;Vigilance.html&quot; title=&quot;Vigilance&quot;&gt;Vigilance&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Art-De-La-Magie.html&quot; title=&quot;Art de la magie&quot;&gt;Art de la magie&lt;/a&gt; +19, &lt;a class=&quot;pagelink&quot; href=&quot;Connaissances.html&quot; title=&quot;Connaissances&quot;&gt;Connaissances&lt;/a&gt; (myst&#232;res) +19, &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; +20, &lt;a class=&quot;pagelink&quot; href=&quot;Dressage.html&quot; title=&quot;Dressage&quot;&gt;Dressage&lt;/a&gt; +16, &lt;a class=&quot;pagelink&quot; href=&quot;Intimidation.html&quot; title=&quot;Intimidation&quot;&gt;Intimidation&lt;/a&gt; +19, &lt;a class=&quot;pagelink&quot; href=&quot;Natation.html&quot; title=&quot;Natation&quot;&gt;Natation&lt;/a&gt; +32, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +24, &lt;a class=&quot;pagelink&quot; href=&quot;Vol.html&quot; title=&quot;Vol&quot;&gt;Vol&lt;/a&gt; +12
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Langues&lt;/b&gt; commun, draconique, g&#233;ant
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Particularit&#233;s&lt;/b&gt; communication avec les reptiles, d&#233;placement facilit&#233; (marais), respiration aquatique
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;h3 class=&quot;separator&quot;&gt; &lt;a class=&quot;headeranchor&quot; id=&quot;_2&quot; href=&quot;#_2&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Dragon noir v&#233;n&#233;rable&lt;div style=&quot;float:right;&quot;&gt;FP 16&lt;/div&gt;&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Bestiaire&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 76.800
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Dragon.html&quot; title=&quot;Dragon&quot;&gt;Dragon&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Eau.html&quot; title=&quot;Eau (sous-type)&quot;&gt;Eau&lt;/a&gt;) de taille TG, CM
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +4 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Dragon.html#SENSDRACONIQUES&quot; title=&quot;sens draconiques&quot;&gt;sens draconiques&lt;/a&gt; ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +34
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Aura&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Dragon.html#PRESENCETERRIFIANTE&quot; title=&quot;pr&#233;sence terrifiante (dragon)&quot;&gt;pr&#233;sence terrifiante&lt;/a&gt; (90 m (60 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), DD 25)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 38, contact 8, pris au d&#233;pourvu 38 (naturelle +30, taille -2)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 297 (22d12+154)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +13, &lt;b&gt;Vig&lt;/b&gt; +20, &lt;b&gt;Vol&lt;/b&gt; +18
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Immunit&#233;s&lt;/b&gt; acide, paralysie, sommeil, ; &lt;b&gt;RD&lt;/b&gt; 15/magie ; &lt;b&gt;RM&lt;/b&gt; 27 
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 12 m (8 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), nage 12 m (8 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), vol 60 m (40 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) (m&#233;diocre)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; morsure, +32 (2d8+16 et 4d6 acide), 2 griffes, +31 (2d6+11), 2 ailes, +29 (1d8+5), queue, +29 (2d6+16)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Espace&lt;/b&gt; 4,50 m (3 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) ; &lt;b&gt;Allonge&lt;/b&gt; 3 m (2 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) (4,50 m (3 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) pour la morsure)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaques sp&#233;ciales&lt;/b&gt; corruption de l&#39;eau, &lt;a class=&quot;pagelink&quot; href=&quot;Dragon.html#ECRASEMENT&quot; title=&quot;&#233;crasement&quot;&gt;&#233;crasement&lt;/a&gt;, flaque d&#39;acide (15 m (10 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) de rayon), morsure acide, souffle (&lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#DEFLIGNE&quot; title=&quot;ligne&quot;&gt;ligne&lt;/a&gt; de 30 m (20 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), DD 28, 20d6 acide)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Pouvoirs magiques&lt;/b&gt; (NLS 22&lt;sup&gt;e&lt;/sup&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+&#192; volont&#233; — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Croissance-V&#233;g&#233;tale.html&quot; title=&quot;Croissance v&#233;g&#233;tale&quot;&gt;croissance v&#233;g&#233;tale&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Fl&#233;au-Dinsectes.html&quot; title=&quot;Fl&#233;au d&amp;#39;insectes&quot;&gt;fl&#233;au d&#39;insectes&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;T&#233;n&#232;bres.html&quot; title=&quot;T&#233;n&#232;bres&quot;&gt;t&#233;n&#232;bres&lt;/a&gt;&lt;/i&gt; (30 m (20 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) de rayon)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Sorts connus&lt;/b&gt; (NLS 11&lt;sup&gt;e&lt;/sup&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+5&lt;sup&gt;e&lt;/sup&gt; (4/jour) — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;C&#244;ne-De-Froid.html&quot; title=&quot;C&#244;ne de froid&quot;&gt;c&#244;ne de froid&lt;/a&gt;&lt;/i&gt; (DD 19), &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Mur-De-Force.html&quot; title=&quot;Mur de force&quot;&gt;mur de force&lt;/a&gt;&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+4&lt;sup&gt;e&lt;/sup&gt; (7/jour) — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Œil-Du-Mage.html&quot; title=&quot;Œil du mage&quot;&gt;œil du mage&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Porte-Dimensionnelle.html&quot; title=&quot;Porte dimensionnelle&quot;&gt;porte dimensionnelle&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Tentacules-Noirs.html&quot; title=&quot;Tentacules noirs&quot;&gt;tentacules noirs&lt;/a&gt;&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+3&lt;sup&gt;e&lt;/sup&gt; (7/jour) — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Dissipation-De-La-Magie.html&quot; title=&quot;Dissipation de la magie&quot;&gt;dissipation de la magie&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;H&#233;ro&#239;sme.html&quot; title=&quot;H&#233;ro&#239;sme&quot;&gt;h&#233;ro&#239;sme&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Immobilisation-De-Personne.html&quot; title=&quot;Immobilisation de personne&quot;&gt;immobilisation de personne&lt;/a&gt;&lt;/i&gt; (DD 17), &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Lenteur.html&quot; title=&quot;Lenteur&quot;&gt;lenteur&lt;/a&gt;&lt;/i&gt; (DD 17)
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+2&lt;sup&gt;e&lt;/sup&gt; (7/jour) — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Flou.html&quot; title=&quot;Flou&quot;&gt;flou&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Invisibilit&#233;.html&quot; title=&quot;Invisibilit&#233;&quot;&gt;invisibilit&#233;&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Nu&#233;e-Grouillante.html&quot; title=&quot;Nu&#233;e grouillante&quot;&gt;nu&#233;e grouillante&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Poussi&#232;re-Scintillante.html&quot; title=&quot;Poussi&#232;re scintillante&quot;&gt;poussi&#232;re scintillante&lt;/a&gt;&lt;/i&gt; (DD 16), &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Vent-De-Murmures.html&quot; title=&quot;Vent de murmures&quot;&gt;vent de murmures&lt;/a&gt;&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+1&lt;sup&gt;er&lt;/sup&gt; (7/jour) — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Alarme.html&quot; title=&quot;Alarme&quot;&gt;alarme&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Armure-De-Mage.html&quot; title=&quot;Armure de mage&quot;&gt;armure de mage&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Brume-De-Dissimulation.html&quot; title=&quot;Brume de dissimulation&quot;&gt;brume de dissimulation&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Coup-Au-But.html&quot; title=&quot;Coup au but&quot;&gt;coup au but&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Projectile-Magique.html&quot; title=&quot;Projectile magique&quot;&gt;projectile magique&lt;/a&gt;&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+0 (&#224; volont&#233;) — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;D&#233;tection-De-La-Magie.html&quot; title=&quot;D&#233;tection de la magie&quot;&gt;d&#233;tection de la magie&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Lecture-De-La-Magie.html&quot; title=&quot;Lecture de la magie&quot;&gt;lecture de la magie&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Lumi&#232;re.html&quot; title=&quot;Lumi&#232;re&quot;&gt;lumi&#232;re&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Lumi&#232;res-Dansantes.html&quot; title=&quot;Lumi&#232;res dansantes&quot;&gt;lumi&#232;res dansantes&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Manipulation-&#192;-Distance.html&quot; title=&quot;Manipulation &#224; distance&quot;&gt;manipulation &#224; distance&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Message.html&quot; title=&quot;Message&quot;&gt;message&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Prestidigitation.html&quot; title=&quot;Prestidigitation&quot;&gt;prestidigitation&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;R&#233;paration.html&quot; title=&quot;R&#233;paration&quot;&gt;r&#233;paration&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;R&#233;sistance-(Capacit&#233;).html&quot; title=&quot;r&#233;sistance&quot;&gt;r&#233;sistance&lt;/a&gt;&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 33, &lt;b&gt;Dex&lt;/b&gt; 10, &lt;b&gt;Con&lt;/b&gt; 25, &lt;b&gt;Int&lt;/b&gt; 18, &lt;b&gt;Sag&lt;/b&gt; 21, &lt;b&gt;Cha&lt;/b&gt; 18
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +22, &lt;b&gt;BMO&lt;/b&gt; +35, &lt;b&gt;DMD&lt;/b&gt; 45 (49 contre &lt;a class=&quot;pagelink&quot; href=&quot;Croc-En-Jambe.html&quot; title=&quot;croc-en-jambe&quot;&gt;croc-en-jambe&lt;/a&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Arme-De-Pr&#233;dilection.html&quot; title=&quot;Arme de pr&#233;dilection&quot;&gt;Arme de pr&#233;dilection&lt;/a&gt; (morsure), &lt;a class=&quot;pagelink&quot; href=&quot;Attaque-En-Puissance.html&quot; title=&quot;Attaque en puissance&quot;&gt;Attaque en puissance&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Attaque-En-Vol.html&quot; title=&quot;Attaque en vol&quot;&gt;Attaque en vol&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Attaques-Multiples.html&quot; title=&quot;Attaques multiples&quot;&gt;Attaques multiples&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Expertise-Du-Combat.html&quot; title=&quot;Expertise du combat&quot;&gt;Expertise du combat&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Frappe-D&#233;cisive.html&quot; title=&quot;Frappe d&#233;cisive&quot;&gt;Frappe d&#233;cisive&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Frappe-D&#233;cisive-Sup&#233;rieure.html&quot; title=&quot;Frappe d&#233;cisive sup&#233;rieure&quot;&gt;Frappe d&#233;cisive sup&#233;rieure&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Science-De-Linitiative.html&quot; title=&quot;Science de l&amp;#39;initiative&quot;&gt;Science de l&#39;initiative&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Science-De-La-Frappe-D&#233;cisive.html&quot; title=&quot;Science de la frappe d&#233;cisive&quot;&gt;Science de la frappe d&#233;cisive&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Talent.html&quot; title=&quot;Talent&quot;&gt;Talent&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt;), &lt;a class=&quot;pagelink&quot; href=&quot;Vigilance.html&quot; title=&quot;Vigilance&quot;&gt;Vigilance&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Art-De-La-Magie.html&quot; title=&quot;Art de la magie&quot;&gt;Art de la magie&lt;/a&gt; +29, &lt;a class=&quot;pagelink&quot; href=&quot;Connaissances.html&quot; title=&quot;Connaissances&quot;&gt;Connaissances&lt;/a&gt; (g&#233;ographie) +29, &lt;a class=&quot;pagelink&quot; href=&quot;Connaissances.html&quot; title=&quot;Connaissances&quot;&gt;Connaissances&lt;/a&gt; (histoire) +29, &lt;a class=&quot;pagelink&quot; href=&quot;Connaissances.html&quot; title=&quot;Connaissances&quot;&gt;Connaissances&lt;/a&gt; (myst&#232;res) +29, &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; +23, &lt;a class=&quot;pagelink&quot; href=&quot;Dressage.html&quot; title=&quot;Dressage&quot;&gt;Dressage&lt;/a&gt; +26, &lt;a class=&quot;pagelink&quot; href=&quot;Intimidation.html&quot; title=&quot;Intimidation&quot;&gt;Intimidation&lt;/a&gt; +29, &lt;a class=&quot;pagelink&quot; href=&quot;Natation.html&quot; title=&quot;Natation&quot;&gt;Natation&lt;/a&gt; +44, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +34, &lt;a class=&quot;pagelink&quot; href=&quot;Vol.html&quot; title=&quot;Vol&quot;&gt;Vol&lt;/a&gt; +17
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Langues&lt;/b&gt; commun, draconique, g&#233;ant, gobelin, orque
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Particularit&#233;s&lt;/b&gt; communication avec les reptiles, d&#233;placement facilit&#233; (marais), respiration aquatique
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;td&gt;&lt;div&gt;&lt;i&gt;Les gouttes d’acide verd&#226;tre qui s’&#233;coulent des crocs de ce dragon cornu aux &#233;cailles noires sifflent dans l’air.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Les dragons noirs utilisent la cruaut&#233; et l’intimidation pour r&#233;gner en
+ma&#238;tres incontest&#233;s sur les marais et les mar&#233;cages les plus sombres. Ils
+forcent ceux qui habitent pr&#232;s d’eux &#224; vivre dans la peur et &#233;tablissent
+g&#233;n&#233;ralement leur repaire dans les recoins &#233;loign&#233;s des marais, de
+pr&#233;f&#233;rence dans des grottes situ&#233;es au fond des &#233;tangs obscurs et
+f&#233;tides. L&#224; ils accumulent un tr&#233;sor crasseux et dorment parmi les
+racines et la vase. Les dragons noirs aiment que leur nourriture soit
+un peu faisand&#233;e : ils abandonnent souvent leur repas quelques jours
+dans un &#233;tang avant de le consommer. Ils pr&#233;f&#232;rent les tr&#233;sors qui ne
+pourrissent pas et ne se d&#233;composent pas. Leur butin se compose donc
+de pi&#232;ces, de joyaux, de bijoux et d’autres
+objets en pierre ou en
+m&#233;tal.&lt;br /&gt;&lt;br /&gt;&lt;center&gt;
+&lt;table CLASS=&quot;tablo toutgauche&quot;&gt;&lt;caption&gt;Tableau des gains de capacit&#233;s&lt;/caption&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td&gt;Cat&#233;gorie d&#39;&#226;ge &lt;/td&gt;&lt;td&gt;Capacit&#233;s sp&#233;ciales&lt;/td&gt;&lt;td&gt;NLS&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier&quot;&gt;&lt;td&gt;Dragonnet&lt;/td&gt;&lt;td&gt;immunit&#233; (acide), &lt;a class=&quot;pagelink&quot; href=&quot;Respiration-Aquatique.html&quot; title=&quot;Respiration aquatique&quot;&gt;respiration aquatique&lt;/a&gt;&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;Tr&#232;s jeune&lt;/td&gt;&lt;td&gt;D&#233;placement facilit&#233; (marais)&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Jeune&lt;/td&gt;&lt;td&gt;communication avec les reptiles&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;Adolescent&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;T&#233;n&#232;bres.html&quot; title=&quot;T&#233;n&#232;bres&quot;&gt;t&#233;n&#232;bres&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Jeune adulte&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;R&#233;duction-De-D&#233;g&#226;ts-(Capacit&#233;).html&quot; title=&quot;RD&quot;&gt;RD&lt;/a&gt; 5/magie ; &lt;a class=&quot;pagelink&quot; href=&quot;R&#233;sistance-&#192;-La-Magie-(Capacit&#233;).html&quot; title=&quot;RM&quot;&gt;RM&lt;/a&gt;&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;Adulte&lt;/td&gt;&lt;td&gt;corruption de l&#39;eau, &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sence-Terrifiante-(Capacit&#233;).html&quot; title=&quot;Pr&#233;sence terrifiante&quot;&gt;pr&#233;sence terrifiante&lt;/a&gt;&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&#194;ge m&#251;r&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;R&#233;duction-De-D&#233;g&#226;ts-(Capacit&#233;).html&quot; title=&quot;RD&quot;&gt;RD&lt;/a&gt; 10/magie&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;Vieux&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Croissance-V&#233;g&#233;tale.html&quot; title=&quot;Croissance v&#233;g&#233;tale&quot;&gt;croissance v&#233;g&#233;tale&lt;/a&gt;&lt;/i&gt;, morsure acide&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Tr&#232;s vieux&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;R&#233;duction-De-D&#233;g&#226;ts-(Capacit&#233;).html&quot; title=&quot;RD&quot;&gt;RD&lt;/a&gt; 15/magie&lt;/td&gt;&lt;td&gt;7&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;V&#233;n&#233;rable&lt;/td&gt;&lt;td&gt;flaque d&#39;acide, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Fl&#233;au-Dinsectes.html&quot; title=&quot;Fl&#233;au d&amp;#39;insectes&quot;&gt;fl&#233;au d&#39;insectes&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;9&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Dracosire&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;R&#233;duction-De-D&#233;g&#226;ts-(Capacit&#233;).html&quot; title=&quot;RD&quot;&gt;RD&lt;/a&gt; 20/magie&lt;/td&gt;&lt;td&gt;11&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;Grand dracosire&lt;/td&gt;&lt;td&gt;charme-reptiles&lt;/td&gt;&lt;td&gt;13&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/center&gt;
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Dragon chromatique noir|}
+{s:pucem|Dragon|Marais|Tropical}
+{s:BDTexte|''Source : Bestiaire p.100''}
+{s:BDTexte|[[type Dragon|Dragon]] ([[sous-type Eau|Eau]]), CM}
+{s:BDSousTitre|Statistiques de base}
+{s:BDTexte|'''FP''' 3 ; '''Taille''' TP ; '''DV''' 4d12}
+{s:BDTexte|'''VD''' 18 m (12 {s:c}), nage 18 m (12 {s:c})}
+{s:BDTexte|'''Armure naturelle'''+3 ; '''Souffle''' [[ligne]], 2d6 acide}
+{s:BDTexte|'''For''' 11, '''Dex''' 16, '''Con''' 13, '''Int''' 8, '''Sag''' 11, '''Cha''' 8}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' marais chauds}
+{s:BDTexte|'''Organisation sociale''' solitaire}
+{s:BDTexte|'''Trésor''' triple}
+{s:BDSousTitre|Particularités}
+{s:BDTexte|'''Charme reptiles (Mag).''' Un grand dracosire noir peut utiliser cette capacité trois fois par jour. Elle fonctionne comme un sort de ''[[charme-monstre de groupe]]'' qui n'affecterait que les reptiles. Cette capacité équivaut à un sort de 8<sup>e</sup> niveau.}
+{s:BDTexte|'''Communication avec les reptiles (Mag).''' Les dragons noirs jeunes ou plus âgés la capacité constante de pouvoir communiquer avec les reptiles. Cela fonctionne comme un sort de ''[[communication avec les animaux]]'' limité aux reptiles.}
+{s:BDTexte|'''Corruption de l'eau (Mag).''' Une fois par jour, un dragon noir adulte ou plus âgé peut croupir jusqu'à 300 litres d'eau stagnante, la rendant impropre à la consommation et inutilisable par les créatures pouvant respirer sous l'eau. Cette capacité peut également affecter les liquides qui contiennent de l'eau. Les objets magiques liquides (comme les [[potions magiques|potions]]) et les liquides qui se trouvent dans les possessions d'une personne bénéficient d'un jet de [[Volonté]] ([[DD]] égal à celui de la [[présence terrifiante]] du dragon) pour ne pas devenir inutilisables. Cette capacité équivaut à un sort de 1<sup>er</sup> niveau. Sa portée est égale à celle de la [[présence terrifiante]] du dragon.}
+{s:BDTexte|'''Déplacement facilité (marais) (Ext).''' Les dragons noirs très jeunes ou pus âgés peuvent se déplacer à leur vitesse normale dans les marécages et les sables mouvants sans subir de pénalité.}
+{s:BDTexte|'''Flaque d'acide (Sur).''' Les dragons noirs vénérables ou plus âgés peuvent utiliser leur souffle pour créer une flaque d'acide par une [[action simple]]. Cette flaque a rayon de 1,50 m (1 {s:c}) par catégorie d'âge du dragon. Lors de la création de la, toutes les créatures situées dans sa zone subissent des dégâts comme si elles avaient été soumises au souffle du dragon (un jet de [[Réflexes]] permet de les réduire de moitié). Chaque créature qui commence son round en étant en contact avec la flaque subit également des dégâts et peut aussi effectuer un jet de [[Réflexes]] pour les diviser par deux. Chaque round, le nombre de dégâts infligé par la flaque est divisé par deux jusqu'à ce que le résultat soit inférieur à 1d6. La flaque d'acide flotte sur l'eau et inflige des dégâts à toute ce qui se trouve en surface.}
+{s:BDTexte|'''Morsure acide (Sur).''' La morsure d'un vieux dragon noir inflige 2d6 points de dégâts d'acide supplémentaires. Cette quantité passe à 4d6 pour les dragons vénérables et à 6d6 pour les grands dracosires.}
+{s:BDTexte|'''Pouvoirs magiques (Mag).''' Les dragons noirs acquièrent les pouvoirs magiques suivants, qu'ils peuvent utiliser à volonté une fois l'âge requis atteint. Adolescent - ''[[ténèbres]]'' ([[rayon]] de 3 m (2 {s:c})  par catégorie d'âge) ; Vieux - ''[[croissance végétale]]'' ; Vénérable - ''[[fléau dinsectes|fléau d'insectes]]''.}
+{s:BDTexte|'''[[Respiration aquatique]] (Ext).''' Les dragons noirs peuvent respirer sous l'eau sans limite de temps. Ils peuvent utiliser librement leur souffle, leurs sorts et leurs autres capacités même lorsqu'ils sont immergés.}
+</div>
+==== ====
+<div class="BD">
+{s:BDTitre|Jeune dragon noir|FP 7}
+{s:pucem|Dragon|Marais|Tropical}
+{s:BDTexte|''Source : Bestiaire''}
+{s:BDTexte|'''PX''' 3.200}
+{s:BDTexte|[[type Dragon|Dragon]] ([[sous-type Eau|Eau]]) de taille M, CM}
+{s:BDTexte|'''Init''' +6 ; '''Sens''' [[sens draconiques]] ; [[Perception]] +14}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 21, contact 12, pris au dépourvu 19 (Dex +2, naturelle +9)}
+{s:BDTexte|'''pv''' 76 (8d12+24)}
+{s:BDTexte|'''Réf''' +8, '''Vig''' +9, '''Vol''' +7}
+{s:BDTexte|'''Immunités''' acide, paralysie, sommeil }
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 18 m (12 {s:c}), nage 12 m (8 {s:c}), vol 45 m (30 {s:c}) (moyenne)}
+{s:BDTexte|'''Corps à corps''' morsure, +13 (1d8+6), 2 griffes, +12 (1d6+4), 2 ailes, +7 (1d4+2)}
+{s:BDTexte|'''Attaques spéciales''' souffle ([[ligne]] de 18 m (12 {s:c}), DD 17, 6d6 acide)}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 19, '''Dex''' 14, '''Con''' 17, '''Int''' 10, '''Sag''' 13, '''Cha''' 10}
+{s:BDTexte|'''BBA''' +8, '''BMO''' +12, '''DMD''' 24 (28 contre [[croc-en-jambe]])}
+{s:BDTexte|'''Dons''' [[Arme de prédilection]] (morsure), [[Science de linitiative|Science de l'initiative]], [[Talent]] ([[Discrétion]]), [[Vigilance]]}
+{s:BDTexte|'''Compétences''' [[Discrétion]] +16, [[Dressage]] +8, [[Intimidation]] +11, [[Natation]] +23, [[Perception]] +14, [[Vol]] +13}
+{s:BDTexte|'''Langues''' draconique}
+{s:BDTexte|'''Particularités''' communication avec les reptiles, déplacement facilité (marais), [[respiration aquatique]]}
+</div>
+==== ====
+<div class="BD">
+{s:BDTitre|Dragon noir adulte|FP 11}
+{s:pucem|Dragon|Marais|Tropical}
+{s:BDTexte|''Source : Bestiaire''}
+{s:BDTexte|'''PX''' 12.800}
+{s:BDTexte|[[type Dragon|Dragon]] ([[sous-type Eau|Eau]]) de taille G, CM}
+{s:BDTexte|'''Init''' +5 ; '''Sens''' [[sens draconiques]] ; [[Perception]] +24}
+{s:BDTexte|'''Aura''' [[présence terrifiante (dragon)|présence terrifiante]] (54 m (36 {s:c}), DD 19)}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 28, contact 10, pris au dépourvu 27 (Dex +1, naturelle +18, taille -1)}
+{s:BDTexte|'''pv''' 161 (14d12+70)}
+{s:BDTexte|'''Réf''' +10, '''Vig''' +14, '''Vol''' +12}
+{s:BDTexte|'''Immunités''' acide, paralysie, sommeil ; '''RD''' 5/magie ; '''RM''' 22 }
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 18 m (12 {s:c}), nage 18 m (12 {s:c}), vol 60 m (40 {s:c}) (médiocre)}
+{s:BDTexte|'''Corps à corps''' morsure, +21 (2d6+10), 2 griffes, +20 (1d8+7), 2 ailes, +15 (1d6+3), queue, +15 (1d8+10)}
+{s:BDTexte|'''Espace''' 3 m (2 {s:c}) ; '''Allonge''' 1,50 m (1 {s:c}) (3 m (2 {s:c}) pour la morsure)}
+{s:BDTexte|'''Attaques spéciales''' corruption de l'eau, souffle ([[ligne]] de 24 m (16 {s:c}), DD 22, 12d6 acide)}
+{s:BDTexte|'''Pouvoirs magiques''' (NLS 14<sup>e</sup>)}
+{s:BDSorts|À volonté — ''[[ténèbres]]'' (18 m (12 {s:c}) de rayon)}
+{s:BDTexte|'''Sorts connus''' (NLS 3<sup>e</sup>)}
+{s:BDSorts|1<sup>er</sup> (6/jour) — ''[[alarme]]'', ''[[armure de mage]]'', ''[[brume de dissimulation]]''}
+{s:BDSorts|0 (à volonté) — ''[[détection de la magie]]'', ''[[lecture de la magie]]'', ''[[lumières dansantes]]'', ''[[message]]'', ''[[réparation]]''}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 25, '''Dex''' 12, '''Con''' 21, '''Int''' 14, '''Sag''' 17, '''Cha''' 14}
+{s:BDTexte|'''BBA''' +14, '''BMO''' +22, '''DMD''' 33 (37 contre [[croc-en-jambe]])}
+{s:BDTexte|'''Dons''' [[Arme de prédilection]] (morsure), [[Attaque en puissance]], [[Frappe décisive]], [[Science de linitiative|Science de l'initiative]], [[Science de la frappe décisive]], [[Talent]] ([[Discrétion]]), [[Vigilance]]}
+{s:BDTexte|'''Compétences''' [[Art de la magie]] +19, [[Connaissances]] (mystères) +19, [[Discrétion]] +20, [[Dressage]] +16, [[Intimidation]] +19, [[Natation]] +32, [[Perception]] +24, [[Vol]] +12}
+{s:BDTexte|'''Langues''' commun, draconique, géant}
+{s:BDTexte|'''Particularités''' communication avec les reptiles, déplacement facilité (marais), respiration aquatique}
+</div>
+==== ====
+<div class="BD">
+{s:BDTitre|Dragon noir vénérable|FP 16}
+{s:pucem|Dragon|Marais|Tropical}
+{s:BDTexte|''Source : Bestiaire''}
+{s:BDTexte|'''PX''' 76.800}
+{s:BDTexte|[[type Dragon|Dragon]] ([[sous-type Eau|Eau]]) de taille TG, CM}
+{s:BDTexte|'''Init''' +4 ; '''Sens''' [[sens draconiques]] ; [[Perception]] +34}
+{s:BDTexte|'''Aura''' [[présence terrifiante (dragon)|présence terrifiante]] (90 m (60 {s:c}), DD 25)}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 38, contact 8, pris au dépourvu 38 (naturelle +30, taille -2)}
+{s:BDTexte|'''pv''' 297 (22d12+154)}
+{s:BDTexte|'''Réf''' +13, '''Vig''' +20, '''Vol''' +18}
+{s:BDTexte|'''Immunités''' acide, paralysie, sommeil, ; '''RD''' 15/magie ; '''RM''' 27 }
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 12 m (8 {s:c}), nage 12 m (8 {s:c}), vol 60 m (40 {s:c}) (médiocre)}
+{s:BDTexte|'''Corps à corps''' morsure, +32 (2d8+16 et 4d6 acide), 2 griffes, +31 (2d6+11), 2 ailes, +29 (1d8+5), queue, +29 (2d6+16)}
+{s:BDTexte|'''Espace''' 4,50 m (3 {s:c}) ; '''Allonge''' 3 m (2 {s:c}) (4,50 m (3 {s:c}) pour la morsure)}
+{s:BDTexte|'''Attaques spéciales''' corruption de l'eau, [[écrasement]], flaque d'acide (15 m (10 {s:c}) de rayon), morsure acide, souffle ([[ligne]] de 30 m (20 {s:c}), DD 28, 20d6 acide)}
+{s:BDTexte|'''Pouvoirs magiques''' (NLS 22<sup>e</sup>)}
+{s:BDSorts|À volonté — ''[[croissance végétale]]'', ''[[fléau dinsectes|fléau d'insectes]]'', ''[[ténèbres]]'' (30 m (20 {s:c}) de rayon)}
+{s:BDTexte|'''Sorts connus''' (NLS 11<sup>e</sup>)}
+{s:BDSorts|5<sup>e</sup> (4/jour) — ''[[cône de froid]]'' (DD 19), ''[[mur de force]]''}
+{s:BDSorts|4<sup>e</sup> (7/jour) — ''[[œil du mage]]'', ''[[porte dimensionnelle]]'', ''[[tentacules noirs]]''}
+{s:BDSorts|3<sup>e</sup> (7/jour) — ''[[dissipation de la magie]]'', ''[[héroïsme]]'', ''[[immobilisation de personne]]'' (DD 17), ''[[lenteur]]'' (DD 17)}
+{s:BDSorts|2<sup>e</sup> (7/jour) — ''[[flou]]'', ''[[invisibilité]]'', ''[[nuée grouillante]]'', ''[[poussière scintillante]]'' (DD 16), ''[[vent de murmures]]''}
+{s:BDSorts|1<sup>er</sup> (7/jour) — ''[[alarme]]'', ''[[armure de mage]]'', ''[[brume de dissimulation]]'', ''[[coup au but]]'', ''[[projectile magique]]''}
+{s:BDSorts|0 (à volonté) — ''[[détection de la magie]]'', ''[[lecture de la magie]]'', ''[[lumière]]'', ''[[lumières dansantes]]'', ''[[manipulation à distance]]'', ''[[message]]'', ''[[prestidigitation]]'', ''[[réparation]]'', ''[[résistance]]''}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 33, '''Dex''' 10, '''Con''' 25, '''Int''' 18, '''Sag''' 21, '''Cha''' 18}
+{s:BDTexte|'''BBA''' +22, '''BMO''' +35, '''DMD''' 45 (49 contre [[croc-en-jambe]])}
+{s:BDTexte|'''Dons''' [[Arme de prédilection]] (morsure), [[Attaque en puissance]], [[Attaque en vol]], [[Attaques multiples]], [[Expertise du combat]], [[Frappe décisive]], [[Frappe décisive supérieure]], [[Science de linitiative|Science de l'initiative]], [[Science de la frappe décisive]], [[Talent]] ([[Discrétion]]), [[Vigilance]]}
+{s:BDTexte|'''Compétences''' [[Art de la magie]] +29, [[Connaissances]] (géographie) +29, [[Connaissances]] (histoire) +29, [[Connaissances]] (mystères) +29, [[Discrétion]] +23, [[Dressage]] +26, [[Intimidation]] +29, [[Natation]] +44, [[Perception]] +34, [[Vol]] +17}
+{s:BDTexte|'''Langues''' commun, draconique, géant, gobelin, orque}
+{s:BDTexte|'''Particularités''' communication avec les reptiles, déplacement facilité (marais), respiration aquatique}
+</div>
+</td><td><div>''Les gouttes d’acide verdâtre qui s’écoulent des crocs de ce dragon cornu aux écailles noires sifflent dans l’air.''
+
+Les dragons noirs utilisent la cruauté et l’intimidation pour régner en
+maîtres incontestés sur les marais et les marécages les plus sombres. Ils
+forcent ceux qui habitent près d’eux à vivre dans la peur et établissent
+généralement leur repaire dans les recoins éloignés des marais, de
+préférence dans des grottes situées au fond des étangs obscurs et
+fétides. Là ils accumulent un trésor crasseux et dorment parmi les
+racines et la vase. Les dragons noirs aiment que leur nourriture soit
+un peu faisandée : ils abandonnent souvent leur repas quelques jours
+dans un étang avant de le consommer. Ils préfèrent les trésors qui ne
+pourrissent pas et ne se décomposent pas. Leur butin se compose donc
+de pièces, de joyaux, de bijoux et d’autres
+objets en pierre ou en
+métal.
+
+<center>
+{| CLASS="tablo toutgauche"
+|+ Tableau des gains de capacités
+|- CLASS="titre"
+| Catégorie d'âge  || Capacités spéciales || NLS
+|- CLASS="premier"
+| Dragonnet || immunité (acide), [[respiration aquatique]] || —
+|- CLASS="alt"
+| Très jeune || Déplacement facilité (marais) || —
+|-
+| Jeune || communication avec les reptiles || —
+|- CLASS="alt"
+| Adolescent || ''[[ténèbres]]'' || —
+|-
+| Jeune adulte || [[RD]] 5/magie ; [[RM]] || —
+|- CLASS="alt"
+| Adulte || corruption de l'eau, [[présence terrifiante]] || 1
+|-
+| Âge mûr || [[RD]] 10/magie || 3
+|- CLASS="alt"
+| Vieux || ''[[croissance végétale]]'', morsure acide || 5
+|-
+| Très vieux || [[RD]] 15/magie || 7
+|- CLASS="alt"
+| Vénérable || flaque d'acide, ''[[fléau dinsectes|fléau d'insectes]]'' || 9
+|-
+| Dracosire || [[RD]] 20/magie || 11
+|- CLASS="alt"
+| Grand dracosire || charme-reptiles || 13
+|}
+</center>
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Dragon noir</fullName>
+</wikiPage>

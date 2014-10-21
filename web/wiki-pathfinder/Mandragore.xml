@@ -1,0 +1,135 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Mandragore</title>
+  <categories><category>Pathfinder-RPG.Bestiaire 2</category><category>Pathfinder-RPG.Monstre</category><category>Pathfinder-RPG.Règles officielles</category></categories>
+  <lastModified>2013-02-07 19:48:14Z</lastModified>
+  <version>4</version>
+  <inLinks><link>Pathfinder-RPG.Glossaire des monstres</link><link>Pathfinder-RPG.Liste de monstres par FP</link><link>Pathfinder-RPG.Liste de monstres par milieu naturel</link><link>Pathfinder-RPG.Liste de monstres par type</link><link>Pathfinder-RPG.Monstres</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.type Plante</link><link>Pathfinder-RPG.vision nocturne</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Traits des plantes</link><link>Pathfinder-RPG.Étreinte</link><link>Pathfinder-RPG.absorption de sang (capacité)</link><link>Pathfinder-RPG.lutte</link><link>Pathfinder-RPG.Attaque en finesse</link><link>Pathfinder-RPG.Réflexes surhumains</link><link>Pathfinder-RPG.Talent</link><link>Pathfinder-RPG.Discrétion</link><link>Pathfinder-RPG.Escalade</link><link>Pathfinder-RPG.Nauséeux</link><link>Pathfinder-RPG.Confusion</link><link>Pathfinder-RPG.Fatigue</link><link>Pathfinder-RPG.Ténèbres profondes</link><link>Pathfinder-RPG.Ténèbres</link><link>Pathfinder-RPG.Lenteur</link><link>Pathfinder-RPG.scrutation</link><link>Pathfinder-RPG.Démon</link><link>Pathfinder-RPG.Artisanat</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Mandragore&lt;div style=&quot;float:right;&quot;&gt;FP 4&lt;/div&gt;&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Bestiaire 2, p.194&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 1 200
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Plante.html&quot; title=&quot;Plante&quot;&gt;Plante&lt;/a&gt; de taille P, CM
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +4 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Nocturne-(Capacit&#233;).html&quot; title=&quot;vision nocturne&quot;&gt;vision nocturne&lt;/a&gt; ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +9
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 17, contact 15, pris au d&#233;pourvu 13 (Dex +4, naturelle +2, taille +1)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 37 (5d8+15)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +7, &lt;b&gt;Vig&lt;/b&gt; +7, &lt;b&gt;Vol&lt;/b&gt; +2
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Immunit&#233;s&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Traits-Des-Plantes-(Capacit&#233;).html&quot; title=&quot;Traits des plantes&quot;&gt;traits des plantes&lt;/a&gt; ; &lt;b&gt;R&#233;sistances&lt;/b&gt; acide 5, &#233;lectricit&#233; 10, froid 5 ; &lt;b&gt;Faiblesses&lt;/b&gt; vuln&#233;rable aux t&#233;n&#232;bres surnaturelles 
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 12 m (9 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), creusement 3 m (2 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), escalade 12 m (9 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; morsure, +8 (1d6+2 plus &lt;a class=&quot;pagelink&quot; href=&quot;&#201;treinte-(Capacit&#233;).html&quot; title=&quot;&#201;treinte&quot;&gt;&#233;treinte&lt;/a&gt;) et 2 coups, +8 (1d4+2 plus poison)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Espace&lt;/b&gt; 1,50 m (1 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) ; &lt;b&gt;Allonge&lt;/b&gt; 1,50 (1 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) (3 m (2 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) pour les coups
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaques sp&#233;ciales&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Absorption-De-Sang-(Capacit&#233;).html&quot; title=&quot;Absorption de sang (Ext)&quot;&gt;absorption de sang&lt;/a&gt; (1d2 Constitution), hurlement
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 15, &lt;b&gt;Dex&lt;/b&gt; 18, &lt;b&gt;Con&lt;/b&gt; 17, &lt;b&gt;Int&lt;/b&gt; 8, &lt;b&gt;Sag&lt;/b&gt; 13, &lt;b&gt;Cha&lt;/b&gt; 10
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +3, &lt;b&gt;BMO&lt;/b&gt; +4 (+8 &lt;a class=&quot;pagelink&quot; href=&quot;Manœuvres-Offensives.html#LUTTE&quot; title=&quot;lutte&quot;&gt;lutte&lt;/a&gt;), &lt;b&gt;DMD&lt;/b&gt; 18
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Attaque-En-Finesse.html&quot; title=&quot;Attaque en finesse&quot;&gt;Attaque en finesse&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;R&#233;flexes-Surhumains.html&quot; title=&quot;R&#233;flexes surhumains&quot;&gt;R&#233;flexes surhumains&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Talent.html&quot; title=&quot;Talent&quot;&gt;Talent&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; +14 (+22 au sein de la v&#233;g&#233;tation), &lt;a class=&quot;pagelink&quot; href=&quot;Escalade.html&quot; title=&quot;Escalade&quot;&gt;Escalade&lt;/a&gt; +10, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +9 ; &lt;b&gt;Modificateurs raciaux&lt;/b&gt; +8 en &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; au sein de la v&#233;g&#233;tation
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Langues&lt;/b&gt; abyssal, commun
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; for&#234;ts temp&#233;r&#233;es ou  froides
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation sociale&lt;/b&gt; solitaire, couple ou plant (3-12)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; standard
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Pouvoirs sp&#233;ciaux&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Hurlement (Sur).&lt;/b&gt; Une fois par jour, une mandragore peut utiliser une action simple pour pousser un cri perturbant. Toutes les cr&#233;atures situ&#233;es dans une &#233;tendue de 9 m&#232;tres autour d’elle doivent r&#233;ussir un jet de Volont&#233; de DD 15 pour ne pas &#234;tre &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables.html#Naus&#233;eux&quot; title=&quot;Naus&#233;eux&quot;&gt;naus&#233;euses&lt;/a&gt; pendant 1d4 rounds. Il s’agit d’une capacit&#233; mentale de son. Le DD du jet de sauvegarde d&#233;pend de la Constitution.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Poison (Ext).&lt;/b&gt; Coup — blessure ; &lt;i&gt;JdS&lt;/i&gt; Vigueur DD 15 ; &lt;i&gt;fr&#233;quence&lt;/i&gt; 1/round pendant 4 rounds ; &lt;i&gt;effet&lt;/i&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Confusion.html&quot; title=&quot;Confusion&quot;&gt;confusion&lt;/a&gt; et &lt;a class=&quot;pagelink&quot; href=&quot;Fatigue.html&quot; title=&quot;Fatigue&quot;&gt;fatigue&lt;/a&gt; ; &lt;i&gt;gu&#233;rison&lt;/i&gt; l’effet prend fin si on tire le r&#233;sultat &#171; agir normalement &#187; sur la table
+de comportement des individus confus.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Vuln&#233;rable aux t&#233;n&#232;bres surnaturelles (Ext).&lt;/b&gt; Dans les zones de t&#233;n&#232;bres surnaturelles (comme celles cr&#233;&#233;es par un sort de &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;T&#233;n&#232;bres-Profondes.html&quot; title=&quot;T&#233;n&#232;bres profondes&quot;&gt;t&#233;n&#232;bres profondes&lt;/a&gt;&lt;/i&gt;, mais pas celles d’un sort de &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;T&#233;n&#232;bres.html&quot; title=&quot;T&#233;n&#232;bres&quot;&gt;t&#233;n&#232;bres&lt;/a&gt;&lt;/i&gt;), la mandragore est ralentie, comme par le sort de &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Lenteur.html&quot; title=&quot;Lenteur&quot;&gt;lenteur&lt;/a&gt;&lt;/i&gt;.
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;td&gt;&lt;div&gt;&lt;i&gt;Cette cr&#233;ature crasseuse ressemblent &#224; un petit enfant gras, dot&#233; d’une bouche tr&#232;s large et compos&#233; de feuilles, de lianes, d’&#233;corce, de terre et de tubercules p&#226;les.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Les mandragores (cr&#233;atures) se cr&#233;ent de mani&#232;re spontan&#233;e &#224; partir de racines de mandragore (plante) qui se sont nourries du corps ou des substances corporelles d’un d&#233;mon. Une mandragore moyenne mesure &#224; peine plus de 90 cm et ne p&#232;se que quelque 15 kg mais, malgr&#233; sa taille, elle dispose d’une force et d’une cruaut&#233; impressionnantes. Quand une mandragore attaque, ses doigts s’allongent en lianes &#233;pineuses de pr&#232;s de 3 m&#232;tres de long, qu’elle utilise pour effectuer ses attaques de coup.&lt;br /&gt;&lt;br /&gt;Les mandragores ne s’&#233;loignent gu&#232;re de leurs repaires cach&#233;s dans les amas de racines ou de lianes entrem&#234;l&#233;es, mais elles attaquent toutes les cr&#233;atures qu’elles croisent, m&#234;me si elles paraissent beaucoup plus puissantes qu’elles. La plupart des mandragores peuvent cependant reconna&#238;tre les druides et ne les agressent pas, ni eux ni leurs compagnons animaux, &#224; moins qu’ils ne les attaquent en premier. Cette protection ne s’&#233;tend cependant pas aux autres alli&#233;s des druides.&lt;br /&gt;&lt;br /&gt;Quand on m&#233;lange du poison de mandragore avec un peu de l’&#233;pais liquide gluant qui leur sert de s&#232;ve et de sang et qu’on ajoute 1 000 po de r&#233;actifs alchimiques, on obtient un fluide qui peut &#234;tre utilis&#233; comme focalisateur pour un sort de &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Scrutation.html&quot; title=&quot;Scrutation&quot;&gt;scrutation&lt;/a&gt;&lt;/i&gt;. Le fluide ne reste efficace que pendant la dur&#233;e de l’incantation du sort et des effets qui en r&#233;sultent, mais le sujet de la scrutation subit un malus de –4 au jet de sauvegarde pour y r&#233;sister.
+Les racines de mandragore qui poussent pr&#232;s ou sur un corps (ou des substances corporelles) de &lt;a class=&quot;pagelink&quot; href=&quot;D&#233;mon.html&quot; title=&quot;D&#233;mon&quot;&gt;d&#233;mon&lt;/a&gt; ont 2% de chance de s’&#233;veiller en tant que mandragores un jour apr&#232;s avoir absorb&#233; cette mati&#232;re corrompue. Ceux qui d&#233;sirent cr&#233;er des mandragores peuvent le faire en employant une m&#233;thode alchimique : le proc&#233;d&#233; n&#233;cessite un jour de travail, une racine de mandragore, quelques litres du substances corporelles de &lt;a class=&quot;pagelink&quot; href=&quot;D&#233;mon.html&quot; title=&quot;D&#233;mon&quot;&gt;d&#233;mon&lt;/a&gt; ou le corps d’un &lt;a class=&quot;pagelink&quot; href=&quot;D&#233;mon.html&quot; title=&quot;D&#233;mon&quot;&gt;d&#233;mon&lt;/a&gt; de FP sup&#233;rieur ou &#233;gal &#224; 6 et un test d’&lt;a class=&quot;pagelink&quot; href=&quot;Artisanat.html&quot; title=&quot;Artisanat&quot;&gt;Artisanat&lt;/a&gt; (alchimie) r&#233;ussi contre un DD de 25. La mandragore nouvellement cr&#233;&#233;e est hostile m&#234;me envers son cr&#233;ateur.
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Mandragore|FP 4}
+{s:pucem|Plante|Forêt-Jungle|Tempéré}
+{s:BDTexte|''Source : Bestiaire 2, p.194''}
+{s:BDTexte|'''PX''' 1 200}
+{s:BDTexte|[[type Plante|Plante]] de taille P, CM}
+{s:BDTexte|'''Init''' +4 ; '''Sens''' [[vision nocturne]] ; [[Perception]] +9}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 17, contact 15, pris au dépourvu 13 (Dex +4, naturelle +2, taille +1)}
+{s:BDTexte|'''pv''' 37 (5d8+15)}
+{s:BDTexte|'''Réf''' +7, '''Vig''' +7, '''Vol''' +2}
+{s:BDTexte|'''Immunités''' [[traits des plantes]] ; '''Résistances''' acide 5, électricité 10, froid 5 ; '''Faiblesses''' vulnérable aux ténèbres surnaturelles }
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 12 m (9 {s:c}), creusement 3 m (2 {s:c}), escalade 12 m (9 {s:c})}
+{s:BDTexte|'''Corps à corps''' morsure, +8 (1d6+2 plus [[étreinte]]) et 2 coups, +8 (1d4+2 plus poison)}
+{s:BDTexte|'''Espace''' 1,50 m (1 {s:c}) ; '''Allonge''' 1,50 (1 {s:c}) (3 m (2 {s:c}) pour les coups}
+{s:BDTexte|'''Attaques spéciales''' [[absorption de sang (capacité)|absorption de sang]] (1d2 Constitution), hurlement}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 15, '''Dex''' 18, '''Con''' 17, '''Int''' 8, '''Sag''' 13, '''Cha''' 10}
+{s:BDTexte|'''BBA''' +3, '''BMO''' +4 (+8 [[lutte]]), '''DMD''' 18}
+{s:BDTexte|'''Dons''' [[Attaque en finesse]], [[Réflexes surhumains]], [[Talent]] ([[Perception]])}
+{s:BDTexte|'''Compétences''' [[Discrétion]] +14 (+22 au sein de la végétation), [[Escalade]] +10, [[Perception]] +9 ; '''Modificateurs raciaux''' +8 en [[Discrétion]] au sein de la végétation}
+{s:BDTexte|'''Langues''' abyssal, commun}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' forêts tempérées ou  froides}
+{s:BDTexte|'''Organisation sociale''' solitaire, couple ou plant (3-12)}
+{s:BDTexte|'''Trésor''' standard}
+{s:BDSousTitre|Pouvoirs spéciaux}
+{s:BDTexte|'''Hurlement (Sur).''' Une fois par jour, une mandragore peut utiliser une action simple pour pousser un cri perturbant. Toutes les créatures situées dans une étendue de 9 mètres autour d’elle doivent réussir un jet de Volonté de DD 15 pour ne pas être [[nauséeux|nauséeuses]] pendant 1d4 rounds. Il s’agit d’une capacité mentale de son. Le DD du jet de sauvegarde dépend de la Constitution.}
+{s:BDTexte|'''Poison (Ext).''' Coup — blessure ; ''JdS'' Vigueur DD 15 ; ''fréquence'' 1/round pendant 4 rounds ; ''effet'' [[confusion]] et [[fatigue]] ; ''guérison'' l’effet prend fin si on tire le résultat « agir normalement » sur la table
+de comportement des individus confus.}
+{s:BDTexte|'''Vulnérable aux ténèbres surnaturelles (Ext).''' Dans les zones de ténèbres surnaturelles (comme celles créées par un sort de ''[[ténèbres profondes]]'', mais pas celles d’un sort de ''[[ténèbres]]''), la mandragore est ralentie, comme par le sort de ''[[lenteur]]''.}
+</div>
+</td><td><div>''Cette créature crasseuse ressemblent à un petit enfant gras, doté d’une bouche très large et composé de feuilles, de lianes, d’écorce, de terre et de tubercules pâles.''
+
+Les mandragores (créatures) se créent de manière spontanée à partir de racines de mandragore (plante) qui se sont nourries du corps ou des substances corporelles d’un démon. Une mandragore moyenne mesure à peine plus de 90 cm et ne pèse que quelque 15 kg mais, malgré sa taille, elle dispose d’une force et d’une cruauté impressionnantes. Quand une mandragore attaque, ses doigts s’allongent en lianes épineuses de près de 3 mètres de long, qu’elle utilise pour effectuer ses attaques de coup.
+
+Les mandragores ne s’éloignent guère de leurs repaires cachés dans les amas de racines ou de lianes entremêlées, mais elles attaquent toutes les créatures qu’elles croisent, même si elles paraissent beaucoup plus puissantes qu’elles. La plupart des mandragores peuvent cependant reconnaître les druides et ne les agressent pas, ni eux ni leurs compagnons animaux, à moins qu’ils ne les attaquent en premier. Cette protection ne s’étend cependant pas aux autres alliés des druides.
+
+Quand on mélange du poison de mandragore avec un peu de l’épais liquide gluant qui leur sert de sève et de sang et qu’on ajoute 1 000 po de réactifs alchimiques, on obtient un fluide qui peut être utilisé comme focalisateur pour un sort de ''[[scrutation]]''. Le fluide ne reste efficace que pendant la durée de l’incantation du sort et des effets qui en résultent, mais le sujet de la scrutation subit un malus de –4 au jet de sauvegarde pour y résister.
+Les racines de mandragore qui poussent près ou sur un corps (ou des substances corporelles) de [[démon]] ont 2% de chance de s’éveiller en tant que mandragores un jour après avoir absorbé cette matière corrompue. Ceux qui désirent créer des mandragores peuvent le faire en employant une méthode alchimique : le procédé nécessite un jour de travail, une racine de mandragore, quelques litres du substances corporelles de [[démon]] ou le corps d’un [[démon]] de FP supérieur ou égal à 6 et un test d’[[Artisanat]] (alchimie) réussi contre un DD de 25. La mandragore nouvellement créée est hostile même envers son créateur.
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Mandragore</fullName>
+</wikiPage>

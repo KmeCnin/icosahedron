@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Création de mort-vivant dominant</title>
+  <categories><category>Pathfinder-RPG.Manuel des joueurs</category><category>Pathfinder-RPG.Règles officielles</category><category>Pathfinder-RPG.Sort</category><category>Pathfinder-RPG.Sort magicien 8</category><category>Pathfinder-RPG.Sort prêtre 8</category></categories>
+  <lastModified>2012-10-10 13:41:33Z</lastModified>
+  <version>4</version>
+  <inLinks><link>Pathfinder-RPG.Domaine de la Mort</link><link>Pathfinder-RPG.Glossaire des sorts</link><link>Pathfinder-RPG.Grimoires</link><link>Pathfinder-RPG.Liste des sorts</link><link>Pathfinder-RPG.Liste des sorts de prêtres</link><link>Pathfinder-RPG.Liste des sorts densorceleursmagiciens</link><link>Pathfinder-RPG.Liste des sorts par registre</link><link>Pathfinder-RPG.Marchetombe (sorcière)</link><link>Pathfinder-RPG.protecteurs</link><link>Pathfinder-RPG.Réanimateur (alchimiste)</link><link>Pathfinder-RPG.Thèmes de protecteurs</link><link>Pathfinder-RPG.Totenmaske</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Nécromancie</link><link>Pathfinder-RPG.Registre</link><link>Pathfinder-RPG.Ensorceleur</link><link>Pathfinder-RPG.Magicien</link><link>Pathfinder-RPG.Prêtre</link><link>Pathfinder-RPG.composantes</link><link>Pathfinder-RPG.DV</link><link>Pathfinder-RPG.type Mort-vivant</link><link>Pathfinder-RPG.niveau</link><link>Pathfinder-RPG.instantanée</link><link>Pathfinder-RPG.Animation des morts</link><link>Pathfinder-RPG.Ombre</link><link>Pathfinder-RPG.Âme-en-peine</link><link>Pathfinder-RPG.Spectre</link><link>Pathfinder-RPG.Dévoreur</link><link>Pathfinder-RPG.NLS</link><link>Pathfinder-RPG.Création de mort-vivant</link></outLinks>
+  <body><![CDATA[&lt;b&gt;&#201;cole&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#NECROMANCIE&quot; title=&quot;N&#233;cromancie&quot;&gt;N&#233;cromancie&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;er-Un-Sort.html#REGISTRE&quot; title=&quot;Registre&quot;&gt;Mal&lt;/a&gt;) ; &lt;b&gt;Niveau&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Ensorceleur.html&quot; title=&quot;L&amp;#39;ensorceleur&quot;&gt;Ens&lt;/a&gt;/&lt;a class=&quot;pagelink&quot; href=&quot;Magicien.html&quot; title=&quot;Le magicien&quot;&gt;Mag&lt;/a&gt; 8, &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#234;tre.html&quot; title=&quot;Le pr&#234;tre&quot;&gt;Pr&#234;&lt;/a&gt; 8&lt;br/&gt;
+&lt;b&gt;Temps d&#39;incantation&lt;/b&gt; 1 heure&lt;br/&gt;
+&lt;b&gt;Composantes&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#COMPOSANTES&quot; title=&quot;composantes&quot;&gt;V, G, M&lt;/a&gt; (un pot d’argile contenant de la terre issue d’un tombeau et un onyx (50 po minimum) par &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DESDEVIE&quot; title=&quot;DV&quot;&gt;DV&lt;/a&gt; de &lt;a class=&quot;pagelink&quot; href=&quot;Type-Mort-Vivant.html&quot; title=&quot;Mort-vivant&quot;&gt;mort-vivant&lt;/a&gt;)&lt;br/&gt;
+&lt;b&gt;Port&#233;e&lt;/b&gt; courte (7,50 m + 1,50 m/2 &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#NIVEAU&quot; title=&quot;niveau&quot;&gt;niveaux&lt;/a&gt;) (5 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt; + 1 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;/2 &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#NIVEAU&quot; title=&quot;niveau&quot;&gt;niveaux&lt;/a&gt;)&lt;br/&gt;
+&lt;b&gt;Cible&lt;/b&gt; 1 cadavre&lt;br/&gt;
+&lt;b&gt;Dur&#233;e&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#DUREE&quot; title=&quot;instantan&#233;e&quot;&gt;instantan&#233;e&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Jet de sauvegarde&lt;/b&gt; aucun ; &lt;b&gt;R&#233;sistance &#224; la magie&lt;/b&gt; non&lt;br /&gt;&lt;br /&gt;Ce sort bien plus puissant qu’&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Animation-Des-Morts.html&quot; title=&quot;Animation des morts&quot;&gt;animation des morts&lt;/a&gt;&lt;/i&gt; offre la possibilit&#233; de cr&#233;er des &lt;a class=&quot;pagelink&quot; href=&quot;Type-Mort-Vivant.html&quot; title=&quot;Mort-vivant&quot;&gt;morts-vivants&lt;/a&gt; autrement plus dangereux : &lt;a class=&quot;pagelink&quot; href=&quot;Ombre.html&quot; title=&quot;Ombre&quot;&gt;ombres&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;&#194;me-En-Peine.html&quot; title=&quot;&#194;me-en-peine&quot;&gt;&#226;mes en peine&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Spectre.html&quot; title=&quot;Spectre&quot;&gt;spectres&lt;/a&gt; et &lt;a class=&quot;pagelink&quot; href=&quot;D&#233;voreur.html&quot; title=&quot;D&#233;voreur&quot;&gt;d&#233;voreurs d’&#226;me&lt;/a&gt;. Le type de &lt;a class=&quot;pagelink&quot; href=&quot;Type-Mort-Vivant.html&quot; title=&quot;Mort-vivant&quot;&gt;mort-vivant&lt;/a&gt; cr&#233;&#233; est choisi en fonction du &lt;a class=&quot;pagelink&quot; href=&quot;Lancer-Des-Sorts.html#NLS&quot; title=&quot;NLS&quot;&gt;niveau de lanceur de sorts&lt;/a&gt; du personnage :&lt;br /&gt;&lt;br /&gt;&lt;center&gt;
+&lt;table CLASS=&quot;tablo&quot;&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td&gt;NLS&lt;/td&gt;&lt;td&gt;Mort-vivant cr&#233;&#233;&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier&quot;&gt;&lt;td&gt;15 ou moins&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Ombre.html&quot; title=&quot;Ombre&quot;&gt;Ombre&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;16–17&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;&#194;me-En-Peine.html&quot; title=&quot;&#194;me-en-peine&quot;&gt;&#194;me-en-peine&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;18–19&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Spectre.html&quot; title=&quot;Spectre&quot;&gt;Spectre&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;20 ou plus&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;D&#233;voreur.html&quot; title=&quot;D&#233;voreur&quot;&gt;D&#233;voreur&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;br /&gt;&lt;div class=&quot;box&quot;&gt;Ce sort s’apparente &#224; &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;ation-De-Mort-Vivant.html&quot; title=&quot;Cr&#233;ation de mort-vivant&quot;&gt;cr&#233;ation de mort-vivant&lt;/a&gt;&lt;/i&gt;, si ce n’est qu’il permet d’animer des cr&#233;atures plus puissantes : &lt;a class=&quot;pagelink&quot; href=&quot;Ombre.html&quot; title=&quot;Ombre&quot;&gt;ombres&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;&#194;me-En-Peine.html&quot; title=&quot;&#194;me-en-peine&quot;&gt;&#226;mes en peine&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Spectre.html&quot; title=&quot;Spectre&quot;&gt;spectres&lt;/a&gt; et &lt;a class=&quot;pagelink&quot; href=&quot;D&#233;voreur.html&quot; title=&quot;D&#233;voreur&quot;&gt;d&#233;voreurs d’&#226;me&lt;/a&gt;. Le type de &lt;a class=&quot;pagelink&quot; href=&quot;Type-Mort-Vivant.html&quot; title=&quot;Mort-vivant&quot;&gt;mort-vivant&lt;/a&gt; cr&#233;&#233; est choisi en fonction du &lt;a class=&quot;pagelink&quot; href=&quot;Lancer-Des-Sorts.html#NLS&quot; title=&quot;NLS&quot;&gt;niveau de lanceur de sorts&lt;/a&gt; du personnage :&lt;br /&gt;&lt;br /&gt;&lt;center&gt;
+&lt;table CLASS=&quot;tablo&quot;&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td&gt;NLS&lt;/td&gt;&lt;td&gt;Mort-vivant cr&#233;&#233;&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier&quot;&gt;&lt;td&gt;15 ou moins&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Ombre.html&quot; title=&quot;Ombre&quot;&gt;Ombre&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;16–17&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;&#194;me-En-Peine.html&quot; title=&quot;&#194;me-en-peine&quot;&gt;&#194;me-en-peine&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;18–19&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Spectre.html&quot; title=&quot;Spectre&quot;&gt;Spectre&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;20 ou plus&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;D&#233;voreur.html&quot; title=&quot;D&#233;voreur&quot;&gt;D&#233;voreur&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/center&gt;&lt;/div&gt;
+]]></body>
+  <raw><![CDATA['''École''' [[Nécromancie]] ([[registre|Mal]]) ; '''Niveau''' [[ensorceleur|Ens]]/[[magicien|Mag]] 8, [[prêtre|Prê]] 8<br/>
+'''Temps d'incantation''' 1 heure<br/>
+'''Composantes''' [[composantes|V, G, M]] (un pot d’argile contenant de la terre issue d’un tombeau et un onyx (50 po minimum) par [[DV]] de [[type mort-vivant|mort-vivant]])<br/>
+'''Portée''' courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])<br/>
+'''Cible''' 1 cadavre<br/>
+'''Durée''' [[instantanée]]<br/>
+'''Jet de sauvegarde''' aucun ; '''Résistance à la magie''' non
+
+Ce sort bien plus puissant qu’''[[animation des morts]]'' offre la possibilité de créer des [[type mort-vivant|morts-vivants]] autrement plus dangereux : [[ombre|ombres]], [[âme-en-peine|âmes en peine]], [[spectre|spectres]] et [[dévoreur|dévoreurs d’âme]]. Le type de [[type mort-vivant|mort-vivant]] créé est choisi en fonction du [[NLS|niveau de lanceur de sorts]] du personnage :
+
+<center>
+{| CLASS="tablo"
+|- CLASS="titre"
+| NLS || Mort-vivant créé
+|- CLASS="premier"
+| 15 ou moins || [[Ombre]]
+|- CLASS="alt"
+| 16–17 || [[Âme-en-peine]]
+|-
+| 18–19 || [[Spectre]]
+|- CLASS="alt"
+| 20 ou plus || [[Dévoreur]]
+|}
+
+(((Ce sort s’apparente à ''[[création de mort-vivant]]'', si ce n’est qu’il permet d’animer des créatures plus puissantes : [[ombre|ombres]], [[âme-en-peine|âmes en peine]], [[spectre|spectres]] et [[dévoreur|dévoreurs d’âme]]. Le type de [[type mort-vivant|mort-vivant]] créé est choisi en fonction du [[NLS|niveau de lanceur de sorts]] du personnage :
+
+<center>
+{| CLASS="tablo"
+|- CLASS="titre"
+| NLS || Mort-vivant créé
+|- CLASS="premier"
+| 15 ou moins || [[Ombre]]
+|- CLASS="alt"
+| 16–17 || [[Âme-en-peine]]
+|-
+| 18–19 || [[Spectre]]
+|- CLASS="alt"
+| 20 ou plus || [[Dévoreur]]
+|}
+</center>)))]]></raw>
+  <fullName>Pathfinder-RPG.Création de mort-vivant dominant</fullName>
+</wikiPage>

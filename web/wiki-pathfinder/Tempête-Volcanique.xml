@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Tempête volcanique</title>
+  <categories><category>Pathfinder-RPG.Art de la Magie</category><category>Pathfinder-RPG.Règles officielles</category><category>Pathfinder-RPG.Sort</category><category>Pathfinder-RPG.Sort druide 4</category><category>Pathfinder-RPG.Sort magicien 4</category><category>Pathfinder-RPG.Sort sorcière 4</category></categories>
+  <lastModified>2012-10-31 15:30:59Z</lastModified>
+  <version>1</version>
+  <inLinks><link>Pathfinder-RPG.AdM-sorts-classe-temporaire</link><link>Pathfinder-RPG.Glossaire des sorts</link><link>Pathfinder-RPG.Liste des sorts (fin)</link><link>Pathfinder-RPG.Liste des sorts de druides</link><link>Pathfinder-RPG.Liste des sorts de sorcière</link><link>Pathfinder-RPG.Liste des sorts densorceleursmagiciens</link><link>Pathfinder-RPG.Liste des sorts par registre</link><link>Pathfinder-RPG.sorts-temporaires</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Évocation</link><link>Pathfinder-RPG.Registre</link><link>Pathfinder-RPG.Druide</link><link>Pathfinder-RPG.Ensorceleur</link><link>Pathfinder-RPG.Magicien</link><link>Pathfinder-RPG.Sorcière</link><link>Pathfinder-RPG.Action simple</link><link>Pathfinder-RPG.composantes</link><link>Pathfinder-RPG.niveau</link><link>Pathfinder-RPG.round</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.terrain difficile</link></outLinks>
+  <body><![CDATA[
+&lt;b&gt;&#201;cole&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#EVOCATION&quot; title=&quot;&#201;vocation&quot;&gt;&#201;vocation&lt;/a&gt; [&lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;er-Un-Sort.html#REGISTRE&quot; title=&quot;Registre&quot;&gt;feu&lt;/a&gt;] ; &lt;b&gt;Niveau&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Druide.html&quot; title=&quot;Le druide&quot;&gt;druide&lt;/a&gt; 4, &lt;a class=&quot;pagelink&quot; href=&quot;Ensorceleur.html&quot; title=&quot;L&amp;#39;ensorceleur&quot;&gt;ensorceleur&lt;/a&gt;/&lt;a class=&quot;pagelink&quot; href=&quot;Magicien.html&quot; title=&quot;Le magicien&quot;&gt;magicien&lt;/a&gt; 4, &lt;a class=&quot;pagelink&quot; href=&quot;Sorci&#232;re.html&quot; title=&quot;La sorci&#232;re&quot;&gt;sorci&#232;re&lt;/a&gt; 4&lt;br /&gt;
+&lt;b&gt;Temps d’incantation&lt;/b&gt; 1 &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions.html#SIMPLE&quot; title=&quot;Action simple&quot;&gt;action simple&lt;/a&gt;&lt;br /&gt;
+&lt;b&gt;Composantes&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#COMPOSANTES&quot; title=&quot;composantes&quot;&gt;V, G, M/FD&lt;/a&gt; (de l&#39;obsidienne et des cendres)&lt;br /&gt;
+&lt;b&gt;Port&#233;e&lt;/b&gt; longue (120 m + 12 m/&lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#NIVEAU&quot; title=&quot;niveau&quot;&gt;niveau&lt;/a&gt;) (80 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt; + 8 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;/&lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#NIVEAU&quot; title=&quot;niveau&quot;&gt;niveau&lt;/a&gt;)&lt;br /&gt;
+&lt;b&gt;Zone&lt;/b&gt; cylindre (6 m (4 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) de rayon, 12 m (8 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) de haut)&lt;br /&gt;
+&lt;b&gt;Dur&#233;e&lt;/b&gt; 1 &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#ROUND&quot; title=&quot;round&quot;&gt;round&lt;/a&gt;/&lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#NIVEAU&quot; title=&quot;niveau&quot;&gt;niveau&lt;/a&gt; (T)&lt;br /&gt;
+&lt;b&gt;Jet de sauvegarde&lt;/b&gt; non ; &lt;b&gt;R&#233;sistance &#224; la magie&lt;/b&gt; non&lt;br /&gt;&lt;br /&gt;Ce sort fait pleuvoir des morceaux de roche volcanique br&#251;lante et des paquets de cendres qui infligent 3d6 points de d&#233;g&#226;ts contondants et 2d6 points de d&#233;g&#226;ts de feu &#224; toutes les cr&#233;atures de la zone. Ces d&#233;g&#226;ts ne s’appliquent qu’une fois, lorsque le personnage lance le sort. Pour le reste de la dur&#233;e du sort, une &#233;paisse pluie de cendres s’abat sur la zone. Les cr&#233;atures subissent un malus de -4 aux tests de &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; et toute la zone est transform&#233;e en &lt;a class=&quot;pagelink&quot; href=&quot;D&#233;placement-Et-Position.html#TERRAINDIFFICILE&quot; title=&quot;terrain difficile&quot;&gt;terrain difficile&lt;/a&gt;. &#192; la fin du sort, les rochers et les cendres disparaissent et ne laissent pas d’effets permanents (en dehors des d&#233;g&#226;ts inflig&#233;s).
+]]></body>
+  <raw><![CDATA[{s:UM}
+'''École''' [[Évocation]] <nowiki>[</nowiki>[[registre|feu]]<nowiki>]</nowiki> ; '''Niveau''' [[druide]] 4, [[ensorceleur]]/[[magicien]] 4, [[sorcière]] 4<br>
+'''Temps d’incantation''' 1 [[action simple]]<br>
+'''Composantes''' [[Composantes|V, G, M/FD]] (de l'obsidienne et des cendres)<br>
+'''Portée''' longue (120 m + 12 m/[[niveau]]) (80 {s:c} + 8 {s:c}/[[niveau]])<br>
+'''Zone''' cylindre (6 m (4 {s:c}) de rayon, 12 m (8 {s:c}) de haut)<br>
+'''Durée''' 1 [[round]]/[[niveau]] (T)<br>
+'''Jet de sauvegarde''' non ; '''Résistance à la magie''' non
+
+Ce sort fait pleuvoir des morceaux de roche volcanique brûlante et des paquets de cendres qui infligent 3d6 points de dégâts contondants et 2d6 points de dégâts de feu à toutes les créatures de la zone. Ces dégâts ne s’appliquent qu’une fois, lorsque le personnage lance le sort. Pour le reste de la durée du sort, une épaisse pluie de cendres s’abat sur la zone. Les créatures subissent un malus de -4 aux tests de [[Perception]] et toute la zone est transformée en [[terrain difficile]]. À la fin du sort, les rochers et les cendres disparaissent et ne laissent pas d’effets permanents (en dehors des dégâts infligés).]]></raw>
+  <fullName>Pathfinder-RPG.Tempête volcanique</fullName>
+</wikiPage>

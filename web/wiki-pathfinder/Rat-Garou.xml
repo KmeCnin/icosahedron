@@ -1,0 +1,246 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Rat-garou</title>
+  <categories><category>Pathfinder-RPG.Bestiaire</category><category>Pathfinder-RPG.Monstre</category><category>Pathfinder-RPG.Règles officielles</category></categories>
+  <lastModified>2013-02-06 21:24:50Z</lastModified>
+  <version>9</version>
+  <inLinks><link>Pathfinder-RPG.FAQ Compétences</link><link>Pathfinder-RPG.Glossaire des monstres</link><link>Pathfinder-RPG.Liste de monstres par FP</link><link>Pathfinder-RPG.Liste de monstres par milieu naturel</link><link>Pathfinder-RPG.Liste de monstres par type</link><link>Pathfinder-RPG.Lycanthrope, archétype</link><link>Pathfinder-RPG.Monstres</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Roublard</link><link>Pathfinder-RPG.type Humanoïde</link><link>Pathfinder-RPG.sous-type humain</link><link>Pathfinder-RPG.sous-type métamorphe</link><link>Pathfinder-RPG.odorat</link><link>Pathfinder-RPG.vision nocturne</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.esquive totale</link><link>Pathfinder-RPG.attaque sournoise</link><link>Pathfinder-RPG.Attaque en finesse</link><link>Pathfinder-RPG.Esquive</link><link>Pathfinder-RPG.Acrobaties</link><link>Pathfinder-RPG.Bluff</link><link>Pathfinder-RPG.Connaissances</link><link>Pathfinder-RPG.Discrétion</link><link>Pathfinder-RPG.Escalade</link><link>Pathfinder-RPG.Intimidation</link><link>Pathfinder-RPG.Natation</link><link>Pathfinder-RPG.Psychologie</link><link>Pathfinder-RPG.Changement de forme (capacité)</link><link>Pathfinder-RPG.métamorphose</link><link>Pathfinder-RPG.Rat</link><link>Pathfinder-RPG.Rat sanguinaire</link><link>Pathfinder-RPG.recherche des pièges</link><link>Pathfinder-RPG.Talents</link><link>Pathfinder-RPG.Vigueur</link><link>Pathfinder-RPG.DD</link><link>Pathfinder-RPG.affaiblissement temporaire</link><link>Pathfinder-RPG.Dextérité</link><link>Pathfinder-RPG.Constitution</link><link>Pathfinder-RPG.Lycanthrope, archétype</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Rat-garou (forme humaine)&lt;div style=&quot;float:right;&quot;&gt;FP 2&lt;/div&gt;&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Bestiaire&lt;/i&gt; p.206
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 600
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+Humain, rat-garou naturel, &lt;a class=&quot;pagelink&quot; href=&quot;Roublard.html&quot; title=&quot;Le roublard&quot;&gt;roublard&lt;/a&gt; 2
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Humano&#239;de.html&quot; title=&quot;Humano&#239;de&quot;&gt;Humano&#239;de&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Humain.html&quot; title=&quot;Humain (sous-type)&quot;&gt;humain&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-M&#233;tamorphe.html&quot; title=&quot;M&#233;tamorphe (sous-type)&quot;&gt;m&#233;tamorphe&lt;/a&gt;) de taille M, LM
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +2 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Odorat-(Capacit&#233;).html&quot; title=&quot;odorat&quot;&gt;odorat&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Nocturne-(Capacit&#233;).html&quot; title=&quot;vision nocturne&quot;&gt;vision nocturne&lt;/a&gt; ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +8
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 16, contact 13, pris au d&#233;pourvu 13 (armure +3, Dex +2, esquive +1)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 18 (2d8+6)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +5, &lt;b&gt;Vig&lt;/b&gt; +2, &lt;b&gt;Vol&lt;/b&gt; +3
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Capacit&#233;s d&#233;fensives&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Roublard.html#ESQUIVETOTALE&quot; title=&quot;esquive totale&quot;&gt;esquive totale&lt;/a&gt; 
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 9 m (6 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; &#233;p&#233;e courte, +3 (1d6+1/19-20)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Distance&lt;/b&gt; arbal&#232;te l&#233;g&#232;re, +3 (1d8/19-20)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaques sp&#233;ciales&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Roublard.html#ATTAQUESOURNOISE&quot; title=&quot;attaque sournoise&quot;&gt;attaque sournoise&lt;/a&gt; +1d6
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 13, &lt;b&gt;Dex&lt;/b&gt; 15, &lt;b&gt;Con&lt;/b&gt; 14, &lt;b&gt;Int&lt;/b&gt; 10, &lt;b&gt;Sag&lt;/b&gt; 16, &lt;b&gt;Cha&lt;/b&gt; 6
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +1, &lt;b&gt;BMO&lt;/b&gt; +2, &lt;b&gt;DMD&lt;/b&gt; 15
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Attaque-En-Finesse.html&quot; title=&quot;Attaque en finesse&quot;&gt;Attaque en finesse&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Esquive.html&quot; title=&quot;Esquive&quot;&gt;Esquive&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Acrobaties.html&quot; title=&quot;Acrobaties&quot;&gt;Acrobaties&lt;/a&gt; +7, &lt;a class=&quot;pagelink&quot; href=&quot;Bluff.html&quot; title=&quot;Bluff&quot;&gt;Bluff&lt;/a&gt; +3, &lt;a class=&quot;pagelink&quot; href=&quot;Connaissances.html&quot; title=&quot;Connaissances&quot;&gt;Connaissances&lt;/a&gt; (folklore local) +5, &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; +7, &lt;a class=&quot;pagelink&quot; href=&quot;Escalade.html&quot; title=&quot;Escalade&quot;&gt;Escalade&lt;/a&gt; +6, &lt;a class=&quot;pagelink&quot; href=&quot;Intimidation.html&quot; title=&quot;Intimidation&quot;&gt;Intimidation&lt;/a&gt; +3, &lt;a class=&quot;pagelink&quot; href=&quot;Natation.html&quot; title=&quot;Natation&quot;&gt;Natation&lt;/a&gt; +6, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +8, &lt;a class=&quot;pagelink&quot; href=&quot;Psychologie.html&quot; title=&quot;Psychologie&quot;&gt;Psychologie&lt;/a&gt; +8
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Langues&lt;/b&gt; commun
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Particularit&#233;s&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Changement-De-Forme-(Capacit&#233;).html&quot; title=&quot;Changement de forme (Sur)&quot;&gt;changement de forme&lt;/a&gt; (humain, hybride et rat sanguinaire; &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;M&#233;tamorphose.html&quot; title=&quot;M&#233;tamorphose&quot;&gt;m&#233;tamorphose&lt;/a&gt;&lt;/i&gt;), empathie lycanthropique (&lt;a class=&quot;pagelink&quot; href=&quot;Rat.html&quot; title=&quot;Rat&quot;&gt;rats&lt;/a&gt; et &lt;a class=&quot;pagelink&quot; href=&quot;Rat-Sanguinaire.html&quot; title=&quot;Rat sanguinaire&quot;&gt;rats sanguinaires&lt;/a&gt;), &lt;a class=&quot;pagelink&quot; href=&quot;Roublard.html#RECHERCHEDESPIEGES&quot; title=&quot;recherche des pi&#232;ges&quot;&gt;recherche des pi&#232;ges&lt;/a&gt;, talents de roublard (&lt;a class=&quot;pagelink&quot; href=&quot;Talents.html#DISCRETRAPIDE&quot; title=&quot;Les talents de roublard&quot;&gt;discret et rapide&lt;/a&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; ville
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation sociale&lt;/b&gt; solitaire, couple, meute (5-10) ou guilde (11-30 plus 5-12 &lt;a class=&quot;pagelink&quot; href=&quot;Rat-Sanguinaire.html&quot; title=&quot;Rat sanguinaire&quot;&gt;rats sanguinaires&lt;/a&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; &#233;quipement de PNJ (armure de cuir clout&#233;e de ma&#238;tre, &#233;p&#233;e courte, arbal&#232;te l&#233;g&#232;re avec 20 carreaux, autres tr&#233;sors)
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;h3 class=&quot;separator&quot;&gt; &lt;a class=&quot;headeranchor&quot; id=&quot;_0&quot; href=&quot;#_0&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Rat-garou (forme hybride)&lt;div style=&quot;float:right;&quot;&gt;FP 2&lt;/div&gt;&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Bestiaire&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 600
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Humano&#239;de.html&quot; title=&quot;Humano&#239;de&quot;&gt;Humano&#239;de&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Humain.html&quot; title=&quot;Humain (sous-type)&quot;&gt;humain&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-M&#233;tamorphe.html&quot; title=&quot;M&#233;tamorphe (sous-type)&quot;&gt;m&#233;tamorphe&lt;/a&gt;) de taille M, LM
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +3 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Odorat-(Capacit&#233;).html&quot; title=&quot;odorat&quot;&gt;odorat&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Nocturne-(Capacit&#233;).html&quot; title=&quot;vision nocturne&quot;&gt;vision nocturne&lt;/a&gt; ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +8
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 19, contact 14, pris au d&#233;pourvu 15 (armure +3, Dex +3, esquive +1, naturelle +2)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 20 (2d8+8)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +6, &lt;b&gt;Vig&lt;/b&gt; +3, &lt;b&gt;Vol&lt;/b&gt; +3
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Capacit&#233;s d&#233;fensives&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Roublard.html#ESQUIVETOTALE&quot; title=&quot;esquive totale&quot;&gt;esquive totale&lt;/a&gt; ; &lt;b&gt;RD&lt;/b&gt; 10/argent 
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 9 m (6 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; &#233;p&#233;e courte, +4 (1d6+2/19-20), morsure, -1 (1d4+1 et maladie et lycanthropie; DC 15)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Distance&lt;/b&gt; arbal&#232;te l&#233;g&#232;re, +4 (1d8/19-20)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaques sp&#233;ciales&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Roublard.html#ATTAQUESOURNOISE&quot; title=&quot;attaque sournoise&quot;&gt;attaque sournoise&lt;/a&gt; +1d6
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 15, &lt;b&gt;Dex&lt;/b&gt; 17, &lt;b&gt;Con&lt;/b&gt; 16, &lt;b&gt;Int&lt;/b&gt; 10, &lt;b&gt;Sag&lt;/b&gt; 16, &lt;b&gt;Cha&lt;/b&gt; 6
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +1, &lt;b&gt;BMO&lt;/b&gt; +3, &lt;b&gt;DMD&lt;/b&gt; 17
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Attaque-En-Finesse.html&quot; title=&quot;Attaque en finesse&quot;&gt;Attaque en finesse&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Esquive.html&quot; title=&quot;Esquive&quot;&gt;Esquive&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Acrobaties.html&quot; title=&quot;Acrobaties&quot;&gt;Acrobaties&lt;/a&gt; +8, &lt;a class=&quot;pagelink&quot; href=&quot;Bluff.html&quot; title=&quot;Bluff&quot;&gt;Bluff&lt;/a&gt; +3, &lt;a class=&quot;pagelink&quot; href=&quot;Connaissances.html&quot; title=&quot;Connaissances&quot;&gt;Connaissances&lt;/a&gt; (folklore local) +5, &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; +8, &lt;a class=&quot;pagelink&quot; href=&quot;Escalade.html&quot; title=&quot;Escalade&quot;&gt;Escalade&lt;/a&gt; +7, &lt;a class=&quot;pagelink&quot; href=&quot;Intimidation.html&quot; title=&quot;Intimidation&quot;&gt;Intimidation&lt;/a&gt; +3, &lt;a class=&quot;pagelink&quot; href=&quot;Natation.html&quot; title=&quot;Natation&quot;&gt;Natation&lt;/a&gt; +7, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +8, &lt;a class=&quot;pagelink&quot; href=&quot;Psychologie.html&quot; title=&quot;Psychologie&quot;&gt;Psychologie&lt;/a&gt; +8
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Langues&lt;/b&gt; commun
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Particularit&#233;s&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Changement-De-Forme-(Capacit&#233;).html&quot; title=&quot;Changement de forme (Sur)&quot;&gt;changement de forme&lt;/a&gt; (humain, hybride et rat sanguinaire; &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;M&#233;tamorphose.html&quot; title=&quot;M&#233;tamorphose&quot;&gt;m&#233;tamorphose&lt;/a&gt;&lt;/i&gt;), empathie lycanthropique (&lt;a class=&quot;pagelink&quot; href=&quot;Rat.html&quot; title=&quot;Rat&quot;&gt;rats&lt;/a&gt; et &lt;a class=&quot;pagelink&quot; href=&quot;Rat-Sanguinaire.html&quot; title=&quot;Rat sanguinaire&quot;&gt;rats sanguinaires&lt;/a&gt;), &lt;a class=&quot;pagelink&quot; href=&quot;Roublard.html#RECHERCHEDESPIEGES&quot; title=&quot;recherche des pi&#232;ges&quot;&gt;recherche des pi&#232;ges&lt;/a&gt;, talents de roublard (&lt;a class=&quot;pagelink&quot; href=&quot;Talents.html#DISCRETRAPIDE&quot; title=&quot;Les talents de roublard&quot;&gt;discret et rapide&lt;/a&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; ville
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation sociale&lt;/b&gt; solitaire, couple, meute (5-10) ou guilde (11-30 plus 5-12 &lt;a class=&quot;pagelink&quot; href=&quot;Rat-Sanguinaire.html&quot; title=&quot;Rat sanguinaire&quot;&gt;rats sanguinaires&lt;/a&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; &#233;quipement de PNJ (armure de cuir clout&#233;e de ma&#238;tre, &#233;p&#233;e courte, arbal&#232;te l&#233;g&#232;re avec 20 carreaux, autres tr&#233;sors)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Particularit&#233;s&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Maladie (Ext)&lt;/b&gt; &lt;i&gt;fi&#232;vre des marais&lt;/i&gt; : morsure - blessure ; &lt;i&gt;JS&lt;/i&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;Vigueur&quot;&gt;Vigueur&lt;/a&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DEGREDEDIFFICULTE&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; 14 ; &lt;i&gt;incubation&lt;/i&gt; 1d3 jours ; &lt;i&gt;fr&#233;quence&lt;/i&gt; 1/jour ; &lt;i&gt;effet&lt;/i&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Affaiblissement-Temporaire-(Capacit&#233;).html&quot; title=&quot;affaiblissement temporaire&quot;&gt;affaiblissement temporaire&lt;/a&gt; 1d3 &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#DEXTERITE&quot; title=&quot;La Dext&#233;rit&#233;&quot;&gt;Dex&lt;/a&gt; et 1d3 &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#CONSTITUTION&quot; title=&quot;La Constitution&quot;&gt;Con&lt;/a&gt; ; &lt;i&gt;gu&#233;rison&lt;/i&gt; 2 r&#233;ussites cons&#233;cutives. le &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DEGREDEDIFFICULTE&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; d&#233;pend de la &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#CONSTITUTION&quot; title=&quot;La Constitution&quot;&gt;Constitution&lt;/a&gt;.
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;td&gt;&lt;div&gt;Voir l&#39;arch&#233;type du &lt;a class=&quot;pagelink&quot; href=&quot;Lycanthrope,-Arch&#233;type.html&quot; title=&quot;Lycanthrope, arch&#233;type&quot;&gt;lycanthrope&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;&lt;i&gt;Cet humano&#239;de vo&#251;t&#233; en armure de cuir clout&#233; a le corps couvert de
+fourrure, un visage de rat et une longue queue sans poils.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Les rats-garous naturels sont g&#233;n&#233;ralement petits et minces,
+ont des yeux sans cesse en mouvement et de fr&#233;quents spasmes
+nerveux. Les rats-garous m&#226;les arborent souvent une moustache
+fine et peu soign&#233;e.&lt;br /&gt;&lt;br /&gt;Les rats-garous pr&#233;f&#232;rent vivre en ville, l&#224; o&#249; ils peuvent se
+fondre dans les populations d’humano&#239;des et de rats. Leurs
+capacit&#233;s les pr&#233;disposent &#224; devenir voleurs ou espions. Les
+guildes de voleurs de nombreuses villes emploient des membres
+rats-garous.
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Rat-garou (forme humaine)|FP 2}
+{s:pucem|Humanoïde|Ville|Tempéré}
+{s:BDTexte|''Source : Bestiaire'' p.206}
+{s:BDTexte|'''PX''' 600}
+{s:BDTexte|Humain, rat-garou naturel, [[roublard]] 2}
+{s:BDTexte|[[type Humanoïde|Humanoïde]] ([[sous-type humain|humain]], [[sous-type métamorphe|métamorphe]]) de taille M, LM}
+{s:BDTexte|'''Init''' +2 ; '''Sens''' [[odorat]], [[vision nocturne]] ; [[Perception]] +8}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 16, contact 13, pris au dépourvu 13 (armure +3, Dex +2, esquive +1)}
+{s:BDTexte|'''pv''' 18 (2d8+6)}
+{s:BDTexte|'''Réf''' +5, '''Vig''' +2, '''Vol''' +3}
+{s:BDTexte|'''Capacités défensives''' [[esquive totale]] }
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 9 m (6 {s:c})}
+{s:BDTexte|'''Corps à corps''' épée courte, +3 (1d6+1/19-20)}
+{s:BDTexte|'''Distance''' arbalète légère, +3 (1d8/19-20)}
+{s:BDTexte|'''Attaques spéciales''' [[attaque sournoise]] +1d6}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 13, '''Dex''' 15, '''Con''' 14, '''Int''' 10, '''Sag''' 16, '''Cha''' 6}
+{s:BDTexte|'''BBA''' +1, '''BMO''' +2, '''DMD''' 15}
+{s:BDTexte|'''Dons''' [[Attaque en finesse]], [[Esquive]]}
+{s:BDTexte|'''Compétences''' [[Acrobaties]] +7, [[Bluff]] +3, [[Connaissances]] (folklore local) +5, [[Discrétion]] +7, [[Escalade]] +6, [[Intimidation]] +3, [[Natation]] +6, [[Perception]] +8, [[Psychologie]] +8}
+{s:BDTexte|'''Langues''' commun}
+{s:BDTexte|'''Particularités''' [[changement de forme (capacité)|changement de forme]] (humain, hybride et rat sanguinaire; ''[[métamorphose]]''), empathie lycanthropique ([[rat|rats]] et [[rat sanguinaire|rats sanguinaires]]), [[recherche des pièges]], talents de roublard ([[Talents#DISCRETRAPIDE|discret et rapide]])}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' ville}
+{s:BDTexte|'''Organisation sociale''' solitaire, couple, meute (5-10) ou guilde (11-30 plus 5-12 [[rat sanguinaire|rats sanguinaires]])}
+{s:BDTexte|'''Trésor''' équipement de PNJ (armure de cuir cloutée de maître, épée courte, arbalète légère avec 20 carreaux, autres trésors)}
+</div>
+==== ====
+<div class="BD">
+{s:BDTitre|Rat-garou (forme hybride)|FP 2}
+{s:pucem|Humanoïde|Ville|Tempéré}
+{s:BDTexte|''Source : Bestiaire''}
+{s:BDTexte|'''PX''' 600}
+{s:BDTexte|[[type Humanoïde|Humanoïde]] ([[sous-type humain|humain]], [[sous-type métamorphe|métamorphe]]) de taille M, LM}
+{s:BDTexte|'''Init''' +3 ; '''Sens''' [[odorat]], [[vision nocturne]] ; [[Perception]] +8}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 19, contact 14, pris au dépourvu 15 (armure +3, Dex +3, esquive +1, naturelle +2)}
+{s:BDTexte|'''pv''' 20 (2d8+8)}
+{s:BDTexte|'''Réf''' +6, '''Vig''' +3, '''Vol''' +3}
+{s:BDTexte|'''Capacités défensives''' [[esquive totale]] ; '''RD''' 10/argent }
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 9 m (6 {s:c})}
+{s:BDTexte|'''Corps à corps''' épée courte, +4 (1d6+2/19-20), morsure, -1 (1d4+1 et maladie et lycanthropie; DC 15)}
+{s:BDTexte|'''Distance''' arbalète légère, +4 (1d8/19-20)}
+{s:BDTexte|'''Attaques spéciales''' [[attaque sournoise]] +1d6}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 15, '''Dex''' 17, '''Con''' 16, '''Int''' 10, '''Sag''' 16, '''Cha''' 6}
+{s:BDTexte|'''BBA''' +1, '''BMO''' +3, '''DMD''' 17}
+{s:BDTexte|'''Dons''' [[Attaque en finesse]], [[Esquive]]}
+{s:BDTexte|'''Compétences''' [[Acrobaties]] +8, [[Bluff]] +3, [[Connaissances]] (folklore local) +5, [[Discrétion]] +8, [[Escalade]] +7, [[Intimidation]] +3, [[Natation]] +7, [[Perception]] +8, [[Psychologie]] +8}
+{s:BDTexte|'''Langues''' commun}
+{s:BDTexte|'''Particularités''' [[changement de forme (capacité)|changement de forme]] (humain, hybride et rat sanguinaire; ''[[métamorphose]]''), empathie lycanthropique ([[rat|rats]] et [[rat sanguinaire|rats sanguinaires]]), [[recherche des pièges]], talents de roublard ([[Talents#DISCRETRAPIDE|discret et rapide]])}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' ville}
+{s:BDTexte|'''Organisation sociale''' solitaire, couple, meute (5-10) ou guilde (11-30 plus 5-12 [[rat sanguinaire|rats sanguinaires]])}
+{s:BDTexte|'''Trésor''' équipement de PNJ (armure de cuir cloutée de maître, épée courte, arbalète légère avec 20 carreaux, autres trésors)}
+{s:BDSousTitre|Particularités}
+{s:BDTexte|'''Maladie (Ext)''' ''fièvre des marais'' : morsure - blessure ; ''JS'' [[Vigueur]] [[DD]] 14 ; ''incubation'' 1d3 jours ; ''fréquence'' 1/jour ; ''effet'' [[affaiblissement temporaire]] 1d3 [[Dextérité|Dex]] et 1d3 [[Constitution|Con]] ; ''guérison'' 2 réussites consécutives. le [[DD]] dépend de la [[Constitution]].}
+</div>
+</td><td><div>Voir l'archétype du [[lycanthrope, archétype|lycanthrope]].
+
+''Cet humanoïde voûté en armure de cuir clouté a le corps couvert de
+fourrure, un visage de rat et une longue queue sans poils.''
+
+Les rats-garous naturels sont généralement petits et minces,
+ont des yeux sans cesse en mouvement et de fréquents spasmes
+nerveux. Les rats-garous mâles arborent souvent une moustache
+fine et peu soignée.
+
+Les rats-garous préfèrent vivre en ville, là où ils peuvent se
+fondre dans les populations d’humanoïdes et de rats. Leurs
+capacités les prédisposent à devenir voleurs ou espions. Les
+guildes de voleurs de nombreuses villes emploient des membres
+rats-garous.
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Rat-garou</fullName>
+</wikiPage>

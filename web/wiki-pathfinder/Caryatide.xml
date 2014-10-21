@@ -1,0 +1,123 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Caryatide</title>
+  <categories></categories>
+  <lastModified>2013-02-19 20:34:09Z</lastModified>
+  <version>0</version>
+  <inLinks><link>Pathfinder-RPG.Glossaire des monstres</link><link>Pathfinder-RPG.Liste de monstres par FP</link><link>Pathfinder-RPG.Liste de monstres par milieu naturel</link><link>Pathfinder-RPG.Liste de monstres par type</link><link>Pathfinder-RPG.Monstres</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.type Créature artificielle</link><link>Pathfinder-RPG.vision dans le noir</link><link>Pathfinder-RPG.vision nocturne</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Statue</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Caryatide&lt;div style=&quot;float:right;&quot;&gt;FP 3&lt;/div&gt;&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Bestiaire 3 p.41&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 800
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Cr&#233;ature-Artificielle.html&quot; title=&quot;Cr&#233;ature artificielle&quot;&gt;Cr&#233;ature artificielle&lt;/a&gt; de taille M, N
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; -1 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Capacit&#233;s-Sp&#233;ciales.html#VISIONDANSLENOIR&quot; title=&quot;vision dans le noir&quot;&gt;vision dans le noir&lt;/a&gt; 18m, &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Nocturne-(Capacit&#233;).html&quot; title=&quot;vision nocturne&quot;&gt;vision nocturne&lt;/a&gt;  ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; -1
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 14, contact 9, pris au d&#233;pourvu 14 (Dex -1, naturelle +5)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt;  36 (3d10+20)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +0, &lt;b&gt;Vig&lt;/b&gt; +1, &lt;b&gt;Vol&lt;/b&gt; +1
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;RD&lt;/b&gt; 5/— ; &lt;b&gt;Immunit&#233;&lt;/b&gt; magie, traits des cr&#233;atures artificielles
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Capacit&#233; d&#233;fensive&lt;/b&gt; fracassement des armes
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 6m (4 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; &#233;p&#233;e longue de ma&#238;tre, +8 (1d8+4/19-20) 
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 18, &lt;b&gt;Dex&lt;/b&gt; 9, &lt;b&gt;Con&lt;/b&gt; —, &lt;b&gt;Int&lt;/b&gt; —, &lt;b&gt;Sag&lt;/b&gt; 11, &lt;b&gt;Cha&lt;/b&gt; 1
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +3, &lt;b&gt;BMO&lt;/b&gt; +7, &lt;b&gt;DMD&lt;/b&gt; 16 (d&#233;sarmement impossible)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Particularit&#233;&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Statue.html&quot; title=&quot;Statue&quot;&gt;statue&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; tous
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation sociale&lt;/b&gt; solitaire, couple ou colonnade (6-11)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; standard (&#233;p&#233;e longue de ma&#238;tre, autre tr&#233;sor)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Pouvoirs sp&#233;ciaux&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Fracassement des armes (Ext).&lt;/b&gt; Lorsqu’un personnage frappe la caryatide avec une arme (magique ou non), l’arme re&#231;oit 3d6 points de d&#233;g&#226;ts. Appliquez normalement les r&#232;gles de solidit&#233; de l’arme. Les armes recevant un nombre de points de d&#233;g&#226;ts sup&#233;rieur &#224; leur solidit&#233; se brisent.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Immunit&#233; contre la magie (Ext).&lt;/b&gt; Les caryatides sont immunis&#233;es contre tous les sorts et pouvoirs qui autorisent un jet de r&#233;sistance. De plus, certains sorts et effets fonctionnent diff&#233;remment contre cette cr&#233;ature, comme pr&#233;cis&#233; ci-dessous.
+• Un sort de transmutation de la pierre en boue inflige 1d6 points de d&#233;g&#226;ts par niveau de lanceur de sorts &#224; la caryatide, sans jet de sauvegarde
+• Transmutation de la boue en pierre gu&#233;rit aussit&#244;t tous les d&#233;g&#226;ts, quels qu’ils soient, que la caryatide a re&#231;us.
+• Un sort de transmutation de la pierre en chair ne modifie pas la structure de la colonne mais annule sa r&#233;duction de d&#233;g&#226;ts et son immunit&#233; &#224; la magie pendant 1 round.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Statue (Ext).&lt;/b&gt; La caryatide peut se tenir parfaitement immobile, imitant une statue (g&#233;n&#233;ralement une statue soutenant un plafond, telle une colonne sculpt&#233;e). L’observateur doit r&#233;ussir un test de Perception de DD 20 pour remarquer que la caryatide est vivante. Une caryatide qui commence le combat dans cette position b&#233;n&#233;ficie d’un bonus de +6 au jet d’initiative.
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;td&gt;&lt;div&gt;
+Les caryatides sont des cousines, moins puissantes, des v&#233;ritables golems, cr&#233;atures artificielles cr&#233;&#233;es par les lanceurs de sorts pour garder des lieux ou des objets. Contrairement aux vrais golems, les caryatides ne peuvent pas servir de gardiennes anim&#233;es mais on les utilise souvent en grand nombre en raison de leur faible co&#251;t de cr&#233;ation. Chaque caryatide est programm&#233;e, au moment de sa cr&#233;ation, pour garder un objet ou une zone en particulier : une fois que la programmation est faite, elle ne peut plus &#234;tre modifi&#233;e. Les caryatides sont souvent param&#233;tr&#233;es pour ignorer ou attaquer sp&#233;cifiquement certaines cr&#233;atures mais comme elles ne disposent d’aucune m&#233;thode sp&#233;ciale de d&#233;tection, il suffit de se d&#233;guiser pour contourner ces restrictions si l’on conna&#238;t les param&#232;tres de la caryatide.&lt;br /&gt;&lt;br /&gt;Les caryatides mesurent 2,10 m et p&#232;sent 750 kilos. Elles sont toujours &#233;quip&#233;es d’une arme de ma&#238;tre qui semble faite de pierre tant que la cr&#233;ature artificielle demeure sous sa forme de statue. L’arme peut &#234;tre r&#233;cup&#233;r&#233;e lorsque la caryatide a &#233;t&#233; vaincue. Il est tr&#232;s co&#251;teux d’&#233;quiper une caryatide d’une arme magique mais ce n’est pas impossible : m&#234;me les armes magiques les plus puissantes ne laissent transpara&#238;tre qu’une apparence de pierre entre les mains d’une caryatide. Les armes magiques n’&#233;mettent pas d’aura magique lorsqu’elles sont entre les mains d’une caryatide et beaucoup exploitent cette particularit&#233; pour dissimuler des armes puissantes &#224; l’observation normale et &#224; l’observation approfondie d’une d&#233;tection de la magie. Vision lucide r&#233;v&#232;le la v&#233;ritable nature de ces armes d&#233;guis&#233;es. On ne confie habituellement le soin de veiller et de prot&#233;ger ce genre d’armes qu’aux caryatides vraiment puissantes (celles qui, en g&#233;n&#233;ral, ont des d&#233;s de vie suppl&#233;mentaires, mais rarement celles qui d&#233;passent la taille M). Bien entendu, les cr&#233;atures artificielles elles-m&#234;mes font plein usage des armes magiques confi&#233;es &#224; leur garde.
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Caryatide|FP 3}
+{s:pucem|Créature artificielle|Ruines-Donjons|Tempéré}
+{s:BDTexte|''Source : Bestiaire 3 p.41''}
+{s:BDTexte|'''PX''' 800}
+{s:BDTexte|[[type Créature artificielle|Créature artificielle]] de taille M, N}
+{s:BDTexte|'''Init''' -1 ; '''Sens''' [[vision dans le noir]] 18m, [[vision nocturne]]  ; [[Perception]] -1}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 14, contact 9, pris au dépourvu 14 (Dex -1, naturelle +5)}
+{s:BDTexte|'''pv'''  36 (3d10+20)}
+{s:BDTexte|'''Réf''' +0, '''Vig''' +1, '''Vol''' +1}
+{s:BDTexte|'''RD''' 5/— ; '''Immunité''' magie, traits des créatures artificielles}
+{s:BDTexte|'''Capacité défensive''' fracassement des armes}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 6m (4 {s:c})}
+{s:BDTexte|'''Corps à corps''' épée longue de maître, +8 (1d8+4/19-20) }
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 18, '''Dex''' 9, '''Con''' —, '''Int''' —, '''Sag''' 11, '''Cha''' 1}
+{s:BDTexte|'''BBA''' +3, '''BMO''' +7, '''DMD''' 16 (désarmement impossible)}
+{s:BDTexte|'''Particularité''' [[statue]]}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' tous}
+{s:BDTexte|'''Organisation sociale''' solitaire, couple ou colonnade (6-11)}
+{s:BDTexte|'''Trésor''' standard (épée longue de maître, autre trésor)}
+{s:BDSousTitre|Pouvoirs spéciaux}
+{s:BDTexte|'''Fracassement des armes (Ext).''' Lorsqu’un personnage frappe la caryatide avec une arme (magique ou non), l’arme reçoit 3d6 points de dégâts. Appliquez normalement les règles de solidité de l’arme. Les armes recevant un nombre de points de dégâts supérieur à leur solidité se brisent.}
+{s:BDTexte|'''Immunité contre la magie (Ext).''' Les caryatides sont immunisées contre tous les sorts et pouvoirs qui autorisent un jet de résistance. De plus, certains sorts et effets fonctionnent différemment contre cette créature, comme précisé ci-dessous.
+• Un sort de transmutation de la pierre en boue inflige 1d6 points de dégâts par niveau de lanceur de sorts à la caryatide, sans jet de sauvegarde
+• Transmutation de la boue en pierre guérit aussitôt tous les dégâts, quels qu’ils soient, que la caryatide a reçus.
+• Un sort de transmutation de la pierre en chair ne modifie pas la structure de la colonne mais annule sa réduction de dégâts et son immunité à la magie pendant 1 round.}
+{s:BDTexte|'''Statue (Ext).''' La caryatide peut se tenir parfaitement immobile, imitant une statue (généralement une statue soutenant un plafond, telle une colonne sculptée). L’observateur doit réussir un test de Perception de DD 20 pour remarquer que la caryatide est vivante. Une caryatide qui commence le combat dans cette position bénéficie d’un bonus de +6 au jet d’initiative.}
+</div>
+</td><td><div>
+Les caryatides sont des cousines, moins puissantes, des véritables golems, créatures artificielles créées par les lanceurs de sorts pour garder des lieux ou des objets. Contrairement aux vrais golems, les caryatides ne peuvent pas servir de gardiennes animées mais on les utilise souvent en grand nombre en raison de leur faible coût de création. Chaque caryatide est programmée, au moment de sa création, pour garder un objet ou une zone en particulier : une fois que la programmation est faite, elle ne peut plus être modifiée. Les caryatides sont souvent paramétrées pour ignorer ou attaquer spécifiquement certaines créatures mais comme elles ne disposent d’aucune méthode spéciale de détection, il suffit de se déguiser pour contourner ces restrictions si l’on connaît les paramètres de la caryatide.
+
+Les caryatides mesurent 2,10 m et pèsent 750 kilos. Elles sont toujours équipées d’une arme de maître qui semble faite de pierre tant que la créature artificielle demeure sous sa forme de statue. L’arme peut être récupérée lorsque la caryatide a été vaincue. Il est très coûteux d’équiper une caryatide d’une arme magique mais ce n’est pas impossible : même les armes magiques les plus puissantes ne laissent transparaître qu’une apparence de pierre entre les mains d’une caryatide. Les armes magiques n’émettent pas d’aura magique lorsqu’elles sont entre les mains d’une caryatide et beaucoup exploitent cette particularité pour dissimuler des armes puissantes à l’observation normale et à l’observation approfondie d’une détection de la magie. Vision lucide révèle la véritable nature de ces armes déguisées. On ne confie habituellement le soin de veiller et de protéger ce genre d’armes qu’aux caryatides vraiment puissantes (celles qui, en général, ont des dés de vie supplémentaires, mais rarement celles qui dépassent la taille M). Bien entendu, les créatures artificielles elles-mêmes font plein usage des armes magiques confiées à leur garde.
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Caryatide</fullName>
+</wikiPage>

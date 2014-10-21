@@ -1,0 +1,199 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Nyogoth</title>
+  <categories><category>Pathfinder-RPG.Bestiaire 2</category><category>Pathfinder-RPG.Monstre</category><category>Pathfinder-RPG.Règles officielles</category></categories>
+  <lastModified>2013-02-06 21:34:15Z</lastModified>
+  <version>3</version>
+  <inLinks><link>Pathfinder-RPG.Glossaire des monstres</link><link>Pathfinder-RPG.Iathavos</link><link>Pathfinder-RPG.Lier un extérieur</link><link>Pathfinder-RPG.Liste de monstres par FP</link><link>Pathfinder-RPG.Liste de monstres par milieu naturel</link><link>Pathfinder-RPG.Liste de monstres par type</link><link>Pathfinder-RPG.Monstres</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.type Extérieur</link><link>Pathfinder-RPG.sous-type Chaos</link><link>Pathfinder-RPG.sous-type Mal</link><link>Pathfinder-RPG.sous-type extraplanaire</link><link>Pathfinder-RPG.sous-type qlippoth</link><link>Pathfinder-RPG.vision dans le noir</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Flèche acide</link><link>Pathfinder-RPG.Protection contre la Loi</link><link>Pathfinder-RPG.Terreur</link><link>Pathfinder-RPG.Brume acide</link><link>Pathfinder-RPG.Porte dimensionnelle</link><link>Pathfinder-RPG.Attaque en finesse</link><link>Pathfinder-RPG.Attaque en puissance</link><link>Pathfinder-RPG.Attaques réflexes</link><link>Pathfinder-RPG.Frappe décisive</link><link>Pathfinder-RPG.Science du critique</link><link>Pathfinder-RPG.Connaissances</link><link>Pathfinder-RPG.Discrétion</link><link>Pathfinder-RPG.Intimidation</link><link>Pathfinder-RPG.Vol</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire 2&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Nyogoth&lt;div style=&quot;float:right;&quot;&gt;FP 10&lt;/div&gt;&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Bestiaire 2&lt;/i&gt; p.234
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 9.600
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Ext&#233;rieur.html&quot; title=&quot;Ext&#233;rieur&quot;&gt;Ext&#233;rieur&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Chaos.html&quot; title=&quot;Chaos (sous-type)&quot;&gt;Chaos&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Mal.html&quot; title=&quot;Mal (sous-type)&quot;&gt;Mal&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Extraplanaire.html&quot; title=&quot;Extraplanaire (sous-type)&quot;&gt;extraplanaire&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Qlippoth.html&quot; title=&quot;Qlippoth (sous-type)&quot;&gt;qlippoth&lt;/a&gt;) de taille M, CM
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +5 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Capacit&#233;s-Sp&#233;ciales.html#VISIONDANSLENOIR&quot; title=&quot;vision dans le noir&quot;&gt;vision dans le noir&lt;/a&gt; 18 m (12 cases) ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +17
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Aura&lt;/b&gt; puanteur (DD 32, 10 rounds)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 24, contact 15, pris au d&#233;pourvu 19 (Dex +5, naturelle +9)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 125 (10d10+70)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +12, &lt;b&gt;Vig&lt;/b&gt; +14, &lt;b&gt;Vol&lt;/b&gt; +7
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Capacit&#233;s d&#233;fensives&lt;/b&gt; aspersion d’acide ; &lt;b&gt;Immunit&#233;s&lt;/b&gt; acide, effets mentaux, froid, poison ; &lt;b&gt;RD&lt;/b&gt; 10/Loi ; &lt;b&gt;R&#233;sistances&lt;/b&gt; &#233;lectricit&#233; 10, feu 10
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 6 m (4 cases), vol 9 m (bonne - 6 cases)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; &lt;i&gt;4 morsures&lt;/i&gt;, +16 (1d6+3/19–20 plus 1d4 acide) et &lt;i&gt;morsure&lt;/i&gt;,+16 (2d6+3/19–20 plus 1d4 acide)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Espace&lt;/b&gt; 1,50 m (1 case) ; &lt;b&gt;Allonge&lt;/b&gt; 9 m (6 cases)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaques sp&#233;ciales&lt;/b&gt; apparence horrible
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Pouvoirs magiques&lt;/b&gt; (NLS 10), concentration +13
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+&#192; volont&#233; — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Fl&#232;che-Acide.html&quot; title=&quot;Fl&#232;che acide&quot;&gt;fl&#232;che acide&lt;/a&gt;&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+7/jour — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Protection-Contre-La-Loi.html&quot; title=&quot;Protection contre la Loi&quot;&gt;protection contre la Loi&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Terreur.html&quot; title=&quot;Terreur&quot;&gt;terreur&lt;/a&gt;&lt;/i&gt; (DD 17)
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+1/jour — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Brume-Acide.html&quot; title=&quot;Brume acide&quot;&gt;brume acide&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Porte-Dimensionnelle.html&quot; title=&quot;Porte dimensionnelle&quot;&gt;porte dimensionnelle&lt;/a&gt;&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 16, &lt;b&gt;Dex&lt;/b&gt; 21, &lt;b&gt;Con&lt;/b&gt; 24, &lt;b&gt;Int&lt;/b&gt; 9, &lt;b&gt;Sag&lt;/b&gt; 19, &lt;b&gt;Cha&lt;/b&gt; 16
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +10, &lt;b&gt;BMO&lt;/b&gt; +13, &lt;b&gt;DMD&lt;/b&gt; 28 (croc-en-jambe impossible)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Attaque-En-Finesse.html&quot; title=&quot;Attaque en finesse&quot;&gt;Attaque en finesse&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Attaque-En-Puissance.html&quot; title=&quot;Attaque en puissance&quot;&gt;Attaque en puissance&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Attaques-R&#233;flexes.html&quot; title=&quot;Attaques r&#233;flexes&quot;&gt;Attaques r&#233;flexes&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Frappe-D&#233;cisive.html&quot; title=&quot;Frappe d&#233;cisive&quot;&gt;Frappe d&#233;cisive&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Science-Du-Critique.html&quot; title=&quot;Science du critique&quot;&gt;Science du critique&lt;/a&gt; (morsure)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Connaissances.html&quot; title=&quot;Connaissances&quot;&gt;Connaissances&lt;/a&gt; (plans) +12, &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; +18, &lt;a class=&quot;pagelink&quot; href=&quot;Intimidation.html&quot; title=&quot;Intimidation&quot;&gt;Intimidation&lt;/a&gt; +16, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +17, &lt;a class=&quot;pagelink&quot; href=&quot;Vol.html&quot; title=&quot;Vol&quot;&gt;Vol&lt;/a&gt; +22
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Langues&lt;/b&gt; abyssal ; t&#233;l&#233;pathie 30 m
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Particularit&#233;s&lt;/b&gt; vol
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; tous (Abysses)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation sociale&lt;/b&gt; solitaire ou groupe (2–8)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; standard
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Pouvoirs sp&#233;ciaux&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Apparence horrible (Sur).&lt;/b&gt;  Les cr&#233;atures qui succombent &#224; l’apparence horrible d’un nyogoth sont naus&#233;euses pendant 1d8 rounds.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Aspersion d’acide (Sur).&lt;/b&gt; Le corps d’un nyogoth est rempli de fluides digestifs hautement corrosifs. Chaque fois qu’un nyogoth est bless&#233; par une arme tranchante ou perforante, toutes les cr&#233;atures adjacentes au nyogoth subissent 1d6 points de d&#233;g&#226;ts d’acide (2d6 points de d&#233;g&#226;ts d’acide si l’attaque &#233;tait un coup critique).
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;td&gt;&lt;div&gt;&lt;i&gt;Cette cr&#233;ature ressemble &#224; un amas flottant d’intestins enchev&#234;tr&#233;s autour de m&#226;choires ac&#233;r&#233;es. Ses tentacules eux aussi se terminent par des gueules dangereuses.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Dans les Abysses, les nyogoths occupent le r&#244;le de
+charognards. Ces cr&#233;atures grouillantes qui apparaissent comme
+des amas mobiles d’intestins boursoufl&#233;s se d&#233;placent dans les
+airs par des mouvements convulsifs semblables &#224; ceux d’une
+pieuvre &#233;voluant dans l’eau. Ils sont constamment &#224; la recherche
+d’aliments pouvant rentrer dans leurs nombreuses gueules (qu’il
+s’agisse des petites situ&#233;es aux extr&#233;mit&#233;s de leurs membres
+tentaculaires, qui pincent et grignotent, ou de la grande gueule
+b&#233;ante au centre de leur corps). Ils peuvent se nourrir des d&#233;tritus
+et des d&#233;chets abandonn&#233;s par les autres habitants des Abysses
+mais ils pr&#233;f&#232;rent se repa&#238;tre de cr&#233;atures encore vivantes.
+Malgr&#233; leur r&#244;le apparemment mineur dans l’&#233;cosyst&#232;me
+des Abysses, les nyogoths ne sont pas des cr&#233;atures stupides.
+La plupart d’entre eux ont une intelligence &#233;quivalente &#224; celle
+d’un humain moyen et sont capables de r&#233;soudre des probl&#232;mes
+relativement complexes lorsque l’enjeu est un futur repas. En
+tant qu’Ext&#233;rieurs, les nyogoths n’ont pas besoin de manger
+pour survivre, mais ce n’est pas pour autant qu’ils ne ressentent
+pas la faim : un nyogoth qui reste affam&#233; pendant plus de
+12 heures sans trouver un repas devient de plus en plus violent
+et erratique. Les nyogoths &#171; affam&#233;s &#187; combattent g&#233;n&#233;ralement
+jusqu’&#224; la mort lorsque l’enjeu du conflit est un repas. Ils peuvent
+m&#234;me recourir &#224; l’auto-cannibalisme et boire leur propre fluide
+digestif qui s’&#233;coule hors de leurs blessures (une vision des plus
+&#233;coeurantes).
+Un nyogoth moyen mesure 1,50 m&#232;tres de diam&#232;tre et
+p&#232;se 130 kg mais on a d&#233;j&#224; rencontr&#233; des sp&#233;cimens
+beaucoup plus gros.
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire 2"><tr><td>
+<div class="BD">
+{s:BDTitre|Nyogoth|FP 10}
+{s:pucem|Extérieur|Ruines-Donjons|Extraplanaire}
+{s:BDTexte|''Source : Bestiaire 2'' p.234}
+{s:BDTexte|'''PX''' 9.600}
+{s:BDTexte|[[type Extérieur|Extérieur]] ([[sous-type Chaos|Chaos]], [[sous-type Mal|Mal]], [[sous-type extraplanaire|extraplanaire]], [[sous-type qlippoth|qlippoth]]) de taille M, CM}
+{s:BDTexte|'''Init''' +5 ; '''Sens''' [[vision dans le noir]] 18 m (12 cases) ; [[Perception]] +17}
+{s:BDTexte|'''Aura''' puanteur (DD 32, 10 rounds)}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 24, contact 15, pris au dépourvu 19 (Dex +5, naturelle +9)}
+{s:BDTexte|'''pv''' 125 (10d10+70)}
+{s:BDTexte|'''Réf''' +12, '''Vig''' +14, '''Vol''' +7}
+{s:BDTexte|'''Capacités défensives''' aspersion d’acide ; '''Immunités''' acide, effets mentaux, froid, poison ; '''RD''' 10/Loi ; '''Résistances''' électricité 10, feu 10}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 6 m (4 cases), vol 9 m (bonne - 6 cases)}
+{s:BDTexte|'''Corps à corps''' ''4 morsures'', +16 (1d6+3/19–20 plus 1d4 acide) et ''morsure'',+16 (2d6+3/19–20 plus 1d4 acide)}
+{s:BDTexte|'''Espace''' 1,50 m (1 case) ; '''Allonge''' 9 m (6 cases)}
+{s:BDTexte|'''Attaques spéciales''' apparence horrible}
+{s:BDTexte|'''Pouvoirs magiques''' (NLS 10), concentration +13}
+{s:BDSorts|À volonté — ''[[flèche acide]]''}
+{s:BDSorts|7/jour — ''[[protection contre la Loi]]'', ''[[terreur]]'' (DD 17)}
+{s:BDSorts|1/jour — ''[[brume acide]]'', ''[[porte dimensionnelle]]''}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 16, '''Dex''' 21, '''Con''' 24, '''Int''' 9, '''Sag''' 19, '''Cha''' 16}
+{s:BDTexte|'''BBA''' +10, '''BMO''' +13, '''DMD''' 28 (croc-en-jambe impossible)}
+{s:BDTexte|'''Dons''' [[Attaque en finesse]], [[Attaque en puissance]], [[Attaques réflexes]], [[Frappe décisive]], [[Science du critique]] (morsure)}
+{s:BDTexte|'''Compétences''' [[Connaissances]] (plans) +12, [[Discrétion]] +18, [[Intimidation]] +16, [[Perception]] +17, [[Vol]] +22}
+{s:BDTexte|'''Langues''' abyssal ; télépathie 30 m}
+{s:BDTexte|'''Particularités''' vol}
+{s:BDTexte|'''Environnement''' tous (Abysses)}
+{s:BDTexte|'''Organisation sociale''' solitaire ou groupe (2–8)}
+{s:BDTexte|'''Trésor''' standard}
+{s:BDSousTitre|Pouvoirs spéciaux}
+{s:BDTexte|'''Apparence horrible (Sur).'''  Les créatures qui succombent à l’apparence horrible d’un nyogoth sont nauséeuses pendant 1d8 rounds.}
+{s:BDTexte|'''Aspersion d’acide (Sur).''' Le corps d’un nyogoth est rempli de fluides digestifs hautement corrosifs. Chaque fois qu’un nyogoth est blessé par une arme tranchante ou perforante, toutes les créatures adjacentes au nyogoth subissent 1d6 points de dégâts d’acide (2d6 points de dégâts d’acide si l’attaque était un coup critique).}
+</div>
+</td><td><div>''Cette créature ressemble à un amas flottant d’intestins enchevêtrés autour de mâchoires acérées. Ses tentacules eux aussi se terminent par des gueules dangereuses.''
+
+Dans les Abysses, les nyogoths occupent le rôle de
+charognards. Ces créatures grouillantes qui apparaissent comme
+des amas mobiles d’intestins boursouflés se déplacent dans les
+airs par des mouvements convulsifs semblables à ceux d’une
+pieuvre évoluant dans l’eau. Ils sont constamment à la recherche
+d’aliments pouvant rentrer dans leurs nombreuses gueules (qu’il
+s’agisse des petites situées aux extrémités de leurs membres
+tentaculaires, qui pincent et grignotent, ou de la grande gueule
+béante au centre de leur corps). Ils peuvent se nourrir des détritus
+et des déchets abandonnés par les autres habitants des Abysses
+mais ils préfèrent se repaître de créatures encore vivantes.
+Malgré leur rôle apparemment mineur dans l’écosystème
+des Abysses, les nyogoths ne sont pas des créatures stupides.
+La plupart d’entre eux ont une intelligence équivalente à celle
+d’un humain moyen et sont capables de résoudre des problèmes
+relativement complexes lorsque l’enjeu est un futur repas. En
+tant qu’Extérieurs, les nyogoths n’ont pas besoin de manger
+pour survivre, mais ce n’est pas pour autant qu’ils ne ressentent
+pas la faim : un nyogoth qui reste affamé pendant plus de
+12 heures sans trouver un repas devient de plus en plus violent
+et erratique. Les nyogoths « affamés » combattent généralement
+jusqu’à la mort lorsque l’enjeu du conflit est un repas. Ils peuvent
+même recourir à l’auto-cannibalisme et boire leur propre fluide
+digestif qui s’écoule hors de leurs blessures (une vision des plus
+écoeurantes).
+Un nyogoth moyen mesure 1,50 mètres de diamètre et
+pèse 130 kg mais on a déjà rencontré des spécimens
+beaucoup plus gros.
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Nyogoth</fullName>
+</wikiPage>

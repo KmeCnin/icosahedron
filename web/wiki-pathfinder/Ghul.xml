@@ -1,0 +1,137 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Ghul</title>
+  <categories><category>Pathfinder-RPG.Bestiaire 3</category><category>Pathfinder-RPG.Monstre</category><category>Pathfinder-RPG.Règles officielles</category></categories>
+  <lastModified>2013-10-19 16:11:52Z</lastModified>
+  <version>0</version>
+  <inLinks><link>Pathfinder-RPG.Div akvan</link><link>Pathfinder-RPG.Glossaire des monstres</link><link>Pathfinder-RPG.Liste de monstres par FP</link><link>Pathfinder-RPG.Liste de monstres par milieu naturel</link><link>Pathfinder-RPG.Liste de monstres par type</link><link>Pathfinder-RPG.Monstres</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.type Mort-vivant</link><link>Pathfinder-RPG.sous-type métamorphe</link><link>Pathfinder-RPG.vision dans le noir</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Traits des morts-vivants</link><link>Pathfinder-RPG.Saignement (capacité)</link><link>Pathfinder-RPG.Éventration (capacité)</link><link>Pathfinder-RPG.Attaque en puissance</link><link>Pathfinder-RPG.Savancer</link><link>Pathfinder-RPG.Vigueur surhumaine</link><link>Pathfinder-RPG.Bluff</link><link>Pathfinder-RPG.Déguisement</link><link>Pathfinder-RPG.Diplomatie</link><link>Pathfinder-RPG.Discrétion</link><link>Pathfinder-RPG.Escalade</link><link>Pathfinder-RPG.Intimidation</link><link>Pathfinder-RPG.Survie</link><link>Pathfinder-RPG.Hyène</link><link>Pathfinder-RPG.Forme bestiale I</link><link>Pathfinder-RPG.Rôdeur</link><link>Pathfinder-RPG.RD</link><link>Pathfinder-RPG.Jann</link><link>Pathfinder-RPG.Div</link><link>Pathfinder-RPG.Goule</link><link>Pathfinder-RPG.blême</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Ghul&lt;div style=&quot;float:right;&quot;&gt;FP 5&lt;/div&gt;&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Bestiaire 3 p. 133&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 1 600 px
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Mort-Vivant.html&quot; title=&quot;Mort-vivant&quot;&gt;Mort-vivant&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-M&#233;tamorphe.html&quot; title=&quot;M&#233;tamorphe (sous-type)&quot;&gt;m&#233;tamorphe&lt;/a&gt;) de taille M, CM
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +2 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Capacit&#233;s-Sp&#233;ciales.html#VISIONDANSLENOIR&quot; title=&quot;vision dans le noir&quot;&gt;vision dans le noir&lt;/a&gt; &#224; 18 m (12 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +15
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 18, contact 12, pris au d&#233;pourvu 16 (Dex +2, naturelle +6)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 51 (6d8+24)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +4, &lt;b&gt;Vig&lt;/b&gt; +8, &lt;b&gt;Vol&lt;/b&gt; +7
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;RD&lt;/b&gt; 5/Bien ; &lt;b&gt;Immunit&#233;&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Traits-Des-Morts-Vivants-(Capacit&#233;).html&quot; title=&quot;Traits des morts-vivants&quot;&gt;traits des morts-vivants&lt;/a&gt; ; &lt;b&gt;R&#233;sistance&lt;/b&gt; feu 10
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 12 m (8 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), escalade 6 m (4 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; 2 griffes, +10 (1d4+6 plus &lt;a class=&quot;pagelink&quot; href=&quot;Saignement-(Capacit&#233;).html&quot; title=&quot;Saignement (Ext)&quot;&gt;saignement&lt;/a&gt;) et morsure, +10 (1d6+6)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaques sp&#233;ciales&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;&#201;ventration-(Capacit&#233;).html&quot; title=&quot;&#201;ventration (Ext)&quot;&gt;&#233;ventration&lt;/a&gt; (1d6+6), griffes maudites, &lt;a class=&quot;pagelink&quot; href=&quot;Saignement-(Capacit&#233;).html&quot; title=&quot;Saignement (Ext)&quot;&gt;saignement&lt;/a&gt; (1)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 22, &lt;b&gt;Dex&lt;/b&gt; 15, &lt;b&gt;Con&lt;/b&gt; -, &lt;b&gt;Int&lt;/b&gt; 14, &lt;b&gt;Sag&lt;/b&gt; 15, &lt;b&gt;Cha&lt;/b&gt; 18
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +4, &lt;b&gt;BMO&lt;/b&gt; +10, &lt;b&gt;DMD&lt;/b&gt; 22
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Attaque-En-Puissance.html&quot; title=&quot;Attaque en puissance&quot;&gt;Attaque en puissance&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Savancer.html&quot; title=&quot;S&amp;#39;avancer&quot;&gt;S’avancer&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Vigueur-Surhumaine.html&quot; title=&quot;Vigueur surhumaine&quot;&gt;Vigueur surhumaine&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Bluff.html&quot; title=&quot;Bluff&quot;&gt;Bluff&lt;/a&gt; +10, &lt;a class=&quot;pagelink&quot; href=&quot;D&#233;guisement.html&quot; title=&quot;D&#233;guisement&quot;&gt;D&#233;guisement&lt;/a&gt; +11, &lt;a class=&quot;pagelink&quot; href=&quot;Diplomatie.html&quot; title=&quot;Diplomatie&quot;&gt;Diplomatie&lt;/a&gt; +7, &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; +11, &lt;a class=&quot;pagelink&quot; href=&quot;Escalade.html&quot; title=&quot;Escalade&quot;&gt;Escalade&lt;/a&gt; +18, &lt;a class=&quot;pagelink&quot; href=&quot;Intimidation.html&quot; title=&quot;Intimidation&quot;&gt;Intimidation&lt;/a&gt; +11, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +15, &lt;a class=&quot;pagelink&quot; href=&quot;Survie.html&quot; title=&quot;Survie&quot;&gt;Survie&lt;/a&gt; +8 (+16 pour pister des traces)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Modificateurs raciaux&lt;/b&gt; +4 en &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt;, +8 en &lt;a class=&quot;pagelink&quot; href=&quot;Survie.html&quot; title=&quot;Survie&quot;&gt;Survie&lt;/a&gt; pour suivre une piste
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Langue&lt;/b&gt; commun, 1 langue &#233;l&#233;mentaire (a&#233;rien, aquatique, ign&#233; ou terreux), 1 langue planaire (abyssal, c&#233;leste ou infernal)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Particularit&#233;s&lt;/b&gt; changement de forme (&lt;a class=&quot;pagelink&quot; href=&quot;Hy&#232;ne.html&quot; title=&quot;Hy&#232;ne&quot;&gt;hy&#232;ne&lt;/a&gt; ; n’appara&#238;t pas comme &lt;a class=&quot;pagelink&quot; href=&quot;Type-Mort-Vivant.html&quot; title=&quot;Mort-vivant&quot;&gt;mort-vivant&lt;/a&gt; sous cette forme ; &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Forme-Bestiale-I.html&quot; title=&quot;Forme bestiale I&quot;&gt;forme bestiale I&lt;/a&gt;&lt;/i&gt;), g&#233;nie
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; d&#233;serts chauds
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation sociale&lt;/b&gt; solitaire ou meute (2-8)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; standard
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Pouvoirs sp&#233;ciaux&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;G&#233;nie (Ext).&lt;/b&gt; Pour tous les effets li&#233;s &#224; la race (comme, par exemple, l’&lt;a class=&quot;pagelink&quot; href=&quot;R&#244;deur.html#ENNEMIJURE&quot; title=&quot;Le r&#244;deur&quot;&gt;ennemi jur&#233;&lt;/a&gt; d’un &lt;a class=&quot;pagelink&quot; href=&quot;R&#244;deur.html&quot; title=&quot;Le r&#244;deur&quot;&gt;r&#244;deur&lt;/a&gt;), le ghul est consid&#233;r&#233; comme un g&#233;nie, m&#234;me s’il est de &lt;a class=&quot;pagelink&quot; href=&quot;Type-Mort-Vivant.html&quot; title=&quot;Mort-vivant&quot;&gt;type mort-vivant&lt;/a&gt;.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Griffes maudites (Ext).&lt;/b&gt; Les griffes du ghul sont consid&#233;r&#233;es comme magiques et en fer froid lorsqu’il s’agit de passer une &lt;a class=&quot;pagelink&quot; href=&quot;R&#233;duction-De-D&#233;g&#226;ts-(Capacit&#233;).html&quot; title=&quot;RD&quot;&gt;r&#233;duction de d&#233;g&#226;ts&lt;/a&gt;.
+&lt;/div&gt;&lt;br /&gt;&lt;/div&gt;
+&lt;/td&gt;&lt;td&gt;&lt;div&gt;
+&lt;i&gt;Envelopp&#233; d’une fine robe noire, le corps de cette cr&#233;ature morte-vivante semble &#234;tre fait &#224; proportions &#233;gales d’os, de peau tann&#233;e et de fum&#233;e rouge sang. &lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Les ghuls sont des &lt;a class=&quot;pagelink&quot; href=&quot;Jann.html&quot; title=&quot;Jann&quot;&gt;janns&lt;/a&gt; morts-vivants dont l’existence &#233;ternelle a &#233;t&#233; pervertie par le destin et le m&#233;contentement d’&lt;a class=&quot;pagelink&quot; href=&quot;Div.html&quot; title=&quot;Div&quot;&gt;Ahriman&lt;/a&gt;, le seigneur des &lt;a class=&quot;pagelink&quot; href=&quot;Div.html&quot; title=&quot;Div&quot;&gt;divs&lt;/a&gt;. Comme si la mal&#233;diction de la non-vie et de la faim insatiable ne suffisait pas, ces cr&#233;atures, autrefois majestueuses, ont d&#233;sormais des sabots d’&#226;ne &#224; la place des pieds. Malgr&#233; leur horrible apparence de mort-vivant, c’est ce dont ils ont le plus honte et ils veillent donc &#224; dissimuler leurs pieds.&lt;br /&gt;&lt;br /&gt;Comme les &lt;a class=&quot;pagelink&quot; href=&quot;Goule.html&quot; title=&quot;Goule&quot;&gt;goules&lt;/a&gt; et les &lt;a class=&quot;unknownlink&quot; href=&quot;Bl&#234;me.html&quot; title=&quot;Pathfinder-RPG.bl&#234;me&quot;&gt;bl&#234;mes&lt;/a&gt;, les ghuls hantent les cimeti&#232;res et autres lieux o&#249; les morts esp&#232;rent se nourrir de cadavres. Ils chassent aussi les proches des d&#233;funts et les gardiens des cimeti&#232;res puisqu’ils appr&#233;cient tout autant le go&#251;t des vivants que celui des morts. S&#233;lectifs dans leurs r&#233;gimes, les ghuls choisissent leurs victimes en fonction de leur personnalit&#233;, de leur innocence et de leur jeunesse qui, para&#238;t-il, rend les &#234;tres plus d&#233;licieux que la chair &#224; peine mangeable des personnes aigries et &#226;g&#233;es. Il arrive parfois que le ghul suive une procession fun&#233;raire sous forme de &lt;a class=&quot;pagelink&quot; href=&quot;Hy&#232;ne.html&quot; title=&quot;Hy&#232;ne&quot;&gt;hy&#232;ne&lt;/a&gt;, en restant &#224; bonne distance jusqu’&#224; la c&#233;r&#233;monie. Il reprend alors sa v&#233;ritable forme pour attaquer et festoyer. Pour lui, le chagrin et le d&#233;sespoir sont aussi d&#233;licieux que l’innocence.&lt;br /&gt;&lt;br /&gt;Si la lumi&#232;re du soleil ne les affecte pas directement, les ghuls m&#233;prisent sa pr&#233;sence et ne se d&#233;placent de jour que s’ils n’ont pas d’autre choix. Ils chassent surtout de nuit, s’aventurant parfois loin de leurs cimeti&#232;res et de leurs tombeaux, en qu&#234;te de la chair fra&#238;che pour assouvir leur app&#233;tit.&lt;br /&gt;&lt;br /&gt;Plus un ghul reste longtemps sans se nourrir, plus il devient f&#233;roce et primitif. Un ghul rassasi&#233; s’organise avec d’autres membres de son esp&#232;ce et les morts-vivants inf&#233;rieurs pour tourmenter les villes et les villages alentour. Un ghul ayant ce niveau d’organisation a souvent plusieurs repaires dispers&#233;s &#224; travers le d&#233;sert lui permettant de frapper loin de son repaire principal et de se cacher sans avoir besoin de voyager sous le soleil caniculaire. Lorsqu’un ghul reste trop longtemps sans se nourrir, il devient incroyablement sauvage et violent : ses caract&#233;ristiques sont les m&#234;mes mais il pense de moins en moins &#224; fuir le combat, m&#234;me s’il est clairement surpass&#233;.&lt;br /&gt;&lt;br /&gt;Les ghuls mesurent 1,80 m&#232;tre et p&#232;sent 45 kilos.
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Ghul|FP 5}
+{s:pucem|Mort-vivant|Désert|Tropical}
+{s:BDTexte|''Source : Bestiaire 3 p. 133''}
+{s:BDTexte|'''PX''' 1 600 px}
+{s:BDTexte|[[type Mort-vivant|Mort-vivant]] ([[sous-type métamorphe|métamorphe]]) de taille M, CM}
+{s:BDTexte|'''Init''' +2 ; '''Sens''' [[vision dans le noir]] à 18 m (12 {s:c}) ; [[Perception]] +15}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 18, contact 12, pris au dépourvu 16 (Dex +2, naturelle +6)}
+{s:BDTexte|'''pv''' 51 (6d8+24)}
+{s:BDTexte|'''Réf''' +4, '''Vig''' +8, '''Vol''' +7}
+{s:BDTexte|'''RD''' 5/Bien ; '''Immunité''' [[traits des morts-vivants]] ; '''Résistance''' feu 10}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 12 m (8 {s:c}), escalade 6 m (4 {s:c})}
+{s:BDTexte|'''Corps à corps''' 2 griffes, +10 (1d4+6 plus [[saignement (capacité)|saignement]]) et morsure, +10 (1d6+6)}
+{s:BDTexte|'''Attaques spéciales''' [[éventration (capacité)|éventration]] (1d6+6), griffes maudites, [[saignement (capacité)|saignement]] (1)}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 22, '''Dex''' 15, '''Con''' -, '''Int''' 14, '''Sag''' 15, '''Cha''' 18}
+{s:BDTexte|'''BBA''' +4, '''BMO''' +10, '''DMD''' 22}
+{s:BDTexte|'''Dons''' [[Attaque en puissance]], [[Savancer|S’avancer]], [[Vigueur surhumaine]]}
+{s:BDTexte|'''Compétences''' [[Bluff]] +10, [[Déguisement]] +11, [[Diplomatie]] +7, [[Discrétion]] +11, [[Escalade]] +18, [[Intimidation]] +11, [[Perception]] +15, [[Survie]] +8 (+16 pour pister des traces)}
+{s:BDTexte|'''Modificateurs raciaux''' +4 en [[Perception]], +8 en [[Survie]] pour suivre une piste}
+{s:BDTexte|'''Langue''' commun, 1 langue élémentaire (aérien, aquatique, igné ou terreux), 1 langue planaire (abyssal, céleste ou infernal)}
+{s:BDTexte|'''Particularités''' changement de forme ([[hyène]] ; n’apparaît pas comme [[type mort-vivant|mort-vivant]] sous cette forme ; ''[[forme bestiale I]]''), génie}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' déserts chauds}
+{s:BDTexte|'''Organisation sociale''' solitaire ou meute (2-8)}
+{s:BDTexte|'''Trésor''' standard}
+{s:BDSousTitre|Pouvoirs spéciaux}
+{s:BDTexte|'''Génie (Ext).''' Pour tous les effets liés à la race (comme, par exemple, l’[[rôdeur#ENNEMIJURE|ennemi juré]] d’un [[rôdeur]]), le ghul est considéré comme un génie, même s’il est de [[type mort-vivant]].}
+{s:BDTexte|'''Griffes maudites (Ext).''' Les griffes du ghul sont considérées comme magiques et en fer froid lorsqu’il s’agit de passer une [[RD|réduction de dégâts]].}
+
+</div>
+</td><td><div>
+''Enveloppé d’une fine robe noire, le corps de cette créature morte-vivante semble être fait à proportions égales d’os, de peau tannée et de fumée rouge sang. ''
+
+Les ghuls sont des [[jann|janns]] morts-vivants dont l’existence éternelle a été pervertie par le destin et le mécontentement d’[[div|Ahriman]], le seigneur des [[div|divs]]. Comme si la malédiction de la non-vie et de la faim insatiable ne suffisait pas, ces créatures, autrefois majestueuses, ont désormais des sabots d’âne à la place des pieds. Malgré leur horrible apparence de mort-vivant, c’est ce dont ils ont le plus honte et ils veillent donc à dissimuler leurs pieds.
+
+Comme les [[goule|goules]] et les [[blême|blêmes]], les ghuls hantent les cimetières et autres lieux où les morts espèrent se nourrir de cadavres. Ils chassent aussi les proches des défunts et les gardiens des cimetières puisqu’ils apprécient tout autant le goût des vivants que celui des morts. Sélectifs dans leurs régimes, les ghuls choisissent leurs victimes en fonction de leur personnalité, de leur innocence et de leur jeunesse qui, paraît-il, rend les êtres plus délicieux que la chair à peine mangeable des personnes aigries et âgées. Il arrive parfois que le ghul suive une procession funéraire sous forme de [[hyène]], en restant à bonne distance jusqu’à la cérémonie. Il reprend alors sa véritable forme pour attaquer et festoyer. Pour lui, le chagrin et le désespoir sont aussi délicieux que l’innocence.
+
+Si la lumière du soleil ne les affecte pas directement, les ghuls méprisent sa présence et ne se déplacent de jour que s’ils n’ont pas d’autre choix. Ils chassent surtout de nuit, s’aventurant parfois loin de leurs cimetières et de leurs tombeaux, en quête de la chair fraîche pour assouvir leur appétit.
+
+Plus un ghul reste longtemps sans se nourrir, plus il devient féroce et primitif. Un ghul rassasié s’organise avec d’autres membres de son espèce et les morts-vivants inférieurs pour tourmenter les villes et les villages alentour. Un ghul ayant ce niveau d’organisation a souvent plusieurs repaires dispersés à travers le désert lui permettant de frapper loin de son repaire principal et de se cacher sans avoir besoin de voyager sous le soleil caniculaire. Lorsqu’un ghul reste trop longtemps sans se nourrir, il devient incroyablement sauvage et violent : ses caractéristiques sont les mêmes mais il pense de moins en moins à fuir le combat, même s’il est clairement surpassé.
+
+Les ghuls mesurent 1,80 mètre et pèsent 45 kilos.
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Ghul</fullName>
+</wikiPage>

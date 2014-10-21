@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Retenir la main</title>
+  <categories><category>Pathfinder-RPG.Advanced Player Guide</category><category>Pathfinder-RPG.Règles officielles</category><category>Pathfinder-RPG.Sort</category><category>Pathfinder-RPG.Sort paladin 4</category></categories>
+  <lastModified>2012-11-04 21:57:49Z</lastModified>
+  <version>2</version>
+  <inLinks><link>Pathfinder-RPG.Glossaire des sorts</link><link>Pathfinder-RPG.Liste des sorts (fin)</link><link>Pathfinder-RPG.Liste des sorts de paladins</link><link>Pathfinder-RPG.Liste des sorts par registre</link><link>Pathfinder-RPG.TMP sorts APG</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Enchantement</link><link>Pathfinder-RPG.branche coercition</link><link>Pathfinder-RPG.Registre</link><link>Pathfinder-RPG.Paladin</link><link>Pathfinder-RPG.composantes</link><link>Pathfinder-RPG.niveau</link><link>Pathfinder-RPG.round</link><link>Pathfinder-RPG.Volonté</link><link>Pathfinder-RPG.Présentation des sorts</link><link>Pathfinder-RPG.jet de sauvegarde</link></outLinks>
+  <body><![CDATA[
+&lt;b&gt;&#201;cole&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#ENCHANTEMENT&quot; title=&quot;Enchantement&quot;&gt;Enchantement&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#COERCITION&quot; title=&quot;Coercition&quot;&gt;coercition&lt;/a&gt;) (&lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;er-Un-Sort.html#REGISTRE&quot; title=&quot;Registre&quot;&gt;mental&lt;/a&gt;)&#160;; &lt;b&gt;Niveau&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Paladin.html&quot; title=&quot;Le paladin&quot;&gt;paladin&lt;/a&gt; 4&lt;br/&gt;
+&lt;b&gt;Temps d&#39;incantation&lt;/b&gt; 1 action imm&#233;diate&lt;br/&gt;
+&lt;b&gt;Composantes&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#COMPOSANTES&quot; title=&quot;composantes&quot;&gt;V, G, FD&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Port&#233;e&lt;/b&gt; interm&#233;diaire (30 m + 3 m/&lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#NIVEAU&quot; title=&quot;niveau&quot;&gt;niveau&lt;/a&gt;) (20 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt; + 2 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;/&lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#NIVEAU&quot; title=&quot;niveau&quot;&gt;niveau&lt;/a&gt;)&lt;br/&gt;
+&lt;b&gt;Cible&lt;/b&gt; une cr&#233;ature&lt;br/&gt;
+&lt;b&gt;Dur&#233;e&lt;/b&gt; 1 &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#ROUND&quot; title=&quot;round&quot;&gt;round&lt;/a&gt;/&lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#NIVEAU&quot; title=&quot;niveau&quot;&gt;niveau&lt;/a&gt; et sp&#233;cial&#160;; voir texte&lt;br/&gt;
+&lt;b&gt;Jet de sauvegarde&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;Volont&#233;&quot;&gt;Volont&#233;&lt;/a&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#JETSDESAUVEGARDE&quot; title=&quot;Pr&#233;sentation des sorts&quot;&gt;partiel&lt;/a&gt; ; &lt;b&gt;R&#233;sistance &#224; la magie&lt;/b&gt; oui&lt;br /&gt;&lt;br /&gt;Le personnage fait h&#233;siter la main d&#39;une cr&#233;ature et l&#39;emp&#234;che d&#39;en frapper une autre. Il peut lancer ce sort quand sa cible est sur le point de faire une attaque de corps &#224; corps contre une cr&#233;ature. Si la cible rate son &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;jet de sauvegarde&quot;&gt;jet de sauvegarde&lt;/a&gt;, elle ne peut pas poursuivre son attaque et elle perd la totalit&#233; de son action pour le &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#ROUND&quot; title=&quot;round&quot;&gt;round&lt;/a&gt;. Si elle r&#233;ussit, elle peut attaquer gr&#226;ce &#224; sa seule force de volont&#233;, mais elle perd en pr&#233;cision et en puissance et subit un malus de -5 aux jets d&#39;attaque et de d&#233;g&#226;ts. Que la cible ait r&#233;ussi son &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;jet de sauvegarde&quot;&gt;jet de sauvegarde&lt;/a&gt; ou non, elle subit un malus de -2 aux jets d&#39;attaque et de d&#233;g&#226;ts contre la cr&#233;ature qu&#39;elle visait pendant toute la dur&#233;e du sort.
+]]></body>
+  <raw><![CDATA[{s:APG}
+'''École''' [[Enchantement]] ([[branche coercition|coercition]]) ([[registre|mental]]) ; '''Niveau''' [[paladin]] 4<br/>
+'''Temps d'incantation''' 1 action immédiate<br/>
+'''Composantes''' [[Composantes|V, G, FD]]<br/>
+'''Portée''' intermédiaire (30 m + 3 m/[[niveau]]) (20 {s:c} + 2 {s:c}/[[niveau]])<br/>
+'''Cible''' une créature<br/>
+'''Durée''' 1 [[round]]/[[niveau]] et spécial ; voir texte<br/>
+'''Jet de sauvegarde''' [[Volonté]] [[Présentation des sorts#JETSDESAUVEGARDE|partiel]] ; '''Résistance à la magie''' oui
+
+Le personnage fait hésiter la main d'une créature et l'empêche d'en frapper une autre. Il peut lancer ce sort quand sa cible est sur le point de faire une attaque de corps à corps contre une créature. Si la cible rate son [[jet de sauvegarde]], elle ne peut pas poursuivre son attaque et elle perd la totalité de son action pour le [[round]]. Si elle réussit, elle peut attaquer grâce à sa seule force de volonté, mais elle perd en précision et en puissance et subit un malus de -5 aux jets d'attaque et de dégâts. Que la cible ait réussi son [[jet de sauvegarde]] ou non, elle subit un malus de -2 aux jets d'attaque et de dégâts contre la créature qu'elle visait pendant toute la durée du sort.
+]]></raw>
+  <fullName>Pathfinder-RPG.Retenir la main</fullName>
+</wikiPage>

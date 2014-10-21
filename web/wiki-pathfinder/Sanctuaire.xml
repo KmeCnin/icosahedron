@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Sanctuaire</title>
+  <categories><category>Pathfinder-RPG.Manuel des joueurs</category><category>Pathfinder-RPG.Règles officielles</category><category>Pathfinder-RPG.Sort</category><category>Pathfinder-RPG.Sort prêtre 1</category></categories>
+  <lastModified>2012-10-25 17:12:58Z</lastModified>
+  <version>2</version>
+  <inLinks><link>Pathfinder-RPG.Akhana</link><link>Pathfinder-RPG.Archon étoile</link><link>Pathfinder-RPG.Archon messager</link><link>Pathfinder-RPG.Artiste des rues (barde)</link><link>Pathfinder-RPG.cape du lâche accroupi</link><link>Pathfinder-RPG.Crysmal</link><link>Pathfinder-RPG.Domaine de la Gloire</link><link>Pathfinder-RPG.Domaine de la Libération</link><link>Pathfinder-RPG.Domaine de la Protection</link><link>Pathfinder-RPG.Domaine des Runes</link><link>Pathfinder-RPG.Domaine du Charme</link><link>Pathfinder-RPG.Draconal</link><link>Pathfinder-RPG.Glossaire des sorts</link><link>Pathfinder-RPG.Inquisiteur</link><link>Pathfinder-RPG.Kirin</link><link>Pathfinder-RPG.Liste des sorts (fin)</link><link>Pathfinder-RPG.Liste des sorts de prêtres</link><link>Pathfinder-RPG.Liste des sorts dinquisiteur</link><link>Pathfinder-RPG.Misérable pitié</link><link>Pathfinder-RPG.Paraclétus</link><link>Pathfinder-RPG.Potions magiques</link><link>Pathfinder-RPG.Thélétos</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Abjuration</link><link>Pathfinder-RPG.Prêtre</link><link>Pathfinder-RPG.Action simple</link><link>Pathfinder-RPG.composantes</link><link>Pathfinder-RPG.Présentation des sorts</link><link>Pathfinder-RPG.round</link><link>Pathfinder-RPG.niveau</link><link>Pathfinder-RPG.Volonté</link></outLinks>
+  <body><![CDATA[&lt;b&gt;&#201;cole&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#ABJURATION&quot; title=&quot;Abjuration&quot;&gt;Abjuration&lt;/a&gt; ; &lt;b&gt;Niveau&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#234;tre.html&quot; title=&quot;Le pr&#234;tre&quot;&gt;Pr&#234;&lt;/a&gt; 1&lt;br/&gt;
+&lt;b&gt;Temps d&#39;incantation&lt;/b&gt; 1 &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions.html#SIMPLE&quot; title=&quot;Action simple&quot;&gt;action simple&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Composantes&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#COMPOSANTES&quot; title=&quot;composantes&quot;&gt;V, G, FD&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Port&#233;e&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#PORTEE&quot; title=&quot;Pr&#233;sentation des sorts&quot;&gt;contact&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Cible&lt;/b&gt; cr&#233;ature touch&#233;e&lt;br/&gt;
+&lt;b&gt;Dur&#233;e&lt;/b&gt; 1 &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#ROUND&quot; title=&quot;round&quot;&gt;round&lt;/a&gt;/&lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#NIVEAU&quot; title=&quot;niveau&quot;&gt;niveau&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Jet de sauvegarde&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;Volont&#233;&quot;&gt;Volont&#233;&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#JETSDESAUVEGARDE&quot; title=&quot;Pr&#233;sentation des sorts&quot;&gt;annule&lt;/a&gt; ; &lt;b&gt;R&#233;sistance &#224; la magie&lt;/b&gt; non&lt;br /&gt;&lt;br /&gt;Une fois le personnage prot&#233;g&#233; par &lt;i&gt;sanctuaire&lt;/i&gt;, tout adversaire tentant de l’attaquer ou de le prendre pour cible avec un sort doit tout d’abord r&#233;ussir un jet de &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;Volont&#233;&quot;&gt;Volont&#233;&lt;/a&gt;. En cas de r&#233;ussite, il n’est pas affect&#233; par le sort et peut agir normalement, sinon, il ne peut pas attaquer le personnage (mais il perd tout de m&#234;me l’action correspondante) et ne peut lui faire le moindre mal tant que dure le sort. Les cr&#233;atures qui n’agressent pas le personnage ne sont pas affect&#233;es par &lt;i&gt;sanctuaire&lt;/i&gt;. Le sort n’emp&#234;che pas l’individu prot&#233;g&#233; d’&#234;tre affect&#233; par des sorts de zone. Le b&#233;n&#233;ficiaire peut agir &#224; sa guise et lancer librement des sorts qui ne sont pas offensifs, mais s’il attaque qui que ce soit, le sort cesse aussit&#244;t.
+]]></body>
+  <raw><![CDATA['''École''' [[Abjuration]] ; '''Niveau''' [[prêtre|Prê]] 1<br/>
+'''Temps d'incantation''' 1 [[action simple]]<br/>
+'''Composantes''' [[composantes|V, G, FD]]<br/>
+'''Portée''' [[Présentation des sorts#PORTEE|contact]]<br/>
+'''Cible''' créature touchée<br/>
+'''Durée''' 1 [[round]]/[[niveau]]<br/>
+'''Jet de sauvegarde''' [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; '''Résistance à la magie''' non
+
+Une fois le personnage protégé par ''sanctuaire'', tout adversaire tentant de l’attaquer ou de le prendre pour cible avec un sort doit tout d’abord réussir un jet de [[Volonté]]. En cas de réussite, il n’est pas affecté par le sort et peut agir normalement, sinon, il ne peut pas attaquer le personnage (mais il perd tout de même l’action correspondante) et ne peut lui faire le moindre mal tant que dure le sort. Les créatures qui n’agressent pas le personnage ne sont pas affectées par ''sanctuaire''. Le sort n’empêche pas l’individu protégé d’être affecté par des sorts de zone. Le bénéficiaire peut agir à sa guise et lancer librement des sorts qui ne sont pas offensifs, mais s’il attaque qui que ce soit, le sort cesse aussitôt.
+]]></raw>
+  <fullName>Pathfinder-RPG.Sanctuaire</fullName>
+</wikiPage>

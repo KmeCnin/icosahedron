@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Inspection</title>
+  <categories><category>Pathfinder-RPG.Advanced Player Guide</category><category>Pathfinder-RPG.Règles officielles</category><category>Pathfinder-RPG.Sort</category><category>Pathfinder-RPG.Sort barde 0</category><category>Pathfinder-RPG.Sort inquisiteur 0</category></categories>
+  <lastModified>2012-11-04 12:58:53Z</lastModified>
+  <version>1</version>
+  <inLinks><link>Pathfinder-RPG.Glossaire des sorts</link><link>Pathfinder-RPG.Liste des sorts (suite)</link><link>Pathfinder-RPG.Liste des sorts de bardes</link><link>Pathfinder-RPG.Liste des sorts dinquisiteur</link><link>Pathfinder-RPG.TMP sorts APG</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Divination</link><link>Pathfinder-RPG.Barde</link><link>Pathfinder-RPG.Inquisiteur</link><link>Pathfinder-RPG.Action simple</link><link>Pathfinder-RPG.composantes</link><link>Pathfinder-RPG.instantanée</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.DD</link></outLinks>
+  <body><![CDATA[
+&lt;b&gt;&#201;cole&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Divination.html&quot; title=&quot;Divination&quot;&gt;Divination&lt;/a&gt;&#160;;&lt;b&gt; Niveau&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Barde.html&quot; title=&quot;Le barde&quot;&gt;barde&lt;/a&gt; 0, &lt;a class=&quot;pagelink&quot; href=&quot;Inquisiteur.html&quot; title=&quot;L&amp;#39;inquisiteur&quot;&gt;inquisiteur&lt;/a&gt; 0&lt;br/&gt;
+&lt;b&gt;Temps d&#39;incantation&lt;/b&gt; 1 &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions.html#SIMPLE&quot; title=&quot;Action simple&quot;&gt;action simple&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Composantes&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#COMPOSANTES&quot; title=&quot;composantes&quot;&gt;V, G&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Port&#233;e&lt;/b&gt; 9 m (6 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)&lt;br/&gt;
+&lt;b&gt;Zone&lt;/b&gt; cube de 3&#160;m (2 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) de c&#244;t&#233;&lt;br/&gt;
+&lt;b&gt;Dur&#233;e&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#DUREE&quot; title=&quot;instantan&#233;e&quot;&gt;instantan&#233;e&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Jet de sauvegarde&lt;/b&gt; aucun ; &lt;b&gt;R&#233;sistance &#224; la magie&lt;/b&gt; non&lt;br /&gt;&lt;br /&gt;Le personnage examine une zone &#224; port&#233;e comme s&#39;il cherchait de petits d&#233;tails &#224; l&#39;aide de la comp&#233;tence &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt;. Il fait un test de &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; avec un malus de -5, modifi&#233; comme &#224; l&#39;accoutum&#233;e selon les conditions dans lesquelles il se trouve. Les malus de distance ne comptent pas. Appliquez le &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DEGREDEDIFFICULTE&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; pour toute caract&#233;ristique cach&#233;e comme les portes secr&#232;tes, les pi&#232;ges ou les tr&#233;sors dissimul&#233;s. Le personnage doit &#234;tre en mesure de voir la zone qu&#39;il fouille et il ne d&#233;couvre que les d&#233;tails perceptibles &#224; la vue ou au toucher. &lt;i&gt;Inspection&lt;/i&gt; d&#233;tecte seulement les objets et les caract&#233;ristiques d&#39;un endroit, pas les cr&#233;atures.&lt;br /&gt;&lt;br /&gt;]]></body>
+  <raw><![CDATA[{s:APG}
+'''École''' [[Divination]] ;''' Niveau''' [[barde]] 0, [[inquisiteur]] 0<br/>
+'''Temps d'incantation''' 1 [[action simple]]<br/>
+'''Composantes''' [[Composantes|V, G]]<br/>
+'''Portée''' 9 m (6 {s:c})<br/>
+'''Zone''' cube de 3 m (2 {s:c}) de côté<br/>
+'''Durée''' [[instantanée]]<br/>
+'''Jet de sauvegarde''' aucun ; '''Résistance à la magie''' non
+
+Le personnage examine une zone à portée comme s'il cherchait de petits détails à l'aide de la compétence [[Perception]]. Il fait un test de [[Perception]] avec un malus de -5, modifié comme à l'accoutumée selon les conditions dans lesquelles il se trouve. Les malus de distance ne comptent pas. Appliquez le [[DD]] pour toute caractéristique cachée comme les portes secrètes, les pièges ou les trésors dissimulés. Le personnage doit être en mesure de voir la zone qu'il fouille et il ne découvre que les détails perceptibles à la vue ou au toucher. ''Inspection'' détecte seulement les objets et les caractéristiques d'un endroit, pas les créatures.
+
+]]></raw>
+  <fullName>Pathfinder-RPG.Inspection</fullName>
+</wikiPage>

@@ -1,0 +1,174 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Gobelin</title>
+  <categories><category>Pathfinder-RPG.Bestiaire</category><category>Pathfinder-RPG.Monstre</category><category>Pathfinder-RPG.Règles officielles</category></categories>
+  <lastModified>2014-05-05 12:27:56Z</lastModified>
+  <version>9</version>
+  <inLinks><link>Pathfinder-RPG.Barghest</link><link>Pathfinder-RPG.Barghest noble</link><link>Pathfinder-RPG.Cartes fantasmagoriques</link><link>Pathfinder-RPG.Diablotin</link><link>Pathfinder-RPG.Ettin</link><link>Pathfinder-RPG.FAQ Compétences</link><link>Pathfinder-RPG.Glossaire des monstres</link><link>Pathfinder-RPG.Gobelours</link><link>Pathfinder-RPG.Grindylow</link><link>Pathfinder-RPG.Hobgobelin</link><link>Pathfinder-RPG.La hache des seigneurs nains</link><link>Pathfinder-RPG.Linguistique</link><link>Pathfinder-RPG.Liste de monstres par FP</link><link>Pathfinder-RPG.Liste de monstres par milieu naturel</link><link>Pathfinder-RPG.Liste de monstres par type</link><link>Pathfinder-RPG.Manœuvres offensives</link><link>Pathfinder-RPG.Modificateurs de combat</link><link>Pathfinder-RPG.Monstres</link><link>Pathfinder-RPG.Réincarnation</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Homme darme</link><link>Pathfinder-RPG.type Humanoïde</link><link>Pathfinder-RPG.sous-type gobelinoïde</link><link>Pathfinder-RPG.vision dans le noir</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Science de linitiative</link><link>Pathfinder-RPG.Discrétion</link><link>Pathfinder-RPG.Équitation</link><link>Pathfinder-RPG.Natation</link><link>Pathfinder-RPG.Chien gobelin</link><link>Pathfinder-RPG.Loup</link><link>Pathfinder-RPG.Worg</link><link>Pathfinder-RPG.CA</link><link>Pathfinder-RPG.jet dattaque</link><link>Pathfinder-RPG.BMO</link><link>Pathfinder-RPG.DMD</link><link>Pathfinder-RPG.Intelligence</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Gobelin&lt;div style=&quot;float:right;&quot;&gt;FP 1/3&lt;/div&gt;&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Bestiaire p.162&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 135
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+Gobelin, &lt;a class=&quot;pagelink&quot; href=&quot;Homme-Darme.html&quot; title=&quot;L&amp;#39;homme d&amp;#39;arme&quot;&gt;homme d&#39;arme&lt;/a&gt; 1
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Humano&#239;de.html&quot; title=&quot;Humano&#239;de&quot;&gt;Humano&#239;de&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Gobelino&#239;de.html&quot; title=&quot;Gobelino&#239;de (sous-type)&quot;&gt;gobelino&#239;de&lt;/a&gt;) de taille P, NM
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +6 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Capacit&#233;s-Sp&#233;ciales.html#VISIONDANSLENOIR&quot; title=&quot;vision dans le noir&quot;&gt;vision dans le noir&lt;/a&gt; 18 m (12 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; -1
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 16, contact 13, pris au d&#233;pourvu 14 (armure +2, bouclier +1, Dex +2, taille +1)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 6 (1d10+1)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +2, &lt;b&gt;Vig&lt;/b&gt; +3, &lt;b&gt;Vol&lt;/b&gt; -1
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 9 m (6 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; &#233;p&#233;e courte, +2 (1d4/19-20)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Distance&lt;/b&gt; arc court, +4 (1d4/x3)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 11, &lt;b&gt;Dex&lt;/b&gt; 15, &lt;b&gt;Con&lt;/b&gt; 12, &lt;b&gt;Int&lt;/b&gt; 10, &lt;b&gt;Sag&lt;/b&gt; 9, &lt;b&gt;Cha&lt;/b&gt; 6
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +1, &lt;b&gt;BMO&lt;/b&gt; +0, &lt;b&gt;DMD&lt;/b&gt; 12
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Science-De-Linitiative.html&quot; title=&quot;Science de l&amp;#39;initiative&quot;&gt;Science de l&#39;initiative&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; +10, &lt;a class=&quot;pagelink&quot; href=&quot;&#201;quitation.html&quot; title=&quot;&#201;quitation&quot;&gt;&#201;quitation&lt;/a&gt; +10, &lt;a class=&quot;pagelink&quot; href=&quot;Natation.html&quot; title=&quot;Natation&quot;&gt;Natation&lt;/a&gt; +4 ; &lt;b&gt;Modificateurs raciaux&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; +4, &lt;a class=&quot;pagelink&quot; href=&quot;&#201;quitation.html&quot; title=&quot;&#201;quitation&quot;&gt;&#201;quitation&lt;/a&gt; +4
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Langues&lt;/b&gt; gobelin
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; for&#234;ts/plaines temp&#233;r&#233;s (r&#233;gions c&#244;ti&#232;res surtout)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation sociale&lt;/b&gt; bande (4-9), groupe de combat (10-16 avec de &lt;a class=&quot;pagelink&quot; href=&quot;Chien-Gobelin.html&quot; title=&quot;Chien gobelin&quot;&gt;chiens gobelins&lt;/a&gt; comme montures) ou tribu (17+ plus 100% non combattants ; 1 sergent de niveau 3 par 20 adultes ; 1 ou 2 lieutenants de niveau 4 ou 5 ; 1 chef de niveau 6-8 ; et 10-40 &lt;a class=&quot;pagelink&quot; href=&quot;Chien-Gobelin.html&quot; title=&quot;Chien gobelin&quot;&gt;chiens gobelin&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Loup.html&quot; title=&quot;Loup&quot;&gt;loups&lt;/a&gt; ou &lt;a class=&quot;pagelink&quot; href=&quot;Worg.html&quot; title=&quot;Worg&quot;&gt;worgs&lt;/a&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; &#233;quipement de PNJ (arc court avec 20 fl&#232;ches, armure de cuir, &#233;p&#233;e courte, rondache de bois, autres tr&#233;sors)
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;td&gt;&lt;div&gt;&lt;i&gt;La large t&#234;te disgracieuse de cet humano&#239;de d’&#224; peine un m&#232;tre semble totalement disproportionn&#233;e par rapport &#224; son corps maigrelet.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Les gobelins vivent g&#233;n&#233;ralement dans des grottes perdues
+au cœur de vastes et denses fourr&#233;s de chardons et de ronces ou
+dans les &#233;difices que d’autres ont construits puis abandonn&#233;s. Les
+gobelins qui ont le courage de b&#226;tir des habitations eux-m&#234;mes
+sont tr&#232;s rares. Ils pr&#233;f&#232;rent les r&#233;gions c&#244;ti&#232;res car ils aiment
+fouiller les &#233;paves et les d&#233;chets flottants &#224; la recherche de tr&#233;sors
+cach&#233;s parmi les d&#233;tritus des races plus civilis&#233;es.&lt;br /&gt;&lt;br /&gt;Les gobelins peuvent ha&#239;r de mani&#232;re tr&#232;s intense. Parmi
+les choses qui attisent le plus leur col&#232;re, on trouve les
+gnomes (qui ont longtemps combattu les gobelins), les
+chevaux (que les gobelins trouvent terriblement effrayants)
+et les chiens (qu’ils consid&#232;rent comme de p&#226;les copies des chiens
+gobelins).&lt;br /&gt;&lt;br /&gt;Les gobelins sont &#233;galement tr&#232;s superstitieux et voient la magie
+avec un m&#233;lange d’admiration et de crainte. Ils ont &#233;galement
+tendance &#224; donner des qualit&#233;s magiques &#224; des choses tout &#224; fait
+normales : par exemple, la soci&#233;t&#233; gobeline accorde au feu et &#224;
+l’&#233;criture des pouvoirs quasi mystiques. Les gobelins aiment
+beaucoup le feu pour son &#233;norme potentiel destructif et parce qu’il
+n’est pas n&#233;cessaire d’&#234;tre grand ou fort pour l’utiliser, mais ils
+d&#233;testent l’&#233;criture. Ils pensent qu’&#233;crire vous enl&#232;ve les mots de la
+t&#234;te. C’est pour cela qu’ils sont tous illettr&#233;s.&lt;br /&gt;&lt;br /&gt;Les gobelins ont un app&#233;tit vorace et peuvent manger chaque
+jour une quantit&#233; &#233;gale au poids de leur corps sans grossir
+pour autant. Les repaires des gobelins comportent toujours de
+nombreuses salles de stockage et r&#233;serves de nourriture. Ils
+pr&#233;f&#232;rent la chair humaine et gnome mais ne refuseront pas les
+autres types de nourriture, &#224; l’exception des l&#233;gumes peut-&#234;tre.&lt;br /&gt;&lt;br /&gt;&lt;h3 class=&quot;separator&quot;&gt;Les gobelins en tant que PJ&lt;a class=&quot;headeranchor&quot; id=&quot;Les_gobelins_en_tant_que_PJ_0&quot; href=&quot;#Les_gobelins_en_tant_que_PJ_0&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;
+Les gobelins ne poss&#232;dent pas de d&#233; de vie raciaux et progressent en acqu&#233;rant des niveaux de classe. Leurs traits raciaux sont les suivants :
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;-2 Force, +4 Dext&#233;rit&#233;, -2 Charisme.&lt;/b&gt; Les gobelins sont rapides mais faibles et peu agr&#233;ables &#224; c&#244;toyer.&lt;BR&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;Comp&#233;tents.&lt;/b&gt; Bonus racial de +4 aux tests de &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; et d&#39;&lt;a class=&quot;pagelink&quot; href=&quot;&#201;quitation.html&quot; title=&quot;&#201;quitation&quot;&gt;&#201;quitation&lt;/a&gt;.&lt;BR&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;Petite taille.&lt;/b&gt; Les gobelins sont des cr&#233;atures de taille P. Ils gagnent donc un bonus de taille de +1 &#224; la &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#CA&quot; title=&quot;CA&quot;&gt;CA&lt;/a&gt;, un bonus de taille de +1 aux &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDATTAQUE&quot; title=&quot;jet dattaque&quot;&gt;jets d&#39;attaque&lt;/a&gt;, un malus de -1 au &lt;a class=&quot;pagelink&quot; href=&quot;Manœuvres-Offensives.html#BMO&quot; title=&quot;BMO&quot;&gt;BMO&lt;/a&gt; et au &lt;a class=&quot;pagelink&quot; href=&quot;Manœuvres-Offensives.html#DMD&quot; title=&quot;DMD&quot;&gt;DMD&lt;/a&gt; et une bonus de taille de +4 aux tests de &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt;.&lt;BR&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;Rapidit&#233;.&lt;/b&gt; malgr&#233; leur taille, les gobelins sont rapides. Leur vitesse de d&#233;placement de base est de 9 m (6 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;).&lt;BR&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;Vision dans le noir.&lt;/b&gt; Les gobelins peuvent voir dans le noir jusqu&#39;&#224; 18 m (12 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;).&lt;BR&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;Langues.&lt;/b&gt; Les gobelins parlent automatiquement le gobelin. S&#39;ils ont une &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#INTELLIGENCE&quot; title=&quot;L&amp;#39;Intelligence&quot;&gt;Intelligence&lt;/a&gt; &#233;lev&#233;e, ils peuvent choisir des langues suppl&#233;mentaires parmi les suivantes : commun, draconique, gnoll, gnome, halfelin, nain, orque.&lt;br /&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;br /&gt;&lt;/li&gt;&lt;/ul&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Gobelin|FP 1/3}
+{s:pucem|Humanoïde|Forêt-Jungle|Tempéré}
+{s:BDTexte|''Source : Bestiaire p.162''}
+{s:BDTexte|'''PX''' 135}
+{s:BDTexte|Gobelin, [[homme darme|homme d'arme]] 1}
+{s:BDTexte|[[type Humanoïde|Humanoïde]] ([[sous-type gobelinoïde|gobelinoïde]]) de taille P, NM}
+{s:BDTexte|'''Init''' +6 ; '''Sens''' [[vision dans le noir]] 18 m (12 {s:c}) ; [[Perception]] -1}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 16, contact 13, pris au dépourvu 14 (armure +2, bouclier +1, Dex +2, taille +1)}
+{s:BDTexte|'''pv''' 6 (1d10+1)}
+{s:BDTexte|'''Réf''' +2, '''Vig''' +3, '''Vol''' -1}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 9 m (6 {s:c})}
+{s:BDTexte|'''Corps à corps''' épée courte, +2 (1d4/19-20)}
+{s:BDTexte|'''Distance''' arc court, +4 (1d4/x3)}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 11, '''Dex''' 15, '''Con''' 12, '''Int''' 10, '''Sag''' 9, '''Cha''' 6}
+{s:BDTexte|'''BBA''' +1, '''BMO''' +0, '''DMD''' 12}
+{s:BDTexte|'''Dons''' [[Science de linitiative|Science de l'initiative]]}
+{s:BDTexte|'''Compétences''' [[Discrétion]] +10, [[Équitation]] +10, [[Natation]] +4 ; '''Modificateurs raciaux''' [[Discrétion]] +4, [[Équitation]] +4}
+{s:BDTexte|'''Langues''' gobelin}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' forêts/plaines tempérés (régions côtières surtout)}
+{s:BDTexte|'''Organisation sociale''' bande (4-9), groupe de combat (10-16 avec de [[chien gobelin|chiens gobelins]] comme montures) ou tribu (17+ plus 100% non combattants ; 1 sergent de niveau 3 par 20 adultes ; 1 ou 2 lieutenants de niveau 4 ou 5 ; 1 chef de niveau 6-8 ; et 10-40 [[chien gobelin|chiens gobelin]], [[loup|loups]] ou [[worg|worgs]])}
+{s:BDTexte|'''Trésor''' équipement de PNJ (arc court avec 20 flèches, armure de cuir, épée courte, rondache de bois, autres trésors)}
+</div>
+</td><td><div>''La large tête disgracieuse de cet humanoïde d’à peine un mètre semble totalement disproportionnée par rapport à son corps maigrelet.''
+
+Les gobelins vivent généralement dans des grottes perdues
+au cœur de vastes et denses fourrés de chardons et de ronces ou
+dans les édifices que d’autres ont construits puis abandonnés. Les
+gobelins qui ont le courage de bâtir des habitations eux-mêmes
+sont très rares. Ils préfèrent les régions côtières car ils aiment
+fouiller les épaves et les déchets flottants à la recherche de trésors
+cachés parmi les détritus des races plus civilisées.
+
+Les gobelins peuvent haïr de manière très intense. Parmi
+les choses qui attisent le plus leur colère, on trouve les
+gnomes (qui ont longtemps combattu les gobelins), les
+chevaux (que les gobelins trouvent terriblement effrayants)
+et les chiens (qu’ils considèrent comme de pâles copies des chiens
+gobelins).
+
+Les gobelins sont également très superstitieux et voient la magie
+avec un mélange d’admiration et de crainte. Ils ont également
+tendance à donner des qualités magiques à des choses tout à fait
+normales : par exemple, la société gobeline accorde au feu et à
+l’écriture des pouvoirs quasi mystiques. Les gobelins aiment
+beaucoup le feu pour son énorme potentiel destructif et parce qu’il
+n’est pas nécessaire d’être grand ou fort pour l’utiliser, mais ils
+détestent l’écriture. Ils pensent qu’écrire vous enlève les mots de la
+tête. C’est pour cela qu’ils sont tous illettrés.
+
+Les gobelins ont un appétit vorace et peuvent manger chaque
+jour une quantité égale au poids de leur corps sans grossir
+pour autant. Les repaires des gobelins comportent toujours de
+nombreuses salles de stockage et réserves de nourriture. Ils
+préfèrent la chair humaine et gnome mais ne refuseront pas les
+autres types de nourriture, à l’exception des légumes peut-être.
+
+====Les gobelins en tant que PJ====
+
+Les gobelins ne possèdent pas de dé de vie raciaux et progressent en acquérant des niveaux de classe. Leurs traits raciaux sont les suivants :
+* '''-2 Force, +4 Dextérité, -2 Charisme.''' Les gobelins sont rapides mais faibles et peu agréables à côtoyer.<BR>
+* '''Compétents.''' Bonus racial de +4 aux tests de [[Discrétion]] et d'[[Équitation]].<BR>
+* '''Petite taille.''' Les gobelins sont des créatures de taille P. Ils gagnent donc un bonus de taille de +1 à la [[CA]], un bonus de taille de +1 aux [[jet dattaque|jets d'attaque]], un malus de -1 au [[BMO]] et au [[DMD]] et une bonus de taille de +4 aux tests de [[Discrétion]].<BR>
+* '''Rapidité.''' malgré leur taille, les gobelins sont rapides. Leur vitesse de déplacement de base est de 9 m (6 {s:c}).<BR>
+* '''Vision dans le noir.''' Les gobelins peuvent voir dans le noir jusqu'à 18 m (12 {s:c}).<BR>
+* '''Langues.''' Les gobelins parlent automatiquement le gobelin. S'ils ont une [[Intelligence]] élevée, ils peuvent choisir des langues supplémentaires parmi les suivantes : commun, draconique, gnoll, gnome, halfelin, nain, orque.
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Gobelin</fullName>
+</wikiPage>

@@ -1,0 +1,210 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Hippocampe</title>
+  <categories><category>Pathfinder-RPG.Bestiaire 2</category><category>Pathfinder-RPG.Monstre</category></categories>
+  <lastModified>2014-03-12 12:35:30Z</lastModified>
+  <version>1</version>
+  <inLinks><link>Pathfinder-RPG.Glossaire des monstres</link><link>Pathfinder-RPG.Kelpie</link><link>Pathfinder-RPG.Liste de monstres par FP</link><link>Pathfinder-RPG.Liste de monstres par milieu naturel</link><link>Pathfinder-RPG.Liste de monstres par type</link><link>Pathfinder-RPG.Monstres</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.type Créature magique</link><link>Pathfinder-RPG.sous-type aquatique</link><link>Pathfinder-RPG.odorat</link><link>Pathfinder-RPG.vision nocturne</link><link>Pathfinder-RPG.vision dans le noir</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Endurance</link><link>Pathfinder-RPG.Natation</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Hippocampe&lt;div style=&quot;float:right;&quot;&gt;FP 1&lt;/div&gt;&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Bestiaire 2 p.163&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 400
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+ &lt;a class=&quot;pagelink&quot; href=&quot;Type-Cr&#233;ature-Magique.html&quot; title=&quot;Cr&#233;ature magique&quot;&gt;Cr&#233;ature magique&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Aquatique.html&quot; title=&quot;Aquatique (sous-type)&quot;&gt;aquatique&lt;/a&gt;) de taille G, N
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; -1 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Odorat-(Capacit&#233;).html&quot; title=&quot;odorat&quot;&gt;odorat&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Nocturne-(Capacit&#233;).html&quot; title=&quot;vision nocturne&quot;&gt;vision nocturne&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Capacit&#233;s-Sp&#233;ciales.html#VISIONDANSLENOIR&quot; title=&quot;vision dans le noir&quot;&gt;vision dans le noir&lt;/a&gt; ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt;+6
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 12, contact 8, pris au d&#233;pourvu 12 (Dex -1, naturelle +4, taille -1)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 15 (2d10+4)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +2, &lt;b&gt;Vig&lt;/b&gt; +5, &lt;b&gt;Vol&lt;/b&gt; +1
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 1,5 m (1 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), nage 18 m (12 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; morsure +4 (1d4+3)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+ et coup de queue -1 (1d4+1)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Espace&lt;/b&gt; 3 m (2 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;); &lt;b&gt;Allonge&lt;/b&gt; 1,5 m (1 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 16, &lt;b&gt;Dex&lt;/b&gt; 9, &lt;b&gt;Con&lt;/b&gt; 15, &lt;b&gt;Int&lt;/b&gt; 2, &lt;b&gt;Sag&lt;/b&gt; 12, &lt;b&gt;Cha&lt;/b&gt; 11
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +2, &lt;b&gt;BMO&lt;/b&gt; +6, &lt;b&gt;DMD&lt;/b&gt; 15
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Endurance.html&quot; title=&quot;Endurance&quot;&gt;Endurance&lt;/a&gt;&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Natation.html&quot; title=&quot;Natation&quot;&gt;Natation&lt;/a&gt;&lt;/a&gt;  +11 , &lt;a&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt;&lt;/a&gt;  +6
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Particularit&#233;s&lt;/b&gt; Besoin d&#39;eau
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; milieu aquatique
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation sociale&lt;/b&gt; solitaire, couple ou banc (3-16)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; aucun
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Pouvoirs sp&#233;ciaux&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Besoin d&#39;eau (Ext)&lt;/b&gt; Un hippocampe peut survivre hors de l’eau pendant 1 minute par point de Constitution. Pass&#233; ce d&#233;lais, il risque de suffoquer, comme s’il se noyait
+&lt;/div&gt;&lt;br /&gt;
+&lt;/td&gt;&lt;td&gt;&lt;div&gt;&lt;i&gt;De face, cette cr&#233;ature ressemble &#224; un cheval et, de dos &#224; un poisson. Ses 
+pattes avant se terminent par des nageoires plut&#244;t que des sabots.&lt;/i&gt;
+Les  &#233;cailles  des  hippocampes  varient  en  couleur, 
+de  l’ivoire  au  vert  fonc&#233;  en  passant  par  le  bleu  c&#233;rul&#233;en 
+avec  des  reflets  argent&#233;s.  Les  races  aquatiques  telles  que 
+les  hommes-poissons  et  les  locathahs  les  entra&#238;nent 
+souvent  comme  montures  ou  comme  animaux  de  b&#226;t  pour 
+tirer  d’astucieux  chariots  sous-marins.  &#192;  l’&#233;tat  sauvage,  les 
+hippocampes pr&#233;f&#232;rent vivre dans les eaux  relativement  peu 
+profondes  o&#249;  leur  nourriture  pr&#233;f&#233;r&#233;e 
+(les  algues  et  le  varech)  est  abondante 
+et  les  grands  pr&#233;dateurs,  plut&#244;t  rares. 
+Ces cr&#233;atures se rassemblent souvent en 
+larges bancs pour voyager, un peu comme 
+les grands troupeaux de chevaux sauvages le 
+font sur terre.
+Les  hippocampes  sont  relativement  faciles 
+&#224;  entra&#238;ner  :  le  temps  n&#233;cessaire  et  le  co&#251;t 
+de  leur  entra&#238;nement  &#233;quivalent  &#224;  ceux 
+d’un  cheval.  Comme  une  armure  pourrait 
+r&#233;duire  la  vitesse  de  nage  des  hippocampes, 
+ceux  qui  les  entra&#238;nent  pour  le  combat  ne 
+prennent  g&#233;n&#233;ralement  pas  la  peine  de  les 
+&#233;quiper  d’une  barde.  Mais  lorsqu’ils  le  font, 
+ils  optent  plut&#244;t  pour  les  armures  les  plus  l&#233;g&#232;res  possibles 
+(comme  les  bardes  matelass&#233;es  ou  en  cuir).  Le  combat  &#224;  dos 
+d’hippocampe  se  d&#233;roule  de  la  m&#234;me  mani&#232;re  que  sur  un 
+cheval,  mais  l’hippocampe  est  plut&#244;t  maladroit  sur  terre  et  ne 
+peut  pas  se  d&#233;placer  du  tout  lorsqu’il  porte  un  cavalier.  M&#234;me 
+si les hippocampes n’ont que deux pattes (avant), on d&#233;termine 
+leur capacit&#233; de transport comme s’ils en avaient quatre. Ainsi, 
+une charge l&#233;g&#232;re peut aller jusqu’&#224; 114 kg pour un hippocampe 
+moyen, une charge interm&#233;diaire jusqu’&#224; 229,5 kg et une charge 
+lourde, jusqu’&#224; 345 kg.
+Il  existe  plusieurs  variantes  d’hippocampes,  mais  la  plupart 
+de  ces  esp&#232;ces  se  distinguent  de  la  cr&#233;ature  pr&#233;sent&#233;e  ici 
+uniquement  par  leur  couleur  et  par  leur  s&#233;lection  de  dons. 
+Les  dons  qui  remplacent  le  plus  souvent  celui  d’Endurance 
+chez  ces  autres  esp&#232;ces  sont  R&#233;flexes  surhumains,  Robustesse, 
+Science  de  l’initiative,  Talent  (Natation),  Vigueur  surhumaine 
+et  Volont&#233;  de  fer.  Certaines  esp&#232;ces  d’hippocampes  sont  plus 
+robustes  et  globalement  plus  puissantes.  Ces  cr&#233;atures  vivent 
+g&#233;n&#233;ralement dans les eaux plus froides et sont connues sous le 
+nom  d’hippocampes  polaires.  Un  hippocampe  polaire  poss&#232;de 
+l’arch&#233;type simple de &#171; cr&#233;ature &#233;volu&#233;e &#187;. Les hippocampes les 
+plus  formidables,  qu’on  appelle hippocampes g&#233;ants, sont  bien 
+plus grands. Pour dresser leur profil, faites &#233;voluer l’hippocampe 
+standard jusqu’&#224; la taille TG et augmentez ses DV jusqu’&#224; 10. Un 
+hippocampe g&#233;ant a un FP de 8.
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Hippocampe|FP 1}
+{s:pucem|Créature magique|Aquatique|Tempéré}
+{s:BDTexte|<i>Source : Bestiaire 2 p.163</i>}
+{s:BDTexte|<b>PX</b> 400}
+{s:BDTexte| [[type Créature magique|Créature magique]] ([[sous-type aquatique|aquatique]]) de taille G, N}
+{s:BDTexte|<b>Init</b> -1 ; <b>Sens</b> [[odorat]], [[vision nocturne]], [[vision dans le noir]] ; [[Perception]]+6}
+{s:BDSousTitre|Défense}
+{s:BDTexte|<b>CA</b> 12, contact 8, pris au dépourvu 12 (Dex -1, naturelle +4, taille -1)}
+{s:BDTexte|<b>pv</b> 15 (2d10+4)}
+{s:BDTexte|<b>Réf</b> +2, <b>Vig</b> +5, <b>Vol</b> +1}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|<b>VD</b> 1,5 m (1 {s:c}), nage 18 m (12 {s:c})}
+{s:BDTexte|<b>Corps à corps</b> morsure +4 (1d4+3)}
+{s:BDTexte| et coup de queue -1 (1d4+1)}
+{s:BDTexte|<b>Espace</b> 3 m (2 {s:c}); <b>Allonge</b> 1,5 m (1 {s:c})}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|<b>For</b> 16, <b>Dex</b> 9, <b>Con</b> 15, <b>Int</b> 2, <b>Sag</b> 12, <b>Cha</b> 11}
+{s:BDTexte|<b>BBA</b> +2, <b>BMO</b> +6, <b>DMD</b> 15}
+{s:BDTexte|<b>Dons</b> <a>[[Endurance]]</a>}
+{s:BDTexte|<b>Compétences</b> <a>[[Natation]]</a>  +11 , <a>[[Perception]]</a>  +6}
+{s:BDTexte|<b>Particularités</b> Besoin d'eau}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|<b>Environnement</b> milieu aquatique}
+{s:BDTexte|<b>Organisation sociale</b> solitaire, couple ou banc (3-16)}
+{s:BDTexte|<b>Trésor</b> aucun}
+{s:BDSousTitre|Pouvoirs spéciaux}
+{s:BDTexte|<b>Besoin d'eau (Ext)</b> Un hippocampe peut survivre hors de l’eau pendant 1 minute par point de Constitution. Passé ce délais, il risque de suffoquer, comme s’il se noyait}
+
+
+</td><td><div>''De face, cette créature ressemble à un cheval et, de dos à un poisson. Ses 
+pattes avant se terminent par des nageoires plutôt que des sabots.''
+Les  écailles  des  hippocampes  varient  en  couleur, 
+de  l’ivoire  au  vert  foncé  en  passant  par  le  bleu  céruléen 
+avec  des  reflets  argentés.  Les  races  aquatiques  telles  que 
+les  hommes-poissons  et  les  locathahs  les  entraînent 
+souvent  comme  montures  ou  comme  animaux  de  bât  pour 
+tirer  d’astucieux  chariots  sous-marins.  À  l’état  sauvage,  les 
+hippocampes préfèrent vivre dans les eaux  relativement  peu 
+profondes  où  leur  nourriture  préférée 
+(les  algues  et  le  varech)  est  abondante 
+et  les  grands  prédateurs,  plutôt  rares. 
+Ces créatures se rassemblent souvent en 
+larges bancs pour voyager, un peu comme 
+les grands troupeaux de chevaux sauvages le 
+font sur terre.
+Les  hippocampes  sont  relativement  faciles 
+à  entraîner  :  le  temps  nécessaire  et  le  coût 
+de  leur  entraînement  équivalent  à  ceux 
+d’un  cheval.  Comme  une  armure  pourrait 
+réduire  la  vitesse  de  nage  des  hippocampes, 
+ceux  qui  les  entraînent  pour  le  combat  ne 
+prennent  généralement  pas  la  peine  de  les 
+équiper  d’une  barde.  Mais  lorsqu’ils  le  font, 
+ils  optent  plutôt  pour  les  armures  les  plus  légères  possibles 
+(comme  les  bardes  matelassées  ou  en  cuir).  Le  combat  à  dos 
+d’hippocampe  se  déroule  de  la  même  manière  que  sur  un 
+cheval,  mais  l’hippocampe  est  plutôt  maladroit  sur  terre  et  ne 
+peut  pas  se  déplacer  du  tout  lorsqu’il  porte  un  cavalier.  Même 
+si les hippocampes n’ont que deux pattes (avant), on détermine 
+leur capacité de transport comme s’ils en avaient quatre. Ainsi, 
+une charge légère peut aller jusqu’à 114 kg pour un hippocampe 
+moyen, une charge intermédiaire jusqu’à 229,5 kg et une charge 
+lourde, jusqu’à 345 kg.
+Il  existe  plusieurs  variantes  d’hippocampes,  mais  la  plupart 
+de  ces  espèces  se  distinguent  de  la  créature  présentée  ici 
+uniquement  par  leur  couleur  et  par  leur  sélection  de  dons. 
+Les  dons  qui  remplacent  le  plus  souvent  celui  d’Endurance 
+chez  ces  autres  espèces  sont  Réflexes  surhumains,  Robustesse, 
+Science  de  l’initiative,  Talent  (Natation),  Vigueur  surhumaine 
+et  Volonté  de  fer.  Certaines  espèces  d’hippocampes  sont  plus 
+robustes  et  globalement  plus  puissantes.  Ces  créatures  vivent 
+généralement dans les eaux plus froides et sont connues sous le 
+nom  d’hippocampes  polaires.  Un  hippocampe  polaire  possède 
+l’archétype simple de « créature évoluée ». Les hippocampes les 
+plus  formidables,  qu’on  appelle hippocampes géants, sont  bien 
+plus grands. Pour dresser leur profil, faites évoluer l’hippocampe 
+standard jusqu’à la taille TG et augmentez ses DV jusqu’à 10. Un 
+hippocampe géant a un FP de 8.
+</div></td></tr></table>
+]]></raw>
+  <fullName>Pathfinder-RPG.Hippocampe</fullName>
+</wikiPage>

@@ -1,0 +1,143 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Ariès</title>
+  <categories></categories>
+  <lastModified>2013-09-11 14:42:20Z</lastModified>
+  <version>12</version>
+  <inLinks><link>Pathfinder-RPG.Démon</link><link>Pathfinder-RPG.Glossaire des monstres</link><link>Pathfinder-RPG.Liste de monstres par FP</link><link>Pathfinder-RPG.Liste de monstres par milieu naturel</link><link>Pathfinder-RPG.Monstres</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.type Extérieur</link><link>Pathfinder-RPG.sous-type Chaos</link><link>Pathfinder-RPG.sous-type démon</link><link>Pathfinder-RPG.sous-type extraplanaire</link><link>Pathfinder-RPG.sous-type Mal</link><link>Pathfinder-RPG.Détection de linvisibilité</link><link>Pathfinder-RPG.vision dans le noir</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Réduction de dégâts (capacité)</link><link>Pathfinder-RPG.Immunité (capacité)</link><link>Pathfinder-RPG.Résistance (capacité)</link><link>Pathfinder-RPG.Charge puissante (capacité)</link><link>Pathfinder-RPG.Don des langues</link><link>Pathfinder-RPG.Protection contre le Bien</link><link>Pathfinder-RPG.Repli expéditif</link><link>Pathfinder-RPG.Verrou du mage</link><link>Pathfinder-RPG.convocation</link><link>Pathfinder-RPG.Arme de prédilection</link><link>Pathfinder-RPG.Attaque en puissance</link><link>Pathfinder-RPG.Volonté de fer</link><link>Pathfinder-RPG.Acrobaties</link><link>Pathfinder-RPG.Escalade</link><link>Pathfinder-RPG.Intimidation</link><link>Pathfinder-RPG.Survie</link><link>Pathfinder-RPG.Télépathie</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Ari&#232;s (D&#233;mon)&lt;div style=&quot;float:right;&quot;&gt;FP 4&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Bestiaire 3&lt;/i&gt; p.74
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 1 200
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Ext&#233;rieur.html&quot; title=&quot;Ext&#233;rieur&quot;&gt;Ext&#233;rieur&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Chaos.html&quot; title=&quot;Chaos (sous-type)&quot;&gt;Chaos&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-D&#233;mon.html&quot; title=&quot;D&#233;mon (sous-type)&quot;&gt;d&#233;mon&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Extraplanaire.html&quot; title=&quot;Extraplanaire (sous-type)&quot;&gt;extraplanaire&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Mal.html&quot; title=&quot;Mal (sous-type)&quot;&gt;Mal&lt;/a&gt;) de taille M, CM
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +2 ; &lt;b&gt;Sens&lt;/b&gt; &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;D&#233;tection-De-Linvisibilit&#233;.html&quot; title=&quot;D&#233;tection de l&amp;#39;invisibilit&#233;&quot;&gt;d&#233;tection de l&#39;invisibilit&#233;&lt;/a&gt;&lt;/i&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Capacit&#233;s-Sp&#233;ciales.html#VISIONDANSLENOIR&quot; title=&quot;vision dans le noir&quot;&gt;vision dans le noir&lt;/a&gt; 18 m (12 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +13
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 19, contact 12, pris au d&#233;pourvu 17 (Dex +2, naturelle +7)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 37 (5d10+10)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +3, &lt;b&gt;Vig&lt;/b&gt; +6, &lt;b&gt;Vol&lt;/b&gt; +3
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;&lt;a class=&quot;pagelink&quot; href=&quot;R&#233;duction-De-D&#233;g&#226;ts-(Capacit&#233;).html&quot; title=&quot;R&#233;duction de d&#233;g&#226;ts (Ext ou Sur)&quot;&gt;RD&lt;/a&gt;&lt;/b&gt; 5/Bien ou fer froid ; &lt;b&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Immunit&#233;-(Capacit&#233;).html&quot; title=&quot;Immunit&#233; (Ext ou Sur)&quot;&gt;Immunit&#233;&lt;/a&gt;&lt;/b&gt; &#233;lectricit&#233;, maladie, poison ; &lt;b&gt;&lt;a class=&quot;pagelink&quot; href=&quot;R&#233;sistance-(Capacit&#233;).html&quot; title=&quot;R&#233;sistance (aux &#233;nergies destructrices) (Ext)&quot;&gt;R&#233;sistance&lt;/a&gt;&lt;/b&gt; acide 10, feu 10, froid 10 ; &lt;b&gt;R&#233;sistance &#224; la magie (capacit&#233;)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 9 m (6 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; corne, +3 (1d6+2) et hallebarde de ma&#238;tre, +10 (1d10+4/&#215;3 plus maladie) ou corne, +8 (1d6+4)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaques sp&#233;ciales&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Charge-Puissante-(Capacit&#233;).html&quot; title=&quot;Charge puissante (Ext)&quot;&gt;Charge puissante&lt;/a&gt; (corne, 3d6+4)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Pouvoirs magiques&lt;/b&gt; (NLS 6 ; concentration +4)
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+Constant — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;D&#233;tection-De-Linvisibilit&#233;.html&quot; title=&quot;D&#233;tection de l&amp;#39;invisibilit&#233;&quot;&gt;d&#233;tection de l&#39;invisibilit&#233;&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Don-Des-Langues.html&quot; title=&quot;Don des langues&quot;&gt;don des langues&lt;/a&gt;&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+3/jour — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Protection-Contre-Le-Bien.html&quot; title=&quot;Protection contre le Bien&quot;&gt;protection contre le Bien&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Repli-Exp&#233;ditif.html&quot; title=&quot;Repli exp&#233;ditif&quot;&gt;repli exp&#233;ditif&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Verrou-Du-Mage.html&quot; title=&quot;Verrou du mage&quot;&gt;verrou du mage&lt;/a&gt;&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+1/jour — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#CONVOCATION&quot; title=&quot;convocation&quot;&gt;convocation&lt;/a&gt;&lt;/i&gt; (niveau 2, 1d3 ari&#232;s 20%)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 17, &lt;b&gt;Dex&lt;/b&gt; 14, &lt;b&gt;Con&lt;/b&gt; 15, &lt;b&gt;Int&lt;/b&gt; 8, &lt;b&gt;Sag&lt;/b&gt; 5, &lt;b&gt;Cha&lt;/b&gt; 6
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +5 ; &lt;b&gt;BMO&lt;/b&gt; +8 ; &lt;b&gt;DMD&lt;/b&gt; 20
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Arme-De-Pr&#233;dilection.html&quot; title=&quot;Arme de pr&#233;dilection&quot;&gt;Arme de pr&#233;dilection&lt;/a&gt; (hallebarde), &lt;a class=&quot;pagelink&quot; href=&quot;Attaque-En-Puissance.html&quot; title=&quot;Attaque en puissance&quot;&gt;Attaque en puissance&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Volont&#233;-De-Fer.html&quot; title=&quot;Volont&#233; de fer&quot;&gt;Volont&#233; de fer&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Acrobaties.html&quot; title=&quot;Acrobaties&quot;&gt;Acrobaties&lt;/a&gt; +10 (+18 pour le saut), &lt;a class=&quot;pagelink&quot; href=&quot;Escalade.html&quot; title=&quot;Escalade&quot;&gt;Escalade&lt;/a&gt; +11, &lt;a class=&quot;pagelink&quot; href=&quot;Intimidation.html&quot; title=&quot;Intimidation&quot;&gt;Intimidation&lt;/a&gt; +6, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +13, &lt;a class=&quot;pagelink&quot; href=&quot;Survie.html&quot; title=&quot;Survie&quot;&gt;Survie&lt;/a&gt; +2 &lt;b&gt;Modificateurs raciaux&lt;/b&gt; +8 en &lt;a class=&quot;pagelink&quot; href=&quot;Acrobaties.html&quot; title=&quot;Acrobaties&quot;&gt;Acrobaties&lt;/a&gt; pour sauter, +8 en &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Langues&lt;/b&gt; abyssal ; &lt;a class=&quot;pagelink&quot; href=&quot;Don-Des-Langues.html&quot; title=&quot;Don des langues&quot;&gt;don des langues&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;T&#233;l&#233;pathie-(Capacit&#233;).html&quot; title=&quot;T&#233;l&#233;pathie&quot;&gt;t&#233;l&#233;pathie&lt;/a&gt; 30 m (20 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; tous (Abysses)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation&lt;/b&gt; solitaire, couple ou meute (2-8)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; standard (hallebarde de ma&#238;tre, autre tr&#233;sor)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Pouvoirs sp&#233;ciaux&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Maladie (Ext).&lt;/b&gt; L’ari&#232;s ronge constamment le bout de sa hallebarde, impr&#233;gnant les lames de maladies avec sa salive d&#233;go&#251;tante. Toutes les cr&#233;atures touch&#233;es par la hallebarde de l’ari&#232;s doivent r&#233;ussir un jet de Vigueur DD 15 ou contracter la v&#233;role grise, une maladie terrifiante qui fragilise le syst&#232;me immunitaire et provoque une &#233;ruption cutan&#233;e de t&#226;ches grises ainsi que la catatonie. Le DD du jet de sauvegarde est bas&#233; sur la Constitution.&lt;br /&gt;
+&lt;i&gt;V&#233;role grise&lt;/i&gt; : hallebarde — blessure ; JdS Vigueur DD 15 ; incubation 1 jour ; fr&#233;quence 1/jour ; effet affaiblissement temporaire de 1d6 Force ; gu&#233;rison 2 r&#233;ussites cons&#233;cutives.
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;td&gt;&lt;div&gt;
+&lt;i&gt;Cet humano&#239;de &#224; t&#234;te de ch&#232;vre est couvert d’un pelage gris &#233;lim&#233; qui ne cache qu’en partie son corps d&#233;charn&#233; et n&#233;anmoins muscl&#233;.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;L’ari&#232;s ressemble &#224; un grand humano&#239;de muscl&#233; avec une t&#234;te et des sabots de ch&#232;vre d&#233;moniaque. Son pelage d&#233;penaill&#233; ne couvre que quelques parties de son corps, g&#233;n&#233;ralement ses avant-bras et ses pattes inf&#233;rieures, et dessine une sorte de cr&#234;te courant du sommet de sa t&#234;te &#224; la base de sa nuque. Les d&#233;mons ari&#232;s mesurent 2,10 m&#232;tres, bien qu’ils se tiennent g&#233;n&#233;ralement vo&#251;t&#233;s et apparaissent donc plus petits. Ils p&#232;sent 150 kilos.&lt;br /&gt;&lt;br /&gt;Aussi appel&#233;s d&#233;mons malveillants, les ari&#232;s sont parmi les plus violents et les plus vils habitants des Abysses. Ils
+naissent des &#226;mes des mortels ayant commis des crimes atroces ou ayant fait accuser les autres de leurs m&#233;faits (actes
+commis par pure et mesquine vengeance). Malgr&#233; leurs origines, les ari&#232;s occupent un rang mineur dans la hi&#233;rarchie d&#233;moniaque, servant souvent dans l’infanterie de premi&#232;re ligne ou de gardes du corps pour les commandants d&#233;moniaques mineurs. M&#234;me s’ils ne sont pas sp&#233;cialement intelligents, les ari&#232;s sont des guerriers rus&#233;s et d’excellentes sentinelles. En combat, s’ils pr&#233;f&#232;rent charger, leur capacit&#233; naturelle &#224; sauter en fait des ennemis agiles, capables d’exploiter astucieusement l’environnement. L’ari&#232;s saute souvent au sommet de rochers, sur des murs en ruine ou sur tout autre endroit en hauteur pour frapper avec sa hallebarde infect&#233;e par la maladie. La m&#233;chancet&#233; de l’ari&#232;s le pousse &#224; se m&#233;fier de toute cr&#233;ature n’ayant pas prouv&#233; sa puissance et sa force &#224; de nombreuses
+reprises. Un ari&#232;s l&#226;ch&#233; sur le Plan mat&#233;riel cherche tr&#232;s vite &#224; rassembler sa propre arm&#233;e : il recherche souvent les tribus d’humano&#239;des sauvages pour remplacer leurs chefs. Il aime tout particuli&#232;rement infiltrer les tribus de gnolls.
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Ariès (Démon)|FP 4}
+{s:BDTexte|''Source : Bestiaire 3'' p.74}
+{s:BDTexte|'''PX''' 1 200}
+{s:BDTexte|[[type Extérieur|Extérieur]] ([[sous-type Chaos|Chaos]], [[sous-type démon|démon]], [[sous-type extraplanaire|extraplanaire]], [[sous-type Mal|Mal]]) de taille M, CM}
+{s:BDTexte|'''Init''' +2 ; '''Sens''' ''[[détection de linvisibilité|détection de l'invisibilité]]'', [[vision dans le noir]] 18 m (12 {s:c}) ; [[Perception]] +13}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 19, contact 12, pris au dépourvu 17 (Dex +2, naturelle +7)}
+{s:BDTexte|'''pv''' 37 (5d10+10)}
+{s:BDTexte|'''Réf''' +3, '''Vig''' +6, '''Vol''' +3}
+{s:BDTexte|'''[[Réduction de dégâts (capacité)|RD]]''' 5/Bien ou fer froid ; '''[[Immunité (capacité)|Immunité]]''' électricité, maladie, poison ; '''[[Résistance (capacité)|Résistance]]''' acide 10, feu 10, froid 10 ; '''Résistance à la magie (capacité)|RM]]''' 15}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 9 m (6 {s:c})}
+{s:BDTexte|'''Corps à corps''' corne, +3 (1d6+2) et hallebarde de maître, +10 (1d10+4/×3 plus maladie) ou corne, +8 (1d6+4)}
+{s:BDTexte|'''Attaques spéciales''' [[Charge puissante (capacité)|Charge puissante]] (corne, 3d6+4)}
+{s:BDTexte|'''Pouvoirs magiques''' (NLS 6 ; concentration +4)}
+{s:BDSorts|Constant — ''[[détection de linvisibilité|détection de l'invisibilité]]'', ''[[don des langues]]''}
+{s:BDSorts|3/jour — ''[[protection contre le Bien]]'', ''[[repli expéditif]]'', ''[[verrou du mage]]''}
+{s:BDSorts|1/jour — ''[[convocation]]'' (niveau 2, 1d3 ariès 20%)}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 17, '''Dex''' 14, '''Con''' 15, '''Int''' 8, '''Sag''' 5, '''Cha''' 6}
+{s:BDTexte|'''BBA''' +5 ; '''BMO''' +8 ; '''DMD''' 20}
+{s:BDTexte|'''Dons''' [[Arme de prédilection]] (hallebarde), [[Attaque en puissance]], [[Volonté de fer]]}
+{s:BDTexte|'''Compétences''' [[Acrobaties]] +10 (+18 pour le saut), [[Escalade]] +11, [[Intimidation]] +6, [[Perception]] +13, [[Survie]] +2 '''Modificateurs raciaux''' +8 en [[Acrobaties]] pour sauter, +8 en [[Perception]]}
+{s:BDTexte|'''Langues''' abyssal ; [[don des langues]], [[télépathie]] 30 m (20 {s:c})}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' tous (Abysses)}
+{s:BDTexte|'''Organisation''' solitaire, couple ou meute (2-8)}
+{s:BDTexte|'''Trésor''' standard (hallebarde de maître, autre trésor)}
+{s:BDSousTitre|Pouvoirs spéciaux}
+{s:BDTexte|'''Maladie (Ext).''' L’ariès ronge constamment le bout de sa hallebarde, imprégnant les lames de maladies avec sa salive dégoûtante. Toutes les créatures touchées par la hallebarde de l’ariès doivent réussir un jet de Vigueur DD 15 ou contracter la vérole grise, une maladie terrifiante qui fragilise le système immunitaire et provoque une éruption cutanée de tâches grises ainsi que la catatonie. Le DD du jet de sauvegarde est basé sur la Constitution.<br>
+''Vérole grise'' : hallebarde — blessure ; JdS Vigueur DD 15 ; incubation 1 jour ; fréquence 1/jour ; effet affaiblissement temporaire de 1d6 Force ; guérison 2 réussites consécutives.}
+</div>
+</td><td><div>
+''Cet humanoïde à tête de chèvre est couvert d’un pelage gris élimé qui ne cache qu’en partie son corps décharné et néanmoins musclé.''
+
+L’ariès ressemble à un grand humanoïde musclé avec une tête et des sabots de chèvre démoniaque. Son pelage dépenaillé ne couvre que quelques parties de son corps, généralement ses avant-bras et ses pattes inférieures, et dessine une sorte de crête courant du sommet de sa tête à la base de sa nuque. Les démons ariès mesurent 2,10 mètres, bien qu’ils se tiennent généralement voûtés et apparaissent donc plus petits. Ils pèsent 150 kilos.
+
+Aussi appelés démons malveillants, les ariès sont parmi les plus violents et les plus vils habitants des Abysses. Ils
+naissent des âmes des mortels ayant commis des crimes atroces ou ayant fait accuser les autres de leurs méfaits (actes
+commis par pure et mesquine vengeance). Malgré leurs origines, les ariès occupent un rang mineur dans la hiérarchie démoniaque, servant souvent dans l’infanterie de première ligne ou de gardes du corps pour les commandants démoniaques mineurs. Même s’ils ne sont pas spécialement intelligents, les ariès sont des guerriers rusés et d’excellentes sentinelles. En combat, s’ils préfèrent charger, leur capacité naturelle à sauter en fait des ennemis agiles, capables d’exploiter astucieusement l’environnement. L’ariès saute souvent au sommet de rochers, sur des murs en ruine ou sur tout autre endroit en hauteur pour frapper avec sa hallebarde infectée par la maladie. La méchanceté de l’ariès le pousse à se méfier de toute créature n’ayant pas prouvé sa puissance et sa force à de nombreuses
+reprises. Un ariès lâché sur le Plan matériel cherche très vite à rassembler sa propre armée : il recherche souvent les tribus d’humanoïdes sauvages pour remplacer leurs chefs. Il aime tout particulièrement infiltrer les tribus de gnolls.
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Ariès</fullName>
+</wikiPage>

@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Pluie de plomb</title>
+  <categories><category>Pathfinder-RPG.Art de la guerre</category><category>Pathfinder-RPG.Règles officielles</category><category>Pathfinder-RPG.Sort</category><category>Pathfinder-RPG.Sort conjurateur 3</category><category>Pathfinder-RPG.Sort magicien 3</category><category>Pathfinder-RPG.Sort magus 4</category></categories>
+  <lastModified>2013-10-06 18:06:21Z</lastModified>
+  <version>0</version>
+  <inLinks><link>Pathfinder-RPG.Glossaire des sorts</link><link>Pathfinder-RPG.Liste des sorts (fin)</link><link>Pathfinder-RPG.liste des sorts de conjurateurs</link><link>Pathfinder-RPG.Liste des sorts de magus</link><link>Pathfinder-RPG.Liste des sorts densorceleursmagiciens</link><link>Pathfinder-RPG.Listes de sorts par classe</link><link>Pathfinder-RPG.Sorts temporaires-AdG</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Invocation</link><link>Pathfinder-RPG.création</link><link>Pathfinder-RPG.Conjurateur</link><link>Pathfinder-RPG.Ensorceleur</link><link>Pathfinder-RPG.Magicien</link><link>Pathfinder-RPG.Magus</link><link>Pathfinder-RPG.Action simple</link><link>Pathfinder-RPG.composantes</link><link>Pathfinder-RPG.Réflexes</link><link>Pathfinder-RPG.Présentation des sorts</link><link>Pathfinder-RPG.NLS</link><link>Pathfinder-RPG.RD</link></outLinks>
+  <body><![CDATA[
+&lt;b&gt;&#201;cole&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#INVOCATION&quot; title=&quot;Invocation&quot;&gt;Invocation&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#CREATION&quot; title=&quot;cr&#233;ation&quot;&gt;cr&#233;ation&lt;/a&gt;) ; &lt;b&gt;Niveau&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Conjurateur.html&quot; title=&quot;Le conjurateur (aussi appel&#233; invocateur)&quot;&gt;conjurateur&lt;/a&gt; 3, &lt;a class=&quot;pagelink&quot; href=&quot;Ensorceleur.html&quot; title=&quot;L&amp;#39;ensorceleur&quot;&gt;ensorceleur&lt;/a&gt;/&lt;a class=&quot;pagelink&quot; href=&quot;Magicien.html&quot; title=&quot;Le magicien&quot;&gt;magicien&lt;/a&gt; 3, &lt;a class=&quot;pagelink&quot; href=&quot;Magus.html&quot; title=&quot;Le Magus&quot;&gt;magus&lt;/a&gt; 4&lt;BR&gt;
+&lt;b&gt;Temps d’incantation&lt;/b&gt; 1 &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions.html#SIMPLE&quot; title=&quot;Action simple&quot;&gt;action simple&lt;/a&gt;&lt;br /&gt;
+&lt;b&gt;Composantes&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#COMPOSANTES&quot; title=&quot;composantes&quot;&gt;V, G, F&lt;/a&gt; (une poign&#233;e de plombs en m&#233;tal ou de plombs en fer froid, en argent ou en adamantium ; consultez la description pour le prix)&lt;br /&gt;
+&lt;b&gt;Port&#233;e&lt;/b&gt; 9 m (6 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)&lt;br /&gt;
+&lt;b&gt;Zone&lt;/b&gt; c&#244;ne&lt;br /&gt;
+&lt;b&gt;Dur&#233;e&lt;/b&gt; instantan&#233;e&lt;br /&gt;
+&lt;b&gt;Jet de sauvegarde&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;R&#233;flexes&quot;&gt;R&#233;flexes&lt;/a&gt; pour &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#JETSDESAUVEGARDE&quot; title=&quot;Pr&#233;sentation des sorts&quot;&gt;1/2 d&#233;g&#226;ts&lt;/a&gt; ; &lt;b&gt;R&#233;sistance &#224; la magie&lt;/b&gt; non&lt;br /&gt;&lt;br /&gt;Ce sort cr&#233;e une explosion de plombs invoqu&#233;s qui s’abat sur tout ce qui se trouve dans la zone et inflige 1d8 points de d&#233;g&#226;ts perforants par tranche de deux &lt;a class=&quot;pagelink&quot; href=&quot;Lancer-Des-Sorts.html#NLS&quot; title=&quot;NLS&quot;&gt;niveaux de lanceur de sorts&lt;/a&gt;, avec un maximum de 5d8. Ces d&#233;g&#226;ts sont soumis &#224; la &lt;a class=&quot;pagelink&quot; href=&quot;R&#233;duction-De-D&#233;g&#226;ts-(Capacit&#233;).html&quot; title=&quot;RD&quot;&gt;r&#233;duction de d&#233;g&#226;ts&lt;/a&gt;. Si les plombs sont en fer froid (50 po), en argent (20 po) ou en adamantium (100 po), la pluie de plomb ignore la &lt;a class=&quot;pagelink&quot; href=&quot;R&#233;duction-De-D&#233;g&#226;ts-(Capacit&#233;).html&quot; title=&quot;RD&quot;&gt;RD&lt;/a&gt; appropri&#233;e. Les plombs disparaissent une fois le sort lanc&#233; et les d&#233;g&#226;ts inflig&#233;s.
+]]></body>
+  <raw><![CDATA[{s:UC}
+'''École''' [[Invocation]] ([[création]]) ; '''Niveau''' [[conjurateur]] 3, [[ensorceleur]]/[[magicien]] 3, [[magus]] 4<BR>
+'''Temps d’incantation''' 1 [[action simple]]<br>
+'''Composantes''' [[Composantes|V, G, F]] (une poignée de plombs en métal ou de plombs en fer froid, en argent ou en adamantium ; consultez la description pour le prix)<br>
+'''Portée''' 9 m (6 {s:c})<br>
+'''Zone''' cône<br>
+'''Durée''' instantanée<br>
+'''Jet de sauvegarde''' [[Réflexes]] pour [[Présentation des sorts#JETSDESAUVEGARDE|1/2 dégâts]] ; '''Résistance à la magie''' non
+
+Ce sort crée une explosion de plombs invoqués qui s’abat sur tout ce qui se trouve dans la zone et inflige 1d8 points de dégâts perforants par tranche de deux [[NLS|niveaux de lanceur de sorts]], avec un maximum de 5d8. Ces dégâts sont soumis à la [[RD|réduction de dégâts]]. Si les plombs sont en fer froid (50 po), en argent (20 po) ou en adamantium (100 po), la pluie de plomb ignore la [[RD]] appropriée. Les plombs disparaissent une fois le sort lancé et les dégâts infligés.]]></raw>
+  <fullName>Pathfinder-RPG.Pluie de plomb</fullName>
+</wikiPage>

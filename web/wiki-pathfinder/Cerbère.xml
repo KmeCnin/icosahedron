@@ -1,0 +1,129 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Cerbère</title>
+  <categories><category>Pathfinder-RPG.Bestiaire 3</category><category>Pathfinder-RPG.Monstre</category><category>Pathfinder-RPG.Règles officielles</category></categories>
+  <lastModified>2013-08-29 14:08:18Z</lastModified>
+  <version>1</version>
+  <inLinks><link>Pathfinder-RPG.Glossaire des monstres</link><link>Pathfinder-RPG.Liste de monstres par FP</link><link>Pathfinder-RPG.Liste de monstres par milieu naturel</link><link>Pathfinder-RPG.Liste de monstres par type</link><link>Pathfinder-RPG.Monstres</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.type Extérieur</link><link>Pathfinder-RPG.sous-type extraplanaire</link><link>Pathfinder-RPG.sous-type Loi</link><link>Pathfinder-RPG.sous-type Mal</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Attaques réflexes</link><link>Pathfinder-RPG.Immobiliser</link><link>Pathfinder-RPG.Science de linitiative</link><link>Pathfinder-RPG.Vigilance</link><link>Pathfinder-RPG.Acrobaties</link><link>Pathfinder-RPG.Discrétion</link><link>Pathfinder-RPG.Psychologie</link><link>Pathfinder-RPG.Survie</link><link>Pathfinder-RPG.type Mort-vivant</link><link>Pathfinder-RPG.Odorat (capacité)</link><link>Pathfinder-RPG.Intangible (capacité)</link><link>Pathfinder-RPG.Vigueur</link><link>Pathfinder-RPG.DD</link><link>Pathfinder-RPG.Ancre dimensionnelle</link><link>Pathfinder-RPG.malédiction</link><link>Pathfinder-RPG.téléportation</link><link>Pathfinder-RPG.jet de sauvegarde</link><link>Pathfinder-RPG.Constitution</link><link>Pathfinder-RPG.Molosse infernal</link><link>Pathfinder-RPG.Plans</link><link>Pathfinder-RPG.Diable</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Cerb&#232;re&lt;div style=&quot;float:right;&quot;&gt;FP 6&lt;/div&gt;&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Bestiaire 3 p.46&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 2 400
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Ext&#233;rieur.html&quot; title=&quot;Ext&#233;rieur&quot;&gt;Ext&#233;rieur&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Extraplanaire.html&quot; title=&quot;Extraplanaire (sous-type)&quot;&gt;Extraplanaire&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Loi.html&quot; title=&quot;Loi (sous-type)&quot;&gt;Loi&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Mal.html&quot; title=&quot;Mal (sous-type)&quot;&gt;Mal&lt;/a&gt;) de taille M, LM
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +6 ; &lt;b&gt;Sens&lt;/b&gt; flairer les &#226;mes ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +15
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 18, contact 12, pris au d&#233;pourvu 16 (Dex +2, naturelle +6)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 76 (8d10+32)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +8, &lt;b&gt;Vig&lt;/b&gt; +10, &lt;b&gt;Vol&lt;/b&gt; +4
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 12 m (9 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; 3 morsures, +11 (1d6+4 plus m&#226;choires de cerb&#232;re)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaque sp&#233;ciale&lt;/b&gt; &#233;ventration (2 morsures, 1d6+4 ou 3 morsures, 1d6+8
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 16, &lt;b&gt;Dex&lt;/b&gt; 14, &lt;b&gt;Con&lt;/b&gt; 19, &lt;b&gt;Int&lt;/b&gt; 6, &lt;b&gt;Sag&lt;/b&gt; 15, &lt;b&gt;Cha&lt;/b&gt; 9
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +8, &lt;b&gt;BMO&lt;/b&gt; +11, &lt;b&gt;DMD&lt;/b&gt; 23
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt;  &lt;a class=&quot;pagelink&quot; href=&quot;Attaques-R&#233;flexes.html&quot; title=&quot;Attaques r&#233;flexes&quot;&gt;Attaques r&#233;flexes&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Immobiliser.html&quot; title=&quot;Immobiliser&quot;&gt;Immobiliser&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Science-De-Linitiative.html&quot; title=&quot;Science de l&amp;#39;initiative&quot;&gt;Science de l’initiative&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Vigilance.html&quot; title=&quot;Vigilance&quot;&gt;Vigilance&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Acrobaties.html&quot; title=&quot;Acrobaties&quot;&gt;Acrobaties&lt;/a&gt; +13 (+17 pour le saut), &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; +13, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +15, &lt;a class=&quot;pagelink&quot; href=&quot;Psychologie.html&quot; title=&quot;Psychologie&quot;&gt;Psychologie&lt;/a&gt; +4, &lt;a class=&quot;pagelink&quot; href=&quot;Survie.html&quot; title=&quot;Survie&quot;&gt;Survie&lt;/a&gt; +10 (+14 pour le pistage des &lt;a class=&quot;pagelink&quot; href=&quot;Type-Mort-Vivant.html&quot; title=&quot;Mort-vivant&quot;&gt;morts-vivants&lt;/a&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Modificateur racial&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Survie.html&quot; title=&quot;Survie&quot;&gt;Survie&lt;/a&gt; +4 pour traquer les &lt;a class=&quot;pagelink&quot; href=&quot;Type-Mort-Vivant.html&quot; title=&quot;Mort-vivant&quot;&gt;morts-vivants&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Langues&lt;/b&gt; infernal (ne peut pas parler)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; tous (Enfer)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation sociale&lt;/b&gt; solitaire, couple ou meute (3-9)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; standard
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Pouvoirs sp&#233;ciaux&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Flairer les &#226;mes (Sur).&lt;/b&gt; Cette capacit&#233; fonctionne comme &lt;a class=&quot;pagelink&quot; href=&quot;Odorat-(Capacit&#233;).html&quot; title=&quot;Odorat (Ext)&quot;&gt;odorat&lt;/a&gt;, &#224; la diff&#233;rence qu&#39;elle accorde au cerb&#232;re un bonus racial de +4 en &lt;a class=&quot;pagelink&quot; href=&quot;Survie.html&quot; title=&quot;Survie&quot;&gt;Survie&lt;/a&gt; pour pister les &lt;a class=&quot;pagelink&quot; href=&quot;Type-Mort-Vivant.html&quot; title=&quot;Mort-vivant&quot;&gt;morts-vivants&lt;/a&gt;. Elle lui permet m&#234;me de pister les cr&#233;atures &lt;a class=&quot;pagelink&quot; href=&quot;Intangible-(Capacit&#233;).html&quot; title=&quot;Intangible (Ext)&quot;&gt;intangibles&lt;/a&gt;.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;M&#226;choires de cerb&#232;re (Sur).&lt;/b&gt; Mal&#233;diction - morsure ; &lt;i&gt;JdS&lt;/i&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;Vigueur&quot;&gt;Vigueur&lt;/a&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DEGREDEDIFFICULTE&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; 18 ; &lt;i&gt;effet&lt;/i&gt; &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Ancre-Dimensionnelle.html&quot; title=&quot;Ancre dimensionnelle&quot;&gt;ancre dimensionnelle&lt;/a&gt;&lt;/i&gt;. Une cr&#233;ature affect&#233;e par cette &lt;a class=&quot;pagelink&quot; href=&quot;Mal&#233;dictions.html&quot; title=&quot;mal&#233;diction&quot;&gt;mal&#233;diction&lt;/a&gt; ne peut pas utiliser les voyages extradimensionnels tels que &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;T&#233;l&#233;portation.html&quot; title=&quot;T&#233;l&#233;portation&quot;&gt;t&#233;l&#233;portation&lt;/a&gt;&lt;/i&gt; : on consid&#232;re qu&#39;elle subit les effets du sort &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Ancre-Dimensionnelle.html&quot; title=&quot;Ancre dimensionnelle&quot;&gt;ancre dimensionnelle&lt;/a&gt;&lt;/i&gt;. Le &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DEGREDEDIFFICULTE&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; du &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;jet de sauvegarde&quot;&gt;jet de sauvegarde&lt;/a&gt; est bas&#233; sur la &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#CONSTITUTION&quot; title=&quot;La Constitution&quot;&gt;Constitution&lt;/a&gt;.
+&lt;/div&gt;
+ 
+&lt;/div&gt;
+&lt;/td&gt;&lt;td&gt;&lt;div&gt;
+&lt;i&gt;La peau de ce chien &#224; trois t&#234;tes a &#233;t&#233; int&#233;gralement arrach&#233;e, laissant appara&#238;tre tous ses muscles saillants et ses nerfs suintants. &lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Chien de garde mythique des Enfers, le cerb&#232;re a le corps d’un terrible et puissant molosse et la nature d’un fi&#233;lon. Les sc&#233;l&#233;rats et autres horribles individus emploient ces abominations canines &#224; trois t&#234;tes comme gardes et ge&#244;liers. Ces cr&#233;atures sont bien plus rus&#233;es que ce que laisse penser leur apparence bestiale &#233;corch&#233;e&#160; : elles sont dot&#233;es d’un terrible intellect qu’elles utilisent principalement pour faire le mal et se d&#233;lecter des tourments de leurs victimes. &lt;br /&gt;&lt;br /&gt;Les cerb&#232;res descendent d’une race l&#233;gendaire dont les origines remonteraient &#224; une b&#234;te primitive mal&#233;fique qui garderait encore les fondations de quelque royaume des morts oubli&#233;. Apparent&#233;s aux &lt;a class=&quot;pagelink&quot; href=&quot;Molosse-Infernal.html&quot; title=&quot;Molosse infernal&quot;&gt;molosses infernaux&lt;/a&gt;, les cerb&#232;res m&#233;prisent ces cousins &#233;loign&#233;s auxquels ils s’attaquent violemment, &#224; moins qu’un ma&#238;tre tyrannique ne les en emp&#234;che.&lt;br /&gt;&lt;br /&gt;On trouve des cerb&#232;res partout dans les environnements infernaux o&#249; les puissants fi&#233;lons ont besoin de gardiens. L’impressionnante capacit&#233; des cerb&#232;res &#224; pi&#233;ger leurs victimes sur les &lt;a class=&quot;pagelink&quot; href=&quot;Plans.html&quot; title=&quot;Les plans&quot;&gt;plans&lt;/a&gt; et &#224; traquer les &lt;a class=&quot;pagelink&quot; href=&quot;Type-Mort-Vivant.html&quot; title=&quot;Mort-vivant&quot;&gt;morts-vivants&lt;/a&gt; fait d’eux des serviteurs hautement convoit&#233;s dans tout le multivers. Beaucoup de ceux qui se consid&#232;rent comme propri&#233;taires de leur cerb&#232;re se laissent duper par l’apparente bestialit&#233; de ces chiens et leur amour du massacre et oublient leur caract&#232;re sournois. Une m&#233;prise provoquant souvent la fin malheureuse, sinon sanglante, du faible ou de l’imprudent. Au-del&#224; des &#233;tendues de l’Enfer contr&#244;l&#233;es par les &lt;a class=&quot;pagelink&quot; href=&quot;Diable.html&quot; title=&quot;Diables&quot;&gt;diables&lt;/a&gt; et des autres r&#233;gions extraplanaires corrompues, des cerb&#232;res se rassemblent en meutes f&#233;roces. G&#233;n&#233;ralement domin&#233;es par le membre le plus fort ou le plus malin, ces meutes constituent des l&#233;gions mortelles et rapides, traquant les intrus qui osent p&#233;n&#233;trer leurs vastes terrains de chasse et poursuivant sans rel&#226;che toute odeur d’&#226;me perdue. Bien que les morts ne les nourrissent pas, les cerb&#232;res &#233;prouvent un plaisir cruel quand ils sentent une essence immortelle se d&#233;sint&#233;grer &#224; jamais entre leurs m&#226;choires meurtri&#232;res, comme il sied &#224; leur nature infernal. &lt;br /&gt;&lt;br /&gt;Le cerb&#232;re mesure en g&#233;n&#233;ral 1,20 m&#232;tre et p&#232;se 100 kilos.
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Cerbère|FP 6}
+{s:pucem|Extérieur|Ruines-Donjons|Extraplanaire}
+{s:BDTexte|''Source : Bestiaire 3 p.46''}
+{s:BDTexte|'''PX''' 2 400}
+{s:BDTexte|[[type Extérieur|Extérieur]] ([[sous-type Extraplanaire|Extraplanaire]], [[sous-type Loi|Loi]], [[sous-type Mal|Mal]]) de taille M, LM}
+{s:BDTexte|'''Init''' +6 ; '''Sens''' flairer les âmes ; [[Perception]] +15}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 18, contact 12, pris au dépourvu 16 (Dex +2, naturelle +6)}
+{s:BDTexte|'''pv''' 76 (8d10+32)}
+{s:BDTexte|'''Réf''' +8, '''Vig''' +10, '''Vol''' +4}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 12 m (9 {s:c})}
+{s:BDTexte|'''Corps à corps''' 3 morsures, +11 (1d6+4 plus mâchoires de cerbère)}
+{s:BDTexte|'''Attaque spéciale''' éventration (2 morsures, 1d6+4 ou 3 morsures, 1d6+8}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 16, '''Dex''' 14, '''Con''' 19, '''Int''' 6, '''Sag''' 15, '''Cha''' 9}
+{s:BDTexte|'''BBA''' +8, '''BMO''' +11, '''DMD''' 23}
+{s:BDTexte|'''Dons'''  [[Attaques réflexes]], [[Immobiliser]], [[Science de linitiative|Science de l’initiative]], [[Vigilance]]}
+{s:BDTexte|'''Compétences''' [[Acrobaties]] +13 (+17 pour le saut), [[Discrétion]] +13, [[Perception]] +15, [[Psychologie]] +4, [[Survie]] +10 (+14 pour le pistage des [[type mort-vivant|morts-vivants]])}
+{s:BDTexte|'''Modificateur racial''' [[Survie]] +4 pour traquer les [[type mort-vivant|morts-vivants]]}
+{s:BDTexte|'''Langues''' infernal (ne peut pas parler)}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' tous (Enfer)}
+{s:BDTexte|'''Organisation sociale''' solitaire, couple ou meute (3-9)}
+{s:BDTexte|'''Trésor''' standard}
+{s:BDSousTitre|Pouvoirs spéciaux}
+{s:BDTexte|'''Flairer les âmes (Sur).''' Cette capacité fonctionne comme [[odorat (capacité)|odorat]], à la différence qu'elle accorde au cerbère un bonus racial de +4 en [[Survie]] pour pister les [[type mort-vivant|morts-vivants]]. Elle lui permet même de pister les créatures [[intangible (capacité)|intangibles]].}
+{s:BDTexte|'''Mâchoires de cerbère (Sur).''' Malédiction - morsure ; ''JdS'' [[Vigueur]] [[DD]] 18 ; ''effet'' ''[[ancre dimensionnelle]]''. Une créature affectée par cette [[malédiction]] ne peut pas utiliser les voyages extradimensionnels tels que ''[[téléportation]]'' : on considère qu'elle subit les effets du sort ''[[ancre dimensionnelle]]''. Le [[DD]] du [[jet de sauvegarde]] est basé sur la [[Constitution]].}
+ 
+</div>
+</td><td><div>
+''La peau de ce chien à trois têtes a été intégralement arrachée, laissant apparaître tous ses muscles saillants et ses nerfs suintants. ''
+
+Chien de garde mythique des Enfers, le cerbère a le corps d’un terrible et puissant molosse et la nature d’un fiélon. Les scélérats et autres horribles individus emploient ces abominations canines à trois têtes comme gardes et geôliers. Ces créatures sont bien plus rusées que ce que laisse penser leur apparence bestiale écorchée  : elles sont dotées d’un terrible intellect qu’elles utilisent principalement pour faire le mal et se délecter des tourments de leurs victimes. 
+
+Les cerbères descendent d’une race légendaire dont les origines remonteraient à une bête primitive maléfique qui garderait encore les fondations de quelque royaume des morts oublié. Apparentés aux [[molosse infernal|molosses infernaux]], les cerbères méprisent ces cousins éloignés auxquels ils s’attaquent violemment, à moins qu’un maître tyrannique ne les en empêche.
+
+On trouve des cerbères partout dans les environnements infernaux où les puissants fiélons ont besoin de gardiens. L’impressionnante capacité des cerbères à piéger leurs victimes sur les [[plans]] et à traquer les [[type mort-vivant|morts-vivants]] fait d’eux des serviteurs hautement convoités dans tout le multivers. Beaucoup de ceux qui se considèrent comme propriétaires de leur cerbère se laissent duper par l’apparente bestialité de ces chiens et leur amour du massacre et oublient leur caractère sournois. Une méprise provoquant souvent la fin malheureuse, sinon sanglante, du faible ou de l’imprudent. Au-delà des étendues de l’Enfer contrôlées par les [[diable|diables]] et des autres régions extraplanaires corrompues, des cerbères se rassemblent en meutes féroces. Généralement dominées par le membre le plus fort ou le plus malin, ces meutes constituent des légions mortelles et rapides, traquant les intrus qui osent pénétrer leurs vastes terrains de chasse et poursuivant sans relâche toute odeur d’âme perdue. Bien que les morts ne les nourrissent pas, les cerbères éprouvent un plaisir cruel quand ils sentent une essence immortelle se désintégrer à jamais entre leurs mâchoires meurtrières, comme il sied à leur nature infernal. 
+
+Le cerbère mesure en général 1,20 mètre et pèse 100 kilos.
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Cerbère</fullName>
+</wikiPage>

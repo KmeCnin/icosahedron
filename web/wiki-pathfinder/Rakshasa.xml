@@ -1,0 +1,233 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Rakshasa</title>
+  <categories><category>Pathfinder-RPG.Bestiaire</category><category>Pathfinder-RPG.Monstre</category><category>Pathfinder-RPG.Règles officielles</category></categories>
+  <lastModified>2014-03-24 20:05:14Z</lastModified>
+  <version>9</version>
+  <inLinks><link>Pathfinder-RPG.Dandasuka</link><link>Pathfinder-RPG.Flasque de fer</link><link>Pathfinder-RPG.Glossaire des monstres</link><link>Pathfinder-RPG.lignage Rakshasa</link><link>Pathfinder-RPG.Liste de monstres par FP</link><link>Pathfinder-RPG.Liste de monstres par milieu naturel</link><link>Pathfinder-RPG.Liste de monstres par type</link><link>Pathfinder-RPG.Mihstu</link><link>Pathfinder-RPG.Monstres</link><link>Pathfinder-RPG.Raktavarna</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.type Extérieur</link><link>Pathfinder-RPG.sous-type métamorphe</link><link>Pathfinder-RPG.sous-type natif</link><link>Pathfinder-RPG.vision dans le noir</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Réduction de dégâts (capacité)</link><link>Pathfinder-RPG.Résistance à la magie (capacité)</link><link>Pathfinder-RPG.Éclair</link><link>Pathfinder-RPG.Suggestion</link><link>Pathfinder-RPG.Flèche acide</link><link>Pathfinder-RPG.Image imparfaite</link><link>Pathfinder-RPG.Invisibilité</link><link>Pathfinder-RPG.Armure de mage</link><link>Pathfinder-RPG.Bouclier</link><link>Pathfinder-RPG.Charme-personne</link><link>Pathfinder-RPG.Image silencieuse</link><link>Pathfinder-RPG.Projectile magique</link><link>Pathfinder-RPG.Détection de la magie</link><link>Pathfinder-RPG.Lumières dansantes</link><link>Pathfinder-RPG.Manipulation à distance</link><link>Pathfinder-RPG.Message</link><link>Pathfinder-RPG.Prestidigitation</link><link>Pathfinder-RPG.Réparation</link><link>Pathfinder-RPG.Son imaginaire</link><link>Pathfinder-RPG.Attaque en finesse</link><link>Pathfinder-RPG.Esquive</link><link>Pathfinder-RPG.Expertise du combat</link><link>Pathfinder-RPG.Science de linitiative</link><link>Pathfinder-RPG.Science du critique</link><link>Pathfinder-RPG.Bluff</link><link>Pathfinder-RPG.Déguisement</link><link>Pathfinder-RPG.Diplomatie</link><link>Pathfinder-RPG.Discrétion</link><link>Pathfinder-RPG.Psychologie</link><link>Pathfinder-RPG.Représentation</link><link>Pathfinder-RPG.type Humanoïde</link><link>Pathfinder-RPG.Modification dapparence</link><link>Pathfinder-RPG.Détection de pensées</link><link>Pathfinder-RPG.NLS</link><link>Pathfinder-RPG.Action libre</link><link>Pathfinder-RPG.Volonté</link><link>Pathfinder-RPG.DD</link><link>Pathfinder-RPG.jet de sauvegarde</link><link>Pathfinder-RPG.Charisme</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Paradeshi (Rakshasa)&lt;div style=&quot;float:right;&quot;&gt;FP 10&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Bestiaire&lt;/i&gt; p.245
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 9.600
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Ext&#233;rieur.html&quot; title=&quot;Ext&#233;rieur&quot;&gt;Ext&#233;rieur&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-M&#233;tamorphe.html&quot; title=&quot;M&#233;tamorphe (sous-type)&quot;&gt;m&#233;tamorphe&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Natif.html&quot; title=&quot;Natif (sous-type)&quot;&gt;natif&lt;/a&gt;) de taille M, LM
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +9 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Capacit&#233;s-Sp&#233;ciales.html#VISIONDANSLENOIR&quot; title=&quot;vision dans le noir&quot;&gt;vision dans le noir&lt;/a&gt; 18 m (12 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +14
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 25, contact 16, pris au d&#233;pourvu 19 (Dex +5, esquive +1, naturelle +9)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 115 (10d10+60)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +12, &lt;b&gt;Vig&lt;/b&gt; +9, &lt;b&gt;Vol&lt;/b&gt; +8
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;&lt;a class=&quot;pagelink&quot; href=&quot;R&#233;duction-De-D&#233;g&#226;ts-(Capacit&#233;).html&quot; title=&quot;R&#233;duction de d&#233;g&#226;ts (Ext ou Sur)&quot;&gt;RD&lt;/a&gt;&lt;/b&gt; 15/Bien et perforant ; &lt;b&gt;&lt;a class=&quot;pagelink&quot; href=&quot;R&#233;sistance-&#192;-La-Magie-(Capacit&#233;).html&quot; title=&quot;R&#233;sistance &#224; la magie (Ext)&quot;&gt;RM&lt;/a&gt;&lt;/b&gt; 25 
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 12 m (8 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; &lt;i&gt;kukri +1&lt;/i&gt;, +16/+11 (1d4+4/15-20), griffe, +10 (1d4+1), morsure, +10 (1d6+1)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaques sp&#233;ciales&lt;/b&gt; d&#233;tection des pens&#233;es
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Sorts connus&lt;/b&gt; (NLS 7&lt;sup&gt;e&lt;/sup&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+3 (5/jour) — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;&#201;clair.html&quot; title=&quot;&#201;clair&quot;&gt;&#233;clair&lt;/a&gt;&lt;/i&gt; (DD 16), &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Suggestion.html&quot; title=&quot;Suggestion&quot;&gt;suggestion&lt;/a&gt;&lt;/i&gt; (DD 16)
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+2 (7/jour) — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Fl&#232;che-Acide.html&quot; title=&quot;Fl&#232;che acide&quot;&gt;fl&#232;che acide&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Image-Imparfaite.html&quot; title=&quot;Image imparfaite&quot;&gt;image imparfaite&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Invisibilit&#233;.html&quot; title=&quot;Invisibilit&#233;&quot;&gt;invisibilit&#233;&lt;/a&gt;&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+1 (7/jour) — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Armure-De-Mage.html&quot; title=&quot;Armure de mage&quot;&gt;armure de mage&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Bouclier.html&quot; title=&quot;Bouclier&quot;&gt;bouclier&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Charme-Personne.html&quot; title=&quot;Charme-personne&quot;&gt;charme-personne&lt;/a&gt;&lt;/i&gt; (DD 14), &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Image-Silencieuse.html&quot; title=&quot;Image silencieuse&quot;&gt;image silencieuse&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Projectile-Magique.html&quot; title=&quot;Projectile magique&quot;&gt;projectile magique&lt;/a&gt;&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+0 - &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;D&#233;tection-De-La-Magie.html&quot; title=&quot;D&#233;tection de la magie&quot;&gt;d&#233;tection de la magie&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Lumi&#232;res-Dansantes.html&quot; title=&quot;Lumi&#232;res dansantes&quot;&gt;lumi&#232;res dansantes&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Manipulation-&#192;-Distance.html&quot; title=&quot;Manipulation &#224; distance&quot;&gt;manipulation &#224; distance&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Message.html&quot; title=&quot;Message&quot;&gt;message&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Prestidigitation.html&quot; title=&quot;Prestidigitation&quot;&gt;prestidigitation&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;R&#233;paration.html&quot; title=&quot;R&#233;paration&quot;&gt;r&#233;paration&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Son-Imaginaire.html&quot; title=&quot;Son imaginaire&quot;&gt;son imaginaire&lt;/a&gt;&lt;/i&gt; (DD 13)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 16, &lt;b&gt;Dex&lt;/b&gt; 20, &lt;b&gt;Con&lt;/b&gt; 22, &lt;b&gt;Int&lt;/b&gt; 13, &lt;b&gt;Sag&lt;/b&gt; 13, &lt;b&gt;Cha&lt;/b&gt; 17
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +10, &lt;b&gt;BMO&lt;/b&gt; +13, &lt;b&gt;DMD&lt;/b&gt; 29
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Attaque-En-Finesse.html&quot; title=&quot;Attaque en finesse&quot;&gt;Attaque en finesse&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Esquive.html&quot; title=&quot;Esquive&quot;&gt;Esquive&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Expertise-Du-Combat.html&quot; title=&quot;Expertise du combat&quot;&gt;Expertise du combat&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Science-De-Linitiative.html&quot; title=&quot;Science de l&amp;#39;initiative&quot;&gt;Science de l&#39;initiative&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Science-Du-Critique.html&quot; title=&quot;Science du critique&quot;&gt;Science du critique&lt;/a&gt; (kukri)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Bluff.html&quot; title=&quot;Bluff&quot;&gt;Bluff&lt;/a&gt; +20, &lt;a class=&quot;pagelink&quot; href=&quot;D&#233;guisement.html&quot; title=&quot;D&#233;guisement&quot;&gt;D&#233;guisement&lt;/a&gt; +24, &lt;a class=&quot;pagelink&quot; href=&quot;Diplomatie.html&quot; title=&quot;Diplomatie&quot;&gt;Diplomatie&lt;/a&gt; +16, &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; +18, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +14, &lt;a class=&quot;pagelink&quot; href=&quot;Psychologie.html&quot; title=&quot;Psychologie&quot;&gt;Psychologie&lt;/a&gt; +14, &lt;a class=&quot;pagelink&quot; href=&quot;Repr&#233;sentation.html&quot; title=&quot;Repr&#233;sentation&quot;&gt;Repr&#233;sentation&lt;/a&gt; +16 ; &lt;b&gt;Modificateurs raciaux&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Bluff.html&quot; title=&quot;Bluff&quot;&gt;Bluff&lt;/a&gt; +4, &lt;a class=&quot;pagelink&quot; href=&quot;D&#233;guisement.html&quot; title=&quot;D&#233;guisement&quot;&gt;D&#233;guisement&lt;/a&gt; +8
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Langues&lt;/b&gt; commun, commun des profondeurs, infernal
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Particularit&#233;s&lt;/b&gt; changement de forme (&lt;a class=&quot;pagelink&quot; href=&quot;Type-Humano&#239;de.html&quot; title=&quot;Humano&#239;de&quot;&gt;humano&#239;de&lt;/a&gt; quelconque, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Modification-Dapparence.html&quot; title=&quot;Modification d&amp;#39;apparence&quot;&gt;modification d&#39;apparence&lt;/a&gt;&lt;/i&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; quelconque
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation sociale&lt;/b&gt; solitaire, couple ou culte (3-12)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; double (&lt;i&gt;kukri +1&lt;/i&gt;, autres tr&#233;sors)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Capacit&#233; sp&#233;ciales&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;D&#233;tection des pens&#233;es (Sur)&lt;/b&gt; Les rakshasas peuvent d&#233;tecter les pens&#233;es comme s&#39;ils utilisaient le sort de &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;D&#233;tection-De-Pens&#233;es.html&quot; title=&quot;D&#233;tection de pens&#233;es&quot;&gt;d&#233;tection de pens&#233;es&lt;/a&gt;&lt;/i&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Lancer-Des-Sorts.html#NLS&quot; title=&quot;NLS&quot;&gt;NLS&lt;/a&gt; 18). Ils peuvent d&#233;sactiver et r&#233;activer cette capacit&#233; par une &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions.html#LIBRE&quot; title=&quot;Action libre&quot;&gt;action libre&lt;/a&gt;. Lorsqu&#39;un rakshasa utilise cette capacit&#233;, elle fonctionne toujours comme s&#39;il s&#39;&#233;tait concentr&#233; pendant trois rounds. Il gagne donc le plus d&#39;information possible. Une cr&#233;ature peut r&#233;sister &#224; cet effet en r&#233;ussissant un jet de &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;Volont&#233;&quot;&gt;Volont&#233;&lt;/a&gt; de &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DEGREDEDIFFICULTE&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; 18. Le &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DEGREDEDIFFICULTE&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; du &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;jet de sauvegarde&quot;&gt;jet de sauvegarde&lt;/a&gt; d&#233;pend du &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#CHARISME&quot; title=&quot;Le Charisme&quot;&gt;Charisme&lt;/a&gt;.
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;td&gt;&lt;div&gt;&lt;i&gt;Ses doigts qui se plient vers l’arri&#232;re et son visage bestial fig&#233; dans un
+grognement ne laissent aucun doute : ce monstre est un fi&#233;lon.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Les rakshasas sont des esprits mal&#233;fiques qui se d&#233;guisent en
+cr&#233;atures humano&#239;des pour pouvoir approcher discr&#232;tement
+leurs proies. Ces monstres incarnent tout ce que les autres soci&#233;t&#233;s
+ont d&#233;clar&#233; tabou et accomplissent des actes horribles apr&#232;s avoir
+pris l’apparence de ceux qu’ils veulent salir. S’ils &#233;taient humains,
+le cannibalisme, les blasph&#232;mes et les autres activit&#233;s pires encore
+auxquelles ils s’adonnent feraient d’eux des criminels destin&#233;s au
+plus cruel des enfers.&lt;br /&gt;&lt;br /&gt;Lorsqu’ils ne sont pas d&#233;guis&#233;s, les rakshasas ressemblent &#224; des
+humano&#239;des &#224; t&#234;te d’animaux. Les t&#234;tes de grands f&#233;lins (comme
+les tigres et les panth&#232;res) sont courantes, ainsi que celles de
+serpents (cobras ou vip&#232;res par exemple), mais on en
+trouve d’autres &#233;galement : gorilles, chacals,
+vautours, &#233;l&#233;phants, mantes, l&#233;zards, rhinoc&#233;ros,
+sangliers… Dans la plupart des cas, la t&#234;te qu’un
+rakshasa poss&#232;de correspond &#224; sa personnalit&#233;. Un
+rakshasa &#224; t&#234;te de tigre sera discret et vorace alors
+qu’un rakshasa &#224; t&#234;te de sanglier se montrera
+glouton et grossier. Ces diff&#233;rences
+ne modifient g&#233;n&#233;ralement pas
+le profil du rakshasa, mais il
+existe certaines variantes plus
+puissantes que les rakshasas
+standards poss&#233;dant plusieurs
+t&#234;tes, des pouvoirs magiques plus
+d&#233;velopp&#233;s et des capacit&#233;s sp&#233;ciales
+additionnelles &#233;tranges et tr&#232;s
+dangereuses.&lt;br /&gt;&lt;br /&gt;Les rakshasas m&#233;prisent la
+religion. Ils comprennent le pouvoir
+du divin mais se consid&#232;rent comme
+les seuls &#234;tres dignes de recevoir la
+v&#233;n&#233;ration des mortels. Les pr&#234;tres
+rakshasas sont donc plut&#244;t rares. Les
+rakshasas sont des Ext&#233;rieurs mais
+ils appartiennent au plan Mat&#233;riel.
+Beaucoup pensent que les premiers
+rakshasas ont choisi de s’exiler plut&#244;t que de
+remplir le r&#244;le qu’un ancien dieu oubli&#233; voulait
+leur donner. Ils travaillent g&#233;n&#233;ralement en
+solitaires mais on trouve parfois de vastes
+familles de rakshasas qui œuvrent, g&#233;n&#233;ration
+apr&#232;s g&#233;n&#233;ration, &#224; causer la perte des
+civilisations mortelles dans lesquelles elles
+se sont infiltr&#233;s.&lt;br /&gt;&lt;br /&gt;Un rakshasa mesure
+1,80 m&#232;tre et p&#232;se 90 kg.
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Paradeshi (Rakshasa)|FP 10}
+{s:BDTexte|''Source : Bestiaire'' p.245}
+{s:BDTexte|'''PX''' 9.600}
+{s:BDTexte|[[type Extérieur|Extérieur]] ([[sous-type métamorphe|métamorphe]], [[sous-type natif|natif]]) de taille M, LM}
+{s:BDTexte|'''Init''' +9 ; '''Sens''' [[vision dans le noir]] 18 m (12 {s:c}) ; [[Perception]] +14}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 25, contact 16, pris au dépourvu 19 (Dex +5, esquive +1, naturelle +9)}
+{s:BDTexte|'''pv''' 115 (10d10+60)}
+{s:BDTexte|'''Réf''' +12, '''Vig''' +9, '''Vol''' +8}
+{s:BDTexte|'''[[Réduction de dégâts (capacité)|RD]]''' 15/Bien et perforant ; '''[[Résistance à la magie (capacité)|RM]]''' 25 }
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 12 m (8 {s:c})}
+{s:BDTexte|'''Corps à corps''' ''kukri +1'', +16/+11 (1d4+4/15-20), griffe, +10 (1d4+1), morsure, +10 (1d6+1)}
+{s:BDTexte|'''Attaques spéciales''' détection des pensées}
+{s:BDTexte|'''Sorts connus''' (NLS 7<sup>e</sup>)}
+{s:BDSorts|3 (5/jour) — ''[[éclair]]'' (DD 16), ''[[suggestion]]'' (DD 16)}
+{s:BDSorts|2 (7/jour) — ''[[flèche acide]]'', ''[[image imparfaite]]'', ''[[invisibilité]]''}
+{s:BDSorts|1 (7/jour) — ''[[armure de mage]]'', ''[[bouclier]]'', ''[[charme-personne]]'' (DD 14), ''[[image silencieuse]]'', ''[[projectile magique]]''}
+{s:BDSorts|0 - ''[[détection de la magie]]'', ''[[lumières dansantes]]'', ''[[manipulation à distance]]'', ''[[message]]'', ''[[prestidigitation]]'', ''[[réparation]]'', ''[[son imaginaire]]'' (DD 13)}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 16, '''Dex''' 20, '''Con''' 22, '''Int''' 13, '''Sag''' 13, '''Cha''' 17}
+{s:BDTexte|'''BBA''' +10, '''BMO''' +13, '''DMD''' 29}
+{s:BDTexte|'''Dons''' [[Attaque en finesse]], [[Esquive]], [[Expertise du combat]], [[Science de linitiative|Science de l'initiative]], [[Science du critique]] (kukri)}
+{s:BDTexte|'''Compétences''' [[Bluff]] +20, [[Déguisement]] +24, [[Diplomatie]] +16, [[Discrétion]] +18, [[Perception]] +14, [[Psychologie]] +14, [[Représentation]] +16 ; '''Modificateurs raciaux''' [[Bluff]] +4, [[Déguisement]] +8}
+{s:BDTexte|'''Langues''' commun, commun des profondeurs, infernal}
+{s:BDTexte|'''Particularités''' changement de forme ([[type humanoïde|humanoïde]] quelconque, ''[[modification dapparence|modification d'apparence]]'')}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' quelconque}
+{s:BDTexte|'''Organisation sociale''' solitaire, couple ou culte (3-12)}
+{s:BDTexte|'''Trésor''' double (''kukri +1'', autres trésors)}
+{s:BDSousTitre|Capacité spéciales}
+{s:BDTexte|'''Détection des pensées (Sur)''' Les rakshasas peuvent détecter les pensées comme s'ils utilisaient le sort de ''[[détection de pensées]]'' ([[NLS]] 18). Ils peuvent désactiver et réactiver cette capacité par une [[action libre]]. Lorsqu'un rakshasa utilise cette capacité, elle fonctionne toujours comme s'il s'était concentré pendant trois rounds. Il gagne donc le plus d'information possible. Une créature peut résister à cet effet en réussissant un jet de [[Volonté]] de [[DD]] 18. Le [[DD]] du [[jet de sauvegarde]] dépend du [[Charisme]].}
+</div>
+</td><td><div>''Ses doigts qui se plient vers l’arrière et son visage bestial figé dans un
+grognement ne laissent aucun doute : ce monstre est un fiélon.''
+
+Les rakshasas sont des esprits maléfiques qui se déguisent en
+créatures humanoïdes pour pouvoir approcher discrètement
+leurs proies. Ces monstres incarnent tout ce que les autres sociétés
+ont déclaré tabou et accomplissent des actes horribles après avoir
+pris l’apparence de ceux qu’ils veulent salir. S’ils étaient humains,
+le cannibalisme, les blasphèmes et les autres activités pires encore
+auxquelles ils s’adonnent feraient d’eux des criminels destinés au
+plus cruel des enfers.
+
+Lorsqu’ils ne sont pas déguisés, les rakshasas ressemblent à des
+humanoïdes à tête d’animaux. Les têtes de grands félins (comme
+les tigres et les panthères) sont courantes, ainsi que celles de
+serpents (cobras ou vipères par exemple), mais on en
+trouve d’autres également : gorilles, chacals,
+vautours, éléphants, mantes, lézards, rhinocéros,
+sangliers… Dans la plupart des cas, la tête qu’un
+rakshasa possède correspond à sa personnalité. Un
+rakshasa à tête de tigre sera discret et vorace alors
+qu’un rakshasa à tête de sanglier se montrera
+glouton et grossier. Ces différences
+ne modifient généralement pas
+le profil du rakshasa, mais il
+existe certaines variantes plus
+puissantes que les rakshasas
+standards possédant plusieurs
+têtes, des pouvoirs magiques plus
+développés et des capacités spéciales
+additionnelles étranges et très
+dangereuses.
+
+Les rakshasas méprisent la
+religion. Ils comprennent le pouvoir
+du divin mais se considèrent comme
+les seuls êtres dignes de recevoir la
+vénération des mortels. Les prêtres
+rakshasas sont donc plutôt rares. Les
+rakshasas sont des Extérieurs mais
+ils appartiennent au plan Matériel.
+Beaucoup pensent que les premiers
+rakshasas ont choisi de s’exiler plutôt que de
+remplir le rôle qu’un ancien dieu oublié voulait
+leur donner. Ils travaillent généralement en
+solitaires mais on trouve parfois de vastes
+familles de rakshasas qui œuvrent, génération
+après génération, à causer la perte des
+civilisations mortelles dans lesquelles elles
+se sont infiltrés.
+
+Un rakshasa mesure
+1,80 mètre et pèse 90 kg.
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Rakshasa</fullName>
+</wikiPage>

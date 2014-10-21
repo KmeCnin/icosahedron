@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Voile d'énergie positive</title>
+  <categories><category>Pathfinder-RPG.Advanced Player Guide</category><category>Pathfinder-RPG.Règles officielles</category><category>Pathfinder-RPG.Sort</category><category>Pathfinder-RPG.Sort paladin 1</category></categories>
+  <lastModified>2012-11-04 22:09:54Z</lastModified>
+  <version>4</version>
+  <inLinks><link>Pathfinder-RPG.Glossaire des sorts</link><link>Pathfinder-RPG.Liste des sorts (fin)</link><link>Pathfinder-RPG.Liste des sorts de paladins</link><link>Pathfinder-RPG.Liste des sorts par registre</link><link>Pathfinder-RPG.TMP sorts APG</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Abjuration</link><link>Pathfinder-RPG.Registre</link><link>Pathfinder-RPG.Paladin</link><link>Pathfinder-RPG.Action simple</link><link>Pathfinder-RPG.composantes</link><link>Pathfinder-RPG.personnelle</link><link>Pathfinder-RPG.niveau</link><link>Pathfinder-RPG.type Mort-vivant</link><link>Pathfinder-RPG.CA</link><link>Pathfinder-RPG.jet de sauvegarde</link><link>Pathfinder-RPG.Action rapide</link></outLinks>
+  <body><![CDATA[
+&lt;b&gt;&#201;cole&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#ABJURATION&quot; title=&quot;Abjuration&quot;&gt;Abjuration&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;er-Un-Sort.html#REGISTRE&quot; title=&quot;Registre&quot;&gt;bien&lt;/a&gt;)&#160;; &lt;b&gt;Niveau&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Paladin.html&quot; title=&quot;Le paladin&quot;&gt;paladin&lt;/a&gt; 1&lt;br/&gt;
+&lt;b&gt;Temps d&#39;incantation&lt;/b&gt; 1 &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions.html#SIMPLE&quot; title=&quot;Action simple&quot;&gt;action simple&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Composantes&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#COMPOSANTES&quot; title=&quot;composantes&quot;&gt;V, G, FD&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Port&#233;e&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#PORTEE&quot; title=&quot;personnelle&quot;&gt;personnelle&lt;/a&gt; ou 1,50 m (1 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)&#160;(voir description)&lt;br/&gt;
+&lt;b&gt;Cible&lt;/b&gt; lanceur de sorts ou toutes les cr&#233;atures dans un rayon de 1,50 m&#160;(1 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) ; voir texte&lt;br/&gt;
+&lt;b&gt;Dur&#233;e&lt;/b&gt; 10 minutes/&lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#NIVEAU&quot; title=&quot;niveau&quot;&gt;niveau&lt;/a&gt; (T)&lt;br /&gt;&lt;br /&gt;Le personnage s&#39;entoure d&#39;un voile d&#39;&#233;nergie positive, ce qui le rend bien plus difficile &#224; blesser pour les &lt;a class=&quot;pagelink&quot; href=&quot;Type-Mort-Vivant.html&quot; title=&quot;Mort-vivant&quot;&gt;morts-vivants&lt;/a&gt;. Quand le personnage se trouve sous l&#39;effet de ce sort, il gagne un bonus sacr&#233; de +2 &#224; la &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#CA&quot; title=&quot;CA&quot;&gt;CA&lt;/a&gt; et aux &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;jet de sauvegarde&quot;&gt;jets de sauvegarde&lt;/a&gt;. Ces deux bonus s&#39;appliquent uniquement aux attaques et aux effets qui viennent de cr&#233;atures &lt;a class=&quot;pagelink&quot; href=&quot;Type-Mort-Vivant.html&quot; title=&quot;Mort-vivant&quot;&gt;mortes-vivantes&lt;/a&gt;. Le personnage peut mettre un terme au sort avant le terme normal de sa dur&#233;e par une &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions.html#RAPIDE&quot; title=&quot;Action rapide&quot;&gt;action rapide&lt;/a&gt; effectu&#233;e &#224; son tour. Il inflige alors un nombre de points de d&#233;g&#226;ts d&#39;&#233;nergie positive &#233;gal &#224; son niveau &#224; toutes les cr&#233;atures &lt;a class=&quot;pagelink&quot; href=&quot;Type-Mort-Vivant.html&quot; title=&quot;Mort-vivant&quot;&gt;mortes-vivantes&lt;/a&gt; qui se trouvent &#224; moins de 1,50 m&#232;tre (1 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) de lui. 
+]]></body>
+  <raw><![CDATA[{s:APG}
+'''École''' [[Abjuration]] ([[registre|bien]]) ; '''Niveau''' [[paladin]] 1<br/>
+'''Temps d'incantation''' 1 [[action simple]]<br/>
+'''Composantes''' [[Composantes|V, G, FD]]<br/>
+'''Portée''' [[personnelle]] ou 1,50 m (1 {s:c}) (voir description)<br/>
+'''Cible''' lanceur de sorts ou toutes les créatures dans un rayon de 1,50 m (1 {s:c}) ; voir texte<br/>
+'''Durée''' 10 minutes/[[niveau]] (T)
+
+Le personnage s'entoure d'un voile d'énergie positive, ce qui le rend bien plus difficile à blesser pour les [[type mort-vivant|morts-vivants]]. Quand le personnage se trouve sous l'effet de ce sort, il gagne un bonus sacré de +2 à la [[CA]] et aux [[jet de sauvegarde|jets de sauvegarde]]. Ces deux bonus s'appliquent uniquement aux attaques et aux effets qui viennent de créatures [[type Mort-vivant|mortes-vivantes]]. Le personnage peut mettre un terme au sort avant le terme normal de sa durée par une [[action rapide]] effectuée à son tour. Il inflige alors un nombre de points de dégâts d'énergie positive égal à son niveau à toutes les créatures [[type mort-vivant|mortes-vivantes]] qui se trouvent à moins de 1,50 mètre (1 {s:c}) de lui. ]]></raw>
+  <fullName>Pathfinder-RPG.Voile dénergie positive</fullName>
+</wikiPage>

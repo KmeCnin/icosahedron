@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Arc-bâton</title>
+  <categories><category>Pathfinder-RPG.Art de la guerre</category><category>Pathfinder-RPG.Règles officielles</category><category>Pathfinder-RPG.Sort</category><category>Pathfinder-RPG.Sort inquisiteur 1</category><category>Pathfinder-RPG.Sort paladin 1</category><category>Pathfinder-RPG.Sort rôdeur 1</category></categories>
+  <lastModified>2012-06-30 11:33:01Z</lastModified>
+  <version>0</version>
+  <inLinks><link>Pathfinder-RPG.Glossaire des sorts</link><link>Pathfinder-RPG.Liste des sorts</link><link>Pathfinder-RPG.Liste des sorts de paladins</link><link>Pathfinder-RPG.Liste des sorts de rôdeurs</link><link>Pathfinder-RPG.Liste des sorts dinquisiteur</link><link>Pathfinder-RPG.Listes de sorts par classe</link><link>Pathfinder-RPG.Sorts temporaires-AdG</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Transmutation</link><link>Pathfinder-RPG.Inquisiteur</link><link>Pathfinder-RPG.Paladin</link><link>Pathfinder-RPG.Rôdeur</link><link>Pathfinder-RPG.Action simple</link><link>Pathfinder-RPG.composantes</link><link>Pathfinder-RPG.round</link><link>Pathfinder-RPG.niveau</link><link>Pathfinder-RPG.Volonté</link><link>Pathfinder-RPG.Présentation des sorts</link></outLinks>
+  <body><![CDATA[
+&lt;b&gt;&#201;cole&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#TRANSMUTATION&quot; title=&quot;Transmutation&quot;&gt;Transmutation&lt;/a&gt; ; &lt;b&gt;Niveau&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Inquisiteur.html&quot; title=&quot;L&amp;#39;inquisiteur&quot;&gt;inquisiteur&lt;/a&gt; 1, &lt;a class=&quot;pagelink&quot; href=&quot;Paladin.html&quot; title=&quot;Le paladin&quot;&gt;paladin&lt;/a&gt; 1, &lt;a class=&quot;pagelink&quot; href=&quot;R&#244;deur.html&quot; title=&quot;Le r&#244;deur&quot;&gt;r&#244;deur&lt;/a&gt; 1&lt;br /&gt;
+&lt;b&gt;Temps d’incantation&lt;/b&gt; 1 &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions.html#SIMPLE&quot; title=&quot;Action simple&quot;&gt;action simple&lt;/a&gt;&lt;br /&gt;
+&lt;b&gt;Composantes&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#COMPOSANTES&quot; title=&quot;composantes&quot;&gt;V&lt;/a&gt;&lt;br /&gt;
+&lt;b&gt;Port&#233;e&lt;/b&gt; personnelle&lt;br /&gt;
+&lt;b&gt;Cible&lt;/b&gt; une arme (arc)&lt;br /&gt;
+&lt;b&gt;Dur&#233;e&lt;/b&gt; 1 &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#ROUND&quot; title=&quot;round&quot;&gt;round&lt;/a&gt;/&lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#NIVEAU&quot; title=&quot;niveau&quot;&gt;niveau&lt;/a&gt; (D)&lt;br /&gt;
+&lt;b&gt;Jet de sauvegarde&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;Volont&#233;&quot;&gt;Volont&#233;&lt;/a&gt; pour &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#JETSDESAUVEGARDE&quot; title=&quot;Pr&#233;sentation des sorts&quot;&gt;annuler&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#JETSDESAUVEGARDE&quot; title=&quot;Pr&#233;sentation des sorts&quot;&gt;inoffensif&lt;/a&gt;, objet) ; &lt;b&gt;R&#233;sistance &#224; la magie&lt;/b&gt; oui (&lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#JETSDESAUVEGARDE&quot; title=&quot;Pr&#233;sentation des sorts&quot;&gt;inoffensif&lt;/a&gt;, objet)&lt;br /&gt;&lt;br /&gt;L’arc touch&#233; prend la rigidit&#233; et la robustesse de l’acier tremp&#233;. Il peut donc servir d’arme de corps &#224; corps. Un arc court peut alors servir de gourdin et un arc long de b&#226;ton, m&#234;me s’ils gardent leur nombre de points de vie et leur solidit&#233; habituels. Si l’arc a un bonus d’alt&#233;ration, il s’applique aux jets d’attaque et de d&#233;g&#226;ts. Les propri&#233;t&#233;s sp&#233;ciales suppl&#233;mentaires de l’arc s’appliquent aussi aux attaques de corps &#224; corps, &#224; condition que l’on puisse les appliquer &#224; une arme de corps &#224; corps.
+]]></body>
+  <raw><![CDATA[{s:UC}
+'''École''' [[Transmutation]] ; '''Niveau''' [[inquisiteur]] 1, [[paladin]] 1, [[rôdeur]] 1<br>
+'''Temps d’incantation''' 1 [[action simple]]<br>
+'''Composantes''' [[Composantes|V]]<br>
+'''Portée''' personnelle<br>
+'''Cible''' une arme (arc)<br>
+'''Durée''' 1 [[round]]/[[niveau]] (D)<br>
+'''Jet de sauvegarde''' [[Volonté]] pour [[Présentation des sorts#JETSDESAUVEGARDE|annuler]] ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]], objet) ; '''Résistance à la magie''' oui ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]], objet)
+
+L’arc touché prend la rigidité et la robustesse de l’acier trempé. Il peut donc servir d’arme de corps à corps. Un arc court peut alors servir de gourdin et un arc long de bâton, même s’ils gardent leur nombre de points de vie et leur solidité habituels. Si l’arc a un bonus d’altération, il s’applique aux jets d’attaque et de dégâts. Les propriétés spéciales supplémentaires de l’arc s’appliquent aussi aux attaques de corps à corps, à condition que l’on puisse les appliquer à une arme de corps à corps.]]></raw>
+  <fullName>Pathfinder-RPG.Arc-bâton</fullName>
+</wikiPage>

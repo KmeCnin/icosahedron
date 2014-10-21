@@ -1,0 +1,100 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Chien de Tindalos</title>
+  <categories><category>Pathfinder-RPG.Bestiaire 2</category><category>Pathfinder-RPG.Monstre</category><category>Pathfinder-RPG.Règles officielles</category></categories>
+  <lastModified>2013-02-02 18:22:26Z</lastModified>
+  <version>0</version>
+  <inLinks><link>Pathfinder-RPG.Glossaire des monstres</link><link>Pathfinder-RPG.Liste de monstres par FP</link><link>Pathfinder-RPG.Liste de monstres par milieu naturel</link><link>Pathfinder-RPG.Liste de monstres par type</link><link>Pathfinder-RPG.Monstres</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.type Extérieur</link><link>Pathfinder-RPG.sous-type extraplanaire</link><link>Pathfinder-RPG.sous-type Mal</link><link>Pathfinder-RPG.vision dans le noir</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Marche dans les airs</link><link>Pathfinder-RPG.Invisibilité</link><link>Pathfinder-RPG.Localisation de créature</link><link>Pathfinder-RPG.Nappe de brouillard</link><link>Pathfinder-RPG.Ancre dimensionnelle</link><link>Pathfinder-RPG.Lenteur</link><link>Pathfinder-RPG.Localisation suprême</link><link>Pathfinder-RPG.Rapidité</link><link>Pathfinder-RPG.Scrutation suprême</link><link>Pathfinder-RPG.croc-en-jambe</link><link>Pathfinder-RPG.Attaque en finesse</link><link>Pathfinder-RPG.Attaques réflexes</link><link>Pathfinder-RPG.Combat en aveugle</link><link>Pathfinder-RPG.Frappe décisive</link><link>Pathfinder-RPG.Science de linitiative</link><link>Pathfinder-RPG.Acrobaties</link><link>Pathfinder-RPG.Connaissances</link><link>Pathfinder-RPG.Discrétion</link><link>Pathfinder-RPG.Intimidation</link><link>Pathfinder-RPG.Psychologie</link><link>Pathfinder-RPG.Survie</link><link>Pathfinder-RPG.Téléportation suprême</link><link>Pathfinder-RPG.Changement de plan</link><link>Pathfinder-RPG.Télépathie</link><link>Pathfinder-RPG.Confus</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Chien de Tindalos&lt;div style=&quot;float:right;&quot;&gt;FP 7&lt;/div&gt;&lt;/div&gt;&lt;br /&gt;&lt;ul&gt;&lt;li&gt;&lt;i&gt;Source : Bestiaire 2, p.64&lt;/i&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;PX&lt;/b&gt; 3 200&lt;/li&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Type-Ext&#233;rieur.html&quot; title=&quot;Ext&#233;rieur&quot;&gt;Ext&#233;rieur&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Extraplanaire.html&quot; title=&quot;Extraplanaire (sous-type)&quot;&gt;extraplanaire&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Mal.html&quot; title=&quot;Mal (sous-type)&quot;&gt;Mal&lt;/a&gt;) de taille M, NM&lt;/li&gt;&lt;li&gt;&lt;b&gt;Init&lt;/b&gt; +9 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Capacit&#233;s-Sp&#233;ciales.html#VISIONDANSLENOIR&quot; title=&quot;vision dans le noir&quot;&gt;vision dans le noir&lt;/a&gt; 36 m (24 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +18&lt;br /&gt;&lt;div class=&quot;box&quot;&gt;D&#233;fense&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;CA&lt;/b&gt; 20, contact 15, pris au d&#233;pourvu 15 (Dex +5, naturelle +5)&lt;/li&gt;&lt;li&gt;&lt;b&gt;pv&lt;/b&gt; 85 (10d10+30)&lt;/li&gt;&lt;li&gt;&lt;b&gt;R&#233;f&lt;/b&gt; +12, &lt;b&gt;Vig&lt;/b&gt; +10, &lt;b&gt;Vol&lt;/b&gt; +8&lt;/li&gt;&lt;li&gt;&lt;b&gt;RD&lt;/b&gt; 10/magie ; &lt;b&gt;Immunit&#233;s&lt;/b&gt; effets mentaux, poison&lt;br /&gt;&lt;div class=&quot;box&quot;&gt;Attaque&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;VD&lt;/b&gt; 12 m (8 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)&lt;/li&gt;&lt;li&gt;&lt;b&gt;Corps &#224; corps&lt;/b&gt; morsure, +15 (2d6+3) et 2 griffes, +15 (1d8+3)&lt;/li&gt;&lt;li&gt;&lt;b&gt;Attaques sp&#233;ciales&lt;/b&gt; regard &#233;corcheur&lt;/li&gt;&lt;li&gt;&lt;b&gt;Pouvoirs magiques&lt;/b&gt; (NLS 10 ; concentration +13)&lt;ul&gt;&lt;li&gt;Constant — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Marche-Dans-Les-Airs.html&quot; title=&quot;Marche dans les airs&quot;&gt;marche dans les airs&lt;/a&gt;&lt;/i&gt;&lt;/li&gt;&lt;li&gt;&#192; volont&#233; — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Invisibilit&#233;.html&quot; title=&quot;Invisibilit&#233;&quot;&gt;invisibilit&#233;&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Localisation-De-Cr&#233;ature.html&quot; title=&quot;Localisation de cr&#233;ature&quot;&gt;localisation de cr&#233;ature&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Nappe-De-Brouillard.html&quot; title=&quot;Nappe de brouillard&quot;&gt;nappe de brouillard&lt;/a&gt;&lt;/i&gt;&lt;/li&gt;&lt;li&gt;3/jour — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Ancre-Dimensionnelle.html&quot; title=&quot;Ancre dimensionnelle&quot;&gt;ancre dimensionnelle&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Lenteur.html&quot; title=&quot;Lenteur&quot;&gt;lenteur&lt;/a&gt;&lt;/i&gt; (DD 16), &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Localisation-Supr&#234;me.html&quot; title=&quot;Localisation supr&#234;me&quot;&gt;localisation supr&#234;me&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Rapidit&#233;.html&quot; title=&quot;Rapidit&#233;&quot;&gt;rapidit&#233;&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Scrutation-Supr&#234;me.html&quot; title=&quot;Scrutation supr&#234;me&quot;&gt;scrutation supr&#234;me&lt;/a&gt;&lt;/i&gt; (DD 20)&lt;br /&gt;&lt;div class=&quot;box&quot;&gt;Statistiques&lt;/div&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;For&lt;/b&gt; 17, &lt;b&gt;Dex&lt;/b&gt; 21, &lt;b&gt;Con&lt;/b&gt; 16, &lt;b&gt;Int&lt;/b&gt; 16, &lt;b&gt;Sag&lt;/b&gt; 21, &lt;b&gt;Cha&lt;/b&gt; 16&lt;/li&gt;&lt;li&gt;&lt;b&gt;BBA&lt;/b&gt; +10 ; &lt;b&gt;BMO&lt;/b&gt; +13 ; &lt;b&gt;DMD&lt;/b&gt; 28 (32 contre &lt;a class=&quot;pagelink&quot; href=&quot;Croc-En-Jambe.html&quot; title=&quot;croc-en-jambe&quot;&gt;croc-en-jambe&lt;/a&gt;)&lt;/li&gt;&lt;li&gt;&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Attaque-En-Finesse.html&quot; title=&quot;Attaque en finesse&quot;&gt;Attaque en finesse&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Attaques-R&#233;flexes.html&quot; title=&quot;Attaques r&#233;flexes&quot;&gt;Attaques r&#233;flexes&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Combat-En-Aveugle.html&quot; title=&quot;Combat en aveugle&quot;&gt;Combat en aveugle&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Frappe-D&#233;cisive.html&quot; title=&quot;Frappe d&#233;cisive&quot;&gt;Frappe d&#233;cisive&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Science-De-Linitiative.html&quot; title=&quot;Science de l&amp;#39;initiative&quot;&gt;Science de l’initiative&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Acrobaties.html&quot; title=&quot;Acrobaties&quot;&gt;Acrobaties&lt;/a&gt; +18 (+22 pour sauter), &lt;a class=&quot;pagelink&quot; href=&quot;Connaissances.html&quot; title=&quot;Connaissances&quot;&gt;Connaissances&lt;/a&gt; (g&#233;ographie) +13, &lt;a class=&quot;pagelink&quot; href=&quot;Connaissances.html&quot; title=&quot;Connaissances&quot;&gt;Connaissances&lt;/a&gt; (myst&#232;res) +16, &lt;a class=&quot;pagelink&quot; href=&quot;Connaissances.html&quot; title=&quot;Connaissances&quot;&gt;Connaissances&lt;/a&gt; (plans) +16, &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; +18, &lt;a class=&quot;pagelink&quot; href=&quot;Intimidation.html&quot; title=&quot;Intimidation&quot;&gt;Intimidation&lt;/a&gt; +16, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +18, &lt;a class=&quot;pagelink&quot; href=&quot;Psychologie.html&quot; title=&quot;Psychologie&quot;&gt;Psychologie&lt;/a&gt; +18, &lt;a class=&quot;pagelink&quot; href=&quot;Survie.html&quot; title=&quot;Survie&quot;&gt;Survie&lt;/a&gt; +18&lt;/li&gt;&lt;li&gt;&lt;b&gt;Langues&lt;/b&gt; aklo&lt;/li&gt;&lt;li&gt;&lt;b&gt;Particularit&#233;s&lt;/b&gt; entr&#233;e angulaire, esprit &#233;tranger&lt;br /&gt;&lt;div class=&quot;box&quot;&gt;&#201;cologie&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;Environnement&lt;/b&gt; tous&lt;/li&gt;&lt;li&gt;&lt;b&gt;Organisation sociale&lt;/b&gt; solitaire ou meute (2–12)&lt;/li&gt;&lt;li&gt;&lt;b&gt;Tr&#233;sor&lt;/b&gt; aucun&lt;br /&gt;&lt;div class=&quot;box&quot;&gt;Pouvoirs sp&#233;ciaux&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;Entr&#233;e angulaire (Sur).&lt;/b&gt; Les chiens de Tindalos se d&#233;placent &#224; travers les dimensions d’une mani&#232;re que les autres cr&#233;atures ne peuvent pas comprendre. Ils peuvent utiliser &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;T&#233;l&#233;portation-Supr&#234;me.html&quot; title=&quot;T&#233;l&#233;portation supr&#234;me&quot;&gt;t&#233;l&#233;portation supr&#234;me&lt;/a&gt;&lt;/i&gt; (personnel uniquement) une fois par round par une action rapide et &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Changement-De-Plan.html&quot; title=&quot;Changement de plan&quot;&gt;changement de plan&lt;/a&gt;&lt;/i&gt; (personnel uniquement) 3/jour par une action simple (avec un NLS de 10). Ils peuvent faire appel &#224; ces pouvoirs n’importe o&#249; mais leur destination doit &#234;tre adjacente &#224; un angle ou &#224; un coin dans l’environnement physique, comme un angle entre les murs, le sol et/ou le plafond (&#224; l’appr&#233;ciation du MD en cas de doute). Les angles temporaires form&#233;s par des v&#234;tements, la chair ou des petits objets ne suffisent pas. Les chiens de Tindalos ne peuvent pas utiliser cette capacit&#233; pour p&#233;n&#233;trer dans des &#233;l&#233;ments architecturaux incurv&#233;s ni &#224; l’ext&#233;rieur.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Esprit &#233;tranger (Ext).&lt;/b&gt; Tout non-Ext&#233;rieur tentant de lire les pens&#233;es d’un chien de Tindalos ou de communiquer par &lt;a class=&quot;pagelink&quot; href=&quot;T&#233;l&#233;pathie-(Capacit&#233;).html&quot; title=&quot;T&#233;l&#233;pathie&quot;&gt;t&#233;l&#233;pathie&lt;/a&gt; avec lui subit 5d6 points de d&#233;g&#226;ts non l&#233;taux et doit r&#233;ussir un jet de Volont&#233; de DD 18 pour ne pas &#234;tre &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables.html#Confus&quot; title=&quot;Confus&quot;&gt;confus&lt;/a&gt; pendant 2d4 rounds. Il s’agit d’un effet mental. Le DD du jet de sauvegarde d&#233;pend du Charisme.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Regard &#233;corcheur (Sur).&lt;/b&gt; 5d6 d&#233;g&#226;ts de type tranchant, 9 m&#232;tres (6 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), Vigueur DD 18 annule. Les cr&#233;atures qui r&#233;ussissent ce jet de sauvegarde sont immunis&#233;es contre le regard du chien de Tindalos en question pendant 24 heures. Les d&#233;g&#226;ts inflig&#233;s par ce regard peuvent &#234;tre diminu&#233;s par une r&#233;duction de d&#233;g&#226;ts mais ils ignorent les RD/magie et tranchant. Le DD du jet de sauvegarde d&#233;pend du Charisme.&lt;br /&gt;&lt;/li&gt;&lt;/ul&gt;&lt;br /&gt;&lt;/div&gt;
+&lt;/td&gt;&lt;td&gt;&lt;div&gt;&lt;i&gt;Ce quadrup&#232;de &#233;lanc&#233; a de longs membres, d’&#233;normes yeux inexpressifs et une gueule garnie de crocs. Il se d&#233;place avec la gr&#226;ce et l’agilit&#233; d’un pr&#233;dateur.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Les chiens de Tindalos sont des pr&#233;dateurs originaires d’un
+autre monde situ&#233; au-del&#224; des fronti&#232;res de la r&#233;alit&#233; connue et
+qui n’apparaissent g&#233;n&#233;ralement que lorsqu’ils ont &#233;t&#233; invoqu&#233;s
+par des lanceurs de sorts imprudents. On ne sait pas grand chose
+&#224; leur sujet, si ce n’est quelques bribes d’informations contenues
+dans des notes &#233;clabouss&#233;es de sang et dans les &#233;crits laiss&#233;s
+par les rares individus quasi d&#233;ments qui ont surv&#233;cu &#224; leurs
+attaques. Ils p&#233;n&#232;trent parfois d’eux-m&#234;mes dans le monde
+physique pour pourchasser ceux qui ont approch&#233; de trop pr&#232;s
+les chemins myst&#233;rieux au-del&#224; du temps et de la r&#233;alit&#233;. Ils
+s’int&#233;ressent particuli&#232;rement aux voyageurs du temps (ceux qui
+se sont d&#233;plac&#233;s physiquement &#224; travers
+le temps comme ceux qui ont
+simplement utilis&#233; la divination
+pour jeter un coup d’oeil vers
+le futur ou le pass&#233;) et aux
+cr&#233;atures qui se t&#233;l&#233;portent
+sans se pr&#233;occuper des
+cons&#233;quences qu’ont
+leurs mouvements sur
+les flux magiques du
+multivers.
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Chien de Tindalos|FP 7}
+{s:pucem|Extérieur|Ville|Extraplanaire}
+* ''Source : Bestiaire 2, p.64''
+* '''PX''' 3 200
+* [[type Extérieur|Extérieur]] ([[sous-type extraplanaire|extraplanaire]], [[sous-type Mal|Mal]]) de taille M, NM
+* '''Init''' +9 ; '''Sens''' [[vision dans le noir]] 36 m (24 {s:c}) ; [[Perception]] +18
+(((Défense)))
+* '''CA''' 20, contact 15, pris au dépourvu 15 (Dex +5, naturelle +5)
+* '''pv''' 85 (10d10+30)
+* '''Réf''' +12, '''Vig''' +10, '''Vol''' +8
+* '''RD''' 10/magie ; '''Immunités''' effets mentaux, poison
+(((Attaque)))
+* '''VD''' 12 m (8 {s:c})
+* '''Corps à corps''' morsure, +15 (2d6+3) et 2 griffes, +15 (1d8+3)
+* '''Attaques spéciales''' regard écorcheur
+* '''Pouvoirs magiques''' (NLS 10 ; concentration +13)
+** Constant — ''[[marche dans les airs]]''
+** À volonté — ''[[invisibilité]]'', ''[[localisation de créature]]'', ''[[nappe de brouillard]]''
+** 3/jour — ''[[ancre dimensionnelle]]'', ''[[lenteur]]'' (DD 16), ''[[localisation suprême]]'', ''[[rapidité]]'', ''[[scrutation suprême]]'' (DD 20)
+(((Statistiques)))
+* '''For''' 17, '''Dex''' 21, '''Con''' 16, '''Int''' 16, '''Sag''' 21, '''Cha''' 16
+* '''BBA''' +10 ; '''BMO''' +13 ; '''DMD''' 28 (32 contre [[croc-en-jambe]])
+* '''Dons''' [[Attaque en finesse]], [[Attaques réflexes]], [[Combat en aveugle]], [[Frappe décisive]], [[Science de linitiative|Science de l’initiative]]
+* '''Compétences''' [[Acrobaties]] +18 (+22 pour sauter), [[Connaissances]] (géographie) +13, [[Connaissances]] (mystères) +16, [[Connaissances]] (plans) +16, [[Discrétion]] +18, [[Intimidation]] +16, [[Perception]] +18, [[Psychologie]] +18, [[Survie]] +18
+* '''Langues''' aklo
+* '''Particularités''' entrée angulaire, esprit étranger
+(((Écologie)))
+* '''Environnement''' tous
+* '''Organisation sociale''' solitaire ou meute (2–12)
+* '''Trésor''' aucun
+(((Pouvoirs spéciaux)))
+* '''Entrée angulaire (Sur).''' Les chiens de Tindalos se déplacent à travers les dimensions d’une manière que les autres créatures ne peuvent pas comprendre. Ils peuvent utiliser ''[[téléportation suprême]]'' (personnel uniquement) une fois par round par une action rapide et ''[[changement de plan]]'' (personnel uniquement) 3/jour par une action simple (avec un NLS de 10). Ils peuvent faire appel à ces pouvoirs n’importe où mais leur destination doit être adjacente à un angle ou à un coin dans l’environnement physique, comme un angle entre les murs, le sol et/ou le plafond (à l’appréciation du MD en cas de doute). Les angles temporaires formés par des vêtements, la chair ou des petits objets ne suffisent pas. Les chiens de Tindalos ne peuvent pas utiliser cette capacité pour pénétrer dans des éléments architecturaux incurvés ni à l’extérieur.
+* '''Esprit étranger (Ext).''' Tout non-Extérieur tentant de lire les pensées d’un chien de Tindalos ou de communiquer par [[télépathie]] avec lui subit 5d6 points de dégâts non létaux et doit réussir un jet de Volonté de DD 18 pour ne pas être [[confus]] pendant 2d4 rounds. Il s’agit d’un effet mental. Le DD du jet de sauvegarde dépend du Charisme.
+* '''Regard écorcheur (Sur).''' 5d6 dégâts de type tranchant, 9 mètres (6 {s:c}), Vigueur DD 18 annule. Les créatures qui réussissent ce jet de sauvegarde sont immunisées contre le regard du chien de Tindalos en question pendant 24 heures. Les dégâts infligés par ce regard peuvent être diminués par une réduction de dégâts mais ils ignorent les RD/magie et tranchant. Le DD du jet de sauvegarde dépend du Charisme.
+
+</div>
+</td><td><div>''Ce quadrupède élancé a de longs membres, d’énormes yeux inexpressifs et une gueule garnie de crocs. Il se déplace avec la grâce et l’agilité d’un prédateur.''
+
+Les chiens de Tindalos sont des prédateurs originaires d’un
+autre monde situé au-delà des frontières de la réalité connue et
+qui n’apparaissent généralement que lorsqu’ils ont été invoqués
+par des lanceurs de sorts imprudents. On ne sait pas grand chose
+à leur sujet, si ce n’est quelques bribes d’informations contenues
+dans des notes éclaboussées de sang et dans les écrits laissés
+par les rares individus quasi déments qui ont survécu à leurs
+attaques. Ils pénètrent parfois d’eux-mêmes dans le monde
+physique pour pourchasser ceux qui ont approché de trop près
+les chemins mystérieux au-delà du temps et de la réalité. Ils
+s’intéressent particulièrement aux voyageurs du temps (ceux qui
+se sont déplacés physiquement à travers
+le temps comme ceux qui ont
+simplement utilisé la divination
+pour jeter un coup d’oeil vers
+le futur ou le passé) et aux
+créatures qui se téléportent
+sans se préoccuper des
+conséquences qu’ont
+leurs mouvements sur
+les flux magiques du
+multivers.
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Chien de Tindalos</fullName>
+</wikiPage>

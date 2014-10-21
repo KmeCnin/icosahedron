@@ -1,0 +1,111 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Spinosaure</title>
+  <categories><category>Pathfinder-RPG.Bestiaire 3</category><category>Pathfinder-RPG.Monstre</category><category>Pathfinder-RPG.Règles officielles</category></categories>
+  <lastModified>2013-10-07 10:56:20Z</lastModified>
+  <version>0</version>
+  <inLinks><link>Pathfinder-RPG.Glossaire des monstres</link><link>Pathfinder-RPG.Liste de monstres par FP</link><link>Pathfinder-RPG.Liste de monstres par milieu naturel</link><link>Pathfinder-RPG.Liste de monstres par type</link><link>Pathfinder-RPG.Monstres</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.type Animal</link><link>Pathfinder-RPG.odorat</link><link>Pathfinder-RPG.Vision nocturne (capacité)</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Bond (capacité)</link><link>Pathfinder-RPG.Engloutissement (capacité)</link><link>Pathfinder-RPG.Course</link><link>Pathfinder-RPG.Critique ralentissant</link><link>Pathfinder-RPG.Don pour les critiques</link><link>Pathfinder-RPG.Dur à cuire</link><link>Pathfinder-RPG.Endurance</link><link>Pathfinder-RPG.Réflexes surhumains</link><link>Pathfinder-RPG.Science de linitiative</link><link>Pathfinder-RPG.Science du critique</link><link>Pathfinder-RPG.Talent</link><link>Pathfinder-RPG.Volonté de fer</link><link>Pathfinder-RPG.Natation</link><link>Pathfinder-RPG.Retenir son souffle (capacité)</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Spinosaure&lt;div style=&quot;float:right;&quot;&gt;FP 11&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Bestiaire 3&lt;/i&gt; p.84
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 12 800
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Animal.html&quot; title=&quot;Animal&quot;&gt;Animal&lt;/a&gt; de taille Gig, N
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +6 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Odorat-(Capacit&#233;).html&quot; title=&quot;odorat&quot;&gt;odorat&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Nocturne-(Capacit&#233;).html&quot; title=&quot;Vision nocturne (Ext)&quot;&gt;vision nocturne&lt;/a&gt; ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +25
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 24, contact 8, pris au d&#233;pourvu 22 (Dex +2, naturelle +16, taille -4)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 170 (20d8+80)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +16, &lt;b&gt;Vig&lt;/b&gt; +16, &lt;b&gt;Vol&lt;/b&gt; +9
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 12 m (8 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), nage 9 m (6 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; 2 griffes, +23 (2d6+12) et morsure, +23 (2d8+12/19-20 plus &#233;treinte)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Espace&lt;/b&gt; 6 m (4 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;); Allonge 6 m (4 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaque sp&#233;ciale&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Bond-(Capacit&#233;).html&quot; title=&quot;Bond (Ext)&quot;&gt;bond&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Engloutissement-(Capacit&#233;).html&quot; title=&quot;Engloutissement (Ext)&quot;&gt;engloutissement&lt;/a&gt; (2d8+12, CA 18, 17 pv)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 34, &lt;b&gt;Dex&lt;/b&gt; 15, &lt;b&gt;Con&lt;/b&gt; 18, &lt;b&gt;Int&lt;/b&gt; 2, &lt;b&gt;Sag&lt;/b&gt; 13, &lt;b&gt;Cha&lt;/b&gt; 13
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +15 ; &lt;b&gt;BMO&lt;/b&gt; +31 (+35 lutte) ; &lt;b&gt;DMD&lt;/b&gt; 43
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Course.html&quot; title=&quot;Course&quot;&gt;Course&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Critique-Ralentissant.html&quot; title=&quot;Critique ralentissant&quot;&gt;Critique ralentissant&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Don-Pour-Les-Critiques.html&quot; title=&quot;Don pour les critiques&quot;&gt;Don pour les critiques&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Dur-&#192;-Cuire.html&quot; title=&quot;Dur &#224; cuire&quot;&gt;Dur &#224; cuire&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Endurance.html&quot; title=&quot;Endurance&quot;&gt;Endurance&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;R&#233;flexes-Surhumains.html&quot; title=&quot;R&#233;flexes surhumains&quot;&gt;R&#233;flexes surhumains&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Science-De-Linitiative.html&quot; title=&quot;Science de l&amp;#39;initiative&quot;&gt;Science de l’initiative&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Science-Du-Critique.html&quot; title=&quot;Science du critique&quot;&gt;Science du critique&lt;/a&gt; (morsure), &lt;a class=&quot;pagelink&quot; href=&quot;Talent.html&quot; title=&quot;Talent&quot;&gt;Talent&lt;/a&gt; (Perception), &lt;a class=&quot;pagelink&quot; href=&quot;Volont&#233;-De-Fer.html&quot; title=&quot;Volont&#233; de fer&quot;&gt;Volont&#233; de fer&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Natation.html&quot; title=&quot;Natation&quot;&gt;Natation&lt;/a&gt; +28, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +25
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Particularit&#233;&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Retenir-Son-Souffle-(Capacit&#233;).html&quot; title=&quot;Retenir son souffle (Ext)&quot;&gt;retenir son souffle&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; for&#234;ts chaudes ou mar&#233;cages
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation&lt;/b&gt; solitaire, couple ou meute (3-6)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; aucun
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;td&gt;&lt;div&gt;&lt;i&gt;Ce saurien titanesque poss&#232;de un museau de crocodile, de puissantes griffes ant&#233;rieures et une cr&#234;te dorsale color&#233;e en forme de voile.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Plus grand que le tyrannosaure, le spinosaure mesure 18 m&#232;tres de long et p&#232;se 12,5 tonnes. Il chasse essentiellement
+le long des littoraux et des rivi&#232;res.
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Spinosaure|FP 11}
+{s:BDTexte|''Source : Bestiaire 3'' p.84}
+{s:BDTexte|'''PX''' 12 800}
+{s:BDTexte|[[type Animal|Animal]] de taille Gig, N}
+{s:BDTexte|'''Init''' +6 ; '''Sens''' [[odorat]], [[Vision nocturne (capacité)|vision nocturne]] ; [[Perception]] +25}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 24, contact 8, pris au dépourvu 22 (Dex +2, naturelle +16, taille -4)}
+{s:BDTexte|'''pv''' 170 (20d8+80)}
+{s:BDTexte|'''Réf''' +16, '''Vig''' +16, '''Vol''' +9}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 12 m (8 {s:c}), nage 9 m (6 {s:c})}
+{s:BDTexte|'''Corps à corps''' 2 griffes, +23 (2d6+12) et morsure, +23 (2d8+12/19-20 plus étreinte)}
+{s:BDTexte|'''Espace''' 6 m (4 {s:c}); Allonge 6 m (4 {s:c})}
+{s:BDTexte|'''Attaque spéciale''' [[Bond (capacité)|bond]], [[Engloutissement (capacité)|engloutissement]] (2d8+12, CA 18, 17 pv)}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 34, '''Dex''' 15, '''Con''' 18, '''Int''' 2, '''Sag''' 13, '''Cha''' 13}
+{s:BDTexte|'''BBA''' +15 ; '''BMO''' +31 (+35 lutte) ; '''DMD''' 43}
+{s:BDTexte|'''Dons''' [[Course]], [[Critique ralentissant]], [[Don pour les critiques]], [[Dur à cuire]], [[Endurance]], [[Réflexes surhumains]], [[Science de linitiative|Science de l’initiative]], [[Science du critique]] (morsure), [[Talent]] (Perception), [[Volonté de fer]]}
+{s:BDTexte|'''Compétences''' [[Natation]] +28, [[Perception]] +25}
+{s:BDTexte|'''Particularité''' [[Retenir son souffle (capacité)|retenir son souffle]]}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' forêts chaudes ou marécages}
+{s:BDTexte|'''Organisation''' solitaire, couple ou meute (3-6)}
+{s:BDTexte|'''Trésor''' aucun}
+</div>
+</td><td><div>''Ce saurien titanesque possède un museau de crocodile, de puissantes griffes antérieures et une crête dorsale colorée en forme de voile.''
+
+Plus grand que le tyrannosaure, le spinosaure mesure 18 mètres de long et pèse 12,5 tonnes. Il chasse essentiellement
+le long des littoraux et des rivières.
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Spinosaure</fullName>
+</wikiPage>

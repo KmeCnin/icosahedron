@@ -1,0 +1,150 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Dragon féerique</title>
+  <categories><category>Pathfinder-RPG.Bestiaire</category><category>Pathfinder-RPG.Monstre</category><category>Pathfinder-RPG.Règles officielles</category></categories>
+  <lastModified>2013-12-27 15:42:39Z</lastModified>
+  <version>6</version>
+  <inLinks><link>Pathfinder-RPG.dragon</link><link>Pathfinder-RPG.Familier supérieur</link><link>Pathfinder-RPG.Glossaire des monstres</link><link>Pathfinder-RPG.Liste de monstres par FP</link><link>Pathfinder-RPG.Liste de monstres par milieu naturel</link><link>Pathfinder-RPG.Liste de monstres par type</link><link>Pathfinder-RPG.Monstres</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.type Dragon</link><link>Pathfinder-RPG.vision dans le noir</link><link>Pathfinder-RPG.vision nocturne</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Invisibilité suprême</link><link>Pathfinder-RPG.Graisse</link><link>Pathfinder-RPG.Image silencieuse</link><link>Pathfinder-RPG.Sommeil</link><link>Pathfinder-RPG.Illumination</link><link>Pathfinder-RPG.Lumières dansantes</link><link>Pathfinder-RPG.Manipulation à distance</link><link>Pathfinder-RPG.Ouverturefermeture</link><link>Pathfinder-RPG.Son imaginaire</link><link>Pathfinder-RPG.Esquive</link><link>Pathfinder-RPG.Voltigeur</link><link>Pathfinder-RPG.Acrobaties</link><link>Pathfinder-RPG.Bluff</link><link>Pathfinder-RPG.Diplomatie</link><link>Pathfinder-RPG.Discrétion</link><link>Pathfinder-RPG.Natation</link><link>Pathfinder-RPG.Psychologie</link><link>Pathfinder-RPG.Utilisation dObjets Magiques</link><link>Pathfinder-RPG.Vol</link><link>Pathfinder-RPG.Télépathie</link><link>Pathfinder-RPG.cône</link><link>Pathfinder-RPG.Vigueur</link><link>Pathfinder-RPG.DD</link><link>Pathfinder-RPG.Chancelant</link><link>Pathfinder-RPG.Fiévreux</link><link>Pathfinder-RPG.jet de sauvegarde</link><link>Pathfinder-RPG.Constitution</link><link>Pathfinder-RPG.Familier supérieur</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Dragon f&#233;erique&lt;div style=&quot;float:right;&quot;&gt;FP 2&lt;/div&gt;&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Bonus Bestiary&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 600
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Dragon.html&quot; title=&quot;Dragon&quot;&gt;Dragon&lt;/a&gt; de taille TP, CB
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +3 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Capacit&#233;s-Sp&#233;ciales.html#VISIONDANSLENOIR&quot; title=&quot;vision dans le noir&quot;&gt;vision dans le noir&lt;/a&gt; 18 m (12 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Nocturne-(Capacit&#233;).html&quot; title=&quot;vision nocturne&quot;&gt;vision nocturne&lt;/a&gt; ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +8
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 17, contact 15, pris au d&#233;pourvu 14 (Dex +3, naturelle +2, taille +2)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 22 (3d12+3)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +6, &lt;b&gt;Vig&lt;/b&gt; +4, &lt;b&gt;Vol&lt;/b&gt; +5
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Immunit&#233;s&lt;/b&gt; paralysie, sommeil ; &lt;b&gt;RM&lt;/b&gt; 14 
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 3 m (2 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), vol 18 m (12 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) (parfait), nage 9 m (6 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; morsure, +4 (1d3-1)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Espace&lt;/b&gt; 0,75 m (1/2 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) ; &lt;b&gt;Allonge&lt;/b&gt; 0
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaques sp&#233;ciales&lt;/b&gt; souffle
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Pouvoirs magiques&lt;/b&gt; (NLS 3)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+3/jour — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Invisibilit&#233;-Supr&#234;me.html&quot; title=&quot;Invisibilit&#233; supr&#234;me&quot;&gt;invisibilit&#233; supr&#234;me&lt;/a&gt;&lt;/i&gt; (personnel uniquement)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Sorts connus&lt;/b&gt; (NLS 3)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+1&lt;sup&gt;er&lt;/sup&gt; (6/jour) — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Graisse.html&quot; title=&quot;Graisse&quot;&gt;graisse&lt;/a&gt;&lt;/i&gt; (DD 14), &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Image-Silencieuse.html&quot; title=&quot;Image silencieuse&quot;&gt;image silencieuse&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Sommeil.html&quot; title=&quot;Sommeil&quot;&gt;sommeil&lt;/a&gt;&lt;/i&gt; (DD 14)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+0 (&#224; volont&#233;) — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Illumination.html&quot; title=&quot;Illumination&quot;&gt;illumination&lt;/a&gt;&lt;/i&gt; (DD 13), &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Lumi&#232;res-Dansantes.html&quot; title=&quot;Lumi&#232;res dansantes&quot;&gt;lumi&#232;res dansantes&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Manipulation-&#192;-Distance.html&quot; title=&quot;Manipulation &#224; distance&quot;&gt;manipulation &#224; distance&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Ouverturefermeture.html&quot; title=&quot;Ouverture/fermeture&quot;&gt;ouverture/fermeture&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Son-Imaginaire.html&quot; title=&quot;Son imaginaire&quot;&gt;son imaginaire&lt;/a&gt;&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 9, &lt;b&gt;Dex&lt;/b&gt; 17, &lt;b&gt;Con&lt;/b&gt; 13, &lt;b&gt;Int&lt;/b&gt; 16, &lt;b&gt;Sag&lt;/b&gt; 14, &lt;b&gt;Cha&lt;/b&gt; 16
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +3, &lt;b&gt;BMO&lt;/b&gt; +8, &lt;b&gt;DMD&lt;/b&gt; 17
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Esquive.html&quot; title=&quot;Esquive&quot;&gt;Esquive&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Voltigeur.html&quot; title=&quot;Voltigeur&quot;&gt;Voltigeur&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Acrobaties.html&quot; title=&quot;Acrobaties&quot;&gt;Acrobaties&lt;/a&gt; +8, &lt;a class=&quot;pagelink&quot; href=&quot;Bluff.html&quot; title=&quot;Bluff&quot;&gt;Bluff&lt;/a&gt; +9, &lt;a class=&quot;pagelink&quot; href=&quot;Diplomatie.html&quot; title=&quot;Diplomatie&quot;&gt;Diplomatie&lt;/a&gt; +9, &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; +17, &lt;a class=&quot;pagelink&quot; href=&quot;Natation.html&quot; title=&quot;Natation&quot;&gt;Natation&lt;/a&gt; +13, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +8, &lt;a class=&quot;pagelink&quot; href=&quot;Psychologie.html&quot; title=&quot;Psychologie&quot;&gt;Psychologie&lt;/a&gt; +8, &lt;a class=&quot;pagelink&quot; href=&quot;Utilisation-Dobjets-Magiques.html&quot; title=&quot;Utilisation d&amp;#39;objets magiques&quot;&gt;Utilisation d&#39;objets magiques&lt;/a&gt; +9, &lt;a class=&quot;pagelink&quot; href=&quot;Vol.html&quot; title=&quot;Vol&quot;&gt;Vol&lt;/a&gt; +19
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Langues&lt;/b&gt; commun, draconique, elfique, sylvestre ; &lt;a class=&quot;pagelink&quot; href=&quot;T&#233;l&#233;pathie-(Capacit&#233;).html&quot; title=&quot;T&#233;l&#233;pathie&quot;&gt;t&#233;l&#233;pathie&lt;/a&gt; 30 m (20 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; for&#234;ts chaudes ou temp&#233;r&#233;es
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation sociale&lt;/b&gt; solitaire ou clan (2-8)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; 550 po
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Capacit&#233;s sp&#233;ciales&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Souffle (Sur).&lt;/b&gt; Ce &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#DEFCONE&quot; title=&quot;c&#244;ne&quot;&gt;c&#244;ne&lt;/a&gt; de 1,50 m (1 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) rend euphorique pendant 1d6 rounds (&lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;Vigueur&quot;&gt;Vigueur&lt;/a&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DEGREDEDIFFICULTE&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; 13 pour annuler). Les cr&#233;atures affect&#233;es sont &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables.html#Chancelant&quot; title=&quot;Chancelant&quot;&gt;chancelantes&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables.html#Fi&#233;vreux&quot; title=&quot;Fi&#233;vreux&quot;&gt;fi&#233;vreuses&lt;/a&gt; et immunis&#233;es contre les effets de peur tant qu&#39;elles sont euphoriques. un dragon f&#233;erique peut utiliser son souffle tous les 1d4 rounds. Le &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DEGREDEDIFFICULTE&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; du &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;jet de sauvegarde&quot;&gt;jet de sauvegarde&lt;/a&gt; est bas&#233; sur la &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#CONSTITUTION&quot; title=&quot;La Constitution&quot;&gt;Constitution&lt;/a&gt;.
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;td&gt;&lt;div&gt;&lt;i&gt;Une paire d’ailes de papillon color&#233;es jaillit du dos de ce petit dragon. Un sourire malicieux joue sur son museau tandis qu’il vol&#232;te de-ci de-l&#224; avec une gr&#226;ce incroyable.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Les dragons f&#233;eriques sont apparent&#233;s aux pseudodragons. Ce sont de joyeux farceurs qui passent l’essentiel de leur temps &#224; faire des blagues. Bien que la plupart de ces blagues soient spontan&#233;es, certains dragons passent des mois, voire m&#234;me des ann&#233;es, &#224; pr&#233;parer une farce vraiment spectaculaire. Nous conseillons aux voyageurs qui traversent une r&#233;gion occup&#233;e par ces plaisantins bienveillants (mais parfois aga&#231;ants) de bien surveiller leurs affaires s’ils ne veulent pas &#234;tre victimes de toutes sortes de d&#233;sagr&#233;ments : chevaux peinturlur&#233;s au jus de baie, fourmis dans les duvets et v&#234;tements accroch&#233;s en haut des arbres, par exemple.&lt;br /&gt;&lt;br /&gt;Contrairement aux v&#233;ritables dragons, les dragons f&#233;eriques ne grandissent pas en vieillissant, mais leurs &#233;cailles changent de couleur. Elles sont tout d’abord rouges et traversent ensuite tout le spectre de l’arc en ciel pour finir d’un violet sombre quand le dragon est tr&#232;s &#226;g&#233;. Le niveau de lanceur de sorts d’un dragon f&#233;erique augmente avec l’&#226;ge (il gagne g&#233;n&#233;ralement des niveaux d’ensorceleur) et il apprend des sorts plus puissants pour accompagner ses
+pouvoirs inn&#233;s. &lt;br /&gt;&lt;br /&gt;Quoiqu’il en soit, les dragons f&#233;eriques apprennent toujours des sorts qui les aideront &#224; faire des farces (ils aiment tout particuli&#232;rement les sorts d’illusion et d’enchantement). Les dragons f&#233;eriques &#233;vitent le combat &#224; moins qu’ils n’y soient contraints ou que leur petite communaut&#233; arboricole ne soit menac&#233;e. Si le dragon est oblig&#233; de se battre, il essaie de semer la confusion chez ses ennemis plut&#244;t que de les tuer et utilise ses sorts et son souffle afin de les affaiblir et de les disperser avant de s’enfuir.&lt;br /&gt;&lt;br /&gt;&lt;h3 class=&quot;separator&quot;&gt;Le dragon f&#233;erique comme familier&lt;a class=&quot;headeranchor&quot; id=&quot;Le_dragon_f&#233;erique_comme_familier_0&quot; href=&quot;#Le_dragon_f&#233;erique_comme_familier_0&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;
+Il est difficile de contr&#244;ler un dragon f&#233;erique, mais il peut devenir un puissant familier. Les lanceurs de sorts qui souhaitent adopter un dragon f&#233;erique comme familier doivent disposer du don &lt;a class=&quot;pagelink&quot; href=&quot;Familier-Sup&#233;rieur.html&quot; title=&quot;Familier sup&#233;rieur&quot;&gt;Familier sup&#233;rieur&lt;/a&gt; et leur alignement ne doit pas s’&#233;loigner de Chaotique Bon de plus d’un degr&#233;. Le personnage doit &#234;tre, au minimum, un lanceur de sorts profane de niveau 7.
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Dragon féerique|FP 2}
+{s:pucem|Dragon||}
+{s:BDTexte|''Source : Bonus Bestiary''}
+{s:BDTexte|'''PX''' 600}
+{s:BDTexte|[[type Dragon|Dragon]] de taille TP, CB}
+{s:BDTexte|'''Init''' +3 ; '''Sens''' [[vision dans le noir]] 18 m (12 {s:c}), [[vision nocturne]] ; [[Perception]] +8}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 17, contact 15, pris au dépourvu 14 (Dex +3, naturelle +2, taille +2)}
+{s:BDTexte|'''pv''' 22 (3d12+3)}
+{s:BDTexte|'''Réf''' +6, '''Vig''' +4, '''Vol''' +5}
+{s:BDTexte|'''Immunités''' paralysie, sommeil ; '''RM''' 14 }
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 3 m (2 {s:c}), vol 18 m (12 {s:c}) (parfait), nage 9 m (6 {s:c})}
+{s:BDTexte|'''Corps à corps''' morsure, +4 (1d3-1)}
+{s:BDTexte|'''Espace''' 0,75 m (1/2 {s:c}) ; '''Allonge''' 0}
+{s:BDTexte|'''Attaques spéciales''' souffle}
+{s:BDTexte|'''Pouvoirs magiques''' (NLS 3)}
+{s:BDTexte|3/jour — ''[[invisibilité suprême]]'' (personnel uniquement)}
+{s:BDTexte|'''Sorts connus''' (NLS 3)}
+{s:BDTexte|1<sup>er</sup> (6/jour) — ''[[graisse]]'' (DD 14), ''[[image silencieuse]]'', ''[[sommeil]]'' (DD 14)}
+{s:BDTexte|0 (à volonté) — ''[[illumination]]'' (DD 13), ''[[lumières dansantes]]'', ''[[manipulation à distance]]'', ''[[ouverturefermeture|ouverture/fermeture]]'', ''[[son imaginaire]]''}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 9, '''Dex''' 17, '''Con''' 13, '''Int''' 16, '''Sag''' 14, '''Cha''' 16}
+{s:BDTexte|'''BBA''' +3, '''BMO''' +8, '''DMD''' 17}
+{s:BDTexte|'''Dons''' [[Esquive]], [[Voltigeur]]}
+{s:BDTexte|'''Compétences''' [[Acrobaties]] +8, [[Bluff]] +9, [[Diplomatie]] +9, [[Discrétion]] +17, [[Natation]] +13, [[Perception]] +8, [[Psychologie]] +8, [[Utilisation dobjets magiques|Utilisation d'objets magiques]] +9, [[Vol]] +19}
+{s:BDTexte|'''Langues''' commun, draconique, elfique, sylvestre ; [[télépathie]] 30 m (20 {s:c})}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' forêts chaudes ou tempérées}
+{s:BDTexte|'''Organisation sociale''' solitaire ou clan (2-8)}
+{s:BDTexte|'''Trésor''' 550 po}
+{s:BDSousTitre|Capacités spéciales}
+{s:BDTexte|'''Souffle (Sur).''' Ce [[cône]] de 1,50 m (1 {s:c}) rend euphorique pendant 1d6 rounds ([[Vigueur]] [[DD]] 13 pour annuler). Les créatures affectées sont [[chancelant|chancelantes]], [[fiévreux|fiévreuses]] et immunisées contre les effets de peur tant qu'elles sont euphoriques. un dragon féerique peut utiliser son souffle tous les 1d4 rounds. Le [[DD]] du [[jet de sauvegarde]] est basé sur la [[Constitution]].}
+</div>
+</td><td><div>''Une paire d’ailes de papillon colorées jaillit du dos de ce petit dragon. Un sourire malicieux joue sur son museau tandis qu’il volète de-ci de-là avec une grâce incroyable.''
+
+Les dragons féeriques sont apparentés aux pseudodragons. Ce sont de joyeux farceurs qui passent l’essentiel de leur temps à faire des blagues. Bien que la plupart de ces blagues soient spontanées, certains dragons passent des mois, voire même des années, à préparer une farce vraiment spectaculaire. Nous conseillons aux voyageurs qui traversent une région occupée par ces plaisantins bienveillants (mais parfois agaçants) de bien surveiller leurs affaires s’ils ne veulent pas être victimes de toutes sortes de désagréments : chevaux peinturlurés au jus de baie, fourmis dans les duvets et vêtements accrochés en haut des arbres, par exemple.
+
+Contrairement aux véritables dragons, les dragons féeriques ne grandissent pas en vieillissant, mais leurs écailles changent de couleur. Elles sont tout d’abord rouges et traversent ensuite tout le spectre de l’arc en ciel pour finir d’un violet sombre quand le dragon est très âgé. Le niveau de lanceur de sorts d’un dragon féerique augmente avec l’âge (il gagne généralement des niveaux d’ensorceleur) et il apprend des sorts plus puissants pour accompagner ses
+pouvoirs innés. 
+
+Quoiqu’il en soit, les dragons féeriques apprennent toujours des sorts qui les aideront à faire des farces (ils aiment tout particulièrement les sorts d’illusion et d’enchantement). Les dragons féeriques évitent le combat à moins qu’ils n’y soient contraints ou que leur petite communauté arboricole ne soit menacée. Si le dragon est obligé de se battre, il essaie de semer la confusion chez ses ennemis plutôt que de les tuer et utilise ses sorts et son souffle afin de les affaiblir et de les disperser avant de s’enfuir.
+
+====Le dragon féerique comme familier====
+
+Il est difficile de contrôler un dragon féerique, mais il peut devenir un puissant familier. Les lanceurs de sorts qui souhaitent adopter un dragon féerique comme familier doivent disposer du don [[Familier supérieur]] et leur alignement ne doit pas s’éloigner de Chaotique Bon de plus d’un degré. Le personnage doit être, au minimum, un lanceur de sorts profane de niveau 7.
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Dragon féerique</fullName>
+</wikiPage>

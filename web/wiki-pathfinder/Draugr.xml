@@ -1,0 +1,113 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Draugr</title>
+  <categories><category>Pathfinder-RPG.Bestiaire 2</category><category>Pathfinder-RPG.Monstre</category><category>Pathfinder-RPG.Règles officielles</category></categories>
+  <lastModified>2013-02-07 23:15:32Z</lastModified>
+  <version>0</version>
+  <inLinks><link>Pathfinder-RPG.Glossaire des monstres</link><link>Pathfinder-RPG.Liste de monstres par FP</link><link>Pathfinder-RPG.Liste de monstres par milieu naturel</link><link>Pathfinder-RPG.Liste de monstres par type</link><link>Pathfinder-RPG.Monstres</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.type Mort-vivant</link><link>Pathfinder-RPG.sous-type Eau</link><link>Pathfinder-RPG.vision dans le noir</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Traits des morts-vivants</link><link>Pathfinder-RPG.Attaque en puissance</link><link>Pathfinder-RPG.Robustesse</link><link>Pathfinder-RPG.Discrétion</link><link>Pathfinder-RPG.Escalade</link><link>Pathfinder-RPG.Natation</link><link>Pathfinder-RPG.Nauséeux</link><link>Pathfinder-RPG.Brume de dissimulation</link><link>Pathfinder-RPG.niveau négatif</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Draugr&lt;div style=&quot;float:right;&quot;&gt;FP 2&lt;/div&gt;&lt;/div&gt;&lt;br /&gt;&lt;ul&gt;&lt;li&gt;&lt;i&gt;Source : Bestiaire 2, p.119&lt;/i&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;PX&lt;/b&gt; 600&lt;/li&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Type-Mort-Vivant.html&quot; title=&quot;Mort-vivant&quot;&gt;Mort-vivant&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Eau.html&quot; title=&quot;Eau (sous-type)&quot;&gt;Eau&lt;/a&gt;) de taille M, CM&lt;/li&gt;&lt;li&gt;&lt;b&gt;Init&lt;/b&gt; +0 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Capacit&#233;s-Sp&#233;ciales.html#VISIONDANSLENOIR&quot; title=&quot;vision dans le noir&quot;&gt;vision dans le noir&lt;/a&gt; 18 m (12 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +6&lt;br /&gt;&lt;div class=&quot;box&quot;&gt;D&#233;fense&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;CA&lt;/b&gt; 14, contact 10, pris au d&#233;pourvu 14 (armure +2, naturelle +2)&lt;/li&gt;&lt;li&gt;&lt;b&gt;pv&lt;/b&gt; 19 (3d8+6)&lt;/li&gt;&lt;li&gt;&lt;b&gt;R&#233;f&lt;/b&gt; +1, &lt;b&gt;Vig&lt;/b&gt; +2, &lt;b&gt;Vol&lt;/b&gt; +3&lt;/li&gt;&lt;li&gt;&lt;b&gt;Immunit&#233;s&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Traits-Des-Morts-Vivants-(Capacit&#233;).html&quot; title=&quot;Traits des morts-vivants&quot;&gt;traits des morts-vivants&lt;/a&gt; ; &lt;b&gt;RD&lt;/b&gt; 5/contondant ou tranchant ; &lt;b&gt;R&#233;sistances&lt;/b&gt; feu 10&lt;br /&gt;&lt;div class=&quot;box&quot;&gt;Attaque&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;VD&lt;/b&gt; 9 m (6 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), nage 9 m (6 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)&lt;/li&gt;&lt;li&gt;&lt;b&gt;Corps &#224; corps&lt;/b&gt; grande hache, +5 (1d12+4/&#215;3 plus naus&#233;es) ou coup, +5 (1d10+4 plus naus&#233;es)&lt;br /&gt;&lt;div class=&quot;box&quot;&gt;Statistiques&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;For&lt;/b&gt; 17, &lt;b&gt;Dex&lt;/b&gt; 10, &lt;b&gt;Con&lt;/b&gt; — , &lt;b&gt;Int&lt;/b&gt; 8, &lt;b&gt;Sag&lt;/b&gt; 10, &lt;b&gt;Cha&lt;/b&gt; 13&lt;/li&gt;&lt;li&gt;&lt;b&gt;BBA&lt;/b&gt; +2 ; &lt;b&gt;BMO&lt;/b&gt; +5 ; &lt;b&gt;DMD&lt;/b&gt; 15&lt;/li&gt;&lt;li&gt;&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Attaque-En-Puissance.html&quot; title=&quot;Attaque en puissance&quot;&gt;Attaque en puissance&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Robustesse.html&quot; title=&quot;Robustesse&quot;&gt;Robustesse&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; +6, &lt;a class=&quot;pagelink&quot; href=&quot;Escalade.html&quot; title=&quot;Escalade&quot;&gt;Escalade&lt;/a&gt; +6, &lt;a class=&quot;pagelink&quot; href=&quot;Natation.html&quot; title=&quot;Natation&quot;&gt;Natation&lt;/a&gt; +11, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +6&lt;/li&gt;&lt;li&gt;&lt;b&gt;Langues&lt;/b&gt; commun (incapable de parler)&lt;br /&gt;&lt;div class=&quot;box&quot;&gt;&#201;cologie&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;Environnement&lt;/b&gt; r&#233;gions c&#244;ti&#232;res&lt;/li&gt;&lt;li&gt;&lt;b&gt;Organisation sociale&lt;/b&gt; solitaire ou &#233;quipage (2–8)&lt;/li&gt;&lt;li&gt;&lt;b&gt;Tr&#233;sor&lt;/b&gt; standard (grande hache, armure de cuir, autres tr&#233;sors)&lt;br /&gt;&lt;div class=&quot;box&quot;&gt;Pouvoirs sp&#233;ciaux&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;Naus&#233;es (Sur).&lt;/b&gt; Toute cr&#233;ature bless&#233;e par un draugr doit r&#233;ussir un jet de Vigueur de DD 12 pour ne pas &#234;tre &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables.html#Naus&#233;eux&quot; title=&quot;Naus&#233;eux&quot;&gt;naus&#233;euse&lt;/a&gt; pendant 1 round. Le DD du jet de sauvegarde d&#233;pend du Charisme.&lt;br /&gt;&lt;/li&gt;&lt;/ul&gt;&lt;br /&gt;&lt;/div&gt;
+&lt;/td&gt;&lt;td&gt;&lt;div&gt;&lt;i&gt;Ce corps anim&#233; incrust&#233; de coquillages ressemble &#224; un zombi, &#224; ceci pr&#232;s qu’il est recouvert d’eau qui d&#233;gouline et qu’il en &#233;mane une puanteur atroce.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Les draugrs sentent le moisi et la mer et
+r&#233;pandent de l’eau partout o&#249; ils passent.
+Ces viles cr&#233;atures sont g&#233;n&#233;ralement
+cr&#233;&#233;es quand des humano&#239;des se perdent
+en mer dans des r&#233;gions hant&#233;es par des
+esprits mal&#233;fiques ou affect&#233;es par des effets
+n&#233;cromantiques. Les corps de ces marins noy&#233;s
+s’accrochent &#224; la non-vie et attaquent toutes les
+cr&#233;atures vivantes qui s’introduisent sur leur
+territoire. &#192; chaque attaque, ils aspergent leur
+cible de morceaux de chair pourrie, d’algues
+en putr&#233;faction et d’amas de vers.&lt;br /&gt;&lt;br /&gt;Les draugrs qui se manifestent apr&#232;s
+le naufrage d’un vaisseau tout entier
+restent g&#233;n&#233;ralement pr&#232;s de l’&#233;pave.
+Certains draugrs sont contr&#244;l&#233;s par
+des n&#233;cromanciens aquatiques, alors que
+d’autres sont des pirates mors-vivants qui
+sillonnent les mers &#224; bord de vaisseaux fant&#244;mes.&lt;br /&gt;&lt;br /&gt;&lt;h2 class=&quot;separator&quot;&gt;Capitaines draugrs (FP 3)&lt;a class=&quot;headeranchor&quot; id=&quot;Capitaines_draugrs_FP_D_0&quot; href=&quot;#Capitaines_draugrs_FP_D_0&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;Les capitaines draugrs ont des yeux rouges o&#249; brille une certaine
+malveillance. Ils poss&#232;dent parfois des atours plus pr&#233;cieux que
+les autres draugrs mais ceux-ci sont en toute aussi mauvaise
+condition que les guenilles des sp&#233;cimens normaux.
+Un capitaine draugr est un draugr modifi&#233; par l’arch&#233;type
+simple &#171; cr&#233;ature &#233;volu&#233;e &#187;. En plus de cela, la plupart des
+capitaines draugrs poss&#232;dent des niveaux de classe, g&#233;n&#233;ralement
+de barbares, guerriers ou roublards. Les capitaines draugrs
+peuvent aussi utiliser &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Brume-De-Dissimulation.html&quot; title=&quot;Brume de dissimulation&quot;&gt;brume de dissimulation&lt;/a&gt;&lt;/i&gt; en tant que pouvoir
+magique (NLS 5, concentration +8) trois fois par jour et, au lieu
+d’entra&#238;ner des naus&#233;es, chacune de leur attaque inflige 1 &lt;a class=&quot;pagelink&quot; href=&quot;Absorption-D&#233;nergie-(Capacit&#233;).html&quot; title=&quot;niveau n&#233;gatif&quot;&gt;niveau n&#233;gatif&lt;/a&gt;. Un capitaine draugr peut m&#234;me infliger un &lt;a class=&quot;pagelink&quot; href=&quot;Absorption-D&#233;nergie-(Capacit&#233;).html&quot; title=&quot;niveau n&#233;gatif&quot;&gt;niveau n&#233;gatif&lt;/a&gt; en attaquant avec une arme manufactur&#233;e (mais s’il gagne
+plusieurs attaques avec la m&#234;me arme, il ne peut infliger qu’un
+seul niveau n&#233;gatif par round).
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Draugr|FP 2}
+{s:pucem|Mort-vivant|aquatique|Tempéré}
+* ''Source : Bestiaire 2, p.119''
+* '''PX''' 600
+* [[type Mort-vivant|Mort-vivant]] ([[sous-type Eau|Eau]]) de taille M, CM
+* '''Init''' +0 ; '''Sens''' [[vision dans le noir]] 18 m (12 {s:c}), [[Perception]] +6
+(((Défense)))
+* '''CA''' 14, contact 10, pris au dépourvu 14 (armure +2, naturelle +2)
+* '''pv''' 19 (3d8+6)
+* '''Réf''' +1, '''Vig''' +2, '''Vol''' +3
+* '''Immunités''' [[traits des morts-vivants]] ; '''RD''' 5/contondant ou tranchant ; '''Résistances''' feu 10
+(((Attaque)))
+* '''VD''' 9 m (6 {s:c}), nage 9 m (6 {s:c})
+* '''Corps à corps''' grande hache, +5 (1d12+4/×3 plus nausées) ou coup, +5 (1d10+4 plus nausées)
+(((Statistiques)))
+* '''For''' 17, '''Dex''' 10, '''Con''' — , '''Int''' 8, '''Sag''' 10, '''Cha''' 13
+* '''BBA''' +2 ; '''BMO''' +5 ; '''DMD''' 15
+* '''Dons''' [[Attaque en puissance]], [[Robustesse]]
+* '''Compétences''' [[Discrétion]] +6, [[Escalade]] +6, [[Natation]] +11, [[Perception]] +6
+* '''Langues''' commun (incapable de parler)
+(((Écologie)))
+* '''Environnement''' régions côtières
+* '''Organisation sociale''' solitaire ou équipage (2–8)
+* '''Trésor''' standard (grande hache, armure de cuir, autres trésors)
+(((Pouvoirs spéciaux)))
+* '''Nausées (Sur).''' Toute créature blessée par un draugr doit réussir un jet de Vigueur de DD 12 pour ne pas être [[nauséeux|nauséeuse]] pendant 1 round. Le DD du jet de sauvegarde dépend du Charisme.
+
+</div>
+</td><td><div>''Ce corps animé incrusté de coquillages ressemble à un zombi, à ceci près qu’il est recouvert d’eau qui dégouline et qu’il en émane une puanteur atroce.''
+
+Les draugrs sentent le moisi et la mer et
+répandent de l’eau partout où ils passent.
+Ces viles créatures sont généralement
+créées quand des humanoïdes se perdent
+en mer dans des régions hantées par des
+esprits maléfiques ou affectées par des effets
+nécromantiques. Les corps de ces marins noyés
+s’accrochent à la non-vie et attaquent toutes les
+créatures vivantes qui s’introduisent sur leur
+territoire. À chaque attaque, ils aspergent leur
+cible de morceaux de chair pourrie, d’algues
+en putréfaction et d’amas de vers.
+
+Les draugrs qui se manifestent après
+le naufrage d’un vaisseau tout entier
+restent généralement près de l’épave.
+Certains draugrs sont contrôlés par
+des nécromanciens aquatiques, alors que
+d’autres sont des pirates mors-vivants qui
+sillonnent les mers à bord de vaisseaux fantômes.
+
+===Capitaines draugrs (FP 3)===
+Les capitaines draugrs ont des yeux rouges où brille une certaine
+malveillance. Ils possèdent parfois des atours plus précieux que
+les autres draugrs mais ceux-ci sont en toute aussi mauvaise
+condition que les guenilles des spécimens normaux.
+Un capitaine draugr est un draugr modifié par l’archétype
+simple « créature évoluée ». En plus de cela, la plupart des
+capitaines draugrs possèdent des niveaux de classe, généralement
+de barbares, guerriers ou roublards. Les capitaines draugrs
+peuvent aussi utiliser ''[[brume de dissimulation]]'' en tant que pouvoir
+magique (NLS 5, concentration +8) trois fois par jour et, au lieu
+d’entraîner des nausées, chacune de leur attaque inflige 1 [[niveau négatif]]. Un capitaine draugr peut même infliger un [[niveau négatif]] en attaquant avec une arme manufacturée (mais s’il gagne
+plusieurs attaques avec la même arme, il ne peut infliger qu’un
+seul niveau négatif par round).
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Draugr</fullName>
+</wikiPage>

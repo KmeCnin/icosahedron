@@ -1,0 +1,133 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Corbie sanguinaire</title>
+  <categories><category>Pathfinder-RPG.Bestiaire 3</category><category>Pathfinder-RPG.Monstre</category><category>Pathfinder-RPG.Règles officielles</category></categories>
+  <lastModified>2013-08-20 22:54:20Z</lastModified>
+  <version>0</version>
+  <inLinks><link>Pathfinder-RPG.Glossaire des monstres</link><link>Pathfinder-RPG.Liste de monstres par FP</link><link>Pathfinder-RPG.Liste de monstres par milieu naturel</link><link>Pathfinder-RPG.Liste de monstres par type</link><link>Pathfinder-RPG.Monstres</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.type Humanoïde monstrueux</link><link>Pathfinder-RPG.vision dans le noir</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Férocité (capacité)</link><link>Pathfinder-RPG.Éventration (capacité)</link><link>Pathfinder-RPG.Combat en aveugle</link><link>Pathfinder-RPG.Talent</link><link>Pathfinder-RPG.Discrétion</link><link>Pathfinder-RPG.Acrobaties</link><link>Pathfinder-RPG.Escalade</link><link>Pathfinder-RPG.Tengu</link><link>Pathfinder-RPG.Archétypes</link><link>Pathfinder-RPG.Barbare</link><link>Pathfinder-RPG.Guerrier</link><link>Pathfinder-RPG.Bond (capacité)</link><link>Pathfinder-RPG.charge</link><link>Pathfinder-RPG.DD</link><link>Pathfinder-RPG.attaque à outrance</link><link>Pathfinder-RPG.Harpie</link><link>Pathfinder-RPG.Volonté</link><link>Pathfinder-RPG.Effrayé</link><link>Pathfinder-RPG.round</link><link>Pathfinder-RPG.Charisme</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Corbie sanguinaire&lt;div style=&quot;float:right;&quot;&gt;FP 1&lt;/div&gt;&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Bestiaire 3 p.52&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 400
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Humano&#239;de-Monstrueux.html&quot; title=&quot;Humano&#239;de monstrueux&quot;&gt;Humano&#239;de monstrueux&lt;/a&gt; de taille M, NM
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +1 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Capacit&#233;s-Sp&#233;ciales.html#VISIONDANSLENOIR&quot; title=&quot;vision dans le noir&quot;&gt;vision dans le noir&lt;/a&gt; &#224; 18 m (12 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +6
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 13, contact 11, pris au d&#233;pourvu 12 (Dex +1, naturelle +2)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 15 (2d10+4)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +4, &lt;b&gt;Vig&lt;/b&gt; +2, &lt;b&gt;Vol&lt;/b&gt; +3
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Capacit&#233; d&#233;fensive&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;F&#233;rocit&#233;-(Capacit&#233;).html&quot; title=&quot;F&#233;rocit&#233; (Ext)&quot;&gt;f&#233;rocit&#233;&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 9 m (6 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), escalade 9 m (6 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; 2 griffes, +3 (1d4+1)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaques sp&#233;ciales&lt;/b&gt; bondissement, &lt;a class=&quot;pagelink&quot; href=&quot;&#201;ventration-(Capacit&#233;).html&quot; title=&quot;&#201;ventration (Ext)&quot;&gt;&#233;ventration&lt;/a&gt; (2 griffes, 1d4+1)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 13, &lt;b&gt;Dex&lt;/b&gt; 12, &lt;b&gt;Con&lt;/b&gt; 15, &lt;b&gt;Int&lt;/b&gt; 7, &lt;b&gt;Sag&lt;/b&gt; 10, &lt;b&gt;Cha&lt;/b&gt; 8
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +2, &lt;b&gt;BMO&lt;/b&gt; +3, &lt;b&gt;DMD&lt;/b&gt; 14
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt;  &lt;a class=&quot;pagelink&quot; href=&quot;Combat-En-Aveugle.html&quot; title=&quot;Combat en aveugle&quot;&gt;Combat en aveugle&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Talent.html&quot; title=&quot;Talent&quot;&gt;Talent&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt;  &lt;a class=&quot;pagelink&quot; href=&quot;Acrobaties.html&quot; title=&quot;Acrobaties&quot;&gt;Acrobaties&lt;/a&gt; +10, &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; +8, &lt;a class=&quot;pagelink&quot; href=&quot;Escalade.html&quot; title=&quot;Escalade&quot;&gt;Escalade&lt;/a&gt; +13, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +6
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Modificateurs raciaux&lt;/b&gt;  +8 en &lt;a class=&quot;pagelink&quot; href=&quot;Acrobaties.html&quot; title=&quot;Acrobaties&quot;&gt;Acrobaties&lt;/a&gt;, +2 en &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Langue&lt;/b&gt; commun des profondeurs
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; tous les souterrains
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation sociale&lt;/b&gt; gang (2-5), troupeau de chasse (1-3 &lt;a class=&quot;pagelink&quot; href=&quot;Tengu.html&quot; title=&quot;Tengu&quot;&gt;tengus&lt;/a&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Arch&#233;types.html#CREATUREEVOLUEE&quot; title=&quot;Les arch&#233;types&quot;&gt;redoutables&lt;/a&gt; et 5-10 corbies sanguinaires) ou colonie de freux (1-10 corbies redoutables et 10-50 corbies sanguinaires plus 1 &lt;a class=&quot;pagelink&quot; href=&quot;Barbare.html&quot; title=&quot;Le barbare&quot;&gt;barbare&lt;/a&gt; ou &lt;a class=&quot;pagelink&quot; href=&quot;Guerrier.html&quot; title=&quot;Le guerrier&quot;&gt;guerrier&lt;/a&gt; de niveau 3 &#224; 5 pour 10 adultes)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; standard
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Pouvoirs sp&#233;ciaux&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Bondissement (Ext).&lt;/b&gt;Le corbie sanguinaire peut entreprendre une &lt;a class=&quot;pagelink&quot; href=&quot;Bond-(Capacit&#233;).html&quot; title=&quot;Bond (Ext)&quot;&gt;attaque de bond&lt;/a&gt; en se jetant dans la bataille. Lorsque le corbie sanguinaire &lt;a class=&quot;pagelink&quot; href=&quot;Actions-Sp&#233;ciales.html#CHARGE&quot; title=&quot;charge&quot;&gt;charge&lt;/a&gt;, il peut faire un test d&#39;&lt;a class=&quot;pagelink&quot; href=&quot;Acrobaties.html&quot; title=&quot;Acrobaties&quot;&gt;Acrobaties&lt;/a&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DEGREDEDIFFICULTE&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; 20 pour sauter dans les airs et atterrir pr&#232;s de ses ennemis. S&#39;il r&#233;ussit son test, il peut faire un &lt;a class=&quot;pagelink&quot; href=&quot;Actions-Complexes.html#ATTAQUEAOUTRANCE&quot; title=&quot;attaque &#224; outrance&quot;&gt;attaque &#224; outrance&lt;/a&gt; (deux attaques de griffes plus une attaque d&#39;&lt;a class=&quot;pagelink&quot; href=&quot;&#201;ventration-(Capacit&#233;).html&quot; title=&quot;&#201;ventration (Ext)&quot;&gt;&#233;ventration&lt;/a&gt; contre les ennemis &#224; port&#233;e. S&#39;il &#233;choue, il peut quand m&#234;me faire son attaque normale pour une charge.
+&lt;/div&gt;
+ 
+&lt;/div&gt;
+&lt;/td&gt;&lt;td&gt;&lt;div&gt;
+&lt;i&gt;Avec ses plumes noir d&#39;encre, ses yeux brillants et son bec ac&#233;r&#233;, cette cr&#233;ature ressemble &#224; un corbeau humano&#239;de.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Les corbies sanguinaires sont des pr&#233;dateurs souterrains ayant une forme humano&#239;de avec des bras musculeux et des griffes effrayantes. Bien qu&#39;ils &#233;tablissent leurs repaires au flanc des parois escarp&#233;es des gouffres souterrains qu&#39;ils escaladent et depuis lesquels ils bondissent avec une t&#233;m&#233;raire agilit&#233;, on les retrouve fr&#233;quemment dans les tunnels o&#249; ils se tapissent pour tendre des embuscades, attendant de bondir du plafond pour &#233;ventrer et d&#233;chiqueter leurs proies.&lt;br /&gt;&lt;br /&gt;Les corbies sanguinaires sont des cr&#233;atures intelligentes mais ne voient aucun int&#233;r&#234;t &#224; b&#226;tir une soci&#233;t&#233; plus d&#233;velopp&#233;e que leurs colonies pleines de chamailleries o&#249; l&#39;ordre social n&#39;est gu&#232;re plus &#233;volu&#233; que celui des oiseaux ordinaires auxquels ils ressemblent. En plus de la sauvagerie presque suicidaire qui les pousse &#224; se jeter dans la bataille, les corbies sanguinaires sont connus pour leurs croassements stridents et terrifiant, chants funestes capables de d&#233;stabiliser les explorateurs les plus aguerris.&lt;br /&gt;&lt;br /&gt;Les corbies sanguinaires sont non seulement de sauvages pr&#233;dateurs, mais ils sont aussi r&#233;put&#233;s pour leurs tendances cannibales vis-&#224;-vis de leurs petits : une m&#232;re corbie sanguinaire doit prendre garde &#224; prot&#233;ger ses oeufs de crainte qu&#39;une vol&#233;e de m&#226;les de la m&#234;me colonie ne plonge sur son nid et ne d&#233;vore les petits &#224; na&#238;tre dans un bain de sang et de jaune d’œuf. Cette tendance contre-productive peut expliquer pourquoi ces cr&#233;atures sont plut&#244;t rares et renforce l&#39;image que la plupart des races ont des corbies sanguinaires : des &#234;tre dangereusement instables.&lt;br /&gt;&lt;br /&gt;Un corbie sanguinaire moyen mesure 1,50 m&#232;tre et p&#232;se entre 60 et 75 kilos.&lt;br /&gt;&lt;br /&gt;&lt;h3 class=&quot;separator&quot;&gt;Corbies redoutables&lt;a class=&quot;headeranchor&quot; id=&quot;Corbies_redoutables_0&quot; href=&quot;#Corbies_redoutables_0&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;Ces puissants corbies sont les rejeton des corbies sanguinaires et des &lt;a class=&quot;pagelink&quot; href=&quot;Harpie.html&quot; title=&quot;Harpie&quot;&gt;harpies&lt;/a&gt;. Il ont un &lt;a class=&quot;pagelink&quot; href=&quot;Arch&#233;types.html#CREATUREEVOLUEE&quot; title=&quot;Les arch&#233;types&quot;&gt;arch&#233;type &#233;volu&#233;&lt;/a&gt; et l&#39;attaque sp&#233;ciale suivante :
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Cri de funeste destin (Sur).&lt;/b&gt; Une fois par jour, le corbie redoutable peut pousser un cri per&#231;a,t vers une cible situ&#233;e dans un rayon de 9 m (6 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;). La cible doit r&#233;ussir un jet de &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;Volont&#233;&quot;&gt;Volont&#233;&lt;/a&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DEGREDEDIFFICULTE&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; 12 ou &#234;tre &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables.html#Effray&#233;&quot; title=&quot;Effray&#233;&quot;&gt;effray&#233;e&lt;/a&gt; pendant 1d4 &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#ROUND&quot; title=&quot;round&quot;&gt;rounds&lt;/a&gt;. Il s&#39;agit d&#39;un effet mental sonore de terreur. Le &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DEGREDEDIFFICULTE&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; du jet de sauvegarde est bas&#233; sur le &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#CHARISME&quot; title=&quot;Le Charisme&quot;&gt;Charisme&lt;/a&gt;.&lt;br /&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;br /&gt;&lt;/li&gt;&lt;/ul&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Corbie sanguinaire|FP 1}
+{s:pucem|Humanoïde monstrueux|Souterrain|Tempéré}
+{s:BDTexte|''Source : Bestiaire 3 p.52''}
+{s:BDTexte|'''PX''' 400}
+{s:BDTexte|[[type Humanoïde monstrueux|Humanoïde monstrueux]] de taille M, NM}
+{s:BDTexte|'''Init''' +1 ; '''Sens''' [[vision dans le noir]] à 18 m (12 {s:c}) ; [[Perception]] +6}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 13, contact 11, pris au dépourvu 12 (Dex +1, naturelle +2)}
+{s:BDTexte|'''pv''' 15 (2d10+4)}
+{s:BDTexte|'''Réf''' +4, '''Vig''' +2, '''Vol''' +3}
+{s:BDTexte|'''Capacité défensive''' [[Férocité (capacité)|férocité]]}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 9 m (6 {s:c}), escalade 9 m (6 {s:c})}
+{s:BDTexte|'''Corps à corps''' 2 griffes, +3 (1d4+1)}
+{s:BDTexte|'''Attaques spéciales''' bondissement, [[éventration (capacité)|éventration]] (2 griffes, 1d4+1)}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 13, '''Dex''' 12, '''Con''' 15, '''Int''' 7, '''Sag''' 10, '''Cha''' 8}
+{s:BDTexte|'''BBA''' +2, '''BMO''' +3, '''DMD''' 14}
+{s:BDTexte|'''Dons'''  [[Combat en aveugle]], [[Talent]] ([[Discrétion]])}
+{s:BDTexte|'''Compétences'''  [[Acrobaties]] +10, [[Discrétion]] +8, [[Escalade]] +13, [[Perception]] +6}
+{s:BDTexte|'''Modificateurs raciaux'''  +8 en [[Acrobaties]], +2 en [[Perception]]}
+{s:BDTexte|'''Langue''' commun des profondeurs}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' tous les souterrains}
+{s:BDTexte|'''Organisation sociale''' gang (2-5), troupeau de chasse (1-3 [[tengu|tengus]] [[Archétypes#CREATUREEVOLUEE|redoutables]] et 5-10 corbies sanguinaires) ou colonie de freux (1-10 corbies redoutables et 10-50 corbies sanguinaires plus 1 [[barbare]] ou [[guerrier]] de niveau 3 à 5 pour 10 adultes)}
+{s:BDTexte|'''Trésor''' standard}
+{s:BDSousTitre|Pouvoirs spéciaux}
+{s:BDTexte|'''Bondissement (Ext).'''Le corbie sanguinaire peut entreprendre une [[Bond (capacité)|attaque de bond]] en se jetant dans la bataille. Lorsque le corbie sanguinaire [[charge]], il peut faire un test d'[[Acrobaties]] [[DD]] 20 pour sauter dans les airs et atterrir près de ses ennemis. S'il réussit son test, il peut faire un [[attaque à outrance]] (deux attaques de griffes plus une attaque d'[[éventration (capacité)|éventration]] contre les ennemis à portée. S'il échoue, il peut quand même faire son attaque normale pour une charge.}
+ 
+</div>
+</td><td><div>
+''Avec ses plumes noir d'encre, ses yeux brillants et son bec acéré, cette créature ressemble à un corbeau humanoïde.''
+
+Les corbies sanguinaires sont des prédateurs souterrains ayant une forme humanoïde avec des bras musculeux et des griffes effrayantes. Bien qu'ils établissent leurs repaires au flanc des parois escarpées des gouffres souterrains qu'ils escaladent et depuis lesquels ils bondissent avec une téméraire agilité, on les retrouve fréquemment dans les tunnels où ils se tapissent pour tendre des embuscades, attendant de bondir du plafond pour éventrer et déchiqueter leurs proies.
+
+Les corbies sanguinaires sont des créatures intelligentes mais ne voient aucun intérêt à bâtir une société plus développée que leurs colonies pleines de chamailleries où l'ordre social n'est guère plus évolué que celui des oiseaux ordinaires auxquels ils ressemblent. En plus de la sauvagerie presque suicidaire qui les pousse à se jeter dans la bataille, les corbies sanguinaires sont connus pour leurs croassements stridents et terrifiant, chants funestes capables de déstabiliser les explorateurs les plus aguerris.
+
+Les corbies sanguinaires sont non seulement de sauvages prédateurs, mais ils sont aussi réputés pour leurs tendances cannibales vis-à-vis de leurs petits : une mère corbie sanguinaire doit prendre garde à protéger ses oeufs de crainte qu'une volée de mâles de la même colonie ne plonge sur son nid et ne dévore les petits à naître dans un bain de sang et de jaune d’œuf. Cette tendance contre-productive peut expliquer pourquoi ces créatures sont plutôt rares et renforce l'image que la plupart des races ont des corbies sanguinaires : des être dangereusement instables.
+
+Un corbie sanguinaire moyen mesure 1,50 mètre et pèse entre 60 et 75 kilos.
+
+====Corbies redoutables====
+Ces puissants corbies sont les rejeton des corbies sanguinaires et des [[harpie|harpies]]. Il ont un [[Archétypes#CREATUREEVOLUEE|archétype évolué]] et l'attaque spéciale suivante :
+* '''Cri de funeste destin (Sur).''' Une fois par jour, le corbie redoutable peut pousser un cri perça,t vers une cible située dans un rayon de 9 m (6 {s:c}). La cible doit réussir un jet de [[Volonté]] [[DD]] 12 ou être [[effrayé|effrayée]] pendant 1d4 [[round|rounds]]. Il s'agit d'un effet mental sonore de terreur. Le [[DD]] du jet de sauvegarde est basé sur le [[Charisme]].
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Corbie sanguinaire</fullName>
+</wikiPage>

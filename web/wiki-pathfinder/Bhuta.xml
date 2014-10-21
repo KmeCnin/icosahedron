@@ -1,0 +1,149 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Bhuta</title>
+  <categories><category>Pathfinder-RPG.Bestiaire 3</category><category>Pathfinder-RPG.Monstre</category><category>Pathfinder-RPG.Règles officielles</category></categories>
+  <lastModified>2013-09-27 20:00:02Z</lastModified>
+  <version>0</version>
+  <inLinks><link>Pathfinder-RPG.Glossaire des monstres</link><link>Pathfinder-RPG.Liste de monstres par FP</link><link>Pathfinder-RPG.Liste de monstres par milieu naturel</link><link>Pathfinder-RPG.Liste de monstres par type</link><link>Pathfinder-RPG.Monstres</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.type Mort-vivant</link><link>Pathfinder-RPG.sous-type intangible</link><link>Pathfinder-RPG.odorat</link><link>Pathfinder-RPG.vision dans le noir</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Intangible (capacité)</link><link>Pathfinder-RPG.Résistance à la canalisation (capacité)</link><link>Pathfinder-RPG.Traits des morts-vivants</link><link>Pathfinder-RPG.Saignement (capacité)</link><link>Pathfinder-RPG.absorption de sang (capacité)</link><link>Pathfinder-RPG.Constitution</link><link>Pathfinder-RPG.Communication avec les animaux</link><link>Pathfinder-RPG.Hypnose des animaux</link><link>Pathfinder-RPG.Voile</link><link>Pathfinder-RPG.Charme-animal</link><link>Pathfinder-RPG.Possession</link><link>Pathfinder-RPG.Fraternité animale</link><link>Pathfinder-RPG.Attaque en vol</link><link>Pathfinder-RPG.Discret</link><link>Pathfinder-RPG.Esquive</link><link>Pathfinder-RPG.Fente</link><link>Pathfinder-RPG.Souplesse du serpent</link><link>Pathfinder-RPG.Volonté de fer</link><link>Pathfinder-RPG.Bluff</link><link>Pathfinder-RPG.Connaissances</link><link>Pathfinder-RPG.Discrétion</link><link>Pathfinder-RPG.Dressage</link><link>Pathfinder-RPG.Équitation</link><link>Pathfinder-RPG.Évasion</link><link>Pathfinder-RPG.Psychologie</link><link>Pathfinder-RPG.Vol</link><link>Pathfinder-RPG.Action simple</link><link>Pathfinder-RPG.Saignement</link><link>Pathfinder-RPG.affaiblissement temporaire</link><link>Pathfinder-RPG.Vigueur</link><link>Pathfinder-RPG.DD</link><link>Pathfinder-RPG.Matériaux spéciaux</link><link>Pathfinder-RPG.Armes magiques</link><link>Pathfinder-RPG.Arme magique</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Bhuta&lt;div style=&quot;float:right;&quot;&gt;FP 11&lt;/div&gt;&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Bestiaire 3 p.38&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 12 800
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Mort-Vivant.html&quot; title=&quot;Mort-vivant&quot;&gt;Mort-vivant&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Intangible.html&quot; title=&quot;Intangible (sous-type)&quot;&gt;intangible&lt;/a&gt;) de taille M, NM
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +7 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Odorat-(Capacit&#233;).html&quot; title=&quot;odorat&quot;&gt;odorat&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Capacit&#233;s-Sp&#233;ciales.html#VISIONDANSLENOIR&quot; title=&quot;vision dans le noir&quot;&gt;vision dans le noir&lt;/a&gt; &#224; 18 m (12 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +13
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 25, contact 25, pris au d&#233;pourvu 17 (Dex +7, esquive +1, parade +7)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 147 (14d8+84)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +11, &lt;b&gt;Vig&lt;/b&gt; +10, &lt;b&gt;Vol&lt;/b&gt; +10
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Capacit&#233; d&#233;fensive&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Intangible-(Capacit&#233;).html&quot; title=&quot;Intangible (Ext)&quot;&gt;intangible&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;R&#233;sistance-&#192;-La-Canalisation-(Capacit&#233;).html&quot; title=&quot;R&#233;sistance &#224; la canalisation (Ext)&quot;&gt;r&#233;sistance &#224; la canalisation&lt;/a&gt; +4 ; &lt;b&gt;Immunit&#233;&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Traits-Des-Morts-Vivants-(Capacit&#233;).html&quot; title=&quot;Traits des morts-vivants&quot;&gt;traits des morts-vivants&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Faiblesse&lt;/b&gt; fer froid
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; vol 9 m (6 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;, parfaite)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt;  2 griffes intangibles, +17 (5d8 plus &lt;a class=&quot;pagelink&quot; href=&quot;Saignement-(Capacit&#233;).html&quot; title=&quot;Saignement (Ext)&quot;&gt;saignement&lt;/a&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaques sp&#233;ciales&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Absorption-De-Sang-(Capacit&#233;).html&quot; title=&quot;Absorption de sang (Ext)&quot;&gt;Absorption de sang&lt;/a&gt; (1d6  &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#CONSTITUTION&quot; title=&quot;La Constitution&quot;&gt;Constitution&lt;/a&gt;), &lt;a class=&quot;pagelink&quot; href=&quot;Saignement-(Capacit&#233;).html&quot; title=&quot;Saignement (Ext)&quot;&gt;saignement&lt;/a&gt; (1d8)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Pouvoirs magiques&lt;/b&gt; (NLS 11 ; concentration +17)
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+&lt;i&gt;A volont&#233;&lt;/i&gt; - &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Communication-Avec-Les-Animaux.html&quot; title=&quot;Communication avec les animaux&quot;&gt;communication avec les animaux&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Hypnose-Des-Animaux.html&quot; title=&quot;Hypnose des animaux&quot;&gt;hypnose des animaux&lt;/a&gt;&lt;/i&gt; (DD 18), &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Voile.html&quot; title=&quot;Voile&quot;&gt;voile&lt;/a&gt;&lt;/i&gt; (pour lui-m&#234;me uniquement, animal aux pieds tourn&#233;s vers l&#39;arri&#232;re ; DD 21)
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+&lt;i&gt;3/jour&lt;/i&gt; - &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Charme-Animal.html&quot; title=&quot;Charme-animal&quot;&gt;charme-animal&lt;/a&gt;&lt;/i&gt; (DD 17)
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+&lt;i&gt;1/jour&lt;/i&gt; - &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Possession.html&quot; title=&quot;Possession&quot;&gt;possession&lt;/a&gt;&lt;/i&gt; (animaux uniquement, DD 21)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; -, &lt;b&gt;Dex&lt;/b&gt; 25, &lt;b&gt;Con&lt;/b&gt; -, &lt;b&gt;Int&lt;/b&gt; 11, &lt;b&gt;Sag&lt;/b&gt; 8, &lt;b&gt;Cha&lt;/b&gt; 22
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +10, &lt;b&gt;BMO&lt;/b&gt; +17, &lt;b&gt;DMD&lt;/b&gt; 35
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Fraternit&#233;-Animale.html&quot; title=&quot;Fraternit&#233; animale&quot;&gt;Fraternit&#233; animale&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Attaque-En-Vol.html&quot; title=&quot;Attaque en vol&quot;&gt;Attaque en vol&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Discret.html&quot; title=&quot;Discret&quot;&gt;Discret&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Esquive.html&quot; title=&quot;Esquive&quot;&gt;Esquive&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Fente.html&quot; title=&quot;Fente&quot;&gt;Fente&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Souplesse-Du-Serpent.html&quot; title=&quot;Souplesse du serpent&quot;&gt;Souplesse du serpent&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Volont&#233;-De-Fer.html&quot; title=&quot;Volont&#233; de fer&quot;&gt;Volont&#233; de fer&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Bluff.html&quot; title=&quot;Bluff&quot;&gt;Bluff&lt;/a&gt; +16, &lt;a class=&quot;pagelink&quot; href=&quot;Connaissances.html&quot; title=&quot;Connaissances&quot;&gt;Connaissances&lt;/a&gt; (nature) +8, &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; +24, &lt;a class=&quot;pagelink&quot; href=&quot;Dressage.html&quot; title=&quot;Dressage&quot;&gt;Dressage&lt;/a&gt; +14, &lt;a class=&quot;pagelink&quot; href=&quot;&#201;quitation.html&quot; title=&quot;&#201;quitation&quot;&gt;&#201;quitation&lt;/a&gt; +9, &lt;a class=&quot;pagelink&quot; href=&quot;&#201;vasion.html&quot; title=&quot;&#201;vasion&quot;&gt;&#201;vasion&lt;/a&gt; +9, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +13, &lt;a class=&quot;pagelink&quot; href=&quot;Psychologie.html&quot; title=&quot;Psychologie&quot;&gt;Psychologie&lt;/a&gt; +13, &lt;a class=&quot;pagelink&quot; href=&quot;Vol.html&quot; title=&quot;Vol&quot;&gt;Vol&lt;/a&gt; +15
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Langues&lt;/b&gt; commun
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; toutes les zones naturelles en surface
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation sociale&lt;/b&gt; solitaire ou avec un groupe d&#39;animaux
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; aucun
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Pouvoirs sp&#233;ciaux&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Absorption de sang (Sur).&lt;/b&gt; Par une &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions.html#SIMPLE&quot; title=&quot;Action simple&quot;&gt;action simple&lt;/a&gt;, le bhuta peut aspirer le sang d’un adversaire adjacent ayant re&#231;u des d&#233;g&#226;ts de &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables.html#Saignement&quot; title=&quot;Saignement&quot;&gt;saignement&lt;/a&gt;. La cible subit un &lt;a class=&quot;pagelink&quot; href=&quot;Affaiblissement-Temporaire-(Capacit&#233;).html&quot; title=&quot;affaiblissement temporaire&quot;&gt;affaiblissement temporaire&lt;/a&gt; de 1d6 points de &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#CONSTITUTION&quot; title=&quot;La Constitution&quot;&gt;Constitution&lt;/a&gt; (JdS &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;Vigueur&quot;&gt;Vigueur&lt;/a&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DEGREDEDIFFICULTE&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; 23, 1/2 d&#233;g&#226;ts). Le bhuta se soigne de 5 points de vie lorsqu’il absorbe du sang.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Sensibilit&#233; au fer froid (Sur).&lt;/b&gt; Les armes en &lt;a class=&quot;pagelink&quot; href=&quot;Mat&#233;riaux-Sp&#233;ciaux.html#FERFROID&quot; title=&quot;Les mat&#233;riaux sp&#233;ciaux&quot;&gt;fer froid&lt;/a&gt; sont consid&#233;r&#233;es comme &lt;a class=&quot;pagelink&quot; href=&quot;Armes-Magiques.html&quot; title=&quot;Les armes magiques&quot;&gt;magiques&lt;/a&gt; contre les bhutas. Une &lt;a class=&quot;pagelink&quot; href=&quot;Arme-Magique.html&quot; title=&quot;Arme magique&quot;&gt;arme magique&lt;/a&gt; en &lt;a class=&quot;pagelink&quot; href=&quot;Mat&#233;riaux-Sp&#233;ciaux.html#FERFROID&quot; title=&quot;Les mat&#233;riaux sp&#233;ciaux&quot;&gt;fer froid&lt;/a&gt; fonctionne toujours comme une &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Armes-Magiques.html#Spectrale&quot; title=&quot;Les armes magiques&quot;&gt;arme spectrale&lt;/a&gt;&lt;/i&gt; contre le bhuta.
+&lt;/div&gt;&lt;br /&gt;&lt;/div&gt;
+&lt;/td&gt;&lt;td&gt;&lt;div&gt;
+&lt;i&gt;Cette apparition fantomatique flotte dans les airs, sur ses pieds tourn&#233;s vers l’arri&#232;re. Ses mains se terminent par des serres tranchantes et ses yeux br&#251;lent d’un feu bleut&#233;.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Le bhuta est une cr&#233;ature morte-vivante fantomatique, n&#233;e d’une mort ou d’un meurtre horrible ayant eu lieu dans un d&#233;cor naturel. Il est une manifestation de la rage que l’on ressent face &#224; l’injustice d’une mort pr&#233;matur&#233;e interrompant des affaires importantes ou des d&#233;sirs inassouvis. Condamn&#233; &#224; hanter les &#233;tendues sauvages entourant le lieu de sa disparition dans un rayon de plusieurs kilom&#232;tres, le bhuta se tourne vers la faune locale pour en faire les instruments de sa vengeance.&lt;br /&gt;&lt;br /&gt;Le bhuta peut appara&#238;tre sous diff&#233;rentes formes animales au moyen de sa capacit&#233; de voile mais son apparence naturelle est celle d’un humano&#239;de bestial et fantomatique qui se d&#233;place en flottant &#224; trente centim&#232;tres du sol. Si le bhuta est une cr&#233;ature intangible, le contact de ses griffes inflige d’horribles blessures sanglantes. Les pieds du bhuta pointent vers l’arri&#232;re. Pour dissimuler sa nature, il peut se donner une apparence solide et se pr&#233;sent&#233; v&#234;tu de longues robes qui l’aident &#224; cacher le fait qu’il flotte et qu’il a des pieds curieux. Au moyen de son pouvoir de possession, le bhuta peut &#233;galement poss&#233;der les animaux vivants pour en faire ses serviteurs : un animal poss&#233;d&#233; par un bhuta ne projette aucune ombre et pr&#233;f&#232;re donc se tapir dans les fourr&#233;s &#233;pais ou dans les zones abrit&#233;es par d’&#233;pais feuillages, attendant le bon moment pour bondir et attaquer les intrus. &lt;br /&gt;&lt;br /&gt;Les animaux eux-m&#234;mes sont attir&#233;s par les bhutas qui utilisent leurs capacit&#233;s magiques pour les manipuler et les pousser au mal et &#224; la duplicit&#233;. Les bhutas &#233;vitent g&#233;n&#233;ralement d’influencer les compagnons animaux ou les b&#234;tes apprivois&#233;s car leurs changements de comportement &#233;veillent facilement les soup&#231;ons et trahissent la pr&#233;sence et l’influence d’un bhuta.&lt;br /&gt;&lt;br /&gt;Il arrive que le bhuta souhaite achever des t&#226;ches commenc&#233;es de son vivant ou qu’il veuille œuvrer contre ceux qui l’ont assassin&#233;. Le lien qui l’unit &#224; son ancienne vie est une chose impr&#233;cise et irr&#233;sistible, ce n’est pas quelque chose de clairement d&#233;fini comme pour les fant&#244;mes.&lt;br /&gt;&lt;br /&gt;Les bhutas qui n’ont pas de cibles sp&#233;cifiques contre lesquelles diriger leur d&#233;sir de vengeance, cherchent &#224; perturber ceux qui vivent sur leurs domaines ou non loin, persuadant ceux qui passent par l&#224; de les accepter comme compagnons de route en utilisant leur influence sur les animaux comme un t&#233;moignage de leur bienveillance. Lorsqu’ils sont invit&#233;s &#224; rejoindre un groupe, les bhutas peuvent s’aventurer au-del&#224; de leur territoire normal. N&#233;anmoins, leur soif sang les pousse g&#233;n&#233;ralement &#224; attaquer leurs compagnons avant de s’&#234;tre aventur&#233; bien loin.
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Bhuta|FP 11}
+{s:pucem|Mort-vivant|Forêt-Jungle|Tempéré}
+{s:BDTexte|''Source : Bestiaire 3 p.38''}
+{s:BDTexte|'''PX''' 12 800}
+{s:BDTexte|[[type Mort-vivant|Mort-vivant]] ([[sous-type intangible|intangible]]) de taille M, NM}
+{s:BDTexte|'''Init''' +7 ; '''Sens''' [[odorat]], [[vision dans le noir]] à 18 m (12 {s:c}) ; [[Perception]] +13}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 25, contact 25, pris au dépourvu 17 (Dex +7, esquive +1, parade +7)}
+{s:BDTexte|'''pv''' 147 (14d8+84)}
+{s:BDTexte|'''Réf''' +11, '''Vig''' +10, '''Vol''' +10}
+{s:BDTexte|'''Capacité défensive''' [[intangible (capacité)|intangible]], [[résistance à la canalisation (capacité)|résistance à la canalisation]] +4 ; '''Immunité''' [[traits des morts-vivants]]}
+{s:BDTexte|'''Faiblesse''' fer froid}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' vol 9 m (6 {s:c}, parfaite)}
+{s:BDTexte|'''Corps à corps'''  2 griffes intangibles, +17 (5d8 plus [[saignement (capacité)|saignement]])}
+{s:BDTexte|'''Attaques spéciales''' [[Absorption de sang (capacité)|Absorption de sang]] (1d6  [[Constitution]]), [[saignement (capacité)|saignement]] (1d8)}
+{s:BDTexte|'''Pouvoirs magiques''' (NLS 11 ; concentration +17)}
+{s:BDSorts|''A volonté'' - ''[[communication avec les animaux]]'', ''[[hypnose des animaux]]'' (DD 18), ''[[voile]]'' (pour lui-même uniquement, animal aux pieds tournés vers l'arrière ; DD 21)}
+{s:BDSorts|''3/jour'' - ''[[charme-animal]]'' (DD 17)}
+{s:BDSorts|''1/jour'' - ''[[possession]]'' (animaux uniquement, DD 21)}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' -, '''Dex''' 25, '''Con''' -, '''Int''' 11, '''Sag''' 8, '''Cha''' 22}
+{s:BDTexte|'''BBA''' +10, '''BMO''' +17, '''DMD''' 35}
+{s:BDTexte|'''Dons''' [[Fraternité animale]], [[Attaque en vol]], [[Discret]], [[Esquive]], [[Fente]], [[Souplesse du serpent]], [[Volonté de fer]]}
+{s:BDTexte|'''Compétences''' [[Bluff]] +16, [[Connaissances]] (nature) +8, [[Discrétion]] +24, [[Dressage]] +14, [[Équitation]] +9, [[Évasion]] +9, [[Perception]] +13, [[Psychologie]] +13, [[Vol]] +15}
+{s:BDTexte|'''Langues''' commun}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' toutes les zones naturelles en surface}
+{s:BDTexte|'''Organisation sociale''' solitaire ou avec un groupe d'animaux}
+{s:BDTexte|'''Trésor''' aucun}
+{s:BDSousTitre|Pouvoirs spéciaux}
+{s:BDTexte|'''Absorption de sang (Sur).''' Par une [[action simple]], le bhuta peut aspirer le sang d’un adversaire adjacent ayant reçu des dégâts de [[saignement]]. La cible subit un [[affaiblissement temporaire]] de 1d6 points de [[Constitution]] (JdS [[Vigueur]] [[DD]] 23, 1/2 dégâts). Le bhuta se soigne de 5 points de vie lorsqu’il absorbe du sang.}
+{s:BDTexte|'''Sensibilité au fer froid (Sur).''' Les armes en [[Matériaux spéciaux#FERFROID|fer froid]] sont considérées comme [[armes magiques|magiques]] contre les bhutas. Une [[arme magique]] en [[Matériaux spéciaux#FERFROID|fer froid]] fonctionne toujours comme une ''[[armes magiques#Spectrale|arme spectrale]]'' contre le bhuta.}
+
+</div>
+</td><td><div>
+''Cette apparition fantomatique flotte dans les airs, sur ses pieds tournés vers l’arrière. Ses mains se terminent par des serres tranchantes et ses yeux brûlent d’un feu bleuté.''
+
+Le bhuta est une créature morte-vivante fantomatique, née d’une mort ou d’un meurtre horrible ayant eu lieu dans un décor naturel. Il est une manifestation de la rage que l’on ressent face à l’injustice d’une mort prématurée interrompant des affaires importantes ou des désirs inassouvis. Condamné à hanter les étendues sauvages entourant le lieu de sa disparition dans un rayon de plusieurs kilomètres, le bhuta se tourne vers la faune locale pour en faire les instruments de sa vengeance.
+
+Le bhuta peut apparaître sous différentes formes animales au moyen de sa capacité de voile mais son apparence naturelle est celle d’un humanoïde bestial et fantomatique qui se déplace en flottant à trente centimètres du sol. Si le bhuta est une créature intangible, le contact de ses griffes inflige d’horribles blessures sanglantes. Les pieds du bhuta pointent vers l’arrière. Pour dissimuler sa nature, il peut se donner une apparence solide et se présenté vêtu de longues robes qui l’aident à cacher le fait qu’il flotte et qu’il a des pieds curieux. Au moyen de son pouvoir de possession, le bhuta peut également posséder les animaux vivants pour en faire ses serviteurs : un animal possédé par un bhuta ne projette aucune ombre et préfère donc se tapir dans les fourrés épais ou dans les zones abritées par d’épais feuillages, attendant le bon moment pour bondir et attaquer les intrus. 
+
+Les animaux eux-mêmes sont attirés par les bhutas qui utilisent leurs capacités magiques pour les manipuler et les pousser au mal et à la duplicité. Les bhutas évitent généralement d’influencer les compagnons animaux ou les bêtes apprivoisés car leurs changements de comportement éveillent facilement les soupçons et trahissent la présence et l’influence d’un bhuta.
+
+Il arrive que le bhuta souhaite achever des tâches commencées de son vivant ou qu’il veuille œuvrer contre ceux qui l’ont assassiné. Le lien qui l’unit à son ancienne vie est une chose imprécise et irrésistible, ce n’est pas quelque chose de clairement défini comme pour les fantômes.
+
+Les bhutas qui n’ont pas de cibles spécifiques contre lesquelles diriger leur désir de vengeance, cherchent à perturber ceux qui vivent sur leurs domaines ou non loin, persuadant ceux qui passent par là de les accepter comme compagnons de route en utilisant leur influence sur les animaux comme un témoignage de leur bienveillance. Lorsqu’ils sont invités à rejoindre un groupe, les bhutas peuvent s’aventurer au-delà de leur territoire normal. Néanmoins, leur soif sang les pousse généralement à attaquer leurs compagnons avant de s’être aventuré bien loin.
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Bhuta</fullName>
+</wikiPage>

@@ -1,0 +1,209 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Actions au combat</title>
+  <categories><category>Pathfinder-RPG.Combat</category></categories>
+  <lastModified>2010-11-21 01:48:17Z</lastModified>
+  <version>9</version>
+  <inLinks><link>Pathfinder-RPG.Actions au combat</link><link>Pathfinder-RPG.Actions de mouvement</link><link>Pathfinder-RPG.Actions simples</link><link>Pathfinder-RPG.Arme spirituelle</link><link>Pathfinder-RPG.Coup étourdissant</link><link>Pathfinder-RPG.Déplacements</link><link>Pathfinder-RPG.FAQ Dons</link><link>Pathfinder-RPG.MainPage</link><link>Pathfinder-RPG.temp-MainPage</link><link>Pathfinder-RPG.Valeurs de combat</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Action simple</link><link>Pathfinder-RPG.attaque dopportunité</link><link>Pathfinder-RPG.Actions au combat</link><link>Pathfinder-RPG.Actions simples</link><link>Pathfinder-RPG.résistance à la magie</link><link>Pathfinder-RPG.aider quelquun</link><link>Pathfinder-RPG.Potions magiques</link><link>Pathfinder-RPG.Prêtre</link><link>Pathfinder-RPG.Escamotage</link><link>Pathfinder-RPG.lutte</link><link>Pathfinder-RPG.feinte</link><link>Pathfinder-RPG.Parchemins magiques</link><link>Pathfinder-RPG.action préparée</link><link>Pathfinder-RPG.Premiers secours</link><link>Pathfinder-RPG.défense totale</link><link>Pathfinder-RPG.Action de mouvement</link><link>Pathfinder-RPG.Actions de mouvement</link><link>Pathfinder-RPG.Équitation</link><link>Pathfinder-RPG.Action complexe</link><link>Pathfinder-RPG.attaque à outrance</link><link>Pathfinder-RPG.charge</link><link>Pathfinder-RPG.Actions complexes</link><link>Pathfinder-RPG.Coup de grâce</link><link>Pathfinder-RPG.retraite</link><link>Pathfinder-RPG.Actions spéciales</link><link>Pathfinder-RPG.Action libre</link><link>Pathfinder-RPG.Actions libres</link><link>Pathfinder-RPG.composantes</link><link>Pathfinder-RPG.Action rapide</link><link>Pathfinder-RPG.Actions rapides</link><link>Pathfinder-RPG.Action immédiate</link><link>Pathfinder-RPG.Feuille morte</link><link>Pathfinder-RPG.Pas de placement</link><link>Pathfinder-RPG.action retardée</link><link>Pathfinder-RPG.manœuvre de combat</link><link>Pathfinder-RPG.Actions diverses</link><link>Pathfinder-RPG.bonus de base à lattaque</link><link>Pathfinder-RPG.Combat à deux armes</link><link>Pathfinder-RPG.Tableau récapitulatif des dons</link></outLinks>
+  <body><![CDATA[&lt;a name=&quot;SIMPLE&quot;&gt;&lt;/a&gt;
+&lt;center&gt;
+&lt;table CLASS=&quot;tablo&quot;&gt;&lt;caption&gt;Actions simples en combat&lt;/caption&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions.html#SIMPLE&quot; title=&quot;Action simple&quot;&gt;Actions simples&lt;/a&gt;&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#ATTAQUEDOPPORTUNITE&quot; title=&quot;attaque d&amp;#39;opportunit&#233;&quot;&gt;Attaque d&#39;opportunit&#233;&lt;/a&gt;&lt;sup&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Actions-Au-Combat.html#NOTE1&quot; title=&quot;Actions au combat&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier&quot;&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Actions-Simples.html#ATTAQUECORPSACORPS&quot; title=&quot;Actions simples&quot;&gt;Attaque au corps &#224; corps&lt;/a&gt;&lt;/td&gt;&lt;td&gt;Non&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Actions-Simples.html#ATTAQUEDISTANCE&quot; title=&quot;Actions simples&quot;&gt;Attaque &#224; distance&lt;/a&gt;&lt;/td&gt;&lt;td&gt;Oui&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Actions-Simples.html#ATTAQUEMAINSNUES&quot; title=&quot;Actions simples&quot;&gt;Attaque &#224; mains nues&lt;/a&gt;&lt;/td&gt;&lt;td&gt;Oui&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;Abaisser sa &lt;a class=&quot;pagelink&quot; href=&quot;R&#233;sistance-&#192;-La-Magie-(Capacit&#233;).html&quot; title=&quot;R&#233;sistance &#224; la magie&quot;&gt;r&#233;sistance &#224; la magie&lt;/a&gt;&lt;/td&gt;&lt;td&gt;Non&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Activer un objet magique autre qu’une potion ou une huile&lt;/td&gt;&lt;td&gt;Non&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Actions-Sp&#233;ciales.html#AIDERQQN&quot; title=&quot;aider quelquun&quot;&gt;Aider quelqu’un&lt;/a&gt;&lt;/td&gt;&lt;td&gt;Possible&lt;sup&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Actions-Au-Combat.html#NOTE2&quot; title=&quot;Actions au combat&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Allumer une torche &#224; l’aide d’un allume-feu&lt;/td&gt;&lt;td&gt;Oui&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;Boire une &lt;a class=&quot;pagelink&quot; href=&quot;Potions-Magiques.html&quot; title=&quot;Les potions magiques&quot;&gt;potion&lt;/a&gt; ou appliquer une huile&lt;/td&gt;&lt;td&gt;Oui&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Pr&#234;tre.html#CANALISATIONDENERGIE&quot; title=&quot;Le pr&#234;tre&quot;&gt;Canalisation d’&#233;nergie&lt;/a&gt;&lt;/td&gt;&lt;td&gt;Non&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;D&#233;gainer une arme dissimul&#233;e (voir la comp&#233;tence &lt;a class=&quot;pagelink&quot; href=&quot;Escamotage.html&quot; title=&quot;Escamotage&quot;&gt;Escamotage&lt;/a&gt;)&lt;/td&gt;&lt;td&gt;Non&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&#201;chapper &#224; une situation de &lt;a class=&quot;pagelink&quot; href=&quot;Manœuvres-Offensives.html#LUTTE&quot; title=&quot;lutte&quot;&gt;lutte&lt;/a&gt;&lt;/td&gt;&lt;td&gt;Non&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;Ex&#233;cuter une &lt;a class=&quot;pagelink&quot; href=&quot;Actions-Sp&#233;ciales.html#FEINTE&quot; title=&quot;feinte&quot;&gt;feinte&lt;/a&gt;&lt;/td&gt;&lt;td&gt;Non&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Actions-Simples.html#LANCERSORT&quot; title=&quot;Actions simples&quot;&gt;Lancer un sort&lt;/a&gt; (temps d’incantation de 1 action simple)&lt;/td&gt;&lt;td&gt;Oui&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;Lire un &lt;a class=&quot;pagelink&quot; href=&quot;Parchemins-Magiques.html&quot; title=&quot;Les parchemins magiques&quot;&gt;parchemin&lt;/a&gt;&lt;/td&gt;&lt;td&gt;Oui&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Actions-Simples.html#LANCERSORT&quot; title=&quot;Actions simples&quot;&gt;Mettre un terme &#224; un sort&lt;/a&gt;&lt;/td&gt;&lt;td&gt;Non&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Actions-Modifiant-Linitiative.html#PREPARER&quot; title=&quot;Action pr&#233;par&#233;e&quot;&gt;Pr&#233;paration&lt;/a&gt; (d&#233;clenche une action simple)&lt;/td&gt;&lt;td&gt;Non&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Prodiguer les &lt;a class=&quot;pagelink&quot; href=&quot;Premiers-Secours.html&quot; title=&quot;Premiers secours&quot;&gt;premiers secours&lt;/a&gt; &#224; un ami mourant&lt;/td&gt;&lt;td&gt;Oui&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Actions-Simples.html#LANCERSORT&quot; title=&quot;Actions simples&quot;&gt;Se concentrer pour maintenir un sort actif&lt;/a&gt;&lt;/td&gt;&lt;td&gt;Non&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Se mettre en &lt;a class=&quot;pagelink&quot; href=&quot;Actions-Simples.html#DEFENSETOTALE&quot; title=&quot;d&#233;fense totale&quot;&gt;d&#233;fense totale&lt;/a&gt;&lt;/td&gt;&lt;td&gt;Non&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Actions-Simples.html#UTILISERPOUVOIRSPECIAL&quot; title=&quot;Actions simples&quot;&gt;Utiliser un pouvoir extraordinaire&lt;/a&gt;&lt;/td&gt;&lt;td&gt;Non&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Actions-Simples.html#UTILISERPOUVOIRSPECIAL&quot; title=&quot;Actions simples&quot;&gt;Utiliser un pouvoir magique&lt;/a&gt;&lt;/td&gt;&lt;td&gt;Oui&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Actions-Simples.html#UTILISERPOUVOIRSPECIAL&quot; title=&quot;Actions simples&quot;&gt;Utiliser un pouvoir surnaturel&lt;/a&gt;&lt;/td&gt;&lt;td&gt;Non&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Utiliser une comp&#233;tence exigeant 1 action&lt;/td&gt;&lt;td&gt;En g&#233;n&#233;ral oui&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;br /&gt;&lt;a name=&quot;MOUVEMENT&quot;&gt;&lt;/a&gt;
+&lt;table CLASS=&quot;tablo&quot;&gt;&lt;caption&gt;Actions de mouvement en combat&lt;/caption&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions.html#MOUVEMENT&quot; title=&quot;Action de mouvement&quot;&gt;Actions de mouvement&lt;/a&gt;&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#ATTAQUEDOPPORTUNITE&quot; title=&quot;attaque d&amp;#39;opportunit&#233;&quot;&gt;Attaque d&#39;opportunit&#233;&lt;/a&gt;&lt;sup&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Actions-Au-Combat.html#NOTE1&quot; title=&quot;Actions au combat&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier&quot;&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Actions-De-Mouvement.html#DEPLACEMENT&quot; title=&quot;Actions de mouvement&quot;&gt;Se d&#233;placer&lt;/a&gt;&lt;/td&gt;&lt;td&gt;Oui&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;&#201;quitation.html&quot; title=&quot;&#201;quitation&quot;&gt;Calmer une monture effray&#233;e&lt;/a&gt;&lt;/td&gt;&lt;td&gt;Oui&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Actions-De-Mouvement.html#DEGAINERRENGAINERARME&quot; title=&quot;Actions de mouvement&quot;&gt;Charger une arbal&#232;te l&#233;g&#232;re ou de poing&lt;/a&gt;&lt;/td&gt;&lt;td&gt;Oui&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Actions-De-Mouvement.html#DEGAINERRENGAINERARME&quot; title=&quot;Actions de mouvement&quot;&gt;D&#233;gainer une arme&lt;/a&gt;&lt;sup&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Actions-Au-Combat.html#NOTE3&quot; title=&quot;Actions au combat&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;&lt;/td&gt;&lt;td&gt;Non&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Actions-De-Mouvement.html#MANIPULERUNOBJET&quot; title=&quot;Actions de mouvement&quot;&gt;D&#233;placer un objet lourd&lt;/a&gt;&lt;/td&gt;&lt;td&gt;Oui&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Actions-De-Mouvement.html#DIRIGERREDIRIGERSORT&quot; title=&quot;Actions de mouvement&quot;&gt;Diriger ou rediriger un sort actif&lt;/a&gt;&lt;/td&gt;&lt;td&gt;Non&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Actions-De-Mouvement.html#MONTERDESCENDREDESELLE&quot; title=&quot;Actions de mouvement&quot;&gt;Monter en selle ou descendre de selle&lt;/a&gt;&lt;/td&gt;&lt;td&gt;Non&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Actions-De-Mouvement.html#MANIPULERUNOBJET&quot; title=&quot;Actions de mouvement&quot;&gt;Ouvrir ou fermer une porte&lt;/a&gt;&lt;/td&gt;&lt;td&gt;Non&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Actions-De-Mouvement.html#MANIPULERUNOBJET&quot; title=&quot;Actions de mouvement&quot;&gt;Prendre un objet port&#233; sur soi&lt;/a&gt;&lt;/td&gt;&lt;td&gt;Oui&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Actions-De-Mouvement.html#PREPARERBOUCLIER&quot; title=&quot;Actions de mouvement&quot;&gt;Pr&#233;parer ou d&#233;tacher son bouclier&lt;/a&gt;&lt;sup&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Actions-Au-Combat.html#NOTE3&quot; title=&quot;Actions au combat&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;&lt;/td&gt;&lt;td&gt;Non&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Actions-De-Mouvement.html#MANIPULERUNOBJET&quot; title=&quot;Actions de mouvement&quot;&gt;Ramasser un objet&lt;/a&gt;&lt;/td&gt;&lt;td&gt;Oui&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Actions-De-Mouvement.html#DEGAINERRENGAINERARME&quot; title=&quot;Actions de mouvement&quot;&gt;Rengainer une arme&lt;/a&gt;&lt;/td&gt;&lt;td&gt;Oui&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Actions-De-Mouvement.html#SERELEVER&quot; title=&quot;Actions de mouvement&quot;&gt;Se relever quand on est &#224; terre&lt;/a&gt;&lt;/td&gt;&lt;td&gt;Oui&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;br /&gt;&lt;a name=&quot;COMPLEXE&quot;&gt;&lt;/a&gt;
+&lt;table CLASS=&quot;tablo&quot;&gt;&lt;caption&gt;Actions complexes en combat&lt;/caption&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions.html#COMPLEXE&quot; title=&quot;Action complexe&quot;&gt;Actions complexes&lt;/a&gt;&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#ATTAQUEDOPPORTUNITE&quot; title=&quot;attaque d&amp;#39;opportunit&#233;&quot;&gt;Attaque d&#39;opportunit&#233;&lt;/a&gt;&lt;sup&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Actions-Au-Combat.html#NOTE1&quot; title=&quot;Actions au combat&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier&quot;&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Actions-Complexes.html#ATTAQUEAOUTRANCE&quot; title=&quot;attaque &#224; outrance&quot;&gt;Attaque &#224; outrance&lt;/a&gt;&lt;/td&gt;&lt;td&gt;Non&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;Accrocher une arme &#224; un gantelet d’armes (ou la d&#233;crocher)&lt;/td&gt;&lt;td&gt;Oui&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Allumer une torche&lt;/td&gt;&lt;td&gt;Oui&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Actions-Sp&#233;ciales.html#CHARGE&quot; title=&quot;charge&quot;&gt;Charge&lt;/a&gt;&lt;sup&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Actions-Au-Combat.html#NOTE4&quot; title=&quot;Actions au combat&quot;&gt;4&lt;/a&gt;&lt;/sup&gt;&lt;/td&gt;&lt;td&gt;Non&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Charger une arbal&#232;te lourde ou &#224; r&#233;p&#233;tition&lt;/td&gt;&lt;td&gt;Oui&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Actions-Complexes.html#COURIR&quot; title=&quot;Actions complexes&quot;&gt;Courir&lt;/a&gt;&lt;/td&gt;&lt;td&gt;Oui&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Donner le &lt;a class=&quot;pagelink&quot; href=&quot;Modificateurs-De-Combat.html#COUPDEGRACE&quot; title=&quot;Coup de gr&#226;ce&quot;&gt;coup de gr&#226;ce&lt;/a&gt;&lt;/td&gt;&lt;td&gt;Oui&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;&#201;teindre des flammes&lt;/td&gt;&lt;td&gt;Non&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Lancer un sort de contact sur un maximum de six alli&#233;s&lt;/td&gt;&lt;td&gt;Oui&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Actions-Complexes.html#RETRAITE&quot; title=&quot;retraite&quot;&gt;Retraite&lt;/a&gt;&lt;sup&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Actions-Au-Combat.html#NOTE4&quot; title=&quot;Actions au combat&quot;&gt;4&lt;/a&gt;&lt;/sup&gt;&lt;/td&gt;&lt;td&gt;Non&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Se d&#233;gager d’un filet&lt;/td&gt;&lt;td&gt;Oui&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;Se pr&#233;parer &#224; &lt;a class=&quot;pagelink&quot; href=&quot;Actions-Sp&#233;ciales.html#ARMEIMPACT&quot; title=&quot;Actions sp&#233;ciales&quot;&gt;lancer une arme &#224; impact&lt;/a&gt;&lt;/td&gt;&lt;td&gt;Oui&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Utiliser une comp&#233;tence exigeant 1 round&lt;/td&gt;&lt;td&gt;En g&#233;n&#233;ral Oui&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;br /&gt;&lt;a name=&quot;LIBRE&quot;&gt;&lt;/a&gt;
+&lt;table CLASS=&quot;tablo&quot;&gt;&lt;caption&gt;Actions libres en combat&lt;/caption&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions.html#LIBRE&quot; title=&quot;Action libre&quot;&gt;Actions libres&lt;/a&gt;&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#ATTAQUEDOPPORTUNITE&quot; title=&quot;attaque d&amp;#39;opportunit&#233;&quot;&gt;Attaque d&#39;opportunit&#233;&lt;/a&gt;&lt;sup&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Actions-Au-Combat.html#NOTE1&quot; title=&quot;Actions au combat&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier&quot;&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Actions-Libres.html#CESSERCONCENTRATION&quot; title=&quot;Actions libres&quot;&gt;Cesser de se concentrer sur un sort&lt;/a&gt;&lt;/td&gt;&lt;td&gt;Non&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Actions-Libres.html#LACHEROBJET&quot; title=&quot;Actions libres&quot;&gt;L&#226;cher un objet&lt;/a&gt;&lt;/td&gt;&lt;td&gt;Non&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Actions-Libres.html#PARLER&quot; title=&quot;Actions libres&quot;&gt;Parler&lt;/a&gt;&lt;/td&gt;&lt;td&gt;Non&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Actions-Libres.html#PLONGERAUSOL&quot; title=&quot;Actions libres&quot;&gt;Plonger au sol&lt;/a&gt;&lt;/td&gt;&lt;td&gt;Non&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Pr&#233;parer ses &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#COMPOSANTES&quot; title=&quot;composantes&quot;&gt;composantes&lt;/a&gt; pour lancer un sort&lt;sup&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Actions-Au-Combat.html#NOTE5&quot; title=&quot;Actions au combat&quot;&gt;5&lt;/a&gt;&lt;/sup&gt;&lt;/td&gt;&lt;td&gt;Non&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;br /&gt;&lt;a name=&quot;RAPIDE&quot;&gt;&lt;/a&gt;
+&lt;table CLASS=&quot;tablo&quot;&gt;&lt;caption&gt;Actions rapides en combat&lt;/caption&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions.html#RAPIDE&quot; title=&quot;Action rapide&quot;&gt;Actions rapides&lt;/a&gt;&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#ATTAQUEDOPPORTUNITE&quot; title=&quot;attaque d&amp;#39;opportunit&#233;&quot;&gt;Attaque d&#39;opportunit&#233;&lt;/a&gt;&lt;sup&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Actions-Au-Combat.html#NOTE1&quot; title=&quot;Actions au combat&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier&quot;&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Actions-Rapides.html#LANCERSORT&quot; title=&quot;Actions rapides&quot;&gt;Lancer un sort &#224; incantation rapide&lt;/a&gt;&lt;/td&gt;&lt;td&gt;Non&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;br /&gt;&lt;a name=&quot;IMMEDIATE&quot;&gt;&lt;/a&gt;
+&lt;table CLASS=&quot;tablo&quot;&gt;&lt;caption&gt;Actions imm&#233;diates en combat&lt;/caption&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions.html#IMMEDIATE&quot; title=&quot;Action imm&#233;diate&quot;&gt;Actions imm&#233;diates&lt;/a&gt;&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#ATTAQUEDOPPORTUNITE&quot; title=&quot;attaque d&amp;#39;opportunit&#233;&quot;&gt;Attaque d&#39;opportunit&#233;&lt;/a&gt;&lt;sup&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Actions-Au-Combat.html#NOTE1&quot; title=&quot;Actions au combat&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier&quot;&gt;&lt;td&gt;Lancer &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Feuille-Morte.html&quot; title=&quot;Feuille morte&quot;&gt;feuille morte&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;Non&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;br /&gt;&lt;table CLASS=&quot;tablo&quot;&gt;&lt;caption&gt;Non-actions en combat&lt;/caption&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td&gt;Pas d&#39;action&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#ATTAQUEDOPPORTUNITE&quot; title=&quot;attaque d&amp;#39;opportunit&#233;&quot;&gt;Attaque d&#39;opportunit&#233;&lt;/a&gt;&lt;sup&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Actions-Au-Combat.html#NOTE1&quot; title=&quot;Actions au combat&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier&quot;&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Actions-Diverses.html#PASDEPLACEMENT&quot; title=&quot;Pas de placement&quot;&gt;Pas de placement&lt;/a&gt; de 1,50 m&lt;/td&gt;&lt;td&gt;Non&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Actions-Modifiant-Linitiative.html#RETARDER&quot; title=&quot;action retard&#233;e&quot;&gt;Retardement&lt;/a&gt;&lt;/td&gt;&lt;td&gt;Non&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;br /&gt;&lt;table CLASS=&quot;tablo&quot;&gt;&lt;caption&gt;Actions de type variable en combat&lt;/caption&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td&gt;Actions de type variable&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#ATTAQUEDOPPORTUNITE&quot; title=&quot;attaque d&amp;#39;opportunit&#233;&quot;&gt;Attaque d&#39;opportunit&#233;&lt;/a&gt;&lt;sup&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Actions-Au-Combat.html#NOTE1&quot; title=&quot;Actions au combat&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier&quot;&gt;&lt;td&gt;Faire une &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#MANOEUVREOFFENSIVE&quot; title=&quot;manœuvre de combat&quot;&gt;manœuvre offensive&lt;/a&gt;&lt;sup&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Actions-Au-Combat.html#NOTE6&quot; title=&quot;Actions au combat&quot;&gt;6&lt;/a&gt;&lt;/sup&gt;&lt;/td&gt;&lt;td&gt;Oui&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Actions-Diverses.html#UTILISERDON&quot; title=&quot;Actions diverses&quot;&gt;Utiliser un don&lt;/a&gt;&lt;sup&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Actions-Au-Combat.html#NOTE7&quot; title=&quot;Actions au combat&quot;&gt;7&lt;/a&gt;&lt;/sup&gt;&lt;/td&gt;&lt;td&gt;Variable&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/center&gt;&lt;br /&gt;&lt;br /&gt;&lt;a name=&quot;NOTE1&quot;&gt;&lt;/a&gt;&lt;i&gt;(1) Quelle que soit l’action entreprise, le fait de sortir d’une case contr&#244;l&#233;e provoque g&#233;n&#233;ralement une &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#ATTAQUEDOPPORTUNITE&quot; title=&quot;attaque d&amp;#39;opportunit&#233;&quot;&gt;attaque d’opportunit&#233;&lt;/a&gt;. Cette colonne indique si l’action elle-m&#234;me (et non le d&#233;placement) d&#233;clenche une &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#ATTAQUEDOPPORTUNITE&quot; title=&quot;attaque d&amp;#39;opportunit&#233;&quot;&gt;attaque d’opportunit&#233;&lt;/a&gt;.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;&lt;a name=&quot;NOTE2&quot;&gt;&lt;/a&gt;&lt;i&gt;(2) Si le personnage aide quelqu’un &#224; faire une action qui provoque normalement une &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#ATTAQUEDOPPORTUNITE&quot; title=&quot;attaque d&amp;#39;opportunit&#233;&quot;&gt;attaque d’opportunit&#233;&lt;/a&gt;, il provoque lui aussi une &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#ATTAQUEDOPPORTUNITE&quot; title=&quot;attaque d&amp;#39;opportunit&#233;&quot;&gt;attaque d’opportunit&#233;&lt;/a&gt;.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;&lt;a name=&quot;NOTE3&quot;&gt;&lt;/a&gt;&lt;i&gt;(3) Si le personnage b&#233;n&#233;ficie d’un &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#BONUSDEBASEALATTAQUE&quot; title=&quot;bonus de base &#224; l’attaque&quot;&gt;bonus de base &#224; l’attaque&lt;/a&gt; de +1 ou plus, il peut combiner cette action avec un d&#233;placement normal. S’il dispose du don &lt;a class=&quot;pagelink&quot; href=&quot;Combat-&#192;-Deux-Armes.html&quot; title=&quot;Combat &#224; deux armes&quot;&gt;Combat &#224; deux armes&lt;/a&gt;, il peut d&#233;gainer deux armes l&#233;g&#232;res ou &#224; une main aussi rapidement que s’il sortait une seule arme.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;&lt;a name=&quot;NOTE4&quot;&gt;&lt;/a&gt;&lt;i&gt;(4) Cette action peut devenir une &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions.html#SIMPLE&quot; title=&quot;Action simple&quot;&gt;action simple&lt;/a&gt; dans le cas particulier d’un personnage &#224; l’activit&#233; restreinte &#224; une &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions.html#SIMPLE&quot; title=&quot;Action simple&quot;&gt;action simple&lt;/a&gt; par round.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;&lt;a name=&quot;NOTE5&quot;&gt;&lt;/a&gt;&lt;i&gt;(5) &#192; moins que la composante ne soit particuli&#232;rement encombrante ou difficile &#224; utiliser.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;&lt;a name=&quot;NOTE6&quot;&gt;&lt;/a&gt;&lt;i&gt;(6) Certaines &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#MANOEUVREOFFENSIVE&quot; title=&quot;manœuvre de combat&quot;&gt;manœuvres de combat&lt;/a&gt; remplacent une attaque de corps &#224; corps au lieu d’une action. Le personnage peut donc tenter de les ex&#233;cuter une fois lors d’une action d’attaque ou de &lt;a class=&quot;pagelink&quot; href=&quot;Actions-Sp&#233;ciales.html#CHARGE&quot; title=&quot;charge&quot;&gt;charge&lt;/a&gt;, plusieurs fois dans le cadre d’une &lt;a class=&quot;pagelink&quot; href=&quot;Actions-Complexes.html#ATTAQUEAOUTRANCE&quot; title=&quot;attaque &#224; outrance&quot;&gt;attaque &#224; outrance&lt;/a&gt; ou lors d’une &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#ATTAQUEDOPPORTUNITE&quot; title=&quot;attaque d&amp;#39;opportunit&#233;&quot;&gt;attaque d’opportunit&#233;&lt;/a&gt;. D’autres sont consid&#233;r&#233;s comme des actions s&#233;par&#233;es.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;&lt;a name=&quot;NOTE7&quot;&gt;&lt;/a&gt;&lt;i&gt;(7) Voir la description du &lt;a class=&quot;pagelink&quot; href=&quot;Tableau-R&#233;capitulatif-Des-Dons.html&quot; title=&quot;Tableau r&#233;capitulatif des dons&quot;&gt;don concern&#233;&lt;/a&gt;.&lt;/i&gt;
+]]></body>
+  <raw><![CDATA[{s:Reference|SIMPLE}
+<center>
+{| CLASS="tablo"
+|+ Actions simples en combat
+|- CLASS="titre"
+| [[Action simple|Actions simples]] || [[Attaque dopportunité|Attaque d'opportunité]]<sup>[[Actions au combat#NOTE1|1]]</sup>
+|- CLASS="premier"
+| [[Actions simples#ATTAQUECORPSACORPS|Attaque au corps à corps]] || Non
+|- CLASS="alt"
+| [[Actions simples#ATTAQUEDISTANCE|Attaque à distance]] || Oui
+|-
+| [[Actions simples#ATTAQUEMAINSNUES|Attaque à mains nues]] || Oui
+|- CLASS="alt"
+| Abaisser sa [[résistance à la magie]] || Non
+|-
+| Activer un objet magique autre qu’une potion ou une huile || Non
+|- CLASS="alt"
+| [[aider quelquun|Aider quelqu’un]] || Possible<sup>[[Actions au combat#NOTE2|2]]</sup>
+|-
+| Allumer une torche à l’aide d’un allume-feu || Oui
+|- CLASS="alt"
+| Boire une [[Potions magiques|potion]] ou appliquer une huile || Oui
+|-
+| [[prêtre#CANALISATIONDENERGIE|Canalisation d’énergie]] || Non
+|- CLASS="alt"
+| Dégainer une arme dissimulée (voir la compétence [[Escamotage]]) || Non
+|-
+| Échapper à une situation de [[lutte]] || Non
+|- CLASS="alt"
+| Exécuter une [[feinte]] || Non
+|-
+| [[Actions simples#LANCERSORT|Lancer un sort]] (temps d’incantation de 1 action simple) || Oui
+|- CLASS="alt"
+| Lire un [[Parchemins magiques|parchemin]] || Oui
+|-
+| [[Actions simples#LANCERSORT|Mettre un terme à un sort]] || Non
+|- CLASS="alt"
+| [[action préparée|Préparation]] (déclenche une action simple) || Non
+|-
+| Prodiguer les [[premiers secours]] à un ami mourant || Oui
+|- CLASS="alt"
+| [[Actions simples#LANCERSORT|Se concentrer pour maintenir un sort actif]] || Non
+|-
+| Se mettre en [[défense totale]] || Non
+|- CLASS="alt"
+| [[Actions simples#UTILISERPOUVOIRSPECIAL|Utiliser un pouvoir extraordinaire]] || Non
+|-
+| [[Actions simples#UTILISERPOUVOIRSPECIAL|Utiliser un pouvoir magique]] || Oui
+|- CLASS="alt"
+| [[Actions simples#UTILISERPOUVOIRSPECIAL|Utiliser un pouvoir surnaturel]] || Non
+|-
+| Utiliser une compétence exigeant 1 action || En général oui
+|}
+
+{s:Reference|MOUVEMENT}
+{| CLASS="tablo"
+|+ Actions de mouvement en combat
+|- CLASS="titre"
+| [[Action de mouvement|Actions de mouvement]] || [[Attaque dopportunité|Attaque d'opportunité]]<sup>[[Actions au combat#NOTE1|1]]</sup>
+|- CLASS="premier"
+| [[Actions de mouvement#DEPLACEMENT|Se déplacer]] || Oui
+|- CLASS="alt"
+| [[Équitation|Calmer une monture effrayée]] || Oui
+|-
+| [[Actions de mouvement#DEGAINERRENGAINERARME|Charger une arbalète légère ou de poing]] || Oui
+|- CLASS="alt"
+| [[Actions de mouvement#DEGAINERRENGAINERARME|Dégainer une arme]]<sup>[[Actions au combat#NOTE3|3]]</sup> || Non
+|-
+| [[Actions de mouvement#MANIPULERUNOBJET|Déplacer un objet lourd]] || Oui
+|- CLASS="alt"
+| [[Actions de mouvement#DIRIGERREDIRIGERSORT|Diriger ou rediriger un sort actif]] || Non
+|-
+| [[Actions de mouvement#MONTERDESCENDREDESELLE|Monter en selle ou descendre de selle]] || Non
+|- CLASS="alt"
+| [[Actions de mouvement#MANIPULERUNOBJET|Ouvrir ou fermer une porte]] || Non
+|-
+| [[Actions de mouvement#MANIPULERUNOBJET|Prendre un objet porté sur soi]] || Oui
+|- CLASS="alt"
+| [[Actions de mouvement#PREPARERBOUCLIER|Préparer ou détacher son bouclier]]<sup>[[Actions au combat#NOTE3|3]]</sup> || Non
+|-
+| [[Actions de mouvement#MANIPULERUNOBJET|Ramasser un objet]] || Oui
+|- CLASS="alt"
+| [[Actions de mouvement#DEGAINERRENGAINERARME|Rengainer une arme]] || Oui
+|-
+| [[Actions de mouvement#SERELEVER|Se relever quand on est à terre]] || Oui
+|}
+
+{s:Reference|COMPLEXE}
+{| CLASS="tablo"
+|+ Actions complexes en combat
+|- CLASS="titre"
+| [[Action complexe|Actions complexes]] || [[Attaque dopportunité|Attaque d'opportunité]]<sup>[[Actions au combat#NOTE1|1]]</sup>
+|- CLASS="premier"
+| [[Attaque à outrance]] || Non
+|- CLASS="alt"
+| Accrocher une arme à un gantelet d’armes (ou la décrocher) || Oui
+|-
+| Allumer une torche || Oui
+|- CLASS="alt"
+| [[Charge]]<sup>[[Actions au combat#NOTE4|4]]</sup> || Non
+|-
+| Charger une arbalète lourde ou à répétition || Oui
+|- CLASS="alt"
+| [[actions complexes#COURIR|Courir]] || Oui
+|-
+| Donner le [[coup de grâce]] || Oui
+|- CLASS="alt"
+| Éteindre des flammes || Non
+|-
+| Lancer un sort de contact sur un maximum de six alliés || Oui
+|- CLASS="alt"
+| [[Retraite]]<sup>[[Actions au combat#NOTE4|4]]</sup> || Non
+|-
+| Se dégager d’un filet || Oui
+|- CLASS="alt"
+| Se préparer à [[Actions spéciales#ARMEIMPACT|lancer une arme à impact]] || Oui
+|-
+| Utiliser une compétence exigeant 1 round || En général Oui
+|}
+
+{s:Reference|LIBRE}
+{| CLASS="tablo"
+|+ Actions libres en combat
+|- CLASS="titre"
+| [[Action libre|Actions libres]] || [[Attaque dopportunité|Attaque d'opportunité]]<sup>[[Actions au combat#NOTE1|1]]</sup>
+|- CLASS="premier"
+| [[Actions libres#CESSERCONCENTRATION|Cesser de se concentrer sur un sort]] || Non
+|- CLASS="alt"
+| [[Actions libres#LACHEROBJET|Lâcher un objet]] || Non
+|-
+| [[Actions libres#PARLER|Parler]] || Non
+|- CLASS="alt"
+| [[Actions libres#PLONGERAUSOL|Plonger au sol]] || Non
+|-
+| Préparer ses [[composantes]] pour lancer un sort<sup>[[Actions au combat#NOTE5|5]]</sup> || Non
+|}
+
+{s:Reference|RAPIDE}
+{| CLASS="tablo"
+|+ Actions rapides en combat
+|- CLASS="titre"
+| [[Action rapide|Actions rapides]] || [[Attaque dopportunité|Attaque d'opportunité]]<sup>[[Actions au combat#NOTE1|1]]</sup>
+|- CLASS="premier"
+| [[Actions rapides#LANCERSORT|Lancer un sort à incantation rapide]] || Non
+|}
+
+{s:Reference|IMMEDIATE}
+{| CLASS="tablo"
+|+ Actions immédiates en combat
+|- CLASS="titre"
+| [[Action immédiate|Actions immédiates]] || [[Attaque dopportunité|Attaque d'opportunité]]<sup>[[Actions au combat#NOTE1|1]]</sup>
+|- CLASS="premier"
+| Lancer ''[[feuille morte]]'' || Non
+|}
+
+{| CLASS="tablo"
+|+ Non-actions en combat
+|- CLASS="titre"
+| Pas d'action || [[Attaque dopportunité|Attaque d'opportunité]]<sup>[[Actions au combat#NOTE1|1]]</sup>
+|- CLASS="premier"
+| [[Pas de placement]] de 1,50 m || Non
+|- CLASS="alt"
+| [[action retardée|Retardement]] || Non
+|}
+
+{| CLASS="tablo"
+|+ Actions de type variable en combat
+|- CLASS="titre"
+| Actions de type variable || [[Attaque dopportunité|Attaque d'opportunité]]<sup>[[Actions au combat#NOTE1|1]]</sup>
+|- CLASS="premier"
+| Faire une [[manœuvre de combat|manœuvre offensive]]<sup>[[Actions au combat#NOTE6|6]]</sup> || Oui
+|- CLASS="alt"
+| [[Actions diverses#UTILISERDON|Utiliser un don]]<sup>[[Actions au combat#NOTE7|7]]</sup> || Variable
+|}
+</center>
+
+{s:Reference|NOTE1}''(1) Quelle que soit l’action entreprise, le fait de sortir d’une case contrôlée provoque généralement une [[attaque dopportunité|attaque d’opportunité]]. Cette colonne indique si l’action elle-même (et non le déplacement) déclenche une [[attaque dopportunité|attaque d’opportunité]].''
+
+{s:Reference|NOTE2}''(2) Si le personnage aide quelqu’un à faire une action qui provoque normalement une [[attaque dopportunité|attaque d’opportunité]], il provoque lui aussi une [[attaque dopportunité|attaque d’opportunité]].''
+
+{s:Reference|NOTE3}''(3) Si le personnage bénéficie d’un [[bonus de base à lattaque|bonus de base à l’attaque]] de +1 ou plus, il peut combiner cette action avec un déplacement normal. S’il dispose du don [[Combat à deux armes]], il peut dégainer deux armes légères ou à une main aussi rapidement que s’il sortait une seule arme.''
+
+{s:Reference|NOTE4}''(4) Cette action peut devenir une [[action simple]] dans le cas particulier d’un personnage à l’activité restreinte à une [[action simple]] par round.''
+
+{s:Reference|NOTE5}''(5) À moins que la composante ne soit particulièrement encombrante ou difficile à utiliser.''
+
+{s:Reference|NOTE6}''(6) Certaines [[manœuvre de combat|manœuvres de combat]] remplacent une attaque de corps à corps au lieu d’une action. Le personnage peut donc tenter de les exécuter une fois lors d’une action d’attaque ou de [[charge]], plusieurs fois dans le cadre d’une [[attaque à outrance]] ou lors d’une [[attaque dopportunité|attaque d’opportunité]]. D’autres sont considérés comme des actions séparées.''
+
+{s:Reference|NOTE7}''(7) Voir la description du [[tableau récapitulatif des dons|don concerné]].'']]></raw>
+  <fullName>Pathfinder-RPG.Actions au combat</fullName>
+</wikiPage>

@@ -1,0 +1,122 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Anguille électrique</title>
+  <categories><category>Pathfinder-RPG.Bestiaire</category><category>Pathfinder-RPG.Monstre</category></categories>
+  <lastModified>2013-02-02 13:17:40Z</lastModified>
+  <version>9</version>
+  <inLinks><link>Pathfinder-RPG.Cératioïde</link><link>Pathfinder-RPG.Convocation dalliés naturels</link><link>Pathfinder-RPG.Convocation de monstres</link><link>Pathfinder-RPG.Glossaire des monstres</link><link>Pathfinder-RPG.Liste de monstres par FP</link><link>Pathfinder-RPG.Liste de monstres par milieu naturel</link><link>Pathfinder-RPG.Liste de monstres par type</link><link>Pathfinder-RPG.Monstres</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.type Animal</link><link>Pathfinder-RPG.vision nocturne</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.croc-en-jambe</link><link>Pathfinder-RPG.Science de linitiative</link><link>Pathfinder-RPG.Discrétion</link><link>Pathfinder-RPG.Évasion</link><link>Pathfinder-RPG.Natation</link><link>Pathfinder-RPG.coup critique</link><link>Pathfinder-RPG.Vigueur</link><link>Pathfinder-RPG.DD</link><link>Pathfinder-RPG.Étourdi</link><link>Pathfinder-RPG.Constitution</link><link>Pathfinder-RPG.Amphibie</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Anguille &#233;lectrique&lt;div style=&quot;float:right;&quot;&gt;FP 2&lt;/div&gt;&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Bestiaire p.16&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 600
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Animal.html&quot; title=&quot;Animal&quot;&gt;Animal&lt;/a&gt; de taille P, N
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +6 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Nocturne-(Capacit&#233;).html&quot; title=&quot;vision nocturne&quot;&gt;vision nocturne&lt;/a&gt; ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +4
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 15, contact 13, pris au d&#233;pourvu 13 (Dex +2, naturelle +2, taille +1)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 17 (2d8+8)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +5, &lt;b&gt;Vig&lt;/b&gt; +7, &lt;b&gt;Vol&lt;/b&gt; +0
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;sistances&lt;/b&gt; &#233;lectricit&#233; 10 
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 1,50 m (1 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), nage 9 m (6 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; morsure +3 (1d6+1) et queue, -2 (contact, 1d6 &#233;lectricit&#233;)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 13, &lt;b&gt;Dex&lt;/b&gt; 14, &lt;b&gt;Con&lt;/b&gt; 19, &lt;b&gt;Int&lt;/b&gt; 1, &lt;b&gt;Sag&lt;/b&gt; 10, &lt;b&gt;Cha&lt;/b&gt; 6
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +1, &lt;b&gt;BMO&lt;/b&gt; +1, &lt;b&gt;DMD&lt;/b&gt; 13 (&lt;a class=&quot;pagelink&quot; href=&quot;Croc-En-Jambe.html&quot; title=&quot;croc-en-jambe&quot;&gt;croc-en-jambe&lt;/a&gt; impossible)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Science-De-Linitiative.html&quot; title=&quot;Science de l&amp;#39;initiative&quot;&gt;Science de l&#39;initiative&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; +10, &lt;a class=&quot;pagelink&quot; href=&quot;&#201;vasion.html&quot; title=&quot;&#201;vasion&quot;&gt;&#201;vasion&lt;/a&gt; +10, &lt;a class=&quot;pagelink&quot; href=&quot;Natation.html&quot; title=&quot;Natation&quot;&gt;Natation&lt;/a&gt; +9, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +4 ; &lt;b&gt;Modificateurs raciaux&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;&#201;vasion.html&quot; title=&quot;&#201;vasion&quot;&gt;&#201;vasion&lt;/a&gt; +8
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; eau douce avec un climat chaud
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation sociale&lt;/b&gt; solitaire
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; aucun
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Particularit&#233;s&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;&#201;lectricit&#233; (Ext)&lt;/b&gt; Une anguille &#233;lectrique peut produire une puissante d&#233;charge &#233;lectrique qu&#39;elle inflige via sa queue en effectuant une attaque de contact. En cas de &lt;a class=&quot;pagelink&quot; href=&quot;Actions-Simples.html#COUPCRITIQUE&quot; title=&quot;coup critique&quot;&gt;coup critique&lt;/a&gt;, la victime doit r&#233;ussir un  jet de &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;Vigueur&quot;&gt;Vigueur&lt;/a&gt; de &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DEGREDEDIFFICULTE&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; 15 pour ne pas &#234;tre &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables.html#&#201;tourdi&quot; title=&quot;&#201;tourdi&quot;&gt;&#233;tourdie&lt;/a&gt; pendant 1d4 rounds. Le &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DEGREDEDIFFICULTE&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; d&#233;pend de la &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#CONSTITUTION&quot; title=&quot;La Constitution&quot;&gt;Constitution&lt;/a&gt;.
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;td&gt;&lt;div&gt;&lt;i&gt;Ce poisson serpentin de 1,80 m&#232;tre de long se d&#233;place lentement. Son corps &#233;met de temps en temps d’&#233;tranges cr&#233;pitements.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;L’anguille &#233;lectrique est un poisson &#233;trange qui respire de l’air
+plut&#244;t que de l’eau. Mais sa capacit&#233; la plus &#233;tonnante est sans doute
+celle qui lui permet de cr&#233;er de puissantes d&#233;charges d’&#233;lectricit&#233;.
+Une anguille &#233;lectrique mesure 1,80 m&#232;tre et p&#232;se 22,5 kg.&lt;br /&gt;&lt;br /&gt;
+&lt;h3 class=&quot;separator&quot;&gt;L&#39;anguille &#233;lectrique comme compagnon animal&lt;a class=&quot;headeranchor&quot; id=&quot;Languille_&#233;lectrique_comme_compagnon_animal_0&quot; href=&quot;#Languille_&#233;lectrique_comme_compagnon_animal_0&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;
+&lt;b&gt;Caract&#233;ristiques de d&#233;part.&lt;/b&gt; &lt;b&gt;Taille&lt;/b&gt; P ; &lt;b&gt;Vitesse&lt;/b&gt; 1,50 m (1 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), nage 9 m (6 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) ; &lt;b&gt;Attaque&lt;/b&gt; morsure (1d6) ; &lt;b&gt;Caract&#233;ristiques&lt;/b&gt; For 12, Dex 14, Con 18, Int 1, Sag 10, Cha 6 ; &lt;b&gt;Particularit&#233;s&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Amphibie-(Capacit&#233;).html&quot; title=&quot;Amphibie&quot;&gt;amphibie&lt;/a&gt;, r&#233;sistance &#224; l&#39;&#233;lectricit&#233; 5, &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Nocturne-(Capacit&#233;).html&quot; title=&quot;vision nocturne&quot;&gt;vision nocturne&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;&#201;volution au niveau 4.&lt;/b&gt; &lt;b&gt;CA&lt;/b&gt; armure naturelle +2 ; &lt;b&gt;Caract&#233;ristiques&lt;/b&gt; Dex +2, Con +2 ; &lt;b&gt;Particularit&#233;s&lt;/b&gt; &#233;lectricit&#233; (1d6), r&#233;sistance &#224; l&#39;&#233;lectricit&#233; 10.&lt;br /&gt;&lt;br /&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Anguille électrique|FP 2}
+{s:pucem|Animal|Aquatique|Tropical}
+{s:BDTexte|''Source : Bestiaire p.16''}
+{s:BDTexte|'''PX''' 600}
+{s:BDTexte|[[type Animal|Animal]] de taille P, N}
+{s:BDTexte|'''Init''' +6 ; '''Sens''' [[vision nocturne]] ; [[Perception]] +4}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 15, contact 13, pris au dépourvu 13 (Dex +2, naturelle +2, taille +1)}
+{s:BDTexte|'''pv''' 17 (2d8+8)}
+{s:BDTexte|'''Réf''' +5, '''Vig''' +7, '''Vol''' +0}
+{s:BDTexte|'''Résistances''' électricité 10 }
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 1,50 m (1 {s:c}), nage 9 m (6 {s:c})}
+{s:BDTexte|'''Corps à corps''' morsure +3 (1d6+1) et queue, -2 (contact, 1d6 électricité)}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 13, '''Dex''' 14, '''Con''' 19, '''Int''' 1, '''Sag''' 10, '''Cha''' 6}
+{s:BDTexte|'''BBA''' +1, '''BMO''' +1, '''DMD''' 13 ([[croc-en-jambe]] impossible)}
+{s:BDTexte|'''Dons''' [[Science de linitiative|Science de l'initiative]]}
+{s:BDTexte|'''Compétences''' [[Discrétion]] +10, [[Évasion]] +10, [[Natation]] +9, [[Perception]] +4 ; '''Modificateurs raciaux''' [[Évasion]] +8}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' eau douce avec un climat chaud}
+{s:BDTexte|'''Organisation sociale''' solitaire}
+{s:BDTexte|'''Trésor''' aucun}
+{s:BDSousTitre|Particularités}
+{s:BDTexte|'''Électricité (Ext)''' Une anguille électrique peut produire une puissante décharge électrique qu'elle inflige via sa queue en effectuant une attaque de contact. En cas de [[coup critique]], la victime doit réussir un  jet de [[Vigueur]] de [[DD]] 15 pour ne pas être [[étourdi|étourdie]] pendant 1d4 rounds. Le [[DD]] dépend de la [[Constitution]].}
+</div>
+</td><td><div>''Ce poisson serpentin de 1,80 mètre de long se déplace lentement. Son corps émet de temps en temps d’étranges crépitements.''
+
+L’anguille électrique est un poisson étrange qui respire de l’air
+plutôt que de l’eau. Mais sa capacité la plus étonnante est sans doute
+celle qui lui permet de créer de puissantes décharges d’électricité.
+Une anguille électrique mesure 1,80 mètre et pèse 22,5 kg.
+
+
+====L'anguille électrique comme compagnon animal====
+
+'''Caractéristiques de départ.''' '''Taille''' P ; '''Vitesse''' 1,50 m (1 {s:c}), nage 9 m (6 {s:c}) ; '''Attaque''' morsure (1d6) ; '''Caractéristiques''' For 12, Dex 14, Con 18, Int 1, Sag 10, Cha 6 ; '''Particularités''' [[amphibie]], résistance à l'électricité 5, [[vision nocturne]].
+
+'''Évolution au niveau 4.''' '''CA''' armure naturelle +2 ; '''Caractéristiques''' Dex +2, Con +2 ; '''Particularités''' électricité (1d6), résistance à l'électricité 10.
+
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Anguille électrique</fullName>
+</wikiPage>

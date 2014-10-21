@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Vautour</title>
+  <categories></categories>
+  <lastModified>2013-09-08 08:08:30Z</lastModified>
+  <version>1</version>
+  <inLinks><link>Pathfinder-RPG.Glossaire des monstres</link><link>Pathfinder-RPG.Liste de monstres par FP</link><link>Pathfinder-RPG.Liste de monstres par milieu naturel</link><link>Pathfinder-RPG.Liste de monstres par type</link><link>Pathfinder-RPG.Monstres</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.type Animal</link><link>Pathfinder-RPG.vision nocturne</link><link>Pathfinder-RPG.Odorat (capacité)</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Maladies</link><link>Pathfinder-RPG.Vigueur surhumaine</link><link>Pathfinder-RPG.Vol</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Vautour&lt;div style=&quot;float:right;&quot;&gt;FP 1/2&lt;/div&gt;&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Bestiaire 3, p.276&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 200
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Animal.html&quot; title=&quot;Animal&quot;&gt;Animal&lt;/a&gt; de taille P, N
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +1 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Nocturne-(Capacit&#233;).html&quot; title=&quot;vision nocturne&quot;&gt;vision nocturne&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Odorat-(Capacit&#233;).html&quot; title=&quot;Odorat (Ext)&quot;&gt;odorat&lt;/a&gt; ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +9
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 13, contact 12, pris au d&#233;pourvu 12 (Dex +1, naturelle +1, taille +1)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 6 (1d8+2)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +3, &lt;b&gt;Vig&lt;/b&gt; +6, &lt;b&gt;Vol&lt;/b&gt; +1 ; +4 contre les &lt;a class=&quot;pagelink&quot; href=&quot;Maladies.html&quot; title=&quot;Les maladies&quot;&gt;maladies&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 3 m (2 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), vol 15 m (10 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) (moyenne)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; morsure, +2 (1d6+1)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 12, &lt;b&gt;Dex&lt;/b&gt; 13, &lt;b&gt;Con&lt;/b&gt; 14, &lt;b&gt;Int&lt;/b&gt; 2, &lt;b&gt;Sag&lt;/b&gt; 13, &lt;b&gt;Cha&lt;/b&gt; 7
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +0, &lt;b&gt;BMO&lt;/b&gt; +0, &lt;b&gt;DMD&lt;/b&gt; 11
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vigueur-Surhumaine.html&quot; title=&quot;Vigueur surhumaine&quot;&gt;Vigueur surhumaine&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +9, &lt;a class=&quot;pagelink&quot; href=&quot;Vol.html&quot; title=&quot;Vol&quot;&gt;Vol&lt;/a&gt; +7
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Modificateur racial&lt;/b&gt; +8 en &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; collines ou plaines chaudes
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation sociale&lt;/b&gt; solitaire, couple ou vol&#233;e (3-24)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; aucun
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;td&gt;&lt;div&gt;&lt;i&gt;Ce vautour aux plumes fonc&#233;es a la t&#234;te et le cou nus. Son long bec crochu est couvert de cro&#251;tes de charognes.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Bien qu’apparent&#233;s aux rapaces et autres oiseaux de proie, les vautours se nourrissent essentiellement de charogne qu’ils rep&#232;rent ou sentent depuis les hauteurs. Les vautours ont des serres moins puissantes que celles des autres oiseaux de proie mais leur bec tr&#232;s crochu et tranchant d&#233;chire la chair vivante aussi facilement qu’une &#233;p&#233;e aff&#251;t&#233;e.&lt;br /&gt;&lt;br /&gt;Malgr&#233; leur r&#233;gime surtout compos&#233; de charogne, les vautours pr&#233;f&#232;rent les corps fra&#238;chement morts &#224; la chair faisand&#233;e. Certains chassent m&#234;me les petites cr&#233;atures lorsque la nourriture se fait rare.
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Vautour|FP 1/2}
+{s:pucem|Animal|Plaines|Tropical}
+{s:BDTexte|''Source : Bestiaire 3, p.276''}
+{s:BDTexte|'''PX''' 200}
+{s:BDTexte|[[type Animal|Animal]] de taille P, N}
+{s:BDTexte|'''Init''' +1 ; '''Sens''' [[vision nocturne]], [[odorat (capacité)|odorat]] ; [[Perception]] +9}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 13, contact 12, pris au dépourvu 12 (Dex +1, naturelle +1, taille +1)}
+{s:BDTexte|'''pv''' 6 (1d8+2)}
+{s:BDTexte|'''Réf''' +3, '''Vig''' +6, '''Vol''' +1 ; +4 contre les [[maladies]]}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 3 m (2 {s:c}), vol 15 m (10 {s:c}) (moyenne)}
+{s:BDTexte|'''Corps à corps''' morsure, +2 (1d6+1)}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 12, '''Dex''' 13, '''Con''' 14, '''Int''' 2, '''Sag''' 13, '''Cha''' 7}
+{s:BDTexte|'''BBA''' +0, '''BMO''' +0, '''DMD''' 11}
+{s:BDTexte|'''Dons''' [[Vigueur surhumaine]]}
+{s:BDTexte|'''Compétences''' [[Perception]] +9, [[Vol]] +7}
+{s:BDTexte|'''Modificateur racial''' +8 en [[Perception]]}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' collines ou plaines chaudes}
+{s:BDTexte|'''Organisation sociale''' solitaire, couple ou volée (3-24)}
+{s:BDTexte|'''Trésor''' aucun}
+</div>
+</td><td><div>''Ce vautour aux plumes foncées a la tête et le cou nus. Son long bec crochu est couvert de croûtes de charognes.''
+
+Bien qu’apparentés aux rapaces et autres oiseaux de proie, les vautours se nourrissent essentiellement de charogne qu’ils repèrent ou sentent depuis les hauteurs. Les vautours ont des serres moins puissantes que celles des autres oiseaux de proie mais leur bec très crochu et tranchant déchire la chair vivante aussi facilement qu’une épée affûtée.
+
+Malgré leur régime surtout composé de charogne, les vautours préfèrent les corps fraîchement morts à la chair faisandée. Certains chassent même les petites créatures lorsque la nourriture se fait rare.
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Vautour</fullName>
+</wikiPage>

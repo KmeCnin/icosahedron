@@ -1,0 +1,131 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Globster</title>
+  <categories><category>Pathfinder-RPG.Bestiaire 3</category><category>Pathfinder-RPG.Monstre</category><category>Pathfinder-RPG.Règles officielles</category></categories>
+  <lastModified>2013-10-19 16:41:09Z</lastModified>
+  <version>0</version>
+  <inLinks><link>Pathfinder-RPG.Glossaire des monstres</link><link>Pathfinder-RPG.Liste de monstres par FP</link><link>Pathfinder-RPG.Liste de monstres par milieu naturel</link><link>Pathfinder-RPG.Liste de monstres par type</link><link>Pathfinder-RPG.Monstres</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.type Vase</link><link>Pathfinder-RPG.sous-type aquatique</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Puanteur (capacité)</link><link>Pathfinder-RPG.DD</link><link>Pathfinder-RPG.round</link><link>Pathfinder-RPG.Étreinte (capacité)</link><link>Pathfinder-RPG.Constriction (capacité)</link><link>Pathfinder-RPG.lutte</link><link>Pathfinder-RPG.croc-en-jambe</link><link>Pathfinder-RPG.Natation</link><link>Pathfinder-RPG.Action complexe</link><link>Pathfinder-RPG.attaque dopportunité</link><link>Pathfinder-RPG.Vigueur</link><link>Pathfinder-RPG.Nauséeux</link><link>Pathfinder-RPG.jet de sauvegarde</link><link>Pathfinder-RPG.Constitution</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Globster&lt;div style=&quot;float:right;&quot;&gt;FP 5&lt;/div&gt;&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Bestiaire 3 p. 135&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 1 600 px
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Vase.html&quot; title=&quot;Vase&quot;&gt;Vase&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Aquatique.html&quot; title=&quot;Aquatique (sous-type)&quot;&gt;aquatique&lt;/a&gt;) de taille G, N
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; -5 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; -5
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Aura&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Puanteur-(Capacit&#233;).html&quot; title=&quot;Puanteur (Ext)&quot;&gt;puanteur&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DEGREDEDIFFICULTE&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; 18, 10 &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#ROUND&quot; title=&quot;round&quot;&gt;rounds&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 16, contact 4, pris au d&#233;pourvu 16 (Dex -5, naturelle +12, taille -1)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 57 (6d8+30)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; -3, &lt;b&gt;Vig&lt;/b&gt; +7, &lt;b&gt;Vol&lt;/b&gt; -3
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;&#39;Immunit&#233;&lt;/b&gt; acide, d&#233;g&#226;ts contondants et perforants, &lt;a class=&quot;pagelink&quot; href=&quot;Type-Vase.html&quot; title=&quot;Vase&quot;&gt;traits des vases&lt;/a&gt; ; &lt;b&gt;R&#233;sistance&lt;/b&gt; &#233;lectricit&#233; 10, froid 10
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 6 m (4 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), nage 12 m (8 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; coup, +9 (2d6+9 plus &lt;a class=&quot;pagelink&quot; href=&quot;&#201;treinte-(Capacit&#233;).html&quot; title=&quot;&#201;treinte (Ext)&quot;&gt;&#233;treinte&lt;/a&gt; et naus&#233;es)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Espace occup&#233;&lt;/b&gt; 3 m (2 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) ; &lt;b&gt;Allonge&lt;/b&gt; 1,50 m (1 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaques sp&#233;ciales&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Constriction-(Capacit&#233;).html&quot; title=&quot;Constriction (Ext)&quot;&gt;constriction&lt;/a&gt; (2d6+9), cr&#233;ation de rejetons
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 16, &lt;b&gt;Dex&lt;/b&gt; 1, &lt;b&gt;Con&lt;/b&gt; 20, &lt;b&gt;Int&lt;/b&gt; -, &lt;b&gt;Sag&lt;/b&gt; 1, &lt;b&gt;Cha&lt;/b&gt; 1
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +4, &lt;b&gt;BMO&lt;/b&gt; +11 (+15 &lt;a class=&quot;pagelink&quot; href=&quot;Manœuvres-Offensives.html#LUTTE&quot; title=&quot;lutte&quot;&gt;lutte&lt;/a&gt;), &lt;b&gt;DMD&lt;/b&gt; 16 (&lt;a class=&quot;pagelink&quot; href=&quot;Croc-En-Jambe.html&quot; title=&quot;croc-en-jambe&quot;&gt;croc-en-jambe&lt;/a&gt; impossible
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Natation.html&quot; title=&quot;Natation&quot;&gt;Natation&lt;/a&gt; +14
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Particularit&#233;s&lt;/b&gt; besoin d’eau, d&#233;composition
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; littoraux et oc&#233;ans
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation sociale&lt;/b&gt; solitaire, couple ou &#233;chouage (3-8)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; aucun
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Pouvoirs sp&#233;ciaux&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Cr&#233;ation de rejetons (Ext).&lt;/b&gt; Lorsqu’un globster d&#233;vore une cr&#233;ature vivante, il ne dig&#232;re qu’une petite partie des restes. Les vestiges non-dig&#233;r&#233;s s’accumulant &#224; l’int&#233;rieur du globster, celui-ci gonfle de plus en plus. Par une &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions.html#COMPLEXE&quot; title=&quot;Action complexe&quot;&gt;action complexe&lt;/a&gt; qui ne provoque pas d’&lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#ATTAQUEDOPPORTUNITE&quot; title=&quot;attaque d&amp;#39;opportunit&#233;&quot;&gt;attaque d’opportunit&#233;&lt;/a&gt;, le globster peut r&#233;gurgiter ces restes f&#233;tides avec une partie de sa propre masse : cela lui inflige 1d6 points de d&#233;g&#226;ts mais g&#233;n&#232;re un nouveau globster adulte qui attaque aussit&#244;t la cible non-globster la plus proche. Le globster peut cr&#233;er des rejetons une fois par jour, mais seulement apr&#232;s s’&#234;tre nourri d’au moins quatre cr&#233;atures de taille M (ou d’un nombre &#233;quivalent de cr&#233;atures d’autres tailles).
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;D&#233;composition (Ext).&lt;/b&gt; Lorsque le globster est tu&#233;, son corps se d&#233;compose en une masse visqueuse en l’espace de 24 heures. N&#233;anmoins, son cadavre ne perd rien de son &lt;a class=&quot;pagelink&quot; href=&quot;Puanteur-(Capacit&#233;).html&quot; title=&quot;Puanteur (Ext)&quot;&gt;aura de puanteur&lt;/a&gt; qui persiste 1d10 jours apr&#232;s sa mort.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Naus&#233;es (Ext).&lt;/b&gt; Toutes les cr&#233;atures touch&#233;es par un globster doivent r&#233;ussir un jet de &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;Vigueur&quot;&gt;Vigueur&lt;/a&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DEGREDEDIFFICULTE&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; 18 pour &#233;viter d’&#234;tre &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables.html#Naus&#233;eux&quot; title=&quot;Naus&#233;eux&quot;&gt;naus&#233;euses&lt;/a&gt; pendant 1 &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#ROUND&quot; title=&quot;round&quot;&gt;round&lt;/a&gt;. Une fois que la cr&#233;ature a r&#233;ussi son jet, elle est immunis&#233;e contre les autres effets de naus&#233;es de ce globster pour une dur&#233;e de 24 heures. Il s’agit d’un effet de poison. Le &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DEGREDEDIFFICULTE&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; du &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;jet de sauvegarde&quot;&gt;jet de sauvegarde&lt;/a&gt; est bas&#233; sur la &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#CONSTITUTION&quot; title=&quot;La Constitution&quot;&gt;Constitution&lt;/a&gt;.
+&lt;/div&gt;&lt;br /&gt;&lt;/div&gt;
+&lt;/td&gt;&lt;td&gt;&lt;div&gt;
+&lt;i&gt;Cette masse grotesque de graisse et de chair rance s’amoncelle affreusement sur elle-m&#234;me et ouvre une &#233;norme gueule pleine de dents.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Le globster est un assemblage vivant de parties &#224; moiti&#233; dig&#233;r&#233;es de grandes cr&#233;atures de la mer telles que les baleines et les calmars. Ceux qui passent non loin d’un globster remarquent g&#233;n&#233;ralement l’odeur de la cr&#233;ature bien avant de la voir. Beaucoup de malheureux tomb&#233;s sur un globster ont confondu la b&#234;te avec une carcasse &#233;chou&#233;e d’animal marin et s’en sont rapproch&#233;s pour d&#233;couvrir trop tard que la cr&#233;ature apparemment morte &#233;tait bien vivante. &#192; une &#233;poque, les sages ont cru que les globsters &#233;taient des morts-vivants, qu’ils n’&#233;taient qu’une masse ondulante de chair en d&#233;composition anim&#233;e par le besoin de se nourrir. Mais ce sont des cr&#233;atures tout &#224; fait vivantes. &lt;br /&gt;&lt;br /&gt;Les globsters s’&#233;chouent g&#233;n&#233;ralement sur la plage ou se laissent porter jusqu’au rivage pour se nourrir sur les r&#233;serves terrestres pendant quelques heures, avant de retourner &#224; la s&#233;curit&#233; de la mer. Certains racontent que c’est &#224; cause des mar&#233;es et des phases de la lune que les globster viennent sur la terre ferme pour se nourrir. Les globsters se reproduisent en m&#233;langeant des parties de leur corps immonde avec les restes &#224; peine dig&#233;r&#233;s de leurs repas.
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Globster|FP 5}
+{s:pucem|Vase|Aquatique|Tempéré}
+{s:BDTexte|''Source : Bestiaire 3 p. 135''}
+{s:BDTexte|'''PX''' 1 600 px}
+{s:BDTexte|[[type Vase|Vase]] ([[sous-type aquatique|aquatique]]) de taille G, N}
+{s:BDTexte|'''Init''' -5 ; '''Sens''' [[Perception]] -5}
+{s:BDTexte|'''Aura''' [[puanteur (capacité)|puanteur]] ([[DD]] 18, 10 [[round|rounds]]}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 16, contact 4, pris au dépourvu 16 (Dex -5, naturelle +12, taille -1)}
+{s:BDTexte|'''pv''' 57 (6d8+30)}
+{s:BDTexte|'''Réf''' -3, '''Vig''' +7, '''Vol''' -3}
+{s:BDTexte|''''Immunité''' acide, dégâts contondants et perforants, [[type vase|traits des vases]] ; '''Résistance''' électricité 10, froid 10}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 6 m (4 {s:c}), nage 12 m (8 {s:c})}
+{s:BDTexte|'''Corps à corps''' coup, +9 (2d6+9 plus [[étreinte (capacité)|étreinte]] et nausées)}
+{s:BDTexte|'''Espace occupé''' 3 m (2 {s:c}) ; '''Allonge''' 1,50 m (1 {s:c})}
+{s:BDTexte|'''Attaques spéciales''' [[constriction (capacité)|constriction]] (2d6+9), création de rejetons}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 16, '''Dex''' 1, '''Con''' 20, '''Int''' -, '''Sag''' 1, '''Cha''' 1}
+{s:BDTexte|'''BBA''' +4, '''BMO''' +11 (+15 [[lutte]]), '''DMD''' 16 ([[croc-en-jambe]] impossible}
+{s:BDTexte|'''Compétences''' [[Natation]] +14}
+{s:BDTexte|'''Particularités''' besoin d’eau, décomposition}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' littoraux et océans}
+{s:BDTexte|'''Organisation sociale''' solitaire, couple ou échouage (3-8)}
+{s:BDTexte|'''Trésor''' aucun}
+{s:BDSousTitre|Pouvoirs spéciaux}
+{s:BDTexte|'''Création de rejetons (Ext).''' Lorsqu’un globster dévore une créature vivante, il ne digère qu’une petite partie des restes. Les vestiges non-digérés s’accumulant à l’intérieur du globster, celui-ci gonfle de plus en plus. Par une [[action complexe]] qui ne provoque pas d’[[attaque dopportunité|attaque d’opportunité]], le globster peut régurgiter ces restes fétides avec une partie de sa propre masse : cela lui inflige 1d6 points de dégâts mais génère un nouveau globster adulte qui attaque aussitôt la cible non-globster la plus proche. Le globster peut créer des rejetons une fois par jour, mais seulement après s’être nourri d’au moins quatre créatures de taille M (ou d’un nombre équivalent de créatures d’autres tailles).}
+{s:BDTexte|'''Décomposition (Ext).''' Lorsque le globster est tué, son corps se décompose en une masse visqueuse en l’espace de 24 heures. Néanmoins, son cadavre ne perd rien de son [[puanteur (capacité)|aura de puanteur]] qui persiste 1d10 jours après sa mort.}
+{s:BDTexte|'''Nausées (Ext).''' Toutes les créatures touchées par un globster doivent réussir un jet de [[Vigueur]] [[DD]] 18 pour éviter d’être [[nauséeux|nauséeuses]] pendant 1 [[round]]. Une fois que la créature a réussi son jet, elle est immunisée contre les autres effets de nausées de ce globster pour une durée de 24 heures. Il s’agit d’un effet de poison. Le [[DD]] du [[jet de sauvegarde]] est basé sur la [[Constitution]].}
+
+</div>
+</td><td><div>
+''Cette masse grotesque de graisse et de chair rance s’amoncelle affreusement sur elle-même et ouvre une énorme gueule pleine de dents.''
+
+Le globster est un assemblage vivant de parties à moitié digérées de grandes créatures de la mer telles que les baleines et les calmars. Ceux qui passent non loin d’un globster remarquent généralement l’odeur de la créature bien avant de la voir. Beaucoup de malheureux tombés sur un globster ont confondu la bête avec une carcasse échouée d’animal marin et s’en sont rapprochés pour découvrir trop tard que la créature apparemment morte était bien vivante. À une époque, les sages ont cru que les globsters étaient des morts-vivants, qu’ils n’étaient qu’une masse ondulante de chair en décomposition animée par le besoin de se nourrir. Mais ce sont des créatures tout à fait vivantes. 
+
+Les globsters s’échouent généralement sur la plage ou se laissent porter jusqu’au rivage pour se nourrir sur les réserves terrestres pendant quelques heures, avant de retourner à la sécurité de la mer. Certains racontent que c’est à cause des marées et des phases de la lune que les globster viennent sur la terre ferme pour se nourrir. Les globsters se reproduisent en mélangeant des parties de leur corps immonde avec les restes à peine digérés de leurs repas.
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Globster</fullName>
+</wikiPage>

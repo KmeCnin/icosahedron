@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Objet fantomique majeur</title>
+  <categories><category>Pathfinder-RPG.Manuel des races</category><category>Pathfinder-RPG.Sort</category><category>Pathfinder-RPG.Sort magicien 5</category></categories>
+  <lastModified>2014-09-10 22:55:26Z</lastModified>
+  <version>3</version>
+  <inLinks><link>Pathfinder-RPG.Gnome</link><link>Pathfinder-RPG.Temp-manuel-des-races</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Gnome</link><link>Pathfinder-RPG.Illusion</link><link>Pathfinder-RPG.Présentation des sorts</link><link>Pathfinder-RPG.effet mental</link><link>Pathfinder-RPG.Ensorceleur</link><link>Pathfinder-RPG.Magicien</link><link>Pathfinder-RPG.niveau</link><link>Pathfinder-RPG.Volonté</link><link>Pathfinder-RPG.Création majeure</link><link>Pathfinder-RPG.Art de la magie</link><link>Pathfinder-RPG.Artisanat</link></outLinks>
+  <body><![CDATA[&lt;b&gt;Ce sort est r&#233;serv&#233; aux personnages de la race &lt;a class=&quot;pagelink&quot; href=&quot;Gnome.html&quot; title=&quot;Les gnomes&quot;&gt;gnome&lt;/a&gt;.&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;&lt;b&gt;&#201;cole&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#ILLUSION&quot; title=&quot;Illusion&quot;&gt;Illusion&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#CHIMERE&quot; title=&quot;Pr&#233;sentation des sorts&quot;&gt;chim&#232;re&lt;/a&gt;) [&lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#REGISTRE&quot; title=&quot;effet mental&quot;&gt;effet mental&lt;/a&gt;]; 
+&lt;b&gt;Niveau&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Ensorceleur.html&quot; title=&quot;L&amp;#39;ensorceleur&quot;&gt;Ensorceleur&lt;/a&gt;/&lt;a class=&quot;pagelink&quot; href=&quot;Magicien.html&quot; title=&quot;Le magicien&quot;&gt;magicien&lt;/a&gt; 5&lt;br/&gt;
+&lt;b&gt;Temps d&#39;incantation&lt;/b&gt; 10 minutes&lt;br/&gt;
+&lt;b&gt;Port&#233;e&lt;/b&gt; courte (7,5 m + 1,5 m/2 &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#NIVEAU&quot; title=&quot;niveau&quot;&gt;niveau&lt;/a&gt;) (5 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt; + 1 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;/2 &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#NIVEAU&quot; title=&quot;niveau&quot;&gt;niveau&lt;/a&gt;)&lt;br/&gt;
+&lt;b&gt;Effet&lt;/b&gt; un objet fantomatique non magique abandonn&#233;, d’un maximum de 0,03 m3/&lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#NIVEAU&quot; title=&quot;niveau&quot;&gt;niveau&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Dur&#233;e&lt;/b&gt; 10 minutes/&lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#NIVEAU&quot; title=&quot;niveau&quot;&gt;niveau&lt;/a&gt; (D)&lt;br/&gt;
+&lt;b&gt;Jet de sauvegarde&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;Volont&#233;&quot;&gt;Volont&#233;&lt;/a&gt; pour annuler ; &lt;b&gt;R&#233;sistance &#224; la magie&lt;/b&gt; oui&lt;br /&gt;&lt;br /&gt;Ce sort fonctionne comme &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;ation-Majeure.html&quot; title=&quot;Cr&#233;ation majeure&quot;&gt;cr&#233;ation majeure&lt;/a&gt;&lt;/i&gt;, en dehors de ce qui est not&#233; plus haut, et cr&#233;e seulement un objet semi-r&#233;el. Si une cr&#233;ature interagit avec, elle a droit &#224; un jet de &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;Volont&#233;&quot;&gt;Volont&#233;&lt;/a&gt; pour faire dispara&#238;tre l’objet. Un gnome qui lance ce sort peut faire un test d’&lt;a class=&quot;pagelink&quot; href=&quot;Art-De-La-Magie.html&quot; title=&quot;Art de la magie&quot;&gt;Art de la magie&lt;/a&gt; au lieu d’un test d’&lt;a class=&quot;pagelink&quot; href=&quot;Artisanat.html&quot; title=&quot;Artisanat&quot;&gt;Artisanat&lt;/a&gt; pour fabriquer un objet complexe.
+]]></body>
+  <raw><![CDATA[{s:MR}'''Ce sort est réservé aux personnages de la race [[gnome]].'''
+
+'''École''' [[Illusion]] ([[Présentation des sorts#CHIMERE|chimère]]) <nowiki>[</nowiki>[[effet mental]]<nowiki>]</nowiki>; 
+'''Niveau''' [[Ensorceleur]]/[[magicien]] 5<br/>
+'''Temps d'incantation''' 10 minutes<br/>
+'''Portée''' courte (7,5 m + 1,5 m/2 [[niveau]]) (5 {s:c} + 1 {s:c}/2 [[niveau]])<br/>
+'''Effet''' un objet fantomatique non magique abandonné, d’un maximum de 0,03 m3/[[niveau]]<br/>
+'''Durée''' 10 minutes/[[niveau]] (D)<br/>
+'''Jet de sauvegarde''' [[Volonté]] pour annuler ; '''Résistance à la magie''' oui
+
+Ce sort fonctionne comme ''[[création majeure]]'', en dehors de ce qui est noté plus haut, et crée seulement un objet semi-réel. Si une créature interagit avec, elle a droit à un jet de [[Volonté]] pour faire disparaître l’objet. Un gnome qui lance ce sort peut faire un test d’[[Art de la magie]] au lieu d’un test d’[[Artisanat]] pour fabriquer un objet complexe.]]></raw>
+  <fullName>Pathfinder-RPG.objet fantomique majeur</fullName>
+</wikiPage>

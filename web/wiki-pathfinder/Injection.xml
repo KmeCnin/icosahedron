@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Injection</title>
+  <categories><category>Pathfinder-RPG.Art de la guerre</category><category>Pathfinder-RPG.Règles officielles</category><category>Pathfinder-RPG.Sort</category><category>Pathfinder-RPG.Sort alchimiste 2</category><category>Pathfinder-RPG.Sort magicien 3</category></categories>
+  <lastModified>2013-09-17 15:12:06Z</lastModified>
+  <version>3</version>
+  <inLinks><link>Pathfinder-RPG.Glossaire des sorts</link><link>Pathfinder-RPG.Liste des formules dalchimiste</link><link>Pathfinder-RPG.Liste des sorts (suite)</link><link>Pathfinder-RPG.Liste des sorts densorceleursmagiciens</link><link>Pathfinder-RPG.Listes de sorts par classe</link><link>Pathfinder-RPG.Sorts temporaires-AdG</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Transmutation</link><link>Pathfinder-RPG.Alchimiste</link><link>Pathfinder-RPG.Ensorceleur</link><link>Pathfinder-RPG.Magicien</link><link>Pathfinder-RPG.Action simple</link><link>Pathfinder-RPG.composantes</link><link>Pathfinder-RPG.niveau</link></outLinks>
+  <body><![CDATA[
+&lt;b&gt;&#201;cole&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#TRANSMUTATION&quot; title=&quot;Transmutation&quot;&gt;transmutation&lt;/a&gt; ; &lt;b&gt;Niveau&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Alchimiste.html&quot; title=&quot;L&amp;#39;alchimiste&quot;&gt;alchimiste&lt;/a&gt; 2, &lt;a class=&quot;pagelink&quot; href=&quot;Ensorceleur.html&quot; title=&quot;L&amp;#39;ensorceleur&quot;&gt;ensorceleur&lt;/a&gt;/&lt;a class=&quot;pagelink&quot; href=&quot;Magicien.html&quot; title=&quot;Le magicien&quot;&gt;magicien&lt;/a&gt; 3&lt;br/&gt;
+&lt;b&gt;Temps d’incantation&lt;/b&gt; 1 &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions.html#SIMPLE&quot; title=&quot;Action simple&quot;&gt;action simple&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Composantes&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#COMPOSANTES&quot; title=&quot;composantes&quot;&gt;V, G&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Port&#233;e&lt;/b&gt; personnelle&lt;br/&gt;
+&lt;b&gt;Cible&lt;/b&gt; le jeteur de sorts&lt;br/&gt;
+&lt;b&gt;Dur&#233;e&lt;/b&gt; 1 heure/&lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#NIVEAU&quot; title=&quot;niveau&quot;&gt;niveau&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Jet de sauvegarde&lt;/b&gt; non ; &lt;b&gt;R&#233;sistance &#224; la magie&lt;/b&gt; non&lt;br /&gt;&lt;br /&gt;Le personnage doit tenir un &#233;lixir, un extrait, un poison ou une potion en main quand il lance le sort. La substance passe alors de son r&#233;cipient &#224; un sac magique qui se forme dans le corps du personnage. Tant que le sort fait effet, il peut transmettre la substance d’un simple contact. S’il touche, la substance agit imm&#233;diatement, m&#234;me si elle devrait attendre une p&#233;riode d’incubation, et l’adversaire a droit &#224; un jet de sauvegarde contre la substance (si elle l’autorise).&lt;br /&gt;&lt;br /&gt;Le sort prot&#232;ge le personnage contre le poison contenu dans le sac corporel mais, s’il ne poss&#232;de pas le pouvoir de classe utilisation des poisons, il a 5% de chances de s’exposer &#224; ses effets quand il lance le sort. S’il fait un 1 naturel quand il tente d’injecter le poison &#224; un adversaire, il s’expose &#224; ses effets.
+]]></body>
+  <raw><![CDATA[{s:UC}
+'''École''' [[transmutation]] ; '''Niveau''' [[alchimiste]] 2, [[ensorceleur]]/[[magicien]] 3<br/>
+'''Temps d’incantation''' 1 [[action simple]]<br/>
+'''Composantes''' [[Composantes|V, G]]<br/>
+'''Portée''' personnelle<br/>
+'''Cible''' le jeteur de sorts<br/>
+'''Durée''' 1 heure/[[niveau]]<br/>
+'''Jet de sauvegarde''' non ; '''Résistance à la magie''' non
+
+Le personnage doit tenir un élixir, un extrait, un poison ou une potion en main quand il lance le sort. La substance passe alors de son récipient à un sac magique qui se forme dans le corps du personnage. Tant que le sort fait effet, il peut transmettre la substance d’un simple contact. S’il touche, la substance agit immédiatement, même si elle devrait attendre une période d’incubation, et l’adversaire a droit à un jet de sauvegarde contre la substance (si elle l’autorise).
+
+Le sort protège le personnage contre le poison contenu dans le sac corporel mais, s’il ne possède pas le pouvoir de classe utilisation des poisons, il a 5% de chances de s’exposer à ses effets quand il lance le sort. S’il fait un 1 naturel quand il tente d’injecter le poison à un adversaire, il s’expose à ses effets.]]></raw>
+  <fullName>Pathfinder-RPG.Injection</fullName>
+</wikiPage>

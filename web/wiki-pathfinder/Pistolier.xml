@@ -1,0 +1,278 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Pistolier</title>
+  <categories><category>Pathfinder-RPG.Art de la guerre</category><category>Pathfinder-RPG.Classe</category></categories>
+  <lastModified>2013-10-31 15:43:50Z</lastModified>
+  <version>9</version>
+  <inLinks><link>Pathfinder-RPG.Actes téméraires</link><link>Pathfinder-RPG.Anonyme</link><link>Pathfinder-RPG.Argent et richesse</link><link>Pathfinder-RPG.Armes à feu</link><link>Pathfinder-RPG.Armure-pistolet (pistolier)</link><link>Pathfinder-RPG.Audace supplémentaire</link><link>Pathfinder-RPG.Chasseur de trophées (rôdeur)</link><link>Pathfinder-RPG.Classes</link><link>Pathfinder-RPG.Création darmes à feu</link><link>Pathfinder-RPG.Demi-elfe</link><link>Pathfinder-RPG.Demi-orque</link><link>Pathfinder-RPG.Dons</link><link>Pathfinder-RPG.dons daudace</link><link>Pathfinder-RPG.dons-temporaires</link><link>Pathfinder-RPG.Elfe</link><link>Pathfinder-RPG.Étranger blafard</link><link>Pathfinder-RPG.Exploit de la cachette secrète</link><link>Pathfinder-RPG.Exploit du tir par ricochet</link><link>Pathfinder-RPG.Exploit du tireur habile</link><link>Pathfinder-RPG.Exploit signé</link><link>Pathfinder-RPG.exploits</link><link>Pathfinder-RPG.Fabricant de pistolets expérimentaux (pistolier)</link><link>Pathfinder-RPG.FAQ Règles</link><link>Pathfinder-RPG.Gnome</link><link>Pathfinder-RPG.Halfelin</link><link>Pathfinder-RPG.Humain</link><link>Pathfinder-RPG.MainPage</link><link>Pathfinder-RPG.Maître du mousquet (pistolier)</link><link>Pathfinder-RPG.Mousquetaire (chevalier)</link><link>Pathfinder-RPG.Mystérieux voyageur (pistolier)</link><link>Pathfinder-RPG.Nain</link><link>Pathfinder-RPG.page de travail des dons</link><link>Pathfinder-RPG.Pistolero (pistolier)</link><link>Pathfinder-RPG.Pistolier</link><link>Pathfinder-RPG.Pistolier amateur</link><link>Pathfinder-RPG.Saint pistolet (paladin)</link><link>Pathfinder-RPG.Sortiléro (magicien)</link><link>Pathfinder-RPG.Tableau récapitulatif des dons</link><link>Pathfinder-RPG.tableau récapitulatif des dons (art de la guerre)</link><link>Pathfinder-RPG.temp-MainPage</link><link>Pathfinder-RPG.Tir en plein saut</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.exploits</link><link>Pathfinder-RPG.Pistolier</link><link>Pathfinder-RPG.Armure-pistolet (pistolier)</link><link>Pathfinder-RPG.Maître du mousquet (pistolier)</link><link>Pathfinder-RPG.Mystérieux voyageur (pistolier)</link><link>Pathfinder-RPG.Pistolero (pistolier)</link><link>Pathfinder-RPG.Acrobaties</link><link>Pathfinder-RPG.Artisanat</link><link>Pathfinder-RPG.Bluff</link><link>Pathfinder-RPG.Connaissances</link><link>Pathfinder-RPG.Dressage</link><link>Pathfinder-RPG.Équitation</link><link>Pathfinder-RPG.Escalade</link><link>Pathfinder-RPG.Escamotage</link><link>Pathfinder-RPG.Intimidation</link><link>Pathfinder-RPG.Natation</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Premiers secours</link><link>Pathfinder-RPG.Profession</link><link>Pathfinder-RPG.Survie</link><link>Pathfinder-RPG.Intelligence</link><link>Pathfinder-RPG.armes courantes</link><link>Pathfinder-RPG.armes de guerre</link><link>Pathfinder-RPG.Armes à feu</link><link>Pathfinder-RPG.armure légère</link><link>Pathfinder-RPG.niveau</link><link>Pathfinder-RPG.Description des armes à feu</link><link>Pathfinder-RPG.Brisé</link><link>Pathfinder-RPG.Création darmes à feu</link><link>Pathfinder-RPG.audace</link><link>Pathfinder-RPG.Sagesse</link><link>Pathfinder-RPG.coup critique</link><link>Pathfinder-RPG.Sans défense</link><link>Pathfinder-RPG.DV</link><link>Pathfinder-RPG.CA</link><link>Pathfinder-RPG.Dextérité</link><link>Pathfinder-RPG.don de combat</link><link>Pathfinder-RPG.long feu</link></outLinks>
+  <body><![CDATA[
+&lt;div style=&quot;float:right; padding-left: 4px&quot;&gt;&lt;/div&gt;
+&lt;br /&gt;
+&lt;div class=&quot;fright&quot;&gt;&lt;b&gt;&lt;i&gt;Voir aussi les &lt;a class=&quot;pagelink&quot; href=&quot;Exploits.html&quot; title=&quot;Les exploits de pistolier&quot;&gt;exploits&lt;/a&gt; du pistolier.&lt;/i&gt;&lt;/b&gt; &lt;br/&gt;
+&lt;b&gt;Voir les arch&#233;types du pistolier&lt;/b&gt;&amp;emsp;
+&lt;ul ID=&quot;Pistoliers&quot; CLASS=&quot;listecach&#233;e cadrebas&quot;&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Pistolier.html&quot; title=&quot;Pistolier&quot;&gt;Le Pistolier&lt;/a&gt; (classe de base)(UC)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Armure-Pistolet-(Pistolier).html&quot; title=&quot;Armure-pistolet&quot;&gt;Armure-pistolet&lt;/a&gt; (UC)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Ma&#238;tre-Du-Mousquet-(Pistolier).html&quot; title=&quot;Ma&#238;tre du mousquet&quot;&gt;Ma&#238;tre du mousquet&lt;/a&gt; (UC)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Myst&#233;rieux-Voyageur-(Pistolier).html&quot; title=&quot;Myst&#233;rieux voyageur&quot;&gt;Myst&#233;rieux voyageur&lt;/a&gt; (UC)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Pistolero-(Pistolier).html&quot; title=&quot;Pistolero&quot;&gt;Pistolero&lt;/a&gt; (UC)&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;i&gt;Pour certains rebelles, les batailles ne font pas le m&#234;me bruit que pour un guerrier classique. Le fracas de l’acier et les cr&#233;pitements d’&#233;nergie magiques sont noy&#233;s sous le tonnerre des coups de feu qui sont autant de roulements de tambours pour le pistolier.
+Les pistoliers sont des gens t&#233;m&#233;raires et myst&#233;rieux et beaucoup r&#233;v&#232;rent les secrets de la poudre noire comme un magicien v&#233;n&#232;re son grimoire, mais ils savent aussi que les myst&#232;res des armes &#224; feu ne resteront pas &#233;ternellement un secret. Les armes &#224; feu actuelles sont simples et manquent de pr&#233;cision, ce sont m&#234;me des objets dangereux mais c’est une technologie en pleine &#233;volution qui gagnera en puissance quand elle fusionnera pleinement avec la magie.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;&lt;table width=&quot;100%&quot;&gt;
+&lt;tr&gt;
+&lt;td width=&quot;70%&quot;&gt;
+&lt;center&gt;
+&lt;table CLASS=&quot;tablo&quot;&gt;&lt;caption&gt;Le pistolier&lt;/caption&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td&gt;Niveau&lt;/td&gt;&lt;td&gt;BBA&lt;/td&gt;&lt;td&gt;R&#233;flexes&lt;/td&gt;&lt;td&gt;Vigueur&lt;/td&gt;&lt;td&gt;Volont&#233;&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;Sp&#233;cial&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier&quot;&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;+1&lt;/td&gt;&lt;td&gt;+2&lt;/td&gt;&lt;td&gt;+2&lt;/td&gt;&lt;td&gt;+0&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Pistolier.html#ARMURIER&quot; title=&quot;Pistolier&quot;&gt;Armurier&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Pistolier.html#AUDACE&quot; title=&quot;Pistolier&quot;&gt;audace&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Pistolier.html#EXPLOITS&quot; title=&quot;Pistolier&quot;&gt;exploit&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;+2&lt;/td&gt;&lt;td&gt;+3&lt;/td&gt;&lt;td&gt;+3&lt;/td&gt;&lt;td&gt;+0&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Pistolier.html#D&#201;ROBADE&quot; title=&quot;Pistolier&quot;&gt;D&#233;robade&lt;/a&gt; +1&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;+3&lt;/td&gt;&lt;td&gt;+3&lt;/td&gt;&lt;td&gt;+3&lt;/td&gt;&lt;td&gt;+1&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Pistolier.html#EXPLOITS&quot; title=&quot;Pistolier&quot;&gt;Exploit&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;+4&lt;/td&gt;&lt;td&gt;+4&lt;/td&gt;&lt;td&gt;+4&lt;/td&gt;&lt;td&gt;+1&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Pistolier.html#DONSUPPL&#201;MENTAIRE&quot; title=&quot;Pistolier&quot;&gt;Don suppl&#233;mentaire&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;+5&lt;/td&gt;&lt;td&gt;+4&lt;/td&gt;&lt;td&gt;+4&lt;/td&gt;&lt;td&gt;+1&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Pistolier.html#ENTRA&#206;NEMENTAUXARMES&#192;FEU&quot; title=&quot;Pistolier&quot;&gt;Entra&#238;nement aux armes &#224; feu&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;+6/+1&lt;/td&gt;&lt;td&gt;+5&lt;/td&gt;&lt;td&gt;+5&lt;/td&gt;&lt;td&gt;+2&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Pistolier.html#D&#201;ROBADE&quot; title=&quot;Pistolier&quot;&gt;D&#233;robade&lt;/a&gt; +2&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;7&lt;/td&gt;&lt;td&gt;+7/+2&lt;/td&gt;&lt;td&gt;+5&lt;/td&gt;&lt;td&gt;+5&lt;/td&gt;&lt;td&gt;+2&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Pistolier.html#EXPLOITS&quot; title=&quot;Pistolier&quot;&gt;Exploit&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;8&lt;/td&gt;&lt;td&gt;+8/+3&lt;/td&gt;&lt;td&gt;+6&lt;/td&gt;&lt;td&gt;+6&lt;/td&gt;&lt;td&gt;+2&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Pistolier.html#DONSUPPL&#201;MENTAIRE&quot; title=&quot;Pistolier&quot;&gt;Don suppl&#233;mentaire&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;9&lt;/td&gt;&lt;td&gt;+9/+4&lt;/td&gt;&lt;td&gt;+6&lt;/td&gt;&lt;td&gt;+6&lt;/td&gt;&lt;td&gt;+3&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Pistolier.html#ENTRA&#206;NEMENTAUXARMES&#192;FEU&quot; title=&quot;Pistolier&quot;&gt;Entra&#238;nement aux armes &#224; feu&lt;/a&gt; 2&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;+10/+5&lt;/td&gt;&lt;td&gt;+7&lt;/td&gt;&lt;td&gt;+7&lt;/td&gt;&lt;td&gt;+3&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Pistolier.html#D&#201;ROBADE&quot; title=&quot;Pistolier&quot;&gt;D&#233;robade&lt;/a&gt; +3&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;11&lt;/td&gt;&lt;td&gt;+11/+6/+1&lt;/td&gt;&lt;td&gt;+7&lt;/td&gt;&lt;td&gt;+7&lt;/td&gt;&lt;td&gt;+3&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Pistolier.html#EXPLOITS&quot; title=&quot;Pistolier&quot;&gt;Exploit&lt;/a&gt; &lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;12&lt;/td&gt;&lt;td&gt;+12/+7/+2&lt;/td&gt;&lt;td&gt;+8&lt;/td&gt;&lt;td&gt;+8&lt;/td&gt;&lt;td&gt;+4&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Pistolier.html#DONSUPPL&#201;MENTAIRE&quot; title=&quot;Pistolier&quot;&gt;Don suppl&#233;mentaire&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;13&lt;/td&gt;&lt;td&gt;+13/+8/+3&lt;/td&gt;&lt;td&gt;+8&lt;/td&gt;&lt;td&gt;+8&lt;/td&gt;&lt;td&gt;+4&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Pistolier.html#ENTRA&#206;NEMENTAUXARMES&#192;FEU&quot; title=&quot;Pistolier&quot;&gt;Entra&#238;nement aux armes &#224; feu&lt;/a&gt; 3&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;14&lt;/td&gt;&lt;td&gt;+14/+9/+4&lt;/td&gt;&lt;td&gt;+9&lt;/td&gt;&lt;td&gt;+9&lt;/td&gt;&lt;td&gt;+5&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Pistolier.html#D&#201;ROBADE&quot; title=&quot;Pistolier&quot;&gt;D&#233;robade&lt;/a&gt; +4&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;15&lt;/td&gt;&lt;td&gt;+15/+10/+5&lt;/td&gt;&lt;td&gt;+9&lt;/td&gt;&lt;td&gt;+9&lt;/td&gt;&lt;td&gt;+5&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Pistolier.html#EXPLOITS&quot; title=&quot;Pistolier&quot;&gt;Exploit&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;16&lt;/td&gt;&lt;td&gt;+16/+11/+6/+1&lt;/td&gt;&lt;td&gt;+10&lt;/td&gt;&lt;td&gt;+10&lt;/td&gt;&lt;td&gt;+5&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Pistolier.html#DONSUPPL&#201;MENTAIRE&quot; title=&quot;Pistolier&quot;&gt;Don suppl&#233;mentaire&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;17&lt;/td&gt;&lt;td&gt;+17/+12/+7/+2&lt;/td&gt;&lt;td&gt;+10&lt;/td&gt;&lt;td&gt;+10&lt;/td&gt;&lt;td&gt;+5&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Pistolier.html#ENTRA&#206;NEMENTAUXARMES&#192;FEU&quot; title=&quot;Pistolier&quot;&gt;Entra&#238;nement aux armes &#224; feu&lt;/a&gt; 4&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;18&lt;/td&gt;&lt;td&gt;+18/+13/+8/+3&lt;/td&gt;&lt;td&gt;+11&lt;/td&gt;&lt;td&gt;+11&lt;/td&gt;&lt;td&gt;+6&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Pistolier.html#D&#201;ROBADE&quot; title=&quot;Pistolier&quot;&gt;D&#233;robade&lt;/a&gt; +5&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;19&lt;/td&gt;&lt;td&gt;+19/+14/+9/+4&lt;/td&gt;&lt;td&gt;+11&lt;/td&gt;&lt;td&gt;+11&lt;/td&gt;&lt;td&gt;+6&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Pistolier.html#EXPLOITS&quot; title=&quot;Pistolier&quot;&gt;Exploit&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;20&lt;/td&gt;&lt;td&gt;+20/+15/+10/+5&lt;/td&gt;&lt;td&gt;+12&lt;/td&gt;&lt;td&gt;+12&lt;/td&gt;&lt;td&gt;+6&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Pistolier.html#AUDACEABSOLUE&quot; title=&quot;Pistolier&quot;&gt;Audace absolue&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Pistolier.html#DONSUPPL&#201;MENTAIRE&quot; title=&quot;Pistolier&quot;&gt;Don suppl&#233;mentaire&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/center&gt;
+&lt;/td&gt;
+&lt;td width=&quot;30%&quot; valign=&quot;bottom&quot;&gt;&lt;br /&gt;&lt;br /&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;br /&gt;&lt;b&gt;R&#244;le.&lt;/b&gt; Les pistoliers forment une artillerie bruyante que l’on trouve g&#233;n&#233;ralement au plus fort des combats. Courageux, rus&#233;s et souvent inconscients, ils se placent souvent tr&#232;s pr&#232;s de leurs ennemis, en brandissant leurs armes luisantes, pour faucher leurs rangs et les d&#233;moraliser. Certains sont pass&#233;s ma&#238;tres dans l’art de tuer de loin et ils &#233;liminent leurs adversaires &#224; distance gr&#226;ce &#224; des armes aussi &#233;tranges que merveilleuses.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Alignement.&lt;/b&gt; tous.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;D&#233;s de vie.&lt;/b&gt; d10.&lt;br /&gt;&lt;br /&gt;&lt;h2 class=&quot;separator&quot;&gt; Comp&#233;tences de classe &lt;a class=&quot;headeranchor&quot; id=&quot;Comp&#233;tences_de_classe_9&quot; href=&quot;#Comp&#233;tences_de_classe_9&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;Voici les comp&#233;tences de la classe de pistolier : &lt;a class=&quot;pagelink&quot; href=&quot;Acrobaties.html&quot; title=&quot;Acrobaties&quot;&gt;Acrobaties&lt;/a&gt; (Dex), &lt;a class=&quot;pagelink&quot; href=&quot;Artisanat.html&quot; title=&quot;Artisanat&quot;&gt;Artisanat&lt;/a&gt; (Int), &lt;a class=&quot;pagelink&quot; href=&quot;Bluff.html&quot; title=&quot;Bluff&quot;&gt;Bluff&lt;/a&gt; (Cha), &lt;a class=&quot;pagelink&quot; href=&quot;Connaissances.html&quot; title=&quot;Connaissances&quot;&gt;Connaissances&lt;/a&gt; (Ing&#233;nierie) (Int), &lt;a class=&quot;pagelink&quot; href=&quot;Connaissances.html&quot; title=&quot;Connaissances&quot;&gt;Connaissances&lt;/a&gt; (folklore local) (Int), &lt;a class=&quot;pagelink&quot; href=&quot;Dressage.html&quot; title=&quot;Dressage&quot;&gt;Dressage&lt;/a&gt; (Cha), &lt;a class=&quot;pagelink&quot; href=&quot;&#201;quitation.html&quot; title=&quot;&#201;quitation&quot;&gt;&#201;quitation&lt;/a&gt; (Dex), &lt;a class=&quot;pagelink&quot; href=&quot;Escalade.html&quot; title=&quot;Escalade&quot;&gt;Escalade&lt;/a&gt; (For), &lt;a class=&quot;pagelink&quot; href=&quot;Escamotage.html&quot; title=&quot;Escamotage&quot;&gt;Escamotage&lt;/a&gt; (Dex), &lt;a class=&quot;pagelink&quot; href=&quot;Intimidation.html&quot; title=&quot;Intimidation&quot;&gt;Intimidation&lt;/a&gt; (Cha), &lt;a class=&quot;pagelink&quot; href=&quot;Natation.html&quot; title=&quot;Natation&quot;&gt;Natation&lt;/a&gt; (For), &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; (Sag), &lt;a class=&quot;pagelink&quot; href=&quot;Premiers-Secours.html&quot; title=&quot;Premiers secours&quot;&gt;Premiers secours&lt;/a&gt; (Sag), &lt;a class=&quot;pagelink&quot; href=&quot;Profession.html&quot; title=&quot;Profession&quot;&gt;Profession&lt;/a&gt; (Sag) et &lt;a class=&quot;pagelink&quot; href=&quot;Survie.html&quot; title=&quot;Survie&quot;&gt;Survie&lt;/a&gt; (Sag).&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Points de comp&#233;tence par niveau.&lt;/b&gt; 4 + modificateur d’&lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#INTELLIGENCE&quot; title=&quot;L&amp;#39;Intelligence&quot;&gt;Intelligence&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;&lt;h2 class=&quot;separator&quot;&gt; Descriptif de la classe &lt;a class=&quot;headeranchor&quot; id=&quot;Descriptif_de_la_classe_10&quot; href=&quot;#Descriptif_de_la_classe_10&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;Les aptitudes du pistolier sont d&#233;crites ci-dessous.&lt;br /&gt;&lt;br /&gt;&lt;h3 class=&quot;separator&quot;&gt;Armes et armures&lt;a class=&quot;headeranchor&quot; id=&quot;Armes_et_armures_1&quot; href=&quot;#Armes_et_armures_1&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt; Les pistoliers sont form&#233;s au maniement de toutes les &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques-Des-Armes.html#ARMECOURANTE&quot; title=&quot;armes courantes&quot;&gt;armes courantes&lt;/a&gt; et &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques-Des-Armes.html#ARMEDEGUERRE&quot; title=&quot;armes de guerre&quot;&gt;de guerre&lt;/a&gt; ainsi qu’&#224; celui des &lt;a class=&quot;pagelink&quot; href=&quot;Armes-&#192;-Feu.html&quot; title=&quot;Armes &#224; feu&quot;&gt;armes &#224; feu&lt;/a&gt;. Ils sont aussi form&#233;s au port des &lt;a class=&quot;pagelink&quot; href=&quot;Tableau-R&#233;capitulatif-Des-Armures.html#LEGERES&quot; title=&quot;armure l&#233;g&#232;re&quot;&gt;armures l&#233;g&#232;res&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;&lt;a name=&quot;ARMURIER&quot;&gt;&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;h3 class=&quot;separator&quot;&gt;Armurier&lt;a class=&quot;headeranchor&quot; id=&quot;Armurier_2&quot; href=&quot;#Armurier_2&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;Au &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#NIVEAU&quot; title=&quot;niveau&quot;&gt;niveau&lt;/a&gt; 1, le pistolier obtient l’une des &lt;a class=&quot;pagelink&quot; href=&quot;Armes-&#192;-Feu.html&quot; title=&quot;Armes &#224; feu&quot;&gt;armes &#224; feu&lt;/a&gt; suivantes : le &lt;a class=&quot;pagelink&quot; href=&quot;Description-Des-Armes-&#192;-Feu.html#Tromblon&quot; title=&quot;Description des armes &#224; feu&quot;&gt;tromblon&lt;/a&gt;, le &lt;a class=&quot;pagelink&quot; href=&quot;Description-Des-Armes-&#192;-Feu.html#Mousquet&quot; title=&quot;Description des armes &#224; feu&quot;&gt;mousquet&lt;/a&gt; ou le &lt;a class=&quot;pagelink&quot; href=&quot;Description-Des-Armes-&#192;-Feu.html#Pistolet&quot; title=&quot;Description des armes &#224; feu&quot;&gt;pistolet&lt;/a&gt;. Cette arme est us&#233;e et il est le seul &#224; savoir l’utiliser correctement, les autres cr&#233;atures la traitent comme un objet &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables.html#Bris&#233;&quot; title=&quot;Bris&#233;&quot;&gt;bris&#233;&lt;/a&gt;. Si l’arme est r&#233;ellement bris&#233;e, elle ne fonctionne absolument pas entre les mains d’un autre que son propri&#233;taire. Cette premi&#232;re arme ne vaut rien ( juste 4d10 po &#224; la revente). Le pistolier gagne &lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;ation-Darmes-&#192;-Feu.html&quot; title=&quot;Cr&#233;ation d&amp;#39;armes &#224; feu&quot;&gt;Cr&#233;ation d’armes &#224; feu&lt;/a&gt; comme don suppl&#233;mentaire.&lt;br /&gt;&lt;br /&gt;&lt;a name=&quot;AUDACE&quot;&gt;&lt;/a&gt;
+&lt;h3 class=&quot;separator&quot;&gt;Audace (Ext)&lt;a class=&quot;headeranchor&quot; id=&quot;Audace_Ext_3&quot; href=&quot;#Audace_Ext_3&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;&lt;div style=&quot;float: right; margin-left: 10px; margin-right: -10px; max-width: 300px;&quot; class=&quot;presentation recentre&quot;&gt;
+&lt;h4 class=&quot;separator&quot;&gt;Acte t&#233;m&#233;raire&lt;a class=&quot;headeranchor&quot; id=&quot;Acte_t&#233;m&#233;raire_0&quot; href=&quot;#Acte_t&#233;m&#233;raire_0&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h4&gt;Cette m&#233;thode permet de regagner des points d’audace mais elle fait appel au discernement du MJ et reste donc une r&#232;gle optionnelle.&lt;br /&gt;&lt;br /&gt;&#192; chaque fois que le &lt;a class=&quot;pagelink&quot; href=&quot;Pistolier.html&quot; title=&quot;Pistolier&quot;&gt;pistolier&lt;/a&gt; accomplit un acte t&#233;m&#233;raire, il r&#233;cup&#232;re de l’&lt;a class=&quot;pagelink&quot; href=&quot;Pistolier.html#AUDACE&quot; title=&quot;audace&quot;&gt;audace&lt;/a&gt;. C’est une action risqu&#233;e et th&#233;&#226;trale et, pour la tenter, le &lt;a class=&quot;pagelink&quot; href=&quot;Pistolier.html&quot; title=&quot;Pistolier&quot;&gt;pistolier&lt;/a&gt; doit avoir des tripes car il a peu de chances de succ&#232;s. S’il r&#233;ussit, il r&#233;cup&#232;re 1 point d’audace.
+Le joueur devrait demander &#224; son MJ si ce qu’il s’appr&#234;te &#224; faire est bien un acte t&#233;m&#233;raire. La d&#233;cision finale revient au MJ et il peut accorder des points d’audace pour un acte t&#233;m&#233;raire, m&#234;me si le PJ n’a pas demand&#233; au pr&#233;alable si son acte &#233;tait bien t&#233;m&#233;raire.&lt;/div&gt;
+Un pistolier devient c&#233;l&#232;bre gr&#226;ce &#224; ses &lt;a class=&quot;pagelink&quot; href=&quot;Exploits.html&quot; title=&quot;Les exploits de pistolier&quot;&gt;exploits&lt;/a&gt; t&#233;m&#233;raires. Certaines disent suivre la voie mystique du pistolet mais, vu la nature instable des &lt;a class=&quot;pagelink&quot; href=&quot;Armes-&#192;-Feu.html&quot; title=&quot;Armes &#224; feu&quot;&gt;armes &#224; feu&lt;/a&gt;, il est plus probable qu’elles &#233;liminent simplement les imprudents et les malchanceux. Tous les pistoliers poss&#232;dent ce que l’on appelle l’audace. En termes de jeu, il s’agit d’une mesure variable qui estime le nombre d’actions d’&#233;clat que le pistolier peut accomplir au combat. Chaque jour, il obtient un nombre de points d’audace &#233;gal &#224; son modificateur de &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#SAGESSE&quot; title=&quot;La Sagesse&quot;&gt;Sagesse&lt;/a&gt; (1 au minimum). L’audace augmente ou d&#233;cro&#238;t au fil de la journ&#233;e mais elle ne d&#233;passe g&#233;n&#233;ralement pas le modificateur de &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#SAGESSE&quot; title=&quot;La Sagesse&quot;&gt;Sagesse&lt;/a&gt; (1 au minimum). Certains dons et objets magiques influent sur ce maximum. Le pistolier doit d&#233;penser de l’audace pour accomplir ses exploits (voir plus bas) et il en r&#233;cup&#232;re comme suit.&lt;br /&gt;&lt;br /&gt;&lt;a name=&quot;COUPCRITIQUEAVECUNEARME&#192;FEU&quot;&gt;&lt;/a&gt;
+&lt;b&gt;&lt;i&gt;Coup critique avec une arme &#224; feu&lt;/i&gt;&lt;/b&gt; : &#192; chaque fois que le pistolier confirme un coup critique avec une arme &#224; feu en plein combat, il regagne 1 point d’audace. Si le pistolier confirme un &lt;a class=&quot;pagelink&quot; href=&quot;Actions-Simples.html#COUPCRITIQUE&quot; title=&quot;coup critique&quot;&gt;coup critique&lt;/a&gt; sur une cr&#233;ature &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables.html#Sansd&#233;fense&quot; title=&quot;Sans d&#233;fense&quot;&gt;sans d&#233;fense&lt;/a&gt;, ignorante du danger ou sur une dont le total de &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DESDEVIE&quot; title=&quot;DV&quot;&gt;DV&lt;/a&gt; est inf&#233;rieur &#224; la moiti&#233; du &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#NIVEAU&quot; title=&quot;niveau&quot;&gt;niveau&lt;/a&gt; du pistolier, il ne r&#233;cup&#232;re pas d’audace.&lt;br /&gt;&lt;br /&gt;&lt;a name=&quot;COUPDEGR&#194;CEAVECUNEARME&#192;FEU&quot;&gt;&lt;/a&gt; 
+&lt;b&gt;&lt;i&gt;Coup de gr&#226;ce avec une arme &#224; feu&lt;/i&gt;&lt;/b&gt; : Quand le pistolier r&#233;duit une cr&#233;ature &#224; 0 point de vie ou moins avec une &lt;a class=&quot;pagelink&quot; href=&quot;Armes-&#192;-Feu.html&quot; title=&quot;Armes &#224; feu&quot;&gt;arme &#224; feu&lt;/a&gt; et en plein combat, il regagne 1 point d’audace. Il n’en r&#233;cup&#232;re aucun s’il d&#233;truit un objet abandonn&#233;, s’il r&#233;duit une cr&#233;ature &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables.html#Sansd&#233;fense&quot; title=&quot;Sans d&#233;fense&quot;&gt;sans d&#233;fense&lt;/a&gt; ou inconsciente du danger &#224; 0 point de vie ou s’il en fait passer une qui poss&#232;de un nombre de &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DESDEVIE&quot; title=&quot;DV&quot;&gt;DV&lt;/a&gt; inf&#233;rieur &#224; la moiti&#233; de son niveau en dessous de 0 point de vie.&lt;br /&gt;&lt;br /&gt;&lt;a name=&quot;EXPLOITS&quot;&gt;&lt;/a&gt;
+&lt;h3 class=&quot;separator&quot;&gt;Exploits&lt;a class=&quot;headeranchor&quot; id=&quot;Exploits_4&quot; href=&quot;#Exploits_4&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;Les pistoliers d&#233;pensent des points d’audace pour accomplir des exploits. Ces derniers leur octroient des bonus ou des effets momentan&#233;s, mais certains durent plus longtemps et d’autres restent actifs tant que le pistolier poss&#232;de au moins 1 point d’&lt;a class=&quot;pagelink&quot; href=&quot;Pistolier.html#AUDACE&quot; title=&quot;audace&quot;&gt;audace&lt;/a&gt;. Voici la liste des exploits de base. Le pistolier peut seulement accomplir des exploits de son niveau ou moins. Sauf indication contraire, il peut r&#233;aliser le m&#234;me exploit &#224; plusieurs reprises, tant qu’il poss&#232;de assez d’audace pour cela.&lt;br /&gt;&lt;br /&gt;Voir la liste des &lt;a class=&quot;pagelink&quot; href=&quot;Exploits.html&quot; title=&quot;Les exploits de pistolier&quot;&gt;exploits&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;&lt;a name=&quot;D&#201;ROBADE&quot;&gt;&lt;/a&gt;
+&lt;h3 class=&quot;separator&quot;&gt;D&#233;robade (Ext)&lt;a class=&quot;headeranchor&quot; id=&quot;D&#233;robade_Ext_5&quot; href=&quot;#D&#233;robade_Ext_5&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;&#192; partir du niveau 2, le pistolier gagne un bonus d’esquive de +1 &#224; la &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#CA&quot; title=&quot;CA&quot;&gt;CA&lt;/a&gt;, &#224; condition qu’il porte une &lt;a class=&quot;pagelink&quot; href=&quot;Tableau-R&#233;capitulatif-Des-Armures.html#LEGERES&quot; title=&quot;armure l&#233;g&#232;re&quot;&gt;armure l&#233;g&#232;re&lt;/a&gt; ou pas d’armure du tout. S’il perd son bonus de &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#DEXTERITE&quot; title=&quot;La Dext&#233;rit&#233;&quot;&gt;Dext&#233;rit&#233;&lt;/a&gt; &#224; la CA, il perd &#233;galement ce bonus d’esquive. Ce bonus augmente de +1 tous les quatre niveaux apr&#232;s le 2 (avec un maximum de +5 au niveau 20).&lt;br /&gt;&lt;br /&gt;&lt;a name=&quot;DONSUPPL&#201;MENTAIRE&quot;&gt;&lt;/a&gt;
+&lt;h3 class=&quot;separator&quot;&gt;Don suppl&#233;mentaire&lt;a class=&quot;headeranchor&quot; id=&quot;Don_suppl&#233;mentaire_6&quot; href=&quot;#Don_suppl&#233;mentaire_6&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;Au &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#NIVEAU&quot; title=&quot;niveau&quot;&gt;niveau&lt;/a&gt; 4 puis tous les quatre niveaux, le pistolier gagne un don suppl&#233;mentaire, en plus de ceux qu’il obtient normalement. Il doit les choisir parmi les &lt;a class=&quot;pagelink&quot; href=&quot;Dons.html#DONCOMBAT&quot; title=&quot;don de combat&quot;&gt;dons de combat&lt;/a&gt; ou d’audace.&lt;br /&gt;&lt;br /&gt;&lt;a name=&quot;ENTRA&#206;NEMENTAUXARMES&#192;FEU&quot;&gt;&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;h3 class=&quot;separator&quot;&gt;Entra&#238;nement aux armes &#224; feu (Ext)&lt;a class=&quot;headeranchor&quot; id=&quot;Entra&#238;nement_aux_armes_&#224;_feu_Ext_7&quot; href=&quot;#Entra&#238;nement_aux_armes_&#224;_feu_Ext_7&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;&#192; partir du &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#NIVEAU&quot; title=&quot;niveau&quot;&gt;niveau&lt;/a&gt; 5, le pistolier choisit un type d’&lt;a class=&quot;pagelink&quot; href=&quot;Armes-&#192;-Feu.html&quot; title=&quot;Armes &#224; feu&quot;&gt;arme &#224; feu&lt;/a&gt; (comme la &lt;a class=&quot;pagelink&quot; href=&quot;Description-Des-Armes-&#192;-Feu.html#Hache mousquet&quot; title=&quot;Description des armes &#224; feu&quot;&gt;hache mousquet&lt;/a&gt;, le &lt;a class=&quot;pagelink&quot; href=&quot;Description-Des-Armes-&#192;-Feu.html#Tromblon&quot; title=&quot;Description des armes &#224; feu&quot;&gt;tromblon&lt;/a&gt;, le &lt;a class=&quot;pagelink&quot; href=&quot;Description-Des-Armes-&#192;-Feu.html#Mousquet&quot; title=&quot;Description des armes &#224; feu&quot;&gt;mousquet&lt;/a&gt; ou le &lt;a class=&quot;pagelink&quot; href=&quot;Description-Des-Armes-&#192;-Feu.html#Pistolet&quot; title=&quot;Description des armes &#224; feu&quot;&gt;pistolet&lt;/a&gt;). Quand il utilise une arme &#224; feu de ce type, il ajoute son modificateur de &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#DEXTERITE&quot; title=&quot;La Dext&#233;rit&#233;&quot;&gt;Dext&#233;rit&#233;&lt;/a&gt; aux jets de d&#233;g&#226;ts. De plus, quand son arme fait &lt;a class=&quot;pagelink&quot; href=&quot;Armes-&#192;-Feu.html#LONGFEU&quot; title=&quot;long feu&quot;&gt;long feu&lt;/a&gt;, sa valeur de long feu augmente de 2 au lieu de 4. Par la suite, tous les quatre niveaux (9, 13 et 17), le pistolier choisit un nouveau type d’arme &#224; laquelle il ajoute ce bonus.&lt;br /&gt;&lt;br /&gt;&lt;a name=&quot;AUDACEABSOLUE&quot;&gt;&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;h3 class=&quot;separator&quot;&gt;Audace absolue (Ext)&lt;a class=&quot;headeranchor&quot; id=&quot;Audace_absolue_Ext_8&quot; href=&quot;#Audace_absolue_Ext_8&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;Au niveau 20, le pistolier choisit deux &lt;a class=&quot;pagelink&quot; href=&quot;Exploits.html&quot; title=&quot;Les exploits de pistolier&quot;&gt;exploits&lt;/a&gt; auxquels il a acc&#232;s et qui exigent des points d’&lt;a class=&quot;pagelink&quot; href=&quot;Pistolier.html#AUDACE&quot; title=&quot;audace&quot;&gt;audace&lt;/a&gt;. Il d&#233;pense 1 point de moins pour les accomplir (avec un minimum de 0). S’il pouvait accomplir cet exploit tant qu’il lui restait au moins 1 point d’audace, il peut maintenant le faire m&#234;me s’il n’en a plus.
+]]></body>
+  <raw><![CDATA[{s:MenuClasses}
+<div style="float:right; padding-left: 4px"></div>
+{br}
+<div class="fright">'''''Voir aussi les [[exploits]] du pistolier.''''' <br/>
+{s:PM0|Pistoliers}'''Voir les archétypes du pistolier'''&emsp;
+<ul ID="Pistoliers" CLASS="listecachée cadrebas">
+  <li>[[Pistolier|Le Pistolier]] (classe de base)(UC)</li>
+  <li>[[Armure-pistolet (pistolier)|Armure-pistolet]] (UC)</li>
+  <li>[[Maître du mousquet (pistolier)|Maître du mousquet]] (UC)</li>
+  <li>[[Mystérieux voyageur (pistolier)|Mystérieux voyageur]] (UC)</li>
+  <li>[[Pistolero (pistolier)|Pistolero]] (UC)</li>
+</ul></div>
+
+
+
+''Pour certains rebelles, les batailles ne font pas le même bruit que pour un guerrier classique. Le fracas de l’acier et les crépitements d’énergie magiques sont noyés sous le tonnerre des coups de feu qui sont autant de roulements de tambours pour le pistolier.
+Les pistoliers sont des gens téméraires et mystérieux et beaucoup révèrent les secrets de la poudre noire comme un magicien vénère son grimoire, mais ils savent aussi que les mystères des armes à feu ne resteront pas éternellement un secret. Les armes à feu actuelles sont simples et manquent de précision, ce sont même des objets dangereux mais c’est une technologie en pleine évolution qui gagnera en puissance quand elle fusionnera pleinement avec la magie.''
+
+<table width="100%">
+<tr>
+<td width="70%">
+<center>
+{| CLASS="tablo"
+|+ Le pistolier
+|- CLASS="titre"
+| Niveau
+| BBA
+| Réflexes
+| Vigueur
+| Volonté
+| CLASS="gauche" | Spécial
+|- CLASS="premier"
+| 1
+| +1
+| +2
+| +2
+| +0
+| CLASS="gauche" | [[Pistolier#ARMURIER|Armurier]], [[Pistolier#AUDACE|audace]], [[Pistolier#EXPLOITS|exploit]]
+|- CLASS="alt"
+| 2
+| +2
+| +3
+| +3
+| +0
+| CLASS="gauche" | [[Pistolier#DÉROBADE|Dérobade]] +1
+|-
+| 3
+| +3
+| +3
+| +3
+| +1
+| CLASS="gauche" | [[Pistolier#EXPLOITS|Exploit]]
+|- CLASS="alt"
+| 4
+| +4
+| +4
+| +4
+| +1
+| CLASS="gauche" | [[Pistolier#DONSUPPLÉMENTAIRE|Don supplémentaire]]
+|-
+| 5
+| +5
+| +4
+| +4
+| +1
+| CLASS="gauche" | [[Pistolier#ENTRAÎNEMENTAUXARMESÀFEU|Entraînement aux armes à feu]]
+|- CLASS="alt"
+| 6
+| +6/+1
+| +5
+| +5
+| +2
+| CLASS="gauche" | [[Pistolier#DÉROBADE|Dérobade]] +2
+|-
+| 7
+| +7/+2
+| +5
+| +5
+| +2
+| CLASS="gauche" | [[Pistolier#EXPLOITS|Exploit]]
+|- CLASS="alt"
+| 8
+| +8/+3
+| +6
+| +6
+| +2
+| CLASS="gauche" | [[Pistolier#DONSUPPLÉMENTAIRE|Don supplémentaire]]
+|-
+| 9
+| +9/+4
+| +6
+| +6
+| +3
+| CLASS="gauche" | [[Pistolier#ENTRAÎNEMENTAUXARMESÀFEU|Entraînement aux armes à feu]] 2
+|- CLASS="alt"
+| 10
+| +10/+5
+| +7
+| +7
+| +3
+| CLASS="gauche" | [[Pistolier#DÉROBADE|Dérobade]] +3
+|-
+| 11
+| +11/+6/+1
+| +7
+| +7
+| +3
+| CLASS="gauche" | [[Pistolier#EXPLOITS|Exploit]] 
+|- CLASS="alt"
+| 12
+| +12/+7/+2
+| +8
+| +8
+| +4
+| CLASS="gauche" | [[Pistolier#DONSUPPLÉMENTAIRE|Don supplémentaire]]
+|-
+| 13
+| +13/+8/+3
+| +8
+| +8
+| +4
+| CLASS="gauche" | [[Pistolier#ENTRAÎNEMENTAUXARMESÀFEU|Entraînement aux armes à feu]] 3
+|- CLASS="alt"
+| 14
+| +14/+9/+4
+| +9
+| +9
+| +5
+| CLASS="gauche" | [[Pistolier#DÉROBADE|Dérobade]] +4
+|-
+| 15
+| +15/+10/+5
+| +9
+| +9
+| +5
+| CLASS="gauche" | [[Pistolier#EXPLOITS|Exploit]]
+|- CLASS="alt"
+| 16
+| +16/+11/+6/+1
+| +10
+| +10
+| +5
+| CLASS="gauche" | [[Pistolier#DONSUPPLÉMENTAIRE|Don supplémentaire]]
+|-
+| 17
+| +17/+12/+7/+2
+| +10
+| +10
+| +5
+| CLASS="gauche" | [[Pistolier#ENTRAÎNEMENTAUXARMESÀFEU|Entraînement aux armes à feu]] 4
+|- CLASS="alt"
+| 18
+| +18/+13/+8/+3
+| +11
+| +11
+| +6
+| CLASS="gauche" | [[Pistolier#DÉROBADE|Dérobade]] +5
+|-
+| 19
+| +19/+14/+9/+4
+| +11
+| +11
+| +6
+| CLASS="gauche" | [[Pistolier#EXPLOITS|Exploit]]
+|- CLASS="alt"
+| 20
+| +20/+15/+10/+5
+| +12
+| +12
+| +6
+| CLASS="gauche" | [[Pistolier#AUDACEABSOLUE|Audace absolue]], [[Pistolier#DONSUPPLÉMENTAIRE|Don supplémentaire]]
+|}
+</center>
+</td>
+<td width="30%" valign="bottom">
+{s:ImageCentre|Illustrations/PNJ/Lirianne.jpg|100%}
+</td></tr></table>
+
+'''Rôle.''' Les pistoliers forment une artillerie bruyante que l’on trouve généralement au plus fort des combats. Courageux, rusés et souvent inconscients, ils se placent souvent très près de leurs ennemis, en brandissant leurs armes luisantes, pour faucher leurs rangs et les démoraliser. Certains sont passés maîtres dans l’art de tuer de loin et ils éliminent leurs adversaires à distance grâce à des armes aussi étranges que merveilleuses.
+
+'''Alignement.''' tous.
+
+'''Dés de vie.''' d10.
+
+=== Compétences de classe ===
+Voici les compétences de la classe de pistolier : [[Acrobaties]] (Dex), [[Artisanat]] (Int), [[Bluff]] (Cha), [[Connaissances]] (Ingénierie) (Int), [[Connaissances]] (folklore local) (Int), [[Dressage]] (Cha), [[Équitation]] (Dex), [[Escalade]] (For), [[Escamotage]] (Dex), [[Intimidation]] (Cha), [[Natation]] (For), [[Perception]] (Sag), [[Premiers secours]] (Sag), [[Profession]] (Sag) et [[Survie]] (Sag).
+
+'''Points de compétence par niveau.''' 4 + modificateur d’[[Intelligence]].
+
+=== Descriptif de la classe ===
+Les aptitudes du pistolier sont décrites ci-dessous.
+
+====Armes et armures==== Les pistoliers sont formés au maniement de toutes les [[armes courantes]] et [[armes de guerre|de guerre]] ainsi qu’à celui des [[armes à feu]]. Ils sont aussi formés au port des [[armure légère|armures légères]].
+
+{s:Reference|ARMURIER}
+
+====Armurier====
+Au [[niveau]] 1, le pistolier obtient l’une des [[armes à feu]] suivantes : le [[Description des armes à feu#Tromblon|tromblon]], le [[Description des armes à feu#Mousquet|mousquet]] ou le [[Description des armes à feu#Pistolet|pistolet]]. Cette arme est usée et il est le seul à savoir l’utiliser correctement, les autres créatures la traitent comme un objet [[brisé]]. Si l’arme est réellement brisée, elle ne fonctionne absolument pas entre les mains d’un autre que son propriétaire. Cette première arme ne vaut rien ( juste 4d10 po à la revente). Le pistolier gagne [[Création darmes à feu|Création d’armes à feu]] comme don supplémentaire.
+
+{s:Reference|AUDACE}
+====Audace (Ext)====
+<div style="float: right; margin-left: 10px; margin-right: -10px; max-width: 300px;" class="presentation recentre">
+=====Acte téméraire=====
+Cette méthode permet de regagner des points d’audace mais elle fait appel au discernement du MJ et reste donc une règle optionnelle.
+
+À chaque fois que le [pistolier] accomplit un acte téméraire, il récupère de l’[[audace]]. C’est une action risquée et théâtrale et, pour la tenter, le [pistolier] doit avoir des tripes car il a peu de chances de succès. S’il réussit, il récupère 1 point d’audace.
+Le joueur devrait demander à son MJ si ce qu’il s’apprête à faire est bien un acte téméraire. La décision finale revient au MJ et il peut accorder des points d’audace pour un acte téméraire, même si le PJ n’a pas demandé au préalable si son acte était bien téméraire.</div>
+Un pistolier devient célèbre grâce à ses [[exploits]] téméraires. Certaines disent suivre la voie mystique du pistolet mais, vu la nature instable des [[armes à feu]], il est plus probable qu’elles éliminent simplement les imprudents et les malchanceux. Tous les pistoliers possèdent ce que l’on appelle l’audace. En termes de jeu, il s’agit d’une mesure variable qui estime le nombre d’actions d’éclat que le pistolier peut accomplir au combat. Chaque jour, il obtient un nombre de points d’audace égal à son modificateur de [[Sagesse]] (1 au minimum). L’audace augmente ou décroît au fil de la journée mais elle ne dépasse généralement pas le modificateur de [[Sagesse]] (1 au minimum). Certains dons et objets magiques influent sur ce maximum. Le pistolier doit dépenser de l’audace pour accomplir ses exploits (voir plus bas) et il en récupère comme suit.
+
+{s:Reference|COUPCRITIQUEAVECUNEARMEÀFEU}
+'''''Coup critique avec une arme à feu''''' : À chaque fois que le pistolier confirme un coup critique avec une arme à feu en plein combat, il regagne 1 point d’audace. Si le pistolier confirme un [[coup critique]] sur une créature [[sans défense]], ignorante du danger ou sur une dont le total de [[DV]] est inférieur à la moitié du [[niveau]] du pistolier, il ne récupère pas d’audace.
+
+{s:Reference|COUPDEGRÂCEAVECUNEARMEÀFEU} 
+'''''Coup de grâce avec une arme à feu''''' : Quand le pistolier réduit une créature à 0 point de vie ou moins avec une [[armes à feu|arme à feu]] et en plein combat, il regagne 1 point d’audace. Il n’en récupère aucun s’il détruit un objet abandonné, s’il réduit une créature [[sans défense]] ou inconsciente du danger à 0 point de vie ou s’il en fait passer une qui possède un nombre de [[DV]] inférieur à la moitié de son niveau en dessous de 0 point de vie.
+
+{s:Reference|EXPLOITS}
+====Exploits====
+Les pistoliers dépensent des points d’audace pour accomplir des exploits. Ces derniers leur octroient des bonus ou des effets momentanés, mais certains durent plus longtemps et d’autres restent actifs tant que le pistolier possède au moins 1 point d’[[audace]]. Voici la liste des exploits de base. Le pistolier peut seulement accomplir des exploits de son niveau ou moins. Sauf indication contraire, il peut réaliser le même exploit à plusieurs reprises, tant qu’il possède assez d’audace pour cela.
+
+Voir la liste des [[exploits]].
+
+{s:Reference|DÉROBADE}
+====Dérobade (Ext)====
+À partir du niveau 2, le pistolier gagne un bonus d’esquive de +1 à la [[CA]], à condition qu’il porte une [[armure légère]] ou pas d’armure du tout. S’il perd son bonus de [[Dextérité]] à la CA, il perd également ce bonus d’esquive. Ce bonus augmente de +1 tous les quatre niveaux après le 2 (avec un maximum de +5 au niveau 20).
+
+{s:Reference|DONSUPPLÉMENTAIRE}
+====Don supplémentaire====
+Au [[niveau]] 4 puis tous les quatre niveaux, le pistolier gagne un don supplémentaire, en plus de ceux qu’il obtient normalement. Il doit les choisir parmi les [[don de combat|dons de combat]] ou d’audace.
+
+{s:Reference|ENTRAÎNEMENTAUXARMESÀFEU}
+
+====Entraînement aux armes à feu (Ext)====
+À partir du [[niveau]] 5, le pistolier choisit un type d’[[armes à feu|arme à feu]] (comme la [[Description des armes à feu#Hache mousquet|hache mousquet]], le [[Description des armes à feu#Tromblon|tromblon]], le [[Description des armes à feu#Mousquet|mousquet]] ou le [[Description des armes à feu#Pistolet|pistolet]]). Quand il utilise une arme à feu de ce type, il ajoute son modificateur de [[Dextérité]] aux jets de dégâts. De plus, quand son arme fait [[long feu]], sa valeur de long feu augmente de 2 au lieu de 4. Par la suite, tous les quatre niveaux (9, 13 et 17), le pistolier choisit un nouveau type d’arme à laquelle il ajoute ce bonus.
+
+{s:Reference|AUDACEABSOLUE}
+
+====Audace absolue (Ext)====
+Au niveau 20, le pistolier choisit deux [[exploits]] auxquels il a accès et qui exigent des points d’[[audace]]. Il dépense 1 point de moins pour les accomplir (avec un minimum de 0). S’il pouvait accomplir cet exploit tant qu’il lui restait au moins 1 point d’audace, il peut maintenant le faire même s’il n’en a plus.]]></raw>
+  <fullName>Pathfinder-RPG.Pistolier</fullName>
+</wikiPage>

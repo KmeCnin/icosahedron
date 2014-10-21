@@ -1,0 +1,189 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Linnorm des cairns</title>
+  <categories><category>Pathfinder-RPG.Bestiaire 3</category><category>Pathfinder-RPG.Monstre</category><category>Pathfinder-RPG.Règles officielles</category></categories>
+  <lastModified>2013-10-17 13:00:11Z</lastModified>
+  <version>2</version>
+  <inLinks><link>Pathfinder-RPG.Glossaire des monstres</link><link>Pathfinder-RPG.Liste de monstres par FP</link><link>Pathfinder-RPG.Liste de monstres par milieu naturel</link><link>Pathfinder-RPG.Liste de monstres par type</link><link>Pathfinder-RPG.Monstres</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.type Dragon</link><link>Pathfinder-RPG.vision dans le noir</link><link>Pathfinder-RPG.vision nocturne</link><link>Pathfinder-RPG.odorat</link><link>Pathfinder-RPG.Vision lucide</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Liberté de mouvement</link><link>Pathfinder-RPG.Étreinte</link><link>Pathfinder-RPG.constriction</link><link>Pathfinder-RPG.lutte</link><link>Pathfinder-RPG.croc-en-jambe</link><link>Pathfinder-RPG.Attaque en puissance</link><link>Pathfinder-RPG.Combat en aveugle</link><link>Pathfinder-RPG.Enchaînement</link><link>Pathfinder-RPG.Frappe décisive</link><link>Pathfinder-RPG.Science du critique</link><link>Pathfinder-RPG.Science de linitiative</link><link>Pathfinder-RPG.Science de la frappe décisive</link><link>Pathfinder-RPG.Succession denchaînements</link><link>Pathfinder-RPG.Réflexes surhumains</link><link>Pathfinder-RPG.Talent</link><link>Pathfinder-RPG.Discrétion</link><link>Pathfinder-RPG.Escalade</link><link>Pathfinder-RPG.Natation</link><link>Pathfinder-RPG.Vol</link><link>Pathfinder-RPG.Acrobaties</link><link>Pathfinder-RPG.Volonté</link><link>Pathfinder-RPG.DD</link><link>Pathfinder-RPG.Constitution</link><link>Pathfinder-RPG.âge</link><link>Pathfinder-RPG.Vigueur</link><link>Pathfinder-RPG.Action simple</link><link>Pathfinder-RPG.niveau négatif</link><link>Pathfinder-RPG.Réflexes</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Linnorm des cairns&lt;div style=&quot;float:right;&quot;&gt;FP 18&lt;/div&gt;&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Bestiaire 3&lt;/i&gt; p.182
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 153.600
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Dragon.html&quot; title=&quot;Dragon&quot;&gt;Dragon&lt;/a&gt; de taille Gig, CM
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +11 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Capacit&#233;s-Sp&#233;ciales.html#VISIONDANSLENOIR&quot; title=&quot;vision dans le noir&quot;&gt;vision dans le noir&lt;/a&gt; 18 m (12 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Nocturne-(Capacit&#233;).html&quot; title=&quot;vision nocturne&quot;&gt;vision nocturne&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Odorat-(Capacit&#233;).html&quot; title=&quot;odorat&quot;&gt;odorat&lt;/a&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Vision-Lucide.html&quot; title=&quot;Vision lucide&quot;&gt;vision lucide&lt;/a&gt;&lt;/i&gt; ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +24
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 35, contact 13, pris au d&#233;pourvu 28 (Dex +7, naturelle +22, taille -4)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 290 (20d12+160) ; r&#233;g&#233;n&#233;ration 10 (fer froid)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +21, &lt;b&gt;Vig&lt;/b&gt; +20, &lt;b&gt;Vol&lt;/b&gt; +17
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Capacit&#233;s d&#233;fensives&lt;/b&gt; &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Libert&#233;-De-Mouvement.html&quot; title=&quot;Libert&#233; de mouvement&quot;&gt;libert&#233; de mouvement&lt;/a&gt;&lt;/i&gt; ; &lt;b&gt;RD&lt;/b&gt; 15/fer froid ; &lt;b&gt;Immunit&#233;&lt;/b&gt; absorption d’&#233;nergie, acide, effets de mal&#233;dictions, effets mentaux, &#233;nergie n&#233;gative, paralysie, poison, sommeil ; &lt;b&gt;RM&lt;/b&gt; 29
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 12 m (8 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), escalade 12 m (8 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), vol 30 m (20 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) (moyenne)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; morsure, +29 (3d8+13/19-20 plus poison) et 2 griffes, +29 (2d6+13) et queue, +24 (3d6+6 plus &lt;a class=&quot;pagelink&quot; href=&quot;&#201;treinte-(Capacit&#233;).html&quot; title=&quot;&#201;treinte&quot;&gt;&#233;treinte&lt;/a&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Espace&lt;/b&gt; 6 m (4 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) ; &lt;b&gt;Allonge&lt;/b&gt; 6 m (4 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaques sp&#233;ciales&lt;/b&gt; souffle, &lt;a class=&quot;pagelink&quot; href=&quot;Constriction-(Capacit&#233;).html&quot; title=&quot;constriction&quot;&gt;constriction&lt;/a&gt; (queue, 2d6+19), mal&#233;diction mortelle
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 37, &lt;b&gt;Dex&lt;/b&gt; 24, &lt;b&gt;Con&lt;/b&gt; 26, &lt;b&gt;Int&lt;/b&gt; 5, &lt;b&gt;Sag&lt;/b&gt; 20, &lt;b&gt;Cha&lt;/b&gt; 27
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +20, &lt;b&gt;BMO&lt;/b&gt; +37 (+41 &lt;a class=&quot;pagelink&quot; href=&quot;Manœuvres-Offensives.html#LUTTE&quot; title=&quot;lutte&quot;&gt;lutte&lt;/a&gt;), &lt;b&gt;DMD&lt;/b&gt;54 (&lt;a class=&quot;pagelink&quot; href=&quot;Croc-En-Jambe.html&quot; title=&quot;croc-en-jambe&quot;&gt;croc-en-jambe&lt;/a&gt; impossible)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Attaque-En-Puissance.html&quot; title=&quot;Attaque en puissance&quot;&gt;Attaque en puissance&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Combat-En-Aveugle.html&quot; title=&quot;Combat en aveugle&quot;&gt;Combat en aveugle&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Encha&#238;nement.html&quot; title=&quot;Encha&#238;nement&quot;&gt;Encha&#238;nement&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Frappe-D&#233;cisive.html&quot; title=&quot;Frappe d&#233;cisive&quot;&gt;Frappe d&#233;cisive&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Science-Du-Critique.html&quot; title=&quot;Science du critique&quot;&gt;Science du critique&lt;/a&gt; (morsure), &lt;a class=&quot;pagelink&quot; href=&quot;Science-De-Linitiative.html&quot; title=&quot;Science de l&amp;#39;initiative&quot;&gt;Science de l’initiative&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Science-De-La-Frappe-D&#233;cisive.html&quot; title=&quot;Science de la frappe d&#233;cisive&quot;&gt;Science de la frappe d&#233;cisive&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Succession-Dencha&#238;nements.html&quot; title=&quot;Succession d&amp;#39;encha&#238;nements&quot;&gt;Succession d’encha&#238;nements&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;R&#233;flexes-Surhumains.html&quot; title=&quot;R&#233;flexes surhumains&quot;&gt;R&#233;flexes surhumains&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Talent.html&quot; title=&quot;Talent&quot;&gt;Talent&lt;/a&gt; (Perception)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; +26, &lt;a class=&quot;pagelink&quot; href=&quot;Escalade.html&quot; title=&quot;Escalade&quot;&gt;Escalade&lt;/a&gt; +33, &lt;a class=&quot;pagelink&quot; href=&quot;Natation.html&quot; title=&quot;Natation&quot;&gt;Natation&lt;/a&gt; +36, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +24, &lt;a class=&quot;pagelink&quot; href=&quot;Vol.html&quot; title=&quot;Vol&quot;&gt;Vol&lt;/a&gt; +13
+&lt;/div&gt; &lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Modificateurs raciaux&lt;/b&gt; +4 en &lt;a class=&quot;pagelink&quot; href=&quot;Acrobaties.html&quot; title=&quot;Acrobaties&quot;&gt;Acrobaties&lt;/a&gt; pour sauter, +8 en &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Langues&lt;/b&gt; aklo, draconique, sylvestre
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; collines froides
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation sociale&lt;/b&gt; solitaire
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; triple
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Capacit&#233;s sp&#233;ciales&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Epines (Ext).&lt;/b&gt; Toutes les cr&#233;atures qui portent une attaque de corps &#224; corps contre un linnorm de la ta&#239;ga re&#231;oivent 1d6 points de d&#233;g&#226;ts perforants par attaque &#224; cause des &#233;pines du linnorm. Une arme de corps &#224; corps ayant une allonge prot&#232;ge contres ces &#233;pines.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Mal&#233;diction mortelle (Sur).&lt;/b&gt; Mal&#233;diction de d&#233;composition : JdS &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;Volont&#233;&quot;&gt;Volont&#233;&lt;/a&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DEGREDEDIFFICULTE&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; 28 ; effet la cr&#233;ature subit un affaiblissement temporaire de 1 point de &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#CONSTITUTION&quot; title=&quot;La Constitution&quot;&gt;Constitution&lt;/a&gt; par jour et vieillit &#224; un rythme surnaturel, en prenant un an par jour, subissant tous les malis du &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tat-Civil-Et-Mensurations.html#AGE&quot; title=&quot;&#226;ge&quot;&gt;grand &#226;ge&lt;/a&gt; sans profiter de ses b&#233;n&#233;fices.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Poison (Ext).&lt;/b&gt; Morsure — blessure ; JdS &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;Vigueur&quot;&gt;Vigueur&lt;/a&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DEGREDEDIFFICULTE&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; 28 ; fr&#233;quence 1/round pendant 10 rounds ; effet 4d6 d&#233;g&#226;ts d’acide et diminution permanente de 1d6 &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#CONSTITUTION&quot; title=&quot;La Constitution&quot;&gt;Con&lt;/a&gt; ; gu&#233;rison 2 r&#233;ussites cons&#233;cutives.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Souffle (Sur).&lt;/b&gt; Une fois tous les 1d4 rounds, par une &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions.html#SIMPLE&quot; title=&quot;Action simple&quot;&gt;action simple&lt;/a&gt;, le linnorm des cairns peut cracher un c&#244;ne de bile acide de 18 m&#232;tres (12 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) infligeant 18d8 points de d&#233;g&#226;ts d’acide &#224; toutes les cr&#233;atures touch&#233;es. En outre, cette bile est empreinte d’&#233;nergie n&#233;gative et inflige 1d4 &lt;a class=&quot;pagelink&quot; href=&quot;Absorption-D&#233;nergie-(Capacit&#233;).html&quot; title=&quot;niveau n&#233;gatif&quot;&gt;niveaux n&#233;gatifs&lt;/a&gt; &#224; toutes les cr&#233;atures touch&#233;es. Un jet de &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;R&#233;flexes&quot;&gt;R&#233;flexes&lt;/a&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DEGREDEDIFFICULTE&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; 28 r&#233;ussi permet de r&#233;duire les d&#233;g&#226;ts de moiti&#233; et d’annuler compl&#232;tement les niveaux n&#233;gatifs. Le &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DEGREDEDIFFICULTE&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; du jet de sauvegarde est bas&#233; sur la &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#CONSTITUTION&quot; title=&quot;La Constitution&quot;&gt;Constitution&lt;/a&gt;.
+&lt;/div&gt;&lt;br /&gt;&lt;/div&gt;
+&lt;/td&gt;&lt;td&gt;&lt;div&gt;&lt;i&gt;P&#226;le et horriblement d&#233;charn&#233;e, cette &#233;norme cr&#233;ature &#233;maci&#233;e, ressemblant &#224; un dragon, a deux avant-bras mais pas d’ailes.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;
+Les linnorms des cairns pr&#233;f&#232;rent vivre dans les n&#233;cropoles,
+parmi les tertres fun&#233;raires ou dans des cavernes situ&#233;es sous la
+terre br&#251;l&#233;e des champs de bataille l&#233;gendaires. Ces linnorms
+se d&#233;lectent de la chair des morts-vivants : s’ils ne peuvent pas
+consommer les morts-vivants intangibles, les r&#233;gions qu’ils
+hantent sont g&#233;n&#233;ralement vides de tout mort-vivant tangible
+n’ayant pas assez d’intelligence pour &#233;chapper aux app&#233;tits
+f&#233;roces du linnorm des cairns. Une cr&#233;ature morte-vivante
+incroyablement puissante pourrait utiliser le linnorm des cairns
+comme gardien, le manipulant tout en se choisissant un cairn
+ou un tombeau situ&#233; en plein coeur du territoire du linnorm. Si
+les linnorms des cairns n’h&#233;sitent pas &#224; se nourrir des cr&#233;atures
+mortes-vivantes qu’ils croisent, certaines anciennes superstitions
+communes &#224; tous les linnorms les emp&#234;chent de p&#233;n&#233;trer dans
+un tombeau ou dans un site fun&#233;raire ferm&#233;, &#224; moins que les
+morts-vivants qui y r&#233;sident ou un pr&#234;tre au service de la
+religion associ&#233;e au site ne les y autorisent. De la m&#234;me
+mani&#232;re, un linnorm des cairns pi&#233;g&#233; dans un tombeau
+suffisamment grand pour l’accueillir pr&#233;f&#232;re ne pas
+quitter les lieux sans une permission
+similaire. Ces limitations sont d’ordre
+purement psychologique et le
+linnorm peut les enfreindre s’il
+y est contraint (par exemple, par
+un ennemi cherchant &#224; utiliser
+l’entr&#233;e d’un tombeau comme d&#233;fense)
+Le linnorm des cairns mesure 18 m&#232;tres de long
+et p&#232;se 6 tonnes.
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Linnorm des cairns|FP 18}
+{s:pucem|Dragon|Forêt-jungle|Froid}
+{s:BDTexte|''Source : Bestiaire 3'' p.182}
+{s:BDTexte|'''PX''' 153.600}
+{s:BDTexte|[[type Dragon|Dragon]] de taille Gig, CM}
+{s:BDTexte|'''Init''' +11 ; '''Sens''' [[vision dans le noir]] 18 m (12 {s:c}), [[vision nocturne]], [[odorat]], ''[[vision lucide]]'' ; [[Perception]] +24}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 35, contact 13, pris au dépourvu 28 (Dex +7, naturelle +22, taille -4)}
+{s:BDTexte|'''pv''' 290 (20d12+160) ; régénération 10 (fer froid)}
+{s:BDTexte|'''Réf''' +21, '''Vig''' +20, '''Vol''' +17}
+{s:BDTexte|'''Capacités défensives''' ''[[liberté de mouvement]]'' ; '''RD''' 15/fer froid ; '''Immunité''' absorption d’énergie, acide, effets de malédictions, effets mentaux, énergie négative, paralysie, poison, sommeil ; '''RM''' 29}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 12 m (8 {s:c}), escalade 12 m (8 {s:c}), vol 30 m (20 {s:c}) (moyenne)}
+{s:BDTexte|'''Corps à corps''' morsure, +29 (3d8+13/19-20 plus poison) et 2 griffes, +29 (2d6+13) et queue, +24 (3d6+6 plus [[étreinte]])}
+{s:BDTexte|'''Espace''' 6 m (4 {s:c}) ; '''Allonge''' 6 m (4 {s:c})}
+{s:BDTexte|'''Attaques spéciales''' souffle, [[constriction]] (queue, 2d6+19), malédiction mortelle}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 37, '''Dex''' 24, '''Con''' 26, '''Int''' 5, '''Sag''' 20, '''Cha''' 27}
+{s:BDTexte|'''BBA''' +20, '''BMO''' +37 (+41 [[lutte]]), '''DMD'''54 ([[croc-en-jambe]] impossible)}
+{s:BDTexte|'''Dons''' [[Attaque en puissance]], [[Combat en aveugle]], [[Enchaînement]], [[Frappe décisive]], [[Science du critique]] (morsure), [[Science de linitiative|Science de l’initiative]], [[Science de la frappe décisive]], [[Succession denchaînements|Succession d’enchaînements]], [[Réflexes surhumains]], [[Talent]] (Perception)}
+{s:BDTexte|'''Compétences''' [[Discrétion]] +26, [[Escalade]] +33, [[Natation]] +36, [[Perception]] +24, [[Vol]] +13} {s:BDTexte|'''Modificateurs raciaux''' +4 en [[Acrobaties]] pour sauter, +8 en [[Discrétion]]}
+{s:BDTexte|'''Langues''' aklo, draconique, sylvestre}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' collines froides}
+{s:BDTexte|'''Organisation sociale''' solitaire}
+{s:BDTexte|'''Trésor''' triple}
+{s:BDSousTitre|Capacités spéciales}
+{s:BDTexte|'''Epines (Ext).''' Toutes les créatures qui portent une attaque de corps à corps contre un linnorm de la taïga reçoivent 1d6 points de dégâts perforants par attaque à cause des épines du linnorm. Une arme de corps à corps ayant une allonge protège contres ces épines.}
+{s:BDTexte|'''Malédiction mortelle (Sur).''' Malédiction de décomposition : JdS [[Volonté]] [[DD]] 28 ; effet la créature subit un affaiblissement temporaire de 1 point de [[Constitution]] par jour et vieillit à un rythme surnaturel, en prenant un an par jour, subissant tous les malis du [[âge|grand âge]] sans profiter de ses bénéfices.}
+{s:BDTexte|'''Poison (Ext).''' Morsure — blessure ; JdS [[Vigueur]] [[DD]] 28 ; fréquence 1/round pendant 10 rounds ; effet 4d6 dégâts d’acide et diminution permanente de 1d6 [[Constitution|Con]] ; guérison 2 réussites consécutives.}
+{s:BDTexte|'''Souffle (Sur).''' Une fois tous les 1d4 rounds, par une [[action simple]], le linnorm des cairns peut cracher un cône de bile acide de 18 mètres (12 {s:c}) infligeant 18d8 points de dégâts d’acide à toutes les créatures touchées. En outre, cette bile est empreinte d’énergie négative et inflige 1d4 [[niveau négatif|niveaux négatifs]] à toutes les créatures touchées. Un jet de [[Réflexes]] [[DD]] 28 réussi permet de réduire les dégâts de moitié et d’annuler complètement les niveaux négatifs. Le [[DD]] du jet de sauvegarde est basé sur la [[Constitution]].}
+
+</div>
+</td><td><div>''Pâle et horriblement décharnée, cette énorme créature émaciée, ressemblant à un dragon, a deux avant-bras mais pas d’ailes.''
+
+
+Les linnorms des cairns préfèrent vivre dans les nécropoles,
+parmi les tertres funéraires ou dans des cavernes situées sous la
+terre brûlée des champs de bataille légendaires. Ces linnorms
+se délectent de la chair des morts-vivants : s’ils ne peuvent pas
+consommer les morts-vivants intangibles, les régions qu’ils
+hantent sont généralement vides de tout mort-vivant tangible
+n’ayant pas assez d’intelligence pour échapper aux appétits
+féroces du linnorm des cairns. Une créature morte-vivante
+incroyablement puissante pourrait utiliser le linnorm des cairns
+comme gardien, le manipulant tout en se choisissant un cairn
+ou un tombeau situé en plein coeur du territoire du linnorm. Si
+les linnorms des cairns n’hésitent pas à se nourrir des créatures
+mortes-vivantes qu’ils croisent, certaines anciennes superstitions
+communes à tous les linnorms les empêchent de pénétrer dans
+un tombeau ou dans un site funéraire fermé, à moins que les
+morts-vivants qui y résident ou un prêtre au service de la
+religion associée au site ne les y autorisent. De la même
+manière, un linnorm des cairns piégé dans un tombeau
+suffisamment grand pour l’accueillir préfère ne pas
+quitter les lieux sans une permission
+similaire. Ces limitations sont d’ordre
+purement psychologique et le
+linnorm peut les enfreindre s’il
+y est contraint (par exemple, par
+un ennemi cherchant à utiliser
+l’entrée d’un tombeau comme défense)
+Le linnorm des cairns mesure 18 mètres de long
+et pèse 6 tonnes.
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Linnorm des cairns</fullName>
+</wikiPage>

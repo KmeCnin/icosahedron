@@ -1,0 +1,138 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Mastodonte</title>
+  <categories><category>Pathfinder-RPG.Bestiaire</category><category>Pathfinder-RPG.Monstre</category><category>Pathfinder-RPG.Règles officielles</category></categories>
+  <lastModified>2014-05-21 23:33:41Z</lastModified>
+  <version>9</version>
+  <inLinks><link>Pathfinder-RPG.Cavalier des bêtes (chevalier)</link><link>Pathfinder-RPG.Convocation dalliés naturels</link><link>Pathfinder-RPG.Convocation de monstres</link><link>Pathfinder-RPG.Glossaire des monstres</link><link>Pathfinder-RPG.Liste de monstres par FP</link><link>Pathfinder-RPG.Liste de monstres par milieu naturel</link><link>Pathfinder-RPG.Liste de monstres par type</link><link>Pathfinder-RPG.Monstres</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.type Animal</link><link>Pathfinder-RPG.odorat</link><link>Pathfinder-RPG.vision nocturne</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Piétinement (capacité)</link><link>Pathfinder-RPG.croc-en-jambe</link><link>Pathfinder-RPG.Arme de prédilection</link><link>Pathfinder-RPG.Attaque en puissance</link><link>Pathfinder-RPG.Endurance</link><link>Pathfinder-RPG.Science de la bousculade</link><link>Pathfinder-RPG.Science de la volonté de fer</link><link>Pathfinder-RPG.Talent</link><link>Pathfinder-RPG.Volonté de fer</link><link>Pathfinder-RPG.Piétinement</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Mastodonte (ou Mammouth)&lt;div style=&quot;float:right;&quot;&gt;FP 9&lt;/div&gt;&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Bestiaire p.130&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 6 400
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Animal.html&quot; title=&quot;Animal&quot;&gt;Animal&lt;/a&gt; de taille TG, N
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +1 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Odorat-(Capacit&#233;).html&quot; title=&quot;odorat&quot;&gt;odorat&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Nocturne-(Capacit&#233;).html&quot; title=&quot;vision nocturne&quot;&gt;vision nocturne&lt;/a&gt; ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +24
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 21, contact 9, pris au d&#233;pourvu 20 (Dex +1, naturelle +12, taille -2)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 133 (14d8+70)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +10, &lt;b&gt;Vig&lt;/b&gt; +14, &lt;b&gt;Vol&lt;/b&gt; +7
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 12 m (8 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; d&#233;fenses, +21 (2d8+12), coup, +20 (2d6+12)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Espace&lt;/b&gt; 4,50 m (3 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) ; &lt;b&gt;Allonge&lt;/b&gt; 4,50 m (3 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaques sp&#233;ciales&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pi&#233;tinement-(Capacit&#233;).html&quot; title=&quot;Pi&#233;tinement (Ext)&quot;&gt;pi&#233;tinement&lt;/a&gt; (2d8+18, DD 29)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 34, &lt;b&gt;Dex&lt;/b&gt; 12, &lt;b&gt;Con&lt;/b&gt; 21, &lt;b&gt;Int&lt;/b&gt; 2, &lt;b&gt;Sag&lt;/b&gt; 13, &lt;b&gt;Cha&lt;/b&gt; 7
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +10, &lt;b&gt;BMO&lt;/b&gt; +24, &lt;b&gt;DMD&lt;/b&gt; 35 (39 contre le &lt;a class=&quot;pagelink&quot; href=&quot;Croc-En-Jambe.html&quot; title=&quot;croc-en-jambe&quot;&gt;croc-en-jambe&lt;/a&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Arme-De-Pr&#233;dilection.html&quot; title=&quot;Arme de pr&#233;dilection&quot;&gt;Arme de pr&#233;dilection&lt;/a&gt; (d&#233;fenses), &lt;a class=&quot;pagelink&quot; href=&quot;Attaque-En-Puissance.html&quot; title=&quot;Attaque en puissance&quot;&gt;Attaque en puissance&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Endurance.html&quot; title=&quot;Endurance&quot;&gt;Endurance&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Science-De-La-Bousculade.html&quot; title=&quot;Science de la bousculade&quot;&gt;Science de la bousculade&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Science-De-La-Volont&#233;-De-Fer.html&quot; title=&quot;Science de la volont&#233; de fer&quot;&gt;Science de la volont&#233; de fer&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Talent.html&quot; title=&quot;Talent&quot;&gt;Talent&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt;), &lt;a class=&quot;pagelink&quot; href=&quot;Volont&#233;-De-Fer.html&quot; title=&quot;Volont&#233; de fer&quot;&gt;Volont&#233; de fer&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +24
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; for&#234;ts ou plaines, climat temp&#233;r&#233; ou froid
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation sociale&lt;/b&gt; solitaire ou troupeau (6-30)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; aucun
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;td&gt;&lt;div&gt;&lt;i&gt;Cette cr&#233;ature, plus grande qu’un &#233;l&#233;phant normal, poss&#232;de deux &#233;normes d&#233;fenses et son corps est recouvert de longs poils bruns.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Les grands mastodontes sont les cousins primitifs des &#233;l&#233;phants. Les
+d&#233;fenses de ces derniers paraissent presque ridicules &#224; c&#244;t&#233; de celles
+des mastodontes, qui s’&#233;lancent vers
+l’avant avant de s’incurver
+et de se rapprocher au
+niveau de la pointe. Les
+mammouths laineux
+&#224; longs poils sont des
+variantes de mastodontes
+particuli&#232;rement bien
+adapt&#233;es aux environnements
+froids (ils poss&#232;dent les m&#234;mes
+caract&#233;ristiques).&lt;br /&gt;&lt;br /&gt;&lt;h3 class=&quot;separator&quot;&gt;Le mastodonte comme compagnon animal&lt;a class=&quot;headeranchor&quot; id=&quot;Le_mastodonte_comme_compagnon_animal_0&quot; href=&quot;#Le_mastodonte_comme_compagnon_animal_0&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;
+&lt;b&gt;Caract&#233;ristiques de d&#233;part.&lt;/b&gt; &lt;b&gt;Taille&lt;/b&gt; M ; &lt;b&gt;Vitesse&lt;/b&gt; 12 m (8 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) ; &lt;b&gt;CA&lt;/b&gt; armure naturelle +4 ; &lt;b&gt;Attaque&lt;/b&gt; d&#233;fenses (1d8), coup (1d6) ; &lt;b&gt;Caract&#233;ristiques&lt;/b&gt; For 14, Dex 14, Con 13, Int 2, Sag 13, Cha 7 ; &lt;b&gt;Particularit&#233;s&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Odorat-(Capacit&#233;).html&quot; title=&quot;odorat&quot;&gt;odorat&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Nocturne-(Capacit&#233;).html&quot; title=&quot;vision nocturne&quot;&gt;vision nocturne&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;&#201;volution au niveau 7.&lt;/b&gt; &lt;b&gt;Taille&lt;/b&gt; G ; &lt;b&gt;CA&lt;/b&gt; armure naturelle +3 ; &lt;b&gt;Attaque&lt;/b&gt; d&#233;fenses (2d6), coup
+(1d8) ; &lt;b&gt;Caract&#233;ristiques&lt;/b&gt; For +8, Dex -2, Con +4 ; &lt;b&gt;Particularit&#233;s&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pi&#233;tinement.html&quot; title=&quot;Pi&#233;tinement&quot;&gt;Pi&#233;tinement&lt;/a&gt; (2d6).
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Mastodonte (ou Mammouth)|FP 9}
+{s:pucem|Animal|Plaines|Froid}
+{s:BDTexte|''Source : Bestiaire p.130''}
+{s:BDTexte|'''PX''' 6 400}
+{s:BDTexte|[[type Animal|Animal]] de taille TG, N}
+{s:BDTexte|'''Init''' +1 ; '''Sens''' [[odorat]], [[vision nocturne]] ; [[Perception]] +24}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 21, contact 9, pris au dépourvu 20 (Dex +1, naturelle +12, taille -2)}
+{s:BDTexte|'''pv''' 133 (14d8+70)}
+{s:BDTexte|'''Réf''' +10, '''Vig''' +14, '''Vol''' +7}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 12 m (8 {s:c})}
+{s:BDTexte|'''Corps à corps''' défenses, +21 (2d8+12), coup, +20 (2d6+12)}
+{s:BDTexte|'''Espace''' 4,50 m (3 {s:c}) ; '''Allonge''' 4,50 m (3 {s:c})}
+{s:BDTexte|'''Attaques spéciales''' [[Piétinement (capacité)|piétinement]] (2d8+18, DD 29)}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 34, '''Dex''' 12, '''Con''' 21, '''Int''' 2, '''Sag''' 13, '''Cha''' 7}
+{s:BDTexte|'''BBA''' +10, '''BMO''' +24, '''DMD''' 35 (39 contre le [[croc-en-jambe]])}
+{s:BDTexte|'''Dons''' [[Arme de prédilection]] (défenses), [[Attaque en puissance]], [[Endurance]], [[Science de la bousculade]], [[Science de la volonté de fer]], [[Talent]] ([[Perception]]), [[Volonté de fer]]}
+{s:BDTexte|'''Compétences''' [[Perception]] +24}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' forêts ou plaines, climat tempéré ou froid}
+{s:BDTexte|'''Organisation sociale''' solitaire ou troupeau (6-30)}
+{s:BDTexte|'''Trésor''' aucun}
+</div>
+</td><td><div>''Cette créature, plus grande qu’un éléphant normal, possède deux énormes défenses et son corps est recouvert de longs poils bruns.''
+
+Les grands mastodontes sont les cousins primitifs des éléphants. Les
+défenses de ces derniers paraissent presque ridicules à côté de celles
+des mastodontes, qui s’élancent vers
+l’avant avant de s’incurver
+et de se rapprocher au
+niveau de la pointe. Les
+mammouths laineux
+à longs poils sont des
+variantes de mastodontes
+particulièrement bien
+adaptées aux environnements
+froids (ils possèdent les mêmes
+caractéristiques).
+
+====Le mastodonte comme compagnon animal====
+
+'''Caractéristiques de départ.''' '''Taille''' M ; '''Vitesse''' 12 m (8 {s:c}) ; '''CA''' armure naturelle +4 ; '''Attaque''' défenses (1d8), coup (1d6) ; '''Caractéristiques''' For 14, Dex 14, Con 13, Int 2, Sag 13, Cha 7 ; '''Particularités''' [[odorat]], [[vision nocturne]].
+
+'''Évolution au niveau 7.''' '''Taille''' G ; '''CA''' armure naturelle +3 ; '''Attaque''' défenses (2d6), coup
+(1d8) ; '''Caractéristiques''' For +8, Dex -2, Con +4 ; '''Particularités''' [[Piétinement]] (2d6).
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Mastodonte</fullName>
+</wikiPage>

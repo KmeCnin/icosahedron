@@ -1,0 +1,173 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Dogue d'ombre</title>
+  <categories><category>Pathfinder-RPG.Bestiaire 2</category><category>Pathfinder-RPG.Monstre</category><category>Pathfinder-RPG.Règles officielles</category></categories>
+  <lastModified>2014-07-17 20:54:34Z</lastModified>
+  <version>5</version>
+  <inLinks><link>Pathfinder-RPG.Glossaire des monstres</link><link>Pathfinder-RPG.Héraut des ombres (conjurateur)</link><link>Pathfinder-RPG.Liste de monstres par FP</link><link>Pathfinder-RPG.Liste de monstres par milieu naturel</link><link>Pathfinder-RPG.Liste de monstres par type</link><link>Pathfinder-RPG.Monstres</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.type Extérieur</link><link>Pathfinder-RPG.sous-type extraplanaire</link><link>Pathfinder-RPG.sous-type Mal</link><link>Pathfinder-RPG.odorat</link><link>Pathfinder-RPG.vision dans le noir</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.croc-en-jambe</link><link>Pathfinder-RPG.Attaque en puissance</link><link>Pathfinder-RPG.Science de linitiative</link><link>Pathfinder-RPG.Volonté de fer</link><link>Pathfinder-RPG.Discrétion</link><link>Pathfinder-RPG.Survie</link><link>Pathfinder-RPG.Paniqué</link><link>Pathfinder-RPG.camouflage</link><link>Pathfinder-RPG.Lumière</link><link>Pathfinder-RPG.Flamme éternelle</link><link>Pathfinder-RPG.Lumière du jour</link><link>Pathfinder-RPG.Allié doutreplan</link><link>Pathfinder-RPG.Contrat</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Dogue d&#39;ombre (ou Mastiff de l&#39;ombre)&lt;div style=&quot;float:right;&quot;&gt;FP 5&lt;/div&gt;&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Bestiaire 2, p.101&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 1 600
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Ext&#233;rieur.html&quot; title=&quot;Ext&#233;rieur&quot;&gt;Ext&#233;rieur&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Extraplanaire.html&quot; title=&quot;Extraplanaire (sous-type)&quot;&gt;extraplanaire&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Mal.html&quot; title=&quot;Mal (sous-type)&quot;&gt;Mal&lt;/a&gt;) de taille M, NM
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +6 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Odorat-(Capacit&#233;).html&quot; title=&quot;odorat&quot;&gt;odorat&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Capacit&#233;s-Sp&#233;ciales.html#VISIONDANSLENOIR&quot; title=&quot;vision dans le noir&quot;&gt;vision dans le noir&lt;/a&gt; 18 m (12 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +10
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 18, contact 12, pris au d&#233;pourvu 16 (Dex +2, naturelle +6)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 51 (6d10+18)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +7, &lt;b&gt;Vig&lt;/b&gt; +8, &lt;b&gt;Vol&lt;/b&gt; +5
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Capacit&#233;s d&#233;fensives&lt;/b&gt; fusion avec les ombres
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt;  15 m (10 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; morsure +10 (1d8+6 plus &lt;a class=&quot;pagelink&quot; href=&quot;Croc-En-Jambe.html&quot; title=&quot;croc-en-jambe&quot;&gt;croc-en-jambe&lt;/a&gt;) et coup de queue, +5 (1d6+3)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaques sp&#233;ciales&lt;/b&gt; aboiement
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 19, &lt;b&gt;Dex&lt;/b&gt; 15, &lt;b&gt;Con&lt;/b&gt; 17, &lt;b&gt;Int&lt;/b&gt; 4, &lt;b&gt;Sag&lt;/b&gt; 12, &lt;b&gt;Cha&lt;/b&gt; 13
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +6, &lt;b&gt;BMO&lt;/b&gt; +10, &lt;b&gt;DMD&lt;/b&gt; 22 (26 contre le &lt;a class=&quot;pagelink&quot; href=&quot;Croc-En-Jambe.html&quot; title=&quot;croc-en-jambe&quot;&gt;croc-en-jambe&lt;/a&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Attaque-En-Puissance.html&quot; title=&quot;Attaque en puissance&quot;&gt;Attaque en puissance&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Science-De-Linitiative.html&quot; title=&quot;Science de l&amp;#39;initiative&quot;&gt;Science de l’initiative&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Volont&#233;-De-Fer.html&quot; title=&quot;Volont&#233; de fer&quot;&gt;Volont&#233; de fer&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; +11, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +10, &lt;a class=&quot;pagelink&quot; href=&quot;Survie.html&quot; title=&quot;Survie&quot;&gt;Survie&lt;/a&gt; +10
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Langues&lt;/b&gt; commun (ne sait pas parler)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; tous
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation sociale&lt;/b&gt; solitaire, couple ou meute (5-8)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; aucun
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Pouvoirs sp&#233;ciaux&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Aboiement (Sur).&lt;/b&gt;  Quand un dogue d’ombre hurle ou aboie, toutes les cr&#233;atures autres que des Ext&#233;rieurs mauvais et qui se trouvent dans un rayon de 90 m&#232;tres (60 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) doivent r&#233;ussir un jet de Volont&#233; de DD 16 ou &#234;tre &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables.html#Paniqu&#233;&quot; title=&quot;Paniqu&#233;&quot;&gt;paniqu&#233;es&lt;/a&gt; pendant 1d4 rounds. C’est un effet mental de son et de peur. Que la cr&#233;ature ait r&#233;ussi son jet de sauvegarde ou non, elle est immunis&#233;e contre les aboiements de ce molosse pendant 24 heures. Le DD du jet de sauvegarde est bas&#233; sur le Charisme.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Fusion avec les ombres (Sur).&lt;/b&gt; Quelle que soit la luminosit&#233;, &#224; moins qu’il ne fasse grand jour, un molosse peut dispara&#238;tre dans les ombres et gagner ainsi un &lt;a class=&quot;pagelink&quot; href=&quot;Modificateurs-De-Combat.html#CAMOUFLAGE&quot; title=&quot;camouflage&quot;&gt;camouflage&lt;/a&gt; (50% de pourcentage de chances d&#39;&#233;chec des attaques). La lumi&#232;re artificielle comme un
+sort de &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Lumi&#232;re.html&quot; title=&quot;Lumi&#232;re&quot;&gt;lumi&#232;re&lt;/a&gt;&lt;/i&gt; ou de &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Flamme-&#201;ternelle.html&quot; title=&quot;Flamme &#233;ternelle&quot;&gt;flamme &#233;ternelle&lt;/a&gt;&lt;/i&gt; ne l’emp&#234;che pas de recourir &#224; ce pouvoir. Seul un sort de &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Lumi&#232;re-Du-Jour.html&quot; title=&quot;Lumi&#232;re du jour&quot;&gt;lumi&#232;re du jour&lt;/a&gt;&lt;/i&gt; peut y parvenir. Le dogue d’ombre peut utiliser ce pouvoir et l’annuler &#224; volont&#233;.
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;td&gt;&lt;div&gt;&lt;i&gt;Bien que cette cr&#233;ature musculeuse ressemble &#224; un chien, sa fourrure absorbe la lumi&#232;re et attire les ombres autour d’elle. Sa gueule est garnie de crocs ac&#233;r&#233;s et des volutes d’ombre s’&#233;chappent de sa langue ondulante.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Chasseurs infatigables, traqueurs invisibles et dangereux
+pr&#233;dateurs, les dogues d’ombres r&#244;dent dans les recoins
+d’accomplir une t&#226;che qui implique de chasser
+et de tuer une cr&#233;ature particuli&#232;re.
+Les plus sombres des plans Ext&#233;rieurs et se nourrissent
+de tous ceux qui s’&#233;cartent de la lumi&#232;re. En dehors
+de leur apparence, ces cr&#233;atures ont bien peu de
+choses en commun avec les v&#233;ritables canid&#233;s, car leur
+corps actuel r&#233;sulte de milliers d’ann&#233;es d’&#233;volution
+pass&#233;es &#224; chasser dans les &#233;tendues sauvages les plus
+impitoyables des plans Ext&#233;rieurs et du plan de l’Ombre.
+Quand ils se trouvent sur le plan Mat&#233;riel, ils pr&#233;f&#232;rent
+se d&#233;placer dans les ombres d’o&#249; ils traquent leurs proies,
+silencieux et invisibles. Ils chassent autant pour se nourrir
+que pour le plaisir. Un dogue d’ombre mesure 1,20 au garrot
+et p&#232;se pr&#232;s de 150 kilos.&lt;br /&gt;&lt;br /&gt;Quand les molosses se battent, ils pr&#233;f&#232;rent attaquer dans
+l’ombre. Ils ne s’avancent pas dans les zones bien &#233;clair&#233;es
+&#224; moins d’y &#234;tre contraints et dans ce cas, ils utilisent leur
+aboiement pour faire fuir leurs proies loin de la lumi&#232;re. Les
+dogues d’ombre pr&#233;f&#232;rent chasser en groupe et recourent &#224;
+une tactique de meute pour attirer leur proie dans un pi&#232;ge,
+loin de toute source de lumi&#232;re. Ils ne s’installent pas dans
+un antre et ne poss&#232;dent donc pas de tr&#233;sor, hormis ce qu’on
+peut trouver sur le cadavre de leurs derni&#232;res victimes.&lt;br /&gt;&lt;br /&gt;Les dogues d&#39;ombre sont souvent utilis&#233;s en tant que protecteurs et gardiens par les lanceurs de sorts capables des invoquer via un sort de &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Alli&#233;-Doutreplan.html&quot; title=&quot;Alli&#233; d&amp;#39;outreplan&quot;&gt;alli&#233; d’outreplan&lt;/a&gt;&lt;/i&gt; ou &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Contrat.html&quot; title=&quot;Contrat&quot;&gt;contrat&lt;/a&gt;&lt;/i&gt;. Les lanceurs de sorts morts-vivants et les Ext&#233;rieurs mal&#233;fiques sont immunis&#233;s contre l&#39;aboiement effrayant du dogue ; les autres, qui ne b&#233;n&#233;ficient pas de cette protection, s&#39;exposent g&#233;n&#233;ralement &#224; cet effet de mani&#232;re intentionnelle &#224; un moment donn&#233; au cours de la journ&#233;e, lorsque la panique qui en r&#233;sultera ne perturbera pas leurs autres activit&#233;s. En r&#232;gle g&#233;n&#233;rale, on peut supposer que tout site poss&#233;dant un dogue d&#39;ombre en tant que gardien a d&#233;j&#224; &#233;t&#233; affect&#233; par leur aboiement et que les habitants sont immunis&#233;s contre ses effets pendant le reste de la journ&#233;e.&lt;br /&gt;&lt;br /&gt;Il existe &#233;galement de plus grands dogues d&#39;ombre, des cr&#233;atures de la taille d&#39;un cheval ou plus grandes encore. Ces b&#234;tes poss&#232;dent des formes vari&#233;es : elles ressemblent moins &#224; des chiens et plus &#224; d&#39;autres cr&#233;atures de taille plus importantes comme des lions, des dinosaures, voire m&#234;me des dragons. Ces cr&#233;atures poss&#232;dent des DV raciaux suppl&#233;mentaires et pourraient m&#234;me b&#233;n&#233;ficier de capacit&#233;s additionnelles (comme la capacit&#233; de voler ou un souffle).
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Dogue d'ombre (ou Mastiff de l'ombre)|FP 5}
+{s:pucem|Extérieur|Ruines-donjons|Extraplanaire}
+{s:BDTexte|''Source : Bestiaire 2, p.101''}
+{s:BDTexte|'''PX''' 1 600}
+{s:BDTexte|[[type Extérieur|Extérieur]] ([[sous-type extraplanaire|extraplanaire]], [[sous-type Mal|Mal]]) de taille M, NM}
+{s:BDTexte|'''Init''' +6 ; '''Sens''' [[odorat]], [[vision dans le noir]] 18 m (12 {s:c}) ; [[Perception]] +10}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 18, contact 12, pris au dépourvu 16 (Dex +2, naturelle +6)}
+{s:BDTexte|'''pv''' 51 (6d10+18)}
+{s:BDTexte|'''Réf''' +7, '''Vig''' +8, '''Vol''' +5}
+{s:BDTexte|'''Capacités défensives''' fusion avec les ombres}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD'''  15 m (10 {s:c})}
+{s:BDTexte|'''Corps à corps''' morsure +10 (1d8+6 plus [[croc-en-jambe]]) et coup de queue, +5 (1d6+3)}
+{s:BDTexte|'''Attaques spéciales''' aboiement}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 19, '''Dex''' 15, '''Con''' 17, '''Int''' 4, '''Sag''' 12, '''Cha''' 13}
+{s:BDTexte|'''BBA''' +6, '''BMO''' +10, '''DMD''' 22 (26 contre le [[croc-en-jambe]])}
+{s:BDTexte|'''Dons''' [[Attaque en puissance]], [[Science de linitiative|Science de l’initiative]], [[Volonté de fer]]}
+{s:BDTexte|'''Compétences''' [[Discrétion]] +11, [[Perception]] +10, [[Survie]] +10}
+{s:BDTexte|'''Langues''' commun (ne sait pas parler)}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' tous}
+{s:BDTexte|'''Organisation sociale''' solitaire, couple ou meute (5-8)}
+{s:BDTexte|'''Trésor''' aucun}
+{s:BDSousTitre|Pouvoirs spéciaux}
+{s:BDTexte|'''Aboiement (Sur).'''  Quand un dogue d’ombre hurle ou aboie, toutes les créatures autres que des Extérieurs mauvais et qui se trouvent dans un rayon de 90 mètres (60 {s:c}) doivent réussir un jet de Volonté de DD 16 ou être [[paniqué|paniquées]] pendant 1d4 rounds. C’est un effet mental de son et de peur. Que la créature ait réussi son jet de sauvegarde ou non, elle est immunisée contre les aboiements de ce molosse pendant 24 heures. Le DD du jet de sauvegarde est basé sur le Charisme.}
+{s:BDTexte|'''Fusion avec les ombres (Sur).''' Quelle que soit la luminosité, à moins qu’il ne fasse grand jour, un molosse peut disparaître dans les ombres et gagner ainsi un [[camouflage]] (50% de pourcentage de chances d'échec des attaques). La lumière artificielle comme un
+sort de ''[[lumière]]'' ou de ''[[flamme éternelle]]'' ne l’empêche pas de recourir à ce pouvoir. Seul un sort de ''[[lumière du jour]]'' peut y parvenir. Le dogue d’ombre peut utiliser ce pouvoir et l’annuler à volonté.}
+</div>
+</td><td><div>''Bien que cette créature musculeuse ressemble à un chien, sa fourrure absorbe la lumière et attire les ombres autour d’elle. Sa gueule est garnie de crocs acérés et des volutes d’ombre s’échappent de sa langue ondulante.''
+
+Chasseurs infatigables, traqueurs invisibles et dangereux
+prédateurs, les dogues d’ombres rôdent dans les recoins
+d’accomplir une tâche qui implique de chasser
+et de tuer une créature particulière.
+Les plus sombres des plans Extérieurs et se nourrissent
+de tous ceux qui s’écartent de la lumière. En dehors
+de leur apparence, ces créatures ont bien peu de
+choses en commun avec les véritables canidés, car leur
+corps actuel résulte de milliers d’années d’évolution
+passées à chasser dans les étendues sauvages les plus
+impitoyables des plans Extérieurs et du plan de l’Ombre.
+Quand ils se trouvent sur le plan Matériel, ils préfèrent
+se déplacer dans les ombres d’où ils traquent leurs proies,
+silencieux et invisibles. Ils chassent autant pour se nourrir
+que pour le plaisir. Un dogue d’ombre mesure 1,20 au garrot
+et pèse près de 150 kilos.
+
+Quand les molosses se battent, ils préfèrent attaquer dans
+l’ombre. Ils ne s’avancent pas dans les zones bien éclairées
+à moins d’y être contraints et dans ce cas, ils utilisent leur
+aboiement pour faire fuir leurs proies loin de la lumière. Les
+dogues d’ombre préfèrent chasser en groupe et recourent à
+une tactique de meute pour attirer leur proie dans un piège,
+loin de toute source de lumière. Ils ne s’installent pas dans
+un antre et ne possèdent donc pas de trésor, hormis ce qu’on
+peut trouver sur le cadavre de leurs dernières victimes.
+
+Les dogues d'ombre sont souvent utilisés en tant que protecteurs et gardiens par les lanceurs de sorts capables des invoquer via un sort de ''[[allié doutreplan|allié d’outreplan]]'' ou ''[[contrat]]''. Les lanceurs de sorts morts-vivants et les Extérieurs maléfiques sont immunisés contre l'aboiement effrayant du dogue ; les autres, qui ne bénéficient pas de cette protection, s'exposent généralement à cet effet de manière intentionnelle à un moment donné au cours de la journée, lorsque la panique qui en résultera ne perturbera pas leurs autres activités. En règle générale, on peut supposer que tout site possédant un dogue d'ombre en tant que gardien a déjà été affecté par leur aboiement et que les habitants sont immunisés contre ses effets pendant le reste de la journée.
+
+Il existe également de plus grands dogues d'ombre, des créatures de la taille d'un cheval ou plus grandes encore. Ces bêtes possèdent des formes variées : elles ressemblent moins à des chiens et plus à d'autres créatures de taille plus importantes comme des lions, des dinosaures, voire même des dragons. Ces créatures possèdent des DV raciaux supplémentaires et pourraient même bénéficier de capacités additionnelles (comme la capacité de voler ou un souffle).
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Dogue dombre</fullName>
+</wikiPage>

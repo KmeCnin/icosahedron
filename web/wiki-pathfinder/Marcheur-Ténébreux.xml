@@ -1,0 +1,197 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Marcheur ténébreux</title>
+  <categories><category>Pathfinder-RPG.Bestiaire 2</category><category>Pathfinder-RPG.Monstre</category><category>Pathfinder-RPG.Règles officielles</category></categories>
+  <lastModified>2013-02-06 20:40:42Z</lastModified>
+  <version>5</version>
+  <inLinks><link>Pathfinder-RPG.Glossaire des monstres</link><link>Pathfinder-RPG.Liste de monstres par FP</link><link>Pathfinder-RPG.Liste de monstres par milieu naturel</link><link>Pathfinder-RPG.Liste de monstres par type</link><link>Pathfinder-RPG.Monstres</link><link>Pathfinder-RPG.Ténébreux</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.type Mort-vivant</link><link>Pathfinder-RPG.sous-type extraplanaire</link><link>Pathfinder-RPG.sous-type Ténébreux</link><link>Pathfinder-RPG.Détection de la magie</link><link>Pathfinder-RPG.vision dans le noir</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Traits des morts-vivants</link><link>Pathfinder-RPG.Marche dans les airs</link><link>Pathfinder-RPG.Morsure magique</link><link>Pathfinder-RPG.Contagion</link><link>Pathfinder-RPG.Dissipation suprême</link><link>Pathfinder-RPG.Ténèbres maudites</link><link>Pathfinder-RPG.Ténèbres profondes</link><link>Pathfinder-RPG.Confusion</link><link>Pathfinder-RPG.Immobilisation de monstre</link><link>Pathfinder-RPG.Invisibilité</link><link>Pathfinder-RPG.Rapidité</link><link>Pathfinder-RPG.Changement de plan</link><link>Pathfinder-RPG.Cône de froid</link><link>Pathfinder-RPG.Ombre supérieure</link><link>Pathfinder-RPG.Doigt de mort</link><link>Pathfinder-RPG.Attaque en puissance</link><link>Pathfinder-RPG.Contrôle des morts-vivants</link><link>Pathfinder-RPG.Destruction darme supérieure</link><link>Pathfinder-RPG.Expertise du combat</link><link>Pathfinder-RPG.Frappe décisive</link><link>Pathfinder-RPG.Frappe décisive supérieure</link><link>Pathfinder-RPG.Pouvoir magique rapide</link><link>Pathfinder-RPG.Science de la destruction</link><link>Pathfinder-RPG.Science de la frappe décisive</link><link>Pathfinder-RPG.Science du critique</link><link>Pathfinder-RPG.Science du désarmement</link><link>Pathfinder-RPG.Art de la magie</link><link>Pathfinder-RPG.Connaissances</link><link>Pathfinder-RPG.Discrétion</link><link>Pathfinder-RPG.Intimidation</link><link>Pathfinder-RPG.Natation</link><link>Pathfinder-RPG.Psychologie</link><link>Pathfinder-RPG.Télépathie</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Marcheur t&#233;n&#233;breux&lt;div style=&quot;float:right;&quot;&gt;FP 16&lt;/div&gt;&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Bestiaire 2, p.263&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 76 800
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Mort-Vivant.html&quot; title=&quot;Mort-vivant&quot;&gt;Mort-vivant&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Extraplanaire.html&quot; title=&quot;Extraplanaire (sous-type)&quot;&gt;extraplanaire&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-T&#233;n&#233;breux.html&quot; title=&quot;T&#233;n&#233;breux (sous-type)&quot;&gt;t&#233;n&#233;breux&lt;/a&gt;) de taille TG, CM
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +2 ; &lt;b&gt;Sens&lt;/b&gt; &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;D&#233;tection-De-La-Magie.html&quot; title=&quot;D&#233;tection de la magie&quot;&gt;d&#233;tection de la magie&lt;/a&gt;&lt;/i&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-T&#233;n&#233;breux.html#PERCEVOIRATRAVERSLESTENEBRES&quot; title=&quot;T&#233;n&#233;breux (sous-type)&quot;&gt;perception &#224; travers les t&#233;n&#232;bres&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Capacit&#233;s-Sp&#233;ciales.html#VISIONDANSLENOIR&quot; title=&quot;vision dans le noir&quot;&gt;vision dans le noir&lt;/a&gt; 18 m (12 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +29
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Aura&lt;/b&gt; de &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-T&#233;n&#233;breux.html#AURADEPROFANATION&quot; title=&quot;T&#233;n&#233;breux (sous-type)&quot;&gt;profanation&lt;/a&gt; 9 m (6 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 31, contact 10, pris au d&#233;pourvu 29 (Dex +2, naturelle +21, taille -2)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 241 (21d8+147)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +11, &lt;b&gt;Vig&lt;/b&gt; +14, &lt;b&gt;Vol&lt;/b&gt; +19
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Immunit&#233;s&lt;/b&gt; froid, &lt;a class=&quot;pagelink&quot; href=&quot;Traits-Des-Morts-Vivants-(Capacit&#233;).html&quot; title=&quot;Traits des morts-vivants&quot;&gt;traits des morts-vivants&lt;/a&gt; ; &lt;b&gt;RD&lt;/b&gt; 15/Bien et argent ; &lt;b&gt;RM&lt;/b&gt; 27
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Faiblesses&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-T&#233;n&#233;breux.html#AVERSIONPOURLALUMIERE&quot; title=&quot;T&#233;n&#233;breux (sous-type)&quot;&gt;aversion pour la lumi&#232;re&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 12 m (6 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; 2 griffes, +28 (3d6+15/19–20 plus 4d6 froid)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Espace&lt;/b&gt; 4,50 m (3 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) ; &lt;b&gt;Allonge&lt;/b&gt; 4,50 m (3 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaques sp&#233;ciales&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-T&#233;n&#233;breux.html#CANALISATIONDENERGIE&quot; title=&quot;T&#233;n&#233;breux (sous-type)&quot;&gt;canalisation d’&#233;nergie n&#233;gative&lt;/a&gt; (8d6, DD 29, 8/ jour), regard de terreur, destruction rapide
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Pouvoirs magiques&lt;/b&gt; (NLS 16 ; concentration +21)
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+Constant — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;D&#233;tection-De-La-Magie.html&quot; title=&quot;D&#233;tection de la magie&quot;&gt;d&#233;tection de la magie&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Marche-Dans-Les-Airs.html&quot; title=&quot;Marche dans les airs&quot;&gt;marche dans les airs&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Morsure-Magique.html&quot; title=&quot;Morsure magique&quot;&gt;morsure magique&lt;/a&gt;&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+&#192; volont&#233; — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Contagion.html&quot; title=&quot;Contagion&quot;&gt;contagion&lt;/a&gt;&lt;/i&gt; (DD 19), &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Dissipation-Supr&#234;me.html&quot; title=&quot;Dissipation supr&#234;me&quot;&gt;dissipation supr&#234;me&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;T&#233;n&#232;bres-Maudites.html&quot; title=&quot;T&#233;n&#232;bres maudites&quot;&gt;t&#233;n&#232;bres maudites&lt;/a&gt;&lt;/i&gt; (DD 19), &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;T&#233;n&#232;bres-Profondes.html&quot; title=&quot;T&#233;n&#232;bres profondes&quot;&gt;t&#233;n&#232;bres profondes&lt;/a&gt;&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+3/jour — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Confusion.html&quot; title=&quot;Confusion&quot;&gt;confusion&lt;/a&gt;&lt;/i&gt; (DD 19), &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Immobilisation-De-Monstre.html&quot; title=&quot;Immobilisation de monstre&quot;&gt;immobilisation de monstre&lt;/a&gt;&lt;/i&gt; (DD 20), &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Invisibilit&#233;.html&quot; title=&quot;Invisibilit&#233;&quot;&gt;invisibilit&#233;&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Rapidit&#233;.html&quot; title=&quot;Rapidit&#233;&quot;&gt;rapidit&#233;&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;T&#233;n&#232;bres-Maudites.html&quot; title=&quot;T&#233;n&#232;bres maudites&quot;&gt;t&#233;n&#232;bres maudites&lt;/a&gt;&lt;/i&gt; en incantation rapide (DD 19)
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+1/jour — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Changement-De-Plan.html&quot; title=&quot;Changement de plan&quot;&gt;changement de plan&lt;/a&gt;&lt;/i&gt; (DD 22), &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;C&#244;ne-De-Froid.html&quot; title=&quot;C&#244;ne de froid&quot;&gt;c&#244;ne de froid&lt;/a&gt;&lt;/i&gt; (DD 20), &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-T&#233;n&#233;breux.html#CONVOCATION&quot; title=&quot;T&#233;n&#233;breux (sous-type)&quot;&gt;convocation&lt;/a&gt; (niveau 7, 4 &lt;a class=&quot;pagelink&quot; href=&quot;Ombre-Sup&#233;rieure.html&quot; title=&quot;Ombre sup&#233;rieure&quot;&gt;ombres sup&#233;rieures&lt;/a&gt;), &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Doigt-De-Mort.html&quot; title=&quot;Doigt de mort&quot;&gt;doigt de mort&lt;/a&gt;&lt;/i&gt; (DD 22)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 35, &lt;b&gt;Dex&lt;/b&gt; 14, &lt;b&gt;Con&lt;/b&gt; —, &lt;b&gt;Int&lt;/b&gt; 20, &lt;b&gt;Sag&lt;/b&gt; 21, &lt;b&gt;Cha&lt;/b&gt; 21
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +15, &lt;b&gt;BMO&lt;/b&gt; +29, &lt;b&gt;DMD&lt;/b&gt; 41
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Attaque-En-Puissance.html&quot; title=&quot;Attaque en puissance&quot;&gt;Attaque en puissance&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Contr&#244;le-Des-Morts-Vivants.html&quot; title=&quot;Contr&#244;le des morts-vivants&quot;&gt;Contr&#244;le des morts-vivants&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Destruction-Darme-Sup&#233;rieure.html&quot; title=&quot;Destruction d&amp;#39;arme sup&#233;rieure&quot;&gt;Destruction d’arme sup&#233;rieure&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Expertise-Du-Combat.html&quot; title=&quot;Expertise du combat&quot;&gt;Expertise du combat&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Frappe-D&#233;cisive.html&quot; title=&quot;Frappe d&#233;cisive&quot;&gt;Frappe d&#233;cisive&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Frappe-D&#233;cisive-Sup&#233;rieure.html&quot; title=&quot;Frappe d&#233;cisive sup&#233;rieure&quot;&gt;Frappe d&#233;cisive sup&#233;rieure&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Pouvoir-Magique-Rapide.html&quot; title=&quot;Pouvoir magique rapide&quot;&gt;Pouvoir magique rapide&lt;/a&gt; (&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;T&#233;n&#232;bres-Maudites.html&quot; title=&quot;T&#233;n&#232;bres maudites&quot;&gt;t&#233;n&#232;bres maudites&lt;/a&gt;&lt;/i&gt;), &lt;a class=&quot;pagelink&quot; href=&quot;Science-De-La-Destruction.html&quot; title=&quot;Science de la destruction&quot;&gt;Science de la destruction&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Science-De-La-Frappe-D&#233;cisive.html&quot; title=&quot;Science de la frappe d&#233;cisive&quot;&gt;Science de la frappe d&#233;cisive&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Science-Du-Critique.html&quot; title=&quot;Science du critique&quot;&gt;Science du critique&lt;/a&gt; (griffes), &lt;a class=&quot;pagelink&quot; href=&quot;Science-Du-D&#233;sarmement.html&quot; title=&quot;Science du d&#233;sarmement&quot;&gt;Science du d&#233;sarmement&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Art-De-La-Magie.html&quot; title=&quot;Art de la magie&quot;&gt;Art de la magie&lt;/a&gt; +29, &lt;a class=&quot;pagelink&quot; href=&quot;Connaissances.html&quot; title=&quot;Connaissances&quot;&gt;Connaissances&lt;/a&gt; (myst&#232;res) +29, &lt;a class=&quot;pagelink&quot; href=&quot;Connaissances.html&quot; title=&quot;Connaissances&quot;&gt;Connaissances&lt;/a&gt; (plans) +26, &lt;a class=&quot;pagelink&quot; href=&quot;Connaissances.html&quot; title=&quot;Connaissances&quot;&gt;Connaissances&lt;/a&gt; (religion) +29, &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; +18 (+26 dans les t&#233;n&#232;bres), &lt;a class=&quot;pagelink&quot; href=&quot;Intimidation.html&quot; title=&quot;Intimidation&quot;&gt;Intimidation&lt;/a&gt; +29, &lt;a class=&quot;pagelink&quot; href=&quot;Natation.html&quot; title=&quot;Natation&quot;&gt;Natation&lt;/a&gt; +33, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +29, &lt;a class=&quot;pagelink&quot; href=&quot;Psychologie.html&quot; title=&quot;Psychologie&quot;&gt;Psychologie&lt;/a&gt; +29 ; &lt;b&gt;Modificateurs raciaux&lt;/b&gt; +8 en &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; dans la p&#233;nombre et les t&#233;n&#232;bres
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Langues&lt;/b&gt; abyssal, commun, infernal ; &lt;a class=&quot;pagelink&quot; href=&quot;T&#233;l&#233;pathie-(Capacit&#233;).html&quot; title=&quot;T&#233;l&#233;pathie&quot;&gt;t&#233;l&#233;pathie&lt;/a&gt; 30 m (20 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; tous (Plan de l’&#201;nergie n&#233;gative)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation sociale&lt;/b&gt; solitaire, couple ou groupe (3–4)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; standard
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Pouvoirs sp&#233;ciaux&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Destruction rapide (Sur).&lt;/b&gt; Un marcheur t&#233;n&#233;breux peut effectuer une tentative de destruction par une action rapide avec l’une de ses griffes.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Regard de terreur (Sur).&lt;/b&gt; Se recroqueviller sur soi de terreur pendant 1 round, 9 m&#232;tres, Volont&#233; DD 25 annule. Il s’agit d’un effet mental de terreur. Le DD du jet de sauvegarde d&#233;pend du Charisme.
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;td&gt;&lt;div&gt;&lt;i&gt;Ce g&#233;ant d’un noir profond poss&#232;de quelques traits d&#233;moniaques, dont une paire de grandes cornes de b&#233;lier. Ses bras se terminent par d’impressionnantes lames.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Parmi les t&#233;n&#233;breux, ceux qu’on rencontre le plus souvent sont les
+marcheurs t&#233;n&#233;breux. Ces puissants ennemis dirigent des arm&#233;es
+de morts-vivants venues combattre les vivants mais, contrairement
+&#224; la plupart des g&#233;n&#233;raux vivants, ils ne se contentent pas de rester
+en arri&#232;re et d’observer la bataille depuis une position prot&#233;g&#233;e.
+Ces cr&#233;atures morts-vivantes sont toujours impatientes de mettre
+leurs tactiques et leurs plans &#224; l’&#233;preuve eux-m&#234;mes. Elles prennent
+part au combat chaque fois que c’est possible, sauf lors des attaques
+suicidaires. Cela ne veut pas dire que les marcheurs t&#233;n&#233;breux
+h&#233;sitent &#224; sacrifier leurs troupes pour gagner un avantage tactique,
+mais seulement que ces attaques sont les seules auxquelles ils ne
+ressentent pas le besoin de participer activement.&lt;br /&gt;&lt;br /&gt;Les marcheurs t&#233;n&#233;breux aiment semer le d&#233;sespoir chez leurs
+ennemis avant de les exterminer,
+tout sp&#233;cialement si
+cela signifie d&#233;truire un objet
+appr&#233;ci&#233; ou assassiner un
+&#234;tre aim&#233; avant de porter le
+coup final &#224; un adversaire.
+Un marcheur
+t&#233;n&#233;breux mesure
+6 m&#232;tres de
+hauteur et
+p&#232;se 2 500 kg.
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Marcheur ténébreux|FP 16}
+{s:pucem|Mort-vivant|Ruines-Donjons|Extraplanaire}
+{s:BDTexte|''Source : Bestiaire 2, p.263''}
+{s:BDTexte|'''PX''' 76 800}
+{s:BDTexte|[[type Mort-vivant|Mort-vivant]] ([[sous-type extraplanaire|extraplanaire]], [[sous-type ténébreux|ténébreux]]) de taille TG, CM}
+{s:BDTexte|'''Init''' +2 ; '''Sens''' ''[[détection de la magie]]'', [[sous-type ténébreux#PERCEVOIRATRAVERSLESTENEBRES|perception à travers les ténèbres]], [[vision dans le noir]] 18 m (12 {s:c}) ; [[Perception]] +29}
+{s:BDTexte|'''Aura''' de [[sous-type ténébreux#AURADEPROFANATION|profanation]] 9 m (6 {s:c})}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 31, contact 10, pris au dépourvu 29 (Dex +2, naturelle +21, taille -2)}
+{s:BDTexte|'''pv''' 241 (21d8+147)}
+{s:BDTexte|'''Réf''' +11, '''Vig''' +14, '''Vol''' +19}
+{s:BDTexte|'''Immunités''' froid, [[traits des morts-vivants]] ; '''RD''' 15/Bien et argent ; '''RM''' 27}
+{s:BDTexte|'''Faiblesses''' [[sous-type ténébreux#AVERSIONPOURLALUMIERE|aversion pour la lumière]]}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 12 m (6 {s:c})}
+{s:BDTexte|'''Corps à corps''' 2 griffes, +28 (3d6+15/19–20 plus 4d6 froid)}
+{s:BDTexte|'''Espace''' 4,50 m (3 {s:c}) ; '''Allonge''' 4,50 m (3 {s:c})}
+{s:BDTexte|'''Attaques spéciales''' [[sous-type ténébreux#CANALISATIONDENERGIE|canalisation d’énergie négative]] (8d6, DD 29, 8/ jour), regard de terreur, destruction rapide}
+{s:BDTexte|'''Pouvoirs magiques''' (NLS 16 ; concentration +21)}
+{s:BDSorts|Constant — ''[[détection de la magie]]'', ''[[marche dans les airs]]'', ''[[morsure magique]]''}
+{s:BDSorts|À volonté — ''[[contagion]]'' (DD 19), ''[[dissipation suprême]]'', ''[[ténèbres maudites]]'' (DD 19), ''[[ténèbres profondes]]''}
+{s:BDSorts|3/jour — ''[[confusion]]'' (DD 19), ''[[immobilisation de monstre]]'' (DD 20), ''[[invisibilité]]'', ''[[rapidité]]'', ''[[ténèbres maudites]]'' en incantation rapide (DD 19)}
+{s:BDSorts|1/jour — ''[[changement de plan]]'' (DD 22), ''[[cône de froid]]'' (DD 20), [[sous-type ténébreux#CONVOCATION|convocation]] (niveau 7, 4 [[ombre supérieure|ombres supérieures]]), ''[[doigt de mort]]'' (DD 22)}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 35, '''Dex''' 14, '''Con''' —, '''Int''' 20, '''Sag''' 21, '''Cha''' 21}
+{s:BDTexte|'''BBA''' +15, '''BMO''' +29, '''DMD''' 41}
+{s:BDTexte|'''Dons''' [[Attaque en puissance]], [[Contrôle des morts-vivants]], [[Destruction darme supérieure|Destruction d’arme supérieure]], [[Expertise du combat]], [[Frappe décisive]], [[Frappe décisive supérieure]], [[Pouvoir magique rapide]] (''[[ténèbres maudites]]''), [[Science de la destruction]], [[Science de la frappe décisive]], [[Science du critique]] (griffes), [[Science du désarmement]]}
+{s:BDTexte|'''Compétences''' [[Art de la magie]] +29, [[Connaissances]] (mystères) +29, [[Connaissances]] (plans) +26, [[Connaissances]] (religion) +29, [[Discrétion]] +18 (+26 dans les ténèbres), [[Intimidation]] +29, [[Natation]] +33, [[Perception]] +29, [[Psychologie]] +29 ; '''Modificateurs raciaux''' +8 en [[Discrétion]] dans la pénombre et les ténèbres}
+{s:BDTexte|'''Langues''' abyssal, commun, infernal ; [[télépathie]] 30 m (20 {s:c})}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' tous (Plan de l’Énergie négative)}
+{s:BDTexte|'''Organisation sociale''' solitaire, couple ou groupe (3–4)}
+{s:BDTexte|'''Trésor''' standard}
+{s:BDSousTitre|Pouvoirs spéciaux}
+{s:BDTexte|'''Destruction rapide (Sur).''' Un marcheur ténébreux peut effectuer une tentative de destruction par une action rapide avec l’une de ses griffes.}
+{s:BDTexte|'''Regard de terreur (Sur).''' Se recroqueviller sur soi de terreur pendant 1 round, 9 mètres, Volonté DD 25 annule. Il s’agit d’un effet mental de terreur. Le DD du jet de sauvegarde dépend du Charisme.}
+</div>
+</td><td><div>''Ce géant d’un noir profond possède quelques traits démoniaques, dont une paire de grandes cornes de bélier. Ses bras se terminent par d’impressionnantes lames.''
+
+Parmi les ténébreux, ceux qu’on rencontre le plus souvent sont les
+marcheurs ténébreux. Ces puissants ennemis dirigent des armées
+de morts-vivants venues combattre les vivants mais, contrairement
+à la plupart des généraux vivants, ils ne se contentent pas de rester
+en arrière et d’observer la bataille depuis une position protégée.
+Ces créatures morts-vivantes sont toujours impatientes de mettre
+leurs tactiques et leurs plans à l’épreuve eux-mêmes. Elles prennent
+part au combat chaque fois que c’est possible, sauf lors des attaques
+suicidaires. Cela ne veut pas dire que les marcheurs ténébreux
+hésitent à sacrifier leurs troupes pour gagner un avantage tactique,
+mais seulement que ces attaques sont les seules auxquelles ils ne
+ressentent pas le besoin de participer activement.
+
+Les marcheurs ténébreux aiment semer le désespoir chez leurs
+ennemis avant de les exterminer,
+tout spécialement si
+cela signifie détruire un objet
+apprécié ou assassiner un
+être aimé avant de porter le
+coup final à un adversaire.
+Un marcheur
+ténébreux mesure
+6 mètres de
+hauteur et
+pèse 2 500 kg.
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Marcheur ténébreux</fullName>
+</wikiPage>

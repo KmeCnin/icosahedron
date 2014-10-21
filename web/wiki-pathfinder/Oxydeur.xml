@@ -1,0 +1,165 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Oxydeur</title>
+  <categories><category>Pathfinder-RPG.Bestiaire</category><category>Pathfinder-RPG.Monstre</category></categories>
+  <lastModified>2013-02-07 18:54:19Z</lastModified>
+  <version>6</version>
+  <inLinks><link>Pathfinder-RPG.Glossaire des monstres</link><link>Pathfinder-RPG.Liste de monstres par FP</link><link>Pathfinder-RPG.Liste de monstres par milieu naturel</link><link>Pathfinder-RPG.Liste de monstres par type</link><link>Pathfinder-RPG.Monstres</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.type Aberration</link><link>Pathfinder-RPG.vision dans le noir</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.croc-en-jambe</link><link>Pathfinder-RPG.Attaque en finesse</link><link>Pathfinder-RPG.Attaque spéciale renforcée</link><link>Pathfinder-RPG.Talent</link><link>Pathfinder-RPG.Escalade</link><link>Pathfinder-RPG.Brisé</link><link>Pathfinder-RPG.attaque dopportunité</link><link>Pathfinder-RPG.Réflexes</link><link>Pathfinder-RPG.DD</link><link>Pathfinder-RPG.jet de sauvegarde</link><link>Pathfinder-RPG.Constitution</link><link>Pathfinder-RPG.odorat</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Oxydeur&lt;div style=&quot;float:right;&quot;&gt;FP 3&lt;/div&gt;&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Bestiaire&lt;/i&gt; p.237
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 800
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Aberration.html&quot; title=&quot;Aberration&quot;&gt;Aberration&lt;/a&gt; de taille M, N
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +3 ; &lt;b&gt;Sens&lt;/b&gt; perception des m&#233;taux 27 m (18 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), &lt;a class=&quot;pagelink&quot; href=&quot;Capacit&#233;s-Sp&#233;ciales.html#VISIONDANSLENOIR&quot; title=&quot;vision dans le noir&quot;&gt;vision dans le noir&lt;/a&gt; 18 m (12 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +12
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 18, contact 13, pris au d&#233;pourvu 15 (Dex +3, naturelle +5)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 27 (5d8+5)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +4, &lt;b&gt;Vig&lt;/b&gt; +2, &lt;b&gt;Vol&lt;/b&gt; +5
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 12 m (8 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), escalade 3 m (2 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; morsure, +6 (1d3), antennes, +6 contact (corrosion)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 10, &lt;b&gt;Dex&lt;/b&gt; 17, &lt;b&gt;Con&lt;/b&gt; 13, &lt;b&gt;Int&lt;/b&gt; 2, &lt;b&gt;Sag&lt;/b&gt; 13, &lt;b&gt;Cha&lt;/b&gt; 8
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +3, &lt;b&gt;BMO&lt;/b&gt; +3, &lt;b&gt;DMD&lt;/b&gt; 16 (20 contre &lt;a class=&quot;pagelink&quot; href=&quot;Croc-En-Jambe.html&quot; title=&quot;croc-en-jambe&quot;&gt;croc-en-jambe&lt;/a&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Attaque-En-Finesse.html&quot; title=&quot;Attaque en finesse&quot;&gt;Attaque en finesse&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Attaque-Sp&#233;ciale-Renforc&#233;e.html&quot; title=&quot;Attaque sp&#233;ciale renforc&#233;e&quot;&gt;Attaque sp&#233;ciale renforc&#233;e&lt;/a&gt; (corrosion), &lt;a class=&quot;pagelink&quot; href=&quot;Talent.html&quot; title=&quot;Talent&quot;&gt;Talent&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Escalade.html&quot; title=&quot;Escalade&quot;&gt;Escalade&lt;/a&gt; +8, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +12
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; souterrain
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation sociale&lt;/b&gt; solitaire, couple ou nid (3-10)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; fortuit (aucun tr&#233;sor de m&#233;tal)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Capacit&#233;s sp&#233;ciales&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corrosion (Sur).&lt;/b&gt; Les antennes des oxydeurs sont des attaques de contact principales qui corrodent et rouillent rapidement le m&#233;tal qu&#39;elles touchent. L&#39;objet touch&#233; subit des d&#233;g&#226;ts s&#39;&#233;levant &#224; 50% de son nombre maximal de point de vie et gagne l&#39;&#233;tat pr&#233;judiciable &quot;&lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables.html#Bris&#233;&quot; title=&quot;Bris&#233;&quot;&gt;bris&#233;&lt;/a&gt;&quot;. Un second contact d&#233;truit l&#39;objet. Les oxydeurs ne provoquent pas d&#39;&lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#ATTAQUEDOPPORTUNITE&quot; title=&quot;attaque d&amp;#39;opportunit&#233;&quot;&gt;attaque d&#39;opportunit&#233;&lt;/a&gt; lorsqu&#39;ils tentent de toucher un objet avec leurs antennes. Celles-ci infligent 3d6+5 points de d&#233;g&#226;ts aux cr&#233;atures constitu&#233;es de m&#233;tal. Les objets qui ne sont pas abandonn&#233;s, les objets magiques et les cr&#233;atures m&#233;talliques peuvent effectuer un jet de &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;R&#233;flexes&quot;&gt;R&#233;flexes&lt;/a&gt; de &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DEGREDEDIFFICULTE&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; 15 pour annuler l&#39;effet du contact. Le &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DEGREDEDIFFICULTE&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; du &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;jet de sauvegarde&quot;&gt;jet de sauvegarde&lt;/a&gt; d&#233;pend de la &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#CONSTITUTION&quot; title=&quot;La Constitution&quot;&gt;Constitution&lt;/a&gt;.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Perception des m&#233;taux (Ext).&lt;/b&gt; Ce pouvoir fonctionne comme la capacit&#233; d&#39;&lt;a class=&quot;pagelink&quot; href=&quot;Odorat-(Capacit&#233;).html&quot; title=&quot;odorat&quot;&gt;odorat&lt;/a&gt; mais poss&#232;de une port&#233;e de 27 m (18 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) et ne peut &#234;tre utilis&#233;e que pour d&#233;tecter des objets m&#233;talliques (ou des cr&#233;atures portant ou transportant des objets de m&#233;tal).
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;td&gt;&lt;div&gt;&lt;i&gt;Ce monstre insecto&#239;de poss&#232;de 4 pattes, 2 antennes en forme de plumes et
+une queue termin&#233;e par une protub&#233;rance en forme d’h&#233;lice.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Parmi les innombrables b&#234;tes terrifiantes qu’un explorateur peut
+rencontrer sous terre, l’oxydeur est la seule qui s’en prend &#224; ce que
+l’aventurier moyen ch&#233;rit le plus : son tr&#233;sor.&lt;br /&gt;&lt;br /&gt;M&#234;me sans l’&#233;trange r&#233;gime alimentaire qui lui vaut son
+nom, cette sorte d’&#233;crevisse mesurant en moyenne 1,50 m&#232;tre
+de longueur et pesant presque 100 kg resterait effrayante. Les
+oxydeurs consomment les objets en m&#233;tal, avec une pr&#233;f&#233;rence
+pour le fer et les alliages ferreux comme l’acier, m&#234;me s’ils
+d&#233;vorent tout aussi facilement le mithral, l’adamantium et les
+m&#233;taux enchant&#233;s. Un objet m&#233;tallique touch&#233; par une des
+fragiles antennes ou par la carapace d’un oxydeur se corrode et
+tombe en poussi&#232;res en quelques secondes. Cette particularit&#233;
+rend les oxydeurs tr&#232;s dangereux non seulement pour les
+aventuriers qui explorent le sous-sol mais &#233;galement pour les
+mineurs nains qui doivent prot&#233;ger leurs forges et d&#233;fendre les
+gisements de minerais.&lt;br /&gt;&lt;br /&gt;Les oxydeurs n’ont aucune propension naturelle &#224; la violence
+mais leur app&#233;tit insatiable les pousse &#224; s’en prendre &#224; toutes
+les cr&#233;atures qu’ils rencontrent d&#232;s qu’ils rep&#232;rent la moindre
+trace de m&#233;tal, et &#224; r&#233;pondre avec une brutalit&#233; irr&#233;fl&#233;chie &#224;
+toute r&#233;sistance. Dans les zones pauvres en m&#233;tal, les oxydeurs
+peuvent poursuivre pendant plusieurs jours les victimes qui
+leur ont &#233;chapp&#233; gr&#226;ce &#224; la capacit&#233; qui leur permet de flairer
+le m&#233;tal. Heureusement, il est souvent possible de d&#233;tourner
+l’attention de ces monstres en leur lan&#231;ant un lourd objet de
+m&#233;tal comme un bouclier puis en s’enfuyant dans la direction
+oppos&#233;e. Ceux qui fr&#233;quentent des r&#233;gions infest&#233;es d’oxydeurs
+apprennent bien vite &#224; toujours garder sous la main quelques
+armes de pierre ou de bois.
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Oxydeur|FP 3}
+{s:pucem|Aberration|Souterrain|Tempéré}
+{s:BDTexte|''Source : Bestiaire'' p.237}
+{s:BDTexte|'''PX''' 800}
+{s:BDTexte|[[type Aberration|Aberration]] de taille M, N}
+{s:BDTexte|'''Init''' +3 ; '''Sens''' perception des métaux 27 m (18 {s:c}), [[vision dans le noir]] 18 m (12 {s:c}) ; [[Perception]] +12}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 18, contact 13, pris au dépourvu 15 (Dex +3, naturelle +5)}
+{s:BDTexte|'''pv''' 27 (5d8+5)}
+{s:BDTexte|'''Réf''' +4, '''Vig''' +2, '''Vol''' +5}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 12 m (8 {s:c}), escalade 3 m (2 {s:c})}
+{s:BDTexte|'''Corps à corps''' morsure, +6 (1d3), antennes, +6 contact (corrosion)}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 10, '''Dex''' 17, '''Con''' 13, '''Int''' 2, '''Sag''' 13, '''Cha''' 8}
+{s:BDTexte|'''BBA''' +3, '''BMO''' +3, '''DMD''' 16 (20 contre [[croc-en-jambe]])}
+{s:BDTexte|'''Dons''' [[Attaque en finesse]], [[Attaque spéciale renforcée]] (corrosion), [[Talent]] ([[Perception]])}
+{s:BDTexte|'''Compétences''' [[Escalade]] +8, [[Perception]] +12}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' souterrain}
+{s:BDTexte|'''Organisation sociale''' solitaire, couple ou nid (3-10)}
+{s:BDTexte|'''Trésor''' fortuit (aucun trésor de métal)}
+{s:BDSousTitre|Capacités spéciales}
+{s:BDTexte|'''Corrosion (Sur).''' Les antennes des oxydeurs sont des attaques de contact principales qui corrodent et rouillent rapidement le métal qu'elles touchent. L'objet touché subit des dégâts s'élevant à 50% de son nombre maximal de point de vie et gagne l'état préjudiciable "[[brisé]]". Un second contact détruit l'objet. Les oxydeurs ne provoquent pas d'[[attaque dopportunité|attaque d'opportunité]] lorsqu'ils tentent de toucher un objet avec leurs antennes. Celles-ci infligent 3d6+5 points de dégâts aux créatures constituées de métal. Les objets qui ne sont pas abandonnés, les objets magiques et les créatures métalliques peuvent effectuer un jet de [[Réflexes]] de [[DD]] 15 pour annuler l'effet du contact. Le [[DD]] du [[jet de sauvegarde]] dépend de la [[Constitution]].}
+{s:BDTexte|'''Perception des métaux (Ext).''' Ce pouvoir fonctionne comme la capacité d'[[odorat]] mais possède une portée de 27 m (18 {s:c}) et ne peut être utilisée que pour détecter des objets métalliques (ou des créatures portant ou transportant des objets de métal).}
+</div>
+</td><td><div>''Ce monstre insectoïde possède 4 pattes, 2 antennes en forme de plumes et
+une queue terminée par une protubérance en forme d’hélice.''
+
+Parmi les innombrables bêtes terrifiantes qu’un explorateur peut
+rencontrer sous terre, l’oxydeur est la seule qui s’en prend à ce que
+l’aventurier moyen chérit le plus : son trésor.
+
+Même sans l’étrange régime alimentaire qui lui vaut son
+nom, cette sorte d’écrevisse mesurant en moyenne 1,50 mètre
+de longueur et pesant presque 100 kg resterait effrayante. Les
+oxydeurs consomment les objets en métal, avec une préférence
+pour le fer et les alliages ferreux comme l’acier, même s’ils
+dévorent tout aussi facilement le mithral, l’adamantium et les
+métaux enchantés. Un objet métallique touché par une des
+fragiles antennes ou par la carapace d’un oxydeur se corrode et
+tombe en poussières en quelques secondes. Cette particularité
+rend les oxydeurs très dangereux non seulement pour les
+aventuriers qui explorent le sous-sol mais également pour les
+mineurs nains qui doivent protéger leurs forges et défendre les
+gisements de minerais.
+
+Les oxydeurs n’ont aucune propension naturelle à la violence
+mais leur appétit insatiable les pousse à s’en prendre à toutes
+les créatures qu’ils rencontrent dès qu’ils repèrent la moindre
+trace de métal, et à répondre avec une brutalité irréfléchie à
+toute résistance. Dans les zones pauvres en métal, les oxydeurs
+peuvent poursuivre pendant plusieurs jours les victimes qui
+leur ont échappé grâce à la capacité qui leur permet de flairer
+le métal. Heureusement, il est souvent possible de détourner
+l’attention de ces monstres en leur lançant un lourd objet de
+métal comme un bouclier puis en s’enfuyant dans la direction
+opposée. Ceux qui fréquentent des régions infestées d’oxydeurs
+apprennent bien vite à toujours garder sous la main quelques
+armes de pierre ou de bois.
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Oxydeur</fullName>
+</wikiPage>

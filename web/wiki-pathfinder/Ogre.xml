@@ -1,0 +1,209 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Ogre</title>
+  <categories><category>Pathfinder-RPG.Bestiaire</category><category>Pathfinder-RPG.Monstre</category><category>Pathfinder-RPG.Règles officielles</category></categories>
+  <lastModified>2013-02-07 19:04:28Z</lastModified>
+  <version>4</version>
+  <inLinks><link>Pathfinder-RPG.Armure en peau de géant</link><link>Pathfinder-RPG.Armures magiques</link><link>Pathfinder-RPG.Cartes fantasmagoriques</link><link>Pathfinder-RPG.Déplacement et position</link><link>Pathfinder-RPG.Géant des collines</link><link>Pathfinder-RPG.Géant du froid</link><link>Pathfinder-RPG.Glossaire des monstres</link><link>Pathfinder-RPG.Guenaude annis</link><link>Pathfinder-RPG.Hobgobelin</link><link>Pathfinder-RPG.Linguistique</link><link>Pathfinder-RPG.Liste de monstres par FP</link><link>Pathfinder-RPG.Liste de monstres par milieu naturel</link><link>Pathfinder-RPG.Liste de monstres par type</link><link>Pathfinder-RPG.masque des géants</link><link>Pathfinder-RPG.Modificateurs de combat</link><link>Pathfinder-RPG.Monstres</link><link>Pathfinder-RPG.Ogre mage</link><link>Pathfinder-RPG.Troll jötun</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.type Humanoïde</link><link>Pathfinder-RPG.sous-type géant</link><link>Pathfinder-RPG.vision dans le noir</link><link>Pathfinder-RPG.vision nocturne</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Robustesse</link><link>Pathfinder-RPG.Volonté de fer</link><link>Pathfinder-RPG.Escalade</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Ogre&lt;div style=&quot;float:right;&quot;&gt;FP 3&lt;/div&gt;&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Bestiaire&lt;/i&gt; p.230
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 800
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Humano&#239;de.html&quot; title=&quot;Humano&#239;de&quot;&gt;Humano&#239;de&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-G&#233;ant.html&quot; title=&quot;G&#233;ant (sous-type)&quot;&gt;g&#233;ant&lt;/a&gt;) de taille G, CM
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; -1 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Capacit&#233;s-Sp&#233;ciales.html#VISIONDANSLENOIR&quot; title=&quot;vision dans le noir&quot;&gt;vision dans le noir&lt;/a&gt; 18 m (12 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Nocturne-(Capacit&#233;).html&quot; title=&quot;vision nocturne&quot;&gt;vision nocturne&lt;/a&gt; ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +5
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 17, contact 8, pris au d&#233;pourvu 17 (armure +4, Dex -1, naturelle +5, taille -1)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 30 (4d8+12)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +0, &lt;b&gt;Vig&lt;/b&gt; +6, &lt;b&gt;Vol&lt;/b&gt; +3
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 9 m (6 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) (12 m (8 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) base)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; massue, +7 (2d8+7)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Distance&lt;/b&gt; javeline, +1 (1d8+5)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Espace&lt;/b&gt; 3 m (2 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) ; &lt;b&gt;Allonge&lt;/b&gt; 3 m (2 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 21, &lt;b&gt;Dex&lt;/b&gt; 8, &lt;b&gt;Con&lt;/b&gt; 15, &lt;b&gt;Int&lt;/b&gt; 6, &lt;b&gt;Sag&lt;/b&gt; 10, &lt;b&gt;Cha&lt;/b&gt; 7
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +3, &lt;b&gt;BMO&lt;/b&gt; +9, &lt;b&gt;DMD&lt;/b&gt; 18
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Robustesse.html&quot; title=&quot;Robustesse&quot;&gt;Robustesse&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Volont&#233;-De-Fer.html&quot; title=&quot;Volont&#233; de fer&quot;&gt;Volont&#233; de fer&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Escalade.html&quot; title=&quot;Escalade&quot;&gt;Escalade&lt;/a&gt; +7, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +5
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Langues&lt;/b&gt; g&#233;ant
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; collines froides ou temp&#233;r&#233;es
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation sociale&lt;/b&gt; solitaire, couple, bande (3-4) ou famille (5-16)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; standard (armure de peau, 4 javelines, massue, autres tr&#233;sors)
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;td&gt;&lt;div&gt;&lt;i&gt;Ce g&#233;ant a des dents mal ajust&#233;es, des yeux en vrille d&#233;nu&#233;s de douceur ou
+d’intelligence, un visage bouffi et une large bouche.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Les histoires qui parlent d’ogres sont des r&#233;cits horribles de
+violence et de brutalit&#233;, de cannibalisme et de torture, de viol, de
+d&#233;membrement, de n&#233;crophilie, d’inceste, de mutilation et de
+toutes sortes de meurtres abominables. Ceux qui n’ont jamais
+rencontr&#233; d’ogres les prennent pour de simples mises en
+garde. Ceux qui en ont crois&#233; et qui ont surv&#233;cu, eux, savent
+que ces contes sont bien en-dessous de la r&#233;alit&#233;.&lt;br /&gt;&lt;br /&gt;Les ogres se r&#233;jouissent de la mis&#232;re des autres.
+Lorsqu’ils n’ont aucune cr&#233;ature de petite taille &#224; &#233;craser
+entre leurs poings monstrueux ou &#224; profaner pour
+assouvir leur soif de violence, ils s’en prennent les uns
+aux autres. Rien n’est tabou dans la soci&#233;t&#233; des ogres.
+On pourrait croire qu’une fois livr&#233;s &#224; eux-m&#234;mes,
+les ogres d’une m&#234;me tribu s’entre-d&#233;chireraient
+rapidement et que seuls les plus puissants survivraient
+en fin de comptes, mais s’il y a quelque chose que les
+ogres respectent, c’est la famille.&lt;br /&gt;&lt;br /&gt;Les tribus d’ogres sont donc appel&#233;es &#171; familles &#187;. La plupart
+des difformit&#233;s et des caract&#233;ristiques physiques horribles
+qui affligent les ogres s’expliquent par la pratique courante de
+l’inceste. Bien souvent, le chef d’une tribu en est &#233;galement le
+p&#232;re, m&#234;me si certaines ogresses particuli&#232;rement violentes ou
+dominatrices prennent le r&#244;le de m&#232;re de la tribu. Les ogres se
+chamaillent constamment, un trait de caract&#232;re heureux qui les occupent et les font s’en prendre les uns aux autres plut&#244;t qu’&#224; leurs
+voisins. De temps en temps, un patriarche ogre particuli&#232;rement
+brutal et craint appara&#238;t, un chef capable de rassembler plusieurs
+familles sous son commandement.&lt;br /&gt;&lt;br /&gt;Les zones habit&#233;es par les ogres sont des endroits mornes et laids,
+car ils se complaisent dans la salet&#233; et n’&#233;prouvent pas le besoin de
+mener une vie en harmonie avec leur environnement. La fronti&#232;re
+qui s&#233;pare la civilisation du territoire ogre est un royaume triste
+habit&#233; par des individus exclus et d&#233;sesp&#233;r&#233;s. C’est l&#224; que vivent les
+ogrelins, les engeances difformes r&#233;sultant des fr&#233;quentes attaques
+men&#233;es par les ogres contre les communaut&#233;s de cr&#233;atures de plus
+petite taille.&lt;br /&gt;&lt;br /&gt;Les jeux des ogres sont violents et vicieux. Les victimes avec
+lesquelles ils s’amusent ont bien de la chance si elles meurent d&#232;s
+le premier jour. Ils poss&#232;dent un sens de l’humour cruel (le seul
+signe indiquant que leur cerveau primitif est capable d’une l&#233;g&#232;re
+&#233;tincelle de cr&#233;ativit&#233;) gr&#226;ce auquel ils cr&#233;ent toutes sortes d’outils
+et de m&#233;thodes de torture cauchemardesques.&lt;br /&gt;&lt;br /&gt;La force consid&#233;rable des ogres et leur manque d’imagination
+les destinent tout naturellement aux durs labeurs tels que
+l’exploitation mini&#232;re, la ferronnerie ou le d&#233;boisement. Certains
+g&#233;ants plus puissants qu’eux (notamment les g&#233;ants des collines
+et les g&#233;ants de pierre) asservissent les familles d’ogres et les
+contraignent &#224; ce genre de travail.&lt;br /&gt;&lt;br /&gt;Un ogre adulte moyen mesure 3 m&#232;tres
+de hauteur et p&#232;se &#224; peu pr&#232;s
+325 kg.
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Ogre|FP 3}
+{s:pucem|Humanoïde|Collines|Tempéré}
+{s:BDTexte|''Source : Bestiaire'' p.230}
+{s:BDTexte|'''PX''' 800}
+{s:BDTexte|[[type Humanoïde|Humanoïde]] ([[sous-type géant|géant]]) de taille G, CM}
+{s:BDTexte|'''Init''' -1 ; '''Sens''' [[vision dans le noir]] 18 m (12 {s:c}), [[vision nocturne]] ; [[Perception]] +5}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 17, contact 8, pris au dépourvu 17 (armure +4, Dex -1, naturelle +5, taille -1)}
+{s:BDTexte|'''pv''' 30 (4d8+12)}
+{s:BDTexte|'''Réf''' +0, '''Vig''' +6, '''Vol''' +3}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 9 m (6 {s:c}) (12 m (8 {s:c}) base)}
+{s:BDTexte|'''Corps à corps''' massue, +7 (2d8+7)}
+{s:BDTexte|'''Distance''' javeline, +1 (1d8+5)}
+{s:BDTexte|'''Espace''' 3 m (2 {s:c}) ; '''Allonge''' 3 m (2 {s:c})}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 21, '''Dex''' 8, '''Con''' 15, '''Int''' 6, '''Sag''' 10, '''Cha''' 7}
+{s:BDTexte|'''BBA''' +3, '''BMO''' +9, '''DMD''' 18}
+{s:BDTexte|'''Dons''' [[Robustesse]], [[Volonté de fer]]}
+{s:BDTexte|'''Compétences''' [[Escalade]] +7, [[Perception]] +5}
+{s:BDTexte|'''Langues''' géant}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' collines froides ou tempérées}
+{s:BDTexte|'''Organisation sociale''' solitaire, couple, bande (3-4) ou famille (5-16)}
+{s:BDTexte|'''Trésor''' standard (armure de peau, 4 javelines, massue, autres trésors)}
+</div>
+</td><td><div>''Ce géant a des dents mal ajustées, des yeux en vrille dénués de douceur ou
+d’intelligence, un visage bouffi et une large bouche.''
+
+Les histoires qui parlent d’ogres sont des récits horribles de
+violence et de brutalité, de cannibalisme et de torture, de viol, de
+démembrement, de nécrophilie, d’inceste, de mutilation et de
+toutes sortes de meurtres abominables. Ceux qui n’ont jamais
+rencontré d’ogres les prennent pour de simples mises en
+garde. Ceux qui en ont croisé et qui ont survécu, eux, savent
+que ces contes sont bien en-dessous de la réalité.
+
+Les ogres se réjouissent de la misère des autres.
+Lorsqu’ils n’ont aucune créature de petite taille à écraser
+entre leurs poings monstrueux ou à profaner pour
+assouvir leur soif de violence, ils s’en prennent les uns
+aux autres. Rien n’est tabou dans la société des ogres.
+On pourrait croire qu’une fois livrés à eux-mêmes,
+les ogres d’une même tribu s’entre-déchireraient
+rapidement et que seuls les plus puissants survivraient
+en fin de comptes, mais s’il y a quelque chose que les
+ogres respectent, c’est la famille.
+
+Les tribus d’ogres sont donc appelées « familles ». La plupart
+des difformités et des caractéristiques physiques horribles
+qui affligent les ogres s’expliquent par la pratique courante de
+l’inceste. Bien souvent, le chef d’une tribu en est également le
+père, même si certaines ogresses particulièrement violentes ou
+dominatrices prennent le rôle de mère de la tribu. Les ogres se
+chamaillent constamment, un trait de caractère heureux qui les occupent et les font s’en prendre les uns aux autres plutôt qu’à leurs
+voisins. De temps en temps, un patriarche ogre particulièrement
+brutal et craint apparaît, un chef capable de rassembler plusieurs
+familles sous son commandement.
+
+Les zones habitées par les ogres sont des endroits mornes et laids,
+car ils se complaisent dans la saleté et n’éprouvent pas le besoin de
+mener une vie en harmonie avec leur environnement. La frontière
+qui sépare la civilisation du territoire ogre est un royaume triste
+habité par des individus exclus et désespérés. C’est là que vivent les
+ogrelins, les engeances difformes résultant des fréquentes attaques
+menées par les ogres contre les communautés de créatures de plus
+petite taille.
+
+Les jeux des ogres sont violents et vicieux. Les victimes avec
+lesquelles ils s’amusent ont bien de la chance si elles meurent dès
+le premier jour. Ils possèdent un sens de l’humour cruel (le seul
+signe indiquant que leur cerveau primitif est capable d’une légère
+étincelle de créativité) grâce auquel ils créent toutes sortes d’outils
+et de méthodes de torture cauchemardesques.
+
+La force considérable des ogres et leur manque d’imagination
+les destinent tout naturellement aux durs labeurs tels que
+l’exploitation minière, la ferronnerie ou le déboisement. Certains
+géants plus puissants qu’eux (notamment les géants des collines
+et les géants de pierre) asservissent les familles d’ogres et les
+contraignent à ce genre de travail.
+
+Un ogre adulte moyen mesure 3 mètres
+de hauteur et pèse à peu près
+325 kg.
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Ogre</fullName>
+</wikiPage>

@@ -1,0 +1,347 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Sceptre de métamagie</title>
+  <categories><category>Pathfinder-RPG.Advanced Player Guide</category><category>Pathfinder-RPG.Manuel des joueurs</category><category>Pathfinder-RPG.Objet magique</category><category>Pathfinder-RPG.Règles officielles</category><category>Pathfinder-RPG.Sceptre magique</category></categories>
+  <lastModified>2011-10-09 11:21:23Z</lastModified>
+  <version>6</version>
+  <inLinks><link>Pathfinder-RPG.FAQ Objets magiques</link><link>Pathfinder-RPG.Sceptres magiques</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Sceptres magiques</link><link>Pathfinder-RPG.Dons</link><link>Pathfinder-RPG.Règles relatives aux objets magiques</link><link>Pathfinder-RPG.attaque dopportunité</link><link>Pathfinder-RPG.Ensorceleur</link><link>Pathfinder-RPG.Barde</link><link>Pathfinder-RPG.Incantation rapide</link><link>Pathfinder-RPG.Action rapide</link><link>Pathfinder-RPG.Sort concentré</link><link>Pathfinder-RPG.Création de sceptres magiques</link><link>Pathfinder-RPG.Fiévreux</link><link>Pathfinder-RPG.Sort écœurant</link><link>Pathfinder-RPG.Sort ectoplasmique</link><link>Pathfinder-RPG.Sort élémentaire</link><link>Pathfinder-RPG.Sort éloigné</link><link>Pathfinder-RPG.Extension deffet</link><link>Pathfinder-RPG.Extension de durée</link><link>Pathfinder-RPG.Extension de portée</link><link>Pathfinder-RPG.Hébété</link><link>Pathfinder-RPG.Sort hébétant</link><link>Pathfinder-RPG.Incantation silencieuse</link><link>Pathfinder-RPG.Sort intense</link><link>Pathfinder-RPG.Dégâts non létaux</link><link>Pathfinder-RPG.Sort miséricordieux</link><link>Pathfinder-RPG.Sort persistant</link><link>Pathfinder-RPG.Sort perturbateur</link><link>Pathfinder-RPG.Quintessence des sorts</link><link>Pathfinder-RPG.Sort à rebonds</link><link>Pathfinder-RPG.Sort sélectif</link><link>Pathfinder-RPG.round</link><link>Pathfinder-RPG.Sort soutenu</link><link>Pathfinder-RPG.Assourdi</link><link>Pathfinder-RPG.Sort tonitruant</link></outLinks>
+  <body><![CDATA[&lt;div style=&quot;float:right&quot;&gt;&lt;b&gt;&lt;i&gt;Retour aux &lt;a class=&quot;pagelink&quot; href=&quot;Sceptres-Magiques.html&quot; title=&quot;Les sceptres magiques&quot;&gt;sceptres magiques&lt;/a&gt;.&lt;/i&gt;&lt;/b&gt;&lt;/div&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Les sceptres de m&#233;tamagie contiennent l’essence d’un &lt;a class=&quot;pagelink&quot; href=&quot;Dons.html#DONMETAMAGIE&quot; title=&quot;Les dons&quot;&gt;don de m&#233;tamagie&lt;/a&gt; qu’ils peuvent appliquer &#224; un sort sans en modifier le niveau de l’emplacement de sort n&#233;cessaire. Tous les sceptres de ce type sont des &lt;a class=&quot;pagelink&quot; href=&quot;R&#232;gles-Relatives-Aux-Objets-Magiques.html#OBJETSAUSAGE&quot; title=&quot;R&#232;gles relatives aux objets magiques&quot;&gt;objets &#224; usage&lt;/a&gt; (mais lancer un sort dans une zone contr&#244;l&#233;e par un adversaire provoque tout de m&#234;me une &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#ATTAQUEDOPPORTUNITE&quot; title=&quot;attaque d&amp;#39;opportunit&#233;&quot;&gt;attaque d’opportunit&#233;&lt;/a&gt;). Un personnage ne peut utiliser qu’un sceptre de m&#233;tamagie sur un sort donn&#233;, mais il est possible de combiner l’utilisation de l’un d’entre eux avec les &lt;a class=&quot;pagelink&quot; href=&quot;Dons.html#DONMETAMAGIE&quot; title=&quot;Les dons&quot;&gt;dons de m&#233;tamagie&lt;/a&gt; effectivement poss&#233;d&#233;s par le personnage. Dans ce cas, seuls ces derniers modifient le niveau de l’emplacement de sort n&#233;cessaire.&lt;br /&gt;&lt;br /&gt;Un personnage poss&#233;dant un sceptre de m&#233;tamagie n’est pas consid&#233;r&#233; comme ayant le don en question, il ne peut en appliquer les effets qu’un certain nombre de fois par jour. Un &lt;a class=&quot;pagelink&quot; href=&quot;Ensorceleur.html&quot; title=&quot;L&amp;#39;ensorceleur&quot;&gt;ensorceleur&lt;/a&gt; ou un &lt;a class=&quot;pagelink&quot; href=&quot;Barde.html&quot; title=&quot;Le barde&quot;&gt;barde&lt;/a&gt; utilisant un sceptre de m&#233;tamagie doit passer plus de temps &#224; l’incantation, de la m&#234;me fa&#231;on que s’il utilisait un don qu’il poss&#233;dait (&#224; l’exception de ceux qui conf&#232;rent l’&lt;a class=&quot;pagelink&quot; href=&quot;Incantation-Rapide.html&quot; title=&quot;Incantation rapide&quot;&gt;incantation rapide&lt;/a&gt;, qui peuvent &#234;tre utilis&#233;s en &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions.html#RAPIDE&quot; title=&quot;Action rapide&quot;&gt;action rapide&lt;/a&gt;).&lt;br /&gt;&lt;br /&gt;Les &lt;i&gt;sceptres de m&#233;tamagie mineure&lt;/i&gt; ne peuvent &#234;tre utilis&#233;s que sur des sorts du 3e niveau ou moins. Les &lt;i&gt;sceptres de m&#233;tamagie mod&#233;r&#233;e&lt;/i&gt; ne peuvent &#234;tre utilis&#233;s que sur des sorts du 6e niveau ou moins. Finalement, les &lt;i&gt;sceptres de m&#233;tamagie majeure&lt;/i&gt; peuvent &#234;tre utilis&#233;s sur tous les sorts jusqu’au 9e niveau.&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;article_2col&quot;&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Sceptre de m&#233;tamagie, Concentr&#233;&lt;div style=&quot;float:right;&quot;&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;b&gt;Aura&lt;/b&gt; puissante (pas d’&#233;cole) ; &lt;b&gt;NLS&lt;/b&gt; 17 ; &lt;b&gt;Emplacement&lt;/b&gt; aucun ; &lt;b&gt;Prix&lt;/b&gt; 3 000 po (mineure), 11 000 po (mod&#233;r&#233;e), 24 500 po (majeure) ; &lt;b&gt;Poids&lt;/b&gt; 2,5 kg
+&lt;div class=&quot;box&quot;&gt;Description&lt;/div&gt;
+Chaque jour, le personnage peut lancer jusqu’&#224; 3 sorts qui seront aussi concentr&#233;s que si le personnage utilisait le don &lt;a class=&quot;pagelink&quot; href=&quot;Sort-Concentr&#233;.html&quot; title=&quot;Sort concentr&#233;&quot;&gt;Sort concentr&#233;&lt;/a&gt;.
+&lt;div class=&quot;box&quot;&gt;Fabrication&lt;/div&gt;
+&lt;b&gt;Conditions&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;ation-De-Sceptres-Magiques.html&quot; title=&quot;Cr&#233;ation de sceptres magiques&quot;&gt;Cr&#233;ation de sceptres magiques&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Sort-Concentr&#233;.html&quot; title=&quot;Sort concentr&#233;&quot;&gt;Sort concentr&#233;&lt;/a&gt; ; &lt;b&gt;Co&#251;t&lt;/b&gt; 1 500 po (mineure), 5 500 po (mod&#233;r&#233;e), 12 250 po (majeure)
+&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Sceptre de m&#233;tamagie, &#201;cœurant&lt;div style=&quot;float:right;&quot;&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;b&gt;Aura&lt;/b&gt; puissante (pas d’&#233;cole) ; &lt;b&gt;NLS&lt;/b&gt; 17 ; &lt;b&gt;Emplacement&lt;/b&gt; aucun ; &lt;b&gt;Prix&lt;/b&gt; 9 000 po (mineure), 32 500 po (mod&#233;r&#233;e), 73 000 po (majeure) ; &lt;b&gt;Poids&lt;/b&gt; 2,5 kg
+&lt;div class=&quot;box&quot;&gt;Description&lt;/div&gt;
+Chaque jour, le personnage peut lancer jusqu’&#224; 3 sorts qui rendent les cr&#233;atures affect&#233;es &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables.html#Fi&#233;vreux&quot; title=&quot;Fi&#233;vreux&quot;&gt;fi&#233;vreuses&lt;/a&gt;, comme avec le don &lt;a class=&quot;pagelink&quot; href=&quot;Sort-&#201;cœurant.html&quot; title=&quot;Sort &#233;cœurant&quot;&gt;Sort &#233;cœurant&lt;/a&gt;.
+&lt;div class=&quot;box&quot;&gt;Fabrication&lt;/div&gt;
+&lt;b&gt;Conditions&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;ation-De-Sceptres-Magiques.html&quot; title=&quot;Cr&#233;ation de sceptres magiques&quot;&gt;Cr&#233;ation de sceptres magiques&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Sort-&#201;cœurant.html&quot; title=&quot;Sort &#233;cœurant&quot;&gt;Sort &#233;cœurant&lt;/a&gt; ; &lt;b&gt;Co&#251;t&lt;/b&gt; 4 500 po (mineure), 16 250 po (mod&#233;r&#233;e), 36 500 po (majeure)
+&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Sceptre de m&#233;tamagie, Ectoplasmique&lt;div style=&quot;float:right;&quot;&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;b&gt;Aura&lt;/b&gt; puissante (pas d’&#233;cole) ; &lt;b&gt;NLS&lt;/b&gt; 17 ; &lt;b&gt;Emplacement&lt;/b&gt; aucun ; &lt;b&gt;Prix&lt;/b&gt; 3 000 po (mineure), 11 000 po (mod&#233;r&#233;e), 24 500 po (majeure) ; &lt;b&gt;Poids&lt;/b&gt; 2,5 kg
+&lt;div class=&quot;box&quot;&gt;Description&lt;/div&gt;
+Chaque jour, le personnage peut lancer jusqu&#39;&#224; trois sorts qui affectent les cr&#233;atures intangibles en totalit&#233;, comme avec le sort &lt;a class=&quot;pagelink&quot; href=&quot;Sort-Ectoplasmique.html&quot; title=&quot;Sort ectoplasmique&quot;&gt;Sort ectoplasmique&lt;/a&gt;.
+&lt;div class=&quot;box&quot;&gt;Fabrication&lt;/div&gt;
+&lt;b&gt;Conditions&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;ation-De-Sceptres-Magiques.html&quot; title=&quot;Cr&#233;ation de sceptres magiques&quot;&gt;Cr&#233;ation de sceptres magiques&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Sort-Ectoplasmique.html&quot; title=&quot;Sort ectoplasmique&quot;&gt;Sort ectoplasmique&lt;/a&gt; ; &lt;b&gt;Co&#251;t&lt;/b&gt; 1 500 po (mineure), 5 500 po (mod&#233;r&#233;e), 12 250 po (majeure)
+&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Sceptre de m&#233;tamagie, El&#233;mentaire&lt;div style=&quot;float:right;&quot;&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;b&gt;Aura&lt;/b&gt; puissante (pas d’&#233;cole) ; &lt;b&gt;NLS&lt;/b&gt; 17 ; &lt;b&gt;Emplacement&lt;/b&gt; aucun ; &lt;b&gt;Prix&lt;/b&gt; 3 000 po (mineure), 11 000 po (mod&#233;r&#233;e), 24 500 po (majeure) ; &lt;b&gt;Poids&lt;/b&gt; 2,5 kg
+&lt;div class=&quot;box&quot;&gt;Description&lt;/div&gt;
+Chaque sceptre de m&#233;tamagie &#233;l&#233;mentaire est construit avec le pouvoir de contr&#244;ler et de transformer un type d’&#233;nergie particulier (acide, froid, &#233;lectricit&#233; ou feu). Le personnage peut lancer jusqu’&#224; trois sorts par jour qui infligent des d&#233;g&#226;ts de m&#234;me type que le sceptre au lieu de leur type normal, comme si le personnage utilisait le don &lt;a class=&quot;pagelink&quot; href=&quot;Sort-&#201;l&#233;mentaire.html&quot; title=&quot;Sort &#233;l&#233;mentaire&quot;&gt;Sort &#233;l&#233;mentaire&lt;/a&gt;. Par exemple, le  &lt;i&gt;sceptre de m&#233;tamagie &#233;l&#233;mentaire (froid)&lt;/i&gt; transforme toujours les d&#233;g&#226;ts des sorts en d&#233;g&#226;ts de froid.
+&lt;div class=&quot;box&quot;&gt;Fabrication&lt;/div&gt;
+&lt;b&gt;Conditions&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;ation-De-Sceptres-Magiques.html&quot; title=&quot;Cr&#233;ation de sceptres magiques&quot;&gt;Cr&#233;ation de sceptres magiques&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Sort-&#201;l&#233;mentaire.html&quot; title=&quot;Sort &#233;l&#233;mentaire&quot;&gt;Sort &#233;l&#233;mentaire&lt;/a&gt; ; &lt;b&gt;Co&#251;t&lt;/b&gt; 1 500 po (mineure), 5 500 po (mod&#233;r&#233;e), 12 250 po (majeure)
+&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Sceptre de m&#233;tamagie, Eloign&#233;&lt;div style=&quot;float:right;&quot;&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;b&gt;Aura&lt;/b&gt; puissante (pas d’&#233;cole) ; &lt;b&gt;NLS&lt;/b&gt; 17 ; &lt;b&gt;Emplacement&lt;/b&gt; aucun ; &lt;b&gt;Prix&lt;/b&gt; 3 000 po (mineure), 11 000 po (mod&#233;r&#233;e), 24 500 po (majeure) ; &lt;b&gt;Poids&lt;/b&gt; 2,5 kg
+&lt;div class=&quot;box&quot;&gt;Description&lt;/div&gt;
+Chaque jour, le personnage peut lancer jusqu’&#224; 3 sorts dont la port&#233;e augmente d’une cat&#233;gorie (de courte &#224; interm&#233;diaire ou d’interm&#233;diaire &#224; longue), comme avec le don &lt;a class=&quot;pagelink&quot; href=&quot;Sort-&#201;loign&#233;.html&quot; title=&quot;Sort &#233;loign&#233;&quot;&gt;Sort &#233;loign&#233;&lt;/a&gt;.
+&lt;div class=&quot;box&quot;&gt;Fabrication&lt;/div&gt;
+&lt;b&gt;Conditions&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;ation-De-Sceptres-Magiques.html&quot; title=&quot;Cr&#233;ation de sceptres magiques&quot;&gt;Cr&#233;ation de sceptres magiques&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Sort-&#201;loign&#233;.html&quot; title=&quot;Sort &#233;loign&#233;&quot;&gt;Sort &#233;loign&#233;&lt;/a&gt; ; &lt;b&gt;Co&#251;t&lt;/b&gt; 1 500 po (mineure), 5 500 po (mod&#233;r&#233;e), 12 250 po (majeure)
+&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Sceptre de m&#233;tamagie, Extension d’effet&lt;div style=&quot;float:right;&quot;&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;b&gt;Aura&lt;/b&gt; puissante (pas d’&#233;cole) ; &lt;b&gt;NLS&lt;/b&gt; 17 ; &lt;b&gt;Emplacement&lt;/b&gt; aucun ; &lt;b&gt;Prix&lt;/b&gt; 9 000 po (mineure), 32 500 po (mod&#233;r&#233;e), 73 000 po (majeure) ; &lt;b&gt;Poids&lt;/b&gt; 2,5 kg
+&lt;div class=&quot;box&quot;&gt;Description&lt;/div&gt;
+Trois fois par jour, le porteur de ce sceptre peut lancer un sort &#224; effet &#233;tendu comme s’il utilisait le don &lt;a class=&quot;pagelink&quot; href=&quot;Extension-Deffet.html&quot; title=&quot;Extension d&amp;#39;effet&quot;&gt;Extension d’effet&lt;/a&gt;.
+&lt;div class=&quot;box&quot;&gt;Fabrication&lt;/div&gt;
+&lt;b&gt;Conditions&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;ation-De-Sceptres-Magiques.html&quot; title=&quot;Cr&#233;ation de sceptres magiques&quot;&gt;Cr&#233;ation de sceptres magiques&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Extension-Deffet.html&quot; title=&quot;Extension d&amp;#39;effet&quot;&gt;Extension d’effet`&lt;/a&gt; ; &lt;b&gt;Co&#251;t&lt;/b&gt; 4 500 po (mineure), 16 250 po (mod&#233;r&#233;e), 36 500 po (majeure)
+&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Sceptre de m&#233;tamagie, Extension de dur&#233;e&lt;div style=&quot;float:right;&quot;&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;b&gt;Aura&lt;/b&gt; puissante (pas d’&#233;cole) ; &lt;b&gt;NLS&lt;/b&gt; 17 ; &lt;b&gt;Emplacement&lt;/b&gt; aucun ; &lt;b&gt;Prix&lt;/b&gt; 3 000 po (mineure), 11 000 po (mod&#233;r&#233;e), 24 500 po (majeure) ; &lt;b&gt;Poids&lt;/b&gt; 2,5 kg
+&lt;div class=&quot;box&quot;&gt;Description&lt;/div&gt;
+Trois fois par jour, le porteur de ce sceptre peut lancer un sort &#224; dur&#233;e &#233;tendue comme s’il utilisait le don &lt;a class=&quot;pagelink&quot; href=&quot;Extension-De-Dur&#233;e.html&quot; title=&quot;Extension de dur&#233;e&quot;&gt;Extension de dur&#233;e&lt;/a&gt;.
+&lt;div class=&quot;box&quot;&gt;Fabrication&lt;/div&gt;
+&lt;b&gt;Conditions&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;ation-De-Sceptres-Magiques.html&quot; title=&quot;Cr&#233;ation de sceptres magiques&quot;&gt;Cr&#233;ation de sceptres magiques&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Extension-De-Dur&#233;e.html&quot; title=&quot;Extension de dur&#233;e&quot;&gt;Extension de dur&#233;e&lt;/a&gt; ; &lt;b&gt;Co&#251;t&lt;/b&gt; 1 500 po (mineure), 5 500 po (mod&#233;r&#233;e), 12 250 po (majeure)
+&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Sceptre de m&#233;tamagie, Extension de port&#233;e&lt;div style=&quot;float:right;&quot;&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;b&gt;Aura&lt;/b&gt; puissante (pas d’&#233;cole) ; &lt;b&gt;NLS&lt;/b&gt; 17 ; &lt;b&gt;Emplacement&lt;/b&gt; aucun ; &lt;b&gt;Prix&lt;/b&gt; 3 000 po (mineure), 11 000 po (mod&#233;r&#233;e), 24 500 po (majeure) ; &lt;b&gt;Poids&lt;/b&gt; 2,5 kg
+&lt;div class=&quot;box&quot;&gt;Description&lt;/div&gt;
+Trois fois par jour, le porteur de ce sceptre peut lancer un sort &#224; port&#233;e &#233;tendue comme s’il utilisait le don &lt;a class=&quot;pagelink&quot; href=&quot;Extension-De-Port&#233;e.html&quot; title=&quot;Extension de port&#233;e&quot;&gt;Extension de port&#233;e&lt;/a&gt;.
+&lt;div class=&quot;box&quot;&gt;Fabrication&lt;/div&gt;
+&lt;b&gt;Conditions&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;ation-De-Sceptres-Magiques.html&quot; title=&quot;Cr&#233;ation de sceptres magiques&quot;&gt;Cr&#233;ation de sceptres magiques&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Extension-De-Port&#233;e.html&quot; title=&quot;Extension de port&#233;e&quot;&gt;Extension de port&#233;e&lt;/a&gt; ; &lt;b&gt;Co&#251;t&lt;/b&gt; 1 500 po (mineure), 5 500 po (mod&#233;r&#233;e), 12 250 po (majeure)
+&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Sceptre de m&#233;tamagie, H&#233;b&#233;tant&lt;div style=&quot;float:right;&quot;&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;b&gt;Aura&lt;/b&gt; puissante (pas d’&#233;cole) ; &lt;b&gt;NLS&lt;/b&gt; 17 ; &lt;b&gt;Emplacement&lt;/b&gt; aucun ; &lt;b&gt;Prix&lt;/b&gt; 14 000 po (mineure), 54 000 po (mod&#233;r&#233;e), 121 500 po (majeure) ; &lt;b&gt;Poids&lt;/b&gt; 2,5 kg
+&lt;div class=&quot;box&quot;&gt;Description&lt;/div&gt;
+Chaque jour, le personnage peut lancer jusqu&#39;&#224; trois sorts dont les d&#233;g&#226;ts &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables.html#H&#233;b&#233;t&#233;&quot; title=&quot;H&#233;b&#233;t&#233;&quot;&gt;h&#233;b&#232;tent&lt;/a&gt; la cible, comme avec le sort &lt;a class=&quot;pagelink&quot; href=&quot;Sort-H&#233;b&#233;tant.html&quot; title=&quot;Sort h&#233;b&#233;tant&quot;&gt;Sort h&#233;b&#233;tant&lt;/a&gt;.
+&lt;div class=&quot;box&quot;&gt;Fabrication&lt;/div&gt;
+&lt;b&gt;Conditions&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;ation-De-Sceptres-Magiques.html&quot; title=&quot;Cr&#233;ation de sceptres magiques&quot;&gt;Cr&#233;ation de sceptres magiques&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Sort-H&#233;b&#233;tant.html&quot; title=&quot;Sort h&#233;b&#233;tant&quot;&gt;Sort h&#233;b&#233;tant&lt;/a&gt; ; &lt;b&gt;Co&#251;t&lt;/b&gt; 7 000 po (mineure), 27 000 po (mod&#233;r&#233;e), 60 750 po (majeure)
+&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Sceptre de m&#233;tamagie, Incantation rapide&lt;div style=&quot;float:right;&quot;&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;b&gt;Aura&lt;/b&gt; puissante (pas d’&#233;cole) ; &lt;b&gt;NLS&lt;/b&gt; 17 ; &lt;b&gt;Emplacement&lt;/b&gt; aucun ; &lt;b&gt;Prix&lt;/b&gt; 35 000 po (mineure), 75 500 po (mod&#233;r&#233;e), 170 000 po (majeure) ; &lt;b&gt;Poids&lt;/b&gt; 2,5 kg
+&lt;div class=&quot;box&quot;&gt;Description&lt;/div&gt;
+Trois fois par jour, le porteur de ce sceptre peut lancer un sort &#224; incantation rapide comme s’il utilisait le don &lt;a class=&quot;pagelink&quot; href=&quot;Incantation-Rapide.html&quot; title=&quot;Incantation rapide&quot;&gt;Incantation rapide&lt;/a&gt;.
+&lt;div class=&quot;box&quot;&gt;Fabrication&lt;/div&gt;
+&lt;b&gt;Conditions&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;ation-De-Sceptres-Magiques.html&quot; title=&quot;Cr&#233;ation de sceptres magiques&quot;&gt;Cr&#233;ation de sceptres magiques&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Incantation-Rapide.html&quot; title=&quot;Incantation rapide&quot;&gt;Incantation rapide&lt;/a&gt; ; &lt;b&gt;Co&#251;t&lt;/b&gt; 17 500 po (mineure), 37 750 po (mod&#233;r&#233;e), 85 000 po (majeure)
+&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Sceptre de m&#233;tamagie, Incantation silencieuse&lt;div style=&quot;float:right;&quot;&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;b&gt;Aura&lt;/b&gt; puissante (pas d’&#233;cole) ; &lt;b&gt;NLS&lt;/b&gt; 17 ; &lt;b&gt;Emplacement&lt;/b&gt; aucun ; &lt;b&gt;Prix&lt;/b&gt; 3 000 po (mineure), 11 000 po (mod&#233;r&#233;e), 24 500 po (majeure) ; &lt;b&gt;Poids&lt;/b&gt; 2,5 kg
+&lt;div class=&quot;box&quot;&gt;Description&lt;/div&gt;
+Trois fois par jour, le porteur de ce sceptre peut lancer un sort &#224; incantation silencieuse comme s’il utilisait le don &lt;a class=&quot;pagelink&quot; href=&quot;Incantation-Silencieuse.html&quot; title=&quot;Incantation silencieuse&quot;&gt;Incantation silencieuse&lt;/a&gt;.
+&lt;div class=&quot;box&quot;&gt;Fabrication&lt;/div&gt;
+&lt;b&gt;Conditions&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;ation-De-Sceptres-Magiques.html&quot; title=&quot;Cr&#233;ation de sceptres magiques&quot;&gt;Cr&#233;ation de sceptres magiques&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Incantation-Silencieuse.html&quot; title=&quot;Incantation silencieuse&quot;&gt;Incantation silencieuse&lt;/a&gt; ; &lt;b&gt;Co&#251;t&lt;/b&gt; 1 500 po (mineure), 5 500 po (mod&#233;r&#233;e), 12 250 po (majeure)
+&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Sceptre de m&#233;tamagie, Intense&lt;div style=&quot;float:right;&quot;&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;b&gt;Aura&lt;/b&gt; puissante (pas d’&#233;cole) ; &lt;b&gt;NLS&lt;/b&gt; 17 ; &lt;b&gt;Emplacement&lt;/b&gt; aucun ; &lt;b&gt;Prix&lt;/b&gt; 3 000 po (mineure), 11 000 po (mod&#233;r&#233;e), 24 500 po (majeure) ; &lt;b&gt;Poids&lt;/b&gt; 2,5 kg
+&lt;div class=&quot;box&quot;&gt;Description&lt;/div&gt;
+Chaque jour, le personnage peut lancer jusqu’&#224; 3 sorts qui seront aussi intensifi&#233;s que si le personnage utilisait le don &lt;a class=&quot;pagelink&quot; href=&quot;Sort-Intense.html&quot; title=&quot;Sort intense&quot;&gt;Sort intense&lt;/a&gt;.
+&lt;div class=&quot;box&quot;&gt;Fabrication&lt;/div&gt;
+&lt;b&gt;Conditions&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;ation-De-Sceptres-Magiques.html&quot; title=&quot;Cr&#233;ation de sceptres magiques&quot;&gt;Cr&#233;ation de sceptres magiques&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Sort-Intense.html&quot; title=&quot;Sort intense&quot;&gt;Sort intense&lt;/a&gt; ; &lt;b&gt;Co&#251;t&lt;/b&gt; 1 500 po (mineure), 5 500 po (mod&#233;r&#233;e), 12 250 po (majeure)
+&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Sceptre de m&#233;tamagie, Mis&#233;ricordieux&lt;div style=&quot;float:right;&quot;&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;b&gt;Aura&lt;/b&gt; puissante (pas d’&#233;cole) ; &lt;b&gt;NLS&lt;/b&gt; 17 ; &lt;b&gt;Emplacement&lt;/b&gt; aucun ; &lt;b&gt;Prix&lt;/b&gt; 1 500 po (mineure), 5 500 po (mod&#233;r&#233;e), 12 250 po (majeure) ; &lt;b&gt;Poids&lt;/b&gt; 2,5 kg
+&lt;div class=&quot;box&quot;&gt;Description&lt;/div&gt;
+Chaque jour, le personnage peut lancer jusqu’&#224; 3 sorts qui infligent des &lt;a class=&quot;pagelink&quot; href=&quot;Blessures-Et-Mort.html#NONLETAL&quot; title=&quot;D&#233;g&#226;ts non l&#233;taux&quot;&gt;d&#233;g&#226;ts non l&#233;taux&lt;/a&gt;, comme avec le don &lt;a class=&quot;pagelink&quot; href=&quot;Sort-Mis&#233;ricordieux.html&quot; title=&quot;Sort mis&#233;ricordieux&quot;&gt;sort mis&#233;ricordieux&lt;/a&gt;.
+&lt;div class=&quot;box&quot;&gt;Fabrication&lt;/div&gt;
+&lt;b&gt;Conditions&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;ation-De-Sceptres-Magiques.html&quot; title=&quot;Cr&#233;ation de sceptres magiques&quot;&gt;Cr&#233;ation de sceptres magiques&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Sort-Mis&#233;ricordieux.html&quot; title=&quot;Sort mis&#233;ricordieux&quot;&gt;Sort mis&#233;ricordieux&lt;/a&gt; ; &lt;b&gt;Co&#251;t&lt;/b&gt; 750 po (mineure), 2 750 po (mod&#233;r&#233;e), 6 125 po (majeure)
+&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Sceptre de m&#233;tamagie, Persistant&lt;div style=&quot;float:right;&quot;&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;b&gt;Aura&lt;/b&gt; puissante (pas d’&#233;cole) ; &lt;b&gt;NLS&lt;/b&gt; 17 ; &lt;b&gt;Emplacement&lt;/b&gt; aucun ; &lt;b&gt;Prix&lt;/b&gt; 9 000 po (mineure), 32 500 po (mod&#233;r&#233;e), 73 000 po (majeure) ; &lt;b&gt;Poids&lt;/b&gt; 2,5 kg
+&lt;div class=&quot;box&quot;&gt;Description&lt;/div&gt;
+Chaque jour, le personnage peut lancer jusqu&#39;&#224; trois sorts comme avec le don &lt;a class=&quot;pagelink&quot; href=&quot;Sort-Persistant.html&quot; title=&quot;Sort persistant&quot;&gt;Sort persistant&lt;/a&gt;.
+&lt;div class=&quot;box&quot;&gt;Fabrication&lt;/div&gt;
+&lt;b&gt;Conditions&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;ation-De-Sceptres-Magiques.html&quot; title=&quot;Cr&#233;ation de sceptres magiques&quot;&gt;Cr&#233;ation de sceptres magiques&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Sort-Persistant.html&quot; title=&quot;Sort persistant&quot;&gt;Sort persistant&lt;/a&gt; ; &lt;b&gt;Co&#251;t&lt;/b&gt; 4 500 po (mineure), 16 250 po (mod&#233;r&#233;e), 36 500 po (majeure)
+&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Sceptre de m&#233;tamagie, Perturbateur&lt;div style=&quot;float:right;&quot;&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;b&gt;Aura&lt;/b&gt; puissante (pas d’&#233;cole) ; &lt;b&gt;NLS&lt;/b&gt; 17 ; &lt;b&gt;Emplacement&lt;/b&gt; aucun ; &lt;b&gt;Prix&lt;/b&gt; 3 000 po (mineure), 11 000 po (mod&#233;r&#233;e), 24 500 po (majeure) ; &lt;b&gt;Poids&lt;/b&gt; 2,5 kg
+&lt;div class=&quot;box&quot;&gt;Description&lt;/div&gt;
+Chaque jour, le personnage peut lancer jusqu&#39;&#224; trois sorts dont les d&#233;g&#226;ts perturbent la cible, comme avec le don &lt;a class=&quot;pagelink&quot; href=&quot;Sort-Perturbateur.html&quot; title=&quot;Sort perturbateur&quot;&gt;Sort perturbateur&lt;/a&gt;.
+&lt;div class=&quot;box&quot;&gt;Fabrication&lt;/div&gt;
+&lt;b&gt;Conditions&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;ation-De-Sceptres-Magiques.html&quot; title=&quot;Cr&#233;ation de sceptres magiques&quot;&gt;Cr&#233;ation de sceptres magiques&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Sort-Perturbateur.html&quot; title=&quot;Sort perturbateur&quot;&gt;Sort perturbateur&lt;/a&gt; ; &lt;b&gt;Co&#251;t&lt;/b&gt; 1 500 po (mineure), 5 500 po (mod&#233;r&#233;e), 12 250 po (majeure)
+&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Sceptre de m&#233;tamagie, Quintessence&lt;div style=&quot;float:right;&quot;&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;b&gt;Aura&lt;/b&gt; puissante (pas d’&#233;cole) ; &lt;b&gt;NLS&lt;/b&gt; 17 ; &lt;b&gt;Emplacement&lt;/b&gt; aucun ; &lt;b&gt;Prix&lt;/b&gt; 14 000 po (mineure), 54 000 po (mod&#233;r&#233;e), 121 500 po (majeure) ; &lt;b&gt;Poids&lt;/b&gt; 2,5 kg
+&lt;div class=&quot;box&quot;&gt;Description&lt;/div&gt;
+Trois fois par jour, le porteur de ce sceptre peut lancer la quintessence d’un sort comme s’il utilisait le don &lt;a class=&quot;pagelink&quot; href=&quot;Quintessence-Des-Sorts.html&quot; title=&quot;Quintessence des sorts&quot;&gt;Quintessence des sorts&lt;/a&gt;.
+&lt;div class=&quot;box&quot;&gt;Fabrication&lt;/div&gt;
+&lt;b&gt;Conditions&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;ation-De-Sceptres-Magiques.html&quot; title=&quot;Cr&#233;ation de sceptres magiques&quot;&gt;Cr&#233;ation de sceptres magiques&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Quintessence-Des-Sorts.html&quot; title=&quot;Quintessence des sorts&quot;&gt;Quintessence des sorts&lt;/a&gt; ; &lt;b&gt;Co&#251;t&lt;/b&gt; 7 000 po (mineure), 27 000 po (mod&#233;r&#233;e), 60 750 po (majeure)
+&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Sceptre de m&#233;tamagie, Rebonds&lt;div style=&quot;float:right;&quot;&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;b&gt;Aura&lt;/b&gt; puissante (pas d’&#233;cole) ; &lt;b&gt;NLS&lt;/b&gt; 17 ; &lt;b&gt;Emplacement&lt;/b&gt; aucun ; &lt;b&gt;Prix&lt;/b&gt; 9 000 po (mineure), 32 500 po (mod&#233;r&#233;e), 73 000 po (majeure) ; &lt;b&gt;Poids&lt;/b&gt; 2,5 kg
+&lt;div class=&quot;box&quot;&gt;Description&lt;/div&gt;
+Chaque jour, le personnage peut faire rebondir jusqu&#39;&#224; trois sorts, comme avec le don &lt;a class=&quot;pagelink&quot; href=&quot;Sort-&#192;-Rebonds.html&quot; title=&quot;Sort &#224; rebonds&quot;&gt;Sort &#224; rebonds&lt;/a&gt;.
+&lt;div class=&quot;box&quot;&gt;Fabrication&lt;/div&gt;
+&lt;b&gt;Conditions&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;ation-De-Sceptres-Magiques.html&quot; title=&quot;Cr&#233;ation de sceptres magiques&quot;&gt;Cr&#233;ation de sceptres magiques&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Sort-&#192;-Rebonds.html&quot; title=&quot;Sort &#224; rebonds&quot;&gt;Sort &#224; rebonds&lt;/a&gt; ; &lt;b&gt;Co&#251;t&lt;/b&gt; 4 500 po (mineure), 16 250 po (mod&#233;r&#233;e), 36 500 po (majeure)
+&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Sceptre de m&#233;tamagie, S&#233;lectif&lt;div style=&quot;float:right;&quot;&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;b&gt;Aura&lt;/b&gt; puissante (pas d’&#233;cole) ; &lt;b&gt;NLS&lt;/b&gt; 17 ; &lt;b&gt;Emplacement&lt;/b&gt; aucun ; &lt;b&gt;Prix&lt;/b&gt; 3 000 po (mineure), 11 000 po (mod&#233;r&#233;e), 24 500 po (majeure) ; &lt;b&gt;Poids&lt;/b&gt; 2,5 kg
+&lt;div class=&quot;box&quot;&gt;Description&lt;/div&gt;
+Chaque jour, le personnage peut lancer jusqu’&#224; 3 sorts comme avec le don &lt;a class=&quot;pagelink&quot; href=&quot;Sort-S&#233;lectif.html&quot; title=&quot;Sort s&#233;lectif&quot;&gt;Sort s&#233;lectif&lt;/a&gt;. &#192; chaque sort, il peut choisir jusqu’&#224; quatre cr&#233;a-
+tures situ&#233;es dans la zone qui ne seront pas affect&#233;es.
+&lt;div class=&quot;box&quot;&gt;Fabrication&lt;/div&gt;
+&lt;b&gt;Conditions&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;ation-De-Sceptres-Magiques.html&quot; title=&quot;Cr&#233;ation de sceptres magiques&quot;&gt;Cr&#233;ation de sceptres magiques&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Sort-S&#233;lectif.html&quot; title=&quot;Sort s&#233;lectif&quot;&gt;Sort s&#233;lectif&lt;/a&gt; ; &lt;b&gt;Co&#251;t&lt;/b&gt; 1 500 po (mineure), 5 500 po (mod&#233;r&#233;e), 12 250 po (majeure)
+&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Sceptre de m&#233;tamagie, Soutenu&lt;div style=&quot;float:right;&quot;&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;b&gt;Aura&lt;/b&gt; puissante (pas d’&#233;cole) ; &lt;b&gt;NLS&lt;/b&gt; 17 ; &lt;b&gt;Emplacement&lt;/b&gt; aucun ; &lt;b&gt;Prix&lt;/b&gt; 3 000 po (mineure), 11 000 po (mod&#233;r&#233;e), 24 500 po (majeure) ; &lt;b&gt;Poids&lt;/b&gt; 2,5 kg
+&lt;div class=&quot;box&quot;&gt;Description&lt;/div&gt;
+Chaque jour, le personnage peut lancer jusqu’&#224; 3 sorts qui persistent pendant 1 &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#ROUND&quot; title=&quot;round&quot;&gt;round&lt;/a&gt; comme avec le don &lt;a class=&quot;pagelink&quot; href=&quot;Sort-Soutenu.html&quot; title=&quot;Sort soutenu&quot;&gt;Sort soutenu&lt;/a&gt;.
+&lt;div class=&quot;box&quot;&gt;Fabrication&lt;/div&gt;
+&lt;b&gt;Conditions&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;ation-De-Sceptres-Magiques.html&quot; title=&quot;Cr&#233;ation de sceptres magiques&quot;&gt;Cr&#233;ation de sceptres magiques&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Sort-Soutenu.html&quot; title=&quot;Sort soutenu&quot;&gt;Sort soutenu&lt;/a&gt; ; &lt;b&gt;Co&#251;t&lt;/b&gt; 1 500 po (mineure), 5 500 po (mod&#233;r&#233;e), 12 250 po (majeure)
+&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Sceptre de m&#233;tamagie, Tonitruant&lt;div style=&quot;float:right;&quot;&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;b&gt;Aura&lt;/b&gt; puissante (pas d’&#233;cole) ; &lt;b&gt;NLS&lt;/b&gt; 17 ; &lt;b&gt;Emplacement&lt;/b&gt; aucun ; &lt;b&gt;Prix&lt;/b&gt; 9 000 po (mineure), 32 500 po (mod&#233;r&#233;e), 73 000 po (majeure) ; &lt;b&gt;Poids&lt;/b&gt; 2,5 kg
+&lt;div class=&quot;box&quot;&gt;Description&lt;/div&gt;
+Chaque jour, le personnage peut lancer jusqu’&#224; 3 sorts qui &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables.html#Assourdi&quot; title=&quot;Assourdi&quot;&gt;assourdissent&lt;/a&gt; les cr&#233;atures affect&#233;es, comme avec le don &lt;a class=&quot;pagelink&quot; href=&quot;Sort-Tonitruant.html&quot; title=&quot;Sort tonitruant&quot;&gt;Sort tonitruant&lt;/a&gt;.
+&lt;div class=&quot;box&quot;&gt;Fabrication&lt;/div&gt;
+&lt;b&gt;Conditions&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;ation-De-Sceptres-Magiques.html&quot; title=&quot;Cr&#233;ation de sceptres magiques&quot;&gt;Cr&#233;ation de sceptres magiques&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Sort-&#201;coeurant.html&quot; title=&quot;Sort &#233;cœurant&quot;&gt;Sort &#233;coeurant&lt;/a&gt; ; &lt;b&gt;Co&#251;t&lt;/b&gt; 4 500 po (mineure), 16 250 po (mod&#233;r&#233;e), 36 500 po (majeure)
+&lt;/div&gt;
+&lt;/div&gt;
+]]></body>
+  <raw><![CDATA[<div style="float:right">'''''Retour aux [[sceptres magiques]].'''''</div>
+
+
+
+Les sceptres de métamagie contiennent l’essence d’un [[dons#DONMETAMAGIE|don de métamagie]] qu’ils peuvent appliquer à un sort sans en modifier le niveau de l’emplacement de sort nécessaire. Tous les sceptres de ce type sont des [[Règles relatives aux objets magiques#OBJETSAUSAGE|objets à usage]] (mais lancer un sort dans une zone contrôlée par un adversaire provoque tout de même une [[attaque dopportunité|attaque d’opportunité]]). Un personnage ne peut utiliser qu’un sceptre de métamagie sur un sort donné, mais il est possible de combiner l’utilisation de l’un d’entre eux avec les [[dons#DONMETAMAGIE|dons de métamagie]] effectivement possédés par le personnage. Dans ce cas, seuls ces derniers modifient le niveau de l’emplacement de sort nécessaire.
+
+Un personnage possédant un sceptre de métamagie n’est pas considéré comme ayant le don en question, il ne peut en appliquer les effets qu’un certain nombre de fois par jour. Un [[ensorceleur]] ou un [[barde]] utilisant un sceptre de métamagie doit passer plus de temps à l’incantation, de la même façon que s’il utilisait un don qu’il possédait (à l’exception de ceux qui confèrent l’[[incantation rapide]], qui peuvent être utilisés en [[action rapide]]).
+
+Les ''sceptres de métamagie mineure'' ne peuvent être utilisés que sur des sorts du 3e niveau ou moins. Les ''sceptres de métamagie modérée'' ne peuvent être utilisés que sur des sorts du 6e niveau ou moins. Finalement, les ''sceptres de métamagie majeure'' peuvent être utilisés sur tous les sorts jusqu’au 9e niveau.
+
+<div class="article_2col">
+<div class="BD">
+{s:APG}{s:BDTitre|Sceptre de métamagie, Concentré|}
+'''Aura''' puissante (pas d’école) ; '''NLS''' 17 ; '''Emplacement''' aucun ; '''Prix''' 3 000 po (mineure), 11 000 po (modérée), 24 500 po (majeure) ; '''Poids''' 2,5 kg
+(((Description)))
+Chaque jour, le personnage peut lancer jusqu’à 3 sorts qui seront aussi concentrés que si le personnage utilisait le don [[Sort concentré]].
+(((Fabrication)))
+'''Conditions''' [[Création de sceptres magiques]], [[Sort concentré]] ; '''Coût''' 1 500 po (mineure), 5 500 po (modérée), 12 250 po (majeure)
+</div>
+
+<div class="BD">
+{s:APG}{s:BDTitre|Sceptre de métamagie, Écœurant|}
+'''Aura''' puissante (pas d’école) ; '''NLS''' 17 ; '''Emplacement''' aucun ; '''Prix''' 9 000 po (mineure), 32 500 po (modérée), 73 000 po (majeure) ; '''Poids''' 2,5 kg
+(((Description)))
+Chaque jour, le personnage peut lancer jusqu’à 3 sorts qui rendent les créatures affectées [[fiévreux|fiévreuses]], comme avec le don [[Sort écœurant]].
+(((Fabrication)))
+'''Conditions''' [[Création de sceptres magiques]], [[Sort écœurant]] ; '''Coût''' 4 500 po (mineure), 16 250 po (modérée), 36 500 po (majeure)
+</div>
+
+<div class="BD">
+{s:APG}{s:BDTitre|Sceptre de métamagie, Ectoplasmique|}
+'''Aura''' puissante (pas d’école) ; '''NLS''' 17 ; '''Emplacement''' aucun ; '''Prix''' 3 000 po (mineure), 11 000 po (modérée), 24 500 po (majeure) ; '''Poids''' 2,5 kg
+(((Description)))
+Chaque jour, le personnage peut lancer jusqu'à trois sorts qui affectent les créatures intangibles en totalité, comme avec le sort [[Sort ectoplasmique]].
+(((Fabrication)))
+'''Conditions''' [[Création de sceptres magiques]], [[Sort ectoplasmique]] ; '''Coût''' 1 500 po (mineure), 5 500 po (modérée), 12 250 po (majeure)
+</div>
+
+<div class="BD">
+{s:APG}{s:BDTitre|Sceptre de métamagie, Elémentaire|}
+'''Aura''' puissante (pas d’école) ; '''NLS''' 17 ; '''Emplacement''' aucun ; '''Prix''' 3 000 po (mineure), 11 000 po (modérée), 24 500 po (majeure) ; '''Poids''' 2,5 kg
+(((Description)))
+Chaque sceptre de métamagie élémentaire est construit avec le pouvoir de contrôler et de transformer un type d’énergie particulier (acide, froid, électricité ou feu). Le personnage peut lancer jusqu’à trois sorts par jour qui infligent des dégâts de même type que le sceptre au lieu de leur type normal, comme si le personnage utilisait le don [[Sort élémentaire]]. Par exemple, le  ''sceptre de métamagie élémentaire (froid)'' transforme toujours les dégâts des sorts en dégâts de froid.
+(((Fabrication)))
+'''Conditions''' [[Création de sceptres magiques]], [[Sort élémentaire]] ; '''Coût''' 1 500 po (mineure), 5 500 po (modérée), 12 250 po (majeure)
+</div>
+
+<div class="BD">
+{s:APG}{s:BDTitre|Sceptre de métamagie, Eloigné|}
+'''Aura''' puissante (pas d’école) ; '''NLS''' 17 ; '''Emplacement''' aucun ; '''Prix''' 3 000 po (mineure), 11 000 po (modérée), 24 500 po (majeure) ; '''Poids''' 2,5 kg
+(((Description)))
+Chaque jour, le personnage peut lancer jusqu’à 3 sorts dont la portée augmente d’une catégorie (de courte à intermédiaire ou d’intermédiaire à longue), comme avec le don [[Sort éloigné]].
+(((Fabrication)))
+'''Conditions''' [[Création de sceptres magiques]], [[Sort éloigné]] ; '''Coût''' 1 500 po (mineure), 5 500 po (modérée), 12 250 po (majeure)
+</div>
+
+<div class="BD">
+{s:BDTitre|Sceptre de métamagie, Extension d’effet|}
+'''Aura''' puissante (pas d’école) ; '''NLS''' 17 ; '''Emplacement''' aucun ; '''Prix''' 9 000 po (mineure), 32 500 po (modérée), 73 000 po (majeure) ; '''Poids''' 2,5 kg
+(((Description)))
+Trois fois par jour, le porteur de ce sceptre peut lancer un sort à effet étendu comme s’il utilisait le don [[Extension deffet|Extension d’effet]].
+(((Fabrication)))
+'''Conditions''' [[Création de sceptres magiques]], [[Extension deffet|Extension d’effet`]] ; '''Coût''' 4 500 po (mineure), 16 250 po (modérée), 36 500 po (majeure)
+</div>
+
+<div class="BD">
+{s:BDTitre|Sceptre de métamagie, Extension de durée|}
+'''Aura''' puissante (pas d’école) ; '''NLS''' 17 ; '''Emplacement''' aucun ; '''Prix''' 3 000 po (mineure), 11 000 po (modérée), 24 500 po (majeure) ; '''Poids''' 2,5 kg
+(((Description)))
+Trois fois par jour, le porteur de ce sceptre peut lancer un sort à durée étendue comme s’il utilisait le don [[Extension de durée]].
+(((Fabrication)))
+'''Conditions''' [[Création de sceptres magiques]], [[Extension de durée]] ; '''Coût''' 1 500 po (mineure), 5 500 po (modérée), 12 250 po (majeure)
+</div>
+
+<div class="BD">
+{s:BDTitre|Sceptre de métamagie, Extension de portée|}
+'''Aura''' puissante (pas d’école) ; '''NLS''' 17 ; '''Emplacement''' aucun ; '''Prix''' 3 000 po (mineure), 11 000 po (modérée), 24 500 po (majeure) ; '''Poids''' 2,5 kg
+(((Description)))
+Trois fois par jour, le porteur de ce sceptre peut lancer un sort à portée étendue comme s’il utilisait le don [[Extension de portée]].
+(((Fabrication)))
+'''Conditions''' [[Création de sceptres magiques]], [[Extension de portée]] ; '''Coût''' 1 500 po (mineure), 5 500 po (modérée), 12 250 po (majeure)
+</div>
+
+<div class="BD">
+{s:APG}{s:BDTitre|Sceptre de métamagie, Hébétant|}
+'''Aura''' puissante (pas d’école) ; '''NLS''' 17 ; '''Emplacement''' aucun ; '''Prix''' 14 000 po (mineure), 54 000 po (modérée), 121 500 po (majeure) ; '''Poids''' 2,5 kg
+(((Description)))
+Chaque jour, le personnage peut lancer jusqu'à trois sorts dont les dégâts [[hébété|hébètent]] la cible, comme avec le sort [[Sort hébétant]].
+(((Fabrication)))
+'''Conditions''' [[Création de sceptres magiques]], [[Sort hébétant]] ; '''Coût''' 7 000 po (mineure), 27 000 po (modérée), 60 750 po (majeure)
+</div>
+
+<div class="BD">
+{s:BDTitre|Sceptre de métamagie, Incantation rapide|}
+'''Aura''' puissante (pas d’école) ; '''NLS''' 17 ; '''Emplacement''' aucun ; '''Prix''' 35 000 po (mineure), 75 500 po (modérée), 170 000 po (majeure) ; '''Poids''' 2,5 kg
+(((Description)))
+Trois fois par jour, le porteur de ce sceptre peut lancer un sort à incantation rapide comme s’il utilisait le don [[Incantation rapide]].
+(((Fabrication)))
+'''Conditions''' [[Création de sceptres magiques]], [[Incantation rapide]] ; '''Coût''' 17 500 po (mineure), 37 750 po (modérée), 85 000 po (majeure)
+</div>
+
+<div class="BD">
+{s:BDTitre|Sceptre de métamagie, Incantation silencieuse|}
+'''Aura''' puissante (pas d’école) ; '''NLS''' 17 ; '''Emplacement''' aucun ; '''Prix''' 3 000 po (mineure), 11 000 po (modérée), 24 500 po (majeure) ; '''Poids''' 2,5 kg
+(((Description)))
+Trois fois par jour, le porteur de ce sceptre peut lancer un sort à incantation silencieuse comme s’il utilisait le don [[Incantation silencieuse]].
+(((Fabrication)))
+'''Conditions''' [[Création de sceptres magiques]], [[Incantation silencieuse]] ; '''Coût''' 1 500 po (mineure), 5 500 po (modérée), 12 250 po (majeure)
+</div>
+
+<div class="BD">
+{s:APG}{s:BDTitre|Sceptre de métamagie, Intense|}
+'''Aura''' puissante (pas d’école) ; '''NLS''' 17 ; '''Emplacement''' aucun ; '''Prix''' 3 000 po (mineure), 11 000 po (modérée), 24 500 po (majeure) ; '''Poids''' 2,5 kg
+(((Description)))
+Chaque jour, le personnage peut lancer jusqu’à 3 sorts qui seront aussi intensifiés que si le personnage utilisait le don [[Sort intense]].
+(((Fabrication)))
+'''Conditions''' [[Création de sceptres magiques]], [[Sort intense]] ; '''Coût''' 1 500 po (mineure), 5 500 po (modérée), 12 250 po (majeure)
+</div>
+
+<div class="BD">
+{s:APG}{s:BDTitre|Sceptre de métamagie, Miséricordieux|}
+'''Aura''' puissante (pas d’école) ; '''NLS''' 17 ; '''Emplacement''' aucun ; '''Prix''' 1 500 po (mineure), 5 500 po (modérée), 12 250 po (majeure) ; '''Poids''' 2,5 kg
+(((Description)))
+Chaque jour, le personnage peut lancer jusqu’à 3 sorts qui infligent des [[dégâts non létaux]], comme avec le don [[sort miséricordieux]].
+(((Fabrication)))
+'''Conditions''' [[Création de sceptres magiques]], [[Sort miséricordieux]] ; '''Coût''' 750 po (mineure), 2 750 po (modérée), 6 125 po (majeure)
+</div>
+
+<div class="BD">
+{s:APG}{s:BDTitre|Sceptre de métamagie, Persistant|}
+'''Aura''' puissante (pas d’école) ; '''NLS''' 17 ; '''Emplacement''' aucun ; '''Prix''' 9 000 po (mineure), 32 500 po (modérée), 73 000 po (majeure) ; '''Poids''' 2,5 kg
+(((Description)))
+Chaque jour, le personnage peut lancer jusqu'à trois sorts comme avec le don [[Sort persistant]].
+(((Fabrication)))
+'''Conditions''' [[Création de sceptres magiques]], [[Sort persistant]] ; '''Coût''' 4 500 po (mineure), 16 250 po (modérée), 36 500 po (majeure)
+</div>
+
+<div class="BD">
+{s:APG}{s:BDTitre|Sceptre de métamagie, Perturbateur|}
+'''Aura''' puissante (pas d’école) ; '''NLS''' 17 ; '''Emplacement''' aucun ; '''Prix''' 3 000 po (mineure), 11 000 po (modérée), 24 500 po (majeure) ; '''Poids''' 2,5 kg
+(((Description)))
+Chaque jour, le personnage peut lancer jusqu'à trois sorts dont les dégâts perturbent la cible, comme avec le don [[Sort perturbateur]].
+(((Fabrication)))
+'''Conditions''' [[Création de sceptres magiques]], [[Sort perturbateur]] ; '''Coût''' 1 500 po (mineure), 5 500 po (modérée), 12 250 po (majeure)
+</div>
+
+<div class="BD">
+{s:BDTitre|Sceptre de métamagie, Quintessence|}
+'''Aura''' puissante (pas d’école) ; '''NLS''' 17 ; '''Emplacement''' aucun ; '''Prix''' 14 000 po (mineure), 54 000 po (modérée), 121 500 po (majeure) ; '''Poids''' 2,5 kg
+(((Description)))
+Trois fois par jour, le porteur de ce sceptre peut lancer la quintessence d’un sort comme s’il utilisait le don [[Quintessence des sorts]].
+(((Fabrication)))
+'''Conditions''' [[Création de sceptres magiques]], [[Quintessence des sorts]] ; '''Coût''' 7 000 po (mineure), 27 000 po (modérée), 60 750 po (majeure)
+</div>
+
+<div class="BD">
+{s:APG}{s:BDTitre|Sceptre de métamagie, Rebonds|}
+'''Aura''' puissante (pas d’école) ; '''NLS''' 17 ; '''Emplacement''' aucun ; '''Prix''' 9 000 po (mineure), 32 500 po (modérée), 73 000 po (majeure) ; '''Poids''' 2,5 kg
+(((Description)))
+Chaque jour, le personnage peut faire rebondir jusqu'à trois sorts, comme avec le don [[Sort à rebonds]].
+(((Fabrication)))
+'''Conditions''' [[Création de sceptres magiques]], [[Sort à rebonds]] ; '''Coût''' 4 500 po (mineure), 16 250 po (modérée), 36 500 po (majeure)
+</div>
+
+<div class="BD">
+{s:APG}{s:BDTitre|Sceptre de métamagie, Sélectif|}
+'''Aura''' puissante (pas d’école) ; '''NLS''' 17 ; '''Emplacement''' aucun ; '''Prix''' 3 000 po (mineure), 11 000 po (modérée), 24 500 po (majeure) ; '''Poids''' 2,5 kg
+(((Description)))
+Chaque jour, le personnage peut lancer jusqu’à 3 sorts comme avec le don [[Sort sélectif]]. À chaque sort, il peut choisir jusqu’à quatre créa-
+tures situées dans la zone qui ne seront pas affectées.
+(((Fabrication)))
+'''Conditions''' [[Création de sceptres magiques]], [[Sort sélectif]] ; '''Coût''' 1 500 po (mineure), 5 500 po (modérée), 12 250 po (majeure)
+</div>
+
+<div class="BD">
+{s:APG}{s:BDTitre|Sceptre de métamagie, Soutenu|}
+'''Aura''' puissante (pas d’école) ; '''NLS''' 17 ; '''Emplacement''' aucun ; '''Prix''' 3 000 po (mineure), 11 000 po (modérée), 24 500 po (majeure) ; '''Poids''' 2,5 kg
+(((Description)))
+Chaque jour, le personnage peut lancer jusqu’à 3 sorts qui persistent pendant 1 [[round]] comme avec le don [[Sort soutenu]].
+(((Fabrication)))
+'''Conditions''' [[Création de sceptres magiques]], [[Sort soutenu]] ; '''Coût''' 1 500 po (mineure), 5 500 po (modérée), 12 250 po (majeure)
+</div>
+
+<div class="BD">
+{s:APG}{s:BDTitre|Sceptre de métamagie, Tonitruant|}
+'''Aura''' puissante (pas d’école) ; '''NLS''' 17 ; '''Emplacement''' aucun ; '''Prix''' 9 000 po (mineure), 32 500 po (modérée), 73 000 po (majeure) ; '''Poids''' 2,5 kg
+(((Description)))
+Chaque jour, le personnage peut lancer jusqu’à 3 sorts qui [[assourdi|assourdissent]] les créatures affectées, comme avec le don [[Sort tonitruant]].
+(((Fabrication)))
+'''Conditions''' [[Création de sceptres magiques]], [[Sort écoeurant]] ; '''Coût''' 4 500 po (mineure), 16 250 po (modérée), 36 500 po (majeure)
+</div>
+</div>]]></raw>
+  <fullName>Pathfinder-RPG.Sceptre de métamagie</fullName>
+</wikiPage>

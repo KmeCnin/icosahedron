@@ -1,0 +1,177 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Kirin</title>
+  <categories><category>Pathfinder-RPG.Bestiaire 3</category><category>Pathfinder-RPG.Monstre</category><category>Pathfinder-RPG.Règles officielles</category></categories>
+  <lastModified>2014-01-17 23:02:05Z</lastModified>
+  <version>9</version>
+  <inLinks><link>Pathfinder-RPG.Glossaire des monstres</link><link>Pathfinder-RPG.Liste de monstres par FP</link><link>Pathfinder-RPG.Liste de monstres par milieu naturel</link><link>Pathfinder-RPG.Liste de monstres par type</link><link>Pathfinder-RPG.Monstres</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.type Créature magique</link><link>Pathfinder-RPG.odorat</link><link>Pathfinder-RPG.vision dans le noir</link><link>Pathfinder-RPG.vision nocturne</link><link>Pathfinder-RPG.Détection du Mal</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Charge puissante</link><link>Pathfinder-RPG.cône</link><link>Pathfinder-RPG.Marche sur londe</link><link>Pathfinder-RPG.Bourrasque</link><link>Pathfinder-RPG.État gazeux</link><link>Pathfinder-RPG.Annulation denchantement</link><link>Pathfinder-RPG.Création de nourriture et deau</link><link>Pathfinder-RPG.Création majeure</link><link>Pathfinder-RPG.Vent divin</link><link>Pathfinder-RPG.Éclair</link><link>Pathfinder-RPG.Rayon ardent</link><link>Pathfinder-RPG.Restauration partielle</link><link>Pathfinder-RPG.Couleurs dansantes</link><link>Pathfinder-RPG.Déguisement</link><link>Pathfinder-RPG.Sanctuaire</link><link>Pathfinder-RPG.Soins légers</link><link>Pathfinder-RPG.Regain dassurance</link><link>Pathfinder-RPG.Assistance divine</link><link>Pathfinder-RPG.Création deau</link><link>Pathfinder-RPG.Détection de la magie</link><link>Pathfinder-RPG.Manipulation à distance</link><link>Pathfinder-RPG.Réparation</link><link>Pathfinder-RPG.Signature magique</link><link>Pathfinder-RPG.Stabilisation</link><link>Pathfinder-RPG.croc-en-jambe</link><link>Pathfinder-RPG.Arme de prédilection</link><link>Pathfinder-RPG.Attaque en vol</link><link>Pathfinder-RPG.Magie de guerre</link><link>Pathfinder-RPG.Dispense de composantes matérielles</link><link>Pathfinder-RPG.Volonté de fer</link><link>Pathfinder-RPG.Vol stationnaire</link><link>Pathfinder-RPG.Diplomatie</link><link>Pathfinder-RPG.Connaissances</link><link>Pathfinder-RPG.Psychologie</link><link>Pathfinder-RPG.Représentation</link><link>Pathfinder-RPG.Vol</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Kirin&lt;div style=&quot;float:right;&quot;&gt;FP 7&lt;/div&gt;&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Bestiaire 3&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 3 200
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Cr&#233;ature-Magique.html&quot; title=&quot;Cr&#233;ature magique&quot;&gt;Cr&#233;ature magique (Air)&lt;/a&gt; de taille G, LB
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +6 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Odorat-(Capacit&#233;).html&quot; title=&quot;odorat&quot;&gt;odorat&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Capacit&#233;s-Sp&#233;ciales.html#VISIONDANSLENOIR&quot; title=&quot;vision dans le noir&quot;&gt;vision dans le noir&lt;/a&gt; 18 m (12 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Nocturne-(Capacit&#233;).html&quot; title=&quot;vision nocturne&quot;&gt;vision nocturne&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;D&#233;tection-Du-Mal.html&quot; title=&quot;D&#233;tection du Mal&quot;&gt;d&#233;tection du Mal&lt;/a&gt; ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +17
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 20, contact 15, pris au d&#233;pourvu 14 (Dex +6, naturelle +5, taille -1)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 85 (9d10+36)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +12, &lt;b&gt;Vig&lt;/b&gt; +10, &lt;b&gt;Vol&lt;/b&gt; +10
+&lt;/div&gt;
+&lt;b&gt;R&#233;sistance&lt;/b&gt; : &#233;lectricit&#233; 30, feu 10, froid 10 ; &lt;b&gt;RM&lt;/b&gt; 18
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 18 m, vol 36 (bonne)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; bois, +14 (1d8+5) et 2 sabots, +8 (1d6+2)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Espace&lt;/b&gt; 3 m ; &lt;b&gt;Allonge&lt;/b&gt; 1,50 m
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaques sp&#233;ciales&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Charge-Puissante-(Capacit&#233;).html&quot; title=&quot;Charge puissante&quot;&gt;charge puissante&lt;/a&gt; (bois, 2d8+14), souffle (&lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#DEFCONE&quot; title=&quot;c&#244;ne&quot;&gt;c&#244;ne&lt;/a&gt; de 4,50 m, 5d6 feu, R&#233;flexes DD 18 1/2 d&#233;g&#226;ts, utilisable tous les 1d4 rounds)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Pouvoirs magiques&lt;/b&gt; (NLS 9&lt;sup&gt;e&lt;/sup&gt;, concentration +15)
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+Constant — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;D&#233;tection-Du-Mal.html&quot; title=&quot;D&#233;tection du Mal&quot;&gt;D&#233;tection du Mal&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Marche-Sur-Londe.html&quot; title=&quot;Marche sur l&amp;#39;onde&quot;&gt;Marche sur l’onde&lt;/a&gt;&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+&#192; volont&#233; — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Bourrasque.html&quot; title=&quot;Bourrasque&quot;&gt;Bourrasque&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;&#201;tat-Gazeux.html&quot; title=&quot;&#201;tat gazeux&quot;&gt;&#201;tat gazeux&lt;/a&gt;&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+1/jour — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Annulation-Denchantement.html&quot; title=&quot;Annulation d&amp;#39;enchantement&quot;&gt;Annulation d’enchantement&lt;/a&gt;&lt;/i&gt; (DD 17), &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;ation-De-Nourriture-Et-Deau.html&quot; title=&quot;Cr&#233;ation de nourriture et d&amp;#39;eau&quot;&gt;Cr&#233;ation de nourriture et d’eau&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;ation-Majeure.html&quot; title=&quot;Cr&#233;ation majeure&quot;&gt;Cr&#233;ation majeure&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Vent-Divin.html&quot; title=&quot;Vent divin&quot;&gt;Vent divin&lt;/a&gt;&lt;/i&gt; (personnelle uniquement)
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+&lt;b&gt;Sorts connus&lt;/b&gt; (NLS 6 ; concentration +12)
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+3e (4/jour) — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;&#201;clair.html&quot; title=&quot;&#201;clair&quot;&gt;&#201;clair&lt;/a&gt;&lt;/i&gt; (DD 19)
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+2e (7/jour) — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Rayon-Ardent.html&quot; title=&quot;Rayon ardent&quot;&gt;Rayon ardent&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Restauration-Partielle.html&quot; title=&quot;Restauration partielle&quot;&gt;Restauration partielle&lt;/a&gt;&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+1er (8/jour) — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Couleurs-Dansantes.html&quot; title=&quot;Couleurs dansantes&quot;&gt;Couleurs dansantes&lt;/a&gt; (DD 17)&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;D&#233;guisement.html&quot; title=&quot;D&#233;guisement&quot;&gt;D&#233;guisement&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Sanctuaire.html&quot; title=&quot;Sanctuaire&quot;&gt;Sanctuaire&lt;/a&gt; (DD 17)&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Soins-L&#233;gers.html&quot; title=&quot;Soins l&#233;gers&quot;&gt;Soins l&#233;gers&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Regain-Dassurance.html&quot; title=&quot;Regain d&amp;#39;assurance&quot;&gt;Regain d’assurance&lt;/a&gt;&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+0 (&#224; volont&#233;) — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Assistance-Divine.html&quot; title=&quot;Assistance divine&quot;&gt;Assistance divine&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;ation-Deau.html&quot; title=&quot;Cr&#233;ation d&amp;#39;eau&quot;&gt;Cr&#233;ation d’eau&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;D&#233;tection-De-La-Magie.html&quot; title=&quot;D&#233;tection de la magie&quot;&gt;D&#233;tection de la magie&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Manipulation-&#192;-Distance.html&quot; title=&quot;Manipulation &#224; distance&quot;&gt;Manipulation &#224; distance&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;R&#233;paration.html&quot; title=&quot;R&#233;paration&quot;&gt;R&#233;paration&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Signature-Magique.html&quot; title=&quot;Signature magique&quot;&gt;Signature magique&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Stabilisation.html&quot; title=&quot;Stabilisation&quot;&gt;Stabilisation&lt;/a&gt;&lt;/i&gt;.
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 20, &lt;b&gt;Dex&lt;/b&gt; 23, &lt;b&gt;Con&lt;/b&gt; 18, &lt;b&gt;Int&lt;/b&gt; 18, &lt;b&gt;Sag&lt;/b&gt; 21, &lt;b&gt;Cha&lt;/b&gt; 23
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +9, &lt;b&gt;BMO&lt;/b&gt; +15, &lt;b&gt;DMD&lt;/b&gt; 31 (35 contre le &lt;a class=&quot;pagelink&quot; href=&quot;Croc-En-Jambe.html&quot; title=&quot;croc-en-jambe&quot;&gt;croc-en-jambe&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Arme-De-Pr&#233;dilection.html&quot; title=&quot;Arme de pr&#233;dilection&quot;&gt;Arme de pr&#233;dilection&lt;/a&gt; (bois), &lt;a class=&quot;pagelink&quot; href=&quot;Attaque-En-Vol.html&quot; title=&quot;Attaque en vol&quot;&gt;Attaque en vol&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Magie-De-Guerre.html&quot; title=&quot;Magie de guerre&quot;&gt;Magie de guerre&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Dispense-De-Composantes-Mat&#233;rielles.html&quot; title=&quot;Dispense de composantes mat&#233;rielles&quot;&gt;Dispense de composantes&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Volont&#233;-De-Fer.html&quot; title=&quot;Volont&#233; de fer&quot;&gt;Volont&#233; de fer&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Vol-Stationnaire.html&quot; title=&quot;Vol stationnaire&quot;&gt;Vol stationnaire&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +12, &lt;a class=&quot;pagelink&quot; href=&quot;Diplomatie.html&quot; title=&quot;Diplomatie&quot;&gt;Diplomatie&lt;/a&gt; +15, &lt;a class=&quot;pagelink&quot; href=&quot;Connaissances.html&quot; title=&quot;Connaissances&quot;&gt;Connaissances&lt;/a&gt; (histoire) +13, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +17, &lt;a class=&quot;pagelink&quot; href=&quot;Psychologie.html&quot; title=&quot;Psychologie&quot;&gt;Psychologie&lt;/a&gt; +14, &lt;a class=&quot;pagelink&quot; href=&quot;Repr&#233;sentation.html&quot; title=&quot;Repr&#233;sentation&quot;&gt;Repr&#233;sentation&lt;/a&gt; (chant) +15, &lt;a class=&quot;pagelink&quot; href=&quot;Vol.html&quot; title=&quot;Vol&quot;&gt;Vol&lt;/a&gt; +20
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Langues&lt;/b&gt; abyssal, a&#233;rien, c&#233;leste, commun, draconique ; t&#233;l&#233;pathie &#224; 30 m
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; tous
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation sociale&lt;/b&gt; solitaire ou couple
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; standard
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Capacit&#233;s sp&#233;ciales&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Sorts.&lt;/b&gt; Le kirin lance des sorts comme un ensorceleur de niveau 6 et peut lancer des sorts de la liste de pr&#234;tre comme si c’&#233;tait des sorts d’ensorceleur. Il consid&#232;re les sorts de pr&#234;tre comme des sorts profanes, ce qui signifie qu’il n’a pas besoin de focalisateur divin pour les lancer.
+&lt;/div&gt;
+&lt;/div&gt;&lt;/td&gt;
+&lt;td&gt;&lt;div&gt;&lt;i&gt;Cette cr&#233;ature semblable &#224; un cerf est couverte d’&#233;cailles de dragon et se
+d&#233;place avec une gr&#226;ce impressionnante.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Les nobles kirins sillonnent le ciel, leurs pattes touchant rarement terre. Ils ont le corps gracieux et les sabots fendus du cerf, une paire de bois recourb&#233;s vers l’arri&#232;re, ainsi qu’une crini&#232;re &#233;paisse et une queue dont les couleurs vont du dor&#233; aux rouges et aux violets flamboyants des couchers de soleil. Leur peau ressemble &#224; celle d’un dragon, leurs &#233;cailles miroitantes &#233;tant de couleur &#233;b&#232;ne et d’un vert iris&#233;.&lt;br /&gt;&lt;br /&gt;Extr&#234;mement rares, les kirins se m&#234;lent rarement ouvertement des affaires du monde, pr&#233;f&#233;rant apporter leur aide subtile en faisant &#233;chouer les intrigues des esprits malfaisants tels que les guenaudes ou les onis. N&#233;anmoins, les
+jeunes kirins ont le sang chaud et ces cr&#233;atures passionn&#233;es peuvent servir de monture aux chevaliers et aux paladins
+dot&#233;s d’une intelligence vive et d’une force morale pure. Les plus sages et les plus puissants des kirins sont appel&#233;s
+les empereurs kirins. Ils gagnent ce titre apr&#232;s avoir obtenu le respect de leurs pairs et d&#233;velopp&#233; leurs pouvoirs. Ils ressemblent aux kirins ordinaires, &#224; ceci pr&#232;s que leurs sabots font jaillir des &#233;tincelles alors qu’ils galopent dans les airs.&lt;br /&gt;&lt;br /&gt;L’empereur kirin a l’arch&#233;type simple d’une cr&#233;ature &#233;volu&#233;e et des d&#233;s de vie raciaux suppl&#233;mentaires. Lorsque
+vous augmentez les d&#233;s de vie du kirin pour cr&#233;er un empereur kirin, proc&#233;dez &#224; ces modifications suppl&#233;mentaires :&lt;br /&gt;&lt;br /&gt;&lt;b&gt;FP&lt;/b&gt;. Augmentez-le de 1 + le nombre de DV suppl&#233;mentaires.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Souffle&lt;/b&gt; : Les d&#233;g&#226;ts augmentent de 1d6 tous les 2 DV suppl&#233;mentaires.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Lancement de sorts&lt;/b&gt;. Augmentez le niveau d’ensorceleur (pour les sorts connus et les sorts par jour) de 1 par DV suppl&#233;mentaire.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Pouvoirs magiques&lt;/b&gt;. Augmentez le niveau de lanceur de sorts de +1 par DV suppl&#233;mentaire.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;R&#233;sistance &#224; la magie&lt;/b&gt;. Augmentez-la de +1 par DV suppl&#233;mentaire.&lt;/div&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Kirin|FP 7}
+{s:pucem|Créature magique|Ciel|Tempéré}
+{s:BDTexte|''Source : Bestiaire 3''}
+{s:BDTexte|'''PX''' 3 200}
+{s:BDTexte|[[type Créature magique|Créature magique (Air)]] de taille G, LB}
+{s:BDTexte|'''Init''' +6 ; '''Sens''' [[odorat]], [[vision dans le noir]] 18 m (12 {s:c}), [[vision nocturne]], [[détection du Mal]] ; [[Perception]] +17}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 20, contact 15, pris au dépourvu 14 (Dex +6, naturelle +5, taille -1)}
+{s:BDTexte|'''pv''' 85 (9d10+36)}
+{s:BDTexte|'''Réf''' +12, '''Vig''' +10, '''Vol''' +10}
+'''Résistance''' : électricité 30, feu 10, froid 10 ; '''RM''' 18
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 18 m, vol 36 (bonne)}
+{s:BDTexte|'''Corps à corps''' bois, +14 (1d8+5) et 2 sabots, +8 (1d6+2)}
+{s:BDTexte|'''Espace''' 3 m ; '''Allonge''' 1,50 m}
+{s:BDTexte|'''Attaques spéciales''' [[charge puissante]] (bois, 2d8+14), souffle ([[cône]] de 4,50 m, 5d6 feu, Réflexes DD 18 1/2 dégâts, utilisable tous les 1d4 rounds)}
+{s:BDTexte|'''Pouvoirs magiques''' (NLS 9<sup>e</sup>, concentration +15)}
+{s:BDSorts|Constant — ''[[Détection du Mal]], [[Marche sur londe|Marche sur l’onde]]''}
+{s:BDSorts|À volonté — ''[[Bourrasque]]'', ''[[État gazeux]]''}
+{s:BDSorts|1/jour — ''[[Annulation denchantement|Annulation d’enchantement]]'' (DD 17), ''[[Création de nourriture et deau|Création de nourriture et d’eau]]'', ''[[Création majeure]]'', ''[[Vent divin]]'' (personnelle uniquement)}
+{s:BDSorts|'''Sorts connus''' (NLS 6 ; concentration +12)}
+{s:BDSorts|3e (4/jour) — ''[[Éclair]]'' (DD 19)}
+{s:BDSorts|2e (7/jour) — ''[[Rayon ardent]]'', ''[[Restauration partielle]]''}
+{s:BDSorts|1er (8/jour) — ''[[Couleurs dansantes]] (DD 17)'', ''[[Déguisement]]'', ''[[Sanctuaire]] (DD 17)'', ''[[Soins légers]]'', ''[[Regain dassurance|Regain d’assurance]]''}
+{s:BDSorts|0 (à volonté) — ''[[Assistance divine]]'', ''[[Création deau|Création d’eau]]'', ''[[Détection de la magie]]'', ''[[Manipulation à distance]]'', ''[[Réparation]]'', ''[[Signature magique]]'', ''[[Stabilisation]]''.}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 20, '''Dex''' 23, '''Con''' 18, '''Int''' 18, '''Sag''' 21, '''Cha''' 23}
+{s:BDTexte|'''BBA''' +9, '''BMO''' +15, '''DMD''' 31 (35 contre le [[croc-en-jambe]]}
+{s:BDTexte|'''Dons''' [[Arme de prédilection]] (bois), [[Attaque en vol]], [[Magie de guerre]], [[Dispense de composantes matérielles|Dispense de composantes]], [[Volonté de fer]], [[Vol stationnaire]]}
+{s:BDTexte|'''Compétences''' [[Perception]] +12, [[Diplomatie]] +15, [[Connaissances]] (histoire) +13, [[Perception]] +17, [[Psychologie]] +14, [[Représentation]] (chant) +15, [[Vol]] +20}
+{s:BDTexte|'''Langues''' abyssal, aérien, céleste, commun, draconique ; télépathie à 30 m}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' tous}
+{s:BDTexte|'''Organisation sociale''' solitaire ou couple}
+{s:BDTexte|'''Trésor''' standard}
+{s:BDSousTitre|Capacités spéciales}
+{s:BDTexte|'''Sorts.''' Le kirin lance des sorts comme un ensorceleur de niveau 6 et peut lancer des sorts de la liste de prêtre comme si c’était des sorts d’ensorceleur. Il considère les sorts de prêtre comme des sorts profanes, ce qui signifie qu’il n’a pas besoin de focalisateur divin pour les lancer.}
+</div></td>
+<td><div>''Cette créature semblable à un cerf est couverte d’écailles de dragon et se
+déplace avec une grâce impressionnante.''
+
+Les nobles kirins sillonnent le ciel, leurs pattes touchant rarement terre. Ils ont le corps gracieux et les sabots fendus du cerf, une paire de bois recourbés vers l’arrière, ainsi qu’une crinière épaisse et une queue dont les couleurs vont du doré aux rouges et aux violets flamboyants des couchers de soleil. Leur peau ressemble à celle d’un dragon, leurs écailles miroitantes étant de couleur ébène et d’un vert irisé.
+
+Extrêmement rares, les kirins se mêlent rarement ouvertement des affaires du monde, préférant apporter leur aide subtile en faisant échouer les intrigues des esprits malfaisants tels que les guenaudes ou les onis. Néanmoins, les
+jeunes kirins ont le sang chaud et ces créatures passionnées peuvent servir de monture aux chevaliers et aux paladins
+dotés d’une intelligence vive et d’une force morale pure. Les plus sages et les plus puissants des kirins sont appelés
+les empereurs kirins. Ils gagnent ce titre après avoir obtenu le respect de leurs pairs et développé leurs pouvoirs. Ils ressemblent aux kirins ordinaires, à ceci près que leurs sabots font jaillir des étincelles alors qu’ils galopent dans les airs.
+
+L’empereur kirin a l’archétype simple d’une créature évoluée et des dés de vie raciaux supplémentaires. Lorsque
+vous augmentez les dés de vie du kirin pour créer un empereur kirin, procédez à ces modifications supplémentaires :
+
+'''FP'''. Augmentez-le de 1 + le nombre de DV supplémentaires.
+
+'''Souffle''' : Les dégâts augmentent de 1d6 tous les 2 DV supplémentaires.
+
+'''Lancement de sorts'''. Augmentez le niveau d’ensorceleur (pour les sorts connus et les sorts par jour) de 1 par DV supplémentaire.
+
+'''Pouvoirs magiques'''. Augmentez le niveau de lanceur de sorts de +1 par DV supplémentaire.
+
+'''Résistance à la magie'''. Augmentez-la de +1 par DV supplémentaire.</div>
+</td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Kirin</fullName>
+</wikiPage>

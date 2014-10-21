@@ -1,0 +1,115 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Nuée de fourmis soldats</title>
+  <categories><category>Pathfinder-RPG.Bestiaire</category><category>Pathfinder-RPG.Monstre</category><category>Pathfinder-RPG.Règles officielles</category></categories>
+  <lastModified>2013-02-07 19:07:46Z</lastModified>
+  <version>6</version>
+  <inLinks><link>Pathfinder-RPG.Glossaire des monstres</link><link>Pathfinder-RPG.Liste de monstres par FP</link><link>Pathfinder-RPG.Liste de monstres par milieu naturel</link><link>Pathfinder-RPG.Liste de monstres par type</link><link>Pathfinder-RPG.Monstres</link><link>Pathfinder-RPG.Peau de nuée</link><link>Pathfinder-RPG.Vomir une nuée</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.type Vermine</link><link>Pathfinder-RPG.sous-type nuée</link><link>Pathfinder-RPG.odorat</link><link>Pathfinder-RPG.vision dans le noir</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.traits des nuées</link><link>Pathfinder-RPG.Distraction</link><link>Pathfinder-RPG.Escalade</link><link>Pathfinder-RPG.Sans défense</link><link>Pathfinder-RPG.Nauséeux</link><link>Pathfinder-RPG.Action complexe</link><link>Pathfinder-RPG.Réflexes</link><link>Pathfinder-RPG.DD</link><link>Pathfinder-RPG.jet de sauvegarde</link><link>Pathfinder-RPG.Dextérité</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Nu&#233;e de fourmis soldats&lt;div style=&quot;float:right;&quot;&gt;FP 5&lt;/div&gt;&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Bestiaire p.143&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 1.600
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Vermine.html&quot; title=&quot;Vermine&quot;&gt;Vermine&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Nu&#233;e.html&quot; title=&quot;Nu&#233;e (sous-type)&quot;&gt;nu&#233;e&lt;/a&gt;) de taille I, N
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +2 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Odorat-(Capacit&#233;).html&quot; title=&quot;odorat&quot;&gt;odorat&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Capacit&#233;s-Sp&#233;ciales.html#VISIONDANSLENOIR&quot; title=&quot;vision dans le noir&quot;&gt;vision dans le noir&lt;/a&gt; 18 m (12 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +4
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 20, contact 20, pris au d&#233;pourvu 18 (Dex +2, taille +8)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 49 (11d8)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +5, &lt;b&gt;Vig&lt;/b&gt; +7, &lt;b&gt;Vol&lt;/b&gt; +3
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Capacit&#233;s d&#233;fensives&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Nu&#233;e.html#TRAITSNUEES&quot; title=&quot;traits des nu&#233;es&quot;&gt;traits des nu&#233;es&lt;/a&gt; ; &lt;b&gt;Immunit&#233;s&lt;/b&gt; d&#233;g&#226;ts par armes 
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 9 m (6 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), escalade 9 m (6 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; nu&#233;e (3d6)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Espace&lt;/b&gt; 3 m (2 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) ; &lt;b&gt;Allonge&lt;/b&gt; 0 m (0 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaques sp&#233;ciales&lt;/b&gt; d&#233;vorer, &lt;a class=&quot;pagelink&quot; href=&quot;Distraction-(Capacit&#233;).html&quot; title=&quot;Distraction&quot;&gt;distraction&lt;/a&gt; (DD 15), s&#39;accrocher
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 1, &lt;b&gt;Dex&lt;/b&gt; 15, &lt;b&gt;Con&lt;/b&gt; 10, &lt;b&gt;Int&lt;/b&gt; -, &lt;b&gt;Sag&lt;/b&gt; 10, &lt;b&gt;Cha&lt;/b&gt; 2
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +8, &lt;b&gt;BMO&lt;/b&gt; -, &lt;b&gt;DMD&lt;/b&gt; -
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Escalade.html&quot; title=&quot;Escalade&quot;&gt;Escalade&lt;/a&gt; +10, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +4 ; &lt;b&gt;Modificateurs raciaux&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +4
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; climat tropicaux
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation sociale&lt;/b&gt; solitaire, couple, patrouille (3-6 nu&#233;es), ou l&#233;gion (7-16 nu&#233;es)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; aucun
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Particularit&#233;s&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;D&#233;vorer (Ext).&lt;/b&gt; Les nu&#233;es de fourmis soldats peuvent d&#233;vorer les cr&#233;atures qu&#39;elles recouvrent en un rien de temps. Contre les cibles &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables.html#Sansd&#233;fense&quot; title=&quot;Sans d&#233;fense&quot;&gt;sans d&#233;fense&lt;/a&gt; ou &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables.html#Naus&#233;eux&quot; title=&quot;Naus&#233;eux&quot;&gt;naus&#233;euses&lt;/a&gt;, les d&#233;g&#226;ts inflig&#233;s passent &#224; 6d6.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;S&#39;accrocher (Ext).&lt;/b&gt; Lorsqu&#39;une cr&#233;ature sort de la zone occup&#233;e par une nu&#233;e de fourmis soldats, la nu&#233;e subit 1d6 points de d&#233;g&#226;ts car sa population se r&#233;duit : plusieurs bestioles s&#39;accrochent avec t&#233;nacit&#233; &#224; leur victime. Les fourmis qui restent attach&#233;es &#224; la cr&#233;ature lui infligent 3d6 points de d&#233;g&#226;ts &#224; la fin de chacun de ses tours. La victime peut utiliser une &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions.html#COMPLEXE&quot; title=&quot;Action complexe&quot;&gt;action complexe&lt;/a&gt; et tenter un jet de &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;R&#233;flexes&quot;&gt;R&#233;flexes&lt;/a&gt; de &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DEGREDEDIFFICULTE&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; 17 pour se d&#233;faire de ces bestioles. Un vent fort ou des d&#233;g&#226;ts caus&#233;s par un effet de zone (quelle qu&#39;en soit la quantit&#233;) permettent &#233;galement de d&#233;truire les fourmis accroch&#233;es. Le &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DEGREDEDIFFICULTE&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; du &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;jet de sauvegarde&quot;&gt;jet de sauvegarde&lt;/a&gt; d&#233;pend de la &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#DEXTERITE&quot; title=&quot;La Dext&#233;rit&#233;&quot;&gt;Dext&#233;rit&#233;&lt;/a&gt;.
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;td&gt;&lt;div&gt;&lt;i&gt;Un tapis de fourmis se tortille sur le sol, ravageant tout ce qui se trouve sur son passage.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Les nu&#233;es de fourmis soldats n’ont pas vol&#233; leur r&#233;putation : ces arm&#233;es de fourmis guerri&#232;res constamment en mouvement d&#233;vorent tout ce qui se met en travers de leur route et s&#232;ment la destruction.
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Nuée de fourmis soldats|FP 5}
+{s:pucem|Vermine|Souterrain|Tempéré}
+{s:BDTexte|''Source : Bestiaire p.143''}
+{s:BDTexte|'''PX''' 1.600}
+{s:BDTexte|[[type Vermine|Vermine]] ([[sous-type nuée|nuée]]) de taille I, N}
+{s:BDTexte|'''Init''' +2 ; '''Sens''' [[odorat]], [[vision dans le noir]] 18 m (12 {s:c}) ; [[Perception]] +4}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 20, contact 20, pris au dépourvu 18 (Dex +2, taille +8)}
+{s:BDTexte|'''pv''' 49 (11d8)}
+{s:BDTexte|'''Réf''' +5, '''Vig''' +7, '''Vol''' +3}
+{s:BDTexte|'''Capacités défensives''' [[traits des nuées]] ; '''Immunités''' dégâts par armes }
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 9 m (6 {s:c}), escalade 9 m (6 {s:c})}
+{s:BDTexte|'''Corps à corps''' nuée (3d6)}
+{s:BDTexte|'''Espace''' 3 m (2 {s:c}) ; '''Allonge''' 0 m (0 {s:c})}
+{s:BDTexte|'''Attaques spéciales''' dévorer, [[distraction]] (DD 15), s'accrocher}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 1, '''Dex''' 15, '''Con''' 10, '''Int''' -, '''Sag''' 10, '''Cha''' 2}
+{s:BDTexte|'''BBA''' +8, '''BMO''' -, '''DMD''' -}
+{s:BDTexte|'''Compétences''' [[Escalade]] +10, [[Perception]] +4 ; '''Modificateurs raciaux''' [[Perception]] +4}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' climat tropicaux}
+{s:BDTexte|'''Organisation sociale''' solitaire, couple, patrouille (3-6 nuées), ou légion (7-16 nuées)}
+{s:BDTexte|'''Trésor''' aucun}
+{s:BDSousTitre|Particularités}
+{s:BDTexte|'''Dévorer (Ext).''' Les nuées de fourmis soldats peuvent dévorer les créatures qu'elles recouvrent en un rien de temps. Contre les cibles [[sans défense]] ou [[nauséeux|nauséeuses]], les dégâts infligés passent à 6d6.}
+{s:BDTexte|'''S'accrocher (Ext).''' Lorsqu'une créature sort de la zone occupée par une nuée de fourmis soldats, la nuée subit 1d6 points de dégâts car sa population se réduit : plusieurs bestioles s'accrochent avec ténacité à leur victime. Les fourmis qui restent attachées à la créature lui infligent 3d6 points de dégâts à la fin de chacun de ses tours. La victime peut utiliser une [[action complexe]] et tenter un jet de [[Réflexes]] de [[DD]] 17 pour se défaire de ces bestioles. Un vent fort ou des dégâts causés par un effet de zone (quelle qu'en soit la quantité) permettent également de détruire les fourmis accrochées. Le [[DD]] du [[jet de sauvegarde]] dépend de la [[Dextérité]].}
+</div>
+</td><td><div>''Un tapis de fourmis se tortille sur le sol, ravageant tout ce qui se trouve sur son passage.''
+
+Les nuées de fourmis soldats n’ont pas volé leur réputation : ces armées de fourmis guerrières constamment en mouvement dévorent tout ce qui se met en travers de leur route et sèment la destruction.
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Nuée de fourmis soldats</fullName>
+</wikiPage>

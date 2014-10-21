@@ -1,0 +1,133 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Cauchemar</title>
+  <categories><category>Pathfinder-RPG.Bestiaire</category></categories>
+  <lastModified>2013-02-02 17:51:59Z</lastModified>
+  <version>8</version>
+  <inLinks><link>Pathfinder-RPG.Bâton de sommeil</link><link>Pathfinder-RPG.Croquemitaine</link><link>Pathfinder-RPG.Domaine de lObscurité</link><link>Pathfinder-RPG.Glossaire des monstres</link><link>Pathfinder-RPG.Grimoires</link><link>Pathfinder-RPG.Homme-phalène</link><link>Pathfinder-RPG.lignage onirique</link><link>Pathfinder-RPG.Liste de monstres par FP</link><link>Pathfinder-RPG.Liste de monstres par milieu naturel</link><link>Pathfinder-RPG.Liste de monstres par type</link><link>Pathfinder-RPG.Liste des sorts par registre</link><link>Pathfinder-RPG.Monstres</link><link>Pathfinder-RPG.Nue</link><link>Pathfinder-RPG.Psychonaute (alchimiste)</link><link>Pathfinder-RPG.Rêve animé</link><link>Pathfinder-RPG.Sorcière de feu</link><link>Pathfinder-RPG.sort Cauchemar</link><link>Pathfinder-RPG.Wendigo</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.sort Cauchemar</link><link>Pathfinder-RPG.type Extérieur</link><link>Pathfinder-RPG.sous-type extraplanaire</link><link>Pathfinder-RPG.sous-type Mal</link><link>Pathfinder-RPG.vision dans le noir</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Changement de plan</link><link>Pathfinder-RPG.Forme éthérée</link><link>Pathfinder-RPG.croc-en-jambe</link><link>Pathfinder-RPG.Attaque en puissance</link><link>Pathfinder-RPG.Course</link><link>Pathfinder-RPG.Enchaînement</link><link>Pathfinder-RPG.Science de linitiative</link><link>Pathfinder-RPG.Science du renversement</link><link>Pathfinder-RPG.Vigilance</link><link>Pathfinder-RPG.Volonté de fer</link><link>Pathfinder-RPG.Acrobaties</link><link>Pathfinder-RPG.Bluff</link><link>Pathfinder-RPG.Connaissances</link><link>Pathfinder-RPG.Discrétion</link><link>Pathfinder-RPG.Intimidation</link><link>Pathfinder-RPG.Psychologie</link><link>Pathfinder-RPG.Vol</link><link>Pathfinder-RPG.Destrier noir</link></outLinks>
+  <body><![CDATA[
+&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Cauchemar&lt;div style=&quot;float:right;&quot;&gt;FP 11&lt;/div&gt;&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Bestiaire p.74&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 12.800
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Ext&#233;rieur.html&quot; title=&quot;Ext&#233;rieur&quot;&gt;Ext&#233;rieur&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Extraplanaire.html&quot; title=&quot;Extraplanaire (sous-type)&quot;&gt;extraplanaire&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Mal.html&quot; title=&quot;Mal (sous-type)&quot;&gt;Mal&lt;/a&gt;) de taille TG, NM
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +6 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Capacit&#233;s-Sp&#233;ciales.html#VISIONDANSLENOIR&quot; title=&quot;vision dans le noir&quot;&gt;vision dans le noir&lt;/a&gt; 18 m (12 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +22
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 26, contact 10, pris au d&#233;pourvu 24 (Dex +2, naturelle +16, taille -2)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 147 (14d10+70)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +11, &lt;b&gt;Vig&lt;/b&gt; +14, &lt;b&gt;Vol&lt;/b&gt; +7
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 12 m (8 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), vol 27 m (18 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) (bonne)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; morsure +22 (2d6+10), 2 sabots +17 (2d6+5 et 1d6 feu)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Espace&lt;/b&gt; 4,50 m (3 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) ; &lt;b&gt;Allonge&lt;/b&gt; 3 m (2 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaques sp&#233;ciales&lt;/b&gt; fum&#233;e (DD 22)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Pouvoirs magiques&lt;/b&gt; (NLS 15&lt;sup&gt;e&lt;/sup&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+1/heure (lui et 1 cavalier seulement) — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Changement-De-Plan.html&quot; title=&quot;Changement de plan&quot;&gt;changement de plan&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Forme-&#201;th&#233;r&#233;e.html&quot; title=&quot;Forme &#233;th&#233;r&#233;e&quot;&gt;forme &#233;th&#233;r&#233;e&lt;/a&gt;&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 31, &lt;b&gt;Dex&lt;/b&gt; 15, &lt;b&gt;Con&lt;/b&gt; 21, &lt;b&gt;Int&lt;/b&gt; 16, &lt;b&gt;Sag&lt;/b&gt; 12, &lt;b&gt;Cha&lt;/b&gt; 12
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +14, &lt;b&gt;BMO&lt;/b&gt; +26, &lt;b&gt;DMD&lt;/b&gt; 38 (+42 contre le &lt;a class=&quot;pagelink&quot; href=&quot;Croc-En-Jambe.html&quot; title=&quot;croc-en-jambe&quot;&gt;croc-en-jambe&lt;/a&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Attaque-En-Puissance.html&quot; title=&quot;Attaque en puissance&quot;&gt;Attaque en puissance&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Course.html&quot; title=&quot;Course&quot;&gt;Course&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Encha&#238;nement.html&quot; title=&quot;Encha&#238;nement&quot;&gt;Encha&#238;nement&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Science-De-Linitiative.html&quot; title=&quot;Science de l&amp;#39;initiative&quot;&gt;Science de l&#39;initiative&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Science-Du-Renversement.html&quot; title=&quot;Science du renversement&quot;&gt;Science du renversement&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Vigilance.html&quot; title=&quot;Vigilance&quot;&gt;Vigilance&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Volont&#233;-De-Fer.html&quot; title=&quot;Volont&#233; de fer&quot;&gt;Volont&#233; de fer&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Acrobaties.html&quot; title=&quot;Acrobaties&quot;&gt;Acrobaties&lt;/a&gt; +19, &lt;a class=&quot;pagelink&quot; href=&quot;Bluff.html&quot; title=&quot;Bluff&quot;&gt;Bluff&lt;/a&gt; +18, &lt;a class=&quot;pagelink&quot; href=&quot;Connaissances.html&quot; title=&quot;Connaissances&quot;&gt;Connaissances&lt;/a&gt; (myst&#232;res, plans) +20, &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; +11, &lt;a class=&quot;pagelink&quot; href=&quot;Intimidation.html&quot; title=&quot;Intimidation&quot;&gt;Intimidation&lt;/a&gt; +18, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +22, &lt;a class=&quot;pagelink&quot; href=&quot;Psychologie.html&quot; title=&quot;Psychologie&quot;&gt;Psychologie&lt;/a&gt; +22, &lt;a class=&quot;pagelink&quot; href=&quot;Vol.html&quot; title=&quot;Vol&quot;&gt;Vol&lt;/a&gt; +19
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Langues&lt;/b&gt; abyssal, infernal
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; quelconque (Abaddon)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation sociale&lt;/b&gt; solitaire
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; aucun
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Capacit&#233;s sp&#233;ciales&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Fum&#233;e (Sur)&lt;/b&gt; voir &lt;a class=&quot;pagelink&quot; href=&quot;Destrier-Noir.html&quot; title=&quot;Destrier noir&quot;&gt;Destrier noir&lt;/a&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;td&gt;&lt;div&gt;&lt;i&gt;Ce gigantesque cheval br&#251;lant se dresse sur des sabots fumant. Des flammes infernales dansent dans ses yeux emplis de haine.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Le cauchemar est une variante plus dangereuse
+des &lt;a class=&quot;pagelink&quot; href=&quot;Destrier-Noir.html&quot; title=&quot;Destrier noir&quot;&gt;destriers noirs&lt;/a&gt;, qui est particuli&#232;rement
+appr&#233;ci&#233;e pour sa capacit&#233; &#224; p&#233;n&#233;trer dans le plan &#201;th&#233;r&#233; en
+emmenant son cavalier ainsi que pour son pouvoir de changement
+de plan permettant d’envahir d’autres r&#233;alit&#233;s.
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[{s:Desambi|Cauchemar est également le nom d'un [[sort cauchemar|sort]].}
+<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Cauchemar|FP 11}
+{s:pucem|Extérieur|Ciel|Extraplanaire}
+{s:BDTexte|''Source : Bestiaire p.74''}
+{s:BDTexte|'''PX''' 12.800}
+{s:BDTexte|[[type Extérieur|Extérieur]] ([[sous-type extraplanaire|extraplanaire]], [[sous-type Mal|Mal]]) de taille TG, NM}
+{s:BDTexte|'''Init''' +6 ; '''Sens''' [[vision dans le noir]] 18 m (12 {s:c}) ; [[Perception]] +22}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 26, contact 10, pris au dépourvu 24 (Dex +2, naturelle +16, taille -2)}
+{s:BDTexte|'''pv''' 147 (14d10+70)}
+{s:BDTexte|'''Réf''' +11, '''Vig''' +14, '''Vol''' +7}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 12 m (8 {s:c}), vol 27 m (18 {s:c}) (bonne)}
+{s:BDTexte|'''Corps à corps''' morsure +22 (2d6+10), 2 sabots +17 (2d6+5 et 1d6 feu)}
+{s:BDTexte|'''Espace''' 4,50 m (3 {s:c}) ; '''Allonge''' 3 m (2 {s:c})}
+{s:BDTexte|'''Attaques spéciales''' fumée (DD 22)}
+{s:BDTexte|'''Pouvoirs magiques''' (NLS 15<sup>e</sup>)}
+{s:BDSorts|1/heure (lui et 1 cavalier seulement) — ''[[changement de plan]]'', ''[[forme éthérée]]''}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 31, '''Dex''' 15, '''Con''' 21, '''Int''' 16, '''Sag''' 12, '''Cha''' 12}
+{s:BDTexte|'''BBA''' +14, '''BMO''' +26, '''DMD''' 38 (+42 contre le [[croc-en-jambe]])}
+{s:BDTexte|'''Dons''' [[Attaque en puissance]], [[Course]], [[Enchaînement]], [[Science de linitiative|Science de l'initiative]], [[Science du renversement]], [[Vigilance]], [[Volonté de fer]]}
+{s:BDTexte|'''Compétences''' [[Acrobaties]] +19, [[Bluff]] +18, [[Connaissances]] (mystères, plans) +20, [[Discrétion]] +11, [[Intimidation]] +18, [[Perception]] +22, [[Psychologie]] +22, [[Vol]] +19}
+{s:BDTexte|'''Langues''' abyssal, infernal}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' quelconque (Abaddon)}
+{s:BDTexte|'''Organisation sociale''' solitaire}
+{s:BDTexte|'''Trésor''' aucun}
+{s:BDSousTitre|Capacités spéciales}
+{s:BDTexte|'''Fumée (Sur)''' voir [[Destrier noir]]}
+</div>
+</td><td><div>''Ce gigantesque cheval brûlant se dresse sur des sabots fumant. Des flammes infernales dansent dans ses yeux emplis de haine.''
+
+Le cauchemar est une variante plus dangereuse
+des [[Destrier noir|destriers noirs]], qui est particulièrement
+appréciée pour sa capacité à pénétrer dans le plan Éthéré en
+emmenant son cavalier ainsi que pour son pouvoir de changement
+de plan permettant d’envahir d’autres réalités.
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Cauchemar</fullName>
+</wikiPage>

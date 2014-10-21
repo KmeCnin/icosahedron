@@ -1,0 +1,151 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Poney</title>
+  <categories><category>Pathfinder-RPG.Bestiaire</category><category>Pathfinder-RPG.Monstre</category><category>Pathfinder-RPG.Règles officielles</category></categories>
+  <lastModified>2013-02-02 18:18:47Z</lastModified>
+  <version>5</version>
+  <inLinks><link>Pathfinder-RPG.Actions spéciales</link><link>Pathfinder-RPG.Cavalier des bêtes (chevalier)</link><link>Pathfinder-RPG.Chevalier</link><link>Pathfinder-RPG.Convocation dalliés naturels</link><link>Pathfinder-RPG.Convocation de monstres</link><link>Pathfinder-RPG.FAQ Bestiaire</link><link>Pathfinder-RPG.Furie montée (barbare)</link><link>Pathfinder-RPG.Glossaire des monstres</link><link>Pathfinder-RPG.Liste de monstres par FP</link><link>Pathfinder-RPG.Liste de monstres par milieu naturel</link><link>Pathfinder-RPG.Liste de monstres par type</link><link>Pathfinder-RPG.Monstres</link><link>Pathfinder-RPG.Monture</link><link>Pathfinder-RPG.Monture (partagé)</link><link>Pathfinder-RPG.Samouraï</link><link>Pathfinder-RPG.Seigneur des chevaux (rôdeur)</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.type Animal</link><link>Pathfinder-RPG.odorat</link><link>Pathfinder-RPG.vision nocturne</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Course</link><link>Pathfinder-RPG.Endurance</link><link>Pathfinder-RPG.Cheval</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Poney&lt;div style=&quot;float:right;&quot;&gt;FP 1/2&lt;/div&gt;&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Bestiaire p.41&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 200
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Animal.html&quot; title=&quot;Animal&quot;&gt;Animal&lt;/a&gt; de taille M, N
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +1 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Odorat-(Capacit&#233;).html&quot; title=&quot;odorat&quot;&gt;odorat&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Nocturne-(Capacit&#233;).html&quot; title=&quot;vision nocturne&quot;&gt;vision nocturne&lt;/a&gt; ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +5
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 11, contact 11, pris au d&#233;pourvu 10 (Dex +1)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 13 (2d8+4)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +4, &lt;b&gt;Vig&lt;/b&gt; +5, &lt;b&gt;Vol&lt;/b&gt; +0
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 12 m (8 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; 2 sabots -3 (1d3)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 13, &lt;b&gt;Dex&lt;/b&gt; 13, &lt;b&gt;Con&lt;/b&gt; 14, &lt;b&gt;Int&lt;/b&gt; 2, &lt;b&gt;Sag&lt;/b&gt; 11, &lt;b&gt;Cha&lt;/b&gt; 4
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +1, &lt;b&gt;BMO&lt;/b&gt; +2, &lt;b&gt;DMD&lt;/b&gt; 13 (17 contre le croc-en-jambe)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Course.html&quot; title=&quot;Course&quot;&gt;Course&lt;/a&gt;&lt;sup&gt;B&lt;/sup&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Endurance.html&quot; title=&quot;Endurance&quot;&gt;Endurance&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +5
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Particularit&#233;s&lt;/b&gt; docile (voir le &lt;a class=&quot;pagelink&quot; href=&quot;Cheval.html&quot; title=&quot;Cheval&quot;&gt;cheval&lt;/a&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; plaines temp&#233;r&#233;s
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation sociale&lt;/b&gt; solitaire, couple, ou troupeau (3-30)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; aucun
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;td&gt;&lt;div&gt;&lt;i&gt;Ce petit cheval trapu vous observe de ses grands yeux curieux, puis il tend son museau comme s’il s’attendait &#224; recevoir une g&#226;terie.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Les poneys sont des petits chevaux qui
+conviennent mieux aux halfelins,
+aux gnomes et aux nains mais qui
+font &#233;galement de bons animaux
+domestiques pour les humains. Ils
+mesurent entre 90 cm et
+1,20 m&#232;tre de hauteur
+et p&#232;sent quelque
+300 kg.&lt;br /&gt;&lt;br /&gt;Les charges
+jusqu’&#224; 50 kg sont
+consid&#233;r&#233;es comme des
+charges l&#233;g&#232;res pour les poneys.
+Jusqu’&#224; 100 kg, il s’agit d’une
+charge interm&#233;diaire. Les charges
+lourdes, elles, vont jusqu’&#224; 150 kg.
+Un poney peut tirer jusqu’&#224; 750 kg.
+Le profil pr&#233;sent&#233; ci-dessus
+convient &#224; un poney moyen.&lt;br /&gt;&lt;br /&gt;Il existe des poneys plus robustes dot&#233;s de
+l’arch&#233;type simple &#171; &#233;volu&#233; &#187;, mais ils sont assez
+rares et, contrairement aux chevaux, on ne les appelle
+g&#233;n&#233;ralement pas &#171; poneys lourds &#187;. &#192; l’instar des chevaux, les
+poneys peuvent &#234;tre entra&#238;n&#233;s pour le combat gr&#226;ce &#224; la comp&#233;tence
+de Dressage, afin de servir de destriers aux halfelins, aux gnomes et
+aux races de petite taille.
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Poney|FP 1/2}
+{s:pucem|Animal|Plaines|Tempéré}
+{s:BDTexte|''Source : Bestiaire p.41''}
+{s:BDTexte|'''PX''' 200}
+{s:BDTexte|[[type Animal|Animal]] de taille M, N}
+{s:BDTexte|'''Init''' +1 ; '''Sens''' [[odorat]], [[vision nocturne]] ; [[Perception]] +5}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 11, contact 11, pris au dépourvu 10 (Dex +1)}
+{s:BDTexte|'''pv''' 13 (2d8+4)}
+{s:BDTexte|'''Réf''' +4, '''Vig''' +5, '''Vol''' +0}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 12 m (8 {s:c})}
+{s:BDTexte|'''Corps à corps''' 2 sabots -3 (1d3)}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 13, '''Dex''' 13, '''Con''' 14, '''Int''' 2, '''Sag''' 11, '''Cha''' 4}
+{s:BDTexte|'''BBA''' +1, '''BMO''' +2, '''DMD''' 13 (17 contre le croc-en-jambe)}
+{s:BDTexte|'''Dons''' [[Course]]<sup>B</sup>, [[Endurance]]}
+{s:BDTexte|'''Compétences''' [[Perception]] +5}
+{s:BDTexte|'''Particularités''' docile (voir le [[cheval]])}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' plaines tempérés}
+{s:BDTexte|'''Organisation sociale''' solitaire, couple, ou troupeau (3-30)}
+{s:BDTexte|'''Trésor''' aucun}
+</div>
+</td><td><div>''Ce petit cheval trapu vous observe de ses grands yeux curieux, puis il tend son museau comme s’il s’attendait à recevoir une gâterie.''
+
+Les poneys sont des petits chevaux qui
+conviennent mieux aux halfelins,
+aux gnomes et aux nains mais qui
+font également de bons animaux
+domestiques pour les humains. Ils
+mesurent entre 90 cm et
+1,20 mètre de hauteur
+et pèsent quelque
+300 kg.
+
+Les charges
+jusqu’à 50 kg sont
+considérées comme des
+charges légères pour les poneys.
+Jusqu’à 100 kg, il s’agit d’une
+charge intermédiaire. Les charges
+lourdes, elles, vont jusqu’à 150 kg.
+Un poney peut tirer jusqu’à 750 kg.
+Le profil présenté ci-dessus
+convient à un poney moyen.
+
+Il existe des poneys plus robustes dotés de
+l’archétype simple « évolué », mais ils sont assez
+rares et, contrairement aux chevaux, on ne les appelle
+généralement pas « poneys lourds ». À l’instar des chevaux, les
+poneys peuvent être entraînés pour le combat grâce à la compétence
+de Dressage, afin de servir de destriers aux halfelins, aux gnomes et
+aux races de petite taille.
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Poney</fullName>
+</wikiPage>

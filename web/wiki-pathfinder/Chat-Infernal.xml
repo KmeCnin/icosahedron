@@ -1,0 +1,163 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Chat infernal</title>
+  <categories><category>Pathfinder-RPG.Bestiaire 2</category><category>Pathfinder-RPG.Monstre</category><category>Pathfinder-RPG.Règles officielles</category></categories>
+  <lastModified>2013-02-02 18:04:11Z</lastModified>
+  <version>1</version>
+  <inLinks><link>Pathfinder-RPG.Glossaire des monstres</link><link>Pathfinder-RPG.Liste de monstres par FP</link><link>Pathfinder-RPG.Liste de monstres par milieu naturel</link><link>Pathfinder-RPG.Liste de monstres par type</link><link>Pathfinder-RPG.Monstres</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.type Extérieur</link><link>Pathfinder-RPG.sous-type extraplanaire</link><link>Pathfinder-RPG.sous-type Loi</link><link>Pathfinder-RPG.sous-type Mal</link><link>Pathfinder-RPG.odorat</link><link>Pathfinder-RPG.vision dans le noir</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Étreinte</link><link>Pathfinder-RPG.Bond</link><link>Pathfinder-RPG.Pattes arrière</link><link>Pathfinder-RPG.croc-en-jambe</link><link>Pathfinder-RPG.Attaques réflexes</link><link>Pathfinder-RPG.Esquive</link><link>Pathfinder-RPG.Réflexes surhumains</link><link>Pathfinder-RPG.Science de linitiative</link><link>Pathfinder-RPG.Souplesse du serpent</link><link>Pathfinder-RPG.Acrobaties</link><link>Pathfinder-RPG.Discrétion</link><link>Pathfinder-RPG.Escalade</link><link>Pathfinder-RPG.Natation</link><link>Pathfinder-RPG.Survie</link><link>Pathfinder-RPG.Télépathie</link><link>Pathfinder-RPG.États préjudiciables</link><link>Pathfinder-RPG.Modificateurs de combat</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Chat infernal&lt;div style=&quot;float:right;&quot;&gt;FP 7&lt;/div&gt;&lt;/div&gt;&lt;br /&gt;&lt;ul&gt;&lt;li&gt;&lt;i&gt;Source : Bestiaire 2, p.61&lt;/i&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;PX&lt;/b&gt; 3 200&lt;/li&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Type-Ext&#233;rieur.html&quot; title=&quot;Ext&#233;rieur&quot;&gt;Ext&#233;rieur&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Extraplanaire.html&quot; title=&quot;Extraplanaire (sous-type)&quot;&gt;extraplanaire&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Loi.html&quot; title=&quot;Loi (sous-type)&quot;&gt;Loi&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Mal.html&quot; title=&quot;Mal (sous-type)&quot;&gt;Mal&lt;/a&gt;)  de taille G, LM&lt;/li&gt;&lt;li&gt;&lt;b&gt;Init&lt;/b&gt; +9 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Odorat-(Capacit&#233;).html&quot; title=&quot;odorat&quot;&gt;odorat&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Capacit&#233;s-Sp&#233;ciales.html#VISIONDANSLENOIR&quot; title=&quot;vision dans le noir&quot;&gt;vision dans le noir&lt;/a&gt; 18 m (12 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +18&lt;br /&gt;&lt;div class=&quot;box&quot;&gt;D&#233;fense&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;CA&lt;/b&gt; 21, contact 15, pris au d&#233;pourvu 15 (Dex +5, esquive +1, naturelle +6, taille –1)&lt;/li&gt;&lt;li&gt;&lt;b&gt;pv&lt;/b&gt; 85 (9d10+36)&lt;/li&gt;&lt;li&gt;&lt;b&gt;R&#233;f&lt;/b&gt; +13, &lt;b&gt;Vig&lt;/b&gt; +10, &lt;b&gt;Vol&lt;/b&gt; +5&lt;/li&gt;&lt;li&gt;&lt;b&gt;Capacit&#233;s d&#233;fensives&lt;/b&gt; invisible sous la lumi&#232;re ; &lt;b&gt;RD&lt;/b&gt; 5/Bien ; &lt;b&gt;R&#233;sistances&lt;/b&gt; feu 10 ; &lt;b&gt;RM&lt;/b&gt; 18&lt;br /&gt;&lt;div class=&quot;box&quot;&gt;Attaque&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;VD&lt;/b&gt; 12 m (8 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)&lt;/li&gt;&lt;li&gt;&lt;b&gt;Corps &#224; corps&lt;/b&gt; morsure, +13 (1d8+5) et 2 griffes, +13 (1d6+5/19–20 plus &lt;a class=&quot;pagelink&quot; href=&quot;&#201;treinte-(Capacit&#233;).html&quot; title=&quot;&#201;treinte&quot;&gt;&#233;treinte&lt;/a&gt;)&lt;/li&gt;&lt;li&gt;&lt;b&gt;Espace&lt;/b&gt; 3 m (2 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) ; Allonge 1,50 m (1 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)&lt;/li&gt;&lt;li&gt;&lt;b&gt;Attaques sp&#233;ciales&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Bond-(Capacit&#233;).html&quot; title=&quot;Bond&quot;&gt;bond&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Pattes-Arri&#232;re-(Capacit&#233;).html&quot; title=&quot;Pattes arri&#232;re&quot;&gt;pattes arri&#232;re&lt;/a&gt; (2 griffes +13, 1d6+5/19–20)&lt;br /&gt;&lt;div class=&quot;box&quot;&gt;Statistiques&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;For&lt;/b&gt; 21, &lt;b&gt;Dex&lt;/b&gt; 21, &lt;b&gt;Con&lt;/b&gt; 19, &lt;b&gt;Int&lt;/b&gt; 10, &lt;b&gt;Sag&lt;/b&gt; 14, &lt;b&gt;Cha&lt;/b&gt; 10&lt;/li&gt;&lt;li&gt;&lt;b&gt;BBA&lt;/b&gt; +9 ; &lt;b&gt;BMO&lt;/b&gt; +15 (+19 lutte) ; &lt;b&gt;DMD&lt;/b&gt; 31 (35 contre &lt;a class=&quot;pagelink&quot; href=&quot;Croc-En-Jambe.html&quot; title=&quot;croc-en-jambe&quot;&gt;croc-en-jambe&lt;/a&gt;)&lt;/li&gt;&lt;li&gt;&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Attaques-R&#233;flexes.html&quot; title=&quot;Attaques r&#233;flexes&quot;&gt;Attaques r&#233;flexes&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Esquive.html&quot; title=&quot;Esquive&quot;&gt;Esquive&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;R&#233;flexes-Surhumains.html&quot; title=&quot;R&#233;flexes surhumains&quot;&gt;R&#233;flexes surhumains&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Science-De-Linitiative.html&quot; title=&quot;Science de l&amp;#39;initiative&quot;&gt;Science de&lt;br /&gt;l’initiative&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Souplesse-Du-Serpent.html&quot; title=&quot;Souplesse du serpent&quot;&gt;Souplesse du serpent&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Acrobaties.html&quot; title=&quot;Acrobaties&quot;&gt;Acrobaties&lt;/a&gt; +17 (+21 pour sauter), &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; +17, &lt;a class=&quot;pagelink&quot; href=&quot;Escalade.html&quot; title=&quot;Escalade&quot;&gt;Escalade&lt;/a&gt; +17, &lt;a class=&quot;pagelink&quot; href=&quot;Natation.html&quot; title=&quot;Natation&quot;&gt;Natation&lt;/a&gt; +17, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +18, &lt;a class=&quot;pagelink&quot; href=&quot;Survie.html&quot; title=&quot;Survie&quot;&gt;Survie&lt;/a&gt; +14 ; &lt;b&gt;Modificateurs raciaux&lt;/b&gt; +4 en &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt;, +4 en &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;Langues&lt;/b&gt; infernal (incapable de parler) ; &lt;a class=&quot;pagelink&quot; href=&quot;T&#233;l&#233;pathie-(Capacit&#233;).html&quot; title=&quot;T&#233;l&#233;pathie&quot;&gt;t&#233;l&#233;pathie&lt;/a&gt; 30 m (20 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)&lt;br /&gt;&lt;div class=&quot;box&quot;&gt;&#201;cologie&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;Environnement&lt;/b&gt; terre ferme (Enfer)&lt;/li&gt;&lt;li&gt;&lt;b&gt;Organisation sociale&lt;/b&gt; solitaire, couple ou meute (3–8)&lt;/li&gt;&lt;li&gt;&lt;b&gt;Tr&#233;sor&lt;/b&gt; standard&lt;br /&gt;&lt;div class=&quot;box&quot;&gt;Pouvoirs sp&#233;ciaux&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;Invisible sous la lumi&#232;re (Sur).&lt;/b&gt; Un chat infernal jouit d’une &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables.html#Invisible&quot; title=&quot;&#201;tats pr&#233;judiciables&quot;&gt;invisibilit&#233;&lt;/a&gt; naturelle dans des conditions de lumi&#232;re vive. Sous une lumi&#232;re normale, il b&#233;n&#233;ficie d’un &lt;a class=&quot;pagelink&quot; href=&quot;Modificateurs-De-Combat.html#Camouflage_1&quot; title=&quot;Modificateurs de combat&quot;&gt;camouflage partiel&lt;/a&gt; (20% de chances d’&#233;chec des attaques). Sous une lumi&#232;re faible, il ne dispose d’aucun camouflage. Dans les t&#233;n&#232;bres, il ne b&#233;n&#233;ficie que d’un &lt;a class=&quot;pagelink&quot; href=&quot;Modificateurs-De-Combat.html#Camouflage_1&quot; title=&quot;Modificateurs de combat&quot;&gt;camouflage partiel&lt;/a&gt; &#224; cause de la lueur vacillante qu’il &#233;met (&#224; moins qu’il ne s’agisse de t&#233;n&#232;bres magiques).&lt;br /&gt;&lt;/li&gt;&lt;/ul&gt;&lt;br /&gt;&lt;/div&gt;
+&lt;/td&gt;&lt;td&gt;&lt;div&gt;&lt;i&gt;Cette cr&#233;ature angoissante ressemble &#224; un gros squelette de f&#233;lin anim&#233; avec de longs crocs et des os enflamm&#233;s d’o&#249; s’&#233;chappe de la fum&#233;e.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Les chats infernaux sont des pr&#233;dateurs rus&#233;s
+originaires des fosses enflamm&#233;es de l’Enfer.
+Il ne s’agit pas de diables &#224; proprement
+parler, mais les diables s’en servent
+souvent comme gardiens ou
+montures. On pourrait croire
+que les chats infernaux
+font office d’animaux
+domestiques pour les
+diables, mais comme ils
+sont aussi intelligents que
+des humains, ils se sentent insult&#233;s par l’id&#233;e qu’ils pourraient
+&#234;tre les &#171; animaux domestiques &#187; de qui que ce soit.&lt;br /&gt;&lt;br /&gt;Lorsqu’il est seul, le chat infernal pr&#233;f&#232;re passer son temps
+&#224; chasser et &#224; suivre ses proies. Bien que, en tant qu’Ext&#233;rieur,
+il n’ait pas besoin de se nourrir pour survivre, il aime d&#233;vorer
+par plaisir et laisse souvent derri&#232;re lui une bonne partie de ses
+repas, des restes qui permettent de suivre facilement sa piste.
+Lorsque le chat infernal s’allie avec un diable, c’est donc souvent
+pour le servir en tant que chasseur. Les mortels peuvent utiliser
+des sorts tels que alli&#233; d’outreplan ou contrat pour invoquer un chat
+infernal afin de lui confier une mission de ce genre. Ceux qui le
+font ont tout int&#233;r&#234;t &#224; traiter le chat infernal avec respect car,
+si un ma&#238;tre se montre trop hautain dans ses rapports avec un
+chat infernal ou le traite comme un vulgaire animal, celui-ci fait
+tout son possible pour planifier et mettre en oeuvre sa revanche
+contre le lanceur de sorts, esp&#233;rant ainsi &#224; la fois satisfaire sa
+propre fiert&#233;, donner une bonne le&#231;on et faire un exemple pour
+tous ceux qui voudraient s’allier avec un chat infernal.&lt;br /&gt;&lt;br /&gt;Les chat infernaux ne sont pas capables de parler mais ils
+comprennent l’infernal, la langue de leur plan d’origine, et peuvent
+communiquer par t&#233;l&#233;pathie avec toutes les cr&#233;atures capables de
+parler. Lorsqu’un combat tourne mal ou que leurs ennemis sont
+hors de leur port&#233;e, les chats infernaux n’h&#233;sitent pas &#224; se replier,
+mais ils n’oublient jamais les proies qui ont &#233;chapp&#233; &#224; leurs griffes.
+Bien souvent, ils suivent ces victimes potentielles et tentent de
+conduire des alli&#233;s (y compris d’autres chats infernaux) vers elles
+afin de mettre sur pied une embuscade ou une attaque coordonn&#233;e.
+C’est seulement sous des conditions de luminosit&#233; faible que
+les chats infernaux sont pleinement visibles. Ils apparaissent alors
+comme des tigres sanguinaires squelettiques dont les os sont l&#233;ch&#233;s
+par des flammes vacillantes de feu infernal. Malgr&#233; cette apparence
+angoissante, les chats infernaux ne sont ni des morts-vivants ni des
+cr&#233;atures &#233;l&#233;mentaires. Ce qui appara&#238;t comme des flammes est en
+fait leur sang qui se d&#233;place au sein de leurs chairs transparentes.
+Sous une lumi&#232;re vive, leur corps tout entier dispara&#238;t alors
+que, dans les t&#233;n&#232;bres, la lueur &#233;mise
+par leur sang est juste un peu
+&#233;touff&#233;e. Les chats infernaux
+sont aussi grands
+que des tigres :
+ils atteignent
+des longueurs
+de 2,70 m&#232;tres et
+des poids de
+450 kg.
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Chat infernal|FP 7}
+{s:pucem|Extérieur|Ruines-Donjons|Extraplanaire}
+* ''Source : Bestiaire 2, p.61''
+* '''PX''' 3 200
+* [[type Extérieur|Extérieur]] ([[sous-type extraplanaire|extraplanaire]], [[sous-type Loi|Loi]], [[sous-type Mal|Mal]])  de taille G, LM
+* '''Init''' +9 ; '''Sens''' [[odorat]], [[vision dans le noir]] 18 m (12 {s:c}) ; [[Perception]] +18
+(((Défense)))
+* '''CA''' 21, contact 15, pris au dépourvu 15 (Dex +5, esquive +1, naturelle +6, taille –1)
+* '''pv''' 85 (9d10+36)
+* '''Réf''' +13, '''Vig''' +10, '''Vol''' +5
+* '''Capacités défensives''' invisible sous la lumière ; '''RD''' 5/Bien ; '''Résistances''' feu 10 ; '''RM''' 18
+(((Attaque)))
+* '''VD''' 12 m (8 {s:c})
+* '''Corps à corps''' morsure, +13 (1d8+5) et 2 griffes, +13 (1d6+5/19–20 plus [[étreinte]])
+* '''Espace''' 3 m (2 {s:c}) ; Allonge 1,50 m (1 {s:c})
+* '''Attaques spéciales''' [[bond]], [[pattes arrière]] (2 griffes +13, 1d6+5/19–20)
+(((Statistiques)))
+* '''For''' 21, '''Dex''' 21, '''Con''' 19, '''Int''' 10, '''Sag''' 14, '''Cha''' 10
+* '''BBA''' +9 ; '''BMO''' +15 (+19 lutte) ; '''DMD''' 31 (35 contre [[croc-en-jambe]])
+* '''Dons''' [[Attaques réflexes]], [[Esquive]], [[Réflexes surhumains]], [[Science de linitiative|Science de
+l’initiative]], [[Souplesse du serpent]]
+* '''Compétences''' [[Acrobaties]] +17 (+21 pour sauter), [[Discrétion]] +17, [[Escalade]] +17, [[Natation]] +17, [[Perception]] +18, [[Survie]] +14 ; '''Modificateurs raciaux''' +4 en [[Discrétion]], +4 en [[Perception]]
+* '''Langues''' infernal (incapable de parler) ; [[télépathie]] 30 m (20 {s:c})
+(((Écologie)))
+* '''Environnement''' terre ferme (Enfer)
+* '''Organisation sociale''' solitaire, couple ou meute (3–8)
+* '''Trésor''' standard
+(((Pouvoirs spéciaux)))
+* '''Invisible sous la lumière (Sur).''' Un chat infernal jouit d’une [[États préjudiciables#Invisible|invisibilité]] naturelle dans des conditions de lumière vive. Sous une lumière normale, il bénéficie d’un [[Modificateurs de combat#Camouflage_1|camouflage partiel]] (20% de chances d’échec des attaques). Sous une lumière faible, il ne dispose d’aucun camouflage. Dans les ténèbres, il ne bénéficie que d’un [[Modificateurs de combat#Camouflage_1|camouflage partiel]] à cause de la lueur vacillante qu’il émet (à moins qu’il ne s’agisse de ténèbres magiques).
+
+</div>
+</td><td><div>''Cette créature angoissante ressemble à un gros squelette de félin animé avec de longs crocs et des os enflammés d’où s’échappe de la fumée.''
+
+Les chats infernaux sont des prédateurs rusés
+originaires des fosses enflammées de l’Enfer.
+Il ne s’agit pas de diables à proprement
+parler, mais les diables s’en servent
+souvent comme gardiens ou
+montures. On pourrait croire
+que les chats infernaux
+font office d’animaux
+domestiques pour les
+diables, mais comme ils
+sont aussi intelligents que
+des humains, ils se sentent insultés par l’idée qu’ils pourraient
+être les « animaux domestiques » de qui que ce soit.
+
+Lorsqu’il est seul, le chat infernal préfère passer son temps
+à chasser et à suivre ses proies. Bien que, en tant qu’Extérieur,
+il n’ait pas besoin de se nourrir pour survivre, il aime dévorer
+par plaisir et laisse souvent derrière lui une bonne partie de ses
+repas, des restes qui permettent de suivre facilement sa piste.
+Lorsque le chat infernal s’allie avec un diable, c’est donc souvent
+pour le servir en tant que chasseur. Les mortels peuvent utiliser
+des sorts tels que allié d’outreplan ou contrat pour invoquer un chat
+infernal afin de lui confier une mission de ce genre. Ceux qui le
+font ont tout intérêt à traiter le chat infernal avec respect car,
+si un maître se montre trop hautain dans ses rapports avec un
+chat infernal ou le traite comme un vulgaire animal, celui-ci fait
+tout son possible pour planifier et mettre en oeuvre sa revanche
+contre le lanceur de sorts, espérant ainsi à la fois satisfaire sa
+propre fierté, donner une bonne leçon et faire un exemple pour
+tous ceux qui voudraient s’allier avec un chat infernal.
+
+Les chat infernaux ne sont pas capables de parler mais ils
+comprennent l’infernal, la langue de leur plan d’origine, et peuvent
+communiquer par télépathie avec toutes les créatures capables de
+parler. Lorsqu’un combat tourne mal ou que leurs ennemis sont
+hors de leur portée, les chats infernaux n’hésitent pas à se replier,
+mais ils n’oublient jamais les proies qui ont échappé à leurs griffes.
+Bien souvent, ils suivent ces victimes potentielles et tentent de
+conduire des alliés (y compris d’autres chats infernaux) vers elles
+afin de mettre sur pied une embuscade ou une attaque coordonnée.
+C’est seulement sous des conditions de luminosité faible que
+les chats infernaux sont pleinement visibles. Ils apparaissent alors
+comme des tigres sanguinaires squelettiques dont les os sont léchés
+par des flammes vacillantes de feu infernal. Malgré cette apparence
+angoissante, les chats infernaux ne sont ni des morts-vivants ni des
+créatures élémentaires. Ce qui apparaît comme des flammes est en
+fait leur sang qui se déplace au sein de leurs chairs transparentes.
+Sous une lumière vive, leur corps tout entier disparaît alors
+que, dans les ténèbres, la lueur émise
+par leur sang est juste un peu
+étouffée. Les chats infernaux
+sont aussi grands
+que des tigres :
+ils atteignent
+des longueurs
+de 2,70 mètres et
+des poids de
+450 kg.
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Chat infernal</fullName>
+</wikiPage>

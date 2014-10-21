@@ -1,0 +1,173 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Lézard voltaïque</title>
+  <categories><category>Pathfinder-RPG.Bestiaire</category><category>Pathfinder-RPG.Monstre</category><category>Pathfinder-RPG.Règles officielles</category></categories>
+  <lastModified>2013-02-07 20:01:45Z</lastModified>
+  <version>4</version>
+  <inLinks><link>Pathfinder-RPG.Glossaire des monstres</link><link>Pathfinder-RPG.Liste de monstres par FP</link><link>Pathfinder-RPG.Liste de monstres par milieu naturel</link><link>Pathfinder-RPG.Liste de monstres par type</link><link>Pathfinder-RPG.Monstres</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.type Créature magique</link><link>Pathfinder-RPG.vision dans le noir</link><link>Pathfinder-RPG.vision nocturne</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Science de linitiative</link><link>Pathfinder-RPG.Talent</link><link>Pathfinder-RPG.Discrétion</link><link>Pathfinder-RPG.Escalade</link><link>Pathfinder-RPG.Natation</link><link>Pathfinder-RPG.Réflexes</link><link>Pathfinder-RPG.DD</link><link>Pathfinder-RPG.Constitution</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;L&#233;zard volta&#239;que&lt;div style=&quot;float:right;&quot;&gt;FP 2&lt;/div&gt;&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Bestiaire&lt;/i&gt; p.193
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 600
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Cr&#233;ature-Magique.html&quot; title=&quot;Cr&#233;ature magique&quot;&gt;Cr&#233;ature magique&lt;/a&gt; de taille P, N
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +6 ; &lt;b&gt;Sens&lt;/b&gt; perception de l&#39;&#233;lectricit&#233;, &lt;a class=&quot;pagelink&quot; href=&quot;Capacit&#233;s-Sp&#233;ciales.html#VISIONDANSLENOIR&quot; title=&quot;vision dans le noir&quot;&gt;vision dans le noir&lt;/a&gt; 18 m (12 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Nocturne-(Capacit&#233;).html&quot; title=&quot;vision nocturne&quot;&gt;vision nocturne&lt;/a&gt; ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +8
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 16, contact 13, pris au d&#233;pourvu 14 (Dex +2, naturelle +3, taille +1)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 19 (3d10+3)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +5, &lt;b&gt;Vig&lt;/b&gt; +4, &lt;b&gt;Vol&lt;/b&gt; +2
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Immunit&#233;s&lt;/b&gt; &#233;lectricit&#233; 
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 12 m (8 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), escalade 6 m (4 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), nage 6 m (4 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; morsure, +4 (1d4)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaques sp&#233;ciales&lt;/b&gt; choc &#233;lectrique
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 10, &lt;b&gt;Dex&lt;/b&gt; 15, &lt;b&gt;Con&lt;/b&gt; 13, &lt;b&gt;Int&lt;/b&gt; 2, &lt;b&gt;Sag&lt;/b&gt; 13, &lt;b&gt;Cha&lt;/b&gt; 6
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +3, &lt;b&gt;BMO&lt;/b&gt; +2, &lt;b&gt;DMD&lt;/b&gt; 14 (18 contre le croc-en-jambe)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Science-De-Linitiative.html&quot; title=&quot;Science de l&amp;#39;initiative&quot;&gt;Science de l&#39;initiative&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Talent.html&quot; title=&quot;Talent&quot;&gt;Talent&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; +17, &lt;a class=&quot;pagelink&quot; href=&quot;Escalade.html&quot; title=&quot;Escalade&quot;&gt;Escalade&lt;/a&gt; +8, &lt;a class=&quot;pagelink&quot; href=&quot;Natation.html&quot; title=&quot;Natation&quot;&gt;Natation&lt;/a&gt; +8, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +8 ; &lt;b&gt;Modificateurs raciaux&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; +4, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +2
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; marais chauds
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation sociale&lt;/b&gt; solitaire, couple, port&#233;e (3-6) ou colonie (7-12)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; fortuit
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Capacit&#233;s sp&#233;ciales&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Choc &#233;lectrique (Sur).&lt;/b&gt; Les l&#233;zards volta&#239;ques peuvent d&#233;livrer un choc &#233;lectrique &#224; un adversaire situ&#233; &#224; 1,50 m (1 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) d&#39;eux. Cette attaque inflige 1d8 points de d&#233;g&#226;ts d&#39;&#233;lectricit&#233; non l&#233;taux &#224; la cible si celle-ci est vivante (&lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;R&#233;flexes&quot;&gt;R&#233;flexes&lt;/a&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DEGREDEDIFFICULTE&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; 12 pour diviser les d&#233;g&#226;ts par deux, le &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DEGREDEDIFFICULTE&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; d&#233;pend de la &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#CONSTITUTION&quot; title=&quot;La Constitution&quot;&gt;Constitution&lt;/a&gt;). En plus de cela, si deux l&#233;zards volta&#239;ques (ou plus) se trouvent &#224; moins de 6 m (4 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) les uns des autres, ils peuvent collaborer pour cr&#233;er un choc l&#233;tal une fois tous les 1d4 rounds. L&#39;effet est centr&#233; sur un des l&#233;zards et s&#39;&#233;tend sur un rayon de 6 m (4 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;). Toutes les cr&#233;atures au sein de la zone subissent 2d8 points de d&#233;g&#226;ts d&#39;&#233;lectricit&#233; l&#233;taux par l&#233;zard participant, jusqu&#39;&#224; un maximum de 12d8. Une jet de &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;R&#233;flexes&quot;&gt;R&#233;flexes&lt;/a&gt; (de &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DEGREDEDIFFICULTE&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; &#233;gal &#224; 10 + le nombre de l&#233;zards participants) permet de diviser les d&#233;g&#226;ts par deux.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Perception de l&#39;&#233;lectricit&#233; (Ext).&lt;/b&gt; Les l&#233;zards volta&#239;ques rep&#232;rent automatiquement toutes les d&#233;charges &#233;lectriques produites dans un rayon de 30 m (20 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;).
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;td&gt;&lt;div&gt;&lt;i&gt;Ce l&#233;zard de la taille d’un chien poss&#232;de deux cornes de part et d’autre de sa t&#234;te et des &#233;cailles vertes sur lesquelles cr&#233;pitent des &#233;tincelles.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Les l&#233;zards volta&#239;ques ont un ventre
+jaune p&#226;le, mais le reste de leur corps
+est recouvert d’&#233;cailles vert clair. Ils mesurent 90 centim&#232;tres de
+longueur et p&#232;sent &#224; peu pr&#232;s 12,5 kg. Ils ont tendance &#224; cohabiter
+en groupes car leurs capacit&#233;s &#233;lectriques croissent lorsqu’ils sont
+pr&#232;s d’autres l&#233;zards.&lt;br /&gt;&lt;br /&gt;Une colonie de l&#233;zards volta&#239;ques &#233;lit g&#233;n&#233;ralement domicile &#224;
+proximit&#233; d’une source d’eau. Une fois l’endroit choisi, les l&#233;zards
+d&#233;fendent leur territoire avec f&#233;rocit&#233; et attaquent tous les intrus.
+Seul, le l&#233;zard volta&#239;que est une cr&#233;ature timide et h&#233;sitante mais,
+en groupe, ils deviennent des adversaires redoutables capables de
+tuer plusieurs cr&#233;atures bien plus grandes qu’eux.&lt;br /&gt;&lt;br /&gt;Au combat, les l&#233;zards volta&#239;ques utilisent principalement
+leurs capacit&#233;s &#233;lectriques. Ils ne se mettent &#224; mordre qu’apr&#232;s
+avoir rendu leur adversaire inconscient gr&#226;ce &#224; une d&#233;charge
+&#233;lectrique, ou lorsque la d&#233;charge ne semble avoir aucun effet.&lt;br /&gt;&lt;br /&gt;Un l&#233;zard solitaire fuira apr&#232;s avoir &#233;mis sa d&#233;charge. Mais si
+d’autres l&#233;zards volta&#239;ques sont pr&#233;sents, ils accourront en masse,
+attir&#233;s par la d&#233;charge de leur camarade, et tenteront de tuer leurs
+adversaires en &#233;mettant leurs propres d&#233;charges.&lt;br /&gt;&lt;br /&gt;Beaucoup de personnes ont tent&#233; de capturer et d’apprivoiser
+un l&#233;zard volta&#239;que mais cela s’est r&#233;v&#233;l&#233; &#234;tre une t&#226;che difficile
+et douloureuse. Les l&#233;zards solitaires et captifs ont tendance &#224;
+d&#233;p&#233;rir et &#224; mourir rapidement, &#224; moins que leurs ge&#244;liers ne
+passent beaucoup de temps &#224; en prendre soin et &#224; jouer avec eux
+pour leur tenir compagnie. &lt;br /&gt;&lt;br /&gt;Les l&#233;zards captifs mais rassembl&#233;s en
+groupes de deux ou plus survivent mais leurs capacit&#233; &#233;lectrique
+accrue les rend plus dangereux &#224; manipuler, du moins si ceux qui
+s’en occupent ne sont pas eux aussi immunis&#233;s contre l’&#233;lectricit&#233;.
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Lézard voltaïque|FP 2}
+{s:pucem|Créature magique|Marais|Tropical}
+{s:BDTexte|''Source : Bestiaire'' p.193}
+{s:BDTexte|'''PX''' 600}
+{s:BDTexte|[[type Créature magique|Créature magique]] de taille P, N}
+{s:BDTexte|'''Init''' +6 ; '''Sens''' perception de l'électricité, [[vision dans le noir]] 18 m (12 {s:c}), [[vision nocturne]] ; [[Perception]] +8}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 16, contact 13, pris au dépourvu 14 (Dex +2, naturelle +3, taille +1)}
+{s:BDTexte|'''pv''' 19 (3d10+3)}
+{s:BDTexte|'''Réf''' +5, '''Vig''' +4, '''Vol''' +2}
+{s:BDTexte|'''Immunités''' électricité }
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 12 m (8 {s:c}), escalade 6 m (4 {s:c}), nage 6 m (4 {s:c})}
+{s:BDTexte|'''Corps à corps''' morsure, +4 (1d4)}
+{s:BDTexte|'''Attaques spéciales''' choc électrique}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 10, '''Dex''' 15, '''Con''' 13, '''Int''' 2, '''Sag''' 13, '''Cha''' 6}
+{s:BDTexte|'''BBA''' +3, '''BMO''' +2, '''DMD''' 14 (18 contre le croc-en-jambe)}
+{s:BDTexte|'''Dons''' [[Science de linitiative|Science de l'initiative]], [[Talent]] ([[Discrétion]])}
+{s:BDTexte|'''Compétences''' [[Discrétion]] +17, [[Escalade]] +8, [[Natation]] +8, [[Perception]] +8 ; '''Modificateurs raciaux''' [[Discrétion]] +4, [[Perception]] +2}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' marais chauds}
+{s:BDTexte|'''Organisation sociale''' solitaire, couple, portée (3-6) ou colonie (7-12)}
+{s:BDTexte|'''Trésor''' fortuit}
+{s:BDSousTitre|Capacités spéciales}
+{s:BDTexte|'''Choc électrique (Sur).''' Les lézards voltaïques peuvent délivrer un choc électrique à un adversaire situé à 1,50 m (1 {s:c}) d'eux. Cette attaque inflige 1d8 points de dégâts d'électricité non létaux à la cible si celle-ci est vivante ([[Réflexes]] [[DD]] 12 pour diviser les dégâts par deux, le [[DD]] dépend de la [[Constitution]]). En plus de cela, si deux lézards voltaïques (ou plus) se trouvent à moins de 6 m (4 {s:c}) les uns des autres, ils peuvent collaborer pour créer un choc létal une fois tous les 1d4 rounds. L'effet est centré sur un des lézards et s'étend sur un rayon de 6 m (4 {s:c}). Toutes les créatures au sein de la zone subissent 2d8 points de dégâts d'électricité létaux par lézard participant, jusqu'à un maximum de 12d8. Une jet de [[Réflexes]] (de [[DD]] égal à 10 + le nombre de lézards participants) permet de diviser les dégâts par deux.}
+{s:BDTexte|'''Perception de l'électricité (Ext).''' Les lézards voltaïques repèrent automatiquement toutes les décharges électriques produites dans un rayon de 30 m (20 {s:c}).}
+</div>
+</td><td><div>''Ce lézard de la taille d’un chien possède deux cornes de part et d’autre de sa tête et des écailles vertes sur lesquelles crépitent des étincelles.''
+
+Les lézards voltaïques ont un ventre
+jaune pâle, mais le reste de leur corps
+est recouvert d’écailles vert clair. Ils mesurent 90 centimètres de
+longueur et pèsent à peu près 12,5 kg. Ils ont tendance à cohabiter
+en groupes car leurs capacités électriques croissent lorsqu’ils sont
+près d’autres lézards.
+
+Une colonie de lézards voltaïques élit généralement domicile à
+proximité d’une source d’eau. Une fois l’endroit choisi, les lézards
+défendent leur territoire avec férocité et attaquent tous les intrus.
+Seul, le lézard voltaïque est une créature timide et hésitante mais,
+en groupe, ils deviennent des adversaires redoutables capables de
+tuer plusieurs créatures bien plus grandes qu’eux.
+
+Au combat, les lézards voltaïques utilisent principalement
+leurs capacités électriques. Ils ne se mettent à mordre qu’après
+avoir rendu leur adversaire inconscient grâce à une décharge
+électrique, ou lorsque la décharge ne semble avoir aucun effet.
+
+Un lézard solitaire fuira après avoir émis sa décharge. Mais si
+d’autres lézards voltaïques sont présents, ils accourront en masse,
+attirés par la décharge de leur camarade, et tenteront de tuer leurs
+adversaires en émettant leurs propres décharges.
+
+Beaucoup de personnes ont tenté de capturer et d’apprivoiser
+un lézard voltaïque mais cela s’est révélé être une tâche difficile
+et douloureuse. Les lézards solitaires et captifs ont tendance à
+dépérir et à mourir rapidement, à moins que leurs geôliers ne
+passent beaucoup de temps à en prendre soin et à jouer avec eux
+pour leur tenir compagnie. 
+
+Les lézards captifs mais rassemblés en
+groupes de deux ou plus survivent mais leurs capacité électrique
+accrue les rend plus dangereux à manipuler, du moins si ceux qui
+s’en occupent ne sont pas eux aussi immunisés contre l’électricité.
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Lézard voltaïque</fullName>
+</wikiPage>

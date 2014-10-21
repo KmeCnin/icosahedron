@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Appel des pierres</title>
+  <categories><category>Pathfinder-RPG.Advanced Player Guide</category><category>Pathfinder-RPG.Règles officielles</category><category>Pathfinder-RPG.Sort</category><category>Pathfinder-RPG.Sort druide 2</category><category>Pathfinder-RPG.Sort magicien 2</category><category>Pathfinder-RPG.Sort rôdeur 2</category></categories>
+  <lastModified>2013-10-03 22:54:17Z</lastModified>
+  <version>4</version>
+  <inLinks><link>Pathfinder-RPG.AdM-sorts-classe-temporaire</link><link>Pathfinder-RPG.Domaine de la Montagne</link><link>Pathfinder-RPG.Domaine des Cavernes</link><link>Pathfinder-RPG.Glossaire des sorts</link><link>Pathfinder-RPG.Grimoires</link><link>Pathfinder-RPG.Liste des sorts</link><link>Pathfinder-RPG.Liste des sorts de druides</link><link>Pathfinder-RPG.Liste des sorts de magus</link><link>Pathfinder-RPG.Liste des sorts de rôdeurs</link><link>Pathfinder-RPG.Liste des sorts délémentaliste</link><link>Pathfinder-RPG.Liste des sorts délémentaliste temporaire</link><link>Pathfinder-RPG.Liste des sorts densorceleursmagiciens</link><link>Pathfinder-RPG.Liste des sorts par registre</link><link>Pathfinder-RPG.Mystère des pierres</link><link>Pathfinder-RPG.TMP sorts APG</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Invocation</link><link>Pathfinder-RPG.branche création</link><link>Pathfinder-RPG.Registre</link><link>Pathfinder-RPG.Druide</link><link>Pathfinder-RPG.Ensorceleur</link><link>Pathfinder-RPG.Magicien</link><link>Pathfinder-RPG.Rôdeur</link><link>Pathfinder-RPG.Action simple</link><link>Pathfinder-RPG.composantes</link><link>Pathfinder-RPG.niveau</link><link>Pathfinder-RPG.round</link><link>Pathfinder-RPG.terrain difficile</link></outLinks>
+  <body><![CDATA[
+&lt;b&gt;&#201;cole&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#INVOCATION&quot; title=&quot;Invocation&quot;&gt;Invocation&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#CREATION&quot; title=&quot;cr&#233;ation&quot;&gt;cr&#233;ation&lt;/a&gt;) (&lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;er-Un-Sort.html#REGISTRE&quot; title=&quot;Registre&quot;&gt;terre&lt;/a&gt;)&#160;;&lt;b&gt; Niveau&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Druide.html&quot; title=&quot;Le druide&quot;&gt;druide&lt;/a&gt; 2, &lt;a class=&quot;pagelink&quot; href=&quot;Ensorceleur.html&quot; title=&quot;L&amp;#39;ensorceleur&quot;&gt;ensorceleur&lt;/a&gt;/&lt;a class=&quot;pagelink&quot; href=&quot;Magicien.html&quot; title=&quot;Le magicien&quot;&gt;magicien&lt;/a&gt; 2, &lt;a class=&quot;pagelink&quot; href=&quot;R&#244;deur.html&quot; title=&quot;Le r&#244;deur&quot;&gt;r&#244;deur&lt;/a&gt; 2&lt;br/&gt;
+&lt;b&gt;Temps d&#39;incantation&lt;/b&gt; 1 &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions.html#SIMPLE&quot; title=&quot;Action simple&quot;&gt;action simple&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Composantes&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#COMPOSANTES&quot; title=&quot;composantes&quot;&gt;V, G, FD&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Port&#233;e&lt;/b&gt; moyenne (30 m + 3 m/&lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#NIVEAU&quot; title=&quot;niveau&quot;&gt;niveau&lt;/a&gt;) (20 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt; + 2 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;/&lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#NIVEAU&quot; title=&quot;niveau&quot;&gt;niveau&lt;/a&gt;)&lt;br/&gt;
+&lt;b&gt;Zone&lt;/b&gt; cylindre (12&#160;m (8 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) de rayon, 6 m (4 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) de haut)&lt;br/&gt;
+&lt;b&gt;Dur&#233;e&lt;/b&gt; 1 &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#ROUND&quot; title=&quot;round&quot;&gt;round&lt;/a&gt;/&lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#NIVEAU&quot; title=&quot;niveau&quot;&gt;niveau&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Jet de sauvegarde&lt;/b&gt; aucun ;&lt;b&gt; R&#233;sistance &#224; la magie&lt;/b&gt; non&lt;br /&gt;&lt;br /&gt;Une pluie de poussi&#232;re, de gravats et de cailloux s&#39;abat sur la zone et inflige 2d6 points de d&#233;g&#226;ts contondants &#224; toute cr&#233;ature qui s&#39;y trouve. Ces d&#233;g&#226;ts ne s&#39;appliquent qu&#39;une fois, au moment de l&#39;incantation du sort. Pendant le reste de sa dur&#233;e, les d&#233;bris recouvrent la zone et la transforment en &lt;a class=&quot;pagelink&quot; href=&quot;D&#233;placement-Et-Position.html#TERRAINDIFFICILE&quot; title=&quot;terrain difficile&quot;&gt;terrain difficile&lt;/a&gt;. &#192; la fin de sa dur&#233;e, les cailloux disparaissent et ne laissent aucun effet persistant (en dehors des d&#233;g&#226;ts qu&#39;ils ont caus&#233;s).
+]]></body>
+  <raw><![CDATA[{s:APG}
+'''École''' [[Invocation]] ([[branche création|création]]) ([[registre|terre]]) ;''' Niveau''' [[druide]] 2, [[ensorceleur]]/[[magicien]] 2, [[rôdeur]] 2<br/>
+'''Temps d'incantation''' 1 [[action simple]]<br/>
+'''Composantes''' [[Composantes|V, G, FD]]<br/>
+'''Portée''' moyenne (30 m + 3 m/[[niveau]]) (20 {s:c} + 2 {s:c}/[[niveau]])<br/>
+'''Zone''' cylindre (12 m (8 {s:c}) de rayon, 6 m (4 {s:c}) de haut)<br/>
+'''Durée''' 1 [[round]]/[[niveau]]<br/>
+'''Jet de sauvegarde''' aucun ;''' Résistance à la magie''' non
+
+Une pluie de poussière, de gravats et de cailloux s'abat sur la zone et inflige 2d6 points de dégâts contondants à toute créature qui s'y trouve. Ces dégâts ne s'appliquent qu'une fois, au moment de l'incantation du sort. Pendant le reste de sa durée, les débris recouvrent la zone et la transforment en [[terrain difficile]]. À la fin de sa durée, les cailloux disparaissent et ne laissent aucun effet persistant (en dehors des dégâts qu'ils ont causés).
+]]></raw>
+  <fullName>Pathfinder-RPG.Appel des pierres</fullName>
+</wikiPage>

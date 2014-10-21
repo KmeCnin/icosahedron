@@ -1,0 +1,548 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Élémentaire de l'Eau</title>
+  <categories><category>Pathfinder-RPG.Bestiaire</category><category>Pathfinder-RPG.Monstre</category><category>Pathfinder-RPG.Règles officielles</category></categories>
+  <lastModified>2014-04-03 12:19:52Z</lastModified>
+  <version>9</version>
+  <inLinks><link>Pathfinder-RPG.Contrôle de leau</link><link>Pathfinder-RPG.Corps élémentaire I</link><link>Pathfinder-RPG.Corps élémentaire II</link><link>Pathfinder-RPG.Corps élémentaire III</link><link>Pathfinder-RPG.Corps élémentaire IV</link><link>Pathfinder-RPG.Dragon de bronze</link><link>Pathfinder-RPG.Élémentaire</link><link>Pathfinder-RPG.Flasque de fer</link><link>Pathfinder-RPG.Flétrissure</link><link>Pathfinder-RPG.Gemme à élémentaire</link><link>Pathfinder-RPG.Glossaire des monstres</link><link>Pathfinder-RPG.Le diamant gémissant</link><link>Pathfinder-RPG.Lier un extérieur</link><link>Pathfinder-RPG.Liste de monstres par FP</link><link>Pathfinder-RPG.Liste de monstres par milieu naturel</link><link>Pathfinder-RPG.Liste de monstres par type</link><link>Pathfinder-RPG.Marid</link><link>Pathfinder-RPG.Monstres</link><link>Pathfinder-RPG.Sphère glaciale</link><link>Pathfinder-RPG.Triton</link><link>Pathfinder-RPG.Vase de magma</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Dissipation de la magie</link><link>Pathfinder-RPG.NLS</link><link>Pathfinder-RPG.DV</link><link>Pathfinder-RPG.jet dattaque</link><link>Pathfinder-RPG.bousculade</link><link>Pathfinder-RPG.renversement</link><link>Pathfinder-RPG.Tourbillon</link><link>Pathfinder-RPG.Action simple</link><link>Pathfinder-RPG.type Extérieur</link><link>Pathfinder-RPG.sous-type Eau</link><link>Pathfinder-RPG.sous-type élémentaire</link><link>Pathfinder-RPG.sous-type extraplanaire</link><link>Pathfinder-RPG.vision dans le noir</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Attaque en puissance</link><link>Pathfinder-RPG.Acrobaties</link><link>Pathfinder-RPG.Connaissances</link><link>Pathfinder-RPG.Discrétion</link><link>Pathfinder-RPG.Évasion</link><link>Pathfinder-RPG.Natation</link><link>Pathfinder-RPG.Enchaînement</link><link>Pathfinder-RPG.Esquive</link><link>Pathfinder-RPG.Succession denchaînements</link><link>Pathfinder-RPG.Science de la bousculade</link><link>Pathfinder-RPG.Réflexes surhumains</link><link>Pathfinder-RPG.Science de la destruction</link><link>Pathfinder-RPG.Science du critique</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;&#201;l&#233;mentaire de l&#39;Eau&lt;div style=&quot;float:right;&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Langues&lt;/b&gt; aquatique
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; quelconque (plan de l&#39;Eau)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation sociale&lt;/b&gt; solitaire, couple ou bande (3-8)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; aucun
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Capacit&#233;s sp&#233;ciales&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Extinction des feux (Ext).&lt;/b&gt; D&#39;un simple contact, l&#39;&#233;l&#233;mentaire peut &#233;teindre les feux non magiques de taille inf&#233;rieure ou &#233;gale &#224; G. Il peut dissiper les feux magiques qu&#39;il touche comme s&#39;il utilisait une &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Dissipation-De-La-Magie.html&quot; title=&quot;Dissipation de la magie&quot;&gt;dissipation de la magie&lt;/a&gt;&lt;/i&gt; (avec un &lt;a class=&quot;pagelink&quot; href=&quot;Lancer-Des-Sorts.html#NLS&quot; title=&quot;NLS&quot;&gt;NLS&lt;/a&gt; &#233;gal &#224; son nombre de &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DESDEVIE&quot; title=&quot;DV&quot;&gt;DV&lt;/a&gt;).
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Ma&#238;trise de l&#39;Eau (Ext).&lt;/b&gt; Un &#233;l&#233;mentaire de l&#39;Eau gagne un bonus de +1 aux &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDATTAQUE&quot; title=&quot;jet dattaque&quot;&gt;jets d&#39;attaque&lt;/a&gt; et de d&#233;g&#226;ts si lui et son adversaire sont en contact avec de l&#39;eau. Si l&#233;lementaire ou son adversaire touche le sol, il subit un malus de -4 aux &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDATTAQUE&quot; title=&quot;jet dattaque&quot;&gt;jets d&#39;attaque&lt;/a&gt; et de d&#233;g&#226;ts. Ces modificateurs s&#39;appliquent &#233;galement lors des manœuvres de &lt;a class=&quot;pagelink&quot; href=&quot;Manœuvres-Offensives.html#BOUSCULADE&quot; title=&quot;bousculade&quot;&gt;bousculade&lt;/a&gt; et de &lt;a class=&quot;pagelink&quot; href=&quot;Manœuvres-Offensives.html#RENVERSEMENT&quot; title=&quot;renversement&quot;&gt;renversement&lt;/a&gt;, que l&#39;&#233;lementaire en soit l&#39;initiateur ou pas. Ces modificateurs ne sont pas compt&#233;s dans les profils qui suivent.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Vortex (Sur).&lt;/b&gt; Un &#233;l&#233;mentaire de l&#39;Eau peut cr&#233;er un &lt;a class=&quot;pagelink&quot; href=&quot;Tourbillon-(Capacit&#233;).html&quot; title=&quot;Tourbillon&quot;&gt;tourbillon&lt;/a&gt; par une &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions.html#SIMPLE&quot; title=&quot;Action simple&quot;&gt;action simple&lt;/a&gt;, &#224; volont&#233;. Cette capacit&#233; fonctionne comme l&#39;attaque sp&#233;ciale de &lt;a class=&quot;pagelink&quot; href=&quot;Tourbillon-(Capacit&#233;).html&quot; title=&quot;Tourbillon&quot;&gt;tourbillon&lt;/a&gt; (voir la section correspondante) mais le &lt;a class=&quot;pagelink&quot; href=&quot;Tourbillon-(Capacit&#233;).html&quot; title=&quot;Tourbillon&quot;&gt;tourbillon&lt;/a&gt; doit &#234;tre cr&#233;&#233; dans l&#39;eau et ne peut pas en sortir.
+&lt;/div&gt;
+&lt;h3 class=&quot;separator&quot;&gt; &lt;a class=&quot;headeranchor&quot; id=&quot;_0&quot; href=&quot;#_0&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;&#201;l&#233;mentaire de l&#39;Eau de taille P&lt;div style=&quot;float:right;&quot;&gt;FP 1&lt;/div&gt;&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Bestiaire p.124&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 400
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Ext&#233;rieur.html&quot; title=&quot;Ext&#233;rieur&quot;&gt;Ext&#233;rieur&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Eau.html&quot; title=&quot;Eau (sous-type)&quot;&gt;Eau&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-&#201;l&#233;mentaire.html&quot; title=&quot;&#201;l&#233;mentaire (sous-type)&quot;&gt;&#233;l&#233;mentaire&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Extraplanaire.html&quot; title=&quot;Extraplanaire (sous-type)&quot;&gt;extraplanaire&lt;/a&gt;) de taille P, N
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +0 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Capacit&#233;s-Sp&#233;ciales.html#VISIONDANSLENOIR&quot; title=&quot;vision dans le noir&quot;&gt;vision dans le noir&lt;/a&gt; 18 m (12 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +4
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 17, contact 11, pris au d&#233;pourvu 17 (naturelle +6, taille +1)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 13 (2d10+2)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +3, &lt;b&gt;Vig&lt;/b&gt; +4, &lt;b&gt;Vol&lt;/b&gt; +0
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Immunit&#233;s&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-&#201;l&#233;mentaire.html&quot; title=&quot;&#201;l&#233;mentaire (sous-type)&quot;&gt;traits des &#233;l&#233;mentaires&lt;/a&gt; 
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 6 m (4 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), nage 27 m (18 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; coup, +5 (1d6+3)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaques sp&#233;ciales&lt;/b&gt; extinction des feux, ma&#238;trise de l&#39;Eau, vortex (DD 13)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 14, &lt;b&gt;Dex&lt;/b&gt; 10, &lt;b&gt;Con&lt;/b&gt; 13, &lt;b&gt;Int&lt;/b&gt; 4, &lt;b&gt;Sag&lt;/b&gt; 11, &lt;b&gt;Cha&lt;/b&gt; 11
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +2, &lt;b&gt;BMO&lt;/b&gt; +3, &lt;b&gt;DMD&lt;/b&gt; 13
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Attaque-En-Puissance.html&quot; title=&quot;Attaque en puissance&quot;&gt;Attaque en puissance&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Acrobaties.html&quot; title=&quot;Acrobaties&quot;&gt;Acrobaties&lt;/a&gt; +4, &lt;a class=&quot;pagelink&quot; href=&quot;Connaissances.html&quot; title=&quot;Connaissances&quot;&gt;Connaissances&lt;/a&gt; (plans) +1, &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; +8, &lt;a class=&quot;pagelink&quot; href=&quot;&#201;vasion.html&quot; title=&quot;&#201;vasion&quot;&gt;&#201;vasion&lt;/a&gt; +4, &lt;a class=&quot;pagelink&quot; href=&quot;Natation.html&quot; title=&quot;Natation&quot;&gt;Natation&lt;/a&gt; +14, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +4
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;h3 class=&quot;separator&quot;&gt; &lt;a class=&quot;headeranchor&quot; id=&quot;_1&quot; href=&quot;#_1&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;&#201;l&#233;mentaire de l&#39;Eau de taille M&lt;div style=&quot;float:right;&quot;&gt;FP 3&lt;/div&gt;&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Bestiaire p.124&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 800
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Ext&#233;rieur.html&quot; title=&quot;Ext&#233;rieur&quot;&gt;Ext&#233;rieur&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Eau.html&quot; title=&quot;Eau (sous-type)&quot;&gt;Eau&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-&#201;l&#233;mentaire.html&quot; title=&quot;&#201;l&#233;mentaire (sous-type)&quot;&gt;&#233;l&#233;mentaire&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Extraplanaire.html&quot; title=&quot;Extraplanaire (sous-type)&quot;&gt;extraplanaire&lt;/a&gt;) de taille M, N
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +1 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Capacit&#233;s-Sp&#233;ciales.html#VISIONDANSLENOIR&quot; title=&quot;vision dans le noir&quot;&gt;vision dans le noir&lt;/a&gt; 18 m (12 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +5
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 16, contact 11, pris au d&#233;pourvu 17 (Dex +1, naturelle +6)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 30 (4d10+8)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +5, &lt;b&gt;Vig&lt;/b&gt; +6, &lt;b&gt;Vol&lt;/b&gt; +1
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Immunit&#233;s&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-&#201;l&#233;mentaire.html&quot; title=&quot;&#201;l&#233;mentaire (sous-type)&quot;&gt;traits des &#233;l&#233;mentaires&lt;/a&gt; 
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 6 m (4 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), nage 27 m (18 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; coup, +7 (1d8+4)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaques sp&#233;ciales&lt;/b&gt; extinction des feux, ma&#238;trise de l&#39;Eau, vortex (DD 15)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 16, &lt;b&gt;Dex&lt;/b&gt; 12, &lt;b&gt;Con&lt;/b&gt; 15, &lt;b&gt;Int&lt;/b&gt; 4, &lt;b&gt;Sag&lt;/b&gt; 11, &lt;b&gt;Cha&lt;/b&gt; 11
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +4, &lt;b&gt;BMO&lt;/b&gt; +7, &lt;b&gt;DMD&lt;/b&gt; 18
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Attaque-En-Puissance.html&quot; title=&quot;Attaque en puissance&quot;&gt;Attaque en puissance&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Encha&#238;nement.html&quot; title=&quot;Encha&#238;nement&quot;&gt;Encha&#238;nement&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Acrobaties.html&quot; title=&quot;Acrobaties&quot;&gt;Acrobaties&lt;/a&gt; +6, &lt;a class=&quot;pagelink&quot; href=&quot;Connaissances.html&quot; title=&quot;Connaissances&quot;&gt;Connaissances&lt;/a&gt; (plans) +2, &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; +6, &lt;a class=&quot;pagelink&quot; href=&quot;&#201;vasion.html&quot; title=&quot;&#201;vasion&quot;&gt;&#201;vasion&lt;/a&gt; +6, &lt;a class=&quot;pagelink&quot; href=&quot;Natation.html&quot; title=&quot;Natation&quot;&gt;Natation&lt;/a&gt; +16, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +5
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;h3 class=&quot;separator&quot;&gt; &lt;a class=&quot;headeranchor&quot; id=&quot;_2&quot; href=&quot;#_2&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;&#201;l&#233;mentaire de l&#39;Eau de taille G&lt;div style=&quot;float:right;&quot;&gt;FP 5&lt;/div&gt;&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Bestiaire p.124&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 1.600
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Ext&#233;rieur.html&quot; title=&quot;Ext&#233;rieur&quot;&gt;Ext&#233;rieur&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Eau.html&quot; title=&quot;Eau (sous-type)&quot;&gt;Eau&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-&#201;l&#233;mentaire.html&quot; title=&quot;&#201;l&#233;mentaire (sous-type)&quot;&gt;&#233;l&#233;mentaire&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Extraplanaire.html&quot; title=&quot;Extraplanaire (sous-type)&quot;&gt;extraplanaire&lt;/a&gt;) de taille G, N
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +2 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Capacit&#233;s-Sp&#233;ciales.html#VISIONDANSLENOIR&quot; title=&quot;vision dans le noir&quot;&gt;vision dans le noir&lt;/a&gt; 18 m (12 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +9
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 18, contact 12, pris au d&#233;pourvu 15 (Dex +2, esquive +1, naturelle +6, taille -1)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 68 (8d10+24)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +8, &lt;b&gt;Vig&lt;/b&gt; +9, &lt;b&gt;Vol&lt;/b&gt; +2
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Immunit&#233;s&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-&#201;l&#233;mentaire.html&quot; title=&quot;&#201;l&#233;mentaire (sous-type)&quot;&gt;traits des &#233;l&#233;mentaires&lt;/a&gt; ; &lt;b&gt;RD&lt;/b&gt; 5/— 
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 6 m (4 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), nage 27 m (18 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; 2 coups, +12 (1d8+5)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Espace&lt;/b&gt; 3 m (2 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) ; &lt;b&gt;Allonge&lt;/b&gt; 3 m (2 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaques sp&#233;ciales&lt;/b&gt; extinction des feux, ma&#238;trise de l&#39;Eau, vortex (DD 19)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 20, &lt;b&gt;Dex&lt;/b&gt; 14, &lt;b&gt;Con&lt;/b&gt; 17, &lt;b&gt;Int&lt;/b&gt; 6, &lt;b&gt;Sag&lt;/b&gt; 11, &lt;b&gt;Cha&lt;/b&gt; 11
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +8, &lt;b&gt;BMO&lt;/b&gt; +14, &lt;b&gt;DMD&lt;/b&gt; 27
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Attaque-En-Puissance.html&quot; title=&quot;Attaque en puissance&quot;&gt;Attaque en puissance&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Encha&#238;nement.html&quot; title=&quot;Encha&#238;nement&quot;&gt;Encha&#238;nement&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Esquive.html&quot; title=&quot;Esquive&quot;&gt;Esquive&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Succession-Dencha&#238;nements.html&quot; title=&quot;Succession d&amp;#39;encha&#238;nements&quot;&gt;Succession d&#39;encha&#238;nements&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Acrobaties.html&quot; title=&quot;Acrobaties&quot;&gt;Acrobaties&lt;/a&gt; +9, &lt;a class=&quot;pagelink&quot; href=&quot;Connaissances.html&quot; title=&quot;Connaissances&quot;&gt;Connaissances&lt;/a&gt; (plans) +5, &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; +5, &lt;a class=&quot;pagelink&quot; href=&quot;&#201;vasion.html&quot; title=&quot;&#201;vasion&quot;&gt;&#201;vasion&lt;/a&gt; +11, &lt;a class=&quot;pagelink&quot; href=&quot;Natation.html&quot; title=&quot;Natation&quot;&gt;Natation&lt;/a&gt; +24, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +9
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;h3 class=&quot;separator&quot;&gt; &lt;a class=&quot;headeranchor&quot; id=&quot;_3&quot; href=&quot;#_3&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;&#201;l&#233;mentaire de l&#39;Eau de taille TG&lt;div style=&quot;float:right;&quot;&gt;FP 7&lt;/div&gt;&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Bestiaire p.124&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 3.200
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Ext&#233;rieur.html&quot; title=&quot;Ext&#233;rieur&quot;&gt;Ext&#233;rieur&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Eau.html&quot; title=&quot;Eau (sous-type)&quot;&gt;Eau&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-&#201;l&#233;mentaire.html&quot; title=&quot;&#201;l&#233;mentaire (sous-type)&quot;&gt;&#233;l&#233;mentaire&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Extraplanaire.html&quot; title=&quot;Extraplanaire (sous-type)&quot;&gt;extraplanaire&lt;/a&gt;) de taille TG, N
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +4 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Capacit&#233;s-Sp&#233;ciales.html#VISIONDANSLENOIR&quot; title=&quot;vision dans le noir&quot;&gt;vision dans le noir&lt;/a&gt; 18 m (12 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +13
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 21, contact 13, pris au d&#233;pourvu 16 (Dex +4, esquive +1, naturelle +8, taille -2)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 95 (10d10+40)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +11, &lt;b&gt;Vig&lt;/b&gt; +11, &lt;b&gt;Vol&lt;/b&gt; +3
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Immunit&#233;s&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-&#201;l&#233;mentaire.html&quot; title=&quot;&#201;l&#233;mentaire (sous-type)&quot;&gt;traits des &#233;l&#233;mentaires&lt;/a&gt; ; &lt;b&gt;RD&lt;/b&gt; 5/— 
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 6 m (4 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), nage 27 m (28 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; 2 coups, +15 (2d6+7)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Espace&lt;/b&gt; 4,50 m (3 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) ; &lt;b&gt;Allonge&lt;/b&gt; 4,50 m (3 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaques sp&#233;ciales&lt;/b&gt; extinction des feux, ma&#238;trise de l&#39;Eau, vortex (DD 22)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 24, &lt;b&gt;Dex&lt;/b&gt; 18, &lt;b&gt;Con&lt;/b&gt; 19, &lt;b&gt;Int&lt;/b&gt; 6, &lt;b&gt;Sag&lt;/b&gt; 11, &lt;b&gt;Cha&lt;/b&gt; 11
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +10, &lt;b&gt;BMO&lt;/b&gt; +19, &lt;b&gt;DMD&lt;/b&gt; 34
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Attaque-En-Puissance.html&quot; title=&quot;Attaque en puissance&quot;&gt;Attaque en puissance&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Encha&#238;nement.html&quot; title=&quot;Encha&#238;nement&quot;&gt;Encha&#238;nement&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Esquive.html&quot; title=&quot;Esquive&quot;&gt;Esquive&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Science-De-La-Bousculade.html&quot; title=&quot;Science de la bousculade&quot;&gt;Science de la bousculade&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Succession-Dencha&#238;nements.html&quot; title=&quot;Succession d&amp;#39;encha&#238;nements&quot;&gt;Succession d&#39;encha&#238;nements&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Acrobaties.html&quot; title=&quot;Acrobaties&quot;&gt;Acrobaties&lt;/a&gt; +11, &lt;a class=&quot;pagelink&quot; href=&quot;Connaissances.html&quot; title=&quot;Connaissances&quot;&gt;Connaissances&lt;/a&gt; (plans) +7, &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; +3, &lt;a class=&quot;pagelink&quot; href=&quot;&#201;vasion.html&quot; title=&quot;&#201;vasion&quot;&gt;&#201;vasion&lt;/a&gt; +15, &lt;a class=&quot;pagelink&quot; href=&quot;Natation.html&quot; title=&quot;Natation&quot;&gt;Natation&lt;/a&gt; +26, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +13
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;h3 class=&quot;separator&quot;&gt; &lt;a class=&quot;headeranchor&quot; id=&quot;_4&quot; href=&quot;#_4&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;&#201;l&#233;mentaire de l&#39;Eau noble&lt;div style=&quot;float:right;&quot;&gt;FP 9&lt;/div&gt;&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Bestiaire p.125&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Ext&#233;rieur.html&quot; title=&quot;Ext&#233;rieur&quot;&gt;Ext&#233;rieur&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Eau.html&quot; title=&quot;Eau (sous-type)&quot;&gt;Eau&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-&#201;l&#233;mentaire.html&quot; title=&quot;&#201;l&#233;mentaire (sous-type)&quot;&gt;&#233;l&#233;mentaire&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Extraplanaire.html&quot; title=&quot;Extraplanaire (sous-type)&quot;&gt;extraplanaire&lt;/a&gt;) de taille TG, N
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Capacit&#233;s-Sp&#233;ciales.html#VISIONDANSLENOIR&quot; title=&quot;vision dans le noir&quot;&gt;vision dans le noir&lt;/a&gt; 18 m (12 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +16
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 23, contact 14, pris au d&#233;pourvu 17 (Dex +5, esquive +1, naturelle 9, taille -2)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 123 (13d10+52)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +15, &lt;b&gt;Vig&lt;/b&gt; +12, &lt;b&gt;Vol&lt;/b&gt; +4
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Immunit&#233;s&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-&#201;l&#233;mentaire.html&quot; title=&quot;&#201;l&#233;mentaire (sous-type)&quot;&gt;traits des &#233;l&#233;mentaires&lt;/a&gt; ; &lt;b&gt;RD&lt;/b&gt; 10/— 
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 6 m (4 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), nage 27 m (18 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; 2 coups, +20 (2d8+9)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Espace&lt;/b&gt; 4,50 m (3 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) ; &lt;b&gt;Allonge&lt;/b&gt; 4,50 m (3 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaques sp&#233;ciales&lt;/b&gt; extinction des feux, ma&#238;trise de l&#39;Eau, vortex (DD 25)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 28, &lt;b&gt;Dex&lt;/b&gt; 20, &lt;b&gt;Con&lt;/b&gt; 19, &lt;b&gt;Int&lt;/b&gt; 8, &lt;b&gt;Sag&lt;/b&gt; 11, &lt;b&gt;Cha&lt;/b&gt; 11
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +13, &lt;b&gt;BMO&lt;/b&gt; +24, &lt;b&gt;DMD&lt;/b&gt; 40
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Attaque-En-Puissance.html&quot; title=&quot;Attaque en puissance&quot;&gt;Attaque en puissance&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Encha&#238;nement.html&quot; title=&quot;Encha&#238;nement&quot;&gt;Encha&#238;nement&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Esquive.html&quot; title=&quot;Esquive&quot;&gt;Esquive&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;R&#233;flexes-Surhumains.html&quot; title=&quot;R&#233;flexes surhumains&quot;&gt;R&#233;flexes surhumains&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Science-De-La-Bousculade.html&quot; title=&quot;Science de la bousculade&quot;&gt;Science de la bousculade&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Science-De-La-Destruction.html&quot; title=&quot;Science de la destruction&quot;&gt;Science de la destruction&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Succession-Dencha&#238;nements.html&quot; title=&quot;Succession d&amp;#39;encha&#238;nements&quot;&gt;Succession d&#39;encha&#238;nements&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Acrobaties.html&quot; title=&quot;Acrobaties&quot;&gt;Acrobaties&lt;/a&gt; +18, &lt;a class=&quot;pagelink&quot; href=&quot;Connaissances.html&quot; title=&quot;Connaissances&quot;&gt;Connaissances&lt;/a&gt; (plans) +12, &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; +10, &lt;a class=&quot;pagelink&quot; href=&quot;&#201;vasion.html&quot; title=&quot;&#201;vasion&quot;&gt;&#201;vasion&lt;/a&gt; +20, &lt;a class=&quot;pagelink&quot; href=&quot;Natation.html&quot; title=&quot;Natation&quot;&gt;Natation&lt;/a&gt; +30, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +16
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;h3 class=&quot;separator&quot;&gt; &lt;a class=&quot;headeranchor&quot; id=&quot;_5&quot; href=&quot;#_5&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Seigneur &#233;l&#233;mentaire de l&#39;Eau&lt;div style=&quot;float:right;&quot;&gt;FP 11&lt;/div&gt;&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Bestiaire p.125&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 12.800
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Ext&#233;rieur.html&quot; title=&quot;Ext&#233;rieur&quot;&gt;Ext&#233;rieur&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Eau.html&quot; title=&quot;Eau (sous-type)&quot;&gt;Eau&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-&#201;l&#233;mentaire.html&quot; title=&quot;&#201;l&#233;mentaire (sous-type)&quot;&gt;&#233;l&#233;mentaire&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Extraplanaire.html&quot; title=&quot;Extraplanaire (sous-type)&quot;&gt;extraplanaire&lt;/a&gt;) de taille TG, N
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +6 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Capacit&#233;s-Sp&#233;ciales.html#VISIONDANSLENOIR&quot; title=&quot;vision dans le noir&quot;&gt;vision dans le noir&lt;/a&gt; 18 m (12 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +19
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 24, contact 15, pris au d&#233;pourvu 17 (Dex +6, esquive +1, naturelle +9, taille -2)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 152 (16d10+64)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +18, &lt;b&gt;Vig&lt;/b&gt; +14, &lt;b&gt;Vol&lt;/b&gt; +5
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Immunit&#233;s&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-&#201;l&#233;mentaire.html&quot; title=&quot;&#201;l&#233;mentaire (sous-type)&quot;&gt;traits des &#233;l&#233;mentaires&lt;/a&gt; ; &lt;b&gt;RD&lt;/b&gt; 10/— 
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 6 m (4 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), nage 27 m (18 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; 2 coups, +24 (2d10+10/19-20)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Espace&lt;/b&gt; 4,50 m (3 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) ; &lt;b&gt;Allonge&lt;/b&gt; 4,50 m (3 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaques sp&#233;ciales&lt;/b&gt; extinction des feux, ma&#238;trise de l&#39;Eau, vortex (DD 28)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 30, &lt;b&gt;Dex&lt;/b&gt; 22, &lt;b&gt;Con&lt;/b&gt; 19, &lt;b&gt;Int&lt;/b&gt; 10, &lt;b&gt;Sag&lt;/b&gt; 11, &lt;b&gt;Cha&lt;/b&gt; 11
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +16, &lt;b&gt;BMO&lt;/b&gt; +28, &lt;b&gt;DMD&lt;/b&gt; 45
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Attaque-En-Puissance.html&quot; title=&quot;Attaque en puissance&quot;&gt;Attaque en puissance&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Encha&#238;nement.html&quot; title=&quot;Encha&#238;nement&quot;&gt;Encha&#238;nement&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Esquive.html&quot; title=&quot;Esquive&quot;&gt;Esquive&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;R&#233;flexes-Surhumains.html&quot; title=&quot;R&#233;flexes surhumains&quot;&gt;R&#233;flexes surhumains&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Science-De-La-Bousculade.html&quot; title=&quot;Science de la bousculade&quot;&gt;Science de la bousculade&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Science-De-La-Destruction.html&quot; title=&quot;Science de la destruction&quot;&gt;Science de la destruction&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Science-Du-Critique.html&quot; title=&quot;Science du critique&quot;&gt;Science du critique&lt;/a&gt; (coup), &lt;a class=&quot;pagelink&quot; href=&quot;Succession-Dencha&#238;nements.html&quot; title=&quot;Succession d&amp;#39;encha&#238;nements&quot;&gt;Succession d&#39;encha&#238;nements&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Acrobaties.html&quot; title=&quot;Acrobaties&quot;&gt;Acrobaties&lt;/a&gt; +25, &lt;a class=&quot;pagelink&quot; href=&quot;Connaissances.html&quot; title=&quot;Connaissances&quot;&gt;Connaissances&lt;/a&gt; (plans) +19, &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; +17, &lt;a class=&quot;pagelink&quot; href=&quot;&#201;vasion.html&quot; title=&quot;&#201;vasion&quot;&gt;&#201;vasion&lt;/a&gt; +25, &lt;a class=&quot;pagelink&quot; href=&quot;Natation.html&quot; title=&quot;Natation&quot;&gt;Natation&lt;/a&gt; +37, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +19
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;td&gt;&lt;div&gt;&lt;i&gt;Cette cr&#233;ature translucide prend tour &#224; tour l’apparence d’une colonne d’eau tournoyante et celle d’une vague pr&#234;te &#224; s’abattre.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Les &#233;l&#233;mentaires de l’Eau sont des cr&#233;atures patientes et opini&#226;tres
+faites d’eau douce ou d’eau sal&#233;e. Ils pr&#233;f&#232;rent se cacher dans l’eau
+ou y emmener leurs adversaires afin de prendre l’avantage sur eux.
+&#192; l’instar des autres &#233;l&#233;mentaires, les &#233;l&#233;mentaires de l’Eau
+poss&#232;dent chacun leur propre forme et leur propre apparence.&lt;br /&gt;&lt;br /&gt;La plupart d’entre eux se montrent sous la forme de cr&#233;atures
+ressemblant &#224; des vagues sculpt&#233;es de visages vaguement humano&#239;des
+et de vagues-bras plus petits de part et d’autre. Ils prennent aussi
+fr&#233;quemment l’apparence de cr&#233;atures aquatiques qui seraient
+constitu&#233;es exclusivement d’eau, comme des requins ou des pieuvres.&lt;br /&gt;&lt;br /&gt;&lt;center&gt;
+&lt;table CLASS=&quot;tablo&quot;&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td&gt;&#201;l&#233;mentaire&lt;/td&gt;&lt;td&gt;Taille&lt;/td&gt;&lt;td&gt;Poids&lt;/td&gt;&lt;td&gt;DD du vortex&lt;/td&gt;&lt;td&gt;Hauteur du vortex&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier&quot;*&gt;&lt;td&gt;Petit&lt;/td&gt;&lt;td&gt;1,20 m&lt;/td&gt;&lt;td&gt;17 kg&lt;/td&gt;&lt;td&gt;13&lt;/td&gt;&lt;td&gt;3-6 m&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;Moyen&lt;/td&gt;&lt;td&gt;2,40 m&lt;/td&gt;&lt;td&gt;140 kg&lt;/td&gt;&lt;td&gt;15&lt;/td&gt;&lt;td&gt;3–9 m&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Grand&lt;/td&gt;&lt;td&gt;4,20 m&lt;/td&gt;&lt;td&gt;1 125 kg&lt;/td&gt;&lt;td&gt;19&lt;/td&gt;&lt;td&gt;3–12 m&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;Tr&#232;s Grand&lt;/td&gt;&lt;td&gt;9,60 m&lt;/td&gt;&lt;td&gt;9 000 kg&lt;/td&gt;&lt;td&gt;22&lt;/td&gt;&lt;td&gt;3-15 m&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Noble&lt;/td&gt;&lt;td&gt;10,80 m&lt;/td&gt;&lt;td&gt;10 500 kg&lt;/td&gt;&lt;td&gt;25&lt;/td&gt;&lt;td&gt;3–18 m&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Seigneur&lt;/td&gt;&lt;td&gt;12 m&lt;/td&gt;&lt;td&gt;12 000 kg&lt;/td&gt;&lt;td&gt;28&lt;/td&gt;&lt;td&gt;3–18 m&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;&lt;br /&gt;&lt;br /&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Élémentaire de l'Eau|}
+{s:pucem|Extérieur|Aquatique|Extraplanaire}
+{s:BDTexte|'''Langues''' aquatique}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' quelconque (plan de l'Eau)}
+{s:BDTexte|'''Organisation sociale''' solitaire, couple ou bande (3-8)}
+{s:BDTexte|'''Trésor''' aucun}
+{s:BDSousTitre|Capacités spéciales}
+{s:BDTexte|'''Extinction des feux (Ext).''' D'un simple contact, l'élémentaire peut éteindre les feux non magiques de taille inférieure ou égale à G. Il peut dissiper les feux magiques qu'il touche comme s'il utilisait une ''[[dissipation de la magie]]'' (avec un [[NLS]] égal à son nombre de [[DV]]).}
+{s:BDTexte|'''Maîtrise de l'Eau (Ext).''' Un élémentaire de l'Eau gagne un bonus de +1 aux [[jet dattaque|jets d'attaque]] et de dégâts si lui et son adversaire sont en contact avec de l'eau. Si lélementaire ou son adversaire touche le sol, il subit un malus de -4 aux [[jet dattaque|jets d'attaque]] et de dégâts. Ces modificateurs s'appliquent également lors des manœuvres de [[bousculade]] et de [[renversement]], que l'élementaire en soit l'initiateur ou pas. Ces modificateurs ne sont pas comptés dans les profils qui suivent.}
+{s:BDTexte|'''Vortex (Sur).''' Un élémentaire de l'Eau peut créer un [[tourbillon]] par une [[action simple]], à volonté. Cette capacité fonctionne comme l'attaque spéciale de [[tourbillon]] (voir la section correspondante) mais le [[tourbillon]] doit être créé dans l'eau et ne peut pas en sortir.}
+==== ====
+<div class="BD">
+{s:BDTitre|Élémentaire de l'Eau de taille P|FP 1}
+{s:pucem|Extérieur|Aquatique|Extraplanaire}
+{s:BDTexte|''Source : Bestiaire p.124''}
+{s:BDTexte|'''PX''' 400}
+{s:BDTexte|[[type Extérieur|Extérieur]] ([[sous-type Eau|Eau]], [[sous-type élémentaire|élémentaire]], [[sous-type extraplanaire|extraplanaire]]) de taille P, N}
+{s:BDTexte|'''Init''' +0 ; '''Sens''' [[vision dans le noir]] 18 m (12 {s:c}) ; [[Perception]] +4}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 17, contact 11, pris au dépourvu 17 (naturelle +6, taille +1)}
+{s:BDTexte|'''pv''' 13 (2d10+2)}
+{s:BDTexte|'''Réf''' +3, '''Vig''' +4, '''Vol''' +0}
+{s:BDTexte|'''Immunités''' [[sous-type élémentaire|traits des élémentaires]] }
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 6 m (4 {s:c}), nage 27 m (18 {s:c})}
+{s:BDTexte|'''Corps à corps''' coup, +5 (1d6+3)}
+{s:BDTexte|'''Attaques spéciales''' extinction des feux, maîtrise de l'Eau, vortex (DD 13)}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 14, '''Dex''' 10, '''Con''' 13, '''Int''' 4, '''Sag''' 11, '''Cha''' 11}
+{s:BDTexte|'''BBA''' +2, '''BMO''' +3, '''DMD''' 13}
+{s:BDTexte|'''Dons''' [[Attaque en puissance]]}
+{s:BDTexte|'''Compétences''' [[Acrobaties]] +4, [[Connaissances]] (plans) +1, [[Discrétion]] +8, [[Évasion]] +4, [[Natation]] +14, [[Perception]] +4}
+</div>
+==== ====
+<div class="BD">
+{s:BDTitre|Élémentaire de l'Eau de taille M|FP 3}
+{s:pucem|Extérieur|Aquatique|Extraplanaire}
+{s:BDTexte|''Source : Bestiaire p.124''}
+{s:BDTexte|'''PX''' 800}
+{s:BDTexte|[[type Extérieur|Extérieur]] ([[sous-type Eau|Eau]], [[sous-type élémentaire|élémentaire]], [[sous-type extraplanaire|extraplanaire]]) de taille M, N}
+{s:BDTexte|'''Init''' +1 ; '''Sens''' [[vision dans le noir]] 18 m (12 {s:c}) ; [[Perception]] +5}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 16, contact 11, pris au dépourvu 17 (Dex +1, naturelle +6)}
+{s:BDTexte|'''pv''' 30 (4d10+8)}
+{s:BDTexte|'''Réf''' +5, '''Vig''' +6, '''Vol''' +1}
+{s:BDTexte|'''Immunités''' [[sous-type élémentaire|traits des élémentaires]] }
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 6 m (4 {s:c}), nage 27 m (18 {s:c})}
+{s:BDTexte|'''Corps à corps''' coup, +7 (1d8+4)}
+{s:BDTexte|'''Attaques spéciales''' extinction des feux, maîtrise de l'Eau, vortex (DD 15)}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 16, '''Dex''' 12, '''Con''' 15, '''Int''' 4, '''Sag''' 11, '''Cha''' 11}
+{s:BDTexte|'''BBA''' +4, '''BMO''' +7, '''DMD''' 18}
+{s:BDTexte|'''Dons''' [[Attaque en puissance]], [[Enchaînement]]}
+{s:BDTexte|'''Compétences''' [[Acrobaties]] +6, [[Connaissances]] (plans) +2, [[Discrétion]] +6, [[Évasion]] +6, [[Natation]] +16, [[Perception]] +5}
+</div>
+==== ====
+<div class="BD">
+{s:BDTitre|Élémentaire de l'Eau de taille G|FP 5}
+{s:pucem|Extérieur|Aquatique|Extraplanaire}
+{s:BDTexte|''Source : Bestiaire p.124''}
+{s:BDTexte|'''PX''' 1.600}
+{s:BDTexte|[[type Extérieur|Extérieur]] ([[sous-type Eau|Eau]], [[sous-type élémentaire|élémentaire]], [[sous-type extraplanaire|extraplanaire]]) de taille G, N}
+{s:BDTexte|'''Init''' +2 ; '''Sens''' [[vision dans le noir]] 18 m (12 {s:c}) ; [[Perception]] +9}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 18, contact 12, pris au dépourvu 15 (Dex +2, esquive +1, naturelle +6, taille -1)}
+{s:BDTexte|'''pv''' 68 (8d10+24)}
+{s:BDTexte|'''Réf''' +8, '''Vig''' +9, '''Vol''' +2}
+{s:BDTexte|'''Immunités''' [[sous-type élémentaire|traits des élémentaires]] ; '''RD''' 5/— }
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 6 m (4 {s:c}), nage 27 m (18 {s:c})}
+{s:BDTexte|'''Corps à corps''' 2 coups, +12 (1d8+5)}
+{s:BDTexte|'''Espace''' 3 m (2 {s:c}) ; '''Allonge''' 3 m (2 {s:c})}
+{s:BDTexte|'''Attaques spéciales''' extinction des feux, maîtrise de l'Eau, vortex (DD 19)}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 20, '''Dex''' 14, '''Con''' 17, '''Int''' 6, '''Sag''' 11, '''Cha''' 11}
+{s:BDTexte|'''BBA''' +8, '''BMO''' +14, '''DMD''' 27}
+{s:BDTexte|'''Dons''' [[Attaque en puissance]], [[Enchaînement]], [[Esquive]], [[Succession denchaînements|Succession d'enchaînements]]}
+{s:BDTexte|'''Compétences''' [[Acrobaties]] +9, [[Connaissances]] (plans) +5, [[Discrétion]] +5, [[Évasion]] +11, [[Natation]] +24, [[Perception]] +9}
+</div>
+==== ====
+<div class="BD">
+{s:BDTitre|Élémentaire de l'Eau de taille TG|FP 7}
+{s:pucem|Extérieur|Aquatique|Extraplanaire}
+{s:BDTexte|''Source : Bestiaire p.124''}
+{s:BDTexte|'''PX''' 3.200}
+{s:BDTexte|[[type Extérieur|Extérieur]] ([[sous-type Eau|Eau]], [[sous-type élémentaire|élémentaire]], [[sous-type extraplanaire|extraplanaire]]) de taille TG, N}
+{s:BDTexte|'''Init''' +4 ; '''Sens''' [[vision dans le noir]] 18 m (12 {s:c}) ; [[Perception]] +13}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 21, contact 13, pris au dépourvu 16 (Dex +4, esquive +1, naturelle +8, taille -2)}
+{s:BDTexte|'''pv''' 95 (10d10+40)}
+{s:BDTexte|'''Réf''' +11, '''Vig''' +11, '''Vol''' +3}
+{s:BDTexte|'''Immunités''' [[sous-type élémentaire|traits des élémentaires]] ; '''RD''' 5/— }
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 6 m (4 {s:c}), nage 27 m (28 {s:c})}
+{s:BDTexte|'''Corps à corps''' 2 coups, +15 (2d6+7)}
+{s:BDTexte|'''Espace''' 4,50 m (3 {s:c}) ; '''Allonge''' 4,50 m (3 {s:c})}
+{s:BDTexte|'''Attaques spéciales''' extinction des feux, maîtrise de l'Eau, vortex (DD 22)}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 24, '''Dex''' 18, '''Con''' 19, '''Int''' 6, '''Sag''' 11, '''Cha''' 11}
+{s:BDTexte|'''BBA''' +10, '''BMO''' +19, '''DMD''' 34}
+{s:BDTexte|'''Dons''' [[Attaque en puissance]], [[Enchaînement]], [[Esquive]], [[Science de la bousculade]], [[Succession denchaînements|Succession d'enchaînements]]}
+{s:BDTexte|'''Compétences''' [[Acrobaties]] +11, [[Connaissances]] (plans) +7, [[Discrétion]] +3, [[Évasion]] +15, [[Natation]] +26, [[Perception]] +13}
+</div>
+==== ====
+<div class="BD">
+{s:BDTitre|Élémentaire de l'Eau noble|FP 9}
+{s:pucem|Extérieur|Aquatique|Extraplanaire}
+{s:BDTexte|''Source : Bestiaire p.125''}
+{s:BDTexte|'''PX''' }
+{s:BDTexte|[[type Extérieur|Extérieur]] ([[sous-type Eau|Eau]], [[sous-type élémentaire|élémentaire]], [[sous-type extraplanaire|extraplanaire]]) de taille TG, N}
+{s:BDTexte|'''Init''' ; '''Sens''' [[vision dans le noir]] 18 m (12 {s:c}) ; [[Perception]] +16}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 23, contact 14, pris au dépourvu 17 (Dex +5, esquive +1, naturelle 9, taille -2)}
+{s:BDTexte|'''pv''' 123 (13d10+52)}
+{s:BDTexte|'''Réf''' +15, '''Vig''' +12, '''Vol''' +4}
+{s:BDTexte|'''Immunités''' [[sous-type élémentaire|traits des élémentaires]] ; '''RD''' 10/— }
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 6 m (4 {s:c}), nage 27 m (18 {s:c})}
+{s:BDTexte|'''Corps à corps''' 2 coups, +20 (2d8+9)}
+{s:BDTexte|'''Espace''' 4,50 m (3 {s:c}) ; '''Allonge''' 4,50 m (3 {s:c})}
+{s:BDTexte|'''Attaques spéciales''' extinction des feux, maîtrise de l'Eau, vortex (DD 25)}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 28, '''Dex''' 20, '''Con''' 19, '''Int''' 8, '''Sag''' 11, '''Cha''' 11}
+{s:BDTexte|'''BBA''' +13, '''BMO''' +24, '''DMD''' 40}
+{s:BDTexte|'''Dons''' [[Attaque en puissance]], [[Enchaînement]], [[Esquive]], [[Réflexes surhumains]], [[Science de la bousculade]], [[Science de la destruction]], [[Succession denchaînements|Succession d'enchaînements]]}
+{s:BDTexte|'''Compétences''' [[Acrobaties]] +18, [[Connaissances]] (plans) +12, [[Discrétion]] +10, [[Évasion]] +20, [[Natation]] +30, [[Perception]] +16}
+</div>
+==== ====
+<div class="BD">
+{s:BDTitre|Seigneur élémentaire de l'Eau|FP 11}
+{s:pucem|Extérieur|Aquatique|Extraplanaire}
+{s:BDTexte|''Source : Bestiaire p.125''}
+{s:BDTexte|'''PX''' 12.800}
+{s:BDTexte|[[type Extérieur|Extérieur]] ([[sous-type Eau|Eau]], [[sous-type élémentaire|élémentaire]], [[sous-type extraplanaire|extraplanaire]]) de taille TG, N}
+{s:BDTexte|'''Init''' +6 ; '''Sens''' [[vision dans le noir]] 18 m (12 {s:c}) ; [[Perception]] +19}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 24, contact 15, pris au dépourvu 17 (Dex +6, esquive +1, naturelle +9, taille -2)}
+{s:BDTexte|'''pv''' 152 (16d10+64)}
+{s:BDTexte|'''Réf''' +18, '''Vig''' +14, '''Vol''' +5}
+{s:BDTexte|'''Immunités''' [[sous-type élémentaire|traits des élémentaires]] ; '''RD''' 10/— }
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 6 m (4 {s:c}), nage 27 m (18 {s:c})}
+{s:BDTexte|'''Corps à corps''' 2 coups, +24 (2d10+10/19-20)}
+{s:BDTexte|'''Espace''' 4,50 m (3 {s:c}) ; '''Allonge''' 4,50 m (3 {s:c})}
+{s:BDTexte|'''Attaques spéciales''' extinction des feux, maîtrise de l'Eau, vortex (DD 28)}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 30, '''Dex''' 22, '''Con''' 19, '''Int''' 10, '''Sag''' 11, '''Cha''' 11}
+{s:BDTexte|'''BBA''' +16, '''BMO''' +28, '''DMD''' 45}
+{s:BDTexte|'''Dons''' [[Attaque en puissance]], [[Enchaînement]], [[Esquive]], [[Réflexes surhumains]], [[Science de la bousculade]], [[Science de la destruction]], [[Science du critique]] (coup), [[Succession denchaînements|Succession d'enchaînements]]}
+{s:BDTexte|'''Compétences''' [[Acrobaties]] +25, [[Connaissances]] (plans) +19, [[Discrétion]] +17, [[Évasion]] +25, [[Natation]] +37, [[Perception]] +19}
+</div>
+</div>
+</td><td><div>''Cette créature translucide prend tour à tour l’apparence d’une colonne d’eau tournoyante et celle d’une vague prête à s’abattre.''
+
+Les élémentaires de l’Eau sont des créatures patientes et opiniâtres
+faites d’eau douce ou d’eau salée. Ils préfèrent se cacher dans l’eau
+ou y emmener leurs adversaires afin de prendre l’avantage sur eux.
+À l’instar des autres élémentaires, les élémentaires de l’Eau
+possèdent chacun leur propre forme et leur propre apparence.
+
+La plupart d’entre eux se montrent sous la forme de créatures
+ressemblant à des vagues sculptées de visages vaguement humanoïdes
+et de vagues-bras plus petits de part et d’autre. Ils prennent aussi
+fréquemment l’apparence de créatures aquatiques qui seraient
+constituées exclusivement d’eau, comme des requins ou des pieuvres.
+
+<center>
+{| CLASS="tablo"
+|- CLASS="titre"
+| Élémentaire || Taille || Poids || DD du vortex || Hauteur du vortex
+|- CLASS="premier"*
+| Petit || 1,20 m || 17 kg || 13 || 3-6 m
+|- CLASS="alt"
+| Moyen || 2,40 m || 140 kg || 15 || 3–9 m
+|-
+| Grand || 4,20 m || 1 125 kg || 19 || 3–12 m
+|- CLASS="alt"
+| Très Grand || 9,60 m || 9 000 kg || 22 || 3-15 m
+|-
+| Noble || 10,80 m || 10 500 kg || 25 || 3–18 m
+|-
+| Seigneur || 12 m || 12 000 kg || 28 || 3–18 m
+|}</center>
+
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Élémentaire de lEau</fullName>
+</wikiPage>

@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Bosquet reposant</title>
+  <categories><category>Pathfinder-RPG.Advanced Player Guide</category><category>Pathfinder-RPG.Règles officielles</category><category>Pathfinder-RPG.Sort</category><category>Pathfinder-RPG.Sort druide 4</category><category>Pathfinder-RPG.Sort rôdeur 4</category></categories>
+  <lastModified>2013-10-03 22:52:38Z</lastModified>
+  <version>1</version>
+  <inLinks><link>Pathfinder-RPG.Glossaire des sorts</link><link>Pathfinder-RPG.Liste des sorts</link><link>Pathfinder-RPG.Liste des sorts de druides</link><link>Pathfinder-RPG.Liste des sorts de rôdeurs</link><link>Pathfinder-RPG.Mystère de la nature</link><link>Pathfinder-RPG.TMP sorts APG</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Invocation</link><link>Pathfinder-RPG.branche création</link><link>Pathfinder-RPG.Druide</link><link>Pathfinder-RPG.Rôdeur</link><link>Pathfinder-RPG.composantes</link><link>Pathfinder-RPG.niveau</link><link>Pathfinder-RPG.sort Abri</link><link>Pathfinder-RPG.Baie nourricière</link></outLinks>
+  <body><![CDATA[
+&lt;b&gt;&#201;cole&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#INVOCATION&quot; title=&quot;Invocation&quot;&gt;Invocation&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#CREATION&quot; title=&quot;cr&#233;ation&quot;&gt;cr&#233;ation&lt;/a&gt;)&#160;;&lt;b&gt; Niveau&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Druide.html&quot; title=&quot;Le druide&quot;&gt;druide&lt;/a&gt; 4, &lt;a class=&quot;pagelink&quot; href=&quot;R&#244;deur.html&quot; title=&quot;Le r&#244;deur&quot;&gt;r&#244;deur&lt;/a&gt; 4&lt;br/&gt;
+&lt;b&gt;Temps d&#39;incantation&lt;/b&gt; 10 minutes&lt;br/&gt;
+&lt;b&gt;Composantes&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#COMPOSANTES&quot; title=&quot;composantes&quot;&gt;V, G, M/FD&lt;/a&gt; (une feuille ou un brin d&#39;herbe et une goutte d&#39;eau)&lt;br/&gt;
+&lt;b&gt;Port&#233;e&lt;/b&gt; courte (7,50 m + 1,50 m/2 &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#NIVEAU&quot; title=&quot;niveau&quot;&gt;niveaux&lt;/a&gt;) (5 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt; + 1 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;/2 &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#NIVEAU&quot; title=&quot;niveau&quot;&gt;niveaux&lt;/a&gt;)&lt;br/&gt;
+&lt;b&gt;Effet&lt;/b&gt; bosquet de 6 m (4 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) de rayon&lt;br/&gt;
+&lt;b&gt;Dur&#233;e&lt;/b&gt; 2 heures/&lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#NIVEAU&quot; title=&quot;niveau&quot;&gt;niveau&lt;/a&gt; (T)&lt;br/&gt;
+&lt;b&gt;Jet de sauvegarde&lt;/b&gt; aucun ; &lt;b&gt;R&#233;sistance &#224; la magie&lt;/b&gt; non&lt;br /&gt;&lt;br /&gt;Le personnage invoque un bosquet d&#39;arbres qui entourent une petite source. Le bosquet surgit de nulle part, m&#234;me sur le sol le plus aride et le plus rocailleux, quelle que soit la saison, mais il faut lancer le sort en ext&#233;rieur sur un terrain d&#233;gag&#233;.&lt;br /&gt;&lt;br /&gt;Dans le bosquet, le climat est temp&#233;r&#233; et agr&#233;able, comme dans un sort d&#39;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Sort-Abri.html&quot; title=&quot;Abri&quot;&gt;abri&lt;/a&gt;&lt;/i&gt; mais il ne fournit pas de lumi&#232;re et n&#39;offre aucune protection contre les &#233;l&#233;ments. L&#39;eau de la source est claire et potable. De plus, les arbres produisent toutes sortes de fruits bien m&#251;rs, quelle que soit la saison, ce qui &#233;quivaut &#224; un sort de &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Baie-Nourrici&#232;re.html&quot; title=&quot;Baie nourrici&#232;re&quot;&gt;baie nourrici&#232;re&lt;/a&gt;&lt;/i&gt; pour huit personnes. Quand le sort se termine, le bosquet dispara&#238;t, ainsi que les fruits, l&#39;eau et tout ce qui en est issu mais les effets de la nourriture absorb&#233;e et de la gu&#233;rison persistent.
+]]></body>
+  <raw><![CDATA[{s:APG}
+'''École''' [[Invocation]] ([[branche création|création]]) ;''' Niveau''' [[druide]] 4, [[rôdeur]] 4<br/>
+'''Temps d'incantation''' 10 minutes<br/>
+'''Composantes''' [[Composantes|V, G, M/FD]] (une feuille ou un brin d'herbe et une goutte d'eau)<br/>
+'''Portée''' courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])<br/>
+'''Effet''' bosquet de 6 m (4 {s:c}) de rayon<br/>
+'''Durée''' 2 heures/[[niveau]] (T)<br/>
+'''Jet de sauvegarde''' aucun ; '''Résistance à la magie''' non
+
+Le personnage invoque un bosquet d'arbres qui entourent une petite source. Le bosquet surgit de nulle part, même sur le sol le plus aride et le plus rocailleux, quelle que soit la saison, mais il faut lancer le sort en extérieur sur un terrain dégagé.
+
+Dans le bosquet, le climat est tempéré et agréable, comme dans un sort d<nowiki>'</nowiki>''[[sort abri|abri]]'' mais il ne fournit pas de lumière et n'offre aucune protection contre les éléments. L'eau de la source est claire et potable. De plus, les arbres produisent toutes sortes de fruits bien mûrs, quelle que soit la saison, ce qui équivaut à un sort de ''[[baie nourricière]]'' pour huit personnes. Quand le sort se termine, le bosquet disparaît, ainsi que les fruits, l'eau et tout ce qui en est issu mais les effets de la nourriture absorbée et de la guérison persistent.
+]]></raw>
+  <fullName>Pathfinder-RPG.Bosquet reposant</fullName>
+</wikiPage>

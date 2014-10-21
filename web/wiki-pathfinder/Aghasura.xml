@@ -1,0 +1,161 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Aghasura</title>
+  <categories><category>Pathfinder-RPG.Bestiaire 3</category><category>Pathfinder-RPG.Monstre</category><category>Pathfinder-RPG.Règles officielles</category></categories>
+  <lastModified>2013-08-28 12:39:18Z</lastModified>
+  <version>4</version>
+  <inLinks><link>Pathfinder-RPG.Glossaire des monstres</link><link>Pathfinder-RPG.Liste de monstres par FP</link><link>Pathfinder-RPG.Liste de monstres par milieu naturel</link><link>Pathfinder-RPG.Liste de monstres par type</link><link>Pathfinder-RPG.Monstres</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.type Extérieur</link><link>Pathfinder-RPG.sous-type asura</link><link>Pathfinder-RPG.sous-type extraplanaire</link><link>Pathfinder-RPG.sous-type Loi</link><link>Pathfinder-RPG.sous-type Mal</link><link>Pathfinder-RPG.odorat</link><link>Pathfinder-RPG.vision dans le noir</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Régénération</link><link>Pathfinder-RPG.poison</link><link>Pathfinder-RPG.Étreinte</link><link>Pathfinder-RPG.Engloutissement</link><link>Pathfinder-RPG.Téléportation suprême</link><link>Pathfinder-RPG.Ténèbres profondes</link><link>Pathfinder-RPG.Brume mortelle</link><link>Pathfinder-RPG.convocation</link><link>Pathfinder-RPG.Arme de prédilection</link><link>Pathfinder-RPG.Attaque en puissance</link><link>Pathfinder-RPG.Don pour les critiques</link><link>Pathfinder-RPG.Enchaînement</link><link>Pathfinder-RPG.Réflexes surhumains</link><link>Pathfinder-RPG.Science du critique</link><link>Pathfinder-RPG.Succession denchaînements</link><link>Pathfinder-RPG.Acrobaties</link><link>Pathfinder-RPG.Bluff</link><link>Pathfinder-RPG.Connaissances</link><link>Pathfinder-RPG.Discrétion</link><link>Pathfinder-RPG.Évasion</link><link>Pathfinder-RPG.Intimidation</link><link>Pathfinder-RPG.Natation</link><link>Pathfinder-RPG.Psychologie</link><link>Pathfinder-RPG.Télépathie</link><link>Pathfinder-RPG.Volonté</link><link>Pathfinder-RPG.Vigueur</link><link>Pathfinder-RPG.Constitution</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Aghasura (Asura)&lt;div style=&quot;float:right;&quot;&gt;FP 11&lt;/div&gt;&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Bestiaire 3 page 20&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 12 800
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Ext&#233;rieur.html&quot; title=&quot;Ext&#233;rieur&quot;&gt;Ext&#233;rieur&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Asura.html&quot; title=&quot;Asura (sous-type)&quot;&gt;asura&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Extraplanaire.html&quot; title=&quot;Extraplanaire (sous-type)&quot;&gt;extraplanaire&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Loi.html&quot; title=&quot;Loi (sous-type)&quot;&gt;Loi&lt;/a&gt;), &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Mal.html&quot; title=&quot;Mal (sous-type)&quot;&gt;Mal&lt;/a&gt;) de taille TG, LM
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +3 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Odorat-(Capacit&#233;).html&quot; title=&quot;odorat&quot;&gt;odorat&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Capacit&#233;s-Sp&#233;ciales.html#VISIONDANSLENOIR&quot; title=&quot;vision dans le noir&quot;&gt;vision dans le noir&lt;/a&gt; &#224; 12 cases ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +19
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Aura &lt;/b&gt; attraction (10 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), insaisissable (15 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 23, contact 11, pris au d&#233;pourvu 20 (armure +6, Dex +3, naturelle +6, taille -2)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 161 (14d10+84) ; &lt;a class=&quot;pagelink&quot; href=&quot;R&#233;g&#233;n&#233;ration.html&quot; title=&quot;R&#233;g&#233;n&#233;ration&quot;&gt;r&#233;g&#233;n&#233;ration&lt;/a&gt; 5 (armes du Bien, sorts du Bien)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +9, &lt;b&gt;Vig&lt;/b&gt; +15, &lt;b&gt;Vol&lt;/b&gt; +11 ; +2 contre les sorts d’enchantement
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;RD&lt;/b&gt; 10/Bien ; &lt;b&gt;Immunit&#233;&lt;/b&gt; effets des mal&#233;dictions, maladie, poison ; &lt;b&gt;R&#233;sistance&lt;/b&gt; acide 10, &#233;lectricit&#233; 10 ; &lt;b&gt;RM&lt;/b&gt; 22
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 10,5 m (7 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), nage 6 m (4 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; 2 cimeterres de ma&#238;tre, +26 (2d6+12/15-20 plus &lt;a class=&quot;pagelink&quot; href=&quot;Poisons.html&quot; title=&quot;poison&quot;&gt;poison&lt;/a&gt;) et morsure, +19 (2d8+6 plus &lt;a class=&quot;pagelink&quot; href=&quot;&#201;treinte-(Capacit&#233;).html&quot; title=&quot;&#201;treinte&quot;&gt;&#233;treinte&lt;/a&gt; et &lt;a class=&quot;pagelink&quot; href=&quot;Poisons.html&quot; title=&quot;poison&quot;&gt;poison&lt;/a&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Espace occup&#233;&lt;/b&gt; 4,5 m (3 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) ;  Allonge 4,5 m (3 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaque sp&#233;ciale&lt;/b&gt; ambidextrie, armes enchant&#233;es, &lt;a class=&quot;pagelink&quot; href=&quot;Engloutissement-(Capacit&#233;).html&quot; title=&quot;Engloutissement&quot;&gt;engloutissement&lt;/a&gt; (2d6+12 d&#233;g&#226;ts d’acide, CA 13, 16 pv)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Pouvoirs magiques&lt;/b&gt; (NLS 11 ; concentration +15)
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+&#192; volont&#233; — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;T&#233;l&#233;portation-Supr&#234;me.html&quot; title=&quot;T&#233;l&#233;portation supr&#234;me&quot;&gt;T&#233;l&#233;portation supr&#234;me&lt;/a&gt;&lt;/i&gt; (personnelle plus 25 kilos d’objets uniquement)
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+3/jour — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;T&#233;n&#232;bres-Profondes.html&quot; title=&quot;T&#233;n&#232;bres profondes&quot;&gt;t&#233;n&#232;bres profondes&lt;/a&gt;&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+1/jour — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Brume-Mortelle.html&quot; title=&quot;Brume mortelle&quot;&gt;brume mortelle&lt;/a&gt;&lt;/i&gt; (DD 19), &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#CONVOCATION&quot; title=&quot;convocation&quot;&gt;convocation&lt;/a&gt;&lt;/i&gt; (niveau 4, 1d4+1 adhuka&#239;ts 45% ou 1 aghasura 20%)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 34, &lt;b&gt;Dex&lt;/b&gt; 17, &lt;b&gt;Con&lt;/b&gt; 23, &lt;b&gt;Int&lt;/b&gt; 11, &lt;b&gt;Sag&lt;/b&gt; 14, &lt;b&gt;Cha&lt;/b&gt; 18
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +14, &lt;b&gt;BMO&lt;/b&gt; +28 (+32 lutte), &lt;b&gt;DMD&lt;/b&gt; 41 (croc-en-jambe impossible)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Arme-De-Pr&#233;dilection.html&quot; title=&quot;Arme de pr&#233;dilection&quot;&gt;Arme de pr&#233;dilection&lt;/a&gt; (cimeterre), &lt;a class=&quot;pagelink&quot; href=&quot;Attaque-En-Puissance.html&quot; title=&quot;Attaque en puissance&quot;&gt;Attaque en puissance&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Don-Pour-Les-Critiques.html&quot; title=&quot;Don pour les critiques&quot;&gt;Don pour les critiques&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Encha&#238;nement.html&quot; title=&quot;Encha&#238;nement&quot;&gt;Encha&#238;nement&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;R&#233;flexes-Surhumains.html&quot; title=&quot;R&#233;flexes surhumains&quot;&gt;R&#233;flexes surhumains&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Science-Du-Critique.html&quot; title=&quot;Science du critique&quot;&gt;Science du critique&lt;/a&gt; (cimeterre), &lt;a class=&quot;pagelink&quot; href=&quot;Succession-Dencha&#238;nements.html&quot; title=&quot;Succession d&amp;#39;encha&#238;nements&quot;&gt;Succession d’encha&#238;nements&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Acrobaties.html&quot; title=&quot;Acrobaties&quot;&gt;Acrobaties&lt;/a&gt; +17, &lt;a class=&quot;pagelink&quot; href=&quot;Bluff.html&quot; title=&quot;Bluff&quot;&gt;Bluff&lt;/a&gt; +19, &lt;a class=&quot;pagelink&quot; href=&quot;Connaissances.html&quot; title=&quot;Connaissances&quot;&gt;Connaissances&lt;/a&gt; (plans) +13, &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; +9, &lt;a class=&quot;pagelink&quot; href=&quot;&#201;vasion.html&quot; title=&quot;&#201;vasion&quot;&gt;&#201;vasion&lt;/a&gt; +6, &lt;a class=&quot;pagelink&quot; href=&quot;Intimidation.html&quot; title=&quot;Intimidation&quot;&gt;Intimidation&lt;/a&gt; +17, &lt;a class=&quot;pagelink&quot; href=&quot;Natation.html&quot; title=&quot;Natation&quot;&gt;Natation&lt;/a&gt; +17, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +19, &lt;a class=&quot;pagelink&quot; href=&quot;Psychologie.html&quot; title=&quot;Psychologie&quot;&gt;Psychologie&lt;/a&gt; +19
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Modificateurs raciaux&lt;/b&gt; +6 en &lt;a class=&quot;pagelink&quot; href=&quot;&#201;vasion.html&quot; title=&quot;&#201;vasion&quot;&gt;&#201;vasion&lt;/a&gt;, +4 en &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Langues&lt;/b&gt;  commun, infernal ; &lt;a class=&quot;pagelink&quot; href=&quot;T&#233;l&#233;pathie-(Capacit&#233;).html&quot; title=&quot;T&#233;l&#233;pathie&quot;&gt;t&#233;l&#233;pathie&lt;/a&gt; &#224; 30 m
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; tous (Enfer)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation&lt;/b&gt; solitaire ou troupe (2-9)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; standard (2 cimeterres de ma&#238;tre, cuirasse de ma&#238;tre, autre tr&#233;sor)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Pouvoirs sp&#233;ciaux&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Ambidextrie (Ext).&lt;/b&gt; L’aghasura ne re&#231;oit pas de malus sur ses jets d’attaque ou de d&#233;g&#226;ts lorsqu’il attaque avec deux armes.
+&lt;/div&gt; 
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Armes enchant&#233;es (Sur).&lt;/b&gt; Les armes que tient l’aghasura sont consid&#233;r&#233;es comme magiques quand il s’agit de passer les r&#233;ductions de d&#233;g&#226;ts. En outre, ces armes gagnent la capacit&#233; de lib&#233;rer le poison de l’aghasura sur une attaque r&#233;ussie.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Aura d’attraction (Sur).&lt;/b&gt; Lorsqu’un aghasura reste immobile pendant au moins 1 round, il exsude une aura sur 15 m&#232;tres. Toutes les cr&#233;atures qui ne sont pas d’alignement Mauvais et qui p&#233;n&#232;trent cette zone doivent r&#233;ussir un jet de &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;Volont&#233;&quot;&gt;Volont&#233;&lt;/a&gt; DD 21, sinon, elles sont oblig&#233;es de se diriger vers la position de l’aghasura. Si l’aghasura se d&#233;place, les effets se dissipent pour toutes les cr&#233;atures affect&#233;es. Il s’agit d’un effet de coercition mentale. Le DD du jet de sauvegarde est bas&#233; sur le Charisme.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Poison (Ext).&lt;/b&gt; Morsure ou arme — blessure ; JdS &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;Vigueur&quot;&gt;Vigueur&lt;/a&gt; DD 23 ; fr&#233;quence1/round pendant 6 rounds ; effet affaiblissement temporaire de 1d4 points de &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#CONSTITUTION&quot; title=&quot;La Constitution&quot;&gt;Constitution&lt;/a&gt; ; gu&#233;rison 2 r&#233;ussites cons&#233;cutives.
+&lt;/div&gt;&lt;br /&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;td&gt;&lt;div&gt;
+&lt;i&gt;Cette immense cr&#233;ature &#233;voque un crotale &#224; cornes, &#224; l’exception de ses deux bras muscl&#233;s portant chacun un cimeterre. &lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Les aghasuras, qu’on appelle aussi les empoisonn&#233;s, sont d’&#233;normes fi&#233;lons ayant perfectionn&#233; l’art de l’embuscade et qui s’en tiennent aux missions de garde et aux massacres. On raconte que ces affreux monstres ophidiens sont venus au monde quand une d&#233;esse accorda le libre-arbitre &#224; ses serpents domestiques pr&#233;f&#233;r&#233;s. Livr&#233;s &#224; eux-m&#234;mes, les animaux de compagnie se faufil&#232;rent dans le temple favori de la d&#233;esse et tu&#232;rent ses plus grands pr&#234;tres. Ceux qui surv&#233;curent &#224; la col&#232;re de la d&#233;esse devinrent les premiers aghasuras. &lt;br /&gt;&lt;br /&gt;Un aghasura mesure 9 m&#232;tres et p&#232;se pr&#232;s de 7 tonnes. 
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Aghasura (Asura)|FP 11}
+{s:pucem|Extérieur|Ruines-Donjons|Extraplanaire}
+{s:BDTexte|''Source : Bestiaire 3 page 20''}
+{s:BDTexte|'''PX''' 12 800}
+{s:BDTexte|[[type Extérieur|Extérieur]] ([[sous-type asura|asura]], [[sous-type extraplanaire|extraplanaire]], [[sous-type Loi|Loi]]), [[sous-type Mal|Mal]]) de taille TG, LM}
+{s:BDTexte|'''Init''' +3 ; '''Sens''' [[odorat]], [[vision dans le noir]] à 12 cases ; [[Perception]] +19}
+{s:BDTexte|'''Aura ''' attraction (10 {s:c}), insaisissable (15 {s:c})}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 23, contact 11, pris au dépourvu 20 (armure +6, Dex +3, naturelle +6, taille -2)}
+{s:BDTexte|'''pv''' 161 (14d10+84) ; [[régénération]] 5 (armes du Bien, sorts du Bien)}
+{s:BDTexte|'''Réf''' +9, '''Vig''' +15, '''Vol''' +11 ; +2 contre les sorts d’enchantement}
+{s:BDTexte|'''RD''' 10/Bien ; '''Immunité''' effets des malédictions, maladie, poison ; '''Résistance''' acide 10, électricité 10 ; '''RM''' 22}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 10,5 m (7 {s:c}), nage 6 m (4 {s:c})}
+{s:BDTexte|'''Corps à corps''' 2 cimeterres de maître, +26 (2d6+12/15-20 plus [[poison]]) et morsure, +19 (2d8+6 plus [[étreinte]] et [[poison]])}
+{s:BDTexte|'''Espace occupé''' 4,5 m (3 {s:c}) ;  Allonge 4,5 m (3 {s:c})}
+{s:BDTexte|'''Attaque spéciale''' ambidextrie, armes enchantées, [[engloutissement]] (2d6+12 dégâts d’acide, CA 13, 16 pv)}
+{s:BDTexte|'''Pouvoirs magiques''' (NLS 11 ; concentration +15)}
+{s:BDSorts|À volonté — ''[[Téléportation suprême]]'' (personnelle plus 25 kilos d’objets uniquement)}
+{s:BDSorts|3/jour — ''[[ténèbres profondes]]''}
+{s:BDSorts|1/jour — ''[[brume mortelle]]'' (DD 19), ''[[convocation]]'' (niveau 4, 1d4+1 adhukaïts 45% ou 1 aghasura 20%)}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 34, '''Dex''' 17, '''Con''' 23, '''Int''' 11, '''Sag''' 14, '''Cha''' 18}
+{s:BDTexte|'''BBA''' +14, '''BMO''' +28 (+32 lutte), '''DMD''' 41 (croc-en-jambe impossible)}
+{s:BDTexte|'''Dons''' [[Arme de prédilection]] (cimeterre), [[Attaque en puissance]], [[Don pour les critiques]], [[Enchaînement]], [[Réflexes surhumains]], [[Science du critique]] (cimeterre), [[Succession denchaînements|Succession d’enchaînements]]}
+{s:BDTexte|'''Compétences''' [[Acrobaties]] +17, [[Bluff]] +19, [[Connaissances]] (plans) +13, [[Discrétion]] +9, [[Évasion]] +6, [[Intimidation]] +17, [[Natation]] +17, [[Perception]] +19, [[Psychologie]] +19}
+{s:BDTexte|'''Modificateurs raciaux''' +6 en [[Évasion]], +4 en [[Perception]]}
+{s:BDTexte|'''Langues'''  commun, infernal ; [[télépathie]] à 30 m}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' tous (Enfer)}
+{s:BDTexte|'''Organisation''' solitaire ou troupe (2-9)}
+{s:BDTexte|'''Trésor''' standard (2 cimeterres de maître, cuirasse de maître, autre trésor)}
+{s:BDSousTitre|Pouvoirs spéciaux}
+{s:BDTexte|'''Ambidextrie (Ext).''' L’aghasura ne reçoit pas de malus sur ses jets d’attaque ou de dégâts lorsqu’il attaque avec deux armes.} 
+{s:BDTexte|'''Armes enchantées (Sur).''' Les armes que tient l’aghasura sont considérées comme magiques quand il s’agit de passer les réductions de dégâts. En outre, ces armes gagnent la capacité de libérer le poison de l’aghasura sur une attaque réussie.}
+{s:BDTexte|'''Aura d’attraction (Sur).''' Lorsqu’un aghasura reste immobile pendant au moins 1 round, il exsude une aura sur 15 mètres. Toutes les créatures qui ne sont pas d’alignement Mauvais et qui pénètrent cette zone doivent réussir un jet de [[Volonté]] DD 21, sinon, elles sont obligées de se diriger vers la position de l’aghasura. Si l’aghasura se déplace, les effets se dissipent pour toutes les créatures affectées. Il s’agit d’un effet de coercition mentale. Le DD du jet de sauvegarde est basé sur le Charisme.}
+{s:BDTexte|'''Poison (Ext).''' Morsure ou arme — blessure ; JdS [[Vigueur]] DD 23 ; fréquence1/round pendant 6 rounds ; effet affaiblissement temporaire de 1d4 points de [[Constitution]] ; guérison 2 réussites consécutives.}
+
+
+</div>
+</td><td><div>
+''Cette immense créature évoque un crotale à cornes, à l’exception de ses deux bras musclés portant chacun un cimeterre. ''
+
+Les aghasuras, qu’on appelle aussi les empoisonnés, sont d’énormes fiélons ayant perfectionné l’art de l’embuscade et qui s’en tiennent aux missions de garde et aux massacres. On raconte que ces affreux monstres ophidiens sont venus au monde quand une déesse accorda le libre-arbitre à ses serpents domestiques préférés. Livrés à eux-mêmes, les animaux de compagnie se faufilèrent dans le temple favori de la déesse et tuèrent ses plus grands prêtres. Ceux qui survécurent à la colère de la déesse devinrent les premiers aghasuras. 
+
+Un aghasura mesure 9 mètres et pèse près de 7 tonnes. 
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Aghasura</fullName>
+</wikiPage>

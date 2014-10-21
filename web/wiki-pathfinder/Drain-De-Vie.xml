@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Drain de vie</title>
+  <categories><category>Pathfinder-RPG.Art de la Magie</category><category>Pathfinder-RPG.Mots de pouvoir</category><category>Pathfinder-RPG.Règles officielles</category></categories>
+  <lastModified>2012-09-27 14:17:16Z</lastModified>
+  <version>0</version>
+  <inLinks><link>Pathfinder-RPG.Liste des mots de pouvoirs par classe</link><link>Pathfinder-RPG.Listes des mots de pouvoirs (temporaire)</link><link>Pathfinder-RPG.Mots effets</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Nécromancie</link><link>Pathfinder-RPG.Registre</link><link>Pathfinder-RPG.Magus</link><link>Pathfinder-RPG.Ensorceleur</link><link>Pathfinder-RPG.Magicien</link><link>Pathfinder-RPG.Sorcière</link><link>Pathfinder-RPG.niveau</link><link>Pathfinder-RPG.Vigueur</link><link>Pathfinder-RPG.Présentation des sorts</link><link>Pathfinder-RPG.Choisi</link></outLinks>
+  <body><![CDATA[
+&lt;b&gt;&#201;cole&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#NECROMANCIE&quot; title=&quot;N&#233;cromancie&quot;&gt;n&#233;cromancie&lt;/a&gt; [&lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;er-Un-Sort.html#REGISTRE&quot; title=&quot;Registre&quot;&gt;mal&lt;/a&gt;] ; &lt;b&gt;Niveau&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Magus.html&quot; title=&quot;Le Magus&quot;&gt;magus&lt;/a&gt; 4, &lt;a class=&quot;pagelink&quot; href=&quot;Ensorceleur.html&quot; title=&quot;L&amp;#39;ensorceleur&quot;&gt;ensorceleur&lt;/a&gt;/&lt;a class=&quot;pagelink&quot; href=&quot;Magicien.html&quot; title=&quot;Le magicien&quot;&gt;magicien&lt;/a&gt; 4, &lt;a class=&quot;pagelink&quot; href=&quot;Sorci&#232;re.html&quot; title=&quot;La sorci&#232;re&quot;&gt;sorci&#232;re&lt;/a&gt; 4&lt;br /&gt;
+&lt;b&gt;Dur&#233;e&lt;/b&gt; 1 heure/&lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#NIVEAU&quot; title=&quot;niveau&quot;&gt;niveau&lt;/a&gt;&lt;br /&gt;
+&lt;b&gt;Jet de sauvegarde&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;Vigueur&quot;&gt;Vigueur&lt;/a&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#JETSDESAUVEGARDE&quot; title=&quot;Pr&#233;sentation des sorts&quot;&gt;annule&lt;/a&gt; ; &lt;b&gt;R&#233;sistance &#224; la magie&lt;/b&gt; oui&lt;br /&gt;
+&lt;b&gt;Restriction de cible&lt;/b&gt; &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Choisi.html&quot; title=&quot;Choisi&quot;&gt;choisi&lt;/a&gt;&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;La cible d’un sort incluant ce mot effet re&#231;oit 1d4 niveaux n&#233;gatifs temporaires. Si ces niveaux n&#233;gatifs provoquent sa mort, elle revient sous la forme d’un fant&#244;me 1d4 jours &#224; moins d’&#234;tre enterr&#233;e en terre consacr&#233;e.&lt;br /&gt;
+&lt;div class=&quot;indent&quot; style=&quot;margin: 0px; padding: 0px; padding-left: 15px&quot;&gt;&lt;b&gt;Augmentation :&lt;/b&gt; La perte de niveaux est permanente. Augmenter le mot effet de la sorte am&#233;liore son niveau de 5.&lt;/div&gt;
+]]></body>
+  <raw><![CDATA[{s:UM}
+'''École''' [[nécromancie]] <nowiki>[</nowiki>[[registre|mal]]<nowiki>]</nowiki> ; '''Niveau''' [[magus]] 4, [[ensorceleur]]/[[magicien]] 4, [[sorcière]] 4<br>
+'''Durée''' 1 heure/[[niveau]]<br>
+'''Jet de sauvegarde''' [[Vigueur]] [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; '''Résistance à la magie''' oui<br>
+'''Restriction de cible''' ''[[choisi]]''
+
+La cible d’un sort incluant ce mot effet reçoit 1d4 niveaux négatifs temporaires. Si ces niveaux négatifs provoquent sa mort, elle revient sous la forme d’un fantôme 1d4 jours à moins d’être enterrée en terre consacrée.<br>
+:'''Augmentation :''' La perte de niveaux est permanente. Augmenter le mot effet de la sorte améliore son niveau de 5.]]></raw>
+  <fullName>Pathfinder-RPG.Drain de vie</fullName>
+</wikiPage>

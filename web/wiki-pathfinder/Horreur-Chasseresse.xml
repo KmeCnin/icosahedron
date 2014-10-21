@@ -1,0 +1,238 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Horreur chasseresse</title>
+  <categories><category>Pathfinder-RPG.Bestiaire</category><category>Pathfinder-RPG.Monstre</category><category>Pathfinder-RPG.Règles officielles</category></categories>
+  <lastModified>2013-02-07 21:04:11Z</lastModified>
+  <version>5</version>
+  <inLinks><link>Pathfinder-RPG.Glossaire des monstres</link><link>Pathfinder-RPG.Liste de monstres par FP</link><link>Pathfinder-RPG.Liste de monstres par milieu naturel</link><link>Pathfinder-RPG.Liste de monstres par type</link><link>Pathfinder-RPG.Monstres</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.type Créature artificielle</link><link>Pathfinder-RPG.sous-type extraplanaire</link><link>Pathfinder-RPG.vision dans le noir</link><link>Pathfinder-RPG.vision nocturne</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Traits des créatures artificielles</link><link>Pathfinder-RPG.Étreinte</link><link>Pathfinder-RPG.Localisation suprême</link><link>Pathfinder-RPG.lutte</link><link>Pathfinder-RPG.croc-en-jambe</link><link>Pathfinder-RPG.Attaque en puissance</link><link>Pathfinder-RPG.Enchaînement</link><link>Pathfinder-RPG.Réflexes surhumains</link><link>Pathfinder-RPG.Robustesse</link><link>Pathfinder-RPG.Science de linitiative</link><link>Pathfinder-RPG.Science de la bousculade</link><link>Pathfinder-RPG.Science du critique</link><link>Pathfinder-RPG.Vigueur surhumaine</link><link>Pathfinder-RPG.Action libre</link><link>Pathfinder-RPG.attaque dopportunité</link><link>Pathfinder-RPG.DD</link><link>Pathfinder-RPG.jet de sauvegarde</link><link>Pathfinder-RPG.Constitution</link><link>Pathfinder-RPG.Réflexes</link><link>Pathfinder-RPG.Vigueur</link><link>Pathfinder-RPG.Pétrifié</link><link>Pathfinder-RPG.Pattes daraignée</link><link>Pathfinder-RPG.Marche sur londe</link><link>Pathfinder-RPG.Allié suprême doutreplan</link><link>Pathfinder-RPG.Contrat suprême</link><link>Pathfinder-RPG.Charisme</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Horreur chasseresse&lt;div style=&quot;float:right;&quot;&gt;FP 11&lt;/div&gt;&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Bestiaire&lt;/i&gt; p.185
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 12.800
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Cr&#233;ature-Artificielle.html&quot; title=&quot;Cr&#233;ature artificielle&quot;&gt;Cr&#233;ature artificielle&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Extraplanaire.html&quot; title=&quot;Extraplanaire (sous-type)&quot;&gt;extraplanaire&lt;/a&gt;) de taille TG, CM
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +7 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Capacit&#233;s-Sp&#233;ciales.html#VISIONDANSLENOIR&quot; title=&quot;vision dans le noir&quot;&gt;vision dans le noir&lt;/a&gt; 18 m (12 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Nocturne-(Capacit&#233;).html&quot; title=&quot;vision nocturne&quot;&gt;vision nocturne&lt;/a&gt; ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +15
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 25, contact 11, pris au d&#233;pourvu 22 (Dex +3, naturelle +14, taille -2)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 137 (15d10+55) ; gu&#233;rison rapide 5
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +10, &lt;b&gt;Vig&lt;/b&gt; +7, &lt;b&gt;Vol&lt;/b&gt; +5
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Capacit&#233;s d&#233;fensives&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Traits-Des-Cr&#233;atures-Artificielles-(Capacit&#233;).html&quot; title=&quot;Traits des cr&#233;atures artificielles&quot;&gt;traits des cr&#233;atures artificielles&lt;/a&gt; 
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 15 m (10 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; morsure, +19 (1d8+6 et &lt;a class=&quot;pagelink&quot; href=&quot;&#201;treinte-(Capacit&#233;).html&quot; title=&quot;&#201;treinte&quot;&gt;&#233;treinte&lt;/a&gt;), 4 griffes, +19 (2d6+6/19-20)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Espace&lt;/b&gt; 4,50 m (3 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) ; &lt;b&gt;Allonge&lt;/b&gt; 4,50 m (3 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaques sp&#233;ciales&lt;/b&gt; rayons oculaires (+16 contact &#224; distance)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Pouvoirs magiques&lt;/b&gt; (NLS 20&lt;sup&gt;e&lt;/sup&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+&#192; volont&#233; — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Localisation-Supr&#234;me.html&quot; title=&quot;Localisation supr&#234;me&quot;&gt;localisation supr&#234;me&lt;/a&gt;&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 22, &lt;b&gt;Dex&lt;/b&gt; 16, &lt;b&gt;Con&lt;/b&gt; -, &lt;b&gt;Int&lt;/b&gt; 3, &lt;b&gt;Sag&lt;/b&gt; 11, &lt;b&gt;Cha&lt;/b&gt; 1
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +15, &lt;b&gt;BMO&lt;/b&gt; +23 (+27 &lt;a class=&quot;pagelink&quot; href=&quot;Manœuvres-Offensives.html#LUTTE&quot; title=&quot;lutte&quot;&gt;lutte&lt;/a&gt;), &lt;b&gt;DMD&lt;/b&gt; 36 (40 contre &lt;a class=&quot;pagelink&quot; href=&quot;Croc-En-Jambe.html&quot; title=&quot;croc-en-jambe&quot;&gt;croc-en-jambe&lt;/a&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Attaque-En-Puissance.html&quot; title=&quot;Attaque en puissance&quot;&gt;Attaque en puissance&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Encha&#238;nement.html&quot; title=&quot;Encha&#238;nement&quot;&gt;Encha&#238;nement&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;R&#233;flexes-Surhumains.html&quot; title=&quot;R&#233;flexes surhumains&quot;&gt;R&#233;flexes surhumains&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Robustesse.html&quot; title=&quot;Robustesse&quot;&gt;Robustesse&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Science-De-Linitiative.html&quot; title=&quot;Science de l&amp;#39;initiative&quot;&gt;Science de l&#39;initiative&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Science-De-La-Bousculade.html&quot; title=&quot;Science de la bousculade&quot;&gt;Science de la bousculade&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Science-Du-Critique.html&quot; title=&quot;Science du critique&quot;&gt;Science du critique&lt;/a&gt; (griffe), &lt;a class=&quot;pagelink&quot; href=&quot;Vigueur-Surhumaine.html&quot; title=&quot;Vigueur surhumaine&quot;&gt;Vigueur surhumaine&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +15
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Langues&lt;/b&gt; abyssal (ne sait pas parler)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Particularit&#233;s&lt;/b&gt; implacable
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; quelconque (Abysses)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation sociale&lt;/b&gt; solitaire
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; aucun
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Capacit&#233;s sp&#233;ciales&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Rayons oculaires (Sur).&lt;/b&gt; Les yeux des horreurs chasseresses peuvent produire quatre types de rayons magiques poss&#233;dant tous une port&#233;e de 30 m (20 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;). Chaque round, une horreur chasseresse peut lancer un rayon par une &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions.html#LIBRE&quot; title=&quot;Action libre&quot;&gt;action libre&lt;/a&gt; qui ne provoque pas d&#39;&lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#ATTAQUEDOPPORTUNITE&quot; title=&quot;attaque d&amp;#39;opportunit&#233;&quot;&gt;attaque d&#39;opportunit&#233;&lt;/a&gt;. Chaque rayon est utilisable une fois tous les 4 rounds. Elle peut utiliser un rayon et porter des attaques physiques au cours d&#39;un m&#234;me round. Les &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DEGREDEDIFFICULTE&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; de tous les &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;jet de sauvegarde&quot;&gt;jets de sauvegarde&lt;/a&gt; est de 19 (il d&#233;pend de la &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#CONSTITUTION&quot; title=&quot;La Constitution&quot;&gt;Constitution&lt;/a&gt; et inclut un bonus racial de +2). Les diff&#233;rents types de rayons sont les suivants :
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+&lt;div class=&quot;indent&quot; style=&quot;margin: 0px; padding: 0px; padding-left: 15px&quot;&gt;• &lt;i&gt;Feu&lt;/i&gt; : 12d6 points de d&#233;g&#226;ts de feu (JS &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;R&#233;flexes&quot;&gt;R&#233;f&lt;/a&gt; pour demi-d&#233;g&#226;ts).&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+&lt;div class=&quot;indent&quot; style=&quot;margin: 0px; padding: 0px; padding-left: 15px&quot;&gt;• &lt;i&gt;Froid&lt;/i&gt; : 12d6 points de d&#233;g&#226;ts de froid (JS &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;R&#233;flexes&quot;&gt;R&#233;f&lt;/a&gt; pour demi-d&#233;g&#226;ts).&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+&lt;div class=&quot;indent&quot; style=&quot;margin: 0px; padding: 0px; padding-left: 15px&quot;&gt;• &lt;i&gt;Electricit&#233;&lt;/i&gt; : 12d6 points de d&#233;g&#226;ts d&#39;&#233;lectricit&#233; (JS &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;R&#233;flexes&quot;&gt;R&#233;f&lt;/a&gt; pour demi-d&#233;g&#226;ts).&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+&lt;div class=&quot;indent&quot; style=&quot;margin: 0px; padding: 0px; padding-left: 15px&quot;&gt;• &lt;i&gt;P&#233;trification&lt;/i&gt; : La cible doit r&#233;ussir un jet de &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;Vigueur&quot;&gt;Vigueur&lt;/a&gt; ou &#234;tre &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables.html#P&#233;trifi&#233;&quot; title=&quot;P&#233;trifi&#233;&quot;&gt;p&#233;trifi&#233;e&lt;/a&gt; de mani&#232;re permanente.&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Implacable (Sur).&lt;/b&gt; Les horreurs chasseresses b&#233;n&#233;ficient constamment des effets des sorts de &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Pattes-Daraign&#233;e.html&quot; title=&quot;Pattes d&amp;#39;araign&#233;e&quot;&gt;pattes d&#39;araign&#233;e&lt;/a&gt;&lt;/i&gt; et de &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Marche-Sur-Londe.html&quot; title=&quot;Marche sur l&amp;#39;onde&quot;&gt;marche sur l&#39;onde&lt;/a&gt;&lt;/i&gt;. Ces capacit&#233;s ne peuvent pas &#234;tre dissip&#233;es.
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;td&gt;&lt;div&gt;&lt;i&gt;Cette araign&#233;e mena&#231;ante de la taille d’un &#233;l&#233;phant se cabre sur ses quatre pattes arri&#232;re faisant briller une lueur magique dans ses yeux.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Toutes les cr&#233;atures artificielles ne sont pas fabriqu&#233;es dans des
+mat&#233;riaux tel que la pierre, le bois, le m&#233;tal ou la chair morte.
+Dans les coins les plus sombres du Grand Au-Del&#224;, de puissants
+seigneurs d&#233;mons sont pass&#233;s ma&#238;tres dans l’art de fa&#231;onner la chair
+protoplasmique des Abysses en des monstruosit&#233;s d&#233;nu&#233;es de vie et
+d’&#233;motion, monstruosit&#233;s qui n’&#233;prouvent aucun d&#233;sir de se soustraire
+aux ordres qui leur sont donn&#233;s. &lt;br /&gt;&lt;br /&gt;Les plus connues de ces cr&#233;atures artificielles sont les horreurs chasseresses. Il s’agit de gigantesques
+cr&#233;ations en forme d’araign&#233;es capables de canaliser de puissantes
+attaques d’&#233;nergie contre ceux qu’on leur a ordonn&#233; de chasser.
+Les seigneurs d&#233;mons utilisent les horreurs chasseresses pour
+d&#233;busquer les vassaux infid&#232;les ou les esclaves en fuite. Bien
+souvent, la seule pr&#233;sence d’une telle horreur dans le repaire
+d’un d&#233;mon suffit &#224; garantir la loyaut&#233; des d&#233;mons inf&#233;rieurs.&lt;br /&gt;&lt;br /&gt;Ces cr&#233;atures artificielles excellent &#233;galement lorsqu’il s’agit de
+retrouver des objets sp&#233;cifiques et de les ramener &#224; leurs ma&#238;tres.
+Elles disposent d’une intelligence juste suffisante pour leur
+permettre de se concentrer sur les ordres donn&#233;s mais insuffisante
+pour penser &#224; se rebeller ou pour d&#233;sirer la libert&#233;.&lt;br /&gt;&lt;br /&gt;Le corps d’une horreur chasseresse fait la taille d’un &#233;l&#233;phant.
+Une fois d&#233;ploy&#233;es, ses pattes lui donnent une envergure de pr&#232;s de
+9 m&#232;tres. Elle p&#232;se 3 250 kg.&lt;br /&gt;&lt;br /&gt;&lt;h3 class=&quot;separator&quot;&gt;Invoquer une horreur chasseresse&lt;a class=&quot;headeranchor&quot; id=&quot;Invoquer_une_horreur_chasseresse_0&quot; href=&quot;#Invoquer_une_horreur_chasseresse_0&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;
+Bien que les horreurs
+chasseresses ne soient pas
+des Ext&#233;rieurs, il est quand
+m&#234;me possible d’en invoquer une par un sort
+d’&lt;a class=&quot;pagelink&quot; href=&quot;Alli&#233;-Supr&#234;me-Doutreplan.html&quot; title=&quot;Alli&#233; supr&#234;me d&amp;#39;outreplan&quot;&gt;alli&#233; supr&#234;me d’outreplan&lt;/a&gt; ou de &lt;a class=&quot;pagelink&quot; href=&quot;Contrat-Supr&#234;me.html&quot; title=&quot;Contrat supr&#234;me&quot;&gt;contrat supr&#234;me&lt;/a&gt;. Le
+lanceur du sort doit s’assurer d’utiliser des encens
+sp&#233;ciaux et de tracer des diagrammes complexes sur
+le sol et les murs avec des encres phosphorescentes
+tr&#232;s co&#251;teuses. &lt;br /&gt;&lt;br /&gt;Sans cela, l’horreur
+chasseresse se retourne contre
+lui &#224; la f in de l’incantation.
+Ces composantes co&#251;tent
+25 000 po et remplacent
+les co&#251;ts normalement
+associ&#233;s avec
+l’incantation du
+sort (y compris la
+condition portant
+sur le &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#CHARISME&quot; title=&quot;Le Charisme&quot;&gt;Charisme&lt;/a&gt;
+pour le sort de &lt;a class=&quot;pagelink&quot; href=&quot;Contrat-Supr&#234;me.html&quot; title=&quot;Contrat supr&#234;me&quot;&gt;contrat supr&#234;me&lt;/a&gt;).
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Horreur chasseresse|FP 11}
+{s:pucem|Créature artificielle|Ruines-Donjons|Extraplanaire}
+{s:BDTexte|''Source : Bestiaire'' p.185}
+{s:BDTexte|'''PX''' 12.800}
+{s:BDTexte|[[type Créature artificielle|Créature artificielle]] ([[sous-type extraplanaire|extraplanaire]]) de taille TG, CM}
+{s:BDTexte|'''Init''' +7 ; '''Sens''' [[vision dans le noir]] 18 m (12 {s:c}), [[vision nocturne]] ; [[Perception]] +15}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 25, contact 11, pris au dépourvu 22 (Dex +3, naturelle +14, taille -2)}
+{s:BDTexte|'''pv''' 137 (15d10+55) ; guérison rapide 5}
+{s:BDTexte|'''Réf''' +10, '''Vig''' +7, '''Vol''' +5}
+{s:BDTexte|'''Capacités défensives''' [[traits des créatures artificielles]] }
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 15 m (10 {s:c})}
+{s:BDTexte|'''Corps à corps''' morsure, +19 (1d8+6 et [[étreinte]]), 4 griffes, +19 (2d6+6/19-20)}
+{s:BDTexte|'''Espace''' 4,50 m (3 {s:c}) ; '''Allonge''' 4,50 m (3 {s:c})}
+{s:BDTexte|'''Attaques spéciales''' rayons oculaires (+16 contact à distance)}
+{s:BDTexte|'''Pouvoirs magiques''' (NLS 20<sup>e</sup>)}
+{s:BDSorts|À volonté — ''[[localisation suprême]]''}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 22, '''Dex''' 16, '''Con''' -, '''Int''' 3, '''Sag''' 11, '''Cha''' 1}
+{s:BDTexte|'''BBA''' +15, '''BMO''' +23 (+27 [[lutte]]), '''DMD''' 36 (40 contre [[croc-en-jambe]])}
+{s:BDTexte|'''Dons''' [[Attaque en puissance]], [[Enchaînement]], [[Réflexes surhumains]], [[Robustesse]], [[Science de linitiative|Science de l'initiative]], [[Science de la bousculade]], [[Science du critique]] (griffe), [[Vigueur surhumaine]]}
+{s:BDTexte|'''Compétences''' [[Perception]] +15}
+{s:BDTexte|'''Langues''' abyssal (ne sait pas parler)}
+{s:BDTexte|'''Particularités''' implacable}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' quelconque (Abysses)}
+{s:BDTexte|'''Organisation sociale''' solitaire}
+{s:BDTexte|'''Trésor''' aucun}
+{s:BDSousTitre|Capacités spéciales}
+{s:BDTexte|'''Rayons oculaires (Sur).''' Les yeux des horreurs chasseresses peuvent produire quatre types de rayons magiques possédant tous une portée de 30 m (20 {s:c}). Chaque round, une horreur chasseresse peut lancer un rayon par une [[action libre]] qui ne provoque pas d'[[attaque dopportunité|attaque d'opportunité]]. Chaque rayon est utilisable une fois tous les 4 rounds. Elle peut utiliser un rayon et porter des attaques physiques au cours d'un même round. Les [[DD]] de tous les [[jet de sauvegarde|jets de sauvegarde]] est de 19 (il dépend de la [[Constitution]] et inclut un bonus racial de +2). Les différents types de rayons sont les suivants :}
+{s:BDSorts|:• ''Feu'' : 12d6 points de dégâts de feu (JS [[Réflexes|Réf]] pour demi-dégâts).}
+{s:BDSorts|:• ''Froid'' : 12d6 points de dégâts de froid (JS [[Réflexes|Réf]] pour demi-dégâts).}
+{s:BDSorts|:• ''Electricité'' : 12d6 points de dégâts d'électricité (JS [[Réflexes|Réf]] pour demi-dégâts).}
+{s:BDSorts|:• ''Pétrification'' : La cible doit réussir un jet de [[Vigueur]] ou être [[pétrifié|pétrifiée]] de manière permanente.}
+{s:BDTexte|'''Implacable (Sur).''' Les horreurs chasseresses bénéficient constamment des effets des sorts de ''[[pattes daraignée|pattes d'araignée]]'' et de ''[[marche sur londe|marche sur l'onde]]''. Ces capacités ne peuvent pas être dissipées.}
+</div>
+</td><td><div>''Cette araignée menaçante de la taille d’un éléphant se cabre sur ses quatre pattes arrière faisant briller une lueur magique dans ses yeux.''
+
+Toutes les créatures artificielles ne sont pas fabriquées dans des
+matériaux tel que la pierre, le bois, le métal ou la chair morte.
+Dans les coins les plus sombres du Grand Au-Delà, de puissants
+seigneurs démons sont passés maîtres dans l’art de façonner la chair
+protoplasmique des Abysses en des monstruosités dénuées de vie et
+d’émotion, monstruosités qui n’éprouvent aucun désir de se soustraire
+aux ordres qui leur sont donnés. 
+
+Les plus connues de ces créatures artificielles sont les horreurs chasseresses. Il s’agit de gigantesques
+créations en forme d’araignées capables de canaliser de puissantes
+attaques d’énergie contre ceux qu’on leur a ordonné de chasser.
+Les seigneurs démons utilisent les horreurs chasseresses pour
+débusquer les vassaux infidèles ou les esclaves en fuite. Bien
+souvent, la seule présence d’une telle horreur dans le repaire
+d’un démon suffit à garantir la loyauté des démons inférieurs.
+
+Ces créatures artificielles excellent également lorsqu’il s’agit de
+retrouver des objets spécifiques et de les ramener à leurs maîtres.
+Elles disposent d’une intelligence juste suffisante pour leur
+permettre de se concentrer sur les ordres donnés mais insuffisante
+pour penser à se rebeller ou pour désirer la liberté.
+
+Le corps d’une horreur chasseresse fait la taille d’un éléphant.
+Une fois déployées, ses pattes lui donnent une envergure de près de
+9 mètres. Elle pèse 3 250 kg.
+
+====Invoquer une horreur chasseresse====
+
+Bien que les horreurs
+chasseresses ne soient pas
+des Extérieurs, il est quand
+même possible d’en invoquer une par un sort
+d’[[Allié suprême doutreplan|allié suprême d’outreplan]] ou de [[contrat suprême]]. Le
+lanceur du sort doit s’assurer d’utiliser des encens
+spéciaux et de tracer des diagrammes complexes sur
+le sol et les murs avec des encres phosphorescentes
+très coûteuses. 
+
+Sans cela, l’horreur
+chasseresse se retourne contre
+lui à la f in de l’incantation.
+Ces composantes coûtent
+25 000 po et remplacent
+les coûts normalement
+associés avec
+l’incantation du
+sort (y compris la
+condition portant
+sur le [[Charisme]]
+pour le sort de [[contrat suprême]]).
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Horreur chasseresse</fullName>
+</wikiPage>

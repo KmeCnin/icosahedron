@@ -1,0 +1,149 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Grizzly</title>
+  <categories><category>Pathfinder-RPG.Bestiaire</category><category>Pathfinder-RPG.Monstre</category><category>Pathfinder-RPG.Règles officielles</category></categories>
+  <lastModified>2013-02-07 18:57:04Z</lastModified>
+  <version>6</version>
+  <inLinks><link>Pathfinder-RPG.Convocation dalliés naturels</link><link>Pathfinder-RPG.Convocation de monstres</link><link>Pathfinder-RPG.Ettin</link><link>Pathfinder-RPG.FAQ Bestiaire</link><link>Pathfinder-RPG.FAQ Magie</link><link>Pathfinder-RPG.Glossaire des monstres</link><link>Pathfinder-RPG.Liste de monstres par FP</link><link>Pathfinder-RPG.Liste de monstres par milieu naturel</link><link>Pathfinder-RPG.Liste de monstres par type</link><link>Pathfinder-RPG.Monstres</link><link>Pathfinder-RPG.Ours-garou</link><link>Pathfinder-RPG.Sac à malice</link><link>Pathfinder-RPG.Seigneur animal</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.type Animal</link><link>Pathfinder-RPG.odorat</link><link>Pathfinder-RPG.vision nocturne</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Étreinte</link><link>Pathfinder-RPG.lutte</link><link>Pathfinder-RPG.croc-en-jambe</link><link>Pathfinder-RPG.Course</link><link>Pathfinder-RPG.Endurance</link><link>Pathfinder-RPG.Talent</link><link>Pathfinder-RPG.Survie</link><link>Pathfinder-RPG.Natation</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Grizzly&lt;div style=&quot;float:right;&quot;&gt;FP 4&lt;/div&gt;&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Bestiaire p.235&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 1.200
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Animal.html&quot; title=&quot;Animal&quot;&gt;Animal&lt;/a&gt; de taille G, N
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +1 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Odorat-(Capacit&#233;).html&quot; title=&quot;odorat&quot;&gt;odorat&lt;/a&gt; , &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Nocturne-(Capacit&#233;).html&quot; title=&quot;vision nocturne&quot;&gt;vision nocturne&lt;/a&gt; ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +6
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 16, contact 10, pris au d&#233;pourvu 15 (Dex +1, naturelle +6, taille -1)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 42 (5d8+20)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +5, &lt;b&gt;Vig&lt;/b&gt; +8, &lt;b&gt;Vol&lt;/b&gt; +2
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 12 m (8 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; 2 griffes, +7 (1d6+5 et &lt;a class=&quot;pagelink&quot; href=&quot;&#201;treinte-(Capacit&#233;).html&quot; title=&quot;&#201;treinte&quot;&gt;&#233;treinte&lt;/a&gt;), morsure, +7 (1d6+5)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Espace&lt;/b&gt; 3 m (2 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) ; &lt;b&gt;Allonge&lt;/b&gt; 1,50 m (1 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 21, &lt;b&gt;Dex&lt;/b&gt; 13, &lt;b&gt;Con&lt;/b&gt; 19, &lt;b&gt;Int&lt;/b&gt; 2, &lt;b&gt;Sag&lt;/b&gt; 12, &lt;b&gt;Cha&lt;/b&gt; 6
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +3, &lt;b&gt;BMO&lt;/b&gt; +9 (+13 &lt;a class=&quot;pagelink&quot; href=&quot;Manœuvres-Offensives.html#LUTTE&quot; title=&quot;lutte&quot;&gt;lutte&lt;/a&gt;), &lt;b&gt;DMD&lt;/b&gt; 20 (24 contre &lt;a class=&quot;pagelink&quot; href=&quot;Croc-En-Jambe.html&quot; title=&quot;croc-en-jambe&quot;&gt;croc-en-jambe&lt;/a&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Course.html&quot; title=&quot;Course&quot;&gt;Course&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Endurance.html&quot; title=&quot;Endurance&quot;&gt;Endurance&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Talent.html&quot; title=&quot;Talent&quot;&gt;Talent&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Survie.html&quot; title=&quot;Survie&quot;&gt;Survie&lt;/a&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Natation.html&quot; title=&quot;Natation&quot;&gt;Natation&lt;/a&gt; +14, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +6, &lt;a class=&quot;pagelink&quot; href=&quot;Survie.html&quot; title=&quot;Survie&quot;&gt;Survie&lt;/a&gt; +5 ; &lt;b&gt;Modificateurs raciaux&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Natation.html&quot; title=&quot;Natation&quot;&gt;Natation&lt;/a&gt; +4
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; for&#234;ts froides
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation sociale&lt;/b&gt; solitaire ou couple
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; aucun
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;td&gt;&lt;div&gt;&lt;i&gt;Les puissants muscles qu’on voit bouger sous la fourrure brune de cet ours
+imposant laissent pr&#233;sager de sa rapidit&#233; et de sa force.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Le grizzly est un grand et puissant omnivore qu’on rencontre dans
+de nombreuses for&#234;ts vallonn&#233;es. Il peut tout aussi bien consommer
+des noix, des baies, du poisson ou des petits mammif&#232;res. Il d&#233;fend
+f&#233;rocement son territoire et n’h&#233;sitera pas &#224; chasser
+(ou, si cela ne suffit pas, &#224; tuer et &#224; manger) tous les
+intrus qu’il consid&#232;re comme des rivaux.&lt;br /&gt;&lt;br /&gt;Au combat, le grizzly tente de ma&#238;triser
+ou de tuer ses ennemis &#224; l’aide de ses
+griffes. Lorsque c’est possible, il
+essaie d’agripper un adversaire
+pour lui infliger des d&#233;g&#226;ts
+en continu jusqu’&#224; ce
+qu’il meure, qu’il tombe
+inconscient ou qu’il
+parvienne &#224; s’&#233;chapper.&lt;br /&gt;&lt;br /&gt;Vous pouvez cr&#233;er
+un profil pour un ours
+plus petit (comme un
+ours noir) en appliquant
+l’arch&#233;type simple &#171; jeune &#187;
+au grizzly. Pour un ours plus
+grand ou un ours polaire,
+utilisez l’arch&#233;type simple
+&#171; &#233;volu&#233; &#187;.
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Grizzly|FP 4}
+{s:pucem|Animal|Forêt-Jungle|Froid}
+{s:BDTexte|''Source : Bestiaire p.235''}
+{s:BDTexte|'''PX''' 1.200}
+{s:BDTexte|[[type Animal|Animal]] de taille G, N}
+{s:BDTexte|'''Init''' +1 ; '''Sens''' [[odorat]] , [[vision nocturne]] ; [[Perception]] +6}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 16, contact 10, pris au dépourvu 15 (Dex +1, naturelle +6, taille -1)}
+{s:BDTexte|'''pv''' 42 (5d8+20)}
+{s:BDTexte|'''Réf''' +5, '''Vig''' +8, '''Vol''' +2}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 12 m (8 {s:c})}
+{s:BDTexte|'''Corps à corps''' 2 griffes, +7 (1d6+5 et [[étreinte]]), morsure, +7 (1d6+5)}
+{s:BDTexte|'''Espace''' 3 m (2 {s:c}) ; '''Allonge''' 1,50 m (1 {s:c})}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 21, '''Dex''' 13, '''Con''' 19, '''Int''' 2, '''Sag''' 12, '''Cha''' 6}
+{s:BDTexte|'''BBA''' +3, '''BMO''' +9 (+13 [[lutte]]), '''DMD''' 20 (24 contre [[croc-en-jambe]])}
+{s:BDTexte|'''Dons''' [[Course]], [[Endurance]], [[Talent]] ([[Survie]])}
+{s:BDTexte|'''Compétences''' [[Natation]] +14, [[Perception]] +6, [[Survie]] +5 ; '''Modificateurs raciaux''' [[Natation]] +4}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' forêts froides}
+{s:BDTexte|'''Organisation sociale''' solitaire ou couple}
+{s:BDTexte|'''Trésor''' aucun}
+</div>
+</td><td><div>''Les puissants muscles qu’on voit bouger sous la fourrure brune de cet ours
+imposant laissent présager de sa rapidité et de sa force.''
+
+Le grizzly est un grand et puissant omnivore qu’on rencontre dans
+de nombreuses forêts vallonnées. Il peut tout aussi bien consommer
+des noix, des baies, du poisson ou des petits mammifères. Il défend
+férocement son territoire et n’hésitera pas à chasser
+(ou, si cela ne suffit pas, à tuer et à manger) tous les
+intrus qu’il considère comme des rivaux.
+
+Au combat, le grizzly tente de maîtriser
+ou de tuer ses ennemis à l’aide de ses
+griffes. Lorsque c’est possible, il
+essaie d’agripper un adversaire
+pour lui infliger des dégâts
+en continu jusqu’à ce
+qu’il meure, qu’il tombe
+inconscient ou qu’il
+parvienne à s’échapper.
+
+Vous pouvez créer
+un profil pour un ours
+plus petit (comme un
+ours noir) en appliquant
+l’archétype simple « jeune »
+au grizzly. Pour un ours plus
+grand ou un ours polaire,
+utilisez l’archétype simple
+« évolué ».
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Grizzly</fullName>
+</wikiPage>

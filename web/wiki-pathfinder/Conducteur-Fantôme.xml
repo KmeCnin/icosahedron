@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Conducteur fantôme</title>
+  <categories><category>Pathfinder-RPG.Art de la guerre</category><category>Pathfinder-RPG.Règles officielles</category><category>Pathfinder-RPG.Sort</category><category>Pathfinder-RPG.Sort barde 3</category><category>Pathfinder-RPG.Sort magicien 3</category></categories>
+  <lastModified>2013-04-25 13:09:06Z</lastModified>
+  <version>1</version>
+  <inLinks><link>Pathfinder-RPG.Glossaire des sorts</link><link>Pathfinder-RPG.Liste des sorts</link><link>Pathfinder-RPG.Liste des sorts de bardes</link><link>Pathfinder-RPG.liste des sorts de conjurateurs</link><link>Pathfinder-RPG.Liste des sorts densorceleursmagiciens</link><link>Pathfinder-RPG.Listes de sorts par classe</link><link>Pathfinder-RPG.Sorts temporaires-AdG</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Invocation</link><link>Pathfinder-RPG.branche création</link><link>Pathfinder-RPG.Barde</link><link>Pathfinder-RPG.Ensorceleur</link><link>Pathfinder-RPG.Magicien</link><link>Pathfinder-RPG.composantes</link><link>Pathfinder-RPG.niveau</link><link>Pathfinder-RPG.CA</link><link>Pathfinder-RPG.pv</link><link>Pathfinder-RPG.NLS</link></outLinks>
+  <body><![CDATA[
+&lt;b&gt;&#201;cole&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#INVOCATION&quot; title=&quot;Invocation&quot;&gt;invocation&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#CREATION&quot; title=&quot;cr&#233;ation&quot;&gt;cr&#233;ation&lt;/a&gt;); &lt;b&gt;Niveau&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Barde.html&quot; title=&quot;Le barde&quot;&gt;barde&lt;/a&gt; 3, &lt;a class=&quot;pagelink&quot; href=&quot;Ensorceleur.html&quot; title=&quot;L&amp;#39;ensorceleur&quot;&gt;ensorceleur&lt;/a&gt;/&lt;a class=&quot;pagelink&quot; href=&quot;Magicien.html&quot; title=&quot;Le magicien&quot;&gt;magicien&lt;/a&gt; 3&lt;/br&gt;
+&lt;b&gt;Temps d’incantation&lt;/b&gt; 10 minutes&lt;/br&gt;
+&lt;b&gt;Composantes&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#COMPOSANTES&quot; title=&quot;composantes&quot;&gt;V, G&lt;/a&gt;&lt;/br&gt;
+&lt;b&gt;Port&#233;e&lt;/b&gt; 3 m (2 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)&lt;/br&gt;
+&lt;b&gt;Effet&lt;/b&gt; une cr&#233;ature humaine quasi-r&#233;elle&lt;/br&gt;
+&lt;b&gt;Dur&#233;e&lt;/b&gt; 1 heure/&lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#NIVEAU&quot; title=&quot;niveau&quot;&gt;niveau&lt;/a&gt; (T)&lt;/br&gt;
+&lt;b&gt;Jet de sauvegarde&lt;/b&gt; non ; &lt;b&gt;R&#233;sistance &#224; la magie&lt;/b&gt; non&lt;br /&gt;&lt;br /&gt;Le personnage invoque une cr&#233;ature humaine P ou M, dont il peut personnaliser les traits &#224; volont&#233;. Elle sait conduire n’importe quel v&#233;hicule. Cette cr&#233;ature fant&#244;me ne se bat pas et, m&#234;me si les animaux qui tractent un v&#233;hicule attel&#233; lui ob&#233;issent, les autres animaux l’&#233;vitent et refusent de l’attaquer.&lt;/br&gt;
+Le conducteur a une &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#CA&quot; title=&quot;CA&quot;&gt;CA&lt;/a&gt; de 20 (+1 taille, +4 armure naturelle, +5 Dex) s’il est P ou de 19 (+4 armure naturelle, +5 Dex) s’il est M. Il a 7 &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#POINTSDEVIE&quot; title=&quot;pv&quot;&gt;points de vie&lt;/a&gt; +1 point par &lt;a class=&quot;pagelink&quot; href=&quot;Lancer-Des-Sorts.html#NLS&quot; title=&quot;NLS&quot;&gt;niveau de lanceur de sorts&lt;/a&gt;. Il dispara&#238;t s’il perd tous ses pv. Le conducteur fant&#244;me a une vitesse de d&#233;placement de 9 m (6 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) sur terre et il fait tous ses tests de conduite (quelle que soit la comp&#233;tence n&#233;cessaire pour diriger le v&#233;hicule) avec le &lt;a class=&quot;pagelink&quot; href=&quot;Lancer-Des-Sorts.html#NLS&quot; title=&quot;NLS&quot;&gt;niveau de lanceur de sorts&lt;/a&gt; du personnage et son modificateur d’Intelligence.
+]]></body>
+  <raw><![CDATA[{s:UC}
+'''École''' [[invocation]] ([[Branche création|création]]); '''Niveau''' [[barde]] 3, [[ensorceleur]]/[[magicien]] 3</br>
+'''Temps d’incantation''' 10 minutes</br>
+'''Composantes''' [[Composantes|V, G]]</br>
+'''Portée''' 3 m (2 {s:c})</br>
+'''Effet''' une créature humaine quasi-réelle</br>
+'''Durée''' 1 heure/[[niveau]] (T)</br>
+'''Jet de sauvegarde''' non ; '''Résistance à la magie''' non
+
+Le personnage invoque une créature humaine P ou M, dont il peut personnaliser les traits à volonté. Elle sait conduire n’importe quel véhicule. Cette créature fantôme ne se bat pas et, même si les animaux qui tractent un véhicule attelé lui obéissent, les autres animaux l’évitent et refusent de l’attaquer.</br>
+Le conducteur a une [[CA]] de 20 (+1 taille, +4 armure naturelle, +5 Dex) s’il est P ou de 19 (+4 armure naturelle, +5 Dex) s’il est M. Il a 7 [[PV|points de vie]] +1 point par [[NLS|niveau de lanceur de sorts]]. Il disparaît s’il perd tous ses pv. Le conducteur fantôme a une vitesse de déplacement de 9 m (6 {s:c}) sur terre et il fait tous ses tests de conduite (quelle que soit la compétence nécessaire pour diriger le véhicule) avec le [[NLS|niveau de lanceur de sorts]] du personnage et son modificateur d’Intelligence.]]></raw>
+  <fullName>Pathfinder-RPG.Conducteur fantôme</fullName>
+</wikiPage>

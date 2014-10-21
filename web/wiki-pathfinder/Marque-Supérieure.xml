@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Marque supérieure</title>
+  <categories><category>Pathfinder-RPG.Advanced Player Guide</category><category>Pathfinder-RPG.Règles officielles</category><category>Pathfinder-RPG.Sort</category><category>Pathfinder-RPG.Sort inquisiteur 4</category></categories>
+  <lastModified>2013-10-03 19:53:35Z</lastModified>
+  <version>2</version>
+  <inLinks><link>Pathfinder-RPG.Glossaire des sorts</link><link>Pathfinder-RPG.Liste des sorts (suite)</link><link>Pathfinder-RPG.Liste des sorts dinquisiteur</link><link>Pathfinder-RPG.Liste des sorts par registre</link><link>Pathfinder-RPG.TMP sorts APG</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Transmutation</link><link>Pathfinder-RPG.Registre</link><link>Pathfinder-RPG.Inquisiteur</link><link>Pathfinder-RPG.composantes</link><link>Pathfinder-RPG.Présentation des sorts</link><link>Pathfinder-RPG.Vigueur</link><link>Pathfinder-RPG.Marque</link><link>Pathfinder-RPG.Fiévreux</link><link>Pathfinder-RPG.Malédictions</link><link>Pathfinder-RPG.Marque de la justice</link></outLinks>
+  <body><![CDATA[
+&lt;b&gt;&#201;cole&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#TRANSMUTATION&quot; title=&quot;Transmutation&quot;&gt;Transmutation&lt;/a&gt; [&lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;er-Un-Sort.html#REGISTRE&quot; title=&quot;Registre&quot;&gt;mal&#233;diction&lt;/a&gt;]&#160;; &lt;b&gt;Niveau&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Inquisiteur.html&quot; title=&quot;L&amp;#39;inquisiteur&quot;&gt;inquisiteur&lt;/a&gt; 4&lt;br/&gt;
+&lt;b&gt;Temps d&#39;incantation&lt;/b&gt; 1 round&lt;br/&gt;
+&lt;b&gt;Composantes&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#COMPOSANTES&quot; title=&quot;composantes&quot;&gt;V, G, FD&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Port&#233;e&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#PORTEE&quot; title=&quot;Pr&#233;sentation des sorts&quot;&gt;contact&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Cible&lt;/b&gt; cr&#233;ature touch&#233;e&lt;br/&gt;
+&lt;b&gt;Dur&#233;e&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#DUREE&quot; title=&quot;Pr&#233;sentation des sorts&quot;&gt;permanente&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Jet de sauvegarde&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;Vigueur&quot;&gt;Vigueur&lt;/a&gt; pour &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#JETSDESAUVEGARDE&quot; title=&quot;Pr&#233;sentation des sorts&quot;&gt;annuler&lt;/a&gt;&#160;; &lt;b&gt;R&#233;sistance &#224; la magie&lt;/b&gt; oui&lt;br /&gt;&lt;br /&gt;Ce sort fonctionne comme la &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Marque.html&quot; title=&quot;Marque&quot;&gt;marque&lt;/a&gt;&lt;/i&gt; mais il inflige 1d6 points de d&#233;g&#226;ts lors de l&#39;application de la marque et il est impossible de la retirer, m&#234;me temporairement. De plus, la &lt;i&gt;marque sup&#233;rieure&lt;/i&gt; brille comme une torche quand elle se trouve &#224; moins de 9 m&#232;tres (6 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) d&#39;un symbole visible de la religion du personnage. La victime marqu&#233;e est &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables.html#Fi&#233;vreux&quot; title=&quot;Fi&#233;vreux&quot;&gt;fi&#233;vreuse&lt;/a&gt; tant que sa marque brille. Comme les &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Mal&#233;dictions.html&quot; title=&quot;Les mal&#233;dictions&quot;&gt;mal&#233;dictions&lt;/a&gt;&lt;/i&gt;, les &lt;i&gt;marques sup&#233;rieures&lt;/i&gt; ne se dissipent pas mais on peut les faire dispara&#238;tre par les m&#234;mes m&#233;thodes qu&#39;une &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Marque-De-La-Justice.html&quot; title=&quot;Marque de la justice&quot;&gt;marque de la justice&lt;/a&gt;&lt;/i&gt;.
+]]></body>
+  <raw><![CDATA[{s:APG}
+'''École''' [[Transmutation]] <nowiki>[</nowiki>[[registre|malédiction]]<nowiki>]</nowiki> ; '''Niveau''' [[inquisiteur]] 4<br/>
+'''Temps d'incantation''' 1 round<br/>
+'''Composantes''' [[Composantes|V, G, FD]]<br/>
+'''Portée''' [[Présentation des sorts#PORTEE|contact]]<br/>
+'''Cible''' créature touchée<br/>
+'''Durée''' [[Présentation des sorts#DUREE|permanente]]<br/>
+'''Jet de sauvegarde''' [[Vigueur]] pour [[Présentation des sorts#JETSDESAUVEGARDE|annuler]] ; '''Résistance à la magie''' oui
+
+Ce sort fonctionne comme la ''[[marque]]'' mais il inflige 1d6 points de dégâts lors de l'application de la marque et il est impossible de la retirer, même temporairement. De plus, la ''marque supérieure'' brille comme une torche quand elle se trouve à moins de 9 mètres (6 {s:c}) d'un symbole visible de la religion du personnage. La victime marquée est [[fiévreux|fiévreuse]] tant que sa marque brille. Comme les ''[[malédictions]]'', les ''marques supérieures'' ne se dissipent pas mais on peut les faire disparaître par les mêmes méthodes qu'une ''[[marque de la justice]]''.
+]]></raw>
+  <fullName>Pathfinder-RPG.Marque supérieure</fullName>
+</wikiPage>

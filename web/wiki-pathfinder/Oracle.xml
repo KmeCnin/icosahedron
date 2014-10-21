@@ -1,0 +1,723 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>L'oracle</title>
+  <categories><category>Pathfinder-RPG.Advanced Player Guide</category><category>Pathfinder-RPG.Classe</category><category>Pathfinder-RPG.Règles officielles</category></categories>
+  <lastModified>2014-08-22 00:21:42Z</lastModified>
+  <version>9</version>
+  <inLinks><link>Pathfinder-RPG.Aasimar (race)</link><link>Pathfinder-RPG.Abondance de révélations</link><link>Pathfinder-RPG.Anneau de révélation</link><link>Pathfinder-RPG.Argent et richesse</link><link>Pathfinder-RPG.Armes magiques</link><link>Pathfinder-RPG.Caractéristiques</link><link>Pathfinder-RPG.Classes</link><link>Pathfinder-RPG.Compétences</link><link>Pathfinder-RPG.Connaissances magiques étendues</link><link>Pathfinder-RPG.Créer un sort</link><link>Pathfinder-RPG.Demi-elfe</link><link>Pathfinder-RPG.Demi-orque</link><link>Pathfinder-RPG.dons-temporaires</link><link>Pathfinder-RPG.Elfe</link><link>Pathfinder-RPG.Emprunt de chance</link><link>Pathfinder-RPG.FAQ Règles</link><link>Pathfinder-RPG.Fardeau de loracle</link><link>Pathfinder-RPG.Frappe révélatrice</link><link>Pathfinder-RPG.Gardien de la communauté (oracle)</link><link>Pathfinder-RPG.Gardien de la nature</link><link>Pathfinder-RPG.Gardien du savoir ancestral (oracle)</link><link>Pathfinder-RPG.Géant de la taïga</link><link>Pathfinder-RPG.Géant des runes</link><link>Pathfinder-RPG.Girtablilu</link><link>Pathfinder-RPG.Gnome</link><link>Pathfinder-RPG.Gug</link><link>Pathfinder-RPG.Habits du devin</link><link>Pathfinder-RPG.Halfelin</link><link>Pathfinder-RPG.Humain</link><link>Pathfinder-RPG.kitsune (race)</link><link>Pathfinder-RPG.Lammasu</link><link>Pathfinder-RPG.Les mots de pouvoir</link><link>Pathfinder-RPG.Lier un extérieur</link><link>Pathfinder-RPG.Liste des sorts de prêtres</link><link>Pathfinder-RPG.Main vagabonde</link><link>Pathfinder-RPG.MainPage</link><link>Pathfinder-RPG.Maîtriser la magie</link><link>Pathfinder-RPG.Mystère de la sombre tapisserie</link><link>Pathfinder-RPG.Mystère des ancêtres</link><link>Pathfinder-RPG.Mystère des vagues</link><link>Pathfinder-RPG.Mystère du bois</link><link>Pathfinder-RPG.Mystère du métal</link><link>Pathfinder-RPG.Mystère du temps</link><link>Pathfinder-RPG.mystères</link><link>Pathfinder-RPG.Mystères temporaires</link><link>Pathfinder-RPG.Nain</link><link>Pathfinder-RPG.Oracle</link><link>Pathfinder-RPG.Oracle des étoiles (oracle)</link><link>Pathfinder-RPG.Oracle doublement maudit (oracle)</link><link>Pathfinder-RPG.Oracle planaire (oracle)</link><link>Pathfinder-RPG.Oracle possédé (oracle)</link><link>Pathfinder-RPG.Oracle réincarné (oracle)</link><link>Pathfinder-RPG.page de travail des dons</link><link>Pathfinder-RPG.Philosophe éclairé (oracle)</link><link>Pathfinder-RPG.Présage débilitant</link><link>Pathfinder-RPG.Présage traumatisant</link><link>Pathfinder-RPG.Prophète (oracle)</link><link>Pathfinder-RPG.Prophète enragé</link><link>Pathfinder-RPG.Purificateur (oracle)</link><link>Pathfinder-RPG.Réceptacle de loracle</link><link>Pathfinder-RPG.Réceptacle divin</link><link>Pathfinder-RPG.Singes fous</link><link>Pathfinder-RPG.Sort sélectif</link><link>Pathfinder-RPG.Symbole fatal</link><link>Pathfinder-RPG.Tableau récapitulatif des dons</link><link>Pathfinder-RPG.tableau récapitulatif des dons (art de la guerre)</link><link>Pathfinder-RPG.temp-MainPage</link><link>Pathfinder-RPG.Variantes de canalisation</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.mystères</link><link>Pathfinder-RPG.Liste des sorts de prêtres</link><link>Pathfinder-RPG.Oracle doublement maudit (oracle)</link><link>Pathfinder-RPG.Oracle des étoiles (oracle)</link><link>Pathfinder-RPG.Oracle possédé (oracle)</link><link>Pathfinder-RPG.Philosophe éclairé (oracle)</link><link>Pathfinder-RPG.Prophète (oracle)</link><link>Pathfinder-RPG.Oracle planaire (oracle)</link><link>Pathfinder-RPG.Purificateur (oracle)</link><link>Pathfinder-RPG.Oracle</link><link>Pathfinder-RPG.Artisanat</link><link>Pathfinder-RPG.Art de la magie</link><link>Pathfinder-RPG.Connaissances</link><link>Pathfinder-RPG.Diplomatie</link><link>Pathfinder-RPG.Premiers secours</link><link>Pathfinder-RPG.Profession</link><link>Pathfinder-RPG.Psychologie</link><link>Pathfinder-RPG.Intelligence</link><link>Pathfinder-RPG.armes courantes</link><link>Pathfinder-RPG.armure légère</link><link>Pathfinder-RPG.armure intermédiaire</link><link>Pathfinder-RPG.Charisme</link><link>Pathfinder-RPG.Prêtre</link><link>Pathfinder-RPG.focalisateur divin</link><link>Pathfinder-RPG.Action simple</link><link>Pathfinder-RPG.Fatigué</link><link>Pathfinder-RPG.Épuisé</link><link>Pathfinder-RPG.Intimidation</link><link>Pathfinder-RPG.jet de sauvegarde</link><link>Pathfinder-RPG.Nauséeux</link><link>Pathfinder-RPG.Manipulation à distance</link><link>Pathfinder-RPG.Son imaginaire</link><link>Pathfinder-RPG.Lévitation</link><link>Pathfinder-RPG.Image imparfaite</link><link>Pathfinder-RPG.Télékinésie</link><link>Pathfinder-RPG.Inversion de la gravité</link><link>Pathfinder-RPG.Linguistique</link><link>Pathfinder-RPG.Don des langues</link><link>Pathfinder-RPG.sourd</link><link>Pathfinder-RPG.Incantation silencieuse</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.initiative</link><link>Pathfinder-RPG.odorat</link><link>Pathfinder-RPG.Perception des vibrations</link><link>Pathfinder-RPG.vision dans le noir</link><link>Pathfinder-RPG.perception aveugle</link><link>Pathfinder-RPG.vision aveugle</link></outLinks>
+  <body><![CDATA[
+&lt;div class=&quot;fright&quot;&gt;
+&lt;b&gt;&lt;i&gt;Voir aussi les &lt;a class=&quot;pagelink&quot; href=&quot;Myst&#232;res.html&quot; title=&quot;Les myst&#232;res d&amp;#39;oracle&quot;&gt;myst&#232;res&lt;/a&gt; d&#39;oracle.&lt;/i&gt;&lt;/b&gt;&lt;br/&gt;
+&lt;b&gt;&lt;i&gt;Voir aussi la &lt;a class=&quot;pagelink&quot; href=&quot;Liste-Des-Sorts-De-Pr&#234;tres.html&quot; title=&quot;Liste des sorts de pr&#234;tres et d&amp;#39;oracles&quot;&gt;liste des sorts d&#39;oracles&lt;/a&gt;.&lt;/i&gt;&lt;/b&gt;&lt;br/&gt;
+&lt;b&gt;Voir les arch&#233;types de l&#39;oracle&lt;/b&gt;&amp;emsp;
+&lt;ul ID=&quot;oracle&quot; CLASS=&quot;listecach&#233;e cadrebas&quot;&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Oracle-Doublement-Maudit-(Oracle).html&quot; title=&quot;Oracle doublement maudit&quot;&gt;Oracle doublement maudit&lt;/a&gt; (UM)&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Oracle-Des-&#201;toiles-(Oracle).html&quot; title=&quot;Oracle des &#233;toiles&quot;&gt;Oracle des &#233;toiles&lt;/a&gt; (UM)&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Oracle-Poss&#233;d&#233;-(Oracle).html&quot; title=&quot;Oracle poss&#233;d&#233;&quot;&gt;Oracle poss&#233;d&#233;&lt;/a&gt; (UM)&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Philosophe-&#201;clair&#233;-(Oracle).html&quot; title=&quot;Philosophe &#233;clair&#233;&quot;&gt;Philosophe &#233;clair&#233;&lt;/a&gt; (UM)&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Proph&#232;te-(Oracle).html&quot; title=&quot;Proph&#232;te&quot;&gt;Proph&#232;te&lt;/a&gt; (UM)&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Oracle-Planaire-(Oracle).html&quot; title=&quot;Oracle planaire&quot;&gt;Oracle planaire&lt;/a&gt; (UM)&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Purificateur-(Oracle).html&quot; title=&quot;Purificateur&quot;&gt;Purificateur&lt;/a&gt; (MR)&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;i&gt;Les dieux œuvrent par l’interm&#233;diaire de bien des agents mais aucun n’est aussi myst&#233;rieux que l’oracle. Ces r&#233;ceptacles divins re&#231;oivent des pouvoirs sans avoir eu le choix et seule la providence choisit les oracles &#224; qui elle confie des pouvoirs qu’ils ne comprennent pas enti&#232;rement. Contrairement aux pr&#234;tres qui puisent leur magie dans leur d&#233;votion  &#224; leur dieu, les oracles tirent leur force et leur puissance de nombreuses sources, en particulier des divinit&#233;s protectrices qui partagent leurs id&#233;aux. Au lieu de v&#233;n&#233;rer un  seul dieu, les oracles tendent &#224; adorer tous ceux qui partagent leurs croyances. Certains consid&#232;rent leurs pouvoirs comme une b&#233;n&#233;diction, d’autres comme une mal&#233;diction car ils changent la vie de l’&#233;lu de mani&#232;re impr&#233;visible.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;&lt;a name=&quot;TABLEORACLE&quot;&gt;&lt;/a&gt;
+&lt;center&gt;
+&lt;table CLASS=&quot;tablo&quot;&gt;&lt;caption&gt;L&#39;oracle&lt;/caption&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td ROWSPAN=&quot;2&quot;&gt;Niveau&lt;/td&gt;&lt;td ROWSPAN=&quot;2&quot;&gt;BBA&lt;/td&gt;&lt;td ROWSPAN=&quot;2&quot;&gt;R&#233;flexes&lt;/td&gt;&lt;td ROWSPAN=&quot;2&quot;&gt;Vigueur&lt;/td&gt;&lt;td ROWSPAN=&quot;2&quot;&gt;Volont&#233;&lt;/td&gt;&lt;td ROWSPAN=&quot;2&quot;&gt;Sp&#233;cial&lt;/td&gt;&lt;td COLSPAN=&quot;9&quot; CLASS=&quot;avecsoustitre&quot;&gt;Sorts par jour&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;soustitre&quot;&gt;&lt;td&gt;1er&lt;/td&gt;&lt;td&gt;2e&lt;/td&gt;&lt;td&gt;3e&lt;/td&gt;&lt;td&gt;4e&lt;/td&gt;&lt;td&gt;5e&lt;/td&gt;&lt;td&gt;6e&lt;/td&gt;&lt;td&gt;7e&lt;/td&gt;&lt;td&gt;8e&lt;/td&gt;&lt;td&gt;9e&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier&quot;&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;+0&lt;/td&gt;&lt;td&gt;+0&lt;/td&gt;&lt;td&gt;+0&lt;/td&gt;&lt;td&gt;+2&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Oracle.html#MALEDICTIONDELORACLE&quot; title=&quot;L&amp;#39;oracle&quot;&gt;mal&#233;diction de l&#39;oracle&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Oracle.html#MYSTERE&quot; title=&quot;L&amp;#39;oracle&quot;&gt;myst&#232;re&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Oracle.html#ORAISON&quot; title=&quot;L&amp;#39;oracle&quot;&gt;oraison&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Oracle.html#REVELATION&quot; title=&quot;L&amp;#39;oracle&quot;&gt;r&#233;v&#233;lation&lt;/a&gt;&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;+1&lt;/td&gt;&lt;td&gt;+0&lt;/td&gt;&lt;td&gt;+0&lt;/td&gt;&lt;td&gt;+3&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Oracle.html#SORTDEMYSTERE&quot; title=&quot;L&amp;#39;oracle&quot;&gt;sort de myst&#232;re&lt;/a&gt;&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;+2&lt;/td&gt;&lt;td&gt;+1&lt;/td&gt;&lt;td&gt;+1&lt;/td&gt;&lt;td&gt;+3&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Oracle.html#REVELATION&quot; title=&quot;L&amp;#39;oracle&quot;&gt;r&#233;v&#233;lation&lt;/a&gt;&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;+3&lt;/td&gt;&lt;td&gt;+1&lt;/td&gt;&lt;td&gt;+1&lt;/td&gt;&lt;td&gt;+4&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Oracle.html#SORTDEMYSTERE&quot; title=&quot;L&amp;#39;oracle&quot;&gt;sort de myst&#232;re&lt;/a&gt;&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;+3&lt;/td&gt;&lt;td&gt;+1&lt;/td&gt;&lt;td&gt;+1&lt;/td&gt;&lt;td&gt;+4&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;+4&lt;/td&gt;&lt;td&gt;+2&lt;/td&gt;&lt;td&gt;+2&lt;/td&gt;&lt;td&gt;+5&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Oracle.html#SORTDEMYSTERE&quot; title=&quot;L&amp;#39;oracle&quot;&gt;sort de myst&#232;re&lt;/a&gt;&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;7&lt;/td&gt;&lt;td&gt;+5&lt;/td&gt;&lt;td&gt;+2&lt;/td&gt;&lt;td&gt;+2&lt;/td&gt;&lt;td&gt;+5&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Oracle.html#REVELATION&quot; title=&quot;L&amp;#39;oracle&quot;&gt;r&#233;v&#233;lation&lt;/a&gt;&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;8&lt;/td&gt;&lt;td&gt;+6/+1&lt;/td&gt;&lt;td&gt;+2&lt;/td&gt;&lt;td&gt;+2&lt;/td&gt;&lt;td&gt;+6&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Oracle.html#SORTDEMYSTERE&quot; title=&quot;L&amp;#39;oracle&quot;&gt;sort de myst&#232;re&lt;/a&gt;&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;9&lt;/td&gt;&lt;td&gt;+6/+1&lt;/td&gt;&lt;td&gt;+3&lt;/td&gt;&lt;td&gt;+3&lt;/td&gt;&lt;td&gt;+6&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;+7/+2&lt;/td&gt;&lt;td&gt;+3&lt;/td&gt;&lt;td&gt;+3&lt;/td&gt;&lt;td&gt;+7&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Oracle.html#SORTDEMYSTERE&quot; title=&quot;L&amp;#39;oracle&quot;&gt;sort de myst&#232;re&lt;/a&gt;&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;11&lt;/td&gt;&lt;td&gt;+8/+3&lt;/td&gt;&lt;td&gt;+3&lt;/td&gt;&lt;td&gt;+3&lt;/td&gt;&lt;td&gt;+7&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Oracle.html#REVELATION&quot; title=&quot;L&amp;#39;oracle&quot;&gt;r&#233;v&#233;lation&lt;/a&gt;&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;12&lt;/td&gt;&lt;td&gt;+9/+4&lt;/td&gt;&lt;td&gt;+4&lt;/td&gt;&lt;td&gt;+4&lt;/td&gt;&lt;td&gt;+8&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Oracle.html#SORTDEMYSTERE&quot; title=&quot;L&amp;#39;oracle&quot;&gt;sort de myst&#232;re&lt;/a&gt;&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;13&lt;/td&gt;&lt;td&gt;+9/+4&lt;/td&gt;&lt;td&gt;+4&lt;/td&gt;&lt;td&gt;+4&lt;/td&gt;&lt;td&gt;+8&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;14&lt;/td&gt;&lt;td&gt;+10/+5&lt;/td&gt;&lt;td&gt;+4&lt;/td&gt;&lt;td&gt;+4&lt;/td&gt;&lt;td&gt;+9&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Oracle.html#SORTDEMYSTERE&quot; title=&quot;L&amp;#39;oracle&quot;&gt;sort de myst&#232;re&lt;/a&gt;&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;15&lt;/td&gt;&lt;td&gt;+11/+6/+1&lt;/td&gt;&lt;td&gt;+5&lt;/td&gt;&lt;td&gt;+5&lt;/td&gt;&lt;td&gt;+9&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Oracle.html#REVELATION&quot; title=&quot;L&amp;#39;oracle&quot;&gt;r&#233;v&#233;lation&lt;/a&gt;&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;16&lt;/td&gt;&lt;td&gt;+12/+7/+2&lt;/td&gt;&lt;td&gt;+5&lt;/td&gt;&lt;td&gt;+5&lt;/td&gt;&lt;td&gt;+10&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Oracle.html#SORTDEMYSTERE&quot; title=&quot;L&amp;#39;oracle&quot;&gt;sort de myst&#232;re&lt;/a&gt;&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;17&lt;/td&gt;&lt;td&gt;+12/+7/+2&lt;/td&gt;&lt;td&gt;+5&lt;/td&gt;&lt;td&gt;+5&lt;/td&gt;&lt;td&gt;+10&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;18&lt;/td&gt;&lt;td&gt;+13/+8/+3&lt;/td&gt;&lt;td&gt;+6&lt;/td&gt;&lt;td&gt;+6&lt;/td&gt;&lt;td&gt;+11&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Oracle.html#SORTDEMYSTERE&quot; title=&quot;L&amp;#39;oracle&quot;&gt;sort de myst&#232;re&lt;/a&gt;&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;19&lt;/td&gt;&lt;td&gt;+14/+9/+4&lt;/td&gt;&lt;td&gt;+6&lt;/td&gt;&lt;td&gt;+6&lt;/td&gt;&lt;td&gt;+11&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Oracle.html#REVELATION&quot; title=&quot;L&amp;#39;oracle&quot;&gt;r&#233;v&#233;lation&lt;/a&gt;&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;20&lt;/td&gt;&lt;td&gt;+15/+10/+5&lt;/td&gt;&lt;td&gt;+6&lt;/td&gt;&lt;td&gt;+6&lt;/td&gt;&lt;td&gt;+12&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Oracle.html#SORTDEMYSTERE&quot; title=&quot;L&amp;#39;oracle&quot;&gt;sort de myst&#232;re&lt;/a&gt;&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/center&gt;&lt;br /&gt;&lt;br /&gt;
+&lt;b&gt;R&#244;le.&lt;/b&gt; Habituellement, les oracles ne s’associent pas &#224; une &#233;glise ou un temple et pr&#233;f&#232;rent voyager seuls ou avec un petit groupe d’individus &#224; la tournure d’esprit similaire. Ils profitent g&#233;n&#233;ralement de leurs sorts pour approfondir leurs connaissances des myst&#232;res, que ce soit en livrant de nombreux combats ou en s’occupant des malades et des pauvres.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Alignement.&lt;/b&gt; tous&lt;br /&gt;&lt;br /&gt;&lt;b&gt;D&#233; de vie.&lt;/b&gt; d8&lt;br /&gt;&lt;br /&gt;&lt;h2 class=&quot;separator&quot;&gt;Comp&#233;tences de classe&lt;a class=&quot;headeranchor&quot; id=&quot;Comp&#233;tences_de_classe_8&quot; href=&quot;#Comp&#233;tences_de_classe_8&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;Voici les comp&#233;tences de classe de l’oracle : &lt;a class=&quot;pagelink&quot; href=&quot;Artisanat.html&quot; title=&quot;Artisanat&quot;&gt;Artisanat&lt;/a&gt; (Int), &lt;a class=&quot;pagelink&quot; href=&quot;Art-De-La-Magie.html&quot; title=&quot;Art de la magie&quot;&gt;Art de la magie&lt;/a&gt; (Int), &lt;a class=&quot;pagelink&quot; href=&quot;Connaissances.html&quot; title=&quot;Connaissances&quot;&gt;Connaissances&lt;/a&gt; (histoire) (Int), &lt;a class=&quot;pagelink&quot; href=&quot;Connaissances.html&quot; title=&quot;Connaissances&quot;&gt;Connaissances&lt;/a&gt; (plans) (Int), &lt;a class=&quot;pagelink&quot; href=&quot;Connaissances.html&quot; title=&quot;Connaissances&quot;&gt;Connaissances&lt;/a&gt; (religion) (Int), &lt;a class=&quot;pagelink&quot; href=&quot;Diplomatie.html&quot; title=&quot;Diplomatie&quot;&gt;Diplomatie&lt;/a&gt; (Cha), &lt;a class=&quot;pagelink&quot; href=&quot;Premiers-Secours.html&quot; title=&quot;Premiers secours&quot;&gt;Premiers secours&lt;/a&gt; (Sag), &lt;a class=&quot;pagelink&quot; href=&quot;Profession.html&quot; title=&quot;Profession&quot;&gt;Profession&lt;/a&gt; (Sag), &lt;a class=&quot;pagelink&quot; href=&quot;Psychologie.html&quot; title=&quot;Psychologie&quot;&gt;Psychologie&lt;/a&gt; (Sag). &lt;br /&gt;&lt;br /&gt;&lt;i&gt;Les oracles re&#231;oivent des comp&#233;tences de classe suppl&#233;mentaires en fonction de leur myst&#232;re.&lt;/i&gt; &lt;br /&gt;&lt;br /&gt;&lt;b&gt;Rangs de comp&#233;tence par niveau.&lt;/b&gt; 4 + modificateur d’&lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#INTELLIGENCE&quot; title=&quot;L&amp;#39;Intelligence&quot;&gt;Intelligence&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;h2 class=&quot;separator&quot;&gt;Descriptif de la classe&lt;a class=&quot;headeranchor&quot; id=&quot;Descriptif_de_la_classe_9&quot; href=&quot;#Descriptif_de_la_classe_9&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;&lt;i&gt;Voici les caract&#233;ristiques de la classe d’oracle.&lt;/i&gt; &lt;br /&gt;&lt;br /&gt;&lt;h3 class=&quot;separator&quot;&gt;Maniement des armes et port des armures&lt;a class=&quot;headeranchor&quot; id=&quot;Maniement_des_armes_et_port_des_armures_4&quot; href=&quot;#Maniement_des_armes_et_port_des_armures_4&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt; L’oracle est form&#233; au maniement de toutes les &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques-Des-Armes.html#ARMECOURANTE&quot; title=&quot;armes courantes&quot;&gt;armes courantes&lt;/a&gt; ainsi qu’au port des &lt;a class=&quot;pagelink&quot; href=&quot;Tableau-R&#233;capitulatif-Des-Armures.html#LEGERES&quot; title=&quot;armure l&#233;g&#232;re&quot;&gt;armures l&#233;g&#232;res&lt;/a&gt; et &lt;a class=&quot;pagelink&quot; href=&quot;Tableau-R&#233;capitulatif-Des-Armures.html#INTERMEDIAIRES&quot; title=&quot;armure interm&#233;diaire&quot;&gt;interm&#233;diaires&lt;/a&gt; et au maniement des boucliers (mais pas des pavois). Certaines r&#233;v&#233;lations permettent de manier d’autres armes et de porter d’autres armures.&lt;br /&gt;&lt;br /&gt;&lt;h3 class=&quot;separator&quot;&gt;Sorts&lt;a class=&quot;headeranchor&quot; id=&quot;Sorts_5&quot; href=&quot;#Sorts_5&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;&lt;div style=&quot;float:right; background-color: #fff; padding: 0 0 16px 16px&quot;&gt;
+&lt;div style=&quot;border: 1px solid #4b3124; padding: 4px&quot;&gt;
+&lt;a name=&quot;SORTSCONNUSDELORACLE&quot;&gt;&lt;/a&gt;
+&lt;center&gt;
+&lt;table CLASS=&quot;tablo&quot;&gt;&lt;caption&gt;Sorts connus par l&#39;oracle&lt;/caption&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td ROWSPAN=&quot;2&quot;&gt;Niveau&lt;/td&gt;&lt;td COLSPAN=&quot;10&quot; CLASS=&quot;avecsoustitre gauche&quot;&gt;Sorts connus&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;soustitre&quot;&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;1er&lt;/td&gt;&lt;td&gt;2e&lt;/td&gt;&lt;td&gt;3e&lt;/td&gt;&lt;td&gt;4e&lt;/td&gt;&lt;td&gt;5e&lt;/td&gt;&lt;td&gt;6e&lt;/td&gt;&lt;td&gt;7e&lt;/td&gt;&lt;td&gt;8e&lt;/td&gt;&lt;td&gt;9e&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier&quot;&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;7&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;7&lt;/td&gt;&lt;td&gt;7&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;8&lt;/td&gt;&lt;td&gt;8&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;9&lt;/td&gt;&lt;td&gt;8&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;9&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;11&lt;/td&gt;&lt;td&gt;9&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;12&lt;/td&gt;&lt;td&gt;9&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;13&lt;/td&gt;&lt;td&gt;9&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;14&lt;/td&gt;&lt;td&gt;9&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;15&lt;/td&gt;&lt;td&gt;9&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;16&lt;/td&gt;&lt;td&gt;9&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;17&lt;/td&gt;&lt;td&gt;9&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;18&lt;/td&gt;&lt;td&gt;9&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;19&lt;/td&gt;&lt;td&gt;9&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;20&lt;/td&gt;&lt;td&gt;9&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/center&gt;&lt;/div&gt;&lt;/div&gt; L’oracle lance des sorts divins tir&#233;s de la &lt;a class=&quot;pagelink&quot; href=&quot;Liste-Des-Sorts-De-Pr&#234;tres.html&quot; title=&quot;Liste des sorts de pr&#234;tres et d&amp;#39;oracles&quot;&gt;liste de sorts de pr&#234;tre&lt;/a&gt;. Il peut lancer tout sort de sa connaissance sans avoir besoin de le pr&#233;parer &#224; l’avance. Pour apprendre ou lancer un sort, l’oracle doit avoir une valeur de &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#CHARISME&quot; title=&quot;Le Charisme&quot;&gt;Charisme&lt;/a&gt; au moins &#233;gale &#224; 10 + niveau du sort. 
+&lt;b&gt;Le DD des jets de sauvegarde contre les sorts de l’oracle est de 10 + niveau du sort + modificateur de Charisme de l’oracle.&lt;/b&gt;
+Comme les autres lanceurs de sorts, l’oracle ne peut en lancer qu’un certain nombre de chaque niveau par jour. De plus, il re&#231;oit des sorts suppl&#233;mentaires s’il poss&#232;de une importante valeur de &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#CHARISME&quot; title=&quot;Le Charisme&quot;&gt;Charisme&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;Contrairement aux autres lanceurs de sorts divins, l’oracle dispose d’un choix de sorts tr&#232;s restreint. Il commence le jeu avec quatre sorts de niveau 0 et deux sorts de niveau 1 de son choix. &#192; chaque fois qu’il gagne un niveau, il gagne un ou plusieurs sorts, comme indiqu&#233; dans &lt;a class=&quot;pagelink&quot; href=&quot;Oracle.html#TABLEORACLE&quot; title=&quot;L&amp;#39;oracle&quot;&gt;la Table&lt;/a&gt;. Contrairement au nombre de sorts quotidiens, le nombre de sorts connus n’est pas affect&#233; par le Charisme de l’oracle, les valeurs cette &lt;a class=&quot;pagelink&quot; href=&quot;Oracle.html#SORTSCONNUSDELORACLE&quot; title=&quot;L&amp;#39;oracle&quot;&gt;table&lt;/a&gt; sont fixes.&lt;br /&gt;&lt;br /&gt;En plus des sorts que l’oracle obtient, il ajoute tous les sorts de soins ou de blessure &#224; sa liste de sorts connus. Il s’agit de tous les sorts qui poss&#232;dent le mot &#171; soins &#187; ou &#171; blessure &#187; dans leur intitul&#233;. Il les ajoute &#224; sa liste d&#232;s qu’il atteint le niveau n&#233;cessaire pour les lancer. L’oracle fait son choix entre les deux au niveau 1 et ne peut plus en changer par la suite.&lt;br /&gt;&lt;br /&gt;Quand l’oracle atteint le niveau 4 et, par la suite, tous les niveaux pairs (c’est-&#224;-dire 6, 8, etc.), il peut apprendre un nouveau sort &#224; la place d’un qu’il conna&#238;t d&#233;j&#224;. L’oracle &#171; perd &#187; l’ancien sort au profit du nouveau. Le nouveau sort doit &#234;tre du m&#234;me niveau que celui contre lequel il l’&#233;change. &#192; chaque niveau possible, l’oracle ne peut &#233;changer qu’un seul sort et doit choisir de le faire ou non au moment o&#249; il apprend ses nouveaux sorts du niveau. Il ne peut pas &#233;changer un sort de soins ou de blessure ni aucun sort appris gr&#226;ce &#224; son myst&#232;re. Contrairement aux &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#234;tre.html&quot; title=&quot;Le pr&#234;tre&quot;&gt;pr&#234;tres&lt;/a&gt;, les oracles n’ont pas besoin de pr&#233;parer leurs sorts &#224; l’avance. Ils peuvent lancer tout sort connu quand ils le d&#233;sirent, tant qu’il leur reste des sorts du niveau requis utilisables pour la journ&#233;e. Ils n’ont pas besoin de &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#FOCALISEURDIVIN&quot; title=&quot;focalisateur divin&quot;&gt;focalisateur divin&lt;/a&gt; pour lancer les sorts qui en mentionnent un (FD) dans leurs composantes.&lt;br /&gt;&lt;br /&gt;&lt;a name=&quot;ORAISON&quot;&gt;&lt;/a&gt;
+&lt;h4 class=&quot;separator&quot;&gt;Oraisons&lt;a class=&quot;headeranchor&quot; id=&quot;Oraisons_0&quot; href=&quot;#Oraisons_0&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h4&gt;L’oracle conna&#238;t un certain nombre d’oraisons, ou sorts de niveau 0, comme indiqu&#233; dans &lt;a class=&quot;pagelink&quot; href=&quot;Oracle.html#SORTSCONNUSDELORACLE&quot; title=&quot;L&amp;#39;oracle&quot;&gt;la table&lt;/a&gt; des &#171; sorts connus &#187; ci-contre. Il jette ces sorts comme les autres mais ils ne sont pas d&#233;pens&#233;s lorsqu’ils sont lanc&#233;s et peuvent &#234;tre utilis&#233;s &#224; nouveau.&lt;br /&gt;&lt;br /&gt;&lt;a name=&quot;MYSTERE&quot;&gt;&lt;/a&gt;
+&lt;h3 class=&quot;separator&quot;&gt;Myst&#232;re&lt;a class=&quot;headeranchor&quot; id=&quot;Myst&#232;re_6&quot; href=&quot;#Myst&#232;re_6&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt; Chaque oracle tire ses pouvoirs et ses sorts d’un myst&#232;re divin qui lui donne &#233;galement des pouvoirs de classe et des aptitudes sp&#233;ciales suppl&#233;mentaires. Ce myst&#232;re repr&#233;sente sa d&#233;votion envers un id&#233;al, des pri&#232;res d&#233;di&#233;es &#224; des divinit&#233;s qui soutiennent ce concept ou une vocation naturelle pour le r&#244;le de champion d’une cause. Par exemple, un oracle du myst&#232;re des vagues peut &#234;tre n&#233; en mer et ressentir un besoin naturel de v&#233;n&#233;rer les dieux des oc&#233;ans, des rivi&#232;res et des lacs, qu’ils soient mal&#233;fiques ou bienveillants. Quelle que soit son origine, le myst&#232;re se manifeste de plusieurs mani&#232;res au fur et &#224; mesure que l’oracle gagne des niveaux. L’oracle doit en choisir un au niveau 1 et ne pourra pas en changer par la suite. &lt;br /&gt;&lt;br /&gt;Voir &lt;a class=&quot;pagelink&quot; href=&quot;Myst&#232;res.html&quot; title=&quot;Les myst&#232;res d&amp;#39;oracle&quot;&gt;les myst&#232;res d&#39;oracle&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;&lt;a name=&quot;SORTDEMYSTERE&quot;&gt;&lt;/a&gt;
+&lt;h4 class=&quot;separator&quot;&gt;Sorts de Myst&#232;re&lt;a class=&quot;headeranchor&quot; id=&quot;Sorts_de_Myst&#232;re_1&quot; href=&quot;#Sorts_de_Myst&#232;re_1&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h4&gt;Au niveau 2, et par la suite tous les niveaux pairs, l’oracle apprend de nouveaux sorts issus de son myst&#232;re. Il est impossible de les &#233;changer contre d’autres sorts en atteignant un niveau sup&#233;rieur. &lt;br /&gt;&lt;br /&gt;&lt;a name=&quot;REVELATION&quot;&gt;&lt;/a&gt;
+&lt;h4 class=&quot;separator&quot;&gt;R&#233;v&#233;lation&lt;a class=&quot;headeranchor&quot; id=&quot;R&#233;v&#233;lation_2&quot; href=&quot;#R&#233;v&#233;lation_2&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h4&gt; Au niveau 1, 3 et ensuite tous les quatre niveaux (7, 11, etc.), l’oracle d&#233;couvre un nouveau secret sur le &lt;a class=&quot;pagelink&quot; href=&quot;Myst&#232;res.html&quot; title=&quot;Les myst&#232;res d&amp;#39;oracle&quot;&gt;myst&#232;re&lt;/a&gt; qui lui accorde ses pouvoirs et ses aptitudes. Il doit choisir une r&#233;v&#233;lation dans la liste de celles disponibles pour son myst&#232;re. S’il choisit une r&#233;v&#233;lation &#224; un niveau sup&#233;rieur, il gagne toutes les aptitudes et tous les bonus associ&#233;s en fonction de son niveau actuel. Sauf indication contraire, il faut une &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions.html#SIMPLE&quot; title=&quot;Action simple&quot;&gt;action simple&lt;/a&gt; pour activer les pouvoirs d’une r&#233;v&#233;lation.&lt;br /&gt;&lt;br /&gt;&lt;a name=&quot;REVELATIONFINALE&quot;&gt;&lt;/a&gt;
+&lt;h4 class=&quot;separator&quot;&gt;R&#233;v&#233;lation finale&lt;a class=&quot;headeranchor&quot; id=&quot;R&#233;v&#233;lation_finale_3&quot; href=&quot;#R&#233;v&#233;lation_finale_3&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h4&gt; Au niveau 20, l’oracle d&#233;couvre la r&#233;v&#233;lation finale de son &lt;a class=&quot;pagelink&quot; href=&quot;Myst&#232;res.html&quot; title=&quot;Les myst&#232;res d&amp;#39;oracle&quot;&gt;myst&#232;re&lt;/a&gt;, ce qui lui donne des pouvoirs prodigieux. La nature de ces bonus d&#233;pend de son myst&#232;re.&lt;br /&gt;&lt;br /&gt;&lt;a name=&quot;MALEDICTIONDELORACLE&quot;&gt;&lt;/a&gt;
+&lt;h3 class=&quot;separator&quot;&gt;Mal&#233;diction de l’oracle (Ext)&lt;a class=&quot;headeranchor&quot; id=&quot;Mal&#233;diction_de_l’oracle_Ext_7&quot; href=&quot;#Mal&#233;diction_de_l’oracle_Ext_7&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt; Chaque oracle est maudit, mais cette mal&#233;diction apporte des avantages aussi bien que des handicaps. Ce choix se fait au niveau 1 et il est impossible d’en changer par la suite. Il est impossible de d&#233;livrer l’oracle de sa mal&#233;diction sans l’aide d’une divinit&#233;. Cette mal&#233;diction est bas&#233;e sur le niveau de l’oracle plus un par tranche de deux niveaux ou deux DV d’autre chose qu’oracle. Chaque oracle doit choisir l’une des mal&#233;dictions suivantes.
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Boiteux.&lt;/b&gt; Le personnage a une jambe bless&#233;e qui r&#233;duit sa vitesse de base de 3 m&#232;tres (2 cases) si elle &#233;tait de 9 m&#232;tres (6 cases) ou plus. Si elle &#233;tait inf&#233;rieure, elle est r&#233;duite de 1,50 m (1 case). En revanche, l’encombrement ne la r&#233;duit jamais. Au niveau 5, le personnage est immunis&#233; contre la &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables.html#Fatigu&#233;&quot; title=&quot;Fatigu&#233;&quot;&gt;fatigue&lt;/a&gt; (mais pas contre l’&lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables.html#&#201;puis&#233;&quot; title=&quot;&#201;puis&#233;&quot;&gt;&#233;puisement&lt;/a&gt;). Au niveau 10, les armures ne r&#233;duisent jamais sa vitesse et au niveau 15, il est immunis&#233; contre l’&lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables.html#&#201;puis&#233;&quot; title=&quot;&#201;puis&#233;&quot;&gt;&#233;puisement&lt;/a&gt;.&lt;/li&gt;&lt;li&gt;&lt;b&gt;D&#233;composition.&lt;/b&gt; Le corps du personnage se d&#233;compose lentement. Il subit un malus de -4 &#224; tous les tests bas&#233;s sur le &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#CHARISME&quot; title=&quot;Le Charisme&quot;&gt;Charisme&lt;/a&gt; en dehors de l’&lt;a class=&quot;pagelink&quot; href=&quot;Intimidation.html&quot; title=&quot;Intimidation&quot;&gt;Intimidation&lt;/a&gt;. Il gagne un bonus de comp&#233;tence de +4 aux &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;jet de sauvegarde&quot;&gt;jets de sauvegarde&lt;/a&gt; contre la maladie (mais pas contre la &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables.html#Naus&#233;eux&quot; title=&quot;Naus&#233;eux&quot;&gt;naus&#233;e&lt;/a&gt;). Au niveau 10, il est immunis&#233; contre les maladies et au niveau 15, contre la &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables.html#Naus&#233;eux&quot; title=&quot;Naus&#233;eux&quot;&gt;naus&#233;e&lt;/a&gt;.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Hant&#233;.&lt;/b&gt; Des esprits mal&#233;fiques suivent le personnage partout o&#249; il va, provoquant des incidents mineurs et d’&#233;tranges ph&#233;nom&#232;nes (comme des souffles d’air inattendus, des petits objets qui se d&#233;placent seuls et des bruits discrets). Quand le personnage veut sortir un objet de son sac, il lui faut une &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions.html#SIMPLE&quot; title=&quot;Action simple&quot;&gt;action simple&lt;/a&gt;, sauf si cela devrait normalement lui prendre plus longtemps. Tout objet qu’il l&#226;che tombe &#224; 9 m&#232;tres (6 cases) de lui, dans une direction al&#233;atoire. Le personnage ajoute &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Manipulation-&#192;-Distance.html&quot; title=&quot;Manipulation &#224; distance&quot;&gt;manipulation &#224; distance&lt;/a&gt;&lt;/i&gt; et &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Son-Imaginaire.html&quot; title=&quot;Son imaginaire&quot;&gt;son imaginaire&lt;/a&gt;&lt;/i&gt; &#224; la liste de ses sorts connus. Au niveau 5, il ajoute &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;L&#233;vitation.html&quot; title=&quot;L&#233;vitation&quot;&gt;l&#233;vitation&lt;/a&gt;&lt;/i&gt; et &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Image-Imparfaite.html&quot; title=&quot;Image imparfaite&quot;&gt;image imparfaite&lt;/a&gt;&lt;/i&gt;, au niveau 10 &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;T&#233;l&#233;kin&#233;sie.html&quot; title=&quot;T&#233;l&#233;kin&#233;sie&quot;&gt;t&#233;l&#233;kin&#233;sie&lt;/a&gt;&lt;/i&gt; et au niveau 15 &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Inversion-De-La-Gravit&#233;.html&quot; title=&quot;Inversion de la gravit&#233;&quot;&gt;inversion de la gravit&#233;&lt;/a&gt;&lt;/i&gt;.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Multilingue.&lt;/b&gt; Dans des conditions de stress ou de malaise, le personnage change de &lt;a class=&quot;pagelink&quot; href=&quot;Linguistique.html&quot; title=&quot;Linguistique&quot;&gt;langue&lt;/a&gt;. Il choisit l’abyssal, l’aklo, l’aquatique, l’a&#233;rien, le c&#233;leste, l’ign&#233;, l’infernal ou le terreux et, &#224; chaque fois qu’il se bat, il ne parle plus que ce langage. Ce qui ne l’emp&#234;che pas de lancer des sorts, mais influe sur les sorts qui d&#233;pendent du langage. Il gagne la langue choisie comme &lt;a class=&quot;pagelink&quot; href=&quot;Linguistique.html&quot; title=&quot;Linguistique&quot;&gt;langue suppl&#233;mentaire&lt;/a&gt;. Au niveau 5, il choisit une autre langue &#224; parler en combat et l’ajoute &#224; sa liste des langues connues. Au niveau 10, il comprend tous les langages parl&#233;s, comme sous l’effet d’un &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Don-Des-Langues.html&quot; title=&quot;Don des langues&quot;&gt;don des langues&lt;/a&gt;&lt;/i&gt;, m&#234;me en combat. Au niveau 15, il comprend et parle toutes les langues mais son langage est toujours limit&#233; quand il se bat.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Sourd.&lt;/b&gt; Le personnage n’entend rien et souffre de tous les malus qui vont de pair avec la &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables.html#Assourdi&quot; title=&quot;sourd&quot;&gt;surdit&#233;&lt;/a&gt;. Il lance tous ses sorts comme s’ils &#233;taient sous l’effet d’une &lt;a class=&quot;pagelink&quot; href=&quot;Incantation-Silencieuse.html&quot; title=&quot;Incantation silencieuse&quot;&gt;Incantation silencieuse&lt;/a&gt;, sans augmenter leur temps d’incantation ni leur niveau. Au niveau 5, il re&#231;oit un bonus de comp&#233;tence de +3 aux tests de &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; qui ne d&#233;pendent pas de l’ou&#239;e et le malus d’&lt;a class=&quot;pagelink&quot; href=&quot;D&#233;roulement-Dun-Combat.html#INITIATIVE&quot; title=&quot;initiative&quot;&gt;initiative&lt;/a&gt; li&#233; &#224; la surdit&#233; est r&#233;duit &#224; -2. Au niveau 10, il gagne &lt;a class=&quot;pagelink&quot; href=&quot;Odorat-(Capacit&#233;).html&quot; title=&quot;odorat&quot;&gt;odorat&lt;/a&gt; et ne souffre plus de malus &#224; l’initiative &#224; cause de la surdit&#233;. Au niveau 15, il gagne &lt;a class=&quot;pagelink&quot; href=&quot;Perception-Des-Vibrations-(Capacit&#233;).html&quot; title=&quot;Perception des vibrations&quot;&gt;perception des vibrations&lt;/a&gt; dans un rayon de 9 m&#232;tres (6 cases).&lt;/li&gt;&lt;li&gt;&lt;b&gt;Vision obscurcie.&lt;/b&gt; La vision de l’oracle est obscurcie et il a du mal &#224; voir. Il ne voit rien au-del&#224; de 9 m&#232;tres (6 cases), mais il peut y voir comme s&#39;il poss&#233;dait &lt;a class=&quot;pagelink&quot; href=&quot;Capacit&#233;s-Sp&#233;ciales.html#VISIONDANSLENOIR&quot; title=&quot;vision dans le noir&quot;&gt;vision dans le noir&lt;/a&gt;. Au niveau 5, cette distance passe &#224; 18 m&#232;tres (12 cases). Au niveau 10, il gagne &lt;a class=&quot;pagelink&quot; href=&quot;Perception-Aveugle-(Capacit&#233;).html&quot; title=&quot;perception aveugle&quot;&gt;perception aveugle&lt;/a&gt; &#224; 9 m&#232;tres (6 cases) et au niveau 15 &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Aveugle-(Capacit&#233;).html&quot; title=&quot;vision aveugle&quot;&gt;vision aveugle&lt;/a&gt; &#224; 1,50 m (1 case).&lt;br /&gt;&lt;/li&gt;&lt;/ul&gt;
+]]></body>
+  <raw><![CDATA[{s:MenuClasses}
+<div class="fright">
+'''''Voir aussi les [[mystères]] d'oracle.'''''<br/>
+'''''Voir aussi la [[liste des sorts de prêtres|liste des sorts d'oracles]].'''''<br/>
+{s:PM0|oracle}'''Voir les archétypes de l'oracle'''&emsp;
+<ul ID="oracle" CLASS="listecachée cadrebas">
+  <li>[[Oracle doublement maudit (oracle)|Oracle doublement maudit]] (UM)</li>
+<li>[[Oracle des étoiles (oracle)|Oracle des étoiles]] (UM)</li>
+<li>[[Oracle possédé (oracle)|Oracle possédé]] (UM)</li>
+<li>[[Philosophe éclairé (oracle)|Philosophe éclairé]] (UM)</li>
+<li>[[Prophète (oracle)|Prophète]] (UM)</li>
+<li>[[Oracle planaire (oracle)|Oracle planaire]] (UM)</li>
+<li>[[Purificateur (oracle)|Purificateur]] (MR)</li>
+</ul></div>
+
+
+
+
+{s:APG}
+''Les dieux œuvrent par l’intermédiaire de bien des agents mais aucun n’est aussi mystérieux que l’oracle. Ces réceptacles divins reçoivent des pouvoirs sans avoir eu le choix et seule la providence choisit les oracles à qui elle confie des pouvoirs qu’ils ne comprennent pas entièrement. Contrairement aux prêtres qui puisent leur magie dans leur dévotion  à leur dieu, les oracles tirent leur force et leur puissance de nombreuses sources, en particulier des divinités protectrices qui partagent leurs idéaux. Au lieu de vénérer un  seul dieu, les oracles tendent à adorer tous ceux qui partagent leurs croyances. Certains considèrent leurs pouvoirs comme une bénédiction, d’autres comme une malédiction car ils changent la vie de l’élu de manière imprévisible.''
+
+{s:Reference|TABLEORACLE}
+<center>
+{| CLASS="tablo"
+|+ L'oracle
+|- CLASS="titre"
+| ROWSPAN="2" | Niveau
+| ROWSPAN="2" | BBA
+| ROWSPAN="2" | Réflexes
+| ROWSPAN="2" | Vigueur
+| ROWSPAN="2" | Volonté
+| ROWSPAN="2" | Spécial
+| COLSPAN="9" CLASS="avecsoustitre" | Sorts par jour
+|- CLASS="soustitre"
+| 1er
+| 2e
+| 3e
+| 4e
+| 5e
+| 6e
+| 7e
+| 8e
+| 9e
+|- CLASS="premier"
+| 1
+| +0
+| +0
+| +0
+| +2
+| CLASS="gauche" | [[oracle#MALEDICTIONDELORACLE|malédiction de l'oracle]], [[oracle#MYSTERE|mystère]], [[oracle#ORAISON|oraison]], [[oracle#REVELATION|révélation]]
+| 3
+| -
+| -
+| -
+| -
+| -
+| -
+|- CLASS="alt"
+| 2
+| +1
+| +0
+| +0
+| +3
+| CLASS="gauche" | [[oracle#SORTDEMYSTERE|sort de mystère]]
+| 4
+| -
+| -
+| -
+| -
+| -
+| -
+| -
+| -
+|-
+| 3
+| +2
+| +1
+| +1
+| +3
+| CLASS="gauche" | [[oracle#REVELATION|révélation]]
+| 5
+| -
+| -
+| -
+| -
+| -
+| -
+| -
+| -
+|- CLASS="alt"
+| 4
+| +3
+| +1
+| +1
+| +4
+| CLASS="gauche" | [[oracle#SORTDEMYSTERE|sort de mystère]]
+| 6
+| 3
+| -
+| -
+| -
+| -
+| -
+| -
+| -
+|-
+| 5
+| +3
+| +1
+| +1
+| +4
+| CLASS="gauche" | &nbsp;
+| 6
+| 4
+| -
+| -
+| -
+| -
+| -
+| -
+| -
+|- CLASS="alt"
+| 6
+| +4
+| +2
+| +2
+| +5
+| CLASS="gauche" | [[oracle#SORTDEMYSTERE|sort de mystère]]
+| 6
+| 5
+| 3
+| -
+| -
+| -
+| -
+| -
+| -
+|-
+| 7
+| +5
+| +2
+| +2
+| +5
+| CLASS="gauche" | [[oracle#REVELATION|révélation]]
+| 6
+| 6
+| 4
+| -
+| -
+| -
+| -
+| -
+| -
+|- CLASS="alt"
+| 8
+| +6/+1
+| +2
+| +2
+| +6
+| CLASS="gauche" | [[oracle#SORTDEMYSTERE|sort de mystère]]
+| 6
+| 6
+| 5
+| 3
+| -
+| -
+| -
+| -
+| -
+|-
+| 9
+| +6/+1
+| +3
+| +3
+| +6
+| CLASS="gauche" | &nbsp;
+| 6
+| 6
+| 6
+| 4
+| -
+| -
+| -
+| -
+| -
+|- CLASS="alt"
+| 10
+| +7/+2
+| +3
+| +3
+| +7
+| CLASS="gauche" | [[oracle#SORTDEMYSTERE|sort de mystère]]
+| 6
+| 6
+| 6
+| 5
+| 3
+| -
+| -
+| -
+| -
+|-
+| 11
+| +8/+3
+| +3
+| +3
+| +7
+| CLASS="gauche" | [[oracle#REVELATION|révélation]]
+| 6
+| 6
+| 6
+| 6
+| 4
+| -
+| -
+| -
+| -
+|- CLASS="alt"
+| 12
+| +9/+4
+| +4
+| +4
+| +8
+| CLASS="gauche" | [[oracle#SORTDEMYSTERE|sort de mystère]]
+| 6
+| 6
+| 6
+| 6
+| 5
+| 3
+| -
+| -
+| -
+|-
+| 13
+| +9/+4
+| +4
+| +4
+| +8
+| CLASS="gauche" | &nbsp;
+| 6
+| 6
+| 6
+| 6
+| 6
+| 4
+| -
+| -
+| -
+|- CLASS="alt"
+| 14
+| +10/+5
+| +4
+| +4
+| +9
+| CLASS="gauche" | [[oracle#SORTDEMYSTERE|sort de mystère]]
+| 6
+| 6
+| 6
+| 6
+| 6
+| 5
+| 3
+| -
+| -
+|-
+| 15
+| +11/+6/+1
+| +5
+| +5
+| +9
+| CLASS="gauche" | [[oracle#REVELATION|révélation]]
+| 6
+| 6
+| 6
+| 6
+| 6
+| 6
+| 4
+| -
+| -
+|- CLASS="alt"
+| 16
+| +12/+7/+2
+| +5
+| +5
+| +10
+| CLASS="gauche" | [[oracle#SORTDEMYSTERE|sort de mystère]]
+| 6
+| 6
+| 6
+| 6
+| 6
+| 6
+| 5
+| 3
+| -
+|-
+| 17
+| +12/+7/+2
+| +5
+| +5
+| +10
+| CLASS="gauche" | &nbsp;
+| 6
+| 6
+| 6
+| 6
+| 6
+| 6
+| 6
+| 4
+| -
+|- CLASS="alt"
+| 18
+| +13/+8/+3
+| +6
+| +6
+| +11
+| CLASS="gauche" | [[oracle#SORTDEMYSTERE|sort de mystère]]
+| 6
+| 6
+| 6
+| 6
+| 6
+| 6
+| 6
+| 5
+| 3
+|-
+| 19
+| +14/+9/+4
+| +6
+| +6
+| +11
+| CLASS="gauche" | [[oracle#REVELATION|révélation]]
+| 6
+| 6
+| 6
+| 6
+| 6
+| 6
+| 6
+| 6
+| 4
+|- CLASS="alt"
+| 20
+| +15/+10/+5
+| +6
+| +6
+| +12
+| CLASS="gauche" | [[oracle#SORTDEMYSTERE|sort de mystère]]
+| 6
+| 6
+| 6
+| 6
+| 6
+| 6
+| 6
+| 6
+| 6
+|}
+</center>
+
+{s:ImageDroite|Illustrations/PNJ/Alahazra.jpg|25%}
+'''Rôle.''' Habituellement, les oracles ne s’associent pas à une église ou un temple et préfèrent voyager seuls ou avec un petit groupe d’individus à la tournure d’esprit similaire. Ils profitent généralement de leurs sorts pour approfondir leurs connaissances des mystères, que ce soit en livrant de nombreux combats ou en s’occupant des malades et des pauvres.
+
+'''Alignement.''' tous
+
+'''Dé de vie.''' d8
+
+===Compétences de classe===
+Voici les compétences de classe de l’oracle : [[Artisanat]] (Int), [[Art de la magie]] (Int), [[Connaissances]] (histoire) (Int), [[Connaissances]] (plans) (Int), [[Connaissances]] (religion) (Int), [[Diplomatie]] (Cha), [[Premiers secours]] (Sag), [[Profession]] (Sag), [[Psychologie]] (Sag). 
+
+''Les oracles reçoivent des compétences de classe supplémentaires en fonction de leur mystère.'' 
+
+'''Rangs de compétence par niveau.''' 4 + modificateur d’[[Intelligence]]
+
+===Descriptif de la classe===
+''Voici les caractéristiques de la classe d’oracle.'' 
+
+====Maniement des armes et port des armures==== L’oracle est formé au maniement de toutes les [[armes courantes]] ainsi qu’au port des [[armure légère|armures légères]] et [[armure intermédiaire|intermédiaires]] et au maniement des boucliers (mais pas des pavois). Certaines révélations permettent de manier d’autres armes et de porter d’autres armures.
+
+====Sorts====<div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
+<div style="border: 1px solid #4b3124; padding: 4px">
+{s:Reference|SORTSCONNUSDELORACLE}
+<center>
+{| CLASS="tablo"
+|+ Sorts connus par l'oracle
+|- CLASS="titre"
+| ROWSPAN="2" | Niveau
+| COLSPAN="10" CLASS="avecsoustitre gauche" | Sorts connus
+|- CLASS="soustitre"
+| 0
+| 1er
+| 2e
+| 3e
+| 4e
+| 5e
+| 6e
+| 7e
+| 8e
+| 9e
+|- CLASS="premier"
+| 1
+| 4
+| 2
+| -
+| -
+| -
+| -
+| -
+| -
+| -
+| -
+|- CLASS="alt"
+| 2
+| 5
+| 2
+| -
+| -
+| -
+| -
+| -
+| -
+| -
+| -
+|-
+| 3
+| 5
+| 3
+| -
+| -
+| -
+| -
+| -
+| -
+| -
+| -
+|- CLASS="alt"
+| 4
+| 6
+| 3
+| 1
+| -
+| -
+| -
+| -
+| -
+| -
+| -
+|-
+| 5
+| 6
+| 4
+| 2
+| -
+| -
+| -
+| -
+| -
+| -
+| -
+|- CLASS="alt"
+| 6
+| 7
+| 4
+| 2
+| 1
+| -
+| -
+| -
+| -
+| -
+| -
+|-
+| 7
+| 7
+| 5
+| 3
+| 2
+| -
+| -
+| -
+| -
+| -
+| -
+|- CLASS="alt"
+| 8
+| 8
+| 5
+| 3
+| 2
+| 1
+| -
+| -
+| -
+| -
+| -
+|-
+| 9
+| 8
+| 5
+| 4
+| 3
+| 2
+| -
+| -
+| -
+| -
+| -
+|- CLASS="alt"
+| 10
+| 9
+| 5
+| 4
+| 3
+| 2
+| 1
+| -
+| -
+| -
+| -
+|-
+| 11
+| 9
+| 5
+| 5
+| 4
+| 3
+| 2
+| -
+| -
+| -
+| -
+|- CLASS="alt"
+| 12
+| 9
+| 5
+| 5
+| 4
+| 3
+| 2
+| 1
+| -
+| -
+| -
+|-
+| 13
+| 9
+| 5
+| 5
+| 4
+| 4
+| 3
+| 2
+| -
+| -
+| -
+|- CLASS="alt"
+| 14
+| 9
+| 5
+| 5
+| 4
+| 4
+| 3
+| 2
+| 1
+| -
+| -
+|-
+| 15
+| 9
+| 5
+| 5
+| 4
+| 4
+| 4
+| 3
+| 2
+| -
+| -
+|- CLASS="alt"
+| 16
+| 9
+| 5
+| 5
+| 4
+| 4
+| 4
+| 3
+| 2
+| 1
+| -
+|-
+| 17
+| 9
+| 5
+| 5
+| 4
+| 4
+| 4
+| 3
+| 3
+| 2
+| -
+|- CLASS="alt"
+| 18
+| 9
+| 5
+| 5
+| 4
+| 4
+| 4
+| 3
+| 3
+| 2
+| 1
+|-
+| 19
+| 9
+| 5
+| 5
+| 4
+| 4
+| 4
+| 3
+| 3
+| 3
+| 2
+|- CLASS="alt"
+| 20
+| 9
+| 5
+| 5
+| 4
+| 4
+| 4
+| 3
+| 3
+| 3
+| 3
+|}
+</center></div></div> L’oracle lance des sorts divins tirés de la [[liste des sorts de prêtres|liste de sorts de prêtre]]. Il peut lancer tout sort de sa connaissance sans avoir besoin de le préparer à l’avance. Pour apprendre ou lancer un sort, l’oracle doit avoir une valeur de [[Charisme]] au moins égale à 10 + niveau du sort. 
+'''Le DD des jets de sauvegarde contre les sorts de l’oracle est de 10 + niveau du sort + modificateur de Charisme de l’oracle.'''
+Comme les autres lanceurs de sorts, l’oracle ne peut en lancer qu’un certain nombre de chaque niveau par jour. De plus, il reçoit des sorts supplémentaires s’il possède une importante valeur de [[Charisme]].
+
+Contrairement aux autres lanceurs de sorts divins, l’oracle dispose d’un choix de sorts très restreint. Il commence le jeu avec quatre sorts de niveau 0 et deux sorts de niveau 1 de son choix. À chaque fois qu’il gagne un niveau, il gagne un ou plusieurs sorts, comme indiqué dans [[oracle#TABLEORACLE|la Table]]. Contrairement au nombre de sorts quotidiens, le nombre de sorts connus n’est pas affecté par le Charisme de l’oracle, les valeurs cette [[oracle#SORTSCONNUSDELORACLE|table]] sont fixes.
+
+En plus des sorts que l’oracle obtient, il ajoute tous les sorts de soins ou de blessure à sa liste de sorts connus. Il s’agit de tous les sorts qui possèdent le mot « soins » ou « blessure » dans leur intitulé. Il les ajoute à sa liste dès qu’il atteint le niveau nécessaire pour les lancer. L’oracle fait son choix entre les deux au niveau 1 et ne peut plus en changer par la suite.
+
+Quand l’oracle atteint le niveau 4 et, par la suite, tous les niveaux pairs (c’est-à-dire 6, 8, etc.), il peut apprendre un nouveau sort à la place d’un qu’il connaît déjà. L’oracle « perd » l’ancien sort au profit du nouveau. Le nouveau sort doit être du même niveau que celui contre lequel il l’échange. À chaque niveau possible, l’oracle ne peut échanger qu’un seul sort et doit choisir de le faire ou non au moment où il apprend ses nouveaux sorts du niveau. Il ne peut pas échanger un sort de soins ou de blessure ni aucun sort appris grâce à son mystère. Contrairement aux [[prêtre|prêtres]], les oracles n’ont pas besoin de préparer leurs sorts à l’avance. Ils peuvent lancer tout sort connu quand ils le désirent, tant qu’il leur reste des sorts du niveau requis utilisables pour la journée. Ils n’ont pas besoin de [[focalisateur divin]] pour lancer les sorts qui en mentionnent un (FD) dans leurs composantes.
+
+{s:Reference|ORAISON}
+=====Oraisons=====L’oracle connaît un certain nombre d’oraisons, ou sorts de niveau 0, comme indiqué dans [[oracle#SORTSCONNUSDELORACLE|la table]] des « sorts connus » ci-contre. Il jette ces sorts comme les autres mais ils ne sont pas dépensés lorsqu’ils sont lancés et peuvent être utilisés à nouveau.
+
+{s:Reference|MYSTERE}
+====Mystère==== Chaque oracle tire ses pouvoirs et ses sorts d’un mystère divin qui lui donne également des pouvoirs de classe et des aptitudes spéciales supplémentaires. Ce mystère représente sa dévotion envers un idéal, des prières dédiées à des divinités qui soutiennent ce concept ou une vocation naturelle pour le rôle de champion d’une cause. Par exemple, un oracle du mystère des vagues peut être né en mer et ressentir un besoin naturel de vénérer les dieux des océans, des rivières et des lacs, qu’ils soient maléfiques ou bienveillants. Quelle que soit son origine, le mystère se manifeste de plusieurs manières au fur et à mesure que l’oracle gagne des niveaux. L’oracle doit en choisir un au niveau 1 et ne pourra pas en changer par la suite. 
+
+Voir [[mystères|les mystères d'oracle]].
+
+{s:Reference|SORTDEMYSTERE}
+=====Sorts de Mystère=====
+Au niveau 2, et par la suite tous les niveaux pairs, l’oracle apprend de nouveaux sorts issus de son mystère. Il est impossible de les échanger contre d’autres sorts en atteignant un niveau supérieur. 
+
+{s:Reference|REVELATION}
+=====Révélation===== Au niveau 1, 3 et ensuite tous les quatre niveaux (7, 11, etc.), l’oracle découvre un nouveau secret sur le [[mystères|mystère]] qui lui accorde ses pouvoirs et ses aptitudes. Il doit choisir une révélation dans la liste de celles disponibles pour son mystère. S’il choisit une révélation à un niveau supérieur, il gagne toutes les aptitudes et tous les bonus associés en fonction de son niveau actuel. Sauf indication contraire, il faut une [[action simple]] pour activer les pouvoirs d’une révélation.
+
+{s:Reference|REVELATIONFINALE}
+=====Révélation finale===== Au niveau 20, l’oracle découvre la révélation finale de son [[mystères|mystère]], ce qui lui donne des pouvoirs prodigieux. La nature de ces bonus dépend de son mystère.
+
+{s:Reference|MALEDICTIONDELORACLE}
+====Malédiction de l’oracle (Ext)==== Chaque oracle est maudit, mais cette malédiction apporte des avantages aussi bien que des handicaps. Ce choix se fait au niveau 1 et il est impossible d’en changer par la suite. Il est impossible de délivrer l’oracle de sa malédiction sans l’aide d’une divinité. Cette malédiction est basée sur le niveau de l’oracle plus un par tranche de deux niveaux ou deux DV d’autre chose qu’oracle. Chaque oracle doit choisir l’une des malédictions suivantes.
+* '''Boiteux.''' Le personnage a une jambe blessée qui réduit sa vitesse de base de 3 mètres (2 cases) si elle était de 9 mètres (6 cases) ou plus. Si elle était inférieure, elle est réduite de 1,50 m (1 case). En revanche, l’encombrement ne la réduit jamais. Au niveau 5, le personnage est immunisé contre la [[fatigué|fatigue]] (mais pas contre l’[[épuisé|épuisement]]). Au niveau 10, les armures ne réduisent jamais sa vitesse et au niveau 15, il est immunisé contre l’[[épuisé|épuisement]].
+* '''Décomposition.''' Le corps du personnage se décompose lentement. Il subit un malus de -4 à tous les tests basés sur le [[Charisme]] en dehors de l’[[Intimidation]]. Il gagne un bonus de compétence de +4 aux [[jet de sauvegarde|jets de sauvegarde]] contre la maladie (mais pas contre la [[nauséeux|nausée]]). Au niveau 10, il est immunisé contre les maladies et au niveau 15, contre la [[nauséeux|nausée]].
+* '''Hanté.''' Des esprits maléfiques suivent le personnage partout où il va, provoquant des incidents mineurs et d’étranges phénomènes (comme des souffles d’air inattendus, des petits objets qui se déplacent seuls et des bruits discrets). Quand le personnage veut sortir un objet de son sac, il lui faut une [[action simple]], sauf si cela devrait normalement lui prendre plus longtemps. Tout objet qu’il lâche tombe à 9 mètres (6 cases) de lui, dans une direction aléatoire. Le personnage ajoute ''[[manipulation à distance]]'' et ''[[son imaginaire]]'' à la liste de ses sorts connus. Au niveau 5, il ajoute ''[[lévitation]]'' et ''[[image imparfaite]]'', au niveau 10 ''[[télékinésie]]'' et au niveau 15 ''[[inversion de la gravité]]''.
+* '''Multilingue.''' Dans des conditions de stress ou de malaise, le personnage change de [[linguistique|langue]]. Il choisit l’abyssal, l’aklo, l’aquatique, l’aérien, le céleste, l’igné, l’infernal ou le terreux et, à chaque fois qu’il se bat, il ne parle plus que ce langage. Ce qui ne l’empêche pas de lancer des sorts, mais influe sur les sorts qui dépendent du langage. Il gagne la langue choisie comme [[linguistique|langue supplémentaire]]. Au niveau 5, il choisit une autre langue à parler en combat et l’ajoute à sa liste des langues connues. Au niveau 10, il comprend tous les langages parlés, comme sous l’effet d’un ''[[don des langues]]'', même en combat. Au niveau 15, il comprend et parle toutes les langues mais son langage est toujours limité quand il se bat.
+* '''Sourd.''' Le personnage n’entend rien et souffre de tous les malus qui vont de pair avec la [[sourd|surdité]]. Il lance tous ses sorts comme s’ils étaient sous l’effet d’une [[Incantation silencieuse]], sans augmenter leur temps d’incantation ni leur niveau. Au niveau 5, il reçoit un bonus de compétence de +3 aux tests de [[Perception]] qui ne dépendent pas de l’ouïe et le malus d’[[initiative]] lié à la surdité est réduit à -2. Au niveau 10, il gagne [[odorat]] et ne souffre plus de malus à l’initiative à cause de la surdité. Au niveau 15, il gagne [[perception des vibrations]] dans un rayon de 9 mètres (6 cases).
+* '''Vision obscurcie.''' La vision de l’oracle est obscurcie et il a du mal à voir. Il ne voit rien au-delà de 9 mètres (6 cases), mais il peut y voir comme s'il possédait [[vision dans le noir]]. Au niveau 5, cette distance passe à 18 mètres (12 cases). Au niveau 10, il gagne [[perception aveugle]] à 9 mètres (6 cases) et au niveau 15 [[vision aveugle]] à 1,50 m (1 case).]]></raw>
+  <fullName>Pathfinder-RPG.Oracle</fullName>
+</wikiPage>

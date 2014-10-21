@@ -1,0 +1,177 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Tengu</title>
+  <categories><category>Pathfinder-RPG.Bestiaire</category><category>Pathfinder-RPG.Monstre</category></categories>
+  <lastModified>2013-06-10 19:19:33Z</lastModified>
+  <version>7</version>
+  <inLinks><link>Pathfinder-RPG.Corbie sanguinaire</link><link>Pathfinder-RPG.Glossaire des monstres</link><link>Pathfinder-RPG.Liste de monstres par FP</link><link>Pathfinder-RPG.Liste de monstres par milieu naturel</link><link>Pathfinder-RPG.Liste de monstres par type</link><link>Pathfinder-RPG.Monstres</link><link>Pathfinder-RPG.sous-type oni</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.type Humanoïde</link><link>Pathfinder-RPG.vision nocturne</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.attaque sournoise</link><link>Pathfinder-RPG.Attaque en finesse</link><link>Pathfinder-RPG.Acrobaties</link><link>Pathfinder-RPG.Bluff</link><link>Pathfinder-RPG.Connaissances</link><link>Pathfinder-RPG.Discrétion</link><link>Pathfinder-RPG.Escalade</link><link>Pathfinder-RPG.Estimation</link><link>Pathfinder-RPG.Linguistique</link></outLinks>
+  <body><![CDATA[&lt;div class=&quot;imageleft&quot;&gt;&lt;img class=&quot;image&quot; src=&quot;data:image/jpeg;base64,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&quot; alt=&quot;Image&quot; /&gt;&lt;/div&gt;
+&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Tengu&lt;div style=&quot;float:right;&quot;&gt;FP 1/2&lt;/div&gt;&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Bestiaire&lt;/i&gt; p.270
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 200
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+Tengu (m), roublard 1
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Humano&#239;de.html&quot; title=&quot;Humano&#239;de&quot;&gt;Humano&#239;de&lt;/a&gt; (tengu) de taille M, N
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +3 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Nocturne-(Capacit&#233;).html&quot; title=&quot;vision nocturne&quot;&gt;vision nocturne&lt;/a&gt; ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +8
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 15, contact 13, pris au d&#233;pourvu 12 (armure +2, Dex +3)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 9 (1d8+1)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +5, &lt;b&gt;Vig&lt;/b&gt; +1, &lt;b&gt;Vol&lt;/b&gt; +2
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 9 m (6 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; dague +3 (1d4+1/19-20), morsure -2 (1d3)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Distance&lt;/b&gt; arc court +3 (1d6/x3)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaques sp&#233;ciales&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Roublard.html#ATTAQUESOURNOISE&quot; title=&quot;attaque sournoise&quot;&gt;attaque sournoise&lt;/a&gt; +1d6
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 12, &lt;b&gt;Dex&lt;/b&gt; 17, &lt;b&gt;Con&lt;/b&gt; 12, &lt;b&gt;Int&lt;/b&gt; 10, &lt;b&gt;Sag&lt;/b&gt; 15, &lt;b&gt;Cha&lt;/b&gt; 8
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +0, &lt;b&gt;BMO&lt;/b&gt; +1, &lt;b&gt;DMD&lt;/b&gt; 14
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Attaque-En-Finesse.html&quot; title=&quot;Attaque en finesse&quot;&gt;Attaque en finesse&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Acrobaties.html&quot; title=&quot;Acrobaties&quot;&gt;Acrobaties&lt;/a&gt; +7, &lt;a class=&quot;pagelink&quot; href=&quot;Bluff.html&quot; title=&quot;Bluff&quot;&gt;Bluff&lt;/a&gt; +3, &lt;a class=&quot;pagelink&quot; href=&quot;Connaissances.html&quot; title=&quot;Connaissances&quot;&gt;Connaissances&lt;/a&gt; (folklore local) +4, &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; +9, &lt;a class=&quot;pagelink&quot; href=&quot;Escalade.html&quot; title=&quot;Escalade&quot;&gt;Escalade&lt;/a&gt; +5, &lt;a class=&quot;pagelink&quot; href=&quot;Estimation.html&quot; title=&quot;Estimation&quot;&gt;Estimation&lt;/a&gt; +4, &lt;a class=&quot;pagelink&quot; href=&quot;Linguistique.html&quot; title=&quot;Linguistique&quot;&gt;Linguistique&lt;/a&gt; +8, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +8 ; &lt;b&gt;Modificateurs raciaux&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; +2, &lt;a class=&quot;pagelink&quot; href=&quot;Linguistique.html&quot; title=&quot;Linguistique&quot;&gt;Linguistique&lt;/a&gt; +4, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +2
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Langues&lt;/b&gt; commun, gobelin, halfelin, tengu
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Particularit&#233;s&lt;/b&gt; entra&#238;nement aux &#233;p&#233;es, linguiste dou&#233;, recherche des pi&#232;ges
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; montagnes temp&#233;r&#233;es ou en ville
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation sociale&lt;/b&gt; solitaire, couple ou groupe (3-12)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; &#233;quipement de PNJ (armure de cuir, dague, arc court avec 20 fl&#232;ches, autres tr&#233;sors)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Particularit&#233;s&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Entrainement aux &#233;p&#233;es (Ext)&lt;/b&gt; D&#232;s la naissance, les tengus s&#39;entra&#238;nent &#224; manier des lames. Ils sont automatiquement form&#233;s au maniement des &#233;p&#233;es au sens large (y compris le cimeterre &#224; deux mains, les cimeterres, les dagues de poing, les dagues, les doubles lames, les &#233;p&#233;es &#224; deux mains, les &#233;p&#233;es b&#226;tardes, les &#233;p&#233;es courtes, les &#233;p&#233;es longues, les kukris, les lames elfiques incurv&#233;es et les rapi&#232;res).
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Linguiste dou&#233; (Ext)&lt;/b&gt; Les tengus b&#233;n&#233;ficient d&#39;un bonus racial de +4 aux tests de &lt;a class=&quot;pagelink&quot; href=&quot;Linguistique.html&quot; title=&quot;Linguistique&quot;&gt;Linguistique&lt;/a&gt;  et apprennent 2 nouvelles langues chaque fois qu&#39;ils gagnent un rang en &lt;a class=&quot;pagelink&quot; href=&quot;Linguistique.html&quot; title=&quot;Linguistique&quot;&gt;Linguistique&lt;/a&gt; (au lieu d&#39;une seule).
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;td&gt;&lt;div&gt;&lt;i&gt;Des plumes noires recouvrent la t&#234;te de corbeau de cet humano&#239;de et ses
+mains et ses jambes se terminent par de puissantes serres.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Les tengus forment une race d’humano&#239;des aviaires qui
+ressemblent &#224; des corbeaux ou &#224; des corneilles noires et
+qui inspirent g&#233;n&#233;ralement les m&#234;mes sentiments que ces
+animaux. Ils choisissent souvent de vivre parmi les autres
+races dans les cit&#233;s &#224; forte population mais ils
+forment une communaut&#233; unie par des liens
+&#233;troits qui ne d&#233;voile que rarement ses secrets
+au monde ext&#233;rieur. Les tengus se rassemblent souvent en petits groupes pour former des &#171; nids &#187; dans des
+entrep&#244;ts abandonn&#233;s ou des b&#226;timents condamn&#233;s, des lieux de
+rencontre que les autres habitants supposent &#234;tre des guildes de
+voleurs, une hypoth&#232;se qui se r&#233;v&#232;le correcte &#224; peu pr&#232;s une fois
+sur deux.
+Comme les corbeaux dont ils poss&#232;dent certaines caract&#233;ristiques
+physiques, les tengus sont cupides par nature (tout sp&#233;cialement
+lorsqu’il s’agit d’objets brillants ou color&#233;s) et s’ils ne se contr&#244;lent
+pas parfaitement, ils se laissent souvent aller &#224; des acc&#232;s de
+kleptomanie, sans pour autant vouloir causer du tort aux autres.
+Ces cr&#233;atures vaines et fi&#232;res sont sensibles &#224; la flatterie.&lt;br /&gt;&lt;br /&gt;&lt;h3 class=&quot;separator&quot;&gt;Les tengus en tant que PJ&lt;a class=&quot;headeranchor&quot; id=&quot;Les_tengus_en_tant_que_PJ_0&quot; href=&quot;#Les_tengus_en_tant_que_PJ_0&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;Les tengus ne poss&#232;dent pas de d&#233;s de vie raciaux et progressent en
+acqu&#233;rant des niveaux de classes. Leurs traits raciaux sont les suivants.
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;+2 Dext&#233;rit&#233;, –2 Constitution, +2 Sagesse.&lt;/b&gt; Les tengus sont rapides et observateurs mais plut&#244;t faibles et fragiles.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Arme naturelle.&lt;/b&gt; Ils poss&#232;dent une attaque naturelle de morsure qui inflige 1d3 points de d&#233;g&#226;ts en cas d’attaque r&#233;ussie. Il s’agit d’une attaque principale, ou d’une attaque secondaire si le tengu l’utilise en m&#234;me temps qu’une arme fabriqu&#233;e.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Entra&#238;nement aux &#233;p&#233;es.&lt;/b&gt; Voir ci-contre.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Linguiste dou&#233;.&lt;/b&gt; Voir ci-contre.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Sens.&lt;/b&gt; Les tengus ont la vision nocturne.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Sournois.&lt;/b&gt; Les tengus gagnent un bonus racial de +2 aux tests de Discr&#233;tion et de Perception.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Langues.&lt;/b&gt; Les tengus parlent automatiquement le commun et leur propre dialecte, le tengu. S’ils disposent d’une Intelligence &#233;lev&#233;e, ils peuvent choisir n’importe quelle langage comme langue suppl&#233;mentaire.&lt;br /&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;br /&gt;&lt;/li&gt;&lt;/ul&gt;
+]]></body>
+  <raw><![CDATA[[imageleft||data:image/jpeg;base64,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]
+<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Tengu|FP 1/2}
+{s:pucem|Humanoïde|Ville|Tempéré}
+{s:BDTexte|''Source : Bestiaire'' p.270}
+{s:BDTexte|'''PX''' 200}
+{s:BDTexte|Tengu (m), roublard 1}
+{s:BDTexte|[[type Humanoïde|Humanoïde]] (tengu) de taille M, N}
+{s:BDTexte|'''Init''' +3 ; '''Sens''' [[vision nocturne]] ; [[Perception]] +8}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 15, contact 13, pris au dépourvu 12 (armure +2, Dex +3)}
+{s:BDTexte|'''pv''' 9 (1d8+1)}
+{s:BDTexte|'''Réf''' +5, '''Vig''' +1, '''Vol''' +2}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 9 m (6 {s:c})}
+{s:BDTexte|'''Corps à corps''' dague +3 (1d4+1/19-20), morsure -2 (1d3)}
+{s:BDTexte|'''Distance''' arc court +3 (1d6/x3)}
+{s:BDTexte|'''Attaques spéciales''' [[attaque sournoise]] +1d6}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 12, '''Dex''' 17, '''Con''' 12, '''Int''' 10, '''Sag''' 15, '''Cha''' 8}
+{s:BDTexte|'''BBA''' +0, '''BMO''' +1, '''DMD''' 14}
+{s:BDTexte|'''Dons''' [[Attaque en finesse]]}
+{s:BDTexte|'''Compétences''' [[Acrobaties]] +7, [[Bluff]] +3, [[Connaissances]] (folklore local) +4, [[Discrétion]] +9, [[Escalade]] +5, [[Estimation]] +4, [[Linguistique]] +8, [[Perception]] +8 ; '''Modificateurs raciaux''' [[Discrétion]] +2, [[Linguistique]] +4, [[Perception]] +2}
+{s:BDTexte|'''Langues''' commun, gobelin, halfelin, tengu}
+{s:BDTexte|'''Particularités''' entraînement aux épées, linguiste doué, recherche des pièges}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' montagnes tempérées ou en ville}
+{s:BDTexte|'''Organisation sociale''' solitaire, couple ou groupe (3-12)}
+{s:BDTexte|'''Trésor''' équipement de PNJ (armure de cuir, dague, arc court avec 20 flèches, autres trésors)}
+{s:BDSousTitre|Particularités}
+{s:BDTexte|'''Entrainement aux épées (Ext)''' Dès la naissance, les tengus s'entraînent à manier des lames. Ils sont automatiquement formés au maniement des épées au sens large (y compris le cimeterre à deux mains, les cimeterres, les dagues de poing, les dagues, les doubles lames, les épées à deux mains, les épées bâtardes, les épées courtes, les épées longues, les kukris, les lames elfiques incurvées et les rapières).}
+{s:BDTexte|'''Linguiste doué (Ext)''' Les tengus bénéficient d'un bonus racial de +4 aux tests de [[Linguistique]]  et apprennent 2 nouvelles langues chaque fois qu'ils gagnent un rang en [[Linguistique]] (au lieu d'une seule).}
+</div>
+</td><td><div>''Des plumes noires recouvrent la tête de corbeau de cet humanoïde et ses
+mains et ses jambes se terminent par de puissantes serres.''
+
+Les tengus forment une race d’humanoïdes aviaires qui
+ressemblent à des corbeaux ou à des corneilles noires et
+qui inspirent généralement les mêmes sentiments que ces
+animaux. Ils choisissent souvent de vivre parmi les autres
+races dans les cités à forte population mais ils
+forment une communauté unie par des liens
+étroits qui ne dévoile que rarement ses secrets
+au monde extérieur. Les tengus se rassemblent souvent en petits groupes pour former des « nids » dans des
+entrepôts abandonnés ou des bâtiments condamnés, des lieux de
+rencontre que les autres habitants supposent être des guildes de
+voleurs, une hypothèse qui se révèle correcte à peu près une fois
+sur deux.
+Comme les corbeaux dont ils possèdent certaines caractéristiques
+physiques, les tengus sont cupides par nature (tout spécialement
+lorsqu’il s’agit d’objets brillants ou colorés) et s’ils ne se contrôlent
+pas parfaitement, ils se laissent souvent aller à des accès de
+kleptomanie, sans pour autant vouloir causer du tort aux autres.
+Ces créatures vaines et fières sont sensibles à la flatterie.
+
+====Les tengus en tant que PJ====
+Les tengus ne possèdent pas de dés de vie raciaux et progressent en
+acquérant des niveaux de classes. Leurs traits raciaux sont les suivants.
+* '''+2 Dextérité, –2 Constitution, +2 Sagesse.''' Les tengus sont rapides et observateurs mais plutôt faibles et fragiles.
+* '''Arme naturelle.''' Ils possèdent une attaque naturelle de morsure qui inflige 1d3 points de dégâts en cas d’attaque réussie. Il s’agit d’une attaque principale, ou d’une attaque secondaire si le tengu l’utilise en même temps qu’une arme fabriquée.
+* '''Entraînement aux épées.''' Voir ci-contre.
+* '''Linguiste doué.''' Voir ci-contre.
+* '''Sens.''' Les tengus ont la vision nocturne.
+* '''Sournois.''' Les tengus gagnent un bonus racial de +2 aux tests de Discrétion et de Perception.
+* '''Langues.''' Les tengus parlent automatiquement le commun et leur propre dialecte, le tengu. S’ils disposent d’une Intelligence élevée, ils peuvent choisir n’importe quelle langage comme langue supplémentaire.
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Tengu</fullName>
+</wikiPage>

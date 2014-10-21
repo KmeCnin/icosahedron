@@ -1,0 +1,82 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Bélier</title>
+  <categories><category>Pathfinder-RPG.Bestiaire 2</category><category>Pathfinder-RPG.Monstre</category><category>Pathfinder-RPG.Règles officielles</category></categories>
+  <lastModified>2013-02-02 13:37:55Z</lastModified>
+  <version>1</version>
+  <inLinks><link>Pathfinder-RPG.Glossaire des monstres</link><link>Pathfinder-RPG.Liste de monstres par FP</link><link>Pathfinder-RPG.Liste de monstres par type</link><link>Pathfinder-RPG.Monstres</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.type Animal</link><link>Pathfinder-RPG.odorat</link><link>Pathfinder-RPG.vision nocturne</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Charge puissante</link><link>Pathfinder-RPG.croc-en-jambe</link><link>Pathfinder-RPG.Science de la bousculade</link><link>Pathfinder-RPG.Talent</link><link>Pathfinder-RPG.Acrobaties</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;B&#233;lier&lt;div style=&quot;float:right;&quot;&gt;FP 1&lt;/div&gt;&lt;/div&gt;&lt;br /&gt;&lt;ul&gt;&lt;li&gt;&lt;i&gt;Source : Bestiaire 2, p.31&lt;/i&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;PX&lt;/b&gt; 400&lt;/li&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Type-Animal.html&quot; title=&quot;Animal&quot;&gt;Animal&lt;/a&gt; de taille M, N&lt;/li&gt;&lt;li&gt;&lt;b&gt;Init&lt;/b&gt; +2 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Odorat-(Capacit&#233;).html&quot; title=&quot;odorat&quot;&gt;odorat&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Nocturne-(Capacit&#233;).html&quot; title=&quot;vision nocturne&quot;&gt;vision nocturne&lt;/a&gt; ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +6&lt;br /&gt;&lt;div class=&quot;box&quot;&gt;D&#233;fense&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;CA&lt;/b&gt; 13, contact 12, pris au d&#233;pourvu 11 (Dex +2, naturelle +1)&lt;/li&gt;&lt;li&gt;&lt;b&gt;pv&lt;/b&gt; 11 (2d8+2)&lt;/li&gt;&lt;li&gt;&lt;b&gt;R&#233;f&lt;/b&gt; +5, &lt;b&gt;Vig&lt;/b&gt; +4, &lt;b&gt;Vol&lt;/b&gt; +2&lt;br /&gt;&lt;div class=&quot;box&quot;&gt;Attaque&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;VD&lt;/b&gt; 12 m (8&lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)&lt;/li&gt;&lt;li&gt;&lt;b&gt;Corps &#224; corps&lt;/b&gt; cornes, +3 (1d4+3)&lt;/li&gt;&lt;li&gt;&lt;b&gt;Attaques sp&#233;ciales&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Charge-Puissante-(Capacit&#233;).html&quot; title=&quot;Charge puissante&quot;&gt;charge puissante&lt;/a&gt; (cornes, 1d8+3)&lt;br /&gt;&lt;div class=&quot;box&quot;&gt;Statistiques&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;For&lt;/b&gt; 14, &lt;b&gt;Dex&lt;/b&gt; 15, &lt;b&gt;Con&lt;/b&gt; 13, &lt;b&gt;Int&lt;/b&gt; 2, &lt;b&gt;Sag&lt;/b&gt; 14, &lt;b&gt;Cha&lt;/b&gt; 7&lt;/li&gt;&lt;li&gt;&lt;b&gt;BBA&lt;/b&gt; +1 ; &lt;b&gt;BMO&lt;/b&gt; +3 ; &lt;b&gt;DMD&lt;/b&gt; 15 (19 contre &lt;a class=&quot;pagelink&quot; href=&quot;Croc-En-Jambe.html&quot; title=&quot;croc-en-jambe&quot;&gt;croc-en-jambe&lt;/a&gt;)&lt;/li&gt;&lt;li&gt;&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Science-De-La-Bousculade.html&quot; title=&quot;Science de la bousculade&quot;&gt;Science de la bousculade&lt;/a&gt;&lt;sup&gt;B&lt;/sup&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Talent.html&quot; title=&quot;Talent&quot;&gt;Talent&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Acrobaties.html&quot; title=&quot;Acrobaties&quot;&gt;Acrobaties&lt;/a&gt;)&lt;/li&gt;&lt;li&gt;&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Acrobaties.html&quot; title=&quot;Acrobaties&quot;&gt;Acrobaties&lt;/a&gt; +13 (+17 pour sauter), &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +6 ; &lt;b&gt;Modificateurs raciaux&lt;/b&gt; +4 en &lt;a class=&quot;pagelink&quot; href=&quot;Acrobaties.html&quot; title=&quot;Acrobaties&quot;&gt;Acrobaties&lt;/a&gt;&lt;br /&gt;&lt;div class=&quot;box&quot;&gt;&#201;cologie&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;Environnement&lt;/b&gt; montagnes temp&#233;r&#233;es&lt;/li&gt;&lt;li&gt;&lt;b&gt;Organisation sociale&lt;/b&gt; solitaire, couple ou troupeau (3–30)&lt;/li&gt;&lt;li&gt;&lt;b&gt;Tr&#233;sor&lt;/b&gt; aucun&lt;br /&gt;&lt;/li&gt;&lt;/ul&gt;&lt;br /&gt;&lt;/div&gt;
+&lt;/td&gt;&lt;td&gt;&lt;div&gt;&lt;i&gt;Deux magnifiques cornes incurv&#233;es ornent le front de ce robuste b&#233;lier &#224; la toison brune et blanche.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Les b&#233;liers sont des animaux de troupeaux qui vivent en
+montagne et sont reconnaissables facilement &#224; leurs cornes
+impressionnantes.&lt;br /&gt;&lt;br /&gt;Un b&#233;lier moyen mesure quelque 90 cm de
+hauteur, 1,50 m&#232;tres de longueur et peut peser
+jusqu’&#224; 150 kg. On peut dresser un profil pour
+des animaux
+similaires
+mais plus
+petits
+(comme
+les
+ch&#232;vres) en
+appliquant
+l’arch&#233;type &#171; cr&#233;ature
+jeune &#187; &#224; un b&#233;lier.&lt;br /&gt;&lt;br /&gt;&lt;h2 class=&quot;separator&quot;&gt;Le b&#233;lier comme compagnon animal&lt;a class=&quot;headeranchor&quot; id=&quot;Le_b&#233;lier_comme_compagnon_animal_0&quot; href=&quot;#Le_b&#233;lier_comme_compagnon_animal_0&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;&lt;b&gt;Caract&#233;ristiques de d&#233;part.&lt;/b&gt; &lt;b&gt;Taille&lt;/b&gt; P ; &lt;b&gt;Vitesse&lt;/b&gt; 12 m (8 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) ; &lt;b&gt;CA&lt;/b&gt; armure naturelle +1 ; &lt;b&gt;Attaque&lt;/b&gt; cornes (1d3) ; &lt;b&gt;Caract&#233;ristiques&lt;/b&gt; For 10, Dex 17, Con 11, Int 2, Sag 14, Cha 7 ; &lt;b&gt;Particularit&#233;s&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Odorat-(Capacit&#233;).html&quot; title=&quot;odorat&quot;&gt;odorat&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Nocturne-(Capacit&#233;).html&quot; title=&quot;vision nocturne&quot;&gt;vision nocturne&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;&#201;volution au niveau 4.&lt;/b&gt; &lt;b&gt;Taille&lt;/b&gt; M ; &lt;b&gt;Attaque&lt;/b&gt; cornes (1d4) ; &lt;b&gt;Caract&#233;ristiques&lt;/b&gt; For +4, Dex –2, Con +2 ; &lt;b&gt;Particularit&#233;s&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Charge-Puissante-(Capacit&#233;).html&quot; title=&quot;Charge puissante&quot;&gt;charge puissante&lt;/a&gt; (1d8) ; &lt;b&gt;Don suppl&#233;mentaire&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Science-De-La-Bousculade.html&quot; title=&quot;Science de la bousculade&quot;&gt;Science de la bousculade&lt;/a&gt;.
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Bélier|FP 1}
+{s:pucem|Animal|Montagnes|Tempéré}
+* ''Source : Bestiaire 2, p.31''
+* '''PX''' 400
+* [[type animal|Animal]] de taille M, N
+* '''Init''' +2 ; '''Sens''' [[odorat]], [[vision nocturne]] ; [[Perception]] +6
+(((Défense)))
+* '''CA''' 13, contact 12, pris au dépourvu 11 (Dex +2, naturelle +1)
+* '''pv''' 11 (2d8+2)
+* '''Réf''' +5, '''Vig''' +4, '''Vol''' +2
+(((Attaque)))
+* '''VD''' 12 m (8{s:c})
+* '''Corps à corps''' cornes, +3 (1d4+3)
+* '''Attaques spéciales''' [[charge puissante]] (cornes, 1d8+3)
+(((Statistiques)))
+* '''For''' 14, '''Dex''' 15, '''Con''' 13, '''Int''' 2, '''Sag''' 14, '''Cha''' 7
+* '''BBA''' +1 ; '''BMO''' +3 ; '''DMD''' 15 (19 contre [[croc-en-jambe]])
+* '''Dons''' [[Science de la bousculade]]<sup>B</sup>, [[Talent]] ([[Acrobaties]])
+* '''Compétences''' [[Acrobaties]] +13 (+17 pour sauter), [[Perception]] +6 ; '''Modificateurs raciaux''' +4 en [[Acrobaties]]
+(((Écologie)))
+* '''Environnement''' montagnes tempérées
+* '''Organisation sociale''' solitaire, couple ou troupeau (3–30)
+* '''Trésor''' aucun
+
+</div>
+</td><td><div>''Deux magnifiques cornes incurvées ornent le front de ce robuste bélier à la toison brune et blanche.''
+
+Les béliers sont des animaux de troupeaux qui vivent en
+montagne et sont reconnaissables facilement à leurs cornes
+impressionnantes.
+
+Un bélier moyen mesure quelque 90 cm de
+hauteur, 1,50 mètres de longueur et peut peser
+jusqu’à 150 kg. On peut dresser un profil pour
+des animaux
+similaires
+mais plus
+petits
+(comme
+les
+chèvres) en
+appliquant
+l’archétype « créature
+jeune » à un bélier.
+
+===Le bélier comme compagnon animal===
+'''Caractéristiques de départ.''' '''Taille''' P ; '''Vitesse''' 12 m (8 {s:c}) ; '''CA''' armure naturelle +1 ; '''Attaque''' cornes (1d3) ; '''Caractéristiques''' For 10, Dex 17, Con 11, Int 2, Sag 14, Cha 7 ; '''Particularités''' [[odorat]], [[vision nocturne]].
+
+'''Évolution au niveau 4.''' '''Taille''' M ; '''Attaque''' cornes (1d4) ; '''Caractéristiques''' For +4, Dex –2, Con +2 ; '''Particularités''' [[charge puissante]] (1d8) ; '''Don supplémentaire''' [[Science de la bousculade]].
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Bélier</fullName>
+</wikiPage>

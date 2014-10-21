@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>La taille et l'espace occupé</title>
+  <categories><category>Pathfinder-RPG.Art de la guerre</category><category>Pathfinder-RPG.Règles officielles</category><category>Pathfinder-RPG.Véhicule</category></categories>
+  <lastModified>2013-06-29 11:00:06Z</lastModified>
+  <version>0</version>
+  <inLinks></inLinks>
+  <outLinks><link>Pathfinder-RPG.véhicules terrestres</link></outLinks>
+  <body><![CDATA[
+&lt;i&gt;Les r&#232;gles de base donnent une id&#233;e g&#233;n&#233;rale du comportement des v&#233;hicules durant le round de combat et de leurs diff&#233;rences avec des cr&#233;atures. Les  parties suivantes approfondissent la mani&#232;re de les g&#233;rer pendant le combat.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;La taille et l’espace occup&#233; des v&#233;hicules sont diff&#233;rents de ceux des cr&#233;atures. Beaucoup d’entre eux sont longs et fins et n’occupent pas comme les cr&#233;atures un nombre &#233;gal de cases par c&#244;t&#233;. Un &lt;a class=&quot;pagelink&quot; href=&quot;V&#233;hicules-Terrestres.html&quot; title=&quot;v&#233;hicules terrestres&quot;&gt;chariot&lt;/a&gt;, par exemple, peut occuper une case de 3 m (2 {:c}) de c&#244;t&#233; ou bien &#234;tre large de 3 m (2 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) et long de 4m50 (3 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) ou plus. L’un des c&#244;t&#233;s les plus petits sert souvent d’avant au v&#233;hicule.&lt;br /&gt;&lt;br /&gt;&lt;a name=&quot;TAILLECONVERTION&quot;&gt;&lt;/a&gt;&lt;b&gt;Conversion de taille.&lt;/b&gt; Il est souvent important de conna&#238;tre la cat&#233;gorie de taille d’un v&#233;hicule.
+&lt;div align=&quot;center&quot;&gt;
+&lt;table class=&quot;tablo toutgauche autoalt&quot; id=&quot;convertionTaille&quot; &gt;&lt;caption&gt;Taille des v&#233;hicules en cases&lt;/caption&gt;&lt;tr&gt;&lt;td&gt;Cases&lt;/td&gt;&lt;td&gt;Taille du v&#233;hicule&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;2-6&lt;/td&gt;&lt;td&gt;V&#233;hicule de taille G&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;7-12&lt;/td&gt;&lt;td&gt;V&#233;hicule de taille TG&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;13-20&lt;/td&gt;&lt;td&gt;V&#233;hicule de taille Gig&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;21+&lt;/td&gt;&lt;td&gt;V&#233;hicule de taille C&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;&lt;br /&gt;&lt;a name=&quot;TAILLEESPACE&quot;&gt;&lt;/a&gt;&lt;b&gt;Espace de conduite.&lt;/b&gt; Une case au moins &#233;gale &#224; 1m50 de c&#244;t&#233; pour chaque v&#233;hicule doit &#234;tre attribu&#233;e &#224; l’espace de conduite. Cette zone comprend souvent plusieurs cases. Une cr&#233;ature intelligente doit se trouver &#224; l’int&#233;rieur d’au moins l’une d’entre elles. Elle doit aussi &#234;tre capable de manipuler son syst&#232;me de conduite afin de le diriger. Les tailles et les localisations des espaces de conduite typiques sont d&#233;taill&#233;es dans les descriptions individuelles des v&#233;hicules.
+]]></body>
+  <raw><![CDATA[{s:MenuVehicules}
+{s:UC}''Les règles de base donnent une idée générale du comportement des véhicules durant le round de combat et de leurs différences avec des créatures. Les  parties suivantes approfondissent la manière de les gérer pendant le combat.''
+
+La taille et l’espace occupé des véhicules sont différents de ceux des créatures. Beaucoup d’entre eux sont longs et fins et n’occupent pas comme les créatures un nombre égal de cases par côté. Un [[véhicules terrestres|chariot]], par exemple, peut occuper une case de 3 m (2 {:c}) de côté ou bien être large de 3 m (2 {s:c}) et long de 4m50 (3 {s:c}) ou plus. L’un des côtés les plus petits sert souvent d’avant au véhicule.
+
+{s:Reference|TAILLECONVERTION}'''Conversion de taille.''' Il est souvent important de connaître la catégorie de taille d’un véhicule.
+<div align="center">
+{| class="tablo toutgauche autoalt" id="convertionTaille" 
+|+ Taille des véhicules en cases
+|- 
+| Cases || Taille du véhicule
+|- 
+| 2-6 || Véhicule de taille G
+|- 
+| 7-12 || Véhicule de taille TG
+|- 
+| 13-20 || Véhicule de taille Gig
+|- 
+| 21+ || Véhicule de taille C
+|}
+</div>
+
+{s:Reference|TAILLEESPACE}'''Espace de conduite.''' Une case au moins égale à 1m50 de côté pour chaque véhicule doit être attribuée à l’espace de conduite. Cette zone comprend souvent plusieurs cases. Une créature intelligente doit se trouver à l’intérieur d’au moins l’une d’entre elles. Elle doit aussi être capable de manipuler son système de conduite afin de le diriger. Les tailles et les localisations des espaces de conduite typiques sont détaillées dans les descriptions individuelles des véhicules.]]></raw>
+  <fullName>Pathfinder-RPG.Taille et espace occupé (véhicules)</fullName>
+</wikiPage>

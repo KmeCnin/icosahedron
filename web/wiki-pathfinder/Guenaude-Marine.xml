@@ -1,0 +1,209 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Guenaude marine</title>
+  <categories><category>Pathfinder-RPG.Bestiaire</category><category>Pathfinder-RPG.Monstre</category><category>Pathfinder-RPG.Règles officielles</category></categories>
+  <lastModified>2013-02-07 21:19:00Z</lastModified>
+  <version>6</version>
+  <inLinks><link>Pathfinder-RPG.Fuath</link><link>Pathfinder-RPG.Glossaire des monstres</link><link>Pathfinder-RPG.Liste de monstres par FP</link><link>Pathfinder-RPG.Liste de monstres par milieu naturel</link><link>Pathfinder-RPG.Liste de monstres par type</link><link>Pathfinder-RPG.Monstres</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.type Humanoïde monstrueux</link><link>Pathfinder-RPG.sous-type aquatique</link><link>Pathfinder-RPG.vision dans le noir</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Talent</link><link>Pathfinder-RPG.Bluff</link><link>Pathfinder-RPG.Connaissances</link><link>Pathfinder-RPG.Discrétion</link><link>Pathfinder-RPG.Natation</link><link>Pathfinder-RPG.Amphibie</link><link>Pathfinder-RPG.Vigueur</link><link>Pathfinder-RPG.DD</link><link>Pathfinder-RPG.affaiblissement temporaire</link><link>Pathfinder-RPG.Force</link><link>Pathfinder-RPG.jet de sauvegarde</link><link>Pathfinder-RPG.Charisme</link><link>Pathfinder-RPG.Volonté</link><link>Pathfinder-RPG.Chancelant</link><link>Pathfinder-RPG.Guenaude verte</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Guenaude marine&lt;div style=&quot;float:right;&quot;&gt;FP 4&lt;/div&gt;&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Bestiaire p.176&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 1.200
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Humano&#239;de-Monstrueux.html&quot; title=&quot;Humano&#239;de monstrueux&quot;&gt;Humano&#239;de monstrueux&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Aquatique.html&quot; title=&quot;Aquatique (sous-type)&quot;&gt;aquatique&lt;/a&gt;) de taille M, CM
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +3 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Capacit&#233;s-Sp&#233;ciales.html#VISIONDANSLENOIR&quot; title=&quot;vision dans le noir&quot;&gt;vision dans le noir&lt;/a&gt; 18 m (12 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +11
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Aura&lt;/b&gt; apparence horrible 18 m (12 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 16, contact 13, pris au d&#233;pourvu 13 (Dex +3, naturelle +3)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 38 (4d10+16)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +7, &lt;b&gt;Vig&lt;/b&gt; +5, &lt;b&gt;Vol&lt;/b&gt; +5
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;RM&lt;/b&gt; 15 
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 9 m (6 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), nage 12 m (8 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; 2 griffes, +8 (1d6+4)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaques sp&#233;ciales&lt;/b&gt; mauvais œil
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 19, &lt;b&gt;Dex&lt;/b&gt; 16, &lt;b&gt;Con&lt;/b&gt; 18, &lt;b&gt;Int&lt;/b&gt; 12, &lt;b&gt;Sag&lt;/b&gt; 13, &lt;b&gt;Cha&lt;/b&gt; 15
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +4, &lt;b&gt;BMO&lt;/b&gt; +8, &lt;b&gt;DMD&lt;/b&gt; 21
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Talent.html&quot; title=&quot;Talent&quot;&gt;Talent&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Bluff.html&quot; title=&quot;Bluff&quot;&gt;Bluff&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Bluff.html&quot; title=&quot;Bluff&quot;&gt;Bluff&lt;/a&gt; +9, &lt;a class=&quot;pagelink&quot; href=&quot;Connaissances.html&quot; title=&quot;Connaissances&quot;&gt;Connaissances&lt;/a&gt; (une au choix) +5, &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; +10, &lt;a class=&quot;pagelink&quot; href=&quot;Natation.html&quot; title=&quot;Natation&quot;&gt;Natation&lt;/a&gt; +19, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +11
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Langues&lt;/b&gt; commun, g&#233;ant
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Particularit&#233;s&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Amphibie-(Capacit&#233;).html&quot; title=&quot;Amphibie&quot;&gt;amphibie&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; milieu aquatique
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation sociale&lt;/b&gt; solitaire ou cercle (3 guenaudes de n&#39;importe quel type)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; standard
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Capacit&#233;s sp&#233;ciales&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Apparence horrible (Sur).&lt;/b&gt; Voir une guenaude marine est une exp&#233;rience si atroce qu&#39;&#224; l&#39;exception des autres guenaudes, toutes les cr&#233;atures qui se trouvent dans un rayon de 18 m (12 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) et qui posent les yeux sur elles doivent r&#233;ussir un jet de &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;Vigueur&quot;&gt;Vigueur&lt;/a&gt; de &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DEGREDEDIFFICULTE&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; 14 sous peine de se sentir faibles et de subir un &lt;a class=&quot;pagelink&quot; href=&quot;Affaiblissement-Temporaire-(Capacit&#233;).html&quot; title=&quot;affaiblissement temporaire&quot;&gt;affaiblissement temporaire&lt;/a&gt; de 1d6 points de &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#FORCE&quot; title=&quot;La Force&quot;&gt;Force&lt;/a&gt;. Quel que soit le r&#233;sultat du &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;jet de sauvegarde&quot;&gt;jet de sauvegarde&lt;/a&gt;, les cr&#233;atures concern&#233;es ne peuvent plus &#234;tre affect&#233;es par l&#39;apparence horrible de la guenaude marine en question pendant 24 heures. Il s&#39;agit d&#39;une effet mental. Le &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DEGREDEDIFFICULTE&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; d&#233;pend du &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#CHARISME&quot; title=&quot;Le Charisme&quot;&gt;Charisme&lt;/a&gt;.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Mauvais œil (Sur).&lt;/b&gt; Trois fois par jour, une guenaude marine peut lancer le mauvais œil sur une cr&#233;ature situ&#233;e dans un rayon de 9 m (6 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;). La cible doit r&#233;ussir un jet de &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;Volont&#233;&quot;&gt;Volont&#233;&lt;/a&gt; de &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DEGREDEDIFFICULTE&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; 14 pour ne pas &#234;tre &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables.html#Chancelant&quot; title=&quot;Chancelant&quot;&gt;chancelante&lt;/a&gt; &#224; cause des angoisses &#233;tranges et de l&#39;impression de malheur imminent qui l&#39;assaillent. Si la guenaude marine utilise son mauvais œil sur une cr&#233;ature qui est d&#233;j&#224; affect&#233;e par cette mal&#233;diction, celle-ci doit r&#233;ussir un jet de &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;Vigueur&quot;&gt;Vigueur&lt;/a&gt; de &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DEGREDEDIFFICULTE&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; 14 pour ne par &#234;tre terrass&#233;e par la terreur et s&#39;effondrer dans un &#233;tat comateux qui dure pendant 3 jours. Apr&#232;s chacun de ces jours, la victime comateuse doit r&#233;ussir un jet de &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;Vigueur&quot;&gt;Vigueur&lt;/a&gt; de &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DEGREDEDIFFICULTE&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; 14 pour &#233;viter de p&#233;rir. Le mauvais œil est un effet mental de terreur. Le &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DEGREDEDIFFICULTE&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; des &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;jet de sauvegarde&quot;&gt;jets de sauvegarde&lt;/a&gt; d&#233;pend du &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#CHARISME&quot; title=&quot;Le Charisme&quot;&gt;Charisme&lt;/a&gt;. &lt;i&gt;Mal&#233;diction du mauvais œil.&lt;/i&gt; Regard - JS rat&#233; ; &lt;i&gt;JS&lt;/i&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;Vigueur&quot;&gt;Vigueur&lt;/a&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DEGREDEDIFFICULTE&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; 14 ; &lt;i&gt;fr&#233;quence&lt;/i&gt; 1/jour ; &lt;i&gt;effet&lt;/i&gt; &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables.html#Chancelant&quot; title=&quot;Chancelant&quot;&gt;chancelant&lt;/a&gt; (ou tomber dans le coma pour les cibles d&#233;j&#224; affect&#233;es par le mauvais œil).
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;td&gt;&lt;div&gt;&lt;i&gt;La peau verd&#226;tre et d&#233;tendue de cette vieille sorci&#232;re couverte de poils semblables &#224; des algues pourries pend sur sa silhouette fam&#233;lique.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;L’apparence de ces monstrueuses sorci&#232;res des mers est si horrible
+que peu de gens osent les regarder. Ces cr&#233;atures abominables
+aiment semer la discorde, entra&#238;ner les marins vers les profondeurs
+qui leur serviront de tombeaux et tourmenter les habitants des
+oc&#233;ans. La vue d’une guenaude marine est toujours une sc&#232;ne
+d’horreur et, malgr&#233; leur gloutonnerie, elles ressemblent &#224; des
+cr&#233;atures &#233;maci&#233;es et affam&#233;es. Elles mesurent g&#233;n&#233;ralement
+1,80 m&#232;tres et p&#232;sent 75 kg.&lt;br /&gt;&lt;br /&gt;Les guenaudes marines pr&#233;f&#232;rent vivre assez pr&#232;s du rivage,
+l&#224; o&#249; elles ont le plus de chances de rencontrer des p&#234;cheurs et
+des navires commerciaux. La plupart de ces cr&#233;atures choisissent
+de s’&#233;tablir loin des villes pour
+&#233;viter que leurs actes n’attirent
+l’attention de ces ennemis
+potentiels. &lt;br /&gt;&lt;br /&gt;Il n’est pas rare de
+voir une guenaude marine plus
+courageuse ou plus impatiente que
+la moyenne &#233;lire domicile dans le
+port d’une cit&#233; ou &#224; l’embouchure
+d’une rivi&#232;re profonde.
+Comme les autres guenaudes,
+les guenaudes marines forment
+des cercles mais leur nature
+aquatique les emp&#234;che g&#233;n&#233;ralement
+de participer &#224; des cercles mixtes. &lt;br /&gt;&lt;br /&gt;Les guenaudes vertes qui habitent pr&#232;s
+du rivage (dans un marais sal&#233; ou
+un mar&#233;cage pr&#232;s de la c&#244;te) cr&#233;ent
+r&#233;guli&#232;rement des cercles en s’alliant
+avec deux guenaudes marines qui
+les consid&#232;rent comme leur m&#232;re
+et leur dirigeante. Mais le plus
+souvent, les cercles auxquelles
+ces cr&#233;atures appartiennent
+r&#233;unissent des guenaudes
+marines particuli&#232;rement
+amicales entre elles, qui se
+consid&#232;rent comme des sœurs.&lt;br /&gt;&lt;br /&gt;Consultez la &lt;a class=&quot;pagelink&quot; href=&quot;Guenaude-Verte.html&quot; title=&quot;Guenaude verte&quot;&gt;guenaude verte&lt;/a&gt; (page 178) pour plus
+d’informations sur les cercles de
+guenaudes.
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Guenaude marine|FP 4}
+{s:pucem|Humanoïde monstrueux|Aquatique|Tempéré}
+{s:BDTexte|''Source : Bestiaire p.176''}
+{s:BDTexte|'''PX''' 1.200}
+{s:BDTexte|[[type Humanoïde monstrueux|Humanoïde monstrueux]] ([[sous-type aquatique|aquatique]]) de taille M, CM}
+{s:BDTexte|'''Init''' +3 ; '''Sens''' [[vision dans le noir]] 18 m (12 {s:c}) ; [[Perception]] +11}
+{s:BDTexte|'''Aura''' apparence horrible 18 m (12 {s:c})}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 16, contact 13, pris au dépourvu 13 (Dex +3, naturelle +3)}
+{s:BDTexte|'''pv''' 38 (4d10+16)}
+{s:BDTexte|'''Réf''' +7, '''Vig''' +5, '''Vol''' +5}
+{s:BDTexte|'''RM''' 15 }
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 9 m (6 {s:c}), nage 12 m (8 {s:c})}
+{s:BDTexte|'''Corps à corps''' 2 griffes, +8 (1d6+4)}
+{s:BDTexte|'''Attaques spéciales''' mauvais œil}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 19, '''Dex''' 16, '''Con''' 18, '''Int''' 12, '''Sag''' 13, '''Cha''' 15}
+{s:BDTexte|'''BBA''' +4, '''BMO''' +8, '''DMD''' 21}
+{s:BDTexte|'''Dons''' [[Talent]] ([[Bluff]], [[Perception]])}
+{s:BDTexte|'''Compétences''' [[Bluff]] +9, [[Connaissances]] (une au choix) +5, [[Discrétion]] +10, [[Natation]] +19, [[Perception]] +11}
+{s:BDTexte|'''Langues''' commun, géant}
+{s:BDTexte|'''Particularités''' [[amphibie]]}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' milieu aquatique}
+{s:BDTexte|'''Organisation sociale''' solitaire ou cercle (3 guenaudes de n'importe quel type)}
+{s:BDTexte|'''Trésor''' standard}
+{s:BDSousTitre|Capacités spéciales}
+{s:BDTexte|'''Apparence horrible (Sur).''' Voir une guenaude marine est une expérience si atroce qu'à l'exception des autres guenaudes, toutes les créatures qui se trouvent dans un rayon de 18 m (12 {s:c}) et qui posent les yeux sur elles doivent réussir un jet de [[Vigueur]] de [[DD]] 14 sous peine de se sentir faibles et de subir un [[affaiblissement temporaire]] de 1d6 points de [[Force]]. Quel que soit le résultat du [[jet de sauvegarde]], les créatures concernées ne peuvent plus être affectées par l'apparence horrible de la guenaude marine en question pendant 24 heures. Il s'agit d'une effet mental. Le [[DD]] dépend du [[Charisme]].}
+{s:BDTexte|'''Mauvais œil (Sur).''' Trois fois par jour, une guenaude marine peut lancer le mauvais œil sur une créature située dans un rayon de 9 m (6 {s:c}). La cible doit réussir un jet de [[Volonté]] de [[DD]] 14 pour ne pas être [[chancelant|chancelante]] à cause des angoisses étranges et de l'impression de malheur imminent qui l'assaillent. Si la guenaude marine utilise son mauvais œil sur une créature qui est déjà affectée par cette malédiction, celle-ci doit réussir un jet de [[Vigueur]] de [[DD]] 14 pour ne par être terrassée par la terreur et s'effondrer dans un état comateux qui dure pendant 3 jours. Après chacun de ces jours, la victime comateuse doit réussir un jet de [[Vigueur]] de [[DD]] 14 pour éviter de périr. Le mauvais œil est un effet mental de terreur. Le [[DD]] des [[jet de sauvegarde|jets de sauvegarde]] dépend du [[Charisme]]. ''Malédiction du mauvais œil.'' Regard - JS raté ; ''JS'' [[Vigueur]] [[DD]] 14 ; ''fréquence'' 1/jour ; ''effet'' [[chancelant]] (ou tomber dans le coma pour les cibles déjà affectées par le mauvais œil).}
+</div>
+</td><td><div>''La peau verdâtre et détendue de cette vieille sorcière couverte de poils semblables à des algues pourries pend sur sa silhouette famélique.''
+
+L’apparence de ces monstrueuses sorcières des mers est si horrible
+que peu de gens osent les regarder. Ces créatures abominables
+aiment semer la discorde, entraîner les marins vers les profondeurs
+qui leur serviront de tombeaux et tourmenter les habitants des
+océans. La vue d’une guenaude marine est toujours une scène
+d’horreur et, malgré leur gloutonnerie, elles ressemblent à des
+créatures émaciées et affamées. Elles mesurent généralement
+1,80 mètres et pèsent 75 kg.
+
+Les guenaudes marines préfèrent vivre assez près du rivage,
+là où elles ont le plus de chances de rencontrer des pêcheurs et
+des navires commerciaux. La plupart de ces créatures choisissent
+de s’établir loin des villes pour
+éviter que leurs actes n’attirent
+l’attention de ces ennemis
+potentiels. 
+
+Il n’est pas rare de
+voir une guenaude marine plus
+courageuse ou plus impatiente que
+la moyenne élire domicile dans le
+port d’une cité ou à l’embouchure
+d’une rivière profonde.
+Comme les autres guenaudes,
+les guenaudes marines forment
+des cercles mais leur nature
+aquatique les empêche généralement
+de participer à des cercles mixtes. 
+
+Les guenaudes vertes qui habitent près
+du rivage (dans un marais salé ou
+un marécage près de la côte) créent
+régulièrement des cercles en s’alliant
+avec deux guenaudes marines qui
+les considèrent comme leur mère
+et leur dirigeante. Mais le plus
+souvent, les cercles auxquelles
+ces créatures appartiennent
+réunissent des guenaudes
+marines particulièrement
+amicales entre elles, qui se
+considèrent comme des sœurs.
+
+Consultez la [[guenaude verte]] (page 178) pour plus
+d’informations sur les cercles de
+guenaudes.
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Guenaude marine</fullName>
+</wikiPage>

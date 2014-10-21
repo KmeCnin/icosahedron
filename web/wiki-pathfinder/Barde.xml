@@ -1,0 +1,658 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Le barde</title>
+  <categories><category>Pathfinder-RPG.Classe</category><category>Pathfinder-RPG.Règles officielles</category></categories>
+  <lastModified>2013-12-11 11:15:41Z</lastModified>
+  <version>9</version>
+  <inLinks><link>Pathfinder-RPG.Aasimar (race)</link><link>Pathfinder-RPG.Abondance de munitions</link><link>Pathfinder-RPG.Accélération</link><link>Pathfinder-RPG.Accompagnement exquis</link><link>Pathfinder-RPG.accorder une intuition</link><link>Pathfinder-RPG.Actions complexes</link><link>Pathfinder-RPG.Adoration</link><link>Pathfinder-RPG.Alarme</link><link>Pathfinder-RPG.Alignement indétectable</link><link>Pathfinder-RPG.Allegro</link><link>Pathfinder-RPG.Allié compatissant</link><link>Pathfinder-RPG.Allié involontaire</link><link>Pathfinder-RPG.Altération vocale</link><link>Pathfinder-RPG.Amitié</link><link>Pathfinder-RPG.Analyse denchantement</link><link>Pathfinder-RPG.Animation dobjets</link><link>Pathfinder-RPG.Annulation denchantement</link><link>Pathfinder-RPG.Anticipation du danger</link><link>Pathfinder-RPG.Apaisement des émotions</link><link>Pathfinder-RPG.Appel cacophonique</link><link>Pathfinder-RPG.Appel cacophonique de groupe</link><link>Pathfinder-RPG.Archéologue (barde)</link><link>Pathfinder-RPG.Archiviste (barde)</link><link>Pathfinder-RPG.Argent et richesse</link><link>Pathfinder-RPG.Arme boomerang</link><link>Pathfinder-RPG.Arme boomerang (partagé)</link><link>Pathfinder-RPG.Arme polyvalente</link><link>Pathfinder-RPG.Artiste des rues (barde)</link><link>Pathfinder-RPG.Aspect de fée hantée</link><link>Pathfinder-RPG.Au-delà du niveau 20</link><link>Pathfinder-RPG.Aura magique</link><link>Pathfinder-RPG.Avancée assurée</link><link>Pathfinder-RPG.Bafouiller</link><link>Pathfinder-RPG.Bagou</link><link>Pathfinder-RPG.Barde</link><link>Pathfinder-RPG.Barde de cour (barde)</link><link>Pathfinder-RPG.Barde dombre</link><link>Pathfinder-RPG.Barde funèbre (barde)</link><link>Pathfinder-RPG.Berceuse</link><link>Pathfinder-RPG.Biographie du sang</link><link>Pathfinder-RPG.Bond dimensionnel</link><link>Pathfinder-RPG.Bouche magique</link><link>Pathfinder-RPG.Bouclier involontaire</link><link>Pathfinder-RPG.Briser la volonté</link><link>Pathfinder-RPG.Broderie</link><link>Pathfinder-RPG.Bruit pénible</link><link>Pathfinder-RPG.Brume hantée</link><link>Pathfinder-RPG.Brume mentale</link><link>Pathfinder-RPG.Cacophonie</link><link>Pathfinder-RPG.Cacophonie distrayante</link><link>Pathfinder-RPG.Caractéristiques</link><link>Pathfinder-RPG.Caractéristiques des armures</link><link>Pathfinder-RPG.Cartes fantasmagoriques</link><link>Pathfinder-RPG.Casse-cou (barde)</link><link>Pathfinder-RPG.Cécitésurdité</link><link>Pathfinder-RPG.Célébrité (barde)</link><link>Pathfinder-RPG.Chagrin écrasant</link><link>Pathfinder-RPG.Chant assourdissant</link><link>Pathfinder-RPG.Chant de discorde</link><link>Pathfinder-RPG.chant du labeur</link><link>Pathfinder-RPG.Chantemer (barde)</link><link>Pathfinder-RPG.Chantesort</link><link>Pathfinder-RPG.charmant cadeau</link><link>Pathfinder-RPG.Charme-monstre</link><link>Pathfinder-RPG.Charme-monstre de groupe</link><link>Pathfinder-RPG.Charme-personne</link><link>Pathfinder-RPG.Chefs doeuvre</link><link>Pathfinder-RPG.Chœur hanté</link><link>Pathfinder-RPG.Chroniqueur</link><link>Pathfinder-RPG.Clairaudienceclairvoyance</link><link>Pathfinder-RPG.Classes</link><link>Pathfinder-RPG.Clignotement</link><link>Pathfinder-RPG.Combattant pris au dépourvu</link><link>Pathfinder-RPG.Communication avec les animaux</link><link>Pathfinder-RPG.Communication avec les plantes</link><link>Pathfinder-RPG.Compétences</link><link>Pathfinder-RPG.Compréhension des langages</link><link>Pathfinder-RPG.Conducteur fantôme</link><link>Pathfinder-RPG.Confusion</link><link>Pathfinder-RPG.Confusion mineure</link><link>Pathfinder-RPG.Connaissances du Borgne</link><link>Pathfinder-RPG.Connaissances magiques étendues</link><link>Pathfinder-RPG.Contrôle des créatures convoquées</link><link>Pathfinder-RPG.Convocation de monstre mineur</link><link>Pathfinder-RPG.Convocation de monstres I</link><link>Pathfinder-RPG.Convocation de monstres II</link><link>Pathfinder-RPG.Convocation de monstres III</link><link>Pathfinder-RPG.Convocation de monstres IV</link><link>Pathfinder-RPG.Convocation de monstres V</link><link>Pathfinder-RPG.Convocation de monstres VI</link><link>Pathfinder-RPG.Convocation dinstrument</link><link>Pathfinder-RPG.Convocation dombres</link><link>Pathfinder-RPG.Coquille invisible</link><link>Pathfinder-RPG.Cor de poursuite</link><link>Pathfinder-RPG.Corde animée</link><link>Pathfinder-RPG.Corde déchardes</link><link>Pathfinder-RPG.Coup tonitruant</link><link>Pathfinder-RPG.Course folle</link><link>Pathfinder-RPG.Coursier fantôme</link><link>Pathfinder-RPG.Coursier fantôme (partagé)</link><link>Pathfinder-RPG.Crampe</link><link>Pathfinder-RPG.Création de carte au trésor</link><link>Pathfinder-RPG.Création dobjets magiques</link><link>Pathfinder-RPG.Créer des PNJ</link><link>Pathfinder-RPG.Créer un sort</link><link>Pathfinder-RPG.Cri</link><link>Pathfinder-RPG.Cri ki</link><link>Pathfinder-RPG.Cri perçant</link><link>Pathfinder-RPG.Cri suprême</link><link>Pathfinder-RPG.Dangereux final</link><link>Pathfinder-RPG.Danse des cent coupures</link><link>Pathfinder-RPG.Danse des mille coupures</link><link>Pathfinder-RPG.Danse irrésistible</link><link>Pathfinder-RPG.De la soie à l’acier</link><link>Pathfinder-RPG.De la soie à lacier</link><link>Pathfinder-RPG.Décélération</link><link>Pathfinder-RPG.Déchiffrer</link><link>Pathfinder-RPG.Décollage</link><link>Pathfinder-RPG.Défaire</link><link>Pathfinder-RPG.Dégâts</link><link>Pathfinder-RPG.Déguisement fantomatique</link><link>Pathfinder-RPG.Déguiser autrui</link><link>Pathfinder-RPG.Délivrance des malédictions</link><link>Pathfinder-RPG.Démagogue (barde)</link><link>Pathfinder-RPG.Démarche aérienne</link><link>Pathfinder-RPG.Démarche aérienne de groupe</link><link>Pathfinder-RPG.Demi-elfe</link><link>Pathfinder-RPG.Demi-orque</link><link>Pathfinder-RPG.Dénonciation</link><link>Pathfinder-RPG.Déplacement</link><link>Pathfinder-RPG.Derviche (barde)</link><link>Pathfinder-RPG.Désespoir foudroyant</link><link>Pathfinder-RPG.Désir anormal</link><link>Pathfinder-RPG.Détection de la magie</link><link>Pathfinder-RPG.Détection de la scrutation</link><link>Pathfinder-RPG.Détection de linvisibilité</link><link>Pathfinder-RPG.Détection de pensées</link><link>Pathfinder-RPG.Détection des passages secrets</link><link>Pathfinder-RPG.Détection faussée</link><link>Pathfinder-RPG.Détective (barde)</link><link>Pathfinder-RPG.Détonation discordante</link><link>Pathfinder-RPG.Discours captivant</link><link>Pathfinder-RPG.Disparition</link><link>Pathfinder-RPG.Disparition (mot de pouvoir)</link><link>Pathfinder-RPG.Dissimulation dobjet</link><link>Pathfinder-RPG.Dissipation de la magie</link><link>Pathfinder-RPG.Dissipation suprême</link><link>Pathfinder-RPG.Domination</link><link>Pathfinder-RPG.Don des langues</link><link>Pathfinder-RPG.Don des langues (partagé)</link><link>Pathfinder-RPG.dons de capacités de classe</link><link>Pathfinder-RPG.Double illusoire</link><link>Pathfinder-RPG.double terrifiant</link><link>Pathfinder-RPG.Dragon dartifice</link><link>Pathfinder-RPG.Drow (race)</link><link>Pathfinder-RPG.Duelliste</link><link>Pathfinder-RPG.Duelliste des arcanes (barde)</link><link>Pathfinder-RPG.Duels</link><link>Pathfinder-RPG.Duels de sorts</link><link>Pathfinder-RPG.Écho</link><link>Pathfinder-RPG.Écholocalisation</link><link>Pathfinder-RPG.Effacement</link><link>Pathfinder-RPG.Efforts coordonnés</link><link>Pathfinder-RPG.Effroi</link><link>Pathfinder-RPG.Elfe</link><link>Pathfinder-RPG.Emprunt de compétence</link><link>Pathfinder-RPG.Emprunt de futur</link><link>Pathfinder-RPG.Engouement téméraire</link><link>Pathfinder-RPG.Ennemi amical</link><link>Pathfinder-RPG.Ennui oppressant</link><link>Pathfinder-RPG.Ensemble</link><link>Pathfinder-RPG.Ensoleillement</link><link>Pathfinder-RPG.Entrer dans une image</link><link>Pathfinder-RPG.équipements raciaux</link><link>Pathfinder-RPG.Espoir</link><link>Pathfinder-RPG.Esprit malveillant</link><link>Pathfinder-RPG.Estoc sonore</link><link>Pathfinder-RPG.État gazeux</link><link>Pathfinder-RPG.Étincelles</link><link>Pathfinder-RPG.Évangéliste (prêtre)</link><link>Pathfinder-RPG.Évanouissement</link><link>Pathfinder-RPG.Explosion sonore</link><link>Pathfinder-RPG.Extase</link><link>Pathfinder-RPG.Fantôme</link><link>Pathfinder-RPG.FAQ Classes</link><link>Pathfinder-RPG.FAQ Dons</link><link>Pathfinder-RPG.FAQ Règles</link><link>Pathfinder-RPG.Faux-semblant</link><link>Pathfinder-RPG.Festin des héros</link><link>Pathfinder-RPG.Feu de camp abrité</link><link>Pathfinder-RPG.Feuille morte</link><link>Pathfinder-RPG.Fierté illusoire</link><link>Pathfinder-RPG.Final étourdissant</link><link>Pathfinder-RPG.Final héroïque</link><link>Pathfinder-RPG.Final purificateur</link><link>Pathfinder-RPG.Final revigorant</link><link>Pathfinder-RPG.Final salvateur</link><link>Pathfinder-RPG.Flèche de ki</link><link>Pathfinder-RPG.Flotter</link><link>Pathfinder-RPG.Flou</link><link>Pathfinder-RPG.Folle hallucination</link><link>Pathfinder-RPG.Forme parfaite</link><link>Pathfinder-RPG.Forme supérieure</link><link>Pathfinder-RPG.Fou rire</link><link>Pathfinder-RPG.Fracassement</link><link>Pathfinder-RPG.Frappeson (barde)</link><link>Pathfinder-RPG.Frayeur</link><link>Pathfinder-RPG.Fuite du barde</link><link>Pathfinder-RPG.Gardien du savoir</link><link>Pathfinder-RPG.Geisha (barde)</link><link>Pathfinder-RPG.Glossaire des capacités, pouvoirs et aptitudes</link><link>Pathfinder-RPG.Gnome</link><link>Pathfinder-RPG.Grâce féline</link><link>Pathfinder-RPG.Grâce féline de groupe</link><link>Pathfinder-RPG.grâce urbaine</link><link>Pathfinder-RPG.Graisse</link><link>Pathfinder-RPG.Grandes illuminations</link><link>Pathfinder-RPG.Guérison mineure</link><link>Pathfinder-RPG.Guérison modérée</link><link>Pathfinder-RPG.Guérison supérieure</link><link>Pathfinder-RPG.Guérison suprême (mot de pouvoir)</link><link>Pathfinder-RPG.Halfelin</link><link>Pathfinder-RPG.Harmonie profane</link><link>Pathfinder-RPG.harpe du destin</link><link>Pathfinder-RPG.Hébétement</link><link>Pathfinder-RPG.Hébétement de groupe</link><link>Pathfinder-RPG.Hébétement de monstre</link><link>Pathfinder-RPG.Héraut</link><link>Pathfinder-RPG.Héroïsme</link><link>Pathfinder-RPG.Héroïsme suprême</link><link>Pathfinder-RPG.Hostilité forcée</link><link>Pathfinder-RPG.Humain</link><link>Pathfinder-RPG.Hurlement perçant</link><link>Pathfinder-RPG.Hurlement primitif</link><link>Pathfinder-RPG.Hypnose</link><link>Pathfinder-RPG.Hypnose des animaux</link><link>Pathfinder-RPG.Identification</link><link>Pathfinder-RPG.Illumination</link><link>Pathfinder-RPG.Image accomplie</link><link>Pathfinder-RPG.Image de foudre</link><link>Pathfinder-RPG.Image imparfaite</link><link>Pathfinder-RPG.Image miroir</link><link>Pathfinder-RPG.Image permanente</link><link>Pathfinder-RPG.Image prédéterminée</link><link>Pathfinder-RPG.Image programmée</link><link>Pathfinder-RPG.Image silencieuse</link><link>Pathfinder-RPG.Immobilisation de monstre</link><link>Pathfinder-RPG.Immobilisation de personne</link><link>Pathfinder-RPG.Incantation silencieuse</link><link>Pathfinder-RPG.Innocence</link><link>Pathfinder-RPG.Inspection</link><link>Pathfinder-RPG.Inspiration brillante</link><link>Pathfinder-RPG.Inspiration galante</link><link>Pathfinder-RPG.Inspiration opportune</link><link>Pathfinder-RPG.Instant de gloire</link><link>Pathfinder-RPG.Interdiction du fou</link><link>Pathfinder-RPG.Invective cuisante</link><link>Pathfinder-RPG.Invisibilité</link><link>Pathfinder-RPG.Invisibilité suprême</link><link>Pathfinder-RPG.Jeunesse apparente</link><link>Pathfinder-RPG.jitterbug</link><link>Pathfinder-RPG.Jouer dun instrument</link><link>Pathfinder-RPG.Joueur de flûte</link><link>Pathfinder-RPG.kitsune (race)</link><link>Pathfinder-RPG.la mort venue den bas</link><link>Pathfinder-RPG.Lancer des sorts</link><link>Pathfinder-RPG.Langage caché</link><link>Pathfinder-RPG.Langue de miel</link><link>Pathfinder-RPG.Langue élémentaire</link><link>Pathfinder-RPG.lanterne dansante</link><link>Pathfinder-RPG.Lecture de la magie</link><link>Pathfinder-RPG.Lenteur</link><link>Pathfinder-RPG.Les mots de pouvoir</link><link>Pathfinder-RPG.Leurre</link><link>Pathfinder-RPG.Liberté de mouvement</link><link>Pathfinder-RPG.lignage Impérieux</link><link>Pathfinder-RPG.Lillende</link><link>Pathfinder-RPG.Liste des sorts de bardes</link><link>Pathfinder-RPG.livre du maître du savoir</link><link>Pathfinder-RPG.Localisation</link><link>Pathfinder-RPG.Localisation de créature</link><link>Pathfinder-RPG.Localisation dobjet</link><link>Pathfinder-RPG.Lueur darc-en-ciel</link><link>Pathfinder-RPG.Lueurs hypnotiques</link><link>Pathfinder-RPG.Lumière</link><link>Pathfinder-RPG.Lumière du jour</link><link>Pathfinder-RPG.Lumières dansantes</link><link>Pathfinder-RPG.Luth doré parfait</link><link>Pathfinder-RPG.Magie des ombres</link><link>Pathfinder-RPG.Magie profane</link><link>Pathfinder-RPG.Main vagabonde</link><link>Pathfinder-RPG.MainPage</link><link>Pathfinder-RPG.Maîtriser la magie</link><link>Pathfinder-RPG.Maîtriser le combat</link><link>Pathfinder-RPG.Maladresse</link><link>Pathfinder-RPG.Malédiction de dégoût</link><link>Pathfinder-RPG.Maniement des boucliers</link><link>Pathfinder-RPG.Manipulation à distance</link><link>Pathfinder-RPG.Manipulation des sons</link><link>Pathfinder-RPG.Manteau de rêves</link><link>Pathfinder-RPG.Marchand de sable (barde)</link><link>Pathfinder-RPG.Mauvais œil</link><link>Pathfinder-RPG.Mépris absolu</link><link>Pathfinder-RPG.Message</link><link>Pathfinder-RPG.Messager animal</link><link>Pathfinder-RPG.mirage</link><link>Pathfinder-RPG.Misérable pitié</link><link>Pathfinder-RPG.Mission</link><link>Pathfinder-RPG.Modification dapparence</link><link>Pathfinder-RPG.Modification de mémoire</link><link>Pathfinder-RPG.Monture de guerre</link><link>Pathfinder-RPG.Mur de son</link><link>Pathfinder-RPG.Musique flamboyante</link><link>Pathfinder-RPG.Mystificateur profane</link><link>Pathfinder-RPG.Mythes et légendes</link><link>Pathfinder-RPG.Nain</link><link>Pathfinder-RPG.Narcissisme suffisant</link><link>Pathfinder-RPG.Neutralisation du poison</link><link>Pathfinder-RPG.Note discordante</link><link>Pathfinder-RPG.Note pétrifiante</link><link>Pathfinder-RPG.Note tangible</link><link>Pathfinder-RPG.Nuée grouillante</link><link>Pathfinder-RPG.Nymphe</link><link>Pathfinder-RPG.Objets intelligents</link><link>Pathfinder-RPG.Obscurité</link><link>Pathfinder-RPG.Orateur animal (barde)</link><link>Pathfinder-RPG.Ordre complexe</link><link>Pathfinder-RPG.Ordre libérateur</link><link>Pathfinder-RPG.Ordre simple</link><link>Pathfinder-RPG.Orientation</link><link>Pathfinder-RPG.Ouverturefermeture</link><link>Pathfinder-RPG.page de travail des dons</link><link>Pathfinder-RPG.Page secrète</link><link>Pathfinder-RPG.Paralysie de créature</link><link>Pathfinder-RPG.Paralysie dhumanoïde</link><link>Pathfinder-RPG.Parchemins magiques</link><link>Pathfinder-RPG.Parole résonnante</link><link>Pathfinder-RPG.Partage de la langue</link><link>Pathfinder-RPG.Partage de la langue (partagé)</link><link>Pathfinder-RPG.Partage des souvenirs</link><link>Pathfinder-RPG.Pas de lombre</link><link>Pathfinder-RPG.Perspicacité tactique</link><link>Pathfinder-RPG.Phare</link><link>Pathfinder-RPG.Planer (mot de pouvoir)</link><link>Pathfinder-RPG.Pluie de grenouilles</link><link>Pathfinder-RPG.Porte dimensionnelle</link><link>Pathfinder-RPG.Poudre descampette</link><link>Pathfinder-RPG.Poussière détoile</link><link>Pathfinder-RPG.Poussière du crépuscule</link><link>Pathfinder-RPG.Poussière scintillante</link><link>Pathfinder-RPG.Présence écrasante</link><link>Pathfinder-RPG.Présentation des sorts</link><link>Pathfinder-RPG.Prestidigitateur (barde)</link><link>Pathfinder-RPG.Prestidigitation</link><link>Pathfinder-RPG.Projection dimage</link><link>Pathfinder-RPG.Pulsion de jalousie</link><link>Pathfinder-RPG.Pur dégoût</link><link>Pathfinder-RPG.Purifier</link><link>Pathfinder-RPG.Pyrotechnie</link><link>Pathfinder-RPG.Quête</link><link>Pathfinder-RPG.Radiance</link><link>Pathfinder-RPG.Rage</link><link>Pathfinder-RPG.Ralentissement du poison</link><link>Pathfinder-RPG.Ralentissement du poison (partagé)</link><link>Pathfinder-RPG.Rapidité</link><link>Pathfinder-RPG.Réaction négative</link><link>Pathfinder-RPG.rechargement de la magie innée</link><link>Pathfinder-RPG.Recherche de pensées</link><link>Pathfinder-RPG.Refuge du mage</link><link>Pathfinder-RPG.Regain dassurance</link><link>Pathfinder-RPG.Réparation</link><link>Pathfinder-RPG.Réparation improvisée</link><link>Pathfinder-RPG.Repérage</link><link>Pathfinder-RPG.Repli expéditif</link><link>Pathfinder-RPG.Représentation</link><link>Pathfinder-RPG.Représentation de virtuose</link><link>Pathfinder-RPG.Représentation théâtrale</link><link>Pathfinder-RPG.Représentations</link><link>Pathfinder-RPG.Répulsif</link><link>Pathfinder-RPG.Requiem pour les fantômes</link><link>Pathfinder-RPG.Requiem pour les fantômes de groupe</link><link>Pathfinder-RPG.Résistance à la magie (mot de pouvoir)</link><link>Pathfinder-RPG.Résonance</link><link>Pathfinder-RPG.Retardement de la douleur</link><link>Pathfinder-RPG.Revigorer</link><link>Pathfinder-RPG.Revigorer de groupe</link><link>Pathfinder-RPG.River le regard</link><link>Pathfinder-RPG.Ruse du renard</link><link>Pathfinder-RPG.Ruse du renard de groupe</link><link>Pathfinder-RPG.Sage harmonique</link><link>Pathfinder-RPG.Sang bouillant</link><link>Pathfinder-RPG.Saut du bouffon</link><link>Pathfinder-RPG.Scalde sauvage (barde)</link><link>Pathfinder-RPG.sceau de fuite</link><link>Pathfinder-RPG.Sceau du serpent</link><link>Pathfinder-RPG.Sceptre dabsorption</link><link>Pathfinder-RPG.Sceptre de métamagie</link><link>Pathfinder-RPG.Scintillement</link><link>Pathfinder-RPG.Scrupule</link><link>Pathfinder-RPG.scrutation</link><link>Pathfinder-RPG.Scrutation suprême</link><link>Pathfinder-RPG.Sens aiguisés</link><link>Pathfinder-RPG.Sensei (moine)</link><link>Pathfinder-RPG.Sentir ce qui est caché</link><link>Pathfinder-RPG.Sentir la magie</link><link>Pathfinder-RPG.Sentir les pensées</link><link>Pathfinder-RPG.Sérénité</link><link>Pathfinder-RPG.Serviteur I</link><link>Pathfinder-RPG.Serviteur II</link><link>Pathfinder-RPG.Serviteur III</link><link>Pathfinder-RPG.Serviteur invisible</link><link>Pathfinder-RPG.Serviteur IV</link><link>Pathfinder-RPG.Serviteur V</link><link>Pathfinder-RPG.Serviteur VI</link><link>Pathfinder-RPG.Silence</link><link>Pathfinder-RPG.Silence forcé</link><link>Pathfinder-RPG.Singes fous</link><link>Pathfinder-RPG.Soignechant (barde)</link><link>Pathfinder-RPG.Soins importants</link><link>Pathfinder-RPG.Soins intensifs</link><link>Pathfinder-RPG.Soins légers</link><link>Pathfinder-RPG.Soins légers de groupe</link><link>Pathfinder-RPG.Soins modérés</link><link>Pathfinder-RPG.Soins modérés de groupe</link><link>Pathfinder-RPG.Sommeil</link><link>Pathfinder-RPG.sommeil de lamnésique</link><link>Pathfinder-RPG.Sommeil profond</link><link>Pathfinder-RPG.Sommeil réparateur</link><link>Pathfinder-RPG.Son imaginaire</link><link>Pathfinder-RPG.Songe</link><link>Pathfinder-RPG.songe mineur</link><link>Pathfinder-RPG.sort Abri</link><link>Pathfinder-RPG.sort Cauchemar</link><link>Pathfinder-RPG.sort Déguisement</link><link>Pathfinder-RPG.Sort lointain</link><link>Pathfinder-RPG.sort Résistance</link><link>Pathfinder-RPG.Sort sélectif</link><link>Pathfinder-RPG.Spasmes</link><link>Pathfinder-RPG.Sphère dinvisibilité</link><link>Pathfinder-RPG.Splendeur de laigle</link><link>Pathfinder-RPG.Splendeur de laigle de groupe</link><link>Pathfinder-RPG.Suggestion</link><link>Pathfinder-RPG.Suggestion de groupe</link><link>Pathfinder-RPG.Suppression</link><link>Pathfinder-RPG.Tableau des dons (Art de la Magie)</link><link>Pathfinder-RPG.Tableau récapitulatif des compétences</link><link>Pathfinder-RPG.Tableau récapitulatif des dons</link><link>Pathfinder-RPG.Tambours tonnants</link><link>Pathfinder-RPG.Témoin</link><link>Pathfinder-RPG.temp-MainPage</link><link>Pathfinder-RPG.Ténèbres</link><link>Pathfinder-RPG.Terrain hallucinatoire</link><link>Pathfinder-RPG.Terreur</link><link>Pathfinder-RPG.Terreur (mot de pouvoir)</link><link>Pathfinder-RPG.Terrible remord</link><link>Pathfinder-RPG.Texte illusoire</link><link>Pathfinder-RPG.Toile fantasmagorique</link><link>Pathfinder-RPG.Torche révélatrice</link><link>Pathfinder-RPG.Torture</link><link>Pathfinder-RPG.Traduction</link><link>Pathfinder-RPG.Tranquillité euphorique</link><link>Pathfinder-RPG.Transformation de maître</link><link>Pathfinder-RPG.Traversée des ombres</link><link>Pathfinder-RPG.Trou de mémoire</link><link>Pathfinder-RPG.Utilisation dObjets Magiques</link><link>Pathfinder-RPG.Vagabond (moine)</link><link>Pathfinder-RPG.vagues dextase</link><link>Pathfinder-RPG.Vengeance pour outrage</link><link>Pathfinder-RPG.Vent de murmures</link><link>Pathfinder-RPG.Ventriloquie</link><link>Pathfinder-RPG.Vérité</link><link>Pathfinder-RPG.Vibration destructrice</link><link>Pathfinder-RPG.village voilé</link><link>Pathfinder-RPG.Vision infernale</link><link>Pathfinder-RPG.Vision lointaine</link><link>Pathfinder-RPG.Voile</link><link>Pathfinder-RPG.Voir lalignement</link><link>Pathfinder-RPG.Voix discordante</link><link>Pathfinder-RPG.Vol de voix</link><link>Pathfinder-RPG.Vulpinal</link><link>Pathfinder-RPG.Zone de silence</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Représentations</link><link>Pathfinder-RPG.Chefs doeuvre</link><link>Pathfinder-RPG.Liste des sorts de bardes</link><link>Pathfinder-RPG.Archéologue (barde)</link><link>Pathfinder-RPG.Archiviste (barde)</link><link>Pathfinder-RPG.Artiste des rues (barde)</link><link>Pathfinder-RPG.Barde de cour (barde)</link><link>Pathfinder-RPG.Barde funèbre (barde)</link><link>Pathfinder-RPG.Casse-cou (barde)</link><link>Pathfinder-RPG.Célébrité (barde)</link><link>Pathfinder-RPG.Chantemer (barde)</link><link>Pathfinder-RPG.Démagogue (barde)</link><link>Pathfinder-RPG.Derviche (barde)</link><link>Pathfinder-RPG.Détective (barde)</link><link>Pathfinder-RPG.Duelliste des arcanes (barde)</link><link>Pathfinder-RPG.Frappeson (barde)</link><link>Pathfinder-RPG.Geisha (barde)</link><link>Pathfinder-RPG.Marchand de sable (barde)</link><link>Pathfinder-RPG.Orateur animal (barde)</link><link>Pathfinder-RPG.Prestidigitateur (barde)</link><link>Pathfinder-RPG.Scalde sauvage (barde)</link><link>Pathfinder-RPG.Soignechant (barde)</link><link>Pathfinder-RPG.Barde</link><link>Pathfinder-RPG.Acrobaties</link><link>Pathfinder-RPG.Art de la magie</link><link>Pathfinder-RPG.Artisanat</link><link>Pathfinder-RPG.Bluff</link><link>Pathfinder-RPG.Connaissances</link><link>Pathfinder-RPG.Déguisement</link><link>Pathfinder-RPG.Diplomatie</link><link>Pathfinder-RPG.Discrétion</link><link>Pathfinder-RPG.Escalade</link><link>Pathfinder-RPG.Escamotage</link><link>Pathfinder-RPG.Estimation</link><link>Pathfinder-RPG.Évasion</link><link>Pathfinder-RPG.Intimidation</link><link>Pathfinder-RPG.Linguistique</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Profession</link><link>Pathfinder-RPG.Psychologie</link><link>Pathfinder-RPG.Représentation</link><link>Pathfinder-RPG.Utilisation dObjets Magiques</link><link>Pathfinder-RPG.Intelligence</link><link>Pathfinder-RPG.arme courante</link><link>Pathfinder-RPG.armure légère</link><link>Pathfinder-RPG.échec des sorts</link><link>Pathfinder-RPG.armure intermédiaire</link><link>Pathfinder-RPG.armure lourde</link><link>Pathfinder-RPG.multiclassé</link><link>Pathfinder-RPG.Charisme</link><link>Pathfinder-RPG.DD</link><link>Pathfinder-RPG.jet de sauvegarde</link><link>Pathfinder-RPG.Niveau de sort</link><link>Pathfinder-RPG.Caractéristiques</link><link>Pathfinder-RPG.Action simple</link><link>Pathfinder-RPG.Action libre</link><link>Pathfinder-RPG.Paralysé</link><link>Pathfinder-RPG.Étourdi</link><link>Pathfinder-RPG.Inconscient</link><link>Pathfinder-RPG.Action de mouvement</link><link>Pathfinder-RPG.Action rapide</link><link>Pathfinder-RPG.Assourdi</link><link>Pathfinder-RPG.Aveuglé</link><link>Pathfinder-RPG.emplacement de sort</link><link>Pathfinder-RPG.Tableau récapitulatif des compétences</link><link>Pathfinder-RPG.Vol</link><link>Pathfinder-RPG.Dressage</link><link>Pathfinder-RPG.Compétences</link><link>Pathfinder-RPG.test de compétence</link></outLinks>
+  <body><![CDATA[
+&lt;div class=&quot;fright&quot;&gt;
+&lt;b&gt;&lt;i&gt;Voir aussi les &lt;a class=&quot;pagelink&quot; href=&quot;Repr&#233;sentations.html&quot; title=&quot;Les repr&#233;sentations de barde&quot;&gt;repr&#233;sentations&lt;/a&gt; de bardes.&lt;/i&gt;&lt;/b&gt;&lt;br/&gt;
+&lt;b&gt;&lt;i&gt;Voir aussi les &lt;a class=&quot;pagelink&quot; href=&quot;Chefs-Doeuvre.html&quot; title=&quot;Chefs d&amp;#39;oeuvre&quot;&gt;Chefs d&#39;oeuvre&lt;/a&gt;&lt;/i&gt;&lt;/b&gt;&lt;br/&gt;
+&lt;b&gt;&lt;i&gt;Voir aussi la &lt;a class=&quot;pagelink&quot; href=&quot;Liste-Des-Sorts-De-Bardes.html&quot; title=&quot;Liste des sorts de bardes&quot;&gt;liste des sorts de bardes&lt;/a&gt;.&lt;/i&gt;&lt;/b&gt;&lt;br/&gt;
+&lt;b&gt;Voir les arch&#233;types du barde&lt;/b&gt;&amp;emsp;
+&lt;ul ID=&quot;barde&quot; CLASS=&quot;listecach&#233;e cadrebas&quot;&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Arch&#233;ologue-(Barde).html&quot; title=&quot;Arch&#233;ologue&quot;&gt;Arch&#233;ologue&lt;/a&gt; (UC)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Archiviste-(Barde).html&quot; title=&quot;Archiviste&quot;&gt;Archiviste&lt;/a&gt; (APG)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Artiste-Des-Rues-(Barde).html&quot; title=&quot;Artiste des rues&quot;&gt;Artiste des rues&lt;/a&gt; (APG)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Barde-De-Cour-(Barde).html&quot; title=&quot;Barde de cour&quot;&gt;Barde de cour&lt;/a&gt; (APG)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Barde-Fun&#232;bre-(Barde).html&quot; title=&quot;Barde fun&#232;bre&quot;&gt;Barde fun&#232;bre&lt;/a&gt; (UM)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Casse-Cou-(Barde).html&quot; title=&quot;Casse-cou&quot;&gt;Casse cou&lt;/a&gt; (UC)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;C&#233;l&#233;brit&#233;-(Barde).html&quot; title=&quot;C&#233;l&#233;brit&#233;&quot;&gt;C&#233;l&#233;brit&#233;&lt;/a&gt; (UM)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Chantemer-(Barde).html&quot; title=&quot;Chantemer&quot;&gt;Chantemer&lt;/a&gt; (APG)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;D&#233;magogue-(Barde).html&quot; title=&quot;D&#233;magogue&quot;&gt;D&#233;magogue&lt;/a&gt; (UM)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Derviche-(Barde).html&quot; title=&quot;Derviche&quot;&gt;Derviche&lt;/a&gt; (UC)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;D&#233;tective-(Barde).html&quot; title=&quot;D&#233;tective&quot;&gt;D&#233;tective&lt;/a&gt; (APG)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Duelliste-Des-Arcanes-(Barde).html&quot; title=&quot;Duelliste des arcanes&quot;&gt;Duelliste des arcanes&lt;/a&gt; (APG)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Frappeson-(Barde).html&quot; title=&quot;Frappeson&quot;&gt;Frappeson&lt;/a&gt; (UM)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Geisha-(Barde).html&quot; title=&quot;Geisha&quot;&gt;Geisha&lt;/a&gt; (UM)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Marchand-De-Sable-(Barde).html&quot; title=&quot;Le marchand de sable&quot;&gt;Marchand de sable&lt;/a&gt; (APG)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Orateur-Animal-(Barde).html&quot; title=&quot;Orateur animal&quot;&gt;Orateur animal&lt;/a&gt; (UM)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Prestidigitateur-(Barde).html&quot; title=&quot;Prestidigitateur&quot;&gt;Prestidigitateur&lt;/a&gt; (APG)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Scalde-Sauvage-(Barde).html&quot; title=&quot;Scalde sauvage&quot;&gt;Scalde sauvage&lt;/a&gt; (APG)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Soignechant-(Barde).html&quot; title=&quot;Soignechant&quot;&gt;Soignechant&lt;/a&gt; (UM)&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;i&gt;Pour ceux qui sont capables de les d&#233;couvrir, le monde contient des merveilles insoup&#231;onn&#233;es et de nombreux myst&#232;res. C’est gr&#226;ce &#224; leur intelligence, leur habilet&#233; et leur magie que quelques individus rus&#233;s percent les secrets du monde tout en se formant aux arts de la persuasion, de la manipulation et de l’inspiration. Ces bardes, qui ma&#238;trisent g&#233;n&#233;ralement une ou plusieurs formes d’expression artistique, poss&#232;dent des connaissances &#233;tonnamment vari&#233;es et utilisent ce qu’ils apprennent pour se pr&#233;parer aux dangers qui les menacent, eux et leurs alli&#233;s. Vifs d’esprit et passionnants, les bardes poss&#232;dent des comp&#233;tences diversifi&#233;es qui peuvent les mener vers de nombreuses carri&#232;res : joueurs professionnels, touche-&#224;-tout, &#233;rudits ou artistes, chefs charismatiques ou brigands, ou bien encore tout cela &#224; la fois. Pour les bardes, chaque jour apporte son lot d’opportunit&#233;s, d’aventures et de d&#233;fis dont il n’est possible de tirer avantage qu’en prenant des risques, en &#233;largissant ses connaissances et en se donnant &#224; cent pour cent.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;&lt;a name=&quot;TABLEBARDE&quot;&gt;&lt;/a&gt;
+&lt;center&gt;
+&lt;table CLASS=&quot;tablo&quot;&gt;&lt;caption&gt;Le barde&lt;/caption&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td ROWSPAN=&quot;2&quot;&gt;Niveau&lt;/td&gt;&lt;td ROWSPAN=&quot;2&quot;&gt;BBA&lt;/td&gt;&lt;td ROWSPAN=&quot;2&quot;&gt;R&#233;flexes&lt;/td&gt;&lt;td ROWSPAN=&quot;2&quot;&gt;Vigueur&lt;/td&gt;&lt;td ROWSPAN=&quot;2&quot;&gt;Volont&#233;&lt;/td&gt;&lt;td ROWSPAN=&quot;2&quot;&gt;Sp&#233;cial&lt;/td&gt;&lt;td COLSPAN=&quot;6&quot; CLASS=&quot;avecsoustitre&quot;&gt;Sorts par jour&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;soustitre&quot;&gt;&lt;td&gt;1er&lt;/td&gt;&lt;td&gt;2e&lt;/td&gt;&lt;td&gt;3e&lt;/td&gt;&lt;td&gt;4e&lt;/td&gt;&lt;td&gt;5e&lt;/td&gt;&lt;td&gt;6e&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier&quot;&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;+0&lt;/td&gt;&lt;td&gt;+2&lt;/td&gt;&lt;td&gt;+0&lt;/td&gt;&lt;td&gt;+2&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Barde.html#SAVOIRBARDIQUE&quot; title=&quot;Le barde&quot;&gt;savoir bardique&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Barde.html#REPRESENTATIONBARDIQUE&quot; title=&quot;Le barde&quot;&gt;repr&#233;sentation bardique&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Barde.html#TOURSDEMAGIE&quot; title=&quot;Le barde&quot;&gt;tours de magie&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Repr&#233;sentations.html#CONTRE-CHANT&quot; title=&quot;Les repr&#233;sentations de barde&quot;&gt;contre-chant&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Repr&#233;sentations.html#DISTRACTION&quot; title=&quot;Les repr&#233;sentations de barde&quot;&gt;distraction&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Repr&#233;sentations.html#FASCINATION&quot; title=&quot;Les repr&#233;sentations de barde&quot;&gt;fascination&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Repr&#233;sentations.html#INSPIRATIONVAILLANTE&quot; title=&quot;Les repr&#233;sentations de barde&quot;&gt;inspiration vaillante&lt;/a&gt; +1&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;+1&lt;/td&gt;&lt;td&gt;+3&lt;/td&gt;&lt;td&gt;+0&lt;/td&gt;&lt;td&gt;+3&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Barde.html#VERSATILITEARTISTIQUE&quot; title=&quot;Le barde&quot;&gt;versatilit&#233; artistique&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Barde.html#ERUDITION&quot; title=&quot;Le barde&quot;&gt;&#233;rudition&lt;/a&gt;&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;+2&lt;/td&gt;&lt;td&gt;+3&lt;/td&gt;&lt;td&gt;+1&lt;/td&gt;&lt;td&gt;+3&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Repr&#233;sentations.html#INSPIRATIONTALENTUEUSE&quot; title=&quot;Les repr&#233;sentations de barde&quot;&gt;inspiration talentueuse&lt;/a&gt; +2&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;+3&lt;/td&gt;&lt;td&gt;+4&lt;/td&gt;&lt;td&gt;+1&lt;/td&gt;&lt;td&gt;+4&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;+3&lt;/td&gt;&lt;td&gt;+4&lt;/td&gt;&lt;td&gt;+1&lt;/td&gt;&lt;td&gt;+4&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Repr&#233;sentations.html#INSPIRATIONVAILLANTE&quot; title=&quot;Les repr&#233;sentations de barde&quot;&gt;inspiration vaillante&lt;/a&gt; +2, &lt;a class=&quot;pagelink&quot; href=&quot;Barde.html#MAITREDUSAVOIR&quot; title=&quot;Le barde&quot;&gt;ma&#238;tre du savoir&lt;/a&gt; 1/jour&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;+4&lt;/td&gt;&lt;td&gt;+5&lt;/td&gt;&lt;td&gt;+2&lt;/td&gt;&lt;td&gt;+5&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Repr&#233;sentations.html#SUGGESTION&quot; title=&quot;Les repr&#233;sentations de barde&quot;&gt;suggestion&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Barde.html#VERSATILITEARTISTIQUE&quot; title=&quot;Le barde&quot;&gt;versatilit&#233; artistique&lt;/a&gt;&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;7&lt;/td&gt;&lt;td&gt;+5&lt;/td&gt;&lt;td&gt;+5&lt;/td&gt;&lt;td&gt;+2&lt;/td&gt;&lt;td&gt;+5&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Repr&#233;sentations.html#INSPIRATIONTALENTUEUSE&quot; title=&quot;Les repr&#233;sentations de barde&quot;&gt;inspiration talentueuse&lt;/a&gt; +3&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;8&lt;/td&gt;&lt;td&gt;+6/+1&lt;/td&gt;&lt;td&gt;+6&lt;/td&gt;&lt;td&gt;+2&lt;/td&gt;&lt;td&gt;+6&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Repr&#233;sentations.html#CHANTFUNESTE&quot; title=&quot;Les repr&#233;sentations de barde&quot;&gt;chant funeste&lt;/a&gt;&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;9&lt;/td&gt;&lt;td&gt;+6/+1&lt;/td&gt;&lt;td&gt;+6&lt;/td&gt;&lt;td&gt;+3&lt;/td&gt;&lt;td&gt;+6&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Repr&#233;sentations.html#INSPIRATIONGLORIEUSE&quot; title=&quot;Les repr&#233;sentations de barde&quot;&gt;inspiration glorieuse&lt;/a&gt;&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;+7/+2&lt;/td&gt;&lt;td&gt;+7&lt;/td&gt;&lt;td&gt;+3&lt;/td&gt;&lt;td&gt;+7&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Barde.html#TOUCHE-A-TOUT&quot; title=&quot;Le barde&quot;&gt;touche-&#224;-tout&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Barde.html#VERSATILITEARTISTIQUE&quot; title=&quot;Le barde&quot;&gt;versatilit&#233; artistique&lt;/a&gt;&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;11&lt;/td&gt;&lt;td&gt;+8/+3&lt;/td&gt;&lt;td&gt;+7&lt;/td&gt;&lt;td&gt;+3&lt;/td&gt;&lt;td&gt;+7&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Repr&#233;sentations.html#INSPIRATIONTALENTUEUSE&quot; title=&quot;Les repr&#233;sentations de barde&quot;&gt;inspiration talentueuse&lt;/a&gt; +4, &lt;a class=&quot;pagelink&quot; href=&quot;Repr&#233;sentations.html#INSPIRATIONVAILLANTE&quot; title=&quot;Les repr&#233;sentations de barde&quot;&gt;inspiration vaillante&lt;/a&gt; +3, &lt;a class=&quot;pagelink&quot; href=&quot;Barde.html#MAITREDUSAVOIR&quot; title=&quot;Le barde&quot;&gt;ma&#238;tre du savoir&lt;/a&gt; 2/jour&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;12&lt;/td&gt;&lt;td&gt;+9/+4&lt;/td&gt;&lt;td&gt;+8&lt;/td&gt;&lt;td&gt;+4&lt;/td&gt;&lt;td&gt;+8&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Repr&#233;sentations.html#REPRESENTATIONAPAISANTE&quot; title=&quot;Les repr&#233;sentations de barde&quot;&gt;repr&#233;sentation apaisante&lt;/a&gt;&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;13&lt;/td&gt;&lt;td&gt;+9/+4&lt;/td&gt;&lt;td&gt;+8&lt;/td&gt;&lt;td&gt;+4&lt;/td&gt;&lt;td&gt;+8&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;14&lt;/td&gt;&lt;td&gt;+10/+5&lt;/td&gt;&lt;td&gt;+9&lt;/td&gt;&lt;td&gt;+4&lt;/td&gt;&lt;td&gt;+9&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Repr&#233;sentations.html#MELODIEEFFRAYANTE&quot; title=&quot;Les repr&#233;sentations de barde&quot;&gt;m&#233;lodie effrayante&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Barde.html#VERSATILITEARTISTIQUE&quot; title=&quot;Le barde&quot;&gt;versatilit&#233; artistique&lt;/a&gt;&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;15&lt;/td&gt;&lt;td&gt;+11/+6/+1&lt;/td&gt;&lt;td&gt;+9&lt;/td&gt;&lt;td&gt;+5&lt;/td&gt;&lt;td&gt;+9&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Repr&#233;sentations.html#INSPIRATIONTALENTUEUSE&quot; title=&quot;Les repr&#233;sentations de barde&quot;&gt;inspiration talentueuse&lt;/a&gt; +5, &lt;a class=&quot;pagelink&quot; href=&quot;Repr&#233;sentations.html#INSPIRATIONHEROIQUE&quot; title=&quot;Les repr&#233;sentations de barde&quot;&gt;inspiration h&#233;ro&#239;que&lt;/a&gt;&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;16&lt;/td&gt;&lt;td&gt;+12/+7/+2&lt;/td&gt;&lt;td&gt;+10&lt;/td&gt;&lt;td&gt;+5&lt;/td&gt;&lt;td&gt;+10&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;17&lt;/td&gt;&lt;td&gt;+12/+7/+2&lt;/td&gt;&lt;td&gt;+10&lt;/td&gt;&lt;td&gt;+5&lt;/td&gt;&lt;td&gt;+10&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Repr&#233;sentations.html#INSPIRATIONVAILLANTE&quot; title=&quot;Les repr&#233;sentations de barde&quot;&gt;inspiration vaillante&lt;/a&gt; +4, &lt;a class=&quot;pagelink&quot; href=&quot;Barde.html#MAITREDUSAVOIR&quot; title=&quot;Le barde&quot;&gt;ma&#238;tre du savoir&lt;/a&gt; 3/jour&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;18&lt;/td&gt;&lt;td&gt;+13/+8/+3&lt;/td&gt;&lt;td&gt;+11&lt;/td&gt;&lt;td&gt;+6&lt;/td&gt;&lt;td&gt;+11&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Repr&#233;sentations.html#SUGGESTIONDEGROUPE&quot; title=&quot;Les repr&#233;sentations de barde&quot;&gt;suggestion de groupe&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Barde.html#VERSATILITEARTISTIQUE&quot; title=&quot;Le barde&quot;&gt;versatilit&#233; artistique&lt;/a&gt;&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;19&lt;/td&gt;&lt;td&gt;+14/+9/+4&lt;/td&gt;&lt;td&gt;+11&lt;/td&gt;&lt;td&gt;+6&lt;/td&gt;&lt;td&gt;+11&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Repr&#233;sentations.html#INSPIRATIONTALENTUEUSE&quot; title=&quot;Les repr&#233;sentations de barde&quot;&gt;inspiration talentueuse&lt;/a&gt; +6&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;20&lt;/td&gt;&lt;td&gt;+15/+10/+5&lt;/td&gt;&lt;td&gt;+12&lt;/td&gt;&lt;td&gt;+6&lt;/td&gt;&lt;td&gt;+12&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Repr&#233;sentations.html#REPRESENTATIONMORTELLE&quot; title=&quot;Les repr&#233;sentations de barde&quot;&gt;repr&#233;sentation mortelle&lt;/a&gt;&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/center&gt;&lt;br /&gt;&lt;br /&gt;&lt;div style=&quot;float:right; background-color: #fff; padding: 0 0 16px 16px&quot;&gt;
+&lt;div style=&quot;border: 1px solid #4b3124; padding: 4px&quot;&gt;
+&lt;a name=&quot;TABLESORTSCONNUSBARDE&quot;&gt;&lt;/a&gt;
+&lt;center&gt;
+&lt;table CLASS=&quot;tablo&quot;&gt;&lt;caption&gt;Sorts connus par le barde&lt;/caption&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td ROWSPAN=&quot;2&quot;&gt;Niveau&lt;/td&gt;&lt;td COLSPAN=&quot;7&quot; CLASS=&quot;avecsoustitre&quot;&gt;Sorts connus&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;soustitre&quot;&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;1er&lt;/td&gt;&lt;td&gt;2e&lt;/td&gt;&lt;td&gt;3e&lt;/td&gt;&lt;td&gt;4e&lt;/td&gt;&lt;td&gt;5e&lt;/td&gt;&lt;td&gt;6e&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier&quot;&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;7&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;8&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;9&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;11&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;12&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;13&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;14&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;15&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;16&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;17&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;18&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;19&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;20&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/center&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;b&gt;R&#244;le.&lt;/b&gt; Les bardes excellent dans l’art de troubler et de d&#233;stabiliser leurs ennemis tout en encourageant leurs amis &#224; toujours se d&#233;passer. Ils savent manier &#224; la fois les armes et la magie, mais leur v&#233;ritable force r&#233;side en-dehors de la m&#234;l&#233;e, o&#249; ils peuvent aider leurs compagnons et nuire &#224; leurs ennemis sans craindre de voir leurs performances interrompues.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Alignement.&lt;/b&gt; Au choix.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;D&#233;s de vie.&lt;/b&gt; d8.&lt;br /&gt;&lt;br /&gt;&lt;h2 class=&quot;separator&quot;&gt;Comp&#233;tences de classe&lt;a class=&quot;headeranchor&quot; id=&quot;Comp&#233;tences_de_classe_9&quot; href=&quot;#Comp&#233;tences_de_classe_9&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;Les comp&#233;tences de classe du barde sont les suivantes : &lt;a class=&quot;pagelink&quot; href=&quot;Acrobaties.html&quot; title=&quot;Acrobaties&quot;&gt;Acrobaties&lt;/a&gt; (Dex), &lt;a class=&quot;pagelink&quot; href=&quot;Art-De-La-Magie.html&quot; title=&quot;Art de la magie&quot;&gt;Art de la magie&lt;/a&gt; (Int), &lt;a class=&quot;pagelink&quot; href=&quot;Artisanat.html&quot; title=&quot;Artisanat&quot;&gt;Artisanat&lt;/a&gt; (Int), &lt;a class=&quot;pagelink&quot; href=&quot;Bluff.html&quot; title=&quot;Bluff&quot;&gt;Bluff&lt;/a&gt; (Cha), &lt;a class=&quot;pagelink&quot; href=&quot;Connaissances.html&quot; title=&quot;Connaissances&quot;&gt;Connaissances&lt;/a&gt; (tous les domaines) (Int), &lt;a class=&quot;pagelink&quot; href=&quot;D&#233;guisement.html&quot; title=&quot;D&#233;guisement&quot;&gt;D&#233;guisement&lt;/a&gt; (Cha), &lt;a class=&quot;pagelink&quot; href=&quot;Diplomatie.html&quot; title=&quot;Diplomatie&quot;&gt;Diplomatie&lt;/a&gt; (Cha), &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; (Dex), &lt;a class=&quot;pagelink&quot; href=&quot;Escalade.html&quot; title=&quot;Escalade&quot;&gt;Escalade&lt;/a&gt; (For), &lt;a class=&quot;pagelink&quot; href=&quot;Escamotage.html&quot; title=&quot;Escamotage&quot;&gt;Escamotage&lt;/a&gt; (Dex), &lt;a class=&quot;pagelink&quot; href=&quot;Estimation.html&quot; title=&quot;Estimation&quot;&gt;Estimation&lt;/a&gt; (Int), &lt;a class=&quot;pagelink&quot; href=&quot;&#201;vasion.html&quot; title=&quot;&#201;vasion&quot;&gt;&#201;vasion&lt;/a&gt; (Dex), &lt;a class=&quot;pagelink&quot; href=&quot;Intimidation.html&quot; title=&quot;Intimidation&quot;&gt;Intimidation&lt;/a&gt; (Cha), &lt;a class=&quot;pagelink&quot; href=&quot;Linguistique.html&quot; title=&quot;Linguistique&quot;&gt;Linguistique&lt;/a&gt; (Int), &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; (Sag), &lt;a class=&quot;pagelink&quot; href=&quot;Profession.html&quot; title=&quot;Profession&quot;&gt;Profession&lt;/a&gt; (Sag), &lt;a class=&quot;pagelink&quot; href=&quot;Psychologie.html&quot; title=&quot;Psychologie&quot;&gt;Psychologie&lt;/a&gt; (Sag), &lt;a class=&quot;pagelink&quot; href=&quot;Repr&#233;sentation.html&quot; title=&quot;Repr&#233;sentation&quot;&gt;Repr&#233;sentation&lt;/a&gt; (Cha) et &lt;a class=&quot;pagelink&quot; href=&quot;Utilisation-Dobjets-Magiques.html&quot; title=&quot;Utilisation d&amp;#39;objets magiques&quot;&gt;Utilisation d’objets magiques&lt;/a&gt; (Cha).&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Points de comp&#233;tence par niveau.&lt;/b&gt; 6 + modificateur d’&lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#INTELLIGENCE&quot; title=&quot;L&amp;#39;Intelligence&quot;&gt;Intelligence&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;&lt;h2 class=&quot;separator&quot;&gt;Descriptif de la classe&lt;a class=&quot;headeranchor&quot; id=&quot;Descriptif_de_la_classe_10&quot; href=&quot;#Descriptif_de_la_classe_10&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;Les aptitudes du barde sont d&#233;crites ci-dessous.&lt;br /&gt;&lt;br /&gt;&lt;h3 class=&quot;separator&quot;&gt;Armes et armures&lt;a class=&quot;headeranchor&quot; id=&quot;Armes_et_armures_0&quot; href=&quot;#Armes_et_armures_0&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;
+Le barde est form&#233; au maniement de toutes les &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques-Des-Armes.html#ARMECOURANTE&quot; title=&quot;arme courante&quot;&gt;armes courantes&lt;/a&gt; ainsi que de l’arc court, l’&#233;p&#233;e courte, l’&#233;p&#233;e longue, la matraque, la rapi&#232;re, et du fouet. Il est &#233;galement form&#233; au port des &lt;a class=&quot;pagelink&quot; href=&quot;Tableau-R&#233;capitulatif-Des-Armures.html#LEGERES&quot; title=&quot;armure l&#233;g&#232;re&quot;&gt;armures l&#233;g&#232;res&lt;/a&gt; et &#224; l’utilisation des boucliers (&#224; l’exception des pavois). Il peut porter une &lt;a class=&quot;pagelink&quot; href=&quot;Tableau-R&#233;capitulatif-Des-Armures.html#LEGERES&quot; title=&quot;armure l&#233;g&#232;re&quot;&gt;armure l&#233;g&#232;re&lt;/a&gt; et utiliser un bouclier sans encourir de risque d’&lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques-Des-Armures.html#RISQUEECHECPROFANE&quot; title=&quot;&#233;chec des sorts&quot;&gt;&#233;chec des sorts&lt;/a&gt;. S’il porte une &lt;a class=&quot;pagelink&quot; href=&quot;Tableau-R&#233;capitulatif-Des-Armures.html#INTERMEDIAIRES&quot; title=&quot;armure interm&#233;diaire&quot;&gt;armure interm&#233;diaire&lt;/a&gt; ou &lt;a class=&quot;pagelink&quot; href=&quot;Tableau-R&#233;capitulatif-Des-Armures.html#LOURDES&quot; title=&quot;armure lourde&quot;&gt;lourde&lt;/a&gt;, le risque d’&lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques-Des-Armures.html#RISQUEECHECPROFANE&quot; title=&quot;&#233;chec des sorts&quot;&gt;&#233;chec des sorts&lt;/a&gt; s’applique normalement lorsque le sort lanc&#233; poss&#232;de une composante gestuelle (comme pour les autres lanceurs de sorts profanes). Ces particularit&#233;s ne concernent que les sorts de barde : les r&#232;gles normales s’appliquent dans le cas des sorts qu’un barde &lt;a class=&quot;pagelink&quot; href=&quot;Progression-Des-Personnages.html#MULTICLASSER&quot; title=&quot;multiclass&#233;&quot;&gt;multiclass&#233;&lt;/a&gt; re&#231;oit gr&#226;ce &#224; d’autres classes.&lt;br /&gt;&lt;br /&gt;&lt;h3 class=&quot;separator&quot;&gt;Sorts&lt;a class=&quot;headeranchor&quot; id=&quot;Sorts_1&quot; href=&quot;#Sorts_1&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;
+Un barde peut lancer des sorts profanes appartenant &#224; la &lt;a class=&quot;pagelink&quot; href=&quot;Liste-Des-Sorts-De-Bardes.html&quot; title=&quot;Liste des sorts de bardes&quot;&gt;liste des sorts de bardes&lt;/a&gt;. Il peut lancer les sorts qu’il conna&#238;t sans devoir les pr&#233;parer &#224; l’avance. Tous les sorts qu’un barde lance s’accompagnent d’une composante verbale (qui peut prendre la forme d’une chanson, d’un po&#232;me ou d’un air de musique). Pour apprendre ou lancer un sort, le barde doit avoir une valeur de &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#CHARISME&quot; title=&quot;Le Charisme&quot;&gt;Charisme&lt;/a&gt; d’au moins 10 + le niveau du sort. Le &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DEGREDEDIFFICULTE&quot; title=&quot;DD&quot;&gt;degr&#233; de difficult&#233;&lt;/a&gt; des &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;jet de sauvegarde&quot;&gt;jets de sauvegarde&lt;/a&gt; contre ses sorts vaut 10 + le &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#NIVEAU&quot; title=&quot;Niveau de sort&quot;&gt;niveau du sort&lt;/a&gt; + le modificateur de &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#CHARISME&quot; title=&quot;Le Charisme&quot;&gt;Charisme&lt;/a&gt; du barde.&lt;br /&gt;&lt;br /&gt;Comme les autres lanceurs de sorts, le barde ne peut lancer qu’un certain nombre de sorts de chaque niveau chaque jour. Son quota de sorts quotidiens est indiqu&#233; sur la Table &quot;&lt;a class=&quot;pagelink&quot; href=&quot;Barde.html#TABLEBARDE&quot; title=&quot;Le barde&quot;&gt;Le Barde&lt;/a&gt;&quot;. En plus de cela, il re&#231;oit des sorts en bonus chaque jour s’il poss&#232;de un &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#CHARISME&quot; title=&quot;Le Charisme&quot;&gt;Charisme&lt;/a&gt; &#233;lev&#233; (voir la Table &quot;&lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#TABLEAUCARACTERISTIQUES&quot; title=&quot;Les caract&#233;ristiques&quot;&gt;Modificateurs de caract&#233;ristique et sorts en bonus&lt;/a&gt;&quot;).&lt;br /&gt;&lt;br /&gt;Le barde poss&#232;de un r&#233;pertoire de sorts tr&#232;s limit&#233;. Il commence sa carri&#232;re en connaissant seulement quatre sorts du niveau 0 et deux sorts du 1&lt;sup&gt;er&lt;/sup&gt; niveau (il peut choisir ces sorts). Chaque fois qu’il gagne un niveau de barde, il re&#231;oit un ou plusieurs nouveaux sorts, comme indiqu&#233; sur la Table &quot;&lt;a class=&quot;pagelink&quot; href=&quot;Barde.html#TABLESORTSCONNUSBARDE&quot; title=&quot;Le barde&quot;&gt;Sorts connus par le barde&lt;/a&gt;&quot; (contrairement au quota de sorts quotidiens, le nombre de sorts connus par un barde n’est pas modifi&#233; par sa valeur de &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#CHARISME&quot; title=&quot;Le Charisme&quot;&gt;Charisme&lt;/a&gt; ; les chiffres de la Table &quot;&lt;a class=&quot;pagelink&quot; href=&quot;Barde.html#TABLESORTSCONNUSBARDE&quot; title=&quot;Le barde&quot;&gt;Sorts connus par le barde&lt;/a&gt;&quot; sont fixes).&lt;br /&gt;&lt;br /&gt;Lorsqu’il atteint le niveau 5, et tous les trois niveaux de barde suivants (aux niveaux 8, 11, etc.), le barde peut choisir d’apprendre un nouveau sort &#224; la place de l’un de ceux qu’il conna&#238;t d&#233;j&#224;. Le barde oublie alors un sort au profit d’un autre. Le niveau du nouveau sort doit &#234;tre identique &#224; celui du sort oubli&#233;, et il ne peut s’agir d’un sort appartenant au plus haut niveau de sorts accessible au barde. Un barde ne peut &#233;changer qu’un seul sort &#224; chaque fois, et doit choisir s’il proc&#232;de &#224; un &#233;change au moment o&#249; il apprend de nouveaux sorts lors du passage de niveau.&lt;br /&gt;&lt;br /&gt;Un barde n’a pas besoin de pr&#233;parer ses sorts &#224; l’avance. Il peut lancer n’importe quel sort de son r&#233;pertoire &#224; n’importe quel moment, pour autant qu’il n’ait pas &#233;puis&#233; son quota de sorts de ce niveau pour la journ&#233;e.&lt;br /&gt;&lt;br /&gt;&lt;a name=&quot;SAVOIRBARDIQUE&quot;&gt;&lt;/a&gt;
+&lt;h3 class=&quot;separator&quot;&gt;Savoir bardique (Ext)&lt;a class=&quot;headeranchor&quot; id=&quot;Savoir_bardique_Ext_2&quot; href=&quot;#Savoir_bardique_Ext_2&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;
+Un barde ajoute la moiti&#233; de son niveau de classe (au minimum 1) &#224; tous ses tests de &lt;a class=&quot;pagelink&quot; href=&quot;Connaissances.html&quot; title=&quot;Connaissances&quot;&gt;Connaissances&lt;/a&gt; et peut utiliser n’importe quelle comp&#233;tence de &lt;a class=&quot;pagelink&quot; href=&quot;Connaissances.html&quot; title=&quot;Connaissances&quot;&gt;Connaissances&lt;/a&gt;, m&#234;me s’il n’a pas investi de points de comp&#233;tence dans celle-ci.&lt;br /&gt;&lt;br /&gt;&lt;a name=&quot;REPRESENTATIONBARDIQUE&quot;&gt;&lt;/a&gt;
+&lt;h3 class=&quot;separator&quot;&gt;Repr&#233;sentation bardique&lt;a class=&quot;headeranchor&quot; id=&quot;Repr&#233;sentation_bardique_3&quot; href=&quot;#Repr&#233;sentation_bardique_3&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;
+Un barde peut utiliser la comp&#233;tence &lt;a class=&quot;pagelink&quot; href=&quot;Repr&#233;sentation.html&quot; title=&quot;Repr&#233;sentation&quot;&gt;Repr&#233;sentation&lt;/a&gt; pour cr&#233;er des effets magiques affectant ceux qui sont proches de lui, y compris lui-m&#234;me s’il le d&#233;sire. Chaque jour, il peut utiliser cette capacit&#233; pendant un nombre de rounds &#233;gal &#224; 4 + son modificateur de &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#CHARISME&quot; title=&quot;Le Charisme&quot;&gt;Charisme&lt;/a&gt;. Ce nombre augmente de +2 &#224; chaque niveau de barde apr&#232;s le premier. Au fil des niveaux, le barde apprend &#224; produire diff&#233;rents effets. Chaque round, il peut choisir celui qu’il d&#233;sire utiliser.&lt;br /&gt;&lt;br /&gt;Il faut utiliser une &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions.html#SIMPLE&quot; title=&quot;Action simple&quot;&gt;action simple&lt;/a&gt; pour activer un effet de repr&#233;sentation bardique mais, pour maintenir en place un effet d&#233;j&#224; activ&#233; un round de plus, une &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions.html#LIBRE&quot; title=&quot;Action libre&quot;&gt;action libre&lt;/a&gt; suffit. Pour passer &#224; un autre effet, le barde doit arr&#234;ter le pr&#233;c&#233;dent et utiliser une &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions.html#SIMPLE&quot; title=&quot;Action simple&quot;&gt;action simple&lt;/a&gt; pour activer le nouvel effet. Un adversaire ne peut interrompre une repr&#233;sentation bardique mais l’effet se termine imm&#233;diatement si le barde est tu&#233;, &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables.html#Paralys&#233;&quot; title=&quot;Paralys&#233;&quot;&gt;paralys&#233;&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables.html#&#201;tourdi&quot; title=&quot;&#201;tourdi&quot;&gt;&#233;tourdi&lt;/a&gt;, s’il tombe &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables.html#Inconscient&quot; title=&quot;Inconscient&quot;&gt;inconscient&lt;/a&gt; ou s’il lui est impossible, pour une raison ou pour une autre, de d&#233;vouer une &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions.html#LIBRE&quot; title=&quot;Action libre&quot;&gt;action libre&lt;/a&gt; chaque round pour le maintenir. Un barde ne peut appliquer qu’un seul effet de repr&#233;sentation bardique &#224; la fois.&lt;br /&gt;&lt;br /&gt;&#192; partir du niveau 7, le barde n’a besoin que d’une &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions.html#MOUVEMENT&quot; title=&quot;Action de mouvement&quot;&gt;action de mouvement&lt;/a&gt; pour activer un effet de repr&#233;sentation bardique. &#192; partir du niveau 13, une &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions.html#RAPIDE&quot; title=&quot;Action rapide&quot;&gt;action rapide&lt;/a&gt; suffit.&lt;br /&gt;&lt;br /&gt;Chaque repr&#233;sentation bardique poss&#232;de une composante sonore, une composante visuelle, ou les deux.&lt;br /&gt;&lt;br /&gt;Dans le cas de composantes sonores, les cibles doivent &#234;tre capables d’entendre le barde et, dans la plupart des cas (voir les descriptions individuelles pour plus de pr&#233;cision) de comprendre le langage utilis&#233; pour &#234;tre affect&#233;es par la repr&#233;sentation. Un barde &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables.html#Assourdi&quot; title=&quot;Assourdi&quot;&gt;sourd&lt;/a&gt; a 20% de chances d’&#233;chec lorsqu’il entreprend une repr&#233;sentation &#224; composante sonore. En cas d’&#233;chec, la tentative est quand m&#234;me d&#233;compt&#233;e de son quota journalier. Les cr&#233;atures &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables.html#Assourdi&quot; title=&quot;Assourdi&quot;&gt;sourdes&lt;/a&gt; ne peuvent pas &#234;tre affect&#233;es par une repr&#233;sentation bardique &#224; composante sonore.&lt;br /&gt;&lt;br /&gt;Dans le cas de composantes visuelles, les cibles doivent disposer d’une ligne de mire jusqu’au barde pour &#234;tre affect&#233;es par sa repr&#233;sentation. Un barde &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables.html#Aveugl&#233;&quot; title=&quot;Aveugl&#233;&quot;&gt;aveugle&lt;/a&gt; a 50% de chances d’&#233;chec lorsqu’il entreprend une repr&#233;sentation &#224; composante visuelle. En cas d’&#233;chec, la tentative est quand m&#234;me d&#233;compt&#233;e de son quota journalier. Les cr&#233;atures &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables.html#Aveugl&#233;&quot; title=&quot;Aveugl&#233;&quot;&gt;aveugles&lt;/a&gt; ne peuvent pas &#234;tre affect&#233;es par une repr&#233;sentation bardique &#224; composante visuelle.&lt;br /&gt;&lt;br /&gt;Voir la &lt;a class=&quot;pagelink&quot; href=&quot;Repr&#233;sentations.html&quot; title=&quot;Les repr&#233;sentations de barde&quot;&gt;liste des repr&#233;sentations bardiques&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;En remplacement de sa repr&#233;sentation bardique, le barde peut ex&#233;cuter, sous certaines conditions, un chef-d’œuvre lui permettant de r&#233;aliser un exploit incroyable. Voir la &lt;a class=&quot;pagelink&quot; href=&quot;Chefs-Doeuvre.html&quot; title=&quot;Chefs d&amp;#39;oeuvre&quot;&gt;description des chefs-d’œuvre&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;&lt;a name=&quot;TOURSDEMAGIE&quot;&gt;&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;h3 class=&quot;separator&quot;&gt;Tours de magie&lt;a class=&quot;headeranchor&quot; id=&quot;Tours_de_magie_4&quot; href=&quot;#Tours_de_magie_4&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;
+Les bardes apprennent un certain nombre de tours de magie (ou sorts de niveau 0) comme indiqu&#233; dans la Table &quot;&lt;a class=&quot;pagelink&quot; href=&quot;Barde.html#TABLESORTSCONNUSBARDE&quot; title=&quot;Le barde&quot;&gt;Sorts connus par le barde&lt;/a&gt;&quot;. Ces sorts sont lanc&#233;s de la m&#234;me mani&#232;re que les autres mais ils ne n&#233;cessitent aucun &lt;a class=&quot;pagelink&quot; href=&quot;Emplacement-De-Sort.html&quot; title=&quot;emplacement de sort&quot;&gt;emplacement de sorts&lt;/a&gt; et peuvent &#234;tre utilis&#233;s de mani&#232;re illimit&#233;e.&lt;br /&gt;&lt;br /&gt;&lt;a name=&quot;VERSATILITEARTISTIQUE&quot;&gt;&lt;/a&gt;
+&lt;h3 class=&quot;separator&quot;&gt;Versatilit&#233; artistique (Ext)&lt;a class=&quot;headeranchor&quot; id=&quot;Versatilit&#233;_artistique_Ext_5&quot; href=&quot;#Versatilit&#233;_artistique_Ext_5&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;
+Au niveau 2, un barde peut choisir une forme de la comp&#233;tence &lt;a class=&quot;pagelink&quot; href=&quot;Repr&#233;sentation.html&quot; title=&quot;Repr&#233;sentation&quot;&gt;Repr&#233;sentation&lt;/a&gt; et utiliser le modificateur correspondant &#224; la place des modificateurs de certaines comp&#233;tences auxquelles elles sont associ&#233;es. Lorsque le barde choisit de faire cette substitution, il utilise son bonus total pour la comp&#233;tence de &lt;a class=&quot;pagelink&quot; href=&quot;Repr&#233;sentation.html&quot; title=&quot;Repr&#233;sentation&quot;&gt;Repr&#233;sentation&lt;/a&gt; (y compris son bonus de &lt;a class=&quot;pagelink&quot; href=&quot;Tableau-R&#233;capitulatif-Des-Comp&#233;tences.html&quot; title=&quot;Tableau r&#233;capitulatif des comp&#233;tences&quot;&gt;comp&#233;tence de classe&lt;/a&gt;) au lieu de son bonus dans la comp&#233;tence associ&#233;e et ce, qu’il ait investi des points de comp&#233;tence dans celle-ci ou non. Au niveau 6 et tous les quatre niveaux par la suite, le barde peut choisir une nouvelle forme de la comp&#233;tence Repr&#233;sentation qu’il pourra &#233;galement utiliser pour cette substitution.&lt;br /&gt;&lt;br /&gt;Les formes de Repr&#233;sentation et leurs comp&#233;tences associ&#233;es sont : chant (&lt;a class=&quot;pagelink&quot; href=&quot;Bluff.html&quot; title=&quot;Bluff&quot;&gt;Bluff&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Psychologie.html&quot; title=&quot;Psychologie&quot;&gt;Psychologie&lt;/a&gt;), danse (&lt;a class=&quot;pagelink&quot; href=&quot;Acrobaties.html&quot; title=&quot;Acrobaties&quot;&gt;Acrobaties&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Vol.html&quot; title=&quot;Vol&quot;&gt;Vol&lt;/a&gt;), d&#233;clamation (&lt;a class=&quot;pagelink&quot; href=&quot;Diplomatie.html&quot; title=&quot;Diplomatie&quot;&gt;Diplomatie&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Psychologie.html&quot; title=&quot;Psychologie&quot;&gt;Psychologie&lt;/a&gt;), farce (&lt;a class=&quot;pagelink&quot; href=&quot;Bluff.html&quot; title=&quot;Bluff&quot;&gt;Bluff&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Intimidation.html&quot; title=&quot;Intimidation&quot;&gt;Intimidation&lt;/a&gt;), instruments &#224; clavier (&lt;a class=&quot;pagelink&quot; href=&quot;Diplomatie.html&quot; title=&quot;Diplomatie&quot;&gt;Diplomatie&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Intimidation.html&quot; title=&quot;Intimidation&quot;&gt;Intimidation&lt;/a&gt;), instruments &#224; cordes (&lt;a class=&quot;pagelink&quot; href=&quot;Bluff.html&quot; title=&quot;Bluff&quot;&gt;Bluff&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Diplomatie.html&quot; title=&quot;Diplomatie&quot;&gt;Diplomatie&lt;/a&gt;), instruments &#224; vent (&lt;a class=&quot;pagelink&quot; href=&quot;Diplomatie.html&quot; title=&quot;Diplomatie&quot;&gt;Diplomatie&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Dressage.html&quot; title=&quot;Dressage&quot;&gt;Dressage&lt;/a&gt;), percussions (&lt;a class=&quot;pagelink&quot; href=&quot;Dressage.html&quot; title=&quot;Dressage&quot;&gt;Dressage&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Intimidation.html&quot; title=&quot;Intimidation&quot;&gt;Intimidation&lt;/a&gt;) et sc&#232;ne (&lt;a class=&quot;pagelink&quot; href=&quot;Bluff.html&quot; title=&quot;Bluff&quot;&gt;Bluff&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;D&#233;guisement.html&quot; title=&quot;D&#233;guisement&quot;&gt;D&#233;guisement&lt;/a&gt;).&lt;br /&gt;&lt;br /&gt;&lt;a name=&quot;ERUDITION&quot;&gt;&lt;/a&gt;
+&lt;h3 class=&quot;separator&quot;&gt;&#201;rudition (Ext)&lt;a class=&quot;headeranchor&quot; id=&quot;&#201;rudition_Ext_6&quot; href=&quot;#&#201;rudition_Ext_6&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;
+Au niveau 2, le barde acquiert une certaine r&#233;sistance aux repr&#233;sentations des autres bardes et aux effets de son en g&#233;n&#233;ral. Il gagne un bonus de +4 aux &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;jet de sauvegarde&quot;&gt;jets de sauvegarde&lt;/a&gt; contre les effets des repr&#233;sentations bardiques, les effets de son et les effets de langage.&lt;br /&gt;&lt;br /&gt;&lt;a name=&quot;MAITREDUSAVOIR&quot;&gt;&lt;/a&gt;
+&lt;h3 class=&quot;separator&quot;&gt;Ma&#238;tre du savoir (Ext)&lt;a class=&quot;headeranchor&quot; id=&quot;Ma&#238;tre_du_savoir_Ext_7&quot; href=&quot;#Ma&#238;tre_du_savoir_Ext_7&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;
+Au niveau 5, le barde devient un ma&#238;tre &#233;rudit et peut &#171; &lt;a class=&quot;pagelink&quot; href=&quot;Comp&#233;tences.html#FAIRE10&quot; title=&quot;Les comp&#233;tences&quot;&gt;faire 10&lt;/a&gt; &#187; chaque fois qu’il doit r&#233;aliser un &lt;a class=&quot;pagelink&quot; href=&quot;Comp&#233;tences.html#TESTSDECOMPETENCES&quot; title=&quot;test de comp&#233;tence&quot;&gt;test de comp&#233;tence&lt;/a&gt; relatif &#224; une cat&#233;gorie de &lt;a class=&quot;pagelink&quot; href=&quot;Connaissances.html&quot; title=&quot;Connaissances&quot;&gt;Connaissances&lt;/a&gt; dans laquelle il a investi des points de comp&#233;tence. Le barde n’est pas oblig&#233; de &#171; &lt;a class=&quot;pagelink&quot; href=&quot;Comp&#233;tences.html#FAIRE10&quot; title=&quot;Les comp&#233;tences&quot;&gt;faire 10&lt;/a&gt; &#187; et peut choisir de lancer le d&#233; normalement. De plus, une fois par jour, le barde peut &#171; &lt;a class=&quot;pagelink&quot; href=&quot;Comp&#233;tences.html#FAIRE10&quot; title=&quot;Les comp&#233;tences&quot;&gt;faire 20&lt;/a&gt; &#187; sur un test de &lt;a class=&quot;pagelink&quot; href=&quot;Connaissances.html&quot; title=&quot;Connaissances&quot;&gt;Connaissances&lt;/a&gt; en utilisant une &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions.html#SIMPLE&quot; title=&quot;Action simple&quot;&gt;action simple&lt;/a&gt;. Tous les six niveaux de barde apr&#232;s le niveau 5, il peut utiliser cette capacit&#233; une fois de plus chaque jour, jusqu’&#224; un maximum de trois utilisations quotidiennes au niveau 17.&lt;br /&gt;&lt;br /&gt;&lt;a name=&quot;TOUCHE-A-TOUT&quot;&gt;&lt;/a&gt;
+&lt;h3 class=&quot;separator&quot;&gt;Touche-&#224;-tout (Ext)&lt;a class=&quot;headeranchor&quot; id=&quot;Touche-&#224;-tout_Ext_8&quot; href=&quot;#Touche-&#224;-tout_Ext_8&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;
+Au niveau 10, le barde peut utiliser n’importe quelle &lt;a class=&quot;pagelink&quot; href=&quot;Tableau-R&#233;capitulatif-Des-Comp&#233;tences.html&quot; title=&quot;Tableau r&#233;capitulatif des comp&#233;tences&quot;&gt;comp&#233;tence&lt;/a&gt;, m&#234;me celles qui ne peuvent normalement pas &#234;tre utilis&#233;es sans formation. Au niveau 16, toutes les &lt;a class=&quot;pagelink&quot; href=&quot;Tableau-R&#233;capitulatif-Des-Comp&#233;tences.html&quot; title=&quot;Tableau r&#233;capitulatif des comp&#233;tences&quot;&gt;comp&#233;tences&lt;/a&gt; sont des comp&#233;tences de classe pour le barde. Au niveau 19, le barde peut choisir de &#171; &lt;a class=&quot;pagelink&quot; href=&quot;Comp&#233;tences.html#FAIRE10&quot; title=&quot;Les comp&#233;tences&quot;&gt;faire 10&lt;/a&gt; &#187; chaque fois qu’il doit r&#233;aliser un &lt;a class=&quot;pagelink&quot; href=&quot;Comp&#233;tences.html#TESTSDECOMPETENCES&quot; title=&quot;test de comp&#233;tence&quot;&gt;test de comp&#233;tence&lt;/a&gt; et ce quelle que soit la &lt;a class=&quot;pagelink&quot; href=&quot;Tableau-R&#233;capitulatif-Des-Comp&#233;tences.html&quot; title=&quot;Tableau r&#233;capitulatif des comp&#233;tences&quot;&gt;comp&#233;tence&lt;/a&gt;, m&#234;me s’il s’agit d’une &lt;a class=&quot;pagelink&quot; href=&quot;Tableau-R&#233;capitulatif-Des-Comp&#233;tences.html&quot; title=&quot;Tableau r&#233;capitulatif des comp&#233;tences&quot;&gt;comp&#233;tence&lt;/a&gt; qui n’autorise normalement pas cette possibilit&#233;.
+]]></body>
+  <raw><![CDATA[{s:MenuClasses}
+<div class="fright">
+'''''Voir aussi les [[représentations]] de bardes.'''''<br/>
+'''''Voir aussi les [[Chefs doeuvre|Chefs d'oeuvre]]'''''<br/>
+'''''Voir aussi la [[liste des sorts de bardes]].'''''<br/>
+{s:PM0|barde}'''Voir les archétypes du barde'''&emsp;
+<ul ID="barde" CLASS="listecachée cadrebas">
+  <li>[[Archéologue (barde)|Archéologue]] (UC)</li>
+  <li>[[Archiviste (barde)|Archiviste]] (APG)</li>
+  <li>[[Artiste des rues (barde)|Artiste des rues]] (APG)</li>
+  <li>[[Barde de cour (barde)|Barde de cour]] (APG)</li>
+  <li>[[Barde funèbre (barde)|Barde funèbre]] (UM)</li>
+  <li>[[Casse-cou (barde)|Casse cou]] (UC)</li>
+  <li>[[Célébrité (barde)|Célébrité]] (UM)</li>
+  <li>[[Chantemer (barde)|Chantemer]] (APG)</li>
+  <li>[[Démagogue (barde)|Démagogue]] (UM)</li>
+  <li>[[Derviche (barde)|Derviche]] (UC)</li>
+  <li>[[Détective (barde)|Détective]] (APG)</li>
+  <li>[[Duelliste des arcanes (barde)|Duelliste des arcanes]] (APG)</li>
+  <li>[[Frappeson (barde)|Frappeson]] (UM)</li>
+  <li>[[Geisha (barde)|Geisha]] (UM)</li>
+  <li>[[Marchand de sable (barde)|Marchand de sable]] (APG)</li>
+  <li>[[Orateur animal (barde)|Orateur animal]] (UM)</li>
+  <li>[[Prestidigitateur (barde)|Prestidigitateur]] (APG)</li>
+  <li>[[Scalde sauvage (barde)|Scalde sauvage]] (APG)</li>
+  <li>[[Soignechant (barde)|Soignechant]] (UM)</li>
+</ul></div>
+
+
+
+
+
+''Pour ceux qui sont capables de les découvrir, le monde contient des merveilles insoupçonnées et de nombreux mystères. C’est grâce à leur intelligence, leur habileté et leur magie que quelques individus rusés percent les secrets du monde tout en se formant aux arts de la persuasion, de la manipulation et de l’inspiration. Ces bardes, qui maîtrisent généralement une ou plusieurs formes d’expression artistique, possèdent des connaissances étonnamment variées et utilisent ce qu’ils apprennent pour se préparer aux dangers qui les menacent, eux et leurs alliés. Vifs d’esprit et passionnants, les bardes possèdent des compétences diversifiées qui peuvent les mener vers de nombreuses carrières : joueurs professionnels, touche-à-tout, érudits ou artistes, chefs charismatiques ou brigands, ou bien encore tout cela à la fois. Pour les bardes, chaque jour apporte son lot d’opportunités, d’aventures et de défis dont il n’est possible de tirer avantage qu’en prenant des risques, en élargissant ses connaissances et en se donnant à cent pour cent.''
+
+{s:Reference|TABLEBARDE}
+<center>
+{| CLASS="tablo"
+|+ Le barde
+|- CLASS="titre"
+| ROWSPAN="2" | Niveau
+| ROWSPAN="2" | BBA
+| ROWSPAN="2" | Réflexes
+| ROWSPAN="2" | Vigueur
+| ROWSPAN="2" | Volonté
+| ROWSPAN="2" | Spécial
+| COLSPAN="6" CLASS="avecsoustitre" | Sorts par jour
+|- CLASS="soustitre"
+| 1er
+| 2e
+| 3e
+| 4e
+| 5e
+| 6e
+|- CLASS="premier"
+| 1
+| +0
+| +2
+| +0
+| +2
+| CLASS="gauche" | [[barde#SAVOIRBARDIQUE|savoir bardique]], [[barde#REPRESENTATIONBARDIQUE|représentation bardique]], [[barde#TOURSDEMAGIE|tours de magie]], [[Représentations#CONTRE-CHANT|contre-chant]], [[Représentations#DISTRACTION|distraction]], [[Représentations#FASCINATION|fascination]], [[Représentations#INSPIRATIONVAILLANTE|inspiration vaillante]] +1
+| 1
+| -
+| -
+| -
+| -
+| -
+|- CLASS="alt"
+| 2
+| +1
+| +3
+| +0
+| +3
+| CLASS="gauche" | [[barde#VERSATILITEARTISTIQUE|versatilité artistique]], [[barde#ERUDITION|érudition]]
+| 2
+| -
+| -
+| -
+| -
+| -
+|-
+| 3
+| +2
+| +3
+| +1
+| +3
+| CLASS="gauche" | [[Représentations#INSPIRATIONTALENTUEUSE|inspiration talentueuse]] +2
+| 3
+| -
+| -
+| -
+| -
+| -
+|- CLASS="alt"
+| 4
+| +3
+| +4
+| +1
+| +4
+| CLASS="gauche" | &nbsp;
+| 3
+| 1
+| -
+| -
+| -
+| -
+|-
+| 5
+| +3
+| +4
+| +1
+| +4
+| CLASS="gauche" | [[Représentations#INSPIRATIONVAILLANTE|inspiration vaillante]] +2, [[barde#MAITREDUSAVOIR|maître du savoir]] 1/jour
+| 4
+| 2
+| -
+| -
+| -
+| -
+|- CLASS="alt"
+| 6
+| +4
+| +5
+| +2
+| +5
+| CLASS="gauche" | [[Représentations#SUGGESTION|suggestion]], [[barde#VERSATILITEARTISTIQUE|versatilité artistique]]
+| 4
+| 3
+| -
+| -
+| -
+| -
+|-
+| 7
+| +5
+| +5
+| +2
+| +5
+| CLASS="gauche" | [[Représentations#INSPIRATIONTALENTUEUSE|inspiration talentueuse]] +3
+| 4
+| 3
+| 1
+| -
+| -
+| -
+|- CLASS="alt"
+| 8
+| +6/+1
+| +6
+| +2
+| +6
+| CLASS="gauche" | [[Représentations#CHANTFUNESTE|chant funeste]]
+| 4
+| 4
+| 2
+| -
+| -
+| -
+|-
+| 9
+| +6/+1
+| +6
+| +3
+| +6
+| CLASS="gauche" | [[Représentations#INSPIRATIONGLORIEUSE|inspiration glorieuse]]
+| 5
+| 4
+| 3
+| -
+| -
+| -
+|- CLASS="alt"
+| 10
+| +7/+2
+| +7
+| +3
+| +7
+| CLASS="gauche" | [[barde#TOUCHE-A-TOUT|touche-à-tout]], [[barde#VERSATILITEARTISTIQUE|versatilité artistique]]
+| 5
+| 4
+| 3
+| 1
+| -
+| -
+|-
+| 11
+| +8/+3
+| +7
+| +3
+| +7
+| CLASS="gauche" | [[Représentations#INSPIRATIONTALENTUEUSE|inspiration talentueuse]] +4, [[Représentations#INSPIRATIONVAILLANTE|inspiration vaillante]] +3, [[barde#MAITREDUSAVOIR|maître du savoir]] 2/jour
+| 5
+| 4
+| 4
+| 2
+| -
+| -
+|- CLASS="alt"
+| 12
+| +9/+4
+| +8
+| +4
+| +8
+| CLASS="gauche" | [[Représentations#REPRESENTATIONAPAISANTE|représentation apaisante]]
+| 5
+| 5
+| 4
+| 3
+| -
+| -
+|-
+| 13
+| +9/+4
+| +8
+| +4
+| +8
+| CLASS="gauche" | &nbsp;
+| 5
+| 5
+| 4
+| 3
+| 1
+| -
+|- CLASS="alt"
+| 14
+| +10/+5
+| +9
+| +4
+| +9
+| CLASS="gauche" | [[Représentations#MELODIEEFFRAYANTE|mélodie effrayante]], [[barde#VERSATILITEARTISTIQUE|versatilité artistique]]
+| 5
+| 5
+| 4
+| 4
+| 2
+| -
+|-
+| 15
+| +11/+6/+1
+| +9
+| +5
+| +9
+| CLASS="gauche" | [[Représentations#INSPIRATIONTALENTUEUSE|inspiration talentueuse]] +5, [[Représentations#INSPIRATIONHEROIQUE|inspiration héroïque]]
+| 5
+| 5
+| 5
+| 4
+| 3
+| -
+|- CLASS="alt"
+| 16
+| +12/+7/+2
+| +10
+| +5
+| +10
+| CLASS="gauche" | &nbsp;
+| 5
+| 5
+| 5
+| 4
+| 3
+| 1
+|-
+| 17
+| +12/+7/+2
+| +10
+| +5
+| +10
+| CLASS="gauche" | [[Représentations#INSPIRATIONVAILLANTE|inspiration vaillante]] +4, [[barde#MAITREDUSAVOIR|maître du savoir]] 3/jour
+| 5
+| 5
+| 5
+| 4
+| 4
+| 2
+|- CLASS="alt"
+| 18
+| +13/+8/+3
+| +11
+| +6
+| +11
+| CLASS="gauche" | [[Représentations#SUGGESTIONDEGROUPE|suggestion de groupe]], [[barde#VERSATILITEARTISTIQUE|versatilité artistique]]
+| 5
+| 5
+| 5
+| 5
+| 4
+| 3
+|-
+| 19
+| +14/+9/+4
+| +11
+| +6
+| +11
+| CLASS="gauche" | [[Représentations#INSPIRATIONTALENTUEUSE|inspiration talentueuse]] +6
+| 5
+| 5
+| 5
+| 5
+| 5
+| 4
+|- CLASS="alt"
+| 20
+| +15/+10/+5
+| +12
+| +6
+| +12
+| CLASS="gauche" | [[Représentations#REPRESENTATIONMORTELLE|représentation mortelle]]
+| 5
+| 5
+| 5
+| 5
+| 5
+| 5
+|}
+</center>
+
+<div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
+<div style="border: 1px solid #4b3124; padding: 4px">
+{s:Reference|TABLESORTSCONNUSBARDE}
+<center>
+{| CLASS="tablo"
+|+ Sorts connus par le barde
+|- CLASS="titre"
+| ROWSPAN="2" | Niveau
+| COLSPAN="7" CLASS="avecsoustitre" | Sorts connus
+|- CLASS="soustitre"
+| 0
+| 1er
+| 2e
+| 3e
+| 4e
+| 5e
+| 6e
+|- CLASS="premier"
+| 1
+| 4
+| 2
+| -
+| -
+| -
+| -
+| -
+|- CLASS="alt"
+| 2
+| 5
+| 3
+| -
+| -
+| -
+| -
+| -
+|-
+| 3
+| 6
+| 4
+| -
+| -
+| -
+| -
+| -
+|- CLASS="alt"
+| 4
+| 6
+| 4
+| 2
+| -
+| -
+| -
+| -
+|-
+| 5
+| 6
+| 4
+| 3
+| -
+| -
+| -
+| -
+|- CLASS="alt"
+| 6
+| 6
+| 4
+| 4
+| -
+| -
+| -
+| -
+|-
+| 7
+| 6
+| 5
+| 4
+| 2
+| -
+| -
+| -
+|- CLASS="alt"
+| 8
+| 6
+| 5
+| 4
+| 3
+| -
+| -
+| -
+|-
+| 9
+| 6
+| 5
+| 4
+| 4
+| -
+| -
+| -
+|- CLASS="alt"
+| 10
+| 6
+| 5
+| 5
+| 4
+| 2
+| -
+| -
+|-
+| 11
+| 6
+| 6
+| 5
+| 4
+| 3
+| -
+| -
+|- CLASS="alt"
+| 12
+| 6
+| 6
+| 5
+| 4
+| 4
+| -
+| -
+|-
+| 13
+| 6
+| 6
+| 5
+| 5
+| 4
+| 2
+| -
+|- CLASS="alt"
+| 14
+| 6
+| 6
+| 6
+| 5
+| 4
+| 3
+| -
+|-
+| 15
+| 6
+| 6
+| 6
+| 5
+| 4
+| 4
+| -
+|- CLASS="alt"
+| 16
+| 6
+| 6
+| 6
+| 5
+| 5
+| 4
+| 2
+|-
+| 17
+| 6
+| 6
+| 6
+| 6
+| 5
+| 4
+| 3
+|- CLASS="alt"
+| 18
+| 6
+| 6
+| 6
+| 6
+| 5
+| 4
+| 4
+|-
+| 19
+| 6
+| 6
+| 6
+| 6
+| 5
+| 5
+| 4
+|- CLASS="alt"
+| 20
+| 6
+| 6
+| 6
+| 6
+| 6
+| 5
+| 5
+|}
+</center></div></div>
+'''Rôle.''' Les bardes excellent dans l’art de troubler et de déstabiliser leurs ennemis tout en encourageant leurs amis à toujours se dépasser. Ils savent manier à la fois les armes et la magie, mais leur véritable force réside en-dehors de la mêlée, où ils peuvent aider leurs compagnons et nuire à leurs ennemis sans craindre de voir leurs performances interrompues.
+
+'''Alignement.''' Au choix.
+
+'''Dés de vie.''' d8.
+
+===Compétences de classe===
+Les compétences de classe du barde sont les suivantes : [[Acrobaties]] (Dex), [[Art de la magie]] (Int), [[Artisanat]] (Int), [[Bluff]] (Cha), [[Connaissances]] (tous les domaines) (Int), [[Déguisement]] (Cha), [[Diplomatie]] (Cha), [[Discrétion]] (Dex), [[Escalade]] (For), [[Escamotage]] (Dex), [[Estimation]] (Int), [[Évasion]] (Dex), [[Intimidation]] (Cha), [[Linguistique]] (Int), [[Perception]] (Sag), [[Profession]] (Sag), [[Psychologie]] (Sag), [[Représentation]] (Cha) et [[Utilisation dobjets magiques|Utilisation d’objets magiques]] (Cha).
+
+'''Points de compétence par niveau.''' 6 + modificateur d’[[Intelligence]].
+
+===Descriptif de la classe===
+Les aptitudes du barde sont décrites ci-dessous.
+
+====Armes et armures====
+
+Le barde est formé au maniement de toutes les [[arme courante|armes courantes]] ainsi que de l’arc court, l’épée courte, l’épée longue, la matraque, la rapière, et du fouet. Il est également formé au port des [[armure légère|armures légères]] et à l’utilisation des boucliers (à l’exception des pavois). Il peut porter une [[armure légère]] et utiliser un bouclier sans encourir de risque d’[[échec des sorts]]. S’il porte une [[armure intermédiaire]] ou [[armure lourde|lourde]], le risque d’[[échec des sorts]] s’applique normalement lorsque le sort lancé possède une composante gestuelle (comme pour les autres lanceurs de sorts profanes). Ces particularités ne concernent que les sorts de barde : les règles normales s’appliquent dans le cas des sorts qu’un barde [[multiclassé]] reçoit grâce à d’autres classes.
+
+====Sorts====
+
+Un barde peut lancer des sorts profanes appartenant à la [[liste des sorts de bardes]]. Il peut lancer les sorts qu’il connaît sans devoir les préparer à l’avance. Tous les sorts qu’un barde lance s’accompagnent d’une composante verbale (qui peut prendre la forme d’une chanson, d’un poème ou d’un air de musique). Pour apprendre ou lancer un sort, le barde doit avoir une valeur de [[Charisme]] d’au moins 10 + le niveau du sort. Le [[DD|degré de difficulté]] des [[jet de sauvegarde|jets de sauvegarde]] contre ses sorts vaut 10 + le [[niveau de sort|niveau du sort]] + le modificateur de [[Charisme]] du barde.
+
+Comme les autres lanceurs de sorts, le barde ne peut lancer qu’un certain nombre de sorts de chaque niveau chaque jour. Son quota de sorts quotidiens est indiqué sur la Table "[[barde#TABLEBARDE|Le Barde]]". En plus de cela, il reçoit des sorts en bonus chaque jour s’il possède un [[Charisme]] élevé (voir la Table "[[Caractéristiques#TABLEAUCARACTERISTIQUES|Modificateurs de caractéristique et sorts en bonus]]").
+
+Le barde possède un répertoire de sorts très limité. Il commence sa carrière en connaissant seulement quatre sorts du niveau 0 et deux sorts du 1<sup>er</sup> niveau (il peut choisir ces sorts). Chaque fois qu’il gagne un niveau de barde, il reçoit un ou plusieurs nouveaux sorts, comme indiqué sur la Table "[[barde#TABLESORTSCONNUSBARDE|Sorts connus par le barde]]" (contrairement au quota de sorts quotidiens, le nombre de sorts connus par un barde n’est pas modifié par sa valeur de [[Charisme]] ; les chiffres de la Table "[[barde#TABLESORTSCONNUSBARDE|Sorts connus par le barde]]" sont fixes).
+
+Lorsqu’il atteint le niveau 5, et tous les trois niveaux de barde suivants (aux niveaux 8, 11, etc.), le barde peut choisir d’apprendre un nouveau sort à la place de l’un de ceux qu’il connaît déjà. Le barde oublie alors un sort au profit d’un autre. Le niveau du nouveau sort doit être identique à celui du sort oublié, et il ne peut s’agir d’un sort appartenant au plus haut niveau de sorts accessible au barde. Un barde ne peut échanger qu’un seul sort à chaque fois, et doit choisir s’il procède à un échange au moment où il apprend de nouveaux sorts lors du passage de niveau.
+
+Un barde n’a pas besoin de préparer ses sorts à l’avance. Il peut lancer n’importe quel sort de son répertoire à n’importe quel moment, pour autant qu’il n’ait pas épuisé son quota de sorts de ce niveau pour la journée.
+
+{s:Reference|SAVOIRBARDIQUE}
+====Savoir bardique (Ext)====
+
+Un barde ajoute la moitié de son niveau de classe (au minimum 1) à tous ses tests de [[Connaissances]] et peut utiliser n’importe quelle compétence de [[Connaissances]], même s’il n’a pas investi de points de compétence dans celle-ci.
+
+{s:Reference|REPRESENTATIONBARDIQUE}
+====Représentation bardique====
+{s:ImageDroite|Illustrations/PNJ/Lem.jpg|35%}
+Un barde peut utiliser la compétence [[Représentation]] pour créer des effets magiques affectant ceux qui sont proches de lui, y compris lui-même s’il le désire. Chaque jour, il peut utiliser cette capacité pendant un nombre de rounds égal à 4 + son modificateur de [[Charisme]]. Ce nombre augmente de +2 à chaque niveau de barde après le premier. Au fil des niveaux, le barde apprend à produire différents effets. Chaque round, il peut choisir celui qu’il désire utiliser.
+
+Il faut utiliser une [[action simple]] pour activer un effet de représentation bardique mais, pour maintenir en place un effet déjà activé un round de plus, une [[action libre]] suffit. Pour passer à un autre effet, le barde doit arrêter le précédent et utiliser une [[action simple]] pour activer le nouvel effet. Un adversaire ne peut interrompre une représentation bardique mais l’effet se termine immédiatement si le barde est tué, [[paralysé]], [[étourdi]], s’il tombe [[inconscient]] ou s’il lui est impossible, pour une raison ou pour une autre, de dévouer une [[action libre]] chaque round pour le maintenir. Un barde ne peut appliquer qu’un seul effet de représentation bardique à la fois.
+
+À partir du niveau 7, le barde n’a besoin que d’une [[action de mouvement]] pour activer un effet de représentation bardique. À partir du niveau 13, une [[action rapide]] suffit.
+
+Chaque représentation bardique possède une composante sonore, une composante visuelle, ou les deux.
+
+Dans le cas de composantes sonores, les cibles doivent être capables d’entendre le barde et, dans la plupart des cas (voir les descriptions individuelles pour plus de précision) de comprendre le langage utilisé pour être affectées par la représentation. Un barde [[assourdi|sourd]] a 20% de chances d’échec lorsqu’il entreprend une représentation à composante sonore. En cas d’échec, la tentative est quand même décomptée de son quota journalier. Les créatures [[assourdi|sourdes]] ne peuvent pas être affectées par une représentation bardique à composante sonore.
+
+Dans le cas de composantes visuelles, les cibles doivent disposer d’une ligne de mire jusqu’au barde pour être affectées par sa représentation. Un barde [[aveuglé|aveugle]] a 50% de chances d’échec lorsqu’il entreprend une représentation à composante visuelle. En cas d’échec, la tentative est quand même décomptée de son quota journalier. Les créatures [[aveuglé|aveugles]] ne peuvent pas être affectées par une représentation bardique à composante visuelle.
+
+Voir la [[Représentations|liste des représentations bardiques]].
+
+En remplacement de sa représentation bardique, le barde peut exécuter, sous certaines conditions, un chef-d’œuvre lui permettant de réaliser un exploit incroyable. Voir la [[Chefs doeuvre|description des chefs-d’œuvre]].
+
+{s:Reference|TOURSDEMAGIE}
+
+====Tours de magie====
+
+Les bardes apprennent un certain nombre de tours de magie (ou sorts de niveau 0) comme indiqué dans la Table "[[barde#TABLESORTSCONNUSBARDE|Sorts connus par le barde]]". Ces sorts sont lancés de la même manière que les autres mais ils ne nécessitent aucun [[emplacement de sort|emplacement de sorts]] et peuvent être utilisés de manière illimitée.
+
+{s:Reference|VERSATILITEARTISTIQUE}
+====Versatilité artistique (Ext)====
+
+Au niveau 2, un barde peut choisir une forme de la compétence [[Représentation]] et utiliser le modificateur correspondant à la place des modificateurs de certaines compétences auxquelles elles sont associées. Lorsque le barde choisit de faire cette substitution, il utilise son bonus total pour la compétence de [[Représentation]] (y compris son bonus de [[Tableau récapitulatif des compétences|compétence de classe]]) au lieu de son bonus dans la compétence associée et ce, qu’il ait investi des points de compétence dans celle-ci ou non. Au niveau 6 et tous les quatre niveaux par la suite, le barde peut choisir une nouvelle forme de la compétence Représentation qu’il pourra également utiliser pour cette substitution.
+
+Les formes de Représentation et leurs compétences associées sont : chant ([[Bluff]], [[Psychologie]]), danse ([[Acrobaties]], [[Vol]]), déclamation ([[Diplomatie]], [[Psychologie]]), farce ([[Bluff]], [[Intimidation]]), instruments à clavier ([[Diplomatie]], [[Intimidation]]), instruments à cordes ([[Bluff]], [[Diplomatie]]), instruments à vent ([[Diplomatie]], [[Dressage]]), percussions ([[Dressage]], [[Intimidation]]) et scène ([[Bluff]], [[Déguisement]]).
+
+{s:Reference|ERUDITION}
+====Érudition (Ext)====
+
+Au niveau 2, le barde acquiert une certaine résistance aux représentations des autres bardes et aux effets de son en général. Il gagne un bonus de +4 aux [[jet de sauvegarde|jets de sauvegarde]] contre les effets des représentations bardiques, les effets de son et les effets de langage.
+
+{s:Reference|MAITREDUSAVOIR}
+====Maître du savoir (Ext)====
+
+Au niveau 5, le barde devient un maître érudit et peut « [[Compétences#FAIRE10|faire 10]] » chaque fois qu’il doit réaliser un [[test de compétence]] relatif à une catégorie de [[Connaissances]] dans laquelle il a investi des points de compétence. Le barde n’est pas obligé de « [[Compétences#FAIRE10|faire 10]] » et peut choisir de lancer le dé normalement. De plus, une fois par jour, le barde peut « [[Compétences#FAIRE10|faire 20]] » sur un test de [[Connaissances]] en utilisant une [[action simple]]. Tous les six niveaux de barde après le niveau 5, il peut utiliser cette capacité une fois de plus chaque jour, jusqu’à un maximum de trois utilisations quotidiennes au niveau 17.
+
+{s:Reference|TOUCHE-A-TOUT}
+====Touche-à-tout (Ext)====
+
+Au niveau 10, le barde peut utiliser n’importe quelle [[Tableau récapitulatif des compétences|compétence]], même celles qui ne peuvent normalement pas être utilisées sans formation. Au niveau 16, toutes les [[Tableau récapitulatif des compétences|compétences]] sont des compétences de classe pour le barde. Au niveau 19, le barde peut choisir de « [[Compétences#FAIRE10|faire 10]] » chaque fois qu’il doit réaliser un [[test de compétence]] et ce quelle que soit la [[Tableau récapitulatif des compétences|compétence]], même s’il s’agit d’une [[Tableau récapitulatif des compétences|compétence]] qui n’autorise normalement pas cette possibilité.]]></raw>
+  <fullName>Pathfinder-RPG.Barde</fullName>
+</wikiPage>

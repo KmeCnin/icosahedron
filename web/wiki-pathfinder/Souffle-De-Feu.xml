@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Souffle de feu</title>
+  <categories><category>Pathfinder-RPG.Advanced Player Guide</category><category>Pathfinder-RPG.Règles officielles</category><category>Pathfinder-RPG.Sort</category><category>Pathfinder-RPG.Sort alchimiste 2</category><category>Pathfinder-RPG.Sort magicien 2</category></categories>
+  <lastModified>2012-11-04 22:02:51Z</lastModified>
+  <version>1</version>
+  <inLinks><link>Pathfinder-RPG.AdM-sorts-classe-temporaire</link><link>Pathfinder-RPG.Glossaire des sorts</link><link>Pathfinder-RPG.Grimoires</link><link>Pathfinder-RPG.Liste des formules dalchimiste</link><link>Pathfinder-RPG.Liste des sorts (fin)</link><link>Pathfinder-RPG.Liste des sorts de magus</link><link>Pathfinder-RPG.Liste des sorts délémentaliste</link><link>Pathfinder-RPG.Liste des sorts délémentaliste temporaire</link><link>Pathfinder-RPG.Liste des sorts densorceleursmagiciens</link><link>Pathfinder-RPG.Liste des sorts par registre</link><link>Pathfinder-RPG.TMP sorts APG</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Évocation</link><link>Pathfinder-RPG.Registre</link><link>Pathfinder-RPG.Alchimiste</link><link>Pathfinder-RPG.Ensorceleur</link><link>Pathfinder-RPG.Magicien</link><link>Pathfinder-RPG.Action simple</link><link>Pathfinder-RPG.composantes</link><link>Pathfinder-RPG.rayonnement</link><link>Pathfinder-RPG.round</link><link>Pathfinder-RPG.niveau</link><link>Pathfinder-RPG.Réflexes</link><link>Pathfinder-RPG.Présentation des sorts</link></outLinks>
+  <body><![CDATA[
+&lt;b&gt;&#201;cole&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#EVOCATION&quot; title=&quot;&#201;vocation&quot;&gt;&#201;vocation&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;er-Un-Sort.html#REGISTRE&quot; title=&quot;Registre&quot;&gt;feu&lt;/a&gt;)&#160;; &lt;b&gt;Niveau&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Alchimiste.html&quot; title=&quot;L&amp;#39;alchimiste&quot;&gt;alchimiste&lt;/a&gt; 2, &lt;a class=&quot;pagelink&quot; href=&quot;Ensorceleur.html&quot; title=&quot;L&amp;#39;ensorceleur&quot;&gt;ensorceleur&lt;/a&gt;/&lt;a class=&quot;pagelink&quot; href=&quot;Magicien.html&quot; title=&quot;Le magicien&quot;&gt;magicien&lt;/a&gt; 2&lt;br/&gt;
+&lt;b&gt;Temps d&#39;incantation&lt;/b&gt; 1 &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions.html#SIMPLE&quot; title=&quot;Action simple&quot;&gt;action simple&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Composantes&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#COMPOSANTES&quot; title=&quot;composantes&quot;&gt;V, G, M&lt;/a&gt; (un piment)&lt;br/&gt;
+&lt;b&gt;Port&#233;e&lt;/b&gt; 4,50 m (3 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)&lt;br/&gt;
+&lt;b&gt;Cible&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#DEFRAYONNEMENT&quot; title=&quot;rayonnement&quot;&gt;rayonnement&lt;/a&gt; en forme de c&#244;ne&lt;br/&gt;
+&lt;b&gt;Dur&#233;e&lt;/b&gt; 1 &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#ROUND&quot; title=&quot;round&quot;&gt;round&lt;/a&gt;/&lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#NIVEAU&quot; title=&quot;niveau&quot;&gt;niveau&lt;/a&gt; ou jusqu&#39;&#224; d&#233;chargement&#160;; voir texte&lt;br/&gt;
+&lt;b&gt;Jet de sauvegarde&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;R&#233;flexes&quot;&gt;R&#233;flexes&lt;/a&gt; pour &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#JETSDESAUVEGARDE&quot; title=&quot;Pr&#233;sentation des sorts&quot;&gt;r&#233;duire de moiti&#233;&lt;/a&gt; ; &lt;b&gt;R&#233;sistance &#224; la magie&lt;/b&gt; oui&lt;br /&gt;&lt;br /&gt;Le personnage peut cracher un c&#244;ne de feu par une &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions.html#SIMPLE&quot; title=&quot;Action simple&quot;&gt;action simple&lt;/a&gt; jusqu&#39;&#224; trois fois pendant que ce sort fait effet. Le c&#244;ne inflige 4d6 points de d&#233;g&#226;ts de feu &#224; chaque cr&#233;ature qui se trouve dans la zone. Le deuxi&#232;me c&#244;ne n&#39;inflige que 2d6 points de d&#233;g&#226;ts et le troisi&#232;me 1d6 aux cr&#233;atures se trouvant dans la zone. Un jet de &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;R&#233;flexes&quot;&gt;R&#233;flexes&lt;/a&gt; permet de r&#233;duire ces d&#233;g&#226;ts de moiti&#233;. Le sort se termine au troisi&#232;me c&#244;ne de flammes.
+]]></body>
+  <raw><![CDATA[{s:APG}
+'''École''' [[Évocation]] ([[registre|feu]]) ; '''Niveau''' [[alchimiste]] 2, [[ensorceleur]]/[[magicien]] 2<br/>
+'''Temps d'incantation''' 1 [[action simple]]<br/>
+'''Composantes''' [[Composantes|V, G, M]] (un piment)<br/>
+'''Portée''' 4,50 m (3 {s:c})<br/>
+'''Cible''' [[rayonnement]] en forme de cône<br/>
+'''Durée''' 1 [[round]]/[[niveau]] ou jusqu'à déchargement ; voir texte<br/>
+'''Jet de sauvegarde''' [[Réflexes]] pour [[Présentation des sorts#JETSDESAUVEGARDE|réduire de moitié]] ; '''Résistance à la magie''' oui
+
+Le personnage peut cracher un cône de feu par une [[action simple]] jusqu'à trois fois pendant que ce sort fait effet. Le cône inflige 4d6 points de dégâts de feu à chaque créature qui se trouve dans la zone. Le deuxième cône n'inflige que 2d6 points de dégâts et le troisième 1d6 aux créatures se trouvant dans la zone. Un jet de [[Réflexes]] permet de réduire ces dégâts de moitié. Le sort se termine au troisième cône de flammes.
+]]></raw>
+  <fullName>Pathfinder-RPG.Souffle de feu</fullName>
+</wikiPage>

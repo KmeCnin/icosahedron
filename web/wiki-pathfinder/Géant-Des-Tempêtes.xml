@@ -1,0 +1,245 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Géant des tempêtes</title>
+  <categories><category>Pathfinder-RPG.Bestiaire</category><category>Pathfinder-RPG.Monstre</category><category>Pathfinder-RPG.Règles officielles</category></categories>
+  <lastModified>2013-02-07 21:45:41Z</lastModified>
+  <version>6</version>
+  <inLinks><link>Pathfinder-RPG.Armure en peau de géant</link><link>Pathfinder-RPG.Armures magiques</link><link>Pathfinder-RPG.Convocation dalliés naturels</link><link>Pathfinder-RPG.Glossaire des monstres</link><link>Pathfinder-RPG.Liste de monstres par FP</link><link>Pathfinder-RPG.Liste de monstres par milieu naturel</link><link>Pathfinder-RPG.Liste de monstres par type</link><link>Pathfinder-RPG.Monstres</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.type Humanoïde</link><link>Pathfinder-RPG.sous-type géant</link><link>Pathfinder-RPG.vision nocturne</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Réception de rochers</link><link>Pathfinder-RPG.Liberté de mouvement</link><link>Pathfinder-RPG.Contrôle du climat</link><link>Pathfinder-RPG.Lévitation</link><link>Pathfinder-RPG.Appel de la foudre</link><link>Pathfinder-RPG.Éclair multiple</link><link>Pathfinder-RPG.Attaque en puissance</link><link>Pathfinder-RPG.Attaques réflexes</link><link>Pathfinder-RPG.Coup fabuleux</link><link>Pathfinder-RPG.Enchaînement</link><link>Pathfinder-RPG.Frappe décisive</link><link>Pathfinder-RPG.Science de la bousculade</link><link>Pathfinder-RPG.Science de la destruction</link><link>Pathfinder-RPG.Science de la frappe décisive</link><link>Pathfinder-RPG.Science du critique</link><link>Pathfinder-RPG.Volonté de fer</link><link>Pathfinder-RPG.Acrobaties</link><link>Pathfinder-RPG.Artisanat</link><link>Pathfinder-RPG.Escalade</link><link>Pathfinder-RPG.Intimidation</link><link>Pathfinder-RPG.Natation</link><link>Pathfinder-RPG.Psychologie</link><link>Pathfinder-RPG.Représentation</link><link>Pathfinder-RPG.Ensorceleur</link><link>Pathfinder-RPG.Prêtre</link><link>Pathfinder-RPG.Roc</link><link>Pathfinder-RPG.Griffon</link><link>Pathfinder-RPG.Requin</link><link>Pathfinder-RPG.Force</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;G&#233;ant des temp&#234;tes&lt;div style=&quot;float:right;&quot;&gt;FP 13&lt;/div&gt;&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Bestiaire p.150&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 25.600
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Humano&#239;de.html&quot; title=&quot;Humano&#239;de&quot;&gt;Humano&#239;de&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-G&#233;ant.html&quot; title=&quot;G&#233;ant (sous-type)&quot;&gt;g&#233;ant&lt;/a&gt;) de taille TG, CB
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +2 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Nocturne-(Capacit&#233;).html&quot; title=&quot;vision nocturne&quot;&gt;vision nocturne&lt;/a&gt; ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +27
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 28, contact 10, pris au d&#233;pourvu 26 (armure +6, Dex +2, naturelle +12, taille -2)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 199 (19d8+114)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +8, &lt;b&gt;Vig&lt;/b&gt; +17, &lt;b&gt;Vol&lt;/b&gt; +13
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Capacit&#233;s d&#233;fensives&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;R&#233;ception-De-Rochers-(Capacit&#233;).html&quot; title=&quot;R&#233;ception de rochers&quot;&gt;r&#233;ception de rochers&lt;/a&gt; ; &lt;b&gt;Immunit&#233;s&lt;/b&gt; &#233;lectricit&#233; 
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 15 m (10 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), nage 12 m (8 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) (10,50 m (7 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), nage 9 m (6 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) en armure)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; &#233;p&#233;e &#224; deux mains de ma&#238;tre, +27/+22/+17 (4d6+21/17-20) ou 2 coups, +26 (2d6+14)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Distance&lt;/b&gt; arc long composite de ma&#238;tre, +15/+10/+5 (3d6+14/x3)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Espace&lt;/b&gt; 4,50 m (3 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) ; &lt;b&gt;Allonge&lt;/b&gt; 4,50 m (3 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Pouvoirs magiques&lt;/b&gt; (NLS 15&lt;sup&gt;e&lt;/sup&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+Constant — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Libert&#233;-De-Mouvement.html&quot; title=&quot;Libert&#233; de mouvement&quot;&gt;libert&#233; de mouvement&lt;/a&gt;&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+2/jour — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Contr&#244;le-Du-Climat.html&quot; title=&quot;Contr&#244;le du climat&quot;&gt;contr&#244;le du climat&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;L&#233;vitation.html&quot; title=&quot;L&#233;vitation&quot;&gt;l&#233;vitation&lt;/a&gt;&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+1/jour — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Appel-De-La-Foudre.html&quot; title=&quot;Appel de la foudre&quot;&gt;appel de la foudre&lt;/a&gt;&lt;/i&gt; (DD 15), &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;&#201;clair-Multiple.html&quot; title=&quot;&#201;clair multiple&quot;&gt;&#233;clair multiple&lt;/a&gt;&lt;/i&gt; (DD 18)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 39, &lt;b&gt;Dex&lt;/b&gt; 14, &lt;b&gt;Con&lt;/b&gt; 23, &lt;b&gt;Int&lt;/b&gt; 16, &lt;b&gt;Sag&lt;/b&gt; 20, &lt;b&gt;Cha&lt;/b&gt; 15
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +14, &lt;b&gt;BMO&lt;/b&gt; +30, &lt;b&gt;DMD&lt;/b&gt; 42
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Attaque-En-Puissance.html&quot; title=&quot;Attaque en puissance&quot;&gt;Attaque en puissance&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Attaques-R&#233;flexes.html&quot; title=&quot;Attaques r&#233;flexes&quot;&gt;Attaques r&#233;flexes&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Coup-Fabuleux.html&quot; title=&quot;Coup fabuleux&quot;&gt;Coup fabuleux&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Encha&#238;nement.html&quot; title=&quot;Encha&#238;nement&quot;&gt;Encha&#238;nement&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Frappe-D&#233;cisive.html&quot; title=&quot;Frappe d&#233;cisive&quot;&gt;Frappe d&#233;cisive&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Science-De-La-Bousculade.html&quot; title=&quot;Science de la bousculade&quot;&gt;Science de la bousculade&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Science-De-La-Destruction.html&quot; title=&quot;Science de la destruction&quot;&gt;Science de la destruction&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Science-De-La-Frappe-D&#233;cisive.html&quot; title=&quot;Science de la frappe d&#233;cisive&quot;&gt;Science de la frappe d&#233;cisive&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Science-Du-Critique.html&quot; title=&quot;Science du critique&quot;&gt;Science du critique&lt;/a&gt; (&#233;p&#233;e &#224; deux mains), &lt;a class=&quot;pagelink&quot; href=&quot;Volont&#233;-De-Fer.html&quot; title=&quot;Volont&#233; de fer&quot;&gt;Volont&#233; de fer&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Acrobaties.html&quot; title=&quot;Acrobaties&quot;&gt;Acrobaties&lt;/a&gt; +18, &lt;a class=&quot;pagelink&quot; href=&quot;Artisanat.html&quot; title=&quot;Artisanat&quot;&gt;Artisanat&lt;/a&gt; (un au choix) +13, &lt;a class=&quot;pagelink&quot; href=&quot;Escalade.html&quot; title=&quot;Escalade&quot;&gt;Escalade&lt;/a&gt; +17, &lt;a class=&quot;pagelink&quot; href=&quot;Intimidation.html&quot; title=&quot;Intimidation&quot;&gt;Intimidation&lt;/a&gt; +20, &lt;a class=&quot;pagelink&quot; href=&quot;Natation.html&quot; title=&quot;Natation&quot;&gt;Natation&lt;/a&gt; +22, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +27, &lt;a class=&quot;pagelink&quot; href=&quot;Psychologie.html&quot; title=&quot;Psychologie&quot;&gt;Psychologie&lt;/a&gt; +24, &lt;a class=&quot;pagelink&quot; href=&quot;Repr&#233;sentation.html&quot; title=&quot;Repr&#233;sentation&quot;&gt;Repr&#233;sentation&lt;/a&gt; (chant) +12
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Langues&lt;/b&gt; a&#233;rien, commun, draconique, g&#233;ant
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Particularit&#233;s&lt;/b&gt; pr&#233;paration martiale, respiration aquatique
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; climat chaud
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation sociale&lt;/b&gt; solitaire ou famille (2-5 plus 1 &lt;a class=&quot;pagelink&quot; href=&quot;Ensorceleur.html&quot; title=&quot;L&amp;#39;ensorceleur&quot;&gt;ensorceleur&lt;/a&gt; ou &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#234;tre.html&quot; title=&quot;Le pr&#234;tre&quot;&gt;pr&#234;tre&lt;/a&gt; de niveau 7-10, 1-2 &lt;a class=&quot;pagelink&quot; href=&quot;Roc.html&quot; title=&quot;Roc&quot;&gt;rocs&lt;/a&gt;, 2-6 &lt;a class=&quot;pagelink&quot; href=&quot;Griffon.html&quot; title=&quot;Griffon&quot;&gt;griffons&lt;/a&gt; et 2-8 &lt;a class=&quot;pagelink&quot; href=&quot;Requin.html&quot; title=&quot;Requin&quot;&gt;requins&lt;/a&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; standard (arc long composite de ma&#238;tre [&lt;b&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#FORCE&quot; title=&quot;La Force&quot;&gt;For&lt;/a&gt; +14&lt;/b&gt;] avec 20 fl&#232;ches, cuirasse de ma&#238;tre, &#233;p&#233;e &#224; deux mains de ma&#238;tre, autres tr&#233;sors)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Capacit&#233;s sp&#233;ciales&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Pr&#233;paration martiale (Ext).&lt;/b&gt; Les g&#233;ants des temp&#234;tes sont form&#233;s &#224; l&#39;utilisation de toutes les armes courantes et de toutes les armes de guerre.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Respiration aquatique (Ext).&lt;/b&gt; Les g&#233;ants de temp&#234;tes peuvent aussi bien respirer dans l&#39;eau que dans l&#39;air.
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;td&gt;&lt;div&gt;&lt;i&gt;Ce gigantesque humain muscl&#233; poss&#232;de une peau de bronze, des cheveux sombres et des yeux verts brillants.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Les g&#233;ants des temp&#234;tes ont g&#233;n&#233;ralement une peau bronz&#233;e mais
+quelques rares individus ont la peau violette, des cheveux violet
+fonc&#233; ou bleu fonc&#233;. Leurs yeux sont gris argent&#233; ou pourpres. Les
+g&#233;ants des temp&#234;tes consid&#232;rent ces teintes violettes comme un
+pr&#233;sage de bonne fortune et ceux qui naissent avec cette particularit&#233;
+deviennent souvent des dirigeants. Les adultes mesurent quelque
+6,30 m&#232;tres de hauteur et p&#232;sent 6 000 kg. Ils peuvent vivre jusqu’&#224;
+600 ans. &lt;br /&gt;&lt;br /&gt;Lorsqu’ils se reposent, ils pr&#233;f&#232;rent porter des tuniques
+courtes et amples maintenues par une ceinture, des sandales (ou
+aucune chaussure) et des bandeaux autour de la t&#234;te. Ils se parent de
+quelques rares bijoux plut&#244;t simples mais de belle facture, le plus
+souvent des cha&#238;nettes plac&#233;es autour des chevilles (les pr&#233;f&#233;r&#233;s de
+ceux qui se prom&#232;nent pieds nus), des anneaux et des serre-t&#234;tes.
+Mais, lorsqu’ils se pr&#233;parent &#224; la bataille, ils rev&#234;tent des plastrons
+&#233;tincelants et utilisent des &#233;p&#233;es &#224; deux mains et des arcs &#233;normes.&lt;br /&gt;&lt;br /&gt;Les g&#233;ants des temp&#234;tes se tiennent g&#233;n&#233;ralement &#224;
+l’&#233;cart du monde, pr&#233;f&#233;rant vivre sur des c&#244;tes ou des &#238;les
+tropicales isol&#233;es. Cependant, comme les
+&#233;v&#233;nements dont ils empruntent le
+nom, ils sont enclins &#224; de violentes
+sautes d’humeur. Les g&#233;ants des
+temp&#234;tes se mettent rapidement
+en col&#232;re lorsqu’ils sont confront&#233;s
+&#224; des cr&#233;atures mal&#233;fiques et
+peuvent se transformer en
+ennemis brutaux et dangereux
+lorsqu’on les insulte. &lt;br /&gt;&lt;br /&gt;Au combat,
+ils pr&#233;f&#232;rent faire pleuvoir des
+fl&#232;ches sur leurs ennemis : ils
+d&#233;gainent leurs &#233;p&#233;es &#224; deux mains
+seulement lorsque leurs ennemis
+sont trop proches pour que leurs arcs
+soient efficaces.&lt;br /&gt;&lt;br /&gt;Les g&#233;ants des temp&#234;tes habitent
+dans des tours, des ch&#226;teaux ou
+des communaut&#233;s fortifi&#233;es de
+belle architecture et pr&#233;f&#232;rent
+vivre des ressources de la terre. Ils
+entretiennent de beaux et &#233;normes
+jardins et chaque groupe de g&#233;ants
+cultive des centaines d’acres de
+terre fertile. &lt;br /&gt;&lt;br /&gt;Ils engagent souvent
+d’autres humano&#239;des, comme des
+elfes ou des humains, pour les aider
+&#224; faire tourner leurs gigantesques
+fermes. Il n’est pas rare qu’une enclave
+de g&#233;ants des temp&#234;tes s’auto-proclame
+protecteur d’une &#238;le toute enti&#232;re ou
+d’une r&#233;gion c&#244;ti&#232;re.
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Géant des tempêtes|FP 13}
+{s:pucem|Humanoïde|Aquatique|Tropical}
+{s:BDTexte|''Source : Bestiaire p.150''}
+{s:BDTexte|'''PX''' 25.600}
+{s:BDTexte|[[type Humanoïde|Humanoïde]] ([[sous-type géant|géant]]) de taille TG, CB}
+{s:BDTexte|'''Init''' +2 ; '''Sens''' [[vision nocturne]] ; [[Perception]] +27}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 28, contact 10, pris au dépourvu 26 (armure +6, Dex +2, naturelle +12, taille -2)}
+{s:BDTexte|'''pv''' 199 (19d8+114)}
+{s:BDTexte|'''Réf''' +8, '''Vig''' +17, '''Vol''' +13}
+{s:BDTexte|'''Capacités défensives''' [[réception de rochers]] ; '''Immunités''' électricité }
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 15 m (10 {s:c}), nage 12 m (8 {s:c}) (10,50 m (7 {s:c}), nage 9 m (6 {s:c}) en armure)}
+{s:BDTexte|'''Corps à corps''' épée à deux mains de maître, +27/+22/+17 (4d6+21/17-20) ou 2 coups, +26 (2d6+14)}
+{s:BDTexte|'''Distance''' arc long composite de maître, +15/+10/+5 (3d6+14/x3)}
+{s:BDTexte|'''Espace''' 4,50 m (3 {s:c}) ; '''Allonge''' 4,50 m (3 {s:c})}
+{s:BDTexte|'''Pouvoirs magiques''' (NLS 15<sup>e</sup>)}
+{s:BDSorts|Constant — ''[[liberté de mouvement]]''}
+{s:BDSorts|2/jour — ''[[contrôle du climat]]'', ''[[lévitation]]''}
+{s:BDSorts|1/jour — ''[[appel de la foudre]]'' (DD 15), ''[[éclair multiple]]'' (DD 18)}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 39, '''Dex''' 14, '''Con''' 23, '''Int''' 16, '''Sag''' 20, '''Cha''' 15}
+{s:BDTexte|'''BBA''' +14, '''BMO''' +30, '''DMD''' 42}
+{s:BDTexte|'''Dons''' [[Attaque en puissance]], [[Attaques réflexes]], [[Coup fabuleux]], [[Enchaînement]], [[Frappe décisive]], [[Science de la bousculade]], [[Science de la destruction]], [[Science de la frappe décisive]], [[Science du critique]] (épée à deux mains), [[Volonté de fer]]}
+{s:BDTexte|'''Compétences''' [[Acrobaties]] +18, [[Artisanat]] (un au choix) +13, [[Escalade]] +17, [[Intimidation]] +20, [[Natation]] +22, [[Perception]] +27, [[Psychologie]] +24, [[Représentation]] (chant) +12}
+{s:BDTexte|'''Langues''' aérien, commun, draconique, géant}
+{s:BDTexte|'''Particularités''' préparation martiale, respiration aquatique}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' climat chaud}
+{s:BDTexte|'''Organisation sociale''' solitaire ou famille (2-5 plus 1 [[ensorceleur]] ou [[prêtre]] de niveau 7-10, 1-2 [[roc|rocs]], 2-6 [[griffon|griffons]] et 2-8 [[requin|requins]])}
+{s:BDTexte|'''Trésor''' standard (arc long composite de maître <nowiki>[</nowiki>'''[[Force|For]] +14'''<nowiki>]</nowiki> avec 20 flèches, cuirasse de maître, épée à deux mains de maître, autres trésors)}
+{s:BDSousTitre|Capacités spéciales}
+{s:BDTexte|'''Préparation martiale (Ext).''' Les géants des tempêtes sont formés à l'utilisation de toutes les armes courantes et de toutes les armes de guerre.}
+{s:BDTexte|'''Respiration aquatique (Ext).''' Les géants de tempêtes peuvent aussi bien respirer dans l'eau que dans l'air.}
+</div>
+</td><td><div>''Ce gigantesque humain musclé possède une peau de bronze, des cheveux sombres et des yeux verts brillants.''
+
+Les géants des tempêtes ont généralement une peau bronzée mais
+quelques rares individus ont la peau violette, des cheveux violet
+foncé ou bleu foncé. Leurs yeux sont gris argenté ou pourpres. Les
+géants des tempêtes considèrent ces teintes violettes comme un
+présage de bonne fortune et ceux qui naissent avec cette particularité
+deviennent souvent des dirigeants. Les adultes mesurent quelque
+6,30 mètres de hauteur et pèsent 6 000 kg. Ils peuvent vivre jusqu’à
+600 ans. 
+
+Lorsqu’ils se reposent, ils préfèrent porter des tuniques
+courtes et amples maintenues par une ceinture, des sandales (ou
+aucune chaussure) et des bandeaux autour de la tête. Ils se parent de
+quelques rares bijoux plutôt simples mais de belle facture, le plus
+souvent des chaînettes placées autour des chevilles (les préférés de
+ceux qui se promènent pieds nus), des anneaux et des serre-têtes.
+Mais, lorsqu’ils se préparent à la bataille, ils revêtent des plastrons
+étincelants et utilisent des épées à deux mains et des arcs énormes.
+
+Les géants des tempêtes se tiennent généralement à
+l’écart du monde, préférant vivre sur des côtes ou des îles
+tropicales isolées. Cependant, comme les
+événements dont ils empruntent le
+nom, ils sont enclins à de violentes
+sautes d’humeur. Les géants des
+tempêtes se mettent rapidement
+en colère lorsqu’ils sont confrontés
+à des créatures maléfiques et
+peuvent se transformer en
+ennemis brutaux et dangereux
+lorsqu’on les insulte. 
+
+Au combat,
+ils préfèrent faire pleuvoir des
+flèches sur leurs ennemis : ils
+dégainent leurs épées à deux mains
+seulement lorsque leurs ennemis
+sont trop proches pour que leurs arcs
+soient efficaces.
+
+Les géants des tempêtes habitent
+dans des tours, des châteaux ou
+des communautés fortifiées de
+belle architecture et préfèrent
+vivre des ressources de la terre. Ils
+entretiennent de beaux et énormes
+jardins et chaque groupe de géants
+cultive des centaines d’acres de
+terre fertile. 
+
+Ils engagent souvent
+d’autres humanoïdes, comme des
+elfes ou des humains, pour les aider
+à faire tourner leurs gigantesques
+fermes. Il n’est pas rare qu’une enclave
+de géants des tempêtes s’auto-proclame
+protecteur d’une île toute entière ou
+d’une région côtière.
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Géant des tempêtes</fullName>
+</wikiPage>

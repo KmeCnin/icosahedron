@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Appel de créature artificielle</title>
+  <categories><category>Pathfinder-RPG.Art de la Magie</category><category>Pathfinder-RPG.Règles officielles</category><category>Pathfinder-RPG.Sort</category><category>Pathfinder-RPG.Sort magicien 8</category><category>Pathfinder-RPG.Sort prêtre 8</category></categories>
+  <lastModified>2012-10-31 17:17:48Z</lastModified>
+  <version>1</version>
+  <inLinks><link>Pathfinder-RPG.AdM-sorts-classe-temporaire</link><link>Pathfinder-RPG.Glossaire des sorts</link><link>Pathfinder-RPG.Liste des sorts</link><link>Pathfinder-RPG.Liste des sorts de prêtres</link><link>Pathfinder-RPG.Liste des sorts délémentaliste</link><link>Pathfinder-RPG.Liste des sorts délémentaliste temporaire</link><link>Pathfinder-RPG.Liste des sorts densorceleursmagiciens</link><link>Pathfinder-RPG.sorts-temporaires</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Invocation</link><link>Pathfinder-RPG.branche téléportation</link><link>Pathfinder-RPG.Ensorceleur</link><link>Pathfinder-RPG.Magicien</link><link>Pathfinder-RPG.Prêtre</link><link>Pathfinder-RPG.composantes</link><link>Pathfinder-RPG.Présentation des sorts</link><link>Pathfinder-RPG.Invocation instantanée</link><link>Pathfinder-RPG.type Créature artificielle</link><link>Pathfinder-RPG.Immunité</link><link>Pathfinder-RPG.Golem</link></outLinks>
+  <body><![CDATA[
+&lt;b&gt;&#201;cole&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#INVOCATION&quot; title=&quot;Invocation&quot;&gt;Invocation&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#TELEPORTATION&quot; title=&quot;T&#233;l&#233;portation&quot;&gt;t&#233;l&#233;portation&lt;/a&gt;) ; &lt;b&gt;Niveau&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Ensorceleur.html&quot; title=&quot;L&amp;#39;ensorceleur&quot;&gt;ensorceleur&lt;/a&gt;/&lt;a class=&quot;pagelink&quot; href=&quot;Magicien.html&quot; title=&quot;Le magicien&quot;&gt;magicien&lt;/a&gt; 8, &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#234;tre.html&quot; title=&quot;Le pr&#234;tre&quot;&gt;pr&#234;tre&lt;/a&gt; 8&lt;/br&gt;
+&lt;b&gt;Temps d’incantation&lt;/b&gt; 10 minutes&lt;/br&gt;
+&lt;b&gt;Composantes&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#COMPOSANTES&quot; title=&quot;composantes&quot;&gt;V, G, M&lt;/a&gt; (saphir d&#39;une valeur de 1 000 ou 5 000 po ; voir texte)&lt;/br&gt;
+&lt;b&gt;Port&#233;e&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#PORTEE&quot; title=&quot;Pr&#233;sentation des sorts&quot;&gt;contact&lt;/a&gt;&lt;/br&gt;
+&lt;b&gt;Cible&lt;/b&gt; cr&#233;ature artificielle touch&#233;e&lt;/br&gt;
+&lt;b&gt;Dur&#233;e&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#DUREE&quot; title=&quot;Pr&#233;sentation des sorts&quot;&gt;permanente&lt;/a&gt; jusqu&#39;&#224; d&#233;chargement&lt;/br&gt;
+&lt;b&gt;Jet de sauvegarde&lt;/b&gt; non ; &lt;b&gt;R&#233;sistance &#224; la magie&lt;/b&gt; non&lt;br /&gt;&lt;br /&gt;Ce sort fonctionne comme &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Invocation-Instantan&#233;e.html&quot; title=&quot;Invocation instantan&#233;e&quot;&gt;invocation instantan&#233;e&lt;/a&gt;&lt;/i&gt; mais ne convoque qu’une &lt;a class=&quot;pagelink&quot; href=&quot;Type-Cr&#233;ature-Artificielle.html&quot; title=&quot;Cr&#233;ature artificielle&quot;&gt;cr&#233;ature artificielle&lt;/a&gt; plac&#233;e sous le contr&#244;le du personnage. Pour les cr&#233;atures &lt;a class=&quot;pagelink&quot; href=&quot;Immunit&#233;-(Capacit&#233;).html&quot; title=&quot;Immunit&#233;&quot;&gt;immunis&#233;es&lt;/a&gt; contre la magie, comme les &lt;a class=&quot;pagelink&quot; href=&quot;Golem.html&quot; title=&quot;Golem&quot;&gt;golems&lt;/a&gt;, la valeur du saphir &#224; graver est de 5 000 po, pour les autres un saphir &#224; 1 000 suffit.&lt;br /&gt;&lt;br /&gt;Si la &lt;a class=&quot;pagelink&quot; href=&quot;Type-Cr&#233;ature-Artificielle.html&quot; title=&quot;Cr&#233;ature artificielle&quot;&gt;cr&#233;ature artificielle&lt;/a&gt; n’est plus sous le contr&#244;le du personnage ou si elle est d&#233;truite, le sort &#233;choue mais le personnage sait &#224; peu pr&#232;s o&#249; se trouve la cr&#233;ature ou ses restes.
+]]></body>
+  <raw><![CDATA[{s:UM}
+'''École''' [[Invocation]] ([[branche téléportation|téléportation]]) ; '''Niveau''' [[ensorceleur]]/[[magicien]] 8, [[prêtre]] 8</br>
+'''Temps d’incantation''' 10 minutes</br>
+'''Composantes''' [[Composantes|V, G, M]] (saphir d'une valeur de 1 000 ou 5 000 po ; voir texte)</br>
+'''Portée''' [[présentation des sorts#PORTEE|contact]]</br>
+'''Cible''' créature artificielle touchée</br>
+'''Durée''' [[présentation des sorts#DUREE|permanente]] jusqu'à déchargement</br>
+'''Jet de sauvegarde''' non ; '''Résistance à la magie''' non
+
+Ce sort fonctionne comme ''[[invocation instantanée]]'' mais ne convoque qu’une [[type créature artificielle|créature artificielle]] placée sous le contrôle du personnage. Pour les créatures [[immunité|immunisées]] contre la magie, comme les [[golem|golems]], la valeur du saphir à graver est de 5 000 po, pour les autres un saphir à 1 000 suffit.
+
+Si la [[type créature artificielle|créature artificielle]] n’est plus sous le contrôle du personnage ou si elle est détruite, le sort échoue mais le personnage sait à peu près où se trouve la créature ou ses restes.]]></raw>
+  <fullName>Pathfinder-RPG.Appel de créature artificielle</fullName>
+</wikiPage>

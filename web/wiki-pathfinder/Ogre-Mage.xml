@@ -1,0 +1,153 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Ogre mage</title>
+  <categories><category>Pathfinder-RPG.Bestiaire</category><category>Pathfinder-RPG.Monstre</category><category>Pathfinder-RPG.Règles officielles</category></categories>
+  <lastModified>2013-02-07 19:00:28Z</lastModified>
+  <version>9</version>
+  <inLinks><link>Pathfinder-RPG.Glossaire des monstres</link><link>Pathfinder-RPG.Liste de monstres par FP</link><link>Pathfinder-RPG.Liste de monstres par milieu naturel</link><link>Pathfinder-RPG.Liste de monstres par type</link><link>Pathfinder-RPG.Monstres</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.type Extérieur</link><link>Pathfinder-RPG.sous-type géant</link><link>Pathfinder-RPG.sous-type métamorphe</link><link>Pathfinder-RPG.sous-type natif</link><link>Pathfinder-RPG.sous-type oni</link><link>Pathfinder-RPG.vision dans le noir</link><link>Pathfinder-RPG.vision nocturne</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Régénération</link><link>Pathfinder-RPG.sort Vol</link><link>Pathfinder-RPG.Invisibilité</link><link>Pathfinder-RPG.Ténèbres</link><link>Pathfinder-RPG.Charme-monstre</link><link>Pathfinder-RPG.Cône de froid</link><link>Pathfinder-RPG.État gazeux</link><link>Pathfinder-RPG.Sommeil profond</link><link>Pathfinder-RPG.Attaques réflexes</link><link>Pathfinder-RPG.Expertise du combat</link><link>Pathfinder-RPG.Science de linitiative</link><link>Pathfinder-RPG.Volonté de fer</link><link>Pathfinder-RPG.Art de la magie</link><link>Pathfinder-RPG.Bluff</link><link>Pathfinder-RPG.Connaissances</link><link>Pathfinder-RPG.Déguisement</link><link>Pathfinder-RPG.Intimidation</link><link>Pathfinder-RPG.Psychologie</link><link>Pathfinder-RPG.Utilisation dObjets Magiques</link><link>Pathfinder-RPG.Vol</link><link>Pathfinder-RPG.type Humanoïde</link><link>Pathfinder-RPG.Modification dapparence</link><link>Pathfinder-RPG.Forme de géant I</link><link>Pathfinder-RPG.Vol (capacité)</link><link>Pathfinder-RPG.Ogre</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Ogre mage&lt;div style=&quot;float:right;&quot;&gt;FP 8&lt;/div&gt;&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Bestiaire&lt;/i&gt; p.232
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 4.800
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Ext&#233;rieur.html&quot; title=&quot;Ext&#233;rieur&quot;&gt;Ext&#233;rieur&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-G&#233;ant.html&quot; title=&quot;G&#233;ant (sous-type)&quot;&gt;g&#233;ant&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-M&#233;tamorphe.html&quot; title=&quot;M&#233;tamorphe (sous-type)&quot;&gt;m&#233;tamorphe&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Natif.html&quot; title=&quot;Natif (sous-type)&quot;&gt;natif&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Oni.html&quot; title=&quot;Oni (sous-type)&quot;&gt;oni&lt;/a&gt;) de taille G, LM
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +7 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Capacit&#233;s-Sp&#233;ciales.html#VISIONDANSLENOIR&quot; title=&quot;vision dans le noir&quot;&gt;vision dans le noir&lt;/a&gt; 18 m (12 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Nocturne-(Capacit&#233;).html&quot; title=&quot;vision nocturne&quot;&gt;vision nocturne&lt;/a&gt; ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +13
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 21, contact 12, pris au d&#233;pourvu 18 (armure +4, Dex +3, naturelle +5, taille -1)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 92 (8d10+48) ; &lt;a class=&quot;pagelink&quot; href=&quot;R&#233;g&#233;n&#233;ration.html&quot; title=&quot;R&#233;g&#233;n&#233;ration&quot;&gt;r&#233;g&#233;n&#233;ration&lt;/a&gt; 5 (feu ou acide)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +5, &lt;b&gt;Vig&lt;/b&gt; +12, &lt;b&gt;Vol&lt;/b&gt; +10
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;RM&lt;/b&gt; 19 
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 12 m (8 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), vol 18 m (12 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) (bonne)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; &#233;p&#233;e &#224; deux mains, +14/+9 (3d6+10)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Distance&lt;/b&gt; arc long composite, +10 (2d6+7)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Espace&lt;/b&gt; 3 m (2 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) ; &lt;b&gt;Allonge&lt;/b&gt; 3 m (2 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Pouvoirs magiques&lt;/b&gt; (NLS 9&lt;sup&gt;e&lt;/sup&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+Constant — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Sort-Vol.html&quot; title=&quot;Vol&quot;&gt;vol&lt;/a&gt;&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+&#192; volont&#233; — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Invisibilit&#233;.html&quot; title=&quot;Invisibilit&#233;&quot;&gt;invisibilit&#233;&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;T&#233;n&#232;bres.html&quot; title=&quot;T&#233;n&#232;bres&quot;&gt;t&#233;n&#232;bres&lt;/a&gt;&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+1/jour — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Charme-Monstre.html&quot; title=&quot;Charme-monstre&quot;&gt;charme-monstre&lt;/a&gt;&lt;/i&gt; (DD 17), &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;C&#244;ne-De-Froid.html&quot; title=&quot;C&#244;ne de froid&quot;&gt;c&#244;ne de froid&lt;/a&gt;&lt;/i&gt; (DD 18), &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;&#201;tat-Gazeux.html&quot; title=&quot;&#201;tat gazeux&quot;&gt;&#233;tat gazeux&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Sommeil-Profond.html&quot; title=&quot;Sommeil profond&quot;&gt;sommeil profond&lt;/a&gt;&lt;/i&gt; (DD 16)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 24, &lt;b&gt;Dex&lt;/b&gt; 17, &lt;b&gt;Con&lt;/b&gt; 23, &lt;b&gt;Int&lt;/b&gt; 14, &lt;b&gt;Sag&lt;/b&gt; 14, &lt;b&gt;Cha&lt;/b&gt; 17
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +8, &lt;b&gt;BMO&lt;/b&gt; +16, &lt;b&gt;DMD&lt;/b&gt; 29
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Attaques-R&#233;flexes.html&quot; title=&quot;Attaques r&#233;flexes&quot;&gt;Attaques r&#233;flexes&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Expertise-Du-Combat.html&quot; title=&quot;Expertise du combat&quot;&gt;Expertise du combat&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Science-De-Linitiative.html&quot; title=&quot;Science de l&amp;#39;initiative&quot;&gt;Science de l&#39;initiative&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Volont&#233;-De-Fer.html&quot; title=&quot;Volont&#233; de fer&quot;&gt;Volont&#233; de fer&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Art-De-La-Magie.html&quot; title=&quot;Art de la magie&quot;&gt;Art de la magie&lt;/a&gt; +13, &lt;a class=&quot;pagelink&quot; href=&quot;Bluff.html&quot; title=&quot;Bluff&quot;&gt;Bluff&lt;/a&gt; +14, &lt;a class=&quot;pagelink&quot; href=&quot;Connaissances.html&quot; title=&quot;Connaissances&quot;&gt;Connaissances&lt;/a&gt; (myst&#232;res) +13, &lt;a class=&quot;pagelink&quot; href=&quot;D&#233;guisement.html&quot; title=&quot;D&#233;guisement&quot;&gt;D&#233;guisement&lt;/a&gt; +14, &lt;a class=&quot;pagelink&quot; href=&quot;Intimidation.html&quot; title=&quot;Intimidation&quot;&gt;Intimidation&lt;/a&gt; +14, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +13, &lt;a class=&quot;pagelink&quot; href=&quot;Psychologie.html&quot; title=&quot;Psychologie&quot;&gt;Psychologie&lt;/a&gt; +13, &lt;a class=&quot;pagelink&quot; href=&quot;Utilisation-Dobjets-Magiques.html&quot; title=&quot;Utilisation d&amp;#39;objets magiques&quot;&gt;Utilisation d&#39;objets magiques&lt;/a&gt; +14, &lt;a class=&quot;pagelink&quot; href=&quot;Vol.html&quot; title=&quot;Vol&quot;&gt;Vol&lt;/a&gt; +5
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Langues&lt;/b&gt; commun, g&#233;ant
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Particularit&#233;s&lt;/b&gt; changement de forme (&lt;a class=&quot;pagelink&quot; href=&quot;Type-Humano&#239;de.html&quot; title=&quot;Humano&#239;de&quot;&gt;humano&#239;de&lt;/a&gt; de taille P, M ou G; &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Modification-Dapparence.html&quot; title=&quot;Modification d&amp;#39;apparence&quot;&gt;modification d&#39;apparence&lt;/a&gt;&lt;/i&gt; ou &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Forme-De-G&#233;ant-I.html&quot; title=&quot;Forme de g&#233;ant I&quot;&gt;forme de g&#233;ant I&lt;/a&gt;&lt;/i&gt;), &lt;a class=&quot;pagelink&quot; href=&quot;Vol-(Capacit&#233;).html&quot; title=&quot;Vol (Ext ou Sur)&quot;&gt;vol&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; collines froides
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation sociale&lt;/b&gt; solitaire, couple ou patrouille (1-2 plus 2-4 &lt;a class=&quot;pagelink&quot; href=&quot;Ogre.html&quot; title=&quot;Ogre&quot;&gt;ogres&lt;/a&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; double (chemise de mailles, &#233;p&#233;e &#224; 2 mains, arc long composite [&lt;b&gt;For&lt;/b&gt; +7] avec 20 fl&#232;ches, autres tr&#233;sors)
+&lt;/div&gt;
+&lt;/td&gt;&lt;td&gt;&lt;div&gt;&lt;i&gt;Ce g&#233;ant par&#233; d’habits exotiques et d’une armure splendide rugit. Ses crocs
+brillent et ses intentions meurtri&#232;res luisant dans ses yeux.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Comme tous les onis, l’ogre mage est un esprit mal&#233;fique qui
+s’est rendu sur le plan Mat&#233;riel et a pris chair humaine (ou, plus
+exactement dans ce cas, chair d’ogre). De nombreux ogres
+mages servent de chefs &#224; des tribus d’ogres mais tous ne
+choisissent pas de lier leur destin &#224; celui de leurs
+cousins moins intelligents. Certains deviennent
+des pillards solitaires qui prennent les villages
+en otage et exigent des tributs r&#233;guliers sous la
+forme de pi&#232;ces d’or, de nourriture ou de vierges
+tout en mena&#231;ant de s’emparer de bien plus
+encore si on ne les satisfait pas.
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Ogre mage|FP 8}
+{s:pucem|Extérieur|Collines|Froid}
+{s:BDTexte|''Source : Bestiaire'' p.232}
+{s:BDTexte|'''PX''' 4.800}
+{s:BDTexte|[[type Extérieur|Extérieur]] ([[sous-type géant|géant]], [[sous-type métamorphe|métamorphe]], [[sous-type natif|natif]], [[sous-type oni|oni]]) de taille G, LM}
+{s:BDTexte|'''Init''' +7 ; '''Sens''' [[vision dans le noir]] 18 m (12 {s:c}), [[vision nocturne]] ; [[Perception]] +13}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 21, contact 12, pris au dépourvu 18 (armure +4, Dex +3, naturelle +5, taille -1)}
+{s:BDTexte|'''pv''' 92 (8d10+48) ; [[régénération]] 5 (feu ou acide)}
+{s:BDTexte|'''Réf''' +5, '''Vig''' +12, '''Vol''' +10}
+{s:BDTexte|'''RM''' 19 }
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 12 m (8 {s:c}), vol 18 m (12 {s:c}) (bonne)}
+{s:BDTexte|'''Corps à corps''' épée à deux mains, +14/+9 (3d6+10)}
+{s:BDTexte|'''Distance''' arc long composite, +10 (2d6+7)}
+{s:BDTexte|'''Espace''' 3 m (2 {s:c}) ; '''Allonge''' 3 m (2 {s:c})}
+{s:BDTexte|'''Pouvoirs magiques''' (NLS 9<sup>e</sup>)}
+{s:BDSorts|Constant — ''[[sort vol|vol]]''}
+{s:BDSorts|À volonté — ''[[invisibilité]]'', ''[[ténèbres]]''}
+{s:BDSorts|1/jour — ''[[charme-monstre]]'' (DD 17), ''[[cône de froid]]'' (DD 18), ''[[état gazeux]]'', ''[[sommeil profond]]'' (DD 16)}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 24, '''Dex''' 17, '''Con''' 23, '''Int''' 14, '''Sag''' 14, '''Cha''' 17}
+{s:BDTexte|'''BBA''' +8, '''BMO''' +16, '''DMD''' 29}
+{s:BDTexte|'''Dons''' [[Attaques réflexes]], [[Expertise du combat]], [[Science de linitiative|Science de l'initiative]], [[Volonté de fer]]}
+{s:BDTexte|'''Compétences''' [[Art de la magie]] +13, [[Bluff]] +14, [[Connaissances]] (mystères) +13, [[Déguisement]] +14, [[Intimidation]] +14, [[Perception]] +13, [[Psychologie]] +13, [[Utilisation dobjets magiques|Utilisation d'objets magiques]] +14, [[Vol]] +5}
+{s:BDTexte|'''Langues''' commun, géant}
+{s:BDTexte|'''Particularités''' changement de forme ([[type humanoïde|humanoïde]] de taille P, M ou G; ''[[modification dapparence|modification d'apparence]]'' ou ''[[forme de géant I]]''), [[vol (capacité)|vol]]}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' collines froides}
+{s:BDTexte|'''Organisation sociale''' solitaire, couple ou patrouille (1-2 plus 2-4 [[ogre|ogres]])}
+{s:BDTexte|'''Trésor''' double (chemise de mailles, épée à 2 mains, arc long composite <nowiki>[</nowiki>'''For''' +7<nowiki>]</nowiki> avec 20 flèches, autres trésors)}
+</td><td><div>''Ce géant paré d’habits exotiques et d’une armure splendide rugit. Ses crocs
+brillent et ses intentions meurtrières luisant dans ses yeux.''
+
+Comme tous les onis, l’ogre mage est un esprit maléfique qui
+s’est rendu sur le plan Matériel et a pris chair humaine (ou, plus
+exactement dans ce cas, chair d’ogre). De nombreux ogres
+mages servent de chefs à des tribus d’ogres mais tous ne
+choisissent pas de lier leur destin à celui de leurs
+cousins moins intelligents. Certains deviennent
+des pillards solitaires qui prennent les villages
+en otage et exigent des tributs réguliers sous la
+forme de pièces d’or, de nourriture ou de vierges
+tout en menaçant de s’emparer de bien plus
+encore si on ne les satisfait pas.
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Ogre mage</fullName>
+</wikiPage>

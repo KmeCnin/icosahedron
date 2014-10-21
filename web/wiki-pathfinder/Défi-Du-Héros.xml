@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Défi du héros</title>
+  <categories><category>Pathfinder-RPG.Advanced Player Guide</category><category>Pathfinder-RPG.Règles officielles</category><category>Pathfinder-RPG.Sort</category><category>Pathfinder-RPG.Sort paladin 1</category></categories>
+  <lastModified>2012-11-02 18:25:59Z</lastModified>
+  <version>1</version>
+  <inLinks><link>Pathfinder-RPG.Glossaire des sorts</link><link>Pathfinder-RPG.Liste des sorts</link><link>Pathfinder-RPG.Liste des sorts de paladins</link><link>Pathfinder-RPG.TMP sorts APG</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Invocation</link><link>Pathfinder-RPG.branche guérison</link><link>Pathfinder-RPG.Paladin</link><link>Pathfinder-RPG.Action immédiate</link><link>Pathfinder-RPG.composantes</link><link>Pathfinder-RPG.Présentation des sorts</link></outLinks>
+  <body><![CDATA[
+&lt;b&gt;&#201;cole&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#INVOCATION&quot; title=&quot;Invocation&quot;&gt;Invocation&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#GUERISON&quot; title=&quot;Gu&#233;rison&quot;&gt;gu&#233;rison&lt;/a&gt;)&#160;;&lt;b&gt; Niveau&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Paladin.html&quot; title=&quot;Le paladin&quot;&gt;paladin&lt;/a&gt; 1&lt;br/&gt;
+&lt;b&gt;Temps d&#39;incantation&lt;/b&gt; 1 &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions.html#IMMEDIATE&quot; title=&quot;Action imm&#233;diate&quot;&gt;action imm&#233;diate&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Composantes&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#COMPOSANTES&quot; title=&quot;composantes&quot;&gt;V&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Port&#233;e&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#PORTEE&quot; title=&quot;Pr&#233;sentation des sorts&quot;&gt;personnelle&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Cible&lt;/b&gt; lanceur de sorts&lt;br/&gt;
+&lt;b&gt;Dur&#233;e&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#DUREE&quot; title=&quot;Pr&#233;sentation des sorts&quot;&gt;instantan&#233;e&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;Un instant avant que le personnage ne tombe &#224; 0 point de vie ou moins, il peut utiliser une &lt;a class=&quot;pagelink&quot; href=&quot;Paladin.html#IMPOSITIONDESMAINS&quot; title=&quot;Le paladin&quot;&gt;imposition des mains&lt;/a&gt; pour se soigner comme s&#39;il avait utilis&#233; ce pouvoir en b&#233;n&#233;ficiant de 1d6 points de vie gu&#233;ris suppl&#233;mentaires. Si ceci fait repasser son total de points de vie au-dessus de 0, le personnage ne tombe pas et peut continuer d&#39;agir. Si le personnage a d&#233;j&#224; utilis&#233; toutes ses &lt;a class=&quot;pagelink&quot; href=&quot;Paladin.html#IMPOSITIONDESMAINS&quot; title=&quot;Le paladin&quot;&gt;impositions&lt;/a&gt;, le sort n&#39;a aucun effet.
+]]></body>
+  <raw><![CDATA[{s:APG}
+'''École''' [[Invocation]] ([[branche guérison|guérison]]) ;''' Niveau''' [[paladin]] 1<br/>
+'''Temps d'incantation''' 1 [[action immédiate]]<br/>
+'''Composantes''' [[Composantes|V]]<br/>
+'''Portée''' [[Présentation des sorts#PORTEE|personnelle]]<br/>
+'''Cible''' lanceur de sorts<br/>
+'''Durée''' [[Présentation des sorts#DUREE|instantanée]]
+
+Un instant avant que le personnage ne tombe à 0 point de vie ou moins, il peut utiliser une [[paladin#IMPOSITIONDESMAINS|imposition des mains]] pour se soigner comme s'il avait utilisé ce pouvoir en bénéficiant de 1d6 points de vie guéris supplémentaires. Si ceci fait repasser son total de points de vie au-dessus de 0, le personnage ne tombe pas et peut continuer d'agir. Si le personnage a déjà utilisé toutes ses [[paladin#IMPOSITIONDESMAINS|impositions]], le sort n'a aucun effet.
+]]></raw>
+  <fullName>Pathfinder-RPG.Défi du héros</fullName>
+</wikiPage>

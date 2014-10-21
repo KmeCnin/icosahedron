@@ -1,0 +1,187 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Goule</title>
+  <categories><category>Pathfinder-RPG.Bestiaire</category><category>Pathfinder-RPG.Monstre</category><category>Pathfinder-RPG.Règles officielles</category></categories>
+  <lastModified>2013-02-07 21:26:37Z</lastModified>
+  <version>6</version>
+  <inLinks><link>Pathfinder-RPG.Anatomie morte-vivante I</link><link>Pathfinder-RPG.armure des âmes mortes</link><link>Pathfinder-RPG.Catastrophes</link><link>Pathfinder-RPG.Création de mort-vivant</link><link>Pathfinder-RPG.FAQ Bestiaire</link><link>Pathfinder-RPG.Ghul</link><link>Pathfinder-RPG.Glossaire des monstres</link><link>Pathfinder-RPG.Liste de monstres par FP</link><link>Pathfinder-RPG.Liste de monstres par milieu naturel</link><link>Pathfinder-RPG.Liste de monstres par type</link><link>Pathfinder-RPG.Monstres</link><link>Pathfinder-RPG.Nabasu</link><link>Pathfinder-RPG.Skaveling</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.type Mort-vivant</link><link>Pathfinder-RPG.vision dans le noir</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.résistance à la canalisation</link><link>Pathfinder-RPG.Attaque en finesse</link><link>Pathfinder-RPG.Acrobaties</link><link>Pathfinder-RPG.Discrétion</link><link>Pathfinder-RPG.Escalade</link><link>Pathfinder-RPG.Natation</link><link>Pathfinder-RPG.Vigueur</link><link>Pathfinder-RPG.DD</link><link>Pathfinder-RPG.affaiblissement temporaire</link><link>Pathfinder-RPG.Constitution</link><link>Pathfinder-RPG.Dextérité</link><link>Pathfinder-RPG.Charisme</link><link>Pathfinder-RPG.type Humanoïde</link><link>Pathfinder-RPG.DV</link><link>Pathfinder-RPG.Puanteur</link><link>Pathfinder-RPG.Fiévreux</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Goule&lt;div style=&quot;float:right;&quot;&gt;FP 1&lt;/div&gt;&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Bestiaire p.173&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 400
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Mort-Vivant.html&quot; title=&quot;Mort-vivant&quot;&gt;Mort-vivant&lt;/a&gt; de taille M, CM
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +2 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Capacit&#233;s-Sp&#233;ciales.html#VISIONDANSLENOIR&quot; title=&quot;vision dans le noir&quot;&gt;vision dans le noir&lt;/a&gt; 18 m (12 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +7
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 14, contact 12, pris au d&#233;pourvu 12 (Dex +2, naturelle +2)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 13 (2d8+4)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +2, &lt;b&gt;Vig&lt;/b&gt; +2, &lt;b&gt;Vol&lt;/b&gt; +5
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Capacit&#233;s d&#233;fensives&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;R&#233;sistance-&#192;-La-Canalisation-(Capacit&#233;).html&quot; title=&quot;r&#233;sistance &#224; la canalisation&quot;&gt;r&#233;sistance &#224; la canalisation&lt;/a&gt; +2 
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 9 m (6 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; morsure, +3 (1d6+1 et maladie et paralysie) et 2 griffes, +3 (1d6+1 et paralysie)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaques sp&#233;ciales&lt;/b&gt; paralysie (1d4+1 rounds, DD 13, les elfes sont immunis&#233;s contre cet effet)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 13, &lt;b&gt;Dex&lt;/b&gt; 15, &lt;b&gt;Con&lt;/b&gt; -, &lt;b&gt;Int&lt;/b&gt; 13, &lt;b&gt;Sag&lt;/b&gt; 14, &lt;b&gt;Cha&lt;/b&gt; 14
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +1, &lt;b&gt;BMO&lt;/b&gt; +2, &lt;b&gt;DMD&lt;/b&gt; 14
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Attaque-En-Finesse.html&quot; title=&quot;Attaque en finesse&quot;&gt;Attaque en finesse&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Acrobaties.html&quot; title=&quot;Acrobaties&quot;&gt;Acrobaties&lt;/a&gt; +4, &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; +7, &lt;a class=&quot;pagelink&quot; href=&quot;Escalade.html&quot; title=&quot;Escalade&quot;&gt;Escalade&lt;/a&gt; +6, &lt;a class=&quot;pagelink&quot; href=&quot;Natation.html&quot; title=&quot;Natation&quot;&gt;Natation&lt;/a&gt; +3, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +7
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Langues&lt;/b&gt; commun
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; terre ferme
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation sociale&lt;/b&gt; solitaire, bande (2-4) ou meute (7-12)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; standard
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Capacit&#233;s sp&#233;ciales&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Maladie : fi&#232;vre des goules (Sur).&lt;/b&gt; Morsure - blessure ; &lt;i&gt;JS&lt;/i&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;Vigueur&quot;&gt;Vigueur&lt;/a&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DEGREDEDIFFICULTE&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; 13 ; &lt;i&gt;incubation&lt;/i&gt; 1 jour ; &lt;i&gt;fr&#233;quence&lt;/i&gt; 1/jour  ; &lt;i&gt;effet&lt;/i&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Affaiblissement-Temporaire-(Capacit&#233;).html&quot; title=&quot;affaiblissement temporaire&quot;&gt;affaiblissement temporaire&lt;/a&gt; 1d3 &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#CONSTITUTION&quot; title=&quot;La Constitution&quot;&gt;Con&lt;/a&gt; et 1d2 &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#DEXTERITE&quot; title=&quot;La Dext&#233;rit&#233;&quot;&gt;Dex&lt;/a&gt; ; &lt;i&gt; gu&#233;rison&lt;/i&gt; 2 r&#233;ussites cons&#233;cutives. Le &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DEGREDEDIFFICULTE&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; d&#233;pend du &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#CHARISME&quot; title=&quot;Le Charisme&quot;&gt;Charisme&lt;/a&gt;. Lorsqu&#39;un &lt;a class=&quot;pagelink&quot; href=&quot;Type-Humano&#239;de.html&quot; title=&quot;Humano&#239;de&quot;&gt;humano&#239;de&lt;/a&gt; meurt de la fi&#232;vre des goules, il se rel&#232;ve sous la forme d&#39;une goule d&#232;s que sonne minuit. Il ne conserve aucune des capacit&#233;s qu&#39;il poss&#233;dait de son vivant et n&#39;est pas soumis au contr&#244;le des autres goules, la chair des vivants l&#39;attire et il se comporte comme une goule normale. Ceux qui poss&#232;dent 4 &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DESDEVIE&quot; title=&quot;DV&quot;&gt;DV&lt;/a&gt; ou plus se rel&#232;vent sous la forme de bl&#232;mes.
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;td&gt;&lt;div&gt;&lt;i&gt;Cette cr&#233;ature humano&#239;de poss&#232;de de longues dents ac&#233;r&#233;es et sa peau p&#226;le semble avoir &#233;t&#233; &#233;tir&#233;e autour d’un corps affam&#233;.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Les goules sont des morts-vivants qui hantent les cimeti&#232;res et
+d&#233;vorent les cadavres. Selon certaines l&#233;gendes, les premi&#232;res
+goules auraient &#233;t&#233; des humains cannibales revenus de la
+mort &#224; cause de leurs app&#233;tits contre nature. D’autres parlent
+plut&#244;t d’humains qui se seraient repus en d&#233;vorant les
+cadavres en putr&#233;faction de leurs fr&#232;res puis qui seraient
+morts &#224; cause des terribles maladies qu’ils avaient ainsi
+contract&#233;es. Quoi qu’il en soit, la v&#233;ritable origine de
+ces charognards morts-vivants reste vague.&lt;br /&gt;&lt;br /&gt;Les goules se tapissent aux abords de la civilisation
+(dans ou pr&#232;s des cimeti&#232;res, ou dans les &#233;gouts des villes), l&#224; o&#249; elles
+peuvent mettre la main sur d’amples r&#233;serves de leur nourriture 
+favorite. Elles pr&#233;f&#232;rent les corps en d&#233;composition et enterrent
+d’ailleurs souvent leurs victimes pendant un moment afin d’en
+am&#233;liorer le go&#251;t. Si la faim les y pousse, elles d&#233;vorent parfois des
+proies fra&#238;chement tu&#233;es. La plupart des goules de la surface vivent
+de mani&#232;re primitive mais certaines rumeurs parlent de cit&#233;s
+souterraines compos&#233;es de goules dirig&#233;es par des pr&#234;tres v&#233;n&#233;rant
+d’anciens dieux cruels ou d’&#233;tranges seigneurs-d&#233;mons de la faim.&lt;br /&gt;&lt;br /&gt;Les habitudes alimentaires de ces goules &#171; civilis&#233;es &#187; n’en sont pas
+pour autant moins horribles. En fait, l’id&#233;e d’une table bien dress&#233;e
+lors d’un banquet de goules est peut-&#234;tre m&#234;me plus terrifiante que
+celle d’un repas fra&#238;chement extrait de son cercueil.&lt;br /&gt;&lt;br /&gt;&lt;h3 class=&quot;separator&quot;&gt;Bl&#234;me&lt;a class=&quot;headeranchor&quot; id=&quot;Bl&#234;me_0&quot; href=&quot;#Bl&#234;me_0&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;
+Les bl&#234;mes sont des goules qui poss&#232;dent l’arch&#233;type &#171; &#233;volu&#233; &#187;. La
+paralysie des bl&#234;mes affectent m&#234;me les elfes. Les bl&#234;mes se regroupent
+en meutes ou dirigent des bandes de goules normales. L’odeur de mort
+et de corruption qui &#233;mane de ces cr&#233;atures est si puissante qu’elles
+gagnent la capacit&#233; extraordinaire de &lt;a class=&quot;pagelink&quot; href=&quot;Puanteur-(Capacit&#233;).html&quot; title=&quot;Puanteur&quot;&gt;puanteur&lt;/a&gt; (rayon de 3 m, &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;Vigueur&quot;&gt;Vigueur&lt;/a&gt;
+DD 15 annule, &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables.html#Fi&#233;vreux&quot; title=&quot;Fi&#233;vreux&quot;&gt;fi&#233;vreux&lt;/a&gt; pendant 1d6+4 minutes).&lt;br /&gt;&lt;br /&gt;&lt;h3 class=&quot;separator&quot;&gt;Lac&#233;don&lt;a class=&quot;headeranchor&quot; id=&quot;Lac&#233;don_1&quot; href=&quot;#Lac&#233;don_1&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;
+Ces cousins aquatiques des goules vivent pr&#232;s des r&#233;cifs
+cach&#233;s et des dangers qui menacent les
+navires. Les lac&#233;dons ont une vitesse de
+d&#233;placement de base de 9 m&#232;tres et
+une vitesse de nage de 9 m&#232;tres.
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Goule|FP 1}
+{s:pucem|Mort-vivant|Ruines-Donjons|Tempéré}
+{s:BDTexte|''Source : Bestiaire p.173''}
+{s:BDTexte|'''PX''' 400}
+{s:BDTexte|[[type Mort-vivant|Mort-vivant]] de taille M, CM}
+{s:BDTexte|'''Init''' +2 ; '''Sens''' [[vision dans le noir]] 18 m (12 {s:c}) ; [[Perception]] +7}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 14, contact 12, pris au dépourvu 12 (Dex +2, naturelle +2)}
+{s:BDTexte|'''pv''' 13 (2d8+4)}
+{s:BDTexte|'''Réf''' +2, '''Vig''' +2, '''Vol''' +5}
+{s:BDTexte|'''Capacités défensives''' [[résistance à la canalisation]] +2 }
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 9 m (6 {s:c})}
+{s:BDTexte|'''Corps à corps''' morsure, +3 (1d6+1 et maladie et paralysie) et 2 griffes, +3 (1d6+1 et paralysie)}
+{s:BDTexte|'''Attaques spéciales''' paralysie (1d4+1 rounds, DD 13, les elfes sont immunisés contre cet effet)}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 13, '''Dex''' 15, '''Con''' -, '''Int''' 13, '''Sag''' 14, '''Cha''' 14}
+{s:BDTexte|'''BBA''' +1, '''BMO''' +2, '''DMD''' 14}
+{s:BDTexte|'''Dons''' [[Attaque en finesse]]}
+{s:BDTexte|'''Compétences''' [[Acrobaties]] +4, [[Discrétion]] +7, [[Escalade]] +6, [[Natation]] +3, [[Perception]] +7}
+{s:BDTexte|'''Langues''' commun}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' terre ferme}
+{s:BDTexte|'''Organisation sociale''' solitaire, bande (2-4) ou meute (7-12)}
+{s:BDTexte|'''Trésor''' standard}
+{s:BDSousTitre|Capacités spéciales}
+{s:BDTexte|'''Maladie : fièvre des goules (Sur).''' Morsure - blessure ; ''JS'' [[Vigueur]] [[DD]] 13 ; ''incubation'' 1 jour ; ''fréquence'' 1/jour  ; ''effet'' [[affaiblissement temporaire]] 1d3 [[Constitution|Con]] et 1d2 [[Dextérité|Dex]] ; '' guérison'' 2 réussites consécutives. Le [[DD]] dépend du [[Charisme]]. Lorsqu'un [[type humanoïde|humanoïde]] meurt de la fièvre des goules, il se relève sous la forme d'une goule dès que sonne minuit. Il ne conserve aucune des capacités qu'il possédait de son vivant et n'est pas soumis au contrôle des autres goules, la chair des vivants l'attire et il se comporte comme une goule normale. Ceux qui possèdent 4 [[DV]] ou plus se relèvent sous la forme de blèmes.}
+</div>
+</td><td><div>''Cette créature humanoïde possède de longues dents acérées et sa peau pâle semble avoir été étirée autour d’un corps affamé.''
+
+Les goules sont des morts-vivants qui hantent les cimetières et
+dévorent les cadavres. Selon certaines légendes, les premières
+goules auraient été des humains cannibales revenus de la
+mort à cause de leurs appétits contre nature. D’autres parlent
+plutôt d’humains qui se seraient repus en dévorant les
+cadavres en putréfaction de leurs frères puis qui seraient
+morts à cause des terribles maladies qu’ils avaient ainsi
+contractées. Quoi qu’il en soit, la véritable origine de
+ces charognards morts-vivants reste vague.
+
+Les goules se tapissent aux abords de la civilisation
+(dans ou près des cimetières, ou dans les égouts des villes), là où elles
+peuvent mettre la main sur d’amples réserves de leur nourriture 
+favorite. Elles préfèrent les corps en décomposition et enterrent
+d’ailleurs souvent leurs victimes pendant un moment afin d’en
+améliorer le goût. Si la faim les y pousse, elles dévorent parfois des
+proies fraîchement tuées. La plupart des goules de la surface vivent
+de manière primitive mais certaines rumeurs parlent de cités
+souterraines composées de goules dirigées par des prêtres vénérant
+d’anciens dieux cruels ou d’étranges seigneurs-démons de la faim.
+
+Les habitudes alimentaires de ces goules « civilisées » n’en sont pas
+pour autant moins horribles. En fait, l’idée d’une table bien dressée
+lors d’un banquet de goules est peut-être même plus terrifiante que
+celle d’un repas fraîchement extrait de son cercueil.
+
+====Blême====
+
+Les blêmes sont des goules qui possèdent l’archétype « évolué ». La
+paralysie des blêmes affectent même les elfes. Les blêmes se regroupent
+en meutes ou dirigent des bandes de goules normales. L’odeur de mort
+et de corruption qui émane de ces créatures est si puissante qu’elles
+gagnent la capacité extraordinaire de [[puanteur]] (rayon de 3 m, [[Vigueur]]
+DD 15 annule, [[fiévreux]] pendant 1d6+4 minutes).
+
+====Lacédon====
+
+Ces cousins aquatiques des goules vivent près des récifs
+cachés et des dangers qui menacent les
+navires. Les lacédons ont une vitesse de
+déplacement de base de 9 mètres et
+une vitesse de nage de 9 mètres.
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Goule</fullName>
+</wikiPage>

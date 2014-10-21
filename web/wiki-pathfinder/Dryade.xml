@@ -1,0 +1,191 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Dryade</title>
+  <categories><category>Pathfinder-RPG.Bestiaire</category><category>Pathfinder-RPG.Monstre</category><category>Pathfinder-RPG.Règles officielles</category></categories>
+  <lastModified>2013-02-07 23:24:39Z</lastModified>
+  <version>5</version>
+  <inLinks><link>Pathfinder-RPG.Glossaire des monstres</link><link>Pathfinder-RPG.Liste de monstres par FP</link><link>Pathfinder-RPG.Liste de monstres par milieu naturel</link><link>Pathfinder-RPG.Liste de monstres par type</link><link>Pathfinder-RPG.Monstres</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.type Fée</link><link>Pathfinder-RPG.vision nocturne</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Communication avec les plantes</link><link>Pathfinder-RPG.Enchevêtrement</link><link>Pathfinder-RPG.Façonnage du bois</link><link>Pathfinder-RPG.Forme darbre</link><link>Pathfinder-RPG.Charme-personne</link><link>Pathfinder-RPG.Sommeil profond</link><link>Pathfinder-RPG.Voyage par les arbres</link><link>Pathfinder-RPG.Suggestion</link><link>Pathfinder-RPG.Attaque en finesse</link><link>Pathfinder-RPG.Discret</link><link>Pathfinder-RPG.Vigueur surhumaine</link><link>Pathfinder-RPG.Artisanat</link><link>Pathfinder-RPG.Connaissances</link><link>Pathfinder-RPG.Discrétion</link><link>Pathfinder-RPG.Dressage</link><link>Pathfinder-RPG.Escalade</link><link>Pathfinder-RPG.Évasion</link><link>Pathfinder-RPG.Survie</link><link>Pathfinder-RPG.Fiévreux</link><link>Pathfinder-RPG.Vigueur</link><link>Pathfinder-RPG.DD</link><link>Pathfinder-RPG.Nauséeux</link><link>Pathfinder-RPG.affaiblissement temporaire</link><link>Pathfinder-RPG.Constitution</link><link>Pathfinder-RPG.Volonté</link><link>Pathfinder-RPG.Druide</link><link>Pathfinder-RPG.empathie sauvage</link><link>Pathfinder-RPG.Fusion dans la pierre</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Dryade&lt;div style=&quot;float:right;&quot;&gt;FP 3&lt;/div&gt;&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Bestiaire p.120&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 800
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-F&#233;e.html&quot; title=&quot;F&#233;e&quot;&gt;F&#233;e&lt;/a&gt; de taille M, CB
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +4 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Nocturne-(Capacit&#233;).html&quot; title=&quot;vision nocturne&quot;&gt;vision nocturne&lt;/a&gt; ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +11
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 17, contact 14, pris au d&#233;pourvu 13 (Dex +4, naturelle +3)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 27 (6d6+6)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +9, &lt;b&gt;Vig&lt;/b&gt; +5, &lt;b&gt;Vol&lt;/b&gt; +7
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;RD&lt;/b&gt; 5/fer froid 
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Faiblesses&lt;/b&gt; arbre li&#233;
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 9 m (6 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; dague, +7 (1d4)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Distance&lt;/b&gt; arc long de ma&#238;tre, +8 (1d8)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Pouvoirs magiques&lt;/b&gt; (NLS 6&lt;sup&gt;e&lt;/sup&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+Constant — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Communication-Avec-Les-Plantes.html&quot; title=&quot;Communication avec les plantes&quot;&gt;communication avec les plantes&lt;/a&gt;&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+&#192; volont&#233; — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Enchev&#234;trement.html&quot; title=&quot;Enchev&#234;trement&quot;&gt;enchev&#234;trement&lt;/a&gt;&lt;/i&gt; (DD 15), &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Fa&#231;onnage-Du-Bois.html&quot; title=&quot;Fa&#231;onnage du bois&quot;&gt;fa&#231;onnage du bois&lt;/a&gt;&lt;/i&gt; (1/2 kg uniquement), &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Forme-Darbre.html&quot; title=&quot;Forme d&amp;#39;arbre&quot;&gt;forme d&#39;arbre&lt;/a&gt;&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+3/jour — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Charme-Personne.html&quot; title=&quot;Charme-personne&quot;&gt;charme-personne&lt;/a&gt;&lt;/i&gt; (DD 15), &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Sommeil-Profond.html&quot; title=&quot;Sommeil profond&quot;&gt;sommeil profond&lt;/a&gt;&lt;/i&gt; (DD 17), &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Voyage-Par-Les-Arbres.html&quot; title=&quot;Voyage par les arbres&quot;&gt;voyage par les arbres&lt;/a&gt;&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+1/jour — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Suggestion.html&quot; title=&quot;Suggestion&quot;&gt;suggestion&lt;/a&gt;&lt;/i&gt; (DD 17)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 10, &lt;b&gt;Dex&lt;/b&gt; 19, &lt;b&gt;Con&lt;/b&gt; 13, &lt;b&gt;Int&lt;/b&gt; 14, &lt;b&gt;Sag&lt;/b&gt; 15, &lt;b&gt;Cha&lt;/b&gt; 18
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +3, &lt;b&gt;BMO&lt;/b&gt; +3, &lt;b&gt;DMD&lt;/b&gt; 17
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Attaque-En-Finesse.html&quot; title=&quot;Attaque en finesse&quot;&gt;Attaque en finesse&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Discret.html&quot; title=&quot;Discret&quot;&gt;Discret&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Vigueur-Surhumaine.html&quot; title=&quot;Vigueur surhumaine&quot;&gt;Vigueur surhumaine&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Artisanat.html&quot; title=&quot;Artisanat&quot;&gt;Artisanat&lt;/a&gt; (sculpture) +11, &lt;a class=&quot;pagelink&quot; href=&quot;Connaissances.html&quot; title=&quot;Connaissances&quot;&gt;Connaissances&lt;/a&gt; (nature) +11, &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; +15, &lt;a class=&quot;pagelink&quot; href=&quot;Dressage.html&quot; title=&quot;Dressage&quot;&gt;Dressage&lt;/a&gt; +10, &lt;a class=&quot;pagelink&quot; href=&quot;Escalade.html&quot; title=&quot;Escalade&quot;&gt;Escalade&lt;/a&gt; +9, &lt;a class=&quot;pagelink&quot; href=&quot;&#201;vasion.html&quot; title=&quot;&#201;vasion&quot;&gt;&#201;vasion&lt;/a&gt; +15, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +11, &lt;a class=&quot;pagelink&quot; href=&quot;Survie.html&quot; title=&quot;Survie&quot;&gt;Survie&lt;/a&gt; +8 ; &lt;b&gt;Modificateurs raciaux&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Artisanat.html&quot; title=&quot;Artisanat&quot;&gt;Artisanat&lt;/a&gt; +6 (bois)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Langues&lt;/b&gt; commun, elfique, sylvestre ; &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Communication-Avec-Les-Plantes.html&quot; title=&quot;Communication avec les plantes&quot;&gt;communication avec les plantes&lt;/a&gt;&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Particularit&#233;s&lt;/b&gt; empathie sauvage, fusion dans les arbres, travail du bois
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; for&#234;ts temp&#233;r&#233;es
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation sociale&lt;/b&gt; solitaire, couple ou bosquet (3-8)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; standard (arc long de ma&#238;tre avec 20 fl&#232;ches, dague, autres tr&#233;sors)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Capacit&#233;s sp&#233;ciales&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Arbre li&#233; (Sur).&lt;/b&gt; Chaque dryade entretient un lien mystique avec un arbre de grande taille et ne peut jamais s&#39;en &#233;loigner de plus de 300 m (200 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;). La plupart des arbres &#224; dryades sont des ch&#234;nes, mais il peut s&#39;agir d&#39;autres esp&#232;ces &#233;galement (l&#39;esp&#232;ce de l&#39;arbre &#224; souvent une influence subtile sur la personnalit&#233; et l&#39;apparence de la dryade). Si une dryade s&#39;&#233;loigne de plus de 300 m (200 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) de son arbre li&#233;, elle devient imm&#233;diatement &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables.html#Fi&#233;vreux&quot; title=&quot;Fi&#233;vreux&quot;&gt;fi&#233;vreuse&lt;/a&gt;. Chaque heure, elle doit effectuer un jet de &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;Vigueur&quot;&gt;Vigueur&lt;/a&gt; de &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DEGREDEDIFFICULTE&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; 15 pour ne pas &#234;tre &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables.html#Naus&#233;eux&quot; title=&quot;Naus&#233;eux&quot;&gt;naus&#233;euse&lt;/a&gt; pendant 1 heure. Si elle reste &#224; plus de 300 m (200 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) de son arbre pendant 24 heures, elle subit un &lt;a class=&quot;pagelink&quot; href=&quot;Affaiblissement-Temporaire-(Capacit&#233;).html&quot; title=&quot;affaiblissement temporaire&quot;&gt;affaiblissement temporaire&lt;/a&gt; de 1d6 points de &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#CONSTITUTION&quot; title=&quot;La Constitution&quot;&gt;Constitution&lt;/a&gt;, qui augmente de 1d6 points par jour suppl&#233;mentaire jusqu&#39;&#224; ce que la s&#233;paration entra&#238;ne la mort de la dryade. Une dryade peut tisser un nouveau lien avec un autre arbre en r&#233;alisant un rituel qui dure 24 heures et en r&#233;ussissant un jet de &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;Volont&#233;&quot;&gt;Volont&#233;&lt;/a&gt; contre un &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DEGREDEDIFFICULTE&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; de 20.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Empathie sauvage (Sur).&lt;/b&gt; Cette capacit&#233; fonctionne comme l&#39;aptitude de &lt;a class=&quot;pagelink&quot; href=&quot;Druide.html&quot; title=&quot;Le druide&quot;&gt;druides&lt;/a&gt; du m&#234;me nom si ce n&#39;est que la dryade poss&#232;de un bonus racial de +6 au test. Les dryades qui poss&#232;dent des niveaux de &lt;a class=&quot;pagelink&quot; href=&quot;Druide.html&quot; title=&quot;Le druide&quot;&gt;druides&lt;/a&gt; ajoutent ce bonus racial &#224; leurs tests d&#39;&lt;a class=&quot;pagelink&quot; href=&quot;Druide.html#EMPATHIESAUVAGE&quot; title=&quot;empathie sauvage&quot;&gt;empathie sauvage&lt;/a&gt;.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Fusion dans les arbres (Sur).&lt;/b&gt; Les dryades peuvent se fondre dans n&#39;importe quel arbre &#224; la mani&#232;re d&#39;un sort de &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Fusion-Dans-La-Pierre.html&quot; title=&quot;Fusion dans la pierre&quot;&gt;fusion dans la pierre&lt;/a&gt;&lt;/i&gt;. Elles peuvent rester au sein de l&#39;arbre aussi longtemps qu&#39;elles le veulent.
+&lt;/div&gt; 
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Travail du bois (Ext).&lt;/b&gt; Les dryades b&#233;n&#233;ficient d&#39;un bonus racial de +6 aux tests d&#39;&lt;a class=&quot;pagelink&quot; href=&quot;Artisanat.html&quot; title=&quot;Artisanat&quot;&gt;Artisanat&lt;/a&gt; relatifs au bois et on consid&#232;re qu&#39;elles disposent toujours d&#39;outils de ma&#238;tre pour le travail du bois lors de ces tests.
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;td&gt;&lt;div&gt;&lt;i&gt;La chair de cette femme &#233;trange et magnifique semble &#234;tre faite de bois. Sa chevelure de couleur vive ressemble &#224; un v&#233;g&#233;tal en fleurs.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Les dryades sont les f&#233;es des arbres. Elles pr&#233;f&#232;rent vivre dans les
+for&#234;ts isol&#233;es, &#224; l’&#233;cart des b&#251;cherons humano&#239;des. Elles s’int&#233;ressent
+avant tout &#224; leur propre survie, &#224; celle de leurs for&#234;ts ch&#233;ries et ont
+d&#233;j&#224; utilis&#233; par le pass&#233; leur magie pour contraindre des voyageurs
+&#224; leur venir en aide, &#224; accomplir des t&#226;ches qu’elles ne pouvaient pas
+effectuer elles-m&#234;mes. &lt;br /&gt;&lt;br /&gt;Elles se montrent g&#233;n&#233;ralement amicales
+envers les druides et les r&#244;deurs non mal&#233;fiques, car elles retrouvent
+en eux le m&#234;me respect ou la m&#234;me empathie envers la nature.
+M&#234;me si ces gentilles protectrices des arbres ne disposent pas de
+puissantes capacit&#233;s de destruction directe, elles peuvent tendre des
+pi&#232;ges ou affaiblir ceux qui menacent leur domaine ou transformer
+leurs ennemis en alli&#233;s. &lt;br /&gt;&lt;br /&gt;Certaines d’entre elles gardent un ou
+plusieurs individus charm&#233;s sur leur territoire afin de combattre
+ou de repousser les attaquants. Apr&#232;s avoir mis leurs ennemis hors
+combat, les alli&#233;s de la dryade les ram&#232;nent g&#233;n&#233;ralement &#224; l’or&#233;e
+de la for&#234;t et les abandonnent l&#224;, mais ceux qui sont mal&#233;fiques ou
+extr&#234;mement hostiles sont tu&#233;s d&#232;s la fin de l’affrontement.
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Dryade|FP 3}
+{s:pucem|Fée|Forêt-jungle|Tempéré}
+{s:BDTexte|''Source : Bestiaire p.120''}
+{s:BDTexte|'''PX''' 800}
+{s:BDTexte|[[type Fée|Fée]] de taille M, CB}
+{s:BDTexte|'''Init''' +4 ; '''Sens''' [[vision nocturne]] ; [[Perception]] +11}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 17, contact 14, pris au dépourvu 13 (Dex +4, naturelle +3)}
+{s:BDTexte|'''pv''' 27 (6d6+6)}
+{s:BDTexte|'''Réf''' +9, '''Vig''' +5, '''Vol''' +7}
+{s:BDTexte|'''RD''' 5/fer froid }
+{s:BDTexte|'''Faiblesses''' arbre lié}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 9 m (6 {s:c})}
+{s:BDTexte|'''Corps à corps''' dague, +7 (1d4)}
+{s:BDTexte|'''Distance''' arc long de maître, +8 (1d8)}
+{s:BDTexte|'''Pouvoirs magiques''' (NLS 6<sup>e</sup>)}
+{s:BDSorts|Constant — ''[[communication avec les plantes]]''}
+{s:BDSorts|À volonté — ''[[enchevêtrement]]'' (DD 15), ''[[façonnage du bois]]'' (1/2 kg uniquement), ''[[forme darbre|forme d'arbre]]''}
+{s:BDSorts|3/jour — ''[[charme-personne]]'' (DD 15), ''[[sommeil profond]]'' (DD 17), ''[[voyage par les arbres]]''}
+{s:BDSorts|1/jour — ''[[suggestion]]'' (DD 17)}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 10, '''Dex''' 19, '''Con''' 13, '''Int''' 14, '''Sag''' 15, '''Cha''' 18}
+{s:BDTexte|'''BBA''' +3, '''BMO''' +3, '''DMD''' 17}
+{s:BDTexte|'''Dons''' [[Attaque en finesse]], [[Discret]], [[Vigueur surhumaine]]}
+{s:BDTexte|'''Compétences''' [[Artisanat]] (sculpture) +11, [[Connaissances]] (nature) +11, [[Discrétion]] +15, [[Dressage]] +10, [[Escalade]] +9, [[Évasion]] +15, [[Perception]] +11, [[Survie]] +8 ; '''Modificateurs raciaux''' [[Artisanat]] +6 (bois)}
+{s:BDTexte|'''Langues''' commun, elfique, sylvestre ; ''[[communication avec les plantes]]''}
+{s:BDTexte|'''Particularités''' empathie sauvage, fusion dans les arbres, travail du bois}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' forêts tempérées}
+{s:BDTexte|'''Organisation sociale''' solitaire, couple ou bosquet (3-8)}
+{s:BDTexte|'''Trésor''' standard (arc long de maître avec 20 flèches, dague, autres trésors)}
+{s:BDSousTitre|Capacités spéciales}
+{s:BDTexte|'''Arbre lié (Sur).''' Chaque dryade entretient un lien mystique avec un arbre de grande taille et ne peut jamais s'en éloigner de plus de 300 m (200 {s:c}). La plupart des arbres à dryades sont des chênes, mais il peut s'agir d'autres espèces également (l'espèce de l'arbre à souvent une influence subtile sur la personnalité et l'apparence de la dryade). Si une dryade s'éloigne de plus de 300 m (200 {s:c}) de son arbre lié, elle devient immédiatement [[fiévreux|fiévreuse]]. Chaque heure, elle doit effectuer un jet de [[Vigueur]] de [[DD]] 15 pour ne pas être [[nauséeux|nauséeuse]] pendant 1 heure. Si elle reste à plus de 300 m (200 {s:c}) de son arbre pendant 24 heures, elle subit un [[affaiblissement temporaire]] de 1d6 points de [[Constitution]], qui augmente de 1d6 points par jour supplémentaire jusqu'à ce que la séparation entraîne la mort de la dryade. Une dryade peut tisser un nouveau lien avec un autre arbre en réalisant un rituel qui dure 24 heures et en réussissant un jet de [[Volonté]] contre un [[DD]] de 20.}
+{s:BDTexte|'''Empathie sauvage (Sur).''' Cette capacité fonctionne comme l'aptitude de [[druide|druides]] du même nom si ce n'est que la dryade possède un bonus racial de +6 au test. Les dryades qui possèdent des niveaux de [[druide|druides]] ajoutent ce bonus racial à leurs tests d'[[empathie sauvage]].}
+{s:BDTexte|'''Fusion dans les arbres (Sur).''' Les dryades peuvent se fondre dans n'importe quel arbre à la manière d'un sort de ''[[fusion dans la pierre]]''. Elles peuvent rester au sein de l'arbre aussi longtemps qu'elles le veulent.} 
+{s:BDTexte|'''Travail du bois (Ext).''' Les dryades bénéficient d'un bonus racial de +6 aux tests d'[[Artisanat]] relatifs au bois et on considère qu'elles disposent toujours d'outils de maître pour le travail du bois lors de ces tests.}
+</div>
+</td><td><div>''La chair de cette femme étrange et magnifique semble être faite de bois. Sa chevelure de couleur vive ressemble à un végétal en fleurs.''
+
+Les dryades sont les fées des arbres. Elles préfèrent vivre dans les
+forêts isolées, à l’écart des bûcherons humanoïdes. Elles s’intéressent
+avant tout à leur propre survie, à celle de leurs forêts chéries et ont
+déjà utilisé par le passé leur magie pour contraindre des voyageurs
+à leur venir en aide, à accomplir des tâches qu’elles ne pouvaient pas
+effectuer elles-mêmes. 
+
+Elles se montrent généralement amicales
+envers les druides et les rôdeurs non maléfiques, car elles retrouvent
+en eux le même respect ou la même empathie envers la nature.
+Même si ces gentilles protectrices des arbres ne disposent pas de
+puissantes capacités de destruction directe, elles peuvent tendre des
+pièges ou affaiblir ceux qui menacent leur domaine ou transformer
+leurs ennemis en alliés. 
+
+Certaines d’entre elles gardent un ou
+plusieurs individus charmés sur leur territoire afin de combattre
+ou de repousser les attaquants. Après avoir mis leurs ennemis hors
+combat, les alliés de la dryade les ramènent généralement à l’orée
+de la forêt et les abandonnent là, mais ceux qui sont maléfiques ou
+extrêmement hostiles sont tués dès la fin de l’affrontement.
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Dryade</fullName>
+</wikiPage>

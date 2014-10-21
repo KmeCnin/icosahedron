@@ -1,0 +1,183 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Le gardien du savoir</title>
+  <categories><category>Pathfinder-RPG.Classe de prestige</category></categories>
+  <lastModified>2011-06-02 19:35:55Z</lastModified>
+  <version>8</version>
+  <inLinks><link>Pathfinder-RPG.Classes de prestige</link><link>Pathfinder-RPG.Gardien du savoir</link><link>Pathfinder-RPG.MainPage</link><link>Pathfinder-RPG.temp-MainPage</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Divination</link><link>Pathfinder-RPG.Magicien</link><link>Pathfinder-RPG.Prêtre</link><link>Pathfinder-RPG.Gardien du savoir</link><link>Pathfinder-RPG.N</link><link>Pathfinder-RPG.NB</link><link>Pathfinder-RPG.NM</link><link>Pathfinder-RPG.Connaissances</link><link>Pathfinder-RPG.Dons</link><link>Pathfinder-RPG.Talent</link><link>Pathfinder-RPG.Art de la magie</link><link>Pathfinder-RPG.Diplomatie</link><link>Pathfinder-RPG.Dressage</link><link>Pathfinder-RPG.Estimation</link><link>Pathfinder-RPG.Linguistique</link><link>Pathfinder-RPG.Premiers secours</link><link>Pathfinder-RPG.Représentation</link><link>Pathfinder-RPG.Utilisation dObjets Magiques</link><link>Pathfinder-RPG.Intelligence</link><link>Pathfinder-RPG.Compétences</link><link>Pathfinder-RPG.Robustesse</link><link>Pathfinder-RPG.Volonté</link><link>Pathfinder-RPG.Vigueur</link><link>Pathfinder-RPG.Réflexes</link><link>Pathfinder-RPG.CA</link><link>Pathfinder-RPG.Barde</link><link>Pathfinder-RPG.Mythes et légendes</link><link>Pathfinder-RPG.Analyse denchantement</link></outLinks>
+  <body><![CDATA[&lt;br /&gt;&lt;br /&gt;&lt;i&gt;Le gardien du savoir rassemble et prot&#232;ge les secrets. Les mots &#233;crits le tourmentent et ses seules passions dans la vie sont la cryptographie et la connaissance des myst&#232;res. L&#39;adage qui dit que le savoir est le pouvoir fait force de loi &#224; ses yeux et il abandonne souvent la richesse mat&#233;rielle et la gloire personnelle au profit de renseignements insolites. Cette qu&#234;te sans fin l&#39;emm&#232;ne tr&#232;s pr&#232;s de l&#39;inaccessible but qu&#39;il s&#39;est fix&#233; : la perfection par l&#39;illumination. Rejetant souvent ce qu&#39;il consid&#232;re n&#39;&#234;tre que les vaines recherches et les plaisirs &#233;ph&#233;m&#232;res de voisins qui ne voient pas plus loin que le bout de leur nez, le gardien du savoir pense que seule l&#39;acquisition de la puissance intellectuelle vaut la peine dans la vie. Apr&#232;s tout, la richesse se d&#233;pense, les passions s&#39;&#233;teignent et le pouvoir du corps dispara&#238;t avec l&#39;&#226;ge. Seule la capacit&#233; de l&#39;esprit &#224; s&#39;am&#233;liorer avec le temps est infinie.&lt;br /&gt;&lt;br /&gt;La classe de prestige du gardien du savoir n&#39;a que faire de ceux qui n&#39;ont pas embrass&#233; une carri&#232;re de lanceur de sorts. En effet, avant de consacrer sa vie &#224; l&#39;&#233;tude et aux traditions, un personnage doit d&#39;abord ma&#238;triser plusieurs sorts de l&#39;&#233;cole de &lt;a class=&quot;pagelink&quot; href=&quot;Divination.html&quot; title=&quot;Divination&quot;&gt;divination&lt;/a&gt;. La plupart des gardiens du savoir ont d&#233;but&#233; comme &lt;a class=&quot;pagelink&quot; href=&quot;Magicien.html&quot; title=&quot;Le magicien&quot;&gt;magiciens&lt;/a&gt; ou &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#234;tre.html&quot; title=&quot;Le pr&#234;tre&quot;&gt;pr&#234;tres&lt;/a&gt;, mais il suffit en fait d&#39;&#234;tre capable de lancer le nombre de sorts de &lt;a class=&quot;pagelink&quot; href=&quot;Divination.html&quot; title=&quot;Divination&quot;&gt;divination&lt;/a&gt; requis pour en devenir un.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;&lt;a name=&quot;TABLEGARDIENDUSAVOIR&quot;&gt;&lt;/a&gt;
+&lt;center&gt;
+&lt;table CLASS=&quot;tablo&quot;&gt;&lt;caption&gt;Le gardien du savoir&lt;/caption&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td&gt;Niveau&lt;/td&gt;&lt;td&gt;BBA&lt;/td&gt;&lt;td&gt;R&#233;flexes&lt;/td&gt;&lt;td&gt;Vigueur&lt;/td&gt;&lt;td&gt;Volont&#233;&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;Sp&#233;cial&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;Nombre de sorts par jour&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier&quot;&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;+0&lt;/td&gt;&lt;td&gt;+0&lt;/td&gt;&lt;td&gt;+0&lt;/td&gt;&lt;td&gt;+1&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Gardien-Du-Savoir.html#SECRET&quot; title=&quot;Le gardien du savoir&quot;&gt;Secret&lt;/a&gt;&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Gardien-Du-Savoir.html#SORTS&quot; title=&quot;Le gardien du savoir&quot;&gt;+1 niveau dans la classe de lanceur de sorts existante&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;+1&lt;/td&gt;&lt;td&gt;+1&lt;/td&gt;&lt;td&gt;+1&lt;/td&gt;&lt;td&gt;+1&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Gardien-Du-Savoir.html#SAVOIR&quot; title=&quot;Le gardien du savoir&quot;&gt;Savoir&lt;/a&gt;&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Gardien-Du-Savoir.html#SORTS&quot; title=&quot;Le gardien du savoir&quot;&gt;+1 niveau dans la classe de lanceur de sorts existante&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;+1&lt;/td&gt;&lt;td&gt;+1&lt;/td&gt;&lt;td&gt;+1&lt;/td&gt;&lt;td&gt;+2&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Gardien-Du-Savoir.html#SECRET&quot; title=&quot;Le gardien du savoir&quot;&gt;Secret&lt;/a&gt;&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Gardien-Du-Savoir.html#SORTS&quot; title=&quot;Le gardien du savoir&quot;&gt;+1 niveau dans la classe de lanceur de sorts existante&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;+2&lt;/td&gt;&lt;td&gt;+1&lt;/td&gt;&lt;td&gt;+1&lt;/td&gt;&lt;td&gt;+2&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Gardien-Du-Savoir.html#LANGAGESUPPLEMENTAIRE&quot; title=&quot;Le gardien du savoir&quot;&gt;Langage suppl&#233;mentaire&lt;/a&gt;&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Gardien-Du-Savoir.html#SORTS&quot; title=&quot;Le gardien du savoir&quot;&gt;+1 niveau dans la classe de lanceur de sorts existante&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;+2&lt;/td&gt;&lt;td&gt;+2&lt;/td&gt;&lt;td&gt;+2&lt;/td&gt;&lt;td&gt;+3&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Gardien-Du-Savoir.html#SECRET&quot; title=&quot;Le gardien du savoir&quot;&gt;Secret&lt;/a&gt;&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Gardien-Du-Savoir.html#SORTS&quot; title=&quot;Le gardien du savoir&quot;&gt;+1 niveau dans la classe de lanceur de sorts existante&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;+3&lt;/td&gt;&lt;td&gt;+2&lt;/td&gt;&lt;td&gt;+2&lt;/td&gt;&lt;td&gt;+3&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Gardien-Du-Savoir.html#SAVOIRSUPERIEUR&quot; title=&quot;Le gardien du savoir&quot;&gt;Savoir sup&#233;rieur&lt;/a&gt;&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Gardien-Du-Savoir.html#SORTS&quot; title=&quot;Le gardien du savoir&quot;&gt;+1 niveau dans la classe de lanceur de sorts existante&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;7&lt;/td&gt;&lt;td&gt;+3&lt;/td&gt;&lt;td&gt;+2&lt;/td&gt;&lt;td&gt;+2&lt;/td&gt;&lt;td&gt;+4&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Gardien-Du-Savoir.html#SECRET&quot; title=&quot;Le gardien du savoir&quot;&gt;Secret&lt;/a&gt;&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Gardien-Du-Savoir.html#SORTS&quot; title=&quot;Le gardien du savoir&quot;&gt;+1 niveau dans la classe de lanceur de sorts existante&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;8&lt;/td&gt;&lt;td&gt;+4&lt;/td&gt;&lt;td&gt;+3&lt;/td&gt;&lt;td&gt;+3&lt;/td&gt;&lt;td&gt;+4&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Gardien-Du-Savoir.html#LANGAGESUPPLEMENTAIRE&quot; title=&quot;Le gardien du savoir&quot;&gt;Langage suppl&#233;mentaire&lt;/a&gt;&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Gardien-Du-Savoir.html#SORTS&quot; title=&quot;Le gardien du savoir&quot;&gt;+1 niveau dans la classe de lanceur de sorts existante&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;9&lt;/td&gt;&lt;td&gt;+4&lt;/td&gt;&lt;td&gt;+3&lt;/td&gt;&lt;td&gt;+3&lt;/td&gt;&lt;td&gt;+5&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Gardien-Du-Savoir.html#SECRET&quot; title=&quot;Le gardien du savoir&quot;&gt;Secret&lt;/a&gt;&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Gardien-Du-Savoir.html#SORTS&quot; title=&quot;Le gardien du savoir&quot;&gt;+1 niveau dans la classe de lanceur de sorts existante&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;+5&lt;/td&gt;&lt;td&gt;+3&lt;/td&gt;&lt;td&gt;+3&lt;/td&gt;&lt;td&gt;+5&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Gardien-Du-Savoir.html#SAVOIRDIVIN&quot; title=&quot;Le gardien du savoir&quot;&gt;Savoir divin&lt;/a&gt;&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Gardien-Du-Savoir.html#SORTS&quot; title=&quot;Le gardien du savoir&quot;&gt;+1 niveau dans la classe de lanceur de sorts existante&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/center&gt;&lt;br /&gt;&lt;br /&gt;&lt;b&gt;R&#244;le.&lt;/b&gt; Un gardien du savoir consacre sa vie &#224; l&#39;&#233;tude, &#224; la recherche et au travail sur le terrain. Si les deux premi&#232;res t&#226;ches confirment sa r&#233;putation de rat de biblioth&#232;que reclus, la derni&#232;re oblige le personnage &#224; chercher l&#39;aide d&#39;aventuriers qui, en &#233;change d&#39;un arrangement b&#233;n&#233;fique aux deux parties, fournissent &#224; l&#39;&#233;rudit la protection dont il a besoin pendant ses recherches loin de ses livres. En retour, il se r&#233;v&#232;le une source d&#39;informations et une force de frappe magique non n&#233;gligeables pour le groupe qui l&#39;accompagne. Certains gardiens du savoir tournent en ridicule ceux d&#39;entre eux qui craignent de quitter la s&#233;curit&#233; de leur temple ou de leur biblioth&#232;que, et soulignent qu&#39;on ne trouve qu&#39;un savoir ancien dans les livres. On ne peut acqu&#233;rir de nouvelles connaissances qu&#39;en les cherchant dans le monde. Ces &#233;rudits plus actifs ne d&#233;daignent pas se joindre &#224; un groupe d&#39;aventuriers, satisfaits des connaissances qu&#39;ils pourront r&#233;colter tout au long du voyage.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Alignement.&lt;/b&gt; La plupart des gardiens du savoir ne s&#39;encombrent pas de philosophies aussi vaines et perturbantes que l&#39;&#233;thique. Ils ont donc tendance &#224; &#234;tre &lt;a class=&quot;pagelink&quot; href=&quot;Alignement.html#N&quot; title=&quot;N&quot;&gt;Neutres&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Alignement.html#NB&quot; title=&quot;NB&quot;&gt;Neutres Bons&lt;/a&gt; ou &lt;a class=&quot;pagelink&quot; href=&quot;Alignement.html#NM&quot; title=&quot;NM&quot;&gt;Neutres Mauvais&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;D&#233;s de vie.&lt;/b&gt; d6.&lt;br /&gt;&lt;br /&gt;&lt;h2 class=&quot;separator&quot;&gt; Conditions &lt;a class=&quot;headeranchor&quot; id=&quot;Conditions_7&quot; href=&quot;#Conditions_7&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;Pour devenir gardien du savoir, il faut satisfaire aux conditions suivantes :&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Comp&#233;tences.&lt;/b&gt; Rang 7 dans deux comp&#233;tences de &lt;a class=&quot;pagelink&quot; href=&quot;Connaissances.html&quot; title=&quot;Connaissances&quot;&gt;Connaissances&lt;/a&gt; (sp&#233;cialit&#233; au choix).&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Dons.&lt;/b&gt; Trois &lt;a class=&quot;pagelink&quot; href=&quot;Dons.html#DONMETAMAGIE&quot; title=&quot;Les dons&quot;&gt;dons de m&#233;tamagie&lt;/a&gt; ou de &lt;a class=&quot;pagelink&quot; href=&quot;Dons.html#DONCREATION&quot; title=&quot;Les dons&quot;&gt;cr&#233;ation d&#39;objet&lt;/a&gt;, plus &lt;a class=&quot;pagelink&quot; href=&quot;Talent.html&quot; title=&quot;Talent&quot;&gt;Talent&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Connaissances.html&quot; title=&quot;Connaissances&quot;&gt;Connaissances&lt;/a&gt; (sp&#233;cialit&#233; au choix)).&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Sorts.&lt;/b&gt; Facult&#233; de lancer au moins sept sorts de &lt;a class=&quot;pagelink&quot; href=&quot;Divination.html&quot; title=&quot;Divination&quot;&gt;divination&lt;/a&gt;, dont un du 3&lt;sup&gt;e&lt;/sup&gt; niveau (ou plus).&lt;br /&gt;&lt;br /&gt;&lt;h2 class=&quot;separator&quot;&gt; Comp&#233;tences de la classe &lt;a class=&quot;headeranchor&quot; id=&quot;Comp&#233;tences_de_la_classe_8&quot; href=&quot;#Comp&#233;tences_de_la_classe_8&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;Les comp&#233;tences du gardien du savoir (et la caract&#233;ristique dont chacune d&#233;pend) sont : &lt;a class=&quot;pagelink&quot; href=&quot;Art-De-La-Magie.html&quot; title=&quot;Art de la magie&quot;&gt;Art de la magie&lt;/a&gt; (Int), &lt;a class=&quot;pagelink&quot; href=&quot;Connaissances.html&quot; title=&quot;Connaissances&quot;&gt;Connaissances&lt;/a&gt; (au choix, chaque comp&#233;tence devant &#234;tre prise s&#233;par&#233;ment) (Int), &lt;a class=&quot;pagelink&quot; href=&quot;Diplomatie.html&quot; title=&quot;Diplomatie&quot;&gt;Diplomatie&lt;/a&gt; (Cha), &lt;a class=&quot;pagelink&quot; href=&quot;Dressage.html&quot; title=&quot;Dressage&quot;&gt;Dressage&lt;/a&gt; (Cha), &lt;a class=&quot;pagelink&quot; href=&quot;Estimation.html&quot; title=&quot;Estimation&quot;&gt;Estimation&lt;/a&gt; (Int), &lt;a class=&quot;pagelink&quot; href=&quot;Linguistique.html&quot; title=&quot;Linguistique&quot;&gt;Linguistique&lt;/a&gt; (Int), &lt;a class=&quot;pagelink&quot; href=&quot;Premiers-Secours.html&quot; title=&quot;Premiers secours&quot;&gt;Premiers secours&lt;/a&gt; (Sag), &lt;a class=&quot;pagelink&quot; href=&quot;Repr&#233;sentation.html&quot; title=&quot;Repr&#233;sentation&quot;&gt;Repr&#233;sentation&lt;/a&gt; (Cha), &lt;a class=&quot;pagelink&quot; href=&quot;Utilisation-Dobjets-Magiques.html&quot; title=&quot;Utilisation d&amp;#39;objets magiques&quot;&gt;Utilisation d&#39;objets magiques&lt;/a&gt; (Cha)&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Points de comp&#233;tence &#224; chaque niveau.&lt;/b&gt; 4 + modificateur d’&lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#INTELLIGENCE&quot; title=&quot;L&amp;#39;Intelligence&quot;&gt;Intelligence&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;&lt;h2 class=&quot;separator&quot;&gt; Caract&#233;ristiques de la classe &lt;a class=&quot;headeranchor&quot; id=&quot;Caract&#233;ristiques_de_la_classe_9&quot; href=&quot;#Caract&#233;ristiques_de_la_classe_9&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;Voici les particularit&#233;s et aptitudes de la classe de prestige du gardien du savoir.&lt;br /&gt;&lt;br /&gt;&lt;h3 class=&quot;separator&quot;&gt; Armes et armures &lt;a class=&quot;headeranchor&quot; id=&quot;Armes_et_armures_0&quot; href=&quot;#Armes_et_armures_0&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;Le gardien du savoir n’est pas form&#233; au maniement des armes ni au port des armures.&lt;br /&gt;&lt;br /&gt;&lt;a name=&quot;SORTS&quot;&gt;&lt;/a&gt;
+&lt;h3 class=&quot;separator&quot;&gt; Sorts &lt;a class=&quot;headeranchor&quot; id=&quot;Sorts_1&quot; href=&quot;#Sorts_1&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;&#192; chaque niveau, un gardien du savoir gagne de nouveaux sorts quotidiens de la m&#234;me mani&#232;re que s’il avait gagn&#233; un niveau dans une classe de lanceur de sorts qui &#233;tait sienne avant de devenir gardien du savoir. Il ne gagne cependant pas les autres avantages fournis par ce gain de niveau, &#224; l’exception du nombre de sorts par jour, des sorts connus (dans le cas d’un lanceur de sorts spontan&#233;s), et de son niveau de lanceur de sorts. Si le personnage poss&#233;dait plus d’une classe de lanceur de sorts avant de devenir gardien du savoir, il doit choisir &#224; quelle classe il ajoute ce nouveau niveau pour ce qui est de d&#233;terminer les sorts quotidiens.&lt;br /&gt;&lt;br /&gt;&lt;a name=&quot;SORTS&quot;&gt;&lt;/a&gt;
+&lt;h3 class=&quot;separator&quot;&gt; Secret &lt;a class=&quot;headeranchor&quot; id=&quot;Secret_2&quot; href=&quot;#Secret_2&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;Au premier niveau et tous les deux niveaux ensuite (niveaux 3, 5, 7 et 9), le gardien du savoir peut choisir un secret de la Table des &lt;a class=&quot;pagelink&quot; href=&quot;Gardien-Du-Savoir.html#TABLESECRETS&quot; title=&quot;Le gardien du savoir&quot;&gt;Secrets du gardien du savoir&lt;/a&gt;. Son niveau et son modificateur d’&lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#INTELLIGENCE&quot; title=&quot;L&amp;#39;Intelligence&quot;&gt;Intelligence&lt;/a&gt; d&#233;terminent ceux auxquels il peut pr&#233;tendre. Aucun secret ne peut &#234;tre pris plus d’une fois.&lt;br /&gt;&lt;br /&gt;&lt;a name=&quot;TABLESECRETS&quot;&gt;&lt;/a&gt;
+&lt;center&gt;
+&lt;table CLASS=&quot;tablo&quot;&gt;&lt;caption&gt;Les secrets du gardien du savoir&lt;/caption&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td&gt;Niveau &lt;br/&gt;+ mod. Int&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;Secret&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;Effet&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier&quot;&gt;&lt;td&gt;1&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;Secret de ma&#238;trise&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;Degr&#233; de ma&#238;trise de 4 dans une &lt;a class=&quot;pagelink&quot; href=&quot;Comp&#233;tences.html&quot; title=&quot;Les comp&#233;tences&quot;&gt;comp&#233;tence&lt;/a&gt;&lt;br/&gt; que le personnage ne ma&#238;trisait pas&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;2&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;Secret de vitalit&#233;&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Robustesse.html&quot; title=&quot;Robustesse&quot;&gt;Robustesse&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;3&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;Secret de la force int&#233;rieure&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;+2 aux jets de &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;Volont&#233;&quot;&gt;Volont&#233;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;4&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;Secret de la r&#233;sistance physique&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;+2 aux jets de &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;Vigueur&quot;&gt;Vigueur&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;5&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;Secret de la vivacit&#233;&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;+2 aux jets de &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;R&#233;flexes&quot;&gt;R&#233;flexes&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;6&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;Secret du combat&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;+1 aux jets d’attaque&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;7&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;Secret de l’esquive&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;Bonus d’esquive de +1 &#224; la &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#CA&quot; title=&quot;CA&quot;&gt;CA&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;8&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;Savoir pratique&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;Don au choix&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;9&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;Arcane secret&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;1 sort en bonus du 1&lt;sup&gt;er&lt;/sup&gt; niveau*&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;10&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;Autre arcane secret&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;1 sort en bonus du 2&lt;sup&gt;e&lt;/sup&gt; niveau*&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;br /&gt;&lt;i&gt;(*) &#201;quivalent &#224; un sort en bonus offert par une caract&#233;ristique &#233;lev&#233;e.&lt;/i&gt;
+&lt;/center&gt;&lt;br /&gt;&lt;br /&gt;&lt;a name=&quot;SAVOIR&quot;&gt;&lt;/a&gt;
+&lt;h3 class=&quot;separator&quot;&gt; Savoir &lt;a class=&quot;headeranchor&quot; id=&quot;Savoir_3&quot; href=&quot;#Savoir_3&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;D&#232;s le niveau 2, le personnage ajoute la moiti&#233; de son niveau &#224; n&#39;importe quel jet de &lt;a class=&quot;pagelink&quot; href=&quot;Connaissances.html&quot; title=&quot;Connaissances&quot;&gt;Connaissances&lt;/a&gt;, et peut effectuer ce jet m&#234;me s&#39;il ne dispose pas de la comp&#233;tence appropri&#233;e. Les bonus de cette capacit&#233; se cumulent avec ceux du &lt;a class=&quot;pagelink&quot; href=&quot;Barde.html#SAVOIRBARDIQUE&quot; title=&quot;Le barde&quot;&gt;savoir bardique&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;&lt;a name=&quot;LANGAGESUPPLEMENTAIRE&quot;&gt;&lt;/a&gt;
+&lt;h3 class=&quot;separator&quot;&gt; Langage suppl&#233;mentaire &lt;a class=&quot;headeranchor&quot; id=&quot;Langage_suppl&#233;mentaire_4&quot; href=&quot;#Langage_suppl&#233;mentaire_4&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;Un gardien du savoir choisit un langage suppl&#233;mentaire au niveau 4, et un autre au niveau 8.&lt;br /&gt;&lt;br /&gt;&lt;a name=&quot;SAVOIRSUPERIEUR&quot;&gt;&lt;/a&gt;
+&lt;h3 class=&quot;separator&quot;&gt; Savoir sup&#233;rieur (Ext) &lt;a class=&quot;headeranchor&quot; id=&quot;Savoir_sup&#233;rieur_Ext_5&quot; href=&quot;#Savoir_sup&#233;rieur_Ext_5&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;Au niveau 6, le personnage acquiert la facult&#233; de comprendre la nature des objets magiques. Lorsqu&#39;il examine un objet magique pour d&#233;terminer ses propri&#233;t&#233;s, il b&#233;n&#233;ficie d&#39;un bonus de circonstances de +10 au test d’&lt;a class=&quot;pagelink&quot; href=&quot;Art-De-La-Magie.html&quot; title=&quot;Art de la magie&quot;&gt;Art de la magie&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;&lt;a name=&quot;SAVOIRDIVIN&quot;&gt;&lt;/a&gt;
+&lt;h3 class=&quot;separator&quot;&gt; Savoir divin (Ext) &lt;a class=&quot;headeranchor&quot; id=&quot;Savoir_divin_Ext_6&quot; href=&quot;#Savoir_divin_Ext_6&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;Au niveau 10, le gardien du savoir peut faire appel &#224; ses immenses connaissances une fois par jour pour b&#233;n&#233;ficier de l’effet du sort &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Mythes-Et-L&#233;gendes.html&quot; title=&quot;Mythes et l&#233;gendes&quot;&gt;mythes et l&#233;gendes&lt;/a&gt;&lt;/i&gt; ou &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Analyse-Denchantement.html&quot; title=&quot;Analyse d&amp;#39;enchantement&quot;&gt;analyse d&#39;enchantement&lt;/a&gt;&lt;/i&gt;, au choix. Dans le premier cas (&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Mythes-Et-L&#233;gendes.html&quot; title=&quot;Mythes et l&#233;gendes&quot;&gt;mythes et l&#233;gendes&lt;/a&gt;&lt;/i&gt;), l&#39;utilisation de cette facult&#233; requiert une minute d’incantation et ce quelle que soit la quantit&#233; d&#39;informations d&#233;j&#224; connue sur le sujet.
+]]></body>
+  <raw><![CDATA[{s:MenuClassesDePrestige}
+
+''Le gardien du savoir rassemble et protège les secrets. Les mots écrits le tourmentent et ses seules passions dans la vie sont la cryptographie et la connaissance des mystères. L'adage qui dit que le savoir est le pouvoir fait force de loi à ses yeux et il abandonne souvent la richesse matérielle et la gloire personnelle au profit de renseignements insolites. Cette quête sans fin l'emmène très près de l'inaccessible but qu'il s'est fixé : la perfection par l'illumination. Rejetant souvent ce qu'il considère n'être que les vaines recherches et les plaisirs éphémères de voisins qui ne voient pas plus loin que le bout de leur nez, le gardien du savoir pense que seule l'acquisition de la puissance intellectuelle vaut la peine dans la vie. Après tout, la richesse se dépense, les passions s'éteignent et le pouvoir du corps disparaît avec l'âge. Seule la capacité de l'esprit à s'améliorer avec le temps est infinie.
+
+La classe de prestige du gardien du savoir n'a que faire de ceux qui n'ont pas embrassé une carrière de lanceur de sorts. En effet, avant de consacrer sa vie à l'étude et aux traditions, un personnage doit d'abord maîtriser plusieurs sorts de l'école de [[divination]]. La plupart des gardiens du savoir ont débuté comme [[magicien|magiciens]] ou [[prêtre|prêtres]], mais il suffit en fait d'être capable de lancer le nombre de sorts de [[divination]] requis pour en devenir un.''
+
+{s:Reference|TABLEGARDIENDUSAVOIR}
+<center>
+{| CLASS="tablo"
+|+ Le gardien du savoir
+|- CLASS="titre"
+| Niveau || BBA || Réflexes || Vigueur || Volonté
+| CLASS="gauche" | Spécial
+| CLASS="gauche" | Nombre de sorts par jour
+|- CLASS="premier"
+| 1 || +0 || +0 || +0 || +1
+| CLASS="gauche" | [[gardien du savoir#SECRET|Secret]]
+| CLASS="gauche" | [[gardien du savoir#SORTS|+1 niveau dans la classe de lanceur de sorts existante]]
+|- CLASS="alt"
+| 2 || +1 || +1 || +1 || +1
+| CLASS="gauche" | [[gardien du savoir#SAVOIR|Savoir]]
+| CLASS="gauche" | [[gardien du savoir#SORTS|+1 niveau dans la classe de lanceur de sorts existante]]
+|-
+| 3 || +1 || +1 || +1 || +2
+| CLASS="gauche" | [[gardien du savoir#SECRET|Secret]]
+| CLASS="gauche" | [[gardien du savoir#SORTS|+1 niveau dans la classe de lanceur de sorts existante]]
+|- CLASS="alt"
+| 4 || +2 || +1 || +1 || +2
+| CLASS="gauche" | [[gardien du savoir#LANGAGESUPPLEMENTAIRE|Langage supplémentaire]]
+| CLASS="gauche" | [[gardien du savoir#SORTS|+1 niveau dans la classe de lanceur de sorts existante]]
+|-
+| 5 || +2 || +2 || +2 || +3
+| CLASS="gauche" | [[gardien du savoir#SECRET|Secret]]
+| CLASS="gauche" | [[gardien du savoir#SORTS|+1 niveau dans la classe de lanceur de sorts existante]]
+|- CLASS="alt"
+| 6 || +3 || +2 || +2 || +3
+| CLASS="gauche" | [[gardien du savoir#SAVOIRSUPERIEUR|Savoir supérieur]]
+| CLASS="gauche" | [[gardien du savoir#SORTS|+1 niveau dans la classe de lanceur de sorts existante]]
+|-
+| 7 || +3 || +2 || +2 || +4
+| CLASS="gauche" | [[gardien du savoir#SECRET|Secret]]
+| CLASS="gauche" | [[gardien du savoir#SORTS|+1 niveau dans la classe de lanceur de sorts existante]]
+|- CLASS="alt"
+| 8 || +4 || +3 || +3 || +4
+| CLASS="gauche" | [[gardien du savoir#LANGAGESUPPLEMENTAIRE|Langage supplémentaire]]
+| CLASS="gauche" | [[gardien du savoir#SORTS|+1 niveau dans la classe de lanceur de sorts existante]]
+|-
+| 9 || +4 || +3 || +3 || +5
+| CLASS="gauche" | [[gardien du savoir#SECRET|Secret]]
+| CLASS="gauche" | [[gardien du savoir#SORTS|+1 niveau dans la classe de lanceur de sorts existante]]
+|- CLASS="alt"
+| 10 || +5 || +3 || +3 || +5
+| CLASS="gauche" | [[gardien du savoir#SAVOIRDIVIN|Savoir divin]]
+| CLASS="gauche" | [[gardien du savoir#SORTS|+1 niveau dans la classe de lanceur de sorts existante]]
+|}
+</center>
+
+'''Rôle.''' Un gardien du savoir consacre sa vie à l'étude, à la recherche et au travail sur le terrain. Si les deux premières tâches confirment sa réputation de rat de bibliothèque reclus, la dernière oblige le personnage à chercher l'aide d'aventuriers qui, en échange d'un arrangement bénéfique aux deux parties, fournissent à l'érudit la protection dont il a besoin pendant ses recherches loin de ses livres. En retour, il se révèle une source d'informations et une force de frappe magique non négligeables pour le groupe qui l'accompagne. Certains gardiens du savoir tournent en ridicule ceux d'entre eux qui craignent de quitter la sécurité de leur temple ou de leur bibliothèque, et soulignent qu'on ne trouve qu'un savoir ancien dans les livres. On ne peut acquérir de nouvelles connaissances qu'en les cherchant dans le monde. Ces érudits plus actifs ne dédaignent pas se joindre à un groupe d'aventuriers, satisfaits des connaissances qu'ils pourront récolter tout au long du voyage.
+
+'''Alignement.''' La plupart des gardiens du savoir ne s'encombrent pas de philosophies aussi vaines et perturbantes que l'éthique. Ils ont donc tendance à être [[N|Neutres]], [[NB|Neutres Bons]] ou [[NM|Neutres Mauvais]].
+
+'''Dés de vie.''' d6.
+
+=== Conditions ===
+Pour devenir gardien du savoir, il faut satisfaire aux conditions suivantes :
+
+'''Compétences.''' Rang 7 dans deux compétences de [[Connaissances]] (spécialité au choix).
+
+'''Dons.''' Trois [[Dons#DONMETAMAGIE|dons de métamagie]] ou de [[Dons#DONCREATION|création d'objet]], plus [[Talent]] ([[Connaissances]] (spécialité au choix)).
+
+'''Sorts.''' Faculté de lancer au moins sept sorts de [[divination]], dont un du 3<sup>e</sup> niveau (ou plus).
+
+=== Compétences de la classe ===
+Les compétences du gardien du savoir (et la caractéristique dont chacune dépend) sont : [[Art de la magie]] (Int), [[Connaissances]] (au choix, chaque compétence devant être prise séparément) (Int), [[Diplomatie]] (Cha), [[Dressage]] (Cha), [[Estimation]] (Int), [[Linguistique]] (Int), [[Premiers secours]] (Sag), [[Représentation]] (Cha), [[Utilisation dobjets magiques|Utilisation d'objets magiques]] (Cha)
+
+'''Points de compétence à chaque niveau.''' 4 + modificateur d’[[Intelligence]].
+
+=== Caractéristiques de la classe ===
+Voici les particularités et aptitudes de la classe de prestige du gardien du savoir.
+
+==== Armes et armures ====
+Le gardien du savoir n’est pas formé au maniement des armes ni au port des armures.
+
+{s:Reference|SORTS}
+==== Sorts ====
+À chaque niveau, un gardien du savoir gagne de nouveaux sorts quotidiens de la même manière que s’il avait gagné un niveau dans une classe de lanceur de sorts qui était sienne avant de devenir gardien du savoir. Il ne gagne cependant pas les autres avantages fournis par ce gain de niveau, à l’exception du nombre de sorts par jour, des sorts connus (dans le cas d’un lanceur de sorts spontanés), et de son niveau de lanceur de sorts. Si le personnage possédait plus d’une classe de lanceur de sorts avant de devenir gardien du savoir, il doit choisir à quelle classe il ajoute ce nouveau niveau pour ce qui est de déterminer les sorts quotidiens.
+
+{s:Reference|SORTS}
+==== Secret ====
+Au premier niveau et tous les deux niveaux ensuite (niveaux 3, 5, 7 et 9), le gardien du savoir peut choisir un secret de la Table des [[gardien du savoir#TABLESECRETS|Secrets du gardien du savoir]]. Son niveau et son modificateur d’[[Intelligence]] déterminent ceux auxquels il peut prétendre. Aucun secret ne peut être pris plus d’une fois.
+
+{s:Reference|TABLESECRETS}
+<center>
+{| CLASS="tablo"
+|+ Les secrets du gardien du savoir
+|- CLASS="titre"
+| Niveau <br/>+ mod. Int
+| CLASS="gauche" | Secret
+| CLASS="gauche" | Effet
+|- CLASS="premier"
+| 1
+| CLASS="gauche" | Secret de maîtrise
+| CLASS="gauche" | Degré de maîtrise de 4 dans une [[compétences|compétence]]<br/> que le personnage ne maîtrisait pas
+|- CLASS="alt"
+| 2
+| CLASS="gauche" | Secret de vitalité
+| CLASS="gauche" | [[Robustesse]]
+|-
+| 3
+| CLASS="gauche" | Secret de la force intérieure
+| CLASS="gauche" | +2 aux jets de [[Volonté]]
+|- CLASS="alt"
+| 4
+| CLASS="gauche" | Secret de la résistance physique
+| CLASS="gauche" | +2 aux jets de [[Vigueur]]
+|-
+| 5
+| CLASS="gauche" | Secret de la vivacité
+| CLASS="gauche" | +2 aux jets de [[Réflexes]]
+|- CLASS="alt"
+| 6
+| CLASS="gauche" | Secret du combat
+| CLASS="gauche" | +1 aux jets d’attaque
+|-
+| 7
+| CLASS="gauche" | Secret de l’esquive
+| CLASS="gauche" | Bonus d’esquive de +1 à la [[CA]]
+|- CLASS="alt"
+| 8
+| CLASS="gauche" | Savoir pratique
+| CLASS="gauche" | Don au choix
+|-
+| 9
+| CLASS="gauche" | Arcane secret
+| CLASS="gauche" | 1 sort en bonus du 1<sup>er</sup> niveau*
+|- CLASS="alt"
+| 10
+| CLASS="gauche" | Autre arcane secret
+| CLASS="gauche" | 1 sort en bonus du 2<sup>e</sup> niveau*
+|}
+
+''(*) Équivalent à un sort en bonus offert par une caractéristique élevée.''
+</center>
+
+{s:Reference|SAVOIR}
+==== Savoir ====
+Dès le niveau 2, le personnage ajoute la moitié de son niveau à n'importe quel jet de [[Connaissances]], et peut effectuer ce jet même s'il ne dispose pas de la compétence appropriée. Les bonus de cette capacité se cumulent avec ceux du [[barde#SAVOIRBARDIQUE|savoir bardique]].
+
+{s:Reference|LANGAGESUPPLEMENTAIRE}
+==== Langage supplémentaire ====
+Un gardien du savoir choisit un langage supplémentaire au niveau 4, et un autre au niveau 8.
+
+{s:Reference|SAVOIRSUPERIEUR}
+==== Savoir supérieur (Ext) ====
+Au niveau 6, le personnage acquiert la faculté de comprendre la nature des objets magiques. Lorsqu'il examine un objet magique pour déterminer ses propriétés, il bénéficie d'un bonus de circonstances de +10 au test d’[[Art de la magie]].
+
+{s:Reference|SAVOIRDIVIN}
+==== Savoir divin (Ext) ====
+Au niveau 10, le gardien du savoir peut faire appel à ses immenses connaissances une fois par jour pour bénéficier de l’effet du sort ''[[mythes et légendes]]'' ou ''[[analyse denchantement|analyse d'enchantement]]'', au choix. Dans le premier cas (''[[mythes et légendes]]''), l'utilisation de cette faculté requiert une minute d’incantation et ce quelle que soit la quantité d'informations déjà connue sur le sujet.]]></raw>
+  <fullName>Pathfinder-RPG.Gardien du savoir</fullName>
+</wikiPage>

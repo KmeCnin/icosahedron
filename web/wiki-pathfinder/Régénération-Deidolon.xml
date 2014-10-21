@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Régénération d'eidolon</title>
+  <categories><category>Pathfinder-RPG.Advanced Player Guide</category><category>Pathfinder-RPG.Règles officielles</category><category>Pathfinder-RPG.Sort</category><category>Pathfinder-RPG.Sort conjurateur 3</category></categories>
+  <lastModified>2012-10-13 13:31:37Z</lastModified>
+  <version>3</version>
+  <inLinks><link>Pathfinder-RPG.Glossaire des sorts</link><link>Pathfinder-RPG.Liste des sorts (fin)</link><link>Pathfinder-RPG.liste des sorts de conjurateurs</link><link>Pathfinder-RPG.Synthétiseur (conjurateur)</link><link>Pathfinder-RPG.TMP sorts APG</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Invocation</link><link>Pathfinder-RPG.branche guérison</link><link>Pathfinder-RPG.Conjurateur</link><link>Pathfinder-RPG.Action simple</link><link>Pathfinder-RPG.composantes</link><link>Pathfinder-RPG.Présentation des sorts</link><link>Pathfinder-RPG.eidolon</link><link>Pathfinder-RPG.NLS</link><link>Pathfinder-RPG.Régénération deidolon mineure</link></outLinks>
+  <body><![CDATA[
+&lt;b&gt;&#201;cole&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#INVOCATION&quot; title=&quot;Invocation&quot;&gt;Invocation&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#GUERISON&quot; title=&quot;Gu&#233;rison&quot;&gt;gu&#233;rison&lt;/a&gt;)&#160;;&lt;b&gt; Niveau&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Conjurateur.html&quot; title=&quot;Le conjurateur (aussi appel&#233; invocateur)&quot;&gt;conjurateur&lt;/a&gt; 3
+&lt;b&gt;Temps d&#39;incantation&lt;/b&gt; 1 &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions.html#SIMPLE&quot; title=&quot;Action simple&quot;&gt;action simple&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Composantes&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#COMPOSANTES&quot; title=&quot;composantes&quot;&gt;V, G, M&lt;/a&gt; (une goutte du sang du lanceur de sorts)&lt;br/&gt;
+&lt;b&gt;Port&#233;e&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#PORTEE&quot; title=&quot;Pr&#233;sentation des sorts&quot;&gt;contact&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Cible&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Eidolon.html&quot; title=&quot;L&amp;#39;&#233;idolon du conjurateur&quot;&gt;eidolon&lt;/a&gt; touch&#233;&lt;br/&gt;
+&lt;b&gt;Dur&#233;e&lt;/b&gt; instantan&#233;e&lt;br/&gt;
+&lt;b&gt;Jet de sauvegarde&lt;/b&gt; aucun ; &lt;b&gt;R&#233;sistance &#224; la magie&lt;/b&gt; non&lt;br /&gt;&lt;br /&gt;En posant les mains sur son &lt;a class=&quot;pagelink&quot; href=&quot;Eidolon.html&quot; title=&quot;L&amp;#39;&#233;idolon du conjurateur&quot;&gt;eidolon&lt;/a&gt;, le personnage referme ses plaies et l&#39;aide &#224; se solidifier. Ce sort soigne 3d10 points de d&#233;g&#226;ts + 1 point par &lt;a class=&quot;pagelink&quot; href=&quot;Lancer-Des-Sorts.html#NLS&quot; title=&quot;NLS&quot;&gt;niveau de lanceur de sorts&lt;/a&gt; (maximum +10).&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;
+&lt;div class=&quot;box&quot;&gt;Ce sort fonctionne comme &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;R&#233;g&#233;n&#233;ration-Deidolon-Mineure.html&quot; title=&quot;R&#233;g&#233;n&#233;ration d&amp;#39;eidolon mineure&quot;&gt;r&#233;g&#233;n&#233;ration d&#39;eidolon mineure&lt;/a&gt;&lt;/i&gt; mais il soigne 3d10 points de vie +1 point/&lt;a class=&quot;pagelink&quot; href=&quot;Lancer-Des-Sorts.html#NLS&quot; title=&quot;NLS&quot;&gt;niveau de lanceur de sorts&lt;/a&gt; (maximum +10).&lt;/div&gt;
+]]></body>
+  <raw><![CDATA[{s:APG}
+'''École''' [[Invocation]] ([[branche guérison|guérison]]) ;''' Niveau''' [[conjurateur]] 3
+'''Temps d'incantation''' 1 [[action simple]]<br/>
+'''Composantes''' [[Composantes|V, G, M]] (une goutte du sang du lanceur de sorts)<br/>
+'''Portée''' [[Présentation des sorts#PORTEE|contact]]<br/>
+'''Cible''' [[eidolon]] touché<br/>
+'''Durée''' instantanée<br/>
+'''Jet de sauvegarde''' aucun ; '''Résistance à la magie''' non
+
+En posant les mains sur son [[eidolon]], le personnage referme ses plaies et l'aide à se solidifier. Ce sort soigne 3d10 points de dégâts + 1 point par [[NLS|niveau de lanceur de sorts]] (maximum +10).
+
+
+
+
+(((Ce sort fonctionne comme ''[[régénération deidolon mineure|régénération d'eidolon mineure]]'' mais il soigne 3d10 points de vie +1 point/[[NLS|niveau de lanceur de sorts]] (maximum +10).)))
+]]></raw>
+  <fullName>Pathfinder-RPG.Régénération deidolon</fullName>
+</wikiPage>

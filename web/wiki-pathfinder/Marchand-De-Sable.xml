@@ -1,0 +1,137 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Marchand de sable</title>
+  <categories></categories>
+  <lastModified>2013-02-07 19:45:12Z</lastModified>
+  <version>3</version>
+  <inLinks><link>Pathfinder-RPG.Glossaire des monstres</link><link>Pathfinder-RPG.Lier un extérieur</link><link>Pathfinder-RPG.Liste de monstres par FP</link><link>Pathfinder-RPG.Liste de monstres par milieu naturel</link><link>Pathfinder-RPG.Liste de monstres par type</link><link>Pathfinder-RPG.Monstres</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.type Extérieur</link><link>Pathfinder-RPG.sous-type élémentaire</link><link>Pathfinder-RPG.sous-type extraplanaire</link><link>Pathfinder-RPG.sous-type Terre</link><link>Pathfinder-RPG.Perception des vibrations</link><link>Pathfinder-RPG.vision dans le noir</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Amorphe (capacité)</link><link>Pathfinder-RPG.Science de linitiative</link><link>Pathfinder-RPG.Volonté de fer</link><link>Pathfinder-RPG.Acrobaties</link><link>Pathfinder-RPG.Connaissances</link><link>Pathfinder-RPG.Discrétion</link><link>Pathfinder-RPG.Escalade</link><link>Pathfinder-RPG.Psychologie</link><link>Pathfinder-RPG.Compression (capacité)</link><link>Pathfinder-RPG.Sommeil</link><link>Pathfinder-RPG.Élémentaire de la Terre</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Marchand de sable&lt;div style=&quot;float:right;&quot;&gt;FP 3&lt;/div&gt;&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Bestiaire 2, p.195&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 800
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Ext&#233;rieur.html&quot; title=&quot;Ext&#233;rieur&quot;&gt;Ext&#233;rieur&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-&#201;l&#233;mentaire.html&quot; title=&quot;&#201;l&#233;mentaire (sous-type)&quot;&gt;&#233;l&#233;mentaire&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Extraplanaire.html&quot; title=&quot;Extraplanaire (sous-type)&quot;&gt;extraplanaire&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Terre.html&quot; title=&quot;Terre (sous-type)&quot;&gt;Terre&lt;/a&gt;) de taille M, NM
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +5 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Perception-Des-Vibrations-(Capacit&#233;).html&quot; title=&quot;Perception des vibrations&quot;&gt;perception des vibrations&lt;/a&gt; 9 m (6 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), &lt;a class=&quot;pagelink&quot; href=&quot;Capacit&#233;s-Sp&#233;ciales.html#VISIONDANSLENOIR&quot; title=&quot;vision dans le noir&quot;&gt;vision dans le noir&lt;/a&gt; 18 m (12 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +7
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Aura&lt;/b&gt; de sommeil (6 m (4 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), DD 14)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 15, contact 11, pris au d&#233;pourvu 14 (Dex +1, naturelle +4)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 30 (4d10+8)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +5, &lt;b&gt;Vig&lt;/b&gt; +6, &lt;b&gt;Vol&lt;/b&gt; +3
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Capacit&#233;s d&#233;fensives&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Amorphe-(Capacit&#233;).html&quot; title=&quot;Amorphe (Ext)&quot;&gt;amorphe&lt;/a&gt; ; &lt;b&gt;RD&lt;/b&gt; 10/contondant ; &lt;b&gt;Immunit&#233;s&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-&#201;l&#233;mentaire.html&quot; title=&quot;&#201;l&#233;mentaire (sous-type)&quot;&gt;traits des &#233;l&#233;mentaires&lt;/a&gt; 
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 9 m (6 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), creusement 9 m (6 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; coup, +6 (1d6+3 plus sommeil)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 14, &lt;b&gt;Dex&lt;/b&gt; 13, &lt;b&gt;Con&lt;/b&gt; 15, &lt;b&gt;Int&lt;/b&gt; 10, &lt;b&gt;Sag&lt;/b&gt; 11, &lt;b&gt;Cha&lt;/b&gt; 10
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +4, &lt;b&gt;BMO&lt;/b&gt; +6, &lt;b&gt;DMD&lt;/b&gt; 17
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Science-De-Linitiative.html&quot; title=&quot;Science de l&amp;#39;initiative&quot;&gt;Science de l’initiative&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Volont&#233;-De-Fer.html&quot; title=&quot;Volont&#233; de fer&quot;&gt;Volont&#233; de fer&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Acrobaties.html&quot; title=&quot;Acrobaties&quot;&gt;Acrobaties&lt;/a&gt; +8, &lt;a class=&quot;pagelink&quot; href=&quot;Connaissances.html&quot; title=&quot;Connaissances&quot;&gt;Connaissances&lt;/a&gt; (plans) +7, &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; +8 (+12 dans la sable), &lt;a class=&quot;pagelink&quot; href=&quot;Escalade.html&quot; title=&quot;Escalade&quot;&gt;Escalade&lt;/a&gt; +9, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +7, &lt;a class=&quot;pagelink&quot; href=&quot;Psychologie.html&quot; title=&quot;Psychologie&quot;&gt;Psychologie&lt;/a&gt; +7 ; &lt;b&gt;Modificateurs raciaux&lt;/b&gt; +4 en &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; dans le sable
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Langues&lt;/b&gt; terreux
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Particularit&#233;s&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Compression-(Capacit&#233;).html&quot; title=&quot;Compression (Ext)&quot;&gt;compression&lt;/a&gt;, forme de sable
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Ecologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; terre ferme (plan de la Terre)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation sociale&lt;/b&gt; solitaire, bande (2–4) ou groupe (5–10)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; aucun
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Pouvoirs sp&#233;ciaux&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Aura de sommeil (Sur).&lt;/b&gt; Un marchand de sable poss&#232;de une aura qui recouvre une &#233;tendue de 6 m&#232;tres de rayon et qui endort les cr&#233;atures. Toutes celles qui sont situ&#233;es dans la zone d’effet doivent r&#233;ussir un jet de Volont&#233; contre un DD de 14 pour ne pas tomber endormies comme si elles &#233;taient affect&#233;es par un sort de &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Sommeil.html&quot; title=&quot;Sommeil&quot;&gt;sommeil&lt;/a&gt;&lt;/i&gt; (NLS 8). Cette aura permet au marchand de sable d’affecter toutes les cibles, quel que soit leur nombre de DV. Les cr&#233;atures qui r&#233;ussissent ce jet de sauvegarde sont immunis&#233;es contre l’aura de sommeil du marchand de sable en question pendant 24 heures. Le DD du jet de sauvegarde d&#233;pend de la Constitution.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Forme de sable (Sur).&lt;/b&gt; Par une action simple, un marchand de sable peut faire en sorte que sa forme humano&#239;de se d&#233;compose en un tas de sable anim&#233;. Sous cette forme, le marchand de sable fonctionne comme s’il &#233;tait un &lt;a class=&quot;pagelink&quot; href=&quot;&#201;l&#233;mentaire-De-La-Terre.html&quot; title=&quot;&#201;l&#233;mentaire de Terre&quot;&gt;&#233;l&#233;mentaire de la Terre&lt;/a&gt; de taille P constitu&#233; de sable. Il conserve sa capacit&#233; de &lt;a class=&quot;pagelink&quot; href=&quot;Compression-(Capacit&#233;).html&quot; title=&quot;Compression (Ext)&quot;&gt;compression&lt;/a&gt; et son aura de sommeil lorsqu’il est sous forme de sable mais perd son attaque de sommeil et sa RD car, sous cette forme, son corps est beaucoup plus compact et facile &#224; disperser avec des armes contondantes.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Sommeil (Sur).&lt;/b&gt; Une cr&#233;ature touch&#233;e par l’attaque de coup d’un marchand de sable doit r&#233;ussir un jet de Volont&#233; de DD 14 pour ne pas tomber imm&#233;diatement endormie comme si elle &#233;tait affect&#233;e par un sort de &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Sommeil.html&quot; title=&quot;Sommeil&quot;&gt;sommeil&lt;/a&gt;&lt;/i&gt; (NLS 8). Cette capacit&#233; permet au marchand de sable d’affecter toutes les cibles, quel que soit leur nombre de DV. Le DD du jet de sauvegarde d&#233;pend de la Constitution.
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;td&gt;&lt;div&gt;&lt;i&gt;La petite tornade compos&#233;e de sable du d&#233;sert s’immobilise et prend la forme d’une cr&#233;ature humano&#239;de.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Ces cr&#233;atures discr&#232;tes et impr&#233;visibles sont la hantise de tous ceux qui voyagent &#224; travers le d&#233;sert, qu’il s’agisse de commer&#231;ants, de messagers ou d’aventuriers. Au repos, un marchand de sable ressemble &#224; un tas de sable tout &#224; fait ordinaire et se fond parfaitement dans le d&#233;cor des plaines d&#233;sol&#233;es ou des tombes anciennes. En r&#232;gle g&#233;n&#233;rale, les marchands de sable utilisent leur pouvoirs soporifiques pour endormir leurs ennemis avant d’en profiter pour les tuer ou les ramener vers la personne qui les a invoqu&#233;s.&lt;br /&gt;&lt;br /&gt;Les marchands de sable ont beau &#234;tre des &#233;l&#233;mentaires, ils ne s’allient g&#233;n&#233;ralement pas avec d’autres cr&#233;atures du m&#234;me type car ils consid&#232;rent que l’ob&#233;dience totale dont font preuve la plupart des &#233;l&#233;mentaires est un signe de faiblesse. Les marchands de sable se consid&#232;rent avec fiert&#233; comme des libres penseurs et, lorsqu’un invocateur leur donne une t&#226;che, ils interpr&#232;tent leurs ordres &#224; leur mani&#232;re. &#201;tant donn&#233; l’arrogance qui caract&#233;rise les
+marchands de sable, seuls les magiciens les plus s&#251;rs d’eux ou les plus d&#233;sesp&#233;r&#233;s font appel &#224; eux. Les marchands de sable d&#233;cident souvent de rester sur le plan Mat&#233;riel pour &#171; s’amuser &#187; avec ses habitants tout en semant discr&#232;tement le d&#233;sordre.&lt;br /&gt;&lt;br /&gt;Un marchand de sable sous forme humano&#239;de mesure &#224; peu pr&#232;s 1,80 m&#232;tre de hauteur. Sa forme n’est jamais tr&#232;s pr&#233;cise et ses muscles anim&#233;s ne cessent de bouger et de se contracter lorsqu’il frappe ses ennemis. Les marchands de sable peuvent fa&#231;onner leur corps de nombreuses fa&#231;ons mais ils pr&#233;f&#232;rent g&#233;n&#233;ralement se doter de jambes et de pieds qui prennent la forme de nuages de sable, de mani&#232;re &#224; pouvoir se d&#233;placer ais&#233;ment dans leur environnement de pr&#233;dilection. Certaines de ces cr&#233;atures tirent une grande fiert&#233; de leur capacit&#233; &#224; contr&#244;ler leur apparence. Tout comme un artiste mortel sculpte des oeuvres d’art incroyables dans la pierre &#224; l’aide d’un burin, ces artistes
+marchands de sable fa&#231;onnent leur propre corps en oeuvres d’art. Certains aiment utiliser cette capacit&#233; de mani&#232;re
+&#224; modifier leur apparence pour ressembler &#224; leur invocateur ou &#224; leurs ennemis et n’h&#233;sitent pas &#224; se donner en spectacle en prenant une forme des plus agr&#233;ables ou encore en laissant leur silhouette se d&#233;sagr&#233;ger de mani&#232;re hideuse. &#201;tant donn&#233; la vivacit&#233; de leur imagination et leur penchant pour la cruaut&#233;, la plupart des marchands de sable optent plut&#244;t pour la seconde option et s’en servent pour tourmenter leurs victimes.
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Marchand de sable|FP 3}
+{s:pucem|Extérieur|Souterrain|Extraplanaire}
+{s:BDTexte|''Source : Bestiaire 2, p.195''}
+{s:BDTexte|'''PX''' 800}
+{s:BDTexte|[[type Extérieur|Extérieur]] ([[sous-type élémentaire|élémentaire]], [[sous-type extraplanaire|extraplanaire]], [[sous-type Terre|Terre]]) de taille M, NM}
+{s:BDTexte|'''Init''' +5 ; '''Sens''' [[perception des vibrations]] 9 m (6 {s:c}), [[vision dans le noir]] 18 m (12 {s:c}) ; [[Perception]] +7}
+{s:BDTexte|'''Aura''' de sommeil (6 m (4 {s:c}), DD 14)}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 15, contact 11, pris au dépourvu 14 (Dex +1, naturelle +4)}
+{s:BDTexte|'''pv''' 30 (4d10+8)}
+{s:BDTexte|'''Réf''' +5, '''Vig''' +6, '''Vol''' +3}
+{s:BDTexte|'''Capacités défensives''' [[amorphe (capacité)|amorphe]] ; '''RD''' 10/contondant ; '''Immunités''' [[sous-type élémentaire|traits des élémentaires]] }
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 9 m (6 {s:c}), creusement 9 m (6 {s:c})}
+{s:BDTexte|'''Corps à corps''' coup, +6 (1d6+3 plus sommeil)}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 14, '''Dex''' 13, '''Con''' 15, '''Int''' 10, '''Sag''' 11, '''Cha''' 10}
+{s:BDTexte|'''BBA''' +4, '''BMO''' +6, '''DMD''' 17}
+{s:BDTexte|'''Dons''' [[Science de linitiative|Science de l’initiative]], [[Volonté de fer]]}
+{s:BDTexte|'''Compétences''' [[Acrobaties]] +8, [[Connaissances]] (plans) +7, [[Discrétion]] +8 (+12 dans la sable), [[Escalade]] +9, [[Perception]] +7, [[Psychologie]] +7 ; '''Modificateurs raciaux''' +4 en [[Discrétion]] dans le sable}
+{s:BDTexte|'''Langues''' terreux}
+{s:BDTexte|'''Particularités''' [[compression (capacité)|compression]], forme de sable}
+{s:BDSousTitre|Ecologie}
+{s:BDTexte|'''Environnement''' terre ferme (plan de la Terre)}
+{s:BDTexte|'''Organisation sociale''' solitaire, bande (2–4) ou groupe (5–10)}
+{s:BDTexte|'''Trésor''' aucun}
+{s:BDSousTitre|Pouvoirs spéciaux}
+{s:BDTexte|'''Aura de sommeil (Sur).''' Un marchand de sable possède une aura qui recouvre une étendue de 6 mètres de rayon et qui endort les créatures. Toutes celles qui sont situées dans la zone d’effet doivent réussir un jet de Volonté contre un DD de 14 pour ne pas tomber endormies comme si elles étaient affectées par un sort de ''[[sommeil]]'' (NLS 8). Cette aura permet au marchand de sable d’affecter toutes les cibles, quel que soit leur nombre de DV. Les créatures qui réussissent ce jet de sauvegarde sont immunisées contre l’aura de sommeil du marchand de sable en question pendant 24 heures. Le DD du jet de sauvegarde dépend de la Constitution.}
+{s:BDTexte|'''Forme de sable (Sur).''' Par une action simple, un marchand de sable peut faire en sorte que sa forme humanoïde se décompose en un tas de sable animé. Sous cette forme, le marchand de sable fonctionne comme s’il était un [[élémentaire de la Terre]] de taille P constitué de sable. Il conserve sa capacité de [[compression (capacité)|compression]] et son aura de sommeil lorsqu’il est sous forme de sable mais perd son attaque de sommeil et sa RD car, sous cette forme, son corps est beaucoup plus compact et facile à disperser avec des armes contondantes.}
+{s:BDTexte|'''Sommeil (Sur).''' Une créature touchée par l’attaque de coup d’un marchand de sable doit réussir un jet de Volonté de DD 14 pour ne pas tomber immédiatement endormie comme si elle était affectée par un sort de ''[[sommeil]]'' (NLS 8). Cette capacité permet au marchand de sable d’affecter toutes les cibles, quel que soit leur nombre de DV. Le DD du jet de sauvegarde dépend de la Constitution.}
+</div>
+</td><td><div>''La petite tornade composée de sable du désert s’immobilise et prend la forme d’une créature humanoïde.''
+
+Ces créatures discrètes et imprévisibles sont la hantise de tous ceux qui voyagent à travers le désert, qu’il s’agisse de commerçants, de messagers ou d’aventuriers. Au repos, un marchand de sable ressemble à un tas de sable tout à fait ordinaire et se fond parfaitement dans le décor des plaines désolées ou des tombes anciennes. En règle générale, les marchands de sable utilisent leur pouvoirs soporifiques pour endormir leurs ennemis avant d’en profiter pour les tuer ou les ramener vers la personne qui les a invoqués.
+
+Les marchands de sable ont beau être des élémentaires, ils ne s’allient généralement pas avec d’autres créatures du même type car ils considèrent que l’obédience totale dont font preuve la plupart des élémentaires est un signe de faiblesse. Les marchands de sable se considèrent avec fierté comme des libres penseurs et, lorsqu’un invocateur leur donne une tâche, ils interprètent leurs ordres à leur manière. Étant donné l’arrogance qui caractérise les
+marchands de sable, seuls les magiciens les plus sûrs d’eux ou les plus désespérés font appel à eux. Les marchands de sable décident souvent de rester sur le plan Matériel pour « s’amuser » avec ses habitants tout en semant discrètement le désordre.
+
+Un marchand de sable sous forme humanoïde mesure à peu près 1,80 mètre de hauteur. Sa forme n’est jamais très précise et ses muscles animés ne cessent de bouger et de se contracter lorsqu’il frappe ses ennemis. Les marchands de sable peuvent façonner leur corps de nombreuses façons mais ils préfèrent généralement se doter de jambes et de pieds qui prennent la forme de nuages de sable, de manière à pouvoir se déplacer aisément dans leur environnement de prédilection. Certaines de ces créatures tirent une grande fierté de leur capacité à contrôler leur apparence. Tout comme un artiste mortel sculpte des oeuvres d’art incroyables dans la pierre à l’aide d’un burin, ces artistes
+marchands de sable façonnent leur propre corps en oeuvres d’art. Certains aiment utiliser cette capacité de manière
+à modifier leur apparence pour ressembler à leur invocateur ou à leurs ennemis et n’hésitent pas à se donner en spectacle en prenant une forme des plus agréables ou encore en laissant leur silhouette se désagréger de manière hideuse. Étant donné la vivacité de leur imagination et leur penchant pour la cruauté, la plupart des marchands de sable optent plutôt pour la seconde option et s’en servent pour tourmenter leurs victimes.
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Marchand de sable</fullName>
+</wikiPage>

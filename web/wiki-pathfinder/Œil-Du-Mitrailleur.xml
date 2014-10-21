@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Œil du mitrailleur</title>
+  <categories><category>Pathfinder-RPG.Advanced Player Guide</category><category>Pathfinder-RPG.Règles officielles</category><category>Pathfinder-RPG.Sort</category><category>Pathfinder-RPG.Sort alchimiste 1</category></categories>
+  <lastModified>2012-11-04 21:06:13Z</lastModified>
+  <version>1</version>
+  <inLinks><link>Pathfinder-RPG.Glossaire des sorts</link><link>Pathfinder-RPG.Grimoires</link><link>Pathfinder-RPG.Liste des formules dalchimiste</link><link>Pathfinder-RPG.Liste des sorts (suite)</link><link>Pathfinder-RPG.TMP sorts APG</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Transmutation</link><link>Pathfinder-RPG.Alchimiste</link><link>Pathfinder-RPG.Action simple</link><link>Pathfinder-RPG.composantes</link><link>Pathfinder-RPG.personnelle</link><link>Pathfinder-RPG.round</link><link>Pathfinder-RPG.niveau</link><link>Pathfinder-RPG.jet dattaque</link></outLinks>
+  <body><![CDATA[
+&lt;b&gt;&#201;cole&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#TRANSMUTATION&quot; title=&quot;Transmutation&quot;&gt;Transmutation&lt;/a&gt;&#160;; &lt;b&gt;Niveau&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Alchimiste.html&quot; title=&quot;L&amp;#39;alchimiste&quot;&gt;alchimiste&lt;/a&gt; 1&lt;br/&gt;
+&lt;b&gt;Temps d&#39;incantation&lt;/b&gt; 1 &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions.html#SIMPLE&quot; title=&quot;Action simple&quot;&gt;action simple&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Composantes&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#COMPOSANTES&quot; title=&quot;composantes&quot;&gt;G&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Port&#233;e&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#PORTEE&quot; title=&quot;personnelle&quot;&gt;personnelle&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Cible&lt;/b&gt; lanceur de sorts&lt;br/&gt;
+&lt;b&gt;Dur&#233;e&lt;/b&gt; 1 &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#ROUND&quot; title=&quot;round&quot;&gt;round&lt;/a&gt;/&lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#NIVEAU&quot; title=&quot;niveau&quot;&gt;niveau&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;Cet &lt;a class=&quot;pagelink&quot; href=&quot;Alchimiste.html#EXTRAIT&quot; title=&quot;L&amp;#39;alchimiste&quot;&gt;extrait&lt;/a&gt; permet au personnage de lancer ses projectiles plus loin, avec plus de pr&#233;cision. Tant qu&#39;il fait effet, l&#39;&lt;a class=&quot;pagelink&quot; href=&quot;Alchimiste.html#EXTRAIT&quot; title=&quot;L&amp;#39;alchimiste&quot;&gt;extrait&lt;/a&gt; augmente la port&#233;e de toute arme de jet de 3 m&#232;tres (2 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;). De plus, le personnage re&#231;oit un bonus d&#39;intuition de +1 aux &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDATTAQUE&quot; title=&quot;jet dattaque&quot;&gt;jets d&#39;attaque&lt;/a&gt; avec les armes de jet.
+]]></body>
+  <raw><![CDATA[{s:APG}
+'''École''' [[Transmutation]] ; '''Niveau''' [[alchimiste]] 1<br/>
+'''Temps d'incantation''' 1 [[action simple]]<br/>
+'''Composantes''' [[Composantes|G]]<br/>
+'''Portée''' [[personnelle]]<br/>
+'''Cible''' lanceur de sorts<br/>
+'''Durée''' 1 [[round]]/[[niveau]]
+
+Cet [[alchimiste#EXTRAIT|extrait]] permet au personnage de lancer ses projectiles plus loin, avec plus de précision. Tant qu'il fait effet, l'[[alchimiste#EXTRAIT|extrait]] augmente la portée de toute arme de jet de 3 mètres (2 {s:c}). De plus, le personnage reçoit un bonus d'intuition de +1 aux [[jet dattaque|jets d'attaque]] avec les armes de jet.
+]]></raw>
+  <fullName>Pathfinder-RPG.Œil du mitrailleur</fullName>
+</wikiPage>

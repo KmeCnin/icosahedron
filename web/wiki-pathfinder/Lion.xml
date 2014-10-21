@@ -1,0 +1,156 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Lion</title>
+  <categories><category>Pathfinder-RPG.Bestiaire</category><category>Pathfinder-RPG.Monstre</category><category>Pathfinder-RPG.Règles officielles</category></categories>
+  <lastModified>2014-01-13 03:48:11Z</lastModified>
+  <version>9</version>
+  <inLinks><link>Pathfinder-RPG.Amie des animaux (sorcière)</link><link>Pathfinder-RPG.Cavalier des bêtes (chevalier)</link><link>Pathfinder-RPG.Convocation dalliés naturels</link><link>Pathfinder-RPG.Convocation de monstres</link><link>Pathfinder-RPG.FAQ Bestiaire</link><link>Pathfinder-RPG.Glossaire des monstres</link><link>Pathfinder-RPG.Liste de monstres par FP</link><link>Pathfinder-RPG.Liste de monstres par milieu naturel</link><link>Pathfinder-RPG.Liste de monstres par type</link><link>Pathfinder-RPG.liste des compagnons animaux</link><link>Pathfinder-RPG.Monstres</link><link>Pathfinder-RPG.Sac à malice</link><link>Pathfinder-RPG.Seigneur animal</link><link>Pathfinder-RPG.Statuette merveilleuse</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.type Animal</link><link>Pathfinder-RPG.odorat</link><link>Pathfinder-RPG.vision nocturne</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Étreinte</link><link>Pathfinder-RPG.Bond</link><link>Pathfinder-RPG.Pattes arrière</link><link>Pathfinder-RPG.lutte</link><link>Pathfinder-RPG.croc-en-jambe</link><link>Pathfinder-RPG.Course</link><link>Pathfinder-RPG.Science de linitiative</link><link>Pathfinder-RPG.Talent</link><link>Pathfinder-RPG.Acrobaties</link><link>Pathfinder-RPG.Discrétion</link><link>Pathfinder-RPG.Léopard</link><link>Pathfinder-RPG.Hyène</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Lion&lt;div style=&quot;float:right;&quot;&gt;FP 3&lt;/div&gt;&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Bestiaire&lt;/i&gt; p.202
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 800
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Animal.html&quot; title=&quot;Animal&quot;&gt;Animal&lt;/a&gt; de taille G, N
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +7 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Odorat-(Capacit&#233;).html&quot; title=&quot;odorat&quot;&gt;odorat&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Nocturne-(Capacit&#233;).html&quot; title=&quot;vision nocturne&quot;&gt;vision nocturne&lt;/a&gt; ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +9
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 15, contact 12, pris au d&#233;pourvu 12 (Dex +3, naturelle +3, taille -1)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 32 (5d8+10)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +7, &lt;b&gt;Vig&lt;/b&gt; +6, &lt;b&gt;Vol&lt;/b&gt; +2
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 12 m (8 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; morsure, +7 (1d8+5 et &lt;a class=&quot;pagelink&quot; href=&quot;&#201;treinte-(Capacit&#233;).html&quot; title=&quot;&#201;treinte&quot;&gt;&#233;treinte&lt;/a&gt;), 2 griffes, +7 (1d4+5)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Espace&lt;/b&gt; 3 m (2 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) ; &lt;b&gt;Allonge&lt;/b&gt; 1,50 m (1 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaques sp&#233;ciales&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Bond-(Capacit&#233;).html&quot; title=&quot;Bond&quot;&gt;bond&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Pattes-Arri&#232;re-(Capacit&#233;).html&quot; title=&quot;Pattes arri&#232;re&quot;&gt;pattes arri&#232;re&lt;/a&gt; (2 griffes, +7, 1d4+5)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 21, &lt;b&gt;Dex&lt;/b&gt; 17, &lt;b&gt;Con&lt;/b&gt; 15, &lt;b&gt;Int&lt;/b&gt; 2, &lt;b&gt;Sag&lt;/b&gt; 12, &lt;b&gt;Cha&lt;/b&gt; 6
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +3, &lt;b&gt;BMO&lt;/b&gt; +9 (+13 &lt;a class=&quot;pagelink&quot; href=&quot;Manœuvres-Offensives.html#LUTTE&quot; title=&quot;lutte&quot;&gt;lutte&lt;/a&gt;), &lt;b&gt;DMD&lt;/b&gt; 22 (26 contre &lt;a class=&quot;pagelink&quot; href=&quot;Croc-En-Jambe.html&quot; title=&quot;croc-en-jambe&quot;&gt;croc-en-jambe&lt;/a&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Course.html&quot; title=&quot;Course&quot;&gt;Course&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Science-De-Linitiative.html&quot; title=&quot;Science de l&amp;#39;initiative&quot;&gt;Science de l&#39;initiative&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Talent.html&quot; title=&quot;Talent&quot;&gt;Talent&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Acrobaties.html&quot; title=&quot;Acrobaties&quot;&gt;Acrobaties&lt;/a&gt; +11, &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; +8 (+12 dans les fourr&#233;s), &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +9 ; &lt;b&gt;Modificateurs raciaux&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Acrobaties.html&quot; title=&quot;Acrobaties&quot;&gt;Acrobaties&lt;/a&gt; +4, &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; +4 (+8 dans les fourr&#233;s)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; plaines chaudes
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation sociale&lt;/b&gt; solitaire, couple ou meute (3-10)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; aucun
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;td&gt;&lt;div&gt;&lt;i&gt;On peut voir les muscles de ce grand f&#233;lin bouger sous sa peau, tandis qu’il montre les crocs et secoue les poils de son &#233;paisse crini&#232;re.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Les lions m&#226;les mesurent entre 1,50 m&#232;tre et 2,40 m&#232;tres de longueur
+et p&#232;sent entre 165 kg et 275 kg. Les femelles sont l&#233;g&#232;rement
+plus petites mais utilisent le m&#234;me profil.
+Les lions sont des pr&#233;dateurs qui occupent
+g&#233;n&#233;ralement le sommet de la cha&#238;ne
+alimentaire sur leur territoire,
+quand cela est plus pratique
+ou devient n&#233;cessaire, ils se
+contentent de d&#233;vorer des
+cadavres. &lt;br /&gt;&lt;br /&gt;Ils s’attaquent
+parfois aux autres pr&#233;dateurs
+(comme les &lt;a class=&quot;pagelink&quot; href=&quot;L&#233;opard.html&quot; title=&quot;L&#233;opard&quot;&gt;l&#233;opards&lt;/a&gt; et les
+&lt;a class=&quot;pagelink&quot; href=&quot;Hy&#232;ne.html&quot; title=&quot;Hy&#232;ne&quot;&gt;hy&#232;nes&lt;/a&gt;) qui p&#233;n&#232;trent sur leur
+terrain de chasse, mais ils ne les
+d&#233;vorent que si les proies se font
+rares. Les lions ne chassent pas
+sp&#233;cialement les humano&#239;des
+mais, de temps en temps, l’un
+d’eux se rend compte que
+ce sont des proies faciles
+et en fait la composante
+principale de son r&#233;gime
+alimentaire.&lt;br /&gt;&lt;br /&gt;&lt;h3 class=&quot;separator&quot;&gt;Le lion comme compagnon animal&lt;a class=&quot;headeranchor&quot; id=&quot;Le_lion_comme_compagnon_animal_0&quot; href=&quot;#Le_lion_comme_compagnon_animal_0&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;
+&lt;b&gt;Caract&#233;ristiques de d&#233;part.&lt;/b&gt; &lt;b&gt;Taille&lt;/b&gt; M ; &lt;b&gt;Vitesse&lt;/b&gt; 12 m ; &lt;b&gt;CA&lt;/b&gt; armure naturelle +1 ; &lt;b&gt;Attaque&lt;/b&gt; morsure (1d6), 2 griffes (1d4) ; &lt;b&gt;Caract&#233;ristiques&lt;/b&gt; For 13, Dex 17, Con 13, Int 2, Sag 15, Cha 10 ; &lt;b&gt;Attaque sp&#233;ciale&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pattes-Arri&#232;re-(Capacit&#233;).html&quot; title=&quot;Pattes arri&#232;re&quot;&gt;pattes arri&#232;re&lt;/a&gt; (1d4) ; &lt;b&gt;Particularit&#233;s&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Odorat-(Capacit&#233;).html&quot; title=&quot;odorat&quot;&gt;odorat&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Nocturne-(Capacit&#233;).html&quot; title=&quot;vision nocturne&quot;&gt;vision nocturne&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;D&#233;veloppement au niveau 7.&lt;/b&gt; &lt;b&gt;Taille&lt;/b&gt; G &lt;b&gt; ; &lt;/b&gt;CA&lt;b&gt; armure naturelle +2 ; &lt;/b&gt;Attaque&lt;b&gt; morsure (1d8), 2 griffes (1d6) ; &lt;/b&gt;Caract&#233;ristiques&lt;b&gt; For +8, Dex -2, Con +4 ; &lt;/b&gt;Attaque sp&#233;ciale&#39;&#39;&#39; &lt;a class=&quot;pagelink&quot; href=&quot;Bond-(Capacit&#233;).html&quot; title=&quot;Bond&quot;&gt;bond&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;&#201;treinte-(Capacit&#233;).html&quot; title=&quot;&#201;treinte&quot;&gt;&#233;treinte&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Pattes-Arri&#232;re-(Capacit&#233;).html&quot; title=&quot;Pattes arri&#232;re&quot;&gt;pattes arri&#232;re&lt;/a&gt; (1d6).&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Lion|FP 3}
+{s:pucem|Animal|Plaines|Tropical}
+{s:BDTexte|''Source : Bestiaire'' p.202}
+{s:BDTexte|'''PX''' 800}
+{s:BDTexte|[[type Animal|Animal]] de taille G, N}
+{s:BDTexte|'''Init''' +7 ; '''Sens''' [[odorat]], [[vision nocturne]] ; [[Perception]] +9}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 15, contact 12, pris au dépourvu 12 (Dex +3, naturelle +3, taille -1)}
+{s:BDTexte|'''pv''' 32 (5d8+10)}
+{s:BDTexte|'''Réf''' +7, '''Vig''' +6, '''Vol''' +2}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 12 m (8 {s:c})}
+{s:BDTexte|'''Corps à corps''' morsure, +7 (1d8+5 et [[étreinte]]), 2 griffes, +7 (1d4+5)}
+{s:BDTexte|'''Espace''' 3 m (2 {s:c}) ; '''Allonge''' 1,50 m (1 {s:c})}
+{s:BDTexte|'''Attaques spéciales''' [[bond]], [[pattes arrière]] (2 griffes, +7, 1d4+5)}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 21, '''Dex''' 17, '''Con''' 15, '''Int''' 2, '''Sag''' 12, '''Cha''' 6}
+{s:BDTexte|'''BBA''' +3, '''BMO''' +9 (+13 [[lutte]]), '''DMD''' 22 (26 contre [[croc-en-jambe]])}
+{s:BDTexte|'''Dons''' [[Course]], [[Science de linitiative|Science de l'initiative]], [[Talent]] ([[Perception]])}
+{s:BDTexte|'''Compétences''' [[Acrobaties]] +11, [[Discrétion]] +8 (+12 dans les fourrés), [[Perception]] +9 ; '''Modificateurs raciaux''' [[Acrobaties]] +4, [[Discrétion]] +4 (+8 dans les fourrés)}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' plaines chaudes}
+{s:BDTexte|'''Organisation sociale''' solitaire, couple ou meute (3-10)}
+{s:BDTexte|'''Trésor''' aucun}
+</div>
+</td><td><div>''On peut voir les muscles de ce grand félin bouger sous sa peau, tandis qu’il montre les crocs et secoue les poils de son épaisse crinière.''
+
+Les lions mâles mesurent entre 1,50 mètre et 2,40 mètres de longueur
+et pèsent entre 165 kg et 275 kg. Les femelles sont légèrement
+plus petites mais utilisent le même profil.
+Les lions sont des prédateurs qui occupent
+généralement le sommet de la chaîne
+alimentaire sur leur territoire,
+quand cela est plus pratique
+ou devient nécessaire, ils se
+contentent de dévorer des
+cadavres. 
+
+Ils s’attaquent
+parfois aux autres prédateurs
+(comme les [[Léopard|léopards]] et les
+[[Hyène|hyènes]]) qui pénètrent sur leur
+terrain de chasse, mais ils ne les
+dévorent que si les proies se font
+rares. Les lions ne chassent pas
+spécialement les humanoïdes
+mais, de temps en temps, l’un
+d’eux se rend compte que
+ce sont des proies faciles
+et en fait la composante
+principale de son régime
+alimentaire.
+
+====Le lion comme compagnon animal====
+
+'''Caractéristiques de départ.''' '''Taille''' M ; '''Vitesse''' 12 m ; '''CA''' armure naturelle +1 ; '''Attaque''' morsure (1d6), 2 griffes (1d4) ; '''Caractéristiques''' For 13, Dex 17, Con 13, Int 2, Sag 15, Cha 10 ; '''Attaque spéciale''' [[pattes arrière]] (1d4) ; '''Particularités''' [[odorat]], [[vision nocturne]].
+
+'''Développement au niveau 7.''' '''Taille''' G ''' ; '''CA''' armure naturelle +2 ; '''Attaque''' morsure (1d8), 2 griffes (1d6) ; '''Caractéristiques''' For +8, Dex -2, Con +4 ; '''Attaque spéciale''' [[bond]], [[étreinte]], [[pattes arrière]] (1d6).</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Lion</fullName>
+</wikiPage>

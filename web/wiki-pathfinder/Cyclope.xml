@@ -1,0 +1,185 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Cyclope</title>
+  <categories><category>Pathfinder-RPG.Bestiaire</category><category>Pathfinder-RPG.Monstre</category></categories>
+  <lastModified>2013-07-30 16:42:44Z</lastModified>
+  <version>8</version>
+  <inLinks><link>Pathfinder-RPG.Convocation dalliés naturels</link><link>Pathfinder-RPG.Frappes ciblées</link><link>Pathfinder-RPG.Glossaire des monstres</link><link>Pathfinder-RPG.Linguistique</link><link>Pathfinder-RPG.Liste de monstres par FP</link><link>Pathfinder-RPG.Liste de monstres par milieu naturel</link><link>Pathfinder-RPG.Liste de monstres par type</link><link>Pathfinder-RPG.Monstres</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.type Humanoïde</link><link>Pathfinder-RPG.sous-type géant</link><link>Pathfinder-RPG.vision nocturne</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Férocité</link><link>Pathfinder-RPG.Attaque en puissance</link><link>Pathfinder-RPG.Enchaînement</link><link>Pathfinder-RPG.Science de la bousculade</link><link>Pathfinder-RPG.Succession denchaînements</link><link>Pathfinder-RPG.Vigilance</link><link>Pathfinder-RPG.Intimidation</link><link>Pathfinder-RPG.Profession</link><link>Pathfinder-RPG.Psychologie</link><link>Pathfinder-RPG.Survie</link><link>Pathfinder-RPG.taille G</link><link>Pathfinder-RPG.Action immédiate</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Cyclope&lt;div style=&quot;float:right;&quot;&gt;FP 5&lt;/div&gt;&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Bestiaire p.54&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 1.600
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Humano&#239;de.html&quot; title=&quot;Humano&#239;de&quot;&gt;Humano&#239;de&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-G&#233;ant.html&quot; title=&quot;G&#233;ant (sous-type)&quot;&gt;g&#233;ant&lt;/a&gt;) de taille G, NM
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; -1 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Nocturne-(Capacit&#233;).html&quot; title=&quot;vision nocturne&quot;&gt;vision nocturne&lt;/a&gt; ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +11
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 19, contact 8, pris au d&#233;pourvu 19 (armure +4, Dex -1, naturelle +7, taille -1)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 65 (10d8+20)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +2, &lt;b&gt;Vig&lt;/b&gt; +9, &lt;b&gt;Vol&lt;/b&gt; +4
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Capacit&#233;s d&#233;fensives&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;F&#233;rocit&#233;-(Capacit&#233;).html&quot; title=&quot;F&#233;rocit&#233;&quot;&gt;f&#233;rocit&#233;&lt;/a&gt; 
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 9 m (6 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; grande hache +11/+6 (3d6+7/x3)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Distance&lt;/b&gt; arbal&#232;te lourde +5 (2d8/19-20/x3)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Espace&lt;/b&gt; 3 m (2 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) ; &lt;b&gt;Allonge&lt;/b&gt; 3 m (2 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 21, &lt;b&gt;Dex&lt;/b&gt; 8, &lt;b&gt;Con&lt;/b&gt; 15, &lt;b&gt;Int&lt;/b&gt; 10, &lt;b&gt;Sag&lt;/b&gt; 13, &lt;b&gt;Cha&lt;/b&gt; 8
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +7, &lt;b&gt;BMO&lt;/b&gt; +13, &lt;b&gt;DMD&lt;/b&gt; 22
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Attaque-En-Puissance.html&quot; title=&quot;Attaque en puissance&quot;&gt;Attaque en puissance&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Encha&#238;nement.html&quot; title=&quot;Encha&#238;nement&quot;&gt;Encha&#238;nement&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Science-De-La-Bousculade.html&quot; title=&quot;Science de la bousculade&quot;&gt;Science de la bousculade&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Succession-Dencha&#238;nements.html&quot; title=&quot;Succession d&amp;#39;encha&#238;nements&quot;&gt;Succession d&#39;encha&#238;nements&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Vigilance.html&quot; title=&quot;Vigilance&quot;&gt;Vigilance&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Intimidation.html&quot; title=&quot;Intimidation&quot;&gt;Intimidation&lt;/a&gt; +9, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +11, &lt;a class=&quot;pagelink&quot; href=&quot;Profession.html&quot; title=&quot;Profession&quot;&gt;Profession&lt;/a&gt; (devin) +10 &lt;a class=&quot;pagelink&quot; href=&quot;Psychologie.html&quot; title=&quot;Psychologie&quot;&gt;Psychologie&lt;/a&gt; +5, &lt;a class=&quot;pagelink&quot; href=&quot;Survie.html&quot; title=&quot;Survie&quot;&gt;Survie&lt;/a&gt; +6 ; &lt;b&gt;Modificateurs raciaux&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +8
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Langues&lt;/b&gt; commun, cyclope, g&#233;ant
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Particularit&#233;s&lt;/b&gt; vision instantan&#233;e
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; climats temp&#233;r&#233;s ou tropicaux
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation sociale&lt;/b&gt; solitaire, conclave (2-6) ou tribu (7-18)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; standard (arbal&#232;te lourde de &lt;a class=&quot;pagelink&quot; href=&quot;Petites-Et-Grandes-Cr&#233;atures.html#TABLEAUTAILLES&quot; title=&quot;taille G&quot;&gt;taille G&lt;/a&gt;, armure de peau, grande hache de &lt;a class=&quot;pagelink&quot; href=&quot;Petites-Et-Grandes-Cr&#233;atures.html#TABLEAUTAILLES&quot; title=&quot;taille G&quot;&gt;taille G&lt;/a&gt;, autres tr&#233;sors)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Capacit&#233;s sp&#233;ciales&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Vision instantan&#233;e (Sur)&lt;/b&gt; Une fois par jours, par une &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions.html#IMMEDIATE&quot; title=&quot;Action imm&#233;diate&quot;&gt;action imm&#233;diate&lt;/a&gt;, un cyclope peut jeter un rapide coup d&#39;œil dans les spectre normalement invisible des diff&#233;rents futurs possibles. Cette vision lui permet de choisir le r&#233;sultat exact d&#39;un lancer de d&#233; avant que celui-ci ne soit effectu&#233;. Cette capacit&#233; ne peut affecter que les actions entreprises par le cyclope lui-m&#234;me et ne peut pas &#234;tre utilis&#233;e sur les jets de autres cr&#233;atures.
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;td&gt;&lt;div&gt;&lt;i&gt;Sous l’unique œil qui orne le front de ce g&#233;ant de pr&#232;s de trois m&#232;tres, on peut voir une large bouche aussi vaste qu’une caverne.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Les cyclopes sont des &#234;tres d’un naturel grave et solennel qui
+dirigeaient de vastes royaumes il y a de cela plusieurs milliers ann&#233;es.
+Aujourd’hui, leurs gloires pass&#233;es sont oubli&#233;es depuis longtemps et
+les quelques cyclopes qui vivent encore ne s’int&#233;ressent plus gu&#232;re qu’&#224;
+d&#233;fendre leur repaire et &#224; trouver de quoi se nourrir. &lt;br /&gt;&lt;br /&gt;Cette derni&#232;re
+t&#226;che occupe d’ailleurs la plupart de leurs pens&#233;es car ce sont leur
+app&#233;tit monstrueux et leur faim insatiable qui contr&#244;lent la destin&#233;e
+de leur race et qui, jadis, ont sans doute caus&#233; la chute de leur empire.&lt;br /&gt;&lt;br /&gt;Un cyclope moyen mesure 2,70 m&#232;tres et p&#232;se 300 kg. Les
+cyclopes des deux sexes sont quasiment chauves avec,
+parfois, de maigres touffes de cheveux sombres au-dessus
+de leurs oreilles. Le sourcil broussailleux et expressif qui surplombe
+leur grand œil unique permet de d&#233;chiffrer facilement leurs attitudes.&lt;br /&gt;&lt;br /&gt;L’histoire des cyclopes s’efface peu &#224; peu, ne subsistant plus
+que dans quelques r&#233;cits grav&#233;s sur les murs en ruines de cit&#233;s
+perdues que la v&#233;g&#233;tation a envahies et dont la chute remonte &#224;
+bien avant l’apparition des elfes, &#224; une &#233;poque o&#249; les dragons et les
+g&#233;ants dirigeaient une terre o&#249; les insignifiantes races &#233;ph&#233;m&#232;res
+actuellement au pouvoir n’existaient pas encore. &lt;br /&gt;&lt;br /&gt;La d&#233;cr&#233;pitude qui
+a touch&#233; leurs royaumes est telle qu’aujourd’hui les humains un tant
+soit peu &#233;duqu&#233;s en savent sans doute plus que la plupart des cyclopes
+sur les triomphes quasiment mythiques de ces &#226;ges perdus.&lt;br /&gt;&lt;br /&gt;Certains &#233;crits tr&#232;s anciens, les traditions orales des autres races de
+g&#233;ants et les r&#233;cits fragmentaires des tribus natives des jungles du sud
+parlent de &#171; grands cyclopes &#187; beaucoup plus imposants et primitifs,
+des cr&#233;atures titanesques aux jambes velues arborant une gigantesque
+corne au-dessus de leur œil inquisiteur. On pense que les anciens
+cyclopes consid&#233;raient ces cr&#233;atures comme leurs dirigeants, ou alors
+comme de simples b&#234;tes de combat. Certains cyclopes modernes les
+honorent comme d’insaisissables dieux vivants de la destruction.
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Cyclope|FP 5}
+{s:pucem|Humanoïde|Ruines-Donjons|Tempéré}
+{s:BDTexte|''Source : Bestiaire p.54''}
+{s:BDTexte|'''PX''' 1.600}
+{s:BDTexte|[[type Humanoïde|Humanoïde]] ([[sous-type géant|géant]]) de taille G, NM}
+{s:BDTexte|'''Init''' -1 ; '''Sens''' [[vision nocturne]] ; [[Perception]] +11}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 19, contact 8, pris au dépourvu 19 (armure +4, Dex -1, naturelle +7, taille -1)}
+{s:BDTexte|'''pv''' 65 (10d8+20)}
+{s:BDTexte|'''Réf''' +2, '''Vig''' +9, '''Vol''' +4}
+{s:BDTexte|'''Capacités défensives''' [[férocité]] }
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 9 m (6 {s:c})}
+{s:BDTexte|'''Corps à corps''' grande hache +11/+6 (3d6+7/x3)}
+{s:BDTexte|'''Distance''' arbalète lourde +5 (2d8/19-20/x3)}
+{s:BDTexte|'''Espace''' 3 m (2 {s:c}) ; '''Allonge''' 3 m (2 {s:c})}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 21, '''Dex''' 8, '''Con''' 15, '''Int''' 10, '''Sag''' 13, '''Cha''' 8}
+{s:BDTexte|'''BBA''' +7, '''BMO''' +13, '''DMD''' 22}
+{s:BDTexte|'''Dons''' [[Attaque en puissance]], [[Enchaînement]], [[Science de la bousculade]], [[Succession denchaînements|Succession d'enchaînements]], [[Vigilance]]}
+{s:BDTexte|'''Compétences''' [[Intimidation]] +9, [[Perception]] +11, [[Profession]] (devin) +10 [[Psychologie]] +5, [[Survie]] +6 ; '''Modificateurs raciaux''' [[Perception]] +8}
+{s:BDTexte|'''Langues''' commun, cyclope, géant}
+{s:BDTexte|'''Particularités''' vision instantanée}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' climats tempérés ou tropicaux}
+{s:BDTexte|'''Organisation sociale''' solitaire, conclave (2-6) ou tribu (7-18)}
+{s:BDTexte|'''Trésor''' standard (arbalète lourde de [[taille G]], armure de peau, grande hache de [[taille G]], autres trésors)}
+{s:BDSousTitre|Capacités spéciales}
+{s:BDTexte|'''Vision instantanée (Sur)''' Une fois par jours, par une [[action immédiate]], un cyclope peut jeter un rapide coup d'œil dans les spectre normalement invisible des différents futurs possibles. Cette vision lui permet de choisir le résultat exact d'un lancer de dé avant que celui-ci ne soit effectué. Cette capacité ne peut affecter que les actions entreprises par le cyclope lui-même et ne peut pas être utilisée sur les jets de autres créatures.}
+</div>
+</td><td><div>''Sous l’unique œil qui orne le front de ce géant de près de trois mètres, on peut voir une large bouche aussi vaste qu’une caverne.''
+
+Les cyclopes sont des êtres d’un naturel grave et solennel qui
+dirigeaient de vastes royaumes il y a de cela plusieurs milliers années.
+Aujourd’hui, leurs gloires passées sont oubliées depuis longtemps et
+les quelques cyclopes qui vivent encore ne s’intéressent plus guère qu’à
+défendre leur repaire et à trouver de quoi se nourrir. 
+
+Cette dernière
+tâche occupe d’ailleurs la plupart de leurs pensées car ce sont leur
+appétit monstrueux et leur faim insatiable qui contrôlent la destinée
+de leur race et qui, jadis, ont sans doute causé la chute de leur empire.
+
+Un cyclope moyen mesure 2,70 mètres et pèse 300 kg. Les
+cyclopes des deux sexes sont quasiment chauves avec,
+parfois, de maigres touffes de cheveux sombres au-dessus
+de leurs oreilles. Le sourcil broussailleux et expressif qui surplombe
+leur grand œil unique permet de déchiffrer facilement leurs attitudes.
+
+L’histoire des cyclopes s’efface peu à peu, ne subsistant plus
+que dans quelques récits gravés sur les murs en ruines de cités
+perdues que la végétation a envahies et dont la chute remonte à
+bien avant l’apparition des elfes, à une époque où les dragons et les
+géants dirigeaient une terre où les insignifiantes races éphémères
+actuellement au pouvoir n’existaient pas encore. 
+
+La décrépitude qui
+a touché leurs royaumes est telle qu’aujourd’hui les humains un tant
+soit peu éduqués en savent sans doute plus que la plupart des cyclopes
+sur les triomphes quasiment mythiques de ces âges perdus.
+
+Certains écrits très anciens, les traditions orales des autres races de
+géants et les récits fragmentaires des tribus natives des jungles du sud
+parlent de « grands cyclopes » beaucoup plus imposants et primitifs,
+des créatures titanesques aux jambes velues arborant une gigantesque
+corne au-dessus de leur œil inquisiteur. On pense que les anciens
+cyclopes considéraient ces créatures comme leurs dirigeants, ou alors
+comme de simples bêtes de combat. Certains cyclopes modernes les
+honorent comme d’insaisissables dieux vivants de la destruction.
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Cyclope</fullName>
+</wikiPage>

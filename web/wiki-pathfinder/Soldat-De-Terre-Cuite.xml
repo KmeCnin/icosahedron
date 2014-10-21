@@ -1,0 +1,162 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Soldat de terre cuite</title>
+  <categories><category>Pathfinder-RPG.Bestiaire 3</category><category>Pathfinder-RPG.Monstre</category><category>Pathfinder-RPG.Règles officielles</category></categories>
+  <lastModified>2013-10-14 19:14:51Z</lastModified>
+  <version>9</version>
+  <inLinks><link>Pathfinder-RPG.Glossaire des monstres</link><link>Pathfinder-RPG.Liste de monstres par FP</link><link>Pathfinder-RPG.Liste de monstres par milieu naturel</link><link>Pathfinder-RPG.Liste de monstres par type</link><link>Pathfinder-RPG.Monstres</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.type Créature artificielle</link><link>Pathfinder-RPG.vision nocturne</link><link>Pathfinder-RPG.vision dans le noir</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.concentration</link><link>Pathfinder-RPG.Marche dans les airs</link><link>Pathfinder-RPG.Arme de prédilection</link><link>Pathfinder-RPG.Combat à deux armes</link><link>Pathfinder-RPG.Science de linitiative</link><link>Pathfinder-RPG.NLS</link><link>Pathfinder-RPG.Esquive</link><link>Pathfinder-RPG.CA</link><link>Pathfinder-RPG.jet de sauvegarde</link><link>Pathfinder-RPG.Création de créatures artificielles</link><link>Pathfinder-RPG.Animation dobjets</link><link>Pathfinder-RPG.Grâce féline</link><link>Pathfinder-RPG.Mission</link><link>Pathfinder-RPG.Affûtage</link><link>Pathfinder-RPG.Artisanat</link><link>Pathfinder-RPG.DD</link><link>Pathfinder-RPG.FP</link><link>Pathfinder-RPG.Tir à bout portant</link><link>Pathfinder-RPG.Tir de précision</link><link>Pathfinder-RPG.Attaque en puissance</link><link>Pathfinder-RPG.Science de la bousculade</link><link>Pathfinder-RPG.Science du renversement</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Soldat de terre-cuite&lt;div style=&quot;float:right;&quot;&gt;FP 6&lt;/div&gt;&lt;/div&gt;
+ 
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Bestiaire&lt;/i&gt; p.243
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 2 400
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Cr&#233;ature-Artificielle.html&quot; title=&quot;Cr&#233;ature artificielle&quot;&gt;Cr&#233;ature artificielle&lt;/a&gt; de taille M, N
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +7 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Nocturne-(Capacit&#233;).html&quot; title=&quot;vision nocturne&quot;&gt;vision nocturne&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Capacit&#233;s-Sp&#233;ciales.html#VISIONDANSLENOIR&quot; title=&quot;vision dans le noir&quot;&gt;vision dans le noir&lt;/a&gt; 18 m ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +8
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 19, &lt;b&gt;contact&lt;/b&gt; 13, &lt;b&gt;pris au d&#233;pourvu&lt;/b&gt; 6 (Dex +4, naturelle +6)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 64 (8d10+20)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +5, &lt;b&gt;Vig&lt;/b&gt; +2, &lt;b&gt;Vol&lt;/b&gt; +2 ; 
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;RD&lt;/b&gt; 5/contondant ; &lt;b&gt;Immunit&#233;&lt;/b&gt; traits des cr&#233;atures artificielles, feu ; &lt;b&gt;RM&lt;/b&gt; 17
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 9 m
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; longue, +10/+5 (1d8+3/19-20) et &#233;p&#233;e courte, +10 (1d6+1/19-20) ou 2 coups, +11 (1d6+3)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Espace&lt;/b&gt; 3 m (2 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) ; &lt;b&gt;Allonge&lt;/b&gt; 1,5 m (1 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaques sp&#233;ciales&lt;/b&gt; armes aff&#251;t&#233;es, combat en rang
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Pouvoirs magiques&lt;/b&gt; (NLS 11) ; &lt;a class=&quot;pagelink&quot; href=&quot;Lancer-Des-Sorts.html#CONCENTRATION&quot; title=&quot;Concentration&quot;&gt;concentration&lt;/a&gt; +12
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+Constant — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Marche-Dans-Les-Airs.html&quot; title=&quot;Marche dans les airs&quot;&gt;marche dans les airs&lt;/a&gt;&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 16, &lt;b&gt;Dex&lt;/b&gt; 16, &lt;b&gt;Con&lt;/b&gt; —, &lt;b&gt;Int&lt;/b&gt; 1, &lt;b&gt;Sag&lt;/b&gt; 11, &lt;b&gt;Cha&lt;/b&gt; 1
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +8, &lt;b&gt;BMO&lt;/b&gt; +11, &lt;b&gt;DMD&lt;/b&gt; 24
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Arme-De-Pr&#233;dilection.html&quot; title=&quot;Arme de pr&#233;dilection&quot;&gt;Arme de pr&#233;dilection&lt;/a&gt; (&#233;p&#233;e longue, &#233;p&#233;e courte), &lt;a class=&quot;pagelink&quot; href=&quot;Combat-&#192;-Deux-Armes.html&quot; title=&quot;Combat &#224; deux armes&quot;&gt;Combat &#224; deux armes&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Science-De-Linitiative.html&quot; title=&quot;Science de l&amp;#39;initiative&quot;&gt;Science de l’initiative&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +8
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Langues&lt;/b&gt; a&#233;rien (ne peut pas parler)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; tous
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation sociale&lt;/b&gt; solitaire, troupe (3-12) ou arm&#233;e (13+)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; fortuit (&#233;p&#233;e longue, &#233;p&#233;e courte, autre tr&#233;sor)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Capacit&#233;s sp&#233;ciales&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Armes aff&#251;t&#233;es (Sur).&lt;/b&gt; Lorsque le soldat de terre-cuite est engag&#233; en combat depuis au moins 1 round, ses armes b&#233;n&#233;ficient automatiquement des avantages du sort aff&#251;tage (&lt;a class=&quot;pagelink&quot; href=&quot;Lancer-Des-Sorts.html#NLS&quot; title=&quot;NLS&quot;&gt;NLS&lt;/a&gt; 6). Cet effet dure jusqu’&#224; la fin du combat.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Combat en rang (Ext).&lt;/b&gt; Lorsqu’un soldat de terre-cuite est adjacent &#224; un autre soldat de terre-cuite, il b&#233;n&#233;ficie d’un bonus d’&lt;a class=&quot;pagelink&quot; href=&quot;Esquive.html&quot; title=&quot;Esquive&quot;&gt;esquive&lt;/a&gt; de +2 &#224; la &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#CA&quot; title=&quot;CA&quot;&gt;CA&lt;/a&gt; et d’un bonus de +2 &#224; ses &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;jet de sauvegarde&quot;&gt;jets de sauvegarde&lt;/a&gt;, &#224; ses jets d’attaque et &#224; ses jets de d&#233;g&#226;ts.
+&lt;/div&gt;&lt;br /&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Cr&#233;ature en terre cuite&lt;div style=&quot;float:right;&quot;&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;NLS&lt;/b&gt; 9 ; &lt;b&gt;Prix&lt;/b&gt; 19 000 po
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;CONSTRUCTION&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Conditions requises&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;ation-De-Cr&#233;atures-Artificielles.html&quot; title=&quot;Cr&#233;ation de cr&#233;atures artificielles&quot;&gt;Cr&#233;ation de cr&#233;atures artificielles&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Animation-Dobjets.html&quot; title=&quot;Animation d&amp;#39;objets&quot;&gt;animation d’objets&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Gr&#226;ce-F&#233;line.html&quot; title=&quot;Gr&#226;ce f&#233;line&quot;&gt;gr&#226;ce f&#233;line&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Mission.html&quot; title=&quot;Mission&quot;&gt;mission&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Aff&#251;tage.html&quot; title=&quot;Aff&#251;tage&quot;&gt;aff&#251;tage&lt;/a&gt;, le cr&#233;ateur doit avoir un niveau de lanceur de sorts minimum de 9 ; &lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Artisanat.html&quot; title=&quot;Artisanat&quot;&gt;Artisanat&lt;/a&gt; (poterie) ou &lt;a class=&quot;pagelink&quot; href=&quot;Artisanat.html&quot; title=&quot;Artisanat&quot;&gt;Artisanat&lt;/a&gt; (sculpture) &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DEGREDEDIFFICULTE&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; 14 ; &lt;b&gt;Co&#251;t&lt;/b&gt; 10 000 po
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Le corps d’un soldat de terre cuite est fabriqu&#233; &#224; partir de 300 kilos d’argile, cuite avec des vernis rares et magiques d’une valeur de 500 po.&lt;/i&gt;
+&lt;/div&gt;&lt;br /&gt;&lt;/div&gt;
+&lt;/td&gt;&lt;td&gt;&lt;div&gt;&lt;i&gt;Cette silhouette d’argile grandeur nature, parfaitement sculpt&#233;e et finement ouvrag&#233;e, affiche un regard de farouche d&#233;termination et tient une &#233;p&#233;e dans chaque main.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Le soldat de terre cuite est model&#233; dans l’argile et chauff&#233; pour &#234;tre transform&#233; en c&#233;ramique. Il est g&#233;n&#233;ralement sculpt&#233; de fa&#231;on &#224; ressembler &#224; un soldat humain en armure, m&#234;me si on trouve &#233;galement des soldats de terre-cuite ressemblant &#224; d’autres races comme les hobgobelins, les tengus, voire m&#234;me les d&#233;mons et les onis. Les soldats de terre-cuite sont souvent cr&#233;&#233;s pour garder les tombeaux de puissants dirigeants, maintenant les rangs en silence afin de prot&#233;ger leur seigneur m&#234;me apr&#232;s leur mort. Ces soldats demeurent silencieux pendant des si&#232;cles, ne s’animant que pour d&#233;fendre le tombeau et ses richesses contre les pilleurs de tombes. Les soldats de terre-cuite sont g&#233;n&#233;ralement peints de laques color&#233;es, mais l’usure et le temps effacent souvent ou ternissent ces d&#233;corations. Le soldat de terre cuite mesure 1,80 m&#232;tre et p&#232;se 300 kilos.&lt;br /&gt;&lt;br /&gt;Contrairement &#224; la plupart des cr&#233;atures artificielles, les soldats de terre-cuite renferment une &#233;tincelle d’intelligence. Elle ne suffit pas &#224; les douer de la parole ni de la capacit&#233; &#224; agir de leur propre gr&#233; mais elle leur permet de recourir &#224; des tactiques plus complexes que celles de la plupart des cr&#233;atures artificielles. Il n’est pas rare pour un soldat de terre-cuite de poss&#233;der diff&#233;rents dons ou d’utiliser plusieurs armes. &lt;br /&gt;&lt;br /&gt;Voici deux variantes assez courantes du soldat de terre-cuite. &lt;br /&gt;&lt;br /&gt;&lt;b&gt;Archer de terre cuite&lt;/b&gt; &lt;b&gt;(&lt;a class=&quot;pagelink&quot; href=&quot;Rencontres.html#FP&quot; title=&quot;FP&quot;&gt;FP&lt;/a&gt; +0)&lt;/b&gt;. Les archers de terre-cuite sont simplement des soldats de terre-cuite &#233;quip&#233;s d’un arc long composite. Ils ont les dons &lt;a class=&quot;pagelink&quot; href=&quot;Arme-De-Pr&#233;dilection.html&quot; title=&quot;Arme de pr&#233;dilection&quot;&gt;Arme de pr&#233;dilection&lt;/a&gt; (arc long), &lt;a class=&quot;pagelink&quot; href=&quot;Science-De-Linitiative.html&quot; title=&quot;Science de l&amp;#39;initiative&quot;&gt;Science de l’initiative&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Tir-&#192;-Bout-Portant.html&quot; title=&quot;Tir &#224; bout portant&quot;&gt;Tir &#224; bout portant&lt;/a&gt; et &lt;a class=&quot;pagelink&quot; href=&quot;Tir-De-Pr&#233;cision.html&quot; title=&quot;Tir de pr&#233;cision&quot;&gt;Tir de pr&#233;cision&lt;/a&gt;. &lt;br /&gt;&lt;br /&gt;&lt;b&gt;Cavalier de terre cuite&lt;/b&gt; &lt;b&gt;(&lt;a class=&quot;pagelink&quot; href=&quot;Rencontres.html#FP&quot; title=&quot;FP&quot;&gt;FP&lt;/a&gt; +1)&lt;/b&gt;. Certains soldats de terre-cuite sont model&#233;s de fa&#231;on &#224; ressembler &#224; des guerriers mont&#233;s sur des chevaux de terre-cuite, mais le cavalier et sa monture ne forment qu’une seule cr&#233;ature. Les cavaliers de terre-cuite sont des soldats de terre-cuite de taille G avec 10 d&#233;s de vie raciaux et les pouvoirs sp&#233;ciaux de pi&#233;tinement et d’armes de taille inf&#233;rieure. Les cavaliers de terre-cuite sont g&#233;n&#233;ralement &#233;quip&#233;s de lances plut&#244;t que d’&#233;p&#233;es et ont les dons &lt;a class=&quot;pagelink&quot; href=&quot;Arme-De-Pr&#233;dilection.html&quot; title=&quot;Arme de pr&#233;dilection&quot;&gt;Arme de pr&#233;dilection&lt;/a&gt; (lance), &lt;a class=&quot;pagelink&quot; href=&quot;Attaque-En-Puissance.html&quot; title=&quot;Attaque en puissance&quot;&gt;Attaque en puissance&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Science-De-La-Bousculade.html&quot; title=&quot;Science de la bousculade&quot;&gt;Science de la bousculade&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Science-De-Linitiative.html&quot; title=&quot;Science de l&amp;#39;initiative&quot;&gt;Science de l’initiative&lt;/a&gt; et &lt;a class=&quot;pagelink&quot; href=&quot;Science-Du-Renversement.html&quot; title=&quot;Science du renversement&quot;&gt;Science du renversement&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Soldat de terre-cuite|FP 6}
+{s:pucem|Créature artificielle|Ruines-Donjons|Tempéré} 
+{s:BDTexte|''Source : Bestiaire'' p.243}
+{s:BDTexte|'''PX''' 2 400}
+{s:BDTexte|[[type Créature artificielle|Créature artificielle]] de taille M, N}
+{s:BDTexte|'''Init''' +7 ; '''Sens''' [[vision nocturne]], [[vision dans le noir]] 18 m ; [[Perception]] +8}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 19, '''contact''' 13, '''pris au dépourvu''' 6 (Dex +4, naturelle +6)}
+{s:BDTexte|'''pv''' 64 (8d10+20)}
+{s:BDTexte|'''Réf''' +5, '''Vig''' +2, '''Vol''' +2 ; }
+{s:BDTexte|'''RD''' 5/contondant ; '''Immunité''' traits des créatures artificielles, feu ; '''RM''' 17}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 9 m}
+{s:BDTexte|'''Corps à corps''' longue, +10/+5 (1d8+3/19-20) et épée courte, +10 (1d6+1/19-20) ou 2 coups, +11 (1d6+3)}
+{s:BDTexte|'''Espace''' 3 m (2 {s:c}) ; '''Allonge''' 1,5 m (1 {s:c})}
+{s:BDTexte|'''Attaques spéciales''' armes affûtées, combat en rang}
+{s:BDTexte|'''Pouvoirs magiques''' (NLS 11) ; [[concentration]] +12}
+{s:BDSorts|Constant — ''[[marche dans les airs]]''}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 16, '''Dex''' 16, '''Con''' —, '''Int''' 1, '''Sag''' 11, '''Cha''' 1}
+{s:BDTexte|'''BBA''' +8, '''BMO''' +11, '''DMD''' 24}
+{s:BDTexte|'''Dons''' [[Arme de prédilection]] (épée longue, épée courte), [[Combat à deux armes]], [[Science de linitiative|Science de l’initiative]]}
+{s:BDTexte|'''Compétences''' [[Perception]] +8}
+{s:BDTexte|'''Langues''' aérien (ne peut pas parler)}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' tous}
+{s:BDTexte|'''Organisation sociale''' solitaire, troupe (3-12) ou armée (13+)}
+{s:BDTexte|'''Trésor''' fortuit (épée longue, épée courte, autre trésor)}
+{s:BDSousTitre|Capacités spéciales}
+{s:BDTexte|'''Armes affûtées (Sur).''' Lorsque le soldat de terre-cuite est engagé en combat depuis au moins 1 round, ses armes bénéficient automatiquement des avantages du sort affûtage ([[NLS]] 6). Cet effet dure jusqu’à la fin du combat.}
+{s:BDTexte|'''Combat en rang (Ext).''' Lorsqu’un soldat de terre-cuite est adjacent à un autre soldat de terre-cuite, il bénéficie d’un bonus d’[[esquive]] de +2 à la [[CA]] et d’un bonus de +2 à ses [[jet de sauvegarde|jets de sauvegarde]], à ses jets d’attaque et à ses jets de dégâts.}
+
+
+<div class="BD">
+{s:BDTitre|Créature en terre cuite}
+{s:BDTexte|'''NLS''' 9 ; '''Prix''' 19 000 po}
+{s:BDSousTitre|CONSTRUCTION}
+{s:BDTexte|'''Conditions requises''' [[Création de créatures artificielles]], [[animation dobjets|animation d’objets]], [[grâce féline]], [[mission]], [[affûtage]], le créateur doit avoir un niveau de lanceur de sorts minimum de 9 ; '''Compétences''' [[Artisanat]] (poterie) ou [[Artisanat]] (sculpture) [[DD]] 14 ; '''Coût''' 10 000 po}
+{s:BDTexte|''Le corps d’un soldat de terre cuite est fabriqué à partir de 300 kilos d’argile, cuite avec des vernis rares et magiques d’une valeur de 500 po.''}
+
+</div>
+</td><td><div>''Cette silhouette d’argile grandeur nature, parfaitement sculptée et finement ouvragée, affiche un regard de farouche détermination et tient une épée dans chaque main.''
+
+Le soldat de terre cuite est modelé dans l’argile et chauffé pour être transformé en céramique. Il est généralement sculpté de façon à ressembler à un soldat humain en armure, même si on trouve également des soldats de terre-cuite ressemblant à d’autres races comme les hobgobelins, les tengus, voire même les démons et les onis. Les soldats de terre-cuite sont souvent créés pour garder les tombeaux de puissants dirigeants, maintenant les rangs en silence afin de protéger leur seigneur même après leur mort. Ces soldats demeurent silencieux pendant des siècles, ne s’animant que pour défendre le tombeau et ses richesses contre les pilleurs de tombes. Les soldats de terre-cuite sont généralement peints de laques colorées, mais l’usure et le temps effacent souvent ou ternissent ces décorations. Le soldat de terre cuite mesure 1,80 mètre et pèse 300 kilos.
+
+Contrairement à la plupart des créatures artificielles, les soldats de terre-cuite renferment une étincelle d’intelligence. Elle ne suffit pas à les douer de la parole ni de la capacité à agir de leur propre gré mais elle leur permet de recourir à des tactiques plus complexes que celles de la plupart des créatures artificielles. Il n’est pas rare pour un soldat de terre-cuite de posséder différents dons ou d’utiliser plusieurs armes. 
+
+Voici deux variantes assez courantes du soldat de terre-cuite. 
+
+'''Archer de terre cuite''' '''([[FP]] +0)'''. Les archers de terre-cuite sont simplement des soldats de terre-cuite équipés d’un arc long composite. Ils ont les dons [[Arme de prédilection]] (arc long), [[Science de linitiative|Science de l’initiative]], [[Tir à bout portant]] et [[Tir de précision]]. 
+
+'''Cavalier de terre cuite''' '''([[FP]] +1)'''. Certains soldats de terre-cuite sont modelés de façon à ressembler à des guerriers montés sur des chevaux de terre-cuite, mais le cavalier et sa monture ne forment qu’une seule créature. Les cavaliers de terre-cuite sont des soldats de terre-cuite de taille G avec 10 dés de vie raciaux et les pouvoirs spéciaux de piétinement et d’armes de taille inférieure. Les cavaliers de terre-cuite sont généralement équipés de lances plutôt que d’épées et ont les dons [[Arme de prédilection]] (lance), [[Attaque en puissance]], [[Science de la bousculade]], [[Science de linitiative|Science de l’initiative]] et [[Science du renversement]].
+
+</div></td></tr></table>
+]]></raw>
+  <fullName>Pathfinder-RPG.Soldat de terre cuite</fullName>
+</wikiPage>

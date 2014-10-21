@@ -1,0 +1,207 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Attrape-mouches géant</title>
+  <categories><category>Pathfinder-RPG.Bestiaire</category><category>Pathfinder-RPG.Monstre</category></categories>
+  <lastModified>2013-02-02 13:31:11Z</lastModified>
+  <version>5</version>
+  <inLinks><link>Pathfinder-RPG.Glossaire des monstres</link><link>Pathfinder-RPG.Liste de monstres par FP</link><link>Pathfinder-RPG.Liste de monstres par milieu naturel</link><link>Pathfinder-RPG.Liste de monstres par type</link><link>Pathfinder-RPG.Monstres</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.type Plante</link><link>Pathfinder-RPG.Perception des vibrations</link><link>Pathfinder-RPG.vision nocturne</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Étreinte</link><link>Pathfinder-RPG.croc-en-jambe</link><link>Pathfinder-RPG.Arme de prédilection</link><link>Pathfinder-RPG.Attaque en puissance</link><link>Pathfinder-RPG.Enchaînement</link><link>Pathfinder-RPG.Frappe décisive</link><link>Pathfinder-RPG.Science de linitiative</link><link>Pathfinder-RPG.Talent</link><link>Pathfinder-RPG.Discrétion</link><link>Pathfinder-RPG.Vigueur surhumaine</link><link>Pathfinder-RPG.Agrippé</link><link>Pathfinder-RPG.manœuvre de combat</link><link>Pathfinder-RPG.Immobilisé</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Attrape-mouches g&#233;ant&lt;div style=&quot;float:right;&quot;&gt;FP 10&lt;/div&gt;&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Bestiaire p.25&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 9.600
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Plante.html&quot; title=&quot;Plante&quot;&gt;Plante&lt;/a&gt; de taille TG, N
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +8 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Perception-Des-Vibrations-(Capacit&#233;).html&quot; title=&quot;Perception des vibrations&quot;&gt;perception des vibrations&lt;/a&gt; 18 m (12 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Nocturne-(Capacit&#233;).html&quot; title=&quot;vision nocturne&quot;&gt;vision nocturne&lt;/a&gt; ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +10
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 22, contact 12, pris au d&#233;pourvu 18 (Dex +4, naturelle +10, taille -2)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 149 (13d8+91)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +8, &lt;b&gt;Vig&lt;/b&gt; +17, &lt;b&gt;Vol&lt;/b&gt; +5
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Immunit&#233;s&lt;/b&gt; effets mentaux, &#233;tourdissement, m&#233;tamorphose, paralysie, poison, sommeil ; &lt;b&gt;R&#233;sistances&lt;/b&gt; acide 20 
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 3 m (2 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; 4 morsures +15 (1d8+7 et &lt;a class=&quot;pagelink&quot; href=&quot;&#201;treinte-(Capacit&#233;).html&quot; title=&quot;&#201;treinte&quot;&gt;&#233;treinte&lt;/a&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Espace&lt;/b&gt; 4,50 m (3 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) ; &lt;b&gt;Allonge&lt;/b&gt; 4,50 m (3 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaques sp&#233;ciales&lt;/b&gt; enveloppement
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 25, &lt;b&gt;Dex&lt;/b&gt; 18, &lt;b&gt;Con&lt;/b&gt; 25, &lt;b&gt;Int&lt;/b&gt; 1, &lt;b&gt;Sag&lt;/b&gt; 12, &lt;b&gt;Cha&lt;/b&gt; 6
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +9, &lt;b&gt;BMO&lt;/b&gt; +18 (+22 lutte), &lt;b&gt;DMD&lt;/b&gt; 32 (&lt;a class=&quot;pagelink&quot; href=&quot;Croc-En-Jambe.html&quot; title=&quot;croc-en-jambe&quot;&gt;croc-en-jambe&lt;/a&gt; impossible)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Arme-De-Pr&#233;dilection.html&quot; title=&quot;Arme de pr&#233;dilection&quot;&gt;Arme de pr&#233;dilection&lt;/a&gt; (morsure), &lt;a class=&quot;pagelink&quot; href=&quot;Attaque-En-Puissance.html&quot; title=&quot;Attaque en puissance&quot;&gt;Attaque en puissance&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Encha&#238;nement.html&quot; title=&quot;Encha&#238;nement&quot;&gt;Encha&#238;nement&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Frappe-D&#233;cisive.html&quot; title=&quot;Frappe d&#233;cisive&quot;&gt;Frappe d&#233;cisive&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Science-De-Linitiative.html&quot; title=&quot;Science de l&amp;#39;initiative&quot;&gt;Science de l&#39;initiative&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Talent.html&quot; title=&quot;Talent&quot;&gt;Talent&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt;), &lt;a class=&quot;pagelink&quot; href=&quot;Vigueur-Surhumaine.html&quot; title=&quot;Vigueur surhumaine&quot;&gt;Vigueur surhumaine&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; +9 (+17 dans les broussailles), &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +10 ; &lt;b&gt;Modificateurs raciaux&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; +8 dans les broussailles
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; marais temp&#233;r&#233;s
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation sociale&lt;/b&gt; solitaire, couple ou bosquet (3-6)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; fortuit
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Particularit&#233;s&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Enveloppement (Ext)&lt;/b&gt; Si, au d&#233;but du tour de l&#39;attrape-mouches g&#233;ant, une cr&#233;ature d&#39;au moins deux cat&#233;gories de tailles de moins que lui est &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables.html#Agripp&#233;&quot; title=&quot;Agripp&#233;&quot;&gt;agripp&#233;&lt;/a&gt; dans une de ses gueules, il peut refermer ses m&#226;choires tout autour d&#39;elle en effectuant un nouveau test de &lt;a class=&quot;pagelink&quot; href=&quot;Manoeuvre-De-Combat.html&quot; title=&quot;manœuvre de combat&quot;&gt;manoeuvre de combat&lt;/a&gt; (comme si elle tentait d&#39;immobiliser sa victime). En cas de r&#233;ussite, la proie, qui se retrouve envelopp&#233;e, subit 1d8+7 points de d&#233;g&#226;ts et 2d6 points de d&#233;g&#226;ts d&#39;acide &#224; cause des enzymes digestives qui remplissent peu &#224; peu la cavit&#233;. Comme l&#39;espace o&#249; la cr&#233;ature envelopp&#233;e se retrouve est herm&#233;tiquement ferm&#233;e, elle risque de suffoquer. L&#39;enveloppement est un cas particulier de l&#39;&lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables.html#Immobilis&#233;&quot; title=&quot;Immobilis&#233;&quot;&gt;immobilisation&lt;/a&gt; en lutte : on peut s&#39;en lib&#233;rer de la m&#234;me mani&#232;re qu&#39;on s&#39;extrait d&#39;une &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables.html#Immobilis&#233;&quot; title=&quot;Immobilis&#233;&quot;&gt;immobilisation&lt;/a&gt; en lutte mais, comme la cr&#233;ature envelopp&#233;es est int&#233;gralement enferm&#233;e &#224; l&#39;int&#233;rieur des m&#226;choires de la plante, elle ne peut pas &#234;tre la cible d&#39;effets ou d&#39;attaques qui requi&#232;rent une ligne de vis&#233;e ou une ligne d&#39;effet. Lorsqu&#39;un attrape-mouches g&#233;ant agrippe ou enveloppe un ennemi, il ne peut pas attaquer d&#39;autres cibles avec l&#39;attaque de morsure correspondante mais ne subit aucune autre p&#233;nalit&#233;.
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;td&gt;&lt;div&gt;&lt;i&gt;Ce gigantesque et horrible amas d’&#233;pines et de tiges comporte des parties mobiles qui se terminent par des m&#226;choires vertes ac&#233;r&#233;es.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Cette plante robuste pousse dans les r&#233;gions o&#249; le sol est peu fertile
+mais la faune abondante. C’est un dangereux pr&#233;dateur, une version
+gigantesque de sa cousine beaucoup plus petite et plus courante. Alors
+que les attrape-mouches de taille normale assurent leur croissance
+en d&#233;vorant des insectes, les attrape-mouches g&#233;ants font de m&#234;me
+avec les animaux, les humano&#239;des et toutes les autres cr&#233;atures assez
+imprudentes pour s’en approcher. &lt;br /&gt;&lt;br /&gt;Les l&#233;gendes locales donnent &#224;
+cette plante des noms tels que attrape-hommes, m&#226;choires f&#233;roces,
+feuilles de dragon, mords-vache et gosier vert, mais les aventuriers la
+connaissent comme l’attrape-mouches g&#233;ant.&lt;br /&gt;&lt;br /&gt;Comme les proies des attrape-mouches g&#233;ants sont g&#233;n&#233;ralement
+beaucoup plus intelligentes que des insectes, cette plante gigantesque
+a d&#251; se transformer en un chasseur beaucoup plus agressif que sa
+cousine. Elle peut se tra&#238;ner lentement sur le sol en agitant ses racines
+comme s’il s’agissait de tentacules afin de se gagner un terrain de
+chasse plus peupl&#233;, et elle parvient assez bien &#224; se fondre dans la
+v&#233;g&#233;tation environnante. &lt;br /&gt;&lt;br /&gt;Les m&#226;choires et les tiges d’un
+attrape-mouches g&#233;ant se d&#233;placent tr&#232;s rapidement :
+elles fondent sur ceux qui passent &#224; leur port&#233;e et
+les mordent avec la vitesse de l’&#233;clair. La plante elle-m&#234;me
+poss&#232;de une petite &#233;tincelle d’intelligence : elle
+peut prendre des d&#233;cisions tactiques limit&#233;es et, par
+exemple, savoir quand cesser d’attaquer un
+ennemi trop puissant.&lt;br /&gt;&lt;br /&gt;La plupart des attrape-mouches
+g&#233;ants poss&#232;dent quatre paires de
+m&#226;choires mais certains peuvent n’en
+avoir qu’une alors que chez d’autres, on
+en trouve huit ou plus encore. En r&#232;gle
+g&#233;n&#233;rale, vous devrez ajouter 2 DV &#224; l’attrape-mouches
+g&#233;ant et augmenter son bonus d’armure
+naturelle de +1 pour chaque attaque de morsure suppl&#233;mentaire que vous lui donnez. Vous devrez accro&#238;tre son FP de +1
+chaque fois que vous am&#233;liorez ses attaques et ses DV de la
+sorte. Si vous ajoutez plus de 3 ou 4 morsures (et donc
+plus de 6 ou 8 DV), consultez la Table 1‑1 de
+la page 292 pour vous assurer que son
+FP reste ad&#233;quat.&lt;br /&gt;&lt;br /&gt;Les tiges d’un attrape-mouches
+g&#233;ant mesurent 6 m&#232;tres de long
+mais restent g&#233;n&#233;ralement enroul&#233;es
+assez pr&#232;s de la masse centrale. Les
+m&#226;choires d’un attrape-mouches adulte
+mesurent 2,10 m&#232;tres de largeur.
+Un attrape-mouches g&#233;ant
+p&#232;se 4 500 kg.
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Attrape-mouches géant|FP 10}
+{s:pucem|Plante|Marais|Tempéré}
+{s:BDTexte|''Source : Bestiaire p.25''}
+{s:BDTexte|'''PX''' 9.600}
+{s:BDTexte|[[type Plante|Plante]] de taille TG, N}
+{s:BDTexte|'''Init''' +8 ; '''Sens''' [[perception des vibrations]] 18 m (12 {s:c}), [[vision nocturne]] ; [[Perception]] +10}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 22, contact 12, pris au dépourvu 18 (Dex +4, naturelle +10, taille -2)}
+{s:BDTexte|'''pv''' 149 (13d8+91)}
+{s:BDTexte|'''Réf''' +8, '''Vig''' +17, '''Vol''' +5}
+{s:BDTexte|'''Immunités''' effets mentaux, étourdissement, métamorphose, paralysie, poison, sommeil ; '''Résistances''' acide 20 }
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 3 m (2 {s:c})}
+{s:BDTexte|'''Corps à corps''' 4 morsures +15 (1d8+7 et [[étreinte]])}
+{s:BDTexte|'''Espace''' 4,50 m (3 {s:c}) ; '''Allonge''' 4,50 m (3 {s:c})}
+{s:BDTexte|'''Attaques spéciales''' enveloppement}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 25, '''Dex''' 18, '''Con''' 25, '''Int''' 1, '''Sag''' 12, '''Cha''' 6}
+{s:BDTexte|'''BBA''' +9, '''BMO''' +18 (+22 lutte), '''DMD''' 32 ([[croc-en-jambe]] impossible)}
+{s:BDTexte|'''Dons''' [[Arme de prédilection]] (morsure), [[Attaque en puissance]], [[Enchaînement]], [[Frappe décisive]], [[Science de linitiative|Science de l'initiative]], [[Talent]] ([[Discrétion]]), [[Vigueur surhumaine]]}
+{s:BDTexte|'''Compétences''' [[Discrétion]] +9 (+17 dans les broussailles), [[Perception]] +10 ; '''Modificateurs raciaux''' [[Discrétion]] +8 dans les broussailles}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' marais tempérés}
+{s:BDTexte|'''Organisation sociale''' solitaire, couple ou bosquet (3-6)}
+{s:BDTexte|'''Trésor''' fortuit}
+{s:BDSousTitre|Particularités}
+{s:BDTexte|'''Enveloppement (Ext)''' Si, au début du tour de l'attrape-mouches géant, une créature d'au moins deux catégories de tailles de moins que lui est [[agrippé]] dans une de ses gueules, il peut refermer ses mâchoires tout autour d'elle en effectuant un nouveau test de [[manoeuvre de combat]] (comme si elle tentait d'immobiliser sa victime). En cas de réussite, la proie, qui se retrouve enveloppée, subit 1d8+7 points de dégâts et 2d6 points de dégâts d'acide à cause des enzymes digestives qui remplissent peu à peu la cavité. Comme l'espace où la créature enveloppée se retrouve est hermétiquement fermée, elle risque de suffoquer. L'enveloppement est un cas particulier de l'[[immobilisé|immobilisation]] en lutte : on peut s'en libérer de la même manière qu'on s'extrait d'une [[immobilisé|immobilisation]] en lutte mais, comme la créature enveloppées est intégralement enfermée à l'intérieur des mâchoires de la plante, elle ne peut pas être la cible d'effets ou d'attaques qui requièrent une ligne de visée ou une ligne d'effet. Lorsqu'un attrape-mouches géant agrippe ou enveloppe un ennemi, il ne peut pas attaquer d'autres cibles avec l'attaque de morsure correspondante mais ne subit aucune autre pénalité.}
+</div>
+</td><td><div>''Ce gigantesque et horrible amas d’épines et de tiges comporte des parties mobiles qui se terminent par des mâchoires vertes acérées.''
+
+Cette plante robuste pousse dans les régions où le sol est peu fertile
+mais la faune abondante. C’est un dangereux prédateur, une version
+gigantesque de sa cousine beaucoup plus petite et plus courante. Alors
+que les attrape-mouches de taille normale assurent leur croissance
+en dévorant des insectes, les attrape-mouches géants font de même
+avec les animaux, les humanoïdes et toutes les autres créatures assez
+imprudentes pour s’en approcher. 
+
+Les légendes locales donnent à
+cette plante des noms tels que attrape-hommes, mâchoires féroces,
+feuilles de dragon, mords-vache et gosier vert, mais les aventuriers la
+connaissent comme l’attrape-mouches géant.
+
+Comme les proies des attrape-mouches géants sont généralement
+beaucoup plus intelligentes que des insectes, cette plante gigantesque
+a dû se transformer en un chasseur beaucoup plus agressif que sa
+cousine. Elle peut se traîner lentement sur le sol en agitant ses racines
+comme s’il s’agissait de tentacules afin de se gagner un terrain de
+chasse plus peuplé, et elle parvient assez bien à se fondre dans la
+végétation environnante. 
+
+Les mâchoires et les tiges d’un
+attrape-mouches géant se déplacent très rapidement :
+elles fondent sur ceux qui passent à leur portée et
+les mordent avec la vitesse de l’éclair. La plante elle-même
+possède une petite étincelle d’intelligence : elle
+peut prendre des décisions tactiques limitées et, par
+exemple, savoir quand cesser d’attaquer un
+ennemi trop puissant.
+
+La plupart des attrape-mouches
+géants possèdent quatre paires de
+mâchoires mais certains peuvent n’en
+avoir qu’une alors que chez d’autres, on
+en trouve huit ou plus encore. En règle
+générale, vous devrez ajouter 2 DV à l’attrape-mouches
+géant et augmenter son bonus d’armure
+naturelle de +1 pour chaque attaque de morsure supplémentaire que vous lui donnez. Vous devrez accroître son FP de +1
+chaque fois que vous améliorez ses attaques et ses DV de la
+sorte. Si vous ajoutez plus de 3 ou 4 morsures (et donc
+plus de 6 ou 8 DV), consultez la Table 1‑1 de
+la page 292 pour vous assurer que son
+FP reste adéquat.
+
+Les tiges d’un attrape-mouches
+géant mesurent 6 mètres de long
+mais restent généralement enroulées
+assez près de la masse centrale. Les
+mâchoires d’un attrape-mouches adulte
+mesurent 2,10 mètres de largeur.
+Un attrape-mouches géant
+pèse 4 500 kg.
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Attrape-mouches géant</fullName>
+</wikiPage>

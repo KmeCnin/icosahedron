@@ -1,0 +1,193 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Morlock</title>
+  <categories><category>Pathfinder-RPG.Bestiaire</category><category>Pathfinder-RPG.Monstre</category><category>Pathfinder-RPG.Règles officielles</category></categories>
+  <lastModified>2013-02-07 19:18:48Z</lastModified>
+  <version>7</version>
+  <inLinks><link>Pathfinder-RPG.Glossaire des monstres</link><link>Pathfinder-RPG.Grick</link><link>Pathfinder-RPG.Linguistique</link><link>Pathfinder-RPG.Liste de monstres par FP</link><link>Pathfinder-RPG.Liste de monstres par milieu naturel</link><link>Pathfinder-RPG.Liste de monstres par type</link><link>Pathfinder-RPG.Monstres</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.type Humanoïde monstrueux</link><link>Pathfinder-RPG.odorat</link><link>Pathfinder-RPG.vision dans le noir</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Aveuglé par la lumière</link><link>Pathfinder-RPG.attaque sournoise</link><link>Pathfinder-RPG.Réflexes surhumains</link><link>Pathfinder-RPG.Science de linitiative</link><link>Pathfinder-RPG.Acrobaties</link><link>Pathfinder-RPG.Discrétion</link><link>Pathfinder-RPG.Escalade</link><link>Pathfinder-RPG.Action simple</link><link>Pathfinder-RPG.attaque dopportunité</link><link>Pathfinder-RPG.Pattes daraignée</link><link>Pathfinder-RPG.Pris en tenaille</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Morlock&lt;div style=&quot;float:right;&quot;&gt;FP 2&lt;/div&gt;&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Bestiaire&lt;/i&gt; p.222
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 600
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Humano&#239;de-Monstrueux.html&quot; title=&quot;Humano&#239;de monstrueux&quot;&gt;Humano&#239;de monstrueux&lt;/a&gt; de taille M, CM
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +8 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Odorat-(Capacit&#233;).html&quot; title=&quot;odorat&quot;&gt;odorat&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Capacit&#233;s-Sp&#233;ciales.html#VISIONDANSLENOIR&quot; title=&quot;vision dans le noir&quot;&gt;vision dans le noir&lt;/a&gt; 36 m (24 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +2
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 15, contact 14, pris au d&#233;pourvu 11 (Dex +4, naturelle +1)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 22 (3d10+6)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +9, &lt;b&gt;Vig&lt;/b&gt; +3, &lt;b&gt;Vol&lt;/b&gt; +5
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Immunit&#233;s&lt;/b&gt; maladies, poison 
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Faiblesses&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Aveugl&#233;-Par-La-Lumi&#232;re-(Capacit&#233;).html&quot; title=&quot;Aveugl&#233; par la lumi&#232;re&quot;&gt;aveugl&#233; par la lumi&#232;re&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 12 m (9 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), escalade 9 m (6 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; gourdin +5 (1d6+2), morsure +0 (1d4+1)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaques sp&#233;ciales&lt;/b&gt; attaque au cours d&#39;un saut, &lt;a class=&quot;pagelink&quot; href=&quot;Roublard.html#ATTAQUESOURNOISE&quot; title=&quot;attaque sournoise&quot;&gt;attaque sournoise&lt;/a&gt; +1d6, regroupement
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 14, &lt;b&gt;Dex&lt;/b&gt; 19, &lt;b&gt;Con&lt;/b&gt; 15, &lt;b&gt;Int&lt;/b&gt; 5, &lt;b&gt;Sag&lt;/b&gt; 14, &lt;b&gt;Cha&lt;/b&gt; 6
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +3, &lt;b&gt;BMO&lt;/b&gt; +5, &lt;b&gt;DMD&lt;/b&gt; 19
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;R&#233;flexes-Surhumains.html&quot; title=&quot;R&#233;flexes surhumains&quot;&gt;R&#233;flexes surhumains&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Science-De-Linitiative.html&quot; title=&quot;Science de l&amp;#39;initiative&quot;&gt;Science de l&#39;initiative&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Acrobaties.html&quot; title=&quot;Acrobaties&quot;&gt;Acrobaties&lt;/a&gt; +13, &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; +8 (+12 dans les cavernes), &lt;a class=&quot;pagelink&quot; href=&quot;Escalade.html&quot; title=&quot;Escalade&quot;&gt;Escalade&lt;/a&gt; +22 ; &lt;b&gt;Modificateurs raciaux&lt;/b&gt; +8 en &lt;a class=&quot;pagelink&quot; href=&quot;Acrobaties.html&quot; title=&quot;Acrobaties&quot;&gt;Acrobaties&lt;/a&gt;, +4 en &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; dans les cavernes, +16 en &lt;a class=&quot;pagelink&quot; href=&quot;Escalade.html&quot; title=&quot;Escalade&quot;&gt;Escalade&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Langues&lt;/b&gt; commun des profondeurs
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Particularit&#233;s&lt;/b&gt; expert en escalade
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; souterrain
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation sociale&lt;/b&gt; solitaire, couple, groupe (3-6) ou tribu (7-18)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; standard
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Capacit&#233;s sp&#233;ciales&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaque au cours d&#39;un saut (Ext).&lt;/b&gt; Par une &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions.html#SIMPLE&quot; title=&quot;Action simple&quot;&gt;action simple&lt;/a&gt;, un morlock peut sauter et porter une attaque. Il peut effectuer cette attaque &#224; n&#39;importe quel moment du saut (au d&#233;but, &#224; la fin ou alors qu&#39;il est en l&#39;air). Pendant le saut, le morlock peut quitter une case contr&#244;l&#233;e par un ennemi sans provoquer d&#39;&lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#ATTAQUEDOPPORTUNITE&quot; title=&quot;attaque d&amp;#39;opportunit&#233;&quot;&gt;attaque d&#39;opportunit&#233;&lt;/a&gt;.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Expert en Escalade (Ext).&lt;/b&gt; Les morlocks peuvent s&#39;accrocher aux parois et m&#234;mes aux plafonds des grottes tant que ces surfaces sont garnies de prises pour les mains et les pieds. Concr&#232;tement, on consid&#232;re qu&#39;ils b&#233;n&#233;ficient constamment d&#39;une version non magique du sort &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Pattes-Daraign&#233;e.html&quot; title=&quot;Pattes d&amp;#39;araign&#233;e&quot;&gt;pattes d&#39;araign&#233;e&lt;/a&gt;&lt;/i&gt; sans que cela leur permette toutefois d&#39;escalader les surfaces lisses. Gr&#226;ce &#224; cette capacit&#233;, les morlocks re&#231;oivent le double du bonus racial d&#39;&lt;a class=&quot;pagelink&quot; href=&quot;Escalade.html&quot; title=&quot;Escalade&quot;&gt;Escalade&lt;/a&gt; normalement attribu&#233; aux cr&#233;atures qui poss&#232;dent une vitesse d&#39;escalade, &#224; savoir +16 au lieu de +8.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Regroupement (Ext).&lt;/b&gt; Les morlocks vivent et combattent dans des lieux exigus chaque jour. Ils ont donc l&#39;habitude de se serrer les uns contre les autres. Deux morlocks peuvent se tenir sur la m&#234;me case et, si deux morlocks partagent la m&#234;me case et attaquent le m&#234;me ennemi, on consid&#232;re qu&#39;ils prennent cette ennemi en &lt;a class=&quot;pagelink&quot; href=&quot;Modificateurs-De-Combat.html#PRISEENTENAILLE&quot; title=&quot;Pris en tenaille&quot;&gt;tenaille&lt;/a&gt; comme s&#39;ils se tenaient dans des cases situ&#233;es de part et d&#39;autre de lui.
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;td&gt;&lt;div&gt;&lt;i&gt;Cet humano&#239;de hideux &#224; la peau p&#226;le et aux yeux globuleux descend le long du mur comme une araign&#233;e.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Les morlocks sont des humains d&#233;g&#233;n&#233;r&#233;s qui ont quitt&#233; depuis
+longtemps le monde de la lumi&#232;re et qui, apr&#232;s de nombreuses
+ann&#233;es de vie sous terre, ont r&#233;gress&#233; jusqu’&#224; devenir des b&#234;tes
+voraces &#224; peine intelligentes et adapt&#233;es au monde des t&#233;n&#232;bres
+&#233;ternelles. &lt;br /&gt;&lt;br /&gt;Ils ne se souviennent plus du tout de l’existence
+civilis&#233;e qu’ont men&#233; leurs anc&#234;tres, m&#234;me s’ils vivent encore dans
+les ruines bris&#233;es de leurs demeures ancestrales. Ironie du sort, de
+nombreux morlocks v&#233;n&#232;rent les statues que leurs anc&#234;tres ont
+cr&#233;&#233;es comme s’il s’agissait de dieux. &lt;br /&gt;&lt;br /&gt;Les pr&#234;tres morlocks de ces cultes des anciens ont acc&#232;s aux domaines de la Folie, de la Force,
+des T&#233;n&#232;bres et de la Terre. Un morlock moyen mesure un peu
+plus de 1,50 m&#232;tre et p&#232;se &#224; peu pr&#232;s 75 kg.&lt;br /&gt;&lt;br /&gt;Les morlocks se d&#233;placent de temps en temps sur deux jambes
+mais ils se mettent &#224; quatre pattes et adoptent une d&#233;marche qui
+a de quoi donner la chair de poules lorsqu’ils doivent aller vite ou
+se montrer discrets. Malgr&#233; ce que leur silhouette maigre, voire
+squelettique, pourrait faire penser, leurs membres sont puissants
+et leurs r&#233;flexes, aiguis&#233;s.&lt;br /&gt;&lt;br /&gt;Les morlocks donnent g&#233;n&#233;ralement naissance &#224; des port&#233;es de
+trois ou quatre b&#233;b&#233;s &#224; la fois, des cr&#233;atures voraces qui naissent
+avec toutes leurs dents et des instincts cannibales. Au cours des
+premi&#232;res semaines, les jeunes doivent &#234;tre surveill&#233;s de pr&#232;s pour
+&#233;viter que leur nombre ne se r&#233;duise. &lt;br /&gt;&lt;br /&gt;Ce n’est qu’apr&#232;s cette p&#233;riode que les jeunes morlocks parviennent &#224; ma&#238;triser leur propension
+naturelle &#224; d&#233;vorer tout ce qui leur tombe sous la main. Les morlocks
+atteignent rapidement l’&#226;ge adulte, apr&#232;s seulement 5 ann&#233;es. &lt;br /&gt;&lt;br /&gt;Un morlock peut vivre jusqu’&#224; 60 ans
+mais la plupart des individus
+de cette esp&#232;ce connaissent
+une mort violente bien
+avant cela.
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Morlock|FP 2}
+{s:pucem|Humanoïde monstrueux|Souterrain|Tempéré}
+{s:BDTexte|''Source : Bestiaire'' p.222}
+{s:BDTexte|'''PX''' 600}
+{s:BDTexte|[[type Humanoïde monstrueux|Humanoïde monstrueux]] de taille M, CM}
+{s:BDTexte|'''Init''' +8 ; '''Sens''' [[odorat]], [[vision dans le noir]] 36 m (24 {s:c}) ; [[Perception]] +2}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 15, contact 14, pris au dépourvu 11 (Dex +4, naturelle +1)}
+{s:BDTexte|'''pv''' 22 (3d10+6)}
+{s:BDTexte|'''Réf''' +9, '''Vig''' +3, '''Vol''' +5}
+{s:BDTexte|'''Immunités''' maladies, poison }
+{s:BDTexte|'''Faiblesses''' [[aveuglé par la lumière]]}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 12 m (9 {s:c}), escalade 9 m (6 {s:c})}
+{s:BDTexte|'''Corps à corps''' gourdin +5 (1d6+2), morsure +0 (1d4+1)}
+{s:BDTexte|'''Attaques spéciales''' attaque au cours d'un saut, [[attaque sournoise]] +1d6, regroupement}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 14, '''Dex''' 19, '''Con''' 15, '''Int''' 5, '''Sag''' 14, '''Cha''' 6}
+{s:BDTexte|'''BBA''' +3, '''BMO''' +5, '''DMD''' 19}
+{s:BDTexte|'''Dons''' [[Réflexes surhumains]], [[Science de linitiative|Science de l'initiative]]}
+{s:BDTexte|'''Compétences''' [[Acrobaties]] +13, [[Discrétion]] +8 (+12 dans les cavernes), [[Escalade]] +22 ; '''Modificateurs raciaux''' +8 en [[Acrobaties]], +4 en [[Discrétion]] dans les cavernes, +16 en [[Escalade]]}
+{s:BDTexte|'''Langues''' commun des profondeurs}
+{s:BDTexte|'''Particularités''' expert en escalade}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' souterrain}
+{s:BDTexte|'''Organisation sociale''' solitaire, couple, groupe (3-6) ou tribu (7-18)}
+{s:BDTexte|'''Trésor''' standard}
+{s:BDSousTitre|Capacités spéciales}
+{s:BDTexte|'''Attaque au cours d'un saut (Ext).''' Par une [[action simple]], un morlock peut sauter et porter une attaque. Il peut effectuer cette attaque à n'importe quel moment du saut (au début, à la fin ou alors qu'il est en l'air). Pendant le saut, le morlock peut quitter une case contrôlée par un ennemi sans provoquer d'[[attaque dopportunité|attaque d'opportunité]].}
+{s:BDTexte|'''Expert en Escalade (Ext).''' Les morlocks peuvent s'accrocher aux parois et mêmes aux plafonds des grottes tant que ces surfaces sont garnies de prises pour les mains et les pieds. Concrètement, on considère qu'ils bénéficient constamment d'une version non magique du sort ''[[pattes daraignée|pattes d'araignée]]'' sans que cela leur permette toutefois d'escalader les surfaces lisses. Grâce à cette capacité, les morlocks reçoivent le double du bonus racial d'[[Escalade]] normalement attribué aux créatures qui possèdent une vitesse d'escalade, à savoir +16 au lieu de +8.}
+{s:BDTexte|'''Regroupement (Ext).''' Les morlocks vivent et combattent dans des lieux exigus chaque jour. Ils ont donc l'habitude de se serrer les uns contre les autres. Deux morlocks peuvent se tenir sur la même case et, si deux morlocks partagent la même case et attaquent le même ennemi, on considère qu'ils prennent cette ennemi en [[pris en tenaille|tenaille]] comme s'ils se tenaient dans des cases situées de part et d'autre de lui.}
+</div>
+</td><td><div>''Cet humanoïde hideux à la peau pâle et aux yeux globuleux descend le long du mur comme une araignée.''
+
+Les morlocks sont des humains dégénérés qui ont quitté depuis
+longtemps le monde de la lumière et qui, après de nombreuses
+années de vie sous terre, ont régressé jusqu’à devenir des bêtes
+voraces à peine intelligentes et adaptées au monde des ténèbres
+éternelles. 
+
+Ils ne se souviennent plus du tout de l’existence
+civilisée qu’ont mené leurs ancêtres, même s’ils vivent encore dans
+les ruines brisées de leurs demeures ancestrales. Ironie du sort, de
+nombreux morlocks vénèrent les statues que leurs ancêtres ont
+créées comme s’il s’agissait de dieux. 
+
+Les prêtres morlocks de ces cultes des anciens ont accès aux domaines de la Folie, de la Force,
+des Ténèbres et de la Terre. Un morlock moyen mesure un peu
+plus de 1,50 mètre et pèse à peu près 75 kg.
+
+Les morlocks se déplacent de temps en temps sur deux jambes
+mais ils se mettent à quatre pattes et adoptent une démarche qui
+a de quoi donner la chair de poules lorsqu’ils doivent aller vite ou
+se montrer discrets. Malgré ce que leur silhouette maigre, voire
+squelettique, pourrait faire penser, leurs membres sont puissants
+et leurs réflexes, aiguisés.
+
+Les morlocks donnent généralement naissance à des portées de
+trois ou quatre bébés à la fois, des créatures voraces qui naissent
+avec toutes leurs dents et des instincts cannibales. Au cours des
+premières semaines, les jeunes doivent être surveillés de près pour
+éviter que leur nombre ne se réduise. 
+
+Ce n’est qu’après cette période que les jeunes morlocks parviennent à maîtriser leur propension
+naturelle à dévorer tout ce qui leur tombe sous la main. Les morlocks
+atteignent rapidement l’âge adulte, après seulement 5 années. 
+
+Un morlock peut vivre jusqu’à 60 ans
+mais la plupart des individus
+de cette espèce connaissent
+une mort violente bien
+avant cela.
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Morlock</fullName>
+</wikiPage>

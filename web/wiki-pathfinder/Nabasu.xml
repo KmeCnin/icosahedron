@@ -1,0 +1,153 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Nabasu</title>
+  <categories><category>Pathfinder-RPG.Bestiaire</category><category>Pathfinder-RPG.Monstre</category><category>Pathfinder-RPG.Règles officielles</category></categories>
+  <lastModified>2013-02-07 19:17:08Z</lastModified>
+  <version>9</version>
+  <inLinks><link>Pathfinder-RPG.Démon</link><link>Pathfinder-RPG.Glossaire des monstres</link><link>Pathfinder-RPG.Lier un extérieur</link><link>Pathfinder-RPG.Liste de monstres par FP</link><link>Pathfinder-RPG.Liste de monstres par milieu naturel</link><link>Pathfinder-RPG.Liste de monstres par type</link><link>Pathfinder-RPG.Monstres</link><link>Pathfinder-RPG.Vrolikai</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.type Extérieur</link><link>Pathfinder-RPG.sous-type Chaos</link><link>Pathfinder-RPG.sous-type démon</link><link>Pathfinder-RPG.sous-type Mal</link><link>Pathfinder-RPG.sous-type natif</link><link>Pathfinder-RPG.vision dans le noir</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.attaque sournoise</link><link>Pathfinder-RPG.Télékinésie</link><link>Pathfinder-RPG.Téléportation suprême</link><link>Pathfinder-RPG.Ténèbres profondes</link><link>Pathfinder-RPG.Baiser du vampire</link><link>Pathfinder-RPG.Énergie négative</link><link>Pathfinder-RPG.Silence</link><link>Pathfinder-RPG.convocation</link><link>Pathfinder-RPG.Babau</link><link>Pathfinder-RPG.Immobilisation de personne</link><link>Pathfinder-RPG.Régénération</link><link>Pathfinder-RPG.Attaque en puissance</link><link>Pathfinder-RPG.Enchaînement</link><link>Pathfinder-RPG.Esquive</link><link>Pathfinder-RPG.Expertise du combat</link><link>Pathfinder-RPG.Science de linitiative</link><link>Pathfinder-RPG.Acrobaties</link><link>Pathfinder-RPG.Connaissances</link><link>Pathfinder-RPG.Discrétion</link><link>Pathfinder-RPG.Psychologie</link><link>Pathfinder-RPG.Survie</link><link>Pathfinder-RPG.Vol</link><link>Pathfinder-RPG.Télépathie</link><link>Pathfinder-RPG.Goule</link><link>Pathfinder-RPG.jet dattaque</link><link>Pathfinder-RPG.jet de sauvegarde</link><link>Pathfinder-RPG.NLS</link><link>Pathfinder-RPG.RM</link><link>Pathfinder-RPG.DD</link><link>Pathfinder-RPG.archétypes simples</link><link>Pathfinder-RPG.Changement de plan</link><link>Pathfinder-RPG.Action libre</link><link>Pathfinder-RPG.Vigueur</link><link>Pathfinder-RPG.niveau négatif</link><link>Pathfinder-RPG.Charisme</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Nabasu&lt;div style=&quot;float:right;&quot;&gt;FP 8&lt;/div&gt;&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Bestiaire p.68&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 4.800
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Ext&#233;rieur.html&quot; title=&quot;Ext&#233;rieur&quot;&gt;Ext&#233;rieur&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Chaos.html&quot; title=&quot;Chaos (sous-type)&quot;&gt;Chaos&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-D&#233;mon.html&quot; title=&quot;D&#233;mon (sous-type)&quot;&gt;d&#233;mon&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Mal.html&quot; title=&quot;Mal (sous-type)&quot;&gt;Mal&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Natif.html&quot; title=&quot;Natif (sous-type)&quot;&gt;natif&lt;/a&gt;) de taille M, CM
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +7 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Capacit&#233;s-Sp&#233;ciales.html#VISIONDANSLENOIR&quot; title=&quot;vision dans le noir&quot;&gt;vision dans le noir&lt;/a&gt; 18 m (12 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +23
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 22, contact 14, pris au d&#233;pourvu 18 (Dex +3, esquive +1, naturelle +8)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 103 (9d10+54)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +9, &lt;b&gt;Vig&lt;/b&gt; +9, &lt;b&gt;Vol&lt;/b&gt; +9
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Immunit&#233;s&lt;/b&gt; effets de mort, &#233;lectricit&#233;, paralysie, poison ; &lt;b&gt;RD&lt;/b&gt; 10/fer froid ou Bien ; &lt;b&gt;R&#233;sistances&lt;/b&gt; acide 10, feu 10, froid 10 ; &lt;b&gt;RM&lt;/b&gt; 19 
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 9 m (6 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), vol 18 m (12 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) (moyenne)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; 2 griffes +15 (1d6+6), morsure +15 (1d8+6)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaques sp&#233;ciales&lt;/b&gt; absorption de vie, &lt;a class=&quot;pagelink&quot; href=&quot;Roublard.html#ATTAQUESOURNOISE&quot; title=&quot;attaque sournoise&quot;&gt;attaque sournoise&lt;/a&gt; +2d6, regard voleur de mort
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Pouvoirs magiques&lt;/b&gt; (NLS 8&lt;sup&gt;e&lt;/sup&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+&#192; volont&#233; — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;T&#233;l&#233;kin&#233;sie.html&quot; title=&quot;T&#233;l&#233;kin&#233;sie&quot;&gt;t&#233;l&#233;kin&#233;sie&lt;/a&gt;&lt;/i&gt; (DD 19), &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;T&#233;l&#233;portation-Supr&#234;me.html&quot; title=&quot;T&#233;l&#233;portation supr&#234;me&quot;&gt;t&#233;l&#233;portation supr&#234;me&lt;/a&gt;&lt;/i&gt; (lui-m&#234;me et 25 kg d&#39;objets uniquement), &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;T&#233;n&#232;bres-Profondes.html&quot; title=&quot;T&#233;n&#232;bres profondes&quot;&gt;t&#233;n&#232;bres profondes&lt;/a&gt;&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+3/jour — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Baiser-Du-Vampire.html&quot; title=&quot;Baiser du vampire&quot;&gt;baiser du vampire&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;&#201;nergie-N&#233;gative.html&quot; title=&quot;&#201;nergie n&#233;gative&quot;&gt;&#233;nergie n&#233;gative&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Silence.html&quot; title=&quot;Silence&quot;&gt;silence&lt;/a&gt;&lt;/i&gt; (DD 16)
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+1/jour — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#CONVOCATION&quot; title=&quot;convocation&quot;&gt;convocation&lt;/a&gt;&lt;/i&gt; (niveau 4, 1 nabasu 30% ou 1d4 &lt;a class=&quot;pagelink&quot; href=&quot;Babau.html&quot; title=&quot;Babau&quot;&gt;babaus&lt;/a&gt; 30%), &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Immobilisation-De-Personne.html&quot; title=&quot;Immobilisation de personne&quot;&gt;immobilisation de personne&lt;/a&gt;&lt;/i&gt; (DD 21), &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;R&#233;g&#233;n&#233;ration.html&quot; title=&quot;R&#233;g&#233;n&#233;ration&quot;&gt;r&#233;g&#233;n&#233;ration&lt;/a&gt;&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 22, &lt;b&gt;Dex&lt;/b&gt; 17, &lt;b&gt;Con&lt;/b&gt; 22, &lt;b&gt;Int&lt;/b&gt; 15, &lt;b&gt;Sag&lt;/b&gt; 16, &lt;b&gt;Cha&lt;/b&gt; 19
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +9, &lt;b&gt;BMO&lt;/b&gt; +15, &lt;b&gt;DMD&lt;/b&gt; 29
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Attaque-En-Puissance.html&quot; title=&quot;Attaque en puissance&quot;&gt;Attaque en puissance&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Encha&#238;nement.html&quot; title=&quot;Encha&#238;nement&quot;&gt;Encha&#238;nement&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Esquive.html&quot; title=&quot;Esquive&quot;&gt;Esquive&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Expertise-Du-Combat.html&quot; title=&quot;Expertise du combat&quot;&gt;Expertise du combat&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Science-De-Linitiative.html&quot; title=&quot;Science de l&amp;#39;initiative&quot;&gt;Science de l&#39;initiative&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Acrobaties.html&quot; title=&quot;Acrobaties&quot;&gt;Acrobaties&lt;/a&gt; +15, &lt;a class=&quot;pagelink&quot; href=&quot;Connaissances.html&quot; title=&quot;Connaissances&quot;&gt;Connaissances&lt;/a&gt; (myst&#232;res) +14, &lt;a class=&quot;pagelink&quot; href=&quot;Connaissances.html&quot; title=&quot;Connaissances&quot;&gt;Connaissances&lt;/a&gt; (plans) +14, &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; +15 (+23 dans l&#39;ombre), &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +23, &lt;a class=&quot;pagelink&quot; href=&quot;Psychologie.html&quot; title=&quot;Psychologie&quot;&gt;Psychologie&lt;/a&gt; +15, &lt;a class=&quot;pagelink&quot; href=&quot;Survie.html&quot; title=&quot;Survie&quot;&gt;Survie&lt;/a&gt; +15, &lt;a class=&quot;pagelink&quot; href=&quot;Vol.html&quot; title=&quot;Vol&quot;&gt;Vol&lt;/a&gt; +15 ; &lt;b&gt;Modificateurs raciaux&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; +8 dans l&#39;ombre, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +8
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Langues&lt;/b&gt; abyssal, c&#233;leste, draconique ; &lt;a class=&quot;pagelink&quot; href=&quot;T&#233;l&#233;pathie-(Capacit&#233;).html&quot; title=&quot;T&#233;l&#233;pathie&quot;&gt;t&#233;l&#233;pathie&lt;/a&gt; 30 m (20 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; quelconque (Abysse)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation sociale&lt;/b&gt; solitaire
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; standard
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Particularit&#233;s&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Absorption de vie (Sur).&lt;/b&gt; Lorsqu&#39;un nabasu cr&#233;e une &lt;a class=&quot;pagelink&quot; href=&quot;Goule.html&quot; title=&quot;Goule&quot;&gt;goule&lt;/a&gt; gr&#226;ce &#224; son attaque de regard, il gagne un point de croissance (PC). Il acquiert un bonus &#233;gal &#224; son nombre de PC applicable &#224; ses &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDATTAQUE&quot; title=&quot;jet dattaque&quot;&gt;jets d&#39;attaque&lt;/a&gt;, ses tests de manoeuvres de combat, ses &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;jet de sauvegarde&quot;&gt;jets de sauvegarde&lt;/a&gt;, et tests de &lt;a class=&quot;pagelink&quot; href=&quot;Lancer-Des-Sorts.html#NLS&quot; title=&quot;NLS&quot;&gt;NLS&lt;/a&gt; et ses tests de comp&#233;tences. Son nombre maximal de points de vie augmente de +10 par PC. Le &lt;a class=&quot;pagelink&quot; href=&quot;Lancer-Des-Sorts.html#NLS&quot; title=&quot;NLS&quot;&gt;NLS&lt;/a&gt; de ses pouvoirs magiques augmente de +1 par PC. Tous les 2 PC, son bonus d&#39;armure naturelle, sa &lt;a class=&quot;pagelink&quot; href=&quot;R&#233;sistance-&#192;-La-Magie-(Capacit&#233;).html&quot; title=&quot;RM&quot;&gt;RM&lt;/a&gt; et son FP augmentent de +1. Chaque fois que le nabasu gagne 1 PC, il effectue un test de &lt;a class=&quot;pagelink&quot; href=&quot;Lancer-Des-Sorts.html#NLS&quot; title=&quot;NLS&quot;&gt;NLS&lt;/a&gt; contre un &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DEGREDEDIFFICULTE&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; de 30. En cas de succ&#232;s il devient mature (il gagne les arch&#233;types simples &quot;&lt;a class=&quot;pagelink&quot; href=&quot;Arch&#233;types.html&quot; title=&quot;arch&#233;types simples&quot;&gt;&#233;volu&#233;&lt;/a&gt;&quot; et &quot;&lt;a class=&quot;pagelink&quot; href=&quot;Arch&#233;types.html&quot; title=&quot;arch&#233;types simples&quot;&gt;g&#233;ant&lt;/a&gt;&quot;) et retourne dans les Abysses dans un nuage de fum&#233;e (comme par le sort de &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Changement-De-Plan.html&quot; title=&quot;Changement de plan&quot;&gt;changement de plan&lt;/a&gt;&lt;/i&gt;. Un nabasu peut avoir 20 PC au maximum. Il devient automatiquement mature lorsqu&#39;il gagne son 20&lt;sup&gt;e&lt;/sup&gt; point.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Regard voleur de mort (Sur).&lt;/b&gt; Par un &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions.html#LIBRE&quot; title=&quot;Action libre&quot;&gt;action libre&lt;/a&gt;, un nabasu peut activer son regard voleur de mort pendant un round entier. Il peut le faire un nombre de fois par jour &#233;gal &#224; son nombre de PC (au minimum une fois par jour). Toutes les cr&#233;atures vivantes situ&#233;es dans un rayon de 9 m (6 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) doivent r&#233;ussir un jet de &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;Vigueur&quot;&gt;Vigueur&lt;/a&gt; de &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DEGREDEDIFFICULTE&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; 18 pour &#233;viter de gagner un &lt;a class=&quot;pagelink&quot; href=&quot;Absorption-D&#233;nergie-(Capacit&#233;).html&quot; title=&quot;niveau n&#233;gatif&quot;&gt;niveau n&#233;gatif&lt;/a&gt;. Si cet effet cause la mort d&#39;un humano&#239;de, celui-ci se transforme imm&#233;diatement en &lt;a class=&quot;pagelink&quot; href=&quot;Goule.html&quot; title=&quot;Goule&quot;&gt;goule&lt;/a&gt; sous le contr&#244;le du nabasu. Le regard du nabasu ne peut cr&#233;er qu&#39;une seule &lt;a class=&quot;pagelink&quot; href=&quot;Goule.html&quot; title=&quot;Goule&quot;&gt;goule&lt;/a&gt; par round : s&#39;il tue plusieurs humano&#239;des au cours d&#39;un m&#234;me round, il choisit lequel devient une &lt;a class=&quot;pagelink&quot; href=&quot;Goule.html&quot; title=&quot;Goule&quot;&gt;goule&lt;/a&gt;. Le &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DEGREDEDIFFICULTE&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; d&#233;pend du &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#CHARISME&quot; title=&quot;Le Charisme&quot;&gt;Charisme&lt;/a&gt;.
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;td&gt;&lt;div&gt;&lt;i&gt;La bouche de ce fi&#233;lon maigrelet est remplie de crocs ac&#233;r&#233;s et de larges ailes de chauves-souris ornent son dos &#224; la peau squameuse.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Les Abysses cr&#233;ent directement les nabasus sur le plan Mat&#233;riel, o&#249; ils
+se repaissent d’&#226;mes innocentes pour &#233;voluer. Ce n’est que lorsqu’ils
+sont enfin rassasi&#233;s qu’ils peuvent retourner vers les Abysses. Selon
+les rumeurs, les nabasus retourn&#233;s aux Abysses poursuivraient leur
+&#233;volution de mani&#232;re similaire et continueraient de cro&#238;tre et de se
+transformer.&lt;br /&gt;&lt;br /&gt; Ces d&#233;mons abominables sont form&#233;s &#224; partir des &#226;mes
+des goinfres mal&#233;fiques et plus sp&#233;cialement &#224; partir des cannibales,
+des buveurs de sang et de ceux qui pr&#233;f&#232;rent le go&#251;t de la chair des
+morts-vivants.
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Nabasu|FP 8}
+{s:pucem|Extérieur|Ruines-Donjons|Extraplanaire}
+{s:BDTexte|''Source : Bestiaire p.68''}
+{s:BDTexte|'''PX''' 4.800}
+{s:BDTexte|[[type Extérieur|Extérieur]] ([[sous-type Chaos|Chaos]], [[sous-type démon|démon]], [[sous-type Mal|Mal]], [[sous-type natif|natif]]) de taille M, CM}
+{s:BDTexte|'''Init''' +7 ; '''Sens''' [[vision dans le noir]] 18 m (12 {s:c}) ; [[Perception]] +23}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 22, contact 14, pris au dépourvu 18 (Dex +3, esquive +1, naturelle +8)}
+{s:BDTexte|'''pv''' 103 (9d10+54)}
+{s:BDTexte|'''Réf''' +9, '''Vig''' +9, '''Vol''' +9}
+{s:BDTexte|'''Immunités''' effets de mort, électricité, paralysie, poison ; '''RD''' 10/fer froid ou Bien ; '''Résistances''' acide 10, feu 10, froid 10 ; '''RM''' 19 }
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 9 m (6 {s:c}), vol 18 m (12 {s:c}) (moyenne)}
+{s:BDTexte|'''Corps à corps''' 2 griffes +15 (1d6+6), morsure +15 (1d8+6)}
+{s:BDTexte|'''Attaques spéciales''' absorption de vie, [[attaque sournoise]] +2d6, regard voleur de mort}
+{s:BDTexte|'''Pouvoirs magiques''' (NLS 8<sup>e</sup>)}
+{s:BDSorts|À volonté — ''[[télékinésie]]'' (DD 19), ''[[téléportation suprême]]'' (lui-même et 25 kg d'objets uniquement), ''[[ténèbres profondes]]''}
+{s:BDSorts|3/jour — ''[[baiser du vampire]]'', ''[[énergie négative]]'', ''[[silence]]'' (DD 16)}
+{s:BDSorts|1/jour — ''[[convocation]]'' (niveau 4, 1 nabasu 30% ou 1d4 [[babau|babaus]] 30%), ''[[immobilisation de personne]]'' (DD 21), ''[[régénération]]''}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 22, '''Dex''' 17, '''Con''' 22, '''Int''' 15, '''Sag''' 16, '''Cha''' 19}
+{s:BDTexte|'''BBA''' +9, '''BMO''' +15, '''DMD''' 29}
+{s:BDTexte|'''Dons''' [[Attaque en puissance]], [[Enchaînement]], [[Esquive]], [[Expertise du combat]], [[Science de linitiative|Science de l'initiative]]}
+{s:BDTexte|'''Compétences''' [[Acrobaties]] +15, [[Connaissances]] (mystères) +14, [[Connaissances]] (plans) +14, [[Discrétion]] +15 (+23 dans l'ombre), [[Perception]] +23, [[Psychologie]] +15, [[Survie]] +15, [[Vol]] +15 ; '''Modificateurs raciaux''' [[Discrétion]] +8 dans l'ombre, [[Perception]] +8}
+{s:BDTexte|'''Langues''' abyssal, céleste, draconique ; [[télépathie]] 30 m (20 {s:c})}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' quelconque (Abysse)}
+{s:BDTexte|'''Organisation sociale''' solitaire}
+{s:BDTexte|'''Trésor''' standard}
+{s:BDSousTitre|Particularités}
+{s:BDTexte|'''Absorption de vie (Sur).''' Lorsqu'un nabasu crée une [[goule]] grâce à son attaque de regard, il gagne un point de croissance (PC). Il acquiert un bonus égal à son nombre de PC applicable à ses [[jet dattaque|jets d'attaque]], ses tests de manoeuvres de combat, ses [[jet de sauvegarde|jets de sauvegarde]], et tests de [[NLS]] et ses tests de compétences. Son nombre maximal de points de vie augmente de +10 par PC. Le [[NLS]] de ses pouvoirs magiques augmente de +1 par PC. Tous les 2 PC, son bonus d'armure naturelle, sa [[RM]] et son FP augmentent de +1. Chaque fois que le nabasu gagne 1 PC, il effectue un test de [[NLS]] contre un [[DD]] de 30. En cas de succès il devient mature (il gagne les archétypes simples "[[Archétypes simples#CREATUREEVOLUEE|évolué]]" et "[[archétypes simples#CREATUREGEANTE|géant]]") et retourne dans les Abysses dans un nuage de fumée (comme par le sort de ''[[changement de plan]]''. Un nabasu peut avoir 20 PC au maximum. Il devient automatiquement mature lorsqu'il gagne son 20<sup>e</sup> point.}
+{s:BDTexte|'''Regard voleur de mort (Sur).''' Par un [[action libre]], un nabasu peut activer son regard voleur de mort pendant un round entier. Il peut le faire un nombre de fois par jour égal à son nombre de PC (au minimum une fois par jour). Toutes les créatures vivantes situées dans un rayon de 9 m (6 {s:c}) doivent réussir un jet de [[Vigueur]] de [[DD]] 18 pour éviter de gagner un [[niveau négatif]]. Si cet effet cause la mort d'un humanoïde, celui-ci se transforme immédiatement en [[goule]] sous le contrôle du nabasu. Le regard du nabasu ne peut créer qu'une seule [[goule]] par round : s'il tue plusieurs humanoïdes au cours d'un même round, il choisit lequel devient une [[goule]]. Le [[DD]] dépend du [[Charisme]].}
+</div>
+</td><td><div>''La bouche de ce fiélon maigrelet est remplie de crocs acérés et de larges ailes de chauves-souris ornent son dos à la peau squameuse.''
+
+Les Abysses créent directement les nabasus sur le plan Matériel, où ils
+se repaissent d’âmes innocentes pour évoluer. Ce n’est que lorsqu’ils
+sont enfin rassasiés qu’ils peuvent retourner vers les Abysses. Selon
+les rumeurs, les nabasus retournés aux Abysses poursuivraient leur
+évolution de manière similaire et continueraient de croître et de se
+transformer.
+
+ Ces démons abominables sont formés à partir des âmes
+des goinfres maléfiques et plus spécialement à partir des cannibales,
+des buveurs de sang et de ceux qui préfèrent le goût de la chair des
+morts-vivants.
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Nabasu</fullName>
+</wikiPage>

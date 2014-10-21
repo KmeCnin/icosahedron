@@ -1,0 +1,151 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Loup</title>
+  <categories><category>Pathfinder-RPG.Bestiaire</category><category>Pathfinder-RPG.Monstre</category><category>Pathfinder-RPG.Règles officielles</category></categories>
+  <lastModified>2013-02-07 19:51:54Z</lastModified>
+  <version>7</version>
+  <inLinks><link>Pathfinder-RPG.Animorphe (alchimiste)</link><link>Pathfinder-RPG.Archon canin</link><link>Pathfinder-RPG.Barghest</link><link>Pathfinder-RPG.Barghest noble</link><link>Pathfinder-RPG.Cavalier des bêtes (chevalier)</link><link>Pathfinder-RPG.Chevalier</link><link>Pathfinder-RPG.Convocation dalliés naturels</link><link>Pathfinder-RPG.Convocation de monstres</link><link>Pathfinder-RPG.Furie montée (barbare)</link><link>Pathfinder-RPG.Glossaire des monstres</link><link>Pathfinder-RPG.Gobelin</link><link>Pathfinder-RPG.Liste de monstres par FP</link><link>Pathfinder-RPG.Liste de monstres par milieu naturel</link><link>Pathfinder-RPG.Liste de monstres par type</link><link>Pathfinder-RPG.Loup-garou</link><link>Pathfinder-RPG.Monstres</link><link>Pathfinder-RPG.Ordres</link><link>Pathfinder-RPG.Quasit</link><link>Pathfinder-RPG.Sac à malice</link><link>Pathfinder-RPG.Samouraï</link><link>Pathfinder-RPG.Seigneur animal</link><link>Pathfinder-RPG.Seigneur des chevaux (rôdeur)</link><link>Pathfinder-RPG.Vampire</link><link>Pathfinder-RPG.Vampire, archétype</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.type Animal</link><link>Pathfinder-RPG.odorat</link><link>Pathfinder-RPG.vision nocturne</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Croc-en-jambe (capacité)</link><link>Pathfinder-RPG.croc-en-jambe</link><link>Pathfinder-RPG.Talent</link><link>Pathfinder-RPG.Discrétion</link><link>Pathfinder-RPG.Survie</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Loup&lt;div style=&quot;float:right;&quot;&gt;FP 1&lt;/div&gt;&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Bestiaire&lt;/i&gt; p.203
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 400
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Animal.html&quot; title=&quot;Animal&quot;&gt;Animal&lt;/a&gt; de taille M, N
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +2 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Odorat-(Capacit&#233;).html&quot; title=&quot;odorat&quot;&gt;odorat&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Nocturne-(Capacit&#233;).html&quot; title=&quot;vision nocturne&quot;&gt;vision nocturne&lt;/a&gt; ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +8
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 14, contact 12, pris au d&#233;pourvu 12 (Dex +2, naturelle +2)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 13 (2d8+4)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +5, &lt;b&gt;Vig&lt;/b&gt; +5, &lt;b&gt;Vol&lt;/b&gt; +1
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 15 m (10 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; morsure, +2 (1d6+1 et &lt;a class=&quot;pagelink&quot; href=&quot;Croc-En-Jambe-(Capacit&#233;).html&quot; title=&quot;Croc-en-jambe (Ext)&quot;&gt;croc-en-jambe&lt;/a&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 13, &lt;b&gt;Dex&lt;/b&gt; 15, &lt;b&gt;Con&lt;/b&gt; 15, &lt;b&gt;Int&lt;/b&gt; 2, &lt;b&gt;Sag&lt;/b&gt; 12, &lt;b&gt;Cha&lt;/b&gt; 6
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +1, &lt;b&gt;BMO&lt;/b&gt; +2, &lt;b&gt;DMD&lt;/b&gt; 14 (18 contre &lt;a class=&quot;pagelink&quot; href=&quot;Croc-En-Jambe.html&quot; title=&quot;croc-en-jambe&quot;&gt;croc-en-jambe&lt;/a&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Talent.html&quot; title=&quot;Talent&quot;&gt;Talent&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; +6, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +8, &lt;a class=&quot;pagelink&quot; href=&quot;Survie.html&quot; title=&quot;Survie&quot;&gt;Survie&lt;/a&gt; +1 (+5 pour pister &#224; l&#39;&lt;a class=&quot;pagelink&quot; href=&quot;Odorat-(Capacit&#233;).html&quot; title=&quot;odorat&quot;&gt;odorat&lt;/a&gt;) ; &lt;b&gt;Modificateurs raciaux&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Survie.html&quot; title=&quot;Survie&quot;&gt;Survie&lt;/a&gt; +4 pour pister &#224; l&#39;&lt;a class=&quot;pagelink&quot; href=&quot;Odorat-(Capacit&#233;).html&quot; title=&quot;odorat&quot;&gt;odorat&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; for&#234;ts froides ou temp&#233;r&#233;es
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation sociale&lt;/b&gt; solitaire, couple ou meute (3-12)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; aucun
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;td&gt;&lt;div&gt;&lt;i&gt;Ce puissant canid&#233; observe sa proie de ses yeux jaunes et per&#231;ants alors que sa langue va et vient entre ses dents blanches et ac&#233;r&#233;es.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Qu’ils soient seuls ou en meutes,
+les loups se trouvent au sommet
+de la cha&#238;ne alimentaire. Les
+meutes de loups d&#233;fendent
+leur territoire avec une
+grande f&#233;rocit&#233; et adoptent
+d’immenses r&#233;gions comme
+terrains de chasse. &lt;br /&gt;&lt;br /&gt;Les pattes
+des loups sont l&#233;g&#232;rement
+palm&#233;es, ce qui les aident &#224; se
+d&#233;placer sur la neige, et leur
+fourrure est un manteau &#233;pais et
+imperm&#233;able dont la couleur varie
+entre le gris et le brun, voire m&#234;me
+le noir chez certaines esp&#232;ces. &lt;br /&gt;&lt;br /&gt;Leurs
+pattes contiennent des glandes
+odorantes gr&#226;ce auxquelles
+ils marquent le sol tout en se
+d&#233;pla&#231;ant, ce qui leur permet de se
+diriger et d’indiquer leur position
+au reste de la meute. &lt;br /&gt;&lt;br /&gt;Un loup
+moyen mesure entre 75 cm et
+90 cm aux &#233;paules et p&#232;se entre
+22,5 kg et 75 kg, les femelles
+&#233;tant un peu plus petites.
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Loup|FP 1}
+{s:pucem|Animal|Forêt-Jungle|Tempéré}
+{s:BDTexte|''Source : Bestiaire'' p.203}
+{s:BDTexte|'''PX''' 400}
+{s:BDTexte|[[type Animal|Animal]] de taille M, N}
+{s:BDTexte|'''Init''' +2 ; '''Sens''' [[odorat]], [[vision nocturne]] ; [[Perception]] +8}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 14, contact 12, pris au dépourvu 12 (Dex +2, naturelle +2)}
+{s:BDTexte|'''pv''' 13 (2d8+4)}
+{s:BDTexte|'''Réf''' +5, '''Vig''' +5, '''Vol''' +1}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 15 m (10 {s:c})}
+{s:BDTexte|'''Corps à corps''' morsure, +2 (1d6+1 et [[Croc-en-jambe (capacité)|croc-en-jambe]])}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 13, '''Dex''' 15, '''Con''' 15, '''Int''' 2, '''Sag''' 12, '''Cha''' 6}
+{s:BDTexte|'''BBA''' +1, '''BMO''' +2, '''DMD''' 14 (18 contre [[croc-en-jambe]])}
+{s:BDTexte|'''Dons''' [[Talent]] ([[Perception]])}
+{s:BDTexte|'''Compétences''' [[Discrétion]] +6, [[Perception]] +8, [[Survie]] +1 (+5 pour pister à l'[[odorat]]) ; '''Modificateurs raciaux''' [[Survie]] +4 pour pister à l'[[odorat]]}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' forêts froides ou tempérées}
+{s:BDTexte|'''Organisation sociale''' solitaire, couple ou meute (3-12)}
+{s:BDTexte|'''Trésor''' aucun}
+</div>
+</td><td><div>''Ce puissant canidé observe sa proie de ses yeux jaunes et perçants alors que sa langue va et vient entre ses dents blanches et acérées.''
+
+Qu’ils soient seuls ou en meutes,
+les loups se trouvent au sommet
+de la chaîne alimentaire. Les
+meutes de loups défendent
+leur territoire avec une
+grande férocité et adoptent
+d’immenses régions comme
+terrains de chasse. 
+
+Les pattes
+des loups sont légèrement
+palmées, ce qui les aident à se
+déplacer sur la neige, et leur
+fourrure est un manteau épais et
+imperméable dont la couleur varie
+entre le gris et le brun, voire même
+le noir chez certaines espèces. 
+
+Leurs
+pattes contiennent des glandes
+odorantes grâce auxquelles
+ils marquent le sol tout en se
+déplaçant, ce qui leur permet de se
+diriger et d’indiquer leur position
+au reste de la meute. 
+
+Un loup
+moyen mesure entre 75 cm et
+90 cm aux épaules et pèse entre
+22,5 kg et 75 kg, les femelles
+étant un peu plus petites.
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Loup</fullName>
+</wikiPage>

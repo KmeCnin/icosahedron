@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Enchevêtrement flamboyant</title>
+  <categories><category>Pathfinder-RPG.Advanced Player Guide</category><category>Pathfinder-RPG.Règles officielles</category><category>Pathfinder-RPG.Sort</category><category>Pathfinder-RPG.Sort paladin 2</category></categories>
+  <lastModified>2012-11-04 21:21:24Z</lastModified>
+  <version>2</version>
+  <inLinks><link>Pathfinder-RPG.Glossaire des sorts</link><link>Pathfinder-RPG.Liste des sorts (suite)</link><link>Pathfinder-RPG.Liste des sorts de paladins</link><link>Pathfinder-RPG.TMP sorts APG</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Évocation</link><link>Pathfinder-RPG.Paladin</link><link>Pathfinder-RPG.Action rapide</link><link>Pathfinder-RPG.composantes</link><link>Pathfinder-RPG.round</link><link>Pathfinder-RPG.niveau</link><link>Pathfinder-RPG.Réflexes</link><link>Pathfinder-RPG.Présentation des sorts</link><link>Pathfinder-RPG.Enchevêtré</link><link>Pathfinder-RPG.jet de sauvegarde</link></outLinks>
+  <body><![CDATA[&lt;br /&gt;&lt;br /&gt;&lt;b&gt;&#201;cole&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#EVOCATION&quot; title=&quot;&#201;vocation&quot;&gt;&#201;vocation&lt;/a&gt;&#160;;&lt;b&gt; Niveau&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Paladin.html&quot; title=&quot;Le paladin&quot;&gt;paladin&lt;/a&gt; 2&lt;br/&gt;
+&lt;b&gt;Temps d&#39;incantation&lt;/b&gt; 1 &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions.html#RAPIDE&quot; title=&quot;Action rapide&quot;&gt;action rapide&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Composantes&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#COMPOSANTES&quot; title=&quot;composantes&quot;&gt;V, G&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Port&#233;e&lt;/b&gt; sp&#233;ciale&#160;(voir description)&lt;br/&gt;
+&lt;b&gt;Cible&lt;/b&gt; une cr&#233;ature&lt;br/&gt;
+&lt;b&gt;Dur&#233;e&lt;/b&gt; 1 &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#ROUND&quot; title=&quot;round&quot;&gt;round&lt;/a&gt;/&lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#NIVEAU&quot; title=&quot;niveau&quot;&gt;niveau&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Jet de sauvegarde&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;R&#233;flexes&quot;&gt;R&#233;flexes&lt;/a&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#JETSDESAUVEGARDE&quot; title=&quot;Pr&#233;sentation des sorts&quot;&gt;partiel&lt;/a&gt; ; &lt;b&gt;R&#233;sistance &#224; la magie&lt;/b&gt; oui&lt;br /&gt;&lt;br /&gt;La prochaine cr&#233;ature que le &lt;a class=&quot;pagelink&quot; href=&quot;Paladin.html&quot; title=&quot;Le paladin&quot;&gt;paladin&lt;/a&gt; attaque avec son pouvoir de classe &lt;a class=&quot;pagelink&quot; href=&quot;Paladin.html#CHATIMENTDUMAL&quot; title=&quot;Le paladin&quot;&gt;ch&#226;timent du mal&lt;/a&gt; est entour&#233;e de flammes qui g&#234;nent ses mouvements. La cible est &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables.html#Enchev&#234;tr&#233;&quot; title=&quot;Enchev&#234;tr&#233;&quot;&gt;enchev&#234;tr&#233;e&lt;/a&gt; jusqu&#39;&#224; la fin du sort. Si la cible commence son tour dans une case adjacente au personnage, on la consid&#232;re comme &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables.html#Enchev&#234;tr&#233;&quot; title=&quot;Enchev&#234;tr&#233;&quot;&gt;enchev&#234;tr&#233;e&lt;/a&gt; avec un objet immobile (le personnage) et elle ne peut plus bouger. Une cible qui r&#233;ussit un &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;jet de sauvegarde&quot;&gt;jet de sauvegarde&lt;/a&gt; contre ce sort n&#39;est affect&#233;e que pendant 1 round.
+]]></body>
+  <raw><![CDATA[
+{s:APG}
+'''École''' [[Évocation]] ;''' Niveau''' [[paladin]] 2<br/>
+'''Temps d'incantation''' 1 [[action rapide]]<br/>
+'''Composantes''' [[Composantes|V, G]]<br/>
+'''Portée''' spéciale (voir description)<br/>
+'''Cible''' une créature<br/>
+'''Durée''' 1 [[round]]/[[niveau]]<br/>
+'''Jet de sauvegarde''' [[Réflexes]] [[Présentation des sorts#JETSDESAUVEGARDE|partiel]] ; '''Résistance à la magie''' oui
+
+La prochaine créature que le [[paladin]] attaque avec son pouvoir de classe [[paladin#CHATIMENTDUMAL|châtiment du mal]] est entourée de flammes qui gênent ses mouvements. La cible est [[enchevêtré|enchevêtrée]] jusqu'à la fin du sort. Si la cible commence son tour dans une case adjacente au personnage, on la considère comme [[enchevêtré|enchevêtrée]] avec un objet immobile (le personnage) et elle ne peut plus bouger. Une cible qui réussit un [[jet de sauvegarde]] contre ce sort n'est affectée que pendant 1 round.
+]]></raw>
+  <fullName>Pathfinder-RPG.Enchevêtrement flamboyant</fullName>
+</wikiPage>

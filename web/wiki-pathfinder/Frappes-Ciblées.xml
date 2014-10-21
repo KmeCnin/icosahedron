@@ -1,0 +1,1032 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Frappes ciblées</title>
+  <categories><category>Pathfinder-RPG.Art de la guerre</category><category>Pathfinder-RPG.Règles officielles</category></categories>
+  <lastModified>2013-03-03 23:38:36Z</lastModified>
+  <version>21</version>
+  <inLinks><link>Pathfinder-RPG.Blessures et vitalité</link><link>Pathfinder-RPG.Description des pièces darmure</link><link>Pathfinder-RPG.Frappe ciblée supérieure</link><link>Pathfinder-RPG.Frappes ciblées</link><link>Pathfinder-RPG.Larmure comme RD</link><link>Pathfinder-RPG.Pièces darmures</link><link>Pathfinder-RPG.Régles alternatives</link><link>Pathfinder-RPG.Science de la frappe ciblée</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Régles alternatives</link><link>Pathfinder-RPG.Larmure comme RD</link><link>Pathfinder-RPG.Frappes ciblées</link><link>Pathfinder-RPG.Pièces darmures</link><link>Pathfinder-RPG.Description des pièces darmure</link><link>Pathfinder-RPG.Blessures et vitalité</link><link>Pathfinder-RPG.Science de la frappe ciblée</link><link>Pathfinder-RPG.Int</link><link>Pathfinder-RPG.Expertise du combat</link><link>Pathfinder-RPG.jet dattaque</link><link>Pathfinder-RPG.Frappe ciblée supérieure</link><link>Pathfinder-RPG.BBA</link><link>Pathfinder-RPG.Action complexe</link><link>Pathfinder-RPG.charge</link><link>Pathfinder-RPG.Dons</link><link>Pathfinder-RPG.Frappe décisive</link><link>Pathfinder-RPG.attaque à outrance</link><link>Pathfinder-RPG.Actions simples</link><link>Pathfinder-RPG.Modificateurs de combat</link><link>Pathfinder-RPG.CA</link><link>Pathfinder-RPG.Clignotement</link><link>Pathfinder-RPG.Déplacement</link><link>Pathfinder-RPG.Coup au but</link><link>Pathfinder-RPG.Cyclope</link><link>Pathfinder-RPG.affaiblissement temporaire (capacité)</link><link>Pathfinder-RPG.Immunité (capacité)</link><link>Pathfinder-RPG.Vocabulaire courant</link><link>Pathfinder-RPG.Réduction de dégâts (capacité)</link><link>Pathfinder-RPG.Saignement (capacité)</link><link>Pathfinder-RPG.Régénération (capacité)</link><link>Pathfinder-RPG.Lancer des sorts</link><link>Pathfinder-RPG.Régénération</link><link>Pathfinder-RPG.États préjudiciables</link><link>Pathfinder-RPG.Valeurs de combat</link><link>Pathfinder-RPG.courir</link><link>Pathfinder-RPG.charger</link><link>Pathfinder-RPG.Constitution</link><link>Pathfinder-RPG.Premiers secours</link><link>Pathfinder-RPG.Caractéristiques</link><link>Pathfinder-RPG.Compétences</link><link>Pathfinder-RPG.Vol</link><link>Pathfinder-RPG.Dangers naturels</link><link>Pathfinder-RPG.Dextérité</link><link>Pathfinder-RPG.Force</link><link>Pathfinder-RPG.Vampire, archétype</link><link>Pathfinder-RPG.Acrobaties</link><link>Pathfinder-RPG.Natation</link><link>Pathfinder-RPG.DMD</link><link>Pathfinder-RPG.désarmement</link><link>Pathfinder-RPG.Réflexes</link><link>Pathfinder-RPG.camouflage</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.coup critique</link><link>Pathfinder-RPG.Guérison de la cécitésurdité</link><link>Pathfinder-RPG.Vigueur</link><link>Pathfinder-RPG.Assourdi</link><link>Pathfinder-RPG.Chancelant</link><link>Pathfinder-RPG.Étourdi</link><link>Pathfinder-RPG.Otyugh</link><link>Pathfinder-RPG.Ver pourpre</link><link>Pathfinder-RPG.Ettin</link><link>Pathfinder-RPG.Fiévreux</link><link>Pathfinder-RPG.Intelligence</link><link>Pathfinder-RPG.Sagesse</link><link>Pathfinder-RPG.Charisme</link><link>Pathfinder-RPG.Inconscient</link><link>Pathfinder-RPG.Débilité</link><link>Pathfinder-RPG.Guérison suprême</link><link>Pathfinder-RPG.Restauration suprême</link><link>Pathfinder-RPG.Escalade</link><link>Pathfinder-RPG.Fatigué</link><link>Pathfinder-RPG.Épuisé</link><link>Pathfinder-RPG.DD</link></outLinks>
+  <body><![CDATA[&lt;div style=&quot;float: right; margin-left: 10px; margin-right: -40px; max-width: 300px;&quot; class=&quot;presentation recentre&quot;&gt;&lt;table id=&quot;TocContainerTable&quot;&gt;&lt;tr&gt;&lt;td&gt;&lt;div id=&quot;TocContainer&quot;&gt;&lt;p class=&quot;small&quot;&gt;&lt;b&gt;Table of Contents&lt;/b&gt;&lt;span id=&quot;ExpandTocSpan&quot;&gt; [&lt;a href=&quot;#&quot; onclick=&quot;javascript:if(document.getElementById(&#39;Toc&#39;).style[&#39;display&#39;]==&#39;none&#39;) document.getElementById(&#39;Toc&#39;).style[&#39;display&#39;]=&#39;&#39;; else document.getElementById(&#39;Toc&#39;).style[&#39;display&#39;]=&#39;none&#39;; return false;&quot;&gt;Hide/Show&lt;/a&gt;]&lt;/span&gt;&lt;/p&gt;&lt;div id=&quot;Toc&quot;&gt;&lt;p&gt;&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;#Lancer_une_frappe_cibl&#233;e_10&quot;&gt;Lancer une frappe cibl&#233;e&lt;/a&gt;&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;#R&#232;gles_additionnelles_11&quot;&gt;R&#232;gles additionnelles&lt;/a&gt;&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;#Effets_des_frappes_cibl&#233;es_12&quot;&gt;Effets des frappes cibl&#233;es&lt;/a&gt;&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;#Abdomen_0&quot;&gt;Abdomen&lt;/a&gt;&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;#Bras_1&quot;&gt;Bras&lt;/a&gt;&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;#Cœur_2&quot;&gt;Cœur&lt;/a&gt;&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;#Cou_3&quot;&gt;Cou&lt;/a&gt;&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;#Jambe_4&quot;&gt;Jambe&lt;/a&gt;&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;#Main_5&quot;&gt;Main&lt;/a&gt;&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;#Œil_6&quot;&gt;Œil&lt;/a&gt;&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;#Oreille_7&quot;&gt;Oreille&lt;/a&gt;&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;#T&#234;te_8&quot;&gt;T&#234;te&lt;/a&gt;&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;#Tronc_9&quot;&gt;Tronc&lt;/a&gt;&lt;br /&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;&lt;div style=&quot;float: left; margin-right: 20px; margin-bottom: 10px;&quot; class=&quot;presentation recentre&quot;&gt;
+&lt;h2 class=&quot;separator&quot;&gt;&lt;div style=&quot;float: right; margin-top: -4px;&quot;&gt;&lt;/div&gt;R&#232;gles alternatives&lt;/h2&gt;
+&lt;ul&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;R&#233;gles-Alternatives.html&quot; title=&quot;R&#232;gles alternatives&quot;&gt;Introduction&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Larmure-Comme-Rd.html&quot; title=&quot;L&amp;#39;armure comme RD&quot;&gt;L&#39;armure comme r&#233;duction de d&#233;g&#226;ts&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Frappes-Cibl&#233;es.html&quot; title=&quot;Frappes cibl&#233;es&quot;&gt;Frappes cibl&#233;es&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Pi&#232;ces-Darmures.html&quot; title=&quot;Pi&#232;ces d&amp;#39;armure&quot;&gt;Pi&#232;ces d&#39;armure&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Description-Des-Pi&#232;ces-Darmure.html&quot; title=&quot;Description des pi&#232;ces d&amp;#39;armure&quot;&gt;descriptions&lt;/a&gt;)&lt;/li&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Blessures-Et-Vitalit&#233;.html&quot; title=&quot;Blessures et vitalit&#233;&quot;&gt;Blessures et vitalit&#233;&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;Dans &lt;i&gt;Pathfinder JdR&lt;/i&gt;, les points de vie et les d&#233;g&#226;ts sont
+g&#233;r&#233;s de mani&#232;re abstraite, presque tous les coups &#233;tant
+trait&#233;s de la m&#234;me fa&#231;on avec pour seules distinctions
+entre eux le type et le montant des d&#233;g&#226;ts caus&#233;s. La r&#232;gle
+optionnelle &#171; frappes cibl&#233;es &#187; donne aux PJ, aux monstres et
+aux ennemis la possibilit&#233; d’ajuster leurs attaques avec plus
+de pr&#233;cision, ouvrant potentiellement la voie &#224; des effets
+d&#233;vastateurs.&lt;br /&gt;&lt;br /&gt;Ces r&#232;gles sont un accessoire optionnel facultatif pour vos
+campagnes. Les MJ sont invit&#233;s &#224; les envisager avec prudence
+avant de les int&#233;grer &#224; leur syst&#232;me de jeu.&lt;br /&gt;&lt;br /&gt;&lt;a name=&quot;LANCERUNEFRAPPECIBLEE&quot;&gt;&lt;/a&gt;
+&lt;h2 class=&quot;separator&quot;&gt;Lancer une frappe cibl&#233;e&lt;a class=&quot;headeranchor&quot; id=&quot;Lancer_une_frappe_cibl&#233;e_10&quot; href=&quot;#Lancer_une_frappe_cibl&#233;e_10&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;&lt;div style=&quot;float:left; background-color: #fff; margin: 16px 16px 0 0; width: 400px;&quot;&gt;
+&lt;div style=&quot;border: 1px solid #4b3124; padding: 4px&quot;&gt;
+&lt;center&gt;
+&lt;table CLASS=&quot;tablo&quot;&gt;&lt;caption&gt;Dons de frappe cibl&#233;e&lt;/caption&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td&gt;Don&lt;/td&gt;&lt;td&gt;Conditions&lt;/td&gt;&lt;td&gt;Avantage&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Science-De-La-Frappe-Cibl&#233;e.html&quot; title=&quot;Science de la frappe cibl&#233;e&quot;&gt;Science de la frappe cibl&#233;e&lt;/a&gt;&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#INTELLIGENCE&quot; title=&quot;Int&quot;&gt;Int&lt;/a&gt; 13, &lt;a class=&quot;pagelink&quot; href=&quot;Expertise-Du-Combat.html&quot; title=&quot;Expertise du combat&quot;&gt;Expertise du combat&lt;/a&gt;&lt;/td&gt;&lt;td&gt;Bonus de +2 au &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDATTAQUE&quot; title=&quot;jet dattaque&quot;&gt;jet d&#39;attaque&lt;/a&gt; sur une &lt;a class=&quot;pagelink&quot; href=&quot;Frappes-Cibl&#233;es.html&quot; title=&quot;Frappes cibl&#233;es&quot;&gt;frappe cibl&#233;e&lt;/a&gt;, faire une &lt;a class=&quot;pagelink&quot; href=&quot;Frappes-Cibl&#233;es.html&quot; title=&quot;Frappes cibl&#233;es&quot;&gt;frappe cibl&#233;e&lt;/a&gt; parmi des attaques multiples&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;&amp;emsp; &lt;a class=&quot;pagelink&quot; href=&quot;Frappe-Cibl&#233;e-Sup&#233;rieure.html&quot; title=&quot;Frappe cibl&#233;e sup&#233;rieure&quot;&gt;Frappe cibl&#233;e sup&#233;rieure&lt;/a&gt;&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#INTELLIGENCE&quot; title=&quot;Int&quot;&gt;Int&lt;/a&gt; 13, &lt;a class=&quot;pagelink&quot; href=&quot;Expertise-Du-Combat.html&quot; title=&quot;Expertise du combat&quot;&gt;Expertise du combat&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Science-De-La-Frappe-Cibl&#233;e.html&quot; title=&quot;Science de la frappe cibl&#233;e&quot;&gt;Science de la frappe cibl&#233;e&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#BONUSDEBASEALATTAQUE&quot; title=&quot;BBA&quot;&gt;BBA&lt;/a&gt; +6&lt;/td&gt;&lt;td&gt;Remplacer une attaque par une &lt;a class=&quot;pagelink&quot; href=&quot;Frappes-Cibl&#233;es.html&quot; title=&quot;Frappes cibl&#233;es&quot;&gt;frappe cibl&#233;e&lt;/a&gt;, plusieurs &lt;a class=&quot;pagelink&quot; href=&quot;Frappes-Cibl&#233;es.html&quot; title=&quot;Frappes cibl&#233;es&quot;&gt;frappes cibl&#233;es&lt;/a&gt; par round&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/center&gt;&lt;/div&gt;&lt;/div&gt;
+Une frappe cibl&#233;e est un coup visant une zone particuli&#232;re
+du corps, donn&#233; avec l’espoir d’obtenir un effet suppl&#233;mentaire
+suite &#224; l’attaque. Plus la zone est petite, mieux elle est prot&#233;g&#233;e,
+et plus difficile est la frappe cibl&#233;e. Une frappe cibl&#233;e est une
+attaque unique comptant comme une &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions.html#COMPLEXE&quot; title=&quot;Action complexe&quot;&gt;action complexe&lt;/a&gt;. Par
+cons&#233;quent, elle ne peut &#234;tre combin&#233;e avec une &lt;a class=&quot;pagelink&quot; href=&quot;Actions-Sp&#233;ciales.html#CHARGE&quot; title=&quot;charge&quot;&gt;charge&lt;/a&gt;, des
+&lt;a class=&quot;pagelink&quot; href=&quot;Dons.html&quot; title=&quot;Les dons&quot;&gt;dons&lt;/a&gt; comme &lt;a class=&quot;pagelink&quot; href=&quot;Frappe-D&#233;cisive.html&quot; title=&quot;Frappe d&#233;cisive&quot;&gt;frappe d&#233;cisive&lt;/a&gt;, ou avec des attaques multiples
+au cours d’une action d’&lt;a class=&quot;pagelink&quot; href=&quot;Actions-Complexes.html#ATTAQUEAOUTRANCE&quot; title=&quot;attaque &#224; outrance&quot;&gt;attaque &#224; outrance&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;Les frappes cibl&#233;es se divisent en trois grandes cat&#233;gories
+de difficult&#233; : facile, d&#233;licate et difficile. Les frappes cibl&#233;es
+faciles visent de larges zones du corps et se font avec un malus
+de -2. &#192; moins de d&#233;g&#226;ts excessifs ou d’un coup critique,
+ces frappes cibl&#233;es n’occasionnent que des effets mineurs.
+Les frappes cibl&#233;es d&#233;licates visent des zones plus petites,
+comme une main, ou des zones que les cr&#233;atures veillent &#224;
+prot&#233;ger efficacement, comme leur t&#234;te. Les frappes cibl&#233;es
+d&#233;licates re&#231;oivent un malus de -5 et ont de plus s&#233;rieuses
+cons&#233;quences. Les frappes cibl&#233;es difficiles visent des zones
+tr&#232;s pr&#233;cises comme les yeux, les doigts ou le cou d’une
+cr&#233;ature. Elles se font avec un malus de -10, et un coup r&#233;ussi
+cause &#224; court terme d’importants d&#233;g&#226;ts et d&#233;sagr&#233;ments.
+Au-del&#224; de cette &#233;chelle se trouvent les frappes cibl&#233;es dites
+presque impossibles, qui re&#231;oivent un malus de -20. Pour les
+frappes cibl&#233;es lanc&#233;es contre des cr&#233;atures non humano&#239;des,
+faites preuve de bon sens et employez les cat&#233;gories ci-dessus
+&#224; titre indicatif. Les ailes d’une cr&#233;ature volante doivent, par
+exemple, &#234;tre trait&#233;es comme des bras.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Port&#233;e et allonge&lt;/b&gt;. Les frappes cibl&#233;es fonctionnent mieux &#224;
+tr&#232;s courte port&#233;e. En m&#234;l&#233;e, les frappes cibl&#233;es subissent un
+malus de -2 quand la cible n’est pas adjacente &#224; l’attaquant. Pour
+les frappes cibl&#233;es &#224; distance, tous les malus de port&#233;e dus au
+facteur de port&#233;e sont doubl&#233;s, avec un malus minimum de -2
+pour toute frappe cibl&#233;e tent&#233;e contre une cible &#224; plus de 9 m (6 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;).&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Coups critiques et confirmation de coups critiques&lt;/b&gt;. Une
+frappe cibl&#233;e a des chances normales de devenir un &lt;a class=&quot;pagelink&quot; href=&quot;Actions-Simples.html#COUPCRITIQUE&quot; title=&quot;Actions simples&quot;&gt;coup critique&lt;/a&gt;,
+ et inflige un effet suppl&#233;mentaire lorsqu’un &lt;a class=&quot;pagelink&quot; href=&quot;Actions-Simples.html#COUPCRITIQUE&quot; title=&quot;Actions simples&quot;&gt;coup critique&lt;/a&gt;
+ est confirm&#233;. L’effet sp&#233;cifique &#224; appliquer lorsqu’un
+&lt;a class=&quot;pagelink&quot; href=&quot;Actions-Simples.html#COUPCRITIQUE&quot; title=&quot;Actions simples&quot;&gt;coup critique&lt;/a&gt; est r&#233;ussi d&#233;pend de la zone cibl&#233;e. Ces effets
+sont d&#233;crits dans la partie &lt;a class=&quot;internallink&quot; href=&quot;#EFFETSDESFRAPPESCIBLEES&quot; title=&quot;Effets des frappes cibl&#233;es&quot;&gt;Effets des frappes cibl&#233;es&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;&lt;a name=&quot;REGLESADDITIONNELLES&quot;&gt;&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;h2 class=&quot;separator&quot;&gt;R&#232;gles additionnelles&lt;a class=&quot;headeranchor&quot; id=&quot;R&#232;gles_additionnelles_11&quot; href=&quot;#R&#232;gles_additionnelles_11&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;&lt;b&gt;Abri&lt;/b&gt;. Les &lt;a class=&quot;pagelink&quot; href=&quot;Modificateurs-De-Combat.html#ABRI&quot; title=&quot;Modificateurs de combat&quot;&gt;abris&lt;/a&gt; autres que l’&lt;a class=&quot;pagelink&quot; href=&quot;Modificateurs-De-Combat.html#abri partiel&quot; title=&quot;Modificateurs de combat&quot;&gt;abri partiel&lt;/a&gt; g&#234;nent beaucoup plus les
+frappes cibl&#233;es que les attaques normales. Doublez tous les bonus
+&#224; la &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#CA&quot; title=&quot;CA&quot;&gt;CA&lt;/a&gt; octroy&#233;s par les &lt;a class=&quot;pagelink&quot; href=&quot;Modificateurs-De-Combat.html#ABRI&quot; title=&quot;Modificateurs de combat&quot;&gt;abris&lt;/a&gt; autres que l’&lt;a class=&quot;pagelink&quot; href=&quot;Modificateurs%20de%20combat.ashx#abri partiel[abri partiel&quot; title=&quot;Modificateurs de combat&quot;&gt;Modificateurs de combat&lt;/a&gt;. En outre, les
+&lt;a class=&quot;pagelink&quot; href=&quot;Modificateurs-De-Combat.html#ABRI&quot; title=&quot;Modificateurs de combat&quot;&gt;abris&lt;/a&gt; peuvent rendre certaines frappes cibl&#233;es impossibles.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Attaques de contact&lt;/b&gt;. Les attaques de contact et les attaques de
+contact &#224; distance r&#233;alis&#233;es sous la forme de frappes cibl&#233;es doivent
+atteindre la &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#CA&quot; title=&quot;CA&quot;&gt;CA&lt;/a&gt; r&#233;elle de leur cible et non la &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#CA&quot; title=&quot;CA&quot;&gt;CA&lt;/a&gt; habituellement
+n&#233;cessaire pour toucher leur cible. Ceci repr&#233;sente la difficult&#233;
+qu’ajoute le fait de viser des zones pr&#233;cises.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Camouflage&lt;/b&gt;. Face aux cr&#233;atures utilisant le &lt;a class=&quot;pagelink&quot; href=&quot;Modificateurs-De-Combat.html#CAMOUFLAGE&quot; title=&quot;Modificateurs de combat&quot;&gt;camouflage&lt;/a&gt;, les
+chances de rater une frappe cibl&#233;e augmentent de 50% et il
+est impossible de tenter une frappe cibl&#233;e sur une cr&#233;ature
+disposant d’un &lt;a class=&quot;pagelink&quot; href=&quot;Modificateurs-De-Combat.html#CAMOUFLAGETOTAL&quot; title=&quot;Modificateurs de combat&quot;&gt;camouflage total&lt;/a&gt;. Pour les effets fonctionnant
+de mani&#232;re similaire &#224; &lt;a class=&quot;pagelink&quot; href=&quot;Modificateurs-De-Combat.html#CAMOUFLAGE&quot; title=&quot;Modificateurs de combat&quot;&gt;camouflage&lt;/a&gt;, comme les pouvoirs
+&lt;a class=&quot;pagelink&quot; href=&quot;Clignotement.html&quot; title=&quot;Clignotement&quot;&gt;clignotement&lt;/a&gt; et &lt;a class=&quot;pagelink&quot; href=&quot;D&#233;placement.html&quot; title=&quot;D&#233;placement&quot;&gt;d&#233;placement&lt;/a&gt;, une chance de rater sup&#233;rieure &#224;
+50% interdit toutes frappes cibl&#233;es, une chance de rater de
+20% doit &#234;tre augment&#233;e &#224; 50% et les chances de rater de
+niveau inf&#233;rieur sont doubl&#233;es.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Coup au but automatique&lt;/b&gt;. En jeu, certains effets, comme
+le sort &lt;a class=&quot;pagelink&quot; href=&quot;Coup-Au-But.html&quot; title=&quot;Coup au but&quot;&gt;coup au but&lt;/a&gt; ou la capacit&#233; sp&#233;ciale des cyclopes
+&lt;a class=&quot;pagelink&quot; href=&quot;Cyclope.html&quot; title=&quot;Cyclope&quot;&gt;vision instantan&#233;e&lt;/a&gt;, procurent automatiquement ou presque un coup
+r&#233;ussi. L’utilisation d’une telle capacit&#233; pour une Frappe cibl&#233;e
+change l’attaque en une attaque normale, et aucun des b&#233;n&#233;fices
+et p&#233;nalit&#233;s associ&#233;s aux frappes cibl&#233;es ne s’applique dans
+ce cas. En jeu, l’explication est que l’effet sp&#233;cial ou magique
+ne peut faire la diff&#233;rence entre une frappe en g&#233;n&#233;ral et un
+coup dans une zone particuli&#232;re de la cible. &#201;videmment, cette
+pr&#233;cision est aussi n&#233;cessaire pour maintenir la puissance
+de ces capacit&#233;s en accord avec les effets qui leur &#233;taient
+originellement destin&#233;s. Si certains MJ pr&#233;f&#232;rent un jeu plus
+th&#233;&#226;tral ou dangereux o&#249; la magie peut rendre une attaque
+aux yeux in&#233;vitable, cette r&#232;gle peut &#234;tre ignor&#233;e.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Cumul&lt;/b&gt;. Sauf pr&#233;cision contraire, les malus issus de multiples
+frappes cibl&#233;es ne se cumulent pas, m&#234;me s’ils sont affect&#233;s &#224;
+diff&#233;rentes parties du corps. Les &lt;a class=&quot;pagelink&quot; href=&quot;Affaiblissement-Temporaire-(Capacit&#233;).html&quot; title=&quot;Affaiblissement temporaire (Ext ou Sur)&quot;&gt;affaiblissements temporaires&lt;/a&gt;
+et les &lt;a class=&quot;pagelink&quot; href=&quot;Affaiblissement-Temporaire-(Capacit&#233;).html#Diminution_permanente_0&quot; title=&quot;Affaiblissement temporaire (Ext ou Sur)&quot;&gt;diminutions permanentes&lt;/a&gt; de caract&#233;ristique caus&#233;s par
+des frappes cibl&#233;es se cumulent toujours.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Immunit&#233;&lt;/b&gt;. L’&lt;a class=&quot;pagelink&quot; href=&quot;Immunit&#233;-(Capacit&#233;).html&quot; title=&quot;Immunit&#233; (Ext ou Sur)&quot;&gt;immunit&#233; contre les coups critiques&lt;/a&gt;
+prot&#232;ge des effets suppl&#233;mentaires des frappes cibl&#233;es. Les
+protections partielles, comme celle procur&#233;e par la propri&#233;t&#233;
+sp&#233;ciale de [[d&#233;fense de certaines armures magiques, prot&#232;gent
+la cr&#233;ature comme si la frappe cibl&#233;e &#233;tait un coup critique.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Jets de sauvegarde&lt;/b&gt;. Lorsqu’un jet de sauvegarde est autoris&#233;
+suite &#224; une frappe cibl&#233;e, son &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DEGREDEDIFFICULTE&quot; title=&quot;Vocabulaire courant&quot;&gt;DD&lt;/a&gt; est &#233;gal &#224; la &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#CA&quot; title=&quot;CA&quot;&gt;Classe d’Armure&lt;/a&gt;
+de la cr&#233;ature touch&#233;e par l’attaque. Si le jet d’attaque a donn&#233;
+un 20 naturel, le &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DEGREDEDIFFICULTE&quot; title=&quot;Vocabulaire courant&quot;&gt;DD&lt;/a&gt; du jet de sauvegarde est &#233;gal &#224; la &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#CA&quot; title=&quot;CA&quot;&gt;CA&lt;/a&gt; que
+l’attaque aurait pu atteindre avec ce r&#233;sultat (si le 20 naturel n’&#233;tait
+pas, dans les r&#232;gles, consid&#233;r&#233; comme une r&#233;ussite automatique).&lt;br /&gt;&lt;br /&gt;&lt;b&gt;R&#233;duction de d&#233;g&#226;ts&lt;/b&gt;. Si la &lt;a class=&quot;pagelink&quot; href=&quot;R&#233;duction-De-D&#233;g&#226;ts-(Capacit&#233;).html&quot; title=&quot;R&#233;duction de d&#233;g&#226;ts (Ext ou Sur)&quot;&gt;r&#233;duction de d&#233;g&#226;ts&lt;/a&gt; annule
+compl&#232;tement les d&#233;g&#226;ts caus&#233;s par une frappe cibl&#233;e, la frappe
+cibl&#233;e est sans effet. En revanche, si des d&#233;g&#226;ts sont inflig&#233;s en
+d&#233;pit de la &lt;a class=&quot;pagelink&quot; href=&quot;R&#233;duction-De-D&#233;g&#226;ts-(Capacit&#233;).html&quot; title=&quot;R&#233;duction de d&#233;g&#226;ts (Ext ou Sur)&quot;&gt;r&#233;duction de d&#233;g&#226;ts&lt;/a&gt;, la frappe cibl&#233;e entra&#238;ne les
+effets normalement pr&#233;vus. La &lt;a class=&quot;pagelink&quot; href=&quot;R&#233;duction-De-D&#233;g&#226;ts-(Capacit&#233;).html&quot; title=&quot;R&#233;duction de d&#233;g&#226;ts (Ext ou Sur)&quot;&gt;r&#233;duction de d&#233;g&#226;ts&lt;/a&gt; ne diminue
+ni les &lt;a class=&quot;pagelink&quot; href=&quot;Affaiblissement-Temporaire-(Capacit&#233;).html&quot; title=&quot;Affaiblissement temporaire (Ext ou Sur)&quot;&gt;affaiblissements temporaires&lt;/a&gt; de caract&#233;ristique, ni les
+&lt;a class=&quot;pagelink&quot; href=&quot;Affaiblissement-Temporaire-(Capacit&#233;).html#Diminution_permanente_0&quot; title=&quot;Affaiblissement temporaire (Ext ou Sur)&quot;&gt;diminutions permanentes&lt;/a&gt; de caract&#233;ristique, ni les malus ou
+&lt;a class=&quot;pagelink&quot; href=&quot;Saignement-(Capacit&#233;).html&quot; title=&quot;Saignement (Ext)&quot;&gt;saignements&lt;/a&gt; caus&#233;s par les frappes cibl&#233;es.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;R&#233;g&#233;n&#233;ration&lt;/b&gt;. La &lt;a class=&quot;pagelink&quot; href=&quot;R&#233;g&#233;n&#233;ration-(Capacit&#233;).html&quot; title=&quot;R&#233;g&#233;n&#233;ration (Ext)&quot;&gt;r&#233;g&#233;n&#233;ration&lt;/a&gt; n’offre aucune protection
+sp&#233;ciale contre les frappes cibl&#233;es mais peut annuler ou invalider
+certains effets, comme les &lt;a class=&quot;pagelink&quot; href=&quot;Saignement-(Capacit&#233;).html&quot; title=&quot;Saignement (Ext)&quot;&gt;saignements&lt;/a&gt; et pertes de membre.&lt;br /&gt;&lt;br /&gt;&lt;a name=&quot;EFFETSDESFRAPPESCIBLEES&quot;&gt;&lt;/a&gt;
+&lt;h2 class=&quot;separator&quot;&gt;Effets des frappes cibl&#233;es&lt;a class=&quot;headeranchor&quot; id=&quot;Effets_des_frappes_cibl&#233;es_12&quot; href=&quot;#Effets_des_frappes_cibl&#233;es_12&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;Les cons&#233;quences d’une frappe cibl&#233;e r&#233;ussie varient selon
+qu’il s’agit d’un coup normal, d’un &lt;a class=&quot;pagelink&quot; href=&quot;Actions-Simples.html#COUPCRITIQUE&quot; title=&quot;Actions simples&quot;&gt;coup critique&lt;/a&gt; ou d’un
+coup incapacitant (un coup infligeant 50 points de d&#233;g&#226;ts ou
+plus). Quand plus d’un membre ou plus d’un organe peut
+&#234;tre affect&#233; par une frappe cibl&#233;e, l’attaquant peut choisir
+sa cible s’il le d&#233;sire ; dans le cas contraire, l’organe ou le
+membre touch&#233; est d&#233;termin&#233; de mani&#232;re al&#233;atoire.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Frappe cibl&#233;e&lt;/b&gt;. Une attaque visant une zone sp&#233;cifique et
+faisant moins de 50 points de d&#233;g&#226;ts est consid&#233;r&#233;e comme
+une frappe cibl&#233;e normale. Les frappes cibl&#233;es infligent des
+d&#233;savantages temporaires ou des malus mineurs.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Frappe cibl&#233;e critique&lt;/b&gt;. Quand une frappe cibl&#233;e est un
+&lt;a class=&quot;pagelink&quot; href=&quot;Actions-Simples.html#COUPCRITIQUE&quot; title=&quot;Actions simples&quot;&gt;coup critique&lt;/a&gt; confirm&#233; mais &#244;te moins de la moiti&#233; des
+points de vie de la cr&#233;ature (avec un minimum de 50), elle
+est consid&#233;r&#233;e comme une frappe cibl&#233;e critique. Les frappes
+cibl&#233;es critiques causent des &lt;a class=&quot;pagelink&quot; href=&quot;Affaiblissement-Temporaire-(Capacit&#233;).html&quot; title=&quot;Affaiblissement temporaire (Ext ou Sur)&quot;&gt;affaiblissements temporaires&lt;/a&gt; de
+caract&#233;ristique, des &lt;a class=&quot;pagelink&quot; href=&quot;Saignement-(Capacit&#233;).html&quot; title=&quot;Saignement (Ext)&quot;&gt;saignements&lt;/a&gt; et d’autres effets s&#233;rieux.&lt;br /&gt;&lt;br /&gt;&lt;a name=&quot;COUPINCAPACITANT&quot;&gt;&lt;/a&gt;
+&lt;b&gt;Coup incapacitant&lt;/b&gt;. Une frappe cibl&#233;e qui &#244;te la moiti&#233; des
+points de vie de la cr&#233;ature (et un minimum de 50 points)
+ou plus (qu’il s’agisse d’un &lt;a class=&quot;pagelink&quot; href=&quot;Actions-Simples.html#COUPCRITIQUE&quot; title=&quot;Actions simples&quot;&gt;coup critique&lt;/a&gt; ou non) est un
+coup incapacitant et entra&#238;ne des effets suppl&#233;mentaires.
+Les coups incapacitants ont des cons&#233;quences graves et
+potentiellement permanentes.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Tests de Concentration&lt;/b&gt;. Lorsqu’un &lt;a class=&quot;pagelink&quot; href=&quot;Lancer-Des-Sorts.html#CONCENTRATION&quot; title=&quot;Lancer des sorts&quot;&gt;test de Concentration&lt;/a&gt; est
+requis suite &#224; une frappe cibl&#233;e sur une zone du corps impliqu&#233;e
+dans le lancement d’un sort (g&#233;n&#233;ralement la t&#234;te pour les sorts
+&#224; composantes verbales, et le bras ou la main pour les sorts &#224;
+composantes gestuelles), le test se fait avec un malus de -5.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Gu&#233;rir les effets d’une frappe cibl&#233;e&lt;/b&gt;. Certains effets des
+frappes cibl&#233;es rendent les zones touch&#233;es inutilisables
+jusqu’&#224; leur gu&#233;rison. Rem&#233;dier &#224; cette situation requiert que
+la victime soit soign&#233;e et r&#233;cup&#232;re au moins autant de &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#POINTSDEVIE&quot; title=&quot;Vocabulaire courant&quot;&gt;points de vie&lt;/a&gt;
+que la somme perdue du fait de la frappe cibl&#233;e. Cette
+r&#233;cup&#233;ration peut se faire par voie naturelle ou magique, et
+avec des soins de diff&#233;rentes origines. Si la victime souffre
+de plusieurs blessures d’un m&#234;me type, les soins doivent
+&#234;tre r&#233;partis &#233;quitablement entre les blessures. Le sort de
+&lt;a class=&quot;pagelink&quot; href=&quot;R&#233;g&#233;n&#233;ration.html&quot; title=&quot;R&#233;g&#233;n&#233;ration&quot;&gt;r&#233;g&#233;n&#233;ration&lt;/a&gt; permet de r&#233;cup&#233;rer de tous les effets de toutes les
+frappes cibl&#233;es, &#224; l’exception des &lt;a class=&quot;pagelink&quot; href=&quot;Affaiblissement-Temporaire-(Capacit&#233;).html&quot; title=&quot;Affaiblissement temporaire (Ext ou Sur)&quot;&gt;affaiblissements temporaires&lt;/a&gt;
+et des &lt;a class=&quot;pagelink&quot; href=&quot;Affaiblissement-Temporaire-(Capacit&#233;).html#Diminution_permanente_0&quot; title=&quot;Affaiblissement temporaire (Ext ou Sur)&quot;&gt;diminutions permanentes&lt;/a&gt; de caract&#233;ristique.&lt;br /&gt;&lt;br /&gt;&lt;div style=&quot;float:right; background-color: #fff; padding: 0 0 16px 16px&quot;&gt;
+&lt;div style=&quot;border: 1px solid #4b3124; padding: 4px&quot;&gt;
+&lt;a name=&quot;TABLOCALISATION&quot;&gt;&lt;/a&gt;
+&lt;center&gt;
+&lt;table CLASS=&quot;tablo&quot;&gt;&lt;caption&gt;Localisation des frappes cibl&#233;es&lt;/caption&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td&gt;Localisation&lt;/td&gt;&lt;td&gt;Difficult&#233;&lt;/td&gt;&lt;td&gt;Malus&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;internallink&quot; href=&quot;#Abdomen&quot; title=&quot;Abdomen&quot;&gt;Abdomen&lt;/a&gt;&lt;/td&gt;&lt;td&gt;D&#233;licate&lt;/td&gt;&lt;td&gt;-5&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;&lt;a class=&quot;internallink&quot; href=&quot;#Bras&quot; title=&quot;Bras&quot;&gt;Bras&lt;/a&gt;&lt;/td&gt;&lt;td&gt;Facile&lt;/td&gt;&lt;td&gt;-2&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&amp;emsp; &lt;a class=&quot;internallink&quot; href=&quot;#Main&quot; title=&quot;Main&quot;&gt;Main&lt;/a&gt;&lt;/td&gt;&lt;td&gt;D&#233;licate&lt;/td&gt;&lt;td&gt;-5&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;&lt;a class=&quot;internallink&quot; href=&quot;#Jambe&quot; title=&quot;Jambe&quot;&gt;Jambe&lt;/a&gt;&lt;/td&gt;&lt;td&gt;Facile&lt;/td&gt;&lt;td&gt;-2&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;internallink&quot; href=&quot;#T&#234;te&quot; title=&quot;T&#234;te&quot;&gt;T&#234;te&lt;/a&gt;&lt;/td&gt;&lt;td&gt;D&#233;licate&lt;/td&gt;&lt;td&gt;-5&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;&amp;emsp; &lt;a class=&quot;internallink&quot; href=&quot;#Cou&quot; title=&quot;Cou&quot;&gt;Cou&lt;/a&gt;&lt;/td&gt;&lt;td&gt;Difficile&lt;/td&gt;&lt;td&gt;-10&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&amp;emsp; &lt;a class=&quot;internallink&quot; href=&quot;#Œil&quot; title=&quot;Œil&quot;&gt;Œil&lt;/a&gt;&lt;/td&gt;&lt;td&gt;Difficile&lt;/td&gt;&lt;td&gt;-10&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;&amp;emsp; &lt;a class=&quot;internallink&quot; href=&quot;#Oreille&quot; title=&quot;Oreille&quot;&gt;Oreille&lt;/a&gt;&lt;/td&gt;&lt;td&gt;Difficile&lt;/td&gt;&lt;td&gt;-10&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;internallink&quot; href=&quot;#Tronc&quot; title=&quot;Tronc&quot;&gt;Tronc&lt;/a&gt;&lt;/td&gt;&lt;td&gt;Facile&lt;/td&gt;&lt;td&gt;-2&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;&amp;emsp; &lt;a class=&quot;internallink&quot; href=&quot;#Cœur&quot; title=&quot;Cœur&quot;&gt;Cœur&lt;/a&gt;&lt;/td&gt;&lt;td&gt;Difficile&lt;/td&gt;&lt;td&gt;-10&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/center&gt;&lt;/div&gt;&lt;/div&gt;&lt;br /&gt;&lt;a name=&quot;Abdomen&quot;&gt;&lt;/a&gt;
+&lt;h3 class=&quot;separator&quot;&gt;Abdomen&lt;a class=&quot;headeranchor&quot; id=&quot;Abdomen_0&quot; href=&quot;#Abdomen_0&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;L’abdomen correspond &#224; la zone du bas-ventre chez les
+cr&#233;atures humano&#239;des : un espace o&#249; les organes vitaux
+ne sont pas prot&#233;g&#233;s par des os. Les attaques sur cette
+zone incluent aussi les ignobles &#171; coups bas &#187; visant les
+parties g&#233;nitales. Sur les cr&#233;atures non humano&#239;des, les
+frappes cibl&#233;es sur l’abdomen peuvent repr&#233;senter toute
+attaque visant des organes vitaux relativement difficiles &#224;
+toucher mais faiblement prot&#233;g&#233;s, et dont l’atteinte a des
+cons&#233;quences handicapantes. Les frappes cibl&#233;es &#224; l’abdomen
+sont des attaques d&#233;licates (malus de -5).&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Frappe cibl&#233;e&lt;/b&gt;. Une frappe cibl&#233;e &#224; l’abdomen laisse la cible
+&lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables.html#Fi&#233;vreux&quot; title=&quot;&#201;tats pr&#233;judiciables&quot;&gt;fi&#233;vreuse&lt;/a&gt; pour 1d4 rounds. Un jet de &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;Valeurs de combat&quot;&gt;Vigueur&lt;/a&gt; r&#233;ussi r&#233;duit
+cette dur&#233;e &#224; 1 round. Tant qu’elle reste &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables.html#Fi&#233;vreux&quot; title=&quot;&#201;tats pr&#233;judiciables&quot;&gt;fi&#233;vreuse&lt;/a&gt; &#224; cause du
+coup re&#231;u, la cible ne peut &lt;a class=&quot;pagelink&quot; href=&quot;Actions-Complexes.html#COURIR&quot; title=&quot;courir&quot;&gt;courir&lt;/a&gt; ou &lt;a class=&quot;pagelink&quot; href=&quot;Actions-Sp&#233;ciales.html#CHARGE&quot; title=&quot;charger&quot;&gt;charger&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Frappe cibl&#233;e critique&lt;/b&gt;. Un &lt;a class=&quot;pagelink&quot; href=&quot;Actions-Simples.html#COUPCRITIQUE&quot; title=&quot;Actions simples&quot;&gt;coup critique&lt;/a&gt; cause 1d4 points de
+&lt;a class=&quot;pagelink&quot; href=&quot;Affaiblissement-Temporaire-(Capacit&#233;).html&quot; title=&quot;Affaiblissement temporaire (Ext ou Sur)&quot;&gt;d&#233;g&#226;ts temporaires&lt;/a&gt; &#224; la &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#CONSTITUTION&quot; title=&quot;La Constitution&quot;&gt;Constitution&lt;/a&gt;. De plus, la cible est &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables.html#Naus&#233;eux&quot; title=&quot;&#201;tats pr&#233;judiciables&quot;&gt;naus&#233;euse&lt;/a&gt;
+pour 1d4 rounds et &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables.html#Fi&#233;vreux&quot; title=&quot;&#201;tats pr&#233;judiciables&quot;&gt;fi&#233;vreuses&lt;/a&gt; pour 1d6 minutes. Un jet de &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;Valeurs de combat&quot;&gt;Vigueur&lt;/a&gt;
+r&#233;ussi annule l’&#233;tat pr&#233;judiciable &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables.html#Naus&#233;eux&quot; title=&quot;&#201;tats pr&#233;judiciables&quot;&gt;naus&#233;eux&lt;/a&gt;. Tant que la cible est
+&lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables.html#Fi&#233;vreux&quot; title=&quot;&#201;tats pr&#233;judiciables&quot;&gt;fi&#233;vreuse&lt;/a&gt; &#224; cause du coup, elle ne peut &lt;a class=&quot;pagelink&quot; href=&quot;Actions-Complexes.html#COURIR&quot; title=&quot;courir&quot;&gt;courir&lt;/a&gt; ou &lt;a class=&quot;pagelink&quot; href=&quot;Actions-Sp&#233;ciales.html#CHARGE&quot; title=&quot;charger&quot;&gt;charger&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Coup incapacitant&lt;/b&gt;. Un &lt;a class=&quot;internallink&quot; href=&quot;#COUPINCAPACITANT&quot; title=&quot;coup incapacitant&quot;&gt;coup incapacitant&lt;/a&gt; port&#233; &#224;
+l’abdomen cause une &lt;a class=&quot;pagelink&quot; href=&quot;Affaiblissement-Temporaire-(Capacit&#233;).html#Diminution_permanente_0&quot; title=&quot;Affaiblissement temporaire (Ext ou Sur)&quot;&gt;diminution permanente&lt;/a&gt; de 1d6 points
+de &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#CONSTITUTION&quot; title=&quot;La Constitution&quot;&gt;Constitution&lt;/a&gt;, rend la cible &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables.html#Naus&#233;eux&quot; title=&quot;&#201;tats pr&#233;judiciables&quot;&gt;naus&#233;euse&lt;/a&gt; pour 1d4 rounds
+et &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables.html#Fi&#233;vreux&quot; title=&quot;&#201;tats pr&#233;judiciables&quot;&gt;fi&#233;vreuse&lt;/a&gt; pour 2d6 minutes. Un jet de &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;Valeurs de combat&quot;&gt;Vigueur&lt;/a&gt; r&#233;ussi
+change la &lt;a class=&quot;pagelink&quot; href=&quot;Affaiblissement-Temporaire-(Capacit&#233;).html#Diminution_permanente_0&quot; title=&quot;Affaiblissement temporaire (Ext ou Sur)&quot;&gt;diminution permanente&lt;/a&gt; de &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#CONSTITUTION&quot; title=&quot;La Constitution&quot;&gt;Constitution&lt;/a&gt; en un
+&lt;a class=&quot;pagelink&quot; href=&quot;Affaiblissement-Temporaire-(Capacit&#233;).html&quot; title=&quot;Affaiblissement temporaire (Ext ou Sur)&quot;&gt;affaiblissement temporaire&lt;/a&gt;, et la dur&#233;e de la &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables.html#Naus&#233;eux&quot; title=&quot;&#201;tats pr&#233;judiciables&quot;&gt;naus&#233;e&lt;/a&gt; est
+r&#233;duite &#224; 1 round. Si le jet &#233;choue de 5 ou plus, la cible est
+&#233;ventr&#233;e ou horriblement bless&#233;e d’une autre mani&#232;re, elle
+re&#231;oit 1 point de d&#233;g&#226;t &#224; la &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#CONSTITUTION&quot; title=&quot;La Constitution&quot;&gt;Constitution&lt;/a&gt; par &lt;a class=&quot;pagelink&quot; href=&quot;Saignement-(Capacit&#233;).html&quot; title=&quot;Saignement (Ext)&quot;&gt;saignement&lt;/a&gt;. Les
+d&#233;g&#226;ts de &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#CONSTITUTION&quot; title=&quot;La Constitution&quot;&gt;Constitution&lt;/a&gt; par &lt;a class=&quot;pagelink&quot; href=&quot;Saignement-(Capacit&#233;).html&quot; title=&quot;Saignement (Ext)&quot;&gt;saignement&lt;/a&gt; caus&#233;s par un coup
+incapacitant &#224; l’abdomen peuvent &#234;tre stopp&#233;s uniquement
+par le &lt;a class=&quot;pagelink&quot; href=&quot;R&#233;g&#233;n&#233;ration.html&quot; title=&quot;R&#233;g&#233;n&#233;ration&quot;&gt;sort&lt;/a&gt; ou la &lt;a class=&quot;pagelink&quot; href=&quot;R&#233;g&#233;n&#233;ration-(Capacit&#233;).html&quot; title=&quot;R&#233;g&#233;n&#233;ration (Ext)&quot;&gt;capacit&#233; sp&#233;ciale&lt;/a&gt; r&#233;g&#233;n&#233;ration, par des soins
+magiques (depuis une ou plusieurs sources) &#224; hauteur des
+d&#233;g&#226;ts re&#231;us lors du coup incapacitant, ou avec un test de
+&lt;a class=&quot;pagelink&quot; href=&quot;Premiers-Secours.html&quot; title=&quot;Premiers secours&quot;&gt;Premiers secours&lt;/a&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DEGREDEDIFFICULTE&quot; title=&quot;Vocabulaire courant&quot;&gt;DD&lt;/a&gt; 20 qu’il faut 1d4 rounds pour accomplir.&lt;br /&gt;&lt;br /&gt;&lt;a name=&quot;Bras&quot;&gt;&lt;/a&gt;
+&lt;h3 class=&quot;separator&quot;&gt;Bras&lt;a class=&quot;headeranchor&quot; id=&quot;Bras_1&quot; href=&quot;#Bras_1&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;Les bras correspondent aux membres permettant les
+actions de manipulation aux cr&#233;atures et incluent les
+tentacules. Les ailes doivent aussi &#234;tre consid&#233;r&#233;es comme
+des bras dans le cadre des frappes cibl&#233;es. Les frappes cibl&#233;es
+visant les bras sont faciles (malus de -2).&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Frappe cibl&#233;e&lt;/b&gt;. Une frappe cibl&#233;e touchant un bras ne cause
+pas de d&#233;g&#226;ts suppl&#233;mentaires, mais durant 1d4 rounds,
+tous les &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDATTAQUE&quot; title=&quot;Valeurs de combat&quot;&gt;jets d’attaque&lt;/a&gt;, tests de &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#Les_caract&#233;ristiques_9&quot; title=&quot;Les caract&#233;ristiques&quot;&gt;caract&#233;ristique&lt;/a&gt; et &lt;a class=&quot;pagelink&quot; href=&quot;Comp&#233;tences.html#TESTSDECOMPETENCES&quot; title=&quot;Les comp&#233;tences&quot;&gt;tests de comp&#233;tence&lt;/a&gt; subissent un malus de -2 s’ils impliquent le bras
+bless&#233;. Une cr&#233;ature volante touch&#233;e &#224; l’aile doit faire un jet
+avec sa comp&#233;tence &lt;a class=&quot;pagelink&quot; href=&quot;Vol.html&quot; title=&quot;Vol&quot;&gt;Vol&lt;/a&gt; pour &#233;viter une &lt;a class=&quot;pagelink&quot; href=&quot;Dangers-Naturels.html#CHUTES&quot; title=&quot;Les dangers naturels&quot;&gt;chute&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Frappe cibl&#233;e critique&lt;/b&gt;. Un &lt;a class=&quot;pagelink&quot; href=&quot;Actions-Simples.html#COUPCRITIQUE&quot; title=&quot;Actions simples&quot;&gt;coup critique&lt;/a&gt; port&#233; au bras cause
+un &lt;a class=&quot;pagelink&quot; href=&quot;Affaiblissement-Temporaire-(Capacit&#233;).html&quot; title=&quot;Affaiblissement temporaire (Ext ou Sur)&quot;&gt;affaiblissement temporaire&lt;/a&gt; de 1d4 points de &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#DEXTERITE&quot; title=&quot;La Dext&#233;rit&#233;&quot;&gt;Dext&#233;rit&#233;&lt;/a&gt; et
+de 1d4 points de &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#FORCE&quot; title=&quot;La Force&quot;&gt;Force&lt;/a&gt;. Un jet de &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;Valeurs de combat&quot;&gt;Vigueur&lt;/a&gt; r&#233;ussi divise par
+deux les &lt;a class=&quot;pagelink&quot; href=&quot;Affaiblissement-Temporaire-(Capacit&#233;).html&quot; title=&quot;Affaiblissement temporaire (Ext ou Sur)&quot;&gt;affaiblissements temporaires&lt;/a&gt; de caract&#233;ristique
+(minimum 1 point pour chaque attribut). La cible souffre
+aussi des effets d’une frappe cibl&#233;e au bras pour 1d4 minutes.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Coup incapacitant&lt;/b&gt;. Un &lt;a class=&quot;internallink&quot; href=&quot;#COUPINCAPACITANT&quot; title=&quot;coup incapacitant&quot;&gt;coup incapacitant&lt;/a&gt; cause un
+&lt;a class=&quot;pagelink&quot; href=&quot;Affaiblissement-Temporaire-(Capacit&#233;).html&quot; title=&quot;Affaiblissement temporaire (Ext ou Sur)&quot;&gt;affaiblissement temporaire&lt;/a&gt; de caract&#233;ristique de 1d6 points &#224; la
+&lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#DEXTERITE&quot; title=&quot;La Dext&#233;rit&#233;&quot;&gt;Dext&#233;rit&#233;&lt;/a&gt; et &#224; la &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#FORCE&quot; title=&quot;La Force&quot;&gt;Force&lt;/a&gt;. Le coup rend le bras touch&#233; inutilisable
+jusqu’&#224; sa gu&#233;rison, sauf si la cible r&#233;ussit un jet de &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;Valeurs de combat&quot;&gt;Vigueur&lt;/a&gt;.
+Si le jet de &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;Valeurs de combat&quot;&gt;Vigueur&lt;/a&gt; &#233;choue de 5 ou plus, le bras est sectionn&#233;
+ou mutil&#233; d’une autre mani&#232;re de telle sorte que seule la
+&lt;a class=&quot;pagelink&quot; href=&quot;R&#233;g&#233;n&#233;ration-(Capacit&#233;).html&quot; title=&quot;R&#233;g&#233;n&#233;ration (Ext)&quot;&gt;r&#233;g&#233;n&#233;ration&lt;/a&gt; ou un effet similaire pourra le remettre en &#233;tat. La
+cible souffre de surcro&#238;t des effets d’une frappe cibl&#233;e port&#233;e au
+bras (si le bras est toujours valide) pour 2d6 minutes.&lt;br /&gt;&lt;br /&gt;&lt;a name=&quot;Cœur&quot;&gt;&lt;/a&gt;
+&lt;h3 class=&quot;separator&quot;&gt;Cœur&lt;a class=&quot;headeranchor&quot; id=&quot;Cœur_2&quot; href=&quot;#Cœur_2&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;Une frappe cibl&#233;e visant le coeur repr&#233;sente une tentative
+de coup fatal. Si le coup ne donne pas pour r&#233;sultat une
+frappe cibl&#233;e critique ou un coup incapacitant, la tentative
+&#233;choue et le coup est trait&#233; comme une attaque normale. La
+frappe cibl&#233;e au coeur peut &#234;tre utilis&#233;e pour d&#233;signer toute
+attaque visant une petite zone vraisemblablement mortelle
+sur une cr&#233;ature, comme le serait l’unique faiblesse d’un
+v&#233;n&#233;rable dragon rouge incroyablement ancien. Les frappes
+cibl&#233;es au coeur sont des attaques difficiles (malus de -10).&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Frappe cibl&#233;e&lt;/b&gt;. Une frappe cibl&#233;e au coeur est une attaque
+normale sans effet suppl&#233;mentaire.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Frappe cibl&#233;e critique&lt;/b&gt;. Un &lt;a class=&quot;pagelink&quot; href=&quot;Actions-Simples.html#COUPCRITIQUE&quot; title=&quot;Actions simples&quot;&gt;coup critique&lt;/a&gt; port&#233; au cœur perce
+l’organe, causant un &#233;tat d’&lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables.html#&#201;puis&#233;&quot; title=&quot;&#201;tats pr&#233;judiciables&quot;&gt;&#233;puisement&lt;/a&gt; et 1d4 points de d&#233;g&#226;ts
+&#224; la &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#CONSTITUTION&quot; title=&quot;La Constitution&quot;&gt;Constitution&lt;/a&gt; par &lt;a class=&quot;pagelink&quot; href=&quot;Saignement-(Capacit&#233;).html&quot; title=&quot;Saignement (Ext)&quot;&gt;saignement&lt;/a&gt;. Un jet de &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;Valeurs de combat&quot;&gt;Vigueur&lt;/a&gt; r&#233;ussi
+permet de r&#233;duire cet &#233;tat pr&#233;judiciable &#224; &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables.html#Fatigu&#233;&quot; title=&quot;&#201;tats pr&#233;judiciables&quot;&gt;fatigu&#233;&lt;/a&gt; et les d&#233;g&#226;ts
+de &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#CONSTITUTION&quot; title=&quot;La Constitution&quot;&gt;Constitution&lt;/a&gt; par &lt;a class=&quot;pagelink&quot; href=&quot;Saignement-(Capacit&#233;).html&quot; title=&quot;Saignement (Ext)&quot;&gt;saignement&lt;/a&gt; &#224; 1 point. Dans les autres cas,
+stopper le &lt;a class=&quot;pagelink&quot; href=&quot;Saignement-(Capacit&#233;).html&quot; title=&quot;Saignement (Ext)&quot;&gt;saignement&lt;/a&gt; requiert l’emploi de r&#233;g&#233;n&#233;ration (sous la
+forme d’un &lt;a class=&quot;pagelink&quot; href=&quot;R&#233;g&#233;n&#233;ration.html&quot; title=&quot;R&#233;g&#233;n&#233;ration&quot;&gt;sort&lt;/a&gt; ou d’une &lt;a class=&quot;pagelink&quot; href=&quot;R&#233;g&#233;n&#233;ration-(Capacit&#233;).html&quot; title=&quot;R&#233;g&#233;n&#233;ration (Ext)&quot;&gt;capacit&#233; sp&#233;ciale&lt;/a&gt;), de soins magiques
+(depuis une ou plusieurs sources) &#224; hauteur du nombre de
+points de d&#233;g&#226;ts re&#231;us lors de la blessure, ou un jet de &lt;a class=&quot;pagelink&quot; href=&quot;Premiers-Secours.html&quot; title=&quot;Premiers secours&quot;&gt;Premiers secours&lt;/a&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DEGREDEDIFFICULTE&quot; title=&quot;Vocabulaire courant&quot;&gt;DD&lt;/a&gt; 20 r&#233;ussi dont l’action prend 1d4 rounds.&lt;br /&gt;&lt;br /&gt;Un &lt;a class=&quot;pagelink&quot; href=&quot;Actions-Simples.html#COUPCRITIQUE&quot; title=&quot;Actions simples&quot;&gt;coup critique&lt;/a&gt; port&#233; au cœur contre un &lt;a class=&quot;pagelink&quot; href=&quot;Vampire,-Arch&#233;type.html&quot; title=&quot;Vampire, arch&#233;type&quot;&gt;vampire&lt;/a&gt; avec
+une arme perforante enti&#232;rement compos&#233;e de bois empale
+le &lt;a class=&quot;pagelink&quot; href=&quot;Vampire,-Arch&#233;type.html&quot; title=&quot;Vampire, arch&#233;type&quot;&gt;vampire&lt;/a&gt; et le laisse avec l’arme plant&#233;e dans le cœur s’il
+&#233;choue &#224; un test de &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;Valeurs de combat&quot;&gt;Vigueur&lt;/a&gt;, avec les effets d&#233;crits &lt;a class=&quot;pagelink&quot; href=&quot;Vampire,-Arch&#233;type.html&quot; title=&quot;Vampire, arch&#233;type&quot;&gt;ici&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Coup incapacitant&lt;/b&gt;. Un &lt;a class=&quot;internallink&quot; href=&quot;#COUPINCAPACITANT&quot; title=&quot;coup incapacitant&quot;&gt;coup incapacitant&lt;/a&gt; port&#233; au cœur
+d&#233;truit l’organe, tuant instantan&#233;ment toute cr&#233;ature
+d&#233;pendant de son cœur pour survivre. En cas de r&#233;ussite sur
+un jet de &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;Valeurs de combat&quot;&gt;Vigueur&lt;/a&gt;, les cr&#233;atures ayant besoin de leur cœur
+&#233;chappent &#224; la mort (et celui-ci &#224; la destruction) et subissent
+&#224; la place une &lt;a class=&quot;pagelink&quot; href=&quot;Affaiblissement-Temporaire-(Capacit&#233;).html&quot; title=&quot;Affaiblissement temporaire (Ext ou Sur)&quot;&gt;perte temporaire&lt;/a&gt; de 1d6 points de &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#CONSTITUTION&quot; title=&quot;La Constitution&quot;&gt;Constitution&lt;/a&gt;
+et 1d4 points de d&#233;g&#226;ts &#224; la &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#CONSTITUTION&quot; title=&quot;La Constitution&quot;&gt;Constitution&lt;/a&gt; par &lt;a class=&quot;pagelink&quot; href=&quot;Saignement-(Capacit&#233;).html&quot; title=&quot;Saignement (Ext)&quot;&gt;saignement&lt;/a&gt;,
+ainsi qu’un &#233;tat d’&lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables.html#&#201;puis&#233;&quot; title=&quot;&#201;tats pr&#233;judiciables&quot;&gt;&#233;puisement&lt;/a&gt;, de la m&#234;me mani&#232;re que les
+cr&#233;atures qui peuvent survivre sans cœur.&lt;br /&gt;&lt;br /&gt;Un coup incapacitant port&#233; au cœur d’un &lt;a class=&quot;pagelink&quot; href=&quot;Vampire,-Arch&#233;type.html&quot; title=&quot;Vampire, arch&#233;type&quot;&gt;vampire&lt;/a&gt; avec une
+arme perforante enti&#232;rement compos&#233;e de bois affecte le &lt;a class=&quot;pagelink&quot; href=&quot;Vampire,-Arch&#233;type.html&quot; title=&quot;Vampire, arch&#233;type&quot;&gt;vampire&lt;/a&gt;
+comme une frappe critique au cœur. Le &lt;a class=&quot;pagelink&quot; href=&quot;Vampire,-Arch&#233;type.html&quot; title=&quot;Vampire, arch&#233;type&quot;&gt;vampire&lt;/a&gt; a donc toujours
+droit &#224; un jet de &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;Valeurs de combat&quot;&gt;Vigueur&lt;/a&gt; pour en &#233;viter les cons&#233;quences.&lt;br /&gt;&lt;br /&gt;&lt;a name=&quot;Cou&quot;&gt;&lt;/a&gt;
+&lt;h3 class=&quot;separator&quot;&gt;Cou&lt;a class=&quot;headeranchor&quot; id=&quot;Cou_3&quot; href=&quot;#Cou_3&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;Le cou est une cible difficile mais qui ne manque pas
+d’attraits. Les blessures port&#233;es &#224; la gorge emp&#234;chent leur
+victime de parler, et si les art&#232;res ou la trach&#233;e sont touch&#233;es,
+ces blessures entra&#238;nent une mort rapide. Les cr&#233;atures
+auxquelles manque une v&#233;ritable t&#234;te &#224; attaquer n’ont
+habituellement pas de cou non plus. Les frappes cibl&#233;es au
+cou sont des attaques difficiles (malus de -10).&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Frappe cibl&#233;e&lt;/b&gt;. Une frappe cibl&#233;e au cou r&#233;duit la voix
+de la cible &#224; un murmure rauque pour 1 round. Les sorts
+&#224; composantes verbales ont 20% de chances d’&#233;chouer
+d’embl&#233;e, comme les tentatives d’activation d’objets &#224; mot de
+commande (pour les objets magiques, l’utilisation de l’objet
+ou de la charge n’est cependant pas gaspill&#233;e).&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Frappe cibl&#233;e critique&lt;/b&gt;. Un &lt;a class=&quot;pagelink&quot; href=&quot;Actions-Simples.html#COUPCRITIQUE&quot; title=&quot;Actions simples&quot;&gt;coup critique&lt;/a&gt; au cou cause
+1d6 points de d&#233;g&#226;ts par &lt;a class=&quot;pagelink&quot; href=&quot;Saignement-(Capacit&#233;).html&quot; title=&quot;Saignement (Ext)&quot;&gt;saignements&lt;/a&gt;. La cible doit de
+plus r&#233;ussir un jet de &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;Valeurs de combat&quot;&gt;Vigueur&lt;/a&gt; ou subir un &#233;crasement de
+la trach&#233;e et se retrouver incapable de parler comme de
+respirer et potentiellement en situation d’&lt;a class=&quot;pagelink&quot; href=&quot;Dangers-Naturels.html#ASPHYXIE&quot; title=&quot;Les dangers naturels&quot;&gt;asphyxie&lt;/a&gt;. Une trach&#233;e &#233;cras&#233;e
+peut &#234;tre &#171; r&#233;par&#233;e &#187; par des soins magiques (depuis une ou
+plusieurs sources) si la gu&#233;rison restitue au moins autant de
+points de vie que perdus lors de la frappe critique, ou gr&#226;ce
+&#224; un test de &lt;a class=&quot;pagelink&quot; href=&quot;Premiers-Secours.html&quot; title=&quot;Premiers secours&quot;&gt;Premiers secours&lt;/a&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DEGREDEDIFFICULTE&quot; title=&quot;Vocabulaire courant&quot;&gt;DD&lt;/a&gt; 25 pour cr&#233;er un trou dans
+la trach&#233;e. Le jet de &lt;a class=&quot;pagelink&quot; href=&quot;Premiers-Secours.html&quot; title=&quot;Premiers secours&quot;&gt;Premiers secours&lt;/a&gt; cause dans tous les cas
+2d6 points de d&#233;g&#226;ts, et la cr&#233;ature reste incapable de parler
+mais elle peut &#224; nouveau respirer. Si la cible r&#233;ussit son jet
+de &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;Valeurs de combat&quot;&gt;Vigueur&lt;/a&gt;, elle subit tout de m&#234;me les effets d’une frappe
+cibl&#233;e au cou pendant 1d4 minutes.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Coup incapacitant&lt;/b&gt;. Un &lt;a class=&quot;internallink&quot; href=&quot;#COUPINCAPACITANT&quot; title=&quot;coup incapacitant&quot;&gt;coup incapacitant&lt;/a&gt; port&#233; au cou
+laisse la cible incapable de parler ou de respirer et cause 1d4
+points de d&#233;g&#226;ts &#224; la &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#CONSTITUTION&quot; title=&quot;La Constitution&quot;&gt;Constitution&lt;/a&gt; par &lt;a class=&quot;pagelink&quot; href=&quot;Saignement-(Capacit&#233;).html&quot; title=&quot;Saignement (Ext)&quot;&gt;saignement&lt;/a&gt;. Un jet de
+&lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;Valeurs de combat&quot;&gt;Vigueur&lt;/a&gt; r&#233;ussi r&#233;duit l’attaque &#224; 2d6 points de d&#233;g&#226;ts normaux
+(pris sur les &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#POINTSDEVIE&quot; title=&quot;Vocabulaire courant&quot;&gt;points de vie&lt;/a&gt;) par &lt;a class=&quot;pagelink&quot; href=&quot;Saignement-(Capacit&#233;).html&quot; title=&quot;Saignement (Ext)&quot;&gt;saignement&lt;/a&gt;, par ailleurs la cible
+est incapable de parler et respirer que pour une dur&#233;e de 1d4
+minutes. Les d&#233;g&#226;ts de saignement caus&#233;s &#224; la &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#CONSTITUTION&quot; title=&quot;La Constitution&quot;&gt;Constitution&lt;/a&gt;
+par un coup incapacitant port&#233; au cou peuvent &#234;tre stopp&#233;s
+uniquement par le &lt;a class=&quot;pagelink&quot; href=&quot;R&#233;g&#233;n&#233;ration.html&quot; title=&quot;R&#233;g&#233;n&#233;ration&quot;&gt;sort&lt;/a&gt; ou la &lt;a class=&quot;pagelink&quot; href=&quot;R&#233;g&#233;n&#233;ration-(Capacit&#233;).html&quot; title=&quot;R&#233;g&#233;n&#233;ration (Ext)&quot;&gt;capacit&#233; sp&#233;ciale&lt;/a&gt; r&#233;g&#233;n&#233;ration, par
+des soins magiques (depuis une ou plusieurs sources) &#224; hauteur
+des d&#233;g&#226;ts re&#231;us lors du coup incapacitant, ou avec un test de
+&lt;a class=&quot;pagelink&quot; href=&quot;Premiers-Secours.html&quot; title=&quot;Premiers secours&quot;&gt;Premiers secours&lt;/a&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DEGREDEDIFFICULTE&quot; title=&quot;Vocabulaire courant&quot;&gt;DD&lt;/a&gt; 20 qu’il faut 1d4 rounds pour accomplir.&lt;br /&gt;&lt;br /&gt;&lt;a name=&quot;Jambe&quot;&gt;&lt;/a&gt;
+&lt;h3 class=&quot;separator&quot;&gt;Jambe&lt;a class=&quot;headeranchor&quot; id=&quot;Jambe_4&quot; href=&quot;#Jambe_4&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;Les jambes sont les membres permettant aux cr&#233;atures
+de se d&#233;placer et incluent les pieds. Les frappes cibl&#233;es aux
+jambes n’ont aucun effet sp&#233;cial sur les cr&#233;atures disposant
+de 5 jambes (ou pattes) ou plus. Les frappes cibl&#233;es visant les
+jambes sont des attaques faciles (malus de -2).&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Frappe cibl&#233;e&lt;/b&gt;. Une frappe cibl&#233;e &#224; la jambe diminue la
+&lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#VITESSEDEDEPLACEMENT&quot; title=&quot;Valeurs de combat&quot;&gt;vitesse de d&#233;placement&lt;/a&gt; de la cible de 3 m (2 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) pour 1d4 rounds
+si elle a une ou deux jambes, et diminue sa &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#VITESSEDEDEPLACEMENT&quot; title=&quot;Valeurs de combat&quot;&gt;vitesse de d&#233;placement&lt;/a&gt;
+de 1,50 m (1 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) si la cible dispose de trois ou quatre
+pattes. Dans les deux cas, la vitesse de la cr&#233;ature ne peut pas
+&#234;tre r&#233;duite en de&#231;&#224; de 1,50 m (1 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) par round. Les frappes cibl&#233;es
+aux jambes n’ont aucun effet sur les cr&#233;atures disposant de
+cinq pattes ou plus. Frapper une m&#234;me
+jambe (ou patte) plus d’une fois ne
+cause aucun effet suppl&#233;mentaire,
+mais le malus &#224; la &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#VITESSEDEDEPLACEMENT&quot; title=&quot;Valeurs de combat&quot;&gt;vitesse de d&#233;placement&lt;/a&gt;
+se cumule
+si diff&#233;rentes
+jambes (ou pattes) sont touch&#233;es. De surcro&#238;t, tous les tests de
+&lt;a class=&quot;pagelink&quot; href=&quot;Comp&#233;tences.html&quot; title=&quot;Les comp&#233;tences&quot;&gt;comp&#233;tence&lt;/a&gt; et de &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html&quot; title=&quot;Les caract&#233;ristiques&quot;&gt;caract&#233;ristique&lt;/a&gt; impliquant le mouvement
+(comme des jets d’&lt;a class=&quot;pagelink&quot; href=&quot;Acrobaties.html&quot; title=&quot;Acrobaties&quot;&gt;Acrobaties&lt;/a&gt; ou de &lt;a class=&quot;pagelink&quot; href=&quot;Natation.html&quot; title=&quot;Natation&quot;&gt;Natation&lt;/a&gt; par exemple)
+re&#231;oivent un malus de -2 pour une dur&#233;e de 1d4 rounds.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Frappe cibl&#233;e critique&lt;/b&gt;. Un &lt;a class=&quot;pagelink&quot; href=&quot;Actions-Simples.html#COUPCRITIQUE&quot; title=&quot;Actions simples&quot;&gt;coup critique&lt;/a&gt; port&#233; sur une jambe
+cause une &lt;a class=&quot;pagelink&quot; href=&quot;Affaiblissement-Temporaire-(Capacit&#233;).html&quot; title=&quot;Affaiblissement temporaire (Ext ou Sur)&quot;&gt;perte temporaire&lt;/a&gt; de 1d4 points de &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#DEXTERITE&quot; title=&quot;La Dext&#233;rit&#233;&quot;&gt;Dext&#233;rit&#233;&lt;/a&gt; et jette la
+cible &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables.html#&#192;terre&quot; title=&quot;&#201;tats pr&#233;judiciables&quot;&gt;&#224; terre&lt;/a&gt;. Un jet de &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;Valeurs de combat&quot;&gt;Vigueur&lt;/a&gt; r&#233;ussi permet d’&#233;viter la chute et
+l’&#233;tat pr&#233;judiciable &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables.html#&#192;terre&quot; title=&quot;&#201;tats pr&#233;judiciables&quot;&gt;&#224; terre&lt;/a&gt;. La cr&#233;ature touch&#233;e souffre par ailleurs
+des effets d’une frappe cibl&#233;e &#224; la jambe pour 1d4 minutes.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Coup incapacitant&lt;/b&gt;. Un &lt;a class=&quot;internallink&quot; href=&quot;#COUPINCAPACITANT&quot; title=&quot;coup incapacitant&quot;&gt;coup incapacitant&lt;/a&gt; port&#233; sur une jambe
+ou une patte jette la cr&#233;ature &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables.html#&#192;terre&quot; title=&quot;&#201;tats pr&#233;judiciables&quot;&gt;&#224; terre&lt;/a&gt;. Le coup rend la jambe
+compl&#232;tement inutilisable jusqu’&#224; ce qu’elle soit soign&#233;e, sauf si
+la cible r&#233;ussit un test de &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;Valeurs de combat&quot;&gt;Vigueur&lt;/a&gt;. En cas d’&#233;chec de 5 ou plus au
+jet de &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;Valeurs de combat&quot;&gt;Vigueur&lt;/a&gt;, la jambe est sectionn&#233;e ou mutil&#233;e autrement de
+telle sorte que seule la &lt;a class=&quot;pagelink&quot; href=&quot;R&#233;g&#233;n&#233;ration-(Capacit&#233;).html&quot; title=&quot;R&#233;g&#233;n&#233;ration (Ext)&quot;&gt;r&#233;g&#233;n&#233;ration&lt;/a&gt; ou un effet similaire peut la
+remettre en &#233;tat. En cas de r&#233;ussite au jet de &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;Valeurs de combat&quot;&gt;Vigueur&lt;/a&gt;, la cible est
+seulement estropi&#233;e. Sa &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#VITESSEDEDEPLACEMENT&quot; title=&quot;Valeurs de combat&quot;&gt;vitesse de d&#233;placement&lt;/a&gt; est r&#233;duite de
+moiti&#233; jusqu’&#224; ce que sa jambe soit soign&#233;e, ou jusqu’&#224; ce qu’un
+test de &lt;a class=&quot;pagelink&quot; href=&quot;Premiers-Secours.html&quot; title=&quot;Premiers secours&quot;&gt;Premiers secours&lt;/a&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DEGREDEDIFFICULTE&quot; title=&quot;Vocabulaire courant&quot;&gt;DD&lt;/a&gt; 20 soit r&#233;ussi. Une cr&#233;ature dont la
+jambe est inutilisable ou sectionn&#233;e se d&#233;place &#224; la moiti&#233; de sa
+&lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#VITESSEDEDEPLACEMENT&quot; title=&quot;Valeurs de combat&quot;&gt;vitesse de d&#233;placement&lt;/a&gt; si au moins la moiti&#233; de ses jambes (ou
+pattes) sont valides ; si ce n’est pas le cas, la cr&#233;ature ne peut pas
+se relever et doit ramper pour se d&#233;placer. La cible souffre aussi
+des effets d’une frappe cibl&#233;e &#224; la jambe (si sa jambe est toujours
+utilisable) pour 2d6 minutes.&lt;br /&gt;&lt;br /&gt;&lt;a name=&quot;Main&quot;&gt;&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;h3 class=&quot;separator&quot;&gt;Main&lt;a class=&quot;headeranchor&quot; id=&quot;Main_5&quot; href=&quot;#Main_5&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;Par commodit&#233;, toutes les extr&#233;mit&#233;s utilis&#233;es pour les
+manipulations fines sont consid&#233;r&#233;es comme des mains. Les
+frappes cibl&#233;es visant une main sont des attaques difficiles
+(malus de -10).&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Frappe cibl&#233;e&lt;/b&gt;. Tous les &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDATTAQUE&quot; title=&quot;Valeurs de combat&quot;&gt;jets d’attaque&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#DEGATS&quot; title=&quot;Valeurs de combat&quot;&gt;jets de d&#233;g&#226;ts&lt;/a&gt;, tests
+de &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html&quot; title=&quot;Les caract&#233;ristiques&quot;&gt;caract&#233;ristique&lt;/a&gt; et tests de &lt;a class=&quot;pagelink&quot; href=&quot;Comp&#233;tences.html&quot; title=&quot;Les comp&#233;tences&quot;&gt;comp&#233;tence&lt;/a&gt; impliquant la main
+bless&#233;e subissent un malus de -2 pour 1d4 rounds, y compris
+les &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDATTAQUE&quot; title=&quot;Valeurs de combat&quot;&gt;jets d’attaque&lt;/a&gt; et de &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#DEGATS&quot; title=&quot;Valeurs de combat&quot;&gt;d&#233;g&#226;ts&lt;/a&gt; avec les armes &#224; deux mains. En
+outre, la cible re&#231;oit un malus de -4 &#224; son &lt;a class=&quot;pagelink&quot; href=&quot;Manœuvres-Offensives.html#DMD&quot; title=&quot;DMD&quot;&gt;DMD&lt;/a&gt; pour r&#233;sister
+aux tentatives de &lt;a class=&quot;pagelink&quot; href=&quot;Manœuvres-Offensives.html#DESARMEMENT&quot; title=&quot;d&#233;sarmement&quot;&gt;d&#233;sarmement&lt;/a&gt;, et l&#226;che son arme (si elle en a
+une) si elle obtient un 1 naturel lors d’un &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDATTAQUE&quot; title=&quot;Valeurs de combat&quot;&gt;jet d’attaque&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Frappe cibl&#233;e critique&lt;/b&gt;. Un &lt;a class=&quot;pagelink&quot; href=&quot;Actions-Simples.html#COUPCRITIQUE&quot; title=&quot;Actions simples&quot;&gt;coup critique&lt;/a&gt; &#224; la main cause un
+&lt;a class=&quot;pagelink&quot; href=&quot;Affaiblissement-Temporaire-(Capacit&#233;).html&quot; title=&quot;Affaiblissement temporaire (Ext ou Sur)&quot;&gt;affaiblissement temporaire&lt;/a&gt; de 1d4 points &#224; la &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#DEXTERITE&quot; title=&quot;La Dext&#233;rit&#233;&quot;&gt;Dext&#233;rit&#233;&lt;/a&gt;. De
+plus, &#224; moins de r&#233;ussir un jet de &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;Valeurs de combat&quot;&gt;R&#233;flexes&lt;/a&gt;, la cible l&#226;che tout
+ce qu’elle tenait dans la main touch&#233;e. Les objets tenus &#224; deux
+mains ne sont pas l&#226;ch&#233;s mais elle perd tout de m&#234;me sa facult&#233;
+de pr&#233;hension avec sa main bless&#233;e. La cible souffre &#233;galement
+des effets d’une frappe cibl&#233;e &#224; la main pour 1d4 minutes.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Coup incapacitant&lt;/b&gt;. Un &lt;a class=&quot;internallink&quot; href=&quot;#COUPINCAPACITANT&quot; title=&quot;coup incapacitant&quot;&gt;coup incapacitant&lt;/a&gt; cause un
+&lt;a class=&quot;pagelink&quot; href=&quot;Affaiblissement-Temporaire-(Capacit&#233;).html&quot; title=&quot;Affaiblissement temporaire (Ext ou Sur)&quot;&gt;affaiblissement temporaire&lt;/a&gt; de la caract&#233;ristique &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#DEXTERITE&quot; title=&quot;La Dext&#233;rit&#233;&quot;&gt;Dext&#233;rit&#233;&lt;/a&gt; de
+1d6 points. &#192; moins d’une r&#233;ussite par la cible sur un jet de
+&lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;R&#233;flexes&quot;&gt;R&#233;flexes&lt;/a&gt;, le coup rend la main inutilisable jusqu’&#224; ce qu’elle ait
+re&#231;u des soins. En cas d’&#233;chec de 5 ou plus au jet de &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;R&#233;flexes&quot;&gt;R&#233;flexes&lt;/a&gt;,
+la main est sectionn&#233;e ou mutil&#233;e d’une autre mani&#232;re de
+telle sorte que seule la &lt;a class=&quot;pagelink&quot; href=&quot;R&#233;g&#233;n&#233;ration-(Capacit&#233;).html&quot; title=&quot;R&#233;g&#233;n&#233;ration (Ext)&quot;&gt;r&#233;g&#233;n&#233;ration&lt;/a&gt; ou un effet similaire peut
+la remettre en &#233;tat. Quel que soit le r&#233;sultat du jet de &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;R&#233;flexes&quot;&gt;R&#233;flexes&lt;/a&gt;,
+tout objet tenu dans la main bless&#233;e est automatiquement
+l&#226;ch&#233;, m&#234;me si l’objet &#233;tait tenu &#224; deux mains ou plus. Si sa
+main est toujours utilisable, la cible souffre &#233;galement des
+effets d’une frappe cibl&#233;e &#224; la main pour 2d6 minutes.&lt;br /&gt;&lt;br /&gt;&lt;a name=&quot;Œil&quot;&gt;&lt;/a&gt;
+&lt;h3 class=&quot;separator&quot;&gt;Œil&lt;a class=&quot;headeranchor&quot; id=&quot;Œil_6&quot; href=&quot;#Œil_6&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;Par extension, sont &#224; consid&#233;rer comme des yeux tous les
+organes que les cr&#233;atures utilisent pour voir, quels qu’ils soient.
+Avec l’accord du MJ, une frappe cibl&#233;e aux yeux peut aussi d&#233;signer
+d’autres organes sensoriels comme les antennes, annulant ainsi les
+pouvoirs similaires &#224; perception aveugle. En g&#233;n&#233;ral, une cr&#233;ature
+ne peut &#234;tre compl&#232;tement &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables.html#Aveugl&#233;&quot; title=&quot;&#201;tats pr&#233;judiciables&quot;&gt;aveugl&#233;e&lt;/a&gt; tant qu’elle n’a pas perdu
+la vue pour chacun de ses yeux. Les cr&#233;atures ayant cinq yeux et
+plus ne subissent pas de malus suite aux frappes cibl&#233;es touchant
+les yeux tant qu’il leur reste au moins un œil fonctionnel. Ces
+cr&#233;atures peuvent toutefois &#234;tre aveugl&#233;es si ce dernier œil re&#231;oit
+un &lt;a class=&quot;pagelink&quot; href=&quot;Actions-Simples.html#COUPCRITIQUE&quot; title=&quot;Actions simples&quot;&gt;coup critique&lt;/a&gt; ou un &lt;a class=&quot;internallink&quot; href=&quot;#COUPINCAPACITANT&quot; title=&quot;coup incapacitant&quot;&gt;coup incapacitant&lt;/a&gt;. Les frappes cibl&#233;es
+visant un œil sont des attaques difficiles (malus de -10).&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Frappe cibl&#233;e&lt;/b&gt;. Une frappe cibl&#233;e port&#233;e &#224; l’œil donne &#224; tous
+les ennemis de la cible les avantages du &lt;a class=&quot;pagelink&quot; href=&quot;Modificateurs-De-Combat.html#CAMOUFLAGE&quot; title=&quot;camouflage&quot;&gt;camouflage&lt;/a&gt; contre ses
+attaques pour 1 round et inflige un malus de -2 &#224; tous les tests
+de &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; de la victime. Si avant la frappe cibl&#233;e, la cr&#233;ature
+n’avait plus qu’un œil fonctionnel, elle est &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables.html#Aveugl&#233;&quot; title=&quot;&#201;tats pr&#233;judiciables&quot;&gt;aveugl&#233;e&lt;/a&gt; pour 1 round.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Frappe cibl&#233;e critique&lt;/b&gt;. Un &lt;a class=&quot;pagelink&quot; href=&quot;Actions-Simples.html#COUPCRITIQUE&quot; title=&quot;coup critique&quot;&gt;coup critique&lt;/a&gt; port&#233; sur un œil
+fait perdre &#224; la cible la vue avec cet œil pour 1d4 minutes. La
+cible souffre &#233;galement des effets d’une frappe cibl&#233;e &#224; l’œil
+durant cette p&#233;riode.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Coup incapacitant&lt;/b&gt;. Un &lt;a class=&quot;internallink&quot; href=&quot;#COUPINCAPACITANT&quot; title=&quot;coup incapacitant&quot;&gt;coup incapacitant&lt;/a&gt; &#224; l’œil d&#233;truit
+l’œil cibl&#233;, cause l’&lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables.html#Aveugl&#233;&quot; title=&quot;&#201;tats pr&#233;judiciables&quot;&gt;aveuglement&lt;/a&gt; jusqu’&#224; ce que cette condition
+soit annul&#233;e gr&#226;ce &#224; un sort de &lt;a class=&quot;pagelink&quot; href=&quot;Gu&#233;rison-De-La-C&#233;cit&#233;surdit&#233;.html&quot; title=&quot;Gu&#233;rison de la c&#233;cit&#233;/surdit&#233;&quot;&gt;gu&#233;rison de la c&#233;cit&#233;/surdit&#233;&lt;/a&gt; ou
+par un effet similaire, et occasionne 1d6 points de d&#233;g&#226;ts de
+&lt;a class=&quot;pagelink&quot; href=&quot;Saignement-(Capacit&#233;).html&quot; title=&quot;Saignement (Ext)&quot;&gt;saignement&lt;/a&gt;. Un jet de &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;Vigueur&quot;&gt;Vigueur&lt;/a&gt; r&#233;ussi r&#233;duit cet effet &#224; une
+perte de la vue pour une p&#233;riode de 1d4 heures pour cet œil
+et annule le &lt;a class=&quot;pagelink&quot; href=&quot;Saignement-(Capacit&#233;).html&quot; title=&quot;Saignement (Ext)&quot;&gt;saignement&lt;/a&gt;. La cible subit &#233;galement les effets
+d’une frappe cibl&#233;e &#224; l’œil pour 2d6 minutes.&lt;br /&gt;&lt;br /&gt;&lt;a name=&quot;Oreille&quot;&gt;&lt;/a&gt;
+&lt;h3 class=&quot;separator&quot;&gt;Oreille&lt;a class=&quot;headeranchor&quot; id=&quot;Oreille_7&quot; href=&quot;#Oreille_7&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;Les oreilles sont les organes d&#233;di&#233;s &#224; l’ou&#239;e. De mani&#232;re
+g&#233;n&#233;rale, les cr&#233;atures sans oreilles visibles ne peuvent
+recevoir de frappes cibl&#233;es sur cette zone. Les frappes cibl&#233;es
+visant les oreilles sont difficiles (malus de -10).&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Frappe cibl&#233;e&lt;/b&gt;. Une frappe cibl&#233;e touchant une oreille
+l’&lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables.html#Assourdi&quot; title=&quot;Assourdi&quot;&gt;assourdit&lt;/a&gt; pour 1 round et impose un malus de -2 aux tests
+de &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt;. Une cr&#233;ature perdant compl&#232;tement le sens de
+l’ou&#239;e (pour chacune de ses oreilles) subit l’&#233;tat pr&#233;judiciable
+&lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables.html#Assourdi&quot; title=&quot;Assourdi&quot;&gt;assourdi&lt;/a&gt; jusqu’au retour de son audition gr&#226;ce &#224; un sort de
+&lt;a class=&quot;pagelink&quot; href=&quot;Gu&#233;rison-De-La-C&#233;cit&#233;surdit&#233;.html&quot; title=&quot;Gu&#233;rison de la c&#233;cit&#233;/surdit&#233;&quot;&gt;gu&#233;rison de la c&#233;cit&#233;/surdit&#233;&lt;/a&gt; ou par un effet comparable.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Frappe cibl&#233;e critique&lt;/b&gt;. Un &lt;a class=&quot;pagelink&quot; href=&quot;Actions-Simples.html#COUPCRITIQUE&quot; title=&quot;coup critique&quot;&gt;coup critique&lt;/a&gt; port&#233; sur
+une oreille l’&lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables.html#Assourdi&quot; title=&quot;Assourdi&quot;&gt;assourdit&lt;/a&gt; pour 2d6 minutes et laisse la cible
+&lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables.html#Chancelant&quot; title=&quot;Chancelant&quot;&gt;chancelante&lt;/a&gt; pour 1 round. La cible souffre &#233;galement des
+effets d’une frappe cibl&#233;e &#224; l’oreille pendant cette p&#233;riode.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Coup incapacitant&lt;/b&gt;. Un &lt;a class=&quot;internallink&quot; href=&quot;#COUPINCAPACITANT&quot; title=&quot;coup incapacitant&quot;&gt;coup incapacitant&lt;/a&gt; &#224; l’oreille d&#233;truit
+cette oreille et &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables.html#&#201;tourdi&quot; title=&quot;&#201;tourdi&quot;&gt;&#233;tourdit&lt;/a&gt; la cible pour 1 round, puis la laisse
+&lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables.html#Chancelant&quot; title=&quot;Chancelant&quot;&gt;chancelante&lt;/a&gt; pour 1d4 rounds et &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables.html#Assourdi&quot; title=&quot;Assourdi&quot;&gt;assourdie&lt;/a&gt; jusqu’au retour de son
+audition gr&#226;ce &#224; un sort de &lt;a class=&quot;pagelink&quot; href=&quot;Gu&#233;rison-De-La-C&#233;cit&#233;surdit&#233;.html&quot; title=&quot;Gu&#233;rison de la c&#233;cit&#233;/surdit&#233;&quot;&gt;gu&#233;rison de la c&#233;cit&#233;/surdit&#233;&lt;/a&gt; ou par un
+effet similaire. Un jet de &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;Vigueur&quot;&gt;Vigueur&lt;/a&gt; r&#233;ussi laisse la cible &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables.html#Assourdi&quot; title=&quot;Assourdi&quot;&gt;assourdie&lt;/a&gt;
+jusqu’au retour de son audition gr&#226;ce &#224; un sort de &lt;a class=&quot;pagelink&quot; href=&quot;Gu&#233;rison-De-La-C&#233;cit&#233;surdit&#233;.html&quot; title=&quot;Gu&#233;rison de la c&#233;cit&#233;/surdit&#233;&quot;&gt;gu&#233;rison de la c&#233;cit&#233;/surdit&#233;&lt;/a&gt; (ou par un effet similaire) et annule les autres effets.&lt;br /&gt;&lt;br /&gt;&lt;a name=&quot;T&#234;te&quot;&gt;&lt;/a&gt;
+&lt;h3 class=&quot;separator&quot;&gt;T&#234;te&lt;a class=&quot;headeranchor&quot; id=&quot;T&#234;te_8&quot; href=&quot;#T&#234;te_8&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;Comme la plupart des cr&#233;atures font preuve d’une certaine
+comp&#233;tence pour &#233;viter les attaques dirig&#233;es vers leur visage,
+les frappes cibl&#233;es visant la t&#234;te sont des attaques d&#233;licates
+(malus de -5). Certaines cr&#233;atures, comme les &lt;a class=&quot;pagelink&quot; href=&quot;Otyugh.html&quot; title=&quot;Otyugh&quot;&gt;otyughs&lt;/a&gt; et les &lt;a class=&quot;pagelink&quot; href=&quot;Ver-Pourpre.html&quot; title=&quot;Ver pourpre&quot;&gt;vers pourpres&lt;/a&gt;, n’ont pas v&#233;ritablement de t&#234;te. Les cr&#233;atures avec de
+multiples t&#234;tes doivent &#234;tre touch&#233;es par des frappes cibl&#233;es
+sur l’ensemble de leurs t&#234;tes en un m&#234;me round pour subir les
+effets nocifs indiqu&#233;s, et m&#234;me dans ce cas, elles ne subissent
+que l’effet le plus faible re&#231;u par l’ensemble de leurs t&#234;tes (ainsi,
+un &lt;a class=&quot;pagelink&quot; href=&quot;Ettin.html&quot; title=&quot;Ettin&quot;&gt;ettin&lt;/a&gt; devra recevoir un coup critique sur chacune de ses deux
+t&#234;tes pour subir les effets d’une frappe cibl&#233;e critique &#224; la t&#234;te).&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Frappe cibl&#233;e&lt;/b&gt;. Une frappe cibl&#233;e &#224; la t&#234;te rend la victime
+&lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables.html#Fi&#233;vreux&quot; title=&quot;Fi&#233;vreux&quot;&gt;fi&#233;vreuse&lt;/a&gt; pour 1d4 rounds.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Frappe cibl&#233;e critique&lt;/b&gt;. Un &lt;a class=&quot;pagelink&quot; href=&quot;Actions-Simples.html#COUPCRITIQUE&quot; title=&quot;coup critique&quot;&gt;coup critique&lt;/a&gt; &#224; la t&#234;te cause la &lt;a class=&quot;pagelink&quot; href=&quot;Affaiblissement-Temporaire-(Capacit&#233;).html&quot; title=&quot;Affaiblissement temporaire (Ext ou Sur)&quot;&gt;perte temporaire&lt;/a&gt; de 1d6 points d’&lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#INTELLIGENCE&quot; title=&quot;L&amp;#39;Intelligence&quot;&gt;Intelligence&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#SAGESSE&quot; title=&quot;La Sagesse&quot;&gt;Sagesse&lt;/a&gt; ou &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#CHARISME&quot; title=&quot;Le Charisme&quot;&gt;Charisme&lt;/a&gt;
+(d&#233;terminez au hasard la caract&#233;ristique) et laisse la victime
+&lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables.html#Chancelant&quot; title=&quot;Chancelant&quot;&gt;chancelante&lt;/a&gt; pour 1d4 rounds. Un jet de &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;Vigueur&quot;&gt;Vigueur&lt;/a&gt; r&#233;ussi annule
+l’&#233;tat pr&#233;judiciable &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables.html#Chancelant&quot; title=&quot;Chancelant&quot;&gt;chancelant&lt;/a&gt;. La cible souffre &#233;galement des
+effets d’une frappe cibl&#233;e &#224; la t&#234;te pour 1d4 minutes.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Coup incapacitant&lt;/b&gt;. Un &lt;a class=&quot;internallink&quot; href=&quot;#COUPINCAPACITANT&quot; title=&quot;coup incapacitant&quot;&gt;coup incapacitant&lt;/a&gt; &#224; la t&#234;te cause la &lt;a class=&quot;pagelink&quot; href=&quot;Affaiblissement-Temporaire-(Capacit&#233;).html&quot; title=&quot;Affaiblissement temporaire (Ext ou Sur)&quot;&gt;perte temporaire&lt;/a&gt; de 1d6 points d’&lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#INTELLIGENCE&quot; title=&quot;L&amp;#39;Intelligence&quot;&gt;Intelligence&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#SAGESSE&quot; title=&quot;La Sagesse&quot;&gt;Sagesse&lt;/a&gt; et &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#CHARISME&quot; title=&quot;Le Charisme&quot;&gt;Charisme&lt;/a&gt;
+(lancez les d&#233;s s&#233;par&#233;ment pour chaque caract&#233;ristique) et laisse
+la victime &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables.html#Inconscient&quot; title=&quot;Inconscient&quot;&gt;inconsciente&lt;/a&gt; pour 1d10 rounds. Un jet de &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;Vigueur&quot;&gt;Vigueur&lt;/a&gt;
+r&#233;ussi &#233;vite &#224; la cible la &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables.html#Inconscient&quot; title=&quot;Inconscient&quot;&gt;perte de conscience&lt;/a&gt; mais laisse la victime
+&lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables.html#Chancelant&quot; title=&quot;Chancelant&quot;&gt;chancelante&lt;/a&gt; pour 1d10 rounds. Si le jet de &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;Vigueur&quot;&gt;Vigueur&lt;/a&gt; &#233;choue de 5
+ou plus, la cible perd toute capacit&#233; de raisonnement (comme
+avec le sort &lt;a class=&quot;pagelink&quot; href=&quot;D&#233;bilit&#233;.html&quot; title=&quot;D&#233;bilit&#233;&quot;&gt;d&#233;bilit&#233;&lt;/a&gt;) des suites d’un s&#233;v&#232;re traumatisme cr&#226;nien,
+et ce jusqu’&#224; ce qu’elle b&#233;n&#233;ficie d’un sort de &lt;a class=&quot;pagelink&quot; href=&quot;Gu&#233;rison-Supr&#234;me.html&quot; title=&quot;Gu&#233;rison supr&#234;me&quot;&gt;gu&#233;rison supr&#234;me&lt;/a&gt;,
+&lt;a class=&quot;pagelink&quot; href=&quot;Restauration-Supr&#234;me.html&quot; title=&quot;Restauration supr&#234;me&quot;&gt;restauration supr&#234;me&lt;/a&gt;, ou d’un effet similaire. La cible subit aussi
+les effets d’une frappe cibl&#233;e &#224; la t&#234;te pendant 2d6 minutes.&lt;br /&gt;&lt;br /&gt;&lt;a name=&quot;Tronc&quot;&gt;&lt;/a&gt;
+&lt;h3 class=&quot;separator&quot;&gt;Tronc&lt;a class=&quot;headeranchor&quot; id=&quot;Tronc_9&quot; href=&quot;#Tronc_9&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;Les frappes cibl&#233;es au tronc visent la zone bien prot&#233;g&#233;e
+au centre de la masse des cr&#233;atures. Ces frappes cibl&#233;es sont
+faciles (malus de -2).&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Frappe cibl&#233;e&lt;/b&gt;. Une frappe cibl&#233;e au tronc ne cause pas de
+d&#233;g&#226;ts suppl&#233;mentaires, mais tous les jets de &lt;a class=&quot;pagelink&quot; href=&quot;Comp&#233;tences.html&quot; title=&quot;Les comp&#233;tences&quot;&gt;comp&#233;tence&lt;/a&gt;
+caus&#233;s par le coup (comme un test d’&lt;a class=&quot;pagelink&quot; href=&quot;Acrobaties.html&quot; title=&quot;Acrobaties&quot;&gt;Acrobaties&lt;/a&gt; pour
+reprendre son &#233;quilibre ou un test d’&lt;a class=&quot;pagelink&quot; href=&quot;Escalade.html&quot; title=&quot;Escalade&quot;&gt;Escalade&lt;/a&gt; pendant une
+ascension) re&#231;oivent un malus de -2.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Frappe cibl&#233;e critique&lt;/b&gt;. Un &lt;a class=&quot;pagelink&quot; href=&quot;Actions-Simples.html#COUPCRITIQUE&quot; title=&quot;coup critique&quot;&gt;coup critique&lt;/a&gt; port&#233; au tronc
+cause un &lt;a class=&quot;pagelink&quot; href=&quot;Affaiblissement-Temporaire-(Capacit&#233;).html&quot; title=&quot;Affaiblissement temporaire (Ext ou Sur)&quot;&gt;affaiblissement temporaire&lt;/a&gt; &#224; la &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#CONSTITUTION&quot; title=&quot;La Constitution&quot;&gt;Constitution&lt;/a&gt; de
+1d4 points et &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables.html#Fatigu&#233;&quot; title=&quot;Fatigu&#233;&quot;&gt;fatigue&lt;/a&gt; la cible. Un jet de &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;Vigueur&quot;&gt;Vigueur&lt;/a&gt; r&#233;ussi (apr&#232;s
+diminution du score de &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#CONSTITUTION&quot; title=&quot;La Constitution&quot;&gt;Constitution&lt;/a&gt;) annule la &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables.html#Fatigu&#233;&quot; title=&quot;Fatigu&#233;&quot;&gt;fatigue&lt;/a&gt;. La
+cible souffre &#233;galement des effets d’une frappe cibl&#233;e au
+tronc.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Coup incapacitant&lt;/b&gt;. Un &lt;a class=&quot;internallink&quot; href=&quot;#COUPINCAPACITANT&quot; title=&quot;coup incapacitant&quot;&gt;coup incapacitant&lt;/a&gt; au tronc cause un
+&lt;a class=&quot;pagelink&quot; href=&quot;Affaiblissement-Temporaire-(Capacit&#233;).html&quot; title=&quot;Affaiblissement temporaire (Ext ou Sur)&quot;&gt;affaiblissement temporaire&lt;/a&gt; de 2d4 points &#224; la &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#CONSTITUTION&quot; title=&quot;La Constitution&quot;&gt;Constitution&lt;/a&gt; et
+&lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables.html#&#201;puis&#233;&quot; title=&quot;&#201;puis&#233;&quot;&gt;&#233;puise&lt;/a&gt; la cible. Un jet de &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;Vigueur&quot;&gt;Vigueur&lt;/a&gt; r&#233;ussi (apr&#232;s diminution
+du score de &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#CONSTITUTION&quot; title=&quot;La Constitution&quot;&gt;Constitution&lt;/a&gt;) r&#233;duit l’&lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables.html#&#201;puis&#233;&quot; title=&quot;&#201;puis&#233;&quot;&gt;&#233;puisement&lt;/a&gt; &#224; l’&#233;tat
+pr&#233;judiciable &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables.html#Fatigu&#233;&quot; title=&quot;Fatigu&#233;&quot;&gt;fatigu&#233;&lt;/a&gt;. Si le jet de &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;Vigueur&quot;&gt;Vigueur&lt;/a&gt; &#233;choue de 5 ou plus,
+les l&#233;sions internes dont souffre la cr&#233;ature causent la &lt;a class=&quot;pagelink&quot; href=&quot;Affaiblissement-Temporaire-(Capacit&#233;).html&quot; title=&quot;Affaiblissement temporaire (Ext ou Sur)&quot;&gt;perte temporaire&lt;/a&gt; d’1 point de &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#CONSTITUTION&quot; title=&quot;La Constitution&quot;&gt;Constitution&lt;/a&gt; &#224; chaque round o&#249; la
+cr&#233;ature accomplit une action simple. Ces l&#233;sions et blessures
+internes peuvent &#234;tre gu&#233;ries avec un jet de &lt;a class=&quot;pagelink&quot; href=&quot;Premiers-Secours.html&quot; title=&quot;Premiers secours&quot;&gt;Premiers secours&lt;/a&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DEGREDEDIFFICULTE&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; 25 ou en gu&#233;rissant autant de points de vie que le coup
+incapacitant en a &#244;t&#233;s, que ce soit par des moyens magiques
+ou naturels. La cr&#233;ature souffre aussi des effets d’une frappe
+cibl&#233;e au tronc.
+]]></body>
+  <raw><![CDATA[<div style="float: right; margin-left: 10px; margin-right: -40px; max-width: 300px;" class="presentation recentre">{toc}</div>{s:UC}<div style="float: left; margin-right: 20px; margin-bottom: 10px;" class="presentation recentre">
+<h2 class="separator"><div style="float: right; margin-top: -4px;">{s:uc}</div>Règles alternatives</h2>
+<ul><li>[[Régles alternatives|Introduction]]</li>
+<li>[[Larmure comme RD|L'armure comme réduction de dégâts]]</li><li>[[Frappes ciblées]]</li><li>[[Pièces darmures|Pièces d'armure]] ([[Description des pièces darmure|descriptions]])</li><li>[[Blessures et vitalité]]</li></ul></div>Dans ''Pathfinder JdR'', les points de vie et les dégâts sont
+gérés de manière abstraite, presque tous les coups étant
+traités de la même façon avec pour seules distinctions
+entre eux le type et le montant des dégâts causés. La règle
+optionnelle « frappes ciblées » donne aux PJ, aux monstres et
+aux ennemis la possibilité d’ajuster leurs attaques avec plus
+de précision, ouvrant potentiellement la voie à des effets
+dévastateurs.
+
+Ces règles sont un accessoire optionnel facultatif pour vos
+campagnes. Les MJ sont invités à les envisager avec prudence
+avant de les intégrer à leur système de jeu.
+
+{s:Reference|LANCERUNEFRAPPECIBLEE}
+===Lancer une frappe ciblée===
+<div style="float:left; background-color: #fff; margin: 16px 16px 0 0; width: 400px;">
+<div style="border: 1px solid #4b3124; padding: 4px">
+<center>
+{| CLASS="tablo"
+|+ Dons de frappe ciblée
+|- CLASS="titre"
+| Don || Conditions || Avantage
+|-
+| [[Science de la frappe ciblée]] || [[Int]] 13, [[Expertise du combat]] || Bonus de +2 au [[Jet dattaque|jet d'attaque]] sur une [[Frappes ciblées|frappe ciblée]], faire une [[frappes ciblées|frappe ciblée]] parmi des attaques multiples
+|- CLASS="alt"
+| &emsp; [[Frappe ciblée supérieure]] || [[Int]] 13, [[Expertise du combat]], [[Science de la frappe ciblée]], [[BBA]] +6 || Remplacer une attaque par une [[frappes ciblées|frappe ciblée]], plusieurs [[frappes ciblées]] par round
+|}
+</center></div></div>
+Une frappe ciblée est un coup visant une zone particulière
+du corps, donné avec l’espoir d’obtenir un effet supplémentaire
+suite à l’attaque. Plus la zone est petite, mieux elle est protégée,
+et plus difficile est la frappe ciblée. Une frappe ciblée est une
+attaque unique comptant comme une [[action complexe]]. Par
+conséquent, elle ne peut être combinée avec une [[charge]], des
+[[dons]] comme [[frappe décisive]], ou avec des attaques multiples
+au cours d’une action d’[[attaque à outrance]].
+
+Les frappes ciblées se divisent en trois grandes catégories
+de difficulté : facile, délicate et difficile. Les frappes ciblées
+faciles visent de larges zones du corps et se font avec un malus
+de -2. À moins de dégâts excessifs ou d’un coup critique,
+ces frappes ciblées n’occasionnent que des effets mineurs.
+Les frappes ciblées délicates visent des zones plus petites,
+comme une main, ou des zones que les créatures veillent à
+protéger efficacement, comme leur tête. Les frappes ciblées
+délicates reçoivent un malus de -5 et ont de plus sérieuses
+conséquences. Les frappes ciblées difficiles visent des zones
+très précises comme les yeux, les doigts ou le cou d’une
+créature. Elles se font avec un malus de -10, et un coup réussi
+cause à court terme d’importants dégâts et désagréments.
+Au-delà de cette échelle se trouvent les frappes ciblées dites
+presque impossibles, qui reçoivent un malus de -20. Pour les
+frappes ciblées lancées contre des créatures non humanoïdes,
+faites preuve de bon sens et employez les catégories ci-dessus
+à titre indicatif. Les ailes d’une créature volante doivent, par
+exemple, être traitées comme des bras.
+
+'''Portée et allonge'''. Les frappes ciblées fonctionnent mieux à
+très courte portée. En mêlée, les frappes ciblées subissent un
+malus de -2 quand la cible n’est pas adjacente à l’attaquant. Pour
+les frappes ciblées à distance, tous les malus de portée dus au
+facteur de portée sont doublés, avec un malus minimum de -2
+pour toute frappe ciblée tentée contre une cible à plus de 9 m (6 {s:c}).
+
+'''Coups critiques et confirmation de coups critiques'''. Une
+frappe ciblée a des chances normales de devenir un [[Actions simples#COUPCRITIQUE|coup critique]],
+ et inflige un effet supplémentaire lorsqu’un [[Actions simples#COUPCRITIQUE|coup critique]]
+ est confirmé. L’effet spécifique à appliquer lorsqu’un
+[[Actions simples#COUPCRITIQUE|coup critique]] est réussi dépend de la zone ciblée. Ces effets
+sont décrits dans la partie [[#EFFETSDESFRAPPESCIBLEES|Effets des frappes ciblées]].
+
+{s:Reference|REGLESADDITIONNELLES}
+
+===Règles additionnelles===
+'''Abri'''. Les [[Modificateurs de combat#ABRI|abris]] autres que l’[[Modificateurs de combat#abri partiel|abri partiel]] gênent beaucoup plus les
+frappes ciblées que les attaques normales. Doublez tous les bonus
+à la [[CA]] octroyés par les [[Modificateurs de combat#ABRI|abris]] autres que l’[[Modificateurs de combat#abri partiel[abri partiel]]. En outre, les
+[[Modificateurs de combat#ABRI|abris]] peuvent rendre certaines frappes ciblées impossibles.
+
+'''Attaques de contact'''. Les attaques de contact et les attaques de
+contact à distance réalisées sous la forme de frappes ciblées doivent
+atteindre la [[CA]] réelle de leur cible et non la [[CA]] habituellement
+nécessaire pour toucher leur cible. Ceci représente la difficulté
+qu’ajoute le fait de viser des zones précises.
+
+'''Camouflage'''. Face aux créatures utilisant le [[Modificateurs de combat#CAMOUFLAGE|camouflage]], les
+chances de rater une frappe ciblée augmentent de 50% et il
+est impossible de tenter une frappe ciblée sur une créature
+disposant d’un [[Modificateurs de combat#CAMOUFLAGETOTAL|camouflage total]]. Pour les effets fonctionnant
+de manière similaire à [[Modificateurs de combat#CAMOUFLAGE|camouflage]], comme les pouvoirs
+[[clignotement]] et [[déplacement]], une chance de rater supérieure à
+50% interdit toutes frappes ciblées, une chance de rater de
+20% doit être augmentée à 50% et les chances de rater de
+niveau inférieur sont doublées.
+
+'''Coup au but automatique'''. En jeu, certains effets, comme
+le sort [[coup au but]] ou la capacité spéciale des cyclopes
+[[Cyclope|vision instantanée]], procurent automatiquement ou presque un coup
+réussi. L’utilisation d’une telle capacité pour une Frappe ciblée
+change l’attaque en une attaque normale, et aucun des bénéfices
+et pénalités associés aux frappes ciblées ne s’applique dans
+ce cas. En jeu, l’explication est que l’effet spécial ou magique
+ne peut faire la différence entre une frappe en général et un
+coup dans une zone particulière de la cible. Évidemment, cette
+précision est aussi nécessaire pour maintenir la puissance
+de ces capacités en accord avec les effets qui leur étaient
+originellement destinés. Si certains MJ préfèrent un jeu plus
+théâtral ou dangereux où la magie peut rendre une attaque
+aux yeux inévitable, cette règle peut être ignorée.
+
+'''Cumul'''. Sauf précision contraire, les malus issus de multiples
+frappes ciblées ne se cumulent pas, même s’ils sont affectés à
+différentes parties du corps. Les [[Affaiblissement temporaire (capacité)|affaiblissements temporaires]]
+et les [[Affaiblissement temporaire (capacité)#Diminution_permanente_0|diminutions permanentes]] de caractéristique causés par
+des frappes ciblées se cumulent toujours.
+
+'''Immunité'''. L’[[Immunité (capacité)|immunité contre les coups critiques]]
+protège des effets supplémentaires des frappes ciblées. Les
+protections partielles, comme celle procurée par la propriété
+spéciale de [[défense de certaines armures magiques, protègent
+la créature comme si la frappe ciblée était un coup critique.
+
+'''Jets de sauvegarde'''. Lorsqu’un jet de sauvegarde est autorisé
+suite à une frappe ciblée, son [[Vocabulaire courant#DEGREDEDIFFICULTE|DD]] est égal à la [[CA|Classe d’Armure]]
+de la créature touchée par l’attaque. Si le jet d’attaque a donné
+un 20 naturel, le [[Vocabulaire courant#DEGREDEDIFFICULTE|DD]] du jet de sauvegarde est égal à la [[CA]] que
+l’attaque aurait pu atteindre avec ce résultat (si le 20 naturel n’était
+pas, dans les règles, considéré comme une réussite automatique).
+
+'''Réduction de dégâts'''. Si la [[Réduction de dégâts (capacité)|réduction de dégâts]] annule
+complètement les dégâts causés par une frappe ciblée, la frappe
+ciblée est sans effet. En revanche, si des dégâts sont infligés en
+dépit de la [[Réduction de dégâts (capacité)|réduction de dégâts]], la frappe ciblée entraîne les
+effets normalement prévus. La [[Réduction de dégâts (capacité)|réduction de dégâts]] ne diminue
+ni les [[Affaiblissement temporaire (capacité)|affaiblissements temporaires]] de caractéristique, ni les
+[[Affaiblissement temporaire (capacité)#Diminution_permanente_0|diminutions permanentes]] de caractéristique, ni les malus ou
+[[Saignement (capacité)|saignements]] causés par les frappes ciblées.
+
+'''Régénération'''. La [[Régénération (capacité)|régénération]] n’offre aucune protection
+spéciale contre les frappes ciblées mais peut annuler ou invalider
+certains effets, comme les [[Saignement (capacité)|saignements]] et pertes de membre.
+
+{s:Reference|EFFETSDESFRAPPESCIBLEES}
+===Effets des frappes ciblées===
+Les conséquences d’une frappe ciblée réussie varient selon
+qu’il s’agit d’un coup normal, d’un [[Actions simples#COUPCRITIQUE|coup critique]] ou d’un
+coup incapacitant (un coup infligeant 50 points de dégâts ou
+plus). Quand plus d’un membre ou plus d’un organe peut
+être affecté par une frappe ciblée, l’attaquant peut choisir
+sa cible s’il le désire ; dans le cas contraire, l’organe ou le
+membre touché est déterminé de manière aléatoire.
+
+'''Frappe ciblée'''. Une attaque visant une zone spécifique et
+faisant moins de 50 points de dégâts est considérée comme
+une frappe ciblée normale. Les frappes ciblées infligent des
+désavantages temporaires ou des malus mineurs.
+
+'''Frappe ciblée critique'''. Quand une frappe ciblée est un
+[[Actions simples#COUPCRITIQUE|coup critique]] confirmé mais ôte moins de la moitié des
+points de vie de la créature (avec un minimum de 50), elle
+est considérée comme une frappe ciblée critique. Les frappes
+ciblées critiques causent des [[Affaiblissement temporaire (capacité)|affaiblissements temporaires]] de
+caractéristique, des [[Saignement (capacité)|saignements]] et d’autres effets sérieux.
+
+{s:Reference|COUPINCAPACITANT}
+'''Coup incapacitant'''. Une frappe ciblée qui ôte la moitié des
+points de vie de la créature (et un minimum de 50 points)
+ou plus (qu’il s’agisse d’un [[Actions simples#COUPCRITIQUE|coup critique]] ou non) est un
+coup incapacitant et entraîne des effets supplémentaires.
+Les coups incapacitants ont des conséquences graves et
+potentiellement permanentes.
+
+'''Tests de Concentration'''. Lorsqu’un [[Lancer des sorts#CONCENTRATION|test de Concentration]] est
+requis suite à une frappe ciblée sur une zone du corps impliquée
+dans le lancement d’un sort (généralement la tête pour les sorts
+à composantes verbales, et le bras ou la main pour les sorts à
+composantes gestuelles), le test se fait avec un malus de -5.
+
+'''Guérir les effets d’une frappe ciblée'''. Certains effets des
+frappes ciblées rendent les zones touchées inutilisables
+jusqu’à leur guérison. Remédier à cette situation requiert que
+la victime soit soignée et récupère au moins autant de [[Vocabulaire courant#POINTSDEVIE|points de vie]]
+que la somme perdue du fait de la frappe ciblée. Cette
+récupération peut se faire par voie naturelle ou magique, et
+avec des soins de différentes origines. Si la victime souffre
+de plusieurs blessures d’un même type, les soins doivent
+être répartis équitablement entre les blessures. Le sort de
+[[régénération]] permet de récupérer de tous les effets de toutes les
+frappes ciblées, à l’exception des [[Affaiblissement temporaire (capacité)|affaiblissements temporaires]]
+et des [[Affaiblissement temporaire (capacité)#Diminution_permanente_0|diminutions permanentes]] de caractéristique.
+
+<div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
+<div style="border: 1px solid #4b3124; padding: 4px">
+{s:Reference|TABLOCALISATION}
+<center>
+{| CLASS="tablo"
+|+ Localisation des frappes ciblées
+|- CLASS="titre"
+| Localisation || Difficulté || Malus
+|-
+| [[#Abdomen|Abdomen]] || Délicate || -5
+|- CLASS="alt"
+| [[#Bras|Bras]] || Facile || -2
+|-
+| &emsp; [[#Main|Main]] || Délicate || -5
+|- CLASS="alt"
+| [[#Jambe|Jambe]] || Facile || -2
+|-
+| [[#Tête|Tête]] || Délicate || -5
+|- CLASS="alt"
+| &emsp; [[#Cou|Cou]] || Difficile || -10
+|-
+| &emsp; [[#Œil|Œil]] || Difficile || -10
+|- CLASS="alt"
+| &emsp; [[#Oreille|Oreille]] || Difficile || -10
+|-
+| [[#Tronc|Tronc]] || Facile || -2
+|- CLASS="alt"
+| &emsp; [[#Cœur|Cœur]] || Difficile || -10
+|}
+</center></div></div>
+
+{s:Reference|Abdomen}
+====Abdomen====
+L’abdomen correspond à la zone du bas-ventre chez les
+créatures humanoïdes : un espace où les organes vitaux
+ne sont pas protégés par des os. Les attaques sur cette
+zone incluent aussi les ignobles « coups bas » visant les
+parties génitales. Sur les créatures non humanoïdes, les
+frappes ciblées sur l’abdomen peuvent représenter toute
+attaque visant des organes vitaux relativement difficiles à
+toucher mais faiblement protégés, et dont l’atteinte a des
+conséquences handicapantes. Les frappes ciblées à l’abdomen
+sont des attaques délicates (malus de -5).
+
+'''Frappe ciblée'''. Une frappe ciblée à l’abdomen laisse la cible
+[[États préjudiciables#Fiévreux|fiévreuse]] pour 1d4 rounds. Un jet de [[Valeurs de combat#JETDESAUVEGARDE|Vigueur]] réussi réduit
+cette durée à 1 round. Tant qu’elle reste [[États préjudiciables#Fiévreux|fiévreuse]] à cause du
+coup reçu, la cible ne peut [[courir]] ou [[charger]].
+
+'''Frappe ciblée critique'''. Un [[Actions simples#COUPCRITIQUE|coup critique]] cause 1d4 points de
+[[Affaiblissement temporaire (capacité)|dégâts temporaires]] à la [[Constitution]]. De plus, la cible est [[États préjudiciables#Nauséeux|nauséeuse]]
+pour 1d4 rounds et [[États préjudiciables#Fiévreux|fiévreuses]] pour 1d6 minutes. Un jet de [[Valeurs de combat#JETDESAUVEGARDE|Vigueur]]
+réussi annule l’état préjudiciable [[États préjudiciables#Nauséeux|nauséeux]]. Tant que la cible est
+[[États préjudiciables#Fiévreux|fiévreuse]] à cause du coup, elle ne peut [[courir]] ou [[charger]].
+
+'''Coup incapacitant'''. Un [[#COUPINCAPACITANT|coup incapacitant]] porté à
+l’abdomen cause une [[Affaiblissement temporaire (capacité)#Diminution_permanente_0|diminution permanente]] de 1d6 points
+de [[Constitution]], rend la cible [[États préjudiciables#Nauséeux|nauséeuse]] pour 1d4 rounds
+et [[États préjudiciables#Fiévreux|fiévreuse]] pour 2d6 minutes. Un jet de [[Valeurs de combat#JETDESAUVEGARDE|Vigueur]] réussi
+change la [[Affaiblissement temporaire (capacité)#Diminution_permanente_0|diminution permanente]] de [[Constitution]] en un
+[[Affaiblissement temporaire (capacité)|affaiblissement temporaire]], et la durée de la [[États préjudiciables#Nauséeux|nausée]] est
+réduite à 1 round. Si le jet échoue de 5 ou plus, la cible est
+éventrée ou horriblement blessée d’une autre manière, elle
+reçoit 1 point de dégât à la [[Constitution]] par [[Saignement (capacité)|saignement]]. Les
+dégâts de [[Constitution]] par [[Saignement (capacité)|saignement]] causés par un coup
+incapacitant à l’abdomen peuvent être stoppés uniquement
+par le [[Régénération|sort]] ou la [[Régénération (capacité)|capacité spéciale]] régénération, par des soins
+magiques (depuis une ou plusieurs sources) à hauteur des
+dégâts reçus lors du coup incapacitant, ou avec un test de
+[[Premiers secours]] [[Vocabulaire courant#DEGREDEDIFFICULTE|DD]] 20 qu’il faut 1d4 rounds pour accomplir.
+
+{s:Reference|Bras}
+====Bras====
+Les bras correspondent aux membres permettant les
+actions de manipulation aux créatures et incluent les
+tentacules. Les ailes doivent aussi être considérées comme
+des bras dans le cadre des frappes ciblées. Les frappes ciblées
+visant les bras sont faciles (malus de -2).
+
+'''Frappe ciblée'''. Une frappe ciblée touchant un bras ne cause
+pas de dégâts supplémentaires, mais durant 1d4 rounds,
+tous les [[Valeurs de combat#JETDATTAQUE|jets d’attaque]], tests de [[Caractéristiques#Les_caractéristiques_9|caractéristique]] et [[Compétences#TESTSDECOMPETENCES|tests de compétence]] subissent un malus de -2 s’ils impliquent le bras
+blessé. Une créature volante touchée à l’aile doit faire un jet
+avec sa compétence [[Vol]] pour éviter une [[Dangers naturels#CHUTES|chute]].
+
+'''Frappe ciblée critique'''. Un [[Actions simples#COUPCRITIQUE|coup critique]] porté au bras cause
+un [[Affaiblissement temporaire (capacité)|affaiblissement temporaire]] de 1d4 points de [[Dextérité]] et
+de 1d4 points de [[Force]]. Un jet de [[Valeurs de combat#JETDESAUVEGARDE|Vigueur]] réussi divise par
+deux les [[Affaiblissement temporaire (capacité)|affaiblissements temporaires]] de caractéristique
+(minimum 1 point pour chaque attribut). La cible souffre
+aussi des effets d’une frappe ciblée au bras pour 1d4 minutes.
+
+'''Coup incapacitant'''. Un [[#COUPINCAPACITANT|coup incapacitant]] cause un
+[[Affaiblissement temporaire (capacité)|affaiblissement temporaire]] de caractéristique de 1d6 points à la
+[[Dextérité]] et à la [[Force]]. Le coup rend le bras touché inutilisable
+jusqu’à sa guérison, sauf si la cible réussit un jet de [[Valeurs de combat#JETDESAUVEGARDE|Vigueur]].
+Si le jet de [[Valeurs de combat#JETDESAUVEGARDE|Vigueur]] échoue de 5 ou plus, le bras est sectionné
+ou mutilé d’une autre manière de telle sorte que seule la
+[[Régénération (capacité)|régénération]] ou un effet similaire pourra le remettre en état. La
+cible souffre de surcroît des effets d’une frappe ciblée portée au
+bras (si le bras est toujours valide) pour 2d6 minutes.
+
+{s:Reference|Cœur}
+====Cœur====
+Une frappe ciblée visant le coeur représente une tentative
+de coup fatal. Si le coup ne donne pas pour résultat une
+frappe ciblée critique ou un coup incapacitant, la tentative
+échoue et le coup est traité comme une attaque normale. La
+frappe ciblée au coeur peut être utilisée pour désigner toute
+attaque visant une petite zone vraisemblablement mortelle
+sur une créature, comme le serait l’unique faiblesse d’un
+vénérable dragon rouge incroyablement ancien. Les frappes
+ciblées au coeur sont des attaques difficiles (malus de -10).
+
+'''Frappe ciblée'''. Une frappe ciblée au coeur est une attaque
+normale sans effet supplémentaire.
+
+'''Frappe ciblée critique'''. Un [[Actions simples#COUPCRITIQUE|coup critique]] porté au cœur perce
+l’organe, causant un état d’[[États préjudiciables#Épuisé|épuisement]] et 1d4 points de dégâts
+à la [[Constitution]] par [[Saignement (capacité)|saignement]]. Un jet de [[Valeurs de combat#JETDESAUVEGARDE|Vigueur]] réussi
+permet de réduire cet état préjudiciable à [[États préjudiciables#Fatigué|fatigué]] et les dégâts
+de [[Constitution]] par [[Saignement (capacité)|saignement]] à 1 point. Dans les autres cas,
+stopper le [[Saignement (capacité)|saignement]] requiert l’emploi de régénération (sous la
+forme d’un [[Régénération|sort]] ou d’une [[Régénération (capacité)|capacité spéciale]]), de soins magiques
+(depuis une ou plusieurs sources) à hauteur du nombre de
+points de dégâts reçus lors de la blessure, ou un jet de [[Premiers secours]]
+[[Vocabulaire courant#DEGREDEDIFFICULTE|DD]] 20 réussi dont l’action prend 1d4 rounds.
+
+Un [[Actions simples#COUPCRITIQUE|coup critique]] porté au cœur contre un [[Vampire, archétype|vampire]] avec
+une arme perforante entièrement composée de bois empale
+le [[Vampire, archétype|vampire]] et le laisse avec l’arme plantée dans le cœur s’il
+échoue à un test de [[Valeurs de combat#JETDESAUVEGARDE|Vigueur]], avec les effets décrits [[Vampire, archétype|ici]].
+
+'''Coup incapacitant'''. Un [[#COUPINCAPACITANT|coup incapacitant]] porté au cœur
+détruit l’organe, tuant instantanément toute créature
+dépendant de son cœur pour survivre. En cas de réussite sur
+un jet de [[Valeurs de combat#JETDESAUVEGARDE|Vigueur]], les créatures ayant besoin de leur cœur
+échappent à la mort (et celui-ci à la destruction) et subissent
+à la place une [[Affaiblissement temporaire (capacité)|perte temporaire]] de 1d6 points de [[Constitution]]
+et 1d4 points de dégâts à la [[Constitution]] par [[Saignement (capacité)|saignement]],
+ainsi qu’un état d’[[États préjudiciables#Épuisé|épuisement]], de la même manière que les
+créatures qui peuvent survivre sans cœur.
+
+Un coup incapacitant porté au cœur d’un [[Vampire, archétype|vampire]] avec une
+arme perforante entièrement composée de bois affecte le [[Vampire, archétype|vampire]]
+comme une frappe critique au cœur. Le [[Vampire, archétype|vampire]] a donc toujours
+droit à un jet de [[Valeurs de combat#JETDESAUVEGARDE|Vigueur]] pour en éviter les conséquences.
+
+{s:Reference|Cou}
+====Cou====
+Le cou est une cible difficile mais qui ne manque pas
+d’attraits. Les blessures portées à la gorge empêchent leur
+victime de parler, et si les artères ou la trachée sont touchées,
+ces blessures entraînent une mort rapide. Les créatures
+auxquelles manque une véritable tête à attaquer n’ont
+habituellement pas de cou non plus. Les frappes ciblées au
+cou sont des attaques difficiles (malus de -10).
+
+'''Frappe ciblée'''. Une frappe ciblée au cou réduit la voix
+de la cible à un murmure rauque pour 1 round. Les sorts
+à composantes verbales ont 20% de chances d’échouer
+d’emblée, comme les tentatives d’activation d’objets à mot de
+commande (pour les objets magiques, l’utilisation de l’objet
+ou de la charge n’est cependant pas gaspillée).
+
+'''Frappe ciblée critique'''. Un [[Actions simples#COUPCRITIQUE|coup critique]] au cou cause
+1d6 points de dégâts par [[Saignement (capacité)|saignements]]. La cible doit de
+plus réussir un jet de [[Valeurs de combat#JETDESAUVEGARDE|Vigueur]] ou subir un écrasement de
+la trachée et se retrouver incapable de parler comme de
+respirer et potentiellement en situation d’[[Dangers naturels#ASPHYXIE|asphyxie]]. Une trachée écrasée
+peut être « réparée » par des soins magiques (depuis une ou
+plusieurs sources) si la guérison restitue au moins autant de
+points de vie que perdus lors de la frappe critique, ou grâce
+à un test de [[Premiers secours]] [[Vocabulaire courant#DEGREDEDIFFICULTE|DD]] 25 pour créer un trou dans
+la trachée. Le jet de [[Premiers secours]] cause dans tous les cas
+2d6 points de dégâts, et la créature reste incapable de parler
+mais elle peut à nouveau respirer. Si la cible réussit son jet
+de [[Valeurs de combat#JETDESAUVEGARDE|Vigueur]], elle subit tout de même les effets d’une frappe
+ciblée au cou pendant 1d4 minutes.
+
+'''Coup incapacitant'''. Un [[#COUPINCAPACITANT|coup incapacitant]] porté au cou
+laisse la cible incapable de parler ou de respirer et cause 1d4
+points de dégâts à la [[Constitution]] par [[Saignement (capacité)|saignement]]. Un jet de
+[[Valeurs de combat#JETDESAUVEGARDE|Vigueur]] réussi réduit l’attaque à 2d6 points de dégâts normaux
+(pris sur les [[Vocabulaire courant#POINTSDEVIE|points de vie]]) par [[Saignement (capacité)|saignement]], par ailleurs la cible
+est incapable de parler et respirer que pour une durée de 1d4
+minutes. Les dégâts de saignement causés à la [[Constitution]]
+par un coup incapacitant porté au cou peuvent être stoppés
+uniquement par le [[Régénération|sort]] ou la [[Régénération (capacité)|capacité spéciale]] régénération, par
+des soins magiques (depuis une ou plusieurs sources) à hauteur
+des dégâts reçus lors du coup incapacitant, ou avec un test de
+[[Premiers secours]] [[Vocabulaire courant#DEGREDEDIFFICULTE|DD]] 20 qu’il faut 1d4 rounds pour accomplir.
+
+{s:Reference|Jambe}
+====Jambe====
+Les jambes sont les membres permettant aux créatures
+de se déplacer et incluent les pieds. Les frappes ciblées aux
+jambes n’ont aucun effet spécial sur les créatures disposant
+de 5 jambes (ou pattes) ou plus. Les frappes ciblées visant les
+jambes sont des attaques faciles (malus de -2).
+
+'''Frappe ciblée'''. Une frappe ciblée à la jambe diminue la
+[[Valeurs de combat#VITESSEDEDEPLACEMENT|vitesse de déplacement]] de la cible de 3 m (2 {s:c}) pour 1d4 rounds
+si elle a une ou deux jambes, et diminue sa [[Valeurs de combat#VITESSEDEDEPLACEMENT|vitesse de déplacement]]
+de 1,50 m (1 {s:c}) si la cible dispose de trois ou quatre
+pattes. Dans les deux cas, la vitesse de la créature ne peut pas
+être réduite en deçà de 1,50 m (1 {s:c}) par round. Les frappes ciblées
+aux jambes n’ont aucun effet sur les créatures disposant de
+cinq pattes ou plus. Frapper une même
+jambe (ou patte) plus d’une fois ne
+cause aucun effet supplémentaire,
+mais le malus à la [[Valeurs de combat#VITESSEDEDEPLACEMENT|vitesse de déplacement]]
+se cumule
+si différentes
+jambes (ou pattes) sont touchées. De surcroît, tous les tests de
+[[Compétences|compétence]] et de [[Caractéristiques|caractéristique]] impliquant le mouvement
+(comme des jets d’[[Acrobaties]] ou de [[Natation]] par exemple)
+reçoivent un malus de -2 pour une durée de 1d4 rounds.
+
+'''Frappe ciblée critique'''. Un [[Actions simples#COUPCRITIQUE|coup critique]] porté sur une jambe
+cause une [[Affaiblissement temporaire (capacité)|perte temporaire]] de 1d4 points de [[Dextérité]] et jette la
+cible [[États préjudiciables#Àterre|à terre]]. Un jet de [[Valeurs de combat#JETDESAUVEGARDE|Vigueur]] réussi permet d’éviter la chute et
+l’état préjudiciable [[États préjudiciables#Àterre|à terre]]. La créature touchée souffre par ailleurs
+des effets d’une frappe ciblée à la jambe pour 1d4 minutes.
+
+'''Coup incapacitant'''. Un [[#COUPINCAPACITANT|coup incapacitant]] porté sur une jambe
+ou une patte jette la créature [[États préjudiciables#Àterre|à terre]]. Le coup rend la jambe
+complètement inutilisable jusqu’à ce qu’elle soit soignée, sauf si
+la cible réussit un test de [[Valeurs de combat#JETDESAUVEGARDE|Vigueur]]. En cas d’échec de 5 ou plus au
+jet de [[Valeurs de combat#JETDESAUVEGARDE|Vigueur]], la jambe est sectionnée ou mutilée autrement de
+telle sorte que seule la [[Régénération (capacité)|régénération]] ou un effet similaire peut la
+remettre en état. En cas de réussite au jet de [[Valeurs de combat#JETDESAUVEGARDE|Vigueur]], la cible est
+seulement estropiée. Sa [[Valeurs de combat#VITESSEDEDEPLACEMENT|vitesse de déplacement]] est réduite de
+moitié jusqu’à ce que sa jambe soit soignée, ou jusqu’à ce qu’un
+test de [[Premiers secours]] [[Vocabulaire courant#DEGREDEDIFFICULTE|DD]] 20 soit réussi. Une créature dont la
+jambe est inutilisable ou sectionnée se déplace à la moitié de sa
+[[Valeurs de combat#VITESSEDEDEPLACEMENT|vitesse de déplacement]] si au moins la moitié de ses jambes (ou
+pattes) sont valides ; si ce n’est pas le cas, la créature ne peut pas
+se relever et doit ramper pour se déplacer. La cible souffre aussi
+des effets d’une frappe ciblée à la jambe (si sa jambe est toujours
+utilisable) pour 2d6 minutes.
+
+{s:Reference|Main}
+
+====Main====
+Par commodité, toutes les extrémités utilisées pour les
+manipulations fines sont considérées comme des mains. Les
+frappes ciblées visant une main sont des attaques difficiles
+(malus de -10).
+
+'''Frappe ciblée'''. Tous les [[Valeurs de combat#JETDATTAQUE|jets d’attaque]], [[Valeurs de combat#DEGATS|jets de dégâts]], tests
+de [[Caractéristiques|caractéristique]] et tests de [[Compétences|compétence]] impliquant la main
+blessée subissent un malus de -2 pour 1d4 rounds, y compris
+les [[Valeurs de combat#JETDATTAQUE|jets d’attaque]] et de [[Valeurs de combat#DEGATS|dégâts]] avec les armes à deux mains. En
+outre, la cible reçoit un malus de -4 à son [[DMD]] pour résister
+aux tentatives de [[désarmement]], et lâche son arme (si elle en a
+une) si elle obtient un 1 naturel lors d’un [[Valeurs de combat#JETDATTAQUE|jet d’attaque]].
+
+'''Frappe ciblée critique'''. Un [[Actions simples#COUPCRITIQUE|coup critique]] à la main cause un
+[[Affaiblissement temporaire (capacité)|affaiblissement temporaire]] de 1d4 points à la [[Dextérité]]. De
+plus, à moins de réussir un jet de [[Valeurs de combat#JETDESAUVEGARDE|Réflexes]], la cible lâche tout
+ce qu’elle tenait dans la main touchée. Les objets tenus à deux
+mains ne sont pas lâchés mais elle perd tout de même sa faculté
+de préhension avec sa main blessée. La cible souffre également
+des effets d’une frappe ciblée à la main pour 1d4 minutes.
+
+'''Coup incapacitant'''. Un [[#COUPINCAPACITANT|coup incapacitant]] cause un
+[[Affaiblissement temporaire (capacité)|affaiblissement temporaire]] de la caractéristique [[Dextérité]] de
+1d6 points. À moins d’une réussite par la cible sur un jet de
+[[Réflexes]], le coup rend la main inutilisable jusqu’à ce qu’elle ait
+reçu des soins. En cas d’échec de 5 ou plus au jet de [[Réflexes]],
+la main est sectionnée ou mutilée d’une autre manière de
+telle sorte que seule la [[Régénération (capacité)|régénération]] ou un effet similaire peut
+la remettre en état. Quel que soit le résultat du jet de [[Réflexes]],
+tout objet tenu dans la main blessée est automatiquement
+lâché, même si l’objet était tenu à deux mains ou plus. Si sa
+main est toujours utilisable, la cible souffre également des
+effets d’une frappe ciblée à la main pour 2d6 minutes.
+
+{s:Reference|Œil}
+====Œil====
+Par extension, sont à considérer comme des yeux tous les
+organes que les créatures utilisent pour voir, quels qu’ils soient.
+Avec l’accord du MJ, une frappe ciblée aux yeux peut aussi désigner
+d’autres organes sensoriels comme les antennes, annulant ainsi les
+pouvoirs similaires à perception aveugle. En général, une créature
+ne peut être complètement [[États préjudiciables#Aveuglé|aveuglée]] tant qu’elle n’a pas perdu
+la vue pour chacun de ses yeux. Les créatures ayant cinq yeux et
+plus ne subissent pas de malus suite aux frappes ciblées touchant
+les yeux tant qu’il leur reste au moins un œil fonctionnel. Ces
+créatures peuvent toutefois être aveuglées si ce dernier œil reçoit
+un [[Actions simples#COUPCRITIQUE|coup critique]] ou un [[#COUPINCAPACITANT|coup incapacitant]]. Les frappes ciblées
+visant un œil sont des attaques difficiles (malus de -10).
+
+'''Frappe ciblée'''. Une frappe ciblée portée à l’œil donne à tous
+les ennemis de la cible les avantages du [[camouflage]] contre ses
+attaques pour 1 round et inflige un malus de -2 à tous les tests
+de [[Perception]] de la victime. Si avant la frappe ciblée, la créature
+n’avait plus qu’un œil fonctionnel, elle est [[États préjudiciables#Aveuglé|aveuglée]] pour 1 round.
+
+'''Frappe ciblée critique'''. Un [[coup critique]] porté sur un œil
+fait perdre à la cible la vue avec cet œil pour 1d4 minutes. La
+cible souffre également des effets d’une frappe ciblée à l’œil
+durant cette période.
+
+'''Coup incapacitant'''. Un [[#COUPINCAPACITANT|coup incapacitant]] à l’œil détruit
+l’œil ciblé, cause l’[[États préjudiciables#Aveuglé|aveuglement]] jusqu’à ce que cette condition
+soit annulée grâce à un sort de [[Guérison de la cécitésurdité|guérison de la cécité/surdité]] ou
+par un effet similaire, et occasionne 1d6 points de dégâts de
+[[Saignement (capacité)|saignement]]. Un jet de [[Vigueur]] réussi réduit cet effet à une
+perte de la vue pour une période de 1d4 heures pour cet œil
+et annule le [[Saignement (capacité)|saignement]]. La cible subit également les effets
+d’une frappe ciblée à l’œil pour 2d6 minutes.
+
+{s:Reference|Oreille}
+====Oreille====
+Les oreilles sont les organes dédiés à l’ouïe. De manière
+générale, les créatures sans oreilles visibles ne peuvent
+recevoir de frappes ciblées sur cette zone. Les frappes ciblées
+visant les oreilles sont difficiles (malus de -10).
+
+'''Frappe ciblée'''. Une frappe ciblée touchant une oreille
+l’[[Assourdi|assourdit]] pour 1 round et impose un malus de -2 aux tests
+de [[Perception]]. Une créature perdant complètement le sens de
+l’ouïe (pour chacune de ses oreilles) subit l’état préjudiciable
+[[assourdi]] jusqu’au retour de son audition grâce à un sort de
+[[Guérison de la cécitésurdité|guérison de la cécité/surdité]] ou par un effet comparable.
+
+'''Frappe ciblée critique'''. Un [[coup critique]] porté sur
+une oreille l’[[Assourdi|assourdit]] pour 2d6 minutes et laisse la cible
+[[Chancelant|chancelante]] pour 1 round. La cible souffre également des
+effets d’une frappe ciblée à l’oreille pendant cette période.
+
+'''Coup incapacitant'''. Un [[#COUPINCAPACITANT|coup incapacitant]] à l’oreille détruit
+cette oreille et [[Étourdi|étourdit]] la cible pour 1 round, puis la laisse
+[[Chancelant|chancelante]] pour 1d4 rounds et [[Assourdi|assourdie]] jusqu’au retour de son
+audition grâce à un sort de [[Guérison de la cécitésurdité|guérison de la cécité/surdité]] ou par un
+effet similaire. Un jet de [[Vigueur]] réussi laisse la cible [[Assourdi|assourdie]]
+jusqu’au retour de son audition grâce à un sort de [[Guérison de la cécitésurdité|guérison de la cécité/surdité]] (ou par un effet similaire) et annule les autres effets.
+
+{s:Reference|Tête}
+====Tête====
+Comme la plupart des créatures font preuve d’une certaine
+compétence pour éviter les attaques dirigées vers leur visage,
+les frappes ciblées visant la tête sont des attaques délicates
+(malus de -5). Certaines créatures, comme les [[Otyugh|otyughs]] et les [[Ver pourpre|vers pourpres]], n’ont pas véritablement de tête. Les créatures avec de
+multiples têtes doivent être touchées par des frappes ciblées
+sur l’ensemble de leurs têtes en un même round pour subir les
+effets nocifs indiqués, et même dans ce cas, elles ne subissent
+que l’effet le plus faible reçu par l’ensemble de leurs têtes (ainsi,
+un [[ettin]] devra recevoir un coup critique sur chacune de ses deux
+têtes pour subir les effets d’une frappe ciblée critique à la tête).
+
+'''Frappe ciblée'''. Une frappe ciblée à la tête rend la victime
+[[Fiévreux|fiévreuse]] pour 1d4 rounds.
+
+'''Frappe ciblée critique'''. Un [[coup critique]] à la tête cause la [[Affaiblissement temporaire (capacité)|perte temporaire]] de 1d6 points d’[[Intelligence]], [[Sagesse]] ou [[Charisme]]
+(déterminez au hasard la caractéristique) et laisse la victime
+[[Chancelant|chancelante]] pour 1d4 rounds. Un jet de [[Vigueur]] réussi annule
+l’état préjudiciable [[chancelant]]. La cible souffre également des
+effets d’une frappe ciblée à la tête pour 1d4 minutes.
+
+'''Coup incapacitant'''. Un [[#COUPINCAPACITANT|coup incapacitant]] à la tête cause la [[Affaiblissement temporaire (capacité)|perte temporaire]] de 1d6 points d’[[Intelligence]], [[Sagesse]] et [[Charisme]]
+(lancez les dés séparément pour chaque caractéristique) et laisse
+la victime [[Inconscient|inconsciente]] pour 1d10 rounds. Un jet de [[Vigueur]]
+réussi évite à la cible la [[Inconscient|perte de conscience]] mais laisse la victime
+[[Chancelant|chancelante]] pour 1d10 rounds. Si le jet de [[Vigueur]] échoue de 5
+ou plus, la cible perd toute capacité de raisonnement (comme
+avec le sort [[débilité]]) des suites d’un sévère traumatisme crânien,
+et ce jusqu’à ce qu’elle bénéficie d’un sort de [[guérison suprême]],
+[[restauration suprême]], ou d’un effet similaire. La cible subit aussi
+les effets d’une frappe ciblée à la tête pendant 2d6 minutes.
+
+{s:Reference|Tronc}
+====Tronc====
+Les frappes ciblées au tronc visent la zone bien protégée
+au centre de la masse des créatures. Ces frappes ciblées sont
+faciles (malus de -2).
+
+'''Frappe ciblée'''. Une frappe ciblée au tronc ne cause pas de
+dégâts supplémentaires, mais tous les jets de [[Compétences|compétence]]
+causés par le coup (comme un test d’[[Acrobaties]] pour
+reprendre son équilibre ou un test d’[[Escalade]] pendant une
+ascension) reçoivent un malus de -2.
+
+'''Frappe ciblée critique'''. Un [[coup critique]] porté au tronc
+cause un [[Affaiblissement temporaire (capacité)|affaiblissement temporaire]] à la [[Constitution]] de
+1d4 points et [[Fatigué|fatigue]] la cible. Un jet de [[Vigueur]] réussi (après
+diminution du score de [[Constitution]]) annule la [[Fatigué|fatigue]]. La
+cible souffre également des effets d’une frappe ciblée au
+tronc.
+
+'''Coup incapacitant'''. Un [[#COUPINCAPACITANT|coup incapacitant]] au tronc cause un
+[[Affaiblissement temporaire (capacité)|affaiblissement temporaire]] de 2d4 points à la [[Constitution]] et
+[[Épuisé|épuise]] la cible. Un jet de [[Vigueur]] réussi (après diminution
+du score de [[Constitution]]) réduit l’[[Épuisé|épuisement]] à l’état
+préjudiciable [[Fatigué|fatigué]]. Si le jet de [[Vigueur]] échoue de 5 ou plus,
+les lésions internes dont souffre la créature causent la [[Affaiblissement temporaire (capacité)|perte temporaire]] d’1 point de [[Constitution]] à chaque round où la
+créature accomplit une action simple. Ces lésions et blessures
+internes peuvent être guéries avec un jet de [[Premiers secours]]
+[[DD]] 25 ou en guérissant autant de points de vie que le coup
+incapacitant en a ôtés, que ce soit par des moyens magiques
+ou naturels. La créature souffre aussi des effets d’une frappe
+ciblée au tronc.]]></raw>
+  <fullName>Pathfinder-RPG.Frappes ciblées</fullName>
+</wikiPage>

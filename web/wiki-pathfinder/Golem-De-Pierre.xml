@@ -1,0 +1,156 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Golem de pierre</title>
+  <categories><category>Pathfinder-RPG.Bestiaire</category><category>Pathfinder-RPG.Monstre</category><category>Pathfinder-RPG.Règles officielles</category></categories>
+  <lastModified>2013-02-07 21:29:45Z</lastModified>
+  <version>7</version>
+  <inLinks><link>Pathfinder-RPG.Créatures artificielles</link><link>Pathfinder-RPG.Découvertes arcaniques</link><link>Pathfinder-RPG.Glossaire des monstres</link><link>Pathfinder-RPG.Golem</link><link>Pathfinder-RPG.Liste de monstres par FP</link><link>Pathfinder-RPG.Liste de monstres par milieu naturel</link><link>Pathfinder-RPG.Liste de monstres par type</link><link>Pathfinder-RPG.Monstres</link><link>Pathfinder-RPG.Traité de création des golems</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.type Créature artificielle</link><link>Pathfinder-RPG.vision dans le noir</link><link>Pathfinder-RPG.vision nocturne</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Traits des créatures artificielles</link><link>Pathfinder-RPG.RM</link><link>Pathfinder-RPG.Transmutation de la pierre en boue</link><link>Pathfinder-RPG.Lenteur</link><link>Pathfinder-RPG.jet de sauvegarde</link><link>Pathfinder-RPG.Transmutation de la boue en pierre</link><link>Pathfinder-RPG.Transmutation de la pierre en chair</link><link>Pathfinder-RPG.RD</link><link>Pathfinder-RPG.Action libre</link><link>Pathfinder-RPG.rayonnement</link><link>Pathfinder-RPG.Volonté</link><link>Pathfinder-RPG.DD</link><link>Pathfinder-RPG.Constitution</link><link>Pathfinder-RPG.Création de créatures artificielles</link><link>Pathfinder-RPG.Quête</link><link>Pathfinder-RPG.Souhait limité</link><link>Pathfinder-RPG.Symbole détourdissement</link><link>Pathfinder-RPG.Zone dantimagie</link><link>Pathfinder-RPG.Artisanat</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Golem de pierre&lt;div style=&quot;float:right;&quot;&gt;FP 11&lt;/div&gt;&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Bestiaire p.170&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 12.800
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Cr&#233;ature-Artificielle.html&quot; title=&quot;Cr&#233;ature artificielle&quot;&gt;Cr&#233;ature artificielle&lt;/a&gt; de taille G, N
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; -1 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Capacit&#233;s-Sp&#233;ciales.html#VISIONDANSLENOIR&quot; title=&quot;vision dans le noir&quot;&gt;vision dans le noir&lt;/a&gt; 18 m (12 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Nocturne-(Capacit&#233;).html&quot; title=&quot;vision nocturne&quot;&gt;vision nocturne&lt;/a&gt; ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +0
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 26, contact 8, pris au d&#233;pourvu 26 (Dex -1, naturelle +18, taille -1)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 107 (14d10+30)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +3, &lt;b&gt;Vig&lt;/b&gt; +4, &lt;b&gt;Vol&lt;/b&gt; +4
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Immunit&#233;s&lt;/b&gt; magie, &lt;a class=&quot;pagelink&quot; href=&quot;Traits-Des-Cr&#233;atures-Artificielles-(Capacit&#233;).html&quot; title=&quot;Traits des cr&#233;atures artificielles&quot;&gt;traits des cr&#233;atures artificielles&lt;/a&gt; ; &lt;b&gt;RD&lt;/b&gt; 10/adamantium 
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 6 m (4 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; 2 coups, +22 (2d10+9)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Espace&lt;/b&gt; 3 m (2 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) ; &lt;b&gt;Allonge&lt;/b&gt; 3 m (2 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaques sp&#233;ciales&lt;/b&gt; ralentissement
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 28, &lt;b&gt;Dex&lt;/b&gt; 9, &lt;b&gt;Con&lt;/b&gt; -, &lt;b&gt;Int&lt;/b&gt; -, &lt;b&gt;Sag&lt;/b&gt; 11, &lt;b&gt;Cha&lt;/b&gt; 1
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +14, &lt;b&gt;BMO&lt;/b&gt; +24, &lt;b&gt;DMD&lt;/b&gt; 33
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; quelconque
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation sociale&lt;/b&gt; solitaire ou bande (2-4)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; aucun
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Capacit&#233;s sp&#233;ciales&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Immunit&#233; contre la magie (Ext).&lt;/b&gt; Les golems de pierre sont immunis&#233;s contre tous les sorts et pouvoirs magiques contres lesquels la &lt;a class=&quot;pagelink&quot; href=&quot;R&#233;sistance-&#192;-La-Magie-(Capacit&#233;).html&quot; title=&quot;RM&quot;&gt;r&#233;sistance &#224; la magie&lt;/a&gt; fonctionne. En plus de cela, certains sorts et effets agissent diff&#233;remment lorsqu&#39;ils sont utilis&#233;s contre eux :
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;div class=&quot;indent&quot; style=&quot;margin: 0px; padding: 0px; padding-left: 15px&quot;&gt;• Le sort de &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Transmutation-De-La-Pierre-En-Boue.html&quot; title=&quot;Transmutation de la pierre en boue&quot;&gt;transmutation de la pierre en boue&lt;/a&gt;&lt;/i&gt; ralentit le golem (comme par le sorts de &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Lenteur.html&quot; title=&quot;Lenteur&quot;&gt;lenteur&lt;/a&gt;&lt;/i&gt;) pendant 2d6 rounds (sans &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;jet de sauvegarde&quot;&gt;jet de sauvegarde&lt;/a&gt;) et le sort &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Transmutation-De-La-Boue-En-Pierre.html&quot; title=&quot;Transmutation de la boue en pierre&quot;&gt;transmutation de la boue en pierre&lt;/a&gt;&lt;/i&gt; gu&#233;rit tous les points de vie qu&#39;il a perdus.&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;div class=&quot;indent&quot; style=&quot;margin: 0px; padding: 0px; padding-left: 15px&quot;&gt;• Le sort de &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Transmutation-De-La-Pierre-En-Chair.html&quot; title=&quot;Transmutation de la pierre en chair&quot;&gt;transmutation de la pierre en chair&lt;/a&gt;&lt;/i&gt; ne modifie pas la composition du golem mais supprime sa &lt;a class=&quot;pagelink&quot; href=&quot;R&#233;duction-De-D&#233;g&#226;ts-(Capacit&#233;).html&quot; title=&quot;RD&quot;&gt;RD&lt;/a&gt; et son immunit&#233; contre la magie pendant 1 round entier.&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Ralentissement (Sur).&lt;/b&gt; Par une &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions.html#LIBRE&quot; title=&quot;Action libre&quot;&gt;action libre&lt;/a&gt; utilisable tous les 2 rounds, un golem de pierre peut cr&#233;er un effet de ralentissement (comme le sort de &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Lenteur.html&quot; title=&quot;Lenteur&quot;&gt;lenteur&lt;/a&gt;&lt;/i&gt;). L&#39;effet agit dans un &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#DEFRAYONNEMENT&quot; title=&quot;rayonnement&quot;&gt;rayonnement&lt;/a&gt; de 3 m (2 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) centr&#233;s sur le golem et persiste pendant 7 rounds. Un jet de &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;Volont&#233;&quot;&gt;Volont&#233;&lt;/a&gt; de &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DEGREDEDIFFICULTE&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; 17 permet de l&#39;annuler. Le &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DEGREDEDIFFICULTE&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; d&#233;pend de la &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#CONSTITUTION&quot; title=&quot;La Constitution&quot;&gt;Constitution&lt;/a&gt;.
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;td&gt;&lt;div&gt;&lt;i&gt;Ce grand automate de pierre ressemble &#224; un ancien guerrier en armure. Ses pas sont lourds mais il semble impossible &#224; arr&#234;ter.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Les golems de pierre ont des corps humano&#239;des constitu&#233;s de pierre
+sculpt&#233;e selon les go&#251;ts de leur cr&#233;ateur. Certains donnent par
+exemple l’impression de porter des armures dont le plastron est
+grav&#233; d’un symbole sp&#233;cifique. D’autres arborent des motifs cisel&#233;s
+dans leurs jambes de pierre. Leur t&#234;te est souvent taill&#233;e en forme de
+casque ou pour ressembler &#224; la t&#234;te de certaines cr&#233;atures. &lt;br /&gt;&lt;br /&gt;La sculpture peut &#233;galement comporter un bouclier de pierre ou une arme
+en pierre (une &#233;p&#233;e par exemple), mais ce sont des ajouts purement
+esth&#233;tiques qui ne modifient pas les capacit&#233;s de combat du golem.
+Comme la plupart des autres golems, les golems de pierre sont
+incapables de parler et ne produisent aucun autre son que celui du
+frottement de la pierre contre la pierre quand ils se d&#233;placent. Un
+golem de pierre mesure 2,70 m&#232;tres et p&#232;se 1 000 kg.&lt;br /&gt;&lt;br /&gt;&lt;h3 class=&quot;separator&quot;&gt;Construction&lt;a class=&quot;headeranchor&quot; id=&quot;Construction_0&quot; href=&quot;#Construction_0&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;
+Le corps du golem de pierre doit &#234;tre taill&#233; &#224; partir d’un seul bloc
+de pierre dure (du granite par exemple) pesant au moins 1 500 kg.
+La pierre doit &#234;tre de qualit&#233; exceptionnelle et co&#251;te 5 000 po.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;NLS&lt;/b&gt; 14&lt;sup&gt;e&lt;/sup&gt; ; &lt;b&gt;Prix&lt;/b&gt; 105 000 po&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Conditions&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;ation-De-Cr&#233;atures-Artificielles.html&quot; title=&quot;Cr&#233;ation de cr&#233;atures artificielles&quot;&gt;Cr&#233;ation de cr&#233;atures artificielles&lt;/a&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Qu&#234;te.html&quot; title=&quot;Qu&#234;te&quot;&gt;qu&#234;te&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Souhait-Limit&#233;.html&quot; title=&quot;Souhait limit&#233;&quot;&gt;souhait limit&#233;&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Symbole-D&#233;tourdissement.html&quot; title=&quot;Symbole d&amp;#39;&#233;tourdissement&quot;&gt;symbole d&#39;&#233;tourdissement&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Zone-Dantimagie.html&quot; title=&quot;Zone d&amp;#39;antimagie&quot;&gt;zone d&#39;antimagie&lt;/a&gt;&lt;/i&gt;, cr&#233;ateur de niveau 14 ; &lt;b&gt;Comp&#233;tence&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Artisanat.html&quot; title=&quot;Artisanat&quot;&gt;Artisanat&lt;/a&gt; (sculpture) ou &lt;a class=&quot;pagelink&quot; href=&quot;Artisanat.html&quot; title=&quot;Artisanat&quot;&gt;Artisanat&lt;/a&gt; (constructions en pierre) &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#DEGREDEDIFFICULTE&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; 19 ; &lt;b&gt;Co&#251;t&lt;/b&gt; 55 000 po
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Golem de pierre|FP 11}
+{s:pucem|Créature artificielle|Ruines-Donjons|Tempéré}
+{s:BDTexte|''Source : Bestiaire p.170''}
+{s:BDTexte|'''PX''' 12.800}
+{s:BDTexte|[[type Créature artificielle|Créature artificielle]] de taille G, N}
+{s:BDTexte|'''Init''' -1 ; '''Sens''' [[vision dans le noir]] 18 m (12 {s:c}), [[vision nocturne]] ; [[Perception]] +0}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 26, contact 8, pris au dépourvu 26 (Dex -1, naturelle +18, taille -1)}
+{s:BDTexte|'''pv''' 107 (14d10+30)}
+{s:BDTexte|'''Réf''' +3, '''Vig''' +4, '''Vol''' +4}
+{s:BDTexte|'''Immunités''' magie, [[traits des créatures artificielles]] ; '''RD''' 10/adamantium }
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 6 m (4 {s:c})}
+{s:BDTexte|'''Corps à corps''' 2 coups, +22 (2d10+9)}
+{s:BDTexte|'''Espace''' 3 m (2 {s:c}) ; '''Allonge''' 3 m (2 {s:c})}
+{s:BDTexte|'''Attaques spéciales''' ralentissement}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 28, '''Dex''' 9, '''Con''' -, '''Int''' -, '''Sag''' 11, '''Cha''' 1}
+{s:BDTexte|'''BBA''' +14, '''BMO''' +24, '''DMD''' 33}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' quelconque}
+{s:BDTexte|'''Organisation sociale''' solitaire ou bande (2-4)}
+{s:BDTexte|'''Trésor''' aucun}
+{s:BDSousTitre|Capacités spéciales}
+{s:BDTexte|'''Immunité contre la magie (Ext).''' Les golems de pierre sont immunisés contre tous les sorts et pouvoirs magiques contres lesquels la [[RM|résistance à la magie]] fonctionne. En plus de cela, certains sorts et effets agissent différemment lorsqu'ils sont utilisés contre eux :}
+{s:BDTexte|:• Le sort de ''[[transmutation de la pierre en boue]]'' ralentit le golem (comme par le sorts de ''[[lenteur]]'') pendant 2d6 rounds (sans [[jet de sauvegarde]]) et le sort ''[[transmutation de la boue en pierre]]'' guérit tous les points de vie qu'il a perdus.}
+{s:BDTexte|:• Le sort de ''[[transmutation de la pierre en chair]]'' ne modifie pas la composition du golem mais supprime sa [[RD]] et son immunité contre la magie pendant 1 round entier.}
+{s:BDTexte|'''Ralentissement (Sur).''' Par une [[action libre]] utilisable tous les 2 rounds, un golem de pierre peut créer un effet de ralentissement (comme le sort de ''[[lenteur]]''). L'effet agit dans un [[rayonnement]] de 3 m (2 {s:c}) centrés sur le golem et persiste pendant 7 rounds. Un jet de [[Volonté]] de [[DD]] 17 permet de l'annuler. Le [[DD]] dépend de la [[Constitution]].}
+</div>
+</td><td><div>''Ce grand automate de pierre ressemble à un ancien guerrier en armure. Ses pas sont lourds mais il semble impossible à arrêter.''
+
+Les golems de pierre ont des corps humanoïdes constitués de pierre
+sculptée selon les goûts de leur créateur. Certains donnent par
+exemple l’impression de porter des armures dont le plastron est
+gravé d’un symbole spécifique. D’autres arborent des motifs ciselés
+dans leurs jambes de pierre. Leur tête est souvent taillée en forme de
+casque ou pour ressembler à la tête de certaines créatures. 
+
+La sculpture peut également comporter un bouclier de pierre ou une arme
+en pierre (une épée par exemple), mais ce sont des ajouts purement
+esthétiques qui ne modifient pas les capacités de combat du golem.
+Comme la plupart des autres golems, les golems de pierre sont
+incapables de parler et ne produisent aucun autre son que celui du
+frottement de la pierre contre la pierre quand ils se déplacent. Un
+golem de pierre mesure 2,70 mètres et pèse 1 000 kg.
+
+====Construction====
+
+Le corps du golem de pierre doit être taillé à partir d’un seul bloc
+de pierre dure (du granite par exemple) pesant au moins 1 500 kg.
+La pierre doit être de qualité exceptionnelle et coûte 5 000 po.
+
+'''NLS''' 14<sup>e</sup> ; '''Prix''' 105 000 po
+
+'''Conditions''' [[Création de créatures artificielles]], ''[[quête]]'', ''[[souhait limité]]'', ''[[symbole détourdissement|symbole d'étourdissement]]'', ''[[zone dantimagie|zone d'antimagie]]'', créateur de niveau 14 ; '''Compétence''' [[Artisanat]] (sculpture) ou [[Artisanat]] (constructions en pierre) [[DD]] 19 ; '''Coût''' 55 000 po
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Golem de pierre</fullName>
+</wikiPage>

@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Feu du jugement</title>
+  <categories><category>Pathfinder-RPG.Advanced Player Guide</category><category>Pathfinder-RPG.Règles officielles</category><category>Pathfinder-RPG.Sort</category><category>Pathfinder-RPG.Sort paladin 3</category></categories>
+  <lastModified>2012-11-03 21:39:06Z</lastModified>
+  <version>3</version>
+  <inLinks><link>Pathfinder-RPG.Glossaire des sorts</link><link>Pathfinder-RPG.Liste des sorts (suite)</link><link>Pathfinder-RPG.Liste des sorts de paladins</link><link>Pathfinder-RPG.TMP sorts APG</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Évocation</link><link>Pathfinder-RPG.Paladin</link><link>Pathfinder-RPG.composantes</link><link>Pathfinder-RPG.round</link><link>Pathfinder-RPG.niveau</link><link>Pathfinder-RPG.Volonté</link><link>Pathfinder-RPG.Présentation des sorts</link><link>Pathfinder-RPG.type Extérieur</link><link>Pathfinder-RPG.sous-type Mal</link><link>Pathfinder-RPG.dragon</link><link>Pathfinder-RPG.type Mort-vivant</link><link>Pathfinder-RPG.jet de sauvegarde</link><link>Pathfinder-RPG.RD</link></outLinks>
+  <body><![CDATA[
+&lt;b&gt;&#201;cole&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#EVOCATION&quot; title=&quot;&#201;vocation&quot;&gt;&#201;vocation&lt;/a&gt;&#160;;&lt;b&gt; Niveau&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Paladin.html&quot; title=&quot;Le paladin&quot;&gt;paladin&lt;/a&gt; 3&lt;br/&gt;
+&lt;b&gt;Temps d&#39;incantation&lt;/b&gt; 1 action rapide&lt;br/&gt;
+&lt;b&gt;Composantes&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#COMPOSANTES&quot; title=&quot;composantes&quot;&gt;V, G&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Port&#233;e&lt;/b&gt; sp&#233;ciale&#160;(voir description)&lt;br/&gt;
+&lt;b&gt;Cible&lt;/b&gt; une cr&#233;ature&lt;br/&gt;
+&lt;b&gt;Dur&#233;e&lt;/b&gt; 1 &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#ROUND&quot; title=&quot;round&quot;&gt;round&lt;/a&gt;/&lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#NIVEAU&quot; title=&quot;niveau&quot;&gt;niveau&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Jet de sauvegarde&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;Volont&#233;&quot;&gt;Volont&#233;&lt;/a&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#JETSDESAUVEGARDE&quot; title=&quot;Pr&#233;sentation des sorts&quot;&gt;partiel&lt;/a&gt; ; &lt;b&gt;R&#233;sistance &#224; la magie&lt;/b&gt; oui&lt;br /&gt;&lt;br /&gt;Apr&#232;s avoir lanc&#233; ce sort, la prochaine cible que le personnage attaque &#224; l&#39;aide de son pouvoir de classe &lt;a class=&quot;pagelink&quot; href=&quot;Paladin.html#CHATIMENTDUMAL&quot; title=&quot;Le paladin&quot;&gt;ch&#226;timent du mal&lt;/a&gt; est engloutie dans des flammes d&#39;&#233;nergie positive. Au d&#233;but de son tour, la cible subit 1d6 points de d&#233;g&#226;ts et 1d6 points suppl&#233;mentaires &#224; chaque fois qu&#39;elle attaque une cr&#233;ature autre que le personnage. Si la cr&#233;ature est un &lt;a class=&quot;pagelink&quot; href=&quot;Type-Ext&#233;rieur.html&quot; title=&quot;Ext&#233;rieur&quot;&gt;ext&#233;rieur&lt;/a&gt; de &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Mal.html&quot; title=&quot;Mal (sous-type)&quot;&gt;sous-type Mauvais&lt;/a&gt;, un &lt;a class=&quot;pagelink&quot; href=&quot;Dragon.html&quot; title=&quot;dragon&quot;&gt;dragon&lt;/a&gt; Mauvais ou un &lt;a class=&quot;pagelink&quot; href=&quot;Type-Mort-Vivant.html&quot; title=&quot;Mort-vivant&quot;&gt;mort-vivant&lt;/a&gt;, ces d&#233;g&#226;ts passent &#224; 1d10. En cas de &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;jet de sauvegarde&quot;&gt;jet de sauvegarde&lt;/a&gt; r&#233;ussi, ce sort n&#39;affecte la cr&#233;ature que pendant 1 &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant.html#ROUND&quot; title=&quot;round&quot;&gt;round&lt;/a&gt;. Ces d&#233;g&#226;ts sont de nature divine et ignorent toute &lt;a class=&quot;pagelink&quot; href=&quot;R&#233;duction-De-D&#233;g&#226;ts-(Capacit&#233;).html&quot; title=&quot;RD&quot;&gt;RD&lt;/a&gt; de la cr&#233;ature.
+]]></body>
+  <raw><![CDATA[{s:APG}
+'''École''' [[Évocation]] ;''' Niveau''' [[paladin]] 3<br/>
+'''Temps d'incantation''' 1 action rapide<br/>
+'''Composantes''' [[Composantes|V, G]]<br/>
+'''Portée''' spéciale (voir description)<br/>
+'''Cible''' une créature<br/>
+'''Durée''' 1 [[round]]/[[niveau]]<br/>
+'''Jet de sauvegarde''' [[Volonté]] [[Présentation des sorts#JETSDESAUVEGARDE|partiel]] ; '''Résistance à la magie''' oui
+
+Après avoir lancé ce sort, la prochaine cible que le personnage attaque à l'aide de son pouvoir de classe [[paladin#CHATIMENTDUMAL|châtiment du mal]] est engloutie dans des flammes d'énergie positive. Au début de son tour, la cible subit 1d6 points de dégâts et 1d6 points supplémentaires à chaque fois qu'elle attaque une créature autre que le personnage. Si la créature est un [[type extérieur|extérieur]] de [[sous-type Mal|sous-type Mauvais]], un [[dragon]] Mauvais ou un [[type mort-vivant|mort-vivant]], ces dégâts passent à 1d10. En cas de [[jet de sauvegarde]] réussi, ce sort n'affecte la créature que pendant 1 [[round]]. Ces dégâts sont de nature divine et ignorent toute [[RD]] de la créature.
+]]></raw>
+  <fullName>Pathfinder-RPG.Feu du jugement</fullName>
+</wikiPage>
