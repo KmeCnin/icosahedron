@@ -166,6 +166,7 @@ EOT
 		  $em->persist($feat);
 		  if (count($em->getUnitOfWork()->getScheduledEntityInsertions()) > $this->maxEntitiesStacked) {
 			 $em->flush();
+			 $this->output->writeln(sprintf("\t\t***** SAVEPOINT *****"));
 		  }
 		  $this->output->writeln(sprintf(chr(8) . "<info>\t\t%s</info>", $this->encode($feat->getName())));
 
@@ -188,12 +189,16 @@ EOT
 	   $em = $this->getDoctrine()->getManager();
 	   $logs = $crawler->filter('spell')->each(function (Crawler $node) {
 		  set_time_limit(15);
+//	   if ($node->filter('name')->text() == 'Augure') {
 		  $em = $this->getDoctrine()->getManager();
 		  $spell = new Spell();
 		  $this->current_spell = $node->attr('id');
 		  $spell->setNameId($node->attr('id'));
 		  $spell->setName($node->filter('name')->text());
-		  $wikiUrl = str_replace(' ', '%20', $node->filter('reference')->eq(0)->attr('href'));
+		  $rawUrl = $node->filter('reference')->eq(0)->attr('href');		  
+		  $arrayUrl = explode('/', $rawUrl);
+		  $arrayUrl[count($arrayUrl)-1] = rawurlencode($arrayUrl[count($arrayUrl)-1]);
+		  $wikiUrl = implode('/', $arrayUrl);
 		  $spell->setWiki($wikiUrl);
 		  if ($node->filter('summary')->count() > 0) {
 			 $spell->setDescription($node->filter('summary')->text());
@@ -271,28 +276,34 @@ EOT
 		  }
 		  // Récupération des infos détaillées sur la page du wiki
 		  $wikiCrawler = new Crawler;
-		  $wikiCrawler->addHTMLContent(file_get_contents($this->fileNameFromUrl($wikiUrl)), 'UTF-8');
-		  $wikiContent = $wikiCrawler->filter('raw');
-		  $htmlDescrition = '';
-		  foreach ($wikiContent as $domElement) {
-			 $htmlDescrition .= $domElement->ownerDocument->saveHTML($domElement);
-		  }
-		  $fragments = explode('
-
-', $htmlDescrition, 2);
-		  $rawDescription = substr($fragments[1], 0, -10); // Suppression de la fin du html résiduel
+		  $wikiCrawler->addHTMLContent(file_get_contents($wikiUrl), 'UTF-8');
+		  $wikiContent = $wikiCrawler->filter('#PageContentDiv');
+		  $htmlDescrition = $this->html($wikiContent);
+		  $fragments = explode('<br><br>', $htmlDescrition, 2);
+		  $desc = $fragments[1];
+		  $rawDescription = substr($desc, 0, -10); // Suppression de la fin du html résiduel
 		  $spell->setDetail($this->replaceWithMyLinks($rawDescription));
 		  
 		  $em->persist($spell);
-		  // On flush si jamais le buffer est trop rempli pour éviter un dÃ©pacement de mÃ©moire
+		  // On flush si jamais le buffer est trop rempli pour éviter un dépacement de mémoire
 		  if (count($em->getUnitOfWork()->getScheduledEntityInsertions()) > $this->maxEntitiesStacked) {
 			 $em->flush();
+			 $this->output->writeln(sprintf("\t\t***** SAVEPOINT *****"));
 		  }
 		  $this->output->writeln(sprintf("<info>\t\t%s</info>", $this->encode($spell->getName())));
+//	   }
 	   });
 	   $em->flush();
 
 	   return $logs;
+    }
+    
+    public function html($wikiContent) {
+	   $htmlDescrition = '';
+	   foreach ($wikiContent as $domElement) {
+		  $htmlDescrition .= $domElement->ownerDocument->saveHTML($domElement);
+	   }
+	   return $htmlDescrition;
     }
 
     public function truncateTable($className) {
@@ -416,7 +427,25 @@ EOT
     }
     
     protected function replaceWithMyLinks($text) {
-	   echo $text; die;
+	   
+//	   $cleaners = array("/''/", "/'''/");
+//	   $link_starts = array("/\[\[[^|\]]*\|/", "/\[\[/" );
+//	   $link_ends = array("/]]/");
+//	   
+//	   // Nettoyage des cotes de styles du wiki
+//	   foreach ($cleaners as $cleaner) {
+//		  $text = preg_replace($cleaner, '', $text);
+//	   }
+//	   // Transformation des débuts de liens
+//	   foreach ($link_starts as $link_start) {
+//		  $text = preg_replace($link_start, '<a href="#">', $text);
+//	   }
+//	   // Transformation des fins de liens
+//	   foreach ($link_ends as $link_end) {
+//		  $text = preg_replace($link_end, '</a>', $text);
+//	   }
+	   
+	   return $text;
     }
     
     protected function fileNameFromUrl($url) {
@@ -427,7 +456,8 @@ EOT
 	   $xmledUrl = preg_replace('/ashx/', 'xml', $unprefixedUrl);
 	   $uppercasedUrl = ucwords($xmledUrl);
 	   $fileName = preg_replace('/ /', '-', $uppercasedUrl);
-	   return $this->getContainer()->get('kernel')->getRootDir().'/../web/wiki-pathfinder/'.$fileName;
+	   $convertedName = mb_convert_encoding($fileName, 'Windows-1252', 'UTF-8');
+	   return $this->getContainer()->get('kernel')->getRootDir().'/../web/wiki-pathfinder/'.$convertedName;
     }
 
 }
