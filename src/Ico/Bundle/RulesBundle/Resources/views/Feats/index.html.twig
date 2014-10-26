@@ -42,7 +42,7 @@
 		  {% for feattype in feat.feattypes %}{% if loop.index != 1 %}, {% endif %}{% if feattype.description is not empty %}<a class="preview text-nowrap" href="{{ path('ico_rules_feattypes_view', {'id': feattype.id}) }}">{{ feattype.name }}</a>{% else %}{{ feattype.name }}{% endif %}{% endfor %}
 	   </td>
 	   <td>
-		  {% for featprerequisite in feat.featprerequisites %}{% if loop.index != 1 %}, {% endif %}{% if featprerequisite.link != '' %}<a class="preview text-nowrap" href="{{ featprerequisite.link }}">{{ featprerequisite.name }}</a>{% else %}<span class="text-nowrap">{{ featprerequisite.name }}</span>{% endif %}{% endfor %}
+		  {% for featprerequisite in feat.featprerequisites %}{% if loop.index != 1 %}, {% endif %}{% if featprerequisite.link != '' %}<a class="preview text-nowrap" href="{{ featprerequisite.link|environment }}">{{ featprerequisite.name }}</a>{% else %}<span class="text-nowrap">{{ featprerequisite.name }}</span>{% endif %}{% endfor %}
 	   </td>
 	   <td>{{ feat.description }}</td>
     </tr>

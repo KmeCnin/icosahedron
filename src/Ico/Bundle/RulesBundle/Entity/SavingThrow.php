@@ -38,6 +38,13 @@ class SavingThrow
     /**
      * @var string
      *
+     * @ORM\Column(name="short", type="string", length=255)
+     */
+    private $short;  
+
+    /**
+     * @var string
+     *
      * @ORM\Column(name="description", type="text", nullable=true)
      */
     private $description;  
@@ -120,5 +127,28 @@ class SavingThrow
     public function getDescription()
     {
         return $this->description;
+    }
+
+    /**
+     * Set short
+     *
+     * @param string $short
+     * @return SavingThrow
+     */
+    public function setShort($short)
+    {
+        $this->short = $short;
+
+        return $this;
+    }
+
+    /**
+     * Get short
+     *
+     * @return string 
+     */
+    public function getShort()
+    {
+        return $this->short;
     }
 }

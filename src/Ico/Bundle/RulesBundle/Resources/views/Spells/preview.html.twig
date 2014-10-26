@@ -1,5 +1,47 @@
 <h4 class="text-nowrap">{{ spell.name }} <small>[Sort]</small></h4>
 <hr />
+<small>
+    <span class="text-muted">École : </span> <span class="text-primary text-nowrap">{{ spell.spellSchool.name }}</span> | 
+    <span class="text-muted">Niveau : </span> {% for list in spell.spellListsLevels %}{% if loop.index != 1 %}, {% endif %}<span class="text-primary text-nowrap">{{ list.spellList.short }} {{ list.level }}</span>{% endfor %}
+    <br />
+    <span class="text-muted">Temps d'incantation : </span> 
+    {% if spell.castingTimeSpecial is not null %}
+	   {{ spell.castingTimeSpecial }}
+    {% else %}
+	   {{ spell.castingTime.value }}
+	   {% if spell.castingTime.unit.description != '' %}
+		  <span class="text-primary text-nowrap">{{ spell.castingTime.unit.name }}</span>
+	   {% else %}
+		  {{ spell.castingTime.unit.name }}
+	   {% endif %}
+    {% endif %}
+    <br />
+    <span class="text-muted">Composantes : </span> {% for component in spell.spellComponents %}{% if loop.index != 1 %}, {% endif %}<span class="text-primary text-nowrap">{{ component.short }}</span>{% endfor %} {% if spell.materialComponent != '' %} ({{ spell.materialComponent }}){% endif %}<br />
+    {% if spell.rangeSpecial is not null or spell.range is not null %}
+	   <span class="text-muted">Portée : </span> 
+	   {% if spell.rangeSpecial is not null %}
+		  {{ spell.rangeSpecial }}
+	   {% else %}
+		  <span class="text-primary text-nowrap">{{ spell.range.name }}</span>
+	   {% endif %}
+	   <br />
+    {% endif %}
+    <span class="text-muted">Cible : </span> {{ spell.target }}<br />
+    <span class="text-muted">Jet de sauvegarde : </span> 
+    {% if spell.savingThrow is not null %}
+	   <span class="text-primary text-nowrap">{{ spell.savingThrow.short }}</span>, 
+	   {% if spell.savingThrowEffect is not null %}
+		  <span class="text-primary text-nowrap">{{ spell.savingThrowEffect.name|lower }}</span>
+	   {% else %}
+		  aucun
+	   {% endif %}
+    {% elseif spell.savingThrowSpecial == '' %}
+	   aucun
+    {% else %}
+	   {{ spell.savingThrowSpecial|environment|raw }}
+    {% endif %}
+    <br />
+</small>
 <div class="well well-sm">
     {{ spell.description }}
 </div>
