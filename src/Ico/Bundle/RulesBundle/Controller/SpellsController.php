@@ -133,7 +133,7 @@ class SpellsController extends Controller
 		  ),
 		  'title' => 'Sort',
 		  'subtitle' => $spell->getName(),
-		  'feat' => $spell
+		  'spell' => $spell
 	   ));
     }
     

@@ -25,6 +25,7 @@ class UpdateRulesCommand extends ContainerAwareCommand {
     protected $currentFeat;
     protected $maxEntitiesStacked = 100; // Number of entities to persist before to flush them
     protected $root = '{{ROOT}}';
+    protected $urlTranslator;
 
     protected function configure() {
 	   $this
@@ -84,21 +85,40 @@ EOT
 	   $this->loadFixtures();
 	   $this->output->writeln(sprintf("<info>Fixtures loaded.</info>"));
 
-	   // On rÃ©cupÃ¨re les nouvelles infos
+	   // On récupère les nouvelles infos
 	   if (!$this->updateOnlyFixtures) {
 		  $this->output->writeln(sprintf("<info>Updating new data:</info>"));
 		  if ($this->updateFeats) {
 			 $this->output->writeln(sprintf("<info>\tUpdating Feats...</info>"));
-			 $logs = $this->updateFeats();
-			 $this->output->writeln(sprintf("<info>\t%d feats updated.</info>", count($logs)));
+			 $feats = $this->updateFeats();
+			 $this->output->writeln(sprintf("<info>\t%d feats updated.</info>", count($feats)));
 		  }
 		  if ($this->updateSpells) {
 			 $this->output->writeln(sprintf("<info>\tLoading Spells...</info>"));
-			 $logs = $this->updateSpells();
-			 $this->output->writeln(sprintf("<info>\t%d spells updated.</info>", count($logs)));
+			 $spells = $this->updateSpells();
+			 $this->output->writeln(sprintf("<info>\t%d spells updated.</info>", count($spells)));
 		  }
+		  
 		  $this->output->writeln('Data updated.');
 	   }
+		  
+	   // Création des tables de correspondance pour inclure les liens locaux dans les descriptions
+	   $this->output->writeln(sprintf("<info>Creating table of translate for wiki-url to local-url...</info>"));
+	   $this->urlTranslatorInit();
+	   $this->output->writeln(sprintf("<info>Table of translate created.</info>"));
+		  
+	   $this->output->writeln(sprintf("<info>Creating links into descriptions...</info>"));
+	   // On peut mettre à jour les liens dans les textes
+	   $em = $this->getDoctrine()->getManager();
+	   $spells = $this->getDoctrine()
+		  ->getRepository('IcoRulesBundle:Spell')
+		  ->findAll();
+	   foreach($spells as $spell) {
+		  $spell->setDetail($this->replaceWithMyLinks($spell->getDetail()));
+		  $em->persist($spell);
+	   }
+	   $em->flush();
+	   $this->output->writeln(sprintf("<info>Links created.</info>"));
     }
 
     private function encode($string) {
@@ -110,7 +130,7 @@ EOT
 	   $crawler = new Crawler;
 	   $crawler->addHTMLContent(file_get_contents($url), 'UTF-8');
 	   $em = $this->getDoctrine()->getManager();
-	   $logs = $crawler->filter('feat')->each(function (Crawler $node) {
+	   $feats = $crawler->filter('feat')->each(function (Crawler $node) {
 		  set_time_limit(15);
 		  $em = $this->getDoctrine()->getManager();
 		  $feat = new Feat();
@@ -170,7 +190,7 @@ EOT
 		  }
 		  $this->output->writeln(sprintf(chr(8) . "<info>\t\t%s</info>", $this->encode($feat->getName())));
 
-		  return $feat->getNameId();
+		  return $feat;
 	   });
 	   $em->flush();
 
@@ -179,7 +199,7 @@ EOT
 	   $this->updateFeatPrerequisites();
 	   $this->output->writeln(sprintf("<info>\tLinks created.</info>"));
 
-	   return $logs;
+	   return $feats;
     }
 
     private function updateSpells() {
@@ -187,7 +207,7 @@ EOT
 	   $crawler = new Crawler;
 	   $crawler->addHTMLContent(file_get_contents($url), 'UTF-8');
 	   $em = $this->getDoctrine()->getManager();
-	   $logs = $crawler->filter('spell')->each(function (Crawler $node) {
+	   $spells = $crawler->filter('spell')->each(function (Crawler $node) {
 		  set_time_limit(15);
 //	   if ($node->filter('name')->text() == 'Augure') {
 		  $em = $this->getDoctrine()->getManager();
@@ -282,7 +302,7 @@ EOT
 		  $fragments = explode('<br><br>', $htmlDescrition, 2);
 		  $desc = $fragments[1];
 		  $rawDescription = substr($desc, 0, -10); // Suppression de la fin du html résiduel
-		  $spell->setDetail($this->replaceWithMyLinks($rawDescription));
+		  $spell->setDetail($rawDescription);
 		  
 		  $em->persist($spell);
 		  // On flush si jamais le buffer est trop rempli pour éviter un dépacement de mémoire
@@ -291,11 +311,13 @@ EOT
 			 $this->output->writeln(sprintf("\t\t***** SAVEPOINT *****"));
 		  }
 		  $this->output->writeln(sprintf("<info>\t\t%s</info>", $this->encode($spell->getName())));
+		  
+		  return $spell;
 //	   }
 	   });
 	   $em->flush();
 
-	   return $logs;
+	   return $spells;
     }
     
     public function html($wikiContent) {
@@ -379,6 +401,12 @@ EOT
 				    ->findOneByNameId($nameId);
     }
 
+    private function getEntityFromName($entity, $name) {
+	   return $this->getDoctrine()
+				    ->getRepository('IcoRulesBundle:' . $entity)
+				    ->findOneByName($name);
+    }
+
     private function updateFeatPrerequisites() {
 
 	   // Mise Ã  jour des liens entre les dons
@@ -428,24 +456,12 @@ EOT
     
     protected function replaceWithMyLinks($text) {
 	   
-//	   $cleaners = array("/''/", "/'''/");
-//	   $link_starts = array("/\[\[[^|\]]*\|/", "/\[\[/" );
-//	   $link_ends = array("/]]/");
-//	   
-//	   // Nettoyage des cotes de styles du wiki
-//	   foreach ($cleaners as $cleaner) {
-//		  $text = preg_replace($cleaner, '', $text);
-//	   }
-//	   // Transformation des débuts de liens
-//	   foreach ($link_starts as $link_start) {
-//		  $text = preg_replace($link_start, '<a href="#">', $text);
-//	   }
-//	   // Transformation des fins de liens
-//	   foreach ($link_ends as $link_end) {
-//		  $text = preg_replace($link_end, '</a>', $text);
-//	   }
-	   
-	   return $text;
+	   // Change all wiki class "pagelink" to local class "preview"
+	   $text = str_replace('pagelink', 'preview', $text);
+	   // Removing title attributes
+	   $text = preg_replace('/(<[^>]+) title=".*?"/i', '$1', $text);
+	   // replace all wiki-url into local-url
+	   return str_replace(array_keys($this->urlTranslator), $this->urlTranslator, $text);
     }
     
     protected function fileNameFromUrl($url) {
@@ -458,6 +474,51 @@ EOT
 	   $fileName = preg_replace('/ /', '-', $uppercasedUrl);
 	   $convertedName = mb_convert_encoding($fileName, 'Windows-1252', 'UTF-8');
 	   return $this->getContainer()->get('kernel')->getRootDir().'/../web/wiki-pathfinder/'.$convertedName;
+    }
+    
+    protected function urlFromFileName($fileName) { // TODO
+	   // Les fichiers sont nommés en se basant sur le nom de la page, en remplaçant les espaces par des tirets et en mettant en majuscule la première lettre de chaque mot
+	   
+	   $convertedName = rawurlencode(mb_convert_encoding($fileName, 'UTF-8', 'Windows-1252'));
+	   $spacedName = preg_replace('/-/', ' ', $convertedName);
+	   $uppercasedUrl = strtolower($spacedName);
+	   $ashxedUrl = preg_replace('/xml/', 'ashx', $uppercasedUrl);
+	   $prefixedUrl = 'Pathfinder-RPG.'.$ashxedUrl;
+	   $normalizedUrl = preg_replace('/ /', '%20', $prefixedUrl);
+	   return $normalizedUrl;
+    }
+    
+    protected function urlTranslatorInit() {
+	   // Récupération de la liste des pages
+	   $path = 'D:/wamp/www/Pathfinder-RPG/';
+	   $pages = array();
+	   foreach (new \DirectoryIterator($path) as $fileInfo) {
+		  if($fileInfo->isDot()) {
+			 continue;
+		  }
+		  $pages[] = $fileInfo->getFilename();
+	   }
+	   foreach ($pages as $page) {
+		  $crawler = new Crawler;
+		  $crawler->addHTMLContent(file_get_contents($path.$page), 'UTF-8');
+		  $spell = $this->getEntityFromName('Spell', $crawler->filter('title')->text());
+		  if ($spell) {
+			 $categories = $crawler->filter('category')->each(function (Crawler $category) {
+				return $category->text();
+			 });
+			 $catToRoute = array(
+				'Pathfinder-RPG.Sort' => 'ico_rules_spell_view'
+			 );
+			 foreach ($categories as $category ) {
+				foreach ($catToRoute as $cat => $route) {
+				    if ($category == $cat) {
+					   $this->urlTranslator[$this->urlFromFileName($page)] = $this->root.$this->getContainer()->get('router')->generate($route, array('id' => $spell->getId()));
+				    }
+				}
+			 }
+		  }
+	   }
+//	   file_put_contents('D:/wamp/www/urlTranslator.txt', print_r($this->urlTranslator, true));
     }
 
 }

@@ -15,6 +15,9 @@ body {
     text-align: justify;
 }
 .popover {
+    font-weight: normal;
+    text-decoration: none;
+    font-style: normal;
     font-size: small;
 }
 .icon {
