@@ -208,9 +208,9 @@ EOT
 				}
 			 }
 		  }
-		  $desc = $fragments[1];
-		  $rawDescription = substr($desc, 0, -10); // Suppression de la fin du html résiduel
-		  $feat->setBenefit($rawDescription);
+		  $rawDescription = $fragments[1];
+//		  $rawDescription = substr($rawDescription, 0, -10); // Suppression de la fin du html résiduel
+		  $feat->setBenefit('<div>'.$rawDescription);
 		  
 		  $em->persist($feat);
 		  if (count($em->getUnitOfWork()->getScheduledEntityInsertions()) > $this->maxEntitiesStacked) {
@@ -326,9 +326,9 @@ EOT
 		  $wikiContent = $wikiCrawler->filter('#PageContentDiv');
 		  $htmlDescrition = $this->html($wikiContent);
 		  $fragments = explode('<br><br>', $htmlDescrition, 2);
-		  $desc = $fragments[1];
-		  $rawDescription = substr($desc, 0, -10); // Suppression de la fin du html résiduel
-		  $spell->setDetail($rawDescription);
+		  $rawDescription = $fragments[1];
+//		  $rawDescription = substr($rawDescription, 0, -10); // Suppression de la fin du html résiduel
+		  $spell->setDetail('<div>'.$rawDescription);
 		  
 		  $em->persist($spell);
 		  // On flush si jamais le buffer est trop rempli pour éviter un dépacement de mémoire

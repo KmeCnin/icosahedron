@@ -50,28 +50,31 @@
 		  <td>{{ spell.description }}</td>
 	   </tr>
 	   {% endfor %}
-	   {# Modales #}
-	   {% for spell in pagination %}
-    <div class="modal fade modal-results" id="modal_spell_{{ spell.id }}" tabindex="-1" role="dialog" aria-labelledby="modal_spell_{{ spell.id }}" aria-hidden="true">
-	   <div class="modal-dialog modal-lg">
-		  <div class="modal-content">
-			 <div class="modal-header">
-				<button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Fermer</span></button>
-				<h4 class="modal-title" id="myModalLabel">{{ spell.name }} <small>[Sort]</small></h4>
-			 </div>
-			 <div class="modal-body">
-				{% include 'IcoRulesBundle:Spells:display.html.twig' with {'spell': spell} only %}
-			 </div>
-			 <div class="modal-footer">
-				<button type="button" class="btn btn-default" data-dismiss="modal">Fermer</button>
-			 </div>
+</table>
+
+    {# Modales #}
+    {% for spell in pagination %}
+<div class="modal fade modal-results" id="modal_spell_{{ spell.id }}" tabindex="-1" role="dialog" aria-labelledby="modal_spell_{{ spell.id }}" aria-hidden="true">
+    <div class="modal-dialog modal-lg">
+	   <div class="modal-content">
+		  <div class="modal-header">
+			 <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Fermer</span></button>
+			 <h4 class="modal-title" id="myModalLabel">{{ spell.name }} <small>[Sort]</small></h4>
+		  </div>
+		  <div class="modal-body">
+			 {% include 'IcoRulesBundle:Spells:display.html.twig' with {'spell': spell} only %}
+		  </div>
+		  <div class="modal-footer">
+			 <button type="button" class="btn btn-default" data-dismiss="modal">Fermer</button>
 		  </div>
 	   </div>
     </div>
-	   {% endfor %}
-</table>
+</div>
+    {% endfor %}
+
 {# display navigation #}
 <div class="navigation" style="text-align: center;">
 {{ knp_pagination_render(pagination) }}
 </div>
+
 {% endblock %}

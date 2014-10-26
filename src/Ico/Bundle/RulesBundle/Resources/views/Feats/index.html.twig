@@ -47,26 +47,26 @@
 	   <td>{{ feat.description }}</td>
     </tr>
 	   {% endfor %}
-	   {# Modales #}
-	   {% for feat in pagination %}
-    <div class="modal fade modal-results" id="modal_feat_{{ feat.id }}" tabindex="-1" role="dialog" aria-labelledby="modal_feat_{{ feat.id }}" aria-hidden="true">
-	   <div class="modal-dialog modal-lg">
-		  <div class="modal-content">
-			 <div class="modal-header">
-				<button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Fermer</span></button>
-				<h4 class="modal-title" id="myModalLabel">{{ feat.name }} <small>[Don]</small></h4>
-			 </div>
-			 <div class="modal-body">
-				{% include 'IcoRulesBundle:Feats:display.html.twig' with {'feat': feat} only %}
-			 </div>
-			 <div class="modal-footer">
-				<button type="button" class="btn btn-default" data-dismiss="modal">Fermer</button>
-			 </div>
+</table>
+    {# Modales #}
+    {% for feat in pagination %}
+<div class="modal fade modal-results" id="modal_feat_{{ feat.id }}" tabindex="-1" role="dialog" aria-labelledby="modal_feat_{{ feat.id }}" aria-hidden="true">
+    <div class="modal-dialog modal-lg">
+	   <div class="modal-content">
+		  <div class="modal-header">
+			 <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Fermer</span></button>
+			 <h4 class="modal-title" id="myModalLabel">{{ feat.name }} <small>[Don]</small></h4>
+		  </div>
+		  <div class="modal-body">
+			 {% include 'IcoRulesBundle:Feats:display.html.twig' with {'feat': feat} only %}
+		  </div>
+		  <div class="modal-footer">
+			 <button type="button" class="btn btn-default" data-dismiss="modal">Fermer</button>
 		  </div>
 	   </div>
     </div>
-	   {% endfor %}
-</table>
+</div>
+    {% endfor %}
 {# display navigation #}
 <div class="navigation" style="text-align: center;">
 {{ knp_pagination_render(pagination) }}
