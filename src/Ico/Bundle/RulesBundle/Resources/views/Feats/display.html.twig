@@ -11,7 +11,7 @@
     <div class="panel-body justify">
     {% if feat.featprerequisites|length > 0 %}
 	   {% for featprerequisite in feat.featprerequisites %}
-		  {% if loop.index != 1 %}, {% endif %}{% if featprerequisite.link != '' %}<a class="preview" href="{{ featprerequisite.link }}">{{ featprerequisite.name }}</a>{% else %}{{ featprerequisite.name }}{% endif %}
+		  {% if loop.index != 1 %}, {% endif %}{% if featprerequisite.link != '' %}<a class="preview" href="{{ featprerequisite.link|environment }}">{{ featprerequisite.name }}</a>{% else %}{{ featprerequisite.name }}{% endif %}
 	   {% endfor %}
     {% else %}
 	   Aucune
@@ -20,5 +20,5 @@
 </div>
 <div class="panel panel-default">
     <div class="panel-heading">Avantage</div>
-    <div class="panel-body justify">{{ feat.benefit }}</div>
+    <div class="panel-body justify">{{ feat.benefit|environment|raw }}</div>
 </div>

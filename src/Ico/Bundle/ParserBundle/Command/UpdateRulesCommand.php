@@ -110,6 +110,14 @@ EOT
 	   $this->output->writeln(sprintf("<info>Creating links into descriptions...</info>"));
 	   // On peut mettre à jour les liens dans les textes
 	   $em = $this->getDoctrine()->getManager();
+	   $feats = $this->getDoctrine()
+		  ->getRepository('IcoRulesBundle:Feat')
+		  ->findAll();
+	   foreach($feats as $feat) {
+		  $feat->setBenefit($this->replaceWithMyLinks($feat->getBenefit()));
+		  $em->persist($feat);
+	   }
+	   $em->flush();
 	   $spells = $this->getDoctrine()
 		  ->getRepository('IcoRulesBundle:Spell')
 		  ->findAll();
@@ -131,13 +139,14 @@ EOT
 	   $crawler->addHTMLContent(file_get_contents($url), 'UTF-8');
 	   $em = $this->getDoctrine()->getManager();
 	   $feats = $crawler->filter('feat')->each(function (Crawler $node) {
-		  set_time_limit(15);
+		  set_time_limit(50);
 		  $em = $this->getDoctrine()->getManager();
 		  $feat = new Feat();
 		  $this->currentFeat = $node->attr('id');
 		  $feat->setNameId($node->attr('id'));
 		  $feat->setName($node->attr('name'));
-		  $feat->setWiki($node->filter('reference')->eq(0)->attr('href'));
+		  $wikiUrl = $this->normalizeWikiUrl($node->filter('reference')->eq(0)->attr('href'));
+		  $feat->setWiki($wikiUrl);
 		  $feat->setDescription($node->filter('description')->text());
 		  $feat_types = $node->filter('type')->each(function (Crawler $type) {
 			 return $this->getEntityFromNameId('FeatType', $type->text());
@@ -178,11 +187,31 @@ EOT
 		  foreach ($feat_types as $feat_type) {
 			 $feat->addFeatType($feat_type);
 		  }
-		  if ($node->filter('benefit')->count() > 0) {
-			 $feat->setBenefit($node->filter('benefit')->text());
-		  } else {
-			 $feat->setBenefit($feat->getDescription());
+//		  if ($node->filter('benefit')->count() > 0) {
+//			 $feat->setBenefit($node->filter('benefit')->text());
+//		  } else {
+//			 $feat->setBenefit($feat->getDescription());
+//		  }
+		  
+		  // Récupération des infos détaillées sur la page du wiki
+		  $wikiCrawler = new Crawler;
+		  $wikiCrawler->addHTMLContent(file_get_contents($wikiUrl), 'UTF-8');
+		  $wikiContent = $wikiCrawler->filter('#PageContentDiv');
+		  $htmlDescrition = $this->html($wikiContent);
+		  $fragments = explode('<b>Avantage.</b>', $htmlDescrition, 2);
+		  if (!isset($fragments[1])) {
+			 $fragments = explode('<b>Avantages.</b>', $htmlDescrition, 2);
+			 if (!isset($fragments[1])) {
+				$fragments = explode('<b>Avantage</b>', $htmlDescrition, 2);
+				if (!isset($fragments[1])) {
+				    $fragments = explode('<b>Avantages</b>', $htmlDescrition, 2);
+				}
+			 }
 		  }
+		  $desc = $fragments[1];
+		  $rawDescription = substr($desc, 0, -10); // Suppression de la fin du html résiduel
+		  $feat->setBenefit($rawDescription);
+		  
 		  $em->persist($feat);
 		  if (count($em->getUnitOfWork()->getScheduledEntityInsertions()) > $this->maxEntitiesStacked) {
 			 $em->flush();
@@ -195,7 +224,7 @@ EOT
 	   $em->flush();
 
 	   $this->output->writeln(sprintf("<info>\tCreating related links...</info>"));
-	   // Mise Ã  jour des liens sur les dons
+	   // Mise à jour des liens sur les dons
 	   $this->updateFeatPrerequisites();
 	   $this->output->writeln(sprintf("<info>\tLinks created.</info>"));
 
@@ -208,17 +237,14 @@ EOT
 	   $crawler->addHTMLContent(file_get_contents($url), 'UTF-8');
 	   $em = $this->getDoctrine()->getManager();
 	   $spells = $crawler->filter('spell')->each(function (Crawler $node) {
-		  set_time_limit(15);
+		  set_time_limit(50);
 //	   if ($node->filter('name')->text() == 'Augure') {
 		  $em = $this->getDoctrine()->getManager();
 		  $spell = new Spell();
 		  $this->current_spell = $node->attr('id');
-		  $spell->setNameId($node->attr('id'));
+		  $spell->setNameId($this->nameIdFromName($node->filter('name')->text()));
 		  $spell->setName($node->filter('name')->text());
-		  $rawUrl = $node->filter('reference')->eq(0)->attr('href');		  
-		  $arrayUrl = explode('/', $rawUrl);
-		  $arrayUrl[count($arrayUrl)-1] = rawurlencode($arrayUrl[count($arrayUrl)-1]);
-		  $wikiUrl = implode('/', $arrayUrl);
+		  $wikiUrl = $this->normalizeWikiUrl($node->filter('reference')->eq(0)->attr('href'));
 		  $spell->setWiki($wikiUrl);
 		  if ($node->filter('summary')->count() > 0) {
 			 $spell->setDescription($node->filter('summary')->text());
@@ -320,6 +346,13 @@ EOT
 	   return $spells;
     }
     
+    protected function normalizeWikiUrl($rawUrl) {
+	   
+	   $arrayUrl = explode('/', $rawUrl);
+	   $arrayUrl[count($arrayUrl)-1] = rawurlencode($arrayUrl[count($arrayUrl)-1]);
+	   return implode('/', $arrayUrl);
+    }
+    
     public function html($wikiContent) {
 	   $htmlDescrition = '';
 	   foreach ($wikiContent as $domElement) {
@@ -367,13 +400,13 @@ EOT
 		  'IcoRulesBundle:SavingThrow',
 		  'IcoRulesBundle:SavingThrowEffect'
 	   );
-	   // Tables Ã  vider seulement si on synchronise les dons
+	   // Tables à vider seulement si on synchronise les dons
 	   if ($this->updateFeats) {
 		  $tablesToTruncate[] = 'IcoRulesBundle:Feat';
 		  $tablesToTruncate[] = 'feat_feattype';
 		  $tablesToTruncate[] = 'IcoRulesBundle:FeatPrerequisite';
 	   }
-	   // Tables Ã  vider seulement si on synchronise les sorts
+	   // Tables à vider seulement si on synchronise les sorts
 	   if ($this->updateSpells) {
 		  $tablesToTruncate[] = 'IcoRulesBundle:Spell';
 		  $tablesToTruncate[] = 'IcoRulesBundle:SpellListLevel';
@@ -414,6 +447,7 @@ EOT
 		  foreach ($metadatas as $metadata) {
 
 			 $feat_repository = $this->getDoctrine()->getRepository('IcoRulesBundle:Feat');
+			 $spell_repository = $this->getDoctrine()->getRepository('IcoRulesBundle:Spell');
 			 if ($metadata['type'] == 'other') {
 				$link = '';
 				if (isset($metadata['otherType']) && $metadata['otherType'] == 'ExoticWeaponProficiency') {
@@ -432,11 +466,14 @@ EOT
 			 } elseif ($metadata['type'] == 'skillRank') {
 				$link = '';
 			 } elseif ($metadata['type'] == 'spellCast') {
-				$link = '';
+				$spell = $spell_repository->findOneByNameId($metadata['value']);
+				if ($spell) {
+				    $link = $this->root.$this->getContainer()->get('router')->generate('ico_rules_spell_view', array('id' => $spell->getId()));
+				}
 			 } elseif ($metadata['type'] == 'feat') {
 				$feat = $feat_repository->findOneByNameId($metadata['value']);
 				if ($feat) {
-				    $link = $this->getContainer()->get('router')->generate('ico_rules_feat_view', array('id' => $feat->getId()));
+				    $link = $this->root.$this->getContainer()->get('router')->generate('ico_rules_feat_view', array('id' => $feat->getId()));
 				}
 			 }
 			 $em = $this->getDoctrine()->getManager();
@@ -464,6 +501,14 @@ EOT
 	   return str_replace(array_keys($this->urlTranslator), $this->urlTranslator, $text);
     }
     
+    protected function nameIdFromName($name) {
+	   
+	   $lowercasedName = strtolower($name);
+	   $dashedName = preg_replace('/ /', '-', $lowercasedName);
+	   $uncotedName =  preg_replace('/\'/', '', $dashedName);
+	   return $uncotedName;
+    }
+    
     protected function fileNameFromUrl($url) {
 	   // Les fichiers sont nommés en se basant sur le nom de la page, en remplaçant les espaces par des tirets et en mettant en majuscule la première lettre de chaque mot
 	   $endUrl = substr($url,strrpos($url,"/")+1);
@@ -478,7 +523,6 @@ EOT
     
     protected function urlFromFileName($fileName) { // TODO
 	   // Les fichiers sont nommés en se basant sur le nom de la page, en remplaçant les espaces par des tirets et en mettant en majuscule la première lettre de chaque mot
-	   
 	   $convertedName = rawurlencode(mb_convert_encoding($fileName, 'UTF-8', 'Windows-1252'));
 	   $spacedName = preg_replace('/-/', ' ', $convertedName);
 	   $uppercasedUrl = strtolower($spacedName);
@@ -501,18 +545,19 @@ EOT
 	   foreach ($pages as $page) {
 		  $crawler = new Crawler;
 		  $crawler->addHTMLContent(file_get_contents($path.$page), 'UTF-8');
-		  $spell = $this->getEntityFromName('Spell', $crawler->filter('title')->text());
-		  if ($spell) {
-			 $categories = $crawler->filter('category')->each(function (Crawler $category) {
-				return $category->text();
-			 });
-			 $catToRoute = array(
-				'Pathfinder-RPG.Sort' => 'ico_rules_spell_view'
-			 );
-			 foreach ($categories as $category ) {
-				foreach ($catToRoute as $cat => $route) {
-				    if ($category == $cat) {
-					   $this->urlTranslator[$this->urlFromFileName($page)] = $this->root.$this->getContainer()->get('router')->generate($route, array('id' => $spell->getId()));
+		  $categories = $crawler->filter('category')->each(function (Crawler $category) {
+			 return $category->text();
+		  });
+		  $catToRoute = array(
+			 'Pathfinder-RPG.Sort' => 'spell',
+			 'Pathfinder-RPG.Don' => 'feat'
+		  );
+		  foreach ($categories as $category ) {
+			 foreach ($catToRoute as $cat => $entityName) {
+				if ($category == $cat) {
+				    $entity = $this->getEntityFromName(ucfirst($entityName), $crawler->filter('title')->text());
+				    if ($entity) {
+					   $this->urlTranslator[$this->urlFromFileName($page)] = $this->root.$this->getContainer()->get('router')->generate('ico_rules_'.$entityName.'_view', array('id' => $entity->getId()));
 				    }
 				}
 			 }
