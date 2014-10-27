@@ -543,6 +543,9 @@ EOT
 		  $pages[] = $fileInfo->getFilename();
 	   }
 	   foreach ($pages as $page) {
+		  // Url exceptionnelles
+//		  $this->urlTranslator['Pathfinder-RPG.round.ashx'] = $this->root.$this->getContainer()->get('router')->generate('ico_rules_'.$entityName.'_view', array('id' => $entity->getId()));
+		  // Url correspondant à des fichiers
 		  $crawler = new Crawler;
 		  $crawler->addHTMLContent(file_get_contents($path.$page), 'UTF-8');
 		  $categories = $crawler->filter('category')->each(function (Crawler $category) {
