@@ -398,7 +398,8 @@ EOT
 		  'IcoRulesBundle:BattleUnit',
 		  'IcoRulesBundle:BattleRange',
 		  'IcoRulesBundle:SavingThrow',
-		  'IcoRulesBundle:SavingThrowEffect'
+		  'IcoRulesBundle:SavingThrowEffect',
+		  'IcoRulesBundle:SpellTargetType'
 	   );
 	   // Tables à vider seulement si on synchronise les dons
 	   if ($this->updateFeats) {
@@ -566,7 +567,7 @@ EOT
 			 }
 		  }
 	   }
-//	   file_put_contents('D:/wamp/www/urlTranslator.txt', print_r($this->urlTranslator, true));
+	   file_put_contents('D:/wamp/www/all_url_used.txt', print_r($this->urlTranslator, true));
     }
 
 }

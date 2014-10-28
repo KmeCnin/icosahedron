@@ -11,7 +11,7 @@ class SpellTargetTypes implements FixtureInterface, OrderedFixtureInterface {
 
     public function load(ObjectManager $manager) {
 	   
-	   $schools = array(
+	   $types = array(
 		  array(
 			 'name' => 'Cible',
 			 'description' => "Ces sorts fonctionnent uniquement sur une ou plusieurs cibles bien définies. Le personnage les lance sur des créatures ou des objets, comme il est indiqué dans leur description. Le personnage doit voir ou toucher la cible, après quoi il lui faut expressément la choisir. Il n'a pas besoin de choisir sa cible avant la fin de l'incantation.",
@@ -88,19 +88,18 @@ Une barrière solide dans laquelle il y a un trou d'au moins un mètre carré ne
 		  ),
 	   );
 
-	   foreach ($schools as $data) {
-		  $school = new SpellSchool();
-		  $school->setNameId($data['nameId']);
-		  $school->setName($data['name']);
-		  $school->setDescription($data['description']);
-		  $school->setDetail($data['detail']);
-		  $manager->persist($school);
+	   foreach ($types as $data) {
+		  $type = new SpellTargetType();
+		  $type->setName($data['name']);
+		  $type->setDescription($data['description']);
+		  $type->setDetail($data['detail']);
+		  $manager->persist($type);
 	   }
 	   $manager->flush();
     }
 
     public function getOrder() {
-	   return 4;
+	   return 9;
     }
 
 }

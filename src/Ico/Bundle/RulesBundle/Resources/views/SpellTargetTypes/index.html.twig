@@ -1,0 +1,16 @@
+{% extends "IcoRulesBundle::layout.html.twig" %}
+
+{% block content %}
+<table class="table table-striped table-hover">
+    <tr>
+	   <th>Type de ciblage</th>
+	   <th>Description</th>
+    </tr>
+	   {% for spelltargettype in list %}
+    <tr class="link" onclick="window.location.href=Routing.generate('ico_rules_spelltargettypes_view', {id: {{ spelltargettype.id }}});">
+	   <td>{{ spelltargettype.name }}</td>
+	   <td>{{ spelltargettype.description }}</td>
+    </tr>
+	   {% endfor %}
+</table>
+{% endblock %}
