@@ -26,6 +26,7 @@ class UpdateRulesCommand extends ContainerAwareCommand {
     protected $maxEntitiesStacked = 100; // Number of entities to persist before to flush them
     protected $root = '{{ROOT}}';
     protected $urlTranslator;
+    protected $listUrlUsed = array();
 
     protected function configure() {
 	   $this
@@ -127,6 +128,7 @@ EOT
 	   }
 	   $em->flush();
 	   $this->output->writeln(sprintf("<info>Links created.</info>"));
+	   file_put_contents('D:/wamp/www/all_url_used.txt', print_r($this->listUrlUsed, true));
     }
 
     private function encode($string) {
@@ -492,8 +494,21 @@ EOT
 	   return $this->getContainer()->get('doctrine');
     }
     
+    protected function collectUrlUsed($html) {
+	   $pattern = '/<a\s[^>]*href=\"([^\"]*)\"[^>]*>.*<\/a>/siU';
+	   $matches = array();
+	   preg_match($pattern, $html, $matches, PREG_OFFSET_CAPTURE, 3);
+	   foreach($matches as $index => $match) {
+		  if ($index != 0 && !in_array($match[0], $this->listUrlUsed)) {
+			 $this->listUrlUsed[] = $match[0];
+		  }
+	   }
+	   sort($this->listUrlUsed);
+    }
+    
     protected function replaceWithMyLinks($text) {
 	   
+//	   $this->collectUrlUsed($text);
 	   // Change all wiki class "pagelink" to local class "preview"
 	   $text = str_replace('pagelink', 'preview', $text);
 	   // Removing title attributes
@@ -526,8 +541,8 @@ EOT
 	   // Les fichiers sont nommés en se basant sur le nom de la page, en remplaçant les espaces par des tirets et en mettant en majuscule la première lettre de chaque mot
 	   $convertedName = rawurlencode(mb_convert_encoding($fileName, 'UTF-8', 'Windows-1252'));
 	   $spacedName = preg_replace('/-/', ' ', $convertedName);
-	   $uppercasedUrl = strtolower($spacedName);
-	   $ashxedUrl = preg_replace('/xml/', 'ashx', $uppercasedUrl);
+//	   $uppercasedUrl = strtolower($spacedName);
+	   $ashxedUrl = preg_replace('/xml/', 'ashx', $spacedName);
 	   $prefixedUrl = 'Pathfinder-RPG.'.$ashxedUrl;
 	   $normalizedUrl = preg_replace('/ /', '%20', $prefixedUrl);
 	   return $normalizedUrl;
@@ -567,7 +582,6 @@ EOT
 			 }
 		  }
 	   }
-	   file_put_contents('D:/wamp/www/all_url_used.txt', print_r($this->urlTranslator, true));
     }
 
 }
