@@ -5,13 +5,13 @@
 <div class="well bs-component">
     
     {% if filter.keywords.vars.value is not empty %}
-	   {% set keywords = filter.keywords.vars.value|split(' ') %}
+	   {% set keywords = filter.keywords.vars.value|split(',') %}
 	   <script>
 		  var keywords_contexts_list = [0, 3]; // Index des colonnes où chercher les mots-clés à surligner dans la liste de résultats
 		  var keywords_contexts_modal = [0, 3]; // Index des colonnes où chercher les mots-clés à surligner dans la modale
 		  var keywords = new Array();
 	   {% for keyword in keywords %}
-		  keywords.push("{{ keyword }}");
+		  keywords.push("{{ keyword|trim }}");
 	   {% endfor %}
 	   </script>
     {% endif %}

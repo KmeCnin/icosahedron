@@ -16,7 +16,8 @@ class SpellsController extends Controller
     public function indexAction(Request $request)
     {	   	   	   
 	   $filter = $this->createFormBuilder()
-			 ->add('keywords', 'text', array('label' => 'Mots-clés', 'required' => false, 'attr' => array('placeholder' => 'Entrez un ou plusieurs')))
+			 ->setMethod('GET')
+			 ->add('keywords', 'text', array('label' => 'Mots-clés', 'required' => false, 'attr' => array('placeholder' => 'Entrez un ou plusieurs séparés par des virgules')))
 			 ->add('spellSchool', 'entity', array(
 				'class' => 'IcoRulesBundle:SpellSchool',
 				'property' => 'name',
@@ -79,9 +80,10 @@ class SpellsController extends Controller
 			 $parameters['spellSchool'] = $data['spellSchool']->getId();
 		  }		  
 		  if (!empty($data['keywords'])) {
-			 $keywords = explode(' ', $data['keywords']);
+			 $keywords = explode(',', $data['keywords']);
 			 $where = array();
 			 foreach ($keywords as $key => $keyword) {
+				$keyword = trim($keyword);
 				$where[] = '(spell.name LIKE :name'.$key.' OR spell.description LIKE :description'.$key.')';
 				$parameters['name'.$key] = '%'.$keyword.'%';
 				$parameters['description'.$key] = '%'.$keyword.'%';

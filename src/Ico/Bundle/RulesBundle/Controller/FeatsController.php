@@ -17,7 +17,7 @@ class FeatsController extends Controller
     {	   	   	   
 	   $filter = $this->createFormBuilder()
 			 ->setMethod('GET')
-			 ->add('keywords', 'text', array('label' => 'Mots-clés', 'required' => false, 'attr' => array('placeholder' => 'Entrez un ou plusieurs séparés par un espace')))
+			 ->add('keywords', 'text', array('label' => 'Mots-clés', 'required' => false, 'attr' => array('placeholder' => 'Entrez un ou plusieurs séparés par des virgules')))
 			 ->add('featTypes', 'entity', array(
 				'class' => 'IcoRulesBundle:FeatType',
 				'property' => 'name',
@@ -75,9 +75,10 @@ class FeatsController extends Controller
 			 
 		  }
 		  if (!empty($data['keywords'])) {
-			 $keywords = explode(' ', $data['keywords']);
+			 $keywords = explode(',', $data['keywords']);
 			 $where = array();
 			 foreach ($keywords as $key => $keyword) {
+				$keyword = trim($keyword);
 				$where[] = '(feat.name LIKE :name'.$key.' OR feat.description LIKE :description'.$key.' OR feat.benefit LIKE :benefit'.$key.')';
 				$parameters['name'.$key] = '%'.$keyword.'%';
 				$parameters['description'.$key] = '%'.$keyword.'%';
