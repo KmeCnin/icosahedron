@@ -16,7 +16,8 @@ class FeatsController extends Controller
     public function indexAction(Request $request)
     {	   	   	   
 	   $filter = $this->createFormBuilder()
-			 ->add('keywords', 'text', array('label' => 'Mots-clés', 'required' => false, 'attr' => array('placeholder' => 'Entrez un ou plusieurs')))
+			 ->setMethod('GET')
+			 ->add('keywords', 'text', array('label' => 'Mots-clés', 'required' => false, 'attr' => array('placeholder' => 'Entrez un ou plusieurs séparés par un espace')))
 			 ->add('featTypes', 'entity', array(
 				'class' => 'IcoRulesBundle:FeatType',
 				'property' => 'name',
