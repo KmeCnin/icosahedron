@@ -1,32 +1,11 @@
 $(document).ready(function() {
     
-    // Surligne les mots clés de la recherche
-    if (typeof keywords !== 'undefined') {
-	   $('.table.table-results tbody > tr, .modal.modal-results .modal-content').each(function(j, tr) {
-		  $(tr).find('td, .panel, h4').each(function(index, td) {
-			 if (
-				($(td).is('td') && $.inArray(index, keywords_contexts_list) !== -1) || 
-				($(td).is('.panel') && $.inArray(index, keywords_contexts_modal) !== -1) ||
-				$(td).is('h4')
-			 ) {
-				console.log($(td));
-				$.each(keywords, function(i, keyword) {
-				    var context = $(td).html();
-				    var regex = new RegExp('((?![^<]*>)'+keyword+')', "gi"); // On remplace uniquement le texte qui n'est pas dans les balises html
-				    var output = context.replace(regex, '<mark>$1</mark>');
-				    $(td).html(output);
-				});
-			 }
-		  });
-	   });
-    }
-    
-    // Initialisation des tooltips
-    $('[data-toggle="tooltip"]').tooltip({placement: 'top'});  
-    
     // Initialisation des select multiples avec Chosen
     $('select[multiple]').chosen();
     $('.chosen-choices').addClass('form-control');
+    
+    // Initialisation des tooltips
+    $('[data-toggle="tooltip"]').tooltip({placement: 'top'});  
     
     // Initialisation des pop-hover    
     $('.preview').each(function() {
@@ -54,7 +33,35 @@ $(document).ready(function() {
 	   $('.preview').popover('hide');
     });
     
+    // Surligne les mots clés de la recherche
+    if (typeof keywords !== 'undefined') {
+	   $('.table.table-results tbody > tr, .modal.modal-results .modal-content').each(function(j, tr) {
+		  $(tr).find('td, .panel, h4').each(function(index, td) {
+			 if (
+				($(td).is('td') && $.inArray(index, keywords_contexts_list) !== -1) || 
+				($(td).is('.panel') && $.inArray(index, keywords_contexts_modal) !== -1) ||
+				$(td).is('h4')
+			 ) {
+				console.log($(td));
+				$.each(keywords, function(i, keyword) {
+				    var context = $(td).html();
+				    var regex = new RegExp('((?![^<]*>)'+keyword+')', "gi"); // On remplace uniquement le texte qui n'est pas dans les balises html
+				    var output = context.replace(regex, '<mark>$1</mark>');
+				    $(td).html(output);
+				});
+			 }
+		  });
+	   });
+    }
+    
 });
+
+function initChosen() {
+    // Initialisation des select multiples avec Chosen
+    
+    $('select[multiple]').chosen();
+    $('.chosen-choices').addClass('form-control');
+}
 
 function ucfirst(str) {
   //  discuss at: http://phpjs.org/functions/ucfirst/

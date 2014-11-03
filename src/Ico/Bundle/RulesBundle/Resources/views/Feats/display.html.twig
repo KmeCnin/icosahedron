@@ -2,7 +2,7 @@
     <div class="panel-heading">Catégories</div>
     <div class="panel-body justify">
     {% for feattype in feat.feattypes %}
-	   {% if loop.index != 1 %}, {% endif %}<a class="preview" href="{{ path('ico_rules_feattypes_view', {'id': feattype.id}) }}">{{ feattype.name }}</a></span>
+	   {% if loop.index != 1 %}, {% endif %}{% if feattype.description is not empty %}<a class="preview text-nowrap" href="{{ path('ico_rules_feattypes_view', {'id': feattype.id}) }}">{{ feattype.name }}</a>{% else %}{{ feattype.name }}{% endif %}</span>
     {% endfor %}
     </div>
 </div>

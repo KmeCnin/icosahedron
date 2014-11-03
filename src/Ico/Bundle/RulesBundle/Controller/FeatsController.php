@@ -21,7 +21,7 @@ class FeatsController extends Controller
 			 ->add('featTypes', 'entity', array(
 				'class' => 'IcoRulesBundle:FeatType',
 				'property' => 'name',
-				'label' => 'Catégorie', 
+				'label' => 'Catégories', 
 				'required' => false,
 				'expanded'  => false,
 				'multiple' => true
