@@ -33,6 +33,43 @@ $(document).ready(function() {
 	   $('.preview').popover('hide');
     });
     
+    // Saut entre les modales
+    $('[data-modal-jump]').click(function() {
+	   var jumpModal = '#'+$(this).attr('data-modal-jump');
+	   var currentModal = $(this).closest('.modal');
+//	   if ($(this).is('.modalJumpPrevious')) {
+//		  var animOut = 'animated bounceOutRight';
+//		  var animIn = 'animated bounceInLeft';
+//	   }
+//	   if ($(this).is('.modalJumpNext')) {
+//		  var animOut = 'animated bounceOutLeft';
+//		  var animIn = 'animated bounceInRight';
+//	   }
+//	   // On cache la barre de scrolling lorsqu'on montre la modal pour éviter le décallage en largeur du layout
+//	   $(currentModal).css('overflow', 'hidden');
+//	   $(currentModal).addClass(animOut); // On anime l'ancienne modale
+//	   $(currentModal).one('webkitAnimationEnd mozAnimationEnd MSAnimationEnd oanimationend animationend', function() {
+//		  // Lorsque l'animation est terminée
+//		  $(currentModal).removeClass(animOut); // On nettoie les classes
+		  $(currentModal).modal('hide'); // On cache la modale
+//		  $(currentModal).on('hidden.bs.modal', function (e) {
+//			 // Lorsque la modale est cachée
+//			 $(jumpModal).addClass(animIn); // On anime la suivante
+//			 $(jumpModal).one('webkitAnimationEnd mozAnimationEnd MSAnimationEnd oanimationend animationend', function() {
+//				// Lorsque l'animation est terminée
+//				$(jumpModal).removeClass(animIn); // On nettoie les classes
+				$(jumpModal).modal('show'); // On montre la modale
+//				// On cache la barre de scrolling lorsqu'on montre la modal pour éviter le décallage en largeur du layout
+//				$('body').css('overflow', 'hidden');
+//			 });
+//		  });
+//	   });
+    });
+    // On réaffiche la barre de scrolling lorsqu'on cache la modale
+//    $('.modal').on('hide.bs.modal', function() {
+//	   $('body').css('overflow', 'auto');
+//    });
+    
     // Surligne les mots clés de la recherche
     if (typeof keywords !== 'undefined') {
 	   $('.table.table-results tbody > tr, .modal.modal-results .modal-content').each(function(j, tr) {
