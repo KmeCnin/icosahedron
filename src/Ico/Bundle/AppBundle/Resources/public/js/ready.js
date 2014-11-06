@@ -79,7 +79,7 @@ $(document).ready(function() {
 				($(td).is('.panel') && $.inArray(index, keywords_contexts_modal) !== -1) ||
 				$(td).is('h4')
 			 ) {
-				console.log($(td));
+//				console.log($(td));
 				$.each(keywords, function(i, keyword) {
 				    var context = $(td).html();
 				    var regex = new RegExp('((?![^<]*>)'+keyword+')', "gi"); // On remplace uniquement le texte qui n'est pas dans les balises html
@@ -89,6 +89,17 @@ $(document).ready(function() {
 			 }
 		  });
 	   });
+    }
+    
+    // ouverture de la modale si besoin 
+    if (localStorage.getItem('openModal') !== null) {
+	   var index = localStorage.getItem('openModal');
+//	   if ($('.modal').length < index+1) {
+//		  $('.modal').last().modal('show');
+//	   } else {
+	   $('.modal').eq(index).modal('show');
+//	   }
+	   localStorage.removeItem('openModal');
     }
     
 });

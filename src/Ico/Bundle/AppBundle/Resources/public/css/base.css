@@ -54,6 +54,9 @@ a, a:hover, a:active, a:visited, .text-primary {
     color: #42A500;
     text-decoration: none !important;
 }
+a.btn {
+    color: white;
+}
 .chosen-container-multi .chosen-choices {
     cursor: text;
     height: auto !important;
@@ -122,4 +125,18 @@ mark {
 }
 .panel label {
     font-weight: bold;
+}
+.nav-modal {
+    display: table-row;
+}
+.nav-modal > div {
+    display: table-cell;
+}
+.nav-modal > div:first-child {
+    position: absolute;
+    left: 20px;
+}
+.nav-modal > div:last-child {
+    position: absolute;
+    right: 20px;
 }
