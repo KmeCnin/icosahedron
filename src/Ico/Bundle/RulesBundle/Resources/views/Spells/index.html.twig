@@ -28,6 +28,12 @@
 	   </fieldset>
     {{ form_end(filter) }}
 </div>
+
+{# display navigation #}
+<div class="navigation" style="text-align: center;">
+{{ knp_pagination_render(pagination) }}
+</div>
+
 <table class="table table-striped table-hover table-results">
     <tr>
 	   <th{% if pagination.isSorted('spell.Name') %} class="sorted"{% endif %}>{{ knp_pagination_sortable(pagination, 'Sort', 'spell.name') }}</th>
@@ -54,8 +60,8 @@
 </table>
 
     {# Modales #}
-    {% for spell in pagination %}
-<div class="modal fade modal-results" id="modal_spell_{{ spell.id }}" tabindex="-1" role="dialog" aria-labelledby="modal_spell_{{ spell.id }}" aria-hidden="true">
+    {% for key, spell in pagination %}
+<div class="modal modal-results" id="modal_spell_{{ spell.id }}" tabindex="-1" role="dialog" aria-labelledby="modal_spell_{{ spell.id }}" aria-hidden="true">
     <div class="modal-dialog modal-lg">
 	   <div class="modal-content">
 		  <div class="modal-header">
@@ -63,6 +69,23 @@
 			 <h4 class="modal-title" id="myModalLabel">{{ spell.name }} <small>[Sort]</small></h4>
 		  </div>
 		  <div class="modal-body">
+			 <div class="nav-modal">
+				<div>
+				    {% if pagination[key-1] is defined %}
+				    <button type="button" class="btn btn-default modalJumpPrevious" data-modal-jump="modal_feat_{{ pagination[key-1].id }}"><span class="glyphicon glyphicon-chevron-left"></span> {{ pagination[key-1].name }}</button>
+				    {% elseif app.request.get('page') > 1 %}
+				    <a href="{{ path(app.request.attributes.get('_route'), app.request.query.all|merge({'page': app.request.get('page')-1})) }}" type="button" class="btn btn-primary modalJumpNext pull-left" onclick="localStorage.setItem('openModal', {{ pagination|length -1 }});" ><span class="glyphicon glyphicon-chevron-left"></span> Page précédente</a>
+				    {% endif %}
+				</div>
+				<div>
+				    {% if pagination[key+1] is defined %}
+				    <button type="button" class="btn btn-default modalJumpNext" data-modal-jump="modal_spell_{{ pagination[key+1].id }}">{{ pagination[key+1].name }} <span class="glyphicon glyphicon-chevron-right"></span></button>
+				    {% elseif app.request.get('page')*50 < pagination.getTotalItemCount %}
+				    <a href="{{ path(app.request.attributes.get('_route'), app.request.query.all|merge({'page': app.request.get('page')+1})) }}" type="button" class="btn btn-primary modalJumpNext pull-right" onclick="localStorage.setItem('openModal', 0);" >Page suivante <span class="glyphicon glyphicon-chevron-right"></span></a>
+				    {% endif %}
+				</div>
+			 </div>
+			 <br /><br />
 			 {% include 'IcoRulesBundle:Spells:display.html.twig' with {'spell': spell} only %}
 		  </div>
 		  <div class="modal-footer">

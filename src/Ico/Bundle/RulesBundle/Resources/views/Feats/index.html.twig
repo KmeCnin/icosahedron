@@ -5,15 +5,15 @@
 <div class="well bs-component">
     
     {% if filter.keywords.vars.value is not empty %}
-    <script>
 	   {% set keywords = filter.keywords.vars.value|split(',') %}
+	   <script>
 		  var keywords_contexts_list = [0, 3]; // Index des colonnes où chercher les mots-clés à surligner dans la liste de résultats
 		  var keywords_contexts_modal = [0, 3]; // Index des colonnes où chercher les mots-clés à surligner dans la modale
 		  var keywords = new Array();
 	   {% for keyword in keywords %}
 		  keywords.push("{{ keyword|trim }}");
 	   {% endfor %}
-    </script>
+	   </script>
     {% endif %}
 	   
     {{ form_start(filter) }}
@@ -30,6 +30,7 @@
     {{ form_end(filter) }}
 	   <script>initChosen();</script>
 </div>
+
 {# display navigation #}
 <div class="navigation" style="text-align: center;">
 {{ knp_pagination_render(pagination) }}
@@ -69,14 +70,14 @@
 				<div>
 				    {% if pagination[key-1] is defined %}
 				    <button type="button" class="btn btn-default modalJumpPrevious" data-modal-jump="modal_feat_{{ pagination[key-1].id }}"><span class="glyphicon glyphicon-chevron-left"></span> {{ pagination[key-1].name }}</button>
-				    {% else %}
+				    {% elseif app.request.get('page') > 1 %}
 				    <a href="{{ path(app.request.attributes.get('_route'), app.request.query.all|merge({'page': app.request.get('page')-1})) }}" type="button" class="btn btn-primary modalJumpNext pull-left" onclick="localStorage.setItem('openModal', {{ pagination|length -1 }});" ><span class="glyphicon glyphicon-chevron-left"></span> Page précédente</a>
 				    {% endif %}
 				</div>
 				<div>
 				    {% if pagination[key+1] is defined %}
 				    <button type="button" class="btn btn-default modalJumpNext" data-modal-jump="modal_feat_{{ pagination[key+1].id }}">{{ pagination[key+1].name }} <span class="glyphicon glyphicon-chevron-right"></span></button>
-				    {% else %}
+				    {% elseif app.request.get('page')*50 < pagination.getTotalItemCount %}
 				    <a href="{{ path(app.request.attributes.get('_route'), app.request.query.all|merge({'page': app.request.get('page')+1})) }}" type="button" class="btn btn-primary modalJumpNext pull-right" onclick="localStorage.setItem('openModal', 0);" >Page suivante <span class="glyphicon glyphicon-chevron-right"></span></a>
 				    {% endif %}
 				</div>
