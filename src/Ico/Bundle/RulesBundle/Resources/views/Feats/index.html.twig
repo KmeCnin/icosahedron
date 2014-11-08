@@ -17,12 +17,10 @@
     {% endif %}
 	   
     {{ form_start(filter) }}
-	   <fieldset class="row">
-		  <legend class="col-xs-12">Recherche <small class="text-muted">(Total de {{ pagination.getTotalItemCount }} don{% if pagination.getTotalItemCount > 1 %}s{% endif %} trouvé{% if pagination.getTotalItemCount > 1 %}s{% endif %})</small> <button type="submit" class="btn btn-default btn-sm"><span class="fa fa-refresh"></span>Filtrer</button></legend>
-		  <div class="col-xs-4">
-			 {{ form_row(filter.keywords) }}
-		  </div>
-		  <div class="col-xs-4 select-multiple-wrapper">
+	   <fieldset>
+		  <legend>Recherche <small class="text-muted">(Total de {{ pagination.getTotalItemCount }} don{% if pagination.getTotalItemCount > 1 %}s{% endif %} trouvé{% if pagination.getTotalItemCount > 1 %}s{% endif %})</small> <button type="submit" class="btn btn-default btn-sm"><span class="fa fa-refresh"></span>Filtrer</button></legend>
+		  {{ form_row(filter.keywords) }}
+		  <div class="select-multiple-wrapper">
 			 {{ form_widget(filter.featTypesType) }}
 			 {{ form_row(filter.featTypes) }}
 		  </div>
@@ -57,6 +55,13 @@
 	   {% endfor %}
 </table>
     {# Modales #}
+
+    {% if app.request.get('page') > 0 %}
+	   {% set currentPage = app.request.get('page') %}
+    {% else %}
+	   {% set currentPage = 1 %}
+    {% endif %}
+
     {% for key, feat in pagination %}
 <div class="modal modal-results" id="modal_feat_{{ feat.id }}" tabindex="-1" role="dialog" aria-labelledby="modal_feat_{{ feat.id }}" aria-hidden="true">
     <div class="modal-dialog modal-lg">
@@ -70,15 +75,15 @@
 				<div>
 				    {% if pagination[key-1] is defined %}
 				    <button type="button" class="btn btn-default modalJumpPrevious" data-modal-jump="modal_feat_{{ pagination[key-1].id }}"><span class="glyphicon glyphicon-chevron-left"></span> {{ pagination[key-1].name }}</button>
-				    {% elseif app.request.get('page') > 1 %}
-				    <a href="{{ path(app.request.attributes.get('_route'), app.request.query.all|merge({'page': app.request.get('page')-1})) }}" type="button" class="btn btn-primary modalJumpNext pull-left" onclick="localStorage.setItem('openModal', {{ pagination|length -1 }});" ><span class="glyphicon glyphicon-chevron-left"></span> Page précédente</a>
+				    {% elseif currentPage > 1 %}
+				    <a href="{{ path(app.request.attributes.get('_route'), app.request.query.all|merge({'page': currentPage-1})) }}" type="button" class="btn btn-primary modalJumpNext pull-left" onclick="localStorage.setItem('openModal', {{ pagination|length -1 }});" ><span class="glyphicon glyphicon-chevron-left"></span> Page précédente</a>
 				    {% endif %}
 				</div>
 				<div>
 				    {% if pagination[key+1] is defined %}
 				    <button type="button" class="btn btn-default modalJumpNext" data-modal-jump="modal_feat_{{ pagination[key+1].id }}">{{ pagination[key+1].name }} <span class="glyphicon glyphicon-chevron-right"></span></button>
-				    {% elseif app.request.get('page')*50 < pagination.getTotalItemCount %}
-				    <a href="{{ path(app.request.attributes.get('_route'), app.request.query.all|merge({'page': app.request.get('page')+1})) }}" type="button" class="btn btn-primary modalJumpNext pull-right" onclick="localStorage.setItem('openModal', 0);" >Page suivante <span class="glyphicon glyphicon-chevron-right"></span></a>
+				    {% elseif currentPage*50 < pagination.getTotalItemCount %}
+				    <a href="{{ path(app.request.attributes.get('_route'), app.request.query.all|merge({'page': currentPage+1})) }}" type="button" class="btn btn-primary modalJumpNext pull-right" onclick="localStorage.setItem('openModal', 0);" >Page suivante <span class="glyphicon glyphicon-chevron-right"></span></a>
 				    {% endif %}
 				</div>
 			 </div>

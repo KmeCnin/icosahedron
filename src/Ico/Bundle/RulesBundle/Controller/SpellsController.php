@@ -25,56 +25,51 @@ class SpellsController extends Controller
 				'required' => false,
 				'expanded'  => false
 			 ))
-//			 ->add('featTypesType', 'choice', array(
-//				'choices' => array(
-//				    'or' => 'Contien au moins une',
-//				    'and' => 'Contien toutes',
-//				    'not' => 'Ne contien aucune'
-//				),
-//				'empty_value' => false,
-//				'required' => false
-//			 ))
-//			 ->add('description', 'text', array('label' => 'Description', 'required' => false, 'attr' => array('placeholder' => 'Mots-clés')))
+			 ->add('spellLevel', 'choice', array(
+				'label' => 'Niveau', 
+				'choices' => array(
+				    10 => '',
+				    0 => '0',
+				    1 => '1',
+				    2 => '2',
+				    3 => '3',
+				    4 => '4',
+				    5 => '5',
+				    6 => '6',
+				    7 => '7',
+				    8 => '8',
+				    9 => '9'
+				),
+				'empty_value' => false,
+				'required' => false
+			 ))
+			 ->add('spellList', 'entity', array(
+				'class' => 'IcoRulesBundle:SpellList',
+				'property' => 'name',
+				'label' => 'Liste de sorts', 
+				'required' => false,
+				'expanded'  => false
+			 ))
 			 ->getForm();
 	   $filter->handleRequest($request);
 	   
 	   $queryBuilder = $this->getDoctrine()
 			 ->getRepository('IcoRulesBundle:Spell')
 			 ->createQueryBuilder('spell')
-			 ->leftJoin('spell.spellSchool', 'spellSchool');
+			 ->leftJoin('spell.spellSchool', 'spellSchool')
+			 ->leftJoin('spell.spellListsLevels', 'spellListsLevels');
 	   $parameters = array();
 	   
 	   if ($filter->isValid()) {
 		  $data = $filter->getData();
-//		  if ($data['featTypesType'] == 'or') {
-//			 
-//			 $queryBuilder->leftJoin('feat.featTypes', 'type');
-//			 foreach ($data['featTypes'] as $key => $type) {
-//				$queryBuilder->orWhere('type.id = :type'.$key);
-//				$parameters['type'.$key] = $type;
-//			 }
-//			 
-//		  } elseif ($data['featTypesType'] == 'and') {
-//			 
-//			 $queryBuilder->leftJoin('feat.featTypes', 'type');
-//			 $where = array();
-//			 foreach ($data['featTypes'] as $key => $type) {
-//				$where[] = ':type'.$key.' MEMBER OF feat.featTypes';
-//				$parameters['type'.$key] = $type;
-//			 }
-//			 $queryBuilder->andWhere(implode(' AND ', $where));
-//			 
-//		  } elseif ($data['featTypesType'] == 'not') {
-//			 
-//			 $queryBuilder->leftJoin('feat.featTypes', 'type');
-//			 $where = array();
-//			 foreach ($data['featTypes'] as $key => $type) {
-//				$where[] = ':type'.$key.' NOT MEMBER OF feat.featTypes';
-//				$parameters['type'.$key] = $type;
-//			 }
-//			 $queryBuilder->andWhere(implode(' AND ', $where));
-//			 
-//		  }
+		  if (!empty($data['spellList'])) {
+			 $queryBuilder->andWhere('spellListsLevels.spellList = :spellList');
+			 $parameters['spellList'] = $data['spellList']->getId();
+		  }	
+		  if ($data['spellLevel'] != 10) {
+			 $queryBuilder->andWhere('spellListsLevels.level = :spellLevel');
+			 $parameters['spellLevel'] = $data['spellLevel'];
+		  }	
 		  if (!empty($data['spellSchool'])) {
 			 $queryBuilder->andWhere('spellSchool.id = :spellSchool');
 			 $parameters['spellSchool'] = $data['spellSchool']->getId();

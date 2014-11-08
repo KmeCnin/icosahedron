@@ -140,3 +140,19 @@ mark {
     position: absolute;
     right: 20px;
 }
+.form_row.form-group {
+    display: inline-block;
+    margin-right: 20px;
+}
+.select-multiple-wrapper {
+    display: inline-block;
+    position: relative;
+    top: -1px;
+}
+.select-multiple-wrapper .form_row.form-group {
+    display: block;
+    margin-right: 0px;
+}
+#form_keywords, .select-multiple-wrapper {
+    width: 300px;
+}
