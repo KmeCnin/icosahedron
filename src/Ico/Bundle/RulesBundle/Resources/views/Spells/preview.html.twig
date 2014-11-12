@@ -27,6 +27,7 @@
 	   <br />
     {% endif %}
     <span class="text-muted">Cible : </span> {{ spell.target }}<br />
+    <span class="text-muted">Durée : </span> {{ spell.duration|environment|raw }}<br />
     <span class="text-muted">Jet de sauvegarde : </span> 
     {% if spell.savingThrow is not null %}
 	   <span class="text-primary text-nowrap">{{ spell.savingThrow.short }}</span>, 
