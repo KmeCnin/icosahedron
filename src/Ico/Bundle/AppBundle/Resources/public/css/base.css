@@ -57,6 +57,10 @@ a, a:hover, a:active, a:visited, .text-primary {
 a.btn {
     color: white;
 }
+a.disabled, a.disabled:hover {
+    color: inherit;
+    cursor: text;
+}
 .chosen-container-multi .chosen-choices {
     cursor: text;
     height: auto !important;

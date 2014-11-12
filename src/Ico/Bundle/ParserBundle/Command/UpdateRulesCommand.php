@@ -129,7 +129,7 @@ EOT
 	   }
 	   $em->flush();
 	   $this->output->writeln(sprintf("<info>Links created.</info>"));
-	   file_put_contents('D:/wamp/www/all_url_used.txt', print_r($this->listUrlUsed, true));
+//	   file_put_contents('D:/wamp/www/all_url_used.txt', print_r($this->listUrlUsed, true));
     }
 
     private function encode($string) {
@@ -435,7 +435,7 @@ EOT
 	   $kernel = $this->getContainer()->get('kernel');
 	   $application = new \Symfony\Bundle\FrameworkBundle\Console\Application($kernel);
 	   $application->setAutoExit(false);
-	   // Les fixtures sont chargÃ©es Ã  la suite des donnÃ©es existentes, pour Ã©viter les doublons, il faut s'assurer d'appeler truncateTable() de toutes les tables concernÃ©es.
+	   // Les fixtures sont chargées à la suite des données existentes, pour Ã©viter les doublons, il faut s'assurer d'appeler truncateTable() de toutes les tables concernées.
 	   $options = array('command' => 'doctrine:fixtures:load', "--append" => true);
 	   $application->run(new \Symfony\Component\Console\Input\ArrayInput($options));
     }
@@ -454,7 +454,7 @@ EOT
 
     private function updateFeatPrerequisites() {
 
-	   // Mise Ã  jour des liens entre les dons
+	   // Mise à jour des liens entre les dons
 	   foreach ($this->metadatas as $metadatas) {
 		  foreach ($metadatas as $metadata) {
 
@@ -550,8 +550,8 @@ EOT
 	   // Les fichiers sont nommés en se basant sur le nom de la page, en remplaçant les espaces par des tirets et en mettant en majuscule la première lettre de chaque mot
 	   $convertedName = rawurlencode(mb_convert_encoding($fileName, 'UTF-8', 'Windows-1252'));
 	   $spacedName = preg_replace('/-/', ' ', $convertedName);
-//	   $uppercasedUrl = strtolower($spacedName);
-	   $ashxedUrl = preg_replace('/xml/', 'ashx', $spacedName);
+	   $lowercasedUrl = strtolower($spacedName);
+	   $ashxedUrl = preg_replace('/xml/', 'ashx', $lowercasedUrl);
 	   $prefixedUrl = 'Pathfinder-RPG.'.$ashxedUrl;
 	   $normalizedUrl = preg_replace('/ /', '%20', $prefixedUrl);
 	   return $normalizedUrl;
@@ -599,6 +599,7 @@ EOT
 				}
 			 }
 		  }
+//		  file_put_contents('D:/wamp/www/urlTranslator.txt', print_r($this->urlTranslator, true));
 	   }
     }
 

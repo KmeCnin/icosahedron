@@ -1,5 +1,11 @@
 $(document).ready(function() {
     
+    // Inactive le clik sur les liens qui ne sont pas encore traduits en url locale
+    $('.preview[href^=Pathfinder]').addClass('disabled');
+    $('.preview[href^=Pathfinder]').click(function() {
+	   return false;
+    });
+    
     // Initialisation des select multiples avec Chosen
     $('select[multiple]').chosen();
     $('.chosen-choices').addClass('form-control');
