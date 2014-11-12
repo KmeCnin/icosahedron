@@ -26,6 +26,7 @@
 		  <br />
 	   {% endif %}
 	   <label>Cible : </label> {{ spell.target }}<br />
+	   <label>Durée : </label> {{ spell.duration|environment|raw }}<br />
 	   <label>Jet de sauvegarde : </label> 
 	   {% if spell.savingThrow is not null %}
 		  <a class="preview" href="{{ path('ico_rules_savingthrows_view', {'id': spell.savingThrow.id}) }}">{{ spell.savingThrow.name }}</a>, 

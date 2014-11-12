@@ -110,6 +110,13 @@ class Spell
     protected $rangeSpecial;
     
     /**
+	* @var string
+     * 
+     * @ORM\Column(name="duration", type="string", length=255, nullable=true)
+	*/
+    protected $duration;
+    
+    /**
 	* @ORM\ManyToOne(targetEntity="SavingThrow", cascade={"persist", "remove"})
 	*/
     protected $savingThrow;
@@ -553,5 +560,28 @@ class Spell
     public function getSavingThrowSpecial()
     {
         return $this->savingThrowSpecial;
+    }
+
+    /**
+     * Set duration
+     *
+     * @param string $duration
+     * @return Spell
+     */
+    public function setDuration($duration)
+    {
+        $this->duration = $duration;
+
+        return $this;
+    }
+
+    /**
+     * Get duration
+     *
+     * @return string 
+     */
+    public function getDuration()
+    {
+        return $this->duration;
     }
 }

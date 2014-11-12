@@ -124,6 +124,7 @@ EOT
 		  ->findAll();
 	   foreach($spells as $spell) {
 		  $spell->setDetail($this->replaceWithMyLinks($spell->getDetail()));
+		  $spell->setDuration($this->replaceWithMyLinks($spell->getDuration()));
 		  $em->persist($spell);
 	   }
 	   $em->flush();
@@ -331,6 +332,14 @@ EOT
 		  $rawDescription = $fragments[1];
 //		  $rawDescription = substr($rawDescription, 0, -10); // Suppression de la fin du html résiduel
 		  $spell->setDetail('<div>'.$rawDescription);
+		  
+		  // Récupération de la durée
+		  $results = array();
+		  preg_match('/<b>Durée<\/b>(.*)<\s?\/?br\s?\/?>/U', $htmlDescrition, $results);
+		  if (!isset($results[1])) {
+			 preg_match('/<b>Durée<\/b>(.*)/', $htmlDescrition, $results);
+		  }
+		  $spell->setDuration($results[1]);
 		  
 		  $em->persist($spell);
 		  // On flush si jamais le buffer est trop rempli pour éviter un dépacement de mémoire
@@ -560,7 +569,16 @@ EOT
 	   }
 	   foreach ($pages as $page) {
 		  // Url exceptionnelles
-//		  $this->urlTranslator['Pathfinder-RPG.round.ashx'] = $this->root.$this->getContainer()->get('router')->generate('ico_rules_'.$entityName.'_view', array('id' => $entity->getId()));
+		  $specials_urls = array(
+			 array(
+				'raw' => 'round',
+				'route' => 'battleunits',
+				'id' => 7
+			 )
+		  );
+		  foreach ($specials_urls as $data) {
+			 $this->urlTranslator['Pathfinder-RPG.'.$data['raw'].'.ashx'] = $this->root.$this->getContainer()->get('router')->generate('ico_rules_'.$data['route'].'_view', array('id' => $data['id']));
+		  }
 		  // Url correspondant à des fichiers
 		  $crawler = new Crawler;
 		  $crawler->addHTMLContent(file_get_contents($path.$page), 'UTF-8');

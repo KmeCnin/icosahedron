@@ -77,7 +77,7 @@
 			 <div class="nav-modal">
 				<div>				    
 				    {% if pagination[key-1] is defined %}
-				    <button type="button" class="btn btn-default modalJumpPrevious" data-modal-jump="modal_feat_{{ pagination[key-1].id }}"><span class="glyphicon glyphicon-chevron-left"></span> {{ pagination[key-1].name }}</button>
+				    <button type="button" class="btn btn-default modalJumpPrevious" data-modal-jump="modal_spell_{{ pagination[key-1].id }}"><span class="glyphicon glyphicon-chevron-left"></span> {{ pagination[key-1].name }}</button>
 				    {% elseif currentPage > 1 %}
 				    <a href="{{ path(app.request.attributes.get('_route'), app.request.query.all|merge({'page': currentPage-1})) }}" type="button" class="btn btn-primary modalJumpPrevious pull-left" onclick="localStorage.setItem('openModal', {{ pagination|length -1 }});" ><span class="glyphicon glyphicon-chevron-left"></span> Page précédente</a>
 				    {% endif %}

@@ -61,8 +61,8 @@ Le personnage peut effectuer certaines actions complexes en tant qu'actions simp
 			 'nameId' => 'round',
 			 'name' => 'round',
 			 'plurial' => 'rounds',
-			 'description' => "",
-			 'detail' => ""
+			 'description' => "Les combats sont mesurés en rounds. Au cours d’un round, chacune des créatures présentes a l’occasion d’agir à son tour, dans l’ordre des initiatives. Un round représente six secondes dans le monde de jeu",
+			 'detail' => "Les combats sont mesurés en rounds. Au cours d’un round, chacune des créatures présentes a l’occasion d’agir à son tour, dans l’ordre des initiatives. Un round représente six secondes dans le monde de jeu"
 		  ),
 		  array(
 			 'nameId' => 'minute',
