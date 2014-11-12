@@ -1,5 +1,7 @@
 $(document).ready(function() {
     
+    // Ajout de target blank sur tous les liens preview
+    $('.preview').attr('target', '_blank');
     // Inactive le clik sur les liens qui ne sont pas encore traduits en url locale
     $('.preview[href^=Pathfinder]').addClass('disabled');
     $('.preview[href^=Pathfinder]').click(function() {

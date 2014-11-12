@@ -3,17 +3,18 @@
 namespace Ico\Bundle\ParserBundle\Command;
 
 use Symfony\Bundle\FrameworkBundle\Command\ContainerAwareCommand;
-use Symfony\Component\Console\Input\InputArgument;
+//use Symfony\Component\Console\Input\InputArgument;
 use Symfony\Component\Console\Input\InputInterface;
 use Symfony\Component\Console\Input\InputOption;
 use Symfony\Component\Console\Output\OutputInterface;
 use Symfony\Component\DomCrawler\Crawler;
-use Symfony\Component\HttpFoundation\Request;
+//use Symfony\Component\HttpFoundation\Request;
 use Ico\Bundle\RulesBundle\Entity\Feat;
 use Ico\Bundle\RulesBundle\Entity\FeatPrerequisite;
 use Ico\Bundle\RulesBundle\Entity\Spell;
 use Ico\Bundle\RulesBundle\Entity\SpellListLevel;
 use Ico\Bundle\RulesBundle\Entity\BattleTime;
+use Ico\Bundle\RulesBundle\Entity\Link;
 
 class UpdateRulesCommand extends ContainerAwareCommand {
 
@@ -247,8 +248,21 @@ EOT
 		  $this->current_spell = $node->attr('id');
 		  $spell->setNameId($this->nameIdFromName($node->filter('name')->text()));
 		  $spell->setName($node->filter('name')->text());
-		  $wikiUrl = $this->normalizeWikiUrl($node->filter('reference')->eq(0)->attr('href'));
-		  $spell->setWiki($wikiUrl);
+		  $references = array();
+		  $references = $node->filter('reference')->each(function(Crawler $ref) {
+			 return $ref->attr('href');
+		  });
+		  $wikiUrl = $this->normalizeWikiUrl($references[0]);
+		  foreach ($references as $url) {
+			 $data = parse_url($url);
+			 $source = $this->getDoctrine()
+				    ->getRepository('IcoRulesBundle:LinkSource')
+				    ->findOneByDomain($data['host']);
+			 $link = new Link();
+			 $link->setSource($source);
+			 $link->setUrl($url);
+			 $spell->addLink($link);
+		  }
 		  if ($node->filter('summary')->count() > 0) {
 			 $spell->setDescription($node->filter('summary')->text());
 		  } else {
@@ -400,7 +414,7 @@ EOT
 
     public function getTablesToTruncate() {
 
-	   // Tables Ã  vider toujours (car elles sont rechargÃ©es par les fixtures)
+	   // Tables à vider toujours (car elles sont rechargées par les fixtures)
 	   $tablesToTruncate = array(
 		  'IcoRulesBundle:FeatType',
 		  'IcoRulesBundle:SpellSchool',
@@ -410,7 +424,8 @@ EOT
 		  'IcoRulesBundle:BattleRange',
 		  'IcoRulesBundle:SavingThrow',
 		  'IcoRulesBundle:SavingThrowEffect',
-		  'IcoRulesBundle:SpellTargetType'
+		  'IcoRulesBundle:SpellTargetType',
+		  'IcoRulesBundle:LinkSource'
 	   );
 	   // Tables à vider seulement si on synchronise les dons
 	   if ($this->updateFeats) {
@@ -425,6 +440,7 @@ EOT
 		  $tablesToTruncate[] = 'IcoRulesBundle:BattleTime';
 		  $tablesToTruncate[] = 'spell_spellcomponent';
 		  $tablesToTruncate[] = 'spell_spelllistlevel';
+		  $tablesToTruncate[] = 'spell_link';
 	   }
 
 	   return $tablesToTruncate;

@@ -34,13 +34,11 @@ class Spell
      * @ORM\Column(name="name", type="string", length=255)
      */
     private $name;
-
+    
     /**
-     * @var string
-     *
-     * @ORM\Column(name="wiki", type="string", length=255)
+     * @ORM\ManyToMany(targetEntity="Link", cascade={"remove", "persist"})
      */
-    private $wiki;
+    protected $links;
 
     /**
      * @var string
@@ -198,29 +196,6 @@ class Spell
     }
 
     /**
-     * Set wiki
-     *
-     * @param string $wiki
-     * @return Spell
-     */
-    public function setWiki($wiki)
-    {
-        $this->wiki = $wiki;
-
-        return $this;
-    }
-
-    /**
-     * Get wiki
-     *
-     * @return string 
-     */
-    public function getWiki()
-    {
-        return $this->wiki;
-    }
-
-    /**
      * Set description
      *
      * @param string $description
@@ -244,6 +219,29 @@ class Spell
     }
 
     /**
+     * Set detail
+     *
+     * @param string $detail
+     * @return Spell
+     */
+    public function setDetail($detail)
+    {
+        $this->detail = $detail;
+
+        return $this;
+    }
+
+    /**
+     * Get detail
+     *
+     * @return string 
+     */
+    public function getDetail()
+    {
+        return $this->detail;
+    }
+
+    /**
      * Set target
      *
      * @param string $target
@@ -264,6 +262,154 @@ class Spell
     public function getTarget()
     {
         return $this->target;
+    }
+
+    /**
+     * Set materialComponent
+     *
+     * @param string $materialComponent
+     * @return Spell
+     */
+    public function setMaterialComponent($materialComponent)
+    {
+        $this->materialComponent = $materialComponent;
+
+        return $this;
+    }
+
+    /**
+     * Get materialComponent
+     *
+     * @return string 
+     */
+    public function getMaterialComponent()
+    {
+        return $this->materialComponent;
+    }
+
+    /**
+     * Set castingTimeSpecial
+     *
+     * @param string $castingTimeSpecial
+     * @return Spell
+     */
+    public function setCastingTimeSpecial($castingTimeSpecial)
+    {
+        $this->castingTimeSpecial = $castingTimeSpecial;
+
+        return $this;
+    }
+
+    /**
+     * Get castingTimeSpecial
+     *
+     * @return string 
+     */
+    public function getCastingTimeSpecial()
+    {
+        return $this->castingTimeSpecial;
+    }
+
+    /**
+     * Set rangeSpecial
+     *
+     * @param string $rangeSpecial
+     * @return Spell
+     */
+    public function setRangeSpecial($rangeSpecial)
+    {
+        $this->rangeSpecial = $rangeSpecial;
+
+        return $this;
+    }
+
+    /**
+     * Get rangeSpecial
+     *
+     * @return string 
+     */
+    public function getRangeSpecial()
+    {
+        return $this->rangeSpecial;
+    }
+
+    /**
+     * Set duration
+     *
+     * @param string $duration
+     * @return Spell
+     */
+    public function setDuration($duration)
+    {
+        $this->duration = $duration;
+
+        return $this;
+    }
+
+    /**
+     * Get duration
+     *
+     * @return string 
+     */
+    public function getDuration()
+    {
+        return $this->duration;
+    }
+
+    /**
+     * Set savingThrowSpecial
+     *
+     * @param string $savingThrowSpecial
+     * @return Spell
+     */
+    public function setSavingThrowSpecial($savingThrowSpecial)
+    {
+        $this->savingThrowSpecial = $savingThrowSpecial;
+
+        return $this;
+    }
+
+    /**
+     * Get savingThrowSpecial
+     *
+     * @return string 
+     */
+    public function getSavingThrowSpecial()
+    {
+        return $this->savingThrowSpecial;
+    }
+
+    /**
+     * Add links
+     *
+     * @param \Ico\Bundle\RulesBundle\Entity\Link $links
+     * @return Spell
+     */
+    public function addLink(\Ico\Bundle\RulesBundle\Entity\Link $links)
+    {
+        $this->links[] = $links;
+
+        return $this;
+    }
+
+    /**
+     * Remove links
+     *
+     * @param \Ico\Bundle\RulesBundle\Entity\Link $links
+     */
+    public function removeLink(\Ico\Bundle\RulesBundle\Entity\Link $links)
+    {
+        $this->links->removeElement($links);
+    }
+
+    /**
+     * Get links
+     *
+     * @return \Doctrine\Common\Collections\Collection 
+     */
+    public function getLinks()
+    {
+        return $this->links;
     }
 
     /**
@@ -356,75 +502,6 @@ class Spell
     }
 
     /**
-     * Set detail
-     *
-     * @param string $detail
-     * @return Spell
-     */
-    public function setDetail($detail)
-    {
-        $this->detail = $detail;
-
-        return $this;
-    }
-
-    /**
-     * Get detail
-     *
-     * @return string 
-     */
-    public function getDetail()
-    {
-        return $this->detail;
-    }
-
-    /**
-     * Set materialComponent
-     *
-     * @param string $materialComponent
-     * @return Spell
-     */
-    public function setMaterialComponent($materialComponent)
-    {
-        $this->materialComponent = $materialComponent;
-
-        return $this;
-    }
-
-    /**
-     * Get materialComponent
-     *
-     * @return string 
-     */
-    public function getMaterialComponent()
-    {
-        return $this->materialComponent;
-    }
-
-    /**
-     * Set castingTimeSpecial
-     *
-     * @param string $castingTimeSpecial
-     * @return Spell
-     */
-    public function setCastingTimeSpecial($castingTimeSpecial)
-    {
-        $this->castingTimeSpecial = $castingTimeSpecial;
-
-        return $this;
-    }
-
-    /**
-     * Get castingTimeSpecial
-     *
-     * @return string 
-     */
-    public function getCastingTimeSpecial()
-    {
-        return $this->castingTimeSpecial;
-    }
-
-    /**
      * Set castingTime
      *
      * @param \Ico\Bundle\RulesBundle\Entity\BattleTime $castingTime
@@ -445,29 +522,6 @@ class Spell
     public function getCastingTime()
     {
         return $this->castingTime;
-    }
-
-    /**
-     * Set rangeSpecial
-     *
-     * @param string $rangeSpecial
-     * @return Spell
-     */
-    public function setRangeSpecial($rangeSpecial)
-    {
-        $this->rangeSpecial = $rangeSpecial;
-
-        return $this;
-    }
-
-    /**
-     * Get rangeSpecial
-     *
-     * @return string 
-     */
-    public function getRangeSpecial()
-    {
-        return $this->rangeSpecial;
     }
 
     /**
@@ -537,51 +591,5 @@ class Spell
     public function getSavingThrowEffect()
     {
         return $this->savingThrowEffect;
-    }
-
-    /**
-     * Set savingThrowSpecial
-     *
-     * @param string $savingThrowSpecial
-     * @return Spell
-     */
-    public function setSavingThrowSpecial($savingThrowSpecial)
-    {
-        $this->savingThrowSpecial = $savingThrowSpecial;
-
-        return $this;
-    }
-
-    /**
-     * Get savingThrowSpecial
-     *
-     * @return string 
-     */
-    public function getSavingThrowSpecial()
-    {
-        return $this->savingThrowSpecial;
-    }
-
-    /**
-     * Set duration
-     *
-     * @param string $duration
-     * @return Spell
-     */
-    public function setDuration($duration)
-    {
-        $this->duration = $duration;
-
-        return $this;
-    }
-
-    /**
-     * Get duration
-     *
-     * @return string 
-     */
-    public function getDuration()
-    {
-        return $this->duration;
     }
 }

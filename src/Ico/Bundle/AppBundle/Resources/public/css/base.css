@@ -160,3 +160,15 @@ mark {
 #form_keywords, .select-multiple-wrapper {
     width: 300px;
 }
+.modal-header .btn-group {
+    float: right;
+    margin-right: 15px;
+    position: relative;
+    top: -5px;
+}
+a.ninja {
+    color: #555555;
+    font-weight: normal;
+    text-decoration: none;
+    font-style: normal;
+}

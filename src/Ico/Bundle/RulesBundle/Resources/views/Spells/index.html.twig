@@ -71,7 +71,18 @@
 	   <div class="modal-content">
 		  <div class="modal-header">
 			 <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Fermer</span></button>
-			 <h4 class="modal-title" id="myModalLabel">{{ spell.name }} <small>[Sort]</small></h4>
+			 <div class="btn-group">
+				<span href="#" class="btn btn-default dropdown-toggle" data-toggle="dropdown" aria-expanded="false">
+				    Liens complémentaires
+				    <span class="caret"></span>
+				</span>
+				<ul class="dropdown-menu">
+				    {% for link in spell.links %}
+				    <li><a target="_blank" href="{{ link.url }}">{{ link.source.name }} [{{ link.source.language }}]</a></li>
+				    {% endfor %}
+				</ul>
+			 </div>
+			 <h4 class="modal-title" id="myModalLabel"><a target="_blank" class="ninja" href="{{ path('ico_rules_spell_view', {'id': spell.id}) }}">{{ spell.name }} <small>[Sort]</small></a></h4>
 		  </div>
 		  <div class="modal-body">
 			 <div class="nav-modal">
