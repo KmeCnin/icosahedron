@@ -7,7 +7,7 @@ use Doctrine\ORM\Mapping as ORM;
 /**
  * BattleTime
  *
- * @ORM\Table()
+ * @ORM\Table(name="battletime")
  * @ORM\Entity(repositoryClass="Ico\Bundle\RulesBundle\Repository\BattleTimeRepository")
  */ 
 class BattleTime

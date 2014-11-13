@@ -7,7 +7,7 @@ use Doctrine\ORM\Mapping as ORM;
 /**
  * Feat
  *
- * @ORM\Table()
+ * @ORM\Table(name="feat")
  * @ORM\Entity(repositoryClass="Ico\Bundle\RulesBundle\Repository\FeatRepository")
  */ 
 class Feat
@@ -34,13 +34,11 @@ class Feat
      * @ORM\Column(name="name", type="string", length=255)
      */
     private $name;
-
+    
     /**
-     * @var string
-     *
-     * @ORM\Column(name="wiki", type="string", length=255)
+     * @ORM\ManyToMany(targetEntity="Link", cascade={"remove", "persist"})
      */
-    private $wiki;
+    protected $links;
 
     /**
      * @var string
@@ -89,6 +87,29 @@ class Feat
     }
 
     /**
+     * Set nameId
+     *
+     * @param string $nameId
+     * @return Feat
+     */
+    public function setNameId($nameId)
+    {
+        $this->nameId = $nameId;
+
+        return $this;
+    }
+
+    /**
+     * Get nameId
+     *
+     * @return string 
+     */
+    public function getNameId()
+    {
+        return $this->nameId;
+    }
+
+    /**
      * Set name
      *
      * @param string $name
@@ -109,29 +130,6 @@ class Feat
     public function getName()
     {
         return $this->name;
-    }
-
-    /**
-     * Set wiki
-     *
-     * @param string $wiki
-     * @return Feat
-     */
-    public function setWiki($wiki)
-    {
-        $this->wiki = $wiki;
-
-        return $this;
-    }
-
-    /**
-     * Get wiki
-     *
-     * @return string 
-     */
-    public function getWiki()
-    {
-        return $this->wiki;
     }
 
     /**
@@ -181,6 +179,39 @@ class Feat
     }
 
     /**
+     * Add links
+     *
+     * @param \Ico\Bundle\RulesBundle\Entity\Link $links
+     * @return Feat
+     */
+    public function addLink(\Ico\Bundle\RulesBundle\Entity\Link $links)
+    {
+        $this->links[] = $links;
+
+        return $this;
+    }
+
+    /**
+     * Remove links
+     *
+     * @param \Ico\Bundle\RulesBundle\Entity\Link $links
+     */
+    public function removeLink(\Ico\Bundle\RulesBundle\Entity\Link $links)
+    {
+        $this->links->removeElement($links);
+    }
+
+    /**
+     * Get links
+     *
+     * @return \Doctrine\Common\Collections\Collection 
+     */
+    public function getLinks()
+    {
+        return $this->links;
+    }
+
+    /**
      * Add featTypes
      *
      * @param \Ico\Bundle\RulesBundle\Entity\FeatType $featTypes
@@ -211,29 +242,6 @@ class Feat
     public function getFeatTypes()
     {
         return $this->featTypes;
-    }
-
-    /**
-     * Set nameId
-     *
-     * @param string $nameId
-     * @return Feat
-     */
-    public function setNameId($nameId)
-    {
-        $this->nameId = $nameId;
-
-        return $this;
-    }
-
-    /**
-     * Get nameId
-     *
-     * @return string 
-     */
-    public function getNameId()
-    {
-        return $this->nameId;
     }
 
     /**

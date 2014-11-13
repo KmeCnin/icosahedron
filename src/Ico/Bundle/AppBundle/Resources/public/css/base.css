@@ -184,3 +184,16 @@ a > img.thumbnail {
     position: relative;
     top: -3px;
 }
+#vTag {
+    position: absolute;
+    top: 35px;
+    margin-left: 70px;
+    transform: rotate(-5deg);
+    background-color: #42A500;
+    color: white;
+    padding: 3px 10px;
+    font-size: 14px;
+    border-radius: 5px;
+    /*border: 1px solid #3B9400;*/
+    border-bottom: 3px solid #3B9400;
+}

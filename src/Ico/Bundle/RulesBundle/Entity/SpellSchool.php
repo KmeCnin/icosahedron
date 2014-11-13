@@ -7,7 +7,7 @@ use Doctrine\ORM\Mapping as ORM;
 /**
  * SpellSchool
  *
- * @ORM\Table()
+ * @ORM\Table(name="spellschool")
  * @ORM\Entity(repositoryClass="Ico\Bundle\RulesBundle\Repository\SpellSchoolRepository")
  */ 
 class SpellSchool

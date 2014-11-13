@@ -7,7 +7,7 @@ use Doctrine\ORM\Mapping as ORM;
 /**
  * LinkSource
  *
- * @ORM\Table()
+ * @ORM\Table(name="linksource")
  * @ORM\Entity(repositoryClass="Ico\Bundle\RulesBundle\Repository\LinkSourceRepository")
  */ 
 class LinkSource

@@ -7,7 +7,7 @@ use Doctrine\ORM\Mapping as ORM;
 /**
  * FeatType
  *
- * @ORM\Table()
+ * @ORM\Table(name="feattype")
  * @ORM\Entity(repositoryClass="Ico\Bundle\RulesBundle\Repository\FeatTypeRepository")
  */ 
 class FeatType

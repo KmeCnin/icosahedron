@@ -88,16 +88,16 @@
 			 <div class="nav-modal">
 				<div>				    
 				    {% if pagination[key-1] is defined %}
-				    <button type="button" class="btn btn-default modalJumpPrevious" data-modal-jump="modal_spell_{{ pagination[key-1].id }}"><span class="glyphicon glyphicon-chevron-left"></span> {{ pagination[key-1].name }}</button>
+				    <button type="button" class="btn btn-default modalJumpPrevious" data-modal-jump="modal_spell_{{ pagination[key-1].id }}"><span class="fa fa-chevron-left"></span> {{ pagination[key-1].name }}</button>
 				    {% elseif currentPage > 1 %}
-				    <a href="{{ path(app.request.attributes.get('_route'), app.request.query.all|merge({'page': currentPage-1})) }}" type="button" class="btn btn-primary modalJumpPrevious pull-left" onclick="localStorage.setItem('openModal', {{ pagination|length -1 }});" ><span class="glyphicon glyphicon-chevron-left"></span> Page précédente</a>
+				    <a href="{{ path(app.request.attributes.get('_route'), app.request.query.all|merge({'page': currentPage-1})) }}" type="button" class="btn btn-primary modalJumpPrevious pull-left" onclick="localStorage.setItem('openModal', {{ pagination|length -1 }});" ><span class="fa fa-chevron-left"></span> Page précédente</a>
 				    {% endif %}
 				</div>
 				<div>
 				    {% if pagination[key+1] is defined %}
-				    <button type="button" class="btn btn-default modalJumpNext" data-modal-jump="modal_spell_{{ pagination[key+1].id }}">{{ pagination[key+1].name }} <span class="glyphicon glyphicon-chevron-right"></span></button>
+				    <button type="button" class="btn btn-default modalJumpNext" data-modal-jump="modal_spell_{{ pagination[key+1].id }}">{{ pagination[key+1].name }} <span class="fa fa-chevron-right"></span></button>
 				    {% elseif currentPage*50 < pagination.getTotalItemCount %}
-				    <a href="{{ path(app.request.attributes.get('_route'), app.request.query.all|merge({'page': currentPage+1})) }}" type="button" class="btn btn-primary modalJumpNext pull-right" onclick="localStorage.setItem('openModal', 0);" >Page suivante <span class="glyphicon glyphicon-chevron-right"></span></a>
+				    <a href="{{ path(app.request.attributes.get('_route'), app.request.query.all|merge({'page': currentPage+1})) }}" type="button" class="btn btn-primary modalJumpNext pull-right" onclick="localStorage.setItem('openModal', 0);" >Page suivante <span class="fa fa-chevron-right"></span></a>
 				    {% endif %}
 				</div>
 			 </div>
@@ -105,7 +105,7 @@
 			 {% include 'IcoRulesBundle:Spells:display.html.twig' with {'spell': spell} only %}
 		  </div>
 		  <div class="modal-footer">
-			 <button type="button" class="btn btn-default" data-dismiss="modal"><span class="glyphicon glyphicon-remove"></span> Fermer</button>
+			 <button type="button" class="btn btn-default" data-dismiss="modal"><span class="fa fa-times"></span> Fermer</button>
 		  </div>
 	   </div>
     </div>

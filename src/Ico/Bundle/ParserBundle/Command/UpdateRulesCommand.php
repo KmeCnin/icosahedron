@@ -149,8 +149,21 @@ EOT
 		  $this->currentFeat = $node->attr('id');
 		  $feat->setNameId($node->attr('id'));
 		  $feat->setName($node->attr('name'));
-		  $wikiUrl = $this->normalizeWikiUrl($node->filter('reference')->eq(0)->attr('href'));
-		  $feat->setWiki($wikiUrl);
+		  $references = array();
+		  $references = $node->filter('reference')->each(function(Crawler $ref) {
+			 return $ref->attr('href');
+		  });
+		  $wikiUrl = $this->normalizeWikiUrl($references[0]);
+		  foreach ($references as $url) {
+			 $data = parse_url($url);
+			 $source = $this->getDoctrine()
+				    ->getRepository('IcoRulesBundle:LinkSource')
+				    ->findOneByDomain($data['host']);
+			 $link = new Link();
+			 $link->setSource($source);
+			 $link->setUrl($url);
+			 $feat->addLink($link);
+		  }
 		  $feat->setDescription($node->filter('description')->text());
 		  $feat_types = $node->filter('type')->each(function (Crawler $type) {
 			 return $this->getEntityFromNameId('FeatType', $type->text());

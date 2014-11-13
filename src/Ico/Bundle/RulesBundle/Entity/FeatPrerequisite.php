@@ -7,7 +7,7 @@ use Doctrine\ORM\Mapping as ORM;
 /**
  * FeatPrerequisite
  *
- * @ORM\Table()
+ * @ORM\Table(name="featprerequisite")
  * @ORM\Entity(repositoryClass="Ico\Bundle\RulesBundle\Repository\FeatPrerequisiteRepository")
  */ 
 class FeatPrerequisite

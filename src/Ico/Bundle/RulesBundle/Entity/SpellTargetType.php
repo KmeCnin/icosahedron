@@ -7,7 +7,7 @@ use Doctrine\ORM\Mapping as ORM;
 /**
  * SpellTargetType
  *
- * @ORM\Table()
+ * @ORM\Table(name="spelltargettype")
  * @ORM\Entity(repositoryClass="Ico\Bundle\RulesBundle\Repository\SpellTargetTypeRepository")
  */ 
 class SpellTargetType
