@@ -73,12 +73,12 @@
 			 <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Fermer</span></button>
 			 <div class="btn-group">
 				<span href="#" class="btn btn-default dropdown-toggle" data-toggle="dropdown" aria-expanded="false">
-				    Liens complémentaires
+				    Liens sources
 				    <span class="caret"></span>
 				</span>
 				<ul class="dropdown-menu">
 				    {% for link in spell.links %}
-				    <li><a target="_blank" href="{{ link.url }}">{{ link.source.name }} [{{ link.source.language }}]</a></li>
+				    <li><a target="_blank" href="{{ link.url }}" class="text-nowrap"><img class="thumbnail" src="{{ asset('Resources/public/images/'~link.source.picture) }}" alt="logo {{ link.source.name }}" /> {{ link.source.name }} [{{ link.source.language }}]</a></li>
 				    {% endfor %}
 				</ul>
 			 </div>

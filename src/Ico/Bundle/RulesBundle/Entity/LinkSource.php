@@ -41,6 +41,13 @@ class LinkSource
      * @ORM\Column(name="language", type="string", length=255)
      */
     private $language;
+    
+    /**
+     * @var string
+     *
+     * @ORM\Column(name="picture", type="string", length=255)
+     */
+    private $picture;
 
     /**
      * Get id
@@ -119,5 +126,28 @@ class LinkSource
     public function getDomain()
     {
         return $this->domain;
+    }
+
+    /**
+     * Set picture
+     *
+     * @param string $picture
+     * @return LinkSource
+     */
+    public function setPicture($picture)
+    {
+        $this->picture = $picture;
+
+        return $this;
+    }
+
+    /**
+     * Get picture
+     *
+     * @return string 
+     */
+    public function getPicture()
+    {
+        return $this->picture;
     }
 }

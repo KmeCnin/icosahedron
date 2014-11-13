@@ -172,3 +172,15 @@ a.ninja {
     text-decoration: none;
     font-style: normal;
 }
+img.thumbnail {
+    max-width: 26px;
+    max-height: 26px;
+    display: inline-block;
+    margin: 0;
+    margin-right: 5px;
+    padding: 2px;
+}
+a > img.thumbnail {
+    position: relative;
+    top: -3px;
+}

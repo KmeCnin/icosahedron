@@ -425,7 +425,8 @@ EOT
 		  'IcoRulesBundle:SavingThrow',
 		  'IcoRulesBundle:SavingThrowEffect',
 		  'IcoRulesBundle:SpellTargetType',
-		  'IcoRulesBundle:LinkSource'
+		  'IcoRulesBundle:LinkSource',
+		  'IcoRulesBundle:Link'
 	   );
 	   // Tables à vider seulement si on synchronise les dons
 	   if ($this->updateFeats) {

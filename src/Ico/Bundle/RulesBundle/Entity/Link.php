@@ -22,9 +22,9 @@ class Link
     private $id;
     
     /**
-     * @var integer
+     * @var string
      *
-     * @ORM\Column(name="url", type="integer")
+     * @ORM\Column(name="url", type="string", length=255)
      */
     private $url;
     
