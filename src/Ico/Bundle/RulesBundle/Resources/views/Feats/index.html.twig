@@ -18,7 +18,7 @@
 	   
     {{ form_start(filter) }}
 	   <fieldset>
-		  <legend>Recherche <small class="text-muted">(Total de {{ pagination.getTotalItemCount }} don{% if pagination.getTotalItemCount > 1 %}s{% endif %} trouvé{% if pagination.getTotalItemCount > 1 %}s{% endif %})</small> <button type="submit" class="btn btn-default btn-sm"><span class="fa fa-refresh"></span>Filtrer</button></legend>
+		  <legend>Recherche <small class="text-muted">(Total de {{ pagination.getTotalItemCount }} don{% if pagination.getTotalItemCount > 1 %}s{% endif %} trouvé{% if pagination.getTotalItemCount > 1 %}s{% endif %})</small> <button type="submit" class="btn btn-primary btn-sm"><span class="fa fa-refresh"></span>Filtrer</button></legend>
 		  {{ form_row(filter.keywords) }}
 		  <div class="select-multiple-wrapper">
 			 {{ form_widget(filter.featTypesType) }}
