@@ -6,12 +6,12 @@
 {#	   <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">#}
 	   <link rel="stylesheet" href="//netdna.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css">
         {% stylesheets 
-		  '@IcoAppBundle/Resources/public/css/bootstrap.css'
-		  '@IcoAppBundle/Resources/public/css/lumen.min.css'
-		  '@IcoAppBundle/Resources/public/css/animate.css'
-		  '@IcoAppBundle/Resources/public/css/leather.css'
-		  '@IcoAppBundle/Resources/public/css/header.css'
-		  '@IcoAppBundle/Resources/public/css/base.css'
+		  'bundles/icoapp/css/bootstrap.css'
+		  'bundles/icoapp/css/lumen.min.css'
+		  'bundles/icoapp/css/animate.css'
+		  'bundles/icoapp/css/leather.css'
+		  'bundles/icoapp/css/header.css'
+		  'bundles/icoapp/css/base.css'
 	   filter='cssrewrite' %}
 	   <link rel="stylesheet" href="{{ asset_url }}" />
 	   {% endstylesheets %}
@@ -23,11 +23,11 @@
 		  var assets = "{{ asset('') }}";
 	   </script>
     {% javascripts 
-	   '@IcoAppBundle/Resources/public/js/jquery.js' 
-	   '@IcoAppBundle/Resources/public/js/jquery-ui.min.js' 
-	   '@IcoAppBundle/Resources/public/js/bootstrap.min.js' 
-	   '@IcoAppBundle/Resources/public/js/chosen.jquery.min.js' 
-	   '@IcoAppBundle/Resources/public/js/ready.js' 
+	   'bundles/icoapp/js/jquery.js' 
+	   'bundles/icoapp/js/jquery-ui.min.js' 
+	   'bundles/icoapp/js/bootstrap.min.js' 
+	   'bundles/icoapp/js/chosen.jquery.min.js' 
+	   'bundles/icoapp/js/ready.js' 
     %}
 	   <script type="text/javascript" src="{{ asset_url }}"></script>
 	   <script src="{{ asset('bundles/fosjsrouting/js/router.js') }}"></script>

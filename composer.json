@@ -20,7 +20,7 @@
         "sensio/framework-extra-bundle": "~3.0",
         "sensio/generator-bundle": "~2.3",
         "incenteev/composer-parameter-handler": "~2.0",
-	   "friendsofsymfony/user-bundle": "2.0.*@dev",
+	   "friendsofsymfony/user-bundle": "@stable",
         "friendsofsymfony/jsrouting-bundle": "@stable",
         "knplabs/knp-paginator-bundle": "~2.4",
 	   "symfony/dom-crawler": "~2.0",
