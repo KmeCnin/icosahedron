@@ -7,7 +7,7 @@ use Doctrine\ORM\Mapping as ORM;
 /**
  * SavingThrow
  *
- * @ORM\Table(name="savingthrow")
+ * @ORM\Table(name="savingthrow", indexes={@ORM\Index(name="nameId_idx", columns={"nameId"})})
  * @ORM\Entity(repositoryClass="Ico\Bundle\RulesBundle\Repository\SavingThrowRepository")
  */ 
 class SavingThrow

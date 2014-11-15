@@ -7,7 +7,7 @@ use Doctrine\ORM\Mapping as ORM;
 /**
  * BattleUnit
  *
- * @ORM\Table(name="battleunit")
+ * @ORM\Table(name="battleunit", indexes={@ORM\Index(name="nameId_idx", columns={"nameId"})})
  * @ORM\Entity(repositoryClass="Ico\Bundle\RulesBundle\Repository\BattleUnitRepository")
  */ 
 class BattleUnit

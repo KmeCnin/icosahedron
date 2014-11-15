@@ -7,7 +7,7 @@ use Doctrine\ORM\Mapping as ORM;
 /**
  * SpellComponent
  *
- * @ORM\Table(name="spellcomponent")
+ * @ORM\Table(name="spellcomponent", indexes={@ORM\Index(name="nameId_idx", columns={"nameId"})})
  * @ORM\Entity(repositoryClass="Ico\Bundle\RulesBundle\Repository\SpellComponentRepository")
  */ 
 class SpellComponent

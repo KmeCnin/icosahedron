@@ -7,7 +7,7 @@ use Doctrine\ORM\Mapping as ORM;
 /**
  * LinkSource
  *
- * @ORM\Table(name="linksource")
+ * @ORM\Table(name="linksource", indexes={@ORM\Index(name="domain_idx", columns={"domain"})})
  * @ORM\Entity(repositoryClass="Ico\Bundle\RulesBundle\Repository\LinkSourceRepository")
  */ 
 class LinkSource

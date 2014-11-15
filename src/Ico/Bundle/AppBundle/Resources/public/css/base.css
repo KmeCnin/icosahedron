@@ -23,6 +23,12 @@ body {
 .icon {
     width: 15px;
 }
+.ico-logo {
+    height: 35px;
+    position: relative;
+    top: 8px;
+    left: -150px;
+}
 .table {
     display: table;
     margin: 0;
