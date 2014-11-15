@@ -13,16 +13,16 @@ ico_app:
     type:     annotation
     prefix:   /
 
-ico_user:
-    resource: "@IcoUserBundle/Controller/"
-    type:     annotation
-    prefix:   /
+# ico_user:
+#     resource: "@IcoUserBundle/Controller/"
+#     type:     annotation
+#     prefix:   /
 
 ico_helper:
     resource: "@IcoHelperBundle/Controller/"
     type:     annotation
-    prefix:   /    
-   
+    prefix:   /
+
 fos_user_security:
     resource: "@FOSUserBundle/Resources/config/routing/security.xml"
 
@@ -41,6 +41,6 @@ fos_user_resetting:
 fos_user_change_password:
     resource: "@FOSUserBundle/Resources/config/routing/change_password.xml"
     prefix: /profile
-    
+
 fos_js_routing:
     resource: "@FOSJsRoutingBundle/Resources/config/routing/routing.xml"
