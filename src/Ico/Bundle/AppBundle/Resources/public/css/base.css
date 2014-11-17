@@ -196,4 +196,5 @@ a > img.thumbnail {
     border-radius: 5px;
     /*border: 1px solid #3B9400;*/
     border-bottom: 3px solid #3B9400;
+    z-index: 1500;
 }
