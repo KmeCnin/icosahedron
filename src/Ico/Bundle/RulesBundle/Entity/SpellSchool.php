@@ -10,7 +10,7 @@ use Doctrine\ORM\Mapping as ORM;
  * @ORM\Table(name="spellschool", indexes={@ORM\Index(name="nameId_idx", columns={"nameId"})})
  * @ORM\Entity(repositoryClass="Ico\Bundle\RulesBundle\Repository\SpellSchoolRepository")
  */ 
-class SpellSchool
+class SpellSchool extends Normalized
 {
     /**
      * @var integer
@@ -53,6 +53,14 @@ class SpellSchool
     * @ORM\OneToMany(targetEntity="Spell", mappedBy="spellSchool", cascade={"persist", "remove"})
     */
     protected $spells;
+    
+    /**
+     * Constructor
+     */
+    public function __construct()
+    {
+        parent::__construct();
+    }
 
 
     /**
@@ -97,6 +105,7 @@ class SpellSchool
     public function setName($name)
     {
         $this->name = $name;
+	   $this->setSlug($this->name);
 
         return $this;
     }

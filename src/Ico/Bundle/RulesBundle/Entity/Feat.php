@@ -10,7 +10,7 @@ use Doctrine\ORM\Mapping as ORM;
  * @ORM\Table(name="feat", indexes={@ORM\Index(name="nameId_idx", columns={"nameId"})})
  * @ORM\Entity(repositoryClass="Ico\Bundle\RulesBundle\Repository\FeatRepository")
  */ 
-class Feat
+class Feat extends Normalized
 {
     /**
      * @var integer
@@ -73,6 +73,7 @@ class Feat
      */
     public function __construct()
     {
+        parent::__construct();
         $this->featTypes = new \Doctrine\Common\Collections\ArrayCollection();
     }
 
@@ -118,6 +119,7 @@ class Feat
     public function setName($name)
     {
         $this->name = $name;
+	   $this->setSlug($this->name);
 
         return $this;
     }

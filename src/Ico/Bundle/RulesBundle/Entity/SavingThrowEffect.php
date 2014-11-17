@@ -10,7 +10,7 @@ use Doctrine\ORM\Mapping as ORM;
  * @ORM\Table(name="savingthroweffect", indexes={@ORM\Index(name="nameId_idx", columns={"nameId"})})
  * @ORM\Entity(repositoryClass="Ico\Bundle\RulesBundle\Repository\SavingThrowEffectRepository")
  */ 
-class SavingThrowEffect
+class SavingThrowEffect extends Normalized
 {
     /**
      * @var integer
@@ -41,6 +41,14 @@ class SavingThrowEffect
      * @ORM\Column(name="description", type="text", nullable=true)
      */
     private $description;  
+    
+    /**
+     * Constructor
+     */
+    public function __construct()
+    {
+        parent::__construct();
+    }
 
 
     /**
@@ -85,6 +93,7 @@ class SavingThrowEffect
     public function setName($name)
     {
         $this->name = $name;
+	   $this->setSlug($this->name);
 
         return $this;
     }

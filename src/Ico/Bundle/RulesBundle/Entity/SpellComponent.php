@@ -10,7 +10,7 @@ use Doctrine\ORM\Mapping as ORM;
  * @ORM\Table(name="spellcomponent", indexes={@ORM\Index(name="nameId_idx", columns={"nameId"})})
  * @ORM\Entity(repositoryClass="Ico\Bundle\RulesBundle\Repository\SpellComponentRepository")
  */ 
-class SpellComponent
+class SpellComponent extends Normalized
 {
     /**
      * @var integer
@@ -48,6 +48,14 @@ class SpellComponent
      * @ORM\Column(name="description", type="text")
      */
     private $description;
+    
+    /**
+     * Constructor
+     */
+    public function __construct()
+    {
+        parent::__construct();
+    }
 
 
     /**
@@ -92,6 +100,7 @@ class SpellComponent
     public function setName($name)
     {
         $this->name = $name;
+	   $this->setSlug($this->name);
 
         return $this;
     }

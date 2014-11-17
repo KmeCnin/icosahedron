@@ -10,7 +10,7 @@ use Doctrine\ORM\Mapping as ORM;
  * @ORM\Table(name="battlerange", indexes={@ORM\Index(name="nameId_idx", columns={"nameId"})})
  * @ORM\Entity(repositoryClass="Ico\Bundle\RulesBundle\Repository\BattleRangeRepository")
  */ 
-class BattleRange
+class BattleRange extends Normalized
 {
     /**
      * @var integer
@@ -41,6 +41,13 @@ class BattleRange
      * @ORM\Column(name="description", type="text", nullable=true)
      */
     private $description;
+    
+    /**
+     * Constructor
+     */
+    public function __construct() {
+        parent::__construct();
+    }
 
     /**
      * Get id
@@ -84,6 +91,7 @@ class BattleRange
     public function setName($name)
     {
         $this->name = $name;
+	   $this->setSlug($this->name);
 
         return $this;
     }

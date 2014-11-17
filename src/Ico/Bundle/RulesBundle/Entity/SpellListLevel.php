@@ -32,6 +32,14 @@ class SpellListLevel
      * @ORM\Column(name="level", type="integer")
      */
     private $level;
+    
+    /**
+     * Constructor
+     */
+    public function __construct()
+    {
+	   
+    }
 
     /**
      * Get id

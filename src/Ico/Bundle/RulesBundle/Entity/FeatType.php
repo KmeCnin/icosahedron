@@ -10,7 +10,7 @@ use Doctrine\ORM\Mapping as ORM;
  * @ORM\Table(name="feattype", indexes={@ORM\Index(name="nameId_idx", columns={"nameId"})})
  * @ORM\Entity(repositoryClass="Ico\Bundle\RulesBundle\Repository\FeatTypeRepository")
  */ 
-class FeatType
+class FeatType extends Normalized
 {
     /**
      * @var integer
@@ -64,6 +64,15 @@ class FeatType
      * @ORM\Column(name="wiki", type="string", length=255, nullable=true)
      */
     private $wiki; 
+    
+    /**
+     * Constructor
+     */
+    public function __construct()
+    {
+        parent::__construct();
+        $this->feats = new \Doctrine\Common\Collections\ArrayCollection();
+    }
 
     /**
      * Get id
@@ -84,6 +93,7 @@ class FeatType
     public function setName($name)
     {
         $this->name = $name;
+	   $this->setSlug($this->name);
 
         return $this;
     }
@@ -188,13 +198,6 @@ class FeatType
     public function getDetail()
     {
         return $this->detail;
-    }
-    /**
-     * Constructor
-     */
-    public function __construct()
-    {
-        $this->feats = new \Doctrine\Common\Collections\ArrayCollection();
     }
 
     /**
