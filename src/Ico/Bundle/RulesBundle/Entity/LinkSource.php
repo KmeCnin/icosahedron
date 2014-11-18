@@ -7,10 +7,10 @@ use Doctrine\ORM\Mapping as ORM;
 /**
  * LinkSource
  *
- * @ORM\Table(name="linksource")
+ * @ORM\Table(name="linksource", indexes={@ORM\Index(name="domain_idx", columns={"domain"})})
  * @ORM\Entity(repositoryClass="Ico\Bundle\RulesBundle\Repository\LinkSourceRepository")
  */ 
-class LinkSource
+class LinkSource extends Normalized
 {
     /**
      * @var integer
@@ -48,6 +48,14 @@ class LinkSource
      * @ORM\Column(name="picture", type="string", length=255)
      */
     private $picture;
+    
+    /**
+     * Constructor
+     */
+    public function __construct()
+    {
+        parent::__construct();
+    }
 
     /**
      * Get id
@@ -68,6 +76,7 @@ class LinkSource
     public function setName($name)
     {
         $this->name = $name;
+	   $this->setSlug($this->name);
 
         return $this;
     }

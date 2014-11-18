@@ -33,6 +33,13 @@ class BattleTime
      * @ORM\JoinColumn(nullable=false)
      */
     private $unit;
+    
+    /**
+     * Constructor
+     */
+    public function __construct() {
+	   
+    }
 
     /**
      * Get id

@@ -23,6 +23,12 @@ body {
 .icon {
     width: 15px;
 }
+.ico-logo {
+    height: 35px;
+    position: relative;
+    top: 8px;
+    left: -150px;
+}
 .table {
     display: table;
     margin: 0;
@@ -149,6 +155,7 @@ mark {
 .form_row.form-group {
     display: inline-block;
     margin-right: 20px;
+    vertical-align: top;
 }
 .select-multiple-wrapper {
     display: inline-block;

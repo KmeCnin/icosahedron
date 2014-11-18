@@ -10,7 +10,7 @@ use Doctrine\ORM\Mapping as ORM;
  * @ORM\Table(name="featprerequisite")
  * @ORM\Entity(repositoryClass="Ico\Bundle\RulesBundle\Repository\FeatPrerequisiteRepository")
  */ 
-class FeatPrerequisite
+class FeatPrerequisite extends Normalized
 {
     /**
      * @var integer
@@ -40,6 +40,13 @@ class FeatPrerequisite
      * @ORM\JoinColumn(nullable=false)
      */
     private $feat;
+    
+    /**
+     * Constructor
+     */
+    public function __construct() {
+        parent::__construct();
+    }
 
     /**
      * Get id
@@ -60,6 +67,7 @@ class FeatPrerequisite
     public function setName($name)
     {
         $this->name = $name;
+	   $this->setSlug($this->name);
 
         return $this;
     }

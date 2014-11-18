@@ -10,7 +10,7 @@ use Doctrine\ORM\Mapping as ORM;
  * @ORM\Table(name="spelltargettype")
  * @ORM\Entity(repositoryClass="Ico\Bundle\RulesBundle\Repository\SpellTargetTypeRepository")
  */ 
-class SpellTargetType
+class SpellTargetType extends Normalized
 {
     /**
      * @var integer
@@ -41,6 +41,14 @@ class SpellTargetType
      * @ORM\Column(name="detail", type="text", nullable=true)
      */
     private $detail;       
+    
+    /**
+     * Constructor
+     */
+    public function __construct()
+    {
+        parent::__construct();
+    }
 
     /**
      * Get id
@@ -61,6 +69,7 @@ class SpellTargetType
     public function setName($name)
     {
         $this->name = $name;
+	   $this->setSlug($this->name);
 
         return $this;
     }
@@ -73,6 +82,7 @@ class SpellTargetType
     public function getName()
     {
         return $this->name;
+	   $this->setSlug($this->name);
     }
 
     /**

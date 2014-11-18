@@ -446,6 +446,7 @@ EOT
 		  $tablesToTruncate[] = 'IcoRulesBundle:Feat';
 		  $tablesToTruncate[] = 'feat_feattype';
 		  $tablesToTruncate[] = 'IcoRulesBundle:FeatPrerequisite';
+		  $tablesToTruncate[] = 'feat_link';
 	   }
 	   // Tables à vider seulement si on synchronise les sorts
 	   if ($this->updateSpells) {

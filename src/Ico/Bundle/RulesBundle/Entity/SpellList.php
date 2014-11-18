@@ -7,10 +7,10 @@ use Doctrine\ORM\Mapping as ORM;
 /**
  * SpellList
  *
- * @ORM\Table(name="spelllist")
+ * @ORM\Table(name="spelllist", indexes={@ORM\Index(name="nameId_idx", columns={"nameId"})})
  * @ORM\Entity(repositoryClass="Ico\Bundle\RulesBundle\Repository\SpellListRepository")
  */ 
-class SpellList
+class SpellList extends Normalized
 {
     /**
      * @var integer
@@ -46,11 +46,13 @@ class SpellList
      * @ORM\OneToMany(targetEntity="SpellListLevel", mappedBy="spellList", cascade={"persist", "remove"})
      */
     protected $spellListsLevels;
+    
     /**
      * Constructor
      */
     public function __construct()
     {
+        parent::__construct();
         $this->spellListsLevels = new \Doctrine\Common\Collections\ArrayCollection();
     }
 
@@ -96,6 +98,7 @@ class SpellList
     public function setName($name)
     {
         $this->name = $name;
+	   $this->setSlug($this->name);
 
         return $this;
     }
