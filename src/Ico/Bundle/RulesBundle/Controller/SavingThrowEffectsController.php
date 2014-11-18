@@ -9,7 +9,7 @@ use Sensio\Bundle\FrameworkExtraBundle\Configuration\Template;
 class SavingThrowEffectsController extends Controller
 {
     /**
-     * @Route("/rules/savingthroweffects", name="ico_rules_savingthroweffects")
+     * @Route("/règles-pathfinder/effets-de-sauvegarde", name="ico_rules_savingthroweffects")
      * @Template()
      */
     public function indexAction()
@@ -32,7 +32,7 @@ class SavingThrowEffectsController extends Controller
     }
     
     /**
-     * @Route("/rules/savingthroweffects/view/{id}", name="ico_rules_savingthroweffects_view", options={"expose"=true})
+     * @Route("/règles-pathfinder/effets-de-sauvegarde/{id}/{slug}", requirements={"id"="\d+"}, defaults={"slug"=false}, name="ico_rules_savingthroweffects_view", options={"expose"=true})
      * @Template()
      */
     public function viewAction($id)
@@ -56,7 +56,7 @@ class SavingThrowEffectsController extends Controller
     }
     
     /**
-     * @Route("/rules/savingthroweffects/preview/{id}", name="ico_rules_savingthroweffects_preview", options={"expose"=true})
+     * @Route("/règles-pathfinder-aperçu/effets-de-sauvegarde/{id}/{slug}", requirements={"id"="\d+"}, defaults={"slug"=false}, name="ico_rules_savingthroweffects_preview", options={"expose"=true})
      * @Template()
      */
     public function previewAction($id)

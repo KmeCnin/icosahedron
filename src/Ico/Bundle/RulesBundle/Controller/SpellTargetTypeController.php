@@ -10,7 +10,7 @@ use Symfony\Component\HttpFoundation\Request;
 class SpellTargetTypeController extends Controller
 {
     /**
-     * @Route("/rules/spelltargettypes", name="ico_rules_spelltargettypes")
+     * @Route("/règles-pathfinder/types-de-ciblage", name="ico_rules_spelltargettypes")
      * @Template()
      */
     public function indexAction(Request $request)
@@ -33,7 +33,7 @@ class SpellTargetTypeController extends Controller
     }
     
     /**
-     * @Route("/rules/spelltargettypes/view/{id}", name="ico_rules_spelltargettypes_view", options={"expose"=true})
+     * @Route("/règles-pathfinder/types-de-ciblage/{id}/{slug}", requirements={"id"="\d+"}, defaults={"slug"=false}, name="ico_rules_spelltargettypes_view", options={"expose"=true})
      * @Template()
      */
     public function viewAction($id)
@@ -57,7 +57,7 @@ class SpellTargetTypeController extends Controller
     }
     
     /**
-     * @Route("/rules/spelltargettypes/preview/{id}", name="ico_rules_spelltargettypes_preview", options={"expose"=true})
+     * @Route("/règles-pathfinder-aperçu/types-de-ciblage/{id}/{slug}", requirements={"id"="\d+"}, defaults={"slug"=false}, name="ico_rules_spelltargettypes_preview", options={"expose"=true})
      * @Template()
      */
     public function previewAction($id)

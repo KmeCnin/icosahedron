@@ -9,7 +9,7 @@ use Sensio\Bundle\FrameworkExtraBundle\Configuration\Template;
 class SavingThrowsController extends Controller
 {
     /**
-     * @Route("/rules/savingthrows", name="ico_rules_savingthrows")
+     * @Route("/règles-pathfinder/jets-de-sauvegarde", name="ico_rules_savingthrows")
      * @Template()
      */
     public function indexAction()
@@ -31,7 +31,7 @@ class SavingThrowsController extends Controller
     }
     
     /**
-     * @Route("/rules/savingthrows/view/{id}", name="ico_rules_savingthrows_view", options={"expose"=true})
+     * @Route("/règles-pathfinder/jets-de-sauvegarde/{id}/{slug}", requirements={"id"="\d+"}, defaults={"slug"=false}, name="ico_rules_savingthrows_view", options={"expose"=true})
      * @Template()
      */
     public function viewAction($id)
@@ -54,7 +54,7 @@ class SavingThrowsController extends Controller
     }
     
     /**
-     * @Route("/rules/savingthrows/preview/{id}", name="ico_rules_savingthrows_preview", options={"expose"=true})
+     * @Route("/règles-pathfinder-aperçu/jets-de-sauvegarde/{id}/{slug}", requirements={"id"="\d+"}, defaults={"slug"=false}, name="ico_rules_savingthrows_preview", options={"expose"=true})
      * @Template()
      */
     public function previewAction($id)

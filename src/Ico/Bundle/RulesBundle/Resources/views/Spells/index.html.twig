@@ -44,7 +44,7 @@
 		  <td class="link" data-toggle="modal" data-target="#modal_spell_{{ spell.id }}"><a>{{ spell.name }}</a></td>
 		  <td>
 			 {% if spell.spellSchool is not null %}
-{% if spell.spellSchool.description is not empty %}<a class="preview text-nowrap" href="{{ path('ico_rules_spellschools_view', {'id': spell.spellSchool.id}) }}">{{ spell.spellSchool.name }}</a>{% else %}{{ spell.spellSchool.name }}{% endif %}
+{% if spell.spellSchool.description is not empty %}<a class="preview text-nowrap" href="{{ path('ico_rules_spellschools_view', {'id': spell.spellSchool.id, 'slug': spell.spellSchool.id}) }}">{{ spell.spellSchool.name }}</a>{% else %}{{ spell.spellSchool.name }}{% endif %}
 			 {% else %}
 			 -
 			 {% endif %}
@@ -82,7 +82,7 @@
 				    {% endfor %}
 				</ul>
 			 </div>
-			 <h4 class="modal-title" id="myModalLabel"><a target="_blank" class="ninja" href="{{ path('ico_rules_spell_view', {'id': spell.id}) }}">{{ spell.name }} <small>[Sort]</small></a></h4>
+			 <h4 class="modal-title" id="myModalLabel"><a target="_blank" class="ninja" href="{{ path('ico_rules_spell_view', {'id': spell.id, 'slug': spell.slug}) }}">{{ spell.name }} <small>[Sort]</small></a></h4>
 		  </div>
 		  <div class="modal-body">
 			 <div class="nav-modal">

@@ -10,7 +10,7 @@ use Symfony\Component\HttpFoundation\Request;
 class SpellComponentsController extends Controller
 {
     /**
-     * @Route("/rules/spellcomponents", name="ico_rules_spellcomponents")
+     * @Route("/règles-pathfinder/composantes-de-sorts", name="ico_rules_spellcomponents")
      * @Template()
      */
     public function indexAction(Request $request)
@@ -33,7 +33,7 @@ class SpellComponentsController extends Controller
     }
     
     /**
-     * @Route("/rules/spellcomponents/view/{id}", name="ico_rules_spellcomponents_view", options={"expose"=true})
+     * @Route("/règles-pathfinder/composantes-de-sorts/{id}/{slug}", requirements={"id"="\d+"}, defaults={"slug"=false}, name="ico_rules_spellcomponents_view", options={"expose"=true})
      * @Template()
      */
     public function viewAction($id)
@@ -57,7 +57,7 @@ class SpellComponentsController extends Controller
     }
     
     /**
-     * @Route("/rules/spellcomponents/preview/{id}", name="ico_rules_spellcomponents_preview", options={"expose"=true})
+     * @Route("/règles-pathfinder-aperçu/composantes-de-sorts/{id}/{slug}", requirements={"id"="\d+"}, defaults={"slug"=false}, name="ico_rules_spellcomponents_preview", options={"expose"=true})
      * @Template()
      */
     public function previewAction($id)

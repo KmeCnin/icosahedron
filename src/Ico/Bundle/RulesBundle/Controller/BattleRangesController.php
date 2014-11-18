@@ -10,7 +10,7 @@ use Symfony\Component\HttpFoundation\Request;
 class BattleRangesController extends Controller
 {
     /**
-     * @Route("/rules/battleranges", name="ico_rules_battleranges")
+     * @Route("/règles-pathfinder/portées", name="ico_rules_battleranges")
      * @Template()
      */
     public function indexAction(Request $request)
@@ -32,7 +32,7 @@ class BattleRangesController extends Controller
     }
     
     /**
-     * @Route("/rules/battleranges/view/{id}", name="ico_rules_battleranges_view", options={"expose"=true})
+     * @Route("/règles-pathfinder/portées/{id}/{slug}", requirements={"id"="\d+"}, defaults={"slug"=false}, name="ico_rules_battleranges_view", options={"expose"=true})
      * @Template()
      */
     public function viewAction($id)
@@ -55,7 +55,7 @@ class BattleRangesController extends Controller
     }
     
     /**
-     * @Route("/rules/battleranges/preview/{id}", name="ico_rules_battleranges_preview", options={"expose"=true})
+     * @Route("/règles-pathfinder-aperçu/portées/{id}/{slug}", requirements={"id"="\d+"}, defaults={"slug"=false}, name="ico_rules_battleranges_preview", options={"expose"=true})
      * @Template()
      */
     public function previewAction($id)

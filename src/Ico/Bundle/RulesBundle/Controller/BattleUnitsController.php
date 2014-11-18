@@ -10,7 +10,7 @@ use Symfony\Component\HttpFoundation\Request;
 class BattleUnitsController extends Controller
 {
     /**
-     * @Route("/rules/battleunits", name="ico_rules_battleunits")
+     * @Route("/règles-pathfinder/types-dactions", name="ico_rules_battleunits")
      * @Template()
      */
     public function indexAction(Request $request)
@@ -32,7 +32,7 @@ class BattleUnitsController extends Controller
     }
     
     /**
-     * @Route("/rules/battleunits/view/{id}", name="ico_rules_battleunits_view", options={"expose"=true})
+     * @Route("/règles-pathfinder/types-dactions/{id}/{slug}", requirements={"id"="\d+"}, defaults={"slug"=false}, name="ico_rules_battleunits_view", options={"expose"=true})
      * @Template()
      */
     public function viewAction($id)
@@ -55,7 +55,7 @@ class BattleUnitsController extends Controller
     }
     
     /**
-     * @Route("/rules/battleunits/preview/{id}", name="ico_rules_battleunits_preview", options={"expose"=true})
+     * @Route("/règles-pathfinder-aperçu/types-dactions/{id}/{slug}", requirements={"id"="\d+"}, defaults={"slug"=false}, name="ico_rules_battleunits_preview", options={"expose"=true})
      * @Template()
      */
     public function previewAction($id)

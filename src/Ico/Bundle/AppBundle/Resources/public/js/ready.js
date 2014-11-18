@@ -27,7 +27,7 @@ $(document).ready(function() {
 		  toggler.attr('data-content', localStorage.getItem(toggler.attr('href')));
 		  toggler.popover('show');
 	   } else {
-		  $.get(toggler.attr('href').replace('/view/', '/preview/'), function(preview) {
+		  $.get(toggler.attr('href').replace('/r%C3%A8gles-pathfinder/', '/règles-pathfinder-aperçu/'), function(preview) {
 			 localStorage.setItem(toggler.attr('href'), preview);
 			 toggler.attr('data-content', preview);
 			 if ($('#'+id+':hover').length > 0) { // On montre le resultat seulement si la souris est encore dessus

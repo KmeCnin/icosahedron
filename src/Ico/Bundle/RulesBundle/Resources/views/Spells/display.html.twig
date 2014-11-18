@@ -1,7 +1,7 @@
 <div class="panel panel-default">
     <div class="panel-heading">Informations</div>
     <div class="panel-body justify">
-	   <label>École : </label> <a class="preview" href="{{ path('ico_rules_spellschools_view', {'id': spell.spellSchool.id}) }}">{{ spell.spellSchool.name }}</a> | 
+	   <label>École : </label> <a class="preview" href="{{ path('ico_rules_spellschools_view', {'id': spell.spellSchool.id, 'slug': spell.spellSchool.slug}) }}">{{ spell.spellSchool.name }}</a> | 
 	   <label>Niveau : </label> {% for list in spell.spellListsLevels %}{% if loop.index != 1 %}, {% endif %}<span class="text-nowrap">{{ list.spellList.name }} {{ list.level }}</span>{% endfor %}<br />
 	   <label>Temps d'incantation : </label> 
 	   {% if spell.castingTimeSpecial is not null %}
@@ -9,19 +9,19 @@
 	   {% else %}
 		  {{ spell.castingTime.value }}
 		  {% if spell.castingTime.unit.description != '' %}
-			 <a class="preview" href="{{ path('ico_rules_battleunits_view', {'id': spell.castingTime.unit.id}) }}">{{ spell.castingTime.unit.name }}</a>
+			 <a class="preview" href="{{ path('ico_rules_battleunits_view', {'id': spell.castingTime.unit.id, 'slug': spell.castingTime.unit.slug}) }}">{{ spell.castingTime.unit.name }}</a>
 		  {% else %}
 			 {{ spell.castingTime.unit.name }}
 		  {% endif %}
 	   {% endif %}
 	   <br />
-	   <label>Composantes : </label> {% for component in spell.spellComponents %}{% if loop.index != 1 %}, {% endif %}<a class="text-nowrap preview" href="{{ path('ico_rules_spellcomponents_view', {'id': component.id}) }}">{{ component.name }}</a>{% endfor %} {% if spell.materialComponent != '' %} ({{ spell.materialComponent }}){% endif %}<br />
+	   <label>Composantes : </label> {% for component in spell.spellComponents %}{% if loop.index != 1 %}, {% endif %}<a class="text-nowrap preview" href="{{ path('ico_rules_spellcomponents_view', {'id': component.id, 'slug': component.slug}) }}">{{ component.name }}</a>{% endfor %} {% if spell.materialComponent != '' %} ({{ spell.materialComponent }}){% endif %}<br />
 	   {% if spell.rangeSpecial is not null or spell.range is not null %}
 		  <label>Portée : </label> 
 		  {% if spell.rangeSpecial is not null %}
 			 {{ spell.rangeSpecial }}
 		  {% else %}
-			 <a class="preview" href="{{ path('ico_rules_battleranges_view', {'id': spell.range.id}) }}">{{ spell.range.name }}</a>
+			 <a class="preview" href="{{ path('ico_rules_battleranges_view', {'id': spell.range.id, 'slug': spell.range.slug}) }}">{{ spell.range.name }}</a>
 		  {% endif %}
 		  <br />
 	   {% endif %}
@@ -29,9 +29,9 @@
 	   <label>Durée : </label> {{ spell.duration|environment|raw }}<br />
 	   <label>Jet de sauvegarde : </label> 
 	   {% if spell.savingThrow is not null %}
-		  <a class="preview" href="{{ path('ico_rules_savingthrows_view', {'id': spell.savingThrow.id}) }}">{{ spell.savingThrow.name }}</a>, 
+		  <a class="preview" href="{{ path('ico_rules_savingthrows_view', {'id': spell.savingThrow.id, 'slug': spell.savingThrow.slug}) }}">{{ spell.savingThrow.name }}</a>, 
 		  {% if spell.savingThrowEffect is not null %}
-			 <a class="preview" href="{{ path('ico_rules_savingthroweffects_view', {'id': spell.savingThrowEffect.id}) }}">{{ spell.savingThrowEffect.name|lower }}</a>
+			 <a class="preview" href="{{ path('ico_rules_savingthroweffects_view', {'id': spell.savingThrowEffect.id, 'slug': spell.savingThrowEffect.slug}) }}">{{ spell.savingThrowEffect.name|lower }}</a>
 		  {% else %}
 			 aucun
 		  {% endif %}

@@ -9,7 +9,7 @@ use Sensio\Bundle\FrameworkExtraBundle\Configuration\Template;
 class FeatTypesController extends Controller
 {
     /**
-     * @Route("/rules/feattypes", name="ico_rules_feattypes")
+     * @Route("/règles-pathfinder/types-de-dons", name="ico_rules_feattypes")
      * @Template()
      */
     public function indexAction()
@@ -32,7 +32,7 @@ class FeatTypesController extends Controller
     }
     
     /**
-     * @Route("/rules/feattypes/view/{id}", name="ico_rules_feattypes_view", options={"expose"=true})
+     * @Route("/règles-pathfinder/types-de-dons/{id}/{slug}", requirements={"id"="\d+"}, defaults={"slug"=false}, name="ico_rules_feattypes_view", options={"expose"=true})
      * @Template()
      */
     public function viewAction($id)
@@ -56,7 +56,7 @@ class FeatTypesController extends Controller
     }
     
     /**
-     * @Route("/rules/feattypes/preview/{id}", name="ico_rules_feattypes_preview", options={"expose"=true})
+     * @Route("/règles-pathfinder-aperçu/types-de-dons/{id}/{slug}", requirements={"id"="\d+"}, defaults={"slug"=false}, name="ico_rules_feattypes_preview", options={"expose"=true})
      * @Template()
      */
     public function previewAction($id)

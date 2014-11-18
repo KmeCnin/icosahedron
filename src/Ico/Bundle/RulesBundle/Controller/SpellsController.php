@@ -10,7 +10,7 @@ use Symfony\Component\HttpFoundation\Request;
 class SpellsController extends Controller
 {
     /**
-     * @Route("/rules/spells", name="ico_rules_spells")
+     * @Route("/règles-pathfinder/sorts", name="ico_rules_spells")
      * @Template()
      */
     public function indexAction(Request $request)
@@ -112,7 +112,7 @@ class SpellsController extends Controller
     }
     
     /**
-     * @Route("/rules/spell/view/{id}", name="ico_rules_spell_view", options={"expose"=true})
+     * @Route("/règles-pathfinder/sorts/{id}/{slug}", requirements={"id"="\d+"}, defaults={"slug"=false}, name="ico_rules_spell_view", options={"expose"=true})
      * @Template()
      */
     public function viewAction($id)
@@ -135,7 +135,7 @@ class SpellsController extends Controller
     }
     
     /**
-     * @Route("/rules/spell/preview/{id}", name="ico_rules_spellt_preview", options={"expose"=true})
+     * @Route("/règles-pathfinder-aperçu/sorts/{id}/{slug}", requirements={"id"="\d+"}, defaults={"slug"=false}, name="ico_rules_spellt_preview", options={"expose"=true})
      * @Template()
      */
     public function previewAction($id)

@@ -45,7 +45,7 @@
     <tr>
 	   <td class="link" data-toggle="modal" data-target="#modal_feat_{{ feat.id }}"><a>{{ feat.name }}</a></td>
 	   <td>
-		  {% for feattype in feat.feattypes %}{% if loop.index != 1 %}, {% endif %}{% if feattype.description is not empty %}<a class="preview text-nowrap" href="{{ path('ico_rules_feattypes_view', {'id': feattype.id}) }}">{{ feattype.name }}</a>{% else %}{{ feattype.name }}{% endif %}{% endfor %}
+		  {% for feattype in feat.feattypes %}{% if loop.index != 1 %}, {% endif %}{% if feattype.description is not empty %}<a class="preview text-nowrap" href="{{ path('ico_rules_feattypes_view', {'id': feattype.id, 'slug': feattype.slug}) }}">{{ feattype.name }}</a>{% else %}{{ feattype.name }}{% endif %}{% endfor %}
 	   </td>
 	   <td>
 		  {% for featprerequisite in feat.featprerequisites %}{% if loop.index != 1 %}, {% endif %}{% if featprerequisite.link != '' %}<a class="preview text-nowrap" href="{{ featprerequisite.link|environment }}">{{ featprerequisite.name }}</a>{% else %}<span class="text-nowrap">{{ featprerequisite.name }}</span>{% endif %}{% endfor %}
@@ -79,7 +79,7 @@
 				    {% endfor %}
 				</ul>
 			 </div>
-                         <h4 class="modal-title" id="myModalLabel"><a target="_blank" class="ninja" href="{{ path('ico_rules_feat_view', {'id': feat.id}) }}">{{ feat.name }} <small>[Don]</small></a></h4>
+                         <h4 class="modal-title" id="myModalLabel"><a target="_blank" class="ninja" href="{{ path('ico_rules_feat_view', {'id': feat.id, 'slug': feat.slug}) }}">{{ feat.name }} <small>[Don]</small></a></h4>
 		  </div>
 		  <div class="modal-body">
 			 <div class="nav-modal">

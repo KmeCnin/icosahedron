@@ -334,12 +334,12 @@ EOT
 			 
 			 // Création du lien vers l'effet (inoffensif)
 			 $inoffensif = $this->getEntityFromNameId('SavingThrowEffect', 'inoffensif');
-			 $url = $this->root.$this->getContainer()->get('router')->generate('ico_rules_savingthroweffects_view', array('id' => $inoffensif->getId()));
+			 $url = $this->root.$this->getContainer()->get('router')->generate('ico_rules_savingthroweffects_view', array('id' => $inoffensif->getId(), 'slug' => $inoffensif->getSlug()));
 			 $saving_throw_special = preg_replace('/inoffensif/i', '<a class="preview" href="' . $url . '">inoffensif</a>', $node->filter('savingThrow')->text());
 			 
 			 // Création du lien vers l'effet (objet)
 			 $objet = $this->getEntityFromNameId('SavingThrowEffect', 'objet');
-			 $url = $this->root.$this->getContainer()->get('router')->generate('ico_rules_savingthroweffects_view', array('id' => $objet->getId()));
+			 $url = $this->root.$this->getContainer()->get('router')->generate('ico_rules_savingthroweffects_view', array('id' => $objet->getId(), 'slug' => $objet->getSlug()));
 			 $saving_throw_special = preg_replace('/objet/i', '<a class="preview" href="' . $url . '">objet</a>', $saving_throw_special);
 			 
 			 $spell->setSavingThrowSpecial($saving_throw_special);
@@ -511,12 +511,12 @@ EOT
 			 } elseif ($metadata['type'] == 'spellCast') {
 				$spell = $spell_repository->findOneByNameId($metadata['value']);
 				if ($spell) {
-				    $link = $this->root.$this->getContainer()->get('router')->generate('ico_rules_spell_view', array('id' => $spell->getId()));
+				    $link = $this->root.$this->getContainer()->get('router')->generate('ico_rules_spell_view', array('id' => $spell->getId(), 'slug' => $spell->getSlug()));
 				}
 			 } elseif ($metadata['type'] == 'feat') {
 				$feat = $feat_repository->findOneByNameId($metadata['value']);
 				if ($feat) {
-				    $link = $this->root.$this->getContainer()->get('router')->generate('ico_rules_feat_view', array('id' => $feat->getId()));
+				    $link = $this->root.$this->getContainer()->get('router')->generate('ico_rules_feat_view', array('id' => $feat->getId(), 'slug' => $feat->getSlug()));
 				}
 			 }
 			 $em = $this->getDoctrine()->getManager();
@@ -599,16 +599,18 @@ EOT
 		  $pages[] = $fileInfo->getFilename();
 	   }
 	   foreach ($pages as $page) {
+		  set_time_limit(50);
 		  // Url exceptionnelles
 		  $specials_urls = array(
 			 array(
 				'raw' => 'round',
 				'route' => 'battleunits',
-				'id' => 7
+				'id' => 7,
+				'slug' => 'round'
 			 )
 		  );
 		  foreach ($specials_urls as $data) {
-			 $this->urlTranslator['Pathfinder-RPG.'.$data['raw'].'.ashx'] = $this->root.$this->getContainer()->get('router')->generate('ico_rules_'.$data['route'].'_view', array('id' => $data['id']));
+			 $this->urlTranslator['Pathfinder-RPG.'.$data['raw'].'.ashx'] = $this->root.$this->getContainer()->get('router')->generate('ico_rules_'.$data['route'].'_view', array('id' => $data['id'], 'slug' => $data['slug']));
 		  }
 		  // Url correspondant à des fichiers
 		  $crawler = new Crawler;
@@ -625,7 +627,7 @@ EOT
 				if ($category == $cat) {
 				    $entity = $this->getEntityFromName(ucfirst($entityName), $crawler->filter('title')->text());
 				    if ($entity) {
-					   $this->urlTranslator[$this->urlFromFileName($page)] = $this->root.$this->getContainer()->get('router')->generate('ico_rules_'.$entityName.'_view', array('id' => $entity->getId()));
+					   $this->urlTranslator[$this->urlFromFileName($page)] = $this->root.$this->getContainer()->get('router')->generate('ico_rules_'.$entityName.'_view', array('id' => $entity->getId(), 'slug' => $entity->getSlug()));
 				    }
 				}
 			 }

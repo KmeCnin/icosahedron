@@ -10,7 +10,7 @@ use Symfony\Component\HttpFoundation\Request;
 class SpellSchoolsController extends Controller
 {
     /**
-     * @Route("/rules/spellschools", name="ico_rules_spellschools")
+     * @Route("/règles-pathfinder/écoles-de-magie", name="ico_rules_spellschools")
      * @Template()
      */
     public function indexAction(Request $request)
@@ -33,7 +33,7 @@ class SpellSchoolsController extends Controller
     }
     
     /**
-     * @Route("/rules/spellschools/view/{id}", name="ico_rules_spellschools_view", options={"expose"=true})
+     * @Route("/règles-pathfinder/écoles-de-magie/{id}/{slug}", requirements={"id"="\d+"}, defaults={"slug"=false}, name="ico_rules_spellschools_view", options={"expose"=true})
      * @Template()
      */
     public function viewAction($id)
@@ -57,7 +57,7 @@ class SpellSchoolsController extends Controller
     }
     
     /**
-     * @Route("/rules/spellschools/preview/{id}", name="ico_rules_spellschools_preview", options={"expose"=true})
+     * @Route("/règles-pathfinder-aperçu/écoles-de-magie/{id}/{slug}", requirements={"id"="\d+"}, defaults={"slug"=false}, name="ico_rules_spellschools_preview", options={"expose"=true})
      * @Template()
      */
     public function previewAction($id)

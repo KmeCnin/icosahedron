@@ -10,7 +10,7 @@ use Symfony\Component\HttpFoundation\Request;
 class FeatsController extends Controller
 {
     /**
-     * @Route("/rules/feats", name="ico_rules_feats")
+     * @Route("/règles-pathfinder/dons", name="ico_rules_feats")
      * @Template()
      */
     public function indexAction(Request $request)
@@ -115,7 +115,7 @@ class FeatsController extends Controller
     }
     
     /**
-     * @Route("/rules/feat/view/{id}", name="ico_rules_feat_view", options={"expose"=true})
+     * @Route("/règles-pathfinder/dons/{id}/{slug}", requirements={"id"="\d+"}, defaults={"slug"=false}, name="ico_rules_feat_view", options={"expose"=true})
      * @Template()
      */
     public function viewAction($id)
@@ -138,7 +138,7 @@ class FeatsController extends Controller
     }
     
     /**
-     * @Route("/rules/feat/preview/{id}", name="ico_rules_feat_preview", options={"expose"=true})
+     * @Route("/règles-pathfinder-aperçu/dons/{id}/{slug}", requirements={"id"="\d+"}, defaults={"slug"=false}, name="ico_rules_feat_preview", options={"expose"=true})
      * @Template()
      */
     public function previewAction($id)

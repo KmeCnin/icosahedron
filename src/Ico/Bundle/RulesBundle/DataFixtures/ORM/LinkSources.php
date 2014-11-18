@@ -50,7 +50,7 @@ class LinkSources implements FixtureInterface, OrderedFixtureInterface {
     }
 
     public function getOrder() {
-	   return 11;
+	   return 10;
     }
 
 }
