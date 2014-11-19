@@ -2,7 +2,8 @@
 
 namespace Ico\Bundle\RulesBundle\Entity;
 
-use Doctrine\ORM\Mapping as ORM;
+use Doctrine\ORM\Mapping as ORM; 
+use Gedmo\Mapping\Annotation as Gedmo;
 
 /**
  * Feat
@@ -10,7 +11,7 @@ use Doctrine\ORM\Mapping as ORM;
  * @ORM\Table(name="feat", indexes={@ORM\Index(name="nameId_idx", columns={"nameId"})})
  * @ORM\Entity(repositoryClass="Ico\Bundle\RulesBundle\Repository\FeatRepository")
  */ 
-class Feat extends Normalized
+class Feat
 {
     /**
      * @var integer
@@ -27,6 +28,12 @@ class Feat extends Normalized
      * @ORM\Column(name="nameId", type="string", length=255)
      */
     private $nameId;
+    
+    /**
+     * @Gedmo\Slug(fields={"nameId"})
+     * @ORM\Column(name="slug", type="string", length=255)
+     */
+    private $slug;
 
     /**
      * @var string
@@ -73,7 +80,7 @@ class Feat extends Normalized
      */
     public function __construct()
     {
-        parent::__construct();
+        
         $this->featTypes = new \Doctrine\Common\Collections\ArrayCollection();
     }
 
@@ -119,7 +126,7 @@ class Feat extends Normalized
     public function setName($name)
     {
         $this->name = $name;
-	   $this->setSlug($this->name);
+	   
 
         return $this;
     }
@@ -277,5 +284,28 @@ class Feat extends Normalized
     public function getFeatPrerequisites()
     {
         return $this->featPrerequisites;
+    }
+
+    /**
+     * Set slug
+     *
+     * @param string $slug
+     * @return BattleRange
+     */
+    public function setSlug($slug)
+    {
+        $this->slug = $slug;
+
+        return $this;
+    }
+
+    /**
+     * Get slug
+     *
+     * @return string 
+     */
+    public function getSlug()
+    {
+        return $this->slug;
     }
 }

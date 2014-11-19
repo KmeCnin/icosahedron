@@ -2,7 +2,8 @@
 
 namespace Ico\Bundle\RulesBundle\Entity;
 
-use Doctrine\ORM\Mapping as ORM;
+use Doctrine\ORM\Mapping as ORM; 
+use Gedmo\Mapping\Annotation as Gedmo;
 
 /**
  * SpellSchool
@@ -10,7 +11,7 @@ use Doctrine\ORM\Mapping as ORM;
  * @ORM\Table(name="spellschool", indexes={@ORM\Index(name="nameId_idx", columns={"nameId"})})
  * @ORM\Entity(repositoryClass="Ico\Bundle\RulesBundle\Repository\SpellSchoolRepository")
  */ 
-class SpellSchool extends Normalized
+class SpellSchool
 {
     /**
      * @var integer
@@ -27,6 +28,12 @@ class SpellSchool extends Normalized
      * @ORM\Column(name="nameId", type="string", length=255)
      */
     private $nameId;
+    
+    /**
+     * @Gedmo\Slug(fields={"nameId"})
+     * @ORM\Column(name="slug", type="string", length=255)
+     */
+    private $slug;
 
     /**
      * @var string
@@ -59,7 +66,7 @@ class SpellSchool extends Normalized
      */
     public function __construct()
     {
-        parent::__construct();
+        
     }
 
 
@@ -105,7 +112,7 @@ class SpellSchool extends Normalized
     public function setName($name)
     {
         $this->name = $name;
-	   $this->setSlug($this->name);
+	   
 
         return $this;
     }
@@ -164,5 +171,28 @@ class SpellSchool extends Normalized
     public function getDetail()
     {
         return $this->detail;
+    }
+
+    /**
+     * Set slug
+     *
+     * @param string $slug
+     * @return BattleRange
+     */
+    public function setSlug($slug)
+    {
+        $this->slug = $slug;
+
+        return $this;
+    }
+
+    /**
+     * Get slug
+     *
+     * @return string 
+     */
+    public function getSlug()
+    {
+        return $this->slug;
     }
 }

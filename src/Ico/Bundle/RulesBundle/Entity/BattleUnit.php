@@ -2,7 +2,8 @@
 
 namespace Ico\Bundle\RulesBundle\Entity;
 
-use Doctrine\ORM\Mapping as ORM;
+use Doctrine\ORM\Mapping as ORM; 
+use Gedmo\Mapping\Annotation as Gedmo;
 
 /**
  * BattleUnit
@@ -10,7 +11,7 @@ use Doctrine\ORM\Mapping as ORM;
  * @ORM\Table(name="battleunit", indexes={@ORM\Index(name="nameId_idx", columns={"nameId"})})
  * @ORM\Entity(repositoryClass="Ico\Bundle\RulesBundle\Repository\BattleUnitRepository")
  */ 
-class BattleUnit extends Normalized
+class BattleUnit
 {
     /**
      * @var integer
@@ -27,6 +28,12 @@ class BattleUnit extends Normalized
      * @ORM\Column(name="nameId", type="string", length=255)
      */
     private $nameId;
+    
+    /**
+     * @Gedmo\Slug(fields={"nameId"})
+     * @ORM\Column(name="slug", type="string", length=255)
+     */
+    private $slug;
     
     /**
      * @var string
@@ -60,7 +67,7 @@ class BattleUnit extends Normalized
      * Constructor
      */
     public function __construct() {
-        parent::__construct();
+        
     }
 
     /**
@@ -82,7 +89,7 @@ class BattleUnit extends Normalized
     public function setName($name)
     {
         $this->name = $name;
-	   $this->setSlug($this->name);
+	   
 
         return $this;
     }
@@ -187,5 +194,28 @@ class BattleUnit extends Normalized
     public function getDetail()
     {
         return $this->detail;
+    }
+
+    /**
+     * Set slug
+     *
+     * @param string $slug
+     * @return BattleRange
+     */
+    public function setSlug($slug)
+    {
+        $this->slug = $slug;
+
+        return $this;
+    }
+
+    /**
+     * Get slug
+     *
+     * @return string 
+     */
+    public function getSlug()
+    {
+        return $this->slug;
     }
 }

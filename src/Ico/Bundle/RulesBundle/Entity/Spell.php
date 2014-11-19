@@ -2,7 +2,8 @@
 
 namespace Ico\Bundle\RulesBundle\Entity;
 
-use Doctrine\ORM\Mapping as ORM;
+use Doctrine\ORM\Mapping as ORM; 
+use Gedmo\Mapping\Annotation as Gedmo;
 
 /**
  * Spell
@@ -10,7 +11,7 @@ use Doctrine\ORM\Mapping as ORM;
  * @ORM\Table(name="spell", indexes={@ORM\Index(name="nameId_idx", columns={"nameId"})})
  * @ORM\Entity(repositoryClass="Ico\Bundle\RulesBundle\Repository\SpellRepository")
  */ 
-class Spell extends Normalized
+class Spell
 {
     /**
      * @var integer
@@ -27,6 +28,12 @@ class Spell extends Normalized
      * @ORM\Column(name="nameId", type="string", length=255)
      */
     private $nameId;
+    
+    /**
+     * @Gedmo\Slug(fields={"nameId"})
+     * @ORM\Column(name="slug", type="string", length=255)
+     */
+    private $slug;
 
     /**
      * @var string
@@ -136,7 +143,7 @@ class Spell extends Normalized
      */
     public function __construct()
     {
-        parent::__construct();
+        
         $this->featTypes = new \Doctrine\Common\Collections\ArrayCollection();
     }
 
@@ -182,7 +189,7 @@ class Spell extends Normalized
     public function setName($name)
     {
         $this->name = $name;
-	   $this->setSlug($this->name);
+	   
 
         return $this;
     }
@@ -593,5 +600,28 @@ class Spell extends Normalized
     public function getSavingThrowEffect()
     {
         return $this->savingThrowEffect;
+    }
+
+    /**
+     * Set slug
+     *
+     * @param string $slug
+     * @return BattleRange
+     */
+    public function setSlug($slug)
+    {
+        $this->slug = $slug;
+
+        return $this;
+    }
+
+    /**
+     * Get slug
+     *
+     * @return string 
+     */
+    public function getSlug()
+    {
+        return $this->slug;
     }
 }

@@ -2,7 +2,8 @@
 
 namespace Ico\Bundle\RulesBundle\Entity;
 
-use Doctrine\ORM\Mapping as ORM;
+use Doctrine\ORM\Mapping as ORM; 
+use Gedmo\Mapping\Annotation as Gedmo;
 
 /**
  * FeatType
@@ -10,7 +11,7 @@ use Doctrine\ORM\Mapping as ORM;
  * @ORM\Table(name="feattype", indexes={@ORM\Index(name="nameId_idx", columns={"nameId"})})
  * @ORM\Entity(repositoryClass="Ico\Bundle\RulesBundle\Repository\FeatTypeRepository")
  */ 
-class FeatType extends Normalized
+class FeatType
 {
     /**
      * @var integer
@@ -26,7 +27,13 @@ class FeatType extends Normalized
      *
      * @ORM\Column(name="nameId", type="string", length=255)
      */
-    private $nameId;  
+    private $nameId; 
+    
+    /**
+     * @Gedmo\Slug(fields={"nameId"})
+     * @ORM\Column(name="slug", type="string", length=255)
+     */
+    private $slug; 
 
     /**
      * @var string
@@ -70,7 +77,7 @@ class FeatType extends Normalized
      */
     public function __construct()
     {
-        parent::__construct();
+        
         $this->feats = new \Doctrine\Common\Collections\ArrayCollection();
     }
 
@@ -93,7 +100,7 @@ class FeatType extends Normalized
     public function setName($name)
     {
         $this->name = $name;
-	   $this->setSlug($this->name);
+	   
 
         return $this;
     }
@@ -231,5 +238,28 @@ class FeatType extends Normalized
     public function getFeats()
     {
         return $this->feats;
+    }
+
+    /**
+     * Set slug
+     *
+     * @param string $slug
+     * @return BattleRange
+     */
+    public function setSlug($slug)
+    {
+        $this->slug = $slug;
+
+        return $this;
+    }
+
+    /**
+     * Get slug
+     *
+     * @return string 
+     */
+    public function getSlug()
+    {
+        return $this->slug;
     }
 }
