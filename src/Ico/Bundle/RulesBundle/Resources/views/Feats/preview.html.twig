@@ -8,7 +8,11 @@
     {% endfor %}
     <br />
     <span class="text-muted">Conditions : </span>
-    {% for featprerequisite in feat.featprerequisites %}{% if loop.index != 1 %}, {% endif %}<span class="text-primary text-nowrap">{{ featprerequisite.name }}</span>{% endfor %}
+    {% if feat.featprerequisites|length > 0 %}
+	   {% for featprerequisite in feat.featprerequisites %}{% if loop.index != 1 %}, {% endif %}<span class="text-primary text-nowrap">{{ featprerequisite.name }}</span>{% endfor %}
+    {% else %}
+	   Aucune
+    {% endif %}
 </small>
 <div class="well well-sm">
     {{ feat.description }}

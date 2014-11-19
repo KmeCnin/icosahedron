@@ -96,8 +96,16 @@ class FeatsController extends Controller
 		   $queryBuilder->getQuery(), $this->get('request')->query->get('page', 1) /* page number */, 50 /* limit per page */
 	   );
 	   
+	   $tree = array();
 	   if (count($pagination) == 0) {
 		  $this->get('session')->getFlashBag()->add('warning', 'Aucun don ne correspond à vos critères.');
+	   } else {
+		  // Récupération de l'arborescence de chaque don
+		  foreach ($pagination as $feat) {
+			 $tree[$feat->getId()] = $this->getDoctrine()
+				->getRepository('IcoRulesBundle:Feat')
+				->findRelatives($feat);
+		  }
 	   }
 	   
         return $this->render('IcoRulesBundle:Feats:index.html.twig', array(
@@ -110,7 +118,8 @@ class FeatsController extends Controller
 		  'subtitle' => 'Liste',
 //		  'featprerequisites' => $featprerequisites,
 		  'pagination' => $pagination,
-		  'filter' => $filter->createView()
+		  'filter' => $filter->createView(),
+		  'tree' => $tree
 	   ));
     }
     
@@ -124,6 +133,10 @@ class FeatsController extends Controller
 		  ->getRepository('IcoRulesBundle:Feat')
 		  ->find($id);
 	   
+	   $tree = $this->getDoctrine()
+		  ->getRepository('IcoRulesBundle:Feat')
+		  ->findRelatives($feat);
+	   
         return $this->render('IcoRulesBundle:Feats:view.html.twig', array(
 		  'breadcrumb' => array(
 			 'Accueil' => 'ico', 
@@ -133,7 +146,8 @@ class FeatsController extends Controller
 		  ),
 		  'title' => 'Don',
 		  'subtitle' => $feat->getName(),
-		  'feat' => $feat
+		  'feat' => $feat,
+		  'tree' => $tree
 	   ));
     }
     

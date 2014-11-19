@@ -489,6 +489,7 @@ EOT
 	   foreach ($this->metadatas as $metadatas) {
 		  foreach ($metadatas as $metadata) {
 
+			 $em = $this->getDoctrine()->getManager();
 			 $feat_repository = $this->getDoctrine()->getRepository('IcoRulesBundle:Feat');
 			 $spell_repository = $this->getDoctrine()->getRepository('IcoRulesBundle:Spell');
 			 if ($metadata['type'] == 'other') {
@@ -517,9 +518,12 @@ EOT
 				$feat = $feat_repository->findOneByNameId($metadata['value']);
 				if ($feat) {
 				    $link = $this->root.$this->getContainer()->get('router')->generate('ico_rules_feat_view', array('id' => $feat->getId(), 'slug' => $feat->getSlug()));
+				    // Définition du lien de parenté pour l'arborescence de dons
+				    $feat_parent = $feat_repository->findOneByNameId($metadata['feat']);
+				    $feat_parent->setParent($feat);
+				    $em->persist($feat_parent);
 				}
 			 }
-			 $em = $this->getDoctrine()->getManager();
 			 $feat_prerequisite = new FeatPrerequisite();
 			 $feat_prerequisite->setName($metadata['html']);
 			 $feat_prerequisite->setLink($link);

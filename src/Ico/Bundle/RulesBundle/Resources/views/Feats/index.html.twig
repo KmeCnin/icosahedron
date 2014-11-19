@@ -99,7 +99,7 @@
 				</div>
 			 </div>
 			 <br /><br />
-			 {% include 'IcoRulesBundle:Feats:display.html.twig' with {'feat': feat} only %}
+			 {% include 'IcoRulesBundle:Feats:display.html.twig' with {'feat': feat, 'tree': tree[feat.id]} only %}
 		  </div>
 		  <div class="modal-footer">
 			 <button type="button" class="btn btn-default" data-dismiss="modal"><span class="fa fa-times"></span> Fermer</button>
