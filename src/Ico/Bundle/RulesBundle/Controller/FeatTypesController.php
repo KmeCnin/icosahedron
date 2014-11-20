@@ -21,7 +21,7 @@ class FeatTypesController extends Controller
         return $this->render('IcoRulesBundle:FeatTypes:index.html.twig', array(
 		  'breadcrumb' => array(
 			 'Accueil' => 'ico', 
-			 'Règles' => 'ico_rules', 
+			 'Règles Pathfinder' => 'ico_rules', 
 			 'Dons' => 'ico_rules_feats',
 			 'Catégories de don' => 'ico_rules_feat_types'
 		  ),
@@ -44,7 +44,7 @@ class FeatTypesController extends Controller
         return $this->render('IcoRulesBundle:FeatTypes:view.html.twig', array(
 		  'breadcrumb' => array(
 			 'Accueil' => 'ico', 
-			 'Règles' => 'ico_rules', 
+			 'Règles Pathfinder' => 'ico_rules', 
 			 'Dons' => 'ico_rules_feats',
 			 'Catégories de don' => 'ico_rules_feattypes',
 			 $feat_type->getName() => ''

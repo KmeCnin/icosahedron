@@ -27,7 +27,7 @@
     <div class="panel-heading">Arbre de progression</div>
     <div class="panel-body justify">
 	   <ul class="">
-		  {% include 'IcoRulesBundle:Feats:tree.html.twig' with {'tree': tree} only %}
+		  {% include 'IcoRulesBundle:Feats:tree.html.twig' with {'tree': tree, 'current_feat': feat} only %}
 	   </ul>
     </div>
 </div>

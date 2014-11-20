@@ -22,7 +22,7 @@ class SpellSchoolsController extends Controller
         return $this->render('IcoRulesBundle:SpellSchools:index.html.twig', array(
 		  'breadcrumb' => array(
 			 'Accueil' => 'ico', 
-			 'Règles' => 'ico_rules', 
+			 'Règles Pathfinder' => 'ico_rules', 
 			 'Sorts' => 'ico_rules_spells',
 			 'Écoles' => 'ico_rules_spellschools'
 		  ),
@@ -45,7 +45,7 @@ class SpellSchoolsController extends Controller
         return $this->render('IcoRulesBundle:SpellSchools:view.html.twig', array(
 		  'breadcrumb' => array(
 			 'Accueil' => 'ico', 
-			 'Règles' => 'ico_rules', 
+			 'Règles Pathfinder' => 'ico_rules', 
 			 'Sorts' => 'ico_rules_spells',
 			 'École de magie' => 'ico_rules_spellschools',
 			 $spell_school->getName() => ''

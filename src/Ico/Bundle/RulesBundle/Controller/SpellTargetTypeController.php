@@ -22,7 +22,7 @@ class SpellTargetTypeController extends Controller
         return $this->render('IcoRulesBundle:SpellTargetTypes:index.html.twig', array(
 		  'breadcrumb' => array(
 			 'Accueil' => 'ico', 
-			 'Règles' => 'ico_rules', 
+			 'Règles Pathfinder' => 'ico_rules', 
 			 'Sorts' => 'ico_rules_spells',
 			 'Types de ciblage' => 'ico_rules_spelltargettypes'
 		  ),
@@ -45,7 +45,7 @@ class SpellTargetTypeController extends Controller
         return $this->render('IcoRulesBundle:SpellTargetTypes:view.html.twig', array(
 		  'breadcrumb' => array(
 			 'Accueil' => 'ico', 
-			 'Règles' => 'ico_rules', 
+			 'Règles Pathfinder' => 'ico_rules', 
 			 'Sorts' => 'ico_rules_spells',
 			 'Types de ciblage' => 'ico_rules_spelltargettypes',
 			 $spelltargettype->getName() => ''

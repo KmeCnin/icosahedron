@@ -101,7 +101,7 @@ class SpellsController extends Controller
         return $this->render('IcoRulesBundle:Spells:index.html.twig', array(
 		  'breadcrumb' => array(
 			 'Accueil' => 'ico', 
-			 'Règles' => 'ico_rules', 
+			 'Règles Pathfinder' => 'ico_rules', 
 			 'Sorts' => 'ico_rules_spells'
 		  ),
 		  'title' => 'Sorts',
@@ -124,7 +124,7 @@ class SpellsController extends Controller
         return $this->render('IcoRulesBundle:Spells:view.html.twig', array(
 		  'breadcrumb' => array(
 			 'Accueil' => 'ico', 
-			 'Règles' => 'ico_rules', 
+			 'Règles Pathfinder' => 'ico_rules', 
 			 'Sorts' => 'ico_rules_spells',
 			 $spell->getName() => ''
 		  ),

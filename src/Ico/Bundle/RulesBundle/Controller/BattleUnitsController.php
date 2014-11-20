@@ -22,7 +22,7 @@ class BattleUnitsController extends Controller
         return $this->render('IcoRulesBundle:BattleUnits:index.html.twig', array(
 		  'breadcrumb' => array(
 			 'Accueil' => 'ico', 
-			 'Règles' => 'ico_rules', 
+			 'Règles Pathfinder' => 'ico_rules', 
 			 'Types d\'actions' => 'ico_rules_battleunits'
 		  ),
 		  'title' => 'Types d\'actions',
@@ -44,7 +44,7 @@ class BattleUnitsController extends Controller
         return $this->render('IcoRulesBundle:BattleUnits:view.html.twig', array(
 		  'breadcrumb' => array(
 			 'Accueil' => 'ico', 
-			 'Règles' => 'ico_rules', 
+			 'Règles Pathfinder' => 'ico_rules', 
 			 'Types d\'actions' => 'ico_rules_battleunits',
 			 $action->getName() => ''
 		  ),

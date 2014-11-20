@@ -22,9 +22,22 @@ class FeatRepository extends NestedTreeRepository
      * findRelatives
      * 
      * Getting only descending children and ascending parents from the element
+     * 
+     * @param	 Feat    $feat	  Base Feat to search for relatives
+     * 
+     * @return array   All the genealogic tree of the feat (Parents + Children)
      */
     public function findRelatives(\Ico\Bundle\RulesBundle\Entity\Feat $feat)
     {
-	   return $this->childrenHierarchy($feat);
+	   // Getting full path to Feat
+	   $path = $this->getPath($feat);
+	   // Getting oldest Feat
+	   $dean = $path[0];
+	   // Getting all tree from oldest Feat
+	   $tree = $this->childrenHierarchy($dean, false, array(), true);
+	   
+	   return $tree;
     }
+    
+    
 }

@@ -22,7 +22,7 @@ class BattleRangesController extends Controller
         return $this->render('IcoRulesBundle:BattleRanges:index.html.twig', array(
 		  'breadcrumb' => array(
 			 'Accueil' => 'ico', 
-			 'Règles' => 'ico_rules', 
+			 'Règles Pathfinder' => 'ico_rules', 
 			 'Portées' => 'ico_rules_battleranges'
 		  ),
 		  'title' => 'Portées',
@@ -44,7 +44,7 @@ class BattleRangesController extends Controller
         return $this->render('IcoRulesBundle:BattleRanges:view.html.twig', array(
 		  'breadcrumb' => array(
 			 'Accueil' => 'ico', 
-			 'Règles' => 'ico_rules', 
+			 'Règles Pathfinder' => 'ico_rules', 
 			 'Portées' => 'ico_rules_battleranges',
 			 $range->getName() => ''
 		  ),

@@ -1,6 +1,10 @@
 {% for feat in tree %}
     <li>
-        <a target="_blank" class="preview" href="{{ path('ico_rules_feat_view', {'id': feat.id, 'slug': feat.slug}) }}">{{ feat.name }}</a>
+	   {% if current_feat.id == feat.id %}
+		  {{ feat.name }}
+	   {% else %}
+		  <a target="_blank" class="preview" href="{{ path('ico_rules_feat_view', {'id': feat.id, 'slug': feat.slug}) }}">{{ feat.name }}</a>
+	   {% endif %}
         {% if feat.__children %}
             <ul>
                 {% include 'IcoRulesBundle:Feats:tree.html.twig' with {'tree': feat.__children} %}

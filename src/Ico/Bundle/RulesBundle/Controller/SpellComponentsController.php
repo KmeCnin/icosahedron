@@ -22,7 +22,7 @@ class SpellComponentsController extends Controller
         return $this->render('IcoRulesBundle:SpellComponents:index.html.twig', array(
 		  'breadcrumb' => array(
 			 'Accueil' => 'ico', 
-			 'Règles' => 'ico_rules', 
+			 'Règles Pathfinder' => 'ico_rules', 
 			 'Sorts' => 'ico_rules_spells',
 			 'Composantes' => 'ico_rules_spellcomponents'
 		  ),
@@ -45,7 +45,7 @@ class SpellComponentsController extends Controller
         return $this->render('IcoRulesBundle:SpellComponents:view.html.twig', array(
 		  'breadcrumb' => array(
 			 'Accueil' => 'ico', 
-			 'Règles' => 'ico_rules', 
+			 'Règles Pathfinder' => 'ico_rules', 
 			 'Sorts' => 'ico_rules_spells',
 			 'Composantes' => 'ico_rules_spellcomponents',
 			 $spell_component->getName() => ''

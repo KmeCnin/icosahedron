@@ -21,7 +21,7 @@ class SavingThrowEffectsController extends Controller
         return $this->render('IcoRulesBundle:SavingThrowEffects:index.html.twig', array(
 		  'breadcrumb' => array(
 			 'Accueil' => 'ico', 
-			 'Règles' => 'ico_rules', 
+			 'Règles Pathfinder' => 'ico_rules', 
 			 'Jets de sauvegarde' => 'ico_rules_savingthrows',
 			 'Effets de sauvegarde' => 'ico_rules_savingthroweffects'
 		  ),
@@ -44,7 +44,7 @@ class SavingThrowEffectsController extends Controller
         return $this->render('IcoRulesBundle:SavingThrowEffects:view.html.twig', array(
 		  'breadcrumb' => array(
 			 'Accueil' => 'ico', 
-			 'Règles' => 'ico_rules', 
+			 'Règles Pathfinder' => 'ico_rules', 
 			 'Jets de sauvegarde' => 'ico_rules_savingthrows',
 			 'Effets de sauvegarde' => 'ico_rules_savingthroweffects',
 			 $savingthroweffect->getName() => ''

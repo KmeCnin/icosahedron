@@ -111,7 +111,7 @@ class FeatsController extends Controller
         return $this->render('IcoRulesBundle:Feats:index.html.twig', array(
 		  'breadcrumb' => array(
 			 'Accueil' => 'ico', 
-			 'Règles' => 'ico_rules', 
+			 'Règles Pathfinder' => 'ico_rules', 
 			 'Dons' => 'ico_rules_feats'
 		  ),
 		  'title' => 'Dons',
@@ -140,7 +140,7 @@ class FeatsController extends Controller
         return $this->render('IcoRulesBundle:Feats:view.html.twig', array(
 		  'breadcrumb' => array(
 			 'Accueil' => 'ico', 
-			 'Règles' => 'ico_rules', 
+			 'Règles Pathfinder' => 'ico_rules', 
 			 'Dons' => 'ico_rules_feats',
 			 $feat->getName() => ''
 		  ),
