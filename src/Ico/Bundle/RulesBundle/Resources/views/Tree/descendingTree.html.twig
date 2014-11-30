@@ -1,0 +1,6 @@
+<tr>
+    <td rowspan="{{ trueTree.countNumberOfDescendingEntities(entity, 0) }}"><a class="preview text-nowrap" href="{{ path('ico_rules_feat_view', {'id': entity.id, 'slug': entity.slug}) }}">{{ entity.name }}</a></td>
+</tr>
+{% for child in trueTree.getTrueChildren(entity, level) %}
+{% include 'IcoRulesBundle:Tree:descendingTree.html.twig' with {'entity': child, 'trueTree': trueTree, 'level': level+1} only %}
+{% endfor %}

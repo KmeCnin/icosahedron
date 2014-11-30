@@ -151,7 +151,7 @@ class TrueTreeHelper {
      */
     protected function removeNearestFromDescendingTree($entity_id) {
 	   
-	   $lowest_level = count($this->getDescendingTree())+1;
+	   $lowest_level = count($this->getDescendingTree())-1;
 	   // Récupération du niveau de l'occurence la plus basse
 	   foreach($this->getDescendingTree() as $level => $entities) {
 		  foreach($entities as $entity) {
@@ -251,13 +251,14 @@ class TrueTreeHelper {
      * Récupère les parents directs et non redondants de l'entités
      * 
      * @param object $entity
+     * @param object $level
      * 
      * @return array Liste des vrais parents
      */
     public function getTrueParents($entity, $level) {
 	   $true_parents = array();
 	   foreach($entity->getParents() as $native_parent) {
-		  foreach($this->tree[$level] as $displayed_parent) {
+		  foreach($this->tree[$level-1] as $displayed_parent) {
 			 if ($native_parent->getId() == $displayed_parent->getId()) {
 				$true_parents[] = $native_parent;
 			 }
@@ -270,19 +271,46 @@ class TrueTreeHelper {
      * Récupère les enfants directs et non redondants de l'entités
      * 
      * @param object $entity
+     * @param object $level
      * 
      * @return array Liste des vrais enfants
      */
     public function getTrueChildren($entity, $level) {
 	   $true_children = array();
 	   foreach($entity->getChildren() as $native_child) {
-		  foreach($this->tree[$level] as $displayed_child) {
+		  foreach($this->tree[$level+1] as $displayed_child) {
 			 if ($native_child->getId() == $displayed_child->getId()) {
 				$true_children[] = $native_child;
 			 }
 		  }
 	   }
 	   return $true_children;
+    }
+    
+    /** 
+     * Renvoi le nombre d'entités au dessous de celle envoyée (y compris elle-même)
+     * 
+     * @param object $entity
+     * @param object $level
+     * 
+     * @return integre Nombre d'entités descendantes
+     */
+    public function countNumberOfDescendingEntities($entity, $level) {
+	   $involved_entities = array($entity->getId());
+	   $count = 1;
+	   foreach ($this->tree as $current_level => $entities) {
+		  if ($current_level > $level) {
+			 foreach ($entities as $current_entity) {
+				foreach ($current_entity->getParents() as $parent) {
+				    if (in_array($parent->getId(), $involved_entities)) {
+					   $count++;
+					   $involved_entities[] = $current_entity->getId();
+				    }
+				}
+			 }
+		  }
+	   }
+	   return $count;
     }
     
 }

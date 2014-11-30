@@ -1,0 +1,8 @@
+<table class="trueTree">
+    <tr>
+	   <td rowspan="{{ trueTree.countNumberOfDescendingEntities(entity, 0) }}">{{ entity.name }}</td>
+    </tr>
+    {% for child in trueTree.getTrueChildren(entity, 0) %}
+    {% include 'IcoRulesBundle:Tree:descendingTree.html.twig' with {'entity': child, 'trueTree': trueTree, 'level': 1} only %}
+    {% endfor %}
+</table>

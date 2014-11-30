@@ -1,0 +1,6 @@
+{% for parent in entity.parents %}
+    {% include 'IcoRulesBundle:Tree:ascendingTree.html.twig' with {'entity': parent} only %}
+{% endfor %}
+
+{% set top = top - level %}
+<div style="position: absolute; top: {{ top * lineheight }}px">{{ entity.name }}</div>

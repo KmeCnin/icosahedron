@@ -209,8 +209,10 @@ a > img.thumbnail {
     z-index: 1001;
 }
 table.trueTree {
-    width: 100%;
+    /*width: 100%;*/
 }
 table.trueTree td {
-    text-align: center;
+    text-align: left;
+    padding: 5px 25px;
+    vertical-align: top;
 }

@@ -24,7 +24,7 @@
 <div class="panel panel-default">
     <div class="panel-heading">Arbre de progression</div>
     <div class="panel-body justify" style="overflow-x: auto;">
-	   {% include 'IcoRulesBundle::tree.html.twig' with {'trueTree': tree} only %}
+	   {% include 'IcoRulesBundle:Tree:tree.html.twig' with {'entity': feat, 'trueTree': tree} only %}
     </div>
 </div>
 {% endif %}
