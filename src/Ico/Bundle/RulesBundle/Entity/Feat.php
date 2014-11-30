@@ -8,7 +8,6 @@ use Gedmo\Mapping\Annotation as Gedmo;
 /**
  * Feat
  *
- * @Gedmo\Tree(type="nested")
  * @ORM\Table(name="feat", indexes={@ORM\Index(name="nameId_idx", columns={"nameId"})})
  * @ORM\Entity(repositoryClass="Ico\Bundle\RulesBundle\Repository\FeatRepository")
  */ 
@@ -76,51 +75,27 @@ class Feat
      */
     protected $featPrerequisites;
     
-    /****** Tree DoctrineExtension *******/
+    /**
+     * @var ArrayCollection Feat $parents
+     *
+     * @ORM\ManyToMany(targetEntity="Feat", inversedBy="children", cascade={"persist", "merge", "remove"})
+     * @ORM\JoinTable(name="feat_parents_feat_children")
+     */
+    protected $parents;
     
     /**
-     * @Gedmo\TreeLeft
-     * @ORM\Column(name="lft", type="integer")
+     * @var ArrayCollection Feat $children
+     *
+     * @ORM\ManyToMany(targetEntity="Feat", mappedBy="parents", cascade={"persist", "merge", "remove"})
+     * @ORM\JoinTable(name="feat_parents_feat_children")
      */
-    private $lft;
-
-    /**
-     * @Gedmo\TreeLevel
-     * @ORM\Column(name="lvl", type="integer")
-     */
-    private $lvl;
-
-    /**
-     * @Gedmo\TreeRight
-     * @ORM\Column(name="rgt", type="integer")
-     */
-    private $rgt;
-
-    /**
-     * @Gedmo\TreeRoot
-     * @ORM\Column(name="root", type="integer", nullable=true)
-     */
-    private $root;
-
-    /**
-     * @Gedmo\TreeParent
-     * @ORM\ManyToOne(targetEntity="Feat", inversedBy="children")
-     * @ORM\JoinColumn(name="parent_id", referencedColumnName="id", onDelete="CASCADE")
-     */
-    private $parent;
-
-    /**
-     * @ORM\OneToMany(targetEntity="Feat", mappedBy="parent")
-     * @ORM\OrderBy({"lft" = "ASC"})
-     */
-    private $children;
+    protected $children;
     
     /**
      * Constructor
      */
     public function __construct()
     {
-        
         $this->featTypes = new \Doctrine\Common\Collections\ArrayCollection();
     }
 
@@ -350,118 +325,36 @@ class Feat
     }
 
     /**
-     * Set lft
+     * Add parents
      *
-     * @param integer $lft
+     * @param \Ico\Bundle\RulesBundle\Entity\Feat $parents
      * @return Feat
      */
-    public function setLft($lft)
+    public function addParent(\Ico\Bundle\RulesBundle\Entity\Feat $parents)
     {
-        $this->lft = $lft;
+        $this->parents[] = $parents;
 
         return $this;
     }
 
     /**
-     * Get lft
+     * Remove parents
      *
-     * @return integer 
+     * @param \Ico\Bundle\RulesBundle\Entity\Feat $parents
      */
-    public function getLft()
+    public function removeParent(\Ico\Bundle\RulesBundle\Entity\Feat $parents)
     {
-        return $this->lft;
+        $this->parents->removeElement($parents);
     }
 
     /**
-     * Set lvl
+     * Get parents
      *
-     * @param integer $lvl
-     * @return Feat
+     * @return \Doctrine\Common\Collections\Collection 
      */
-    public function setLvl($lvl)
+    public function getParents()
     {
-        $this->lvl = $lvl;
-
-        return $this;
-    }
-
-    /**
-     * Get lvl
-     *
-     * @return integer 
-     */
-    public function getLvl()
-    {
-        return $this->lvl;
-    }
-
-    /**
-     * Set rgt
-     *
-     * @param integer $rgt
-     * @return Feat
-     */
-    public function setRgt($rgt)
-    {
-        $this->rgt = $rgt;
-
-        return $this;
-    }
-
-    /**
-     * Get rgt
-     *
-     * @return integer 
-     */
-    public function getRgt()
-    {
-        return $this->rgt;
-    }
-
-    /**
-     * Set root
-     *
-     * @param integer $root
-     * @return Feat
-     */
-    public function setRoot($root)
-    {
-        $this->root = $root;
-
-        return $this;
-    }
-
-    /**
-     * Get root
-     *
-     * @return integer 
-     */
-    public function getRoot()
-    {
-        return $this->root;
-    }
-
-    /**
-     * Set parent
-     *
-     * @param \Ico\Bundle\RulesBundle\Entity\Feat $parent
-     * @return Feat
-     */
-    public function setParent(\Ico\Bundle\RulesBundle\Entity\Feat $parent = null)
-    {
-        $this->parent = $parent;
-
-        return $this;
-    }
-
-    /**
-     * Get parent
-     *
-     * @return \Ico\Bundle\RulesBundle\Entity\Feat 
-     */
-    public function getParent()
-    {
-        return $this->parent;
+        return $this->parents;
     }
 
     /**

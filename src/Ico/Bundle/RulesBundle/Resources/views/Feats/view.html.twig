@@ -1,5 +1,19 @@
 {% extends "IcoRulesBundle::layout.html.twig" %}
 
+{% block title %}
+{{ parent() }}
+<div class="btn-group pull-right" style="top: 20px;">
+    <span href="#" class="btn btn-default dropdown-toggle" data-toggle="dropdown" aria-expanded="false">
+	   Liens sources
+	   <span class="caret"></span>
+    </span>
+    <ul class="dropdown-menu">
+	   {% for link in feat.links %}
+	   <li><a target="_blank" href="{{ link.url }}" class="text-nowrap"><img class="thumbnail" src="{{ asset('Resources/public/images/'~link.source.picture) }}" alt="logo {{ link.source.name }}" /> {{ link.source.name }} [{{ link.source.language }}]</a></li>
+	   {% endfor %}
+    </ul>
+</div>
+{% endblock %}
 {% block content %}
     {% include 'IcoRulesBundle:Feats:display.html.twig' with {'feat': feat, 'tree': tree} only %}
 {% endblock %}

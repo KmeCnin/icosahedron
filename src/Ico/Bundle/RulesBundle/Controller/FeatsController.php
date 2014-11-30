@@ -2,9 +2,10 @@
 
 namespace Ico\Bundle\RulesBundle\Controller;
 
-use Symfony\Bundle\FrameworkBundle\Controller\Controller;
+use Ico\Bundle\RulesBundle\Helper\TrueTreeHelper;
 use Sensio\Bundle\FrameworkExtraBundle\Configuration\Route;
 use Sensio\Bundle\FrameworkExtraBundle\Configuration\Template;
+use Symfony\Bundle\FrameworkBundle\Controller\Controller;
 use Symfony\Component\HttpFoundation\Request;
 
 class FeatsController extends Controller
@@ -102,9 +103,8 @@ class FeatsController extends Controller
 	   } else {
 		  // Récupération de l'arborescence de chaque don
 		  foreach ($pagination as $feat) {
-			 $tree[$feat->getId()] = $this->getDoctrine()
-				->getRepository('IcoRulesBundle:Feat')
-				->findRelatives($feat);
+			 $trueTree = new TrueTreeHelper($feat);
+			 $tree[$feat->getId()] = $trueTree;
 		  }
 	   }
 	   
@@ -133,9 +133,7 @@ class FeatsController extends Controller
 		  ->getRepository('IcoRulesBundle:Feat')
 		  ->find($id);
 	   
-	   $tree = $this->getDoctrine()
-		  ->getRepository('IcoRulesBundle:Feat')
-		  ->findRelatives($feat);
+	   $trueTree = new TrueTreeHelper($feat);
 	   
         return $this->render('IcoRulesBundle:Feats:view.html.twig', array(
 		  'breadcrumb' => array(
@@ -147,7 +145,7 @@ class FeatsController extends Controller
 		  'title' => 'Don',
 		  'subtitle' => $feat->getName(),
 		  'feat' => $feat,
-		  'tree' => $tree
+		  'tree' => $trueTree
 	   ));
     }
     

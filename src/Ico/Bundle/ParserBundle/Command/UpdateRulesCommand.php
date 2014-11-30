@@ -447,6 +447,7 @@ EOT
 		  $tablesToTruncate[] = 'feat_feattype';
 		  $tablesToTruncate[] = 'IcoRulesBundle:FeatPrerequisite';
 		  $tablesToTruncate[] = 'feat_link';
+		  $tablesToTruncate[] = 'feat_parents_feat_children';
 	   }
 	   // Tables à vider seulement si on synchronise les sorts
 	   if ($this->updateSpells) {
@@ -517,11 +518,18 @@ EOT
 			 } elseif ($metadata['type'] == 'feat') {
 				$feat = $feat_repository->findOneByNameId($metadata['value']);
 				if ($feat) {
+				    
 				    $link = $this->root.$this->getContainer()->get('router')->generate('ico_rules_feat_view', array('id' => $feat->getId(), 'slug' => $feat->getSlug()));
 				    // Définition du lien de parenté pour l'arborescence de dons
 				    $feat_parent = $feat_repository->findOneByNameId($metadata['feat']);
-				    $feat_parent->setParent($feat);
+				    
+				    // Arborescence montante
+				    $feat_parent->addParent($feat);
 				    $em->persist($feat_parent);
+				    
+				    // Arborescence descendante
+				    $feat->addChild($feat_parent);
+				    $em->persist($feat);
 				}
 			 }
 			 $feat_prerequisite = new FeatPrerequisite();

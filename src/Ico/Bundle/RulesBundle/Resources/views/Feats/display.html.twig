@@ -10,9 +10,7 @@
     <div class="panel-heading">Conditions</div>
     <div class="panel-body justify">
     {% if feat.featprerequisites|length > 0 %}
-	   {% for featprerequisite in feat.featprerequisites %}
-		  {% if loop.index != 1 %}, {% endif %}{% if featprerequisite.link != '' %}<a class="preview" href="{{ featprerequisite.link|environment }}">{{ featprerequisite.name }}</a>{% else %}{{ featprerequisite.name }}{% endif %}
-	   {% endfor %}
+	   {% for featprerequisite in feat.featprerequisites %}{% if loop.index != 1 %}, {% endif %}{% if featprerequisite.link != '' %}<a class="preview" href="{{ featprerequisite.link|environment }}">{{ featprerequisite.name }}</a>{% else %}{{ featprerequisite.name }}{% endif %}{% endfor %}
     {% else %}
 	   Aucune
     {% endif %}
@@ -22,13 +20,11 @@
     <div class="panel-heading">Avantage</div>
     <div class="panel-body justify">{{ feat.benefit|environment|raw }}</div>
 </div>
-{% if tree is not empty %}
+{% if tree.tree|length > 1 %}
 <div class="panel panel-default">
     <div class="panel-heading">Arbre de progression</div>
-    <div class="panel-body justify">
-	   <ul class="">
-		  {% include 'IcoRulesBundle:Feats:tree.html.twig' with {'tree': tree, 'current_feat': feat} only %}
-	   </ul>
+    <div class="panel-body justify" style="overflow-x: auto;">
+	   {% include 'IcoRulesBundle::tree.html.twig' with {'trueTree': tree} only %}
     </div>
 </div>
 {% endif %}
