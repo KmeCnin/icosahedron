@@ -95,17 +95,24 @@ class TrueTreeHelper {
      */
     protected function setDescendingTree($entity, $level) {
 	   
-	   $this->tree[$level][] = $entity;
-//	   var_dump($this->displayTree());
-//	   var_dump($this->usedEntities);
-	   
-	   if (in_array($entity->getId(), $this->usedEntities)) {
-		  // L'entité a déjà été utilisé dans l'arborescence
-		  $this->removeNearestFromDescendingTree($entity->getId());
-	   } else {
-		  // On ajoute l'entité à la liste des entités déjà utilisées
-		  $this->usedEntities[] = $entity->getId();
+	   $alreadyInTree = false;
+	   foreach ($this->getTrueBrothers($entity, $level) as $bro) {
+		  if ($bro->getId() == $entity->getId()) {
+			 $alreadyInTree = true;
+			 break;
+		  }
 	   }
+	   if (!$alreadyInTree) {
+		  $this->tree[$level][] = $entity;
+	   }
+	   
+//	   if (in_array($entity->getId(), $this->usedEntities)) {
+//		  // L'entité a déjà été utilisé dans l'arborescence
+//		  $this->removeNearestFromDescendingTree($entity->getId());
+//	   } else {
+//		  // On ajoute l'entité à la liste des entités déjà utilisées
+//		  $this->usedEntities[] = $entity->getId();
+//	   }
 	   $level++;
 	   
 	   if ($entity->getChildren() !== null) {
@@ -285,6 +292,21 @@ class TrueTreeHelper {
 		  }
 	   }
 	   return $true_children;
+    }
+    
+    /** 
+     * Récupère les frères directs de l'entités
+     * 
+     * @param object $entity
+     * @param object $level
+     * 
+     * @return array Liste des vrais frères
+     */
+    public function getTrueBrothers($entity, $level) {
+	   if (isset($this->tree[$level])) {
+		  return $this->tree[$level];
+	   }
+	   return array();
     }
     
     /** 

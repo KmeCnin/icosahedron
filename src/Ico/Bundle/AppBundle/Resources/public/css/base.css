@@ -210,9 +210,54 @@ a > img.thumbnail {
 }
 table.trueTree {
     /*width: 100%;*/
+/*    border-collapse: separate;
+    border-spacing: 15px;*/
 }
 table.trueTree td {
     text-align: left;
-    padding: 5px 25px;
     vertical-align: top;
+    height: 1px;
+}
+table.trueTree .entity {
+    width: 220px;
+    background-color: #fafafa;
+    border-radius: 4px;
+    border-style: solid;
+    border-color: #ededed;
+    border-width: 0 1px 4px 1px;
+    padding: 5px 10px;
+    margin: 5px 0;
+    transition: background-color 200ms, border-color 200ms, color 200ms;
+}
+table.trueTree a:hover .entity, table.trueTree .entity.main  {
+    background-color: #42A500;
+    border-color: #3B9400;
+    color: white;
+}
+table.trueTree .hdecoration, table.trueTree .vdecoration {
+    border-width: 3px;
+    border-color: #bdbdbd;
+}
+table.trueTree .hdecoration {
+    width: 30px;
+    height: 25px;
+    border-style: none;
+    border-bottom-style: solid;
+}
+table.trueTree .vdecoration {
+    width: 3px;
+    height: 100%;
+    border-style: none;
+    border-left-style: solid;
+}
+table.trueTree .vdecoration.first {
+    margin-top: 22px;
+}
+table.trueTree .vdecoration.last {
+    height: 25px;
+}
+table.trueTree .vdecoration.unique {
+    height: 25px;
+    border-style: none;
+    border-bottom-style: solid;
 }
