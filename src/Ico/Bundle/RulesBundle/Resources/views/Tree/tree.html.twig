@@ -1,31 +1,42 @@
 <table class="trueTree">
     <tr>
 	   
-	   {% set ascTree = trueTree.getAscendingTree() %}
-	   {% if ascTree|length > 1 %}
-		  <td>
-			 <div class="hdecoration"></div>
-		  </td>
-		  <td>
-		  {% for level, entities in ascTree %}
-			 {% include 'IcoRulesBundle:Tree:ascendingTree.html.twig' with {'entity': parent, 'trueTree': trueTree, 'level': 1, 'loop': loop, 'brothers': parents} only %}
+	   <td>
+		  
+		  {% set ascTree = trueTree.getAscendingTree() %}
+		  {% set lastIndex = (ascTree|length -1) * -1 %}
+		  {% for parent in ascTree[lastIndex] %}
+			 {% include 'IcoRulesBundle:Tree:ascendingTree.html.twig' with {'entity': parent, 'trueTree': trueTree, 'level': -1, 'loop': loop, 'brothers': ascTree[lastIndex]} only %}
 		  {% endfor %}
-		  </td>
-	   {% endif %}
-	   
-	   <td rowspan="{{ trueTree.countNumberOfDescendingEntities(entity, 0) }}"><div class="entity main">{{ entity.name }}</div></td>
-	   
-	   {% set children = trueTree.getTrueChildren(entity, 0) %}
-	   {% if children|length > 0 %}
-		  <td>
-			 <div class="hdecoration"></div>
-		  </td>
-		  <td>
-		  {% for child in children %}
-			 {% include 'IcoRulesBundle:Tree:descendingTree.html.twig' with {'entity': child, 'trueTree': trueTree, 'level': 1, 'loop': loop, 'brothers': children} only %}
-		  {% endfor %}
-		  </td>
-	   {% endif %}
+		  
+	   </td>
+	   <td>
+		  <table>
+			 <tr>
+				<td rowspan="{{ trueTree.countNumberOfDescendingEntities(entity, 0) }}"><div class="entity main">{{ entity.name }}</div></td>
+
+				{% set children = trueTree.getTrueChildren(entity, 0) %}
+				{% if children|length > 0 %}
+				    <td>
+					   <div class="hdecoration"></div>
+				    </td>
+				    <td>
+				    {% for child in children %}
+					   {% include 'IcoRulesBundle:Tree:descendingTree.html.twig' with {'entity': child, 'trueTree': trueTree, 'level': 1, 'loop': loop, 'brothers': children} only %}
+				    {% endfor %}
+				    </td>
+				{% endif %}
+
+				</td>
+			 </tr>
+		  </table>
+	   </td>
 		  
     </tr>
 </table>
+
+<script>
+    $('div.vWrapper').each(function(){
+	   $(this).height($(this).closest('td').height());
+    });
+</script>

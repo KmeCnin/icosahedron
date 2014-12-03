@@ -301,6 +301,32 @@ class TrueTreeHelper {
     }
     
     /** 
+     * Renvoi le nombre d'entités au dessus de celle envoyée (y compris elle-même)
+     * 
+     * @param object $entity
+     * @param object $level
+     * 
+     * @return integre Nombre d'entités ascendantes
+     */
+    public function countNumberOfAscendingEntities($entity, $level) {
+	   $involved_entities = array($entity->getId());
+	   $count = 1;
+	   foreach ($this->tree as $current_level => $entities) {
+		  if ($current_level > $level) {
+			 foreach ($entities as $current_entity) {
+				foreach ($current_entity->getChildren() as $child) {
+				    if (in_array($child->getId(), $involved_entities)) {
+					   $count++;
+					   $involved_entities[] = $current_entity->getId();
+				    }
+				}
+			 }
+		  }
+	   }
+	   return $count;
+    }
+    
+    /** 
      * Renvoi le nombre d'entités au dessous de celle envoyée (y compris elle-même)
      * 
      * @param object $entity
