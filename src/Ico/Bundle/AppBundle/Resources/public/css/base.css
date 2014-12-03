@@ -217,6 +217,7 @@ table.trueTree td {
     text-align: left;
     vertical-align: top;
     height: 1px;
+    position: relative;
 }
 table.trueTree .entity {
     width: 220px;
@@ -246,9 +247,12 @@ table.trueTree .hdecoration {
 }
 table.trueTree .vdecoration {
     width: 3px;
-    height: 100%;
     border-style: none;
     border-left-style: solid;
+    
+    position: absolute;
+    bottom: 0;
+    top: 0;
 }
 table.trueTree .vdecoration.first {
     margin-top: 22px;

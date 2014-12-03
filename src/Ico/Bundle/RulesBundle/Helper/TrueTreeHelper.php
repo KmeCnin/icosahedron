@@ -95,24 +95,15 @@ class TrueTreeHelper {
      */
     protected function setDescendingTree($entity, $level) {
 	   
-	   $alreadyInTree = false;
-	   foreach ($this->getTrueBrothers($entity, $level) as $bro) {
-		  if ($bro->getId() == $entity->getId()) {
-			 $alreadyInTree = true;
-			 break;
-		  }
-	   }
-	   if (!$alreadyInTree) {
-		  $this->tree[$level][] = $entity;
-	   }
+	   $this->tree[$level][] = $entity;
 	   
-//	   if (in_array($entity->getId(), $this->usedEntities)) {
-//		  // L'entité a déjà été utilisé dans l'arborescence
-//		  $this->removeNearestFromDescendingTree($entity->getId());
-//	   } else {
-//		  // On ajoute l'entité à la liste des entités déjà utilisées
-//		  $this->usedEntities[] = $entity->getId();
-//	   }
+	   if (in_array($entity->getId(), $this->usedEntities)) {
+		  // L'entité a déjà été utilisé dans l'arborescence
+		  $this->removeNearestFromDescendingTree($entity->getId());
+	   } else {
+		  // On ajoute l'entité à la liste des entités déjà utilisées
+		  $this->usedEntities[] = $entity->getId();
+	   }
 	   $level++;
 	   
 	   if ($entity->getChildren() !== null) {
