@@ -1,15 +1,17 @@
 <table>
     <tr>
 	   <td>
-		  {% if brothers|length == 1 %}
-		  <div class="vdecoration unique"></div>
-		  {% elseif loop.first %}
-		  <div class="vdecoration first"></div>
-		  {% elseif loop.last %}
-		  <div class="vdecoration last"></div>
-		  {% else %}
-		  <div class="vdecoration"></div>
-		  {% endif %}
+		  <div class="vWrapper">
+			 {% if brothers|length == 1 %}
+			 <div class="vdecoration unique"></div>
+			 {% elseif loop.first %}
+			 <div class="vdecoration first"></div>
+			 {% elseif loop.last %}
+			 <div class="vdecoration last"></div>
+			 {% else %}
+			 <div class="vdecoration"></div>
+			 {% endif %}
+		  </div>
 	   </td>
 	   <td>
 		  <div class="hdecoration"></div>

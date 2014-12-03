@@ -1,5 +1,15 @@
 $(document).ready(function() {
     
+    // Calcule de la hauteur des décorations des arborescences à postériori
+    $('div.vWrapper').each(function(){
+	   $(this).height($(this).parent('td').height());
+    });
+    $('.modal').on('shown.bs.modal', function() {
+	   $(this).find('div.vWrapper').each(function(){
+		  $(this).height($(this).parent('td').height());
+	   });
+    });
+    
     // Ajout de target blank sur tous les liens preview
     $('.preview').attr('target', '_blank');
     // Inactive le click sur les liens qui ne sont pas encore traduits en url locale
