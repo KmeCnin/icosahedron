@@ -1,5 +1,42 @@
+{% if not trueTree.isDisplayed(entity, level-1) %}
 <table>
     <tr>
+	   {% set ascTree = trueTree.getAscendingTree() %}
+	   {% set lastIndex = (ascTree|length -1) * -1 %}
+	   {% if level-1 != lastIndex %}
+		  <td>
+			 <div class="vWrapper">
+				{% if brothers|length == 1 %}
+				<div class="vdecoration unique"></div>
+				{% elseif loop.first %}
+				<div class="vdecoration first"></div>
+				{% elseif loop.last %}
+				<div class="vdecoration last"></div>
+				{% else %}
+				<div class="vdecoration"></div>
+				{% endif %}
+			 </div>
+		  </td>
+		  {% if trueTree.getTrueParents(entity, level-1)|length > 0 %}
+		  <td>
+			 <div class="hdecoration"></div>
+		  </td>
+		  {% else %}
+		  <td>
+			 <div class="empty hdecoration"></div>
+		  </td>
+		  {% endif %}
+	   {% endif %}
+		  
+	   <td rowspan="{{ trueTree.countNumberOfDescendingEntities(entity, level-1) }}">
+		  <a class="preview ninja" href="{{ path('ico_rules_feat_view', {'id': entity.id, 'slug': entity.slug}) }}"><div class="entity">{{ entity.name }}</div></a>
+	   </td>
+	   {# On définit l'entité comme affichée #}
+	   {{ trueTree.setDisplayed(entity, level-1) }}
+	   
+	   <td>
+		  <div class="hdecoration"></div>
+	   </td>
 	   <td>
 		  <div class="vWrapper">
 			 {% if brothers|length == 1 %}
@@ -14,21 +51,12 @@
 		  </div>
 	   </td>
 	   <td>
-		  <div class="hdecoration"></div>
-	   </td>
-	   <td rowspan="{{ trueTree.countNumberOfDescendingEntities(entity, level) }}">
-		  <a class="preview ninja" href="{{ path('ico_rules_feat_view', {'id': entity.id, 'slug': entity.slug}) }}"><div class="entity">{{ entity.name }}</div></a>
-	   </td>
-	   {% set childs = trueTree.getTrueChildren(entity, level) %}
-	   {% if childs|length > 0 %}
-		  <td>
-			 <div class="hdecoration"></div>
-		  </td>
-		  <td>
-		  {% for child in childs %}
-			 {% include 'IcoRulesBundle:Tree:descendingTree.html.twig' with {'entity': child, 'trueTree': trueTree, 'level': level-1, 'loop': loop, 'brothers': childs} only %}
+	   {% if ascTree[level] is defined and level != 0 %}
+		  {% for parent in ascTree[level] %}
+			 {% include 'IcoRulesBundle:Tree:ascendingTree.html.twig' with {'entity': parent, 'trueTree': trueTree, 'level': level+1, 'loop': loop, 'brothers': ascTree[level]} only %}
 		  {% endfor %}
-		  </td>
 	   {% endif %}
+	   </td>
     </tr>
 </table>
+{% endif %}

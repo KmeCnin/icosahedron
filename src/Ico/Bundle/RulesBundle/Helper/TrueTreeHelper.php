@@ -26,6 +26,15 @@ class TrueTreeHelper {
     
     /**
      *
+     * @var protected array $treeDisplayed
+     * 
+     * Même structure que $tree mais chaque élément est composé d'un id de l'entité 
+     * ainsi que d'un booléen indiquant si l'entité a déjà été affichée dans l'arbre
+     */
+    protected $treeDisplayed;
+    
+    /**
+     *
      * @var protected array $usedEntities Array contenant la liste des id des entités utilisées 
      * lors de la construction de l'arborescence 
      * afin d'éviter les répétitions
@@ -67,7 +76,7 @@ class TrueTreeHelper {
     protected function setAscendingTree($entity, $level) {
 	   
 	   $this->tree[$level][] = $entity;
-//	   var_dump($this->displayTree());
+	   $this->treeDisplayed[$level][$entity->getId()] = false;
 	   
 	   if (in_array($entity->getId(), $this->usedEntities)) {
 		  // L'entité a déjà été utilisé dans l'arborescence
@@ -226,25 +235,6 @@ class TrueTreeHelper {
 	   return $descTree;
     }
     
-    /**
-     * Récupère le nombre de colonnes maximal que l'on peut rencontrer dans l'arborescence 
-     * afin de positionner facilement les éléments de $tree sur une grille
-     * 
-     * @return integer
-     */
-    public function getNumberOfColumns() {
-	   
-	   $nb_max = 0;
-	   
-	   foreach ($this->tree as $entries) {
-		  if (count($entries) > $nb_max) {
-			 $nb_max = count($entries);
-		  }
-	   }
-	   
-	   return $nb_max;
-    }
-    
     /** 
      * Récupère les parents directs et non redondants de l'entités
      * 
@@ -256,9 +246,11 @@ class TrueTreeHelper {
     public function getTrueParents($entity, $level) {
 	   $true_parents = array();
 	   foreach($entity->getParents() as $native_parent) {
-		  foreach($this->tree[$level-1] as $displayed_parent) {
-			 if ($native_parent->getId() == $displayed_parent->getId()) {
-				$true_parents[] = $native_parent;
+		  if (isset($this->tree[$level-1])) {
+			 foreach($this->tree[$level-1] as $displayed_parent) {
+				if ($native_parent->getId() == $displayed_parent->getId()) {
+				    $true_parents[] = $native_parent;
+				}
 			 }
 		  }
 	   }
@@ -276,9 +268,11 @@ class TrueTreeHelper {
     public function getTrueChildren($entity, $level) {
 	   $true_children = array();
 	   foreach($entity->getChildren() as $native_child) {
-		  foreach($this->tree[$level+1] as $displayed_child) {
-			 if ($native_child->getId() == $displayed_child->getId()) {
-				$true_children[] = $native_child;
+		  if (isset($this->tree[$level+1])) {
+			 foreach($this->tree[$level+1] as $displayed_child) {
+				if ($native_child->getId() == $displayed_child->getId()) {
+				    $true_children[] = $native_child;
+				}
 			 }
 		  }
 	   }
@@ -350,6 +344,28 @@ class TrueTreeHelper {
 		  }
 	   }
 	   return $count;
+    }
+    
+    /**
+     * Définit à true l'entité passée en argument au niveau passé par $level
+     * dans l'arbre $treeDisplayed afin de rendre compte de l'avancement de l'affichage de l'arbre
+     * 
+     * @param type $entity
+     * @param type $level
+     */
+    public function setDisplayed($entity, $level) {
+	   $this->treeDisplayed[$level][$entity->getId()] = true;
+    }
+    
+    /**
+     * Permet de savoir si l'entité $entity au niveau $level 
+     * a déjà été affiché dans l'arbre
+     * 
+     * @param type $entity
+     * @param type $level
+     */
+    public function isDisplayed($entity, $level) {
+	   return $this->treeDisplayed[$level][$entity->getId()];
     }
     
 }

@@ -5,14 +5,23 @@
 		  
 		  {% set ascTree = trueTree.getAscendingTree() %}
 		  {% set lastIndex = (ascTree|length -1) * -1 %}
-		  {% for parent in ascTree[lastIndex] %}
-			 {% include 'IcoRulesBundle:Tree:ascendingTree.html.twig' with {'entity': parent, 'trueTree': trueTree, 'level': -1, 'loop': loop, 'brothers': ascTree[lastIndex]} only %}
-		  {% endfor %}
+		  {% if ascTree|length > 1 %}
+			 {% for parent in ascTree[lastIndex] %}
+				{% include 'IcoRulesBundle:Tree:ascendingTree.html.twig' with {'entity': parent, 'trueTree': trueTree, 'level': lastIndex+1, 'loop': loop, 'brothers': ascTree[lastIndex]} only %}
+			 {% endfor %}
+		  {% endif %}
 		  
 	   </td>
 	   <td>
 		  <table>
 			 <tr>
+				
+				{% if trueTree.getTrueParents(entity, 0)|length > 0 %}
+				<td>
+				    <div class="hdecoration"></div>
+				</td>
+				{% endif %}
+				
 				<td rowspan="{{ trueTree.countNumberOfDescendingEntities(entity, 0) }}"><div class="entity main">{{ entity.name }}</div></td>
 
 				{% set children = trueTree.getTrueChildren(entity, 0) %}
@@ -26,8 +35,9 @@
 				    {% endfor %}
 				    </td>
 				{% endif %}
-
-				</td>
+				    
+				    <td><div class="table_padding"></div></td>
+				    
 			 </tr>
 		  </table>
 	   </td>

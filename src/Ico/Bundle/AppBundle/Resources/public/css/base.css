@@ -245,6 +245,9 @@ table.trueTree .hdecoration {
     border-style: none;
     border-bottom-style: solid;
 }
+table.trueTree .hdecoration.empty {
+    border-style: none;
+}
 table.trueTree .vWrapper {
     position: relative;
 }
@@ -266,4 +269,7 @@ table.trueTree .vdecoration.unique {
     height: 25px;
     border-style: none;
     border-bottom-style: solid;
+}
+table.trueTree td > div.table_padding {
+    width: 15px;
 }
