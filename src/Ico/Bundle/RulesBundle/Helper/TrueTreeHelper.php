@@ -40,6 +40,12 @@ class TrueTreeHelper {
      * afin d'éviter les répétitions
      */
     protected $usedEntities;
+    
+    /**
+     * Variable temporaire permettant de passer le level d'une entité à la fonction
+     * de callback de usaort() qui ne peut être appellée avec des paramètres suplémentaires
+     */
+    protected $tmpSortingLevel;
 
     /**
      * 
@@ -61,7 +67,7 @@ class TrueTreeHelper {
 	   $this->usedEntities = array();
 	   $this->setDescendingTree($entity, 0);
 	   // On réorganise l'array pour avoir une représentation arborescente
-	   ksort($this->tree);
+	   $this->sort();
 	   $this->tree[0] = array($this->tree[0][0]);
 	   
     }
@@ -366,6 +372,35 @@ class TrueTreeHelper {
      */
     public function isDisplayed($entity, $level) {
 	   return $this->treeDisplayed[$level][$entity->getId()];
+    }
+    
+    /**
+     * Détermine l'entité avec le plus de TrueParents
+     * 
+     * @param Object $entity1
+     * @param Object $entity2
+     * 
+     * @return integer 
+     */
+     function compareNumberOfParents($entity1, $entity2) {
+	   if (count($this->getTrueParents($entity1, $this->tmpSortingLevel)) > count($this->getTrueParents($entity2, $this->tmpSortingLevel))) {
+		  return 1;
+	   } elseif (count($this->getTrueParents($entity1, $this->tmpSortingLevel)) < count($this->getTrueParents($entity2, $this->tmpSortingLevel))) {
+		  return -1;
+	   } else {
+		  return 0;
+	   }
+    }
+    
+    /**
+     * Trie l'arbre de manière à optimiser l'affichage
+     */
+    protected function sort() {
+	   ksort($this->tree);
+	   foreach($this->tree as $level => $entities) {
+		  $this->tmpSortingLevel = $level;
+		  uasort($this->tree[$level], array($this, 'compareNumberOfParents'));
+	   }
     }
     
 }
