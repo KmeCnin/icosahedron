@@ -1,0 +1,16 @@
+{% extends "IcoRulesBundle::layout.html.twig" %}
+
+{% block content %}
+<table class="table table-striped table-hover">
+    <tr>
+	   <th>Caractéristique</th>
+	   <th>Description</th>
+    </tr>
+	   {% for ability in list %}
+    <tr class="link" onclick="window.location.href=Routing.generate('ico_rules_abilities_view', {id: {{ ability.id }}});">
+	   <td>{{ ability.name|capitalize }}</td>
+	   <td>{{ ability.description }}</td>
+    </tr>
+	   {% endfor %}
+</table>
+{% endblock %}

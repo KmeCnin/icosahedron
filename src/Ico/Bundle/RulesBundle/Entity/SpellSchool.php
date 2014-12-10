@@ -195,4 +195,37 @@ class SpellSchool
     {
         return $this->slug;
     }
+
+    /**
+     * Add spells
+     *
+     * @param \Ico\Bundle\RulesBundle\Entity\Spell $spells
+     * @return SpellSchool
+     */
+    public function addSpell(\Ico\Bundle\RulesBundle\Entity\Spell $spells)
+    {
+        $this->spells[] = $spells;
+
+        return $this;
+    }
+
+    /**
+     * Remove spells
+     *
+     * @param \Ico\Bundle\RulesBundle\Entity\Spell $spells
+     */
+    public function removeSpell(\Ico\Bundle\RulesBundle\Entity\Spell $spells)
+    {
+        $this->spells->removeElement($spells);
+    }
+
+    /**
+     * Get spells
+     *
+     * @return \Doctrine\Common\Collections\Collection 
+     */
+    public function getSpells()
+    {
+        return $this->spells;
+    }
 }

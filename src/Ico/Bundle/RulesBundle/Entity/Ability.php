@@ -3,15 +3,14 @@
 namespace Ico\Bundle\RulesBundle\Entity;
 
 use Doctrine\ORM\Mapping as ORM;
-use Gedmo\Mapping\Annotation as Gedmo;
 
 /**
  * CharacterClass
  *
- * @ORM\Table(name="character_class", indexes={@ORM\Index(name="nameId_idx", columns={"nameId"})})
+ * @ORM\Table(name="ability")
  * @ORM\Entity(repositoryClass="Ico\Bundle\RulesBundle\Repository\CharacterClassRepository")
  */
-class CharacterClass
+class Ability
 {
     /**
      * @var integer
@@ -25,22 +24,16 @@ class CharacterClass
     /**
      * @var string
      *
-     * @ORM\Column(name="nameId", type="string", length=255)
+     * @ORM\Column(name="name", type="string", length=255)
      */
-    private $nameId;
+    private $name;
 
     /**
      * @var string
      *
-     * @ORM\Column(name="name", type="string", length=255)
+     * @ORM\Column(name="short", type="string", length=3)
      */
-    private $name;
-    
-    /**
-     * @Gedmo\Slug(fields={"nameId"})
-     * @ORM\Column(name="slug", type="string", length=255)
-     */
-    private $slug;
+    private $short;
 
     /**
      * @var text
@@ -50,18 +43,18 @@ class CharacterClass
     private $description;
 
     /**
-     * @var string
+     * @var text
      *
-     * @ORM\Column(name="alignment", type="string", length=255)
+     * @ORM\Column(name="detail", type="text")
      */
-    private $alignment;
+    private $detail;
 
     /**
-     * @var string
+     * @var boolean
      *
-     * @ORM\Column(name="hitDie", type="string", length=255)
+     * @ORM\Column(name="mental", type="boolean")
      */
-    private $hitDie;
+    private $mental;
 
 
     /**
@@ -167,48 +160,71 @@ class CharacterClass
     }
 
     /**
-     * Set alignment
+     * Set short
      *
-     * @param string $alignment
-     * @return CharacterClass
+     * @param string $short
+     * @return Ability
      */
-    public function setAlignment($alignment)
+    public function setShort($short)
     {
-        $this->alignment = $alignment;
+        $this->short = $short;
 
         return $this;
     }
 
     /**
-     * Get alignment
+     * Get short
      *
      * @return string 
      */
-    public function getAlignment()
+    public function getShort()
     {
-        return $this->alignment;
+        return $this->short;
     }
 
     /**
-     * Set hitDie
+     * Set detail
      *
-     * @param string $hitDie
-     * @return CharacterClass
+     * @param string $detail
+     * @return Ability
      */
-    public function setHitDie($hitDie)
+    public function setDetail($detail)
     {
-        $this->hitDie = $hitDie;
+        $this->detail = $detail;
 
         return $this;
     }
 
     /**
-     * Get hitDie
+     * Get detail
      *
      * @return string 
      */
-    public function getHitDie()
+    public function getDetail()
     {
-        return $this->hitDie;
+        return $this->detail;
+    }
+
+    /**
+     * Set mental
+     *
+     * @param boolean $mental
+     * @return Ability
+     */
+    public function setMental($mental)
+    {
+        $this->mental = $mental;
+
+        return $this;
+    }
+
+    /**
+     * Get mental
+     *
+     * @return boolean 
+     */
+    public function getMental()
+    {
+        return $this->mental;
     }
 }
