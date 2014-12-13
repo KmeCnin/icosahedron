@@ -9214,13 +9214,16 @@ $(document).ready(function() {
 		  $(this).height($(this).parent('td').height());
 	   });
     });
-    
     // Ajout de target blank sur tous les liens preview
     $('.preview').attr('target', '_blank');
     // Inactive le click sur les liens qui ne sont pas encore traduits en url locale
-    $('.preview[href^=Pathfinder]').attr('class', 'disabled');
-    $('.disabled[href^=Pathfinder]').click(function() {
-	   return false;
+    var wikiUrl = 'http://www.pathfinder-fr.org/Wiki/';
+//    $('.preview[href^=Pathfinder]').attr('href', 'disabled');
+//    $('.disabled[href^=Pathfinder]').click(function() {
+//	   return false;
+//    });
+    $('.preview[href^=Pathfinder]').each(function() {
+	   $(this).attr('href', wikiUrl+$(this).attr('href'));
     });
     
     // Initialisation des select multiples avec Chosen

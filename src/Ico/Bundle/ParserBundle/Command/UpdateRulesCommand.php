@@ -112,6 +112,20 @@ EOT
 	   $this->output->writeln(sprintf("<info>Creating links into descriptions...</info>"));
 	   // On peut mettre à jour les liens dans les textes
 	   $em = $this->getDoctrine()->getManager();
+	   // Fixtures
+	   foreach ($this->getFixturesEntities() as $entity_name) {
+		  $entities = $this->getDoctrine()
+					   ->getRepository('IcoRulesBundle:'.$entity_name)
+					   ->findAll();
+		  foreach ($entities as $entity) {
+			 if (method_exists($entity, 'setDetail') && is_callable(array($entity, 'setDetail'))) {
+				$entity->setDetail($this->replaceWithMyLinks($entity->getDetail()));
+				$em->persist($entity);
+			 }
+		  }
+		  $em->flush();
+	   }
+	   // Feats
 	   $feats = $this->getDoctrine()
 		  ->getRepository('IcoRulesBundle:Feat')
 		  ->findAll();
@@ -120,6 +134,7 @@ EOT
 		  $em->persist($feat);
 	   }
 	   $em->flush();
+	   // Spells
 	   $spells = $this->getDoctrine()
 		  ->getRepository('IcoRulesBundle:Spell')
 		  ->findAll();
@@ -424,25 +439,33 @@ EOT
 		  $stmt->execute();
 	   }
     }
+    
+    protected function getFixturesEntities() {
+	   return array(
+		  'FeatType',
+		  'SpellSchool',
+		  'SpellComponent',
+		  'SpellList',
+		  'BattleUnit',
+		  'BattleRange',
+		  'SavingThrow',
+		  'SavingThrowEffect',
+		  'SpellTargetType',
+		  'LinkSource',
+		  'Link',
+		  'CharacterClass',
+		  'Ability',
+	   );
+    }
 
     public function getTablesToTruncate() {
 
 	   // Tables à vider toujours (car elles sont rechargées par les fixtures)
-	   $tablesToTruncate = array(
-		  'IcoRulesBundle:FeatType',
-		  'IcoRulesBundle:SpellSchool',
-		  'IcoRulesBundle:SpellComponent',
-		  'IcoRulesBundle:SpellList',
-		  'IcoRulesBundle:BattleUnit',
-		  'IcoRulesBundle:BattleRange',
-		  'IcoRulesBundle:SavingThrow',
-		  'IcoRulesBundle:SavingThrowEffect',
-		  'IcoRulesBundle:SpellTargetType',
-		  'IcoRulesBundle:LinkSource',
-		  'IcoRulesBundle:Link',
-		  'IcoRulesBundle:CharacterClass',
-		  'IcoRulesBundle:Ability',
-	   );
+	   $tablesToTruncate = array();
+	   foreach ($this->getFixturesEntities() as $entity) {
+		  $tablesToTruncate[] = 'IcoRulesBundle:'.$entity;
+	   }
+	   $tablesToTruncate[] = 'IcoRulesBundle:Link';
 	   // Tables à vider seulement si on synchronise les dons
 	   if ($this->updateFeats) {
 		  $tablesToTruncate[] = 'IcoRulesBundle:Feat';
