@@ -39,7 +39,7 @@ class CharacterClasses implements FixtureInterface, OrderedFixtureInterface {
     }
 
     public function getOrder() {
-	   return 11;
+	   return 13;
     }
 
 }

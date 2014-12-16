@@ -45,6 +45,13 @@ class Ability
     /**
      * @var text
      *
+     * @ORM\Column(name="applied", type="text")
+     */
+    private $applied;
+
+    /**
+     * @var text
+     *
      * @ORM\Column(name="description", type="text")
      */
     private $description;
@@ -62,6 +69,11 @@ class Ability
      * @ORM\Column(name="mental", type="boolean")
      */
     private $mental;
+    
+    /**
+     * @ORM\ManyToOne(targetEntity="Link", cascade={"remove", "persist"})
+     */
+    protected $link;
 
 
     /**
@@ -233,5 +245,51 @@ class Ability
     public function getMental()
     {
         return $this->mental;
+    }
+
+    /**
+     * Set applied
+     *
+     * @param string $applied
+     * @return Ability
+     */
+    public function setApplied($applied)
+    {
+        $this->applied = $applied;
+
+        return $this;
+    }
+
+    /**
+     * Get applied
+     *
+     * @return string 
+     */
+    public function getApplied()
+    {
+        return $this->applied;
+    }
+
+    /**
+     * Set link
+     *
+     * @param \Ico\Bundle\RulesBundle\Entity\Link $link
+     * @return Ability
+     */
+    public function setLink(\Ico\Bundle\RulesBundle\Entity\Link $link = null)
+    {
+        $this->link = $link;
+
+        return $this;
+    }
+
+    /**
+     * Get link
+     *
+     * @return \Ico\Bundle\RulesBundle\Entity\Link 
+     */
+    public function getLink()
+    {
+        return $this->link;
     }
 }

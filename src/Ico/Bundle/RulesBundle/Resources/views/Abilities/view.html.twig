@@ -1,5 +1,17 @@
 {% extends "IcoRulesBundle::layout.html.twig" %}
 
+{% block title %}
+{{ parent() }}
+<div class="btn-group pull-right" style="top: 20px;">
+    <span href="#" class="btn btn-default dropdown-toggle" data-toggle="dropdown" aria-expanded="false">
+	   Liens sources
+	   <span class="caret"></span>
+    </span>
+    <ul class="dropdown-menu">
+	   <li><a target="_blank" href="{{ ability.link.url }}" class="text-nowrap"><img class="thumbnail" src="{{ asset('Resources/public/images/'~ability.link.source.picture) }}" alt="logo {{ ability.link.source.name }}" /> {{ ability.link.source.name }} [{{ ability.link.source.language }}]</a></li>
+    </ul>
+</div>
+{% endblock %}
 {% block content %}
 <p class="justify">{{ ability.detail|environment|raw }}</p>
 {% endblock %}

@@ -1,5 +1,8 @@
 <h4 class="text-nowrap">{{ ability.name|capitalize }} <small>[Caractéristique]</small></h4>
 <hr />
+<small>
+    <span class="text-muted">Modificateur : </span><span class="text-primary">{{ ability.applied }}</span>
+</small>
 <div class="well well-sm">
     {{ ability.description }}
 </div>

@@ -452,9 +452,9 @@ EOT
 		  'SavingThrowEffect',
 		  'SpellTargetType',
 		  'LinkSource',
-		  'CharacterClass',
 		  'Ability',
 		  'Skill',
+		  'CharacterClass',
 	   );
     }
 
@@ -637,32 +637,33 @@ EOT
 		  }
 		  $pages[] = $fileInfo->getFilename();
 	   }
+	   // Url exceptionnelles
+	   $specials_urls = array(
+		  array(
+			 'raw' => 'round',
+			 'route' => 'battleunits',
+			 'id' => 7,
+			 'slug' => 'round'
+		  ),
+	   );
+	   //  Url des compétences
+	   $skills = $this->getDoctrine()
+	   ->getRepository('IcoRulesBundle:Skill')
+	   ->findAll();
+	   foreach ($skills as $skill) {
+		  echo rawurlencode($skill->getName());
+		  $specials_urls[] = array(
+			 'raw' => ucfirst(strtolower(rawurlencode($skill->getName()))),
+			 'route' => 'skills',
+			 'id' => $skill->getId(),
+			 'slug' => $skill->getSlug()
+		  );
+	   }
+	   foreach ($specials_urls as $data) {
+		  $this->urlTranslator['Pathfinder-RPG.'.$data['raw'].'.ashx'] = $this->root.$this->getContainer()->get('router')->generate('ico_rules_'.$data['route'].'_view', array('id' => $data['id'], 'slug' => $data['slug']));
+	   }
 	   foreach ($pages as $page) {
 		  set_time_limit(50);
-		  // Url exceptionnelles
-		  $specials_urls = array(
-			 array(
-				'raw' => 'round',
-				'route' => 'battleunits',
-				'id' => 7,
-				'slug' => 'round'
-			 ),
-		  );
-		  //  Url des compétences
-		  $skills = $this->getDoctrine()
-		  ->getRepository('IcoRulesBundle:Skill')
-		  ->findAll();
-		  foreach ($skills as $skill) {
-			 $specials_urls[] = array(
-				'raw' => $skill->getName(),
-				'route' => 'skills',
-				'id' => $skill->getId(),
-				'slug' => $skill->getSlug()
-			 );
-		  }
-		  foreach ($specials_urls as $data) {
-			 $this->urlTranslator['Pathfinder-RPG.'.$data['raw'].'.ashx'] = $this->root.$this->getContainer()->get('router')->generate('ico_rules_'.$data['route'].'_view', array('id' => $data['id'], 'slug' => $data['slug']));
-		  }
 		  // Url correspondant à des fichiers
 		  $crawler = new Crawler;
 		  $crawler->addHTMLContent(file_get_contents($path.$page), 'UTF-8');

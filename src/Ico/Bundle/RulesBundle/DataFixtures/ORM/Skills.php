@@ -267,7 +267,7 @@ class Skills implements FixtureInterface, OrderedFixtureInterface, ContainerAwar
     }
 
     public function getOrder() {
-	   return 13;
+	   return 12;
     }
 
 }
