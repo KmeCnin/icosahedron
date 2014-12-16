@@ -1,0 +1,26 @@
+{% extends "IcoRulesBundle::layout.html.twig" %}
+
+{% block content %}
+<table class="table table-striped table-hover">
+    <tr>
+	   <th>Compétence</th>
+	   <th>Caractéristique</th>
+	   <th>Description</th>
+	   <th>Formation</th>
+    </tr>
+	   {% for skill in list %}
+    <tr>
+	   <td class="link" onclick="window.location.href=Routing.generate('ico_rules_skills_view', {id: {{ skill.id }}, slug: '{{ skill.slug }}' });">{{ skill.name|capitalize }}</td>
+	   <td><a href="{{ path('ico_rules_abilities_view', {id: skill.ability.id, slug: skill.ability.slug }) }}" class="preview">{{ skill.ability.name|capitalize }}</a></td>
+	   <td class="link" onclick="window.location.href=Routing.generate('ico_rules_skills_view', {id: {{ skill.id }}, slug: '{{ skill.slug }}' });">{{ skill.description }}</td>
+	   <td class="link" onclick="window.location.href=Routing.generate('ico_rules_skills_view', {id: {{ skill.id }}, slug: '{{ skill.slug }}' });">
+	   {% if skill.untrained %}
+		  Non
+	   {% else %}
+		  Oui
+	   {% endif %}
+	   </td>
+    </tr>
+	   {% endfor %}
+</table>
+{% endblock %}

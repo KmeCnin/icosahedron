@@ -6,12 +6,12 @@ use Doctrine\ORM\Mapping as ORM;
 use Gedmo\Mapping\Annotation as Gedmo;
 
 /**
- * Ability
+ * Skill
  *
- * @ORM\Table(name="ability")
- * @ORM\Entity(repositoryClass="Ico\Bundle\RulesBundle\Repository\AbilityRepository")
+ * @ORM\Table(name="skill")
+ * @ORM\Entity(repositoryClass="Ico\Bundle\RulesBundle\Repository\SkillRepository")
  */
-class Ability
+class Skill
 {
     /**
      * @var integer
@@ -34,13 +34,11 @@ class Ability
      * @ORM\Column(name="slug", type="string", length=255)
      */
     private $slug;
-
+    
     /**
-     * @var string
-     *
-     * @ORM\Column(name="short", type="string", length=3)
+     * @ORM\ManyToOne(targetEntity="Link", cascade={"remove", "persist"})
      */
-    private $short;
+    protected $link;
 
     /**
      * @var text
@@ -55,14 +53,20 @@ class Ability
      * @ORM\Column(name="detail", type="text")
      */
     private $detail;
-
+    
     /**
      * @var boolean
      *
-     * @ORM\Column(name="mental", type="boolean")
+     * @ORM\Column(name="untrained", type="boolean")
      */
-    private $mental;
-
+    private $untrained;
+    
+    /**
+     * @var ability
+     * 
+     * @ORM\ManyToOne(targetEntity="Ability")
+     */
+    private $ability;
 
     /**
      * Get id
@@ -167,29 +171,6 @@ class Ability
     }
 
     /**
-     * Set short
-     *
-     * @param string $short
-     * @return Ability
-     */
-    public function setShort($short)
-    {
-        $this->short = $short;
-
-        return $this;
-    }
-
-    /**
-     * Get short
-     *
-     * @return string 
-     */
-    public function getShort()
-    {
-        return $this->short;
-    }
-
-    /**
      * Set detail
      *
      * @param string $detail
@@ -233,5 +214,74 @@ class Ability
     public function getMental()
     {
         return $this->mental;
+    }
+
+    /**
+     * Set untrained
+     *
+     * @param boolean $untrained
+     * @return Skill
+     */
+    public function setUntrained($untrained)
+    {
+        $this->untrained = $untrained;
+
+        return $this;
+    }
+
+    /**
+     * Get untrained
+     *
+     * @return boolean 
+     */
+    public function getUntrained()
+    {
+        return $this->untrained;
+    }
+
+    /**
+     * Set ability
+     *
+     * @param \Ico\Bundle\RulesBundle\Entity\Ability $ability
+     * @return Skill
+     */
+    public function setAbility(\Ico\Bundle\RulesBundle\Entity\Ability $ability)
+    {
+        $this->ability = $ability;
+
+        return $this;
+    }
+
+    /**
+     * Get ability
+     *
+     * @return \Ico\Bundle\RulesBundle\Entity\Ability 
+     */
+    public function getAbility()
+    {
+        return $this->ability;
+    }
+
+    /**
+     * Set link
+     *
+     * @param \Ico\Bundle\RulesBundle\Entity\Link $link
+     * @return Skill
+     */
+    public function setLink(\Ico\Bundle\RulesBundle\Entity\Link $link = null)
+    {
+        $this->link = $link;
+
+        return $this;
+    }
+
+    /**
+     * Get link
+     *
+     * @return \Ico\Bundle\RulesBundle\Entity\Link 
+     */
+    public function getLink()
+    {
+        return $this->link;
     }
 }

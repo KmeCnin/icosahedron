@@ -7,7 +7,7 @@
 	   <th>Description</th>
     </tr>
 	   {% for ability in list %}
-    <tr class="link" onclick="window.location.href=Routing.generate('ico_rules_abilities_view', {id: {{ ability.id }}});">
+    <tr class="link" onclick="window.location.href=Routing.generate('ico_rules_abilities_view', {id: {{ ability.id }}, slug: '{{ ability.slug }}' });">
 	   <td>{{ ability.name|capitalize }}</td>
 	   <td>{{ ability.description }}</td>
     </tr>

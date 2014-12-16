@@ -1,0 +1,26 @@
+{% extends "IcoRulesBundle::layout.html.twig" %}
+
+{% block title %}
+{{ parent() }}
+<div class="btn-group pull-right" style="top: 20px;">
+    <span href="#" class="btn btn-default dropdown-toggle" data-toggle="dropdown" aria-expanded="false">
+	   Liens sources
+	   <span class="caret"></span>
+    </span>
+    <ul class="dropdown-menu">
+	   <li><a target="_blank" href="{{ skill.link.url }}" class="text-nowrap"><img class="thumbnail" src="{{ asset('Resources/public/images/'~skill.link.source.picture) }}" alt="logo {{ skill.link.source.name }}" /> {{ skill.link.source.name }} [{{ skill.link.source.language }}]</a></li>
+    </ul>
+</div>
+{% endblock %}
+{% block content %}
+<div class="justify">
+    <div class="panel panel-default">
+	   <div class="panel-heading">Informations</div>
+	   <div class="panel-body justify">
+		  <label>Caractéristique : </label> <a href="{{ path('ico_rules_abilities_view', {id: skill.ability.id, slug: skill.ability.slug }) }}" class="preview">{{ skill.ability.name|capitalize }}</a><br />
+		  <label>Formation nécessaire : </label> {% if skill.untrained %}non{% else %}oui{% endif %}
+	   </div>
+    </div>
+    {{ skill.detail|environment|raw }}
+</div>
+{% endblock %}

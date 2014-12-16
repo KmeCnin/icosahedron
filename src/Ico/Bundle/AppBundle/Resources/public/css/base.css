@@ -273,3 +273,9 @@ table.trueTree .vdecoration.unique {
 table.trueTree td > div.table_padding {
     width: 15px;
 }
+.popover .text-primary, .popover .preview {
+    color: inherit;
+}
+.popover .text-muted {
+    color: #42A500;
+}

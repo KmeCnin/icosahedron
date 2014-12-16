@@ -452,9 +452,9 @@ EOT
 		  'SavingThrowEffect',
 		  'SpellTargetType',
 		  'LinkSource',
-		  'Link',
 		  'CharacterClass',
 		  'Ability',
+		  'Skill',
 	   );
     }
 
@@ -465,7 +465,9 @@ EOT
 	   foreach ($this->getFixturesEntities() as $entity) {
 		  $tablesToTruncate[] = 'IcoRulesBundle:'.$entity;
 	   }
-	   $tablesToTruncate[] = 'IcoRulesBundle:Link';
+	   if (!$this->updateOnlyFixtures) {
+		  $tablesToTruncate[] = 'IcoRulesBundle:Link';
+	   }
 	   // Tables à vider seulement si on synchronise les dons
 	   if ($this->updateFeats) {
 		  $tablesToTruncate[] = 'IcoRulesBundle:Feat';
@@ -644,8 +646,20 @@ EOT
 				'route' => 'battleunits',
 				'id' => 7,
 				'slug' => 'round'
-			 )
+			 ),
 		  );
+		  //  Url des compétences
+		  $skills = $this->getDoctrine()
+		  ->getRepository('IcoRulesBundle:Skill')
+		  ->findAll();
+		  foreach ($skills as $skill) {
+			 $specials_urls[] = array(
+				'raw' => $skill->getName(),
+				'route' => 'skills',
+				'id' => $skill->getId(),
+				'slug' => $skill->getSlug()
+			 );
+		  }
 		  foreach ($specials_urls as $data) {
 			 $this->urlTranslator['Pathfinder-RPG.'.$data['raw'].'.ashx'] = $this->root.$this->getContainer()->get('router')->generate('ico_rules_'.$data['route'].'_view', array('id' => $data['id'], 'slug' => $data['slug']));
 		  }

@@ -9,7 +9,7 @@ use Sensio\Bundle\FrameworkExtraBundle\Configuration\Template;
 class RulesController extends Controller
 {
     /**
-     * @Route("/rules", name="ico_rules")
+     * @Route("/règles-pathfinder", name="ico_rules")
      * @Template()
      */
     public function indexAction()
