@@ -48,8 +48,8 @@ class BattleRangesController extends Controller
 			 'Portées' => 'ico_rules_battleranges',
 			 $range->getName() => ''
 		  ),
-		  'title' => 'Portée',
-		  'subtitle' => ucfirst($range->getName()),
+		  'title' => ucfirst($range->getName()),
+		  'subtitle' => 'Portée',
 		  'range' => $range
 	   ));
     }

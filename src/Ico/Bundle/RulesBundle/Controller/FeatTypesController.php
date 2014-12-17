@@ -49,8 +49,8 @@ class FeatTypesController extends Controller
 			 'Catégories de don' => 'ico_rules_feattypes',
 			 $feat_type->getName() => ''
 		  ),
-		  'title' => 'Catégorie de don',
-		  'subtitle' => $feat_type->getName(),
+		  'title' => $feat_type->getName(),
+		  'subtitle' => 'Catégorie de don',
 		  'feattype' => $feat_type
 	   ));
     }

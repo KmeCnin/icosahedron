@@ -1,0 +1,14 @@
+{% extends "IcoRulesBundle::layout.html.twig" %}
+
+{% block content %}
+<table class="table table-striped table-hover">
+    <tr>
+	   <th>Classe</th>
+    </tr>
+	   {% for class in list %}
+    <tr>
+	   <td class="link" onclick="window.location.href=Routing.generate('ico_rules_characterclasses_view', {id: {{ class.id }}, slug: '{{ class.slug }}' });">{{ class.name|capitalize }}</td>
+    </tr>
+	   {% endfor %}
+</table>
+{% endblock %}

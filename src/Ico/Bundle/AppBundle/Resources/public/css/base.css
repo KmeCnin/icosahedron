@@ -9,7 +9,7 @@ body {
     margin-right: 7px;
 }
 .link {
-    cursor: pointer;
+    cursor: pointer; 
 }
 .justify {
     text-align: justify;
@@ -278,4 +278,7 @@ table.trueTree td > div.table_padding {
 }
 .popover .text-muted {
     color: #42A500;
+}
+img.class-illustration {
+    max-width: 100%;
 }

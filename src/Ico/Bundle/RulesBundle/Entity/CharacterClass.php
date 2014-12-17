@@ -50,6 +50,13 @@ class CharacterClass
     private $description;
 
     /**
+     * @var text
+     *
+     * @ORM\Column(name="role", type="text")
+     */
+    private $role;
+
+    /**
      * @var string
      *
      * @ORM\Column(name="alignment", type="string", length=255)
@@ -62,6 +69,25 @@ class CharacterClass
      * @ORM\Column(name="hitDie", type="string", length=255)
      */
     private $hitDie;
+
+    /**
+     * @var integer
+     *
+     * @ORM\Column(name="baseSkillPoints", type="integer")
+     */
+    private $baseSkillPoints;
+    
+    /**
+     * @var ArrayCollection Skills $skills
+     *
+     * @ORM\ManyToMany(targetEntity="Skill", cascade={"persist", "merge", "remove"})
+     */
+    protected $skills;
+    
+    /**
+     * @ORM\ManyToOne(targetEntity="Link", cascade={"remove", "persist"})
+     */
+    protected $link;
 
 
     /**
@@ -210,5 +236,114 @@ class CharacterClass
     public function getHitDie()
     {
         return $this->hitDie;
+    }
+    /**
+     * Constructor
+     */
+    public function __construct()
+    {
+        $this->skills = new \Doctrine\Common\Collections\ArrayCollection();
+    }
+
+    /**
+     * Add skills
+     *
+     * @param \Ico\Bundle\RulesBundle\Entity\Skill $skills
+     * @return CharacterClass
+     */
+    public function addSkill(\Ico\Bundle\RulesBundle\Entity\Skill $skills)
+    {
+        $this->skills[] = $skills;
+
+        return $this;
+    }
+
+    /**
+     * Remove skills
+     *
+     * @param \Ico\Bundle\RulesBundle\Entity\Skill $skills
+     */
+    public function removeSkill(\Ico\Bundle\RulesBundle\Entity\Skill $skills)
+    {
+        $this->skills->removeElement($skills);
+    }
+
+    /**
+     * Get skills
+     *
+     * @return \Doctrine\Common\Collections\Collection 
+     */
+    public function getSkills()
+    {
+        return $this->skills;
+    }
+
+    /**
+     * Set link
+     *
+     * @param \Ico\Bundle\RulesBundle\Entity\Link $link
+     * @return Ability
+     */
+    public function setLink(\Ico\Bundle\RulesBundle\Entity\Link $link = null)
+    {
+        $this->link = $link;
+
+        return $this;
+    }
+
+    /**
+     * Get link
+     *
+     * @return \Ico\Bundle\RulesBundle\Entity\Link 
+     */
+    public function getLink()
+    {
+        return $this->link;
+    }
+
+    /**
+     * Set role
+     *
+     * @param string $role
+     * @return CharacterClass
+     */
+    public function setRole($role)
+    {
+        $this->role = $role;
+
+        return $this;
+    }
+
+    /**
+     * Get role
+     *
+     * @return string 
+     */
+    public function getRole()
+    {
+        return $this->role;
+    }
+
+    /**
+     * Set baseSkillPoints
+     *
+     * @param integer $baseSkillPoints
+     * @return CharacterClass
+     */
+    public function setBaseSkillPoints($baseSkillPoints)
+    {
+        $this->baseSkillPoints = $baseSkillPoints;
+
+        return $this;
+    }
+
+    /**
+     * Get baseSkillPoints
+     *
+     * @return integer 
+     */
+    public function getBaseSkillPoints()
+    {
+        return $this->baseSkillPoints;
     }
 }

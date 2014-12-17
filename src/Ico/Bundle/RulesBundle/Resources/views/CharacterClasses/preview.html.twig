@@ -1,0 +1,16 @@
+<h4 class="text-nowrap">{{ skill.name|capitalize }} <small>[Compétence]</small></h4>
+<hr />
+<small>
+    <span class="text-muted">Caractéristique : </span><span class="text-primary text-nowrap">{{ skill.ability.name|capitalize }}</span>
+    <br />
+    <span class="text-muted">Formation nécessaire : </span><span class="text-primary text-nowrap">
+	   {% if skill.untrained %}
+	   non
+	   {% else %}
+	   oui
+	   {% endif %}
+    </span>
+</small>
+<div class="well well-sm">
+    {{ skill.description }}
+</div>

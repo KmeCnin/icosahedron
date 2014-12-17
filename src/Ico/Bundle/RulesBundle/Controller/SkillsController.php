@@ -48,8 +48,8 @@ class SkillsController extends Controller
 			 'Compétences' => 'ico_rules_skills',
 			 $skill->getName() => ''
 		  ),
-		  'title' => 'Compétences',
-		  'subtitle' => ucfirst($skill->getName()),
+		  'title' => ucfirst($skill->getName()),
+		  'subtitle' => 'Compétences',
 		  'skill' => $skill
 	   ));
     }

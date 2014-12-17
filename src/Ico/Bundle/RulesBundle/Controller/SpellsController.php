@@ -128,8 +128,8 @@ class SpellsController extends Controller
 			 'Sorts' => 'ico_rules_spells',
 			 $spell->getName() => ''
 		  ),
-		  'title' => 'Sort',
-		  'subtitle' => $spell->getName(),
+		  'title' => $spell->getName(),
+		  'subtitle' => 'Sort',
 		  'spell' => $spell
 	   ));
     }

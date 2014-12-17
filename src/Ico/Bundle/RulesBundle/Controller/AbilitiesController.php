@@ -48,8 +48,8 @@ class AbilitiesController extends Controller
 			 'Caractéristiques' => 'ico_rules_abilities',
 			 $ability->getName() => ''
 		  ),
-		  'title' => 'Caractéristique',
-		  'subtitle' => ucfirst($ability->getName()),
+		  'title' => ucfirst($ability->getName()),
+		  'subtitle' => 'Caractéristique',
 		  'ability' => $ability
 	   ));
     }

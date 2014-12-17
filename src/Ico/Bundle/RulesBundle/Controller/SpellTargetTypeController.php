@@ -50,8 +50,8 @@ class SpellTargetTypeController extends Controller
 			 'Types de ciblage' => 'ico_rules_spelltargettypes',
 			 $spelltargettype->getName() => ''
 		  ),
-		  'title' => 'Type de ciblage',
-		  'subtitle' => $spelltargettype->getName(),
+		  'title' => $spelltargettype->getName(),
+		  'subtitle' => 'Type de ciblage',
 		  'spelltargettype' => $spelltargettype
 	   ));
     }

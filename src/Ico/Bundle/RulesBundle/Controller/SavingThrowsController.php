@@ -47,8 +47,8 @@ class SavingThrowsController extends Controller
 			 'Jets de sauvegarde' => 'ico_rules_savingthrows',
 			 $savingthrow->getName() => ''
 		  ),
-		  'title' => 'Jet de sauvegarde',
-		  'subtitle' => $savingthrow->getName(),
+		  'title' => $savingthrow->getName(),
+		  'subtitle' => 'Jet de sauvegarde',
 		  'savingthrow' => $savingthrow
 	   ));
     }

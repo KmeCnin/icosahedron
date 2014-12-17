@@ -48,8 +48,8 @@ class BattleUnitsController extends Controller
 			 'Types d\'actions' => 'ico_rules_battleunits',
 			 $action->getName() => ''
 		  ),
-		  'title' => 'Type d\'action',
-		  'subtitle' => ucfirst($action->getName()),
+		  'title' => ucfirst($action->getName()),
+		  'subtitle' => 'Type d\'action',
 		  'action' => $action
 	   ));
     }

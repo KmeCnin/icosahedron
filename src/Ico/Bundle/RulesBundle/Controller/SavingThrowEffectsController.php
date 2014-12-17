@@ -49,8 +49,8 @@ class SavingThrowEffectsController extends Controller
 			 'Effets de sauvegarde' => 'ico_rules_savingthroweffects',
 			 $savingthroweffect->getName() => ''
 		  ),
-		  'title' => 'Effet de sauvegarde',
-		  'subtitle' => $savingthroweffect->getName(),
+		  'title' => $savingthroweffect->getName(),
+		  'subtitle' => 'Effet de sauvegarde',
 		  'savingthroweffect' => $savingthroweffect
 	   ));
     }

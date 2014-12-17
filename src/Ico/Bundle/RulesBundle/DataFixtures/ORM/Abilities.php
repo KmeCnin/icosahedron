@@ -7,7 +7,7 @@ use Doctrine\Common\DataFixtures\OrderedFixtureInterface;
 use Doctrine\Common\Persistence\ObjectManager;
 use Ico\Bundle\RulesBundle\Entity\Ability;
 use Ico\Bundle\RulesBundle\Entity\Link;
-use Symfony\Component\DomCrawler\Crawler;
+//use Symfony\Component\DomCrawler\Crawler;
 use Symfony\Component\DependencyInjection\ContainerAwareInterface;
 use Symfony\Component\DependencyInjection\ContainerInterface;
 

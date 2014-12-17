@@ -465,6 +465,7 @@ EOT
 	   foreach ($this->getFixturesEntities() as $entity) {
 		  $tablesToTruncate[] = 'IcoRulesBundle:'.$entity;
 	   }
+	   $tablesToTruncate[] = 'characterclass_skill';
 	   if (!$this->updateOnlyFixtures) {
 		  $tablesToTruncate[] = 'IcoRulesBundle:Link';
 	   }
@@ -651,7 +652,6 @@ EOT
 	   ->getRepository('IcoRulesBundle:Skill')
 	   ->findAll();
 	   foreach ($skills as $skill) {
-		  echo rawurlencode($skill->getName());
 		  $specials_urls[] = array(
 			 'raw' => ucfirst(strtolower(rawurlencode($skill->getName()))),
 			 'route' => 'skills',

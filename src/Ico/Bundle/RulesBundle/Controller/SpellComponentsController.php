@@ -50,8 +50,8 @@ class SpellComponentsController extends Controller
 			 'Composantes' => 'ico_rules_spellcomponents',
 			 $spell_component->getName() => ''
 		  ),
-		  'title' => 'Composantes de sorts',
-		  'subtitle' => $spell_component->getName(),
+		  'title' => $spell_component->getName(),
+		  'subtitle' => 'Composantes de sorts',
 		  'spellcomponent' => $spell_component
 	   ));
     }

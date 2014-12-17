@@ -50,8 +50,8 @@ class SpellSchoolsController extends Controller
 			 'École de magie' => 'ico_rules_spellschools',
 			 $spell_school->getName() => ''
 		  ),
-		  'title' => 'École de magie',
-		  'subtitle' => $spell_school->getName(),
+		  'title' => $spell_school->getName(),
+		  'subtitle' => 'École de magie',
 		  'spellschool' => $spell_school
 	   ));
     }

@@ -1,0 +1,70 @@
+{% extends "IcoRulesBundle::layout.html.twig" %}
+
+{% block title %}
+{{ parent() }}
+<div class="btn-group pull-right" style="top: 20px;">
+    <span href="#" class="btn btn-default dropdown-toggle" data-toggle="dropdown" aria-expanded="false">
+	   Liens sources
+	   <span class="caret"></span>
+    </span>
+    <ul class="dropdown-menu">
+	   <li><a target="_blank" href="{{ class.link.url }}" class="text-nowrap"><img class="thumbnail" src="{{ asset('Resources/public/images/'~class.link.source.picture) }}" alt="logo {{ class.link.source.name }}" /> {{ class.link.source.name }} [{{ class.link.source.language }}]</a></li>
+    </ul>
+</div>
+{% endblock %}
+{% block content %}
+<div class="justify row">
+    <div class="col-lg-8">
+	   <table>
+		  
+	   </table>
+    </div>
+    <div class="col-lg-4">
+	   <img class="class-illustration" src="{{ asset('Resources/public/images/characterclasses/'~class.slug~'.jpg') }}" alt="illustration {{ class.name }}" />
+    </div>
+    <div class="col-lg-12">
+	   <div class="panel panel-default">
+		  <div class="panel-heading">Description</div>
+		  <div class="panel-body justify">
+			 {{ class.description|environment|raw }}
+		  </div>
+	   </div>
+    </div>
+    <div class="col-lg-12">
+	   <div class="panel panel-default">
+		  <div class="panel-heading">Role</div>
+		  <div class="panel-body justify">
+			 {{ class.role|environment|raw }}
+		  </div>
+	   </div>
+    </div>
+    <div class="col-lg-4">
+	   <div class="panel panel-default">
+		  <div class="panel-heading">Alignement</div>
+		  <div class="panel-body">{{ class.alignment }}</div>
+	   </div>
+    </div>
+    <div class="col-lg-4">
+	   <div class="panel panel-default">
+		  <div class="panel-heading">Dés de vie</div>
+		  <div class="panel-body">{{ class.hitDie }}</div>
+	   </div>
+    </div>
+    <div class="col-lg-4">
+	   <div class="panel panel-default">
+		  <div class="panel-heading">Points de compétence par niveaux</div>
+		  <div class="panel-body">{{ class.baseSkillPoints }} + modificateur d'<a class="preview" href="{{ path('ico_rules_abilities_view', {'id': 4, 'slug': 'intelligence'}) }}">Intelligence</a></div>
+	   </div>
+    </div>
+    <div class="col-lg-12">
+	   <div class="panel panel-default">
+		  <div class="panel-heading">Compétences de classe</div>
+		  <div class="panel-body">
+		  {% for skill in class.skills %}
+			 {% if loop.index != 1 %}, {% endif %}<a class="preview text-nowrap" href="{{ path('ico_rules_skills_view', {'id': skill.id, 'slug': skill.slug}) }}">{{ skill.name }}</a>
+		  {% endfor %}
+		  </div>
+	   </div>
+    </div>
+</div>
+{% endblock %}

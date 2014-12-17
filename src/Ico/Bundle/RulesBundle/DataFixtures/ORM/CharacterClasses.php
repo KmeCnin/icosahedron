@@ -6,9 +6,26 @@ use Doctrine\Common\DataFixtures\FixtureInterface;
 use Doctrine\Common\DataFixtures\OrderedFixtureInterface;
 use Doctrine\Common\Persistence\ObjectManager;
 use Ico\Bundle\RulesBundle\Entity\CharacterClass;
+use Ico\Bundle\RulesBundle\Entity\Link;
+//use Symfony\Component\DomCrawler\Crawler;
+use Symfony\Component\DependencyInjection\ContainerAwareInterface;
+use Symfony\Component\DependencyInjection\ContainerInterface;
 
-class CharacterClasses implements FixtureInterface, OrderedFixtureInterface {
+class CharacterClasses implements FixtureInterface, OrderedFixtureInterface, ContainerAwareInterface {
 
+    /**
+     * @var ContainerInterface
+     */
+    private $container;
+
+    /**
+     * {@inheritDoc}
+     */
+    public function setContainer(ContainerInterface $container = null)
+    {
+        $this->container = $container;
+    }
+    
     public function load(ObjectManager $manager) {
 	   
 	   $classes = array(
@@ -19,7 +36,9 @@ class CharacterClasses implements FixtureInterface, OrderedFixtureInterface {
 			 'role' => ' Alors que les études des magiciens généralistes leur permettent de se préparer à n’importe quel type de danger, les magiciens spécialistes s’intéressent à des <a class="pagelink" href="Pathfinder-RPG.%c3%a9coles%20de%20magie.ashx" title="Les écoles de magie">écoles de magie</a> qui les rendent particulièrement efficaces dans un domaine spécifique. Mais, quelle que soit la voie choisie, tous les magiciens sont des maîtres de l’impossible, capables d’aider leurs alliés à faire face à n’importe quelle menace.',
 			 'alignment' => 'Au choix',
 			 'hitDie' => 'd6',
-			 'classSkills' => array(),
+			 'skills' => array('Art de la magie', 'Artisanat', 'Connaissances', 'Estimation', 'Linguistique', 'Profession', 'Vol'),
+			 'link' => 'http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Magicien.ashx',
+			 'baseSkillPoints' => 2
 		  )
 	   );
 
@@ -28,11 +47,27 @@ class CharacterClasses implements FixtureInterface, OrderedFixtureInterface {
 		  $class->setName($data['name']);
 		  $class->setNameId($data['nameId']);
 		  $class->setDescription($data['description']);
+		  $class->setRole($data['role']);
 		  $class->setAlignment($data['alignment']);
 		  $class->setHitDie($data['hitDie']);
-		  foreach ($data['classSkills'] as $label) {
-			 $classSkill = '';
+		  $class->setBaseSkillPoints($data['baseSkillPoints']);
+		  
+		  foreach ($data['skills'] as $name) {
+			 $skill = $this->container->get('doctrine')
+				->getRepository('IcoRulesBundle:Skill')
+				->findOneByName($name);
+			 $class->addSkill($skill);
 		  }
+		  
+		  $d = parse_url($data['link']);
+		  $source = $this->container->get('doctrine')
+				->getRepository('IcoRulesBundle:LinkSource')
+				->findOneByDomain($d['host']);
+		  $link = new Link();
+		  $link->setSource($source);
+		  $link->setUrl($data['link']);
+		  $class->setLink($link);
+		  
 		  $manager->persist($class);
 	   }
 	   $manager->flush();

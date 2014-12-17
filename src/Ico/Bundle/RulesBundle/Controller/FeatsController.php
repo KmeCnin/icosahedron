@@ -142,8 +142,8 @@ class FeatsController extends Controller
 			 'Dons' => 'ico_rules_feats',
 			 $feat->getName() => ''
 		  ),
-		  'title' => 'Don',
-		  'subtitle' => $feat->getName(),
+		  'title' => $feat->getName(),
+		  'subtitle' => 'Don',
 		  'feat' => $feat,
 		  'tree' => $trueTree
 	   ));
