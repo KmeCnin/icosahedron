@@ -6,6 +6,7 @@ use Doctrine\Common\DataFixtures\FixtureInterface;
 use Doctrine\Common\DataFixtures\OrderedFixtureInterface;
 use Doctrine\Common\Persistence\ObjectManager;
 use Ico\Bundle\RulesBundle\Entity\CharacterClass;
+use Ico\Bundle\RulesBundle\Entity\CharacterClassLevel;
 use Ico\Bundle\RulesBundle\Entity\Link;
 //use Symfony\Component\DomCrawler\Crawler;
 use Symfony\Component\DependencyInjection\ContainerAwareInterface;
@@ -38,7 +39,149 @@ class CharacterClasses implements FixtureInterface, OrderedFixtureInterface, Con
 			 'hitDie' => 'd6',
 			 'skills' => array('Art de la magie', 'Artisanat', 'Connaissances', 'Estimation', 'Linguistique', 'Profession', 'Vol'),
 			 'link' => 'http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Magicien.ashx',
-			 'baseSkillPoints' => 2
+			 'baseSkillPoints' => 2,
+			 'levels' => array(
+				1 => array( 
+				  'bba' => 0,  
+				  'ref' => 0,  
+				  'vig' => 0,  
+				  'vol' => 2,  
+				  'dailySpells' => array(3, 1, 0, 0, 0, 0, 0, 0, 0, 0),  
+				),
+				2 => array(
+				  'bba' => 1,  
+				  'ref' => 0,  
+				  'vig' => 0,  
+				  'vol' => 3,  
+				  'dailySpells' => array(4, 2, 0, 0, 0, 0, 0, 0, 0, 0),  
+				),
+				3 => array(
+				  'bba' => 1,  
+				  'ref' => 1,  
+				  'vig' => 1,  
+				  'vol' => 3,  
+				  'dailySpells' => array(4, 2, 1, 0, 0, 0, 0, 0, 0, 0),  
+				),
+				4 => array( 
+				  'bba' => 2,  
+				  'ref' => 1,  
+				  'vig' => 1,  
+				  'vol' => 4,  
+				  'dailySpells' => array(4, 3, 2, 0, 0, 0, 0, 0, 0, 0),  
+				),
+				5 => array(
+				  'bba' => 2,  
+				  'ref' => 1,  
+				  'vig' => 1,  
+				  'vol' => 4,  
+				  'dailySpells' => array(4, 3, 2, 1, 0, 0, 0, 0, 0, 0),  
+				),
+				6 => array( 
+				  'bba' => 3,  
+				  'ref' => 2,  
+				  'vig' => 2,  
+				  'vol' => 5,  
+				  'dailySpells' => array(4, 3, 3, 2, 0, 0, 0, 0, 0, 0),  
+				),
+				7 => array(
+				  'bba' => 3,  
+				  'ref' => 2,  
+				  'vig' => 2,  
+				  'vol' => 5,  
+				  'dailySpells' => array(4, 4, 3, 2, 1, 0, 0, 0, 0, 0),  
+				),
+				8 => array( 
+				  'bba' => 4,  
+				  'ref' => 2,  
+				  'vig' => 2,  
+				  'vol' => 6,  
+				  'dailySpells' => array(4, 4, 3, 3, 2, 0, 0, 0, 0, 0),  
+				),
+				9 => array(
+				  'bba' => 4,  
+				  'ref' => 3,  
+				  'vig' => 3,  
+				  'vol' => 6,  
+				  'dailySpells' => array(4, 4, 4, 3, 2, 1, 0, 0, 0, 0),  
+				),
+				10 => array( 
+				  'bba' => 5,  
+				  'ref' => 3,  
+				  'vig' => 3,  
+				  'vol' => 7,  
+				  'dailySpells' => array(4, 4, 4, 3, 3, 2, 0, 0, 0, 0),  
+				),
+				11 => array( 
+				  'bba' => 5,  
+				  'ref' => 3,  
+				  'vig' => 3,  
+				  'vol' => 7,  
+				  'dailySpells' => array(4, 4, 4, 4, 3, 2, 1, 0, 0, 0),  
+				),
+				12 => array( 
+				  'bba' => 6,  
+				  'ref' => 4,  
+				  'vig' => 4,  
+				  'vol' => 8,  
+				  'dailySpells' => array(4, 4, 4, 4, 3, 3, 2, 0, 0, 0),  
+				),
+				13 => array( 
+				  'bba' => 6,  
+				  'ref' => 4,  
+				  'vig' => 4,  
+				  'vol' => 8,  
+				  'dailySpells' => array(4, 4, 4, 4, 4, 3, 2, 1, 0, 0),  
+				),
+				14 => array( 
+				  'bba' => 7,  
+				  'ref' => 4,  
+				  'vig' => 4,  
+				  'vol' => 9,  
+				  'dailySpells' => array(4, 4, 4, 4, 4, 3, 3, 2, 0, 0),  
+				),
+				15 => array( 
+				  'bba' => 7,  
+				  'ref' => 5,  
+				  'vig' => 5,  
+				  'vol' => 9,  
+				  'dailySpells' => array(4, 4, 4, 4, 4, 4, 3, 2, 1, 0),  
+				),
+				16 => array( 
+				  'bba' => 8,  
+				  'ref' => 5,  
+				  'vig' => 5,  
+				  'vol' => 10,  
+				  'dailySpells' => array(4, 4, 4, 4, 4, 4, 3, 3, 2, 0),  
+				),
+				17 => array( 
+				  'bba' => 8,  
+				  'ref' => 5,  
+				  'vig' => 5,  
+				  'vol' => 10,  
+				  'dailySpells' => array(4, 4, 4, 4, 4, 4, 4, 3, 2, 1),  
+				),
+				18 => array( 
+				  'bba' => 9,  
+				  'ref' => 6,  
+				  'vig' => 6,  
+				  'vol' => 11,  
+				  'dailySpells' => array(4, 4, 4, 4, 4, 4, 4, 3, 3, 2),  
+				),
+				19 => array( 
+				  'bba' => 9,  
+				  'ref' => 6,  
+				  'vig' => 6,  
+				  'vol' => 11,  
+				  'dailySpells' => array(4, 4, 4, 4, 4, 4, 4, 4, 3, 3),  
+				),
+				20 => array( 
+				  'bba' => 10,  
+				  'ref' => 6,  
+				  'vig' => 6,  
+				  'vol' => 12,  
+				  'dailySpells' => array(4, 4, 4, 4, 4, 4, 4, 4, 4, 4),  
+				),
+			 )
 		  )
 	   );
 
@@ -51,6 +194,17 @@ class CharacterClasses implements FixtureInterface, OrderedFixtureInterface, Con
 		  $class->setAlignment($data['alignment']);
 		  $class->setHitDie($data['hitDie']);
 		  $class->setBaseSkillPoints($data['baseSkillPoints']);
+		  
+		  foreach ($data['levels'] as $id_level => $dataLevel) {
+			 $level = new CharacterClassLevel();
+			 $level->setLevel($id_level);
+			 $level->setBba($dataLevel['bba']);
+			 $level->setRef($dataLevel['ref']);
+			 $level->setVig($dataLevel['vig']);
+			 $level->setVol($dataLevel['vol']);
+			 $level->setDailySpells($dataLevel['dailySpells']);
+			 $class->addLevel($level);
+		  }
 		  
 		  foreach ($data['skills'] as $name) {
 			 $skill = $this->container->get('doctrine')

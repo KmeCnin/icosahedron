@@ -8,7 +8,7 @@ use Gedmo\Mapping\Annotation as Gedmo;
 /**
  * CharacterClass
  *
- * @ORM\Table(name="character_class", indexes={@ORM\Index(name="nameId_idx", columns={"nameId"})})
+ * @ORM\Table(name="characterclass", indexes={@ORM\Index(name="nameId_idx", columns={"nameId"})})
  * @ORM\Entity(repositoryClass="Ico\Bundle\RulesBundle\Repository\CharacterClassRepository")
  */
 class CharacterClass
@@ -89,6 +89,12 @@ class CharacterClass
      */
     protected $link;
 
+    /**
+     * @var ArrayCollection CharacterClassLevel $levels
+     *
+     * @ORM\ManyToMany(targetEntity="CharacterClassLevel", cascade={"persist", "merge", "remove"})
+     */
+    protected $levels;
 
     /**
      * Get id
@@ -345,5 +351,38 @@ class CharacterClass
     public function getBaseSkillPoints()
     {
         return $this->baseSkillPoints;
+    }
+
+    /**
+     * Add levels
+     *
+     * @param \Ico\Bundle\RulesBundle\Entity\CharacterClassLevel $levels
+     * @return CharacterClass
+     */
+    public function addLevel(\Ico\Bundle\RulesBundle\Entity\CharacterClassLevel $levels)
+    {
+        $this->levels[] = $levels;
+
+        return $this;
+    }
+
+    /**
+     * Remove levels
+     *
+     * @param \Ico\Bundle\RulesBundle\Entity\CharacterClassLevel $levels
+     */
+    public function removeLevel(\Ico\Bundle\RulesBundle\Entity\CharacterClassLevel $levels)
+    {
+        $this->levels->removeElement($levels);
+    }
+
+    /**
+     * Get levels
+     *
+     * @return \Doctrine\Common\Collections\Collection 
+     */
+    public function getLevels()
+    {
+        return $this->levels;
     }
 }

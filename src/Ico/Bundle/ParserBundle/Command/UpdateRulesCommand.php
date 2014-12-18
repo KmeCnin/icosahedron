@@ -465,7 +465,8 @@ EOT
 	   foreach ($this->getFixturesEntities() as $entity) {
 		  $tablesToTruncate[] = 'IcoRulesBundle:'.$entity;
 	   }
-	   $tablesToTruncate[] = 'characterclass_skill';
+//	   $tablesToTruncate[] = 'IcoRulesBundle:Skill';
+	   $tablesToTruncate[] = 'IcoRulesBundle:CharacterClassLevel';
 	   if (!$this->updateOnlyFixtures) {
 		  $tablesToTruncate[] = 'IcoRulesBundle:Link';
 	   }
