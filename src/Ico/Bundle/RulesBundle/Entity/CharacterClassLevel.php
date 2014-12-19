@@ -6,7 +6,7 @@ use Doctrine\ORM\Mapping as ORM;
 use Gedmo\Mapping\Annotation as Gedmo;
 
 /**
- * Skill
+ * CharacterClassLevel
  *
  * @ORM\Table(name="characterclass_level", indexes={@ORM\Index(name="level_idx", columns={"level"})})
  * @ORM\Entity(repositoryClass="Ico\Bundle\RulesBundle\Repository\CharacterClassLevelRepository")
@@ -56,13 +56,13 @@ class CharacterClassLevel
      * @ORM\Column(name="vol", type="integer")
      */
     private $vol;
-//    
-//    /**
-//     * @var ArrayCollection CharacterClassSpecial $specials
-//     *
-//     * @ORM\ManyToMany(targetEntity="CharacterClassSpecial", cascade={"persist", "merge", "remove"})
-//     */
-//    protected $specials;
+    
+    /**
+     * @var ArrayCollection CharacterClassSpecial $specials
+     *
+     * @ORM\ManyToMany(targetEntity="CharacterClassSpecial", cascade={"persist", "merge", "remove"})
+     */
+    protected $specials;
 
     /**
      * @var array

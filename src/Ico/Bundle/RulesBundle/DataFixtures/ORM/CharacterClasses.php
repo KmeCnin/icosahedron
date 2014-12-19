@@ -15,20 +15,28 @@ use Symfony\Component\DependencyInjection\ContainerInterface;
 class CharacterClasses implements FixtureInterface, OrderedFixtureInterface, ContainerAwareInterface {
 
     /**
-     * @var ContainerInterface
-     */
+	* @var ContainerInterface
+	*/
     private $container;
 
     /**
-     * {@inheritDoc}
-     */
-    public function setContainer(ContainerInterface $container = null)
-    {
-        $this->container = $container;
+	* {@inheritDoc}
+	*/
+    public function setContainer(ContainerInterface $container = null) {
+	   $this->container = $container;
     }
-    
+
     public function load(ObjectManager $manager) {
 	   
+	   $specials = array(
+		  array(
+			 'nameID' => 'PACTEMAGIQUE',
+			 'name' => 'Pacte magique',
+			 'description' => 'Un puissant lien se crée entre le magicien et un objet ou une créature.',
+			 'detail' => 'Au niveau 1, un puissant lien se crée entre le magicien et un objet ou une créature. Ce lien peut prendre l’une des deux formes suivantes : un <a class="pagelink" href="Pathfinder-RPG.familier.ashx" title="familier">familier</a> ou un objet fétiche. Un familier est un animal de compagnie magique qui améliore les compétences et rehausse les sens du magicien alors qu’un objet fétiche est un objet que le magicien utilise pour lancer des sorts supplémentaires ou en tant qu’objet magique. Une fois qu’un magicien a choisi une de ces deux options, il ne peut plus modifier son choix. Pour les règles concernant les <a class="pagelink" href="Pathfinder-RPG.familier.ashx" title="familier">familiers</a>, voir la page correspondante, pour celles qui traitent des objets fétiches, voir ci-dessous.<br /><br />Les magiciens qui choisissent un objet fétiche le possèdent automatiquement (sans devoir le payer) lorsqu’ils entrent en jeu. L’objet en question doit appartenir à une des catégories suivantes : amulette, anneau, arme, baguette ou bâton. Il s’agit toujours d’un objet de maître. Les armes que le personnage reçoit au niveau 1 ne sont jamais composées d’un matériel spécial. Si l’objet est une amulette ou un anneau, il doit être porté pour pouvoir être utilisé. Les armes, les baguettes et les bâtons, quant à eux, doivent être tenus dans une main. Si un magicien tente de lancer un sort sans porter ou tenir son objet fétiche, il doit réussir un test de <a class="pagelink" href="Pathfinder-RPG.concentration.ashx" title="Concentration">concentration</a> pour éviter de perdre le sort. Le <a class="pagelink" href="Pathfinder-RPG.DD.ashx" title="DD">DD</a> de ce test vaut 20 + le <a class="pagelink" href="Pathfinder-RPG.niveau%20de%20sort.ashx" title="Niveau de sort">niveau du sort</a>. Si l’objet est un anneau ou une amulette, il occupe <a class="pagelink" href="Pathfinder-RPG.R%c3%a8gles%20relatives%20aux%20objets%20magiques.ashx#SURLECORPS" title="Règles relatives aux objets magiques">l’emplacement d’un objet magique</a> (cou ou anneau).<br /><br />Un magicien peut utiliser son objet fétiche une fois par jour pour lancer n’importe quel sort qui se trouve dans son <a class="pagelink" href="Pathfinder-RPG.magicien.ashx#GRIMOIRE" title="Le magicien">grimoire</a> et qu’il est capable de lancer et ce, même s’il ne l’a pas préparé. Ce sort fonctionne comme n’importe quel autre sort lancé par le magicien : même temps d’incantation, même durée et les effets dépendant du niveau du magicien sont déterminés normalement. Le sort ne peut être modifié par aucun <a class="pagelink" href="Pathfinder-RPG.Dons.ashx#DONMETAMAGIE" title="Les dons">don de métamagie</a> ni aucune capacité spéciale. Le magicien ne peut pas utiliser son objet fétiche pour lancer des sorts appartenant à ses écoles opposées (voir « <a class="pagelink" href="Pathfinder-RPG.magicien.ashx#ECOLEDEMAGIE" title="Le magicien">École de magie</a> »).<br /><br />Un magicien peut ajouter de nouvelles capacités magiques à son objet fétiche comme s’il possédait les <a class="pagelink" href="Pathfinder-RPG.dons.ashx#DONCREATION" title="Les dons">dons de création d’objets magiques</a> nécessaires, mais seulement si son niveau est suffisant pour remplir les conditions requises par ces dons. Par exemple, un magicien ayant une dague comme objet fétiche doit être de niveau supérieur ou égal à 5 pour ajouter des propriétés magiques à la dague (voir le don de <a class="pagelink" href="Pathfinder-RPG.Cr%c3%a9ation%20darmes%20et%20armures%20magiques.ashx" title="Création d&#39;armes et armures magiques">Création d’armes et d’armures magiques</a>). Si l’objet fétiche est une baguette et qu’on dépense sa dernière charge, il ne peut plus être utilisé comme baguette magique mais il n’est pas détruit pour autant : il conserve ses capacités d’objet fétiche et peut être utilisé pour créer une nouvelle baguette. Les propriétés magiques d’un objet fétiche, y compris les capacités magiques ajoutées à l’objet, ne fonctionnent que pour le magicien qui le possède. Si le propriétaire d’un objet fétiche meurt ou si l’objet est remplacé, il redevient un objet de maître ordinaire.<br /><br />Si un objet fétiche est endommagé, il revient à son maximum de points de vie la prochaine fois que le magicien prépare ses sorts. Si l’objet fétiche est détruit ou perdu, le magicien peut le remplacer une semaine plus tard en réalisant un rituel qui dure huit heures et coûte 200 po par niveau de magicien (en plus du coût de l’objet de maître). Le nouvel objet fétiche ne possède aucune des propriétés magiques qui avaient pu être ajoutées à l’ancien objet. Un magicien peut également désigner un nouvel objet magique comme objet fétiche de remplacement. Cela fonctionne comme ci-dessus, si ce n’est que l’objet magique conserve ses propriétés et acquiert en plus les avantages et les désavantages des objets fétiches.',
+		  ),
+	   );
+
 	   $classes = array(
 		  array(
 			 'name' => 'Magicien',
@@ -41,145 +49,151 @@ class CharacterClasses implements FixtureInterface, OrderedFixtureInterface, Con
 			 'link' => 'http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Magicien.ashx',
 			 'baseSkillPoints' => 2,
 			 'levels' => array(
-				1 => array( 
-				  'bba' => 0,  
-				  'ref' => 0,  
-				  'vig' => 0,  
-				  'vol' => 2,  
-				  'dailySpells' => array(3, 1, 0, 0, 0, 0, 0, 0, 0, 0),  
+				1 => array(
+				    'bba' => 0,
+				    'ref' => 0,
+				    'vig' => 0,
+				    'vol' => 2,
+				    'specials' => array(
+					   'PACTEMAGIQUE' => 'pacte magique',
+					   'ECOLEDEMAGIE' => 'école de magie',
+					   'TOURSDEMAGIE' => 'tours de magie',
+					   'ECRITUREDEPARCHEMINS' => 'écriture de parchemins',
+				    ),
+				    'dailySpells' => array(3, 1, 0, 0, 0, 0, 0, 0, 0, 0),
 				),
 				2 => array(
-				  'bba' => 1,  
-				  'ref' => 0,  
-				  'vig' => 0,  
-				  'vol' => 3,  
-				  'dailySpells' => array(4, 2, 0, 0, 0, 0, 0, 0, 0, 0),  
+				    'bba' => 1,
+				    'ref' => 0,
+				    'vig' => 0,
+				    'vol' => 3,
+				    'dailySpells' => array(4, 2, 0, 0, 0, 0, 0, 0, 0, 0),
 				),
 				3 => array(
-				  'bba' => 1,  
-				  'ref' => 1,  
-				  'vig' => 1,  
-				  'vol' => 3,  
-				  'dailySpells' => array(4, 2, 1, 0, 0, 0, 0, 0, 0, 0),  
+				    'bba' => 1,
+				    'ref' => 1,
+				    'vig' => 1,
+				    'vol' => 3,
+				    'dailySpells' => array(4, 2, 1, 0, 0, 0, 0, 0, 0, 0),
 				),
-				4 => array( 
-				  'bba' => 2,  
-				  'ref' => 1,  
-				  'vig' => 1,  
-				  'vol' => 4,  
-				  'dailySpells' => array(4, 3, 2, 0, 0, 0, 0, 0, 0, 0),  
+				4 => array(
+				    'bba' => 2,
+				    'ref' => 1,
+				    'vig' => 1,
+				    'vol' => 4,
+				    'dailySpells' => array(4, 3, 2, 0, 0, 0, 0, 0, 0, 0),
 				),
 				5 => array(
-				  'bba' => 2,  
-				  'ref' => 1,  
-				  'vig' => 1,  
-				  'vol' => 4,  
-				  'dailySpells' => array(4, 3, 2, 1, 0, 0, 0, 0, 0, 0),  
+				    'bba' => 2,
+				    'ref' => 1,
+				    'vig' => 1,
+				    'vol' => 4,
+				    'dailySpells' => array(4, 3, 2, 1, 0, 0, 0, 0, 0, 0),
 				),
-				6 => array( 
-				  'bba' => 3,  
-				  'ref' => 2,  
-				  'vig' => 2,  
-				  'vol' => 5,  
-				  'dailySpells' => array(4, 3, 3, 2, 0, 0, 0, 0, 0, 0),  
+				6 => array(
+				    'bba' => 3,
+				    'ref' => 2,
+				    'vig' => 2,
+				    'vol' => 5,
+				    'dailySpells' => array(4, 3, 3, 2, 0, 0, 0, 0, 0, 0),
 				),
 				7 => array(
-				  'bba' => 3,  
-				  'ref' => 2,  
-				  'vig' => 2,  
-				  'vol' => 5,  
-				  'dailySpells' => array(4, 4, 3, 2, 1, 0, 0, 0, 0, 0),  
+				    'bba' => 3,
+				    'ref' => 2,
+				    'vig' => 2,
+				    'vol' => 5,
+				    'dailySpells' => array(4, 4, 3, 2, 1, 0, 0, 0, 0, 0),
 				),
-				8 => array( 
-				  'bba' => 4,  
-				  'ref' => 2,  
-				  'vig' => 2,  
-				  'vol' => 6,  
-				  'dailySpells' => array(4, 4, 3, 3, 2, 0, 0, 0, 0, 0),  
+				8 => array(
+				    'bba' => 4,
+				    'ref' => 2,
+				    'vig' => 2,
+				    'vol' => 6,
+				    'dailySpells' => array(4, 4, 3, 3, 2, 0, 0, 0, 0, 0),
 				),
 				9 => array(
-				  'bba' => 4,  
-				  'ref' => 3,  
-				  'vig' => 3,  
-				  'vol' => 6,  
-				  'dailySpells' => array(4, 4, 4, 3, 2, 1, 0, 0, 0, 0),  
+				    'bba' => 4,
+				    'ref' => 3,
+				    'vig' => 3,
+				    'vol' => 6,
+				    'dailySpells' => array(4, 4, 4, 3, 2, 1, 0, 0, 0, 0),
 				),
-				10 => array( 
-				  'bba' => 5,  
-				  'ref' => 3,  
-				  'vig' => 3,  
-				  'vol' => 7,  
-				  'dailySpells' => array(4, 4, 4, 3, 3, 2, 0, 0, 0, 0),  
+				10 => array(
+				    'bba' => 5,
+				    'ref' => 3,
+				    'vig' => 3,
+				    'vol' => 7,
+				    'dailySpells' => array(4, 4, 4, 3, 3, 2, 0, 0, 0, 0),
 				),
-				11 => array( 
-				  'bba' => 5,  
-				  'ref' => 3,  
-				  'vig' => 3,  
-				  'vol' => 7,  
-				  'dailySpells' => array(4, 4, 4, 4, 3, 2, 1, 0, 0, 0),  
+				11 => array(
+				    'bba' => 5,
+				    'ref' => 3,
+				    'vig' => 3,
+				    'vol' => 7,
+				    'dailySpells' => array(4, 4, 4, 4, 3, 2, 1, 0, 0, 0),
 				),
-				12 => array( 
-				  'bba' => 6,  
-				  'ref' => 4,  
-				  'vig' => 4,  
-				  'vol' => 8,  
-				  'dailySpells' => array(4, 4, 4, 4, 3, 3, 2, 0, 0, 0),  
+				12 => array(
+				    'bba' => 6,
+				    'ref' => 4,
+				    'vig' => 4,
+				    'vol' => 8,
+				    'dailySpells' => array(4, 4, 4, 4, 3, 3, 2, 0, 0, 0),
 				),
-				13 => array( 
-				  'bba' => 6,  
-				  'ref' => 4,  
-				  'vig' => 4,  
-				  'vol' => 8,  
-				  'dailySpells' => array(4, 4, 4, 4, 4, 3, 2, 1, 0, 0),  
+				13 => array(
+				    'bba' => 6,
+				    'ref' => 4,
+				    'vig' => 4,
+				    'vol' => 8,
+				    'dailySpells' => array(4, 4, 4, 4, 4, 3, 2, 1, 0, 0),
 				),
-				14 => array( 
-				  'bba' => 7,  
-				  'ref' => 4,  
-				  'vig' => 4,  
-				  'vol' => 9,  
-				  'dailySpells' => array(4, 4, 4, 4, 4, 3, 3, 2, 0, 0),  
+				14 => array(
+				    'bba' => 7,
+				    'ref' => 4,
+				    'vig' => 4,
+				    'vol' => 9,
+				    'dailySpells' => array(4, 4, 4, 4, 4, 3, 3, 2, 0, 0),
 				),
-				15 => array( 
-				  'bba' => 7,  
-				  'ref' => 5,  
-				  'vig' => 5,  
-				  'vol' => 9,  
-				  'dailySpells' => array(4, 4, 4, 4, 4, 4, 3, 2, 1, 0),  
+				15 => array(
+				    'bba' => 7,
+				    'ref' => 5,
+				    'vig' => 5,
+				    'vol' => 9,
+				    'dailySpells' => array(4, 4, 4, 4, 4, 4, 3, 2, 1, 0),
 				),
-				16 => array( 
-				  'bba' => 8,  
-				  'ref' => 5,  
-				  'vig' => 5,  
-				  'vol' => 10,  
-				  'dailySpells' => array(4, 4, 4, 4, 4, 4, 3, 3, 2, 0),  
+				16 => array(
+				    'bba' => 8,
+				    'ref' => 5,
+				    'vig' => 5,
+				    'vol' => 10,
+				    'dailySpells' => array(4, 4, 4, 4, 4, 4, 3, 3, 2, 0),
 				),
-				17 => array( 
-				  'bba' => 8,  
-				  'ref' => 5,  
-				  'vig' => 5,  
-				  'vol' => 10,  
-				  'dailySpells' => array(4, 4, 4, 4, 4, 4, 4, 3, 2, 1),  
+				17 => array(
+				    'bba' => 8,
+				    'ref' => 5,
+				    'vig' => 5,
+				    'vol' => 10,
+				    'dailySpells' => array(4, 4, 4, 4, 4, 4, 4, 3, 2, 1),
 				),
-				18 => array( 
-				  'bba' => 9,  
-				  'ref' => 6,  
-				  'vig' => 6,  
-				  'vol' => 11,  
-				  'dailySpells' => array(4, 4, 4, 4, 4, 4, 4, 3, 3, 2),  
+				18 => array(
+				    'bba' => 9,
+				    'ref' => 6,
+				    'vig' => 6,
+				    'vol' => 11,
+				    'dailySpells' => array(4, 4, 4, 4, 4, 4, 4, 3, 3, 2),
 				),
-				19 => array( 
-				  'bba' => 9,  
-				  'ref' => 6,  
-				  'vig' => 6,  
-				  'vol' => 11,  
-				  'dailySpells' => array(4, 4, 4, 4, 4, 4, 4, 4, 3, 3),  
+				19 => array(
+				    'bba' => 9,
+				    'ref' => 6,
+				    'vig' => 6,
+				    'vol' => 11,
+				    'dailySpells' => array(4, 4, 4, 4, 4, 4, 4, 4, 3, 3),
 				),
-				20 => array( 
-				  'bba' => 10,  
-				  'ref' => 6,  
-				  'vig' => 6,  
-				  'vol' => 12,  
-				  'dailySpells' => array(4, 4, 4, 4, 4, 4, 4, 4, 4, 4),  
+				20 => array(
+				    'bba' => 10,
+				    'ref' => 6,
+				    'vig' => 6,
+				    'vol' => 12,
+				    'dailySpells' => array(4, 4, 4, 4, 4, 4, 4, 4, 4, 4),
 				),
 			 )
 		  )
@@ -194,7 +208,7 @@ class CharacterClasses implements FixtureInterface, OrderedFixtureInterface, Con
 		  $class->setAlignment($data['alignment']);
 		  $class->setHitDie($data['hitDie']);
 		  $class->setBaseSkillPoints($data['baseSkillPoints']);
-		  
+
 		  foreach ($data['levels'] as $id_level => $dataLevel) {
 			 $level = new CharacterClassLevel();
 			 $level->setLevel($id_level);
@@ -205,14 +219,14 @@ class CharacterClasses implements FixtureInterface, OrderedFixtureInterface, Con
 			 $level->setDailySpells($dataLevel['dailySpells']);
 			 $class->addLevel($level);
 		  }
-		  
+
 		  foreach ($data['skills'] as $name) {
 			 $skill = $this->container->get('doctrine')
-				->getRepository('IcoRulesBundle:Skill')
-				->findOneByName($name);
+				    ->getRepository('IcoRulesBundle:Skill')
+				    ->findOneByName($name);
 			 $class->addSkill($skill);
 		  }
-		  
+
 		  $d = parse_url($data['link']);
 		  $source = $this->container->get('doctrine')
 				->getRepository('IcoRulesBundle:LinkSource')
@@ -221,7 +235,7 @@ class CharacterClasses implements FixtureInterface, OrderedFixtureInterface, Con
 		  $link->setSource($source);
 		  $link->setUrl($data['link']);
 		  $class->setLink($link);
-		  
+
 		  $manager->persist($class);
 	   }
 	   $manager->flush();
