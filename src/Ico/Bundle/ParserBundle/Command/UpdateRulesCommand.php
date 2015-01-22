@@ -269,7 +269,7 @@ EOT
 	   $crawler->addHTMLContent(file_get_contents($url), 'UTF-8');
 	   $em = $this->getDoctrine()->getManager();
 	   $spells = $crawler->filter('spell')->each(function (Crawler $node) {
-		  set_time_limit(50);
+		  set_time_limit(100);
 //	   if ($node->filter('name')->text() == 'Augure') {
 		  $em = $this->getDoctrine()->getManager();
 		  $spell = new Spell();
@@ -486,6 +486,8 @@ EOT
 		  $tablesToTruncate[] = 'spell_spellcomponent';
 		  $tablesToTruncate[] = 'spell_spelllistlevel';
 		  $tablesToTruncate[] = 'spell_link';
+		  $tablesToTruncate[] = 'characterclass_skill';
+		  $tablesToTruncate[] = 'characterclass_characterclasslevel';
 	   }
 
 	   return $tablesToTruncate;

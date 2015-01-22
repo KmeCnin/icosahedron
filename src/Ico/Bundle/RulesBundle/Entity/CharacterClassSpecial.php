@@ -35,12 +35,13 @@ class CharacterClassSpecial
      * @ORM\Column(name="nameId", type="string", length=255)
      */
     private $nameId;
-    
+
     /**
-     * @Gedmo\Slug(fields={"nameId"})
-     * @ORM\Column(name="slug", type="string", length=255)
+     * @var text
+     *
+     * @ORM\Column(name="detail", type="text")
      */
-    private $slug;
+    private $detail;
 
     /**
      * @var text
@@ -127,5 +128,51 @@ class CharacterClassSpecial
     public function getDescription()
     {
         return $this->description;
+    }
+
+    /**
+     * Set nameId
+     *
+     * @param string $nameId
+     * @return CharacterClassSpecial
+     */
+    public function setNameId($nameId)
+    {
+        $this->nameId = $nameId;
+
+        return $this;
+    }
+
+    /**
+     * Get nameId
+     *
+     * @return string 
+     */
+    public function getNameId()
+    {
+        return $this->nameId;
+    }
+
+    /**
+     * Set detail
+     *
+     * @param string $detail
+     * @return CharacterClassSpecial
+     */
+    public function setDetail($detail)
+    {
+        $this->detail = $detail;
+
+        return $this;
+    }
+
+    /**
+     * Get detail
+     *
+     * @return string 
+     */
+    public function getDetail()
+    {
+        return $this->detail;
     }
 }

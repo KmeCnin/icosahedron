@@ -218,4 +218,44 @@ class CharacterClassLevel
     {
         return $this->dailySpells;
     }
+    /**
+     * Constructor
+     */
+    public function __construct()
+    {
+        $this->specials = new \Doctrine\Common\Collections\ArrayCollection();
+    }
+
+    /**
+     * Add specials
+     *
+     * @param \Ico\Bundle\RulesBundle\Entity\CharacterClassSpecial $specials
+     * @return CharacterClassLevel
+     */
+    public function addSpecial(\Ico\Bundle\RulesBundle\Entity\CharacterClassSpecial $specials)
+    {
+        $this->specials[] = $specials;
+
+        return $this;
+    }
+
+    /**
+     * Remove specials
+     *
+     * @param \Ico\Bundle\RulesBundle\Entity\CharacterClassSpecial $specials
+     */
+    public function removeSpecial(\Ico\Bundle\RulesBundle\Entity\CharacterClassSpecial $specials)
+    {
+        $this->specials->removeElement($specials);
+    }
+
+    /**
+     * Get specials
+     *
+     * @return \Doctrine\Common\Collections\Collection 
+     */
+    public function getSpecials()
+    {
+        return $this->specials;
+    }
 }
