@@ -49,6 +49,13 @@ class CharacterClassSpecial
      * @ORM\Column(name="description", type="text")
      */
     private $description;
+    
+    /**
+     * @var ArrayCollection CharacterClass $specials
+     *
+     * @ORM\ManyToOne(targetEntity="CharacterClass", inversedBy="specials", cascade={"remove", "persist"})
+     */
+    protected $class;
 
 
     /**
@@ -174,5 +181,28 @@ class CharacterClassSpecial
     public function getDetail()
     {
         return $this->detail;
+    }
+
+    /**
+     * Set class
+     *
+     * @param \Ico\Bundle\RulesBundle\Entity\CharacterClass $class
+     * @return CharacterClassSpecial
+     */
+    public function setClass(\Ico\Bundle\RulesBundle\Entity\CharacterClass $class = null)
+    {
+        $this->class = $class;
+
+        return $this;
+    }
+
+    /**
+     * Get class
+     *
+     * @return \Ico\Bundle\RulesBundle\Entity\CharacterClass 
+     */
+    public function getClass()
+    {
+        return $this->class;
     }
 }

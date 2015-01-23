@@ -60,8 +60,11 @@ a, a:hover, a:active, a:visited, .text-primary {
     color: #42A500;
     text-decoration: none !important;
 }
-a.btn {
+a.btn-primary {
     color: white;
+}
+a.btn:visited {
+    color: #555555;
 }
 a.disabled, a.disabled:hover {
     color: inherit;

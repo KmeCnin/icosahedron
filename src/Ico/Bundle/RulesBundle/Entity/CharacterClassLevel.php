@@ -58,9 +58,9 @@ class CharacterClassLevel
     private $vol;
     
     /**
-     * @var ArrayCollection CharacterClassSpecial $specials
+     * @var ArrayCollection CharacterClassLevelSpecial $specials
      *
-     * @ORM\ManyToMany(targetEntity="CharacterClassSpecial", cascade={"persist", "merge", "remove"})
+     * @ORM\ManyToMany(targetEntity="CharacterClassLevelSpecial", cascade={"persist", "merge", "remove"})
      */
     protected $specials;
 
@@ -70,6 +70,13 @@ class CharacterClassLevel
      * @ORM\Column(name="dailySpells", type="array")
      */
     private $dailySpells;
+    /**
+     * Constructor
+     */
+    public function __construct()
+    {
+        $this->specials = new \Doctrine\Common\Collections\ArrayCollection();
+    }
 
     /**
      * Get id
@@ -218,21 +225,14 @@ class CharacterClassLevel
     {
         return $this->dailySpells;
     }
-    /**
-     * Constructor
-     */
-    public function __construct()
-    {
-        $this->specials = new \Doctrine\Common\Collections\ArrayCollection();
-    }
 
     /**
      * Add specials
      *
-     * @param \Ico\Bundle\RulesBundle\Entity\CharacterClassSpecial $specials
+     * @param \Ico\Bundle\RulesBundle\Entity\CharacterClassLevelSpecial $specials
      * @return CharacterClassLevel
      */
-    public function addSpecial(\Ico\Bundle\RulesBundle\Entity\CharacterClassSpecial $specials)
+    public function addSpecial(\Ico\Bundle\RulesBundle\Entity\CharacterClassLevelSpecial $specials)
     {
         $this->specials[] = $specials;
 
@@ -242,9 +242,9 @@ class CharacterClassLevel
     /**
      * Remove specials
      *
-     * @param \Ico\Bundle\RulesBundle\Entity\CharacterClassSpecial $specials
+     * @param \Ico\Bundle\RulesBundle\Entity\CharacterClassLevelSpecial $specials
      */
-    public function removeSpecial(\Ico\Bundle\RulesBundle\Entity\CharacterClassSpecial $specials)
+    public function removeSpecial(\Ico\Bundle\RulesBundle\Entity\CharacterClassLevelSpecial $specials)
     {
         $this->specials->removeElement($specials);
     }

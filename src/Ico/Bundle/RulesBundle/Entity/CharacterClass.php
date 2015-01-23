@@ -95,6 +95,13 @@ class CharacterClass
      * @ORM\ManyToMany(targetEntity="CharacterClassLevel", cascade={"persist", "merge", "remove"})
      */
     protected $levels;
+    
+    /**
+     * @var ArrayCollection CharacterClassSpecial $specials
+     *
+     * @ORM\OneToMany(targetEntity="CharacterClassSpecial", mappedBy="class", cascade={"remove", "persist"})
+     */
+    protected $specials;
 
     /**
      * Get id
@@ -384,5 +391,38 @@ class CharacterClass
     public function getLevels()
     {
         return $this->levels;
+    }
+
+    /**
+     * Add specials
+     *
+     * @param \Ico\Bundle\RulesBundle\Entity\CharacterClassSpecial $specials
+     * @return CharacterClass
+     */
+    public function addSpecial(\Ico\Bundle\RulesBundle\Entity\CharacterClassSpecial $specials)
+    {
+        $this->specials[] = $specials;
+
+        return $this;
+    }
+
+    /**
+     * Remove specials
+     *
+     * @param \Ico\Bundle\RulesBundle\Entity\CharacterClassSpecial $specials
+     */
+    public function removeSpecial(\Ico\Bundle\RulesBundle\Entity\CharacterClassSpecial $specials)
+    {
+        $this->specials->removeElement($specials);
+    }
+
+    /**
+     * Get specials
+     *
+     * @return \Doctrine\Common\Collections\Collection 
+     */
+    public function getSpecials()
+    {
+        return $this->specials;
     }
 }

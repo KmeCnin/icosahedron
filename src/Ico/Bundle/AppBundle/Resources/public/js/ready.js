@@ -39,6 +39,7 @@ $(document).ready(function() {
 	   $(this).attr('data-toggle', 'popover');
 	   $(this).popover({placement: 'auto', html: true, trigger: 'manual', animation: false, dataContainer : '.modal-body'});
     });
+    $('[data-toggle="popover"]').popover({placement: 'auto', html: true, trigger: 'hover', animation: false, dataContainer : '.modal-body'});
     $(document).on('mouseover', '.preview', function() {
 	   var toggler = $(this);
 	   var id = toggler.uniqueId().attr('id');

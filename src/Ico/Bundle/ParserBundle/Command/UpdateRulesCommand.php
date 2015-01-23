@@ -467,6 +467,9 @@ EOT
 	   }
 //	   $tablesToTruncate[] = 'IcoRulesBundle:Skill';
 	   $tablesToTruncate[] = 'IcoRulesBundle:CharacterClassLevel';
+           $tablesToTruncate[] = 'characterclass_skill';
+           $tablesToTruncate[] = 'characterclass_characterclasslevel';
+           $tablesToTruncate[] = 'characterclasslevel_characterclassspecial';
 	   if (!$this->updateOnlyFixtures) {
 		  $tablesToTruncate[] = 'IcoRulesBundle:Link';
 	   }
@@ -486,8 +489,6 @@ EOT
 		  $tablesToTruncate[] = 'spell_spellcomponent';
 		  $tablesToTruncate[] = 'spell_spelllistlevel';
 		  $tablesToTruncate[] = 'spell_link';
-		  $tablesToTruncate[] = 'characterclass_skill';
-		  $tablesToTruncate[] = 'characterclass_characterclasslevel';
 	   }
 
 	   return $tablesToTruncate;

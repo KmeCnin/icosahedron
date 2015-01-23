@@ -8,12 +8,13 @@ use Doctrine\Common\Persistence\ObjectManager;
 use Ico\Bundle\RulesBundle\Entity\CharacterClass;
 use Ico\Bundle\RulesBundle\Entity\CharacterClassLevel;
 use Ico\Bundle\RulesBundle\Entity\CharacterClassSpecial;
+use Ico\Bundle\RulesBundle\Entity\CharacterClassLevelSpecial;
 use Ico\Bundle\RulesBundle\Entity\Link;
 //use Symfony\Component\DomCrawler\Crawler;
 use Symfony\Component\DependencyInjection\ContainerAwareInterface;
 use Symfony\Component\DependencyInjection\ContainerInterface;
 
-class CharacterClasses implements FixtureInterface, OrderedFixtureInterface, ContainerAwareInterface {
+class CharacterClasse_Magicien implements FixtureInterface, OrderedFixtureInterface, ContainerAwareInterface {
 
     /**
 	* @var ContainerInterface
@@ -40,11 +41,7 @@ class CharacterClasses implements FixtureInterface, OrderedFixtureInterface, Con
 			 'nameID' => 'ECOLEDEMAGIE',
 			 'name' => 'École de magie',
 			 'description' => 'Un magicien peut choisir de se spécialiser dans une école de magie afin d’acquérir des sorts et des pouvoirs supplémentaires associés à cette école.',
-			 'detail' => 'Un magicien peut ajouter de nouvelles capacités magiques à son objet fétiche comme s’il possédait les <a class="pagelink" href="Pathfinder-RPG.dons.ashx#DONCREATION" title="Les dons">dons de création d’objets magiques</a> nécessaires, mais seulement si son niveau est suffisant pour remplir les conditions requises par ces dons. Par exemple, un magicien ayant une dague comme objet fétiche doit être de niveau supérieur ou égal à 5 pour ajouter des propriétés magiques à la dague (voir le don de <a class="pagelink" href="Pathfinder-RPG.Cr%c3%a9ation%20darmes%20et%20armures%20magiques.ashx" title="Création d&#39;armes et armures magiques">Création d’armes et d’armures magiques</a>). Si l’objet fétiche est une baguette et qu’on dépense sa dernière charge, il ne peut plus être utilisé comme baguette magique mais il n’est pas détruit pour autant : il conserve ses capacités d’objet fétiche et peut être utilisé pour créer une nouvelle baguette. Les propriétés magiques d’un objet fétiche, y compris les capacités magiques ajoutées à l’objet, ne fonctionnent que pour le magicien qui le possède. Si le propriétaire d’un objet fétiche meurt ou si l’objet est remplacé, il redevient un objet de maître ordinaire.<br /><br />Si un objet fétiche est endommagé, il revient à son maximum de points de vie la prochaine fois que le magicien prépare ses sorts. Si l’objet fétiche est détruit ou perdu, le magicien peut le remplacer une semaine plus tard en réalisant un rituel qui dure huit heures et coûte 200 po par niveau de magicien (en plus du coût de l’objet de maître). Le nouvel objet fétiche ne possède aucune des propriétés magiques qui avaient pu être ajoutées à l’ancien objet. Un magicien peut également désigner un nouvel objet magique comme objet fétiche de remplacement. Cela fonctionne comme ci-dessus, si ce n’est que l’objet magique conserve ses propriétés et acquiert en plus les avantages et les désavantages des objets fétiches.<br /><br /><div class="ref right" style="padding: 0 0 3px 3px;"><a name="ECOLEDEMAGIE" href="#ECOLEDEMAGIE"><img class="opachover" src="/images/pathfinder/wiki/logoref.png" width="12px" style="opacity:0.1"></a></div>
-<h3 class="separator">École de magie<a class="headeranchor" id="École_de_magie_4" href="#École_de_magie_4" title="Lien vers cette section">&#0182;</a></h3>
-Un magicien peut choisir de se spécialiser dans une <a class="pagelink" href="Pathfinder-RPG.%c3%89coles%20de%20magie.ashx" title="Les écoles de magie">école de magie</a> afin d’acquérir des sorts et des pouvoirs supplémentaires associés à cette école. Ce choix doit être fait au niveau 1 et ne peut être modifié par la suite. Si le magicien ne choisit aucune école, il reçoit les avantages liés à l’<a class="pagelink" href="Pathfinder-RPG.%c3%89coles%20de%20magie.ashx#ECOLEUNIVERSELLE" title="Les écoles de magie">école universelle</a>.<br /><br />Un magicien qui choisit de se spécialiser dans une des huit <a class="pagelink" href="Pathfinder-RPG.%c3%89coles%20de%20magie.ashx" title="Les écoles de magie">écoles de magie</a> standard doit sélectionner deux autres écoles qui deviennent ses écoles opposées et représentent les domaines de connaissances qu’il décide de sacrifier pour se concentrer sur son domaine de prédilection. Un magicien peut préparer un sort appartenant à une de ses écoles opposées mais il doit alors utiliser deux <a class="pagelink" href="Pathfinder-RPG.emplacement%20de%20sort.ashx" title="emplacement de sort">emplacements de sort</a> du même niveau.<br /><br /><i>Par exemple, un magicien dont une des écoles d’opposition est l’<a class="pagelink" href="Pathfinder-RPG.%c3%89coles%20de%20magie.ashx#EVOCATION" title="Les écoles de magie">Évocation</a> doit utiliser deux emplacements de sort de 3e niveau pour préparer une </i><a class="pagelink" href="Pathfinder-RPG.boule%20de%20feu.ashx" title="Boule de feu">boule de feu</a><i>. De plus, le spécialiste subit un malus de -4 à tous les tests de compétence pour <a class="pagelink" href="Pathfinder-RPG.cr%c3%a9ation%20dobjets%20magiques.ashx" title="Création d&#39;objets magiques">fabriquer un objet magique</a> dont la création nécessite un sort appartenant à une de ses écoles d’opposition.</i><br /><br />Un magicien généraliste peut préparer des sorts de n’importe quelle école sans aucune restriction.<br /><br />Les magiciens spécialistes reçoivent un certain nombre de pouvoirs d’école dépendant de leur spécialité. Ils obtiennent également un <a class="pagelink" href="Pathfinder-RPG.emplacement%20de%20sort.ashx" title="emplacement de sort">emplacement de sort</a> supplémentaire pour chacun des niveaux de sorts auxquels ils ont accès (sauf le niveau 0). Chaque jour, le magicien peut utiliser cet emplacement supplémentaire pour préparer un sort appartenant à son école de spécialisation et figurant sur son <a class="pagelink" href="Pathfinder-RPG.magicien.ashx#GRIMOIRE" title="Le magicien">grimoire</a>. Le magicien peut choisir de préparer un sort modifié par un <a class="pagelink" href="Pathfinder-RPG.Dons.ashx#DONMETAMAGIE" title="Les dons">don de métamagie</a> dans un de ces emplacements supplémentaires mais il devra alors utiliser un emplacement de niveau plus élevé. Les magiciens généralistes ne reçoivent pas d’emplacements de sort supplémentaires.<br /><br /><div style="float:right; padding: 4px 4px 8px 8px;">
-<img title="Advanced Player\'s Guide/Manuel du joueur - règles avancées" class="opachover" src="http://www.pathfinder-fr.org/Wiki/public/Upload/Illustrations/Logos/logoAPG.png" style="opacity: 0.7" />
-</div>Au lieu de se spécialiser dans l’une des huit écoles de magie standard, un magicien peut se focaliser sur l’étude d’une des quatre écoles de magie élémentaires. Comme les écoles ordinaires, ces quatre nouvelles options octroient un certain nombre de pouvoirs d’école et un emplacement de sort en bonus pour chaque niveau de sorts auquel le magicien a accès (à partir du 1<sup>er</sup> niveau). Contrairement aux écoles ordinaires, une école élémentaire impose au magicien de choisir son élément opposé comme école d’opposition (l’Air contre la Terre, l’Eau contre le Feu). Le magicien ne doit pas choisir de seconde école d’opposition. Pour pouvoir préparer un sort appartenant à son école d’opposition, il doit utiliser deux emplacements de sort, conformément aux règles normales.<br /><br />Voir la <a class="pagelink" href="Pathfinder-RPG.%c3%89coles%20de%20magie.ashx" title="Les écoles de magie">liste des écoles de magie</a>.<br /><br /><div class="ref right" style="padding: 0 0 3px 3px;"><a name="TOURSDEMAGIE" href="#TOURSDEMAGIE"><img class="opachover" src="/images/pathfinder/wiki/logoref.png" width="12px" style="opacity:0.1"></a></div>',
+			 'detail' => 'Un magicien peut ajouter de nouvelles capacités magiques à son objet fétiche comme s’il possédait les <a class="pagelink" href="Pathfinder-RPG.dons.ashx#DONCREATION" title="Les dons">dons de création d’objets magiques</a> nécessaires, mais seulement si son niveau est suffisant pour remplir les conditions requises par ces dons. Par exemple, un magicien ayant une dague comme objet fétiche doit être de niveau supérieur ou égal à 5 pour ajouter des propriétés magiques à la dague (voir le don de <a class="pagelink" href="Pathfinder-RPG.Cr%c3%a9ation%20darmes%20et%20armures%20magiques.ashx" title="Création d&#39;armes et armures magiques">Création d’armes et d’armures magiques</a>). Si l’objet fétiche est une baguette et qu’on dépense sa dernière charge, il ne peut plus être utilisé comme baguette magique mais il n’est pas détruit pour autant : il conserve ses capacités d’objet fétiche et peut être utilisé pour créer une nouvelle baguette. Les propriétés magiques d’un objet fétiche, y compris les capacités magiques ajoutées à l’objet, ne fonctionnent que pour le magicien qui le possède. Si le propriétaire d’un objet fétiche meurt ou si l’objet est remplacé, il redevient un objet de maître ordinaire.<br /><br />Si un objet fétiche est endommagé, il revient à son maximum de points de vie la prochaine fois que le magicien prépare ses sorts. Si l’objet fétiche est détruit ou perdu, le magicien peut le remplacer une semaine plus tard en réalisant un rituel qui dure huit heures et coûte 200 po par niveau de magicien (en plus du coût de l’objet de maître). Le nouvel objet fétiche ne possède aucune des propriétés magiques qui avaient pu être ajoutées à l’ancien objet. Un magicien peut également désigner un nouvel objet magique comme objet fétiche de remplacement. Cela fonctionne comme ci-dessus, si ce n’est que l’objet magique conserve ses propriétés et acquiert en plus les avantages et les désavantages des objets fétiches.',
 		  ),
                array(
 			 'nameID' => 'TOURSDEMAGIE',
@@ -62,14 +59,11 @@ Un magicien peut choisir de se spécialiser dans une <a class="pagelink" href="P
 			 'nameID' => 'DONSUPPLEMENTAIRE',
 			 'name' => 'Dons supplémentaires et découvertes arcaniques',
 			 'description' => 'Aux niveaux 5, 10, 15 et 20, le magicien gagne un don supplémentaire (don de métamagie, don de création d’objets ou encore le don Maîtrise des sorts).',
-			 'detail' => 'Aux niveaux 5, 10, 15 et 20, le magicien gagne un don supplémentaire. Ce don doit obligatoirement être un <a class="pagelink" href="Pathfinder-RPG.Dons.ashx#DONMETAMAGIE" title="Les dons">don de métamagie</a>, un <a class="pagelink" href="Pathfinder-RPG.Dons.ashx#DONCREATION" title="Les dons">don de création d’objets</a> ou encore le don <a class="pagelink" href="Pathfinder-RPG.Ma%c3%aetrise%20des%20sorts.ashx" title="Maîtrise des sorts">Maîtrise des sorts</a>. Le magicien doit satisfaire à toutes les conditions requises pour le don choisi, y compris le <a class="pagelink" href="Pathfinder-RPG.NLS.ashx" title="NLS">niveau de lanceur de sorts</a> minimum. Ces dons viennent s’ajouter à ceux que tous les personnages gagnent en montant de niveau (et pour lesquels le magicien n’est pas limité aux catégories de dons citées plus haut).<br /><br /><div style="float:right; padding: 4px 4px 8px 8px;">
-<img title="Ultimate Magic - Art de la Magie" class="opachover" src="http://www.pathfinder-fr.org/Wiki/public/Upload/Illustrations/Logos/logoUM.png" style="opacity: 0.7" />
-</div>Les magiciens passent une grande partie de leur existence à chercher de grandes vérités et à traquer les connaissances comme si leur vie en dépendait. Le pouvoir du magicien ne réside pas forcément dans ses sorts, ce ne sont que des manifestations extérieures visibles de ce pouvoir. La véritable puissance du magicien réside dans son intelligence indomptable, dans sa dévotion à son art et dans ses capacités à dépasser les vérités superficielles pour comprendre les fondements cachés de l’existence. Un magicien passe une grande partie de son temps à faire des recherches sur les sorts et préfère découvrir une bibliothèque inconnue plutôt qu’une salle pleine de pièces d’or. Les magiciens ne sont pas forcément des rats de bibliothèque reclus mais ils brûlent de curiosité face à l’inconnu. Les <a class="pagelink" href="Pathfinder-RPG.d%c3%a9couvertes%20arcaniques.ashx" title="Découvertes arcaniques">découvertes arcaniques</a> résultent de cette obsession pour la magie. Le magicien peut apprendre une découverte magique au lieu de choisir un don normal ou un don de magicien supplémentaire.',
+			 'detail' => 'Aux niveaux 5, 10, 15 et 20, le magicien gagne un don supplémentaire. Ce don doit obligatoirement être un <a class="pagelink" href="Pathfinder-RPG.Dons.ashx#DONMETAMAGIE" title="Les dons">don de métamagie</a>, un <a class="pagelink" href="Pathfinder-RPG.Dons.ashx#DONCREATION" title="Les dons">don de création d’objets</a> ou encore le don <a class="pagelink" href="Pathfinder-RPG.Ma%c3%aetrise%20des%20sorts.ashx" title="Maîtrise des sorts">Maîtrise des sorts</a>. Le magicien doit satisfaire à toutes les conditions requises pour le don choisi, y compris le <a class="pagelink" href="Pathfinder-RPG.NLS.ashx" title="NLS">niveau de lanceur de sorts</a> minimum. Ces dons viennent s’ajouter à ceux que tous les personnages gagnent en montant de niveau (et pour lesquels le magicien n’est pas limité aux catégories de dons citées plus haut).<br /><br />Les magiciens passent une grande partie de leur existence à chercher de grandes vérités et à traquer les connaissances comme si leur vie en dépendait. Le pouvoir du magicien ne réside pas forcément dans ses sorts, ce ne sont que des manifestations extérieures visibles de ce pouvoir. La véritable puissance du magicien réside dans son intelligence indomptable, dans sa dévotion à son art et dans ses capacités à dépasser les vérités superficielles pour comprendre les fondements cachés de l’existence. Un magicien passe une grande partie de son temps à faire des recherches sur les sorts et préfère découvrir une bibliothèque inconnue plutôt qu’une salle pleine de pièces d’or. Les magiciens ne sont pas forcément des rats de bibliothèque reclus mais ils brûlent de curiosité face à l’inconnu. Les <a class="pagelink" href="Pathfinder-RPG.d%c3%a9couvertes%20arcaniques.ashx" title="Découvertes arcaniques">découvertes arcaniques</a> résultent de cette obsession pour la magie. Le magicien peut apprendre une découverte magique au lieu de choisir un don normal ou un don de magicien supplémentaire.',
 		  ),
 	   );
 
-	   $classes = array(
-		  array(
+	   $data = array(
 			 'name' => 'Magicien',
 			 'nameId' => 'magicien',
 			 'description' => 'Au-delà du voile du monde de tous les jours se cachent les mystères du pouvoir absolu. Les œuvres des êtres supérieurs aux mortels, les légendes des royaumes où vivent les dieux et les esprits, les actes créateurs à la fois merveilleux et terribles… tous ces mystères intriguent ceux qui possèdent l’ambition et les capacités nécessaires pour s’élever au-dessus du commun des mortels et atteindre le pouvoir véritable. C’est la voie des magiciens. Ces individus à l’esprit affûté recherchent, collectent et convoitent les connaissances ésotériques et se servent d’arts connus seulement d’une poignée de personnes pour réaliser des merveilles allant au-delà de la portée des simples mortels. Certains choisissent un domaine d’étude magique spécifique et deviennent des experts d’une certaine catégorie de pouvoirs, alors que d’autres optent pour la versatilité et jouissent de toute l’étendue des merveilles magiques. Dans tous les cas, l’ingéniosité et la puissance des magiciens sont évidentes : ils peuvent détruire leurs ennemis, renforcer leurs alliés et façonner le monde selon leurs désirs.',
@@ -157,6 +151,9 @@ Un magicien peut choisir de se spécialiser dans une <a class="pagelink" href="P
 				    'ref' => 3,
 				    'vig' => 3,
 				    'vol' => 7,
+				    'specials' => array(
+					   'DONSUPPLEMENTAIRE' => 'don supplémentaire',
+				    ),
 				    'dailySpells' => array(4, 4, 4, 3, 3, 2, 0, 0, 0, 0),
 				),
 				11 => array(
@@ -192,6 +189,9 @@ Un magicien peut choisir de se spécialiser dans une <a class="pagelink" href="P
 				    'ref' => 5,
 				    'vig' => 5,
 				    'vol' => 9,
+				    'specials' => array(
+					   'DONSUPPLEMENTAIRE' => 'don supplémentaire',
+				    ),
 				    'dailySpells' => array(4, 4, 4, 4, 4, 4, 3, 2, 1, 0),
 				),
 				16 => array(
@@ -227,59 +227,72 @@ Un magicien peut choisir de se spécialiser dans une <a class="pagelink" href="P
 				    'ref' => 6,
 				    'vig' => 6,
 				    'vol' => 12,
+				    'specials' => array(
+					   'DONSUPPLEMENTAIRE' => 'don supplémentaire',
+				    ),
 				    'dailySpells' => array(4, 4, 4, 4, 4, 4, 4, 4, 4, 4),
 				),
 			 )
-		  )
-	   );
+		  );
 
-	   foreach ($classes as $data) {
-		  $class = new CharacterClass();
-		  $class->setName($data['name']);
-		  $class->setNameId($data['nameId']);
-		  $class->setDescription($data['description']);
-		  $class->setRole($data['role']);
-		  $class->setAlignment($data['alignment']);
-		  $class->setHitDie($data['hitDie']);
-		  $class->setBaseSkillPoints($data['baseSkillPoints']);
+                $class = new CharacterClass();
+                $class->setName($data['name']);
+                $class->setNameId($data['nameId']);
+                $class->setDescription($data['description']);
+                $class->setRole($data['role']);
+                $class->setAlignment($data['alignment']);
+                $class->setHitDie($data['hitDie']);
+                $class->setBaseSkillPoints($data['baseSkillPoints']);
+                
+                $list_specials = array();
+                foreach ($specials as $dataSpecial) {
+                    $special = new CharacterClassSpecial();
+                    $special->setName($dataSpecial['name']);
+                    $special->setNameId($dataSpecial['nameID']);
+                    $special->setDetail($dataSpecial['detail']);
+                    $special->setDescription($dataSpecial['description']);
+                    $special->setClass($class);
+                    $manager->persist($special);
+                    $list_specials[$dataSpecial['nameID']] = $special;
+                    $class->addSpecial($special);
+                }
 
-		  foreach ($data['levels'] as $id_level => $dataLevel) {
-			 $level = new CharacterClassLevel();
-			 $level->setLevel($id_level);
-			 $level->setBba($dataLevel['bba']);
-			 $level->setRef($dataLevel['ref']);
-			 $level->setVig($dataLevel['vig']);
-			 $level->setVol($dataLevel['vol']);
-                         foreach ($dataLevel['specials'] as $dataSpecial) {
-                             $special = new CharacterClassSpecial();
-                             $special->setName($dataSpecial['name']);
-                             $special->setName($dataSpecial['nameId']);
-                             $special->setName($dataSpecial['name']);
-                             $special->setName($dataSpecial['name']);
-                             $level->addSpecial($special);
-                         }
-			 $level->setDailySpells($dataLevel['dailySpells']);
-			 $class->addLevel($level);
-		  }
+                foreach ($data['levels'] as $id_level => $dataLevel) {
+                       $level = new CharacterClassLevel();
+                       $level->setLevel($id_level);
+                       $level->setBba($dataLevel['bba']);
+                       $level->setRef($dataLevel['ref']);
+                       $level->setVig($dataLevel['vig']);
+                       $level->setVol($dataLevel['vol']);
+                       if (isset($dataLevel['specials'])) {
+                            foreach ($dataLevel['specials'] as $id => $label) {
+                                $levelSpecial = new CharacterClassLevelSpecial();
+                                $levelSpecial->setLabel($label);
+                                $levelSpecial->setSpecial($list_specials[$id]);
+                                $level->addSpecial($levelSpecial);
+                            }
+                       }
+                       $level->setDailySpells($dataLevel['dailySpells']);
+                       $class->addLevel($level);
+                }
 
-		  foreach ($data['skills'] as $name) {
-			 $skill = $this->container->get('doctrine')
-				    ->getRepository('IcoRulesBundle:Skill')
-				    ->findOneByName($name);
-			 $class->addSkill($skill);
-		  }
+                foreach ($data['skills'] as $name) {
+                       $skill = $this->container->get('doctrine')
+                                  ->getRepository('IcoRulesBundle:Skill')
+                                  ->findOneByName($name);
+                       $class->addSkill($skill);
+                }
 
-		  $d = parse_url($data['link']);
-		  $source = $this->container->get('doctrine')
-				->getRepository('IcoRulesBundle:LinkSource')
-				->findOneByDomain($d['host']);
-		  $link = new Link();
-		  $link->setSource($source);
-		  $link->setUrl($data['link']);
-		  $class->setLink($link);
+                $d = parse_url($data['link']);
+                $source = $this->container->get('doctrine')
+                              ->getRepository('IcoRulesBundle:LinkSource')
+                              ->findOneByDomain($d['host']);
+                $link = new Link();
+                $link->setSource($source);
+                $link->setUrl($data['link']);
+                $class->setLink($link);
 
-		  $manager->persist($class);
-	   }
+                $manager->persist($class);
 	   $manager->flush();
     }
 
