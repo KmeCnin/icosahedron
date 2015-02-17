@@ -1,0 +1,8 @@
+{% extends "IcoKingmakerBundle::layout.html.twig" %}
+{% form_theme form 'IcoAppBundle:Form:fields.html.twig' %}
+
+{% block content %}
+    <div class="form-block">
+    {{ form(form) }}
+    </div>
+{% endblock %}

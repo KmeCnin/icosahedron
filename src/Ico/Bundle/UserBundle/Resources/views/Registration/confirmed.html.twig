@@ -1,11 +1,18 @@
-{% extends "FOSUserBundle::layout.html.twig" %}
-
+{% extends "IcoAppBundle::layout.html.twig" %}
 {% trans_default_domain 'FOSUserBundle' %}
 
+{% set breadcrumb = [] %}
+{% block breadcrumb %}
+{% endblock %}
+{% set title = 'Création de compte' %}
+{% set subtitle = 'Succès' %}
+
+{% block content %}
 {% block fos_user_content %}
-    <p>{{ 'registration.confirmed'|trans({'%username%': user.username}) }}</p>
+    {% include 'success.html.twig' with {'message': 'registration.confirmed'|trans({'%username%': user.username})} %}
     {% if app.session is not empty %}
         {% set targetUrl = app.session.get('_security.' ~ app.security.token.providerKey ~ '.target_path') %}
         {% if targetUrl is not empty %}<p><a href="{{ targetUrl }}">{{ 'registration.back'|trans }}</a></p>{% endif %}
     {% endif %}
 {% endblock fos_user_content %}
+{% endblock content %}

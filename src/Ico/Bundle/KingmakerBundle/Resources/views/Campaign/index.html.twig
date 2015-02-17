@@ -1,0 +1,33 @@
+{% extends "IcoKingmakerBundle::layout.html.twig" %}
+
+{% block title %}
+{{ parent() }}
+{% if app.user is not null %}
+<div class="pull-right" style="position: relative; top: 20px;">
+    <a href="{{ path('ico_kingmaker_campaign_new') }}" class="btn btn-primary"><span class="fa fa-plus"></span> Nouvelle campagne</a>
+    <ul class="dropdown-menu">
+    </ul>
+</div>
+{% endif %}
+{% endblock %}
+
+{% block content %}
+    <table class="table table-striped table-hover">
+        <tr>
+            <th>Campagne</th>
+            <th>Déscription</th>
+            <th>Créateur</th>
+            <th>Date de création</th>
+            <th>Dernière modification</th>
+        </tr>
+        {% for campaign in list %}
+            <tr class="link" onclick="window.location.href = Routing.generate('ico_kingmaker_campaign_view', {id:{{ campaign.id }}, slug: '{{ campaign.slug }}'});">
+                <td>{{ campaign.name|capitalize }}</td>
+                <td>{{ campaign.description }}</td>
+                <td>{{ campaign.createdBy.username }}</td>
+                <td>{{ campaign.created|date('d/m/Y') }}</td>
+                <td>{{ campaign.updated|date('d/m/Y') }}</td>
+            </tr>
+        {% endfor %}
+    </table>
+{% endblock %}

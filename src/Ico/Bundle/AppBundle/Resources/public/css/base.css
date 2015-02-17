@@ -64,7 +64,7 @@ a.btn-primary {
     color: white;
 }
 a.btn:visited {
-    color: #555555;
+    /*color: #555555;*/
 }
 a.disabled, a.disabled:hover {
     color: inherit;
@@ -160,6 +160,9 @@ mark {
     display: inline-block;
     margin-right: 20px;
     vertical-align: top;
+}
+.form-block .form_row.form-group {
+    display: block;
 }
 .select-multiple-wrapper {
     display: inline-block;

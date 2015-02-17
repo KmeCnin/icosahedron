@@ -13,39 +13,30 @@
 
 	   <ul class="nav navbar-nav">
 		  <li class="dropdown">
-			 <a class="dropdown-toggle account" data-toggle="dropdown" href="#" id="feats">Règles Pathfinder <span class="caret"></span></a>
-			 <ul class="dropdown-menu" aria-labelledby="feats">
+			 <a class="dropdown-toggle account" data-toggle="dropdown" href="#" id="rules">Règles Pathfinder <span class="caret"></span></a>
+			 <ul class="dropdown-menu" aria-labelledby="rules">
 				<li><a href="{{ path('ico_rules_characterclasses') }}">Classes</a></li>
 				<li><a href="{{ path('ico_rules_feats') }}">Dons</a></li>
 				<li><a href="{{ path('ico_rules_spells') }}">Sorts</a></li>
 			 </ul>
 		  </li>
+		  <li><a href="{{ path('ico_kingmaker') }}">Kingmaker</a></li>
 	   </ul>
 
-	   {#{% if is_granted('ROLE_ADMIN') %}
-	   <ul class="nav navbar-nav">
-		  <li class="dropdown">
-			 <a class="dropdown-toggle account" data-toggle="dropdown" href="#" id="feats">Administration <span class="caret"></span></a>
-			 <ul class="dropdown-menu" aria-labelledby="feats">
-				<li><a href="{{ path('ico_admin_rules') }}">Synchroniser les données</a></li>
-			 </ul>
-		  </li>
-	   </ul>
-	   {% endif %}#}
-
-	   {#<ul class="nav navbar-nav navbar-right">
+	   <ul class="nav navbar-nav navbar-right">
 		  {% if app.user is not null %}
 		  <li class="dropdown">
 			 <a class="dropdown-toggle account" data-toggle="dropdown" href="#" id="account">{{ app.user.username }} <span class="caret"></span></a>
 			 <ul class="dropdown-menu" aria-labelledby="account">
-				<li><a href="{{ path('fos_user_security_login') }}">Profile</a></li>
+{#				<li><a href="{{ path('fos_user_security_login') }}">Profile</a></li>#}
 				<li><a href="{{ path('fos_user_security_logout') }}">Déconnexion</a></li>
 			 </ul>
 		  </li>
 		  {% else %}
+		  <li><a href="{{ path('fos_user_registration_register') }}">Inscription</a></li>
 		  <li><a href="{{ path('fos_user_security_login') }}">Connexion</a></li>
 		  {% endif %}
-	   </ul>#}
+	   </ul>
 
     </div>
 </div>

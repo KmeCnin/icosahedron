@@ -1,0 +1,6 @@
+services:
+    ico.form.type.campaign:
+        class: Ico\Bundle\KingmakerBundle\Form\Type\CampaignType
+        arguments: [ '@service_container' ]
+        tags:
+            - { name: form.type, alias: campaign }

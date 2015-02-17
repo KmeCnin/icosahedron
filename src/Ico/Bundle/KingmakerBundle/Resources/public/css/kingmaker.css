@@ -1,0 +1,11 @@
+/*#maps {
+    background: #6cab26;
+    background-position: bottom; 
+    background-image: url(../images/map_bg.jpg);  fallback 
+    background-image: url(../images/map_bg.jpg), -webkit-gradient(linear, left top, left bottom, from(#6cab26), to(#6ceb86));  Saf4+, Chrome 
+    background-image: url(../images/map_bg.jpg),-webkit-linear-gradient(top, #6cab26, #6ceb86);  Chrome 10+, Saf5.1+ 
+    background-image: url(../images/map_bg.jpg), -moz-linear-gradient(top, #6cab26, #6ceb86);  FF3.6+ 
+    background-image: url(../images/map_bg.jpg),     -ms-linear-gradient(top, #6cab26, #6ceb86);  IE10 
+    background-image: url(../images/map_bg.jpg),      -o-linear-gradient(top, #6cab26, #6ceb86);  Opera 11.10+ 
+    background-image: url(../images/map_bg.jpg),         linear-gradient(top bottom, #6cab26, #6ceb86);  W3C 
+}*/

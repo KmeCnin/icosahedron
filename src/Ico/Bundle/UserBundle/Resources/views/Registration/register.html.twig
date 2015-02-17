@@ -1,5 +1,19 @@
-{% extends "FOSUserBundle::layout.html.twig" %}
+{% extends "IcoAppBundle::layout.html.twig" %}
 
+{% set breadcrumb = [] %}
+{% block breadcrumb %}
+{% endblock %}
+{% set title = 'Inscription' %}
+{% set subtitle = 'Icosahedron' %}
+
+{% block title %}
+<div class="col-lg-6 col-lg-offset-3">
+    <h1>{{ title }} <small>{{ subtitle }}</small></h1>
+</div>
+{% endblock %}
+
+{% block content %}
 {% block fos_user_content %}
 {% include "IcoUserBundle:Registration:register_content.html.twig" %}
 {% endblock fos_user_content %}
+{% endblock content %}
