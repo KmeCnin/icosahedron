@@ -12,6 +12,7 @@
 
 #mapModelWrapper {
     width: 1110px;
+    height: 1443px;
     position: relative;
 }
 #mapModelWrapper > img {
@@ -26,9 +27,17 @@
 #mapModelWrapper > svg, #mapModelWrapper > img {
     position: absolute;
     width: 100%;
-    height: 1443px;
+    height: 100%;
 }
 #mapModelWrapper > svg .hex {
     /*fill: rgba(0, 0, 0, 0.9);*/
+    fill: rgba(255, 255, 255, 0.9);
+    cursor: pointer;
+}
+#mapModelWrapper > svg .hex:hover {
+    /*fill: rgba(0, 0, 0, 0.9);*/
     fill: rgba(255, 255, 255, 0.75);
+}
+#mapModelWrapper > svg .hex.explored {
+    fill: rgba(255, 255, 255, 0);
 }

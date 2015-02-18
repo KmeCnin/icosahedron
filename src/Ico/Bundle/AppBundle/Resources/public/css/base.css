@@ -60,11 +60,11 @@ a, a:hover, a:active, a:visited, .text-primary {
     color: #42A500;
     text-decoration: none !important;
 }
-a.btn-primary {
-    color: white;
+a.btn, a.btn:visited {
+    color: inherit;
 }
-a.btn:visited {
-    /*color: #555555;*/
+a.btn-primary, a.btn-primary:visited {
+    color: white;
 }
 a.disabled, a.disabled:hover {
     color: inherit;
@@ -302,11 +302,11 @@ img.class-illustration {
     top: -7px;
     margin: auto 15px;
 }
-a.btn:visited {
-    color: inherit !important;
+.list-group a.list-group-item, .list-group a.list-group-item:visited {
+    color: inherit;
 }
-a.btn-primary:visited {
-    color: white !important;
+.list-group a.list-group-item:hover {
+    color: white;
 }
 .nav {
     font-size: 14px !important;

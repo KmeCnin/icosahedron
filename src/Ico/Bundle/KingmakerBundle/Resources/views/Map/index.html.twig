@@ -2,41 +2,28 @@
 
 {% block content %}
     <div id="mapModelWrapper"> 
-        <img src="{{ asset('bundles/icokingmaker/images/mapModel/' ~ mapModel.slug ~ '.jpg') }}" alt="Carte de {{ mapModel.name }}" />
-        {{ fillTheMap(mapModel)|raw }}
+        <img src="{{ asset('bundles/icokingmaker/images/mapModel/' ~ map.mapModel.slug ~ '.jpg') }}" alt="Carte de {{ map.mapModel.name }}" />
+        {{ fillTheMap(map)|raw }}
     </div>
-    {#for ($i = 1; $i <= $model->getNbLines(); $i++) {
-            if ($i % 2 == 0) {
-                $x = $model->getStart()->getX() + $this->getHalfH();
-            } else {
-                $x = $model->getStart()->getX();
-            }
-            for ($j = 1; $j <= $model->getNbCols(); $j++) {
-                $svg .= $this->drawHex($x, $y, $i.'_'.$j);
-                $x = $x + (2 * $this->getHalfH());
-            }
-            $y = $y + $this->getFullV() + $this->getHalfV();
-        }#}
-    {% for i in 1..mapModel.nbLines %}
-        {% for j in 1..mapModel.nbCols %}
-            <div id="modal_hex_{{ i }}_{{ j }}" class="modal fade">
-                <div class="modal-dialog">
-                    <div class="modal-content">
-                        <div class="modal-header">
-                            <button type="button" class="close" data-dismiss="modal" aria-label="Fermer"><span aria-hidden="true">&times;</span></button>
-                            <h4 class="modal-title">Gestion de l'hexagone</h4>
-                        </div>
-                        <div class="modal-body">
-                            <p>Yo</p>
-                        </div>
-                        <div class="modal-footer">
-                            <button type="button" class="btn btn-default" data-dismiss="modal">Fermer</button>
-                            <button type="button" class="btn btn-primary">Sauvegarder</button>
-                        </div>
-                    </div><!-- /.modal-content -->
-                </div><!-- /.modal-dialog -->
-            </div><!-- /.modal -->
-        {% endfor %}
+    {% for hex in map.hexs %}
+	   <div id="modal_hex_{{ hex.id }}" class="modal fade" data-hex="{{ hex.id }}">
+		  <div class="modal-dialog">
+			 <div class="modal-content">
+				<div class="modal-header">
+				    <button type="button" class="close" data-dismiss="modal" aria-label="Fermer"><span aria-hidden="true">&times;</span></button>
+				    <h4 class="modal-title">Gestion de l'hexagone</h4>
+				</div>
+				<div class="modal-body">
+				    <button {% if not hex.explored %}style="display:none;"{% endif %} class="btn btn-default cancelable exploredTrue"><span class="fa fa-check"></span> Exploré</button>
+				    <button {% if hex.explored %}style="display:none;"{% endif %} class="btn btn-primary exploredFalse"><span class="fa fa-search"></span> Explorer</button>
+				</div>
+				<div class="modal-footer">
+				    <button type="button" class="btn btn-default" data-dismiss="modal">Fermer</button>
+				</div>
+			 </div><!-- /.modal-content -->
+		  </div><!-- /.modal-dialog -->
+	   </div><!-- /.modal -->
     {% endfor %}
+    
     <script src="{{ asset('bundles/icokingmaker/js/maps.js') }}"></script>
 {% endblock %}

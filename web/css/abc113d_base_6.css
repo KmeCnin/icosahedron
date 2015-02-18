@@ -9,7 +9,7 @@ body {
     margin-right: 7px;
 }
 .link {
-    cursor: pointer;
+    cursor: pointer; 
 }
 .justify {
     text-align: justify;
@@ -60,8 +60,11 @@ a, a:hover, a:active, a:visited, .text-primary {
     color: #42A500;
     text-decoration: none !important;
 }
-a.btn {
+a.btn-primary {
     color: white;
+}
+a.btn:visited {
+    /*color: #555555;*/
 }
 a.disabled, a.disabled:hover {
     color: inherit;
@@ -157,6 +160,9 @@ mark {
     display: inline-block;
     margin-right: 20px;
     vertical-align: top;
+}
+.form-block .form_row.form-group {
+    display: block;
 }
 .select-multiple-wrapper {
     display: inline-block;
@@ -272,4 +278,36 @@ table.trueTree .vdecoration.unique {
 }
 table.trueTree td > div.table_padding {
     width: 15px;
+}
+.popover .text-primary, .popover .preview {
+    color: inherit;
+}
+.popover .text-muted {
+    color: #42A500;
+}
+img.class-illustration {
+    max-width: 100%;
+}
+.alert-success {
+    background-color: #42A500;
+    border-color: #3B9400;
+}
+.list-group .list-group-item:hover {
+    color: #ffffff;
+    background-color: #42A500;
+    border-color: #42A500;
+}
+.btn.btn-title {
+    position: relative;
+    top: -7px;
+    margin: auto 15px;
+}
+a.btn:visited {
+    color: inherit !important;
+}
+a.btn-primary:visited {
+    color: white !important;
+}
+.nav {
+    font-size: 14px !important;
 }

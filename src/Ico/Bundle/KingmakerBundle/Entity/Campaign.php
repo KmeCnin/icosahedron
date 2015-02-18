@@ -43,6 +43,11 @@ class Campaign
     private $description;
     
     /**
+     * @ORM\OneToMany(targetEntity="Map", mappedBy="campaign", cascade={"persist"})
+     */
+    protected $maps;
+    
+    /**
      * @ORM\ManyToOne(targetEntity="\Ico\Bundle\UserBundle\Entity\User", cascade={"remove", "persist"})
      * @ORM\JoinColumn(nullable=false)
      */
@@ -207,5 +212,45 @@ class Campaign
     public function getSlug()
     {
         return $this->slug;
+    }
+    /**
+     * Constructor
+     */
+    public function __construct()
+    {
+        $this->maps = new \Doctrine\Common\Collections\ArrayCollection();
+    }
+
+    /**
+     * Add maps
+     *
+     * @param \Ico\Bundle\KingmakerBundle\Entity\Map $maps
+     * @return Campaign
+     */
+    public function addMap(\Ico\Bundle\KingmakerBundle\Entity\Map $maps)
+    {
+        $this->maps[] = $maps;
+
+        return $this;
+    }
+
+    /**
+     * Remove maps
+     *
+     * @param \Ico\Bundle\KingmakerBundle\Entity\Map $maps
+     */
+    public function removeMap(\Ico\Bundle\KingmakerBundle\Entity\Map $maps)
+    {
+        $this->maps->removeElement($maps);
+    }
+
+    /**
+     * Get maps
+     *
+     * @return \Doctrine\Common\Collections\Collection 
+     */
+    public function getMaps()
+    {
+        return $this->maps;
     }
 }

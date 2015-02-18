@@ -3,6 +3,8 @@
 namespace Ico\Bundle\KingmakerBundle\Controller;
 
 use Ico\Bundle\KingmakerBundle\Entity\Campaign;
+use Ico\Bundle\KingmakerBundle\Entity\Map;
+use Ico\Bundle\KingmakerBundle\Entity\Hex;
 use Sensio\Bundle\FrameworkExtraBundle\Configuration\Route;
 use Sensio\Bundle\FrameworkExtraBundle\Configuration\Template;
 use Symfony\Bundle\FrameworkBundle\Controller\Controller;
@@ -57,6 +59,27 @@ class CampaignController extends Controller {
             $user = $this->get('security.context')->getToken()->getUser();
             $campaign->setCreatedBy($user);
             $em->persist($campaign);
+		  
+		  // Création des Hex
+		  $mapModels = $this->getDoctrine()
+				->getRepository('IcoKingmakerBundle:MapModel')
+				->findAll();
+		  foreach ($mapModels as $mapModel) {
+			 $map = new Map();
+			 $map->setMapModel($mapModel);
+			 $map->setCampaign($campaign);
+			 for ($i = 1; $i <= $mapModel->getNbLines(); $i++) {
+				for ($j = 1; $j <= $mapModel->getNbCols(); $j++) {
+				    $hex = new Hex($i, $j);
+				    $hex->setMap($map);
+				    $em->persist($hex);
+				    $map->addHex($hex);
+				}
+			 }
+			 $em->persist($map);
+			 $campaign->addMap($map);
+		  }
+		  
             $em->flush();
 
             // ACL
@@ -137,11 +160,8 @@ class CampaignController extends Controller {
                 ->getRepository('IcoKingmakerBundle:Campaign')
                 ->find($id);
         if (!$campaign) {
-	    throw $this->createNotFoundException('Aucune campagne trouvée pour cet id : ' . $id);
-	}
-        $maps = $this->getDoctrine()
-                ->getRepository('IcoKingmakerBundle:MapModel')
-                ->findAll();
+		  throw $this->createNotFoundException('Aucune campagne trouvée pour cet id : ' . $id);
+	   }
 
         return array(
             'breadcrumb' => array(
@@ -150,9 +170,8 @@ class CampaignController extends Controller {
                 $campaign->getName() => ''
             ),
             'title' => $campaign->getName(),
-            'subtitle' => 'Campagne',
-            'campaign' => $campaign,
-            'maps' => $maps
+            'subtitle' => 'Campagne Kingmaker',
+            'campaign' => $campaign
         );
     }
 

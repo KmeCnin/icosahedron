@@ -10,7 +10,7 @@ class CampaignType extends AbstractType
     public function buildForm(FormBuilderInterface $builder, array $options)
     {
         $builder
-            ->add('name', null, array('label' => 'Nom'))
+            ->add('name', null, array('label' => 'Nom du royaume'))
             ->add('description', 'textarea', array('label' => 'Déscription', 'required' => false))
             ->add('create', 'submit', array('label' => 'Sauvegarder'));
     }

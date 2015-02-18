@@ -1,4 +1,10 @@
 $(document).ready(function() {
+        
+    // Change tous les td se trouvant dans des tr.titre en th
+    $("tr.titre td").changeElementType("th");
+    
+    // Supprime les ancres du wiki
+    $('.headeranchor').remove();
     
     // Calcule de la hauteur des décorations des arborescences à postériori
     $('div.vWrapper').each(function(){
@@ -33,6 +39,7 @@ $(document).ready(function() {
 	   $(this).attr('data-toggle', 'popover');
 	   $(this).popover({placement: 'auto', html: true, trigger: 'manual', animation: false, dataContainer : '.modal-body'});
     });
+    $('[data-toggle="popover"]').popover({placement: 'auto', html: true, trigger: 'hover', animation: false, dataContainer : '.modal-body'});
     $(document).on('mouseover', '.preview', function() {
 	   var toggler = $(this);
 	   var id = toggler.uniqueId().attr('id');
@@ -157,3 +164,20 @@ function lcfirst(str) {
     .toLowerCase();
   return f + str.substr(1);
 }
+
+// http://stackoverflow.com/questions/8584098/how-to-change-an-element-type-using-jquery
+// Fonction permettant de changer le type d'une balise html
+(function($) {
+    $.fn.changeElementType = function(newType) {
+        var attrs = {};
+	   if (typeof this[0] !== 'undefined') {
+		  $.each(this[0].attributes, function(idx, attr) {
+			 attrs[attr.nodeName] = attr.nodeValue;
+		  });
+
+		  this.replaceWith(function() {
+			 return $("<" + newType + "/>", attrs).append($(this).contents());
+		  });
+	   }
+    };
+})(jQuery);

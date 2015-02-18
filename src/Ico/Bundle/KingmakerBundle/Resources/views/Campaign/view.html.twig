@@ -15,8 +15,8 @@
             <p>Les cartes vous permettent de gérer l'étendue géographique de votre royaume ainsi que les points d'intérêt économiques et politiques.</p>
             <div class="list-group">
                 <a class="list-group-item" href="#">Les terres volées [Vue générale]</a>
-                {% for map in maps %}
-                <a class="list-group-item" href="{{ path('ico_kingmaker_maps', {'id_campaign': campaign.id, 'slug_campaign': campaign.slug, 'id_mapmodel': map.id, 'slug_mapmodel': map.slug}) }}">{{ map.name }}</a>
+                {% for map in campaign.maps %}
+                <a class="list-group-item" href="{{ path('ico_kingmaker_maps', {'id_campaign': campaign.id, 'slug_campaign': campaign.slug, 'id_map': map.id, 'slug_map': map.mapModel.slug}) }}">{{ map.mapModel.name }}</a>
                 {% endfor %}
             </div>
         </fieldset>

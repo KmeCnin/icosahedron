@@ -39,9 +39,7 @@ class UpdateRulesCommand extends ContainerAwareCommand {
 			 ->setHelp(<<<EOT
 The <info>parser:update:rules</info> command update the database of rules
 from xml data.
-
 <info>php app/console parser:update:rules</info>
-
 You can also optionally specify the data to update if you don't want all:
 <info>php app/console parser:update:rules --fixtures</info>
 <info>php app/console parser:update:rules --feats</info>
@@ -51,7 +49,6 @@ EOT
     }
 
     protected function defineOptions(InputInterface $input) {
-
 	   if ($input->getOption('fixtures')) {
 		  $this->updateOnlyFixtures = true;
 		  $this->updateFeats = false;
@@ -75,18 +72,15 @@ EOT
 	   $this->defineOptions($input);
 	   $this->output = $output;
 	   ini_set('memory_limit', '512M');
-
 	   $this->output->writeln(sprintf("<info>Deleting old data...</info>"));
 	   foreach ($this->getTablesToTruncate() as $className) {
 		  $this->truncateTable($className);
 		  $this->output->writeln(sprintf("<info>\t<comment>%s</comment> deleted.</info>", $className));
 	   }
 	   $this->output->writeln(sprintf("<info>Old data deleted.</info>"));
-
 	   $this->output->writeln(sprintf("<info>Loading fixtures...</info>"));
 	   $this->loadFixtures();
 	   $this->output->writeln(sprintf("<info>Fixtures loaded.</info>"));
-
 	   // On récupère les nouvelles infos
 	   if (!$this->updateOnlyFixtures) {
 		  $this->output->writeln(sprintf("<info>Updating new data:</info>"));
@@ -100,23 +94,23 @@ EOT
 			 $spells = $this->updateSpells();
 			 $this->output->writeln(sprintf("<info>\t%d spells updated.</info>", count($spells)));
 		  }
-		  
+
 		  $this->output->writeln('Data updated.');
 	   }
-		  
+
 	   // Création des tables de correspondance pour inclure les liens locaux dans les descriptions
 	   $this->output->writeln(sprintf("<info>Creating table of translate for wiki-url to local-url...</info>"));
 	   $this->urlTranslatorInit();
 	   $this->output->writeln(sprintf("<info>Table of translate created.</info>"));
-		  
+
 	   $this->output->writeln(sprintf("<info>Creating links into descriptions...</info>"));
 	   // On peut mettre à jour les liens dans les textes
 	   $em = $this->getDoctrine()->getManager();
 	   // Fixtures
 	   foreach ($this->getFixturesEntities() as $entity_name) {
 		  $entities = $this->getDoctrine()
-					   ->getRepository('IcoRulesBundle:'.$entity_name)
-					   ->findAll();
+				->getRepository('IcoRulesBundle:' . $entity_name)
+				->findAll();
 		  foreach ($entities as $entity) {
 			 if (method_exists($entity, 'setDetail') && is_callable(array($entity, 'setDetail'))) {
 				$entity->setDetail($this->replaceWithMyLinks($entity->getDetail()));
@@ -127,18 +121,18 @@ EOT
 	   }
 	   // Feats
 	   $feats = $this->getDoctrine()
-		  ->getRepository('IcoRulesBundle:Feat')
-		  ->findAll();
-	   foreach($feats as $feat) {
+			 ->getRepository('IcoRulesBundle:Feat')
+			 ->findAll();
+	   foreach ($feats as $feat) {
 		  $feat->setBenefit($this->replaceWithMyLinks($feat->getBenefit()));
 		  $em->persist($feat);
 	   }
 	   $em->flush();
 	   // Spells
 	   $spells = $this->getDoctrine()
-		  ->getRepository('IcoRulesBundle:Spell')
-		  ->findAll();
-	   foreach($spells as $spell) {
+			 ->getRepository('IcoRulesBundle:Spell')
+			 ->findAll();
+	   foreach ($spells as $spell) {
 		  $spell->setDetail($this->replaceWithMyLinks($spell->getDetail()));
 		  $spell->setDuration($this->replaceWithMyLinks($spell->getDuration()));
 		  $em->persist($spell);
@@ -224,7 +218,6 @@ EOT
 //		  } else {
 //			 $feat->setBenefit($feat->getDescription());
 //		  }
-		  
 		  // Récupération des infos détaillées sur la page du wiki
 		  $wikiCrawler = new Crawler;
 		  $wikiCrawler->addHTMLContent(file_get_contents($wikiUrl), 'UTF-8');
@@ -242,24 +235,21 @@ EOT
 		  }
 		  $rawDescription = $fragments[1];
 //		  $rawDescription = substr($rawDescription, 0, -10); // Suppression de la fin du html résiduel
-		  $feat->setBenefit('<div>'.$rawDescription);
-		  
+		  $feat->setBenefit('<div>' . $rawDescription);
+
 		  $em->persist($feat);
 		  if (count($em->getUnitOfWork()->getScheduledEntityInsertions()) > $this->maxEntitiesStacked) {
 			 $em->flush();
 			 $this->output->writeln(sprintf("\t\t***** SAVEPOINT *****"));
 		  }
 		  $this->output->writeln(sprintf(chr(8) . "<info>\t\t%s</info>", $this->encode($feat->getName())));
-
 		  return $feat;
 	   });
 	   $em->flush();
-
 	   $this->output->writeln(sprintf("<info>\tCreating related links...</info>"));
 	   // Mise à jour des liens sur les dons
 	   $this->updateFeatPrerequisites();
 	   $this->output->writeln(sprintf("<info>\tLinks created.</info>"));
-
 	   return $feats;
     }
 
@@ -346,17 +336,17 @@ EOT
 			 $spell->addSpellListsLevel($spelllistlevel);
 		  }
 		  if ($node->filter('savingThrow')->count() > 0) {
-			 
+
 			 // Création du lien vers l'effet (inoffensif)
 			 $inoffensif = $this->getEntityFromNameId('SavingThrowEffect', 'inoffensif');
-			 $url = $this->root.$this->getContainer()->get('router')->generate('ico_rules_savingthroweffects_view', array('id' => $inoffensif->getId(), 'slug' => $inoffensif->getSlug()));
+			 $url = $this->root . $this->getContainer()->get('router')->generate('ico_rules_savingthroweffects_view', array('id' => $inoffensif->getId(), 'slug' => $inoffensif->getSlug()));
 			 $saving_throw_special = preg_replace('/inoffensif/i', '<a class="preview" href="' . $url . '">inoffensif</a>', $node->filter('savingThrow')->text());
-			 
+
 			 // Création du lien vers l'effet (objet)
 			 $objet = $this->getEntityFromNameId('SavingThrowEffect', 'objet');
-			 $url = $this->root.$this->getContainer()->get('router')->generate('ico_rules_savingthroweffects_view', array('id' => $objet->getId(), 'slug' => $objet->getSlug()));
+			 $url = $this->root . $this->getContainer()->get('router')->generate('ico_rules_savingthroweffects_view', array('id' => $objet->getId(), 'slug' => $objet->getSlug()));
 			 $saving_throw_special = preg_replace('/objet/i', '<a class="preview" href="' . $url . '">objet</a>', $saving_throw_special);
-			 
+
 			 $spell->setSavingThrowSpecial($saving_throw_special);
 			 if ($node->filter('savingThrow')->attr('target') != 'none') {
 				$spell->setSavingThrow($this->getEntityFromNameId('SavingThrow', $node->filter('savingThrow')->attr('target')));
@@ -373,8 +363,8 @@ EOT
 		  $fragments = explode('<br><br>', $htmlDescrition, 2);
 		  $rawDescription = $fragments[1];
 //		  $rawDescription = substr($rawDescription, 0, -10); // Suppression de la fin du html résiduel
-		  $spell->setDetail('<div>'.$rawDescription);
-		  
+		  $spell->setDetail('<div>' . $rawDescription);
+
 		  // Récupération de la durée
 		  $results = array();
 		  preg_match('/<b>Durée<\/b>(.*)<\s?\/?br\s?\/?>/U', $htmlDescrition, $results);
@@ -382,7 +372,7 @@ EOT
 			 preg_match('/<b>Durée<\/b>(.*)/', $htmlDescrition, $results);
 		  }
 		  $spell->setDuration($results[1]);
-		  
+
 		  $em->persist($spell);
 		  // On flush si jamais le buffer est trop rempli pour éviter un dépacement de mémoire
 		  if (count($em->getUnitOfWork()->getScheduledEntityInsertions()) > $this->maxEntitiesStacked) {
@@ -390,22 +380,21 @@ EOT
 			 $this->output->writeln(sprintf("\t\t***** SAVEPOINT *****"));
 		  }
 		  $this->output->writeln(sprintf("<info>\t\t%s</info>", $this->encode($spell->getName())));
-		  
+
 		  return $spell;
 //	   }
 	   });
 	   $em->flush();
-
 	   return $spells;
     }
-    
+
     protected function normalizeWikiUrl($rawUrl) {
-	   
+
 	   $arrayUrl = explode('/', $rawUrl);
-	   $arrayUrl[count($arrayUrl)-1] = rawurlencode($arrayUrl[count($arrayUrl)-1]);
+	   $arrayUrl[count($arrayUrl) - 1] = rawurlencode($arrayUrl[count($arrayUrl) - 1]);
 	   return implode('/', $arrayUrl);
     }
-    
+
     public function html($wikiContent) {
 	   $htmlDescrition = '';
 	   foreach ($wikiContent as $domElement) {
@@ -415,10 +404,9 @@ EOT
     }
 
     public function truncateTable($className) {
-
 	   $em = $this->getDoctrine()->getManager();
 	   // Table de base
-	   if (strpos($className, 'Ico') === 0 ) {
+	   if (strpos($className, 'Ico') === 0) {
 		  $cmd = $em->getClassMetadata($className);
 		  $connection = $em->getConnection();
 		  $dbPlatform = $connection->getDatabasePlatform();
@@ -439,7 +427,7 @@ EOT
 		  $stmt->execute();
 	   }
     }
-    
+
     protected function getFixturesEntities() {
 	   return array(
 		  'IcoRulesBundle:FeatType',
@@ -461,7 +449,6 @@ EOT
     }
 
     public function getTablesToTruncate() {
-
 	   // Tables à vider toujours (car elles sont rechargées par les fixtures)
 	   $tablesToTruncate = array();
 	   foreach ($this->getFixturesEntities() as $entity) {
@@ -469,13 +456,13 @@ EOT
 	   }
 //	   $tablesToTruncate[] = 'IcoRulesBundle:Skill';
 	   $tablesToTruncate[] = 'IcoRulesBundle:CharacterClassLevel';
-           $tablesToTruncate[] = 'characterclass_skill';
-           $tablesToTruncate[] = 'characterclass_characterclasslevel';
-           $tablesToTruncate[] = 'characterclasslevel_characterclassspecial';
+	   $tablesToTruncate[] = 'characterclass_skill';
+	   $tablesToTruncate[] = 'characterclass_characterclasslevel';
+	   $tablesToTruncate[] = 'characterclasslevel_characterclasslevelspecial';
 	   if (!$this->updateOnlyFixtures) {
 		  $tablesToTruncate[] = 'IcoRulesBundle:Link';
 	   }
-	   // Tables à vider seulement si on synchronise les dons
+	   // Tables à vider seulement si on synchronise les dons
 	   if ($this->updateFeats) {
 		  $tablesToTruncate[] = 'IcoRulesBundle:Feat';
 		  $tablesToTruncate[] = 'feat_feattype';
@@ -483,7 +470,7 @@ EOT
 		  $tablesToTruncate[] = 'feat_link';
 		  $tablesToTruncate[] = 'feat_parents_feat_children';
 	   }
-	   // Tables à vider seulement si on synchronise les sorts
+	   // Tables à vider seulement si on synchronise les sorts
 	   if ($this->updateSpells) {
 		  $tablesToTruncate[] = 'IcoRulesBundle:Spell';
 		  $tablesToTruncate[] = 'IcoRulesBundle:SpellListLevel';
@@ -492,12 +479,10 @@ EOT
 		  $tablesToTruncate[] = 'spell_spelllistlevel';
 		  $tablesToTruncate[] = 'spell_link';
 	   }
-
 	   return $tablesToTruncate;
     }
 
     public function loadFixtures() {
-
 	   $kernel = $this->getContainer()->get('kernel');
 	   $application = new \Symfony\Bundle\FrameworkBundle\Console\Application($kernel);
 	   $application->setAutoExit(false);
@@ -519,11 +504,9 @@ EOT
     }
 
     private function updateFeatPrerequisites() {
-
 	   // Mise à jour des liens entre les dons
 	   foreach ($this->metadatas as $metadatas) {
 		  foreach ($metadatas as $metadata) {
-
 			 $em = $this->getDoctrine()->getManager();
 			 $feat_repository = $this->getDoctrine()->getRepository('IcoRulesBundle:Feat');
 			 $spell_repository = $this->getDoctrine()->getRepository('IcoRulesBundle:Spell');
@@ -547,20 +530,20 @@ EOT
 			 } elseif ($metadata['type'] == 'spellCast') {
 				$spell = $spell_repository->findOneByNameId($metadata['value']);
 				if ($spell) {
-				    $link = $this->root.$this->getContainer()->get('router')->generate('ico_rules_spell_view', array('id' => $spell->getId(), 'slug' => $spell->getSlug()));
+				    $link = $this->root . $this->getContainer()->get('router')->generate('ico_rules_spell_view', array('id' => $spell->getId(), 'slug' => $spell->getSlug()));
 				}
 			 } elseif ($metadata['type'] == 'feat') {
 				$feat = $feat_repository->findOneByNameId($metadata['value']);
 				if ($feat) {
-				    
-				    $link = $this->root.$this->getContainer()->get('router')->generate('ico_rules_feat_view', array('id' => $feat->getId(), 'slug' => $feat->getSlug()));
+
+				    $link = $this->root . $this->getContainer()->get('router')->generate('ico_rules_feat_view', array('id' => $feat->getId(), 'slug' => $feat->getSlug()));
 				    // Définition du lien de parenté pour l'arborescence de dons
 				    $feat_parent = $feat_repository->findOneByNameId($metadata['feat']);
-				    
+
 				    // Arborescence montante
 				    $feat_parent->addParent($feat);
 				    $em->persist($feat_parent);
-				    
+
 				    // Arborescence descendante
 				    $feat->addChild($feat_parent);
 				    $em->persist($feat);
@@ -579,21 +562,21 @@ EOT
     protected function getDoctrine() {
 	   return $this->getContainer()->get('doctrine');
     }
-    
+
     protected function collectUrlUsed($html) {
 	   $pattern = '/<a\s[^>]*href=\"([^\"]*)\"[^>]*>.*<\/a>/siU';
 	   $matches = array();
 	   preg_match($pattern, $html, $matches, PREG_OFFSET_CAPTURE, 3);
-	   foreach($matches as $index => $match) {
+	   foreach ($matches as $index => $match) {
 		  if ($index != 0 && !in_array($match[0], $this->listUrlUsed)) {
 			 $this->listUrlUsed[] = $match[0];
 		  }
 	   }
 	   sort($this->listUrlUsed);
     }
-    
+
     protected function replaceWithMyLinks($text) {
-	   
+
 //	   $this->collectUrlUsed($text);
 	   // Change all wiki class "pagelink" to local class "preview"
 	   $text = str_replace('pagelink', 'preview', $text);
@@ -602,44 +585,44 @@ EOT
 	   // replace all wiki-url into local-url
 	   return str_replace(array_keys($this->urlTranslator), $this->urlTranslator, $text);
     }
-    
+
     protected function nameIdFromName($name) {
-	   
+
 	   $lowercasedName = strtolower($name);
 	   $dashedName = preg_replace('/ /', '-', $lowercasedName);
-	   $uncotedName =  preg_replace('/\'/', '', $dashedName);
+	   $uncotedName = preg_replace('/\'/', '', $dashedName);
 	   return $uncotedName;
     }
-    
+
     protected function fileNameFromUrl($url) {
 	   // Les fichiers sont nommés en se basant sur le nom de la page, en remplaçant les espaces par des tirets et en mettant en majuscule la première lettre de chaque mot
-	   $endUrl = substr($url,strrpos($url,"/")+1);
+	   $endUrl = substr($url, strrpos($url, "/") + 1);
 	   $spacedUrl = preg_replace('/%20/', ' ', $endUrl);
 	   $unprefixedUrl = preg_replace('/^Pathfinder-RPG./', '', $spacedUrl);
 	   $xmledUrl = preg_replace('/ashx/', 'xml', $unprefixedUrl);
 	   $uppercasedUrl = ucwords($xmledUrl);
 	   $fileName = preg_replace('/ /', '-', $uppercasedUrl);
 	   $convertedName = mb_convert_encoding($fileName, 'Windows-1252', 'UTF-8');
-	   return $this->getContainer()->get('kernel')->getRootDir().'/../web/wiki-pathfinder/'.$convertedName;
+	   return $this->getContainer()->get('kernel')->getRootDir() . '/../web/wiki-pathfinder/' . $convertedName;
     }
-    
+
     protected function urlFromFileName($fileName) { // TODO
 	   // Les fichiers sont nommés en se basant sur le nom de la page, en remplaçant les espaces par des tirets et en mettant en majuscule la première lettre de chaque mot
 	   $convertedName = rawurlencode(mb_convert_encoding($fileName, 'UTF-8', 'Windows-1252'));
 	   $spacedName = preg_replace('/-/', ' ', $convertedName);
 	   $lowercasedUrl = strtolower($spacedName);
 	   $ashxedUrl = preg_replace('/xml/', 'ashx', $lowercasedUrl);
-	   $prefixedUrl = 'Pathfinder-RPG.'.$ashxedUrl;
+	   $prefixedUrl = 'Pathfinder-RPG.' . $ashxedUrl;
 	   $normalizedUrl = preg_replace('/ /', '%20', $prefixedUrl);
 	   return $normalizedUrl;
     }
-    
+
     protected function urlTranslatorInit() {
 	   // Récupération de la liste des pages
 	   $path = 'D:/wamp/www/Pathfinder-RPG/';
 	   $pages = array();
 	   foreach (new \DirectoryIterator($path) as $fileInfo) {
-		  if($fileInfo->isDot()) {
+		  if ($fileInfo->isDot()) {
 			 continue;
 		  }
 		  $pages[] = $fileInfo->getFilename();
@@ -655,8 +638,8 @@ EOT
 	   );
 	   //  Url des compétences
 	   $skills = $this->getDoctrine()
-	   ->getRepository('IcoRulesBundle:Skill')
-	   ->findAll();
+			 ->getRepository('IcoRulesBundle:Skill')
+			 ->findAll();
 	   foreach ($skills as $skill) {
 		  $specials_urls[] = array(
 			 'raw' => ucfirst(strtolower(rawurlencode($skill->getName()))),
@@ -666,13 +649,13 @@ EOT
 		  );
 	   }
 	   foreach ($specials_urls as $data) {
-		  $this->urlTranslator['Pathfinder-RPG.'.$data['raw'].'.ashx'] = $this->root.$this->getContainer()->get('router')->generate('ico_rules_'.$data['route'].'_view', array('id' => $data['id'], 'slug' => $data['slug']));
+		  $this->urlTranslator['Pathfinder-RPG.' . $data['raw'] . '.ashx'] = $this->root . $this->getContainer()->get('router')->generate('ico_rules_' . $data['route'] . '_view', array('id' => $data['id'], 'slug' => $data['slug']));
 	   }
 	   foreach ($pages as $page) {
 		  set_time_limit(50);
 		  // Url correspondant à des fichiers
 		  $crawler = new Crawler;
-		  $crawler->addHTMLContent(file_get_contents($path.$page), 'UTF-8');
+		  $crawler->addHTMLContent(file_get_contents($path . $page), 'UTF-8');
 		  $categories = $crawler->filter('category')->each(function (Crawler $category) {
 			 return $category->text();
 		  });
@@ -680,12 +663,12 @@ EOT
 			 'Pathfinder-RPG.Sort' => 'spell',
 			 'Pathfinder-RPG.Don' => 'feat'
 		  );
-		  foreach ($categories as $category ) {
+		  foreach ($categories as $category) {
 			 foreach ($catToRoute as $cat => $entityName) {
 				if ($category == $cat) {
 				    $entity = $this->getEntityFromName(ucfirst($entityName), $crawler->filter('title')->text());
 				    if ($entity) {
-					   $this->urlTranslator[$this->urlFromFileName($page)] = $this->root.$this->getContainer()->get('router')->generate('ico_rules_'.$entityName.'_view', array('id' => $entity->getId(), 'slug' => $entity->getSlug()));
+					   $this->urlTranslator[$this->urlFromFileName($page)] = $this->root . $this->getContainer()->get('router')->generate('ico_rules_' . $entityName . '_view', array('id' => $entity->getId(), 'slug' => $entity->getSlug()));
 				    }
 				}
 			 }

@@ -62,6 +62,11 @@ class MapModel
     private $nbCols;
     
     /**
+     * @ORM\OneToMany(targetEntity="Map", mappedBy="mapModel", cascade={"persist"})
+     */
+    protected $maps;
+    
+    /**
      * Get id
      *
      * @return integer 
@@ -207,5 +212,45 @@ class MapModel
     public function getStart()
     {
         return $this->start;
+    }
+    /**
+     * Constructor
+     */
+    public function __construct()
+    {
+        $this->maps = new \Doctrine\Common\Collections\ArrayCollection();
+    }
+
+    /**
+     * Add maps
+     *
+     * @param \Ico\Bundle\KingmakerBundle\Entity\Map $maps
+     * @return MapModel
+     */
+    public function addMap(\Ico\Bundle\KingmakerBundle\Entity\Map $maps)
+    {
+        $this->maps[] = $maps;
+
+        return $this;
+    }
+
+    /**
+     * Remove maps
+     *
+     * @param \Ico\Bundle\KingmakerBundle\Entity\Map $maps
+     */
+    public function removeMap(\Ico\Bundle\KingmakerBundle\Entity\Map $maps)
+    {
+        $this->maps->removeElement($maps);
+    }
+
+    /**
+     * Get maps
+     *
+     * @return \Doctrine\Common\Collections\Collection 
+     */
+    public function getMaps()
+    {
+        return $this->maps;
     }
 }

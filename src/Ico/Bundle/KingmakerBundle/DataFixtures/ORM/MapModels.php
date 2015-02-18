@@ -16,7 +16,7 @@ class MapModels implements FixtureInterface, OrderedFixtureInterface {
                array(
                    'name' => 'La Ceinture Verte',
                    'description' => '',
-                   'start' => array('x' => -246, 'y' => -137),
+                   'start' => array('x' => -233, 'y' => -130),
                    'nbLines' => 13,
                    'nbCols' => 10,
                ),

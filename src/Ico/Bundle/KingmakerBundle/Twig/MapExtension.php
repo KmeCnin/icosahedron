@@ -7,7 +7,12 @@ use Twig_SimpleFunction;
 
 class MapExtension extends Twig_Extension {
 
-    private $hexSide = 89;
+    protected $hexSide = 89;
+    protected $em;
+    
+    public function __construct(\Doctrine\ORM\EntityManager $em) {
+        $this->em = $em;
+    }
 
     public function getFunctions() {
         return array(
@@ -15,7 +20,8 @@ class MapExtension extends Twig_Extension {
         );
     }
 
-    public function fillTheMap(\Ico\Bundle\KingmakerBundle\Entity\MapModel $model) {
+    public function fillTheMap(\Ico\Bundle\KingmakerBundle\Entity\Map $map) {
+	   $model = $map->getMapModel();
         $svg = '<svg>';
         $y = $model->getStart()->getY();
         for ($i = 1; $i <= $model->getNbLines(); $i++) {
@@ -25,7 +31,12 @@ class MapExtension extends Twig_Extension {
                 $x = $model->getStart()->getX();
             }
             for ($j = 1; $j <= $model->getNbCols(); $j++) {
-                $svg .= $this->drawHex($x, $y, $i.'_'.$j);
+	   
+			 $hexEntity = $this->em
+				    ->getRepository('IcoKingmakerBundle:Hex')
+				    ->findCoordinates($i, $j, $map);
+	   
+                $svg .= $this->drawHex($x, $y, $hexEntity);
                 $x = $x + (2 * $this->getHalfH());
             }
             $y = $y + $this->getFullV() + $this->getHalfV();
@@ -35,7 +46,7 @@ class MapExtension extends Twig_Extension {
         return $svg;
     }
 
-    private function drawHex($x, $y, $id) {
+    protected function drawHex($x, $y, $hexEntity) {
         $dots = array();
         $dots[] = array($x, $y); // 1
         $dots[] = array($x + $this->getHalfH(), $y - $this->getHalfV()); // 2
@@ -44,7 +55,11 @@ class MapExtension extends Twig_Extension {
         $dots[] = array($x + $this->getHalfH(), $y + $this->getFullV() + $this->getHalfV()); // 5
         $dots[] = array($x, $y + $this->getFullV()); // 6
 
-        $hex = '<path onclick="$(\'#modal_hex_'.$id.'\').modal(\'show\');" id="hex_'.$id.'" class="hex" d="M ';
+        $hex = '<path class="hex';
+	   if ($hexEntity->getExplored()) {
+		  $hex .= ' explored';
+	   }
+	   $hex .= '" id="hex_'.$hexEntity->getId().'" d="M ';
         foreach ($dots as $i => $dot) {
             $x = $dot[0];
             $y = $dot[1];
@@ -58,17 +73,17 @@ class MapExtension extends Twig_Extension {
         return $hex;
     }
 
-    private function getHalfH() {
+    protected function getHalfH() {
 //        return 77;
         return sqrt(($this->hexSide*$this->hexSide) - (($this->hexSide * 0.5) * ($this->hexSide * 0.5)));
     }
 
-    private function getHalfV() {
+    protected function getHalfV() {
 //        return 42;
         return $this->hexSide * 0.5;
     }
 
-    private function getFullV() {
+    protected function getFullV() {
         return $this->hexSide;
     }
 
