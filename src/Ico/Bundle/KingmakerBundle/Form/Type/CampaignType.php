@@ -11,7 +11,7 @@ class CampaignType extends AbstractType
     {
         $builder
             ->add('name', null, array('label' => 'Nom'))
-            ->add('description', 'textarea', array('label' => 'Déscription'))
+            ->add('description', 'textarea', array('label' => 'Déscription', 'required' => false))
             ->add('create', 'submit', array('label' => 'Sauvegarder'));
     }
 
