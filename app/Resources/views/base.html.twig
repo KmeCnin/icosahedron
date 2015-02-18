@@ -58,7 +58,9 @@
 			 {% for label, route in breadcrumb %}
 				{% if route == '' or loop.index == breadcrumb|length %}
 				<li>{{ label }}</li>
-				{% else %}
+				{% elseif route is iterable %}
+				<li><a href="{{ path(route.route, route.params) }}">{{ label }}</a></li>
+                                {% else %}
 				<li><a href="{{ path(route) }}">{{ label }}</a></li>
 				{% endif %}
 			 {% endfor %}

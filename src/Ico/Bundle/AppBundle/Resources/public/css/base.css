@@ -305,3 +305,9 @@ img.class-illustration {
 a.btn:visited {
     color: inherit !important;
 }
+a.btn-primary:visited {
+    color: white !important;
+}
+.nav {
+    font-size: 14px !important;
+}

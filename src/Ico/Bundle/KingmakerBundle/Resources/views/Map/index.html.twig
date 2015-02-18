@@ -1,0 +1,8 @@
+{% extends "IcoKingmakerBundle::layout.html.twig" %}
+
+{% block content %}
+    <div id="mapModelWrapper"> 
+        <img src="{{ asset('bundles/icokingmaker/images/mapModel/' ~ mapModel.slug ~ '.jpg') }}" alt="Carte de {{ mapModel.name }}" />
+    {{ fillTheMap(mapModel) }}
+    </div>
+{% endblock %}

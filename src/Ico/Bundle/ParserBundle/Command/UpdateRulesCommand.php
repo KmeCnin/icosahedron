@@ -418,7 +418,7 @@ EOT
 
 	   $em = $this->getDoctrine()->getManager();
 	   // Table de base
-	   if (strpos($className, 'IcoRulesBundle:') === 0) {
+	   if (strpos($className, 'Ico') === 0 ) {
 		  $cmd = $em->getClassMetadata($className);
 		  $connection = $em->getConnection();
 		  $dbPlatform = $connection->getDatabasePlatform();
@@ -442,19 +442,21 @@ EOT
     
     protected function getFixturesEntities() {
 	   return array(
-		  'FeatType',
-		  'SpellSchool',
-		  'SpellComponent',
-		  'SpellList',
-		  'BattleUnit',
-		  'BattleRange',
-		  'SavingThrow',
-		  'SavingThrowEffect',
-		  'SpellTargetType',
-		  'LinkSource',
-		  'Ability',
-		  'Skill',
-		  'CharacterClass',
+		  'IcoRulesBundle:FeatType',
+		  'IcoRulesBundle:SpellSchool',
+		  'IcoRulesBundle:SpellComponent',
+		  'IcoRulesBundle:SpellList',
+		  'IcoRulesBundle:BattleUnit',
+		  'IcoRulesBundle:BattleRange',
+		  'IcoRulesBundle:SavingThrow',
+		  'IcoRulesBundle:SavingThrowEffect',
+		  'IcoRulesBundle:SpellTargetType',
+		  'IcoRulesBundle:LinkSource',
+		  'IcoRulesBundle:Ability',
+		  'IcoRulesBundle:Skill',
+		  'IcoRulesBundle:CharacterClass',
+		  'IcoKingmakerBundle:MapModel',
+		  'IcoKingmakerBundle:Dot',
 	   );
     }
 
@@ -463,7 +465,7 @@ EOT
 	   // Tables à vider toujours (car elles sont rechargées par les fixtures)
 	   $tablesToTruncate = array();
 	   foreach ($this->getFixturesEntities() as $entity) {
-		  $tablesToTruncate[] = 'IcoRulesBundle:'.$entity;
+		  $tablesToTruncate[] = $entity;
 	   }
 //	   $tablesToTruncate[] = 'IcoRulesBundle:Skill';
 	   $tablesToTruncate[] = 'IcoRulesBundle:CharacterClassLevel';

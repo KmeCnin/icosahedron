@@ -132,9 +132,16 @@ class CampaignController extends Controller {
      * @Template("IcoKingmakerBundle:Campaign:view.html.twig")
      */
     public function viewAction($id) {
+        
         $campaign = $this->getDoctrine()
                 ->getRepository('IcoKingmakerBundle:Campaign')
                 ->find($id);
+        if (!$campaign) {
+	    throw $this->createNotFoundException('Aucune campagne trouvée pour cet id : ' . $id);
+	}
+        $maps = $this->getDoctrine()
+                ->getRepository('IcoKingmakerBundle:MapModel')
+                ->findAll();
 
         return array(
             'breadcrumb' => array(
@@ -144,7 +151,8 @@ class CampaignController extends Controller {
             ),
             'title' => $campaign->getName(),
             'subtitle' => 'Campagne',
-            'campaign' => $campaign
+            'campaign' => $campaign,
+            'maps' => $maps
         );
     }
 

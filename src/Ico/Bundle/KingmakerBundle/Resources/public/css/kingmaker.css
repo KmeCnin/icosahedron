@@ -9,3 +9,14 @@
     background-image: url(../images/map_bg.jpg),      -o-linear-gradient(top, #6cab26, #6ceb86);  Opera 11.10+ 
     background-image: url(../images/map_bg.jpg),         linear-gradient(top bottom, #6cab26, #6ceb86);  W3C 
 }*/
+
+#mapModelWrapper > img {
+    width: 100%;
+    position: relative;
+    border: 1px solid #e7e7e7;
+    border-width: 0 1px 4px 1px;
+    background-color: #ffffff;
+    border-radius: 4px;
+    -webkit-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.05);
+    box-shadow: 0 1px 1px rgba(0, 0, 0, 0.05);
+}
