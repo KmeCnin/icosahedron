@@ -292,3 +292,16 @@ img.class-illustration {
     background-color: #42A500;
     border-color: #3B9400;
 }
+.list-group .list-group-item:hover {
+    color: #ffffff;
+    background-color: #42A500;
+    border-color: #42A500;
+}
+.btn.btn-title {
+    position: relative;
+    top: -7px;
+    margin: auto 15px;
+}
+a.btn:visited {
+    color: inherit !important;
+}

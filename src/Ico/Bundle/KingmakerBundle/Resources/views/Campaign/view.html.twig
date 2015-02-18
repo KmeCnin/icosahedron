@@ -1,18 +1,25 @@
 {% extends "IcoKingmakerBundle::layout.html.twig" %}
 
+{% block title %}
+{{ parent() }}
+{% if is_granted('EDIT', campaign) %}
+<a href="{{ path('ico_kingmaker_campaign_edit', {'id': campaign.id, 'slug': campaign.slug}) }}" class="btn btn-default btn-title"><span class="fa fa-cogs"></span> Paramètres</a>
+{% endif %}
+{% endblock %}
+
 {% block content %}
 <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
     <div class="well bs-component" id="maps">
         <fieldset>
             <legend>Cartes</legend>
             <p>Les cartes vous permettent de gérer l'étendue géographique de votre royaume ainsi que les points d'intérêt économiques et politiques.</p>
-            <ul>
-                <li><a href="">Les terres volées [Vue générale]</a></li>
-                <li><a href="">La ceinture verte</a></li>
-                <li><a href="">The Nomen Heights</a></li>
-                <li><a href="">The slough</a></li>
-                <li><a href="">Glenebon uplands</a></li>
-            </ul>
+            <div class="list-group">
+                <a class="list-group-item" href="">Les terres volées [Vue générale]</a>
+                <a class="list-group-item" href="">La ceinture verte</a>
+                <a class="list-group-item" href="">The Nomen Heights</a>
+                <a class="list-group-item" href="">The slough</a>
+                <a class="list-group-item" href="">Glenebon uplands</a>
+            </div>
         </fieldset>
     </div>
 </div>
@@ -21,11 +28,11 @@
         <fieldset>
             <legend>Royaume</legend>
             <p>Visualisez les statistiques de votre empire, nommez les responsables, définissez les édits.</p>
-            <ul>
-                <li><a href="">Vue d'ensemble</a></li>
-                <li><a href="">Responsables politiques</a></li>
-                <li><a href="">Édits</a></li>
-            </ul>
+            <div class="list-group">
+                <a class="list-group-item" href="">Vue d'ensemble</a>
+                <a class="list-group-item" href="">Responsables politiques</a>
+                <a class="list-group-item" href="">Édits</a>
+            </div>
         </fieldset>
     </div>
 </div>
@@ -35,9 +42,6 @@
         <fieldset>
             <legend>Villes</legend>
             <p></p>
-            <ul>
-                <li><a href=""></a></li>
-            </ul>
         </fieldset>
     </div>
 </div>
