@@ -3,7 +3,10 @@
 {% block content %}
     <div id="mapModelWrapper"> 
         <img src="{{ asset('bundles/icokingmaker/images/mapModel/' ~ map.mapModel.slug ~ '.jpg') }}" alt="Carte de {{ map.mapModel.name }}" />
-        {{ fillTheMap(map)|raw }}
+        <svg>
+        <g id="hexs">{% include 'IcoKingmakerBundle:Map:hexs.html.twig' with {'map': map} %}</g>
+        <g id="frontier">{% include 'IcoKingmakerBundle:Map:frontier.html.twig' with {'map': map} %}</g>
+        </svg>
     </div>
     {% for hex in map.hexs %}
 	   <div id="modal_hex_{{ hex.id }}" class="modal fade" data-hex="{{ hex.id }}">
@@ -11,11 +14,32 @@
 			 <div class="modal-content">
 				<div class="modal-header">
 				    <button type="button" class="close" data-dismiss="modal" aria-label="Fermer"><span aria-hidden="true">&times;</span></button>
-				    <h4 class="modal-title">Gestion de l'hexagone</h4>
+				    <h4 class="modal-title">Hexagone</h4>
 				</div>
 				<div class="modal-body">
-				    <button {% if not hex.explored %}style="display:none;"{% endif %} class="btn btn-default cancelable exploredTrue"><span class="fa fa-check"></span> Exploré</button>
-				    <button {% if hex.explored %}style="display:none;"{% endif %} class="btn btn-primary exploredFalse"><span class="fa fa-search"></span> Explorer</button>
+                                    {% if is_granted('EDIT', hex.map.campaign) %}
+                                    <div class="well">
+                                        <fieldset>
+                                            <legend>Actions</legend>
+                                            
+                                            {# explored #}
+                                            <button {% if not hex.explored or hex.annexed %}style="display:none;"{% endif %} class="btn btn-default cancelable exploredTrue"><span class="fa fa-check"></span> Exploré</button>
+                                            <button {% if hex.explored or hex.annexed %}style="display:none;"{% endif %} class="btn btn-primary exploredFalse"><span class="fa fa-search"></span> Explorer</button>
+                                            <button {% if not hex.annexed %}style="display:none;"{% endif %} title="Vous ne pouvez pas annuler l'explorationn d'un hexagone annexé" class="btn btn-default exploredDisabled disabled"><span class="fa fa-check"></span> Exploré</button>
+                                            
+                                            {# annexed #}
+                                            <button {% if not hex.annexed or not hex.explored %}style="display:none;"{% endif %} class="btn btn-default cancelable annexedTrue"><span class="fa fa-check"></span> Annexé</button>
+                                            <button {% if hex.annexed or not hex.explored %}style="display:none;"{% endif %} class="btn btn-primary annexedFalse"><span class="fa fa-globe"></span> Annexer</button>
+                                            <button {% if hex.explored %}style="display:none;"{% endif %} title="Vous devez d'abord explorer un hexagone avant de pouvoir l'annexer" class="btn btn-default annexedDisabled disabled"><span class="fa fa-globe"></span> Annexer</button>
+                                            
+                                        </fieldset>
+                                    </div>
+                                    {% endif %}
+                                    <div class="well">
+                                        <fieldset>
+                                            <legend>Caractéristiques</legend>
+                                        </fieldset>
+                                    </div>
 				</div>
 				<div class="modal-footer">
 				    <button type="button" class="btn btn-default" data-dismiss="modal">Fermer</button>
@@ -25,5 +49,6 @@
 	   </div><!-- /.modal -->
     {% endfor %}
     
+    <script>var map = {{ map|json_encode() }}</script>
     <script src="{{ asset('bundles/icokingmaker/js/maps.js') }}"></script>
 {% endblock %}

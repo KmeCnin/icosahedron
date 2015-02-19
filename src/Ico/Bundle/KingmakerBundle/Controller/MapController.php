@@ -19,7 +19,7 @@ class MapController extends Controller {
      * @Template()
      */
     public function indexAction($id_campaign, $id_map) {
-        
+
         $campaign = $this->getDoctrine()
                 ->getRepository('IcoKingmakerBundle:Campaign')
                 ->find($id_campaign);
@@ -46,33 +46,101 @@ class MapController extends Controller {
             'map' => $map
         );
     }
-    
+
     /**
      * @Route("/kingmaker/hex/explored", name="ico_kingmaker_hex_explored", options={"expose"=true})
      * @Template()
      */
     public function hexSetExploredAction(Request $request) {
+
+        $id = $request->request->get('id');
+        $explored = $request->request->get('explored');
+
+        $hex = $this->getDoctrine()
+                ->getRepository('IcoKingmakerBundle:Hex')
+                ->find($id);
+        if (!$hex) {
+            throw $this->createNotFoundException('Aucun hexagone trouvé pour cet id : ' . $id);
+        }
+
+        $securityContext = $this->container->get('security.context');
+        if (false === $securityContext->isGranted('EDIT', $hex->getMap()->getCampaign())) {
+            $this->get('session')->getFlashBag()->add('warning', 'Vous n\'avez pas le droit d\'éditer cette campagne.');
+            throw new AccessDeniedException();
+        }
+
         try {
-		  $id = $request->request->get('id');
-		  $explored = $request->request->get('explored');
 
-		  $hex = $this->getDoctrine()
-				->getRepository('IcoKingmakerBundle:Hex')
-				->find($id);
-		  if (!$hex) {
-			 throw $this->createNotFoundException('Aucun hexagone trouvé pour cet id : ' . $id);
-		  }
+            $em = $this->getDoctrine()->getManager();
 
-		  $em = $this->getDoctrine()->getManager();
+            $hex->setExplored($explored);
+            if (!$explored) {
+                $hex->setAnnexed(false);
+            }
+            $em->persist($hex);
+            $em->flush();
 
-		  $hex->setExplored($explored);
-		  $em->persist($hex);
-		  $em->flush();
+            return new Response('Mise à jour réussie.');
+        } catch (Exception $e) {
+            echo 'Exception reçue : ', $e->getMessage(), "\n";
+        }
+    }
 
-		  return new Response('Mise à jour réussie.');
-	   } catch (Exception $e) {
-		  echo 'Exception reçue : ',  $e->getMessage(), "\n";
-	   }
+    /**
+     * @Route("/kingmaker/hex/annexed", name="ico_kingmaker_hex_annexed", options={"expose"=true})
+     * @Template()
+     */
+    public function hexSetAnnexedAction(Request $request) {
+
+        $id = $request->request->get('id');
+        $annexed = $request->request->get('annexed');
+
+        $hex = $this->getDoctrine()
+                ->getRepository('IcoKingmakerBundle:Hex')
+                ->find($id);
+        if (!$hex) {
+            throw $this->createNotFoundException('Aucun hexagone trouvé pour cet id : ' . $id);
+        }
+
+        $securityContext = $this->container->get('security.context');
+        if (false === $securityContext->isGranted('EDIT', $hex->getMap()->getCampaign())) {
+            $this->get('session')->getFlashBag()->add('warning', 'Vous n\'avez pas le droit d\'éditer cette campagne.');
+            throw new AccessDeniedException();
+        }
+
+        try {
+
+            $em = $this->getDoctrine()->getManager();
+
+            $hex->setAnnexed($annexed);
+            if ($annexed) {
+                $hex->setExplored(true);
+            }
+            $em->persist($hex);
+            $em->flush();
+
+            return new Response('Mise à jour réussie.');
+        } catch (Exception $e) {
+            echo 'Exception reçue : ', $e->getMessage(), "\n";
+        }
+    }
+
+    /**
+     * @Route("/kingmaker/map/frontier", name="ico_kingmaker_map_frontier", options={"expose"=true})
+     * @Template()
+     */
+    public function frontierAction(Request $request) {
+
+        $id = $request->request->get('id');
+
+        $hex = $this->getDoctrine()
+                ->getRepository('IcoKingmakerBundle:Hex')
+                ->find($id);
+        if (!$hex) {
+            throw $this->createNotFoundException('Aucun hexagone trouvé pour cet id : ' . $id);
+        }
+        
+        return array('map' => $hex->getMap());
     }
 
 }

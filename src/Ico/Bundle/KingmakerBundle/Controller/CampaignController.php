@@ -59,27 +59,27 @@ class CampaignController extends Controller {
             $user = $this->get('security.context')->getToken()->getUser();
             $campaign->setCreatedBy($user);
             $em->persist($campaign);
-		  
-		  // Création des Hex
-		  $mapModels = $this->getDoctrine()
-				->getRepository('IcoKingmakerBundle:MapModel')
-				->findAll();
-		  foreach ($mapModels as $mapModel) {
-			 $map = new Map();
-			 $map->setMapModel($mapModel);
-			 $map->setCampaign($campaign);
-			 for ($i = 1; $i <= $mapModel->getNbLines(); $i++) {
-				for ($j = 1; $j <= $mapModel->getNbCols(); $j++) {
-				    $hex = new Hex($i, $j);
-				    $hex->setMap($map);
-				    $em->persist($hex);
-				    $map->addHex($hex);
-				}
-			 }
-			 $em->persist($map);
-			 $campaign->addMap($map);
-		  }
-		  
+
+            // Création des Hex
+            $mapModels = $this->getDoctrine()
+                    ->getRepository('IcoKingmakerBundle:MapModel')
+                    ->findAll();
+            foreach ($mapModels as $mapModel) {
+                $map = new Map();
+                $map->setMapModel($mapModel);
+                $map->setCampaign($campaign);
+                for ($i = 1; $i <= $mapModel->getNbLines(); $i++) {
+                    for ($j = 1; $j <= $mapModel->getNbCols(); $j++) {
+                        $hex = new Hex($i, $j);
+                        $hex->setMap($map);
+                        $em->persist($hex);
+                        $map->addHex($hex);
+                    }
+                }
+                $em->persist($map);
+                $campaign->addMap($map);
+            }
+
             $em->flush();
 
             // ACL
@@ -108,17 +108,17 @@ class CampaignController extends Controller {
 
     /**
      * @Route("/kingmaker/campagnes/paramètres/{id}/{slug}", name="ico_kingmaker_campaign_edit")
-     * @Template("IcoKingmakerBundle:Campaign:edit.html.twig")
+     * @Template()
      */
     public function editAction(Request $request, $id) {
 
         $campaign = $this->getDoctrine()
-		->getRepository('IcoKingmakerBundle:Campaign')
-		->find($id);
-	if (!$campaign) {
-	    throw $this->createNotFoundException('Aucune campagne trouvée pour cet id : ' . $id);
-	}
-        
+                ->getRepository('IcoKingmakerBundle:Campaign')
+                ->find($id);
+        if (!$campaign) {
+            throw $this->createNotFoundException('Aucune campagne trouvée pour cet id : ' . $id);
+        }
+
         $securityContext = $this->container->get('security.context');
         if (false === $securityContext->isGranted('EDIT', $campaign)) {
             $this->get('session')->getFlashBag()->add('warning', 'Vous n\'avez pas le droit d\'éditer cette campagne.');
@@ -146,22 +146,23 @@ class CampaignController extends Controller {
             ),
             'title' => $campaign->getName(),
             'subtitle' => 'Paramètres',
+            'campaign' => $campaign,
             'form' => $form->createView()
         );
     }
 
     /**
      * @Route("/kingmaker/campagnes/{id}/{slug}", name="ico_kingmaker_campaign_view", requirements={"id"="\d+"}, defaults={"slug"=false}, options={"expose"=true})
-     * @Template("IcoKingmakerBundle:Campaign:view.html.twig")
+     * @Template()
      */
     public function viewAction($id) {
-        
+
         $campaign = $this->getDoctrine()
                 ->getRepository('IcoKingmakerBundle:Campaign')
                 ->find($id);
         if (!$campaign) {
-		  throw $this->createNotFoundException('Aucune campagne trouvée pour cet id : ' . $id);
-	   }
+            throw $this->createNotFoundException('Aucune campagne trouvée pour cet id : ' . $id);
+        }
 
         return array(
             'breadcrumb' => array(
@@ -173,6 +174,32 @@ class CampaignController extends Controller {
             'subtitle' => 'Campagne Kingmaker',
             'campaign' => $campaign
         );
+    }
+
+    /**
+     * @Route("/kingmaker/campagnes/suppression/{id}/{slug}", name="ico_kingmaker_campaign_delete", requirements={"id"="\d+"}, defaults={"slug"=false})
+     */
+    public function deleteGuestAction($id) {
+
+        $campaign = $this->getDoctrine()
+                ->getRepository('IcoKingmakerBundle:Campaign')
+                ->find($id);
+        if (!$campaign) {
+            throw $this->createNotFoundException('Aucune campagne trouvée pour cet id : ' . $id);
+        }
+        
+        $securityContext = $this->container->get('security.context');
+        if (false === $securityContext->isGranted('DELETE', $campaign)) {
+            $this->get('session')->getFlashBag()->add('warning', 'Vous n\'avez pas le droit de supprimer cette campagne.');
+            throw new AccessDeniedException();
+        }
+
+        $em = $this->getDoctrine()->getEntityManager();
+        $em->remove($campaign);
+        $em->flush();
+        
+        $this->get('session')->getFlashBag()->add('success', 'La campagne ' . $campaign->getName() . ' a été supprimée.');
+        return $this->redirect($this->generateUrl('ico_kingmaker'));
     }
 
 }

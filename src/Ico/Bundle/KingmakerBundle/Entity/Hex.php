@@ -49,6 +49,13 @@ class Hex
      */
     private $explored;
     
+    /**
+     * @var boolean
+     *
+     * @ORM\Column(name="annexed", type="boolean")
+     */
+    private $annexed;
+    
     public function __construct($x = null, $y = null) {
         
         $this->setX($x);
@@ -158,5 +165,28 @@ class Hex
     public function getExplored()
     {
         return $this->explored;
+    }
+
+    /**
+     * Set annexed
+     *
+     * @param boolean $annexed
+     * @return Hex
+     */
+    public function setAnnexed($annexed)
+    {
+        $this->annexed = $annexed;
+
+        return $this;
+    }
+
+    /**
+     * Get annexed
+     *
+     * @return boolean 
+     */
+    public function getAnnexed()
+    {
+        return $this->annexed;
     }
 }
