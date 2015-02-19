@@ -1,4 +1,13 @@
 $(document).ready(function() {
+    
+    // Comportement des boutons annulables
+    $('.btn.cancelable').mouseenter(function() {
+	   $(this).attr('data-backup', $(this).html());
+	   $(this).html('<span class="fa fa-undo"></span> Annuler');
+    });
+    $('.btn.cancelable').mouseleave(function() {
+	   $(this).html($(this).attr('data-backup'));
+    });
         
     // Change tous les td se trouvant dans des tr.titre en th
     $("tr.titre td").changeElementType("th");

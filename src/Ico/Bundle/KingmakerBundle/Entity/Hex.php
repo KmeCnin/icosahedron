@@ -61,6 +61,7 @@ class Hex
         $this->setX($x);
         $this->setY($y);
         $this->setExplored(false);
+        $this->setAnnexed(false);
         
         return $this;
     }

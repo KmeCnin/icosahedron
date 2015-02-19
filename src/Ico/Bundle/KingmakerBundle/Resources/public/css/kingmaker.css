@@ -55,6 +55,13 @@
     stroke-width: 4px;
     stroke-linecap: round;
 }
-.modal[data-hex] fieldset .btn {
+.modal[data-hex] fieldset > .btn {
     margin-right: 30px;
+}
+.mapinterestmodel > a > img {
+    width: 30px;
+    margin-right: 15px;
+}
+.mapinterestmodel > a {
+    cursor: pointer
 }

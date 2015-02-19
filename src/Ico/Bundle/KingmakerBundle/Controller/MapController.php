@@ -26,6 +26,9 @@ class MapController extends Controller {
         $map = $this->getDoctrine()
                 ->getRepository('IcoKingmakerBundle:Map')
                 ->find($id_map);
+        $mapInterestModels = $this->getDoctrine()
+                ->getRepository('IcoKingmakerBundle:MapInterestModel')
+                ->findAll();
 
         return array(
             'breadcrumb' => array(
@@ -43,7 +46,8 @@ class MapController extends Controller {
             'title' => $map->getMapModel()->getName(),
             'subtitle' => $campaign->getName(),
             'campaign' => $campaign,
-            'map' => $map
+            'map' => $map,
+		  'mapInterestModels' => $mapInterestModels
         );
     }
 

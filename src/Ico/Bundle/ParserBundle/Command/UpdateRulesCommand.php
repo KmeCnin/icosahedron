@@ -444,7 +444,7 @@ EOT
 		  'IcoRulesBundle:Skill',
 		  'IcoRulesBundle:CharacterClass',
 		  'IcoKingmakerBundle:MapModel',
-		  'IcoKingmakerBundle:Dot',
+		  'IcoKingmakerBundle:MapInterestModel',
 	   );
     }
 
