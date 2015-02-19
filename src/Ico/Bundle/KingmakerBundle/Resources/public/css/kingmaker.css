@@ -44,6 +44,12 @@
 #mapModelWrapper > svg .hex.explored:hover {
     fill: rgba(255, 255, 255, 0.3);
 }
+#mapModelWrapper > svg .hex.annexed {
+    fill: rgba(26, 103, 0, 0.2)
+}
+#mapModelWrapper > svg .hex.annexed:hover {
+    fill: rgba(26, 103, 0, 0.4)
+}
 #mapModelWrapper > svg .frontier {
     stroke: #3B9400;
     stroke-width: 4px;
