@@ -34,6 +34,18 @@ class MapInterest
      * @ORM\Column(name="slug", type="string", length=255)
      */
     private $slug;
+    
+    /**
+     * @ORM\ManyToOne(targetEntity="MapInterestModel", cascade={"remove"}, inversedBy="mapInterests")
+     * @ORM\JoinColumn(nullable=false)
+     */
+    private $mapInterestModel;
+    
+    /**
+     * @ORM\ManyToOne(targetEntity="Hex", cascade={"remove"}, inversedBy="mapInterests")
+     * @ORM\JoinColumn(nullable=false)
+     */
+    private $hex;
 
     /**
      * Get id
@@ -89,5 +101,51 @@ class MapInterest
     public function getSlug()
     {
         return $this->slug;
+    }
+
+    /**
+     * Set mapInterestModel
+     *
+     * @param \Ico\Bundle\KingmakerBundle\Entity\MapInterestModel $mapInterestModel
+     * @return MapInterest
+     */
+    public function setMapInterestModel(\Ico\Bundle\KingmakerBundle\Entity\MapInterestModel $mapInterestModel)
+    {
+        $this->mapInterestModel = $mapInterestModel;
+
+        return $this;
+    }
+
+    /**
+     * Get mapInterestModel
+     *
+     * @return \Ico\Bundle\KingmakerBundle\Entity\MapInterestModel 
+     */
+    public function getMapInterestModel()
+    {
+        return $this->mapInterestModel;
+    }
+
+    /**
+     * Set hex
+     *
+     * @param \Ico\Bundle\KingmakerBundle\Entity\Hex $hex
+     * @return MapInterest
+     */
+    public function setHex(\Ico\Bundle\KingmakerBundle\Entity\Hex $hex)
+    {
+        $this->hex = $hex;
+
+        return $this;
+    }
+
+    /**
+     * Get hex
+     *
+     * @return \Ico\Bundle\KingmakerBundle\Entity\Hex 
+     */
+    public function getHex()
+    {
+        return $this->hex;
     }
 }

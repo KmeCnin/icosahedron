@@ -1,0 +1,9 @@
+{% for interest in list %}
+    <div class="panel panel-default">
+        <div class="panel-body">
+            <img class="mapinteresticon" src="{{ asset('bundles/icokingmaker/images/mapInterest/' ~ interest.mapInterestModel.slug ~ '.png') }}" alt="Icon {{ interest.mapInterestModel.name }}" />
+            {{ interest.name }}
+            <button type="button" class="btn btn-default btn-sm interestDelete pull-right" data-id="{{ interest.id }}"><span class="fa fa-times"></span></button>
+        </div>
+    </div>
+{% endfor %}

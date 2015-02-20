@@ -70,4 +70,12 @@ $(document).ready(function () {
         });
     });
 
+    // Ajout d'un point d'intérêt
+    $('li.mapinterestmodel').click(function () {
+        var trigger = this;
+        $.post(Routing.generate('ico_kingmaker_interest_add'), {id_hex: $(trigger).closest('.modal').attr('data-hex'), id_interestmodel: $(trigger).attr('data-id')}, function (interestsList) {
+            $(trigger).closest('.modal').find('.interestslist').html(interestsList);
+        });
+    });
+
 });

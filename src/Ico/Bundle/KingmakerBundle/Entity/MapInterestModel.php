@@ -34,6 +34,11 @@ class MapInterestModel
      * @ORM\Column(name="slug", type="string", length=255)
      */
     private $slug;
+    
+    /**
+     * @ORM\OneToMany(targetEntity="MapInterest", mappedBy="mapInterestModel", cascade={"persist"})
+     */
+    protected $mapInterests;
 
     /**
      * Get id
@@ -89,5 +94,45 @@ class MapInterestModel
     public function getSlug()
     {
         return $this->slug;
+    }
+    /**
+     * Constructor
+     */
+    public function __construct()
+    {
+        $this->mapInterests = new \Doctrine\Common\Collections\ArrayCollection();
+    }
+
+    /**
+     * Add mapInterests
+     *
+     * @param \Ico\Bundle\KingmakerBundle\Entity\MapInterest $mapInterests
+     * @return MapInterestModel
+     */
+    public function addMapInterest(\Ico\Bundle\KingmakerBundle\Entity\MapInterest $mapInterests)
+    {
+        $this->mapInterests[] = $mapInterests;
+
+        return $this;
+    }
+
+    /**
+     * Remove mapInterests
+     *
+     * @param \Ico\Bundle\KingmakerBundle\Entity\MapInterest $mapInterests
+     */
+    public function removeMapInterest(\Ico\Bundle\KingmakerBundle\Entity\MapInterest $mapInterests)
+    {
+        $this->mapInterests->removeElement($mapInterests);
+    }
+
+    /**
+     * Get mapInterests
+     *
+     * @return \Doctrine\Common\Collections\Collection 
+     */
+    public function getMapInterests()
+    {
+        return $this->mapInterests;
     }
 }

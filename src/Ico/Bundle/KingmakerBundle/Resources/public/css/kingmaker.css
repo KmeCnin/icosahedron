@@ -58,10 +58,13 @@
 .modal[data-hex] fieldset > .btn {
     margin-right: 30px;
 }
-.mapinterestmodel > a > img {
+img.mapinteresticon {
     width: 30px;
     margin-right: 15px;
 }
 .mapinterestmodel > a {
     cursor: pointer
+}
+.interestDelete .fa {
+    margin: 0 !important;
 }

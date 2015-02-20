@@ -56,6 +56,11 @@ class Hex
      */
     private $annexed;
     
+    /**
+     * @ORM\OneToMany(targetEntity="MapInterest", mappedBy="hex", cascade={"persist"})
+     */
+    protected $mapInterests;
+    
     public function __construct($x = null, $y = null) {
         
         $this->setX($x);
@@ -189,5 +194,38 @@ class Hex
     public function getAnnexed()
     {
         return $this->annexed;
+    }
+
+    /**
+     * Add mapInterests
+     *
+     * @param \Ico\Bundle\KingmakerBundle\Entity\MapInterest $mapInterests
+     * @return Hex
+     */
+    public function addMapInterest(\Ico\Bundle\KingmakerBundle\Entity\MapInterest $mapInterests)
+    {
+        $this->mapInterests[] = $mapInterests;
+
+        return $this;
+    }
+
+    /**
+     * Remove mapInterests
+     *
+     * @param \Ico\Bundle\KingmakerBundle\Entity\MapInterest $mapInterests
+     */
+    public function removeMapInterest(\Ico\Bundle\KingmakerBundle\Entity\MapInterest $mapInterests)
+    {
+        $this->mapInterests->removeElement($mapInterests);
+    }
+
+    /**
+     * Get mapInterests
+     *
+     * @return \Doctrine\Common\Collections\Collection 
+     */
+    public function getMapInterests()
+    {
+        return $this->mapInterests;
     }
 }
