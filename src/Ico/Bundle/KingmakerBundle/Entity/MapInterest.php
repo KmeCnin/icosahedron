@@ -36,13 +36,13 @@ class MapInterest
     private $slug;
     
     /**
-     * @ORM\ManyToOne(targetEntity="MapInterestModel", cascade={"remove"}, inversedBy="mapInterests")
+     * @ORM\ManyToOne(targetEntity="MapInterestModel", inversedBy="mapInterests")
      * @ORM\JoinColumn(nullable=false)
      */
     private $mapInterestModel;
     
     /**
-     * @ORM\ManyToOne(targetEntity="Hex", cascade={"remove"}, inversedBy="mapInterests")
+     * @ORM\ManyToOne(targetEntity="Hex", inversedBy="mapInterests")
      * @ORM\JoinColumn(nullable=false)
      */
     private $hex;

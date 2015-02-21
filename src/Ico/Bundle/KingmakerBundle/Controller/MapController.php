@@ -198,4 +198,41 @@ class MapController extends Controller {
         }
     }
 
+    /**
+     * @Route("/kingmaker/interest/delete", name="ico_kingmaker_interest_delete", options={"expose"=true})
+     * @Template("IcoKingmakerBundle:Map:interestsList.html.twig")
+     */
+    public function mapInterestDeleteAction(Request $request) {
+
+        $id = $request->request->get('id');
+
+        $interest = $this->getDoctrine()
+                ->getRepository('IcoKingmakerBundle:MapInterest')
+                ->find($id);
+        if (!$interest) {
+            throw $this->createNotFoundException('Aucun hexagone trouvé pour cet id : ' . $id);
+        }
+
+        $securityContext = $this->container->get('security.context');
+        if (false === $securityContext->isGranted('EDIT', $interest->getHex()->getMap()->getCampaign())) {
+            $this->get('session')->getFlashBag()->add('warning', 'Vous n\'avez pas le droit d\'éditer cette campagne.');
+            throw new AccessDeniedException();
+        }
+
+        try {
+
+            $em = $this->getDoctrine()->getManager();
+            $em->remove($interest);              
+            $em->flush();
+            
+            $mapInterests = $this->getDoctrine()
+                ->getRepository('IcoKingmakerBundle:MapInterest')
+                ->findByHex($interest->getHex());
+
+            return array('list' => $mapInterests);
+        } catch (Exception $e) {
+            echo 'Exception reçue : ', $e->getMessage(), "\n";
+        }
+    }
+
 }

@@ -1,9 +1,31 @@
-{% for interest in list %}
-    <div class="panel panel-default">
-        <div class="panel-body">
-            <img class="mapinteresticon" src="{{ asset('bundles/icokingmaker/images/mapInterest/' ~ interest.mapInterestModel.slug ~ '.png') }}" alt="Icon {{ interest.mapInterestModel.name }}" />
-            {{ interest.name }}
-            <button type="button" class="btn btn-default btn-sm interestDelete pull-right" data-id="{{ interest.id }}"><span class="fa fa-times"></span></button>
-        </div>
-    </div>
-{% endfor %}
+{% if list|length %}
+<div class="panel panel-default">
+      {% for interest in list %}
+	    <div class="panel-body" data-id="{{ interest.id }}">
+		  <img class="mapinteresticon" src="{{ asset('bundles/icokingmaker/images/mapInterest/' ~ interest.mapInterestModel.slug ~ '.png') }}" alt="Icon {{ interest.mapInterestModel.name }}" />
+      {{ interest.name }}
+		  <button type="button" class="btn btn-default btn-sm pull-right interest" data-toggle="modal" data-target="#interestDelete{{ interest.id }}"><span class="fa fa-times"></span></button>
+		  <button type="button" class="btn btn-default btn-sm pull-right interest"><span class="fa fa-pencil"></span></button>
+	    </div>
+
+	    {# Modale suppression #}
+	    <div id="interestDelete{{ interest.id }}" class="modal" data-id="{{ interest.id }}">
+		  <div class="modal-dialog">
+			<div class="modal-content">
+			      <div class="modal-header">
+				    <button type="button" class="close" data-dismiss="modal" aria-label="Fermer"><span aria-hidden="true">&times;</span></button>
+				    <h4 class="modal-title">Hexagone</h4>
+			      </div>
+			      <div class="modal-body">
+
+			      </div>
+			      <div class="modal-footer">
+				    <button type="button" class="btn btn-default" data-dismiss="modal"><span class="fa fa-undo"></span> Annuler</button>
+				    <button type="button" class="btn btn-primary interestDelete" data-dismiss="modal" data-id="{{ interest.id }}"><span class="fa fa-times"></span> Supprimer</button>
+			      </div>
+			</div><!-- /.modal-content -->
+		  </div><!-- /.modal-dialog -->
+	    </div><!-- /.modal -->
+      {% endfor %}
+</div>
+{% endif %}

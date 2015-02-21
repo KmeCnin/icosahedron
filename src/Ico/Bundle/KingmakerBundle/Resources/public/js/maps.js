@@ -77,5 +77,12 @@ $(document).ready(function () {
             $(trigger).closest('.modal').find('.interestslist').html(interestsList);
         });
     });
+    // Suppression d'un point d'intérêt
+    $('.interestslist').on('click', 'button.interestDelete', function () {
+        var trigger = this;
+        $.post(Routing.generate('ico_kingmaker_interest_delete'), {id: $(trigger).attr('data-id')}, function (interestsList) {
+            $(trigger).closest('.modal.modalHex').find('.interestslist').html(interestsList);
+        });
+    });
 
 });
