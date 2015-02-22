@@ -5,23 +5,43 @@
 		  <img class="mapinteresticon" src="{{ asset('bundles/icokingmaker/images/mapInterest/' ~ interest.mapInterestModel.slug ~ '.png') }}" alt="Icon {{ interest.mapInterestModel.name }}" />
       {{ interest.name }}
 		  <button type="button" class="btn btn-default btn-sm pull-right interest" data-toggle="modal" data-target="#interestDelete{{ interest.id }}"><span class="fa fa-times"></span></button>
-		  <button type="button" class="btn btn-default btn-sm pull-right interest"><span class="fa fa-pencil"></span></button>
+		  <button type="button" class="btn btn-default btn-sm pull-right interest" data-toggle="modal" data-target="#interestEdit{{ interest.id }}"><span class="fa fa-pencil"></span></button>
 	    </div>
 
 	    {# Modale suppression #}
-	    <div id="interestDelete{{ interest.id }}" class="modal" data-id="{{ interest.id }}">
+	    <div id="interestDelete{{ interest.id }}" class="modal innerModal" data-id="{{ interest.id }}">
 		  <div class="modal-dialog">
 			<div class="modal-content">
 			      <div class="modal-header">
 				    <button type="button" class="close" data-dismiss="modal" aria-label="Fermer"><span aria-hidden="true">&times;</span></button>
-				    <h4 class="modal-title">Hexagone</h4>
+				    <h4 class="modal-title">Suppression de {{ interest.name }}</h4>
 			      </div>
 			      <div class="modal-body">
-
+				    La suppression d'un point d'intérêt est difinitive.<br />
+				    Étes-vous sûr de vouloir supprimer <strong>{{ interest.name }}</strong> ?
 			      </div>
 			      <div class="modal-footer">
-				    <button type="button" class="btn btn-default" data-dismiss="modal"><span class="fa fa-undo"></span> Annuler</button>
-				    <button type="button" class="btn btn-primary interestDelete" data-dismiss="modal" data-id="{{ interest.id }}"><span class="fa fa-times"></span> Supprimer</button>
+				    <button type="button" class="btn btn-default closeModal"><span class="fa fa-undo"></span> Annuler</button>
+				    <button type="button" class="btn btn-primary interestDelete" data-id="{{ interest.id }}"><span class="fa fa-times"></span> Supprimer</button>
+			      </div>
+			</div><!-- /.modal-content -->
+		  </div><!-- /.modal-dialog -->
+	    </div><!-- /.modal -->
+
+	    {# Modale édition #}
+	    <div id="interestEdit{{ interest.id }}" class="modal innerModal" data-id="{{ interest.id }}">
+		  <div class="modal-dialog">
+			<div class="modal-content">
+			      <div class="modal-header">
+				    <button type="button" class="close" data-dismiss="modal" aria-label="Fermer"><span aria-hidden="true">&times;</span></button>
+				    <h4 class="modal-title">Édition de {{ interest.name }}</h4>
+			      </div>
+			      <div class="modal-body">
+				    
+			      </div>
+			      <div class="modal-footer">
+				    <button type="button" class="btn btn-default closeModal"><span class="fa fa-undo"></span> Annuler</button>
+				    <button type="button" class="btn btn-primary interestEdit closeModal" data-id="{{ interest.id }}"><span class="fa fa-check"></span> Enregistrer</button>
 			      </div>
 			</div><!-- /.modal-content -->
 		  </div><!-- /.modal-dialog -->
