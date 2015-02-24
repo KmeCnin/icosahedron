@@ -1,15 +1,17 @@
 <?php
 
-namespace Ico\Bundle\KingmakerBundle\Entity;
+namespace Ico\Bundle\KingmakerBundle\Entity; // gedmo annotations
+
 
 use Doctrine\ORM\Mapping as ORM;
+use Ico\Bundle\KingmakerBundle\Repository\MapInterestRepository;
 use Gedmo\Mapping\Annotation as Gedmo; // gedmo annotations
 
 /**
  * MapInterest
  *
  * @ORM\Table(name="kingmaker_mapinterest")
- * @ORM\Entity(repositoryClass="Ico\Bundle\KingmakerBundle\Repository\MapInterestRepository")
+ * @ORM\Entity(repositoryClass="MapInterestRepository")
  */
 class MapInterest
 {
@@ -25,9 +27,16 @@ class MapInterest
     /**
      * @var string
      *
-     * @ORM\Column(name="name", type="string", length=255)
+     * @ORM\Column(name="name", type="string", length=25)
      */
     private $name;
+
+    /**
+     * @var string
+     *
+     * @ORM\Column(name="description", type="string", length=255, nullable=true)
+     */
+    private $description;
     
     /**
      * @Gedmo\Slug(fields={"name"})
@@ -46,7 +55,12 @@ class MapInterest
      * @ORM\JoinColumn(nullable=false)
      */
     private $hex;
-
+     
+    /**
+    * @ORM\OneToOne(targetEntity="Dot", cascade={"persist", "merge", "remove"})
+    */
+    private $position;
+    
     /**
      * Get id
      *
@@ -106,10 +120,10 @@ class MapInterest
     /**
      * Set mapInterestModel
      *
-     * @param \Ico\Bundle\KingmakerBundle\Entity\MapInterestModel $mapInterestModel
+     * @param MapInterestModel $mapInterestModel
      * @return MapInterest
      */
-    public function setMapInterestModel(\Ico\Bundle\KingmakerBundle\Entity\MapInterestModel $mapInterestModel)
+    public function setMapInterestModel(MapInterestModel $mapInterestModel)
     {
         $this->mapInterestModel = $mapInterestModel;
 
@@ -119,7 +133,7 @@ class MapInterest
     /**
      * Get mapInterestModel
      *
-     * @return \Ico\Bundle\KingmakerBundle\Entity\MapInterestModel 
+     * @return MapInterestModel 
      */
     public function getMapInterestModel()
     {
@@ -129,10 +143,10 @@ class MapInterest
     /**
      * Set hex
      *
-     * @param \Ico\Bundle\KingmakerBundle\Entity\Hex $hex
+     * @param Hex $hex
      * @return MapInterest
      */
-    public function setHex(\Ico\Bundle\KingmakerBundle\Entity\Hex $hex)
+    public function setHex(Hex $hex)
     {
         $this->hex = $hex;
 
@@ -142,10 +156,56 @@ class MapInterest
     /**
      * Get hex
      *
-     * @return \Ico\Bundle\KingmakerBundle\Entity\Hex 
+     * @return Hex 
      */
     public function getHex()
     {
         return $this->hex;
+    }
+
+    /**
+     * Set description
+     *
+     * @param string $description
+     * @return MapInterest
+     */
+    public function setDescription($description)
+    {
+        $this->description = $description;
+
+        return $this;
+    }
+
+    /**
+     * Get description
+     *
+     * @return string 
+     */
+    public function getDescription()
+    {
+        return $this->description;
+    }
+
+    /**
+     * Set position
+     *
+     * @param Dot $position
+     * @return MapInterest
+     */
+    public function setPosition(Dot $position = null)
+    {
+        $this->position = $position;
+
+        return $this;
+    }
+
+    /**
+     * Get position
+     *
+     * @return Dot 
+     */
+    public function getPosition()
+    {
+        return $this->position;
     }
 }

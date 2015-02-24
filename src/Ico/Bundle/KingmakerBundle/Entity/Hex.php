@@ -71,6 +71,37 @@ class Hex
         return $this;
     }
     
+    public function getWidthHex() {
+        $map_model = $this->getMap()->getMapModel();
+        return sqrt(($map_model->getHexSide() * $map_model->getHexSide()) - (($map_model->getHexSide() * 0.5) * ($map_model->getHexSide() * 0.5))) * 2;
+    }
+    
+    public function getHeightHex() {
+        $map_model = $this->getMap()->getMapModel();
+        return $map_model->getHexSide() * 1;
+    }
+    
+    public function getMinX() {
+        return ($this->getY() * $this->getWidthHex());
+    }
+    public function getCenterX() {
+        return ($this->getY() * $this->getWidthHex()) + ($this->getWidthHex()/2);
+    }
+    public function getMaxX() {
+        return (($this->getY()+1) * $this->getWidthHex());
+    }
+    
+    public function getMinY() {
+        return ($this->getX() * $this->getHeightHex());
+    }
+    public function getCenterY() {
+        return ($this->getX() * $this->getHeightHex() + ($this->getHeightHex()/2));
+    }
+    public function getMaxY() {
+        return (($this->getX()+1) * $this->getHeightHex());
+    }
+    
+    
     /**
      * Get id
      *

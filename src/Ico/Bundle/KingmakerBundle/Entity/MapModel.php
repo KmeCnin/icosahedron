@@ -1,15 +1,18 @@
 <?php
 
-namespace Ico\Bundle\KingmakerBundle\Entity;
+namespace Ico\Bundle\KingmakerBundle\Entity; // gedmo annotations
 
+use Doctrine\Common\Collections\ArrayCollection;
+use Doctrine\Common\Collections\Collection;
 use Doctrine\ORM\Mapping as ORM;
+use Ico\Bundle\KingmakerBundle\Repository\MapModelRepository;
 use Gedmo\Mapping\Annotation as Gedmo; // gedmo annotations
 
 /**
  * MapModel
  *
  * @ORM\Table(name="kingmaker_mapmodel")
- * @ORM\Entity(repositoryClass="Ico\Bundle\KingmakerBundle\Repository\MapModelRepository")
+ * @ORM\Entity(repositoryClass="MapModelRepository")
  */
 class MapModel
 {
@@ -46,6 +49,13 @@ class MapModel
     * @ORM\OneToOne(targetEntity="Dot", cascade={"persist", "merge", "remove"})
     */
     private $start;
+    
+    /**
+     * @var integer
+     *
+     * @ORM\Column(name="hexSide", type="integer")
+     */
+    private $hexSide;
     
     /**
      * @var integer
@@ -194,10 +204,10 @@ class MapModel
     /**
      * Set start
      *
-     * @param \Ico\Bundle\KingmakerBundle\Entity\Dot $start
+     * @param Dot $start
      * @return MapModel
      */
-    public function setStart(\Ico\Bundle\KingmakerBundle\Entity\Dot $start = null)
+    public function setStart(Dot $start = null)
     {
         $this->start = $start;
 
@@ -207,7 +217,7 @@ class MapModel
     /**
      * Get start
      *
-     * @return \Ico\Bundle\KingmakerBundle\Entity\Dot 
+     * @return Dot 
      */
     public function getStart()
     {
@@ -218,16 +228,16 @@ class MapModel
      */
     public function __construct()
     {
-        $this->maps = new \Doctrine\Common\Collections\ArrayCollection();
+        $this->maps = new ArrayCollection();
     }
 
     /**
      * Add maps
      *
-     * @param \Ico\Bundle\KingmakerBundle\Entity\Map $maps
+     * @param Map $maps
      * @return MapModel
      */
-    public function addMap(\Ico\Bundle\KingmakerBundle\Entity\Map $maps)
+    public function addMap(Map $maps)
     {
         $this->maps[] = $maps;
 
@@ -237,9 +247,9 @@ class MapModel
     /**
      * Remove maps
      *
-     * @param \Ico\Bundle\KingmakerBundle\Entity\Map $maps
+     * @param Map $maps
      */
-    public function removeMap(\Ico\Bundle\KingmakerBundle\Entity\Map $maps)
+    public function removeMap(Map $maps)
     {
         $this->maps->removeElement($maps);
     }
@@ -247,10 +257,33 @@ class MapModel
     /**
      * Get maps
      *
-     * @return \Doctrine\Common\Collections\Collection 
+     * @return Collection 
      */
     public function getMaps()
     {
         return $this->maps;
+    }
+
+    /**
+     * Set hexSide
+     *
+     * @param integer $hexSide
+     * @return MapModel
+     */
+    public function setHexSide($hexSide)
+    {
+        $this->hexSide = $hexSide;
+
+        return $this;
+    }
+
+    /**
+     * Get hexSide
+     *
+     * @return integer 
+     */
+    public function getHexSide()
+    {
+        return $this->hexSide;
     }
 }

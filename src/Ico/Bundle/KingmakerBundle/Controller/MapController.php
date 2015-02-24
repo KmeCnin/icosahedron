@@ -2,6 +2,7 @@
 
 namespace Ico\Bundle\KingmakerBundle\Controller;
 
+use Ico\Bundle\KingmakerBundle\Entity\Dot;
 use Ico\Bundle\KingmakerBundle\Entity\MapInterest;
 use Sensio\Bundle\FrameworkExtraBundle\Configuration\Route;
 use Sensio\Bundle\FrameworkExtraBundle\Configuration\Template;
@@ -181,6 +182,9 @@ class MapController extends Controller {
             $mapInterest->setMapInterestModel($mapInterestModel);
             $mapInterest->setHex($hex);
             $mapInterest->setName($mapInterestModel->getName());
+            
+            $mapInterest->setPosition(new Dot($hex->getMinX(), $hex->getMinY()));
+            
             $em->persist($mapInterest);
             
             $hex->addMapInterest($mapInterest);
