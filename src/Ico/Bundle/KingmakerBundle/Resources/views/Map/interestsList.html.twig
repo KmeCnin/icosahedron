@@ -1,51 +1,74 @@
 {% if list|length %}
-<div class="panel panel-default">
-      {% for interest in list %}
-	    <div class="panel-body" data-id="{{ interest.id }}">
-		  <img class="mapinteresticon" src="{{ asset('bundles/icokingmaker/images/mapInterest/' ~ interest.mapInterestModel.slug ~ '.png') }}" alt="Icon {{ interest.mapInterestModel.name }}" />
-      {{ interest.name }}
-		  <button type="button" class="btn btn-default btn-sm pull-right interest" data-toggle="modal" data-target="#interestDelete{{ interest.id }}"><span class="fa fa-times"></span></button>
-		  <button type="button" class="btn btn-default btn-sm pull-right interest" data-toggle="modal" data-target="#interestEdit{{ interest.id }}"><span class="fa fa-pencil"></span></button>
-	    </div>
+    <div class="panel panel-default">
+        {% for interest in list %}
+            <div class="panel-body" data-id="{{ interest.id }}">
+                <img class="mapinteresticon" src="{{ asset('bundles/icokingmaker/images/mapInterest/' ~ interest.mapInterestModel.slug ~ '.png') }}" alt="Icon {{ interest.mapInterestModel.name }}" />
+                {{ interest.name }}
+                {% if is_granted('EDIT', interest.hex.map.campaign) %}
+                    <div class="btn-group pull-right">
+                        <button type="button" class="btn btn-default btn-sm interest" data-toggle="modal" data-target="#interestEdit{{ interest.id }}"><span class="fa fa-pencil"></span></button>
+                        <button type="button" class="btn btn-default btn-sm interest" data-toggle="modal" data-target="#interestDelete{{ interest.id }}"><span class="fa fa-times"></span></button>
+                    </div>
+                    {% endif %}
+            </div>
 
-	    {# Modale suppression #}
-	    <div id="interestDelete{{ interest.id }}" class="modal innerModal" data-id="{{ interest.id }}">
-		  <div class="modal-dialog">
-			<div class="modal-content">
-			      <div class="modal-header">
-				    <button type="button" class="close" data-dismiss="modal" aria-label="Fermer"><span aria-hidden="true">&times;</span></button>
-				    <h4 class="modal-title">Suppression de {{ interest.name }}</h4>
-			      </div>
-			      <div class="modal-body">
-				    La suppression d'un point d'intérêt est difinitive.<br />
-				    Étes-vous sûr de vouloir supprimer <strong>{{ interest.name }}</strong> ?
-			      </div>
-			      <div class="modal-footer">
-				    <button type="button" class="btn btn-default closeModal"><span class="fa fa-undo"></span> Annuler</button>
-				    <button type="button" class="btn btn-primary interestDelete" data-id="{{ interest.id }}"><span class="fa fa-times"></span> Supprimer</button>
-			      </div>
-			</div><!-- /.modal-content -->
-		  </div><!-- /.modal-dialog -->
-	    </div><!-- /.modal -->
+            {# Modale suppression #}
+            <div id="interestDelete{{ interest.id }}" class="modal innerModal" data-id="{{ interest.id }}">
+                <div class="modal-dialog">
+                    <div class="modal-content">
+                        <div class="modal-header">
+                            <button type="button" class="close" data-dismiss="modal" aria-label="Fermer"><span aria-hidden="true">&times;</span></button>
+                            <h4 class="modal-title">Suppression de {{ interest.name }}</h4>
+                        </div>
+                        <div class="modal-body">
+                            La suppression d'un point d'intérêt est difinitive.<br />
+                            Étes-vous sûr de vouloir supprimer <strong>{{ interest.name }}</strong> ?
+                        </div>
+                        <div class="modal-footer">
+                            <button type="button" class="btn btn-default closeModal"><span class="fa fa-undo"></span> Annuler</button>
+                            <button type="button" class="btn btn-primary interestDelete" data-id="{{ interest.id }}"><span class="fa fa-times"></span> Supprimer</button>
+                        </div>
+                    </div><!-- /.modal-content -->
+                </div><!-- /.modal-dialog -->
+            </div><!-- /.modal -->
 
-	    {# Modale édition #}
-	    <div id="interestEdit{{ interest.id }}" class="modal innerModal" data-id="{{ interest.id }}">
-		  <div class="modal-dialog">
-			<div class="modal-content">
-			      <div class="modal-header">
-				    <button type="button" class="close" data-dismiss="modal" aria-label="Fermer"><span aria-hidden="true">&times;</span></button>
-				    <h4 class="modal-title">Édition de {{ interest.name }}</h4>
-			      </div>
-			      <div class="modal-body">
-				    
-			      </div>
-			      <div class="modal-footer">
-				    <button type="button" class="btn btn-default closeModal"><span class="fa fa-undo"></span> Annuler</button>
-				    <button type="button" class="btn btn-primary interestEdit closeModal" data-id="{{ interest.id }}"><span class="fa fa-check"></span> Enregistrer</button>
-			      </div>
-			</div><!-- /.modal-content -->
-		  </div><!-- /.modal-dialog -->
-	    </div><!-- /.modal -->
-      {% endfor %}
-</div>
+            {# Modale édition #}
+            <div id="interestEdit{{ interest.id }}" class="modal innerModal" data-id="{{ interest.id }}">
+                <div class="modal-dialog">
+                    <div class="modal-content">
+                        <div class="modal-header">
+                            <button type="button" class="close" data-dismiss="modal" aria-label="Fermer"><span aria-hidden="true">&times;</span></button>
+                            <h4 class="modal-title">Édition de {{ interest.name }}</h4>
+                        </div>
+                        <div class="modal-body">
+                            <form>
+                                <div class="form-group" style="width: 260px;">
+                                    <label class="control-label" for="name{{ interest.id }}">Nom</label>
+                                    <input id="name{{ interest.id }}" type="text" class="form-control" name="name" placeholder="Légende courte" maxlength="25" value="{{ interest.name }}" />
+                                </div>
+                                <div class="form-group">
+                                    <label class="control-label" for="description{{ interest.id }}">Description</label>
+                                    <input id="description{{ interest.id }}" type="text" class="form-control" name="description" placeholder="Détails complémentaires" maxlength="255" value="{{ interest.description }}" />
+                                </div>
+                                <div>
+                                    {{ interest.hex.minX }}<br />
+                                    {{ interest.hex.maxX }}<br />
+                                    {{ interest.hex.minY }}<br />
+                                    {{ interest.hex.maxY }}<br />
+                                    <input id="positionX{{ interest.id }}" type="range" name="positionX" value="{{ interest.position.x }}" max="50" min="0">
+                                    <input id="positionY{{ interest.id }}" type="range" name="positionY" value="{{ interest.position.y }}" max="50" min="0">
+                                </div>
+                            </form>
+                        </div>
+                        <div class="modal-footer">
+                            <button type="button" class="btn btn-default closeModal"><span class="fa fa-undo"></span> Annuler</button>
+                            <button type="button" class="btn btn-primary interestEdit closeModal" data-id="{{ interest.id }}"><span class="fa fa-check"></span> Enregistrer</button>
+                        </div>
+                    </div><!-- /.modal-content -->
+                </div><!-- /.modal-dialog -->
+            </div><!-- /.modal -->
+        {% endfor %}
+    </div>
+{% else %}
+    <span class="fa fa-ban"></span> Rien de particulièrement intéressant ici.
 {% endif %}
