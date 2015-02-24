@@ -7,7 +7,7 @@ use Twig_SimpleFunction;
 
 class MapExtension extends Twig_Extension {
 
-    protected $hexSide = 89;
+    protected $hexSide;
     protected $em;
     
     protected $frontier;
@@ -33,6 +33,7 @@ class MapExtension extends Twig_Extension {
     public function fillTheMap(\Ico\Bundle\KingmakerBundle\Entity\Map $map) {
         
         $model = $map->getMapModel();
+        $this->hexSide = $model->getHexSide();
         $svg = '';
         $y = $model->getStart()->getY();
         for ($i = 1; $i <= $model->getNbLines(); $i++) {

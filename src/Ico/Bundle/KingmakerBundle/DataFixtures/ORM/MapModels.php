@@ -19,6 +19,7 @@ class MapModels implements FixtureInterface, OrderedFixtureInterface {
                    'start' => array('x' => -233, 'y' => -130),
                    'nbLines' => 13,
                    'nbCols' => 10,
+                   'hexSide' => 89,
                ),
            );
 
@@ -29,6 +30,7 @@ class MapModels implements FixtureInterface, OrderedFixtureInterface {
 		  $model->setStart(new Dot($data['start']['x'], $data['start']['y']));
 		  $model->setNbLines($data['nbLines']);
 		  $model->setNbCols($data['nbCols']);
+		  $model->setHexSide($data['hexSide']);
 		  $manager->persist($model);
 	   }
 	   $manager->flush();
