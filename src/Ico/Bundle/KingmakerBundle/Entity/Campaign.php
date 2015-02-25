@@ -43,12 +43,12 @@ class Campaign
     private $description;
     
     /**
-     * @ORM\OneToMany(targetEntity="Map", mappedBy="campaign", cascade={"persist"})
+     * @ORM\OneToMany(targetEntity="Map", mappedBy="campaign", cascade={"persist", "remove"})
      */
     protected $maps;
     
     /**
-     * @ORM\ManyToOne(targetEntity="\Ico\Bundle\UserBundle\Entity\User", cascade={"remove", "persist"})
+     * @ORM\ManyToOne(targetEntity="\Ico\Bundle\UserBundle\Entity\User")
      * @ORM\JoinColumn(nullable=false)
      */
     private $createdBy;

@@ -35,7 +35,7 @@ class Map
     private $campaign;
     
     /**
-     * @ORM\OneToMany(targetEntity="Hex", mappedBy="map", cascade={"persist"})
+     * @ORM\OneToMany(targetEntity="Hex", mappedBy="map", cascade={"persist", "remove"})
      */
     protected $hexs;
     

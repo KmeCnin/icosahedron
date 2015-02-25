@@ -57,7 +57,7 @@ class Hex
     private $annexed;
     
     /**
-     * @ORM\OneToMany(targetEntity="MapInterest", mappedBy="hex", cascade={"persist"})
+     * @ORM\OneToMany(targetEntity="MapInterest", mappedBy="hex", cascade={"persist", "remove"})
      */
     protected $mapInterests;
     
