@@ -60,6 +60,11 @@ class Hex
      * @ORM\OneToMany(targetEntity="MapInterest", mappedBy="hex", cascade={"persist", "remove"})
      */
     protected $mapInterests;
+     
+    /**
+    * @ORM\OneToOne(targetEntity="Dot", cascade={"persist", "merge", "remove"})
+    */
+    private $start;
     
     public function __construct($x = null, $y = null) {
         
@@ -71,36 +76,35 @@ class Hex
         return $this;
     }
     
-    public function getWidthHex() {
+    public function getWidth() {
         $map_model = $this->getMap()->getMapModel();
         return sqrt(($map_model->getHexSide() * $map_model->getHexSide()) - (($map_model->getHexSide() * 0.5) * ($map_model->getHexSide() * 0.5))) * 2;
     }
     
-    public function getHeightHex() {
+    public function getHeight() {
         $map_model = $this->getMap()->getMapModel();
-        return $map_model->getHexSide() * 1;
+        return $map_model->getHexSide() * 2;
     }
     
     public function getMinX() {
-        return ($this->getY() * $this->getWidthHex());
+        return $this->getStart()->getX();
     }
     public function getCenterX() {
-        return ($this->getY() * $this->getWidthHex()) + ($this->getWidthHex()/2);
+        return $this->getStart()->getX() + ($this->getWidth() / 2);
     }
     public function getMaxX() {
-        return (($this->getY()+1) * $this->getWidthHex());
+        return $this->getStart()->getX() + $this->getWidth();
     }
     
     public function getMinY() {
-        return ($this->getX() * $this->getHeightHex());
+        return $this->getStart()->getY() - ($this->getHeight() / 4);
     }
     public function getCenterY() {
-        return ($this->getX() * $this->getHeightHex() + ($this->getHeightHex()/2));
+        return $this->getStart()->getY() + ($this->getHeight() / 4);
     }
     public function getMaxY() {
-        return (($this->getX()+1) * $this->getHeightHex());
+        return $this->getStart()->getY() + 3 * ($this->getHeight() / 4);
     }
-    
     
     /**
      * Get id
@@ -258,5 +262,28 @@ class Hex
     public function getMapInterests()
     {
         return $this->mapInterests;
+    }
+
+    /**
+     * Set start
+     *
+     * @param \Ico\Bundle\KingmakerBundle\Entity\Dot $start
+     * @return Hex
+     */
+    public function setStart(\Ico\Bundle\KingmakerBundle\Entity\Dot $start = null)
+    {
+        $this->start = $start;
+
+        return $this;
+    }
+
+    /**
+     * Get start
+     *
+     * @return \Ico\Bundle\KingmakerBundle\Entity\Dot 
+     */
+    public function getStart()
+    {
+        return $this->start;
     }
 }

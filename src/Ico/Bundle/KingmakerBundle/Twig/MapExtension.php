@@ -2,6 +2,10 @@
 
 namespace Ico\Bundle\KingmakerBundle\Twig;
 
+use Doctrine\ORM\EntityManager;
+use Ico\Bundle\KingmakerBundle\Entity\Dot;
+use Ico\Bundle\KingmakerBundle\Entity\Hex;
+use Ico\Bundle\KingmakerBundle\Entity\Map;
 use Twig_Extension;
 use Twig_SimpleFunction;
 
@@ -12,7 +16,7 @@ class MapExtension extends Twig_Extension {
     
     protected $frontier;
 
-    public function __construct(\Doctrine\ORM\EntityManager $em) {
+    public function __construct(EntityManager $em) {
         $this->em = $em;
     }
 
@@ -23,14 +27,14 @@ class MapExtension extends Twig_Extension {
         );
     }
     
-    public function addFrontier(\Ico\Bundle\KingmakerBundle\Entity\Map $map) {
+    public function addFrontier(Map $map) {
         
         $this->fillTheMap($map);
 
         return $this->frontier;
     }
 
-    public function fillTheMap(\Ico\Bundle\KingmakerBundle\Entity\Map $map) {
+    public function fillTheMap(Map $map) {
         
         $model = $map->getMapModel();
         $this->hexSide = $model->getHexSide();
@@ -47,17 +51,23 @@ class MapExtension extends Twig_Extension {
                 $hexEntity = $this->em
                         ->getRepository('IcoKingmakerBundle:Hex')
                         ->findCoordinates($i, $j, $map);
+                
+                if ($hexEntity->getStart() == null) {
+                    $hexEntity->setStart(new Dot($x, $y));
+                    $this->em->persist($hexEntity);
+                }
 
                 $svg .= $this->drawHex($x, $y, $hexEntity);
                 $x = $x + (2 * $this->getHalfH());
             }
             $y = $y + $this->getFullV() + $this->getHalfV();
         }
+        $this->em->flush();
 
         return $svg;
     }
     
-    protected function drawBorder(\Ico\Bundle\KingmakerBundle\Entity\Hex $hexEntity, $dots) {
+    protected function drawBorder(Hex $hexEntity, $dots) {
         $frontier = '';
         $adjacents = $this->em
                 ->getRepository('IcoKingmakerBundle:Hex')
@@ -70,7 +80,8 @@ class MapExtension extends Twig_Extension {
         $this->frontier .= $frontier;
     }
 
-    protected function drawHex($x, $y, \Ico\Bundle\KingmakerBundle\Entity\Hex $hexEntity) {
+    protected function drawHex($x, $y, Hex $hexEntity) {
+        
         $dots = array();
         $dots[] = array($x, $y); // 1
         $dots[] = array($x + $this->getHalfH(), $y - $this->getHalfV()); // 2
@@ -108,12 +119,10 @@ class MapExtension extends Twig_Extension {
     }
 
     protected function getHalfH() {
-//        return 77;
         return sqrt(($this->hexSide * $this->hexSide) - (($this->hexSide * 0.5) * ($this->hexSide * 0.5)));
     }
 
     protected function getHalfV() {
-//        return 42;
         return $this->hexSide * 0.5;
     }
 

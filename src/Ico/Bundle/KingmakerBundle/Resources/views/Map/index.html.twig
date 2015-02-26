@@ -4,6 +4,7 @@
     <div id="mapModelWrapper"> 
         <img src="{{ asset('bundles/icokingmaker/images/mapModel/' ~ map.mapModel.slug ~ '.jpg') }}" alt="Carte de {{ map.mapModel.name }}" />
         <svg>
+        <g id="interests">{% include 'IcoKingmakerBundle:Map:interests.html.twig' with {'map': map} %}</g>
         <g id="hexs">{% include 'IcoKingmakerBundle:Map:hexs.html.twig' with {'map': map} %}</g>
         <g id="frontier">{% include 'IcoKingmakerBundle:Map:frontier.html.twig' with {'map': map} %}</g>
         </svg>
@@ -59,6 +60,7 @@
                 </div><!-- /.modal-content -->
             </div><!-- /.modal-dialog -->
         </div><!-- /.modal -->
+        <div class="interestslistmodals">{% include 'IcoKingmakerBundle:Map:interestsListModals.html.twig' with {'list': hex.mapInterests} %}</div>
     {% endfor %}
 
     <script>var map ={{ map|json_encode() }}</script>

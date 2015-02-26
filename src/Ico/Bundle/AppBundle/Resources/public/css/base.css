@@ -311,3 +311,6 @@ img.class-illustration {
 .nav {
     font-size: 14px !important;
 }
+.modal { 
+    overflow-y: auto; 
+}
