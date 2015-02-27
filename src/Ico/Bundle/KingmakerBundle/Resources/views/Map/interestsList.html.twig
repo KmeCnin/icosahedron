@@ -4,12 +4,13 @@
             <div class="panel-body" data-id="{{ interest.id }}">
                 <img class="mapinteresticon" src="{{ asset('bundles/icokingmaker/images/mapInterest/' ~ interest.mapInterestModel.slug ~ '.png') }}" alt="Icon {{ interest.mapInterestModel.name }}" />
                 {{ interest.name }}
+			 {% if interest.description is not empty %}<p class="text-muted">{{ interest.description|nl2br }}</p>{% endif %}
                 {% if is_granted('EDIT', interest.hex.map.campaign) %}
-                    <div class="btn-group pull-right">
+                    <div class="btn-group pull-right actions">
                         <button type="button" class="btn btn-default btn-sm interest" data-toggle="modal" data-target="#interestEdit{{ interest.id }}"><span class="fa fa-pencil"></span></button>
                         <button type="button" class="btn btn-default btn-sm interest" data-toggle="modal" data-target="#interestDelete{{ interest.id }}"><span class="fa fa-times"></span></button>
                     </div>
-                    {% endif %}
+			 {% endif %}
             </div>
         {% endfor %}
     </div>

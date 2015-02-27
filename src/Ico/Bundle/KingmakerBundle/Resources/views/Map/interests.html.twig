@@ -1,5 +1,6 @@
 {% for hex in map.hexs %}
     {% for interest in hex.mapInterests %}
         <image class="mapinteresticon" xlink:href="{{ asset('bundles/icokingmaker/images/mapInterest/' ~ interest.mapInterestModel.slug ~ '.png') }}" x="{{ interest.position.x - 15 }}" y="{{ interest.position.y - 15}}" height="30px" width="30px" />
+	   <text class="legend" x="{{ interest.position.x }}" y="{{ interest.position.y + 16 }}">{{ interest.name }}</text>
     {% endfor %}
 {% endfor %}

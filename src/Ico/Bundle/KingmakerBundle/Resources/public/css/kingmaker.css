@@ -78,12 +78,17 @@ img.mapinteresticon {
     z-index: 1500;
 }
 [type=range].sliderY {
-    writing-mode: bt-lr; /* IE */
-    -webkit-appearance: slider-vertical; /* WebKit */
+    writing-mode: bt-lr;
+    -webkit-appearance: slider-vertical;
     width: 4px;
     display: inline-block;
     position: relative;
     z-index: 1500;
+    -webkit-transform: rotate(180deg);
+    -moz-transform: rotate(180deg);
+    -ms-transform: rotate(180deg);
+    -o-transform: rotate(180deg);
+    transform: rotate(180deg);
 }
 div.sliderHex {
     overflow: hidden;
@@ -92,4 +97,22 @@ div.sliderHex {
 }
 div.sliderHex > img.mapinteresticon {
     position: absolute;
+}
+svg .legend {
+    fill: black;
+    text-anchor: middle;
+    font-size: 10px;
+    text-shadow: 0 0 5px white;
+}
+.interestslist .panel-body {
+    position: relative;
+}
+.interestslist p {
+    font-size: 80%;
+    margin-left: 50px;
+}
+.interestslist .actions {
+    position: absolute;
+    right: 15px;
+    top: 15px;
 }

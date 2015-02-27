@@ -23,13 +23,13 @@ class Map
     private $id;
     
     /**
-     * @ORM\ManyToOne(targetEntity="MapModel", cascade={"remove"}, inversedBy="maps")
+     * @ORM\ManyToOne(targetEntity="MapModel", inversedBy="maps")
      * @ORM\JoinColumn(nullable=false)
      */
     private $mapModel;
     
     /**
-     * @ORM\ManyToOne(targetEntity="Campaign", cascade={"remove"}, inversedBy="maps")
+     * @ORM\ManyToOne(targetEntity="Campaign", inversedBy="maps")
      * @ORM\JoinColumn(nullable=false)
      */
     private $campaign;

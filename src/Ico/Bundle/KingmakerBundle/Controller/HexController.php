@@ -13,6 +13,44 @@ use Symfony\Component\Security\Core\Exception\AccessDeniedException;
 class HexController extends Controller {
 
     /**
+     * @Route("/kingmaker/map/interests", name="ico_kingmaker_map_interests", options={"expose"=true})
+     * @Template("IcoKingmakerBundle:Map:interests.html.twig")
+     */
+    public function interestsAction(Request $request) {
+
+        $id = $request->request->get('id');
+        $hex = $this->getDoctrine()
+                ->getRepository('IcoKingmakerBundle:Hex')
+                ->find($id);
+        if (!$hex) {
+            throw $this->createNotFoundException('Aucun hexagone trouvé pour cet id : ' . $id);
+        }
+
+        return array('map' => $hex->getMap());
+    }
+    
+    /**
+     * @Route("/kingmaker/map/interests_list", name="ico_kingmaker_map_interests_list", options={"expose"=true})
+     * @Template("IcoKingmakerBundle:Map:interestsList.html.twig")
+     */
+    public function interestsListAction(Request $request) {
+
+        $id = $request->request->get('id');
+        $hex = $this->getDoctrine()
+                ->getRepository('IcoKingmakerBundle:Hex')
+                ->find($id);
+        if (!$hex) {
+            throw $this->createNotFoundException('Aucun hexagone trouvé pour cet id : ' . $id);
+        }
+            
+        $mapInterests = $this->getDoctrine()
+            ->getRepository('IcoKingmakerBundle:MapInterest')
+            ->findByHex($hex);
+
+        return array('list' => $mapInterests);
+    }
+    
+    /**
      * @Route("/kingmaker/map/interests_list_modals", name="ico_kingmaker_map_interests_list_modals", options={"expose"=true})
      * @Template("IcoKingmakerBundle:Map:interestsListModals.html.twig")
      */
@@ -159,12 +197,8 @@ class HexController extends Controller {
             $interest->setPosition($position);
             $em->persist($interest);              
             $em->flush();
-            
-            $map = $this->getDoctrine()
-                ->getRepository('IcoKingmakerBundle:Map')
-                ->findByHex($interest->getHex());
 
-            return array('map' => $map);
+            return array('map' => $interest->getHex()->getMap());
         } catch (Exception $e) {
             echo 'Exception reçue : ', $e->getMessage(), "\n";
         }

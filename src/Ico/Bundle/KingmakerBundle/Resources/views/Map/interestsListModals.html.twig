@@ -36,18 +36,18 @@
                         </div>
                         <div class="form-group">
                             <label class="control-label" for="description{{ interest.id }}">Description</label>
-                            <input id="description{{ interest.id }}" type="text" class="form-control" name="description" placeholder="Détails complémentaires" maxlength="255" value="{{ interest.description }}" />
+                            <textarea id="description{{ interest.id }}" class="form-control" name="description" placeholder="Détails complémentaires" maxlength="255" rows="5">{{ interest.description|raw }}</textarea>
                         </div>
                         <div class="form-group">
                             <label class="control-label">Position</label>
                             <input class="sliderX" id="positionX{{ interest.id }}" type="range" name="positionX" value="{{ interest.position.x }}" max="{{ interest.hex.maxX }}" min="{{ interest.hex.minX }}" style="width: {{ interest.hex.width }}px;" />
-                            <input class="sliderY" id="positionY{{ interest.id }}" type="range" name="positionY" value="{{ interest.position.y }}" max="{{ interest.hex.maxY }}" min="{{ interest.hex.minY }}" style="height: {{ interest.hex.height }}px;" /><div class="sliderHex" style="width: {{ interest.hex.width }}px; height: {{ interest.hex.height }}px;" ><img src="{{ asset('bundles/icokingmaker/images/mapModel/' ~ interest.hex.map.mapModel.slug ~ '.jpg') }}" alt="Aperçu hexagone" style="margin-left: -{{ interest.hex.minX }}px; margin-top: -{{ interest.hex.minY }}px;" /><img class="mapinteresticon" src="{{ asset('bundles/icokingmaker/images/mapInterest/' ~ interest.mapInterestModel.slug ~ '.png') }}" alt="Icon {{ interest.mapInterestModel.name }}" style="left: {{ interest.position.x - interest.hex.minX - 15 }}px; bottom: {{ interest.position.y - interest.hex.minY - 15 }}px;" /></div>
+                            <input class="sliderY" id="positionY{{ interest.id }}" type="range" name="positionY" value="{{ interest.position.y }}" max="{{ interest.hex.maxY }}" min="{{ interest.hex.minY }}" style="height: {{ interest.hex.height }}px;" /><div class="sliderHex" style="width: {{ interest.hex.width }}px; height: {{ interest.hex.height }}px;" ><img src="{{ asset('bundles/icokingmaker/images/mapModel/' ~ interest.hex.map.mapModel.slug ~ '.jpg') }}" alt="Aperçu hexagone" style="margin-left: -{{ interest.hex.minX }}px; margin-top: -{{ interest.hex.minY }}px;" /><img class="mapinteresticon" src="{{ asset('bundles/icokingmaker/images/mapInterest/' ~ interest.mapInterestModel.slug ~ '.png') }}" alt="Icon {{ interest.mapInterestModel.name }}" style="left: {{ interest.position.x - interest.hex.minX - 15 }}px; top: {{ interest.position.y - interest.hex.minY - 15 }}px;" /></div>
                         </div>
                     </form>
                 </div>
                 <div class="modal-footer">
                     <button type="button" class="btn btn-default" data-dismiss="modal"><span class="fa fa-undo"></span> Annuler</button>
-                    <button type="button" class="btn btn-primary interestEdit" data-id="{{ interest.id }}"><span class="fa fa-check"></span> Enregistrer</button>
+                    <button type="button" class="btn btn-primary interestEdit" data-id="{{ interest.id }}" data-hex="{{ interest.hex.id }}"><span class="fa fa-check"></span> Enregistrer</button>
                 </div>
             </div><!-- /.modal-content -->
         </div><!-- /.modal-dialog -->

@@ -21,6 +21,30 @@ class MapModels implements FixtureInterface, OrderedFixtureInterface {
                    'nbCols' => 10,
                    'hexSide' => 89,
                ),
+               array(
+                   'name' => 'Les Hauts de Nomens',
+                   'description' => '',
+                   'start' => array('x' => -232, 'y' => -122),
+                   'nbLines' => 13,
+                   'nbCols' => 10,
+                   'hexSide' => 89,
+               ),
+               array(
+                   'name' => 'Le Marais de Crochelangue',
+                   'description' => '',
+                   'start' => array('x' => -228, 'y' => -129),
+                   'nbLines' => 13,
+                   'nbCols' => 10,
+                   'hexSide' => 89,
+               ),
+               array(
+                   'name' => 'Les Hautes Terres de Glenebon',
+                   'description' => '',
+                   'start' => array('x' => -235, 'y' => -133),
+                   'nbLines' => 13,
+                   'nbCols' => 10,
+                   'hexSide' => 89,
+               ),
            );
 
 	   foreach ($models as $data) {

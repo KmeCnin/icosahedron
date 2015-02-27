@@ -79,6 +79,9 @@ $(document).ready(function () {
             $.post(Routing.generate('ico_kingmaker_map_interests_list_modals'), {id: $(trigger).closest('.modal').attr('data-hex')}, function (interestsListModals) {
                 $(trigger).closest('.modal.modalHex').next('.interestslistmodals').html(interestsListModals);
             });
+		  $.post(Routing.generate('ico_kingmaker_map_interests'), {id: $(trigger).closest('.modal').attr('data-hex')}, function (interests) {
+                $('#interests').html(interests);
+            });
         });
     });
     // Suppression d'un point d'intérêt
@@ -90,25 +93,25 @@ $(document).ready(function () {
                 $(trigger).closest('.modal').modal('hide');
                 $(trigger).closest('.interestslistmodals').html(interestsListModals);
             });
+		  $.post(Routing.generate('ico_kingmaker_map_interests'), {id: $(trigger).attr('data-hex')}, function (interests) {
+                $('#interests').html(interests);
+            });
         });
     });
     // Sauvegarde de l'édition d'un point d'intérêt
     $('.interestslistmodals').on('click', 'button.interestEdit', function () {
         var trigger = this;
         var modal = $(trigger).closest('.modal');
-        var name = $(modal).find('[name=name]');
-        var description = $(modal).find('[name=description]');
-        var positionX = $(modal).find('[name=positionX]');
-        var positionY = $(modal).find('[name=positionY]');
-        $.post(Routing.generate('ico_kingmaker_interest_edit'), {
-            id: $(trigger).attr('data-id'),
-            name: name,
-            description: description,
-            positionX: positionX,
-            positionY: positionY
-        }, function (interests) {
+        var name = $(modal).find('[name=name]').val();
+        var description = $(modal).find('[name=description]').val();
+        var positionX = $(modal).find('[name=positionX]').val();
+        var positionY = $(modal).find('[name=positionY]').val();
+        $.post(Routing.generate('ico_kingmaker_interest_edit'), {id: $(trigger).attr('data-id'), name: name, description: description, positionX: positionX, positionY: positionY }, function (interests) {
             $('#interests').html(interests);
-            $(trigger).closest('.modal').modal('hide');
+		  $(trigger).closest('.modal').modal('hide');
+		  $.post(Routing.generate('ico_kingmaker_map_interests_list'), {id: $(trigger).attr('data-hex')}, function (interestsList) {
+                $(trigger).closest('.interestslistmodals').prev('.modal.modalHex').find('.interestslist').html(interestsList);
+            });
         });
     });
     
@@ -117,7 +120,7 @@ $(document).ready(function () {
         $(this).parent().find('.mapinteresticon').css('left', $(this).val()-$(this).attr('min')-15);
     });
     $('.interestslistmodals').on('change', '.sliderY', function() {
-        $(this).parent().find('.mapinteresticon').css('bottom', $(this).val()-$(this).attr('min')-15);
+        $(this).parent().find('.mapinteresticon').css('top', $(this).val()-$(this).attr('min')-15);
     });
 
 });
