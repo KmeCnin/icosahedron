@@ -1,7 +1,10 @@
 <?php
 
 use Symfony\Component\HttpKernel\Kernel;
-use Symfony\Component\Config\Loader\LoaderInterface;
+use Symfony\Component\Config\Loader\LoaderInterface; 
+
+// setting the default time zone
+date_default_timezone_set('Europe/Paris');
 
 class AppKernel extends Kernel {
 
