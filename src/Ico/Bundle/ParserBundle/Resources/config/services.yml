@@ -1,0 +1,6 @@
+services:
+    ico.parser.services.fixtures_manager:
+        class: Ico\Bundle\ParserBundle\Services\FixturesManager
+        arguments: [ "@ico.parser.services.truncator_manager" ]
+    ico.parser.services.truncator_manager:
+        class: Ico\Bundle\ParserBundle\Services\TruncatorManager
