@@ -4,12 +4,16 @@ namespace Ico\Bundle\ParserBundle\Services;
 
 use Ico\Bundle\ParserBundle\Services\TruncatorManager;
 
-class FixturesManager {
+class RulesManager {
     
     protected $truncator_manager;
     
-    public function __construct(TruncatorManager $truncator_manager) {
-        $this->truncator_manager = $truncator_manager;
+    public function __construct() {
+        $this->truncator_manager = new TruncatorManager();
+    }
+    
+    public function getAllRules() {
+	   
     }
 
     public function truncateTable($target) {
