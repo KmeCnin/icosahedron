@@ -61,7 +61,7 @@ EOT
         
         $this->defineOptions($input);
         $this->output = $output;
-        $fixtures_manager = $this->get('ico.parser.services.fixtures_manager');
+        $databaseExporter = $this->get('ico.parser.services.database_exporter');
         
         
     }
