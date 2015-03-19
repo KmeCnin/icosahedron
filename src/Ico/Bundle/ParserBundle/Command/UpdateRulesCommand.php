@@ -17,7 +17,7 @@ use Ico\Bundle\RulesBundle\Entity\SpellListLevel;
 use Ico\Bundle\RulesBundle\Entity\BattleTime;
 use Ico\Bundle\RulesBundle\Entity\Link;
 
-use Ico\Bundle\ParserBundle\Controller\FixturesController;
+use Ico\Bundle\ParserBundle\Services\DatabaseExporter;
 
 class UpdateRulesCommand extends ContainerAwareCommand {
 
@@ -61,7 +61,10 @@ EOT
         
         $this->defineOptions($input);
         $this->output = $output;
+	   
+	   /* @var $databaseExporter DatabaseExporter */
         $databaseExporter = $this->get('ico.parser.services.database_exporter');
+	   $databaseExporter->export(DatabaseFormater::XML);
         
         
     }

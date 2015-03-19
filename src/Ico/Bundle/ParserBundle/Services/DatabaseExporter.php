@@ -2,35 +2,27 @@
 
 namespace Ico\Bundle\ParserBundle\Services;
 
-use Ico\Bundle\ParserBundle\Interfaces\DatabaseFormater;
+use Ico\Bundle\ParserBundle\Services\DatabaseFormater;
 
 class DatabaseExporter {
 
     protected $em;
-    protected $databaseFormater;
     protected $entities;
     protected $bundle;
+    protected $databaseFormater;
     
-    public function __construct(EntityManager $entityManager) {
+    public function __construct(EntityManager $entityManager, DatabaseFormater $databaseFormater) {
         $this->em = $entityManager;
-        $this->bundle = 'IcoRulesBundle';
+        $this->databaseFormater = $databaseFormater;
+        $this->setBundle('IcoRulesBundle');
     }
     
-    /**
-     * Défini un objet en charge de formater les données issues de la BDD.
-     * Il doit s'agir d'un objet qui extends l'interface DatabaseFormater
-     * 
-     * @param DatabaseFormater $databaseFormater
-     */
-    public function setDatabaseFormater(DatabaseFormater $databaseFormater) {
-	   $this->databaseFormater = $databaseFormater;
-    }
-    
-    public function export() {
+    public function export($format = DatabaseFormater::XML) {
+	   $this->databaseFormater->setFormat($format);
 	   foreach($this->entities as $entity) {
 		  $repository = $this->getDoctrine()->getRepository($this->bundle.':'.$entity);
 		  $entries = $repository->findAll();
-		  $this->databaseFormater->format($entries);
+		  $entries_converted = $this->databaseFormater->convert($entries);
 	   }
     }
     
@@ -71,5 +63,14 @@ class DatabaseExporter {
 	   $meta = $this->em->getMetadataFactory()->getMetadataFor($entity);
 	   return $this->em->getMetadataFactory()->isEntity($meta);
     }
-
+    
+    /**
+     * @param string $bundle
+     */
+    public function setBundle(EncoderInterface $bundle) {
+	   if (!array_key_exists($bundle, $this->container->getParameter('kernel.bundles'))) {
+		  throw new InvalidArgumentException('Le bundle '.$bundle.' n\'éxiste pas.');
+	   }
+	   $this->bundle = $bundle;
+    }
 }
