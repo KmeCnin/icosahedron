@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<response><id>372</id><nameId>halfelin-porte-chance</nameId><name>Halfelin porte-chance</name><description>Le personnage porte chance &#xE0; ses compagnons de voyage.</description><benefit><![CDATA[<div> Une fois par jour, lorsqu’un des alliés du personnage rate un <a class="pagelink" href="Pathfinder-RPG.jet%20de%20sauvegarde.ashx" title="jet de sauvegarde">jet de sauvegarde</a> alors qu’il se trouve à au plus 9 mètres (6 cases) du personnage, ce dernier (le personnage donc) peut tenter d’effectuer le même jet de sauvegarde, comme s’il était la cible de l’effet associé. Le personnage doit utiliser cette capacité après que son allié a effectué son jet de sauvegarde mais avant que le MJ n’ait déclaré s’il s’agissait d’une réussite ou d’un échec. L’allié peut alors choisir d’utiliser le résultat du personnage au lieu du sien.
+
+	</div>]]></benefit><slug>halfelin-porte-chance</slug></response>

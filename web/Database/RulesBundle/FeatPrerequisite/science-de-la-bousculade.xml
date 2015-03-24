@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<response><id>170</id><name>Science de la bousculade</name><link>{{ROOT}}/r%C3%A8gles-pathfinder/dons/586/science-de-la-bousculade</link><feat><id>83</id><nameId>bousculade-rapide</nameId><name>Bousculade rapide</name><description>Le personnage se jette sur ses adversaires avant de les attaquer.</description><benefit><![CDATA[<div> Le personnage peut, à son tour, faire une unique manœuvre offensive de <a class="pagelink" href="Pathfinder-RPG.bousculade.ashx" title="bousculade">bousculade</a> au lieu d’une de ses attaques de corps à corps. Il doit choisir celle qui possède le meilleur bonus.<br><br><b>Normal.</b> Une bousculade est une <a class="pagelink" href="Pathfinder-RPG.action%20simple.ashx" title="Action simple">action simple</a>.
+
+	</div>]]></benefit><slug>bousculade-rapide</slug></feat><slug>science-de-la-bousculade</slug></response>

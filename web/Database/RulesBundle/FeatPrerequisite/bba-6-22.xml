@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<response><id>1002</id><name>BBA +6</name><link></link><feat><id>440</id><nameId>marteler-la-faille</nameId><name>Marteler la faille</name><description>Le personnage s&#x2019;acharne &#xE0; frapper au m&#xEA;me endroit pour augmenter ses d&#xE9;g&#xE2;ts. </description><benefit><![CDATA[<div> Quand le personnage fait une <a class="pagelink" href="Pathfinder-RPG.attaque%20%c3%a0%20outrance.ashx" title="attaque à outrance">attaque à outrance</a>, chaque coup qui touche le même adversaire inflige un montant de dégâts supplémentaires égal au nombre de coups que le personnage a déjà porté à cette cible au cours de ce tour. On multiplie ces dégâts en cas de <a class="pagelink" href="Pathfinder-RPG.coup%20critique.ashx" title="coup critique">coup critique</a>.
+
+	</div>]]></benefit><slug>marteler-la-faille</slug></feat><slug>bba-6-22</slug></response>

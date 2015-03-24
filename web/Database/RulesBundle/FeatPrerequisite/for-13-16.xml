@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<response><id>610</id><name>For 13</name><link></link><feat><id>270</id><nameId>encha&#xEE;nement-final</nameId><name>Encha&#xEE;nement final</name><description>Quand le personnage terrasse un adversaire, sa lame poursuit son mouvement et atteint une autre cible.</description><benefit><![CDATA[<div> Si le personnage fait une attaque au corps à corps et que sa cible tombe à 0 <a class="pagelink" href="Pathfinder-RPG.pv.ashx" title="pv">point de vie</a> ou moins à cause d’elle, il peut faire une autre attaque de corps à corps avec son meilleur <a class="pagelink" href="Pathfinder-RPG.BBA.ashx" title="BBA">bonus de base à l’attaque</a> contre un adversaire situé à portée. Ce don permet seulement une attaque supplémentaire par round.
+
+	</div>]]></benefit><slug>enchainement-final</slug></feat><slug>for-13-16</slug></response>

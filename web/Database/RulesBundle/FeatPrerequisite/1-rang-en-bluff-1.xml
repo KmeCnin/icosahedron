@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<response><id>1136</id><name>1 rang en Bluff</name><link></link><feat><id>489</id><nameId>partenaire-de-feinte</nameId><name>Partenaire de feinte</name><description>Le personnage a juste besoin d&#x2019;une petite diversion pour franchir les d&#xE9;fenses de son adversaire. </description><benefit><![CDATA[<div> Quand un allié du personnage (qui possède aussi ce don) réussit à faire une <a class="pagelink" href="Pathfinder-RPG.feinte.ashx" title="feinte">feinte</a>, son adversaire perd aussi son bonus de <a class="pagelink" href="Pathfinder-RPG.Dext%c3%a9rit%c3%a9.ashx" title="La Dextérité">Dextérité</a> à la <a class="pagelink" href="Pathfinder-RPG.CA.ashx" title="CA">CA</a> contre la prochaine attaque du personnage, à condition qu’elle se produise avant la fin du prochain tour de l’allié.
+
+	</div>]]></benefit><slug>partenaire-de-feinte</slug></feat><slug>1-rang-en-bluff-1</slug></response>

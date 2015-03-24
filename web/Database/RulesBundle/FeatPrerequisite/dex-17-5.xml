@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<response><id>1780</id><name>Dex 17</name><link></link><feat><id>781</id><nameId>&#xE9;ventration-&#xE0;-deux-armes</nameId><name>&#xC9;ventration &#xE0; deux armes</name><description>En frappant simultan&#xE9;ment avec ses deux armes, le personnage cause de terrifiantes blessures.</description><benefit><![CDATA[<div> Si le personnage touche son adversaire avec ses deux armes, il lui inflige 1d10 points de dégâts supplémentaires plus 1,5 fois son modificateur de <a class="pagelink" href="Pathfinder-RPG.Force.ashx" title="La Force">Force</a>. Le personnage ne peut faire de tels dégâts qu’une fois par <a class="pagelink" href="Pathfinder-RPG.round.ashx" title="round">round</a>.
+
+	</div>]]></benefit><slug>eventration-a-deux-armes</slug></feat><slug>dex-17-5</slug></response>

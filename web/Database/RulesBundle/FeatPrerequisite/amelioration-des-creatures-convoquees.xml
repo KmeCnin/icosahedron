@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<response><id>359</id><name>Am&#xE9;lioration des cr&#xE9;atures convoqu&#xE9;es</name><link>{{ROOT}}/r%C3%A8gles-pathfinder/dons/12/amelioration-des-creatures-convoquees</link><feat><id>161</id><nameId>convocation-sup&#xE9;rieure</nameId><name>Convocation sup&#xE9;rieure</name><description>Le personnage peut invoquer plus de cr&#xE9;atures. </description><benefit><![CDATA[<div> À chaque fois que le personnage lance un sort de <a class="pagelink" href="Pathfinder-RPG.Pr%c3%a9sentation%20des%20sorts.ashx#CONVOCATION" title="Présentation des sorts">convocation</a> qui appelle plus d’une créature, il en convoque une de plus.
+
+	</div>]]></benefit><slug>convocation-superieure</slug></feat><slug>amelioration-des-creatures-convoquees</slug></response>

@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<response><id>880</id><name>S&#xE9;r&#xE9;nit&#xE9;</name><link></link><feat><id>376</id><nameId>h&#xE9;ritage-monastique</nameId><name>H&#xE9;ritage monastique</name><description>L&#x2019;entra&#xEE;nement rigoureux que le personnage a suivi pour le combat &#xE0; mains nues l&#x2019;aide &#xE0; optimiser son entra&#xEE;nement dans d&#x2019;autres domaines. </description><benefit><![CDATA[<div> Quand le personnage détermine son <a class="pagelink" href="Pathfinder-RPG.niveau.ashx" title="niveau">niveau</a> de <a class="pagelink" href="Pathfinder-RPG.moine.ashx" title="Le moine">moine</a> effectif pour calculer ses dégâts à mains nues, il ajoute à ses niveaux de moine la moitié de ses niveaux dans d’autres classes. Ce don ne permet pas de bénéficier des niveaux autres que moine pour déterminer les autres pouvoirs de cette classe.
+
+	</div>]]></benefit><slug>heritage-monastique</slug></feat><slug>serenite</slug></response>

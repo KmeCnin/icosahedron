@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<response><id>1606</id><name>&#xC9;cole renforc&#xE9;e (Transmutation)</name><link></link><feat><id>710</id><nameId>transmutation-tenace</nameId><name>Transmutation tenace</name><description>Le personnage ma&#xEE;trise la magie du changement et, de ce fait, ses transmutations sont plus durables que la moyenne.</description><benefit><![CDATA[<div> Le <a class="pagelink" href="Pathfinder-RPG.DD.ashx" title="DD">DD</a> des tests de <a class="pagelink" href="Pathfinder-RPG.NLS.ashx" title="NLS">NLS</a> pour dissiper ou annuler une transmutation lancée par le personnage augmente de +2. De plus, même si le sort est annulé, ses effets persistent pendant 1 round de plus avant d’être dissipés.
+
+	</div>]]></benefit><slug>transmutation-tenace</slug></feat><slug>ecole-renforcee-transmutation</slug></response>

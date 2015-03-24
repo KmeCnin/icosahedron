@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<response><id>1153</id><name>Connaissance sup&#xE9;rieure de la pierre</name><link>{{ROOT}}/r%C3%A8gles-pathfinder/dons/153/connaissance-superieure-de-la-pierre</link><feat><id>496</id><nameId>perception-via-la-pierre</nameId><name>Perception via la pierre</name><description>Le personnage peut sentir les mouvements via la terre et les pierres qui l&#x2019;entourent.</description><benefit><![CDATA[<div> Le personnage gagne la capacité de <a class="pagelink" href="Pathfinder-RPG.perception%20des%20vibrations.ashx" title="Perception des vibrations">perception des vibrations</a> sur une portée de 3 mètres (2 cases).
+
+	</div>]]></benefit><slug>perception-via-la-pierre</slug></feat><slug>connaissance-superieure-de-la-pierre</slug></response>

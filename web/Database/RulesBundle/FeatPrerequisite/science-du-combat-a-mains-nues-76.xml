@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<response><id>1750</id><name>Science du combat &#xE0; mains nues</name><link>{{ROOT}}/r%C3%A8gles-pathfinder/dons/614/science-du-combat-a-mains-nues</link><feat><id>774</id><nameId>&#xE9;tourdir-limmobile</nameId><name>&#xC9;tourdir limmobile</name><description>Le personnage met temporairement hors de combat un adversaire immobilis&#xE9;.</description><benefit><![CDATA[<div> Quand le personnage immobilise un adversaire, il peut utiliser une <a class="pagelink" href="Pathfinder-RPG.action%20rapide.ashx" title="Action rapide">action rapide</a> pour faire une tentative de <a class="pagelink" href="Pathfinder-RPG.Coup%20%c3%a9tourdissant.ashx" title="Coup étourdissant">Coup étourdissant</a> contre lui.
+
+	</div>]]></benefit><slug>etourdir-limmobile</slug></feat><slug>science-du-combat-a-mains-nues-76</slug></response>

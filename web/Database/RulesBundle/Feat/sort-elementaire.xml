@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<response><id>657</id><nameId>sort-&#xE9;l&#xE9;mentaire</nameId><name>Sort &#xE9;l&#xE9;mentaire</name><description>Le personnage peut manipuler la nature &#xE9;l&#xE9;mentaire des sorts.</description><benefit><![CDATA[<div> Choisissez un type d’énergie parmi acide, électricité, feu ou froid. Le personnage peut transformer les dégâts normaux d’un sort en dégâts de ce type d’énergie ou les diviser de sorte que le sort produise 50 % de dégâts de ce type d’énergie et 50 % de dégâts du type normal. Un sort élémentaire utilise un <a class="pagelink" href="Pathfinder-RPG.emplacement%20de%20sort.ashx" title="emplacement de sort">emplacement de sort</a> d’un niveau de plus que le niveau normal du sort.<br><br><b>Spécial.</b> Le personnage peut acquérir ce don plusieurs fois. Ses effets ne se cumulent pas. Chaque fois qu’il gagne ce don, il s’applique à un type d’énergie différent.
+
+	</div>]]></benefit><slug>sort-elementaire</slug></response>

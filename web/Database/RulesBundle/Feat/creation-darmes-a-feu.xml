@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<response><id>211</id><nameId>cr&#xE9;ation-darmes-&#xE0;-feu</nameId><name>Cr&#xE9;ation d'armes &#xE0; feu</name><description>Le personnage sait r&#xE9;parer et restaurer les armes &#xE0; feu.</description><benefit><![CDATA[<div> Si le personnage a accès à une trousse d’armurier, il peut créer ou restaurer des armes à feu, fabriquer des balles et mélanger de la poudre noire pour toutes les armes à feu.
+Pour cela, il n’a pas besoin de faire de test d’<a class="pagelink" href="Pathfinder-RPG.Artisanat.ashx" title="Artisanat">Artisanat</a>. 
+<ul>
+<li>
+<i>Fabriquer une arme à feu.</i> Le personnage fabrique toutes les armes à feu rudimentaires pour la moitié de leur prix habituel en matériaux bruts. Si le MJ est d’accord, il peut également fabriquer des armes à feu évoluées pour la moitié de leur prix habituel en matériaux bruts. Cette méthode de fabrication demande une journée de travail par tranche de 1.000 po du prix de l’arme (1 jour au minimum).</li>
+<li>
+<i>Fabriquer des munitions.</i> Le personnage fabrique des balles, des plombs et de la poudre noire pour 10% (en composantes brutes) du prix habituel. S’il possède au moins 1 rang en <a class="pagelink" href="Pathfinder-RPG.Artisanat.ashx" title="Artisanat">Artisanat</a> (alchimie), il peut fabriquer une cartouche alchimique pour un coût en composantes brutes égal à la moitié de son prix. Si le MJ est d’accord, il peut fabriquer des cartouches alchimiques métalliques pour un coût en composantes brutes égal à la moitié de leur prix. Cette méthode de fabrication demande une journée de travail par tranche de 1 000 po de munition (1 jour au minimum).</li>
+<li>
+<i>Restaurer une arme à feu brisée.</i> Chaque jour, le personnage peut utiliser ce don pour consacrer une heure à la réparation d’une arme à feu <a class="pagelink" href="Pathfinder-RPG.bris%c3%a9.ashx" title="Brisé">brisée</a>. Il peut profiter d’une période de repos pour réparer l’arme.<br>
+</li>
+</ul>
+<br><b>Spécial.</b> Si le personnage est <a class="pagelink" href="Pathfinder-RPG.pistolier.ashx" title="Pistolier">pistolier</a>, ce don permet de réparer et de restaurer la première arme usée qu’il a reçue. Il lui faut 300 po et 1 journée de travail pour en faire une <a class="pagelink" href="Pathfinder-RPG.arme%20de%20ma%c3%aetre.ashx" title="arme de maître">arme de maître</a> de même type.
+
+	</div>]]></benefit><slug>creation-darmes-a-feu</slug></response>

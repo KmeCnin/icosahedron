@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<response><id>331</id><name>D&#xE9;monstration</name><link>{{ROOT}}/r%C3%A8gles-pathfinder/dons/252/demonstration</link><feat><id>144</id><nameId>combattant-de-spectacle</nameId><name>Combattant de spectacle</name><description>Le personnage consid&#xE8;re tous les combats comme un spectacle et fait preuve de panache et d&#x2019;un art de la mise en sc&#xE8;ne consomm&#xE9;.</description><benefit><![CDATA[<div> Le personnage peut faire un test de combat de spectacle lors de n’importe quel combat. Quand il ne s’agit pas d’un combat de spectacle, il choisit un seul don. Il gagne automatiquement tous les bonus qu’accorde le don avant de faire le test de spectacle avec un <a class="pagelink" href="Pathfinder-RPG.DD.ashx" title="DD">DD</a> 20. S’il réussit, il bénéficie de la totalité des effets du don choisi.
+
+	</div>]]></benefit><slug>combattant-de-spectacle</slug></feat><slug>demonstration-1</slug></response>

@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<response><id>1109</id><name>Cha 13</name><link></link><feat><id>477</id><nameId>m&#xE9;tamagie-spontan&#xE9;e</nameId><name>M&#xE9;tamagie spontan&#xE9;e</name><description>Le personnage peut combiner un sort connu et un don de m&#xE9;tamagie. </description><benefit><![CDATA[<div> Le personnage choisit un unique sort qu’il est capable de lancer spontanément. Quand il lui applique un <a class="pagelink" href="Pathfinder-RPG.dons.ashx#METAMAGIE" title="Les dons">don de métamagie</a>, il peut le lancer avec un temps d’incantation normal, sans ralentissement.<br><br><b>Spécial.</b> Le personnage peut choisir ce don à plusieurs reprises. À chaque fois, il choisit un nouveau sort spontané qu’il peut lancer. Le don s’appliquera à ce sort.
+
+	</div>]]></benefit><slug>metamagie-spontanee</slug></feat><slug>cha-13-16</slug></response>

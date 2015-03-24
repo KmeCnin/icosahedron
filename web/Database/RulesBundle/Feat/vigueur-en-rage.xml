@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<response><id>726</id><nameId>vigueur-en-rage</nameId><name>Vigueur en rage</name><description>Lorsque le personnage est en rage, il est plein de vigueur.</description><benefit><![CDATA[<div> Chaque fois que le personnage est en rage, le bonus de moral qui affecte sa <a class="pagelink" href="Pathfinder-RPG.Constitution.ashx" title="La Constitution">Constitution</a> augmente de +2. La rage ne se termine pas automatiquement s’il tombe <a class="pagelink" href="Pathfinder-RPG.inconscient.ashx" title="Inconscient">inconscient</a> : tant qu’il est inconscient, il doit dépenser un round de son quota quotidien de rage chaque round.
+
+	</div>]]></benefit><slug>vigueur-en-rage</slug></response>

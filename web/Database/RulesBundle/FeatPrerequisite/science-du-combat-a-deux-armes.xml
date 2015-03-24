@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<response><id>326</id><name>Science du combat &#xE0; deux armes</name><link>{{ROOT}}/r%C3%A8gles-pathfinder/dons/613/science-du-combat-a-deux-armes</link><feat><id>141</id><nameId>combat-&#xE0;-deux-armes-sup&#xE9;rieur</nameId><name>Combat &#xE0; deux armes sup&#xE9;rieur</name><description>Le personnage est incroyablement dou&#xE9; pour se battre avec deux armes &#xE0; la fois.</description><benefit><![CDATA[<div> Le personnage a droit à une troisième attaque avec son arme secondaire mais avec un malus de -10.
+
+	</div>]]></benefit><slug>combat-a-deux-armes-superieur</slug></feat><slug>science-du-combat-a-deux-armes</slug></response>

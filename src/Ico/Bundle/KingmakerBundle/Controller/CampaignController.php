@@ -194,7 +194,7 @@ class CampaignController extends Controller {
             throw new AccessDeniedException();
         }
 
-        $em = $this->getDoctrine()->getEntityManager();
+        $em = $this->getDoctrine()->getManager();
         $em->remove($campaign);
         $em->flush();
         

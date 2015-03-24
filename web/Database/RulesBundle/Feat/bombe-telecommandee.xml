@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<response><id>74</id><nameId>bombe-t&#xE9;l&#xE9;command&#xE9;e</nameId><name>Bombe t&#xE9;l&#xE9;command&#xE9;e</name><description>Le personnage peut d&#xE9;clencher ses bombes &#xE0; retardement &#xE0; grande distance. </description><benefit><![CDATA[<div> Le délai maximal des bombes à retardement passe à un nombre de minutes égal au niveau du personnage. S’il a sa bombe à retardement en ligne de mire, il peut la faire exploser en avance sur l’instant prévu en réussissant un test d’<a class="pagelink" href="Pathfinder-RPG.Intelligence.ashx" title="L'Intelligence">Intelligence</a> <a class="pagelink" href="Pathfinder-RPG.DD.ashx" title="DD">DD</a> 20.<br><br>Le <a class="pagelink" href="Pathfinder-RPG.DD.ashx" title="DD">DD</a> augmente de +1 pour chaque tranche de 3 mètres (2 <abbr title="cases">c</abbr>) qui sépare le personnage de sa bombe.
+
+	</div>]]></benefit><slug>bombe-telecommandee</slug></response>

@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<response><id>691</id><name>pouvoir magique travers&#xE9;e des ombres</name><link></link><feat><id>305</id><nameId>fant&#xF4;me-dombre</nameId><name>Fant&#xF4;me d'ombre</name><description>Le fetchelin peut se d&#xE9;placer plus souvent entre le plan de l&#x2019;Ombre et le plan Mat&#xE9;riel.</description><benefit><![CDATA[<div> Le fetchelin gagne la capacité à utiliser traversée des ombres une fois de plus par jour.<br><br><b>Spécial.</b> Le fetchelin peut prendre ce don plusieurs fois. Ses effets se cumulent.
+
+	</div>]]></benefit><slug>fantome-dombre</slug></feat><slug>pouvoir-magique-traversee-des-ombres</slug></response>

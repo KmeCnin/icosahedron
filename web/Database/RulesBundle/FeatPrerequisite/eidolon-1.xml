@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<response><id>599</id><name>Eidolon</name><link></link><feat><id>266</id><nameId>eidolon-vigilant</nameId><name>Eidolon vigilant</name><description>L&#x2019;eidolon du personnage est tr&#xE8;s observateur et le lien qu&#x2019;il entretient avec lui augmente la vigilance de son ma&#xEE;tre. </description><benefit><![CDATA[<div> Tant que l’eidolon est à portée du personnage, ce dernier gagne un bonus de +4 aux tests de <a class="pagelink" href="Pathfinder-RPG.Perception.ashx" title="Perception">Perception</a>. S’il possède 10 rangs ou plus dans cette compétence, le bonus passe à +8. Ce don ne fonctionne pas si l’eidolon est <a class="pagelink" href="Pathfinder-RPG.sans%20d%c3%a9fense.ashx" title="Sans défense">sans défense</a> ou <a class="pagelink" href="Pathfinder-RPG.inconscient.ashx" title="Inconscient">inconscient</a>.
+
+	</div>]]></benefit><slug>eidolon-vigilant</slug></feat><slug>eidolon-1</slug></response>

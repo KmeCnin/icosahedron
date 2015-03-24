@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<response><id>127</id><nameId>charge-radieuse</nameId><name>Charge radieuse</name><description>Quand le personnage charge, il le fait avec toute la puissance de sa foi. </description><benefit><![CDATA[<div> Quand le personnage réussit une attaque de <a class="pagelink" href="Pathfinder-RPG.charge.ashx" title="charge">charge</a>, il peut dépenser toutes les impositions des mains qui lui restent pour infliger des dégâts supplémentaires égaux à 1d6 par imposition dépensée + modificateur de <a class="pagelink" href="Pathfinder-RPG.Charisme.ashx" title="Le Charisme">Charisme</a>.<br><br>Ces dégâts viennent de la puissance sacrée et ne sont pas soumis à la <a class="pagelink" href="Pathfinder-RPG.RD.ashx" title="RD">réduction de dégâts</a>, aux <a class="pagelink" href="Pathfinder-RPG.immunit%c3%a9.ashx" title="Immunité">immunités</a> contre les énergies, ni aux résistances.
+
+	</div>]]></benefit><slug>charge-radieuse</slug></response>

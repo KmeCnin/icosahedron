@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<response><id>1296</id><name>Sorci&#xE8;re de niveau 10</name><link></link><feat><id>570</id><nameId>r&#xE9;partition-des-mal&#xE9;fices</nameId><name>R&#xE9;partition des mal&#xE9;fices</name><description>Le personnage peut diviser les effets d&#x2019;un mal&#xE9;fice qui cible une cr&#xE9;ature et en affecter une autre situ&#xE9;e dans son champ de vision. </description><benefit><![CDATA[<div> Quand le personnage utilise un de ses <a class="pagelink" href="Pathfinder-RPG.mal%c3%a9fices.ashx" title="Les maléfices de sorcières">maléfices</a> (pas un majeur ni un grand) qui vise une unique créature, il peut en choisir une seconde située à moins de 9 mètres (6 <abbr title="cases">c</abbr>) de la première. Elle sera aussi affectée par le maléfice.
+
+	</div>]]></benefit><slug>repartition-des-malefices</slug></feat><slug>sorciere-de-niveau-10</slug></response>

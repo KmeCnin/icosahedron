@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<response><id>860</id><name>Canalisation</name><link></link><feat><id>368</id><nameId>guide-divin</nameId><name>Guide divin</name><description>Le dieu du personnage b&#xE9;nit chaque coup qu&#x2019;il porte avec son [[Arme de pr&#xE9;dilection]]. </description><benefit><![CDATA[<div> Quand le personnage manie l’arme de prédilection de son dieu, il peut utiliser son modificateur de <a class="pagelink" href="Pathfinder-RPG.Sagesse.ashx" title="La Sagesse">Sagesse</a> au lieu de son modificateur de <a class="pagelink" href="Pathfinder-RPG.Force.ashx" title="La Force">Force</a> ou de <a class="pagelink" href="Pathfinder-RPG.Dext%c3%a9rit%c3%a9.ashx" title="La Dextérité">Dextérité</a> aux <a class="pagelink" href="Pathfinder-RPG.jet%20dattaque.ashx" title="jet dattaque">jets d’attaque</a>.
+
+	</div>]]></benefit><slug>guide-divin</slug></feat><slug>canalisation-1</slug></response>

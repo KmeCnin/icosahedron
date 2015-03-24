@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<response><id>781</id><name>expertise martiale</name><link></link><feat><id>340</id><nameId>frappe-ondoyante</nameId><name>Frappe ondoyante</name><description>Le personnage garde une attitude sereine jusqu&#x2019;&#xE0; ce qu&#x2019;il tire son arme et frappe d&#x2019;un mouvement fluide. </description><benefit><![CDATA[<div> Si le personnage dégaine une arme de corps à corps pour attaquer un ennemi à portée au premier round de combat, il peut dépenser une <a class="pagelink" href="Pathfinder-RPG.action%20rapide.ashx" title="Action rapide">action rapide</a> pour faire un test de <a class="pagelink" href="Pathfinder-RPG.Bluff.ashx" title="Bluff">Bluff</a> contre cet ennemi.
+
+	</div>]]></benefit><slug>frappe-ondoyante</slug></feat><slug>expertise-martiale</slug></response>

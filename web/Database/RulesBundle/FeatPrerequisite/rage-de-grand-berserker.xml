@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<response><id>384</id><name>Rage de grand berserker</name><link></link><feat><id>170</id><nameId>coup-de-gr&#xE2;ce-de-lenrag&#xE9;</nameId><name>Coup de gr&#xE2;ce de l&#x2019;enrag&#xE9;</name><description>Chaque coup de gr&#xE2;ce ravive la vitalit&#xE9; du personnage et alimente sa rage.</description><benefit><![CDATA[<div> Le personnage gagne 1 round de rage quotidien supplémentaire à chaque fois qu’il fait tomber un adversaire à -1 <a class="pagelink" href="Pathfinder-RPG.pv.ashx" title="pv">point de vie</a> ou moins alors qu’il est enragé. Si l’attaque était, en plus, un <a class="pagelink" href="Pathfinder-RPG.coup%20critique.ashx" title="coup critique">coup critique</a>, il gagne un autre round de plus. Il perd ces rounds de rage supplémentaires quand il se repose pour renouveler son total de rounds quotidiens.
+
+	</div>]]></benefit><slug>coup-de-grace-de-lenrage</slug></feat><slug>rage-de-grand-berserker</slug></response>

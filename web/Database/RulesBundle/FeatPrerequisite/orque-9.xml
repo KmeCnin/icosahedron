@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<response><id>796</id><name>orque</name><link></link><feat><id>346</id><nameId>frisson-de-la-mort</nameId><name>Frisson de la mort</name><description>Les meurtres du personnage alimentent sa rage.</description><benefit><![CDATA[<div> Quand le personnage est enragé et que ses attaques font tomber un ennemi en dessous de 0 <a class="pagelink" href="Pathfinder-RPG.pv.ashx" title="pv">point de vie</a> ou le tuent, il récupère 1 round de rage. En revanche, il peut utiliser ce don uniquement si son ennemi a au moins autant de <a class="pagelink" href="Pathfinder-RPG.DV.ashx" title="DV">DV</a> que lui. Il ne peut bénéficier de ce don qu’une fois par round.
+
+	</div>]]></benefit><slug>frisson-de-la-mort</slug></feat><slug>orque-9</slug></response>

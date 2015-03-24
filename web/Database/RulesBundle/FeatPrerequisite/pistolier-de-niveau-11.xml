@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<response><id>678</id><name>pistolier de niveau 11</name><link></link><feat><id>295</id><nameId>exploit-sign&#xE9;</nameId><name>Exploit sign&#xE9;</name><description>Le personnage est connu pour privil&#xE9;gier un exploit donn&#xE9; pour lequel il est particuli&#xE8;rement dou&#xE9;.</description><benefit><![CDATA[<div> Le personnage choisit un exploit de sa connaissance qui nécessite une dépense d’audace. Il peut l’accomplir pour 1 point d’audace de moins (0 au minimum). Si cela fait passer la dépense à 0, il peut faire cet exploit en faisant uniquement l’action requise tant qu’il possède encore au moins 1 point d’audace.
+
+	</div>]]></benefit><slug>exploit-signe</slug></feat><slug>pistolier-de-niveau-11</slug></response>

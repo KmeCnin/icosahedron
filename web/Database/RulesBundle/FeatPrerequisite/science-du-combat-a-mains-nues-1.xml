@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<response><id>63</id><name>Science du combat &#xE0; mains nues</name><link>{{ROOT}}/r%C3%A8gles-pathfinder/dons/614/science-du-combat-a-mains-nues</link><feat><id>35</id><nameId>artiste-du-ko</nameId><name>Artiste du KO</name><description>Le personnage peut mettre des coups de poing d&#xE9;vastateurs.</description><benefit><![CDATA[<div> Quand le personnage fait une attaque non létale à mains nues et inflige des dégâts d’attaque sournoise à un adversaire qui a perdu son bonus de <a class="pagelink" href="Pathfinder-RPG.Dext%c3%a9rit%c3%a9.ashx" title="La Dextérité">Dextérité</a> à la <a class="pagelink" href="Pathfinder-RPG.CA.ashx" title="CA">CA</a>, il gagne un bonus de +1 au jet de dégâts pour chaque dé d’attaque sournoise qu’il lance.
+
+	</div>]]></benefit><slug>artiste-du-ko</slug></feat><slug>science-du-combat-a-mains-nues-1</slug></response>

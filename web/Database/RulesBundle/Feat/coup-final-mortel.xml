@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<response><id>177</id><nameId>coup-final-mortel</nameId><name>Coup final mortel</name><description>Les adversaires du personnage ne font pas que tomber sous ses coups, ils en meurent sur-le-champ.</description><benefit><![CDATA[<div> Quand le personnage touche un adversaire avec une attaque au corps à corps et le réduit à -1 <a class="pagelink" href="Pathfinder-RPG.pv.ashx" title="pv">point de vie</a> ou moins, il peut l’obliger à faire un jet de <a class="pagelink" href="Pathfinder-RPG.Vigueur.ashx" title="Vigueur">Vigueur</a> (<a class="pagelink" href="Pathfinder-RPG.DD.ashx" title="DD">DD</a>15 + dégâts de l’attaque). S’il échoue, il meurt.
+
+	</div>]]></benefit><slug>coup-final-mortel</slug></response>

@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<response><id>668</id><nameId>subtilisation-sup&#xE9;rieure</nameId><name>Subtilisation sup&#xE9;rieure</name><description>Le personnage est dou&#xE9; lorsqu&#x2019;il s&#x2019;agit de subtiliser des objets sur ses adversaires au cours d&#x2019;un combat.</description><benefit><![CDATA[<div> Le personnage reçoit un bonus de +2 aux tests visant à subtiliser un objet à un ennemi. Ce bonus se cumule avec celui offert par le don <a class="pagelink" href="Pathfinder-RPG.Science%20de%20la%20subtilisation.ashx" title="Science de la subtilisation">Science de la subtilisation</a>. S’il réussit à subtiliser un objet à un ennemi pendant un combat, ce dernier ne remarque pas le vol avant la fin de l’affrontement (à moins qu’il ne tente d’utiliser l’objet entretemps).<br><br><b>Normal.</b> Les créatures remarquent automatiquement les subtilisations réussies.
+
+	</div>]]></benefit><slug>subtilisation-superieure</slug></response>

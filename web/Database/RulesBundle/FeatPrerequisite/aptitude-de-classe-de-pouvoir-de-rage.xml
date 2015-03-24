@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<response><id>1199</id><name>Aptitude de classe de pouvoir de rage</name><link></link><feat><id>518</id><nameId>pouvoir-de-rage-suppl&#xE9;mentaire</nameId><name>Pouvoir de rage suppl&#xE9;mentaire</name><description>Le personnage a d&#xE9;velopp&#xE9; une nouvelle capacit&#xE9; utilisable lorsqu&#x2019;il est en rage.</description><benefit><![CDATA[<div> Le personnage gagne un pouvoir de rage supplémentaire. Il doit en remplir les conditions d’accès.<br><br><b>Spécial.</b> Le personnage peut acquérir ce don plusieurs fois.
+
+	</div>]]></benefit><slug>pouvoir-de-rage-supplementaire</slug></feat><slug>aptitude-de-classe-de-pouvoir-de-rage</slug></response>

@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<response><id>903</id><name>Profession (ing&#xE9;nieur en si&#xE8;ge)</name><link></link><feat><id>390</id><nameId>ing&#xE9;nieur-de-si&#xE8;ge</nameId><name>Ing&#xE9;nieur de si&#xE8;ge</name><description>Le personnage sait utiliser toutes les armes de si&#xE8;ge. </description><benefit><![CDATA[<div> Le personnage sait manier toutes les armes de siège. Quand il dirige une équipe, l’engin de siège ne court aucun risque d’avarie en cas de 1 naturel.<br><br><b>Normal.</b> Les engins de siège sont tous des armes exotiques.
+
+	</div>]]></benefit><slug>ingenieur-de-siege</slug></feat><slug>profession-ingenieur-en-siege</slug></response>

@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<response><id>1621</id><name>Tueur</name><link></link><feat><id>714</id><nameId>tueur-magique</nameId><name>Tueur magique</name><description>Tant que la propri&#xE9;t&#xE9; tueur est active, les cr&#xE9;atures qu&#x2019;elle affecte ont plus de mal &#xE0; r&#xE9;sister aux sorts du personnage.</description><benefit><![CDATA[<div> Quand le pouvoir tueur affecte une créature, le <a class="pagelink" href="Pathfinder-RPG.DD.ashx" title="DD">DD</a> des sorts du personnage augmente de +2 pour elle.
+
+	</div>]]></benefit><slug>tueur-magique</slug></feat><slug>tueur-3</slug></response>

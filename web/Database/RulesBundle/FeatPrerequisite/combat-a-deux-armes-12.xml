@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<response><id>1397</id><name>Combat &#xE0; deux armes</name><link>{{ROOT}}/r%C3%A8gles-pathfinder/dons/142/combat-a-deux-armes</link><feat><id>613</id><nameId>science-du-combat-&#xE0;-deux-armes</nameId><name>Science du combat &#xE0; deux armes</name><description>Le personnage est dou&#xE9; pour le combat &#xE0; deux armes.</description><benefit><![CDATA[<div> Lorsque le personnage se bat à deux armes, il peut porter deux attaques supplémentaires à l’aide de son arme secondaire au lieu d’une seule. Cependant, cette deuxième attaque secondaire s’accompagne d’un malus de -5 au <a class="pagelink" href="Pathfinder-RPG.jet%20dattaque.ashx" title="jet dattaque">jet d’attaque</a>.<br><br><b>Normal.</b> Sans ce don, le personnage ne peut porter qu’une attaque supplémentaire avec son arme secondaire.
+
+	</div>]]></benefit><slug>science-du-combat-a-deux-armes</slug></feat><slug>combat-a-deux-armes-12</slug></response>

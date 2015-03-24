@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<response><id>296</id><name>Attaque au galop</name><link>{{ROOT}}/r%C3%A8gles-pathfinder/dons/50/attaque-au-galop</link><feat><id>126</id><nameId>charge-d&#xE9;vastatrice</nameId><name>Charge d&#xE9;vastatrice</name><description>Les charges mont&#xE9;es du personnage provoquent des d&#xE9;g&#xE2;ts terrifiants.</description><benefit><![CDATA[<div> Quand le personnage lance une <a class="pagelink" href="Pathfinder-RPG.charge.ashx" title="charge">charge</a> à cheval (ou sur une autre monture), les dégâts qu’il cause sont doublés s’il utilise une <a class="pagelink" href="Pathfinder-RPG.arme%20de%20corps%20%c3%a0%20corps.ashx" title="arme de corps à corps">arme de corps à corps</a> (ou triplés s’il s’agit d’une lance d’arçon).
+
+	</div>]]></benefit><slug>charge-devastatrice</slug></feat><slug>attaque-au-galop</slug></response>

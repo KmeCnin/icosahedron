@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<response><id>1641</id><name>Dex 19</name><link></link><feat><id>730</id><nameId>viser-juste</nameId><name>Viser juste</name><description>Le personnage vise le d&#xE9;faut de l&#x2019;armure de son adversaire.</description><benefit><![CDATA[<div> Par une <a class="pagelink" href="Pathfinder-RPG.action%20simple.ashx" title="Action simple">action simple</a>, le personnage fait une unique <a class="pagelink" href="Pathfinder-RPG.attaque%20%c3%a0%20distance.ashx" title="Attaque à distance">attaque à distance</a>. La cible ne bénéficie plus de son bonus d’armure, d’armure naturelle ni de bouclier à la <a class="pagelink" href="Pathfinder-RPG.CA.ashx" title="CA">CA</a>. Le personnage ne peut pas utiliser ce don s’il se déplace au cours du même <a class="pagelink" href="Pathfinder-RPG.round.ashx" title="round">round</a>.
+
+	</div>]]></benefit><slug>viser-juste</slug></feat><slug>dex-19-2</slug></response>

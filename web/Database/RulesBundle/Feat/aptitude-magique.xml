@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<response><id>20</id><nameId>aptitude-magique</nameId><name>Aptitude magique</name><description>Le personnage est dou&#xE9; pour lancer des sorts ou utiliser des objets magiques.</description><benefit><![CDATA[<div> Le personnage gagne un bonus de +2 aux <a class="pagelink" href="Pathfinder-RPG.test.ashx" title="test">tests</a> d’<a class="pagelink" href="Pathfinder-RPG.Art%20de%20la%20magie.ashx" title="Art de la magie">Art de la magie</a> et d’<a class="pagelink" href="Pathfinder-RPG.Utilisation%20dobjets%20magiques.ashx" title="Utilisation d'objets magiques">Utilisation d’objets magiques</a>. Si le personnage a 10 <a class="pagelink" href="Pathfinder-RPG.rang.ashx" title="rang">rangs</a> ou plus dans l’une de ces compétences, le bonus ajouté à cette compétence augmente de +4.
+
+	</div>]]></benefit><slug>aptitude-magique</slug></response>

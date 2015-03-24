@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<response><id>28</id><name>Aptitude de classe d&#x2019;eidolon</name><link></link><feat><id>17</id><nameId>appel-du-conjurateur</nameId><name>Appel du conjurateur</name><description>Chaque fois que l&#x2019;invocateur appelle son eidolon, il est plus puissant pendant un certain temps.</description><benefit><![CDATA[<div> Chaque fois que le personnage appelle son eidolon, il peut lui octroyer un bonus d’altération de +2 en <a class="pagelink" href="Pathfinder-RPG.Force.ashx" title="La Force">Force</a>, <a class="pagelink" href="Pathfinder-RPG.Dext%c3%a9rit%c3%a9.ashx" title="La Dextérité">Dextérité</a> ou <a class="pagelink" href="Pathfinder-RPG.Constitution.ashx" title="La Constitution">Constitution</a>. Ce bonus persiste pendant 10 minutes après la fin du rituel de conjuration.
+
+	</div>]]></benefit><slug>appel-du-conjurateur</slug></feat><slug>aptitude-de-classe-d-eidolon</slug></response>

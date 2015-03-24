@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<response><id>940</id><name>&#xE9;ventration</name><link></link><feat><id>406</id><nameId>lac&#xE9;ration-furieuse</nameId><name>Lac&#xE9;ration furieuse</name><description>Les attaques naturelles du personnage lui permettent de d&#xE9;membrer son adversaire sans mal. </description><benefit><![CDATA[<div> Pour infliger des dégâts d’éventration, le personnage doit seulement réussir la moitié des attaques habituellement requises. Par exemple, un <a class="pagelink" href="Pathfinder-RPG.troll.ashx" title="Troll">troll</a> qui dispose de ce don éventre son adversaire s’il touche avec une seule attaque de griffe alors qu’un <a class="pagelink" href="Pathfinder-RPG.girallon.ashx" title="Girallon">girallon</a> doit toucher une cible avec deux attaques de griffe. Cette éventration fonctionne seulement une fois par round.
+
+	</div>]]></benefit><slug>laceration-furieuse</slug></feat><slug>eventration</slug></response>

@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<response><id>924</id><name>Pouvoir de classe jugement</name><link></link><feat><id>401</id><nameId>jugement-renforc&#xE9;</nameId><name>Jugement renforc&#xE9;</name><description>Une fois par jour, le pouvoir de la foi submerge le personnage et renforce son jugement. </description><benefit><![CDATA[<div> Une fois par jour, quand le personnage utilise son pouvoir de jugement, il peut considérer son niveau de classe comme 3 crans plus élevés. S’il a plusieurs jugements actifs à la fois, cet avantage s’applique à tous.
+
+	</div>]]></benefit><slug>jugement-renforce</slug></feat><slug>pouvoir-de-classe-jugement-1</slug></response>

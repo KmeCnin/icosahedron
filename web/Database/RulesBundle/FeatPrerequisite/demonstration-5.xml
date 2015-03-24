@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<response><id>565</id><name>D&#xE9;monstration</name><link>{{ROOT}}/r%C3%A8gles-pathfinder/dons/252/demonstration</link><feat><id>251</id><nameId>d&#xE9;monstration-f&#xE9;roce</nameId><name>D&#xE9;monstration f&#xE9;roce</name><description>Le personnage pousse un rugissement triomphal qui ravive sa f&#xE9;rocit&#xE9;.</description><benefit><![CDATA[<div> Quand le personnage utilise une <a class="pagelink" href="Pathfinder-RPG.action%20rapide.ashx" title="Action rapide">action rapide</a> pour faire un test de combat de spectacle, il gagne un bonus de +2 au test et un bonus de +1d6 aux jets de dégâts jusqu’à la fin de son prochain tour. Ce ne sont pas des dégâts de précision.
+
+	</div>]]></benefit><slug>demonstration-feroce</slug></feat><slug>demonstration-5</slug></response>

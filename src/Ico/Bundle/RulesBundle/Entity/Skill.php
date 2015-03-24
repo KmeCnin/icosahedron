@@ -240,6 +240,19 @@ class Skill
     }
 
     /**
+     * Is untrained
+     *
+     * @return boolean 
+     */
+    public function isUntrained()
+    {
+        if ($this->untrained) {
+		  return 'oui';
+	   }
+	   return 'non';
+    }
+
+    /**
      * Set ability
      *
      * @param \Ico\Bundle\RulesBundle\Entity\Ability $ability

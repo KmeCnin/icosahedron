@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<response><id>1</id><name>Pouvoir de classe myst&#xE8;re</name><link></link><feat><id>1</id><nameId>abondance-de-r&#xE9;v&#xE9;lations</nameId><name>Abondance de r&#xE9;v&#xE9;lations</name><description>Le personnage peut sonder les profondeurs de son myst&#xE8;re pour utiliser ses r&#xE9;v&#xE9;lations plus souvent. </description><benefit><![CDATA[<div> Le personnage choisit une <a class="pagelink" href="Pathfinder-RPG.Oracle.ashx#REVELATION" title="L'oracle">révélation</a> dont le nombre d’utilisations quotidiennes est limité. Il peut l’utiliser une fois de plus par jour.<br><br><b>Spécial.</b> Le personnage peut choisir ce don à plusieurs reprises. Ses effets ne se cumulent pas, ils s’appliquent à chaque fois à une nouvelle révélation.
+
+	</div>]]></benefit><slug>abondance-de-revelations</slug></feat><slug>pouvoir-de-classe-mystere</slug></response>

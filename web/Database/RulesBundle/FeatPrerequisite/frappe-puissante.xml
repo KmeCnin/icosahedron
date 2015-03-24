@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<response><id>784</id><name>Frappe puissante</name><link>{{ROOT}}/r%C3%A8gles-pathfinder/dons/342/frappe-puissante</link><feat><id>341</id><nameId>frappe-puissante-sup&#xE9;rieure</nameId><name>Frappe puissante sup&#xE9;rieure</name><description>Les attaques du personnage p&#xE9;n&#xE8;trent les d&#xE9;fenses de la plupart des adversaires. Le personnage doit choisir une arme pour laquelle il dispose d&#xE9;j&#xE0; du don Frappe puissante.</description><benefit><![CDATA[<div> Les attaques du personnage utilisant une des armes choisies pour Arme de prédilection ignorent jusqu’à 10 points de <a class="pagelink" href="Pathfinder-RPG.RD.ashx" title="RD">réduction de dégâts</a>.
+
+	</div>]]></benefit><slug>frappe-puissante-superieure</slug></feat><slug>frappe-puissante</slug></response>

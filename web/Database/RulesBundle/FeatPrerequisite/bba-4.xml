@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<response><id>46</id><name>BBA +4</name><link></link><feat><id>27</id><nameId>arme-naturelle-sup&#xE9;rieure</nameId><name>Arme naturelle sup&#xE9;rieure</name><description>Les attaques naturelles de la cr&#xE9;ature infligent de s&#xE9;v&#xE8;res blessures.</description><benefit><![CDATA[<div> Les effets de ce don s’appliquent à une des armes naturelles de la créature. Ses dégâts augmentent d’une catégorie selon la progression suivante (comme si la taille de la créature avait augmenté d’un cran). Les dés de dégâts progressent comme suit : 1d2, 1d3, 1d4, 1d6, 1d8, 2d6, 3d6, 4d6, 6d6, 8d6, 12d6. Si l’arme ou l’attaque inflige 1d10 points de dégâts, la progression est la suivante : 1d10, 2d8, 3d8, 4d8, 6d8, 8d8, 12d8.
+<b>Spécial.</b> Ce don peut être choisi plusieurs fois, mais ses effets ne se cumulent pas. A chaque fois qu'il est pris, il s'applique à une attaque naturelle différente.
+
+	</div>]]></benefit><slug>arme-naturelle-superieure</slug></feat><slug>bba-4</slug></response>

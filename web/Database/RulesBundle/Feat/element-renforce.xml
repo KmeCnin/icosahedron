@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<response><id>771</id><nameId>&#xE9;l&#xE9;ment-renforc&#xE9;</nameId><name>&#xC9;l&#xE9;ment renforc&#xE9;</name><description>Le personnage lance les sorts li&#xE9;s &#xE0; un &#xE9;l&#xE9;ment donn&#xE9; de telle mani&#xE8;re qu&#x2019;il est plus difficile de leur r&#xE9;sister.</description><benefit><![CDATA[<div> Choisissez un type d’énergie (acide, électricité, feu, froid). Le personnage ajoute +1 au <a class="pagelink" href="Pathfinder-RPG.DD.ashx" title="DD">DD</a> de tous les <a class="pagelink" href="Pathfinder-RPG.jet%20de%20sauvegarde.ashx" title="jet de sauvegarde">jets de sauvegarde</a> contre les sorts infligeant des dégâts du type d’énergie choisi.<br><br><b>Spécial.</b> Un personnage peut acquérir ce don plusieurs fois. Ses effets ne se cumulent pas. Chaque fois qu’il gagne ce don, il s’applique à un type d’énergie différent.
+
+	</div>]]></benefit><slug>element-renforce</slug></response>

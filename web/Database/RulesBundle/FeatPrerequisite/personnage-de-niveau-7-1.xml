@@ -1,0 +1,359 @@
+<?xml version="1.0"?>
+<response><id>1205</id><name>Personnage de niveau 7</name><link></link><feat><id>522</id><nameId>prestige</nameId><name>Prestige</name><description>Le personnage attire des suivants et un compagnon d&#x2019;armes qui se joignent &#xE0; sa cause et l&#x2019;accompagnent au cours de ses aventures.</description><benefit><![CDATA[<div> Ce don permet au personnage de gagner les services d’un compagnon d’armes et de suivants qui l’aident de leur mieux. Le compagnon d’armes est souvent un PNJ avec des niveaux de <a class="pagelink" href="Pathfinder-RPG.classes.ashx" title="Les classes">classe</a> tandis que les suivants sont des PNJ de bas niveau. Consultez la Table ci-après pour connaître le <a class="pagelink" href="Pathfinder-RPG.niveau.ashx" title="niveau">niveau</a> du compagnon d’armes et le nombre de suivants sur lesquels le personnage peut compter.<br><br><div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
+ 	
+<div style="border: 1px solid #4b3124; padding: 4px">
+ 	
+<center>
+ 	
+<table class="tablo">
+<tr><td> Prestige</td></tr>
+<tr class="titre">
+<td rowspan="2">Valeur de <br>Prestige</td>
+<td rowspan="2">Niveau du <br>compagnon d'armes</td>
+<td class="avecsoustitres" colspan="6">Nombre de suivants par niveau</td>
+</tr>
+<tr class="soustitre">
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
+</tr>
+<tr class="premier">
+<td>1 ou moins</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr class="alt">
+<td>2</td>
+<td>1</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr>
+<td>3</td>
+<td>2</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr class="alt">
+<td>4</td>
+<td>3</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr>
+<td>5</td>
+<td>3</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr class="alt">
+<td>6</td>
+<td>4</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr>
+<td>7</td>
+<td>5</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr class="alt">
+<td>8</td>
+<td>5</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr>
+<td>9</td>
+<td>6</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr class="alt">
+<td>10</td>
+<td>7</td>
+<td>5</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr>
+<td>11</td>
+<td>7</td>
+<td>6</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr class="alt">
+<td>12</td>
+<td>8</td>
+<td>8</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr>
+<td>13</td>
+<td>9</td>
+<td>10</td>
+<td>1</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr class="alt">
+<td>14</td>
+<td>10</td>
+<td>15</td>
+<td>1</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr>
+<td>15</td>
+<td>10</td>
+<td>20</td>
+<td>2</td>
+<td>1</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr class="alt">
+<td>16</td>
+<td>11</td>
+<td>25</td>
+<td>2</td>
+<td>1</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr>
+<td>17</td>
+<td>12</td>
+<td>30</td>
+<td>3</td>
+<td>1</td>
+<td>1</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr class="alt">
+<td>18</td>
+<td>12</td>
+<td>35</td>
+<td>3</td>
+<td>1</td>
+<td>1</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr>
+<td>19</td>
+<td>13</td>
+<td>40</td>
+<td>4</td>
+<td>2</td>
+<td>1</td>
+<td>1</td>
+<td>—</td>
+</tr>
+<tr class="alt">
+<td>20</td>
+<td>14</td>
+<td>50</td>
+<td>5</td>
+<td>3</td>
+<td>2</td>
+<td>1</td>
+<td>—</td>
+</tr>
+<tr>
+<td>21</td>
+<td>15</td>
+<td>60</td>
+<td>6</td>
+<td>3</td>
+<td>2</td>
+<td>1</td>
+<td>1</td>
+</tr>
+<tr class="alt">
+<td>22</td>
+<td>15</td>
+<td>75</td>
+<td>7</td>
+<td>4</td>
+<td>2</td>
+<td>2</td>
+<td>1</td>
+</tr>
+<tr>
+<td>23</td>
+<td>16</td>
+<td>90</td>
+<td>9</td>
+<td>5</td>
+<td>3</td>
+<td>2</td>
+<td>1</td>
+</tr>
+<tr class="alt">
+<td>24</td>
+<td>17</td>
+<td>110</td>
+<td>11</td>
+<td>6</td>
+<td>3</td>
+<td>2</td>
+<td>1</td>
+</tr>
+<tr>
+<td>25 ou plus</td>
+<td>17</td>
+<td>135</td>
+<td>13</td>
+<td>7</td>
+<td>4</td>
+<td>2</td>
+<td>2</td>
+</tr>
+</table>
+</center>
+</div>
+</div>
+<br><b>Valeur de Prestige.</b> La valeur de Prestige du personnage est égale à son <a class="pagelink" href="Pathfinder-RPG.niveau.ashx" title="niveau">niveau</a> plus son modificateur de <a class="pagelink" href="Pathfinder-RPG.Charisme.ashx" title="Le Charisme">Charisme</a>. La table propose des valeurs de Prestige très basses pour tenir compte de plus basses valeurs de <a class="pagelink" href="Pathfinder-RPG.Charisme.ashx" title="Le Charisme">Charisme</a>, mais le personnage doit avoir atteint le niveau 7 au moins pour acquérir ce don. Des facteurs extérieurs peuvent modifier la valeur de Prestige, comme indiqué ci-dessous.<br><br><b>Niveau du compagnon d’armes.</b> Le personnage peut gagner les services d’un compagnon d’armes de ce niveau ou moins. À noter que, quelle que soit la valeur de Prestige du personnage, le niveau de son compagnon d’armes doit toujours être inférieur au sien de deux niveaux au moins. Le compagnon d’armes est équipé en fonction de son niveau (voir <a class="pagelink" href="Pathfinder-RPG.Cr%c3%a9er%20des%20PNJ.ashx#TABLEEQUIPEMENTPNJ" title="Créer des PNJ">la table d'équipement des PNJ</a>). Le compagnon d’armes peut être de n’importe quelle <a class="pagelink" href="Pathfinder-RPG.race.ashx" title="race">race</a> ou <a class="pagelink" href="Pathfinder-RPG.classe.ashx" title="classe">classe</a>. Son <a class="pagelink" href="Pathfinder-RPG.alignement.ashx" title="L'alignement">alignement</a> ne doit pas être opposé à celui du personnage, que ce soit sur l’axe Bien/Mal ou Loyal/Chaotique. Le personnage subit un malus de -1 à sa valeur de Prestige s’il recrute un compagnon d’armes dont l’alignement diffère du sien.<br><br>Le compagnon d’armes ne compte pas au nombre des membres du groupe quand il s’agit de répartir l’expérience. Le personnage divise le niveau de son compagnon d’armes par le sien et multiplie le résultat par le nombre total de <a class="pagelink" href="Pathfinder-RPG.PX.ashx" title="PX">points d'expérience</a> qui lui ont été accordés. Il ajoute ensuite ce nombre au total d’expérience de son compagnon. Si le compagnon d’armes du personnage gagne suffisamment d’expérience pour accéder à un niveau inférieur de un à celui du PJ, il ne peut pas gagner ce niveau : on considère qu’il lui manque un point pour l’atteindre.<br><br><b>Nombre de suivants par niveau.</b> Le personnage peut diriger un total de suivants ne dépassant pas le nombre indiqué. Les suivants ressemblent aux compagnons d’armes mais ils sont d’un niveau bien inférieur à celui du personnage : comme ils ont généralement cinq niveaux de moins, ils ne sont pas très efficaces au combat.<br><br>Les suivants ne gagnent pas d’expérience et ne gagnent donc pas de niveaux. Quand le personnage gagne un <a class="pagelink" href="Pathfinder-RPG.niveau.ashx" title="niveau">niveau</a>, consultez la table ci-contre pour savoir s’il acquiert de nouveaux suivants dont certains peuvent être de plus haut niveau que les précédents. En revanche, il n’est pas nécessaire de consulter la table pour savoir si les compagnons d'armes gagnent des niveaux car ils gagnent leur expérience de leur côté.<br><br><b>Modificateurs de Prestige.</b> Plusieurs facteurs sont susceptibles de modifier la valeur de Prestige d’un personnage, qui n’est alors plus égale à la valeur de base (niveau de personnage + modificateur de Cha). La réputation d’un personnage (du point de vue du compagnon d’armes ou du suivant dont il tente d’obtenir les services) augmente ou réduit sa valeur de Prestige.<br><br><center>
+<br><br><table class="tablo">
+<tr><td> Modificateurs de prestige</td></tr>
+<tr class="titre">
+<td>Le personnage a la réputation d’être</td>
+<td>Modificateur</td>
+</tr>
+<tr class="premier">
+<td>Un grand homme</td>
+<td>+2</td>
+</tr>
+<tr class="alt">
+<td>Juste et généreux</td>
+<td>+1</td>
+</tr>
+<tr>
+<td>Doté d’un pouvoir spécial</td>
+<td>+1</td>
+</tr>
+<tr class="alt">
+<td>Accablé par les échecs multiples</td>
+<td>-1</td>
+</tr>
+<tr>
+<td>Hautain</td>
+<td>-1</td>
+</tr>
+<tr class="alt">
+<td>Cruel</td>
+<td>-2</td>
+</tr>
+</table>
+</center>
+<br><br>
+D’autres modificateurs s’appliquent quand un personnage tente de gagner les services d’un compagnon d’armes.<br><br><center>
+ 	
+<table class="tablo">
+<tr><td> Modificateurs de prestige (compagnon d'armes)</td></tr>
+<tr class="titre">
+<td>Le personnage</td>
+<td>Modificateur</td>
+</tr>
+<tr class="premier">
+<td>A un familier, destrier de paladin ou compagnon animal</td>
+<td>-2</td>
+</tr>
+<tr class="alt">
+<td>Recrute un compagnon d’armes d’un alignement autre que le sien</td>
+<td>-1</td>
+</tr>
+<tr>
+<td>A déjà causé la mort d’un compagnon d’armes</td>
+<td>–2*</td>
+</tr>
+</table>
+<i>(*) Par compagnon d’armes tué à cause du PJ.</i>
+ 	
+</center>
+<br><br>
+Les suivants n’ont pas les mêmes propriétés que les compagnons d’armes. Quand le personnage tente de gagner les services d’un nouveau suivant, utilisez les modificateurs ci-dessous.<br><br><center>
+ 	
+<table class="tablo">
+<tr><td> Modificateurs de prestige (suivants)</td></tr>
+<tr class="titre">
+<td>Le personnage</td>
+<td>Modificateur</td>
+</tr>
+<tr class="premier">
+<td>Possède une place forte, une base d’opérations, une guilde, etc.</td>
+<td>+2</td>
+</tr>
+<tr class="alt">
+<td>Voyage beaucoup</td>
+<td>–1</td>
+</tr>
+<tr>
+<td>A déjà causé la mort d’autres suivants</td>
+<td>–1</td>
+</tr>
+</table>
+</center>
+
+	</div>]]></benefit><slug>prestige</slug></feat><slug>personnage-de-niveau-7-1</slug></response>

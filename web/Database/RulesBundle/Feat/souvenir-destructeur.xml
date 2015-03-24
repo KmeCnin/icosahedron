@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<response><id>660</id><nameId>souvenir-destructeur</nameId><name>Souvenir destructeur</name><description>Le personnage peut d&#xE9;truire un sort ennemi pour alimenter sa propre puissance magique. </description><benefit><![CDATA[<div> Quand le personnage réussit à briser le sort d’un adversaire grâce à une attaque au corps à corps, il peut se servir de suite du <a class="pagelink" href="Pathfinder-RPG.magus.ashx#RAPPELDESORT" title="Le Magus">rappel de sort</a> pour récupérer un sort de <a class="pagelink" href="Pathfinder-RPG.magus.ashx" title="Le Magus">magus</a> lancé au préalable. Ce pouvoir fonctionne comme s’il avait dépensé le nombre de points de réserve magique requis (sans dépasser le niveau de sort maximal qu’il peut lancer).
+
+	</div>]]></benefit><slug>souvenir-destructeur</slug></response>

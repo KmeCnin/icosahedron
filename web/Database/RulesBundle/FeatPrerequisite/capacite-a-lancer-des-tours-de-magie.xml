@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<response><id>1601</id><name>Capacit&#xE9; &#xE0; lancer des tours de magie</name><link></link><feat><id>707</id><nameId>tours-de-magie-ou-oraisons-suppl&#xE9;mentaires</nameId><name>Tours de magie ou oraisons suppl&#xE9;mentaires</name><description>Le personnage est un ma&#xEE;tre des sorts mineurs. </description><benefit><![CDATA[<div> Le personnage ajoute deux tours de magie ou oraisons à la liste de ceux qu’il connaît.<br><br><b>Spécial.</b> Le personnage peut choisir ce don à plusieurs reprises, il ajoute à chaque fois deux tours de magie ou oraisons à sa liste de sorts connus.
+
+	</div>]]></benefit><slug>tours-de-magie-ou-oraisons-supplementaires</slug></feat><slug>capacite-a-lancer-des-tours-de-magie</slug></response>

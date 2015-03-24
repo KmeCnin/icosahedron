@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<response><id>847</id><name>Con 13</name><link></link><feat><id>363</id><nameId>gros-buveur</nameId><name>Gros buveur</name><description>Le personnage acquiert une plus grande quantit&#xE9; de ki lors de ses libations.</description><benefit><![CDATA[<div> Chaque fois que le personnage gagne du <i>ki</i> temporaire grâce à sa capacité de <i>ki</i> alcoolisé, il obtient 2 points temporaires de <i>ki</i> au lieu d’un seul.
+
+	</div>]]></benefit><slug>gros-buveur</slug></feat><slug>con-13-4</slug></response>

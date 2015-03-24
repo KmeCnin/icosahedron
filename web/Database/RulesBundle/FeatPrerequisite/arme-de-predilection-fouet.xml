@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<response><id>1090</id><name>Arme de pr&#xE9;dilection (fouet)</name><link></link><feat><id>466</id><nameId>ma&#xEE;trise-du-fouet-sup&#xE9;rieure</nameId><name>Ma&#xEE;trise du fouet sup&#xE9;rieure</name><description>Le personnage ex&#xE9;cute les man&#x153;uvres offensives au fouet avec une facilit&#xE9; d&#xE9;concertante. </description><benefit><![CDATA[<div> Le personnage manie son fouet si rapidement qu’il ne risque pas de le lâcher s’il rate une tentative de <a class="pagelink" href="Pathfinder-RPG.d%c3%a9sarmement.ashx" title="désarmement">désarmement</a> ou de <a class="pagelink" href="Pathfinder-RPG.croc-en-jambe.ashx" title="croc-en-jambe">croc-en-jambe</a>. <br><br>De plus, il peut s’en servir pour faire une <a class="pagelink" href="Pathfinder-RPG.lutte.ashx" title="lutte">lutte</a>. La lutte suit alors les règles habituelles, avec les modifications suivantes :
+<ul>
+<li>
+<i>Allonge.</i> Quand le personnage réussit un test de lutte et qu’il veut déplacer cette lutte, il n’est pas obligé d’<a class="pagelink" href="Pathfinder-RPG.attirer.ashx" title="Attirer">attirer</a> son adversaire à lui, il doit le garder à portée de son fouet mais se tenir lui-même hors de portée de cet adversaire.<br>Si la différence entre les deux allonges est inférieure à 0 (si une créature de <a class="pagelink" href="Pathfinder-RPG.taille.ashx" title="taille">taille M</a> tente de lutter avec une créature de taille <a class="pagelink" href="Pathfinder-RPG.taille.ashx" title="taille">Gig</a> par l’intermédiaire d’un fouet), le personnage ne peut pas utiliser son fouet pour lutter. Si le personnage doit <a class="pagelink" href="Pathfinder-RPG.attirer.ashx" title="Attirer">attirer</a> une créature vers lui pour poursuivre une lutte au fouet, il provoque une <a class="pagelink" href="Pathfinder-RPG.attaque%20dopportunit%c3%a9.ashx" title="attaque d'opportunité">attaque d’opportunité</a> de la part de cette créature, à moins qu’il ne dispose du don <a class="pagelink" href="Pathfinder-RPG.Science%20de%20la%20lutte.ashx" title="Science de la lutte">Science de la lutte</a>.</li>
+<li>
+<i>Attacher.</i> Quand le personnage est adjacent à son adversaire, il peut tenter de l’attacher avec son fouet. Si l’adversaire est <a class="pagelink" href="Pathfinder-RPG.agripp%c3%a9.ashx" title="Agrippé">agrippé</a> et non <a class="pagelink" href="Pathfinder-RPG.immobilis%c3%a9.ashx" title="Immobilisé">immobilisé</a>, le personnage subit un malus de -5 seulement aux tests de manœuvres offensives au lieu du -10 habituel.</li>
+<li>
+<i>Attaque.</i> Le personnage ne peut pas attaquer avec son fouet s’il s’en sert déjà pour lutter contre une créature.</li>
+<li>
+<i>Dégâts.</i> Quand le personnage inflige des dégâts à un ennemi <a class="pagelink" href="Pathfinder-RPG.agripp%c3%a9.ashx" title="Agrippé">agrippé</a>, il s’agit des dégâts du fouet et non des dégâts à mains nues.</li>
+<li>
+<i>Mains libres.</i> Quand le personnage utilise son fouet pour faire une <a class="pagelink" href="Pathfinder-RPG.lutte.ashx" title="lutte">lutte</a>, il ne reçoit aucun malus dû à l’absence de mains libres.<br>
+</li>
+</ul>
+</div>]]></benefit><slug>maitrise-du-fouet-superieure</slug></feat><slug>arme-de-predilection-fouet</slug></response>

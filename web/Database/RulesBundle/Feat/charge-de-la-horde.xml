@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<response><id>125</id><nameId>charge-de-la-horde</nameId><name>Charge de la horde</name><description>Le personnage est bien plus dangereux quand il charge avec un alli&#xE9;.</description><benefit><![CDATA[<div> Quand le personnage <a class="pagelink" href="Pathfinder-RPG.charge.ashx" title="charge">charge</a> au cours du même round qu’un allié qui possède ce don, il gagne un bonus de +2 aux <a class="pagelink" href="Pathfinder-RPG.jet%20dattaque.ashx" title="jet dattaque">jets d’attaque</a> et de dégâts, en plus des bonus habituels de la charge. S’il a droit à plusieurs attaques par charge, ce bonus s’applique uniquement à la première.
+
+	</div>]]></benefit><slug>charge-de-la-horde</slug></response>

@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<response><id>1284</id><name>Imposition des mains</name><link></link><feat><id>563</id><nameId>r&#xE9;compense-de-vie</nameId><name>R&#xE9;compense de vie</name><description>Quand le personnage utilise l&#x2019;imposition des mains, il gu&#xE9;rit &#xE9;galement. </description><benefit><![CDATA[<div> À chaque fois que le personnage utilise son imposition pour soigner une cible autre que lui, il guérit d’un nombre de <a class="pagelink" href="Pathfinder-RPG.pv.ashx" title="pv">points de vie</a> égal à son bonus de <a class="pagelink" href="Pathfinder-RPG.Charisme.ashx" title="Le Charisme">Charisme</a>.<br><br>Ce don n’a aucun effet si le personnage utilise l’imposition pour blesser des <a class="pagelink" href="Pathfinder-RPG.type%20mort-vivant.ashx" title="Mort-vivant">morts-vivants</a>.
+
+	</div>]]></benefit><slug>recompense-de-vie</slug></feat><slug>imposition-des-mains-6</slug></response>

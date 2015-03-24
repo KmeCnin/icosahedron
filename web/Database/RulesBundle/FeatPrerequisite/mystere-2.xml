@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<response><id>1653</id><name>Myst&#xE8;re</name><link></link><feat><id>735</id><nameId>vision-proph&#xE9;tique</nameId><name>Vision proph&#xE9;tique</name><description>Les aptitudes proph&#xE9;tiques de l&#x2019;oracle lui donnent un aper&#xE7;u du futur. </description><benefit><![CDATA[<div> Une fois par jour, le personnage peut entrer dans une transe profonde pour recevoir une vision du futur. Cette transe dure 10 minutes pendant lesquelles il ne peut pas entreprendre une autre action. S’il est interrompu, il doit reprendre à zéro. Quand il sort de sa transe, il sait si une action qui doit se dérouler dans un futur immédiat aura de bons ou de mauvais résultats, comme un sort d’augure avec 70% de chances de succès.
+
+	</div>]]></benefit><slug>vision-prophetique</slug></feat><slug>mystere-2</slug></response>

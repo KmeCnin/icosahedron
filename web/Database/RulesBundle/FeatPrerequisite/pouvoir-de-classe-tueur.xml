@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<response><id>1624</id><name>Pouvoir de classe tueur</name><link></link><feat><id>717</id><nameId>tueur-prolong&#xE9;</nameId><name>Tueur prolong&#xE9;</name><description>La d&#xE9;votion du personnage est sans limite et sa col&#xE8;re refuse de s&#x2019;&#xE9;teindre. </description><benefit><![CDATA[<div> Le personnage ajoute son bonus de <a class="pagelink" href="Pathfinder-RPG.Sagesse.ashx" title="La Sagesse">Sagesse</a> au nombre de rounds quotidiens pendant lesquels il peut utiliser son pouvoir de tueur.
+
+	</div>]]></benefit><slug>tueur-prolonge</slug></feat><slug>pouvoir-de-classe-tueur</slug></response>

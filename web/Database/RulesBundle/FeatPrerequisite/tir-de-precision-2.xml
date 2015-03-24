@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<response><id>1523</id><name>Tir de pr&#xE9;cision</name><link>{{ROOT}}/r%C3%A8gles-pathfinder/dons/685/tir-de-precision</link><feat><id>686</id><nameId>tir-en-enfilade</nameId><name>Tir en enfilade</name><description>Les attaques &#xE0; distance du personnage b&#xE9;n&#xE9;ficient de la prise en tenaille. </description><benefit><![CDATA[<div> Le personnage reçoit un bonus de +2 aux <a class="pagelink" href="Pathfinder-RPG.jet%20dattaque.ashx" title="jet dattaque">jets d’attaque</a> à distance contre un adversaire <a class="pagelink" href="Pathfinder-RPG.pris%20en%20tenaille.ashx" title="Pris en tenaille">pris en tenaille</a> par un ou plusieurs alliés qui disposent aussi de ce don.
+
+	</div>]]></benefit><slug>tir-en-enfilade</slug></feat><slug>tir-de-precision-2</slug></response>

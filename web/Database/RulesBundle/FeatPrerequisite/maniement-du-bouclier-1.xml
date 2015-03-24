@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<response><id>629</id><name>maniement du bouclier</name><link></link><feat><id>277</id><nameId>entra&#xEE;nement-aux-armures-renforc&#xE9;</nameId><name>Entra&#xEE;nement aux armures renforc&#xE9;</name><description>Le personnage sait comment reporter le plus gros des coups sur son armure.</description><benefit><![CDATA[<div> Si un adversaire fait un <a class="pagelink" href="Pathfinder-RPG.coup%20critique.ashx" title="coup critique">coup critique</a> contre le personnage, ce dernier peut le transformer en coup normal mais son armure ou son bouclier est alors <a class="pagelink" href="Pathfinder-RPG.bris%c3%a9.ashx" title="Brisé">brisé</a> (c’est à lui de choisir).
+
+	</div>]]></benefit><slug>entrainement-aux-armures-renforce</slug></feat><slug>maniement-du-bouclier-1</slug></response>

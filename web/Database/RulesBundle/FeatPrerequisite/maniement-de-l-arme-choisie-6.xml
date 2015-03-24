@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<response><id>790</id><name>maniement de l&#x2019;arme choisie</name><link></link><feat><id>342</id><nameId>frappe-puissante</nameId><name>Frappe puissante</name><description>Les attaques du personnage traversent la d&#xE9;fense de certaines cr&#xE9;atures. Le personnage doit choisir une arme pour laquelle il dispose d&#xE9;j&#xE0; du don Arme de pr&#xE9;dilection.</description><benefit><![CDATA[<div> Les attaques du personnage utilisant une des armes choisies pour Arme de prédilection ignorent jusqu’à 5 points de <a class="pagelink" href="Pathfinder-RPG.RD.ashx" title="RD">réduction de dégâts</a>.
+
+	</div>]]></benefit><slug>frappe-puissante</slug></feat><slug>maniement-de-l-arme-choisie-6</slug></response>

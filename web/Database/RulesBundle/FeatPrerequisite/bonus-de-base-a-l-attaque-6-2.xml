@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<response><id>336</id><name>bonus de base &#xE0; l&#x2019;attaque +6</name><link></link><feat><id>147</id><nameId>comme-le-vent</nameId><name>Comme le vent</name><description>Les ennemis du personnage ont bien du mal &#xE0; le situer &#xE0; cause de ses mouvements erratiques.</description><benefit><![CDATA[<div> Si le personnage parcourt plus de 1,5 m pendant son <a class="pagelink" href="Pathfinder-RPG.tour.ashx" title="tour">tour</a>, il gagne un <a class="pagelink" href="Pathfinder-RPG.camouflage.ashx" title="camouflage">camouflage</a> de 20% contre les <a class="pagelink" href="Pathfinder-RPG.attaque%20%c3%a0%20distance.ashx" title="Attaque à distance">attaques à distance</a> pendant un <a class="pagelink" href="Pathfinder-RPG.round.ashx" title="round">round</a>.
+
+	</div>]]></benefit><slug>comme-le-vent</slug></feat><slug>bonus-de-base-a-l-attaque-6-2</slug></response>

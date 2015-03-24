@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<response><id>1630</id><name>Aura de fermet&#xE9;</name><link></link><feat><id>720</id><nameId>ultime-fermet&#xE9;</nameId><name>Ultime fermet&#xE9;</name><description>L&#x2019;aura de fermet&#xE9; du paladin ne dispara&#xEE;t pas avec lui. </description><benefit><![CDATA[<div> L’aura de fermeté occupe un rayon de 6 mètres (4 <abbr title="cases">c</abbr>) et ne disparaît pas si le personnage tombe <a class="pagelink" href="Pathfinder-RPG.inconscient.ashx" title="Inconscient">inconscient</a>.<br><br><b>Normal.</b> L’aura de fermeté affecte les alliés dans un <a class="pagelink" href="Pathfinder-RPG.rayon.ashx" title="rayon">rayon</a> de 3 mètres (2 <abbr title="cases">c</abbr>) et disparaît quand le personnage tombe <a class="pagelink" href="Pathfinder-RPG.inconscient.ashx" title="Inconscient">inconscient</a>.
+
+	</div>]]></benefit><slug>ultime-fermete</slug></feat><slug>aura-de-fermete</slug></response>

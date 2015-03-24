@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<response><id>1706</id><name>maniement de l&#x2019;arme utilis&#xE9;e</name><link></link><feat><id>756</id><nameId>&#xE9;clats-darme</nameId><name>&#xC9;clats d'arme</name><description>Le personnage sait tirer profit de la fragilit&#xE9; de ses armes et laisse des fragments dans les blessures qu&#x2019;il inflige.</description><benefit><![CDATA[<div> Quand le personnage utilise une arme de corps à corps ou de jet <a class="pagelink" href="Pathfinder-RPG.fragile.ashx" title="fragile">fragile</a> ou similaire et qu’il touche un adversaire, il peut briser son arme pour infliger 1d4 points de <a class="pagelink" href="Pathfinder-RPG.saignement.ashx" title="Saignement">saignement</a> à l’ennemi.
+
+	</div>]]></benefit><slug>eclats-darme</slug></feat><slug>maniement-de-l-arme-utilisee-1</slug></response>

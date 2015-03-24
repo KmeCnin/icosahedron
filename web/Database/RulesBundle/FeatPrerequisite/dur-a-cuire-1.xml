@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<response><id>864</id><name>Dur &#xE0; cuire</name><link>{{ROOT}}/r%C3%A8gles-pathfinder/dons/238/dur-a-cuire</link><feat><id>369</id><nameId>gu&#xE9;rison-rapide</nameId><name>Gu&#xE9;rison rapide</name><description>Le personnage gu&#xE9;rit facilement et les effets des sorts ou de la gu&#xE9;rison naturelle sont augment&#xE9;s.</description><benefit><![CDATA[<div> Lorsque le personnage regagne des points de vie en se reposant ou grâce à de la magie curative, il récupère des <a class="pagelink" href="Pathfinder-RPG.pv.ashx" title="pv">points de vie</a> supplémentaires en quantité égale à la moitié de son modificateur de <a class="pagelink" href="Pathfinder-RPG.Constitution.ashx" title="La Constitution">Constitution</a> (minimum +1).
+
+	</div>]]></benefit><slug>guerison-rapide</slug></feat><slug>dur-a-cuire-1</slug></response>

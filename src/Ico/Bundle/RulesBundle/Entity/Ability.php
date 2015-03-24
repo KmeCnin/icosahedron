@@ -87,29 +87,6 @@ class Ability
     }
 
     /**
-     * Set nameId
-     *
-     * @param string $nameId
-     * @return Feat
-     */
-    public function setNameId($nameId)
-    {
-        $this->nameId = $nameId;
-
-        return $this;
-    }
-
-    /**
-     * Get nameId
-     *
-     * @return string 
-     */
-    public function getNameId()
-    {
-        return $this->nameId;
-    }
-
-    /**
      * Set description
      *
      * @param string $description
@@ -245,6 +222,19 @@ class Ability
     public function getMental()
     {
         return $this->mental;
+    }
+
+    /**
+     * Is mental
+     *
+     * @return boolean 
+     */
+    public function isMental()
+    {
+        if ($this->mental) {
+		  return 'oui';
+	   }
+	   return 'non';
     }
 
     /**

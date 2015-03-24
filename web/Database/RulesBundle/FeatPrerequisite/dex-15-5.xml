@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<response><id>530</id><name>Dex 15</name><link></link><feat><id>235</id><nameId>double-frappe</nameId><name>Double frappe</name><description>Quand le personnage se bat &#xE0; deux armes, il manie son arme secondaire avec une puissance accrue.</description><benefit><![CDATA[<div> Le personnage ajoute son bonus de <a class="pagelink" href="Pathfinder-RPG.Force.ashx" title="La Force">Force</a> aux <a class="pagelink" href="Pathfinder-RPG.jet%20de%20d%c3%a9g%c3%a2ts.ashx" title="jet de dégâts">jets de dégâts</a> de son arme secondaire.<br><br><b>Normal.</b> Le personnage ajoute seulement la moitié de son bonus de <a class="pagelink" href="Pathfinder-RPG.Force.ashx" title="La Force">Force</a> aux <a class="pagelink" href="Pathfinder-RPG.jet%20de%20d%c3%a9g%c3%a2ts.ashx" title="jet de dégâts">jets de dégâts</a> de l’arme qu’il manie avec sa main non-directrice.
+
+	</div>]]></benefit><slug>double-frappe</slug></feat><slug>dex-15-5</slug></response>

@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<response><id>40</id><name>Maniement de l&#x2019;arme choisie</name><link></link><feat><id>24</id><nameId>arme-de-pr&#xE9;dilection</nameId><name>Arme de pr&#xE9;dilection</name><description>Le personnage choisit une arme. Il peut aussi choisir l&#x2019;attaque &#xE0; mains nues ou la lutte (ou les rayons s&#x2019;il lance des sorts).</description><benefit><![CDATA[<div> Le personnage bénéficie d’un bonus de +1 à tous ses <a class="pagelink" href="Pathfinder-RPG.jet%20dattaque.ashx" title="jet dattaque">jets d’attaque</a> lorsqu’il utilise cette arme.<br><br><b>Spécial.</b> Ce don peut être choisi plusieurs fois, mais ses effets ne se cumulent pas. Il s’applique à chaque fois à une arme nouvelle.
+
+	</div>]]></benefit><slug>arme-de-predilection</slug></feat><slug>maniement-de-l-arme-choisie-1</slug></response>

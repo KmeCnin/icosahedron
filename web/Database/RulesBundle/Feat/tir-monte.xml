@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<response><id>690</id><nameId>tir-mont&#xE9;</nameId><name>Tir mont&#xE9;</name><description>Le personnage sait attaquer &#xE0; distance du haut d&#x2019;une monture.</description><benefit><![CDATA[<div> Le malus que subit normalement un personnage monté qui utilise une <a class="pagelink" href="Pathfinder-RPG.arme%20%c3%a0%20distance.ashx" title="arme à distance">arme à distance</a> est divisé par deux : -2 au lieu de -4 si la monture effectue un <a class="pagelink" href="Pathfinder-RPG.d%c3%a9placement%20et%20position.ashx" title="Déplacement et position">déplacement double</a>, et -4 au lieu de -8 si elle galope.
+
+	</div>]]></benefit><slug>tir-monte</slug></response>

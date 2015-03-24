@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<response><id>151</id><nameId>conducteur-de-talent</nameId><name>Conducteur de talent</name><description>Le personnage choisit un type de v&#xE9;hicule (a&#xE9;rien, aquatique ou terrestre) et am&#xE9;liore ses capacit&#xE9;s de conducteur.</description><benefit><![CDATA[<div> Le personnage gagne un bonus de +4 aux tests de conduite pour le type de véhicule choisi.
+
+	</div>]]></benefit><slug>conducteur-de-talent</slug></response>

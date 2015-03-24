@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<response><id>58</id><nameId>attaque-sp&#xE9;ciale-renforc&#xE9;e</nameId><name>Attaque sp&#xE9;ciale renforc&#xE9;e</name><description>Il est particuli&#xE8;rement difficile de r&#xE9;sister &#xE0; l&#x2019;une des attaques sp&#xE9;ciales de la cr&#xE9;ature.</description><benefit><![CDATA[<div> Les effets de ce don s’appliquent à une des attaques spéciales de la créature. Le <a class="pagelink" href="Pathfinder-RPG.DD.ashx" title="DD">DD</a> de tous les <a class="pagelink" href="Pathfinder-RPG.jet%20de%20sauvegarde.ashx" title="jet de sauvegarde">jets de sauvegarde</a> pour résister à celle-ci augmente de +2.<br><br><b>Spécial.</b> La créature peut gagner ce don plusieurs fois, mais ses effets ne se cumulent pas : il s’applique chaque fois à une attaque spéciale différente.
+
+	</div>]]></benefit><slug>attaque-speciale-renforcee</slug></response>

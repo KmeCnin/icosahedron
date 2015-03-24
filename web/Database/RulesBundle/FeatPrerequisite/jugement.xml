@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<response><id>866</id><name>Jugement</name><link></link><feat><id>370</id><nameId>gu&#xE9;rison-vertueuse</nameId><name>Gu&#xE9;rison vertueuse</name><description>Les sorts de gu&#xE9;rison du personnage sont plus puissants quand il a un jugement actif. </description><benefit><![CDATA[<div> Si le personnage lance un sort de soins quand il a un jugement actif, sa cible récupère 1 <a class="pagelink" href="Pathfinder-RPG.pv.ashx" title="pv">point de vie</a> de plus grâce au sort et 1 autre point de vie de plus par tranche de trois niveaux d’inquisiteur.
+
+	</div>]]></benefit><slug>guerison-vertueuse</slug></feat><slug>jugement</slug></response>

@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<response><id>155</id><name>Dex 15</name><link></link><feat><id>77</id><nameId>bouclier-contre-les-rayons</nameId><name>Bouclier contre les rayons</name><description>Le personnage est capable de parer les rayons gr&#xE2;ce &#xE0; son bouclier.</description><benefit><![CDATA[<div> Le personnage doit utiliser une rondache, un écu ou un pavois pour tirer parti de ce don. Une fois par round, lorsqu’il devrait normalement être touché par une <a class="pagelink" href="Pathfinder-RPG.attaque%20de%20contact%20%c3%a0%20distance.ashx" title="attaque de contact à distance">attaque de contact à distance</a> (qui peut être un rayon ou un autre effet magique), il peut la parer et ainsi ne subir aucun dégât. Le bouclier du personnage, quant à lui, subit les pleins effets du sort ou de l’effet si ceux-ci lui sont applicables.
+
+	</div>]]></benefit><slug>bouclier-contre-les-rayons</slug></feat><slug>dex-15</slug></response>

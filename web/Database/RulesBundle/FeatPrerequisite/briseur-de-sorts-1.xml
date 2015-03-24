@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<response><id>1499</id><name>Briseur de sorts</name><link>{{ROOT}}/r%C3%A8gles-pathfinder/dons/93/briseur-de-sorts</link><feat><id>675</id><nameId>tacticien-de-la-t&#xE9;l&#xE9;portation</nameId><name>Tacticien de la t&#xE9;l&#xE9;portation</name><description>Le personnage est toujours pr&#xEA;t &#xE0; faire face aux ennemis qui utiliseraient la t&#xE9;l&#xE9;portation pour s&#x2019;approcher de lui ou le fuir.</description><benefit><![CDATA[<div> Toute créature utilisant un effet de téléportation pour entrer ou sortir d’une case contrôlée par le personnage provoque une <a class="pagelink" href="Pathfinder-RPG.attaque%20dopportunit%c3%a9.ashx" title="attaque d'opportunité">attaque d’opportunité</a> de sa part, même si elle incante sur la défensive ou utilise une capacité surnaturelle.
+
+	</div>]]></benefit><slug>tacticien-de-la-teleportation</slug></feat><slug>briseur-de-sorts-1</slug></response>

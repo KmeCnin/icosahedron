@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<response><id>164</id><name>Form&#xE9; &#xE0; l&#x2019;utilisation des boucliers</name><link></link><feat><id>81</id><nameId>bouclier-salvateur</nameId><name>Bouclier salvateur</name><description>Le personnage parvient &#xE0; parer des attaques qui pourraient se r&#xE9;v&#xE9;ler mortelles pour ses alli&#xE9;s.</description><benefit><![CDATA[<div> Chaque fois qu’un allié adjacent au personnage est la cible d’une attaque, le personnage peut, par une <a class="pagelink" href="Pathfinder-RPG.action%20imm%c3%a9diate.ashx" title="Action immédiate">action immédiate</a>, lui octroyer un bonus de bouclier à la <a class="pagelink" href="Pathfinder-RPG.CA.ashx" title="CA">CA</a> de +2. Le personnage doit tenir une rondache, un écu ou un pavois pour pouvoir utiliser ce don.
+
+	</div>]]></benefit><slug>bouclier-salvateur</slug></feat><slug>forme-a-l-utilisation-des-boucliers</slug></response>

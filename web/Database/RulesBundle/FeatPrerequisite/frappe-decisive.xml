@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<response><id>414</id><name>Frappe d&#xE9;cisive</name><link>{{ROOT}}/r%C3%A8gles-pathfinder/dons/334/frappe-decisive</link><feat><id>179</id><nameId>coup-final-violent</nameId><name>Coup final violent</name><description>Pour &#xE9;craser son ennemi, le personnage concentre toute sa rage dans un puissant coup.</description><benefit><![CDATA[<div> Quand le personnage est enragé et qu’il utilise la <a class="pagelink" href="Pathfinder-RPG.Frappe%20d%c3%a9cisive.ashx" title="Frappe décisive">Frappe décisive</a>, il n’est pas obligé de lancer les dés de dégâts, il peut infliger le maximum de dégâts possible mais dans ce cas, sa rage se termine et il est <a class="pagelink" href="Pathfinder-RPG.fatigu%c3%a9.ashx" title="Fatigué">fatigué</a> (même si, normalement, il ne devrait pas).
+
+	</div>]]></benefit><slug>coup-final-violent</slug></feat><slug>frappe-decisive</slug></response>

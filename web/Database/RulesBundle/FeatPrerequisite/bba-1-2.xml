@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<response><id>43</id><name>BBA +1</name><link></link><feat><id>26</id><nameId>arme-jetable</nameId><name>Arme jetable</name><description>Le personnage ignore les d&#xE9;fauts de son &#xE9;quipement et frappe de toutes ses forces, m&#xEA;me si cela endommage son arme.</description><benefit><![CDATA[<div> Quand le personnage utilise une arme de corps à corps ou de jet dotée de la propriété <a class="pagelink" href="Pathfinder-RPG.bris%c3%a9.ashx" title="Brisé">brisée</a>, et qu’il menace de faire un <a class="pagelink" href="Pathfinder-RPG.coup%20critique.ashx" title="coup critique">coup critique</a> contre un adversaire, il peut briser son arme pour le confirmer automatiquement.
+
+	</div>]]></benefit><slug>arme-jetable</slug></feat><slug>bba-1-2</slug></response>

@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<response><id>935</id><name>Science de la lac&#xE9;ration furieuse</name><link>{{ROOT}}/r%C3%A8gles-pathfinder/dons/596/science-de-la-laceration-furieuse</link><feat><id>405</id><nameId>lac&#xE9;ration-furieuse-sup&#xE9;rieure</nameId><name>Lac&#xE9;ration furieuse sup&#xE9;rieure</name><description>Les griffes du personnage sont d&#x2019;une efficacit&#xE9; terrifiante quand elles s&#x2019;enfoncent dans la chair d&#x2019;un adversaire. </description><benefit><![CDATA[<div> Quand le personnage éventre un adversaire, il lui inflige 1d6 points de dégâts de <a class="pagelink" href="Pathfinder-RPG.saignement.ashx" title="Saignement">saignement</a>, en plus des autres effets de l’éventration.
+
+	</div>]]></benefit><slug>laceration-furieuse-superieure</slug></feat><slug>science-de-la-laceration-furieuse</slug></response>

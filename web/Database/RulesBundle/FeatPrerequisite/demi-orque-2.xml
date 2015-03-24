@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<response><id>219</id><name>Demi-orque</name><link></link><feat><id>96</id><nameId>brute-r&#xE9;siliente</nameId><name>Brute r&#xE9;siliente</name><description>Le personnage supporte des coups qui en tueraient d&#x2019;autres.</description><benefit><![CDATA[<div> Une fois par jour, quand une créature confirme un <a class="pagelink" href="Pathfinder-RPG.coup%20critique.ashx" title="coup critique">coup critique</a> contre le personnage, il peut considérer la moitié des dégâts comme des <a class="pagelink" href="Pathfinder-RPG.d%c3%a9g%c3%a2ts%20non%20l%c3%a9taux.ashx" title="Dégâts non létaux">dégâts non létaux</a>. Il ne peut pas utiliser ce don s’il est immunisé contre les dégâts létaux. Quand le <a class="pagelink" href="Pathfinder-RPG.BBA.ashx" title="BBA">BBA</a> du personnage atteint +10, il peut utiliser ce don une fois de plus par jour.
+
+	</div>]]></benefit><slug>brute-resiliente</slug></feat><slug>demi-orque-2</slug></response>

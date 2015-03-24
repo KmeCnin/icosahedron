@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<response><id>1636</id><name>Vigilance</name><link>{{ROOT}}/r%C3%A8gles-pathfinder/dons/725/vigilance</link><feat><id>724</id><nameId>vigilance-instinctive</nameId><name>Vigilance instinctive</name><description>Les recherches que le personnage a men&#xE9;es sur les myst&#xE8;res et la nature de la r&#xE9;alit&#xE9; l&#x2019;ont dot&#xE9; de sens aiguis&#xE9;s. </description><benefit><![CDATA[<div> Ce don donne un bonus supplémentaire de +1 aux tests de <a class="pagelink" href="Pathfinder-RPG.Perception.ashx" title="Perception">Perception</a> et de <a class="pagelink" href="Pathfinder-RPG.Psychologie.ashx" title="Psychologie">Psychologie</a>, et le personnage gagne un bonus de +2 aux <a class="pagelink" href="Pathfinder-RPG.Jet%20de%20sauvegarde.ashx" title="jet de sauvegarde">jets de sauvegarde</a>  contre les effets de sommeil et de charme.
+
+	</div>]]></benefit><slug>vigilance-instinctive</slug></feat><slug>vigilance</slug></response>

@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<response><id>1658</id><name>Vision obscure</name><link>{{ROOT}}/r%C3%A8gles-pathfinder/dons/734/vision-obscure</link><feat><id>737</id><nameId>vision-t&#xE9;n&#xE9;breuse</nameId><name>Vision t&#xE9;n&#xE9;breuse</name><description>Le fetchelin a des yeux qui lui permettent de percer l&#x2019;obscurit&#xE9;, m&#xEA;me celle des t&#xE9;n&#xE8;bres magiques.</description><benefit><![CDATA[<div> Le fetchelin gagne la capacité de voir clairement jusqu’à 4,5 mètres dans les ténèbres magiques telles que celles que crée le sort <i><a class="pagelink" href="Pathfinder-RPG.t%c3%a9n%c3%a8bres%20profondes.ashx" title="Ténèbres profondes">ténèbres profondes</a></i>.
+
+	</div>]]></benefit><slug>vision-tenebreuse</slug></feat><slug>vision-obscure-1</slug></response>

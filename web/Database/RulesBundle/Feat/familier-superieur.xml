@@ -1,0 +1,200 @@
+<?xml version="1.0"?>
+<response><id>303</id><nameId>familier-sup&#xE9;rieur</nameId><name>Familier sup&#xE9;rieur</name><description>Ce don permet au personnage d&#x2019;acqu&#xE9;rir un puissant familier mais seulement quand il a la possibilit&#xE9; d&#x2019;acqu&#xE9;rir un nouveau familier ordinaire.</description><benefit><![CDATA[<div> Quand le personnage choisit un nouveau <a class="pagelink" href="Pathfinder-RPG.familier.ashx" title="familier">familier</a>, il peut choisir l’une des créatures indiquées ci-après. Il peut choisir un familier dont l’<a class="pagelink" href="Pathfinder-RPG.alignement.ashx" title="L'alignement">alignement</a> ne diffère pas du sien de plus d’un cran sur chaque axe (de Loyal à Chaotique et de Bon à Mauvais).<br><br>Les familiers supérieurs obéissent aux règles des <a class="pagelink" href="Pathfinder-RPG.familier.ashx" title="familier">familiers</a> ordinaires à deux exceptions près : si le type de la créature n’est pas « <a class="pagelink" href="Pathfinder-RPG.type%20animal.ashx" title="Animal">animal</a> » il ne change pas et les familiers supérieurs ne gagnent pas la capacité à parler avec d’autres créatures de leur espèce (bien que beaucoup possèdent une capacité innée à communiquer).<br><br><center>
+<table class="tablo autoalt">
+<tr class="titre">
+<td>Familier</td>
+<td>Alignement</td>
+<td>NLS Profane</td>
+</tr>
+<tr class="premier">
+<td><a class="pagelink" href="Pathfinder-RPG.Paracl%c3%a9tus.ashx" title="Paraclétus">Aéon, Paraclétus</a></td>
+<td>Neutre</td>
+<td>7</td>
+</tr>
+<tr>
+<td><a class="pagelink" href="Pathfinder-RPG.Silvanshie.ashx" title="Silvanshie">Agathion, Silvanshie</a></td>
+<td>Neutre Bon</td>
+<td>7</td>
+</tr>
+<tr>
+<td>
+<a class="pagelink" href="Pathfinder-RPG.Aigle.ashx" title="Aigle">Aigle</a> <a class="pagelink" href="Pathfinder-RPG.arch%c3%a9types%20simples.ashx#CREATURECELESTE" title="archétypes simples">céleste</a><sup>1</sup>
+</td>
+<td>Neutre Bon</td>
+<td>3</td>
+</tr>
+<tr>
+<td><a class="pagelink" href="Pathfinder-RPG.Cassisien.ashx" title="Cassisien">Ange, Cassisien</a></td>
+<td>Neutre Bon</td>
+<td>7</td>
+</tr>
+<tr>
+<td><a class="pagelink" href="Pathfinder-RPG.Archon%20Annonciateur.ashx" title="Archon annonciateur">Archon, Annonciateur</a></td>
+<td>Loyal bon</td>
+<td>7</td>
+</tr>
+<tr>
+<td><a class="pagelink" href="Pathfinder-RPG.Tripurasura.ashx" title="Tripurasura">Asura, Tripurasura</a></td>
+<td>Loyal mauvais</td>
+<td>7</td>
+</tr>
+<tr>
+<td><a class="pagelink" href="Pathfinder-RPG.Lyrakien.ashx" title="Lyrakien">Azata, Lyrakien</a></td>
+<td>Chaotique bon</td>
+<td>7</td>
+</tr>
+<tr>
+<td>
+<a class="pagelink" href="Pathfinder-RPG.Chouette.ashx" title="Chouette">Chouette</a> <a class="pagelink" href="Pathfinder-RPG.arch%c3%a9types%20simples.ashx#CREATUREINFLEXIBLE" title="archétypes simples">inflexible</a><sup>1</sup>
+</td>
+<td>Loyal Neutre</td>
+<td>3</td>
+</tr>
+<tr>
+<td><a class="pagelink" href="Pathfinder-RPG.Cacoda%c3%a9mon.ashx" title="Cacodaémon">Daémon, Cacodaémon</a></td>
+<td>Neutre mauvais</td>
+<td>7</td>
+</tr>
+<tr>
+<td><a class="pagelink" href="Pathfinder-RPG.Quasit.ashx" title="Quasit">Démon, Quasit</a></td>
+<td>Chaotique Mauvais</td>
+<td>7</td>
+</tr>
+<tr>
+<td><a class="pagelink" href="Pathfinder-RPG.Diablotin.ashx" title="Diablotin">Diable, Diablotin</a></td>
+<td>Loyal Mauvais</td>
+<td>7</td>
+</tr>
+<tr>
+<td><a class="pagelink" href="Pathfinder-RPG.Div%20Doru.ashx" title="Div doru">Div, Doru</a></td>
+<td>Neutre mauvais</td>
+<td>7</td>
+</tr>
+<tr>
+<td><a class="pagelink" href="Pathfinder-RPG.Dragon%20f%c3%a9erique.ashx" title="Dragon féerique">Dragon, Dragon Féerique</a></td>
+<td>Chaotique Bon</td>
+<td>7</td>
+</tr>
+<tr>
+<td><a class="pagelink" href="Pathfinder-RPG.Pseudo-dragon.ashx" title="Pseudo-dragon">Dragon, Pseudo-dragon</a></td>
+<td>Neutre Bon</td>
+<td>7</td>
+</tr>
+<tr>
+<td>
+<a class="pagelink" href="Pathfinder-RPG.sous-type%20%c3%a9l%c3%a9mentaire.ashx" title="Élémentaire (sous-type)">Élémentaire</a> P (n’importe quel type)</td>
+<td>Neutre</td>
+<td>5</td>
+</tr>
+<tr>
+<td><a class="pagelink" href="Pathfinder-RPG.Esprit%20follet.ashx" title="Esprit follet">Esprit follet</a></td>
+<td>Chaotique neutre</td>
+<td>5</td>
+</tr>
+<tr>
+<td><a class="pagelink" href="Pathfinder-RPG.Esprit%20Oni.ashx" title="Esprit Oni">Oni, Esprit</a></td>
+<td>Loyal mauvais</td>
+<td>7</td>
+</tr>
+<tr>
+<td><a class="pagelink" href="Pathfinder-RPG.Pugwampi.ashx" title="Pugwampi">Gremlin, Pugwampi</a></td>
+<td>Neutre mauvais</td>
+<td>3</td>
+</tr>
+<tr>
+<td>
+<a class="pagelink" href="Pathfinder-RPG.Homoncule.ashx" title="Homoncule">Homoncule</a><sup>2</sup>
+</td>
+<td>N’importe</td>
+<td>7</td>
+</tr>
+<tr>
+<td><a class="pagelink" href="Pathfinder-RPG.Arbitre.ashx" title="Arbitre">Inévitable, Arbitre</a></td>
+<td>Loyal neutre</td>
+<td>7</td>
+</tr>
+<tr>
+<td><a class="pagelink" href="Pathfinder-RPG.Shikigami.ashx" title="Shikigami">Kami, Shikigami</a></td>
+<td>Loyal neutre</td>
+<td>7</td>
+</tr>
+<tr>
+<td><a class="pagelink" href="Pathfinder-RPG.Kyton%20augure.ashx" title="Kyton augure">Kyton, Augure</a></td>
+<td>Loyal mauvais</td>
+<td>7</td>
+</tr>
+<tr>
+<td><a class="pagelink" href="Pathfinder-RPG.Lutin.ashx" title="Lutin">Lutin</a></td>
+<td>Neutre strict</td>
+<td>5</td>
+</tr>
+<tr>
+<td>
+<a class="pagelink" href="Pathfinder-RPG.Main%20rampante.ashx" title="Main rampante">Main rampante</a><sup>3</sup>
+</td>
+<td>Neutre mauvais</td>
+<td>3</td>
+</tr>
+<tr>
+<td>
+<a class="pagelink" href="Pathfinder-RPG.M%c3%a9phite.ashx" title="Méphite">Méphite</a> (n’importe quel type)</td>
+<td>Neutre</td>
+<td>7</td>
+</tr>
+<tr>
+<td>
+<a class="pagelink" href="Pathfinder-RPG.Poup%c3%a9e%20des%20%c3%a2mes.ashx" title="Poupée des âmes">Poupée des âmes</a><sup>2</sup>
+</td>
+<td>N’importe</td>
+<td>7</td>
+</tr>
+<tr>
+<td><a class="pagelink" href="Pathfinder-RPG.Cythnigot.ashx" title="Cythnigot">Qlippoth, Cythnigot</a></td>
+<td>Chaotique mauvais</td>
+<td>7</td>
+</tr>
+<tr>
+<td><a class="pagelink" href="Pathfinder-RPG.Raktavarna.ashx" title="Raktavarna">Rakshasa, Raktavarna</a></td>
+<td>Loyal mauvais</td>
+<td>7</td>
+</tr>
+<tr>
+<td><a class="pagelink" href="Pathfinder-RPG.Rat%20sanguinaire.ashx" title="Rat sanguinaire">Rat sanguinaire</a></td>
+<td>Neutre</td>
+<td>3</td>
+</tr>
+<tr>
+<td>
+<a class="pagelink" href="Pathfinder-RPG.Singe.ashx" title="Singe">Singe</a> <a class="pagelink" href="Pathfinder-RPG.arch%c3%a9types%20simples.ashx#CREATUREENTROPIQUE" title="archétypes simples">entropique</a><sup>1</sup>
+</td>
+<td>Chaotique Neutre</td>
+<td>3</td>
+</tr>
+<tr>
+<td><a class="pagelink" href="Pathfinder-RPG.Strige.ashx" title="Strige">Strige</a></td>
+<td>Neutre</td>
+<td>5</td>
+</tr>
+<tr>
+<td><a class="pagelink" href="Pathfinder-RPG.Ver%20du%20n%c3%a9ant.ashx" title="Ver du néant">Ver du néant</a></td>
+<td>Chaotique Neutre</td>
+<td>7</td>
+</tr>
+<tr>
+<td>
+<a class="pagelink" href="Pathfinder-RPG.Vip%c3%a8re.ashx" title="Vipère">Vipère</a> <a class="pagelink" href="Pathfinder-RPG.arch%c3%a9types%20simples.ashx#CREATUREFIELON" title="archétypes simples">fiélone</a><sup>1</sup>
+</td>
+<td>Neutre Mauvais</td>
+<td>3</td>
+</tr>
+<tr>
+<td><a class="pagelink" href="Pathfinder-RPG.Zoog.ashx" title="Zoog">Zoog</a></td>
+<td>Chaotique Neutre</td>
+<td>5</td>
+</tr>
+</table>
+<br><i>1 - Ou un autre animal <a class="pagelink" href="Pathfinder-RPG.arch%c3%a9types%20simples.ashx#CREATURECELESTE" title="archétypes simples">céleste</a>, <a class="pagelink" href="Pathfinder-RPG.arch%c3%a9types%20simples.ashx#CREATUREENTROPIQUE" title="archétypes simples">entropique</a>, <a class="pagelink" href="Pathfinder-RPG.arch%c3%a9types%20simples.ashx#CREATUREFIELON" title="archétypes simples">fiélon</a> ou <a class="pagelink" href="Pathfinder-RPG.arch%c3%a9types%20simples.ashx#CREATUREINFLEXIBLE" title="archétypes simples">inflexible</a> de la liste des familiers ordinaires. <br>
+2 - Le maître doit tout d’abord le fabriquer.<br>
+3 - Le maître doit être un nécromancien et avoir un mille-pattes domestique pour familier.</i><br>
+</center>
+</div>]]></benefit><slug>familier-superieur</slug></response>

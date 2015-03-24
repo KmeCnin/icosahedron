@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<response><id>560</id><name>D&#xE9;monstration</name><link>{{ROOT}}/r%C3%A8gles-pathfinder/dons/252/demonstration</link><feat><id>249</id><nameId>d&#xE9;monstration-de-ma&#xEE;tre</nameId><name>D&#xE9;monstration de ma&#xEE;tre</name><description>Le personnage donne une repr&#xE9;sentation sp&#xE9;ciale pour sa victoire et met la foule en transe.</description><benefit><![CDATA[<div> Le personnage choisit deux dons de spectacle qu’il maîtrise. Quand il fait un test de combat de spectacle, il profite des avantages de ces deux dons mais il gagne seulement un bonus de +2 au test de combat de spectacle.
+
+	</div>]]></benefit><slug>demonstration-de-maitre</slug></feat><slug>demonstration-3</slug></response>

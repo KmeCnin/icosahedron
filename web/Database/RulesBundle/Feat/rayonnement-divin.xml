@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<response><id>536</id><nameId>rayonnement-divin</nameId><name>Rayonnement divin</name><description>L&#x2019;aasimar peut utiliser sa lumi&#xE8;re divine de bien des fa&#xE7;ons.</description><benefit><![CDATA[<div> L’aasimar gagne une utilisation supplémentaire par jour de <i><a class="pagelink" href="Pathfinder-RPG.lumi%c3%a8re%20du%20jour.ashx" title="Lumière du jour">lumière du jour</a></i>. Il choisit un sort dans la table ci-dessous ; en dépensant une utilisation de lumière du jour, il peut utiliser ce sort comme un pouvoir magique. Pour choisir un sort, il doit avoir le niveau de personnage minimum indiqué dans la table. Le <a class="pagelink" href="Pathfinder-RPG.DD.ashx" title="DD">DD</a> du <a class="pagelink" href="Pathfinder-RPG.jds.ashx" title="JDS">jet de sauvegarde</a> pour ce sort est basé sur le <a class="pagelink" href="Pathfinder-RPG.Charisme.ashx" title="Le Charisme">Charisme</a>. <br><br><div align="center">
+<table class="tablo autoalt">
+<tr>
+<td> <b>Pouvoir magique</b>
+</td>
+<td> <b>Niveau de personnage <br>minimum </b>
+</td>
+</tr>
+<tr>
+<td><i><a class="pagelink" href="Pathfinder-RPG.Grandes%20illuminations.ashx" title="Grandes illuminations">Grandes illuminations</a></i></td>
+<td>Niveau 1</td>
+</tr>
+<tr>
+<td><i><a class="pagelink" href="Pathfinder-RPG.Sillage%20de%20lumi%c3%a8re.ashx" title="Sillage de lumière">Sillage de lumière</a></i></td>
+<td>Niveau 3</td>
+</tr>
+<tr>
+<td><i><a class="pagelink" href="Pathfinder-RPG.Lumi%c3%a8re%20br%c3%bblante.ashx" title="Lumière brûlante">Lumière brûlante</a></i></td>
+<td>Niveau 5</td>
+</tr>
+<tr>
+<td><i><a class="pagelink" href="Pathfinder-RPG.Poussi%c3%a8re%20d%c3%a9toile.ashx" title="Poussière d'étoile">Poussière d’étoile</a></i></td>
+<td>Niveau 7</td>
+</tr>
+<tr>
+<td>
+<i><a class="pagelink" href="Pathfinder-RPG.Rayon%20de%20soleil.ashx" title="Rayon de soleil">Rayon de soleil</a></i> (un rayon uniquement)</td>
+<td>Niveau 9</td>
+</tr>
+</table>
+</div>
+<br><b>Spécial.</b> L’aasimar peut prendre ce don plusieurs fois. Chaque fois qu’il le choisit, il gagne une utilisation journalière supplémentaire de lumière du jour et peut choisir un autre sort de la table.
+
+	</div>]]></benefit><slug>rayonnement-divin</slug></response>

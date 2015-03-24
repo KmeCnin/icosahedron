@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<response><id>360</id><nameId>griffes-coupantes</nameId><name>Griffes coupantes</name><description>Les griffes du personnage infligent des d&#xE9;g&#xE2;ts sup&#xE9;rieurs.</description><benefit><![CDATA[<div> Si le personnage touche une créature avec ses deux attaques de griffes au cours de son tour, la seconde griffe inflige 1d6 points de dégâts supplémentaires. Il s’agit de dégâts de précision qui ne sont pas multipliés en cas de <a class="pagelink" href="Pathfinder-RPG.coup%20critique.ashx" title="coup critique">coup critique</a>. Le personnage peut utiliser ce don une fois par round.
+
+	</div>]]></benefit><slug>griffes-coupantes</slug></response>

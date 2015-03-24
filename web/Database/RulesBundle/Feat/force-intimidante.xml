@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<response><id>320</id><nameId>force-intimidante</nameId><name>Force intimidante</name><description>La force physique du personnage intimide les autres.</description><benefit><![CDATA[<div> Le personnage ajoute son modificateur de <a class="pagelink" href="Pathfinder-RPG.Force.ashx" title="La Force">Force</a> en plus de son modificateur de <a class="pagelink" href="Pathfinder-RPG.Charisme.ashx" title="Le Charisme">Charisme</a> lors de ses <a class="pagelink" href="Pathfinder-RPG.test%20de%20comp%c3%a9tence.ashx" title="test de compétence">tests</a> d’<a class="pagelink" href="Pathfinder-RPG.Intimidation.ashx" title="Intimidation">Intimidation</a>.
+
+	</div>]]></benefit><slug>force-intimidante</slug></response>

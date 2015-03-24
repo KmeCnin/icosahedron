@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<response><id>577</id><nameId>sage-harmonique</nameId><name>Sage harmonique</name><description>Le personnage a si bien saisi le fonctionnement acoustique des structures artificielles qu&#x2019;il en profite pour am&#xE9;liorer ses repr&#xE9;sentations bardiques. </description><benefit><![CDATA[<div> Quand le personnage se trouve dans une structure artificielle, il peut dépenser une <a class="pagelink" href="Pathfinder-RPG.action%20libre.ashx" title="Action libre">action libre</a> pour faire un test de <a class="pagelink" href="Pathfinder-RPG.Connaissances.ashx" title="Connaissances">Connaissances</a> (ingénierie) <a class="pagelink" href="Pathfinder-RPG.DD.ashx" title="DD">DD</a> 15 au début de sa représentation bardique. S’il réussit, il a droit à l’un des avantages suivants.
+<ul>
+<li>
+<i>Harmonisation.</i> Le personnage profite de la réverbération acoustique pour augmenter le DD de ses effets de représentation bardique de +1.</li>
+<li>
+<i>Réverbération.</i> Quand le personnage termine sa représentation, l’effet se poursuit 1 round de plus, quelle que soit la raison pour laquelle il a cessé la représentation. Cela ne lui permet pas d’avoir plusieurs représentations bardiques actives à la fois.<br>
+</li>
+</ul>
+<br><b>Normal.</b> La représentation bardique se poursuit seulement tant que le personnage la maintient.
+
+	</div>]]></benefit><slug>sage-harmonique</slug></response>

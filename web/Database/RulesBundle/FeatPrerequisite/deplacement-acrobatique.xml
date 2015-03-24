@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<response><id>1138</id><name>D&#xE9;placement acrobatique</name><link>{{ROOT}}/r%C3%A8gles-pathfinder/dons/253/deplacement-acrobatique</link><feat><id>491</id><nameId>pas-l&#xE9;ger</nameId><name>Pas l&#xE9;ger</name><description>Le personnage peut agilement se frayer un passage &#xE0; travers tous les terrains, m&#xEA;me les plus dangereux et les plus accident&#xE9;s.</description><benefit><![CDATA[<div> Le personnage peut ignorer les effets des <a class="pagelink" href="Pathfinder-RPG.terrain%20difficile.ashx" title="terrain difficile">terrains difficiles</a> dans les environnements naturels et fonctionner comme s’il s’agissait d’un terrain normal.
+
+	</div>]]></benefit><slug>pas-leger</slug></feat><slug>deplacement-acrobatique</slug></response>

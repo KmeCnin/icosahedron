@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<response><id>188</id><name>Expertise du combat</name><link>{{ROOT}}/r%C3%A8gles-pathfinder/dons/289/expertise-du-combat</link><feat><id>87</id><nameId>briser-la-garde</nameId><name>Briser la garde</name><description>Le personnage peut utiliser une de ses deux armes pour distraire la d&#xE9;fense adverse tout en attaquant avec l&#x2019;autre.</description><benefit><![CDATA[<div> Quand le personnage manie deux armes et qu’il en utilise une pour <a class="pagelink" href="Pathfinder-RPG.d%c3%a9sarmement.ashx" title="désarmement">désarmer</a> un adversaire, il peut dépenser une <a class="pagelink" href="Pathfinder-RPG.action%20rapide.ashx" title="Action rapide">action rapide</a> pour l’attaquer avec la seconde arme.
+
+	</div>]]></benefit><slug>briser-la-garde</slug></feat><slug>expertise-du-combat-5</slug></response>

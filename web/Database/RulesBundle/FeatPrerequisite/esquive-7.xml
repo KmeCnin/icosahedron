@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<response><id>675</id><name>Esquive</name><link>{{ROOT}}/r%C3%A8gles-pathfinder/dons/288/esquive</link><feat><id>294</id><nameId>exploit-du-tireur-habile</nameId><name>Exploit du tireur habile</name><description>Le personnage garde un &#x153;il sur ce qui se passe alentour, m&#xEA;me quand il s&#x2019;occupe de son arme, ce qui lui permet d&#x2019;&#xE9;viter les attaques quand il tire ou recharge une arme &#xE0; feu.</description><benefit><![CDATA[<div> Tant que le personnage a au moins 1 point d’audace, il ne provoque pas d’<a class="pagelink" href="Pathfinder-RPG.attaque%20dopportunit%c3%a9.ashx" title="attaque d'opportunité">attaque d’opportunité</a> quand il tire ou quand il recharge son arme.
+
+	</div>]]></benefit><slug>exploit-du-tireur-habile</slug></feat><slug>esquive-7</slug></response>

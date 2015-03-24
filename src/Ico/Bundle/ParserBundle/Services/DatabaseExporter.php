@@ -1,28 +1,52 @@
 <?php
 
 namespace Ico\Bundle\ParserBundle\Services;
+//use Symfony\Component\Serializer\Encoder\EncoderInterface;
+//use Symfony\Component\Serializer\Normalizer\NormalizerInterface;
 
+
+use Doctrine\ORM\EntityManager;
 use Ico\Bundle\ParserBundle\Services\DatabaseFormater;
+use Symfony\Component\DependencyInjection\ContainerInterface;
+use Symfony\Component\Validator\Exception\InvalidArgumentException;
+use Symfony\Component\Filesystem\Filesystem;
 
 class DatabaseExporter {
 
     protected $em;
-    protected $entities;
+    protected $entities; // List de tous les namespaces des entités à exporter
+    protected $allExistingBundles;
     protected $bundle;
     protected $databaseFormater;
     
-    public function __construct(EntityManager $entityManager, DatabaseFormater $databaseFormater) {
+    public $path;
+    
+    public function __construct(EntityManager $entityManager, DatabaseFormater $databaseFormater, ContainerInterface $container) {
         $this->em = $entityManager;
+	   $databaseFormater->setFormat(DatabaseFormater::XML);
         $this->databaseFormater = $databaseFormater;
-        $this->setBundle('IcoRulesBundle');
+	   $this->allExistingBundles = $container->getParameter('kernel.bundles');
+        $this->setBundle('RulesBundle');
+	   $this->entities = $this->getAllEntities();
+        $this->path = 'web/Database/'.$this->bundle.'/';
+	   unset($container); // On libère la mémoire
     }
     
+    /**
+     * 
+     * @param string $format
+     */
     public function export($format = DatabaseFormater::XML) {
-	   $this->databaseFormater->setFormat($format);
+	   $filesystem = new Filesystem();
 	   foreach($this->entities as $entity) {
-		  $repository = $this->getDoctrine()->getRepository($this->bundle.':'.$entity);
+		  $repository = $this->em->getRepository($entity);
 		  $entries = $repository->findAll();
-		  $entries_converted = $this->databaseFormater->convert($entries);
+		  $root = $this->path.(new \ReflectionClass($entries[0]))->getShortName();
+		  foreach($entries as $entry) {
+			 $path = $root.'/'.$entry->getSlug().'.'.$format;
+			 $data = $this->databaseFormater->convert($entry);
+			 $filesystem->dumpFile($path, $data); 
+		  }
 	   }
     }
     
@@ -60,17 +84,53 @@ class DatabaseExporter {
      * @return boolean
      */
     protected function isEntity($entity) {
-	   $meta = $this->em->getMetadataFactory()->getMetadataFor($entity);
-	   return $this->em->getMetadataFactory()->isEntity($meta);
+	   $object = new $entity();
+	   return method_exists($object, 'getSlug');
+//	   $meta = $this->em->getMetadataFactory()->getMetadataFor($entity);
+//	   $isEntity = $this->em->getMetadataFactory()->isEntity($meta);
+//	   if ($isEntity) {
+//		  $object = new $entity();
+//		  if (method_exists($object, 'getSlug')) {
+//			 return true;
+//		  }
+//	   }
+//	   return false;
+    }
+    
+    /**
+     * 
+     * @return array
+     */
+    public function getAllEntities() {
+	   $entities = array();
+	   $meta =  $this->em->getMetadataFactory()->getAllMetadata();
+	   foreach ($meta as $m) {
+		  if (strpos($m->getName(), $this->namespaceFromBundle($this->bundle)) !== false && $this->isEntity($m->getName()) && !strpos($m->getName(), 'CharacterClass')) {
+			 $entities[] = $m->getName();
+		  }
+	   }
+	   return $entities;
+    }
+    
+    protected function namespaceFromBundle($bundle) {
+	   return 'Ico\Bundle\\'.$bundle.'\\';
     }
     
     /**
      * @param string $bundle
      */
-    public function setBundle(EncoderInterface $bundle) {
-	   if (!array_key_exists($bundle, $this->container->getParameter('kernel.bundles'))) {
+    public function setBundle($bundle) {
+	   if (!array_key_exists('Ico'.$bundle, $this->allExistingBundles)) {
 		  throw new InvalidArgumentException('Le bundle '.$bundle.' n\'éxiste pas.');
 	   }
 	   $this->bundle = $bundle;
+    }
+    
+    /**
+     * 
+     * @param string $path
+     */
+    public function setPath($path) {
+	   $this->path = $path;
     }
 }

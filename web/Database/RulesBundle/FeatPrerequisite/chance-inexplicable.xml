@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<response><id>1605</id><name>Chance inexplicable</name><link>{{ROOT}}/r%C3%A8gles-pathfinder/dons/119/chance-inexplicable</link><feat><id>709</id><nameId>transmettre-sa-chance</nameId><name>Transmettre sa chance</name><description>Le personnage est extr&#xEA;mement chanceux et, parfois, cela d&#xE9;teint sur ses alli&#xE9;s.</description><benefit><![CDATA[<div> Le personnage peut utiliser la Chance insolente une fois de plus par jour. Par une <a class="pagelink" href="Pathfinder-RPG.action%20imm%c3%a9diate.ashx" title="Action immédiate">action immédiate</a>, il peut aussi faire bénéficier un allié qui le voit et l’entend de sa Chance inexplicable.
+
+	</div>]]></benefit><slug>transmettre-sa-chance</slug></feat><slug>chance-inexplicable</slug></response>

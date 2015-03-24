@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<response><id>691</id><nameId>tir-perturbateur</nameId><name>Tir perturbateur</name><description>Gr&#xE2;ce &#xE0; la pr&#xE9;cision de ses tirs, le personnage peut mener la vie dure &#xE0; un adversaire tentant de lancer des sorts.</description><benefit><![CDATA[<div> Si le personnage prépare une action afin de tirer sur un adversaire situé dans un rayon de 9 mètres (6 cases) au cas où celui-ci lancerait un sort et si cette <a class="pagelink" href="Pathfinder-RPG.attaque%20%c3%a0%20distance.ashx" title="Attaque à distance">attaque à distance</a> réussit, le <a class="pagelink" href="Pathfinder-RPG.DD.ashx" title="DD">DD</a> du test de <a class="pagelink" href="Pathfinder-RPG.Concentration.ashx" title="Concentration">Concentration</a> de la cible pour mener à bien son incantation augmente de +4.
+
+	</div>]]></benefit><slug>tir-perturbateur</slug></response>

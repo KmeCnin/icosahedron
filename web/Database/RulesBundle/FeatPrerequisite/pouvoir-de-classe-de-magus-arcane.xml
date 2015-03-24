@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<response><id>32</id><name>Pouvoir de classe de magus arcane</name><link></link><feat><id>21</id><nameId>arcane-suppl&#xE9;mentaire</nameId><name>Arcane suppl&#xE9;mentaire</name><description>Le personnage a perc&#xE9; les secrets d&#x2019;un nouvel arcane de magus. </description><benefit><![CDATA[<div> Le personnage obtient un arcane de magus supplémentaire. Il doit remplir les conditions requises.<br><br><b>Spécial.</b> Le personnage peut choisir ce don à plusieurs reprises. Ses effets se cumulent et lui accordent un nouvel arcane à chaque fois.
+
+	</div>]]></benefit><slug>arcane-supplementaire</slug></feat><slug>pouvoir-de-classe-de-magus-arcane</slug></response>

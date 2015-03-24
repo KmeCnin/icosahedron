@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<response><id>288</id><nameId>esquive</nameId><name>Esquive</name><description>L&#x2019;entra&#xEE;nement et les r&#xE9;flexes du personnage lui permettent de r&#xE9;agir rapidement quand il s&#x2019;agit d&#x2019;&#xE9;viter une attaque.</description><benefit><![CDATA[<div> Le personnage bénéficie d’un bonus d’esquive de +1 à la <a class="pagelink" href="Pathfinder-RPG.CA.ashx" title="CA">CA</a> (et donc au <a class="pagelink" href="Pathfinder-RPG.DMD.ashx" title="DMD">DMD</a>). Il perd automatiquement ce bonus s’il se trouve dans une situation où il perd son bonus de <a class="pagelink" href="Pathfinder-RPG.Dext%c3%a9rit%c3%a9.ashx" title="La Dextérité">Dextérité</a> à la <a class="pagelink" href="Pathfinder-RPG.CA.ashx" title="CA">CA</a>.
+
+	</div>]]></benefit><slug>esquive</slug></response>

@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<response><id>275</id><name>humain</name><link></link><feat><id>119</id><nameId>chance-inexplicable</nameId><name>Chance inexplicable</name><description>La chance du personnage surprend toujours les autres.</description><benefit><![CDATA[<div> Une fois par jour, le personnage peut gagner un bonus de +8 à un unique jet de d20 par une <a class="pagelink" href="Pathfinder-RPG.action%20libre.ashx" title="Action libre">action libre</a>, à faire avant de lancer le dé. Il peut aussi le faire après, mais dans ce cas, le bonus est réduit à +4.
+
+	</div>]]></benefit><slug>chance-inexplicable</slug></feat><slug>humain-2</slug></response>

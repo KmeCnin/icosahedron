@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<response><id>1306</id><name>sans peur</name><link></link><feat><id>575</id><nameId>r&#xE9;solution-courageuse</nameId><name>R&#xE9;solution courageuse</name><description>Le personnage d&#xE9;fend sa position, m&#xEA;me quand les autres s&#x2019;enfuient.</description><benefit><![CDATA[<div> Si le personnage a le trait racial sans peur, son bonus racial aux <a class="pagelink" href="Pathfinder-RPG.jet%20de%20sauvegarde.ashx" title="jet de sauvegarde">jets de sauvegarde</a> contre les effets de terreur passe à +4. S’il a le trait veule, il subit toujours un malus de -2 à ces mêmes jets de sauvegarde, mais il peut profiter des bonus de moral aux jets de sauvegarde contre les effets de terreur.
+
+	</div>]]></benefit><slug>resolution-courageuse</slug></feat><slug>sans-peur</slug></response>

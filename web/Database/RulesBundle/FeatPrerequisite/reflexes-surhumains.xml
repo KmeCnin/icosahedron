@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<response><id>1391</id><name>R&#xE9;flexes surhumains</name><link>{{ROOT}}/r%C3%A8gles-pathfinder/dons/567/reflexes-surhumains</link><feat><id>610</id><nameId>science-des-r&#xE9;flexes-surhumains</nameId><name>Science des r&#xE9;flexes surhumains</name><description>Le personnage a un don pour &#xE9;viter les dangers qui l&#x2019;entourent.</description><benefit><![CDATA[<div> Une fois par jour, le personnage peut relancer un jet de <a class="pagelink" href="Pathfinder-RPG.R%c3%a9flexes.ashx" title="Réflexes">Réflexes</a>. Il doit décider de le faire avant que le résultat du premier jet soit connu et doit accepter le second résultat, même s’il est pire que le premier.
+
+	</div>]]></benefit><slug>science-des-reflexes-surhumains</slug></feat><slug>reflexes-surhumains</slug></response>

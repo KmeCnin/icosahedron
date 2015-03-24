@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<response><id>1338</id><name>Pouvoir de classe connaissance des monstres</name><link></link><feat><id>589</id><nameId>science-de-la-connaissance-des-monstres</nameId><name>Science de la connaissance des monstres</name><description>Le personnage est obs&#xE9;d&#xE9; par les pouvoirs et les faiblesses des monstres.</description><benefit><![CDATA[<div> Le personnage gagne un bonus sacré égal à 1/2 niveau des classes qui donnent le pouvoir connaissance des monstres à tous les tests de compétence qui visent à identifier les pouvoirs et les faiblesses des créatures.
+
+	</div>]]></benefit><slug>science-de-la-connaissance-des-monstres</slug></feat><slug>pouvoir-de-classe-connaissance-des-monstres</slug></response>

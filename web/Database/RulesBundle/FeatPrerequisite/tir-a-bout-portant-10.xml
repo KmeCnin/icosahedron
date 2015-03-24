@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<response><id>1522</id><name>Tir &#xE0; bout portant</name><link>{{ROOT}}/r%C3%A8gles-pathfinder/dons/695/tir-a-bout-portant</link><feat><id>686</id><nameId>tir-en-enfilade</nameId><name>Tir en enfilade</name><description>Les attaques &#xE0; distance du personnage b&#xE9;n&#xE9;ficient de la prise en tenaille. </description><benefit><![CDATA[<div> Le personnage reçoit un bonus de +2 aux <a class="pagelink" href="Pathfinder-RPG.jet%20dattaque.ashx" title="jet dattaque">jets d’attaque</a> à distance contre un adversaire <a class="pagelink" href="Pathfinder-RPG.pris%20en%20tenaille.ashx" title="Pris en tenaille">pris en tenaille</a> par un ou plusieurs alliés qui disposent aussi de ce don.
+
+	</div>]]></benefit><slug>tir-en-enfilade</slug></feat><slug>tir-a-bout-portant-10</slug></response>

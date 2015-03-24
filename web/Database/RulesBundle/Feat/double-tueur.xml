@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<response><id>236</id><nameId>double-tueur</nameId><name>Double tueur</name><description>Le personnage accorde la propri&#xE9;t&#xE9; tueur &#xE0; deux armes.</description><benefit><![CDATA[<div> Le personnage applique la capacité <a class="pagelink" href="Pathfinder-RPG.inquisiteur.ashx#TUEUR" title="L'inquisiteur">tueur</a> à la seconde arme qu’il tient. Tant que ce pouvoir est actif, au début de chaque tour, il utilise une <a class="pagelink" href="Pathfinder-RPG.action%20libre.ashx" title="Action libre">action libre</a> pour déterminer si la propriété s’applique à une arme ou l’autre ou les deux. À chaque fois qu’il l’applique aux deux, il dépense 2 rounds de tueur.
+
+	</div>]]></benefit><slug>double-tueur</slug></response>

@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<response><id>10</id><name>Pas chass&#xE9;</name><link></link><feat><id>5</id><nameId>agilit&#xE9;-dimensionnelle</nameId><name>Agilit&#xE9; dimensionnelle</name><description>La t&#xE9;l&#xE9;portation ne perturbe plus le personnage.</description><benefit><![CDATA[<div> Le personnage peut effectuer toutes les actions qui lui restent après avoir lancé <i><a class="pagelink" href="Pathfinder-RPG.porte%20dimensionnelle.ashx" title="Porte dimensionnelle">porte dimensionnelle</a></i> ou fait un pas chassé.<br><br>Il gagne aussi un bonus de +4 aux tests de <a class="pagelink" href="Pathfinder-RPG.Concentration.ashx" title="Concentration">Concentration</a> quand il lance un sort de <a class="pagelink" href="Pathfinder-RPG.pr%c3%a9sentation%20des%20sorts.ashx#TELEPORTATION" title="Présentation des sorts">téléportation</a>.
+
+	</div>]]></benefit><slug>agilite-dimensionnelle</slug></feat><slug>pas-chasse</slug></response>

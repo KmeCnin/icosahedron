@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<response><id>420</id><name>Attaque sournoise +5d6</name><link></link><feat><id>181</id><nameId>coup-odieux</nameId><name>Coup odieux</name><description>Le personnage sait comment profiter de l&#x2019;&#xE9;tat d&#x2019;un ennemi mal en point pour tenter un coup de gr&#xE2;ce.</description><benefit><![CDATA[<div> Le personnage peut effectuer un <a class="pagelink" href="Pathfinder-RPG.coup%20de%20gr%c3%a2ce.ashx" title="Coup de grâce">coup de grâce</a> sur une cible recroquevillée sur elle-même ou <a class="pagelink" href="Pathfinder-RPG.%c3%a9tourdi.ashx" title="Étourdi">étourdie</a>.<br><br><b>Normal.</b> Seules les cibles sans défense peuvent être victimes d’un coup de grâce.
+
+	</div>]]></benefit><slug>coup-odieux</slug></feat><slug>attaque-sournoise-5d6</slug></response>
