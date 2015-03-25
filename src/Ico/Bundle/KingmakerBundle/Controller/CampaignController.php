@@ -88,6 +88,14 @@ class CampaignController extends Controller {
             $acl = $aclProvider->createAcl($objectIdentity);
             $securityIdentity = UserSecurityIdentity::fromAccount($user);
             $acl->insertObjectAce($securityIdentity, MaskBuilder::MASK_OWNER);
+		  $admins = $this->getDoctrine()
+			 ->getRepository('IcoUserBundle:User')
+			 ->findByRole('ROLE_ADMIN');
+		  // Accès pour les admins
+		  foreach ($admins as $admin) {
+			 $securityIdentity = UserSecurityIdentity::fromAccount($admin);
+			 $acl->insertObjectAce($securityIdentity, MaskBuilder::MASK_OWNER);
+		  }
             $aclProvider->updateAcl($acl);
 
             $this->get('session')->getFlashBag()->add('success', 'La campagne ' . $campaign->getName() . ' a été créée.');

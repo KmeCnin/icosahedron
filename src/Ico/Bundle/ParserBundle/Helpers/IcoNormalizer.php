@@ -6,10 +6,102 @@ use Symfony\Component\Serializer\Exception\CircularReferenceException;
 use Symfony\Component\Serializer\Exception\InvalidArgumentException;
 use Symfony\Component\Serializer\Exception\LogicException;
 use Symfony\Component\Serializer\Exception\RuntimeException;
-use Symfony\Component\Serializer\Normalizer\GetSetMethodNormalizer;
 
-class IcoNormalizer extends GetSetMethodNormalizer {
-    
+use Symfony\Component\Serializer\Normalizer\SerializerAwareNormalizer;
+use Symfony\Component\Serializer\Normalizer\NormalizerInterface;
+use Symfony\Component\Serializer\Normalizer\DenormalizerInterface;
+
+class IcoNormalizer extends SerializerAwareNormalizer implements NormalizerInterface, DenormalizerInterface
+{
+    protected $circularReferenceLimit = 1;
+    protected $circularReferenceHandler;
+    protected $callbacks = array();
+    protected $ignoredAttributes = array();
+    protected $camelizedAttributes = array();
+
+    /**
+     * Set circular reference limit.
+     *
+     * @param $circularReferenceLimit limit of iterations for the same object
+     *
+     * @return self
+     */
+    public function setCircularReferenceLimit($circularReferenceLimit)
+    {
+        $this->circularReferenceLimit = $circularReferenceLimit;
+
+        return $this;
+    }
+
+    /**
+     * Set circular reference handler.
+     *
+     * @param callable $circularReferenceHandler
+     *
+     * @return self
+     *
+     * @throws InvalidArgumentException
+     */
+    public function setCircularReferenceHandler($circularReferenceHandler)
+    {
+        if (!is_callable($circularReferenceHandler)) {
+            throw new InvalidArgumentException('The given circular reference handler is not callable.');
+        }
+
+        $this->circularReferenceHandler = $circularReferenceHandler;
+
+        return $this;
+    }
+
+    /**
+     * Set normalization callbacks.
+     *
+     * @param callable[] $callbacks help normalize the result
+     *
+     * @throws InvalidArgumentException if a non-callable callback is set
+     *
+     * @return self
+     */
+    public function setCallbacks(array $callbacks)
+    {
+        foreach ($callbacks as $attribute => $callback) {
+            if (!is_callable($callback)) {
+                throw new InvalidArgumentException(sprintf('The given callback for attribute "%s" is not callable.', $attribute));
+            }
+        }
+        $this->callbacks = $callbacks;
+
+        return $this;
+    }
+
+    /**
+     * Set ignored attributes for normalization.
+     *
+     * @param array $ignoredAttributes
+     *
+     * @return self
+     */
+    public function setIgnoredAttributes(array $ignoredAttributes)
+    {
+        $this->ignoredAttributes = $ignoredAttributes;
+
+        return $this;
+    }
+
+    /**
+     * Set attributes to be camelized on denormalize.
+     *
+     * @param array $camelizedAttributes
+     *
+     * @return self
+     */
+    public function setCamelizedAttributes(array $camelizedAttributes)
+    {
+        $this->camelizedAttributes = $camelizedAttributes;
+
+        return $this;
+    }
+
     /**
      * {@inheritdoc}
      */
@@ -44,6 +136,11 @@ class IcoNormalizer extends GetSetMethodNormalizer {
                 if (in_array($attributeName, $this->ignoredAttributes)) {
                     continue;
                 }
+			 
+                if (in_array($attributeName, array('parents', 'children'))) {
+				$attributes[$attributeName] = $method->invoke($object)->getId();
+                    continue;
+                }
 
                 $attributeValue = $method->invoke($object);
                 if (array_key_exists($attributeName, $this->callbacks)) {
@@ -57,14 +154,127 @@ class IcoNormalizer extends GetSetMethodNormalizer {
                     $attributeValue = $this->serializer->normalize($attributeValue, $format, $context);
                 }
 
-			 if (is_object($attributeValue)) {
-				var_dump($attributeValue); die; // TODO remove
-			 }
                 $attributes[$attributeName] = $attributeValue;
             }
         }
 
         return $attributes;
+    }
+
+    /**
+     * {@inheritdoc}
+     */
+    public function denormalize($data, $class, $format = null, array $context = array())
+    {
+        if (is_array($data) || is_object($data) && $data instanceof \ArrayAccess) {
+            $normalizedData = $data;
+        } elseif (is_object($data)) {
+            $normalizedData = array();
+
+            foreach ($data as $attribute => $value) {
+                $normalizedData[$attribute] = $value;
+            }
+        } else {
+            $normalizedData = array();
+        }
+
+        $reflectionClass = new \ReflectionClass($class);
+        $constructor = $reflectionClass->getConstructor();
+
+        if ($constructor) {
+            $constructorParameters = $constructor->getParameters();
+
+            $params = array();
+            foreach ($constructorParameters as $constructorParameter) {
+                $paramName = lcfirst($this->formatAttribute($constructorParameter->name));
+
+                if (isset($normalizedData[$paramName])) {
+                    $params[] = $normalizedData[$paramName];
+                    // don't run set for a parameter passed to the constructor
+                    unset($normalizedData[$paramName]);
+                } elseif ($constructorParameter->isOptional()) {
+                    $params[] = $constructorParameter->getDefaultValue();
+                } else {
+                    throw new RuntimeException(
+                        'Cannot create an instance of '.$class.
+                        ' from serialized data because its constructor requires '.
+                        'parameter "'.$constructorParameter->name.
+                        '" to be present.');
+                }
+            }
+
+            $object = $reflectionClass->newInstanceArgs($params);
+        } else {
+            $object = new $class();
+        }
+
+        foreach ($normalizedData as $attribute => $value) {
+            $setter = 'set'.$this->formatAttribute($attribute);
+
+            if (method_exists($object, $setter)) {
+                $object->$setter($value);
+            }
+        }
+
+        return $object;
+    }
+
+    /**
+     * Format attribute name to access parameters or methods
+     * As option, if attribute name is found on camelizedAttributes array
+     * returns attribute name in camelcase format.
+     *
+     * @param string $attributeName
+     *
+     * @return string
+     */
+    protected function formatAttribute($attributeName)
+    {
+        if (in_array($attributeName, $this->camelizedAttributes)) {
+            return preg_replace_callback(
+                '/(^|_|\.)+(.)/', function ($match) {
+                    return ('.' === $match[1] ? '_' : '').strtoupper($match[2]);
+                }, $attributeName
+            );
+        }
+
+        return $attributeName;
+    }
+
+    /**
+     * {@inheritdoc}
+     */
+    public function supportsNormalization($data, $format = null)
+    {
+        return is_object($data) && $this->supports(get_class($data));
+    }
+
+    /**
+     * {@inheritdoc}
+     */
+    public function supportsDenormalization($data, $type, $format = null)
+    {
+        return $this->supports($type);
+    }
+
+    /**
+     * Checks if the given class has any get{Property} method.
+     *
+     * @param string $class
+     *
+     * @return bool
+     */
+    private function supports($class)
+    {
+        $class = new \ReflectionClass($class);
+        $methods = $class->getMethods(\ReflectionMethod::IS_PUBLIC);
+        foreach ($methods as $method) {
+            if ($this->isGetMethod($method)) {
+                return true;
+            }
+        }
+
+        return false;
     }
 
     /**
@@ -84,5 +294,4 @@ class IcoNormalizer extends GetSetMethodNormalizer {
             0 === $method->getNumberOfRequiredParameters()
         );
     }
-    
 }

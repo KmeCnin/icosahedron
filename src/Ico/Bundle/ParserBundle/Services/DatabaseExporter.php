@@ -16,7 +16,6 @@ class DatabaseExporter {
     protected $em;
     protected $entities; // List de tous les namespaces des entités à exporter
     protected $allExistingBundles;
-    protected $bundle;
     protected $databaseFormater;
     
     public $path;
@@ -25,11 +24,9 @@ class DatabaseExporter {
         $this->em = $entityManager;
 	   $databaseFormater->setFormat(DatabaseFormater::XML);
         $this->databaseFormater = $databaseFormater;
-	   $this->allExistingBundles = $container->getParameter('kernel.bundles');
-        $this->setBundle('RulesBundle');
-	   $this->entities = $this->getAllEntities();
-        $this->path = 'web/Database/'.$this->bundle.'/';
-	   unset($container); // On libère la mémoire
+	   $this->entities = $container->getParameter('ico.parser.services.database_exporter.entities');
+        $this->path = 'web/Database/';
+	   unset($container); // On libère la mémoire et on protège le controlleur
     }
     
     /**
@@ -101,29 +98,12 @@ class DatabaseExporter {
      * 
      * @return array
      */
-    public function getAllEntities() {
-	   $entities = array();
-	   $meta =  $this->em->getMetadataFactory()->getAllMetadata();
-	   foreach ($meta as $m) {
-		  if (strpos($m->getName(), $this->namespaceFromBundle($this->bundle)) !== false && $this->isEntity($m->getName()) && !strpos($m->getName(), 'CharacterClass')) {
-			 $entities[] = $m->getName();
-		  }
-	   }
-	   return $entities;
+    public function getEntities() {
+	   return $this->entities;
     }
     
     protected function namespaceFromBundle($bundle) {
 	   return 'Ico\Bundle\\'.$bundle.'\\';
-    }
-    
-    /**
-     * @param string $bundle
-     */
-    public function setBundle($bundle) {
-	   if (!array_key_exists('Ico'.$bundle, $this->allExistingBundles)) {
-		  throw new InvalidArgumentException('Le bundle '.$bundle.' n\'éxiste pas.');
-	   }
-	   $this->bundle = $bundle;
     }
     
     /**
