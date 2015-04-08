@@ -4,3 +4,4 @@ services:
         arguments: [ "@doctrine.orm.entity_manager", "@ico.parser.services.database_formater", "@service_container" ]
     ico.parser.services.database_formater:
         class: Ico\Bundle\ParserBundle\Services\DatabaseFormater
+        arguments: [ "@jms_serializer"]

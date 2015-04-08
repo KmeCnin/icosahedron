@@ -3,12 +3,14 @@
 namespace Ico\Bundle\RulesBundle\Entity;
 
 use Doctrine\ORM\Mapping as ORM;
+use JMS\Serializer\Annotation as Serialize;
 
 /**
  * Link
  *
  * @ORM\Table(name="link")
  * @ORM\Entity(repositoryClass="Ico\Bundle\RulesBundle\Repository\LinkRepository")
+ * @Serialize\XmlRoot("link")
  */ 
 class Link
 {
@@ -18,6 +20,8 @@ class Link
      * @ORM\Column(name="id", type="integer")
      * @ORM\Id
      * @ORM\GeneratedValue(strategy="AUTO")
+     * @Serialize\XmlAttribute
+     * @Serialize\Type("integer")
      */
     private $id;
     
@@ -25,12 +29,15 @@ class Link
      * @var string
      *
      * @ORM\Column(name="url", type="string", length=255)
+     * @Serialize\XmlAttribute
+     * @Serialize\Type("string")
      */
     private $url;
     
     /**
      * @ORM\ManyToOne(targetEntity="LinkSource", cascade={"remove", "persist"})
      * @ORM\JoinColumn(nullable=false)
+     * @Serialize\Type("Ico\Bundle\RulesBundle\Entity\LinkSource")
      */
     private $source;
 

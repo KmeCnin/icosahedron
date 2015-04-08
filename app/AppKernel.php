@@ -22,6 +22,7 @@ class AppKernel extends Kernel {
             new FOS\UserBundle\FOSUserBundle(),
             new FOS\JsRoutingBundle\FOSJsRoutingBundle(),
             new Knp\Bundle\PaginatorBundle\KnpPaginatorBundle(),
+		  new JMS\SerializerBundle\JMSSerializerBundle(),
             new Ico\Bundle\UserBundle\IcoUserBundle(),
             new Ico\Bundle\AppBundle\IcoAppBundle(),
             new Ico\Bundle\HelperBundle\IcoHelperBundle(),

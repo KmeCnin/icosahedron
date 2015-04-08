@@ -4,12 +4,14 @@ namespace Ico\Bundle\RulesBundle\Entity;
 
 use Doctrine\ORM\Mapping as ORM; 
 use Gedmo\Mapping\Annotation as Gedmo;
+use JMS\Serializer\Annotation as Serialize;
 
 /**
  * LinkSource
  *
  * @ORM\Table(name="linksource", indexes={@ORM\Index(name="domain_idx", columns={"domain"})})
  * @ORM\Entity(repositoryClass="Ico\Bundle\RulesBundle\Repository\LinkSourceRepository")
+ * @Serialize\XmlRoot("link_source")
  */ 
 class LinkSource
 {
@@ -19,6 +21,8 @@ class LinkSource
      * @ORM\Column(name="id", type="integer")
      * @ORM\Id
      * @ORM\GeneratedValue(strategy="AUTO")
+     * @Serialize\XmlAttribute
+     * @Serialize\Type("integer")
      */
     private $id;
     
@@ -26,12 +30,16 @@ class LinkSource
      * @var string
      *
      * @ORM\Column(name="name", type="string", length=255)
+     * @Serialize\XmlAttribute
+     * @Serialize\Type("string")
      */
     private $name;
     
     /**
      * @Gedmo\Slug(fields={"name"})
      * @ORM\Column(name="slug", type="string", length=255)
+     * @Serialize\XmlAttribute
+     * @Serialize\Type("string")
      */
     private $slug;
     
@@ -39,6 +47,8 @@ class LinkSource
      * @var string
      *
      * @ORM\Column(name="domain", type="string", length=255)
+     * @Serialize\XmlAttribute
+     * @Serialize\Type("string")
      */
     private $domain;
     
@@ -46,6 +56,8 @@ class LinkSource
      * @var string
      *
      * @ORM\Column(name="language", type="string", length=255)
+     * @Serialize\XmlAttribute
+     * @Serialize\Type("string")
      */
     private $language;
     
@@ -53,6 +65,8 @@ class LinkSource
      * @var string
      *
      * @ORM\Column(name="picture", type="string", length=255)
+     * @Serialize\XmlAttribute
+     * @Serialize\Type("string")
      */
     private $picture;
     

@@ -22,27 +22,31 @@ class DatabaseExporter {
     
     public function __construct(EntityManager $entityManager, DatabaseFormater $databaseFormater, ContainerInterface $container) {
         $this->em = $entityManager;
-	   $databaseFormater->setFormat(DatabaseFormater::XML);
+	   $databaseFormater->setFormat(DatabaseFormater::FORMAT_DEFAULT);
         $this->databaseFormater = $databaseFormater;
 	   $this->entities = $container->getParameter('ico.parser.services.database_exporter.entities');
         $this->path = 'web/Database/';
-	   unset($container); // On libère la mémoire et on protège le controlleur
+	   unset($container);
     }
     
     /**
      * 
      * @param string $format
      */
-    public function export($format = DatabaseFormater::XML) {
+    public function export($format = DatabaseFormater::FORMAT_DEFAULT) {
 	   $filesystem = new Filesystem();
 	   foreach($this->entities as $entity) {
 		  $repository = $this->em->getRepository($entity);
 		  $entries = $repository->findAll();
 		  $root = $this->path.(new \ReflectionClass($entries[0]))->getShortName();
+		  print '	'.$entity.'
+';
 		  foreach($entries as $entry) {
 			 $path = $root.'/'.$entry->getSlug().'.'.$format;
 			 $data = $this->databaseFormater->convert($entry);
 			 $filesystem->dumpFile($path, $data); 
+			 print '	   '.$entry->getSlug().'
+';
 		  }
 	   }
     }

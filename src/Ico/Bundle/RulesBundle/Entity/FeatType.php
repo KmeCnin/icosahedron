@@ -4,12 +4,14 @@ namespace Ico\Bundle\RulesBundle\Entity;
 
 use Doctrine\ORM\Mapping as ORM; 
 use Gedmo\Mapping\Annotation as Gedmo;
+use JMS\Serializer\Annotation as Serialize;
 
 /**
  * FeatType
  *
  * @ORM\Table(name="feattype", indexes={@ORM\Index(name="nameId_idx", columns={"nameId"})})
  * @ORM\Entity(repositoryClass="Ico\Bundle\RulesBundle\Repository\FeatTypeRepository")
+ * @Serialize\XmlRoot("feat_type")
  */ 
 class FeatType
 {
@@ -19,6 +21,8 @@ class FeatType
      * @ORM\Column(name="id", type="integer")
      * @ORM\Id
      * @ORM\GeneratedValue(strategy="AUTO")
+     * @Serialize\XmlAttribute
+     * @Serialize\Type("integer")
      */
     private $id;
 
@@ -26,12 +30,16 @@ class FeatType
      * @var string
      *
      * @ORM\Column(name="nameId", type="string", length=255)
+     * @Serialize\XmlAttribute
+     * @Serialize\Type("string")
      */
     private $nameId; 
     
     /**
      * @Gedmo\Slug(fields={"nameId"})
      * @ORM\Column(name="slug", type="string", length=255)
+     * @Serialize\XmlAttribute
+     * @Serialize\Type("string")
      */
     private $slug; 
 
@@ -39,6 +47,8 @@ class FeatType
      * @var string
      *
      * @ORM\Column(name="name", type="string", length=255)
+     * @Serialize\XmlAttribute
+     * @Serialize\Type("string")
      */
     private $name;  
 
@@ -62,6 +72,7 @@ class FeatType
      *
      * @ORM\ManyToMany(targetEntity="Feat", mappedBy="featTypes", cascade={"persist", "merge", "remove"})
      * @ORM\JoinColumn(onDelete="CASCADE")
+     * @Serialize\Exclude
      */
     private $feats;
 
@@ -69,6 +80,8 @@ class FeatType
      * @var string
      *
      * @ORM\Column(name="wiki", type="string", length=255, nullable=true)
+     * @Serialize\XmlAttribute
+     * @Serialize\Type("string")
      */
     private $wiki; 
     

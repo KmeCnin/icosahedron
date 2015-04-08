@@ -108,11 +108,13 @@ class IcoNormalizer extends SerializerAwareNormalizer implements NormalizerInter
     public function normalize($object, $format = null, array $context = array())
     {
         $objectHash = spl_object_hash($object);
+        $attributes = array();
 
         if (isset($context['circular_reference_limit'][$objectHash])) {
+		  
             if ($context['circular_reference_limit'][$objectHash] >= $this->circularReferenceLimit) {
                 unset($context['circular_reference_limit'][$objectHash]);
-
+			 
                 if ($this->circularReferenceHandler) {
                     return call_user_func($this->circularReferenceHandler, $object);
                 }
@@ -128,7 +130,6 @@ class IcoNormalizer extends SerializerAwareNormalizer implements NormalizerInter
         $reflectionObject = new \ReflectionObject($object);
         $reflectionMethods = $reflectionObject->getMethods(\ReflectionMethod::IS_PUBLIC);
 
-        $attributes = array();
         foreach ($reflectionMethods as $method) {
             if ($this->isGetMethod($method)) {
                 $attributeName = lcfirst(substr($method->name, 0 === strpos($method->name, 'is') ? 2 : 3));

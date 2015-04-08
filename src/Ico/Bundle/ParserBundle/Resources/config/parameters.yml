@@ -1,2 +1,4 @@
 parameters:
-    ico.parser.services.database_exporter.entities: ['Ico\Bundle\RulesBundle\Entity\Ability', 'Ico\Bundle\RulesBundle\Entity\Feat']
+    ico.parser.services.database_exporter.entities: 
+       - 'Ico\Bundle\RulesBundle\Entity\Ability'
+       - 'Ico\Bundle\RulesBundle\Entity\Feat'

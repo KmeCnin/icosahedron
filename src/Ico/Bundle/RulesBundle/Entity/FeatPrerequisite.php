@@ -4,12 +4,14 @@ namespace Ico\Bundle\RulesBundle\Entity;
 
 use Doctrine\ORM\Mapping as ORM; 
 use Gedmo\Mapping\Annotation as Gedmo;
+use JMS\Serializer\Annotation as Serialize;
 
 /**
  * FeatPrerequisite
  *
  * @ORM\Table(name="featprerequisite")
  * @ORM\Entity(repositoryClass="Ico\Bundle\RulesBundle\Repository\FeatPrerequisiteRepository")
+ * @Serialize\XmlRoot("feat_prerequisite")
  */ 
 class FeatPrerequisite
 {
@@ -19,6 +21,8 @@ class FeatPrerequisite
      * @ORM\Column(name="id", type="integer")
      * @ORM\Id
      * @ORM\GeneratedValue(strategy="AUTO")
+     * @Serialize\XmlAttribute
+     * @Serialize\Type("integer")
      */
     private $id;
 
@@ -26,12 +30,16 @@ class FeatPrerequisite
      * @var string
      *
      * @ORM\Column(name="name", type="string", length=255)
+     * @Serialize\XmlAttribute
+     * @Serialize\Type("string")
      */
     private $name;
     
     /**
      * @Gedmo\Slug(fields={"name"})
      * @ORM\Column(name="slug", type="string", length=255)
+     * @Serialize\XmlAttribute
+     * @Serialize\Type("string")
      */
     private $slug;
 
@@ -39,12 +47,16 @@ class FeatPrerequisite
      * @var string
      *
      * @ORM\Column(name="link", type="string", length=255)
+     * @Serialize\XmlAttribute
+     * @Serialize\Type("string")
      */
     private $link;
     
     /**
      * @ORM\ManyToOne(targetEntity="Feat", cascade={"remove"}, inversedBy="featPrerequisites")
      * @ORM\JoinColumn(nullable=false)
+     * @Serialize\Type("Ico\Bundle\RulesBundle\Entity\Feat")
+     * @Serialize\MaxDepth(1)
      */
     private $feat;
     

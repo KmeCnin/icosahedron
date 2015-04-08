@@ -3,30 +3,28 @@
 namespace Ico\Bundle\ParserBundle\Services;
 
 use ReflectionClass;
-use Symfony\Component\Serializer\Encoder\JsonEncoder;
-use Symfony\Component\Serializer\Encoder\XmlEncoder;
-use Symfony\Component\Serializer\Normalizer\GetSetMethodNormalizer;
-use Symfony\Component\Serializer\Serializer;
+//use Symfony\Component\Serializer\Encoder\JsonEncoder;
+//use Symfony\Component\Serializer\Encoder\XmlEncoder;
+//use Symfony\Component\Serializer\Normalizer\GetSetMethodNormalizer;
+use JMS\Serializer\Serializer;
 use Symfony\Component\Validator\Exception\InvalidArgumentException;
-use Ico\Bundle\ParserBundle\Helpers\IcoNormalizer;
+//use Ico\Bundle\ParserBundle\Helpers\IcoNormalizer;
 
 class DatabaseFormater {
     
-    protected $encoders;
-    protected $normalizers;
     protected $format;
+    protected $serializer;
     
     // Paramètres possibles pour le format de conversion
-    const XML = 'xml';
-    const JSON = 'json';
+    const FORMAT_XML = 'xml';
+    const FORMAT_JSON = 'json';
+    const FORMAT_YAML = 'yaml';
+    const FORMAT_DEFAULT = self::FORMAT_XML;
     
-    public function __construct() {
-	   $this->setFormat(self::XML);
-	   $this->encoders = array(new XmlEncoder(), new JsonEncoder());
-	   $normalizer = new IcoNormalizer();
-//	   $normalizer->setIgnoredAttributes(array('children', 'parents', 'featPrerequisites', 'featTypes', 'links'));
-//	   $normalizer->setCircularReferenceHandler(function($object) {return 'CACA';});
-	   $this->normalizers = array($normalizer);
+    public function __construct(Serializer $serializer) {
+	   var_dump(get_class($serializer));
+	   $this->setFormat(self::FORMAT_DEFAULT);
+	   $this->serializer = $serializer;
     }
     
     /**
@@ -34,8 +32,7 @@ class DatabaseFormater {
      * @param object $entry
      */
     public function convert($entry) {
-	   $serializer = new Serializer($this->normalizers, $this->encoders);
-	   return $serializer->serialize($entry, $this->format);
+	   return $this->serializer->serialize($entry, $this->format);
     }
     
     /**

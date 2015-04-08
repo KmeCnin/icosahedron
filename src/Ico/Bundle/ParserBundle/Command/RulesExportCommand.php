@@ -17,10 +17,9 @@ class RulesExportCommand extends ContainerAwareCommand {
     protected $format;
 
     protected function configure() {
-	   $this
-			 ->setName('parser:rules:export')
-			 ->setDescription('Exporter les règles à partir de la BDD')
-			 ->addArgument('format', InputArgument::OPTIONAL, 'Dans quel format voulez-vous exporter ? [xml]');
+	   $this->setName('parser:rules:export')
+		  ->setDescription('Exporter les règles à partir de la BDD')
+		  ->addArgument('format', InputArgument::OPTIONAL, 'Dans quel format voulez-vous exporter ? [xml]');
     }
     
     
@@ -32,7 +31,7 @@ class RulesExportCommand extends ContainerAwareCommand {
 		  }
 		  $this->format = $input->getArgument('format');
 	   } else {
-		  $this->format = DatabaseFormater::XML;
+		  $this->format = DatabaseFormater::FORMAT_DEFAULT;
 	   }
     }
 

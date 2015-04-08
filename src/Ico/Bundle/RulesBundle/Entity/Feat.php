@@ -4,12 +4,14 @@ namespace Ico\Bundle\RulesBundle\Entity;
 
 use Doctrine\ORM\Mapping as ORM; 
 use Gedmo\Mapping\Annotation as Gedmo;
+use JMS\Serializer\Annotation as Serialize;
 
 /**
  * Feat
  *
  * @ORM\Table(name="feat", indexes={@ORM\Index(name="nameId_idx", columns={"nameId"})})
  * @ORM\Entity(repositoryClass="Ico\Bundle\RulesBundle\Repository\FeatRepository")
+ * @Serialize\XmlRoot("feat")
  */ 
 class Feat
 {
@@ -19,6 +21,8 @@ class Feat
      * @ORM\Column(name="id", type="integer")
      * @ORM\Id
      * @ORM\GeneratedValue(strategy="AUTO")
+     * @Serialize\XmlAttribute
+     * @Serialize\Type("integer")
      */
     private $id;
 
@@ -26,12 +30,16 @@ class Feat
      * @var string
      *
      * @ORM\Column(name="nameId", type="string", length=255)
+     * @Serialize\XmlAttribute
+     * @Serialize\Type("string")
      */
     private $nameId;
     
     /**
      * @Gedmo\Slug(fields={"nameId"})
      * @ORM\Column(name="slug", type="string", length=255)
+     * @Serialize\XmlAttribute
+     * @Serialize\Type("string")
      */
     private $slug;
 
@@ -39,11 +47,14 @@ class Feat
      * @var string
      *
      * @ORM\Column(name="name", type="string", length=255)
+     * @Serialize\XmlAttribute
+     * @Serialize\Type("string")
      */
     private $name;
     
     /**
      * @ORM\ManyToMany(targetEntity="Link", cascade={"remove", "persist"})
+     * @Serialize\Type("ArrayCollection<Ico\Bundle\RulesBundle\Entity\Link>")
      */
     protected $links;
 
@@ -67,27 +78,37 @@ class Feat
      *
      * @ORM\ManyToMany(targetEntity="FeatType", inversedBy="feats", cascade={"persist", "merge", "remove"})
      * @ORM\JoinTable(joinColumns={@ORM\JoinColumn(onDelete="CASCADE")}, inverseJoinColumns={@ORM\JoinColumn(onDelete="CASCADE")})
+     * @Serialize\Type("ArrayCollection<Ico\Bundle\RulesBundle\Entity\FeatType>")
+     * @Serialize\XmlList(entry="feat_type")
+     * @Serialize\MaxDepth(1)
      */
     protected $featTypes;
     
     /**
      * @ORM\OneToMany(targetEntity="FeatPrerequisite", mappedBy="feat", cascade={"persist"})
+     * @Serialize\Type("ArrayCollection<Ico\Bundle\RulesBundle\Entity\FeatPrerequisite>")
+     * @Serialize\XmlList(entry="feat_prerequisite")
+     * @Serialize\MaxDepth(1)
      */
     protected $featPrerequisites;
     
     /**
      * @var ArrayCollection Feat $parents
      *
-     * @ORM\ManyToMany(targetEntity="Feat", inversedBy="children", cascade={"persist", "merge", "remove"})
+     * @ORM\ManyToMany(targetEntity="Feat", inversedBy="children", cascade={"persist", "merge"})
      * @ORM\JoinTable(name="feat_parents_feat_children")
+     * @Serialize\Type("ArrayCollection<Ico\Bundle\RulesBundle\Entity\Feat>")
+     * @Serialize\Exclude
      */
     protected $parents;
     
     /**
      * @var ArrayCollection Feat $children
      *
-     * @ORM\ManyToMany(targetEntity="Feat", mappedBy="parents", cascade={"persist", "merge", "remove"})
+     * @ORM\ManyToMany(targetEntity="Feat", mappedBy="parents", cascade={"persist", "merge"})
      * @ORM\JoinTable(name="feat_parents_feat_children")
+     * @Serialize\Type("ArrayCollection<Ico\Bundle\RulesBundle\Entity\Feat>")
+     * @Serialize\MaxDepth(1)
      */
     protected $children;
     

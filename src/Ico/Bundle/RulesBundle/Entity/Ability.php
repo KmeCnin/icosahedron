@@ -4,12 +4,14 @@ namespace Ico\Bundle\RulesBundle\Entity;
 
 use Doctrine\ORM\Mapping as ORM;
 use Gedmo\Mapping\Annotation as Gedmo;
+use JMS\Serializer\Annotation as Serialize;
 
 /**
  * Ability
  *
  * @ORM\Table(name="ability")
  * @ORM\Entity(repositoryClass="Ico\Bundle\RulesBundle\Repository\AbilityRepository")
+ * @Serialize\XmlRoot("ability")
  */
 class Ability
 {
@@ -19,6 +21,8 @@ class Ability
      * @ORM\Column(name="id", type="integer")
      * @ORM\Id
      * @ORM\GeneratedValue(strategy="AUTO")
+     * @Serialize\XmlAttribute
+     * @Serialize\Type("integer")
      */
     private $id;
 
@@ -26,12 +30,16 @@ class Ability
      * @var string
      *
      * @ORM\Column(name="name", type="string", length=255)
+     * @Serialize\XmlAttribute
+     * @Serialize\Type("string")
      */
     private $name;
     
     /**
      * @Gedmo\Slug(fields={"name"})
      * @ORM\Column(name="slug", type="string", length=255)
+     * @Serialize\XmlAttribute
+     * @Serialize\Type("string")
      */
     private $slug;
 
@@ -39,6 +47,8 @@ class Ability
      * @var string
      *
      * @ORM\Column(name="short", type="string", length=3)
+     * @Serialize\XmlAttribute
+     * @Serialize\Type("string")
      */
     private $short;
 
@@ -67,11 +77,14 @@ class Ability
      * @var boolean
      *
      * @ORM\Column(name="mental", type="boolean")
+     * @Serialize\XmlAttribute
+     * @Serialize\Type("boolean")
      */
     private $mental;
     
     /**
      * @ORM\ManyToOne(targetEntity="Link", cascade={"remove", "persist"})
+     * @Serialize\Type("Ico\Bundle\RulesBundle\Entity\Link")
      */
     protected $link;
 
