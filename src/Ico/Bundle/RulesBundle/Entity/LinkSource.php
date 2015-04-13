@@ -23,6 +23,7 @@ class LinkSource
      * @ORM\GeneratedValue(strategy="AUTO")
      * @Serialize\XmlAttribute
      * @Serialize\Type("integer")
+     * @Serialize\Groups({"token"})
      */
     private $id;
     
@@ -32,6 +33,7 @@ class LinkSource
      * @ORM\Column(name="name", type="string", length=255)
      * @Serialize\XmlAttribute
      * @Serialize\Type("string")
+     * @Serialize\Groups({"token"})
      */
     private $name;
     
@@ -40,6 +42,7 @@ class LinkSource
      * @ORM\Column(name="slug", type="string", length=255)
      * @Serialize\XmlAttribute
      * @Serialize\Type("string")
+     * @Serialize\Groups({"token"})
      */
     private $slug;
     

@@ -6,8 +6,18 @@
     "autoload": {
         "psr-0": { "": "src/" }
     },
+    "repositories": [
+        {
+		  "type": "git",
+		  "url": "https://github.com/andreasferber/serializer"
+        },
+	   {
+		  "type": "git",
+		  "url": "https://github.com/andreasferber/JMSSerializerBundle.git"
+        }
+    ],
     "require": {
-        "php": ">=5.3.3",
+        "php": ">=5.5",
         "symfony/symfony": "~2.4",
 	   "symfony/dom-crawler": "~2.0",
 	   "symfony/css-selector": "~2.0",
@@ -18,7 +28,7 @@
 	   "symfony/filesystem": "2.7.x-dev",
         "doctrine/orm": "~2.2,>=2.2.3",
         "doctrine/doctrine-bundle": "~1.2",
-	   "doctrine/doctrine-fixtures-bundle": "dev-master",
+	   "doctrine/doctrine-fixtures-bundle": "2.2.*",
         "twig/extensions": "~1.0",
         "sensio/distribution-bundle": "~2.3",
         "sensio/framework-extra-bundle": "~3.0",
@@ -28,7 +38,8 @@
         "friendsofsymfony/jsrouting-bundle": "@stable",
         "knplabs/knp-paginator-bundle": "~2.4",
 	   "gedmo/doctrine-extensions": "~2.3",
-	   "jms/serializer-bundle": "0.*"
+	   "jms/serializer-bundle": "0.*",
+	   "jms/serializer": "dev-master"
     },
     "scripts": {
         "post-install-cmd": [

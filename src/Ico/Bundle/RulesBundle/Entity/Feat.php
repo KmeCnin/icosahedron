@@ -23,8 +23,28 @@ class Feat
      * @ORM\GeneratedValue(strategy="AUTO")
      * @Serialize\XmlAttribute
      * @Serialize\Type("integer")
+     * @Serialize\Groups({"token"})
      */
     private $id;
+
+    /**
+     * @var string
+     *
+     * @ORM\Column(name="name", type="string", length=255)
+     * @Serialize\XmlAttribute
+     * @Serialize\Type("string")
+     * @Serialize\Groups({"token"})
+     */
+    private $name;
+    
+    /**
+     * @Gedmo\Slug(fields={"nameId"})
+     * @ORM\Column(name="slug", type="string", length=255)
+     * @Serialize\XmlAttribute
+     * @Serialize\Type("string")
+     * @Serialize\Groups({"token"})
+     */
+    private $slug;
 
     /**
      * @var string
@@ -34,23 +54,6 @@ class Feat
      * @Serialize\Type("string")
      */
     private $nameId;
-    
-    /**
-     * @Gedmo\Slug(fields={"nameId"})
-     * @ORM\Column(name="slug", type="string", length=255)
-     * @Serialize\XmlAttribute
-     * @Serialize\Type("string")
-     */
-    private $slug;
-
-    /**
-     * @var string
-     *
-     * @ORM\Column(name="name", type="string", length=255)
-     * @Serialize\XmlAttribute
-     * @Serialize\Type("string")
-     */
-    private $name;
     
     /**
      * @ORM\ManyToMany(targetEntity="Link", cascade={"remove", "persist"})
@@ -80,7 +83,7 @@ class Feat
      * @ORM\JoinTable(joinColumns={@ORM\JoinColumn(onDelete="CASCADE")}, inverseJoinColumns={@ORM\JoinColumn(onDelete="CASCADE")})
      * @Serialize\Type("ArrayCollection<Ico\Bundle\RulesBundle\Entity\FeatType>")
      * @Serialize\XmlList(entry="feat_type")
-     * @Serialize\MaxDepth(1)
+     * @Serialize\RecursionGroups(set={"token"})
      */
     protected $featTypes;
     
@@ -88,7 +91,6 @@ class Feat
      * @ORM\OneToMany(targetEntity="FeatPrerequisite", mappedBy="feat", cascade={"persist"})
      * @Serialize\Type("ArrayCollection<Ico\Bundle\RulesBundle\Entity\FeatPrerequisite>")
      * @Serialize\XmlList(entry="feat_prerequisite")
-     * @Serialize\MaxDepth(1)
      */
     protected $featPrerequisites;
     
@@ -98,7 +100,7 @@ class Feat
      * @ORM\ManyToMany(targetEntity="Feat", inversedBy="children", cascade={"persist", "merge"})
      * @ORM\JoinTable(name="feat_parents_feat_children")
      * @Serialize\Type("ArrayCollection<Ico\Bundle\RulesBundle\Entity\Feat>")
-     * @Serialize\Exclude
+     * @Serialize\RecursionGroups(set={"token"})
      */
     protected $parents;
     
@@ -108,7 +110,7 @@ class Feat
      * @ORM\ManyToMany(targetEntity="Feat", mappedBy="parents", cascade={"persist", "merge"})
      * @ORM\JoinTable(name="feat_parents_feat_children")
      * @Serialize\Type("ArrayCollection<Ico\Bundle\RulesBundle\Entity\Feat>")
-     * @Serialize\MaxDepth(1)
+     * @Serialize\RecursionGroups(set={"token"})
      */
     protected $children;
     

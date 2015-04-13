@@ -22,6 +22,7 @@ class Link
      * @ORM\GeneratedValue(strategy="AUTO")
      * @Serialize\XmlAttribute
      * @Serialize\Type("integer")
+     * @Serialize\Groups({"token"})
      */
     private $id;
     
@@ -31,6 +32,7 @@ class Link
      * @ORM\Column(name="url", type="string", length=255)
      * @Serialize\XmlAttribute
      * @Serialize\Type("string")
+     * @Serialize\Groups({"token"})
      */
     private $url;
     
@@ -38,6 +40,7 @@ class Link
      * @ORM\ManyToOne(targetEntity="LinkSource", cascade={"remove", "persist"})
      * @ORM\JoinColumn(nullable=false)
      * @Serialize\Type("Ico\Bundle\RulesBundle\Entity\LinkSource")
+     * @Serialize\RecursionGroups(set={"token"})
      */
     private $source;
 

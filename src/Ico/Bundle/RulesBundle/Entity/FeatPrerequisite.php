@@ -23,6 +23,7 @@ class FeatPrerequisite
      * @ORM\GeneratedValue(strategy="AUTO")
      * @Serialize\XmlAttribute
      * @Serialize\Type("integer")
+     * @Serialize\Groups({"token"})
      */
     private $id;
 
@@ -32,6 +33,7 @@ class FeatPrerequisite
      * @ORM\Column(name="name", type="string", length=255)
      * @Serialize\XmlAttribute
      * @Serialize\Type("string")
+     * @Serialize\Groups({"token"})
      */
     private $name;
     
@@ -40,6 +42,7 @@ class FeatPrerequisite
      * @ORM\Column(name="slug", type="string", length=255)
      * @Serialize\XmlAttribute
      * @Serialize\Type("string")
+     * @Serialize\Groups({"token"})
      */
     private $slug;
 
@@ -56,7 +59,7 @@ class FeatPrerequisite
      * @ORM\ManyToOne(targetEntity="Feat", cascade={"remove"}, inversedBy="featPrerequisites")
      * @ORM\JoinColumn(nullable=false)
      * @Serialize\Type("Ico\Bundle\RulesBundle\Entity\Feat")
-     * @Serialize\MaxDepth(1)
+     * @Serialize\RecursionGroups(set={"token"})
      */
     private $feat;
     

@@ -23,8 +23,28 @@ class FeatType
      * @ORM\GeneratedValue(strategy="AUTO")
      * @Serialize\XmlAttribute
      * @Serialize\Type("integer")
+     * @Serialize\Groups({"token"})
      */
     private $id;
+
+    /**
+     * @var string
+     *
+     * @ORM\Column(name="name", type="string", length=255)
+     * @Serialize\XmlAttribute
+     * @Serialize\Type("string")
+     * @Serialize\Groups({"token"})
+     */
+    private $name;  
+    
+    /**
+     * @Gedmo\Slug(fields={"nameId"})
+     * @ORM\Column(name="slug", type="string", length=255)
+     * @Serialize\XmlAttribute
+     * @Serialize\Type("string")
+     * @Serialize\Groups({"token"})
+     */
+    private $slug; 
 
     /**
      * @var string
@@ -34,23 +54,6 @@ class FeatType
      * @Serialize\Type("string")
      */
     private $nameId; 
-    
-    /**
-     * @Gedmo\Slug(fields={"nameId"})
-     * @ORM\Column(name="slug", type="string", length=255)
-     * @Serialize\XmlAttribute
-     * @Serialize\Type("string")
-     */
-    private $slug; 
-
-    /**
-     * @var string
-     *
-     * @ORM\Column(name="name", type="string", length=255)
-     * @Serialize\XmlAttribute
-     * @Serialize\Type("string")
-     */
-    private $name;  
 
     /**
      * @var string

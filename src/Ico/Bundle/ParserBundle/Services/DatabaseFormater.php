@@ -7,6 +7,7 @@ use ReflectionClass;
 //use Symfony\Component\Serializer\Encoder\XmlEncoder;
 //use Symfony\Component\Serializer\Normalizer\GetSetMethodNormalizer;
 use JMS\Serializer\Serializer;
+use JMS\Serializer\SerializationContext;
 use Symfony\Component\Validator\Exception\InvalidArgumentException;
 //use Ico\Bundle\ParserBundle\Helpers\IcoNormalizer;
 
@@ -22,7 +23,6 @@ class DatabaseFormater {
     const FORMAT_DEFAULT = self::FORMAT_XML;
     
     public function __construct(Serializer $serializer) {
-	   var_dump(get_class($serializer));
 	   $this->setFormat(self::FORMAT_DEFAULT);
 	   $this->serializer = $serializer;
     }
@@ -32,7 +32,7 @@ class DatabaseFormater {
      * @param object $entry
      */
     public function convert($entry) {
-	   return $this->serializer->serialize($entry, $this->format);
+	   return $this->serializer->serialize($entry, $this->format, SerializationContext::create()->setGroups(array('Default', 'token')));
     }
     
     /**

@@ -4,12 +4,14 @@ namespace Ico\Bundle\RulesBundle\Entity;
 
 use Doctrine\ORM\Mapping as ORM;
 use Gedmo\Mapping\Annotation as Gedmo;
+use JMS\Serializer\Annotation as Serialize;
 
 /**
  * BattleRange
  *
  * @ORM\Table(name="battlerange", indexes={@ORM\Index(name="nameId_idx", columns={"nameId"})})
  * @ORM\Entity(repositoryClass="Ico\Bundle\RulesBundle\Repository\BattleRangeRepository")
+ * @Serialize\XmlRoot("battle_range")
  */ 
 class BattleRange
 {
@@ -19,28 +21,39 @@ class BattleRange
      * @ORM\Column(name="id", type="integer")
      * @ORM\Id
      * @ORM\GeneratedValue(strategy="AUTO")
+     * @Serialize\XmlAttribute
+     * @Serialize\Type("integer")
+     * @Serialize\Groups({"token"})
      */
     private $id;
 
     /**
      * @var string
      *
-     * @ORM\Column(name="nameId", type="string", length=255)
+     * @ORM\Column(name="name", type="string", length=255)
+     * @Serialize\XmlAttribute
+     * @Serialize\Type("string")
+     * @Serialize\Groups({"token"})
      */
-    private $nameId;
+    private $name;
     
     /**
      * @Gedmo\Slug(fields={"nameId"})
      * @ORM\Column(name="slug", type="string", length=255)
+     * @Serialize\XmlAttribute
+     * @Serialize\Type("string")
+     * @Serialize\Groups({"token"})
      */
     private $slug;
 
     /**
      * @var string
      *
-     * @ORM\Column(name="name", type="string", length=255)
+     * @ORM\Column(name="nameId", type="string", length=255)
+     * @Serialize\XmlAttribute
+     * @Serialize\Type("string")
      */
-    private $name;
+    private $nameId;
 
     /**
      * @var string

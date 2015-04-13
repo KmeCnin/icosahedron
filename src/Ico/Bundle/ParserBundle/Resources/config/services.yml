@@ -1,7 +1,7 @@
 services:
     ico.parser.services.database_exporter:
         class: Ico\Bundle\ParserBundle\Services\DatabaseExporter
-        arguments: [ "@doctrine.orm.entity_manager", "@ico.parser.services.database_formater", "@service_container" ]
+        arguments: ["@doctrine.orm.entity_manager", "@ico.parser.services.database_formater", "@service_container"]
     ico.parser.services.database_formater:
         class: Ico\Bundle\ParserBundle\Services\DatabaseFormater
-        arguments: [ "@jms_serializer"]
+        arguments: ["@jms_serializer"]
