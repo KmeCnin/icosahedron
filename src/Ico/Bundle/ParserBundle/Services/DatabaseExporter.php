@@ -39,14 +39,14 @@ class DatabaseExporter {
 		  $repository = $this->em->getRepository($entity);
 		  $entries = $repository->findAll();
 		  $root = $this->path.(new \ReflectionClass($entries[0]))->getShortName();
-		  print '	'.$entity.'
-';
+//		  print '	'.$entity.'
+//';
 		  foreach($entries as $entry) {
 			 $path = $root.'/'.$entry->getSlug().'.'.$format;
 			 $data = $this->databaseFormater->convert($entry);
 			 $filesystem->dumpFile($path, $data); 
-			 print '	   '.$entry->getSlug().'
-';
+//			 print '	   '.$entry->getSlug().'
+//';
 		  }
 	   }
     }

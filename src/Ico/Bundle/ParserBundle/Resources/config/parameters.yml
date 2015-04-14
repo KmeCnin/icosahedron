@@ -1,4 +1,13 @@
 parameters:
     ico.parser.services.database_exporter.entities: 
        - 'Ico\Bundle\RulesBundle\Entity\Ability'
+       - 'Ico\Bundle\RulesBundle\Entity\BattleRange'
+       - 'Ico\Bundle\RulesBundle\Entity\BattleTime'
+       - 'Ico\Bundle\RulesBundle\Entity\BattleUnit'
+       - 'Ico\Bundle\RulesBundle\Entity\CharacterClass'
+       - 'Ico\Bundle\RulesBundle\Entity\CharacterClassLevel'
+       - 'Ico\Bundle\RulesBundle\Entity\CharacterClassLevelSpecial'
+       - 'Ico\Bundle\RulesBundle\Entity\CharacterClassSpecial'
        - 'Ico\Bundle\RulesBundle\Entity\Feat'
+       - 'Ico\Bundle\RulesBundle\Entity\FeatType'
+       - 'Ico\Bundle\RulesBundle\Entity\LinkSource'
