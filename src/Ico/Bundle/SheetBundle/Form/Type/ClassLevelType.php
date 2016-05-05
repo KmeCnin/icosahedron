@@ -14,11 +14,11 @@ class ClassLevelType extends AbstractType
     {
         $builder
             ->add('characterClass', 'entity', array(
-                'label' => 'Classe',
+                'label' => 'Classe prédéfinie',
                 'class' => CharacterClass::class,
                 'property' => 'name',
             ))
-            ->add('customCharacterClass', null, array('label' => 'Classe'))
+            ->add('customCharacterClass', null, array('label' => 'ou Classe personnalisée'))
             ->add('level', null, array('label' => 'Niveau'))
         ;
     }

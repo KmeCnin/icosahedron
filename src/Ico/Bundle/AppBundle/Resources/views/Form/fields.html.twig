@@ -1,11 +1,11 @@
 {% block form_widget %}
-{% spaceless %}
+    {% spaceless %}
     {% if compound %}
         {{ block('form_widget_compound') }}
     {% else %}
         {{ block('form_widget_simple') }}
     {% endif %}
-{% endspaceless %}
+    {% endspaceless %}
 {% endblock form_widget %}
 
 {% block form_label %}
@@ -74,7 +74,7 @@
     <textarea {{ block('widget_attributes') }} class="form-control" rows="3">{{ value }}</textarea>
 {% endspaceless %}
 {% endblock textarea_widget %}
-    
+
 {% block choice_widget_collapsed %}
 {% spaceless %}
     {% if required and empty_value is none and not empty_value_in_choices and not multiple %}
@@ -96,7 +96,7 @@
     </select>
 {% endspaceless %}
 {% endblock choice_widget_collapsed %}
-    
+
 {% block checkbox_widget %}
 {% spaceless %}
     <input class="form-control" type="checkbox" {{ block('widget_attributes') }}{% if value is defined %} value="{{ value }}"{% endif %}{% if checked %} checked="checked"{% endif %} />
@@ -137,5 +137,27 @@
         {{ form_widget(form.date) }}
         <span class="input-group-addon inner-addon">à</span>
         {{ form_widget(form.time) }}
+    </div>
+{% endblock %}
+
+{# COLLECTION PROTOTYPE #}
+
+{% block collection_prototype_widget %}
+    <div class="well well-sm table-responsive" data-prototype="{% filter escape %}{% include 'IcoAppBundle:Form:collection_prototype_line.html.twig' with {line: prototype} only %}{% endfilter %}">
+        <table class="table table-condensed">
+            <tr>
+            {% for entry in prototype %}
+                <th>{{ form_label(entry) }}</th>
+            {% endfor %}
+                <th>
+                    <button type="button" class="btn btn-default btn-xs pull-right prototype-add">
+                        <span class="fa fa-plus"></span> Nouvelle ligne
+                    </button>
+                </th>
+            </tr>
+        {% for line in form %}
+            {% include 'IcoAppBundle:Form:collection_prototype_line.html.twig' with {line: line} only %}
+        {% endfor %}
+        </table>
     </div>
 {% endblock %}

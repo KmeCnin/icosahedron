@@ -1,0 +1,10 @@
+<tr>
+{% for entry in line %}
+    <td>{{ form_widget(entry) }}</td>
+{% endfor %}
+    <td>
+        <button type="button" class="btn btn-default btn-xs pull-right prototype-remove">
+            <span class="fa fa-minus"></span> Supprimer
+        </button>
+    </td>
+</tr>
