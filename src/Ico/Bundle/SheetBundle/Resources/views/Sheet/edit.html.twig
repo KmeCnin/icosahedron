@@ -1,0 +1,37 @@
+{% extends "IcoSheetBundle::layout.html.twig" %}
+{% form_theme form 'IcoAppBundle:Form:fields.html.twig' %}
+
+{% block title %}
+    {{ parent() }}
+    {% if sheet is defined and is_granted('DELETE', sheet) %}
+    <div class="pull-right">
+        <button type="button" class="btn btn-danger btn-title" data-toggle="modal" data-target="#sheetDelete"><span class="fa fa-times"></span> Supprimer</button>
+        <div class="modal fade" id="sheetDelete" tabindex="-1" role="dialog" aria-labelledby="Suppression de la fiche de personnage {{ sheet.characterName }}" aria-hidden="true">
+            <div class="modal-dialog">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <button type="button" class="close" data-dismiss="modal" aria-label="Fermer"><span aria-hidden="true">&times;</span></button>
+                        <h4 class="modal-title" id="myModalLabel">Suppression de la fiche de personnage {{ sheet.characterName }}</h4>
+                    </div>
+                    <div class="modal-body">
+                        <p>
+                            La suppression d'une fiche de personnage est définitive.<br />
+                            Étes-vous sûr de vouloir supprimer <strong>{{ sheet.characterName }}</strong> ?
+                        </p>
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-default" data-dismiss="modal"><span class="fa fa-undo"></span> Annuler</button>
+                        <a href="{{ path('ico_sheet_delete', {'id': sheet.id, 'slug': sheet.slug}) }}" class="btn btn-primary"><span class="fa fa-times"></span> Supprimer</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    {% endif %}
+{% endblock %}
+
+{% block content %}
+    <div class="form-block">
+        {{ form(form) }}
+    </div>
+{% endblock %}

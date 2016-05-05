@@ -13,7 +13,8 @@ if (isset($_SERVER['HTTP_CLIENT_IP'])
     || isset($_SERVER['HTTP_X_FORWARDED_FOR'])
     || !in_array(@$_SERVER['REMOTE_ADDR'], array('127.0.0.1', 'fe80::1', '::1',
         '81.255.75.177', // IP Sirom
-        '176.182.92.145' // IP Levallois
+        '176.182.92.145', // IP Levallois
+        '176.182.92.82', // IP Levallois
     ))
 ) {
     header('HTTP/1.0 403 Forbidden');

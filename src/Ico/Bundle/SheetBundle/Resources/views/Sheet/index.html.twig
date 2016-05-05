@@ -1,0 +1,23 @@
+{% extends "IcoSheetBundle::layout.html.twig" %}
+
+{% block title %}
+    {{ parent() }}
+    {% if app.user is not null %}
+    <div class="pull-right">
+        <a href="{{ path('ico_sheet_new') }}" class="btn btn-primary btn-title"><span class="fa fa-plus"></span> Nouvelle fiche de personnage</a>
+    </div>
+    {% endif %}
+{% endblock %}
+
+{% block content %}
+    <table class="table table-striped table-hover">
+        <tr>
+            <th>Nom du personnage</th>
+        </tr>
+        {% for sheet in list %}
+            <tr class="link" onclick="window.location.href = Routing.generate('ico_sheet_view', {id:{{ sheet.id }}, slug: '{{ sheet.slug }}'});">
+                <td>{{ sheet.characterName }}</td>
+            </tr>
+        {% endfor %}
+    </table>
+{% endblock %}

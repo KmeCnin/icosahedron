@@ -1,3 +1,8 @@
+ico_sheet:
+    resource: "@IcoSheetBundle/Controller/"
+    type:     annotation
+    prefix:   /
+    
 ico_kingmaker:
     resource: "@IcoKingmakerBundle/Controller/"
     type:     annotation

@@ -10,6 +10,7 @@ class AppKernel extends Kernel {
 
     public function registerBundles() {
         $bundles = array(
+            // Native
             new Symfony\Bundle\FrameworkBundle\FrameworkBundle(),
             new Symfony\Bundle\SecurityBundle\SecurityBundle(),
             new Symfony\Bundle\TwigBundle\TwigBundle(),
@@ -17,6 +18,7 @@ class AppKernel extends Kernel {
             new Symfony\Bundle\SwiftmailerBundle\SwiftmailerBundle(),
             new Symfony\Bundle\AsseticBundle\AsseticBundle(),
             new Doctrine\Bundle\DoctrineBundle\DoctrineBundle(),
+            // Third parties 
             new Doctrine\Bundle\FixturesBundle\DoctrineFixturesBundle(),
             new Sensio\Bundle\FrameworkExtraBundle\SensioFrameworkExtraBundle(),
             new FOS\UserBundle\FOSUserBundle(),
@@ -29,6 +31,7 @@ class AppKernel extends Kernel {
             new Ico\Bundle\RulesBundle\IcoRulesBundle(),
             new Ico\Bundle\ParserBundle\IcoParserBundle(),
             new Ico\Bundle\KingmakerBundle\IcoKingmakerBundle(),
+            new Ico\Bundle\SheetBundle\IcoSheetBundle(),
         );
 
         if (in_array($this->getEnvironment(), array('dev', 'test'))) {
@@ -43,5 +46,4 @@ class AppKernel extends Kernel {
     public function registerContainerConfiguration(LoaderInterface $loader) {
         $loader->load(__DIR__ . '/config/config_' . $this->getEnvironment() . '.yml');
     }
-
 }

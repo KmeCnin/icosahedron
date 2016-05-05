@@ -1,6 +1,11 @@
 services:
-     ico.app.extension:
+    ico.app.extension:
         class: Ico\Bundle\AppBundle\Twig\Extension
         arguments: ["@service_container"] 
         tags:
             - { name: twig.extension }
+    ico.form.type.collection_prototype:
+        class: Ico\Bundle\AppBundle\Form\Type\CollectionPrototypeType
+        arguments: [ '@service_container' ]
+        tags:
+            - { name: form.type, alias: collection_prototype }

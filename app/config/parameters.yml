@@ -1,14 +1,14 @@
 # This file is auto-generated during the composer install
 parameters:
     database_driver: pdo_mysql
-    database_host: 127.0.0.1
+    database_host: localhost
     database_port: null
-    database_name: icosahedron
+    database_name: icosahedron.kmecnin.net
     database_user: root
-    database_password: null
+    database_password: NxGi9hNy
     mailer_transport: smtp
-    mailer_host: 127.0.0.1
-    mailer_user: null
-    mailer_password: null
+    mailer_host: icosahedron.kmecnin.net
+    mailer_user: pierre
+    mailer_password: NxGi9hNy
     locale: fr
     secret: ThisTokenIsNotSoSecretChangeIt
