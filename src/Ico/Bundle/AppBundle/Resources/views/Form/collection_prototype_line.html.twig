@@ -1,9 +1,13 @@
 <tr>
-{% for entry in line %}
+{% for field, entry in line %}
+    {% if field in unique_fields %}
+    <td>{{ form_widget(entry, {'attr': {'data-must-be-unique': true} }) }}</td>
+    {% else %}
     <td>{{ form_widget(entry) }}</td>
+    {% endif %}
 {% endfor %}
     <td>
-        <button type="button" class="btn btn-default btn-xs pull-right prototype-remove">
+        <button type="button" class="btn btn-default pull-right prototype-remove">
             <span class="fa fa-minus"></span> Supprimer
         </button>
     </td>
