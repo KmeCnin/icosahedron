@@ -2,6 +2,7 @@
 
 namespace Ico\Bundle\SheetBundle\Form\Type;
 
+use Ico\Bundle\RulesBundle\Entity\SizeCategory;
 use Ico\Bundle\SheetBundle\Entity\Sheet;
 use Symfony\Component\Form\AbstractType;
 use Symfony\Component\Form\FormBuilderInterface;
@@ -24,6 +25,11 @@ class SheetType extends AbstractType
                 'unique_fields' => ['characterClass'],
                 'min_entries' => 1,
                 'max_entries' => 10,
+            ))
+            ->add('sizeCategory', 'entity', array(
+                'label' => 'Catégorie de taille',
+                'class' => SizeCategory::class,
+                'property' => 'name',
             ))
             ->add('create', 'submit', array('label' => 'Sauvegarder'));
     }
