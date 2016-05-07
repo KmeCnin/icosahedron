@@ -1,4 +1,4 @@
-<?php
+<?php 
 
 namespace Ico\Bundle\KingmakerBundle\Entity;
 
@@ -50,14 +50,14 @@ class Realm
     /**    
      * @var integer
      * 
-     * @ORM\Column(name="size", type="integer")
+     * @ORM\Column(name="controlSavingThrow", type="integer")
      */
     private $controlSavingThrow;
     
     /**    
      * @var integer
      * 
-     * @ORM\Column(name="size", type="integer")
+     * @ORM\Column(name="population", type="integer")
      */
     private $population;
     

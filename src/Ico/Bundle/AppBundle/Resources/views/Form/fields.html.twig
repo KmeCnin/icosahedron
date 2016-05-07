@@ -143,7 +143,7 @@
 {# COLLECTION PROTOTYPE #}
 
 {% block collection_prototype_widget %}
-    <div class="well well-sm table-responsive" data-prototype="{% filter escape %}{% include 'IcoAppBundle:Form:collection_prototype_line.html.twig' with {line: prototype} only %}{% endfilter %}">
+    <div class="well well-sm table-responsive" data-prototype="{% filter escape %}{% include 'IcoAppBundle:Form:collection_prototype_line.html.twig' with {line: prototype, 'unique_fields': unique_fields} only %}{% endfilter %}" data-min="{{ min_entries }}" data-max="{{ max_entries }}">
         <table class="table table-condensed">
             <tr>
             {% for entry in prototype %}
@@ -156,7 +156,7 @@
                 </th>
             </tr>
         {% for line in form %}
-            {% include 'IcoAppBundle:Form:collection_prototype_line.html.twig' with {line: line} only %}
+            {% include 'IcoAppBundle:Form:collection_prototype_line.html.twig' with {'line': line, 'unique_fields': unique_fields} only %}
         {% endfor %}
         </table>
     </div>

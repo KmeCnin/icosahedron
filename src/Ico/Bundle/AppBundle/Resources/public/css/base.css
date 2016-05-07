@@ -314,3 +314,6 @@ img.class-illustration {
 .modal { 
     overflow-y: auto; 
 }
+[data-prototype] label {
+    margin: 0;
+}
