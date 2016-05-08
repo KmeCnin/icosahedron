@@ -10048,7 +10048,7 @@ img.class-illustration {
 }
 .btn.btn-title {
     position: relative;
-    top: -7px;
+    top: 20px;
     margin: auto 15px;
 }
 .list-group a.list-group-item, .list-group a.list-group-item:visited {
@@ -10062,4 +10062,7 @@ img.class-illustration {
 }
 .modal { 
     overflow-y: auto; 
+}
+[data-prototype] label {
+    margin: 0;
 }
