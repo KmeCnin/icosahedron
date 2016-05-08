@@ -45,7 +45,7 @@ class Sheet
     /**
      * @var string
      *
-     * @ORM\Column(name="race", type="string", length=255)
+     * @ORM\Column(name="customRace", type="string", length=255)
      */
     private $customRace;
     
@@ -55,6 +55,76 @@ class Sheet
      * @ORM\ManyToOne(targetEntity="Ico\Bundle\RulesBundle\Entity\SizeCategory")
      */
     private $sizeCategory;
+    
+    /**
+     * @var string
+     *
+     * @ORM\Column(name="gender", type="string", length=20)
+     */
+    private $gender;
+    
+    /**
+     * @var string
+     *
+     * @ORM\Column(name="customReligion", type="string", length=255)
+     */
+    private $customReligion;
+    
+    /**
+     * @var string
+     *
+     * @ORM\Column(name="customHomeland", type="string", length=255)
+     */
+    private $customHomeland;
+    
+    /**
+     * @var int
+     *
+     * @ORM\Column(name="age", type="integer")
+     */
+    private $age;
+    
+    /**
+     * @var int $weight in kg
+     *
+     * @ORM\Column(name="weight", type="integer")
+     */
+    private $weight;
+    
+    /**
+     * @var int $height in cm
+     *
+     * @ORM\Column(name="height", type="integer")
+     */
+    private $height;
+    
+    /**
+     * @var string
+     *
+     * @ORM\Column(name="eyes", type="string", length=100)
+     */
+    private $eyes;
+    
+    /**
+     * @var string
+     *
+     * @ORM\Column(name="hair", type="string", length=100)
+     */
+    private $hair;
+    
+    /**
+     * @var string
+     *
+     * @ORM\Column(name="skin", type="string", length=100)
+     */
+    private $skin;
+    
+    /**
+     * @var string
+     *
+     * @ORM\Column(name="hand", type="string", length=100)
+     */
+    private $hand;
     
     /**
      * @ORM\ManyToOne(targetEntity="\Ico\Bundle\UserBundle\Entity\User")
@@ -287,5 +357,245 @@ class Sheet
     public function getSizeCategory()
     {
         return $this->sizeCategory;
+    }
+
+    /**
+     * Set gender
+     *
+     * @param string $gender
+     *
+     * @return Sheet
+     */
+    public function setGender($gender)
+    {
+        $this->gender = $gender;
+
+        return $this;
+    }
+
+    /**
+     * Get gender
+     *
+     * @return string
+     */
+    public function getGender()
+    {
+        return $this->gender;
+    }
+
+    /**
+     * Set customReligion
+     *
+     * @param string $customReligion
+     *
+     * @return Sheet
+     */
+    public function setCustomReligion($customReligion)
+    {
+        $this->customReligion = $customReligion;
+
+        return $this;
+    }
+
+    /**
+     * Get customReligion
+     *
+     * @return string
+     */
+    public function getCustomReligion()
+    {
+        return $this->customReligion;
+    }
+
+    /**
+     * Set customHomeland
+     *
+     * @param string $customHomeland
+     *
+     * @return Sheet
+     */
+    public function setCustomHomeland($customHomeland)
+    {
+        $this->customHomeland = $customHomeland;
+
+        return $this;
+    }
+
+    /**
+     * Get customHomeland
+     *
+     * @return string
+     */
+    public function getCustomHomeland()
+    {
+        return $this->customHomeland;
+    }
+
+    /**
+     * Set age
+     *
+     * @param integer $age
+     *
+     * @return Sheet
+     */
+    public function setAge($age)
+    {
+        $this->age = $age;
+
+        return $this;
+    }
+
+    /**
+     * Get age
+     *
+     * @return integer
+     */
+    public function getAge()
+    {
+        return $this->age;
+    }
+
+    /**
+     * Set weight
+     *
+     * @param integer $weight
+     *
+     * @return Sheet
+     */
+    public function setWeight($weight)
+    {
+        $this->weight = $weight;
+
+        return $this;
+    }
+
+    /**
+     * Get weight
+     *
+     * @return integer
+     */
+    public function getWeight()
+    {
+        return $this->weight;
+    }
+
+    /**
+     * Set height
+     *
+     * @param integer $height
+     *
+     * @return Sheet
+     */
+    public function setHeight($height)
+    {
+        $this->height = $height;
+
+        return $this;
+    }
+
+    /**
+     * Get height
+     *
+     * @return integer
+     */
+    public function getHeight()
+    {
+        return $this->height;
+    }
+
+    /**
+     * Set eyes
+     *
+     * @param string $eyes
+     *
+     * @return Sheet
+     */
+    public function setEyes($eyes)
+    {
+        $this->eyes = $eyes;
+
+        return $this;
+    }
+
+    /**
+     * Get eyes
+     *
+     * @return string
+     */
+    public function getEyes()
+    {
+        return $this->eyes;
+    }
+
+    /**
+     * Set hair
+     *
+     * @param string $hair
+     *
+     * @return Sheet
+     */
+    public function setHair($hair)
+    {
+        $this->hair = $hair;
+
+        return $this;
+    }
+
+    /**
+     * Get hair
+     *
+     * @return string
+     */
+    public function getHair()
+    {
+        return $this->hair;
+    }
+
+    /**
+     * Set hand
+     *
+     * @param string $hand
+     *
+     * @return Sheet
+     */
+    public function setHand($hand)
+    {
+        $this->hand = $hand;
+
+        return $this;
+    }
+
+    /**
+     * Get hand
+     *
+     * @return string
+     */
+    public function getHand()
+    {
+        return $this->hand;
+    }
+
+    /**
+     * Set skin
+     *
+     * @param string $skin
+     *
+     * @return Sheet
+     */
+    public function setSkin($skin)
+    {
+        $this->skin = $skin;
+
+        return $this;
+    }
+
+    /**
+     * Get skin
+     *
+     * @return string
+     */
+    public function getSkin()
+    {
+        return $this->skin;
     }
 }

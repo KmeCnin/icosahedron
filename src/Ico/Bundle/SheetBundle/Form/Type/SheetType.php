@@ -35,6 +35,7 @@ class SheetType extends AbstractType
                 'min_entries' => 1,
                 'max_entries' => 10,
             ))
+            ->add('customRace', null, array('label' => 'Race'))
             ->add('sizeCategory', 'entity', array(
                 'label' => 'Catégorie de taille',
                 'class' => SizeCategory::class,
@@ -45,6 +46,16 @@ class SheetType extends AbstractType
                 },
                 'data' => $this->em->getReference("IcoRulesBundle:SizeCategory", 5)
             ))
+            ->add('gender', null, array('label' => 'Sexe'))
+            ->add('customReligion', null, array('label' => 'Religion/symbole'))
+            ->add('customHomeland', null, array('label' => 'Nation/origine'))
+            ->add('age', null, array('label' => 'Age'))
+            ->add('weight', null, array('label' => 'Poids (kg)'))
+            ->add('height', null, array('label' => 'Taille (cm)'))
+            ->add('eyes', null, array('label' => 'Yeux'))
+            ->add('hair', null, array('label' => 'Cheveux'))
+            ->add('skin', null, array('label' => 'Peau'))
+            ->add('hand', null, array('label' => 'Dextrie'))
             ->add('create', 'submit', array('label' => 'Sauvegarder'));
     }
     
