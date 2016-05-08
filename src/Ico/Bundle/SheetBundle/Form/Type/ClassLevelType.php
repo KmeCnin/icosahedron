@@ -17,6 +17,7 @@ class ClassLevelType extends AbstractType
                 'label' => 'Classe prédéfinie',
                 'class' => CharacterClass::class,
                 'property' => 'name',
+                'required' => false,
             ))
             ->add('customCharacterClass', null, array('label' => 'ou Classe personnalisée'))
             ->add('level', null, array('label' => 'Niveau'))

@@ -8,7 +8,7 @@ $(document).ready(function() {
 //        setUnique(collection); // TODO
     });
     // Remove the line
-    $(document).unbind().on('click', '.prototype-remove', function() {
+    $(document).on('click', '.prototype-remove', function() {
         var collection = $(this).closest('[data-prototype]');
         $(this).closest('tr').remove();
         reindex(collection, 'remove');

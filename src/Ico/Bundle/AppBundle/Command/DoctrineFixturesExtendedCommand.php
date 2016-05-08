@@ -76,6 +76,7 @@ EOT
 		  'IcoRulesBundle:Ability',
 		  'IcoRulesBundle:Skill',
 		  'IcoRulesBundle:CharacterClass',
+		  'IcoRulesBundle:SizeCategory',
 		  'IcoKingmakerBundle:MapModel',
 		  'IcoKingmakerBundle:MapInterestModel'
 	   );

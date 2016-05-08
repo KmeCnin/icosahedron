@@ -75,15 +75,6 @@ class Sheet
     private $updated;
     
     /**
-     * Constructor
-     */
-    public function __construct()
-    {
-        $this->classLevels = new \Doctrine\Common\Collections\ArrayCollection();
-        $this->classLevels->add(new ClassLevel());
-    }
-    
-    /**
      * Get id
      *
      * @return integer 
@@ -240,52 +231,12 @@ class Sheet
     {
         return $this->createdBy;
     }
-
     /**
-     * Set customRace
-     *
-     * @param string $customRace
-     *
-     * @return Sheet
+     * Constructor
      */
-    public function setCustomRace($customRace)
+    public function __construct()
     {
-        $this->customRace = $customRace;
-
-        return $this;
-    }
-
-    /**
-     * Get customRace
-     *
-     * @return string
-     */
-    public function getCustomRace()
-    {
-        return $this->customRace;
-    }
-
-    /**
-     * Set sizeCategory
-     *
-     * @param \Ico\Bundle\RulesBundle\Entity\SizeCategory $sizeCategory
-     *
-     * @return Sheet
-     */
-    public function setSizeCategory(\Ico\Bundle\RulesBundle\Entity\SizeCategory $sizeCategory = null)
-    {
-        $this->sizeCategory = $sizeCategory;
-
-        return $this;
-    }
-
-    /**
-     * Get sizeCategory
-     *
-     * @return \Ico\Bundle\RulesBundle\Entity\SizeCategory
-     */
-    public function getSizeCategory()
-    {
-        return $this->sizeCategory;
+        $this->classLevels = new \Doctrine\Common\Collections\ArrayCollection();
+        $this->classLevels->add(new ClassLevel());
     }
 }
