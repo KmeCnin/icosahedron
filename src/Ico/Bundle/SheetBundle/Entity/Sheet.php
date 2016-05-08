@@ -75,6 +75,15 @@ class Sheet
     private $updated;
     
     /**
+     * Constructor
+     */
+    public function __construct()
+    {
+        $this->classLevels = new \Doctrine\Common\Collections\ArrayCollection();
+        $this->classLevels->add(new ClassLevel());
+    }
+    
+    /**
      * Get id
      *
      * @return integer 
@@ -230,14 +239,6 @@ class Sheet
     public function getCreatedBy()
     {
         return $this->createdBy;
-    }
-    /**
-     * Constructor
-     */
-    public function __construct()
-    {
-        $this->classLevels = new \Doctrine\Common\Collections\ArrayCollection();
-        $this->classLevels->add(new ClassLevel());
     }
 
     /**

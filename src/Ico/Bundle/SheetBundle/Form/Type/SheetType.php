@@ -2,6 +2,8 @@
 
 namespace Ico\Bundle\SheetBundle\Form\Type;
 
+use Doctrine\ORM\EntityManager;
+use Doctrine\ORM\EntityRepository;
 use Ico\Bundle\RulesBundle\Entity\SizeCategory;
 use Ico\Bundle\SheetBundle\Entity\Sheet;
 use Symfony\Component\Form\AbstractType;
@@ -10,6 +12,13 @@ use Symfony\Component\OptionsResolver\OptionsResolverInterface;
 
 class SheetType extends AbstractType
 {
+    /** @var EntityManager */
+    private $em;
+    
+    public function __construct(EntityManager $em) {
+        $this->em = $em;
+    }
+
     public function buildForm(FormBuilderInterface $builder, array $options)
     {
         $builder
@@ -30,6 +39,11 @@ class SheetType extends AbstractType
                 'label' => 'Catégorie de taille',
                 'class' => SizeCategory::class,
                 'property' => 'name',
+                'query_builder' => function(EntityRepository $er) {
+                    return $er->createQueryBuilder('size')
+                        ->orderBy('size.id', 'ASC');
+                },
+                'data' => $this->em->getReference("IcoRulesBundle:SizeCategory", 5)
             ))
             ->add('create', 'submit', array('label' => 'Sauvegarder'));
     }
