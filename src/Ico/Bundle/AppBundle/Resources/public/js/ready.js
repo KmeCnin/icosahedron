@@ -64,9 +64,6 @@ $(document).ready(function () {
 
     // Initialisation des tooltips
     $('[data-toggle="tooltip"]').tooltip({placement: 'top'});
-    
-    // Initialisation des dropdowns
-    $('.dropdown-toggle').dropdown();
 
     // Initialisation des pop-hover    
     $('.preview').each(function () {
