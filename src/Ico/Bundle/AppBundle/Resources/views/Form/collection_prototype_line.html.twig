@@ -1,10 +1,18 @@
 <tr>
 {% for field, entry in line %}
-    {% if field in unique_fields %}
-    <td>{{ form_widget(entry, {'attr': {'data-must-be-unique': true} }) }}</td>
-    {% else %}
-    <td>{{ form_widget(entry) }}</td>
+    <td class="form-group 
+    {% if entry.vars.attr["data-switch"] is defined %}
+        {% if entry.vars.attr["data-switch"] == 'custom' %}
+        hidden
+        {% endif %}
     {% endif %}
+    ">
+    {% if field in unique_fields %}
+        {{ form_widget(entry) }}
+    {% else %}
+        {{ form_widget(entry, {'attr': {'data-must-be-unique': true} }) }}
+    {% endif %}
+    </td>
 {% endfor %}
     <td>
         <button type="button" class="btn btn-default pull-right prototype-remove">

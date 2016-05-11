@@ -13,13 +13,22 @@ class ClassLevelType extends AbstractType
     public function buildForm(FormBuilderInterface $builder, array $options)
     {
         $builder
-            ->add('characterClass', 'entity', array(
-                'label' => 'Classe prédéfinie',
+            ->add('referenceCharacterClass', 'entity', array(
+                'label' => 'Classe',
                 'class' => CharacterClass::class,
                 'property' => 'name',
                 'required' => false,
+                'attr' => [
+                    'data-switch' => 'reference',
+                ],
             ))
-            ->add('customCharacterClass', null, array('label' => 'ou Classe personnalisée'))
+            ->add('customCharacterClass', null, array(
+                'label' => 'Classe',
+                'attr' => [
+                    'data-switch' => 'custom',
+                    'placeholder' => 'Classe personnalisée',
+                ],
+            ))
             ->add('level', null, array('label' => 'Niveau'))
         ;
     }

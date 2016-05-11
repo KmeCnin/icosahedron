@@ -12,6 +12,8 @@ use Symfony\Component\OptionsResolver\OptionsResolverInterface;
 
 class SheetType extends AbstractType
 {
+    const FIELD_MIDDLE = '';
+    
     /** @var EntityManager */
     private $em;
     
@@ -23,6 +25,7 @@ class SheetType extends AbstractType
     {
         $builder
             ->add('characterName', null, array('label' => 'Nom du personnage'))
+            ->add('customRace', null, array('label' => 'Race'))
             ->add('classLevels', 'collection_prototype', array(
                 'label' => 'Classes et niveaux',
                 'allow_add' => true,
@@ -35,7 +38,6 @@ class SheetType extends AbstractType
                 'min_entries' => 1,
                 'max_entries' => 10,
             ))
-            ->add('customRace', null, array('label' => 'Race'))
             ->add('sizeCategory', 'entity', array(
                 'label' => 'Catégorie de taille',
                 'class' => SizeCategory::class,

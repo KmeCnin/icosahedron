@@ -29,10 +29,11 @@
 	   'bundles/icoapp/js/bootstrap.min.js' 
 	   'bundles/icoapp/js/chosen.jquery.min.js' 
 	   'bundles/icoapp/js/ready.js' 
+        'bundles/icoapp/js/collection_prototype.js'
+        'bundles/icoapp/js/switch_custom_inputs.js'
     %}
 	   <script type="text/javascript" src="{{ asset_url }}"></script>
 	   <script src="{{ asset('bundles/fosjsrouting/js/router.js') }}"></script>
-	   <script src="{{ asset('bundles/icoapp/js/collection_prototype.js') }}"></script>
 	   <script src="{{ path('fos_js_routing_js', {"callback": "fos.Router.setData"}) }}"></script>
     {% endjavascripts %}
 	   

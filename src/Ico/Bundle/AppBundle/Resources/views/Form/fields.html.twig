@@ -147,7 +147,13 @@
         <table class="table table-condensed">
             <tr>
             {% for entry in prototype %}
-                <th>{{ form_label(entry) }}</th>
+                <th 
+                {% if entry.vars.attr["data-switch"] is defined %}
+                    {% if entry.vars.attr["data-switch"] == 'custom' %}
+                    class="hidden"
+                    {% endif %}
+                {% endif %}
+                >{{ form_label(entry) }}</th>
             {% endfor %}
                 <th>
                     <button type="button" class="btn btn-default btn-xs pull-right prototype-add">

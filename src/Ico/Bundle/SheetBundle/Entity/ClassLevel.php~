@@ -98,28 +98,4 @@ class ClassLevel
     {
         return $this->customCharacterClass;
     }
-
-    /**
-     * Set referenceCharacterClass
-     *
-     * @param \Ico\Bundle\RulesBundle\Entity\CharacterClass $referenceCharacterClass
-     *
-     * @return ClassLevel
-     */
-    public function setReferenceCharacterClass(\Ico\Bundle\RulesBundle\Entity\CharacterClass $referenceCharacterClass = null)
-    {
-        $this->referenceCharacterClass = $referenceCharacterClass;
-
-        return $this;
-    }
-
-    /**
-     * Get referenceCharacterClass
-     *
-     * @return \Ico\Bundle\RulesBundle\Entity\CharacterClass
-     */
-    public function getReferenceCharacterClass()
-    {
-        return $this->referenceCharacterClass;
-    }
 }

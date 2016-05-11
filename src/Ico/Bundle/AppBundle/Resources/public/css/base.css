@@ -156,14 +156,14 @@ mark {
     position: absolute;
     right: 20px;
 }
-.form_row.form-group {
+.form-filters .form_row.form-group {
     display: inline-block;
     margin-right: 20px;
     vertical-align: top;
-}
+}/*
 .form-block .form_row.form-group {
     display: block;
-}
+}*/
 .select-multiple-wrapper {
     display: inline-block;
     position: relative;
@@ -314,6 +314,6 @@ img.class-illustration {
 .modal { 
     overflow-y: auto; 
 }
-[data-prototype] label {
+[data-prototype] label, [data-switch-to] span {
     margin: 0;
 }

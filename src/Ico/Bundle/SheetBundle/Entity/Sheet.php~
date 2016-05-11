@@ -574,4 +574,28 @@ class Sheet
     {
         return $this->hand;
     }
+
+    /**
+     * Set skin
+     *
+     * @param string $skin
+     *
+     * @return Sheet
+     */
+    public function setSkin($skin)
+    {
+        $this->skin = $skin;
+
+        return $this;
+    }
+
+    /**
+     * Get skin
+     *
+     * @return string
+     */
+    public function getSkin()
+    {
+        return $this->skin;
+    }
 }
