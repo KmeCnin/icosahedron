@@ -53,7 +53,6 @@ class SheetController extends Controller
         $form->handleRequest($request);
 
         if ($form->isValid()) {
-            // Si un formulaire est soumis et est valide
             $em = $this->getDoctrine()->getManager();
             $user = $this->get('security.context')->getToken()->getUser();
             $sheet->setCreatedBy($user);

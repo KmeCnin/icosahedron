@@ -4,6 +4,7 @@ namespace Ico\Bundle\SheetBundle\Entity;
 
 use Doctrine\ORM\Mapping as ORM;
 use Gedmo\Mapping\Annotation as Gedmo;
+use Symfony\Component\Validator\Constraints as Assert;
 
 /**
  * ClassLevel
@@ -26,6 +27,8 @@ class ClassLevel
      * @var integer
      *
      * @ORM\Column(name="level", type="integer")
+     * @Assert\NotBlank()
+     * @Assert\GreaterThanOrEqual(value=1)
      */
     private $level;
     

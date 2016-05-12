@@ -4,6 +4,7 @@ namespace Ico\Bundle\SheetBundle\Entity;
 
 use Doctrine\ORM\Mapping as ORM;
 use Gedmo\Mapping\Annotation as Gedmo; // gedmo annotations
+use Symfony\Component\Validator\Constraints as Assert;
 
 /**
  * Sheet
@@ -39,6 +40,7 @@ class Sheet
      * @var ArrayCollection[ClassLevel]
      *
      * @ORM\ManyToMany(targetEntity="ClassLevel", cascade={"persist", "merge", "remove"})
+     * @Assert\Valid
      */
     private $classLevels;
     
@@ -88,6 +90,7 @@ class Sheet
      * @var int $weight in kg
      *
      * @ORM\Column(name="weight", type="integer")
+     * @Assert\GreaterThanOrEqual(value=0)
      */
     private $weight;
     
@@ -95,6 +98,7 @@ class Sheet
      * @var int $height in cm
      *
      * @ORM\Column(name="height", type="integer")
+     * @Assert\GreaterThanOrEqual(value=0)
      */
     private $height;
     
