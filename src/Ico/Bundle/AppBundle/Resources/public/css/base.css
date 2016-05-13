@@ -121,6 +121,26 @@ legend button {
     background-color: #42A500;
     border-color: #3B9400;
 }
+.btn-danger,
+.btn-danger:hover,
+.btn-danger:focus,
+.btn-danger:active,
+.btn-danger.active,
+.open .dropdown-toggle.btn-primary {
+    background-color: #e63900;
+    border-color: #cc3300;
+}
+.has-error .help-block,
+.has-error .control-label,
+.has-error .form-control-feedback,
+.text-danger,
+.text-danger:hover {
+    color: #e63900;
+}
+.has-error .form-control,
+.has-error .form-control:focus {
+    border-color: #e63900;
+}
 .pagination>.active>a, 
 .pagination>.active>span, 
 .pagination>.active>a:hover, 
@@ -316,4 +336,7 @@ img.class-illustration {
 }
 [data-prototype] label, [data-switch-to] span {
     margin: 0;
+}
+input[type=number] {
+    min-width: 70px;
 }

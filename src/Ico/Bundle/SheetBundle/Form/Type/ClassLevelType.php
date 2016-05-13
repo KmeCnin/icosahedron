@@ -2,8 +2,8 @@
 
 namespace Ico\Bundle\SheetBundle\Form\Type;
 
-use Ico\Bundle\SheetBundle\Entity\ClassLevel;
 use Ico\Bundle\RulesBundle\Entity\CharacterClass;
+use Ico\Bundle\SheetBundle\Entity\ClassLevel;
 use Symfony\Component\Form\AbstractType;
 use Symfony\Component\Form\FormBuilderInterface;
 use Symfony\Component\OptionsResolver\OptionsResolverInterface;
@@ -21,6 +21,7 @@ class ClassLevelType extends AbstractType
                 'attr' => [
                     'data-switch' => 'reference',
                 ],
+                'error_bubbling' => false,
             ))
             ->add('customCharacterClass', null, array(
                 'label' => 'Classe',
@@ -28,6 +29,7 @@ class ClassLevelType extends AbstractType
                     'data-switch' => 'custom',
                     'placeholder' => 'Classe personnalisée',
                 ],
+                'error_bubbling' => false,
             ))
             ->add('level', null, array('label' => 'Niveau'))
         ;

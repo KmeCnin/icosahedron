@@ -54,7 +54,16 @@
 
 {% block form_row %}
 {% spaceless %}
-    <div class="form_row form-group {% if not form.vars.valid %}has-error{% endif %}">
+    <div class="
+        form_row
+        form-group
+        {% if not form.vars.valid %}
+            has-error
+        {% endif %}
+        {% if attr.formGroupClass is defined %}
+            {{ attr.formGroupClass }}
+        {% endif %}
+    ">
         {{ form_label(form) }}
         {{ form_errors(form) }}
         {{ form_widget(form) }}
@@ -65,13 +74,15 @@
 {% block form_widget_simple %}
 {% spaceless %}
     {% set type = type|default('text') %}
-    <input type="{{ type }}" {{ block('widget_attributes') }} {% if value is not empty %}value="{{ value }}" {% endif %} class="form-control" />
+    {% set attr = attr|merge({'class': attr.class|default('') ~ ' form-control'}) %}
+    <input type="{{ type }}" {{ block('widget_attributes') }} {% if value is not empty %}value="{{ value }}" {% endif %} />
 {% endspaceless %}
 {% endblock form_widget_simple %}
     
 {% block textarea_widget %}
 {% spaceless %}
-    <textarea {{ block('widget_attributes') }} class="form-control" rows="3">{{ value }}</textarea>
+    {% set attr = attr|merge({'class': attr.class|default('') ~ ' form-control'}) %}
+    <textarea {{ block('widget_attributes') }} rows="3">{{ value }}</textarea>
 {% endspaceless %}
 {% endblock textarea_widget %}
 
@@ -80,7 +91,8 @@
     {% if required and empty_value is none and not empty_value_in_choices and not multiple %}
         {% set required = false %}
     {% endif %}
-    <select class="form-control" {{ block('widget_attributes') }}{% if multiple %} multiple="multiple" data-placeholder="Choisissez un ou plusieurs"{% endif %}>
+    {% set attr = attr|merge({'class': attr.class|default('') ~ ' form-control'}) %}
+    <select {{ block('widget_attributes') }}{% if multiple %} multiple="multiple" data-placeholder="Choisissez un ou plusieurs"{% endif %}>
         {% if empty_value is not none %}
             <option value=""{% if required and value is empty %} selected="selected"{% endif %}>{{ empty_value|trans({}, translation_domain) }}</option>
         {% endif %}
@@ -99,7 +111,8 @@
 
 {% block checkbox_widget %}
 {% spaceless %}
-    <input class="form-control" type="checkbox" {{ block('widget_attributes') }}{% if value is defined %} value="{{ value }}"{% endif %}{% if checked %} checked="checked"{% endif %} />
+    {% set attr = attr|merge({'class': attr.class|default('') ~ ' form-control'}) %}
+    <input type="checkbox" {{ block('widget_attributes') }}{% if value is defined %} value="{{ value }}"{% endif %}{% if checked %} checked="checked"{% endif %} />
 {% endspaceless %}
 {% endblock checkbox_widget %}
     
@@ -124,7 +137,8 @@
 {# DATEPICKER #}
 
 {% block datepicker_widget %}
-    <input placeholder="Date" class="form-control datepicker" type="text" {% if value is not empty %}value="{{ value }}" {% endif %} {{ block('widget_attributes') }}/>
+    {% set attr = attr|merge({'class': attr.class|default('') ~ ' form-control datepicker'}) %}
+    <input placeholder="Date" type="text" {% if value is not empty %}value="{{ value }}" {% endif %} {{ block('widget_attributes') }}/>
 {% endblock %}
 
 {# DATETIMEPICKER #}
