@@ -59,9 +59,9 @@ class Sheet
     private $sizeCategory;
     
     /**
-     * @var string
+     * @var Gender
      *
-     * @ORM\Column(name="gender", type="string", length=20)
+     * @ORM\ManyToOne(targetEntity="Ico\Bundle\RulesBundle\Entity\Gender")
      */
     private $gender;
     
@@ -147,6 +147,8 @@ class Sheet
      * @Gedmo\Timestampable(on="update")
      */
     private $updated;
+    
+    public $description;
     
     /**
      * Constructor

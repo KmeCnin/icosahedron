@@ -1,10 +1,18 @@
 services:
     ico.form.type.sheet:
         class: Ico\Bundle\SheetBundle\Form\Type\SheetType
-        arguments: [ '@doctrine.orm.entity_manager' ]
+        arguments: 
+            - '@ico.form.builder_augmenter'
         tags:
             - { name: form.type, alias: sheet }
     ico.form.type.classLevel:
         class: Ico\Bundle\SheetBundle\Form\Type\ClassLevelType
         tags:
-            - { name: form.type, alias: classLevel }
+            - { name: form.type, alias: class_level }
+            
+    sheet_description_section:
+        class: Ico\Bundle\SheetBundle\Form\Type\SheetDescriptionSectionType
+        arguments: 
+            - '@doctrine.orm.entity_manager'
+        tags:
+            - { name: form.type, alias: sheet_description_section }

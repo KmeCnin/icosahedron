@@ -9,3 +9,6 @@ services:
         arguments: [ '@service_container' ]
         tags:
             - { name: form.type, alias: collection_prototype }
+    ico.form.builder_augmenter:
+        class: Ico\Bundle\AppBundle\Form\BuilderAugmenter
+        arguments: ["@service_container"]

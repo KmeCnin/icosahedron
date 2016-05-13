@@ -44,6 +44,6 @@ class ClassLevelType extends AbstractType
 
     public function getName()
     {
-        return 'classLevel';
+        return 'class_level';
     }
 }
