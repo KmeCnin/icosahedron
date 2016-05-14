@@ -157,8 +157,9 @@
 {# COLLECTION PROTOTYPE #}
 
 {% block collection_prototype_widget %}
+    {% set attr = attr|merge({'class': attr.class|default('') ~ ' table table-condensed'}) %}
     <div class="well well-sm table-responsive" data-prototype="{% filter escape %}{% include 'IcoAppBundle:Form:collection_prototype_line.html.twig' with {line: prototype, 'unique_fields': unique_fields} only %}{% endfilter %}" data-min="{{ min_entries }}" data-max="{{ max_entries }}">
-        <table class="table table-condensed">
+        <table {{ block('widget_attributes') }}>
             <tr>
             {% for entry in prototype %}
                 <th 

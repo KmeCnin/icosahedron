@@ -5,7 +5,7 @@ namespace Ico\Bundle\AppBundle\Form;
 use Symfony\Component\Form\AbstractType;
 use Symfony\Component\Form\FormBuilderInterface;
 
-class AbstractSectionType extends AbstractType
+abstract class AbstractSectionType extends AbstractType
 {
     /** @var FormBuilderInterface */
     protected $builder;
@@ -21,6 +21,11 @@ class AbstractSectionType extends AbstractType
     }
     
     /**
+     * @return string Title of the tab to display in the view
+     */
+    protected abstract function getDisplayName();
+    
+    /**
      * @param string|int|FormBuilderInterface $child
      * @param string|FormTypeInterface        $type
      * @param array                           $options
@@ -30,7 +35,7 @@ class AbstractSectionType extends AbstractType
     protected function add($child, $type = null, array $options = [])
     {
         $this->builder->add($child, $type, array_merge_recursive (
-            ['attr' => ['data-section' => $this->getName()]],
+            ['attr' => ['data-section' => $this->getDisplayName()]],
             $options
         ));
         return $this;

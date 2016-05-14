@@ -22,6 +22,11 @@ class SheetDescriptionSectionType extends AbstractSectionType
     public function __construct(EntityManager $em) {
         $this->em = $em;
     }
+    
+    protected function getDisplayName()
+    {
+        return 'Description';
+    }
 
     public function buildForm(FormBuilderInterface $builder, array $options)
     {

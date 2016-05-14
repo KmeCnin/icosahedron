@@ -340,3 +340,6 @@ img.class-illustration {
 input[type=number] {
     min-width: 70px;
 }
+.form-section {
+    margin-bottom: 20px;
+}
