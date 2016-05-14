@@ -20,7 +20,7 @@ $(document).ready(function() {
         $('[data-section='+name+']').closest('.form_row.form-group').wrapAll(
             '<div class="'+classAttr+'" id="section'+id+'"></div>'
         );
-        $('.nav-sections').prepend(
+        $('.nav-sections').append(
             '<li class="'+classNav+'"><a href="#section'+id+'" data-toggle="tab">'+name+'</a></li>'
         );
     });

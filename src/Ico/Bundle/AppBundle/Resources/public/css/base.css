@@ -343,3 +343,6 @@ input[type=number] {
 .form-section {
     margin-bottom: 20px;
 }
+.form_row.form-group .well {
+    margin: 0;
+}

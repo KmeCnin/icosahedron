@@ -131,6 +131,13 @@ class Sheet
     private $hand;
     
     /**
+     * @var Calculation
+     * 
+	* @ORM\OneToOne(targetEntity="Calculation", cascade={"persist", "remove"})
+	*/
+    private $forceAbility;
+    
+    /**
      * @ORM\ManyToOne(targetEntity="\Ico\Bundle\UserBundle\Entity\User")
      * @ORM\JoinColumn(nullable=false)
      */
@@ -147,8 +154,6 @@ class Sheet
      * @Gedmo\Timestampable(on="update")
      */
     private $updated;
-    
-    public $description;
     
     /**
      * Constructor
@@ -603,5 +608,29 @@ class Sheet
     public function getSkin()
     {
         return $this->skin;
+    }
+
+    /**
+     * Set forceAbility
+     *
+     * @param \Ico\Bundle\SheetBundle\Entity\Calculation $forceAbility
+     *
+     * @return Sheet
+     */
+    public function setForceAbility(\Ico\Bundle\SheetBundle\Entity\Calculation $forceAbility = null)
+    {
+        $this->forceAbility = $forceAbility;
+
+        return $this;
+    }
+
+    /**
+     * Get forceAbility
+     *
+     * @return \Ico\Bundle\SheetBundle\Entity\Calculation
+     */
+    public function getForceAbility()
+    {
+        return $this->forceAbility;
     }
 }

@@ -4,6 +4,7 @@ namespace Ico\Bundle\SheetBundle\Entity;
 
 use Doctrine\ORM\Mapping as ORM;
 use Gedmo\Mapping\Annotation as Gedmo; // gedmo annotations
+use Symfony\Component\Validator\Constraints as Assert;
 
 /**
  * Sheet
@@ -39,6 +40,7 @@ class Sheet
      * @var ArrayCollection[ClassLevel]
      *
      * @ORM\ManyToMany(targetEntity="ClassLevel", cascade={"persist", "merge", "remove"})
+     * @Assert\Valid
      */
     private $classLevels;
     
@@ -57,9 +59,9 @@ class Sheet
     private $sizeCategory;
     
     /**
-     * @var string
+     * @var Gender
      *
-     * @ORM\Column(name="gender", type="string", length=20)
+     * @ORM\ManyToOne(targetEntity="Ico\Bundle\RulesBundle\Entity\Gender")
      */
     private $gender;
     
@@ -88,6 +90,7 @@ class Sheet
      * @var int $weight in kg
      *
      * @ORM\Column(name="weight", type="integer")
+     * @Assert\GreaterThanOrEqual(value=0)
      */
     private $weight;
     
@@ -95,6 +98,7 @@ class Sheet
      * @var int $height in cm
      *
      * @ORM\Column(name="height", type="integer")
+     * @Assert\GreaterThanOrEqual(value=0)
      */
     private $height;
     
@@ -125,6 +129,13 @@ class Sheet
      * @ORM\Column(name="hand", type="string", length=100)
      */
     private $hand;
+    
+    /**
+     * @var Calculation
+     * 
+	* @ORM\OneToOne(targetEntity="Calculation", cascade={"persist", "remove"})
+	*/
+    private $forceAbility;
     
     /**
      * @ORM\ManyToOne(targetEntity="\Ico\Bundle\UserBundle\Entity\User")

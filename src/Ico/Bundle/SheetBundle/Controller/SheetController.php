@@ -112,7 +112,6 @@ class SheetController extends Controller
             $em->flush();
 
             $this->get('session')->getFlashBag()->add('success', 'La fiche de personnage ' . $sheet->getCharacterName() . ' a été modifiée.');
-            return $this->redirect($this->generateUrl('ico_sheet_view', array('id' => $sheet->getId(), 'slug' => $sheet->getSlug())));
         }
 
         return array(

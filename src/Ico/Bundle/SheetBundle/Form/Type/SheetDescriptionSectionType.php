@@ -55,7 +55,7 @@ class SheetDescriptionSectionType extends AbstractSectionType
                 'min_entries' => 1,
                 'max_entries' => 10,
                 'attr' => [
-                    'formGroupClass' => self::$inputLarge,
+                    'formGroupClass' => self::$inputDefault,
                 ],
             ))
             ->add('sizeCategory', 'entity', array(

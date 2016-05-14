@@ -44,6 +44,7 @@ function reindex(collection, action) {
                         .append('<span class="input-group-btn"><button data-toggle="tooltip" title="Utiliser prédéfinis" class="btn btn-default" type="button" data-switch-to="'+$(this).attr('id').replace('custom', 'reference')+'"><span class="fa fa-bars"></span></button></span>')
                     ;
                 }
+                $('[data-toggle="tooltip"]').tooltip({placement: 'top'});
             } else {
                 $(input).attr('id', oldId.replace(/_\d+_/, '_'+newIndex+'_'));
                 $(input).attr('name', oldName.replace(/\[\d+\]/, '['+newIndex+']'));

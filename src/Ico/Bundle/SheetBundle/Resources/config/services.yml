@@ -16,3 +16,9 @@ services:
             - '@doctrine.orm.entity_manager'
         tags:
             - { name: form.type, alias: sheet_description_section }
+    sheet_statistics_section:
+        class: Ico\Bundle\SheetBundle\Form\Type\SheetStatisticsSectionType
+        arguments: 
+            - '@doctrine.orm.entity_manager'
+        tags:
+            - { name: form.type, alias: sheet_statistics_section }
