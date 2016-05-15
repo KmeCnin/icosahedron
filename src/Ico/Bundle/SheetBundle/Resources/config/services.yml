@@ -9,6 +9,10 @@ services:
         class: Ico\Bundle\SheetBundle\Form\Type\ClassLevelType
         tags:
             - { name: form.type, alias: class_level }
+    ico.form.type.modificator:
+        class: Ico\Bundle\SheetBundle\Form\Type\ModificatorType
+        tags:
+            - { name: form.type, alias: modificator }
             
     sheet_description_section:
         class: Ico\Bundle\SheetBundle\Form\Type\SheetDescriptionSectionType

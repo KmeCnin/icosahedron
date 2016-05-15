@@ -1,9 +1,18 @@
 <?php
 
-namespace Ico\Bundle\SheetBundle\Entity;
+namespace Ico\Bundle\SheetBundle\Entity; // gedmo annotations
 
+
+use DateTime;
+use Doctrine\Common\Collections\ArrayCollection;
+use Doctrine\Common\Collections\Collection;
 use Doctrine\ORM\Mapping as ORM;
-use Gedmo\Mapping\Annotation as Gedmo; // gedmo annotations
+use Gedmo\Mapping\Annotation as Gedmo;
+use Ico\Bundle\KingmakerBundle\Entity\Campaign;
+use Ico\Bundle\RulesBundle\Entity\Gender;
+use Ico\Bundle\RulesBundle\Entity\SizeCategory;
+use Ico\Bundle\UserBundle\Entity\User;
+use Symfony\Component\Security\Core\User\User as User2;
 use Symfony\Component\Validator\Constraints as Assert;
 
 /**
@@ -131,9 +140,9 @@ class Sheet
     private $hand;
     
     /**
-     * @var Calculation
+     * @var ArrayCollection[Modificator]
      * 
-	* @ORM\OneToOne(targetEntity="Calculation", cascade={"persist", "remove"})
+	* @ORM\ManyToMany(targetEntity="Modificator", cascade={"persist", "merge", "remove"})
 	*/
     private $forceAbility;
     
@@ -160,8 +169,11 @@ class Sheet
      */
     public function __construct()
     {
-        $this->classLevels = new \Doctrine\Common\Collections\ArrayCollection();
+        $this->classLevels = new ArrayCollection();
         $this->classLevels->add(new ClassLevel());
+        
+        $this->forceAbility = new ArrayCollection();
+        $this->forceAbility->add(Modificator::create()->setType('Base'));
     }
     
     /**
@@ -223,10 +235,10 @@ class Sheet
     /**
      * Add classLevels
      *
-     * @param \Ico\Bundle\SheetBundle\Entity\ClassLevel $classLevels
+     * @param ClassLevel $classLevels
      * @return Sheet
      */
-    public function addClassLevel(\Ico\Bundle\SheetBundle\Entity\ClassLevel $classLevels)
+    public function addClassLevel(ClassLevel $classLevels)
     {
         $this->classLevels[] = $classLevels;
 
@@ -236,9 +248,9 @@ class Sheet
     /**
      * Remove classLevels
      *
-     * @param \Ico\Bundle\SheetBundle\Entity\ClassLevel $classLevels
+     * @param ClassLevel $classLevels
      */
-    public function removeClassLevel(\Ico\Bundle\SheetBundle\Entity\ClassLevel $classLevels)
+    public function removeClassLevel(ClassLevel $classLevels)
     {
         $this->classLevels->removeElement($classLevels);
     }
@@ -246,7 +258,7 @@ class Sheet
     /**
      * Get classLevels
      *
-     * @return \Doctrine\Common\Collections\Collection 
+     * @return Collection 
      */
     public function getClassLevels()
     {
@@ -257,7 +269,7 @@ class Sheet
      * Set created
      *
      * @param \DateTime $created
-     * @return User
+     * @return User2
      */
     public function setCreated($created)
     {
@@ -280,7 +292,7 @@ class Sheet
      * Set updated
      *
      * @param \DateTime $updated
-     * @return User
+     * @return User2
      */
     public function setUpdated($updated)
     {
@@ -305,7 +317,7 @@ class Sheet
      * @param \Ico\Bundle\UserBundle\User $createdBy
      * @return Campaign
      */
-    public function setCreatedBy(\Ico\Bundle\UserBundle\Entity\User $createdBy)
+    public function setCreatedBy(User $createdBy)
     {
         $this->createdBy = $createdBy;
 
@@ -349,11 +361,11 @@ class Sheet
     /**
      * Set sizeCategory
      *
-     * @param \Ico\Bundle\RulesBundle\Entity\SizeCategory $sizeCategory
+     * @param SizeCategory $sizeCategory
      *
      * @return Sheet
      */
-    public function setSizeCategory(\Ico\Bundle\RulesBundle\Entity\SizeCategory $sizeCategory = null)
+    public function setSizeCategory(SizeCategory $sizeCategory = null)
     {
         $this->sizeCategory = $sizeCategory;
 
@@ -363,7 +375,7 @@ class Sheet
     /**
      * Get sizeCategory
      *
-     * @return \Ico\Bundle\RulesBundle\Entity\SizeCategory
+     * @return SizeCategory
      */
     public function getSizeCategory()
     {
@@ -611,23 +623,33 @@ class Sheet
     }
 
     /**
-     * Set forceAbility
+     * Add forceAbility
      *
-     * @param \Ico\Bundle\SheetBundle\Entity\Calculation $forceAbility
+     * @param Modificator $forceAbility
      *
      * @return Sheet
      */
-    public function setForceAbility(\Ico\Bundle\SheetBundle\Entity\Calculation $forceAbility = null)
+    public function addForceAbility(Modificator $forceAbility)
     {
-        $this->forceAbility = $forceAbility;
+        $this->forceAbility[] = $forceAbility;
 
         return $this;
     }
 
     /**
+     * Remove forceAbility
+     *
+     * @param Modificator $forceAbility
+     */
+    public function removeForceAbility(Modificator $forceAbility)
+    {
+        $this->forceAbility->removeElement($forceAbility);
+    }
+
+    /**
      * Get forceAbility
      *
-     * @return \Ico\Bundle\SheetBundle\Entity\Calculation
+     * @return Collection
      */
     public function getForceAbility()
     {

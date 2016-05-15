@@ -26,9 +26,9 @@ class Modificator
     /**
      * @var string
      *
-     * @ORM\Column(name="label", type="string", length=50)
+     * @ORM\Column(name="type", type="string", length=50)
      */
-    protected $label;
+    protected $type;
     
     /**
      * @var int
@@ -36,6 +36,18 @@ class Modificator
      * @ORM\Column(name="value", type="integer")
      */
     protected $value;
+    
+    public function __construct() {
+        $this->setValue(0);
+    }
+
+    /**
+     * @return Modificator
+     */
+    public function create()
+    {
+        return new Modificator();
+    }
 
     /**
      * Get id
@@ -48,27 +60,27 @@ class Modificator
     }
 
     /**
-     * Set label
+     * Set type
      *
-     * @param string $label
+     * @param integer $type
      *
      * @return Modificator
      */
-    public function setLabel($label)
+    public function setType($type)
     {
-        $this->label = $label;
+        $this->type = $type;
 
         return $this;
     }
 
     /**
-     * Get label
+     * Get type
      *
-     * @return string
+     * @return integer
      */
-    public function getLabel()
+    public function getType()
     {
-        return $this->label;
+        return $this->type;
     }
 
     /**

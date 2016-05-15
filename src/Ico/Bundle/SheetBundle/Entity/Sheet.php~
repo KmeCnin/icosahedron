@@ -131,9 +131,9 @@ class Sheet
     private $hand;
     
     /**
-     * @var Calculation
+     * @var ArrayCollection[Modificator]
      * 
-	* @ORM\OneToOne(targetEntity="Calculation", cascade={"persist", "remove"})
+	* @ORM\ManyToMany(targetEntity="Modificator", cascade={"persist", "merge", "remove"})
 	*/
     private $forceAbility;
     
@@ -162,6 +162,7 @@ class Sheet
     {
         $this->classLevels = new \Doctrine\Common\Collections\ArrayCollection();
         $this->classLevels->add(new ClassLevel());
+        $this->forceAbility->add(Modificator::create()->setType('Base'));
     }
     
     /**

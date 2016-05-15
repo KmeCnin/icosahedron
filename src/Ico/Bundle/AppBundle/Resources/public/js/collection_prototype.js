@@ -1,6 +1,6 @@
 $(document).ready(function() {
     // Add a new line
-    $('.prototype-add').unbind().click(function() {
+    $('.prototype-add').click(function() {
         var prototype = $(this).closest('[data-prototype]').attr('data-prototype');
         var collection = $(this).closest('[data-prototype]');
         $(collection).find('tbody').append(prototype);
