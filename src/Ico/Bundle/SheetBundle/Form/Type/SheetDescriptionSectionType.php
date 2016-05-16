@@ -55,7 +55,7 @@ class SheetDescriptionSectionType extends AbstractSectionType
                 'min_entries' => 1,
                 'max_entries' => 10,
                 'attr' => [
-                    'formGroupClass' => self::$inputDefault,
+                    'formGroupClass' => self::$inputSmall,
                 ],
             ))
             ->add('sizeCategory', 'entity', array(
@@ -68,7 +68,7 @@ class SheetDescriptionSectionType extends AbstractSectionType
                 },
                 'data' => $this->em->getReference("IcoRulesBundle:SizeCategory", 5),
                 'attr' => [
-                    'formGroupClass' => self::$inputSmall,
+                    'formGroupClass' => self::$inputExtraSmall,
                 ],
             ))
             ->add('gender', 'entity', array(
@@ -76,61 +76,61 @@ class SheetDescriptionSectionType extends AbstractSectionType
                 'class' => Gender::class,
                 'property' => 'name',
                 'attr' => [
-                    'formGroupClass' => self::$inputSmall,
+                    'formGroupClass' => self::$inputExtraSmall,
                 ],
             ))
             ->add('customReligion', null, array(
                 'label' => 'Religion',
                 'attr' => [
-                    'formGroupClass' => self::$inputSmall,
+                    'formGroupClass' => self::$inputExtraSmall,
                 ],
             ))
             ->add('customHomeland', null, array(
                 'label' => 'Nation/origine',
                 'attr' => [
-                    'formGroupClass' => self::$inputSmall,
+                    'formGroupClass' => self::$inputExtraSmall,
                 ],
             ))
             ->add('age', null, array(
                 'label' => 'Age',
                 'attr' => [
-                    'formGroupClass' => self::$inputSmall,
+                    'formGroupClass' => self::$inputExtraSmall,
                 ],
             ))
             ->add('weight', null, array(
                 'label' => 'Poids (kg)',
                 'attr' => [
-                    'formGroupClass' => self::$inputSmall,
+                    'formGroupClass' => self::$inputExtraSmall,
                 ],
             ))
             ->add('height', null, array(
                 'label' => 'Taille (cm)',
                 'attr' => [
-                    'formGroupClass' => self::$inputSmall,
+                    'formGroupClass' => self::$inputExtraSmall,
                 ],
             ))
             ->add('eyes', null, array(
                 'label' => 'Yeux',
                 'attr' => [
-                    'formGroupClass' => self::$inputSmall,
+                    'formGroupClass' => self::$inputExtraSmall,
                 ],
             ))
             ->add('hair', null, array(
                 'label' => 'Cheveux',
                 'attr' => [
-                    'formGroupClass' => self::$inputSmall,
+                    'formGroupClass' => self::$inputExtraSmall,
                 ],
             ))
             ->add('skin', null, array(
                 'label' => 'Peau',
                 'attr' => [
-                    'formGroupClass' => self::$inputSmall,
+                    'formGroupClass' => self::$inputExtraSmall,
                 ],
             ))
             ->add('hand', null, array(
                 'label' => 'Dextrie',
                 'attr' => [
-                    'formGroupClass' => self::$inputSmall,
+                    'formGroupClass' => self::$inputExtraSmall,
                 ],
             ))
         ;

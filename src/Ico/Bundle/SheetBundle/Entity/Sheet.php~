@@ -1,9 +1,18 @@
 <?php
 
-namespace Ico\Bundle\SheetBundle\Entity;
+namespace Ico\Bundle\SheetBundle\Entity; // gedmo annotations
 
+
+use DateTime;
+use Doctrine\Common\Collections\ArrayCollection;
+use Doctrine\Common\Collections\Collection;
 use Doctrine\ORM\Mapping as ORM;
-use Gedmo\Mapping\Annotation as Gedmo; // gedmo annotations
+use Gedmo\Mapping\Annotation as Gedmo;
+use Ico\Bundle\KingmakerBundle\Entity\Campaign;
+use Ico\Bundle\RulesBundle\Entity\Gender;
+use Ico\Bundle\RulesBundle\Entity\SizeCategory;
+use Ico\Bundle\UserBundle\Entity\User;
+use Symfony\Component\Security\Core\User\User as User2;
 use Symfony\Component\Validator\Constraints as Assert;
 
 /**
@@ -134,8 +143,49 @@ class Sheet
      * @var ArrayCollection[Modificator]
      * 
 	* @ORM\ManyToMany(targetEntity="Modificator", cascade={"persist", "merge", "remove"})
+     * @ORM\JoinTable(name="sheet_strength")
 	*/
-    private $forceAbility;
+    private $strengthAbility;
+    
+    /**
+     * @var ArrayCollection[Modificator]
+     * 
+	* @ORM\ManyToMany(targetEntity="Modificator", cascade={"persist", "merge", "remove"})
+     * @ORM\JoinTable(name="sheet_dexterity")
+	*/
+    private $dexterityAbility;
+    
+    /**
+     * @var ArrayCollection[Modificator]
+     * 
+	* @ORM\ManyToMany(targetEntity="Modificator", cascade={"persist", "merge", "remove"})
+     * @ORM\JoinTable(name="sheet_constitution")
+	*/
+    private $constitutionAbility;
+    
+    /**
+     * @var ArrayCollection[Modificator]
+     * 
+	* @ORM\ManyToMany(targetEntity="Modificator", cascade={"persist", "merge", "remove"})
+     * @ORM\JoinTable(name="sheet_intelligence")
+	*/
+    private $intelligenceAbility;
+    
+    /**
+     * @var ArrayCollection[Modificator]
+     * 
+	* @ORM\ManyToMany(targetEntity="Modificator", cascade={"persist", "merge", "remove"})
+     * @ORM\JoinTable(name="sheet_wisdom")
+	*/
+    private $wisdomAbility;
+    
+    /**
+     * @var ArrayCollection[Modificator]
+     * 
+	* @ORM\ManyToMany(targetEntity="Modificator", cascade={"persist", "merge", "remove"})
+     * @ORM\JoinTable(name="sheet_charisma")
+	*/
+    private $charismaAbility;
     
     /**
      * @ORM\ManyToOne(targetEntity="\Ico\Bundle\UserBundle\Entity\User")
@@ -160,8 +210,10 @@ class Sheet
      */
     public function __construct()
     {
-        $this->classLevels = new \Doctrine\Common\Collections\ArrayCollection();
+        $this->classLevels = new ArrayCollection();
         $this->classLevels->add(new ClassLevel());
+        
+        $this->forceAbility = new ArrayCollection();
         $this->forceAbility->add(Modificator::create()->setType('Base'));
     }
     
@@ -224,10 +276,10 @@ class Sheet
     /**
      * Add classLevels
      *
-     * @param \Ico\Bundle\SheetBundle\Entity\ClassLevel $classLevels
+     * @param ClassLevel $classLevels
      * @return Sheet
      */
-    public function addClassLevel(\Ico\Bundle\SheetBundle\Entity\ClassLevel $classLevels)
+    public function addClassLevel(ClassLevel $classLevels)
     {
         $this->classLevels[] = $classLevels;
 
@@ -237,9 +289,9 @@ class Sheet
     /**
      * Remove classLevels
      *
-     * @param \Ico\Bundle\SheetBundle\Entity\ClassLevel $classLevels
+     * @param ClassLevel $classLevels
      */
-    public function removeClassLevel(\Ico\Bundle\SheetBundle\Entity\ClassLevel $classLevels)
+    public function removeClassLevel(ClassLevel $classLevels)
     {
         $this->classLevels->removeElement($classLevels);
     }
@@ -247,7 +299,7 @@ class Sheet
     /**
      * Get classLevels
      *
-     * @return \Doctrine\Common\Collections\Collection 
+     * @return Collection 
      */
     public function getClassLevels()
     {
@@ -258,7 +310,7 @@ class Sheet
      * Set created
      *
      * @param \DateTime $created
-     * @return User
+     * @return User2
      */
     public function setCreated($created)
     {
@@ -281,7 +333,7 @@ class Sheet
      * Set updated
      *
      * @param \DateTime $updated
-     * @return User
+     * @return User2
      */
     public function setUpdated($updated)
     {
@@ -306,7 +358,7 @@ class Sheet
      * @param \Ico\Bundle\UserBundle\User $createdBy
      * @return Campaign
      */
-    public function setCreatedBy(\Ico\Bundle\UserBundle\Entity\User $createdBy)
+    public function setCreatedBy(User $createdBy)
     {
         $this->createdBy = $createdBy;
 
@@ -350,11 +402,11 @@ class Sheet
     /**
      * Set sizeCategory
      *
-     * @param \Ico\Bundle\RulesBundle\Entity\SizeCategory $sizeCategory
+     * @param SizeCategory $sizeCategory
      *
      * @return Sheet
      */
-    public function setSizeCategory(\Ico\Bundle\RulesBundle\Entity\SizeCategory $sizeCategory = null)
+    public function setSizeCategory(SizeCategory $sizeCategory = null)
     {
         $this->sizeCategory = $sizeCategory;
 
@@ -364,7 +416,7 @@ class Sheet
     /**
      * Get sizeCategory
      *
-     * @return \Ico\Bundle\RulesBundle\Entity\SizeCategory
+     * @return SizeCategory
      */
     public function getSizeCategory()
     {
@@ -609,5 +661,209 @@ class Sheet
     public function getSkin()
     {
         return $this->skin;
+    }
+
+    /**
+     * Add forceAbility
+     *
+     * @param Modificator $forceAbility
+     *
+     * @return Sheet
+     */
+    public function addForceAbility(Modificator $forceAbility)
+    {
+        $this->forceAbility[] = $forceAbility;
+
+        return $this;
+    }
+
+    /**
+     * Remove forceAbility
+     *
+     * @param Modificator $forceAbility
+     */
+    public function removeForceAbility(Modificator $forceAbility)
+    {
+        $this->forceAbility->removeElement($forceAbility);
+    }
+
+    /**
+     * Get forceAbility
+     *
+     * @return Collection
+     */
+    public function getForceAbility()
+    {
+        return $this->forceAbility;
+    }
+
+    /**
+     * Add strengthAbility
+     *
+     * @param \Ico\Bundle\SheetBundle\Entity\Modificator $strengthAbility
+     *
+     * @return Sheet
+     */
+    public function addStrengthAbility(\Ico\Bundle\SheetBundle\Entity\Modificator $strengthAbility)
+    {
+        $this->strengthAbility[] = $strengthAbility;
+
+        return $this;
+    }
+
+    /**
+     * Remove strengthAbility
+     *
+     * @param \Ico\Bundle\SheetBundle\Entity\Modificator $strengthAbility
+     */
+    public function removeStrengthAbility(\Ico\Bundle\SheetBundle\Entity\Modificator $strengthAbility)
+    {
+        $this->strengthAbility->removeElement($strengthAbility);
+    }
+
+    /**
+     * Get strengthAbility
+     *
+     * @return \Doctrine\Common\Collections\Collection
+     */
+    public function getStrengthAbility()
+    {
+        return $this->strengthAbility;
+    }
+
+    /**
+     * Add dexterityAbility
+     *
+     * @param \Ico\Bundle\SheetBundle\Entity\Modificator $dexterityAbility
+     *
+     * @return Sheet
+     */
+    public function addDexterityAbility(\Ico\Bundle\SheetBundle\Entity\Modificator $dexterityAbility)
+    {
+        $this->dexterityAbility[] = $dexterityAbility;
+
+        return $this;
+    }
+
+    /**
+     * Remove dexterityAbility
+     *
+     * @param \Ico\Bundle\SheetBundle\Entity\Modificator $dexterityAbility
+     */
+    public function removeDexterityAbility(\Ico\Bundle\SheetBundle\Entity\Modificator $dexterityAbility)
+    {
+        $this->dexterityAbility->removeElement($dexterityAbility);
+    }
+
+    /**
+     * Get dexterityAbility
+     *
+     * @return \Doctrine\Common\Collections\Collection
+     */
+    public function getDexterityAbility()
+    {
+        return $this->dexterityAbility;
+    }
+
+    /**
+     * Add constitutionAbility
+     *
+     * @param \Ico\Bundle\SheetBundle\Entity\Modificator $constitutionAbility
+     *
+     * @return Sheet
+     */
+    public function addConstitutionAbility(\Ico\Bundle\SheetBundle\Entity\Modificator $constitutionAbility)
+    {
+        $this->constitutionAbility[] = $constitutionAbility;
+
+        return $this;
+    }
+
+    /**
+     * Remove constitutionAbility
+     *
+     * @param \Ico\Bundle\SheetBundle\Entity\Modificator $constitutionAbility
+     */
+    public function removeConstitutionAbility(\Ico\Bundle\SheetBundle\Entity\Modificator $constitutionAbility)
+    {
+        $this->constitutionAbility->removeElement($constitutionAbility);
+    }
+
+    /**
+     * Get constitutionAbility
+     *
+     * @return \Doctrine\Common\Collections\Collection
+     */
+    public function getConstitutionAbility()
+    {
+        return $this->constitutionAbility;
+    }
+
+    /**
+     * Add intelligenceAbility
+     *
+     * @param \Ico\Bundle\SheetBundle\Entity\Modificator $intelligenceAbility
+     *
+     * @return Sheet
+     */
+    public function addIntelligenceAbility(\Ico\Bundle\SheetBundle\Entity\Modificator $intelligenceAbility)
+    {
+        $this->intelligenceAbility[] = $intelligenceAbility;
+
+        return $this;
+    }
+
+    /**
+     * Remove intelligenceAbility
+     *
+     * @param \Ico\Bundle\SheetBundle\Entity\Modificator $intelligenceAbility
+     */
+    public function removeIntelligenceAbility(\Ico\Bundle\SheetBundle\Entity\Modificator $intelligenceAbility)
+    {
+        $this->intelligenceAbility->removeElement($intelligenceAbility);
+    }
+
+    /**
+     * Get intelligenceAbility
+     *
+     * @return \Doctrine\Common\Collections\Collection
+     */
+    public function getIntelligenceAbility()
+    {
+        return $this->intelligenceAbility;
+    }
+
+    /**
+     * Add charismaAbility
+     *
+     * @param \Ico\Bundle\SheetBundle\Entity\Modificator $charismaAbility
+     *
+     * @return Sheet
+     */
+    public function addCharismaAbility(\Ico\Bundle\SheetBundle\Entity\Modificator $charismaAbility)
+    {
+        $this->charismaAbility[] = $charismaAbility;
+
+        return $this;
+    }
+
+    /**
+     * Remove charismaAbility
+     *
+     * @param \Ico\Bundle\SheetBundle\Entity\Modificator $charismaAbility
+     */
+    public function removeCharismaAbility(\Ico\Bundle\SheetBundle\Entity\Modificator $charismaAbility)
+    {
+        $this->charismaAbility->removeElement($charismaAbility);
+    }
+
+    /**
+     * Get charismaAbility
+     *
+     * @return \Doctrine\Common\Collections\Collection
+     */
+    public function getCharismaAbility()
+    {
+        return $this->charismaAbility;
     }
 }

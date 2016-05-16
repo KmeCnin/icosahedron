@@ -68,7 +68,15 @@ class SheetController extends Controller
             $aclProvider->updateAcl($acl);
 
             $this->get('session')->getFlashBag()->add('success', 'La fiche de personnage ' . $sheet->getCharacterName() . ' a été créée.');
-            return $this->redirect($this->generateUrl('ico_sheet'));
+            return $this->redirect(
+                $this->generateUrl(
+                    'ico_sheet_edit',
+                    [
+                        'id' => $sheet->getId(),
+                        'slug' => $sheet->getSlug(),
+                    ]
+                )
+            );
         }
 
         return array(

@@ -74,11 +74,55 @@ class Modificator
     }
 
     /**
+     * @param integer $type
+     *
+     * @return Modificator
+     */
+    public function setReferenceType($type)
+    {
+        if ($type) {
+            $this->type = $type;
+        }
+
+        return $this;
+    }
+
+    /**
+     * @param integer $type
+     *
+     * @return Modificator
+     */
+    public function setCustomType($type)
+    {
+        if ($type) {
+            $this->type = $type;
+        }
+
+        return $this;
+    }
+
+    /**
      * Get type
      *
      * @return integer
      */
     public function getType()
+    {
+        return $this->type;
+    }
+
+    /**
+     * @return integer
+     */
+    public function getReferenceType()
+    {
+        return $this->type;
+    }
+
+    /**
+     * @return integer
+     */
+    public function getCustomType()
     {
         return $this->type;
     }

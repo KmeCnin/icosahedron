@@ -143,8 +143,49 @@ class Sheet
      * @var ArrayCollection[Modificator]
      * 
 	* @ORM\ManyToMany(targetEntity="Modificator", cascade={"persist", "merge", "remove"})
+     * @ORM\JoinTable(name="sheet_strength")
 	*/
-    private $forceAbility;
+    private $strengthAbility;
+    
+    /**
+     * @var ArrayCollection[Modificator]
+     * 
+	* @ORM\ManyToMany(targetEntity="Modificator", cascade={"persist", "merge", "remove"})
+     * @ORM\JoinTable(name="sheet_dexterity")
+	*/
+    private $dexterityAbility;
+    
+    /**
+     * @var ArrayCollection[Modificator]
+     * 
+	* @ORM\ManyToMany(targetEntity="Modificator", cascade={"persist", "merge", "remove"})
+     * @ORM\JoinTable(name="sheet_constitution")
+	*/
+    private $constitutionAbility;
+    
+    /**
+     * @var ArrayCollection[Modificator]
+     * 
+	* @ORM\ManyToMany(targetEntity="Modificator", cascade={"persist", "merge", "remove"})
+     * @ORM\JoinTable(name="sheet_intelligence")
+	*/
+    private $intelligenceAbility;
+    
+    /**
+     * @var ArrayCollection[Modificator]
+     * 
+	* @ORM\ManyToMany(targetEntity="Modificator", cascade={"persist", "merge", "remove"})
+     * @ORM\JoinTable(name="sheet_wisdom")
+	*/
+    private $wisdomAbility;
+    
+    /**
+     * @var ArrayCollection[Modificator]
+     * 
+	* @ORM\ManyToMany(targetEntity="Modificator", cascade={"persist", "merge", "remove"})
+     * @ORM\JoinTable(name="sheet_charisma")
+	*/
+    private $charismaAbility;
     
     /**
      * @ORM\ManyToOne(targetEntity="\Ico\Bundle\UserBundle\Entity\User")
@@ -171,9 +212,18 @@ class Sheet
     {
         $this->classLevels = new ArrayCollection();
         $this->classLevels->add(new ClassLevel());
-        
-        $this->forceAbility = new ArrayCollection();
-        $this->forceAbility->add(Modificator::create()->setType('Base'));
+        $this->strengthAbility = new ArrayCollection();
+        $this->strengthAbility->add(Modificator::create()->setType('Base'));
+        $this->dexterityAbility = new ArrayCollection();
+        $this->dexterityAbility->add(Modificator::create()->setType('Base'));
+        $this->constitutionAbility = new ArrayCollection();
+        $this->constitutionAbility->add(Modificator::create()->setType('Base'));
+        $this->intelligenceAbility = new ArrayCollection();
+        $this->intelligenceAbility->add(Modificator::create()->setType('Base'));
+        $this->wisdomAbility = new ArrayCollection();
+        $this->wisdomAbility->add(Modificator::create()->setType('Base'));
+        $this->charismaAbility = new ArrayCollection();
+        $this->charismaAbility->add(Modificator::create()->setType('Base'));
     }
     
     /**
@@ -623,36 +673,206 @@ class Sheet
     }
 
     /**
-     * Add forceAbility
+     * Add strengthAbility
      *
-     * @param Modificator $forceAbility
+     * @param Modificator $strengthAbility
      *
      * @return Sheet
      */
-    public function addForceAbility(Modificator $forceAbility)
+    public function addStrengthAbility(Modificator $strengthAbility)
     {
-        $this->forceAbility[] = $forceAbility;
+        $this->strengthAbility[] = $strengthAbility;
 
         return $this;
     }
 
     /**
-     * Remove forceAbility
+     * Remove strengthAbility
      *
-     * @param Modificator $forceAbility
+     * @param Modificator $strengthAbility
      */
-    public function removeForceAbility(Modificator $forceAbility)
+    public function removeStrengthAbility(Modificator $strengthAbility)
     {
-        $this->forceAbility->removeElement($forceAbility);
+        $this->strengthAbility->removeElement($strengthAbility);
     }
 
     /**
-     * Get forceAbility
+     * Get strengthAbility
      *
      * @return Collection
      */
-    public function getForceAbility()
+    public function getStrengthAbility()
     {
-        return $this->forceAbility;
+        return $this->strengthAbility;
+    }
+
+    /**
+     * Add dexterityAbility
+     *
+     * @param Modificator $dexterityAbility
+     *
+     * @return Sheet
+     */
+    public function addDexterityAbility(Modificator $dexterityAbility)
+    {
+        $this->dexterityAbility[] = $dexterityAbility;
+
+        return $this;
+    }
+
+    /**
+     * Remove dexterityAbility
+     *
+     * @param Modificator $dexterityAbility
+     */
+    public function removeDexterityAbility(Modificator $dexterityAbility)
+    {
+        $this->dexterityAbility->removeElement($dexterityAbility);
+    }
+
+    /**
+     * Get dexterityAbility
+     *
+     * @return Collection
+     */
+    public function getDexterityAbility()
+    {
+        return $this->dexterityAbility;
+    }
+
+    /**
+     * Add constitutionAbility
+     *
+     * @param Modificator $constitutionAbility
+     *
+     * @return Sheet
+     */
+    public function addConstitutionAbility(Modificator $constitutionAbility)
+    {
+        $this->constitutionAbility[] = $constitutionAbility;
+
+        return $this;
+    }
+
+    /**
+     * Remove constitutionAbility
+     *
+     * @param Modificator $constitutionAbility
+     */
+    public function removeConstitutionAbility(Modificator $constitutionAbility)
+    {
+        $this->constitutionAbility->removeElement($constitutionAbility);
+    }
+
+    /**
+     * Get constitutionAbility
+     *
+     * @return Collection
+     */
+    public function getConstitutionAbility()
+    {
+        return $this->constitutionAbility;
+    }
+
+    /**
+     * Add intelligenceAbility
+     *
+     * @param Modificator $intelligenceAbility
+     *
+     * @return Sheet
+     */
+    public function addIntelligenceAbility(Modificator $intelligenceAbility)
+    {
+        $this->intelligenceAbility[] = $intelligenceAbility;
+
+        return $this;
+    }
+
+    /**
+     * Remove intelligenceAbility
+     *
+     * @param Modificator $intelligenceAbility
+     */
+    public function removeIntelligenceAbility(Modificator $intelligenceAbility)
+    {
+        $this->intelligenceAbility->removeElement($intelligenceAbility);
+    }
+
+    /**
+     * Get intelligenceAbility
+     *
+     * @return Collection
+     */
+    public function getIntelligenceAbility()
+    {
+        return $this->intelligenceAbility;
+    }
+
+    /**
+     * Add charismaAbility
+     *
+     * @param Modificator $charismaAbility
+     *
+     * @return Sheet
+     */
+    public function addCharismaAbility(Modificator $charismaAbility)
+    {
+        $this->charismaAbility[] = $charismaAbility;
+
+        return $this;
+    }
+
+    /**
+     * Remove charismaAbility
+     *
+     * @param Modificator $charismaAbility
+     */
+    public function removeCharismaAbility(Modificator $charismaAbility)
+    {
+        $this->charismaAbility->removeElement($charismaAbility);
+    }
+
+    /**
+     * Get charismaAbility
+     *
+     * @return Collection
+     */
+    public function getCharismaAbility()
+    {
+        return $this->charismaAbility;
+    }
+
+    /**
+     * Add wisdomAbility
+     *
+     * @param Modificator $wisdomAbility
+     *
+     * @return Sheet
+     */
+    public function addWisdomAbility(Modificator $wisdomAbility)
+    {
+        $this->wisdomAbility[] = $wisdomAbility;
+
+        return $this;
+    }
+
+    /**
+     * Remove wisdomAbility
+     *
+     * @param Modificator $wisdomAbility
+     */
+    public function removeWisdomAbility(Modificator $wisdomAbility)
+    {
+        $this->wisdomAbility->removeElement($wisdomAbility);
+    }
+
+    /**
+     * Get wisdomAbility
+     *
+     * @return Collection
+     */
+    public function getWisdomAbility()
+    {
+        return $this->wisdomAbility;
     }
 }
