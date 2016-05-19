@@ -34,7 +34,11 @@ class ModificatorType extends AbstractType
                 'error_bubbling' => false,
                 'by_reference' => true,
             ))
-            ->add('value', null, array())
+            ->add('value', null, array(
+                'attr' => [
+                    'class' => 'modificator-value',
+                ]
+            ))
         ;
     }
     

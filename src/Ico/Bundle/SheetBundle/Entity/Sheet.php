@@ -224,6 +224,8 @@ class Sheet
         $this->wisdomAbility->add(Modificator::create()->setType('Base'));
         $this->charismaAbility = new ArrayCollection();
         $this->charismaAbility->add(Modificator::create()->setType('Base'));
+        $this->charismaAbility = new ArrayCollection();
+        $this->charismaAbility->add(Modificator::create()->setType('Base'));
     }
     
     /**

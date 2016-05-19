@@ -50,6 +50,7 @@ class SheetStatisticsSectionType extends AbstractSectionType
                 'max_entries' => 10,
                 'attr' => [
                     'formGroupClass' => self::$inputSmall,
+                    'data-display-sum' => 'ability',
                 ],
                 'options' => [
                     'referenceTypes' => $referenceTypes,
@@ -68,6 +69,8 @@ class SheetStatisticsSectionType extends AbstractSectionType
                 'max_entries' => 10,
                 'attr' => [
                     'formGroupClass' => self::$inputSmall,
+                    'clearfix' => self::$visibilitySm,
+                    'data-display-sum' => 'ability',
                 ],
                 'options' => [
                     'referenceTypes' => $referenceTypes,
@@ -86,6 +89,8 @@ class SheetStatisticsSectionType extends AbstractSectionType
                 'max_entries' => 10,
                 'attr' => [
                     'formGroupClass' => self::$inputSmall,
+                    'clearfix' => self::$visibilityMd.self::$visibilityLg,
+                    'data-display-sum' => 'ability',
                 ],
                 'options' => [
                     'referenceTypes' => $referenceTypes,
@@ -104,6 +109,8 @@ class SheetStatisticsSectionType extends AbstractSectionType
                 'max_entries' => 10,
                 'attr' => [
                     'formGroupClass' => self::$inputSmall,
+                    'clearfix' => self::$visibilitySm,
+                    'data-display-sum' => 'ability',
                 ],
                 'options' => [
                     'referenceTypes' => $referenceTypes,
@@ -122,6 +129,7 @@ class SheetStatisticsSectionType extends AbstractSectionType
                 'max_entries' => 10,
                 'attr' => [
                     'formGroupClass' => self::$inputSmall,
+                    'data-display-sum' => 'ability',
                 ],
                 'options' => [
                     'referenceTypes' => $referenceTypes,
@@ -140,6 +148,7 @@ class SheetStatisticsSectionType extends AbstractSectionType
                 'max_entries' => 10,
                 'attr' => [
                     'formGroupClass' => self::$inputSmall,
+                    'data-display-sum' => 'ability',
                 ],
                 'options' => [
                     'referenceTypes' => $referenceTypes,
