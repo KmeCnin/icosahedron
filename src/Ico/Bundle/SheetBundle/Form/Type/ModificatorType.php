@@ -25,7 +25,7 @@ class ModificatorType extends AbstractType
                 'choices_as_values' => true,
                 'by_reference' => true,
             ))
-            ->add('customType', null, array(
+            ->add('customType', 'text', array(
                 'label' => 'Type',
                 'attr' => [
                     'data-switch' => 'custom',
@@ -46,9 +46,7 @@ class ModificatorType extends AbstractType
     {
         $resolver->setDefaults(array(
             'data_class' => Modificator::class,
-            'referenceTypes' => [
-                'Base' => 'Base',
-            ],
+            'referenceTypes' => [],
         ));
     }
 
