@@ -188,6 +188,30 @@ class Sheet
     private $charismaAbility;
     
     /**
+     * @var ArrayCollection[Modificator]
+     * 
+	* @ORM\ManyToMany(targetEntity="Modificator", cascade={"persist", "merge", "remove"})
+     * @ORM\JoinTable(name="sheet_fortitude")
+	*/
+    private $fortitude;
+    
+    /**
+     * @var ArrayCollection[Modificator]
+     * 
+	* @ORM\ManyToMany(targetEntity="Modificator", cascade={"persist", "merge", "remove"})
+     * @ORM\JoinTable(name="sheet_reflex")
+	*/
+    private $reflex;
+    
+    /**
+     * @var ArrayCollection[Modificator]
+     * 
+	* @ORM\ManyToMany(targetEntity="Modificator", cascade={"persist", "merge", "remove"})
+     * @ORM\JoinTable(name="sheet_will")
+	*/
+    private $will;
+    
+    /**
      * @ORM\ManyToOne(targetEntity="\Ico\Bundle\UserBundle\Entity\User")
      * @ORM\JoinColumn(nullable=false)
      */
@@ -876,5 +900,107 @@ class Sheet
     public function getWisdomAbility()
     {
         return $this->wisdomAbility;
+    }
+
+    /**
+     * Add fortitude
+     *
+     * @param \Ico\Bundle\SheetBundle\Entity\Modificator $fortitude
+     *
+     * @return Sheet
+     */
+    public function addFortitude(\Ico\Bundle\SheetBundle\Entity\Modificator $fortitude)
+    {
+        $this->fortitude[] = $fortitude;
+
+        return $this;
+    }
+
+    /**
+     * Remove fortitude
+     *
+     * @param \Ico\Bundle\SheetBundle\Entity\Modificator $fortitude
+     */
+    public function removeFortitude(\Ico\Bundle\SheetBundle\Entity\Modificator $fortitude)
+    {
+        $this->fortitude->removeElement($fortitude);
+    }
+
+    /**
+     * Get fortitude
+     *
+     * @return \Doctrine\Common\Collections\Collection
+     */
+    public function getFortitude()
+    {
+        return $this->fortitude;
+    }
+
+    /**
+     * Add reflex
+     *
+     * @param \Ico\Bundle\SheetBundle\Entity\Modificator $reflex
+     *
+     * @return Sheet
+     */
+    public function addReflex(\Ico\Bundle\SheetBundle\Entity\Modificator $reflex)
+    {
+        $this->reflex[] = $reflex;
+
+        return $this;
+    }
+
+    /**
+     * Remove reflex
+     *
+     * @param \Ico\Bundle\SheetBundle\Entity\Modificator $reflex
+     */
+    public function removeReflex(\Ico\Bundle\SheetBundle\Entity\Modificator $reflex)
+    {
+        $this->reflex->removeElement($reflex);
+    }
+
+    /**
+     * Get reflex
+     *
+     * @return \Doctrine\Common\Collections\Collection
+     */
+    public function getReflex()
+    {
+        return $this->reflex;
+    }
+
+    /**
+     * Add will
+     *
+     * @param \Ico\Bundle\SheetBundle\Entity\Modificator $will
+     *
+     * @return Sheet
+     */
+    public function addWill(\Ico\Bundle\SheetBundle\Entity\Modificator $will)
+    {
+        $this->will[] = $will;
+
+        return $this;
+    }
+
+    /**
+     * Remove will
+     *
+     * @param \Ico\Bundle\SheetBundle\Entity\Modificator $will
+     */
+    public function removeWill(\Ico\Bundle\SheetBundle\Entity\Modificator $will)
+    {
+        $this->will->removeElement($will);
+    }
+
+    /**
+     * Get will
+     *
+     * @return \Doctrine\Common\Collections\Collection
+     */
+    public function getWill()
+    {
+        return $this->will;
     }
 }

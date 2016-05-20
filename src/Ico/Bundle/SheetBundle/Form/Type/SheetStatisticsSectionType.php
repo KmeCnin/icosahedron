@@ -31,10 +31,15 @@ class SheetStatisticsSectionType extends AbstractSectionType
 
     public function buildForm(FormBuilderInterface $builder, array $options)
     {
-        $referenceTypes = [
+        $referenceTypesAbilities = [
             'Base' => 'Base',
             'Race' => 'Race',
             'Altération' => 'Altération',
+        ];
+        $referenceTypesSavingThrows = [
+            'Base' => 'Base',
+            'Magie' => 'Magie',
+            'Divers' => 'Divers',
         ];
         $this->setBuilder($builder)
             ->add('strengthAbility', 'collection_prototype', array(
@@ -46,14 +51,14 @@ class SheetStatisticsSectionType extends AbstractSectionType
                 'prototype' => true,
                 'by_reference' => false,
                 'unique_fields' => ['type'],
-                'min_entries' => 1,
+                'auto_calculated_total' => 'ability',
+                'min_entries' => 2,
                 'max_entries' => 10,
                 'attr' => [
                     'formGroupClass' => self::$inputSmall,
-                    'data-display-sum' => 'ability',
                 ],
                 'options' => [
-                    'referenceTypes' => $referenceTypes,
+                    'referenceTypes' => $referenceTypesAbilities,
                 ]
             ))
             ->add('dexterityAbility', 'collection_prototype', array(
@@ -65,15 +70,15 @@ class SheetStatisticsSectionType extends AbstractSectionType
                 'prototype' => true,
                 'by_reference' => false,
                 'unique_fields' => ['type'],
-                'min_entries' => 1,
+                'auto_calculated_total' => 'ability',
+                'min_entries' => 2,
                 'max_entries' => 10,
                 'attr' => [
                     'formGroupClass' => self::$inputSmall,
                     'clearfix' => self::$visibilitySm,
-                    'data-display-sum' => 'ability',
                 ],
                 'options' => [
-                    'referenceTypes' => $referenceTypes,
+                    'referenceTypes' => $referenceTypesAbilities,
                 ]
             ))
             ->add('constitutionAbility', 'collection_prototype', array(
@@ -85,15 +90,15 @@ class SheetStatisticsSectionType extends AbstractSectionType
                 'prototype' => true,
                 'by_reference' => false,
                 'unique_fields' => ['type'],
-                'min_entries' => 1,
+                'auto_calculated_total' => 'ability',
+                'min_entries' => 2,
                 'max_entries' => 10,
                 'attr' => [
                     'formGroupClass' => self::$inputSmall,
                     'clearfix' => self::$visibilityMd.self::$visibilityLg,
-                    'data-display-sum' => 'ability',
                 ],
                 'options' => [
-                    'referenceTypes' => $referenceTypes,
+                    'referenceTypes' => $referenceTypesAbilities,
                 ]
             ))
             ->add('intelligenceAbility', 'collection_prototype', array(
@@ -105,15 +110,15 @@ class SheetStatisticsSectionType extends AbstractSectionType
                 'prototype' => true,
                 'by_reference' => false,
                 'unique_fields' => ['type'],
-                'min_entries' => 1,
+                'auto_calculated_total' => 'ability',
+                'min_entries' => 2,
                 'max_entries' => 10,
                 'attr' => [
                     'formGroupClass' => self::$inputSmall,
                     'clearfix' => self::$visibilitySm,
-                    'data-display-sum' => 'ability',
                 ],
                 'options' => [
-                    'referenceTypes' => $referenceTypes,
+                    'referenceTypes' => $referenceTypesAbilities,
                 ]
             ))
             ->add('wisdomAbility', 'collection_prototype', array(
@@ -125,17 +130,17 @@ class SheetStatisticsSectionType extends AbstractSectionType
                 'prototype' => true,
                 'by_reference' => false,
                 'unique_fields' => ['type'],
-                'min_entries' => 1,
+                'auto_calculated_total' => 'ability',
+                'min_entries' => 2,
                 'max_entries' => 10,
                 'attr' => [
                     'formGroupClass' => self::$inputSmall,
-                    'data-display-sum' => 'ability',
                 ],
                 'options' => [
-                    'referenceTypes' => $referenceTypes,
+                    'referenceTypes' => $referenceTypesAbilities,
                 ]
             ))
-            ->add('CharismaAbility', 'collection_prototype', array(
+            ->add('charismaAbility', 'collection_prototype', array(
                 'label' => 'Charisme',
                 'allow_add' => true,
                 'allow_delete' => true,
@@ -144,14 +149,80 @@ class SheetStatisticsSectionType extends AbstractSectionType
                 'prototype' => true,
                 'by_reference' => false,
                 'unique_fields' => ['type'],
-                'min_entries' => 1,
+                'auto_calculated_total' => 'ability',
+                'min_entries' => 2,
                 'max_entries' => 10,
                 'attr' => [
                     'formGroupClass' => self::$inputSmall,
-                    'data-display-sum' => 'ability',
+                    'clearfix' => self::$visibilitySm.self::$visibilityMd.self::$visibilityLg,
                 ],
                 'options' => [
-                    'referenceTypes' => $referenceTypes,
+                    'referenceTypes' => $referenceTypesAbilities,
+                ]
+            ))
+            ->add('reflex', 'collection_prototype', array(
+                'label' => 'Réflexes',
+                'allow_add' => true,
+                'allow_delete' => true,
+                'delete_empty' => true,
+                'type' => 'modificator',
+                'prototype' => true,
+                'by_reference' => false,
+                'unique_fields' => ['type'],
+                'auto_calculated_fields' => [
+                    'dexterityAbility' => 'mod',
+                ],
+                'min_entries' => 3,
+                'max_entries' => 20,
+                'attr' => [
+                    'formGroupClass' => self::$inputSmall,
+                ],
+                'options' => [
+                    'referenceTypes' => $referenceTypesSavingThrows,
+                ]
+            ))
+            ->add('fortitude', 'collection_prototype', array(
+                'label' => 'Vigueur',
+                'allow_add' => true,
+                'allow_delete' => true,
+                'delete_empty' => true,
+                'type' => 'modificator',
+                'prototype' => true,
+                'by_reference' => false,
+                'unique_fields' => ['type'],
+                'auto_calculated_fields' => [
+                    'constitutionAbility' => 'mod',
+                ],
+                'min_entries' => 3,
+                'max_entries' => 20,
+                'attr' => [
+                    'formGroupClass' => self::$inputSmall,
+                    'clearfix' => self::$visibilitySm,
+                ],
+                'options' => [
+                    'referenceTypes' => $referenceTypesSavingThrows,
+                ]
+            ))
+            ->add('will', 'collection_prototype', array(
+                'label' => 'Volonté',
+                'allow_add' => true,
+                'allow_delete' => true,
+                'delete_empty' => true,
+                'type' => 'modificator',
+                'prototype' => true,
+                'by_reference' => false,
+                'unique_fields' => ['type'],
+                'auto_calculated_fields' => [
+                    'dexterityAbility' => 'mod',
+                ],
+                'min_entries' => 3,
+                'max_entries' => 20,
+                'attr' => [
+                    'formGroupClass' => self::$inputSmall,
+                    'clearfix' => self::$visibilitySm.self::$visibilityMd.self::$visibilityLg,
+                ],
+                'options' => [
+                    'referenceTypes' => $referenceTypesSavingThrows,
                 ]
             ))
         ;

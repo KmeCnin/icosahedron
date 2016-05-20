@@ -183,16 +183,23 @@
                     </button>
                 </th>
             </tr>
-            {% if attr['data-display-sum'] is defined %}
+            {% if auto_calculated_total %}
                 <tr>
                     <td>
                         <input disabled type="text" class="form-control" value="Valeur totale">
                     </td>
                     <td>
-                        <input disabled type="text" class="form-control display-sum{% if attr['data-display-sum'] == 'ability' %} display-mod{% endif %}"></td>
+                        <input disabled type="text" class="form-control display-sum{% if auto_calculated_total == 'ability' %} display-mod{% endif %}"></td>
                     <td></td>
                 </tr>
             {% endif %}
+            {% for auto_calculated_field, type in auto_calculated_fields %}
+                <tr data-add-{{ type }}-from="{{ auto_calculated_field }}">
+                    <td><input disabled type="text" class="form-control"></td>
+                    <td><input disabled type="text" class="form-control"></td>
+                    <td></td>
+                </tr>
+            {% endfor %}
         {% for line in form %}
             {% include 'IcoAppBundle:Form:collection_prototype_line.html.twig' with {'line': line, 'unique_fields': unique_fields} only %}
         {% endfor %}

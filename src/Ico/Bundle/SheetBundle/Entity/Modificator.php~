@@ -26,9 +26,16 @@ class Modificator
     /**
      * @var string
      *
-     * @ORM\Column(name="type", type="string", length=50)
+     * @ORM\Column(name="referenceType", type="string", length=50)
      */
-    protected $type;
+    protected $referenceType;
+    
+    /**
+     * @var string
+     *
+     * @ORM\Column(name="customType", type="string", length=50)
+     */
+    protected $customType;
     
     /**
      * @var int
@@ -60,29 +67,13 @@ class Modificator
     }
 
     /**
-     * Set type
-     *
-     * @param integer $type
-     *
-     * @return Modificator
-     */
-    public function setType($type)
-    {
-        $this->type = $type;
-
-        return $this;
-    }
-
-    /**
      * @param integer $type
      *
      * @return Modificator
      */
     public function setReferenceType($type)
     {
-        if ($type) {
-            $this->type = $type;
-        }
+        $this->referenceType = $type;
 
         return $this;
     }
@@ -94,37 +85,25 @@ class Modificator
      */
     public function setCustomType($type)
     {
-        if ($type) {
-            $this->type = $type;
-        }
+        $this->customType = $type;
 
         return $this;
     }
 
     /**
-     * Get type
-     *
-     * @return integer
-     */
-    public function getType()
-    {
-        return $this->type;
-    }
-
-    /**
-     * @return integer
+     * @return string
      */
     public function getReferenceType()
     {
-        return $this->type;
+        return $this->referenceType;
     }
 
     /**
-     * @return integer
+     * @return string
      */
     public function getCustomType()
     {
-        return $this->type;
+        return $this->customType;
     }
 
     /**
