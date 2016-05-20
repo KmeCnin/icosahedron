@@ -1,6 +1,11 @@
 $(document).ready(function() {
     // Get all differents sections
     var sections = new Array();
+    var sectionActive = parseInt(window.location.hash.substring(8));
+    if (!sectionActive) {
+        sectionActive = 0;
+        window.location.hash = '#section0';
+    } 
     $('[data-section]').each(function () {
         var challenger = $(this).attr('data-section');
         if (sections.indexOf(challenger) === -1) {
@@ -13,7 +18,7 @@ $(document).ready(function() {
     sections.forEach(function (name, id) {
         var classAttr = 'form-section tab-pane fade';
         var classNav = 'nav-section';
-        if (0 === id) {
+        if (sectionActive === id) {
             classAttr += ' active in';
             classNav += ' active';
         }
@@ -25,4 +30,8 @@ $(document).ready(function() {
         );
     });
     $('.form-section').wrapAll('<div class="form-sections tab-content"></div>');
+    // Handle url tab
+    $(document).on('shown.bs.tab', '[data-toggle=tab]', function(event) {
+        window.location.hash = $(event.target).attr('href');
+    });
 });
