@@ -213,7 +213,7 @@ class SheetStatisticsSectionType extends AbstractSectionType
                 'by_reference' => false,
                 'unique_fields' => ['type'],
                 'auto_calculated_fields' => [
-                    'dexterityAbility' => 'mod',
+                    'wisdomAbility' => 'mod',
                 ],
                 'min_entries' => 3,
                 'max_entries' => 20,
