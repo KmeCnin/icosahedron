@@ -212,6 +212,48 @@ class Sheet
     private $will;
     
     /**
+     * @var int
+     *
+     * @ORM\Column(name="acidResistance", type="integer")
+     */
+    private $acidResistance;
+    
+    /**
+     * @var int
+     *
+     * @ORM\Column(name="fireResistance", type="integer")
+     */
+    private $fireResistance;
+    
+    /**
+     * @var int
+     *
+     * @ORM\Column(name="lighteningResistance", type="integer")
+     */
+    private $lighteningResistance;
+    
+    /**
+     * @var int
+     *
+     * @ORM\Column(name="coldResistance", type="integer")
+     */
+    private $coldResistance;
+    
+    /**
+     * @var int
+     *
+     * @ORM\Column(name="sonicResistance", type="integer")
+     */
+    private $sonicResistance;
+    
+    /**
+     * @var int
+     *
+     * @ORM\Column(name="spellResistance", type="integer")
+     */
+    private $spellResistance;
+    
+    /**
      * @ORM\ManyToOne(targetEntity="\Ico\Bundle\UserBundle\Entity\User")
      * @ORM\JoinColumn(nullable=false)
      */
@@ -248,8 +290,12 @@ class Sheet
         $this->wisdomAbility->add(Modificator::create()->setType('Base'));
         $this->charismaAbility = new ArrayCollection();
         $this->charismaAbility->add(Modificator::create()->setType('Base'));
-        $this->charismaAbility = new ArrayCollection();
-        $this->charismaAbility->add(Modificator::create()->setType('Base'));
+        $this->reflex = new ArrayCollection();
+        $this->reflex->add(Modificator::create()->setType('Base'));
+        $this->fortitude = new ArrayCollection();
+        $this->fortitude->add(Modificator::create()->setType('Base'));
+        $this->will = new ArrayCollection();
+        $this->will->add(Modificator::create()->setType('Base'));
     }
     
     /**
@@ -1002,5 +1048,149 @@ class Sheet
     public function getWill()
     {
         return $this->will;
+    }
+
+    /**
+     * Set acidResistance
+     *
+     * @param integer $acidResistance
+     *
+     * @return Sheet
+     */
+    public function setAcidResistance($acidResistance)
+    {
+        $this->acidResistance = $acidResistance;
+
+        return $this;
+    }
+
+    /**
+     * Get acidResistance
+     *
+     * @return integer
+     */
+    public function getAcidResistance()
+    {
+        return $this->acidResistance;
+    }
+
+    /**
+     * Set fireResistance
+     *
+     * @param integer $fireResistance
+     *
+     * @return Sheet
+     */
+    public function setFireResistance($fireResistance)
+    {
+        $this->fireResistance = $fireResistance;
+
+        return $this;
+    }
+
+    /**
+     * Get fireResistance
+     *
+     * @return integer
+     */
+    public function getFireResistance()
+    {
+        return $this->fireResistance;
+    }
+
+    /**
+     * Set lighteningResistance
+     *
+     * @param integer $lighteningResistance
+     *
+     * @return Sheet
+     */
+    public function setLighteningResistance($lighteningResistance)
+    {
+        $this->lighteningResistance = $lighteningResistance;
+
+        return $this;
+    }
+
+    /**
+     * Get lighteningResistance
+     *
+     * @return integer
+     */
+    public function getLighteningResistance()
+    {
+        return $this->lighteningResistance;
+    }
+
+    /**
+     * Set coldResistance
+     *
+     * @param integer $coldResistance
+     *
+     * @return Sheet
+     */
+    public function setColdResistance($coldResistance)
+    {
+        $this->coldResistance = $coldResistance;
+
+        return $this;
+    }
+
+    /**
+     * Get coldResistance
+     *
+     * @return integer
+     */
+    public function getColdResistance()
+    {
+        return $this->coldResistance;
+    }
+
+    /**
+     * Set sonicResistance
+     *
+     * @param integer $sonicResistance
+     *
+     * @return Sheet
+     */
+    public function setSonicResistance($sonicResistance)
+    {
+        $this->sonicResistance = $sonicResistance;
+
+        return $this;
+    }
+
+    /**
+     * Get sonicResistance
+     *
+     * @return integer
+     */
+    public function getSonicResistance()
+    {
+        return $this->sonicResistance;
+    }
+
+    /**
+     * Set spellResistance
+     *
+     * @param integer $spellResistance
+     *
+     * @return Sheet
+     */
+    public function setSpellResistance($spellResistance)
+    {
+        $this->spellResistance = $spellResistance;
+
+        return $this;
+    }
+
+    /**
+     * Get spellResistance
+     *
+     * @return integer
+     */
+    public function getSpellResistance()
+    {
+        return $this->spellResistance;
     }
 }

@@ -27,7 +27,7 @@ class CollectionPrototypeType extends AbstractType
             'unique_fields' => [],
             'min_entries' => 0,
             'max_entries' => 50,
-            'auto_calculated_total' => 'default',
+            'auto_calculated_total' => false,
             'auto_calculated_fields' => [],
         ));
     }

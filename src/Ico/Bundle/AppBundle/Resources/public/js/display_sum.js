@@ -18,11 +18,9 @@ $(document).ready(function() {
         $(output).val(sum+' ('+sign+mod+')');
         $(output).attr('data-displayed-mod', mod);
     };
-    // Init by adding toggle button from reference to custom
     $('.display-sum').each(function() {
         updateDisplayedSum(this);
     });
-    // Init by adding toggle button from reference to custom
     $(document).on('change', '.modificator-value', function() {
         updateDisplayedSum($(this).closest('table').find('.display-sum'));
     });

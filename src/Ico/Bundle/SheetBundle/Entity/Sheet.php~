@@ -212,6 +212,48 @@ class Sheet
     private $will;
     
     /**
+     * @var int
+     *
+     * @ORM\Column(name="acidResistance", type="integer")
+     */
+    private $acidResistance;
+    
+    /**
+     * @var int
+     *
+     * @ORM\Column(name="fireResistance", type="integer")
+     */
+    private $fireResistance;
+    
+    /**
+     * @var int
+     *
+     * @ORM\Column(name="lighteningResistance", type="integer")
+     */
+    private $lighteningResistance;
+    
+    /**
+     * @var int
+     *
+     * @ORM\Column(name="coldResistance", type="integer")
+     */
+    private $coldResistance;
+    
+    /**
+     * @var int
+     *
+     * @ORM\Column(name="sonicResistance", type="integer")
+     */
+    private $sonicResistance;
+    
+    /**
+     * @var int
+     *
+     * @ORM\Column(name="spellResistance", type="integer")
+     */
+    private $spellResistance;
+    
+    /**
      * @ORM\ManyToOne(targetEntity="\Ico\Bundle\UserBundle\Entity\User")
      * @ORM\JoinColumn(nullable=false)
      */
@@ -248,8 +290,12 @@ class Sheet
         $this->wisdomAbility->add(Modificator::create()->setType('Base'));
         $this->charismaAbility = new ArrayCollection();
         $this->charismaAbility->add(Modificator::create()->setType('Base'));
-        $this->charismaAbility = new ArrayCollection();
-        $this->charismaAbility->add(Modificator::create()->setType('Base'));
+        $this->reflex = new ArrayCollection();
+        $this->reflex->add(Modificator::create()->setType('Base'));
+        $this->fortitude = new ArrayCollection();
+        $this->fortitude->add(Modificator::create()->setType('Base'));
+        $this->will = new ArrayCollection();
+        $this->will->add(Modificator::create()->setType('Base'));
     }
     
     /**
@@ -900,5 +946,107 @@ class Sheet
     public function getWisdomAbility()
     {
         return $this->wisdomAbility;
+    }
+
+    /**
+     * Add fortitude
+     *
+     * @param \Ico\Bundle\SheetBundle\Entity\Modificator $fortitude
+     *
+     * @return Sheet
+     */
+    public function addFortitude(\Ico\Bundle\SheetBundle\Entity\Modificator $fortitude)
+    {
+        $this->fortitude[] = $fortitude;
+
+        return $this;
+    }
+
+    /**
+     * Remove fortitude
+     *
+     * @param \Ico\Bundle\SheetBundle\Entity\Modificator $fortitude
+     */
+    public function removeFortitude(\Ico\Bundle\SheetBundle\Entity\Modificator $fortitude)
+    {
+        $this->fortitude->removeElement($fortitude);
+    }
+
+    /**
+     * Get fortitude
+     *
+     * @return \Doctrine\Common\Collections\Collection
+     */
+    public function getFortitude()
+    {
+        return $this->fortitude;
+    }
+
+    /**
+     * Add reflex
+     *
+     * @param \Ico\Bundle\SheetBundle\Entity\Modificator $reflex
+     *
+     * @return Sheet
+     */
+    public function addReflex(\Ico\Bundle\SheetBundle\Entity\Modificator $reflex)
+    {
+        $this->reflex[] = $reflex;
+
+        return $this;
+    }
+
+    /**
+     * Remove reflex
+     *
+     * @param \Ico\Bundle\SheetBundle\Entity\Modificator $reflex
+     */
+    public function removeReflex(\Ico\Bundle\SheetBundle\Entity\Modificator $reflex)
+    {
+        $this->reflex->removeElement($reflex);
+    }
+
+    /**
+     * Get reflex
+     *
+     * @return \Doctrine\Common\Collections\Collection
+     */
+    public function getReflex()
+    {
+        return $this->reflex;
+    }
+
+    /**
+     * Add will
+     *
+     * @param \Ico\Bundle\SheetBundle\Entity\Modificator $will
+     *
+     * @return Sheet
+     */
+    public function addWill(\Ico\Bundle\SheetBundle\Entity\Modificator $will)
+    {
+        $this->will[] = $will;
+
+        return $this;
+    }
+
+    /**
+     * Remove will
+     *
+     * @param \Ico\Bundle\SheetBundle\Entity\Modificator $will
+     */
+    public function removeWill(\Ico\Bundle\SheetBundle\Entity\Modificator $will)
+    {
+        $this->will->removeElement($will);
+    }
+
+    /**
+     * Get will
+     *
+     * @return \Doctrine\Common\Collections\Collection
+     */
+    public function getWill()
+    {
+        return $this->will;
     }
 }

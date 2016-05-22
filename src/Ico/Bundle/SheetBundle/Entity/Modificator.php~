@@ -26,14 +26,14 @@ class Modificator
     /**
      * @var string
      *
-     * @ORM\Column(name="referenceType", type="string", length=50)
+     * @ORM\Column(name="referenceType", type="string", length=50, nullable=true)
      */
     protected $referenceType;
     
     /**
      * @var string
      *
-     * @ORM\Column(name="customType", type="string", length=50)
+     * @ORM\Column(name="customType", type="string", length=50, nullable=true)
      */
     protected $customType;
     

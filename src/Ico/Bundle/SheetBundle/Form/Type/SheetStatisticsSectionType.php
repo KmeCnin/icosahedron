@@ -51,6 +51,7 @@ class SheetStatisticsSectionType extends AbstractSectionType
                 'prototype' => true,
                 'by_reference' => false,
                 'unique_fields' => ['type'],
+                'auto_calculated_total' => 'default',
                 'auto_calculated_total' => 'ability',
                 'min_entries' => 2,
                 'max_entries' => 10,
@@ -70,6 +71,7 @@ class SheetStatisticsSectionType extends AbstractSectionType
                 'prototype' => true,
                 'by_reference' => false,
                 'unique_fields' => ['type'],
+                'auto_calculated_total' => 'default',
                 'auto_calculated_total' => 'ability',
                 'min_entries' => 2,
                 'max_entries' => 10,
@@ -90,6 +92,7 @@ class SheetStatisticsSectionType extends AbstractSectionType
                 'prototype' => true,
                 'by_reference' => false,
                 'unique_fields' => ['type'],
+                'auto_calculated_total' => 'default',
                 'auto_calculated_total' => 'ability',
                 'min_entries' => 2,
                 'max_entries' => 10,
@@ -110,6 +113,7 @@ class SheetStatisticsSectionType extends AbstractSectionType
                 'prototype' => true,
                 'by_reference' => false,
                 'unique_fields' => ['type'],
+                'auto_calculated_total' => 'default',
                 'auto_calculated_total' => 'ability',
                 'min_entries' => 2,
                 'max_entries' => 10,
@@ -130,6 +134,7 @@ class SheetStatisticsSectionType extends AbstractSectionType
                 'prototype' => true,
                 'by_reference' => false,
                 'unique_fields' => ['type'],
+                'auto_calculated_total' => 'default',
                 'auto_calculated_total' => 'ability',
                 'min_entries' => 2,
                 'max_entries' => 10,
@@ -149,6 +154,7 @@ class SheetStatisticsSectionType extends AbstractSectionType
                 'prototype' => true,
                 'by_reference' => false,
                 'unique_fields' => ['type'],
+                'auto_calculated_total' => 'default',
                 'auto_calculated_total' => 'ability',
                 'min_entries' => 2,
                 'max_entries' => 10,
@@ -169,6 +175,7 @@ class SheetStatisticsSectionType extends AbstractSectionType
                 'prototype' => true,
                 'by_reference' => false,
                 'unique_fields' => ['type'],
+                'auto_calculated_total' => 'default',
                 'auto_calculated_fields' => [
                     'dexterityAbility' => 'mod',
                 ],
@@ -190,6 +197,7 @@ class SheetStatisticsSectionType extends AbstractSectionType
                 'prototype' => true,
                 'by_reference' => false,
                 'unique_fields' => ['type'],
+                'auto_calculated_total' => 'default',
                 'auto_calculated_fields' => [
                     'constitutionAbility' => 'mod',
                 ],
@@ -212,6 +220,7 @@ class SheetStatisticsSectionType extends AbstractSectionType
                 'prototype' => true,
                 'by_reference' => false,
                 'unique_fields' => ['type'],
+                'auto_calculated_total' => 'default',
                 'auto_calculated_fields' => [
                     'wisdomAbility' => 'mod',
                 ],
@@ -224,6 +233,42 @@ class SheetStatisticsSectionType extends AbstractSectionType
                 'options' => [
                     'referenceTypes' => $referenceTypesSavingThrows,
                 ]
+            ))
+            ->add('acidResistance', null, array(
+                'label' => 'Résistance à l\'acide',
+                'attr' => [
+                    'formGroupClass' => self::$inputExtraSmall,
+                ],
+            ))
+            ->add('fireResistance', null, array(
+                'label' => 'Résistance au feu',
+                'attr' => [
+                    'formGroupClass' => self::$inputExtraSmall,
+                ],
+            ))
+            ->add('lighteningResistance', null, array(
+                'label' => 'Résistance à la foudre',
+                'attr' => [
+                    'formGroupClass' => self::$inputExtraSmall,
+                ],
+            ))
+            ->add('coldResistance', null, array(
+                'label' => 'Résistance au froid',
+                'attr' => [
+                    'formGroupClass' => self::$inputExtraSmall,
+                ],
+            ))
+            ->add('sonicResistance', null, array(
+                'label' => 'Résistance au son',
+                'attr' => [
+                    'formGroupClass' => self::$inputExtraSmall,
+                ],
+            ))
+            ->add('spellResistance', null, array(
+                'label' => 'Résistance à la magie',
+                'attr' => [
+                    'formGroupClass' => self::$inputExtraSmall,
+                ],
             ))
         ;
     }
