@@ -270,6 +270,30 @@ class SheetStatisticsSectionType extends AbstractSectionType
                     'formGroupClass' => self::$inputExtraSmall,
                 ],
             ))
+            ->add('maxHP', null, array(
+                'label' => 'Points de vie max.',
+                'attr' => [
+                    'formGroupClass' => self::$inputExtraSmall,
+                ],
+            ))
+            ->add('regenHP', null, array(
+                'label' => 'Régénération',
+                'attr' => [
+                    'formGroupClass' => self::$inputExtraSmall,
+                ],
+            ))
+            ->add('fastHealing', null, array(
+                'label' => 'Guérison accélérée',
+                'attr' => [
+                    'formGroupClass' => self::$inputExtraSmall,
+                ],
+            ))
+            ->add('damagesResistance', null, array(
+                'label' => 'Résistance aux dégâts',
+                'attr' => [
+                    'formGroupClass' => self::$inputExtraSmall,
+                ],
+            ))
         ;
     }
     

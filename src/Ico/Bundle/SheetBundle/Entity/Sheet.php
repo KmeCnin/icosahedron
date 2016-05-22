@@ -254,6 +254,57 @@ class Sheet
     private $spellResistance;
     
     /**
+     * @var int
+     *
+     * @ORM\Column(name="maxHP", type="integer")
+     */
+    private $maxHP;
+    
+    /**
+     * @var string
+     *
+     * @ORM\Column(name="regenHP", type="string", length=100)
+     */
+    private $regenHP;
+    
+    /**
+     * @var string
+     *
+     * @ORM\Column(name="fastHealing", type="string", length=100)
+     */
+    private $fastHealing;
+    
+    /**
+     * @var string
+     *
+     * @ORM\Column(name="damagesResistance", type="string", length=100)
+     */
+    private $damagesResistance;
+    
+    /**
+     * @var int
+     *
+     * @ORM\Column(name="bba", type="integer")
+     */
+    private $bba;
+    
+    /**
+     * @var ArrayCollection[Modificator]
+     * 
+	* @ORM\ManyToMany(targetEntity="Modificator", cascade={"persist", "merge", "remove"})
+     * @ORM\JoinTable(name="sheet_contactAttack")
+	*/
+    private $contactAttack;
+    
+    /**
+     * @var ArrayCollection[Modificator]
+     * 
+	* @ORM\ManyToMany(targetEntity="Modificator", cascade={"persist", "merge", "remove"})
+     * @ORM\JoinTable(name="sheet_rangedAttack")
+	*/
+    private $rangedAttack;
+    
+    /**
      * @ORM\ManyToOne(targetEntity="\Ico\Bundle\UserBundle\Entity\User")
      * @ORM\JoinColumn(nullable=false)
      */
@@ -1192,5 +1243,193 @@ class Sheet
     public function getSpellResistance()
     {
         return $this->spellResistance;
+    }
+
+    /**
+     * Set maxHP
+     *
+     * @param integer $maxHP
+     *
+     * @return Sheet
+     */
+    public function setMaxHP($maxHP)
+    {
+        $this->maxHP = $maxHP;
+
+        return $this;
+    }
+
+    /**
+     * Get maxHP
+     *
+     * @return integer
+     */
+    public function getMaxHP()
+    {
+        return $this->maxHP;
+    }
+
+    /**
+     * Set regenHP
+     *
+     * @param string $regenHP
+     *
+     * @return Sheet
+     */
+    public function setRegenHP($regenHP)
+    {
+        $this->regenHP = $regenHP;
+
+        return $this;
+    }
+
+    /**
+     * Get regenHP
+     *
+     * @return string
+     */
+    public function getRegenHP()
+    {
+        return $this->regenHP;
+    }
+
+    /**
+     * Set fastHealing
+     *
+     * @param string $fastHealing
+     *
+     * @return Sheet
+     */
+    public function setFastHealing($fastHealing)
+    {
+        $this->fastHealing = $fastHealing;
+
+        return $this;
+    }
+
+    /**
+     * Get fastHealing
+     *
+     * @return string
+     */
+    public function getFastHealing()
+    {
+        return $this->fastHealing;
+    }
+
+    /**
+     * Set damagesResistance
+     *
+     * @param string $damagesResistance
+     *
+     * @return Sheet
+     */
+    public function setDamagesResistance($damagesResistance)
+    {
+        $this->damagesResistance = $damagesResistance;
+
+        return $this;
+    }
+
+    /**
+     * Get damagesResistance
+     *
+     * @return string
+     */
+    public function getDamagesResistance()
+    {
+        return $this->damagesResistance;
+    }
+
+    /**
+     * Set bba
+     *
+     * @param integer $bba
+     *
+     * @return Sheet
+     */
+    public function setBba($bba)
+    {
+        $this->bba = $bba;
+
+        return $this;
+    }
+
+    /**
+     * Get bba
+     *
+     * @return integer
+     */
+    public function getBba()
+    {
+        return $this->bba;
+    }
+
+    /**
+     * Add rangedAttack
+     *
+     * @param \Ico\Bundle\SheetBundle\Entity\Modificator $rangedAttack
+     *
+     * @return Sheet
+     */
+    public function addRangedAttack(\Ico\Bundle\SheetBundle\Entity\Modificator $rangedAttack)
+    {
+        $this->rangedAttack[] = $rangedAttack;
+
+        return $this;
+    }
+
+    /**
+     * Remove rangedAttack
+     *
+     * @param \Ico\Bundle\SheetBundle\Entity\Modificator $rangedAttack
+     */
+    public function removeRangedAttack(\Ico\Bundle\SheetBundle\Entity\Modificator $rangedAttack)
+    {
+        $this->rangedAttack->removeElement($rangedAttack);
+    }
+
+    /**
+     * Get rangedAttack
+     *
+     * @return \Doctrine\Common\Collections\Collection
+     */
+    public function getRangedAttack()
+    {
+        return $this->rangedAttack;
+    }
+
+    /**
+     * Add contactAttack
+     *
+     * @param \Ico\Bundle\SheetBundle\Entity\Modificator $contactAttack
+     *
+     * @return Sheet
+     */
+    public function addContactAttack(\Ico\Bundle\SheetBundle\Entity\Modificator $contactAttack)
+    {
+        $this->contactAttack[] = $contactAttack;
+
+        return $this;
+    }
+
+    /**
+     * Remove contactAttack
+     *
+     * @param \Ico\Bundle\SheetBundle\Entity\Modificator $contactAttack
+     */
+    public function removeContactAttack(\Ico\Bundle\SheetBundle\Entity\Modificator $contactAttack)
+    {
+        $this->contactAttack->removeElement($contactAttack);
+    }
+
+    /**
+     * Get contactAttack
+     *
+     * @return \Doctrine\Common\Collections\Collection
+     */
+    public function getContactAttack()
+    {
+        return $this->contactAttack;
     }
 }

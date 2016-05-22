@@ -26,6 +26,7 @@ class SheetType extends AbstractType
         $this->builderAugmenter->setBuilder($builder)
             ->add('sheet_description_section', $options)
             ->add('sheet_statistics_section', $options)
+            ->add('sheet_fight_section', $options)
         ;
     }
     
