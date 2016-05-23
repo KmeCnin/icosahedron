@@ -56,7 +56,7 @@ class SheetFightSectionType extends AbstractSectionType
                     'bba' => 'value',
                     'strengthAbility' => 'mod',
                 ],
-                'min_entries' => 4,
+                'min_entries' => 3,
                 'max_entries' => 10,
                 'attr' => [
                     'formGroupClass' => self::$inputSmall,
@@ -79,7 +79,7 @@ class SheetFightSectionType extends AbstractSectionType
                     'bba' => 'value',
                     'dexterityAbility' => 'mod',
                 ],
-                'min_entries' => 4,
+                'min_entries' => 3,
                 'max_entries' => 10,
                 'attr' => [
                     'formGroupClass' => self::$inputSmall,

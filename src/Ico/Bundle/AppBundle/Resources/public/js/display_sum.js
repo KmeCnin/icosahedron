@@ -49,9 +49,21 @@ $(document).ready(function() {
     // Add auto calculated data for value
     $('[data-add-value-from]').each(function() {
         addValueFrom(this);
+        var element = $(this);
+        var target = $('[id$=_'+$(this).attr('data-add-value-from')+']');
+        $(document).on('change', '#'+$(target).attr('id'), function() {
+            addValueFrom($(element));
+            updateDisplayedSum($(element).closest('table').find('.display-sum'));
+        });
     });
     // Add auto calculated data for mod
     $('[data-add-mod-from]').each(function() {
         addModFrom(this);
+        var element = $(this);
+        var target = $('[id$=_'+$(this).attr('data-add-mod-from')+']');
+        $(document).on('change', '#'+$(target).attr('id'), function() {
+            addModFrom(element);
+            updateDisplayedSum($(element).closest('table').find('.display-sum'));
+        });
     });
 });
