@@ -305,6 +305,22 @@ class Sheet
     private $rangedAttack;
     
     /**
+     * @var ArrayCollection[Modificator]
+     * 
+	* @ORM\ManyToMany(targetEntity="Modificator", cascade={"persist", "merge", "remove"})
+     * @ORM\JoinTable(name="sheet_cmb")
+	*/
+    private $cmb;
+    
+    /**
+     * @var ArrayCollection[Modificator]
+     * 
+	* @ORM\ManyToMany(targetEntity="Modificator", cascade={"persist", "merge", "remove"})
+     * @ORM\JoinTable(name="sheet_cmd")
+	*/
+    private $cmd;
+    
+    /**
      * @ORM\ManyToOne(targetEntity="\Ico\Bundle\UserBundle\Entity\User")
      * @ORM\JoinColumn(nullable=false)
      */
@@ -1397,5 +1413,39 @@ class Sheet
     public function getRangedAttack()
     {
         return $this->rangedAttack;
+    }
+
+    /**
+     * Add contactAttack
+     *
+     * @param \Ico\Bundle\SheetBundle\Entity\Modificator $contactAttack
+     *
+     * @return Sheet
+     */
+    public function addContactAttack(\Ico\Bundle\SheetBundle\Entity\Modificator $contactAttack)
+    {
+        $this->contactAttack[] = $contactAttack;
+
+        return $this;
+    }
+
+    /**
+     * Remove contactAttack
+     *
+     * @param \Ico\Bundle\SheetBundle\Entity\Modificator $contactAttack
+     */
+    public function removeContactAttack(\Ico\Bundle\SheetBundle\Entity\Modificator $contactAttack)
+    {
+        $this->contactAttack->removeElement($contactAttack);
+    }
+
+    /**
+     * Get contactAttack
+     *
+     * @return \Doctrine\Common\Collections\Collection
+     */
+    public function getContactAttack()
+    {
+        return $this->contactAttack;
     }
 }

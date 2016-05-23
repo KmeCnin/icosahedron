@@ -305,6 +305,22 @@ class Sheet
     private $rangedAttack;
     
     /**
+     * @var ArrayCollection[Modificator]
+     * 
+	* @ORM\ManyToMany(targetEntity="Modificator", cascade={"persist", "merge", "remove"})
+     * @ORM\JoinTable(name="sheet_cmb")
+	*/
+    private $cmb;
+    
+    /**
+     * @var ArrayCollection[Modificator]
+     * 
+	* @ORM\ManyToMany(targetEntity="Modificator", cascade={"persist", "merge", "remove"})
+     * @ORM\JoinTable(name="sheet_cmd")
+	*/
+    private $cmd;
+    
+    /**
      * @ORM\ManyToOne(targetEntity="\Ico\Bundle\UserBundle\Entity\User")
      * @ORM\JoinColumn(nullable=false)
      */
@@ -1431,5 +1447,73 @@ class Sheet
     public function getContactAttack()
     {
         return $this->contactAttack;
+    }
+
+    /**
+     * Add cmb
+     *
+     * @param \Ico\Bundle\SheetBundle\Entity\Modificator $cmb
+     *
+     * @return Sheet
+     */
+    public function addCmb(\Ico\Bundle\SheetBundle\Entity\Modificator $cmb)
+    {
+        $this->cmb[] = $cmb;
+
+        return $this;
+    }
+
+    /**
+     * Remove cmb
+     *
+     * @param \Ico\Bundle\SheetBundle\Entity\Modificator $cmb
+     */
+    public function removeCmb(\Ico\Bundle\SheetBundle\Entity\Modificator $cmb)
+    {
+        $this->cmb->removeElement($cmb);
+    }
+
+    /**
+     * Get cmb
+     *
+     * @return \Doctrine\Common\Collections\Collection
+     */
+    public function getCmb()
+    {
+        return $this->cmb;
+    }
+
+    /**
+     * Add cmd
+     *
+     * @param \Ico\Bundle\SheetBundle\Entity\Modificator $cmd
+     *
+     * @return Sheet
+     */
+    public function addCmd(\Ico\Bundle\SheetBundle\Entity\Modificator $cmd)
+    {
+        $this->cmd[] = $cmd;
+
+        return $this;
+    }
+
+    /**
+     * Remove cmd
+     *
+     * @param \Ico\Bundle\SheetBundle\Entity\Modificator $cmd
+     */
+    public function removeCmd(\Ico\Bundle\SheetBundle\Entity\Modificator $cmd)
+    {
+        $this->cmd->removeElement($cmd);
+    }
+
+    /**
+     * Get cmd
+     *
+     * @return \Doctrine\Common\Collections\Collection
+     */
+    public function getCmd()
+    {
+        return $this->cmd;
     }
 }

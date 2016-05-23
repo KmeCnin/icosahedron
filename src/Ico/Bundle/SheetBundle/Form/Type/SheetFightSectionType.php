@@ -43,7 +43,7 @@ class SheetFightSectionType extends AbstractSectionType
                 ],
             ))
             ->add('contactAttack', 'collection_prototype', array(
-                'label' => 'Attaque au corps-à-corps',
+                'label' => 'Bonus d\'attaque au corps-à-corps',
                 'allow_add' => true,
                 'allow_delete' => true,
                 'delete_empty' => true,
@@ -66,7 +66,7 @@ class SheetFightSectionType extends AbstractSectionType
                 ]
             ))
             ->add('rangedAttack', 'collection_prototype', array(
-                'label' => 'Attaque à distance',
+                'label' => 'Bonus d\'attaque à distance',
                 'allow_add' => true,
                 'allow_delete' => true,
                 'delete_empty' => true,
@@ -78,6 +78,29 @@ class SheetFightSectionType extends AbstractSectionType
                 'auto_calculated_fields' => [
                     'bba' => 'value',
                     'dexterityAbility' => 'mod',
+                ],
+                'min_entries' => 3,
+                'max_entries' => 10,
+                'attr' => [
+                    'formGroupClass' => self::$inputSmall,
+                ],
+                'options' => [
+                    'referenceTypes' => $referenceTypesAttack,
+                ]
+            ))
+            ->add('cmb', 'collection_prototype', array(
+                'label' => 'Bonus de manoeuvre offensive',
+                'allow_add' => true,
+                'allow_delete' => true,
+                'delete_empty' => true,
+                'type' => 'modificator',
+                'prototype' => true,
+                'by_reference' => false,
+                'unique_fields' => ['type'],
+                'auto_calculated_total' => 'default',
+                'auto_calculated_fields' => [
+                    'bba' => 'value',
+                    'strengthAbility' => 'mod',
                 ],
                 'min_entries' => 3,
                 'max_entries' => 10,
