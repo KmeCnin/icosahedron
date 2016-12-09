@@ -13,7 +13,7 @@ $(document).ready(function() {
         }
     });
     // Créate the nav
-    $('form > div').prepend('<ul class="nav-sections nav nav-tabs"></ul>');
+    $('.form-block.form-with-sections > form > div').prepend('<ul class="nav-sections nav nav-tabs"></ul>');
     // Wrap all form input group of the same section into a common wrapper
     sections.forEach(function (name, id) {
         var classAttr = 'form-section tab-pane fade';

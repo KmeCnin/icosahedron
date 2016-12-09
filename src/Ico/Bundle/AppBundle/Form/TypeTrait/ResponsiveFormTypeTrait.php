@@ -13,4 +13,5 @@ trait ResponsiveFormTypeTrait
     protected static $visibilityMd = ' visible-md-block ';
     protected static $visibilitySm = ' visible-sm-block ';
     protected static $visibilityXs = ' visible-xs-block ';
+    protected static $visibilityAll = '';
 }

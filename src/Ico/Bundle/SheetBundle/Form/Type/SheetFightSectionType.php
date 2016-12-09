@@ -40,6 +40,7 @@ class SheetFightSectionType extends AbstractSectionType
                 'label' => 'BBA',
                 'attr' => [
                     'formGroupClass' => self::$inputExtraSmall,
+                    'clearfix' => self::$visibilityAll,
                 ],
             ))
             ->add('contactAttack', 'collection_prototype', array(
