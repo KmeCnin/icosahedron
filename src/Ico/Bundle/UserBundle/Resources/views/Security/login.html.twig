@@ -35,6 +35,7 @@
 				    <label for="password">{{ 'security.login.password'|trans({}, 'FOSUserBundle') }}</label>
 				    <input class="form-control" type="password" id="password" name="_password" required="required" />
 				</div>
+                    <input type="hidden" name="_target_path" value="{{ app.request.headers.get('referer') }}" />
 				<input style="margin-right:20px;" class="btn btn-primary" type="submit" id="_submit" name="_submit" value="{{ 'security.login.submit'|trans({}, 'FOSUserBundle') }}" />
 			 </form>
 		  </fieldset>
