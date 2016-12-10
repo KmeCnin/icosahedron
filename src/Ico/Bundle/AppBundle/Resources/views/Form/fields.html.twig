@@ -128,6 +128,7 @@
     {% if label is empty %}
         {% set label = name|humanize %}
     {% endif %}
+    <div class="clearfix"></div>
     <button class="btn {% if type == 'submit' %}btn-primary{% else %} btn-default{% endif %}" type="{{ type|default('button') }}" {{ block('button_attributes') }}>{% if type == 'submit' %}<span class="fa fa-check"></span> {% endif %}{{ label|trans({}, translation_domain) }}</button>
 {% endspaceless %}
 {% endblock button_widget %}

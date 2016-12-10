@@ -32,6 +32,7 @@ class AppKernel extends Kernel {
             new Ico\Bundle\ParserBundle\IcoParserBundle(),
             new Ico\Bundle\KingmakerBundle\IcoKingmakerBundle(),
             new Ico\Bundle\SheetBundle\IcoSheetBundle(),
+            new Ico\Bundle\MassFightBundle\IcoMassFightBundle(),
         );
 
         if (in_array($this->getEnvironment(), array('dev', 'test'))) {

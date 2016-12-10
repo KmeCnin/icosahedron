@@ -77,8 +77,9 @@ EOT
 		  'IcoRulesBundle:Skill',
 		  'IcoRulesBundle:CharacterClass',
 		  'IcoRulesBundle:SizeCategory',
+		  'IcoRulesBundle:Alignment',
 		  'IcoKingmakerBundle:MapModel',
-		  'IcoKingmakerBundle:MapInterestModel'
+		  'IcoKingmakerBundle:MapInterestModel',
 	   );
     }
 
@@ -100,7 +101,7 @@ EOT
 	   $kernel = $this->getContainer()->get('kernel');
 	   $application = new \Symfony\Bundle\FrameworkBundle\Console\Application($kernel);
 	   $application->setAutoExit(false);
-	   // Les fixtures sont chargées à la suite des données existentes, pour Ã©viter les doublons, il faut s'assurer d'appeler truncateTable() de toutes les tables concernées.
+	   // Les fixtures sont chargées à la suite des données existentes, pour éviter les doublons, il faut s'assurer d'appeler truncateTable() de toutes les tables concernées.
 	   $options = array('command' => 'doctrine:fixtures:load', "--append" => true);
 	   $application->run(new \Symfony\Component\Console\Input\ArrayInput($options));
     }

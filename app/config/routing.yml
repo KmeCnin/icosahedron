@@ -1,3 +1,8 @@
+ico_mass_fight:
+    resource: "@IcoMassFightBundle/Controller/"
+    type:     annotation
+    prefix:   /
+    
 ico_sheet:
     resource: "@IcoSheetBundle/Controller/"
     type:     annotation

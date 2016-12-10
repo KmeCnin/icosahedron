@@ -1,0 +1,35 @@
+{% extends "IcoMassFightBundle::layout.html.twig" %}
+{% form_theme form 'IcoAppBundle:Form:fields.html.twig' %}
+
+{% block title %}
+    {{ parent() }}
+    {% if campaign is defined and is_granted('DELETE', campaign) %}
+        <button type="button" class="btn btn-default btn-title" data-toggle="modal" data-target="#campaignDelete"><span class="fa fa-times"></span> Supprimer</button>
+        <div class="modal fade" id="campaignDelete" tabindex="-1" role="dialog" aria-labelledby="Suppression de la campagne {{ campaign.name }}" aria-hidden="true">
+            <div class="modal-dialog">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <button type="button" class="close" data-dismiss="modal" aria-label="Fermer"><span aria-hidden="true">&times;</span></button>
+                        <h4 class="modal-title" id="myModalLabel">Suppression de la campagne {{ campaign.name }}</h4>
+                    </div>
+                    <div class="modal-body">
+                        <p>
+                            La suppression d'une campagne est définitive.<br />
+                            Êtes-vous sûr de vouloir supprimer <strong>{{ campaign.name }}</strong> ?
+                        </p>
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-default" data-dismiss="modal"><span class="fa fa-undo"></span> Annuler</button>
+                        <a href="{{ path('ico_kingmaker_campaign_delete', {'id': campaign.id, 'slug': campaign.slug}) }}" class="btn btn-primary"><span class="fa fa-times"></span> Supprimer</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    {% endif %}
+{% endblock %}
+
+{% block content %}
+    <div class="form-block">
+        {{ form(form) }}
+    </div>
+{% endblock %}
