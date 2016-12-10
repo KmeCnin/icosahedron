@@ -1,9 +1,19 @@
 <?php
 
-namespace Ico\Bundle\SheetBundle\Entity;
+namespace Ico\Bundle\SheetBundle\Entity; // gedmo annotations
 
+
+use DateTime;
+use Doctrine\Common\Collections\ArrayCollection;
+use Doctrine\Common\Collections\Collection;
 use Doctrine\ORM\Mapping as ORM;
-use Gedmo\Mapping\Annotation as Gedmo; // gedmo annotations
+use Gedmo\Mapping\Annotation as Gedmo;
+use Ico\Bundle\KingmakerBundle\Entity\Campaign;
+use Ico\Bundle\RulesBundle\Entity\Gender;
+use Ico\Bundle\RulesBundle\Entity\SizeCategory;
+use Ico\Bundle\UserBundle\Entity\User;
+use Symfony\Component\Security\Core\User\User as User2;
+use Symfony\Component\Validator\Constraints as Assert;
 
 /**
  * Sheet
@@ -39,13 +49,14 @@ class Sheet
      * @var ArrayCollection[ClassLevel]
      *
      * @ORM\ManyToMany(targetEntity="ClassLevel", cascade={"persist", "merge", "remove"})
+     * @Assert\Valid
      */
     private $classLevels;
     
     /**
      * @var string
      *
-     * @ORM\Column(name="race", type="string", length=255)
+     * @ORM\Column(name="customRace", type="string", length=255)
      */
     private $customRace;
     
@@ -55,6 +66,259 @@ class Sheet
      * @ORM\ManyToOne(targetEntity="Ico\Bundle\RulesBundle\Entity\SizeCategory")
      */
     private $sizeCategory;
+    
+    /**
+     * @var Gender
+     *
+     * @ORM\ManyToOne(targetEntity="Ico\Bundle\RulesBundle\Entity\Gender")
+     */
+    private $gender;
+    
+    /**
+     * @var string
+     *
+     * @ORM\Column(name="customReligion", type="string", length=255)
+     */
+    private $customReligion;
+    
+    /**
+     * @var string
+     *
+     * @ORM\Column(name="customHomeland", type="string", length=255)
+     */
+    private $customHomeland;
+    
+    /**
+     * @var int
+     *
+     * @ORM\Column(name="age", type="integer")
+     */
+    private $age;
+    
+    /**
+     * @var int $weight in kg
+     *
+     * @ORM\Column(name="weight", type="integer")
+     * @Assert\GreaterThanOrEqual(value=0)
+     */
+    private $weight;
+    
+    /**
+     * @var int $height in cm
+     *
+     * @ORM\Column(name="height", type="integer")
+     * @Assert\GreaterThanOrEqual(value=0)
+     */
+    private $height;
+    
+    /**
+     * @var string
+     *
+     * @ORM\Column(name="eyes", type="string", length=100)
+     */
+    private $eyes;
+    
+    /**
+     * @var string
+     *
+     * @ORM\Column(name="hair", type="string", length=100)
+     */
+    private $hair;
+    
+    /**
+     * @var string
+     *
+     * @ORM\Column(name="skin", type="string", length=100)
+     */
+    private $skin;
+    
+    /**
+     * @var string
+     *
+     * @ORM\Column(name="hand", type="string", length=100)
+     */
+    private $hand;
+    
+    /**
+     * @var ArrayCollection[Modificator]
+     * 
+	* @ORM\ManyToMany(targetEntity="Modificator", cascade={"persist", "merge", "remove"})
+     * @ORM\JoinTable(name="sheet_strength")
+	*/
+    private $strengthAbility;
+    
+    /**
+     * @var ArrayCollection[Modificator]
+     * 
+	* @ORM\ManyToMany(targetEntity="Modificator", cascade={"persist", "merge", "remove"})
+     * @ORM\JoinTable(name="sheet_dexterity")
+	*/
+    private $dexterityAbility;
+    
+    /**
+     * @var ArrayCollection[Modificator]
+     * 
+	* @ORM\ManyToMany(targetEntity="Modificator", cascade={"persist", "merge", "remove"})
+     * @ORM\JoinTable(name="sheet_constitution")
+	*/
+    private $constitutionAbility;
+    
+    /**
+     * @var ArrayCollection[Modificator]
+     * 
+	* @ORM\ManyToMany(targetEntity="Modificator", cascade={"persist", "merge", "remove"})
+     * @ORM\JoinTable(name="sheet_intelligence")
+	*/
+    private $intelligenceAbility;
+    
+    /**
+     * @var ArrayCollection[Modificator]
+     * 
+	* @ORM\ManyToMany(targetEntity="Modificator", cascade={"persist", "merge", "remove"})
+     * @ORM\JoinTable(name="sheet_wisdom")
+	*/
+    private $wisdomAbility;
+    
+    /**
+     * @var ArrayCollection[Modificator]
+     * 
+	* @ORM\ManyToMany(targetEntity="Modificator", cascade={"persist", "merge", "remove"})
+     * @ORM\JoinTable(name="sheet_charisma")
+	*/
+    private $charismaAbility;
+    
+    /**
+     * @var ArrayCollection[Modificator]
+     * 
+	* @ORM\ManyToMany(targetEntity="Modificator", cascade={"persist", "merge", "remove"})
+     * @ORM\JoinTable(name="sheet_fortitude")
+	*/
+    private $fortitude;
+    
+    /**
+     * @var ArrayCollection[Modificator]
+     * 
+	* @ORM\ManyToMany(targetEntity="Modificator", cascade={"persist", "merge", "remove"})
+     * @ORM\JoinTable(name="sheet_reflex")
+	*/
+    private $reflex;
+    
+    /**
+     * @var ArrayCollection[Modificator]
+     * 
+	* @ORM\ManyToMany(targetEntity="Modificator", cascade={"persist", "merge", "remove"})
+     * @ORM\JoinTable(name="sheet_will")
+	*/
+    private $will;
+    
+    /**
+     * @var int
+     *
+     * @ORM\Column(name="acidResistance", type="integer")
+     */
+    private $acidResistance;
+    
+    /**
+     * @var int
+     *
+     * @ORM\Column(name="fireResistance", type="integer")
+     */
+    private $fireResistance;
+    
+    /**
+     * @var int
+     *
+     * @ORM\Column(name="lighteningResistance", type="integer")
+     */
+    private $lighteningResistance;
+    
+    /**
+     * @var int
+     *
+     * @ORM\Column(name="coldResistance", type="integer")
+     */
+    private $coldResistance;
+    
+    /**
+     * @var int
+     *
+     * @ORM\Column(name="sonicResistance", type="integer")
+     */
+    private $sonicResistance;
+    
+    /**
+     * @var int
+     *
+     * @ORM\Column(name="spellResistance", type="integer")
+     */
+    private $spellResistance;
+    
+    /**
+     * @var int
+     *
+     * @ORM\Column(name="maxHP", type="integer")
+     */
+    private $maxHP;
+    
+    /**
+     * @var string
+     *
+     * @ORM\Column(name="regenHP", type="string", length=100)
+     */
+    private $regenHP;
+    
+    /**
+     * @var string
+     *
+     * @ORM\Column(name="fastHealing", type="string", length=100)
+     */
+    private $fastHealing;
+    
+    /**
+     * @var string
+     *
+     * @ORM\Column(name="damagesResistance", type="string", length=100)
+     */
+    private $damagesResistance;
+    
+    /**
+     * @var int
+     *
+     * @ORM\Column(name="bba", type="integer")
+     */
+    private $bba;
+    
+    /**
+     * @var ArrayCollection[Modificator]
+     * 
+	* @ORM\ManyToMany(targetEntity="Modificator", cascade={"persist", "merge", "remove"})
+     * @ORM\JoinTable(name="sheet_contactAttack")
+	*/
+    private $contactAttack;
+    
+    /**
+     * @var ArrayCollection[Modificator]
+     * 
+	* @ORM\ManyToMany(targetEntity="Modificator", cascade={"persist", "merge", "remove"})
+     * @ORM\JoinTable(name="sheet_rangedAttack")
+	*/
+    private $rangedAttack;
+    
+    /**
+     * @var ArrayCollection[Modificator]
+     * 
+	* @ORM\ManyToMany(targetEntity="Modificator", cascade={"persist", "merge", "remove"})
+     * @ORM\JoinTable(name="sheet_cmb")
+	*/
+    private $cmb;
+    
+    /**
+     * @var ArrayCollection[Modificator]
+     * 
+	* @ORM\ManyToMany(targetEntity="Modificator", cascade={"persist", "merge", "remove"})
+     * @ORM\JoinTable(name="sheet_cmd")
+	*/
+    private $cmd;
     
     /**
      * @ORM\ManyToOne(targetEntity="\Ico\Bundle\UserBundle\Entity\User")
@@ -73,6 +337,33 @@ class Sheet
      * @Gedmo\Timestampable(on="update")
      */
     private $updated;
+    
+    /**
+     * Constructor
+     */
+    public function __construct()
+    {
+        $this->classLevels = new ArrayCollection();
+        $this->classLevels->add(new ClassLevel());
+        $this->strengthAbility = new ArrayCollection();
+        $this->strengthAbility->add(Modificator::create()->setType('Base'));
+        $this->dexterityAbility = new ArrayCollection();
+        $this->dexterityAbility->add(Modificator::create()->setType('Base'));
+        $this->constitutionAbility = new ArrayCollection();
+        $this->constitutionAbility->add(Modificator::create()->setType('Base'));
+        $this->intelligenceAbility = new ArrayCollection();
+        $this->intelligenceAbility->add(Modificator::create()->setType('Base'));
+        $this->wisdomAbility = new ArrayCollection();
+        $this->wisdomAbility->add(Modificator::create()->setType('Base'));
+        $this->charismaAbility = new ArrayCollection();
+        $this->charismaAbility->add(Modificator::create()->setType('Base'));
+        $this->reflex = new ArrayCollection();
+        $this->reflex->add(Modificator::create()->setType('Base'));
+        $this->fortitude = new ArrayCollection();
+        $this->fortitude->add(Modificator::create()->setType('Base'));
+        $this->will = new ArrayCollection();
+        $this->will->add(Modificator::create()->setType('Base'));
+    }
     
     /**
      * Get id
@@ -133,10 +424,10 @@ class Sheet
     /**
      * Add classLevels
      *
-     * @param \Ico\Bundle\SheetBundle\Entity\ClassLevel $classLevels
+     * @param ClassLevel $classLevels
      * @return Sheet
      */
-    public function addClassLevel(\Ico\Bundle\SheetBundle\Entity\ClassLevel $classLevels)
+    public function addClassLevel(ClassLevel $classLevels)
     {
         $this->classLevels[] = $classLevels;
 
@@ -146,9 +437,9 @@ class Sheet
     /**
      * Remove classLevels
      *
-     * @param \Ico\Bundle\SheetBundle\Entity\ClassLevel $classLevels
+     * @param ClassLevel $classLevels
      */
-    public function removeClassLevel(\Ico\Bundle\SheetBundle\Entity\ClassLevel $classLevels)
+    public function removeClassLevel(ClassLevel $classLevels)
     {
         $this->classLevels->removeElement($classLevels);
     }
@@ -156,7 +447,7 @@ class Sheet
     /**
      * Get classLevels
      *
-     * @return \Doctrine\Common\Collections\Collection 
+     * @return Collection 
      */
     public function getClassLevels()
     {
@@ -167,7 +458,7 @@ class Sheet
      * Set created
      *
      * @param \DateTime $created
-     * @return User
+     * @return User2
      */
     public function setCreated($created)
     {
@@ -190,7 +481,7 @@ class Sheet
      * Set updated
      *
      * @param \DateTime $updated
-     * @return User
+     * @return User2
      */
     public function setUpdated($updated)
     {
@@ -215,7 +506,7 @@ class Sheet
      * @param \Ico\Bundle\UserBundle\User $createdBy
      * @return Campaign
      */
-    public function setCreatedBy(\Ico\Bundle\UserBundle\Entity\User $createdBy)
+    public function setCreatedBy(User $createdBy)
     {
         $this->createdBy = $createdBy;
 
@@ -231,12 +522,930 @@ class Sheet
     {
         return $this->createdBy;
     }
+
     /**
-     * Constructor
+     * Set customRace
+     *
+     * @param string $customRace
+     *
+     * @return Sheet
      */
-    public function __construct()
+    public function setCustomRace($customRace)
     {
-        $this->classLevels = new \Doctrine\Common\Collections\ArrayCollection();
-        $this->classLevels->add(new ClassLevel());
+        $this->customRace = $customRace;
+
+        return $this;
+    }
+
+    /**
+     * Get customRace
+     *
+     * @return string
+     */
+    public function getCustomRace()
+    {
+        return $this->customRace;
+    }
+
+    /**
+     * Set sizeCategory
+     *
+     * @param SizeCategory $sizeCategory
+     *
+     * @return Sheet
+     */
+    public function setSizeCategory(SizeCategory $sizeCategory = null)
+    {
+        $this->sizeCategory = $sizeCategory;
+
+        return $this;
+    }
+
+    /**
+     * Get sizeCategory
+     *
+     * @return SizeCategory
+     */
+    public function getSizeCategory()
+    {
+        return $this->sizeCategory;
+    }
+
+    /**
+     * Set gender
+     *
+     * @param string $gender
+     *
+     * @return Sheet
+     */
+    public function setGender($gender)
+    {
+        $this->gender = $gender;
+
+        return $this;
+    }
+
+    /**
+     * Get gender
+     *
+     * @return string
+     */
+    public function getGender()
+    {
+        return $this->gender;
+    }
+
+    /**
+     * Set customReligion
+     *
+     * @param string $customReligion
+     *
+     * @return Sheet
+     */
+    public function setCustomReligion($customReligion)
+    {
+        $this->customReligion = $customReligion;
+
+        return $this;
+    }
+
+    /**
+     * Get customReligion
+     *
+     * @return string
+     */
+    public function getCustomReligion()
+    {
+        return $this->customReligion;
+    }
+
+    /**
+     * Set customHomeland
+     *
+     * @param string $customHomeland
+     *
+     * @return Sheet
+     */
+    public function setCustomHomeland($customHomeland)
+    {
+        $this->customHomeland = $customHomeland;
+
+        return $this;
+    }
+
+    /**
+     * Get customHomeland
+     *
+     * @return string
+     */
+    public function getCustomHomeland()
+    {
+        return $this->customHomeland;
+    }
+
+    /**
+     * Set age
+     *
+     * @param integer $age
+     *
+     * @return Sheet
+     */
+    public function setAge($age)
+    {
+        $this->age = $age;
+
+        return $this;
+    }
+
+    /**
+     * Get age
+     *
+     * @return integer
+     */
+    public function getAge()
+    {
+        return $this->age;
+    }
+
+    /**
+     * Set weight
+     *
+     * @param integer $weight
+     *
+     * @return Sheet
+     */
+    public function setWeight($weight)
+    {
+        $this->weight = $weight;
+
+        return $this;
+    }
+
+    /**
+     * Get weight
+     *
+     * @return integer
+     */
+    public function getWeight()
+    {
+        return $this->weight;
+    }
+
+    /**
+     * Set height
+     *
+     * @param integer $height
+     *
+     * @return Sheet
+     */
+    public function setHeight($height)
+    {
+        $this->height = $height;
+
+        return $this;
+    }
+
+    /**
+     * Get height
+     *
+     * @return integer
+     */
+    public function getHeight()
+    {
+        return $this->height;
+    }
+
+    /**
+     * Set eyes
+     *
+     * @param string $eyes
+     *
+     * @return Sheet
+     */
+    public function setEyes($eyes)
+    {
+        $this->eyes = $eyes;
+
+        return $this;
+    }
+
+    /**
+     * Get eyes
+     *
+     * @return string
+     */
+    public function getEyes()
+    {
+        return $this->eyes;
+    }
+
+    /**
+     * Set hair
+     *
+     * @param string $hair
+     *
+     * @return Sheet
+     */
+    public function setHair($hair)
+    {
+        $this->hair = $hair;
+
+        return $this;
+    }
+
+    /**
+     * Get hair
+     *
+     * @return string
+     */
+    public function getHair()
+    {
+        return $this->hair;
+    }
+
+    /**
+     * Set hand
+     *
+     * @param string $hand
+     *
+     * @return Sheet
+     */
+    public function setHand($hand)
+    {
+        $this->hand = $hand;
+
+        return $this;
+    }
+
+    /**
+     * Get hand
+     *
+     * @return string
+     */
+    public function getHand()
+    {
+        return $this->hand;
+    }
+
+    /**
+     * Set skin
+     *
+     * @param string $skin
+     *
+     * @return Sheet
+     */
+    public function setSkin($skin)
+    {
+        $this->skin = $skin;
+
+        return $this;
+    }
+
+    /**
+     * Get skin
+     *
+     * @return string
+     */
+    public function getSkin()
+    {
+        return $this->skin;
+    }
+
+    /**
+     * Add strengthAbility
+     *
+     * @param Modificator $strengthAbility
+     *
+     * @return Sheet
+     */
+    public function addStrengthAbility(Modificator $strengthAbility)
+    {
+        $this->strengthAbility[] = $strengthAbility;
+
+        return $this;
+    }
+
+    /**
+     * Remove strengthAbility
+     *
+     * @param Modificator $strengthAbility
+     */
+    public function removeStrengthAbility(Modificator $strengthAbility)
+    {
+        $this->strengthAbility->removeElement($strengthAbility);
+    }
+
+    /**
+     * Get strengthAbility
+     *
+     * @return Collection
+     */
+    public function getStrengthAbility()
+    {
+        return $this->strengthAbility;
+    }
+
+    /**
+     * Add dexterityAbility
+     *
+     * @param Modificator $dexterityAbility
+     *
+     * @return Sheet
+     */
+    public function addDexterityAbility(Modificator $dexterityAbility)
+    {
+        $this->dexterityAbility[] = $dexterityAbility;
+
+        return $this;
+    }
+
+    /**
+     * Remove dexterityAbility
+     *
+     * @param Modificator $dexterityAbility
+     */
+    public function removeDexterityAbility(Modificator $dexterityAbility)
+    {
+        $this->dexterityAbility->removeElement($dexterityAbility);
+    }
+
+    /**
+     * Get dexterityAbility
+     *
+     * @return Collection
+     */
+    public function getDexterityAbility()
+    {
+        return $this->dexterityAbility;
+    }
+
+    /**
+     * Add constitutionAbility
+     *
+     * @param Modificator $constitutionAbility
+     *
+     * @return Sheet
+     */
+    public function addConstitutionAbility(Modificator $constitutionAbility)
+    {
+        $this->constitutionAbility[] = $constitutionAbility;
+
+        return $this;
+    }
+
+    /**
+     * Remove constitutionAbility
+     *
+     * @param Modificator $constitutionAbility
+     */
+    public function removeConstitutionAbility(Modificator $constitutionAbility)
+    {
+        $this->constitutionAbility->removeElement($constitutionAbility);
+    }
+
+    /**
+     * Get constitutionAbility
+     *
+     * @return Collection
+     */
+    public function getConstitutionAbility()
+    {
+        return $this->constitutionAbility;
+    }
+
+    /**
+     * Add intelligenceAbility
+     *
+     * @param Modificator $intelligenceAbility
+     *
+     * @return Sheet
+     */
+    public function addIntelligenceAbility(Modificator $intelligenceAbility)
+    {
+        $this->intelligenceAbility[] = $intelligenceAbility;
+
+        return $this;
+    }
+
+    /**
+     * Remove intelligenceAbility
+     *
+     * @param Modificator $intelligenceAbility
+     */
+    public function removeIntelligenceAbility(Modificator $intelligenceAbility)
+    {
+        $this->intelligenceAbility->removeElement($intelligenceAbility);
+    }
+
+    /**
+     * Get intelligenceAbility
+     *
+     * @return Collection
+     */
+    public function getIntelligenceAbility()
+    {
+        return $this->intelligenceAbility;
+    }
+
+    /**
+     * Add charismaAbility
+     *
+     * @param Modificator $charismaAbility
+     *
+     * @return Sheet
+     */
+    public function addCharismaAbility(Modificator $charismaAbility)
+    {
+        $this->charismaAbility[] = $charismaAbility;
+
+        return $this;
+    }
+
+    /**
+     * Remove charismaAbility
+     *
+     * @param Modificator $charismaAbility
+     */
+    public function removeCharismaAbility(Modificator $charismaAbility)
+    {
+        $this->charismaAbility->removeElement($charismaAbility);
+    }
+
+    /**
+     * Get charismaAbility
+     *
+     * @return Collection
+     */
+    public function getCharismaAbility()
+    {
+        return $this->charismaAbility;
+    }
+
+    /**
+     * Add wisdomAbility
+     *
+     * @param Modificator $wisdomAbility
+     *
+     * @return Sheet
+     */
+    public function addWisdomAbility(Modificator $wisdomAbility)
+    {
+        $this->wisdomAbility[] = $wisdomAbility;
+
+        return $this;
+    }
+
+    /**
+     * Remove wisdomAbility
+     *
+     * @param Modificator $wisdomAbility
+     */
+    public function removeWisdomAbility(Modificator $wisdomAbility)
+    {
+        $this->wisdomAbility->removeElement($wisdomAbility);
+    }
+
+    /**
+     * Get wisdomAbility
+     *
+     * @return Collection
+     */
+    public function getWisdomAbility()
+    {
+        return $this->wisdomAbility;
+    }
+
+    /**
+     * Add fortitude
+     *
+     * @param \Ico\Bundle\SheetBundle\Entity\Modificator $fortitude
+     *
+     * @return Sheet
+     */
+    public function addFortitude(\Ico\Bundle\SheetBundle\Entity\Modificator $fortitude)
+    {
+        $this->fortitude[] = $fortitude;
+
+        return $this;
+    }
+
+    /**
+     * Remove fortitude
+     *
+     * @param \Ico\Bundle\SheetBundle\Entity\Modificator $fortitude
+     */
+    public function removeFortitude(\Ico\Bundle\SheetBundle\Entity\Modificator $fortitude)
+    {
+        $this->fortitude->removeElement($fortitude);
+    }
+
+    /**
+     * Get fortitude
+     *
+     * @return \Doctrine\Common\Collections\Collection
+     */
+    public function getFortitude()
+    {
+        return $this->fortitude;
+    }
+
+    /**
+     * Add reflex
+     *
+     * @param \Ico\Bundle\SheetBundle\Entity\Modificator $reflex
+     *
+     * @return Sheet
+     */
+    public function addReflex(\Ico\Bundle\SheetBundle\Entity\Modificator $reflex)
+    {
+        $this->reflex[] = $reflex;
+
+        return $this;
+    }
+
+    /**
+     * Remove reflex
+     *
+     * @param \Ico\Bundle\SheetBundle\Entity\Modificator $reflex
+     */
+    public function removeReflex(\Ico\Bundle\SheetBundle\Entity\Modificator $reflex)
+    {
+        $this->reflex->removeElement($reflex);
+    }
+
+    /**
+     * Get reflex
+     *
+     * @return \Doctrine\Common\Collections\Collection
+     */
+    public function getReflex()
+    {
+        return $this->reflex;
+    }
+
+    /**
+     * Add will
+     *
+     * @param \Ico\Bundle\SheetBundle\Entity\Modificator $will
+     *
+     * @return Sheet
+     */
+    public function addWill(\Ico\Bundle\SheetBundle\Entity\Modificator $will)
+    {
+        $this->will[] = $will;
+
+        return $this;
+    }
+
+    /**
+     * Remove will
+     *
+     * @param \Ico\Bundle\SheetBundle\Entity\Modificator $will
+     */
+    public function removeWill(\Ico\Bundle\SheetBundle\Entity\Modificator $will)
+    {
+        $this->will->removeElement($will);
+    }
+
+    /**
+     * Get will
+     *
+     * @return \Doctrine\Common\Collections\Collection
+     */
+    public function getWill()
+    {
+        return $this->will;
+    }
+
+    /**
+     * Set acidResistance
+     *
+     * @param integer $acidResistance
+     *
+     * @return Sheet
+     */
+    public function setAcidResistance($acidResistance)
+    {
+        $this->acidResistance = $acidResistance;
+
+        return $this;
+    }
+
+    /**
+     * Get acidResistance
+     *
+     * @return integer
+     */
+    public function getAcidResistance()
+    {
+        return $this->acidResistance;
+    }
+
+    /**
+     * Set fireResistance
+     *
+     * @param integer $fireResistance
+     *
+     * @return Sheet
+     */
+    public function setFireResistance($fireResistance)
+    {
+        $this->fireResistance = $fireResistance;
+
+        return $this;
+    }
+
+    /**
+     * Get fireResistance
+     *
+     * @return integer
+     */
+    public function getFireResistance()
+    {
+        return $this->fireResistance;
+    }
+
+    /**
+     * Set lighteningResistance
+     *
+     * @param integer $lighteningResistance
+     *
+     * @return Sheet
+     */
+    public function setLighteningResistance($lighteningResistance)
+    {
+        $this->lighteningResistance = $lighteningResistance;
+
+        return $this;
+    }
+
+    /**
+     * Get lighteningResistance
+     *
+     * @return integer
+     */
+    public function getLighteningResistance()
+    {
+        return $this->lighteningResistance;
+    }
+
+    /**
+     * Set coldResistance
+     *
+     * @param integer $coldResistance
+     *
+     * @return Sheet
+     */
+    public function setColdResistance($coldResistance)
+    {
+        $this->coldResistance = $coldResistance;
+
+        return $this;
+    }
+
+    /**
+     * Get coldResistance
+     *
+     * @return integer
+     */
+    public function getColdResistance()
+    {
+        return $this->coldResistance;
+    }
+
+    /**
+     * Set sonicResistance
+     *
+     * @param integer $sonicResistance
+     *
+     * @return Sheet
+     */
+    public function setSonicResistance($sonicResistance)
+    {
+        $this->sonicResistance = $sonicResistance;
+
+        return $this;
+    }
+
+    /**
+     * Get sonicResistance
+     *
+     * @return integer
+     */
+    public function getSonicResistance()
+    {
+        return $this->sonicResistance;
+    }
+
+    /**
+     * Set spellResistance
+     *
+     * @param integer $spellResistance
+     *
+     * @return Sheet
+     */
+    public function setSpellResistance($spellResistance)
+    {
+        $this->spellResistance = $spellResistance;
+
+        return $this;
+    }
+
+    /**
+     * Get spellResistance
+     *
+     * @return integer
+     */
+    public function getSpellResistance()
+    {
+        return $this->spellResistance;
+    }
+
+    /**
+     * Set maxHP
+     *
+     * @param integer $maxHP
+     *
+     * @return Sheet
+     */
+    public function setMaxHP($maxHP)
+    {
+        $this->maxHP = $maxHP;
+
+        return $this;
+    }
+
+    /**
+     * Get maxHP
+     *
+     * @return integer
+     */
+    public function getMaxHP()
+    {
+        return $this->maxHP;
+    }
+
+    /**
+     * Set regenHP
+     *
+     * @param string $regenHP
+     *
+     * @return Sheet
+     */
+    public function setRegenHP($regenHP)
+    {
+        $this->regenHP = $regenHP;
+
+        return $this;
+    }
+
+    /**
+     * Get regenHP
+     *
+     * @return string
+     */
+    public function getRegenHP()
+    {
+        return $this->regenHP;
+    }
+
+    /**
+     * Set fastHealing
+     *
+     * @param string $fastHealing
+     *
+     * @return Sheet
+     */
+    public function setFastHealing($fastHealing)
+    {
+        $this->fastHealing = $fastHealing;
+
+        return $this;
+    }
+
+    /**
+     * Get fastHealing
+     *
+     * @return string
+     */
+    public function getFastHealing()
+    {
+        return $this->fastHealing;
+    }
+
+    /**
+     * Set damagesResistance
+     *
+     * @param string $damagesResistance
+     *
+     * @return Sheet
+     */
+    public function setDamagesResistance($damagesResistance)
+    {
+        $this->damagesResistance = $damagesResistance;
+
+        return $this;
+    }
+
+    /**
+     * Get damagesResistance
+     *
+     * @return string
+     */
+    public function getDamagesResistance()
+    {
+        return $this->damagesResistance;
+    }
+
+    /**
+     * Set bba
+     *
+     * @param integer $bba
+     *
+     * @return Sheet
+     */
+    public function setBba($bba)
+    {
+        $this->bba = $bba;
+
+        return $this;
+    }
+
+    /**
+     * Get bba
+     *
+     * @return integer
+     */
+    public function getBba()
+    {
+        return $this->bba;
+    }
+
+    /**
+     * Add rangedAttack
+     *
+     * @param \Ico\Bundle\SheetBundle\Entity\Modificator $rangedAttack
+     *
+     * @return Sheet
+     */
+    public function addRangedAttack(\Ico\Bundle\SheetBundle\Entity\Modificator $rangedAttack)
+    {
+        $this->rangedAttack[] = $rangedAttack;
+
+        return $this;
+    }
+
+    /**
+     * Remove rangedAttack
+     *
+     * @param \Ico\Bundle\SheetBundle\Entity\Modificator $rangedAttack
+     */
+    public function removeRangedAttack(\Ico\Bundle\SheetBundle\Entity\Modificator $rangedAttack)
+    {
+        $this->rangedAttack->removeElement($rangedAttack);
+    }
+
+    /**
+     * Get rangedAttack
+     *
+     * @return \Doctrine\Common\Collections\Collection
+     */
+    public function getRangedAttack()
+    {
+        return $this->rangedAttack;
+    }
+
+    /**
+     * Add contactAttack
+     *
+     * @param \Ico\Bundle\SheetBundle\Entity\Modificator $contactAttack
+     *
+     * @return Sheet
+     */
+    public function addContactAttack(\Ico\Bundle\SheetBundle\Entity\Modificator $contactAttack)
+    {
+        $this->contactAttack[] = $contactAttack;
+
+        return $this;
+    }
+
+    /**
+     * Remove contactAttack
+     *
+     * @param \Ico\Bundle\SheetBundle\Entity\Modificator $contactAttack
+     */
+    public function removeContactAttack(\Ico\Bundle\SheetBundle\Entity\Modificator $contactAttack)
+    {
+        $this->contactAttack->removeElement($contactAttack);
+    }
+
+    /**
+     * Get contactAttack
+     *
+     * @return \Doctrine\Common\Collections\Collection
+     */
+    public function getContactAttack()
+    {
+        return $this->contactAttack;
     }
 }

@@ -3,8 +3,9 @@
 
 {% block title %}
     {{ parent() }}
-    {% if sheet is defined and is_granted('DELETE', sheet) %}
     <div class="pull-right">
+        <button class="btn btn-primary btn-title" type="submit" onclick="$('form[name=sheet]').submit();"><span class="fa fa-check"></span> Sauvegarder</button>
+    {% if sheet is defined and is_granted('EDIT', sheet) %}
         <button type="button" class="btn btn-danger btn-title" data-toggle="modal" data-target="#sheetDelete"><span class="fa fa-times"></span> Supprimer</button>
         <div class="modal fade" id="sheetDelete" tabindex="-1" role="dialog" aria-labelledby="Suppression de la fiche de personnage {{ sheet.characterName }}" aria-hidden="true">
             <div class="modal-dialog">
@@ -26,12 +27,12 @@
                 </div>
             </div>
         </div>
-    </div>
     {% endif %}
+    </div>
 {% endblock %}
 
 {% block content %}
-    <div class="form-block">
+    <div class="form-block form-with-sections">
         {{ form(form) }}
     </div>
 {% endblock %}

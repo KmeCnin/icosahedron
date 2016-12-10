@@ -53,7 +53,6 @@ class SheetController extends Controller
         $form->handleRequest($request);
 
         if ($form->isValid()) {
-            // Si un formulaire est soumis et est valide
             $em = $this->getDoctrine()->getManager();
             $user = $this->get('security.context')->getToken()->getUser();
             $sheet->setCreatedBy($user);
@@ -69,7 +68,15 @@ class SheetController extends Controller
             $aclProvider->updateAcl($acl);
 
             $this->get('session')->getFlashBag()->add('success', 'La fiche de personnage ' . $sheet->getCharacterName() . ' a été créée.');
-            return $this->redirect($this->generateUrl('ico_sheet'));
+            return $this->redirect(
+                $this->generateUrl(
+                    'ico_sheet_edit',
+                    [
+                        'id' => $sheet->getId(),
+                        'slug' => $sheet->getSlug(),
+                    ]
+                )
+            );
         }
 
         return array(
@@ -113,7 +120,6 @@ class SheetController extends Controller
             $em->flush();
 
             $this->get('session')->getFlashBag()->add('success', 'La fiche de personnage ' . $sheet->getCharacterName() . ' a été modifiée.');
-            return $this->redirect($this->generateUrl('ico_sheet_view', array('id' => $sheet->getId(), 'slug' => $sheet->getSlug())));
         }
 
         return array(

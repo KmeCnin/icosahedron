@@ -56,16 +56,85 @@ class Alignment
     private $short;
 
     /**
-     * @var text
+     * @var string
      *
      * @ORM\Column(name="description", type="text")
      */
     private $description;
+
+    /**
+     * @var string
+     *
+     * @ORM\Column(type="text")
+     */
+    private $detail;
     
     /**
      * @ORM\ManyToOne(targetEntity="Link", cascade={"remove", "persist"})
      * @Serialize\Type("Ico\Bundle\RulesBundle\Entity\Link")
      */
     protected $link;
+    
+    public function getId() {
+        return $this->id;
+    }
 
+    public function getName() {
+        return $this->name;
+    }
+
+    public function getSlug() {
+        return $this->slug;
+    }
+
+    public function getShort() {
+        return $this->short;
+    }
+
+    public function getDescription() {
+        return $this->description;
+    }
+
+    public function getLink() {
+        return $this->link;
+    }
+
+    public function setId($id) {
+        $this->id = $id;
+        return $this;
+    }
+
+    public function setName($name) {
+        $this->name = $name;
+        return $this;
+    }
+
+    public function setSlug($slug) {
+        $this->slug = $slug;
+        return $this;
+    }
+
+    public function setShort($short) {
+        $this->short = $short;
+        return $this;
+    }
+
+    public function setDescription($description) {
+        $this->description = $description;
+        return $this;
+    }
+
+    public function setLink($link) {
+        $this->link = $link;
+        return $this;
+    }
+    
+    public function getDetail() {
+        return $this->detail;
+    }
+
+    public function setDetail($detail) {
+        $this->detail = $detail;
+        return $this;
+    }
 }

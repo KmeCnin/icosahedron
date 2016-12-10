@@ -1,0 +1,118 @@
+/*#maps {
+    background: #6cab26;
+    background-position: bottom; 
+    background-image: url(../images/map_bg.jpg);  fallback 
+    background-image: url(../images/map_bg.jpg), -webkit-gradient(linear, left top, left bottom, from(#6cab26), to(#6ceb86));  Saf4+, Chrome 
+    background-image: url(../images/map_bg.jpg),-webkit-linear-gradient(top, #6cab26, #6ceb86);  Chrome 10+, Saf5.1+ 
+    background-image: url(../images/map_bg.jpg), -moz-linear-gradient(top, #6cab26, #6ceb86);  FF3.6+ 
+    background-image: url(../images/map_bg.jpg),     -ms-linear-gradient(top, #6cab26, #6ceb86);  IE10 
+    background-image: url(../images/map_bg.jpg),      -o-linear-gradient(top, #6cab26, #6ceb86);  Opera 11.10+ 
+    background-image: url(../images/map_bg.jpg),         linear-gradient(top bottom, #6cab26, #6ceb86);  W3C 
+}*/
+
+#mapModelWrapper {
+      width: 1110px;
+      height: 1443px;
+      position: relative;
+}
+#mapModelWrapper > img {
+      border: 1px solid #e7e7e7;
+      border-width: 0 1px 4px 1px;
+      background-color: #ffffff;
+      border-radius: 4px;
+      -webkit-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.05);
+      box-shadow: 0 1px 1px rgba(0, 0, 0, 0.05);
+      z-index: -50;
+}
+#mapModelWrapper > svg, #mapModelWrapper > img {
+      position: absolute;
+      width: 100%;
+      height: 100%;
+}
+#mapModelWrapper > svg .hex {
+      /*fill: rgba(0, 0, 0, 0.9);*/
+      fill: rgba(255, 255, 255, 0.9);
+      cursor: pointer;
+}
+#mapModelWrapper > svg .hex:hover {
+      /*fill: rgba(0, 0, 0, 0.9);*/
+      fill: rgba(255, 255, 255, 0.75);
+}
+#mapModelWrapper > svg .hex.explored {
+      fill: rgba(255, 255, 255, 0);
+}
+#mapModelWrapper > svg .hex.explored:hover {
+      fill: rgba(255, 255, 255, 0.3);
+}
+#mapModelWrapper > svg .hex.annexed {
+      fill: rgba(26, 103, 0, 0.2)
+}
+#mapModelWrapper > svg .hex.annexed:hover {
+      fill: rgba(26, 103, 0, 0.4)
+}
+#mapModelWrapper > svg .frontier {
+      stroke: #3B9400;
+      stroke-width: 4px;
+      stroke-linecap: round;
+}
+.modal[data-hex] fieldset > .btn {
+      margin-right: 30px;
+}
+img.mapinteresticon {
+      width: 30px;
+      margin-right: 15px;
+}
+.mapinterestmodel > a {
+      cursor: pointer
+}
+.interest .fa {
+      margin: 0 !important;
+}
+.interestslist > .panel > .panel-body {
+      border-top: 1px solid #e7e7e7;
+}
+[type=range].sliderX {
+    height: 4px;
+    margin-left: 4px;
+    position: relative;
+    z-index: 1500;
+}
+[type=range].sliderY {
+    writing-mode: bt-lr;
+    -webkit-appearance: slider-vertical;
+    width: 4px;
+    display: inline-block;
+    position: relative;
+    z-index: 1500;
+    -webkit-transform: rotate(180deg);
+    -moz-transform: rotate(180deg);
+    -ms-transform: rotate(180deg);
+    -o-transform: rotate(180deg);
+    transform: rotate(180deg);
+}
+div.sliderHex {
+    overflow: hidden;
+    display: inline-block;
+    position: relative;
+}
+div.sliderHex > img.mapinteresticon {
+    position: absolute;
+}
+svg .legend {
+    fill: black;
+    text-anchor: middle;
+    font-size: 10px;
+    text-shadow: 0 0 5px white;
+}
+.interestslist .panel-body {
+    position: relative;
+}
+.interestslist p {
+    font-size: 80%;
+    margin-left: 50px;
+}
+.interestslist .actions {
+    position: absolute;
+    right: 15px;
+    top: 15px;
+}

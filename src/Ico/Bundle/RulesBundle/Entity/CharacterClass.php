@@ -296,7 +296,7 @@ class CharacterClass
      * Set link
      *
      * @param \Ico\Bundle\RulesBundle\Entity\Link $link
-     * @return Ability
+     * @return CharacterClass
      */
     public function setLink(\Ico\Bundle\RulesBundle\Entity\Link $link = null)
     {

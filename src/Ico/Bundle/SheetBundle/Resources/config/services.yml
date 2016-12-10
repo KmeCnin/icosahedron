@@ -1,10 +1,34 @@
 services:
     ico.form.type.sheet:
         class: Ico\Bundle\SheetBundle\Form\Type\SheetType
-        arguments: [ '@doctrine.orm.entity_manager' ]
+        arguments: 
+            - '@ico.form.builder_augmenter'
         tags:
             - { name: form.type, alias: sheet }
     ico.form.type.classLevel:
         class: Ico\Bundle\SheetBundle\Form\Type\ClassLevelType
         tags:
-            - { name: form.type, alias: classLevel }
+            - { name: form.type, alias: class_level }
+    ico.form.type.modificator:
+        class: Ico\Bundle\SheetBundle\Form\Type\ModificatorType
+        tags:
+            - { name: form.type, alias: modificator }
+            
+    sheet_description_section:
+        class: Ico\Bundle\SheetBundle\Form\Type\SheetDescriptionSectionType
+        arguments: 
+            - '@doctrine.orm.entity_manager'
+        tags:
+            - { name: form.type, alias: sheet_description_section }
+    sheet_statistics_section:
+        class: Ico\Bundle\SheetBundle\Form\Type\SheetStatisticsSectionType
+        arguments: 
+            - '@doctrine.orm.entity_manager'
+        tags:
+            - { name: form.type, alias: sheet_statistics_section }
+    sheet_fight_section:
+        class: Ico\Bundle\SheetBundle\Form\Type\SheetFightSectionType
+        arguments: 
+            - '@doctrine.orm.entity_manager'
+        tags:
+            - { name: form.type, alias: sheet_fight_section }

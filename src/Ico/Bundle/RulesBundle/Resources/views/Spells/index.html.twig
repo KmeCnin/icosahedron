@@ -17,7 +17,7 @@
     {% endif %}
 	   
     {{ form_start(filter) }}
-	   <fieldset>
+	   <fieldset class="form-filters form-filters-spells">
 		  <legend>Recherche <small class="text-muted">(Total de {{ pagination.getTotalItemCount }} sort{% if pagination.getTotalItemCount > 1 %}s{% endif %} trouvé{% if pagination.getTotalItemCount > 1 %}s{% endif %})</small> <button type="submit" class="btn btn-primary btn-sm"><span class="fa fa-refresh"></span>Filtrer</button></legend>
 			 {{ form_row(filter.keywords) }}
 			 {{ form_row(filter.spellSchool) }}

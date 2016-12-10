@@ -9870,6 +9870,26 @@ legend button {
     background-color: #42A500;
     border-color: #3B9400;
 }
+.btn-danger,
+.btn-danger:hover,
+.btn-danger:focus,
+.btn-danger:active,
+.btn-danger.active,
+.open .dropdown-toggle.btn-primary {
+    background-color: #e63900;
+    border-color: #cc3300;
+}
+.has-error .help-block,
+.has-error .control-label,
+.has-error .form-control-feedback,
+.text-danger,
+.text-danger:hover {
+    color: #e63900;
+}
+.has-error .form-control,
+.has-error .form-control:focus {
+    border-color: #e63900;
+}
 .pagination>.active>a, 
 .pagination>.active>span, 
 .pagination>.active>a:hover, 
@@ -9905,14 +9925,14 @@ mark {
     position: absolute;
     right: 20px;
 }
-.form_row.form-group {
+.form-filters .form_row.form-group {
     display: inline-block;
     margin-right: 20px;
     vertical-align: top;
-}
+}/*
 .form-block .form_row.form-group {
     display: block;
-}
+}*/
 .select-multiple-wrapper {
     display: inline-block;
     position: relative;
@@ -10063,6 +10083,18 @@ img.class-illustration {
 .modal { 
     overflow-y: auto; 
 }
-[data-prototype] label {
+[data-prototype] label, [data-switch-to] span, [data-prototype] .fa {
+    margin: 0;
+}
+[data-prototype] th {
+    vertical-align: bottom !important;
+}
+input[type=number] {
+    min-width: 70px;
+}
+.form-section {
+    margin-bottom: 20px;
+}
+.form_row.form-group .well {
     margin: 0;
 }

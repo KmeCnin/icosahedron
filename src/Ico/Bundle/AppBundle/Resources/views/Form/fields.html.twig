@@ -54,24 +54,42 @@
 
 {% block form_row %}
 {% spaceless %}
-    <div class="form_row form-group {% if not form.vars.valid %}has-error{% endif %}">
+    <div class="
+        form_row
+        form-group
+        {% if not form.vars.valid %}
+            has-error
+        {% endif %}
+        {% if attr.formGroupClass is defined %}
+            {{ attr.formGroupClass }}
+        {% endif %}
+    ">
         {{ form_label(form) }}
         {{ form_errors(form) }}
         {{ form_widget(form) }}
     </div>
+    {% if attr.clearfix is defined %}
+        <div class="form_row form-group col-xs-12 col-sm-12 col-md-12 col-lg-12{{ attr.clearfix }}">
+            {% if attr['data-section'] is defined %}
+                <div data-section="{{ attr['data-section'] }}"></div>
+            {% endif %}
+        </div>
+    {% endif %}
 {% endspaceless %}
 {% endblock form_row %}
 
 {% block form_widget_simple %}
 {% spaceless %}
     {% set type = type|default('text') %}
-    <input type="{{ type }}" {{ block('widget_attributes') }} {% if value is not empty %}value="{{ value }}" {% endif %} class="form-control" />
+    {% set attr = attr|merge({'class': attr.class|default('') ~ ' form-control'}) %}
+    <input type="{{ type }}" {{ block('widget_attributes') }} {% if value is not empty %}value="{{ value }}" {% endif %} />
 {% endspaceless %}
 {% endblock form_widget_simple %}
     
 {% block textarea_widget %}
 {% spaceless %}
-    <textarea {{ block('widget_attributes') }} class="form-control" rows="3">{{ value }}</textarea>
+    {% set attr = attr|merge({'class': attr.class|default('') ~ ' form-control'}) %}
+    <textarea {{ block('widget_attributes') }} rows="3">{{ value }}</textarea>
 {% endspaceless %}
 {% endblock textarea_widget %}
 
@@ -80,7 +98,8 @@
     {% if required and empty_value is none and not empty_value_in_choices and not multiple %}
         {% set required = false %}
     {% endif %}
-    <select class="form-control" {{ block('widget_attributes') }}{% if multiple %} multiple="multiple" data-placeholder="Choisissez un ou plusieurs"{% endif %}>
+    {% set attr = attr|merge({'class': attr.class|default('') ~ ' form-control'}) %}
+    <select {{ block('widget_attributes') }}{% if multiple %} multiple="multiple" data-placeholder="Choisissez un ou plusieurs"{% endif %}>
         {% if empty_value is not none %}
             <option value=""{% if required and value is empty %} selected="selected"{% endif %}>{{ empty_value|trans({}, translation_domain) }}</option>
         {% endif %}
@@ -99,7 +118,8 @@
 
 {% block checkbox_widget %}
 {% spaceless %}
-    <input class="form-control" type="checkbox" {{ block('widget_attributes') }}{% if value is defined %} value="{{ value }}"{% endif %}{% if checked %} checked="checked"{% endif %} />
+    {% set attr = attr|merge({'class': attr.class|default('') ~ ' form-control'}) %}
+    <input type="checkbox" {{ block('widget_attributes') }}{% if value is defined %} value="{{ value }}"{% endif %}{% if checked %} checked="checked"{% endif %} />
 {% endspaceless %}
 {% endblock checkbox_widget %}
     
@@ -108,6 +128,7 @@
     {% if label is empty %}
         {% set label = name|humanize %}
     {% endif %}
+    <div class="clearfix"></div>
     <button class="btn {% if type == 'submit' %}btn-primary{% else %} btn-default{% endif %}" type="{{ type|default('button') }}" {{ block('button_attributes') }}>{% if type == 'submit' %}<span class="fa fa-check"></span> {% endif %}{{ label|trans({}, translation_domain) }}</button>
 {% endspaceless %}
 {% endblock button_widget %}
@@ -124,7 +145,8 @@
 {# DATEPICKER #}
 
 {% block datepicker_widget %}
-    <input placeholder="Date" class="form-control datepicker" type="text" {% if value is not empty %}value="{{ value }}" {% endif %} {{ block('widget_attributes') }}/>
+    {% set attr = attr|merge({'class': attr.class|default('') ~ ' form-control datepicker'}) %}
+    <input placeholder="Date" type="text" {% if value is not empty %}value="{{ value }}" {% endif %} {{ block('widget_attributes') }}/>
 {% endblock %}
 
 {# DATETIMEPICKER #}
@@ -143,18 +165,42 @@
 {# COLLECTION PROTOTYPE #}
 
 {% block collection_prototype_widget %}
+    {% set attr = attr|merge({'class': attr.class|default('') ~ ' table table-condensed'}) %}
     <div class="well well-sm table-responsive" data-prototype="{% filter escape %}{% include 'IcoAppBundle:Form:collection_prototype_line.html.twig' with {line: prototype, 'unique_fields': unique_fields} only %}{% endfilter %}" data-min="{{ min_entries }}" data-max="{{ max_entries }}">
-        <table class="table table-condensed">
+        <table {{ block('widget_attributes') }}>
             <tr>
             {% for entry in prototype %}
-                <th>{{ form_label(entry) }}</th>
+                <th 
+                {% if entry.vars.attr["data-switch"] is defined %}
+                    {% if entry.vars.attr["data-switch"] == 'custom' %}
+                    class="hidden"
+                    {% endif %}
+                {% endif %}
+                >{{ form_label(entry) }}</th>
             {% endfor %}
                 <th>
-                    <button type="button" class="btn btn-default btn-xs pull-right prototype-add">
-                        <span class="fa fa-plus"></span> Nouvelle ligne
+                    <button type="button" class="btn btn-default prototype-add" data-toggle="tooltip" title="Nouvelle ligne">
+                        <span class="fa fa-plus"></span>
                     </button>
                 </th>
             </tr>
+            {% if auto_calculated_total %}
+                <tr>
+                    <td>
+                        <input disabled type="text" class="form-control" value="Valeur totale">
+                    </td>
+                    <td>
+                        <input disabled type="text" class="form-control display-sum{% if auto_calculated_total == 'ability' %} display-mod{% endif %}"></td>
+                    <td></td>
+                </tr>
+            {% endif %}
+            {% for auto_calculated_field, type in auto_calculated_fields %}
+                <tr data-add-{{ type }}-from="{{ auto_calculated_field }}">
+                    <td><input disabled type="text" class="form-control"></td>
+                    <td><input disabled type="text" class="modificator-value form-control" value="0"></td>
+                    <td></td>
+                </tr>
+            {% endfor %}
         {% for line in form %}
             {% include 'IcoAppBundle:Form:collection_prototype_line.html.twig' with {'line': line, 'unique_fields': unique_fields} only %}
         {% endfor %}

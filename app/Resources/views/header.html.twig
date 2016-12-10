@@ -22,7 +22,13 @@
                         <li><a href="{{ path('ico_rules_spells') }}">Sorts</a></li>
                     </ul>
                 </li>
-                <li><a href="{{ path('ico_kingmaker') }}">Kingmaker</a></li>
+                <li class="dropdown">
+                    <a class="dropdown-toggle account" data-toggle="dropdown" href="#" id="rules">Outils Pathfinder <span class="caret"></span></a>
+                    <ul class="dropdown-menu" aria-labelledby="rules">
+                        <li><a href="{{ path('ico_kingmaker') }}">Campagnes Kingmaker</a></li>
+                        <li><a href="{{ path('ico_mass_fight') }}">Combats de masse</a></li>
+                    </ul>
+                </li>
             </ul>
 
             <ul class="nav navbar-nav navbar-right">
