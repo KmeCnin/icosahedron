@@ -2,16 +2,14 @@
 
 namespace Ico\Bundle\KingmakerBundle\Entity; // gedmo annotations
 
-
 use Doctrine\ORM\Mapping as ORM;
-use Ico\Bundle\KingmakerBundle\Repository\MapInterestRepository;
 use Gedmo\Mapping\Annotation as Gedmo; // gedmo annotations
 
 /**
  * MapInterest
  *
  * @ORM\Table(name="kingmaker_mapinterest")
- * @ORM\Entity(repositoryClass="MapInterestRepository")
+ * @ORM\Entity(repositoryClass="Ico\Bundle\KingmakerBundle\Repository\MapInterestRepository")
  */
 class MapInterest
 {
