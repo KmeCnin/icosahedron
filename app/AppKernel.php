@@ -27,7 +27,6 @@ class AppKernel extends Kernel {
 		  new JMS\SerializerBundle\JMSSerializerBundle(),
             new Ico\Bundle\UserBundle\IcoUserBundle(),
             new Ico\Bundle\AppBundle\IcoAppBundle(),
-            new Ico\Bundle\HelperBundle\IcoHelperBundle(),
             new Ico\Bundle\RulesBundle\IcoRulesBundle(),
             new Ico\Bundle\ParserBundle\IcoParserBundle(),
             new Ico\Bundle\KingmakerBundle\IcoKingmakerBundle(),

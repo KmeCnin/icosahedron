@@ -3,24 +3,26 @@
 
 {% block title %}
     {{ parent() }}
-    {% if campaign is defined and is_granted('DELETE', campaign) %}
-        <button type="button" class="btn btn-default btn-title" data-toggle="modal" data-target="#campaignDelete"><span class="fa fa-times"></span> Supprimer</button>
-        <div class="modal fade" id="campaignDelete" tabindex="-1" role="dialog" aria-labelledby="Suppression de la campagne {{ campaign.name }}" aria-hidden="true">
+    {% if army is defined and is_granted('DELETE', army) %}
+    <div class="pull-right" style="position: relative; top: 0px;">
+        <button type="button" class="btn btn-default btn-title" data-toggle="modal" data-target="#armyDelete"><span class="fa fa-times"></span> Supprimer</button>
+    </div>
+        <div class="modal fade" id="armyDelete" tabindex="-1" role="dialog" aria-labelledby="Suppression de l'armée {{ army.name }}" aria-hidden="true">
             <div class="modal-dialog">
                 <div class="modal-content">
                     <div class="modal-header">
                         <button type="button" class="close" data-dismiss="modal" aria-label="Fermer"><span aria-hidden="true">&times;</span></button>
-                        <h4 class="modal-title" id="myModalLabel">Suppression de la campagne {{ campaign.name }}</h4>
+                        <h4 class="modal-title" id="myModalLabel">Suppression de l'armée {{ army.name }}</h4>
                     </div>
                     <div class="modal-body">
                         <p>
-                            La suppression d'une campagne est définitive.<br />
-                            Êtes-vous sûr de vouloir supprimer <strong>{{ campaign.name }}</strong> ?
+                            La suppression d'une armée est définitive.<br />
+                            Êtes-vous sûr de vouloir supprimer <strong>{{ army.name }}</strong> ?
                         </p>
                     </div>
                     <div class="modal-footer">
                         <button type="button" class="btn btn-default" data-dismiss="modal"><span class="fa fa-undo"></span> Annuler</button>
-                        <a href="{{ path('ico_kingmaker_campaign_delete', {'id': campaign.id, 'slug': campaign.slug}) }}" class="btn btn-primary"><span class="fa fa-times"></span> Supprimer</a>
+                        <a href="{{ path('ico_mass_fight_army_delete', {'id': army.id, 'slug': army.slug}) }}" class="btn btn-primary"><span class="fa fa-times"></span> Supprimer</a>
                     </div>
                 </div>
             </div>
@@ -30,6 +32,22 @@
 
 {% block content %}
     <div class="form-block">
-        {{ form(form) }}
-    </div>
+        {{ form_start(form) }}
+            {{ form_errors(form) }}
+            {% for key, input in form %}
+                {% if key == 'commander' %}
+                    </div>
+                    <div class="clearfix"></div>
+                    {{ form_label(input) }}
+                    {{ form_errors(input) }}
+                    <div class="well col-md-12">
+                        {% for inputCommander in input %}
+                            {{ form_row(inputCommander) }}
+                        {% endfor %}
+                    </div>
+                {% else %}
+                    {{ form_row(input) }}
+                {% endif %}
+            {% endfor %}
+        {{ form_end(form) }}
 {% endblock %}

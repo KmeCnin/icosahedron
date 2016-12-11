@@ -32,12 +32,7 @@ ico_user:
     resource: "@IcoUserBundle/Controller/"
     type:     annotation
     prefix:   /
-
-ico_helper:
-    resource: "@IcoHelperBundle/Controller/"
-    type:     annotation
-    prefix:   /    
-   
+    
 fos_user_security:
     resource: "@FOSUserBundle/Resources/config/routing/security.xml"
 

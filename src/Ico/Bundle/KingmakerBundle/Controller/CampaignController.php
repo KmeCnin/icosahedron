@@ -209,5 +209,4 @@ class CampaignController extends Controller {
         $this->get('session')->getFlashBag()->add('success', 'La campagne ' . $campaign->getName() . ' a été supprimée.');
         return $this->redirect($this->generateUrl('ico_kingmaker'));
     }
-
 }

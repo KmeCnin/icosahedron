@@ -3,45 +3,112 @@
 {% block title %}
 {{ parent() }}
 {% if is_granted('EDIT', army) %}
-<a href="{{ path('ico_kingmaker_campaign_edit', {'id': campaign.id, 'slug': campaign.slug}) }}" class="btn btn-default btn-title"><span class="fa fa-cogs"></span> Paramètres</a>
+<div class="pull-right" style="position: relative; top: 0px;">
+    <a href="{{ path('ico_mass_fight_army_edit', {'id': army.id, 'slug': army.slug}) }}" class="btn btn-default btn-title"><span class="fa fa-pencil"></span> Modifier les stats de base</a>
+</div>
 {% endif %}
 {% endblock %}
 
 {% block content %}
-<div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
-    <div class="well bs-component" id="maps">
-        <fieldset>
-            <legend>Cartes</legend>
-            <p>Les cartes vous permettent de gérer l'étendue géographique de votre royaume ainsi que les points d'intérêt économiques et politiques.</p>
-            <div class="list-group">
-                <a class="list-group-item" href="#">Les terres volées [Vue générale]</a>
-                {% for map in campaign.maps %}
-                <a class="list-group-item" href="{{ path('ico_kingmaker_maps', {'id_campaign': campaign.id, 'slug_campaign': campaign.slug, 'id_map': map.id, 'slug_map': map.mapModel.slug}) }}">{{ map.mapModel.name }}</a>
-                {% endfor %}
+    <div class="row">
+        <br class="visible-xs-block" />
+        <div class="form-group form-inline col-md-12">
+            <div class="input-group" style="margin: 15px 0;">
+                <span class="input-group-addon" style="width: auto;">PV</span>
+                <input 
+                    id="currentHP" 
+                    type="number" 
+                    class="form-control" 
+                    style="width:60px"
+                    onChange="updateHpBar();"
+                    min="0"
+                />
+                <span class="input-group-addon" style="width: auto;">/ <span id="maxHP"></span></span>
             </div>
-        </fieldset>
-    </div>
-</div>
-<div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
-    <div class="well bs-component" id="manage">
-        <fieldset>
-            <legend>Royaume</legend>
-            <p>Visualisez les statistiques de votre empire, nommez les responsables, définissez les édits.</p>
-            <div class="list-group">
-                <a class="list-group-item" href="">Vue d'ensemble</a>
-                <a class="list-group-item" href="">Responsables politiques</a>
-                <a class="list-group-item" href="">Édits</a>
+            <div class="progress">
+                <div id="hp-bar" class="progress-bar progress-bar-success"></div>
             </div>
-        </fieldset>
+        </div>
+        <ul class="list-group col-xs-12 col-sm-6">
+            <li class="list-group-item">
+                Facteur de puissance
+                <span id="total-FP" class="badge badge-xl badge-success"></span>
+            </li>
+            <li class="list-group-item">
+                Modificateur d'attaque
+                <span id="total-MA" class="badge badge-xl badge-success"></span>
+            </li>
+            <li class="list-group-item">
+                Valeur de défense
+                <span id="total-VD" class="badge badge-xl badge-success"></span>
+            </li>
+        </ul>
+        <ul class="list-group col-xs-12 col-sm-6">
+            <li class="list-group-item">
+                Moral
+                <span id="total-Moral" class="badge badge-xl badge-success"></span>
+            </li>
+            <li class="list-group-item">
+                Vitesse
+                <span id="total-Speed" class="badge badge-xl badge-success"></span>
+            </li>
+            <li class="list-group-item">
+                Consommation 
+                <span id="total-Conso" class="badge badge-xl badge-success"></span>
+            </li>
+        </ul>
     </div>
-</div>
-<div class="clearfix visible-md-block visible-lg-block"></div>
-<div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
-    <div class="well bs-component" id="manage">
-        <fieldset>
-            <legend>Villes</legend>
-            <p></p>
-        </fieldset>
-    </div>
-</div>
+    
+    <script>
+        $(document).ready(function () {
+            init();
+        });
+        
+        function init()
+        {
+            initTotals();      
+            initHP();   
+            updateHpBar();   
+        }
+        
+        function initHP()
+        {
+            $('#maxHP').html({{ army.baseHP }});
+            $('#currentHP')
+                .val($('#maxHP').html())
+                .attr('max', $('#maxHP').html());
+        }
+        
+        function initTotals()
+        {
+            $('#total-FP').html({{ army.fpa }});
+            $('#total-MA').html({{ army.baseMA }});
+            $('#total-VD').html({{ army.baseVD }});
+            $('#total-Moral').html();
+            $('#total-Speed').html({{ army.baseArmySpeed }});
+            $('#total-Conso').html({{ army.basePC }});
+        }
+        
+        function updateHpBar()
+        {
+            var percentLife = $('#currentHP').val()/$('#maxHP').html()*100;
+            $('#hp-bar').css('width', percentLife+'%');
+            if (percentLife < 10) {
+                $('#hp-bar')
+                    .removeClass('progress-bar-success')
+                    .removeClass('progress-bar-warning')
+                    .addClass('progress-bar-danger');
+            } else if (percentLife < 50) {
+                $('#hp-bar')
+                    .removeClass('progress-bar-success')
+                    .removeClass('progress-bar-danger')
+                    .addClass('progress-bar-warning');
+            } else {
+                $('#hp-bar')
+                    .removeClass('progress-bar-danger')
+                    .removeClass('progress-bar-warning')
+                    .addClass('progress-bar-success');
+            }
+        }
+    </script>
 {% endblock %}

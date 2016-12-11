@@ -119,7 +119,28 @@
 {% block checkbox_widget %}
 {% spaceless %}
     {% set attr = attr|merge({'class': attr.class|default('') ~ ' form-control'}) %}
-    <input type="checkbox" {{ block('widget_attributes') }}{% if value is defined %} value="{{ value }}"{% endif %}{% if checked %} checked="checked"{% endif %} />
+    <input type="hidden" {{ block('widget_attributes') }}{% if value is defined %} value="{{ value }}"{% endif %}{% if checked %} checked="checked"{% endif %} /><button data-ref="checked-{{ id }}" type="button" class="ico-checkbox btn btn-default form-control" {% if not checked %} style="display:none;"{% endif %}>
+        <span class="fa fa-check-square-o"></span>
+    </button><button data-ref="not-checked-{{ id }}" type="button" class="ico-checkbox btn btn-default" {% if checked %} style="display:none;"{% endif %}>
+        <span class="fa fa-square-o"></span>
+    </button>
+    <script>
+        $(document).ready(function (){
+            var input = $('#{{ id }}');
+            var buttonChecked = $('[data-ref=checked-{{ id }}]');
+            var buttonNotChecked = $('[data-ref=not-checked-{{ id }}]');
+            buttonChecked.click(function () {
+                input.prop('checked', false);
+                buttonChecked.hide();
+                buttonNotChecked.show();
+            });
+            buttonNotChecked.click(function () {
+                input.prop('checked', true);
+                buttonNotChecked.hide();
+                buttonChecked.show();
+            });
+        });
+    </script>
 {% endspaceless %}
 {% endblock checkbox_widget %}
     

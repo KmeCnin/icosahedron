@@ -2,13 +2,13 @@
 
 namespace Ico\Bundle\MassFightBundle\Form\Type;
 
+use Ico\Bundle\AppBundle\Form\TypeTrait\ResponsiveFormTypeTrait;
 use Ico\Bundle\MassFightBundle\Entity\Army;
 use Ico\Bundle\RulesBundle\Entity\Alignment;
 use Symfony\Bridge\Doctrine\Form\Type\EntityType;
 use Symfony\Component\Form\AbstractType;
 use Symfony\Component\Form\Extension\Core\Type\ChoiceType;
 use Symfony\Component\Form\FormBuilderInterface;
-use Ico\Bundle\AppBundle\Form\TypeTrait\ResponsiveFormTypeTrait;
 
 class ArmyType extends AbstractType
 {
@@ -35,20 +35,18 @@ class ArmyType extends AbstractType
                     'clearfix' => self::$visibilityXs.self::$visibilitySm,
                 ],
             ])
-            ->add('size', ChoiceType::class, [
-                'label' => 'Taille',
-                'choices' => Army::getAllSizes(),
-                'choices_as_values' => false,
+            ->add('size', null, [
+                'label' => 'Nombre d\'unités',
                 'attr' => [
                     'formGroupClass' => self::$inputSmall,
-                    'clearfix' => self::$visibilityAll,
+                    'clearfix' => self::$visibilityXs.self::$visibilityMd,
                 ],
             ])
             ->add('type', null, array(
                 'label' => 'Unité type',
                 'attr' => [
                     'formGroupClass' => self::$inputSmall,
-                    'clearfix' => self::$visibilityXs,
+                    'clearfix' => self::$visibilityXs.self::$visibilitySm,
                 ],
             ))
             ->add('lifeDicesType', ChoiceType::class, array(
@@ -57,9 +55,32 @@ class ArmyType extends AbstractType
                 'choices_as_values' => false,
                 'attr' => [
                     'formGroupClass' => self::$inputSmall,
-                    'clearfix' => self::$visibilityXs.self::$visibilitySm,
+                    'clearfix' => self::$visibilityXs,
                 ],
             ))
+            ->add('fpType', ChoiceType::class, array(
+                'label' => 'FP de l\'unité type',
+                'choices' => Army::getAllFpTypes(),
+                'choices_as_values' => false,
+                'attr' => [
+                    'formGroupClass' => self::$inputSmall,
+                    'clearfix' => self::$visibilityXs.self::$visibilitySm.self::$visibilityMd,
+                ],
+            ))
+            ->add('speed', null, [
+                'label' => 'Déplacement de l\'unité type (cases)',
+                'attr' => [
+                    'formGroupClass' => self::$inputSmall,
+                    'clearfix' => self::$visibilityXs.self::$visibilityMd,
+                ],
+            ])
+            ->add('commander', CommanderType::class, [
+                'label' => 'Commandant',
+                'attr' => [
+                    'formGroupClass' => self::$inputSmall,
+                    'clearfix' => self::$visibilityXs,
+                ],
+            ])
             ->add('create', 'submit', array('label' => 'Sauvegarder'));
     }
 }

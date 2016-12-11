@@ -8,7 +8,8 @@ use Gedmo\Mapping\Annotation as Gedmo;
 use Ico\Bundle\KingmakerBundle\Entity\Campaign;
 use Ico\Bundle\RulesBundle\Entity\Alignment;
 use Ico\Bundle\UserBundle\Entity\User;
-use Tree\Fixture\User as User2;
+use Symfony\Component\Security\Core\User\User as User2;
+
 
 /**
  * @ORM\Table(name="mass_fight_army")
@@ -16,15 +17,15 @@ use Tree\Fixture\User as User2;
  */
 class Army
 {
-    const SIZE_INF  = 0;
-    const SIZE_MIN  = 1;
-    const SIZE_TP   = 2;
-    const SIZE_P    = 3;
-    const SIZE_M    = 4;
-    const SIZE_G    = 5;
-    const SIZE_TG   = 6;
-    const SIZE_GIG  = 7;
-    const SIZE_C    = 8;
+    const SIZE_INF  = 'Infime';
+    const SIZE_MIN  = 'Minuscule';
+    const SIZE_TP   = 'Très petite';
+    const SIZE_P    = 'Petite';
+    const SIZE_M    = 'Moyenne';
+    const SIZE_G    = 'Grande';
+    const SIZE_TG   = 'Très grande';
+    const SIZE_GIG  = 'Gigantesque';
+    const SIZE_C    = 'Colossale';
     
     const D4    = 4;
     const D6    = 6;
@@ -86,6 +87,32 @@ class Army
      * @ORM\Column(type="integer")
      */
     private $lifeDicesType;
+
+    /**
+     * FP of one of the unit type.
+     * (0 => 1/8, 1 => 1/6, 2 => 1/4, 3 => 1/2, 4 => 1, etc., 33 => 30)
+     * 
+     * @var int
+     *
+     * @ORM\Column(type="integer")
+     */
+    private $fpType;
+
+    /**
+     * Movment speed of a unit type (in number of boxes by movment action).
+     * 
+     * @var int
+     *
+     * @ORM\Column(type="integer")
+     */
+    private $speed;
+
+    /**
+     * @var Commander
+     *
+     * @ORM\ManyToOne(targetEntity="Commander")
+     */
+    private $commander;
     
     /**
      * @Gedmo\Slug(fields={"name"})
@@ -112,8 +139,10 @@ class Army
     private $updated;
     
     public function __construct() {
-        $this->size = self::SIZE_M;
+        $this->size = 100;
         $this->lifeDicesType = self::D10;
+        $this->fpType = 4; // = '1'
+        $this->speed = 6; // = 9m
     }
 
     /**
@@ -268,19 +297,24 @@ class Army
         return $this;
     }
     
-    public static function getAllSizes()
+    public function getSizeCategory()
     {
-        return [
-            self::SIZE_INF  => 'Infime',
-            self::SIZE_MIN  => 'Minuscule',
-            self::SIZE_TP   => 'Très petite',
-            self::SIZE_P    => 'Petite',
-            self::SIZE_M    => 'Moyenne',
-            self::SIZE_G    => 'Grande',
-            self::SIZE_TG   => 'Très grande',
-            self::SIZE_GIG  => 'Gigantesque',
-            self::SIZE_C    => 'Colossale',
+        $map = [
+            10   => self::SIZE_INF,
+            25   => self::SIZE_MIN,
+            50   => self::SIZE_TP,
+            100  => self::SIZE_P,
+            200  => self::SIZE_M,
+            500  => self::SIZE_G,
+            1000 => self::SIZE_TG,
+            2000 => self::SIZE_GIG,
         ];
+        foreach ($map as $range => $category) {
+            if ($this->size < $range) {
+                return $category;
+            }
+        }
+        return self::SIZE_C;
     }
     
     public function getUnitNumberFromSize()
@@ -307,9 +341,9 @@ class Army
         }
     }
     
-    public function getFPAModFromSize()
+    public function getFPAModFromSizeCategory()
     {
-        switch ($this->size) {
+        switch ($this->getSizeCategory()) {
             case self::SIZE_INF:
                 return -8;
             case self::SIZE_MIN:
@@ -367,6 +401,104 @@ class Army
 
     public function setLifeDicesType($lifeDicesType) {
         $this->lifeDicesType = $lifeDicesType;
+        return $this;
+    }
+    
+    public function getFpType() {
+        return $this->fpType;
+    }
+
+    public function setFpType($fp) {
+        $this->fpType = $fp;
+        return $this;
+    }
+    
+    public static function getAllFpTypes()
+    {
+        $fps = [
+            '1/8',
+            '1/6',
+            '1/4',
+            '1/2',
+        ];
+        for ($i = 1; $i <=30; $i++) {
+            $fps[] = (string) $i;
+        }
+        return $fps;
+    }
+    
+    public function getFpa()
+    {
+        $fpIndex = $this->fpType+$this->getFPAModFromSizeCategory();
+        if ($fpIndex < 0) {
+            throw new \Exception('FPA is too low to be an army!');
+        }
+        return $this->getAllFpTypes()[$fpIndex];
+    }
+    
+    public function getFpaValue()
+    {
+        $vals = explode('/', $this->getFpa());
+        return count($vals) === 1
+            ? $vals[0]
+            : $vals[0]/$vals[1];
+    }
+    
+    public function getSpeed() {
+        return $this->speed;
+    }
+
+    public function setSpeed($speed) {
+        $this->speed = $speed;
+        return $this;
+    }
+    
+    public function getBaseVD()
+    {
+        return floor($this->getFpaValue() + 10);
+    }
+    
+    public function getBaseMA()
+    {
+        return $this->getFpaValue();
+    }
+    
+    public function getBaseArmySpeed()
+    {
+        switch ($this->speed) {
+            case 1:
+            case 2:
+            case 3:
+            case 4:
+            case 5:
+            case 6:
+            case 7:
+                return 1;
+            case 8:
+            case 9:
+                return 2;
+            case 10:
+            case 11:
+                return 3;
+            case 12:
+            case 13:
+                return 4;
+            default:
+                5;
+        }
+    }
+    
+    public function getBasePC()
+    {
+        return max(1, floor($this->getFpaValue()/2));
+    }
+    
+    public function getCommander() {
+        return $this->commander;
+    }
+
+    public function setCommander(Commander $commander) {
+        $this->commander = $commander;
         return $this;
     }
 }

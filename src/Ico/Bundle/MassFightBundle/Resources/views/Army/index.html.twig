@@ -15,6 +15,8 @@
     <table class="table table-striped table-hover">
         <tr>
             <th>Nom</th>
+            <th>Composition</th>
+            <th>FPA</th>
             <th>Créateur</th>
             <th>Date de création</th>
             <th>Dernière modification</th>
@@ -22,6 +24,8 @@
         {% for army in list %}
             <tr class="link" onclick="window.location.href = Routing.generate('ico_mass_fight_army_view', {id:{{ army.id }}, slug: '{{ army.slug }}'});">
                 <td>{{ army.name }}</td>
+                <td>{{ army.size ~ ' ' ~ army.type }}</td>
+                <td>{{ army.fpa }}</td>
                 <td>{{ army.createdBy.username }}</td>
                 <td>{{ army.created|date('d/m/Y') }}</td>
                 <td>{{ army.updated|date('d/m/Y') }}</td>

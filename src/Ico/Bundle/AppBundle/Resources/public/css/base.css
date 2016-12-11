@@ -312,7 +312,7 @@ img.class-illustration {
     background-color: #42A500;
     border-color: #3B9400;
 }
-.list-group .list-group-item:hover {
+div.list-group a.list-group-item:hover {
     color: #ffffff;
     background-color: #42A500;
     border-color: #42A500;
@@ -348,4 +348,19 @@ input[type=number] {
 }
 .form_row.form-group .well {
     margin: 0;
+}
+.badge-xl {
+    font-size: 16px;
+}
+.badge-success {
+    background-color: #3B9400;
+}
+.badge-warning {
+    background-color: #ff851b;
+}
+.badge-danger {
+    background-color: #ff4136;
+}
+.ico-checkbox {
+    width: 100%;
 }
