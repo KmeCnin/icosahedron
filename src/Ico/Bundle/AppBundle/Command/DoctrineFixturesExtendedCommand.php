@@ -80,6 +80,7 @@ EOT
 		  'IcoRulesBundle:Alignment',
 		  'IcoKingmakerBundle:MapModel',
 		  'IcoKingmakerBundle:MapInterestModel',
+		  'IcoMassFightBundle:Tactic',
 	   );
     }
 

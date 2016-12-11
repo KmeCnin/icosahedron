@@ -4,6 +4,8 @@ namespace Ico\Bundle\MassFightBundle\Form\Type;
 
 use Ico\Bundle\AppBundle\Form\TypeTrait\ResponsiveFormTypeTrait;
 use Ico\Bundle\MassFightBundle\Entity\Army;
+use Ico\Bundle\MassFightBundle\Entity\Commander;
+use Ico\Bundle\MassFightBundle\Entity\Tactic;
 use Ico\Bundle\RulesBundle\Entity\Alignment;
 use Symfony\Bridge\Doctrine\Form\Type\EntityType;
 use Symfony\Component\Form\AbstractType;
@@ -71,14 +73,24 @@ class ArmyType extends AbstractType
                 'label' => 'Déplacement de l\'unité type (cases)',
                 'attr' => [
                     'formGroupClass' => self::$inputSmall,
-                    'clearfix' => self::$visibilityXs.self::$visibilityMd,
+                ],
+            ])
+            ->add('tactics', EntityType::class, [
+                'label' => 'Tactiques connues',
+                'class' => Tactic::class,
+                'choice_label' => 'name',
+                'expanded' => false,
+                'multiple' => true,
+                'attr' => [
+                    'formGroupClass' => self::$inputLarge,
                 ],
             ])
             ->add('commander', CommanderType::class, [
                 'label' => 'Commandant',
+                'data_class' => Commander::class,
                 'attr' => [
                     'formGroupClass' => self::$inputSmall,
-                    'clearfix' => self::$visibilityXs,
+                    'clearfix' => self::$visibilityAll,
                 ],
             ])
             ->add('create', 'submit', array('label' => 'Sauvegarder'));

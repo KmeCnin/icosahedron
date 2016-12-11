@@ -1,6 +1,6 @@
 <?php
 
-namespace Ico\Bundle\MassFightBundle\Entity; // gedmo annotations
+namespace Ico\Bundle\MassFightBundle\Entity;
 
 use DateTime;
 use Doctrine\ORM\Mapping as ORM;
@@ -110,9 +110,16 @@ class Army
     /**
      * @var Commander
      *
-     * @ORM\ManyToOne(targetEntity="Commander")
+     * @ORM\ManyToOne(targetEntity="Commander", cascade={"persist"})
      */
     private $commander;
+    
+    /**
+     * @var Tactic[]
+     *
+     * @ORM\ManyToMany(targetEntity="Tactic")
+     */
+    private $tactics;
     
     /**
      * @Gedmo\Slug(fields={"name"})
@@ -499,6 +506,23 @@ class Army
 
     public function setCommander(Commander $commander) {
         $this->commander = $commander;
+        return $this;
+    }
+    
+    public function getMoral()
+    {
+        return min(4, 
+            $this->getCommander()->getCha() +
+            floor($this->getCommander()->getSoldierSkill() / 5)
+        );
+    }
+    
+    public function getTactics() {
+        return $this->tactics;
+    }
+
+    public function setTactics(array $tactics) {
+        $this->tactics = $tactics;
         return $this;
     }
 }

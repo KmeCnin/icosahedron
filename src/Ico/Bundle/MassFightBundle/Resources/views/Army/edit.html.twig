@@ -4,9 +4,9 @@
 {% block title %}
     {{ parent() }}
     {% if army is defined and is_granted('DELETE', army) %}
-    <div class="pull-right" style="position: relative; top: 0px;">
-        <button type="button" class="btn btn-default btn-title" data-toggle="modal" data-target="#armyDelete"><span class="fa fa-times"></span> Supprimer</button>
-    </div>
+        <div class="pull-right" style="position: relative; top: 0px;">
+            <button type="button" class="btn btn-default btn-title" data-toggle="modal" data-target="#armyDelete"><span class="fa fa-times"></span> Supprimer</button>
+        </div>
         <div class="modal fade" id="armyDelete" tabindex="-1" role="dialog" aria-labelledby="Suppression de l'armée {{ army.name }}" aria-hidden="true">
             <div class="modal-dialog">
                 <div class="modal-content">
@@ -28,6 +28,13 @@
             </div>
         </div>
     {% endif %}
+    <div class="pull-right" style="position: relative; top: 20px;">
+        <a href="{{ path('ico_mass_fight_army_view', {'id': army.id, 'slug': army.slug}) }}" class="btn btn-default"><span class="fa fa-cogs"></span> Stats</a>
+    </div>
+    <br class="visible-xs-block" />
+    <br class="visible-xs-block" />
+    <br />
+    <br />
 {% endblock %}
 
 {% block content %}
@@ -36,18 +43,19 @@
             {{ form_errors(form) }}
             {% for key, input in form %}
                 {% if key == 'commander' %}
-                    </div>
-                    <div class="clearfix"></div>
-                    {{ form_label(input) }}
-                    {{ form_errors(input) }}
-                    <div class="well col-md-12">
-                        {% for inputCommander in input %}
-                            {{ form_row(inputCommander) }}
-                        {% endfor %}
+                    <div class="col-xs-12">
+                        {{ form_label(input) }}
+                        {{ form_errors(input) }}
+                        <div class="well col-xs-12">
+                            {% for inputCommander in input %}
+                                {{ form_row(inputCommander) }}
+                            {% endfor %}
+                        </div>
                     </div>
                 {% else %}
                     {{ form_row(input) }}
                 {% endif %}
             {% endfor %}
         {{ form_end(form) }}
+    </div>
 {% endblock %}

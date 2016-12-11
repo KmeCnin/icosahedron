@@ -48,6 +48,10 @@ class ArmyController extends Controller {
         }
 
         $army = new Army();
+        $tactics = $this->getDoctrine()
+			 ->getRepository('IcoMassFightBundle:Tactic')
+                ->findDefaults();
+        $army->setTactics($tactics);
 
         $form = $this->createForm(ArmyType::class, $army);
         $form->handleRequest($request);
@@ -57,6 +61,7 @@ class ArmyController extends Controller {
             $em = $this->getDoctrine()->getManager();
             $user = $this->get('security.context')->getToken()->getUser();
             $army->setCreatedBy($user);
+            $army->getCommander()->setCreatedBy($user);
             $em->persist($army);
             $em->flush();
 
@@ -153,7 +158,7 @@ class ArmyController extends Controller {
         return array(
             'breadcrumb' => array(
                 'Accueil' => 'ico',
-                'Kingmaker' => 'ico_mass_fight',
+                'Combats de masse' => 'ico_mass_fight',
                 $army->getName() => ''
             ),
             'title' => $army->getName(),

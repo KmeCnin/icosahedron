@@ -119,10 +119,12 @@
 {% block checkbox_widget %}
 {% spaceless %}
     {% set attr = attr|merge({'class': attr.class|default('') ~ ' form-control'}) %}
-    <input type="hidden" {{ block('widget_attributes') }}{% if value is defined %} value="{{ value }}"{% endif %}{% if checked %} checked="checked"{% endif %} /><button data-ref="checked-{{ id }}" type="button" class="ico-checkbox btn btn-default form-control" {% if not checked %} style="display:none;"{% endif %}>
-        <span class="fa fa-check-square-o"></span>
-    </button><button data-ref="not-checked-{{ id }}" type="button" class="ico-checkbox btn btn-default" {% if checked %} style="display:none;"{% endif %}>
-        <span class="fa fa-square-o"></span>
+    <input type="hidden" {{ block('widget_attributes') }}{% if value is defined %} value="{{ value }}"{% endif %}{% if checked %} checked="checked"{% endif %} />
+    <button data-ref="checked-{{ id }}" type="button" class="ico-checkbox btn btn-default checkbox-checked" {% if not checked %} style="display:none;"{% endif %}>
+        <span class="fa fa-check-square-o"></span><label>Oui</label>
+    </button>
+    <button data-ref="not-checked-{{ id }}" type="button" class="ico-checkbox btn btn-default checkbox-not-checked" {% if checked %} style="display:none;"{% endif %}>
+        <span class="fa fa-square-o"></span><label>Non</label>
     </button>
     <script>
         $(document).ready(function (){

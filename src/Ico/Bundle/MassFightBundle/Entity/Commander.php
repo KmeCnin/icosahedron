@@ -1,6 +1,6 @@
 <?php
 
-namespace Ico\Bundle\MassFightBundle\Entity; // gedmo annotations
+namespace Ico\Bundle\MassFightBundle\Entity;
 
 use DateTime;
 use Doctrine\ORM\Mapping as ORM;
@@ -87,6 +87,9 @@ class Commander
     public function __construct()
     {
         $this->prestigeFeat = false;
+        $this->level = 1;
+        $this->cha = 0;
+        $this->soldierSkill = 0;
     }
 
     /**
@@ -248,5 +251,14 @@ class Commander
     public function setSoldierSkill($soldierSkill) {
         $this->soldierSkill = $soldierSkill;
         return $this;
+    }
+    
+    public function getPrestigeValue()
+    {
+        return 
+            $this->getLevel() +
+            $this->getCha() +
+            $this->getPrestigeFeat() ? 3 : 0
+        ;
     }
 }

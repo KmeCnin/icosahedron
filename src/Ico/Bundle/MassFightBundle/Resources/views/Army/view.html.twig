@@ -5,110 +5,223 @@
 {% if is_granted('EDIT', army) %}
 <div class="pull-right" style="position: relative; top: 0px;">
     <a href="{{ path('ico_mass_fight_army_edit', {'id': army.id, 'slug': army.slug}) }}" class="btn btn-default btn-title"><span class="fa fa-pencil"></span> Modifier les stats de base</a>
+    <br class="visible-xs-block" />
+    <br class="visible-xs-block" />
 </div>
 {% endif %}
 {% endblock %}
 
 {% block content %}
     <div class="row">
-        <br class="visible-xs-block" />
-        <div class="form-group form-inline col-md-12">
-            <div class="input-group" style="margin: 15px 0;">
-                <span class="input-group-addon" style="width: auto;">PV</span>
-                <input 
-                    id="currentHP" 
-                    type="number" 
-                    class="form-control" 
-                    style="width:60px"
-                    onChange="updateHpBar();"
-                    min="0"
-                />
-                <span class="input-group-addon" style="width: auto;">/ <span id="maxHP"></span></span>
-            </div>
+        <div class="form-group form-inline col-md-12" style="margin:0;">
+            <table style="width:100%;">
+                <tr>
+                    <td>
+                        <div class="input-group" style="margin: 15px 0;">
+                            <span class="input-group-addon" style="width: auto;">PV</span>
+                            <input 
+                                id="currentHP" 
+                                type="number" 
+                                class="form-control" 
+                                style="width:60px"
+                                onChange="updateHpBar();"
+                                min="0"
+                            />
+                            <span class="input-group-addon" style="width: auto;">/ <span id="maxHP"></span></span>
+                        </div>
+                    </td>
+                    <td>
+                        <ul class="nav nav-pills pull-right">
+                            <li class="active"><a class="nolink">FP <span class="badge badge-success">2</span></a></li>
+                        </ul>
+                    </td>
+                </tr>
+            </table>
+        </div>
+        <div class="col-xs-12">
             <div class="progress">
                 <div id="hp-bar" class="progress-bar progress-bar-success"></div>
             </div>
         </div>
-        <ul class="list-group col-xs-12 col-sm-6">
-            <li class="list-group-item">
-                Facteur de puissance
-                <span id="total-FP" class="badge badge-xl badge-success"></span>
-            </li>
-            <li class="list-group-item">
-                Modificateur d'attaque
-                <span id="total-MA" class="badge badge-xl badge-success"></span>
-            </li>
-            <li class="list-group-item">
-                Valeur de défense
-                <span id="total-VD" class="badge badge-xl badge-success"></span>
-            </li>
-        </ul>
-        <ul class="list-group col-xs-12 col-sm-6">
-            <li class="list-group-item">
-                Moral
-                <span id="total-Moral" class="badge badge-xl badge-success"></span>
-            </li>
-            <li class="list-group-item">
-                Vitesse
-                <span id="total-Speed" class="badge badge-xl badge-success"></span>
-            </li>
-            <li class="list-group-item">
-                Consommation 
-                <span id="total-Conso" class="badge badge-xl badge-success"></span>
-            </li>
-        </ul>
+        <div class="col-xs-12 col-sm-6">
+            <ul class="list-group">
+                <li class="list-group-item">
+                    Modificateur d'attaque
+                    <span id="total-MA" class="badge badge-xl badge-success"></span>
+                </li>
+                <li class="list-group-item">
+                    Modificateur de dégâts
+                    <span id="total-damages" class="badge badge-xl badge-success"></span>
+                </li>
+                <li class="list-group-item">
+                    Valeur de défense
+                    <span id="total-VD" class="badge badge-xl badge-success"></span>
+                </li>
+            </ul>
+        </div>
+        <div class="col-xs-12 col-sm-6">
+            <ul class="list-group">
+                <li class="list-group-item">
+                    Moral
+                    <span id="total-Moral" class="badge badge-xl badge-success"></span>
+                </li>
+                <li class="list-group-item">
+                    Vitesse
+                    <span id="total-Speed" class="badge badge-xl badge-success"></span>
+                </li>
+                <li class="list-group-item">
+                    Consommation 
+                    <span id="total-Conso" class="badge badge-xl badge-success"></span>
+                </li>
+            </ul>
+        </div>
+        <div class="col-xs-12 col-sm-6">
+            <label for="strategy">Stratégie</label>
+            <select id="strategy" class="form-control">
+                <option value="-4">Défensive (+4 VDéf/-4 MA)</option>
+                <option value="-2">Prudente (+2 VDéf/-2 MA)</option>
+                <option value="0" selected>Standard</option>
+                <option value="2">Agressive (-2 VDéf/+2 MA)</option>
+                <option value="4">Téméraire (-4 VDéf/+4 MA)</option>
+            </select>
+        </div>
+        <div class="col-xs-12 col-sm-6">
+            <label for="tactic">Tactique</label>
+            <select id="tactic" class="form-control">
+                {% for tactic in army.tactics %}
+                    <option value="{{ tactic.id }}" {% if tactic.name == 'Standard' %}selected{% endif %}>{{ tactic }}</option>
+                {% endfor %}
+            </select>
+        </div>
+            <div class="col-xs-12">
+                <p id="tactic-description" class="help"></p>
+            </div>
     </div>
     
     <script>
         $(document).ready(function () {
+            var mappedTactics = [];
+            {% autoescape false %}
+            {% for tactic in army.tactics %}
+                mappedTactics[{{ tactic.id }}] = {{ tactic.mappedMods|json_encode() }};
+            {% endfor %}
+            {% endautoescape %}
+            
             init();
-        });
         
-        function init()
-        {
-            initTotals();      
-            initHP();   
-            updateHpBar();   
-        }
-        
-        function initHP()
-        {
-            $('#maxHP').html({{ army.baseHP }});
-            $('#currentHP')
-                .val($('#maxHP').html())
-                .attr('max', $('#maxHP').html());
-        }
-        
-        function initTotals()
-        {
-            $('#total-FP').html({{ army.fpa }});
-            $('#total-MA').html({{ army.baseMA }});
-            $('#total-VD').html({{ army.baseVD }});
-            $('#total-Moral').html();
-            $('#total-Speed').html({{ army.baseArmySpeed }});
-            $('#total-Conso').html({{ army.basePC }});
-        }
-        
-        function updateHpBar()
-        {
-            var percentLife = $('#currentHP').val()/$('#maxHP').html()*100;
-            $('#hp-bar').css('width', percentLife+'%');
-            if (percentLife < 10) {
-                $('#hp-bar')
-                    .removeClass('progress-bar-success')
-                    .removeClass('progress-bar-warning')
-                    .addClass('progress-bar-danger');
-            } else if (percentLife < 50) {
-                $('#hp-bar')
-                    .removeClass('progress-bar-success')
-                    .removeClass('progress-bar-danger')
-                    .addClass('progress-bar-warning');
-            } else {
-                $('#hp-bar')
-                    .removeClass('progress-bar-danger')
-                    .removeClass('progress-bar-warning')
-                    .addClass('progress-bar-success');
+            function init()
+            {
+                initStrategy();
+                initTactic();
+                initTotals();      
+                initHP();   
+                updateHpBar();  
             }
-        }
+
+            function initHP()
+            {
+                $('#maxHP').html({{ army.baseHP }});
+                $('#currentHP')
+                    .val($('#maxHP').html())
+                    .attr('max', $('#maxHP').html());
+            }
+
+            function initTotals()
+            {
+                updateTotalMA();
+                updateTotalVD();
+                updateTotalDamages();
+                updateTotalMoral();
+                updateTotalSpeed();
+                updateTotalConso();
+            }
+
+            function updateTotalMA() {
+                $('#total-MA').html(
+                    {{ army.baseMA }} + 
+                    parseInt($('#strategy').val()) +
+                    parseInt(mappedTactics[$('#tactic').val()]['ma'])
+                );
+            }
+
+            function updateTotalVD() {
+                $('#total-VD').html(
+                    {{ army.baseVD }} + 
+                    parseInt($('#strategy').val()) * -1 +
+                    parseInt(mappedTactics[$('#tactic').val()]['vd'])
+                );
+            }
+
+            function updateTotalDamages() {
+                $('#total-damages').html(
+                    0 +
+                    parseInt(mappedTactics[$('#tactic').val()]['damages'])
+                );
+            }
+
+            function updateTotalMoral() {
+                $('#total-Moral').html(
+                    {{ army.moral }} +
+                    parseInt(mappedTactics[$('#tactic').val()]['moral'])
+                );
+            }
+
+            function updateTotalSpeed() {
+                $('#total-Speed').html(
+                    {{ army.baseArmySpeed }} +
+                    parseInt(mappedTactics[$('#tactic').val()]['speed'])
+                );
+            }
+
+            function updateTotalConso() {
+                $('#total-Conso').html(
+                    {{ army.basePC }} +
+                    parseInt(mappedTactics[$('#tactic').val()]['conso'])
+                );
+            }
+
+            function updateHpBar()
+            {
+                var percentLife = $('#currentHP').val()/$('#maxHP').html()*100;
+                $('#hp-bar').css('width', percentLife+'%');
+                if (percentLife < 10) {
+                    $('#hp-bar')
+                        .removeClass('progress-bar-success')
+                        .removeClass('progress-bar-warning')
+                        .addClass('progress-bar-danger');
+                } else if (percentLife < 50) {
+                    $('#hp-bar')
+                        .removeClass('progress-bar-success')
+                        .removeClass('progress-bar-danger')
+                        .addClass('progress-bar-warning');
+                } else {
+                    $('#hp-bar')
+                        .removeClass('progress-bar-danger')
+                        .removeClass('progress-bar-warning')
+                        .addClass('progress-bar-success');
+                }
+            }
+
+            function initStrategy()
+            {
+                $('#strategy').change(function () {
+                    updateTotalMA();
+                    updateTotalVD();
+                });
+            }
+
+            function initTactic()
+            {
+                var tacticsDesc = new Object();
+                {% for tactic in army.tactics %}
+                    tacticsDesc[{{ tactic.id }}] = ('<strong>{{ tactic.name }} :</strong> {{ tactic.description }}');
+                {% endfor %}
+                $('#tactic-description').html(tacticsDesc[$('#tactic').val()]);
+                $('#tactic').change(function () {
+                    $('#tactic-description').html(tacticsDesc[$('#tactic').val()]);
+                    initTotals();
+                });
+            }
+        });
     </script>
 {% endblock %}
