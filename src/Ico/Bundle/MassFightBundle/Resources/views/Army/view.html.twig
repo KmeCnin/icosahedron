@@ -180,28 +180,6 @@
                 );
             }
 
-            function updateHpBar()
-            {
-                var percentLife = $('#currentHP').val()/$('#maxHP').html()*100;
-                $('#hp-bar').css('width', percentLife+'%');
-                if (percentLife < 10) {
-                    $('#hp-bar')
-                        .removeClass('progress-bar-success')
-                        .removeClass('progress-bar-warning')
-                        .addClass('progress-bar-danger');
-                } else if (percentLife < 50) {
-                    $('#hp-bar')
-                        .removeClass('progress-bar-success')
-                        .removeClass('progress-bar-danger')
-                        .addClass('progress-bar-warning');
-                } else {
-                    $('#hp-bar')
-                        .removeClass('progress-bar-danger')
-                        .removeClass('progress-bar-warning')
-                        .addClass('progress-bar-success');
-                }
-            }
-
             function initStrategy()
             {
                 $('#strategy').change(function () {
@@ -223,5 +201,27 @@
                 });
             }
         });
+
+        function updateHpBar()
+        {
+            var percentLife = $('#currentHP').val()/$('#maxHP').html()*100;
+            $('#hp-bar').css('width', percentLife+'%');
+            if (percentLife < 10) {
+                $('#hp-bar')
+                    .removeClass('progress-bar-success')
+                    .removeClass('progress-bar-warning')
+                    .addClass('progress-bar-danger');
+            } else if (percentLife < 50) {
+                $('#hp-bar')
+                    .removeClass('progress-bar-success')
+                    .removeClass('progress-bar-danger')
+                    .addClass('progress-bar-warning');
+            } else {
+                $('#hp-bar')
+                    .removeClass('progress-bar-danger')
+                    .removeClass('progress-bar-warning')
+                    .addClass('progress-bar-success');
+            }
+        }
     </script>
 {% endblock %}
