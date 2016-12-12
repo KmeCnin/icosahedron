@@ -13,63 +13,57 @@ use Symfony\Component\Security\Acl\Domain\UserSecurityIdentity;
 use Symfony\Component\Security\Acl\Permission\MaskBuilder;
 use Symfony\Component\Security\Core\Exception\AccessDeniedException;
 
-class ArmyController extends Controller {
+class CommanderController extends Controller {
 
     /**
-     * @Route("/combats-de-masse/armées", name="ico_mass_fight_army")
-     * @Route("/combats-de-masse/armées", name="ico_mass_fight")
+     * @Route("/combats-de-masse/commandants", name="ico_mass_fight_commander")
      * @Template()
      */
     public function indexAction() {
-        $armies = $this->getDoctrine()
-                ->getRepository('IcoMassFightBundle:Army')
+        $commanders = $this->getDoctrine()
+                ->getRepository('IcoMassFightBundle:Commander')
                 ->findAll();
 
         return array(
             'breadcrumb' => array(
                 'Accueil' => 'ico',
                 'Combats de masse' => 'ico_mass_fight_army',
-                'Armées' => 'ico_mass_fight_army',
+                'Commandants' => 'ico_mass_fight_commander',
             ),
-            'title' => 'Armées',
+            'title' => 'Commandants',
             'subtitle' => 'Combats de masse',
-            'list' => $armies
+            'list' => $commanders
         );
     }
 
     /**
-     * @Route("/combats-de-masse/nouvelle-armée", name="ico_mass_fight_army_new")
-     * @Template("IcoMassFightBundle:Army:edit.html.twig")
+     * @Route("/combats-de-masse/nouveau-commandant", name="ico_mass_fight_commander_new")
+     * @Template("IcoMassFightBundle:Commander:edit.html.twig")
      */
     public function newAction(Request $request) {
 
         $securityContext = $this->container->get('security.context');
         if (!$securityContext->isGranted('IS_AUTHENTICATED_REMEMBERED')) {
-            $this->get('session')->getFlashBag()->add('warning', 'Vous devez être authentifié pour créer une nouvelle armée.');
+            $this->get('session')->getFlashBag()->add('warning', 'Vous devez être authentifié pour créer un nouveau commandant.');
             throw new AccessDeniedException();
         }
 
-        $army = new Army();
-        $tactics = $this->getDoctrine()
-			 ->getRepository('IcoMassFightBundle:Tactic')
-                ->findDefaults();
-        $army->setTactics($tactics);
+        $commander = new Commander();
 
-        $form = $this->createForm(ArmyType::class, $army);
+        $form = $this->createForm(CommanderType::class, $commander);
         $form->handleRequest($request);
 
         if ($form->isValid()) {
             // Si un formulaire est soumis et est valide
             $em = $this->getDoctrine()->getManager();
             $user = $this->get('security.context')->getToken()->getUser();
-            $army->setCreatedBy($user);
-            $army->getCommander()->setCreatedBy($user);
-            $em->persist($army);
+            $commander->setCreatedBy($user);
+            $em->persist($commander);
             $em->flush();
 
             // ACL
             $aclProvider = $this->get('security.acl.provider');
-            $objectIdentity = ObjectIdentity::fromDomainObject($army);
+            $objectIdentity = ObjectIdentity::fromDomainObject($commander);
             $acl = $aclProvider->createAcl($objectIdentity);
             $securityIdentity = UserSecurityIdentity::fromAccount($user);
             $acl->insertObjectAce($securityIdentity, MaskBuilder::MASK_OWNER);
@@ -83,7 +77,7 @@ class ArmyController extends Controller {
 		  }
             $aclProvider->updateAcl($acl);
 
-            $this->get('session')->getFlashBag()->add('success', 'L\'armée ' . $army->getName() . ' a été créée.');
+            $this->get('session')->getFlashBag()->add('success', 'Le commandant ' . $commander->getName() . ' a été créé.');
             return $this->redirect($this->generateUrl('ico_mass_fight'));
         }
 
@@ -91,70 +85,70 @@ class ArmyController extends Controller {
             'breadcrumb' => array(
                 'Accueil' => 'ico',
                 'Combats de masse' => 'ico_mass_fight',
-                'Nouvelle armée' => 'ico_mass_fight_army_new'
+                'Nouveau commandant' => 'ico_mass_fight_commander_new'
             ),
-            'title' => 'Nouvelle armée',
+            'title' => 'Nouveau commandant',
             'subtitle' => 'Combats de masse',
-            'form' => $form->createView(),
-        );
-    }
-
-    /**
-     * @Route("/combats-de-masse/armées/édition/{id}/{slug}", name="ico_mass_fight_army_edit")
-     * @Template()
-     */
-    public function editAction(Request $request, $id) {
-
-        $army = $this->getDoctrine()
-                ->getRepository('IcoMassFightBundle:Army')
-                ->find($id);
-        if (!$army) {
-            throw $this->createNotFoundException('Aucune armée trouvée pour cet id : ' . $id);
-        }
-
-        $securityContext = $this->container->get('security.context');
-        if (false === $securityContext->isGranted('EDIT', $army)) {
-            $this->get('session')->getFlashBag()->add('warning', 'Vous n\'avez pas le droit d\'éditer cette armée.');
-            throw new AccessDeniedException();
-        }
-
-        $form = $this->createForm(ArmyType::class, $army);
-        $form->handleRequest($request);
-
-        if ($form->isValid()) {
-            // Si un formulaire est soumis et est valide
-            $em = $this->getDoctrine()->getManager();
-            $em->persist($army);
-            $em->flush();
-
-            $this->get('session')->getFlashBag()->add('success', 'L\'armée ' . $army->getName() . ' a été modifiée.');
-            return $this->redirect($this->generateUrl('ico_mass_fight_army_view', array('id' => $army->getId(), 'slug' => $army->getSlug())));
-        }
-
-        return array(
-            'breadcrumb' => array(
-                'Accueil' => 'ico',
-                'Combats de masse' => 'ico_mass_fight',
-                $army->getName() => ''
-            ),
-            'title' => $army->getName(),
-            'subtitle' => 'Édition',
-            'army' => $army,
             'form' => $form->createView()
         );
     }
 
     /**
-     * @Route("/combats-de-masse/armées/{id}/{slug}", name="ico_mass_fight_army_view", requirements={"id"="\d+"}, defaults={"slug"=false}, options={"expose"=true})
+     * @Route("/combats-de-masse/commandants/édition/{id}/{slug}", name="ico_mass_fight_commander_edit")
+     * @Template()
+     */
+    public function editAction(Request $request, $id) {
+
+        $commander = $this->getDoctrine()
+                ->getRepository('IcoMassFightBundle:Commander')
+                ->find($id);
+        if (!$commander) {
+            throw $this->createNotFoundException('Aucun commandant trouvé pour cet id : ' . $id);
+        }
+
+        $securityContext = $this->container->get('security.context');
+        if (false === $securityContext->isGranted('EDIT', $commander)) {
+            $this->get('session')->getFlashBag()->add('warning', 'Vous n\'avez pas le droit d\'éditer ce commandant.');
+            throw new AccessDeniedException();
+        }
+
+        $form = $this->createForm(CommanderType::class, $commander);
+        $form->handleRequest($request);
+
+        if ($form->isValid()) {
+            // Si un formulaire est soumis et est valide
+            $em = $this->getDoctrine()->getManager();
+            $em->persist($commander);
+            $em->flush();
+
+            $this->get('session')->getFlashBag()->add('success', 'Le commandant ' . $commander->getName() . ' a été modifié.');
+            return $this->redirect($this->generateUrl('ico_mass_fight_commander_view', array('id' => $commander->getId(), 'slug' => $commander->getSlug())));
+        }
+
+        return array(
+            'breadcrumb' => array(
+                'Accueil' => 'ico',
+                'Combats de masse' => 'ico_mass_fight',
+                $commander->getName() => ''
+            ),
+            'title' => $commander->getName(),
+            'subtitle' => 'Édition',
+            'commander' => $commander,
+            'form' => $form->createView()
+        );
+    }
+
+    /**
+     * @Route("/combats-de-masse/commandants/{id}/{slug}", name="ico_mass_fight_commander_view", requirements={"id"="\d+"}, defaults={"slug"=false}, options={"expose"=true})
      * @Template()
      */
     public function viewAction($id) {
 
         $army = $this->getDoctrine()
-                ->getRepository('IcoMassFightBundle:Army')
+                ->getRepository('IcoMassFightBundle:Commander')
                 ->find($id);
         if (!$army) {
-            throw $this->createNotFoundException('Aucune armée trouvée pour cet id : ' . $id);
+            throw $this->createNotFoundException('Aucun commandant trouvé pour cet id : ' . $id);
         }
 
         return array(
@@ -164,7 +158,7 @@ class ArmyController extends Controller {
                 $army->getName() => ''
             ),
             'title' => $army->getName(),
-            'subtitle' => 'Statistiques',
+            'subtitle' => 'Aperçu',
             'army' => $army
         );
     }

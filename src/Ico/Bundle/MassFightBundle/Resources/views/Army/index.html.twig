@@ -4,6 +4,7 @@
 {{ parent() }}
 {% if app.user is not null %}
 <div class="pull-right" style="position: relative; top: 20px;">
+    <a href="{{ path('ico_mass_fight_commander_new') }}" class="btn btn-default" style="margin-right:15px;"><span class="fa fa-plus"></span> Nouveau commandant</a>
     <a href="{{ path('ico_mass_fight_army_new') }}" class="btn btn-primary"><span class="fa fa-plus"></span> Nouvelle armée</a>
     <br class="visible-xs-block" />
     <br class="visible-xs-block" />
@@ -17,6 +18,7 @@
         <tr>
             <th>Nom</th>
             <th>Composition</th>
+            <th>Commandant</th>
             <th>FPA</th>
             <th>Créateur</th>
             <th>Date de création</th>
@@ -26,6 +28,7 @@
             <tr class="link" onclick="window.location.href = Routing.generate('ico_mass_fight_army_view', {id:{{ army.id }}, slug: '{{ army.slug }}'});">
                 <td>{{ army.name }}</td>
                 <td>{{ army.size ~ ' ' ~ army.type }}</td>
+                <td>{{ army.commander.name }}</td>
                 <td>{{ army.fpa }}</td>
                 <td>{{ army.createdBy.username }}</td>
                 <td>{{ army.created|date('d/m/Y') }}</td>
