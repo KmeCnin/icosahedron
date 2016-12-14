@@ -2,8 +2,6 @@
 
 namespace Ico\Bundle\MassFightBundle\Controller;
 
-use Ico\Bundle\MassFightBundle\Entity\Army;
-use Ico\Bundle\MassFightBundle\Form\Type\ArmyType;
 use Sensio\Bundle\FrameworkExtraBundle\Configuration\Route;
 use Sensio\Bundle\FrameworkExtraBundle\Configuration\Template;
 use Symfony\Bundle\FrameworkBundle\Controller\Controller;
@@ -12,6 +10,8 @@ use Symfony\Component\Security\Acl\Domain\ObjectIdentity;
 use Symfony\Component\Security\Acl\Domain\UserSecurityIdentity;
 use Symfony\Component\Security\Acl\Permission\MaskBuilder;
 use Symfony\Component\Security\Core\Exception\AccessDeniedException;
+use Ico\Bundle\MassFightBundle\Entity\Commander;
+use Ico\Bundle\MassFightBundle\Form\Type\CommanderType;
 
 class CommanderController extends Controller {
 
@@ -78,13 +78,14 @@ class CommanderController extends Controller {
             $aclProvider->updateAcl($acl);
 
             $this->get('session')->getFlashBag()->add('success', 'Le commandant ' . $commander->getName() . ' a été créé.');
-            return $this->redirect($this->generateUrl('ico_mass_fight'));
+            return $this->redirect($this->generateUrl('ico_mass_fight_commander'));
         }
 
         return array(
             'breadcrumb' => array(
                 'Accueil' => 'ico',
                 'Combats de masse' => 'ico_mass_fight',
+                'Commandants' => 'ico_mass_fight_commander',
                 'Nouveau commandant' => 'ico_mass_fight_commander_new'
             ),
             'title' => 'Nouveau commandant',
@@ -94,11 +95,10 @@ class CommanderController extends Controller {
     }
 
     /**
-     * @Route("/combats-de-masse/commandants/édition/{id}/{slug}", name="ico_mass_fight_commander_edit")
+     * @Route("/combats-de-masse/commandants/édition/{id}/{slug}", name="ico_mass_fight_commander_edit", options={"expose"=true})
      * @Template()
      */
     public function editAction(Request $request, $id) {
-
         $commander = $this->getDoctrine()
                 ->getRepository('IcoMassFightBundle:Commander')
                 ->find($id);
@@ -109,7 +109,7 @@ class CommanderController extends Controller {
         $securityContext = $this->container->get('security.context');
         if (false === $securityContext->isGranted('EDIT', $commander)) {
             $this->get('session')->getFlashBag()->add('warning', 'Vous n\'avez pas le droit d\'éditer ce commandant.');
-            throw new AccessDeniedException();
+            return $this->redirect($this->generateUrl('ico_mass_fight_commander'));
         }
 
         $form = $this->createForm(CommanderType::class, $commander);
@@ -129,6 +129,7 @@ class CommanderController extends Controller {
             'breadcrumb' => array(
                 'Accueil' => 'ico',
                 'Combats de masse' => 'ico_mass_fight',
+                'Commandants' => 'ico_mass_fight_commander',
                 $commander->getName() => ''
             ),
             'title' => $commander->getName(),
@@ -155,6 +156,7 @@ class CommanderController extends Controller {
             'breadcrumb' => array(
                 'Accueil' => 'ico',
                 'Combats de masse' => 'ico_mass_fight',
+                'Commandants' => 'ico_mass_fight_commander',
                 $army->getName() => ''
             ),
             'title' => $army->getName(),
@@ -164,28 +166,28 @@ class CommanderController extends Controller {
     }
 
     /**
-     * @Route("/combats-de-masse/armées/suppression/{id}/{slug}", name="ico_mass_fight_army_delete", requirements={"id"="\d+"}, defaults={"slug"=false})
+     * @Route("/combats-de-masse/commandants/suppression/{id}/{slug}", name="ico_mass_fight_commander_delete", requirements={"id"="\d+"}, defaults={"slug"=false})
      */
-    public function deleteGuestAction($id) {
+    public function deleteAction($id) {
 
-        $army = $this->getDoctrine()
-                ->getRepository('IcoMassFightBundle:Army')
+        $commander = $this->getDoctrine()
+                ->getRepository('IcoMassFightBundle:Commander')
                 ->find($id);
-        if (!$army) {
-            throw $this->createNotFoundException('Aucune armée trouvée pour cet id : ' . $id);
+        if (!$commander) {
+            throw $this->createNotFoundException('Aucun commandant trouvée pour cet id : ' . $id);
         }
         
         $securityContext = $this->container->get('security.context');
-        if (false === $securityContext->isGranted('DELETE', $army)) {
-            $this->get('session')->getFlashBag()->add('warning', 'Vous n\'avez pas le droit de supprimer cette armée.');
+        if (false === $securityContext->isGranted('DELETE', $commander)) {
+            $this->get('session')->getFlashBag()->add('warning', 'Vous n\'avez pas le droit de supprimer ce commandant.');
             throw new AccessDeniedException();
         }
 
         $em = $this->getDoctrine()->getManager();
-        $em->remove($army);
+        $em->remove($commander);
         $em->flush();
         
-        $this->get('session')->getFlashBag()->add('success', 'L\'armée ' . $army->getName() . ' a été supprimée.');
+        $this->get('session')->getFlashBag()->add('success', 'Le commandant ' . $commander->getName() . ' a été supprimé.');
         return $this->redirect($this->generateUrl('ico_mass_fight'));
     }
 }

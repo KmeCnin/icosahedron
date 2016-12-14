@@ -1,0 +1,50 @@
+{% extends "IcoMassFightBundle::layout.html.twig" %}
+{% form_theme form 'IcoAppBundle:Form:fields.html.twig' %}
+
+{% block title %}
+    {{ parent() }}
+    {% if commander is defined and is_granted('DELETE', commander) %}
+        <div class="pull-right btn-title">
+            <button type="button" class="btn btn-default" data-toggle="modal" data-target="#commanderDelete"><span class="fa fa-times"></span> Supprimer</button>
+            <div class="modal fade" id="commanderDelete" tabindex="-1" role="dialog" aria-labelledby="Suppression du commandant {{ commander.name }}" aria-hidden="true">
+                <div class="modal-dialog">
+                    <div class="modal-content">
+                        <div class="modal-header">
+                            <button type="button" class="close" data-dismiss="modal" aria-label="Fermer"><span aria-hidden="true">&times;</span></button>
+                            <h4 class="modal-title" id="myModalLabel">Suppression du commandant {{ commander.name }}</h4>
+                        </div>
+                        <div class="modal-body">
+                            <p>
+                                La suppression d'un commandant est définitive.<br />
+                                Êtes-vous sûr de vouloir supprimer <strong>{{ commander.name }}</strong> ?
+                            </p>
+                        </div>
+                        <div class="modal-footer">
+                            <button type="button" class="btn btn-default" data-dismiss="modal"><span class="fa fa-undo"></span> Annuler</button>
+                            <a href="{{ path('ico_mass_fight_commander_delete', {'id': commander.id, 'slug': commander.slug}) }}" class="btn btn-primary"><span class="fa fa-times"></span> Supprimer</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="pull-right btn-title">
+            <a href="{{ path('ico_mass_fight_army') }}" class="btn btn-default"><span class="fa fa-users"></span> Armées</a>
+        </div>
+    {% endif %}
+{% endblock %}
+
+{% block content %}
+    <div class="form-block">
+        {{ form_start(form) }}
+            {{ form_errors(form) }}
+            {% for key, input in form %}
+                {{ form_row(input) }}
+            {% endfor %}
+            <div class="col-xs-12">
+                <button type="submit" class="btn btn-primary">
+                    <span class="fa fa-check"></span> Sauvegarder
+                </button>
+            </div>
+        {{ form_end(form) }}
+    </div>
+{% endblock %}

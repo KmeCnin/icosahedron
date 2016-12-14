@@ -3,8 +3,8 @@
 {% block title %}
 {{ parent() }}
 {% if is_granted('EDIT', sheet) %}
-<div class="pull-right">
-    <a href="{{ path('ico_sheet_edit', {'id': sheet.id, 'slug': sheet.slug}) }}" class="btn btn-default btn-title"><span class="fa fa-pencil"></span> Éditer</a>
+<div class="pull-right btn-title">
+    <a href="{{ path('ico_sheet_edit', {'id': sheet.id, 'slug': sheet.slug}) }}" class="btn btn-default"><span class="fa fa-pencil"></span> Éditer</a>
 </div>
 {% endif %}
 {% endblock %}

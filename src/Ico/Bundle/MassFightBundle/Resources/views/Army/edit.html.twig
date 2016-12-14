@@ -4,8 +4,8 @@
 {% block title %}
     {{ parent() }}
     {% if army is defined and is_granted('DELETE', army) %}
-        <div class="pull-right" style="position: relative; top: 0px;">
-            <button type="button" class="btn btn-default btn-title" data-toggle="modal" data-target="#armyDelete"><span class="fa fa-times"></span> Supprimer</button>
+        <div class="pull-right btn-title">
+            <button type="button" class="btn btn-default" data-toggle="modal" data-target="#armyDelete"><span class="fa fa-times"></span> Supprimer</button>
         </div>
         <div class="modal fade" id="armyDelete" tabindex="-1" role="dialog" aria-labelledby="Suppression de l'armée {{ army.name }}" aria-hidden="true">
             <div class="modal-dialog">
@@ -27,35 +27,70 @@
                 </div>
             </div>
         </div>
-        <div class="pull-right" style="position: relative; top: 20px;">
-            <a href="{{ path('ico_mass_fight_army_view', {'id': army.id, 'slug': army.slug}) }}" class="btn btn-default"><span class="fa fa-cogs"></span> Stats</a>
+        <div class="pull-right btn-title">
+            <a href="{{ path('ico_mass_fight_army_view', {'id': army.id, 'slug': army.slug}) }}" class="btn btn-default"><span class="fa fa-cogs"></span> Stats de combat</a>
         </div>
     {% endif %}
-    <br class="visible-xs-block" />
-    <br class="visible-xs-block" />
-    <br />
-    <br />
 {% endblock %}
 
 {% block content %}
-    <div class="form-block">
-        {{ form_start(form) }}
-            {{ form_errors(form) }}
-            {% for key, input in form %}
-                {% if key == 'commander' %}
-                    <div class="col-xs-12">
-                        {{ form_label(input) }}
-                        {{ form_errors(input) }}
-                        <div class="well col-xs-12">
-                            {% for inputCommander in input %}
-                                {{ form_row(inputCommander) }}
-                            {% endfor %}
-                        </div>
-                    </div>
-                {% else %}
-                    {{ form_row(input) }}
-                {% endif %}
-            {% endfor %}
-        {{ form_end(form) }}
-    </div>
+    {{ form_start(form) }}
+        {{ form_errors(form) }}
+        {{ form_row(form.name) }}
+        {{ form_row(form.alignment) }}
+        {{ form_row(form.size) }}
+        <div class="col-xs-12">
+            <label>Unité type</label>
+            <div class="well col-xs-12">
+                {{ form_row(form.type) }}
+                {{ form_row(form.lifeDicesType) }}
+                {{ form_row(form.fpType) }}
+                {{ form_row(form.speed) }}
+            </div>
+        </div>
+        {{ form_row(form.tactics) }}
+        {{ form_row(form.commander) }}
+        <div id="commanderForm" class="col-xs-12">
+            <div class="well col-xs-12">
+                {% for name, inputCommander in form.newCommander %}
+                    {{ form_row(
+                        inputCommander,
+                        {'value': attribute(newCommander, name) }
+                    ) }}
+                {% endfor %}
+            </div>
+        </div>
+        <div class="col-xs-12">
+            <button type="submit" class="btn btn-primary">
+                <span class="fa fa-check"></span> Sauvegarder
+            </button>
+        </div>
+    {{ form_end(form) }}
+        
+    <script>
+        $(document).ready(function () {
+            syncCommanderForm();
+            
+            $('#army_commander').change(function () {
+                syncCommanderForm();
+            });
+            
+            $('form[name=army]').submit(function () {
+                if ($('#army_commander').val()) {
+                    $('#commanderForm').remove();
+                }
+            });
+            
+            function syncCommanderForm()
+            {
+                if ($('#army_commander').val()) {
+                    $('#commanderForm').hide();
+                    $('form[name=army]').attr('novalidate', 'novalidate');
+                } else {
+                    $('#commanderForm').show();
+                    $('form[name=army]').removeAttr('novalidate');
+                }
+            }
+        });
+    </script>
 {% endblock %}

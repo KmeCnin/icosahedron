@@ -3,8 +3,8 @@
 {% block title %}
     {{ parent() }}
     {% if app.user is not null %}
-    <div class="pull-right">
-        <a href="{{ path('ico_sheet_new') }}" class="btn btn-primary btn-title"><span class="fa fa-plus"></span> Nouvelle fiche de personnage</a>
+    <div class="pull-right btn-title">
+        <a href="{{ path('ico_sheet_new') }}" class="btn btn-primary"><span class="fa fa-plus"></span> Nouvelle fiche de personnage</a>
     </div>
     {% endif %}
 {% endblock %}

@@ -45,34 +45,34 @@ class ArmyType extends AbstractType
                 ],
             ])
             ->add('type', null, array(
-                'label' => 'Unité type',
+                'label' => 'Profil (classe, race, niveau...)',
                 'attr' => [
-                    'formGroupClass' => self::$inputSmall,
-                    'clearfix' => self::$visibilityXs.self::$visibilitySm,
+                    'formGroupClass' => self::$inputDefault,
+                    'clearfix' => self::$visibilityXs.self::$visibilitySm.self::$visibilityMd,
                 ],
             ))
             ->add('lifeDicesType', ChoiceType::class, array(
-                'label' => 'Dés de vie de l\'unité type',
+                'label' => 'Dés de vie',
                 'choices' => Army::getAllDices(),
                 'choices_as_values' => false,
                 'attr' => [
-                    'formGroupClass' => self::$inputSmall,
+                    'formGroupClass' => self::$inputExtraSmall,
                     'clearfix' => self::$visibilityXs,
                 ],
             ))
             ->add('fpType', ChoiceType::class, array(
-                'label' => 'FP de l\'unité type',
+                'label' => 'FP',
                 'choices' => Army::getAllFpTypes(),
                 'choices_as_values' => false,
                 'attr' => [
-                    'formGroupClass' => self::$inputSmall,
-                    'clearfix' => self::$visibilityXs.self::$visibilitySm.self::$visibilityMd,
+                    'formGroupClass' => self::$inputExtraSmall,
+                    'clearfix' => self::$visibilityXs,
                 ],
             ))
             ->add('speed', null, [
-                'label' => 'Déplacement de l\'unité type (cases)',
+                'label' => 'Déplacement (cases)',
                 'attr' => [
-                    'formGroupClass' => self::$inputSmall,
+                    'formGroupClass' => self::$inputExtraSmall,
                 ],
             ])
             ->add('tactics', EntityType::class, [
@@ -85,14 +85,24 @@ class ArmyType extends AbstractType
                     'formGroupClass' => self::$inputLarge,
                 ],
             ])
-            ->add('commander', CommanderType::class, [
+            ->add('commander', EntityType::class, [
                 'label' => 'Commandant',
+                'class' => Commander::class,
+                'choice_label' => 'name',
+                'placeholder' => 'Créer un nouveau',
+                'required' => false,
+                'attr' => [
+                    'formGroupClass' => self::$inputSmall,
+                ],
+            ])
+            ->add('newCommander', CommanderType::class, [
+                'mapped' => false,
                 'data_class' => Commander::class,
                 'attr' => [
                     'formGroupClass' => self::$inputSmall,
                     'clearfix' => self::$visibilityAll,
                 ],
             ])
-            ->add('create', 'submit', array('label' => 'Sauvegarder'));
+        ;
     }
 }

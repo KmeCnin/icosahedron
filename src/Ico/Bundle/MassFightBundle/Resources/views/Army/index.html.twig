@@ -3,12 +3,9 @@
 {% block title %}
 {{ parent() }}
 {% if app.user is not null %}
-<div class="pull-right" style="position: relative; top: 20px;">
-    <a href="{{ path('ico_mass_fight_commander_new') }}" class="btn btn-default" style="margin-right:15px;"><span class="fa fa-plus"></span> Nouveau commandant</a>
+<div class="pull-right btn-title">
+    <a href="{{ path('ico_mass_fight_commander') }}" class="btn btn-default" style="margin-right:15px;"><span class="fa fa-user"></span> Commandants</a>
     <a href="{{ path('ico_mass_fight_army_new') }}" class="btn btn-primary"><span class="fa fa-plus"></span> Nouvelle armée</a>
-    <br class="visible-xs-block" />
-    <br class="visible-xs-block" />
-    <br class="visible-xs-block" />
 </div>
 {% endif %}
 {% endblock %}

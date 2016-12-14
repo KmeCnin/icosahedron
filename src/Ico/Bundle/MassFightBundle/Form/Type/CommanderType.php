@@ -47,8 +47,9 @@ class CommanderType extends AbstractType
                 'label' => 'Rangs en Profession (soldat)',
                 'attr' => [
                     'formGroupClass' => self::$inputSmall,
-                    'clearfix' => self::$visibilityXs,
+                    'clearfix' => self::$visibilityAll,
                 ],
-            ));
+            ))
+        ;
     }
 }

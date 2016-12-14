@@ -3,7 +3,9 @@
 namespace Ico\Bundle\MassFightBundle\Controller;
 
 use Ico\Bundle\MassFightBundle\Entity\Army;
+use Ico\Bundle\MassFightBundle\Entity\Commander;
 use Ico\Bundle\MassFightBundle\Form\Type\ArmyType;
+use Ico\Bundle\MassFightBundle\Form\Type\CommanderType;
 use Sensio\Bundle\FrameworkExtraBundle\Configuration\Route;
 use Sensio\Bundle\FrameworkExtraBundle\Configuration\Template;
 use Symfony\Bundle\FrameworkBundle\Controller\Controller;
@@ -56,6 +58,17 @@ class ArmyController extends Controller {
         $army->setTactics($tactics);
 
         $form = $this->createForm(ArmyType::class, $army);
+        if ($request->request->has('army') &&
+            isset($request->request->get('army')['newCommander']) &&
+            isset($request->request->get('army')['commander'])
+        ) {
+            $commander = $this->createCommander(
+                $request->request->get('army')['newCommander']
+            );
+            $armyData = $request->request->get('army');
+            $armyData['commander'] = $commander->getId();
+            $request->request->set('army', $armyData);
+        }
         $form->handleRequest($request);
 
         if ($form->isValid()) {
@@ -63,7 +76,6 @@ class ArmyController extends Controller {
             $em = $this->getDoctrine()->getManager();
             $user = $this->get('security.context')->getToken()->getUser();
             $army->setCreatedBy($user);
-            $army->getCommander()->setCreatedBy($user);
             $em->persist($army);
             $em->flush();
 
@@ -91,10 +103,12 @@ class ArmyController extends Controller {
             'breadcrumb' => array(
                 'Accueil' => 'ico',
                 'Combats de masse' => 'ico_mass_fight',
+                'Armées' => 'ico_mass_fight_army',
                 'Nouvelle armée' => 'ico_mass_fight_army_new'
             ),
             'title' => 'Nouvelle armée',
             'subtitle' => 'Combats de masse',
+            'newCommander' => new Commander(),
             'form' => $form->createView(),
         );
     }
@@ -119,6 +133,17 @@ class ArmyController extends Controller {
         }
 
         $form = $this->createForm(ArmyType::class, $army);
+        if ($request->request->has('army') &&
+            isset($request->request->get('army')['newCommander']) &&
+            isset($request->request->get('army')['commander'])
+        ) {
+            $commander = $this->createCommander(
+                $request->request->get('army')['newCommander']
+            );
+            $armyData = $request->request->get('army');
+            $armyData['commander'] = $commander->getId();
+            $request->request->set('army', $armyData);
+        }
         $form->handleRequest($request);
 
         if ($form->isValid()) {
@@ -135,13 +160,55 @@ class ArmyController extends Controller {
             'breadcrumb' => array(
                 'Accueil' => 'ico',
                 'Combats de masse' => 'ico_mass_fight',
+                'Armées' => 'ico_mass_fight_army',
                 $army->getName() => ''
             ),
             'title' => $army->getName(),
             'subtitle' => 'Édition',
             'army' => $army,
-            'form' => $form->createView()
+            'newCommander' => new Commander(),
+            'form' => $form->createView(),
         );
+    }
+    
+    /**
+     * @param array $commanderData
+     * @return \Ico\Bundle\MassFightBundle\Controller\Commander
+     */
+    private function createCommander(array $commanderData)
+    {
+        $commander = new Commander();
+        $form = $this->createForm(CommanderType::class, $commander, array(
+            'csrf_protection' => false,
+        ));
+        $form->submit($commanderData);
+        
+        if ($form->isValid()) {
+            $em = $this->getDoctrine()->getManager();
+            $user = $this->get('security.context')->getToken()->getUser();
+            $commander->setCreatedBy($user);
+            $em->persist($commander);
+            $em->flush();
+
+            // ACL
+            $aclProvider = $this->get('security.acl.provider');
+            $objectIdentity = ObjectIdentity::fromDomainObject($commander);
+            $acl = $aclProvider->createAcl($objectIdentity);
+            $securityIdentity = UserSecurityIdentity::fromAccount($user);
+            $acl->insertObjectAce($securityIdentity, MaskBuilder::MASK_OWNER);
+		  $admins = $this->getDoctrine()
+			 ->getRepository('IcoUserBundle:User')
+			 ->findByRole('ROLE_ADMIN');
+		  // Accès pour les admins
+		  foreach ($admins as $admin) {
+			 $securityIdentity = UserSecurityIdentity::fromAccount($admin);
+			 $acl->insertObjectAce($securityIdentity, MaskBuilder::MASK_OWNER);
+		  }
+            $aclProvider->updateAcl($acl);
+            
+            return $commander;
+        }
+        throw new \Exception($form->getErrors());
     }
 
     /**
@@ -161,6 +228,7 @@ class ArmyController extends Controller {
             'breadcrumb' => array(
                 'Accueil' => 'ico',
                 'Combats de masse' => 'ico_mass_fight',
+                'Armées' => 'ico_mass_fight_army',
                 $army->getName() => ''
             ),
             'title' => $army->getName(),
@@ -172,7 +240,7 @@ class ArmyController extends Controller {
     /**
      * @Route("/combats-de-masse/armées/suppression/{id}/{slug}", name="ico_mass_fight_army_delete", requirements={"id"="\d+"}, defaults={"slug"=false})
      */
-    public function deleteGuestAction($id) {
+    public function deleteAction($id) {
 
         $army = $this->getDoctrine()
                 ->getRepository('IcoMassFightBundle:Army')

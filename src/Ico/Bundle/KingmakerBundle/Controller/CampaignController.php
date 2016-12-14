@@ -187,7 +187,7 @@ class CampaignController extends Controller {
     /**
      * @Route("/kingmaker/campagnes/suppression/{id}/{slug}", name="ico_kingmaker_campaign_delete", requirements={"id"="\d+"}, defaults={"slug"=false})
      */
-    public function deleteGuestAction($id) {
+    public function deleteAction($id) {
 
         $campaign = $this->getDoctrine()
                 ->getRepository('IcoKingmakerBundle:Campaign')

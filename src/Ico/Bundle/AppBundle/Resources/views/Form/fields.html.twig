@@ -69,7 +69,7 @@
         {{ form_widget(form) }}
     </div>
     {% if attr.clearfix is defined %}
-        <div class="form_row form-group col-xs-12 col-sm-12 col-md-12 col-lg-12{{ attr.clearfix }}">
+        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12{{ attr.clearfix }}">
             {% if attr['data-section'] is defined %}
                 <div data-section="{{ attr['data-section'] }}"></div>
             {% endif %}

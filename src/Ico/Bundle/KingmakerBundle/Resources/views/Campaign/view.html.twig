@@ -3,8 +3,8 @@
 {% block title %}
 {{ parent() }}
 {% if is_granted('EDIT', campaign) %}
-<div class="pull-right" style="position: relative; top: 0px;">
-    <a href="{{ path('ico_kingmaker_campaign_edit', {'id': campaign.id, 'slug': campaign.slug}) }}" class="btn btn-default btn-title"><span class="fa fa-cogs"></span> Paramètres</a>
+<div class="pull-right btn-title">
+    <a href="{{ path('ico_kingmaker_campaign_edit', {'id': campaign.id, 'slug': campaign.slug}) }}" class="btn btn-default"><span class="fa fa-cogs"></span> Paramètres</a>
 </div>
 {% endif %}
 {% endblock %}

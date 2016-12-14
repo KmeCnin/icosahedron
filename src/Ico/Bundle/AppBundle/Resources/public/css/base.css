@@ -317,10 +317,13 @@ div.list-group a.list-group-item:hover {
     background-color: #42A500;
     border-color: #42A500;
 }
-.btn.btn-title {
+.btn-title {
     position: relative;
     top: 20px;
     margin: auto 0 auto 15px;
+}
+.title-block {
+    margin-bottom: 60px;
 }
 .list-group a.list-group-item, .list-group a.list-group-item:visited {
     color: inherit;
