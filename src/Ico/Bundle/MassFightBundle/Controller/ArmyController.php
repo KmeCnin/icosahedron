@@ -54,7 +54,7 @@ class ArmyController extends Controller {
 
         $army = new Army();
         $tactics = $this->getDoctrine()
-			 ->getRepository('IcoMassFightBundle:Tactic')
+            ->getRepository('IcoMassFightBundle:Tactic')
             ->findDefaults();
         $army->setTactics($tactics);
 

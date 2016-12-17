@@ -7,10 +7,10 @@ use Gedmo\Mapping\Annotation as Gedmo;
 use Ico\Bundle\MassFightBundle\Model\Modificator;
 
 /**
- * @ORM\Table(name="mass_fight_tactic")
- * @ORM\Entity(repositoryClass="Ico\Bundle\MassFightBundle\Repository\TacticRepository")
+ * @ORM\Table(name="mass_fight_benefits")
+ * @ORM\Entity(repositoryClass="Ico\Bundle\MassFightBundle\Repository\BenefitRepository")
  */
-class Tactic extends Modificator
+class Benefit extends Modificator
 {                
     /**
      * @var integer
@@ -83,23 +83,23 @@ class Tactic extends Modificator
      * @ORM\Column(type="text")
      */
     protected $description;
-    
-    /**
-     * @var bool 
-     * 
-     * @ORM\Column(type="boolean")
-     */
-    private $isDefault;
-    
+
     /**
      * @Gedmo\Slug(fields={"name"})
      * @ORM\Column(type="string", length=255)
      */
     private $slug;
+
+    /**
+     * @var int
+     *
+     * @ORM\Column(type="integer")
+     */
+    private $minPrestige;
     
     public function __construct() {
         parent::__construct();
-        $this->isDefault = false;
+        $this->minPrestige = 0;
     }
 
     /**
@@ -116,7 +116,7 @@ class Tactic extends Modificator
      * Set slug
      *
      * @param string $slug
-     * @return Tactic
+     * @return Benefit
      */
     public function setSlug($slug)
     {
@@ -134,19 +134,24 @@ class Tactic extends Modificator
     {
         return $this->slug;
     }
-    
-    public function getIsDefault()
+
+    /**
+     * @return int
+     */
+    public function getMinPrestige()
     {
-        return $this->isDefault;
+        return $this->minPrestige;
     }
-    
-    public function isDefault()
+
+    /**
+     * @param int $minPrestige
+     *
+     * @return $this
+     */
+    public function setMinPrestige($minPrestige)
     {
-        return $this->isDefault;
-    }
-    
-    public function setIsDefault($isDefault) {
-        $this->isDefault = $isDefault;
+        $this->minPrestige = $minPrestige;
+
         return $this;
     }
 }
