@@ -10061,15 +10061,18 @@ img.class-illustration {
     background-color: #42A500;
     border-color: #3B9400;
 }
-.list-group .list-group-item:hover {
+div.list-group a.list-group-item:hover {
     color: #ffffff;
     background-color: #42A500;
     border-color: #42A500;
 }
-.btn.btn-title {
+.btn-title {
     position: relative;
     top: 20px;
-    margin: auto 15px;
+    margin: auto 0 auto 15px;
+}
+.title-block {
+    margin-bottom: 60px;
 }
 .list-group a.list-group-item, .list-group a.list-group-item:visited {
     color: inherit;
@@ -10097,4 +10100,42 @@ input[type=number] {
 }
 .form_row.form-group .well {
     margin: 0;
+}
+.badge-xl {
+    font-size: 16px;
+}
+.badge-success {
+    background-color: #3B9400;
+}
+.badge-warning {
+    background-color: #ff851b;
+}
+.badge-danger {
+    background-color: #ff4136;
+}
+.ico-checkbox {
+    width: 100%;
+    padding: 3px 0 0 5px;
+    font-size: 21px;
+    text-align: left;
+}
+.ico-checkbox > label {
+    font-size: 16px;
+    vertical-align: middle;
+    margin-left: 10px;
+}
+.nav.nav-pills > .active > *,
+.nav.nav-pills > .active > *:hover,
+.nav.nav-pills > .active > *:active{
+    color: #ffffff;
+    background-color: #3B9400;
+    position: relative;
+    display: block;
+    padding: 10px 15px;
+}
+.help {
+    color: #999999;
+    font-size: 0.9em;
+    margin: 15px 0;
+    text-align: justify;
 }

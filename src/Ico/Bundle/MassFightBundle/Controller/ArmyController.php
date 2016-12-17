@@ -30,6 +30,7 @@ class ArmyController extends Controller {
         return array(
             'breadcrumb' => array(
                 'Accueil' => 'ico',
+                'Outils Pathfinder' => '',
                 'Combats de masse' => 'ico_mass_fight_army',
                 'Armées' => 'ico_mass_fight_army',
             ),
@@ -54,7 +55,7 @@ class ArmyController extends Controller {
         $army = new Army();
         $tactics = $this->getDoctrine()
 			 ->getRepository('IcoMassFightBundle:Tactic')
-                ->findDefaults();
+            ->findDefaults();
         $army->setTactics($tactics);
 
         $form = $this->createForm(ArmyType::class, $army);
@@ -85,14 +86,14 @@ class ArmyController extends Controller {
             $acl = $aclProvider->createAcl($objectIdentity);
             $securityIdentity = UserSecurityIdentity::fromAccount($user);
             $acl->insertObjectAce($securityIdentity, MaskBuilder::MASK_OWNER);
-		  $admins = $this->getDoctrine()
-			 ->getRepository('IcoUserBundle:User')
-			 ->findByRole('ROLE_ADMIN');
-		  // Accès pour les admins
-		  foreach ($admins as $admin) {
-			 $securityIdentity = UserSecurityIdentity::fromAccount($admin);
-			 $acl->insertObjectAce($securityIdentity, MaskBuilder::MASK_OWNER);
-		  }
+		    $admins = $this->getDoctrine()
+                 ->getRepository('IcoUserBundle:User')
+                 ->findByRole('ROLE_ADMIN');
+            // Accès pour les admins
+            foreach ($admins as $admin) {
+                $securityIdentity = UserSecurityIdentity::fromAccount($admin);
+                $acl->insertObjectAce($securityIdentity, MaskBuilder::MASK_OWNER);
+            }
             $aclProvider->updateAcl($acl);
 
             $this->get('session')->getFlashBag()->add('success', 'L\'armée ' . $army->getName() . ' a été créée.');
@@ -102,6 +103,7 @@ class ArmyController extends Controller {
         return array(
             'breadcrumb' => array(
                 'Accueil' => 'ico',
+                'Outils Pathfinder' => '',
                 'Combats de masse' => 'ico_mass_fight',
                 'Armées' => 'ico_mass_fight_army',
                 'Nouvelle armée' => 'ico_mass_fight_army_new'
@@ -159,6 +161,7 @@ class ArmyController extends Controller {
         return array(
             'breadcrumb' => array(
                 'Accueil' => 'ico',
+                'Outils Pathfinder' => '',
                 'Combats de masse' => 'ico_mass_fight',
                 'Armées' => 'ico_mass_fight_army',
                 $army->getName() => ''
@@ -173,7 +176,8 @@ class ArmyController extends Controller {
     
     /**
      * @param array $commanderData
-     * @return \Ico\Bundle\MassFightBundle\Controller\Commander
+     * @return Commander
+     * @throws \Exception
      */
     private function createCommander(array $commanderData)
     {
@@ -196,14 +200,14 @@ class ArmyController extends Controller {
             $acl = $aclProvider->createAcl($objectIdentity);
             $securityIdentity = UserSecurityIdentity::fromAccount($user);
             $acl->insertObjectAce($securityIdentity, MaskBuilder::MASK_OWNER);
-		  $admins = $this->getDoctrine()
-			 ->getRepository('IcoUserBundle:User')
-			 ->findByRole('ROLE_ADMIN');
-		  // Accès pour les admins
-		  foreach ($admins as $admin) {
-			 $securityIdentity = UserSecurityIdentity::fromAccount($admin);
-			 $acl->insertObjectAce($securityIdentity, MaskBuilder::MASK_OWNER);
-		  }
+            $admins = $this->getDoctrine()
+                ->getRepository('IcoUserBundle:User')
+                ->findByRole('ROLE_ADMIN');
+            // Accès pour les admins
+            foreach ($admins as $admin) {
+                $securityIdentity = UserSecurityIdentity::fromAccount($admin);
+                $acl->insertObjectAce($securityIdentity, MaskBuilder::MASK_OWNER);
+            }
             $aclProvider->updateAcl($acl);
             
             return $commander;
@@ -227,6 +231,7 @@ class ArmyController extends Controller {
         return array(
             'breadcrumb' => array(
                 'Accueil' => 'ico',
+                'Outils Pathfinder' => '',
                 'Combats de masse' => 'ico_mass_fight',
                 'Armées' => 'ico_mass_fight_army',
                 $army->getName() => ''

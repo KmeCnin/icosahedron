@@ -49,7 +49,18 @@
             </div>
         </div>
         {{ form_row(form.tactics) }}
-        {{ form_row(form.commander) }}
+        <div class="form_row form-group col-xs-12 col-sm-12 col-md-12 col-lg-12">
+            {{ form_label(form.commander) }}
+            {{ form_errors(form.commander) }}
+            <div class="input-group">
+                {{ form_widget(form.commander) }}
+                <span id="edit-commander-link" class="input-group-btn">
+                    <button type="button" class="btn btn-default" onclick="window.location.href = Routing.generate('ico_mass_fight_commander_edit', {id:$('#army_commander').val(), slug: 'foo'});">
+                        <span class="fa fa-pencil"></span> Éditer
+                    </button>
+                </span>
+            </div>
+        </div>
         <div id="commanderForm" class="col-xs-12">
             <div class="well col-xs-12">
                 {% for name, inputCommander in form.newCommander %}
@@ -85,9 +96,11 @@
             {
                 if ($('#army_commander').val()) {
                     $('#commanderForm').hide();
+                    $('#edit-commander-link').show();
                     $('form[name=army]').attr('novalidate', 'novalidate');
                 } else {
                     $('#commanderForm').show();
+                    $('#edit-commander-link').hide();
                     $('form[name=army]').removeAttr('novalidate');
                 }
             }

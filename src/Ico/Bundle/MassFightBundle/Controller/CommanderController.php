@@ -27,6 +27,7 @@ class CommanderController extends Controller {
         return array(
             'breadcrumb' => array(
                 'Accueil' => 'ico',
+                'Outils Pathfinder' => '',
                 'Combats de masse' => 'ico_mass_fight_army',
                 'Commandants' => 'ico_mass_fight_commander',
             ),
@@ -84,6 +85,7 @@ class CommanderController extends Controller {
         return array(
             'breadcrumb' => array(
                 'Accueil' => 'ico',
+                'Outils Pathfinder' => '',
                 'Combats de masse' => 'ico_mass_fight',
                 'Commandants' => 'ico_mass_fight_commander',
                 'Nouveau commandant' => 'ico_mass_fight_commander_new'
@@ -128,6 +130,7 @@ class CommanderController extends Controller {
         return array(
             'breadcrumb' => array(
                 'Accueil' => 'ico',
+                'Outils Pathfinder' => '',
                 'Combats de masse' => 'ico_mass_fight',
                 'Commandants' => 'ico_mass_fight_commander',
                 $commander->getName() => ''
@@ -155,6 +158,7 @@ class CommanderController extends Controller {
         return array(
             'breadcrumb' => array(
                 'Accueil' => 'ico',
+                'Outils Pathfinder' => '',
                 'Combats de masse' => 'ico_mass_fight',
                 'Commandants' => 'ico_mass_fight_commander',
                 $army->getName() => ''
