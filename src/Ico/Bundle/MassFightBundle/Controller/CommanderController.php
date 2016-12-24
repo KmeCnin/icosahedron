@@ -124,7 +124,7 @@ class CommanderController extends Controller {
             $em->flush();
 
             $this->get('session')->getFlashBag()->add('success', 'Le commandant ' . $commander->getName() . ' a été modifié.');
-            return $this->redirect($this->generateUrl('ico_mass_fight_commander_view', array('id' => $commander->getId(), 'slug' => $commander->getSlug())));
+            return $this->redirect($this->generateUrl('ico_mass_fight_commander'));
         }
 
         return array(

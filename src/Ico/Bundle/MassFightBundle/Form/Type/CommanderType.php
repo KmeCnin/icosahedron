@@ -3,6 +3,8 @@
 namespace Ico\Bundle\MassFightBundle\Form\Type;
 
 use Ico\Bundle\AppBundle\Form\TypeTrait\ResponsiveFormTypeTrait;
+use Ico\Bundle\MassFightBundle\Entity\Benefit;
+use Symfony\Bridge\Doctrine\Form\Type\EntityType;
 use Symfony\Component\Form\AbstractType;
 use Symfony\Component\Form\Extension\Core\Type\CheckboxType;
 use Symfony\Component\Form\Extension\Core\Type\IntegerType;
@@ -48,6 +50,16 @@ class CommanderType extends AbstractType
                 'attr' => [
                     'formGroupClass' => self::$inputSmall,
                     'clearfix' => self::$visibilityAll,
+                ],
+            ))
+            ->add('benefits', EntityType::class, array(
+                'label' => 'Bienfaits',
+                'class' => Benefit::class,
+                'choice_label' => 'name',
+                'expanded' => false,
+                'multiple' => true,
+                'attr' => [
+                    'formGroupClass' => self::$inputLarge,
                 ],
             ))
         ;

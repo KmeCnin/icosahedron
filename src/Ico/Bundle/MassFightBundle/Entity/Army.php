@@ -234,7 +234,7 @@ class Army
     /**
      * Set createdBy
      *
-     * @param \Ico\Bundle\UserBundle\User $createdBy
+     * @param User $createdBy
      * @return Campaign
      */
     public function setCreatedBy(User $createdBy)
@@ -247,7 +247,7 @@ class Army
     /**
      * Get createdBy
      *
-     * @return \Ico\Bundle\UserBundle\User 
+     * @return User
      */
     public function getCreatedBy()
     {
@@ -491,7 +491,7 @@ class Army
             case 13:
                 return 4;
             default:
-                5;
+                return 5;
         }
     }
     
@@ -507,14 +507,6 @@ class Army
     public function setCommander(Commander $commander) {
         $this->commander = $commander;
         return $this;
-    }
-    
-    public function getMoral()
-    {
-        return min(4, 
-            $this->getCommander()->getCha() +
-            floor($this->getCommander()->getSoldierSkill() / 5)
-        );
     }
     
     public function getTactics() {

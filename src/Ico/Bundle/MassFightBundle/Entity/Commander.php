@@ -59,6 +59,13 @@ class Commander
      * @ORM\Column(type="integer")
      */
     private $soldierSkill;
+
+    /**
+     * @var Benefit[]
+     *
+     * @ORM\ManyToMany(targetEntity="Benefit")
+     */
+    private $benefits;
     
     /**
      * @Gedmo\Slug(fields={"name"})
@@ -260,5 +267,29 @@ class Commander
             $this->getCha() +
             $this->getPrestigeFeat() ? 3 : 0
         ;
+    }
+
+    public function getBonusMoral()
+    {
+        return $this->cha + floor($this->soldierSkill/5);
+    }
+
+    /**
+     * @return Benefit[]
+     */
+    public function getBenefits()
+    {
+        return $this->benefits;
+    }
+
+    /**
+     * @param Benefit[] $benefits
+     * @return Commander
+     */
+    public function setBenefits($benefits)
+    {
+        $this->benefits = $benefits;
+
+        return $this;
     }
 }

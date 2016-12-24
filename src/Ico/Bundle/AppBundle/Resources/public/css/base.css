@@ -107,10 +107,14 @@ a.disabled, a.disabled:hover {
 .well form {
     margin: 0;
 }
-legend button {
+legend > .btn,
+.panel-heading > .btn {
     float: right;
-    position: relative;
-    top: -7px;
+    position: relative !important;
+    top: -7px !important;
+}
+.panel-heading > .btn {
+    right: -12px;
 }
 .btn-primary,
 .btn-primary:hover,
