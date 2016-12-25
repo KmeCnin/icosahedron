@@ -4,6 +4,7 @@ namespace Ico\Bundle\MassFightBundle\Form\Type;
 
 use Ico\Bundle\AppBundle\Form\TypeTrait\ResponsiveFormTypeTrait;
 use Ico\Bundle\MassFightBundle\Entity\Benefit;
+use Ico\Bundle\MassFightBundle\Repository\BenefitRepository;
 use Symfony\Bridge\Doctrine\Form\Type\EntityType;
 use Symfony\Component\Form\AbstractType;
 use Symfony\Component\Form\Extension\Core\Type\CheckboxType;
@@ -55,9 +56,14 @@ class CommanderType extends AbstractType
             ->add('benefits', EntityType::class, array(
                 'label' => 'Bienfaits',
                 'class' => Benefit::class,
+                'query_builder' => function (BenefitRepository $repo) {
+                    return $repo->createQueryBuilder('b')
+                        ->where('b.isAllele = false');
+                },
                 'choice_label' => 'name',
                 'expanded' => false,
                 'multiple' => true,
+                'required' => false,
                 'attr' => [
                     'formGroupClass' => self::$inputLarge,
                 ],

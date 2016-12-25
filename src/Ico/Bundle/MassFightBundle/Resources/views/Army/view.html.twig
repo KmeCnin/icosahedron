@@ -100,7 +100,7 @@
                 <fieldset class="form-filters">
                     <legend>
                         {{ army.commander.name }}
-                        <small class="text-muted">Prestige {{ army.commander.prestigeValue }}</small>
+                        <small class="text-muted">Prestige <span id="prestige"></span></small>
                         <input id="commanderInput" type="hidden" checked="checked" />
                         <button
                                 id="commanderOn"
@@ -119,7 +119,8 @@
                             <div class="panel panel-default" data-benefit="{{ benefit.id }}">
                                 <div class="panel-heading">
                                     {{ benefit.name }}
-                                    <input id="benefitInput{{ benefit.id }}" type="hidden" checked="checked" class="benefitInput" />
+                                    <small class="mods text-muted"></small>
+                                    <input id="benefitInput{{ benefit.id }}" type="hidden" value="true" class="benefitInput" />
                                     <button id="benefitOn{{ benefit.id }}" type="button" class="btn btn-primary benefitOn">
                                         <span class="fa fa-check"></span> Actif
                                     </button>
@@ -149,6 +150,11 @@
         $(document).ready(function () {
             var mappedTactics = [];
             var mappedBenefits = [];
+            var mappedBenefitsNames = [];
+            var mappedBenefitsAlleles = [];
+            var mappedModsAsString = [];
+            var mappedBenefitsMods;
+            var commanderPrestige = parseInt({{ army.commander.prestigeValue }});
             {% autoescape false %}
 
             {% for tactic in army.tactics %}
@@ -157,6 +163,16 @@
 
             {% for benefit in army.commander.benefits %}
             mappedBenefits[{{ benefit.id }}] = {{ benefit.mappedMods|json_encode() }};
+            mappedBenefitsNames[{{ benefit.id }}] = '{{ benefit.name }}';
+            mappedModsAsString[{{ benefit.id }}] = '{{ benefit.modsAsString }}';
+            {% endfor %}
+
+            {% for benefit in benefitsAlleles %}
+            mappedBenefitsAlleles['{{ benefit.name }}'] = {
+                'mods': {{ benefit.mappedMods|json_encode() }},
+                'modsAsString': '{{ benefit.modsAsString }}',
+                'prestige': {{ benefit.minPrestige }}
+            };
             {% endfor %}
 
             {% endautoescape %}
@@ -169,8 +185,8 @@
                 initTactic();
                 initCommander();
                 updateTotals();
-                initHP();   
-                updateHpBar();  
+                initHP();
+                updateHpBar();
             }
 
             function initCommander()
@@ -178,10 +194,14 @@
                 var input = $('#commanderInput');
                 var buttonOn = $('#commanderOn');
                 var buttonOff = $('#commanderOff');
+                $('#prestige').html(commanderPrestige);
+                updateBenefitsMods();
 
                 enableAllBenefits();
+                updateBenefits();
                 $('[data-benefit]').click(function () {
                     toggleBenefit($(this).attr('data-benefit'));
+                    updateBenefits();
                 });
 
                 buttonOn.click(function () {
@@ -189,14 +209,14 @@
                     buttonOn.hide();
                     buttonOff.show();
                     disableAllBenefits();
-                    updateTotals();
+                    updateBenefits();
                 });
                 buttonOff.click(function () {
                     input.prop('checked', true);
                     buttonOff.hide();
                     buttonOn.show();
                     enableAllBenefits();
-                    updateTotals();
+                    updateBenefits();
                 });
             }
 
@@ -222,7 +242,7 @@
                     .parent()
                     .find('.benefitOn').show()
                     .parent()
-                    .find('.benefitInput').prop('checked', true)
+                    .find('.benefitInput').val(1)
                 ;
             }
 
@@ -234,29 +254,81 @@
                     .parent()
                     .find('.benefitOff').show()
                     .parent()
-                    .find('.benefitInput').prop('checked', false)
+                    .find('.benefitInput').val(0)
                 ;
             }
 
             function toggleBenefit(id)
             {
                 var benefit = $('[data-benefit='+id+']');
-                benefit
-                    .toggleClass('text-muted')
-                    .find('.benefitOn').toggle()
-                    .parent()
-                    .find('.benefitOff').toggle()
-                ;
-                benefit.find('.benefitInput').prop(
-                    'checked',
-                    !benefit.find('.benefitInput').prop('checked')
+                benefit.toggleClass('text-muted');
+                benefit.find('.benefitOn').toggle();
+                benefit.find('.benefitOff').toggle();
+                benefit.find('.benefitInput').val(
+                    benefit.find('.benefitInput').val() == 1 ? 0 : 1
                 );
+                updateBenefits();
             }
 
             function updateBenefits()
             {
+                mappedBenefitsMods = {
+                    'fp': 0,
+                    'ma': 0,
+                    'damages': 0,
+                    'vd': 0,
+                    'moral': 0,
+                    'speed': 0,
+                    'conso': 0
+                };
                 $('[data-benefit]').each(function () {
+                    if ($(this).find('.benefitInput').val() == 1) {
+                        var id = $(this).attr('data-benefit');
+                        var benefit = getAllele(id);
+                        for (var mod in benefit) {
+                            if (benefit.hasOwnProperty(mod)) {
+                                mappedBenefitsMods[mod] += benefit[mod];
+                            }
+                        }
+                    }
                 });
+                updateTotals();
+            }
+
+            function updateBenefitsMods()
+            {
+                $('[data-benefit]').each(function () {
+                    $(this)
+                        .find('.mods')
+                        .html(getAlleleAsString($(this).attr('data-benefit')))
+                    ;
+                });
+            }
+
+            function getAllele(id)
+            {
+                var benefit = mappedBenefits[id];
+                var name = mappedBenefitsNames[id];
+                if (typeof mappedBenefitsAlleles[name] !== 'undefined') {
+                    var allele = mappedBenefitsAlleles[name];
+                    if (commanderPrestige >= allele.prestige) {
+                        benefit = allele.mods;
+                    }
+                }
+                return benefit;
+            }
+
+            function getAlleleAsString(id)
+            {
+                var benefit = mappedModsAsString[id];
+                var name = mappedBenefitsNames[id];
+                if (typeof mappedBenefitsAlleles[name] !== 'undefined') {
+                    var allele = mappedBenefitsAlleles[name];
+                    if (commanderPrestige >= allele.prestige) {
+                        benefit = allele.modsAsString;
+                    }
+                }
+                return benefit;
             }
 
             function initHP()
@@ -282,7 +354,8 @@
                 $('#total-MA').html(
                     {{ army.baseMA }} + 
                     parseInt($('#strategy').val()) +
-                    parseInt(mappedTactics[$('#tactic').val()]['ma'])
+                    parseInt(mappedTactics[$('#tactic').val()]['ma']) +
+                    parseInt(mappedBenefitsMods['ma'])
                 );
             }
 
@@ -290,13 +363,15 @@
                 $('#total-VD').html(
                     {{ army.baseVD }} + 
                     parseInt($('#strategy').val()) * -1 +
-                    parseInt(mappedTactics[$('#tactic').val()]['vd'])
+                    parseInt(mappedTactics[$('#tactic').val()]['vd']) +
+                        parseInt(mappedBenefitsMods['vd'])
                 );
             }
 
             function updateTotalDamages() {
                 $('#total-damages').html(
-                    parseInt(mappedTactics[$('#tactic').val()]['damages'])
+                    parseInt(mappedTactics[$('#tactic').val()]['damages']) +
+                    parseInt(mappedBenefitsMods['damages'])
                 );
             }
 
@@ -305,6 +380,8 @@
                 if ($('#commanderInput').prop('checked')) {
                     moral += {{ army.commander.bonusMoral }};
                 }
+                moral += parseInt(mappedBenefitsMods['moral']);
+
                 if (moral < -4) {
                     moral = -4;
                 }
@@ -317,14 +394,16 @@
             function updateTotalSpeed() {
                 $('#total-Speed').html(
                     {{ army.baseArmySpeed }} +
-                    parseInt(mappedTactics[$('#tactic').val()]['speed'])
+                    parseInt(mappedTactics[$('#tactic').val()]['speed']) +
+                        parseInt(mappedBenefitsMods['speed'])
                 );
             }
 
             function updateTotalConso() {
                 $('#total-Conso').html(
                     {{ army.basePC }} +
-                    parseInt(mappedTactics[$('#tactic').val()]['conso'])
+                    parseInt(mappedTactics[$('#tactic').val()]['conso']) +
+                        parseInt(mappedBenefitsMods['conso'])
                 );
             }
 

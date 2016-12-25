@@ -237,8 +237,11 @@ class ArmyController extends Controller {
                 $army->getName() => ''
             ),
             'title' => $army->getName(),
-            'subtitle' => 'Statistiques',
-            'army' => $army
+            'subtitle' => 'Statistiques de combat',
+            'army' => $army,
+            'benefitsAlleles' => $this->getDoctrine()
+                ->getRepository('IcoMassFightBundle:Benefit')
+                ->findAlleles(),
         );
     }
 

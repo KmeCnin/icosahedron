@@ -27,36 +27,70 @@ class Benefits implements FixtureInterface, OrderedFixtureInterface, ContainerAw
     public function load(ObjectManager $manager) {
         $benefit1 = new Benefit();
         $benefit1->setName('Attaques éclair');
-        $benefit1->setDescription('Le commandant a entraîné son armée à
-lancer de rapides attaques suivies d’une retraite. Une fois que l’armée a lancé une attaque lors de la phase à distance ou au corps à corps, elle bénéficie d’un bonus de +2 au test
-de moral opposé si elle utilise la tactique battre en retraite. Pour choisir ce don, le commandant doit avoir une valeur de prestige de 5 ou plus. À partir de 10, le bonus passe à +4.');
+        $benefit1->setDescription('Le commandant a entraîné son armée à lancer de rapides attaques suivies d’une retraite. Une fois que l’armée a lancé une attaque lors de la phase à distance ou au corps à corps, elle bénéficie d’un bonus de +2 au test de moral opposé si elle utilise la tactique battre en retraite. Pour choisir ce don, le commandant doit avoir une valeur de prestige de 5 ou plus. À partir de 10, le bonus passe à +4.');
         $benefit1->setMinPrestige(5);
+        $benefit1->setMoral(2);
         $manager->persist($benefit1);
-        
+
+        $benefit1b = new Benefit();
+        $benefit1b->setName('Attaques éclair');
+        $benefit1b->setDescription('Le commandant a entraîné son armée à lancer de rapides attaques suivies d’une retraite. Une fois que l’armée a lancé une attaque lors de la phase à distance ou au corps à corps, elle bénéficie d’un bonus de +2 au test de moral opposé si elle utilise la tactique battre en retraite. Pour choisir ce don, le commandant doit avoir une valeur de prestige de 5 ou plus. À partir de 10, le bonus passe à +4.');
+        $benefit1b->setMinPrestige(10);
+        $benefit1b->setMoral(4);
+        $benefit1b->setIsAllele(true);
+        $manager->persist($benefit1b);
+
         $benefit3 = new Benefit();
         $benefit3->setName('Blessé mais pas brisé');
-        $benefit3->setDescription('Le commandant inspire tant son armée qu’elle donne le meilleur d’elle-même quand la situation devient désespérée. Quand ses points de vie sont réduits de moitié ou plus, elle gagne un bonus de +1 aux tests d’attaque.
-Pour choisir ce bienfait, le commandant doit avoir un prestige de 4 ou plus. À partir de 10 ou plus, le bonus passe à +2.');
-        $benefit1->setMinPrestige(4);
+        $benefit3->setDescription('Le commandant inspire tant son armée qu’elle donne le meilleur d’elle-même quand la situation devient désespérée. Quand ses points de vie sont réduits de moitié ou plus, elle gagne un bonus de +1 aux tests d’attaque. Pour choisir ce bienfait, le commandant doit avoir un prestige de 4 ou plus. À partir de 10 ou plus, le bonus passe à +2.');
+        $benefit3->setMinPrestige(4);
+        $benefit3->setMa(1);
         $manager->persist($benefit3);
-        
+
+        $benefit3b = new Benefit();
+        $benefit3b->setName('Blessé mais pas brisé');
+        $benefit3b->setDescription('Le commandant inspire tant son armée qu’elle donne le meilleur d’elle-même quand la situation devient désespérée. Quand ses points de vie sont réduits de moitié ou plus, elle gagne un bonus de +1 aux tests d’attaque. Pour choisir ce bienfait, le commandant doit avoir un prestige de 4 ou plus. À partir de 10 ou plus, le bonus passe à +2.');
+        $benefit3b->setMinPrestige(10);
+        $benefit3b->setMa(2);
+        $benefit3b->setIsAllele(true);
+        $manager->persist($benefit3b);
+
         $benefit4 = new Benefit();
         $benefit4->setName('Flexibilité tactique');
-        $benefit4->setDescription('Le commandant a entraîné son armée à recevoir différents ordres au cours d’une même bataille. L’armée gagne un bonus de +5 aux tests de moral pour
-changer de tactique en cours d’affrontement. Pour choisir ce don, le commandant doit avoir une valeur de prestige de 6 ou plus. À partir de 12, le bonus passe à +10.');
-        $benefit1->setMinPrestige(6);
+        $benefit4->setDescription('Le commandant a entraîné son armée à recevoir différents ordres au cours d’une même bataille. L’armée gagne un bonus de +5 aux tests de moral pour changer de tactique en cours d’affrontement. Pour choisir ce don, le commandant doit avoir une valeur de prestige de 6 ou plus. À partir de 12, le bonus passe à +10.');
+        $benefit4->setMinPrestige(6);
+        $benefit4->setMoral(5);
         $manager->persist($benefit4);
-        
+
+        $benefit4b = new Benefit();
+        $benefit4b->setName('Flexibilité tactique');
+        $benefit4b->setDescription('Le commandant a entraîné son armée à recevoir différents ordres au cours d’une même bataille. L’armée gagne un bonus de +5 aux tests de moral pour changer de tactique en cours d’affrontement. Pour choisir ce don, le commandant doit avoir une valeur de prestige de 6 ou plus. À partir de 12, le bonus passe à +10.');
+        $benefit4b->setMinPrestige(12);
+        $benefit4b->setMoral(10);
+        $benefit4b->setIsAllele(true);
+        $manager->persist($benefit4b);
+
         $benefit5 = new Benefit();
         $benefit5->setName('Impitoyable');
         $benefit5->setDescription('Le commandant encourage son armée à se montrer impitoyable et à n’épargner aucun blessé. Elle gagne un bonus de +1 aux tests de moral pour empêcher une armée adverse de battre en retraite et au dernier test d’attaque contre une armée en déroute ou une armée qui utilise la tactique battre en retraite.');
+        $benefit5->setMoral(1);
+        $benefit5->setMa(1);
         $manager->persist($benefit5);
-        
+
         $benefit6 = new Benefit();
         $benefit6->setName('Loyauté');
         $benefit6->setDescription('Le commandant inspire une grande loyauté à son armée, qui gagne un bonus de +2 aux tests de moral. Pour choisir ce don, le commandant doit avoir une valeur de prestige de 6 ou plus. À partir de 12, le bonus passe à +4.');
-        $benefit1->setMinPrestige(6);
+        $benefit6->setMinPrestige(6);
+        $benefit6->setMoral(2);
         $manager->persist($benefit6);
+
+        $benefit6b = new Benefit();
+        $benefit6b->setName('Loyauté');
+        $benefit6b->setDescription('Le commandant inspire une grande loyauté à son armée, qui gagne un bonus de +2 aux tests de moral. Pour choisir ce don, le commandant doit avoir une valeur de prestige de 6 ou plus. À partir de 12, le bonus passe à +4.');
+        $benefit6b->setMinPrestige(12);
+        $benefit6b->setMoral(4);
+        $benefit6b->setIsAllele(true);
+        $manager->persist($benefit6b);
         
         $benefit7 = new Benefit();
         $benefit7->setName('Se débrouiller sur place');
@@ -66,14 +100,14 @@ changer de tactique en cours d’affrontement. Pour choisir ce don, le commandan
         $benefit8 = new Benefit();
         $benefit8->setName('Tactique défensive');
         $benefit8->setDescription('Le commandant a un don pour la défense. Augmentez la VDéf de l’armée de 2. Le commandant doit avoir une valeur de prestige de 5 ou plus pour choisir ce bienfait.');
-        $benefit1->setMinPrestige(5);
+        $benefit8->setMinPrestige(5);
+        $benefit8->setVd(2);
         $manager->persist($benefit8);
         
-        $benefit9 = new Benefit();
-        $benefit9->setName('Tactique supplémentaire');
-        $benefit9->setDescription('Choisissez une tactique. Le commandant la connaît toujours et son armée peut l’utiliser même si elle ne la connaît pas. Vous pouvez choisir ce bienfait
-à plusieurs reprises mais vous devez choisir une nouvelle tactique à chaque fois.');
-        $manager->persist($benefit9);
+//        $benefit9 = new Benefit();
+//        $benefit9->setName('Tactique supplémentaire');
+//        $benefit9->setDescription('Choisissez une tactique. Le commandant la connaît toujours et son armée peut l’utiliser même si elle ne la connaît pas. Vous pouvez choisir ce bienfait à plusieurs reprises mais vous devez choisir une nouvelle tactique à chaque fois.');
+//        $manager->persist($benefit9);
         
         $benefit10 = new Benefit();
         $benefit10->setName('Tenir la ligne');
@@ -83,11 +117,13 @@ changer de tactique en cours d’affrontement. Pour choisir ce don, le commandan
         $benefit11 = new Benefit();
         $benefit11->setName('Tireur d’élite');
         $benefit11->setDescription('Le commandant a entraîné son armée à améliorer la précision de ses attaques à distance. Elle gagne un bonus de +2 aux tests d’attaque contre les armées retranchées derrière des fortifications. Cet avantage n’a aucun effet sur une armée incapable d’attaquer à distance.');
+        $benefit11->setMa(2);
         $manager->persist($benefit11);
 
         $benefit12 = new Benefit();
         $benefit12->setName('Tri des patients');
         $benefit12->setDescription('Le commandant recourt à des méthodes magiques, alchimiques ou traditionnelles pour entraîner son armée à prodiguer des soins d’urgence. Une fois par bataille, l’armée peut subir un malus de –4 au test d’attaque d’une phase à distance ou au corps à corps pour soigner un montant de dégâts égal à la moitié de son FPA. Si elle possède la ressource potions de soins, elle bénéficie aussi des soins associés à ce don quand elle utilise ses potions (sans subir de malus au test d’attaque).');
+        $benefit12->setMa(-4);
         $manager->persist($benefit12);
 
 	   $manager->flush();
