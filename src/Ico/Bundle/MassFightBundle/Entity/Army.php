@@ -120,6 +120,13 @@ class Army
      * @ORM\ManyToMany(targetEntity="Tactic")
      */
     private $tactics;
+
+    /**
+     * @var string JSON
+     *
+     * @ORM\Column(type="json_array")
+     */
+    private $combatStats;
     
     /**
      * @Gedmo\Slug(fields={"name"})
@@ -150,6 +157,16 @@ class Army
         $this->lifeDicesType = self::D10;
         $this->fpType = 4; // = '1'
         $this->speed = 6; // = 9m
+        $this->combatStats = $this->getInitCombatStats();
+    }
+
+    public function getInitCombatStats()
+    {
+        return [
+            'hp' => $this->getBaseHP(),
+            'strategy' => '0',
+            'tactic' => 12,
+        ];
     }
 
     /**
@@ -515,6 +532,25 @@ class Army
 
     public function setTactics(array $tactics) {
         $this->tactics = $tactics;
+        return $this;
+    }
+
+    /**
+     * @return string
+     */
+    public function getCombatStats()
+    {
+        return $this->combatStats;
+    }
+
+    /**
+     * @param string $combatStats
+     * @return Army
+     */
+    public function setCombatStats($combatStats)
+    {
+        $this->combatStats = $combatStats;
+
         return $this;
     }
 }

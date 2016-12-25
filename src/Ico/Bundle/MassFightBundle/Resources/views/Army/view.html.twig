@@ -24,6 +24,7 @@
                                 style="width:60px"
                                 onChange="updateHpBar();"
                                 min="0"
+                                value="{{ army.combatStats.hp }}"
                             />
                             <span class="input-group-addon" style="width: auto;">/ <span id="maxHP"></span></span>
                         </div>
@@ -76,23 +77,42 @@
         <div class="col-xs-12 col-sm-6">
             <label for="strategy">Stratégie</label>
             <select id="strategy" class="form-control">
-                <option value="-4">Défensive (+4 VDéf/-4 MA)</option>
-                <option value="-2">Prudente (+2 VDéf/-2 MA)</option>
-                <option value="0" selected>Standard</option>
-                <option value="2">Agressive (-2 VDéf/+2 MA)</option>
-                <option value="4">Téméraire (-4 VDéf/+4 MA)</option>
+                <option value="-4" {% if army.combatStats.strategy == '-4' %}selected{% endif %}>Défensive (+4 VDéf/-4 MA)</option>
+                <option value="-2" {% if army.combatStats.strategy == '-2' %}selected{% endif %}>Prudente (+2 VDéf/-2 MA)</option>
+                <option value="0" {% if army.combatStats.strategy == '0' %}selected{% endif %}>Standard</option>
+                <option value="2" {% if army.combatStats.strategy == '2' %}selected{% endif %}>Agressive (-2 VDéf/+2 MA)</option>
+                <option value="4" {% if army.combatStats.strategy == '4' %}selected{% endif %}>Téméraire (-4 VDéf/+4 MA)</option>
             </select>
         </div>
         <div class="col-xs-12 col-sm-6">
             <label for="tactic">Tactique</label>
             <select id="tactic" class="form-control">
                 {% for tactic in army.tactics %}
-                    <option value="{{ tactic.id }}" {% if tactic.name == 'Standard' %}selected{% endif %}>{{ tactic }}</option>
+                    <option value="{{ tactic.id }}" {% if army.combatStats.tactic == tactic.id %}selected{% endif %}>{{ tactic }}</option>
                 {% endfor %}
             </select>
         </div>
         <div class="col-xs-12">
             <p id="tactic-description" class="help"></p>
+        </div>
+        <div class="col-xs-12">
+            <label>Bonus</label>
+            <table>
+                <thead>
+                    <tr>
+                        <th>Bonus</th>
+                        <th>FP</th>
+                        <th>MA</th>
+                        <th>Dégâts</th>
+                        <th>VDéf</th>
+                        <th>Moral</th>
+                        <th>Vitesse</th>
+                        <th>Conso</th>
+                    </tr>
+                </thead>
+                <tbody>
+                </tbody>
+            </table>
         </div>
         <div class="col-xs-12">
             <label>Commandant</label>
@@ -167,6 +187,11 @@
             mappedModsAsString[{{ benefit.id }}] = '{{ benefit.modsAsString }}';
             {% endfor %}
 
+            disableAllBenefits();
+            {% for benefitId in army.combatStats.benefits %}
+            enableBenefit({{ benefitId }});
+            {% endfor %}
+
             {% for benefit in benefitsAlleles %}
             mappedBenefitsAlleles['{{ benefit.name }}'] = {
                 'mods': {{ benefit.mappedMods|json_encode() }},
@@ -197,7 +222,6 @@
                 $('#prestige').html(commanderPrestige);
                 updateBenefitsMods();
 
-                enableAllBenefits();
                 updateBenefits();
                 $('[data-benefit]').click(function () {
                     toggleBenefit($(this).attr('data-benefit'));
@@ -244,6 +268,7 @@
                     .parent()
                     .find('.benefitInput').val(1)
                 ;
+                snapshotCombatStats();
             }
 
             function disableBenefit(id)
@@ -335,9 +360,6 @@
             {
                 var maxHp = $('#maxHP');
                 maxHp.html({{ army.baseHP }});
-                $('#currentHP')
-                    .val(maxHp.html())
-                    .attr('max', maxHp.html());
             }
 
             function updateTotals()
@@ -348,6 +370,7 @@
                 updateTotalMoral();
                 updateTotalSpeed();
                 updateTotalConso();
+                snapshotCombatStats();
             }
 
             function updateTotalMA() {
@@ -382,12 +405,12 @@
                 }
                 moral += parseInt(mappedBenefitsMods['moral']);
 
-                if (moral < -4) {
-                    moral = -4;
-                }
-                if (moral > 4) {
-                    moral = 4;
-                }
+//                if (moral < -4) {
+//                    moral = -4;
+//                }
+//                if (moral > 4) {
+//                    moral = 4;
+//                }
                 $('#total-Moral').html(moral);
             }
 
@@ -412,6 +435,7 @@
                 $('#strategy').change(function () {
                     updateTotalMA();
                     updateTotalVD();
+                    snapshotCombatStats();
                 });
             }
 
@@ -451,6 +475,30 @@
                     .removeClass('progress-bar-warning')
                     .addClass('progress-bar-success');
             }
+            snapshotCombatStats();
+        }
+
+        function snapshotCombatStats()
+        {
+            var benefits = [];
+            $('[data-benefit]').each(function () {
+                if ($(this).find('.benefitInput').val() == 1) {
+                    benefits.push(parseInt($(this).attr('data-benefit')));
+                }
+            });
+
+            $.post(
+                Routing.generate('ico_mass_fight_army_combat_stats_push'),
+                {
+                    'armyId': {{ army.id }},
+                    'combatStats': {
+                        'hp': $('#currentHP').val(),
+                        'strategy': $('#strategy').val(),
+                        'tactic': $('#tactic').val(),
+                        'benefits': benefits
+                    }
+                }
+            );
         }
     </script>
 {% endblock %}

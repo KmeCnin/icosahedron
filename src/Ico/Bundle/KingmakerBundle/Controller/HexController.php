@@ -203,5 +203,4 @@ class HexController extends Controller {
             echo 'Exception reçue : ', $e->getMessage(), "\n";
         }
     }
-
 }
