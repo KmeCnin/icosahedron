@@ -121,17 +121,18 @@
                     <legend>
                         {{ army.commander.name }}
                         <small class="text-muted">Prestige <span id="prestige"></span></small>
-                        <input id="commanderInput" type="hidden" checked="checked" />
+                        <input id="commanderInput" type="hidden" value="{{ army.combatStats.commander }}" />
                         <button
                                 id="commanderOn"
                                 type="button"
                                 class="btn btn-primary"
+                                {% if not army.combatStats.commander %}style="display:none"{% endif %}
                         ><span class="fa fa-check"></span> Présent dans l'armée</button>
                         <button
                                 id="commanderOff"
                                 type="button"
                                 class="btn btn-warning"
-                                style="display:none;"
+                                {% if army.combatStats.commander %}style="display:none"{% endif %}
                         ><span class="fa fa-times"></span> Absent de l'armée</button>
                     </legend>
                     <div class="panel-body">
@@ -140,7 +141,7 @@
                                 <div class="panel-heading">
                                     {{ benefit.name }}
                                     <small class="mods text-muted"></small>
-                                    <input id="benefitInput{{ benefit.id }}" type="hidden" value="true" class="benefitInput" />
+                                    <input id="benefitInput{{ benefit.id }}" type="hidden" class="benefitInput" />
                                     <button id="benefitOn{{ benefit.id }}" type="button" class="btn btn-primary benefitOn">
                                         <span class="fa fa-check"></span> Actif
                                     </button>
@@ -188,9 +189,11 @@
             {% endfor %}
 
             disableAllBenefits();
-            {% for benefitId in army.combatStats.benefits %}
-            enableBenefit({{ benefitId }});
-            {% endfor %}
+            {% if army.combatStats.commander %}
+                {% for benefitId in army.combatStats.benefits %}
+                enableBenefit({{ benefitId }});
+                {% endfor %}
+            {% endif %}
 
             {% for benefit in benefitsAlleles %}
             mappedBenefitsAlleles['{{ benefit.name }}'] = {
@@ -229,14 +232,14 @@
                 });
 
                 buttonOn.click(function () {
-                    input.prop('checked', false);
+                    input.val(0);
                     buttonOn.hide();
                     buttonOff.show();
                     disableAllBenefits();
                     updateBenefits();
                 });
                 buttonOff.click(function () {
-                    input.prop('checked', true);
+                    input.val(1);
                     buttonOff.hide();
                     buttonOn.show();
                     enableAllBenefits();
@@ -268,7 +271,6 @@
                     .parent()
                     .find('.benefitInput').val(1)
                 ;
-                snapshotCombatStats();
             }
 
             function disableBenefit(id)
@@ -400,7 +402,7 @@
 
             function updateTotalMoral() {
                 var moral = parseInt(mappedTactics[$('#tactic').val()]['moral']);
-                if ($('#commanderInput').prop('checked')) {
+                if ($('#commanderInput').val() == 1) {
                     moral += {{ army.commander.bonusMoral }};
                 }
                 moral += parseInt(mappedBenefitsMods['moral']);
@@ -495,6 +497,7 @@
                         'hp': $('#currentHP').val(),
                         'strategy': $('#strategy').val(),
                         'tactic': $('#tactic').val(),
+                        'commander': $('#commanderInput').val(),
                         'benefits': benefits
                     }
                 }
