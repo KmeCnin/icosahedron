@@ -227,7 +227,7 @@
         {% endfor %}
 
         disableAllBenefits();
-        {% if army.combatStats.commander %}
+        {% if army.combatStats.commander and army.combatStats.benefits is defined %}
         {% for benefitId in army.combatStats.benefits %}
         enableBenefit({{ benefitId }});
         {% endfor %}
