@@ -30,7 +30,7 @@
                         </div>
                     </td>
                     <td>
-                        <ul class="nav nav-pills pull-right">
+                        <ul class="nav nav-pills pull-right" data-toggle="popover" title="Facteur de puissance d'armée" data-content="" data-container="body">
                             <li class="active"><a class="nolink">FPA <span class="badge badge-success" id="total-fpa">{{ army.fpaValue }}</span></a></li>
                         </ul>
                     </td>
@@ -104,13 +104,14 @@
                         <th>Attribut</th>
                         <th>Modificateur</th>
                         <th>Description</th>
-                        <th><button type="button" class="btn btn-default" onclick="addNewBonus();"><span class="fa fa-plus"></span></button></th>
+                        <th></th>
+                        <th><button type="button" class="btn btn-default" onclick="addNewBonus();"><span class="fa fa-plus"></span> Ajouter ligne</button></th>
                     </tr>
                 </thead>
                 <tbody id="bonuses">
                     {% if army.combatStats.bonuses is defined %}
-                    {% for bonus in army.combatStats.bonuses %}
-                        <tr class="bonus">
+                    {% for index, bonus in army.combatStats.bonuses %}
+                        <tr class="bonus" data-bonus="{{ index+1 }}">
                             <td>
                                 <input type="text" class="form-control" name="name" value="{{ bonus.name }}">
                             </td>
@@ -130,11 +131,20 @@
                                 <input name="mod" type="number" class="form-control" value="{{ bonus.mod }}">
                             </td>
                             <td>
-                                <input name="desc" type="text" class="form-control" value="{{ bonus.desc }}">
+                                <input name="desc" type="text" class="form-control" value="{{ bonus.desc }}" style="min-width: 300px;">
                             </td>
                             <td>
-                                <button type="button" class="btn btn-default" onclick="removeBonus(this);">
-                                    <span class="fa fa-minus"></span>
+                                <input name="active" id="bonusInput{{ bonus.id }}" type="hidden" class="bonusInput" value="{{ bonus.active }}"/>
+                                <button id="bonusOn{{ bonus.id }}" type="button" class="btn btn-primary bonusOn" {% if bonus.active == 0 %}style="display: none;"{% endif %}>
+                                    <span class="fa fa-check"></span> Actif
+                                </button>
+                                <button id="bonusOff{{ bonus.id }}" type="button" class="btn btn-default bonusOff" {% if bonus.active == 1 %}style="display: none;"{% endif %}>
+                                    <span class="fa fa-times"></span> Inactif
+                                </button>
+                            </td>
+                            <td>
+                                <button type="button" class="btn btn-warning bonus-delete" onclick="removeBonus(this);">
+                                    <span class="fa fa-minus"></span> Supprimer
                                 </button>
                             </td>
                         </tr>
@@ -149,7 +159,7 @@
                 <fieldset class="form-filters">
                     <legend>
                         {{ army.commander.name }}
-                        <small class="text-muted">Prestige <span id="total-prestige"></span></small>
+                        <small class="text-muted" data-toggle="popover" title="Prestige" data-content="" data-container="body">Prestige <span id="total-prestige"></span></small>
                         <input id="commanderInput" type="hidden" value="{{ army.combatStats.commander }}" />
                         <button
                                 id="commanderOn"
@@ -328,6 +338,19 @@
             updateBenefits();
         }
 
+        function toggleBonus(id)
+        {
+            var bonus = $('[data-bonus='+id+']');
+            bonus.toggleClass('text-muted');
+            bonus.find('.bonusOn').toggle();
+            bonus.find('.bonusOff').toggle();
+            bonus.find('.bonusInput').val(
+                bonus.find('.bonusInput').val() == 1 ? 0 : 1
+            );
+
+            updateTotals();
+        }
+
         function updateBenefits()
         {
             mappedBenefitsMods = {
@@ -437,7 +460,9 @@
 
             var bonuses = 0;
             $('.bonus [name=attribute]').each(function () {
-                if ($(this).val() == 'ma') {
+                if ($(this).val() == 'ma' &&
+                    $(this).closest('.bonus').find('[name=active]').val() == 1
+                ) {
                     var mod = parseInt($(this).closest('.bonus').find('[name=mod]').val());
                     var label = $(this).closest('.bonus').find('[name=name]').val();
 
@@ -491,7 +516,9 @@
 
             var bonuses = 0;
             $('.bonus [name=attribute]').each(function () {
-                if ($(this).val() == 'vd') {
+                if ($(this).val() == 'vd' &&
+                    $(this).closest('.bonus').find('[name=active]').val() == 1
+                ) {
                     var mod = parseInt($(this).closest('.bonus').find('[name=mod]').val());
                     var label = $(this).closest('.bonus').find('[name=name]').val();
 
@@ -535,7 +562,9 @@
 
             var bonuses = 0;
             $('.bonus [name=attribute]').each(function () {
-                if ($(this).val() == 'damages') {
+                if ($(this).val() == 'damages' &&
+                    $(this).closest('.bonus').find('[name=active]').val() == 1
+                ) {
                     var mod = parseInt($(this).closest('.bonus').find('[name=mod]').val());
                     var label = $(this).closest('.bonus').find('[name=name]').val();
 
@@ -584,7 +613,9 @@
 
             var bonuses = 0;
             $('.bonus [name=attribute]').each(function () {
-                if ($(this).val() == 'moral') {
+                if ($(this).val() == 'moral' &&
+                    $(this).closest('.bonus').find('[name=active]').val() == 1
+                ) {
                     var mod = parseInt($(this).closest('.bonus').find('[name=mod]').val());
                     var label = $(this).closest('.bonus').find('[name=name]').val();
 
@@ -639,7 +670,9 @@
 
             var bonuses = 0;
             $('.bonus [name=attribute]').each(function () {
-                if ($(this).val() == 'speed') {
+                if ($(this).val() == 'speed' &&
+                    $(this).closest('.bonus').find('[name=active]').val() == 1
+                ) {
                     var mod = parseInt($(this).closest('.bonus').find('[name=mod]').val());
                     var label = $(this).closest('.bonus').find('[name=name]').val();
 
@@ -691,7 +724,9 @@
 
             var bonuses = 0;
             $('.bonus [name=attribute]').each(function () {
-                if ($(this).val() == 'conso') {
+                if ($(this).val() == 'conso' &&
+                    $(this).closest('.bonus').find('[name=active]').val() == 1
+                ) {
                     var mod = parseInt($(this).closest('.bonus').find('[name=mod]').val());
                     var label = $(this).closest('.bonus').find('[name=name]').val();
 
@@ -718,26 +753,74 @@
 
         function updateTotalFpa()
         {
-            var bonus = 0;
+            var computation = [];
+
+            var base = {{ army.fpaValue }};
+
+            computation.push({
+                'mod': base,
+                'label': 'Base armée'
+            });
+
+            var bonuses = 0;
             $('.bonus [name=attribute]').each(function () {
-                if ($(this).val() == 'fpa') {
-                    bonus += parseInt($(this).closest('.bonus').find('[name=mod]').val());
+                if ($(this).val() == 'fpa' &&
+                    $(this).closest('.bonus').find('[name=active]').val() == 1
+                ) {
+                    var mod = parseInt($(this).closest('.bonus').find('[name=mod]').val());
+                    var label = $(this).closest('.bonus').find('[name=name]').val();
+
+                    bonuses += mod;
+                    computation.push({
+                        'mod': mod,
+                        'label': label
+                    });
                 }
             });
 
-            $('#total-fpa').html({{ army.fpaValue }} + bonus);
+            var computationString = getComputationString(computation, 'fpa');
+
+            $('#total-fpa')
+                .html(base + bonuses)
+                .closest('[data-toggle=popover]')
+                .attr('data-content', computationString)
+            ;
         }
 
         function updateTotalPrestige()
         {
-            var bonus = 0;
+            var computation = [];
+
+            var base = {{ army.commander.prestigeValue }};
+
+            computation.push({
+                'mod': base,
+                'label': 'Base commandant'
+            });
+
+            var bonuses = 0;
             $('.bonus [name=attribute]').each(function () {
-                if ($(this).val() == 'prestige') {
-                    bonus += parseInt($(this).closest('.bonus').find('[name=mod]').val());
+                if ($(this).val() == 'prestige' &&
+                    $(this).closest('.bonus').find('[name=active]').val() == 1
+                ) {
+                    var mod = parseInt($(this).closest('.bonus').find('[name=mod]').val());
+                    var label = $(this).closest('.bonus').find('[name=name]').val();
+
+                    bonuses += mod;
+                    computation.push({
+                        'mod': mod,
+                        'label': label
+                    });
                 }
             });
 
-            $('#total-prestige').html({{ army.commander.prestigeValue }} + bonus);
+            var computationString = getComputationString(computation, 'prestige');
+
+            $('#total-prestige')
+                .html(base + bonuses)
+                .parent('[data-toggle=popover]')
+                .attr('data-content', computationString)
+            ;
         }
 
         function initStrategy()
@@ -766,6 +849,7 @@
         function initBonuses()
         {
             var bonuses = $('.bonus');
+
             if (bonuses.length == 0) {
                 addNewBonus();
                 checkIsLastBonus();
@@ -774,12 +858,16 @@
                 updateTotals();
                 updateBenefitsMods();
             });
+            $('[data-bonus] button').click(function () {
+                toggleBonus($(this).closest('[data-bonus]').attr('data-bonus'));
+            });
         }
 
         function addNewBonus()
         {
-            var line = '<tr class="bonus"><td><input type="text" class="form-control" name="name"></td><td><select name="attribute" class="form-control" style="min-width:80px;"><option value="fpa">FPA</option><option value="ma">MA</option><option value="damages">Dégâts</option><option value="vd">VDéf</option><option value="moral">Moral</option><option value="speed">Vitesse</option><option value="conso">Conso</option><option value="prestige">Prestige</option></select></td><td><input name="mod" type="number" class="form-control"></td><td><input name="desc" type="text" class="form-control"></td><td><button type="button" class="btn btn-default" onclick="removeBonus(this);"><span class="fa fa-minus"></span></button></td></tr>';
-            $('#bonuses').append(line);
+            var bonuses = $('#bonuses');
+            var line = '<tr class="bonus"><td><input type="text" class="form-control" name="name"></td><td><select name="attribute" class="form-control" style="min-width:80px;"><option value="fpa">FPA</option><option value="ma">MA</option><option value="damages">Dégâts</option><option value="vd">VDéf</option><option value="moral">Moral</option><option value="speed">Vitesse</option><option value="conso">Conso</option><option value="prestige">Prestige</option></select></td><td><input name="mod" type="number" class="form-control"></td><td><input name="desc" type="text" class="form-control"></td><td><input name="active" id="bonusInput'+bonuses.length+'" type="hidden" class="bonusInput" value="1"/><button id="bonusOn'+bonuses.length+'" type="button" class="btn btn-primary bonusOn"><span class="fa fa-check"></span> Actif</button> <button id="bonusOff'+bonuses.length+'" type="button" class="btn btn-default bonusOff" style="display: none;"> <span class="fa fa-times"></span> Inactif </button> </td><td><button type="button" class="btn btn-warning" onclick="removeBonus(this);"><span class="fa fa-minus"></span> Supprimer </button></td></tr>';
+            bonuses.append(line);
             checkIsLastBonus();
         }
 
@@ -793,9 +881,9 @@
         {
             var bonuses = $('.bonus');
             if (bonuses.length == 1) {
-                $(bonuses).find('button').hide();
+                $(bonuses).find('button.bonus-delete').hide();
             } else {
-                $(bonuses).find('button').show();
+                $(bonuses).find('button.bonus-delete').show();
             }
             updateBenefits();
             updateBenefitsMods();
@@ -835,16 +923,20 @@
             });
 
             var bonuses = [];
+            var id = 1;
             $('.bonus').each(function () {
                 if ($(this).find('[name=mod]').val() != 0 &&
                     $(this).find('[name=mod]').val() != ''
                 ) {
                     bonuses.push({
+                        'id': id,
                         'name': $(this).find('[name=name]').val(),
                         'attribute': $(this).find('[name=attribute]').val(),
                         'mod': $(this).find('[name=mod]').val(),
-                        'desc': $(this).find('[name=desc]').val()
+                        'desc': $(this).find('[name=desc]').val(),
+                        'active': $(this).find('[name=active]').val()
                     });
+                    id++;
                 }
             });
 
@@ -868,17 +960,19 @@
         {
             var empty = true;
             var computationString = '<table style="width:100%">';
+            var countDisplayed = 0;
             computation.forEach(function (step) {
                 if (step.mod != 0) {
                     empty = false;
                     var mod = castIntToString(step.mod);
-                    if (step.label == 'Base armée') {
+                    if (countDisplayed == 0) {
                         mod = mod.slice(1);
                     }
                     computationString += '<tr>';
                     computationString += '<td>'+step.label+'</td>';
                     computationString += '<td class="text-right" style="padding-left:5px"> '+mod+'</td>';
                     computationString += '</tr>';
+                    countDisplayed++;
                 }
             });
 
