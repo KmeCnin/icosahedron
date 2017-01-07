@@ -167,11 +167,10 @@ class Army
             'strategy' => '0',
             'tactic' => 12,
             'commander' => 1,
-            'benefits' => array_map(
+            'benefits' => $this->getCommander()->getBenefits()->map(
                 function (Benefit $benefit) {
                     return $benefit->getId();
-                },
-                $this->getCommander()->getBenefits()
+                }
             ),
             'bonuses' => [],
         ];
