@@ -96,10 +96,18 @@ class Benefit extends Modificator
      * @ORM\Column(type="integer")
      */
     private $minPrestige;
+
+    /**
+     * @var bool
+     *
+     * @ORM\Column(type="boolean", nullable=false)
+     */
+    private $isAllele;
     
     public function __construct() {
         parent::__construct();
         $this->minPrestige = 0;
+        $this->isAllele = false;
     }
 
     /**
@@ -151,6 +159,25 @@ class Benefit extends Modificator
     public function setMinPrestige($minPrestige)
     {
         $this->minPrestige = $minPrestige;
+
+        return $this;
+    }
+
+    /**
+     * @return bool
+     */
+    public function getIsAllele()
+    {
+        return $this->isAllele;
+    }
+
+    /**
+     * @param $isAllele
+     * @return $this
+     */
+    public function setIsAllele($isAllele)
+    {
+        $this->isAllele = $isAllele;
 
         return $this;
     }

@@ -81,6 +81,7 @@ EOT
 		  'IcoKingmakerBundle:MapModel',
 		  'IcoKingmakerBundle:MapInterestModel',
 		  'IcoMassFightBundle:Tactic',
+		  'IcoMassFightBundle:Benefit',
 	   );
     }
 

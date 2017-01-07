@@ -2,6 +2,8 @@
 
 namespace Ico\Bundle\MassFightBundle\Model;
 
+use Ico\Bundle\KingmakerBundle\Entity\Campaign;
+
 abstract class Modificator
 {
     /**
@@ -60,8 +62,17 @@ abstract class Modificator
         $this->conso = 0;
     }
     
-    public function __toString() {
-        $modsAsStrings = [];
+    public function __toString()
+    {
+        $mods = $this->modsAsArray();
+        return count($mods)
+            ? $this->name.' ('.implode(', ', $mods).')'
+            : $this->name;
+    }
+
+    public function modsAsArray()
+    {
+        $modsComputed = [];
         $mods = [
             'fp' => 'FP',
             'ma' => 'MA',
@@ -71,16 +82,21 @@ abstract class Modificator
             'speed' => 'Vitesse',
             'conso' => 'Conso',
         ];
+
         foreach ($mods as $var => $label) {
             $val = $this->{$var};
             if ($val !== 0) {
                 $val = $val < 0 ? $val : '+'.$val;
-                $modsAsStrings[] = $val.' '.$label;
+                $modsComputed[] = $val.' '.$label;
             }
         }
-        return count($modsAsStrings)
-            ? $this->name.' ('.implode(', ', $modsAsStrings).')'
-            : $this->name;
+
+        return $modsComputed;
+    }
+
+    public function modsAsString()
+    {
+        return implode(', ', $this->modsAsArray());
     }
     
     public function getMappedMods()

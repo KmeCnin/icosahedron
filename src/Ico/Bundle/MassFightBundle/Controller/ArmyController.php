@@ -10,6 +10,7 @@ use Sensio\Bundle\FrameworkExtraBundle\Configuration\Route;
 use Sensio\Bundle\FrameworkExtraBundle\Configuration\Template;
 use Symfony\Bundle\FrameworkBundle\Controller\Controller;
 use Symfony\Component\HttpFoundation\Request;
+use Symfony\Component\HttpFoundation\Response;
 use Symfony\Component\Security\Acl\Domain\ObjectIdentity;
 use Symfony\Component\Security\Acl\Domain\UserSecurityIdentity;
 use Symfony\Component\Security\Acl\Permission\MaskBuilder;
@@ -237,8 +238,12 @@ class ArmyController extends Controller {
                 $army->getName() => ''
             ),
             'title' => $army->getName(),
-            'subtitle' => 'Statistiques',
-            'army' => $army
+            'subtitle' => 'Statistiques de combat',
+            'army' => $army,
+            'initCombatStats' => $army->getInitCombatStats(),
+            'benefitsAlleles' => $this->getDoctrine()
+                ->getRepository('IcoMassFightBundle:Benefit')
+                ->findAlleles(),
         );
     }
 
@@ -248,8 +253,8 @@ class ArmyController extends Controller {
     public function deleteAction($id) {
 
         $army = $this->getDoctrine()
-                ->getRepository('IcoMassFightBundle:Army')
-                ->find($id);
+            ->getRepository('IcoMassFightBundle:Army')
+            ->find($id);
         if (!$army) {
             throw $this->createNotFoundException('Aucune armée trouvée pour cet id : ' . $id);
         }
@@ -266,5 +271,33 @@ class ArmyController extends Controller {
         
         $this->get('session')->getFlashBag()->add('success', 'L\'armée ' . $army->getName() . ' a été supprimée.');
         return $this->redirect($this->generateUrl('ico_mass_fight'));
+    }
+
+    /**
+     * @Route("/combats-de-masse/armées/statistiques-de-combat", name="ico_mass_fight_army_combat_stats_push", options={"expose"=true})
+     */
+    public function combatStatsPushAction(Request $request)
+    {
+        $armyId = $request->request->get('armyId');
+        $army = $this->getDoctrine()
+            ->getRepository('IcoMassFightBundle:Army')
+            ->find($armyId);
+        if (!$army) {
+            throw $this->createNotFoundException(
+                'Aucune armée trouvée pour cet id : '.$armyId
+            );
+        }
+
+        $securityContext = $this->container->get('security.context');
+        if (false === $securityContext->isGranted('EDIT', $army)) {
+            return new Response('', 403);
+        }
+
+        $army->setCombatStats($request->request->get('combatStats'));
+        $em = $this->getDoctrine()->getManager();
+        $em->persist($army);
+        $em->flush();
+
+        return new Response('', 204);
     }
 }

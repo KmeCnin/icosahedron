@@ -120,6 +120,13 @@ class Army
      * @ORM\ManyToMany(targetEntity="Tactic")
      */
     private $tactics;
+
+    /**
+     * @var string JSON
+     *
+     * @ORM\Column(type="json_array")
+     */
+    private $combatStats;
     
     /**
      * @Gedmo\Slug(fields={"name"})
@@ -150,6 +157,16 @@ class Army
         $this->lifeDicesType = self::D10;
         $this->fpType = 4; // = '1'
         $this->speed = 6; // = 9m
+        $this->combatStats = $this->getInitCombatStats();
+    }
+
+    public function getInitCombatStats()
+    {
+        return [
+            'hp' => $this->getBaseHP(),
+            'strategy' => '0',
+            'tactic' => 12,
+        ];
     }
 
     /**
@@ -234,7 +251,7 @@ class Army
     /**
      * Set createdBy
      *
-     * @param \Ico\Bundle\UserBundle\User $createdBy
+     * @param User $createdBy
      * @return Campaign
      */
     public function setCreatedBy(User $createdBy)
@@ -247,7 +264,7 @@ class Army
     /**
      * Get createdBy
      *
-     * @return \Ico\Bundle\UserBundle\User 
+     * @return User
      */
     public function getCreatedBy()
     {
@@ -491,7 +508,7 @@ class Army
             case 13:
                 return 4;
             default:
-                5;
+                return 5;
         }
     }
     
@@ -509,20 +526,31 @@ class Army
         return $this;
     }
     
-    public function getMoral()
-    {
-        return min(4, 
-            $this->getCommander()->getCha() +
-            floor($this->getCommander()->getSoldierSkill() / 5)
-        );
-    }
-    
     public function getTactics() {
         return $this->tactics;
     }
 
     public function setTactics(array $tactics) {
         $this->tactics = $tactics;
+        return $this;
+    }
+
+    /**
+     * @return string
+     */
+    public function getCombatStats()
+    {
+        return $this->combatStats;
+    }
+
+    /**
+     * @param string $combatStats
+     * @return Army
+     */
+    public function setCombatStats($combatStats)
+    {
+        $this->combatStats = $combatStats;
+
         return $this;
     }
 }

@@ -17,7 +17,7 @@
 # Managed by Composer
 /app/bootstrap.php.cache
 /var/bootstrap.php.cache
-bin
+/bin
 !bin/console
 !bin/symfony_requirements
 /vendor/
@@ -25,6 +25,8 @@ bin
 # Assets and user uploads
 /web/bundles/
 /web/uploads/
+web/js/*
+web/css/*
 
 # PHPUnit
 /app/phpunit.xml
@@ -39,7 +41,6 @@ bin
 /nbproject/private/
 nbproject/project.xml
 nbproject/project.properties
-web/js/
 
 # IDE
 .idea
