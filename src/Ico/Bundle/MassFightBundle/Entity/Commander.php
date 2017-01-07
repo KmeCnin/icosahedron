@@ -3,6 +3,7 @@
 namespace Ico\Bundle\MassFightBundle\Entity;
 
 use DateTime;
+use Doctrine\Common\Collections\ArrayCollection;
 use Doctrine\ORM\Mapping as ORM;
 use Gedmo\Mapping\Annotation as Gedmo;
 use Ico\Bundle\KingmakerBundle\Entity\Campaign;
@@ -61,7 +62,7 @@ class Commander
     private $soldierSkill;
 
     /**
-     * @var Benefit[]
+     * @var Benefit[]|ArrayCollection
      *
      * @ORM\ManyToMany(targetEntity="Benefit")
      */
@@ -275,7 +276,7 @@ class Commander
     }
 
     /**
-     * @return Benefit[]
+     * @return Benefit[]|ArrayCollection
      */
     public function getBenefits()
     {
