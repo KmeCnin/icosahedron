@@ -44,15 +44,15 @@
         </div>
         <div class="col-xs-12 col-sm-6">
             <ul class="list-group">
-                <li class="list-group-item">
+                <li class="list-group-item" data-toggle="popover" title="Modificateur d'attaque" data-content="" data-container="body">
                     Modificateur d'attaque
                     <span id="total-MA" class="badge badge-xl badge-success"></span>
                 </li>
-                <li class="list-group-item">
+                <li class="list-group-item" data-toggle="popover" title="Modificateur de dégâts" data-content="" data-container="body">
                     Modificateur de dégâts
                     <span id="total-damages" class="badge badge-xl badge-success"></span>
                 </li>
-                <li class="list-group-item">
+                <li class="list-group-item" data-toggle="popover" title="Valeur de défense" data-content="" data-container="body">
                     Valeur de défense
                     <span id="total-VD" class="badge badge-xl badge-success"></span>
                 </li>
@@ -60,15 +60,15 @@
         </div>
         <div class="col-xs-12 col-sm-6">
             <ul class="list-group">
-                <li class="list-group-item">
+                <li class="list-group-item" data-toggle="popover" title="Moral" data-content="" data-container="body">
                     Moral
                     <span id="total-Moral" class="badge badge-xl badge-success"></span>
                 </li>
-                <li class="list-group-item">
+                <li class="list-group-item" data-toggle="popover" title="Vitesse" data-content="" data-container="body">
                     Vitesse
                     <span id="total-Speed" class="badge badge-xl badge-success"></span>
                 </li>
-                <li class="list-group-item">
+                <li class="list-group-item" data-toggle="popover" title="Consommation" data-content="" data-container="body">
                     Consommation 
                     <span id="total-Conso" class="badge badge-xl badge-success"></span>
                 </li>
@@ -411,107 +411,309 @@
         }
 
         function updateTotalMA() {
+            var computation = [];
+
+            var base = {{ army.baseMA }};
+            var strategy = parseInt($('#strategy').val());
+            var tactic = parseInt(mappedTactics[$('#tactic').val()]['ma']);
+            var benefit = parseInt(mappedBenefitsMods['ma']);
+
+            computation.push({
+                'mod': base,
+                'label': 'Base armée'
+            });
+            computation.push({
+                'mod': strategy,
+                'label': 'Stratégie'
+            });
+            computation.push({
+                'mod': tactic,
+                'label': 'Tactique'
+            });
+            computation.push({
+                'mod': benefit,
+                'label': 'Bienfaits'
+            });
+
             var bonuses = 0;
             $('.bonus [name=attribute]').each(function () {
                 if ($(this).val() == 'ma') {
-                    bonuses += parseInt($(this).closest('.bonus').find('[name=mod]').val());
+                    var mod = parseInt($(this).closest('.bonus').find('[name=mod]').val());
+                    var label = $(this).closest('.bonus').find('[name=name]').val();
+
+                    bonuses += mod;
+                    computation.push({
+                        'mod': mod,
+                        'label': label
+                    });
                 }
             });
 
-            $('#total-MA').html(
-                {{ army.baseMA }} +
-                    parseInt($('#strategy').val()) +
-                parseInt(mappedTactics[$('#tactic').val()]['ma']) +
-                parseInt(mappedBenefitsMods['ma']) +
-                bonuses
-            );
+            var computationString = getComputationString(computation, 'ma');
+
+            $('#total-MA')
+                .html(
+                    base +
+                    strategy +
+                    tactic +
+                    benefit +
+                    bonuses
+                )
+                .parent('[data-toggle=popover]')
+                .attr('data-content', computationString)
+            ;
         }
 
         function updateTotalVD() {
+            var computation = [];
+
+            var base = {{ army.baseVD }};
+            var strategy = parseInt($('#strategy').val()) * -1 ;
+            var tactic = parseInt(mappedTactics[$('#tactic').val()]['vd']);
+            var benefit = parseInt(mappedBenefitsMods['vd']);
+
+            computation.push({
+                'mod': base,
+                'label': 'Base armée'
+            });
+            computation.push({
+                'mod': strategy,
+                'label': 'Stratégie'
+            });
+            computation.push({
+                'mod': tactic,
+                'label': 'Tactique'
+            });
+            computation.push({
+                'mod': benefit,
+                'label': 'Bienfaits'
+            });
+
             var bonuses = 0;
             $('.bonus [name=attribute]').each(function () {
                 if ($(this).val() == 'vd') {
-                    bonuses += parseInt($(this).closest('.bonus').find('[name=mod]').val());
+                    var mod = parseInt($(this).closest('.bonus').find('[name=mod]').val());
+                    var label = $(this).closest('.bonus').find('[name=name]').val();
+
+                    bonuses += mod;
+                    computation.push({
+                        'mod': mod,
+                        'label': label
+                    });
                 }
             });
 
-            $('#total-VD').html(
-                {{ army.baseVD }} +
-                parseInt($('#strategy').val()) * -1 +
-                parseInt(mappedTactics[$('#tactic').val()]['vd']) +
-                parseInt(mappedBenefitsMods['vd'])
-            );
+            var computationString = getComputationString(computation, 'vd');
+
+            $('#total-VD')
+                .html(
+                    base +
+                    strategy +
+                    tactic +
+                    benefit +
+                    bonuses
+                )
+                .parent('[data-toggle=popover]')
+                .attr('data-content', computationString)
+            ;
         }
 
         function updateTotalDamages() {
+            var computation = [];
+
+            var tactic = parseInt(mappedTactics[$('#tactic').val()]['damages']);
+            var benefit = parseInt(mappedBenefitsMods['damages']);
+
+            computation.push({
+                'mod': tactic,
+                'label': 'Tactique'
+            });
+            computation.push({
+                'mod': benefit,
+                'label': 'Bienfaits'
+            });
+
             var bonuses = 0;
             $('.bonus [name=attribute]').each(function () {
                 if ($(this).val() == 'damages') {
-                    bonuses += parseInt($(this).closest('.bonus').find('[name=mod]').val());
+                    var mod = parseInt($(this).closest('.bonus').find('[name=mod]').val());
+                    var label = $(this).closest('.bonus').find('[name=name]').val();
+
+                    bonuses += mod;
+                    computation.push({
+                        'mod': mod,
+                        'label': label
+                    });
                 }
             });
 
-            $('#total-damages').html(
-                parseInt(mappedTactics[$('#tactic').val()]['damages']) +
-                parseInt(mappedBenefitsMods['damages'])
-            );
+            var computationString = getComputationString(computation, 'damages');
+
+            $('#total-damages')
+                .html(
+                    tactic +
+                    benefit
+                )
+                .parent('[data-toggle=popover]')
+                .attr('data-content', computationString)
+            ;
         }
 
         function updateTotalMoral() {
-            var moral = parseInt(mappedTactics[$('#tactic').val()]['moral']);
-            if ($('#commanderInput').val() == 1) {
-                moral += {{ army.commander.bonusMoral }};
-            }
-            moral += parseInt(mappedBenefitsMods['moral']);
+            var computation = [];
 
+            var tactic = parseInt(mappedTactics[$('#tactic').val()]['moral']);
+            var commander = 0;
+            if ($('#commanderInput').val() == 1) {
+                commander = {{ army.commander.bonusMoral }};
+            }
+            var benefit = parseInt(mappedBenefitsMods['moral']);
+
+            computation.push({
+                'mod': tactic,
+                'label': 'Tactique'
+            });
+            computation.push({
+                'mod': commander,
+                'label': 'Commandant'
+            });
+            computation.push({
+                'mod': benefit,
+                'label': 'Bienfaits'
+            });
+
+            var bonuses = 0;
             $('.bonus [name=attribute]').each(function () {
                 if ($(this).val() == 'moral') {
-                    moral += parseInt($(this).closest('.bonus').find('[name=mod]').val());
+                    var mod = parseInt($(this).closest('.bonus').find('[name=mod]').val());
+                    var label = $(this).closest('.bonus').find('[name=name]').val();
+
+                    bonuses += mod;
+                    computation.push({
+                        'mod': mod,
+                        'label': label
+                    });
                 }
             });
+
+            var moral = tactic + commander + benefit + bonuses;
 //                if (moral < -4) {
 //                    moral = -4;
 //                }
 //                if (moral > 4) {
 //                    moral = 4;
 //                }
-            $('#total-Moral').html(moral);
+
+            var computationString = getComputationString(computation, 'moral');
+
+            $('#total-Moral')
+                .html(moral)
+                .parent('[data-toggle=popover]')
+                .attr('data-content', computationString)
+            ;
         }
 
         function updateTotalSpeed() {
-            var speed = {{ army.baseArmySpeed }} +
-                parseInt(mappedTactics[$('#tactic').val()]['speed']) +
-                parseInt(mappedBenefitsMods['speed']);
+            var computation = [];
 
+            var base = {{ army.baseArmySpeed }};
+            var tactic = parseInt(mappedTactics[$('#tactic').val()]['speed']);
+            var benefit = parseInt(mappedBenefitsMods['speed']);
+
+            computation.push({
+                'mod': base,
+                'label': 'Base armée'
+            });
+            computation.push({
+                'mod': tactic,
+                'label': 'Tactique'
+            });
+            computation.push({
+                'mod': benefit,
+                'label': 'Bienfaits'
+            });
+
+            var speed = base +
+                tactic +
+                benefit;
+
+            var bonuses = 0;
             $('.bonus [name=attribute]').each(function () {
                 if ($(this).val() == 'speed') {
-                    speed += parseInt($(this).closest('.bonus').find('[name=mod]').val());
+                    var mod = parseInt($(this).closest('.bonus').find('[name=mod]').val());
+                    var label = $(this).closest('.bonus').find('[name=name]').val();
+
+                    bonuses += mod;
+                    computation.push({
+                        'mod': mod,
+                        'label': label
+                    });
                 }
             });
 
+            var computationString = getComputationString(computation, 'speed');
+
             // If "Se débrouiller sur place" benefit is active:
             if ($('#benefitInput10').val() == 1) {
-                speed = parseInt(speed/2);
+                speed = Math.ceil(speed/2);
             }
-            $('#total-Speed').html(speed);
+
+            $('#total-Speed')
+                .html(speed)
+                .parent('[data-toggle=popover]')
+                .attr('data-content', computationString)
+            ;
         }
 
         function updateTotalConso() {
-            var conso = {{ army.basePC }} +
-                parseInt(mappedTactics[$('#tactic').val()]['conso']) +
-                parseInt(mappedBenefitsMods['conso']);
+            var computation = [];
 
+            var base = {{ army.basePC }};
+            var tactic = parseInt(mappedTactics[$('#tactic').val()]['conso']);
+            var benefit = parseInt(mappedBenefitsMods['conso']);
+
+            computation.push({
+                'mod': base,
+                'label': 'Base armée'
+            });
+            computation.push({
+                'mod': tactic,
+                'label': 'Tactique'
+            });
+            computation.push({
+                'mod': benefit,
+                'label': 'Bienfaits'
+            });
+
+            var conso = base +
+                tactic +
+                benefit;
+
+            var bonuses = 0;
             $('.bonus [name=attribute]').each(function () {
                 if ($(this).val() == 'conso') {
-                    conso += parseInt($(this).closest('.bonus').find('[name=mod]').val());
+                    var mod = parseInt($(this).closest('.bonus').find('[name=mod]').val());
+                    var label = $(this).closest('.bonus').find('[name=name]').val();
+
+                    bonuses += mod;
+                    computation.push({
+                        'mod': mod,
+                        'label': label
+                    });
                 }
             });
 
+            var computationString = getComputationString(computation, 'conso');
+
             // If "Se débrouiller sur place" benefit is active:
             if ($('#benefitInput10').val() == 1) {
-                conso = parseInt(conso/2);
+                conso = Math.ceil(conso/2);
             }
-            $('#total-Conso').html(conso);
+            $('#total-Conso')
+                .html(conso)
+                .parent('[data-toggle=popover]')
+                .attr('data-content', computationString)
+            ;
         }
 
         function updateTotalFpa()
@@ -570,6 +772,7 @@
             }
             $(document).on('change', '.bonus', function () {
                 updateTotals();
+                updateBenefitsMods();
             });
         }
 
@@ -659,6 +862,50 @@
                     }
                 }
             );
+        }
+
+        function getComputationString(computation, $type)
+        {
+            var empty = true;
+            var computationString = '<table style="width:100%">';
+            computation.forEach(function (step) {
+                if (step.mod != 0) {
+                    empty = false;
+                    var mod = castIntToString(step.mod);
+                    if (step.label == 'Base armée') {
+                        mod = mod.slice(1);
+                    }
+                    computationString += '<tr>';
+                    computationString += '<td>'+step.label+'</td>';
+                    computationString += '<td class="text-right" style="padding-left:5px"> '+mod+'</td>';
+                    computationString += '</tr>';
+                }
+            });
+
+            if ($('#benefitInput10').val() == 1 && ($type == 'speed' || $type == 'conso')) {
+                empty = false;
+                computationString += '<tr>';
+                computationString += '<td>Se débrouiller sur place</td>';
+                computationString += '<td class="text-right" style="padding-left:5px"> / 2</td>';
+                computationString += '</tr>';
+            }
+
+            computationString += '</table>';
+
+            if (empty) {
+                computationString = 'Aucun bonus';
+            }
+
+            return computationString;
+        }
+
+        function castIntToString($int)
+        {
+            if ($int >= 0) {
+                return '+ '+$int;
+            } else {
+                return '- '+Math.abs($int);
+            }
         }
     </script>
 {% endblock %}
