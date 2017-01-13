@@ -2,8 +2,11 @@
 
 namespace Ico\Bundle\KingmakerBundle\Entity;
 
+use Doctrine\Common\Collections\ArrayCollection;
+use Doctrine\Common\Collections\Collection;
 use Doctrine\ORM\Mapping as ORM;
-use Gedmo\Mapping\Annotation as Gedmo; // gedmo annotations
+use Gedmo\Mapping\Annotation as Gedmo;
+use Ico\Bundle\UserBundle\Entity\User; // gedmo annotations
 
 /**
  * Campaign
@@ -36,7 +39,7 @@ class Campaign
     private $slug;
 
     /**
-     * @var text
+     * @var string
      *
      * @ORM\Column(name="description", type="text", nullable=true)
      */
@@ -103,7 +106,7 @@ class Campaign
      * Set created
      *
      * @param \DateTime $created
-     * @return User
+     * @return $this
      */
     public function setCreated($created)
     {
@@ -126,7 +129,7 @@ class Campaign
      * Set updated
      *
      * @param \DateTime $updated
-     * @return User
+     * @return $this
      */
     public function setUpdated($updated)
     {
@@ -148,10 +151,10 @@ class Campaign
     /**
      * Set createdBy
      *
-     * @param \Ico\Bundle\UserBundle\User $createdBy
-     * @return Campaign
+     * @param User $createdBy
+     * @return $this
      */
-    public function setCreatedBy(\Ico\Bundle\UserBundle\Entity\User $createdBy)
+    public function setCreatedBy(User $createdBy)
     {
         $this->createdBy = $createdBy;
 
@@ -161,7 +164,7 @@ class Campaign
     /**
      * Get createdBy
      *
-     * @return \Ico\Bundle\UserBundle\User 
+     * @return User
      */
     public function getCreatedBy()
     {
@@ -218,16 +221,16 @@ class Campaign
      */
     public function __construct()
     {
-        $this->maps = new \Doctrine\Common\Collections\ArrayCollection();
+        $this->maps = new ArrayCollection();
     }
 
     /**
      * Add maps
      *
-     * @param \Ico\Bundle\KingmakerBundle\Entity\Map $maps
+     * @param Map $maps
      * @return Campaign
      */
-    public function addMap(\Ico\Bundle\KingmakerBundle\Entity\Map $maps)
+    public function addMap(Map $maps)
     {
         $this->maps[] = $maps;
 
@@ -237,9 +240,9 @@ class Campaign
     /**
      * Remove maps
      *
-     * @param \Ico\Bundle\KingmakerBundle\Entity\Map $maps
+     * @param Map $maps
      */
-    public function removeMap(\Ico\Bundle\KingmakerBundle\Entity\Map $maps)
+    public function removeMap(Map $maps)
     {
         $this->maps->removeElement($maps);
     }
@@ -247,7 +250,7 @@ class Campaign
     /**
      * Get maps
      *
-     * @return \Doctrine\Common\Collections\Collection 
+     * @return Collection
      */
     public function getMaps()
     {

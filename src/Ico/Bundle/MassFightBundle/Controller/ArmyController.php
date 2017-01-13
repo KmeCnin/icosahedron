@@ -229,6 +229,12 @@ class ArmyController extends Controller {
             throw $this->createNotFoundException('Aucune armée trouvée pour cet id : ' . $id);
         }
 
+        $securityContext = $this->container->get('security.context');
+        if (false === $securityContext->isGranted('VIEW', $army)) {
+            $this->get('session')->getFlashBag()->add('warning', 'Vous n\'avez pas le droit d\'accéder à cette armée.');
+            throw new AccessDeniedException();
+        }
+
         return array(
             'breadcrumb' => array(
                 'Accueil' => 'ico',

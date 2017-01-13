@@ -104,8 +104,7 @@
                         <th>Attribut</th>
                         <th>Modificateur</th>
                         <th>Description</th>
-                        <th></th>
-                        <th><button type="button" class="btn btn-default" onclick="addNewBonus();"><span class="fa fa-plus"></span> Ajouter ligne</button></th>
+                        <th colspan="2" class="text-right"><button type="button" class="btn btn-default" onclick="addNewBonus();"><span class="fa fa-plus"></span> Ajouter ligne</button></th>
                     </tr>
                 </thead>
                 <tbody id="bonuses">
@@ -133,7 +132,7 @@
                             <td>
                                 <input name="desc" type="text" class="form-control" value="{{ bonus.desc }}" style="min-width: 300px;">
                             </td>
-                            <td>
+                            <td class="foo">
                                 <input name="active" id="bonusInput{{ bonus.id }}" type="hidden" class="bonusInput" value="{{ bonus.active }}"/>
                                 <button id="bonusOn{{ bonus.id }}" type="button" class="btn btn-primary bonusOn" {% if bonus.active == 0 %}style="display: none;"{% endif %}>
                                     <span class="fa fa-check"></span> Actif
@@ -142,7 +141,7 @@
                                     <span class="fa fa-times"></span> Inactif
                                 </button>
                             </td>
-                            <td>
+                            <td class="text-right">
                                 <button type="button" class="btn btn-warning bonus-delete" onclick="removeBonus(this);">
                                     <span class="fa fa-minus"></span> Supprimer
                                 </button>

@@ -20,11 +20,13 @@ class AppKernel extends Kernel {
             new Doctrine\Bundle\DoctrineBundle\DoctrineBundle(),
             // Third parties 
             new Doctrine\Bundle\FixturesBundle\DoctrineFixturesBundle(),
+            new Doctrine\Bundle\MigrationsBundle\DoctrineMigrationsBundle(),
             new Sensio\Bundle\FrameworkExtraBundle\SensioFrameworkExtraBundle(),
             new FOS\UserBundle\FOSUserBundle(),
             new FOS\JsRoutingBundle\FOSJsRoutingBundle(),
             new Knp\Bundle\PaginatorBundle\KnpPaginatorBundle(),
-		  new JMS\SerializerBundle\JMSSerializerBundle(),
+            new JMS\SerializerBundle\JMSSerializerBundle(),
+            // Custom
             new Ico\Bundle\UserBundle\IcoUserBundle(),
             new Ico\Bundle\AppBundle\IcoAppBundle(),
             new Ico\Bundle\RulesBundle\IcoRulesBundle(),
