@@ -9,7 +9,7 @@ use Ico\Bundle\UserBundle\Entity\User;
 /**
  * Campaign
  *
- * @ORM\Table(name="base_campaign")
+ * @ORM\Table(name="campaign")
  * @ORM\Entity(repositoryClass="Ico\Bundle\AppBundle\Repository\CampaignRepository")
  * @ORM\InheritanceType("JOINED")
  * @ORM\DiscriminatorColumn(name="discr", type="string")

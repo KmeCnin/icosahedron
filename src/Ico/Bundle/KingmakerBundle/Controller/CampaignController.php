@@ -2,6 +2,7 @@
 
 namespace Ico\Bundle\KingmakerBundle\Controller;
 
+use Ico\Bundle\KingmakerBundle\Entity\KingmakerCampaign;
 use Ico\Bundle\KingmakerBundle\Entity\Map;
 use Ico\Bundle\KingmakerBundle\Entity\Hex;
 use Sensio\Bundle\FrameworkExtraBundle\Configuration\Route;
@@ -21,7 +22,7 @@ class CampaignController extends Controller {
      */
     public function indexAction() {
         $campaigns = $this->getDoctrine()
-                ->getRepository('IcoKingmakerBundle:Campaign')
+                ->getRepository('IcoKingmakerBundle:KingmakerCampaign')
                 ->findAll();
 
         return array(
@@ -47,7 +48,7 @@ class CampaignController extends Controller {
             throw new AccessDeniedException();
         }
 
-        $campaign = new Campaign();
+        $campaign = new KingmakerCampaign();
 
         $form = $this->createForm('campaign', $campaign);
         $form->handleRequest($request);

@@ -9,9 +9,9 @@ use Gedmo\Mapping\Annotation as Gedmo;
 use Ico\Bundle\AppBundle\Entity\Campaign;
 
 /**
- * Campaign
+ * KingmakerCampaign
  *
- * @ORM\Table(name="campaign")
+ * @ORM\Table(name="kingmaker_campaign")
  * @ORM\Entity(repositoryClass="Ico\Bundle\KingmakerBundle\Repository\KingmakerCampaignRepository")
  */
 class KingmakerCampaign extends Campaign
