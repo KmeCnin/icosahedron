@@ -1,15 +1,22 @@
 <?php
 
-namespace Ico\Bundle\KingmakerBundle\Entity;
+namespace Ico\Bundle\AppBundle\Entity;
 
 use Doctrine\ORM\Mapping as ORM;
-use Gedmo\Mapping\Annotation as Gedmo; // gedmo annotations
+use Gedmo\Mapping\Annotation as Gedmo;
+use Ico\Bundle\UserBundle\Entity\User;
 
 /**
  * Campaign
  *
- * @ORM\Table(name="kingmaker_campaign")
- * @ORM\Entity(repositoryClass="Ico\Bundle\KingmakerBundle\Repository\CampaignRepository")
+ * @ORM\Table(name="campaign")
+ * @ORM\Entity(repositoryClass="Ico\Bundle\AppBundle\Repository\CampaignRepository")
+ * @ORM\InheritanceType("JOINED")
+ * @ORM\DiscriminatorColumn(name="discr", type="string")
+ * @ORM\DiscriminatorMap({
+ *     "campaign" = "Ico\Bundle\AppBundle\Entity\Campaign",
+ *     "kingmaker_campaign" = "Ico\Bundle\KingmakerBundle\Entity\KingmakerCampaign"
+ * })
  */
 class Campaign
 {
@@ -36,16 +43,11 @@ class Campaign
     private $slug;
 
     /**
-     * @var text
+     * @var string
      *
      * @ORM\Column(name="description", type="text", nullable=true)
      */
     private $description;
-    
-    /**
-     * @ORM\OneToMany(targetEntity="Map", mappedBy="campaign", cascade={"persist", "remove"})
-     */
-    protected $maps;
     
     /**
      * @ORM\ManyToOne(targetEntity="\Ico\Bundle\UserBundle\Entity\User")
@@ -103,7 +105,7 @@ class Campaign
      * Set created
      *
      * @param \DateTime $created
-     * @return User
+     * @return $this
      */
     public function setCreated($created)
     {
@@ -126,7 +128,7 @@ class Campaign
      * Set updated
      *
      * @param \DateTime $updated
-     * @return User
+     * @return $this
      */
     public function setUpdated($updated)
     {
@@ -148,10 +150,10 @@ class Campaign
     /**
      * Set createdBy
      *
-     * @param \Ico\Bundle\UserBundle\User $createdBy
-     * @return Campaign
+     * @param User $createdBy
+     * @return $this
      */
-    public function setCreatedBy(\Ico\Bundle\UserBundle\Entity\User $createdBy)
+    public function setCreatedBy(User $createdBy)
     {
         $this->createdBy = $createdBy;
 
@@ -161,7 +163,7 @@ class Campaign
     /**
      * Get createdBy
      *
-     * @return \Ico\Bundle\UserBundle\User 
+     * @return User
      */
     public function getCreatedBy()
     {
@@ -213,44 +215,12 @@ class Campaign
     {
         return $this->slug;
     }
+
     /**
      * Constructor
      */
     public function __construct()
     {
-        $this->maps = new \Doctrine\Common\Collections\ArrayCollection();
-    }
 
-    /**
-     * Add maps
-     *
-     * @param \Ico\Bundle\KingmakerBundle\Entity\Map $maps
-     * @return Campaign
-     */
-    public function addMap(\Ico\Bundle\KingmakerBundle\Entity\Map $maps)
-    {
-        $this->maps[] = $maps;
-
-        return $this;
-    }
-
-    /**
-     * Remove maps
-     *
-     * @param \Ico\Bundle\KingmakerBundle\Entity\Map $maps
-     */
-    public function removeMap(\Ico\Bundle\KingmakerBundle\Entity\Map $maps)
-    {
-        $this->maps->removeElement($maps);
-    }
-
-    /**
-     * Get maps
-     *
-     * @return \Doctrine\Common\Collections\Collection 
-     */
-    public function getMaps()
-    {
-        return $this->maps;
     }
 }
