@@ -2,6 +2,8 @@
 
 namespace Ico\Bundle\KingmakerBundle\Entity;
 
+use Doctrine\Common\Collections\ArrayCollection;
+use Doctrine\Common\Collections\Collection;
 use Doctrine\ORM\Mapping as ORM;
 use Gedmo\Mapping\Annotation as Gedmo; // gedmo annotations
 
@@ -29,7 +31,7 @@ class Map
     private $mapModel;
     
     /**
-     * @ORM\ManyToOne(targetEntity="Campaign", inversedBy="maps")
+     * @ORM\ManyToOne(targetEntity="KingmakerCampaign", inversedBy="maps")
      * @ORM\JoinColumn(nullable=false)
      */
     private $campaign;
@@ -44,7 +46,7 @@ class Map
      */
     public function __construct()
     {
-        $this->hexs = new \Doctrine\Common\Collections\ArrayCollection();
+        $this->hexs = new ArrayCollection();
     }
 
     /**
@@ -60,10 +62,10 @@ class Map
     /**
      * Set mapModel
      *
-     * @param \Ico\Bundle\KingmakerBundle\Entity\MapModel $mapModel
+     * @param MapModel $mapModel
      * @return Map
      */
-    public function setMapModel(\Ico\Bundle\KingmakerBundle\Entity\MapModel $mapModel)
+    public function setMapModel(MapModel $mapModel)
     {
         $this->mapModel = $mapModel;
 
@@ -73,7 +75,7 @@ class Map
     /**
      * Get mapModel
      *
-     * @return \Ico\Bundle\KingmakerBundle\Entity\MapModel 
+     * @return MapModel
      */
     public function getMapModel()
     {
@@ -83,10 +85,10 @@ class Map
     /**
      * Add hexs
      *
-     * @param \Ico\Bundle\KingmakerBundle\Entity\Hex $hexs
+     * @param Hex $hexs
      * @return Map
      */
-    public function addHex(\Ico\Bundle\KingmakerBundle\Entity\Hex $hexs)
+    public function addHex(Hex $hexs)
     {
         $this->hexs[] = $hexs;
 
@@ -96,9 +98,9 @@ class Map
     /**
      * Remove hexs
      *
-     * @param \Ico\Bundle\KingmakerBundle\Entity\Hex $hexs
+     * @param Hex $hexs
      */
-    public function removeHex(\Ico\Bundle\KingmakerBundle\Entity\Hex $hexs)
+    public function removeHex(Hex $hexs)
     {
         $this->hexs->removeElement($hexs);
     }
@@ -106,7 +108,7 @@ class Map
     /**
      * Get hexs
      *
-     * @return \Doctrine\Common\Collections\Collection 
+     * @return Collection
      */
     public function getHexs()
     {
@@ -116,10 +118,10 @@ class Map
     /**
      * Set campaign
      *
-     * @param \Ico\Bundle\KingmakerBundle\Entity\Campaign $campaign
+     * @param KingmakerCampaign $campaign
      * @return Map
      */
-    public function setCampaign(\Ico\Bundle\KingmakerBundle\Entity\Campaign $campaign)
+    public function setCampaign(KingmakerCampaign $campaign)
     {
         $this->campaign = $campaign;
 
@@ -129,7 +131,7 @@ class Map
     /**
      * Get campaign
      *
-     * @return \Ico\Bundle\KingmakerBundle\Entity\Campaign 
+     * @return KingmakerCampaign
      */
     public function getCampaign()
     {

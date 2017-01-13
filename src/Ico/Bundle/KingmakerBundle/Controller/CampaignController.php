@@ -2,7 +2,6 @@
 
 namespace Ico\Bundle\KingmakerBundle\Controller;
 
-use Ico\Bundle\KingmakerBundle\Entity\Campaign;
 use Ico\Bundle\KingmakerBundle\Entity\Map;
 use Ico\Bundle\KingmakerBundle\Entity\Hex;
 use Sensio\Bundle\FrameworkExtraBundle\Configuration\Route;

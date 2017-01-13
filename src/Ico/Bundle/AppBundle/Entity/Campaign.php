@@ -1,18 +1,22 @@
 <?php
 
-namespace Ico\Bundle\KingmakerBundle\Entity;
+namespace Ico\Bundle\AppBundle\Entity;
 
-use Doctrine\Common\Collections\ArrayCollection;
-use Doctrine\Common\Collections\Collection;
 use Doctrine\ORM\Mapping as ORM;
 use Gedmo\Mapping\Annotation as Gedmo;
-use Ico\Bundle\UserBundle\Entity\User; // gedmo annotations
+use Ico\Bundle\UserBundle\Entity\User;
 
 /**
  * Campaign
  *
- * @ORM\Table(name="kingmaker_campaign")
- * @ORM\Entity(repositoryClass="Ico\Bundle\KingmakerBundle\Repository\CampaignRepository")
+ * @ORM\Table(name="base_campaign")
+ * @ORM\Entity(repositoryClass="Ico\Bundle\AppBundle\Repository\CampaignRepository")
+ * @ORM\InheritanceType("JOINED")
+ * @ORM\DiscriminatorColumn(name="discr", type="string")
+ * @ORM\DiscriminatorMap({
+ *     "campaign" = "Ico\Bundle\AppBundle\Entity\Campaign",
+ *     "kingmaker_campaign" = "Ico\Bundle\KingmakerBundle\Entity\KingmakerCampaign"
+ * })
  */
 class Campaign
 {
@@ -44,11 +48,6 @@ class Campaign
      * @ORM\Column(name="description", type="text", nullable=true)
      */
     private $description;
-    
-    /**
-     * @ORM\OneToMany(targetEntity="Map", mappedBy="campaign", cascade={"persist", "remove"})
-     */
-    protected $maps;
     
     /**
      * @ORM\ManyToOne(targetEntity="\Ico\Bundle\UserBundle\Entity\User")
@@ -216,44 +215,12 @@ class Campaign
     {
         return $this->slug;
     }
+
     /**
      * Constructor
      */
     public function __construct()
     {
-        $this->maps = new ArrayCollection();
-    }
 
-    /**
-     * Add maps
-     *
-     * @param Map $maps
-     * @return Campaign
-     */
-    public function addMap(Map $maps)
-    {
-        $this->maps[] = $maps;
-
-        return $this;
-    }
-
-    /**
-     * Remove maps
-     *
-     * @param Map $maps
-     */
-    public function removeMap(Map $maps)
-    {
-        $this->maps->removeElement($maps);
-    }
-
-    /**
-     * Get maps
-     *
-     * @return Collection
-     */
-    public function getMaps()
-    {
-        return $this->maps;
     }
 }
