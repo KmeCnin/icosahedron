@@ -20,7 +20,7 @@ class MapController extends Controller {
     public function indexAction($id_campaign, $id_map) {
 
         $campaign = $this->getDoctrine()
-                ->getRepository('IcoKingmakerBundle:Campaign')
+                ->getRepository('IcoKingmakerBundle:KingmakerCampaign')
                 ->find($id_campaign);
         $map = $this->getDoctrine()
                 ->getRepository('IcoKingmakerBundle:Map')
@@ -52,7 +52,6 @@ class MapController extends Controller {
 
     /**
      * @Route("/kingmaker/hex/explored", name="ico_kingmaker_hex_explored", options={"expose"=true})
-     * @Template()
      */
     public function hexSetExploredAction(Request $request) {
 
@@ -91,7 +90,6 @@ class MapController extends Controller {
 
     /**
      * @Route("/kingmaker/hex/annexed", name="ico_kingmaker_hex_annexed", options={"expose"=true})
-     * @Template()
      */
     public function hexSetAnnexedAction(Request $request) {
 
@@ -123,7 +121,7 @@ class MapController extends Controller {
             $em->flush();
 
             return new Response('Mise à jour réussie.');
-        } catch (Exception $e) {
+        } catch (\Exception $e) {
             echo 'Exception reçue : ', $e->getMessage(), "\n";
         }
     }

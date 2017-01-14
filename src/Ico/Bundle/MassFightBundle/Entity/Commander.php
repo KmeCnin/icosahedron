@@ -6,7 +6,7 @@ use DateTime;
 use Doctrine\Common\Collections\ArrayCollection;
 use Doctrine\ORM\Mapping as ORM;
 use Gedmo\Mapping\Annotation as Gedmo;
-use Ico\Bundle\KingmakerBundle\Entity\Campaign;
+use Ico\Bundle\KingmakerBundle\Entity\KingmakerCampaign;
 use Ico\Bundle\RulesBundle\Entity\Alignment;
 use Ico\Bundle\UserBundle\Entity\User;
 use Symfony\Component\Security\Core\User\User as User2;

@@ -14,7 +14,7 @@ use Symfony\Component\Security\Acl\Domain\UserSecurityIdentity;
 use Symfony\Component\Security\Acl\Permission\MaskBuilder;
 use Symfony\Component\Security\Core\Exception\AccessDeniedException;
 
-class CampaignController extends Controller {
+class KingmakerCampaignController extends Controller {
 
     /**
      * @Route("/kingmaker", name="ico_kingmaker")
@@ -38,7 +38,7 @@ class CampaignController extends Controller {
 
     /**
      * @Route("/kingmaker/nouvelle-campagne", name="ico_kingmaker_campaign_new")
-     * @Template("IcoKingmakerBundle:Campaign:edit.html.twig")
+     * @Template("IcoKingmakerBundle:KingmakerCampaign:edit.html.twig")
      */
     public function newAction(Request $request) {
 
@@ -121,7 +121,7 @@ class CampaignController extends Controller {
     public function editAction(Request $request, $id) {
 
         $campaign = $this->getDoctrine()
-                ->getRepository('IcoKingmakerBundle:Campaign')
+                ->getRepository('IcoKingmakerBundle:KingmakerCampaign')
                 ->find($id);
         if (!$campaign) {
             throw $this->createNotFoundException('Aucune campagne trouvée pour cet id : ' . $id);
@@ -166,7 +166,7 @@ class CampaignController extends Controller {
     public function viewAction($id) {
 
         $campaign = $this->getDoctrine()
-                ->getRepository('IcoKingmakerBundle:Campaign')
+                ->getRepository('IcoKingmakerBundle:KingmakerCampaign')
                 ->find($id);
         if (!$campaign) {
             throw $this->createNotFoundException('Aucune campagne trouvée pour cet id : ' . $id);
@@ -190,7 +190,7 @@ class CampaignController extends Controller {
     public function deleteAction($id) {
 
         $campaign = $this->getDoctrine()
-                ->getRepository('IcoKingmakerBundle:Campaign')
+                ->getRepository('IcoKingmakerBundle:KingmakerCampaign')
                 ->find($id);
         if (!$campaign) {
             throw $this->createNotFoundException('Aucune campagne trouvée pour cet id : ' . $id);
