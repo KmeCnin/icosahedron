@@ -8,7 +8,7 @@ use Doctrine\Common\Collections\ArrayCollection;
 use Doctrine\Common\Collections\Collection;
 use Doctrine\ORM\Mapping as ORM;
 use Gedmo\Mapping\Annotation as Gedmo;
-use Ico\Bundle\KingmakerBundle\Entity\Campaign;
+use Ico\Bundle\KingmakerBundle\Entity\KingmakerCampaign;
 use Ico\Bundle\RulesBundle\Entity\Gender;
 use Ico\Bundle\RulesBundle\Entity\SizeCategory;
 use Ico\Bundle\UserBundle\Entity\User;

@@ -5,10 +5,8 @@ namespace Ico\Bundle\MassFightBundle\Entity;
 use DateTime;
 use Doctrine\ORM\Mapping as ORM;
 use Gedmo\Mapping\Annotation as Gedmo;
-use Ico\Bundle\KingmakerBundle\Entity\Campaign;
 use Ico\Bundle\RulesBundle\Entity\Alignment;
 use Ico\Bundle\UserBundle\Entity\User;
-use Symfony\Component\Security\Core\User\User as User2;
 
 
 /**
@@ -192,7 +190,7 @@ class Army
      * Set name
      *
      * @param string $name
-     * @return Campaign
+     * @return $this
      */
     public function setName($name)
     {
@@ -215,7 +213,7 @@ class Army
      * Set created
      *
      * @param DateTime $created
-     * @return User2
+     * @return $this
      */
     public function setCreated($created)
     {
@@ -238,7 +236,7 @@ class Army
      * Set updated
      *
      * @param DateTime $updated
-     * @return User2
+     * @return $this
      */
     public function setUpdated($updated)
     {
@@ -261,7 +259,7 @@ class Army
      * Set createdBy
      *
      * @param User $createdBy
-     * @return Campaign
+     * @return $this
      */
     public function setCreatedBy(User $createdBy)
     {
@@ -284,7 +282,7 @@ class Army
      * Set slug
      *
      * @param string $slug
-     * @return Campaign
+     * @return $this
      */
     public function setSlug($slug)
     {

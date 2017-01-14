@@ -2,7 +2,7 @@
 
 namespace Ico\Bundle\MassFightBundle\Model;
 
-use Ico\Bundle\KingmakerBundle\Entity\Campaign;
+use Ico\Bundle\KingmakerBundle\Entity\KingmakerCampaign;
 
 abstract class Modificator
 {
