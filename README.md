@@ -2,7 +2,7 @@
 
 **Icosahedron** is a free, open-source platform designed in order to make life of *RPG players* easier.
 
-**Actual version:** Alpha v0.3.0
+**Current version:** Alpha v0.3.0
 
 ## Progress
 
