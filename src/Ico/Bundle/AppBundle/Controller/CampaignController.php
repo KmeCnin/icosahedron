@@ -20,11 +20,14 @@ class CampaignController extends Controller
      */
     public function indexAction()
     {
+        if (!$this->getUser()) {
+            $this->get('session')->getFlashBag()->add('warning', 'Vous devez être authentifié pour accéder aux campagnes.');
+            throw new AccessDeniedException();
+        }
+
         $campaigns = $this->getDoctrine()
             ->getRepository('IcoAppBundle:Campaign')
-            ->findAllByPlayer(
-                $this->get('security.token_storage')->getToken()->getUser()
-            );
+            ->findAllAs($this->getUser());
 
         return [
             'breadcrumb' => array(
@@ -40,11 +43,10 @@ class CampaignController extends Controller
      * @Route("/nouvelle-campagne", name="ico_campaign_new")
      * @Template("IcoAppBundle:Campaign:edit.html.twig")
      */
-    public function newAction(Request $request) {
-
-        $securityContext = $this->container->get('security.context');
-        if (!$securityContext->isGranted('IS_AUTHENTICATED_REMEMBERED')) {
-            $this->get('session')->getFlashBag()->add('warning', 'Vous devez être authentifié pour créer une nouvelle campagne.');
+    public function newAction(Request $request)
+    {
+        if (!$this->getUser()) {
+            $this->get('session')->getFlashBag()->add('warning', 'Vous devez être authentifié pour accéder aux campagnes.');
             throw new AccessDeniedException();
         }
 
@@ -89,6 +91,53 @@ class CampaignController extends Controller
             ),
             'title' => 'Nouvelle campagne',
             'subtitle' => 'Kingmaker',
+            'form' => $form->createView()
+        );
+    }
+
+    /**
+     * @Route("/campagnes/paramètres/{id}/{slug}", name="ico_campaign_edit")
+     * @Template()
+     */
+    public function editAction(Request $request, $id)
+    {
+
+        $campaign = $this->getDoctrine()
+            ->getRepository('IcoAppBundle:Campaign')
+            ->findOneAs($id, $this->getUser());
+
+        if (!$campaign) {
+            throw $this->createNotFoundException('Aucune campagne trouvée pour cet id : ' . $id);
+        }
+
+        $securityContext = $this->container->get('security.context');
+        if (false === $securityContext->isGranted('EDIT', $campaign)) {
+            $this->get('session')->getFlashBag()->add('warning', 'Vous n\'avez pas le droit d\'éditer cette campagne.');
+            throw new AccessDeniedException();
+        }
+
+        $form = $this->createForm('campaign', $campaign);
+        $form->handleRequest($request);
+
+        if ($form->isValid()) {
+            // Si un formulaire est soumis et est valide
+            $em = $this->getDoctrine()->getManager();
+            $em->persist($campaign);
+            $em->flush();
+
+            $this->get('session')->getFlashBag()->add('success', 'La campagne ' . $campaign->getName() . ' a été modifiée.');
+            return $this->redirect($this->generateUrl('ico_kingmaker_campaign_view', array('id' => $campaign->getId(), 'slug' => $campaign->getSlug())));
+        }
+
+        return array(
+            'breadcrumb' => array(
+                'Accueil' => 'ico',
+                'Kingmaker' => 'ico_kingmaker',
+                $campaign->getName() => ''
+            ),
+            'title' => $campaign->getName(),
+            'subtitle' => 'Paramètres',
+            'campaign' => $campaign,
             'form' => $form->createView()
         );
     }

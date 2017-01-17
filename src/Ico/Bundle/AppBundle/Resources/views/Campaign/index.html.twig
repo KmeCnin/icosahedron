@@ -22,12 +22,12 @@
             <th>Dernière modification</th>
         </tr>
         {% for campaign in list %}
-            <tr class="link" onclick="window.location.href = Routing.generate('ico_kingmaker_campaign_view', {id:{{ campaign.id }}, slug: '{{ campaign.slug }}'});">
+            <tr class="link" onclick="window.location.href = Routing.generate('ico_campaign_view', {id:{{ campaign.id }}, slug: '{{ campaign.slug }}'});">
                 <td>{{ campaign.name }}</td>
                 <td>{{ campaign.description }}</td>
                 <td>{{ campaign.createdBy.username }}</td>
                 <td>
-                    {% for player in players %}
+                    {% for player in campaign.players %}
                         {{ player.name }}
                     {% endfor %}
                 </td>

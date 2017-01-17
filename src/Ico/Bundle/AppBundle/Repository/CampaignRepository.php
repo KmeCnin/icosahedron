@@ -7,12 +7,26 @@ use Ico\Bundle\UserBundle\Entity\User;
 
 class CampaignRepository extends EntityRepository
 {
-    public function findAllByPlayer(User $user)
+    public function findAllAs(User $user)
     {
         return $this->createQueryBuilder('c')
             ->where('c.createdBy = :user')
-            ->join('c.players', 'p')
-            ->andWhere('p = :user')
+            ->leftJoin('c.players', 'p')
+            ->orWhere('p = :user')
+            ->setParameters([
+                'user' => $user,
+            ])
+            ->getQuery()
+            ->getResult()
+        ;
+    }
+
+    public function findOneAs(int $id, User $user)
+    {
+        return $this->createQueryBuilder('c')
+            ->where('c.createdBy = :user')
+            ->leftJoin('c.players', 'p')
+            ->orWhere('p = :user')
             ->setParameters([
                 'user' => $user,
             ])
