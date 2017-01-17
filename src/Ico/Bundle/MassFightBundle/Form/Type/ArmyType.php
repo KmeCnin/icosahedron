@@ -2,6 +2,7 @@
 
 namespace Ico\Bundle\MassFightBundle\Form\Type;
 
+use Ico\Bundle\AppBundle\Entity\Campaign;
 use Ico\Bundle\AppBundle\Form\TypeTrait\ResponsiveFormTypeTrait;
 use Ico\Bundle\MassFightBundle\Entity\Army;
 use Ico\Bundle\MassFightBundle\Entity\Commander;
@@ -33,15 +34,26 @@ class ArmyType extends AbstractType
                 'empty_data' => null,
                 'required' => false,
                 'attr' => [
-                    'formGroupClass' => self::$inputSmall,
+                    'formGroupClass' => self::$inputExtraSmall,
                     'clearfix' => self::$visibilityXs.self::$visibilitySm,
                 ],
             ])
             ->add('size', null, [
                 'label' => 'Nombre d\'unités',
                 'attr' => [
-                    'formGroupClass' => self::$inputSmall,
+                    'formGroupClass' => self::$inputExtraSmall,
                     'clearfix' => self::$visibilityXs.self::$visibilityMd,
+                ],
+            ])
+            ->add('campaign', EntityType::class, [
+                'label' => 'Campagne',
+                'class' => Campaign::class,
+                'choice_label' => 'name',
+                'empty_data' => null,
+                'required' => false,
+                'attr' => [
+                    'formGroupClass' => self::$inputSmall,
+                    'clearfix' => self::$visibilityXs.self::$visibilitySm,
                 ],
             ])
             ->add('type', null, array(

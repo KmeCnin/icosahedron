@@ -17,6 +17,8 @@ use Ico\Bundle\AppBundle\Entity\Campaign;
 class KingmakerCampaign extends Campaign
 {
     /**
+     * @var Map[]
+     *
      * @ORM\OneToMany(targetEntity="Map", mappedBy="campaign", cascade={"persist", "remove"})
      */
     protected $maps;

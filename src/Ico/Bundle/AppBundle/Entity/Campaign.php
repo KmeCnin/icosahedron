@@ -48,6 +48,22 @@ class Campaign
      * @ORM\Column(name="description", type="text", nullable=true)
      */
     private $description;
+
+    /**
+     * @var User[]
+     *
+     * @ORM\ManyToMany(targetEntity="Ico\Bundle\UserBundle\Entity\User")
+     * @ORM\JoinTable(
+     *     joinColumns={@ORM\JoinColumn(
+     *         referencedColumnName="id"
+     *     )},
+     *     inverseJoinColumns={@ORM\JoinColumn(
+     *         referencedColumnName="id",
+     *         unique=true
+     *     )}
+     * )
+     */
+    private $players;
     
     /**
      * @ORM\ManyToOne(targetEntity="\Ico\Bundle\UserBundle\Entity\User")
@@ -66,7 +82,6 @@ class Campaign
      * @Gedmo\Timestampable(on="update")
      */
     private $updated;
-
 
     /**
      * Get id
@@ -217,8 +232,24 @@ class Campaign
     }
 
     /**
-     * Constructor
+     * @return User[]
      */
+    public function getPlayers()
+    {
+        return $this->players;
+    }
+
+    /**
+     * @param User[] $players
+     * @return Campaign
+     */
+    public function setPlayers($players)
+    {
+        $this->players = $players;
+
+        return $this;
+    }
+
     public function __construct()
     {
 

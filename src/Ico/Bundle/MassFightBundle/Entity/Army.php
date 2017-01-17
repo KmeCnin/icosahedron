@@ -5,6 +5,7 @@ namespace Ico\Bundle\MassFightBundle\Entity;
 use DateTime;
 use Doctrine\ORM\Mapping as ORM;
 use Gedmo\Mapping\Annotation as Gedmo;
+use Ico\Bundle\AppBundle\Entity\Campaign;
 use Ico\Bundle\RulesBundle\Entity\Alignment;
 use Ico\Bundle\UserBundle\Entity\User;
 
@@ -46,6 +47,14 @@ class Army
      * @ORM\Column(type="string", length=255)
      */
     private $name;
+
+    /**
+     * @var Campaign
+     *
+     * @ORM\ManyToOne(targetEntity="Ico\Bundle\AppBundle\Entity\Campaign")
+     * @ORM\JoinColumn(nullable=true)
+     */
+    private $campaign;
 
     /**
      * @var int
@@ -557,6 +566,25 @@ class Army
     public function setCombatStats($combatStats)
     {
         $this->combatStats = $combatStats;
+
+        return $this;
+    }
+
+    /**
+     * @return Campaign
+     */
+    public function getCampaign()
+    {
+        return $this->campaign;
+    }
+
+    /**
+     * @param Campaign $campaign
+     * @return Army
+     */
+    public function setCampaign(Campaign $campaign)
+    {
+        $this->campaign = $campaign;
 
         return $this;
     }
